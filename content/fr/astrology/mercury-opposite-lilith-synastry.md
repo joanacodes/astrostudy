@@ -6,6 +6,8 @@ description: "Mercure opposition Lilith en synastrie : la raison de l’une fai
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Lilith", "opposition", "synastrie"]
 weight: 160
 glyph: "☿☍⚸"
 definition: "Mercure opposition Lilith en synastrie signifie que Mercure, chez une personne, se trouve à environ 180° de la Lilith de l’autre, à 6° près. Les mots raisonnés de l’une font face aux refus de l’autre : chacune voit chez l’autre ce qu’elle laisse de côté. Je vois là une balançoire entre diplomatie et franc-parler, qui marche à tour de rôle."

@@ -5,6 +5,8 @@ description: "Neptune in the 5th house in a birth chart: creativity as enchantme
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "5th house", "houses"]
 weight: 101
 glyph: "♆"
 definition: "Neptune in the 5th house is Neptune in the house of creativity, pleasure, play and romance. In a birth chart it turns joy into enchantment: art made from dreams, love that falls for what could be, and play that restores you. Tradition gave this house children; I never predict them."

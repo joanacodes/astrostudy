@@ -6,6 +6,8 @@ description: "Vénus conjonction Mars dans un thème natal : aimer et poursuivr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Mars", "conjonction"]
 weight: 155
 glyph: "♀☌♂"
 definition: "Vénus conjonction Mars signifie qu’au moment de votre naissance, Vénus et Mars n’avaient que quelques degrés d’écart, en général dans un seul signe. Dans un thème, ce qui vous plaît et la façon d’aller le chercher se fondent l’un dans l’autre : l’intérêt devient vite effort, et l’effort, attachement. Tout l’enjeu est de remarquer laquelle des deux fonctions mène."

@@ -5,6 +5,8 @@ description: "Can astrology pick investments? Why no chart can time a market or 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Readings"]
+tags: ["limits of astrology"]
 weight: 61
 glyph: "✦"
 definition: "No. Astrology can’t pick investments: no chart can say what a share, a currency or a property will do, or when to buy or sell. What a birth chart can describe is your relationship with money, how you earn, spend, save and feel secure, and that is worth knowing before you see a qualified adviser."

@@ -5,6 +5,8 @@ description: "Uranus square Lilith in a birth chart: the urge to change rubbing 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Lilith", "square"]
 weight: 322
 glyph: "♅□⚸"
 definition: "Uranus square Lilith means Uranus and mean Black Moon Lilith stood about 90° apart when you were born. In a chart, the urge to change and differ rubs against the part of you that refuses to be tamed, and the friction keeps asking for a freedom that needs no hiding. It is a personal aspect, not a generation’s."

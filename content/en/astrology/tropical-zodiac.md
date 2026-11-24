@@ -5,6 +5,8 @@ description: "The tropical zodiac in astrology: the signs counted from the March
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: ["zodiac"]
 weight: 4
 glyph: "♈"
 definition: "The tropical zodiac counts the signs from the March equinox: 0° Aries is where the Sun crosses the celestial equator heading north, and each sign follows in 30° steps, tied to the seasons rather than the stars. It is the zodiac of Western astrology, and the one I read in."

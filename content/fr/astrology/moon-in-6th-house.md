@@ -6,6 +6,8 @@ description: "Lune en maison 6 dans un thème natal : des émotions stabilisée
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "maison 6", "maisons"]
 weight: 18
 glyph: "☽"
 definition: "La Lune en maison 6 signifie que la Lune se trouvait dans la maison du travail quotidien, des habitudes et du soin du corps, que la tradition appelait la Fortune défavorable. J’y lis des émotions stabilisées par une journée qui fonctionne, et un soin fait de petits gestes. Elle ne prédit aucune maladie ; il faut l’heure de naissance."

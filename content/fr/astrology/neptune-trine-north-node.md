@@ -6,6 +6,8 @@ description: "Neptune trigone Nœud Nord dans un thème natal : l’imagination
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Nœud Nord", "trigone"]
 weight: 348
 glyph: "♆△☊"
 definition: "Si votre thème porte Neptune trigone Nœud Nord, Neptune y est à environ 120° du Nœud Nord et à environ 60° du Nœud Sud. La compassion et l’imagination coulent alors vers la direction où vous grandissez, avec un lien facile vers le terrain familier ; cette aisance aide, tant que la pratique suit."

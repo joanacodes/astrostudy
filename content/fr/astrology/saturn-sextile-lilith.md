@@ -6,6 +6,8 @@ description: "Saturne sextile Lilith dans un thème natal : une porte entre le 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Lilith", "sextile"]
 weight: 296
 glyph: "♄⚹⚸"
 definition: "Saturne sextile Lilith signifie qu’à la naissance, environ 60° séparaient Saturne de la Lune noire Lilith moyenne, en général entre des signes d’éléments compatibles. Dans un thème, il ouvre une porte entre la responsabilité et la part de vous qui refuse d’être dirigée : un débouché praticable pour votre indépendance, et un non calme, quand vous vous en servez."

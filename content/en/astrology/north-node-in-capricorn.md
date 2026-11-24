@@ -5,6 +5,8 @@ description: "North Node in Capricorn in a birth chart: taking your place in the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "Capricorn"]
 weight: 154
 glyph: "☊♑"
 definition: "North Node in Capricorn means the North Node, the point where the Moon’s path crosses the Sun’s going north, was in cardinal earth when you were born, opposite a South Node in Cancer. I read it as growth towards responsibility: a place in the world built steadily, on your own authority, after a habit of staying close to home."

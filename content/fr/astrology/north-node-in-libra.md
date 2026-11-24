@@ -6,6 +6,8 @@ description: "Nœud Nord en Balance dans un thème natal : un talent de soliste
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "Balance"]
 weight: 151
 glyph: "☊♎"
 definition: "Nœud Nord en Balance signifie qu’à votre naissance, le point où la route de la Lune rejoint celle du Soleil vers le nord se trouvait dans ce signe d’air cardinal, face à un Nœud Sud en Bélier. J’y lis une direction vers le duo : l’équité, le compromis, les décisions prises à deux, après une longue pratique du solo."

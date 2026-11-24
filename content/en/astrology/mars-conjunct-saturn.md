@@ -5,6 +5,8 @@ description: "Mars conjunct Saturn in a birth chart: drive and discipline in one
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Saturn", "conjunction"]
 weight: 205
 glyph: "♂☌♄"
 definition: "Mars conjunct Saturn brings Mars and Saturn within a few degrees of each other in your birth chart. There it binds the urge to act to the urge to structure: effort comes measured, tested and built to last. I read it as drive learning its own pace: stamina in the making, never effort wasted."

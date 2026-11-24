@@ -5,6 +5,8 @@ description: "Mercury conjunct Chiron in synastry: one person’s words land whe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Chiron", "conjunction", "synastry"]
 weight: 151
 glyph: "☿☌⚷"
 definition: "Mercury conjunct Chiron in synastry means one person’s Mercury sits within 6° of the other’s Chiron. The way one of them asks and explains lands right where the other has had to adapt. I read it as a sensitive meeting that asks for careful words, and can teach both people a new way of talking."

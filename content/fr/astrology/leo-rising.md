@@ -6,6 +6,8 @@ description: "Ascendant Lion : de la chaleur sur le seuil, le Soleil maître du
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "Lion"]
 weight: 5
 glyph: "↑♌"
 definition: "Un ascendant Lion signifie que le Lion, signe de feu fixe gouverné par le Soleil, se levait à l’horizon est à votre naissance : votre ascendant est en Lion. Il décrit une façon chaleureuse et généreuse d’aborder le monde, vite remarquée. L’un des signes les plus lents à se lever dans le Nord, il met près de trois heures à Londres."

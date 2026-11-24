@@ -6,6 +6,8 @@ description: "Lune opposition Lilith en synastrie : l’une garde le nid, l’a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Lilith", "opposition", "synastrie"]
 weight: 110
 glyph: "☽☍⚸"
 definition: "Lune opposition Lilith en synastrie signifie que la Lune d’une personne fait face à la Lune noire Lilith moyenne de l’autre, à 8° près. Le besoin de lien de l’une se tient en face du refus de toute attache chez l’autre, et chacune rencontre chez l’autre une part rangée. Pour moi, c’est un équilibre qui se garde en bougeant."

@@ -5,6 +5,8 @@ description: "Mars trine Pluto in a birth chart: staying power and depth that fl
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Pluto", "trine"]
 weight: 223
 glyph: "♂△♇"
 definition: "Mars trine Pluto joins drive and depth at about 120°, usually in signs of one element. In a chart it gives effort a steady, regenerating strength: you can commit deeply, recover from setbacks and change things without drama. I read it as staying power that comes naturally, best spent on something that deserves it."

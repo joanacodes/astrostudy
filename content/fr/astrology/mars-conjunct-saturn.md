@@ -6,6 +6,8 @@ description: "Mars conjonction Saturne dans un thème natal : l’élan et la d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Saturne", "conjonction"]
 weight: 205
 glyph: "♂☌♄"
 definition: "Mars conjonction Saturne réunit Mars et Saturne à quelques degrés près dans votre thème natal. L’envie d’agir s’y lie à l’envie de structurer : l’effort vient mesuré, éprouvé, fait pour durer. J’y lis un élan qui apprend son propre rythme, une endurance en devenir, jamais un effort qui ne mène nulle part."

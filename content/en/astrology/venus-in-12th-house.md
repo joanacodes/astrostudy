@@ -5,6 +5,8 @@ description: "Venus in the 12th house in a birth chart: a private, tender heart,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "12th house", "houses"]
 weight: 48
 glyph: "♀"
 definition: "Venus in the 12th house means Venus had just risen when you were born, in the hidden twelfth house, whose natural sign is Pisces, its exaltation. It describes a private, tender way of loving, a need for beauty and quiet, and kindness given without being asked. It needs an exact birth time."

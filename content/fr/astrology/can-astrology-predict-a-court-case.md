@@ -6,6 +6,8 @@ description: "L’astrologie peut-elle prédire un procès ? Aucun thème ne d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Lectures"]
+tags: ["limites de l’astrologie"]
 weight: 60
 glyph: "✦"
 definition: "Non. Aucun thème, aucun transit ni aucune question horaire ne peut dire qui gagnera un procès, ce que décidera un tribunal, combien de temps cela prendra, ni s’il faut transiger. L’astrologie horaire jugeait autrefois les procès ; je ne lis jamais les procédures en cours. Un thème peut décrire votre rapport au conflit. Votre dossier relève d’un avocat."

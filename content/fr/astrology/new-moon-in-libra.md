@@ -6,6 +6,8 @@ description: "La nouvelle lune en Balance, la première après l’équinoxe de 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "nouvelle lune", "Balance"]
 weight: 42
 glyph: "●♎"
 definition: "La nouvelle lune en Balance, c’est la rencontre du Soleil et de la Lune en Balance, une fois par an, dans les semaines qui suivent l’équinoxe de septembre. Elle ouvre un mois lunaire tourné vers l’autre : les accords, l’équité, les termes d’une relation. Dans un thème natal, elle ne compte qu’à 1° environ d’une planète ou d’un angle."

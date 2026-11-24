@@ -6,6 +6,8 @@ description: "Jupiter carré Nœud Nord dans un thème natal : le sens à angle
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Nœud Nord", "carré"]
 weight: 272
 glyph: "♃□☊"
 definition: "Jupiter carré Nœud Nord désigne Jupiter à environ 90° du Nœud Nord, et donc à 90° du Nœud Sud aussi : à angle droit de tout l’axe. Dans un thème, le sens se tient en travers du chemin entre les forces familières et la croissance nouvelle. J’y lis une part de vous qui demande à être emmenée, pas une route barrée."

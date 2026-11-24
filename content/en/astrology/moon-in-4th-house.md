@@ -5,6 +5,8 @@ description: "Moon in the 4th house in a birth chart: home and roots at the cent
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "4th house", "houses"]
 weight: 16
 glyph: "☽"
 definition: "Moon in the 4th house means the Moon sat in the house of home, family and roots, whose natural sign is Cancer, the sign the Moon rules. I read it as a deep need for a nest, a long memory for your origins, and a private self that opens fully at home. It needs the birth time."

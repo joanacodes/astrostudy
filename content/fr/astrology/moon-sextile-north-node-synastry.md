@@ -6,6 +6,8 @@ description: "Lune sextile Nœud Nord en synastrie : les besoins de l’une ouv
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Nœud Nord", "sextile", "synastrie"]
 weight: 112
 glyph: "☽⚹☊"
 definition: "Lune sextile Nœud Nord en synastrie signifie que la Lune d’une personne se trouve à environ 60° du Nœud Nord de l’autre, à 4,8° près, ce qui la met vers 120° de son Nœud Sud. Les besoins de l’une s’accordent aux habitudes de l’autre et lui ouvrent de petites portes : une ouverture à saisir."

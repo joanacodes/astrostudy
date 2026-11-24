@@ -5,6 +5,8 @@ description: "Sun opposite Chiron in a birth chart: your sense of self facing a 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Chiron", "opposition"]
 weight: 42
 glyph: "☉☍⚷"
 definition: "Sun opposite Chiron means Chiron stood roughly opposite your Sun at birth, about 180° along the zodiac. In a chart your sense of self faces a tender place, often met through other people: those you help, and those who touch the sore spot. I read it as a balance between caring for others and letting yourself be cared for."

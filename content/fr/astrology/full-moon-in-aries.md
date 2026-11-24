@@ -6,6 +6,8 @@ description: "La pleine lune en Bélier, le Soleil en face en Balance : l’axe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "pleine lune", "Bélier"]
 weight: 48
 glyph: "○♈"
 definition: "La pleine lune en Bélier, c’est la Lune en Bélier face au Soleil en Balance, une fois par an, entre fin septembre et fin octobre. Elle éclaire l’axe Bélier–Balance : vos besoins face à ce que vous devez aux autres. Dans un thème, elle compte à 1° environ d’une planète ou d’un angle, à l’un ou l’autre bout."

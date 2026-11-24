@@ -6,6 +6,8 @@ description: "Saturne conjonction Neptune dans un thème natal : les rencontres
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Neptune", "conjonction"]
 weight: 280
 glyph: "♄☌♆"
 definition: "Saturne conjonction Neptune, c’est la rencontre des deux planètes, à quelques degrés près. Elle a eu lieu en Balance en 1952–1953 et en Capricorne en 1988–1990 : des générations entières la partagent. Dans un thème, elle unit l’envie de donner aux choses une forme ferme et celle d’imaginer sans limites : un rêve qui demande à être bâti."

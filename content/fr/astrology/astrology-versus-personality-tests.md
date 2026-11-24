@@ -6,6 +6,8 @@ description: "Astrologie et tests de personnalité : ce que mesurent le Big Fiv
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["test"]
 weight: 22
 glyph: "✦"
 definition: "Les tests de personnalité sont des questionnaires : vous vous décrivez, et vous obtenez des scores (Big Five) ou un type (MBTI). La recherche soutient mieux les traits du premier que les types du second. Un thème part du moment et du lieu de naissance ; dans un test contrôlé, les thèmes n’ont pas fait mieux que le hasard."

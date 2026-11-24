@@ -6,6 +6,8 @@ description: "Lune en maison 4 dans un thème natal : le foyer et les racines a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "maison 4", "maisons"]
 weight: 16
 glyph: "☽"
 definition: "La Lune en maison 4 signifie que la Lune se trouvait dans la maison du foyer, de la famille et des racines, dont le signe naturel est le Cancer, son propre signe. J’y lis un grand besoin de nid, une longue mémoire de vos origines, et une part privée qui s’ouvre au foyer. Il faut l’heure de naissance."

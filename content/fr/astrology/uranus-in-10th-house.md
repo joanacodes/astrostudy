@@ -6,6 +6,8 @@ description: "Uranus en maison 10 dans un thème natal : une direction publique
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "maison 10", "maisons"]
 weight: 94
 glyph: "♅"
 definition: "Uranus en maison 10 place la planète du changement près du sommet du thème, dans la maison angulaire de la vie publique, du travail et de la réputation, qui commence au Milieu du Ciel en Placidus. J’y lis une direction dans le monde que vous inventez plutôt que d’en hériter. Il faut une heure de naissance exacte."

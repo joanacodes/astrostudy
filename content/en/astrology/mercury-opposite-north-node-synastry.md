@@ -5,6 +5,8 @@ description: "Mercury opposite North Node in synastry: one person’s Mercury on
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "North Node", "opposition", "synastry"]
 weight: 165
 glyph: "☿☍☊"
 definition: "Mercury opposite North Node in synastry means one person’s Mercury is about 180° from the other’s North Node, within 6°, which puts it on their South Node. One person’s way of talking lands on the other’s familiar ground. I read it as easy, restful conversation that can become a launch pad, or a rut, depending on use."

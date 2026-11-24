@@ -6,6 +6,8 @@ description: "La polarité : signes actifs et réceptifs, les anciennes étique
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 17
 glyph: "+/−"
 definition: "En astrologie, la polarité désigne deux choses. Les signes alternent entre actifs, les signes de feu et d’air, et réceptifs, les signes de terre et d’eau, qu’on disait autrefois masculins et féminins. Et chaque signe a son opposé de l’autre côté du cercle, soit six axes. Les deux parlent d’équilibre, jamais de genre ni de bien et de mal."

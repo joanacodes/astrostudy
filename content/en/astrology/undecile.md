@@ -5,6 +5,8 @@ description: "The undecile in astrology: two planets 32°44′ apart, an elevent
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["undecile", "minor aspects"]
 weight: 20
 glyph: "✦"
 definition: "An undecile is an eleventh of the circle between two planets: about 32°44′, just beyond the semi-sextile. Within a birth chart, it shows difference emerging: two planets that together produce an unusual pattern, a variation of their own. It doesn’t make anyone exceptional or unstable; it shows where you differ, and how that difference holds together."

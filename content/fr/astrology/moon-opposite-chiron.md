@@ -6,6 +6,8 @@ description: "Lune opposition Chiron dans un thème natal : votre besoin de ré
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Chiron", "opposition"]
 weight: 97
 glyph: "☽☍⚷"
 definition: "Lune opposition Chiron signifie que votre Lune et Chiron se faisaient face d’un bout à l’autre du zodiaque à votre naissance, à environ 180°. Cette opposition place votre besoin de réconfort face à une sensibilité durable, deux bouts d’un axe souvent rencontrés à travers vos proches. J’y lis l’apprentissage de laisser tendresse et savoir-faire vivre côte à côte."

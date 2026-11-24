@@ -5,6 +5,8 @@ description: "The quintile in astrology: two planets 72° apart, a fifth of the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["quintile", "minor aspects"]
 weight: 10
 glyph: "✦"
 definition: "A quintile is an angle of 72° between two planets, a fifth of the circle, two or three signs apart. In a birth chart it marks two planets that can organise each other into a pattern: a capacity for craft, for shaping raw material into a form. It describes a potential to work at, not a talent handed over."

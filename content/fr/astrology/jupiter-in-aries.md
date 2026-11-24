@@ -6,6 +6,8 @@ description: "Jupiter en Bélier dans un thème natal : grandir en ouvrant la m
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Bélier"]
 weight: 61
 glyph: "♃♈"
 definition: "Jupiter en Bélier, c’est la planète de la croissance et du sens dans le premier signe du zodiaque, un signe de feu cardinal gouverné par Mars. Les personnes nées la même année, à peu près, partagent ce placement. J’y lis une compréhension qui naît de l’expérience directe : vous découvrez ce que vous croyez en vous lançant."

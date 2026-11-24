@@ -6,6 +6,8 @@ description: "Mercure carré Vénus en synastrie : un contact impossible à la 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Vénus", "carré", "synastrie"]
 weight: 118
 glyph: "☿□♀"
 definition: "Mercure carré Vénus en synastrie signifie que Mercure, chez une personne, se trouve à environ 90° de la Vénus de l’autre, à 5,1° près, un angle qu’aucun thème seul ne contient. Le raisonnement de l’une croise ce que l’autre estime, et le ton s’entend avant le fond. Pour moi, cette friction enseigne la précision et le tact."

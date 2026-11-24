@@ -6,6 +6,8 @@ description: "Vénus opposition Neptune dans un thème natal : ce que vous choi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Neptune", "opposition"]
 weight: 179
 glyph: "♀☍♆"
 definition: "Vénus opposition Neptune signifie qu’à votre naissance, Vénus et Neptune se trouvaient à environ 180° d’écart, de part et d’autre du zodiaque. Dans un thème, ce que vous aimez et ce que vous idéalisez se font face, le choisi et l’imaginé. J’y lis une polarité qui apprend à aimer avec clarté, souvent à travers les autres."

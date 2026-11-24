@@ -5,6 +5,8 @@ description: "Mercury trine Saturn in synastry: one person’s thinking and the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Saturn", "trine", "synastry"]
 weight: 134
 glyph: "☿△♄"
 definition: "Mercury trine Saturn in synastry puts one person’s Mercury about 120° from the other’s Saturn, within 5.1°, usually in one element. The first person’s thinking and the second’s sense of structure keep an easy pace together, so plans get made and kept. I read it as trust built through talk, worth keeping playful."

@@ -6,6 +6,8 @@ description: "Mercure sextile Lilith en synastrie : une permission facile de di
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Lilith", "sextile", "synastrie"]
 weight: 157
 glyph: "☿⚹⚸"
 definition: "Mercure sextile Lilith en synastrie signifie que Mercure, chez une personne, se trouve à environ 60° de la Lilith de l’autre, à 3,6° près. La façon de parler de l’une aide l’autre à dire ce qu’elle retient, et cette franchise libère en retour la pensée de la première. J’y lis une permission, utile si l’on s’en sert."

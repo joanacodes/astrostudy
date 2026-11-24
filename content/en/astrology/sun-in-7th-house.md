@@ -5,6 +5,8 @@ description: "Sun in the 7th house in a birth chart: born late in the afternoon,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "7th house", "houses"]
 weight: 7
 glyph: "☉"
 definition: "Sun in the 7th house means the Sun was low in the west in the late afternoon when you were born, in the angular house that begins at the Descendant. I read it as an identity worked out face to face, with partners, clients, rivals, and a lesson in keeping your own light on. It needs the birth time."

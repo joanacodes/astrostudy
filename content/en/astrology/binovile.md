@@ -5,6 +5,8 @@ description: "The binovile in astrology: two planets 80° apart, two-ninths of t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["binovile", "minor aspects"]
 weight: 16
 glyph: "✦"
 definition: "The binovile is an 80° angle between two planets, two-ninths of the circle, usually three signs apart. In a natal chart, it describes two ripenings running side by side: both planets mature at once, each in its own way, and their growth keeps folding back into a shared, more coherent whole. Maturing is not perfecting."

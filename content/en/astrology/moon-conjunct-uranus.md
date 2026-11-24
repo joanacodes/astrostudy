@@ -5,6 +5,8 @@ description: "Moon conjunct Uranus in a birth chart: the need for safety and the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Uranus", "conjunction"]
 weight: 78
 glyph: "☽☌♅"
 definition: "Moon conjunct Uranus means you were born on one of the days, each month, when the Moon passes Uranus: the two within a few degrees, usually in one sign. It fuses what you need to feel safe with the urge to be free and different. I read it as originality in feeling, not instability."

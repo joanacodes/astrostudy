@@ -5,6 +5,8 @@ description: "Saturn trine Lilith in a birth chart: responsibility and your unta
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Lilith", "trine"]
 weight: 298
 glyph: "♄△⚸"
 definition: "Saturn trine Lilith means Saturn and mean Black Moon Lilith were about 120° apart at birth, usually in one element. In a chart, responsibility and the instinct for self-rule reinforce each other: you can be reliable without being tame, and your refusals tend to come with a plan rather than a slammed door."

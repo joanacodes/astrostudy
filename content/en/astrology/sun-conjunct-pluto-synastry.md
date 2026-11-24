@@ -5,6 +5,8 @@ description: "Sun conjunct Pluto in synastry: one person’s depth meets the oth
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Pluto", "conjunction", "synastry"]
 weight: 41
 glyph: "☉☌♇"
 definition: "Sun conjunct Pluto in synastry brings one person’s capacity for depth and renewal right onto the other’s identity, Pluto lying within 8° of that Sun. One feels seen to the core, the other deeply invested. I read it as a contact that can strengthen a self, as long as the change stays chosen."

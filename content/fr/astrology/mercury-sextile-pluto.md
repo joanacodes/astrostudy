@@ -6,6 +6,8 @@ description: "Mercure sextile Pluton dans un thème natal : la lucidité sur de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Pluton", "sextile"]
 weight: 136
 glyph: "☿⚹♇"
 definition: "Mercure sextile Pluton est un contact de 60° à la naissance entre l’esprit et la planète de la transformation, en général par des signes à deux d’écart. Dans un thème, la pensée de tous les jours peut atteindre une vraie profondeur dès que vous posez la question. J’y lis un outil de lucidité, d’autant plus affûté qu’on s’en sert."

@@ -68,23 +68,11 @@
     {{- end }}
 
     {{- /* the articles that mention this entry, newest first: the way back from the encyclopaedia to the
-           blog, kept up by itself as articles are added */}}
+           blog, kept up by itself as articles are added. They lead the "Must reads" at the bottom. */}}
     {{- $terms := partial "entry-terms.html" . }}
     {{- $posts := slice }}
     {{- range (where site.RegularPages "Section" "blog").ByDate.Reverse }}
-    {{- $p := . }}{{ $hit := false }}
-    {{- if partial "names.html" (dict "text" $p.Plain "terms" $terms) }}{{ $hit = true }}{{ end }}
-    {{- if $hit }}{{ $posts = $posts | append $p }}{{ end }}
-    {{- end }}
-    {{- with first 6 $posts }}
-    <div class="blog-after">
-      <p class="label">{{ i18n "encInBlog" }}</p>
-      <ul class="post-list">
-        {{- range . }}
-        <li><a href="{{ .RelPermalink }}"><span><span class="post-list__title">{{ .Title }}</span><span class="article-meta">{{ partial "post-meta.html" . }}</span></span><span class="post-list__arrow" aria-hidden="true">→</span></a></li>
-        {{- end }}
-      </ul>
-    </div>
+    {{- if partial "names.html" (dict "text" .Plain "terms" $terms) }}{{ $posts = $posts | append . }}{{ end }}
     {{- end }}
 
     {{- with .Params.sources }}
@@ -101,6 +89,8 @@
       </ul>
     </div>
     {{- end }}
+
+    {{ partial "must-reads.html" (dict "page" . "skip" $related "named" $posts) }}
   </div>
 </article>
 {{ partial "toc-folder.html" . }}

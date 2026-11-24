@@ -5,6 +5,8 @@ description: "Mars in the 6th house in a birth chart: Mars in its joy, effort fo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "6th house", "houses"]
 weight: 54
 glyph: "♂"
 definition: "In the 6th house, Mars is in its joy, in the house tradition called Bad Fortune: daily work, routines, colleagues and the care of the body. It describes energetic, practical effort, at its best with a task in hand. It needs an exact birth time; tradition gave the house illness, and a chart predicts none."

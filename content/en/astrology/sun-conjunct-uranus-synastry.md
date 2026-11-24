@@ -5,6 +5,8 @@ description: "Sun conjunct Uranus in synastry: one person’s urge to renew meet
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Uranus", "conjunction", "synastry"]
 weight: 31
 glyph: "☉☌♅"
 definition: "Sun conjunct Uranus in synastry pairs one person’s Sun with the other’s Uranus, within 8°, so an urge to renew and to differ sits right on someone else’s identity. The Sun person often feels freer, the Uranus person inspired. To me it’s a contact that updates a self, and I watch whose changes they are."

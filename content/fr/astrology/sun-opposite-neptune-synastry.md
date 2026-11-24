@@ -6,6 +6,8 @@ description: "Soleil opposition Neptune en synastrie : l’une trace des lignes
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Neptune", "opposition", "synastrie"]
 weight: 40
 glyph: "☉☍♆"
 definition: "Soleil opposition Neptune en synastrie place le sens net de soi d’une personne de l’autre côté du zodiaque par rapport à l’imaginaire de l’autre, Neptune et le Soleil se faisant face à 8° près. L’une définit, l’autre ouvre. J’y lis une polarité entre définition et ouverture, à équilibrer à deux, avec le temps."

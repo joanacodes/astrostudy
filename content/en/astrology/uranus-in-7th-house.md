@@ -5,6 +5,8 @@ description: "Uranus in the 7th house in a birth chart: freedom inside partnersh
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "7th house", "houses"]
 weight: 91
 glyph: "♅"
 definition: "Uranus in the 7th house puts the planet of change in the angular house of partners and one-to-one bonds, which begins at the Descendant. I read it as a need for freedom inside close relationships, and a pull towards independent, unconventional partners. It doesn’t predict marriage or divorce, and it needs the birth time."

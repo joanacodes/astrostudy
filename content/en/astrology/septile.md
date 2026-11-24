@@ -5,6 +5,8 @@ description: "The septile in astrology: two planets 51°26′ apart, a seventh o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["septile", "minor aspects"]
 weight: 12
 glyph: "✦"
 definition: "A septile is a seventh of the circle between two planets: 51°26′, an angle that never falls on a whole degree. In a birth chart it marks a pattern that emerges by repetition, a way two planets organise each other that you recognise only after it has come round a few times. It describes cycles, never fate."

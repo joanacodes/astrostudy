@@ -5,6 +5,8 @@ description: "Saturn trine Neptune in a birth chart: imagination and structure i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Neptune", "trine"]
 weight: 283
 glyph: "♄△♆"
 definition: "Saturn trine Neptune links Saturn and Neptune at about 120°, usually from signs of one element, and whole runs of births shared it from 1930 to 2002. In a chart it lets imagination and discipline keep the same pace: ideals get built steadily and care is sustained without drama, as long as you give it a direction."

@@ -6,6 +6,8 @@ description: "Le sesqui-carré en astrologie : deux planètes à 135°, un carr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["sesqui-carré", "aspects mineurs"]
 weight: 8
 glyph: "⚼"
 definition: "Le sesqui-carré est un angle de 135° entre deux planètes : un carré et demi, trois huitièmes du cercle, à quatre ou cinq signes d’écart. Dans un thème natal, il marque une tension en deux couches qu’aucune petite retouche ne règle : il demande de rebâtir un arrangement autour des deux planètes, pas de rapiécer une habitude."

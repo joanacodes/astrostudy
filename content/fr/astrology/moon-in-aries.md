@@ -6,6 +6,8 @@ description: "Lune en Bélier dans un thème natal : des émotions qui arrivent
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Bélier"]
 weight: 13
 glyph: "☽♈"
 definition: "La Lune en Bélier signifie que la Lune se trouvait en Bélier à votre naissance. J’y lis des émotions qui arrivent avec toute leur force et demandent à passer à l’acte, un réconfort qui vient du mouvement plutôt que des paroles apaisantes, et un calme qui revient vite une fois le premier élan dépensé."

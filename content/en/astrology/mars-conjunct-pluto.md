@@ -5,6 +5,8 @@ description: "Mars conjunct Pluto in a birth chart: effort and transformation in
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Pluto", "conjunction"]
 weight: 220
 glyph: "♂☌♇"
 definition: "Mars conjunct Pluto is the planet of effort and the planet of transformation within a few degrees of each other. In a chart it fuses drive with depth: when you commit, you commit fully, and your effort aims to change things at the root. I read it as concentrated, self-renewing willpower, never as a licence to dominate."

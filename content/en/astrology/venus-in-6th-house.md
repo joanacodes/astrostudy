@@ -5,6 +5,8 @@ description: "Venus in the 6th house in a birth chart: grace in ordinary tasks, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "6th house", "houses"]
 weight: 42
 glyph: "♀"
 definition: "Venus in the 6th house puts the planet of value and harmony among the chores, routines and colleagues of the working day; the house’s natural sign is Virgo, its fall. It describes grace brought to ordinary tasks, a need for a pleasant workplace and easy colleagues, and affection shown through daily care. Without a birth time it can’t be placed."

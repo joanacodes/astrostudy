@@ -5,6 +5,8 @@ description: "Are some signs toxic? No sign is. What a census study found about 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["zodiac signs", "testing"]
 weight: 21
 glyph: "✦"
 definition: "No. No sign is toxic, and no sign makes a person cruel, unfaithful or cold. Sun-sign stereotypes aren’t facts: a study of more than 20 million people in England and Wales found no link between star signs and marriage, and sun-sign traits turn up only in people who know astrology. Harm belongs to behaviour, not birthdays."

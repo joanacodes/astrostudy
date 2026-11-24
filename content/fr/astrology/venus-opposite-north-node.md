@@ -6,6 +6,8 @@ description: "Vénus opposition Nœud Nord dans un thème natal : Vénus sur le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Nœud Nord", "opposition"]
 weight: 199
 glyph: "♀☍☊"
 definition: "Vénus opposition Nœud Nord signifie qu’à votre naissance, Vénus se trouvait à environ 180° du Nœud Nord, donc sur le Nœud Sud. Dans un thème, évaluer et entrer en relation sont des forces familières, et la croissance demandée se trouve de l’autre côté du thème. J’y lis une ressource à emporter en terrain neuf, jamais une habitude à fuir."

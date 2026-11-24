@@ -6,6 +6,8 @@ description: "Lune conjonction Lilith en synastrie : les réconforts de l’une
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Lilith", "conjonction", "synastrie"]
 weight: 106
 glyph: "☽☌⚸"
 definition: "Lune conjonction Lilith en synastrie signifie que la Lune d’une personne se trouve à moins de 8° de la Lune noire Lilith moyenne de l’autre. Ce qui apaise l’une occupe le degré même où l’autre refuse d’être apprivoisée. J’y lis une proximité où ce qui était caché peut entrer, tant qu’il reste à qui le porte."

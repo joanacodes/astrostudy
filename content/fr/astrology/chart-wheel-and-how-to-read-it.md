@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["roue du thème"]
 family: "foundations"
+categories: ["Les bases"]
+tags: []
 weight: 11
 glyph: "✦"
 definition: "La roue du thème est le thème natal dessiné en cercle : le zodiaque sur le pourtour, les douze maisons à l’intérieur, les planètes placées à leur degré et, au centre, des lignes pour les aspects. L’ascendant est à gauche, les maisons se suivent à partir de lui en sens antihoraire, et le ciel tourne chaque jour dans l’autre sens."

@@ -6,6 +6,8 @@ description: "Soleil sextile Uranus dans un thème natal : des occasions de vou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Uranus", "sextile"]
 weight: 24
 glyph: "☉⚹♅"
 definition: "Soleil sextile Uranus met votre Soleil et Uranus en lien à environ 60°, deux signes de distance, le plus souvent entre éléments complémentaires. Dans un thème, le changement s’offre à votre but comme un allié plutôt que comme une alarme. J’y lis un talent pour se réinventer au bon moment, qui fonctionne quand vous choisissez de vous en servir."

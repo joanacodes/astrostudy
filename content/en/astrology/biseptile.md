@@ -5,6 +5,8 @@ description: "The biseptile in astrology: two planets 102°51′ apart, two-seve
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["biseptile", "minor aspects"]
 weight: 13
 glyph: "✦"
 definition: "The biseptile is an angle of two-sevenths of the circle, about 102°51′, between two planets usually three signs apart. In a birth chart it traces differentiation that repeats: two planets that branch a little further apart each time they meet a situation, each finding its own way while staying coordinated."

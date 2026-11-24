@@ -5,6 +5,8 @@ description: "Neptune in Pisces in a birth chart: Neptune at home, the sign of e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Pisces"]
 weight: 108
 glyph: "♆♓"
 definition: "Neptune in Pisces is Neptune, the planet of transcendence and compassion, in its own sign for modern tropical astrology; the tradition gave Pisces to Jupiter. It was there from April 2011 to January 2026, so everyone born with it is still a child. I read it as a generation’s placement, where edges between people, art and belief grow thin."

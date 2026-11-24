@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["superpositions de maisons", "superposition de maisons"]
 family: "techniques"
+categories: ["Synastrie"]
+tags: ["synastrie"]
 weight: 53
 glyph: "✦"
 definition: "Les superpositions de maisons placent les planètes d’une personne dans les maisons de l’autre : la Vénus de l’autre dans votre maison 7, Saturne de votre thème dans sa maison 1. Chacune montre quel domaine de votre vie l’autre tend à éclairer ou à remuer, et l’inverse. Elles demandent votre heure de naissance, et décrivent une rencontre, jamais ce qui arrivera."

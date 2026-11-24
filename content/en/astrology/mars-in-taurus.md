@@ -5,6 +5,8 @@ description: "Mars in Taurus in a birth chart: Mars in detriment, drive that bui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Taurus"]
 weight: 50
 glyph: "♂♉"
 definition: "Mars in Taurus is drive slowed to the pace of fixed earth: the planet of effort in Venus’s sign of what lasts, and, for tradition, Mars’s detriment. It describes stamina before speed: you start slowly, push steadily, and are very hard to turn aside once you’ve chosen. It belongs to about 1 person in 13 born 1930–2009."

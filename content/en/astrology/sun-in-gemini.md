@@ -5,6 +5,8 @@ description: "Sun in Gemini in a birth chart: a self made of several voices and 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini"]
 weight: 3
 glyph: "☉♊"
 definition: "Sun in Gemini, the Sun sign for births from about 21 May to 20 June, puts the centre of a chart in mutable air, ruled by Mercury. I read it as an identity that works like a conversation, a vitality fed by exchange, and a purpose found by asking questions, with coherence as its real lifelong work."

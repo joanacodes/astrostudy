@@ -5,6 +5,8 @@ description: "Saturn in the 4th house in a birth chart: home, roots and early re
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "4th house", "houses"]
 weight: 76
 glyph: "♄"
 definition: "Saturn in the 4th house sits at the bottom of the chart, near the IC, in the house of home, roots and the private self. It describes responsibility taken on early at home, a sense of belonging that has to be built, and a home made later, slowly, that becomes the one you trust."

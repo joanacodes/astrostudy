@@ -6,6 +6,8 @@ description: "Uranus en maison 9 dans un thème natal : une vision du monde bâ
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "maison 9", "maisons"]
 weight: 93
 glyph: "♅"
 definition: "Uranus en maison 9 place la planète du changement dans la maison des convictions, des études supérieures et des longs voyages, une maison cadente dont le signe naturel est le Sagittaire. J’y lis une vision du monde bâtie en questionnant, des croyances qui rompent avec celles reçues. Ce placement demande l’heure de naissance."

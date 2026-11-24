@@ -5,6 +5,8 @@ description: "Sun sextile Saturn in synastry: one person’s patience and method
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Saturn", "sextile", "synastry"]
 weight: 27
 glyph: "☉⚹♄"
 definition: "Sun sextile Saturn in synastry is an offer of method between two people: one person’s Saturn about 60° from the other’s Sun, within 4.8°, two signs apart. The Saturn person’s patience is there for the Sun person’s aims. I read it as slow, practical help that works once it is asked for and taken up."

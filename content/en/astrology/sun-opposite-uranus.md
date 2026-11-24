@@ -5,6 +5,8 @@ description: "Sun opposite Uranus in a birth chart: a steady self facing the nee
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Uranus", "opposition"]
 weight: 27
 glyph: "☉☍♅"
 definition: "Sun opposite Uranus means Uranus stood across the zodiac from your Sun at birth, about 180° away. In a chart it sets your sense of who you are against your need to change and break free, and the freer end is often met in other people first. I read it as a balance to find, never a contradiction."

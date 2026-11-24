@@ -5,6 +5,8 @@ description: "Saturn conjunct North Node in a birth chart: growth with structure
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "North Node", "conjunction"]
 weight: 300
 glyph: "♄☌☊"
 definition: "Saturn conjunct North Node means Saturn sat within a few degrees of the North Node at your birth, and so opposite the South Node. In a chart, the direction you are growing in comes with structure attached: new capacities take longer, ask for steady practice, and tend to last once they are built."

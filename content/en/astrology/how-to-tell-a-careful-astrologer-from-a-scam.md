@@ -5,6 +5,8 @@ description: "How to tell a careful astrologer from a scam: what a careful one t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Readings"]
+tags: ["scams", "readings"]
 weight: 28
 glyph: "✦"
 definition: "Telling a careful astrologer from a scam means judging how someone works rather than what they say they can see. A careful astrologer tells you first what they won’t read, promises no outcome and lets you decide. Curse removal, pressure to pay more, guaranteed results, secrecy and fear are the signs to walk away."

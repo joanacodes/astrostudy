@@ -6,6 +6,8 @@ description: "Le zodiaque tropical en astrologie : les signes comptés depuis l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: ["zodiaque"]
 weight: 4
 glyph: "♈"
 definition: "Le zodiaque tropical compte les signes à partir de l’équinoxe de mars : 0° Bélier est le point où le Soleil franchit l’équateur céleste vers le nord, et chaque signe suit par pas de 30°, lié aux saisons plutôt qu’aux étoiles. C’est le zodiaque de l’astrologie occidentale, celui dans lequel je lis."

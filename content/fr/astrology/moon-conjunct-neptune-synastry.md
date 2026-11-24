@@ -6,6 +6,8 @@ description: "Lune conjonction Neptune en synastrie : l’imagination de l’un
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Neptune", "conjonction", "synastrie"]
 weight: 91
 glyph: "☽☌♆"
 definition: "Lune conjonction Neptune en synastrie : Neptune d’une personne à moins de 8° de la Lune de l’autre. L’imagination et la compassion de l’une se posent sur les émotions et les besoins de l’autre. J’y lis une tendresse profonde entre deux personnes, avec une réserve : se deviner ne doit pas remplacer se demander."

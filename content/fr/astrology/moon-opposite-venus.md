@@ -6,6 +6,8 @@ description: "Lune opposition Vénus dans un thème natal : vos besoins face à
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Vénus", "opposition"]
 weight: 62
 glyph: "☽☍♀"
 definition: "Lune opposition Vénus met environ 180° entre la Lune et Vénus à la naissance, près d’une pleine lune. Vos besoins et ce qui vous attire se tiennent aux deux bouts du thème, et quelqu’un d’autre porte souvent l’un des bouts. J’y lis un équilibre entre prendre soin de vous et l’échange de l’amour."

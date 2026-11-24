@@ -5,6 +5,8 @@ description: "Pluto in the 3rd house in a birth chart: a mind that digs, words w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "3rd house", "houses"]
 weight: 111
 glyph: "♇"
 definition: "With Pluto in the 3rd house, deep change works through everyday thought and speech, learning, siblings and neighbours. It describes a mind that digs beneath the surface, and conversations that change the people who have them. Like every house, it needs an accurate birth time."

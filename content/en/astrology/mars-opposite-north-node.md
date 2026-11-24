@@ -5,6 +5,8 @@ description: "Mars opposite North Node in a birth chart: Mars on the South Node,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "North Node", "opposition"]
 weight: 239
 glyph: "♂☍☊"
 definition: "Mars opposite North Node is a birth chart with Mars beside the South Node, across the chart from the North Node. Effort is familiar ground for you, a skill you already rely on, while your growth asks for something complementary. I read it as a strength to bring along on the way, not one to drop."

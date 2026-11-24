@@ -6,6 +6,8 @@ description: "Le décile en astrologie : deux planètes à 36°, un dixième du
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["décile", "aspects mineurs"]
 weight: 18
 glyph: "✦"
 definition: "Le décile est un angle de 36° entre deux planètes, un dixième du cercle et la moitié d’un quintile. Dans un thème natal, il marque un potentiel créateur qui s’affine en quelque chose de précis : un savoir-faire particulier que deux planètes peuvent développer ensemble par la pratique. C’est une possibilité, jamais un talent garanti."

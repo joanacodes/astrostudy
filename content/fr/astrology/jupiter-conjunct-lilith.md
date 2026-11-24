@@ -6,6 +6,8 @@ description: "Jupiter conjonction Lilith dans un thème natal : le sens uni à 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Lilith", "conjonction"]
 weight: 265
 glyph: "♃☌⚸"
 definition: "Jupiter conjonction Lilith, c’est Jupiter à quelques degrés de la Lune noire Lilith, le point où l’orbite de la Lune l’éloigne le plus de la Terre. Dans un thème, la part de vous qui construit du sens rencontre celle que vous avez appris à cacher. J’y lis une philosophie où entre quelque chose d’indompté, jamais une licence ni une malédiction."

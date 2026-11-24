@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["rétrogradation", "rétrograde"]
 family: "dignities"
+categories: ["Planètes et points"]
+tags: ["rétrograde"]
 weight: 3
 glyph: "℞"
 definition: "Une planète est rétrograde quand, vue depuis la Terre, elle semble reculer dans le zodiaque pendant un temps. Rien ne fait demi-tour dans l’espace : c’est l’effet d’un regard porté depuis une planète en mouvement. Toutes les planètes le font, jamais le Soleil ni la Lune. Dans un thème, j’y lis une fonction qui travaille d’abord à l’intérieur."

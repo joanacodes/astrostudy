@@ -6,6 +6,8 @@ description: "Lune sextile Vénus dans un thème natal : un don pour l’accuei
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Vénus", "sextile"]
 weight: 59
 glyph: "☽⚹♀"
 definition: "Lune sextile Vénus, c’est la Lune et Vénus à environ 60° l’une de l’autre dans un thème natal, en général à deux signes d’écart. Vos besoins et vos plaisirs s’entraident : l’affection s’offre et le réconfort s’accepte facilement, dès que vous vous lancez. J’y lis un don pour l’accueil, qui s’affermit à l’usage."

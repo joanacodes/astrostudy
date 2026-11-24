@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["ephemeris", "ephemerides"]
 family: "foundations"
+categories: ["Foundations"]
+tags: []
 weight: 10
 glyph: "✦"
 definition: "An ephemeris is a table of where the Sun, the Moon and the planets stand, day by day, usually at midnight or noon Universal Time. Every chart is calculated from one. Reading it takes three things: the right column, the sign glyph above the figure, and the hour the table was drawn up for."

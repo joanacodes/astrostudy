@@ -5,6 +5,8 @@ description: "Pluto trine North Node in a birth chart: renewal that flows toward
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "North Node", "trine"]
 weight: 363
 glyph: "♇△☊"
 definition: "Pluto trine North Node is a 120° angle between Pluto and the North Node at birth, which also puts Pluto 60° from the South Node. In a chart, renewal flows towards your direction of growth: when something is cleared and rebuilt, the rebuilding tends to face the way you are learning to go."

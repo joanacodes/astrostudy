@@ -6,6 +6,8 @@ description: "Mercure trigone Nœud Nord en synastrie : les mots de l’une ren
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Nœud Nord", "trigone", "synastrie"]
 weight: 164
 glyph: "☿△☊"
 definition: "Mercure trigone Nœud Nord en synastrie signifie que Mercure, chez une personne, se trouve à environ 120° du Nœud Nord de l’autre, à 5,1° près, donc à environ 60° de son Nœud Sud. Les idées de l’une rendent naturelle la croissance de l’autre, sans mépriser ses forces anciennes. J’y lis un encouragement facile, à changer en pratique."

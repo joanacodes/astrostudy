@@ -5,6 +5,8 @@ description: "The new moon in Taurus: the Sun and Moon together in the sign that
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "new moon", "Taurus"]
 weight: 37
 glyph: "●♉"
 definition: "The new moon in Taurus is the new moon that falls while the Sun is in Taurus, between about 20 April and 20 May: the Sun and Moon together in fixed earth, the sign where tradition exalts the Moon. I read it as a quiet marker for building, counted only within a degree of a natal point."

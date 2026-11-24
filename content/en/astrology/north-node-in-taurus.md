@@ -5,6 +5,8 @@ description: "North Node in Taurus in a birth chart: growing towards steadiness 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "Taurus"]
 weight: 146
 glyph: "☊♉"
 definition: "North Node in Taurus means you were born while the North Node, where the Moon’s path crosses the Sun’s going north, was in fixed earth, and the South Node in Scorpio. I read it as growth towards steadiness: simple pleasures, slow building and a calm you can trust, after a long acquaintance with crisis."

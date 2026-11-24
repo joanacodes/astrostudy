@@ -6,6 +6,8 @@ description: "Saturne sextile Pluton dans un thème natal : le changement profo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Pluton", "sextile"]
 weight: 286
 glyph: "♄⚹♇"
 definition: "Saturne sextile Pluton signifie qu’environ 60° séparaient Saturne et Pluton à la naissance, comme pour quatre vagues de naissances entre 1942 et 1990. Dans un thème, la capacité de bâtir et celle de transformer y coopèrent : un changement profond peut se planifier, se découper en étapes et se mener à bien, pourvu que vous saisissiez l’occasion."

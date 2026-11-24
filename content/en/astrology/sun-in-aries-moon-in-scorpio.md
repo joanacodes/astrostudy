@@ -5,6 +5,8 @@ description: "Sun in Aries, Moon in Scorpio: two signs with nothing in common bu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries", "Moon", "Scorpio"]
 weight: 8
 glyph: "☉♈☽♏"
 definition: "Sun in Aries, Moon in Scorpio dates a birth to just after a full moon, fifteen to nineteen and a half days into the lunar month, the Moon five signs behind the Sun. The signs share only a ruler, Mars, in the old scheme. I read the pair as courage in the open and depth kept private."

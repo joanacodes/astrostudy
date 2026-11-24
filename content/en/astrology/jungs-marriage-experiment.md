@@ -5,6 +5,8 @@ description: "Jung’s marriage experiment: how he tested astrology on married c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["testing"]
 weight: 6
 glyph: "✦"
 definition: "Jung’s marriage experiment is the astrological test Carl Jung described in his 1952 essay on synchronicity, using the horoscopes of more than 400 married couples. Accounts of his figures differ, but Jung did not claim the planets caused anything; he called the link synchronicity. Critics faulted the sample, the statistics and the astrology."

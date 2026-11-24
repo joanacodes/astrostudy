@@ -5,6 +5,8 @@ description: "Why eclipses follow the nodes: the Moon’s five-degree tilt, the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["eclipses"]
 weight: 35
 glyph: "☊☋"
 definition: "Eclipses follow the nodes because the Moon’s path is tilted about five degrees to the Sun’s: the Sun, Moon and Earth can only line up where the two paths cross. As the nodes slide backwards through the zodiac, the eclipses go with them, about eighteen months in each pair of signs. In a chart, I read both ends."

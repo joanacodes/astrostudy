@@ -5,6 +5,8 @@ description: "Mercury conjunct Venus in synastry: how one person thinks meets wh
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Venus", "conjunction", "synastry"]
 weight: 116
 glyph: "☿☌♀"
 definition: "Mercury conjunct Venus in synastry means one person’s Mercury sits within 6° of the other’s Venus. How one person thinks and speaks falls right on what the other finds worth having, so conversation comes with appreciation built in. I read it as a meeting of mind and taste that still needs room to disagree."

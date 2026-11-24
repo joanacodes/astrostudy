@@ -6,6 +6,8 @@ description: "Soleil opposition Lune en synastrie : la direction de l’une fac
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Lune", "opposition", "synastrie"]
 weight: 5
 glyph: "☉☍☽"
 definition: "Soleil opposition Lune en synastrie signifie que le Soleil d’une personne se trouve à environ 180° de la Lune de l’autre, à 8° près. La direction de l’une fait face aux besoins de l’autre, et chacune voit nettement le bout de l’autre. J’y lis une bascule de conscience et de rôles, jamais deux personnes dressées l’une contre l’autre."

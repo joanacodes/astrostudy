@@ -5,6 +5,8 @@ description: "Does astrology work? What blind tests of astrologers found, from C
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["testing"]
 weight: 17
 glyph: "✦"
 definition: "In controlled tests, astrology hasn’t worked: when astrologers had to match birth charts to people they couldn’t see, they did no better than chance, and they agreed little with each other. Whether a reading can still help someone reflect is a different question from the one those tests asked."

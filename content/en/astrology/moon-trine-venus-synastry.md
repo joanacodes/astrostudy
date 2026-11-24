@@ -5,6 +5,8 @@ description: "Moon trine Venus in synastry: everyday affection that fits without
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Venus", "trine", "synastry"]
 weight: 69
 glyph: "☽△♀"
 definition: "In Moon trine Venus in synastry, about 120°, within 6.8°, separate one person’s Moon from the other’s Venus, generally in two signs that share an element. Care offered and care needed agree without effort, in ordinary daily ways. I read it as a gentle ease between two people, worth tending rather than taking for granted."

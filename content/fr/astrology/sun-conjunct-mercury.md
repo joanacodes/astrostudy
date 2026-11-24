@@ -6,6 +6,8 @@ description: "Soleil conjonction Mercure dans un thème natal : pensée et iden
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Mercure", "conjonction"]
 weight: 6
 glyph: "☉☌☿"
 definition: "Soleil conjonction Mercure signifie qu’à votre naissance, Mercure se trouvait à quelques degrés du Soleil. Depuis la Terre, Mercure ne s’en éloigne jamais de plus de 28° environ : aucun autre aspect majeur n’est possible entre les deux. Dans un thème, votre pensée et votre sens de qui vous êtes ne font qu’un."

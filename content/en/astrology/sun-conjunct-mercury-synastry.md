@@ -5,6 +5,8 @@ description: "Sun conjunct Mercury in synastry: one person’s way of thinking o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Mercury", "conjunction", "synastry"]
 weight: 6
 glyph: "☉☌☿"
 definition: "Sun conjunct Mercury in synastry means one person’s Mercury sits within 8° of the other’s Sun, usually with birthdays a few weeks apart. One person’s way of thinking and talking lands on who the other is. I read it as understanding put into words, at its best when the Sun person keeps the last word on themselves."

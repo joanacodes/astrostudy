@@ -6,6 +6,8 @@ description: "L’astrologie peut-elle prédire la mort ? Non : aucun thème 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Lectures"]
+tags: ["limites de l’astrologie"]
 weight: 58
 glyph: "✦"
 definition: "Non. Aucun thème ni aucun transit ne peut dire quand ni comment une personne mourra, vous ou quelqu’un que vous aimez. L’astrologie ancienne a tenté de compter la durée d’une vie ; je ne lis jamais la mort. Un thème peut décrire votre façon de traverser les fins et le deuil. Si la question vous fait peur, parlez-en maintenant."

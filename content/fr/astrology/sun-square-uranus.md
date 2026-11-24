@@ -6,6 +6,8 @@ description: "Soleil carré Uranus dans un thème natal : un besoin de liberté
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Uranus", "carré"]
 weight: 25
 glyph: "☉□♅"
 definition: "Soleil carré Uranus dessine un angle droit, environ 90°, entre votre Soleil et Uranus, dans des signes qui partagent en général un mode. Dans un thème, le besoin de vous libérer et celui de bâtir une direction frottent l’un contre l’autre. J’y lis une agitation qui devient réforme : le changement avec une raison, pas le changement pour lui-même."

@@ -5,6 +5,8 @@ description: "Venus in the 4th house in a birth chart: pleasure found at home, a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "4th house", "houses"]
 weight: 40
 glyph: "♀"
 definition: "Venus in the 4th house means Venus lay below your feet at birth, near the chart’s lowest point, in the house of home and roots. It describes pleasure found in private life, a gift for making a home people are glad to return to, and a love of peace at home that is worth keeping honest."

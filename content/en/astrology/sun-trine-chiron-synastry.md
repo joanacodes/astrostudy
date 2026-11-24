@@ -5,6 +5,8 @@ description: "Sun trine Chiron in synastry: one person’s warmth sits easily be
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Chiron", "trine", "synastry"]
 weight: 49
 glyph: "☉△⚷"
 definition: "Sun trine Chiron in synastry lets one person’s warmth and the other’s hard-won skill sit together easily, with Chiron about 120° from the Sun, within 6.8°, the two typically sharing an element. The sore spot is respected without ceremony. I read it as an easy kindness, whose history is worth saying out loud now and then."

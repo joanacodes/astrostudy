@@ -5,6 +5,8 @@ description: "Uranus in the 10th house in a birth chart: a public direction you 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "10th house", "houses"]
 weight: 94
 glyph: "♅"
 definition: "Uranus in the 10th house puts the planet of change near the top of the chart, in the angular house of public life, work and reputation that begins at the Midheaven in Placidus. I read it as a direction in the world you invent rather than inherit, with room to change course. It needs an exact birth time."

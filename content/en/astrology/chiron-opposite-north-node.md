@@ -5,6 +5,8 @@ description: "Chiron opposite North Node in a birth chart: Chiron on the South N
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "North Node", "opposition"]
 weight: 374
 glyph: "⚷☍☊"
 definition: "Chiron opposite North Node means Chiron stood about 180° from the North Node at your birth, on the South Node. In a chart, adapting around a lasting difficulty is old, practised ground, a skill you trust; the direction of growth across the chart asks for a capacity that isn’t one more way round."

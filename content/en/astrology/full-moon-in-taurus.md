@@ -5,6 +5,8 @@ description: "The full moon in Taurus, with the Sun opposite in Scorpio: the Moo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "full moon", "Taurus"]
 weight: 49
 glyph: "○♉"
 definition: "The full moon in Taurus is the Moon in Taurus opposite the Sun in Scorpio, once a year, between late October and late November. It lights the Taurus–Scorpio axis: what you keep and what you share, comfort and depth. In a birth chart it counts within about 1° of a planet or angle, at either end."

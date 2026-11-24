@@ -6,6 +6,8 @@ description: "Les orbes en astrologie : la marge admise autour d’un aspect ex
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: []
 weight: 14
 glyph: "✦"
 definition: "L’orbe est la marge que les astrologues admettent de part et d’autre d’un aspect exact : avec un orbe de 6°, deux planètes séparées de 84° à 96° sont encore en carré. Les orbes varient d’un astrologue à l’autre. Sur ce site, les aspects natals comptent jusqu’à 8° avec le Soleil ou la Lune, 6° sinon."

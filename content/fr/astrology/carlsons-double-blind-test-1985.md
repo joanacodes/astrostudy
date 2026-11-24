@@ -6,6 +6,8 @@ description: "Le test en double aveugle de Carlson, publié dans Nature en 1985�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["test"]
 weight: 3
 glyph: "✦"
 definition: "Le test en double aveugle de Carlson est une étude de l’astrologie natale publiée dans Nature en 1985. Selon un protocole que les astrologues avaient jugé équitable, 28 d’entre eux ont tenté d’associer des thèmes natals à des profils de personnalité issus d’un questionnaire standard. Ils n’ont pas fait mieux que le hasard, même sûrs d’eux."

@@ -5,6 +5,8 @@ description: "Neptune in Cancer in a birth chart: ideals of home and belonging, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Cancer"]
 weight: 100
 glyph: "♆♋"
 definition: "Neptune in Cancer is Neptune, the planet of compassion and longing, in the cardinal water sign of home and belonging. It was last there from 1901 to 1916, so the youngest people born with it would be over 110 today, and it returns in 2065. It describes ideals of home, homeland and family: a harbour to come back to."

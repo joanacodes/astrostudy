@@ -6,6 +6,8 @@ description: "La pleine lune en Scorpion, le Soleil en Taureau : deux en 2027, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "pleine lune", "Scorpion"]
 weight: 55
 glyph: "○♏"
 definition: "La pleine lune en Scorpion, c’est la Lune en Scorpion face au Soleil en Taureau, entre fin avril et fin mai. Elle éclaire l’axe Scorpion–Taureau du côté de la profondeur : la confiance, l’intimité, ce qui se partage. Dans un thème, elle compte à 1° environ d’une planète ou d’un angle, à l’un ou l’autre bout."

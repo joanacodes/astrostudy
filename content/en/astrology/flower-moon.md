@@ -5,6 +5,8 @@ description: "The Flower moon, May’s full moon: its dates and signs from 2026 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 24
 glyph: "○"
 definition: "The Flower moon is the almanacs’ name for the full moon of May, the month when flowers are everywhere in North America. It is a folk name, not astrology. In a chart it is a full moon in Scorpio, with the Sun in Taurus, or in some years in Sagittarius, with the Sun in Gemini."

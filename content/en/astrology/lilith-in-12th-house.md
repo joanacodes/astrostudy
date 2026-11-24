@@ -5,6 +5,8 @@ description: "Lilith in the 12th house in a birth chart: a hidden part often hid
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "12th house", "houses"]
 weight: 144
 glyph: "⚸"
 definition: "Lilith in the 12th house means Black Moon Lilith, the Moon’s farthest point from Earth, sat in the house of solitude and inner life, just before your Ascendant, when you were born. I read it as a hidden part often hidden even from you, and a quiet refusal to let anyone manage your inner world."

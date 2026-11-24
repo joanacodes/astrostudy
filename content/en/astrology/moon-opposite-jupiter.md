@@ -5,6 +5,8 @@ description: "Moon opposite Jupiter in a birth chart: home and horizon on opposi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Jupiter", "opposition"]
 weight: 72
 glyph: "☽☍♃"
 definition: "Moon opposite Jupiter means the Moon and Jupiter faced each other across your birth chart, about 180° apart. Your need to feel secure and your reach for meaning sit at opposite ends, and other people often carry one of them. To me it's a polarity between roots and range, and both of them are yours."

@@ -6,6 +6,8 @@ description: "Mars en maison 5 dans un thème natal : un élan pour le jeu, le 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "maison 5", "maisons"]
 weight: 53
 glyph: "♂"
 definition: "Mars en maison 5, c’est Mars au jeu, dans la maison du plaisir, de l’amour et de la création, la Fortune favorable de la tradition. On y lit un élan tourné vers la joie : vous jouez pour gagner, faites la cour avec audace et créez avec énergie. Il faut l’heure de naissance, et rien n’y concerne les enfants."

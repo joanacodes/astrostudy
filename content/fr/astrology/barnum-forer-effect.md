@@ -6,6 +6,8 @@ description: "L’effet Barnum, ou effet Forer : pourquoi un portrait vague sem
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["test"]
 weight: 7
 glyph: "✦"
 definition: "L’effet Barnum, ou effet Forer, est la tendance à juger très juste une description de sa personnalité quand on la croit écrite pour soi, alors qu’elle est assez vague pour convenir à presque tout le monde. Bertram Forer l’a montré en classe en 1948. Il explique en partie pourquoi les descriptions astrologiques peuvent sembler vraies."

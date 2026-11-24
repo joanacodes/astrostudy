@@ -6,6 +6,8 @@ description: "Lune sextile Saturne en synastrie : la fiabilité de l’une à p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Saturne", "sextile", "synastrie"]
 weight: 82
 glyph: "☽⚹♄"
 definition: "Lune sextile Saturne en synastrie : Saturne d’une personne à environ 60° de la Lune de l’autre, à 4,8° près. La fiabilité, la patience et le sens des limites de l’une restent à portée des besoins de l’autre, offerts plutôt qu’imposés. J’y lis un arrangement solide entre deux personnes, qui fonctionne dès que l’une demande."

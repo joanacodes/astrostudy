@@ -5,6 +5,8 @@ description: "Neptune in the 3rd house in a birth chart: everyday thoughts that 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "3rd house", "houses"]
 weight: 99
 glyph: "♆"
 definition: "Neptune in the 3rd house means Neptune was in the house of the everyday mind when you were born: talk, writing, learning, siblings and neighbours, the short journeys of an ordinary week. In a chart it gives a mind that works in pictures and impressions, a talent for story, song or verse, and details that need checking twice."

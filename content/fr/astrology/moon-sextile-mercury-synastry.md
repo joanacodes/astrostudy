@@ -6,6 +6,8 @@ description: "Lune sextile Mercure en synastrie : une ligne ouverte entre les �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Mercure", "sextile", "synastrie"]
 weight: 62
 glyph: "☽⚹☿"
 definition: "Lune sextile Mercure en synastrie relie, à 60° environ et à 4,8° près, la Lune d’une personne et Mercure dans le thème de l’autre. Les émotions d’un côté et les mots de l’autre coopèrent : parler aide. J’y lis une ligne ouverte entre deux personnes, qui sert dès que quelqu’un décroche."

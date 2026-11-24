@@ -6,6 +6,8 @@ description: "Neptune en maison 1 dans un thème natal : une présence douce et
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "maison 1", "maisons"]
 weight: 97
 glyph: "♆"
 definition: "Neptune en maison 1 signifie que Neptune se trouvait sous l’horizon est à votre naissance, dans la maison du moi, du corps et de la première impression. Dans un thème, ce placement donne une présence douce et réceptive : on sent tout de suite votre empathie, et l’on trouve parfois en vous ce que l’on cherchait."

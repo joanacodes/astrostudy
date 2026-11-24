@@ -5,6 +5,8 @@ description: "Venus opposite Pluto in a birth chart: what you value facing the u
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Pluto", "opposition"]
 weight: 184
 glyph: "♀☍♇"
 definition: "Venus opposite Pluto means Venus and Pluto stood about 180° apart at your birth. In a chart, what you value and the urge to transform face each other: intensity often arrives through other people first, and asks to be shared fairly. I read it as balance learned in close bonds, never as a fight for control."

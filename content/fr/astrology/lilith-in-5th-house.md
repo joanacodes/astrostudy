@@ -6,6 +6,8 @@ description: "Lilith en maison 5 dans un thème natal : une joie qui devait se 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "maison 5", "maisons"]
 weight: 137
 glyph: "⚸"
 definition: "Lilith en maison 5 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la maison du jeu, du plaisir, des amours et de la création. J’y lis une joie qu’on a obligée à se justifier, et le refus de s’amuser, de créer ou d’aimer de la façon approuvée."

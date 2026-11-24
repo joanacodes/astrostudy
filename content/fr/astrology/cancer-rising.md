@@ -6,6 +6,8 @@ description: "Ascendant Cancer : un premier geste protecteur, la Lune maître d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "Cancer"]
 weight: 4
 glyph: "↑♋"
 definition: "Un ascendant Cancer signifie que le Cancer, signe d’eau cardinal gouverné par la Lune, se levait à l’horizon est à votre naissance : votre ascendant est en Cancer. Il décrit une façon prudente et protectrice d’aborder le monde, réservée d’abord, chaleureuse une fois en confiance. Dans le Nord, il se lève lentement : environ deux heures et demie à Londres."

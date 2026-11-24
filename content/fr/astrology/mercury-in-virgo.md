@@ -6,6 +6,8 @@ description: "Mercure en Vierge dans un thème natal : Mercure en domicile et e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Vierge"]
 weight: 30
 glyph: "☿♍"
 definition: "Mercure en Vierge, c’est Mercure en domicile et en exaltation : la terre mutable, le second signe que gouverne Mercure. On y lit un esprit précis, concret et observateur, qui trie, vérifie et améliore, à l’aise avec le détail et heureux d’être utile. Aucune autre planète traditionnelle n’a les deux dignités dans un même signe. Environ 1 personne sur 12 l’a."

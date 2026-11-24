@@ -5,6 +5,8 @@ description: "Chiron in Sagittarius in a birth chart: the centaur in the centaur
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Sagittarius"]
 weight: 129
 glyph: "⚷♐"
 definition: "Chiron in Sagittarius places the centaur of myth in the zodiac’s own centaur sign, mutable fire ruled by Jupiter, for people born from November 1948 to November 1951 or from January 1999 to December 2001. In a chart it describes adapting through meaning and perspective, around a tender spot about belief and freedom."

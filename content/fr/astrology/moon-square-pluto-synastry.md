@@ -6,6 +6,8 @@ description: "Lune carré Pluton en synastrie : le besoin de sécurité de l’
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Pluton", "carré", "synastrie"]
 weight: 98
 glyph: "☽□♇"
 definition: "Lune carré Pluton en synastrie : Pluton d’une personne à environ 90° de la Lune de l’autre, à 6,8° près. Le besoin de réconfort familier de l’une et l’élan de l’autre pour aller au fond et changer frottent l’un contre l’autre. J’y vois une friction capable de bâtir confiance et solidité, à condition que le pouvoir se partage."

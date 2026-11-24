@@ -6,6 +6,8 @@ description: "Soleil en Scorpion dans un thème natal : une identité au cœur 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Scorpion"]
 weight: 8
 glyph: "☉♏"
 definition: "Le Soleil en Scorpion est le signe solaire des naissances du 23 octobre au 21 novembre environ, en eau fixe gouvernée par Pluton dans l’astrologie tropicale moderne et par Mars dans la tradition. J’y lis une identité au cœur secret, une vitalité qui se renouvelle après la perte, et un but qui refuse de rester en surface."

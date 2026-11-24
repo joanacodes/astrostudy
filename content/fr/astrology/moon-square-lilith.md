@@ -6,6 +6,8 @@ description: "Lune carré Lilith dans un thème natal : le besoin d’apparteni
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Lilith", "carré"]
 weight: 100
 glyph: "☽□⚸"
 definition: "Lune carré Lilith signifie que votre Lune se trouvait, à la naissance, à un quart d’orbite de Lilith moyenne, environ 90°. Ce carré oppose votre besoin d’appartenance à la part de vous qui refuse le dressage : garder la paix et être vous-même peuvent tirer dans deux sens. J’y lis une friction qui construit un soin de soi honnête."

@@ -6,6 +6,8 @@ description: "Neptune conjonction Chiron dans un thème natal : la compassion n
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Chiron", "conjonction"]
 weight: 335
 glyph: "♆☌⚷"
 definition: "Neptune conjonction Chiron, c’est la rencontre de Neptune et de Chiron à quelques degrés près, venue deux fois sur les années comptées : de fin 1944 à fin 1945, et de 2008 à la fin de 2009. Dans un thème, elle relie la compassion et l’imagination à l’endroit qui reste sensible : l’empathie grandit là où cela fait mal."

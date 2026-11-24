@@ -6,6 +6,8 @@ description: "Lune opposition Uranus dans un thème natal : le besoin de proxim
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Uranus", "opposition"]
 weight: 82
 glyph: "☽☍♅"
 definition: "Lune opposition Uranus signifie que votre naissance a eu lieu avec la Lune et Uranus de part et d’autre du zodiaque, à environ 180°. Votre besoin de proximité fait face à votre besoin d’indépendance et de changement, aux deux bouts d’un même axe. J’y lis un équilibre qui s’apprend dans les relations, pas un choix entre amour et liberté."

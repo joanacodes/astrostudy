@@ -5,6 +5,8 @@ description: "The sidereal zodiac in astrology: signs anchored to the stars, the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: ["zodiac"]
 weight: 5
 glyph: "★"
 definition: "The sidereal zodiac fixes its twelve signs to the stars rather than to the March equinox. Vedic astrology uses it, and so do some Western astrologers. Because the equinox drifts against the stars, it now sits about 24° from the tropical zodiac, so most planets fall one sign earlier."

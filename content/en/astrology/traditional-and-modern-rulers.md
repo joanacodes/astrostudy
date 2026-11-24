@@ -5,6 +5,8 @@ description: "Traditional and modern rulers in astrology: the old seven-planet s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signs"]
+tags: ["zodiac signs"]
 weight: 29
 glyph: "♄/♅"
 definition: "Traditional and modern rulers are the two sets of planets astrologers assign to the signs. The traditional scheme uses the seven visible bodies, with Mars, Saturn and Jupiter ruling Scorpio, Aquarius and Pisces; modern tropical astrology gives those three signs to Pluto, Uranus and Neptune. The other nine signs keep a single ruler. I read both."

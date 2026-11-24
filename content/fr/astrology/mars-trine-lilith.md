@@ -6,6 +6,8 @@ description: "Mars trigone Lilith dans un thème natal : l’élan et la part i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Lilith", "trigone"]
 weight: 233
 glyph: "♂△⚸"
 definition: "Dans Mars trigone Lilith, un angle d’environ 120° relie Mars à la Lune noire Lilith dans votre thème natal, en général entre deux signes qui partagent un élément. L’élan et la part indomptée s’accordent : agir selon vos propres règles coûte peu de combat intérieur. J’y lis une aisance avec vos instincts, qui gagne à être utilisée exprès."

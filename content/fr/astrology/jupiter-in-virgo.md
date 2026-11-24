@@ -6,6 +6,8 @@ description: "Jupiter en Vierge dans un thème natal : Jupiter en exil, grandir
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Vierge"]
 weight: 66
 glyph: "♃♍"
 definition: "Jupiter en Vierge, c’est la planète de la croissance et du sens dans le signe de terre mutable gouverné par Mercure, son exil selon la tradition. Les personnes nées la même année, à peu près, partagent ce placement. J’y lis une croissance par affinage : une compréhension bâtie par la méthode, le savoir-faire et le soin, et des convictions vérifiées."

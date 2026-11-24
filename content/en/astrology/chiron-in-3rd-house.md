@@ -5,6 +5,8 @@ description: "Chiron in the 3rd house in a birth chart: a tender spot about bein
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "3rd house", "houses"]
 weight: 123
 glyph: "⚷"
 definition: "Chiron in the 3rd house places Chiron in the house of everyday talk, learning and the people close at hand, which tradition called the Goddess. It describes adapting around a sensitivity about being heard or keeping up, often an early one, until you have a clear voice of your own. It needs the birth time."

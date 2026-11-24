@@ -5,6 +5,8 @@ description: "Mercury in Virgo in a birth chart: Mercury at home and exalted, a 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Virgo"]
 weight: 30
 glyph: "☿♍"
 definition: "Mercury in Virgo is Mercury in its own sign and its exaltation: mutable earth, the second sign it rules. It describes a precise, practical, observant mind that sorts, checks and improves, at home with detail and happiest when useful. No other traditional planet is both at home and exalted in one sign. About 1 person in 12 has it."

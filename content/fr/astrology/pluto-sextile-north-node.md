@@ -6,6 +6,8 @@ description: "Pluton sextile Nœud Nord dans un thème natal : le renouveau com
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Nœud Nord", "sextile"]
 weight: 361
 glyph: "♇⚹☊"
 definition: "Pluton sextile Nœud Nord, c’est un angle de 60° entre Pluton et le Nœud Nord à la naissance, qui place aussi Pluton à 120° du Nœud Sud. Dans un thème, le renouveau relie les deux bouts de l’axe : il coule avec ce que vous connaissez et ouvre un chemin vers ce que vous apprenez, si vous le prenez."

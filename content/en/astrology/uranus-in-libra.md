@@ -5,6 +5,8 @@ description: "Uranus in Libra in a birth chart: new terms for partnership, for t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Libra"]
 weight: 91
 glyph: "♅♎"
 definition: "Uranus in Libra is the planet of change in a cardinal air sign ruled by Venus, the sign of partnership, balance and agreements. Births from September 1968 to September 1975 share it. I read it as a generation’s new terms for being fair to one another; the house shows where those terms are yours to set."

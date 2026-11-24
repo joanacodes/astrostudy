@@ -6,6 +6,8 @@ description: "Soleil opposition Mars dans un thème natal : le but et l’élan
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Mars", "opposition"]
 weight: 12
 glyph: "☉☍♂"
 definition: "Soleil opposition Mars signifie une naissance un des rares jours où Mars faisait face au Soleil, rétrograde et proche de la Terre. Dans un thème, le but et l’élan se font face sur un même axe. J’y lis une polarité, pas une lutte : votre propre force se rencontre souvent d’abord chez les autres."

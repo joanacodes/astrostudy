@@ -5,6 +5,8 @@ description: "Sun conjunct Venus in a birth chart: what you value at the centre 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Venus", "conjunction"]
 weight: 7
 glyph: "☉☌♀"
 definition: "Sun conjunct Venus means Venus was right beside the Sun when you were born, a few degrees away at most. Seen from Earth, Venus stays within about 47° of the Sun, which rules out a sextile or any wider aspect. In a chart, what you value and who you are work as one: warmth and judgement at the centre."

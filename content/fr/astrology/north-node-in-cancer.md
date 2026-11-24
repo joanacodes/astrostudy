@@ -6,6 +6,8 @@ description: "Nœud Nord en Cancer dans un thème natal : passer de tout porter
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "Cancer"]
 weight: 148
 glyph: "☊♋"
 definition: "Nœud Nord en Cancer signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans le signe de la Lune elle-même, le Nœud Sud en Capricorne. J’y lis une croissance vers l’appartenance : faire une place au foyer, au soin et à vos propres besoins, après l’habitude de tenir bon."

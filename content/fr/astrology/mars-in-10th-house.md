@@ -6,6 +6,8 @@ description: "Mars en maison 10 dans un thème natal : l’ambition avec de l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "maison 10", "maisons"]
 weight: 58
 glyph: "♂"
 definition: "Avec Mars en maison 10, votre élan se tient au sommet, dans la maison de la vie publique et de la réputation, qui commence au milieu du ciel. On y lit une ambition énergique : vous voulez mener, bâtir à votre façon et vous faire connaître par vos actes. Il faut une heure exacte ; aucune carrière ne s’y prédit."

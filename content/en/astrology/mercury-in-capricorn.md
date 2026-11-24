@@ -5,6 +5,8 @@ description: "Mercury in Capricorn in a birth chart: a strategic mind that plans
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Capricorn"]
 weight: 34
 glyph: "☿♑"
 definition: "Mercury in Capricorn is the planet of thought and speech in cardinal earth, the sign ruled by Saturn. It describes a strategic, practical mind that plans in steps, tests ideas against reality and speaks in few, load-bearing words. Its ruler, Saturn, is the next place I look. About 1 person in 11 has it."

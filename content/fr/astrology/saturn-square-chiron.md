@@ -6,6 +6,8 @@ description: "Saturne carré Chiron dans un thème natal : normes et difficult�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Chiron", "carré"]
 weight: 292
 glyph: "♄□⚷"
 definition: "Saturne carré Chiron désigne un angle d’environ 90° entre Saturne et Chiron : c’est, parmi les naissances de 1930 à 2009, le plus fréquent de leurs aspects. Dans un thème, il oppose les normes qu’on attend de vous à une difficulté qui n’y entre pas : une friction qui, avec le temps, produit une norme à vous."

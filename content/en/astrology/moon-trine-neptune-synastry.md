@@ -5,6 +5,8 @@ description: "Moon trine Neptune in synastry: compassion on one side, feelings o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Neptune", "trine", "synastry"]
 weight: 94
 glyph: "☽△♆"
 definition: "Moon trine Neptune in synastry means one person’s Neptune is about 120° from the other’s Moon, within 6.8°, with the two signs most often sharing an element. One person’s compassion and imagination meet the other’s feelings without effort. It strikes me as a gentle ease between two people, best when it isn’t used to dodge hard conversations."

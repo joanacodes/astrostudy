@@ -5,6 +5,8 @@ description: "Sun opposite Neptune in synastry: one person draws the lines, the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Neptune", "opposition", "synastry"]
 weight: 40
 glyph: "☉☍♆"
 definition: "In Sun opposite Neptune in synastry, a clear sense of self and a wide imagination sit at opposite ends of the zodiac: one person’s Sun, the other’s Neptune, about 180° apart within 8°. One defines, the other opens out. It describes a polarity of definition and openness, for both people to balance over time."

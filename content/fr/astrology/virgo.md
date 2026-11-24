@@ -6,6 +6,8 @@ description: "La Vierge en astrologie : le signe de terre mutable gouverné par
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signes"]
+tags: ["Vierge"]
 weight: 6
 glyph: "♍"
 definition: "La Vierge est le sixième signe du zodiaque, un signe de terre mutable gouverné par Mercure ; le Soleil la traverse du 23 août au 22 septembre environ. Dans un thème natal, elle désigne là où vous triez, améliorez et aidez : l’attention au détail, le savoir-faire, l’utilité. Sa maison montre où vous voulez que les choses soient bien faites."

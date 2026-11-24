@@ -5,6 +5,8 @@ description: "Degrees, minutes and seconds in astrology: how a position like 16�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: []
 weight: 13
 glyph: "°′″"
 definition: "Degrees, minutes and seconds are how positions in a chart are measured. The zodiac is a circle of 360°, each sign is 30°, each degree is 60 minutes of arc and each minute 60 seconds. A position such as 16°53′ Scorpio says exactly where in its sign a planet stood."

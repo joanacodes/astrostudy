@@ -6,6 +6,8 @@ description: "Jupiter en maison 12 dans un thème natal : grandir en privé, pa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "maison 12", "maisons"]
 weight: 72
 glyph: "♃"
 definition: "Jupiter en maison 12 signifie que Jupiter venait de se lever à votre naissance, dans la maison de ce qui se passe loin des regards. J’y lis une croissance en privé : une solitude qui enseigne, des convictions profondes et rarement dites, une générosité donnée en coulisses. Rien n’y prédit d’enfermement, et il faut une heure de naissance précise."

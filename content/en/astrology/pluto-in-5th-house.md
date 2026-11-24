@@ -5,6 +5,8 @@ description: "Pluto in the 5th house in a birth chart: deep passions in love, cr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "5th house", "houses"]
 weight: 113
 glyph: "♇"
 definition: "In the 5th house, Pluto takes deep change into creativity, pleasure, romance and play. It describes passions that run deep and creative work that transforms the person doing it. Tradition gave this house children; I never read it to predict children or pregnancy. It needs the birth time."

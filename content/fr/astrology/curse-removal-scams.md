@@ -6,6 +6,8 @@ description: "Arnaques au désenvoûtement : comment marche l’offre de lever 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Lectures"]
+tags: ["arnaques"]
 weight: 62
 glyph: "✦"
 definition: "Une arnaque au désenvoûtement vous vend la levée d’un sort, du mauvais œil ou d’un « blocage » que la personne vient elle-même de découvrir. Aucun thème natal ne montre de malédiction, et personne ne peut en lever une contre paiement. Le premier versement est rarement le dernier : le sort « résiste », et la peur fait payer encore."

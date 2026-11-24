@@ -6,6 +6,8 @@ description: "Saturne en maison 11 dans un thème natal : peu d’amis mais cho
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "maison 11", "maisons"]
 weight: 83
 glyph: "♄"
 definition: "Saturne en maison 11 installe la planète de la patience parmi les amis, les groupes et les espoirs. On y lit des amitiés peu nombreuses mais choisies, des responsabilités prises dans les groupes, et des espoirs poursuivis lentement. Le Verseau, signe naturel de la maison, est l’un des domiciles traditionnels de Saturne."

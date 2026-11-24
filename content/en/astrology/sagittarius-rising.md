@@ -5,6 +5,8 @@ description: "Sagittarius rising: an open horizon, Jupiter as your chart ruler, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "rising sign", "Sagittarius"]
 weight: 9
 glyph: "↑♐"
 definition: "Sagittarius rising means Sagittarius, the mutable fire sign ruled by Jupiter, was rising on the eastern horizon at your birth: your Ascendant is in Sagittarius. It describes an open, frank way of meeting the world, curious about what people believe and where things lead. At London it takes about two and a half hours to rise."

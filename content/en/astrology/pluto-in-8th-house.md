@@ -5,6 +5,8 @@ description: "Pluto in the 8th house in a birth chart: intimacy, trust, shared m
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "8th house", "houses"]
 weight: 116
 glyph: "♇"
 definition: "Pluto in the 8th house is at home in its themes: intimacy, trust, shared resources and crisis, in the house whose natural sign is Scorpio. It describes closeness that runs very deep, and renewal after hard times. Tradition gave this house death, which no chart predicts. It needs the birth time."

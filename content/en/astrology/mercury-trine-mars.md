@@ -5,6 +5,8 @@ description: "Mercury trine Mars in a birth chart: thinking and doing in step, a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Mars", "trine"]
 weight: 113
 glyph: "☿△♂"
 definition: "Mercury trine Mars means Mercury and Mars were about 120° apart when you were born, most often in the same element. In a chart decisions and deeds keep the same pace, with little friction between them. I read it as a practical fluency that still needs aiming."

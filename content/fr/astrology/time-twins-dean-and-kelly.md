@@ -6,6 +6,8 @@ description: "Les jumeaux astrologiques de Dean et Kelly : nés à quelques min
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["test"]
 weight: 4
 glyph: "✦"
 definition: "Les jumeaux astrologiques sont des personnes nées presque au même instant, qui devraient, selon la logique même de l’astrologie, avoir des traits semblables. Geoffrey Dean et Ivan Kelly les ont étudiés avec les critères de l’astrologue John Addey sur l’écart entre deux naissances. Chez des personnes nées à cinq minutes d’intervalle au plus, aucun effet n’est apparu."

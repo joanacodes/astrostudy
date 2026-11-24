@@ -6,6 +6,8 @@ description: "Lune conjonction Mars dans un thème natal : ressentir et agir d�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Mars", "conjonction"]
 weight: 63
 glyph: "☽☌♂"
 definition: "Lune conjonction Mars veut dire que la Lune et Mars se tenaient ensemble à votre naissance, à quelques degrés près. Dans un thème, cet aspect relie le besoin et l’action : une émotion devient presque aussitôt un geste, et ce qui compte pour vous est défendu. J’y lis un courage protecteur, jamais un tempérament colérique, et une pause à apprendre."

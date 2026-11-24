@@ -6,6 +6,8 @@ description: "Saturne trigone Neptune dans un thème natal : imagination et str
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Neptune", "trigone"]
 weight: 283
 glyph: "♄△♆"
 definition: "Saturne trigone Neptune relie Saturne et Neptune à environ 120°, en général depuis un même élément, et des vagues entières de naissances l’ont partagé de 1930 à 2002. Dans un thème, l’imagination et la discipline y avancent au même pas : les idéaux se bâtissent peu à peu, le soin dure sans drame, pourvu que vous lui donniez une direction."

@@ -6,6 +6,8 @@ description: "Jupiter carré Lilith dans un thème natal : les croyances hérit
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Lilith", "carré"]
 weight: 267
 glyph: "♃□⚸"
 definition: "Jupiter carré Lilith désigne un écart d’environ 90° entre Jupiter et la Lune noire Lilith. Dans un thème, les croyances que vous avez absorbées frottent contre la part de vous qui ne s’est pas laissé dompter : les principes empruntés sont mis à l’épreuve par l’instinct. J’y lis la friction qui forge une conscience bien à vous, jamais un défaut."

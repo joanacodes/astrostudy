@@ -5,6 +5,8 @@ description: "Mercury sextile Mars in synastry: one person’s plans give the ot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Mars", "sextile", "synastry"]
 weight: 122
 glyph: "☿⚹♂"
 definition: "Mercury sextile Mars in synastry means one person’s Mercury is about 60° from the other’s Mars, within 3.6°. One person’s ideas offer the other’s drive a place to start, and that drive helps the ideas leave the page. To me it’s a practical partnership in waiting, which shows its worth in what the two get done."

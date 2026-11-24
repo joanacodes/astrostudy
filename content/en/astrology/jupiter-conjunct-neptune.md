@@ -5,6 +5,8 @@ description: "Jupiter conjunct Neptune in a birth chart: meaning and imagination
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Neptune", "conjunction"]
 weight: 250
 glyph: "♃☌♆"
 definition: "Jupiter conjunct Neptune means the two planets met within a few degrees at your birth, as they do about every 13 years for a few months. Meaning and imagination act as one: a wide, compassionate sense of what life could be. It is a gift for vision that grows wiser as it learns where its edges are."

@@ -5,6 +5,8 @@ description: "Mercury in Taurus in a birth chart: a mind that weighs each idea a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Taurus"]
 weight: 26
 glyph: "☿♉"
 definition: "Mercury in Taurus is the planet of thought and speech in fixed earth, the sign ruled by Venus. It describes a deliberate, practical mind that learns by doing and repeating, speaks in few and solid words, and wants real evidence before it moves. About 1 person in 13 born from 1930 to 2009 has it."

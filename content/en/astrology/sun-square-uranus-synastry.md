@@ -5,6 +5,8 @@ description: "Sun square Uranus in synastry: one person’s need for change cuts
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Uranus", "square", "synastry"]
 weight: 33
 glyph: "☉□♅"
 definition: "Sun square Uranus in synastry crosses one person’s direction with the other’s need for change: Uranus about 90° from the Sun, within 6.8°, generally in one modality. Plans get questioned and freedom gets negotiated. I see a friction here that can reform a shared life, and no verdict on whether two people can settle."

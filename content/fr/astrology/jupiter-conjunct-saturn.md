@@ -6,6 +6,8 @@ description: "Jupiter conjonction Saturne dans un thème natal : la grande conj
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Saturne", "conjonction"]
 weight: 240
 glyph: "♃☌♄"
 definition: "Jupiter conjonction Saturne, c’est la rencontre des deux planètes à quelques degrés près, la grande conjonction qui revient environ tous les 20 ans. Toutes les personnes nées pendant les mêmes mois la partagent. Dans un thème, elle fond l’envie de grandir avec celle de bâtir du durable ; sa maison montre où vous grandissez en donnant une structure aux choses."

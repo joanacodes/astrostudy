@@ -6,6 +6,8 @@ description: "Mercure en maison 7 dans un thème natal : un esprit qui pense en
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "maison 7", "maisons"]
 weight: 31
 glyph: "☿"
 definition: "Mercure en maison 7 place la planète de la pensée dans la maison des partenaires et des relations en tête-à-tête, face à la maison 1, où Mercure a sa joie. On y lit un esprit qui pense en dialogue : les idées prennent forme quand quelqu’un répond, et la proximité se mesure à la conversation. L’heure de naissance est nécessaire."

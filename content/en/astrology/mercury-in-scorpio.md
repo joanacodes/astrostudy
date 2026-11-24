@@ -5,6 +5,8 @@ description: "Mercury in Scorpio in a birth chart: a probing, private mind that 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Scorpio"]
 weight: 32
 glyph: "☿♏"
 definition: "Mercury in Scorpio is the planet of thought and speech in fixed water, the sign ruled by Pluto and, traditionally, Mars. It describes a probing, private mind that researches, reads the subtext and keeps confidences, choosing few words for their weight. It goes deep rather than wide. About 1 person in 11 has it."

@@ -6,6 +6,8 @@ description: "Saturne en maison 3 dans un thème natal : les mots du quotidien 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "maison 3", "maisons"]
 weight: 75
 glyph: "♄"
 definition: "Saturne en maison 3, c’est un esprit soigneux dans la maison des allées et venues : les mots, les messages, les petits trajets, les premiers apprentissages, la fratrie et le voisinage. On y lit une parole soigneuse, une confiance tardive en ses propres idées, et un esprit qui apprend à fond. L’heure de naissance décide si Saturne s’y trouve."

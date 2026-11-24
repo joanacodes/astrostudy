@@ -6,6 +6,8 @@ description: "Vénus carré Mars dans un thème natal : le goût et l’élan �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Mars", "carré"]
 weight: 157
 glyph: "♀□♂"
 definition: "Vénus carré Mars signifie que Vénus et Mars se trouvaient à quelque 90° d’écart à votre naissance, en général dans deux signes du même mode. Dans un thème, votre goût et votre façon d’aller le chercher n’ont pas le même horaire : vous apprenez à les accorder. J’y vois un frottement qui apprend à demander juste, pas un conflit écrit."

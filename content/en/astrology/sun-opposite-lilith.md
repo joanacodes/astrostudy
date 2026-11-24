@@ -5,6 +5,8 @@ description: "Sun opposite Lilith in a birth chart: the part you were told to hi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Lilith", "opposition"]
 weight: 47
 glyph: "☉☍⚸"
 definition: "Sun opposite Lilith means your Sun stood about 180° from Black Moon Lilith at birth. In a chart your sense of who you are faces the part that wouldn’t obey, often met first in other people: those who seem too much, or who refuse you. I read it as a mirror that gives that part back."

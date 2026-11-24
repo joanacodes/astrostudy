@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["gibbeuse croissante"]
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "phases lunaires"]
 weight: 11
 glyph: "✦"
 definition: "La lune gibbeuse croissante, c’est la Lune entre le premier quartier et la pleine lune : éclairée à plus de moitié et grandissante, visible de l’après-midi jusque dans la nuit. Gibbeuse vient du latin gibbus, la bosse. Chez Rudhyar, la phase gibbeuse est la dernière avant la pleine lune : la Lune de 135° à 180° devant le Soleil."

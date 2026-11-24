@@ -5,6 +5,8 @@ description: "Chiron square North Node in a birth chart: a lasting difficulty se
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "North Node", "square"]
 weight: 372
 glyph: "⚷□☊"
 definition: "Chiron square North Node sets Chiron about 90° from the North Node at birth, and so 90° from the South Node as well, halfway along the axis. In a chart, the way you adapt around a lasting difficulty cuts across both familiar ground and new growth: the path has to be designed to include it."

@@ -5,6 +5,8 @@ description: "Venus square North Node in a birth chart: what you value at right 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "North Node", "square"]
 weight: 197
 glyph: "♀□☊"
 definition: "Venus square North Node means Venus was about 90° from both lunar nodes at your birth. In a chart, what you value squares the whole nodal axis: neither the familiar nor the new quite fits your taste. I read it as friction that asks your growth to make room for what you love."

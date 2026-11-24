@@ -6,6 +6,8 @@ description: "Mercure opposition Uranus dans un thème natal : votre raisonneme
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Uranus", "opposition"]
 weight: 129
 glyph: "☿☍♅"
 definition: "Mercure opposition Uranus signifie qu’à votre naissance, Uranus se tenait juste en face de Mercure, à 180°, à l’époque de l’année où le Soleil fait lui aussi face à Uranus. Dans un thème, votre raisonnement se trouve face au point de vue inattendu, qui vous arrive souvent par d’autres. J’y lis une polarité à peser, pas une dispute."

@@ -6,6 +6,8 @@ description: "Lune trigone Uranus en synastrie : la liberté de l’une et le c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Uranus", "trigone", "synastrie"]
 weight: 89
 glyph: "☽△♅"
 definition: "Lune trigone Uranus en synastrie : Uranus d’une personne à environ 120° de la Lune de l’autre, à 6,8° près, d’ordinaire entre signes d’un même élément. L’indépendance de l’une et le besoin de sécurité de l’autre travaillent ensemble : le changement ressemble rarement à une menace. J’y lis une aisance qui libère, à utiliser exprès."

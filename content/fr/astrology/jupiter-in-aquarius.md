@@ -6,6 +6,8 @@ description: "Jupiter en Verseau dans un thème natal : grandir par les idées,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Verseau"]
 weight: 71
 glyph: "♃♒"
 definition: "Jupiter en Verseau, c’est la planète de la croissance et du sens dans le signe d’air fixe gouverné par Uranus en astrologie tropicale moderne et par Saturne dans la tradition. Toute une année de naissance, à peu près, partage ce placement. J’y lis une croissance par les idées et les gens : des principes d’équité, de liberté et d’avenir, partagés largement."

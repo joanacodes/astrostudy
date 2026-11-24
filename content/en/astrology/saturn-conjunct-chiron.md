@@ -5,6 +5,8 @@ description: "Saturn conjunct Chiron in a birth chart: limits and adaptation fus
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Chiron", "conjunction"]
 weight: 290
 glyph: "♄☌⚷"
 definition: "Saturn conjunct Chiron brings Saturn and Chiron within a few degrees of each other, which happened in Pisces in 1965–67, and only then between 1930 and 2009. In a chart it fuses the limits you are asked to keep with the way you adapt around a persistent difficulty: often a gift for building the method you once needed."

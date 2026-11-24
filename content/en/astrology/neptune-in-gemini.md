@@ -5,6 +5,8 @@ description: "Neptune in Gemini in a birth chart: imagination that lives in word
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Gemini"]
 weight: 99
 glyph: "♆♊"
 definition: "Neptune in Gemini is Neptune, the planet of imagination and inspiration, in the mutable air sign of words and connection. It belongs to no one alive today: Neptune was last there from 1887 to 1902 and returns from 2051 to 2066. It describes imagination carried by language: stories, songs, letters, and the dream of understanding through talk."

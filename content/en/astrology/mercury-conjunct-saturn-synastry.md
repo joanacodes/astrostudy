@@ -5,6 +5,8 @@ description: "Mercury conjunct Saturn in synastry: one person’s words land on 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Saturn", "conjunction", "synastry"]
 weight: 131
 glyph: "☿☌♄"
 definition: "Mercury conjunct Saturn in synastry means one person’s Mercury lies within 6° of the other’s Saturn. What the first thinks aloud lands on the second’s sense of structure and responsibility, so ideas are weighed as soon as they’re spoken. I read it as a contact that makes talk solid, and asks you to tell musing from promising."

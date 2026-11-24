@@ -6,6 +6,8 @@ description: "Chiron en maison 11 dans un thème natal : un point sensible auto
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "maison 11", "maisons"]
 weight: 131
 glyph: "⚷"
 definition: "Chiron en maison 11 signifie que Chiron se trouvait dans la maison des amis, des groupes et des espoirs, que la tradition appelait le Génie favorable. Il décrit une adaptation autour d’un point sensible lié à l’appartenance à un groupe, et des cercles où d’autres trouvent aussi leur place. Il faut l’heure de naissance."

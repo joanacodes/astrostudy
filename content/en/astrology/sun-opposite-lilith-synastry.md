@@ -5,6 +5,8 @@ description: "Sun opposite Lilith in synastry: one person’s Sun faces what the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Lilith", "opposition", "synastry"]
 weight: 55
 glyph: "☉☍⚸"
 definition: "In Sun opposite Lilith in synastry, a Sun in one chart stands about 180°, within 8°, from Black Moon Lilith in the other. Each person sees, across the chart, what the other leaves out: a self at one end, a refusal at the other. I read it as a seesaw that can teach balance, never as enmity."

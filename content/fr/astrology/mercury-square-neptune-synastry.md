@@ -6,6 +6,8 @@ description: "Mercure carré Neptune en synastrie : le besoin de mots clairs de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Neptune", "carré", "synastrie"]
 weight: 143
 glyph: "☿□♆"
 definition: "Mercure carré Neptune en synastrie met un angle droit, à 5,1° près, entre deux thèmes : Mercure dans l’un, Neptune dans l’autre. Le besoin de mots clairs de la première et la façon de parler en images de la seconde se croisent : le sens peut dériver. J’y lis une friction qui apprend la compassion précise, jamais la tromperie."

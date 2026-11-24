@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["transits", "transit"]
 family: "techniques"
+categories: ["Transits and cycles"]
+tags: ["transits"]
 weight: 47
 glyph: "✦"
 definition: "A transit is a planet in the sky now making an aspect to a point of your birth chart, or crossing one of its houses: transiting Saturn square your natal Sun, say. Transits time the seasons of a chart. They bring out what the chart already holds, for weeks or years, and never create events of their own."

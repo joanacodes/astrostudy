@@ -5,6 +5,8 @@ description: "Lilith in Virgo in a birth chart: the clear ‘that isn’t right�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Virgo"]
 weight: 138
 glyph: "⚸♍"
 definition: "Lilith in Virgo means mean Black Moon Lilith, the Moon’s farthest point from Earth, was in mutable earth, the sign Mercury rules, at your birth. I read it as a discernment you learned to keep quiet — the clear sense that something isn’t right — and a refusal that works in the details rather than in speeches."

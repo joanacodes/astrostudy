@@ -6,6 +6,8 @@ description: "Pluton en Taureau dans un thème natal : Pluton en exil, un chang
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Taureau"]
 weight: 110
 glyph: "♇♉"
 definition: "Pluton en Taureau, c’est la planète de la transformation en terre fixe, dans le signe de Vénus, et son exil en astrologie tropicale moderne. Les naissances de 1851 à 1884 ont ce placement, celles de 2095 à 2129 l’auront, mais aucune de 1930 à 2009. On y lit une lente transformation de ce qu’une génération possède et estime."

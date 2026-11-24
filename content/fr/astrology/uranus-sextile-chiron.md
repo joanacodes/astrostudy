@@ -6,6 +6,8 @@ description: "Uranus sextile Chiron dans un thème natal : des méthodes neuves
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Chiron", "sextile"]
 weight: 316
 glyph: "♅⚹⚷"
 definition: "Uranus sextile Chiron est un angle de 60° entre Uranus et Chiron, trouvé dans le décompte pour les naissances de 1938 à 1941 et de 1999 à 2001. Dans un thème, l’envie d’expérimenter ouvre des portes au savoir-faire qui s’adapte autour d’un point sensible, pourvu que vous essayiez la porte. Vos maisons le rendent personnel."

@@ -6,6 +6,8 @@ description: "La Lune des fraises, pleine lune de juin : ses dates et signes de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 25
 glyph: "○"
 definition: "La Lune des fraises est le nom que les almanachs donnent à la pleine lune de juin, d’après la courte saison des fraises dans le nord-est américain. C’est un nom populaire, pas d’astrologie. Dans un thème, c’est une pleine lune en Sagittaire ou en Capricorne, face au Soleil, et en 2029 comme en 2030 une éclipse de Lune."

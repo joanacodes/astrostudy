@@ -5,6 +5,8 @@ description: "The Harvest moon is the full moon nearest the September equinox, n
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 28
 glyph: "○"
 definition: "The Harvest moon is the full moon nearest the September equinox, so it falls in September or early October, within about a fortnight of 22 or 23 September. It is an old English name, not astrology. In a chart it is a full moon in late Pisces or early Aries, with the Sun opposite in late Virgo or early Libra."

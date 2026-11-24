@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["opposition"]
 family: "aspects"
+categories: ["Aspects"]
+tags: ["opposition"]
 weight: 5
 glyph: "☍"
 definition: "L’opposition est un angle de 180° entre deux planètes, en général dans des signes opposés. Dans un thème natal, elle marque deux parts de vous qui se font face et demandent un équilibre, et l’on rencontre souvent l’une d’elles chez les autres. Les astrologues la disent dure, et c’est le plus large des cinq aspects."

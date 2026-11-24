@@ -6,6 +6,8 @@ description: "Mercure conjonction Saturne dans un thème natal : un esprit soig
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Saturne", "conjonction"]
 weight: 120
 glyph: "☿☌♄"
 definition: "Mercure conjonction Saturne signifie qu’à votre naissance, Mercure et Saturne étaient à quelques degrés d’écart, près du Soleil. Dans un thème, la pensée et la structure se fondent : vous pesez vos mots, vous apprenez avec méthode et vous bâtissez des idées faites pour durer. J’y lis un esprit qui gagne lentement sa confiance, et la garde."

@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["maison 9", "maison IX"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["maison 9"]
 weight: 9
 glyph: "IX"
 definition: "La maison 9 est la neuvième des douze maisons d’un thème natal. Les astrologues y lisent l’horizon lointain : les longs voyages, les études supérieures, les convictions et la quête de sens — ce que vous acceptez de remettre en question pour mieux comprendre. La tradition l’appelait le Dieu, et le Soleil y a sa joie."

@@ -6,6 +6,8 @@ description: "Soleil conjonction Saturne en synastrie : le sens du devoir d’u
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Saturne", "conjonction", "synastrie"]
 weight: 26
 glyph: "☉☌♄"
 definition: "Soleil conjonction Saturne en synastrie, c’est Saturne, chez une personne, à moins de 8° du Soleil de l’autre : le devoir, les exigences et le long terme posés sur l’identité de quelqu’un d’autre. L’une se sent prise au sérieux, l’autre responsable. J’y lis un lien engagé, et je regarde quelle mesure finit par compter."

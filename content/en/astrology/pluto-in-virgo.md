@@ -5,6 +5,8 @@ description: "Pluto in Virgo in a birth chart: deep change through work, method 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Virgo"]
 weight: 114
 glyph: "♇♍"
 definition: "Pluto in Virgo turns deep change towards method and service, in mutable earth ruled by Mercury. Pluto was there from October 1956 to July 1972, so about 1 person in 6 born from 1930 to 2009 has it. In a chart it describes transformation through work, skill and the repair of what fails."

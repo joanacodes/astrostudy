@@ -5,6 +5,8 @@ description: "Venus trine Uranus in a birth chart: affection and originality at 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Uranus", "trine"]
 weight: 173
 glyph: "♀△♅"
 definition: "Venus trine Uranus means Venus and Uranus stood about 120° apart when you were born, usually sharing an element. In a chart, affection and originality flow together: you can love freely, change your tastes without upheaval, and give others room easily. I read the ease as real, and best used with attention."

@@ -6,6 +6,8 @@ description: "Mercure carré Neptune dans un thème natal : des images avant le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Neptune", "carré"]
 weight: 132
 glyph: "☿□♆"
 definition: "Mercure carré Neptune est un angle de 90° à la naissance entre la planète du langage et celle des rêves. Dans un thème, les faits et les images réclament sans cesse la même place : vous pensez en images plus volontiers qu’en listes. J’y lis une friction qui forme une imagination soigneuse, jamais un esprit brouillé."

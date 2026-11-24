@@ -6,6 +6,8 @@ description: "Jupiter sextile Chiron dans un thème natal : l’aide qui se pr�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Chiron", "sextile"]
 weight: 261
 glyph: "♃⚹⚷"
 definition: "Jupiter sextile Chiron désigne un écart d’environ 60° entre Jupiter et Chiron, le plus fréquent de leurs cinq aspects. Dans un thème, votre recherche de sens et l’endroit qui reste sensible peuvent coopérer : l’aide et la compréhension arrivent quand vous allez les chercher. J’y lis une invitation à laisser la limite et la compétence cohabiter."

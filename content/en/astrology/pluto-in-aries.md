@@ -5,6 +5,8 @@ description: "Pluto in Aries in a birth chart: deep change by starting again, a 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Aries"]
 weight: 109
 glyph: "♇♈"
 definition: "Pluto in Aries is the planet of deep change in the first sign of the zodiac, cardinal fire ruled by Mars. Nobody born from 1930 to 2009 has it: it belongs to births from 1822 to 1853 and from 2066 to 2097. It describes renewal by starting again from scratch, with courage rather than caution."

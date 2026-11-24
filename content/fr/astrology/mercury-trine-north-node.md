@@ -6,6 +6,8 @@ description: "Mercure trigone Nœud Nord dans un thème natal : un esprit qui a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Nœud Nord", "trigone"]
 weight: 153
 glyph: "☿△☊"
 definition: "Mercure trigone Nœud Nord signifie qu’à votre naissance, environ 120° séparaient Mercure du Nœud Nord, et environ 60° du Nœud Sud. Dans un thème, ce trigone laisse votre façon de penser vous porter vers un terrain moins familier sans vous couper de ce que vous savez. L’aisance est réelle, et demande encore de la pratique."

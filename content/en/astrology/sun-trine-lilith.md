@@ -5,6 +5,8 @@ description: "Sun trine Lilith in a birth chart: your own terms held calmly, and
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Lilith", "trine"]
 weight: 46
 glyph: "☉△⚸"
 definition: "Sun trine Lilith means your Sun and Black Moon Lilith were about 120° apart at birth, in signs of one element. In a chart your sense of self and the part of you that wouldn’t obey work together easily: you can refuse without drama and want without guilt. I read it as a self-possession that often goes unnoticed."

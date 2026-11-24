@@ -5,6 +5,8 @@ description: "Saturn opposite Uranus in a birth chart: stability and change face
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Uranus", "opposition"]
 weight: 279
 glyph: "♄☍♅"
 definition: "Saturn opposite Uranus means Saturn and Uranus stood about 180° apart at your birth, which happened from 1964 to 1967 and again in 2008–09. In a chart it puts the wish to keep things stable and the wish to change them at opposite ends, and asks you to balance the two rather than pick a side."

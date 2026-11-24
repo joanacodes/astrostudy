@@ -6,6 +6,8 @@ description: "Mercure trigone Jupiter dans un thème natal : un savoir qui s’
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Jupiter", "trigone"]
 weight: 118
 glyph: "☿△♃"
 definition: "Mercure trigone Jupiter signifie qu’à votre naissance, Mercure et Jupiter étaient à environ 120° d’écart, en général dans des signes d’un même élément. Dans un thème, apprendre et comprendre se soutiennent : les faits trouvent leur place et les explications viennent facilement. J’y lis un esprit fluide, qui a encore besoin d’une question à sa mesure."

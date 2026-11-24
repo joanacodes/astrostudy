@@ -6,6 +6,8 @@ description: "Soleil en Bélier, Lune en Gémeaux : feu et air, un sextile par 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier", "Lune", "Gémeaux"]
 weight: 3
 glyph: "☉♈☽♊"
 definition: "Avec le Soleil en Bélier et la Lune en Gémeaux, votre naissance a eu lieu deux jours et demi à sept jours environ après une nouvelle lune, la Lune deux signes devant le Soleil. J’y lis l’action et les mots qui se nourrissent : vous trouvez votre direction en bougeant et vos émotions en les disant, souvent d’un même souffle."

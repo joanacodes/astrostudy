@@ -6,6 +6,8 @@ description: "Chiron trigone Lilith dans un thème natal : vous adapter à une 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Lilith", "trigone"]
 weight: 368
 glyph: "⚷△⚸"
 definition: "Chiron trigone Lilith place Chiron et la Lune noire Lilith moyenne à environ 120° l’un de l’autre dans votre thème natal, souvent dans des signes du même élément. Votre façon de vous adapter à une difficulté durable et la part de vous qui refuse d’être domptée se soutiennent : vous faites de la place à la difficulté sans vous rapetisser."

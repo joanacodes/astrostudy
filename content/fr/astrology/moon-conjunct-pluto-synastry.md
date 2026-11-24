@@ -6,6 +6,8 @@ description: "Lune conjonction Pluton en synastrie : l’intensité de l’une 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Pluton", "conjonction", "synastrie"]
 weight: 96
 glyph: "☽☌♇"
 definition: "Lune conjonction Pluton en synastrie : Pluton d’une personne à moins de 8° de la Lune de l’autre. La profondeur et l’élan de transformation de l’une atteignent ce que l’autre ressent et ce dont elle a besoin : peu de choses restent en surface. J’y lis un contact de changement profond et de confiance, jamais le pouvoir de l’une sur l’autre."

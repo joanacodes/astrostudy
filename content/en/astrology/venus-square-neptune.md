@@ -5,6 +5,8 @@ description: "Venus square Neptune in a birth chart: the ideal and the real at r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Neptune", "square"]
 weight: 177
 glyph: "♀□♆"
 definition: "Venus square Neptune means Venus and Neptune met at a right angle, about 90°, when you were born, often in signs of one modality. In a chart, your sense of worth and your longing for more rub against each other, and ideal and real rarely match at first. To me it’s friction with a lesson: loving clearly without loving less."

@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["big three"]
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 24
 glyph: "☉☽AC"
 definition: "Le big three, ce sont votre signe solaire, votre signe lunaire et votre ascendant, les trois positions que l’on partage en premier. Le Soleil montre ce que vous visez, la Lune ce dont vous avez besoin pour vous sentir en sécurité, l’ascendant votre façon d’aborder le monde. Ensemble, ils esquissent un thème natal, sans jamais le résumer."

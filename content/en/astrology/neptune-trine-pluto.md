@@ -5,6 +5,8 @@ description: "Neptune trine Pluto in a birth chart: why nobody born 1930–2009 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Pluto", "trine"]
 weight: 333
 glyph: "♆△♇"
 definition: "Neptune trine Pluto would put the two planets about 120° apart, letting imagination and deep renewal flow into each other. It is missing from every chart born between 1930 and 2009, when the pair kept to about half that distance; people born in those years meet it only as a transit or between two charts."

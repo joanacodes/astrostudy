@@ -5,6 +5,8 @@ description: "Venus in the 11th house in a birth chart: warm, easy friendships, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "11th house", "houses"]
 weight: 47
 glyph: "♀"
 definition: "Venus in the 11th house places the planet of affinity and reciprocity among friends, circles and shared hopes, in the house old astrologers called the Good Spirit. It describes warm, easy friendships, pleasure in belonging to a circle, and love that often begins as friendship. It can’t be read without the birth time."

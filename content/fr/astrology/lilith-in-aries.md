@@ -6,6 +6,8 @@ description: "Lilith en Bélier dans un thème natal : un premier élan qu’on
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Bélier"]
 weight: 133
 glyph: "⚸♈"
 definition: "Lilith en Bélier signifie qu’à votre naissance, la Lune noire Lilith, le point de l’orbite lunaire le plus éloigné de la Terre, traversait le premier signe du zodiaque. J’y lis un premier élan que vous avez appris à retenir — vouloir, passer en premier, dire non — et le refus d’attendre la permission de qui que ce soit."

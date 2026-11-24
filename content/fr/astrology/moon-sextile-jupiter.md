@@ -6,6 +6,8 @@ description: "Lune sextile Jupiter dans un thème natal : apprendre pour se ré
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Jupiter", "sextile"]
 weight: 69
 glyph: "☽⚹♃"
 definition: "Lune sextile Jupiter relie la Lune et Jupiter à environ 60° à la naissance, par deux signes amis la plupart du temps. Le ressenti et la croissance coopèrent : un besoin peut vous mener à apprendre, et ce que vous apprenez peut vous apaiser, dès que vous saisissez l’ouverture. J’y lis un bon sens tranquille et généreux."

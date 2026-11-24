@@ -6,6 +6,8 @@ description: "Neptune en maison 3 dans un thème natal : des pensées qui arriv
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "maison 3", "maisons"]
 weight: 99
 glyph: "♆"
 definition: "Neptune en maison 3 signifie que Neptune se trouvait, à votre naissance, dans la maison de l’esprit au quotidien : la parole, l’écriture, l’apprentissage, la fratrie et le voisinage, les petits trajets. On y lit un esprit qui travaille en images, un talent pour le récit, la chanson ou le vers, et des détails à vérifier deux fois."

@@ -6,6 +6,8 @@ description: "Vénus opposition Mars dans un thème natal : la plus rare rencon
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Mars", "opposition"]
 weight: 159
 glyph: "♀☍♂"
 definition: "Vénus opposition Mars signifie que votre thème place Vénus et Mars face à face, à 180° environ, dans des signes opposés : le plus rare de leurs aspects. Dans un thème, le goût et la poursuite se tiennent aux deux bouts d’une même ligne : vous penchez d’un côté, puis de l’autre, jusqu’à faire vôtres les deux bouts."

@@ -6,6 +6,8 @@ description: "Saturne en maison 5 dans un thème natal : une joie et un jeu qu�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "maison 5", "maisons"]
 weight: 77
 glyph: "♄"
 definition: "Avec Saturne en maison 5, la planète des règles s’installe dans la maison du jeu : créativité, plaisir, amours. On y lit un plaisir qui demande d’abord une permission, une créativité qui devient un métier, et un amour pris au sérieux dès le début. La tradition y mettait les enfants ; je la lis dans une vie d’adulte."

@@ -5,6 +5,8 @@ description: "Mars sextile Saturn in a birth chart: drive and discipline that co
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Saturn", "sextile"]
 weight: 206
 glyph: "♂⚹♄"
 definition: "Mars sextile Saturn is a 60° link between Mars and Saturn in a birth chart, usually across signs two apart. In a chart it lets the urge to act and the urge to structure cooperate: you can turn effort into a method and a plan into steps. As I read it, it is an opening that rewards being used."

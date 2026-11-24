@@ -5,6 +5,8 @@ description: "Sun in the 1st house in a birth chart: born in the hours before su
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "1st house", "houses"]
 weight: 1
 glyph: "☉"
 definition: "Sun in the 1st house means the Sun was just below the eastern horizon when you were born, in the last hours before sunrise, inside the house that begins at the Ascendant. I read it as an identity that shows at once: the self you are becoming is also the one people meet first. It needs your birth time."

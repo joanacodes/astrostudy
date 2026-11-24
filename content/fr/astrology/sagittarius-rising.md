@@ -6,6 +6,8 @@ description: "Ascendant Sagittaire : un horizon ouvert, Jupiter maître du thè
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "Sagittaire"]
 weight: 9
 glyph: "↑♐"
 definition: "Un ascendant Sagittaire signifie que le Sagittaire, signe de feu mutable gouverné par Jupiter, se levait à l’horizon est à votre naissance : votre ascendant est en Sagittaire. Il décrit une façon ouverte et franche d’aborder le monde, curieuse de ce que croient les gens. À Londres, le Sagittaire met environ deux heures et demie à se lever."

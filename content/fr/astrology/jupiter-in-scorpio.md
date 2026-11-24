@@ -6,6 +6,8 @@ description: "Jupiter en Scorpion dans un thème natal : grandir en allant au f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Scorpion"]
 weight: 68
 glyph: "♃♏"
 definition: "Jupiter en Scorpion, c’est la planète de la croissance et du sens dans le signe d’eau fixe gouverné par Pluton en astrologie tropicale moderne et par Mars dans la tradition. Toute une année de naissance, à peu près, partage ce placement. J’y lis une croissance par la profondeur : une compréhension trouvée sous la surface, une loyauté éprouvée."

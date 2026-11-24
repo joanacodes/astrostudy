@@ -6,6 +6,8 @@ description: "Neptune trigone Chiron dans un thème natal : la compassion et le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Chiron", "trigone"]
 weight: 338
 glyph: "♆△⚷"
 definition: "Neptune trigone Chiron, ce sont Neptune et Chiron à environ 120° d’écart. C’est l’aspect Neptune–Chiron le plus fréquent de mon décompte, environ 1 personne sur 9 née entre 1930 et 2009, surtout entre 1960 et 1972. Dans un thème, la compassion et l’endroit qui reste sensible travaillent ensemble sans effort : l’empathie et l’adaptation se soutiennent."

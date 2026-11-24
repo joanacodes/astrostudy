@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["aspects durs", "aspects doux", "aspect dur", "aspect doux"]
 family: "aspects"
+categories: ["Aspects"]
+tags: []
 weight: 41
 glyph: "□/△"
 definition: "Les aspects durs et doux sont les deux familles dans lesquelles les astrologues rangent les angles entre planètes. Le carré et l’opposition sont durs : une friction, une tension qui demandent un effort. Le trigone et le sextile sont doux : l’aisance, des occasions à saisir. La conjonction n’appartient à aucune. Dur ne veut jamais dire mauvais, ni doux chanceux."

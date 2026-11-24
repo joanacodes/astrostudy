@@ -5,6 +5,8 @@ description: "Sun conjunct Pluto in a birth chart: intensity at the centre of wh
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pluto", "conjunction"]
 weight: 33
 glyph: "☉☌♇"
 definition: "Sun conjunct Pluto means the Sun stood within a few degrees of Pluto when you were born. In a chart it fuses your identity with depth and transformation: you rarely do things by halves, and you can rebuild yourself more than once. I read it as a concentrated strength, never as a wish to control."

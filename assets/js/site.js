@@ -1056,6 +1056,38 @@ function wireSignup(form) {
 }
 
 /* ---------------------------------------------------------------------------------------------
+   "Must reads" (must-reads.html): the arrows move the row by one card. They show only when the row
+   is wider than the page, and each one greys out at its end. Swiping and the keyboard need nothing
+   from here. */
+
+function carousels(root) {
+  for (const box of $$('[data-carousel]', root)) {
+    const track = $('[data-carousel-track]', box);
+    const arrows = $('[data-carousel-arrows]', box);
+    const prev = $('[data-carousel-prev]', box);
+    const next = $('[data-carousel-next]', box);
+    if (!track || !arrows || !prev || !next) continue;
+    const step = () => {
+      const card = track.firstElementChild;
+      const gap = parseFloat(getComputedStyle(track).columnGap) || 0;
+      return card ? card.getBoundingClientRect().width + gap : track.clientWidth;
+    };
+    const update = () => {
+      const end = track.scrollWidth - track.clientWidth;
+      arrows.hidden = end <= 2;
+      prev.disabled = track.scrollLeft <= 2;
+      next.disabled = track.scrollLeft >= end - 2;
+    };
+    const move = (dir) => track.scrollBy({ left: dir * step(), behavior: reduce.matches ? 'auto' : 'smooth' });
+    prev.addEventListener('click', () => move(-1));
+    next.addEventListener('click', () => move(1));
+    track.addEventListener('scroll', update, { passive: true });
+    if ('ResizeObserver' in window) new ResizeObserver(update).observe(track);
+    update();
+  }
+}
+
+/* ---------------------------------------------------------------------------------------------
    Per page. */
 
 function initPage(root, settle = 0) {
@@ -1064,6 +1096,7 @@ function initPage(root, settle = 0) {
   initSky(root);
   articleAnchors(root);
   blogTools(root);
+  carousels(root);
   collectDrawings(root);
   faqs(root);
   localTimes(root);

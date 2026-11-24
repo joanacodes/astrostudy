@@ -6,6 +6,8 @@ description: "Mercure opposition Nœud Nord en synastrie : Mercure de l’une s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Nœud Nord", "opposition", "synastrie"]
 weight: 165
 glyph: "☿☍☊"
 definition: "Mercure opposition Nœud Nord en synastrie signifie que Mercure, chez une personne, se trouve à environ 180° du Nœud Nord de l’autre, à 6° près, donc sur son Nœud Sud. La façon de parler de l’une tombe sur le terrain familier de l’autre. J’y lis une conversation facile et reposante, tremplin ou ornière selon l’usage."

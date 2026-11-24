@@ -6,6 +6,8 @@ description: "Saturne en maison 1 dans un thème natal : du sérieux très tôt
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "maison 1", "maisons"]
 weight: 73
 glyph: "♄"
 definition: "Saturne en maison 1 signifie qu’à votre naissance, Saturne se trouvait juste sous l’horizon est, près de l’ascendant, dans la maison de soi. On y lit une manière d’être sérieuse très tôt, lente à se sentir à l’aise, et une présence qui prend de l’assise avec les années. Il faut pour cela une heure de naissance précise."

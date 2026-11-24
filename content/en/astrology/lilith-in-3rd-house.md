@@ -5,6 +5,8 @@ description: "Lilith in the 3rd house in a birth chart: a voice that learned whe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "3rd house", "houses"]
 weight: 135
 glyph: "⚸"
 definition: "Lilith in the 3rd house means Black Moon Lilith, the Moon’s farthest point from Earth, sat in the house of everyday talk, learning and siblings when you were born. I read it as a voice that learned early when not to speak, an ear for what goes unsaid, and a refusal to repeat what you haven’t checked yourself."

@@ -6,6 +6,8 @@ description: "Lilith en maison 7 dans un thème natal : la part cachée qu’on
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "maison 7", "maisons"]
 weight: 139
 glyph: "⚸"
 definition: "Lilith en maison 7 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la maison qui commence à votre descendant, celle des partenaires. J’y lis une part cachée que vous rencontrez souvent d’abord chez quelqu’un d’autre, et le refus d’être la plus petite moitié d’un lien."

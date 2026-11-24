@@ -6,6 +6,8 @@ description: "Saturne conjonction Nœud Nord dans un thème natal : une croissa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Nœud Nord", "conjonction"]
 weight: 300
 glyph: "♄☌☊"
 definition: "Saturne conjonction Nœud Nord signifie que Saturne se trouvait à quelques degrés du Nœud Nord à votre naissance, donc face au Nœud Sud. Dans un thème, la direction dans laquelle vous grandissez arrive avec une structure : les capacités nouvelles demandent plus de temps et une pratique régulière, et elles tiennent une fois bâties."

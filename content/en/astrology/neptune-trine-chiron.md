@@ -5,6 +5,8 @@ description: "Neptune trine Chiron in a birth chart: compassion and the tender s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Chiron", "trine"]
 weight: 338
 glyph: "♆△⚷"
 definition: "Neptune trine Chiron means Neptune and Chiron about 120° apart. It is the commonest Neptune–Chiron aspect in my count, about 1 person in 9 born 1930–2009, most of them between 1960 and 1972. In a chart, compassion and the place that stays tender work together easily, so empathy and adaptation support each other."

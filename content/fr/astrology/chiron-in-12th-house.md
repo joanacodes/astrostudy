@@ -6,6 +6,8 @@ description: "Chiron en maison 12 dans un thème natal : s’adapter loin des r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "maison 12", "maisons"]
 weight: 132
 glyph: "⚷"
 definition: "Chiron en maison 12 signifie que Chiron se trouvait dans la maison de ce qui se passe loin des regards — la solitude, le repos, la vie intérieure —, que la tradition appelait le Génie défavorable. Il décrit une adaptation discrète autour d’une sensibilité souvent silencieuse. Il ne prédit ni enfermement ni maladie ; il faut l’heure de naissance."

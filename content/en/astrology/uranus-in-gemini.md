@@ -5,6 +5,8 @@ description: "Uranus in Gemini in a birth chart: an original mind, for those bor
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Gemini"]
 weight: 87
 glyph: "♅♊"
 definition: "Uranus in Gemini is the planet of change in a mutable air sign ruled by Mercury, the sign of words, links and learning. Those born from August 1941 to June 1949, or from July 2025 to May 2033, all have it. I read it as a generation’s experiment with how ideas travel; the house makes it your own."

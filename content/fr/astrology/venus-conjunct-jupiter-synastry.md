@@ -6,6 +6,8 @@ description: "Vénus conjonction Jupiter en synastrie : le goût de l’une ren
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Jupiter", "conjonction", "synastrie"]
 weight: 171
 glyph: "♀☌♃"
 definition: "Vénus conjonction Jupiter en synastrie signifie que Vénus, chez une personne, se trouve à moins de 6° de Jupiter chez l’autre. Ce que l’une aime et estime rencontre la façon qu’a l’autre d’élargir, de croire et d’encourager. J’y lis une générosité mutuelle, dans un couple, une amitié ou une équipe, qui gagne à garder le sens de l’assez."

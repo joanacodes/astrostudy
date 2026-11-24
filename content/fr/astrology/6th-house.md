@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["maison 6", "maison VI"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["maison 6"]
 weight: 6
 glyph: "VI"
 definition: "La maison 6 est la sixième des douze maisons d’un thème natal. Les astrologues y lisent la forme d’une journée ordinaire : le travail que vous faites, les habitudes qui vous tiennent debout, les personnes avec qui vous travaillez et le soin que vous donnez à votre corps. La tradition l’appelait la Fortune défavorable et y plaçait la joie de Mars."

@@ -6,6 +6,8 @@ description: "Le septile en astrologie : deux planètes à 51°26′, un septi�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["septile", "aspects mineurs"]
 weight: 12
 glyph: "✦"
 definition: "Le septile est un septième du cercle entre deux planètes : 51°26′, un angle qui ne tombe jamais sur un degré entier. Dans un thème natal, il marque un motif qui se forme par répétition, une façon dont deux planètes s’organisent l’une l’autre qu’on ne reconnaît qu’après plusieurs tours. Il décrit des cycles, jamais un destin."

@@ -6,6 +6,8 @@ description: "La Lune des fleurs, pleine lune de mai : ses dates et signes de 2
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 24
 glyph: "○"
 definition: "La Lune des fleurs est le nom que les almanachs donnent à la pleine lune de mai, le mois où les fleurs abondent en Amérique du Nord. C’est un nom populaire, pas de l’astrologie. Dans un thème, c’est une pleine lune en Scorpion, le Soleil en Taureau, ou certaines années en Sagittaire, le Soleil en Gémeaux."

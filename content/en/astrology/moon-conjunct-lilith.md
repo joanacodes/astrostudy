@@ -5,6 +5,8 @@ description: "Moon conjunct Lilith in a birth chart: the Moon near the far end o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Lilith", "conjunction"]
 weight: 98
 glyph: "☽☌⚸"
 definition: "Moon conjunct Lilith means that at your birth the Moon was within a few degrees of mean Black Moon Lilith, the average far point of its own orbit. It fuses your need for comfort with the part of you that won’t be tamed: you feel safest when all of you is allowed in. I read it as authenticity in feeling."

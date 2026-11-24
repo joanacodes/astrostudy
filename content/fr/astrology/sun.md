@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Soleil", "signe solaire"]
 family: "planets"
+categories: ["Planètes et points"]
+tags: ["Soleil"]
 weight: 1
 glyph: "☉"
 definition: "Le Soleil est le centre d’un thème natal : le signe qu’il occupait à votre naissance est votre signe solaire, celui des horoscopes. Les astrologues y lisent votre élan central et votre façon de rayonner — ce que vous cherchez à devenir. Sa maison montre le domaine de vie où cet effort se voit le plus."

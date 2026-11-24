@@ -5,6 +5,8 @@ description: "Saturn in Pisces in a birth chart: boundaries learned around compa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Pisces"]
 weight: 84
 glyph: "♄♓"
 definition: "Saturn in Pisces is structure meeting the most boundless of signs: mutable water, compassionate and imaginative, ruled by Neptune for modern tropical astrology and by Jupiter for the tradition. It’s the Saturn sign of those born in roughly 1935–38, 1964–67 and 1993–96, and it describes boundaries learned around compassion."

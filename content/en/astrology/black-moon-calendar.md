@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["black moon"]
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 19
 glyph: "●●"
 definition: "In the calendar sense, a black moon is an extra new moon: most often the second new moon in one calendar month, sometimes the third of four in one season. It is a popular name with no agreed definition and no place in astronomy, and nothing to do with Black Moon Lilith, the point astrologers read in a chart."

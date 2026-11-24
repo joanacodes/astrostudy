@@ -5,6 +5,8 @@ description: "Jupiter in Libra in a birth chart: growth through weighing, fairne
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Libra"]
 weight: 67
 glyph: "♃♎"
 definition: "Jupiter in Libra is Jupiter, the planet of growth and meaning, in the cardinal air sign ruled by Venus. Everyone born within the same year or so shares it. I read it as growth through judgement and relationship: beliefs formed in dialogue, principles centred on fairness, and understanding that comes from hearing the other side."

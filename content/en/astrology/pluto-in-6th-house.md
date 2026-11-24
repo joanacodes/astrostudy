@@ -5,6 +5,8 @@ description: "Pluto in the 6th house in a birth chart: daily work, routines and 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "6th house", "houses"]
 weight: 114
 glyph: "♇"
 definition: "Pluto in the 6th house lets deep change happen in ordinary days: daily work, routines, service and colleagues. It describes an intense relationship with work and a life renewed through what is done every day, never, as I read it in an adult’s life, a forecast of illness. It needs the birth time."

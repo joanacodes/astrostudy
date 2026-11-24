@@ -6,6 +6,8 @@ description: "Mars opposition Uranus dans un thème natal : l’effort et la li
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Uranus", "opposition"]
 weight: 214
 glyph: "♂☍♅"
 definition: "Mars opposition Uranus place la planète de l’effort et celle du changement aux deux bouts du thème, à environ 180°. Dans un thème, votre élan y est tiraillé entre l’engagement et le besoin de liberté, souvent d’abord à travers d’autres personnes. J’y lis une polarité qui apprend l’indépendance sans l’isolement."

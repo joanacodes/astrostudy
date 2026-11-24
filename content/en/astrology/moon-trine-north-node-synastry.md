@@ -5,6 +5,8 @@ description: "Moon trine North Node in synastry: one person’s comfort eases th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "North Node", "trine", "synastry"]
 weight: 114
 glyph: "☽△☊"
 definition: "Moon trine North Node in synastry means one person’s Moon is about 120° from the other’s North Node, within 6.8°, which leaves it about 60° from their South Node. One person’s comforts run in the same direction as the other’s growth. I read it as support that eases someone forward and deserves to be named."

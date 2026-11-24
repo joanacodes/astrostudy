@@ -5,6 +5,8 @@ description: "Moon conjunct Lilith in synastry: one person’s comforts meet the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Lilith", "conjunction", "synastry"]
 weight: 106
 glyph: "☽☌⚸"
 definition: "Moon conjunct Lilith in synastry means one person’s Moon sits within 8° of the other’s mean Black Moon Lilith. What soothes one person sits on the very degree of the other’s refusal to be tamed. I read it as a closeness where what was hidden can come into the room, as long as it stays its owner’s."

@@ -5,6 +5,8 @@ description: "Sun conjunct Saturn in a birth chart: an identity built patiently,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Saturn", "conjunction"]
 weight: 18
 glyph: "☉☌♄"
 definition: "Sun conjunct Saturn means Saturn sat on or near your Sun at birth, within a few degrees and most often in your Sun sign. In a chart, your identity and the structures you build are bound together. I read it as an identity built patiently, under some pressure, which comes late and lasts."

@@ -6,6 +6,8 @@ description: "Chiron en maison 7 dans un thème natal : un point sensible qui s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "maison 7", "maisons"]
 weight: 127
 glyph: "⚷"
 definition: "Chiron en maison 7 signifie que Chiron se trouvait dans la maison des partenaires et des liens en tête-à-tête, qui commence au descendant en Placidus. Il décrit une adaptation autour d’un point sensible qui se montre entre les personnes, et l’art d’être proche sans se perdre. Il faut une heure de naissance exacte."

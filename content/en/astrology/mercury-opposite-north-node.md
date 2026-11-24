@@ -5,6 +5,8 @@ description: "Mercury opposite North Node in a birth chart: a fluent mind on the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "North Node", "opposition"]
 weight: 154
 glyph: "☿☍☊"
 definition: "Mercury opposite North Node means that, at your birth, Mercury sat across the chart from the North Node, which puts it on the South Node. In a chart the way you think belongs to familiar ground, what came early and easily, while your growth lies across the chart. I read it as a ready mind learning to reach."

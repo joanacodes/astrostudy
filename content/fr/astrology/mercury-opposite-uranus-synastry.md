@@ -6,6 +6,8 @@ description: "Mercure opposition Uranus en synastrie : le raisonnement de l’u
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Uranus", "opposition", "synastrie"]
 weight: 140
 glyph: "☿☍♅"
 definition: "Mercure opposition Uranus en synastrie décrit Mercure, chez une personne, face à Uranus, chez l’autre : environ 180°, avec 6° d’orbe. Le raisonnement de la première et le besoin de rupture de la seconde se tiennent aux deux bouts d’un même axe, chacun aiguisant l’autre. J’y lis une balançoire entre le familier et le neuf, pas une compétition."

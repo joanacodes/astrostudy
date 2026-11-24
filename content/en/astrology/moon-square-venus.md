@@ -5,6 +5,8 @@ description: "Moon square Venus in a birth chart: the comfort you need and the p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Venus", "square"]
 weight: 60
 glyph: "☽□♀"
 definition: "Moon square Venus describes the Moon and Venus about 90° apart at birth, usually in signs three apart. What settles you and what you like or are drawn to keep asking for different things. I read it as friction that teaches you to ask plainly for what you need, never as a curse on love."

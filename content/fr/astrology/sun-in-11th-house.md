@@ -6,6 +6,8 @@ description: "Soleil en maison 11 dans un thème natal : une naissance au milie
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "maison 11", "maisons"]
 weight: 11
 glyph: "☉"
 definition: "Le Soleil en maison 11 signifie que le Soleil était déjà haut, en milieu de matinée, à votre naissance, dans la maison des amis, des groupes et des espoirs, que la tradition appelait le Génie favorable. J’y lis un moi qui se forme parmi des gens choisis, avec un but lié à un avenir partagé. Il faut l’heure de naissance."

@@ -6,6 +6,8 @@ description: "La Lune froide, pleine lune de décembre : la prochaine le 24 dé
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 31
 glyph: "○"
 definition: "La Lune froide est le nom que les almanachs donnent à la pleine lune de décembre, le mois où le froid s’installe, près de la nuit la plus longue de l’année. C’est un nom populaire, pas d’astrologie. Dans un thème, c’est une pleine lune en Gémeaux, le Soleil en Sagittaire, ou en Cancer, le Soleil en Capricorne."

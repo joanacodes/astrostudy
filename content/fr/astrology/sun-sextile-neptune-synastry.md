@@ -6,6 +6,8 @@ description: "Soleil sextile Neptune en synastrie : les projets d’une personn
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Neptune", "sextile", "synastrie"]
 weight: 37
 glyph: "☉⚹♆"
 definition: "Soleil sextile Neptune en synastrie ouvre une porte entre le but d’une personne et l’imaginaire de l’autre ; le Soleil et Neptune y sont distants d’environ 60°, à 4,8° près. Les projets de l’une gagnent du sens, les rêves de l’autre une direction. J’y lis une inspiration offerte, qui compte dès que quelqu’un lui donne une forme."

@@ -6,6 +6,8 @@ description: "Chiron en Cancer dans un thème natal : une appartenance faite à
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Cancer"]
 weight: 124
 glyph: "⚷♋"
 definition: "Avec Chiron en Cancer, votre naissance a eu lieu pendant que Chiron, que je lis comme l’adaptation, traversait le signe d’eau cardinal gouverné par la Lune : d’août 1937 à juin 1941, de juin 1988 à juillet 1991, ou dès juillet 2038. Il décrit une appartenance faite à la main, l’abri et le soin construits par vous-même."

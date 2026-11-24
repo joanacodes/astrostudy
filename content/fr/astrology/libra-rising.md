@@ -6,6 +6,8 @@ description: "Ascendant Balance : l’autre sur le seuil, Vénus maître du th�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "Balance"]
 weight: 7
 glyph: "↑♎"
 definition: "Un ascendant Balance signifie que la Balance, signe d’air cardinal gouverné par Vénus, se levait à l’horizon est à votre naissance : votre ascendant est en Balance. Il décrit une façon diplomate et sociable d’aborder le monde, qui cherche un terrain commun. Dans le Nord, il se lève lentement : près de trois heures à Londres."

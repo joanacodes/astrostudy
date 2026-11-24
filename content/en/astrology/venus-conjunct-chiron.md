@@ -5,6 +5,8 @@ description: "Venus conjunct Chiron in a birth chart: what you value and the way
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Chiron", "conjunction"]
 weight: 185
 glyph: "♀☌⚷"
 definition: "Venus conjunct Chiron means Venus and Chiron stood within a few degrees of each other at your birth. In a chart, what you value and the way you adapt around a lasting sensitivity work as one: worth and affection can feel tender, and relating becomes a considered skill. I read the sensitivity as context, never as who you are."

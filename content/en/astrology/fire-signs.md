@@ -5,6 +5,8 @@ description: "The fire signs in astrology: Aries, Leo and Sagittarius — what f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signs"]
+tags: ["zodiac signs"]
 weight: 30
 glyph: "♈♌♐"
 definition: "The fire signs are Aries, Leo and Sagittarius, the three signs of the element of fire, each 120° from the next. In a birth chart, fire shows where you act on enthusiasm: warmth, initiative, conviction, the wish to begin and to be seen. Planets in fire signs tend to move first and reflect afterwards."

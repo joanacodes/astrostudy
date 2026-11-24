@@ -5,6 +5,8 @@ description: "Jupiter sextile Chiron in a birth chart: help that turns up for th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Chiron", "sextile"]
 weight: 261
 glyph: "♃⚹⚷"
 definition: "Jupiter sextile Chiron means Jupiter and Chiron about 60° apart, the commonest of their five aspects. In a chart, your search for meaning and the place that stays tender can cooperate: help and understanding turn up when you go looking. I read it as an invitation to let limitation and skill sit side by side."

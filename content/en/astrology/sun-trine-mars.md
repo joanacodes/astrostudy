@@ -5,6 +5,8 @@ description: "Sun trine Mars in a birth chart: effort that goes where your purpo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Mars", "trine"]
 weight: 11
 glyph: "☉△♂"
 definition: "Sun trine Mars means you were born with Mars four signs from the Sun, about 120° away, usually in the same element. In a chart, your effort tends to go where your purpose is heading. I read it as drive that flows with direction, at its best when you also learn to push where nothing flows."

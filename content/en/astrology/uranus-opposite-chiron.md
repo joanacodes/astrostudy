@@ -5,6 +5,8 @@ description: "Uranus opposite Chiron in a birth chart: freedom facing a tender p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Chiron", "opposition"]
 weight: 319
 glyph: "♅☍⚷"
 definition: "Uranus opposite Chiron is a 180° angle between Uranus and Chiron, and the commonest aspect the pair made in the count: about 1 birth in 4, on and off from 1951 to 1990. In a chart, the urge for freedom faces a tender place, and each teaches the other balance. Your houses make it personal."

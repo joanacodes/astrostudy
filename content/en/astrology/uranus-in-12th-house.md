@@ -5,6 +5,8 @@ description: "Uranus in the 12th house in a birth chart: an independent inner li
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "12th house", "houses"]
 weight: 96
 glyph: "♅"
 definition: "Uranus in the 12th house puts the planet of change in the house of solitude, rest, quiet work and the inner life, a cadent house just above the Ascendant whose natural sign is Pisces. I read it as freedom kept private, and change that starts inside long before it shows. It predicts no confinement."

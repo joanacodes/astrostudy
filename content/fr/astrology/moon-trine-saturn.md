@@ -6,6 +6,8 @@ description: "Lune trigone Saturne dans un thème natal : un calme de tempéram
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Saturne", "trigone"]
 weight: 76
 glyph: "☽△♄"
 definition: "Lune trigone Saturne place la Lune et Saturne à environ 120° dans le thème de naissance, en règle générale dans un seul élément. Ressenti et structure marchent du même pas : la stabilité vient du tempérament, et les responsabilités pèsent peu sur la vie intérieure. J’y lis un calme sur lequel on s’appuie, qui peut s’appuyer à son tour."

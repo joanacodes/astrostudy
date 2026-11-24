@@ -6,6 +6,8 @@ description: "Neptune en Taureau dans un thème natal : des rêves de beauté e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Taureau"]
 weight: 98
 glyph: "♆♉"
 definition: "Neptune en Taureau, c’est la planète de l’imagination et de l’aspiration dans le signe de terre fixe des sens. Aucune personne en vie n’a ce placement : Neptune y était de 1874 à 1889 et y revient de 2038 à 2052. C’est le rêve d’une beauté trouvée dans la matière : la terre, l’artisanat, la musique, une vie plus lente."

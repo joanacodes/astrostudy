@@ -6,6 +6,8 @@ description: "Soleil en Bélier, Lune en Balance : deux signes opposés, une na
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier", "Lune", "Balance"]
 weight: 7
 glyph: "☉♈☽♎"
 definition: "Soleil en Bélier, Lune en Balance place les deux luminaires dans des signes opposés, douze jours et demi à dix-sept jours après une nouvelle lune, près de la pleine lune. J’y lis deux initiateurs face à face : un moi qui poursuit ses propres buts, et des besoins qui ne s’apaisent que si tout est juste et calme avec vos proches."

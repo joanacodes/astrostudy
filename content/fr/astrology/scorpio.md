@@ -6,6 +6,8 @@ description: "Le Scorpion en astrologie : le signe de la profondeur, gouverné 
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signes"]
+tags: ["Scorpion"]
 weight: 8
 glyph: "♏"
 definition: "Le Scorpion est le huitième signe du zodiaque, un signe d’eau fixe gouverné par Pluton en astrologie tropicale moderne et par Mars dans la tradition ; le Soleil le traverse environ du 23 octobre au 21 novembre. Dans un thème natal, il montre où vous allez au fond, tenez bon et préférez la vérité aux apparences."

@@ -5,6 +5,8 @@ description: "Cancer rising: a protective first move, the Moon as your chart rul
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "rising sign", "Cancer"]
 weight: 4
 glyph: "↑♋"
 definition: "Cancer rising means Cancer, the cardinal water sign ruled by the Moon, was rising on the eastern horizon at your birth: your Ascendant is in Cancer. It describes a careful, protective way of meeting the world, guarded first and warm once safe. In the north it rises slowly, in about two and a half hours at London."

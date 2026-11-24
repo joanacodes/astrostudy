@@ -6,6 +6,8 @@ description: "La pleine lune en astrologie : la Lune face au Soleil, nommée d�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "phases lunaires"]
 weight: 12
 glyph: "○"
 definition: "La pleine lune est le moment où la Lune fait face au Soleil, à 180°, entièrement éclairée : elle se lève au coucher du Soleil et se couche à l’aube. Les astrologues la nomment d’après le signe de la Lune, le Soleil étant dans le signe opposé. Naître à la pleine lune donne un Soleil opposé à la Lune."

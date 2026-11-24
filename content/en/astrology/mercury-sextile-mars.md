@@ -5,6 +5,8 @@ description: "Mercury sextile Mars in a birth chart: ideas that turn into first 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Mars", "sextile"]
 weight: 111
 glyph: "☿⚹♂"
 definition: "Mercury sextile Mars means Mercury and Mars were about 60° apart when you were born. In a chart your ideas and your actions cooperate: an idea can become a first step, and a disagreement a useful exchange. I read it as an opening for practical courage, one that works when you use it."

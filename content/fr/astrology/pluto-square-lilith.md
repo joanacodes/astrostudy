@@ -6,6 +6,8 @@ description: "Pluton carré Lilith dans un thème natal : l’envie de transfor
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Lilith", "carré"]
 weight: 357
 glyph: "♇□⚸"
 definition: "Pluton carré Lilith, c’est un angle de 90° entre Pluton et la Lune noire Lilith moyenne à la naissance, en général dans des signes de même mode. Votre capacité de changer en profondeur appuie sur la part de vous qui refuse d’être gérée, même par vous. J’y lis une friction qui apprend qu’une part peut déranger sans être dépassée."

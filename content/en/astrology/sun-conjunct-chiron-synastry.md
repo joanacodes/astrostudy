@@ -5,6 +5,8 @@ description: "Sun conjunct Chiron in synastry: one person shines right where the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Chiron", "conjunction", "synastry"]
 weight: 46
 glyph: "☉☌⚷"
 definition: "Sun conjunct Chiron in synastry places one person’s Sun within 8° of the other’s Chiron, so what one does easily lands right where the other had to adapt around a sore spot. Recognition runs both ways. I read it as a meeting of ease and hard-won skill, and I watch that neither is mistaken for the other."

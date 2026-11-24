@@ -6,6 +6,8 @@ description: "Soleil conjonction Saturne dans un thème natal : un moi bâti av
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Saturne", "conjonction"]
 weight: 18
 glyph: "☉☌♄"
 definition: "Soleil conjonction Saturne signifie que Saturne se trouvait sur votre Soleil ou tout près à votre naissance, à quelques degrés, en général dans le même signe. Dans un thème, votre identité et les structures que vous bâtissez sont liées. J’y lis un moi qui se bâtit avec patience et finit par tenir longtemps."

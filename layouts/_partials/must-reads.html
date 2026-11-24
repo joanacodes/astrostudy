@@ -1,0 +1,85 @@
+{{- /* "Must reads", at the bottom of every article and every entry: a row of cards to swipe on a phone,
+       or to move through with the two arrows on a computer. The latest blog article comes first, then
+       the pages closest to this one: up to two blog articles (those that name this entry, then those
+       sharing its categories and tags), then encyclopaedia entries sharing them (hugo.toml, [related];
+       an entry's categories and tags come from tools/plan/tags.mjs). A page already shown above the
+       row (an entry's "Read next", an article's entries) isn't shown again. Eight cards at most.
+
+       Called with: page, and optionally skip (pages already on screen) and named (articles that name
+       this entry, newest first). */ -}}
+{{- $p := .page }}
+{{- $max := 8 }}
+{{- $seen := slice $p.Permalink }}
+{{- range .skip }}{{ $seen = $seen | append .Permalink }}{{ end }}
+{{- $cards := slice }}
+
+{{- range first 1 (where (where site.RegularPages "Section" "blog").ByDate.Reverse "Permalink" "not in" $seen) }}
+{{- $cards = $cards | append (dict "page" . "latest" true) }}{{ $seen = $seen | append .Permalink }}
+{{- end }}
+
+{{- $related := site.RegularPages.Related $p }}
+{{- $posts := slice }}
+{{- range .named }}{{ $posts = $posts | append . }}{{ end }}
+{{- range where $related "Section" "blog" }}{{ $posts = $posts | append . }}{{ end }}
+{{- $n := 0 }}
+{{- range $posts }}
+{{- if and (lt $n 2) (not (in $seen .Permalink)) }}
+{{- $cards = $cards | append (dict "page" .) }}{{ $seen = $seen | append .Permalink }}{{ $n = add $n 1 }}
+{{- end }}
+{{- end }}
+
+{{- /* the closest entries: the most tags shared, then the category. Pages that tie come in an order of
+       this page's own, so neighbouring pages don't all show the same few cards, and no more than four
+       come from one shelf while other shelves have cards to give. */}}
+{{- $mine := $p.Params.tags | default slice }}
+{{- $shelf := $p.Params.categories | default slice }}
+{{- $pool := slice }}
+{{- range first 120 (where $related "Section" "astrology") }}
+{{- if not (in $seen .Permalink) }}
+{{- $score := add (mul 100 (len (intersect $mine (.Params.tags | default slice)))) (mul 60 (len (intersect $shelf (.Params.categories | default slice)))) }}
+{{- $order := hash.FNV32a (print $p.RelPermalink .RelPermalink) }}
+{{- $pool = $pool | append (dict "page" . "key" (printf "%05d-%010d" (sub 99999 $score) $order)) }}
+{{- end }}
+{{- end }}
+{{- $pool = sort $pool "key" }}
+{{- $perShelf := dict }}
+{{- range $pool }}
+{{- $c := lower (index (.page.Params.categories | default (slice "")) 0) }}
+{{- $k := index $perShelf $c | default 0 }}
+{{- if and (lt (len $cards) $max) (lt $k 4) }}
+{{- $cards = $cards | append (dict "page" .page) }}{{ $seen = $seen | append .page.Permalink }}
+{{- $perShelf = merge $perShelf (dict $c (add $k 1)) }}
+{{- end }}
+{{- end }}
+{{- range $pool }}
+{{- if and (lt (len $cards) $max) (not (in $seen .page.Permalink)) }}
+{{- $cards = $cards | append (dict "page" .page) }}{{ $seen = $seen | append .page.Permalink }}
+{{- end }}
+{{- end }}
+
+{{- with $cards }}
+<section class="blog-after must-reads" data-carousel aria-labelledby="must-reads">
+  <div class="must-reads__head">
+    <p class="label" id="must-reads">{{ i18n "mustReads" }}</p>
+    <div class="must-reads__arrows" data-carousel-arrows hidden>
+      <button type="button" class="must-reads__arrow" data-carousel-prev aria-label="{{ i18n "mustPrev" }}"><span aria-hidden="true">←</span></button>
+      <button type="button" class="must-reads__arrow" data-carousel-next aria-label="{{ i18n "mustNext" }}"><span aria-hidden="true">→</span></button>
+    </div>
+  </div>
+  <ul class="must-reads__track" data-carousel-track>
+    {{- range . }}
+    {{- $c := .page }}
+    {{- $kind := cond (eq $c.Section "blog") (i18n "mustBlog") (i18n "encName") }}
+    {{- if .latest }}{{ $kind = i18n "mustLatest" }}{{ end }}
+    <li class="must-reads__slide">
+      <a class="post-card must-reads__card" href="{{ $c.RelPermalink }}">
+        {{- partial "post-cover.html" $c }}
+        <span class="must-reads__kind">{{ $kind }}{{ with $c.Params.categories }} · {{ index . 0 }}{{ end }}</span>
+        <span class="post-card__title">{{ $c.Title }}</span>
+        <span class="post-card__desc">{{ cond (eq $c.Section "blog") $c.Description ($c.Params.definition | default $c.Description) | plainify }}</span>
+      </a>
+    </li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}

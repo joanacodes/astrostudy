@@ -6,6 +6,8 @@ description: "Lilith opposition Nœud Nord dans un thème natal : Lilith sur le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Nœud Nord", "opposition"]
 weight: 379
 glyph: "⚸☍☊"
 definition: "Lilith opposition Nœud Nord signifie qu’à votre naissance, la Lune noire Lilith moyenne se trouvait à environ 180° du Nœud Nord, sur le Nœud Sud. Dans un thème, refuser, vous tenir à l’écart et garder vos limites est un terrain familier et pratiqué ; la direction de croissance, en face, demande ce que votre refus ne peut pas donner."

@@ -6,6 +6,8 @@ description: "Soleil trigone Mercure en synastrie : l’esprit de l’une suit 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Mercure", "trigone", "synastrie"]
 weight: 9
 glyph: "☉△☿"
 definition: "Soleil trigone Mercure en synastrie signifie que Mercure, chez une personne, se trouve à environ 120° du Soleil de l’autre, à 6,8° près, en général dans un même élément. Aucun thème seul ne l’a : Mercure reste à moins de 28° environ du Soleil. J’y lis une conversation facile, qui reste juste tant qu’on continue de se poser des questions."

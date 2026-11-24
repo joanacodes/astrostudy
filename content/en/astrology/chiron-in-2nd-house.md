@@ -5,6 +5,8 @@ description: "Chiron in the 2nd house in a birth chart: a tender spot where mone
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "2nd house", "houses"]
 weight: 122
 glyph: "⚷"
 definition: "Chiron in the 2nd house means Chiron sat in the house of what you have and what you value: income, belongings, talents and self-worth. It describes adapting around the knot between what you earn and what you feel you're worth, and building security in your own way. It needs the birth time."

@@ -5,6 +5,8 @@ description: "Mercury square Jupiter in synastry: one person’s details against
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Jupiter", "square", "synastry"]
 weight: 128
 glyph: "☿□♃"
 definition: "Mercury square Jupiter in synastry means one person’s Mercury is about 90° from the other’s Jupiter, within 5.1°. The first person’s facts and the second’s sense of the whole keep pulling across each other, in talk and in decisions. I read it as friction that teaches two people proportion, never as a sign they can’t think together."

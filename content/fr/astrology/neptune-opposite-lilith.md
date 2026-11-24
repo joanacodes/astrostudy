@@ -6,6 +6,8 @@ description: "Neptune opposition Lilith dans un thème natal : l’envie de se 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Lilith", "opposition"]
 weight: 344
 glyph: "♆☍⚸"
 definition: "Neptune opposition Lilith place Neptune et la Lune noire Lilith moyenne de part et d’autre du thème, à environ 180°, pour environ 1 personne sur 30. Dans un thème, l’envie de se fondre dans quelqu’un ou dans plus grand que soi fait face à votre part indomptée : être proche sans y perdre votre tranchant."

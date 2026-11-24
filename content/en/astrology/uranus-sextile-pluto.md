@@ -5,6 +5,8 @@ description: "Uranus sextile Pluto in a birth chart: an opening between reform a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Pluto", "sextile"]
 weight: 311
 glyph: "♅⚹♇"
 definition: "Uranus sextile Pluto is a 60° angle between the two planets, and the count caught it twice: for births of 1941 to 1947 and of 1991 to 2001. In a chart, the urge to reform and the power to renew at depth can switch each other on, once the opening is taken. Two generations share it."

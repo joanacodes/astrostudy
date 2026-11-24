@@ -6,6 +6,8 @@ description: "Vénus en maison 7 dans un thème natal : le couple, l’échange
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "maison 7", "maisons"]
 weight: 43
 glyph: "♀"
 definition: "Vénus en maison 7 signifie que Vénus touchait presque l’horizon ouest à votre naissance, dans la maison des partenaires, dont le signe naturel est la Balance, son domicile. On y lit un don pour le couple et l’échange équitable, le goût de la grâce et de la bonne compagnie, et une paix à équilibrer avec votre propre voix."

@@ -6,6 +6,8 @@ description: "Mercure trigone Saturne dans un thème natal : un esprit ordonné
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Saturne", "trigone"]
 weight: 123
 glyph: "☿△♄"
 definition: "Mercure trigone Saturne signifie qu’à votre naissance, Mercure et Saturne étaient à environ 120° d’écart, d’ordinaire dans des signes de même élément. Dans un thème, pensée et structure font bon ménage : vous prévoyez sans effort, apprenez avec régularité et dites ce que vous pensez. J’y lis une fiabilité tranquille, qui devient sagesse si vous l’éprouvez."

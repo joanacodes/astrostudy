@@ -5,6 +5,8 @@ description: "Uranus sextile North Node in a birth chart: experiment opening a w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "North Node", "sextile"]
 weight: 326
 glyph: "♅⚹☊"
 definition: "Uranus sextile North Node means Uranus stood about 60° from the North Node at your birth, and so 120° from the South Node. In a chart, experiment offers your direction of growth an opening, and renewing what you already know becomes a way forward. It works when you take it up; it is not a destiny."

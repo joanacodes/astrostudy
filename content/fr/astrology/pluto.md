@@ -6,6 +6,8 @@ description: "Pluton en astrologie : la planète de la profondeur, dans chaque 
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planètes et points"]
+tags: ["Pluton"]
 weight: 10
 glyph: "♇"
 definition: "Pluton est une planète naine au-delà de Neptune et, en astrologie, la planète de la profondeur, du pouvoir et de la transformation. Son signe est celui de toute une génération ; sa maison montre où vous ressentez les choses jusqu’au fond, où vous tenez le plus fort et où, avec le temps, vous pouvez lâcher prise et recommencer."

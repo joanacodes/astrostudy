@@ -5,6 +5,8 @@ description: "Moon in Libra in a birth chart: feelings steadied by harmony and c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Libra"]
 weight: 19
 glyph: "☽♎"
 definition: "Moon in Libra means the Moon was in Libra at your birth. I read it as feelings steadied by balance and good company: you settle when there is peace with the people closest to you, you find comfort in fairness and in surroundings that please you, and you often soothe others more easily than yourself."

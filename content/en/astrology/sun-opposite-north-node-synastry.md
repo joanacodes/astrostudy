@@ -5,6 +5,8 @@ description: "Sun opposite North Node in synastry: one person’s Sun on the oth
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "North Node", "opposition", "synastry"]
 weight: 60
 glyph: "☉☍☊"
 definition: "Sun opposite North Node in synastry means one person’s Sun stands about 180° from the other’s North Node, within 8°, and so on their South Node. Who the first person is matches what the second already knows how to be, so they feel familiar at once. I read it as a resource, and a comfort that can slow growth."

@@ -5,6 +5,8 @@ description: "North Node in Aries in a birth chart: learning to choose first, af
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "Aries"]
 weight: 145
 glyph: "☊♈"
 definition: "North Node in Aries means the Moon’s northward crossing of the Sun’s path lay in the first sign of the zodiac when you were born, with the South Node opposite in Libra. I read it as a direction: learning to choose for yourself and say so first, after a long habit of keeping the peace."

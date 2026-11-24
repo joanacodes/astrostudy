@@ -6,6 +6,8 @@ description: "Vénus conjonction Mars en synastrie : ce que l’une trouve dés
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Mars", "conjonction", "synastrie"]
 weight: 166
 glyph: "♀☌♂"
 definition: "Vénus conjonction Mars en synastrie signifie que Vénus, chez une personne, se trouve à moins de 6° de Mars chez l’autre. Ce que l’une trouve attirant ou digne d’intérêt est exactement là où l’autre met son énergie. J’y lis un intérêt mutuel et rapide, en couple, en amitié comme au travail, jamais un verdict sur une relation."

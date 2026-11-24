@@ -5,6 +5,8 @@ description: "The full moon in Gemini, with the Sun in Sagittarius: facts agains
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "full moon", "Gemini"]
 weight: 50
 glyph: "○♊"
 definition: "The full moon in Gemini is the Moon in Gemini opposite the Sun in Sagittarius, the last full moon before the December solstice. It lights the Gemini–Sagittarius axis: questions and answers, facts and meaning. In a birth chart it counts within about 1° of a planet or angle, at either end; as an eclipse, about 3°."

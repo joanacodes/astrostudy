@@ -5,6 +5,8 @@ description: "Sun trine Mercury in synastry: one person’s mind follows the oth
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Mercury", "trine", "synastry"]
 weight: 9
 glyph: "☉△☿"
 definition: "Sun trine Mercury in synastry means one person’s Mercury is about 120° from the other’s Sun, within 6.8°, usually in signs of one element. No single chart has it: Mercury stays within about 28° of the Sun. One person understands the other’s direction easily. I read it as easy conversation that stays true by asking."

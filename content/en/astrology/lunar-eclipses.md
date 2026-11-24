@@ -5,6 +5,8 @@ description: "Lunar eclipses in astrology: a full moon in the Earth’s shadow, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "eclipses"]
 weight: 33
 glyph: "◐"
 definition: "A lunar eclipse is a full moon that falls close enough to one of the Moon’s nodes to pass through the Earth’s shadow: totally, partly, or only through its pale outer edge. In astrology it counts within about three degrees of a natal point, at the Moon’s end or the Sun’s, a penumbral one weighing less, never as an omen."

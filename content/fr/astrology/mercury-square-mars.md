@@ -6,6 +6,8 @@ description: "Mercure carré Mars dans un thème natal : un esprit vif et un é
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Mars", "carré"]
 weight: 112
 glyph: "☿□♂"
 definition: "Mercure carré Mars signifie qu’à votre naissance, Mercure et Mars étaient à environ 90° d’écart. Dans un thème, penser et agir tirent à angle droit : les idées arrivent avec urgence, et les mots parfois avec du tranchant. J’y lis une friction qui aiguise les deux, jamais une dispute en attente."

@@ -5,6 +5,8 @@ description: "Lilith in the 8th house in a birth chart: a part of you that stays
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "8th house", "houses"]
 weight: 140
 glyph: "⚸"
 definition: "Lilith in the 8th house means Black Moon Lilith, the Moon’s farthest point from Earth, sat in the house of intimacy, trust and what is shared when you were born. I read it as a part of you that stays your own inside the closest bonds, and a refusal to be possessed through love, money or need."

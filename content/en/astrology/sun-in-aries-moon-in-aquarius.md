@@ -5,6 +5,8 @@ description: "Sun in Aries, Moon in Aquarius: fire and air, a sextile by sign, b
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries", "Moon", "Aquarius"]
 weight: 11
 glyph: "☉♈☽♒"
 definition: "Sun in Aries, Moon in Aquarius belongs to the last week of a lunar month: twenty-two to twenty-seven days after a new moon, with the Moon trailing the Sun by two signs. I read it as two kinds of independence: a self that goes its own way, and needs that understand a feeling from a little distance."

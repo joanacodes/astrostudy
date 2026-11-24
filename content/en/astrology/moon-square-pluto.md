@@ -5,6 +5,8 @@ description: "Moon square Pluto in a birth chart: the need for comfort rubbing a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Pluto", "square"]
 weight: 90
 glyph: "☽□♇"
 definition: "Moon square Pluto means the Moon and Pluto were at right angles when you were born, some 90° apart. It sets your need for safe, familiar comfort against the urge to go deeper and renew, so feelings rarely stay on the surface. I read it as friction that builds emotional strength, never as a verdict."

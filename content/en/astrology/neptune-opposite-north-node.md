@@ -5,6 +5,8 @@ description: "Neptune opposite North Node in a birth chart: Neptune on the South
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "North Node", "opposition"]
 weight: 349
 glyph: "♆☍☊"
 definition: "Neptune opposite North Node is Neptune standing across the chart from the North Node at your birth, and so beside the South Node. In a chart, imagination, compassion and the art of letting go are familiar ground, known by heart; the direction of growth faces them, asking for a capacity you have practised less."

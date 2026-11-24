@@ -5,6 +5,8 @@ description: "Jupiter in Leo in a birth chart: growth in the open, through what 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Leo"]
 weight: 65
 glyph: "♃♌"
 definition: "Jupiter in Leo is Jupiter, the planet of growth and meaning, in the fixed fire sign ruled by the Sun. Everyone born within the same year or so has it. I read it as growth in the open: you come to understand things through what you create and celebrate, and you believe in people wholeheartedly."

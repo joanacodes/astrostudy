@@ -5,6 +5,8 @@ description: "North Node in Scorpio in a birth chart: opening a hand that learne
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "Scorpio"]
 weight: 152
 glyph: "☊♏"
 definition: "North Node in Scorpio means the North Node, the point where the Moon’s path crosses the Sun’s heading north, was in fixed water at your birth, with the South Node in Taurus. I read it as growth towards depth: trust, intimacy, and change welcomed rather than resisted, after a long habit of holding on to what feels safe."

@@ -6,6 +6,8 @@ description: "Lune opposition Jupiter en synastrie : l’une tient le familier,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Jupiter", "opposition", "synastrie"]
 weight: 80
 glyph: "☽☍♃"
 definition: "Lune opposition Jupiter en synastrie : Jupiter d’une personne face à la Lune de l’autre, à environ 180°, à 8° près. L’une tient le besoin du familier et de ce qui est proche ; l’autre tient le sens, les projets et le vaste monde. J’y lis une bascule que deux personnes équilibrent ensemble, jamais une lutte."

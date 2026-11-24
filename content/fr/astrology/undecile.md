@@ -6,6 +6,8 @@ description: "L’undécile en astrologie : deux planètes à 32°44′, un onz
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["undécile", "aspects mineurs"]
 weight: 20
 glyph: "✦"
 definition: "L’undécile est un onzième du cercle entre deux planètes : environ 32°44′, juste au-delà du semi-sextile. Au sein d’un thème natal, il montre une différence qui émerge : deux planètes qui produisent ensemble un motif inhabituel, une variation bien à elles. Ce n’est ni une marque d’exception ni un signe d’instabilité ; il montre où vous différez, et comment cette différence tient."

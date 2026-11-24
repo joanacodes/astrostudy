@@ -5,6 +5,8 @@ description: "Jupiter square Pluto in a birth chart: the friction between more a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Pluto", "square"]
 weight: 257
 glyph: "♃□♇"
 definition: "Jupiter square Pluto means Jupiter and Pluto about 90° apart, an angle the two make twice between each of their meetings. In a chart, the urge to grow and believe rubs against the urge to strip things back and transform them. I read it as friction that builds tested convictions, never as a fight you lose."

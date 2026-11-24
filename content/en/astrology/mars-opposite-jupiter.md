@@ -5,6 +5,8 @@ description: "Mars opposite Jupiter in a birth chart: acting now and seeing the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Jupiter", "opposition"]
 weight: 204
 glyph: "♂☍♃"
 definition: "Mars opposite Jupiter means Mars and Jupiter were about 180° apart at your birth, in opposite signs. In a chart it sets the urge to act now across from the urge to understand the whole, and asks you to let each inform the other. I read it as a polarity to balance, never as a fight inside you."

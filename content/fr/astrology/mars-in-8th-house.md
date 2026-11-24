@@ -6,6 +6,8 @@ description: "Mars en maison 8 dans un thème natal : un désir profond, la con
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "maison 8", "maisons"]
 weight: 56
 glyph: "♂"
 definition: "Mars en maison 8 met Mars dans la maison de l’intimité, de la confiance et de ce que l’on partage ou doit. On y lit un désir fort et une volonté forte : vous vous engagez en profondeur, affrontez les crises et tenez au partage du pouvoir. Il faut une heure exacte ; ni la mort ni l’argent ne s’y prédisent."

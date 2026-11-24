@@ -6,6 +6,8 @@ description: "Neptune opposition Pluton dans un thème natal : l’angle le plu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Pluton", "opposition"]
 weight: 334
 glyph: "♆☍♇"
 definition: "Neptune opposition Pluton placerait les deux planètes à environ 180° l’une de l’autre, l’angle le plus large qu’elles puissent former. Aucune personne née entre 1930 et 2009 ne le porte : les deux planètes restaient alors vers 60°. Cette polarité mettrait face à face l’envie de se fondre dans plus grand que soi et l’élan de transformer à la racine."

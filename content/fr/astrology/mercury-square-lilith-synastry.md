@@ -6,6 +6,8 @@ description: "Mercure carré Lilith en synastrie : les questions de l’une ren
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Lilith", "carré", "synastrie"]
 weight: 158
 glyph: "☿□⚸"
 definition: "Mercure carré Lilith en synastrie signifie que Mercure, chez une personne, se trouve à environ 90° de la Lilith de l’autre, à 5,1° près. La curiosité et les arguments de l’une butent sur les refus et le terrain privé de l’autre. J’y lis une friction qui apprend aux deux à dire une limite en mots, pas une incompréhension."

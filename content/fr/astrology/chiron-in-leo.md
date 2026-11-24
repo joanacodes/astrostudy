@@ -6,6 +6,8 @@ description: "Chiron en Lion dans un thème natal : apprendre à se montrer à 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Lion"]
 weight: 125
 glyph: "⚷♌"
 definition: "Chiron en Lion est un placement de courte durée : Chiron n’a traversé le signe de feu fixe gouverné par le Soleil que de septembre 1940 à juillet 1943 et de juillet 1991 à septembre 1993. Dans un thème, il décrit l’art de se montrer à sa façon, autour d’un point sensible lié à la reconnaissance plutôt qu’aux applaudissements."

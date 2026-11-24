@@ -6,6 +6,8 @@ description: "Ascendant Taureau : une entrée en matière stable, Vénus maîtr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "Taureau"]
 weight: 2
 glyph: "↑♉"
 definition: "Un ascendant Taureau signifie que le signe de terre fixe gouverné par Vénus se levait à l’horizon est à votre naissance : votre ascendant est en Taureau. Il décrit une façon calme d’aborder le monde, lente à s’engager et ferme ensuite. À Londres, il se lève en un peu plus d’une heure : il faut une heure de naissance précise."

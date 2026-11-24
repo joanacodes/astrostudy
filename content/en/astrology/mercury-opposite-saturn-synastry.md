@@ -5,6 +5,8 @@ description: "Mercury opposite Saturn in synastry: one person’s ideas facing t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Saturn", "opposition", "synastry"]
 weight: 135
 glyph: "☿☍♄"
 definition: "Mercury opposite Saturn in synastry places one person’s Mercury about 180° from the other’s Saturn, within 6°. The first person’s ideas meet the second’s caution face to face, so one tends to propose and the other to weigh. I read it as a seesaw between voice and structure that works when the roles keep changing hands."

@@ -5,6 +5,8 @@ description: "Mars in Pisces in a birth chart: drive that flows round obstacles 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Pisces"]
 weight: 60
 glyph: "♂♓"
 definition: "Mars in Pisces is Mars in mutable water, under two rulers I read together: Neptune in modern tropical astrology, Jupiter in the tradition. It describes drive led by feeling and imagination: you adapt easily, act on instinct, and work hardest for the people and causes you believe in."

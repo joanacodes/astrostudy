@@ -5,6 +5,8 @@ description: "Mercury sextile Chiron in a birth chart: turning what you learned 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Chiron", "sextile"]
 weight: 141
 glyph: "☿⚹⚷"
 definition: "In Mercury sextile Chiron, the planet of words and Chiron, read as a tender spot, sit 60° apart at birth, usually two signs away. In a chart it offers a way to put what you learned from your own sore places into words that help. I see it as an opening for sharing experience, not an obligation."

@@ -5,6 +5,8 @@ description: "Uranus in the 8th house in a birth chart: intimacy and trust with 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "8th house", "houses"]
 weight: 92
 glyph: "♅"
 definition: "Uranus in the 8th house places the planet of change in the house of intimacy, trust and what you share with others or owe them, a succedent house whose natural sign is Scorpio. I read it as closeness that needs air, and shared arrangements you choose rather than inherit. It predicts nothing about death."

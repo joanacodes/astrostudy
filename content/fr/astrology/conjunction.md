@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["conjonction"]
 family: "aspects"
+categories: ["Aspects"]
+tags: ["conjonction"]
 weight: 1
 glyph: "☌"
 definition: "Une conjonction réunit deux planètes au même degré du zodiaque, ou à quelques degrés près, le plus souvent dans le même signe. Dans un thème natal, elles agissent comme une seule : chacune colore tout ce que fait l’autre, facilement ou non, selon les planètes qui se rencontrent. Les astrologues modernes la placent en tête des aspects majeurs."

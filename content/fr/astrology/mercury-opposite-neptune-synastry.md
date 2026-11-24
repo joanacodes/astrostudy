@@ -6,6 +6,8 @@ description: "Mercure opposition Neptune en synastrie : les faits simples de l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Neptune", "opposition", "synastrie"]
 weight: 145
 glyph: "☿☍♆"
 definition: "Mercure opposition Neptune en synastrie tient face à face, à environ 180° et à 6° près, Mercure chez une personne et Neptune chez l’autre. Les faits et les mots rencontrent l’imagination et le ressenti, et chaque bout rend visible la façon de savoir de l’autre. J’y lis un équilibre entre le littéral et l’imaginé, à apprendre ensemble."

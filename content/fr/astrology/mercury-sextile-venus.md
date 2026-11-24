@@ -6,6 +6,8 @@ description: "Mercure sextile Vénus dans un thème natal : les deux planètes 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Vénus", "sextile"]
 weight: 109
 glyph: "☿⚹♀"
 definition: "Mercure sextile Vénus signifie qu’à votre naissance, Mercure et Vénus étaient à environ 60° d’écart, de part et d’autre du Soleil : le plus grand aspect majeur possible entre ces deux planètes. Dans un thème, la pensée et le goût restent distincts et s’entraident. J’y lis une ouverture pour les mots bien choisis."

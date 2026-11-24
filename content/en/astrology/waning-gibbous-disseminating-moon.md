@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["waning gibbous", "disseminating moon"]
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunar phases"]
 weight: 13
 glyph: "✦"
 definition: "The waning gibbous moon is the Moon between the full moon and the last quarter: more than half lit and shrinking, rising later each evening. In Dane Rudhyar’s eight phases the matching phase is called disseminating: the Moon 225° to 270° ahead of the Sun. I read a birth then as understanding that wants passing on."

@@ -6,6 +6,8 @@ description: "Mercure opposition Saturne en synastrie : les idées de l’une f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Saturne", "opposition", "synastrie"]
 weight: 135
 glyph: "☿☍♄"
 definition: "Mercure opposition Saturne en synastrie place Saturne, chez une personne, face à Mercure, chez l’autre, à environ 180°, à 6° près. Les idées de la première rencontrent de face la prudence de la seconde : l’une propose volontiers, l’autre pèse. J’y lis une balançoire entre la parole et la structure, qui marche quand les rôles changent de mains."

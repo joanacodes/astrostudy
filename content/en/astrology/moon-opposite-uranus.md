@@ -5,6 +5,8 @@ description: "Moon opposite Uranus in a birth chart: the need for closeness faci
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Uranus", "opposition"]
 weight: 82
 glyph: "☽☍♅"
 definition: "Moon opposite Uranus means you were born with the Moon and Uranus on opposite sides of the zodiac, about 180° apart. In a chart it sets your need for closeness across from your need for independence and change, two ends of one axis. I read it as a balance learned through relationships, not a choice between love and freedom."

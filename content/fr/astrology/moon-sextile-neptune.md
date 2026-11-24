@@ -6,6 +6,8 @@ description: "Lune sextile Neptune dans un thème natal : l’imagination offer
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Neptune", "sextile"]
 weight: 84
 glyph: "☽⚹♆"
 definition: "Lune sextile Neptune signifie que Neptune se trouvait à environ 60° de votre Lune à la naissance, souvent deux signes plus loin. Vos émotions et votre imagination coopèrent : une humeur peut devenir une image, une chanson ou un geste de bonté, et le faire vous apaise. Douce, cette ouverture ne marche que si vous vous en servez."

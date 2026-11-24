@@ -5,6 +5,8 @@ description: "Sun in the 9th house in a birth chart: the Sun in its joy, born ju
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "9th house", "houses"]
 weight: 9
 glyph: "☉"
 definition: "Sun in the 9th house means the Sun had just passed its highest point when you were born, in the early afternoon, in the house of travel, study and belief. Tradition calls it the Sun’s joy. I read it as a self that grows by understanding, with a purpose that works like a quest. It needs the birth time."

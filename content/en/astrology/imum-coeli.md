@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Imum Coeli", "IC"]
 family: "angles"
+categories: ["Planets and points"]
+tags: ["Imum Coeli", "angles"]
 weight: 4
 glyph: "IC"
 definition: "The IC, or Imum Coeli, Latin for the bottom of the sky, is the point where the zodiac crossed the meridian below the horizon when you were born, exactly opposite the Midheaven. Astrologers read it as your roots: home, family, and the private ground the rest of your life stands on. It needs a birth time."

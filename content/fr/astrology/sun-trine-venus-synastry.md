@@ -6,6 +6,8 @@ description: "Soleil trigone Vénus en synastrie : une appréciation qui circul
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Vénus", "trigone", "synastrie"]
 weight: 14
 glyph: "☉△♀"
 definition: "Soleil trigone Vénus en synastrie signifie que la Vénus d’une personne se trouve à environ 120° du Soleil de l’autre, à 6,8° près, en général dans un même élément. Aucun thème seul ne peut l’avoir : Vénus reste à moins de 47° environ du Soleil. J’y lis une affection généreuse, qui demande à être rendue."

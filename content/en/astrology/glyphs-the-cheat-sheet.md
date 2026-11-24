@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["glyphs"]
 family: "foundations"
+categories: ["Foundations"]
+tags: []
 weight: 12
 glyph: "☉♈☌"
 definition: "Glyphs are the symbols astrologers use as shorthand for the planets, signs, aspects and points of a chart, so that a whole sky fits in one wheel and a year of positions on a few pages. Each stands for one thing only. Once you know about thirty of them, any chart becomes readable."

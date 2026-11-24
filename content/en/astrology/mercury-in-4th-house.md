@@ -5,6 +5,8 @@ description: "Mercury in the 4th house in a birth chart: a private mind rooted i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "4th house", "houses"]
 weight: 28
 glyph: "☿"
 definition: "Mercury in the 4th house is the planet of thought and speech in the house of home, family and roots. It describes a private mind that thinks best in familiar surroundings, keeps family stories and phrases alive, and often turns to the past to understand the present. It sits near the chart’s lowest point and needs the birth time."

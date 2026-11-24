@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["7th house", "seventh house"]
 family: "houses"
+categories: ["Houses"]
+tags: ["7th house"]
 weight: 7
 glyph: "VII"
 definition: "The 7th house is the seventh of the twelve houses of a birth chart: it begins at the Descendant, the degree setting in the west when you were born. Astrologers read it as partners and close one-to-one bonds — love, marriage, work, even open rivals — and what you look for in the person facing you."

@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["opposition"]
 family: "aspects"
+categories: ["Aspects"]
+tags: ["opposition"]
 weight: 5
 glyph: "☍"
 definition: "An opposition is an angle of 180° between two planets, on opposite sides of the zodiac and usually in opposite signs. In a birth chart it marks two parts of you that face each other and ask to be balanced, often met through other people. Astrologers count it as a hard aspect, the widest of the five."

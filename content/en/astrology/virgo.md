@@ -5,6 +5,8 @@ description: "Virgo in astrology: the mutable earth sign ruled by Mercury — in
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signs"]
+tags: ["Virgo"]
 weight: 6
 glyph: "♍"
 definition: "Virgo is the sixth sign of the zodiac, a mutable earth sign ruled by Mercury, which the Sun crosses from about 23 August to 22 September. In a birth chart it marks where you sort, improve and help: attention to detail, skill, usefulness. The house it falls in shows where you want things done well."

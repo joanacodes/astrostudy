@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["chart wheel"]
 family: "foundations"
+categories: ["Foundations"]
+tags: []
 weight: 11
 glyph: "✦"
 definition: "A chart wheel is a birth chart drawn as a circle: the zodiac around the rim, the twelve houses inside it, the planets set at their degrees and lines for the aspects in the middle. The Ascendant sits on the left, the houses run anticlockwise from it, and the sky’s daily turn runs the other way."

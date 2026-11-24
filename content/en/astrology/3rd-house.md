@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["3rd house", "third house"]
 family: "houses"
+categories: ["Houses"]
+tags: ["3rd house"]
 weight: 3
 glyph: "III"
 definition: "The 3rd house is the third of the twelve houses of a birth chart. Astrologers read it as the everyday mind and the world close at hand: how you think, talk, write and learn, the people near you — siblings, cousins, neighbours — and the short journeys of an ordinary week. Tradition called it the Goddess."

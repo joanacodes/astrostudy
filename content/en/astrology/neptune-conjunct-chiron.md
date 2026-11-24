@@ -5,6 +5,8 @@ description: "Neptune conjunct Chiron in a birth chart: compassion born at the t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Chiron", "conjunction"]
 weight: 335
 glyph: "♆☌⚷"
 definition: "Neptune conjunct Chiron is a meeting of Neptune and Chiron within a few degrees, which came twice in the years counted: from late 1944 to late 1945, and from 2008 to the end of 2009. In a chart it joins compassion and imagination to the place that stays tender, so empathy grows right where it hurts."

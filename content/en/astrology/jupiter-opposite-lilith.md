@@ -5,6 +5,8 @@ description: "Jupiter opposite Lilith in a birth chart: your principles facing y
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Lilith", "opposition"]
 weight: 269
 glyph: "♃☍⚸"
 definition: "Jupiter opposite Lilith means Jupiter and Black Moon Lilith about 180° apart, the rarest of their five aspects. In a chart, your principles and the part of you that wouldn’t be tamed face each other, often through other people. I read it as a polarity that asks both ends to belong to you, never as a war."

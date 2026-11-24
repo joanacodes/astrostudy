@@ -5,6 +5,8 @@ description: "Pluto in Pisces in a birth chart: deep change through imagination 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Pisces"]
 weight: 120
 glyph: "♇♓"
 definition: "Pluto in Pisces closes the zodiac with deep change: mutable water, ruled by Neptune and traditionally by Jupiter. Its births ran from 1797 to 1823 and will resume from 2043 to 2068, with none in between. It describes transformation through imagination and compassion, as old borders dissolve."

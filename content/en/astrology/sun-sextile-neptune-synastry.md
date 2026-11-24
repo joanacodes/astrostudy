@@ -5,6 +5,8 @@ description: "Sun sextile Neptune in synastry: the aims of one person borrow mea
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Neptune", "sextile", "synastry"]
 weight: 37
 glyph: "☉⚹♆"
 definition: "Sun sextile Neptune in synastry opens a door between one person’s purpose and the other’s imagination, with Neptune about 60° from the Sun, within 4.8°. The Sun person’s aims gain meaning; the Neptune person’s dreams gain a direction. I read it as inspiration on offer, which counts once someone gives it a form."

@@ -6,6 +6,8 @@ description: "Jupiter carré Saturne dans un thème natal : la friction entre �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Saturne", "carré"]
 weight: 242
 glyph: "♃□♄"
 definition: "Jupiter carré Saturne, c’est un angle de 90° entre les deux planètes, que partagent les personnes nées dans une même période de quelques mois. Dans un thème, ce carré met l’envie d’élargir en friction avec l’envie de consolider : la croissance doit sans cesse mériter sa structure. J’y lis une friction qui donne des projets audacieux et solides, jamais un échec."

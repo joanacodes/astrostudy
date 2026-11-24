@@ -5,6 +5,8 @@ description: "Mars sextile Uranus in a birth chart: a knack for a new method whe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Uranus", "sextile"]
 weight: 211
 glyph: "♂⚹♅"
 definition: "Mars sextile Uranus links your drive and your urge to innovate at about 60°, usually in signs two apart. In a chart it gives effort an inventive streak: when the usual way stalls, you can find another and act on it. I read it as an opening for original action, one that works when you use it."

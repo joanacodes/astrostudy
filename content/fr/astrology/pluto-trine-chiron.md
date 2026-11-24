@@ -6,6 +6,8 @@ description: "Pluton trigone Chiron dans un thème natal : le changement profon
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Chiron", "trigone"]
 weight: 353
 glyph: "♇△⚷"
 definition: "Pluton trigone Chiron, ce sont Pluton et Chiron à environ 120° d’écart, un angle venu en deux groupes de naissances dans le décompte : 1949–50 et 1988–91. Dans un thème, le changement profond et l’endroit sensible s’aident : le renouveau rend une limite plus facile à vivre, et vos adaptations donnent à votre profondeur une forme douce."

@@ -6,6 +6,8 @@ description: "Saturne trigone Nœud Nord dans un thème natal : des habitudes p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Nœud Nord", "trigone"]
 weight: 303
 glyph: "♄△☊"
 definition: "Saturne trigone Nœud Nord signifie qu’à votre naissance, Saturne se trouvait à environ 120° du Nœud Nord. Dans un thème, la part de vous qui construit patiemment soutient la direction dans laquelle vous grandissez : des habitudes stables aident à pratiquer le moins familier. J’y lis une aide à employer, pas un destin tout tracé."

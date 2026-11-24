@@ -6,6 +6,8 @@ description: "Soleil sextile Lune en synastrie : la direction de l’une et les
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Lune", "sextile", "synastrie"]
 weight: 2
 glyph: "☉⚹☽"
 definition: "Soleil sextile Lune en synastrie signifie que le Soleil d’une personne se trouve à environ 60° de la Lune de l’autre, à 4,8° près. La direction de l’une et les besoins de l’autre peuvent s’entraider au quotidien. J’y lis une entraide discrète, dans les deux sens, qui dort tant que personne ne la demande."

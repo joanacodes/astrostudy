@@ -5,6 +5,8 @@ description: "Pluto in the 7th house in a birth chart: partnerships that transfo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "7th house", "houses"]
 weight: 115
 glyph: "♇"
 definition: "Pluto in the 7th house faces the self from across the chart, in the house of partnership, marriage, contracts and open rivals. It describes relationships that transform you, and trust and power worked out between two people. In Placidus this house begins at the Descendant, so it needs an accurate birth time."

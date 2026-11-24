@@ -5,6 +5,8 @@ description: "Sun sextile Moon in a birth chart: a crescent-moon birth, purpose 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Moon", "sextile"]
 weight: 2
 glyph: "☉⚹☽"
 definition: "Sun sextile Moon means a birth under a crescent moon, a few days either side of the new moon, the Sun and Moon about 60° apart. In a chart, your sense of purpose and your emotional needs can help each other. I read it as an offer of cooperation that works once you take it up."

@@ -5,6 +5,8 @@ description: "Mercury square Neptune in a birth chart: pictures before lists, an
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Neptune", "square"]
 weight: 132
 glyph: "☿□♆"
 definition: "Mercury square Neptune is a 90° angle at birth between the planet of language and the planet of dreams. In a chart, facts and images keep asking for the same space, so you think in pictures more readily than in lists. I read it as friction that schools a careful imagination, never as a muddled mind."

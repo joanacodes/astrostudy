@@ -5,6 +5,8 @@ description: "Uranus in Sagittarius in a birth chart: beliefs worked out for you
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Sagittarius"]
 weight: 93
 glyph: "♅♐"
 definition: "Uranus in Sagittarius is the planet of change in a mutable fire sign ruled by Jupiter, the sign of belief, travel and the search for meaning. Everyone born from February 1981 to December 1988 has it. I read it as a generation working out its own beliefs; the house says where."

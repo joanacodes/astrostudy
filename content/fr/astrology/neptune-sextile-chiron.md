@@ -6,6 +6,8 @@ description: "Neptune sextile Chiron dans un thème natal : l’imagination com
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Chiron", "sextile"]
 weight: 336
 glyph: "♆⚹⚷"
 definition: "Neptune sextile Chiron, ce sont Neptune et Chiron à environ 60° d’écart, un angle venu par courtes périodes : en 1939–41, en 1949–50 et en 1998–99. Dans un thème, l’imagination et la compassion y ouvrent un passage vers l’endroit sensible : l’art, le soin ou la foi aident à vivre avec une limite, si vous vous en saisissez."

@@ -5,6 +5,8 @@ description: "Jupiter in Capricorn in a birth chart: Jupiter in its fall, growth
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Capricorn"]
 weight: 70
 glyph: "♃♑"
 definition: "Jupiter in Capricorn is Jupiter, the planet of growth and meaning, in the cardinal earth sign ruled by Saturn, where tradition places its fall. Everyone born within the same year or so shares it. I read it as growth built in stages: understanding earned through responsibility, practical principles, and a long view of what lasts."

@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["période d’ombre"]
 family: "dignities"
+categories: ["Planètes et points"]
+tags: ["rétrograde"]
 weight: 4
 glyph: "✦"
 definition: "La période d’ombre est le temps qu’une planète passe à avancer sur les degrés que couvre sa rétrogradation : avant, à partir du degré où elle repartira vers l’avant, et après, jusqu’à ce qu’elle regagne le degré où elle avait commencé à reculer. C’est une convention d’astrologues modernes, surtout pour Mercure, que l’astronomie ne connaît pas."

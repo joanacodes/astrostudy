@@ -6,6 +6,8 @@ description: "Soleil opposition Pluton en synastrie : un moi qui se montre face
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Pluton", "opposition", "synastrie"]
 weight: 45
 glyph: "☉☍♇"
 definition: "Soleil opposition Pluton en synastrie met face à face le moi visible d’une personne et la profondeur de l’autre, Pluton se tenant à l’opposé de ce Soleil à 8° près. L’une se lit facilement, l’autre se découvre lentement. Pour moi, c’est une polarité entre ouverture et profondeur, où le pouvoir se partage en mots simples."

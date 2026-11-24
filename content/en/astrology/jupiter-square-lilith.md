@@ -5,6 +5,8 @@ description: "Jupiter square Lilith in a birth chart: inherited beliefs rubbing 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Lilith", "square"]
 weight: 267
 glyph: "♃□⚸"
 definition: "Jupiter square Lilith means Jupiter and Black Moon Lilith about 90° apart. In a chart, the beliefs you absorbed rub against the part of you that wouldn’t be tamed, so borrowed principles keep being tested by instinct. I read it as the friction that builds a conscience of your own, never as a flaw."

@@ -6,6 +6,8 @@ description: "La nouvelle lune en Gémeaux : le Soleil et la Lune réunis en ai
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "nouvelle lune", "Gémeaux"]
 weight: 38
 glyph: "●♊"
 definition: "La nouvelle lune en Gémeaux tombe pendant le passage du Soleil en Gémeaux, entre le 21 mai et le 20 juin environ : le Soleil et la Lune réunis en air mutable. En 2029 et en 2030, c’est aussi une éclipse de Soleil. J’y lis un repère pour la curiosité et l’échange, qui ne compte qu’à un degré d’un point natal."

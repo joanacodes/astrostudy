@@ -5,6 +5,8 @@ description: "Moon square Uranus in a birth chart: closeness and room to breathe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Uranus", "square"]
 weight: 80
 glyph: "☽□♅"
 definition: "Moon square Uranus means the Moon stood a quarter of the zodiac from Uranus when you were born, about 90°. In a chart it sets your need for familiar comfort against your need for space and change, so neither settles for long. I read it as friction that teaches you to build a security that can move, never as instability."

@@ -5,6 +5,8 @@ description: "Sun opposite Neptune in a birth chart: your own outline facing the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Neptune", "opposition"]
 weight: 32
 glyph: "☉☍♆"
 definition: "Sun opposite Neptune means the Sun faced Neptune across the zodiac on your birthday, about 180° away. In a chart it sets your own outline across from the boundless: ideals, compassion, other people’s needs, often met through someone else first. I read it as a balance between keeping yourself and giving yourself, never as a loss of self."

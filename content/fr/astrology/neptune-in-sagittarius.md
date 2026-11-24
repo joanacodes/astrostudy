@@ -6,6 +6,8 @@ description: "Neptune en Sagittaire dans un thème natal : la quête de foi et 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Sagittaire"]
 weight: 105
 glyph: "♆♐"
 definition: "Neptune en Sagittaire, c’est la planète de l’aspiration et de la transcendance dans le signe de feu mutable des voyages et des grandes questions, où Neptune a séjourné de janvier 1970 à novembre 1984. J’y lis l’aspiration de cette génération à un sens plus grand : une foi sans frontières, une quête qui ne s’arrête pas, un monde meilleur derrière l’horizon."

@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Nœud Nord", "nœud Nord"]
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["Nœud Nord", "nœuds lunaires"]
 weight: 7
 glyph: "☊"
 definition: "Le Nœud Nord est un point, pas une planète : là où la route de la Lune croise celle du Soleil en montant vers le nord. Le Nœud Sud lui fait face. Dans un thème natal, les astrologues y lisent la direction de croissance : moins familière, d’abord maladroite, souvent féconde. Son signe et sa maison disent où."

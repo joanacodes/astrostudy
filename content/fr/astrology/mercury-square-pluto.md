@@ -6,6 +6,8 @@ description: "Mercure carré Pluton dans un thème natal : des conversations qu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Pluton", "carré"]
 weight: 137
 glyph: "☿□♇"
 definition: "Mercure carré Pluton est un angle droit à la naissance entre votre façon de penser et la planète de la profondeur. Dans un thème, l’échange facile et l’attraction vers le cœur des choses se heurtent sans cesse : les conversations vont vite au fond. J’y lis une friction qui forge la lucidité, pas un esprit avide de contrôle."

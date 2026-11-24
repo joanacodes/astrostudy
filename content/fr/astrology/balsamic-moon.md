@@ -6,6 +6,8 @@ description: "La lune balsamique en astrologie : le dernier croissant avant l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "phases lunaires"]
 weight: 15
 glyph: "☾"
 definition: "La lune balsamique est la dernière des huit phases que les astrologues reprennent de Rudhyar : la Lune à moins de 45° derrière le Soleil, juste avant la nouvelle lune. Dans le ciel, c’est le plus mince des derniers croissants, bas à l’est avant l’aube, puis plus rien. J’y lis une fin qui fait de la place."

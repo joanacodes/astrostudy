@@ -5,6 +5,8 @@ description: "Saturn trine Pluto in a birth chart: deep change that holds, the c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Pluto", "trine"]
 weight: 288
 glyph: "♄△♇"
 definition: "Saturn trine Pluto sets Saturn and Pluto about 120° apart, usually in one element; among births from 1930 to 2009 it is the commonest of their aspects. In a chart, structure and transformation reinforce each other: what you rebuild tends to hold, and what you hold can renew itself, a quiet resilience."

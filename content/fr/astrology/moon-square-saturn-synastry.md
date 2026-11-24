@@ -6,6 +6,8 @@ description: "Lune carré Saturne en synastrie : les besoins de l’une rencont
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Saturne", "carré", "synastrie"]
 weight: 83
 glyph: "☽□♄"
 definition: "Lune carré Saturne en synastrie : Saturne d’une personne à environ 90° de la Lune de l’autre, à 6,8° près. Les besoins de l’une se heurtent à contretemps à la prudence, aux règles ou au calendrier de l’autre. J’y lis une friction de moment et de ton, qui peut bâtir un soin à la fois chaleureux et fiable."

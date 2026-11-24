@@ -5,6 +5,8 @@ description: "Saturn in Capricorn in a birth chart: Saturn at home in cardinal e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Capricorn"]
 weight: 82
 glyph: "♄♑"
 definition: "In Capricorn, Saturn is at home: this is its domicile, cardinal earth, the sign it rules. With Aquarius, it is the most common Saturn sign among people born 1930–2009, shared by the cohorts of roughly 1930–32, 1959–62 and 1988–91. It describes responsibility, mastery and a life built to last."

@@ -6,6 +6,8 @@ description: "Nœud Nord en Verseau dans un thème natal : mettre vos dons au s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "Verseau"]
 weight: 155
 glyph: "☊♒"
 definition: "Nœud Nord en Verseau signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans ce signe d’air fixe, le Nœud Sud en Lion. J’y lis une croissance vers le groupe : l’amitié, les buts communs, des talents mis au service des autres, après l’habitude du devant de la scène."

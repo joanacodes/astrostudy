@@ -5,6 +5,8 @@ description: "Mercury in Pisces in a birth chart: Mercury in detriment and fall,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Pisces"]
 weight: 36
 glyph: "☿♓"
 definition: "Mercury in Pisces is Mercury in its detriment and its fall: the planet of thought in mutable water, the sign ruled by Neptune and, traditionally, Jupiter. It describes an intuitive, imaginative mind that thinks in images and impressions, hears the feeling under words and works to put what it senses into language. About 1 person in 12 has it."

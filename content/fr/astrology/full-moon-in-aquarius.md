@@ -6,6 +6,8 @@ description: "La pleine lune en Verseau, le Soleil chez lui en Lion : le groupe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "pleine lune", "Verseau"]
 weight: 58
 glyph: "○♒"
 definition: "La pleine lune en Verseau, c’est la Lune en Verseau face au Soleil en Lion, entre fin juillet et fin août. Elle éclaire l’axe Verseau–Lion du côté du groupe : les amis et les idéaux partagés, face au désir de reconnaissance du cœur. Dans un thème, elle compte à 1° environ d’une planète ou d’un angle."

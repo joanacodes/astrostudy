@@ -6,6 +6,8 @@ description: "Chiron en Capricorne dans un thème natal : construire sa propre 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Capricorne"]
 weight: 130
 glyph: "⚷♑"
 definition: "Chiron en Capricorne appartient à deux groupes de naissances, de février 1951 à janvier 1955 et de décembre 2001 à décembre 2005, quand Chiron traversait le signe de terre cardinal gouverné par Saturne. Dans un thème, il décrit l’art de construire votre propre échelle, par la structure et le long effort, autour d’un point sensible lié à l’autorité."

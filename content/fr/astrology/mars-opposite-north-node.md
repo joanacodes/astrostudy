@@ -6,6 +6,8 @@ description: "Mars opposition Nœud Nord dans un thème natal : Mars sur le Nœ
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Nœud Nord", "opposition"]
 weight: 239
 glyph: "♂☍☊"
 definition: "Mars opposition Nœud Nord : dans votre thème natal, Mars se tient près du Nœud Sud, en face du Nœud Nord. L’effort est pour vous un terrain familier, une compétence sur laquelle vous comptez déjà, tandis que votre croissance demande quelque chose de complémentaire. J’y lis une force à emporter avec vous en chemin, pas à abandonner."

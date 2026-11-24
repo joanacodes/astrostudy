@@ -5,6 +5,8 @@ description: "Mercury sextile Lilith in synastry: an easy permission to say the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Lilith", "sextile", "synastry"]
 weight: 157
 glyph: "☿⚹⚸"
 definition: "Mercury sextile Lilith in synastry means one person’s Mercury is about 60° from the other’s Black Moon Lilith, within 3.6°. One person’s way of talking makes it easier for the other to voice what they usually hold back, and the other’s frankness frees the first one’s thinking. I read it as a permission that works when used."

@@ -6,6 +6,8 @@ description: "Soleil en maison 6 dans un thème natal : une naissance juste apr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "maison 6", "maisons"]
 weight: 6
 glyph: "☉"
 definition: "Le Soleil en maison 6 signifie que le Soleil venait de se coucher à votre naissance, dans la maison du travail quotidien, des routines, des collègues et du soin du corps. J’y lis une identité bâtie par la pratique, une vitalité qui dépend du rythme, et un but trouvé dans le travail utile. Ce placement ne prédit aucune maladie."

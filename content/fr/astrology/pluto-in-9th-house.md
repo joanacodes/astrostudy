@@ -6,6 +6,8 @@ description: "Pluton en maison 9 dans un thème natal : des croyances, des étu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "maison 9", "maisons"]
 weight: 117
 glyph: "♇"
 definition: "Pluton en maison 9 envoie le changement profond jusqu’à l’horizon lointain : les croyances, les études supérieures, les longs voyages et les grandes questions. On y lit une vision du monde gagnée plutôt qu’héritée, et rebâtie quand elle ne convient plus. En Placidus, la maison 9 s’arrête au Milieu du Ciel, et elle demande l’heure de naissance."

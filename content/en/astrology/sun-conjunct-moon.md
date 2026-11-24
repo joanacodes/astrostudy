@@ -5,6 +5,8 @@ description: "Sun conjunct Moon in a birth chart: a new-moon birth, purpose and 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Moon", "conjunction"]
 weight: 1
 glyph: "☉☌☽"
 definition: "Sun conjunct Moon means a birth at or near the new moon, with the Sun and Moon in the same place in the zodiac or a few degrees apart. In a chart, purpose and need set out as a single impulse. I read it as an undivided beginning that learns to hear its two voices."

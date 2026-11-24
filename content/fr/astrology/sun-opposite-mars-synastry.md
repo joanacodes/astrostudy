@@ -6,6 +6,8 @@ description: "Soleil opposition Mars en synastrie : l’élan de l’une fait f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Mars", "opposition", "synastrie"]
 weight: 20
 glyph: "☉☍♂"
 definition: "Soleil opposition Mars en synastrie signifie que Mars, chez une personne, se trouve à environ 180° du Soleil de l’autre, à 8° près. L’élan de l’une fait face au soi de l’autre, comme un partenaire d’entraînement. J’y lis une polarité qui rend les deux plus fortes quand elles acceptent d’être du même côté."

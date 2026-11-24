@@ -6,6 +6,8 @@ description: "Mercure conjonction Vénus dans un thème natal : penser et appr�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Vénus", "conjonction"]
 weight: 108
 glyph: "☿☌♀"
 definition: "Mercure conjonction Vénus signifie qu’à votre naissance, Mercure et Vénus étaient à quelques degrés d’écart. Dans votre thème, cette conjonction unit votre façon de penser et votre façon d’apprécier : les mots sont pesés selon l’effet qu’ils produisent. J’y lis un don pour bien dire les choses, qui a encore besoin de quelque chose de vrai à dire."

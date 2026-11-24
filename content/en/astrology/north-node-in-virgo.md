@@ -5,6 +5,8 @@ description: "North Node in Virgo in a birth chart: giving dreams a daily form, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "Virgo"]
 weight: 150
 glyph: "☊♍"
 definition: "North Node in Virgo means that, at your birth, the North Node, the Moon’s northward crossing of the Sun’s path, was in mutable earth, with the South Node in Pisces. I read it as growth towards form: practical habits, useful work and daily care that give a generous imagination something to stand on."

@@ -6,6 +6,8 @@ description: "Les Gémeaux en astrologie : le signe d’air mutable gouverné p
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signes"]
+tags: ["Gémeaux"]
 weight: 3
 glyph: "♊"
 definition: "Les Gémeaux sont le troisième signe du zodiaque, un signe d’air mutable gouverné par Mercure ; le Soleil les traverse du 21 mai au 20 juin environ. Dans un thème natal, ils désignent là où la curiosité vous mène, et vite : les questions, les mots, les liens, plusieurs centres d’intérêt à la fois. Leur maison montre où votre esprit vagabonde."

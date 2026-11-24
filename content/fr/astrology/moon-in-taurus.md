@@ -6,6 +6,8 @@ description: "Lune en Taureau dans un thème natal : l’exaltation de la Lune,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Taureau"]
 weight: 14
 glyph: "☽♉"
 definition: "La Lune en Taureau signifie que la Lune se trouvait en Taureau à votre naissance, le signe où la tradition la dit exaltée. J’y lis des émotions qui vont au pas, apaisées par le corps, les habitudes et les réconforts familiers, et un sentiment de sécurité qui, une fois construit, se renverse très difficilement."

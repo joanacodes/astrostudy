@@ -6,6 +6,8 @@ description: "Lune carré Lilith en synastrie : le soin de l’une bute sur le 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Lilith", "carré", "synastrie"]
 weight: 108
 glyph: "☽□⚸"
 definition: "Lune carré Lilith en synastrie signifie que la Lune d’une personne se trouve à environ 90° de la Lune noire Lilith moyenne de l’autre, à 6,8° près. La façon de prendre soin de l’une frotte contre l’indépendance indomptée de l’autre : la gentillesse peut sembler une laisse. J’y lis une friction qui trace la frontière entre soin et emprise."

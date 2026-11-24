@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["10th house", "tenth house"]
 family: "houses"
+categories: ["Houses"]
+tags: ["10th house"]
 weight: 10
 glyph: "X"
 definition: "The 10th house is the tenth of the twelve houses of a birth chart, at the top of the wheel: in Placidus and similar systems, it begins at the Midheaven. Astrologers read it as your public life — work, standing, reputation, what you want to build in the world. It shows a direction, not a job title."

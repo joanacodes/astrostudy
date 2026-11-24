@@ -6,6 +6,8 @@ description: "Vénus conjonction Lilith dans un thème natal : le goût et la p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Lilith", "conjonction"]
 weight: 190
 glyph: "♀☌⚸"
 definition: "Vénus conjonction Lilith signifie qu’à votre naissance, Vénus se trouvait à quelques degrés de la Lune noire Lilith moyenne. Ce que vous aimez et trouvez beau est fondu avec votre part indomptée : votre goût n’appartient qu’à vous. Pour moi, cette conjonction décrit l’authenticité en amour et dans le plaisir, sans rien qui mérite d’être jugé."

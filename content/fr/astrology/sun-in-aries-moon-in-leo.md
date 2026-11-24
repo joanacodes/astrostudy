@@ -6,6 +6,8 @@ description: "Soleil en Bélier, Lune en Lion : feu trigone feu, deux luminaire
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier", "Lune", "Lion"]
 weight: 5
 glyph: "☉♈☽♌"
 definition: "Soleil en Bélier, Lune en Lion place les deux luminaires dans le feu, la Lune quatre signes devant le Soleil, sept jours et demi à douze jours après une nouvelle lune. Le Soleil est exalté, et la Lune occupe le signe que gouverne le Soleil. J’y lis une chaleur qui veut lancer les choses, et les voir porter."

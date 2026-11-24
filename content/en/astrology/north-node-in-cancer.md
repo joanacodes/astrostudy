@@ -5,6 +5,8 @@ description: "North Node in Cancer in a birth chart: from coping alone to being 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "Cancer"]
 weight: 148
 glyph: "☊♋"
 definition: "North Node in Cancer means the point where the Moon’s path crosses the Sun’s going north was in the Moon’s own sign at your birth, the South Node opposite in Capricorn. I read it as growth towards belonging: making room for home, care and needs of your own, after a habit of being the one who copes."

@@ -5,6 +5,8 @@ description: "Mercury opposite Lilith in a birth chart: the unsaid thing spoken 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Lilith", "opposition"]
 weight: 149
 glyph: "☿☍⚸"
 definition: "Mercury opposite Lilith sets your reasoning across the zodiac from Black Moon Lilith, the point read as what refuses to be tamed. In a chart, the untamed, unsaid material often reaches you from other people’s mouths before you claim it as yours. It’s a polarity that asks you to own both voices."

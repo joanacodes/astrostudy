@@ -6,6 +6,8 @@ description: "Mercure en maison 2 dans un thème natal : un esprit qui pèse la
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "maison 2", "maisons"]
 weight: 26
 glyph: "☿"
 definition: "Mercure en maison 2 place la planète de la pensée et de la parole dans la maison des ressources : ce que vous possédez, gagnez, savez faire et estimez. On y lit un esprit qui évalue, compare et planifie, et traite son savoir et ses mots comme des ressources. Aucun revenu n’y est prédit ; il faut l’heure de naissance."

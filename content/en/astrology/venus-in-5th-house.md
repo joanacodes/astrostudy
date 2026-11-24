@@ -5,6 +5,8 @@ description: "Venus in the 5th house in a birth chart: Venus in its joy, pleasur
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "5th house", "houses"]
 weight: 41
 glyph: "♀"
 definition: "Venus in the 5th house places the planet of pleasure and attraction in the house of creativity, play and romance, which tradition gave it as its joy. It describes delight that comes easily, a generous, playful way of loving, and a creativity that thrives on enjoyment. Like any house placement, it needs the birth time."

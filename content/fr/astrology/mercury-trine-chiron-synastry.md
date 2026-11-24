@@ -6,6 +6,8 @@ description: "Mercure trigone Chiron en synastrie : parler d’un sujet sensibl
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Chiron", "trigone", "synastrie"]
 weight: 154
 glyph: "☿△⚷"
 definition: "Mercure trigone Chiron en synastrie signifie que Mercure, chez une personne, se trouve à environ 120° de Chiron chez l’autre, à 5,1° près, souvent dans un même élément. La façon dont l’une écoute et explique convient à ce que l’autre a dû contourner. J’y lis une compréhension facile, à changer en aide concrète plutôt qu’à laisser en paroles."

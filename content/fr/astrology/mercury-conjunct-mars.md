@@ -6,6 +6,8 @@ description: "Mercure conjonction Mars dans un thème natal : la pensée et l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Mars", "conjonction"]
 weight: 110
 glyph: "☿☌♂"
 definition: "Mercure conjonction Mars signifie qu’à votre naissance, Mercure et Mars étaient à quelques degrés d’écart, assez près du Soleil. Dans un thème, cette conjonction fond la pensée et l’action : vous décidez en essayant et vous parlez avec élan. J’y lis un esprit lancé, jamais un caractère colérique."

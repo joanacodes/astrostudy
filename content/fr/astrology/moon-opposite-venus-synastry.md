@@ -6,6 +6,8 @@ description: "Lune opposition Vénus en synastrie : les besoins de l’une font
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Vénus", "opposition", "synastrie"]
 weight: 70
 glyph: "☽☍♀"
 definition: "Lune opposition Vénus en synastrie met face à face la Lune d’une personne et la Vénus de l’autre, avec un orbe de 8°. Les besoins d’un côté rencontrent l’affection et les goûts de l’autre, et chacune a ce qui manque à l’autre. J’y lis une attirance entre contraires qui demande de l’équilibre, jamais une incompatibilité."

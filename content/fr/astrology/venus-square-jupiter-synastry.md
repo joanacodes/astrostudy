@@ -6,6 +6,8 @@ description: "Vénus carré Jupiter en synastrie : l’une veut que ce soit bea
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Jupiter", "carré", "synastrie"]
 weight: 173
 glyph: "♀□♃"
 definition: "Vénus carré Jupiter en synastrie signifie que Vénus, chez une personne, se trouve à environ 90° de Jupiter chez l’autre, à 5,1° près. Le goût de l’une et son sens de l’assez rencontrent l’envie de l’autre d’aller plus loin. Pour moi, c’est une friction qui apprend la mesure et les promesses tenables, jamais un conflit de valeurs."

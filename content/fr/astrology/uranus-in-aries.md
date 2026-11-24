@@ -6,6 +6,8 @@ description: "Uranus en Bélier dans un thème natal : changer en passant en pr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Bélier"]
 weight: 85
 glyph: "♅♈"
 definition: "Uranus en Bélier, c’est la planète du changement dans le premier signe du zodiaque, un signe de feu cardinal gouverné par Mars. Ce placement est commun aux personnes nées d’avril 1927 à mars 1935 ou de mai 2010 à mars 2019. J’y lis l’envie d’une génération de changer les choses en agissant d’abord ; la maison le rend personnel."

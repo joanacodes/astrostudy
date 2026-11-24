@@ -5,6 +5,8 @@ description: "Pluto in Cancer in a birth chart: deep change in home and belongin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Cancer"]
 weight: 112
 glyph: "♇♋"
 definition: "Pluto in Cancer brings deep change to the sign of home and family, cardinal water ruled by the Moon. It belongs to births from 1912 to 1939, and Pluto was in Cancer when it was discovered in 1930. In a chart it describes belonging remade, and roots kept fiercely, by a whole generation."

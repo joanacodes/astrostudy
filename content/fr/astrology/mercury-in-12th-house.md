@@ -6,6 +6,8 @@ description: "Mercure en maison 12 dans un thème natal : un esprit discret qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "maison 12", "maisons"]
 weight: 36
 glyph: "☿"
 definition: "Mercure en maison 12 place la planète de la pensée dans la maison du privé et du caché. On y lit un esprit qui a besoin de solitude pour penser, garde beaucoup pour soi et trouve ses mots plus facilement sur le papier. La tradition y mettait l’enfermement ; un thème n’en prédit aucun. Il faut l’heure de naissance."

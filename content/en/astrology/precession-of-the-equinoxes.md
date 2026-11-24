@@ -5,6 +5,8 @@ description: "Precession of the equinoxes: the Earth’s slow wobble, about 1° 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: []
 weight: 6
 glyph: "✦"
 definition: "The precession of the equinoxes is the slow turning of the Earth’s axis, which makes the equinox points slide backwards along the ecliptic by about 50 seconds of arc a year, a degree in about 72 years. In astrology it explains why the tropical and sidereal zodiacs now sit about 24° apart."

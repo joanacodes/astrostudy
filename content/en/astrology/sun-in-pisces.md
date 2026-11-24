@@ -5,6 +5,8 @@ description: "Sun in Pisces in a birth chart: an identity held together by devot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pisces"]
 weight: 12
 glyph: "☉♓"
 definition: "Sun in Pisces is the Sun sign for births from about 19 February to 20 March, ending at the March equinox, in mutable water ruled by Neptune in modern tropical astrology and by Jupiter in the tradition. I read it as an identity held together by devotion, a tidal vitality, and a purpose found through imagination."

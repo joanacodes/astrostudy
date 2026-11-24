@@ -6,6 +6,8 @@ description: "Soleil en Bélier, Lune en Bélier : un double Bélier, une naiss
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier", "Lune"]
 weight: 1
 glyph: "☉♈☽♈"
 definition: "Soleil en Bélier, Lune en Bélier signifie que les deux luminaires se trouvaient en Bélier à votre naissance, à deux jours et demi environ d’une nouvelle lune. J’y lis un but et un besoin qui vont à la même vitesse : ce que vous visez et ce qui vous apaise reviennent tous deux à commencer, et Mars gouverne les deux."

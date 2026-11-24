@@ -5,6 +5,8 @@ description: "Neptune trine North Node in a birth chart: imagination flowing tow
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "North Node", "trine"]
 weight: 348
 glyph: "♆△☊"
 definition: "Born with Neptune trine North Node, you have Neptune about 120° from the North Node and about 60° from the South Node. In a chart, compassion and imagination flow into the direction you're growing in, with an easy link to familiar ground as well; the ease helps, as long as practice keeps pace with it."

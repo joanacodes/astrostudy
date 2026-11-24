@@ -6,6 +6,8 @@ description: "Saturne en maison 8 dans un thème natal : une confiance donnée 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "maison 8", "maisons"]
 weight: 80
 glyph: "♄"
 definition: "Saturne en maison 8 veille sur ce que deux personnes partagent : l’intimité, la confiance, l’argent commun, les dettes et les promesses. On y lit une confiance donnée lentement, puis tenue, des obligations prises au sérieux, une proximité abordée avec précaution. La tradition y mettait la mort ; j’y lis la vie."

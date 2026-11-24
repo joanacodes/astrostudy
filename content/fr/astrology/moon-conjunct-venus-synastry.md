@@ -6,6 +6,8 @@ description: "Lune conjonction Vénus en synastrie : ce que l’une aime et off
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Vénus", "conjonction", "synastrie"]
 weight: 66
 glyph: "☽☌♀"
 definition: "Lune conjonction Vénus en synastrie place la Vénus d’une personne dans un rayon de 8° autour de la Lune de l’autre. Ce que l’une aime, apprécie et offre tombe juste là où l’autre cherche du réconfort : le temps passé ensemble paraît facile et doux. J’y lis une chaleur qui marche le mieux quand les besoins se disent encore clairement."

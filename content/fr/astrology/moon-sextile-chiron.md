@@ -6,6 +6,8 @@ description: "Lune sextile Chiron dans un thème natal : ce que vous avez appri
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Chiron", "sextile"]
 weight: 94
 glyph: "☽⚹⚷"
 definition: "Lune sextile Chiron décrit une naissance où Chiron se tenait à deux signes environ de votre Lune, soit quelque 60°. Votre besoin de réconfort peut puiser dans ce que vous avez appris en vous adaptant à une sensibilité durable : ce savoir-faire devient du soin. Comme tout sextile, il aide surtout quand on le met au travail."

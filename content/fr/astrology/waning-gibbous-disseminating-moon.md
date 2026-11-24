@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["gibbeuse décroissante", "lune disséminante"]
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "phases lunaires"]
 weight: 13
 glyph: "✦"
 definition: "La lune gibbeuse décroissante, c’est la Lune entre la pleine lune et le dernier quartier : éclairée à plus de moitié mais diminuant, elle se lève chaque soir plus tard. Dans les huit phases de Rudhyar, la phase correspondante s’appelle disséminante : la Lune de 225° à 270° devant le Soleil. J’y lis un savoir qui veut se transmettre."

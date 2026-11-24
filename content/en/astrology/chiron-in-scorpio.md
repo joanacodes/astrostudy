@@ -5,6 +5,8 @@ description: "Chiron in Scorpio in a birth chart: trust learned in stages, adapt
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Scorpio"]
 weight: 128
 glyph: "⚷♏"
 definition: "Chiron in Scorpio is a placement of trust learned in stages. Its two stays in this fixed water sign, ruled by Pluto and traditionally by Mars, ran from November 1946 to November 1948 and from December 1996 to September 1999. In a chart it describes adapting in depth: learning whom to trust, and how much to show."

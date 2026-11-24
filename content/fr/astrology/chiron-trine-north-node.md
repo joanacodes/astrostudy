@@ -6,6 +6,8 @@ description: "Chiron trigone Nœud Nord dans un thème natal : ce que vous avez
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Nœud Nord", "trigone"]
 weight: 373
 glyph: "⚷△☊"
 definition: "Chiron trigone Nœud Nord signifie qu’à votre naissance Chiron se trouvait à 120° du Nœud Nord, et donc à 60° du Nœud Sud. Dans un thème, ce que vous avez appris en vous adaptant à une difficulté durable coule vers votre direction de croissance : vos solutions de contournement vous portent vers ce que vous apprenez."

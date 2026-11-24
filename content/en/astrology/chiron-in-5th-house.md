@@ -5,6 +5,8 @@ description: "Chiron in the 5th house in a birth chart: a tender spot in play an
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "5th house", "houses"]
 weight: 125
 glyph: "⚷"
 definition: "Chiron in the 5th house means Chiron sat in the house of play, creativity, pleasure and romance, which tradition called Good Fortune. It describes adapting around a tender spot about being seen enjoying yourself, and learning to play anyway. It says nothing about children, and it needs the birth time."

@@ -6,6 +6,8 @@ description: "Mars sextile Lilith dans un thème natal : une porte dérobée en
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Lilith", "sextile"]
 weight: 231
 glyph: "♂⚹⚸"
 definition: "Mars sextile Lilith place Mars à environ 60° de la Lune noire Lilith dans un thème natal, en général à deux signes d’écart. Votre élan a ainsi accès à vos instincts les plus libres, sans qu’ils prennent le dessus. J’y lis une liberté choisie : quitter le chemin attendu quand cela vous sert, puis y revenir."

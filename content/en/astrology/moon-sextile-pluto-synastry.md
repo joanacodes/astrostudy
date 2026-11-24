@@ -5,6 +5,8 @@ description: "Moon sextile Pluto in synastry: one person’s depth is on offer t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Pluto", "sextile", "synastry"]
 weight: 97
 glyph: "☽⚹♇"
 definition: "Moon sextile Pluto in synastry means one person’s Pluto is about 60° from the other’s Moon, within 4.8°. One person’s gift for depth and renewal is within reach of the other’s feelings, without being forced on them. To me it’s an invitation to honest, transforming conversations, taken up by choice."

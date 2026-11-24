@@ -5,6 +5,8 @@ description: "The semi-sextile in astrology: two planets 30° apart, in neighbou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["semi-sextile", "minor aspects"]
 weight: 6
 glyph: "⚺"
 definition: "A semi-sextile is an angle of 30° between two planets, one sign apart. Neighbours on the zodiac, the two signs still share no element, modality or polarity. In a birth chart it links two planets that keep adjusting to each other in small steps: a quiet aspect, easy to overlook, but not an empty one."

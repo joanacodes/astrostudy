@@ -6,6 +6,8 @@ description: "Nœud Nord en maison 8 dans un thème natal : grandir vers la con
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "maison 8", "maisons"]
 weight: 152
 glyph: "☊"
 definition: "Nœud Nord en maison 8 signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil tombait dans la maison de l’intimité et des ressources partagées, le Nœud Sud en maison 2. J’y lis une croissance vers la confiance : laisser approcher, partager ce qui compte, accepter ce que les autres offrent."

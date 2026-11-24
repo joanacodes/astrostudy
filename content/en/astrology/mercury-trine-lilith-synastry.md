@@ -5,6 +5,8 @@ description: "Mercury trine Lilith in synastry: frank talk without the aftershoc
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Lilith", "trine", "synastry"]
 weight: 159
 glyph: "☿△⚸"
 definition: "Mercury trine Lilith in synastry means one person’s Mercury is about 120° from the other’s Black Moon Lilith, within 5.1°, usually in one element. One person’s way of listening lets the other say what they normally keep back, without bracing for disapproval. I read it as candour that comes easily and still needs kindness."

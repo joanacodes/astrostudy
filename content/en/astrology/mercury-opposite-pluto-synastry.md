@@ -5,6 +5,8 @@ description: "Mercury opposite Pluto in synastry: one person’s words face the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Pluto", "opposition", "synastry"]
 weight: 150
 glyph: "☿☍♇"
 definition: "Mercury opposite Pluto in synastry sets one person’s Mercury and the other’s Pluto face to face, about 180° apart, within 6°. Words on one side and depth on the other make each more visible, and conversations reveal the weight words can have. I read it as a polarity to share, never a contest to win."

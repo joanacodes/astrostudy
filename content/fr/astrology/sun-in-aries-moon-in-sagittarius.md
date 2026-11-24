@@ -6,6 +6,8 @@ description: "Soleil en Bélier, Lune en Sagittaire : feu trigone feu, sous une
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier", "Lune", "Sagittaire"]
 weight: 9
 glyph: "☉♈☽♐"
 definition: "Soleil en Bélier, Lune en Sagittaire forme un duo tout en feu, sous une Lune décroissante, dix-sept à vingt-deux jours après une nouvelle lune, la Lune quatre signes derrière le Soleil. J’y lis un enthousiasme qui voit loin : un moi qui s’éveille en commençant, des besoins qui s’apaisent quand il y a de l’espace devant."

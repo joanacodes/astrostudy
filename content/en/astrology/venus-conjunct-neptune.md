@@ -5,6 +5,8 @@ description: "Venus conjunct Neptune in a birth chart: love and imagination in o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Neptune", "conjunction"]
 weight: 175
 glyph: "♀☌♆"
 definition: "Venus conjunct Neptune means Venus and Neptune stood close together when you were born, often in the same sign. In a chart, valuing and imagining become one feeling: beauty that moves you, a gift for seeing the best in people. I read its task as loving the person as well as the picture."

@@ -5,6 +5,8 @@ description: "Venus in Taurus in a birth chart: Venus in its own sign, valuing w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Taurus"]
 weight: 38
 glyph: "♀♉"
 definition: "Venus in Taurus is the planet of value and attraction in its own sign, fixed earth, which Venus itself rules. It describes taste formed through the senses and tested by time, affection shown in steady, practical care, and a way of relating that chooses slowly and then holds on."

@@ -6,6 +6,8 @@ description: "Soleil trigone Lilith dans un thème natal : vos propres conditio
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lilith", "trigone"]
 weight: 46
 glyph: "☉△⚸"
 definition: "Soleil trigone Lilith signifie que votre Soleil et la Lune noire Lilith étaient à environ 120° d’écart à votre naissance, dans des signes d’un même élément. Dans un thème, votre sens de vous-même et la part de vous qui n’a pas voulu obéir s’accordent : refuser sans drame, désirer sans culpabilité. J’y lis une assurance tranquille qui passe souvent inaperçue."

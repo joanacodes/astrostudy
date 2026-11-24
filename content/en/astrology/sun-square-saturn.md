@@ -5,6 +5,8 @@ description: "Sun square Saturn in a birth chart: self-belief that grows against
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Saturn", "square"]
 weight: 20
 glyph: "☉□♄"
 definition: "In Sun square Saturn, the Sun and Saturn stand a quarter of the circle apart, usually in signs that share a modality. In a chart, your purpose keeps meeting the demands of structure. I read it as a self-belief that grows against doubt, slowly, and holds once it's there."

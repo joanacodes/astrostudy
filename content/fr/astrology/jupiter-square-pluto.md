@@ -6,6 +6,8 @@ description: "Jupiter carré Pluton dans un thème natal : la friction entre «
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Pluton", "carré"]
 weight: 257
 glyph: "♃□♇"
 definition: "Jupiter carré Pluton désigne un écart d’environ 90° entre les deux planètes, un angle qui se forme deux fois entre deux de leurs rencontres. Dans un thème, l’envie de grandir et de croire frotte contre celle de tout ramener à l’essentiel pour le transformer. J’y lis une friction qui forge des convictions éprouvées, jamais un combat perdu d’avance."

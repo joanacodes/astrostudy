@@ -5,6 +5,8 @@ description: "Moon trine Mars in synastry: feeling and effort keep the same pace
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Mars", "trine", "synastry"]
 weight: 74
 glyph: "☽△♂"
 definition: "In Moon trine Mars in synastry, one person’s Moon and the other’s Mars sit about 120° apart, within 6.8°, usually in signs that share an element. Feeling and effort keep the same pace: needs get met, and energy finds a use. I read it as easy, practical backing that works best when it runs both ways."

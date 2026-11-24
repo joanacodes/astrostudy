@@ -5,6 +5,8 @@ description: "Chiron in Virgo in a birth chart: adapting through method and prec
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Virgo"]
 weight: 126
 glyph: "⚷♍"
 definition: "Chiron in Virgo is Chiron’s adapting done the Virgo way: through method and precision, the right tool, the better routine, around a tender spot about being good enough. Chiron crossed this mutable earth sign, ruled by Mercury, from July 1943 to July 1945 and from September 1993 to September 1995."

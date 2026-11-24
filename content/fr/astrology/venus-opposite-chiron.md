@@ -6,6 +6,8 @@ description: "Vénus opposition Chiron dans un thème natal : ce que vous aimez
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Chiron", "opposition"]
 weight: 189
 glyph: "♀☍⚷"
 definition: "Vénus opposition Chiron signifie qu’à votre naissance, Vénus et Chiron étaient à environ 180° d’écart. Dans un thème, ce que vous aimez et votre façon de vous adapter autour d’une sensibilité durable se font face : le point sensible se rencontre souvent chez les personnes que vous aimez. Pour moi, c’est une leçon de réciprocité, apprise aux deux bouts du soin."

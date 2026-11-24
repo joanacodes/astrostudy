@@ -6,6 +6,8 @@ description: "Chiron conjonction Nœud Nord dans un thème natal : une croissan
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Nœud Nord", "conjonction"]
 weight: 370
 glyph: "⚷☌☊"
 definition: "Chiron conjonction Nœud Nord, c’est la rencontre de Chiron et du Nœud Nord à quelques degrés près à la naissance, le Nœud Sud étant en face. Dans un thème, votre direction de croissance passe par votre façon de vous adapter à une difficulté durable : la capacité moins familière à construire naît souvent d’une solution de contournement."

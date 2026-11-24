@@ -5,6 +5,8 @@ description: "Sun in Virgo in a birth chart: an identity organised by discernmen
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Virgo"]
 weight: 6
 glyph: "☉♍"
 definition: "Sun in Virgo is the Sun sign for births from about 23 August to 22 September, in mutable earth ruled by Mercury, which is exalted there too. I read it as an identity organised by discernment, a vitality steadied by good method, and a purpose expressed in getting something exactly right, for its own sake and for others."

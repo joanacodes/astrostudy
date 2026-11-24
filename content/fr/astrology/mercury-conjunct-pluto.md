@@ -6,6 +6,8 @@ description: "Mercure conjonction Pluton dans un thème natal : un esprit qui v
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Pluton", "conjonction"]
 weight: 135
 glyph: "☿☌♇"
 definition: "Mercure conjonction Pluton, c’est Mercure et Pluton côte à côte à la naissance, à quelques degrés près : penser et transformer ne font plus qu’un geste. Dans un thème, cela donne un esprit qui va à la racine des choses, et des mots qui pèsent. J’y lis une profondeur de pensée, jamais un besoin de contrôler la conversation."

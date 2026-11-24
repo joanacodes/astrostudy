@@ -6,6 +6,8 @@ description: "Soleil opposition Chiron en synastrie : la force d’une personne
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Chiron", "opposition", "synastrie"]
 weight: 50
 glyph: "☉☍⚷"
 definition: "Soleil opposition Chiron en synastrie oppose le Soleil d’une personne à Chiron dans le thème de l’autre, à 8° près : l’identité fait face à un point sensible. Les rôles de la personne qui aide et de celle qu’on aide s’installent vite. J’y lis une polarité entre force et savoir-faire durement acquis, au mieux quand les rôles bougent."

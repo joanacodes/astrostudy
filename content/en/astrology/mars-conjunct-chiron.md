@@ -5,6 +5,8 @@ description: "Mars conjunct Chiron in a birth chart: the way you act and the pla
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Chiron", "conjunction"]
 weight: 225
 glyph: "♂☌⚷"
 definition: "Mars conjunct Chiron means Mars, the planet of action, was within a few degrees of Chiron at your birth. It ties how you assert yourself to a sensitive place you've learned to work around: you find your own method, pace or tools. I read it as a hard-won way of acting, never a flaw in your drive."

@@ -6,6 +6,8 @@ description: "Mercure conjonction Pluton en synastrie : les mots de l’une att
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Pluton", "conjonction", "synastrie"]
 weight: 146
 glyph: "☿☌♇"
 definition: "Mercure conjonction Pluton en synastrie amène Mercure, chez une personne, à moins de 6° de Pluton, chez l’autre. Les mots de la première atteignent les profondeurs de la seconde : les conversations vont vite à la racine et changent les deux façons de penser. J’y lis un échange profond, qui demande du soin avec l’intime, jamais une lutte de contrôle."

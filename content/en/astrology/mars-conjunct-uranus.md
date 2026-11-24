@@ -5,6 +5,8 @@ description: "Mars conjunct Uranus in a birth chart: action and change in one mo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Uranus", "conjunction"]
 weight: 210
 glyph: "♂☌♅"
 definition: "Mars conjunct Uranus is a meeting, within a few degrees, of the planet of action and the planet of change. In a chart it fuses the drive to act with the urge to do things differently: initiative arrives as a break from routine. I read it as independent, inventive effort, never as a recklessness you're stuck with."

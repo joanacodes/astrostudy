@@ -5,6 +5,8 @@ description: "The Mars effect: Gauquelin’s claim that champions were born just
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["Mars", "testing"]
 weight: 5
 glyph: "✦"
 definition: "The Mars effect is Michel Gauquelin’s claim, first made in 1955, that sports champions were born more often just after Mars had risen or culminated. Later tests, notably a French one of 1,066 champions, found no effect; critics trace it to how champions were selected and how birth times were reported, and the dispute split the sceptics themselves."

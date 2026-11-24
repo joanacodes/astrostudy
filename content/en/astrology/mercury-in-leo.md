@@ -5,6 +5,8 @@ description: "Mercury in Leo in a birth chart: a mind that thinks in stories and
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Leo"]
 weight: 29
 glyph: "☿♌"
 definition: "Mercury in Leo is the planet of thought and speech in fixed fire, the sign the Sun rules. It describes a warm, expressive mind that thinks in stories and stays loyal to its ideas. Its ruler is never far off: the Sun is in Leo or a sign next to it. About 1 person in 13 has it."

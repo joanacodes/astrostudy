@@ -6,6 +6,8 @@ description: "Lune trigone Mercure dans un thème natal : des mots qui viennent
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Mercure", "trigone"]
 weight: 56
 glyph: "☽△☿"
 definition: "Lune trigone Mercure signifie qu’à votre naissance, un angle d’environ 120° reliait la Lune et Mercure, le plus souvent dans deux signes d’un même élément. Sentir et penser vont du même pas : les humeurs trouvent facilement leurs mots, et les mots peuvent apaiser une humeur. J’y lis une aisance dans la parole émotionnelle, qui grandit à l’usage."

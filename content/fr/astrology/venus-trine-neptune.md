@@ -6,6 +6,8 @@ description: "Vénus trigone Neptune dans un thème natal : le goût et l’ima
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Neptune", "trigone"]
 weight: 178
 glyph: "♀△♆"
 definition: "Vénus trigone Neptune signifie qu’à votre naissance, Vénus et Neptune étaient à environ 120° d’écart, en général dans des signes du même élément. Dans un thème, ce que vous aimez et ce que vous imaginez coulent ensemble, et la bonté vient sans effort. J’y lis un don discret, à son meilleur quand il prend forme."

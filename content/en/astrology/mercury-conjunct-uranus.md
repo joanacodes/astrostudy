@@ -5,6 +5,8 @@ description: "Mercury conjunct Uranus in a birth chart: thinking and invention a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Uranus", "conjunction"]
 weight: 125
 glyph: "☿☌♅"
 definition: "Mercury conjunct Uranus means Mercury and Uranus were within a few degrees of each other when you were born. In your chart, thinking merges with the urge to do things differently: ideas arrive whole, and often early. I read it as an original mind that learns to explain itself."

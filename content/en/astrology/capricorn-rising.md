@@ -5,6 +5,8 @@ description: "Capricorn rising: composure first, Saturn as your chart ruler, Can
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "rising sign", "Capricorn"]
 weight: 10
 glyph: "↑♑"
 definition: "Capricorn rising means Capricorn, the cardinal earth sign ruled by Saturn, was rising on the eastern horizon at your birth: your Ascendant is in Capricorn. It describes a composed, capable way of meeting the world, serious early and steadier with time. At London it rises in a little under the two-hour average."

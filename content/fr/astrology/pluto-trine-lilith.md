@@ -6,6 +6,8 @@ description: "Pluton trigone Lilith dans un thème natal : le changement profon
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Lilith", "trigone"]
 weight: 358
 glyph: "♇△⚸"
 definition: "Pluton trigone Lilith, c’est un angle de 120° entre Pluton et la Lune noire Lilith moyenne à la naissance, en général dans des signes du même élément. Vous renouveler et rester fidèle à votre instinct ne se font pas concurrence : vous changez plutôt vers ce que vous êtes. J’y lis une aisance avec l’intensité, à utiliser exprès."

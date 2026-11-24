@@ -6,6 +6,8 @@ description: "Mercure carré Pluton en synastrie : la parole légère et rapide
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Pluton", "carré", "synastrie"]
 weight: 148
 glyph: "☿□♇"
 definition: "Mercure carré Pluton en synastrie place Mercure dans un thème à environ 90° de Pluton dans l’autre, à 5,1° près. La parole facile de la première et le besoin d’aller au fond de la seconde trébuchent sans cesse. J’y lis une friction qui apprend à parler honnêtement et avec soin, jamais une bataille de contrôle."

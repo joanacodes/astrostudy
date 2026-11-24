@@ -5,6 +5,8 @@ description: "Jupiter trine North Node in a birth chart: meaning flowing into yo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "North Node", "trine"]
 weight: 273
 glyph: "♃△☊"
 definition: "Jupiter trine North Node is a 120° angle between Jupiter and the North Node, which leaves Jupiter sextile the South Node. In a chart, meaning runs easily into the less familiar path while a lighter link holds to familiar strengths. I read it as support for growth that still needs practice."

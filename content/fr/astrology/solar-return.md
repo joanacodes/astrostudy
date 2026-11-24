@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["révolution solaire"]
 family: "cycles"
+categories: ["Transits et cycles"]
+tags: ["Soleil", "retours planétaires"]
 weight: 46
 glyph: "☉☌☉"
 definition: "La révolution solaire est le thème de l’instant où, chaque année, le Soleil revient à son degré de naissance, le jour de votre anniversaire ou à un jour près. On y lit la tonalité de l’année à venir : les domaines de vie mis en avant, et comment. Elle ne remplace jamais le thème natal et ne prédit aucun événement."

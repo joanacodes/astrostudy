@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["maison 4", "maison IV"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["maison 4"]
 weight: 4
 glyph: "IV"
 definition: "La maison 4 est la quatrième des douze maisons d’un thème natal, tout en bas de la roue : elle commence au Fond du Ciel, le point opposé au Milieu du Ciel. Les astrologues y lisent le foyer, les racines et la famille — d’où vous venez, ce que vous bâtissez pour appartenir quelque part, et le moi intime en dessous."

@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["maison 3", "maison III"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["maison 3"]
 weight: 3
 glyph: "III"
 definition: "La maison 3 est la troisième des douze maisons d’un thème natal. Les astrologues y lisent l’esprit au quotidien et le monde tout proche : votre façon de penser, de parler, d’écrire et d’apprendre, les personnes à portée de main — frères et sœurs, cousins, voisins — et les petits trajets d’une semaine ordinaire. La tradition l’appelait la Déesse."

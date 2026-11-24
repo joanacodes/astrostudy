@@ -5,6 +5,8 @@ description: "Sun trine Jupiter in a birth chart: growth that keeps step with yo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Jupiter", "trine"]
 weight: 16
 glyph: "☉△♃"
 definition: "Sun trine Jupiter sets Jupiter a third of the circle from your Sun, about 120°, most often in a sign of your Sun's element. In a chart, purpose and growth keep step: what you're becoming tends to make sense to you. I read it as growth that comes naturally, and doors that open when you knock."

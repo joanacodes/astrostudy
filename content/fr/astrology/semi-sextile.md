@@ -6,6 +6,8 @@ description: "Le semi-sextile en astrologie : deux planètes à 30°, dans des 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["semi-sextile", "aspects mineurs"]
 weight: 6
 glyph: "⚺"
 definition: "Le semi-sextile est un angle de 30° entre deux planètes, à un signe d’écart. Voisins dans le zodiaque, les deux signes n’ont pourtant en commun ni élément, ni mode, ni polarité. Dans un thème natal, il relie deux planètes qui s’ajustent l’une à l’autre à petits pas : un aspect discret, facile à négliger, mais pas un aspect vide."

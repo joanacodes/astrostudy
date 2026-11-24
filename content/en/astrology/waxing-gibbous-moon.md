@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["waxing gibbous"]
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunar phases"]
 weight: 11
 glyph: "✦"
 definition: "The waxing gibbous moon is the Moon between the first quarter and the full moon: more than half lit, still growing, up from the afternoon into the night. Gibbous comes from the Latin for a hump. In Rudhyar’s eight phases, the gibbous phase is the last stretch before full, the Moon 135° to 180° ahead of the Sun."

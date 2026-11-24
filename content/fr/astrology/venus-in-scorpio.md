@@ -6,6 +6,8 @@ description: "Vénus en Scorpion dans un thème natal : Vénus en exil, une loy
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Scorpion"]
 weight: 44
 glyph: "♀♏"
 definition: "Vénus en Scorpion, c’est Vénus dans l’eau fixe, le signe opposé au Taureau, où la tradition place son exil ; Pluton gouverne ce signe, et Mars dans la tradition. On y lit un amour qui refuse la surface, une loyauté donnée lentement puis entièrement, et le goût de la profondeur, de la vérité et de ce qui tient sous la pression."

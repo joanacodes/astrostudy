@@ -5,6 +5,8 @@ description: "Moon trine Venus in a birth chart: tenderness in everyday things, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Venus", "trine"]
 weight: 61
 glyph: "☽△♀"
 definition: "Moon trine Venus puts about 120° between the Moon and Venus in a birth chart, usually in two signs of the same element. Needs and affections agree without effort: affection is given and received simply, in everyday ways. I read it as a natural tenderness that still deserves looking after."

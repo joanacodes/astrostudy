@@ -5,6 +5,8 @@ description: "Pluto opposite Chiron in a birth chart: the 1960s polarity of Plut
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Chiron", "opposition"]
 weight: 354
 glyph: "♇☍⚷"
 definition: "Pluto opposite Chiron means the two stood about 180° apart at your birth, as they did on and off from 1959 to 1970, Pluto in Virgo and Chiron mostly in Pisces. In a chart it balances two ways of meeting what no longer works: renewing it at the root, or adapting around what can’t be cleared."

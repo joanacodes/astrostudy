@@ -5,6 +5,8 @@ description: "House cusps in astrology: the line where each house begins, what t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "houses"
+categories: ["Houses"]
+tags: ["houses"]
 weight: 35
 glyph: "✦"
 definition: "A house cusp is the line where a house begins: one degree of the zodiac, from which the house runs to the next cusp. In Placidus and other quadrant systems, the cusps of the 1st, 4th, 7th and 10th houses are the four angles. The sign on a cusp colours the house; its ruler shows where the story goes."

@@ -6,6 +6,8 @@ description: "Lune conjonction Mars en synastrie : l’élan de l’une tombe p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Mars", "conjonction", "synastrie"]
 weight: 71
 glyph: "☽☌♂"
 definition: "Lune conjonction Mars en synastrie, c’est Mars, dans le thème d’une personne, à 8° près de la Lune de l’autre. L’élan de l’une tombe pile sur les besoins de l’autre : l’aide arrive vite, parfois avant d’être demandée. J’y lis un soin qui passe à l’action, à son meilleur quand il vérifie d’abord."

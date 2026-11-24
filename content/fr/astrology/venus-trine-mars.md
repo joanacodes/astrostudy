@@ -6,6 +6,8 @@ description: "Vénus trigone Mars dans un thème natal : ce que vous aimez et l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Mars", "trigone"]
 weight: 158
 glyph: "♀△♂"
 definition: "Vénus trigone Mars signifie qu’à votre naissance, Vénus et Mars étaient à environ 120° d’écart, en général dans des signes du même élément. Dans un thème, ce trigone fait avancer ensemble ce que vous aimez et ce que vous allez chercher : vous poursuivez volontiers ce qui vous plaît vraiment, sans abîmer l’échange. L’aisance est réelle, et demande à servir."

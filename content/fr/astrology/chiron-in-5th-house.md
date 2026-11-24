@@ -6,6 +6,8 @@ description: "Chiron en maison 5 dans un thème natal : un point sensible dans 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "maison 5", "maisons"]
 weight: 125
 glyph: "⚷"
 definition: "Chiron en maison 5 place Chiron dans la maison du jeu, de la création et du plaisir, que la tradition appelait la Fortune favorable. Il décrit une adaptation autour d’un point sensible, se montrer en train de vous amuser, et l’art de jouer quand même. Il ne dit rien des enfants ; il faut l’heure de naissance."

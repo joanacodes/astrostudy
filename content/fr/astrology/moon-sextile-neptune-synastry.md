@@ -6,6 +6,8 @@ description: "Lune sextile Neptune en synastrie : l’imagination de l’une do
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Neptune", "sextile", "synastrie"]
 weight: 92
 glyph: "☽⚹♆"
 definition: "Lune sextile Neptune en synastrie : Neptune d’une personne à environ 60° de la Lune de l’autre, à 4,8° près. L’imagination et la compassion de l’une peuvent donner forme aux émotions de l’autre : une chanson, une histoire, une soirée plus douce. J’y lis une bonté créative entre deux personnes, offerte plutôt qu’automatique."

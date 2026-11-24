@@ -6,6 +6,8 @@ description: "Mars carré Nœud Nord dans un thème natal : l’effort placé e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Nœud Nord", "carré"]
 weight: 237
 glyph: "♂□☊"
 definition: "Mars carré Nœud Nord, c’est un angle droit entre Mars et le Nœud Nord dans un thème natal, donc aussi entre Mars et le Nœud Sud. Votre élan se tient en travers de la ligne qui va du familier au moins familier, et doit sans cesse choisir quel bout servir. Cette friction apprend à bien choisir ses efforts."

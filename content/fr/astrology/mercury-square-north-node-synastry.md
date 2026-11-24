@@ -6,6 +6,8 @@ description: "Mercure carré Nœud Nord en synastrie : les idées de l’une cr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Nœud Nord", "carré", "synastrie"]
 weight: 163
 glyph: "☿□☊"
 definition: "Mercure carré Nœud Nord en synastrie signifie que Mercure, chez une personne, se trouve à environ 90° du Nœud Nord de l’autre, à 5,1° près, donc en carré à son Nœud Sud. La pensée de l’une traverse la ligne entre les habitudes de l’autre et ses nouveaux buts. J’y lis une friction qui oblige à expliquer sa direction."

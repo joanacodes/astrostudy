@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["1st house", "first house"]
 family: "houses"
+categories: ["Houses"]
+tags: ["1st house"]
 weight: 1
 glyph: "I"
 definition: "The 1st house is the first of the twelve houses of a birth chart: it begins at the Ascendant, the degree rising on the eastern horizon when you were born. Astrologers read it as the self you lead with — your body, your manner, how you start things and how people first meet you."

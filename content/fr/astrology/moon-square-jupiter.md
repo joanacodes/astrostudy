@@ -6,6 +6,8 @@ description: "Lune carré Jupiter dans un thème natal : le réconfort et la cr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Jupiter", "carré"]
 weight: 70
 glyph: "☽□♃"
 definition: "Lune carré Jupiter veut dire que la Lune et Jupiter formaient un angle de 90° à votre naissance, souvent dans deux signes de même mode. Réconfort et croissance n’ont pas le même rythme : vous dépassez tôt vos conforts, ou vous vous y accrochez quand le pas suivant appelle. J’y vois une friction qui enseigne la mesure."

@@ -5,6 +5,8 @@ description: "Venus conjunct Uranus in a birth chart: a taste all your own, sudd
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Uranus", "conjunction"]
 weight: 170
 glyph: "♀☌♅"
 definition: "Venus conjunct Uranus means Venus and Uranus stood shoulder to shoulder at your birth, usually in one sign. In a chart, your values merge with the urge to make things new: your taste is your own, attraction sparks fast, and closeness needs room. I read it as freedom inside love."

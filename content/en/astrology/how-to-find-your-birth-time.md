@@ -5,6 +5,8 @@ description: "How to find your birth time: the birth certificate, which differs 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Readings"]
+tags: ["birth time", "birth chart"]
 weight: 3
 glyph: "✦"
 definition: "Finding your birth time means tracking down the hour and minute you were born, from a record or a reliable memory: the birth certificate, where your country writes the time on it, a hospital record, family records or a baby book. The time decides your rising sign and your houses, and I don’t read a chart without it."

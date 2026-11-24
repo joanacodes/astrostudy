@@ -6,6 +6,8 @@ description: "La précession des équinoxes : l’oscillation de l’axe terres
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: []
 weight: 6
 glyph: "✦"
 definition: "La précession des équinoxes est la lente rotation de l’axe de la Terre, qui fait reculer les points d’équinoxe le long de l’écliptique d’environ 50 secondes d’arc par an, un degré en 72 ans environ. En astrologie, elle explique pourquoi les zodiaques tropical et sidéral sont aujourd’hui décalés d’environ 24°."

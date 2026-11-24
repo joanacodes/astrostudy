@@ -6,6 +6,8 @@ description: "Nœud Nord en Taureau dans un thème natal : grandir vers la stab
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "Taureau"]
 weight: 146
 glyph: "☊♉"
 definition: "Nœud Nord en Taureau signifie qu’à votre naissance, le Nœud Nord, là où la route de la Lune croise celle du Soleil vers le nord, se trouvait dans ce signe de terre fixe, le Nœud Sud en Scorpion. J’y lis une croissance vers la stabilité : plaisirs simples, construction lente, un calme sûr, après une longue familiarité avec la crise."

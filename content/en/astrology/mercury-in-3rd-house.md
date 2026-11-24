@@ -5,6 +5,8 @@ description: "Mercury in the 3rd house in a birth chart: the mind of the everyda
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "3rd house", "houses"]
 weight: 27
 glyph: "☿"
 definition: "Mercury in the 3rd house is the planet of thought and speech in the house of the near world: everyday talk, writing, learning, siblings, neighbours and short journeys. Its natural sign is Gemini, one of Mercury’s own. It describes a busy, local, connecting mind that keeps a small world informed. It needs the birth time."

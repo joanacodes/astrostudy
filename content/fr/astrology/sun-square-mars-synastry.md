@@ -6,6 +6,8 @@ description: "Soleil carré Mars en synastrie : l’élan de l’une coupe la d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Mars", "carré", "synastrie"]
 weight: 18
 glyph: "☉□♂"
 definition: "Soleil carré Mars en synastrie signifie que Mars, chez une personne, se trouve à environ 90° du Soleil de l’autre, à 6,8° près. L’élan de l’une coupe la direction de l’autre : le rythme, le moment et la décision deviennent des questions vives. J’y lis une friction qui forge l’endurance des deux, jamais deux personnes en guerre."

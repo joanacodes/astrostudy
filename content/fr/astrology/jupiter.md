@@ -6,6 +6,8 @@ description: "Jupiter en astrologie : la planète de la croissance, dans chaque
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planètes et points"]
+tags: ["Jupiter"]
 weight: 6
 glyph: "♃"
 definition: "Jupiter est la plus grande planète du système solaire et, en astrologie, celle de la croissance, de la confiance et de la générosité. Dans un thème natal, sa position montre où la vie s’ouvre le plus facilement pour vous — et où vous pouvez en faire trop. Jupiter revient à sa place de naissance environ tous les 12 ans."

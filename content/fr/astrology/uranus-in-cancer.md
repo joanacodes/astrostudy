@@ -6,6 +6,8 @@ description: "Uranus en Cancer dans un thème natal : une autre idée du foyer,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Cancer"]
 weight: 88
 glyph: "♅♋"
 definition: "Uranus en Cancer, c’est la planète du changement dans un signe d’eau cardinal gouverné par la Lune, celui du foyer, du soin et de l’appartenance. Les personnes nées d’août 1948 à juin 1956 l’ont toutes, comme celles qui naîtront d’août 2032 à mai 2040. J’y lis l’idée neuve qu’une génération se fait du foyer ; la maison dit où."

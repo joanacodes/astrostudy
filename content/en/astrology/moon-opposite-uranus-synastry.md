@@ -5,6 +5,8 @@ description: "Moon opposite Uranus in synastry: one person pulls towards closene
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Uranus", "opposition", "synastry"]
 weight: 90
 glyph: "☽☍♅"
 definition: "Moon opposite Uranus in synastry means one person’s Uranus faces the other’s Moon from about 180° away, within 8°. One tends to hold the wish for closeness and continuity, the other the wish for room and change. To me it’s a balance between belonging and freedom that two people strike together, and keep re-striking."

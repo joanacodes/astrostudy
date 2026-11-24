@@ -5,6 +5,8 @@ description: "Taurus rising: a steady entrance, Venus as your chart ruler, Scorp
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "rising sign", "Taurus"]
 weight: 2
 glyph: "↑♉"
 definition: "Taurus rising means the fixed earth sign ruled by Venus was coming up over the eastern horizon at your birth: your Ascendant is in Taurus. It describes a calm way of meeting the world, slow to commit and firm once it has. At London it rises in little more than an hour, so it needs an accurate birth time."

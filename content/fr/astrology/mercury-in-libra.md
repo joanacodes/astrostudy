@@ -6,6 +6,8 @@ description: "Mercure en Balance dans un thème natal : un esprit qui raisonne 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Balance"]
 weight: 31
 glyph: "☿♎"
 definition: "Mercure en Balance place la planète de la pensée et de la parole en air cardinal, le signe de Vénus. On y lit un esprit qui raisonne par comparaison et dialogue, pèse chaque avis face à son contraire et cherche les mots qui gardent le dialogue ouvert. La décision solitaire peut prendre du temps. Environ 1 personne sur 11 l’a."

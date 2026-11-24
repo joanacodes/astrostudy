@@ -6,6 +6,8 @@ description: "Mercure en maison 8 dans un thème natal : un esprit qui va là o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "maison 8", "maisons"]
 weight: 32
 glyph: "☿"
 definition: "Mercure en maison 8 place la planète de la pensée dans la maison de ce qui est partagé, dû et caché. On y lit un esprit chercheur, attiré par les conversations que d’autres évitent : la confiance, l’intimité, l’argent à deux, la perte. La tradition y mettait la mort ; un thème n’en prédit aucune. Il faut l’heure de naissance."

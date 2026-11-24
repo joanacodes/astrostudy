@@ -6,6 +6,8 @@ description: "Pluton en maison 10 dans un thème natal : un rôle public qui p�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "maison 10", "maisons"]
 weight: 118
 glyph: "♇"
 definition: "Pluton en maison 10, c’est la planète de la transformation dans la maison de la carrière, de la réputation et de l’autorité. On y lit une vie publique qui pèse, une ambition profonde, et un rôle qui peut se refaire plus d’une fois. En Placidus, cette maison commence au Milieu du Ciel : il faut l’heure de naissance."

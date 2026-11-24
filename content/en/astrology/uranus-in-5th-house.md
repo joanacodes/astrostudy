@@ -5,6 +5,8 @@ description: "Uranus in the 5th house in a birth chart: creativity that experime
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "5th house", "houses"]
 weight: 89
 glyph: "♅"
 definition: "Uranus in the 5th house places the planet of change in the house of creativity, play, pleasure and romance, a succedent house whose natural sign is Leo. I read it as pleasure that needs novelty and creativity that comes alive through experiment. It says nothing about children, and its house needs the birth time."

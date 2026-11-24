@@ -6,6 +6,8 @@ description: "Lune opposition Chiron en synastrie : les besoins assumés de l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Chiron", "opposition", "synastrie"]
 weight: 105
 glyph: "☽☍⚷"
 definition: "Lune opposition Chiron en synastrie signifie que la Lune d’une personne fait face au Chiron de l’autre, à 8° près. Les besoins assumés de l’une se tiennent en face de la longue adaptation de l’autre à une sensibilité durable, et chacune trouve chez l’autre la moitié qu’elle pratique moins. J’y lis une bascule à équilibrer, jamais une rivalité."

@@ -6,6 +6,8 @@ description: "Soleil conjonction Jupiter en synastrie : l’envie d’élargir 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Jupiter", "conjonction", "synastrie"]
 weight: 21
 glyph: "☉☌♃"
 definition: "Soleil conjonction Jupiter en synastrie signifie que Jupiter, chez une personne, se trouve à moins de 8° du Soleil de l’autre. Ce que l’une voit grandir tombe sur ce que l’autre est : la personne du Soleil se sent crue capable de beaucoup. J’y lis un encouragement de près, au mieux quand il reste une offre plutôt qu’un plan pour quelqu’un."

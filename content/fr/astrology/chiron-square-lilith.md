@@ -6,6 +6,8 @@ description: "Chiron carré Lilith dans un thème natal : faire avec une diffic
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Lilith", "carré"]
 weight: 367
 glyph: "⚷□⚸"
 definition: "Chiron carré Lilith décrit Chiron et la Lune noire Lilith moyenne à environ 90° l’un de l’autre à la naissance, souvent dans des signes de même mode. Votre façon de faire avec une difficulté durable frotte contre la part de vous qui refuse d’être gérée : une friction qui apprend à trier les accommodements qui servent de ceux qui domptent."

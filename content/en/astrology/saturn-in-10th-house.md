@@ -5,6 +5,8 @@ description: "Saturn in the 10th house in a birth chart: ambition on a long time
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "10th house", "houses"]
 weight: 82
 glyph: "♄"
 definition: "Saturn in the 10th house is the planet of time in the most public part of the chart, near the Midheaven, in the house whose natural sign, Capricorn, it rules. It describes ambition on a long timetable, authority earned rather than given, and a reputation built slowly enough to last. It doesn’t forecast a career."

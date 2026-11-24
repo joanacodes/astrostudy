@@ -5,6 +5,8 @@ description: "Neptune sextile Chiron in a birth chart: imagination as a way thro
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Chiron", "sextile"]
 weight: 336
 glyph: "♆⚹⚷"
 definition: "Neptune sextile Chiron means Neptune and Chiron about 60° apart, an angle that came in short spells: in 1939–41, in 1949–50 and in 1998–99. In a chart it gives the tender place an opening through imagination and compassion, so art, care or faith can become ways of working with a limit, once you reach for them."

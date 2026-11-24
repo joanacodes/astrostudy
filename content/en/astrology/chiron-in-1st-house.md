@@ -5,6 +5,8 @@ description: "Chiron in the 1st house in a birth chart: a tender spot about bein
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "1st house", "houses"]
 weight: 121
 glyph: "⚷"
 definition: "Chiron in the 1st house means Chiron sat in the house that begins at the Ascendant, the part of a chart that describes how you meet the world. It suggests a tender spot about being seen as you are, and a manner of showing up that you built yourself. It needs an accurate birth time."

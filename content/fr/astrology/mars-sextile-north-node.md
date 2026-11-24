@@ -6,6 +6,8 @@ description: "Mars sextile Nœud Nord dans un thème natal : une ouverture de v
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Nœud Nord", "sextile"]
 weight: 236
 glyph: "♂⚹☊"
 definition: "Mars sextile Nœud Nord veut dire que Mars se tenait, à votre naissance, à environ 60° du Nœud Nord, donc à environ 120° du Nœud Sud. Votre effort dispose d’une ouverture vers la direction moins familière, et d’un courant plus facile qui ramène au terrain connu. J’y lis une chance à saisir exprès, qui grandit avec la pratique."

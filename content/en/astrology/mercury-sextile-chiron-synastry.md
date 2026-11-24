@@ -5,6 +5,8 @@ description: "Mercury sextile Chiron in synastry: a working conversation between
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Chiron", "sextile", "synastry"]
 weight: 152
 glyph: "☿⚹⚷"
 definition: "Mercury sextile Chiron in synastry means one person’s Mercury is about 60° from the other’s Chiron, within 3.6°. One person’s questions meet what the other learned by adapting around a sensitivity, and the talk can turn practical and useful. I see it as an opening for mentoring in both directions, which needs someone to start."

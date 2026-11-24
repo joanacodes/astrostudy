@@ -6,6 +6,8 @@ description: "La validation subjective : pourquoi une lecture semble juste quan
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["test", "biais cognitifs"]
 weight: 13
 glyph: "✦"
 definition: "La validation subjective est la tendance à tenir pour juste une affirmation sur vous parce qu’elle a un sens personnel pour vous, même si elle irait à presque tout le monde. Le terme naît en 1980, dans un livre des psychologues David Marks et Richard Kammann. Elle explique en partie qu’une lecture semble juste sans être précise."

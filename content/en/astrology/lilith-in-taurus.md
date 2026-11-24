@@ -5,6 +5,8 @@ description: "Lilith in Taurus in a birth chart: the right to keep your own pace
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Taurus"]
 weight: 134
 glyph: "⚸♉"
 definition: "Lilith in Taurus is mean Black Moon Lilith, the Moon’s farthest point from Earth, passing through fixed earth, the sign ruled by Venus, when you were born. In a chart it marks a claim you were taught to keep quiet, the right to your own pace, ground and values, and a refusal that doesn’t argue: it simply doesn’t move."

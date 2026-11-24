@@ -5,6 +5,8 @@ description: "Mercury sextile Lilith in a birth chart: saying the unconventional
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Lilith", "sextile"]
 weight: 146
 glyph: "☿⚹⚸"
 definition: "Mercury sextile Lilith gives your thinking an easy, 60° line to Black Moon Lilith and your untameable side. In a chart it lets the unconventional or unsayable thought into your words when you decide. I read it as well-timed frankness, which grows with use."

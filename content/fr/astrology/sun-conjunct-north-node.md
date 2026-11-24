@@ -6,6 +6,8 @@ description: "Soleil conjonction Nœud Nord dans un thème natal : qui vous êt
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Nœud Nord", "conjonction"]
 weight: 48
 glyph: "☉☌☊"
 definition: "Soleil conjonction Nœud Nord signifie qu’à votre naissance, le Soleil se trouvait à quelques degrés du Nœud Nord, en pleine saison d’éclipses. Dans un thème, qui vous êtes et la direction dans laquelle vous grandissez tirent dans le même sens, avec le Nœud Sud, le familier, en face de votre Soleil. J’y lis un chemin à pratiquer, jamais une fatalité."

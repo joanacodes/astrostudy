@@ -6,6 +6,8 @@ description: "Saturne en maison 9 dans un thème natal : une croyance mise à l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "maison 9", "maisons"]
 weight: 81
 glyph: "♄"
 definition: "Saturne en maison 9 porte la planète de la maîtrise lente jusqu’à l’horizon lointain : la croyance, les études supérieures, les longs voyages et la quête de sens. On y lit des convictions gagnées après avoir douté de celles qu’on vous avait données, des études qui prennent leur temps, et l’autorité de qui a pensé les choses jusqu’au bout."

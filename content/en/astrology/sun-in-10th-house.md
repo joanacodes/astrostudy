@@ -5,6 +5,8 @@ description: "Sun in the 10th house in a birth chart: born in the late morning, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "10th house", "houses"]
 weight: 10
 glyph: "☉"
 definition: "Sun in the 10th house means the Sun was climbing towards its highest point when you were born, in the angular house that begins at the Midheaven. I read it as a self that wants its life’s work to say who it is, and learns that purpose isn’t status and recognition isn’t fame. It needs the birth time."

@@ -5,6 +5,8 @@ description: "Mars conjunct North Node in a birth chart: growth that comes throu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "North Node", "conjunction"]
 weight: 235
 glyph: "♂☌☊"
 definition: "Mars conjunct North Node means Mars sat on or near the North Node when you were born, and so opposite the South Node. In a chart it makes action itself the less familiar skill you grow into: starting, asserting, going first. I read it as a direction to practise, clumsy at first and steadier with use, not a destiny."

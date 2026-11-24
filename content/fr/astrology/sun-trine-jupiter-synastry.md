@@ -6,6 +6,8 @@ description: "Soleil trigone Jupiter en synastrie : la vision de l’une soutie
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Jupiter", "trigone", "synastrie"]
 weight: 24
 glyph: "☉△♃"
 definition: "Soleil trigone Jupiter en synastrie signifie que Jupiter, chez une personne, se trouve à environ 120° du Soleil de l’autre, à 6,8° près, en général dans un même élément. La vision et les principes de l’une soutiennent la direction de l’autre. J’y lis un sens partagé et un encouragement facile, à confronter aux faits de temps en temps."

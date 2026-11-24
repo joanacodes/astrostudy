@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["personal planets", "social planets", "generational planets"]
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 20
 glyph: "☿♃♇"
 definition: "Astrologers sort the ten planets by speed. The personal planets, the Sun, Moon, Mercury, Venus and Mars, change sign within days or weeks and describe the individual. The social planets, Jupiter and Saturn, link a life to its wider world. The generational planets, Uranus, Neptune and Pluto, stay in a sign for years and describe a generation."

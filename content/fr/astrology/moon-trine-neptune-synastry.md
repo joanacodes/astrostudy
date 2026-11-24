@@ -6,6 +6,8 @@ description: "Lune trigone Neptune en synastrie : la compassion d’un côté, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Neptune", "trigone", "synastrie"]
 weight: 94
 glyph: "☽△♆"
 definition: "Lune trigone Neptune en synastrie : Neptune d’une personne à environ 120° de la Lune de l’autre, à 6,8° près, en principe dans des signes d’un même élément. La compassion et l’imagination de l’une rejoignent sans effort les émotions de l’autre. J’y lis une douceur facile, à condition qu’elle ne serve pas à éviter les conversations difficiles."

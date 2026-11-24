@@ -5,6 +5,8 @@ description: "Mercury square Mars in synastry: questions from one person, push f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Mars", "square", "synastry"]
 weight: 123
 glyph: "☿□♂"
 definition: "Mercury square Mars in synastry means one person’s Mercury is about 90° from the other’s Mars, within 5.1°. The Mercury person’s thinking and the Mars person’s drive meet at right angles: questions slow the push, the push hurries the questions. To me it’s a friction that tests plans, best handled with a few rules for arguing."

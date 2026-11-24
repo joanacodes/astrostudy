@@ -6,6 +6,8 @@ description: "Le thème natal en astrologie : ce qu’il enregistre, pourquoi i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 8
 glyph: "✦"
 definition: "Le thème natal, ou thème astral, est une carte du ciel à la minute et au lieu de la naissance : la place du Soleil, de la Lune et des planètes dans le zodiaque, et la façon dont l’horizon et le méridien partageaient le ciel en maisons. Les astrologues y lisent des tendances, jamais le scénario d’une vie."

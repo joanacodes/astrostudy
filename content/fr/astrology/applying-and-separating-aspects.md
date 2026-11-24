@@ -6,6 +6,8 @@ description: "Aspects appliquants et séparants : comment savoir si un aspect s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: []
 weight: 40
 glyph: "✦"
 definition: "Un aspect est appliquant tant que la plus rapide des deux planètes avance vers l’angle exact, et séparant une fois qu’elle l’a dépassé. Beaucoup d’astrologues lisent l’appliquant comme ce qui se construit, le séparant comme ce qui s’apaise. Le sens ne change pas l’aspect : il ajoute un rythme et une nuance, que la Lune montre le mieux."

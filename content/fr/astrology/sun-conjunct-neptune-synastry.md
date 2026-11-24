@@ -6,6 +6,8 @@ description: "Soleil conjonction Neptune en synastrie : l’imaginaire d’une 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Neptune", "conjonction", "synastrie"]
 weight: 36
 glyph: "☉☌♆"
 definition: "Soleil conjonction Neptune en synastrie unit l’identité d’une personne à l’imaginaire de l’autre, dont Neptune est à moins de 8° de ce Soleil. L’une se découvre vue sous son meilleur jour ; l’autre, inspirée. J’y lis de la tendresse et une vision, et je guette le moment où la personne et l’idéal deviennent difficiles à séparer."

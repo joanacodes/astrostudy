@@ -6,6 +6,8 @@ description: "Soleil sextile Jupiter en synastrie : le sens des possibles de l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Jupiter", "sextile", "synastrie"]
 weight: 22
 glyph: "☉⚹♃"
 definition: "Soleil sextile Jupiter en synastrie signifie que Jupiter, chez une personne, se trouve à environ 60° du Soleil de l’autre, à 4,8° près. L’œil de l’une pour les possibles nourrit la direction de l’autre en idées et en pistes. J’y lis un contact de bonnes suggestions, qui ne vaut que lorsqu’on en suit une."

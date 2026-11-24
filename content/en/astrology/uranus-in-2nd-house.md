@@ -5,6 +5,8 @@ description: "Uranus in the 2nd house in a birth chart: your own measure of secu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "2nd house", "houses"]
 weight: 86
 glyph: "♅"
 definition: "Uranus in the 2nd house places the planet of change in the house of money, belongings, talents and self-worth, a succedent house whose natural sign is Taurus. I read it as values that won’t follow the default: security that has to include freedom, and worth measured on your own scale. It needs the birth time."

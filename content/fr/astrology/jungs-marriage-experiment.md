@@ -6,6 +6,8 @@ description: "L’expérience de Jung sur le mariage : son test de l’astrolog
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["test"]
 weight: 6
 glyph: "✦"
 definition: "L’expérience de Jung sur le mariage est le test astrologique que Carl Jung a décrit dans son essai de 1952 sur la synchronicité, à partir des horoscopes de plus de 400 couples mariés. Les récits de ses chiffres divergent, mais Jung n’attribuait rien aux planètes : il parlait de synchronicité. Les critiques ont visé l’échantillon, les statistiques et l’astrologie."

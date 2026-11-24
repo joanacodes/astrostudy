@@ -5,6 +5,8 @@ description: "Moon conjunct Pluto in synastry: one person’s intensity lands on
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Pluto", "conjunction", "synastry"]
 weight: 96
 glyph: "☽☌♇"
 definition: "Moon conjunct Pluto in synastry means one person’s Pluto sits within 8° of the other’s Moon. One person’s depth and drive to transform reach straight into the other’s feelings and needs, so little stays on the surface. To me it’s a contact of deep change and trust, never one person’s power over the other."

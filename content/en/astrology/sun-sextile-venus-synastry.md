@@ -5,6 +5,8 @@ description: "Sun sextile Venus in synastry: one person’s taste offering the o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Venus", "sextile", "synastry"]
 weight: 12
 glyph: "☉⚹♀"
 definition: "Sun sextile Venus in synastry means one person’s Venus is about 60° from the other’s Sun, within 4.8°. No one has it in their own chart, since Venus stays within about 47° of the Sun. Between two people, one person’s taste keeps offering the other pleasures and openings. I read it as friendly liking that grows when used."

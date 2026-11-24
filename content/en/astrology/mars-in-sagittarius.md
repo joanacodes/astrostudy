@@ -5,6 +5,8 @@ description: "Mars in Sagittarius in a birth chart: drive fuelled by conviction,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Sagittarius"]
 weight: 57
 glyph: "♂♐"
 definition: "Mars in Sagittarius sends the planet of drive into mutable fire, under Jupiter’s rule. In a chart it describes action fuelled by conviction: you act fast for what you believe in, speak your mind, look for adventure rather than comfort, and need a cause or a horizon to keep going."

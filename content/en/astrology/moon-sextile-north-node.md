@@ -5,6 +5,8 @@ description: "Moon sextile North Node in a birth chart: needs that open small do
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "North Node", "sextile"]
 weight: 104
 glyph: "☽⚹☊"
 definition: "Moon sextile North Node means the Moon was about 60° from the North Node when you were born, and so about 120° from the South Node. In a chart your needs and habits keep offering small openings towards the less familiar, while the familiar stays within easy reach. I read it as an opportunity that asks to be taken."

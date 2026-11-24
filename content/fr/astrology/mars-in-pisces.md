@@ -6,6 +6,8 @@ description: "Mars en Poissons dans un thème natal : un élan qui contourne le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Poissons"]
 weight: 60
 glyph: "♂♓"
 definition: "Mars en Poissons, c’est Mars dans l’eau mutable, sous deux maîtres que je lis ensemble : Neptune en astrologie tropicale moderne, Jupiter dans la tradition. On y lit un élan guidé par le ressenti et l’imagination : vous vous adaptez facilement, agissez à l’instinct, et travaillez le plus dur pour les personnes et les causes auxquelles vous croyez."

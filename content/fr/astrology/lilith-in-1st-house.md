@@ -6,6 +6,8 @@ description: "Lilith en maison 1 dans un thème natal : la part qu’on a appri
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "maison 1", "maisons"]
 weight: 133
 glyph: "⚸"
 definition: "Lilith en maison 1 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la maison qui commence à votre ascendant. J’y lis la part qu’on a appris à cacher affleurant à la surface, dans votre présence et vos manières, et un refus visible de vous laisser diriger."

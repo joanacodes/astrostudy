@@ -5,6 +5,8 @@ description: "The birth chart in astrology: what a natal chart records, why it n
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 8
 glyph: "✦"
 definition: "A birth chart, or natal chart, is a map of the sky at the minute and place of birth: where the Sun, Moon and planets stood in the zodiac, and how the horizon and meridian divided the sky into houses. Astrologers read it as a description of tendencies and needs, never as a script for a life."

@@ -6,6 +6,8 @@ description: "Pluton en Capricorne dans un thème natal : des structures et une
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Capricorne"]
 weight: 118
 glyph: "♇♑"
 definition: "Pluton en Capricorne, c’est le changement profond appliqué aux structures, en terre cardinale gouvernée par Saturne. Les naissances concernées vont de 2008 à 2024 ; les premières personnes de cette génération ont eu dix-huit ans en 2026. On y lit des structures et une autorité rebâties depuis les fondations, en ne gardant que ce qui porte."

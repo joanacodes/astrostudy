@@ -6,6 +6,8 @@ description: "Neptune en maison 8 dans un thème natal : une intimité qui diss
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "maison 8", "maisons"]
 weight: 104
 glyph: "♆"
 definition: "Neptune en maison 8 : à votre naissance, Neptune se trouvait dans la maison de l’intimité, de la confiance et de ce que l’on partage. On y lit une proximité qui dissout les contours, une empathie profonde, une confiance donnée sans compter, et des comptes communs à tenir clairs. La tradition y plaçait la mort ; je ne la prédis jamais."

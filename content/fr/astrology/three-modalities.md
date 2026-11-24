@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["trois modalités"]
 family: "foundations"
+categories: ["Les bases"]
+tags: ["modalités", "thème natal"]
 weight: 16
 glyph: "♈♉♊"
 definition: "Les trois modalités, cardinale, fixe et mutable, décrivent l’allure de chaque signe : les signes cardinaux lancent les choses, les fixes les maintiennent, les mutables les adaptent. Quatre signes partagent chacune, et dans le zodiaque tropical elles suivent les saisons : les cardinaux les ouvrent, les fixes en tiennent le cœur, les mutables font passer de l’une à l’autre."

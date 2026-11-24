@@ -6,6 +6,8 @@ description: "Vénus carré Nœud Nord dans un thème natal : ce que vous aimez
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Nœud Nord", "carré"]
 weight: 197
 glyph: "♀□☊"
 definition: "Vénus carré Nœud Nord signifie qu’à votre naissance, Vénus se trouvait à environ 90° des deux nœuds. Ce que vous aimez forme un carré avec tout leur axe : ni le familier ni le nouveau ne va tout à fait à votre goût. J’y lis une friction qui demande à la croissance de faire place à ce que vous aimez."

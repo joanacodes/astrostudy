@@ -5,6 +5,8 @@ description: "The full moon in astrology: the Moon opposite the Sun, named for t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunar phases"]
 weight: 12
 glyph: "○"
 definition: "The full moon is the moment the Moon is opposite the Sun, 180° from it, with its whole face lit: it rises at sunset and sets at dawn. Astrologers name it for the Moon’s sign, with the Sun in the sign opposite. A birth at a full moon gives the Sun opposite the Moon."

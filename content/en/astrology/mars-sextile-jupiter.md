@@ -5,6 +5,8 @@ description: "Mars sextile Jupiter in a birth chart: energy and purpose as allie
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Jupiter", "sextile"]
 weight: 201
 glyph: "♂⚹♃"
 definition: "Mars sextile Jupiter means Mars and Jupiter were about 60° apart at your birth, usually in signs of complementary elements. In a chart, your energy and your sense of purpose cooperate: acting on what you believe tends to go well, once you act. I read it as a door that opens readily, and the most common of this pair’s aspects."

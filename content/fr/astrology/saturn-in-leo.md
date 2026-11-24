@@ -6,6 +6,8 @@ description: "Saturne en Lion dans un thème natal : en exil dans le feu fixe, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Lion"]
 weight: 77
 glyph: "♄♌"
 definition: "Saturne en Lion, c’est la planète de la retenue dans le signe de l’expression de soi, feu fixe gouverné par le Soleil, où Saturne est en exil. Ce placement réunit les personnes nées vers 1946–1949, 1975–1978 et 2005–2007. On y voit une confiance apprise lentement, une créativité charpentée, et une joie prise au sérieux."

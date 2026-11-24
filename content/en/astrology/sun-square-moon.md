@@ -5,6 +5,8 @@ description: "Sun square Moon in a birth chart: born near a half moon, what you 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Moon", "square"]
 weight: 3
 glyph: "☉□☽"
 definition: "Sun square Moon means you were born with the Sun and Moon about 90° apart, close to a first or last quarter moon. In a chart it sets what you are aiming for against what you need to feel safe, and asks you to keep adjusting. I read it as friction that builds adaptability, never as a divided self."

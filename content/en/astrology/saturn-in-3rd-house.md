@@ -5,6 +5,8 @@ description: "Saturn in the 3rd house in a birth chart: everyday words weighed w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "3rd house", "houses"]
 weight: 75
 glyph: "♄"
 definition: "Saturn in the 3rd house is a careful mind in the house of everyday comings and goings: words, messages, short journeys, early learning, siblings and neighbours. It describes measured speech, a late confidence in your own ideas, and a way of learning that is slow and thorough. Your birth time decides whether Saturn sits here."

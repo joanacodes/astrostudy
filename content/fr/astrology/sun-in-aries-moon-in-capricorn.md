@@ -6,6 +6,8 @@ description: "Soleil en Bélier, Lune en Capricorne : deux signes cardinaux, Ma
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier", "Lune", "Capricorne"]
 weight: 10
 glyph: "☉♈☽♑"
 definition: "Soleil en Bélier, Lune en Capricorne associe deux signes cardinaux, la Lune trois signes derrière le Soleil, pour une naissance vingt à vingt-quatre jours et demi environ après une nouvelle lune. J’y lis deux façons de prendre les commandes, le Soleil par élan, la Lune par plan, et des émotions gérées avant d’être montrées."

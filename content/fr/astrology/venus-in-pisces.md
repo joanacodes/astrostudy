@@ -6,6 +6,8 @@ description: "Vénus en Poissons dans un thème natal : Vénus exaltée, un amo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Poissons"]
 weight: 48
 glyph: "♀♓"
 definition: "Vénus en Poissons, c’est Vénus dans l’eau mutable, le signe de son exaltation, que gouvernent Neptune et, dans la tradition, Jupiter. On y lit une façon d’apprécier qui ne tient pas de comptes, une affection qui passe par la compassion et l’imagination, et une tendresse capable d’aimer l’imparfait, qui se porte mieux avec quelques limites."

@@ -5,6 +5,8 @@ description: "Mercury opposite Venus in synastry: reasons on one side, values on
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Venus", "opposition", "synastry"]
 weight: 120
 glyph: "☿☍♀"
 definition: "Mercury opposite Venus in synastry means one person’s Mercury faces the other’s Venus across the zodiac, within 6°, which no single chart allows. One person’s reasoning and the other’s sense of value sit at opposite ends of a seesaw, each completing the other. I see a polarity that two people balance together, never a standoff."

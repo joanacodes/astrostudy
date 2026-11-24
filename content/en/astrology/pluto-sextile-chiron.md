@@ -5,6 +5,8 @@ description: "Pluto sextile Chiron in a birth chart: a quiet chance to renew how
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Chiron", "sextile"]
 weight: 351
 glyph: "♇⚹⚷"
 definition: "Pluto sextile Chiron is a 60° angle between Pluto and Chiron, which three groups of births carry: 1930–34, 1945–46 and 1994–95. In a chart it offers the tender place a way to renew itself: letting go of an old way of coping can open a better one, once you take the opening."

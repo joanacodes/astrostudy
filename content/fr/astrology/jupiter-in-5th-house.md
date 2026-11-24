@@ -6,6 +6,8 @@ description: "Jupiter en maison 5 dans un thème natal : grandir par la joie, l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "maison 5", "maisons"]
 weight: 65
 glyph: "♃"
 definition: "Jupiter en maison 5 signifie que Jupiter se trouvait dans la maison de la joie, de la créativité et des amours, que la tradition appelait la Fortune favorable. J’y lis une croissance par le plaisir : apprendre en jouant, des convictions trouvées dans ce qui vous allume, un élan qui entraîne. Rien n’y prédit chance ni enfants ; il faut l’heure."

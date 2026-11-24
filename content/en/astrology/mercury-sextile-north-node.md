@@ -5,6 +5,8 @@ description: "Mercury sextile North Node in a birth chart: a mind that links old
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "North Node", "sextile"]
 weight: 151
 glyph: "☿⚹☊"
 definition: "Mercury sextile North Node means Mercury sits 60° from the North Node, and so 120° from the South Node, at birth. In a chart your thinking becomes a bridge between practised strengths and the way you’re growing. To me it's an opening that needs practice, not a promise."

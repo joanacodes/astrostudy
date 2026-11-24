@@ -5,6 +5,8 @@ description: "Sun square Lilith in synastry: one person’s way of being catches
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Lilith", "square", "synastry"]
 weight: 53
 glyph: "☉□⚸"
 definition: "Sun square Lilith in synastry puts one person’s Sun about 90° from the other’s mean Black Moon Lilith, give or take 6.8°. Simply by being themselves, one presses on what the other refuses, and a no comes back. I read it as friction that shows both people where their limits lie, never as a mismatch."

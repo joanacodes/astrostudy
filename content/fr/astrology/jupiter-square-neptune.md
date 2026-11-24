@@ -6,6 +6,8 @@ description: "Jupiter carré Neptune dans un thème natal : la friction entre c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Neptune", "carré"]
 weight: 252
 glyph: "♃□♆"
 definition: "Jupiter carré Neptune signifie qu’il y avait 90° entre Jupiter et Neptune à votre naissance, un angle que le ciel forme tous les six ou sept ans pendant quelques mois. Vos principes et vos idéaux frottent sans cesse, et la vision dépasse souvent la carte. Cette friction apprend le discernement ; jamais elle ne signale un défaut de jugement."

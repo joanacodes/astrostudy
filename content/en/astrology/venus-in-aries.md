@@ -5,6 +5,8 @@ description: "Venus in Aries in a birth chart: Venus in detriment, taste that de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Aries"]
 weight: 37
 glyph: "♀♈"
 definition: "Venus in Aries puts the planet of value and attraction in the sign that opens the zodiac, Mars’s cardinal fire, where tradition places its detriment. It describes taste that knows itself at once, affection shown by moving first, and a way of relating that prefers a frank yes or no to a long wait."

@@ -5,6 +5,8 @@ description: "Moon sextile Neptune in synastry: one person’s imagination gives
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Neptune", "sextile", "synastry"]
 weight: 92
 glyph: "☽⚹♆"
 definition: "Moon sextile Neptune in synastry means one person’s Neptune is about 60° from the other’s Moon, within 4.8°. One person’s imagination and compassion can give the other’s feelings a shape: a song, a story, a gentler evening. I read it as a creative kindness between two people, offered rather than automatic."

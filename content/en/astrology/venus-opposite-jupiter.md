@@ -5,6 +5,8 @@ description: "Venus opposite Jupiter in a birth chart: what you enjoy close at h
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Jupiter", "opposition"]
 weight: 164
 glyph: "♀☍♃"
 definition: "Venus opposite Jupiter means Venus and Jupiter sat roughly 180° apart on the day you were born, across opposite signs. In a chart, what you enjoy close at hand faces what calls you further off: pleasure here, meaning there. I read it as an equilibrium, found slowly, between appreciating what is and reaching for more."

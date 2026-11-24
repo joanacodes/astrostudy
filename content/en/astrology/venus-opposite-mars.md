@@ -5,6 +5,8 @@ description: "Venus opposite Mars in a birth chart: the rarest meeting of the tw
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Mars", "opposition"]
 weight: 159
 glyph: "♀☍♂"
 definition: "Venus opposite Mars means your chart has Venus and Mars about 180° apart, in opposite signs, the rarest of their aspects. In a chart, liking and pursuing face each other from either side: you tend to lean one way, then the other, until both ends feel like yours."

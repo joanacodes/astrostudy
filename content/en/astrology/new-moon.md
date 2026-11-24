@@ -5,6 +5,8 @@ description: "The new moon in astrology: the Sun and Moon at the same degree, wh
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunar phases"]
 weight: 8
 glyph: "●"
 definition: "The new moon is the moment the Moon passes the Sun, both at the same degree of the zodiac, with its lit side turned away from us, so it can’t be seen. It opens each lunar cycle of about 29½ days and always falls in the Sun’s sign. Someone born at a new moon has the Sun conjunct the Moon."

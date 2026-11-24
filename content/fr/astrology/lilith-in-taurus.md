@@ -6,6 +6,8 @@ description: "Lilith en Taureau dans un thème natal : le droit de garder son r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Taureau"]
 weight: 134
 glyph: "⚸♉"
 definition: "Lilith en Taureau, c’est la Lune noire Lilith, point le plus lointain de l’orbite lunaire, dans la terre fixe du signe de Vénus à votre naissance. Elle désigne le droit, qu’on vous a appris à taire, à votre rythme, à votre terrain, à ce qui compte, et un refus qui ne discute pas : il ne bouge plus."

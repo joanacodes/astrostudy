@@ -6,6 +6,8 @@ description: "Lilith carré Nœud Nord dans un thème natal : votre part indomp
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Nœud Nord", "carré"]
 weight: 377
 glyph: "⚸□☊"
 definition: "Lilith carré Nœud Nord met la Lune noire Lilith moyenne à environ 90° du Nœud Nord à la naissance, donc à 90° du Nœud Sud aussi. Dans un thème, la part de vous qui refuse d’être gérée se tient en travers des habitudes familières comme de la croissance nouvelle, et la friction réclame une direction assez large pour l’inclure."

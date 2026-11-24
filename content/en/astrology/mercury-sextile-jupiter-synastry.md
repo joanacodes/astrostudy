@@ -5,6 +5,8 @@ description: "Mercury sextile Jupiter in synastry: one person’s curiosity, the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Jupiter", "sextile", "synastry"]
 weight: 127
 glyph: "☿⚹♃"
 definition: "Mercury sextile Jupiter in synastry means one person’s Mercury is about 60° from the other’s Jupiter, within 3.6°. The first person’s curiosity and the second’s sense of meaning can help each other whenever one of them asks. I read it as an open door between two minds: useful when used, and easy to leave shut."

@@ -5,6 +5,8 @@ description: "The sesquiquadrate in astrology: two planets 135° apart, a square
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["sesquiquadrate", "minor aspects"]
 weight: 8
 glyph: "⚼"
 definition: "A sesquiquadrate is an angle of 135° between two planets: a square and a half, three-eighths of the circle, four or five signs apart. In a birth chart it marks a tension in two layers that no small fix settles: it asks you to rebuild an arrangement around both planets, not to patch one habit."

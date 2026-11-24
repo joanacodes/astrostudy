@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["9th house", "ninth house"]
 family: "houses"
+categories: ["Houses"]
+tags: ["9th house"]
 weight: 9
 glyph: "IX"
 definition: "The 9th house is the ninth of the twelve houses of a birth chart. Astrologers read it as the far horizon: long journeys, higher study, belief and the search for meaning — what you're willing to question to understand more. Tradition called it the God, and the Sun has its joy there."

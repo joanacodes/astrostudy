@@ -5,6 +5,8 @@ description: "Angular, succedent and cadent houses: the three kinds of house, wh
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "houses"
+categories: ["Houses"]
+tags: ["houses"]
 weight: 34
 glyph: "✦"
 definition: "Angular, succedent and cadent are the three kinds of house. The angular houses, the 1st, 4th, 7th and 10th, begin at the four angles of a chart; the succedent houses, the 2nd, 5th, 8th and 11th, follow them; the cadent houses, the 3rd, 6th, 9th and 12th, fall away from them. Each kind works at its own pace."

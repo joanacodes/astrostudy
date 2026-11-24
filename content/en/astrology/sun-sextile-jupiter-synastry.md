@@ -5,6 +5,8 @@ description: "Sun sextile Jupiter in synastry: one person’s sense of possibili
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Jupiter", "sextile", "synastry"]
 weight: 22
 glyph: "☉⚹♃"
 definition: "Sun sextile Jupiter in synastry means one person’s Jupiter is about 60° from the other’s Sun, within 4.8°. One person’s eye for possibilities keeps feeding the other’s direction with ideas and leads. I read it as a contact of good suggestions, worth something only when one of them is taken up."

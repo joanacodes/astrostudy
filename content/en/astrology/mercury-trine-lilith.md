@@ -5,6 +5,8 @@ description: "Mercury trine Lilith in a birth chart: frankness that comes withou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Lilith", "trine"]
 weight: 148
 glyph: "☿△⚸"
 definition: "Mercury trine Lilith sets your way of speaking 120° from Black Moon Lilith, the untamed point, usually in a sign of the same element. In a chart it lets frank, unconventional thinking pass into speech without a struggle. I read it as candour that comes naturally, worth using with care for the people listening."

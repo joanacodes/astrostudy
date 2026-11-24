@@ -5,6 +5,8 @@ description: "Pluto in the 9th house in a birth chart: beliefs, study and long j
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "9th house", "houses"]
 weight: 117
 glyph: "♇"
 definition: "Pluto in the 9th house sends deep change to the far horizon: belief, higher learning, long journeys and the big questions. It describes a worldview earned rather than inherited, and rebuilt when it no longer fits. In Placidus the 9th ends at the Midheaven, and like every house it needs the birth time."

@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Part of Fortune", "Lot of Fortune"]
 family: "points"
+categories: ["Planets and points"]
+tags: ["Part of Fortune", "Arabic parts"]
 weight: 14
 glyph: "⊗"
 definition: "The Part of Fortune is a calculated point, the best known of the lots. By day it sits as far from the Ascendant as the Moon is from the Sun; by night many astrologers reverse the count. Tradition reads it for the body and the circumstances of a life, what comes to you, rather than luck or money."

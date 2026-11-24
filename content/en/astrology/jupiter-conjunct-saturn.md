@@ -5,6 +5,8 @@ description: "Jupiter conjunct Saturn in a birth chart: the great conjunction, w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Saturn", "conjunction"]
 weight: 240
 glyph: "♃☌♄"
 definition: "Jupiter conjunct Saturn is the meeting of the two planets within a few degrees, the great conjunction that comes about every 20 years. Everyone born in the same months shares it. In a chart it fuses the urge to grow with the urge to build something that lasts; its house shows where you expand by giving things a structure."

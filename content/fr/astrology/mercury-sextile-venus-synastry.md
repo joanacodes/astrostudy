@@ -6,6 +6,8 @@ description: "Mercure sextile Vénus en synastrie : la curiosité de l’une re
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Vénus", "sextile", "synastrie"]
 weight: 117
 glyph: "☿⚹♀"
 definition: "Mercure sextile Vénus en synastrie signifie que Mercure, chez une personne, se trouve à environ 60° de la Vénus de l’autre, à 3,6° près. La curiosité de l’une et le goût de l’autre pour ce qui vaut la peine peuvent se nourrir à distance. J’y vois une ouverture facile à la conversation, qui sert dès qu’on la prend."

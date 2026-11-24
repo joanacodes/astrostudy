@@ -5,6 +5,8 @@ description: "Mars in astrology: your drive, desire and anger, in each sign and 
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planets and points"]
+tags: ["Mars"]
 weight: 5
 glyph: "♂"
 definition: "Mars is the red planet, and in astrology the planet of drive: how you go after what you want, compete, defend yourself and get angry. In a birth chart its sign shows the style of that energy, its house where you spend it, and its aspects how freely it flows."

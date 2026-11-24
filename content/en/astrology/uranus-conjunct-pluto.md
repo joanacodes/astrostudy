@@ -5,6 +5,8 @@ description: "Uranus conjunct Pluto in a birth chart: the 1960s meeting in Virgo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Pluto", "conjunction"]
 weight: 310
 glyph: "♅☌♇"
 definition: "Uranus conjunct Pluto is a meeting of the two planets, within a few degrees. It happened in Virgo between 1963 and 1968, so a whole generation shares it. In a chart it fuses the urge to break an old pattern with the urge to renew at the root; its house shows where that lives in your life."

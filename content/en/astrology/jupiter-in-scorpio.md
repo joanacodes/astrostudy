@@ -5,6 +5,8 @@ description: "Jupiter in Scorpio in a birth chart: growth by going deep, read wi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Scorpio"]
 weight: 68
 glyph: "♃♏"
 definition: "Jupiter in Scorpio is Jupiter, the planet of growth and meaning, in the fixed water sign ruled by Pluto in modern tropical astrology and by Mars in the tradition. Everyone born within a year or so shares it. I read it as growth through depth: understanding found beneath the surface, and loyalty tested by difficulty."

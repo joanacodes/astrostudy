@@ -6,6 +6,8 @@ description: "Lune trigone Neptune dans un thème natal : l’émotion et l’i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Neptune", "trigone"]
 weight: 86
 glyph: "☽△♆"
 definition: "Lune trigone Neptune signifie que votre Lune et Neptune étaient à environ 120° à la naissance, en général dans des signes qui partagent un élément. Vos émotions et votre imagination avancent ensemble : la compassion vient naturellement, et il vous faut très peu pour vous apaiser ou apaiser les autres. J’y lis une tendresse facile, à utiliser exprès."

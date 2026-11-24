@@ -5,6 +5,8 @@ description: "Uranus trine Chiron in a birth chart: originality easing a tender 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Chiron", "trine"]
 weight: 318
 glyph: "♅△⚷"
 definition: "Uranus trine Chiron is a 120° angle between Uranus and Chiron, the rarest aspect the pair made in the count: births of 1945 to 1946 and of 1994 to 1996. In a chart, originality and the skill of adapting around a tender place help each other, so workarounds come easily. Read it through your houses."

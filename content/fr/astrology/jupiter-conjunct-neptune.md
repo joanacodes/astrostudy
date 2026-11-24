@@ -6,6 +6,8 @@ description: "Jupiter conjonction Neptune dans un thème natal : le sens et l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Neptune", "conjonction"]
 weight: 250
 glyph: "♃☌♆"
 definition: "Jupiter conjonction Neptune signifie que les deux planètes se rencontraient à quelques degrés près à votre naissance, comme tous les 13 ans environ pendant quelques mois. Le sens et l’imaginaire agissent ensemble : une vision large et compatissante de ce que la vie pourrait être. J’y lis un don de vision qui mûrit en apprenant où sont ses limites."

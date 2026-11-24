@@ -5,6 +5,8 @@ description: "Mercury trine Jupiter in synastry: one person’s way of learning 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Jupiter", "trine", "synastry"]
 weight: 129
 glyph: "☿△♃"
 definition: "Mercury trine Jupiter in synastry means one person’s Mercury is about 120° from the other’s Jupiter, within 5.1°, usually in signs of one element. The first person’s way of learning and the second’s sense of meaning move at the same pace. I read it as an encouraging exchange, best when you still question what you agree on."

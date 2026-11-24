@@ -5,6 +5,8 @@ description: "North Node in the 8th house in a birth chart: growing towards trus
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "8th house", "houses"]
 weight: 152
 glyph: "☊"
 definition: "North Node in the 8th house means the North Node, the Moon’s northward crossing of the Sun’s path, fell in the house of intimacy and shared resources when you were born, with the South Node in the 2nd. I read it as growth towards trust: letting people close, sharing what matters and accepting what others offer."

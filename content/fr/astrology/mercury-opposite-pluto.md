@@ -6,6 +6,8 @@ description: "Mercure opposition Pluton dans un thème natal : vos mots face à
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Pluton", "opposition"]
 weight: 139
 glyph: "☿☍♇"
 definition: "Mercure opposition Pluton, c’est l’esprit face à Pluton, la planète des profondeurs, d’un bord à l’autre du thème, à 180° à la naissance. Dans un thème, votre façon de penser rencontre une intensité qui arrive souvent par les mots des autres. J’y lis une polarité qui vous apprend combien les mots ont de pouvoir, et comment le partager."

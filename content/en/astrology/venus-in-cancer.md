@@ -5,6 +5,8 @@ description: "Venus in Cancer in a birth chart: affection that protects, a taste
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Cancer"]
 weight: 40
 glyph: "♀♋"
 definition: "Venus in Cancer brings the planet of value and attraction into the Moon’s own sign, cardinal water. I read it as a taste shaped by memory and belonging, affection shown through care and protection, and a way of relating that opens slowly, once it feels safe, and then stays loyal for a long time."

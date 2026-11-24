@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["éphémérides"]
 family: "foundations"
+categories: ["Les bases"]
+tags: []
 weight: 10
 glyph: "✦"
 definition: "Les éphémérides sont des tables donnant la position du Soleil, de la Lune et des planètes, jour après jour, souvent à minuit ou à midi en temps universel. Tout thème est calculé à partir d’elles. Pour les lire, trois choses comptent : la bonne colonne, le glyphe du signe au-dessus du chiffre, et l’heure pour laquelle la table est établie."

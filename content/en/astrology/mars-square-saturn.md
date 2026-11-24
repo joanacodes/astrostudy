@@ -5,6 +5,8 @@ description: "Mars square Saturn in a birth chart: the urge to go meets the call
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Saturn", "square"]
 weight: 207
 glyph: "♂□♄"
 definition: "In Mars square Saturn, the two planets stand about 90° apart in the birth chart, usually in signs of one modality. In a chart it sets the urge to act against the need for structure: effort meets resistance and learns timing. I read it as friction that builds stamina and strategy, never as proof that your efforts are doomed."

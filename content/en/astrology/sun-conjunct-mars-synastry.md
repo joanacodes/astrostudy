@@ -5,6 +5,8 @@ description: "Sun conjunct Mars in synastry: one person’s drive lands on the o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Mars", "conjunction", "synastry"]
 weight: 16
 glyph: "☉☌♂"
 definition: "Sun conjunct Mars in synastry means one person’s Mars sits within 8° of the other’s Sun. One person’s drive lands on who the other is: the Mars person wants to act with or for the Sun person, who feels set in motion. I read it as energy shared at close range, where the question is whose initiative it is."

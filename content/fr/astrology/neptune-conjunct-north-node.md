@@ -6,6 +6,8 @@ description: "Neptune conjonction Nœud Nord dans un thème natal : l’imagina
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Nœud Nord", "conjonction"]
 weight: 345
 glyph: "♆☌☊"
 definition: "Neptune conjonction Nœud Nord signifie qu’à votre naissance, Neptune se trouvait à quelques degrés du Nœud Nord, donc en face du Nœud Sud. Dans un thème, la capacité à construire par la pratique est celle de Neptune : l’imagination, la compassion, la confiance en ce qui ne se mesure pas. J’y lis une direction à pratiquer, pas un destin à rêver."

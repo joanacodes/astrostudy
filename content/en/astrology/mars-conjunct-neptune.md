@@ -5,6 +5,8 @@ description: "Mars conjunct Neptune in a birth chart: effort guided by imaginati
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Neptune", "conjunction"]
 weight: 215
 glyph: "♂☌♆"
 definition: "Mars conjunct Neptune is a meeting, within a few degrees, of the planet that acts and the planet that imagines. In a chart it joins effort to inspiration and compassion: you act most readily for a vision or for others. I read it as drive led by imagination, never as a weakness of will."

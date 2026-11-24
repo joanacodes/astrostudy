@@ -5,6 +5,8 @@ description: "Moon trine Pluto in synastry: one person’s depth and the other�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Pluto", "trine", "synastry"]
 weight: 99
 glyph: "☽△♇"
 definition: "Moon trine Pluto in synastry means one person’s Pluto is about 120° from the other’s Moon, within 6.8°, generally in signs of one element. One person’s depth and capacity for renewal suit the other’s feelings, so strong emotions can be shared without alarm. I read it as quiet, resilient closeness, worth naming out loud."

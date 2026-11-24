@@ -6,6 +6,8 @@ description: "Mercure sextile Saturne en synastrie : les idées de l’une, la 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Saturne", "sextile", "synastrie"]
 weight: 132
 glyph: "☿⚹♄"
 definition: "Mercure sextile Saturne en synastrie est un lien de 60°, à 3,6° près, entre Mercure chez une personne et Saturne chez l’autre. Les idées de la première peuvent emprunter la patience et la méthode de la seconde dès qu’elle les demande. J’y lis une aide discrète et pratique, qui ne marche qu’une fois demandée."

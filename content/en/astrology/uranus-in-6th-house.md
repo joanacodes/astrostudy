@@ -5,6 +5,8 @@ description: "Uranus in the 6th house in a birth chart: daily work on your own m
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "6th house", "houses"]
 weight: 90
 glyph: "♅"
 definition: "Uranus in the 6th house places the planet of change in the house of daily work, routines, colleagues and care of the body, a cadent house whose natural sign is Virgo. I read it as days that run on your own method and a talent for improving how things are done. It predicts nothing about health."

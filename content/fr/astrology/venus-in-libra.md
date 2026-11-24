@@ -6,6 +6,8 @@ description: "Vénus en Balance dans un thème natal : Vénus chez elle dans le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Balance"]
 weight: 43
 glyph: "♀♎"
 definition: "Vénus en Balance, c’est Vénus dans l’un de ses propres signes, l’air cardinal, qu’elle gouverne. On y lit un goût de l’équilibre et de la proportion, une façon d’aimer bâtie sur l’équité, la courtoisie et le partenariat, et une harmonie qui vaut surtout quand les deux personnes parlent, pas quand l’une d’elles se tait."

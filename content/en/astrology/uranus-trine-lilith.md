@@ -5,6 +5,8 @@ description: "Uranus trine Lilith in a birth chart: originality and your untamed
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Lilith", "trine"]
 weight: 323
 glyph: "♅△⚸"
 definition: "Uranus trine Lilith means Uranus and mean Black Moon Lilith stood about 120° apart when you were born, usually in signs of one element. In a chart, originality and the part of you that refuses to be tamed help each other, so being yourself without edits comes easily. It is personal, read through your houses."

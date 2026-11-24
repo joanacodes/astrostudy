@@ -5,6 +5,8 @@ description: "Jupiter square Chiron in a birth chart: hope meeting a place that 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Chiron", "square"]
 weight: 262
 glyph: "♃□⚷"
 definition: "Jupiter square Chiron means Jupiter and Chiron about 90° apart. In a chart, the part of you that hopes and grows rubs against the tender spot you keep coming back to, so goals keep having to adapt to a slower pace. I read it as friction that teaches you to change the method rather than drop the aim."

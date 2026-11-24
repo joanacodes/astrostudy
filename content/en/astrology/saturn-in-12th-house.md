@@ -5,6 +5,8 @@ description: "Saturn in the 12th house in a birth chart: in its joy, fears worke
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "12th house", "houses"]
 weight: 84
 glyph: "♄"
 definition: "Saturn in the 12th house is Saturn in its joy: the planet of time and limits in the house of solitude, rest and what happens out of sight, where tradition said it rejoices. It describes fears worked through quietly, strength found alone, and a discipline that serves the inner life. Tradition gave this house confinement; I predict none."

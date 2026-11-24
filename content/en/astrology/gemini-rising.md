@@ -5,6 +5,8 @@ description: "Gemini rising: an opening question, Mercury as your chart ruler, S
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "rising sign", "Gemini"]
 weight: 3
 glyph: "↑♊"
 definition: "Gemini rising means Gemini, the mutable air sign ruled by Mercury, was on the eastern horizon when you were born, so your Ascendant is in Gemini. I read it as a curious, adaptable way of meeting the world: you start with a question. At London it rises in a little under two hours, close to the average."

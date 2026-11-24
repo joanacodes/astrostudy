@@ -6,6 +6,8 @@ description: "Pluton en maison 2 dans un thème natal : la sécurité, l’arge
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "maison 2", "maisons"]
 weight: 110
 glyph: "♇"
 definition: "Pluton en maison 2 apporte le changement profond à ce que vous possédez et à ce que vous valez : l’argent, les biens, les talents, l’estime de soi. On y lit une sécurité ressentie profondément et rebâtie depuis la base : une attitude envers ce qui est à vous, jamais une prédiction de ce que vous aurez. Il faut l’heure de naissance."

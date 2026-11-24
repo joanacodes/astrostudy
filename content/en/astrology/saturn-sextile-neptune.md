@@ -5,6 +5,8 @@ description: "Saturn sextile Neptune in a birth chart: a door between the practi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Neptune", "sextile"]
 weight: 281
 glyph: "♄⚹♆"
 definition: "Saturn sextile Neptune means the two planets stood about 60° apart at birth, usually in signs of compatible elements. Births shared it in four runs between 1946 and 1997. In a chart it opens a door between structure and imagination: ideals find a practical first step, and routines find a reason, whenever you choose to use it."

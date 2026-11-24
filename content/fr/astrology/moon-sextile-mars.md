@@ -6,6 +6,8 @@ description: "Lune sextile Mars dans un thème natal : un courage ordinaire qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Mars", "sextile"]
 weight: 64
 glyph: "☽⚹♂"
 definition: "Lune sextile Mars place la Lune et Mars à environ 60° à la naissance, en général à deux signes d’écart. Émotions et élan coopèrent : quand une chose compte, l’énergie pour agir est là, pourvu que vous alliez la chercher. J’y lis un courage de tous les jours, qui répond quand on l’appelle."

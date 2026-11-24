@@ -6,6 +6,8 @@ description: "Jupiter en maison 7 dans un thème natal : grandir par les parten
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "maison 7", "maisons"]
 weight: 67
 glyph: "♃"
 definition: "Jupiter en maison 7 signifie que Jupiter se trouvait près du descendant, dans la maison des partenaires et des liens en tête-à-tête. J’y lis une croissance par les autres : des partenaires qui élargissent votre monde, des convictions rencontrées en face de vous, une générosité envers vos engagements. Rien n’y prédit un mariage ; il faut l’heure."

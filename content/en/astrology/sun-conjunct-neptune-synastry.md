@@ -5,6 +5,8 @@ description: "Sun conjunct Neptune in synastry: one person’s imagination gathe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Neptune", "conjunction", "synastry"]
 weight: 36
 glyph: "☉☌♆"
 definition: "Sun conjunct Neptune in synastry binds one person’s identity to the other’s imagination, with their Neptune within 8° of the Sun. The Sun person feels seen at their best; the Neptune person feels inspired. I read it as tenderness and vision, and I watch for the moment the person and the ideal become hard to separate."

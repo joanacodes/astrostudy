@@ -6,6 +6,8 @@ description: "Lune opposition Mars dans un thème natal : réconfort et poussé
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Mars", "opposition"]
 weight: 67
 glyph: "☽☍♂"
 definition: "Lune opposition Mars met la Lune et Mars face à face à la naissance, à environ 180°. Le besoin de réconfort et l’élan d’agir se répondent à travers le thème, et l’élan se rencontre souvent d’abord chez une autre personne. J’y vois une polarité entre tendresse et affirmation, à faire vôtre plutôt qu’à résoudre."

@@ -6,6 +6,8 @@ description: "Vénus carré Uranus dans un thème natal : l’attachement et le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Uranus", "carré"]
 weight: 172
 glyph: "♀□♅"
 definition: "Vénus carré Uranus signifie que 90° environ séparaient Vénus et Uranus à votre naissance, le plus souvent dans des signes tous deux cardinaux, fixes ou mutables. Dans un thème, l’attachement et l’envie de liberté frottent l’un contre l’autre : vous voulez proximité et air, stabilité et surprise. J’y lis un frottement qui exerce l’amour à plier sans rompre."

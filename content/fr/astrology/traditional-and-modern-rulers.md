@@ -6,6 +6,8 @@ description: "Maîtrises traditionnelles et modernes : l’ancien schéma à se
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signes"]
+tags: ["signes du zodiaque"]
 weight: 29
 glyph: "♄/♅"
 definition: "Les maîtrises traditionnelles et modernes sont deux façons d’attribuer les signes aux planètes. Le schéma traditionnel utilise les sept astres visibles et donne le Scorpion, le Verseau et les Poissons à Mars, Saturne et Jupiter ; l’astrologie tropicale moderne donne ces trois signes à Pluton, Uranus et Neptune. Les neuf autres gardent un seul maître. Je lis les deux."

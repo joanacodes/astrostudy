@@ -6,6 +6,8 @@ description: "Uranus sextile Neptune dans un thème natal : une ouverture entre
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Neptune", "sextile"]
 weight: 306
 glyph: "♅⚹♆"
 definition: "Uranus sextile Neptune est un angle de 60° entre les deux planètes, dans l’orbe par intermittence de 1963 à 1970, le plus souvent avec Uranus en Vierge et Neptune en Scorpion. Dans un thème, l’invention et l’imaginaire s’ouvrent des portes, à condition que vous les franchissiez. Une génération le partage ; vos maisons le rendent personnel."

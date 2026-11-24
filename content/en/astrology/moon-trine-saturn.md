@@ -5,6 +5,8 @@ description: "Moon trine Saturn in a birth chart: a calm that comes by temperame
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Saturn", "trine"]
 weight: 76
 glyph: "☽△♄"
 definition: "Moon trine Saturn sets the Moon and Saturn about 120° apart at birth, usually in signs of one element. Feeling and structure keep step: steadiness comes by temperament, and responsibilities sit lightly on your inner life. I read it as a calm others lean on, which is allowed to lean on others in turn."

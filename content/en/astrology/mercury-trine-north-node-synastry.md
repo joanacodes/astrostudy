@@ -5,6 +5,8 @@ description: "Mercury trine North Node in synastry: one person’s words make th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "North Node", "trine", "synastry"]
 weight: 164
 glyph: "☿△☊"
 definition: "Mercury trine North Node in synastry means one person’s Mercury is about 120° from the other’s North Node, within 5.1°, and so about 60° from their South Node. One person’s ideas make the other’s growth feel natural without dismissing their old strengths. I read it as easy encouragement, worth turning into practice rather than leaving as talk."

@@ -6,6 +6,8 @@ description: "Uranus en Gémeaux dans un thème natal : un esprit original, pou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Gémeaux"]
 weight: 87
 glyph: "♅♊"
 definition: "Uranus en Gémeaux, c’est la planète du changement dans un signe d’air mutable gouverné par Mercure, celui des mots, des liens et de l’apprentissage. Ce placement appartient aux personnes nées d’août 1941 à juin 1949 ou de juillet 2025 à mai 2033. J’y lis une génération qui expérimente la circulation des idées ; la maison en fait votre affaire."

@@ -6,6 +6,8 @@ description: "Jupiter en Lion dans un thème natal : grandir au grand jour, par
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Lion"]
 weight: 65
 glyph: "♃♌"
 definition: "Jupiter en Lion, c’est la planète de la croissance et du sens dans le signe de feu fixe gouverné par le Soleil. Toute une année de naissance, ou presque, partage ce placement. J’y lis une croissance au grand jour : vous comprenez les choses par ce que vous créez et célébrez, et vous croyez aux gens de tout cœur."

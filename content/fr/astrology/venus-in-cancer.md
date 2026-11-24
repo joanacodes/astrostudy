@@ -6,6 +6,8 @@ description: "Vénus en Cancer dans un thème natal : une affection qui protèg
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Cancer"]
 weight: 40
 glyph: "♀♋"
 definition: "Vénus en Cancer installe la planète de la valeur et de l’attirance dans le signe lunaire, l’eau cardinale. On y trouve un goût façonné par la mémoire et l’appartenance, une affection qui se montre par le soin et la protection, et une façon d’aimer qui s’ouvre lentement, en confiance, puis reste fidèle très longtemps."

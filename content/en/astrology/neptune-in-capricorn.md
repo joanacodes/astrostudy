@@ -5,6 +5,8 @@ description: "Neptune in Capricorn in a birth chart: the 1984–1998 generation�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Capricorn"]
 weight: 106
 glyph: "♆♑"
 definition: "Neptune in Capricorn is Neptune, the planet of dreams and ideals, in the cardinal earth sign of structure and achievement, where it stayed from January 1984 to November 1998. I read it as that generation’s wish to give dreams a concrete shape: ideals about work and the institutions people build, and visions made to last."

@@ -6,6 +6,8 @@ description: "Lilith en maison 4 dans un thème natal : un moi privé gardé to
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "maison 4", "maisons"]
 weight: 136
 glyph: "⚸"
 definition: "Lilith en maison 4 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait au bas de votre thème, dans la maison du foyer, de la famille et des racines. J’y lis un moi privé gardé plus près que celui de la plupart des gens, et un refus tranquille de tout hériter."

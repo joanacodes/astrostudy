@@ -6,6 +6,8 @@ description: "Mars en maison 4 dans un thème natal : un élan qui bâtit, rép
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "maison 4", "maisons"]
 weight: 52
 glyph: "♂"
 definition: "Mars en maison 4 place Mars à la base du thème, dans la maison du foyer, des racines et de la famille, qui commence au fond du ciel. On y lit un élan qui va à défendre un foyer : bâtir, réparer, protéger les personnes avec qui vous vivez. Il faut une heure exacte, et rien n’y prédit d’événement familial."

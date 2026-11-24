@@ -5,6 +5,8 @@ description: "Sun in Taurus, Moon in Cancer: both lights on the Moon’s own gro
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Taurus", "Moon", "Cancer"]
 weight: 16
 glyph: "☉♉☽♋"
 definition: "Sun in Taurus, Moon in Cancer places the Moon in its own sign and the Sun in the sign of the Moon’s exaltation, two and a half to seven days after a new moon. I read it as a life organised around safety: a self that builds and keeps, and needs that protect, remember and make a home."

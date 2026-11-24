@@ -6,6 +6,8 @@ description: "Uranus sextile Lilith dans un thème natal : l’originalité qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Lilith", "sextile"]
 weight: 321
 glyph: "♅⚹⚸"
 definition: "Uranus sextile Lilith signifie qu’à votre naissance, Uranus et la Lune noire Lilith moyenne étaient à environ 60° d’écart. Dans un thème, l’envie de se distinguer offre une issue à la part de vous qui refuse d’être domptée, par des idées neuves, de nouvelles compagnies ou d’autres façons de travailler, dès que vous choisissez de la prendre."

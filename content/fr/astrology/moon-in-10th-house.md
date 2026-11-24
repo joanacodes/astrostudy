@@ -6,6 +6,8 @@ description: "Lune en maison 10 dans un thème natal : des émotions portées d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "maison 10", "maisons"]
 weight: 22
 glyph: "☽"
 definition: "La Lune en maison 10 signifie que la Lune se trouvait dans la maison de la vie publique, de la vocation et de la réputation, près du sommet du thème, à votre naissance. J’y lis des émotions qui cherchent un rôle dans le monde, et un travail qui prend la forme du soin. Il faut l’heure de naissance."

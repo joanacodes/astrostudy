@@ -5,6 +5,8 @@ description: "Sun trine Saturn in a birth chart: patience and purpose in one ele
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Saturn", "trine"]
 weight: 21
 glyph: "☉△♄"
 definition: "Sun trine Saturn joins your Sun and Saturn across a third of the circle, usually within one element. In a chart, structure supports your purpose instead of fighting it. I read it as a steady, patient strength, at its best when you don't let caution do all the deciding."

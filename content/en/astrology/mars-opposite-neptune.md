@@ -5,6 +5,8 @@ description: "Mars opposite Neptune in a birth chart: your will and your ideals 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Neptune", "opposition"]
 weight: 219
 glyph: "♂☍♆"
 definition: "Mars opposite Neptune places your will and your ideals at opposite ends of the chart, about 180° apart. In a chart it pulls effort between what you want and what others need or imagine, a balance often learned through relationships. I read it as a polarity that teaches compassion without self-erasure."

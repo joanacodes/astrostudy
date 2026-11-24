@@ -5,6 +5,8 @@ description: "Chiron in the 11th house in a birth chart: a tender spot about bel
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "11th house", "houses"]
 weight: 131
 glyph: "⚷"
 definition: "Chiron in the 11th house means Chiron sat in the house of friends, groups and hopes, which tradition called the Good Spirit. It describes adapting around a tender spot about belonging to a group, and building circles where others are welcome too. It needs the birth time, like every house placement."

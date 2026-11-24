@@ -5,6 +5,8 @@ description: "Mars square Pluto in a birth chart: drive meets the urge for deep 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Pluto", "square"]
 weight: 222
 glyph: "♂□♇"
 definition: "Mars square Pluto sets your drive at a right angle to your capacity for deep change, about 90° apart. In a chart it describes intensity under pressure: when blocked, you push harder, and effort keeps meeting the need to transform. I read it as friction that builds proportion and resilience, never as a sentence to power struggles."

@@ -5,6 +5,8 @@ description: "Saturn in Scorpio in a birth chart: trust and control learned slow
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Scorpio"]
 weight: 80
 glyph: "♄♏"
 definition: "Saturn in Scorpio is a guarded placement: the planet of boundaries in fixed water, the sign of depth and trust, ruled by Pluto in modern tropical astrology and by Mars in the tradition. People born in roughly 1953–56, 1982–85 or 2012–15 share it. Its lessons are trust, control, and intimacy guarded until it is earned."

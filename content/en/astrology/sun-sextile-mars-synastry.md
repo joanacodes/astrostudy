@@ -5,6 +5,8 @@ description: "Sun sextile Mars in synastry: one person’s effort ready to serve
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Mars", "sextile", "synastry"]
 weight: 17
 glyph: "☉⚹♂"
 definition: "Sun sextile Mars in synastry means one person’s Mars is about 60° from the other’s Sun, within 4.8°. One person’s drive is ready to serve the other’s aims, and the aims give the drive something worth doing. I read it as a practical alliance that works on request, best when both people do the asking."

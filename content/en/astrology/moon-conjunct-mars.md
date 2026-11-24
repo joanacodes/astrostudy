@@ -5,6 +5,8 @@ description: "Moon conjunct Mars in a birth chart: feeling and acting in one mov
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Mars", "conjunction"]
 weight: 63
 glyph: "☽☌♂"
 definition: "Moon conjunct Mars means the Moon and Mars were together, within a few degrees, when you were born. In a chart it joins need and action: a feeling turns into a move almost at once, and what you care about gets defended. I read it as protective courage, never as a temper, and as a pause worth learning."

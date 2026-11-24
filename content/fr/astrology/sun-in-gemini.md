@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux dans un thème natal : un moi fait de plusieur
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux"]
 weight: 3
 glyph: "☉♊"
 definition: "Le Soleil en Gémeaux, signe solaire des naissances du 21 mai au 20 juin environ, place le centre du thème dans l’air mutable, sous la maîtrise de Mercure. J’y lis une identité qui fonctionne comme une conversation, une vitalité nourrie par l’échange, et un but trouvé en posant des questions, la cohérence restant le vrai travail d’une vie."

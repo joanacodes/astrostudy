@@ -6,6 +6,8 @@ description: "Chiron carré Nœud Nord dans un thème natal : une difficulté d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Nœud Nord", "carré"]
 weight: 372
 glyph: "⚷□☊"
 definition: "Chiron carré Nœud Nord place Chiron à environ 90° du Nœud Nord à la naissance, donc à 90° du Nœud Sud aussi, à mi-chemin de l’axe. Dans un thème, votre façon de vous adapter à une difficulté durable coupe à la fois le terrain familier et la croissance nouvelle : le chemin doit être conçu pour l’inclure."

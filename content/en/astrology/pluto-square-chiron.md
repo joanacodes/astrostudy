@@ -5,6 +5,8 @@ description: "Pluto square Chiron in a birth chart: total renewal against patien
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Chiron", "square"]
 weight: 352
 glyph: "♇□⚷"
 definition: "Pluto square Chiron sets Pluto and Chiron about 90° apart, as they were for two short groups of births: 1947–48 and 1992–94. In a chart, the urge to transform at the root rubs against what can only be worked around, a friction that teaches you what to let go of and what to live alongside."

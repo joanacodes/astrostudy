@@ -6,6 +6,8 @@ description: "Lune carré Vénus en synastrie : le soin qu’offre l’une n’
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Vénus", "carré", "synastrie"]
 weight: 68
 glyph: "☽□♀"
 definition: "Lune carré Vénus en synastrie : la Lune d’une personne et la Vénus de l’autre à environ 90°, à 6,8° près. Ce que l’une donne comme affection et ce dont l’autre a besoin ne coïncident pas d’emblée. Pour moi, c’est une friction qui apprend aux deux à traduire, jamais un manque d’affection."

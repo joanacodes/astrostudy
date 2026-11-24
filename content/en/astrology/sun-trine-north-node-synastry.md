@@ -5,6 +5,8 @@ description: "Sun trine North Node in synastry: who one person is suits where th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "North Node", "trine", "synastry"]
 weight: 59
 glyph: "☉△☊"
 definition: "In Sun trine North Node in synastry, about 120° separate one person’s Sun from the other’s North Node, within 6.8°; the same Sun is then 60° from their South Node. What one person is suits where the other is growing, so the growth feels natural around them. I read it as easy support that still needs practice."

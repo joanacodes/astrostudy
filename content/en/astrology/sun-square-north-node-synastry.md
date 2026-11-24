@@ -5,6 +5,8 @@ description: "Sun square North Node in synastry: one person stands across the ot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "North Node", "square", "synastry"]
 weight: 58
 glyph: "☉□☊"
 definition: "Sun square North Node in synastry places one person’s Sun about 90°, within 6.8°, from both nodes of the other. That Sun stands across their path, part of neither their familiar ground nor their next step. I read it as friction that asks growth to make room for a real person."

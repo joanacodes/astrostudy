@@ -5,6 +5,8 @@ description: "The air signs in astrology: Gemini, Libra and Aquarius — what ai
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signs"]
+tags: ["zodiac signs"]
 weight: 32
 glyph: "♊♎♒"
 definition: "The air signs are Gemini, Libra and Aquarius, the three signs of the element of air, each 120° from the next. In a birth chart, air shows where you live through ideas, conversation and connection: thinking things through, comparing, exchanging, linking people up. Planets in air signs tend to understand something by talking it over."

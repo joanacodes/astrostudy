@@ -5,6 +5,8 @@ description: "Pluto in Capricorn in a birth chart: structures and authority rebu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Capricorn"]
 weight: 118
 glyph: "♇♑"
 definition: "Pluto in Capricorn is deep change applied to structures, in cardinal earth ruled by Saturn. The births it marks run from 2008 to 2024; the eldest of that generation turned eighteen in 2026. In a chart it describes structures and authority rebuilt from the foundations, keeping only what bears weight."

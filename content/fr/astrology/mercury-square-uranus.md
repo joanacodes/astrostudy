@@ -6,6 +6,8 @@ description: "Mercure carré Uranus dans un thème natal : des idées qui arriv
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Uranus", "carré"]
 weight: 127
 glyph: "☿□♅"
 definition: "Mercure carré Uranus signifie qu’à votre naissance, la planète de la pensée et celle du changement étaient à environ 90° d’écart. Dans un thème, ce carré met en tension votre façon d’expliquer les choses et l’envie de les repenser de zéro. J’y lis une friction qui aiguise une pensée originale, jamais un esprit dispersé."

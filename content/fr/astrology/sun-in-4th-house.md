@@ -6,6 +6,8 @@ description: "Soleil en maison 4 dans un thème natal : une naissance en fin de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "maison 4", "maisons"]
 weight: 4
 glyph: "☉"
 definition: "Le Soleil en maison 4 signifie que le Soleil était sous l’horizon en fin de soirée à votre naissance, dans la maison angulaire qui commence au Fond du Ciel. J’y lis une identité enracinée dans le foyer et les origines, une vitalité qui se refait en privé, et un but bâti comme une fondation. Il faut l’heure de naissance."

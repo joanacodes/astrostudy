@@ -5,6 +5,8 @@ description: "Astrology and mental health: why no placement is a diagnosis, how 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Readings"]
+tags: ["mental health"]
 weight: 66
 glyph: "✦"
 definition: "Astrology can give you words for how you feel and how you cope, and a sense that hard times have seasons. It can’t diagnose, predict or treat a mental health problem, and no placement is a symptom. A reading can sit beside care, never in place of it: for care, a doctor or a qualified therapist is the right door."

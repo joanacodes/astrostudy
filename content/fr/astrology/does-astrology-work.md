@@ -6,6 +6,8 @@ description: "L’astrologie, ça marche ? Ce qu’ont donné les tests à l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["test"]
 weight: 17
 glyph: "✦"
 definition: "Dans les tests contrôlés, l’astrologie n’a pas marché : quand des astrologues ont dû associer des thèmes natals à des personnes qu’ils ne voyaient pas, ils n’ont pas fait mieux que le hasard, et ils se sont peu accordés entre eux. Savoir si une lecture peut aider à réfléchir est une autre question que celle posée par ces tests."

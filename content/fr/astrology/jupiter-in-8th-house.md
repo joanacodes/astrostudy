@@ -6,6 +6,8 @@ description: "Jupiter en maison 8 dans un thème natal : grandir par l’intimi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "maison 8", "maisons"]
 weight: 68
 glyph: "♃"
 definition: "Jupiter en maison 8 signifie que Jupiter se trouvait dans la maison de l’intimité, de la confiance et de ce que vous partagez avec les autres. J’y lis une croissance par la profondeur : une confiance qui peut porter du poids, une générosité envers ce qui est partagé, un sens trouvé dans les lieux difficiles. Rien n’y prédit décès ni héritage."

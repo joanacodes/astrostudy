@@ -6,6 +6,8 @@ description: "Neptune en Lion dans un thème natal : le rêve d’un grand amou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Lion"]
 weight: 101
 glyph: "♆♌"
 definition: "Neptune en Lion, c’est la planète des rêves et de l’inspiration dans le signe de feu fixe du cœur, où Neptune a séjourné de septembre 1914 à juillet 1929. C’est la plus ancienne génération en vie. J’y lis le rêve d’un grand amour et de l’art : une imagination qui veut une scène, un cœur qui veut être vu."

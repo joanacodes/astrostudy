@@ -5,6 +5,8 @@ description: "Uranus in the 11th house in a birth chart: friends and causes chos
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "11th house", "houses"]
 weight: 95
 glyph: "♅"
 definition: "Uranus in the 11th house places the planet of change in the house of friends, groups and hopes, a succedent house whose natural sign is Aquarius, the sign Uranus rules in modern tropical astrology. I read it as a circle chosen for shared ideals, and a need to belong without fitting a mould. It needs the birth time."

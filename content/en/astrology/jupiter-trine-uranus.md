@@ -5,6 +5,8 @@ description: "Jupiter trine Uranus in a birth chart: growth and change in easy a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Uranus", "trine"]
 weight: 248
 glyph: "♃△♅"
 definition: "Jupiter trine Uranus means the two planets formed an angle of about 120° at your birth, a pattern carried by the births of a few months at a stretch. Growth and innovation flow together: new ideas widen your outlook instead of unsettling it. I read it as an easy relationship with change, best used on purpose."

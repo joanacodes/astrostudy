@@ -6,6 +6,8 @@ description: "Lune opposition Pluton en synastrie : un port d’un côté, une 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Pluton", "opposition", "synastrie"]
 weight: 100
 glyph: "☽☍♇"
 definition: "Lune opposition Pluton en synastrie : Pluton d’une personne face à la Lune de l’autre, à environ 180°, à 8° près. Chez l’une domine souvent le besoin de sécurité et de familier, chez l’autre l’élan d’aller plus loin et de changer. J’y lis une polarité entre sécurité et transformation, vivable quand le pouvoir circule dans les deux sens."

@@ -5,6 +5,8 @@ description: "Sun opposite Venus in synastry: what one person values faces who t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Venus", "opposition", "synastry"]
 weight: 15
 glyph: "☉☍♀"
 definition: "Sun opposite Venus in synastry means one person’s Venus is about 180° from the other’s Sun, within 8°. Nobody is born with it: Venus stays within about 47° of the Sun. Between two people, what one values faces who the other is. I read it as a balance of give and take, never as a contest."

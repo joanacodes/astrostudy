@@ -6,6 +6,8 @@ description: "La Lune des neiges, pleine lune de février : ses dates et ses si
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 21
 glyph: "○"
 definition: "La Lune des neiges est le nom que les almanachs donnent à la pleine lune de février, le mois des fortes neiges dans le nord-est américain. C’est un nom populaire, pas d’astrologie. Dans un thème, je la lis pour ce qu’elle est : une pleine lune en Lion ou en Vierge, face au Soleil en Verseau ou en Poissons."

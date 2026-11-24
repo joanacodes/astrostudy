@@ -6,6 +6,8 @@ description: "Lune trigone Pluton dans un thème natal : la profondeur et le re
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Pluton", "trigone"]
 weight: 91
 glyph: "☽△♇"
 definition: "Lune trigone Pluton signifie que Pluton formait un trigone, environ 120°, avec votre Lune à la naissance, les deux en général dans un même élément. Vos émotions et votre capacité de renouveau travaillent ensemble : vous pouvez traverser un changement profond et en sortir sans perdre pied. J’y lis une résilience émotionnelle discrète, qui gagne à être remarquée."

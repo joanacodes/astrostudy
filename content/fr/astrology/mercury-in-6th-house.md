@@ -6,6 +6,8 @@ description: "Mercure en maison 6 dans un thème natal : un esprit qui pense en
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "maison 6", "maisons"]
 weight: 30
 glyph: "☿"
 definition: "Mercure en maison 6 place la planète de la pensée dans la maison du travail quotidien, des routines et du soin du corps. On y lit un esprit pratique qui pense en faisant, améliore tout processus qu’il touche et aime avoir une tâche. La tradition y mettait la maladie ; un thème n’en prédit aucune. Il faut l’heure de naissance."

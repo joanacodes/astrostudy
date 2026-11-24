@@ -6,6 +6,8 @@ description: "Uranus en maison 8 dans un thème natal : l’intimité et la con
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "maison 8", "maisons"]
 weight: 92
 glyph: "♅"
 definition: "Uranus en maison 8 place la planète du changement dans la maison de l’intimité, de la confiance et de ce que l’on partage avec les autres ou qu’on leur doit, une maison succédente dont le signe naturel est le Scorpion. J’y lis une proximité qui a besoin d’air, et des partages choisis plutôt qu’hérités. Rien n’y prédit la mort."

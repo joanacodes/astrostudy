@@ -6,6 +6,8 @@ description: "Lune en maison 3 dans un thème natal : la joie de la Lune, des �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "maison 3", "maisons"]
 weight: 15
 glyph: "☽"
 definition: "La Lune en maison 3 signifie que la Lune se trouvait dans la maison du quotidien, de la conversation et des personnes avec qui vous avez grandi, celle que la tradition lui donne pour joie. J’y lis des émotions qui se posent par la parole, l’écriture et les habitudes proches de chez vous. Il faut l’heure de naissance."

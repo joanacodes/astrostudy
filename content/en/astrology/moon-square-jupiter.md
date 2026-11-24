@@ -5,6 +5,8 @@ description: "Moon square Jupiter in a birth chart: comfort and growth keeping d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Jupiter", "square"]
 weight: 70
 glyph: "☽□♃"
 definition: "Moon square Jupiter means the Moon and Jupiter formed a 90° angle when you were born, most often between signs of the same modality. Comfort and growth keep different paces: you outgrow comforts early, or hold on when the next step is calling. To me it is a friction that builds timing and proportion, never a flaw of character."

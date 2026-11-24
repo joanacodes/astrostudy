@@ -6,6 +6,8 @@ description: "Chiron en maison 9 dans un thème natal : un point sensible dans 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "maison 9", "maisons"]
 weight: 129
 glyph: "⚷"
 definition: "Chiron en maison 9 signifie que Chiron se trouvait dans la maison des croyances, des études supérieures et des longs voyages, que la tradition appelait le Dieu. Il décrit une adaptation autour d’un point sensible dans la croyance ou la compréhension, jusqu’à un regard bien à vous, que vous pourrez transmettre. Il faut l’heure de naissance."

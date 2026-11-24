@@ -6,6 +6,8 @@ description: "Mars sextile Saturne dans un thème natal : l’élan et la disci
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Saturne", "sextile"]
 weight: 206
 glyph: "♂⚹♄"
 definition: "Mars sextile Saturne est un lien de 60° entre Mars et Saturne dans un thème natal, en général entre deux signes séparés par un autre. Dans un thème, l’envie d’agir et l’envie de structurer y coopèrent : vous savez faire d’un effort une méthode, et d’un plan des étapes. Je le lis comme une ouverture qui récompense qui s’en sert."

@@ -6,6 +6,8 @@ description: "Lune conjonction Uranus dans un thème natal : le besoin de sécu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Uranus", "conjonction"]
 weight: 78
 glyph: "☽☌♅"
 definition: "Lune conjonction Uranus signifie que votre naissance tombe l’un de ces jours où, chaque mois, la Lune passe sur Uranus : les deux à quelques degrés, en général dans un même signe. Cette conjonction fond ensemble ce qui vous rassure et l’envie de liberté et de différence. J’y lis une émotion originale, pas une instabilité."

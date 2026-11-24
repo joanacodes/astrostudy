@@ -6,6 +6,8 @@ description: "Uranus en Verseau dans un thème natal : Uranus dans son signe, p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Verseau"]
 weight: 95
 glyph: "♅♒"
 definition: "Uranus en Verseau, c’est la planète du changement dans son propre signe en astrologie tropicale moderne, un signe d’air fixe que la tradition donne à Saturne. Ce placement revient aux naissances d’avril 1995 à décembre 2003. J’y lis une génération à l’aise avec les réseaux et les systèmes neufs ; la maison montre où cette aisance devient la vôtre."

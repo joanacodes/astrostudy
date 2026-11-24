@@ -5,6 +5,8 @@ description: "Moon square Neptune in synastry: the care one person imagines and 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Neptune", "square", "synastry"]
 weight: 93
 glyph: "☽□♆"
 definition: "Moon square Neptune in synastry means one person’s Neptune is about 90° from the other’s Moon, within 6.8°. What one person needs in concrete terms and what the other imagines or idealises tend to miss each other. To me it’s friction with a lesson in it, two people learning to name their feelings plainly; never deceit."

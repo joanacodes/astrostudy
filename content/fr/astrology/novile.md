@@ -6,6 +6,8 @@ description: "Le novile en astrologie : deux planètes à 40°, un neuvième du
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["novile", "aspects mineurs"]
 weight: 15
 glyph: "✦"
 definition: "Le novile est un angle de 40° entre deux planètes, un neuvième du cercle : trois noviles font un trigone. Dans un thème natal, il représente une maturation, deux planètes dont le lien mûrit lentement, presque à l’abri des regards, et devient prêt en son temps. Il parle de maturité, jamais de perfection ni de destin."

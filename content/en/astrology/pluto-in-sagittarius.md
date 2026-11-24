@@ -5,6 +5,8 @@ description: "Pluto in Sagittarius in a birth chart: belief questioned and rebui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Sagittarius"]
 weight: 117
 glyph: "♇♐"
 definition: "Pluto in Sagittarius takes deep change down the road of belief, in mutable fire, the sign of long journeys ruled by Jupiter. Everyone born from 1996 to 2007 has it, as do many born in 1995 and 2008: about 1 person in 6 born from 1930 to 2009. It describes belief transformed: faiths questioned, then rebuilt."

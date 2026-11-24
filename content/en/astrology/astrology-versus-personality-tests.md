@@ -5,6 +5,8 @@ description: "Astrology versus personality tests: what the Big Five and the MBTI
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["testing"]
 weight: 22
 glyph: "✦"
 definition: "Personality tests are questionnaires: you answer questions about yourself and get scores, as in the Big Five, or a type, as in the MBTI. Research supports the Big Five’s traits better than the MBTI’s types. A birth chart starts from a date, time and place instead, and in a controlled test, charts did no better than chance."

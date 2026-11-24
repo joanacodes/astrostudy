@@ -6,6 +6,8 @@ description: "Vénus carré Jupiter dans un thème natal : une générosité qu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Jupiter", "carré"]
 weight: 162
 glyph: "♀□♃"
 definition: "Vénus carré Jupiter signifie que, dans votre thème, un angle d’environ 90° relie Vénus et Jupiter, la plupart du temps entre signes d’un même mode. Votre sens du juste prix et l’envie de davantage y frottent l’un contre l’autre : la générosité peut déborder. À mes yeux, ce frottement a une leçon : la proportion, et des promesses tenables."

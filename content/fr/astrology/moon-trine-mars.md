@@ -6,6 +6,8 @@ description: "Lune trigone Mars dans un thème natal : un effort qui suit l’�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Mars", "trigone"]
 weight: 66
 glyph: "☽△♂"
 definition: "Lune trigone Mars désigne un angle de 120° environ qui relie la Lune et Mars à la naissance, souvent dans deux signes d’un élément commun. Le ressenti et l’effort se soutiennent : vos besoins donnent une raison à votre élan, et votre élan prend soin de vos besoins. J’y lis un courage pratique et régulier."

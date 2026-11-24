@@ -5,6 +5,8 @@ description: "Venus in Scorpio in a birth chart: Venus in detriment, loyalty wit
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Scorpio"]
 weight: 44
 glyph: "♀♏"
 definition: "Venus in Scorpio is Venus in fixed water, the sign opposite Taurus, where tradition places its detriment; Pluto rules it, and traditionally Mars. It describes love that refuses the surface, loyalty given slowly and then completely, and a taste for depth, truth and whatever holds up under pressure."

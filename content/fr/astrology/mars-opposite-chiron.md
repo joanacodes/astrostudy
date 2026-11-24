@@ -6,6 +6,8 @@ description: "Mars opposition Chiron dans un thème natal : votre élan face à
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Chiron", "opposition"]
 weight: 229
 glyph: "♂☍⚷"
 definition: "Mars opposition Chiron signifie qu’à votre naissance, Mars et Chiron se faisaient face, à environ 180°. Dans un thème, cette opposition place votre élan en face de votre point sensible : avancer et savoir où vous avez mal se rencontrent sans cesse, souvent à travers les autres. J’y lis une polarité qui apprend l’équilibre, jamais un combat perdu d’avance."

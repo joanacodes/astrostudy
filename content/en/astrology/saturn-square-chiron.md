@@ -5,6 +5,8 @@ description: "Saturn square Chiron in a birth chart: standards and a lasting dif
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Chiron", "square"]
 weight: 292
 glyph: "♄□⚷"
 definition: "Saturn square Chiron is a 90° angle between Saturn and Chiron, and the commonest of their aspects among births from 1930 to 2009. In a chart it sets the standards you are expected to meet against a difficulty that doesn’t fit them: a friction that, over time, produces a standard of your own."

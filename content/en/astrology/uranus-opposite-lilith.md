@@ -5,6 +5,8 @@ description: "Uranus opposite Lilith in a birth chart: your urge to differ and y
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Lilith", "opposition"]
 weight: 324
 glyph: "♅☍⚸"
 definition: "Uranus opposite Lilith means Uranus and mean Black Moon Lilith stood about 180° apart at your birth. In a chart, the urge to be different and the part of you that refuses to be tamed face each other, and often meet through other people. I read it as a polarity to integrate, never as a fight you lose."

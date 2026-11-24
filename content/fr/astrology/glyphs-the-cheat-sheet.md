@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["glyphes"]
 family: "foundations"
+categories: ["Les bases"]
+tags: []
 weight: 12
 glyph: "☉♈☌"
 definition: "Les glyphes sont les symboles qui servent de raccourcis aux astrologues pour les planètes, les signes, les aspects et les points d’un thème : tout un ciel tient ainsi dans une roue, et une année de positions en quelques pages. Chacun désigne une seule chose. Une trentaine suffit pour lire n’importe quel thème."

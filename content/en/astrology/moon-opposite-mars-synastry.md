@@ -5,6 +5,8 @@ description: "Moon opposite Mars in synastry: rest on one side, push on the othe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Mars", "opposition", "synastry"]
 weight: 75
 glyph: "☽☍♂"
 definition: "In Moon opposite Mars in synastry, one person’s Moon faces the other’s Mars across the chart, within 8°. The need to rest and the urge to act sit at opposite ends, and each person tends to carry one. I read it as a seesaw between push and pause, to be balanced rather than won."

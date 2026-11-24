@@ -5,6 +5,8 @@ description: "Jupiter in the 5th house in a birth chart: growth through joy, pla
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "5th house", "houses"]
 weight: 65
 glyph: "♃"
 definition: "Jupiter in the 5th house means Jupiter was in the house of joy, creativity, play and romance, which tradition called Good Fortune. I read it as growth through delight: learning by playing, beliefs found in what lights you up, and an enthusiasm that brings others in. It predicts neither luck nor children, and it needs a birth time."

@@ -6,6 +6,8 @@ description: "Vénus en maison 10 dans un thème natal : la grâce en public, l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "maison 10", "maisons"]
 weight: 46
 glyph: "♀"
 definition: "Vénus en maison 10 signifie que Vénus se tenait haut, près du milieu du ciel, à votre naissance, dans la maison de la position et de la réputation. On y lit le don de plaire en public, de la grâce et de l’équité au travail, et une carrière fidèle à votre goût. C’est l’heure de naissance qui en décide."

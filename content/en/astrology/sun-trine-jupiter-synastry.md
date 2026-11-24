@@ -5,6 +5,8 @@ description: "Sun trine Jupiter in synastry: one person’s outlook backs the ot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Jupiter", "trine", "synastry"]
 weight: 24
 glyph: "☉△♃"
 definition: "Sun trine Jupiter in synastry means one person’s Jupiter is about 120° from the other’s Sun, within 6.8°, usually in signs of one element. One person’s outlook and principles back the direction the other is taking. I read it as shared meaning and easy encouragement, worth testing against the facts now and then."

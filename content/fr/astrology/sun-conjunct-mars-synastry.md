@@ -6,6 +6,8 @@ description: "Soleil conjonction Mars en synastrie : l’élan de l’une tombe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Mars", "conjonction", "synastrie"]
 weight: 16
 glyph: "☉☌♂"
 definition: "Soleil conjonction Mars en synastrie signifie que Mars, chez une personne, se trouve à moins de 8° du Soleil de l’autre. L’élan de l’une tombe sur ce que l’autre est : la personne de Mars veut agir avec l’autre, et celle du Soleil se sent mise en mouvement. J’y lis une énergie partagée de près, où tout tient à l’initiative."

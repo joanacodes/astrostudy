@@ -6,6 +6,8 @@ description: "Mercure conjonction Mars en synastrie : les idées de l’une tom
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Mars", "conjonction", "synastrie"]
 weight: 121
 glyph: "☿☌♂"
 definition: "Mercure conjonction Mars en synastrie signifie que Mercure, chez une personne, se trouve à moins de 6° de Mars dans le thème de l’autre. Les idées et les mots de l’une rencontrent de front l’envie d’agir de l’autre, et les projets démarrent vite. J’y vois la pensée qui rencontre l’élan : mieux vaut savoir si l’on parle ou si l’on décide."

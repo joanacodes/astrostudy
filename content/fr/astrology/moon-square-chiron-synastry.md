@@ -6,6 +6,8 @@ description: "Lune carré Chiron en synastrie : les réconforts de l’une frô
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Chiron", "carré", "synastrie"]
 weight: 103
 glyph: "☽□⚷"
 definition: "Lune carré Chiron en synastrie signifie que la Lune d’une personne se trouve à environ 90° du Chiron de l’autre, à 6,8° près. Les besoins ordinaires de l’une effleurent sans cesse l’endroit où l’autre s’est adaptée à une sensibilité durable : le réconfort tombe parfois à côté. J’y vois une friction qui affine peu à peu le soin."

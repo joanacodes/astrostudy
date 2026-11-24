@@ -5,6 +5,8 @@ description: "Venus opposite Jupiter in synastry: one person savours what is her
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Jupiter", "opposition", "synastry"]
 weight: 175
 glyph: "♀☍♃"
 definition: "Venus opposite Jupiter in synastry means one person’s Venus is about 180° from the other’s Jupiter, within 6°. One person’s pleasure in what is here faces the other’s search for meaning and room to grow. I read it as a seesaw between savouring and seeking, in any adult pair, where each can learn the other’s half."

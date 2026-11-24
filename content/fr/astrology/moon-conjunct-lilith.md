@@ -6,6 +6,8 @@ description: "Lune conjonction Lilith dans un thème natal : la Lune près du b
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Lilith", "conjonction"]
 weight: 98
 glyph: "☽☌⚸"
 definition: "Lune conjonction Lilith signifie qu’à votre naissance, la Lune se trouvait à quelques degrés de la Lune noire Lilith moyenne, le point moyen le plus lointain de son orbite. Cette conjonction mêle votre besoin de réconfort à la part de vous qui refuse d’être domptée : vous êtes en sécurité quand tout de vous est admis. J’y lis une émotion authentique."

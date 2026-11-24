@@ -5,6 +5,8 @@ description: "Venus sextile Saturn in a birth chart: patience on offer to what y
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Saturn", "sextile"]
 weight: 166
 glyph: "♀⚹♄"
 definition: "Venus sextile Saturn means that, at your birth, Venus and Saturn were some 60° apart, typically two signs away. In a chart it offers what you value the help of patience and structure: love that grows by small kept promises, taste refined by practice. The help is real once you take it up."

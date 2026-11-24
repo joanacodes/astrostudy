@@ -6,6 +6,8 @@ description: "Le semi-carré en astrologie : deux planètes à 45°, la moitié
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["semi-carré", "aspects mineurs"]
 weight: 7
 glyph: "∠"
 definition: "Le semi-carré est un angle de 45° entre deux planètes : la moitié d’un carré, un huitième du cercle, un signe et demi. Dans un thème natal, il marque une tension locale entre deux planètes, pas une crise mais une petite friction qui revient dans un coin de la vie, demande une correction et devient plus facile à chaque fois."

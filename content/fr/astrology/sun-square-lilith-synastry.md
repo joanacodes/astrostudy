@@ -6,6 +6,8 @@ description: "Soleil carré Lilith en synastrie : la façon d’être de l’un
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Lilith", "carré", "synastrie"]
 weight: 53
 glyph: "☉□⚸"
 definition: "Dans Soleil carré Lilith en synastrie, le Soleil d’une personne forme un angle d’environ 90°, à 6,8° près, avec la Lune noire Lilith moyenne de l’autre. Rien qu’en étant elle-même, l’une appuie sur ce que l’autre refuse, et un non revient. J’y lis une friction qui apprend aux deux où sont leurs limites, jamais une incompatibilité."

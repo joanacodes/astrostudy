@@ -6,6 +6,8 @@ description: "Lune carré Nœud Nord dans un thème natal : la Lune à mi-chemi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Nœud Nord", "carré"]
 weight: 105
 glyph: "☽□☊"
 definition: "Lune carré Nœud Nord signifie qu’à votre naissance, la Lune était à environ 90° du Nœud Nord, et donc du Nœud Sud, à mi-chemin entre les deux. Dans un thème, vos besoins se tiennent en travers du chemin de croissance et demandent à vous suivre. J’y lis une friction qui vous apprend à grandir sans vous laisser en route."

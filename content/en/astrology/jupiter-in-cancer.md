@@ -5,6 +5,8 @@ description: "Jupiter in Cancer in a birth chart: Jupiter exalted, growth rooted
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Cancer"]
 weight: 64
 glyph: "♃♋"
 definition: "Jupiter in Cancer is Jupiter, the planet of growth and meaning, in the cardinal water sign ruled by the Moon, where tradition gives it its exaltation. It belongs to everyone born within a year or so. I read it as growth rooted in belonging: understanding learned through care, through memory and through feeling at home."

@@ -6,6 +6,8 @@ description: "Pluton en maison 11 dans un thème natal : des amitiés profondes
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "maison 11", "maisons"]
 weight: 119
 glyph: "♇"
 definition: "En maison 11, la planète de la transformation rejoint les amis, les groupes et les réseaux, et vos espoirs pour l’avenir. On y lit des amitiés rares et profondes, des communautés qui vous transforment, et des espoirs assez grands pour remodeler une vie. Sa place dépend de l’heure de naissance."

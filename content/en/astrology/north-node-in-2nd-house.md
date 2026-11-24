@@ -5,6 +5,8 @@ description: "North Node in the 2nd house in a birth chart: building worth of yo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "2nd house", "houses"]
 weight: 146
 glyph: "☊"
 definition: "North Node in the 2nd house means the North Node, the Moon’s northward crossing of the Sun’s path, sat in the house of what you have and value at your birth, with the South Node in the 8th. I read it as growth towards resources of your own: skills, values and a self-worth that stands alone."

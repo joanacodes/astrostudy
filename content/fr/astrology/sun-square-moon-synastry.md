@@ -6,6 +6,8 @@ description: "Soleil carré Lune en synastrie : ce que l’une vise et ce dont 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Lune", "carré", "synastrie"]
 weight: 3
 glyph: "☉□☽"
 definition: "Soleil carré Lune en synastrie signifie que le Soleil d’une personne se trouve à environ 90° de la Lune de l’autre, à 6,8° près. Ce que l’une vise et le besoin de réconfort de l’autre réclament sans cesse les mêmes moments. J’y lis une friction qui apprend à chacune le rythme de l’autre, jamais une faute."

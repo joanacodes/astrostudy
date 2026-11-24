@@ -6,6 +6,8 @@ description: "Uranus en Poissons dans un thème natal : changer par l’imagina
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Poissons"]
 weight: 96
 glyph: "♅♓"
 definition: "Uranus en Poissons, c’est la planète du changement dans un signe d’eau mutable gouverné par Neptune et, dans la tradition, par Jupiter : celui de l’imagination et de la compassion. La plupart des personnes qui l’ont sont nées de mars 2003 à mars 2011. J’y lis une génération qui change les choses par la vision et l’empathie ; la maison dit où."

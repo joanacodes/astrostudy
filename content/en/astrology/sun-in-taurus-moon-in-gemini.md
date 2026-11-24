@@ -5,6 +5,8 @@ description: "Sun in Taurus, Moon in Gemini: slow to change your mind, quick to 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Taurus", "Moon", "Gemini"]
 weight: 15
 glyph: "☉♉☽♊"
 definition: "Sun in Taurus, Moon in Gemini comes from the first five days of a lunar month, the Moon a sign ahead of the Sun. I read it as a steady self with a curious, talkative need: values that hold for years beside feelings that settle once they have words, company and a change of scene."

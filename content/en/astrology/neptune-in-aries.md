@@ -5,6 +5,8 @@ description: "Neptune in Aries in a birth chart: a new round of the zodiac begin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Aries"]
 weight: 97
 glyph: "♆♈"
 definition: "Neptune in Aries is Neptune, the planet of ideals and imagination, in the cardinal fire sign of beginnings, where it arrived in 2025 and stays until 2039. Everyone born with it is still a child, so I read it as a generation’s sign: ideals that ask for action, and compassion that takes the first step."

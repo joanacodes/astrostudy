@@ -6,6 +6,8 @@ description: "Vénus conjonction Pluton dans un thème natal : ce que vous aime
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Pluton", "conjonction"]
 weight: 180
 glyph: "♀☌♇"
 definition: "Vénus conjonction Pluton signifie qu’à votre naissance, Vénus et Pluton étaient à quelques degrés d’écart. Dans un thème, ce que vous aimez et l’élan de transformer agissent comme un seul : l’attirance va loin, et ce que vous aimez tend à vous changer. J’y lis une intensité au service du renouveau, jamais un besoin de contrôle."

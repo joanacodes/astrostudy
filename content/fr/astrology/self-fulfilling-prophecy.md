@@ -6,6 +6,8 @@ description: "La prophétie autoréalisatrice : l’idée de Merton, l’étude
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["test", "biais cognitifs"]
 weight: 15
 glyph: "✦"
 definition: "Une prophétie autoréalisatrice est une croyance qui contribue à produire ce qu’elle annonce. Le sociologue Robert K. Merton l’a définie dans un essai de 1948. En astrologie, des études ont trouvé un effet voisin : les personnes qui savent ce que leur signe solaire est censé signifier ont tendance à se décrire dans ses termes, et les autres non."

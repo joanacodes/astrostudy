@@ -6,6 +6,8 @@ description: "Neptune en maison 7 dans un thème natal : des partenaires vus da
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "maison 7", "maisons"]
 weight: 103
 glyph: "♆"
 definition: "Neptune en maison 7 signifie que Neptune se trouvait, à votre naissance, dans la maison qui commence au descendant, celle des partenaires et des liens à deux. On y lit un amour vu à travers un halo : une grande tendresse, l’espoir d’une rencontre qui semble écrite, et le long travail de voir la personne derrière l’idéal."

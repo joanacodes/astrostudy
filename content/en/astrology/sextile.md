@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["sextile"]
 family: "aspects"
+categories: ["Aspects"]
+tags: ["sextile"]
 weight: 2
 glyph: "⚹"
 definition: "A sextile is an angle of 60° between two planets, usually two signs apart: fire with air, earth with water. In a birth chart it links two parts of you that get on well and can help each other, once you use them. Astrologers count it a soft aspect, a lighter cousin of the trine."

@@ -5,6 +5,8 @@ description: "Uranus in the 1st house in a birth chart: originality that shows a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "1st house", "houses"]
 weight: 85
 glyph: "♅"
 definition: "Uranus in the 1st house means Uranus was just below the eastern horizon when you were born, in the angular house of the self, the body and first impressions. I read it as originality that shows at once: a way of meeting the world on your own terms. It needs an exact birth time."

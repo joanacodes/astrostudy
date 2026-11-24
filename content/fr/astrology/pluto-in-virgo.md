@@ -6,6 +6,8 @@ description: "Pluton en Vierge dans un thème natal : un changement profond par
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Vierge"]
 weight: 114
 glyph: "♇♍"
 definition: "Pluton en Vierge tourne le changement profond vers la méthode et le service, en terre mutable gouvernée par Mercure. Pluton s’y trouvait d’octobre 1956 à juillet 1972 : environ 1 personne sur 6 née de 1930 à 2009 a ce placement. On y lit une transformation par le travail, le savoir-faire et la réparation."

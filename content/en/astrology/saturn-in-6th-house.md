@@ -5,6 +5,8 @@ description: "Saturn in the 6th house in a birth chart: a work ethic that needs 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "6th house", "houses"]
 weight: 78
 glyph: "♄"
 definition: "Saturn in the 6th house is discipline applied to the ordinary day: daily work, routines, colleagues and the care of the body. It describes a strong work ethic, reliability and high standards, and the long lesson that limits matter as much as effort. Tradition gave this house illness; a chart predicts none."

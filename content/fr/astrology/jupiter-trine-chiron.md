@@ -6,6 +6,8 @@ description: "Jupiter trigone Chiron dans un thème natal : le sens qui coule v
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Chiron", "trigone"]
 weight: 263
 glyph: "♃△⚷"
 definition: "Jupiter trigone Chiron désigne un écart d’environ 120° entre Jupiter et Chiron, en général dans des signes d’un même élément. Dans un thème, votre sens de ce qui compte coule facilement vers l’endroit qui reste sensible, et ce que vous y apprenez passe volontiers aux autres. J’y lis un don naturel pour accompagner, à garder aussi pour vous."

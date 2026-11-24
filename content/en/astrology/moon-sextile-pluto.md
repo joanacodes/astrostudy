@@ -5,6 +5,8 @@ description: "Moon sextile Pluto in a birth chart: depth and renewal offered to 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Pluto", "sextile"]
 weight: 89
 glyph: "☽⚹♇"
 definition: "Moon sextile Pluto means Pluto was some 60° from your Moon when you were born, typically two signs away. It lets your feelings and your capacity for transformation cooperate: you can go deep when it’s needed, and come back renewed. Its depth is there to draw on, by choice rather than by default."

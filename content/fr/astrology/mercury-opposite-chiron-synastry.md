@@ -6,6 +6,8 @@ description: "Mercure opposition Chiron en synastrie : deux personnes de part e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Chiron", "opposition", "synastrie"]
 weight: 155
 glyph: "☿☍⚷"
 definition: "Mercure opposition Chiron en synastrie signifie que Mercure, chez une personne, se trouve à environ 180° de Chiron chez l’autre, à 6° près. Le raisonnement de l’une fait face à ce que l’autre a dû contourner autrement. J’y lis une balançoire entre la personne qui explique et celle qu’on explique, qui marche quand les rôles s’échangent."

@@ -5,6 +5,8 @@ description: "Mercury retrograde in astrology: why Mercury seems to back up thre
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "dignities"
+categories: ["Planets and points"]
+tags: ["Mercury", "retrograde", "Mercury retrograde"]
 weight: 5
 glyph: "☿℞"
 definition: "Mercury retrograde is the stretch, three or four times a year, when Mercury seems, from Earth, to move backwards through the zodiac for 20 to 24 days, as it passes between us and the Sun. Astrologers read it as a season of review for the mind’s work; in a birth chart, I read it as thinking turned inward first."

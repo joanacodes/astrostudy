@@ -6,6 +6,8 @@ description: "Mercure trigone Uranus en synastrie : les mots de l’une et l’
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Uranus", "trigone", "synastrie"]
 weight: 139
 glyph: "☿△♅"
 definition: "Mercure trigone Uranus en synastrie unit Mercure, chez une personne, et Uranus, chez l’autre, à environ 120°, à 5,1° près, le plus souvent dans un élément commun. La façon d’expliquer de la première convient à l’originalité de la seconde : les idées inhabituelles passent entre vous sans friction. J’y lis une fraîcheur facile, qui demande encore à être éprouvée."

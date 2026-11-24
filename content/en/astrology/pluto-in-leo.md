@@ -5,6 +5,8 @@ description: "Pluto in Leo in a birth chart: deep change through the heart and s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Leo"]
 weight: 113
 glyph: "♇♌"
 definition: "Pluto in Leo sets deep change in the sign of the heart: fixed fire, ruled by the Sun. Births from 1937 to 1958 share it: about 1 person in 4 of everyone born from 1930 to 2009. In a chart it describes a generation transformed through creating, loving and daring to be seen."

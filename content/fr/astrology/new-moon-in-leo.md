@@ -6,6 +6,8 @@ description: "La nouvelle lune en Lion : le Soleil chez lui, ses dates de 2026 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "nouvelle lune", "Lion"]
 weight: 40
 glyph: "●♌"
 definition: "La nouvelle lune en Lion tombe entre le 23 juillet et le 22 août environ, le Soleil et la Lune réunis en feu fixe, dans le signe du Soleil. En 2026 et en 2027, c’est une éclipse totale de Soleil. J’y lis un repère pour la chaleur et le besoin d’être vu ou vue, à un degré d’un point natal."

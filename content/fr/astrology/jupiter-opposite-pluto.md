@@ -6,6 +6,8 @@ description: "Jupiter opposition Pluton dans un thème natal : l’ampleur et l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Pluton", "opposition"]
 weight: 259
 glyph: "♃☍♇"
 definition: "Jupiter opposition Pluton désigne les deux planètes à environ 180° d’écart, un angle atteint quelques mois, environ six ans après chacune de leurs rencontres. Dans un thème, grandir vers l’extérieur et descendre à la racine tirent vers des côtés opposés, et chacun montre ce qui manque à l’autre. J’y lis une polarité à équilibrer, jamais une bataille."

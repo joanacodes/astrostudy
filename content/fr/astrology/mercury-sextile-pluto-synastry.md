@@ -6,6 +6,8 @@ description: "Mercure sextile Pluton en synastrie : les mots de l’une et la p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Pluton", "sextile", "synastrie"]
 weight: 147
 glyph: "☿⚹♇"
 definition: "Mercure sextile Pluton en synastrie trace un angle de 60°, à 3,6° près, de Mercure dans un thème à Pluton dans l’autre. Chaque personne peut aborder un sujet difficile et le voir accueilli calmement : les choses dures deviennent dicibles entre vous. J’y lis une ouverture vers la profondeur, qui marche quand on s’en sert, et avec douceur."

@@ -6,6 +6,8 @@ description: "Lune sextile Jupiter en synastrie : les projets de l’une rejoig
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Jupiter", "sextile", "synastrie"]
 weight: 77
 glyph: "☽⚹♃"
 definition: "Lune sextile Jupiter en synastrie : Jupiter d’une personne à 60° de la Lune de l’autre, à 4,8° près. Les projets, les apprentissages et la vue large de l’une rejoignent les besoins de l’autre comme des offres, sans pression. J’y lis une invitation ouverte, qui ne fonctionne qu’une fois acceptée."

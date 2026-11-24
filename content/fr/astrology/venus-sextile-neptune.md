@@ -6,6 +6,8 @@ description: "Vénus sextile Neptune dans un thème natal : une imagination pr�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Neptune", "sextile"]
 weight: 176
 glyph: "♀⚹♆"
 definition: "Vénus sextile Neptune signifie que 60° environ séparaient Vénus et Neptune à votre naissance, souvent dans des signes aux éléments complémentaires. Dans un thème, l’imagination et la compassion viennent en aide à ce que vous aimez : l’art, la bonté, un rêve qui prend forme. Comme pour tout sextile, le don attend que vous agissiez."

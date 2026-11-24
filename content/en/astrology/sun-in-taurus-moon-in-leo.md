@@ -5,6 +5,8 @@ description: "Sun in Taurus, Moon in Leo: two fixed signs, the Moon reporting to
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Taurus", "Moon", "Leo"]
 weight: 17
 glyph: "☉♉☽♌"
 definition: "Sun in Taurus, Moon in Leo joins two fixed signs three apart, at a birth around the first quarter moon. Leo is the Sun’s own sign, so your Moon answers to your Sun. I read it as loyalty in two styles: a self that stays, and needs that want warmth returned out loud."

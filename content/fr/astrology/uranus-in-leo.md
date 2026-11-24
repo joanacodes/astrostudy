@@ -6,6 +6,8 @@ description: "Uranus en Lion dans un thème natal : Uranus en exil, pour les pe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Lion"]
 weight: 89
 glyph: "♅♌"
 definition: "Uranus en Lion, c’est la planète du changement dans le signe de feu fixe du Soleil, son exil en astrologie tropicale moderne. Ce placement réunit les personnes nées d’août 1955 à août 1962, puis celles qui naîtront à partir d’août 2039. J’y lis une génération qui veut briller à sa façon ; la maison dit où."

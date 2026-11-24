@@ -5,6 +5,8 @@ description: "Sun in Sagittarius in a birth chart: an identity organised around 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Sagittarius"]
 weight: 9
 glyph: "☉♐"
 definition: "Sun in Sagittarius is the Sun sign for births from about 22 November to 21 December, in mutable fire ruled by Jupiter. I read it as an identity organised around a philosophy, a vitality fed by having something to look forward to, and a purpose that sounds more like a conviction than a goal, revised over a lifetime."

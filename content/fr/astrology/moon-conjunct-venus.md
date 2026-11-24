@@ -6,6 +6,8 @@ description: "Lune conjonction Vénus dans un thème natal : réconfort et plai
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Vénus", "conjonction"]
 weight: 58
 glyph: "☽☌♀"
 definition: "Lune conjonction Vénus, c’est la rencontre de la Lune et de Vénus, à quelques degrés près, autour d’une nouvelle lune. Ce dont vous avez besoin et ce que vous aimez ne font qu’un : le réconfort passe par le plaisir, et le soin se donne en chaleur. J’y lis une tendresse facile, qui doit encore apprendre à dire non."

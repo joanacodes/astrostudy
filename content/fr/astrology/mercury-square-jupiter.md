@@ -6,6 +6,8 @@ description: "Mercure carré Jupiter dans un thème natal : le détail et la vu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Jupiter", "carré"]
 weight: 117
 glyph: "☿□♃"
 definition: "Mercure carré Jupiter signifie qu’à votre naissance, Mercure et Jupiter étaient à environ 90° d’écart. Dans un thème, les faits que vous rassemblez et le sens que vous en tirez se croisent : de grandes conclusions sur de petits détails, ou des détails qui refusent d’entrer dans le tableau. J’y lis une friction qui forme le sens de la mesure."

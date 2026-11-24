@@ -5,6 +5,8 @@ description: "Pluto opposite Lilith in a birth chart: deep change and your untam
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Lilith", "opposition"]
 weight: 359
 glyph: "♇☍⚸"
 definition: "Pluto opposite Lilith means Pluto and the mean Black Moon Lilith stood about 180° apart at your birth. In a chart, your capacity for deep change and the part of you that won’t be tamed face each other across an axis, each making the other visible. I read it as a polarity to balance, not a quarrel."

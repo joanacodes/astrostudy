@@ -6,6 +6,8 @@ description: "Lilith en maison 2 dans un thème natal : votre valeur et ce qui 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "maison 2", "maisons"]
 weight: 134
 glyph: "⚸"
 definition: "Lilith en maison 2 place la Lune noire Lilith, point le plus lointain de l’orbite lunaire, dans la maison des ressources et des valeurs. J’y lis le sentiment de ce que vous valez, et de ce qui est à vous, qui a appris tôt à se taire, et le refus qu’on vous achète ou vous paie en gratitude."

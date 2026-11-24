@@ -5,6 +5,8 @@ description: "Leo in astrology: the fixed fire sign ruled by the Sun — in a bi
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signs"]
+tags: ["Leo"]
 weight: 5
 glyph: "♌"
 definition: "Leo is the fifth sign of the zodiac, a fixed fire sign ruled by the Sun, which crosses it from about 23 July to 22 August. In a birth chart it marks where you want to create and be seen: warmth, pride, generosity, play. The house it falls in shows where you most need to shine."

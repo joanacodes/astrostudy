@@ -6,6 +6,8 @@ description: "Pluton en Gémeaux dans un thème natal : un changement profond p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Gémeaux"]
 weight: 111
 glyph: "♇♊"
 definition: "Pluton en Gémeaux place la planète de la transformation dans l’air mutable, le signe des questions, gouverné par Mercure. Ses générations sont nées de 1882 à 1914 et naîtront de nouveau de 2127 à 2159 : aucune naissance de 1930 à 2009 n’a ce placement. On y lit une transformation par les idées, les mots et la circulation de l’information."

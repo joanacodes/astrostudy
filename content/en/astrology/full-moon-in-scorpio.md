@@ -5,6 +5,8 @@ description: "The full moon in Scorpio, with the Sun in Taurus: two in 2027, the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "full moon", "Scorpio"]
 weight: 55
 glyph: "○♏"
 definition: "The full moon in Scorpio is the Moon in Scorpio opposite the Sun in Taurus, between late April and late May. It lights the Scorpio–Taurus axis from the side of depth: trust, intimacy and what is shared, against what is yours. In a birth chart it counts within about 1° of a planet or angle, at either end."

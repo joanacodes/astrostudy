@@ -5,6 +5,8 @@ description: "Jupiter in Aquarius in a birth chart: growth through ideas, friend
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Aquarius"]
 weight: 71
 glyph: "♃♒"
 definition: "Jupiter in Aquarius is Jupiter, the planet of growth and meaning, in the fixed air sign ruled by Uranus in modern tropical astrology and by Saturn in the tradition. Everyone born within a year or so shares it. I read it as growth through ideas and people: principles about fairness, freedom and the future, shared with a wide circle."

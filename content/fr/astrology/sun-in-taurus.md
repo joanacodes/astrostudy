@@ -6,6 +6,8 @@ description: "Soleil en Taureau dans un thème natal : une identité bâtie sur
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Taureau"]
 weight: 2
 glyph: "☉♉"
 definition: "Le Soleil est en Taureau, signe de terre fixe gouverné par Vénus, pour les naissances du 20 avril au 20 mai environ. J’y lis une identité organisée autour de ce qui compte pour vous, une vitalité qui se refait par le corps et les sens, et un but vécu comme une fidélité plutôt que comme une course."

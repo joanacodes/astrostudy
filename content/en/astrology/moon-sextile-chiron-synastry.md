@@ -5,6 +5,8 @@ description: "Moon sextile Chiron in synastry: one person’s hard-won know-how,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Chiron", "sextile", "synastry"]
 weight: 102
 glyph: "☽⚹⚷"
 definition: "Moon sextile Chiron in synastry means one person’s Moon is about 60° from the other’s Chiron, within 4.8°. What one person has worked out while living with a lasting sensitivity sits within reach of the other’s need for comfort. I read it as an offer of experience that works once it’s requested."

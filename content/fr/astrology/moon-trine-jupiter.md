@@ -6,6 +6,8 @@ description: "Lune trigone Jupiter dans un thème natal : un cœur qui rebondit
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Jupiter", "trigone"]
 weight: 71
 glyph: "☽△♃"
 definition: "Lune trigone Jupiter, c’est la Lune et Jupiter à environ 120° dans un thème natal, en règle générale dans deux signes qui partagent leur élément. Ressenti et sens marchent ensemble : les humeurs retrouvent leur recul, et le réconfort vient avec un regard plus large. J’y lis de la résilience et un don pour réconforter, à entretenir."

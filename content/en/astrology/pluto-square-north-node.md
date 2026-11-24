@@ -5,6 +5,8 @@ description: "Pluto square North Node in a birth chart: renewal across the path 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "North Node", "square"]
 weight: 362
 glyph: "♇□☊"
 definition: "Pluto square North Node is a 90° angle between Pluto and the North Node at birth, which puts Pluto 90° from the South Node too, halfway between them. In a chart, a need for deep renewal cuts across both the familiar path and the new one, and asks your growth to include it rather than step round it."

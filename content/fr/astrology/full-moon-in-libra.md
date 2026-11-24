@@ -6,6 +6,8 @@ description: "La pleine lune en Balance, la première après l’équinoxe de ma
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "pleine lune", "Balance"]
 weight: 54
 glyph: "○♎"
 definition: "La pleine lune en Balance, c’est la Lune en Balance face au Soleil en Bélier, la première pleine lune après l’équinoxe de mars. Elle éclaire l’axe Balance–Bélier du côté des autres : l’équité et la paix, face à votre propre élan. Dans un thème, elle compte à 1° environ d’une planète ou d’un angle, à l’un ou l’autre bout."

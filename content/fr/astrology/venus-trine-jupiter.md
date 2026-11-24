@@ -6,6 +6,8 @@ description: "Vénus trigone Jupiter dans un thème natal : une bienveillance q
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Jupiter", "trigone"]
 weight: 163
 glyph: "♀△♃"
 definition: "Vénus trigone Jupiter signifie que votre thème place Vénus et Jupiter à 120° environ, d’ordinaire dans deux signes du même élément. Dans un thème, ce trigone fait couler ensemble vos goûts et votre élan de croissance : l’appréciation vient facilement, la bienveillance aussi. L’aisance est réelle ; j’y lis une ressource, jamais une chance."

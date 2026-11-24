@@ -6,6 +6,8 @@ description: "La nouvelle lune en Verseau : trois éclipses solaires annulaires
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "nouvelle lune", "Verseau"]
 weight: 46
 glyph: "●♒"
 definition: "La nouvelle lune en Verseau réunit le Soleil et la Lune en Verseau, une fois par an, entre fin janvier et mi-février. Elle ouvre un mois lunaire à la manière du Verseau : les amis, les groupes, l’avenir. De 2026 à 2028, c’est une éclipse solaire annulaire. Dans un thème natal, elle compte à 1° environ d’une planète ou d’un angle."

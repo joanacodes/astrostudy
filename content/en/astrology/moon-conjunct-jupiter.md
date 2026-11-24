@@ -5,6 +5,8 @@ description: "Moon conjunct Jupiter in a birth chart: a big heart with room in i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Jupiter", "conjunction"]
 weight: 68
 glyph: "☽☌♃"
 definition: "Moon conjunct Jupiter puts the Moon and Jupiter side by side in your birth chart, a few degrees apart at most. Need and growth work as one: you feel safe when life has room and meaning, and you comfort others by widening their view. I read it as generosity of feeling, with an invitation to proportion."

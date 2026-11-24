@@ -6,6 +6,8 @@ description: "Pluton en Sagittaire dans un thème natal : des croyances questio
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Sagittaire"]
 weight: 117
 glyph: "♇♐"
 definition: "Pluton en Sagittaire emmène le changement profond sur la route des croyances, en feu mutable, dans le signe des voyages gouverné par Jupiter. Toutes les naissances de 1996 à 2007 ont ce placement, comme beaucoup de celles de 1995 et 2008 : environ 1 personne sur 6 née de 1930 à 2009. On y lit des croyances transformées : questionnées, puis rebâties."

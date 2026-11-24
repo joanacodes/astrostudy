@@ -5,6 +5,8 @@ description: "The Saturn return: when Saturn comes back to its birth degree, bet
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "cycles"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "planetary returns"]
 weight: 44
 glyph: "♄☌♄"
 definition: "The Saturn return is the transit of Saturn back over the degree it held when you were born, first between about 28½ and 30, again near 59. It closes one round of Saturn’s cycle and opens the next. I read it as a review of what you have built and carry, through your natal Saturn, never as a crisis."

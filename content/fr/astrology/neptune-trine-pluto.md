@@ -6,6 +6,8 @@ description: "Neptune trigone Pluton dans un thème natal : pourquoi aucune nai
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Pluton", "trigone"]
 weight: 333
 glyph: "♆△♇"
 definition: "Neptune trigone Pluton placerait les deux planètes à environ 120° l’une de l’autre, l’imagination et le renouveau profond coulant l’un dans l’autre. Cet aspect manque à tous les thèmes de naissance de 1930 à 2009, quand les deux planètes gardaient environ la moitié de cette distance ; les personnes nées alors ne le rencontrent qu’en transit ou entre deux thèmes."

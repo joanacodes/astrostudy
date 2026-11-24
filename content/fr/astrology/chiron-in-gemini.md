@@ -6,6 +6,8 @@ description: "Chiron en Gémeaux dans un thème natal : s’adapter par les mot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Gémeaux"]
 weight: 123
 glyph: "⚷♊"
 definition: "Chiron en Gémeaux est le placement de toutes les personnes nées de juin 1933 à mai 1938, de juin 1983 à juin 1988, ou de juillet 2033 à avril 2039, quand Chiron traversait le signe des mots. Dans un thème, il décrit une adaptation par le langage et les questions autour d’un point sensible : se faire comprendre."

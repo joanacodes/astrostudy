@@ -6,6 +6,8 @@ description: "Jupiter en Sagittaire dans un thème natal : Jupiter en domicile,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Sagittaire"]
 weight: 69
 glyph: "♃♐"
 definition: "Jupiter en Sagittaire, c’est la planète de la croissance et du sens dans le signe de feu mutable que Jupiter gouverne : son domicile. Toute une année de naissance, à peu près, partage ce placement. J’y lis la quête de sens à pleine puissance : vous grandissez en explorant, en étudiant, en enseignant, et vous bâtissez une philosophie à vous."

@@ -5,6 +5,8 @@ description: "Uranus in Taurus in a birth chart: a generation that rethinks what
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Taurus"]
 weight: 86
 glyph: "♅♉"
 definition: "Uranus in Taurus is the planet of change in a fixed earth sign ruled by Venus, the sign of the senses and of what lasts. Everyone born from June 1934 to May 1942, or from May 2018 to April 2026, shares it. I read it as a generation’s reform of security and value; the house shows where it’s yours."

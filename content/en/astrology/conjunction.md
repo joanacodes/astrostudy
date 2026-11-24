@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["conjunction", "conjunct"]
 family: "aspects"
+categories: ["Aspects"]
+tags: ["conjunction"]
 weight: 1
 glyph: "☌"
 definition: "A conjunction is two planets side by side in the zodiac: at the same degree, or within a few degrees, usually in the same sign. In a birth chart the two act as one: each colours everything the other does, easily or not, depending on which planets meet. Modern astrologers count it first among the major aspects."

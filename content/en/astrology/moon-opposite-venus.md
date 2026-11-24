@@ -5,6 +5,8 @@ description: "Moon opposite Venus in a birth chart: need and affection across th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Venus", "opposition"]
 weight: 62
 glyph: "☽☍♀"
 definition: "Moon opposite Venus sets the Moon and Venus about 180° apart at birth, close to a full moon. Your needs and the things or people you’re drawn to sit at opposite ends of the chart, and someone else often carries one end. I read it as a balance between caring for yourself and the give-and-take of love."

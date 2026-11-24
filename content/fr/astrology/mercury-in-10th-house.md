@@ -6,6 +6,8 @@ description: "Mercure en maison 10 dans un thème natal : un esprit que l’on 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "maison 10", "maisons"]
 weight: 34
 glyph: "☿"
 definition: "Mercure en maison 10 place la planète de la pensée dans la maison du travail, de la réputation et de la vie publique. On y lit un esprit que l’on voit à l’œuvre : on vous connaît pour votre façon de penser, d’écrire ou d’expliquer, et vos mots entrent dans votre réputation. Ce placement demande l’heure de naissance."

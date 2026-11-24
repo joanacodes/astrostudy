@@ -6,6 +6,8 @@ description: "Vénus en maison 4 dans un thème natal : le plaisir trouvé au f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "maison 4", "maisons"]
 weight: 40
 glyph: "♀"
 definition: "Vénus en maison 4 signifie que Vénus était au plus bas sous l’horizon à votre naissance, dans la maison du foyer et des racines. J’y vois un plaisir trouvé en privé, le don de faire un foyer où l’on est heureux de revenir, et un amour de la paix domestique à garder sincère."

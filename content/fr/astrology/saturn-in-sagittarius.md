@@ -6,6 +6,8 @@ description: "Saturne en Sagittaire dans un thème natal : des convictions gagn
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Sagittaire"]
 weight: 81
 glyph: "♄♐"
 definition: "Saturne en Sagittaire, c’est la planète des limites en voyage dans un signe de feu mutable, celui de la croyance et des grands horizons, gouverné par Jupiter. Toute personne née vers 1956–1959, 1985–1988 ou 2014–2017 a ce placement. On y lit des convictions gagnées à la dure : d’abord mises en doute, puis tenues, et enfin transmises."

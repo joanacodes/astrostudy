@@ -6,6 +6,8 @@ description: "Nœud Nord en maison 2 dans un thème natal : bâtir une valeur �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "maison 2", "maisons"]
 weight: 146
 glyph: "☊"
 definition: "Nœud Nord en maison 2 signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans la maison de ce que vous avez et valorisez, le Nœud Sud en maison 8. J’y lis une croissance vers des ressources à vous : talents, valeurs, une estime de soi qui tient seule."

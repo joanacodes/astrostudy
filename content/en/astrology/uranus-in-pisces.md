@@ -5,6 +5,8 @@ description: "Uranus in Pisces in a birth chart: change through imagination, for
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Pisces"]
 weight: 96
 glyph: "♅♓"
 definition: "Uranus in Pisces is the planet of change in a mutable water sign ruled by Neptune and, traditionally, Jupiter, the sign of imagination and compassion. Most people with it were born from March 2003 to March 2011. I read it as a generation that changes things through vision and empathy; the house shows where."

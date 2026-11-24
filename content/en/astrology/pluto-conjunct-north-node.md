@@ -5,6 +5,8 @@ description: "Pluto conjunct North Node in a birth chart: deep renewal set on yo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "North Node", "conjunction"]
 weight: 360
 glyph: "♇☌☊"
 definition: "Pluto conjunct North Node means that at your birth Pluto was within a few degrees of the North Node, which put it opposite the South Node. In a chart, deep renewal sits on your direction of growth: letting go of what is outworn becomes something you practise and get better at, rather than a single upheaval."

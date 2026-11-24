@@ -5,6 +5,8 @@ description: "Does Mercury retrograde break things? What the planet really does 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "testing"]
 weight: 20
 glyph: "✦"
 definition: "No study I know of shows that it does. Mercury retrograde is an apparent motion: three or four times a year, for about three weeks, Mercury seems to drift backwards against the stars around its closest pass to Earth, though it never changes direction. I read it as weather, not a forecast."

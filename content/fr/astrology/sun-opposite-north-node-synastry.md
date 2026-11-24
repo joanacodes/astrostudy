@@ -6,6 +6,8 @@ description: "Soleil opposition Nœud Nord en synastrie : le Soleil de l’une 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Nœud Nord", "opposition", "synastrie"]
 weight: 60
 glyph: "☉☍☊"
 definition: "Soleil opposition Nœud Nord en synastrie : le Soleil de l’une fait face au Nœud Nord de l’autre, à environ 180°, à 8° près, et se pose donc sur son Nœud Sud. Ce qu’est l’une, l’autre sait déjà l’être : tout semble familier d’emblée. J’y lis une ressource, et un confort qui peut ralentir la croissance."

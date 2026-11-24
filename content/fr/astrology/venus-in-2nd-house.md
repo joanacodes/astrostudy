@@ -6,6 +6,8 @@ description: "Vénus en maison 2 dans un thème natal : un sens sûr de la qual
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "maison 2", "maisons"]
 weight: 38
 glyph: "♀"
 definition: "Vénus en maison 2 place la planète de l’évaluation là où se trouvent vos biens, vos talents et votre estime de vous-même, dans la maison du Taureau, son propre signe. On y lit un sens sûr de la qualité, un soin concret, et une estime de soi qui grandit en cessant de se compter en objets. Il faut l’heure exacte."

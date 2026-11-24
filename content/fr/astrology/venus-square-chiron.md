@@ -6,6 +6,8 @@ description: "Vénus carré Chiron dans un thème natal : le désir de compter 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Chiron", "carré"]
 weight: 187
 glyph: "♀□⚷"
 definition: "Vénus carré Chiron signifie qu’à votre naissance, Vénus et Chiron étaient à environ 90° d’écart, dans des signes du même mode. Le désir de compter et une sensibilité durable se croisent sans cesse : l’affection peut toucher un point sensible. Pour moi, c’est une friction qui forme un vrai savoir-faire des liens ; elle ne dit rien de définitif sur votre valeur."

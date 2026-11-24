@@ -5,6 +5,8 @@ description: "Venus in Sagittarius in a birth chart: affection that travels, a t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Sagittarius"]
 weight: 45
 glyph: "♀♐"
 definition: "Venus in Sagittarius carries the planet of value and attraction into mutable fire, the ninth sign, ruled by Jupiter. It describes a taste for freedom, honesty and the unfamiliar, affection shown by sharing adventures and ideas, and a way of relating that commits best to someone who also leaves room to grow."

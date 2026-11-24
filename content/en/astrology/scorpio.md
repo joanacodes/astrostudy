@@ -5,6 +5,8 @@ description: "Scorpio in astrology: the sign of depth, ruled by Pluto and Mars. 
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signs"]
+tags: ["Scorpio"]
 weight: 8
 glyph: "♏"
 definition: "Scorpio is the eighth sign of the zodiac, a fixed water sign ruled by Pluto in modern tropical astrology and by Mars in the tradition; the Sun crosses it from about 23 October to 21 November. In a birth chart it shows where you go deep, hold on, and want the truth rather than the surface."

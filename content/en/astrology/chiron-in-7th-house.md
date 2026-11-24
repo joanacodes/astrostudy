@@ -5,6 +5,8 @@ description: "Chiron in the 7th house in a birth chart: a tender spot that shows
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "7th house", "houses"]
 weight: 127
 glyph: "⚷"
 definition: "Chiron in the 7th house means Chiron sat in the house of partners and one-to-one bonds, which begins at the Descendant in Placidus. It describes adapting around a tender spot that shows up between people, and learning to be close without losing yourself. It needs an accurate birth time."

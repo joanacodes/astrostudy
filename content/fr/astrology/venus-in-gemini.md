@@ -6,6 +6,8 @@ description: "Vénus en Gémeaux dans un thème natal : une attirance qui naît
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Gémeaux"]
 weight: 39
 glyph: "♀♊"
 definition: "Vénus en Gémeaux prête à la planète de la valeur et de l’attirance l’air vif et mutable du troisième signe, que gouverne Mercure. J’y vois un goût curieux et multiple, une attirance qui naît dans la conversation, et une affection faite de mots, de questions et de plaisanteries partagées plus volontiers que de grands gestes."

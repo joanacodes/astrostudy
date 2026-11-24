@@ -6,6 +6,8 @@ description: "Uranus carré Chiron dans un thème natal : le changement qui fro
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Chiron", "carré"]
 weight: 317
 glyph: "♅□⚷"
 definition: "Uranus carré Chiron est un angle de 90° entre Uranus et Chiron, rare dans le décompte : les naissances de 1942 à 1944 et de 1996 à 1998. Dans un thème, l’envie de changement et un point sensible frottent l’un contre l’autre, et cette friction apprend sans cesse de nouvelles façons de s’adapter. Vos maisons montrent où."

@@ -5,6 +5,8 @@ description: "Chiron in the 10th house in a birth chart: a tender spot about bei
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "10th house", "houses"]
 weight: 130
 glyph: "⚷"
 definition: "Chiron in the 10th house means Chiron sat in the house of public life, work and reputation, which begins at the Midheaven in Placidus. It describes adapting around a tender spot about being seen and judged, and building a vocation on your own terms. It needs an accurate birth time."

@@ -6,6 +6,8 @@ description: "Soleil opposition Mercure en synastrie : l’esprit de l’une re
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Mercure", "opposition", "synastrie"]
 weight: 10
 glyph: "☉☍☿"
 definition: "Soleil opposition Mercure en synastrie signifie que Mercure, chez une personne, se trouve à environ 180° du Soleil de l’autre, à 8° près. Ce contact n’existe qu’entre deux personnes : Mercure ne s’éloigne jamais de plus de 28° environ du Soleil. J’y lis un dialogue entre deux points de vue opposés, jamais une hostilité."

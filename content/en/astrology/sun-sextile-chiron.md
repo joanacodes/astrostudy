@@ -5,6 +5,8 @@ description: "Sun sextile Chiron in a birth chart: what you learned around a ten
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Chiron", "sextile"]
 weight: 39
 glyph: "☉⚹⚷"
 definition: "Sun sextile Chiron means the Sun and Chiron were a sixth of the zodiac apart, about 60°, when you were born. In a chart it links your sense of purpose with what you learned around a sore spot, so the experience becomes useful once you use it. I read it as a quiet gift for helping, offered rather than imposed."

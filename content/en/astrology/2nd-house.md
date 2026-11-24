@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["2nd house", "second house"]
 family: "houses"
+categories: ["Houses"]
+tags: ["2nd house"]
 weight: 2
 glyph: "II"
 definition: "The 2nd house is the second of the twelve houses of a birth chart, just after the house of the self. Astrologers read it as what you have and what you value: the money you earn and keep, your belongings, the talents you could live from, and the sense of your own worth underneath them."

@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["aspects de synastrie", "aspect de synastrie"]
 family: "techniques"
+categories: ["Synastrie"]
+tags: ["synastrie"]
 weight: 54
 glyph: "✦"
 definition: "Un aspect de synastrie est un angle entre une planète du thème d’une personne et une planète du thème d’une autre : le Soleil de l’une carré la Lune de l’autre. Il relie deux fonctions portées par deux personnes, lues des deux côtés. Avec mes orbes, beaucoup sont courants, certains n’existent qu’entre deux personnes, et aucun ne décide d’une relation."

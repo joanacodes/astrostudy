@@ -6,6 +6,8 @@ description: "Soleil trigone Lune dans un thème natal : une lune gibbeuse à l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lune", "trigone"]
 weight: 4
 glyph: "☉△☽"
 definition: "Soleil trigone Lune signifie que la Lune, à votre naissance, était gibbeuse, plus qu’à moitié éclairée ; le Soleil et la Lune se trouvaient à environ 120° l’un de l’autre. Dans un thème, ce que vous visez et ce qui vous rassure se renforcent. J’y lis une cohérence : ce que vous montrez et ce que vous ressentez s’accordent."

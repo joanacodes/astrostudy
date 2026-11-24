@@ -5,6 +5,8 @@ description: "Mercury sextile Saturn in a birth chart: method within reach whene
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Saturn", "sextile"]
 weight: 121
 glyph: "☿⚹♄"
 definition: "Mercury sextile Saturn means Mercury and Saturn were about 60° apart when you were born. In a chart your thinking can call on structure whenever you ask it to: plans that get finished, study that sticks, words prepared with care. I read it as a quiet opening for mastery, one that rewards patience more than talent."

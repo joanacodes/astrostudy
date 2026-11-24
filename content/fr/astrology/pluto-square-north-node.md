@@ -6,6 +6,8 @@ description: "Pluton carré Nœud Nord dans un thème natal : le renouveau en t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Nœud Nord", "carré"]
 weight: 362
 glyph: "♇□☊"
 definition: "Pluton carré Nœud Nord, c’est un angle de 90° entre Pluton et le Nœud Nord à la naissance : Pluton est alors à 90° du Nœud Sud aussi, à mi-chemin des deux. Dans un thème, un besoin de renouveau profond coupe le chemin familier comme le nouveau, et demande à votre croissance de l’inclure plutôt que de le contourner."

@@ -5,6 +5,8 @@ description: "Mercury in the 7th house in a birth chart: a mind that thinks in d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "7th house", "houses"]
 weight: 31
 glyph: "☿"
 definition: "Mercury in the 7th house is the planet of thought and speech in the house of partners and one-to-one relationships, opposite the 1st, where it has its joy. It describes a mind that thinks in dialogue: ideas take shape when someone answers, and closeness is measured in conversation. It sits near the western horizon and needs the birth time."

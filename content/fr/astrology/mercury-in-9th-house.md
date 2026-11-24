@@ -6,6 +6,8 @@ description: "Mercure en maison 9 dans un thème natal : un esprit qui veut voi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "maison 9", "maisons"]
 weight: 33
 glyph: "☿"
 definition: "Mercure en maison 9 place la planète de la pensée dans la maison des longs voyages, des langues, des croyances et de la quête de sens. On y lit un esprit qui apprend pour comprendre plutôt que pour un diplôme, aime les grandes questions et voyage, à pied ou par les livres, pour y répondre. Il faut l’heure de naissance."

@@ -6,6 +6,8 @@ description: "Lune opposition Jupiter dans un thème natal : foyer et horizon f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Jupiter", "opposition"]
 weight: 72
 glyph: "☽☍♃"
 definition: "Lune opposition Jupiter veut dire qu’à votre naissance, la Lune et Jupiter se faisaient face à travers le thème, à environ 180°. Le besoin de sécurité et l’élan vers le sens occupent les deux bouts, et d’autres personnes portent souvent l’un des deux. J’y vois une polarité entre les racines et l’horizon, deux choses qui vous appartiennent."

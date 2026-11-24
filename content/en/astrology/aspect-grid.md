@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["aspect grid", "aspectarian"]
 family: "aspects"
+categories: ["Aspects"]
+tags: []
 weight: 42
 glyph: "✦"
 definition: "The aspect grid is the triangular table printed beside a chart wheel, listing every aspect in the chart pair by pair. Each planet has a row and a column; where two meet, a symbol shows the aspect they make, often with its orb. It is a checklist of the chart’s relationships, not a reading of them."

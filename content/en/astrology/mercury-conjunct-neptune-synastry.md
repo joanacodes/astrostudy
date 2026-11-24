@@ -5,6 +5,8 @@ description: "Mercury conjunct Neptune in synastry: one person’s words fall st
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Neptune", "conjunction", "synastry"]
 weight: 141
 glyph: "☿☌♆"
 definition: "Mercury conjunct Neptune in synastry occurs when one person’s Mercury and the other’s Neptune fall within 6° of each other. The first person’s words fall straight into the second’s imagination, so you often understand each other without spelling things out. I read it as an intimate, image-rich way of talking that still needs plain words for plans."

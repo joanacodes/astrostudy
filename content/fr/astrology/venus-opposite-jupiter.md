@@ -6,6 +6,8 @@ description: "Vénus opposition Jupiter dans un thème natal : ce que vous aime
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Jupiter", "opposition"]
 weight: 164
 glyph: "♀☍♃"
 definition: "Vénus opposition Jupiter signifie que 180° environ séparaient Vénus et Jupiter à votre naissance, de part et d’autre du zodiaque. Dans un thème, ce qui vous comble tout près fait face à ce qui vous appelle plus loin : le plaisir ici, le sens là-bas. J’y lis un équilibre, trouvé lentement, entre apprécier ce qui est et chercher davantage."

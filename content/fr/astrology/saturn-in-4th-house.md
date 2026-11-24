@@ -6,6 +6,8 @@ description: "Saturne en maison 4 dans un thème natal : le foyer, les racines 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "maison 4", "maisons"]
 weight: 76
 glyph: "♄"
 definition: "Saturne en maison 4 se tient en bas du thème, près du Fond du Ciel, dans la maison du foyer, des racines et de la vie privée. On y lit des responsabilités prises tôt à la maison, une appartenance à construire, et un foyer bâti plus tard, celui auquel on se fie."

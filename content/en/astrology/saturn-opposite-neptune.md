@@ -5,6 +5,8 @@ description: "Saturn opposite Neptune in a birth chart: the solid and the boundl
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Neptune", "opposition"]
 weight: 284
 glyph: "♄☍♆"
 definition: "Saturn opposite Neptune is the face-off of the two planets, about 180° apart, as at births of 1935–37, 1970–72 and 2005–07. In a chart it holds what can be measured and kept at one end and what can only be imagined at the other, and asks you to need both: a practical idealism."

@@ -6,6 +6,8 @@ description: "Vénus carré Saturne dans un thème natal : une réputation lour
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Saturne", "carré"]
 weight: 167
 glyph: "♀□♄"
 definition: "Vénus carré Saturne signifie que votre thème de naissance montre Vénus et Saturne en équerre, d’ordinaire à trois signes d’intervalle. Dans un thème, vos attachements et ce que vous pensez devoir mériter frottent l’un contre l’autre : une tendresse retenue par la prudence, puis bâtie pour durer. J’y lis un amour appris lentement, jamais refusé."

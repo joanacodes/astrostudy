@@ -5,6 +5,8 @@ description: "Mercury in the 5th house in a birth chart: a mind that thinks for 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "5th house", "houses"]
 weight: 29
 glyph: "☿"
 definition: "Mercury in the 5th house is the planet of thought and speech in the house of play, creativity, pleasure and romance. It describes a mind that is sharpest when it’s enjoying itself: games, puzzles, stories, wit, writing for pleasure. Tradition gave this house children; I read it in an adult’s life, and it needs the birth time."

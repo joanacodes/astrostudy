@@ -5,6 +5,8 @@ description: "Venus in Gemini in a birth chart: attraction that starts in conver
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Gemini"]
 weight: 39
 glyph: "♀♊"
 definition: "Venus in Gemini lends the planet of value and attraction the quick, mutable air of the third sign, which Mercury rules. It describes a taste that is curious and many-sided, attraction that starts in conversation, and affection shown through words, questions and shared jokes more readily than through grand gestures."

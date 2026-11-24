@@ -6,6 +6,8 @@ description: "Neptune conjonction Lilith dans un thème natal : la part indompt
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Lilith", "conjonction"]
 weight: 340
 glyph: "♆☌⚸"
 definition: "Neptune conjonction Lilith place Neptune à quelques degrés de la Lune noire Lilith moyenne, un aspect avec lequel naît environ 1 personne sur 31. Dans un thème, la part de vous qui a refusé d’être domptée parle par l’imagination : les rêves, l’art, le mystique, les marges. J’y lis une sauvagerie qui porte un voile."

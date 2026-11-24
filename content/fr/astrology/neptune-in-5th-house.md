@@ -6,6 +6,8 @@ description: "Neptune en maison 5 dans un thème natal : la création comme enc
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "maison 5", "maisons"]
 weight: 101
 glyph: "♆"
 definition: "Neptune en maison 5, c’est Neptune dans la maison de la création, du plaisir, du jeu et de l’amour. La joie y devient enchantement : un art fait de rêves, un amour qui s’éprend de ce qui pourrait être, un jeu qui répare. La tradition y plaçait les enfants ; je ne les prédis jamais."

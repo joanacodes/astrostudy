@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["trine"]
 family: "aspects"
+categories: ["Aspects"]
+tags: ["trine"]
 weight: 4
 glyph: "△"
 definition: "A trine is an angle of 120° between two planets, usually four signs apart and in the same element. In a birth chart it shows two parts of you that work together without effort: a natural ease, often a talent. Astrologers count it the easiest of the aspects; its one risk is being taken for granted."

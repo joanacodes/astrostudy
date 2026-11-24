@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["first quarter"]
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunar phases"]
 weight: 10
 glyph: "◐"
 definition: "The first quarter moon is the moment, about a week after the new moon, when the Moon is 90° ahead of the Sun and half its disc is lit. The name counts the cycle, a quarter gone, not the shape. In a birth chart it is the waxing Sun–Moon square: friction that tends to push outward."

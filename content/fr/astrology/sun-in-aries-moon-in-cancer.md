@@ -6,6 +6,8 @@ description: "Soleil en Bélier, Lune en Cancer : deux signes cardinaux, deux l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier", "Lune", "Cancer"]
 weight: 4
 glyph: "☉♈☽♋"
 definition: "Soleil en Bélier, Lune en Cancer décrit une naissance cinq à dix jours après une nouvelle lune, la Lune trois signes devant le Soleil. Les deux luminaires sont en dignité : le Soleil exalté, la Lune dans son propre signe. J’y lis deux formes d’initiative, l’une qui part à la rencontre du monde, l’autre qui fait un foyer."

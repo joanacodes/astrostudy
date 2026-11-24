@@ -6,6 +6,8 @@ description: "Lune sextile Lilith dans un thème natal : votre part indomptée,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Lilith", "sextile"]
 weight: 99
 glyph: "☽⚹⚸"
 definition: "Lune sextile Lilith signifie qu’à votre naissance, la Lune se trouvait à environ 60° de la Lune noire Lilith moyenne, en général à deux signes de distance. Votre besoin de réconfort et votre instinct d’autonomie coopèrent : être plus pleinement vous-même peut vous stabiliser, dès que vous vous le permettez. Il propose ; vous décidez."

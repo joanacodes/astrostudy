@@ -6,6 +6,8 @@ description: "Vénus en maison 8 dans un thème natal : la profondeur, la confi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "maison 8", "maisons"]
 weight: 44
 glyph: "♀"
 definition: "Vénus en maison 8 place la planète de l’attirance là où vivent l’intimité, la confiance et les ressources partagées, dans la maison naturelle du Scorpion, son exil. On y lit un besoin de profondeur en amour, une confiance donnée lentement puis pleinement, et une générosité qui reste douce avec des accords clairs. Seule une heure exacte peut la confirmer."

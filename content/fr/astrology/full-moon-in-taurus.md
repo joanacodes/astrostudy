@@ -6,6 +6,8 @@ description: "La pleine lune en Taureau, le Soleil en face en Scorpion : la Lun
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "pleine lune", "Taureau"]
 weight: 49
 glyph: "○♉"
 definition: "La pleine lune en Taureau, c’est la Lune en Taureau face au Soleil en Scorpion, une fois par an, entre fin octobre et fin novembre. Elle éclaire l’axe Taureau–Scorpion : ce que l’on garde et ce que l’on partage. Dans un thème, elle compte à 1° environ d’une planète ou d’un angle, à l’un ou l’autre bout."

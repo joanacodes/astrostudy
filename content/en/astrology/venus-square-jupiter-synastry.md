@@ -5,6 +5,8 @@ description: "Venus square Jupiter in synastry: one person wants it lovely, the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Jupiter", "square", "synastry"]
 weight: 173
 glyph: "♀□♃"
 definition: "Venus square Jupiter in synastry means one person’s Venus is about 90° from the other’s Jupiter, within 5.1°. One person’s taste and sense of what’s enough keep meeting the other’s urge for more, bigger and further. To me it’s friction that teaches two people proportion and honest promises, never a clash of values."

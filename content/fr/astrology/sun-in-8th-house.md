@@ -6,6 +6,8 @@ description: "Soleil en maison 8 dans un thème natal : une naissance au milieu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "maison 8", "maisons"]
 weight: 8
 glyph: "☉"
 definition: "Le Soleil en maison 8 signifie que le Soleil était haut à l’ouest, au milieu de l’après-midi, à votre naissance, dans la maison de l’intimité, de la confiance et du partage. J’y lis un moi qui s’affirme dans la profondeur et le changement. La tradition donnait la mort à cette maison ; je n’en prédis aucune."

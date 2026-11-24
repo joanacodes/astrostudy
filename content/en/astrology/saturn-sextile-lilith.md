@@ -5,6 +5,8 @@ description: "Saturn sextile Lilith in a birth chart: an opening between duty an
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Lilith", "sextile"]
 weight: 296
 glyph: "♄⚹⚸"
 definition: "Saturn sextile Lilith means about 60° separated Saturn from mean Black Moon Lilith at birth, usually across signs of compatible elements. In a chart it leaves a door ajar between responsibility and the part of you that won’t be managed: a workable outlet for your independence, and a calm way of saying no, when you use it."

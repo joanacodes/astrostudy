@@ -6,6 +6,8 @@ description: "Uranus sextile Nœud Nord dans un thème natal : l’expérience 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Nœud Nord", "sextile"]
 weight: 326
 glyph: "♅⚹☊"
 definition: "Uranus sextile Nœud Nord signifie qu’à votre naissance, Uranus se trouvait à environ 60° du Nœud Nord, donc à 120° du Nœud Sud. Dans un thème, l’expérience offre une ouverture à votre direction de croissance, et renouveler ce que vous savez déjà devient une façon d’avancer. Cela fonctionne quand vous vous en saisissez ; ce n’est pas un destin."

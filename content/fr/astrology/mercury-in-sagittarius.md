@@ -6,6 +6,8 @@ description: "Mercure en Sagittaire dans un thème natal : Mercure en exil, un 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Sagittaire"]
 weight: 33
 glyph: "☿♐"
 definition: "Mercure en Sagittaire, c’est Mercure en exil : la planète du détail en feu mutable, le signe des vues d’ensemble, gouverné par Jupiter. On y lit un esprit qui pense en principes et en histoires, apprend par le sens et parle franchement, en saisissant d’abord la signification et ensuite les détails. Environ 1 personne sur 11 l’a."

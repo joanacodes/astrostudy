@@ -5,6 +5,8 @@ description: "Mars in Leo in a birth chart: drive with heart, pride and staying 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Leo"]
 weight: 53
 glyph: "♂♌"
 definition: "Mars in Leo is the planet of courage in the fixed fire of the Sun’s own sign. It describes wholehearted action: you act from the heart, stay loyal to your choices, and want your effort to be seen and to count. No Mars sign is more common: about 1 person in 10 has it."

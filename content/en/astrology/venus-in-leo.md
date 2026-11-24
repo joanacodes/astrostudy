@@ -5,6 +5,8 @@ description: "Venus in Leo in a birth chart: generous, open affection under a ru
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Leo"]
 weight: 41
 glyph: "♀♌"
 definition: "Venus in Leo is Venus in fixed fire, the sign ruled by the Sun, which is never far from Venus in the sky. It describes affection given openly and generously, a taste for warmth, play and occasion, and a way of relating that is loyal and wants its gifts received, and returned, with pleasure."

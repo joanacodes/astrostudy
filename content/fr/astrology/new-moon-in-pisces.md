@@ -6,6 +6,8 @@ description: "La nouvelle lune en Poissons, la dernière avant l’équinoxe de 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "nouvelle lune", "Poissons"]
 weight: 47
 glyph: "●♓"
 definition: "La nouvelle lune en Poissons réunit le Soleil et la Lune en Poissons : c’est la dernière nouvelle lune avant l’équinoxe de mars, entre fin février et mi-mars. Elle ouvre un mois lunaire à la manière des Poissons : repos, imagination, compassion, lâcher-prise. Dans un thème natal, elle ne compte qu’à 1° environ d’une planète ou d’un angle."

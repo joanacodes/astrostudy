@@ -6,6 +6,8 @@ description: "Mars sextile Uranus dans un thème natal : le talent de trouver u
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Uranus", "sextile"]
 weight: 211
 glyph: "♂⚹♅"
 definition: "Mars sextile Uranus relie votre élan et votre envie d’innover à environ 60°, en général entre deux signes séparés par un autre. Dans un thème, l’effort y prend un tour inventif : quand la voie habituelle cale, vous en trouvez une autre et vous agissez. J’y lis une ouverture pour l’action originale, qui fonctionne quand vous vous en servez."

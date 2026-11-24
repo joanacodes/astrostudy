@@ -5,6 +5,8 @@ description: "Sun square Neptune in synastry: one person’s plain direction rub
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Neptune", "square", "synastry"]
 weight: 38
 glyph: "☉□♆"
 definition: "Sun square Neptune in synastry puts a clear direction and an ideal at right angles: one person’s Sun, and the other’s Neptune about 90° away, within 6.8°. What one says plainly, the other hears through imagination. It’s friction that makes an ideal truer, as I read it, never a sign that anyone is being misled."

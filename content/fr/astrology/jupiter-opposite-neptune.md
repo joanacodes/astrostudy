@@ -6,6 +6,8 @@ description: "Jupiter opposition Neptune dans un thème natal : la croyance et 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Neptune", "opposition"]
 weight: 254
 glyph: "♃☍♆"
 definition: "Jupiter opposition Neptune désigne les deux planètes à environ 180° d’écart, face à face. L’aspect revient quelques mois tous les 12 ou 13 ans : une classe d’âge le partage. Dans un thème, ce que vous croyez et ce à quoi vous aspirez se tiennent aux deux bouts d’une même ligne ; j’y lis un appel à l’équilibre, pas une fracture."

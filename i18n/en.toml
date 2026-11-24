@@ -210,6 +210,11 @@ blogNoMatch = "No article matches that. Try another word, or another category."
 blogRelated = "You might also read"
 blogLatestList = "Latest articles"
 blogEntries = "In the encyclopaedia"
+mustReads = "Must reads"
+mustLatest = "Latest article"
+mustBlog = "Blog"
+mustPrev = "Previous"
+mustNext = "Next"
 byline = "By {{ .name }} from The Astro Study"
 
 # llms.txt (a plain map of the site for AI assistants)

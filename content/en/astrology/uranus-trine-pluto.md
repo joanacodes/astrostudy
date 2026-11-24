@@ -5,6 +5,8 @@ description: "Uranus trine Pluto in a birth chart: why no birth from 1930 to 200
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Pluto", "trine"]
 weight: 313
 glyph: "♅△♇"
 definition: "Uranus trine Pluto is a 120° angle between the two planets. Nobody born between 1930 and 2009 has it: in those eighty years, they never came within 6° of a trine. In meaning, it lets change and deep renewal run together, and today it reaches people through transits and synastry."

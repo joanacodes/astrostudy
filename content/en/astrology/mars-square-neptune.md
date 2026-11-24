@@ -5,6 +5,8 @@ description: "Mars square Neptune in a birth chart: drive and ideals at a right 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Neptune", "square"]
 weight: 217
 glyph: "♂□♆"
 definition: "Mars square Neptune sets your drive and your ideals about 90° apart, usually in signs of one modality. In a chart effort keeps meeting imagination: you want to act, and you want the act to match a vision. I read it as friction that teaches you to act on an ideal without waiting for perfect clarity."

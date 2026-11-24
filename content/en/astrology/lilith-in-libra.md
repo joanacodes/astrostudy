@@ -5,6 +5,8 @@ description: "Lilith in Libra in a birth chart: your own side of the scales, kep
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Libra"]
 weight: 139
 glyph: "⚸♎"
 definition: "Lilith in Libra means Black Moon Lilith, the Moon’s farthest point from Earth, was in cardinal air, the sign of Venus and the scales, when you were born. Here Lilith is your own weight on the scales, kept off them to keep the peace, and a quiet, exact refusal of anything that isn’t fair."

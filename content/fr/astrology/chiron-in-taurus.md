@@ -6,6 +6,8 @@ description: "Chiron en Taureau dans un thème natal : s’adapter lentement, c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Taureau"]
 weight: 122
 glyph: "⚷♉"
 definition: "Chiron en Taureau, c’est Chiron, le petit corps que les astrologues lisent comme l’adaptation, dans le signe de terre lent gouverné par Vénus : jusqu’en mars 1934, de mai 1976 à avril 1984, puis de juin 2026 à mai 2034. Dans un thème, il décrit une stabilité construite à la main autour d’une sensibilité liée à la valeur."

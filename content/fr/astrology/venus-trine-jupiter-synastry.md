@@ -6,6 +6,8 @@ description: "Vénus trigone Jupiter en synastrie : une bienveillance facile en
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Jupiter", "trigone", "synastrie"]
 weight: 174
 glyph: "♀△♃"
 definition: "Vénus trigone Jupiter en synastrie signifie que Vénus, chez une personne, se trouve à environ 120° de Jupiter chez l’autre, à 5,1° près, en général dans un même élément. Ce que l’une apprécie et la vue large de l’autre se soutiennent sans effort. J’y lis une bienveillance facile, réelle et agréable, qui gagne à rester honnête."

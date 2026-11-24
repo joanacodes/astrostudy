@@ -5,6 +5,8 @@ description: "Moon in Sagittarius in a birth chart: a need for space, meaning an
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Sagittarius"]
 weight: 21
 glyph: "☽♐"
 definition: "Moon in Sagittarius means the Moon was in Sagittarius at your birth. I read it as a need for space, movement and something to look forward to, feelings understood by finding their place in a bigger picture, and comfort found in honesty, laughter and the sense that life still has room in it."

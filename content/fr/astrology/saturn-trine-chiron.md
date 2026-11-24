@@ -6,6 +6,8 @@ description: "Saturne trigone Chiron dans un thème natal : patience et adaptat
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Chiron", "trigone"]
 weight: 293
 glyph: "♄△⚷"
 definition: "Saturne trigone Chiron unit Saturne et Chiron à environ 120°, comme pour les naissances de 1930–1932 et de 1977–1980, en signes de terre. Dans un thème, la patience et l’adaptation se renforcent : une difficulté durable reçoit une routine sensée, et la routine plie là où il faut, pourvu que vous vous serviez de ce don."

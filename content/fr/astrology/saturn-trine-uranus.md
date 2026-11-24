@@ -6,6 +6,8 @@ description: "Saturne trigone Uranus dans un thème natal : structure et réfor
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Uranus", "trigone"]
 weight: 278
 glyph: "♄△♅"
 definition: "Saturne trigone Uranus désigne un angle d’environ 120° entre Saturne et Uranus, en général dans deux signes d’un même élément. Il est venu en trois vagues entre 1955 et 2004 et appartient donc à des générations entières. Dans un thème, la structure et la réforme s’entraident : le changement arrive avec un plan, et les vieilles règles sont réécrites plutôt qu’enfreintes."

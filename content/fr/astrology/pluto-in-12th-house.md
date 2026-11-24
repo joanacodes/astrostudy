@@ -6,6 +6,8 @@ description: "Pluton en maison 12 dans un thème natal : une force trouvée à 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "maison 12", "maisons"]
 weight: 120
 glyph: "♇"
 definition: "Pluton en maison 12 travaille à l’abri des regards : le changement profond dans la maison de la solitude, de la vie intérieure et de ce qui est caché. On y lit une transformation intime, et une force gardée en réserve. La tradition y mettait l’enfermement, que je ne prédis jamais. Cette maison s’arrête à l’ascendant : il faut l’heure de naissance."

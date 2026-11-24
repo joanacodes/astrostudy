@@ -5,6 +5,8 @@ description: "Moon trine Pluto in a birth chart: depth and renewal flowing with 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Pluto", "trine"]
 weight: 91
 glyph: "☽△♇"
 definition: "Moon trine Pluto means Pluto was a trine, about 120°, from your Moon at birth, the two usually in one element. In a chart it lets your feelings and your capacity for renewal work together: you can go through deep change and come out with your footing. I read it as quiet emotional resilience, worth noticing and using."

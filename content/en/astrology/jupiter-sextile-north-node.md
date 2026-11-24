@@ -5,6 +5,8 @@ description: "Jupiter sextile North Node in a birth chart: meaning that helps yo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "North Node", "sextile"]
 weight: 271
 glyph: "♃⚹☊"
 definition: "Jupiter sextile North Node means Jupiter about 60° from the North Node and so about 120° from the South Node. In a chart, meaning and perspective support the less familiar path while staying friendly with your established strengths. I read it as an open offer of help with your growth, which works when you take it."

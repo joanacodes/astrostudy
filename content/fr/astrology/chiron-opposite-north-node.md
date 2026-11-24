@@ -6,6 +6,8 @@ description: "Chiron opposition Nœud Nord dans un thème natal : Chiron sur le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Nœud Nord", "opposition"]
 weight: 374
 glyph: "⚷☍☊"
 definition: "Chiron opposition Nœud Nord : à votre naissance, Chiron se tenait sur le Nœud Sud, à environ 180° du Nœud Nord. Dans un thème, vous adapter à une difficulté durable est un terrain ancien et pratiqué, un savoir-faire auquel vous vous fiez ; la direction de croissance, en face, demande une capacité qui ne soit pas un détour de plus."

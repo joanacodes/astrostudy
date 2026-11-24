@@ -6,6 +6,8 @@ description: "Soleil opposition Chiron dans un thème natal : votre sens de vou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Chiron", "opposition"]
 weight: 42
 glyph: "☉☍⚷"
 definition: "Soleil opposition Chiron signifie qu’à votre naissance, Chiron se trouvait à peu près en face de votre Soleil, à environ 180°. Dans un thème, votre identité fait face à un point sensible, souvent rencontré à travers les autres : les personnes que vous aidez, et celles qui y touchent. J’y lis un équilibre entre le soin donné et le soin reçu."

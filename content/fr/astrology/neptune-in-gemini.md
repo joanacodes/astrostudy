@@ -6,6 +6,8 @@ description: "Neptune en Gémeaux dans un thème natal : une imagination qui vi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Gémeaux"]
 weight: 99
 glyph: "♆♊"
 definition: "Neptune en Gémeaux, c’est la planète de l’imagination et de l’inspiration dans le signe d’air mutable des mots et du lien. Ce placement n’appartient à aucune personne en vie : Neptune y était de 1887 à 1902 et y revient de 2051 à 2066. C’est l’imagination dans le langage : histoires, chansons, lettres, et le rêve de se comprendre en parlant."

@@ -5,6 +5,8 @@ description: "Saturn conjunct Lilith in a birth chart: duty and the untamed self
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Lilith", "conjunction"]
 weight: 295
 glyph: "♄☌⚸"
 definition: "Saturn conjunct Lilith joins Saturn and mean Black Moon Lilith at one point of the zodiac, within a few degrees, at birth. In a chart it fuses duty with the instinct for self-rule: strict standards may gather around the part of you once called too much. Untangled, it gives boundaries that come from your own nature, steadily kept."

@@ -5,6 +5,8 @@ description: "Saturn trine Uranus in a birth chart: structure and reform in step
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Uranus", "trine"]
 weight: 278
 glyph: "♄△♅"
 definition: "Saturn trine Uranus is a 120° angle between Saturn and Uranus, usually in signs of one element. It came in three runs between 1955 and 2004, so it belongs to whole groups of births. In a chart, structure and reform help each other: change arrives with a plan, and old rules get rewritten rather than broken."

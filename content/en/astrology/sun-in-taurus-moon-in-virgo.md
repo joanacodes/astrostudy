@@ -5,6 +5,8 @@ description: "Sun in Taurus, Moon in Virgo: earth trine earth, born under a Moon
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Taurus", "Moon", "Virgo"]
 weight: 18
 glyph: "☉♉☽♍"
 definition: "Sun in Taurus, Moon in Virgo is an earth trine by sign, from a birth in the second week of the lunar month, once the Moon had passed its first quarter. I read it as a workshop pair: a self that wants to make something good and keep it, and needs that settle once it works properly."

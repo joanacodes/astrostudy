@@ -5,6 +5,8 @@ description: "Sun trine Pluto in synastry: depth that steadies a sense of self i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Pluto", "trine", "synastry"]
 weight: 44
 glyph: "☉△♇"
 definition: "In Sun trine Pluto in synastry, one person’s identity and the other’s depth cooperate without strain, Pluto about 120° from the Sun within 6.8°, usually in one element. Under pressure, the pair tends to steady. I read it as shared resilience, worth using on purpose rather than only in a crisis."

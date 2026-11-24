@@ -6,6 +6,8 @@ description: "Lune en Balance dans un thème natal : des émotions apaisées pa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Balance"]
 weight: 19
 glyph: "☽♎"
 definition: "La Lune en Balance signifie que la Lune se trouvait en Balance à votre naissance. J’y lis des émotions stabilisées par l’équilibre et la bonne compagnie : vous vous apaisez quand la paix règne avec vos proches, la justice et un cadre qui vous plaît vous réconfortent, et vous consolez souvent les autres plus facilement que vous-même."

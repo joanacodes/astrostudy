@@ -5,6 +5,8 @@ description: "Moon opposite Mercury in a birth chart: feeling and thinking face 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Mercury", "opposition"]
 weight: 57
 glyph: "☽☍☿"
 definition: "Moon opposite Mercury puts the Moon and Mercury on opposite sides of the zodiac at your birth, close to a full moon. Feeling and thinking stand face to face: you see a mood clearly from outside, and often meet your own feelings in other people’s words. I read it as a conversation, not a split."

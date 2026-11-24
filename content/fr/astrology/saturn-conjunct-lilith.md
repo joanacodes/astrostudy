@@ -6,6 +6,8 @@ description: "Saturne conjonction Lilith dans un thème natal : le devoir et la
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Lilith", "conjonction"]
 weight: 295
 glyph: "♄☌⚸"
 definition: "Saturne conjonction Lilith réunit Saturne et la Lune noire Lilith moyenne en un même point du zodiaque, à quelques degrés près. Dans un thème, elle fond le devoir avec l’instinct de se gouverner soi-même : des exigences strictes se nouent autour de la part de vous jugée excessive. Dénouée, elle donne des limites issues de votre propre nature, tenues avec constance."

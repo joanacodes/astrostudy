@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["maison 2", "maison II"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["maison 2"]
 weight: 2
 glyph: "II"
 definition: "La maison 2 est la deuxième des douze maisons d’un thème natal, juste après la maison du moi. Les astrologues y lisent ce que vous avez et ce qui compte pour vous : l’argent que vous gagnez et gardez, vos biens, les talents dont vous pourriez vivre, et le sentiment de votre propre valeur qui se trouve dessous."

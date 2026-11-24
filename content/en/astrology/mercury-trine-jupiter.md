@@ -5,6 +5,8 @@ description: "Mercury trine Jupiter in a birth chart: learning that widens easil
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Jupiter", "trine"]
 weight: 118
 glyph: "☿△♃"
 definition: "Mercury trine Jupiter means Mercury and Jupiter were about 120° apart when you were born, usually in signs of one element. In a chart learning and making sense of things support each other: facts fall into place and explanations come easily. I read it as a fluent mind that still needs a question worth its time."

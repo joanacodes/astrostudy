@@ -6,6 +6,8 @@ description: "La nouvelle lune en Sagittaire : la dernière avant le solstice d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "nouvelle lune", "Sagittaire"]
 weight: 44
 glyph: "●♐"
 definition: "La nouvelle lune en Sagittaire réunit le Soleil et la Lune en Sagittaire, une fois par an, entre fin novembre et le solstice de décembre. Elle ouvre un mois lunaire tourné vers le lointain : le sens, un voyage, un savoir. Dans un thème, elle compte à 1° environ d’une planète ou d’un angle, à 3° pour une éclipse."

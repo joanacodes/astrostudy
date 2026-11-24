@@ -5,6 +5,8 @@ description: "Mars conjunct Jupiter in a birth chart: action and meaning fused, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Jupiter", "conjunction"]
 weight: 200
 glyph: "♂☌♃"
 definition: "Mars conjunct Jupiter means Mars and Jupiter stood within a few degrees of each other at your birth. In a chart, the part of you that acts and the part that seeks meaning work as one: belief gets you moving, and moving clarifies belief. I read it as conviction with energy behind it, best when its scale fits its reason."

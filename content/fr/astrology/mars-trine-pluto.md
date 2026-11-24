@@ -6,6 +6,8 @@ description: "Mars trigone Pluton dans un thème natal : l’endurance et la pr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Pluton", "trigone"]
 weight: 223
 glyph: "♂△♇"
 definition: "Mars trigone Pluton réunit l’élan et la profondeur à environ 120°, en général dans des signes d’un même élément. Dans un thème, l’effort y gagne une force régulière et régénérante : vous pouvez vous engager en profondeur, vous relever des revers et changer les choses sans drame. J’y lis une endurance naturelle, à consacrer à ce qui la mérite."

@@ -6,6 +6,8 @@ description: "Saturne carré Nœud Nord dans un thème natal : la structure en 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Nœud Nord", "carré"]
 weight: 302
 glyph: "♄□☊"
 definition: "Saturne carré Nœud Nord place Saturne à environ 90° du Nœud Nord à la naissance, ce qui veut dire à 90° du Nœud Sud aussi. Dans un thème, les devoirs et les limites coupent à la fois vos vieilles habitudes et votre nouvelle direction : une friction qui apprend à grandir à une allure que vos responsabilités peuvent porter."

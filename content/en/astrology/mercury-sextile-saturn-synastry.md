@@ -5,6 +5,8 @@ description: "Mercury sextile Saturn in synastry: one person’s ideas, the othe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Saturn", "sextile", "synastry"]
 weight: 132
 glyph: "☿⚹♄"
 definition: "Mercury sextile Saturn in synastry is a 60° link, within 3.6°, between one person’s Mercury and the other’s Saturn. The first person’s ideas can borrow the second’s patience and method whenever they ask, and the second can borrow the first’s lightness. I read it as quiet, practical help between two minds, which only works once asked for."

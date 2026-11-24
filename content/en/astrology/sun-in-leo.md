@@ -5,6 +5,8 @@ description: "Sun in Leo in a birth chart: the Sun in its own sign, a self that 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo"]
 weight: 5
 glyph: "☉♌"
 definition: "Sun in Leo means the Sun was in its own sign when you were born, between about 23 July and 22 August: the Sun’s domicile, in fixed fire. I read it as a self that answers to no other planet, a vitality sustained by making things from the heart, and a wish to be recognised accurately rather than widely."

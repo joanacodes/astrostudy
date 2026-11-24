@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["transits", "transit"]
 family: "techniques"
+categories: ["Transits et cycles"]
+tags: ["transits"]
 weight: 47
 glyph: "✦"
 definition: "Un transit, c’est une planète du ciel actuel qui forme un aspect avec un point de votre thème natal, ou qui traverse l’une de ses maisons : Saturne en transit carré votre Soleil natal, par exemple. Les transits donnent les saisons d’un thème. Ils font ressortir ce qu’il contient déjà, des semaines ou des années durant, sans créer d’événements."

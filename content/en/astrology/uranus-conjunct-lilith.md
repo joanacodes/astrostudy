@@ -5,6 +5,8 @@ description: "Uranus conjunct Lilith in a birth chart: your originality and what
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Lilith", "conjunction"]
 weight: 320
 glyph: "♅☌⚸"
 definition: "Uranus conjunct Lilith means Uranus and mean Black Moon Lilith stood within a few degrees of each other at your birth. In a chart, the urge to be different and the part of you that refuses to be tamed act as one, so your originality and what you learned to hide are often the same thing."

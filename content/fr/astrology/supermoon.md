@@ -6,6 +6,8 @@ description: "La super lune : un mot d’astrologue de 1979 pour une pleine lun
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["lunaisons"]
 weight: 16
 glyph: "◯"
 definition: "Une super lune est une pleine ou nouvelle lune proche du périgée, quand la Lune passe au plus près de la Terre. Le mot vient de l’astrologue Richard Nolle, en 1979 ; les astronomes disent pleine lune au périgée, et aucune définition ne fait l’unanimité. Au plus près, une pleine lune paraît jusqu’à un septième plus large qu’au plus loin."

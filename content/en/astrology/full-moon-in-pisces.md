@@ -5,6 +5,8 @@ description: "The full moon in Pisces, with the Sun in Virgo: the dream against 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "full moon", "Pisces"]
 weight: 59
 glyph: "○♓"
 definition: "The full moon in Pisces is the Moon in Pisces opposite the Sun in Virgo, in the weeks before the September equinox. It lights the Pisces–Virgo axis from the dreaming side: rest, compassion and letting go against order and detail. In a birth chart it counts only within about 1° of a planet or angle, at either end."

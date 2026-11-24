@@ -6,6 +6,8 @@ description: "Mars en Taureau dans un thème natal : Mars en exil, un élan qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Taureau"]
 weight: 50
 glyph: "♂♉"
 definition: "Mars en Taureau, c’est l’élan ramené au pas de la terre fixe : la planète de l’effort dans le signe de Vénus, et pour la tradition l’exil de Mars. On y lit l’endurance avant la vitesse : vous démarrez lentement, poussez avec régularité, et une fois votre choix fait, rien ne vous détourne. Ce placement concerne environ 1 personne sur 13."

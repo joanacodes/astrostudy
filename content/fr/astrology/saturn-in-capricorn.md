@@ -6,6 +6,8 @@ description: "Saturne en Capricorne dans un thème natal : en domicile dans la 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Capricorne"]
 weight: 82
 glyph: "♄♑"
 definition: "En Capricorne, Saturne est en domicile : un signe de terre cardinal, celui que Saturne gouverne. Avec le Verseau, c’est le signe de Saturne le plus fréquent pour les naissances de 1930 à 2009, partagé par les classes d’âge de 1930–1932, 1959–1962 et 1988–1991. On y lit la responsabilité, la maîtrise, et une vie bâtie pour durer."

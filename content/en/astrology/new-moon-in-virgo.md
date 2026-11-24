@@ -5,6 +5,8 @@ description: "The new moon in Virgo: what the Sun and Moon meeting in Virgo brin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "new moon", "Virgo"]
 weight: 41
 glyph: "●♍"
 definition: "The new moon in Virgo is the new moon that falls while the Sun crosses Virgo, once a year, between late August and late September. It opens a lunar month in Virgo’s manner: sorting, mending, learning a skill properly. In a birth chart it counts only within about 1° of a planet or angle."

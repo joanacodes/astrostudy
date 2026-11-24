@@ -5,6 +5,8 @@ description: "Sun opposite Mercury in synastry: one person’s mind looks at the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Mercury", "opposition", "synastry"]
 weight: 10
 glyph: "☉☍☿"
 definition: "Sun opposite Mercury in synastry means one person’s Mercury is about 180° from the other’s Sun, within 8°. It can exist only between two people: Mercury never gets more than about 28° from the Sun. One person sees the other’s life from the far side. I read it as a dialogue of opposite views, never an enmity."

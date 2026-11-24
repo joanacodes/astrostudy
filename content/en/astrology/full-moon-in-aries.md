@@ -5,6 +5,8 @@ description: "The full moon in Aries, with the Sun opposite in Libra: the self-a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "full moon", "Aries"]
 weight: 48
 glyph: "○♈"
 definition: "The full moon in Aries is the Moon in Aries opposite the Sun in Libra, once a year, between late September and late October. It lights the Aries–Libra axis: what you need for yourself against what you owe others. In a birth chart it counts within about 1° of a planet or angle, at either end."

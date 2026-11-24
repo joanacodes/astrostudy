@@ -5,6 +5,8 @@ description: "Chiron in Gemini in a birth chart: adapting through words around a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Gemini"]
 weight: 123
 glyph: "⚷♊"
 definition: "Chiron in Gemini is the placement of everyone born from June 1933 to May 1938, from June 1983 to June 1988, or from July 2033 to April 2039, when Chiron crossed the sign of words. In a chart it describes adapting through language and questions around a tender spot about being understood, until explaining becomes a skill."

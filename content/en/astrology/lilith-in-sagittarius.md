@@ -5,6 +5,8 @@ description: "Lilith in Sagittarius in a birth chart: a hunger for more world th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Sagittarius"]
 weight: 141
 glyph: "⚸♐"
 definition: "Lilith in Sagittarius means Black Moon Lilith, the Moon’s farthest point from Earth, was in mutable fire, the sign Jupiter rules, when you were born. It marks a hunger for more world and more meaning than you were offered, often kept quiet at home, and a refusal of small worlds and borrowed answers."

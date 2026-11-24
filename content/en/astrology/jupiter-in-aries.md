@@ -5,6 +5,8 @@ description: "Jupiter in Aries in a birth chart: growth that comes from going fi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Aries"]
 weight: 61
 glyph: "♃♈"
 definition: "Jupiter in Aries is Jupiter, the planet of growth and meaning, in the first sign of the zodiac, cardinal fire ruled by Mars. Everyone born within the same year or so shares it. I read it as understanding that comes from trying things first-hand: you find out what you believe by starting, and grow by beginning."

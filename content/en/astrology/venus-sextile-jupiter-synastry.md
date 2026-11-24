@@ -5,6 +5,8 @@ description: "Venus sextile Jupiter in synastry: one person keeps opening doors 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Jupiter", "sextile", "synastry"]
 weight: 172
 glyph: "♀⚹♃"
 definition: "Venus sextile Jupiter in synastry means one person’s Venus is about 60° from the other’s Jupiter, within 3.6°. One person’s wider view keeps offering openings that the other’s taste turns out to enjoy, and that enjoyment encourages more. I read it as a friendly exchange of invitations, which works when someone says yes."

@@ -5,6 +5,8 @@ description: "North Node in the 5th house in a birth chart: making room for joy,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "5th house", "houses"]
 weight: 149
 glyph: "☊"
 definition: "North Node in the 5th house means the North Node, where the Moon’s path crosses the Sun’s going north, fell in the house of joy and play at your birth, with the South Node in the 11th. I read it as growth towards delight: creativity, romance and pleasure of your own, after a habit of putting the group first."

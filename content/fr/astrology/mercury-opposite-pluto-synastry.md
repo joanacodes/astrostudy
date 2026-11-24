@@ -6,6 +6,8 @@ description: "Mercure opposition Pluton en synastrie : les mots de l’une face
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Pluton", "opposition", "synastrie"]
 weight: 150
 glyph: "☿☍♇"
 definition: "Mercure opposition Pluton en synastrie met Mercure, chez une personne, et Pluton, chez l’autre, face à face, à environ 180°, à 6° près. Les mots d’un côté et la profondeur de l’autre se rendent mutuellement plus visibles, et les conversations révèlent le poids que peuvent avoir les mots. J’y lis une polarité à partager, jamais un concours à gagner."

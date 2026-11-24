@@ -6,6 +6,8 @@ description: "Soleil en maison 1 dans un thème natal : une naissance dans les 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "maison 1", "maisons"]
 weight: 1
 glyph: "☉"
 definition: "Le Soleil en maison 1 signifie que le Soleil se trouvait juste sous l’horizon est à votre naissance, dans les dernières heures avant l’aube, dans la maison qui commence à l’ascendant. J’y lis une identité qui se voit tout de suite : le moi que vous devenez est aussi celui qu’on rencontre en premier. Il faut l’heure de naissance."

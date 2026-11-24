@@ -6,6 +6,8 @@ description: "Mercure en Bélier dans un thème natal : un esprit qui découvre
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Bélier"]
 weight: 25
 glyph: "☿♈"
 definition: "Mercure en Bélier place la planète de la pensée et de la parole dans le premier signe du zodiaque, feu cardinal gouverné par Mars. On y lit un esprit qui va à la vitesse d’une première réaction : vous pensez en commençant, savez souvent votre réponse avant la fin de la question, et affinez ensuite. Environ 1 personne sur 13 l’a."

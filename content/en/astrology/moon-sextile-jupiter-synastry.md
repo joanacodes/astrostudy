@@ -5,6 +5,8 @@ description: "Moon sextile Jupiter in synastry: one person’s plans and learnin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Jupiter", "sextile", "synastry"]
 weight: 77
 glyph: "☽⚹♃"
 definition: "Moon sextile Jupiter in synastry means one person’s Jupiter makes a 60° angle to the other’s Moon, within 4.8°. One person’s plans, learning and wider view reach the other’s needs as offers rather than pressure. I read it as an open invitation between two people, and an invitation only works once someone accepts it."

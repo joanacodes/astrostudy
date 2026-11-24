@@ -5,6 +5,8 @@ description: "Mercury square North Node in synastry: one person’s ideas cross 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "North Node", "square", "synastry"]
 weight: 163
 glyph: "☿□☊"
 definition: "Mercury square North Node in synastry means one person’s Mercury is about 90° from the other’s North Node, within 5.1°, and so square their South Node too. One person’s way of thinking crosses the line between the other’s old habits and new aims. I read it as friction that makes someone explain their direction."

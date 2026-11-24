@@ -6,6 +6,8 @@ description: "Quelle Lilith est la mienne ? Moyenne, vraie, interpolée, Lune 
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "points"
+categories: ["Planètes et points"]
+tags: ["Lilith"]
 weight: 13
 glyph: "⚸"
 definition: "Votre Lilith est celle que montre votre thème, et ce nom désigne plusieurs points. Deux thèmes peuvent diverger quand l’un affiche la Lilith moyenne, la position lissée du point où la Lune s’éloigne le plus de la Terre, et l’autre la Lilith vraie, ce point à l’instant exact, parfois à des dizaines de degrés. Je lis la moyenne."

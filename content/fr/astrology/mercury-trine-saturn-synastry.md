@@ -6,6 +6,8 @@ description: "Mercure trigone Saturne en synastrie : la pensée de l’une et l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Saturne", "trigone", "synastrie"]
 weight: 134
 glyph: "☿△♄"
 definition: "Mercure trigone Saturne en synastrie met environ 120° entre Mercure, chez une personne, et Saturne, chez l’autre, avec 5,1° d’orbe. La pensée de la première et la méthode de la seconde avancent d’un pas tranquille : les projets se font, et se tiennent. J’y lis une confiance bâtie par la parole, qui gagne à rester joueuse."

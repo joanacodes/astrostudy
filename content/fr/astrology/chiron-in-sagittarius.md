@@ -6,6 +6,8 @@ description: "Chiron en Sagittaire dans un thème natal : le centaure dans le s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Sagittaire"]
 weight: 129
 glyph: "⚷♐"
 definition: "Chiron en Sagittaire place le centaure du mythe dans le signe centaure du zodiaque, feu mutable gouverné par Jupiter, pour les personnes nées de novembre 1948 à novembre 1951 ou de janvier 1999 à décembre 2001. Il décrit une adaptation par le sens et la perspective, autour d’un point sensible lié à la croyance et à la liberté."

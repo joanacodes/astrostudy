@@ -6,6 +6,8 @@ description: "Mercure en Lion dans un thème natal : un esprit qui pense en his
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Lion"]
 weight: 29
 glyph: "☿♌"
 definition: "Mercure en Lion place la planète de la pensée et de la parole en feu fixe, le signe du Soleil. On y lit un esprit chaleureux et expressif, qui pense en histoires et reste fidèle à ses idées. Son maître n’est jamais loin : le Soleil est en Lion ou dans un signe voisin. Environ 1 personne sur 13 l’a."

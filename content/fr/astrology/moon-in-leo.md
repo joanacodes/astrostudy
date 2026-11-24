@@ -6,6 +6,8 @@ description: "Lune en Lion dans un thème natal : un besoin de chaleur et de re
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Lion"]
 weight: 17
 glyph: "☽♌"
 definition: "La Lune en Lion signifie que la Lune se trouvait en Lion, le signe du Soleil, à votre naissance. J’y lis un besoin de chaleur, de jeu et d’appréciation de la part des personnes qui comptent, une façon d’aimer généreuse et fidèle, et des émotions qui se posent quand votre soin a été vu et reçu."

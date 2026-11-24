@@ -6,6 +6,8 @@ description: "Lilith en Poissons dans un thème natal : une vie intérieure sen
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Poissons"]
 weight: 144
 glyph: "⚸♓"
 definition: "Lilith en Poissons signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans l’eau mutable du signe de Neptune et, traditionnellement, de Jupiter. J’y lis une vie intérieure imaginative et très sensible, apprise tôt comme une chose à garder hors de vue, et un refus doux mais durable de la dureté."

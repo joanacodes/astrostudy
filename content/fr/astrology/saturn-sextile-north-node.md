@@ -6,6 +6,8 @@ description: "Saturne sextile Nœud Nord dans un thème natal : un pont entre v
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Nœud Nord", "sextile"]
 weight: 301
 glyph: "♄⚹☊"
 definition: "Saturne sextile Nœud Nord signifie que Saturne se trouvait à environ 60° du Nœud Nord à votre naissance, donc à 120° du Nœud Sud. Dans un thème, il jette un pont : la discipline apprise en terrain connu peut être portée vers la direction dans laquelle vous grandissez, ce qui rend la pratique plus facile à organiser, dès que vous commencez."

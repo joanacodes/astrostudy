@@ -6,6 +6,8 @@ description: "Soleil sextile Jupiter dans un thème natal : des ouvertures pour
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Jupiter", "sextile"]
 weight: 14
 glyph: "☉⚹♃"
 definition: "Soleil sextile Jupiter, c’est l’aspect de 60° entre les deux : Jupiter à deux signes de votre Soleil, en général dans un élément qui le complète. Dans un thème, votre but et votre envie de grandir s’ouvrent des portes l’un à l’autre. J’y lis des ouvertures dont on peut vraiment se servir, à condition de les franchir."

@@ -6,6 +6,8 @@ description: "Jupiter en Capricorne dans un thème natal : Jupiter en chute, un
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Capricorne"]
 weight: 70
 glyph: "♃♑"
 definition: "Jupiter en Capricorne, c’est la planète de la croissance et du sens dans le signe de terre cardinal gouverné par Saturne, où la tradition place sa chute. Toute une année de naissance, à peu près, partage ce placement. J’y lis une croissance bâtie par étapes : une compréhension gagnée par la responsabilité, des principes concrets, une vision longue."

@@ -3883,6 +3883,79 @@ mark.todo {
 .blog-after > .label {
   margin: 0 0 18px;
 }
+
+/* "Must reads" at the bottom of every article and entry: a row of cards that snaps into place, swiped on
+   a phone and moved with the two arrows on a computer (site.js shows them once the row overflows) */
+.must-reads__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 0 0 18px;
+}
+.must-reads__head .label {
+  margin: 0;
+}
+.must-reads__arrows {
+  display: flex;
+  gap: 8px;
+}
+.must-reads__arrows[hidden] {
+  display: none;
+}
+.must-reads__arrow {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border-radius: 50%;
+  border: 1px solid var(--line-2);
+  background: transparent;
+  color: var(--ink);
+  font: inherit;
+  font-size: 1.05rem;
+  cursor: pointer;
+  transition: background-color 0.3s var(--ease), color 0.3s var(--ease), opacity 0.3s var(--ease);
+}
+.must-reads__arrow:hover:not(:disabled) {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+.must-reads__arrow:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+.must-reads__track {
+  list-style: none;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: min(300px, 78vw);
+  gap: clamp(16px, 2.4vw, 28px);
+  margin: 0 calc(var(--gutter) * -1);
+  padding: 0 var(--gutter) 14px;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x mandatory;
+  scroll-padding-inline: var(--gutter);
+  scrollbar-width: thin;
+}
+.must-reads__slide {
+  min-width: 0;
+  scroll-snap-align: start;
+}
+.must-reads__card {
+  align-content: start;
+  height: 100%;
+}
+.must-reads__kind {
+  margin-top: 4px;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+}
 .post-list {
   list-style: none;
   margin: 0;

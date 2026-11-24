@@ -5,6 +5,8 @@ description: "North Node in Pisces in a birth chart: letting something be, after
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "Pisces"]
 weight: 156
 glyph: "☊♓"
 definition: "North Node in Pisces means the North Node, the point where the Moon’s path crosses the Sun’s going north, was in mutable water at your birth, opposite a South Node in Virgo. I read it as growth towards trust: compassion, imagination and letting some things be, after a long habit of fixing, checking and getting it right."

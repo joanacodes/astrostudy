@@ -5,6 +5,8 @@ description: "Moon in the 10th house in a birth chart: feelings carried into pub
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "10th house", "houses"]
 weight: 22
 glyph: "☽"
 definition: "Moon in the 10th house means the Moon sat in the house of public life, vocation and reputation, near the top of the chart, when you were born. I read it as feelings that look for a role in the world, and work that takes the shape of care. It needs the birth time."

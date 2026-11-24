@@ -5,6 +5,8 @@ description: "Uranus in Leo in a birth chart: Uranus in detriment, for those bor
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Leo"]
 weight: 89
 glyph: "♅♌"
 definition: "Uranus in Leo is the planet of change in a fixed fire sign ruled by the Sun, and in modern tropical astrology its detriment. It marks the births of August 1955 to August 1962, and will return for those of August 2039 onwards. I read it as a generation’s claim to its own way of shining; the house shows where."

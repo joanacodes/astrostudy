@@ -5,6 +5,8 @@ description: "Moon sextile Saturn in synastry: one person’s reliability is on 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Saturn", "sextile", "synastry"]
 weight: 82
 glyph: "☽⚹♄"
 definition: "Moon sextile Saturn in synastry means one person’s Saturn is about 60° from the other’s Moon, within 4.8°. One person’s reliability, patience and sense of limits sit within reach of the other’s needs, offered rather than imposed. I see it as a dependable arrangement between two people, which works once one of them asks."

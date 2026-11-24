@@ -6,6 +6,8 @@ description: "Lune opposition Saturne dans un thème natal : le réconfort d’
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Saturne", "opposition"]
 weight: 77
 glyph: "☽☍♄"
 definition: "Lune opposition Saturne signifie qu’à votre naissance, la Lune et Saturne se trouvaient à environ 180° d’écart, dans des signes opposés. Dans un thème, cet aspect place votre besoin de réconfort face à votre sens du devoir et des limites, et chacun rappelle l’autre. J’y lis un équilibre à apprendre, souvent à travers les autres, jamais une froideur."

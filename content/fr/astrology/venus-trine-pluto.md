@@ -6,6 +6,8 @@ description: "Vénus trigone Pluton dans un thème natal : ce que vous aimez et
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Pluton", "trigone"]
 weight: 183
 glyph: "♀△♇"
 definition: "Vénus trigone Pluton signifie qu’à votre naissance, Vénus et Pluton étaient à environ 120° d’écart, en général dans des signes du même élément. Dans un thème, ce que vous aimez et l’élan de renouveau coulent ensemble : les attachements s’approfondissent, et le changement vous coûte rarement ce qui compte. J’y lis une profondeur qui grandit quand on l’entretient."

@@ -6,6 +6,8 @@ description: "Vénus conjonction Saturne dans un thème natal : ce que vous aim
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Saturne", "conjonction"]
 weight: 165
 glyph: "♀☌♄"
 definition: "Vénus conjonction Saturne signifie que Vénus et Saturne partageaient une étroite portion du zodiaque à votre naissance, en général à l’intérieur d’un même signe. Vos attachements y prennent le poids de ce que vous construisez pour durer : une tendresse prise au sérieux, un goût pour ce qui tient. J’y lis un amour qui a son horaire, jamais un refus."

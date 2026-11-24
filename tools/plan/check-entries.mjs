@@ -17,6 +17,7 @@ import { readFile, readdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { entry, rulesFor, byPath, plan, SITE } from './rules.mjs';
 import { frenchTypography } from '../fr-typography.mjs';
+import { tagsFor, linesFor } from './tags.mjs';
 
 const root = new URL('../../', import.meta.url);
 const file = (lang, path) => new URL(`content/${lang}/${path}`, root);
@@ -106,6 +107,11 @@ async function check(id, lang, problems) {
     if (fm.slug !== slug) say('error', `slug is "${fm.slug ?? ''}", the plan says "${slug}"`);
   } else if (fm.slug) say('error', 'an English entry takes its address from its file name: no slug');
   if (fm.family && fm.family !== e.family) say('error', `family is "${fm.family}", the plan says "${e.family}"`);
+  // the categories and tags the "Must reads" and the structured data read, worked out from the plan
+  const want = linesFor(tagsFor(id)[lang]);
+  const have = fm.head.split('\n').filter((l) => /^(categories|tags):/.test(l));
+  if (have.length < 2) say('error', `no categories or tags: node tools/plan/tags.mjs ${id} --write`);
+  else if (have.join('\n') !== want.join('\n')) say('warning', `categories or tags differ from the plan's: node tools/plan/tags.mjs ${id} --write puts them back`);
   if (fm.definition) {
     const n = words(fm.definition);
     if (n < 40 || n > 60) say('error', `definition is ${n} words: 40 to 60`);

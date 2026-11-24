@@ -6,6 +6,8 @@ description: "Soleil conjonction Mars dans un thème natal : qui vous êtes et 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Mars", "conjonction"]
 weight: 8
 glyph: "☉☌♂"
 definition: "Soleil conjonction Mars signifie une naissance dans les semaines où le Soleil passe devant Mars, à quelques degrés près. Dans un thème, qui vous êtes et votre façon d’agir ne font qu’un : le but arrive en mouvement. J’y lis une vitalité qui passe par l’effort, et une leçon : le repos ne vous rend pas moins vous-même."

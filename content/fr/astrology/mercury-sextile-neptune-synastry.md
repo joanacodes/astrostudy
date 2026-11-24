@@ -6,6 +6,8 @@ description: "Mercure sextile Neptune en synastrie : les mots de l’une et l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Neptune", "sextile", "synastrie"]
 weight: 142
 glyph: "☿⚹♆"
 definition: "Mercure sextile Neptune en synastrie unit par un angle d’environ 60°, à 3,6° près, Mercure chez une personne et Neptune chez l’autre. Mots d’un côté, imagination de l’autre : ils s’empruntent mutuellement dès que l’une des deux le demande. Je vois là une ouverture créative et douce, qui récompense qu’on s’en serve."

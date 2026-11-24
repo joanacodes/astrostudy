@@ -6,6 +6,8 @@ description: "Soleil opposition Jupiter en synastrie : la vision du monde de l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Jupiter", "opposition", "synastrie"]
 weight: 25
 glyph: "☉☍♃"
 definition: "Soleil opposition Jupiter en synastrie signifie que Jupiter, chez une personne, se trouve à environ 180° du Soleil de l’autre, à 8° près. Les convictions de l’une, et ce vers quoi elle veut grandir, font face à la direction de l’autre. J’y lis deux horizons en dialogue, jamais un concours pour savoir quel monde a raison."

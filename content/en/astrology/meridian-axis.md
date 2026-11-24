@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["meridian axis"]
 family: "angles"
+categories: ["Planets and points"]
+tags: ["angles"]
 weight: 6
 glyph: "MC/IC"
 definition: "The meridian axis is the line from the Midheaven to the Imum Coeli: the two points where the zodiac crossed your local meridian, the north–south line through the sky, when you were born. The Midheaven is not the point straight overhead. Astrologers read the axis as public life and private roots."

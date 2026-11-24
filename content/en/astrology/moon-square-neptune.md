@@ -5,6 +5,8 @@ description: "Moon square Neptune in a birth chart: what you need rubbing agains
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Neptune", "square"]
 weight: 85
 glyph: "☽□♆"
 definition: "Moon square Neptune means you were born with Neptune a quarter-circle, about 90°, from your Moon. In a chart it sets your concrete needs against your imagination and ideals, so the comfort you need and the comfort you dream of rarely match at first. I read it as friction that teaches you to name your needs."

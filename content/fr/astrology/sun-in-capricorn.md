@@ -6,6 +6,8 @@ description: "Soleil en Capricorne dans un thème natal : une identité bâtie 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Capricorne"]
 weight: 10
 glyph: "☉♑"
 definition: "Le Soleil en Capricorne est le signe solaire des naissances du solstice de décembre, vers le 22 décembre, au 19 janvier environ, en terre cardinale gouvernée par Saturne. J’y lis une identité bâtie par étapes et éprouvée par le temps, une vitalité dépensée avec soin, et un but qui consiste à construire ce qui tient, jamais à simplement grimper."

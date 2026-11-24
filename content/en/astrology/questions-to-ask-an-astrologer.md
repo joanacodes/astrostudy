@@ -5,6 +5,8 @@ description: "Questions to ask an astrologer before you pay: the birth time, the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Readings"]
+tags: ["readings"]
 weight: 27
 glyph: "✦"
 definition: "Questions to ask an astrologer are the ones that show how a reading will be made before you pay for it: which zodiac and house system they use, what they do without a birth time, what they won’t predict, whose charts they’ll read, and how sure they are. A careful astrologer answers each one plainly."

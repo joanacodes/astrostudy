@@ -5,6 +5,8 @@ description: "Moon square Saturn in synastry: one person’s needs meet the othe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Saturn", "square", "synastry"]
 weight: 83
 glyph: "☽□♄"
 definition: "Moon square Saturn in synastry means one person’s Saturn is about 90° from the other’s Moon, within 6.8°. One person’s needs keep running into the other’s caution, rules or timetable at awkward moments. I read it as friction over timing and tone, which can build a care that is both warm and dependable."

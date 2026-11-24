@@ -6,6 +6,8 @@ description: "Saturne sextile Chiron dans un thème natal : un passage entre di
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Chiron", "sextile"]
 weight: 291
 glyph: "♄⚹⚷"
 definition: "Saturne sextile Chiron met environ 60° entre Saturne et Chiron, comme chez les naissances de 1955–1959 et de 1971–1973. Dans un thème, il relie la structure et votre manière de vivre avec une difficulté durable : des routines qui rendent les choses faisables, et un soutien à sa juste mesure, pourvu que vous vous en serviez."

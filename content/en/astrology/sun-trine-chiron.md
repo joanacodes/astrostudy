@@ -5,6 +5,8 @@ description: "Sun trine Chiron in a birth chart: a tender place carried lightly,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Chiron", "trine"]
 weight: 41
 glyph: "☉△⚷"
 definition: "Sun trine Chiron means Chiron sat about 120° from the Sun when you were born. In a chart your sense of self and what you learned around a sore spot work together easily: you carry it lightly, and others feel safe with you. I read it as an ease that hides how much was learned."

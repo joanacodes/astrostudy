@@ -5,6 +5,8 @@ description: "Moon in the 5th house in a birth chart: feelings settled through p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "5th house", "houses"]
 weight: 17
 glyph: "☽"
 definition: "Moon in the 5th house means the Moon sat in the house of pleasure, play, creativity and love affairs, which tradition called Good Fortune. I read it as feelings that settle through enjoyment and take shape in what you make. It predicts nothing about children, and it needs the birth time."

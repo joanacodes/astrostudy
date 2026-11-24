@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["axe des nœuds", "nœuds lunaires"]
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["nœuds lunaires"]
 weight: 9
 glyph: "☊/☋"
 definition: "L’axe des nœuds relie le Nœud Nord et le Nœud Sud, les deux points où la route de la Lune croise celle du Soleil. Il va toujours d’un signe au signe opposé. Les astrologues y lisent une même histoire racontée par ses deux bouts : ce qui est venu tôt ou facilement, et la direction de croissance, moins familière."

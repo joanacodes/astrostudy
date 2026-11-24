@@ -5,6 +5,8 @@ description: "Moon opposite Mercury in synastry: one person carries the mood, th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Mercury", "opposition", "synastry"]
 weight: 65
 glyph: "☽☍☿"
 definition: "Moon opposite Mercury in synastry places one person’s Moon about 180° from the other’s Mercury, within 8°. Feeling and naming sit at opposite ends: one person tends to carry the mood, the other the words. I read it as a mirror in which each sees the other’s side clearly, never as heart against head."

@@ -5,6 +5,8 @@ description: "Mercury opposite Uranus in a birth chart: your reasoning facing th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Uranus", "opposition"]
 weight: 129
 glyph: "☿☍♅"
 definition: "Mercury opposite Uranus means Uranus stood straight across the zodiac from Mercury when you were born, 180° away, at the time of year when the Sun faces Uranus too. In a chart it sets your reasoning across from the unexpected view, which often reaches you through other people. I read it as a polarity to weigh, not a quarrel."

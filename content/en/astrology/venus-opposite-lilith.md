@@ -5,6 +5,8 @@ description: "Venus opposite Lilith in a birth chart: closeness and autonomy fac
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Lilith", "opposition"]
 weight: 194
 glyph: "♀☍⚸"
 definition: "Venus opposite Lilith means Venus stood about 180° from mean Black Moon Lilith at your birth. In a chart, closeness and autonomy face each other, and your own untamed side is often met first in someone else. What it teaches is intimacy without shrinking; it is never a choice between love and freedom."

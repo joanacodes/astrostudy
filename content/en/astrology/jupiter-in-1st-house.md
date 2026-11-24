@@ -5,6 +5,8 @@ description: "Jupiter in the 1st house in a birth chart: growth that shows in yo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "1st house", "houses"]
 weight: 61
 glyph: "♃"
 definition: "Jupiter in the 1st house means Jupiter was close to the Ascendant, in the house of the self you lead with. I read it as growth that shows in your presence: a manner people find encouraging, beliefs visible in how you carry yourself, and learning that happens by showing up. It needs an accurate birth time."

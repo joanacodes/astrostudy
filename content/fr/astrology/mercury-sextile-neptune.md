@@ -6,6 +6,8 @@ description: "Mercure sextile Neptune dans un thème natal : une imagination qu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Neptune", "sextile"]
 weight: 131
 glyph: "☿⚹♆"
 definition: "Mercure sextile Neptune est un lien de 60° entre les deux à la naissance, en général à deux signes d’écart : le feu avec l’air, ou la terre avec l’eau. Dans un thème, votre pensée y trouve une porte vers l’imagination, qui s’ouvre quand vous la poussez. J’y lis une occasion, pas un don qui agit tout seul."

@@ -6,6 +6,8 @@ description: "Saturne en Cancer dans un thème natal : la planète des limites 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Cancer"]
 weight: 76
 glyph: "♄♋"
 definition: "Saturne en Cancer signifie qu’à votre naissance, la planète des limites était dans le signe du soin, un signe d’eau cardinal gouverné par la Lune, là où Saturne, selon la tradition, est en exil. Ce placement date d’environ 1944–1946, 1973–1976 et 2003–2005. C’est une sécurité affective apprise lentement, et des limites qui protègent sans enfermer."

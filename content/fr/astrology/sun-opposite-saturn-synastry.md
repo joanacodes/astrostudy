@@ -6,6 +6,8 @@ description: "Soleil opposition Saturne en synastrie : l’expression de soi d�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Saturne", "opposition", "synastrie"]
 weight: 30
 glyph: "☉☍♄"
 definition: "Soleil opposition Saturne en synastrie met deux personnes sur une balançoire : Saturne, chez l’une, fait face au Soleil de l’autre à environ 180°, à 8° près, si bien que l’expression de soi rencontre la structure et que les rôles se polarisent. J’y lis liberté et responsabilité à équilibrer, jamais une compétition."

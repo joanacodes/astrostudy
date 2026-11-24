@@ -5,6 +5,8 @@ description: "Neptune in the 11th house in a birth chart: friendships touched by
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "11th house", "houses"]
 weight: 107
 glyph: "♆"
 definition: "Neptune in the 11th house means Neptune was in the house of friends, groups and hopes, the house tradition called the Good Spirit, when you were born. It brings compassionate friendships, causes and communities that move you, and hopes shared with others, along with the need to see friends and groups as they are."

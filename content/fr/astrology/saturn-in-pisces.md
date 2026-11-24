@@ -6,6 +6,8 @@ description: "Saturne en Poissons dans un thème natal : des limites apprises a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Poissons"]
 weight: 84
 glyph: "♄♓"
 definition: "Saturne en Poissons, c’est la structure face au plus illimité des signes : un signe d’eau mutable, gouverné par Neptune pour l’astrologie tropicale moderne et par Jupiter pour la tradition. C’est le signe de Saturne des personnes nées vers 1935–1938, 1964–1967 et 1993–1996, et on y lit des limites apprises autour de la compassion."

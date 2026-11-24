@@ -5,6 +5,8 @@ description: "Lilith opposite North Node in a birth chart: Lilith on the South N
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "North Node", "opposition"]
 weight: 379
 glyph: "⚸☍☊"
 definition: "Lilith opposite North Node means the mean Black Moon Lilith stood about 180° from the North Node at your birth, on the South Node. In a chart, refusing, standing apart and guarding your boundaries are practised, familiar ground; the direction of growth across the chart asks for something your refusal can’t give."

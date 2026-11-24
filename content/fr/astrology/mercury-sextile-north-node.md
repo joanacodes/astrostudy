@@ -6,6 +6,8 @@ description: "Mercure sextile Nœud Nord dans un thème natal : un esprit qui r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Nœud Nord", "sextile"]
 weight: 151
 glyph: "☿⚹☊"
 definition: "Mercure sextile Nœud Nord signifie que Mercure se tient à 60° du Nœud Nord, et donc à 120° du Nœud Sud, à la naissance. Dans un thème, votre pensée devient un pont entre des forces déjà exercées et la direction de votre croissance. J’y lis une ouverture à pratiquer, pas une promesse."

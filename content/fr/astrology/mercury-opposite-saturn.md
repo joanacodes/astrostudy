@@ -6,6 +6,8 @@ description: "Mercure opposition Saturne dans un thème natal : votre voix face
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Saturne", "opposition"]
 weight: 124
 glyph: "☿☍♄"
 definition: "Mercure opposition Saturne signifie qu’à votre naissance, Mercure et Saturne étaient à environ 180° d’écart, une configuration qu’on ne trouve qu’avec Saturne rétrograde. Dans un thème, vos idées rencontrent la structure en face : règles, exigences et autorité, souvent d’abord chez les autres. J’y lis une polarité qui aboutit à une voix porteuse de sa propre autorité."

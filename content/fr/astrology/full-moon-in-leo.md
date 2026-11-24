@@ -6,6 +6,8 @@ description: "La pleine lune en Lion, le Soleil en face en Verseau : le cœur e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "pleine lune", "Lion"]
 weight: 52
 glyph: "○♌"
 definition: "La pleine lune en Lion, c’est la Lune en Lion face au Soleil en Verseau, une fois par an, entre fin janvier et mi-février. Elle éclaire l’axe Lion–Verseau : la reconnaissance de ce que l’on est, et l’appartenance à un groupe. Dans un thème, elle compte à 1° environ d’une planète ou d’un angle, à l’un ou l’autre bout."

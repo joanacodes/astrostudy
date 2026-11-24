@@ -5,6 +5,8 @@ description: "Mars in the 4th house in a birth chart: drive that builds, fixes a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "4th house", "houses"]
 weight: 52
 glyph: "♂"
 definition: "Mars in the 4th house puts Mars at the base of the birth chart, in the house of home, roots and family that begins at the IC. It describes drive that goes into making and defending a home: building, fixing, protecting the people you live with. It needs an exact birth time and predicts no family events."

@@ -5,6 +5,8 @@ description: "Jupiter in the 7th house in a birth chart: growth through partners
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "7th house", "houses"]
 weight: 67
 glyph: "♃"
 definition: "Jupiter in the 7th house means Jupiter was near the Descendant, in the house of partners and one-to-one bonds. I read it as growth through other people: partners who widen your world, beliefs met across the table, and generosity towards those you commit to. It doesn’t predict marriage, and it needs an accurate birth time."

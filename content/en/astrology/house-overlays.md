@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["house overlays", "house overlay"]
 family: "techniques"
+categories: ["Synastry"]
+tags: ["synastry"]
 weight: 53
 glyph: "✦"
 definition: "House overlays place one person’s planets in the other person’s houses: their Venus in your 7th house, your Saturn in their 1st. Each overlay shows which area of your life the other person tends to light up or stir, and the reverse. They need your birth time, and they describe how two people meet, never what will happen."

@@ -5,6 +5,8 @@ description: "Sun square Lilith in a birth chart: who you try to be, rubbing aga
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Lilith", "square"]
 weight: 45
 glyph: "☉□⚸"
 definition: "Sun square Lilith means Black Moon Lilith and your Sun were a quarter of the zodiac apart at your birth. In a chart your sense of who you should be rubs against the part that wouldn’t obey, so you may swing between holding back and refusing. I read it as friction that teaches you to choose, never as a fault."

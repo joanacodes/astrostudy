@@ -5,6 +5,8 @@ description: "Moon trine Mercury in a birth chart: an easy road between feeling 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Mercury", "trine"]
 weight: 56
 glyph: "☽△☿"
 definition: "Moon trine Mercury means you were born with the Moon and Mercury about 120° apart, generally in two signs of one element. Feeling and thinking keep the same pace: moods find their words easily, and words can settle a mood. I read it as an ease with emotional conversation that grows by being used."

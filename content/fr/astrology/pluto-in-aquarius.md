@@ -6,6 +6,8 @@ description: "Pluton en Verseau dans un thème natal : un placement de généra
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Verseau"]
 weight: 119
 glyph: "♇♒"
 definition: "Pluton en Verseau place le changement profond parmi les groupes et les idéaux partagés, en air fixe gouverné par Uranus et traditionnellement par Saturne. L’entrée de Pluton en Verseau date de 2023, pour un séjour jusqu’en 2044 : les personnes en vie nées avec ce placement sont toutes de jeunes enfants. On y lit une génération transformée par la vie collective."

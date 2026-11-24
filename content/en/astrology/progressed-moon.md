@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["progressed Moon"]
 family: "techniques"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressions"]
 weight: 49
 glyph: "☽"
 definition: "The progressed Moon is the Moon of your secondary progressed chart, where each day after birth stands for a year of life. It moves about a degree a month, spends two to two and a half years in each sign and goes round in about 27 years. I read it as the mood and needs of a chapter."

@@ -5,6 +5,8 @@ description: "The new moon in Leo: the Sun at home, its dates from 2026 to 2030,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "new moon", "Leo"]
 weight: 40
 glyph: "●♌"
 definition: "The new moon in Leo falls while the Sun is in Leo, between about 23 July and 22 August: the Sun and Moon together in fixed fire, the Sun’s own sign. In 2026 and 2027 it is a total solar eclipse. I read it as a marker for warmth and being seen, counted within a degree of a natal point."

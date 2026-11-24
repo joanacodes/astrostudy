@@ -5,6 +5,8 @@ description: "Saturn sextile Pluto in a birth chart: deep change in workable ste
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Pluto", "sextile"]
 weight: 286
 glyph: "♄⚹♇"
 definition: "Saturn sextile Pluto means Saturn and Pluto were about 60° apart at birth, as in four runs of births between 1942 and 1990. In a chart it lets the capacity to build and the capacity to transform cooperate: a deep change can be planned, broken into steps and carried through, provided you take the opening."

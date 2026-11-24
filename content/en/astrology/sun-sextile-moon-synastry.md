@@ -5,6 +5,8 @@ description: "Sun sextile Moon in synastry: one person’s direction and the oth
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Moon", "sextile", "synastry"]
 weight: 2
 glyph: "☉⚹☽"
 definition: "Sun sextile Moon in synastry means one person’s Sun is about 60° from the other’s Moon, within 4.8°. One person’s direction and the other’s needs can help each other in small, daily ways. I read it as quiet help running both ways, easy to leave unused unless someone asks."

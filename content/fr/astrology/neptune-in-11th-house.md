@@ -6,6 +6,8 @@ description: "Neptune en maison 11 dans un thème natal : des amitiés touchée
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "maison 11", "maisons"]
 weight: 107
 glyph: "♆"
 definition: "Neptune en maison 11 signifie que Neptune se trouvait, à votre naissance, dans la maison des amitiés, des groupes et des espoirs, celle que la tradition appelait le Génie favorable. On y lit des amitiés pleines de compassion, des causes et des communautés qui vous émeuvent, des espoirs partagés, et le besoin de voir amitiés et groupes tels qu’ils sont."

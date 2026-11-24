@@ -6,6 +6,8 @@ description: "Mercure en Cancer dans un thème natal : un esprit qui pense par 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Cancer"]
 weight: 28
 glyph: "☿♋"
 definition: "Mercure en Cancer place la planète de la pensée et de la parole en eau cardinale, le signe de la Lune. On y lit un esprit qui pense par la mémoire, le ressenti et le contexte, entend le ton sous les mots et garde longtemps les conversations, et qui apprend mieux en sécurité. Environ 1 personne sur 13 l’a."

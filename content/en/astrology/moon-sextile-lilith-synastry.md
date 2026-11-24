@@ -5,6 +5,8 @@ description: "Moon sextile Lilith in synastry: one person’s comfort makes room
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Lilith", "sextile", "synastry"]
 weight: 107
 glyph: "☽⚹⚸"
 definition: "Moon sextile Lilith in synastry means one person’s Moon is about 60° from the other’s mean Black Moon Lilith, within 4.8°. One person’s comfort offers a safe setting for the other’s untamed side, and that side offers permission in return. To me it’s an invitation that helps both people, the moment one of them takes it up."

@@ -5,6 +5,8 @@ description: "Saturn square Pluto in a birth chart: holding on and renewing in f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Pluto", "square"]
 weight: 287
 glyph: "♄□♇"
 definition: "Saturn square Pluto sets the two planets at right angles, about 90° apart and usually in one modality, as for five runs of births from 1939 to 2009. In a chart the urge to keep a structure standing and the urge to transform it press against each other: a friction that builds endurance rather than breaking things."

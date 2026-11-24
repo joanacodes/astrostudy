@@ -5,6 +5,8 @@ description: "Sun square Mars in a birth chart: a strong will learning where to 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Mars", "square"]
 weight: 10
 glyph: "☉□♂"
 definition: "Sun square Mars means that at your birth Mars stood about 90° from the Sun, three signs away and usually in the same modality. In a chart, your purpose and your drive push at an angle to each other. I read it as a strong will learning its own strength: friction that, over time, teaches you where to aim."

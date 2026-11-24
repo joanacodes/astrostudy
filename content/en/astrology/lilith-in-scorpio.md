@@ -5,6 +5,8 @@ description: "Lilith in Scorpio in a birth chart: depth you learned to keep unde
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Scorpio"]
 weight: 140
 glyph: "⚸♏"
 definition: "Lilith in Scorpio means Black Moon Lilith, the Moon’s farthest point from Earth, was in fixed water, the sign of Pluto and, traditionally, Mars, when you were born. I read it as an intensity of feeling and perception you learned to keep below the surface, and a refusal of pretence: the truth, or nothing much."

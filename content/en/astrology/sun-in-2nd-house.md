@@ -5,6 +5,8 @@ description: "Sun in the 2nd house in a birth chart: an identity worked out thro
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "2nd house", "houses"]
 weight: 2
 glyph: "☉"
 definition: "Sun in the 2nd house means the Sun sat in the house of resources and values when you were born, deep below the horizon in the small hours of the night. I read it as an identity worked out through what you build, keep and value, and a lesson in telling worth from price. It needs the birth time."

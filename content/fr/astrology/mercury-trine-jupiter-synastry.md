@@ -6,6 +6,8 @@ description: "Mercure trigone Jupiter en synastrie : la façon d’apprendre de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Jupiter", "trigone", "synastrie"]
 weight: 129
 glyph: "☿△♃"
 definition: "Mercure trigone Jupiter en synastrie signifie qu’environ 120° séparent Mercure, chez une personne, de Jupiter, chez l’autre, à 5,1° près. La façon d’apprendre de la première et la quête de sens de la seconde avancent au même pas. J’y lis un échange encourageant, à condition de questionner encore ce sur quoi vous êtes d’accord."

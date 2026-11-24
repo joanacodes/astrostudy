@@ -6,6 +6,8 @@ description: "Mars opposition Lilith dans un thème natal : l’élan à un bou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Lilith", "opposition"]
 weight: 234
 glyph: "♂☍⚸"
 definition: "Mars opposition Lilith signifie qu’à votre naissance, Mars faisait face à la Lune noire Lilith, à environ 180°, de part et d’autre de votre thème. Votre élan fait face à votre part indomptée : la force que personne n’a pu apprivoiser en vous se montre souvent en premier chez quelqu’un d’autre. Cet axe est à vous, à reconnaître et à équilibrer."

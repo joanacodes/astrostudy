@@ -6,6 +6,8 @@ description: "Soleil en Bélier, Lune en Vierge : un quinconce par signe, le pr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier", "Lune", "Vierge"]
 weight: 6
 glyph: "☉♈☽♍"
 definition: "Soleil en Bélier, Lune en Vierge réunit deux signes qui n’ont rien en commun, le feu et la terre, à cinq signes d’écart, pour une naissance dix à quinze jours après une nouvelle lune. J’y lis le premier jet et la relecture attentive chez la même personne : un moi qui démarre vite, des besoins qui s’apaisent quand c’est bien fait."

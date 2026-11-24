@@ -6,6 +6,8 @@ description: "Soleil en Taureau, Lune en Cancer : les deux luminaires sur le te
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Taureau", "Lune", "Cancer"]
 weight: 16
 glyph: "☉♉☽♋"
 definition: "Soleil en Taureau, Lune en Cancer place la Lune dans son propre signe et le Soleil dans le signe de l’exaltation de la Lune, deux jours et demi à sept jours après une nouvelle lune. J’y lis une vie organisée autour de la sécurité : un moi qui bâtit et garde, des besoins qui protègent, se souviennent et font un foyer."

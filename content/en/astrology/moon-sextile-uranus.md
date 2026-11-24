@@ -5,6 +5,8 @@ description: "Moon sextile Uranus in a birth chart: room to change, offered to y
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Uranus", "sextile"]
 weight: 79
 glyph: "☽⚹♅"
 definition: "Moon sextile Uranus means you were born with the Moon a sixth of the circle from Uranus, about 60°, usually two signs on or two back. It lets your need for comfort and your appetite for change help each other: new things can settle you, once you let them in. The opening is real, and waits to be used."

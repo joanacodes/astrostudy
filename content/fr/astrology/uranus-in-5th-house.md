@@ -6,6 +6,8 @@ description: "Uranus en maison 5 dans un thème natal : une créativité qui ex
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "maison 5", "maisons"]
 weight: 89
 glyph: "♅"
 definition: "Uranus en maison 5 place la planète du changement dans la maison de la création, du jeu, du plaisir et de l’amour, une maison succédente dont le signe naturel est le Lion. J’y lis un plaisir qui a besoin de nouveauté et une créativité qui s’éveille en expérimentant. Rien n’y concerne les enfants, et la maison demande l’heure de naissance."

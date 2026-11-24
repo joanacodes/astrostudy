@@ -5,6 +5,8 @@ description: "Sun opposite Moon in a birth chart: born at a full moon, purpose a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Moon", "opposition"]
 weight: 5
 glyph: "☉☍☽"
 definition: "Sun opposite Moon means a full-moon birth: the Sun and Moon about 180° apart, in opposite signs. In a chart, purpose and need sit at the two ends of one axis. I read it as polarity and awareness: each end lights the other, and the work is balance."

@@ -5,6 +5,8 @@ description: "Sun sextile Jupiter in a birth chart: openings for growth your pur
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Jupiter", "sextile"]
 weight: 14
 glyph: "☉⚹♃"
 definition: "Sun sextile Jupiter is the 60° aspect between the two: Jupiter two signs from your Sun, usually in an element that complements it. In a chart, purpose and the urge to grow open doors for each other. I read it as openings you can actually use, as long as you walk through them."

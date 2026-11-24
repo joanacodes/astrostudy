@@ -5,6 +5,8 @@ description: "Uranus sextile Neptune in a birth chart: an opening between invent
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Neptune", "sextile"]
 weight: 306
 glyph: "♅⚹♆"
 definition: "Uranus sextile Neptune is a 60° angle between the two planets, in orb on and off from 1963 to 1970, mostly with Uranus in Virgo and Neptune in Scorpio. In a chart, invention and imagination open doors for each other, provided you use them. A generation shares it; your houses make it personal."

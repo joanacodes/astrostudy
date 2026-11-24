@@ -5,6 +5,8 @@ description: "Mercury opposite Neptune in synastry: one person’s plain facts f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Neptune", "opposition", "synastry"]
 weight: 145
 glyph: "☿☍♆"
 definition: "Mercury opposite Neptune in synastry holds one person’s Mercury and the other’s Neptune about 180° apart, within 6°. Facts and words on one side face imagination and feeling on the other, and each makes the other’s way of knowing visible. I read it as a balance between the literal and the imagined, one both can learn to keep."

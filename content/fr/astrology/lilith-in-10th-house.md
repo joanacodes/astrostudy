@@ -6,6 +6,8 @@ description: "Lilith en maison 10 dans un thème natal : la part cachée devenu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "maison 10", "maisons"]
 weight: 142
 glyph: "⚸"
 definition: "Lilith en maison 10 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la maison qui commence au Milieu du Ciel. J’y lis la part cachée qui devient publique, dans votre carrière et votre réputation, et le refus de bâtir une vie publique sur le plan d’autrui."

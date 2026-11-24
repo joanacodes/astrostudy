@@ -5,6 +5,8 @@ description: "Sun in Aries, Moon in Sagittarius: fire trine fire, born under a w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries", "Moon", "Sagittarius"]
 weight: 9
 glyph: "☉♈☽♐"
 definition: "Sun in Aries, Moon in Sagittarius is a fire-on-fire pairing born under a waning Moon, seventeen to twenty-two days after a new moon, the Moon four signs behind the Sun. I read the pair as enthusiasm with a long view: a self that comes alive by starting and needs that settle when there is room ahead."

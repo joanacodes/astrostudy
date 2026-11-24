@@ -6,6 +6,8 @@ description: "Mars sextile Jupiter dans un thème natal : l’énergie et le bu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Jupiter", "sextile"]
 weight: 201
 glyph: "♂⚹♃"
 definition: "Mars sextile Jupiter signifie qu’à votre naissance, Mars et Jupiter étaient à environ 60° d’écart, en général dans des signes d’éléments complémentaires. Votre énergie et votre sens du but coopèrent : agir selon ce que vous croyez se passe souvent bien, dès que vous agissez. J’y lis une porte qui s’ouvre volontiers, et l’aspect le plus fréquent de cette paire."

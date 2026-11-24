@@ -6,6 +6,8 @@ description: "L’astrologie peut-elle prédire la santé ? Non : un thème n
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Lectures"]
+tags: ["limites de l’astrologie"]
 weight: 57
 glyph: "✦"
 definition: "Non. Un thème natal ne peut ni diagnostiquer une maladie, ni la prévoir, ni dire quelle sera votre santé, et aucun transit ne rend malade. L’astrologie s’y est essayée autrefois, certains s’y essaient encore ; moi, je ne lis pas la santé. Un thème peut décrire votre façon de prendre soin de vous. Les symptômes et les inquiétudes relèvent d’un médecin."

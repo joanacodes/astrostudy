@@ -5,6 +5,8 @@ description: "Mercury square Jupiter in a birth chart: details and the big pictu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Jupiter", "square"]
 weight: 117
 glyph: "☿□♃"
 definition: "Mercury square Jupiter means Mercury and Jupiter were about 90° apart when you were born. In a chart the facts you gather and the meaning you draw from them pull across each other: big conclusions from small details, or details that won’t fit the vision. I read it as friction that grows a sense of proportion."

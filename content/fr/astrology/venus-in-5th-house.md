@@ -6,6 +6,8 @@ description: "Vénus en maison 5 dans un thème natal : Vénus dans sa joie, le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "maison 5", "maisons"]
 weight: 41
 glyph: "♀"
 definition: "Vénus en maison 5 place la planète du plaisir et de l’attirance dans la maison de la créativité, du jeu et des amours, que la tradition lui donnait pour joie. On y lit une joie qui vient facilement, une façon d’aimer généreuse et joueuse, et une créativité qui se nourrit du plaisir. Comme toute maison, elle demande l’heure."

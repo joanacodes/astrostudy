@@ -6,6 +6,8 @@ description: "Vénus opposition Pluton dans un thème natal : ce que vous aimez
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Pluton", "opposition"]
 weight: 184
 glyph: "♀☍♇"
 definition: "Vénus opposition Pluton signifie qu’à votre naissance, Vénus et Pluton étaient à environ 180° d’écart. Dans un thème, ce que vous aimez et l’élan de transformer se font face : l’intensité arrive souvent par les autres d’abord, et demande à être partagée équitablement. J’y lis un équilibre appris dans les liens proches, jamais une lutte pour le contrôle."

@@ -6,6 +6,8 @@ description: "Soleil carré Nœud Nord en synastrie : l’une se tient en trave
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Nœud Nord", "carré", "synastrie"]
 weight: 58
 glyph: "☉□☊"
 definition: "Soleil carré Nœud Nord en synastrie met le Soleil d’une personne à environ 90°, à 6,8° près, des deux nœuds de l’autre. Ce Soleil se tient en travers de son chemin, ni sur son terrain familier ni sur son prochain pas. J’y lis une friction qui oblige sa croissance à faire une place à quelqu’un."

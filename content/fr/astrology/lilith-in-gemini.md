@@ -6,6 +6,8 @@ description: "Lilith en Gémeaux dans un thème natal : la question qu’il ne 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Gémeaux"]
 weight: 135
 glyph: "⚸♊"
 definition: "Lilith en Gémeaux place la Lune noire Lilith, le point de l’orbite lunaire le plus éloigné de la Terre, dans l’air mutable du signe de Mercure. J’y lis une curiosité allée plus loin qu’on ne le permettait — des questions, des contradictions, plusieurs visages — et le refus de tenir dans une seule phrase."

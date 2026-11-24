@@ -6,6 +6,8 @@ description: "Neptune en maison 12 dans un thème natal : la maison de son prop
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "maison 12", "maisons"]
 weight: 108
 glyph: "♆"
 definition: "Neptune en maison 12 : à votre naissance, Neptune se trouvait dans la maison de la solitude, du repos et de ce qui se passe loin des regards, maison des Poissons, que Neptune gouverne. On y lit une vie intérieure profonde, une compassion silencieuse, un vrai besoin de retrait. La tradition y plaçait l’enfermement ; je n’en prédis aucun."

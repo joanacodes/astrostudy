@@ -6,6 +6,8 @@ description: "Pluton conjonction Lilith dans un thème natal : le renouveau en 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Lilith", "conjonction"]
 weight: 355
 glyph: "♇☌⚸"
 definition: "Pluton conjonction Lilith signifie qu’à votre naissance, Pluton et la Lune noire Lilith moyenne se trouvaient à quelques degrés près au même endroit. Dans un thème, le renouveau en profondeur et la part de vous mise de côté, ou qui refusait d’être domptée, agissent ensemble : reprendre cette part, c’est souvent votre façon de changer. C’est intense, sans rien d’inquiétant."

@@ -6,6 +6,8 @@ description: "Nœud Nord en Scorpion dans un thème natal : ouvrir une main qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "Scorpion"]
 weight: 152
 glyph: "☊♏"
 definition: "Nœud Nord en Scorpion signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans ce signe d’eau fixe, le Nœud Sud en Taureau. J’y lis une croissance vers la profondeur : la confiance, l’intimité, un changement accueilli plutôt que subi, après une longue habitude de garder ce qui rassure."

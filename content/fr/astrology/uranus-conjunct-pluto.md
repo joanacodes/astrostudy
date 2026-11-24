@@ -6,6 +6,8 @@ description: "Uranus conjonction Pluton dans un thème natal : la rencontre en 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Pluton", "conjonction"]
 weight: 310
 glyph: "♅☌♇"
 definition: "Uranus conjonction Pluton, c’est la rencontre des deux planètes, à quelques degrés près. Elle a eu lieu en Vierge entre 1963 et 1968 : toute une génération la partage. Dans un thème, elle fond ensemble l’envie de rompre un vieux schéma et celle de renouveler à la racine ; sa maison montre où cela se joue dans votre vie."

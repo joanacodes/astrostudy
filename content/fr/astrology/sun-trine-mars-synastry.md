@@ -6,6 +6,8 @@ description: "Soleil trigone Mars en synastrie : l’énergie de l’une suit l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Mars", "trigone", "synastrie"]
 weight: 19
 glyph: "☉△♂"
 definition: "Soleil trigone Mars en synastrie signifie que Mars, chez une personne, se trouve à environ 120° du Soleil de l’autre, à 6,8° près, en général dans un même élément. L’effort de l’une va dans le sens où l’autre avance déjà. J’y lis un élan partagé, à son meilleur quand on s’arrête aussi pour vérifier où il mène."

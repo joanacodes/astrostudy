@@ -6,6 +6,8 @@ description: "Soleil en Taureau, Lune en Taureau : un double Taureau né près 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Taureau", "Lune"]
 weight: 14
 glyph: "☉♉☽♉"
 definition: "Soleil en Taureau, Lune en Taureau, c’est le double Taureau : la Lune dans son exaltation à côté d’un Soleil du même signe, pour une naissance juste avant ou juste après une nouvelle lune. J’y lis une seule racine profonde : ce que vous bâtissez et ce qui vous réconforte ont la même matière lente, et Vénus répond des deux."

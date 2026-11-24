@@ -5,6 +5,8 @@ description: "Libra rising: the other person at the door, Venus as your chart ru
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "rising sign", "Libra"]
 weight: 7
 glyph: "↑♎"
 definition: "Libra rising means Libra, the cardinal air sign ruled by Venus, was rising on the eastern horizon at your birth: your Ascendant is in Libra. It describes a tactful, sociable way of meeting the world, one that looks for common ground. In the north it rises slowly, taking nearly three hours at London."

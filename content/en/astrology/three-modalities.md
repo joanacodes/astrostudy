@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["modalities"]
 family: "foundations"
+categories: ["Foundations"]
+tags: ["modalities", "birth chart"]
 weight: 16
 glyph: "♈♉♊"
 definition: "The three modalities, cardinal, fixed and mutable, describe the pace of each sign: cardinal signs start things, fixed signs hold them, mutable signs adapt them. Four signs share each one, and in the tropical zodiac they follow the seasons: cardinal signs open them, fixed signs hold their middle, mutable signs carry each into the next."

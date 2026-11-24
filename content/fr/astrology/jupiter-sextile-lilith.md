@@ -6,6 +6,8 @@ description: "Jupiter sextile Lilith dans un thème natal : une croissance qui 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Lilith", "sextile"]
 weight: 266
 glyph: "♃⚹⚸"
 definition: "Jupiter sextile Lilith désigne un écart d’environ 60° entre Jupiter et la Lune noire Lilith. Dans un thème, ce qui élargit votre vie (études, voyages, nouvelles rencontres) offre une issue à la part que vous avez appris à cacher, si vous la prenez. J’y lis une porte de côté vers une croissance plus libre."

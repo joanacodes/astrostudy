@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["axe du méridien"]
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["angles"]
 weight: 6
 glyph: "MC/FC"
 definition: "L’axe du méridien va du Milieu du Ciel au Fond du Ciel : les deux points où le zodiaque croisait votre méridien local, la ligne nord-sud du ciel, au moment de votre naissance. Le Milieu du Ciel n’est pas le point situé juste au-dessus de la tête. Les astrologues y lisent la vie publique et les racines intimes."

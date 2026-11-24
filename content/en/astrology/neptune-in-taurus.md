@@ -5,6 +5,8 @@ description: "Neptune in Taurus in a birth chart: dreams of beauty and solid gro
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Taurus"]
 weight: 98
 glyph: "♆♉"
 definition: "Neptune in Taurus is Neptune, the planet of imagination and longing, in the fixed earth sign of the senses and steady value. Nobody alive today was born with it: Neptune was last there from 1874 to 1889 and returns from 2038 to 2052. It describes a dream of beauty found in the material world: land, craft, music, a slower life."

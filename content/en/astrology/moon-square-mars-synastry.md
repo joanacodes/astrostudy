@@ -5,6 +5,8 @@ description: "Moon square Mars in synastry: one person moves fast while the othe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Mars", "square", "synastry"]
 weight: 73
 glyph: "☽□♂"
 definition: "In Moon square Mars in synastry, a quarter of the zodiac, give or take 6.8°, separates one person’s Moon from the other’s Mars. The pace of one keeps catching on the needs of the other. To me it’s friction that shows two people where their limits are before they’re crossed, not bad temper."

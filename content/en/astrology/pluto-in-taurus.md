@@ -5,6 +5,8 @@ description: "Pluto in Taurus in a birth chart: Pluto in detriment, deep change 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Taurus"]
 weight: 110
 glyph: "♇♉"
 definition: "Pluto in Taurus is Pluto in detriment in modern tropical astrology: deep change in fixed earth, the sign Venus rules. Births from 1851 to 1884 have it, as will births from 2095 to 2129, but none from 1930 to 2009. It describes a slow, thorough transformation of what a generation owns and values."

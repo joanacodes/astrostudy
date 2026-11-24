@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["big three"]
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 24
 glyph: "☉☽AC"
 definition: "The big three are your Sun sign, Moon sign and rising sign, the three placements people usually share first. The Sun shows what you are aiming for, the Moon what you need to feel safe, the rising sign how you meet the world. Together they make a first sketch of a birth chart, never the whole of it."

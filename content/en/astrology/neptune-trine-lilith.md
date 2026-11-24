@@ -5,6 +5,8 @@ description: "Neptune trine Lilith in a birth chart: a wild side at home in imag
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Lilith", "trine"]
 weight: 343
 glyph: "♆△⚸"
 definition: "Neptune trine Lilith joins Neptune and the mean Black Moon Lilith at about 120°, a trine about 1 person in 15 has. In a chart, imagination and your untamed side flow together easily: the wild part finds a home in art, dreams or belief without much of a fight."

@@ -6,6 +6,8 @@ description: "Soleil sextile Saturne dans un thème natal : la patience et la s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Saturne", "sextile"]
 weight: 19
 glyph: "☉⚹♄"
 definition: "Soleil sextile Saturne relie votre Soleil et Saturne à environ 60°, à deux signes, en général dans des éléments qui s’accordent. Dans un thème, la structure et la patience sont à la disposition de votre but. J’y lis l’aide lente : une discipline sur laquelle s’appuyer, dès que vous le choisissez."

@@ -6,6 +6,8 @@ description: "Vénus conjonction Chiron dans un thème natal : ce que vous aime
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Chiron", "conjonction"]
 weight: 185
 glyph: "♀☌⚷"
 definition: "Vénus conjonction Chiron signifie qu’à votre naissance, Vénus et Chiron étaient à quelques degrés d’écart. Dans un thème, ce que vous aimez et votre façon de vous adapter autour d’une sensibilité durable ne font qu’un : la valeur et l’affection sont tendres, et le lien devient un savoir-faire. J’y lis une sensibilité qui est un contexte, jamais ce que vous êtes."

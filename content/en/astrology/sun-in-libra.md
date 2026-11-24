@@ -5,6 +5,8 @@ description: "Sun in Libra in a birth chart: the Sun in its fall, a self that co
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra"]
 weight: 7
 glyph: "☉♎"
 definition: "Sun in Libra is the Sun sign for births from about 23 September to 22 October, starting at the September equinox: the Sun’s fall, in cardinal air ruled by Venus. I read it as an identity that comes into focus through proportion and judgement, a vitality restored by harmony, and a purpose found in making things fair."

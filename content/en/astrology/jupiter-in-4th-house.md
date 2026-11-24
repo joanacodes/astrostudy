@@ -5,6 +5,8 @@ description: "Jupiter in the 4th house in a birth chart: growth that starts at h
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "4th house", "houses"]
 weight: 64
 glyph: "♃"
 definition: "Jupiter in the 4th house means Jupiter was near the Imum Coeli, in the house of home, roots and the private self. I read it as growth from the foundation: beliefs that took root at home, learning that happens in private, and a home that tends to have room for others. It needs an accurate birth time."

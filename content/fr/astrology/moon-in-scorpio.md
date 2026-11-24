@@ -6,6 +6,8 @@ description: "Lune en Scorpion dans un thème natal : la chute de la Lune lue a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Scorpion"]
 weight: 20
 glyph: "☽♏"
 definition: "La Lune en Scorpion signifie que la Lune se trouvait en Scorpion à votre naissance, le signe que la tradition appelle sa chute. J’y lis des émotions profondes, gardées pour soi et longtemps, une confiance qui vient lentement puis entièrement, et un besoin d’honnêteté dans les quelques liens qui comptent le plus."

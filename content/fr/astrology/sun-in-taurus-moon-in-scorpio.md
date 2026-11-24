@@ -6,6 +6,8 @@ description: "Soleil en Taureau, Lune en Scorpion : signes fixes opposés, exal
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Taureau", "Lune", "Scorpion"]
 weight: 20
 glyph: "☉♉☽♏"
 definition: "Soleil en Taureau, Lune en Scorpion place les luminaires dans deux signes fixes opposés, près de la pleine lune du mois du Taureau, sur l’axe où la tradition exalte la Lune et lui donne sa chute. J’y lis une stabilité en surface et une grande profondeur dessous : un moi bâti sur le solide, des besoins qui veulent du vrai."

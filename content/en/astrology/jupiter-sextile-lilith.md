@@ -5,6 +5,8 @@ description: "Jupiter sextile Lilith in a birth chart: growth that gives the hid
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Lilith", "sextile"]
 weight: 266
 glyph: "♃⚹⚸"
 definition: "Jupiter sextile Lilith means Jupiter and Black Moon Lilith about 60° apart. In a chart, whatever widens your life, from study to travel to new company, offers the part you learned to hide a way out, if you take it. I read it as a side door to a freer, more honest kind of growth, opened gradually."

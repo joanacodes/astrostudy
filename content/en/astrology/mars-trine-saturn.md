@@ -5,6 +5,8 @@ description: "Mars trine Saturn in a birth chart: effort and patience in step, i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Saturn", "trine"]
 weight: 208
 glyph: "♂△♄"
 definition: "Mars trine Saturn sets Mars and Saturn about 120° apart in a birth chart, usually in two signs of one element. In a chart it lets drive and discipline move together: effort comes steady, paced and practical, and long tasks feel possible. I read it as a reliable stamina, best used on purpose rather than left to habit."

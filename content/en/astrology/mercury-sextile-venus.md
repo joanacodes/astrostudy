@@ -5,6 +5,8 @@ description: "Mercury sextile Venus in a birth chart: the two on either side of 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Venus", "sextile"]
 weight: 109
 glyph: "☿⚹♀"
 definition: "Mercury sextile Venus means Mercury and Venus were about 60° apart when you were born, one on each side of the Sun, the widest major aspect they can make. In a chart, thought and taste stay distinct and help each other when asked. I read it as an opening for well-chosen words."

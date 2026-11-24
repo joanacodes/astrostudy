@@ -5,6 +5,8 @@ description: "Chiron in Aries in a birth chart: courage that had to be built by 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Aries"]
 weight: 121
 glyph: "⚷♈"
 definition: "Chiron in Aries means Chiron was crossing the first sign of the zodiac when you were born: from April 1968 to March 1977, or from April 2018 to April 2027. In a chart it describes adapting by doing — finding the nerve to begin around a tender spot in confidence, rather than waiting for the doubt to leave first."

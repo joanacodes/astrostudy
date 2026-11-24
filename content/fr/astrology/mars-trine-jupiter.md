@@ -6,6 +6,8 @@ description: "Mars trigone Jupiter dans un thème natal : un effort qui grandit
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Jupiter", "trigone"]
 weight: 203
 glyph: "♂△♃"
 definition: "Mars trigone Jupiter signifie qu’à votre naissance, Mars et Jupiter étaient à environ 120° d’écart, en général dans des signes du même élément. Dans un thème, l’effort et le sens s’y nourrissent : vous agissez volontiers selon vos convictions, et agir élargit votre compréhension. J’y lis un vent porteur pour l’effort qui a un but, pas de la chance."

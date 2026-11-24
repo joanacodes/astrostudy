@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["8th house", "eighth house"]
 family: "houses"
+categories: ["Houses"]
+tags: ["8th house"]
 weight: 8
 glyph: "VIII"
 definition: "The 8th house is the eighth of the twelve houses of a birth chart, just after the house of partners. Tradition gave it death and inheritance; astrologers today read it as intimacy and trust, and what you share with others or owe them — joint money, debts, the closeness that changes you."

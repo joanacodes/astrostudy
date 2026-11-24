@@ -5,6 +5,8 @@ description: "Venus conjunct North Node in a birth chart: what you value on the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "North Node", "conjunction"]
 weight: 195
 glyph: "♀☌☊"
 definition: "Venus conjunct North Node means Venus stood within a few degrees of the North Node at your birth, and so opposite the South Node. In a chart, what you value and how you relate sit on your growing edge: capacities you build by practice. I read it as development through relationships, never as destiny or a promised partner."

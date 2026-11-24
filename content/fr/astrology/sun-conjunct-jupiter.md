@@ -6,6 +6,8 @@ description: "Soleil conjonction Jupiter dans un thème natal : l’identité e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Jupiter", "conjonction"]
 weight: 13
 glyph: "☉☌♃"
 definition: "Soleil conjonction Jupiter, c’est la rencontre du Soleil et de Jupiter à quelques degrés, en général dans un même signe, un peu plus d’une fois par an. Dans un thème, votre identité et votre envie de grandir ne font qu’un : vous devenez vous-même en élargissant votre monde. J’y lis une générosité d’esprit, dont la leçon est la mesure."

@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["11th house", "eleventh house"]
 family: "houses"
+categories: ["Houses"]
+tags: ["11th house"]
 weight: 11
 glyph: "XI"
 definition: "The 11th house is the eleventh of the twelve houses of a birth chart. Astrologers read it as friends, groups and hopes: the people you build a future with, and the future you'd like to build. Tradition called it the Good Spirit, and Jupiter has its joy there."

@@ -6,6 +6,8 @@ description: "Mars carré Jupiter dans un thème natal : l’effort et le sens 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Jupiter", "carré"]
 weight: 202
 glyph: "♂□♃"
 definition: "Mars carré Jupiter signifie qu’à votre naissance, Mars et Jupiter étaient à environ 90° d’écart, en général dans des signes du même mode. L’envie d’agir et l’envie de comprendre vérifient sans cesse la taille l’une de l’autre : grands projets, gestes rapides, puis ajustement. J’y lis un apprentissage de la mesure, jamais de l’imprudence."

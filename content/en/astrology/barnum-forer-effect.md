@@ -5,6 +5,8 @@ description: "The Barnum or Forer effect: why a vague personality sketch feels w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["testing"]
 weight: 7
 glyph: "✦"
 definition: "The Barnum effect, or Forer effect, is the tendency to rate a personality description as highly accurate when you believe it was written for you, even though it is vague enough to fit almost anyone. Bertram Forer showed it in a classroom in 1948. It partly explains why astrology’s descriptions can feel true."

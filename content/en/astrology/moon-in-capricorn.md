@@ -5,6 +5,8 @@ description: "Moon in Capricorn in a birth chart: the Moon’s detriment, read g
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Capricorn"]
 weight: 22
 glyph: "☽♑"
 definition: "Moon in Capricorn means the Moon was in Capricorn at your birth, the sign tradition calls its detriment. I read it as safety found in structure and responsibility, feelings handled by taking charge and let out once things are secure, and love shown through reliability rather than words."

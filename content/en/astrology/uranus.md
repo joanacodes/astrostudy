@@ -5,6 +5,8 @@ description: "Uranus in astrology: the planet of change in a birth chart, in eac
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planets and points"]
+tags: ["Uranus"]
 weight: 8
 glyph: "♅"
 definition: "Uranus is the seventh planet from the Sun, found by William Herschel in 1781, and in astrology the planet of change, freedom and surprise. Its sign is shared by everyone born over about seven years; its house and its contacts to your personal planets show where you need room to live your own way."

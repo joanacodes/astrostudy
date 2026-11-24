@@ -6,6 +6,8 @@ description: "L’écliptique en astrologie : la route annuelle du Soleil, la l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: []
 weight: 7
 glyph: "☉"
 definition: "L’écliptique est la route apparente du Soleil dans le ciel au fil de l’année, le plan de l’orbite terrestre vu sur le fond des étoiles. La Lune et les planètes restent près de lui, et le zodiaque est posé dessus : chaque position d’un thème natal, l’ascendant compris, est un point de l’écliptique."

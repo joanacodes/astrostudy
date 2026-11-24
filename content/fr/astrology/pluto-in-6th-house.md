@@ -6,6 +6,8 @@ description: "Pluton en maison 6 dans un thème natal : le travail quotidien, l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "maison 6", "maisons"]
 weight: 114
 glyph: "♇"
 definition: "Pluton en maison 6 laisse le changement profond se faire dans les jours ordinaires : le travail quotidien, les routines, le service et les collègues. On y lit un rapport intense au travail et une vie renouvelée par ce qui se fait chaque jour, jamais, dans une vie d’adulte, une prédiction de maladie. Il faut l’heure de naissance."

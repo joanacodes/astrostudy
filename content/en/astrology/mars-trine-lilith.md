@@ -5,6 +5,8 @@ description: "Mars trine Lilith in a birth chart: drive and the untamed side in 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Lilith", "trine"]
 weight: 233
 glyph: "♂△⚸"
 definition: "Mars trine Lilith means you were born with Mars about 120° from Black Moon Lilith, most often in two signs of one element. Drive and the untamed side agree, so acting on your own terms costs little inner fight. I read it as an ease with your instincts that is worth using on purpose."

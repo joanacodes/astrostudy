@@ -5,6 +5,8 @@ description: "North Node in Leo in a birth chart: letting yourself be seen, with
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "Leo"]
 weight: 149
 glyph: "☊♌"
 definition: "North Node in Leo means the North Node, the Moon’s northward crossing of the Sun’s path, was in the Sun’s own sign when you were born, with the South Node in Aquarius. I read it as a direction towards being seen: making something of your own and letting your warmth show, after years of blending into the group."

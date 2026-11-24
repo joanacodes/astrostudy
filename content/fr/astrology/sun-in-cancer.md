@@ -6,6 +6,8 @@ description: "Soleil en Cancer dans un thème natal : le Soleil dans le signe d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Cancer"]
 weight: 4
 glyph: "☉♋"
 definition: "Le Soleil en Cancer est le signe solaire des naissances du solstice de juin, vers le 21 juin, au 22 juillet environ : le Soleil dans le seul signe que gouverne la Lune. J’y lis une identité liée au sentiment de sécurité, une vitalité qui revient au foyer, et un but qui se renforce quand il protège ce qu’il aime."

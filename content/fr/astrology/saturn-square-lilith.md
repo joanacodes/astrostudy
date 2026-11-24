@@ -6,6 +6,8 @@ description: "Saturne carré Lilith dans un thème natal : friction entre les r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Lilith", "carré"]
 weight: 297
 glyph: "♄□⚸"
 definition: "Saturne carré Lilith place Saturne et la Lune noire Lilith moyenne à environ 90° à la naissance, en général dans des signes du même mode. Dans un thème, l’autorité et votre instinct d’autonomie frottent l’un contre l’autre : une friction qui apprend quelles règles protègent quelque chose et lesquelles ne font que vous rapetisser."

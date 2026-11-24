@@ -5,6 +5,8 @@ description: "Mercury square North Node in a birth chart: thinking set across th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "North Node", "square"]
 weight: 152
 glyph: "☿□☊"
 definition: "Mercury square North Node means that, when you were born, Mercury stood about 90° from the North Node, and therefore from the South Node too. In a chart it sets your way of thinking across the line from the familiar to the less familiar, asking it to translate. I see friction there that trains the mind."

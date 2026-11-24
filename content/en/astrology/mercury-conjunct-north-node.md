@@ -5,6 +5,8 @@ description: "Mercury conjunct North Node in a birth chart: growing through lear
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "North Node", "conjunction"]
 weight: 150
 glyph: "☿☌☊"
 definition: "Mercury conjunct North Node puts Mercury on the point where the Moon’s path crosses the Sun’s going north, read as the direction you grow in. In a chart, growth runs through thinking, learning and speaking in less familiar ways. I read it as a direction to practise, never a destiny."

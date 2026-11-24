@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["axe de l’horizon"]
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["angles"]
 weight: 5
 glyph: "AC/DC"
 definition: "L’axe de l’horizon va de l’ascendant au descendant : l’horizon, de l’est à l’ouest, au moment de votre naissance. Il partage le thème entre la moitié au-dessus de l’horizon et la moitié au-dessous. Les astrologues y lisent la ligne entre vous et les autres : votre façon d’aborder le monde, et les personnes que vous y rencontrez."

@@ -5,6 +5,8 @@ description: "Mercury trine Saturn in a birth chart: an orderly, patient mind an
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Saturn", "trine"]
 weight: 123
 glyph: "☿△♄"
 definition: "Mercury trine Saturn means Mercury and Saturn were about 120° apart when you were born, generally in signs that share an element. In a chart thinking and structure keep easy company: you plan without strain, learn steadily and say what you mean. I read it as a quiet reliability that grows into wisdom when you keep testing it."

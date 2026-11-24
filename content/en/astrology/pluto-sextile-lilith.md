@@ -5,6 +5,8 @@ description: "Pluto sextile Lilith in a birth chart: an open door between deep r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Lilith", "sextile"]
 weight: 356
 glyph: "♇⚹⚸"
 definition: "Pluto sextile Lilith is a 60° angle between Pluto and the mean Black Moon Lilith at birth, usually in signs whose elements get on. It opens a way between deep renewal and the part of you that wasn’t tamed: what you once kept hidden can feed a change, but only when you take the opening."

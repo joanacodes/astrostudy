@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["Ophiuchus", "13e signe"]
 family: "stars"
+categories: ["Étoiles"]
+tags: ["signes du zodiaque", "étoiles fixes"]
 weight: 25
 glyph: "⛎"
 definition: "Ophiuchus, le Serpentaire, est une constellation devant laquelle le Soleil passe environ du 30 novembre au 18 décembre, entre le Scorpion et le Sagittaire. Ce n’est pas un signe. Le zodiaque tropical découpe l’année du Soleil selon les saisons en douze signes égaux : pendant ces semaines-là, le Soleil est en Sagittaire, quelles que soient les étoiles derrière."

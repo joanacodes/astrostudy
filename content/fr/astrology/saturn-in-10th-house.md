@@ -6,6 +6,8 @@ description: "Saturne en maison 10 dans un thème natal : une ambition au long 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "maison 10", "maisons"]
 weight: 82
 glyph: "♄"
 definition: "Saturne en maison 10, c’est la planète du temps au plus public du thème, près du Milieu du Ciel, dans la maison du Capricorne, son propre signe. On y lit une ambition au long cours, une autorité gagnée plutôt que reçue, et une réputation bâtie assez lentement pour durer. Rien n’y prédit une carrière."

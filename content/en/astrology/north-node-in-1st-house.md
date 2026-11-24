@@ -5,6 +5,8 @@ description: "North Node in the 1st house in a birth chart: learning to lead wit
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "1st house", "houses"]
 weight: 145
 glyph: "☊"
 definition: "North Node in the 1st house means the North Node, where the Moon’s path crosses the Sun’s going north, fell in the house that begins at your Ascendant, with the South Node opposite in the 7th. I read it as growth towards self-definition: your own wishes, presence and first steps, after a habit of starting from what others want."

@@ -5,6 +5,8 @@ description: "The chart ruler in astrology: the planet that rules your rising si
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 23
 glyph: "✦"
 definition: "The chart ruler is the planet that rules your rising sign: Mars for Aries rising, Venus for Taurus rising, and so on round the zodiac. It also rules the 1st house. Astrologers follow it through the chart, because its sign and house show where the self described by the Ascendant goes to live."

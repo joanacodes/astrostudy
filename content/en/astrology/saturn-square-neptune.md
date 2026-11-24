@@ -5,6 +5,8 @@ description: "Saturn square Neptune in a birth chart: friction between the plan 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Neptune", "square"]
 weight: 282
 glyph: "♄□♆"
 definition: "Saturn square Neptune puts Saturn and Neptune at right angles, about 90° apart, usually in signs of the same modality, as in four runs of births between 1943 and 1999. In a chart it sets realism and imagination in friction: each keeps testing the other, and the work it asks for builds discernment rather than doubt."

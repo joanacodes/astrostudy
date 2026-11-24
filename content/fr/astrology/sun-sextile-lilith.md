@@ -6,6 +6,8 @@ description: "Soleil sextile Lilith dans un thème natal : votre instinct et vo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lilith", "sextile"]
 weight: 44
 glyph: "☉⚹⚸"
 definition: "Soleil sextile Lilith signifie qu’à votre naissance, le Soleil et la Lune noire Lilith étaient à environ 60° d’écart. Dans un thème, ce sextile ouvre une porte entre votre sens du but et la part de vous qui n’a pas voulu obéir : l’instinct, l’autonomie, un non clair. J’y lis une indépendance à laquelle faire appel, quand vous le choisissez."

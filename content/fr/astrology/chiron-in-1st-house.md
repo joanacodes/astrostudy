@@ -6,6 +6,8 @@ description: "Chiron en maison 1 dans un thème natal : un point sensible, qu�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "maison 1", "maisons"]
 weight: 121
 glyph: "⚷"
 definition: "Chiron en maison 1 signifie que Chiron se trouvait dans la maison qui commence à l’ascendant, celle qui décrit votre façon d’aborder le monde. Il évoque un point sensible, qu’on vous voie pour ce que vous êtes, et une manière de vous présenter que vous avez bâtie vous-même. Il faut une heure de naissance exacte."

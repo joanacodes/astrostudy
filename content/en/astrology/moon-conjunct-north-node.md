@@ -5,6 +5,8 @@ description: "Moon conjunct North Node in a birth chart: the Moon crossing the S
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "North Node", "conjunction"]
 weight: 103
 glyph: "☽☌☊"
 definition: "Moon conjunct North Node means the Moon was within a few degrees of the North Node when you were born, crossing the Sun’s path heading north. In a chart it puts your needs and feelings on the path of growth itself: what steadies you and what stretches you sit in one place. I read it as direction, never destiny."

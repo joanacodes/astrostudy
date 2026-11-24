@@ -6,6 +6,8 @@ description: "Jupiter opposition Lilith dans un thème natal : vos principes fa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Lilith", "opposition"]
 weight: 269
 glyph: "♃☍⚸"
 definition: "Jupiter opposition Lilith désigne un écart d’environ 180° entre Jupiter et la Lune noire Lilith, le plus rare de leurs cinq aspects. Dans un thème, vos principes et la part de vous qui ne s’est pas laissé dompter se font face, souvent chez les autres. J’y lis une polarité qui demande que les deux vous appartiennent, jamais une guerre."

@@ -6,6 +6,8 @@ description: "Mars opposition Pluton dans un thème natal : votre volonté face
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Pluton", "opposition"]
 weight: 224
 glyph: "♂☍♇"
 definition: "Mars opposition Pluton place votre volonté et l’appel de la transformation aux deux bouts du thème, à environ 180°. Cet aspect se montre souvent d’abord à travers les autres : des volontés fortes, des situations intenses, des questions de pouvoir. J’y lis une polarité qui apprend le pouvoir partagé et la mesure, jamais un destin de conflit."

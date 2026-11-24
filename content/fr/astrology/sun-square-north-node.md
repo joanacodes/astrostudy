@@ -6,6 +6,8 @@ description: "Soleil carré Nœud Nord dans un thème natal : qui vous êtes, e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Nœud Nord", "carré"]
 weight: 50
 glyph: "☉□☊"
 definition: "Soleil carré Nœud Nord signifie qu’à votre naissance, le Soleil se trouvait à environ 90° du Nœud Nord, donc en carré avec le Nœud Sud. Dans un thème, votre identité se tient en travers du chemin entre le familier et le nouveau, et demande à faire partie de votre croissance. J’y lis une friction qui fait de vous le pont."

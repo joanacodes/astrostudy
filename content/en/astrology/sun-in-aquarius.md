@@ -5,6 +5,8 @@ description: "Sun in Aquarius in a birth chart: the Sun in its detriment, an ide
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aquarius"]
 weight: 11
 glyph: "☉♒"
 definition: "Sun in Aquarius is the Sun sign for births from about 20 January to 18 February: the Sun’s detriment, in fixed air ruled by Uranus in modern tropical astrology and by Saturn in the tradition. I read it as an identity organised around principles and networks, a vitality fed by ideas, and a purpose larger than one life."

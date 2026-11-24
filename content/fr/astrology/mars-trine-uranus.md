@@ -6,6 +6,8 @@ description: "Mars trigone Uranus dans un thème natal : une action originale q
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Uranus", "trigone"]
 weight: 213
 glyph: "♂△♅"
 definition: "Mars trigone Uranus réunit l’action et l’invention à environ 120°, en général dans des signes du même élément. Dans un thème, ce trigone vous laisse agir sur des idées neuves sans combat : l’indépendance, l’adaptation rapide et les méthodes originales viennent naturellement. J’y lis une inventivité facile, au meilleur quand vous allez aussi jusqu’au bout."

@@ -5,6 +5,8 @@ description: "Venus conjunct Jupiter in a birth chart: the two benefics side by 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Jupiter", "conjunction"]
 weight: 160
 glyph: "♀☌♃"
 definition: "Venus conjunct Jupiter means the two planets were together at your birth, within a few degrees and generally sharing a sign. In a chart it joins what you value with what makes you grow, so taste and generosity widen together. Tradition called them the two benefics; I read their meeting as abundance learning what enough is."

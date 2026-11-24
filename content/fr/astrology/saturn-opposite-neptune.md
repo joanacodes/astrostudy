@@ -6,6 +6,8 @@ description: "Saturne opposition Neptune dans un thème natal : le solide et l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Neptune", "opposition"]
 weight: 284
 glyph: "♄☍♆"
 definition: "Saturne opposition Neptune, c’est le face-à-face des deux planètes, à environ 180°, comme pour les naissances de 1935–1937, 1970–1972 et 2005–2007. Dans un thème, cette opposition tient ce qui se mesure et se garde à un bout, ce qui ne peut que s’imaginer à l’autre, et vous demande d’avoir besoin des deux : un idéalisme pratique."

@@ -5,6 +5,8 @@ description: "Venus sextile Pluto in a birth chart: depth within reach of what y
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Pluto", "sextile"]
 weight: 181
 glyph: "♀⚹♇"
 definition: "Venus sextile Pluto means Venus and Pluto were about 60° apart at your birth, usually in signs of complementary elements. In a chart, depth is within reach of what you value: you can deepen a bond, renew a taste or end something cleanly, when you choose to. I read it as an opening that rewards engagement."

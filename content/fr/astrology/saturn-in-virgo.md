@@ -6,6 +6,8 @@ description: "Saturne en Vierge dans un thème natal : une compétence apprise 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Vierge"]
 weight: 78
 glyph: "♄♍"
 definition: "Saturne en Vierge place la planète de la structure dans un signe de terre mutable, celui de la méthode, du détail et de l’utile, gouverné par Mercure. Les personnes nées vers 1948–1951, 1977–1980 ou 2007–2010 portent ce placement. Ses leçons : une compétence gagnée par la pratique, et des exigences qui doivent laisser place à l’erreur."

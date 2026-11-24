@@ -6,6 +6,8 @@ description: "Lilith trigone Nœud Nord dans un thème natal : devenir davantag
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Nœud Nord", "trigone"]
 weight: 378
 glyph: "⚸△☊"
 definition: "Lilith trigone Nœud Nord, c’est un angle de 120° entre la Lune noire Lilith moyenne et le Nœud Nord à la naissance, Lilith se trouvant à 60° du Nœud Sud. Dans un thème, la part indomptée de vous et votre direction de croissance vont dans le même sens : devenir davantage vous-même et devenir plus capable ne font souvent qu’un."

@@ -6,6 +6,8 @@ description: "Soleil conjonction Mercure en synastrie : la façon de penser de 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Mercure", "conjonction", "synastrie"]
 weight: 6
 glyph: "☉☌☿"
 definition: "Soleil conjonction Mercure en synastrie signifie que Mercure, chez une personne, se trouve à moins de 8° du Soleil de l’autre, en général avec des anniversaires à quelques semaines d’écart. La façon de penser de l’une tombe sur ce que l’autre est. J’y lis une compréhension mise en mots, au mieux quand la personne du Soleil garde le dernier mot."

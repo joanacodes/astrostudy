@@ -5,6 +5,8 @@ description: "Sun trine Venus in synastry: appreciation that flows with little e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Venus", "trine", "synastry"]
 weight: 14
 glyph: "☉△♀"
 definition: "Sun trine Venus in synastry means one person’s Venus is about 120° from the other’s Sun, within 6.8°, usually in signs of one element. No single chart can hold it, as Venus stays within about 47° of the Sun. One person simply enjoys the way the other is. I read it as generous liking that needs returning."

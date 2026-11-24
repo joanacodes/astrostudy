@@ -5,6 +5,8 @@ description: "Venus opposite Mars in synastry: one person’s taste faces the ot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Mars", "opposition", "synastry"]
 weight: 170
 glyph: "♀☍♂"
 definition: "Venus opposite Mars in synastry means one person’s Venus is about 180° from the other’s Mars, within 6°. One person’s way of choosing and relating faces the other’s way of going after things, and each spots in the other what they don’t do themselves. I read it as a pull between complementary styles, best when roles can swap."

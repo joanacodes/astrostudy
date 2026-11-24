@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["planètes personnelles", "planètes sociales", "planètes générationnelles"]
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 20
 glyph: "☿♃♇"
 definition: "Les astrologues trient les dix planètes selon leur vitesse. Les planètes personnelles, Soleil, Lune, Mercure, Vénus et Mars, changent de signe en quelques jours ou semaines et décrivent l’individu. Les planètes sociales, Jupiter et Saturne, relient une vie au monde qui l’entoure. Les planètes générationnelles, Uranus, Neptune et Pluton, restent des années dans un signe et décrivent une génération."

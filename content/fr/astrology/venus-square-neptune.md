@@ -6,6 +6,8 @@ description: "Vénus carré Neptune dans un thème natal : l’idéal et le ré
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Neptune", "carré"]
 weight: 177
 glyph: "♀□♆"
 definition: "Vénus carré Neptune signifie que votre thème met Vénus et Neptune à 90° environ, souvent dans des signes d’un même mode. Dans un thème, la valeur que vous donnez aux choses et vos rêves frottent l’un contre l’autre : idéal et réel coïncident rarement au début. Pour moi, c’est une friction qui enseigne : aimer clairement, sans aimer moins."

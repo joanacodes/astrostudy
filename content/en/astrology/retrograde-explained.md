@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["retrograde"]
 family: "dignities"
+categories: ["Planets and points"]
+tags: ["retrograde"]
 weight: 3
 glyph: "℞"
 definition: "A planet is retrograde when, seen from Earth, it seems to move backwards through the zodiac for a while. Nothing turns back in space: it is the effect of watching from a moving planet. Every planet does it, from Mercury out; the Sun and Moon never do. In a chart, I read it as a function working inward first."

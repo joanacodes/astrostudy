@@ -5,6 +5,8 @@ description: "North Node in Gemini in a birth chart: trading the big answer for 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "Gemini"]
 weight: 147
 glyph: "☊♊"
 definition: "North Node in Gemini places the Moon’s northward crossing point in mutable air at your birth, opposite a South Node in Sagittarius. I read it as a direction towards questions: listening, staying curious and learning from the person in front of you, after a long habit of reaching for the big answer first."

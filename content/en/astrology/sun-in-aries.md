@@ -5,6 +5,8 @@ description: "Sun in Aries in a birth chart: the Sun at its exaltation, a self t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries"]
 weight: 1
 glyph: "☉♈"
 definition: "Sun in Aries is the Sun sign of everyone born from about 21 March to 19 April, and the Sun’s exaltation. I read it as an identity that takes shape in the act of starting, a vitality that comes in surges rather than a steady supply, and a sense of direction found by moving rather than by planning."

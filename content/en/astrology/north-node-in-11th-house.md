@@ -5,6 +5,8 @@ description: "North Node in the 11th house in a birth chart: friends, hopes and 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "11th house", "houses"]
 weight: 155
 glyph: "☊"
 definition: "North Node in the 11th house means the North Node, the Moon’s northward crossing of the Sun’s path, lay in the house of friends and hopes when you were born, with the South Node in the 5th. I read it as growth through company: friendships kept over years, shared hopes, and a future built with other people."

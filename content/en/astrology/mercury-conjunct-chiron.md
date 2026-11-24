@@ -5,6 +5,8 @@ description: "Mercury conjunct Chiron in a birth chart: a tender spot around bei
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Chiron", "conjunction"]
 weight: 140
 glyph: "☿☌⚷"
 definition: "Mercury conjunct Chiron puts Mercury a few degrees from Chiron at most: the planet of thought and speech meeting the body astrologers read as a tender spot. In a chart, being understood can feel delicate, and the ways you find to say things become a skill. I read it as a sensitivity that makes a patient explainer."

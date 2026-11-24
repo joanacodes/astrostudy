@@ -6,6 +6,8 @@ description: "Lune sextile Lilith en synastrie : le réconfort de l’une fait 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Lilith", "sextile", "synastrie"]
 weight: 107
 glyph: "☽⚹⚸"
 definition: "Lune sextile Lilith en synastrie signifie que la Lune d’une personne se trouve à environ 60° de la Lune noire Lilith moyenne de l’autre, à 4,8° près. Le réconfort de l’une offre un cadre sûr à la part indomptée de l’autre, qui lui rend une permission. Pour moi, c’est une invitation utile aux deux, dès que l’une la saisit."

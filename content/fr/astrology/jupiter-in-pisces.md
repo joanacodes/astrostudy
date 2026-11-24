@@ -6,6 +6,8 @@ description: "Jupiter en Poissons dans un thème natal : Jupiter dans son signe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Poissons"]
 weight: 72
 glyph: "♃♓"
 definition: "Jupiter en Poissons, c’est la planète de la croissance et du sens dans le signe d’eau mutable que la tradition donne à Jupiter et l’astrologie tropicale moderne à Neptune. Toute une année de naissance, à peu près, partage ce placement. J’y lis une croissance par l’imagination et la compassion : une compréhension par le ressenti, des principes d’accueil et de soin."

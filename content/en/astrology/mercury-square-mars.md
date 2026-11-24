@@ -5,6 +5,8 @@ description: "Mercury square Mars in a birth chart: a quick mind and a quick dri
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Mars", "square"]
 weight: 112
 glyph: "☿□♂"
 definition: "Mercury square Mars means Mercury and Mars were about 90° apart when you were born. In a chart thinking and doing pull at right angles: ideas come with urgency, and words sometimes with an edge. I read it as friction that sharpens both, never as a quarrel waiting to happen."

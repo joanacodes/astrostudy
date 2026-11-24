@@ -6,6 +6,8 @@ description: "Jupiter trigone Nœud Nord dans un thème natal : le sens qui cou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Nœud Nord", "trigone"]
 weight: 273
 glyph: "♃△☊"
 definition: "Jupiter trigone Nœud Nord est un angle de 120° entre Jupiter et le Nœud Nord, qui laisse Jupiter en sextile du Nœud Sud. Dans un thème, le sens coule facilement vers le chemin moins familier, tandis qu’un lien plus léger tient aux forces familières. J’y lis un soutien à une croissance qui demande encore de la pratique."

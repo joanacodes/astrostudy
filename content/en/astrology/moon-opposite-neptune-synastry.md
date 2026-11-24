@@ -5,6 +5,8 @@ description: "Moon opposite Neptune in synastry: one person’s everyday needs f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Neptune", "opposition", "synastry"]
 weight: 95
 glyph: "☽☍♆"
 definition: "Moon opposite Neptune in synastry means one person’s Neptune faces the other’s Moon from about 180° away, within 8°. Everyday needs tend to sit with one of them; the ideal, the imagined and the compassionate with the other. My reading: a polarity between the real and the dreamed, which two people can learn to share."

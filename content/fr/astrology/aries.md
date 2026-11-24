@@ -6,6 +6,8 @@ description: "Le Bélier en astrologie : le premier signe, feu cardinal gouvern
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signes"]
+tags: ["Bélier"]
 weight: 1
 glyph: "♈"
 definition: "Le Bélier est le premier signe du zodiaque, un signe de feu cardinal gouverné par Mars, que le Soleil traverse du 21 mars au 19 avril environ. Dans un thème natal, il désigne là où vous préférez agir plutôt qu’attendre : le courage, la franchise, l’envie de commencer. Sa maison montre où cet élan va d’abord."

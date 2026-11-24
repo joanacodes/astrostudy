@@ -5,6 +5,8 @@ description: "How to read your birth chart, step by step: check the time and set
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Readings"]
+tags: ["birth chart"]
 weight: 1
 glyph: "✦"
 definition: "Reading a birth chart step by step means taking it one layer at a time: first the birth time and settings it was drawn with, then the Sun, Moon and rising sign, then each planet through its sign, house and aspects, and only then the whole. Read this way, a chart describes tendencies, never a script for a life."

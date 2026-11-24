@@ -5,6 +5,8 @@ description: "Neptune opposite Lilith in a birth chart: the longing to merge fac
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Lilith", "opposition"]
 weight: 344
 glyph: "♆☍⚸"
 definition: "Neptune opposite Lilith sets Neptune and the mean Black Moon Lilith on opposite sides of the chart, about 180° apart, for about 1 person in 30. In a chart, the longing to merge with someone or something larger faces the side of you that won't be tamed; the work is a closeness that doesn't cost you your edge."

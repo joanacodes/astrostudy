@@ -6,6 +6,8 @@ description: "La synastrie au-delà du couple : comparer son thème avec un ami
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "techniques"
+categories: ["Synastrie"]
+tags: ["synastrie"]
 weight: 56
 glyph: "✦"
 definition: "Comparer deux thèmes n’est pas réservé aux couples. Entre amis, collègues ou membres adultes d’une famille, la synastrie suit la même méthode, aspects et superpositions de maisons lus dans les deux sens, avec d’autres planètes au premier plan selon le lien. Il faut les deux heures de naissance, deux adultes au courant, et pour un collègue, son accord."

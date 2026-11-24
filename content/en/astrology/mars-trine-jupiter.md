@@ -5,6 +5,8 @@ description: "Mars trine Jupiter in a birth chart: effort that grows when it has
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Jupiter", "trine"]
 weight: 203
 glyph: "♂△♃"
 definition: "Mars trine Jupiter means Mars and Jupiter were about 120° apart at your birth, usually in signs of the same element. In a chart it lets effort and meaning feed each other: you act readily on what you believe, and acting widens what you understand. I read it as a tailwind for purposeful effort, never as luck."

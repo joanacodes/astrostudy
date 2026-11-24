@@ -5,6 +5,8 @@ description: "Uranus square Chiron in a birth chart: change rubbing on a tender 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Chiron", "square"]
 weight: 317
 glyph: "♅□⚷"
 definition: "Uranus square Chiron is a 90° angle between Uranus and Chiron, rare in the count: births of 1942 to 1944 and of 1996 to 1998. In a chart, the urge for change and a tender place rub against each other, and the friction keeps teaching new ways to adapt. Your houses show where it lives."

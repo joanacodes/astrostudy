@@ -5,6 +5,8 @@ description: "The water signs in astrology: Cancer, Scorpio and Pisces — what 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signs"]
+tags: ["zodiac signs"]
 weight: 33
 glyph: "♋♏♓"
 definition: "The water signs are Cancer, Scorpio and Pisces, the three signs of the element of water, each 120° from the next. In a birth chart, water shows where you take things in through feeling: closeness, memory, intuition, the mood of a room. Planets in water signs tend to sense what matters before they can say why."

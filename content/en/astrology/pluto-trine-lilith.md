@@ -5,6 +5,8 @@ description: "Pluto trine Lilith in a birth chart: deep change and your untamed 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Lilith", "trine"]
 weight: 358
 glyph: "♇△⚸"
 definition: "Pluto trine Lilith is a 120° angle between Pluto and the mean Black Moon Lilith at birth, usually in signs of the same element. Renewing yourself and staying loyal to your instinct don’t compete: you tend to change towards what you are. I read it as ease with intensity, which still asks to be used on purpose."

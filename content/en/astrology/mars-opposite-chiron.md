@@ -5,6 +5,8 @@ description: "Mars opposite Chiron in a birth chart: your drive faces your tende
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Chiron", "opposition"]
 weight: 229
 glyph: "♂☍⚷"
 definition: "Mars opposite Chiron means Mars and Chiron stood about 180° apart when you were born. In a chart it sets your drive across from your tender place, so pushing ahead and knowing where you hurt keep meeting, often through other people. I read it as a polarity that teaches balance, never as a fight you lose."

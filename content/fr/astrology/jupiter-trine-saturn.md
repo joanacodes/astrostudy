@@ -6,6 +6,8 @@ description: "Jupiter trigone Saturne dans un thème natal : croissance et stru
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Saturne", "trigone"]
 weight: 243
 glyph: "♃△♄"
 definition: "Jupiter trigone Saturne, c’est un angle de 120° entre les deux planètes, d’ordinaire dans des signes de même élément, porté par quelques mois de naissances à la fois. Croissance et structure avancent au même pas : ce que vous espérez et ce que vous pouvez tenir s’accordent. J’y lis un jugement pratique et régulier, qu’il faut encore exercer."

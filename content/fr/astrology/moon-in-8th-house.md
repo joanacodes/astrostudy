@@ -6,6 +6,8 @@ description: "Lune en maison 8 dans un thème natal : des émotions profondes e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "maison 8", "maisons"]
 weight: 20
 glyph: "☽"
 definition: "La Lune en maison 8 signifie que la Lune se trouvait dans la maison de l’intimité, de la confiance et du partage à votre naissance. J’y lis des émotions fortes gardées pour soi, une proximité qui doit aller loin pour rassurer, et un sens aigu du non-dit. Elle ne prédit aucune mort ; il faut l’heure de naissance."

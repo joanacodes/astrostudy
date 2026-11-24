@@ -5,6 +5,8 @@ description: "Pluto conjunct Lilith in a birth chart: deep renewal fused with th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Lilith", "conjunction"]
 weight: 355
 glyph: "♇☌⚸"
 definition: "Pluto conjunct Lilith means Pluto and the mean Black Moon Lilith stood within a few degrees of each other at your birth. In a chart, deep renewal and the part of you that was pushed aside, or would not be tamed, work as one: reclaiming that part is often how you change. Intense, yes; sinister, no."

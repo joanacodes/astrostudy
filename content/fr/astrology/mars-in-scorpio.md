@@ -6,6 +6,8 @@ description: "Mars en Scorpion dans un thème natal : Mars à domicile dans la 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Scorpion"]
 weight: 56
 glyph: "♂♏"
 definition: "Mars en Scorpion installe Mars dans l’eau fixe, un domicile selon la tradition ; l’astrologie tropicale moderne donne le Scorpion à Pluton, et je lis les deux. On y lit un effort concentré et tenace : vous agissez en silence, vous engagez entièrement, renoncez rarement, et votre courage se montre dans la crise."

@@ -5,6 +5,8 @@ description: "Sun sextile Mercury in synastry: one person’s ideas serving the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Mercury", "sextile", "synastry"]
 weight: 7
 glyph: "☉⚹☿"
 definition: "Sun sextile Mercury in synastry means one person’s Mercury is about 60° from the other’s Sun, within 4.8°. No one has it in their own chart, since Mercury stays within about 28° of the Sun. Between two people, one person’s ideas serve the other’s direction. I read it as a practical alliance that needs asking for."

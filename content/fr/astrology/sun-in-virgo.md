@@ -6,6 +6,8 @@ description: "Soleil en Vierge dans un thème natal : une identité organisée 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge"]
 weight: 6
 glyph: "☉♍"
 definition: "Le Soleil en Vierge est le signe solaire des naissances du 23 août au 22 septembre environ, en terre mutable gouvernée par Mercure, qui y a aussi son exaltation. J’y lis une identité organisée par le discernement, une vitalité stabilisée par la méthode, et un but qui s’exprime dans la chose faite exactement, pour elle-même et pour les autres."

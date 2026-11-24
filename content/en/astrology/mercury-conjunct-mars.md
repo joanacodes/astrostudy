@@ -5,6 +5,8 @@ description: "Mercury conjunct Mars in a birth chart: thought and action in one 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Mars", "conjunction"]
 weight: 110
 glyph: "☿☌♂"
 definition: "Mercury conjunct Mars means Mercury and Mars were within a few degrees of each other when you were born, both fairly close to the Sun. In a chart it fuses thinking with doing: you decide by trying and speak with drive. I read it as a mind with momentum, never as a temper."

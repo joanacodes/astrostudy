@@ -6,6 +6,8 @@ description: "Soleil opposition Saturne dans un thème natal : une confiance é
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Saturne", "opposition"]
 weight: 22
 glyph: "☉☍♄"
 definition: "Soleil opposition Saturne veut dire qu’à la naissance, Saturne se tenait de l’autre côté du zodiaque, à environ 180° de votre Soleil, en mouvement rétrograde. Dans un thème, l’expression de vous-même et le poids de la structure se font face. J’y lis une confiance en soi éprouvée face à l’autorité, et gagnée en apprenant où se trouve votre terrain."

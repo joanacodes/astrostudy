@@ -5,6 +5,8 @@ description: "Venus sextile Neptune in a birth chart: imagination within reach o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Neptune", "sextile"]
 weight: 176
 glyph: "♀⚹♆"
 definition: "Venus sextile Neptune means Venus and Neptune were some 60° apart on the day of your birth, often in signs whose elements complement each other. In a chart, imagination and compassion come to the aid of what you love: art, kindness, a dream given a shape. As with any sextile, the gift needs you to act."

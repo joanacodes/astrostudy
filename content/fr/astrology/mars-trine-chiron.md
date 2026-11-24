@@ -6,6 +6,8 @@ description: "Mars trigone Chiron dans un thème natal : un élan qui s’adapt
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Chiron", "trigone"]
 weight: 228
 glyph: "♂△⚷"
 definition: "Mars trigone Chiron signifie qu’à votre naissance, il y avait environ 120° entre Mars et Chiron, souvent dans deux signes du même élément. Dans un thème, ce trigone fait travailler ensemble votre élan et votre point sensible : vous agissez, vous changez de méthode quand quelque chose fait mal, et vous continuez. J’y lis un courage qui connaît ses limites."

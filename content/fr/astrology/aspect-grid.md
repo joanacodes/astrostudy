@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["grille des aspects", "tableau des aspects"]
 family: "aspects"
+categories: ["Aspects"]
+tags: []
 weight: 42
 glyph: "✦"
 definition: "La grille des aspects est le tableau en triangle imprimé à côté de la roue du thème, qui liste tous les aspects du thème, paire par paire. Chaque planète a sa ligne et sa colonne ; là où deux se croisent, un symbole indique l’aspect qu’elles forment, souvent avec son orbe. C’est l’inventaire des relations du thème, pas leur lecture."

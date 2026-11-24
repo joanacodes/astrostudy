@@ -6,6 +6,8 @@ description: "Chiron en maison 6 dans un thème natal : un point sensible autou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "maison 6", "maisons"]
 weight: 126
 glyph: "⚷"
 definition: "Chiron en maison 6 situe Chiron dans la maison du travail quotidien, des routines et du soin, que la tradition appelait la Fortune défavorable. Il décrit une adaptation autour d’un point sensible lié à l’utilité et au rythme, et des routines construites à votre mesure. Il ne dit rien de votre santé ; il faut l’heure de naissance."

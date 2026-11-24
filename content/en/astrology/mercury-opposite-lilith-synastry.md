@@ -5,6 +5,8 @@ description: "Mercury opposite Lilith in synastry: one person’s reasoning face
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Lilith", "opposition", "synastry"]
 weight: 160
 glyph: "☿☍⚸"
 definition: "Mercury opposite Lilith in synastry means one person’s Mercury is about 180° from the other’s Black Moon Lilith, within 6°. One person’s reasoned, sayable words face the other’s untamed refusals, and each sees in the other what they leave out. I see a seesaw there between diplomacy and bluntness, which works when both take turns."

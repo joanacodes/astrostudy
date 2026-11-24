@@ -5,6 +5,8 @@ description: "Sun in the 4th house in a birth chart: born late in the evening, a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "4th house", "houses"]
 weight: 4
 glyph: "☉"
 definition: "Sun in the 4th house means the Sun was below the horizon in the late evening when you were born, in the angular house that begins at the Imum Coeli. I read it as an identity rooted in home and origins, a vitality restored in private, and a purpose built like a foundation. It needs the birth time."

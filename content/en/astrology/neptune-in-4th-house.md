@@ -5,6 +5,8 @@ description: "Neptune in the 4th house in a birth chart: home as a dream of sanc
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "4th house", "houses"]
 weight: 100
 glyph: "♆"
 definition: "Neptune in the 4th house is Neptune at the bottom of the chart, in the house of home, roots and family. In a chart it describes home imagined as a sanctuary, a family history felt more than told, and a private inner life that needs quiet to stay well."

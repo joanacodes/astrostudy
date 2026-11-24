@@ -5,6 +5,8 @@ description: "Moon trine Uranus in a birth chart: change and comfort keeping the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Uranus", "trine"]
 weight: 81
 glyph: "☽△♅"
 definition: "Moon trine Uranus means the Moon and Uranus were a third of the circle apart when you were born, about 120°, usually in one element. It lets your need for comfort and your need for freedom support each other: you can change course without losing your footing. I read it as an ease with change, worth using on purpose."

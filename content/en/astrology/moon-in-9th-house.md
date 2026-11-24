@@ -5,6 +5,8 @@ description: "Moon in the 9th house in a birth chart: feelings steadied by meani
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "9th house", "houses"]
 weight: 21
 glyph: "☽"
 definition: "Moon in the 9th house means the Moon sat in the house of meaning, belief, long journeys and higher learning, which tradition called the God, when you were born. I read it as feelings steadied by the wide view, and a sense of home found in the unfamiliar. It needs the birth time."

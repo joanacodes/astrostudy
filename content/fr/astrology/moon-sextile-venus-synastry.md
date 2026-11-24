@@ -6,6 +6,8 @@ description: "Lune sextile Vénus en synastrie : de petites attentions qui port
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Vénus", "sextile", "synastrie"]
 weight: 67
 glyph: "☽⚹♀"
 definition: "Lune sextile Vénus en synastrie désigne un angle de 60°, à 4,8° près, entre la Lune d’une personne et la Vénus de l’autre. La gentillesse d’un côté rencontre les besoins de l’autre de façon amicale et simple, pourvu que quelqu’un fasse le premier geste. J’y lis une bienveillance qui s’approfondit quand on la met en actes."

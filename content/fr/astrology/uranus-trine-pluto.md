@@ -6,6 +6,8 @@ description: "Uranus trigone Pluton dans un thème natal : pourquoi aucune nais
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Pluton", "trigone"]
 weight: 313
 glyph: "♅△♇"
 definition: "Uranus trigone Pluton est un angle de 120° entre les deux planètes. Aucune personne née entre 1930 et 2009 ne l’a : sur ces quatre-vingts ans, les deux planètes ne s’en sont jamais approchées à moins de 6°. Ce trigone laisse le changement et le renouveau profond aller ensemble ; il touche aujourd’hui en transit et en synastrie."

@@ -6,6 +6,8 @@ description: "Lilith en maison 11 dans un thème natal : un moi qui ne collait 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "maison 11", "maisons"]
 weight: 143
 glyph: "⚸"
 definition: "Lilith en maison 11 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la maison des amitiés, des groupes et des espoirs partagés. J’y lis un moi qui ne collait pas au groupe, mis en retrait pour rester du cercle, et le refus d’appartenir au prix du silence."

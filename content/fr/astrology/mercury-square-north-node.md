@@ -6,6 +6,8 @@ description: "Mercure carré Nœud Nord dans un thème natal : une pensée en t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Nœud Nord", "carré"]
 weight: 152
 glyph: "☿□☊"
 definition: "Mercure carré Nœud Nord signifie qu’un angle d’environ 90° séparait Mercure du Nœud Nord à votre naissance, et donc aussi du Nœud Sud. Dans un thème, votre façon de penser se tient de biais par rapport au chemin qui va du familier au moins familier, et doit traduire de l’un à l’autre. J’y lis une friction qui entraîne l’esprit."

@@ -6,6 +6,8 @@ description: "Soleil conjonction Lilith dans un thème natal : ce qu’on vous 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lilith", "conjonction"]
 weight: 43
 glyph: "☉☌⚸"
 definition: "Soleil conjonction Lilith signifie qu’à votre naissance, le Soleil se trouvait à quelques degrés de la Lune noire Lilith, le point le plus lointain de l’orbite lunaire. Dans un thème, elle place ce que vous avez appris à cacher près du centre de qui vous êtes. J’y lis une authenticité qui demande de la place, jamais quelque chose à réparer."

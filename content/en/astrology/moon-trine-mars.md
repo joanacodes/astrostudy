@@ -5,6 +5,8 @@ description: "Moon trine Mars in a birth chart: effort that follows feeling with
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Mars", "trine"]
 weight: 66
 glyph: "☽△♂"
 definition: "Moon trine Mars is an angle of about 120° between the Moon and Mars at birth, mostly in two signs with a common element. Feeling and effort back each other up: what you need gives your drive a reason, and your drive looks after what you need. I read it as a steady, practical courage."

@@ -6,6 +6,8 @@ description: "Lune conjonction Pluton dans un thème natal : des émotions véc
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Pluton", "conjonction"]
 weight: 88
 glyph: "☽☌♇"
 definition: "Lune conjonction Pluton signifie que votre Lune est née aux côtés de Pluton, à quelques degrés au plus et en général dans le même signe. Cette conjonction fond vos émotions et vos besoins avec l’élan de transformation : les émotions vont jusqu’au fond, et vous changez à travers elles. J’y lis profondeur et résilience, jamais noirceur ni emprise."

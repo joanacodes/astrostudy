@@ -5,6 +5,8 @@ description: "Sun trine Lilith in synastry: an untamed side that relaxes in the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Lilith", "trine", "synastry"]
 weight: 54
 glyph: "☉△⚸"
 definition: "Sun trine Lilith in synastry is a contact of about 120°, within 6.8°, linking a Sun in one chart with Black Moon Lilith in the other, usually in signs of one element. One person’s refused, untamed side relaxes in the other’s company. I read it as ease that still deserves a look underneath."

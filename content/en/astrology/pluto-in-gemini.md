@@ -5,6 +5,8 @@ description: "Pluto in Gemini in a birth chart: deep change through ideas and wo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Gemini"]
 weight: 111
 glyph: "♇♊"
 definition: "Pluto in Gemini puts the planet of deep change in mutable air, the sign of questions, ruled by Mercury. Its people were born from 1882 to 1914, and will be again from 2127 to 2159, so no one born 1930–2009 has it. In a chart it describes transformation through ideas, words and the way information travels."

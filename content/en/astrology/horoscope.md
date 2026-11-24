@@ -5,6 +5,8 @@ description: "The horoscope in astrology: the hour-watcher that became a birth c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: ["horoscopes"]
 weight: 9
 glyph: "✦"
 definition: "A horoscope was first the rising degree of a birth chart, then the whole chart. Today the word mostly means a sun-sign forecast: a short paragraph for everyone born with the Sun in one sign, written from the current sky. It speaks to a twelfth of everyone at once, where a chart reading speaks to one person."

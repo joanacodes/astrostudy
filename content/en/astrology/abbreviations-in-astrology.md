@@ -5,6 +5,8 @@ description: "Abbreviations in astrology, spelled out: AC or ASC, DC or DSC, MC 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Readings"]
+tags: ["birth chart"]
 weight: 5
 glyph: "✦"
 definition: "Abbreviations in astrology are the letters a chart or an ephemeris uses for points and motions: AC or ASC for the Ascendant, DC or DSC for the Descendant, MC for the Midheaven, IC for the Imum Coeli, NN and SN for the North and South Nodes, R or ℞ for retrograde, D for direct. Each stands for one thing only."

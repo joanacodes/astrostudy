@@ -6,6 +6,8 @@ description: "Lire son thème natal, pas à pas : vérifier l’heure et les r�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Lectures"]
+tags: ["thème natal"]
 weight: 1
 glyph: "✦"
 definition: "Lire un thème natal pas à pas, c’est le prendre couche par couche : d’abord l’heure de naissance et les réglages avec lesquels il a été calculé, puis le Soleil, la Lune et l’ascendant, puis chaque planète dans son signe, sa maison et ses aspects, et seulement ensuite l’ensemble. Lu ainsi, un thème décrit des tendances, jamais un scénario."

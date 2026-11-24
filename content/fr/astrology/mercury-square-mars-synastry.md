@@ -6,6 +6,8 @@ description: "Mercure carré Mars en synastrie : les questions de l’une crois
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Mars", "carré", "synastrie"]
 weight: 123
 glyph: "☿□♂"
 definition: "Mercure carré Mars en synastrie signifie que Mercure, chez une personne, se trouve à environ 90° de Mars dans le thème de l’autre, à 5,1° près. Pensée et élan se croisent à angle droit : les questions freinent la poussée, la poussée presse les questions. J’y vois une épreuve pour les projets, à vivre avec quelques règles de dispute."

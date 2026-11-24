@@ -5,6 +5,8 @@ description: "Sun in Aries, Moon in Pisces: the last sign and the first, born in
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries", "Moon", "Pisces"]
 weight: 12
 glyph: "☉♈☽♓"
 definition: "Sun in Aries, Moon in Pisces sets the Moon in the zodiac’s last sign, one behind the Sun in its first, within five days before a new moon. I read it as a fresh start that carries what came before: a self that draws a clear line and goes, and needs that take in every mood nearby."

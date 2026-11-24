@@ -6,6 +6,8 @@ description: "Mercure carré Uranus en synastrie : la pensée pas à pas de l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Uranus", "carré", "synastrie"]
 weight: 138
 glyph: "☿□♅"
 definition: "Mercure carré Uranus en synastrie signifie que Mercure, chez une personne, et Uranus, chez l’autre, sont à environ 90°, à 5,1° près. La pensée pas à pas de la première rencontre sans cesse les sauts et les volte-face de la seconde. J’y lis une friction qui peut donner des idées neuves et praticables, jamais le chaos."

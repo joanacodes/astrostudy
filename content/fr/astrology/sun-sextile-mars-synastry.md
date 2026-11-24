@@ -6,6 +6,8 @@ description: "Soleil sextile Mars en synastrie : l’effort de l’une prêt à
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Mars", "sextile", "synastrie"]
 weight: 17
 glyph: "☉⚹♂"
 definition: "Soleil sextile Mars en synastrie signifie que Mars, chez une personne, se trouve à environ 60° du Soleil de l’autre, à 4,8° près. L’élan de l’une est prêt à servir les buts de l’autre, et ces buts lui donnent quelque chose qui en vaut la peine. J’y lis une alliance pratique, qui marche sur demande, de part et d’autre."

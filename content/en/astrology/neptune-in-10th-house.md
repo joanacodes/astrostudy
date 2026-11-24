@@ -5,6 +5,8 @@ description: "Neptune in the 10th house in a birth chart: work as a calling, a p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "10th house", "houses"]
 weight: 106
 glyph: "♆"
 definition: "Neptune in the 10th house is Neptune near the top of the chart, in the house of public life. Read in a birth chart, it describes work as a calling: a vocation led by imagination or compassion, a public image people dream onto, and a path that rarely runs in a straight line."

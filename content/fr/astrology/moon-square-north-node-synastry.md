@@ -6,6 +6,8 @@ description: "Lune carré Nœud Nord en synastrie : les besoins de l’une en t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Nœud Nord", "carré", "synastrie"]
 weight: 113
 glyph: "☽□☊"
 definition: "Lune carré Nœud Nord en synastrie signifie que la Lune d’une personne se trouve à environ 90° du Nœud Nord de l’autre, à 6,8° près, et donc aussi de son Nœud Sud. Les besoins de l’une se dressent sur le côté de la route de l’autre. Pour moi, cette friction réclame une croissance capable d’emmener les autres."

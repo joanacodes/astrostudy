@@ -5,6 +5,8 @@ description: "Jupiter in Virgo in a birth chart: Jupiter in detriment, growth th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Virgo"]
 weight: 66
 glyph: "♃♍"
 definition: "Jupiter in Virgo is Jupiter, the planet of growth and meaning, in the mutable earth sign ruled by Mercury, where tradition places it in detriment. Everyone born within the same year or so shares it. I read it as growth by refinement: understanding built through method, skill and care, and beliefs that have been checked."

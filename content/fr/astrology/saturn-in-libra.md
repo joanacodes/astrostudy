@@ -6,6 +6,8 @@ description: "Saturne en Balance dans un thème natal : l’exaltation de Satur
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Balance"]
 weight: 79
 glyph: "♄♎"
 definition: "Saturne en Balance, c’est la planète des règles dans le signe de l’équité : un signe d’air cardinal gouverné par Vénus, où la tradition place l’exaltation de Saturne. Ce placement, assez rare, réunit les personnes nées vers 1950–1953, 1980–1983 ou 2009–2012. On y lit des engagements pris au sérieux et un sens aigu de la justice."

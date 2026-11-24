@@ -5,6 +5,8 @@ description: "The Strawberry moon, June’s full moon: its dates and signs from 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 25
 glyph: "○"
 definition: "The Strawberry moon is the almanacs’ name for the full moon of June, after the short strawberry season of north-eastern North America. It is a folk name, not astrology. In a chart it is a full moon in Sagittarius or Capricorn, with the Sun opposite in Gemini or Cancer, and in 2029 and 2030 it is also a lunar eclipse."

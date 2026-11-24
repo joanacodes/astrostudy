@@ -5,6 +5,8 @@ description: "Neptune square Lilith in a birth chart: the wish to please against
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Lilith", "square"]
 weight: 342
 glyph: "♆□⚸"
 definition: "With Neptune square Lilith, Neptune and the mean Black Moon Lilith stand about 90° apart, as they do for about 1 person in 15. In a chart, the wish to soothe, merge and please rubs against the part of you that refuses to be tamed, a friction that teaches you to be kind without giving yourself away."

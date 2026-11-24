@@ -5,6 +5,8 @@ description: "Chiron in the 8th house in a birth chart: a tender spot in intimac
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "8th house", "houses"]
 weight: 128
 glyph: "⚷"
 definition: "Chiron in the 8th house means Chiron sat in the house of intimacy, trust and what you share with others, from joint money to secrets. It describes adapting around a tender spot in closeness, and learning whom to trust with what. It predicts nothing about death or money, and it needs the birth time."

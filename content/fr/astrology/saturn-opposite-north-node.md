@@ -6,6 +6,8 @@ description: "Saturne opposition Nœud Nord dans un thème natal : Saturne sur 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Nœud Nord", "opposition"]
 weight: 304
 glyph: "♄☍☊"
 definition: "Saturne opposition Nœud Nord signifie qu’à votre naissance, Saturne se trouvait à environ 180° du Nœud Nord, donc près du Nœud Sud. Dans un thème, votre sens du devoir et vos structures les plus solides reposent sur un terrain connu, et votre direction de croissance leur fait face. J’y lis une polarité à équilibrer, pas un poids."

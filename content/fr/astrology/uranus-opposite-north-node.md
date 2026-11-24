@@ -6,6 +6,8 @@ description: "Uranus opposition Nœud Nord dans un thème natal : Uranus sur le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Nœud Nord", "opposition"]
 weight: 329
 glyph: "♅☍☊"
 definition: "Uranus opposition Nœud Nord signifie qu’à votre naissance, Uranus se trouvait à environ 180° du Nœud Nord, donc juste à côté du Nœud Sud. Dans un thème, le changement, l’indépendance et le nouveau départ sont des gestes que vous connaissez par cœur ; la croissance se trouve en face, dans une capacité bien moins pratiquée."

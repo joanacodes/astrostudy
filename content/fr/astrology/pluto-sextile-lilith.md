@@ -6,6 +6,8 @@ description: "Pluton sextile Lilith dans un thème natal : une porte ouverte en
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Lilith", "sextile"]
 weight: 356
 glyph: "♇⚹⚸"
 definition: "Pluton sextile Lilith, c’est un angle de 60° entre Pluton et la Lune noire Lilith moyenne à la naissance, en général dans des signes dont les éléments s’accordent. Cet angle ouvre un passage entre le renouveau en profondeur et la part de vous restée indomptée : ce que vous gardiez caché peut nourrir un changement, à condition de saisir l’occasion."

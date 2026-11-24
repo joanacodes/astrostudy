@@ -5,6 +5,8 @@ description: "Neptune in Virgo in a birth chart: Neptune in detriment, the 1928�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Virgo"]
 weight: 102
 glyph: "♆♍"
 definition: "Neptune in Virgo is Neptune, the planet of imagination and compassion, in the mutable earth sign of craft and care, where modern tropical astrology puts it in detriment. It belongs to everyone born from 1928 to 1943, and I read it as that generation’s ideal of service: compassion made practical, and the dream of a world put right."

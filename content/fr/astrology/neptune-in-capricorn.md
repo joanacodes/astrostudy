@@ -6,6 +6,8 @@ description: "Neptune en Capricorne dans un thème natal : le désir de la gén
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Capricorne"]
 weight: 106
 glyph: "♆♑"
 definition: "Neptune en Capricorne, c’est la planète des rêves et des idéaux dans le signe de terre cardinal de la structure et de la réussite, où Neptune a séjourné de janvier 1984 à novembre 1998. J’y lis le désir de cette génération de donner corps aux rêves : des idéaux sur le travail et les institutions, des visions faites pour durer."

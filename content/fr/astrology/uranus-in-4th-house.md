@@ -6,6 +6,8 @@ description: "Uranus en maison 4 dans un thème natal : le foyer, les racines e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "maison 4", "maisons"]
 weight: 88
 glyph: "♅"
 definition: "Uranus en maison 4 place la planète du changement au bas du thème, dans la maison angulaire du foyer, des racines et de la famille, qui commence au Fond du Ciel. J’y lis une vie privée qui a besoin de place pour changer, et des racines à repenser avant qu’elles puissent vous porter. Il faut une heure de naissance exacte."

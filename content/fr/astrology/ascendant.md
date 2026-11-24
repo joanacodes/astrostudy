@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["ascendant", "Ascendant"]
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["Ascendant", "angles"]
 weight: 1
 glyph: "AC"
 definition: "L’ascendant est le degré du zodiaque qui se levait à l’est, sur l’horizon, à la minute et au lieu de votre naissance ; son signe est votre signe ascendant. Les astrologues y lisent votre façon d’aborder le monde : votre allure, votre premier geste, la manière dont vous commencez les choses. Il demande votre heure de naissance."

@@ -6,6 +6,8 @@ description: "Mars carré Chiron dans un thème natal : l’élan frotte contre
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Chiron", "carré"]
 weight: 227
 glyph: "♂□⚷"
 definition: "Mars carré Chiron place votre élan à environ 90° de Chiron, l’endroit où vous avez dû le plus vous adapter. L’effort y rencontre sans cesse une sensibilité, et les méthodes doivent changer. J’y lis une friction constructive qui fait des ajustements un savoir-faire, jamais le signe que quelque chose en vous est cassé."

@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["maison 1", "maison I"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["maison 1"]
 weight: 1
 glyph: "I"
 definition: "La maison 1 est la première des douze maisons d’un thème natal : elle commence à l’ascendant, le degré du zodiaque qui se levait à l’est au moment de votre naissance. Les astrologues y lisent le moi que vous montrez d’abord — votre corps, votre allure, votre façon de commencer les choses et la première impression que vous laissez."

@@ -6,6 +6,8 @@ description: "Soleil trigone Nœud Nord dans un thème natal : une croissance q
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Nœud Nord", "trigone"]
 weight: 51
 glyph: "☉△☊"
 definition: "Soleil trigone Nœud Nord signifie qu’à votre naissance, le Soleil et le Nœud Nord étaient à environ 120° d’écart, ce qui place aussi le Soleil en sextile au Nœud Sud. Dans un thème, votre sens de vous-même et votre direction de croissance vont au même pas. J’y lis un développement qui vous ressemble, et qui demande pourtant de la pratique."

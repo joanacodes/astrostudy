@@ -5,6 +5,8 @@ description: "Sun sextile Chiron in synastry: the hard-won experience of one per
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Chiron", "sextile", "synastry"]
 weight: 47
 glyph: "☉⚹⚷"
 definition: "Sun sextile Chiron in synastry connects one person’s purpose with the other’s hard-won experience, across some 60° with an orb of 4.8°. Practical wisdom is on offer where the Sun person needs it. I read it as help from someone who has been there, which works once it is asked for."

@@ -5,6 +5,8 @@ description: "North Node in Libra in a birth chart: a soloist learning the duet,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "Libra"]
 weight: 151
 glyph: "☊♎"
 definition: "North Node in Libra means the North Node, where the Moon’s path meets the Sun’s going north, was in cardinal air when you were born, opposite a South Node in Aries. I read it as a direction towards the duet: fairness, compromise and decisions made with someone, after long practice at doing things alone."

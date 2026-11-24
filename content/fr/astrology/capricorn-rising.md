@@ -6,6 +6,8 @@ description: "Ascendant Capricorne : la tenue d’abord, Saturne maître du th�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "Capricorne"]
 weight: 10
 glyph: "↑♑"
 definition: "Un ascendant Capricorne signifie que le Capricorne, signe de terre cardinal gouverné par Saturne, se levait à l’horizon est à votre naissance : votre ascendant est en Capricorne. Il décrit une façon posée et compétente d’aborder le monde, sérieuse tôt, plus stable avec le temps. À Londres, le Capricorne se lève en un peu moins que la moyenne de deux heures."

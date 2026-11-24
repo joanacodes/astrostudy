@@ -5,6 +5,8 @@ description: "Venus in Aquarius in a birth chart: friendship first, love between
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Aquarius"]
 weight: 47
 glyph: "♀♒"
 definition: "Venus in Aquarius sends the planet of value and attraction into fixed air, ruled by Uranus and, in the tradition, Saturn. It describes love that begins in friendship, a taste for equality, originality and principle, and a way of relating that gives the other person room, and needs room in return."

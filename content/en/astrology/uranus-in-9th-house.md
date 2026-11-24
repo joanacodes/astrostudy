@@ -5,6 +5,8 @@ description: "Uranus in the 9th house in a birth chart: a worldview built by que
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "9th house", "houses"]
 weight: 93
 glyph: "♅"
 definition: "Uranus in the 9th house puts the planet of change in the house of belief, higher study and long journeys, a cadent house whose natural sign is Sagittarius. I read it as a worldview built by questioning, with beliefs that break from what you were taught and learning on your own terms. It needs the birth time."

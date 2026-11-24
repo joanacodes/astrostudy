@@ -5,6 +5,8 @@ description: "Sign dates, and why they move: the Sun’s dates for the twelve si
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signs"]
+tags: ["zodiac signs"]
 weight: 27
 glyph: "✦"
 definition: "Sign dates are the days the Sun spends in each sign of the tropical zodiac: about 21 March to 19 April for Aries, and so on round the year. They are approximate because the Sun changes sign at a precise moment, which falls at a different hour, sometimes on a different day, from year to year and place to place."

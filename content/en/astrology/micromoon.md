@@ -5,6 +5,8 @@ description: "The micromoon: a full or new moon near apogee, the opposite of a s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["lunations"]
 weight: 17
 glyph: "◦"
 definition: "A micromoon is a full or new moon that falls when the Moon is near apogee, its farthest point from Earth: the opposite of a supermoon. Like the supermoon, it has no single agreed definition. A full moon then looks a little smaller and dimmer, and a solar eclipse at such a new moon can’t cover the whole Sun."

@@ -6,6 +6,8 @@ description: "Pluton opposition Nœud Nord dans un thème natal : Pluton sur le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Nœud Nord", "opposition"]
 weight: 364
 glyph: "♇☍☊"
 definition: "Pluton opposition Nœud Nord signifie qu’à votre naissance, Pluton se trouvait à environ 180° du Nœud Nord, juste à côté du Nœud Sud. Dans un thème, le renouveau en profondeur est un terrain familier : lâcher prise et recommencer viennent peut-être facilement, tandis que la direction de croissance, en face, demande de pratiquer une capacité moins connue."

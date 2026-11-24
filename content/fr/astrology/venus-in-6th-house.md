@@ -6,6 +6,8 @@ description: "Vénus en maison 6 dans un thème natal : la grâce dans les tâc
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "maison 6", "maisons"]
 weight: 42
 glyph: "♀"
 definition: "Vénus en maison 6 installe la planète de la valeur et de l’harmonie parmi les tâches, les habitudes et les collègues, dans la maison naturelle de la Vierge, sa chute. On y lit la grâce dans l’ordinaire, le besoin d’un cadre agréable, et une affection qui passe par le soin quotidien. Sans l’heure, impossible de la placer."

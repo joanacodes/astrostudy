@@ -6,6 +6,8 @@ description: "Lilith en Cancer dans un thème natal : un besoin de soin qu’on
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Cancer"]
 weight: 136
 glyph: "⚸♋"
 definition: "Lilith en Cancer signifie qu’à votre naissance, la Lune noire Lilith, un point de l’orbite lunaire, se trouvait dans le signe de la Lune, l’eau cardinale. J’y lis un besoin de soin appris tôt comme une chose à cacher, souvent derrière le soin des autres, et un instinct farouche de protéger ce que vous aimez."

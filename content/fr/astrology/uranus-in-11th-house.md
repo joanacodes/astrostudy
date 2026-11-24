@@ -6,6 +6,8 @@ description: "Uranus en maison 11 dans un thème natal : des amis et des causes
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "maison 11", "maisons"]
 weight: 95
 glyph: "♅"
 definition: "Uranus en maison 11 place la planète du changement dans la maison des amis, des groupes et des espoirs, une maison succédente dont le signe naturel est le Verseau, que gouverne Uranus en astrologie tropicale moderne. J’y lis un cercle choisi pour un idéal commun, et un besoin d’appartenir sans entrer dans un moule. Il faut l’heure de naissance."

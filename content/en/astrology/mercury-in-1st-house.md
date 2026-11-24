@@ -5,6 +5,8 @@ description: "Mercury in the 1st house in a birth chart: Mercury in its joy, a m
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "1st house", "houses"]
 weight: 25
 glyph: "☿"
 definition: "Mercury in the 1st house is the planet of thought and speech in the house of the self, where tradition says it rejoices. It describes a mind that shows on the outside: curiosity in your manner, questions in your first minutes with anyone, thinking that people can watch happen. It needs an accurate birth time."

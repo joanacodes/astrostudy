@@ -6,6 +6,8 @@ description: "Pluton carré Chiron dans un thème natal : le renouveau total fa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Chiron", "carré"]
 weight: 352
 glyph: "♇□⚷"
 definition: "Pluton carré Chiron place Pluton et Chiron à environ 90° d’écart, comme pour deux courts groupes de naissances : 1947–48 et 1992–94. Dans un thème, l’envie de transformer à la racine frotte contre ce qui ne peut que se contourner, une friction qui apprend ce qu’il faut laisser partir et ce avec quoi vivre."

@@ -6,6 +6,8 @@ description: "Jupiter en maison 4 dans un thème natal : une croissance qui par
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "maison 4", "maisons"]
 weight: 64
 glyph: "♃"
 definition: "Jupiter en maison 4 signifie que Jupiter se trouvait près du Fond du Ciel, dans la maison du foyer, des racines et du moi intime. J’y lis une croissance à partir des fondations : des convictions enracinées à la maison, un apprentissage en privé, un foyer qui a de la place pour les autres. Il faut une heure précise."

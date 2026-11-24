@@ -5,6 +5,8 @@ description: "Aquarius in astrology: the water-bearer, ruled by Uranus and Satur
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signs"]
+tags: ["Aquarius"]
 weight: 11
 glyph: "♒"
 definition: "Aquarius is the eleventh sign of the zodiac, a fixed air sign ruled by Uranus in modern tropical astrology and by Saturn in the tradition; the Sun crosses it from about 20 January to 18 February. In a birth chart it shows where you think independently, side with the group and want to do things differently."

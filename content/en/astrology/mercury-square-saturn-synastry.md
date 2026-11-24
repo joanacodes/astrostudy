@@ -5,6 +5,8 @@ description: "Mercury square Saturn in synastry: one person’s words meeting th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Saturn", "square", "synastry"]
 weight: 133
 glyph: "☿□♄"
 definition: "Mercury square Saturn in synastry sets one person’s Mercury about 90° from the other’s Saturn, within 5.1°. The first person’s quick words and the second’s standards press on each other: one can feel examined, the other unheard. I read it as friction that schools patience and precision on both sides, never as a verdict on either mind."

@@ -5,6 +5,8 @@ description: "Jupiter in Gemini in a birth chart: Jupiter in detriment, meaning 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Gemini"]
 weight: 63
 glyph: "♃♊"
 definition: "Jupiter in Gemini is Jupiter, the planet of growth and meaning, in the mutable air sign ruled by Mercury, where tradition places it in detriment. Everyone born within the same year or so shares it. I read it as understanding built from many sources: you grow by asking, comparing and talking ideas through."

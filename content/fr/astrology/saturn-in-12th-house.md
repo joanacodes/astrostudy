@@ -6,6 +6,8 @@ description: "Saturne en maison 12 dans un thème natal : dans sa joie, des peu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "maison 12", "maisons"]
 weight: 84
 glyph: "♄"
 definition: "Saturne en maison 12, c’est Saturne dans sa joie : la planète du temps et des limites dans la maison de la solitude, du repos et de ce qui se passe loin des regards. On y lit des peurs traversées en silence, une force puisée dans le retrait, et une discipline au service de la vie intérieure."

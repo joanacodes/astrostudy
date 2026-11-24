@@ -6,6 +6,8 @@ description: "Lune en Capricorne dans un thème natal : l’exil de la Lune, lu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Capricorne"]
 weight: 22
 glyph: "☽♑"
 definition: "La Lune en Capricorne signifie que la Lune se trouvait en Capricorne à votre naissance, le signe que la tradition appelle son exil. J’y lis une sécurité trouvée dans la structure et la responsabilité, des émotions gérées en prenant la situation en main puis libérées une fois à l’abri, et un amour qui passe par la fiabilité."

@@ -5,6 +5,8 @@ description: "Sun conjunct Chiron in a birth chart: a tender place close to the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Chiron", "conjunction"]
 weight: 38
 glyph: "☉☌⚷"
 definition: "Sun conjunct Chiron means Chiron lay within a few degrees of your Sun at birth. In a chart it puts a tender place near the centre of who you are: how you shine and where you once struggled are bound together. I read it as a sore spot that, worked with, becomes a skill to share."

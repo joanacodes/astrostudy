@@ -5,6 +5,8 @@ description: "Mercury in Sagittarius in a birth chart: Mercury in detriment, a m
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Sagittarius"]
 weight: 33
 glyph: "☿♐"
 definition: "Mercury in Sagittarius is Mercury in its detriment: the planet of detail in mutable fire, the sign of the whole picture, ruled by Jupiter. It describes a mind that thinks in principles and stories, learns through meaning and speaks frankly, gathering the sense first and the details after. About 1 person in 11 has it."

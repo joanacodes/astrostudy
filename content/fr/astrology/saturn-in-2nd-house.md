@@ -6,6 +6,8 @@ description: "Saturne en maison 2 dans un thème natal : l’argent, les biens 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "maison 2", "maisons"]
 weight: 74
 glyph: "♄"
 definition: "En maison 2, Saturne prend en charge ce que vous possédez et ce que vous valez : l’argent, les biens, les valeurs, l’estime de soi. On y lit une sécurité bâtie avec constance, et un sentiment de sa propre valeur qui prend du temps à s’installer. Ce placement dit comment vous gérez l’avoir, jamais combien vous aurez."

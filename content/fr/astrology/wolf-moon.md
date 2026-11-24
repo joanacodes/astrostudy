@@ -6,6 +6,8 @@ description: "La lune du loup : la pleine lune de janvier des almanachs, d’o�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 20
 glyph: "○"
 definition: "La lune du loup est un nom populaire de la pleine lune de janvier, répandu par des almanachs américains dès les années 1930 ; son origine reste obscure. C’est un nom de l’hémisphère Nord, pour le cœur de l’hiver. Dans un thème, c’est une pleine lune en Cancer ou en Lion, face au Soleil en Capricorne ou en Verseau."

@@ -6,6 +6,8 @@ description: "Soleil carré Saturne dans un thème natal : une confiance en soi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Saturne", "carré"]
 weight: 20
 glyph: "☉□♄"
 definition: "Le carré Soleil–Saturne place les deux à un quart de cercle, en général dans des signes qui partagent un mode. Dans un thème, votre but rencontre sans cesse les exigences de la structure. J’y lis une confiance en soi qui grandit contre le doute, lentement, et qui tient une fois là."

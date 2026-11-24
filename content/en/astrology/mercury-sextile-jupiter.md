@@ -5,6 +5,8 @@ description: "Mercury sextile Jupiter in a birth chart: curiosity with a sense o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Jupiter", "sextile"]
 weight: 116
 glyph: "☿⚹♃"
 definition: "Mercury sextile Jupiter means Mercury and Jupiter were about 60° apart when you were born. In a chart your questions and your search for meaning help each other: a detail can lead you to the larger view, and the larger view back to the facts. I read it as an invitation to learn, not a promise of easy answers."

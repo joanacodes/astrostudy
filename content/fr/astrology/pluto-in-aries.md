@@ -6,6 +6,8 @@ description: "Pluton en Bélier dans un thème natal : la transformation par le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Bélier"]
 weight: 109
 glyph: "♇♈"
 definition: "Pluton en Bélier, c’est la planète de la transformation dans le premier signe du zodiaque, signe de feu cardinal gouverné par Mars. Aucune personne née entre 1930 et 2009 n’a ce placement, qui appartient aux naissances de 1822 à 1853 et de 2066 à 2097. On y lit un renouveau par le recommencement, porté par le courage."

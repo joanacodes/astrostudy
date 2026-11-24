@@ -5,6 +5,8 @@ description: "Mars sextile Lilith in a birth chart: a side door between your dri
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Lilith", "sextile"]
 weight: 231
 glyph: "♂⚹⚸"
 definition: "Mars sextile Lilith places Mars about 60° from Black Moon Lilith in a birth chart, usually two signs apart. It gives your drive access to your wilder instincts without letting them take over. I read it as a chosen freedom: you can step off the expected path when it serves you, then step back."

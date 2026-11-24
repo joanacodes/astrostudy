@@ -6,6 +6,8 @@ description: "Lune trigone Nœud Nord en synastrie : le réconfort de l’une a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Nœud Nord", "trigone", "synastrie"]
 weight: 114
 glyph: "☽△☊"
 definition: "Lune trigone Nœud Nord en synastrie signifie que la Lune d’une personne se trouve à environ 120° du Nœud Nord de l’autre, à 6,8° près, soit vers 60° de son Nœud Sud. Les réconforts de l’une vont dans le même sens que la croissance de l’autre. J’y lis un soutien qui fait avancer et mérite d’être nommé."

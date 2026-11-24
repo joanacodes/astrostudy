@@ -6,6 +6,8 @@ description: "Saturne opposition Chiron dans un thème natal : force et vulnér
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Chiron", "opposition"]
 weight: 294
 glyph: "♄☍⚷"
 definition: "Saturne opposition Chiron sépare Saturne et Chiron d’environ 180°, comme de 1985 à 1997, par intermittence, puis de 2002 à 2007. Dans un thème, elle oppose la structure que vous savez porter à une difficulté durable, et vous demande de tenir les deux : compétence et limite côte à côte, sans que l’une vous définisse."

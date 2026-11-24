@@ -5,6 +5,8 @@ description: "Mars in the 11th house in a birth chart: drive for friends, groups
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "11th house", "houses"]
 weight: 59
 glyph: "♂"
 definition: "Mars in the 11th house gives your drive to friends, groups and hopes, in the house tradition called the Good Spirit. It describes energy for teams and shared goals: you organise, rally people, defend your friends and work for the future you’d like to see. Like every house placement, it rests on an exact birth time."

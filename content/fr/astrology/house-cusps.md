@@ -6,6 +6,8 @@ description: "Les cuspides des maisons en astrologie : la ligne où commence ch
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "houses"
+categories: ["Maisons"]
+tags: ["maisons"]
 weight: 35
 glyph: "✦"
 definition: "La cuspide d’une maison est la ligne où elle commence : un degré du zodiaque, d’où la maison s’étend jusqu’à la cuspide suivante. En Placidus et dans les autres systèmes par quadrants, les cuspides des maisons 1, 4, 7 et 10 sont les quatre angles. Le signe sur la cuspide colore la maison ; son maître montre où va l’histoire."

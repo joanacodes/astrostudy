@@ -5,6 +5,8 @@ description: "Mars sextile Neptune in a birth chart: imagination ready to guide 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Neptune", "sextile"]
 weight: 216
 glyph: "♂⚹♆"
 definition: "Mars sextile Neptune links your drive to your imagination at about 60°, usually in signs two apart. In a chart it lets intuition and compassion guide what you do, whenever you choose to let them: inspired effort is on offer. I read it as a standing invitation to act on what you imagine."

@@ -5,6 +5,8 @@ description: "Sun square Pluto in synastry: one person’s drive to transform pr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Pluto", "square", "synastry"]
 weight: 43
 glyph: "☉□♇"
 definition: "Sun square Pluto in synastry is friction between one person’s self-expression and the other’s drive to transform, Pluto lying about 90° from the Sun within 6.8°. One feels pressed, the other resisted. Worked through, it leaves both surer of their own ground; it is never a battle someone must win."

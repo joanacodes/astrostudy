@@ -5,6 +5,8 @@ description: "Venus opposite Neptune in a birth chart: the chosen and the imagin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Neptune", "opposition"]
 weight: 179
 glyph: "♀☍♆"
 definition: "Venus opposite Neptune means Venus and Neptune stood about 180° apart when you were born, on opposite sides of the zodiac. In a chart, what you value and what you idealise face each other, the chosen and the imagined. I read it as a polarity that teaches you to love clearly, often learned through other people."

@@ -5,6 +5,8 @@ description: "Neptune sextile Lilith in a birth chart: imagination as a way out 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Lilith", "sextile"]
 weight: 341
 glyph: "♆⚹⚸"
 definition: "Neptune sextile Lilith is an angle of about 60° between Neptune and the mean Black Moon Lilith, found in about 1 person in 16. In a chart, imagination offers your untamed side a gentle way into the open, through art, dreams or belief, whenever you choose to take it."

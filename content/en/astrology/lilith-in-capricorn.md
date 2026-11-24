@@ -5,6 +5,8 @@ description: "Lilith in Capricorn in a birth chart: an ambition that learned to 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Capricorn"]
 weight: 142
 glyph: "⚸♑"
 definition: "Lilith in Capricorn means Black Moon Lilith, the Moon’s farthest point from Earth, was in cardinal earth, the sign Saturn rules, when you were born. I read it as an ambition and an authority of your own that learned early to look modest, and a patient refusal to be governed by rules you don’t respect."

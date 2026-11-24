@@ -5,6 +5,8 @@ description: "Luminaries in astrology: the Sun and the Moon, the two lights of a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 21
 glyph: "☉☽"
 definition: "The luminaries are the Sun and the Moon, the two lights of astrology. Neither is a planet to an astronomer: one is a star, the other Earth’s satellite. In a birth chart they are read as a pair, the Sun for purpose and the Moon for needs, with the angle between them as the phase you were born under."

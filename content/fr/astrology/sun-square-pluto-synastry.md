@@ -6,6 +6,8 @@ description: "Soleil carré Pluton en synastrie : l’envie de transformer, che
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Pluton", "carré", "synastrie"]
 weight: 43
 glyph: "☉□♇"
 definition: "Soleil carré Pluton en synastrie place l’expression de soi d’une personne à angle droit avec le besoin de transformer de l’autre, Pluton formant avec le Soleil un angle d’environ 90°, à 6,8° près. L’une se sent pressée, l’autre freinée. J’y lis une friction qui peut affermir le terrain de chacune, jamais une bataille que quelqu’un devrait gagner."

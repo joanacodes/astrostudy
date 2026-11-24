@@ -6,6 +6,8 @@ description: "Lune conjonction Mercure en synastrie : les mots de l’une tombe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Mercure", "conjonction", "synastrie"]
 weight: 61
 glyph: "☽☌☿"
 definition: "Lune conjonction Mercure en synastrie réunit, à 8° près, la Lune d’une personne et Mercure dans le thème de l’autre. La façon de penser et de parler de l’une tombe là où l’autre ressent, si bien que la compréhension vient vite. J’y lis un don pour mettre des mots sur les émotions, et une tendance à les nommer trop tôt."

@@ -6,6 +6,8 @@ description: "Mercure rétrograde : est-ce que tout casse ? Ce que fait vraim
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "test"]
 weight: 20
 glyph: "✦"
 definition: "Aucune étude à ma connaissance ne le montre. Mercure rétrograde est un mouvement apparent : trois ou quatre fois par an, pendant environ trois semaines, Mercure semble reculer devant les étoiles autour de son passage au plus près de la Terre, sans jamais changer de sens. Je lis cette période comme une météo, pas comme une prévision."

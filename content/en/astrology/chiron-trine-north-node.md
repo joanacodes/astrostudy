@@ -5,6 +5,8 @@ description: "Chiron trine North Node in a birth chart: what you learned by adap
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "North Node", "trine"]
 weight: 373
 glyph: "⚷△☊"
 definition: "Chiron trine North Node is a 120° angle between Chiron and the North Node at birth, which also leaves Chiron 60° from the South Node. In a chart, what you learned by adapting around a lasting difficulty flows into your direction of growth: the work-arounds you built tend to carry you towards what you are learning."

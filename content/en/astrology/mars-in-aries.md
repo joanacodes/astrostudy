@@ -5,6 +5,8 @@ description: "Mars in Aries in a birth chart: Mars in its own sign, where wantin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Aries"]
 weight: 49
 glyph: "♂♈"
 definition: "Mars in Aries is Mars in its domicile: the planet of action, effort and assertion in the sign it rules, cardinal fire. It describes drive with nothing to translate: you decide by moving, say plainly what you want, and find courage easiest at the start. About 1 person in 14 born 1930–2009 has it."

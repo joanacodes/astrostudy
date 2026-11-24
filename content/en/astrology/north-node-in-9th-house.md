@@ -5,6 +5,8 @@ description: "North Node in the 9th house in a birth chart: going beyond the fam
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "9th house", "houses"]
 weight: 153
 glyph: "☊"
 definition: "North Node in the 9th house means the North Node, where the Moon’s path climbs north across the Sun’s, lay in the house of far horizons at your birth, with the South Node in the 3rd. I read it as growth beyond the familiar: study, travel and a philosophy you’ve earned, after a habit of keeping to the known."

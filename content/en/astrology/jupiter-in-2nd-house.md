@@ -5,6 +5,8 @@ description: "Jupiter in the 2nd house in a birth chart: growth through values, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "2nd house", "houses"]
 weight: 62
 glyph: "♃"
 definition: "Jupiter in the 2nd house means Jupiter was in the house of what you have and what you value. I read it as growth through values and talents: a generous, trusting relationship with resources, principles about what is enough, and skills that widen over time. It doesn’t promise money, and it needs an accurate birth time."

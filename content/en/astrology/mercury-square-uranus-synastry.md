@@ -5,6 +5,8 @@ description: "Mercury square Uranus in synastry: one person’s step-by-step thi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Uranus", "square", "synastry"]
 weight: 138
 glyph: "☿□♅"
 definition: "Mercury square Uranus in synastry means one person’s Mercury and the other’s Uranus are about 90° apart, within 5.1°. The first person’s step-by-step thinking keeps meeting the second’s leaps and U-turns, whether you're talking or deciding. I read it as friction that can produce ideas both original and workable, never as chaos."

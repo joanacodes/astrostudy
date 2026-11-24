@@ -5,6 +5,8 @@ description: "The Worm moon, March’s full moon: its dates and signs from 2026 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 22
 glyph: "○"
 definition: "The Worm moon is the almanacs’ name for the full moon of March, when the thawing ground brings worms back to the surface. It is a folk name, not an astrological term. In a chart, it is a full moon in Virgo before the spring equinox, or in Libra after it, read by its sign and house."

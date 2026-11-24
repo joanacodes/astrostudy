@@ -6,6 +6,8 @@ description: "Mars en astrologie : votre élan, votre désir et votre colère, 
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planètes et points"]
+tags: ["Mars"]
 weight: 5
 glyph: "♂"
 definition: "Mars est la planète rouge et, en astrologie, celle de l’élan : votre façon d’aller chercher ce que vous voulez, de rivaliser, de vous défendre et de vous mettre en colère. Dans un thème natal, son signe montre le style de cette énergie, sa maison où vous la dépensez, ses aspects avec quelle liberté elle circule."

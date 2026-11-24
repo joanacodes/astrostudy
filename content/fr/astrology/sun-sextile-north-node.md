@@ -6,6 +6,8 @@ description: "Soleil sextile Nœud Nord dans un thème natal : une ouverture en
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Nœud Nord", "sextile"]
 weight: 49
 glyph: "☉⚹☊"
 definition: "Soleil sextile Nœud Nord signifie qu’à votre naissance, le Soleil et le Nœud Nord étaient à environ 60° d’écart, ce qui place aussi le Soleil en trigone au Nœud Sud. Dans un thème, votre sens du but a une ouverture facile vers votre direction de croissance, soutenue par vos acquis. J’y lis une croissance à commencer quand vous le choisissez."

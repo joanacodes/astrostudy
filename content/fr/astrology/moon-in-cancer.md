@@ -6,6 +6,8 @@ description: "Lune en Cancer dans un thème natal : la Lune dans son propre sig
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Cancer"]
 weight: 16
 glyph: "☽♋"
 definition: "La Lune en Cancer signifie que la Lune se trouvait en Cancer, le signe qu’elle gouverne, à votre naissance : la tradition parle de son domicile. J’y lis des émotions profondes à la longue mémoire, le besoin d’un endroit sûr où revenir, et une façon de prendre soin qui fait le premier pas pour protéger."

@@ -5,6 +5,8 @@ description: "Sun square Chiron in synastry: what one person does easily can sti
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Chiron", "square", "synastry"]
 weight: 48
 glyph: "☉□⚷"
 definition: "Sun square Chiron in synastry pushes one person’s self-expression up against the other’s sore spot from the side, Chiron about 90° from the Sun, within 6.8°. What one does easily can sting the other. I read it as friction that teaches both people the tender ground, and builds tact and new methods along the way."

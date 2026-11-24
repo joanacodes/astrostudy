@@ -6,6 +6,8 @@ description: "Mercure sextile Saturne dans un thème natal : une méthode à po
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Saturne", "sextile"]
 weight: 121
 glyph: "☿⚹♄"
 definition: "Mercure sextile Saturne signifie qu’à votre naissance, Mercure et Saturne étaient à environ 60° d’écart. Dans un thème, votre pensée peut faire appel à la structure dès que vous le lui demandez : des projets menés au bout, des études qui restent, des mots préparés avec soin. J’y lis une ouverture discrète vers la maîtrise, qui récompense la patience."

@@ -5,6 +5,8 @@ description: "Cold reading: the techniques that make a stranger feel known, as R
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["testing", "cognitive biases"]
 weight: 14
 glyph: "✦"
 definition: "Cold reading is a set of techniques used by mentalists, psychics, fortune-tellers and mediums to seem to know a stranger: confidence, statements that fit many people, an eye for clothing, manner and speech, and flattery. The psychologist Ray Hyman described it in 1977. A reader can slip into it without meaning to."

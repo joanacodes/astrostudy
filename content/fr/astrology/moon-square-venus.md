@@ -6,6 +6,8 @@ description: "Lune carré Vénus dans un thème natal : le réconfort qu’il v
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Vénus", "carré"]
 weight: 60
 glyph: "☽□♀"
 definition: "Lune carré Vénus décrit la Lune et Vénus à environ 90° l’une de l’autre à la naissance, le plus souvent à trois signes d’écart. Vos apaisements et vos attirances réclament des choses différentes. J’y lis une friction qui apprend à demander clairement ce dont vous avez besoin, jamais une malédiction sur l’amour."

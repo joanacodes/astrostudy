@@ -6,6 +6,8 @@ description: "Lune carré Mercure en synastrie : l’une a besoin d’être rej
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Mercure", "carré", "synastrie"]
 weight: 63
 glyph: "☽□☿"
 definition: "Lune carré Mercure en synastrie place la Lune d’une personne à environ 90° de Mercure dans le thème de l’autre, à 6,8° près. Le ressenti d’un côté et l’explication de l’autre ratent sans cesse leur moment. J’y lis une friction qui apprend à deux personnes une langue commune pour les émotions, jamais une incapacité à communiquer."

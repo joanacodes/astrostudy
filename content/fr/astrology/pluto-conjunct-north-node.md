@@ -6,6 +6,8 @@ description: "Pluton conjonction Nœud Nord dans un thème natal : le renouveau
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Nœud Nord", "conjonction"]
 weight: 360
 glyph: "♇☌☊"
 definition: "Pluton conjonction Nœud Nord : à votre naissance, Pluton était à quelques degrés seulement du Nœud Nord, et donc en face du Nœud Sud. Dans un thème, le renouveau en profondeur se pose sur votre direction de croissance : laisser partir ce qui est usé devient une chose que vous pratiquez et faites de mieux en mieux, plutôt qu’un bouleversement unique."

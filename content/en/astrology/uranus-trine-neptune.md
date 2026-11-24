@@ -5,6 +5,8 @@ description: "Uranus trine Neptune in a birth chart: new ideas and wide ideals i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Neptune", "trine"]
 weight: 308
 glyph: "♅△♆"
 definition: "Uranus trine Neptune is a 120° angle between the two planets, in orb on and off from 1936 to 1946, first in earth signs, then in air. In a chart, new ideas and wide ideals run the same way, so change tends to carry a vision with it. A generation shares it; your houses make it yours."

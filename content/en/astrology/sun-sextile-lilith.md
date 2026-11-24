@@ -5,6 +5,8 @@ description: "Sun sextile Lilith in a birth chart: your instinct and autonomy on
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Lilith", "sextile"]
 weight: 44
 glyph: "☉⚹⚸"
 definition: "Sun sextile Lilith means the Sun and Black Moon Lilith were about 60° apart when you were born. In a chart it opens a door between your sense of purpose and the part of you that wouldn’t obey: instinct, autonomy, a clear no. I read it as an independence you can call on, once you choose to use it."

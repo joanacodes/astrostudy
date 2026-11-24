@@ -5,6 +5,8 @@ description: "Neptune sextile Pluto in a birth chart: the aspect that lasted hal
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Pluto", "sextile"]
 weight: 331
 glyph: "♆⚹♇"
 definition: "Neptune sextile Pluto means Neptune and Pluto about 60° apart, an aspect that lasted for decades: about 7 people in 10 born between 1930 and 2009 have it, including nearly everyone born from 1943 to 1993. In a chart it opens a door between imagination and deep renewal; the houses make it personal."

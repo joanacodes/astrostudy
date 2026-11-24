@@ -6,6 +6,8 @@ description: "Mercure conjonction Chiron en synastrie : les mots de l’une tom
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Chiron", "conjonction", "synastrie"]
 weight: 151
 glyph: "☿☌⚷"
 definition: "Mercure conjonction Chiron en synastrie signifie que Mercure, chez une personne, se trouve à moins de 6° de Chiron chez l’autre. La façon dont l’une questionne et explique tombe là où l’autre a dû s’adapter. J’y lis une rencontre sensible, qui demande des mots choisis et peut apprendre aux deux une autre façon de se parler."

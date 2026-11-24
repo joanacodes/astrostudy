@@ -6,6 +6,8 @@ description: "Pluton trigone Nœud Nord dans un thème natal : un renouveau qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Nœud Nord", "trigone"]
 weight: 363
 glyph: "♇△☊"
 definition: "Pluton trigone Nœud Nord, c’est un angle de 120° entre Pluton et le Nœud Nord à la naissance, qui place aussi Pluton à 60° du Nœud Sud. Dans un thème, le renouveau coule vers votre direction de croissance : quand quelque chose est déblayé puis reconstruit, la reconstruction regarde en général dans le sens où vous apprenez à aller."

@@ -5,6 +5,8 @@ description: "Venus in Libra in a birth chart: Venus at home in the sign of the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Libra"]
 weight: 43
 glyph: "♀♎"
 definition: "Venus in Libra is Venus in one of its own signs, cardinal air, which it rules. It describes a taste for balance and proportion, a way of relating built on fairness, courtesy and partnership, and a harmony that is worth most when it comes from both people speaking, not from one of them staying quiet."

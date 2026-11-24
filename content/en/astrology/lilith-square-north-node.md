@@ -5,6 +5,8 @@ description: "Lilith square North Node in a birth chart: your untamed side fits 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "North Node", "square"]
 weight: 377
 glyph: "⚸□☊"
 definition: "Lilith square North Node puts the mean Black Moon Lilith about 90° from the North Node at birth, and so 90° from the South Node too. In a chart, the part of you that won’t be managed sits across both familiar habits and new growth, and the friction keeps asking for a direction wide enough to include it."

@@ -5,6 +5,8 @@ description: "Moon square Jupiter in synastry: one person’s generosity arrives
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Jupiter", "square", "synastry"]
 weight: 78
 glyph: "☽□♃"
 definition: "Moon square Jupiter in synastry means one person’s Jupiter stands about 90° from the other’s Moon, within 6.8°. One person’s urge to grow reaches the other’s needs at a size or a moment that doesn’t quite match. To me it’s friction over size and timing, and living with it can make two people good judges of both."

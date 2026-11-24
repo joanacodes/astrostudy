@@ -5,6 +5,8 @@ description: "Sun in Scorpio in a birth chart: an identity with a private core, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Scorpio"]
 weight: 8
 glyph: "☉♏"
 definition: "Sun in Scorpio is the Sun sign for births from about 23 October to 21 November, in fixed water ruled by Pluto in modern tropical astrology and by Mars in the tradition. I read it as an identity with a private core, a vitality that renews itself after loss, and a purpose that refuses to stay on the surface."

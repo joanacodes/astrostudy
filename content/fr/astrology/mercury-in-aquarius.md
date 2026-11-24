@@ -6,6 +6,8 @@ description: "Mercure en Verseau dans un thème natal : un esprit indépendant 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Verseau"]
 weight: 35
 glyph: "☿♒"
 definition: "Mercure en Verseau place la planète de la pensée et de la parole en air fixe, le signe d’Uranus et, traditionnellement, de Saturne. On y lit un esprit indépendant et inventif, qui pense en systèmes, interroge les règles incapables de se justifier et tient à ce qu’il a établi par le raisonnement. Environ 1 personne sur 12 l’a."

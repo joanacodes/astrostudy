@@ -5,6 +5,8 @@ description: "Jupiter in the 11th house in a birth chart: Jupiter in its joy, gr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "11th house", "houses"]
 weight: 71
 glyph: "♃"
 definition: "Jupiter in the 11th house means Jupiter was in the house of friends, groups and hopes, which tradition called the Good Spirit and gave to Jupiter as its joy. I read it as growth in company: friendships that widen you, hopes shared and built with others, and a future worked on together. It needs an accurate birth time."

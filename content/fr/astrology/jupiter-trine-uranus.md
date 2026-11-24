@@ -6,6 +6,8 @@ description: "Jupiter trigone Uranus dans un thème natal : croissance et chang
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Uranus", "trigone"]
 weight: 248
 glyph: "♃△♅"
 definition: "Jupiter trigone Uranus signifie que les deux planètes formaient un angle d’environ 120° à votre naissance, une configuration que portent les naissances de quelques mois d’affilée. Croissance et innovation coulent ensemble : les idées neuves élargissent votre regard au lieu de le déstabiliser. J’y lis un rapport facile au changement, à utiliser exprès."

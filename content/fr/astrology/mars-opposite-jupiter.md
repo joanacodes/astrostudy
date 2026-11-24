@@ -6,6 +6,8 @@ description: "Mars opposition Jupiter dans un thème natal : agir tout de suite
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Jupiter", "opposition"]
 weight: 204
 glyph: "♂☍♃"
 definition: "Mars opposition Jupiter signifie qu’à votre naissance, Mars et Jupiter étaient à environ 180° d’écart, dans des signes opposés. Dans un thème, l’envie d’agir tout de suite fait face à l’envie de comprendre l’ensemble, et chacune demande à éclairer l’autre. J’y lis une polarité à équilibrer, jamais une lutte intérieure."

@@ -5,6 +5,8 @@ description: "Saturn in Aquarius in a birth chart: rules that serve the group, i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Aquarius"]
 weight: 83
 glyph: "♄♒"
 definition: "Saturn in Aquarius gives the group a keeper of its rules: the planet of structure in fixed air, the sign of groups and ideas, ruled by Saturn in the tradition and by Uranus in modern tropical astrology. The most common Saturn sign of 1930–2009, it belongs to the cohorts of roughly 1932–35, 1962–64 and 1991–94."

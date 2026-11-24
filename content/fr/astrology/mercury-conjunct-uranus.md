@@ -6,6 +6,8 @@ description: "Mercure conjonction Uranus dans un thème natal : la pensée et l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Uranus", "conjonction"]
 weight: 125
 glyph: "☿☌♅"
 definition: "Mercure conjonction Uranus signifie qu’à votre naissance, Mercure et Uranus étaient à quelques degrés d’écart. Dans le thème, la pensée se fond avec l’envie de faire autrement : les idées arrivent entières, et souvent en avance. J’y lis un esprit original qui apprend à s’expliquer."

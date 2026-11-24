@@ -6,6 +6,8 @@ description: "Mercure conjonction Jupiter dans un thème natal : les faits et l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Jupiter", "conjonction"]
 weight: 115
 glyph: "☿☌♃"
 definition: "Mercure conjonction Jupiter signifie qu’à votre naissance, Mercure et Jupiter étaient à quelques degrés d’écart. Cette conjonction unit, dans le thème, votre façon de saisir le détail et votre façon de trouver du sens : un fait ouvre sur un tableau plus large. J’y lis un esprit qui enseigne, à son meilleur quand il vérifie ses faits."

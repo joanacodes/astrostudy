@@ -5,6 +5,8 @@ description: "Mercury square Pluto in synastry: one person’s light, quick talk
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Pluto", "square", "synastry"]
 weight: 148
 glyph: "☿□♇"
 definition: "Mercury square Pluto in synastry places a Mercury in one chart about 90° from a Pluto in the other, within 5.1°. The first person’s easy, moving talk and the second’s need to reach what lies underneath keep tripping over each other. I read it as friction that teaches honest, careful speech, never as a battle for control."

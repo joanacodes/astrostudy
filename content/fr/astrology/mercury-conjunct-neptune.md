@@ -6,6 +6,8 @@ description: "Mercure conjonction Neptune dans un thème natal : penser en imag
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Neptune", "conjonction"]
 weight: 130
 glyph: "☿☌♆"
 definition: "Mercure conjonction Neptune, c’est la rencontre des deux à quelques degrés près : Mercure, la planète de l’esprit, à côté de Neptune, la planète de l’imagination. Dans un thème, les deux fonctions agissent ensemble : les idées arrivent avec des images, un ton, une atmosphère. J’y lis un esprit qui comprend par résonance, et qui gagne à vérifier deux fois les faits."

@@ -5,6 +5,8 @@ description: "Moon trine Lilith in synastry: one person’s comfort and the othe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Lilith", "trine", "synastry"]
 weight: 109
 glyph: "☽△⚸"
 definition: "Moon trine Lilith in synastry means one person’s Moon is about 120° from the other’s mean Black Moon Lilith, within 6.8°, as a rule in signs of a shared element. One person’s need for comfort and the other’s untamed side suit each other, so neither has to shrink. I read it as easy acceptance, which still needs attention."

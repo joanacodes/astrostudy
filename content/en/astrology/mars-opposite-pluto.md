@@ -5,6 +5,8 @@ description: "Mars opposite Pluto in a birth chart: your will and the pull of de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Pluto", "opposition"]
 weight: 224
 glyph: "♂☍♇"
 definition: "Mars opposite Pluto puts your will and the pull of transformation at the two ends of the chart, about 180° apart. In a chart it often shows through other people first: strong wills, intense situations, questions of power. I read it as a polarity that teaches shared power and proportion, never as a destiny of conflict."

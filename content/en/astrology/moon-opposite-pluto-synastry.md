@@ -5,6 +5,8 @@ description: "Moon opposite Pluto in synastry: a harbour on one side, deep water
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Pluto", "opposition", "synastry"]
 weight: 100
 glyph: "☽☍♇"
 definition: "Moon opposite Pluto in synastry means one person’s Pluto faces the other’s Moon from about 180° away, within 8°. Safety and the familiar usually fall to one, the push to go deeper and change to the other. To me it’s a polarity of security and transformation, workable when power passes both ways."

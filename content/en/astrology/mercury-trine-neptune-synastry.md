@@ -5,6 +5,8 @@ description: "Mercury trine Neptune in synastry: one person’s words and the ot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Neptune", "trine", "synastry"]
 weight: 144
 glyph: "☿△♆"
 definition: "Mercury trine Neptune in synastry describes a Mercury and a Neptune about 120° apart, within 5.1°, one in each person’s chart. What the Mercury person says and what the Neptune person imagines flow together, so feelings find their sentences between you. I read it as a gentle, creative ease that still needs room for hard truths."

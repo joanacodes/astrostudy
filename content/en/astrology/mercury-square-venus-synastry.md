@@ -5,6 +5,8 @@ description: "Mercury square Venus in synastry: a contact no one is born with, w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Venus", "square", "synastry"]
 weight: 118
 glyph: "☿□♀"
 definition: "Mercury square Venus in synastry means one person’s Mercury is about 90° from the other’s Venus, within 5.1°, an angle no single chart can hold. One person’s reasoning meets the other’s sense of value at right angles, and tone gets heard before content. I read it as friction that teaches precision and tact together."

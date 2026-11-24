@@ -5,6 +5,8 @@ description: "Jupiter square Uranus in a birth chart: friction between what you 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Uranus", "square"]
 weight: 247
 glyph: "♃□♅"
 definition: "Jupiter square Uranus means a right angle between the two planets at birth, one that recurs about every seven years and is carried by a few months of births. Your frame of meaning and your urge for change keep pushing on each other, so beliefs rarely settle for long. I read it as friction that reforms, not as instability."

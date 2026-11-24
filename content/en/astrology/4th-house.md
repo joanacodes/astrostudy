@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["4th house", "fourth house"]
 family: "houses"
+categories: ["Houses"]
+tags: ["4th house"]
 weight: 4
 glyph: "IV"
 definition: "The 4th house is the fourth of the twelve houses of a birth chart, at the very bottom of the wheel: it begins at the Imum Coeli, the point opposite the Midheaven. Astrologers read it as home, roots and family — where you come from, what you build in order to belong, and the private self underneath."

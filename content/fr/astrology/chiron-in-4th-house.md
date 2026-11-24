@@ -6,6 +6,8 @@ description: "Chiron en maison 4 dans un thème natal : un point sensible autou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "maison 4", "maisons"]
 weight: 124
 glyph: "⚷"
 definition: "Chiron en maison 4 signifie que Chiron se trouvait à la racine du thème, dans la maison du foyer, de la famille et de la vie intime, qui commence au Fond du Ciel en Placidus. Il décrit une adaptation autour de l’appartenance, et un terrain bien à vous : un foyer et une famille choisis. Il faut l’heure de naissance."

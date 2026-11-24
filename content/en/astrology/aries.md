@@ -5,6 +5,8 @@ description: "Aries in astrology: the first sign, cardinal fire ruled by Mars â€
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signs"]
+tags: ["Aries"]
 weight: 1
 glyph: "â™ˆ"
 definition: "Aries is the first sign of the zodiac, a cardinal fire sign ruled by Mars, which the Sun crosses from about 21 March to 19 April. In a birth chart it marks where you would rather act than wait: courage, directness, the urge to begin. The house it falls in shows where that drive goes first."

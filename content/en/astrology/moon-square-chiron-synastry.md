@@ -5,6 +5,8 @@ description: "Moon square Chiron in synastry: one person’s comforts brush the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Chiron", "square", "synastry"]
 weight: 103
 glyph: "☽□⚷"
 definition: "Moon square Chiron in synastry means one person’s Moon is about 90° from the other’s Chiron, within 6.8°. One person’s ordinary needs keep brushing the place where the other has adapted to a lasting sensitivity, and comfort can misfire. I read it as a friction that slowly makes two people’s care more precise."

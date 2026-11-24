@@ -5,6 +5,8 @@ description: "Sun in Aries, Moon in Capricorn: two cardinal signs, Mars and Satu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries", "Moon", "Capricorn"]
 weight: 10
 glyph: "☉♈☽♑"
 definition: "Sun in Aries, Moon in Capricorn pairs two cardinal signs, the Moon three signs behind the Sun, in a birth about twenty to twenty-four and a half days after a new moon. I read it as two ways of taking charge, the Sun by impulse and the Moon by plan, with feelings handled before they are shown."

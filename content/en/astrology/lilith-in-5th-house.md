@@ -5,6 +5,8 @@ description: "Lilith in the 5th house in a birth chart: a joy that had to justif
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "5th house", "houses"]
 weight: 137
 glyph: "⚸"
 definition: "Lilith in the 5th house means Black Moon Lilith, the Moon’s farthest point from Earth, sat in the house of play, pleasure, romance and creative work when you were born. I read it as a joy that was once made to justify itself, and a refusal to enjoy things, make things or love people in the approved way."

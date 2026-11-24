@@ -6,6 +6,8 @@ description: "Les abréviations en astrologie, en toutes lettres : AC ou ASC, D
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Lectures"]
+tags: ["thème natal"]
 weight: 5
 glyph: "✦"
 definition: "Les abréviations en astrologie sont les lettres qu’un thème ou des éphémérides emploient pour des points et des mouvements : AC ou ASC pour l’ascendant, DC ou DSC pour le descendant, MC pour le Milieu du Ciel, FC ou IC pour le Fond du Ciel, NN et SN pour les nœuds Nord et Sud, R ou ℞ pour rétrograde, D pour direct."

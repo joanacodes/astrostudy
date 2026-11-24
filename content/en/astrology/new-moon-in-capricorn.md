@@ -5,6 +5,8 @@ description: "The new moon in Capricorn, the first after the December solstice: 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "new moon", "Capricorn"]
 weight: 45
 glyph: "●♑"
 definition: "The new moon in Capricorn is the Sun and Moon meeting in Capricorn, the first new moon after the December solstice, always close to the calendar’s new year. It opens a lunar month in Capricorn’s manner: responsibility, structure, aims measured in years. In a birth chart it counts only within about 1° of a planet or angle."

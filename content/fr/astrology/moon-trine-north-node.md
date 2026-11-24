@@ -6,6 +6,8 @@ description: "Lune trigone Nœud Nord dans un thème natal : un réconfort qui 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Nœud Nord", "trigone"]
 weight: 106
 glyph: "☽△☊"
 definition: "Lune trigone Nœud Nord signifie qu’à votre naissance, la Lune était à environ 120° du Nœud Nord, donc à environ 60° du Nœud Sud. Dans un thème, prendre soin de vous tend à vous rapprocher de ce que vous apprenez, et grandir paraît naturel. J’y lis une aisance à remarquer, car elle s’annonce rarement."

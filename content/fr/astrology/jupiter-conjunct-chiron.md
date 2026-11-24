@@ -6,6 +6,8 @@ description: "Jupiter conjonction Chiron dans un thème natal : le sens trouvé
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Chiron", "conjonction"]
 weight: 260
 glyph: "♃☌⚷"
 definition: "Jupiter conjonction Chiron, c’est la rencontre de Jupiter et de Chiron à quelques degrés près, survenue cinq fois entre 1944 et 2009, à intervalles irréguliers. Dans un thème, elle unit la recherche de sens au point sensible autour duquel vous tournez : la compréhension grandit là où cela fait mal. Toutes les personnes nées pendant une rencontre la partagent."

@@ -6,6 +6,8 @@ description: "Mercure conjonction Jupiter en synastrie : les mots de l’une to
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Jupiter", "conjonction", "synastrie"]
 weight: 126
 glyph: "☿☌♃"
 definition: "Mercure conjonction Jupiter en synastrie signifie que Mercure, chez une personne, se trouve à moins de 6° de Jupiter, chez l’autre. Ce que la première observe et dit tombe là où la seconde cherche du sens : une remarque devient une théorie, une question un projet. J’y lis une conversation qui s’élargit, à condition que quelqu’un vérifie les faits."

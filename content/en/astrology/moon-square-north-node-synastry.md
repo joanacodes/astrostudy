@@ -5,6 +5,8 @@ description: "Moon square North Node in synastry: one person’s needs stand acr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "North Node", "square", "synastry"]
 weight: 113
 glyph: "☽□☊"
 definition: "Moon square North Node in synastry means one person’s Moon is about 90° from the other’s North Node, within 6.8°, and so square their South Node too. One person’s needs stand across the other’s road, halfway between familiar ground and new growth. I read it as friction that asks for growth which takes people along."

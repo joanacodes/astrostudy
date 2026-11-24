@@ -5,6 +5,8 @@ description: "Moon square Mercury in synastry: one person needs to be met, the o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Mercury", "square", "synastry"]
 weight: 63
 glyph: "☽□☿"
 definition: "Moon square Mercury in synastry sets one person’s Moon about 90° from the other’s Mercury, within 6.8°. Feeling on one side and explaining on the other keep missing each other’s timing. I read it as friction that teaches two people a shared language for feelings, never as a failure to communicate."

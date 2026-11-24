@@ -5,6 +5,8 @@ description: "The wolf moon: January’s full moon in the almanac names, where t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 20
 glyph: "○"
 definition: "The wolf moon is a popular name for the full moon of January, spread by American almanacs from the 1930s; its older origins are unclear. It is a northern-hemisphere name for midwinter. In a chart it is simply January’s full moon, always in Cancer or Leo, with the Sun opposite in Capricorn or Aquarius."

@@ -5,6 +5,8 @@ description: "Sun sextile Pluto in synastry: at the turning points, one person c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Pluto", "sextile", "synastry"]
 weight: 42
 glyph: "☉⚹♇"
 definition: "In Sun sextile Pluto in synastry, one person’s capacity for renewal comes within reach of the other’s purpose, at about 60° and within 4.8°. At turning points, the Sun person can draw on the Pluto person’s depth. I read it as resilience on offer, which works once someone asks for it."

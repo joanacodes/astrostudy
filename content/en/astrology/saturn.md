@@ -5,6 +5,8 @@ description: "Saturn in astrology: time, limits and slow mastery — in a birth 
 date: 2026-10-24
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planets and points"]
+tags: ["Saturn"]
 weight: 7
 glyph: "♄"
 definition: "Saturn is the planet of time, limits and slow mastery. In a birth chart it marks the lesson that takes you longest — where you feel tested, late or not enough — and, with patience, where you build something solid enough to teach. It comes back to its birth position every 29½ years: the Saturn return."

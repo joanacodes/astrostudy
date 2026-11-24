@@ -6,6 +6,8 @@ description: "Mars carré Saturne dans un thème natal : l’envie d’y aller 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Saturne", "carré"]
 weight: 207
 glyph: "♂□♄"
 definition: "Dans Mars carré Saturne, les deux planètes se tiennent à environ 90° dans le thème natal, en général dans des signes d’un même mode. Dans un thème, l’envie d’agir y bute sur le besoin de structure : l’effort rencontre une résistance et apprend le bon moment. J’y lis une friction qui construit l’endurance et la stratégie, jamais un effort condamné."

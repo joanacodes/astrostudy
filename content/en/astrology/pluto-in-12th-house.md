@@ -5,6 +5,8 @@ description: "Pluto in the 12th house in a birth chart: strength found in privat
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "12th house", "houses"]
 weight: 120
 glyph: "♇"
 definition: "Pluto in the 12th house works out of sight: deep change in the house of solitude, the inner life and what is hidden. It describes transformation that happens in private, and strength kept in reserve. Tradition gave this house confinement, which I never predict. In Placidus it ends at the Ascendant, so it needs the birth time."
