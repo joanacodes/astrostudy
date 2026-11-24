@@ -57,7 +57,7 @@ The twelfth-parts sit beside the other small divisions of a sign, the [terms (bo
 
 I don't use twelfth-parts. They aren't in the system I built for my readings, and they weren't among the placements my notebook tested, which were the Sun, the Moon, the rising sign and each planet by sign and house ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
 
-They do show, more sharply than anything else, why the birth time matters. A twelfth-part moves twelve times as fast as the point it comes from. The Ascendant takes about two hours to cross a sign, on average, so its twelfth-part crosses one in about ten minutes; a time rounded to the quarter-hour could put it anywhere in two signs. Even the Moon's twelfth-part changes sign every four or five hours. There's always a birth time, or no reading, and a technique like this would want the minute ([What changes without a birth time](/blog/unknown-birth-time/)).
+They do show, more sharply than anything else, why the birth time matters. A twelfth-part moves twelve times as fast as the point it comes from. The Ascendant takes about two hours to cross a sign, on average, so its twelfth-part crosses one in about ten minutes, and a time rounded to the quarter-hour can be seven minutes out, enough to move it most of a sign. Even the Moon's twelfth-part changes sign every four or five hours. There's always a birth time, or no reading, and a technique like this would want the minute ([What changes without a birth time](/blog/unknown-birth-time/)).
 
 ## Common myths {#myths}
 
