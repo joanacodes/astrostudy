@@ -5,6 +5,8 @@ description: "Alan Leo, the English theosophist astrologer called the father of 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "history"
+categories: ["History"]
+tags: []
 weight: 39
 glyph: "✦"
 definition: "Alan Leo, born William Frederick Allan, was an English astrologer, author and publisher who lived from 1860 to 1917, often called the father of modern astrology. A theosophist, he argued for reading a chart as a set of possible tendencies rather than a list of events, and his books and magazines carried astrology to a wide public."

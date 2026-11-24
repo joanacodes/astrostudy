@@ -37,7 +37,7 @@ Sagittarius opens with a contradiction the old tables seem to enjoy: Mercury, a 
 
 ## Its rulers {#its-rulers}
 
-The Chaldean order runs on from Venus to Mercury, so the first face of [Sagittarius](/astrology/sagittarius/) is Mercury's ([faces](/astrology/faces/)), and from here the sign repeats the faces of Taurus: Mercury, the Moon ([Sagittarius, second decan](/astrology/sagittarius-second-decan/)), then Saturn. That gives Mercury a foothold in a sign that otherwise keeps it at arm's length. Mercury is in [detriment](/astrology/detriment/) in Sagittarius, opposite its home in Gemini, so [Mercury in Sagittarius](/astrology/mercury-in-sagittarius/) between 0° and 10° holds the slightest of dignities in the sign of its exile.
+The Chaldean order runs on from Venus to Mercury, so the first face of [Sagittarius](/astrology/sagittarius/) is Mercury's ([faces](/astrology/faces/)), and from here the sign repeats the faces of Taurus: Mercury, the Moon ([Sagittarius, second decan](/astrology/sagittarius-second-decan/)), then Saturn. That gives Mercury a foothold in a sign that otherwise keeps it at arm's length. Sagittarius is Mercury's [detriment](/astrology/detriment/), the sign opposite its home in Gemini, so [Mercury in Sagittarius](/astrology/mercury-in-sagittarius/) between 0° and 10° holds the slightest of dignities in the sign of its exile.
 
 The modern decans give the first ten degrees to the sign's own ruler, and Sagittarius has only one, Jupiter, which no modern planet has displaced. A planet here works under Jupiter twice, through the sign and through the decan, with Mercury's face as the voice of the small print: the facts, checked, before the conclusion.
 

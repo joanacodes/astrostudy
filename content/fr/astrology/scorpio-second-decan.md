@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Scorpion", "décans"]
 weight: 44
 glyph: "♏"
-definition: "Le deuxième décan du Scorpion est le milieu du signe, de 10° à 20°, où le Soleil se trouve du 3 au 12 novembre environ. C’est la face du Soleil dans l’ordre chaldéen, sa seule dignité en Scorpion ; les décans modernes le donnent aux maîtres des Poissons, Jupiter et Neptune. Deux étoiles des anciennes pinces du Scorpion s’y trouvent."
+definition: "Au milieu du signe, de 10° à 20°, se trouve le deuxième décan du Scorpion, que le Soleil traverse du 3 au 12 novembre environ. C’est la face du Soleil dans l’ordre chaldéen, sa seule dignité en Scorpion ; les décans modernes le donnent aux maîtres des Poissons, Jupiter et Neptune. Deux étoiles des anciennes pinces du Scorpion s’y trouvent."
 facts:
   - { k: "Degrés", v: "10°–20° Scorpion" }
   - { k: "Face (chaldéenne)", v: "Le Soleil" }

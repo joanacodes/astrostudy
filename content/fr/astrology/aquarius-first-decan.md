@@ -38,7 +38,7 @@ Le Verseau s’ouvre sous Vénus, avec les deux maîtres du signe, Saturne et Ur
 
 ## Ses maîtres {#ses-maitres}
 
-Vénus prend la première face du [Verseau](/astrology/aquarius/), à la suite de la face du Soleil à la fin du Capricorne ([Capricorne, troisième décan](/astrology/capricorn-third-decan/)) dans l’[ordre chaldéen](/astrology/chaldean-order/). À partir d’ici, le Verseau reprend les faces du Cancer : Vénus, Mercure ([Verseau, deuxième décan](/astrology/aquarius-second-decan/)), puis la Lune ([faces](/astrology/faces/)). Pour [Vénus en Verseau](/astrology/venus-in-aquarius/), les dix degrés d’ouverture sont donc une face à elle.
+Vénus prend la première face du [Verseau](/astrology/aquarius/), à la suite de la face du Soleil à la fin du Capricorne ([Capricorne, troisième décan](/astrology/capricorn-third-decan/)) dans l’[ordre chaldéen](/astrology/chaldean-order/). La suite des faces recopie ici celle du Cancer : Vénus, puis Mercure ([Verseau, deuxième décan](/astrology/aquarius-second-decan/)), puis la Lune ([faces](/astrology/faces/)). Pour [Vénus en Verseau](/astrology/venus-in-aquarius/), les dix degrés d’ouverture sont donc une face à elle.
 
 Dans le système moderne, l’ouverture d’un signe revient à son maître ; or le Verseau en a deux, Saturne dans la tradition et Uranus dans l’astrologie tropicale moderne. Je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)), et les deux voisinent ici avec Vénus : la planète de ce que l’on estime, à côté de la planète de la structure et de celle du changement. Je lis ce décan comme une équité qui se construit pour un groupe : ce qui a de la valeur, comment on le partage, et ce qui doit changer pour que le partage soit juste.
 

@@ -23,7 +23,7 @@ faq:
   - q: "What are the dates of the third decan of Libra?"
     a: "The Sun is in these degrees from about 13 to 22 October, and passes the star Spica on about 16 and 17 October. A birthday on 22 or 23 October needs the time of birth to say whether the Sun was still in Libra or had already reached Scorpio."
   - q: "Which planet rules the third decan of Libra?"
-    a: "The traditional faces, which run in the Chaldean order, give it to Jupiter. The modern decans by element give the last third of each sign to the remaining sign of its element, here Gemini, and so to Mercury. The two rule opposite signs, so a planet here answers to the big picture and to the details."
+    a: "Jupiter holds its face, as the Chaldean order requires after Saturn. The modern decans by element give the last third of each sign to the remaining sign of its element, here Gemini, and so to Mercury. The two rule opposite signs, so a planet here answers to the big picture and to the details."
   - q: "Is a third decan Libra part Scorpio?"
     a: "No. At the moment of birth the Sun is in one sign, and late Libra is still Libra. Even the modern decans, which borrow a ruler from another sign of the same element, borrow Mercury from Gemini here. Scorpio begins at 0° Scorpio, about 23 October, and only the birth time settles a borderline case."
   - q: "Which stars are in the third decan of Libra?"

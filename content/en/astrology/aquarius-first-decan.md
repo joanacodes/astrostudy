@@ -37,7 +37,7 @@ Aquarius opens under Venus, with the sign's two rulers, Saturn and Uranus, shari
 
 ## Its rulers {#its-rulers}
 
-Venus takes the first face of [Aquarius](/astrology/aquarius/), following the Sun's face at the end of Capricorn ([Capricorn, third decan](/astrology/capricorn-third-decan/)) in the [Chaldean order](/astrology/chaldean-order/). From here Aquarius repeats the faces of Cancer: Venus, Mercury ([Aquarius, second decan](/astrology/aquarius-second-decan/)), then the Moon ([faces](/astrology/faces/)). For [Venus in Aquarius](/astrology/venus-in-aquarius/), then, the opening ten degrees are a face of its own.
+Venus takes the first face of [Aquarius](/astrology/aquarius/), following the Sun's face at the end of Capricorn ([Capricorn, third decan](/astrology/capricorn-third-decan/)) in the [Chaldean order](/astrology/chaldean-order/). The run of faces here copies Cancer's: Venus, then Mercury ([Aquarius, second decan](/astrology/aquarius-second-decan/)), then the Moon ([faces](/astrology/faces/)). For [Venus in Aquarius](/astrology/venus-in-aquarius/), then, the opening ten degrees are a face of its own.
 
 In the modern scheme a sign's opening belongs to its ruler, and Aquarius has two, Saturn in the tradition and Uranus in modern tropical astrology. I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)), and here they sit beside Venus: the planet of what we value, next to the planet of structure and the planet of change. I read the decan as fairness worked out for a group: what is valued, how it is shared, and what has to change for it to be shared well.
 

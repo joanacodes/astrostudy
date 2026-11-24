@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Pisces", "decans"]
 weight: 55
 glyph: "♓"
-definition: "The first decan of Pisces opens the last sign of the zodiac, 0° to 10°, with the Sun there from about 19 to 28 February. Its face is Saturn’s, while the modern decans hand it to Pisces’s own rulers, Jupiter and Neptune, both of which I read. Fomalhaut, Sadalmelik and Deneb Adige share its degrees."
+definition: "The first decan of Pisces opens the last sign of the zodiac, 0° to 10°, and the Sun spends about 19 to 28 February in it. Its face is Saturn’s, while the modern decans hand it to Pisces’s own rulers, Jupiter and Neptune, both of which I read. Fomalhaut, Sadalmelik and Deneb Adige share its degrees."
 facts:
   - { k: "Degrees", v: "0°–10° Pisces" }
   - { k: "Face (Chaldean)", v: "Saturn" }
@@ -51,6 +51,6 @@ Three bright stars share the decan. [Fomalhaut](/astrology/fomalhaut/), the mout
 
 The Sun is in these degrees from about 19 to 28 February, so a [Sun in Pisces](/astrology/sun-in-pisces/) born in the second half of February belongs here. Under Saturn's face and the sign's two rulers, I read the shade as feeling that keeps its shape: imagination with a discipline, kindness with an edge where it needs one. Saturn itself, in its own face here, I read as responsibility taken on through care: the person who makes the practical arrangements so that others are free to feel.
 
-[Pisces rising](/astrology/pisces-rising/) in its first decan takes only about 18 minutes to cross the horizon in London and 20 in Paris, among the quickest ten degrees of the zodiac at those latitudes. A birth time out by ten minutes can move the Ascendant out of it, which is why a time known only to the nearest hour isn't enough here ([what changes without a birth time](/blog/unknown-birth-time/)).
+On the Ascendant, these first ten degrees of Pisces last only about 18 minutes in London and 20 in Paris ([Pisces rising](/astrology/pisces-rising/)), among the quickest ten degrees of the zodiac at those latitudes. A birth time out by ten minutes can move the Ascendant out of it, which is why a time known only to the nearest hour isn't enough here ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Uranus crossed these degrees from 2003 to 2006 ([Uranus in Pisces](/astrology/uranus-in-pisces/)), and Neptune, at home in Pisces in the modern scheme, from 2011 to 2017 ([Neptune in Pisces](/astrology/neptune-in-pisces/)).

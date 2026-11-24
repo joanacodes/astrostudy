@@ -40,7 +40,7 @@ Le Verseau s’achève avec deux astres plus doux aux commandes, la Lune et Vén
 
 La Lune prend la dernière face du [Verseau](/astrology/aquarius/), à la suite de Mercure ([Verseau, deuxième décan](/astrology/aquarius-second-decan/)) dans l’[ordre chaldéen](/astrology/chaldean-order/) ([faces](/astrology/faces/)) ; la [Lune en Verseau](/astrology/moon-in-aquarius/) tient une face à elle dans ces dix derniers degrés. La Balance, seul signe d’air que le système moderne n’a pas encore employé dans le Verseau, fournit l’autre maître du décan, Vénus.
 
-Contrairement à d’autres duos que forment les deux systèmes, celui-ci s’entend bien dans les tables anciennes : la Lune a son exaltation en Taureau, un signe de Vénus. Elles adoucissent ici la fin d’un signe qui préfère réfléchir avant de ressentir. La Lune apporte ce dont une personne a besoin, Vénus ce à quoi elle tient, et le Verseau demande comment l’un et l’autre peuvent servir tout un groupe. Les maîtres du signe, Saturne et Uranus, encadrent toujours le décan, et je lis les deux.
+Contrairement à d’autres duos que forment les deux systèmes, celui-ci s’entend bien dans les tables anciennes : la Lune a son exaltation en Taureau, un signe de Vénus. Elles adoucissent ici la fin d’un signe qui préfère réfléchir avant de ressentir. La Lune apporte ce dont une personne a besoin, Vénus ce à quoi elle tient, et le Verseau demande comment l’un et l’autre peuvent servir tout un groupe. Derrière ce duo se tiennent Saturne et Uranus, maîtres du Verseau lui-même, et je lis les deux.
 
 ## Son image {#son-image}
 

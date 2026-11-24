@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/libra", "/astrology/saturn-in-libra", "/astrology/libra-first-decan", "/astrology/libra-third-decan", "/astrology/faces"]
 faq:
   - q: "What are the dates of the second decan of Libra?"
-    a: "About 3 to 12 October, while the Sun crosses 10° to 20° Libra. Both ends move by a day or so from one year to another, so a birthday on 2, 3, 12 or 13 October needs the time of birth to place the Sun in this decan or a neighbouring one."
+    a: "The Sun is in the middle of Libra, 10° to 20°, from about 3 to 12 October. Both ends move by a day or so from one year to another, so a birthday on 2, 3, 12 or 13 October needs the time of birth to place the Sun in this decan or a neighbouring one."
   - q: "Which planet rules the second decan of Libra?"
     a: "Saturn, in both systems. The Chaldean faces give it the second face of Libra, and the modern decans give the slice to the rulers of Aquarius, the next air sign: Saturn in the tradition, Uranus in modern tropical astrology. I read both of Aquarius’s rulers."
   - q: "Is Saturn strong in the second decan of Libra?"

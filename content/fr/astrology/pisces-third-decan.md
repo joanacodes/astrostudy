@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Poissons", "décans"]
 weight: 57
 glyph: "♓"
-definition: "Le troisième décan des Poissons ferme le zodiaque, de 20° à 30° du dernier signe, avec le Soleil du 11 au 20 mars environ. Mars le gouverne dans les deux systèmes : comme dernière face chaldéenne, et par le Scorpion dans les décans modernes, aux côtés de Pluton. Il contient aussi le degré que la tradition donne à l’exaltation de Vénus."
+definition: "Le troisième décan des Poissons ferme le zodiaque, de 20° à 30° du dernier signe, que le Soleil traverse du 11 au 20 mars environ. Mars le tient deux fois, comme dernière des faces chaldéennes et, par le Scorpion, comme maître de décan moderne aux côtés de Pluton. Il contient aussi le degré d’exaltation de Vénus."
 facts:
   - { k: "Degrés", v: "20°–30° Poissons" }
   - { k: "Face (chaldéenne)", v: "Mars, la 36e et dernière face" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/pisces", "/astrology/mars-in-pisces", "/astrology/pisces-second-decan", "/astrology/aries-first-decan", "/astrology/venus-in-pisces"]
 faq:
   - q: "Quand a lieu le troisième décan des Poissons ?"
-    a: "Du 11 au 20 mars environ, les derniers jours avant l’équinoxe de mars, quand le Soleil couvre les dix derniers degrés du zodiaque. Un anniversaire le 20 ou le 21 mars peut tomber d’un côté ou de l’autre du début du Bélier, et l’heure de naissance tranche."
+    a: "Du 11 au 20 mars environ, les derniers jours avant l’équinoxe de mars, quand le Soleil couvre les dix derniers degrés du zodiaque. Avec une naissance le 20 ou le 21 mars, le Soleil peut se trouver dans le dernier degré des Poissons ou le premier du Bélier ; seule l’heure de naissance le dit."
   - q: "Quelle planète gouverne le troisième décan des Poissons ?"
     a: "Mars, dans les deux systèmes. Mars tient la dernière des faces chaldéennes, et les décans modernes donnent ces degrés au Scorpion, dont les maîtres sont Mars et Pluton. Les Poissons gardent Jupiter et Neptune : le décan a donc deux paires de maîtres, et je lis les deux de chaque paire."
   - q: "Pourquoi est-ce que Mars gouverne la fin des Poissons et le début du Bélier ?"

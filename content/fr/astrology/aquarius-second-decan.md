@@ -44,7 +44,7 @@ Le signe garde ses deux maîtres, Saturne dans la tradition et Uranus dans l’a
 
 ## Son image {#son-image}
 
-Le nom égyptien que Wallis Budge donne à ces degrés, Kher-khept-sert, ferme la série de trois noms construits sur sert qui commençait à la fin du Capricorne ([Capricorne, troisième décan](/astrology/capricorn-third-decan/)). Les listes gréco-égyptiennes portent Xu ; les textes hermétiques, Sosomo en grec et Luxois en latin. [Firmicus Maternus](/astrology/firmicus-maternus/) donnait Cratero ou Astiro, et le second nom était encore Astiro, lettre pour lettre, dans la liste de Joseph Scaliger douze siècles plus tard : des trois décans en sert, c’est le seul dont le nom soit parvenu intact jusqu’à Scaliger. Athanasius Kircher, en 1652, appelait le décan Vucula.
+Le nom égyptien que Wallis Budge donne à ces degrés, Kher-khept-sert, ferme la série de trois noms construits sur sert qui commençait à la fin du Capricorne ([Capricorne, troisième décan](/astrology/capricorn-third-decan/)). Les listes gréco-égyptiennes portent Xu ; les textes hermétiques, Sosomo en grec et Luxois en latin. [Firmicus Maternus](/astrology/firmicus-maternus/) donnait Cratero ou Astiro, et le second nom était encore Astiro, lettre pour lettre, dans la liste de Joseph Scaliger douze siècles plus tard : des trois décans en sert, c’est le seul dont le nom soit parvenu intact jusqu’à Scaliger. Vucula est le nom que lui donne Athanasius Kircher, en 1652.
 
 Aucune image dont je puisse répondre ne nous arrive avec ces noms. Ce qui survit, c’est la chaîne elle-même : un décan égyptien, recopié sous des noms différents par les listes qui l’ont transmis, et qui garde sa place parmi les trente-six.
 

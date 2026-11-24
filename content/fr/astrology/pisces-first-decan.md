@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Poissons", "décans"]
 weight: 55
 glyph: "♓"
-definition: "Le premier décan des Poissons ouvre le dernier signe du zodiaque, de 0° à 10°, avec le Soleil du 19 au 28 février environ. Sa face est celle de Saturne, et les décans modernes le confient aux maîtres des Poissons, Jupiter et Neptune, que je lis tous deux. Fomalhaut, Sadalmelik et Deneb partagent ses degrés."
+definition: "Le premier décan des Poissons ouvre le dernier signe du zodiaque, de 0° à 10°, et le Soleil y passe du 19 au 28 février environ. Sa face est celle de Saturne, et les décans modernes le confient aux maîtres des Poissons, Jupiter et Neptune, que je lis tous deux. Fomalhaut, Sadalmelik et Deneb partagent ses degrés."
 facts:
   - { k: "Degrés", v: "0°–10° Poissons" }
   - { k: "Face (chaldéenne)", v: "Saturne" }
@@ -52,6 +52,6 @@ Trois étoiles brillantes partagent le décan. [Fomalhaut](/astrology/fomalhaut/
 
 Le Soleil se trouve dans ces degrés du 19 au 28 février environ : un [Soleil en Poissons](/astrology/sun-in-pisces/) né dans la seconde moitié de février s’y trouve. Sous la face de Saturne et les deux maîtres du signe, je lis cette nuance comme une sensibilité qui garde sa forme : de l’imagination avec une discipline, de la gentillesse avec un tranchant là où il en faut un. Quand Saturne occupe ces degrés, dans sa propre face, j’y lis une responsabilité prise par sollicitude : la personne qui règle les questions pratiques pour que les autres soient libres de ressentir.
 
-Un [ascendant Poissons](/astrology/pisces-rising/) dans son premier décan ne met qu’environ 18 minutes à franchir l’horizon à Londres et 20 à Paris, parmi les dix degrés les plus rapides du zodiaque à ces latitudes. Une heure de naissance fausse de dix minutes peut faire sortir l’ascendant de ce décan : une heure connue seulement à l’heure près ne suffit pas ici ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+À l’ascendant, ces dix premiers degrés des Poissons ne durent qu’environ 18 minutes à Londres et 20 à Paris ([ascendant Poissons](/astrology/pisces-rising/)), parmi les dix degrés les plus rapides du zodiaque à ces latitudes. Une heure de naissance fausse de dix minutes peut faire sortir l’ascendant de ce décan : une heure connue seulement à l’heure près ne suffit pas ici ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Uranus a parcouru ces degrés de 2003 à 2006 ([Uranus en Poissons](/astrology/uranus-in-pisces/)), et Neptune, chez soi en Poissons selon le système moderne, de 2011 à 2017 ([Neptune en Poissons](/astrology/neptune-in-pisces/)).

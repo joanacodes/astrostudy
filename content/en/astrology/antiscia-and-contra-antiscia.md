@@ -5,6 +5,8 @@ description: "Antiscia and contra-antiscia in astrology: the mirror degrees acro
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "points"
+categories: ["Planets and points"]
+tags: ["antiscia"]
 weight: 25
 glyph: "✦"
 definition: "Antiscia are mirror points: a degree’s antiscion is its reflection across the axis of the solstices, 0° Cancer to 0° Capricorn, so 10° Taurus mirrors to 20° Leo. Its contra-antiscion is the reflection across the equinoxes, exactly opposite. Older astrologers read planets on each other’s mirror points as linked, though no aspect joins them."
@@ -29,10 +31,10 @@ faq:
     a: "Close relatives, not twins. Two degrees of the ecliptic in antiscia have the same declination, which is what a parallel measures. But a planet often sits a little north or south of the ecliptic, which shifts its declination, so a pair of planets in antiscia isn’t always in parallel, and the reverse."
 sources:
   - { title: "James R. Lewis, The Astrology Encyclopedia (1994), p. 383, via Wikipedia, “Mutual reception”", url: "https://en.wikipedia.org/wiki/Mutual_reception", note: "antiscia, contra-antiscia and the like-ascending signs; checked on 24 November 2026" }
-  - { title: "Jean-Baptiste Morin, Astrologia Gallica, book 22, via Wikipedia, “Primary direction (astrology)”", url: "https://en.wikipedia.org/wiki/Primary_direction_(astrology)", note: "antiscia of planets among the promittors; checked on 24 November 2026" }
+  - { title: "Jean-Baptiste Morin, Astrologia Gallica, book 22 (The Hague, 1661), via Wikipedia, “Primary direction (astrology)”", url: "https://en.wikipedia.org/wiki/Primary_direction_(astrology)", note: "antiscia of planets among the promittors; checked on 24 November 2026" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "declination from a point of the ecliptic" }
 ---
-Fold the zodiac along the line of the solstices and every degree lands on another. That partner is its antiscion, from the Greek for an opposite shadow cast. Fold it along the equinoxes instead and you get the contra-antiscion. Both are old ways of seeing a link between two planets that no aspect joins.
+Fold the zodiac along the line of the solstices and every degree lands on another. That partner is its antiscion. Fold it along the equinoxes instead and you get the contra-antiscion. Both are old ways of seeing a link between two planets that no aspect joins.
 
 ## What it is {#what-it-is}
 
@@ -53,9 +55,9 @@ The mirror isn't arbitrary: it follows the Sun. Degrees in antiscia sit at the s
 
 Contra-antiscia work the other way round. Their declinations are equal and opposite, one north, one south, so the day at one matches the night at the other: early June's daylight is as long as early January's night, with the Sun near 15° Capricorn. Their partner among the declination contacts is the [contra-parallel](/astrology/contra-parallel/).
 
-Hellenistic astrologers saw the same symmetry from the horizon ([Hellenistic astrology](/astrology/hellenistic-astrology/)). Signs equally far from the equinoxes, Virgo and Libra for instance, take the same time to rise, and they called such signs like-ascending. They read a working link between signs paired either way, by antiscia or by contra-antiscia, though a weaker one than an aspect gives. Centuries later, [Morinus](/astrology/morinus/) counted the antiscia of planets among the points that [primary directions](/astrology/primary-directions/) bring to the natal places.
+Hellenistic astrologers saw the same symmetry from the horizon ([Hellenistic astrology](/astrology/hellenistic-astrology/)). Signs equally far from the equinoxes, Virgo and Libra for instance, take the same time to rise, and they called such signs like-ascending. They read a working link between signs paired either way, by antiscia or by contra-antiscia, though probably a weaker one than an aspect gives. Centuries later, in his *Astrologia Gallica* (published in 1661), [Morinus](/astrology/morinus/) counted the antiscia of planets among the points that [primary directions](/astrology/primary-directions/) bring to the natal places.
 
-Antiscia need tight [orbs](/astrology/orbs/): a degree or so. The planets' mirror points barely move in a day, the Moon's apart; those of the Ascendant and Midheaven change by the minute, like the angles themselves ([what changes without a birth time](/blog/unknown-birth-time/)).
+Antiscia need tight [orbs](/astrology/orbs/): a degree or so. A planet's mirror point moves only as fast as the planet, a degree or two a day at most, the Moon's about thirteen; those of the Ascendant and Midheaven change by the minute, like the angles themselves ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In a reading {#in-a-reading}
 

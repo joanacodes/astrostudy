@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/libra", "/astrology/saturn-in-libra", "/astrology/libra-first-decan", "/astrology/libra-third-decan", "/astrology/faces"]
 faq:
   - q: "Quelles sont les dates du deuxième décan de la Balance ?"
-    a: "Du 3 au 12 octobre environ, pendant que le Soleil parcourt les degrés 10 à 20 de la Balance. Les deux limites bougent d’un jour environ d’une année à l’autre : pour un anniversaire le 2, le 3, le 12 ou le 13 octobre, il faut l’heure de naissance pour situer le Soleil dans ce décan ou dans un voisin."
+    a: "Le Soleil passe au milieu de la Balance, de 10° à 20°, du 3 au 12 octobre environ. Les deux limites bougent d’un jour environ d’une année à l’autre : pour un anniversaire le 2, le 3, le 12 ou le 13 octobre, il faut l’heure de naissance pour situer le Soleil dans ce décan ou dans un voisin."
   - q: "Quelle planète gouverne le deuxième décan de la Balance ?"
     a: "Saturne, dans les deux systèmes. Les faces chaldéennes donnent à Saturne la deuxième face de la Balance, et les décans modernes confient cette tranche aux maîtres du Verseau, le signe d’air suivant : Saturne dans la tradition, Uranus dans l’astrologie tropicale moderne. Je lis les deux maîtres du Verseau."
   - q: "Est-ce que Saturne a de la force dans le deuxième décan de la Balance ?"

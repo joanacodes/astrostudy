@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Sagittaire", "décans"]
 weight: 47
 glyph: "♐"
-definition: "Le deuxième décan du Sagittaire couvre les dix degrés centraux du signe, de 10° à 20°, et les jours que le Soleil y passe, du 2 au 11 décembre environ. La Lune le gouverne comme face dans l’ordre chaldéen ; Mars le gouverne dans les décans modernes, par le Bélier. Antarès, le cœur rouge du Scorpion, s’y trouve depuis 2017 environ."
+definition: "Le deuxième décan du Sagittaire se tient au cœur du signe, de 10° à 20°, où le Soleil chemine du 2 au 11 décembre environ. La Lune y a sa face, et Mars, par le Bélier, le gouverne dans les décans modernes. Antarès, le cœur rouge du Scorpion, s’y trouve depuis 2017 environ."
 facts:
   - { k: "Degrés", v: "10°–20° Sagittaire" }
   - { k: "Face (chaldéenne)", v: "La Lune" }

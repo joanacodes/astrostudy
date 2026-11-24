@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Balance", "décans"]
 weight: 42
 glyph: "♎"
-definition: "Le troisième décan de la Balance couvre les dix derniers degrés du signe, de 20° à 30°, que le Soleil traverse du 13 au 22 octobre environ. Jupiter le gouverne comme face ; dans les décans modernes, c’est Mercure, par les Gémeaux. Il contient le degré d’exaltation de Saturne et deux étoiles brillantes, Spica et Arcturus."
+definition: "Dans le troisième décan de la Balance, les dix derniers degrés du signe, de 20° à 30°, le Soleil passe du 13 au 22 octobre environ. Jupiter le gouverne comme face ; dans les décans modernes, c’est Mercure, par les Gémeaux. Il contient le degré d’exaltation de Saturne et deux étoiles brillantes, Spica et Arcturus."
 facts:
   - { k: "Degrés", v: "20°–30° Balance" }
   - { k: "Face (chaldéenne)", v: "Jupiter" }
@@ -24,7 +24,7 @@ faq:
   - q: "Quelles sont les dates du troisième décan de la Balance ?"
     a: "Le Soleil se trouve dans ces degrés du 13 au 22 octobre environ, et passe sur l’étoile Spica vers le 16 et le 17 octobre. Pour un anniversaire le 22 ou le 23 octobre, il faut l’heure de naissance pour savoir si le Soleil était encore en Balance ou déjà en Scorpion."
   - q: "Quelle planète gouverne le troisième décan de la Balance ?"
-    a: "Les faces traditionnelles, qui suivent l’ordre chaldéen, le donnent à Jupiter. Les décans modernes par élément donnent le dernier tiers de chaque signe au signe restant de son élément, ici les Gémeaux, et donc à Mercure. Les deux gouvernent des signes opposés : une planète placée ici répond à la vue d’ensemble comme aux détails."
+    a: "Jupiter en tient la face, comme le veut l’ordre chaldéen après Saturne. Les décans modernes par élément donnent le dernier tiers de chaque signe au signe restant de son élément, ici les Gémeaux, et donc à Mercure. Les deux gouvernent des signes opposés : une planète placée ici répond à la vue d’ensemble comme aux détails."
   - q: "Une Balance du troisième décan est-elle un peu Scorpion ?"
     a: "Non. Au moment de la naissance, le Soleil se trouve dans un seul signe, et la fin de la Balance reste la Balance. Même les décans modernes, qui empruntent un maître à un autre signe du même élément, empruntent ici Mercure aux Gémeaux. Le Scorpion commence à 0° Scorpion, vers le 23 octobre, et seule l’heure tranche un cas limite."
   - q: "Quelles étoiles se trouvent dans le troisième décan de la Balance ?"

@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/scorpio", "/astrology/venus-in-scorpio", "/astrology/moon-in-scorpio", "/astrology/scorpio-second-decan", "/astrology/sagittarius-first-decan"]
 faq:
   - q: "Quelles sont les dates du troisième décan du Scorpion ?"
-    a: "Du 13 au 21 novembre environ, pendant que le Soleil parcourt les dix derniers degrés du Scorpion, de 20° à 30°. À l’autre bout, un anniversaire le 21 ou le 22 novembre peut tomber d’un côté ou de l’autre de la frontière avec le Sagittaire, et c’est l’heure de naissance qui tranche."
+    a: "Le Soleil s’y trouve du 13 au 21 novembre environ, en parcourant les dix derniers degrés du Scorpion, de 20° à 30°. À l’autre bout, un anniversaire le 21 ou le 22 novembre peut tomber d’un côté ou de l’autre de la frontière avec le Sagittaire, et c’est l’heure de naissance qui tranche."
   - q: "Quelles planètes gouvernent le troisième décan du Scorpion ?"
     a: "Vénus, comme face dans l’ordre chaldéen, et la Lune dans les décans modernes par élément, qui donnent le dernier tiers du Scorpion au Cancer. Le Scorpion affaiblit l’une et l’autre : Vénus y est en exil, la Lune en chute. Le signe garde ses deux maîtres, Mars et Pluton, et je lis les deux."
   - q: "Vénus est-elle faible dans le troisième décan du Scorpion ?"

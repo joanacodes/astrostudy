@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Sagittarius", "decans"]
 weight: 47
 glyph: "♐"
-definition: "The second decan of Sagittarius covers the sign’s central ten degrees, 10° to 20°, and the Sun’s days there from about 2 to 11 December. The Moon rules it as a face in the Chaldean order; Mars rules it in the modern decans, through Aries. Antares, the Scorpion’s red heart, has stood in it since about 2017."
+definition: "The second decan of Sagittarius sits at the heart of the sign, 10° to 20°, where the Sun travels from about 2 to 11 December. The Moon has its face here, and Mars, by way of Aries, rules it in the modern decans. Antares, the Scorpion’s red heart, has stood in it since about 2017."
 facts:
   - { k: "Degrees", v: "10°–20° Sagittarius" }
   - { k: "Face (Chaldean)", v: "The Moon" }

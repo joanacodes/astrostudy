@@ -43,7 +43,7 @@ The sign keeps its two rulers, Saturn in the tradition and Uranus in modern trop
 
 ## Its image {#its-image}
 
-Wallis Budge's Egyptian name for these degrees, Kher-khept-sert, closes the run of three names built on sert that began at the end of Capricorn ([Capricorn, third decan](/astrology/capricorn-third-decan/)). The Greek-Egyptian lists have Xu; the Hermetic texts, Sosomo in Greek and Luxois in Latin. [Firmicus Maternus](/astrology/firmicus-maternus/) gave Cratero or Astiro, and the second name was still Astiro, letter for letter, in Joseph Scaliger's list twelve centuries later: of the three sert decans, it is the only one whose name reached Scaliger unchanged. Athanasius Kircher, in 1652, called the decan Vucula.
+Wallis Budge's Egyptian name for these degrees, Kher-khept-sert, closes the run of three names built on sert that began at the end of Capricorn ([Capricorn, third decan](/astrology/capricorn-third-decan/)). The Greek-Egyptian lists have Xu; the Hermetic texts, Sosomo in Greek and Luxois in Latin. [Firmicus Maternus](/astrology/firmicus-maternus/) gave Cratero or Astiro, and the second name was still Astiro, letter for letter, in Joseph Scaliger's list twelve centuries later: of the three sert decans, it is the only one whose name reached Scaliger unchanged. Vucula is Athanasius Kircher's name for it, in 1652.
 
 No picture comes down with any of these names that I can vouch for. What survives is the chain itself: one Egyptian decan, written down under different names by the lists that copied it, still holding its place among the thirty-six.
 

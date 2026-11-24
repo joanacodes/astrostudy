@@ -37,7 +37,7 @@ The middle of Pisces is the one place in the zodiac where Jupiter holds a face i
 
 ## Its rulers {#its-rulers}
 
-Jupiter takes the middle face of [Pisces](/astrology/pisces/), next after Saturn ([Pisces, first decan](/astrology/pisces-first-decan/)) in the [Chaldean order](/astrology/chaldean-order/) ([faces](/astrology/faces/)). Pisces is one of Jupiter's own signs in the tradition, so [Jupiter in Pisces](/astrology/jupiter-in-pisces/) between 10° and 20° holds its home and its face together, which happens nowhere else for Jupiter. Mars takes the face that follows ([Pisces, third decan](/astrology/pisces-third-decan/)). Mercury, in detriment and in fall anywhere in Pisces, finds no face here either: the three faces of Pisces go to Saturn, Jupiter and Mars.
+The middle face of [Pisces](/astrology/pisces/) belongs to Jupiter, which follows Saturn ([Pisces, first decan](/astrology/pisces-first-decan/)) in the [Chaldean order](/astrology/chaldean-order/) ([faces](/astrology/faces/)). Pisces is one of Jupiter's own signs in the tradition, so [Jupiter in Pisces](/astrology/jupiter-in-pisces/) between 10° and 20° holds its home and its face together, which happens nowhere else for Jupiter. Mars takes the face that follows ([Pisces, third decan](/astrology/pisces-third-decan/)). Mercury, in detriment and in fall anywhere in Pisces, finds no face here either: the three faces of Pisces go to Saturn, Jupiter and Mars.
 
 In the modern scheme, Cancer, the next water sign, lends the decan its ruler, the Moon. The old tables make this an easy partnership, since Jupiter is exalted in Cancer, the Moon's own sign. Over the whole sign stand its two rulers, old and new, Jupiter and Neptune, and I read both. With Jupiter present as the sign's older ruler and as the face, and the Moon as the modern decan's ruler, I read these degrees as faith with a home to come back to: belief that also looks after people.
 
@@ -49,7 +49,7 @@ The sky offers a clearer picture: [Achernar](/astrology/achernar/), whose Arabic
 
 ## In a birth chart {#in-a-birth-chart}
 
-The Sun crosses these degrees from about 1 to 10 March, and in a leap year from 29 February. That date is a true borderline. In every leap year since the 1930s, the Sun has reached 10° Pisces during 29 February itself, so a 29 February birthday falls in the first decan or the second depending on the hour, and only the time of birth settles it ([what changes without a birth time](/blog/unknown-birth-time/)). The Sun passes Achernar's degree about 5 or 6 March.
+From about 1 to 10 March the Sun is in these degrees, and in a leap year from 29 February. That date is a true borderline. In every leap year since the 1930s, the Sun has reached 10° Pisces during 29 February itself, so a 29 February birthday falls in the first decan or the second depending on the hour, and only the time of birth settles it ([what changes without a birth time](/blog/unknown-birth-time/)). Achernar's degree comes up for the Sun about 5 or 6 March.
 
 For a [Sun in Pisces](/astrology/sun-in-pisces/) here, I read the decan's shade as empathy with somewhere to stand: Jupiter's breadth and the Moon's care, both pointed at the people close by. A Moon placed here rules its own modern decan, and I read it as comfort that comes with perspective: soothing by widening the view rather than by closing the door.
 

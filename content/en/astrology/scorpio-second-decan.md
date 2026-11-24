@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Scorpio", "decans"]
 weight: 44
 glyph: "♏"
-definition: "The second decan of Scorpio is the middle of the sign, 10° to 20°, where the Sun stands from about 3 to 12 November. It is the Sun’s face in the Chaldean order, its only dignity in Scorpio; the modern decans give it to Pisces’s rulers, Jupiter and Neptune. Two stars of the old Scorpion’s claws lie here."
+definition: "In the middle of the sign, from 10° to 20°, lies the second decan of Scorpio, which the Sun crosses from about 3 to 12 November. It is the Sun’s face in the Chaldean order, its only dignity in Scorpio; the modern decans give it to Pisces’s rulers, Jupiter and Neptune. Two stars of the old Scorpion’s claws lie here."
 facts:
   - { k: "Degrees", v: "10°–20° Scorpio" }
   - { k: "Face (Chaldean)", v: "The Sun" }

@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Pisces", "decans"]
 weight: 57
 glyph: "♓"
-definition: "The third decan of Pisces closes the zodiac, from 20° to 30° of the last sign, with the Sun there from about 11 to 20 March. Mars rules it in both systems: as the last Chaldean face, and through Scorpio in the modern decans, beside Pluto. It also holds the degree tradition gives to Venus’s exaltation."
+definition: "The third decan of Pisces closes the zodiac, from 20° to 30° of the last sign, the Sun crossing it from about 11 to 20 March. Mars holds it twice over, as the last of the Chaldean faces and, through Scorpio, as a modern decan ruler beside Pluto. It also holds the degree tradition gives to Venus’s exaltation."
 facts:
   - { k: "Degrees", v: "20°–30° Pisces" }
   - { k: "Face (Chaldean)", v: "Mars, the 36th and last face" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/pisces", "/astrology/mars-in-pisces", "/astrology/pisces-second-decan", "/astrology/aries-first-decan", "/astrology/venus-in-pisces"]
 faq:
   - q: "When is the third decan of Pisces?"
-    a: "From about 11 to 20 March, the last days before the March equinox, when the Sun covers the final ten degrees of the zodiac. A birthday on 20 or 21 March can fall on either side of the start of Aries, and the time of birth settles it."
+    a: "From about 11 to 20 March, the last days before the March equinox, when the Sun covers the final ten degrees of the zodiac. Born on 20 or 21 March, you may have the Sun in the last degree of Pisces or the first of Aries; only the time of birth can say."
   - q: "Which planet rules the third decan of Pisces?"
     a: "Mars, in both systems. It holds the last of the Chaldean faces, and the modern decans give these degrees to Scorpio, whose rulers are Mars and Pluto. Pisces itself keeps Jupiter and Neptune, so the decan has two pairs of rulers, and I read both of each pair."
   - q: "Why does Mars rule both the end of Pisces and the start of Aries?"

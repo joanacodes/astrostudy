@@ -39,7 +39,7 @@ Aquarius ends with two gentler planets in charge, the Moon and Venus, and with O
 
 The Moon takes the last face of [Aquarius](/astrology/aquarius/), following Mercury ([Aquarius, second decan](/astrology/aquarius-second-decan/)) in the [Chaldean order](/astrology/chaldean-order/) ([faces](/astrology/faces/)); the [Moon in Aquarius](/astrology/moon-in-aquarius/) holds a face of its own in these last ten degrees. Libra, the one air sign the modern scheme hasn't yet used in Aquarius, supplies the decan's other ruler, Venus.
 
-Unlike some of the pairs the two systems make, these two get on in the old tables: the Moon is exalted in Taurus, a sign Venus rules. Here they soften the end of a sign that prefers to think things through. The Moon brings what a person needs, Venus what they value, and Aquarius asks how both can work for a whole group. The sign's own rulers, Saturn and Uranus, still frame the decan, and I read both.
+Unlike some of the pairs the two systems make, these two get on in the old tables: the Moon is exalted in Taurus, a sign Venus rules. Here they soften the end of a sign that prefers to think things through. The Moon brings what a person needs, Venus what they value, and Aquarius asks how both can work for a whole group. Behind the pair stand Saturn and Uranus, the rulers of Aquarius itself, and I read both.
 
 ## Its image {#its-image}
 

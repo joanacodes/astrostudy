@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/scorpio", "/astrology/venus-in-scorpio", "/astrology/moon-in-scorpio", "/astrology/scorpio-second-decan", "/astrology/sagittarius-first-decan"]
 faq:
   - q: "What are the dates of the third decan of Scorpio?"
-    a: "About 13 to 21 November, while the Sun crosses the last ten degrees of Scorpio, 20° to 30°. At the far end, a birthday on 21 or 22 November may fall on either side of the border with Sagittarius, and the time of birth decides which."
+    a: "The Sun is in it from about 13 to 21 November, covering Scorpio’s last ten degrees, 20° to 30°. At the far end, a birthday on 21 or 22 November may fall on either side of the border with Sagittarius, and the time of birth decides which."
   - q: "Which planets rule the third decan of Scorpio?"
     a: "Venus, as its face in the Chaldean order, and the Moon in the modern decans by element, which give the last third of Scorpio to Cancer. Both are weakened in Scorpio by sign, Venus in detriment and the Moon in fall. The sign keeps its own two rulers, Mars and Pluto, and I read both."
   - q: "Is Venus weak in the third decan of Scorpio?"
