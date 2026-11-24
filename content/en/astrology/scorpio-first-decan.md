@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Scorpio", "decans"]
 weight: 43
 glyph: "♏"
-definition: "The first decan of Scorpio spans 0° to 10° of the sign, crossed by the Sun from about 23 October to 2 November. Mars rules it in both systems: as its face in the Chaldean order, and as Scorpio’s traditional ruler in the modern decans, beside Pluto. Here Scorpio’s depth comes with Mars’s readiness to act."
+definition: "The first decan of Scorpio, its opening ten degrees from 0° to 10°, holds the Sun from about 23 October to 2 November. Mars rules it in both systems: as its face in the Chaldean order, and as Scorpio’s traditional ruler in the modern decans, beside Pluto. Here Scorpio’s depth comes with Mars’s readiness to act."
 facts:
   - { k: "Degrees", v: "0°–10° Scorpio" }
   - { k: "Face (Chaldean)", v: "Mars" }
@@ -25,7 +25,7 @@ faq:
   - q: "What planet rules the first decan of Scorpio?"
     a: "Mars, whichever system you use. It holds the first face of Scorpio in the Chaldean order, and as Scorpio’s traditional ruler it also rules the first decan in the modern scheme, where Pluto, Scorpio’s modern ruler, shares the rule. I read both Mars and Pluto."
   - q: "What does it mean to be a first decan Scorpio?"
-    a: "That the Sun was between 0° and 10° Scorpio when you were born, about 23 October to 2 November. Scorpio’s wish to go deep and stay comes first. With Mars ruling the decan twice, I read the depth as something that acts, not only something felt. It shades the Sun sign without replacing it."
+    a: "That the Sun was between 0° and 10° Scorpio when you were born, about 23 October to 2 November. Scorpio’s wish to go deep and stay comes first. With Mars ruling the decan twice, I read the depth as something that acts, not only something felt."
   - q: "Who has Pluto in the first decan of Scorpio?"
     a: "People born from November 1983 to the summer of 1988, give or take the months when Pluto looped back across the border. Pluto moves so slowly that a whole generation shares the placement; the house it falls in, which needs a birth time, is what makes it personal."
 sources:

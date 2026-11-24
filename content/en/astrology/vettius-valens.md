@@ -26,7 +26,7 @@ faq:
   - q: "How many books are in Valens’ Anthology?"
     a: "It depends on the count. David Pingree’s critical edition of the Greek text, published in Leipzig in 1986, is titled Anthologiarum libri novem, nine books, while other accounts describe ten. The text survives in three manuscripts, all from 1300 or later."
   - q: "Was Vettius Valens a contemporary of Ptolemy?"
-    a: "Roughly, yes. Both lived in Alexandria in the second century. In the classicist Mark Riley’s reading, they stand for two kinds of astrology at the same moment: the techniques handed down by tradition, which Valens recorded, and a model that had to hang together in theory, which Ptolemy wanted."
+    a: "Roughly, yes. Both lived in Alexandria in the second century. In Mark Riley’s reading, they stand for two kinds of astrology at the same moment: the techniques handed down by tradition, which Valens recorded, and a model that had to hang together in theory, which Ptolemy wanted."
 sources:
   - { title: "Vettius Valens, Anthology", note: "houses, lots" }
   - { title: "Vettius Valens, Anthologiarum libri novem, ed. David Pingree (Teubner, Leipzig, 1986)", note: "the Greek text, in nine books" }

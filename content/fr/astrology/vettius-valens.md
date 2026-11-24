@@ -27,7 +27,7 @@ faq:
   - q: "Combien de livres comptent les Anthologies de Valens ?"
     a: "Cela dépend du décompte. L’édition critique du texte grec par David Pingree, parue à Leipzig en 1986, s’intitule Anthologiarum libri novem, neuf livres, tandis que d’autres présentations en comptent dix. Le texte nous est parvenu par trois manuscrits, tous de 1300 ou plus tardifs."
   - q: "Vettius Valens était-il contemporain de Ptolémée ?"
-    a: "À peu près, oui. Tous deux vivaient à Alexandrie au IIe siècle. Pour le philologue Mark Riley, ils incarnent deux astrologies au même moment : les techniques transmises par la tradition, que Valens consignait, et un modèle qui devait tenir debout en théorie, que voulait Ptolémée."
+    a: "À peu près, oui. Tous deux vivaient à Alexandrie au IIe siècle. Pour Mark Riley, ils incarnent deux astrologies au même moment : les techniques transmises par la tradition, que Valens consignait, et un modèle qui devait tenir debout en théorie, que voulait Ptolémée."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "maisons, parts" }
   - { title: "Vettius Valens, Anthologiarum libri novem, éd. David Pingree (Teubner, Leipzig, 1986)", note: "le texte grec, en neuf livres" }

@@ -27,7 +27,7 @@ faq:
   - q: "Is Venus weak in the third decan of Scorpio?"
     a: "Venus is in detriment anywhere in Scorpio, but from 20° to 30° it also holds its own face, the smallest of the dignities. I don’t read detriment as weakness: it is a function working in a manner that doesn’t come naturally to it, and here it has a little ground of its own."
   - q: "What does the third decan of Scorpio mean?"
-    a: "For a Sun born about 13 to 21 November, it is Scorpio’s depth with a shade of the two planets that rule it here, Venus and the Moon: intensity turned towards what is loved and what is needed. I read it as loyalty and slow, deep care, and only ever as a shade of the sign."
+    a: "Scorpio’s depth, shaded by the two planets that rule it here, Venus and the Moon: that is how I read a Sun born about 13 to 21 November. Intensity turns towards what is loved and what is needed, and I hear it as loyalty and a slow, deep kind of care."
 sources:
   - { title: "William Lilly, Christian Astrology (1647), ed. Deborah Houlding (Ascella, 1999), pp. 104–105, via Wikipedia, “Decan (astrology)”", url: "https://en.wikipedia.org/wiki/Decan_(astrology)", note: "Venus’s face, and the Moon through Cancer in the modern decans" }
   - { title: "Wilhelm Gundel, Dekane und Dekansterbilder (J. J. Augustin, 1936), pp. 77–81 and 353–354; E. A. Wallis Budge, The Gods of the Egyptians (Open Court, 1904); Athanasius Kircher, Oedipus Aegyptiacus (1652), via Wikipedia, “Decan”", url: "https://en.wikipedia.org/wiki/Decan", note: "Sapt-khennu, Sentineu, Panotragus, and Kairos named a second time" }

@@ -37,7 +37,7 @@ The last ten degrees of Libra are crowded. Saturn's exaltation degree, two of th
 
 ## Its rulers {#its-rulers}
 
-After Saturn ([Libra, second decan](/astrology/libra-second-decan/)), the [Chaldean order](/astrology/chaldean-order/) moves on to Jupiter, so the third face of [Libra](/astrology/libra/) is Jupiter's ([faces](/astrology/faces/)), and [Jupiter in Libra](/astrology/jupiter-in-libra/) between 20° and 30° stands in its own face. The modern decans send these degrees to the one air sign left, Gemini, and so to Mercury.
+After Saturn ([Libra, second decan](/astrology/libra-second-decan/)), the [Chaldean order](/astrology/chaldean-order/) moves on to Jupiter, so the third face of [Libra](/astrology/libra/) is Jupiter's ([faces](/astrology/faces/)), and a [Jupiter in Libra](/astrology/jupiter-in-libra/) placed in these last degrees has a face of its own to stand on. The modern decans send these degrees to the one air sign left, Gemini, and so to Mercury.
 
 The pairing is an odd one. Jupiter and Mercury rule opposite signs, Sagittarius facing Gemini and Pisces facing Virgo, so each is in detriment where the other is at home. Here the two systems lay the planet of the wide view and the planet of detail over the same ten degrees, and I let them talk: a planet in this decan tends to want both the principle and the small print.
 

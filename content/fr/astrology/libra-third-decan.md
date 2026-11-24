@@ -38,7 +38,7 @@ Les dix derniers degrés de la Balance sont très peuplés. Le degré d’exalta
 
 ## Ses maîtres {#ses-maitres}
 
-Après Saturne ([Balance, deuxième décan](/astrology/libra-second-decan/)), l’[ordre chaldéen](/astrology/chaldean-order/) passe à Jupiter : la troisième face de la [Balance](/astrology/libra/) revient donc à Jupiter ([faces](/astrology/faces/)), et [Jupiter en Balance](/astrology/jupiter-in-libra/) entre 20° et 30° se trouve dans sa propre face. Les décans modernes envoient ces degrés au dernier signe d’air qui reste, les Gémeaux, et donc à Mercure.
+Après Saturne ([Balance, deuxième décan](/astrology/libra-second-decan/)), l’[ordre chaldéen](/astrology/chaldean-order/) passe à Jupiter : la troisième face de la [Balance](/astrology/libra/) revient donc à Jupiter ([faces](/astrology/faces/)), et [Jupiter en Balance](/astrology/jupiter-in-libra/), dans ces derniers degrés, a une face à soi sur laquelle s’appuyer. Les décans modernes envoient ces degrés au dernier signe d’air qui reste, les Gémeaux, et donc à Mercure.
 
 L’association est curieuse. Jupiter et Mercure gouvernent des signes opposés, le Sagittaire face aux Gémeaux et les Poissons face à la Vierge : chacune de ces deux planètes est en exil dans les signes où l’autre a son domicile. Les deux systèmes posent ici, sur les mêmes dix degrés, la planète de la vue large et celle du détail, et je les laisse dialoguer : une planète placée dans ce décan veut souvent à la fois le principe et les petites lignes du contrat.
 

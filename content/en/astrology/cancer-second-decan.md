@@ -5,6 +5,8 @@ description: "Cancer, second decan: 10° to 20° Cancer, Mercury’s face, Pluto
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "signs"
+categories: ["Signs"]
+tags: ["Cancer", "decans"]
 weight: 32
 glyph: "♋"
 definition: "The second decan of Cancer runs from 10° to 20° Cancer, where the Sun stands from about 2 to 11 July. Mercury holds its face; by element it goes to Scorpio’s two rulers, Pluto and Mars, and I read both. It also holds Jupiter’s exaltation degree and, in today’s zodiac, the star Sirius."

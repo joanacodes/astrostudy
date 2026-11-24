@@ -41,7 +41,7 @@ In the old scheme of [faces](/astrology/faces/), these ten degrees belong to the
 
 The modern decans, ruled by element, hand the first slice of every sign to that sign's own ruler: here, [Venus](/astrology/venus/). In that scheme Venus rules twice over, [Libra](/astrology/libra/) as a whole and this part of it, while the next two decans go to the rulers of the other air signs, Aquarius and then Gemini ([triplicities](/astrology/triplicities/)).
 
-So the two systems disagree, and I don't force them to agree. The face is the older layer and the slightest of the five dignities: the [Moon in Libra](/astrology/moon-in-libra/) between 0° and 10° stands in its own face, which gives it a sliver of standing and nothing more. Venus, by element, mostly repeats what Libra already says.
+So the two systems disagree, and I don't force them to agree. The face is the older layer and the slightest of the five dignities: a [Moon in Libra](/astrology/moon-in-libra/) in these degrees gains a sliver of standing from its own face, and nothing more. Venus, by element, mostly repeats what Libra already says.
 
 ## Its image {#its-image}
 

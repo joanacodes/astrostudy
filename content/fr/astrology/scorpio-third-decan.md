@@ -28,7 +28,7 @@ faq:
   - q: "Vénus est-elle faible dans le troisième décan du Scorpion ?"
     a: "Vénus est en exil partout dans le Scorpion, mais de 20° à 30° elle tient aussi sa propre face, la plus petite des dignités. Je ne lis pas l’exil comme une faiblesse : c’est une fonction qui travaille d’une manière qui ne lui est pas naturelle, et qui a ici un petit terrain à elle."
   - q: "Que veut dire le troisième décan du Scorpion ?"
-    a: "Pour un Soleil né du 13 au 21 novembre environ, c’est la profondeur du Scorpion avec une nuance des deux astres qui gouvernent ici, Vénus et la Lune : une intensité tournée vers ce qu’on aime et ce dont on a besoin. J’y lis de la loyauté et un soin lent et profond, toujours comme une nuance du signe."
+    a: "La profondeur du Scorpion, nuancée par les deux astres qui gouvernent ici, Vénus et la Lune : c’est ainsi que je lis un Soleil né du 13 au 21 novembre environ. L’intensité se tourne vers ce qu’on aime et ce dont on a besoin, et j’y entends de la loyauté et un soin lent et profond."
 sources:
   - { title: "William Lilly, Christian Astrology (1647), éd. Deborah Houlding (Ascella, 1999), p. 104–105, via Wikipédia en anglais, « Decan (astrology) »", url: "https://en.wikipedia.org/wiki/Decan_(astrology)", note: "la face de Vénus, et la Lune par le Cancer dans les décans modernes" }
   - { title: "Wilhelm Gundel, Dekane und Dekansterbilder (J. J. Augustin, 1936), p. 77–81 et 353–354 ; E. A. Wallis Budge, The Gods of the Egyptians (Open Court, 1904) ; Athanasius Kircher, Oedipus Aegyptiacus (1652), via Wikipédia en anglais, « Decan »", url: "https://en.wikipedia.org/wiki/Decan", note: "Sapt-khennu, Sentineu, Panotragus, et Kairos nommé une seconde fois" }

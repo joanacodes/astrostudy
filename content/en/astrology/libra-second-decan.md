@@ -27,7 +27,7 @@ faq:
   - q: "Is Saturn strong in the second decan of Libra?"
     a: "By the old tables, yes. Saturn is exalted in Libra, and between 10° and 20° it also stands in its own face, so it holds two dignities at once. I read that as structure that sits comfortably here, not as a promise: the house and the aspects still decide how it works."
   - q: "What does the second decan of Libra mean?"
-    a: "For a Sun there, born about 3 to 12 October, Libra’s search for a fair balance stays at the heart of it. Saturn’s shade adds a wish for that balance to last: agreements kept, promises made slowly because they are meant to hold. It colours the sign without replacing it."
+    a: "For a Sun there, born about 3 to 12 October, Libra’s search for a fair balance stays at the heart of it. Saturn’s shade adds a wish for that balance to last: agreements kept, promises made slowly because they are meant to hold."
 sources:
   - { title: "William Lilly, Christian Astrology (1647), ed. Deborah Houlding (Ascella, 1999), pp. 104–105, via Wikipedia, “Decan (astrology)”", url: "https://en.wikipedia.org/wiki/Decan_(astrology)", note: "Saturn’s face, and Aquarius’s rulers in the modern decans" }
   - { title: "Wilhelm Gundel, Dekane und Dekansterbilder (J. J. Augustin, 1936), pp. 77–81 and 353–354, and E. A. Wallis Budge, The Gods of the Egyptians (Open Court, 1904), pp. 304–308, via Wikipedia, “Decan”", url: "https://en.wikipedia.org/wiki/Decan", note: "Ṭepā-khentet, Sepisent and Kairos for these degrees" }

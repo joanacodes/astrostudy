@@ -28,7 +28,7 @@ faq:
   - q: "Est-ce que Saturne a de la force dans le deuxième décan de la Balance ?"
     a: "D’après les tables anciennes, oui. Saturne a son exaltation en Balance et, entre 10° et 20°, se trouve aussi dans sa propre face : deux dignités à la fois. J’y lis une structure à l’aise ici, pas une promesse ; la maison et les aspects décident toujours de la façon dont cette structure travaille."
   - q: "Que veut dire le deuxième décan de la Balance ?"
-    a: "Pour un Soleil placé là, avec une naissance du 3 au 12 octobre environ, la recherche d’un juste équilibre reste le cœur du signe. La nuance de Saturne y ajoute le souhait que cet équilibre dure : des accords tenus, des promesses faites lentement parce qu’elles doivent tenir. Elle colore le signe sans le remplacer."
+    a: "Pour un Soleil placé là, avec une naissance du 3 au 12 octobre environ, la recherche d’un juste équilibre reste le cœur du signe. La nuance de Saturne y ajoute le souhait que cet équilibre dure : des accords tenus, des promesses faites lentement parce qu’elles doivent tenir."
 sources:
   - { title: "William Lilly, Christian Astrology (1647), éd. Deborah Houlding (Ascella, 1999), p. 104–105, via Wikipédia en anglais, « Decan (astrology) »", url: "https://en.wikipedia.org/wiki/Decan_(astrology)", note: "la face de Saturne, et les maîtres du Verseau dans les décans modernes" }
   - { title: "Wilhelm Gundel, Dekane und Dekansterbilder (J. J. Augustin, 1936), p. 77–81 et 353–354, et E. A. Wallis Budge, The Gods of the Egyptians (Open Court, 1904), p. 304–308, via Wikipédia en anglais, « Decan »", url: "https://en.wikipedia.org/wiki/Decan", note: "Ṭepā-khentet, Sepisent et Kairos pour ces degrés" }

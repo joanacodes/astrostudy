@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Bélier", "décans"]
 weight: 22
 glyph: "♈"
-definition: "Le premier décan du Bélier est le tout début du zodiaque, de 0° à 10° du Bélier, où le Soleil se trouve du 21 au 30 mars environ. Mars le gouverne par le signe, la face et l’élément : rien n’y répond à une autre planète. J’y lis un détail fin à l’intérieur du Bélier, jamais un signe à part."
+definition: "Le premier décan du Bélier est le tout début du zodiaque, de 0° à 10° du Bélier, que le Soleil traverse aux premiers jours du printemps, du 21 au 30 mars environ. Mars le gouverne par le signe, la face et l’élément : rien n’y répond à une autre planète. J’y lis un détail fin du Bélier."
 facts:
   - { k: "Degrés", v: "0°–10° Bélier" }
   - { k: "Face (chaldéenne)", v: "Mars" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/aries", "/astrology/faces", "/astrology/aries-second-decan", "/astrology/egyptian-decans", "/astrology/neptune-in-aries-2026-2039"]
 faq:
   - q: "Quelles sont les dates du premier décan du Bélier ?"
-    a: "Du 21 au 30 mars environ. Le Soleil entre dans le Bélier à l’équinoxe de mars et atteint 10° une dizaine de jours plus tard ; les deux moments varient d’un jour au plus d’une année à l’autre. En 2026, c’était le 20 mars à 14 h 45 UT et le 30 mars à 16 h 58 UT : une naissance au bord demande son heure."
+    a: "De l’équinoxe de mars, vers le 21 mars, jusqu’au 30 mars environ. Les deux bornes bougent d’un jour au plus d’une année à l’autre : en 2026, le Soleil est entré dans le Bélier à 14 h 45 UT le 20 mars et a quitté le décan à 16 h 58 UT le 30 mars, si bien qu’une naissance au bord demande son heure."
   - q: "Quelle planète gouverne le premier décan du Bélier ?"
     a: "Mars, dans les deux systèmes. Les faces chaldéennes ouvrent tout le zodiaque avec Mars, ici même, et les décans modernes donnent le premier décan de chaque signe au maître de ce signe : pour le Bélier, c’est encore Mars. Une planète dans ces degrés n’a qu’un maître à regarder, quelle que soit la liste suivie."
   - q: "Que veut dire un Soleil dans le premier décan du Bélier ?"
@@ -39,7 +39,7 @@ Le premier décan du Bélier ouvre le zodiaque : les dix degrés qui suivent l�
 
 ## Ses maîtres {#ses-maitres}
 
-Par la face, le maître est [Mars](/astrology/mars/). La table des [faces](/astrology/faces/) que William Lilly imprime en 1647 dans *Christian Astrology* fait partir le zodiaque d’ici et descend l’[ordre chaldéen](/astrology/chaldean-order/) à partir de Mars : le Soleil prend les dix degrés suivants, Vénus les derniers. Par l’élément, les décans modernes donnent le premier décan de chaque signe au maître de ce signe, et celui du [Bélier](/astrology/aries/), c’est encore Mars.
+Par la face, le maître est [Mars](/astrology/mars/). La table des [faces](/astrology/faces/) que William Lilly imprime en 1647 dans *Christian Astrology* fait partir le zodiaque d’ici et descend l’[ordre chaldéen](/astrology/chaldean-order/) à partir de Mars : le Soleil prend les dix degrés suivants, Vénus les derniers. Lu par l’élément, le décan revient au maître du [Bélier](/astrology/aries/) lui-même : encore Mars, si bien que les dix premiers degrés du zodiaque n’échappent pas à Mars.
 
 Signe, face et décan répondent donc à une seule planète. Pour la plupart des décans, je garde deux maîtres en vue et je regarde où chacun se trouve dans le thème. Ici, il n’y en a qu’un à chercher : quoi qu’il y ait dans ces degrés, le signe, la maison et les aspects de votre Mars disent comment cela s’emploie. [Mars en Bélier](/astrology/mars-in-aries/), entre 0° et 10°, est à la fois dans son domicile et dans sa face : cinq points et un dans le décompte des dignités de Lilly.
 

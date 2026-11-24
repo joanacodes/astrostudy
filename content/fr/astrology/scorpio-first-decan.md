@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Scorpion", "décans"]
 weight: 43
 glyph: "♏"
-definition: "Le premier décan du Scorpion s’étend de 0° à 10° du signe, que le Soleil traverse du 23 octobre au 2 novembre environ. Mars le gouverne dans les deux systèmes : comme face dans l’ordre chaldéen, et comme maître traditionnel du Scorpion dans les décans modernes, aux côtés de Pluton. La profondeur du Scorpion y est prête à agir."
+definition: "Le premier décan du Scorpion, ses dix degrés d’ouverture de 0° à 10°, accueille le Soleil du 23 octobre au 2 novembre environ. Mars le gouverne dans les deux systèmes : comme face dans l’ordre chaldéen, et comme maître traditionnel du Scorpion dans les décans modernes, aux côtés de Pluton. La profondeur du Scorpion y est prête à agir."
 facts:
   - { k: "Degrés", v: "0°–10° Scorpion" }
   - { k: "Face (chaldéenne)", v: "Mars" }
@@ -26,7 +26,7 @@ faq:
   - q: "Quelle planète gouverne le premier décan du Scorpion ?"
     a: "Mars, quel que soit le système. Mars tient la première face du Scorpion dans l’ordre chaldéen et, comme maître traditionnel du signe, gouverne aussi le premier décan dans le système moderne, où Pluton, maître moderne du Scorpion, partage la maîtrise. Je lis les deux."
   - q: "Que veut dire être Scorpion du premier décan ?"
-    a: "Que le Soleil se trouvait entre 0° et 10° du Scorpion à votre naissance, du 23 octobre au 2 novembre environ. Le désir du Scorpion d’aller au fond des choses passe en premier. Avec Mars qui gouverne deux fois le décan, j’y lis une profondeur qui agit, pas seulement une profondeur ressentie. Le décan nuance le signe sans le remplacer."
+    a: "Que le Soleil se trouvait entre 0° et 10° du Scorpion à votre naissance, du 23 octobre au 2 novembre environ. Le désir du Scorpion d’aller au fond des choses passe en premier. Avec Mars qui gouverne deux fois le décan, j’y lis une profondeur qui agit, pas seulement une profondeur ressentie."
   - q: "Qui a Pluton dans le premier décan du Scorpion ?"
     a: "Les personnes nées de novembre 1983 à l’été 1988, à quelques mois près, selon les moments où Pluton a refranchi la limite en sens inverse. Pluton avance si lentement que toute une génération partage ce placement ; la maison où tombe ce placement, qui demande une heure de naissance, est ce qui le rend personnel."
 sources:

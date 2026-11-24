@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Aries", "decans"]
 weight: 22
 glyph: "♈"
-definition: "The first decan of Aries is the opening stretch of the zodiac, 0° to 10° Aries, where the Sun stands from about 21 to 30 March. Mars rules it by sign, face and element, so nothing here answers to a second planet. I read it as a fine detail inside Aries, never a sign of its own."
+definition: "The first decan of Aries is the opening stretch of the zodiac, 0° to 10° Aries, which the Sun crosses in the first days of spring, about 21 to 30 March. Mars rules it by sign, face and element, so nothing here answers to a second planet. I read it as a fine detail inside Aries."
 facts:
   - { k: "Degrees", v: "0°–10° Aries" }
   - { k: "Face (Chaldean)", v: "Mars" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/aries", "/astrology/faces", "/astrology/aries-second-decan", "/astrology/egyptian-decans", "/astrology/neptune-in-aries-2026-2039"]
 faq:
   - q: "What are the dates of the first decan of Aries?"
-    a: "About 21 to 30 March. The Sun enters Aries at the March equinox and reaches 10° about ten days later, and both moments shift by up to a day from year to year. In 2026 they fell on 20 March at 14:45 UT and 30 March at 16:58 UT, so a birth on either edge needs its time."
+    a: "From the March equinox, about 21 March, to about 30 March. Both ends move by up to a day from year to year: in 2026 the Sun entered Aries at 14:45 UT on 20 March and left the decan at 16:58 UT on 30 March, so a birth on either edge needs its time."
   - q: "Which planet rules the first decan of Aries?"
     a: "Mars, in both systems. The Chaldean faces begin the whole zodiac with Mars here, and the modern decans give the first decan of every sign to that sign’s own ruler, which for Aries is Mars again. A planet in these degrees has one ruler to look at, whichever list you follow."
   - q: "What does a first decan Aries Sun mean?"
@@ -38,7 +38,7 @@ The first decan of Aries opens the zodiac: the ten degrees after the March equin
 
 ## Its rulers {#its-rulers}
 
-By face, the ruler is [Mars](/astrology/mars/). William Lilly's table of [faces](/astrology/faces/), printed in *Christian Astrology* in 1647, starts the zodiac here and walks down the [Chaldean order](/astrology/chaldean-order/) from Mars, so the Sun takes the next ten degrees and Venus the last. By element, the modern decans give the first decan of every sign to that sign's own ruler, and the ruler of [Aries](/astrology/aries/) is Mars again.
+By face, the ruler is [Mars](/astrology/mars/). William Lilly's table of [faces](/astrology/faces/), printed in *Christian Astrology* in 1647, starts the zodiac here and walks down the [Chaldean order](/astrology/chaldean-order/) from Mars, so the Sun takes the next ten degrees and Venus the last. Read by element instead, the decan goes to the ruler of [Aries](/astrology/aries/) itself: Mars again, so the zodiac's first ten degrees can't get away from it.
 
 So sign, face and decan answer to one planet. With most decans I keep two rulers in view and look at where each of them stands in the chart. Here there is only one to find: whatever sits in these degrees, the sign, house and aspects of your Mars describe how it gets used. [Mars in Aries](/astrology/mars-in-aries/) between 0° and 10° is in its own sign and its own face at once, five points and one in Lilly's scoring of dignities.
 

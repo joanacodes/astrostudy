@@ -42,7 +42,7 @@ Dans l’ancien système des [faces](/astrology/faces/), ces dix degrés apparti
 
 Les décans modernes, gouvernés par élément, donnent la première tranche de chaque signe au maître de ce signe : ici, [Vénus](/astrology/venus/). Dans ce système, Vénus gouverne donc deux fois, la [Balance](/astrology/libra/) tout entière et cette part du signe, tandis que les deux décans suivants reviennent aux maîtres des autres signes d’air, le Verseau puis les Gémeaux ([triplicités](/astrology/triplicities/)).
 
-Les deux systèmes ne s’accordent pas, et je ne les force pas à s’accorder. La face est la couche la plus ancienne et la plus légère des cinq dignités : la [Lune en Balance](/astrology/moon-in-libra/) entre 0° et 10° se trouve dans sa propre face, ce qui lui vaut un brin de dignité, rien de plus. Vénus, par l’élément, répète surtout ce que la Balance dit déjà.
+Les deux systèmes ne s’accordent pas, et je ne les force pas à s’accorder. La face est la couche la plus ancienne et la plus légère des cinq dignités : une [Lune en Balance](/astrology/moon-in-libra/) dans ces degrés tire de sa propre face un brin de dignité, rien de plus. Vénus, par l’élément, répète surtout ce que la Balance dit déjà.
 
 ## Son image {#son-image}
 

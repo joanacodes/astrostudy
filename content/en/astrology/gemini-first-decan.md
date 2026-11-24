@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Gemini", "decans"]
 weight: 28
 glyph: "♊"
-definition: "The first decan of Gemini covers 0° to 10° Gemini, where the Sun stands from about 21 to 31 May. Mercury rules it by sign and by element, and Jupiter, ruler of the opposite sign, holds its face. I read a planet here as Gemini’s curiosity with a pull towards the larger picture."
+definition: "The first decan of Gemini, 0° to 10° Gemini, receives the Sun from about 21 to 31 May, just after it leaves Taurus. Mercury rules it by sign and by element, and Jupiter, ruler of the opposite sign, holds its face. I read a planet here as Gemini’s curiosity with a pull towards the larger picture."
 facts:
   - { k: "Degrees", v: "0°–10° Gemini" }
   - { k: "Face (Chaldean)", v: "Jupiter" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/gemini", "/astrology/sun-in-gemini", "/astrology/uranus-in-gemini-2026-2033", "/astrology/taurus-third-decan", "/astrology/gemini-second-decan"]
 faq:
   - q: "What are the dates of the first decan of Gemini?"
-    a: "About 21 to 31 May. In 2026 the Sun entered Gemini on 21 May at 00:37 UT and reached 10° on 31 May at 10:31 UT; in 2027, at 06:17 and 16:12 UT. So 31 May sits in this decan in some years and in the next one in others, and a birth on that day needs its time."
+    a: "Late May: the Sun is here from about 21 to 31 May. The 31st is the uncertain day, in this decan in some years and the next in others; in 2026 the line fell at 10:31 UT, in 2027 at 16:12 UT, so a birth on that date needs its time."
   - q: "Who rules the first decan of Gemini?"
     a: "Mercury by element, as Gemini’s own ruler, and Jupiter by face, in the Chaldean order that starts again from the top after Saturn closes Taurus. Jupiter is in detriment in Gemini, so the face gives it a small dignity in a sign that otherwise works against it."
   - q: "Is Uranus in the first decan of Gemini?"
@@ -32,13 +32,13 @@ sources:
   - { title: "E. A. Wallis Budge, The Gods of the Egyptians (1904), and Wilhelm Gundel, Dekane und Dekansterbilder (1936), cited in Wikipedia — Decan", url: "https://en.wikipedia.org/wiki/Decan", note: "Mestcher-Saḥ, Thosalk, Thesogar, Sphandor, Thetys and Tautus" }
   - { title: "The Astro Study’s count from the planets’ positions and the Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991)", note: "the Sun’s dates, Uranus’s and Saturn’s years, the rising time at 51.5° north, Alcyone’s and Aldebaran’s positions" }
 ---
-The first decan of Gemini is 0° to 10° of the sign, the start of mutable air, which the Sun crosses in the last ten days of May. Mercury rules it by sign and element; Jupiter, the planet in detriment in Gemini, holds its face.
+Two planets from opposite ends of the zodiac share the start of Gemini. Mercury, ruler of the sign, takes its first ten degrees by element too; Jupiter, ruler of Sagittarius across the way, holds the face.
 
 ## Its rulers {#its-rulers}
 
-Once Saturn has closed Taurus, the Chaldean order starts again from the top, and Lilly's [faces](/astrology/faces/) give the first ten degrees of [Gemini](/astrology/gemini/) to [Jupiter](/astrology/jupiter/). By element, the modern decans leave the first decan with the sign's own ruler, [Mercury](/astrology/mercury/).
+[Jupiter](/astrology/jupiter/) takes the face because the Chaldean order, having reached Saturn at the end of Taurus, wraps round to its first planet again: Lilly's [faces](/astrology/faces/) open [Gemini](/astrology/gemini/) with the ruler of its opposite sign. [Mercury](/astrology/mercury/) keeps the decan in the modern list, as it keeps the sign.
 
-That puts both ends of an axis in one decan. Mercury rules Gemini; Jupiter rules Sagittarius, the sign opposite, which is why tradition calls Jupiter in [detriment](/astrology/detriment/) here. Mercury gathers facts, names and connections; Jupiter wants them to add up to a meaning. With a planet in these degrees, I read Gemini's quick, comparing mind first, then look at your Jupiter to see how much room the wider view gets.
+That puts both ends of an axis in one decan. Mercury rules Gemini; Jupiter rules Sagittarius, the sign opposite, which is why tradition calls Jupiter in [detriment](/astrology/detriment/) here. Mercury gathers facts, names and connections; Jupiter wants them to add up to a meaning. Gemini's quick, comparing mind comes first in my reading of a planet here; your Jupiter then shows how much room the wider view gets.
 
 [Jupiter in Gemini](/astrology/jupiter-in-gemini/) between 0° and 10° is the case that tests the scheme: in detriment by sign and in its own face at once. I read it as growth through learning and conversation that has to choose, now and then, between more information and more understanding. The face doesn't settle that; it only says Jupiter isn't without standing here.
 
@@ -50,10 +50,10 @@ None of them describes a figure I could set beside the sign. They are labels tha
 
 ## In a birth chart {#in-a-birth-chart}
 
-The Sun is here for births from about 21 to 31 May ([Sun in Gemini](/astrology/sun-in-gemini/)). In 2026 it entered Gemini on 21 May at 00:37 UT and reached 10° on 31 May at 10:31 UT; in 2027 at 06:17 and 16:12 UT.
+The Sun opens Gemini here, for births from about 21 to 31 May, and on its first day in the sign it now meets the Pleiades' degree ([Sun in Gemini](/astrology/sun-in-gemini/)). The 2026 ingress came at 00:37 UT on 21 May and the move to 10° at 10:31 UT on 31 May; in 2027 the same steps fall at 06:17 and 16:12 UT.
 
 Gemini still rises fairly fast in the northern hemisphere: at the latitude of London, these ten degrees take about half an hour to cross the horizon ([Gemini rising](/astrology/gemini-rising/)).
 
-Uranus is crossing them now. It first entered from July to November 2025, came back to stay on 26 April 2026 and leaves for the second decan at the end of May 2028 ([Uranus in Gemini, 2026–2033](/astrology/uranus-in-gemini-2026-2033/)). The last time, it was here for births from May 1942 to June 1944, with short visits on either side, its yearly retrograde loops carrying it back and forth over the edges ([natal retrograde planets](/blog/retrograde-planets/)). Saturn passed in 1942–43, 1971–72 and 2000–02, and returns in June 2030.
+Uranus is crossing them now. It first entered from July to November 2025, came back to stay on 26 April 2026 and leaves for the second decan at the end of May 2028 ([Uranus in Gemini, 2026–2033](/astrology/uranus-in-gemini-2026-2033/)). The last time, it was here for births from May 1942 to June 1944, with short visits on either side, its yearly retrograde loops carrying it back and forth over the edges ([natal retrograde planets](/blog/retrograde-planets/)). Saturn's turns came in 1942–43, 1971–72 and 2000–02; the next begins in June 2030.
 
 Two of the best-known fixed stars meet this decan. [Alcyone and the Pleiades](/astrology/alcyone-and-the-pleiades/), at 0°21′ Gemini in 2026, opened it when they crossed over from Taurus around 2000. [Aldebaran](/astrology/aldebaran/) has just left it at the far edge: at 9°47′ Gemini in 2000, it crossed 10° around 2015 and now stands at the start of the second decan ([Gemini, second decan](/astrology/gemini-second-decan/)).

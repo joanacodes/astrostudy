@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Taureau", "décans"]
 weight: 27
 glyph: "♉"
-definition: "Le troisième décan du Taureau couvre la fin du signe, de 20° à 30° du Taureau, où le Soleil se trouve du 11 au 20 mai environ. Saturne le gouverne par la face et par l’élément, sous Vénus, maîtresse du signe. J’y lis le Taureau, avec la patience et le sens de la structure de Saturne en plus."
+definition: "Le troisième décan du Taureau est la dernière étape avant les Gémeaux, de 20° à 30° du Taureau, et le Soleil y passe du 11 au 20 mai environ. Saturne le gouverne par la face et par l’élément, sous Vénus, maîtresse du signe. J’y lis le Taureau, avec la patience et le sens de la structure de Saturne en plus."
 facts:
   - { k: "Degrés", v: "20°–30° Taureau" }
   - { k: "Face (chaldéenne)", v: "Saturne" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/taurus", "/astrology/saturn-in-taurus", "/astrology/algol", "/astrology/taurus-second-decan", "/astrology/gemini-first-decan"]
 faq:
   - q: "Quelles sont les dates du troisième décan du Taureau ?"
-    a: "Du 11 au 20 mai environ. En 2026, le Soleil franchit 20° Taureau le 10 mai à 15 h 50 UT et entre en Gémeaux le 21 mai à 0 h 37 UT ; en 2027, il fait l’un et l’autre environ cinq heures et demie plus tard. Une naissance le 20 ou le 21 mai demande son heure pour savoir dans quel signe était le Soleil."
+    a: "À la mi-mai, du 11 au 20 mai environ. Le Soleil est arrivé à 15 h 50 UT le 10 mai 2026 et il est passé en Gémeaux à 0 h 37 UT le 21 mai ; les passages de 2027 ont environ cinq heures et demie de retard. Pour une naissance le 20 ou le 21, l’heure tranche le signe."
   - q: "Quelle planète gouverne le troisième décan du Taureau ?"
-    a: "Saturne, dans les deux systèmes : par la face, dans l’ordre chaldéen, et par l’élément, au titre du Capricorne, le troisième signe de terre. Vénus gouverne toujours le Taureau. Une planète dans ces degrés répond donc à Vénus pour son signe et à Saturne pour son décan, et je regarde où se trouvent les deux dans le thème."
+    a: "Saturne, quel que soit le système : l’ordre chaldéen y arrive après Mercure et la Lune, et les décans modernes donnent le décan à Saturne au titre du Capricorne, le dernier signe de terre. Vénus garde le signe : je la lis pour la part Taureau, et Saturne pour ces dix degrés."
   - q: "Algol est-elle dans le troisième décan du Taureau ?"
     a: "Oui. Algol, l’étoile de la tête de Méduse, se trouve à 26°31′ Taureau en 2026, et le Soleil atteint son degré vers les 16 et 17 mai. Les vieux livres la comptaient parmi les étoiles les plus malchanceuses, selon leur mot. Je lis une planète proche d’elle par son signe, sa maison et ses aspects, jamais comme un avertissement."
 sources:
@@ -34,11 +34,11 @@ sources:
   - { title: "M. Shaltout et J. A. Belmonte, « On the Orientation of Ancient Egyptian Temples : (1) Upper Egypt and Lower Nubia », Journal for the History of Astronomy 36 (2005), 273–298, cités dans Wikipedia — Sah (god)", url: "https://en.wikipedia.org/wiki/Sah_(god)", note: "Sah, la constellation d’Orion et du Lièvre" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes et le Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991)", note: "les dates du Soleil, les années d’Uranus et de Saturne dans le décan, la position d’Algol et d’Alcyone" }
 ---
-Le troisième décan du Taureau va de 20° à 30° du signe : les dix derniers degrés de la terre fixe, avant que le Soleil passe en Gémeaux. Saturne le gouverne dans les deux listes, et Algol, l’étoile que les vieux livres comptaient parmi les plus malchanceuses, s’y trouve.
+Saturne a le dernier mot dans le Taureau : les deux listes de maîtres des décans lui donnent les dix derniers degrés du signe, de 20° à 30°. Algol, l’étoile que les vieux livres comptaient parmi les plus malchanceuses, s’y trouve.
 
 ## Ses maîtres {#ses-maitres}
 
-Les [faces](/astrology/faces/) de Lilly arrivent à [Saturne](/astrology/saturn/) à la fin du Taureau, après Mercure et la Lune. Les décans modernes aboutissent à la même planète par l’autre bout : ils donnent les dix derniers degrés d’un signe de terre à la planète qui gouverne le troisième signe de terre, le Capricorne, c’est-à-dire Saturne. C’est l’un des rares décans où les deux listes nomment la même planète.
+[Saturne](/astrology/saturn/) ferme le Taureau dans la table des [faces](/astrology/faces/) de Lilly, après Mercure et la Lune, et le ferme aussi dans la liste moderne, au titre du Capricorne, le dernier des trois signes de terre. Peu de décans reçoivent la même planète des deux listes ; celui-ci en fait partie.
 
 Deux maîtres parlent donc ici : Vénus, pour le [Taureau](/astrology/taurus/), et Saturne, pour le décan. Vénus dit ce qu’une planète placée dans ces degrés apprécie et veut garder ; Saturne y ajoute la structure, la patience et le temps long, l’idée que ce que l’on garde doit être entretenu. [Saturne en Taureau](/astrology/saturn-in-taurus/), entre 20° et 30°, se tient dans un décan que Saturne gouverne deux fois, et dans un signe qui n’est ni son domicile ni son exaltation.
 
@@ -52,10 +52,10 @@ Les listes plus tardives vont ailleurs. Les listes gréco-égyptiennes écrivent
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le Soleil se trouve ici pour les naissances du 11 au 20 mai environ ([Soleil en Taureau](/astrology/sun-in-taurus/)). En 2026, il franchit 20° Taureau le 10 mai à 15 h 50 UT et part en Gémeaux le 21 mai à 0 h 37 UT : une naissance le 20 ou le 21 demande son heure ([Gémeaux, premier décan](/astrology/gemini-first-decan/)).
+Le Soleil atteint ces degrés vers le 11 mai et y reste jusqu’au 20 environ, en passant sur Algol en chemin ([Soleil en Taureau](/astrology/sun-in-taurus/)). En 2026, il est arrivé à 15 h 50 UT le 10 mai et il est passé en Gémeaux juste après minuit, temps universel, le 21 mai, à 0 h 37 : une naissance le 20 ou le 21 demande son heure ([Gémeaux, premier décan](/astrology/gemini-first-decan/)).
 
-Vers les 16 et 17 mai, le Soleil passe sur [Algol](/astrology/algol/), à 26°31′ Taureau en 2026. Le mot de la tradition pour cette étoile était « malchanceuse » ; le mien, c’est qu’une étoile sur le degré d’une planète est un détail du ciel, jamais une sentence. Un peu plus loin, les Pléiades se sont tenues dans le dernier degré de ce décan pendant presque tout le XXe siècle, avant de passer en Gémeaux vers 2000 ([Alcyone et les Pléiades](/astrology/alcyone-and-the-pleiades/)).
+Sa rencontre avec [Algol](/astrology/algol/), à 26°31′ Taureau en 2026, a lieu vers les 16 et 17 mai. Le mot de la tradition pour cette étoile était « malchanceuse » ; le mien, c’est qu’une étoile sur le degré d’une planète est un détail du ciel, jamais une sentence. Un peu plus loin, les Pléiades se sont tenues dans le dernier degré de ce décan pendant presque tout le XXe siècle, avant de passer en Gémeaux vers 2000 ([Alcyone et les Pléiades](/astrology/alcyone-and-the-pleiades/)).
 
-Saturne a occupé son propre décan pour trois groupes de naissances : de mai 1941 à mai 1942, par intermittence de juillet 1970 à février 1972, et de mai 2000 à avril 2001, avec une interruption cet automne-là. Uranus a occupé ces degrés d’avril 1940 à août 1941, avec des séjours plus courts de part et d’autre, puis de 2023 jusqu’au 25 avril 2026, date de son départ définitif du Taureau ([Uranus en Gémeaux, 2026-2033](/astrology/uranus-in-gemini-2026-2033/)). Pour qui a une planète ou un angle ici, ces années ont été un long transit, lu par la maison traversée.
+Saturne a occupé son propre décan pour trois groupes de naissances : de mai 1941 à mai 1942, par intermittence de juillet 1970 à février 1972, et de mai 2000 à avril 2001, avec une interruption cet automne-là. Les deux dernières visites d’Uranus datent d’avril 1940 à août 1941, avec des séjours plus courts de part et d’autre, et de 2023 jusqu’au 25 avril 2026, date de son départ définitif du Taureau ([Uranus en Gémeaux, 2026-2033](/astrology/uranus-in-gemini-2026-2033/)). Pour qui a une planète ou un angle ici, ces années ont été un long transit, lu par la maison traversée.
 
 Les dix degrés suivants appartiennent aux Gémeaux, où Jupiter prend la face et Mercure le décan ; derrière, il y a la face de la Lune ([Taureau, deuxième décan](/astrology/taurus-second-decan/)).
