@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["centaures"]
 weight: 33
 glyph: "✦"
-definition: "Hylonomé (10370) est un centaure d’environ 70 km, découvert par David Jewitt et Jane Luu en 1995, sur une orbite de 126 ans qui croise celle de Neptune et frôle seulement celle d’Uranus. Il porte le nom d’une centauresse des Métamorphoses d’Ovide, morte près de son époux après le combat contre les Lapithes ; je le garde hors de mes lectures."
+definition: "Hylonomé (10370) est un centaure d’environ 70 km, découvert par David Jewitt et Jane Luu en 1995, sur une orbite de 126 ans qui croise celle de Neptune et frôle celle d’Uranus. Il porte le nom d’une centauresse des Métamorphoses d’Ovide, morte près de son époux après le combat contre les Lapithes ; je le garde hors de mes lectures."
 facts:
   - { k: "Nature", v: "Centaure sombre et glacé, d’environ 70 km" }
   - { k: "Découverte", v: "Le 27 février 1995, par David Jewitt et Jane Luu au Mauna Kea, à Hawaï" }

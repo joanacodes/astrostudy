@@ -2,7 +2,7 @@
 title: "Uranie"
 slug: "uranie"
 h1: "L’astéroïde Uranie en astrologie"
-description: "L’astéroïde Uranie en astrologie : trouvé par Hind en 1854, son orbite de 3,6 ans, la muse de l’astronomie et de l’astrologie, un nom flatteur qui ne prouve rien."
+description: "L’astéroïde Uranie en astrologie : trouvé par Hind en 1854, son orbite de 3,6 ans, la muse de l’astrologie et de l’astronomie, un nom flatteur sans preuve."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
