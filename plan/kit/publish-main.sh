@@ -79,6 +79,6 @@ if [ $dry = 1 ]; then echo "dry run: nothing committed"; exit 0; fi
 git commit -q -m "$title
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_018jKMK9BPQVbgBpXXSDVL8J"
+Claude-Session: https://claude.ai/code/session_01LYuYY9b3F66UY1XDinLm1L"
 for i in 2 4 8 16; do git push -q origin HEAD:main && break || sleep $i; done
 git log --oneline -1
