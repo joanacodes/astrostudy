@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Alcyone et les Pléiades", "étoiles fixes", "étoiles béhéniennes"]
 weight: 13
 glyph: "★"
-definition: "Alcyone et les Pléiades sont les étoiles fixes des Sept Sœurs, l’amas du Taureau, que l’astrologie place par Alcyone, son étoile la plus brillante, à 0°21′ des Gémeaux dans le zodiaque tropical en 2026. La liste béhénienne médiévale les donne à la Lune et à Mars. Leur degré tombe juste là où le Taureau devient les Gémeaux."
+definition: "Alcyone et les Pléiades sont les étoiles fixes des Sept Sœurs, l’amas du Taureau, placé par son étoile la plus brillante, Alcyone, à 0°21′ des Gémeaux dans le zodiaque tropical en 2026. Pour la magie médiévale, l’amas forme une seule étoile béhénienne, de la Lune et de Mars. Leur degré tombe juste là où le Taureau devient les Gémeaux."
 facts:
   - { k: "Constellation", v: "Le Taureau ; Alcyone est η Tauri" }
   - { k: "Éclat", v: "Alcyone, magnitude 2,87 ; six ou sept étoiles visibles à l’œil nu" }
@@ -39,9 +39,9 @@ Les Pléiades sont le petit amas brumeux du Taureau que des cultures du monde en
 
 Les Pléiades, aussi appelées Messier 45, forment un amas ouvert de plus d’un millier de jeunes étoiles, à environ 444 années-lumière, dont six ou sept se voient sans peine à l’œil nu. Galilée, le premier à les observer avec une lunette, en a dessiné 36 en 1610. Alcyone, η Tauri, les mène avec sa magnitude de 2,87.
 
-Un amas n’a pas de position unique : la tradition lui en donne une par son étoile la plus brillante, et la liste béhénienne médiévale porte l’entrée « Alcyone, ou les Pléiades ». Alcyone était à 29°00′ du [Taureau](/astrology/taurus/) en 1930 et à 29°59′ du Taureau en 2000, puis elle est passée dans les [Gémeaux](/astrology/gemini/) pour atteindre 0°21′ des Gémeaux en 2026 ([précession des équinoxes](/astrology/precession-of-the-equinoxes/)). Les thèmes du siècle dernier placent les Sœurs dans le dernier degré du Taureau ; ceux de ce siècle, au début des Gémeaux.
+Un amas n’a pas de position unique : la tradition lui en donne une par son étoile la plus brillante, et la liste béhénienne médiévale porte l’entrée « Alcyone, ou les Pléiades ». Alcyone est passée du [Taureau](/astrology/taurus/) aux [Gémeaux](/astrology/gemini/) juste après 2000 : 29°00′ du Taureau en 1930, 29°59′ en 2000, 0°21′ des Gémeaux en 2026 ([précession des équinoxes](/astrology/precession-of-the-equinoxes/)). Les thèmes du siècle dernier placent les Sœurs dans le dernier degré du Taureau ; ceux de ce siècle, au début des Gémeaux.
 
-Leur latitude est de 4,1° au nord de l’écliptique. Vers 2330 av. J.-C., l’amas se tenait au point de l’équinoxe de printemps lui-même, près de la route du Soleil, et c’est pourquoi tant de calendriers anciens commençaient par lui. Dans la même portion du zodiaque se trouvent [Algol](/astrology/algol/), quatre degrés en arrière, et [Capella](/astrology/capella/), vingt-deux degrés plus loin et bien plus au nord.
+Au nord de l’écliptique, l’amas n’en est qu’à 4,1°. Vers 2330 av. J.-C., l’amas se tenait au point de l’équinoxe de printemps lui-même, près de la route du Soleil, et c’est pourquoi tant de calendriers anciens commençaient par lui. Dans la même portion du zodiaque se trouvent [Algol](/astrology/algol/), quatre degrés en arrière, et [Capella](/astrology/capella/), vingt-deux degrés plus loin et bien plus au nord.
 
 ## Sa tradition {#sa-tradition}
 
@@ -51,6 +51,6 @@ La liste béhénienne de la magie médiévale donne « Alcyone, ou les Pléiade
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Une naissance vers le 20 ou le 21 mai place le Soleil sur le degré d’Alcyone, juste à la rencontre de deux signes : ce peut être le [Soleil en Taureau](/astrology/sun-in-taurus/) ou le [Soleil en Gémeaux](/astrology/sun-in-gemini/), selon l’année et l’heure de naissance. Pour un amas, la règle d’un degré de la tradition se mesure depuis Alcyone seule ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)).
+Le Soleil se trouve sur le degré d’Alcyone le 20 ou le 21 mai, juste à la rencontre de deux signes : ce peut être le [Soleil en Taureau](/astrology/sun-in-taurus/) ou le [Soleil en Gémeaux](/astrology/sun-in-gemini/), selon l’année et l’heure de naissance. Pour un amas, la règle d’un degré de la tradition se mesure depuis Alcyone seule ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)).
 
 Un amas est un morceau de ciel, pas un point, et un orbe d’un degré mesuré depuis son étoile la plus brillante relève de la convention plus que de la mesure. C’est une raison de plus pour laisser les Sept Sœurs hors de mes lectures, à côté de la plus simple : les étoiles n’ont pas de place dans ma façon de lire ([Ma méthode](/how-i-read/)). Ce que je garderais des Pléiades, c’est leur plus vieil usage, un calendrier écrit dans le ciel, qui disait aux marins quand la mer était ouverte.

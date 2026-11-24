@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Alcyone and the Pleiades", "fixed stars", "Behenian stars"]
 weight: 13
 glyph: "★"
-definition: "Alcyone and the Pleiades are the fixed stars of the Seven Sisters, the cluster in Taurus, placed in astrology by Alcyone, its brightest star, at 0°21′ Gemini in the tropical zodiac in 2026. The medieval Behenian list gives them to the Moon and Mars. Their degree lies right where Taurus turns into Gemini."
+definition: "Alcyone and the Pleiades are the fixed stars of the Seven Sisters, the cluster in Taurus, placed in astrology by Alcyone, its brightest star, at 0°21′ Gemini in the tropical zodiac in 2026. In medieval magic the whole cluster counts as one Behenian star, under the Moon and Mars. Their degree lies right where Taurus turns into Gemini."
 facts:
   - { k: "Constellation", v: "Taurus; Alcyone is η Tauri" }
   - { k: "Brightness", v: "Alcyone, magnitude 2.87; six or seven stars visible to the eye" }
@@ -38,7 +38,7 @@ The Pleiades are the small, misty cluster in Taurus that cultures all over the w
 
 The Pleiades, also known as Messier 45, are an open cluster of more than a thousand young stars about 444 light-years away, of which six or seven are easy to see without a telescope. Galileo, the first to look at them through one, drew 36 stars in 1610. Alcyone, η Tauri, leads them at magnitude 2.87.
 
-A cluster has no single position, so the tradition gives it one through its brightest star: the medieval Behenian list's entry reads "Alcyone, or the Pleiades". Alcyone stood at 29°00′ [Taurus](/astrology/taurus/) in 1930 and 29°59′ Taurus in 2000, then crossed into [Gemini](/astrology/gemini/) and reached 0°21′ Gemini by 2026 ([precession of the equinoxes](/astrology/precession-of-the-equinoxes/)). Charts from the last century put the Sisters in the final degree of Taurus; charts from this one put them at the start of Gemini.
+A cluster has no single position, so the tradition gives it one through its brightest star: the medieval Behenian list's entry reads "Alcyone, or the Pleiades". Alcyone crossed from [Taurus](/astrology/taurus/) into [Gemini](/astrology/gemini/) just after 2000: 29°00′ Taurus in 1930, 29°59′ in 2000, 0°21′ Gemini in 2026 ([precession of the equinoxes](/astrology/precession-of-the-equinoxes/)). Charts from the last century put the Sisters in the final degree of Taurus; charts from this one put them at the start of Gemini.
 
 The cluster lies 4.1° north of the ecliptic. Around 2330 BC the cluster stood at the spring equinox itself, near the Sun's path, and that is why so many early calendars began with it. In the same stretch of zodiac lie [Algol](/astrology/algol/), four degrees back, and [Capella](/astrology/capella/), twenty-two degrees on and far to the north.
 
@@ -50,6 +50,6 @@ The Behenian list of medieval magic gives "Alcyone, or the Pleiades" to the Moon
 
 ## In a birth chart {#in-a-birth-chart}
 
-Born on about 20 or 21 May, you have the Sun on Alcyone's degree, right where two signs meet, so it can be the [Sun in Taurus](/astrology/sun-in-taurus/) or the [Sun in Gemini](/astrology/sun-in-gemini/), depending on the year and the hour of birth. For a cluster, the tradition's one-degree rule is measured from Alcyone alone ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)).
+The Sun sits on Alcyone's degree on 20 or 21 May, right where two signs meet, so it can be the [Sun in Taurus](/astrology/sun-in-taurus/) or the [Sun in Gemini](/astrology/sun-in-gemini/), depending on the year and the hour of birth. For a cluster, the tradition's one-degree rule is measured from Alcyone alone ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)).
 
 A cluster is a patch of sky, not a point, and a one-degree orb measured from its brightest star is a convention more than a measurement. That is one more reason the Seven Sisters stay out of my readings, alongside the plainer one, that stars have no place in the way I read ([How I read](/how-i-read/)). What I'd keep from the Pleiades is their oldest use, as a calendar written in the sky, telling sailors when the sea was open.

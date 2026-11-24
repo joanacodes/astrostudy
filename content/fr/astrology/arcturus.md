@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Arcturus", "étoiles fixes", "étoiles béhéniennes"]
 weight: 20
 glyph: "★"
-definition: "Arcturus est l’étoile fixe du Bouvier, la plus brillante au nord de l’équateur céleste, à 24°36′ de la Balance dans le zodiaque tropical en 2026. Son nom grec veut dire gardien de l’ourse, et la magie médiévale en a fait une étoile béhénienne de Mars et de Jupiter. Elle partage le degré de Spica, trente degrés plus au nord."
+definition: "Arcturus est l’étoile fixe du Bouvier, la plus brillante au nord de l’équateur céleste, à 24°36′ de la Balance dans le zodiaque tropical en 2026. Son nom grec veut dire gardien de l’ourse, et la liste béhénienne l’attribue à Mars et à Jupiter. Elle partage le degré de Spica, trente degrés plus au nord."
 facts:
   - { k: "Constellation", v: "Le Bouvier (α Boötis), dont c’est l’étoile la plus brillante" }
   - { k: "Éclat", v: "Magnitude −0,04, la quatrième étoile la plus brillante du ciel nocturne" }
@@ -23,11 +23,11 @@ facts:
 related: ["/astrology/fixed-stars-in-astrology", "/astrology/spica", "/astrology/alphecca", "/astrology/conjunctions-to-fixed-stars", "/astrology/sun-in-libra"]
 faq:
   - q: "Que signifie Arcturus en astrologie ?"
-    a: "Son nom grec, gardien de l’ourse, revient au Bouvier placé dans le ciel à côté de la Grande Ourse, et la liste béhénienne médiévale la donne à Mars et à Jupiter, avec le jaspe et le plantain. Une planète à son degré, vers 24° de la Balance, passe trente degrés au sud de l’étoile."
+    a: "Son nom grec, gardien de l’ourse, revient au Bouvier placé dans le ciel à côté de la Grande Ourse, et la magie médiévale l’a choisie comme l’une de ses quinze étoiles béhéniennes, sous Mars et Jupiter. Une planète à son degré, vers 24° de la Balance, passe trente degrés au sud de l’étoile."
   - q: "Arcturus et Spica sont-elles au même degré ?"
     a: "Presque. En 2026, Spica se trouve à 24°12′ de la Balance et Arcturus à 24°36′, à moins d’un demi-degré l’une de l’autre le long du zodiaque. Dans le ciel, elles sont loin l’une de l’autre : Spica se tient à 2° au sud de l’écliptique, Arcturus à 30,7° au nord."
   - q: "Où se trouve Arcturus dans le zodiaque ?"
-    a: "À la fin de la Balance, à côté du degré de Spica : 23°14′ en 1930, 24°13′ en 2000, 24°36′ en 2026. Le Soleil l’atteint vers le 17 ou le 18 octobre de chaque année, à un jour près de sa date pour Spica."
+    a: "À la fin de la Balance, à côté du degré de Spica, et en route de 24°36′ en 2026 vers 24°56′ en 2050. Le Soleil l’atteint vers le 17 ou le 18 octobre de chaque année, à un jour près de sa date pour Spica."
 sources:
   - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991)", note: "les coordonnées et l’éclat d’Arcturus, ramenés à 1930, 2000 et 2026, et les dates du Soleil sur son degré" }
   - { title: "Liddell et Scott, A Greek–English Lexicon, Hésiode, Les Travaux et les Jours, et Fred Schaaf, The Brightest Stars (2008), via Wikipédia en anglais, « Arcturus »", url: "https://en.wikipedia.org/wiki/Arcturus", note: "son nom et ses mythes, son éclat et son mouvement, les vendanges d’Hésiode, le porteur de lance et Hōkūleʻa" }
@@ -41,7 +41,7 @@ Trois étoiles seulement du ciel nocturne surpassent α Boötis, de magnitude �
 
 Elle se déplace aussi de façon visible. Arcturus parcourt environ 228 secondes d’arc par siècle sur le fond des étoiles, plus vite que toute autre étoile de première magnitude hormis α du Centaure, de quoi la porter de six degrés environ en 10 000 ans.
 
-Le long du zodiaque, elle est passée de 23°14′ de la [Balance](/astrology/libra/) en 1930 à 24°13′ en 2000 et à 24°36′ en 2026, sans s’écarter de plus d’un demi-degré de [Spica (l’Épi)](/astrology/spica/), à 24°12′. Dans le ciel, les deux pourraient difficilement être plus éloignées : Spica se tient près de la route du Soleil, tandis qu’Arcturus est à 30,7° au nord de l’[écliptique](/astrology/ecliptic/), haute dans le ciel du soir à la fin du printemps.
+En 2000, elle se trouvait à 24°13′ de la [Balance](/astrology/libra/), en 2026 à 24°36′, jamais à plus d’un demi-degré de [Spica (l’Épi)](/astrology/spica/), à 24°12′. Dans le ciel, les deux pourraient difficilement être plus éloignées : Spica se tient près de la route du Soleil, tandis qu’Arcturus est à 30,7° au nord de l’[écliptique](/astrology/ecliptic/), haute dans le ciel du soir à la fin du printemps.
 
 ## Sa tradition {#sa-tradition}
 
@@ -49,7 +49,7 @@ Arktouros joint le grec *arktos*, l’ourse, à *ouros*, le gardien. Dans le myt
 
 En arabe, Arcturus est l’un des deux simāk, les élevés ; Spica est l’autre. Arcturus est as-simāk ar-rāmiḥ, l’élevé du porteur de lance, appelé aussi le gardien du ciel. Les navigateurs polynésiens la connaissaient sous le nom de Hōkūleʻa, l’étoile de la joie : elle passe exactement au zénith d’Hawaï, si bien qu’ils remontaient vers le nord jusqu’à la voir au-dessus de leur tête, puis filaient vers l’ouest jusqu’à la terre.
 
-La magie médiévale a donné à l’étoile du gardien une place parmi les quinze étoiles béhéniennes, sous [Mars](/astrology/mars/) et [Jupiter](/astrology/jupiter/), avec le jaspe pour pierre et le plantain pour plante, et Corneille Agrippa a tracé son signe sous le nom d’Alchameth. L’étoile béhénienne suivante le long du zodiaque est [Alphecca](/astrology/alphecca/), l’étoile brillante de la Couronne boréale, à 12° du Scorpion.
+Corneille Agrippa a tracé le signe d’Alchameth, comme il l’appelait, parmi les quinze étoiles béhéniennes de sa magie, avec [Mars](/astrology/mars/) et [Jupiter](/astrology/jupiter/) pour planètes, le jaspe pour pierre et le plantain pour plante. L’étoile béhénienne suivante le long du zodiaque est [Alphecca](/astrology/alphecca/), l’étoile brillante de la Couronne boréale, à 12° du Scorpion.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
