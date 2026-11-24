@@ -2,7 +2,7 @@
 title: "Vénus conjonction Fomalhaut"
 slug: "venus-conjonction-fomalhaut"
 h1: "Vénus conjonction Fomalhaut dans un thème natal"
-description: "Vénus conjonction Fomalhaut dans un thème natal : Vénus exaltée au début des Poissons, sur l’étoile du Poisson austral, de janvier à avril. Mythe et rareté."
+description: "Vénus conjonction Fomalhaut dans un thème natal : Vénus exaltée en Poissons, au degré de l’étoile brillante du Poisson austral, de janvier à avril. Mythe, rareté."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Vénus", "Fomalhaut", "étoiles fixes"]
 weight: 2582
 glyph: "♀☌★"
-definition: "Vénus conjonction Fomalhaut, c’est Vénus à moins de 1° du degré zodiacal de Fomalhaut, l’étoile de la bouche du Poisson austral : toujours une Vénus au début des Poissons, son signe d’exaltation, et seulement pour une naissance entre début janvier et début avril. Environ 1 personne sur 216 l’a. Un vieux récit syrien fait du poisson le sauveur d’une fille d’Aphrodite."
+definition: "Vénus conjonction Fomalhaut, c’est Vénus à moins d’un degré de la longitude de Fomalhaut : toujours une Vénus au début des Poissons, son signe d’exaltation, et seulement pour une naissance entre début janvier et début avril. Environ 1 personne sur 216 l’a. Un vieux récit syrien fait du poisson le sauveur d’une fille d’Aphrodite."
 facts:
   - { k: "Planète", v: "Vénus ♀" }
   - { k: "Étoile", v: "Fomalhaut, α Piscis Austrini : 2°52′ des Poissons en 1930, 4°13′ des Poissons en 2026" }
@@ -32,7 +32,7 @@ sources:
   - { title: "Theony Condos, Star Myths of the Greeks and Romans : A Sourcebook (1997), via Wikipédia en anglais, « Piscis Austrinus »", url: "https://en.wikipedia.org/wiki/Piscis_Austrinus", note: "le poisson de Bambyce selon Ctésias, sauveur de Derceto, fille d’Aphrodite ; le récit égyptien d’Isis" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Vénus exaltée dans les Poissons" }
 ---
-Vénus conjonction Fomalhaut place Vénus dans les premiers degrés des Poissons, le signe que la tradition appelle son exaltation, sur le degré de l’étoile brillante de la bouche du Poisson austral. Seules les naissances entre début janvier et début avril peuvent l’avoir, et environ 1 personne sur 216 l’a.
+Vénus conjonction Fomalhaut place Vénus dans les premiers degrés des Poissons, le signe que la tradition appelle son exaltation, sur le degré de Fomalhaut, l’étoile brillante du Poisson austral. Seules les naissances entre début janvier et début avril peuvent l’avoir, et environ 1 personne sur 216 l’a.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
@@ -42,7 +42,7 @@ Ces histoires sont la couleur que la tradition donne à ce contact, et elles son
 
 À environ 1 personne sur 216 née entre 1930 et 2009, ce contact est plus rare que le 1 sur 180 que donne en moyenne une fenêtre d’un degré. C’est Vénus qui l’explique. En ces quatre-vingts ans, elle a franchi le degré de Fomalhaut exactement une fois par an, toujours en avançant, chaque passage durant un jour ou deux, et elle n’est jamais devenue rétrograde sur cette portion du zodiaque : aucune année ne lui a offert ces passages en boucle qui rendent certains contacts d’étoile plus fréquents.
 
-Vénus ne s’écarte jamais non plus de plus de 47° environ du Soleil, ce qui fixe la saison. De 1930 à 2009, la première date de naissance avec Vénus sur Fomalhaut était le 6 janvier, la dernière le 10 avril ; entre les deux, c’est l’année qui décide, puisque Vénus atteint l’étoile à une date différente chaque fois. Dans le ciel, elles restent loin l’une de l’autre : Vénus passe entre 19,5° et 21,5° environ au nord de l’étoile.
+Vénus reste aussi près du Soleil, jamais à plus de 47° environ, et c’est ce qui fixe la saison. De 1930 à 2009, la première date de naissance avec Vénus sur Fomalhaut était le 6 janvier, la dernière le 10 avril ; entre les deux, c’est l’année qui décide, puisque Vénus atteint l’étoile à une date différente chaque fois. Dans le ciel, elles restent loin l’une de l’autre : Vénus passe entre 19,5° et 21,5° environ au nord de l’étoile.
 
 Mon carnet compte Vénus parmi les placements qui ont tenu environ une fois sur trois : de quoi la lire avec soin, et une étoile avec plus de soin encore ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)). Je ne place pas Fomalhaut, ni aucune autre étoile, dans une lecture.
 

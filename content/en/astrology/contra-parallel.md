@@ -1,10 +1,12 @@
 ---
 title: "Contra-parallel"
 h1: "The contra-parallel aspect in astrology"
-description: "The contra-parallel in astrology: two planets at equal declination, one north and one south of the celestial equator, read like an opposition, and how to find it."
+description: "The contra-parallel in astrology: planets at equal declination, one north and one south of the celestial equator, read like an opposition, and how to find one."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "aspects"
+categories: ["Aspects"]
+tags: ["declination"]
 weight: 22
 glyph: "✦"
 definition: "A contra-parallel is an aspect of declination: two planets at the same distance from the celestial equator, one to the north and one to the south. Also called an antiparallel, it is read like an opposition, two functions held in polarity. It can join planets whose signs aren’t opposite, and an out-of-bounds planet never makes one with the Sun."

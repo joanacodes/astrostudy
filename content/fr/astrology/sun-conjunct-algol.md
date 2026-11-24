@@ -2,7 +2,7 @@
 title: "Soleil conjonction Algol"
 slug: "soleil-conjonction-algol"
 h1: "Soleil conjonction Algol dans un thème natal"
-description: "Soleil conjonction Algol dans un thème natal : un anniversaire vers le 16 ou le 17 mai, sur le degré de l’étoile du Démon. Sa tradition, et aucune prédiction."
+description: "Soleil conjonction Algol dans un thème natal : les anniversaires des 16 et 17 mai, quand un Soleil de fin de Taureau rejoint le degré de l’étoile du Démon. Sans prédiction."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Soleil", "Algol", "étoiles fixes"]
 weight: 2585
 glyph: "☉☌★"
-definition: "Soleil conjonction Algol, c’est le Soleil à moins de 1° du degré d’Algol, l’étoile de la tête de Méduse : un anniversaire vers le 16 ou le 17 mai, fin Taureau. La tradition la comptait parmi les étoiles les plus malheureuses ; c’est une histoire, pas une prédiction. Dans le ciel, le Soleil passe à 22° au sud de l’étoile."
+definition: "Soleil conjonction Algol, c’est une naissance avec le Soleil à moins de 1° du degré d’Algol, l’étoile de la tête de Méduse : un anniversaire vers le 16 ou le 17 mai, fin Taureau. La tradition en faisait l’une des étoiles les plus malheureuses ; c’est une histoire, pas une prédiction. Dans le ciel, le Soleil passe à 22° au sud de l’étoile."
 facts:
   - { k: "Planète", v: "Le Soleil ☉" }
   - { k: "Étoile", v: "Algol, β Persei : 25°11′ du Taureau en 1930, 26°31′ du Taureau en 2026" }
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/algol", "/astrology/sun", "/astrology/conjunctions-to-fixed-stars", "/astrology/sun-in-taurus", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "Que veut dire Soleil conjonction Algol ?"
-    a: "Un anniversaire de la mi-mai, le 16 ou le 17, avec le Soleil en fin de Taureau sur le degré d’Algol. La tradition comptait Algol parmi les étoiles les plus malheureuses, pour la tête de Gorgone qu’elle marque : une histoire d’étoile, pas une prédiction. Le Soleil en Taureau, sa maison et ses aspects, voilà ce qui vous décrit."
+    a: "Un anniversaire de la mi-mai, le 16 ou le 17, avec le Soleil en fin de Taureau sur le degré d’Algol. La tradition rangeait Algol parmi les étoiles les plus malheureuses, pour la tête de Gorgone qu’elle marque : cela relève de la légende de l’étoile et ne prédit rien. Le Soleil en Taureau, sa maison et ses aspects, voilà ce qui vous décrit."
   - q: "Quelle date de naissance donne Soleil conjonction Algol ?"
     a: "Le 16 ou le 17 mai, quelle que soit l’année entre 1930 et 2009. L’orbe plus large de William Lilly, cinq degrés, aurait étendu la vieille étiquette à tous les anniversaires du 12 au 21 mai environ ; la fenêtre d’un degré utilisée ici la ramène à deux jours."
   - q: "Soleil conjonction Algol, est-ce mauvais ?"
-    a: "Non. « Malheureuse » est le mot de la tradition pour une étoile nommée d’après la tête d’un monstre, pas une description des personnes nées à la mi-mai. Le Soleil sur Algol est un Soleil de fin de Taureau sous une vieille histoire, et une histoire n’est pas une prédiction."
+    a: "Non. « Malheureuse » était l’étiquette des vieux livres pour une étoile qui porte une tête de monstre dans son nom ; elle ne décrit personne parmi les gens nés à la mi-mai. Le Soleil sur Algol est un Soleil de fin de Taureau sous une vieille histoire, et une histoire n’est pas une prédiction."
   - q: "Soleil conjonction Algol, est-ce la même chose qu’un Soleil en Taureau ?"
     a: "Tout Soleil sur Algol est un Soleil en Taureau, dans les derniers degrés du signe, mais seuls deux des quelque trente anniversaires du signe portent ce contact. Ce que décrit le Soleil en Taureau, un but tenu avec constance et une fidélité à ce qui compte pour vous, vaut pour tous ; Algol n’ajoute qu’une vieille histoire."
 sources:
@@ -36,11 +36,11 @@ Soleil conjonction Algol, c’est le contact des anniversaires du 16 et du 17 ma
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
-Je lis le [Soleil](/astrology/sun/) comme le but et la vitalité : ce qui vous sert de cap, et l’énergie que vous y mettez. [Algol](/astrology/algol/) arrive avec la plus sombre réputation de l’astrologie des étoiles fixes. Ptolémée l’appelait la Gorgone de Persée, la tête de Méduse que le héros brandit sur les cartes du ciel, et la rattachait, au livre IV de la *Tétrabible*, à la décapitation ; des livres plus tardifs l’ont comptée parmi les étoiles les plus malheureuses du ciel. Tout cela est le langage d’une tradition sur une étoile, et je le transmets comme tel. Il garde la trace de ce que l’on craignait en regardant Persée, pas de ce qui arrive aux personnes nées à la mi-mai.
+Pour moi, le [Soleil](/astrology/sun/) représente le but et la vitalité : ce qui vous sert de cap, et l’énergie que vous y mettez. [Algol](/astrology/algol/) arrive avec la plus sombre réputation de l’astrologie des étoiles fixes. Ptolémée l’appelait la Gorgone de Persée, la tête de Méduse que le héros brandit sur les cartes du ciel, et la rattachait, au livre IV de la *Tétrabible*, à la décapitation ; des astrologues plus tardifs l’ont rangée parmi leurs étoiles les plus malheureuses. Tout cela est le langage d’une tradition sur une étoile, et je le transmets comme tel. Il garde la trace de ce que l’on craignait en regardant Persée, pas de ce qui arrive aux personnes nées à la mi-mai.
 
-Jusqu’où va l’étiquette dépend de l’orbe, et cela se voit en chiffres. [William Lilly](/astrology/william-lilly/) tenait pour affligée toute planète à moins de cinq degrés d’Algol. Appliquée au Soleil, cette règle couvre tous les anniversaires du 12 au 21 mai environ, soit à peu près 1 personne sur 36. La fenêtre d’un degré qu’utilisent ces pages ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)) la ramène aux 16 et 17 mai, les deux mêmes dates en 1930, en 1970 et en 2009, et à environ 1 personne sur 176 née en ces quatre-vingts ans. L’encyclopédie de Nicholas DeVore, en 1947, tirait dans l’autre sens : elle ne comptait une étoile que si une planète s’en trouvait aussi à moins de 1° en latitude, et, selon ce critère, rien sur la route du Soleil ne rencontre jamais Algol, à 22° de là. Même étoile, même Soleil : la taille de la foule dépend d’une convention.
+Jusqu’où va l’étiquette dépend de l’orbe, et cela se voit en chiffres. [William Lilly](/astrology/william-lilly/) jugeait affligée une planète dès qu’elle s’approchait à moins de cinq degrés d’Algol. Appliquée au Soleil, cette règle couvre tous les anniversaires du 12 au 21 mai environ, soit à peu près 1 personne sur 36. La fenêtre d’un degré qu’utilisent ces pages ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)) la ramène aux 16 et 17 mai, chaque année comptée ici, et à environ 1 personne sur 176 née en ces quatre-vingts ans. L’encyclopédie de Nicholas DeVore, en 1947, tirait dans l’autre sens : elle ne comptait une étoile que si une planète s’en trouvait aussi à moins de 1° en latitude, et, selon ce critère, rien sur la route du Soleil ne rencontre jamais Algol, à 22° de là. Même étoile, même Soleil : la taille de la foule dépend d’une convention.
 
-Le signe est un guide plus sûr. Algol se trouvait à 25°11′ du Taureau en 1930 et se trouve à 26°31′ en 2026 : le Soleil posé sur elle est donc toujours un [Soleil en Taureau](/astrology/sun-in-taurus/), dans les derniers degrés du signe, là où le but se construit volontiers lentement et se garde : la continuité, la consolidation, un rythme à vous que personne ne peut presser. La date vous donne cela ; seule l’heure y ajoute la maison, le domaine de la vie où le Soleil fait son travail.
+Le signe est un guide plus sûr. Avec l’étoile à 25°11′ du Taureau pour un anniversaire de 1930 et à 26°31′ pour un de 2026, le Soleil posé sur elle est toujours un [Soleil en Taureau](/astrology/sun-in-taurus/), dans les derniers degrés du signe, là où le but se construit volontiers lentement et se garde : la continuité, la consolidation, un rythme à vous que personne ne peut presser. La date vous donne cela ; seule l’heure y ajoute la maison, le domaine de la vie où le Soleil fait son travail.
 
 Rien de tout cela n’est une prédiction. Un Soleil sur Algol ne dit rien de la durée d’une vie ni de son cours, et aucun thème natal ne peut dire comment ni quand une vie prendra fin ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)).
 

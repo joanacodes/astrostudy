@@ -2,7 +2,7 @@
 title: "Vénus conjonction Spica"
 slug: "venus-conjonction-spica"
 h1: "Vénus conjonction Spica dans un thème natal"
-description: "Vénus conjonction Spica dans un thème natal : Vénus chez elle en Balance sur l’épi, une étoile que la magie médiévale lui donnait. Rythme de huit ans, dates."
+description: "Vénus conjonction Spica dans un thème natal : Vénus chez elle en Balance, au degré d’une étoile que la magie médiévale lui donnait. Rythme de huit ans, dates."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Vénus", "Spica", "étoiles fixes"]
 weight: 2592
 glyph: "♀☌★"
-definition: "Vénus conjonction Spica, c’est Vénus à moins de 1° du degré de Spica, l’épi de la Vierge : toujours une Vénus en Balance, l’un de ses signes, pour une naissance entre le 30 août et le 2 décembre environ. Environ 1 personne sur 218 l’a. La magie médiévale donnait Spica à Vénus et à Mercure : étoile et signe s’accordent."
+definition: "Vénus conjonction Spica, c’est Vénus à moins d’un degré de la longitude de Spica : toujours une Vénus en Balance, l’un de ses signes, pour une naissance entre le 30 août et le 2 décembre environ. Environ 1 personne sur 218 l’a. La magie médiévale donnait Spica à Vénus et à Mercure : étoile et signe s’accordent."
 facts:
   - { k: "Planète", v: "Vénus ♀" }
   - { k: "Étoile", v: "Spica, α Virginis : 22°51′ de la Balance en 1930, 24°12′ de la Balance en 2026" }
@@ -46,4 +46,4 @@ La saison tient à la courte laisse qui attache Vénus au Soleil. De 1930 à 200
 
 Chaque astre rencontre Spica à des conditions différentes, parce que la tradition ne traite pas tous les astres de la même façon en Balance. Le [Soleil conjonction Spica](/astrology/sun-conjunct-spica/) tombe dans la chute du Soleil, [Saturne conjonction Spica](/astrology/saturn-conjunct-spica/) dans l’exaltation de Saturne, [Mars conjonction Spica](/astrology/mars-conjunct-spica/) dans l’exil de Mars, et la [Lune conjonction Spica](/astrology/moon-conjunct-spica/) dans un signe où la Lune n’a aucun statut particulier. Vénus seule y est chez elle.
 
-Rien de tout cela ne fait entrer une étoile dans mes lectures : je ne place ni Spica ni aucune autre étoile dans un thème ([Ma méthode](/how-i-read/)). Ce que je lirais, c’est Vénus en Balance, sa maison et ses aspects ; la règle de la tradition pour les contacts d’étoile est exposée dans [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/).
+Rien de tout cela ne fait entrer une étoile dans mes lectures : je ne place ni Spica ni aucune autre étoile dans un thème ([Ma méthode](/how-i-read/)). Ce que je lirais, c’est Vénus en Balance, sa maison et ses aspects ; la règle de la tradition pour les contacts d’étoile est fixée dans [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/).

@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Mars", "Spica", "étoiles fixes"]
 weight: 2593
 glyph: "♂☌★"
-definition: "Mars conjonction Spica, c’est Mars à moins de 1° du degré de Spica, l’épi de la Vierge, fin Balance. Environ 1 personne sur 155 l’a, le contact le plus fréquent de l’étoile, grâce aux boucles rétrogrades de 1935, 1967 et 1999. Un nom arabe dit Spica désarmée : une étoile paisible pour la planète de l’effort."
+definition: "Mars conjonction Spica, c’est Mars en fin de Balance, à moins de 1° du degré zodiacal de Spica, l’épi de la Vierge. Environ 1 personne sur 155 l’a, le contact le plus fréquent de l’étoile, grâce aux boucles rétrogrades de 1935, 1967 et 1999. Un nom arabe dit Spica désarmée : une étoile paisible pour la planète de l’effort."
 facts:
   - { k: "Planète", v: "Mars ♂" }
   - { k: "Étoile", v: "Spica, α Virginis : 23°50′ de la Balance en 2000, 24°12′ de la Balance en 2026" }
@@ -32,7 +32,7 @@ sources:
   - { title: "R. H. Allen, Star Names : Their Lore and Meaning (1899), via Wikipédia en anglais, « Spica »", url: "https://en.wikipedia.org/wiki/Spica", note: "al-simāk al-aʽzal, le simāk désarmé" }
   - { title: "E. B. Knobel, « Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket », Monthly Notices of the Royal Astronomical Society (1895), via Wikipédia en anglais, « Arcturus »", url: "https://en.wikipedia.org/wiki/Arcturus", note: "as-simāk ar-rāmiḥ, le simāk du lancier" }
 ---
-Mars conjonction Spica est le contact le plus fréquent de cette étoile : environ 1 personne sur 155 née entre 1930 et 2009 a Mars à moins d’un degré de l’épi de blé, à la fin de la Balance. Mars le doit à ses boucles rétrogrades : trois fois en quatre-vingts ans, en 1935, 1967 et 1999, une boucle a ramené la planète sur le degré de l’étoile.
+Mars conjonction Spica est le contact le plus fréquent de cette étoile : parmi les naissances de 1930 à 2009, environ 1 sur 155 a Mars à moins d’un degré de l’épi de blé, à la fin de la Balance. Mars le doit à ses boucles rétrogrades : trois fois en quatre-vingts ans, en 1935, 1967 et 1999, une boucle a ramené la planète sur le degré de l’étoile.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
@@ -40,12 +40,12 @@ Je lis [Mars](/astrology/mars/) comme un effort qui a une direction : ce que vo
 
 La planète qui porte le nom du dieu de la guerre se pose donc ici sur l’étoile désarmée. Cela me plaît davantage que n’importe quel verdict des vieux livres, car Mars, dans ma lecture, n’a jamais été une affaire d’armes. C’est la force qui porte l’effort et l’initiative, et cette force peut pousser très fort les mains vides.
 
-Le signe va dans le même sens. Le degré de l’étoile, 22°51′ de la Balance en 1930 et 24°12′ en 2026, fait de ce contact [Mars en Balance](/astrology/mars-in-libra/), que la tradition tient pour l’[exil](/astrology/detriment/) de Mars, face au Bélier, son propre signe. Cela décrit un effort qui passe par les relations : vous agissez le mieux aux côtés de quelqu’un, vous défendez ce qui est juste, et il vous faut parfois du temps avant de faire passer vos propres souhaits en premier.
+Le signe va dans le même sens. Le degré de Spica n’a pas quitté la fin de la Balance pendant les années comptées ici, ce qui fait de ce contact [Mars en Balance](/astrology/mars-in-libra/), que la tradition tient pour l’[exil](/astrology/detriment/) de Mars, face au Bélier, son propre signe. Cela décrit un effort qui passe par les relations : vous agissez le mieux aux côtés de quelqu’un, vous défendez ce qui est juste, et il vous faut parfois du temps avant de faire passer vos propres souhaits en premier.
 
-Ce sont les boucles qui rendent ce contact fréquent ([Mars rétrograde en Balance](/astrology/mars-retrograde-in-libra/), [planètes rétrogrades natales](/blog/retrograde-planets/)). En 1935, Mars a franchi le degré le 11 février, a marqué l’arrêt le 28 février à moins de deux degrés au-delà, l’a retraversé le 16 mars et l’a franchi une dernière fois le 17 juillet. En 1967, Mars a franchi le degré le 23 janvier, l’a retraversé le 20 avril, cinq jours après l’opposition au Soleil, et l’a quitté le 5 juillet. En 1999, Mars a franchi le degré le 13 janvier et a poursuivi sa route jusqu’au Scorpion, puis a rebroussé chemin et marqué l’arrêt le 4 juin, à un demi-degré environ de l’étoile : les naissances de fin mai à la mi-juin 1999 ont Mars presque immobile sur son degré. Chaque boucle est venue 32 ans après la précédente.
+Ce sont les boucles qui rendent ce contact fréquent ([Mars rétrograde en Balance](/astrology/mars-retrograde-in-libra/), [planètes rétrogrades natales](/blog/retrograde-planets/)). En 1935, Mars a franchi le degré le 11 février, a marqué l’arrêt le 28 février à moins de deux degrés au-delà, l’a retraversé le 16 mars et l’a franchi une dernière fois le 17 juillet. En 1967, Mars a franchi le degré le 23 janvier, l’a retraversé le 20 avril, cinq jours après l’opposition au Soleil, et l’a quitté le 5 juillet. En 1999, Mars a franchi le degré le 13 janvier et a poursuivi sa route jusqu’au Scorpion, puis a rebroussé chemin et marqué l’arrêt le 4 juin, à quelque 0,6° du degré de l’étoile : les naissances de fin mai à la mi-juin 1999 ont Mars presque immobile sur son degré. Chaque boucle est venue 32 ans après la précédente.
 
 Spica se tient si près de la route du Soleil que Mars peut aussi l’approcher dans le ciel : en juillet 1967, un degré et quart seulement séparait la planète de l’étoile, et en juillet 1935 à peine davantage. Ces soirs d’été, la planète rouge et l’étoile bleu-blanc se tenaient côte à côte dans le ciel du sud-ouest, à la nuit tombée.
 
 Un seul autre astre partage cette habitude de Mars de revenir en boucle sur ce degré : [Saturne conjonction Spica](/astrology/saturn-conjunct-spica/), qui l’a franchi trois fois en 1952-1953 et a rebroussé chemin juste avant ce degré en janvier 1982. Le [Soleil conjonction Spica](/astrology/sun-conjunct-spica/) et la [Lune conjonction Spica](/astrology/moon-conjunct-spica/) ne reculent jamais, et [Vénus conjonction Spica](/astrology/venus-conjunct-spica/) ne l’a pas fait sur ce degré entre 1930 et 2009.
 
-Spica, comme toute étoile, reste hors des thèmes que je lis. Mars en Balance, sa maison et ses aspects portent la lecture, et [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/) explique comment les astrologues qui utilisent les étoiles comptent un tel contact.
+Spica, comme toute étoile, reste hors des thèmes que je lis. Mars en Balance, sa maison et ses aspects portent la lecture, et [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/) explique la règle que d’autres astrologues lui appliquent.
