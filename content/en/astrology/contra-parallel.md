@@ -1,7 +1,7 @@
 ---
 title: "Contra-parallel"
 h1: "The contra-parallel aspect in astrology"
-description: "The contra-parallel in astrology: two planets at equal declination, one north and one south of the celestial equator, read like an opposition, and how to spot it."
+description: "The contra-parallel in astrology: two planets at equal declination, one north and one south of the celestial equator, read like an opposition, and how to find it."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "aspects"
