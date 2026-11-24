@@ -5,6 +5,8 @@ description: "Ruler of the 1st in the 2nd house: your chart ruler in the house o
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["1st house", "2nd house", "house rulers"]
 weight: 2290
 glyph: "✦"
 definition: "The ruler of the 1st in the 2nd house means your chart ruler, the planet of your rising sign, sits in the house of money, belongings and self-worth. Who you are gets bound up with what you can count on: your skills, your things, your values. It describes how you build security, never how much money you’ll have."

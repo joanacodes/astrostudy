@@ -14,7 +14,7 @@ facts:
   - { k: "For each sign", v: "Four of the other eleven: Aries is averse to Pisces, Taurus, Virgo and Scorpio" }
   - { k: "Averse to the 1st house", v: "The 2nd, 6th, 8th and 12th" }
   - { k: "The old image", v: "Planets that can’t see each other" }
-  - { k: "Ptolemy’s word", v: "Disjunct signs, in F. E. Robbins’s translation" }
+  - { k: "Ptolemy’s word", v: "Disjunct signs, in the Tetrabiblos" }
   - { k: "By degree", v: "The same spacings as the semi-sextile (30°) and the quincunx (150°)" }
   - { k: "Needs", v: "The birth time, for anything involving the houses" }
 related: ["/astrology/whole-sign-aspects", "/astrology/mutual-reception", "/astrology/quincunx", "/astrology/semi-sextile", "/astrology/6th-house"]
@@ -38,15 +38,15 @@ Aries and Taurus sit side by side, and Aries and Virgo sit 150° apart, yet neit
 
 Aversion is the absence of an aspect between two signs. Every sign has four of them: its two neighbours, 30° away, and the two signs five places off, 150° away. Aries is averse to Pisces and Taurus, and to Virgo and Scorpio; Libra to Virgo and Scorpio, and to Pisces and Taurus. With the seven remaining signs it is configured one way or another ([whole-sign aspects](/astrology/whole-sign-aspects/)).
 
-The image behind the word is sight. A planet was said to see the signs it aspects, and so to be able to support or trouble whatever stands in them; a planet in a sign averse to another's can do neither directly. Signs in aversion also have nothing in common to fall back on: they differ in element, in modality and in gender, which is part of why the old count left them out.
+The image behind the word is sight. A planet was said to see the signs it aspects, and so to be able to support or trouble whatever stands in them; a planet in a sign averse to another's can do neither directly.
 
-Ptolemy has his own word for them. In a passage on marriage in the fourth book of the *Tetrabiblos*, he sets the lights "in harmonious aspect, that is, in trine or in sextile" against the lights "in disjunct signs, or in opposition or in quartile", in F. E. Robbins's translation. Disjunct signs are signs in aversion. Ptolemy drew forecasts about marriages from such rules; I never read a configuration that way ([How I read](/how-i-read/)), but the vocabulary is worth having.
+Ptolemy has his own word for them. In a passage on marriage in the fourth book of the *Tetrabiblos*, he sets the lights "in harmonious aspect, that is, in trine or in sextile" against the lights "in disjunct signs, or in opposition or in quartile". Disjunct signs are signs in aversion. Ptolemy drew forecasts about marriages from such rules; I never read a configuration that way ([How I read](/how-i-read/)), but the vocabulary is worth having.
 
 ## How it works {#how-it-works}
 
-Aversion is a relation between signs, so it holds for whatever stands in them, houses included. Counted house by house, four houses are averse to the 1st, the place of the native: the 2nd and the 12th on either side of it, and the 6th and the 8th, five houses away. The rest of the circle sees the 1st, by sextile, square, trine or opposition.
+Aversion is a relation between signs, so it holds for whatever stands in them, houses included. Counted house by house, four houses are averse to the [1st house](/astrology/1st-house/), the place of the native: the 2nd and the 12th on either side of it, and the 6th and the 8th, five houses away. The rest of the circle sees the 1st, by sextile, square, trine or opposition.
 
-The tradition made use of this. It counted the 6th, the 8th and the 12th among the difficult houses, and gave the 6th's aversion to the Ascendant, the house of life, as one reason for that house's old link with sickness: from 150° away, it can't "see" the 1st. That is tradition speaking. I never read the [6th house](/astrology/6th-house/) for illness ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)); in an adult's life, I read it as the work and the daily care a life runs on. And aversion alone never made a house hard: the 2nd is just as averse to the 1st, and it wasn't on the list.
+The tradition made use of this. It counted the 6th, the 8th and the 12th among the difficult houses, and gave the 6th's aversion to the Ascendant, the house of life, as one reason for that house's old link with sickness: from 150° away, it can't "see" the 1st. That is tradition speaking. I never read the [6th house](/astrology/6th-house/) for illness ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)); in an adult's life, I read it as the work and the daily care a life runs on. Aversion on its own didn't make a house hard, though: the 2nd is just as averse to the 1st, and it isn't on that list.
 
 Between planets, aversion matters most where tradition wants two of them to cooperate. Two planets in each other's signs were reckoned to help each other far better when their signs saw each other ([mutual reception](/astrology/mutual-reception/)); in aversion, the exchange has no channel.
 
@@ -56,11 +56,11 @@ By degree, the same spacings carry aspects of their own in modern practice: the 
 
 I count aspects by degree, so two planets 150° apart do relate in my reading, through the quincunx, and I read it as the minor aspect of adjustment it is. Aversion adds an older observation underneath: the two signs share no element, modality or gender, so neither manner offers the other a way in. When two planets in a chart are averse, I look for what connects them instead, a third planet that aspects both, or a house ruler that ties their parts of life together.
 
-The houses need the time. Whether a planet stands in the 12th or the 1st, the 6th or the 7th, can turn on minutes, and with it whether it sees the Ascendant ([what changes without a birth time](/blog/unknown-birth-time/)). In Placidus, the system I use, a house doesn't always match one sign, so the count by house and the count by sign can disagree for the same planet; I say which one I mean.
+The houses need the time. Whether a planet stands in the 12th or the 1st, the 6th or the 7th, can turn on minutes, and with it whether it sees the Ascendant ([what changes without a birth time](/blog/unknown-birth-time/)). In [Placidus](/astrology/placidus/), the system I use, a house doesn't always match one sign, so the count by house and the count by sign can disagree for the same planet; I say which one I mean.
 
 ## Common myths {#myths}
 
 - **“Aversion is a hard aspect.”** It's the absence of an aspect. Nothing between the two signs clashes; there's simply no line between them.
 - **“Planets in aversion work against each other.”** They work apart. In the old count, tension belongs to the square and the opposition; aversion is distance.
-- **“A planet in the 12th is cut off from you.”** It doesn't see the Ascendant in the old geometry. Its function is still yours; it just doesn't work through the way you meet the world.
-- **“Aversion is bad luck.”** Tradition read some averse houses as weak places, not as misfortune, and the 2nd shows that aversion alone made nothing weak.
+- **“A planet in the [12th house](/astrology/12th-house/) is cut off from you.”** It doesn't see the Ascendant in the old geometry. Its function is still yours; it just doesn't work through the way you meet the world.
+- **“Neighbouring signs get along because they're close.”** Neighbours share no element, modality or gender, and the old count gives them no aspect at all.
