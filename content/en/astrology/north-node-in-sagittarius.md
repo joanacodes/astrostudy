@@ -5,6 +5,8 @@ description: "North Node in Sagittarius in a birth chart: from a hundred facts t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "Sagittarius"]
 weight: 153
 glyph: "☊♐"
 definition: "North Node in Sagittarius means the North Node, where the Moon crosses the Sun’s path heading north, was in mutable fire at your birth, opposite a South Node in Gemini. I read it as growth towards conviction: trusting your own judgement, finding what you believe and following it, after a long habit of gathering one more fact."

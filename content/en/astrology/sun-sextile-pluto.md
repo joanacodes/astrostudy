@@ -5,6 +5,8 @@ description: "Sun sextile Pluto in a birth chart: a quiet strength that lets you
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pluto", "sextile"]
 weight: 34
 glyph: "☉⚹♇"
 definition: "Sun sextile Pluto means Pluto stood about 60° from your Sun when you were born, a sixth of the zodiac away. In a chart it gives your sense of purpose access to depth and renewal: when something ends, you can begin again. I read it as a quiet strength that works best once you choose to use it."

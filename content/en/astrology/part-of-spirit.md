@@ -5,6 +5,8 @@ description: "The Part of Spirit in astrology: the Sun’s lot, its day and nigh
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "points"
+categories: ["Planets and points"]
+tags: ["Arabic parts"]
 weight: 10
 glyph: "✦"
 definition: "The Part of Spirit is a calculated point, the Sun’s lot and the mirror of the Part of Fortune. By day it is the Ascendant plus the Sun minus the Moon; by night the count is reversed. Tradition reads it for the mind and for what you set out to do: the initiative you take, rather than what befalls you."

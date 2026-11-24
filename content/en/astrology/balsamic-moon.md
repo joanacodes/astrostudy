@@ -5,6 +5,8 @@ description: "The balsamic moon in astrology: the last crescent before dawn and 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunar phases"]
 weight: 15
 glyph: "☾"
 definition: "The balsamic moon is the last of the eight phases astrologers take from Dane Rudhyar: the Moon less than 45° behind the Sun, in the days before the new moon. In the sky it is the thinnest waning crescent, low in the east before sunrise, then not seen at all. I read it as an ending that clears the ground."

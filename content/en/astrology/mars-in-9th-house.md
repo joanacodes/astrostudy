@@ -5,6 +5,8 @@ description: "Mars in the 9th house in a birth chart: drive for beliefs, study a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "9th house", "houses"]
 weight: 57
 glyph: "♂"
 definition: "Mars in the 9th house turns your drive towards the far horizon: belief, higher study, long journeys and the search for meaning. It describes energy for what you believe and want to understand: you defend principles, learn with enthusiasm and go after adventure. Placing it takes an exact birth time."

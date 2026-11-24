@@ -6,6 +6,8 @@ description: "Mercure rétrograde en Lion : Mercure qui recule dans le signe du
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "Lion"]
 weight: 5
 glyph: "☿℞♌"
 definition: "Mercure rétrograde en Lion, c’est le nom que les astrologues donnent aux 23 à 24 jours, entre juillet et septembre, où Mercure semble, depuis la Terre, reculer dans le Lion. J’y lis la voix qui retourne en répétition : le discours, l’œuvre et l’histoire que vous racontez sur vous, révisés dans la maison qu’occupe le Lion dans votre thème."

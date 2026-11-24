@@ -6,6 +6,8 @@ description: "Lune opposition Pluton dans un thème natal : votre besoin de sé
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Pluton", "opposition"]
 weight: 92
 glyph: "☽☍♇"
 definition: "Lune opposition Pluton signifie que Pluton faisait face à votre Lune à la naissance, de l’autre côté du zodiaque, à environ 180°. Cette opposition place votre besoin de sécurité face à l’élan de transformation, deux bouts d’un axe souvent rencontrés dans des relations intenses. J’y lis l’apprentissage du pouvoir partagé, pas une lutte écrite d’avance."

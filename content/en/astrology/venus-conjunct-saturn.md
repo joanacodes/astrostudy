@@ -5,6 +5,8 @@ description: "Venus conjunct Saturn in a birth chart: what you love joined to wh
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Saturn", "conjunction"]
 weight: 165
 glyph: "♀☌♄"
 definition: "Venus conjunct Saturn means Venus and Saturn shared a narrow stretch of the zodiac at your birth, mostly in one sign. In a chart, what you value takes on the weight of what you build to last: affection taken seriously, a taste for what endures. I read it as love on a timetable, never as love refused."

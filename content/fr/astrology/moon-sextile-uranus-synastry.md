@@ -6,6 +6,8 @@ description: "Lune sextile Uranus en synastrie : de petits changements offerts 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Uranus", "sextile", "synastrie"]
 weight: 87
 glyph: "☽⚹♅"
 definition: "Lune sextile Uranus en synastrie : Uranus d’une personne à environ 60° de la Lune de l’autre, à 4,8° près. Le goût du nouveau de l’une rejoint les habitudes de l’autre par petites doses bienvenues. J’y lis une invitation à expérimenter ensemble, assez légère pour être ignorée, et qui vaut d’être saisie."

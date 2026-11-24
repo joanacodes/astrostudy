@@ -5,6 +5,8 @@ description: "Sun conjunct Venus in synastry: one person’s taste lands on who 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Venus", "conjunction", "synastry"]
 weight: 11
 glyph: "☉☌♀"
 definition: "Sun conjunct Venus in synastry means one person’s Venus sits within 8° of the other’s Sun, usually with birthdays about a month apart. What one person values and enjoys lands on who the other is. I read it as appreciation of someone as they are, healthiest when it can also say no."

@@ -5,6 +5,8 @@ description: "Their Chiron in your 12th house in synastry: an old hurt and its q
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "12th house", "synastry", "house overlays"]
 weight: 132
 glyph: "⚷"
 definition: "Their Chiron in your 12th house tucks the other person’s Chiron into the last house of your chart: solitude, rest and quiet care. In synastry their old hurt, and the compassion it taught them, meets your inner life: they keep you company without questions, and your silences can touch them. It is never a symptom."

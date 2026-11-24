@@ -5,6 +5,8 @@ description: "Pluto conjunct Chiron in a birth chart: depth and renewal gathered
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Chiron", "conjunction"]
 weight: 350
 glyph: "♇☌⚷"
 definition: "Pluto conjunct Chiron is a meeting of the two within a few degrees, which my count finds twice: from 1940 to 1942, and from late 1999 to late 2000. In a chart it joins the urge to transform at the root to the place that stays tender, so depth, honesty and renewal gather where it hurts."

@@ -5,6 +5,8 @@ description: "Mercury sextile Neptune in a birth chart: an imagination your word
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Neptune", "sextile"]
 weight: 131
 glyph: "☿⚹♆"
 definition: "Mercury sextile Neptune is a 60° link between the two at birth, usually two signs apart: fire with air, or earth with water. In a chart it gives your thinking a door into imagination that opens when you reach for it. I read it as an opportunity, not a gift that works by itself."

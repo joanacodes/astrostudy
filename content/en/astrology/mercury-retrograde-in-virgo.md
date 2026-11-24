@@ -5,6 +5,8 @@ description: "Mercury retrograde in Virgo: Mercury backing through its own sign 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "Virgo"]
 weight: 6
 glyph: "☿℞♍"
 definition: "Mercury retrograde in Virgo happens when Mercury, seen from Earth, reverses through the one sign it both rules and is exalted in, for 22 to 24 days between August and early October. I read it as Mercury’s own craft turning back on itself: checking, editing and correcting, in the house Virgo occupies in your chart."

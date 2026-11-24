@@ -6,6 +6,8 @@ description: "Uranus en maison 3 dans un thème natal : un esprit vif et origin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "maison 3", "maisons"]
 weight: 87
 glyph: "♅"
 definition: "Uranus en maison 3 place la planète du changement dans la maison de la pensée de tous les jours, de la parole, de l’apprentissage, de la fratrie et du voisinage, une maison cadente dont le signe naturel est les Gémeaux. J’y lis un esprit vif et original qui apprend en expérimentant. Sa maison demande votre heure de naissance."

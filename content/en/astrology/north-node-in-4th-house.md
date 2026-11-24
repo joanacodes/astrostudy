@@ -5,6 +5,8 @@ description: "North Node in the 4th house in a birth chart: putting down roots, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "4th house", "houses"]
 weight: 148
 glyph: "☊"
 definition: "North Node in the 4th house means the North Node, where the Moon crosses the Sun’s path heading north, lay in the house that begins at the Imum Coeli when you were born, with the South Node in the 10th. I read it as growth towards roots: a home, an inner life and foundations of your own."

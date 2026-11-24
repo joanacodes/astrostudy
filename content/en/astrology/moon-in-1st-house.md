@@ -5,6 +5,8 @@ description: "Moon in the 1st house in a birth chart: feelings that show on your
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "1st house", "houses"]
 weight: 13
 glyph: "☽"
 definition: "Moon in the 1st house means the Moon sat in the house of the self, the body and first reactions, just below the rising degree when you were born. I read it as feelings that show before you speak and a manner that responds to every room you enter. It needs the birth time."

@@ -5,6 +5,8 @@ description: "Mercury conjunct Pluto in a birth chart: a mind that goes to the r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Pluto", "conjunction"]
 weight: 135
 glyph: "☿☌♇"
 definition: "Mercury conjunct Pluto is Mercury and Pluto side by side at birth, within a few degrees, so that thinking and transformation work as one. In a chart it gives a mind that goes to the root of things, and words that carry weight. I read it as depth of thought, never as a need to control a conversation."

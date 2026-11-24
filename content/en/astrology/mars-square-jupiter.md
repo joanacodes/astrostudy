@@ -5,6 +5,8 @@ description: "Mars square Jupiter in a birth chart: effort and meaning at right 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Jupiter", "square"]
 weight: 202
 glyph: "♂□♃"
 definition: "Mars square Jupiter means Mars and Jupiter were about 90° apart at your birth, usually in signs of the same modality. In a chart, the urge to act and the urge to understand keep checking each other’s size: big plans, quick moves, then adjustment. I read it as an apprenticeship in proportion, never as recklessness."

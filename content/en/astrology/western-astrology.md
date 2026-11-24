@@ -5,6 +5,8 @@ description: "Western astrology: where the tradition comes from, what sets it ap
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: []
 weight: 2
 glyph: "✦"
 definition: "Western astrology is the tradition that runs from Babylonian sky omens through the Hellenistic world, the Persian and Arabic astrologers and medieval Europe to today’s practice. It reads a birth chart through the twelve signs of the tropical zodiac, twelve houses, the planets and their aspects. Mine is modern tropical astrology with traditional techniques."

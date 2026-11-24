@@ -6,6 +6,8 @@ description: "Soleil en Cancer, Lune en Verseau : eau et air à cinq signes d�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Cancer", "Lune", "Verseau"]
 weight: 47
 glyph: "☉♋☽♒"
 definition: "Soleil en Cancer, Lune en Verseau place la Lune dans l’air fixe, cinq signes derrière le Soleil, juste après que la Lune est devenue pleine. J’y lis une appartenance aux portes ouvertes : un moi enraciné dans la famille et la mémoire, et des besoins qui s’apaisent entre égaux, avec de la place pour penser."

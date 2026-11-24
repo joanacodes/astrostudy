@@ -5,6 +5,8 @@ description: "Mars opposite Lilith in synastry: one person’s drive faces the o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Lilith", "opposition", "synastry"]
 weight: 245
 glyph: "♂☍⚸"
 definition: "Mars opposite Lilith in synastry means one person’s Mars and the other’s mean Black Moon Lilith are 180° apart, within 6°. Each can look like the wild one to the other, one by pushing openly, the other by refusing. To me it’s a magnetism between two kinds of strength, kind as long as neither sets out to tame the other."

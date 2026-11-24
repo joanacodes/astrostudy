@@ -6,6 +6,8 @@ description: "Le yod, ou doigt de Dieu, en astrologie : un sextile pointé vers
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["configurations"]
 weight: 5
 glyph: "⚻"
 definition: "Un yod est un triangle étroit de trois planètes : deux en sextile à sa base, toutes deux en quinconce avec une troisième à sa pointe. Dit aussi doigt de Dieu, il décrit une fonction qui s’ajuste à deux autres avec lesquelles elle ne partage rien : un recalibrage, pas un destin. Mon décompte en trouve un chez 1 personne sur 8."

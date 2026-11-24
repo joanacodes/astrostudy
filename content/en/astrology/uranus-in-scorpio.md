@@ -5,6 +5,8 @@ description: "Uranus in Scorpio in a birth chart: depth, trust and taboos questi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Scorpio"]
 weight: 92
 glyph: "♅♏"
 definition: "Uranus in Scorpio is the planet of change in a fixed water sign ruled by Pluto and, traditionally, Mars, the sign of depth and trust. Those born from November 1974 to November 1981 have it in common. I read it as a generation that questions what is kept hidden; your house shows where that question is yours."

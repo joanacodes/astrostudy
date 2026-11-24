@@ -5,6 +5,8 @@ description: "Venus square Lilith in synastry: one person’s wish for things to
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Lilith", "square", "synastry"]
 weight: 203
 glyph: "♀□⚸"
 definition: "Venus square Lilith in synastry means one person’s Venus is about 90° from the other’s mean Black Moon Lilith, within 5.1°. What one finds pleasing keeps asking the other’s untamed side to soften, and meets a refusal. I read it as friction that teaches two people to hear a no, never as a mismatch."

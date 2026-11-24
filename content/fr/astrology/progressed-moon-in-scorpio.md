@@ -6,6 +6,8 @@ description: "La Lune progressée en Scorpion : deux ans et quatre mois environ
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "Lune progressée", "progressions", "Scorpion"]
 weight: 8
 glyph: "☽♏"
 definition: "La Lune progressée en Scorpion désigne les deux ans à deux ans et demi pendant lesquels la Lune de votre thème progressé traverse le Scorpion, chute de la Lune selon la tradition. J’y lis un chapitre de profondeur : des émotions gardées et vécues plus pleinement, un besoin de confiance et de vérité, un changement qui part du dedans."

@@ -5,6 +5,8 @@ description: "Mars retrograde in Aries, Mars’s own sign: the single loop of 20
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mars", "retrograde", "Mars retrograde", "Aries"]
 weight: 25
 glyph: "♂℞♈"
 definition: "Mars retrograde in Aries is Mars, seen from Earth, backing through the sign it rules: in my dates, just once between 2000 and 2040, from 9 September to 14 November 2020. I read it as drive called home for a review, the battles chosen and the starts rushed, in the house Aries occupies in your chart."

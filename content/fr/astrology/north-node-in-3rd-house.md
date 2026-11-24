@@ -6,6 +6,8 @@ description: "Nœud Nord en maison 3 dans un thème natal : grandir par ce qui 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "maison 3", "maisons"]
 weight: 147
 glyph: "☊"
 definition: "Nœud Nord en maison 3 signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil tombait dans la maison du monde proche, le Nœud Sud en maison 9. J’y lis une croissance par ce qui est près : les liens de proximité, l’échange ordinaire, ce qu’on apprend au niveau de la rue."

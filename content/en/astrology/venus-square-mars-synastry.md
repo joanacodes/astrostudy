@@ -5,6 +5,8 @@ description: "Venus square Mars in synastry: one person’s sense of what’s wo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Mars", "square", "synastry"]
 weight: 168
 glyph: "♀□♂"
 definition: "Venus square Mars in synastry means one person’s Venus is about 90° from the other’s Mars, within 5.1°. One person’s preferences and sense of fairness keep meeting the other’s urge to act on their own terms and timing. I read it as lively friction over how and when, in any adult pair, never as a mismatch."

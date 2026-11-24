@@ -5,6 +5,8 @@ description: "The Chiron return: Chiron back at its birth degree around 50, once
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "cycles"
+categories: ["Transits and cycles"]
+tags: ["Chiron", "planetary returns"]
 weight: 45
 glyph: "⚷☌⚷"
 definition: "The Chiron return is the transit of Chiron back over the degree it held when you were born, around the age of 50 and usually once in a life. It closes Chiron’s long cycle and reviews how you have learned to live and work around the hurt you keep circling. Healing can come of it; it is never promised."

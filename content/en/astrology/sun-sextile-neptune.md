@@ -5,6 +5,8 @@ description: "Sun sextile Neptune in a birth chart: imagination and compassion o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Neptune", "sextile"]
 weight: 29
 glyph: "☉⚹♆"
 definition: "Sun sextile Neptune means your Sun and Neptune were about 60° apart at birth, usually two signs. In a chart it opens a door between your sense of purpose and your imagination: inspiration and compassion are there to use, once you reach for them. I read it as a quiet gift that waits to be taken up."

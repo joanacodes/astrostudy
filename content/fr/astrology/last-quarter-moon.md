@@ -6,6 +6,8 @@ description: "Le dernier quartier en astrologie : la demi-lune du ciel du matin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "phases lunaires"]
 weight: 14
 glyph: "◑"
 definition: "Le dernier quartier est le moment, environ une semaine après la pleine lune, où la Lune se trouve à 90° derrière le Soleil, l’autre moitié de son disque éclairée. Elle se lève vers minuit et se voit le matin. Dans un thème natal, c’est le carré décroissant du Soleil et de la Lune : une friction tournée vers l’intérieur."

@@ -5,6 +5,8 @@ description: "Mars trine North Node in a birth chart: effort that flows towards 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "North Node", "trine"]
 weight: 238
 glyph: "♂△☊"
 definition: "Mars trine North Node: your birth chart has Mars some 120° from the North Node, which leaves it about 60° from the South Node. Effort runs easily in the direction you’re growing in, with a friendly line to familiar skills. I read it as a gift for growing by doing that still asks for practice."

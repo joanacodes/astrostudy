@@ -5,6 +5,8 @@ description: "Their Chiron in your 3rd house in synastry: their old hurt and its
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "3rd house", "synastry", "house overlays"]
 weight: 123
 glyph: "⚷"
 definition: "With their Chiron in your 3rd house, the other person’s Chiron sits in the house of your everyday mind: talk, messages, learning, siblings and neighbours. In synastry their hard-won patience enters your daily conversations: they often explain and listen unusually well, while your offhand words can brush a sore spot of theirs."

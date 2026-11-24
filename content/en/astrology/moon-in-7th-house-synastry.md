@@ -5,6 +5,8 @@ description: "Their Moon in your 7th house in synastry: their feelings meeting y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "7th house", "synastry", "house overlays"]
 weight: 19
 glyph: "☽"
 definition: "Their Moon in your 7th house is the overlay in which someone else’s Moon falls among your partners and one-to-one bonds. In synastry their needs meet you face to face: you tend to respond to them as a partner would, and they feel emotionally safe one to one with you, whatever the bond."

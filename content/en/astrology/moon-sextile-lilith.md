@@ -5,6 +5,8 @@ description: "Moon sextile Lilith in a birth chart: your untamed side, offered t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Lilith", "sextile"]
 weight: 99
 glyph: "☽⚹⚸"
 definition: "Moon sextile Lilith means the Moon was about 60° from mean Black Moon Lilith at your birth, usually two signs away. In a chart it lets your need for comfort and your instinct for autonomy cooperate: being more fully yourself can steady you, once you allow it. It offers; you decide."

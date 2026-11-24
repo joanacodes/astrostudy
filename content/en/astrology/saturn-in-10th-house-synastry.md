@@ -5,6 +5,8 @@ description: "Their Saturn in your 10th house in synastry: authority, standards 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "10th house", "synastry", "house overlays"]
 weight: 82
 glyph: "♄"
 definition: "Their Saturn in your 10th house is the other person’s Saturn presiding over your career, reputation and public responsibilities, at the top of your chart. In synastry it often feels like mentoring or like supervision: your ambitions taken seriously and held to a high standard, while they feel answerable for how you do in the world."

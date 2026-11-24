@@ -5,6 +5,8 @@ description: "Uranus in the 4th house in a birth chart: home, roots and family a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "4th house", "houses"]
 weight: 88
 glyph: "♅"
 definition: "Uranus in the 4th house puts the planet of change at the bottom of the chart, in the angular house of home, roots and family that begins at the Imum Coeli. I read it as a private life that needs room to change, and roots you may rethink before they can hold you. It needs an exact birth time."

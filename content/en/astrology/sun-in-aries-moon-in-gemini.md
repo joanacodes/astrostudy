@@ -5,6 +5,8 @@ description: "Sun in Aries, Moon in Gemini: fire and air, a sextile by sign, bor
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries", "Moon", "Gemini"]
 weight: 3
 glyph: "☉♈☽♊"
 definition: "With the Sun in Aries and the Moon in Gemini, you were born two and a half to about seven days after a new moon, the Moon two signs ahead of the Sun. I read the pair as action and words feeding each other: direction found by moving, feelings found by saying them, often in one breath."

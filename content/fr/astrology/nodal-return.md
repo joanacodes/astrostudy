@@ -6,6 +6,8 @@ description: "Le retour nodal en astrologie : quand les nœuds lunaires revienn
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["nœuds lunaires"]
 weight: 11
 glyph: "✦"
 definition: "Le retour nodal est le moment où les nœuds de la Lune, qui reculent dans le zodiaque, reviennent aux degrés qu’ils occupaient à votre naissance. Il revient environ tous les 18,6 ans, vers 18 ans et demi, 37, 56 et 74 ans. Les astrologues y lisent une étape où la question de direction du Nœud Nord se repose."

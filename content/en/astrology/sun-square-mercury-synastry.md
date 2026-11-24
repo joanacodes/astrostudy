@@ -5,6 +5,8 @@ description: "Sun square Mercury in synastry: one person’s remarks meeting the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Mercury", "square", "synastry"]
 weight: 8
 glyph: "☉□☿"
 definition: "Sun square Mercury in synastry means one person’s Mercury is about 90° from the other’s Sun, within 6.8°, a contact Mercury’s closeness to the Sun rules out in one chart. One person’s thinking meets the other’s identity at an angle. I read it as friction that sharpens both, once ideas and selves are told apart."

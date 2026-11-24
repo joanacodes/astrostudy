@@ -6,6 +6,8 @@ description: "Soleil trigone Pluton dans un thème natal : une profondeur qui s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Pluton", "trigone"]
 weight: 36
 glyph: "☉△♇"
 definition: "Soleil trigone Pluton signifie qu’à votre naissance, un tiers de zodiaque séparait le Soleil et Pluton, dans des signes d’un même élément. Dans un thème, votre sens de vous-même et votre capacité de renouveau travaillent aisément ensemble : vous vous relevez, et vous allez au fond sans forcer. J’y lis une force calme, qui se montre surtout sous la pression."

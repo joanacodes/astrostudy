@@ -6,6 +6,8 @@ description: "Ascendant Gémeaux : une question d’ouverture, Mercure maître 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "Gémeaux"]
 weight: 3
 glyph: "↑♊"
 definition: "Un ascendant Gémeaux signifie que les Gémeaux, signe d’air mutable gouverné par Mercure, se trouvaient sur l’horizon est à votre naissance : votre ascendant est en Gémeaux. J’y lis une façon curieuse et souple d’aborder le monde, qui commence par une question. À Londres, ce signe se lève en un peu moins de deux heures, près de la moyenne."

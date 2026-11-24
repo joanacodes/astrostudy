@@ -6,6 +6,8 @@ description: "Mercure opposition Chiron dans un thème natal : quand les mots d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Chiron", "opposition"]
 weight: 144
 glyph: "☿☍⚷"
 definition: "Mercure opposition Chiron met votre pensée et votre parole à l’autre bout du thème, face à Chiron, le point sensible. Dans un thème, cette sensibilité est souvent touchée par les mots des autres, et vous apprenez à répondre d’un terrain plus stable. C’est une polarité, et sa leçon est une compréhension attentive dans les deux sens."

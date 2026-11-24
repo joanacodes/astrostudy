@@ -6,6 +6,8 @@ description: "Uranus en Capricorne dans un thème natal : des structures rebât
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Capricorne"]
 weight: 94
 glyph: "♅♑"
 definition: "Uranus en Capricorne, c’est la planète du changement dans un signe de terre cardinal gouverné par Saturne, celui de la structure et de l’effort au long cours. Ses années vont de février 1988 à janvier 1996. J’y lis une génération qui rebâtit les institutions pour qu’elles durent ; la maison montre quelle structure de votre vie est en chantier."

@@ -5,6 +5,8 @@ description: "Sun in Libra, Moon in Pisces: Venus, ruler of Libra and exalted in
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra", "Moon", "Pisces"]
 weight: 84
 glyph: "☉♎☽♓"
 definition: "Sun in Libra, Moon in Pisces links two signs five apart through Venus, which rules Libra and is exalted in Pisces, in the days before a full moon. I find in it a self that seeks proportion and fair judgement, with needs that are porous, imaginative and quick to compassion."

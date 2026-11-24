@@ -6,6 +6,8 @@ description: "Jupiter en Balance dans un thème natal : grandir en pesant, par 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Balance"]
 weight: 67
 glyph: "♃♎"
 definition: "Jupiter en Balance, c’est la planète de la croissance et du sens dans le signe d’air cardinal gouverné par Vénus. Toute une année de naissance, à peu près, partage ce placement. J’y lis une croissance par le jugement et la relation : des convictions formées dans le dialogue, des principes centrés sur l’équité, une compréhension qui vient de l’autre."

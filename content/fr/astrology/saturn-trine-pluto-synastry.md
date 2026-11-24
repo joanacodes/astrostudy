@@ -6,6 +6,8 @@ description: "Saturne trigone Pluton en synastrie : l’endurance de l’une et
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Pluton", "trigone", "synastrie"]
 weight: 299
 glyph: "♄△♇"
 definition: "Saturne trigone Pluton en synastrie signifie que Saturne, chez une personne, se trouve à environ 120° de Pluton chez l’autre, à 4,25° près, en général dans le même élément. L’endurance de l’une donne aux changements profonds de l’autre une forme qui dure, et cette profondeur garde les structures vivantes. J’y lis une résilience partagée entre deux époques."

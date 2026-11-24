@@ -5,6 +5,8 @@ description: "Chiron transiting the 3rd house: about three years in which an old
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Chiron", "3rd house", "transits"]
 weight: 63
 glyph: "⚷"
 definition: "Chiron transiting the 3rd house is Chiron’s stay, about three years in the middle at London’s latitude, in your house of words, learning, siblings and neighbours. It touches old hurts about being heard or understood, such as a label from school or a comparison at home, and can turn them into a gift for explaining."

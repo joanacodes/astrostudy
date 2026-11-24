@@ -6,6 +6,8 @@ description: "Uranus opposition Neptune dans un thème natal : pourquoi aucune 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Neptune", "opposition"]
 weight: 309
 glyph: "♅☍♆"
 definition: "Uranus opposition Neptune est un angle de 180° entre les deux planètes. Aucune personne née entre 1930 et 2009 ne l’a : sur ces quatre-vingts ans, les deux planètes ne s’en sont jamais approchées à moins de 6°. Cette opposition met l’envie de réformer face à l’attrait d’un idéal, une polarité qui se rencontre aujourd’hui en synastrie et en transit."

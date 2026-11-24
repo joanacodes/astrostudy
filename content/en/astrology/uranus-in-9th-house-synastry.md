@@ -5,6 +5,8 @@ description: "Their Uranus in your 9th house in synastry: sudden turns in your b
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "9th house", "synastry", "house overlays"]
 weight: 93
 glyph: "♅"
 definition: "Their Uranus in your 9th house throws open the windows of your worldview: another person’s Uranus reaches your beliefs, studies, long journeys and big questions. In synastry they may change your mind, send you somewhere new or towards an unexpected subject, while they feel free to think aloud with you. It can also unsettle convictions."

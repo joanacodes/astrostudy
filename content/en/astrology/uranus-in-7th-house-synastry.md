@@ -5,6 +5,8 @@ description: "Their Uranus in your 7th house in synastry: freedom and surprise i
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "7th house", "synastry", "house overlays"]
 weight: 91
 glyph: "♅"
 definition: "Their Uranus in your 7th house seats another person’s Uranus across the table from you, in the house of partners and agreements. In synastry partnership with them tends to feel exciting and unpredictable at once: unlike any other, roomy, sometimes unsettling, while they feel freer as your partner than in most bonds. No break-up is written in it."

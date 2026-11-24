@@ -6,6 +6,8 @@ description: "Lune en maison 5 dans un thème natal : des émotions apaisées p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "maison 5", "maisons"]
 weight: 17
 glyph: "☽"
 definition: "La Lune en maison 5 signifie que la Lune se trouvait dans la maison du plaisir, de la création et des amours, que la tradition appelait la Fortune favorable. J’y lis des émotions qui se posent par le jeu et prennent forme dans ce que vous créez. Elle ne prédit rien sur les enfants ; il faut l’heure de naissance."

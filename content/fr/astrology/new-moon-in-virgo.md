@@ -6,6 +6,8 @@ description: "La nouvelle lune en Vierge : ce qu’apporte la rencontre du Sole
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "nouvelle lune", "Vierge"]
 weight: 41
 glyph: "●♍"
 definition: "La nouvelle lune en Vierge est celle qui survient pendant que le Soleil traverse la Vierge, une fois par an, entre fin août et fin septembre. Elle ouvre un mois lunaire à la manière de la Vierge : trier, réparer, apprendre un savoir-faire comme il faut. Dans un thème natal, elle ne compte qu’à 1° environ d’une planète ou d’un angle."

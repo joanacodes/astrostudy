@@ -5,6 +5,8 @@ description: "Jupiter trine Lilith in a birth chart: beliefs that make room for 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Lilith", "trine"]
 weight: 268
 glyph: "♃△⚸"
 definition: "Jupiter trine Lilith means Jupiter and Black Moon Lilith about 120° apart, usually in signs of one element. In a chart, your sense of meaning makes easy room for the part you learned to hide, and often for other people’s. I read it as a gift of permission, best used in your life as well as in your beliefs."

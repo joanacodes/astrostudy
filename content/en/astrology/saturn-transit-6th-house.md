@@ -5,6 +5,8 @@ description: "Saturn transiting the 6th house: about three years of rebuilding r
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "6th house", "transits"]
 weight: 18
 glyph: "♄"
 definition: "Saturn transiting the 6th house brings Saturn, for a little under three years as a rule, into your house of daily work, routine and care. Whatever your chart says about daily life, Saturn tightens and repairs: methods overhauled, limits set, routines made to last. It says nothing about illness."

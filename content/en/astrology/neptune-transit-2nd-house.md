@@ -5,6 +5,8 @@ description: "Neptune transiting the 2nd house: nearly fifteen years when values
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "2nd house", "transits"]
 weight: 38
 glyph: "♆"
 definition: "Neptune transiting the 2nd house brings the planet of ideals into your house of money, possessions and self-worth, for close to fifteen years as a rule. It softens what your chart already says about security: values drifting towards meaning, generosity that grows, numbers that blur unless you watch them. Your bank balance is not what it forecasts."

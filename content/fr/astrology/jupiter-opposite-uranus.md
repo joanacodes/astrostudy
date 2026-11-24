@@ -6,6 +6,8 @@ description: "Jupiter opposition Uranus dans un thème natal : convictions et c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Uranus", "opposition"]
 weight: 249
 glyph: "♃☍♅"
 definition: "Jupiter opposition Uranus : à votre naissance, Jupiter et Uranus se faisaient face, à environ 180°, ce qui arrive tous les quatorze ans pour quelques mois. Élargir votre monde par ce que vous croyez fait face à l’envie de le changer de fond en comble. Avec le temps, cet axe apprend quand se fier à un cadre et quand le briser."

@@ -5,6 +5,8 @@ description: "Venus trine Lilith in synastry: one person’s taste takes the oth
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Lilith", "trine", "synastry"]
 weight: 204
 glyph: "♀△⚸"
 definition: "In synastry, Venus trine Lilith joins one person’s Venus to the other’s mean Black Moon Lilith at about 120°, within 5.1°, usually in one element. The first person’s taste takes the second’s untamed side as a matter of course: no case to make. I read it as an easy welcome that needs looking after."

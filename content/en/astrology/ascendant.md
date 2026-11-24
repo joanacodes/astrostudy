@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Ascendant", "rising sign"]
 family: "angles"
+categories: ["Planets and points"]
+tags: ["Ascendant", "rising sign", "angles"]
 weight: 1
 glyph: "AC"
 definition: "The Ascendant is the degree of the zodiac that was rising on the eastern horizon at the minute and place of your birth, and its sign is your rising sign. Astrologers read it as the way you meet the world: your manner, your first move, how you begin things. It needs your birth time."

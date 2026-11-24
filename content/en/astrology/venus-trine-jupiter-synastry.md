@@ -5,6 +5,8 @@ description: "Venus trine Jupiter in synastry: easy goodwill between two people,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Jupiter", "trine", "synastry"]
 weight: 174
 glyph: "♀△♃"
 definition: "Venus trine Jupiter in synastry means one person’s Venus is about 120° from the other’s Jupiter, within 5.1°, usually in one element. What one person enjoys and the other’s wider outlook support each other without effort. I read it as easy goodwill in any adult pair, real and pleasant, and best kept honest."

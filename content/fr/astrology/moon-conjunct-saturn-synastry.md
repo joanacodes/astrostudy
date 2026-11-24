@@ -6,6 +6,8 @@ description: "Lune conjonction Saturne en synastrie : la structure de l’une s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Saturne", "conjonction", "synastrie"]
 weight: 81
 glyph: "☽☌♄"
 definition: "Lune conjonction Saturne en synastrie : Saturne d’une personne à moins de 8° de la Lune de l’autre. La structure, le devoir et les limites de l’une se posent là où l’autre a besoin de se sentir en sécurité. J’y lis un contact de fiabilité, en guettant le moment où le soin devient des règles que personne n’a choisies."

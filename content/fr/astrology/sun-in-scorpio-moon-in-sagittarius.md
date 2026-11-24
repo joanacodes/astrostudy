@@ -6,6 +6,8 @@ description: "Soleil en Scorpion, Lune en Sagittaire : deux signes voisins, jus
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Scorpion", "Lune", "Sagittaire"]
 weight: 93
 glyph: "☉♏☽♐"
 definition: "Soleil en Scorpion, Lune en Sagittaire est une naissance des jours qui suivent une nouvelle lune, en Scorpion la plupart du temps, la Lune déjà passée dans le signe suivant. Je lis ce duo comme une identité qui plonge au fond des choses, avec des besoins qui s’apaisent devant l’espace, le sens et un horizon."

@@ -6,6 +6,8 @@ description: "Mercure opposition Neptune dans un thème natal : ce que vous pou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Neptune", "opposition"]
 weight: 134
 glyph: "☿☍♆"
 definition: "Dans Mercure opposition Neptune, la raison et l’imagination se font face aux deux bouts du zodiaque, à 180° à la naissance. Dans un thème, ce que vous pouvez vérifier se trouve face à ce que vous pouvez seulement sentir, et ce second côté arrive souvent par d’autres personnes. J’y lis une polarité : écouter pleinement, puis penser par vous-même."

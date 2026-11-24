@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux, Lune en Scorpion : un quinconce par signe, un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux", "Lune", "Scorpion"]
 weight: 32
 glyph: "☉♊☽♏"
 definition: "Soleil en Gémeaux, Lune en Scorpion place la Lune cinq signes devant le Soleil, dans l’eau fixe, pendant les jours lumineux qui précèdent une pleine lune. J’y lis un moi curieux et rapide aux besoins profonds : un esprit qui veut tout savoir, un cœur qui veut savoir ce qui est vrai."

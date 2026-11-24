@@ -5,6 +5,8 @@ description: "The earth signs in astrology: Taurus, Virgo and Capricorn — what
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signs"]
+tags: ["zodiac signs"]
 weight: 31
 glyph: "♉♍♑"
 definition: "The earth signs are Taurus, Virgo and Capricorn, the three signs of the element of earth, each 120° from the next. In a birth chart, earth shows where you trust what you can touch, check and build: patience, practicality, care for the body and for what lasts. Planets in earth signs like to see results before they believe."

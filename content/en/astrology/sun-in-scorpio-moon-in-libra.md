@@ -5,6 +5,8 @@ description: "Sun in Scorpio, Moon in Libra: the Moon one sign behind, in the ba
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Scorpio", "Moon", "Libra"]
 weight: 91
 glyph: "☉♏☽♎"
 definition: "Sun in Scorpio, Moon in Libra leaves the Moon behind, in the sign the Sun has just left, a few days before the new moon in Scorpio. I read it as a self that needs the truth beneath things, beside needs that settle only when there is peace and fairness between people."

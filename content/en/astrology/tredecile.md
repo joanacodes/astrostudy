@@ -5,6 +5,8 @@ description: "The tredecile in astrology: two planets 108° apart, three-tenths 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["tredecile", "minor aspects"]
 weight: 19
 glyph: "✦"
 definition: "A tredecile is an angle of 108° between two planets: three-tenths of the circle, a quintile and a half, and the angle inside each corner of a regular pentagon. In a birth chart it points to adaptive reorganisation, two planets that rearrange each other’s patterns into something uncommon. Transformation here doesn’t mean instability."

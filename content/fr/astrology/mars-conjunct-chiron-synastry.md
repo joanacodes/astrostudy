@@ -6,6 +6,8 @@ description: "Mars conjonction Chiron en synastrie : l’élan de l’une tombe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Chiron", "conjonction", "synastrie"]
 weight: 236
 glyph: "♂☌⚷"
 definition: "Mars conjonction Chiron en synastrie signifie que Mars, chez une personne, recouvre Chiron chez l’autre, à 6° près. L’élan de l’une arrive là où l’autre a dû composer avec une limite tenace : l’encouragement et la pression y sont tout proches. J’y lis un contact qui marche quand la personne de Chiron donne le rythme."

@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["quincunx"]
 family: "aspects"
+categories: ["Aspects"]
+tags: ["quincunx", "minor aspects"]
 weight: 9
 glyph: "⚻"
 definition: "A quincunx is an angle of 150° between two planets, five signs apart, also called an inconjunct. Its two signs share no element, modality or polarity, so the planets work in different languages. In a birth chart it marks a mismatch that asks for constant adjustment: not friction to fight or a balance to strike, but a recalibration."

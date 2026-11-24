@@ -6,6 +6,8 @@ description: "Neptune en transit en maison 5 : environ quatorze ans d’art, d�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Neptune", "maison 5", "transits"]
 weight: 41
 glyph: "♆"
 definition: "Neptune en transit en maison 5, c’est l’imaginaire en liberté là où vous créez, jouez et aimez, environ quatorze ans en général. Ce transit colore ce que votre thème dit du plaisir : un art proche de la dévotion, un amour prompt à idéaliser, un jeu où l’on s’oublie. Ni enfant ni liaison n’y sont prédits."

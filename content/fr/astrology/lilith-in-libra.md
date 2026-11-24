@@ -6,6 +6,8 @@ description: "Lilith en Balance dans un thème natal : votre côté de la balan
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Balance"]
 weight: 139
 glyph: "⚸♎"
 definition: "Lilith en Balance signifie qu’à votre naissance, la Lune noire Lilith, le point de l’orbite lunaire le plus éloigné de la Terre, se trouvait dans l’air cardinal du signe de Vénus. Lilith y est votre propre poids, tenu hors de la balance pour garder la paix, et un refus calme et exact de ce qui n’est pas équitable."

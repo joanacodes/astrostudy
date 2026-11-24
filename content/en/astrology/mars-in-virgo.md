@@ -5,6 +5,8 @@ description: "Mars in Virgo in a birth chart: effort that goes into skill, metho
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Virgo"]
 weight: 54
 glyph: "♂♍"
 definition: "Mars in Virgo is effort turned into craft: Mars in mutable earth, the sign of skill that Mercury rules. In a chart it describes drive that goes into method and craft: you prepare, refine and repair, assert yourself through competence, and fight by improving things rather than by confronting them."

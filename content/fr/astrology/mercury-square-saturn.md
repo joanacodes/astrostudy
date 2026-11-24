@@ -6,6 +6,8 @@ description: "Mercure carré Saturne dans un thème natal : une voix qui appren
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Saturne", "carré"]
 weight: 122
 glyph: "☿□♄"
 definition: "Mercure carré Saturne signifie qu’à votre naissance, Mercure et Saturne étaient à environ 90° d’écart. Dans un thème, votre voix et vos exigences pèsent l’une sur l’autre : vous choisissez vos mots avec soin, parfois par peur de vous tromper, et vous apprenez lentement, mais pour de bon. J’y lis un horaire, pas un mur."

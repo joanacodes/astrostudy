@@ -5,6 +5,8 @@ description: "Venus square Pluto in synastry: pleasant isn’t enough for one pe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Pluto", "square", "synastry"]
 weight: 193
 glyph: "♀□♇"
 definition: "Venus square Pluto in synastry means one person’s Venus is about 90° from the other’s Pluto, within 5.1°. The first person’s wish for ease and a fair exchange keeps meeting the second’s need for depth and honesty, so the terms of the bond get tested. I read it as friction that makes two adults more truthful."

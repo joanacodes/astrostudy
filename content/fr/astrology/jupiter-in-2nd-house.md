@@ -6,6 +6,8 @@ description: "Jupiter en maison 2 dans un thème natal : grandir par les valeur
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "maison 2", "maisons"]
 weight: 62
 glyph: "♃"
 definition: "Jupiter en maison 2 signifie que Jupiter se trouvait dans la maison de ce que vous avez et de ce qui compte pour vous. J’y lis une croissance par les valeurs et les talents : un rapport généreux aux ressources, des principes sur ce qui suffit, des savoir-faire qui s’élargissent. Rien n’y promet d’argent, et il faut une heure précise."

@@ -5,6 +5,8 @@ description: "Venus sextile Chiron in a birth chart: what you value and what you
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Chiron", "sextile"]
 weight: 186
 glyph: "♀⚹⚷"
 definition: "Venus sextile Chiron means Venus and Chiron were about 60° apart at your birth, usually in signs of complementary elements. In a chart, what you value and what you’ve learned by adapting cooperate: you know how to relate around a difficulty and make room for others. I read it as practical wisdom in relating, there when you use it."

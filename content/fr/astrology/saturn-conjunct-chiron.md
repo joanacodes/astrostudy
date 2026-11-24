@@ -6,6 +6,8 @@ description: "Saturne conjonction Chiron dans un thème natal : limites et adap
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Chiron", "conjonction"]
 weight: 290
 glyph: "♄☌⚷"
 definition: "Saturne conjonction Chiron rapproche Saturne et Chiron à quelques degrés près, ce qui s’est produit en Poissons en 1965–1967, et seulement alors entre 1930 et 2009. Dans un thème, elle fond les limites qu’on vous demande de tenir avec votre façon de vous adapter à une difficulté persistante : souvent, un don pour bâtir la méthode qui vous a manqué."

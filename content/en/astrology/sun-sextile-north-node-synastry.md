@@ -5,6 +5,8 @@ description: "Sun sextile North Node in synastry: one person welcomes the other 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "North Node", "sextile", "synastry"]
 weight: 57
 glyph: "☉⚹☊"
 definition: "Sun sextile North Node in synastry is a 60° link, within 4.8°, from one person’s Sun to the other’s North Node, which also puts that Sun 120° from their South Node. One person welcomes the other as they already are and opens a door to what they’re learning. I read it as an invitation that waits to be taken."

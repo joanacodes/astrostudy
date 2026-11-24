@@ -6,6 +6,8 @@ description: "Neptune carré Nœud Nord en synastrie : les rêves de l’une cr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Nœud Nord", "carré", "synastrie"]
 weight: 358
 glyph: "♆□☊"
 definition: "En synastrie, Neptune carré Nœud Nord croise l’axe des nœuds d’une personne avec Neptune d’une autre, à environ 90° des deux nœuds, à 3,4° près. L’idéal de l’une croise sans cesse la route que l’autre apprend à suivre. J’y lis une friction qui fait entrer le rêve dans la pratique."

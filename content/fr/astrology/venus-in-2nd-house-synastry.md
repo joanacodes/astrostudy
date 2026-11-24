@@ -6,6 +6,8 @@ description: "Vénus de l’autre dans votre maison 2 en synastrie : des goûts
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 38
 glyph: "♀"
 definition: "Vénus de l’autre dans votre maison 2 pose le goût de cette personne sur vos biens, vos revenus et vos valeurs. En synastrie, elle apprécie votre confort et vos choix, estime ce que vous estimez et peut relever le sentiment de votre valeur, dans une maison dont Vénus gouverne le signe naturel, le Taureau. Rien n’y annonce argent ni cadeaux."

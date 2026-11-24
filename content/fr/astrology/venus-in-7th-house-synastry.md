@@ -6,6 +6,8 @@ description: "Vénus de l’autre dans votre maison 7 en synastrie : aisance, �
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 43
 glyph: "♀"
 definition: "Vénus de l’autre dans votre maison 7 place ce que cette personne estime dans votre maison des partenaires. En synastrie, elle peut incarner ce que vous cherchez en amour, en amitié ou dans une association, et former un duo paraît facile et juste ; Vénus est chez elle en Balance, signe naturel de la maison. Rien n’y prédit de mariage."

@@ -6,6 +6,8 @@ description: "La lune bleue : ses deux définitions et leur origine, un almanac
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 18
 glyph: "○○"
 definition: "Une lune bleue est une pleine lune en trop. Au sens ancien, tiré du Maine Farmers’ Almanac de 1937, c’est la troisième de quatre pleines lunes dans une saison ; au sens populaire, né d’un contresens de 1946, la deuxième pleine lune d’un mois du calendrier. Aucun des deux n’est un terme d’astronomie, et la Lune ne devient pas bleue."

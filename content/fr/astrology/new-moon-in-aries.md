@@ -6,6 +6,8 @@ description: "La nouvelle lune en Bélier : le Soleil et la Lune réunis dans l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "nouvelle lune", "Bélier"]
 weight: 36
 glyph: "●♈"
 definition: "La nouvelle lune en Bélier est la nouvelle lune qui tombe pendant le passage du Soleil en Bélier, entre le 21 mars et le 19 avril environ : le Soleil et la Lune réunis dans le premier signe, la première nouvelle lune du printemps. J’y lis un bref repère pour commencer, qui ne compte qu’à un degré d’un point natal."

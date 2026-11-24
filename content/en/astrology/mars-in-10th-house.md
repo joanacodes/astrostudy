@@ -5,6 +5,8 @@ description: "Mars in the 10th house in a birth chart: ambition with drive, at t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "10th house", "houses"]
 weight: 58
 glyph: "♂"
 definition: "With Mars in the 10th house, your drive sits at the top of the chart, in the house of public life, work and reputation that begins at the Midheaven. It describes energetic ambition: you want to lead, build things your own way and be known for what you do. It needs the birth time and predicts no career."

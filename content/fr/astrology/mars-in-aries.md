@@ -6,6 +6,8 @@ description: "Mars en Bélier dans un thème natal : Mars dans son propre signe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Bélier"]
 weight: 49
 glyph: "♂♈"
 definition: "Mars en Bélier, c’est Mars à domicile : la planète de l’action et de l’affirmation dans son propre signe, feu cardinal. On y lit un élan sans rien à traduire : vous décidez en bougeant, dites ce que vous voulez, et le courage vous vient surtout au départ. Environ 1 personne sur 14 née entre 1930 et 2009 a ce placement."

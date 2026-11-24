@@ -5,6 +5,8 @@ description: "Uranus opposite Pluto in synastry: one era’s urge to break free 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Pluto", "opposition", "synastry"]
 weight: 325
 glyph: "♅☍♇"
 definition: "Uranus opposite Pluto in synastry has one person’s Uranus and the other’s Pluto at opposite ends of the zodiac, within 4°. No birth chart of 1930 to 2009 holds it; it needs two people born forty to sixty years apart, one era’s urge to break free facing another’s urge to renew at the root. I read it through the houses."

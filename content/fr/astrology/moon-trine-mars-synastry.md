@@ -6,6 +6,8 @@ description: "Lune trigone Mars en synastrie : le ressenti et l’effort vont a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Mars", "trigone", "synastrie"]
 weight: 74
 glyph: "☽△♂"
 definition: "Dans Lune trigone Mars en synastrie, la Lune de l’une et Mars chez l’autre forment un angle d’environ 120°, à 6,8° près. Le ressenti et l’effort vont au même pas : les besoins trouvent réponse, l’énergie trouve un usage. J’y lis un appui facile et concret, qui marche mieux dans les deux sens."

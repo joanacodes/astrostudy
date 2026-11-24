@@ -6,6 +6,8 @@ description: "Le premier quartier en astrologie : la demi-lune, une semaine apr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "phases lunaires"]
 weight: 10
 glyph: "◐"
 definition: "Le premier quartier est le moment, environ une semaine après la nouvelle lune, où la Lune se trouve à 90° devant le Soleil, à moitié éclairée. Le nom compte le cycle, un quart parcouru, pas la forme. Dans un thème natal, c’est le carré croissant du Soleil et de la Lune : une friction qui pousse vers l’extérieur."

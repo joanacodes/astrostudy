@@ -6,6 +6,8 @@ description: "Soleil en maison 10 dans un thème natal : une naissance en fin d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "maison 10", "maisons"]
 weight: 10
 glyph: "☉"
 definition: "Le Soleil en maison 10 signifie que le Soleil montait vers son point le plus haut à votre naissance, dans la maison angulaire du Milieu du Ciel. J’y lis un moi qui veut que son œuvre dise qui il est, et apprend que le but n’est pas le statut, ni la reconnaissance la célébrité. Il faut l’heure de naissance."

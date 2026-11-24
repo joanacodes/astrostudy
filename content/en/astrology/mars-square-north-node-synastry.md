@@ -5,6 +5,8 @@ description: "Mars square North Node in synastry: one person’s drive cuts acro
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "North Node", "square", "synastry"]
 weight: 248
 glyph: "♂□☊"
 definition: "Mars square North Node in synastry means one person’s Mars stands square to both of the other’s nodes, within 5.1°: 90° from the North Node, 90° from the South. One person’s drive crosses the line between the other’s old ground and their growth. I read it as bracing friction that teaches choosing, case by case, which way to go."

@@ -5,6 +5,8 @@ description: "Moon trine Chiron in a birth chart: comfort and adaptation working
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Chiron", "trine"]
 weight: 96
 glyph: "☽△⚷"
 definition: "Moon trine Chiron means the Moon and Chiron were a trine apart at your birth, about 120°, usually in one element. It lets your need for comfort and your way of adapting to a lasting sensitivity support each other: you tend to live gracefully with your limits. I read it as an easy, experienced kind of care."

@@ -6,6 +6,8 @@ description: "Mars en Verseau dans un thème natal : un élan pour les idées, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Verseau"]
 weight: 59
 glyph: "♂♒"
 definition: "Mars en Verseau fait entrer la planète de l’action dans l’air fixe, un signe gouverné par Uranus en astrologie tropicale moderne et par Saturne dans la tradition ; je lis les deux. On y lit un élan allumé par les idées : vous agissez pour des causes et le groupe, demandez à quoi sert une règle, et tenez à vos principes."

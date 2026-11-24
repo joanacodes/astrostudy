@@ -5,6 +5,8 @@ description: "Moon opposite Chiron in a birth chart: your need for comfort facin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Chiron", "opposition"]
 weight: 97
 glyph: "☽☍⚷"
 definition: "Moon opposite Chiron means your Moon and Chiron faced each other across the zodiac when you were born, about 180° apart. It sets your need for comfort across from a lasting sensitivity, two ends of one axis you often meet through the people you care for. I read it as learning to let tenderness and skill live side by side."

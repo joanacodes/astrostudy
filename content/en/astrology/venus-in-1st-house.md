@@ -5,6 +5,8 @@ description: "Venus in the 1st house in a birth chart: warmth and taste that sho
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "1st house", "houses"]
 weight: 37
 glyph: "♀"
 definition: "Venus in the 1st house means Venus was about to rise at your birth, in the house of your body, bearing and first impressions. It describes warmth and taste that show at once, a gift for making first meetings easy, and a pleasantness worth keeping honest. Like every house, it needs an exact birth time."

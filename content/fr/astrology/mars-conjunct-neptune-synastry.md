@@ -6,6 +6,8 @@ description: "Mars conjonction Neptune en synastrie : l’élan de l’une se p
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Neptune", "conjonction", "synastrie"]
 weight: 226
 glyph: "♂☌♆"
 definition: "Mars conjonction Neptune en synastrie signifie que Mars, chez une personne, et Neptune, chez l’autre, se rejoignent à 6° près. L’élan de l’une rencontre l’imaginaire de l’autre sur le même degré : une vision trouve qui la réalise, un effort trouve son but. Pour moi, c’est une inspiration mise au travail, qui reste honnête si chacune dit ce qu’elle veut."

@@ -5,6 +5,8 @@ description: "The full moon in Capricorn, the first after the June solstice: thr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "full moon", "Capricorn"]
 weight: 57
 glyph: "○♑"
 definition: "The full moon in Capricorn is the Moon in Capricorn opposite the Sun in Cancer, the first full moon after the June solstice. It lights the Capricorn–Cancer axis from the public side: duty and standing against home and care. In a birth chart it counts within about 1° of a planet or angle; as an eclipse, about 3°."

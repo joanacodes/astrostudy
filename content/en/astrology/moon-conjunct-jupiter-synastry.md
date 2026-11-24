@@ -5,6 +5,8 @@ description: "Moon conjunct Jupiter in synastry: one person’s needs land where
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Jupiter", "conjunction", "synastry"]
 weight: 76
 glyph: "☽☌♃"
 definition: "Moon conjunct Jupiter in synastry means one person’s Jupiter sits within 8° of the other’s Moon. What one of them needs in order to feel safe lands where the other makes room, finds meaning and plans for growth. I read it as generosity given and received, and I watch for the moment a feeling becomes someone else’s project."

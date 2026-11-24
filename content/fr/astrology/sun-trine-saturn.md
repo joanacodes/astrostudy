@@ -6,6 +6,8 @@ description: "Soleil trigone Saturne dans un thème natal : une patience qui se
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Saturne", "trigone"]
 weight: 21
 glyph: "☉△♄"
 definition: "Soleil trigone Saturne désigne un écart d’environ 120° entre votre Soleil et Saturne, en général dans un même élément. Dans un thème, la structure soutient votre but au lieu de le combattre. J’y lis une force patiente et stable, au meilleur quand la prudence ne décide pas de tout."

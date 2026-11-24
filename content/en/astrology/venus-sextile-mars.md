@@ -5,6 +5,8 @@ description: "Venus sextile Mars in a birth chart: the commonest meeting of the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Mars", "sextile"]
 weight: 156
 glyph: "♀⚹♂"
 definition: "Venus sextile Mars means a sixth of the circle, about 60°, lay between Venus and Mars when you were born, usually across complementary elements. In a chart it lets liking and pursuing cooperate, which often shows as a knack for the welcome first move. Like every sextile, it works when you use it."

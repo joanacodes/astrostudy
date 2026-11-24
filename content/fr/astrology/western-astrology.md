@@ -6,6 +6,8 @@ description: "L’astrologie occidentale : d’où vient cette tradition, ce qu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: []
 weight: 2
 glyph: "✦"
 definition: "L’astrologie occidentale est la tradition qui va des présages célestes babyloniens à la pratique actuelle, en passant par le monde hellénistique, les astrologues perses et arabes et l’Europe médiévale. Elle lit le thème natal à travers les douze signes du zodiaque tropical, douze maisons, les planètes et leurs aspects. La mienne : l’astrologie tropicale moderne, avec des techniques traditionnelles."

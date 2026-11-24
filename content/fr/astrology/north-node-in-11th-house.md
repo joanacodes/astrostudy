@@ -6,6 +6,8 @@ description: "Nœud Nord en maison 11 dans un thème natal : amitiés, espoirs 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "maison 11", "maisons"]
 weight: 155
 glyph: "☊"
 definition: "Nœud Nord en maison 11 signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans la maison des amitiés et des espoirs, le Nœud Sud en maison 5. J’y lis une croissance par la compagnie des autres : des amitiés durables, des espoirs partagés, un avenir construit à plusieurs."

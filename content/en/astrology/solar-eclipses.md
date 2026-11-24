@@ -5,6 +5,8 @@ description: "Solar eclipses in astrology: a new moon near the Moon’s nodes, t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Sun", "eclipses"]
 weight: 32
 glyph: "●"
 definition: "A solar eclipse is a new moon close enough to one of the Moon’s nodes for the Moon to pass in front of the Sun: wholly, in a ring, or in part. In astrology it counts within about three degrees of a natal planet or angle, read through that point and its house, and never as an omen."

@@ -5,6 +5,8 @@ description: "Sun in Taurus, Moon in Capricorn: two earth signs in trine, Venus 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Taurus", "Moon", "Capricorn"]
 weight: 22
 glyph: "☉♉☽♑"
 definition: "Sun in Taurus, Moon in Capricorn joins two earth signs four apart, the Moon trailing the Sun, at a birth seventeen and a half to twenty-two days after a new moon. I read it as steadiness over the long run: a self that builds what it can enjoy and keep, and needs that feel safe once there is a plan."

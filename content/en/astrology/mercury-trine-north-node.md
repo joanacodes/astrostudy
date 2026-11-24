@@ -5,6 +5,8 @@ description: "Mercury trine North Node in a birth chart: a mind that eases the w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "North Node", "trine"]
 weight: 153
 glyph: "☿△☊"
 definition: "Mercury trine North Node means a third of the circle lay between Mercury and the North Node at your birth, with Mercury sextile the South Node. In a chart it lets your way of thinking carry you towards less familiar ground without cutting you off from what you know. The ease is real, and it still needs practice."

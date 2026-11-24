@@ -5,6 +5,8 @@ description: "Their Mercury in your 1st house in synastry: their way of thinking
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "1st house", "synastry", "house overlays"]
 weight: 25
 glyph: "☿"
 definition: "With their Mercury in your 1st house, the planet of the other person’s thinking and speech sits in the house of your manner and first impressions. In synastry they tend to notice you out loud, putting words to how you come across, while you may find yourself quicker, chattier and easier to read in their company."

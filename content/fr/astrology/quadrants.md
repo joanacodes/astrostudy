@@ -6,6 +6,8 @@ description: "Quadrants en astrologie : les quatre quarts d’un thème natal e
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 28
 glyph: "✦"
 definition: "Les quadrants sont les quatre quarts d’un thème natal, découpés par l’horizon et le méridien : maisons 1 à 3, 4 à 6, 7 à 9 et 10 à 12. Un quadrant qui rassemble la plupart des planètes montre où se concentre l’énergie du thème. Comme les maisons, les quadrants se calculent à partir de l’heure et du lieu de naissance."

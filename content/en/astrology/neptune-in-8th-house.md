@@ -5,6 +5,8 @@ description: "Neptune in the 8th house in a birth chart: intimacy that dissolves
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "8th house", "houses"]
 weight: 104
 glyph: "♆"
 definition: "Neptune in the 8th house puts the planet of compassion, at your birth, in the house of intimacy, trust and what you share with others, joint money and debts included. It describes closeness that dissolves edges: deep empathy, trust given generously, and shared money that needs clear lines. Tradition gave this house death; I never predict it."

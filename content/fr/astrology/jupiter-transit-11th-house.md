@@ -6,6 +6,8 @@ description: "Jupiter en transit en maison 11 : un an environ dans la maison de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Jupiter", "maison 11", "transits"]
 weight: 11
 glyph: "♃"
 definition: "Jupiter en transit en maison 11 place Jupiter, pendant un peu plus d’un an, dans la maison où la tradition plaçait sa joie : les amis, les groupes, les espoirs partagés. Ce passage puise dans le sentiment d’appartenance que décrit déjà votre thème, vers de nouveaux cercles et une idée plus claire de ce que vous bâtissez ensemble."

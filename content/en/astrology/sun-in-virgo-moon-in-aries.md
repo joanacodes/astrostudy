@@ -5,6 +5,8 @@ description: "Sun in Virgo, Moon in Aries: method and urgency across a quincunx,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Virgo", "Moon", "Aries"]
 weight: 61
 glyph: "☉♍☽♈"
 definition: "Sun in Virgo, Moon in Aries joins mutable earth to cardinal fire across a quincunx, as a full moon begins to wane, within five days of it. Mercury rules the Sun’s sign and Mars the Moon’s. I read it as careful method and quick feeling, forever negotiating which of the two should go first."

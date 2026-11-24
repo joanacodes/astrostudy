@@ -6,6 +6,8 @@ description: "Uranus carré Lilith en synastrie : l’agitation de l’une accr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Lilith", "carré", "synastrie"]
 weight: 333
 glyph: "♅□⚸"
 definition: "Uranus carré Lilith en synastrie signifie que la Lune noire Lilith d’une personne se trouve à environ 90° d’Uranus chez l’autre, à 3,4° près. L’agitation de l’une accroche sans cesse les limites gardées de l’autre, et les refus de l’autre cette agitation. Daté avec la Lilith moyenne, c’est une friction entre liberté et intimité, lue par les maisons."

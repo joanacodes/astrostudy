@@ -6,6 +6,8 @@ description: "Mars en Gémeaux dans un thème natal : un élan qui passe par le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Gémeaux"]
 weight: 51
 glyph: "♂♊"
 definition: "Mars en Gémeaux, c’est Mars au travail par l’esprit : la planète de l’affirmation dans l’air mutable du signe de Mercure. Dans un thème, cela donne un élan qui passe par les mots : vous argumentez, persuadez et vous adaptez, menez plusieurs projets, et la variété entretient votre motivation. C’est le cas d’environ 1 personne sur 12."

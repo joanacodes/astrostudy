@@ -5,6 +5,8 @@ description: "Saturn opposite North Node in synastry: one person’s structure s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "North Node", "opposition", "synastry"]
 weight: 315
 glyph: "♄☍☊"
 definition: "Saturn opposite North Node in synastry sets one person’s Saturn on the other’s South Node, within 5°, and so opposite their North Node. One person’s structure settles on what the other already does well, facing the way they want to grow. I read it as a base that can steady or hold back, through the houses."

@@ -6,6 +6,8 @@ description: "Vénus carré Lilith en synastrie : l’envie de l’une que tout
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Lilith", "carré", "synastrie"]
 weight: 203
 glyph: "♀□⚸"
 definition: "Vénus carré Lilith en synastrie signifie que Vénus, chez une personne, se trouve à environ 90° de la Lune noire Lilith moyenne de l’autre, à 5,1° près. Ce qui plaît à l’une demande à la part indomptée de l’autre de s’adoucir, et se heurte à un refus. J’y lis une friction qui apprend à entendre un non."

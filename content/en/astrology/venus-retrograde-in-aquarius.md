@@ -5,6 +5,8 @@ description: "Venus retrograde in Aquarius: one from 2000 to 2040, at the end of
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Venus", "retrograde", "Venus retrograde", "Aquarius"]
 weight: 23
 glyph: "♀℞♒"
 definition: "Venus retrograde in Aquarius has happened once in my list, from 2000 to 2040: on 24 December 2005 Venus, seen from Earth, stationed at 1°28′ Aquarius and began backing into Capricorn. It speaks to me of friendship, freedom and unusual tastes reconsidered, in your chart’s Aquarius house."

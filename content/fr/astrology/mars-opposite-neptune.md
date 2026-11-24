@@ -6,6 +6,8 @@ description: "Mars opposition Neptune dans un thème natal : votre volonté et 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Neptune", "opposition"]
 weight: 219
 glyph: "♂☍♆"
 definition: "Mars opposition Neptune place votre volonté et vos idéaux aux deux bouts du thème, à environ 180°. Dans un thème, l’effort y est tiraillé entre ce que vous voulez et ce dont les autres ont besoin ou rêvent, un équilibre qui s’apprend souvent dans les relations. J’y lis une polarité qui enseigne la compassion sans l’effacement de soi."

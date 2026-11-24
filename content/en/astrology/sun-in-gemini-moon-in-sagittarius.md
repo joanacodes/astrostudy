@@ -5,6 +5,8 @@ description: "Sun in Gemini, Moon in Sagittarius: opposite mutable signs, a birt
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini", "Moon", "Sagittarius"]
 weight: 33
 glyph: "☉♊☽♐"
 definition: "Sun in Gemini, Moon in Sagittarius sets the lights on opposite sides of the zodiac, both in mutable signs, near a full moon. I read it as the student and the explorer in one person: a self that gathers facts and voices close at hand, and needs that rest only when life has a wide horizon and a meaning."

@@ -6,6 +6,8 @@ description: "Soleil carré Saturne en synastrie : les exigences d’une person
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Saturne", "carré", "synastrie"]
 weight: 28
 glyph: "☉□♄"
 definition: "Soleil carré Saturne en synastrie met les exigences et la prudence d’une personne à angle droit avec l’expression de l’autre : Saturne, chez l’une, à environ 90° du Soleil de l’autre, à 6,8° près. J’y lis une friction qui éprouve les projets et bâtit le respect, jamais le signe que deux personnes ne sauraient s’entendre."

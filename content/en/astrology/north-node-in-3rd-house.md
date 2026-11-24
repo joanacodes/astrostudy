@@ -5,6 +5,8 @@ description: "North Node in the 3rd house in a birth chart: growing through what
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "3rd house", "houses"]
 weight: 147
 glyph: "☊"
 definition: "North Node in the 3rd house means the North Node, where the Moon’s path crosses the Sun’s heading north, fell in the house of the world close at hand when you were born, with the South Node in the 9th. I read it as growth through what is near: local ties, everyday exchange, and learning at street level."

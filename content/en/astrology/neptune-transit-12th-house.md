@@ -5,6 +5,8 @@ description: "Neptune transiting the 12th house: nearly thirteen years of solitu
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "12th house", "transits"]
 weight: 48
 glyph: "♆"
 definition: "Neptune transiting the 12th house brings Neptune into the house of its own sign for nearly thirteen years as a rule, the long, quiet stretch before it reaches your Ascendant. It deepens what your chart already holds about the inner life: solitude, imagination, compassion and rest, with a real need for boundaries. Nothing in it points to illness or confinement."

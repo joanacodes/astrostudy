@@ -5,6 +5,8 @@ description: "Moon square Venus in synastry: the care one person offers isn’t 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Venus", "square", "synastry"]
 weight: 68
 glyph: "☽□♀"
 definition: "In Moon square Venus in synastry, one chart’s Moon and the other’s Venus sit about 90° apart, within 6.8°. The way one shows appreciation and the way the other needs looking after don’t line up at first. To me it’s friction that turns two people into translators of each other’s care, never a lack of affection."

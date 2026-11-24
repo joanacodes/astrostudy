@@ -6,6 +6,8 @@ description: "Lune conjonction Nœud Nord dans un thème natal : la Lune qui cr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Nœud Nord", "conjonction"]
 weight: 103
 glyph: "☽☌☊"
 definition: "Lune conjonction Nœud Nord signifie qu’à votre naissance, la Lune croisait la route du Soleil vers le nord, à quelques degrés du Nœud Nord. Dans un thème, cette conjonction place vos besoins sur le chemin de croissance : l’apaisement et la croissance se trouvent au même endroit. J’y lis une direction, jamais un destin."

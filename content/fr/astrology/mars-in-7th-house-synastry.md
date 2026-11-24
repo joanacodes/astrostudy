@@ -6,6 +6,8 @@ description: "Mars de l’autre dans votre maison 7 en synastrie : son élan fa
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 55
 glyph: "♂"
 definition: "Mars de l’autre dans votre maison 7 pose Mars, chez cette personne, dans votre maison des partenaires, des alliances et des rivalités franches, celles du tête-à-tête. En synastrie, son élan vous fait face d’égal à égal : l’autre vous stimule et vous met au défi, vous résistez, et l’étincelle se distingue parfois mal du concours."

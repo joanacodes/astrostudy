@@ -5,6 +5,8 @@ description: "Moon sextile North Node in synastry: one person’s needs open sma
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "North Node", "sextile", "synastry"]
 weight: 112
 glyph: "☽⚹☊"
 definition: "Moon sextile North Node in synastry means one person’s Moon is about 60° from the other’s North Node, within 4.8°, which puts it about 120° from their South Node. One person’s needs sit easily with the other’s habits and open small doors towards what they are learning. I read it as an opening that waits to be used."

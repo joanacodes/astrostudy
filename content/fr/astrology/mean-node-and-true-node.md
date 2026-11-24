@@ -6,6 +6,8 @@ description: "Nœud moyen et nœud vrai en astrologie : pourquoi deux applis d�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["nœuds lunaires"]
 weight: 10
 glyph: "✦"
 definition: "Le nœud moyen et le nœud vrai sont deux façons de placer le même point, là où la trajectoire de la Lune croise celle du Soleil. Le nœud moyen, une moyenne, recule à pas réguliers ; le nœud vrai, le croisement réel, oscille. Un ou deux degrés au plus les séparent : ils ne divergent qu’au bord d’un signe."

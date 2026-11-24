@@ -6,6 +6,8 @@ description: "Uranus trigone Chiron dans un thème natal : l’originalité qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Chiron", "trigone"]
 weight: 318
 glyph: "♅△⚷"
 definition: "Uranus trigone Chiron est un angle de 120° entre Uranus et Chiron, l’aspect le plus rare que la paire ait formé dans le décompte : les naissances de 1945 à 1946 et de 1994 à 1996. Dans un thème, l’originalité et le savoir-faire qui s’adapte autour d’un point sensible s’entraident, et les solutions de contournement viennent facilement."

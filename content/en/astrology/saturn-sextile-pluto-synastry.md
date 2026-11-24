@@ -5,6 +5,8 @@ description: "Saturn sextile Pluto in synastry: one person’s method can turn t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Pluto", "sextile", "synastry"]
 weight: 297
 glyph: "♄⚹♇"
 definition: "Saturn sextile Pluto in synastry means one person’s Saturn is about 60° from the other’s Pluto, within 3°. One person’s sense of order can turn the other’s need for deep change into stages, and that depth can show which structures deserve renovating. I read it as an offer between two generations, real only once someone starts."

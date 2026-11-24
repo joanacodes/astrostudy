@@ -6,6 +6,8 @@ description: "Neptune de l’autre dans votre maison 3 en synastrie : son imagi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 99
 glyph: "♆"
 definition: "Neptune de l’autre dans votre maison 3 fait entrer Neptune, chez cette personne, dans votre esprit de tous les jours : conversations, messages, courses, apprentissages. En synastrie, vos échanges se remplissent d’images et de musique, et l’autre entend dans vos mots plus que vous n’y mettez. Les projets faits ensemble se brouillent parfois : les détails pratiques méritent d’être écrits."

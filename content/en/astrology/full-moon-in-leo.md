@@ -5,6 +5,8 @@ description: "The full moon in Leo, with the Sun opposite in Aquarius: the heart
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "full moon", "Leo"]
 weight: 52
 glyph: "○♌"
 definition: "The full moon in Leo is the Moon in Leo opposite the Sun in Aquarius, once a year, between late January and mid-February. It lights the Leo–Aquarius axis: being seen as yourself, and belonging to something shared. In a birth chart it counts only within about 1° of a planet or angle, at either end."

@@ -6,6 +6,8 @@ description: "Soleil sextile Saturne en synastrie : la patience et la méthode 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Saturne", "sextile", "synastrie"]
 weight: 27
 glyph: "☉⚹♄"
 definition: "Soleil sextile Saturne en synastrie, c’est une offre de méthode : Saturne, chez une personne, à environ 60° du Soleil de l’autre, à 4,8° près, deux signes plus loin. La patience de l’une est là pour les projets de l’autre. J’y lis une aide lente et concrète, qui fonctionne une fois demandée et acceptée."

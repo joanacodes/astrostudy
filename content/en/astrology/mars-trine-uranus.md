@@ -5,6 +5,8 @@ description: "Mars trine Uranus in a birth chart: original action that comes eas
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Uranus", "trine"]
 weight: 213
 glyph: "♂△♅"
 definition: "Mars trine Uranus joins action and invention at about 120°, usually in signs of the same element. In a chart it lets you act on new ideas without a fight: independence, quick adaptation and original methods come naturally. I read it as an easy inventiveness, at its best when you also see things through."

@@ -5,6 +5,8 @@ description: "Venus trine Pluto in a birth chart: what you value and the urge to
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Pluto", "trine"]
 weight: 183
 glyph: "♀△♇"
 definition: "Venus trine Pluto means Venus and Pluto were about 120° apart at your birth, usually in signs of the same element. In a chart, what you value and the urge to renew flow together: attachments deepen with time, and change rarely costs you what you love. I read it as a steady depth that grows when you tend it."

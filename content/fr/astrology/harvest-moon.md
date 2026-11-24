@@ -6,6 +6,8 @@ description: "La Lune des moissons est la pleine lune la plus proche de l’équ
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 28
 glyph: "○"
 definition: "La Lune des moissons est la pleine lune la plus proche de l’équinoxe de septembre : elle tombe en septembre ou début octobre, à une quinzaine de jours au plus du 22 ou du 23 septembre. C’est un vieux nom anglais, pas de l’astrologie. Dans un thème, c’est une pleine lune à la fin des Poissons ou au début du Bélier."

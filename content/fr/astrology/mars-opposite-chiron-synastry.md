@@ -6,6 +6,8 @@ description: "Mars opposition Chiron en synastrie : l’élan de l’une fait f
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Chiron", "opposition", "synastrie"]
 weight: 240
 glyph: "♂☍⚷"
 definition: "Mars opposition Chiron en synastrie signifie que Mars, chez une personne, et Chiron, chez l’autre, se tiennent sur un même axe, aux deux bouts, à 6° près. Chacune voit chez l’autre ce qu’elle pratique moins : aller droit au but, ou trouver un autre chemin. J’y lis un miroir tendu entre deux personnes, jamais un classement de la plus forte."

@@ -5,6 +5,8 @@ description: "Mercury opposite Neptune in a birth chart: what you can check faci
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Neptune", "opposition"]
 weight: 134
 glyph: "☿☍♆"
 definition: "In Mercury opposite Neptune, reason and imagination face each other from opposite ends of the zodiac, 180° apart at birth. In a chart it sets what you can check against what you can only sense, and the sensed side often arrives through other people. I read it as a polarity: listen fully, then think for yourself."

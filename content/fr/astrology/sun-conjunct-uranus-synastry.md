@@ -6,6 +6,8 @@ description: "Soleil conjonction Uranus en synastrie : l’envie de renouveau d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Uranus", "conjonction", "synastrie"]
 weight: 31
 glyph: "☉☌♅"
 definition: "Soleil conjonction Uranus en synastrie rapproche à moins de 8° le Soleil d’une personne et Uranus dans le thème de l’autre : une envie de renouveau vient se poser sur une identité. Côté Soleil, la liberté grandit souvent ; côté Uranus, l’inspiration. J’y lis un moi mis à jour, et je regarde à qui sont les changements."

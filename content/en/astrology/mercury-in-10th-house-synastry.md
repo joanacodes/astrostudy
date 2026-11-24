@@ -5,6 +5,8 @@ description: "Their Mercury in your 10th house in synastry: their thinking on yo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "10th house", "synastry", "house overlays"]
 weight: 34
 glyph: "☿"
 definition: "Their Mercury in your 10th house points the other person’s thinking at your work, your role and your reputation. In synastry they tend to advise, strategise and talk about your public life, sometimes to others; you gain a sounding board for your ambitions, and they find a stage for their ideas, as long as the credit is shared."

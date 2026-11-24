@@ -6,6 +6,8 @@ description: "Mercure de l’autre dans votre maison 7 en synastrie : un dialog
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 31
 glyph: "☿"
 definition: "Mercure de l’autre dans votre maison 7 installe la voix de cette personne juste en face de la vôtre, dans la maison des partenaires et des liens en tête-à-tête. En synastrie, la parole est au centre de la relation : vous réfléchissez ensemble, négociez vos accords et vous aiguisez mutuellement dans le débat, en couple, en amitié ou au travail."

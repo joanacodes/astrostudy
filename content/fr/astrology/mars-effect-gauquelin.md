@@ -6,6 +6,8 @@ description: "L’effet Mars : la thèse de Gauquelin sur les champions nés ju
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["Mars", "test"]
 weight: 5
 glyph: "✦"
 definition: "L’effet Mars est la thèse de Michel Gauquelin, formulée dès 1955, selon laquelle les champions sportifs naissaient plus souvent juste après le lever ou la culmination de Mars. Les tests suivants, dont un test français de 1 066 champions, n’ont rien trouvé ; les critiques invoquent la sélection des champions et les heures déclarées, et la querelle a divisé les sceptiques."

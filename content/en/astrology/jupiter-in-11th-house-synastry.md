@@ -5,6 +5,8 @@ description: "Their Jupiter in your 11th house in synastry: Jupiter in its joy a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "11th house", "synastry", "house overlays"]
 weight: 71
 glyph: "♃"
 definition: "Their Jupiter in your 11th house puts the other person’s Jupiter in the house of its traditional joy: your friends, groups and shared hopes. In synastry their generosity widens your circle and encourages your plans, and they find in your friendships a natural home for their giving. It describes belonging and hope, never a promise of popularity."

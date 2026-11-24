@@ -5,6 +5,8 @@ description: "Neptune in the 7th house in a birth chart: partners seen through a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "7th house", "houses"]
 weight: 103
 glyph: "♆"
 definition: "Neptune in the 7th house means Neptune was in the house that begins at the Descendant, the house of partners and close one-to-one bonds, when you were born. In a chart it describes love seen through a glow: great tenderness, a longing for a kindred partner, and the lifelong work of seeing the person behind the ideal."

@@ -5,6 +5,8 @@ description: "The new moon in Pisces, the last before the March equinox: its dat
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "new moon", "Pisces"]
 weight: 47
 glyph: "●♓"
 definition: "The new moon in Pisces is the Sun and Moon meeting in Pisces, the last new moon before the March equinox, between late February and mid-March. It opens a lunar month in Pisces’s manner: rest, imagination, compassion, letting go. In a birth chart it counts only within about 1° of a planet or angle."

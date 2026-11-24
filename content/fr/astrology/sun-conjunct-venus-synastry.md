@@ -6,6 +6,8 @@ description: "Soleil conjonction Vénus en synastrie : le goût de l’une tomb
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Vénus", "conjonction", "synastrie"]
 weight: 11
 glyph: "☉☌♀"
 definition: "Soleil conjonction Vénus en synastrie signifie que la Vénus d’une personne se trouve à moins de 8° du Soleil de l’autre, en général avec des anniversaires à un mois d’écart. Ce que l’une apprécie tombe sur ce que l’autre est. J’y lis une appréciation de la personne telle qu’elle est, plus saine quand elle sait aussi dire non."

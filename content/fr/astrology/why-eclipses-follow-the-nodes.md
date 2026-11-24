@@ -6,6 +6,8 @@ description: "Pourquoi les éclipses suivent les nœuds : l’inclinaison de la
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["éclipses"]
 weight: 35
 glyph: "☊☋"
 definition: "Les éclipses suivent les nœuds parce que la route de la Lune est inclinée d’environ cinq degrés sur celle du Soleil : le Soleil, la Lune et la Terre ne s’alignent que là où les deux routes se croisent. Quand les nœuds reculent dans le zodiaque, les éclipses les suivent, dix-huit mois environ par paire de signes."

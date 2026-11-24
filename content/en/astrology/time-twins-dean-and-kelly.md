@@ -5,6 +5,8 @@ description: "Time twins, tested by Dean and Kelly: people born minutes apart sh
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["testing"]
 weight: 4
 glyph: "✦"
 definition: "Time twins are people born at almost the same moment, who by astrology’s own logic should have similar traits. Geoffrey Dean and Ivan Kelly studied them, using the astrologer John Addey’s criteria for how close two births must be. In a study of people born within five minutes of each other, no effect was seen."

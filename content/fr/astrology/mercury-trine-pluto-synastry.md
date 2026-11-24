@@ -6,6 +6,8 @@ description: "Mercure trigone Pluton en synastrie : les mots de l’une et la p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Pluton", "trigone", "synastrie"]
 weight: 149
 glyph: "☿△♇"
 definition: "Mercure trigone Pluton en synastrie est un trigone d’environ 120°, à 5,1° près, entre Mercure d’un côté et Pluton de l’autre. Les paroles de la première personne et le flair de la seconde pour la profondeur s’accordent sans peine : les motivations se comprennent sans lutte. J’y lis une intuition qui vient facilement, à manier avec douceur."

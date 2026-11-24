@@ -6,6 +6,8 @@ description: "Lilith en maison 3 dans un thème natal : une voix qui a appris q
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "maison 3", "maisons"]
 weight: 135
 glyph: "⚸"
 definition: "Lilith en maison 3 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la maison des échanges quotidiens, de l’apprentissage et de la fratrie. J’y lis une voix qui a appris tôt quand se taire, une oreille pour le non-dit, et le refus de répéter ce que vous n’avez pas vérifié."

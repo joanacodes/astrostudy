@@ -5,6 +5,8 @@ description: "Uranus square Chiron in synastry: one person’s push for change p
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Chiron", "square", "synastry"]
 weight: 328
 glyph: "♅□⚷"
 definition: "Uranus square Chiron in synastry means one person’s Uranus is about 90° from the other’s Chiron, within 3.4°. One person’s push for change keeps pressing on arrangements the other built around a lasting limit. I read it as friction that can produce better designs, shared by whole birth periods and read through the houses."

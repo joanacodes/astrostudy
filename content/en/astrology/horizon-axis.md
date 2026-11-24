@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["horizon axis"]
 family: "angles"
+categories: ["Planets and points"]
+tags: ["angles"]
 weight: 5
 glyph: "AC/DC"
 definition: "The horizon axis is the line from the Ascendant to the Descendant: the eastern and western horizon at your birth. It divides the chart into the half above the horizon and the half below. Astrologers read it as the line between you and other people: how you meet the world, and whom you meet."

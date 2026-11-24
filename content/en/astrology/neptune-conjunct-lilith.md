@@ -5,6 +5,8 @@ description: "Neptune conjunct Lilith in a birth chart: the untamed part of you 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Lilith", "conjunction"]
 weight: 340
 glyph: "♆☌⚸"
 definition: "Neptune conjunct Lilith means Neptune and the mean Black Moon Lilith within a few degrees of each other, an aspect about 1 person in 31 is born with. In a chart, the part of you that refused to be tamed speaks through imagination: dreams, art, the mystical, the marginal. I read it as a wildness that wears a veil."

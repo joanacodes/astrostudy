@@ -6,6 +6,8 @@ description: "Soleil en Balance, Lune en Scorpion : seul duo aux deux luminaire
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Balance", "Lune", "Scorpion"]
 weight: 80
 glyph: "☉♎☽♏"
 definition: "Soleil en Balance, Lune en Scorpion met les deux luminaires dans leur chute, seul duo dans ce cas, aux premiers jours d’un mois lunaire. J’y vois un moi qui trouve sa force dans un rapport équitable aux autres, et des besoins apaisés seulement par la vérité sous la surface."

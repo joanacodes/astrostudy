@@ -6,6 +6,8 @@ description: "Soleil en Poissons dans un thème natal : une identité que tient
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Poissons"]
 weight: 12
 glyph: "☉♓"
 definition: "Le Soleil en Poissons est le signe solaire des naissances du 19 février au 20 mars environ, jusqu’à l’équinoxe de mars, en eau mutable gouvernée par Neptune dans l’astrologie tropicale moderne et par Jupiter dans la tradition. J’y lis une identité que tient la dévotion, une vitalité qui va et vient en marée, et un but trouvé par l’imagination."

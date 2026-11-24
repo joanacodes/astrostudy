@@ -5,6 +5,8 @@ description: "Their Chiron in your 10th house in synastry: an old hurt and its h
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "10th house", "synastry", "house overlays"]
 weight: 130
 glyph: "⚷"
 definition: "Their Chiron in your 10th house sits the other person’s Chiron at the summit of your chart, in the house of your public direction, reputation and work. In synastry what they learned about being seen and judged meets your ambitions: they mentor with tact, while your standing can stir something tender in them."

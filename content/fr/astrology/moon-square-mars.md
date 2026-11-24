@@ -6,6 +6,8 @@ description: "Lune carré Mars dans un thème natal : besoins et élan qui se c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Mars", "carré"]
 weight: 65
 glyph: "☽□♂"
 definition: "Lune carré Mars, c’est un angle d’environ 90° entre la Lune et Mars dans un thème natal, souvent à trois signes d’écart. Vos besoins et vos gestes se contrarient : l’émotion pousse à agir, ou l’action dépasse l’émotion. J’y vois une friction qui apprend à affirmer un besoin tôt, jamais un caractère emporté."

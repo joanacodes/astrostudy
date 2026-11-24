@@ -6,6 +6,8 @@ description: "Soleil opposition Jupiter dans un thème natal : votre but face �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Jupiter", "opposition"]
 weight: 17
 glyph: "☉☍♃"
 definition: "Soleil opposition Jupiter, c’est Jupiter face à votre Soleil, à environ 180°, et rétrograde à votre naissance. Dans un thème, votre but se tient d’un côté et votre envie de grandir de l’autre. J’y lis de grands espoirs qui apprennent le sens des proportions : la vision plus large vous arrive souvent d’abord par les autres."

@@ -6,6 +6,8 @@ description: "Vénus trigone Lilith dans un thème natal : ce que vous aimez et
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Lilith", "trigone"]
 weight: 193
 glyph: "♀△⚸"
 definition: "Vénus trigone Lilith signifie qu’à votre naissance, Vénus se trouvait à environ 120° de la Lune noire Lilith moyenne, en général dans des signes du même élément. Dans un thème, ce que vous aimez et votre part indomptée s’entendent : être pleinement vous-même dans une relation vous semble naturel. J’y lis une liberté naturelle en amour, à utiliser exprès."

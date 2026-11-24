@@ -6,6 +6,8 @@ description: "Les signes de terre en astrologie : Taureau, Vierge et Capricorne
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signes"]
+tags: ["signes du zodiaque"]
 weight: 31
 glyph: "♉♍♑"
 definition: "Les signes de terre sont le Taureau, la Vierge et le Capricorne, à 120° les uns des autres. Dans un thème natal, la terre montre où vous vous fiez à ce qui se touche et se construit : la patience, le sens pratique, le soin du corps et de ce qui dure. En terre, une planète veut des preuves."

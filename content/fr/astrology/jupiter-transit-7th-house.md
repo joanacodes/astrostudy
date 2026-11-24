@@ -6,6 +6,8 @@ description: "Jupiter en transit en maison 7 : un an environ où partenaires et
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Jupiter", "maison 7", "transits"]
 weight: 7
 glyph: "♃"
 definition: "Jupiter en transit en maison 7 commence quand Jupiter, en avançant dans le ciel, atteint votre descendant, et dure un an environ, le temps de traverser votre maison des partenaires. Ce passage met en avant la façon dont votre thème rencontre déjà les autres en tête-à-tête : des personnes qui agrandissent votre monde, des accords qui demandent de l’équité."

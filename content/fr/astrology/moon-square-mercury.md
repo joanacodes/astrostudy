@@ -6,6 +6,8 @@ description: "Lune carré Mercure dans un thème natal : la tête et le cœur �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Mercure", "carré"]
 weight: 55
 glyph: "☽□☿"
 definition: "Lune carré Mercure, c’est une naissance avec la Lune et Mercure à environ 90° d’écart, en général près d’un quartier de lune. Dans le thème, sentir et penser se tiennent à angle droit : ce que vous ressentez et ce que vous concluez demandent sans cesse à être accordés. J’y lis une friction qui affine l’esprit, jamais un esprit en guerre."

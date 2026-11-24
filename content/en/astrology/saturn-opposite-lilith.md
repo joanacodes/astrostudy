@@ -5,6 +5,8 @@ description: "Saturn opposite Lilith in a birth chart: the rules you keep and th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Lilith", "opposition"]
 weight: 299
 glyph: "♄☍⚸"
 definition: "Saturn opposite Lilith is Saturn standing about 180° from mean Black Moon Lilith at your birth. In a chart it sets the rules you keep opposite the part of you that refuses them; the two ends often show up in other people first, and the long work of the opposition is recognising both as yours."

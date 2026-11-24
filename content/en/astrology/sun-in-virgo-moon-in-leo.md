@@ -5,6 +5,8 @@ description: "Sun in Virgo, Moon in Leo: a modest Sun and a warm Moon that answe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Virgo", "Moon", "Leo"]
 weight: 65
 glyph: "☉♍☽♌"
 definition: "Sun in Virgo, Moon in Leo sets the Moon in the sign before the Sun’s, which is the Sun’s own sign, as the lunar month comes to an end. The Moon answers to the Sun, and the Sun to Mercury. I read it as a discreet worker with a warm heart that needs, now and then, to be seen."

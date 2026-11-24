@@ -5,6 +5,8 @@ description: "Moon opposite Saturn in synastry: one person holds the need, the o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Saturn", "opposition", "synastry"]
 weight: 85
 glyph: "☽☍♄"
 definition: "Moon opposite Saturn in synastry means one person’s Saturn faces the other’s Moon from about 180° away, within 8°. Usually the needs and feelings gather on one side, the limits and plans on the other. To me it’s a seesaw, workable while the roles keep changing hands; I watch for the moment they freeze."

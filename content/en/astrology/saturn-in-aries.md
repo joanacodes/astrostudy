@@ -5,6 +5,8 @@ description: "Saturn in Aries in a birth chart: Saturn in its fall, patience lea
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Aries"]
 weight: 73
 glyph: "♄♈"
 definition: "Saturn in Aries is Saturn in its fall: the planet of structure and patience in the first sign of the zodiac, the one that wants to start now. Everyone born over roughly the same three years shares it — 1937 to 1940, 1967 to 1969, 1996 to 1999. It describes courage built slowly, and learning to act on your own authority."

@@ -6,6 +6,8 @@ description: "Chiron en transit en maison 3 : trois ans environ où une vieille
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Chiron", "maison 3", "transits"]
 weight: 63
 glyph: "⚷"
 definition: "Chiron en transit en maison 3, c’est le séjour de Chiron, trois ans environ à la latitude de Londres, dans votre maison des mots, des apprentissages, de la fratrie et du voisinage. Il touche de vieilles blessures liées au fait de se faire entendre ou comprendre : ce séjour peut en faire un don pour expliquer."

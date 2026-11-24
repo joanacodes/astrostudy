@@ -6,6 +6,8 @@ description: "Soleil en Verseau, Lune en Balance : un trigone d’air après la
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Verseau", "Lune", "Balance"]
 weight: 127
 glyph: "☉♒☽♎"
 definition: "Soleil en Verseau, Lune en Balance place les deux luminaires en air, la Balance quatre signes avant le Verseau, dans la semaine qui suit une pleine lune. Saturne, ancien maître du Verseau, a son exaltation en Balance. Je vois là un moi fondé sur des principes valables pour tous, et des besoins qui demandent un échange juste avec une personne."

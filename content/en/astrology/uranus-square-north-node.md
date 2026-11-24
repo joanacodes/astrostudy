@@ -5,6 +5,8 @@ description: "Uranus square North Node in a birth chart: change cutting across t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "North Node", "square"]
 weight: 327
 glyph: "♅□☊"
 definition: "Uranus square North Node means Uranus stood about 90° from the North Node at your birth, and so from the South Node too, across the path between them. In a chart, change cuts across the line from the familiar to the new, and growth asks to include your independence. I read it as friction to work with, not a detour."

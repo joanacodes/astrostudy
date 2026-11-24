@@ -6,6 +6,8 @@ description: "Soleil en Cancer, Lune en Cancer : les deux luminaires dans le si
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Cancer", "Lune"]
 weight: 40
 glyph: "☉♋☽♋"
 definition: "Soleil en Cancer, Lune en Cancer place les deux luminaires dans le signe propre de la Lune, près d’une nouvelle lune : la Lune gouverne donc le signe du Soleil et le sien. J’y lis une même marée qui monte deux fois : un moi qui vit pour appartenir et protéger, des besoins qui veulent un foyer, des proches, la continuité."

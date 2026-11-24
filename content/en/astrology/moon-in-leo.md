@@ -5,6 +5,8 @@ description: "Moon in Leo in a birth chart: a need for warmth and to be seen by 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Leo"]
 weight: 17
 glyph: "☽♌"
 definition: "Moon in Leo means the Moon was in Leo, the Sun’s sign, when you were born. I read it as a need for warmth, play and appreciation from the people who matter, a generous and loyal way of loving, and feelings that settle once you know your care has been seen and has landed."

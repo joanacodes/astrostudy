@@ -5,6 +5,8 @@ description: "Mars square North Node in a birth chart: effort set across the lin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "North Node", "square"]
 weight: 237
 glyph: "♂□☊"
 definition: "Mars square North Node is a right angle, about 90°, between Mars and the North Node in a birth chart, which squares the South Node too. Your drive sits across the line from the familiar to the less familiar, and keeps being asked which end to serve. Its friction trains you to choose your efforts well."

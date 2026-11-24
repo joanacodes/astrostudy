@@ -5,6 +5,8 @@ description: "Sun opposite Saturn in a birth chart: self-belief tested against a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Saturn", "opposition"]
 weight: 22
 glyph: "☉☍♄"
 definition: "Born with Sun opposite Saturn, you have Saturn about 180° from your Sun, on the far side of the zodiac, and retrograde. In a chart, your self-expression and the weight of structure face each other. I read it as self-belief tested against authority, and earned by learning where your own ground is."

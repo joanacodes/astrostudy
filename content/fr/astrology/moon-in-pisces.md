@@ -6,6 +6,8 @@ description: "Lune en Poissons dans un thème natal : des émotions poreuses et
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Poissons"]
 weight: 24
 glyph: "☽♓"
 definition: "La Lune en Poissons signifie que la Lune se trouvait en Poissons à votre naissance. J’y lis des émotions profondes et poreuses : vous captez les humeurs autour de vous, vous répondez avec compassion et imagination, et il vous faut du calme ou du temps à l’écart pour retrouver vos propres émotions au milieu de celles des autres."

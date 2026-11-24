@@ -6,6 +6,8 @@ description: "Mercure sextile Lilith dans un thème natal : dire la chose inhab
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Lilith", "sextile"]
 weight: 146
 glyph: "☿⚹⚸"
 definition: "Mercure sextile Lilith donne à votre pensée une ligne facile, à 60°, vers la Lune noire Lilith, lue comme votre part rétive. Dans un thème, la pensée hors norme ou indicible entre dans vos mots quand vous le décidez. J’y lis une franchise bien placée, qui grandit à l’usage."

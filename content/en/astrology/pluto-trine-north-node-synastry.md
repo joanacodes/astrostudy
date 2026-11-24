@@ -5,6 +5,8 @@ description: "Pluto trine North Node in synastry: one person’s depth puts wind
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "North Node", "trine", "synastry"]
 weight: 374
 glyph: "♇△☊"
 definition: "Pluto trine North Node in synastry ties one person’s Pluto by a trine, within 3.4°, to the other’s North Node, and by a sextile to the South Node opposite. One person’s capacity for renewal carries the other’s growth along, while old strengths stay within reach. I read it as support; the walking stays the other’s."

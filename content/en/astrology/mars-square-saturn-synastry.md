@@ -5,6 +5,8 @@ description: "Mars square Saturn in synastry: one person’s readiness to act me
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Saturn", "square", "synastry"]
 weight: 218
 glyph: "♂□♄"
 definition: "Mars square Saturn in synastry means one person’s Mars is about 90° from the other’s Saturn, within 5.1°, usually in signs of one modality. One person’s readiness to act keeps meeting the other’s caution and standards. I read it as friction that teaches timing and strategy, never as proof that either is in the way."

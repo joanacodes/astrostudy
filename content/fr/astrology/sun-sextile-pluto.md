@@ -6,6 +6,8 @@ description: "Soleil sextile Pluton dans un thème natal : une force tranquille
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Pluton", "sextile"]
 weight: 34
 glyph: "☉⚹♇"
 definition: "Soleil sextile Pluton signifie qu’à votre naissance, Pluton se trouvait à environ 60° de votre Soleil. Dans un thème, ce sextile donne à votre sens du but un accès à la profondeur et au renouveau : quand quelque chose se termine, vous savez recommencer. J’y lis une force tranquille, qui donne le meilleur quand vous choisissez de vous en servir."

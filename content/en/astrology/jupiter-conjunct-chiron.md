@@ -5,6 +5,8 @@ description: "Jupiter conjunct Chiron in a birth chart: meaning found at the ten
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Chiron", "conjunction"]
 weight: 260
 glyph: "♃☌⚷"
 definition: "Jupiter conjunct Chiron is a meeting of Jupiter and Chiron within a few degrees, which came five times between 1944 and 2009, at uneven intervals. In a chart it joins the search for meaning to the tender spot you keep circling, so understanding grows where it hurts. Everyone born during a meeting shares it."

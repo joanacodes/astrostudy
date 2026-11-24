@@ -6,6 +6,8 @@ description: "Mercure trigone Lilith en synastrie : une parole franche, sans co
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Lilith", "trigone", "synastrie"]
 weight: 159
 glyph: "☿△⚸"
 definition: "Mercure trigone Lilith en synastrie signifie que Mercure, chez une personne, se trouve à environ 120° de la Lilith de l’autre, à 5,1° près, souvent dans un même élément. L’écoute de l’une permet à l’autre de dire ce qu’elle retient d’habitude, sans craindre la désapprobation. J’y lis une franchise facile, qui demande encore de la douceur."

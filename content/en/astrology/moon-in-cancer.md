@@ -5,6 +5,8 @@ description: "Moon in Cancer in a birth chart: the Moon in its own sign, cardina
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Cancer"]
 weight: 16
 glyph: "☽♋"
 definition: "Moon in Cancer means the Moon was in Cancer, the sign it rules, when you were born; tradition calls this its domicile. I read it as deep feelings with a long memory, a need for a safe place to come back to, and a way of caring that takes the first step to protect."

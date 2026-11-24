@@ -5,6 +5,8 @@ description: "Jupiter trine Neptune in a birth chart: meaning and imagination in
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Neptune", "trine"]
 weight: 253
 glyph: "♃△♆"
 definition: "Jupiter trine Neptune means Jupiter and Neptune about 120° apart, an angle they make for some months twice every 12 or 13 years. In a chart, the function that builds meaning and the one that imagines beyond limits help each other along. Everyone born in those months shares it; the houses make it personal."

@@ -6,6 +6,8 @@ description: "Mars carré Uranus dans un thème natal : l’élan et l’envie 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Uranus", "carré"]
 weight: 212
 glyph: "♂□♅"
 definition: "Mars carré Uranus place votre élan à angle droit, à environ 90°, de votre besoin d’indépendance et de changement, en général dans des signes d’un même mode. Dans un thème, l’effort y rencontre sans cesse l’envie de rompre et de faire autrement. J’y lis une friction qui change l’agitation en réforme, jamais une agitation sans but."

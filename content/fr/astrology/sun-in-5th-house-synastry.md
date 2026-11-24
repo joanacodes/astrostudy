@@ -6,6 +6,8 @@ description: "Le Soleil de l’autre dans votre maison 5 en synastrie : son él
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 5
 glyph: "☉"
 definition: "Le Soleil de l’autre dans votre maison 5 met son Soleil dans la maison de vos jeux, de vos plaisirs, de votre créativité et de vos amours. En synastrie, son élan éclaire ce que vous faites pour la joie : vous vous amusez et créez davantage à ses côtés, et cette personne se sent appréciée pour ce qu’elle est."

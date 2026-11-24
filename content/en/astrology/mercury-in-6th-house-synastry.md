@@ -5,6 +5,8 @@ description: "Their Mercury in your 6th house in synastry: their practical mind 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "6th house", "synastry", "house overlays"]
 weight: 30
 glyph: "☿"
 definition: "Their Mercury in your 6th house means their practical intelligence goes to work on your working day: tasks, routines, methods, habits. In synastry they tend to notice how your days run and suggest better ways, and working beside them can sharpen your method; Virgo, the 6th’s natural sign, is ruled by Mercury and is also its exaltation."

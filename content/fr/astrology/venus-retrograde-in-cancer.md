@@ -6,6 +6,8 @@ description: "Vénus rétrograde en Cancer : aucune de 2000 à 2040, les rétro
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde", "Cancer"]
 weight: 16
 glyph: "♀℞♋"
 definition: "Vénus rétrograde en Cancer, ce serait Vénus qui semble, depuis la Terre, reculer dans le Cancer pendant six semaines environ ; dans ma liste, de 2000 à 2040, cela n’arrive jamais. J’y lis le soin et l’appartenance réévalués : qui vous donne le sentiment d’être chez vous, ce que vous protégez et pourquoi, dans la maison qu’occupe le Cancer dans votre thème."

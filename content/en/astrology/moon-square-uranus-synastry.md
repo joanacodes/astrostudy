@@ -5,6 +5,8 @@ description: "Moon square Uranus in synastry: one person asks for closeness just
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Uranus", "square", "synastry"]
 weight: 88
 glyph: "☽□♅"
 definition: "Moon square Uranus in synastry means one person’s Uranus is about 90° from the other’s Moon, within 6.8°. One person’s need for the familiar and the other’s need for room tend to peak at the same moment. To me it is friction that can teach two people a security able to move, never proof they are mismatched."

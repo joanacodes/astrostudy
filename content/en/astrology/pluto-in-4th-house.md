@@ -5,6 +5,8 @@ description: "Pluto in the 4th house in a birth chart: deep roots, family storie
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "4th house", "houses"]
 weight: 112
 glyph: "♇"
 definition: "Pluto in the 4th house puts deep change at the root of a chart: home, family, roots and the private self. It describes roots that go deep, a past that carries weight, and a home remade at the turning points. In Placidus this house begins at the Imum Coeli, so it needs the birth time."

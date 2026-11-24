@@ -5,6 +5,8 @@ description: "Uranus trine Lilith in synastry: one person’s freedom and the ot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Lilith", "trine", "synastry"]
 weight: 334
 glyph: "♅△⚸"
 definition: "Uranus trine Lilith in synastry means one chart’s Uranus and the other chart’s Black Moon Lilith are some 120° apart, within 3.4°. One person’s taste for difference and the other’s untamed side encourage each other, so being unedited feels easy. I date it with mean Lilith and read it through the houses, watching what the ease skips."

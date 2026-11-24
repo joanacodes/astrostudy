@@ -6,6 +6,8 @@ description: "Jupiter sextile Lilith en synastrie : le monde élargi de l’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Lilith", "sextile", "synastrie"]
 weight: 277
 glyph: "♃⚹⚸"
 definition: "Jupiter sextile Lilith en synastrie signifie que Jupiter, chez une personne, se trouve à environ 60° de la Lune noire Lilith de l’autre, à 3° près. Les centres d’intérêt et les convictions de l’une offrent à la part indomptée de l’autre des occasions de sortir, sans pousser. J’y lis une invitation, réelle si on l’accepte, à lire par les maisons."

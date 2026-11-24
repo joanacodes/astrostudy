@@ -6,6 +6,8 @@ description: "Soleil trigone Chiron en synastrie : la chaleur d’une personne 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Chiron", "trigone", "synastrie"]
 weight: 49
 glyph: "☉△⚷"
 definition: "Soleil trigone Chiron en synastrie laisse la chaleur d’une personne et le savoir-faire durement acquis de l’autre cohabiter sans peine, Chiron se trouvant à environ 120° du Soleil, à 6,8° près, souvent dans un même élément. Le point sensible est respecté sans cérémonie. J’y lis une bienveillance facile, dont l’histoire mérite d’être dite parfois."

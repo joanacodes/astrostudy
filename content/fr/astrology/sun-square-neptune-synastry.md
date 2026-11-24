@@ -6,6 +6,8 @@ description: "Soleil carré Neptune en synastrie : la direction franche d’une
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Neptune", "carré", "synastrie"]
 weight: 38
 glyph: "☉□♆"
 definition: "Soleil carré Neptune en synastrie place la direction claire d’une personne à angle droit avec les idéaux de l’autre, Neptune formant avec ce Soleil un angle droit, à 6,8° près. Ce que l’une dit simplement, l’autre l’entend à travers son imaginaire. Cette friction rend un idéal plus juste ; elle ne signifie jamais que quelqu’un est trompé."

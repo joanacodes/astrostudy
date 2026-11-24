@@ -6,6 +6,8 @@ description: "Vénus conjonction Jupiter dans un thème natal : les deux béné
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Jupiter", "conjonction"]
 weight: 160
 glyph: "♀☌♃"
 definition: "Vénus conjonction Jupiter signifie qu’à votre naissance, Vénus et Jupiter occupaient presque le même point du ciel, d’ordinaire dans un seul signe. Dans un thème, ce qui compte pour vous et ce qui vous fait grandir s’unissent : goût et générosité s’élargissent ensemble. La tradition y voyait les deux bénéfiques ; j’y lis une abondance qui apprend ce qu’est assez."

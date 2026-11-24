@@ -5,6 +5,8 @@ description: "Uranus trine North Node in a birth chart: change and your directio
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "North Node", "trine"]
 weight: 328
 glyph: "♅△☊"
 definition: "Uranus trine North Node means Uranus stood about 120° from the North Node at your birth, and so 60° from the South Node. In a chart, change and your direction of growth move together: the new arrives with a sense of freedom, and the familiar adapts along the way. Ease isn’t destiny; it still asks for practice."

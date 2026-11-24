@@ -5,6 +5,8 @@ description: "The full moon in Sagittarius, the last before the June solstice, w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "full moon", "Sagittarius"]
 weight: 56
 glyph: "○♐"
 definition: "The full moon in Sagittarius is the Moon in Sagittarius opposite the Sun in Gemini, the last full moon before the June solstice. It lights the Sagittarius–Gemini axis from the side of meaning: beliefs against facts. In a birth chart it counts within about 1° of a planet or angle; as an eclipse, about 3°."

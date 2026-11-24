@@ -5,6 +5,8 @@ description: "Jupiter conjunct Lilith in a birth chart: meaning joined to what y
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Lilith", "conjunction"]
 weight: 265
 glyph: "♃☌⚸"
 definition: "Jupiter conjunct Lilith means Jupiter within a few degrees of Black Moon Lilith, the point where the Moon’s orbit takes it farthest from Earth. In a chart, the part of you that builds meaning meets the part you learned to hide. I read it as a philosophy with something untamed in it, never as a licence or a curse."

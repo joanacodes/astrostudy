@@ -6,6 +6,8 @@ description: "Saturne conjonction Neptune en synastrie : le sens du devoir de l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Neptune", "conjonction", "synastrie"]
 weight: 291
 glyph: "♄☌♆"
 definition: "Saturne conjonction Neptune en synastrie signifie que Saturne, chez une personne, se trouve à moins de 5° de Neptune chez l’autre. Le sens des limites et du devoir de l’une tombe à l’endroit même où l’autre garde un idéal. J’y lis un rêve qui trouve de quoi le bâtir, ou le mesurer : deux époques, lues par les maisons."

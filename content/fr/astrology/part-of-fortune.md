@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Part de Fortune", "part de Fortune"]
 family: "points"
+categories: ["Planètes et points"]
+tags: ["Part de Fortune", "parts arabes"]
 weight: 14
 glyph: "⊗"
 definition: "La Part de Fortune est un point calculé, la plus connue des parts. De jour, elle se trouve aussi loin de l’ascendant que la Lune l’est du Soleil ; de nuit, beaucoup d’astrologues inversent le calcul. La tradition y lit le corps et les circonstances d’une vie, ce qui vous arrive, plutôt que la chance ou l’argent."

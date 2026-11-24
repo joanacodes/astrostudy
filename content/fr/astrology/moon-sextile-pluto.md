@@ -6,6 +6,8 @@ description: "Lune sextile Pluton dans un thème natal : la profondeur et le re
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Pluton", "sextile"]
 weight: 89
 glyph: "☽⚹♇"
 definition: "Lune sextile Pluton signifie que Pluton se trouvait à quelque 60° de votre Lune à la naissance, typiquement à deux signes de distance. Vos émotions et votre capacité de transformation coopèrent : vous pouvez descendre en profondeur quand il le faut, et le retour vous renouvelle. Cette profondeur est là pour qu’on y puise, par choix plutôt que par défaut."

@@ -5,6 +5,8 @@ description: "Venus retrograde in astrology: why Venus turns back every year and
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "dignities"
+categories: ["Planets and points"]
+tags: ["Venus", "retrograde", "Venus retrograde"]
 weight: 6
 glyph: "♀℞"
 definition: "Venus retrograde is the six weeks or so, every 580 to 588 days, when Venus seems to move backwards through the zodiac, seen from Earth, as it passes between us and the Sun. Its retrogrades come back to nearly the same degrees every eight years. I read one as a season for weighing again what you value, and why."

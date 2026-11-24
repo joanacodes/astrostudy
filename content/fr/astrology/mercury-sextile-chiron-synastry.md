@@ -6,6 +6,8 @@ description: "Mercure sextile Chiron en synastrie : une conversation utile entr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Chiron", "sextile", "synastrie"]
 weight: 152
 glyph: "☿⚹⚷"
 definition: "Mercure sextile Chiron en synastrie signifie que Mercure, chez une personne, se trouve à environ 60° de Chiron chez l’autre, à 3,6° près. Les questions de l’une rencontrent ce que l’autre a appris en s’adaptant autour d’une sensibilité, et l’échange devient concret. J’y vois une occasion de transmission dans les deux sens, qui attend qu’on la saisisse."

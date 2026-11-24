@@ -5,6 +5,8 @@ description: "Sun in Taurus, Moon in Aries: a patient self with quick feelings, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Taurus", "Moon", "Aries"]
 weight: 13
 glyph: "☉♉☽♈"
 definition: "Sun in Taurus, Moon in Aries is a birth in the last days before a new moon, the Moon still one sign behind the Sun. I read it as a patient self carrying quick feelings: what you build, you build slowly and keep, while what you feel flares, has its say and is gone."

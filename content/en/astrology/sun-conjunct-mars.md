@@ -5,6 +5,8 @@ description: "Sun conjunct Mars in a birth chart: who you are and how you act fu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Mars", "conjunction"]
 weight: 8
 glyph: "☉☌♂"
 definition: "Sun conjunct Mars means you were born in the weeks when the Sun passes Mars, the two within a few degrees, usually in one sign. In a chart, who you are and how you act work as one: purpose arrives moving. I read it as vitality expressed through effort, whose lesson is that rest doesn't make you less yourself."

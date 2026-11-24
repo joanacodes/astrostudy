@@ -6,6 +6,8 @@ description: "Soleil en Sagittaire, Lune en Vierge : un carré mutable, le maî
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Sagittaire", "Lune", "Vierge"]
 weight: 102
 glyph: "☉♐☽♍"
 definition: "Soleil en Sagittaire, Lune en Vierge met en carré deux signes mutables, le feu et la terre, pour une naissance autour du dernier quartier, trois semaines après la nouvelle lune. Mercure, maître de la Lune, a son exil en Sagittaire, et Jupiter, maître du Soleil, en Vierge. J’y lis une grande conviction aux mains soigneuses, qui se révise."

@@ -6,6 +6,8 @@ description: "Lilith en maison 6 dans un thème natal : le quotidien et le trav
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "maison 6", "maisons"]
 weight: 138
 glyph: "⚸"
 definition: "Lilith en maison 6 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la maison du travail quotidien, des routines et du soin. J’y lis une façon bien à vous de faire les choses ordinaires, tue là où elle n’était pas voulue, et le refus qu’on vous traite en simple aide."

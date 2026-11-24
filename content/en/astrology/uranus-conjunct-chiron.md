@@ -5,6 +5,8 @@ description: "Uranus conjunct Chiron in a birth chart: why no birth of 1930 to 2
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Chiron", "conjunction"]
 weight: 315
 glyph: "♅☌⚷"
 definition: "Uranus conjunct Chiron is a meeting of Uranus and Chiron within a few degrees. No birth between 1930 and 2009 has it, within 6°. In meaning, it would fuse the urge to be different with a tender place, so that inventing your own way around a limit becomes the skill. Its transit still reaches people born then."

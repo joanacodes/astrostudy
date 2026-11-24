@@ -6,6 +6,8 @@ description: "Jupiter en transit en maison 4 : un an environ où foyer, famille
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Jupiter", "maison 4", "transits"]
 weight: 4
 glyph: "♃"
 definition: "Jupiter en transit en maison 4, c’est l’année environ qui suit le passage de Jupiter sur votre Fond du Ciel, la cuspide tout en bas du thème. L’histoire que votre thème raconte déjà du foyer, de la famille et des racines reçoit plus de place, dedans comme dehors, avec un sentiment d’appartenance plus profond."

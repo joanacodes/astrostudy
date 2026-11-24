@@ -5,6 +5,8 @@ description: "Mercury trine Pluto in synastry: one person’s words and the othe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Pluto", "trine", "synastry"]
 weight: 149
 glyph: "☿△♇"
 definition: "Mercury trine Pluto in synastry is a trine of about 120°, within 5.1°, from one person’s Mercury to the other’s Pluto. The Mercury person’s words and the Pluto person’s sense of depth work together easily, so motives are understood without struggle. I read it as insight that comes easily and asks to be used gently."

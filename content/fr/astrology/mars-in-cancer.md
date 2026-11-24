@@ -6,6 +6,8 @@ description: "Mars en Cancer dans un thème natal : Mars en chute, un élan qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Cancer"]
 weight: 52
 glyph: "♂♋"
 definition: "Mars en Cancer, c’est Mars en chute, dans le signe d’eau cardinal de la Lune : la planète de l’action au service de la protection. Vous agissez volontiers pour les personnes et les lieux qui comptent, défendez mieux que vous n’attaquez, et avancez une fois en sécurité. Ce placement revient à environ 1 personne sur 10."

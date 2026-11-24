@@ -6,6 +6,8 @@ description: "Mercure conjonction Saturne en synastrie : les mots de l’une to
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Saturne", "conjonction", "synastrie"]
 weight: 131
 glyph: "☿☌♄"
 definition: "Mercure conjonction Saturne en synastrie signifie que Mercure, chez une personne, touche Saturne, chez l’autre, à 6° près. Ce que la première pense à voix haute tombe là où la seconde veille à ce qui doit tenir : chaque idée est pesée aussitôt dite. J’y lis une parole qui prend du poids, à condition de distinguer songer et promettre."

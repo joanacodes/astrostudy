@@ -6,6 +6,8 @@ description: "Jupiter sextile Pluton dans un thème natal : une porte ouverte e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Pluton", "sextile"]
 weight: 256
 glyph: "♃⚹♇"
 definition: "Jupiter sextile Pluton désigne un écart d’environ 60° entre les deux planètes, atteint deux ans environ avant et après chacune de leurs rencontres. Dans un thème, l’envie d’élargir votre compréhension et celle de la transformer peuvent coopérer, pourvu que vous saisissiez l’occasion. Une classe d’âge le partage ; vos maisons le rendent vôtre."

@@ -6,6 +6,8 @@ description: "Lilith en Scorpion dans un thème natal : une profondeur qu’on 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Scorpion"]
 weight: 140
 glyph: "⚸♏"
 definition: "Lilith en Scorpion signifie qu’à votre naissance, la Lune noire Lilith, le point de l’orbite lunaire le plus éloigné de la Terre, se trouvait dans l’eau fixe du signe de Pluton et, traditionnellement, de Mars. J’y lis une intensité de sentir et de percevoir gardée sous la surface, et un refus du faux-semblant : la vérité, ou presque rien."

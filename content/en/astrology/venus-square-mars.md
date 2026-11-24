@@ -5,6 +5,8 @@ description: "Venus square Mars in a birth chart: liking and pursuing on differe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Mars", "square"]
 weight: 157
 glyph: "♀□♂"
 definition: "Venus square Mars means Venus and Mars stood about 90° apart when you were born, mostly in two signs of one modality. In a chart, liking and pursuing keep different schedules, so you learn to time them. It’s friction that teaches fair asking, as I read it, never a conflict written in."

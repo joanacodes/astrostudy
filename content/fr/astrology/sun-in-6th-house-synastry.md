@@ -6,6 +6,8 @@ description: "Le Soleil de l’autre dans votre maison 6 en synastrie : son él
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 6
 glyph: "☉"
 definition: "Le Soleil de l’autre dans votre maison 6 fait entrer son Soleil dans votre travail quotidien, vos routines et vos habitudes. En synastrie, son élan façonne vos journées ordinaires : le travail et les tâches prennent plus de sens à ses côtés, et cette personne met sa direction à l’œuvre grâce à votre savoir-faire."

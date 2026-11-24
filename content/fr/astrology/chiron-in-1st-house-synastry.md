@@ -6,6 +6,8 @@ description: "Chiron de l’autre dans votre maison 1 en synastrie : sa vieille
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 121
 glyph: "⚷"
 definition: "Chiron de l’autre dans votre maison 1 désigne son Chiron posé dans la maison de votre allure, votre corps, vos débuts. En synastrie, sa vieille blessure et ce qu’elle lui a appris rencontrent votre façon d’arriver : cette personne vous met à l’aise sur votre manière de paraître, et votre présence effleure un de ses points sensibles."

@@ -5,6 +5,8 @@ description: "Lilith trine North Node in a birth chart: becoming more yourself a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "North Node", "trine"]
 weight: 378
 glyph: "⚸△☊"
 definition: "Lilith trine North Node is a 120° angle between the mean Black Moon Lilith and the North Node at birth, with Lilith 60° from the South Node. In a chart, the untamed part of you and your direction of growth run the same way: becoming more yourself and becoming more capable tend to be one movement."

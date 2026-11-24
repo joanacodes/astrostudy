@@ -6,6 +6,8 @@ description: "La Lune progressée en Vierge : deux ans ou un peu plus à trouve
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "Lune progressée", "progressions", "Vierge"]
 weight: 6
 glyph: "☽♍"
 definition: "La Lune progressée en Vierge décrit les deux ans, ou un peu plus, pendant lesquels la Lune de vos progressions secondaires traverse la Vierge, signe de terre gouverné par Mercure. J’y lis un chapitre pratique : des besoins comblés en se rendant utile, en mettant de l’ordre et en affinant vos journées, un soin qui se montre dans les actes."

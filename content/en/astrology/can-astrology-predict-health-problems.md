@@ -5,6 +5,8 @@ description: "Can astrology predict health problems? No: a chart can’t see ins
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Readings"]
+tags: ["limits of astrology"]
 weight: 57
 glyph: "✦"
 definition: "No. A birth chart can’t diagnose an illness, foresee one or tell you how healthy you will be, and no transit can make you ill. Astrology once tried, and some still do; I don’t read health at all. A chart can describe how you tend to look after yourself. Symptoms and worries about your health belong with a doctor."

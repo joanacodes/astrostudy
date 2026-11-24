@@ -6,6 +6,8 @@ description: "Vénus opposition Mars en synastrie : une façon de choisir face 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Mars", "opposition", "synastrie"]
 weight: 170
 glyph: "♀☍♂"
 definition: "Vénus opposition Mars en synastrie signifie que Vénus, chez une personne, se trouve à environ 180° de Mars chez l’autre, à 6° près. La façon de choisir de l’une fait face à l’élan de l’autre, et chacune voit chez l’autre ce qu’elle ne fait pas. J’y lis l’attrait de deux styles complémentaires, qui marche quand les rôles s’échangent."

@@ -5,6 +5,8 @@ description: "Moon opposite Pluto in a birth chart: your need for safety facing 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Pluto", "opposition"]
 weight: 92
 glyph: "☽☍♇"
 definition: "Moon opposite Pluto means you were born with Pluto facing your Moon from the far side of the zodiac, about 180° away. It sets your need for safety across from the urge to transform, two ends of one axis often met through intense relationships. I read it as learning to share power in closeness, not as a fated struggle."

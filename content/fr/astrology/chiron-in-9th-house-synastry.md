@@ -6,6 +6,8 @@ description: "Chiron de l’autre dans votre maison 9 en synastrie : une vieill
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "maison 9", "synastrie", "superpositions de maisons"]
 weight: 129
 glyph: "⚷"
 definition: "Chiron de l’autre dans votre maison 9 envoie son Chiron jusqu’à votre horizon lointain : convictions, études supérieures, longs voyages, quête de sens. En synastrie, le sens que cette personne a tiré d’une vieille blessure rencontre vos propres questions : elle enseigne sans prêcher, et vos convictions ou vos voyages peuvent toucher en elle quelque chose de tendre."

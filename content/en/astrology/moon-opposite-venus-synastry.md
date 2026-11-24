@@ -5,6 +5,8 @@ description: "Moon opposite Venus in synastry: one person’s needs face the oth
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Venus", "opposition", "synastry"]
 weight: 70
 glyph: "☽☍♀"
 definition: "Moon opposite Venus in synastry sets the Moon of one person across the chart from the Venus of the other, within 8°. Needs on one side face affection and taste on the other, and each has something the other lacks. I read it as a pull between opposites that asks for balance, never as a mismatch."

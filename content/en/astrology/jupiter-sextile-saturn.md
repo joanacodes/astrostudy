@@ -5,6 +5,8 @@ description: "Jupiter sextile Saturn in a birth chart: growth and structure coop
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Saturn", "sextile"]
 weight: 241
 glyph: "♃⚹♄"
 definition: "Jupiter sextile Saturn is a 60° angle between the two planets, and it is shared by everyone born in the same few months. In a chart it gives growth and structure a working link: you can spot an opening and give it a shape. I read it as practical judgement that grows when you use it, never as luck."

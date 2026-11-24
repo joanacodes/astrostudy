@@ -6,6 +6,8 @@ description: "Soleil carré Neptune dans un thème natal : un moi qui veut êtr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Neptune", "carré"]
 weight: 30
 glyph: "☉□♆"
 definition: "Soleil carré Neptune signifie qu’à votre naissance, Neptune se trouvait à un quart de zodiaque de votre Soleil, environ 90°. Dans un thème, ce carré met votre besoin d’un contour net face à l’appel de l’idéal et de l’illimité. J’y lis une friction qui apprend, lentement, à donner une forme à un rêve, jamais un moi introuvable."

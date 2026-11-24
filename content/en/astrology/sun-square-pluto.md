@@ -5,6 +5,8 @@ description: "Sun square Pluto in a birth chart: strength you claim rather than 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pluto", "square"]
 weight: 35
 glyph: "☉□♇"
 definition: "Sun square Pluto means you were born with Pluto at right angles to the Sun, about 90° away. In a chart it sets your sense of who you are against a pressure to change at the root, so strength is claimed rather than handed over. I read it as friction that builds authority over your own life, never as punishment."

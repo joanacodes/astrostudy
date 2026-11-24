@@ -6,6 +6,8 @@ description: "Lune trigone Saturne en synastrie : la constance de l’une et le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Saturne", "trigone", "synastrie"]
 weight: 84
 glyph: "☽△♄"
 definition: "Lune trigone Saturne en synastrie : Saturne d’une personne à environ 120° de la Lune de l’autre, à 6,8° près, souvent entre signes du même élément. La constance de l’une convient aux besoins de l’autre, et le soin s’installe dans des habitudes fiables. J’y lis un contact calme et durable, à condition de veiller sur la personne stable."

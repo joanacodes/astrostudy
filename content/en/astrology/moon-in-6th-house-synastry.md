@@ -5,6 +5,8 @@ description: "Their Moon in your 6th house in synastry: their feelings in your r
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "6th house", "synastry", "house overlays"]
 weight: 18
 glyph: "☽"
 definition: "Their Moon in your 6th house brings the other person’s feelings and needs into your daily routines, work and habits. In synastry the rhythm of your days steadies them, and care between you shows in practical ways; it describes everyday comfort, never anything about your health."

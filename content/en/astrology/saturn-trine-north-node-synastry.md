@@ -5,6 +5,8 @@ description: "Saturn trine North Node in synastry: one person’s steadiness flo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "North Node", "trine", "synastry"]
 weight: 314
 glyph: "♄△☊"
 definition: "Saturn trine North Node in synastry links one person’s Saturn to the other’s North Node by about 120°, within 4.25°, and to their South Node by a sextile. The steadiness of one flows into what the other is learning without pressing on what they already know. I read it as easy support that still has to be used."

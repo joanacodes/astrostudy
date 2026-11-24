@@ -6,6 +6,8 @@ description: "Vénus en Lion dans un thème natal : une affection généreuse e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Lion"]
 weight: 41
 glyph: "♀♌"
 definition: "Vénus en Lion, c’est Vénus dans le feu fixe, le signe gouverné par le Soleil, qui n’est jamais loin d’elle dans le ciel. On y lit une affection donnée ouvertement et généreusement, un goût pour la chaleur, le jeu et les occasions, et une façon d’aimer loyale, qui veut voir ses cadeaux reçus, et rendus, avec plaisir."

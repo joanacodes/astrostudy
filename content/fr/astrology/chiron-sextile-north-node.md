@@ -6,6 +6,8 @@ description: "Chiron sextile Nœud Nord dans un thème natal : les savoir-faire
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Nœud Nord", "sextile"]
 weight: 371
 glyph: "⚷⚹☊"
 definition: "Chiron sextile Nœud Nord désigne Chiron à 60° du Nœud Nord dans le thème natal, et donc à 120° du Nœud Sud. Ce que vous avez appris en vivant avec une difficulté s’accorde avec vos forces familières et ouvre un chemin vers la capacité que vous apprenez, à condition de vous en servir."

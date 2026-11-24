@@ -6,6 +6,8 @@ description: "Jupiter sextile Saturne en synastrie : le flair de l’une pour l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Saturne", "sextile", "synastrie"]
 weight: 252
 glyph: "♃⚹♄"
 definition: "Jupiter sextile Saturne en synastrie signifie que Jupiter, chez une personne, se trouve à environ 60° de Saturne chez l’autre, à 3° près. L’une voit où quelque chose pourrait grandir, l’autre comment le faire tenir, et le lien fonctionne dès qu’on s’en sert. Des mois entiers de naissances le partagent ; les maisons le rendent personnel."

@@ -10,7 +10,7 @@ Pages still being written; each batch is committed again, checked, when its writ
 pages go to main.
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_018jKMK9BPQVbgBpXXSDVL8J"
+Claude-Session: https://claude.ai/code/session_01LYuYY9b3F66UY1XDinLm1L"
   for i in 0 2 4 8; do [ $i -gt 0 ] && sleep $i; git push -q -u origin claude/astrostudy-website-tdhyzt 2>&1 && break; done
   [ "$(git status --short content | wc -l)" = "0" ] && break
 done

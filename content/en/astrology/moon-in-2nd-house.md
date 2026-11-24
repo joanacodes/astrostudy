@@ -5,6 +5,8 @@ description: "Moon in the 2nd house in a birth chart: safety tied to having enou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "2nd house", "houses"]
 weight: 14
 glyph: "☽"
 definition: "Moon in the 2nd house means the Moon sat in the house of resources, possessions and self-worth when you were born. I read it as a sense of safety tied to having enough and knowing what you can count on, and a fondness for familiar things. It predicts no money outcome, and it needs the birth time."

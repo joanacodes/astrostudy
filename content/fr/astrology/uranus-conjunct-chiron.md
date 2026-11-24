@@ -6,6 +6,8 @@ description: "Uranus conjonction Chiron dans un thème natal : pourquoi aucune 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Chiron", "conjonction"]
 weight: 315
 glyph: "♅☌⚷"
 definition: "Uranus conjonction Chiron est une rencontre d’Uranus et de Chiron à quelques degrés près. Aucune naissance entre 1930 et 2009 ne l’a, à 6° près. Elle fondrait l’envie de se distinguer avec un point sensible : inventer sa propre façon de contourner une limite deviendrait le savoir-faire. Son transit touche encore les personnes nées ces années-là."

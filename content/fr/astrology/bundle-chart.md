@@ -6,6 +6,8 @@ description: "Le thème en faisceau en astrologie : dix planètes sur un tiers 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["formes de thème"]
 weight: 19
 glyph: "✦"
 definition: "Un thème en faisceau a ses dix planètes serrées sur un tiers de la roue, 120° ou moins, environ quatre signes, et les deux tiers du thème vides. C’est la plus resserrée des sept formes de Marc Edmund Jones. J’y lis une concentration : l’attention rassemblée sur quelques domaines de vie. Il est rare : environ 1 personne sur 56."

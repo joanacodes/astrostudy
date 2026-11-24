@@ -5,6 +5,8 @@ description: "Neptune transiting the 4th house: nearly sixteen years when home b
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "4th house", "transits"]
 weight: 40
 glyph: "♆"
 definition: "Neptune transiting the 4th house opens at your Imum Coeli and, as a rule, spends nearly sixteen years in your house of home, family and roots. It softens what your chart already says about belonging: a longing for refuge, more compassion for where you come from, and boundaries at home that need redrawing."

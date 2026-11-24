@@ -5,6 +5,8 @@ description: "Sun in Cancer, Moon in Virgo: water and earth in a sextile by sign
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Cancer", "Moon", "Virgo"]
 weight: 42
 glyph: "☉♋☽♍"
 definition: "Sun in Cancer, Moon in Virgo sets the Moon in mutable earth, a sextile by sign from the Sun, under the thin crescent of a lunar month’s first week. I read it as care with a method: a self that wants to look after people, and needs that settle once that care is practical, useful and done properly."

@@ -6,6 +6,8 @@ description: "Mars de l’autre dans votre maison 1 en synastrie : son élan qu
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 49
 glyph: "♂"
 definition: "Mars de l’autre dans votre maison 1 signifie que Mars, chez cette personne, tombe sur le devant de votre thème : votre allure, votre corps, vos premiers gestes. En synastrie, vous agissez plus vite et plus hardiment à ses côtés, et l’autre trouve en vous quelqu’un à stimuler, ou avec qui faire la course ; l’élan circule dans les deux sens."

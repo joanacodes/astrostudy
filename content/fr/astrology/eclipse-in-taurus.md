@@ -6,6 +6,8 @@ description: "Les éclipses en Taureau : treize de 2000 à 2040, surtout lunair
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["éclipses", "Taureau"]
 weight: 2
 glyph: "●♉"
 definition: "Les éclipses en Taureau sont les éclipses solaires où le Soleil et la Lune se rejoignent en Taureau, et les éclipses lunaires où la pleine Lune se tient en Taureau, face à un Soleil en Scorpion. Treize tombent de 2000 à 2040. Dans un thème, je n’en lis une qu’à environ trois degrés d’un point natal, comme un accent."

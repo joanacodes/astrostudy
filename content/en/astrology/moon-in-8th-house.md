@@ -5,6 +5,8 @@ description: "Moon in the 8th house in a birth chart: deep, private feelings and
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "8th house", "houses"]
 weight: 20
 glyph: "☽"
 definition: "Moon in the 8th house means the Moon sat in the house of intimacy, trust and what you share with others when you were born. I read it as strong feelings kept private, closeness that has to go deep to feel safe, and a sharp sense of what goes unsaid. It predicts no death, and it needs the birth time."

@@ -5,6 +5,8 @@ description: "Their Jupiter in your 4th house in synastry: their generosity at h
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "4th house", "synastry", "house overlays"]
 weight: 64
 glyph: "♃"
 definition: "Their Jupiter in your 4th house welcomes the other person’s Jupiter into your home, roots and private life, the house whose natural sign, Cancer, exalts Jupiter. In synastry their generosity widens your foundations: home can feel roomier and warmer with them, and they find belonging in your private world; it promises nothing about property."

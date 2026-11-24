@@ -5,6 +5,8 @@ description: "The progressed Moon in Pisces: the last chapter of the round, two 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressed Moon", "progressions", "Pisces"]
 weight: 12
 glyph: "☽♓"
 definition: "The progressed Moon in Pisces closes the progressed Moon’s round of the zodiac: two to two and a half years in which the Moon of your secondary progressions crosses the last sign, ruled by Neptune and Jupiter. I read it as a soft, inward chapter, with needs met through rest, imagination, compassion and letting go."

@@ -6,6 +6,8 @@ description: "Mars opposition Lilith en synastrie : l’élan de l’une fait f
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Lilith", "opposition", "synastrie"]
 weight: 245
 glyph: "♂☍⚸"
 definition: "Mars opposition Lilith en synastrie signifie que Mars, chez une personne, et la Lune noire Lilith moyenne, chez l’autre, sont à 180°, à 6° près. Chacune peut sembler la sauvage aux yeux de l’autre, l’une en poussant ouvertement, l’autre en refusant. J’y vois un magnétisme entre deux sortes de force, qui reste doux tant qu’aucune ne cherche à dompter l’autre."

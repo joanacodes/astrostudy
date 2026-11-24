@@ -5,6 +5,8 @@ description: "Saturn in Taurus in a birth chart: security and self-worth built s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Taurus"]
 weight: 74
 glyph: "♄♉"
 definition: "Saturn in Taurus is long effort in its most patient setting: the structuring planet in fixed earth, the sign Venus rules. People born in roughly 1939–42, 1969–72 or 1998–2001 have it too. Its lessons: security and self-worth learned the long way, and a life built one solid layer at a time."

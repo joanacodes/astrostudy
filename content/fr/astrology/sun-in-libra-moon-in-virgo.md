@@ -6,6 +6,8 @@ description: "Soleil en Balance, Lune en Vierge : deux signes voisins, aux jour
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Balance", "Lune", "Vierge"]
 weight: 78
 glyph: "☉♎☽♍"
 definition: "Soleil en Balance, Lune en Vierge place la Lune un signe derrière le Soleil, aux jours balsamiques qui précèdent une nouvelle lune, avec la chute de Vénus et l’exaltation de Mercure dans le signe de la Lune. J’y lis un moi qui cherche la proportion, avec des besoins qui s’apaisent en triant, en réparant, en soignant les détails."

@@ -6,6 +6,8 @@ description: "Uranus carré Lilith dans un thème natal : l’envie de changeme
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Lilith", "carré"]
 weight: 322
 glyph: "♅□⚸"
 definition: "Uranus carré Lilith signifie qu’à votre naissance, Uranus et la Lune noire Lilith moyenne étaient à environ 90° d’écart. Dans un thème, l’envie de changer et de se distinguer frotte contre la part de vous qui refuse d’être domptée, et cette friction réclame une liberté qui n’a plus besoin de se cacher. C’est un aspect personnel."

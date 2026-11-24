@@ -6,6 +6,8 @@ description: "Neptune en maison 6 dans un thème natal : le travail quotidien c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "maison 6", "maisons"]
 weight: 102
 glyph: "♆"
 definition: "Neptune en maison 6 : à votre naissance, Neptune se trouvait dans la maison du travail quotidien, des routines et du soin du corps. La journée s’y tourne vers le service : un travail vécu comme une dévotion, un don pour aider, des routines qui tiennent si elles ont un sens. La tradition y plaçait la maladie ; je n’en prédis aucune."

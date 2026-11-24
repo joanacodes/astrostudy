@@ -6,6 +6,8 @@ description: "Lune opposition Neptune dans un thème natal : vos propres besoin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Neptune", "opposition"]
 weight: 87
 glyph: "☽☍♆"
 definition: "Lune opposition Neptune signifie qu’à votre naissance, Neptune se tenait de l’autre côté du zodiaque, face à votre Lune, à environ 180°. Cette opposition place vos besoins face à vos idéaux et à votre compassion, deux bouts d’un axe souvent rencontrés à travers les autres. J’y lis un équilibre entre le soin de soi et le soin au-delà de soi."

@@ -5,6 +5,8 @@ description: "Jupiter square Saturn in synastry: one person’s larger hopes aga
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Saturn", "square", "synastry"]
 weight: 253
 glyph: "♃□♄"
 definition: "Jupiter square Saturn in synastry means one person’s Jupiter is about 90° from the other’s Saturn, within 4.25°. One person’s urge to expand keeps meeting the other’s insistence on solid ground. I read it as friction that tests plans from both sides, shared by whole birth years, never as a sign that two people can’t work together."

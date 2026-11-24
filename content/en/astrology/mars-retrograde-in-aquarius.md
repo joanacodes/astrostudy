@@ -5,6 +5,8 @@ description: "Mars retrograde in Aquarius: one loop in forty years, summer 2018,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mars", "retrograde", "Mars retrograde", "Aquarius"]
 weight: 35
 glyph: "♂℞♒"
 definition: "Mars retrograde in Aquarius is Mars, seen from Earth, backing through Aquarius: only once between 2000 and 2040, from June to August 2018, from 9°13′ Aquarius back into Capricorn. I read it as drive spent on ideas, groups and causes turning back for a review, in the house Aquarius occupies in your chart."

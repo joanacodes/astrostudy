@@ -6,6 +6,8 @@ description: "Mars conjonction Nœud Nord en synastrie : l’élan de l’une t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Nœud Nord", "conjonction", "synastrie"]
 weight: 246
 glyph: "♂☌☊"
 definition: "Mars conjonction Nœud Nord en synastrie signifie que Mars, chez une personne, rejoint à 6° près le Nœud Nord de l’autre, et fait donc face à son Nœud Sud. L’élan de l’une arrive au bord où l’autre est encore en apprentissage. J’y lis une poussée vers la croissance qui marche le mieux quand celle qui grandit en choisit la vitesse."

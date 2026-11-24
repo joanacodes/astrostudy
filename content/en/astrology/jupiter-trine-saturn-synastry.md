@@ -5,6 +5,8 @@ description: "Jupiter trine Saturn in synastry: one person’s understanding and
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Saturn", "trine", "synastry"]
 weight: 254
 glyph: "♃△♄"
 definition: "Jupiter trine Saturn in synastry means one person’s Jupiter is about 120° from the other’s Saturn, within 4.25°. What one understands and what the other can sustain fit together easily, which suits planning and mentoring. Birth years hand it out, and I read it in the houses, not as a personal bond."

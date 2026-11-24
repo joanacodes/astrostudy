@@ -6,6 +6,8 @@ description: "Préparer une synastrie à deux : prévenir l’autre personne, r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Lectures"]
+tags: ["synastrie", "lectures"]
 weight: 29
 glyph: "✦"
 definition: "Préparer une synastrie à deux, c’est la faire avec l’autre personne plutôt qu’à son sujet : elle est au courant avant que ses données de naissance soient envoyées, les deux personnes sont majeures, les deux heures de naissance sont retrouvées, et vous choisissez ensemble le lien et les questions. Entre collègues, il faut en plus son accord."

@@ -6,6 +6,8 @@ description: "Mars conjonction Lilith dans un thème natal : l’élan fondu av
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Lilith", "conjonction"]
 weight: 230
 glyph: "♂☌⚸"
 definition: "Mars conjonction Lilith, c’est un thème natal où Mars se tient tout près de la Lune noire Lilith. Votre élan et votre part indomptée agissent alors comme une seule force : vous agissez selon vos propres règles, sans guère demander la permission. J’y lis une force à reprendre et à diriger, jamais un tempérament à surveiller ni un avertissement."

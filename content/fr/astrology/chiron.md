@@ -6,6 +6,8 @@ description: "Chiron en astrologie : le guérisseur blessé dans un thème nata
 date: 2026-10-24
 reviewed: 2026-10-29
 family: "bodies"
+categories: ["Planètes et points"]
+tags: ["Chiron"]
 weight: 11
 glyph: "⚷"
 definition: "Chiron est un petit corps glacé qui tourne entre Saturne et Uranus, nommé d’après le centaure guérisseur qui ne put soigner sa propre blessure. Dans un thème natal, il désigne la blessure autour de laquelle on tourne — et, souvent, là où l’on sait le mieux prendre soin des autres. Il revient à sa place vers 50 ans."

@@ -6,6 +6,8 @@ description: "Le Sagittaire en astrologie : l’archer, gouverné par Jupiter. 
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signes"]
+tags: ["Sagittaire"]
 weight: 9
 glyph: "♐"
 definition: "Le Sagittaire est le neuvième signe du zodiaque, un signe de feu mutable gouverné par Jupiter ; le Soleil le traverse environ du 22 novembre au 21 décembre. Dans un thème natal, il montre où vous cherchez du sens, de la liberté et un horizon plus large — le domaine où vous voulez explorer, apprendre et croire."

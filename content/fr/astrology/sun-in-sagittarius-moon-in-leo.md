@@ -6,6 +6,8 @@ description: "Soleil en Sagittaire, Lune en Lion : deux feux en trigone, la Lun
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Sagittaire", "Lune", "Lion"]
 weight: 101
 glyph: "☉♐☽♌"
 definition: "Soleil en Sagittaire, Lune en Lion désigne une naissance où la Lune était huit signes devant le Soleil, en Lion, sous une Lune disséminante, environ trois semaines après la nouvelle lune. Les deux luminaires sont en feu, et le Soleil gouverne le signe de la Lune. J’y lis une conviction à la voix chaleureuse, qui veut un public de confiance."

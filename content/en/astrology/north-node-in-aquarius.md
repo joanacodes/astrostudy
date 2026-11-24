@@ -5,6 +5,8 @@ description: "North Node in Aquarius in a birth chart: putting your gifts into s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "Aquarius"]
 weight: 155
 glyph: "☊♒"
 definition: "North Node in Aquarius means the North Node, where the Moon’s path climbs north across the Sun’s, was in fixed air at your birth, with the South Node in Leo. I read it as growth towards the group: friendship, shared aims and talents put to work for more than yourself, after a long habit of taking centre stage."

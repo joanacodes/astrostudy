@@ -6,6 +6,8 @@ description: "Vénus rétrograde en Lion : six semaines d’été tous les huit
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde", "Lion"]
 weight: 17
 glyph: "♀℞♌"
 definition: "Vénus rétrograde en Lion, c’est le rendez-vous d’été que Vénus fixe tous les huit ans : vue de la Terre, elle semble reculer dans le Lion six semaines environ, de fin juillet à début septembre. J’y lis la chaleur et la générosité tournées vers l’intérieur, votre façon d’aimer et votre fierté, dans la maison qu’occupe le Lion dans votre thème."

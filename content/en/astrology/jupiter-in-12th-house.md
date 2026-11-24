@@ -5,6 +5,8 @@ description: "Jupiter in the 12th house in a birth chart: growth in private, thr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "12th house", "houses"]
 weight: 72
 glyph: "♃"
 definition: "Jupiter in the 12th house means Jupiter had risen not long before your birth, in the house of what happens out of sight. I read it as growth in private: solitude and quiet that teach you, beliefs held deeply and rarely voiced, and generosity given behind the scenes. It predicts nothing about confinement, and it needs an accurate birth time."

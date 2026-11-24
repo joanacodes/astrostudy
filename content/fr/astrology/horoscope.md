@@ -6,6 +6,8 @@ description: "L’horoscope : du degré ascendant au thème natal, puis à la r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: ["horoscopes"]
 weight: 9
 glyph: "✦"
 definition: "L’horoscope désignait d’abord le degré ascendant d’un thème, puis le thème entier. Aujourd’hui, le mot désigne surtout une prévision par signe solaire : un court paragraphe pour toutes les personnes nées avec le Soleil dans un même signe, écrit d’après le ciel du moment. Il s’adresse à un douzième de tout le monde, quand une lecture s’adresse à une personne."

@@ -6,6 +6,8 @@ description: "Jupiter de l’autre dans votre maison 10 en synastrie : sa gén�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "maison 10", "synastrie", "superpositions de maisons"]
 weight: 70
 glyph: "♃"
 definition: "Jupiter de l’autre dans votre maison 10 place Jupiter, chez cette personne, dans votre maison de la carrière, des responsabilités et de la place publique. En synastrie, sa générosité rencontre vos ambitions : l’autre croit en votre travail et ouvre des portes, et votre chemin donne une cause à sa générosité. Il s’agit de soutien et de croissance, sans réussite promise."

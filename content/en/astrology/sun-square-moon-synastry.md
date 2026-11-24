@@ -5,6 +5,8 @@ description: "Sun square Moon in synastry: what one person aims for and what the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Moon", "square", "synastry"]
 weight: 3
 glyph: "☉□☽"
 definition: "Sun square Moon in synastry means one person’s Sun is about 90° from the other’s Moon, within 6.8°. What one of them is aiming for and the other’s need for comfort keep asking for the same moments. I read it as friction that teaches two people each other’s timing, never as a mismatch or anyone’s fault."

@@ -6,6 +6,8 @@ description: "Neptune carré Chiron dans un thème natal : l’espoir face à u
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Chiron", "carré"]
 weight: 337
 glyph: "♆□⚷"
 definition: "Neptune carré Chiron, ce sont Neptune et Chiron à environ 90° d’écart, un angle venu en trois groupes d’années dans le décompte : 1933–38, 1953–56 et 1996–97. Dans un thème, ce carré oppose l’envie qu’une difficulté se dissolve au lent travail de s’y adapter, une friction qui rend l’espoir concret."

@@ -6,6 +6,8 @@ description: "Mercure rétrograde en Gémeaux, son propre signe : à peine 9° 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "Gémeaux"]
 weight: 3
 glyph: "☿℞♊"
 definition: "Mercure rétrograde en Gémeaux, c’est la période d’environ 24 jours, entre début mai et début juillet, où Mercure semble, depuis la Terre, reculer dans son propre signe. Comme les Gémeaux sont le signe de Mercure, j’y lis le travail même de la planète qui revient sur ses pas, dans la maison qu’occupent les Gémeaux dans votre thème."

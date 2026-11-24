@@ -5,6 +5,8 @@ description: "Unaspected planets in astrology: a planet with no major aspect to 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 30
 glyph: "✦"
 definition: "An unaspected planet makes none of the five major aspects, conjunction, sextile, square, trine or opposition, to any other planet in the chart. Whether a planet counts as unaspected depends on the orbs an astrologer allows. It describes a function that works on its own track, not one that’s missing or broken."

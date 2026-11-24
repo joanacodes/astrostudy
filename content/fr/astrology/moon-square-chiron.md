@@ -6,6 +6,8 @@ description: "Lune carré Chiron dans un thème natal : votre besoin de réconf
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Chiron", "carré"]
 weight: 95
 glyph: "☽□⚷"
 definition: "Lune carré Chiron signifie que Chiron se trouvait à un quart de cercle, environ 90°, de votre Lune à la naissance. Ce carré oppose votre besoin de réconfort à une sensibilité durable : les moments où vous avez le plus besoin de soin peuvent être ceux qui la touchent. J’y lis une friction qui apprend à demander un soutien mesuré."

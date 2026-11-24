@@ -5,6 +5,8 @@ description: "Moon in Scorpio in a birth chart: the Moon’s fall, read gently. 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Scorpio"]
 weight: 20
 glyph: "☽♏"
 definition: "Moon in Scorpio means the Moon was in Scorpio at your birth, the sign tradition calls its fall. I read it as deep feelings kept private and held for a long time, trust that comes slowly and then completely, and a need for honesty in the few bonds that matter most."

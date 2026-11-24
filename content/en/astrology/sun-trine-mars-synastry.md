@@ -5,6 +5,8 @@ description: "Sun trine Mars in synastry: one person’s energy runs with the ot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Mars", "trine", "synastry"]
 weight: 19
 glyph: "☉△♂"
 definition: "Sun trine Mars in synastry means one person’s Mars is about 120° from the other’s Sun, within 6.8°, usually in signs of one element. One person’s effort runs in the direction the other is already going. I read it as momentum two people share, at its best when they also stop to check where it’s taking them."

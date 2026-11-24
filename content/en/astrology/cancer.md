@@ -5,6 +5,8 @@ description: "Cancer in astrology: the cardinal water sign ruled by the Moon —
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signs"]
+tags: ["Cancer"]
 weight: 4
 glyph: "♋"
 definition: "Cancer is the fourth sign of the zodiac, a cardinal water sign ruled by the Moon, which the Sun crosses from about 21 June to 22 July. In a birth chart it marks where you care and protect: home, family, memory, the people you call yours. The house it falls in shows where you need to belong."

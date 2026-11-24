@@ -5,6 +5,8 @@ description: "Jupiter trine Neptune in synastry: one person’s sense of meaning
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Neptune", "trine", "synastry"]
 weight: 264
 glyph: "♃△♆"
 definition: "Jupiter trine Neptune in synastry means one person’s Jupiter is about 120° from the other’s Neptune, within 4.25°. Meaning and compassion support each other: beliefs grow kinder, ideals find a direction. I read it in the houses, as two eras whose ideals agree."

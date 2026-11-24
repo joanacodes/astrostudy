@@ -6,6 +6,8 @@ description: "Nœud Nord en transit en maison 12 : environ 16 mois de repos et 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Nœud Nord", "maison 12", "transits"]
 weight: 84
 glyph: "☊"
 definition: "Le Nœud Nord en transit en maison 12, c’est le séjour, seize mois environ en général, où le nœud recule à travers votre maison du repos et de la vie intérieure, à partir de votre ascendant, tandis que le Nœud Sud traverse votre maison 6. Il oriente vers la solitude et le calme, loin de l’agitation, sans annoncer d’enfermement."

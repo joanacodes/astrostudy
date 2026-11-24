@@ -6,6 +6,8 @@ description: "Chiron en Bélier dans un thème natal : un courage qu’il a fal
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Bélier"]
 weight: 121
 glyph: "⚷♈"
 definition: "Chiron en Bélier signifie que Chiron traversait le premier signe du zodiaque à votre naissance : d’avril 1968 à mars 1977, ou d’avril 2018 à avril 2027. Dans un thème, ce placement décrit une adaptation par l’action : trouver le cran de commencer autour d’un point sensible de la confiance, sans attendre que le doute s’en aille."

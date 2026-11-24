@@ -5,6 +5,8 @@ description: "Uranus transiting the 7th house: about seven years of freedom and 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "7th house", "transits"]
 weight: 31
 glyph: "♅"
 definition: "Uranus transiting the 7th house is the planet of freedom at work in your house of partners, usually for about seven years from the day it crosses your Descendant. Your chart’s own way of relating is what it stirs: more independence inside close bonds, terms renegotiated, people who change your idea of partnership. A parting is never what it forecasts."

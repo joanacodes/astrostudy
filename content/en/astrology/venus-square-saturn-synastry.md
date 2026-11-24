@@ -5,6 +5,8 @@ description: "Venus square Saturn in synastry: one person’s “let’s” meet
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Saturn", "square", "synastry"]
 weight: 178
 glyph: "♀□♄"
 definition: "Venus square Saturn in synastry means one person’s Venus is about 90° from the other’s Saturn, within 5.1°. What the first person wants to enjoy or give meets the second’s caution and standards, so the terms of affection get negotiated. I read it as a negotiation between two adults, never as a refusal."

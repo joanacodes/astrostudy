@@ -6,6 +6,8 @@ description: "Mercure en maison 3 dans un thème natal : l’esprit du quotidie
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "maison 3", "maisons"]
 weight: 27
 glyph: "☿"
 definition: "Mercure en maison 3 place la planète de la pensée et de la parole dans la maison du monde proche : échanges quotidiens, écrit, apprentissage, fratrie, voisinage, petits trajets. Son signe naturel, les Gémeaux, est l’un des signes de Mercure. On y lit un esprit affairé et local, qui relie et informe. L’heure de naissance est nécessaire."

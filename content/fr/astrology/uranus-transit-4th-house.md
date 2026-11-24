@@ -6,6 +6,8 @@ description: "Uranus en transit en maison 4 : environ huit ans pour repenser le
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Uranus", "maison 4", "transits"]
 weight: 28
 glyph: "♅"
 definition: "Uranus en transit en maison 4, c’est la période, huit ans environ en général, qui commence quand Uranus franchit votre Fond du Ciel et traverse votre maison du foyer et des racines. Ce transit bouscule ce que votre thème dit déjà de l’appartenance : la vie à la maison repensée, des habitudes de famille vues d’un œil neuf."

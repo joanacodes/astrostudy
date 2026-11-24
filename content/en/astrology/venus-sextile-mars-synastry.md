@@ -5,6 +5,8 @@ description: "Venus sextile Mars in synastry: one person’s taste and the other
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Mars", "sextile", "synastry"]
 weight: 167
 glyph: "♀⚹♂"
 definition: "Venus sextile Mars in synastry means one person’s Venus is about 60° from the other’s Mars, within 3.6°. One person’s preferences and the other’s initiative cooperate: suggestions get taken up, efforts get appreciated. I read it as an easy working warmth, for couples, friends or colleagues, which needs someone to make the first move."

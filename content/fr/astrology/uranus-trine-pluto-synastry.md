@@ -6,6 +6,8 @@ description: "Uranus trigone Pluton en synastrie : réformes d’une générati
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Pluton", "trigone", "synastrie"]
 weight: 324
 glyph: "♅△♇"
 definition: "Uranus trigone Pluton en synastrie relie Uranus d’une personne à Pluton chez l’autre par environ 120°, à 3,4° près. Absent de tous les thèmes de naissance de 1930 à 2009, ce trigone relie pourtant, entre deux thèmes, des personnes nées à des décennies d’écart, le changement et la profondeur au même pas. J’y lis une alliance d’époques."

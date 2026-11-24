@@ -6,6 +6,8 @@ description: "La Balance en astrologie : le signe de la justesse, gouverné par
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signes"]
+tags: ["Balance"]
 weight: 7
 glyph: "♎"
 definition: "La Balance est le septième signe du zodiaque, un signe d’air cardinal gouverné par Vénus ; le Soleil la traverse environ du 23 septembre au 22 octobre. Dans un thème natal, elle montre où vous pesez le pour et le contre, où vous cherchez l’équité, et ce que vous préférez régler à deux plutôt qu’en solitaire."

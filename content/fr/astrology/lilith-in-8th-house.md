@@ -6,6 +6,8 @@ description: "Lilith en maison 8 dans un thème natal : une part de vous qui re
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "maison 8", "maisons"]
 weight: 140
 glyph: "⚸"
 definition: "Lilith en maison 8 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la maison de l’intimité et de la confiance. J’y lis une part de vous qui reste à vous au cœur des liens les plus proches, et le refus qu’on vous possède par l’amour, l’argent ou le besoin."

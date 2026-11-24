@@ -6,6 +6,8 @@ description: "Lilith de l’autre dans votre maison 3 en synastrie : sa franchi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 135
 glyph: "⚸"
 definition: "Lilith de l’autre dans votre maison 3, c’est sa Lune noire Lilith moyenne qui surgit dans vos échanges quotidiens : bavardages, messages, ce que vous apprenez. En synastrie, l’instinct qui refusait chez elle d’être bâillonné rencontre vos mots : vous dites ce qu’on vous a appris à ravaler, et votre façon de parler peut libérer ou provoquer sa franchise."

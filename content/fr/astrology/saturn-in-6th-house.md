@@ -6,6 +6,8 @@ description: "Saturne en maison 6 dans un thème natal : une éthique de travai
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "maison 6", "maisons"]
 weight: 78
 glyph: "♄"
 definition: "Saturne en maison 6, c’est la discipline appliquée à la journée ordinaire : le travail quotidien, les habitudes, les collègues et le soin du corps. On y lit une éthique de travail, de la fiabilité, des exigences élevées, et la leçon que les limites comptent autant que l’effort. La tradition y mettait la maladie ; un thème n’en prédit aucune."

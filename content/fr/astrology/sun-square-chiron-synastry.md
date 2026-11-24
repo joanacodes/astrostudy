@@ -6,6 +6,8 @@ description: "Soleil carré Chiron en synastrie : ce que l’une fait sans effo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Chiron", "carré", "synastrie"]
 weight: 48
 glyph: "☉□⚷"
 definition: "Soleil carré Chiron en synastrie pousse de côté l’expression de soi d’une personne contre le point sensible de l’autre, Chiron se trouvant à environ 90° du Soleil, à 6,8° près. Ce que l’une fait sans effort peut piquer l’autre. Cette friction, à mes yeux, apprend aux deux le terrain sensible, et bâtit du tact et de nouvelles méthodes."

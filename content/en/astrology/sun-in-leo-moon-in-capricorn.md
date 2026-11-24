@@ -5,6 +5,8 @@ description: "Sun in Leo, Moon in Capricorn: a quincunx by sign, the Sun in its 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo", "Moon", "Capricorn"]
 weight: 58
 glyph: "☉♌☽♑"
 definition: "Sun in Leo, Moon in Capricorn links fixed fire and cardinal earth by a quincunx, under a gibbous Moon a few days before full. The Sun is at home, the Moon in its detriment. I read it as a big heart with a strong sense of duty, learning to let the heart off duty now and then."

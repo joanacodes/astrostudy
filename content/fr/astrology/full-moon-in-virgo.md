@@ -6,6 +6,8 @@ description: "La pleine lune en Vierge, le Soleil en Poissons : le détail face
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "pleine lune", "Vierge"]
 weight: 53
 glyph: "○♍"
 definition: "La pleine lune en Vierge, c’est la Lune en Vierge face au Soleil en Poissons, la dernière pleine lune avant l’équinoxe de mars. Elle éclaire l’axe Vierge–Poissons : l’ordre et le lâcher-prise, le détail et l’ensemble. Dans un thème, elle compte à 1° environ d’un point natal, à l’un ou l’autre bout ; à 3° pour une éclipse."

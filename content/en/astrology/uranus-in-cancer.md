@@ -5,6 +5,8 @@ description: "Uranus in Cancer in a birth chart: a new idea of home, for those b
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Cancer"]
 weight: 88
 glyph: "♅♋"
 definition: "Uranus in Cancer is the planet of change in a cardinal water sign ruled by the Moon, the sign of home, care and belonging. Everyone born from August 1948 to June 1956 has it, as will those born from August 2032 to May 2040. I read it as a generation’s new idea of home; the house tells you where."

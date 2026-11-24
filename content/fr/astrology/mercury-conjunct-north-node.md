@@ -6,6 +6,8 @@ description: "Mercure conjonction Nœud Nord dans un thème natal : grandir en 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Nœud Nord", "conjonction"]
 weight: 150
 glyph: "☿☌☊"
 definition: "Mercure conjonction Nœud Nord place Mercure sur le point où la route de la Lune croise celle du Soleil en montant vers le nord, lu comme la direction dans laquelle vous grandissez. Dans un thème, la croissance passe par la pensée, l’apprentissage et la parole, de façons moins familières. J’y lis une direction à pratiquer, jamais un destin."

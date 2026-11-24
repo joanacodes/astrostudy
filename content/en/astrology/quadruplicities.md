@@ -5,6 +5,8 @@ description: "Quadruplicities in astrology: the cardinal, fixed and mutable cros
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 19
 glyph: "♈♋♎♑"
 definition: "A quadruplicity is a group of four signs of the same modality, 90° apart, forming a cross in the zodiac: the cardinal, fixed and mutable crosses. Planets in one cross tend to make squares and oppositions, the zodiac’s hardest aspects, which build T-squares and grand crosses. I read their friction as development, never as doom."

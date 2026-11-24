@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["synastry aspects", "synastry aspect"]
 family: "techniques"
+categories: ["Synastry"]
+tags: ["synastry"]
 weight: 54
 glyph: "✦"
 definition: "A synastry aspect is an angle between a planet in one person’s chart and a planet in another’s: one person’s Sun square the other’s Moon. It relates two functions carried by two people, read from both sides. With the orbs I use, many are common, some can exist only between two people, and none decides a relationship."

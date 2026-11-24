@@ -5,6 +5,8 @@ description: "Chiron sextile North Node in a birth chart: skills learned around 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "North Node", "sextile"]
 weight: 371
 glyph: "⚷⚹☊"
 definition: "Chiron sextile North Node is a 60° angle between Chiron and the North Node at birth, with Chiron also 120° from the South Node. In a chart, what you learned by living around a difficulty sits easily with your familiar strengths and opens a way towards the capacity you are learning, as long as you use it."

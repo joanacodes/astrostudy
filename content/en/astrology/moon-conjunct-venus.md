@@ -5,6 +5,8 @@ description: "Moon conjunct Venus in a birth chart: comfort and pleasure in one 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Venus", "conjunction"]
 weight: 58
 glyph: "☽☌♀"
 definition: "Moon conjunct Venus is a meeting of the Moon and Venus, within a few degrees, from a birth near the new moon. What you need and what you love become one: comfort comes through pleasure, and care is given as warmth. I read it as an easy tenderness that still has to learn to say no."

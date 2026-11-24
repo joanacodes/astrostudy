@@ -5,6 +5,8 @@ description: "Venus sextile Uranus in a birth chart: change in love by invitatio
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Uranus", "sextile"]
 weight: 171
 glyph: "♀⚹♅"
 definition: "Venus sextile Uranus means your chart has Venus and Uranus about 60° apart, usually in elements that get along. In a chart it opens what you love to change in small, welcome doses: new tastes, new friends, fresh ways of relating. The openings are yours to take."

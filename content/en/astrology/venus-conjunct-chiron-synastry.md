@@ -5,6 +5,8 @@ description: "Venus conjunct Chiron in synastry: one person admires what the oth
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Chiron", "conjunction", "synastry"]
 weight: 196
 glyph: "♀☌⚷"
 definition: "Venus conjunct Chiron in synastry means one person’s Venus sits within 6° of the other’s Chiron. What the first person values settles on the place where the second has learned to adapt around a lasting sensitivity, so that workaround tends to be noticed and liked. I read it as appreciation that needs a careful hand, never as a cure."

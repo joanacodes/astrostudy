@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["square"]
 family: "aspects"
+categories: ["Aspects"]
+tags: ["square"]
 weight: 3
 glyph: "□"
 definition: "A square is an angle of 90° between two planets, usually three signs apart and in the same modality. In a birth chart it marks two needs that rub against each other and won’t settle: friction that asks for effort. Astrologers call it a hard aspect; it is also the one that pushes you to act."

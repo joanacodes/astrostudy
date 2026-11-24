@@ -6,6 +6,8 @@ description: "Soleil en Vierge, Lune en Balance : la Lune vient de quitter la V
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge", "Lune", "Balance"]
 weight: 67
 glyph: "☉♍☽♎"
 definition: "Soleil en Vierge, Lune en Balance place la Lune un signe devant le Soleil, en Balance, cinq jours au plus après une nouvelle lune. Vénus, maîtresse de la Lune, est au plus bas dans le signe du Soleil, où la tradition place sa chute. J’y lis une précision qui veut être douce, et une justice qui veut être exacte."

@@ -6,6 +6,8 @@ description: "Chiron opposition Lilith dans un thème natal : s’accommoder et
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Lilith", "opposition"]
 weight: 369
 glyph: "⚷☍⚸"
 definition: "Chiron opposition Lilith, c’est Chiron d’un côté du thème natal et la Lune noire Lilith moyenne de l’autre, à environ 180°. Votre façon de vous adapter à une difficulté durable fait face à la part de vous qui refuse d’être domptée, et chaque bout rend l’autre visible. J’y lis une polarité qui forme le discernement, pas une guerre intérieure."

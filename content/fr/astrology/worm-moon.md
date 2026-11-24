@@ -6,6 +6,8 @@ description: "La Lune des vers, pleine lune de mars : ses dates et ses signes d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 22
 glyph: "○"
 definition: "La Lune des vers est le nom que les almanachs donnent à la pleine lune de mars, quand le sol dégèle et que les vers remontent. C’est un nom populaire, pas un terme d’astrologie. Dans un thème, c’est une pleine lune en Vierge avant l’équinoxe de printemps, ou en Balance après, lue d’après son signe et sa maison."

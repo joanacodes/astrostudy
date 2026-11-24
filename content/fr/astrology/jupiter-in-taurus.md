@@ -6,6 +6,8 @@ description: "Jupiter en Taureau dans un thème natal : une croissance qui s’
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Taureau"]
 weight: 62
 glyph: "♃♉"
 definition: "Jupiter en Taureau, c’est la planète de la croissance et du sens dans le signe de terre fixe gouverné par Vénus. Les personnes nées la même année ou presque partagent ce placement. J’y lis une croissance qui s’enracine lentement : une compréhension qui passe par les sens, des principes concrets, et la confiance dans ce qui a prouvé sa durée."

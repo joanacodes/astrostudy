@@ -5,6 +5,8 @@ description: "Sun trine Neptune in synastry: kindness and shared imagination tha
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Neptune", "trine", "synastry"]
 weight: 39
 glyph: "☉△♆"
 definition: "Sun trine Neptune in synastry lets one person’s identity and the other’s imagination meet easily, with Neptune four signs from the Sun, within an orb of 6.8°. Kindness and inspiration pass between them without effort. I read it as a gentle ease, at its best when it is used and now and then checked."

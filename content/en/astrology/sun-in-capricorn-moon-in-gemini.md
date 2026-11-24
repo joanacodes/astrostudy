@@ -5,6 +5,8 @@ description: "Sun in Capricorn, Moon in Gemini: a quincunx by sign, Saturn and M
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Capricorn", "Moon", "Gemini"]
 weight: 111
 glyph: "☉♑☽♊"
 definition: "Sun in Capricorn, Moon in Gemini links cardinal earth and mutable air by a quincunx, born in the gibbous days before a full moon. Saturn rules the Sun’s sign and Mercury the Moon’s. To me it is structure on one side and curiosity on the other, kept on speaking terms."

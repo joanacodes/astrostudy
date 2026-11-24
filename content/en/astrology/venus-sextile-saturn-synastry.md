@@ -5,6 +5,8 @@ description: "Venus sextile Saturn in synastry: one person’s pleasures can bor
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Saturn", "sextile", "synastry"]
 weight: 177
 glyph: "♀⚹♄"
 definition: "Venus sextile Saturn in synastry means one person’s Venus is about 60° from the other’s Saturn, within 3.6°. What the first person values can borrow the second’s patience and practical sense, and the second’s steadiness is welcomed rather than endured. To me it’s an offer between two adults that works once someone takes it up."

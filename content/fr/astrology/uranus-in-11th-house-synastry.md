@@ -6,6 +6,8 @@ description: "Uranus de l’autre dans votre maison 11 en synastrie : nouveaux 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "maison 11", "synastrie", "superpositions de maisons"]
 weight: 95
 glyph: "♅"
 definition: "Dans votre maison 11, Uranus de l’autre arrive comme à domicile : vos amis, vos groupes, vos réseaux et l’avenir que vous espérez. En synastrie, cette personne élargit peut-être votre cercle, apporte de nouvelles causes et bouscule de vieilles loyautés, et se sent étonnamment à l’aise parmi vos proches. Cela décrit l’appartenance et le changement, pas qui restera."

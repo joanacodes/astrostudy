@@ -5,6 +5,8 @@ description: "Sun in Scorpio, Moon in Aquarius: fixed water and fixed air at a s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Scorpio", "Moon", "Aquarius"]
 weight: 95
 glyph: "☉♏☽♒"
 definition: "Sun in Scorpio, Moon in Aquarius sets fixed water against fixed air at a square, about a week into the lunar month, with two rulers for each light. To me the pair describes a self that looks deep into one thing, with needs that ease once there is room, friendship and the whole picture in view."

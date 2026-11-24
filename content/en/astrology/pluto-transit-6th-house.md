@@ -5,6 +5,8 @@ description: "Pluto transiting the 6th house: about twenty years of reworking yo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "6th house", "transits"]
 weight: 54
 glyph: "♇"
 definition: "Pluto transiting the 6th house is Pluto’s stay, about twenty years at London’s latitude, in your house of work, routine and daily care. It goes to the root of how your days are organised: the work you do, whom you do it for, and the habits that hold you up or wear you down. It forecasts no illness."

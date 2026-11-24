@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Nœud Sud", "nœud Sud"]
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["Nœud Sud", "nœuds lunaires"]
 weight: 8
 glyph: "☋"
 definition: "Le Nœud Sud est l’endroit où la route de la Lune croise celle du Soleil en descendant vers le sud, en face du Nœud Nord. Dans un thème natal, il désigne le terrain connu : ce qui est venu facilement ou tôt. Certains y voient des vies antérieures ; lu simplement, c’est d’où l’on part, pas où l’on reste."

@@ -6,6 +6,8 @@ description: "Mars conjonction Nœud Nord dans un thème natal : une croissance
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Nœud Nord", "conjonction"]
 weight: 235
 glyph: "♂☌☊"
 definition: "Mars conjonction Nœud Nord signifie qu’à votre naissance, Mars se trouvait sur le Nœud Nord ou tout près, donc en face du Nœud Sud. Dans un thème, l’action elle-même devient la capacité moins familière vers laquelle vous grandissez : commencer, vous affirmer, passer en premier. J’y lis une direction à pratiquer, maladroite au début, plus sûre ensuite."

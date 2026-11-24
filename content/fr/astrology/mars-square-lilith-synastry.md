@@ -6,6 +6,8 @@ description: "Mars carré Lilith en synastrie : la poussée de l’une rencontr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Lilith", "carré", "synastrie"]
 weight: 243
 glyph: "♂□⚸"
 definition: "Mars carré Lilith en synastrie signifie que la Lune noire Lilith moyenne d’une personne fait un angle droit avec Mars chez l’autre, à 5,1° près. La poussée de l’une rencontre sans cesse le refus de l’autre d’être dirigée, et ce frottement peut fasciner autant qu’agacer. J’y vois l’apprentissage de limites claires, respectées des deux côtés."

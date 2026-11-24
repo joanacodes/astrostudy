@@ -6,6 +6,8 @@ description: "Lune trigone Lilith dans un thème natal : le réconfort et vos i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Lilith", "trigone"]
 weight: 101
 glyph: "☽△⚸"
 definition: "Lune trigone Lilith signifie qu’à votre naissance, la Lune se tenait à un tiers du cercle, environ 120°, de la Lune noire Lilith moyenne, en général dans un signe du même élément. Ici, réconfort et instinct d’autonomie coulent ensemble : être pleinement vous-même vous semble sûr plutôt que risqué. J’y lis une authenticité facile."

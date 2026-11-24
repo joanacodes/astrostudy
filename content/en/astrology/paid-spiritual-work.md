@@ -5,6 +5,8 @@ description: "Paid “spiritual work”: rituals sold to bring back a lover, win
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Readings"]
+tags: ["scams"]
 weight: 63
 glyph: "✦"
 definition: "Paid “spiritual work” is a ritual someone performs for you, out of sight and for a fee, to change an outcome: bring back a lover, win a case, clear a block. You never see the work, only the bill, and no one can be paid to change another person’s feelings or your luck. I sell no work of any kind."

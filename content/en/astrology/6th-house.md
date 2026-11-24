@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["6th house", "sixth house"]
 family: "houses"
+categories: ["Houses"]
+tags: ["6th house"]
 weight: 6
 glyph: "VI"
 definition: "The 6th house is the sixth of the twelve houses of a birth chart. Astrologers read it as the shape of an ordinary day: the work you do, the routines that hold you up, the people you work alongside and the care you give your body. Tradition called it Bad Fortune and placed the joy of Mars there."

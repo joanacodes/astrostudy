@@ -5,6 +5,8 @@ description: "The ecliptic in astrology: the Sun’s yearly path, the line every
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: []
 weight: 7
 glyph: "☉"
 definition: "The ecliptic is the Sun’s apparent path through the sky over a year, the plane of the Earth’s orbit seen against the stars. The Moon and planets travel close to it, and the zodiac is laid along it, so every position in a birth chart, the Ascendant included, is a point on the ecliptic."

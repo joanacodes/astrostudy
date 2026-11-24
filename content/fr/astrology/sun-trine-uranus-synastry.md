@@ -6,6 +6,8 @@ description: "Soleil trigone Uranus en synastrie : deux personnes qui se laisse
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Uranus", "trigone", "synastrie"]
 weight: 34
 glyph: "☉△♅"
 definition: "Soleil trigone Uranus en synastrie offre à deux personnes une liberté facile, par un angle d’environ 120° entre Uranus chez l’une et le Soleil de l’autre, à 6,8° près, en général dans le même élément. La différence est bienvenue des deux côtés. J’y lis une aisance qui ne compte que si la liberté sert à quelque chose."

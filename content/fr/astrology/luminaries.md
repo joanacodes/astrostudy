@@ -6,6 +6,8 @@ description: "Les luminaires en astrologie : le Soleil et la Lune, les deux lum
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 21
 glyph: "☉☽"
 definition: "Les luminaires sont le Soleil et la Lune, les deux lumières de l’astrologie. Pour un astronome, aucun n’est une planète : l’un est une étoile, l’autre le satellite de la Terre. Dans un thème natal, ils se lisent ensemble, le Soleil pour le but, la Lune pour les besoins, et l’angle qui les sépare donne votre phase de naissance."

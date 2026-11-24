@@ -5,6 +5,8 @@ description: "Lilith in Aquarius in a birth chart: a mind of your own that learn
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Aquarius"]
 weight: 143
 glyph: "⚸♒"
 definition: "Lilith in Aquarius means Black Moon Lilith, the Moon’s farthest point from Earth, was in fixed air, the sign of Uranus and, traditionally, Saturn, when you were born. I read it as a mind of your own that learned early to sound like everyone else’s, and a principled refusal to be one of a set."

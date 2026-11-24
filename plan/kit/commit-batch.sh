@@ -4,6 +4,8 @@
 set -e
 cd /home/user/astrostudy
 title="$1"; shift
+# the categories and tags of each page, from the plan (the "Must reads" and the structured data read them)
+node tools/plan/tags.mjs "$@" --write >/dev/null
 out=$(node tools/plan/check-entries.mjs "$@" 2>&1 | tail -1)
 echo "$out"
 case "$out" in *" 0 errors"*) ;; *) echo "not committed: the check found errors"; exit 1;; esac
@@ -12,6 +14,6 @@ if git diff --cached --quiet; then echo "already committed in full (work-in-prog
 git commit -q -m "[skip ci] $title (EN/FR)
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_018jKMK9BPQVbgBpXXSDVL8J"
+Claude-Session: https://claude.ai/code/session_01LYuYY9b3F66UY1XDinLm1L"
 for i in 0 2 4 8 16; do [ $i -gt 0 ] && sleep $i; git push -q -u origin claude/astrostudy-website-tdhyzt && break; done
 git log --oneline -1

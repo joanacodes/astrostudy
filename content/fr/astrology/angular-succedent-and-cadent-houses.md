@@ -6,6 +6,8 @@ description: "Maisons angulaires, succédentes et cadentes : les trois familles
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "houses"
+categories: ["Maisons"]
+tags: ["maisons"]
 weight: 34
 glyph: "✦"
 definition: "Angulaires, succédentes et cadentes : ce sont les trois familles de maisons. Les maisons angulaires, 1, 4, 7 et 10, commencent aux quatre angles du thème ; les succédentes, 2, 5, 8 et 11, les suivent ; les cadentes, 3, 6, 9 et 12, s’en éloignent. Chaque famille travaille à son propre rythme."

@@ -6,6 +6,8 @@ description: "Pluton conjonction Chiron dans un thème natal : la profondeur et
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Chiron", "conjonction"]
 weight: 350
 glyph: "♇☌⚷"
 definition: "Pluton conjonction Chiron, c’est la rencontre des deux à quelques degrés près, que mon décompte trouve deux fois : de 1940 à 1942, et de fin 1999 à fin 2000. Dans un thème, elle relie l’envie de transformer à la racine à l’endroit qui reste sensible : profondeur, honnêteté et renouveau se rassemblent là où cela fait mal."

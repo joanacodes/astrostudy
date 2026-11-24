@@ -5,6 +5,8 @@ description: "Mars sextile Chiron in a birth chart: the methods you learned by a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Chiron", "sextile"]
 weight: 226
 glyph: "♂⚹⚷"
 definition: "Mars sextile Chiron links the way you act to the way you've learned to adapt, at about 60°, usually in signs two apart. In a chart it puts practical know-how within reach of your effort: a better method, a pace that works, support in proportion. I read it as a resource you build by practising it."

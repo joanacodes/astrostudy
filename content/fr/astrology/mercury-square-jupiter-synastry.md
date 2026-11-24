@@ -6,6 +6,8 @@ description: "Mercure carré Jupiter en synastrie : les détails de l’une con
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Jupiter", "carré", "synastrie"]
 weight: 128
 glyph: "☿□♃"
 definition: "Mercure carré Jupiter en synastrie désigne un angle d’environ 90°, à 5,1° près, entre Mercure chez une personne et Jupiter chez l’autre. Les faits de la première et le sens du tout de la seconde se croisent sans cesse, en conversation comme dans les décisions. J’y lis une friction qui apprend la mesure, jamais une incompatibilité."

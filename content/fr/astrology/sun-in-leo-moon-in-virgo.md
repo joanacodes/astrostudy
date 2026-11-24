@@ -6,6 +6,8 @@ description: "Soleil en Lion, Lune en Vierge : le feu à côté de la terre, la
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion", "Lune", "Vierge"]
 weight: 54
 glyph: "☉♌☽♍"
 definition: "Soleil en Lion, Lune en Vierge place la Lune dans le signe qui suit celui du Soleil, la terre à côté du feu, moins de cinq jours après une nouvelle lune. Votre Soleil est chez lui ; Mercure, maître du signe lunaire, ne s’en éloigne guère. J’y vois quelqu’un qui monte sur scène et tient la régie."

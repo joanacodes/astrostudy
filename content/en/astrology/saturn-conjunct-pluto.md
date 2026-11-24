@@ -5,6 +5,8 @@ description: "Saturn conjunct Pluto in a birth chart: the meetings of 1946–48 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Pluto", "conjunction"]
 weight: 285
 glyph: "♄☌♇"
 definition: "Saturn conjunct Pluto puts the two planets within a few degrees of each other, as happened in Leo in 1946–48 and in Libra in 1981–83. In a chart it fuses the urge to build what lasts with the urge to clear away what is obsolete: a staying power for deep change, read through its house."

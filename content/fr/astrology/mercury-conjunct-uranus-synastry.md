@@ -6,6 +6,8 @@ description: "Mercure conjonction Uranus en synastrie : la façon de penser de 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Uranus", "conjonction", "synastrie"]
 weight: 136
 glyph: "☿☌♅"
 definition: "Mercure conjonction Uranus en synastrie se produit quand Mercure, chez une personne, tombe à moins de 6° d’Uranus, chez l’autre. Les mots de la première rejoignent le besoin de faire autrement de la seconde : une conversation peut renverser un projet en quelques minutes. J’y lis un courant vif et inventif, qui a besoin d’un point fixe où revenir."

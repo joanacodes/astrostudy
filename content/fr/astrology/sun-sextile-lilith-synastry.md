@@ -6,6 +6,8 @@ description: "Soleil sextile Lilith en synastrie : la direction d’une personn
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Lilith", "sextile", "synastrie"]
 weight: 52
 glyph: "☉⚹⚸"
 definition: "Soleil sextile Lilith en synastrie, c’est un angle d’environ 60°, à 4,8° près, entre le Soleil d’une personne et la Lune noire Lilith de l’autre. La direction de l’une offre une ouverture amicale au côté refusé, indompté, de l’autre. J’y lis une invitation que les deux peuvent saisir, et qui reste sans effet tant que personne ne le fait."

@@ -6,6 +6,8 @@ description: "Uranus opposition Chiron dans un thème natal : la liberté face 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Chiron", "opposition"]
 weight: 319
 glyph: "♅☍⚷"
 definition: "Uranus opposition Chiron est un angle de 180° entre Uranus et Chiron, et l’aspect le plus fréquent de la paire dans le décompte : environ 1 naissance sur 4, par intermittence de 1951 à 1990. Dans un thème, l’envie de liberté fait face à un point sensible, et chaque côté apprend à l’autre l’équilibre. Vos maisons le rendent personnel."

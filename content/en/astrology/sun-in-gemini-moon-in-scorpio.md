@@ -5,6 +5,8 @@ description: "Sun in Gemini, Moon in Scorpio: a quincunx by sign, quick curiosit
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini", "Moon", "Scorpio"]
 weight: 32
 glyph: "☉♊☽♏"
 definition: "Sun in Gemini, Moon in Scorpio sets the Moon five signs ahead of the Sun, in fixed water, in the bright days before a full moon. I read it as a curious, quick self with needs that run deep: a mind that wants to know everything, and a heart that wants to know what is true."

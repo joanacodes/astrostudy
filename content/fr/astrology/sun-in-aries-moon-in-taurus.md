@@ -6,6 +6,8 @@ description: "Soleil en Bélier, Lune en Taureau : le seul duo où les deux lum
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier", "Lune", "Taureau"]
 weight: 2
 glyph: "☉♈☽♉"
 definition: "Soleil en Bélier, Lune en Taureau désigne une naissance où la Lune se trouvait un signe devant le Soleil, en Taureau, jusqu’à cinq jours environ après une nouvelle lune. Chaque luminaire est dans son exaltation. J’y lis un moi qui lance les choses, posé sur des besoins qui les gardent : prompt à commencer, lent à lâcher."

@@ -6,6 +6,8 @@ description: "Uranus en transit en maison 8 : près de huit ans pour respirer d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Uranus", "maison 8", "transits"]
 weight: 32
 glyph: "♅"
 definition: "Uranus en transit en maison 8, c’est le séjour d’Uranus, près de huit ans en général, dans la part du thème qui tient l’intimité, la confiance, et ce que vous partagez avec d’autres ou leur devez. Ce transit bouscule ces termes et demande de la liberté dans la proximité. Ni mort, ni héritage, ni argent n’y sont prédits."

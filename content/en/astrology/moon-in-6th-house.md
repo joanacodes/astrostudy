@@ -5,6 +5,8 @@ description: "Moon in the 6th house in a birth chart: feelings steadied by routi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "6th house", "houses"]
 weight: 18
 glyph: "☽"
 definition: "Moon in the 6th house means the Moon sat in the house of daily work, routines, colleagues and the care of the body, which tradition called Bad Fortune. I read it as feelings steadied by a day that works, and care shown in small daily acts. It predicts no illness, and it needs the birth time."

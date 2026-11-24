@@ -6,6 +6,8 @@ description: "Chiron en maison 2 dans un thème natal : un point sensible là o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "maison 2", "maisons"]
 weight: 122
 glyph: "⚷"
 definition: "Chiron en maison 2 signifie que Chiron se trouvait dans la maison de ce que vous avez et de ce que vous valorisez : revenus, biens, talents, estime de soi. Il décrit une adaptation autour du nœud entre ce que vous gagnez et ce que vous pensez valoir, et une sécurité bâtie à votre façon. Il faut l’heure de naissance."

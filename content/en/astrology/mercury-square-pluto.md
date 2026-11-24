@@ -5,6 +5,8 @@ description: "Mercury square Pluto in a birth chart: conversations that go deep 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Pluto", "square"]
 weight: 137
 glyph: "☿□♇"
 definition: "Mercury square Pluto is a right angle at birth between how you think and the planet of depth and transformation. In a chart, easy exchange and the pull towards the core keep snagging on each other, so conversations go deep fast. I read it as friction that builds insight, not as a mind set on control."

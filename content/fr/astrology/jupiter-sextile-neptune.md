@@ -6,6 +6,8 @@ description: "Jupiter sextile Neptune dans un thème natal : des ouvertures où
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Neptune", "sextile"]
 weight: 251
 glyph: "♃⚹♆"
 definition: "Jupiter sextile Neptune place les deux planètes à environ 60° l’une de l’autre dans un thème natal, un angle commun à de courtes périodes de naissances. Votre besoin de sens et votre imaginaire peuvent s’entraider : une inspiration trouve un but, une conviction trouve une image. J’y lis une ouverture douce, qui marche quand on s’en sert."

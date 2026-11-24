@@ -6,6 +6,8 @@ description: "Mercure en Poissons dans un thème natal : Mercure en exil et en 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Poissons"]
 weight: 36
 glyph: "☿♓"
 definition: "Mercure en Poissons, c’est Mercure en exil et en chute : la planète de la pensée en eau mutable, le signe de Neptune et, traditionnellement, de Jupiter. On y lit un esprit intuitif, qui pense en images et en impressions, entend l’émotion sous les mots et travaille à mettre en langage ce qu’il perçoit. Environ 1 personne sur 12 l’a."

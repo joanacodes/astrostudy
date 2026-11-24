@@ -6,6 +6,8 @@ description: "La Lune progressée en Taureau : environ deux ans et quatre mois 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "Lune progressée", "progressions", "Taureau"]
 weight: 2
 glyph: "☽♉"
 definition: "La Lune progressée en Taureau, c’est la Lune de votre thème progressé qui traverse le Taureau, son signe d’exaltation, pendant deux ans à deux ans et demi. J’y lis un chapitre où vos besoins se posent sur ce qui dure : un rythme régulier, un lieu sur lequel compter, et le lent travail qui rend une chose durable."

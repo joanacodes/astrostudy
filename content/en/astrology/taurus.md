@@ -5,6 +5,8 @@ description: "Taurus in astrology: the fixed earth sign ruled by Venus — in a 
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signs"]
+tags: ["Taurus"]
 weight: 2
 glyph: "♉"
 definition: "Taurus is the second sign of the zodiac, a fixed earth sign ruled by Venus, which the Sun crosses from about 20 April to 20 May. In a birth chart it marks where you build slowly and hold on: patience, the senses, comfort, what you value. The house it falls in shows where you want things to last."

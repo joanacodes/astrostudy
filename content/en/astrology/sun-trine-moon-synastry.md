@@ -5,6 +5,8 @@ description: "Sun trine Moon in synastry: one person’s way of living suits the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Moon", "trine", "synastry"]
 weight: 4
 glyph: "☉△☽"
 definition: "Sun trine Moon in synastry means one person’s Sun is about 120° from the other’s Moon, within 6.8°. Who one person is and what the other needs tend to agree, usually in signs of one element. I read it as ease that settles both people, and that lasts best when neither of them takes it for granted."

@@ -5,6 +5,8 @@ description: "Sun square Chiron in a birth chart: a sore spot that keeps meeting
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Chiron", "square"]
 weight: 40
 glyph: "☉□⚷"
 definition: "Sun square Chiron means Chiron was about 90° from the Sun when you were born. In a chart your wish to shine and act as yourself keeps meeting a tender place from the side, so you learn to adapt: another method, another pace, another way in. I read it as friction that builds real skill, never as a flaw."

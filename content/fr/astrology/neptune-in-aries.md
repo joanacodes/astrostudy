@@ -6,6 +6,8 @@ description: "Neptune en Bélier dans un thème natal : un nouveau tour commenc
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Bélier"]
 weight: 97
 glyph: "♆♈"
 definition: "Neptune en Bélier, c’est la planète des idéaux et de l’imagination dans le signe de feu cardinal des commencements, où Neptune arrive en 2025 et reste jusqu’en 2039. Les personnes nées avec ce placement sont encore des enfants : j’y lis donc le signe d’une génération, des idéaux qui demandent des actes et une compassion qui fait le premier pas."

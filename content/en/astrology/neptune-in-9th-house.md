@@ -5,6 +5,8 @@ description: "Neptune in the 9th house in a birth chart: a spiritual hunger, fai
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "9th house", "houses"]
 weight: 105
 glyph: "♆"
 definition: "Neptune in the 9th house means Neptune was in the house of belief, higher learning and long journeys, the house tradition called the God, when you were born. In a chart it describes a spiritual hunger: faith wide enough for many traditions, study and travel lived as pilgrimage, and a need to check your sources."

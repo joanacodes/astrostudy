@@ -6,6 +6,8 @@ description: "Les éclipses en Scorpion : quinze de 2000 à 2040 sur l’axe Sc
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["éclipses", "Scorpion"]
 weight: 8
 glyph: "●♏"
 definition: "En Scorpion, une éclipse est soit une nouvelle lune proche des nœuds, le Soleil et la Lune réunis dans le signe, soit une pleine lune, la Lune en Scorpion et le Soleil en Taureau. Quinze tombent entre 2000 et 2040. Aucune ne compte dans un thème hors d’environ trois degrés d’un point natal, et aucune n’est un présage."

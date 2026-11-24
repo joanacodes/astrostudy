@@ -6,6 +6,8 @@ description: "Chiron en Poissons dans un thème natal : s’adapter par l’ima
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Poissons"]
 weight: 132
 glyph: "⚷♓"
 definition: "Chiron en Poissons est le placement des longs séjours, de mars 1960 à janvier 1969 et d’avril 2010 à février 2019, quand Chiron avançait lentement dans le signe d’eau mutable gouverné par Neptune et, traditionnellement, Jupiter. Dans un thème, il décrit une adaptation par l’imagination et la compassion, autour d’un point sensible : les limites."

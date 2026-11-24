@@ -5,6 +5,8 @@ description: "The full moon in Cancer, the Moon in its own sign opposite a Capri
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "full moon", "Cancer"]
 weight: 51
 glyph: "○♋"
 definition: "The full moon in Cancer is the Moon in its own sign opposite the Sun in Capricorn, the first full moon after the December solstice. It lights the Cancer–Capricorn axis: home and the world, care and duty. In a chart it counts within about 1° of a planet or angle, at either end; about 3° as an eclipse."

@@ -5,6 +5,8 @@ description: "Sun opposite Uranus in synastry: a steady centre faces a need for 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Uranus", "opposition", "synastry"]
 weight: 35
 glyph: "☉☍♅"
 definition: "Sun opposite Uranus in synastry faces one person’s identity with the other’s urge for freedom: Uranus about 180° from the Sun, within 8°, across the zodiac. One tends to hold steady, the other to keep things open. I read it as a polarity between belonging and autonomy that both people can learn to balance."

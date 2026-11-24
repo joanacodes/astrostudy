@@ -6,6 +6,8 @@ description: "Uranus trigone Neptune dans un thème natal : idées neuves et gr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Neptune", "trigone"]
 weight: 308
 glyph: "♅△♆"
 definition: "Uranus trigone Neptune est un angle de 120° entre les deux planètes, dans l’orbe par intermittence de 1936 à 1946, d’abord en signes de terre, puis d’air. Dans un thème, les idées neuves et les grands idéaux vont dans le même sens : le changement emporte souvent une vision avec lui. Une génération le partage ; vos maisons le rendent vôtre."

@@ -6,6 +6,8 @@ description: "Pluton en Scorpion dans un thème natal : Pluton en domicile mode
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Scorpion"]
 weight: 116
 glyph: "♇♏"
 definition: "Pluton en Scorpion, c’est la planète de la transformation dans son propre signe selon l’astrologie tropicale moderne : l’eau fixe, gouvernée par Pluton et traditionnellement par Mars. Sa génération est née de 1983 à 1995, pendant le plus court séjour de Pluton dans un signe. On y lit l’intensité, l’intimité, et rien qui échappe à l’examen."

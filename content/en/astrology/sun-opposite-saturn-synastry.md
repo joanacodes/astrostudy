@@ -5,6 +5,8 @@ description: "Sun opposite Saturn in synastry: one person’s self-expression fa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Saturn", "opposition", "synastry"]
 weight: 30
 glyph: "☉☍♄"
 definition: "Sun opposite Saturn in synastry sets two people on a seesaw: one person’s Saturn stands about 180° from the other’s Sun, within 8°, so self-expression faces structure across the zodiac and the roles tend to polarise. I read it as freedom and responsibility to balance, never as a contest."

@@ -5,6 +5,8 @@ description: "Mars sextile Pluto in a birth chart: the depth and staying power t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Pluto", "sextile"]
 weight: 221
 glyph: "♂⚹♇"
 definition: "Mars sextile Pluto links effort and transformation at about 60°, usually across signs two apart. In a chart it puts depth within reach of your drive: you can focus hard, strip a project back and renew it, when you decide to. I read it as an opening for regenerating effort that works through use."

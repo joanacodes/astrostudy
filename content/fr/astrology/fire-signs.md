@@ -6,6 +6,8 @@ description: "Les signes de feu en astrologie : Bélier, Lion et Sagittaire —
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signes"]
+tags: ["signes du zodiaque"]
 weight: 30
 glyph: "♈♌♐"
 definition: "Les signes de feu sont le Bélier, le Lion et le Sagittaire, les trois signes de l’élément feu, chacun à 120° du suivant. Dans un thème natal, le feu montre où vous agissez par enthousiasme : la chaleur, l’initiative, la conviction, l’envie de commencer et de vous montrer. En feu, les planètes tendent à agir d’abord, à réfléchir ensuite."

@@ -5,6 +5,8 @@ description: "Saturn in Libra in a birth chart: Saturn exalted in cardinal air, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Libra"]
 weight: 79
 glyph: "♄♎"
 definition: "Saturn in Libra is the planet of rules in the sign of fairness: cardinal air, ruled by Venus, and Saturn’s exaltation in the tradition. It is rarer than most Saturn signs, shared by those born in roughly 1950–53, 1980–83 or 2009–12. It describes commitments taken seriously and a strong sense of justice."

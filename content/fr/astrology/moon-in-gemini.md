@@ -6,6 +6,8 @@ description: "Lune en Gémeaux dans un thème natal : des émotions comprises e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Gémeaux"]
 weight: 15
 glyph: "☽♊"
 definition: "La Lune en Gémeaux signifie que la Lune se trouvait en Gémeaux à votre naissance. J’y lis des émotions qui deviennent claires une fois qu’elles ont des mots : vous vous apaisez en nommant ce que vous ressentez, en en parlant ou en l’écrivant, et vous trouvez du réconfort dans la conversation, la curiosité et le changement de décor."

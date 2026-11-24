@@ -5,6 +5,8 @@ description: "Saturn in Leo in a birth chart: in detriment in fixed fire, it lea
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Leo"]
 weight: 77
 glyph: "♄♌"
 definition: "Saturn in Leo is the planet of restraint in the sign of self-expression, fixed fire ruled by the Sun, and one of Saturn’s two signs of detriment. The cohorts born in roughly 1946–49, 1975–78 and 2005–07 share it. It shows confidence learned slowly, creativity with a backbone, and joy taken as seriously as work."

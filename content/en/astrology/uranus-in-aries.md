@@ -5,6 +5,8 @@ description: "Uranus in Aries in a birth chart: change made by going first, for 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Aries"]
 weight: 85
 glyph: "♅♈"
 definition: "Uranus in Aries is the planet of change in the first sign of the zodiac, cardinal fire ruled by Mars. It belongs to everyone born from April 1927 to March 1935, or from May 2010 to March 2019. I read it as a generation’s urge to change things by acting first and adjusting later; the house makes it personal."

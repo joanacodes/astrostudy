@@ -6,6 +6,8 @@ description: "Pluton en transit en maison 4 : dix-neuf ans environ à la base d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Pluton", "maison 4", "transits"]
 weight: 52
 glyph: "♇"
 definition: "Pluton en transit en maison 4 commence quand Pluton atteint le Fond du Ciel, le point le plus bas de votre thème, et dure dix-neuf ans environ au milieu à la latitude de Londres. Ce passage travaille le foyer, l’histoire familiale et le sol intime où vous vous tenez, et fait remonter l’héritage pour que vous choisissiez quoi garder."

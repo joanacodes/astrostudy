@@ -6,6 +6,8 @@ description: "Neptune en transit en maison 9 : environ quinze ans et demi d’�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Neptune", "maison 9", "transits"]
 weight: 45
 glyph: "♆"
 definition: "Neptune en transit en maison 9, c’est un long pèlerinage de l’esprit, quinze ans et huit mois environ au milieu, dans votre maison des convictions et des horizons lointains. Ce transit approfondit ce que votre thème dit du sens : une foi, un art et des voyages sans frontières, et une aspiration qui demande de vérifier ses sources."

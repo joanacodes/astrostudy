@@ -6,6 +6,8 @@ description: "Soleil conjonction Lilith en synastrie : un Soleil posé sur ce q
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Lilith", "conjonction", "synastrie"]
 weight: 51
 glyph: "☉☌⚸"
 definition: "Soleil conjonction Lilith en synastrie, c’est le Soleil d’une personne à moins de 8° de la Lune noire Lilith de l’autre. Le centre d’une vie tombe sur ce que l’autre a appris à cacher, et cette part revient au jour. Pour moi, c’est une reconnaissance pour l’une et une mise à nu pour l’autre, jamais un lien interdit."

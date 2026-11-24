@@ -6,6 +6,8 @@ description: "Jupiter trigone Lilith dans un thème natal : des croyances qui f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Lilith", "trigone"]
 weight: 268
 glyph: "♃△⚸"
 definition: "Jupiter trigone Lilith désigne un écart d’environ 120° entre Jupiter et la Lune noire Lilith, en général dans des signes d’un même élément. Dans un thème, votre sens de ce qui compte fait place à la part que vous avez appris à cacher, et à celle des autres. J’y lis un don de permission, à vivre autant qu’à penser."

@@ -5,6 +5,8 @@ description: "Chiron in Libra in a birth chart: adapting through fairness and ne
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Libra"]
 weight: 127
 glyph: "⚷♎"
 definition: "Chiron in Libra is the least common Chiron sign among people born 1930–2009, held only by those born from November 1944 to November 1946 or from September 1995 to September 1997. In a chart it describes adapting through fairness and negotiation, around a tender spot about being met as an equal."

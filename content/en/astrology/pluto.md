@@ -5,6 +5,8 @@ description: "Pluto in astrology: the planet of depth and change in a birth char
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planets and points"]
+tags: ["Pluto"]
 weight: 10
 glyph: "♇"
 definition: "Pluto is a dwarf planet beyond Neptune, and in astrology the planet of depth, power and transformation. Its sign is shared by everyone born over many years; its house shows where you feel things all the way down, hold on hardest and, in time, let go and begin again."

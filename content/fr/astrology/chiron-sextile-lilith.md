@@ -6,6 +6,8 @@ description: "Chiron sextile Lilith dans un thème natal : vos adaptations et v
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Lilith", "sextile"]
 weight: 366
 glyph: "⚷⚹⚸"
 definition: "Chiron sextile Lilith désigne un angle de 60° entre Chiron et la Lune noire Lilith moyenne dans votre thème natal. Il relie votre façon de vous adapter à une difficulté durable et la part de vous qui refuse d’être domptée : bien utilisé, il donne une manière simple et sans excuses de demander ce qu’il vous faut."

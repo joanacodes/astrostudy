@@ -5,6 +5,8 @@ description: "The progressed Moon in Virgo: two years or a little more of findin
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressed Moon", "progressions", "Virgo"]
 weight: 6
 glyph: "☽♍"
 definition: "The progressed Moon in Virgo describes the stretch of two years or a little more when the Moon of your secondary progressions crosses Virgo, the earth sign ruled by Mercury. I read it as a practical chapter: needs met by being useful, putting things in order and refining how your days work, with care shown in what you do."

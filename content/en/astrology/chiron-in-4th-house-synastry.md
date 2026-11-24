@@ -5,6 +5,8 @@ description: "Their Chiron in your 4th house in synastry: an old hurt and what i
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "4th house", "synastry", "house overlays"]
 weight: 124
 glyph: "⚷"
 definition: "Their Chiron in your 4th house roots the other person’s Chiron at the base of your chart, in the house of home, family and belonging. In synastry their old hurt, and what it taught them about belonging, meets your private life: they often help a place feel safe, while your home life brushes a tender place of theirs."

@@ -5,6 +5,8 @@ description: "Saturn transiting the 2nd house: about three years of budgets, val
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "2nd house", "transits"]
 weight: 14
 glyph: "♄"
 definition: "Saturn transiting the 2nd house is Saturn’s stay, just under three years as a rule, in your house of resources and values. It puts a frame round what your chart already says about money, worth and security: budgets, limits, stewardship, security built slowly enough to last. It predicts no money, either way."

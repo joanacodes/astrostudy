@@ -5,6 +5,8 @@ description: "The blue moon: its two definitions and where each came from, a 193
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 18
 glyph: "○○"
 definition: "A blue moon is an extra full moon. In the older sense, from the Maine Farmers’ Almanac of 1937, it is the third of four full moons in one season; in the popular sense, born of a 1946 misreading, it is the second full moon in a calendar month. Neither is an astronomical term, and the Moon doesn’t turn blue."

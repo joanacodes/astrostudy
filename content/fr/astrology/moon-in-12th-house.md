@@ -6,6 +6,8 @@ description: "Lune en maison 12 dans un thème natal : des émotions discrètes
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "maison 12", "maisons"]
 weight: 24
 glyph: "☽"
 definition: "La Lune en maison 12 signifie que la Lune se trouvait dans la maison de la solitude, du repos et de ce qui se passe loin des regards, que la tradition appelait le Génie défavorable. J’y lis des émotions discrètes et profondes, mieux connues dans le temps passé à l’écart. Elle ne prédit aucun enfermement ; il faut l’heure de naissance."

@@ -5,6 +5,8 @@ description: "Venus opposite Uranus in a birth chart: the wish to be close and t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Uranus", "opposition"]
 weight: 174
 glyph: "♀☍♅"
 definition: "Venus opposite Uranus means Venus and Uranus were about 180° apart at your birth, six signs from each other. In a chart it sets closeness at one end of a line and freedom at the other: you want both, and one often shows up first in someone else. I read it as learning to ask for both at once."

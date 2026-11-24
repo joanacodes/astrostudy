@@ -6,6 +6,8 @@ description: "Uranus en transit en maison 1 : six ans environ, parfois bien plu
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Uranus", "maison 1", "transits"]
 weight: 25
 glyph: "♅"
 definition: "Uranus en transit en maison 1, ce sont les années, six environ en général, où Uranus part de votre ascendant et traverse la maison du moi. Ce transit remue ce que votre thème dit déjà de votre façon d’aborder le monde : une vieille image qui se desserre, une plus libre essayée au grand jour. Ce passage ne prédit aucun bouleversement."

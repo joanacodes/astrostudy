@@ -6,6 +6,8 @@ description: "Chiron de l’autre dans votre maison 8 en synastrie : une vieill
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 128
 glyph: "⚷"
 definition: "Chiron de l’autre dans votre maison 8 indique que son Chiron occupe votre maison de l’intimité, de la confiance et du partage. En synastrie, sa vieille blessure et la stabilité qu’elle lui a apprise rencontrent votre proximité : cette personne reste calme devant vos vérités difficiles, et la confiance lui coûte. Rien n’y annonce de perte."

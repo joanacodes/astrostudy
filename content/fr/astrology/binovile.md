@@ -6,6 +6,8 @@ description: "Le binovile en astrologie : deux planètes à 80°, deux neuvièm
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["binovile", "aspects mineurs"]
 weight: 16
 glyph: "✦"
 definition: "Le binovile est un angle de 80° entre deux planètes, deux neuvièmes du cercle. Dans un thème de naissance, il décrit deux maturations qui avancent côte à côte : les deux planètes mûrissent en même temps, chacune à sa façon, et leur croissance se replie sans cesse en un tout commun, plus cohérent. Mûrir n’est pas parfaire."

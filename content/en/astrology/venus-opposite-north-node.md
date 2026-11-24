@@ -5,6 +5,8 @@ description: "Venus opposite North Node in a birth chart: Venus on the South Nod
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "North Node", "opposition"]
 weight: 199
 glyph: "♀☍☊"
 definition: "Venus opposite North Node means Venus stood about 180° from the North Node at your birth, and so on the South Node. In a chart, valuing and relating are familiar strengths, and the growth asked of you lies across the chart. I read it as a resource to carry forward into new ground, never as a habit to escape."

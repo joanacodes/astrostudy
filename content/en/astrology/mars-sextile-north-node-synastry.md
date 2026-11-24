@@ -5,6 +5,8 @@ description: "Mars sextile North Node in synastry: a modest door towards growth,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "North Node", "sextile", "synastry"]
 weight: 247
 glyph: "♂⚹☊"
 definition: "Mars sextile North Node in synastry ties one person’s Mars to the other’s North Node at 60°, within 3.6°, and to their South Node at 120°. One person’s drive offers an opening towards the other’s growth and a smooth way back to habit. I read it as encouragement that works when offered, never forced."

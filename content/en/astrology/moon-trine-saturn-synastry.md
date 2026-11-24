@@ -5,6 +5,8 @@ description: "Moon trine Saturn in synastry: one person’s steadiness and the o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Saturn", "trine", "synastry"]
 weight: 84
 glyph: "☽△♄"
 definition: "Moon trine Saturn in synastry means one person’s Saturn is about 120° from the other’s Moon, within 6.8°, most often between signs of the same element. One person’s steadiness suits the other’s needs without strain, and care settles into reliable habits. I read it as a calm, durable contact, best when the steady one is looked after too."

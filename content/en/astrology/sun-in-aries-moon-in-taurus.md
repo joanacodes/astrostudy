@@ -5,6 +5,8 @@ description: "Sun in Aries, Moon in Taurus: the only pairing with both lights ex
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries", "Moon", "Taurus"]
 weight: 2
 glyph: "☉♈☽♉"
 definition: "Sun in Aries, Moon in Taurus is a birth with the Moon one sign ahead of the Sun, in Taurus, up to about five days after a new moon. Each light sits in its exaltation. I read it as a self that starts things resting on needs that keep them: quick to begin, slow to let go."

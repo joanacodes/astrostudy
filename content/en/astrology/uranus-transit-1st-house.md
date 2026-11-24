@@ -5,6 +5,8 @@ description: "Uranus transiting the 1st house: about six years, sometimes far mo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "1st house", "transits"]
 weight: 25
 glyph: "♅"
 definition: "Uranus transiting the 1st house is the run of years, usually about six, when Uranus moves on from your Ascendant through the house of the self. It stirs what your chart already says about how you meet the world: an old image loosened, a freer one tried out in plain view. It predicts no upheaval."

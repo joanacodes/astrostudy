@@ -5,6 +5,8 @@ description: "Sun in Libra, Moon in Virgo: neighbouring signs in the balsamic da
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra", "Moon", "Virgo"]
 weight: 78
 glyph: "☉♎☽♍"
 definition: "Sun in Libra, Moon in Virgo puts the Moon one sign behind the Sun, in the balsamic days before a new moon, with Venus’s fall and Mercury’s exaltation in the Moon’s sign. I read it as a self that seeks proportion and grace, with needs that settle by sorting, mending and getting the details right."

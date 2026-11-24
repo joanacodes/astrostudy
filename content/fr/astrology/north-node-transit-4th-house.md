@@ -6,6 +6,8 @@ description: "Nœud Nord en transit en maison 4 : environ 20 mois tournés vers
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Nœud Nord", "maison 4", "transits"]
 weight: 76
 glyph: "☊"
 definition: "Le Nœud Nord en transit en maison 4, c’est l’an et demi ou plus où le nœud recule à travers votre maison du foyer et des racines, tandis que le Nœud Sud traverse votre maison 10. La croissance se tourne vers la vie privée, la famille telle que vous la définissez et un lieu où appartenir."

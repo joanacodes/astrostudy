@@ -6,6 +6,8 @@ description: "Vénus rétrograde en Capricorne : six semaines à cheval sur le 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde", "Capricorne"]
 weight: 22
 glyph: "♀℞♑"
 definition: "Vénus rétrograde en Capricorne arrive tous les huit ans à la mi-décembre et dure jusqu’à fin janvier : six semaines environ où Vénus semble, vue de la Terre, reculer dans le Capricorne, à cheval sur le Nouvel An. Ma lecture : les engagements, et ce que vous avez bâti avec d’autres, repesés là où se trouve le Capricorne dans votre thème."

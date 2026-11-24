@@ -6,6 +6,8 @@ description: "Soleil en Capricorne, Lune en Balance : la terre et l’air en ca
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Capricorne", "Lune", "Balance"]
 weight: 115
 glyph: "☉♑☽♎"
 definition: "Soleil en Capricorne, Lune en Balance oppose la terre cardinale à l’air cardinal dans un carré par signe, pour une naissance autour du dernier quartier. Saturne, maître du Soleil, a son exaltation en Balance ; Vénus gouverne le signe de la Lune. J’y lis le devoir et l’équité qui négocient, et s’entendent souvent."

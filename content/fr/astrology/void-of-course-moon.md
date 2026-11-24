@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["Lune vide de course", "vide de course"]
 family: "dignities"
+categories: ["Planètes et points"]
+tags: ["Lune", "dignités"]
 weight: 43
 glyph: "☽v/c"
 definition: "La Lune est vide de course quand elle a formé son dernier aspect avec une autre planète dans son signe et n’en formera plus avant d’en sortir ; cela cesse à son entrée dans le signe suivant. Les astrologues la comptent selon plusieurs règles, surtout pour les questions et le choix des dates, jamais comme loi de vie."

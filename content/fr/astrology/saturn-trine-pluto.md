@@ -6,6 +6,8 @@ description: "Saturne trigone Pluton dans un thème natal : un changement profo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Pluton", "trigone"]
 weight: 288
 glyph: "♄△♇"
 definition: "Saturne trigone Pluton place Saturne et Pluton à environ 120°, en général dans un même élément : aucun de leurs aspects n’est plus fréquent parmi les naissances de 1930 à 2009. Dans un thème, la structure et la transformation se renforcent : ce que vous rebâtissez tend à tenir, ce que vous tenez se renouvelle, une résilience tranquille."

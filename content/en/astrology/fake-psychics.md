@@ -5,6 +5,8 @@ description: "Fake psychics: how they seem to know you, the meter that keeps run
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Readings"]
+tags: ["scams"]
 weight: 64
 glyph: "✦"
 definition: "A fake psychic claims to know your future or someone else’s mind, and uses that claim to keep you paying: by the minute, by subscription, or for a ritual to fix what they say they saw. You can recognise one by method rather than vision: fear, urgency, secrecy, and a meter that never stops."

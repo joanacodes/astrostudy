@@ -5,6 +5,8 @@ description: "Their Chiron in your 7th house in synastry: an old hurt and its gi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "7th house", "synastry", "house overlays"]
 weight: 127
 glyph: "⚷"
 definition: "Their Chiron in your 7th house happens when the other person’s Chiron falls in the house of whoever faces you: partners, close collaborators, one-to-one bonds. In synastry their old hurt, and what it taught them about closeness, enters the partnership itself: they listen unusually well, and being your equal brushes a sore spot."

@@ -6,6 +6,8 @@ description: "Les Poissons en astrologie : les deux poissons, gouvernés par Ne
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signes"]
+tags: ["Poissons"]
 weight: 12
 glyph: "♓"
 definition: "Les Poissons sont le douzième et dernier signe du zodiaque, un signe d’eau mutable gouverné par Neptune en astrologie tropicale moderne et par Jupiter dans la tradition ; le Soleil les traverse environ du 19 février au 20 mars. Dans un thème natal, ils montrent où vos frontières s’adoucissent : où vous imaginez, ressentez et lâchez prise."

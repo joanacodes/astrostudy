@@ -6,6 +6,8 @@ description: "Saturne sextile Uranus en synastrie : la fiabilité de l’une et
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Uranus", "sextile", "synastrie"]
 weight: 287
 glyph: "♄⚹♅"
 definition: "Saturne sextile Uranus en synastrie signifie que Saturne, chez une personne, se trouve à environ 60° d’Uranus chez l’autre, à 3° près. La fiabilité de l’une et le goût de l’autre pour les méthodes nouvelles peuvent coopérer : une idée neuve reçoit une structure qui la garde. J’y lis une alliance offerte entre deux générations, réelle si on la saisit."

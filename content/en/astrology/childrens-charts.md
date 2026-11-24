@@ -5,6 +5,8 @@ description: "Children’s charts: why I read no chart for anyone under 18, or a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Readings"]
+tags: ["consent"]
 weight: 65
 glyph: "✦"
 definition: "A child’s chart is a birth chart drawn for someone under 18. I don’t read them, and I don’t read about children either, even inside a family synastry. A chart read at the wrong age can become a label a child grows into, and it is theirs to open, or not, once they are adults."

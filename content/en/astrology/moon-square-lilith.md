@@ -5,6 +5,8 @@ description: "Moon square Lilith in a birth chart: the need to belong rubbing ag
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Lilith", "square"]
 weight: 100
 glyph: "☽□⚸"
 definition: "Moon square Lilith means you were born with the Moon a quarter-orbit from mean Black Moon Lilith, about 90°. It sets your need for comfort and belonging against the part of you that refuses to be tamed, so keeping the peace and being yourself can pull apart. I read it as friction that builds honest self-care."

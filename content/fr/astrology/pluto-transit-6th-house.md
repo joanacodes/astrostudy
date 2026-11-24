@@ -6,6 +6,8 @@ description: "Pluton en transit en maison 6 : vingt ans environ pour retravaill
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Pluton", "maison 6", "transits"]
 weight: 54
 glyph: "♇"
 definition: "Pluton en transit en maison 6 : un séjour de vingt ans environ, à la latitude de Londres, dans votre maison du travail, des routines et des soins du quotidien. Ce passage va à la racine de l’organisation de vos journées : votre travail, pour qui vous le faites, les habitudes qui vous portent ou vous usent. Aucune maladie n’y est prédite."

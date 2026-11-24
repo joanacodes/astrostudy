@@ -6,6 +6,8 @@ description: "Soleil en Taureau, Lune en Gémeaux : des avis qui changent lente
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Taureau", "Lune", "Gémeaux"]
 weight: 15
 glyph: "☉♉☽♊"
 definition: "Soleil en Taureau, Lune en Gémeaux vient des cinq premiers jours d’un mois lunaire, la Lune un signe devant le Soleil. J’y lis un moi stable avec un besoin curieux et bavard : des valeurs qui tiennent des années, à côté d’émotions qui s’apaisent avec des mots, de la compagnie et un changement de décor."

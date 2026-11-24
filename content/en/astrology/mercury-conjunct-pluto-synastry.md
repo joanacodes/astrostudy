@@ -5,6 +5,8 @@ description: "Mercury conjunct Pluto in synastry: one person’s words land in t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Pluto", "conjunction", "synastry"]
 weight: 146
 glyph: "☿☌♇"
 definition: "Mercury conjunct Pluto in synastry brings one person’s Mercury within 6° of the other’s Pluto. The first person’s words reach the second’s depths, so conversations go to the root quickly and can change how both think. I read it as a deep, transforming exchange that needs care with what is private, never as a contest of control."

@@ -5,6 +5,8 @@ description: "Lilith in the 9th house in a birth chart: a conviction or doubt th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "9th house", "houses"]
 weight: 141
 glyph: "⚸"
 definition: "Lilith in the 9th house means Black Moon Lilith, the Moon’s farthest point from Earth, sat in the house of belief, learning and far horizons when you were born. I read it as a conviction or a doubt that didn’t match the one you were raised in, and a refusal of borrowed certainty."

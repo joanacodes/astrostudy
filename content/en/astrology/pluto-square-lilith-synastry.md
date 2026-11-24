@@ -5,6 +5,8 @@ description: "Pluto square Lilith in synastry: one person’s urge to transform 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "Lilith", "square", "synastry"]
 weight: 368
 glyph: "♇□⚸"
 definition: "Pluto square Lilith in synastry puts a right angle, within 3.4°, between one chart’s Pluto and another chart’s mean Black Moon Lilith. One person’s drive to transform keeps pressing on the other’s refusal to be managed, and both can feel pushed. I read it as friction that teaches the difference between change and control."

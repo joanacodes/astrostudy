@@ -5,6 +5,8 @@ description: "Mercury in the 8th house in a birth chart: a mind that goes where 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "8th house", "houses"]
 weight: 32
 glyph: "☿"
 definition: "Mercury in the 8th house is the planet of thought and speech in the house of what is shared, owed and hidden. It describes a researching mind drawn to the conversations others avoid, about trust, intimacy, money between people and loss. Tradition gave this house death; a chart predicts none. It needs the birth time."

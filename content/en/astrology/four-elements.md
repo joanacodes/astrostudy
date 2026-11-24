@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["four elements"]
 family: "foundations"
+categories: ["Foundations"]
+tags: ["elements", "birth chart"]
 weight: 15
 glyph: "♈♉♊♋"
 definition: "The four elements, fire, earth, air and water, sort the twelve signs into four families of three. Fire acts on enthusiasm, earth trusts what it can touch, air lives through ideas and exchange, water reads the world through feeling. In a chart, an element describes the temperament a sign lends its planets, never a verdict."

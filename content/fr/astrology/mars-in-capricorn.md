@@ -6,6 +6,8 @@ description: "Mars en Capricorne dans un thème natal : Mars en exaltation, un 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Capricorne"]
 weight: 58
 glyph: "♂♑"
 definition: "Mars en Capricorne, c’est Mars en exaltation, à l’œuvre dans la terre cardinale de Saturne. On y lit un élan qui a un plan : vous dosez votre énergie, la dépensez là où elle compte, et grimpez vers vos buts lointains quand d’autres s’arrêtent. Ce placement se retrouve chez environ 1 personne sur 14."

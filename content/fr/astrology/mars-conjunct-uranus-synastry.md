@@ -6,6 +6,8 @@ description: "Mars conjonction Uranus en synastrie : l’envie d’agir de l’
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Uranus", "conjonction", "synastrie"]
 weight: 221
 glyph: "♂☌♅"
 definition: "Mars conjonction Uranus en synastrie signifie que Mars, chez une personne, se trouve à moins de 6° d’Uranus chez l’autre. Ce que la seconde veut changer, essayer ou quitter, la première est prête à le faire : les idées nouvelles démarrent vite. J’y lis un élan commun vers le changement, au mieux quand les deux choisissent le rythme."

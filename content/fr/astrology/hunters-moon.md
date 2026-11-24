@@ -6,6 +6,8 @@ description: "La Lune du chasseur, première pleine lune après la Lune des mois
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 29
 glyph: "○"
 definition: "La Lune du chasseur est la première pleine lune après la Lune des moissons : elle tombe en octobre, ou début novembre quand la Lune des moissons est venue en octobre. C’est un vieux nom anglais, pas de l’astrologie. Dans un thème, c’est une pleine lune en Bélier, le Soleil en Balance, ou en Taureau, le Soleil en Scorpion."

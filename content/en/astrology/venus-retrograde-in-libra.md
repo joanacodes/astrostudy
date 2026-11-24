@@ -5,6 +5,8 @@ description: "Venus retrograde in Libra, its own sign: four from 2000 to 2040, e
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Venus", "retrograde", "Venus retrograde", "Libra"]
 weight: 19
 glyph: "♀℞♎"
 definition: "Venus retrograde in Libra is the second half of Venus’s autumn retrograde, every eight years, when Venus seems from Earth to back out of Scorpio into its own sign of Libra and turn direct there. I read it as fairness and give-and-take weighed again, in the house Libra occupies in your chart."

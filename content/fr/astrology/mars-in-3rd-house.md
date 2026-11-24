@@ -6,6 +6,8 @@ description: "Mars en maison 3 dans un thème natal : un élan qui passe par le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "maison 3", "maisons"]
 weight: 51
 glyph: "♂"
 definition: "Avec Mars en maison 3, la planète de l’élan travaille dans la maison de l’esprit de tous les jours : penser, parler, apprendre, les proches du voisinage et les petits trajets. On y lit un élan verbal : vous décidez vite, parlez avec franchise et aimez les débats animés. Sa lecture demande une heure de naissance exacte."

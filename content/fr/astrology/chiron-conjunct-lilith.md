@@ -6,6 +6,8 @@ description: "Chiron conjonction Lilith dans un thème natal : s’adapter à u
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Lilith", "conjonction"]
 weight: 365
 glyph: "⚷☌⚸"
 definition: "Chiron conjonction Lilith, c’est la rencontre, à quelques degrés près, de Chiron et de la Lune noire Lilith moyenne dans votre thème natal. La façon dont vous vous adaptez à une difficulté durable et la part de vous qui refusait d’être domptée agissent ensemble : vos manières de contourner l’obstacle suivent en général vos propres règles."

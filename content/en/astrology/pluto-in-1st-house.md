@@ -5,6 +5,8 @@ description: "Pluto in the 1st house in a birth chart: an intense presence and a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "1st house", "houses"]
 weight: 109
 glyph: "♇"
 definition: "Pluto in the 1st house is the planet of deep change in the house of the self, the body and the way you meet the world. It describes an intense, private presence and the capacity to reinvent yourself completely. It needs an accurate birth time: in Placidus, this house begins at the Ascendant."

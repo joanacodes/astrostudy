@@ -5,6 +5,8 @@ description: "Saturn transiting the 3rd house: about three years when the everyd
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "3rd house", "transits"]
 weight: 15
 glyph: "♄"
 definition: "Saturn transiting the 3rd house is the season, usually just under three years, when Saturn’s slow discipline reaches the everyday mind: how you think, talk, learn and get about. What it structures is already in your chart: study made careful, words weighed, skills built to last."

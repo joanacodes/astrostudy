@@ -6,6 +6,8 @@ description: "Mars sextile Chiron dans un thème natal : les méthodes apprises
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Chiron", "sextile"]
 weight: 226
 glyph: "♂⚹⚷"
 definition: "Mars sextile Chiron relie votre façon d’agir à votre façon de vous adapter, à environ 60°, en général entre deux signes séparés par un autre. Le savoir-faire pratique y est à portée de votre effort : une meilleure méthode, un rythme qui tient, un soutien à la mesure. J’y lis une ressource qui se construit en s’exerçant."

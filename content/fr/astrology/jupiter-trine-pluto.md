@@ -6,6 +6,8 @@ description: "Jupiter trigone Pluton dans un thème natal : un renouveau qui no
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Pluton", "trigone"]
 weight: 258
 glyph: "♃△♇"
 definition: "Jupiter trigone Pluton désigne un écart d’environ 120° entre les deux planètes, en général dans des signes d’un même élément, atteint quatre ou cinq ans avant et après chacune de leurs rencontres. Dans un thème, le renouveau nourrit la croissance, et la croissance donne une direction au renouveau. J’y lis une résilience tranquille, qui élargit la vue."

@@ -6,6 +6,8 @@ description: "Le Lion en astrologie : le signe de feu fixe gouverné par le Sol
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signes"]
+tags: ["Lion"]
 weight: 5
 glyph: "♌"
 definition: "Le Lion est le cinquième signe du zodiaque, un signe de feu fixe gouverné par le Soleil, qui le traverse du 23 juillet au 22 août environ. Dans un thème natal, il désigne là où vous voulez créer, et que cela se voie : la chaleur, la fierté, la générosité, le jeu. Sa maison montre où vous avez besoin de briller."

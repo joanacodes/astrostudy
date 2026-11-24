@@ -6,6 +6,8 @@ description: "Uranus sextile Lilith en synastrie : les chemins peu communs de l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Lilith", "sextile", "synastrie"]
 weight: 332
 glyph: "♅⚹⚸"
 definition: "Uranus sextile Lilith en synastrie signifie qu’à 2,4° près, environ 60° séparent Uranus, chez une personne, de la Lune noire Lilith de l’autre. Les manières peu conventionnelles de l’une offrent une issue à la part gardée de l’autre, qui ne s’ouvre que si celle-ci le choisit. Datées avec la Lilith moyenne, ses fenêtres sont brèves et reviennent."

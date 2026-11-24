@@ -6,6 +6,8 @@ description: "Soleil trigone Chiron dans un thème natal : un point sensible po
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Chiron", "trigone"]
 weight: 41
 glyph: "☉△⚷"
 definition: "Soleil trigone Chiron signifie qu’à votre naissance, Chiron se trouvait à environ 120° du Soleil. Dans un thème, votre sens de vous-même et ce que vous avez appris autour d’un point sensible s’accordent : vous le portez légèrement, et les autres se sentent en confiance. J’y lis une aisance qui cache tout ce qui a été appris."

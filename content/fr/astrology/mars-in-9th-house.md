@@ -6,6 +6,8 @@ description: "Mars en maison 9 dans un thème natal : un élan pour les convict
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "maison 9", "maisons"]
 weight: 57
 glyph: "♂"
 definition: "Mars en maison 9 tourne votre élan vers les horizons lointains : la croyance, les études supérieures, les grands voyages et la quête de sens. On y lit une énergie pour ce que vous croyez et voulez comprendre : vous défendez des principes, apprenez avec enthousiasme et partez à l’aventure. Sa position exige une heure de naissance exacte."

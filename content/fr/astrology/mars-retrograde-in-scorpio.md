@@ -6,6 +6,8 @@ description: "Mars rétrograde en Scorpion, signe que Mars gouverne selon la tra
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mars", "rétrograde", "Mars rétrograde", "Scorpion"]
 weight: 32
 glyph: "♂℞♏"
 definition: "Mars rétrograde en Scorpion, c’est le recul apparent de Mars dans un signe que Mars gouverne selon la tradition, onze semaines environ au printemps : du Sagittaire au Scorpion en 2016, entièrement en Scorpion de mars à juin 2031. J’y lis le désir et la détermination ramenés à leurs racines, dans la maison du Scorpion de votre thème."

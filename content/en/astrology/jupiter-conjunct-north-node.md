@@ -5,6 +5,8 @@ description: "Jupiter conjunct North Node in a birth chart: meaning joined to yo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "North Node", "conjunction"]
 weight: 270
 glyph: "♃☌☊"
 definition: "Jupiter conjunct North Node means Jupiter within a few degrees of the North Node, the point read as your direction of growth, and so opposite the South Node. In a chart, meaning and practice join: understanding gives the less familiar path a reason. I read it as a path to practise rather than a fate."

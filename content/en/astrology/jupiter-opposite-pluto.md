@@ -5,6 +5,8 @@ description: "Jupiter opposite Pluto in a birth chart: breadth and depth across 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Pluto", "opposition"]
 weight: 259
 glyph: "♃☍♇"
 definition: "Jupiter opposite Pluto means Jupiter and Pluto about 180° apart, an angle reached about six years after each of their meetings, for a few months. In a chart, growing outward and going down to the root pull towards opposite sides, and each shows you what the other misses. I read it as a polarity to balance, never a battle."

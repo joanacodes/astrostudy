@@ -5,6 +5,8 @@ description: "Venus trine Chiron in a birth chart: what you value and what adapt
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Chiron", "trine"]
 weight: 188
 glyph: "♀△⚷"
 definition: "Venus trine Chiron means Venus and Chiron were about 120° apart at your birth, usually in signs of the same element. In a chart, what you value and what you’ve learned by adapting flow together: you make room for difference with ease, and your taste is refined by experience. I read it as a quiet skill in relating."

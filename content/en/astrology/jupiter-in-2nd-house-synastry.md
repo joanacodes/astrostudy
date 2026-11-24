@@ -5,6 +5,8 @@ description: "Their Jupiter in your 2nd house in synastry: their generosity meet
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "2nd house", "synastry", "house overlays"]
 weight: 62
 glyph: "♃"
 definition: "Their Jupiter in your 2nd house carries the other person’s Jupiter to your resources, belongings and self-worth. In synastry their generosity meets what you value: they may widen your sense of your own worth and give freely, and they feel at home with your steadiness. It describes values and giving, never a promise of money."

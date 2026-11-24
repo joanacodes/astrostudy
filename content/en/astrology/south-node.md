@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["South Node"]
 family: "angles"
+categories: ["Planets and points"]
+tags: ["South Node", "lunar nodes"]
 weight: 8
 glyph: "☋"
 definition: "The South Node is the point where the Moon’s path crosses the Sun’s going south, always exactly opposite the North Node. In a birth chart, astrologers read it as familiar ground: what came easily or early, the habits you fall back on. Some link it to past lives; plainly read, it’s where you start, not where you stay."

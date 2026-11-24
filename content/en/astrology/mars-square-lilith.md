@@ -5,6 +5,8 @@ description: "Mars square Lilith in a birth chart: friction between your drive a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Lilith", "square"]
 weight: 232
 glyph: "♂□⚸"
 definition: "Mars square Lilith is a 90° angle between Mars and Black Moon Lilith at birth, usually in signs of one modality. Your drive and your untamed side rub: what you push for and what you refuse don’t always agree. I read it as friction that teaches exactly where your boundaries are, and how to keep them."

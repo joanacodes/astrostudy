@@ -5,6 +5,8 @@ description: "Sun in Aries, Moon in Libra: opposite signs, born close to the ful
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries", "Moon", "Libra"]
 weight: 7
 glyph: "☉♈☽♎"
 definition: "Sun in Aries, Moon in Libra places the two lights in opposite signs, twelve and a half to seventeen days after a new moon, close to the full moon. I read it as two initiators facing each other: a self that pursues its own aims, and needs that settle only when things are fair and calm around you."

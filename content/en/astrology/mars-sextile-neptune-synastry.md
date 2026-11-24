@@ -5,6 +5,8 @@ description: "Mars sextile Neptune in synastry: one person’s drive offers the 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Neptune", "sextile", "synastry"]
 weight: 227
 glyph: "♂⚹♆"
 definition: "Mars sextile Neptune in synastry means the gap between one person’s Mars and the other’s Neptune is close to 60°, within 3.6°. Drive on one side and imagination on the other cooperate readily, provided one of them moves first. I read it as gentle encouragement between two people: practical help for an ideal, offered and taken by choice."

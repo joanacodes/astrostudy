@@ -5,6 +5,8 @@ description: "Their Saturn in your 3rd house in synastry: their care and caution
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "3rd house", "synastry", "house overlays"]
 weight: 75
 glyph: "♄"
 definition: "Their Saturn in your 3rd house sets someone else’s Saturn among your daily conversations, lessons, messages and the people nearby. In synastry their sense of structure meets the way you think aloud: your words may grow more careful and exact around them, and they often feel responsible for getting things right with you."

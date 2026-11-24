@@ -5,6 +5,8 @@ description: "Moon in Gemini in a birth chart: feelings understood by naming the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Gemini"]
 weight: 15
 glyph: "☽♊"
 definition: "Moon in Gemini means the Moon was in Gemini when you were born. I read it as feelings that become clear once they have words: you settle by naming what you feel, talking it through or writing it down, and you find comfort in conversation, curiosity and a change of scene."

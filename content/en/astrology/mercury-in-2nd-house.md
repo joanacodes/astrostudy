@@ -5,6 +5,8 @@ description: "Mercury in the 2nd house in a birth chart: a mind that weighs wort
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "2nd house", "houses"]
 weight: 26
 glyph: "☿"
 definition: "Mercury in the 2nd house is the planet of thought and speech in the house of resources: what you own, earn, can do and value. It describes a mind that keeps a running sense of worth, compares and plans, and treats its own knowledge and words as resources. It predicts no income, and it needs the birth time."

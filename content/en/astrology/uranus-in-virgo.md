@@ -5,6 +5,8 @@ description: "Uranus in Virgo in a birth chart: a quiet reform of method, for th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Virgo"]
 weight: 90
 glyph: "♅♍"
 definition: "Uranus in Virgo is the planet of change in a mutable earth sign ruled by Mercury, the sign of method and useful detail. Births from November 1961 to June 1969 all carry it. I read it as a generation’s urge to reform how everyday work is done; the house shows where you do it yourself."

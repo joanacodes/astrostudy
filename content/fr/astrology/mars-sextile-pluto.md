@@ -6,6 +6,8 @@ description: "Mars sextile Pluton dans un thème natal : la profondeur et l’e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Pluton", "sextile"]
 weight: 221
 glyph: "♂⚹♇"
 definition: "Mars sextile Pluton relie l’effort et la transformation à environ 60°, en général entre deux signes séparés par un autre. La profondeur y est à portée de votre élan : vous pouvez vous concentrer intensément, ramener un projet à l’essentiel et le renouveler, quand vous le décidez. J’y lis une ouverture pour un effort qui régénère."

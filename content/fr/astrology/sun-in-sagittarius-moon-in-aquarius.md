@@ -6,6 +6,8 @@ description: "Soleil en Sagittaire, Lune en Verseau : le feu et l’air en sext
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Sagittaire", "Lune", "Verseau"]
 weight: 107
 glyph: "☉♐☽♒"
 definition: "Soleil en Sagittaire, Lune en Verseau relie le feu mutable et l’air fixe en sextile par signe, pour une naissance sous un premier croissant, quelques jours après une nouvelle lune. Jupiter gouverne le signe du Soleil, Uranus et Saturne celui de la Lune. J’y lis un moi qui voit loin, aux besoins comblés par la compagnie des esprits."

@@ -5,6 +5,8 @@ description: "Houses by topic: which houses of a birth chart astrologers read fo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "houses"
+categories: ["Houses"]
+tags: ["houses"]
 weight: 38
 glyph: "✦"
 definition: "Houses by topic is a map of which houses astrologers read for which part of life: the 5th and 7th for love, the 2nd and 8th for money, the 6th and 10th for work, the 4th for home. A topic usually spans several houses and planets, and the houses describe how you live it, never what will happen."

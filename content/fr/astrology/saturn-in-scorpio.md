@@ -6,6 +6,8 @@ description: "Saturne en Scorpion dans un thème natal : la confiance et le con
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Scorpion"]
 weight: 80
 glyph: "♄♏"
 definition: "Saturne en Scorpion est un placement sur ses gardes : la planète des limites dans un signe d’eau fixe gouverné par Pluton en astrologie tropicale moderne et par Mars dans la tradition. Les personnes nées vers 1953–1956, 1982–1985 ou 2012–2015 l’ont en commun. Ses leçons : la confiance, le contrôle, une intimité gardée tant qu’elle n’est pas méritée."

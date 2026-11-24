@@ -5,6 +5,8 @@ description: "Venus sextile Uranus in synastry: one person experiments, the othe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Uranus", "sextile", "synastry"]
 weight: 182
 glyph: "♀⚹♅"
 definition: "Venus sextile Uranus in synastry means one person’s Venus is about 60° from the other’s Uranus, within 3.6°. One person’s experiments meet the other’s taste, which sorts the lovely from the merely new, and both come away a little freer. I read it as originality and discernment in partnership, waiting for a first step."

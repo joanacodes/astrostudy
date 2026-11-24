@@ -5,6 +5,8 @@ description: "Moon in Taurus in a birth chart: the Moon’s exaltation, feelings
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Taurus"]
 weight: 14
 glyph: "☽♉"
 definition: "Moon in Taurus means the Moon was in Taurus at your birth, the sign where tradition says it is exalted. I read it as feelings that move at a walking pace, settled through the body, routine and familiar comforts, and a sense of safety that, once built, is very hard to knock over."

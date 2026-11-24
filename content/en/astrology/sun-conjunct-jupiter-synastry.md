@@ -5,6 +5,8 @@ description: "Sun conjunct Jupiter in synastry: one person’s urge to widen lan
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Jupiter", "conjunction", "synastry"]
 weight: 21
 glyph: "☉☌♃"
 definition: "Sun conjunct Jupiter in synastry means one person’s Jupiter sits within 8° of the other’s Sun. One person’s sense of what could grow lands on who the other is, so the Sun person tends to feel believed in. I read it as encouragement at close range, at its best when it stays an offer rather than a plan for someone."

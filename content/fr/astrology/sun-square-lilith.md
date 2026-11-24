@@ -6,6 +6,8 @@ description: "Soleil carré Lilith dans un thème natal : la personne que vous 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lilith", "carré"]
 weight: 45
 glyph: "☉□⚸"
 definition: "Soleil carré Lilith signifie qu’à votre naissance, la Lune noire Lilith et votre Soleil étaient à un quart de zodiaque d’écart. Dans un thème, votre idée de qui vous devriez être frotte contre la part de vous qui n’a pas voulu obéir : vous oscillez parfois entre retenue et refus. J’y lis une friction qui apprend à choisir, jamais un défaut."

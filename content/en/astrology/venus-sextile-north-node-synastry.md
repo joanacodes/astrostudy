@@ -5,6 +5,8 @@ description: "Venus sextile North Node in synastry: one person’s affection sit
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "North Node", "sextile", "synastry"]
 weight: 207
 glyph: "♀⚹☊"
 definition: "Venus sextile North Node in synastry means one person’s Venus is about 60° from the other’s North Node, within 3.6°, and so about 120° from their South Node. The first person’s affection is at ease with the second’s familiar strengths and a short step from what they’re learning. I read it as an opening, not a push."

@@ -5,6 +5,8 @@ description: "Pluto transiting the 7th house: often about twenty-four years in w
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "7th house", "transits"]
 weight: 55
 glyph: "♇"
 definition: "Pluto transiting the 7th house begins when Pluto crosses your Descendant and lasts, at London’s latitude, about twenty-four years in the middle. It works on your closest one-to-one bonds: whom you choose, what you give, and where power sits between you. It forecasts no meeting and no break-up."

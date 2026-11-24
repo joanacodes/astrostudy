@@ -5,6 +5,8 @@ description: "Direct motion in astrology: a planet moving forward through the si
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "dignities"
+categories: ["Planets and points"]
+tags: ["retrograde"]
 weight: 1
 glyph: "D"
 definition: "Direct motion is a planet’s ordinary forward movement through the zodiac, from Aries towards Taurus and on, as seen from Earth. The Sun and Moon are always direct, and every planet is direct most of the time, between its retrogrades. In a birth chart it is the default state: it adds no meaning of its own."

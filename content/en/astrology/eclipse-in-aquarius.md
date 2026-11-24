@@ -5,6 +5,8 @@ description: "Eclipses in Aquarius: fifteen from 2000 to 2040, three annular one
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["eclipses", "Aquarius"]
 weight: 11
 glyph: "●♒"
 definition: "Aquarius takes its share of eclipses on the Aquarius–Leo axis: solar ones, when a new moon near the nodes joins the Sun in Aquarius, and lunar ones, when the full Moon in Aquarius faces a Leo Sun. Fifteen fall from 2000 to 2040. I take one into account only when a natal point lies within about three degrees."

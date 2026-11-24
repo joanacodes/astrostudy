@@ -5,6 +5,8 @@ description: "Jupiter square Neptune in a birth chart: friction between what you
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Neptune", "square"]
 weight: 252
 glyph: "♃□♆"
 definition: "Jupiter square Neptune means Jupiter and Neptune stood 90° apart at your birth, an angle the sky forms about every six or seven years for a few months. Your principles and your ideals keep rubbing, and the vision tends to outrun the map. Its friction teaches discernment; it is never a flaw in your judgement."

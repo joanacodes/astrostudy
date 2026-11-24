@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["hard aspects", "soft aspects", "hard aspect", "soft aspect"]
 family: "aspects"
+categories: ["Aspects"]
+tags: []
 weight: 41
 glyph: "□/△"
 definition: "Hard and soft aspects are the two families astrologers sort planetary angles into. The square and the opposition are hard: friction and tension that ask for effort. The trine and the sextile are soft: ease, and openings to use. The conjunction belongs to neither. Hard never means bad, and soft never means lucky."

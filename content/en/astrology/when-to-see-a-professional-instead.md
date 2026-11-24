@@ -5,6 +5,8 @@ description: "When to see a professional instead of an astrologer: the questions
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Readings"]
+tags: ["mental health"]
 weight: 67
 glyph: "✦"
 definition: "See a professional instead of an astrologer whenever your question is about your body, your mind, the law, your money or anyone’s safety. A doctor, a therapist, a lawyer, a financial adviser or the emergency services can act on it; a chart can’t. A reading is for reflection, and it works best alongside their answers, never in their place."

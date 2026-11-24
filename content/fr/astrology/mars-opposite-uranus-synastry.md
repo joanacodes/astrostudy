@@ -6,6 +6,8 @@ description: "Mars opposition Uranus en synastrie : l’envie de s’engager de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Uranus", "opposition", "synastrie"]
 weight: 225
 glyph: "♂☍♅"
 definition: "Mars opposition Uranus en synastrie signifie que Mars, chez une personne, se trouve à environ 180° d’Uranus chez l’autre, dans des signes opposés. L’une penche vers l’engagement, l’autre vers la marge de changement, et chacune réveille ce que l’autre néglige. Pour moi, c’est une bascule, et sa leçon est l’indépendance sans la distance."

@@ -6,6 +6,8 @@ description: "Pluton opposition Lilith dans un thème natal : le changement pro
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Lilith", "opposition"]
 weight: 359
 glyph: "♇☍⚸"
 definition: "Pluton opposition Lilith signifie qu’à votre naissance, Pluton et la Lune noire Lilith moyenne se faisaient face, à environ 180°. Dans un thème, votre capacité de changer en profondeur et la part de vous qui refuse d’être domptée se regardent d’un bout à l’autre d’un axe, et chacune rend l’autre visible. J’y lis une polarité à équilibrer, pas une querelle."

@@ -6,6 +6,8 @@ description: "La Lune de l’autre dans votre maison 6 en synastrie : ses émot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 18
 glyph: "☽"
 definition: "La Lune de l’autre dans votre maison 6 fait passer ses émotions et ses besoins par vos habitudes, votre travail et vos journées. En synastrie, cette personne trouve de la sécurité dans le rythme de vos jours, et le soin entre vous prend des formes concrètes ; cela décrit un réconfort quotidien, jamais votre santé."

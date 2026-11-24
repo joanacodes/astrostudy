@@ -5,6 +5,8 @@ description: "Venus in the 7th house in a birth chart: Venus in the house of par
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "7th house", "houses"]
 weight: 43
 glyph: "♀"
 definition: "Venus in the 7th house means Venus hung low in the west at your birth, close to setting, in the house of partners, whose natural sign, Libra, Venus rules. It describes a gift for partnership and fair exchange, attraction to grace and good company, and a habit of keeping the peace worth balancing with your own voice."

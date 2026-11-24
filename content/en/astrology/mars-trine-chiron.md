@@ -5,6 +5,8 @@ description: "Mars trine Chiron in a birth chart: effort that adapts around a te
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Chiron", "trine"]
 weight: 228
 glyph: "♂△⚷"
 definition: "Mars trine Chiron means Mars and Chiron were about 120° apart when you were born, usually in signs of one element. In a chart it lets your drive and your tender place work together: you act, change the method when something is sore, and keep going. I read it as courage that knows its limits."

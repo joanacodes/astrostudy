@@ -5,6 +5,8 @@ description: "Venus trine Chiron in synastry: two people make room for each othe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Chiron", "trine", "synastry"]
 weight: 199
 glyph: "♀△⚷"
 definition: "Venus trine Chiron in synastry means one person’s Venus is about 120° from the other’s Chiron, within 5.1°. The first person’s tastes tend to make room for what the second has learned to work around, and the second’s adaptations are enjoyed rather than explained. I read it as easy accommodation, worth thanking out loud."

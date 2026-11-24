@@ -6,6 +6,8 @@ description: "Pluton en transit en maison 12 : souvent seize ans environ de cha
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Pluton", "maison 12", "transits"]
 weight: 60
 glyph: "♇"
 definition: "Pluton en transit en maison 12 : un séjour de seize ans environ au milieu, à la latitude de Londres, dans votre maison la plus intime : la solitude, le repos, ce que vous gardez hors de vue. Le travail se fait sous la surface, sur des schémas encore sans nom, et s’achève à votre ascendant. Aucun enfermement n’y est prédit."

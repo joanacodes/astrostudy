@@ -5,6 +5,8 @@ description: "Did my sign change? Why the 13th-sign headline keeps coming back, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["zodiac signs", "testing"]
 weight: 19
 glyph: "✦"
 definition: "No. In the tropical zodiac, the one I use, the signs are counted from the March equinox, so they stay tied to the seasons. Precession slowly shifts the constellations behind them, about a degree every 72 years, and headlines about a thirteenth sign confuse the two. Your sign is the one it always was."

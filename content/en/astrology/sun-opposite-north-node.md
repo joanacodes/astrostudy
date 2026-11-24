@@ -5,6 +5,8 @@ description: "Sun opposite North Node in a birth chart: the Sun on the South Nod
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "North Node", "opposition"]
 weight: 52
 glyph: "☉☍☊"
 definition: "Sun opposite North Node means the Sun stood about 180° from the North Node when you were born, and so beside the South Node. In a chart it roots your sense of self in familiar ground, with the direction of growth across from it. I read it as a polarity to balance, never as a self in the way."

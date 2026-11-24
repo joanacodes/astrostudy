@@ -5,6 +5,8 @@ description: "Moon in Pisces in a birth chart: porous feelings and ready compass
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Pisces"]
 weight: 24
 glyph: "☽♓"
 definition: "Moon in Pisces means the Moon was in Pisces at your birth. I read it as deep and porous feelings: you pick up the moods around you, respond with ready compassion and imagination, and need regular quiet or time alone to find your own feelings again among everyone else’s."

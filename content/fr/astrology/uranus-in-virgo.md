@@ -6,6 +6,8 @@ description: "Uranus en Vierge dans un thème natal : une réforme discrète de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Vierge"]
 weight: 90
 glyph: "♅♍"
 definition: "Uranus en Vierge, c’est la planète du changement dans un signe de terre mutable gouverné par Mercure, celui de la méthode et du détail utile. Toutes les naissances de novembre 1961 à juin 1969 le portent. J’y lis l’envie d’une génération de réformer le travail de tous les jours ; la maison montre où vous vous y mettez vous-même."

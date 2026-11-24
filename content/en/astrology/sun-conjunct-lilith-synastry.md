@@ -5,6 +5,8 @@ description: "Sun conjunct Lilith in synastry: one person’s Sun on what the ot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Lilith", "conjunction", "synastry"]
 weight: 51
 glyph: "☉☌⚸"
 definition: "Sun conjunct Lilith in synastry means one person’s Sun sits within 8° of the other’s Black Moon Lilith. The centre of one life falls on what the other learned to hide, so that part tends to come into view. To me it means recognition for one person and exposure for the other, never a forbidden bond."

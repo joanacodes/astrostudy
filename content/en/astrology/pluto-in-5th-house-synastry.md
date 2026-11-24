@@ -5,6 +5,8 @@ description: "Their Pluto in your 5th house in synastry: their depth in your lov
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "5th house", "synastry", "house overlays"]
 weight: 113
 glyph: "♇"
 definition: "Their Pluto in your 5th house brings the other person’s depth to your pleasures: romance, play and creative work. In synastry joy turns serious, art goes deeper, and romance, where it exists, feels absorbing, while play can tip into rivalry. Tradition gave this house children, but this overlay never predicts them."

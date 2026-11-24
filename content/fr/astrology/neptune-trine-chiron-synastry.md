@@ -6,6 +6,8 @@ description: "Neptune trigone Chiron en synastrie : la compassion de l’une at
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Chiron", "trigone", "synastrie"]
 weight: 349
 glyph: "♆△⚷"
 definition: "Neptune trigone Chiron en synastrie décrit un angle facile de 120°, à 3,4° près, entre Neptune chez une personne et Chiron chez l’autre, en général dans des signes du même élément. La compassion trouve le point sensible de l’autre sans appuyer dessus, et l’adaptation rencontre la compréhension. Le milieu des années 1960 le partage souvent."

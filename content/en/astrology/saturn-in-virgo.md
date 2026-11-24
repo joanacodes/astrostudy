@@ -5,6 +5,8 @@ description: "Saturn in Virgo in a birth chart: competence earned by practice an
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Virgo"]
 weight: 78
 glyph: "♄♍"
 definition: "Saturn in Virgo sets the planet of structure to work in mutable earth, the Mercury-ruled sign of method, detail and use. Those born in roughly 1948–51, 1977–80 or 2007–10 carry it. The lessons: competence earned by practice, and standards high enough that they need room for mistakes."

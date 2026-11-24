@@ -6,6 +6,8 @@ description: "Jupiter opposition Chiron dans un thème natal : la vue large fac
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Chiron", "opposition"]
 weight: 264
 glyph: "♃☍⚷"
 definition: "Jupiter opposition Chiron désigne un écart d’environ 180° entre Jupiter et Chiron, le plus rare de leurs cinq aspects. Dans un thème, la vue large et le point sensible se font face, et l’un des bouts se rencontre souvent chez les autres. J’y lis un appel à garder les deux en vue."

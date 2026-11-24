@@ -5,6 +5,8 @@ description: "Saturn opposite North Node in a birth chart: Saturn on the South N
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "North Node", "opposition"]
 weight: 304
 glyph: "♄☍☊"
 definition: "Saturn opposite North Node means Saturn stood about 180° from the North Node at your birth, and so beside the South Node. In a chart, your sense of duty and your best-built structures sit on familiar ground, while your direction of growth faces them across the chart. I read it as a polarity to balance, not a weight."

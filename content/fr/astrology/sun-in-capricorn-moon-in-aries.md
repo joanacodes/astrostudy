@@ -6,6 +6,8 @@ description: "Soleil en Capricorne, Lune en Bélier : un carré cardinal près 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Capricorne", "Lune", "Bélier"]
 weight: 109
 glyph: "☉♑☽♈"
 definition: "Soleil en Capricorne, Lune en Bélier oppose en carré la terre et le feu, deux signes cardinaux, pour une naissance proche du premier quartier, une semaine environ après la nouvelle lune. Mars, maître de la Lune, a son exaltation en Capricorne ; Saturne, maître du Soleil, sa chute en Bélier. J’y lis un long plan à la mèche courte."

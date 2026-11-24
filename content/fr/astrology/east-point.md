@@ -6,6 +6,8 @@ description: "Le Point Est en astrologie : l’ascendant équatorial, le degré
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["points sensibles"]
 weight: 16
 glyph: "✦"
 definition: "Le Point Est, appelé aussi ascendant équatorial, est le degré du zodiaque qui se lèverait à l’horizon est sur l’équateur terrestre au moment de la naissance. Il dépend de l’heure de naissance et de la longitude du lieu, pas de sa latitude, et se trouve à environ 90° du milieu du ciel."

@@ -6,6 +6,8 @@ description: "Vénus carré Lilith dans un thème natal : le désir de plaire e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Lilith", "carré"]
 weight: 192
 glyph: "♀□⚸"
 definition: "Vénus carré Lilith signifie qu’à votre naissance, Vénus se trouvait à environ 90° de la Lune noire Lilith moyenne, en général dans des signes du même mode. Dans un thème, le désir de plaire et le refus de vous laisser rapetisser pèsent l’un sur l’autre. J’y lis une friction qui apprend à se laisser aimer sans se retoucher."

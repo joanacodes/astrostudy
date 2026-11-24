@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["secondary progressions", "progressions", "progressed chart"]
 family: "techniques"
+categories: ["Transits and cycles"]
+tags: ["progressions"]
 weight: 48
 glyph: "✦"
 definition: "Secondary progressions take the sky one day after your birth for each year of your life: the chart for your 30th day describes your 30th year. They move slowly, the progressed Sun about a degree a year, and astrologers read them as inner development unfolding over time. It is symbolic time, never real motion, and never a promise of events."

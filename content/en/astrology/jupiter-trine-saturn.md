@@ -5,6 +5,8 @@ description: "Jupiter trine Saturn in a birth chart: growth and structure keepin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Saturn", "trine"]
 weight: 243
 glyph: "♃△♄"
 definition: "Jupiter trine Saturn is a 120° angle between the two planets, usually in signs of one element, carried by a few months’ worth of births at a time. Growth and structure keep step: what you hope for and what you can sustain tend to agree. I read it as steady, practical judgement that still needs using."

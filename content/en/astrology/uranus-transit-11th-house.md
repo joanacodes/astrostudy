@@ -5,6 +5,8 @@ description: "Uranus transiting the 11th house: just under seven years of new ci
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "11th house", "transits"]
 weight: 35
 glyph: "♅"
 definition: "Uranus transiting the 11th house is the planet of the future crossing the house of shared futures, usually for just under seven years: friends, groups, networks and hopes. It stirs what your chart already says about belonging, bringing new circles, changed causes, and the wish to belong without having to fit in."

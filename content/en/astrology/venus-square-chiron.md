@@ -5,6 +5,8 @@ description: "Venus square Chiron in a birth chart: the wish to be valued and a 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Chiron", "square"]
 weight: 187
 glyph: "♀□⚷"
 definition: "Venus square Chiron means Venus and Chiron were about 90° apart at your birth, usually in signs of the same modality. In a chart, the wish to be valued and a lasting sensitivity keep crossing, so affection can touch a tender spot. To me it’s friction that trains a real skill in relating; it says nothing final about your worth."

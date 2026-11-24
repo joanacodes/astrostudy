@@ -5,6 +5,8 @@ description: "Pluto in Libra in a birth chart: a generation that remakes partner
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Libra"]
 weight: 115
 glyph: "♇♎"
 definition: "Pluto in Libra carries deep change into the sign of the scales, cardinal air ruled by Venus. It belongs to the generation born from October 1971 to August 1984, about 1 person in 7 born from 1930 to 2009. In a chart it describes relationships remade: fairness, equality and the terms between two people."

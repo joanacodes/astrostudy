@@ -6,6 +6,8 @@ description: "La Lune du castor, pleine lune de novembre : la prochaine le 24 n
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 30
 glyph: "○"
 definition: "La Lune du castor est le nom que les almanachs donnent à la pleine lune de novembre, la saison où les castors se préparent à l’hiver et où les trappeurs posaient autrefois leurs pièges. C’est un nom populaire, pas d’astrologie. Dans un thème, c’est le plus souvent une pleine lune en Taureau, le Soleil en Scorpion."

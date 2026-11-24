@@ -211,6 +211,11 @@ blogNoMatch = "Aucun article ne correspond. Essayez un autre mot, ou une autre c
 blogRelated = "À lire aussi"
 blogLatestList = "Les derniers articles"
 blogEntries = "Dans l’encyclopédie"
+mustReads = "À lire absolument"
+mustLatest = "Dernier article"
+mustBlog = "Blog"
+mustPrev = "Précédent"
+mustNext = "Suivant"
 byline = "Par {{ .name }}, de The Astro Study"
 
 # llms.txt (une carte du site en texte simple, pour les assistants IA)

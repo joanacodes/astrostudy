@@ -6,6 +6,8 @@ description: "Mars carré Neptune dans un thème natal : l’élan et l’idéa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Neptune", "carré"]
 weight: 217
 glyph: "♂□♆"
 definition: "Mars carré Neptune place votre élan et vos idéaux à environ 90°, en général dans des signes d’un même mode. Dans un thème, l’effort y rencontre sans cesse l’imagination : vous voulez agir, et vous voulez que l’acte soit à la hauteur d’une vision. J’y lis une friction qui apprend à agir pour un idéal sans attendre une clarté parfaite."

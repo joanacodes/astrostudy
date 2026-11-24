@@ -5,6 +5,8 @@ description: "Sun in Virgo, Moon in Virgo: purpose and comfort in one exacting s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Virgo", "Moon"]
 weight: 66
 glyph: "☉♍☽♍"
 definition: "Sun in Virgo, Moon in Virgo means a birth close to a new moon with both lights in mutable earth, ruled together by Mercury. I read it as one exacting voice for purpose and comfort alike: you feel most yourself, and most at ease, in the same moment, when something has been done well."

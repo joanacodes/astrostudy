@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["thème composite", "composite"]
 family: "techniques"
+categories: ["Synastrie"]
+tags: ["thème composite", "synastrie"]
 weight: 51
 glyph: "✦"
 definition: "Le thème composite est un thème unique pour une relation, construit en plaçant chaque planète au mi-point de ses positions dans deux thèmes natals. Les astrologues y lisent le caractère et le sens de la relation elle-même, avec les deux thèmes natals et la synastrie. Il ne dit jamais combien de temps une relation durera, ni si elle réussira."

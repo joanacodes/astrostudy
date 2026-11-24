@@ -5,6 +5,8 @@ description: "Venus trine Neptune in a birth chart: taste and imagination in one
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Neptune", "trine"]
 weight: 178
 glyph: "♀△♆"
 definition: "Venus trine Neptune means Venus and Neptune were about 120° apart at your birth, usually in signs of the same element. In a chart, what you value and what you imagine flow together: taste opens onto something larger, and kindness comes without strain. I read it as a quiet gift that does most when you give it a form."

@@ -5,6 +5,8 @@ description: "Lilith sextile North Node in a birth chart: your instinct scouts f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "North Node", "sextile"]
 weight: 376
 glyph: "⚸⚹☊"
 definition: "Lilith sextile North Node is a 60° angle between the mean Black Moon Lilith and the North Node at birth, with Lilith 120° from the South Node. In a chart, your untamed side gets a working role in your growth: it tends to know which unfamiliar paths are genuinely yours, if you choose to listen."

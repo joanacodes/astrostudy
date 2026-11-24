@@ -5,6 +5,8 @@ description: "The Cold moon, December’s full moon: the next on 24 December 202
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 31
 glyph: "○"
 definition: "The Cold moon is the almanacs’ name for the full moon of December, the month the cold sets in, near the longest night of the year. It is a folk name, not astrology. In a chart it is a full moon in Gemini, with the Sun in Sagittarius, or in Cancer, with the Sun in Capricorn."

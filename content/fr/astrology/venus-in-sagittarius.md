@@ -6,6 +6,8 @@ description: "Vénus en Sagittaire dans un thème natal : une affection qui voy
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Sagittaire"]
 weight: 45
 glyph: "♀♐"
 definition: "Vénus en Sagittaire porte la planète de la valeur et de l’attirance dans le feu mutable, le neuvième signe, que gouverne Jupiter. On y lit le goût de la liberté, de l’honnêteté et de l’inconnu, une affection qui partage aventures et idées, et une façon d’aimer qui s’engage le mieux auprès de qui laisse de la place pour grandir."

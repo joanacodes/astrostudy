@@ -5,6 +5,8 @@ description: "Jupiter opposite Lilith in synastry: one person’s convictions fa
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Lilith", "opposition", "synastry"]
 weight: 280
 glyph: "♃☍⚸"
 definition: "Jupiter opposite Lilith in synastry means one person’s Jupiter is about 180° from the other’s Black Moon Lilith, within 5°. One person’s beliefs and the other’s untamed refusals sit at opposite ends of one line, each easier to see against the other. I read it as a seesaw between faith and defiance, never as enmity."

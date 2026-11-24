@@ -6,6 +6,8 @@ description: "Mars conjonction Jupiter en synastrie : ce à quoi l’une croit,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Jupiter", "conjonction", "synastrie"]
 weight: 211
 glyph: "♂☌♃"
 definition: "Mars conjonction Jupiter en synastrie signifie que Mars, chez une personne, se trouve à moins de 6° de Jupiter chez l’autre. L’élan de la première tombe sur les convictions de la seconde : l’effort trouve une raison, et une raison trouve qui agira. J’y lis un élan partagé qui demande le sens de la mesure."

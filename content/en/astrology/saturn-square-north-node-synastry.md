@@ -5,6 +5,8 @@ description: "Saturn square North Node in synastry: one person’s terms stand a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "North Node", "square", "synastry"]
 weight: 313
 glyph: "♄□☊"
 definition: "Saturn square North Node in synastry puts one person’s Saturn at right angles to the other’s nodal axis, within 4.25°: square to the North Node and to the South Node alike. One person’s terms stand across the other’s path, halfway between the familiar and the new. I read it as friction that asks to be included, through the houses."

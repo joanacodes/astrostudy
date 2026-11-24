@@ -6,6 +6,8 @@ description: "Vénus trigone Mars en synastrie : ce qui plaît à l’une et ce
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Mars", "trigone", "synastrie"]
 weight: 169
 glyph: "♀△♂"
 definition: "Vénus trigone Mars en synastrie signifie que Vénus, chez une personne, se trouve à environ 120° de Mars chez l’autre, à 5,1° près, en général dans le même élément. Le goût de l’une et la manière d’agir de l’autre vont au même pas : l’effort tombe là où il plaît. J’y lis une coopération facile, réelle mais à entretenir."

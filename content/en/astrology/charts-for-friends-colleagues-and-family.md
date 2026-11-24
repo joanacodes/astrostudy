@@ -5,6 +5,8 @@ description: "Synastry beyond couples: comparing charts with a friend, a colleag
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "techniques"
+categories: ["Synastry"]
+tags: ["synastry"]
 weight: 56
 glyph: "✦"
 definition: "Comparing charts isn’t only for couples. Between friends, colleagues or adult family members, synastry uses the same method, aspects and house overlays read both ways, with different planets leading for each bond. It needs both birth times, two adults who both know, and for a colleague, their agreement. It describes how you meet, never who someone should be to you."

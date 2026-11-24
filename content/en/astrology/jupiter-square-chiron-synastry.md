@@ -5,6 +5,8 @@ description: "Jupiter square Chiron in synastry: one person’s hopes rub agains
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Chiron", "square", "synastry"]
 weight: 273
 glyph: "♃□⚷"
 definition: "Jupiter square Chiron in synastry means one person’s Jupiter is about 90° from the other’s Chiron, within 4.25°. Encouragement and a long-standing limitation keep meeting at an angle, often over pace. The friction can teach help that adapts; whole birth years share it, and a limit is never a failure."

@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["5th house", "fifth house"]
 family: "houses"
+categories: ["Houses"]
+tags: ["5th house"]
 weight: 5
 glyph: "V"
 definition: "The 5th house is the fifth of the twelve houses of a birth chart. Astrologers read it as what you do for joy: creativity, pleasure, play and romance, and the way you show yourself when nobody is grading you. Tradition called it Good Fortune and placed the joy of Venus there."

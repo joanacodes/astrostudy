@@ -6,6 +6,8 @@ description: "Saturne de l’autre dans votre maison 6 en synastrie : une disci
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 78
 glyph: "♄"
 definition: "Saturne de l’autre dans votre maison 6 range Saturne, chez une autre personne, parmi vos tâches, vos routines et vos habitudes, la mécanique de votre semaine. En synastrie, sa discipline rencontre votre quotidien : vous en faites davantage et tenez mieux vos habitudes, et l’autre se sent responsable de la marche de vos journées. La santé n’y a aucune part."

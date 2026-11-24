@@ -5,6 +5,8 @@ description: "Venus trine Uranus in synastry: room given freely both ways, and a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Uranus", "trine", "synastry"]
 weight: 184
 glyph: "♀△♅"
 definition: "Venus trine Uranus in synastry means one person’s Venus is about 120° from the other’s Uranus, within 5.1°. The first person enjoys the second’s originality as it is, and the second feels free without having to ask, so the bond tends to have air in it. I read it as easy room on both sides, worth anchoring."

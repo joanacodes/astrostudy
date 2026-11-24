@@ -5,6 +5,8 @@ description: "The triseptile in astrology: two planets 154°17′ apart, three-s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["triseptile", "minor aspects"]
 weight: 14
 glyph: "✦"
 definition: "A triseptile spans three-sevenths of the circle between two planets, about 154°17′, usually five signs apart. Read in a birth chart, it describes convergence: separate strands of two planets’ development that, over repeated rounds, come together into one working whole. It’s the sevens’ way of integrating, not a destiny written in advance."

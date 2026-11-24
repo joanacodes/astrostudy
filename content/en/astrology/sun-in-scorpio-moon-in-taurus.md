@@ -5,6 +5,8 @@ description: "Sun in Scorpio, Moon in Taurus: opposite fixed signs near the full
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Scorpio", "Moon", "Taurus"]
 weight: 86
 glyph: "☉♏☽♉"
 definition: "Sun in Scorpio, Moon in Taurus sets the lights in opposite fixed signs, usually within a couple of days of the full moon in Taurus, with the Moon at its exaltation. I read it as a self that goes looking for what lies beneath, steadied by needs that rest on continuity and the familiar."

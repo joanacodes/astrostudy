@@ -6,6 +6,8 @@ description: "Saturne sextile Neptune dans un thème natal : une porte entre le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Neptune", "sextile"]
 weight: 281
 glyph: "♄⚹♆"
 definition: "Saturne sextile Neptune place les deux planètes à environ 60° à la naissance, en général dans des signes d’éléments compatibles. Quatre vagues de naissances l’ont partagé entre 1946 et 1997. Dans un thème, il ouvre une porte entre la structure et l’imagination : l’idéal trouve un premier pas concret, la routine une raison d’être, dès que vous vous en servez."

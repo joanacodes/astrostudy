@@ -6,6 +6,8 @@ description: "Saturne sextile Nœud Nord en synastrie : la discipline de l’un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Nœud Nord", "sextile", "synastrie"]
 weight: 312
 glyph: "♄⚹☊"
 definition: "Saturne sextile Nœud Nord en synastrie relie Saturne d’une personne au Nœud Nord de l’autre par environ 60°, à 3° près, ce qui place Saturne en trigone à son Nœud Sud. La structure que l’une peut prêter est à portée du prochain pas de l’autre et à l’aise avec ses forces anciennes. J’y lis une ouverture qu’il faut saisir."

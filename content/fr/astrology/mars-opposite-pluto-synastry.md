@@ -6,6 +6,8 @@ description: "Mars opposition Pluton en synastrie : l’élan de l’une fait f
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Pluton", "opposition", "synastrie"]
 weight: 235
 glyph: "♂☍♇"
 definition: "Mars opposition Pluton en synastrie signifie que Mars, chez une personne, occupe le pôle opposé à Pluton chez l’autre : 180°, à 6° près. Chacune trouve chez l’autre une force dont elle se sert moins, franchise ou profondeur, et la paire règle sans cesse un équilibre des forces. J’y lis une balançoire que deux adultes peuvent partager, jamais une inimitié."

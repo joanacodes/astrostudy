@@ -6,6 +6,8 @@ description: "Pluton en transit en maison 5 : vingt ans environ où plaisir, am
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Pluton", "maison 5", "transits"]
 weight: 53
 glyph: "♇"
 definition: "Pluton en transit en maison 5 : un séjour de vingt ans environ, à la latitude de Londres, dans votre maison du plaisir, des amours, du jeu et de la création. La joie y gagne en profondeur : ce que vous créez, qui vous fait chavirer, ce que vous aimez faire. Aucun enfant n’y est prédit."

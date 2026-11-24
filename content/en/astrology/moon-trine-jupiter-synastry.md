@@ -5,6 +5,8 @@ description: "Moon trine Jupiter in synastry: encouragement and comfort running 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Jupiter", "trine", "synastry"]
 weight: 79
 glyph: "☽△♃"
 definition: "Moon trine Jupiter in synastry means one person’s Jupiter is about 120° from the other’s Moon, within 6.8°, normally across signs of the same element. One person’s wider view reaches the other’s needs without strain, and comfort comes back the other way. I read it as easy encouragement, at its best when feelings are allowed to land first."

@@ -5,6 +5,8 @@ description: "Saturn transiting the 7th house: about three years of looking hard
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "7th house", "transits"]
 weight: 19
 glyph: "♄"
 definition: "Saturn transiting the 7th house is the slow review, a little under three years long, of your closest one-to-one bonds, starting the day Saturn reaches your Descendant. It examines the partnerships your chart already describes: commitments looked at, terms made fairer, boundaries made clear. It predicts no break-up."

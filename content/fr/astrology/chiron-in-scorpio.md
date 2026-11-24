@@ -6,6 +6,8 @@ description: "Chiron en Scorpion dans un thème natal : une confiance apprise p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Scorpion"]
 weight: 128
 glyph: "⚷♏"
 definition: "Chiron en Scorpion est un placement de confiance apprise par étapes. Ses deux séjours dans ce signe d’eau fixe, gouverné par Pluton et traditionnellement par Mars, ont duré de novembre 1946 à novembre 1948 et de décembre 1996 à septembre 1999. Dans un thème, il décrit une adaptation en profondeur : apprendre à qui se fier, et combien montrer."

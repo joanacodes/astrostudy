@@ -6,6 +6,8 @@ description: "Soleil sextile Mercure en synastrie : les idées de l’une au se
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Mercure", "sextile", "synastrie"]
 weight: 7
 glyph: "☉⚹☿"
 definition: "Soleil sextile Mercure en synastrie signifie que Mercure, chez une personne, se trouve à environ 60° du Soleil de l’autre, à 4,8° près. Personne ne l’a dans son propre thème : Mercure reste à moins de 28° environ du Soleil. Entre deux personnes, les idées de l’une servent la direction de l’autre. J’y lis une alliance pratique, qu’il faut solliciter."

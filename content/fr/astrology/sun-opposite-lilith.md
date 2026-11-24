@@ -6,6 +6,8 @@ description: "Soleil opposition Lilith dans un thème natal : la part qu’on v
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lilith", "opposition"]
 weight: 47
 glyph: "☉☍⚸"
 definition: "Soleil opposition Lilith signifie qu’à votre naissance, votre Soleil se trouvait à environ 180° de la Lune noire Lilith. Dans un thème, votre sens de qui vous êtes fait face à la part qui n’a pas voulu obéir, souvent rencontrée chez les autres, qui semblent « trop » ou qui vous refusent. J’y lis un miroir qui vous rend cette part."

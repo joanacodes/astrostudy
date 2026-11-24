@@ -5,6 +5,8 @@ description: "Jupiter transiting the 9th house: about a year in its own house, w
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "9th house", "transits"]
 weight: 9
 glyph: "♃"
 definition: "Jupiter transiting the 9th house is Jupiter crossing the house it rules in the natural order, the far horizon of your chart, usually for a little over a year. It widens the beliefs, studies and journeys your chart already contains, and asks them for questions rather than certainty."

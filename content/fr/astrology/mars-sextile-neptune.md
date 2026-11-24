@@ -6,6 +6,8 @@ description: "Mars sextile Neptune dans un thème natal : une imagination prêt
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Neptune", "sextile"]
 weight: 216
 glyph: "♂⚹♆"
 definition: "Mars sextile Neptune relie votre élan à votre imagination à environ 60°, en général entre deux signes séparés par un autre. Dans un thème, l’intuition et la compassion peuvent y guider ce que vous faites, dès que vous les laissez faire : l’effort inspiré est à portée. J’y lis une invitation permanente à agir sur ce que vous imaginez."

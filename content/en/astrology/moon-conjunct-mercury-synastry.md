@@ -5,6 +5,8 @@ description: "Moon conjunct Mercury in synastry: one person’s words land exact
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Mercury", "conjunction", "synastry"]
 weight: 61
 glyph: "☽☌☿"
 definition: "Moon conjunct Mercury in synastry joins one person’s Moon and the other’s Mercury within 8°. The way one person thinks and talks lands right where the other feels, so understanding can come fast. I read it as a gift for putting feelings into words, along with a habit of naming them too soon."

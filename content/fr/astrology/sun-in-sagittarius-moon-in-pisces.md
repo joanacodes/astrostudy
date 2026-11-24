@@ -6,6 +6,8 @@ description: "Soleil en Sagittaire, Lune en Poissons : un carré mutable, deux 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Sagittaire", "Lune", "Poissons"]
 weight: 108
 glyph: "☉♐☽♓"
 definition: "Soleil en Sagittaire, Lune en Poissons met en carré deux signes mutables, le feu et l’eau, pour une naissance autour du premier quartier, cinq à dix jours après une nouvelle lune. Jupiter gouverne le Sagittaire et, selon l’ancien schéma, les Poissons ; Neptune en est le maître moderne. J’y lis une seule quête de sens, au-dehors et au-dedans."

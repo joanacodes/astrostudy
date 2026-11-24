@@ -6,6 +6,8 @@ description: "Jupiter sextile Nœud Nord dans un thème natal : le sens qui aid
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Nœud Nord", "sextile"]
 weight: 271
 glyph: "♃⚹☊"
 definition: "Jupiter sextile Nœud Nord désigne Jupiter à environ 60° du Nœud Nord, et donc à environ 120° du Nœud Sud. Dans un thème, le sens et la perspective soutiennent le chemin moins familier tout en restant en bons termes avec vos forces établies. J’y lis une aide offerte à votre croissance, qui agit quand vous la saisissez."

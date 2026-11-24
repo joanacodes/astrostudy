@@ -6,6 +6,8 @@ description: "Vénus sextile Nœud Nord dans un thème natal : ce que vous aime
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Nœud Nord", "sextile"]
 weight: 196
 glyph: "♀⚹☊"
 definition: "Vénus sextile Nœud Nord signifie qu’à votre naissance, Vénus se trouvait à environ 60° du Nœud Nord, et à environ 120° du Nœud Sud. Ce que vous aimez relie le familier et le nouveau : votre façon d’entrer en relation peut vous aider à grandir vers une capacité moins pratiquée. J’y lis un pont, à traverser quand vous voulez."

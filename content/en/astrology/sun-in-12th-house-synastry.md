@@ -5,6 +5,8 @@ description: "Their Sun in your 12th house in synastry: their purpose reaching y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "12th house", "synastry", "house overlays"]
 weight: 12
 glyph: "☉"
 definition: "Their Sun in your 12th house lands another person’s Sun in the quiet end of your chart: solitude, rest, inner life and what you carry without saying. In synastry their purpose reaches your private side: they can feel deeply familiar and restful to be with, and they sense parts of you that few people see."

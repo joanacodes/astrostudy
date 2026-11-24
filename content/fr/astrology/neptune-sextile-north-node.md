@@ -6,6 +6,8 @@ description: "Neptune sextile Nœud Nord dans un thème natal : l’imagination
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Nœud Nord", "sextile"]
 weight: 346
 glyph: "♆⚹☊"
 definition: "Avec Neptune sextile Nœud Nord, Neptune se trouvait à votre naissance à environ 60° du Nœud Nord, soit environ 120° du Nœud Sud. Dans un thème, l’imagination et la compassion offrent des ouvertures sur le chemin où vous grandissez, avec une ligne facile vers le terrain familier ; ces ouvertures se saisissent, elles ne se donnent pas."

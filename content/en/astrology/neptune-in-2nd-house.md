@@ -5,6 +5,8 @@ description: "Neptune in the 2nd house in a birth chart: values set by ideals mo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "2nd house", "houses"]
 weight: 98
 glyph: "♆"
 definition: "Neptune in the 2nd house places the planet of ideals, at your birth, in the house of money, belongings, talents and self-worth. In a chart it sets values by ideals more than prices: generosity, a gift for imagination you could live from, and money that needs a clear system to stay in view. It never predicts gain or loss."

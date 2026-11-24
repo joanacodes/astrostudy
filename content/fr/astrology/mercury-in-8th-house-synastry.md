@@ -6,6 +6,8 @@ description: "Mercure de l’autre dans votre maison 8 en synastrie : parler à
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 32
 glyph: "☿"
 definition: "Mercure de l’autre dans votre maison 8 envoie la curiosité de cette personne là où peu de gens sont invités : l’intimité, la confiance, l’argent partagé et ce que l’on tait. En synastrie, la conversation va vite au fond et les confidences viennent facilement ; rien n’y annonce une perte, un héritage ou une fin."

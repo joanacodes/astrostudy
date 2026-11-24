@@ -6,6 +6,8 @@ description: "Mars en maison 12 dans un thème natal : un élan qui agit en cou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "maison 12", "maisons"]
 weight: 60
 glyph: "♂"
 definition: "Mars en maison 12 place votre élan dans la maison de ce qui se passe hors de vue : la solitude, le repos, le travail discret et la vie intérieure. On y lit un effort mené en coulisses, du courage pour les autres et une colère souvent gardée pour soi. L’heure de naissance est requise ; rien ne s’y prédit."

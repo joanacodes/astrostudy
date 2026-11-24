@@ -5,6 +5,8 @@ description: "Moon opposite Saturn in a birth chart: comfort at one end, respons
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Saturn", "opposition"]
 weight: 77
 glyph: "☽☍♄"
 definition: "Moon opposite Saturn means the Moon and Saturn were about 180° apart when you were born, in opposite signs. In a chart it sets your need for comfort across from your sense of duty and limits, so each keeps reminding you of the other. I read it as a balance to learn, often through other people, never as coldness."

@@ -6,6 +6,8 @@ description: "Soleil opposition Vénus en synastrie : ce que l’une apprécie 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Vénus", "opposition", "synastrie"]
 weight: 15
 glyph: "☉☍♀"
 definition: "Soleil opposition Vénus en synastrie signifie que la Vénus d’une personne se trouve à environ 180° du Soleil de l’autre, à 8° près. Personne ne naît avec : Vénus reste à moins de 47° environ du Soleil. Ce que l’une apprécie fait face à ce que l’autre est. J’y lis un équilibre entre donner et recevoir, jamais une compétition."

@@ -5,6 +5,8 @@ description: "Their Saturn in your 11th house in synastry: loyalty, slow belongi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "11th house", "synastry", "house overlays"]
 weight: 83
 glyph: "♄"
 definition: "Their Saturn in your 11th house gives another person’s Saturn a seat in your circle: friends, groups, networks and the plans you share for the future. In synastry friendship with them is slow to form and built to last, hopes become plans, and they tend to feel responsible for their place among your people."

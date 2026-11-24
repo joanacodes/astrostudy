@@ -5,6 +5,8 @@ description: "Lilith in the 4th house in a birth chart: a private self kept clos
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "4th house", "houses"]
 weight: 136
 glyph: "⚸"
 definition: "Lilith in the 4th house means Black Moon Lilith, the Moon’s farthest point from Earth, was at the base of your chart, in the house of home, family and roots, when you were born. I read it as a private self kept closer than most, and a quiet refusal to inherit everything you were handed."

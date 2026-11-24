@@ -6,6 +6,8 @@ description: "Lune opposition Uranus en synastrie : l’une tire vers la proxim
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Uranus", "opposition", "synastrie"]
 weight: 90
 glyph: "☽☍♅"
 definition: "Lune opposition Uranus en synastrie : Uranus d’une personne face à la Lune de l’autre, à environ 180°, à 8° près. L’une porte souvent le désir de proximité et de continuité, l’autre celui d’espace et de changement. J’y lis un équilibre entre appartenance et liberté, que deux personnes trouvent ensemble et retrouvent sans cesse."

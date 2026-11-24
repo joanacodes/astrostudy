@@ -5,6 +5,8 @@ description: "Mercury opposite Jupiter in a birth chart: detail and meaning face
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Jupiter", "opposition"]
 weight: 119
 glyph: "☿☍♃"
 definition: "Mercury opposite Jupiter means Mercury and Jupiter were about 180° apart when you were born, a sky that requires Jupiter to be retrograde. In a chart the close-up and the big picture face each other, and each sharpens the other. I read it as a dialogue between facts and meaning, never a quarrel."

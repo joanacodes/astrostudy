@@ -5,6 +5,8 @@ description: "Sun in Taurus, Moon in Libra: one ruler, Venus, for two signs with
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Taurus", "Moon", "Libra"]
 weight: 19
 glyph: "☉♉☽♎"
 definition: "Sun in Taurus, Moon in Libra gives both lights a single ruler, Venus, though the two signs, five apart, share nothing else; the birth came a few days before a full moon. I read it as one planet in two roles: a self built on what it values, and needs that settle when things are fair between people."

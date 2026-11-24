@@ -6,6 +6,8 @@ description: "Mars trigone Saturne dans un thème natal : l’effort et la pati
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Saturne", "trigone"]
 weight: 208
 glyph: "♂△♄"
 definition: "Mars trigone Saturne place Mars et Saturne à environ 120° dans un thème natal, en général dans deux signes d’un même élément. Dans un thème, l’élan et la discipline y avancent ensemble : l’effort vient régulier, dosé, pratique, et les longues tâches semblent possibles. J’y lis une endurance fiable, à employer exprès plutôt que par habitude."

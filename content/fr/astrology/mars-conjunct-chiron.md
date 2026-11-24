@@ -6,6 +6,8 @@ description: "Mars conjonction Chiron dans un thème natal : votre façon d’a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Chiron", "conjonction"]
 weight: 225
 glyph: "♂☌⚷"
 definition: "Mars conjonction Chiron signifie qu’à votre naissance, Mars, la planète de l’action, était à quelques degrés de Chiron. Votre façon de vous affirmer s’y lie à un endroit sensible que vous avez appris à contourner : vous trouvez votre méthode, votre rythme, vos outils. J’y lis une façon d’agir gagnée de haute lutte, jamais un défaut de l’élan."

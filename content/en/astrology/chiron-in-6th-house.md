@@ -5,6 +5,8 @@ description: "Chiron in the 6th house in a birth chart: a tender spot about usef
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "6th house", "houses"]
 weight: 126
 glyph: "⚷"
 definition: "Chiron in the 6th house means Chiron sat in the house of daily work, routine and care, which tradition called Bad Fortune. It describes adapting around a tender spot about usefulness and pace, and building routines that truly fit you. It says nothing about your health, and it needs the birth time."

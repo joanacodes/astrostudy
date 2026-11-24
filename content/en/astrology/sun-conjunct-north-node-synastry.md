@@ -5,6 +5,8 @@ description: "Sun conjunct North Node in synastry: one person already is what th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "North Node", "conjunction", "synastry"]
 weight: 56
 glyph: "☉☌☊"
 definition: "Sun conjunct North Node in synastry happens when one person’s Sun falls within 8° of the other’s North Node. What the first person simply is turns out to be the direction the second is learning to grow in, with their familiar South Node opposite. I read it as a living example, never as a fated meeting."

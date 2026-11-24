@@ -5,6 +5,8 @@ description: "North Node transiting the 8th house: about a year and a half of tr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "8th house", "transits"]
 weight: 80
 glyph: "☊"
 definition: "North Node transiting the 8th house is the year and a half or so when the node moves backwards through your house of intimacy, trust and what's shared, while the South Node crosses your 2nd. It points towards letting others in and sharing, away from doing everything yourself. It foretells no death, debt or inheritance."

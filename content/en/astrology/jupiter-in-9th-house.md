@@ -5,6 +5,8 @@ description: "Jupiter in the 9th house in a birth chart: the planet of meaning i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "9th house", "houses"]
 weight: 69
 glyph: "♃"
 definition: "Jupiter in the 9th house means Jupiter was in the house of long journeys, higher study and the search for meaning, which tradition called the God. I read it as the planet of meaning in its natural setting: growth through study, travel and teaching, and a philosophy of your own. It needs an accurate birth time."

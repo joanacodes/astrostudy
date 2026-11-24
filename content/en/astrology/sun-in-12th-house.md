@@ -5,6 +5,8 @@ description: "Sun in the 12th house in a birth chart: born just after sunrise, a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "12th house", "houses"]
 weight: 12
 glyph: "☉"
 definition: "Sun in the 12th house means the Sun had just risen when you were born, low in the east, in the house of solitude, rest and what happens out of sight. I read it as a self that does its truest work in private and recharges alone. Tradition gave this house confinement; I predict none."

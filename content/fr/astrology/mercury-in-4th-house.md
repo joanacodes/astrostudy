@@ -6,6 +6,8 @@ description: "Mercure en maison 4 dans un thème natal : un esprit discret, enr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "maison 4", "maisons"]
 weight: 28
 glyph: "☿"
 definition: "Mercure en maison 4 place la planète de la pensée dans la maison du foyer et des racines. On y lit un esprit discret, qui pense mieux en terrain familier, garde vivants les récits de famille et revient au passé pour comprendre le présent. Proche du point le plus bas du thème, ce placement demande l’heure de naissance."

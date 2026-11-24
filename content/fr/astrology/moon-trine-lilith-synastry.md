@@ -6,6 +6,8 @@ description: "Lune trigone Lilith en synastrie : ce qui apaise l’une et ce qu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Lilith", "trigone", "synastrie"]
 weight: 109
 glyph: "☽△⚸"
 definition: "Lune trigone Lilith en synastrie signifie que la Lune d’une personne se trouve à environ 120° de la Lune noire Lilith moyenne de l’autre, à 6,8° près, d’ordinaire entre signes de même élément. Ce qui apaise l’une et ce que l’autre refuse de dompter s’accordent, sans que personne rapetisse. J’y lis une acceptation facile, qui veut pourtant de l’attention."

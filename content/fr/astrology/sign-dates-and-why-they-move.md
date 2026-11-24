@@ -6,6 +6,8 @@ description: "Dates des signes, et pourquoi elles bougent : les dates du Soleil
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signes"]
+tags: ["signes du zodiaque"]
 weight: 27
 glyph: "✦"
 definition: "Les dates des signes sont les jours que le Soleil passe dans chaque signe du zodiaque tropical : environ du 21 mars au 19 avril pour le Bélier, et ainsi de suite. Elles restent approximatives, car le Soleil change de signe à un instant précis, qui varie d’heure, parfois de jour, selon l’année et le lieu."

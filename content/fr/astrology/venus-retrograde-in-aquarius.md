@@ -6,6 +6,8 @@ description: "Vénus rétrograde en Verseau : une seule de 2000 à 2040, fin 20
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde", "Verseau"]
 weight: 23
 glyph: "♀℞♒"
 definition: "Vénus rétrograde en Verseau n’a eu lieu qu’une fois dans ma liste, de 2000 à 2040 : le 24 décembre 2005, Vénus, vue de la Terre, a stationné à 1°28′ du Verseau et commencé à reculer vers le Capricorne. J’y entends l’amitié, la liberté et les goûts singuliers reconsidérés, dans la maison du Verseau de votre thème."

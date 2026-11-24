@@ -5,6 +5,8 @@ description: "Sun in Libra, Moon in Libra: both lights in the sign of the scales
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra", "Moon"]
 weight: 79
 glyph: "☉♎☽♎"
 definition: "Sun in Libra, Moon in Libra places both lights in the sign of the scales, within about two and a half days of the new moon in Libra, with Venus ruling them both. To me it is purpose and need weighed on one balance: a self and a sense of safety that both take shape in relationship."

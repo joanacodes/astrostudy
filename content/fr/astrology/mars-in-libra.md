@@ -6,6 +6,8 @@ description: "Mars en Balance dans un thème natal : Mars en exil, un élan qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Balance"]
 weight: 55
 glyph: "♂♎"
 definition: "Mars en Balance met Mars, la planète de l’élan, en exil : dans l’air cardinal, le signe que gouverne Vénus. On y lit une action menée avec les autres et pour eux : vous négociez, vous battez pour l’équité, pesez les deux côtés, et tardez parfois à dire ce que vous voulez. La leçon : un *je veux* bien net."

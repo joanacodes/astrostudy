@@ -5,6 +5,8 @@ description: "Moon trine Jupiter in a birth chart: a heart that bounces back, mo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Jupiter", "trine"]
 weight: 71
 glyph: "☽△♃"
 definition: "Moon trine Jupiter is the Moon and Jupiter about 120° apart in a birth chart, in signs that belong to one element as a rule. Feeling and meaning keep step: moods recover their perspective, and comfort comes with a wider view. I read it as resilience and a gift for comforting others, best kept in practice."

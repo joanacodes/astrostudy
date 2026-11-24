@@ -5,6 +5,8 @@ description: "Mercury conjunct Lilith in a birth chart: a mind that won’t be e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Lilith", "conjunction"]
 weight: 145
 glyph: "☿☌⚸"
 definition: "Mercury conjunct Lilith places Mercury within a few degrees of Black Moon Lilith, the point astrologers read as what in you refuses to be tamed. In a chart the mind and that untamed part speak with one voice: frank, private, unwilling to be edited. I read it as a voice worth reclaiming, not one to fear."

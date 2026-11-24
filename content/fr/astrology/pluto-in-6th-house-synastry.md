@@ -6,6 +6,8 @@ description: "Pluton de l’autre dans votre maison 6 en synastrie : sa profond
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 114
 glyph: "♇"
 definition: "Pluton de l’autre dans votre maison 6 met la profondeur d’une autre personne au travail sur vos routines, vos méthodes et vos habitudes. En synastrie, votre façon de travailler peut être revue de fond en comble, les habitudes inutiles tombent, et votre discipline peut à son tour changer l’autre. Rien n’y concerne votre santé."

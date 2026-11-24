@@ -5,6 +5,8 @@ description: "Their Lilith in your 8th house in synastry: bare honesty meeting y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "8th house", "synastry", "house overlays"]
 weight: 140
 glyph: "⚸"
 definition: "Their Lilith in your 8th house pulls the other person’s mean Black Moon Lilith into your house of intimacy, trust and what is shared or owed. In synastry their unvarnished truth meets your closeness: half-truths stop working, while your boundaries can free or provoke them. It never predicts sex, loss or death."

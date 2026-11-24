@@ -6,6 +6,8 @@ description: "Pluton trigone Lilith en synastrie : la profondeur de l’une acc
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Lilith", "trigone", "synastrie"]
 weight: 369
 glyph: "♇△⚸"
 definition: "Pluton trigone Lilith en synastrie se produit quand un trigone, à 3,4° près, relie Pluton d’un thème à la Lune noire Lilith moyenne inscrite dans un autre. L’aisance de l’une avec la profondeur laisse respirer la part indomptée de l’autre, qui nourrit en retour ses renouveaux. J’y lis une permission, réelle quand elle est ressentie autant que donnée."

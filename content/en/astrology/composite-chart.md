@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["composite chart", "composite"]
 family: "techniques"
+categories: ["Synastry"]
+tags: ["composite chart", "synastry"]
 weight: 51
 glyph: "✦"
 definition: "A composite chart is a single chart for a relationship, built by placing each planet at the midpoint between its positions in two birth charts. Astrologers read it as the character and purpose of the relationship itself, alongside both natal charts and the synastry. It never shows how long a relationship will last, or whether it will succeed."

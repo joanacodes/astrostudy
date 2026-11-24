@@ -5,6 +5,8 @@ description: "Sun conjunct North Node in a birth chart: your sense of self and y
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "North Node", "conjunction"]
 weight: 48
 glyph: "☉☌☊"
 definition: "Sun conjunct North Node means you were born with the Sun within a few degrees of the North Node, in an eclipse season. In a chart who you are and the direction you’re growing in pull the same way, with the South Node, the familiar, across from your Sun. I read it as a direction to practise, not a fate."

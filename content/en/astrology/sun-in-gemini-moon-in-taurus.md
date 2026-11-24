@@ -5,6 +5,8 @@ description: "Sun in Gemini, Moon in Taurus: a quick mind with a steady heart, t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini", "Moon", "Taurus"]
 weight: 26
 glyph: "☉♊☽♉"
 definition: "Sun in Gemini, Moon in Taurus has the Moon one sign behind the Sun, in its exaltation, at a birth in the last five days before a new moon. I read it as a quick, curious self resting on slow, solid needs: a mind that roams widely and a heart that wants the same few comforts every evening."

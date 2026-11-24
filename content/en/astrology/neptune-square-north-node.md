@@ -5,6 +5,8 @@ description: "Neptune square North Node in a birth chart: dreams that cross the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "North Node", "square"]
 weight: 347
 glyph: "♆□☊"
 definition: "Neptune square North Node places Neptune halfway between the two nodes at your birth, about 90° from each. In a chart, imagination and ideals cut across the road between familiar ground and new growth, a friction that asks you to bring the dream into the practice."

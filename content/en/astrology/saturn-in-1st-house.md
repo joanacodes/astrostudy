@@ -5,6 +5,8 @@ description: "Saturn in the 1st house in a birth chart: serious early, slow to f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "1st house", "houses"]
 weight: 73
 glyph: "♄"
 definition: "Saturn in the 1st house means Saturn was just below the eastern horizon when you were born, close to the Ascendant, in the house of the self. It describes a manner that is serious early and slow to feel at ease, and a presence that grows steadier with the years. Only an accurate birth time places it."

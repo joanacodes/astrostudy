@@ -5,6 +5,8 @@ description: "Venus in Capricorn in a birth chart: love that commits, measured i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Capricorn"]
 weight: 46
 glyph: "♀♑"
 definition: "Venus in Capricorn sets the planet of value and attraction in Saturn’s cardinal earth. It describes a taste for what lasts and what has been earned, affection shown through reliability and commitment rather than declarations, and a slow-opening way of relating that then keeps its word for years."

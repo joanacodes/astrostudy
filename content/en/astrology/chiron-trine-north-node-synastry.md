@@ -5,6 +5,8 @@ description: "Chiron trine North Node in synastry: one person’s experience flo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "North Node", "trine", "synastry"]
 weight: 384
 glyph: "⚷△☊"
 definition: "Chiron trine North Node in synastry joins one person’s Chiron to another person’s North Node at about 120°, within 2.55°, which leaves it 60° from their South Node. What one learned around a lasting difficulty flows easily into the other’s growth. I read it as a well-marked trail, still walked by the person whose growth it is."

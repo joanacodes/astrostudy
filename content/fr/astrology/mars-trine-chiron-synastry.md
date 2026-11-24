@@ -6,6 +6,8 @@ description: "Mars trigone Chiron en synastrie : l’élan de l’une s’appro
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Chiron", "trigone", "synastrie"]
 weight: 239
 glyph: "♂△⚷"
 definition: "Mars trigone Chiron en synastrie signifie que le Chiron d’une personne et Mars chez l’autre se répondent à environ 120°, à 5,1° près, souvent dans un même élément. Ce que l’une veut faire et la façon dont l’autre contourne une limite s’accordent sans peine. J’y lis un soutien qui sait s’arrêter, à vérifier parfois pour son coût discret."

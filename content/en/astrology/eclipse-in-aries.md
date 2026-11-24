@@ -5,6 +5,8 @@ description: "Eclipses in Aries: the fourteen from 2000 to 2040, solar and lunar
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["eclipses", "Aries"]
 weight: 1
 glyph: "●♈"
 definition: "An eclipse in Aries is a new or full moon near the Moon’s nodes with the Moon in Aries: at a solar eclipse the Sun is there too, at a lunar one the Sun faces it from Libra. I read one only within about three degrees of a natal point, as emphasis, never as an omen."

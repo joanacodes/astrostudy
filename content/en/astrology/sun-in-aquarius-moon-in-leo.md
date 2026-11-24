@@ -5,6 +5,8 @@ description: "Sun in Aquarius, Moon in Leo: a fixed opposition near the full moo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aquarius", "Moon", "Leo"]
 weight: 125
 glyph: "☉♒☽♌"
 definition: "Sun in Aquarius, Moon in Leo pairs a Sun in its detriment with a Moon in the Sun’s own sign, across a fixed axis, close to the full moon in Leo. I read a self given to shared causes and fair dealing, with feelings that need their warmth returned by someone in particular."

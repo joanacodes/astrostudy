@@ -6,6 +6,8 @@ description: "Saturne conjonction Lilith en synastrie : ce que l’une tient po
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Lilith", "conjonction", "synastrie"]
 weight: 306
 glyph: "♄☌⚸"
 definition: "Saturne conjonction Lilith en synastrie amène Saturne d’une personne à moins de 5° de la Lune noire Lilith chez l’autre : une structure se pose sur la part de quelqu’un qui a appris à rester cachée. Elle sert de couvercle ou de contenant. Je lis ce contact par les maisons, avec la Lilith moyenne, et avec l’accord des deux."

@@ -6,6 +6,8 @@ description: "Saturne carré Neptune dans un thème natal : friction entre le p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Neptune", "carré"]
 weight: 282
 glyph: "♄□♆"
 definition: "Saturne carré Neptune met Saturne et Neptune à angle droit, à environ 90°, en général dans deux signes du même mode, comme pour quatre vagues de naissances entre 1943 et 1999. Dans un thème, il met le réalisme et l’imagination en friction : chacun éprouve l’autre, et le travail demandé construit le discernement plutôt que le doute."

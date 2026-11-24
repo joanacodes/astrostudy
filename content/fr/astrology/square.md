@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["carré"]
 family: "aspects"
+categories: ["Aspects"]
+tags: ["carré"]
 weight: 3
 glyph: "□"
 definition: "Le carré est un angle de 90° entre deux planètes, en général à trois signes d’écart et dans le même mode. Dans un thème natal, il marque deux besoins qui se frottent sans trouver d’accord : une friction qui demande un effort. Les astrologues le disent dur ; c’est aussi l’aspect qui pousse à agir."

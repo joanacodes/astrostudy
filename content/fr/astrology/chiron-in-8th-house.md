@@ -6,6 +6,8 @@ description: "Chiron en maison 8 dans un thème natal : un point sensible dans 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "maison 8", "maisons"]
 weight: 128
 glyph: "⚷"
 definition: "Chiron en maison 8 signifie que Chiron se trouvait dans la maison de l’intimité, de la confiance et de ce que vous partagez avec d’autres. Il décrit une adaptation autour d’un point sensible dans la proximité, et l’art de savoir à qui confier quoi. Il ne prédit ni la mort ni l’argent ; il faut l’heure de naissance."

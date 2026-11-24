@@ -5,6 +5,8 @@ description: "Saturn in the 11th house in a birth chart: few, chosen friends, re
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "11th house", "houses"]
 weight: 83
 glyph: "♄"
 definition: "Saturn in the 11th house sets the planet of patience among friends, groups and hopes: the people you build a future with, and the future itself. It describes few but chosen friendships, responsibility taken on in groups, and hopes pursued slowly. Aquarius, the house’s natural sign, is one of Saturn’s traditional homes."

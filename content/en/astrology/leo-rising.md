@@ -5,6 +5,8 @@ description: "Leo rising: warmth at the door, the Sun as your chart ruler, Aquar
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "rising sign", "Leo"]
 weight: 5
 glyph: "↑♌"
 definition: "Leo rising means Leo, the fixed fire sign ruled by the Sun, was rising on the eastern horizon at your birth: your Ascendant is in Leo. It describes a warm, generous way of meeting the world, one that people notice early. Among the slowest signs to rise in the north, it takes nearly three hours at London."

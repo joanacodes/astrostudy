@@ -6,6 +6,8 @@ description: "Les maisons par thème : quelles maisons du thème natal on lit p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "houses"
+categories: ["Maisons"]
+tags: ["maisons"]
 weight: 38
 glyph: "✦"
 definition: "Les maisons par thème, c’est la carte des maisons que les astrologues lisent pour chaque domaine de vie : les maisons 5 et 7 pour l’amour, 2 et 8 pour l’argent, 6 et 10 pour le travail, 4 pour le foyer. Un sujet touche souvent plusieurs maisons et planètes, qui décrivent votre façon de le vivre, jamais ce qui arrivera."

@@ -6,6 +6,8 @@ description: "Nœud Nord en transit en maison 10 : environ 19 mois pour prendre
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Nœud Nord", "maison 10", "transits"]
 weight: 82
 glyph: "☊"
 definition: "Le Nœud Nord en transit en maison 10, c’est l’an et demi ou plus où le nœud recule à travers votre maison de la vie publique et du travail, tandis que le Nœud Sud traverse votre maison 4. Il oriente vers la responsabilité et un rôle visible, loin du seul abri familier. Il ne promet aucune promotion."

@@ -6,6 +6,8 @@ description: "Mercure opposition Mars en synastrie : l’une veut en parler, l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Mars", "opposition", "synastrie"]
 weight: 125
 glyph: "☿☍♂"
 definition: "Mercure opposition Mars en synastrie signifie que Mercure, chez une personne, se trouve à environ 180° de Mars chez l’autre, à 6° près, en général dans des signes opposés. La pensée et la parole de l’une font face à l’élan de l’autre, et chacune tient un bout. J’y lis une balançoire entre réflexion et action, jamais un combat."

@@ -6,6 +6,8 @@ description: "Neptune sextile Lilith dans un thème natal : l’imagination com
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Lilith", "sextile"]
 weight: 341
 glyph: "♆⚹⚸"
 definition: "Neptune sextile Lilith est un angle d’environ 60° entre Neptune et la Lune noire Lilith moyenne, présent chez environ 1 personne sur 16. Dans un thème, l’imagination offre à votre part indomptée un passage en douceur vers le dehors, par l’art, les rêves ou la croyance, si vous le prenez."

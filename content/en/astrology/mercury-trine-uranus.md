@@ -5,6 +5,8 @@ description: "Mercury trine Uranus in a birth chart: unusual ideas that arrive r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Uranus", "trine"]
 weight: 128
 glyph: "☿△♅"
 definition: "Mercury trine Uranus is a 120° angle between Mercury and Uranus at birth, a third of the zodiac apart, usually in signs of one element. In a chart it lets an unusual idea arrive already in words, so originality comes across as clarity. I read it as a working ease that pays off when you test what comes easily."

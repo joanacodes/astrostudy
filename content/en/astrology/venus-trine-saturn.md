@@ -5,6 +5,8 @@ description: "Venus trine Saturn in a birth chart: the angle where love and time
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Saturn", "trine"]
 weight: 168
 glyph: "♀△♄"
 definition: "Venus trine Saturn means Venus and Saturn sat roughly 120° apart on the day you were born, typically four signs away, in one element. In a chart it lets affection and steadiness help each other: commitments feel natural, and what you love tends to last. I read it as constancy without strain, which still has to be chosen."

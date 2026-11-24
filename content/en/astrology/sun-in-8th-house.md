@@ -5,6 +5,8 @@ description: "Sun in the 8th house in a birth chart: born in mid-afternoon, a se
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "8th house", "houses"]
 weight: 8
 glyph: "☉"
 definition: "Sun in the 8th house means the Sun was high in the western sky in mid-afternoon when you were born, in the house of intimacy, trust and what is shared or owed. I read it as a self that comes into its own in depth and in times of change. Tradition gave this house death; I predict none."

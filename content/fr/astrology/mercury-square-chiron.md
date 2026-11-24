@@ -6,6 +6,8 @@ description: "Mercure carré Chiron dans un thème natal : une parole qui frôl
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Chiron", "carré"]
 weight: 142
 glyph: "☿□⚷"
 definition: "Mercure carré Chiron place à angle droit votre pensée et Chiron, ce petit corps qui, pour les astrologues, marque un point sensible. Dans un thème, parler et apprendre frôlent sans cesse une vieille sensibilité, et vous trouvez vos propres chemins autour. C’est une friction qui forme un savoir-faire, jamais un défaut de votre pensée."

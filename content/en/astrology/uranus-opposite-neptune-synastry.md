@@ -5,6 +5,8 @@ description: "Uranus opposite Neptune in synastry: change at one end, ideals at 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Neptune", "opposition", "synastry"]
 weight: 320
 glyph: "♅☍♆"
 definition: "Uranus opposite Neptune in synastry places the Uranus of one chart directly across from the Neptune of the other, within 4°. No one born between 1930 and 2009 has this opposition in their own chart, but between two people born decades apart it is common. I read it as a seesaw between two eras’ change and ideals."

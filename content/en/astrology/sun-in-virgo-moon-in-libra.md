@@ -5,6 +5,8 @@ description: "Sun in Virgo, Moon in Libra: earth beside air, the Moon a few days
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Virgo", "Moon", "Libra"]
 weight: 67
 glyph: "☉♍☽♎"
 definition: "Sun in Virgo, Moon in Libra puts a Libra Moon just past a Virgo Sun, no more than five days into the lunar month. Venus, the Moon’s ruler, is weakest in the Sun’s sign, where tradition places its fall. I read it as precision that wants to be kind, and fairness that wants to be exact."

@@ -6,6 +6,8 @@ description: "Lune en Vierge dans un thème natal : des émotions apaisées par
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Vierge"]
 weight: 18
 glyph: "☽♍"
 definition: "La Lune en Vierge signifie que la Lune se trouvait en Vierge à votre naissance. J’y lis des émotions apaisées par l’ordre et l’utilité : vous vous calmez en triant, en réparant ou en aidant, vous prenez soin des gens de façon concrète et attentive, et une émotion devient gérable une fois qu’elle a sa place."

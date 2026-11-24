@@ -5,6 +5,8 @@ description: "Their Moon in your 2nd house in synastry: their need for security 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "2nd house", "synastry", "house overlays"]
 weight: 14
 glyph: "☽"
 definition: "Their Moon in your 2nd house brings another person’s feelings and needs into the house of your resources, values and sense of worth. In synastry they tend to feel secure with your steadiness and your tangible world, and you may feel looked after and valued in practical ways; it describes comfort, never a money forecast."

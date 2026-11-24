@@ -5,6 +5,8 @@ description: "Orbs in astrology: how far from exact an aspect may be and still c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: []
 weight: 14
 glyph: "✦"
 definition: "An orb is the leeway astrologers allow either side of an exact aspect: with an orb of 6°, two planets 84° to 96° apart still count as square. Orbs differ between astrologers. On this site, natal aspects count within 8° when the Sun or Moon is involved, 6° otherwise, and the closer to exact, the louder."

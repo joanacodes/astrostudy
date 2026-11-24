@@ -6,6 +6,8 @@ description: "Saturne conjonction Uranus dans un thème natal : les deux planè
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Uranus", "conjonction"]
 weight: 275
 glyph: "♄☌♅"
 definition: "Saturne conjonction Uranus, c’est la rencontre de Saturne et d’Uranus à quelques degrés près, survenue deux fois entre 1930 et 2009 : au début des années 1940 et à la fin des années 1980. Dans un thème, elle fond l’envie de bâtir ce qui dure et celle de le réformer. Une génération la partage ; sa maison la rend personnelle."

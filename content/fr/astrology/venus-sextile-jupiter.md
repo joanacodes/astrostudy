@@ -6,6 +6,8 @@ description: "Vénus sextile Jupiter dans un thème natal : des plaisirs qui m�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Jupiter", "sextile"]
 weight: 161
 glyph: "♀⚹♃"
 definition: "Vénus sextile Jupiter signifie que Vénus et Jupiter se trouvaient à quelque 60° d’écart à votre naissance, souvent entre air et feu, ou eau et terre. Dans un thème, ce qui vous plaît et ce qui vous fait grandir se rejoignent par l’occasion : des plaisirs qui instruisent, des amitiés qui élargissent la vue. Ce sextile agit quand vous dites oui."

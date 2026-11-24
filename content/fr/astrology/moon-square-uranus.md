@@ -6,6 +6,8 @@ description: "Lune carré Uranus dans un thème natal : la proximité et l’ai
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Uranus", "carré"]
 weight: 80
 glyph: "☽□♅"
 definition: "Lune carré Uranus signifie que la Lune se trouvait, à votre naissance, à un quart du zodiaque d’Uranus, environ 90°. Ce carré oppose votre besoin d’un réconfort familier à votre besoin d’espace et de changement, et aucun ne s’installe longtemps. J’y lis une friction qui apprend à bâtir une sécurité souple, jamais une instabilité."

@@ -5,6 +5,8 @@ description: "Their Mars in your 9th house in synastry: their drive in your beli
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "9th house", "synastry", "house overlays"]
 weight: 57
 glyph: "♂"
 definition: "Their Mars in your 9th house sends the other person’s Mars into your beliefs, studies, travels and view of the world. In synastry their drive challenges and fires your convictions: you may act more boldly on what you believe around them, and they find in your horizons a cause worth arguing for, or setting off towards."

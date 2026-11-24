@@ -6,6 +6,8 @@ description: "Pluton sextile Chiron dans un thème natal : une occasion discrè
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Chiron", "sextile"]
 weight: 351
 glyph: "♇⚹⚷"
 definition: "Pluton sextile Chiron est un angle de 60° entre Pluton et Chiron, que portent trois groupes de naissances : 1930–34, 1945–46 et 1994–95. Dans un thème, cet angle offre à l’endroit sensible une façon de se renouveler : laisser partir une vieille manière de faire face peut en ouvrir une meilleure, dès que vous saisissez l’occasion."

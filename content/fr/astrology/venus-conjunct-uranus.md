@@ -6,6 +6,8 @@ description: "Vénus conjonction Uranus dans un thème natal : un goût bien à
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Uranus", "conjonction"]
 weight: 170
 glyph: "♀☌♅"
 definition: "Vénus conjonction Uranus signifie qu’à votre naissance, Vénus et Uranus se tenaient côte à côte, en général dans un même signe. Dans un thème, vos valeurs se mêlent à l’envie de renouveler : un goût bien à vous, une attirance qui s’allume vite, une proximité qui a besoin d’espace. J’y lis la liberté au sein de l’amour."

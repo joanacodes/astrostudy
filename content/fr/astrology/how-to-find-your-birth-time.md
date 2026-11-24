@@ -6,6 +6,8 @@ description: "Trouver son heure de naissance : l’acte de naissance, qui varie
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Lectures"]
+tags: ["heure de naissance", "thème natal"]
 weight: 3
 glyph: "✦"
 definition: "Trouver son heure de naissance, c’est retrouver l’heure et la minute de votre naissance d’après un document ou un souvenir fiable : acte de naissance, quand le pays y inscrit l’heure, dossier de maternité, papiers de famille, carnet de naissance. L’heure décide de votre ascendant et de vos maisons, et je ne lis pas un thème sans elle."

@@ -6,6 +6,8 @@ description: "Mars conjonction Jupiter dans un thème natal : l’action et le 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Jupiter", "conjonction"]
 weight: 200
 glyph: "♂☌♃"
 definition: "Mars conjonction Jupiter signifie qu’à votre naissance, Mars et Jupiter étaient à quelques degrés d’écart. La part de vous qui agit et celle qui cherche du sens agissent comme une seule : croire vous met en mouvement, et le mouvement éclaire la croyance. J’y lis une conviction portée par l’énergie, à son meilleur quand son ampleur correspond à sa raison."

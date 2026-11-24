@@ -5,6 +5,8 @@ description: "Moon sextile Jupiter in a birth chart: learning that comforts, com
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Jupiter", "sextile"]
 weight: 69
 glyph: "☽⚹♃"
 definition: "Moon sextile Jupiter links the Moon and Jupiter at about 60° in a birth chart, usually two signs apart. Feeling and growth cooperate: what you need can lead you to learn, and what you learn can steady you, once you take the opening. I read it as a quiet, generous kind of good sense."

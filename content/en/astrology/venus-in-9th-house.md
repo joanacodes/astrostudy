@@ -5,6 +5,8 @@ description: "Venus in the 9th house in a birth chart: a heart widened by the un
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "9th house", "houses"]
 weight: 45
 glyph: "♀"
 definition: "Venus in the 9th house places the planet of value and attraction in the house of distance in every sense: travel, study, faith and meaning. It describes a heart widened by the unfamiliar, attraction to people and ideas from elsewhere, and a pleasure in learning that keeps love alive. It depends on the birth time."

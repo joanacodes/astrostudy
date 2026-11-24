@@ -5,6 +5,8 @@ description: "Jupiter square Saturn in a birth chart: friction between expanding
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Saturn", "square"]
 weight: 242
 glyph: "♃□♄"
 definition: "Jupiter square Saturn is a 90° angle between the two planets, common to all the births of a given spell of months. In a chart it sets the urge to expand against the urge to consolidate, so growth has to keep earning its structure. I read it as friction that produces plans both bold and sound, never as failure."

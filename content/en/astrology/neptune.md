@@ -5,6 +5,8 @@ description: "Neptune in astrology: the planet of dreams in a birth chart, in ea
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planets and points"]
+tags: ["Neptune"]
 weight: 9
 glyph: "♆"
 definition: "Neptune is the eighth and farthest planet from the Sun, and in astrology the planet of dreams, imagination and compassion — and of fog. Its sign is shared by everyone born over about fourteen years; its house shows where you idealise, create and long for something larger, and where things can blur."

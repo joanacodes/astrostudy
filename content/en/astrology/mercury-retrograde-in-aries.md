@@ -5,6 +5,8 @@ description: "Mercury retrograde in Aries: the weeks when Mercury backs through 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "Aries"]
 weight: 1
 glyph: "☿℞♈"
 definition: "Mercury retrograde in Aries is the stretch of 23 or 24 days, always between March and May, when Mercury seems from Earth to back up through Aries. I read it as the quick first word called back for a second look: replies, decisions and plans made fast, reviewed in the house Aries occupies in your chart."

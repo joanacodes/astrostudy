@@ -6,6 +6,8 @@ description: "Soleil en Vierge, Lune en Taureau : terre trigone terre, la Lune 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge", "Lune", "Taureau"]
 weight: 62
 glyph: "☉♍☽♉"
 definition: "Soleil en Vierge, Lune en Taureau forme un trigone de terre avec une Lune exaltée, quelques jours après une pleine lune, quand la lumière décroît. Vénus, maîtresse du signe de la Lune, a sa chute dans celui du Soleil. J’y lis un moi soigneux debout sur des émotions très stables, avec un savoir pratique qu’il veut transmettre."

@@ -6,6 +6,8 @@ description: "Neptune en Verseau dans un thème natal : le rêve d’un monde r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Verseau"]
 weight: 107
 glyph: "♆♒"
 definition: "Neptune en Verseau, c’est la planète de la compassion et du rêve collectif dans le signe d’air fixe de la communauté et de l’avenir, où Neptune a séjourné de janvier 1998 à février 2012. J’y lis l’idéal de cette génération, un monde relié et plus juste : une compassion qui atteint les inconnus, le rêve d’appartenir à quelque chose de partagé."

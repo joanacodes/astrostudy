@@ -6,6 +6,8 @@ description: "Neptune opposition Chiron dans un thème natal : l’idéal face 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Chiron", "opposition"]
 weight: 339
 glyph: "♆☍⚷"
 definition: "Neptune opposition Chiron, ce sont Neptune et Chiron à environ 180° d’écart, l’aspect le plus rare de la paire dans mon décompte : environ 1 personne sur 49, toutes nées entre 1988 et 1991. Dans un thème, l’idéal et la compassion font face à l’endroit qui reste sensible ; tenir les deux bouts s’apprend souvent à travers les autres."

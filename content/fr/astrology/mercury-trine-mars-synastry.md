@@ -6,6 +6,8 @@ description: "Mercure trigone Mars en synastrie : le plan de l’une devient sa
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Mars", "trigone", "synastrie"]
 weight: 124
 glyph: "☿△♂"
 definition: "Mercure trigone Mars en synastrie signifie que Mercure, chez une personne, se trouve à environ 120° de Mars chez l’autre, à 5,1° près, en général dans le même élément. Ce que l’une pense et dit passe sans résistance dans l’élan de l’autre : les projets deviennent des actes. J’y lis un relais facile, à ralentir aux moments coûteux."

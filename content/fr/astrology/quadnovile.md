@@ -6,6 +6,8 @@ description: "Le quadrinovile en astrologie : deux planètes à 160°, quatre n
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["quadrinovile", "aspects mineurs"]
 weight: 17
 glyph: "✦"
 definition: "Le quadrinovile est un angle de 160° entre deux planètes : quatre neuvièmes du cercle, un trigone plus un novile, à 20° de l’opposition. Il n’existe pas de trinovile, puisque trois neuvièmes font le trigone. Dans un thème natal, je le lis comme l’un des neuvièmes : une lente maturation, à l’autre bout du cercle."

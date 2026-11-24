@@ -5,6 +5,8 @@ description: "Sun square Venus in synastry: liking that comes with conditions, t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Venus", "square", "synastry"]
 weight: 13
 glyph: "☉□♀"
 definition: "Sun square Venus in synastry means one person’s Venus is about 90° from the other’s Sun, within 6.8°, a contact Venus’s 47° limit rules out within one chart. One person’s taste and sense of fairness meet the other’s identity at an angle. I read it as friction that refines both, never a verdict on the bond."

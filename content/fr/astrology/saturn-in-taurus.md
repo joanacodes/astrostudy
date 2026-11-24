@@ -6,6 +6,8 @@ description: "Saturne en Taureau dans un thème natal : la sécurité et l’es
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Taureau"]
 weight: 74
 glyph: "♄♉"
 definition: "Saturne en Taureau, c’est l’effort au long cours dans son cadre le plus patient, un signe de terre fixe gouverné par Vénus. Les personnes nées vers 1939–1942, 1969–1972 ou 1998–2001 ont aussi ce placement. Ses leçons : une sécurité et une estime de soi apprises lentement, et une vie bâtie couche après couche."

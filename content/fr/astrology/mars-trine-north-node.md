@@ -6,6 +6,8 @@ description: "Mars trigone Nœud Nord dans un thème natal : un effort qui coul
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Nœud Nord", "trigone"]
 weight: 238
 glyph: "♂△☊"
 definition: "Mars trigone Nœud Nord : votre thème natal place Mars à quelque 120° du Nœud Nord, ce qui met Mars à environ 60° du Nœud Sud. L’effort va facilement dans la direction où vous grandissez, avec un lien amical vers les compétences familières. J’y lis un don pour grandir en faisant, qui demande quand même de la pratique."

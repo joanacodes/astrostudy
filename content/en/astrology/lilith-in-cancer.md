@@ -5,6 +5,8 @@ description: "Lilith in Cancer in a birth chart: a need for care you learned to 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Cancer"]
 weight: 136
 glyph: "⚸♋"
 definition: "Lilith in Cancer means Black Moon Lilith, a point of the Moon’s own orbit, was in the Moon’s own sign, cardinal water, when you were born. I read it as a need for care you learned to hide, often behind looking after everyone else, and a fierce, private instinct to protect what you love and choose who gets in."

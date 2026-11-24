@@ -6,6 +6,8 @@ description: "Vénus en Capricorne dans un thème natal : un amour qui s’enga
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Capricorne"]
 weight: 46
 glyph: "♀♑"
 definition: "Vénus en Capricorne place la planète de la valeur et de l’attirance en terre cardinale, sous la maîtrise de Saturne. J’y vois le goût du durable et du mérité, une affection qui se montre par la fiabilité et l’engagement plutôt que par les déclarations, et une façon d’aimer qui s’ouvre lentement, puis tient parole."

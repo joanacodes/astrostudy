@@ -5,6 +5,8 @@ description: "The full moon in Libra, the first after the March equinox, with th
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "full moon", "Libra"]
 weight: 54
 glyph: "○♎"
 definition: "The full moon in Libra is the Moon in Libra opposite the Sun in Aries, the first full moon after the March equinox. It lights the Libra–Aries axis from the side of other people: fairness and peace, against your own drive. In a birth chart it counts within about 1° of a planet or angle, at either end."

@@ -6,6 +6,8 @@ description: "L’astrologie peut-elle prédire une grossesse ? Aucun thème n
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Lectures"]
+tags: ["limites de l’astrologie"]
 weight: 59
 glyph: "✦"
 definition: "Non. Un thème ne peut pas dire si une grossesse a commencé, si ni quand elle viendra, combien d’enfants vous aurez, ni le sexe d’un bébé. La tradition donnait les enfants à la maison 5, et l’astrologie horaire jugeait ces questions ; je ne lis jamais la grossesse. Un test, un médecin ou une sage-femme savent ce qu’aucun ciel ne sait."

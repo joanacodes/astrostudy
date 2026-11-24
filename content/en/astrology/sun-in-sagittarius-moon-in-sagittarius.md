@@ -5,6 +5,8 @@ description: "Sun in Sagittarius, Moon in Sagittarius: both lights in mutable fi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Sagittarius", "Moon"]
 weight: 105
 glyph: "☉♐☽♐"
 definition: "Sun in Sagittarius, Moon in Sagittarius puts both lights in mutable fire, at a birth within about two and a half days of the new moon in Sagittarius, the last before the December solstice. Jupiter rules both. I read it as one horizon wanted twice: purpose and need asking for the same room, truth and road ahead."

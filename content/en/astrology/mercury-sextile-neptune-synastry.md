@@ -5,6 +5,8 @@ description: "Mercury sextile Neptune in synastry: one person’s words and the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Neptune", "sextile", "synastry"]
 weight: 142
 glyph: "☿⚹♆"
 definition: "Mercury sextile Neptune in synastry is one person’s Mercury about 60° from the other’s Neptune, within 3.6°. The first person’s words can borrow the second’s imagination and sympathy, and the second’s feelings can borrow the first’s words, whenever one of you asks. I read it as a gentle creative opening that rewards being used."

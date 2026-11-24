@@ -6,6 +6,8 @@ description: "Lilith en Vierge dans un thème natal : le « ce n’est pas jus
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Vierge"]
 weight: 138
 glyph: "⚸♍"
 definition: "Lilith en Vierge signifie qu’à votre naissance, la Lune noire Lilith, le point de l’orbite lunaire le plus éloigné de la Terre, se trouvait dans la terre mutable du signe de Mercure. J’y lis un discernement qu’on a appris à taire — le sentiment que quelque chose cloche — et un refus qui agit dans les détails plutôt qu’en discours."

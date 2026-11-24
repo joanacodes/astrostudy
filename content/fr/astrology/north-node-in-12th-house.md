@@ -6,6 +6,8 @@ description: "Nœud Nord en maison 12 dans un thème natal : apprendre à s’a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "maison 12", "maisons"]
 weight: 156
 glyph: "☊"
 definition: "Nœud Nord en maison 12 signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans la dernière maison du thème, le Nœud Sud en maison 6. J’y lis une croissance vers le calme : le repos, la solitude choisie et une vie intérieure, après une habitude de prouver votre utilité."

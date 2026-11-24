@@ -5,6 +5,8 @@ description: "Sun sextile Mars in a birth chart: drive that answers when your pu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Mars", "sextile"]
 weight: 9
 glyph: "☉⚹♂"
 definition: "Sun sextile Mars means you were born with Mars two signs from the Sun, about 60° away, usually in elements that complement each other. In a chart, your purpose can call on your drive whenever it needs to. I read it as an opening that carries its own push: the chance to act, and the energy to take it."

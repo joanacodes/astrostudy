@@ -5,6 +5,8 @@ description: "Their Chiron in your 11th house in synastry: an old hurt and its k
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "11th house", "synastry", "house overlays"]
 weight: 131
 glyph: "⚷"
 definition: "Their Chiron in your 11th house gathers the other person’s Chiron among your friends, groups and hopes for the future. In synastry the know-how they built around an old hurt meets your circles: they tend to notice who is left out and make room, while your easy belonging can touch something tender in them."

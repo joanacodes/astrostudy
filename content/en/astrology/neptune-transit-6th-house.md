@@ -5,6 +5,8 @@ description: "Neptune transiting the 6th house: nearly thirteen years, up to twe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "6th house", "transits"]
 weight: 42
 glyph: "♆"
 definition: "Neptune transiting the 6th house asks the working day to mean something: for nearly thirteen years in the middle, and up to twenty-six, the planet of ideals crosses your house of work, routine and care. It reshapes what your chart says about your days: tasks that need meaning, compassion that needs limits. Your health is not what it describes."

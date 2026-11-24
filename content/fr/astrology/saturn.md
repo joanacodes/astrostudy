@@ -6,6 +6,8 @@ description: "Saturne en astrologie : le temps, les limites, la maîtrise lente
 date: 2026-10-24
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planètes et points"]
+tags: ["Saturne"]
 weight: 7
 glyph: "♄"
 definition: "Saturne est la planète du temps, des limites et de la maîtrise lente. Sa place dans un thème natal montre la leçon qui vous prend le plus de temps — là où vous vous sentez à l’épreuve — et ce que vous finissez par bâtir d’assez solide pour l’enseigner. Saturne y revient tous les 29 ans et demi."

@@ -6,6 +6,8 @@ description: "Soleil en Bélier, Lune en Verseau : feu et air, un sextile par s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier", "Lune", "Verseau"]
 weight: 11
 glyph: "☉♈☽♒"
 definition: "Soleil en Bélier, Lune en Verseau appartient à la dernière semaine d’un mois lunaire : vingt-deux à vingt-sept jours après une nouvelle lune, la Lune deux signes en retard sur le Soleil. J’y lis deux formes d’indépendance : un moi qui suit son propre chemin, des besoins qui comprennent une émotion avec un peu de recul."

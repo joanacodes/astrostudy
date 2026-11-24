@@ -6,6 +6,8 @@ description: "Mercure conjonction Neptune en synastrie : les mots de l’une to
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Neptune", "conjonction", "synastrie"]
 weight: 141
 glyph: "☿☌♆"
 definition: "Mercure conjonction Neptune en synastrie réunit, à moins de 6°, Mercure chez une personne et Neptune chez l’autre. Les mots de la première tombent droit dans l’imagination de la seconde : vous vous comprenez souvent sans tout dire. J’y lis une parole intime, riche en images, qui a besoin de mots simples pour les projets."

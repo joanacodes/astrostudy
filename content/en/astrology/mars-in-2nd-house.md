@@ -5,6 +5,8 @@ description: "Mars in the 2nd house in a birth chart: drive that earns its own w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "2nd house", "houses"]
 weight: 50
 glyph: "♂"
 definition: "Mars in the 2nd house places Mars in the house of resources and self-worth. It describes effort aimed at what you can hold: you want to earn your own way, build skills you could live from, and stand up for your value. It needs an exact birth time, and it never forecasts money."

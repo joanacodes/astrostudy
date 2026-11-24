@@ -5,6 +5,8 @@ description: "Moon sextile Saturn in a birth chart: a handrail beside your feeli
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Saturn", "sextile"]
 weight: 74
 glyph: "☽⚹♄"
 definition: "Moon sextile Saturn means about 60° lay between the Moon and Saturn at your birth, generally in signs two apart. Feelings and structure cooperate: you can steady yourself without shutting down, and routines tend to comfort rather than confine. I read it as a handrail beside your feelings, ready whenever you reach for it."

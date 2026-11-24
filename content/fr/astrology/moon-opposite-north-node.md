@@ -6,6 +6,8 @@ description: "Lune opposition Nœud Nord dans un thème natal : la Lune sur le 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Nœud Nord", "opposition"]
 weight: 107
 glyph: "☽☍☊"
 definition: "Lune opposition Nœud Nord signifie qu’à votre naissance, la Lune était à environ 180° du Nœud Nord, donc près du Nœud Sud. Dans un thème, vos façons de trouver du réconfort sont un terrain familier, et la croissance se trouve en face. J’y lis une polarité : vous bâtissez sur vos émotions, pas loin d’elles."

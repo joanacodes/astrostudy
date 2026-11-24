@@ -6,6 +6,8 @@ description: "Uranus de l’autre dans votre maison 5 en synastrie : l’impré
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 89
 glyph: "♅"
 definition: "Uranus de l’autre dans votre maison 5 fait jaillir Uranus au milieu de vos plaisirs : le jeu, l’amour, les loisirs, ce que vous créez. En synastrie, le plaisir partagé devient inventif et imprévisible, l’amour garde une part de surprise, et l’autre se sent plus libre de jouer auprès de vous. Rien n’y prédit d’aventure passagère ni d’enfant."

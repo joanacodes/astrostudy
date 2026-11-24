@@ -6,6 +6,8 @@ description: "Pluton opposition Nœud Nord en synastrie : la profondeur de l’
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Nœud Nord", "opposition", "synastrie"]
 weight: 375
 glyph: "♇☍☊"
 definition: "Pluton opposition Nœud Nord en synastrie pose Pluton d’un thème sur le Nœud Sud d’un autre, à 4° près, face au Nœud Nord de cette personne. La profondeur de l’une rejoint l’autre sur son terrain le plus ancien, ce qui peut l’affermir ou la faire tourner en rond. J’y lis une balançoire entre le connu et le neuf."

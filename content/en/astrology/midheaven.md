@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Midheaven", "MC"]
 family: "angles"
+categories: ["Planets and points"]
+tags: ["Midheaven", "angles"]
 weight: 3
 glyph: "MC"
 definition: "The Midheaven, or MC, is the point where the zodiac crossed the meridian above the horizon at the minute and place of your birth, near the top of the chart. Astrologers read it as your direction in public life: the work and reputation you build, and what you want to be known for. It needs your birth time."

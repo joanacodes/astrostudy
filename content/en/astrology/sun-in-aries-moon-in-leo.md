@@ -5,6 +5,8 @@ description: "Sun in Aries, Moon in Leo: fire trine fire, both lights on the Sun
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries", "Moon", "Leo"]
 weight: 5
 glyph: "☉♈☽♌"
 definition: "Sun in Aries, Moon in Leo puts both lights in fire, the Moon four signs ahead, seven and a half to twelve days after a new moon. The Sun is exalted and the Moon sits in the Sun’s own sign. I read it as warmth that wants to start things and needs to see them land."

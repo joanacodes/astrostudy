@@ -5,6 +5,8 @@ description: "Pluto trine Chiron in a birth chart: deep change and the tender sp
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Chiron", "trine"]
 weight: 353
 glyph: "♇△⚷"
 definition: "Pluto trine Chiron means Pluto and Chiron about 120° apart, an angle of two groups of births in the count: 1949–50 and 1988–91. In a chart, deep change and the tender place help each other: renewal makes a limit easier to live with, and the adaptations you build give your depth a gentle form."

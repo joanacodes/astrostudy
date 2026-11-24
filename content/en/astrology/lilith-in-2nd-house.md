@@ -5,6 +5,8 @@ description: "Lilith in the 2nd house in a birth chart: your worth and what’s 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "2nd house", "houses"]
 weight: 134
 glyph: "⚸"
 definition: "Lilith in the 2nd house places Black Moon Lilith, the Moon’s farthest point from Earth, in the house of resources and values. I read it as a sense of your own worth, and of what is yours, that learned early to keep quiet, and a refusal to be bought, owned or paid in gratitude."

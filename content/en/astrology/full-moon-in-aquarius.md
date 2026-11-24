@@ -5,6 +5,8 @@ description: "The full moon in Aquarius, with the Sun at home in Leo: the group 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "full moon", "Aquarius"]
 weight: 58
 glyph: "○♒"
 definition: "The full moon in Aquarius is the Moon in Aquarius opposite the Sun in Leo, between late July and late August. It lights the Aquarius–Leo axis from the side of the group: friends and shared ideals against the heart’s wish to be seen. In a birth chart it counts within about 1° of a planet or angle."

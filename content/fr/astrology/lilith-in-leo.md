@@ -6,6 +6,8 @@ description: "Lilith en Lion dans un thème natal : le désir qu’on vous voie
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Lion"]
 weight: 137
 glyph: "⚸♌"
 definition: "Lilith en Lion signifie qu’à votre naissance, la Lune noire Lilith, le point de l’orbite lunaire le plus éloigné de la Terre, se trouvait dans le feu fixe du signe du Soleil. J’y lis le désir qu’on vous voie en entier — votre travail, votre joie, votre fierté — qu’on a un jour traité d’esbroufe, et une dignité qui refuse de rapetisser."

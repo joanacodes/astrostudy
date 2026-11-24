@@ -5,6 +5,8 @@ description: "Sun opposite Jupiter in a birth chart: your purpose facing the wid
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Jupiter", "opposition"]
 weight: 17
 glyph: "☉☍♃"
 definition: "Sun opposite Jupiter places Jupiter across the zodiac from your Sun, about 180° away, and retrograde at your birth. In a chart, your purpose sits on one side and your urge to grow on the other. I read it as big hopes that learn proportion: the wider view often reaches you through other people first."

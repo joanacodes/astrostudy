@@ -5,6 +5,8 @@ description: "Jupiter sextile Pluto in synastry: one person’s sense of potenti
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Pluto", "sextile", "synastry"]
 weight: 267
 glyph: "♃⚹♇"
 definition: "Jupiter sextile Pluto in synastry means one person’s Jupiter is about 60° from the other’s Pluto, within 3°. A sense of potential and a capacity for renewal can help each other, quietly, once someone chooses to go deeper. It comes with the birth years, so its place is the houses, not the aspect list."

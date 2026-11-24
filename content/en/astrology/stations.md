@@ -5,6 +5,8 @@ description: "Stations in astrology: the days a planet seems to stand still befo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "dignities"
+categories: ["Planets and points"]
+tags: ["retrograde"]
 weight: 2
 glyph: "℞/D"
 definition: "A station is the turning point of a planet’s apparent motion: seen from Earth, the planet seems to stand still before changing direction. The station retrograde begins its backward stretch and the station direct ends it. Around a station a planet barely moves, and astrologers read it as emphatic: a function caught at a turning point."

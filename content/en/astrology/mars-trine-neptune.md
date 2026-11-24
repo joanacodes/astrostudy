@@ -5,6 +5,8 @@ description: "Mars trine Neptune in a birth chart: action and imagination in one
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Neptune", "trine"]
 weight: 218
 glyph: "♂△♆"
 definition: "Mars trine Neptune lets action and imagination share an element, about 120° apart in the birth chart. In a chart it makes inspired effort feel natural: you move gracefully towards what you imagine, and act readily for others. I read it as a flowing link between doing and dreaming that grows when you give it aims."

@@ -6,6 +6,8 @@ description: "Jupiter en Cancer dans un thème natal : Jupiter en exaltation, g
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Cancer"]
 weight: 64
 glyph: "♃♋"
 definition: "Jupiter en Cancer, c’est la planète de la croissance et du sens dans le signe d’eau cardinal gouverné par la Lune, son exaltation selon la tradition. Toute une année de naissance, à peu près, partage ce placement. J’y lis une croissance ancrée dans l’appartenance : une compréhension qui s’apprend par le soin, la mémoire et le sentiment d’être chez soi."

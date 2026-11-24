@@ -6,6 +6,8 @@ description: "Le triseptile en astrologie : deux planètes à 154°17′, trois
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["triseptile", "aspects mineurs"]
 weight: 14
 glyph: "✦"
 definition: "Le triseptile couvre trois septièmes du cercle entre deux planètes, environ 154°17′, le plus souvent à cinq signes d’écart. Lu dans un thème natal, il décrit une convergence : des fils de développement séparés qui, au fil des répétitions, se rejoignent en un tout qui fonctionne. C’est la façon d’intégrer des septièmes, pas un destin écrit d’avance."

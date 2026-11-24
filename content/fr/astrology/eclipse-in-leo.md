@@ -6,6 +6,8 @@ description: "Les éclipses en Lion : seize de 2000 à 2040, dont deux solaires
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["éclipses", "Lion"]
 weight: 5
 glyph: "●♌"
 definition: "Les éclipses en Lion arrivent quand une nouvelle ou une pleine lune proche des nœuds tombe en Lion : le Soleil caché par la Lune dans son signe, ou la pleine Lune en Lion dans l’ombre terrestre, face au Soleil en Verseau. Seize de 2000 à 2040 ; chacune ne compte qu’à environ trois degrés d’un point natal."

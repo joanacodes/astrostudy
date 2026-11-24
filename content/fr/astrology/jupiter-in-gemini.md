@@ -6,6 +6,8 @@ description: "Jupiter en Gémeaux dans un thème natal : Jupiter en exil, un se
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Gémeaux"]
 weight: 63
 glyph: "♃♊"
 definition: "Jupiter en Gémeaux, c’est la planète de la croissance et du sens dans le signe d’air mutable gouverné par Mercure, son exil selon la tradition. Les personnes nées la même année ou presque partagent ce placement. J’y lis une compréhension faite de sources multiples : vous grandissez en questionnant, en comparant, en parlant."

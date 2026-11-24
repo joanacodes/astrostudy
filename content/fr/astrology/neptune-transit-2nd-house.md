@@ -6,6 +6,8 @@ description: "Neptune en transit en maison 2 : près de quinze ans où l’arge
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Neptune", "maison 2", "transits"]
 weight: 38
 glyph: "♆"
 definition: "Neptune en transit en maison 2 amène la planète des idéaux dans votre maison de l’argent, des biens et de l’estime de soi, pour près de quinze ans en général. Ce transit adoucit ce que votre thème dit de la sécurité : des valeurs tournées vers le sens, une générosité qui grandit, des chiffres flous. Votre solde n’y est pas prédit."

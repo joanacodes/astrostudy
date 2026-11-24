@@ -6,6 +6,8 @@ description: "Mercure conjonction Lilith en synastrie : les mots de l’une tom
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Lilith", "conjonction", "synastrie"]
 weight: 156
 glyph: "☿☌⚸"
 definition: "Mercure conjonction Lilith en synastrie signifie que Mercure, chez une personne, se trouve à moins de 6° de la Lune noire Lilith de l’autre. Les questions et les mots de l’une tombent sur ce que l’autre a appris à cacher, sa part indomptée. J’y lis une parole franche, parfois exposante, qui demande honnêteté et accord des deux."

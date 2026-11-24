@@ -6,6 +6,8 @@ description: "Soleil opposition Nœud Nord dans un thème natal : le Soleil sur
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Nœud Nord", "opposition"]
 weight: 52
 glyph: "☉☍☊"
 definition: "Soleil opposition Nœud Nord signifie qu’à votre naissance, le Soleil se trouvait à environ 180° du Nœud Nord, donc tout près du Nœud Sud. Dans un thème, cet aspect enracine votre identité en terrain connu, la direction de croissance se trouvant juste en face. J’y lis une polarité à équilibrer, jamais un moi qui barre la route."

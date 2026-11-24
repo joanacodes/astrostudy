@@ -5,6 +5,8 @@ description: "Their Pluto in your 7th house in synastry: their depth in your par
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "7th house", "synastry", "house overlays"]
 weight: 115
 glyph: "♇"
 definition: "Their Pluto in your 7th house sets the other person’s depth on the western angle of your chart, where you meet partners, associates and declared rivals. In synastry the bond becomes serious and transforming, power has to be shared in plain view, and they meet in you someone who changes them too. It predicts neither marriage nor separation."

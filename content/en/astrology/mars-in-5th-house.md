@@ -5,6 +5,8 @@ description: "Mars in the 5th house in a birth chart: drive for play, sport, rom
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "5th house", "houses"]
 weight: 53
 glyph: "♂"
 definition: "Mars in the 5th house is Mars at play, in the house of pleasure, romance and creativity that tradition called Good Fortune. It describes drive aimed at joy: you play to win, pursue love boldly and put real energy into creative work. It needs the birth time, and it says nothing about children."

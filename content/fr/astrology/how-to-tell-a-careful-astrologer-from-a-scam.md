@@ -6,6 +6,8 @@ description: "Reconnaître un astrologue sérieux d’une arnaque : ce qui doit
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Lectures"]
+tags: ["arnaques", "lectures"]
 weight: 28
 glyph: "✦"
 definition: "Reconnaître un astrologue sérieux d’une arnaque, c’est juger la façon de travailler plutôt que ce que la personne prétend voir. Un astrologue sérieux annonce d’abord ses refus, ne promet aucun résultat et vous laisse décider. Malédiction à lever, pression pour payer plus, résultat garanti, secret et peur sont les signes qu’il faut partir."

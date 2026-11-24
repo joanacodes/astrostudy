@@ -6,6 +6,8 @@ description: "Soleil en Lion dans un thème natal : le Soleil dans son propre s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion"]
 weight: 5
 glyph: "☉♌"
 definition: "Le Soleil en Lion signifie que le Soleil était dans son propre signe à votre naissance, entre le 23 juillet et le 22 août environ : son domicile, en feu fixe. J’y lis un moi qui ne dépend d’aucune autre planète, une vitalité entretenue par ce que l’on crée de bon cœur, et le souhait d’une reconnaissance juste plutôt que large."

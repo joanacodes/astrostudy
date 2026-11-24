@@ -6,6 +6,8 @@ description: "Vénus opposition Neptune en synastrie : le rêve chez l’une, l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Neptune", "opposition", "synastrie"]
 weight: 190
 glyph: "♀☍♆"
 definition: "Vénus opposition Neptune en synastrie signifie que Vénus, chez une personne, se trouve à environ 180° de Neptune chez l’autre, à 6° près. Les préférences concrètes de l’une font face aux idéaux de l’autre, et la paire se partage souvent les détails et le rêve. J’y lis une polarité qu’on vit mieux en changeant de bout, jamais une désillusion."

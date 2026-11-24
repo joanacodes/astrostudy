@@ -5,6 +5,8 @@ description: "Their Chiron in your 8th house in synastry: an old hurt and its st
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "8th house", "synastry", "house overlays"]
 weight: 128
 glyph: "⚷"
 definition: "Their Chiron in your 8th house signals that the other person’s Chiron occupies your house of intimacy, trust, shared money and debts. In synastry their old hurt, and the steadiness it taught them, meets your closeness: they stay calm with your hard truths, while trust costs them. It never foretells loss."

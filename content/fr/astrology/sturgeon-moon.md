@@ -6,6 +6,8 @@ description: "La Lune de l’esturgeon, pleine lune d’août : ses dates et si
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 27
 glyph: "○"
 definition: "La Lune de l’esturgeon est le nom que les almanachs donnent à la pleine lune d’août, quand les grands esturgeons des Grands Lacs étaient le plus faciles à pêcher. C’est un nom populaire, pas d’astrologie. Dans un thème, c’est une pleine lune en Verseau, le Soleil en Lion, ou en Poissons, le Soleil en Vierge."

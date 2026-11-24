@@ -6,6 +6,8 @@ description: "Soleil sextile Chiron en synastrie : l’expérience durement acq
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Chiron", "sextile", "synastrie"]
 weight: 47
 glyph: "☉⚹⚷"
 definition: "Soleil sextile Chiron en synastrie met en lien le but d’une personne et l’expérience durement acquise de l’autre, sur quelque 60°, avec un orbe de 4,8°. Une sagesse pratique est offerte là où la personne qui a le Soleil en a besoin. J’y lis l’aide de quelqu’un qui est passé par là, et qui fonctionne une fois demandée."

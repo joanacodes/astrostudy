@@ -6,6 +6,8 @@ description: "Neptune de l’autre dans votre maison 7 en synastrie : son idéa
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 103
 glyph: "♆"
 definition: "Neptune de l’autre dans votre maison 7 installe Neptune, chez cette personne, parmi vos partenaires et vos égaux, à l’angle où votre thème fait face à quelqu’un. En synastrie, son idéal rencontre votre idée du lien à deux : ce lien peut sembler tendre, indulgent, prédestiné, et chaque personne aime peut-être une image autant qu’un être. Aucun mariage n’y est annoncé."

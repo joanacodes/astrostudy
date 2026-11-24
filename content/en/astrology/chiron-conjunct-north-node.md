@@ -5,6 +5,8 @@ description: "Chiron conjunct North Node in a birth chart: growth that comes out
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "North Node", "conjunction"]
 weight: 370
 glyph: "⚷☌☊"
 definition: "Chiron conjunct North Node is the meeting of Chiron and the North Node within a few degrees at birth, with the South Node opposite. In a chart, your direction of growth runs through the way you adapt around a lasting difficulty: the less familiar capacity you are asked to build tends to grow out of a work-around."

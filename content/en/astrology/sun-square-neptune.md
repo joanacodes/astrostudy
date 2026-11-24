@@ -5,6 +5,8 @@ description: "Sun square Neptune in a birth chart: a clear sense of self rubbing
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Neptune", "square"]
 weight: 30
 glyph: "☉□♆"
 definition: "Sun square Neptune means Neptune stood a quarter of the zodiac from your Sun at birth, about 90°. In a chart it sets your wish for a clear outline against a pull towards the ideal and the boundless. I read it as friction that teaches you to give a dream a shape, never as a self that can’t be found."

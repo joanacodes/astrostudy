@@ -6,6 +6,8 @@ description: "Mars trigone Pluton en synastrie : l’élan de l’une et la pro
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Pluton", "trigone", "synastrie"]
 weight: 234
 glyph: "♂△♇"
 definition: "Mars trigone Pluton en synastrie signifie que Mars, chez une personne, et Pluton, chez l’autre, partagent en général un élément, à environ 120°, à 5,1° près. L’élan et la profondeur se soutiennent sur la durée. J’y lis une endurance partagée, une force qui épaule sans rivaliser, et qui demande de dire qui tient la barre."

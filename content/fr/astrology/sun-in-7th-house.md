@@ -6,6 +6,8 @@ description: "Soleil en maison 7 dans un thème natal : une naissance en fin d�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "maison 7", "maisons"]
 weight: 7
 glyph: "☉"
 definition: "Le Soleil en maison 7 signifie que le Soleil était bas à l’ouest, en fin d’après-midi, à votre naissance, dans la maison angulaire qui commence au descendant. J’y lis une identité qui se travaille en face-à-face, avec les partenaires, la clientèle, les adversaires, et une leçon : garder sa propre lumière allumée. Il faut l’heure de naissance."

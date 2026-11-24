@@ -5,6 +5,8 @@ description: "Uranus in Capricorn in a birth chart: structures rebuilt to last, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Capricorn"]
 weight: 94
 glyph: "♅♑"
 definition: "Uranus in Capricorn is the planet of change in a cardinal earth sign ruled by Saturn, the sign of structure and long effort. Its years run from February 1988 to January 1996. I read it as a generation that rebuilds institutions to last; the house shows the structure in your own life it works on."

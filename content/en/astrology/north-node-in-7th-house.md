@@ -5,6 +5,8 @@ description: "North Node in the 7th house in a birth chart: growing through the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "7th house", "houses"]
 weight: 151
 glyph: "☊"
 definition: "North Node in the 7th house means the North Node, where the Moon’s path crosses the Sun’s heading north, sat in the house that begins at the Descendant when you were born, with the South Node in the 1st. I read it as growth through the person across the table: partners, clients and the bonds you commit to."

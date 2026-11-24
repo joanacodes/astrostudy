@@ -6,6 +6,8 @@ description: "Lilith en Capricorne dans un thème natal : une ambition qui a ap
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Capricorne"]
 weight: 142
 glyph: "⚸♑"
 definition: "Lilith en Capricorne signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la terre cardinale du signe de Saturne. J’y lis une ambition et une autorité bien à vous, qui ont appris tôt à paraître modestes, et un refus patient d’obéir à des règles que vous ne respectez pas."

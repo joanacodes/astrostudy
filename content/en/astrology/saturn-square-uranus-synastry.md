@@ -5,6 +5,8 @@ description: "Saturn square Uranus in synastry: one generation’s way of doing 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Uranus", "square", "synastry"]
 weight: 288
 glyph: "♄□♅"
 definition: "Saturn square Uranus in synastry means one person’s Saturn is about 90° from the other’s Uranus, within 4.25°. One person’s sense of how things should be done keeps meeting the other’s need to do them differently, at an awkward angle. I read it as friction between two eras’ defaults, which teaches both which rules matter."

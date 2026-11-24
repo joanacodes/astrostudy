@@ -5,6 +5,8 @@ description: "Their Saturn in your 8th house in synastry: slow trust, boundaries
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "8th house", "synastry", "house overlays"]
 weight: 80
 glyph: "♄"
 definition: "Their Saturn in your 8th house sets another person’s Saturn to work in your house of intimacy, trust and what is shared or owed. In synastry it tends to make closeness slow, careful and binding: trust is earned and then kept, joint money and promises are taken seriously, and they feel answerable for what you share. It never predicts death."

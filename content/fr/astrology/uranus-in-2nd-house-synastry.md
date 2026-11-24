@@ -6,6 +6,8 @@ description: "Uranus de l’autre dans votre maison 2 en synastrie : le goût d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 86
 glyph: "♅"
 definition: "Uranus de l’autre dans votre maison 2 fait souffler le goût du changement d’une autre personne sur vos ressources : l’argent, les biens, les compétences, l’estime de soi. En synastrie, cette personne vous libère peut-être de vieilles idées sur ce dont vous avez besoin, ou bouscule votre sécurité, et se sent plus libre dans votre monde matériel. Rien n’y prédit l’argent."

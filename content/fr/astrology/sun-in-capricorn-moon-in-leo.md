@@ -6,6 +6,8 @@ description: "Soleil en Capricorne, Lune en Lion : un quinconce, la Lune gouver
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Capricorne", "Lune", "Lion"]
 weight: 113
 glyph: "☉♑☽♌"
 definition: "Soleil en Capricorne, Lune en Lion relie la terre cardinale et le feu fixe par un quinconce, pour une naissance juste après une pleine lune. Le Soleil gouverne le signe de la Lune, et Saturne, maître du Soleil, a son exil en Lion. J’y lis un moi dévoué qui porte une lumière chaude et apprend à la montrer."

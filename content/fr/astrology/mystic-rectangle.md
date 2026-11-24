@@ -6,6 +6,8 @@ description: "Le rectangle mystique en astrologie : deux oppositions reliées p
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["configurations"]
 weight: 8
 glyph: "▭"
 definition: "Un rectangle mystique, ce sont quatre planètes en deux oppositions, reliées sur les côtés par deux sextiles et deux trigones : un rectangle en travers du thème. Il décrit une tension tenue dans un cadre de soutien : deux polarités, avec des liens faciles entre leurs bouts. Quatre planètes doivent tomber juste, et environ 1 personne sur 28 en a un."

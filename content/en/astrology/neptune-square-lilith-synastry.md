@@ -5,6 +5,8 @@ description: "Neptune square Lilith in synastry: one person’s gentle picture o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Lilith", "square", "synastry"]
 weight: 353
 glyph: "♆□⚸"
 definition: "In synastry, Neptune square Lilith is a right angle, within 3.4°, across two charts: Neptune in one, mean Black Moon Lilith in the other. One person’s tender, idealising view keeps missing the other’s untamed edge, and the other bristles at being softened. I read it as friction that teaches both to see each other plainly, never as a mismatch."

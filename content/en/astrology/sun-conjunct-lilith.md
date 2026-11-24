@@ -5,6 +5,8 @@ description: "Sun conjunct Lilith in a birth chart: the part you were told to to
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Lilith", "conjunction"]
 weight: 43
 glyph: "☉☌⚸"
 definition: "Sun conjunct Lilith means you were born with the Sun within a few degrees of Black Moon Lilith, the far point of the Moon’s orbit. In a chart it puts what you learned to hide close to the centre of who you are. I read it as authenticity asking for room, never as something to fix."

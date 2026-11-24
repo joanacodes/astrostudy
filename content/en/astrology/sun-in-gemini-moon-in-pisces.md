@@ -5,6 +5,8 @@ description: "Sun in Gemini, Moon in Pisces: two mutable signs in a square, Merc
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini", "Moon", "Pisces"]
 weight: 36
 glyph: "☉♊☽♓"
 definition: "Sun in Gemini, Moon in Pisces brings together air and water, both mutable, the Moon three signs short of the Sun, in the days around the last quarter. I read it as words meeting what words can't hold: a self that names, links and explains, and needs that feel their way through images, moods and music."

@@ -6,6 +6,8 @@ description: "Saturne en transit en maison 2 : environ trois ans de budgets, de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Saturne", "maison 2", "transits"]
 weight: 14
 glyph: "♄"
 definition: "Saturne en transit en maison 2, c’est le séjour de Saturne, un peu moins de trois ans en général, dans votre maison des ressources et des valeurs. Ce transit met un cadre autour de ce que votre thème dit déjà de l’argent, de la valeur et de la sécurité : budgets, limites, intendance, sécurité bâtie lentement. Il ne prédit aucun argent."

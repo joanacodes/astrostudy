@@ -5,6 +5,8 @@ description: "Uranus square Pluto in a birth chart: change and deep renewal in f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Pluto", "square"]
 weight: 312
 glyph: "♅□♇"
 definition: "Uranus square Pluto is a 90° angle between the two planets. In the count it belongs to births of 1930 to 1936, with Uranus in Aries and Pluto in Cancer, and to a few months of 2009. In a chart, the urge to break free and the pressure to transform at the root rub until something is rebuilt."

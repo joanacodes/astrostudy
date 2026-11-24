@@ -6,6 +6,8 @@ description: "Uranus conjonction Chiron en synastrie : le goût du changement d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Chiron", "conjonction", "synastrie"]
 weight: 326
 glyph: "♅☌⚷"
 definition: "Uranus conjonction Chiron en synastrie signifie qu’Uranus, chez une personne, se trouve à moins de 4° du Chiron de l’autre. L’envie de changer un arrangement tombe là où l’autre a bâti sa façon de vivre avec une limite durable. Des années entières de naissances le partagent : je le lis par les maisons, avec douceur, et avec l’accord des deux."

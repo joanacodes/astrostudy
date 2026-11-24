@@ -6,6 +6,8 @@ description: "Mercure opposition Lilith dans un thème natal : la chose tue dit
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Lilith", "opposition"]
 weight: 149
 glyph: "☿☍⚸"
 definition: "Mercure opposition Lilith place votre raisonnement à l’opposé de la Lune noire Lilith, associée à ce qui ne se laisse pas dompter. Dans un thème, la matière indomptée et non dite vous parvient souvent par la bouche des autres avant que vous la reconnaissiez comme vôtre. C’est une polarité qui demande d’assumer les deux voix."

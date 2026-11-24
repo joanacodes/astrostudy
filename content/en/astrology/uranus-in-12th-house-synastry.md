@@ -5,6 +5,8 @@ description: "Their Uranus in your 12th house in synastry: sudden insight and re
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "12th house", "synastry", "house overlays"]
 weight: 96
 glyph: "♅"
 definition: "Their Uranus in your 12th house wakes the quietest part of your chart with another person’s Uranus: solitude, rest, retreat and what you carry unsaid. In synastry they may spark sudden insights and new ways of resting, or unsettle the calm you rely on, while they feel strangely free in your silence. It is never read as a symptom."

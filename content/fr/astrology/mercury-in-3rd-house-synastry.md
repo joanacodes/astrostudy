@@ -6,6 +6,8 @@ description: "Mercure de l’autre dans votre maison 3 en synastrie : son espri
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 27
 glyph: "☿"
 definition: "Mercure de l’autre dans votre maison 3 fait entrer sa façon de penser dans votre ronde quotidienne d’échanges, de messages, de courses et d’apprentissages. En synastrie, la conversation entre vous est fréquente, vive et facile, et vous avez des choses à vous apprendre ; les Gémeaux, signe naturel de la maison 3, sont l’un des deux signes que gouverne Mercure."

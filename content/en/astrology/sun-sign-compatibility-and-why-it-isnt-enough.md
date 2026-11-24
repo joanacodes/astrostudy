@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["Sun-sign compatibility", "sign compatibility"]
 family: "techniques"
+categories: ["Synastry"]
+tags: ["Sun", "zodiac signs", "synastry"]
 weight: 55
 glyph: "✦"
 definition: "Sun-sign compatibility compares two people by their Sun signs alone: their elements, their modalities and how many signs apart they are. It can sketch how two senses of purpose meet. It isn’t enough because it reads one placement of each chart, by sign rather than degree, and leaves out the Moon, Venus, Mars, the angles and the houses."

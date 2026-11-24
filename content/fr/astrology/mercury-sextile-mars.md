@@ -6,6 +6,8 @@ description: "Mercure sextile Mars dans un thème natal : des idées qui devien
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Mars", "sextile"]
 weight: 111
 glyph: "☿⚹♂"
 definition: "Mercure sextile Mars signifie qu’à votre naissance, Mercure et Mars étaient à environ 60° d’écart. Dans un thème, vos idées et vos actes coopèrent : une idée peut devenir un premier pas, et un désaccord un échange utile. J’y lis une ouverture vers un courage pratique, qui fonctionne quand vous vous en servez."

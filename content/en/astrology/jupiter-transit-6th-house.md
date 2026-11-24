@@ -5,6 +5,8 @@ description: "Jupiter transiting the 6th house: about a year when daily work and
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "6th house", "transits"]
 weight: 6
 glyph: "♃"
 definition: "Jupiter transiting the 6th house is the year or so Jupiter spends crossing your house of daily work, routine and care. Its material is the working life your chart already describes: more to do, better habits within reach, and meaning found in ordinary tasks. It predicts nothing about your health."

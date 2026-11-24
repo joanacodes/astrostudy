@@ -6,6 +6,8 @@ description: "Uranus en transit en maison 6 : environ sept ans pour changer vot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Uranus", "maison 6", "transits"]
 weight: 30
 glyph: "♅"
 definition: "Uranus en transit en maison 6, c’est le séjour, sept ans environ au milieu, de la planète du changement dans votre maison du travail quotidien, de la routine et du soin. Ce transit retravaille ce que votre thème dit déjà de vos journées : de nouvelles méthodes, d’autres horaires, des routines inventées plutôt qu’héritées, sans rien annoncer pour la santé."

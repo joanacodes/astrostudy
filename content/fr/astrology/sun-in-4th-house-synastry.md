@@ -6,6 +6,8 @@ description: "Le Soleil de l’autre dans votre maison 4 en synastrie : son él
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 4
 glyph: "☉"
 definition: "Le Soleil de l’autre dans votre maison 4 pose son Soleil au pied de votre thème, parmi votre foyer, vos racines et votre intimité. En synastrie, son élan éclaire le sol où vous vous tenez : cette personne prend souvent pour vous la saveur d’un foyer, et se sent plus elle-même chez vous."

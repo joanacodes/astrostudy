@@ -5,6 +5,8 @@ description: "Sun in Leo, Moon in Scorpio: fixed fire squares fixed water, the M
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo", "Moon", "Scorpio"]
 weight: 56
 glyph: "☉♌☽♏"
 definition: "Sun in Leo, Moon in Scorpio sets two fixed signs at a square, fire against water, at a birth near the first quarter, 5 to 10 days after the new moon. The Sun is at home and the Moon in its fall. I read it as loyalty with two faces: one shown in daylight, one kept below the waterline."

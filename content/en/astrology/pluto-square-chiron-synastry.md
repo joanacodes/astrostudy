@@ -5,6 +5,8 @@ description: "Pluto square Chiron in synastry: one person’s push for deep chan
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "Chiron", "square", "synastry"]
 weight: 363
 glyph: "♇□⚷"
 definition: "In synastry, Pluto square Chiron sets one chart’s Pluto at right angles to another chart’s Chiron, within 3.4°. One person’s drive to change things from the root presses on what the other has learned to work around, and both have to sort what can go from what stays. I read it as friction that teaches that difference, slowly."

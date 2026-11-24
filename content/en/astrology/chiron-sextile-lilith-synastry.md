@@ -5,6 +5,8 @@ description: "Chiron sextile Lilith in synastry: one person’s work-arounds and
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "Lilith", "sextile", "synastry"]
 weight: 377
 glyph: "⚷⚹⚸"
 definition: "Chiron sextile Lilith in synastry is a 60° link from one person’s Chiron to another person’s Black Moon Lilith, held to 1.8°, the tightest orb I use. One person’s way of adapting and the other’s untamed side can help each other, but only once someone asks. I read it as an opening, through the houses."

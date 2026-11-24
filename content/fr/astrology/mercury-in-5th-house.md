@@ -6,6 +6,8 @@ description: "Mercure en maison 5 dans un thème natal : un esprit qui pense po
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "maison 5", "maisons"]
 weight: 29
 glyph: "☿"
 definition: "Mercure en maison 5 place la planète de la pensée dans la maison du jeu, de la création, du plaisir et des amours. On y lit un esprit au plus vif quand il s’amuse : jeux, énigmes, humour, écriture pour le plaisir. La tradition y mettait les enfants ; je lis cette maison chez l’adulte. Il faut l’heure de naissance."

@@ -5,6 +5,8 @@ description: "Mars sextile Pluto in synastry: a working alliance between one per
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Pluto", "sextile", "synastry"]
 weight: 232
 glyph: "♂⚹♇"
 definition: "Mars sextile Pluto in synastry means one person’s Mars sits a sextile, about 60° within 3.6°, from the other’s Pluto. One brings momentum, the other the nerve to cut what no longer works: a capable team. I read it as an alliance that serves best when used before a crisis, not only during one."

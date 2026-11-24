@@ -6,6 +6,8 @@ description: "Vénus trigone Uranus dans un thème natal : la tendresse et l’
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Uranus", "trigone"]
 weight: 173
 glyph: "♀△♅"
 definition: "Vénus trigone Uranus signifie que Vénus et Uranus se trouvaient à quelque 120° d’écart à votre naissance, dans un même élément le plus souvent. Dans un thème, la tendresse et l’originalité y coulent ensemble : vous aimez librement, changez de goûts sans bouleversement et laissez de la place aux autres sans effort. J’y lis une aisance réelle, à employer avec attention."

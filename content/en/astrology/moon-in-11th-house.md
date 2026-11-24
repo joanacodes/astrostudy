@@ -5,6 +5,8 @@ description: "Moon in the 11th house in a birth chart: belonging found among fri
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "11th house", "houses"]
 weight: 23
 glyph: "☽"
 definition: "Moon in the 11th house means the Moon sat in the house of friends, groups and hopes, which tradition called the Good Spirit, when you were born. I read it as belonging found in a chosen circle, care given to the people in it, and hopes bound up with them. It needs the birth time."

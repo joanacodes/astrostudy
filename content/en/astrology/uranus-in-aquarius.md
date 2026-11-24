@@ -5,6 +5,8 @@ description: "Uranus in Aquarius in a birth chart: Uranus in its own sign, for t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Aquarius"]
 weight: 95
 glyph: "♅♒"
 definition: "Uranus in Aquarius is the planet of change in its own sign in modern tropical astrology, a fixed air sign that tradition gives to Saturn. It belongs to the births of April 1995 to December 2003. I read it as a generation at ease with networks and new systems; the house shows where that ease becomes yours."

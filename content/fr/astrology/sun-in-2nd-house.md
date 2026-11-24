@@ -6,6 +6,8 @@ description: "Soleil en maison 2 dans un thème natal : une identité qui se co
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "maison 2", "maisons"]
 weight: 2
 glyph: "☉"
 definition: "Le Soleil en maison 2 signifie que le Soleil occupait la maison des ressources et des valeurs à votre naissance, loin sous l’horizon, au cœur de la nuit. J’y lis une identité qui se construit par ce que vous bâtissez, gardez et estimez, et une leçon : distinguer la valeur du prix. Il faut l’heure de naissance."

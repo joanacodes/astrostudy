@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux, Lune en Bélier : l’air et le feu, Mercure 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux", "Lune", "Bélier"]
 weight: 25
 glyph: "☉♊☽♈"
 definition: "Soleil en Gémeaux, Lune en Bélier met la Lune dans le feu, deux signes derrière le Soleil, pendant la dernière semaine d’un mois lunaire, après le dernier quartier. J’y lis la curiosité et l’impatience qui voyagent ensemble : un moi qui rassemble idées et possibles, des besoins qui s’apaisent une fois l’émotion suivie d’un acte, vite et à voix haute."

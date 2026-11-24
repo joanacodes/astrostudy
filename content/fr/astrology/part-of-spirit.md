@@ -6,6 +6,8 @@ description: "La Part de l’Esprit en astrologie : la part du Soleil, son calc
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "points"
+categories: ["Planètes et points"]
+tags: ["parts arabes"]
 weight: 10
 glyph: "✦"
 definition: "La Part de l’Esprit est un point calculé, la part du Soleil et le reflet de la Part de Fortune. De jour, elle vaut l’ascendant plus le Soleil moins la Lune ; de nuit, le calcul s’inverse. La tradition y lit l’esprit et ce que vous entreprenez : l’initiative que vous prenez, plutôt que ce qui vous échoit."

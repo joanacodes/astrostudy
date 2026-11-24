@@ -6,6 +6,8 @@ description: "La lecture à froid : sembler connaître une personne jamais vue,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["test", "biais cognitifs"]
 weight: 14
 glyph: "✦"
 definition: "La lecture à froid regroupe les techniques de mentalistes, voyants, diseurs de bonne aventure et médiums pour sembler connaître une personne jamais vue : assurance, phrases qui conviennent à beaucoup, attention aux vêtements, aux manières et à la parole, flatterie. Le psychologue Ray Hyman l’a décrite en 1977. On peut y glisser sans le vouloir."

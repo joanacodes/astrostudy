@@ -5,6 +5,8 @@ description: "Venus in the 2nd house in a birth chart: a sure sense of quality, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "2nd house", "houses"]
 weight: 38
 glyph: "♀"
 definition: "Venus in the 2nd house places the planet of valuation in the house of belongings, talents and self-worth, whose natural sign, Taurus, Venus rules. It describes a sure sense of quality, care shown in tangible ways, and a self-worth that grows once it stops being measured in things. Your birth time has to be exact."

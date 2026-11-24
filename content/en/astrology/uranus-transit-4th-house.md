@@ -5,6 +5,8 @@ description: "Uranus transiting the 4th house: about eight years of rethinking h
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "4th house", "transits"]
 weight: 28
 glyph: "♅"
 definition: "Uranus transiting the 4th house is the stretch, about eight years as a rule, that begins when Uranus crosses your Imum Coeli and moves through your house of home and roots. It unsettles what your chart already says about belonging: arrangements at home rethought, family patterns seen freshly, more freedom where you live."

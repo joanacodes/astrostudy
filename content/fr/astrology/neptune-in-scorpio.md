@@ -6,6 +6,8 @@ description: "Neptune en Scorpion dans un thème natal : le rêve de profondeur
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Scorpion"]
 weight: 104
 glyph: "♆♏"
 definition: "Neptune en Scorpion, c’est la planète de l’imagination et de l’empathie dans le signe d’eau fixe de la profondeur et de l’intimité, où Neptune a séjourné de décembre 1955 à novembre 1970. Pour la génération née alors, j’y lis l’attrait de la profondeur : l’intimité sans masques, le mystère, la compassion qui reste dans l’obscurité."

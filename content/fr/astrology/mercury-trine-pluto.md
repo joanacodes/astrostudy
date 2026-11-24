@@ -6,6 +6,8 @@ description: "Mercure trigone Pluton dans un thème natal : une lucidité natur
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Pluton", "trigone"]
 weight: 138
 glyph: "☿△♇"
 definition: "Mercure trigone Pluton place votre pensée à 120° de Pluton, la planète des profondeurs, à la naissance, en général dans des signes qui partagent un élément : penser et transformer vont ensemble. Dans un thème, cela donne une lucidité naturelle, et des mots qui convainquent sans forcer. J’y lis une profondeur facile, à employer exprès."

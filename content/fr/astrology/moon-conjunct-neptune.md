@@ -6,6 +6,8 @@ description: "Lune conjonction Neptune dans un thème natal : des émotions aux
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Neptune", "conjonction"]
 weight: 83
 glyph: "☽☌♆"
 definition: "Lune conjonction Neptune signifie que la Lune se trouvait près de Neptune à votre naissance, à quelques degrés, en général dans le signe de Neptune. Cette conjonction mêle vos émotions à l’imagination et à la compassion : ce que vous ressentez déborde vos contours, et les émotions des autres vous atteignent. J’y lis un don d’empathie qui demande du calme."

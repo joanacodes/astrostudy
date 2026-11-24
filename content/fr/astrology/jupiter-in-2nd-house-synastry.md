@@ -6,6 +6,8 @@ description: "Jupiter de l’autre dans votre maison 2 en synastrie : sa géné
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 62
 glyph: "♃"
 definition: "Jupiter de l’autre dans votre maison 2 signifie que la générosité de cette personne, portée par Jupiter, arrive parmi vos ressources, vos biens et votre estime de vous. En synastrie, elle élargit le sentiment de votre propre valeur et donne volontiers, et l’autre se sent à l’aise avec votre stabilité. Il s’agit de valeurs et de dons, jamais d’argent promis."

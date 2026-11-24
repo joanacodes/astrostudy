@@ -6,6 +6,8 @@ description: "Vénus conjonction Nœud Nord dans un thème natal : ce que vous 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Nœud Nord", "conjonction"]
 weight: 195
 glyph: "♀☌☊"
 definition: "Vénus conjonction Nœud Nord signifie qu’à votre naissance, Vénus se trouvait à quelques degrés du Nœud Nord, et donc à l’opposé du Nœud Sud. Ce que vous aimez et votre façon d’entrer en relation sont sur votre bord de croissance : des capacités qui se construisent par la pratique. J’y lis un développement par les liens, jamais un destin."

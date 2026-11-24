@@ -5,6 +5,8 @@ description: "Sun in Libra, Moon in Sagittarius: air and fire a sextile apart, b
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra", "Moon", "Sagittarius"]
 weight: 81
 glyph: "☉♎☽♐"
 definition: "Sun in Libra, Moon in Sagittarius puts the Moon two signs ahead of the Sun, a sextile by sign, a few evenings after a new moon. It reads to me as a self that seeks fairness between people, carried by needs that ask for space, honesty and the sense that life is going somewhere."

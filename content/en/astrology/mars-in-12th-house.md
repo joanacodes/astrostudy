@@ -5,6 +5,8 @@ description: "Mars in the 12th house in a birth chart: drive that works behind t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "12th house", "houses"]
 weight: 60
 glyph: "♂"
 definition: "Mars in the 12th house places your drive in the house of what happens out of sight: solitude, rest, quiet work and the inner life. It describes effort made behind the scenes, courage on other people’s behalf and anger that’s often kept in. It needs the birth time, and what tradition gave the house is never read as a forecast."

@@ -5,6 +5,8 @@ description: "Venus in the 10th house in a birth chart: grace in public life, a 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "10th house", "houses"]
 weight: 46
 glyph: "♀"
 definition: "Venus in the 10th house means Venus stood high in the sky at your birth, near the Midheaven, in the house of public life and standing. It describes a gift for being liked in public, grace and fairness at work, and a career that goes best when it stays true to your taste. The birth time decides it."

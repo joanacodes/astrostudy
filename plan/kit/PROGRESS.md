@@ -12,13 +12,17 @@ until 3:50 am Paris Friday 20th November" (= 02:50 UTC).
   practice); the 17 country pages wait for network access to official sites.
 - Dark mode: agent aaf1d65d39460ffb0 (commits its own files on the branch with [skip ci]).
 
-## Running (agent ids, for SendMessage after a container restart)
-- overlay[6] a76272b9f8018ea56 · sunmoon[5] a144dd7551aaea9c7 · transit[2] af2d3c3aae0e29205 (stops 02:38) · transit[1] a795db51273c912d3
-- t2concepts[0] part a46a8204c650da27a (stops 02:38) · cycles[1] aca101aad54363d35
-- t2concepts[1] part a697592341bb91b5c (stops 02:38) · overlay[5] ab899a66c2c276479
-- done since restart: dark mode (4fdde73, 90b6ec6, 0f17d53) · syn[4] leftovers + syn[11] (4d6c424) · syn[8] (in WIP commits) · syn[10] (2707169) · overlay[0] (36d02aa) · syn[7] (1dabb0b) · syn[9] (50d2eaa) · sunmoon[0] leftovers + sunmoon[1] (5bf0895) · syn[13] (b529af0) · syn[15] (in WIP commits) · sunmoon[2] (bcf9d8a) · syn[12] (8790fcd) · overlay[1] (in WIP commits) · overlay[2] (3078909) · syn[14] (6adbed9): every synastry batch done · transit[0] (6cdd612) · cycles[0] (in WIP commits) · t2patterns (3d7dc58) · sunmoon[4] (30a02f5) · overlay[3] (c7c1814) · sunmoon[3] (6c30c0c) · transit[3] (70fe27b) · overlay[4] (in WIP commits) · cycles[2] (0bbb927, 2070d5d) · Saturn house stay 'about three years' on the house pages (ccea722) · moon.md birth-time fix (37600e8)
-- on main: 46e7daf (dark mode + 270 pages), deployed 23:03 UTC
-- next: t2concepts[0..4], t2tech, t2research[0..2], t2asteroids, stars, then tier 3
+## State on 20 November, 02:40 UTC (end of the night's run)
+- Nothing running. Since the restart on 19 November: 662 pages written in EN+FR (all synastry aspects; 139 of 144 Sun–Moon
+  pairs; 164 of 168 house overlays; 77 of 84 transits through a house; Mercury, Venus and Mars retrograde and the progressed
+  Moon in each sign; the eclipses by sign; the 21 chart patterns; 16 concept pages), dark mode, and fixes (the Moon page's
+  birth-time sentence, Saturn's stay in a house, the four hybrid eclipses).
+- Written in both languages: 1,776 of the plan's 3,604 pages; on main: all of them (25d4e7e).
+- Left, by batch kind (1,453): transitnatal 415, composite 312, rulerhouse 144, signcusp 132, t3concepts 104, t2concepts 86,
+  stars 54, t3people 38, decan 36, starcontact 30, t2research 23, t2tech 18, t3tech 18, countries 17 (network), transit 7
+  (chiron-transit-6th to 12th), t3other 6, sunmoon 5 (sun-in-pisces-moon-in-scorpio to pisces), overlay 4
+  (lilith-in-9th to 12th-house-synastry), t2asteroids 4. Held: 360 Sabian, 6 sky-calendar, 4 owner pages.
+- Tools: commit-batch.sh, wip.sh, publish-main.sh, unfinished.sh, overlap.py (see their headers).
 
 ## Data to check
 - plan/kit/overlap.py lists sentences two pages share: on 20 November most were the brief's formulas, a few real echoes (the 11th house's one-line definition in four new pages, a 4th-house line in two overlays) to reword later.

@@ -5,6 +5,8 @@ description: "Uranus sextile Neptune in synastry: one generation’s reforms and
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Neptune", "sextile", "synastry"]
 weight: 317
 glyph: "♅⚹♆"
 definition: "Uranus sextile Neptune in synastry separates one person’s Uranus from the other’s Neptune by some 60°, within 2.4°. The reforms one generation reaches for and the ideals another holds can help each other, through a joint effort that someone has to start. I read it through the houses, as two eras trading help."

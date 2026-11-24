@@ -6,6 +6,8 @@ description: "Saturne de l’autre dans votre maison 9 en synastrie : rigueur e
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "maison 9", "synastrie", "superpositions de maisons"]
 weight: 81
 glyph: "♄"
 definition: "Saturne de l’autre dans votre maison 9 laisse entrer Saturne, chez une autre personne, dans vos convictions, vos études, vos longs voyages et vos grandes questions. En synastrie, sa rigueur rencontre votre quête de sens : les croyances éprouvées avec elle en sortent plus solides, les longues études s’achèvent, et l’autre veille à l’honnêteté de votre pensée."

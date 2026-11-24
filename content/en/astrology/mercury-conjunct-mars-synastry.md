@@ -5,6 +5,8 @@ description: "Mercury conjunct Mars in synastry: one person’s ideas land right
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Mars", "conjunction", "synastry"]
 weight: 121
 glyph: "☿☌♂"
 definition: "Mercury conjunct Mars in synastry means one person’s Mercury sits within 6° of the other’s Mars. One person’s ideas and words meet the other’s urge to act head-on, so plans get moving fast. To me it’s thought meeting momentum, which works best when both know whether they are talking or deciding."

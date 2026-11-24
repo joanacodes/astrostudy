@@ -6,6 +6,8 @@ description: "Nœud Nord en Bélier dans un thème natal : apprendre à choisir
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "Bélier"]
 weight: 145
 glyph: "☊♈"
 definition: "Nœud Nord en Bélier signifie qu’à votre naissance, le point où la Lune croise la route du Soleil vers le nord se trouvait en Bélier, et le Nœud Sud en face, en Balance. J’y lis une direction : apprendre à choisir pour vous-même et à le dire en premier, après une longue habitude de préserver la paix."

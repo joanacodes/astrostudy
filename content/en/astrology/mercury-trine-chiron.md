@@ -5,6 +5,8 @@ description: "Mercury trine Chiron in a birth chart: naming a difficulty without
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Chiron", "trine"]
 weight: 143
 glyph: "☿△⚷"
 definition: "Mercury trine Chiron joins the planet of words to Chiron, the tender place in a chart, by an easy 120°, usually through signs of one element. In a chart it lets you speak about difficulty, yours or other people’s, without the words turning sharp. I see it as a gift for kind explanation, one that grows when you use it."

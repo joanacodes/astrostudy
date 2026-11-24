@@ -6,6 +6,8 @@ description: "Les signes d’eau en astrologie : Cancer, Scorpion et Poissons �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signes"]
+tags: ["signes du zodiaque"]
 weight: 33
 glyph: "♋♏♓"
 definition: "Les signes d’eau sont le Cancer, le Scorpion et les Poissons, à 120° les uns des autres. Dans un thème natal, l’eau montre où vous percevez les choses par le sentiment : la proximité, la mémoire, l’intuition, l’atmosphère d’une pièce. En eau, une planète sent souvent ce qui compte avant de savoir dire pourquoi."

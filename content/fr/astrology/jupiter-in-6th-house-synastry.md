@@ -6,6 +6,8 @@ description: "Jupiter de l’autre dans votre maison 6 en synastrie : sa géné
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 66
 glyph: "♃"
 definition: "Jupiter de l’autre dans votre maison 6 apporte Jupiter, chez cette personne, à votre travail quotidien, à vos routines et à vos habitudes. En synastrie, sa générosité éclaire le sens de vos journées de travail : l’autre aide et encourage, et votre méthode offre à ses grandes idées un débouché pratique. Il s’agit de travail et d’habitudes, jamais de votre santé."

@@ -5,6 +5,8 @@ description: "Which Lilith is mine? Mean, true, interpolated, the Dark Moon, ast
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "points"
+categories: ["Planets and points"]
+tags: ["Lilith"]
 weight: 13
 glyph: "⚸"
 definition: "Your Lilith is whichever point your chart calls Lilith, and the name covers several. Two charts can disagree when one shows mean Lilith, the smoothed average of the Moon’s farthest point, and the other true Lilith, the same point at that exact moment, which can sit tens of degrees away. I read mean Lilith."

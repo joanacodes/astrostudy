@@ -6,6 +6,8 @@ description: "Degrés, minutes et secondes : comment s’écrit et se compte un
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: []
 weight: 13
 glyph: "°′″"
 definition: "Les degrés, minutes et secondes servent à mesurer les positions d’un thème. Le zodiaque est un cercle de 360°, chaque signe fait 30°, chaque degré 60 minutes d’arc et chaque minute 60 secondes. Une position comme 16°53′ Scorpion dit exactement où, dans son signe, se trouvait une planète."

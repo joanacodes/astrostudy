@@ -5,6 +5,8 @@ description: "Self-fulfilling prophecy: Merton’s idea, the Pygmalion study and
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["testing", "cognitive biases"]
 weight: 15
 glyph: "✦"
 definition: "A self-fulfilling prophecy is a belief that helps bring about what it predicts. The sociologist Robert K. Merton defined it in a 1948 essay. In astrology, studies have found a related effect: people who know what their sun sign is said to mean tend to describe themselves in its terms, while people who don’t, don’t."

@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["sextile"]
 family: "aspects"
+categories: ["Aspects"]
+tags: ["sextile"]
 weight: 2
 glyph: "⚹"
 definition: "Le sextile est un angle de 60° entre deux planètes, en général à deux signes d’écart : le feu avec l’air, la terre avec l’eau. Dans un thème natal, il relie deux parts de vous qui s’entendent et peuvent s’entraider, à condition de vous en servir. Les astrologues le rangent parmi les aspects doux, en cousin plus léger du trigone."

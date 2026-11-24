@@ -6,6 +6,8 @@ description: "Mars carré Pluton dans un thème natal : l’élan rencontre l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Pluton", "carré"]
 weight: 222
 glyph: "♂□♇"
 definition: "Mars carré Pluton place votre élan à angle droit de votre capacité de changement profond, à environ 90°. Ce carré décrit une intensité sous pression : quand quelque chose bloque, vous poussez plus fort, et l’effort rencontre sans cesse le besoin de transformer. J’y lis une friction qui construit la mesure et la résilience, jamais une condamnation à lutter."

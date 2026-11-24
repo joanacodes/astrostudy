@@ -5,6 +5,8 @@ description: "Mars trine Saturn in synastry: one person’s effort and the other
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Saturn", "trine", "synastry"]
 weight: 219
 glyph: "♂△♄"
 definition: "Mars trine Saturn in synastry means one person’s Mars is about 120° from the other’s Saturn, within 5.1°, usually in signs of one element. The first person’s effort and the second’s structure keep step: work gets started and finished. I read it as reliable cooperation, best when the roles stay open to change."

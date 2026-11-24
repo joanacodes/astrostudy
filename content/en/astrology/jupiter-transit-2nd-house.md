@@ -5,6 +5,8 @@ description: "Jupiter transiting the 2nd house: about a year when self-worth and
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "2nd house", "transits"]
 weight: 2
 glyph: "♃"
 definition: "Jupiter transiting the 2nd house is the year or so when Jupiter in the sky crosses your house of resources and values. It doesn’t bring money. Nothing new arrives: the transit stirs what your chart already says about worth and security, so that what you value, what you could build on and what you’d keep come into focus."

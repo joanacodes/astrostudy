@@ -5,6 +5,8 @@ description: "Sun opposite Chiron in synastry: one person’s strength faces the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Chiron", "opposition", "synastry"]
 weight: 50
 glyph: "☉☍⚷"
 definition: "Sun opposite Chiron in synastry puts one person’s Sun across the zodiac from the other’s Chiron, a full 180° within an orb of 8°, so identity faces a sore spot. Helper and helped are easy roles to fall into. I read it as a polarity of strength and hard-won skill that works best when the roles keep moving."

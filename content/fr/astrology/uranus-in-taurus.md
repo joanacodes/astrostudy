@@ -6,6 +6,8 @@ description: "Uranus en Taureau dans un thème natal : une génération qui rep
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Taureau"]
 weight: 86
 glyph: "♅♉"
 definition: "Uranus en Taureau, c’est la planète du changement dans un signe de terre fixe, celui de Vénus, des sens et de ce qui dure. Toutes les personnes nées de juin 1934 à mai 1942 ou de mai 2018 à avril 2026 l’ont. J’y lis une génération qui réforme la sécurité et la valeur ; la maison montre où vous le vivez."

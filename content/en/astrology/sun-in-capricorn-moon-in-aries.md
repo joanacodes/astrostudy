@@ -5,6 +5,8 @@ description: "Sun in Capricorn, Moon in Aries: a cardinal square near the first 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Capricorn", "Moon", "Aries"]
 weight: 109
 glyph: "☉♑☽♈"
 definition: "Sun in Capricorn, Moon in Aries squares two cardinal signs, earth and fire, at a birth close to the first quarter, about a week after the new moon. Mars, the Moon’s ruler, is exalted in Capricorn; Saturn, the Sun’s, has its fall in Aries. I read it as a long plan with a short fuse, learning to use both."

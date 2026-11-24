@@ -5,6 +5,8 @@ description: "Their Sun in your 10th house in synastry: their purpose meeting yo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "10th house", "synastry", "house overlays"]
 weight: 10
 glyph: "☉"
 definition: "Their Sun in your 10th house places someone else’s Sun at the top of your chart, where your work, role and reputation live. In synastry their purpose meets your public direction: they tend to take your ambitions seriously and may mentor or work beside you, while they recognise their own aims in what you do."

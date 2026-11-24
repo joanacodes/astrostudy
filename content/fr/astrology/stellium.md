@@ -6,6 +6,8 @@ description: "Le stellium en astrologie : trois planètes ou plus dans un même
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["configurations"]
 weight: 1
 glyph: "☌"
 definition: "Un stellium est un groupe de planètes serrées dans une partie du thème : au moins trois dans un même signe, ou une chaîne de conjonctions, selon les auteurs. Il marque une insistance, une manière ou un domaine de vie auquel le thème revient sans cesse. Parmi les dix planètes, environ 7 personnes sur 10 en ont trois dans un signe."

@@ -6,6 +6,8 @@ description: "Les signes d’air en astrologie : Gémeaux, Balance et Verseau �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signes"]
+tags: ["signes du zodiaque"]
 weight: 32
 glyph: "♊♎♒"
 definition: "Les signes d’air sont les Gémeaux, la Balance et le Verseau, à 120° les uns des autres. Dans un thème natal, l’air montre où vous vivez par les idées, la conversation et le lien : réfléchir, comparer, échanger, mettre les gens en relation. En air, une planète comprend souvent les choses en en parlant."

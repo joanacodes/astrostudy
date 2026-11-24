@@ -5,6 +5,8 @@ description: "Neptune in Aquarius in a birth chart: the 1998–2012 generation�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Aquarius"]
 weight: 107
 glyph: "♆♒"
 definition: "Neptune in Aquarius is Neptune, the planet of compassion and shared dreams, in the fixed air sign of community and the future, where it stayed from January 1998 to February 2012. I read it as that generation’s ideal of a connected, fairer world: compassion that reaches strangers, and a dream of belonging to something shared."

@@ -5,6 +5,8 @@ description: "Polarity in astrology: active and receptive signs, the old masculi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 17
 glyph: "+/−"
 definition: "Polarity in astrology means two things. The signs alternate between active, the fire and air signs, and receptive, the earth and water signs, once called masculine and feminine. And each sign has its opposite across the circle, forming six axes. Both describe balance between two directions, never gender, never good and bad."

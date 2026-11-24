@@ -6,6 +6,8 @@ description: "Soleil carré Lune dans un thème natal : une naissance proche d�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lune", "carré"]
 weight: 3
 glyph: "☉□☽"
 definition: "Soleil carré Lune signifie qu’à votre naissance, le Soleil et la Lune étaient à environ 90° l’un de l’autre, près d’un premier ou d’un dernier quartier. Dans un thème, ce carré met en tension ce que vous visez et votre besoin de vous sentir en sécurité. J’y lis une friction qui rend souple, jamais une personne coupée en deux."

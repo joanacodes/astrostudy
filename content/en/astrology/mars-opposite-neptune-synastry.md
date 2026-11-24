@@ -5,6 +5,8 @@ description: "Mars opposite Neptune in synastry: one person acts, the other envi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Neptune", "opposition", "synastry"]
 weight: 230
 glyph: "♂☍♆"
 definition: "Mars opposite Neptune in synastry means one person’s Mars faces the other’s Neptune across the zodiac, within 6°. One tends to become the doer and the other the dreamer, each holding what the other practises less. I read it as a seesaw kept moving by taking turns, never as two people pulling against each other."

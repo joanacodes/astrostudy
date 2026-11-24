@@ -5,6 +5,8 @@ description: "Venus opposite Saturn in a birth chart: a line from what you love 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Saturn", "opposition"]
 weight: 169
 glyph: "♀☍♄"
 definition: "Venus opposite Saturn means Venus and Saturn held opposite ends of your birth chart, about 180° apart. In a chart it weighs what you enjoy against what you feel responsible for: affection on one side, rules on the other. I see a balance in it, between pleasure and duty, often learned through someone else first."

@@ -5,6 +5,8 @@ description: "Moon opposite Lilith in a birth chart: the Moon on the near side o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Lilith", "opposition"]
 weight: 102
 glyph: "☽☍⚸"
 definition: "Moon opposite Lilith means the Moon was about 180° from Black Moon Lilith when you were born: on the near side of its orbit, facing its farthest point. In a chart your need for comfort faces your untamed side. I read it as a polarity to hold, never a war."

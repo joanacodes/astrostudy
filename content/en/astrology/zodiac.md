@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["zodiac"]
 family: "foundations"
+categories: ["Foundations"]
+tags: ["zodiac"]
 weight: 3
 glyph: "✦"
 definition: "The zodiac is the circle of twelve signs, each 30° wide, laid along the ecliptic, the Sun’s yearly path through our sky, which the Moon and planets also follow closely. In a chart, a planet’s sign describes the style it works in. The Western tradition counts the signs from the March equinox."

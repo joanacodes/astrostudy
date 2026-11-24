@@ -6,6 +6,8 @@ description: "Vénus opposition Chiron en synastrie : ce qui est facile pour l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Chiron", "opposition", "synastrie"]
 weight: 200
 glyph: "♀☍⚷"
 definition: "Vénus opposition Chiron en synastrie signifie que Vénus, chez une personne, se trouve à environ 180° de Chiron chez l’autre, à 6° près. Ce qui est facile pour la première fait face à ce que la seconde a dû apprendre à contourner, et la paire se répartit l’aisance et l’effort. J’y lis une balançoire où le soin circule."

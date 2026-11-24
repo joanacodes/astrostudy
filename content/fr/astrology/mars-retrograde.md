@@ -6,6 +6,8 @@ description: "Mars rétrograde en astrologie : pourquoi Mars recule tous les de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "dignities"
+categories: ["Planètes et points"]
+tags: ["Mars", "rétrograde", "Mars rétrograde"]
 weight: 7
 glyph: "♂℞"
 definition: "Mars rétrograde, ce sont les deux mois ou plus, environ tous les deux ans, où Mars semble, depuis la Terre, reculer dans le zodiaque. Cela se produit quand la Terre rattrape Mars, au moment où Mars fait face au Soleil et brille le plus. J’y lis une saison pour repenser la façon de dépenser son énergie, jamais une interdiction d’agir."

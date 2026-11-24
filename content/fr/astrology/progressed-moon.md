@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["Lune progressée"]
 family: "techniques"
+categories: ["Transits et cycles"]
+tags: ["Lune", "progressions"]
 weight: 49
 glyph: "☽"
 definition: "La Lune progressée est la Lune de votre thème en progressions secondaires, où chaque jour après la naissance vaut une année de vie. Elle avance d’environ un degré par mois, passe deux ans à deux ans et demi dans chaque signe et fait le tour en 27 ans environ. J’y lis l’humeur et les besoins d’un chapitre."

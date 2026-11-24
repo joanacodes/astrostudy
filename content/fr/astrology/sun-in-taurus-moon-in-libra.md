@@ -6,6 +6,8 @@ description: "Soleil en Taureau, Lune en Balance : un seul maître, Vénus, pou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Taureau", "Lune", "Balance"]
 weight: 19
 glyph: "☉♉☽♎"
 definition: "Soleil en Taureau, Lune en Balance donne aux deux luminaires un seul maître, Vénus, alors que les deux signes, à cinq d’écart, ne partagent rien d’autre ; la naissance a eu lieu quelques jours avant une pleine lune. J’y lis une planète, deux rôles : un moi bâti sur ce qu’il apprécie, des besoins apaisés par l’équité entre les gens."

@@ -5,6 +5,8 @@ description: "Saturn in the 8th house in a birth chart: trust given slowly and k
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "8th house", "houses"]
 weight: 80
 glyph: "♄"
 definition: "Saturn in the 8th house guards what two people share: intimacy, trust, joint money, debts and promises. It describes trust given slowly and then kept, obligations taken seriously, and closeness approached with care. Tradition gave this house death; I read it in the life of the living."

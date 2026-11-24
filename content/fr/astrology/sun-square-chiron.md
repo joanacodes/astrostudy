@@ -6,6 +6,8 @@ description: "Soleil carré Chiron dans un thème natal : un point sensible qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Chiron", "carré"]
 weight: 40
 glyph: "☉□⚷"
 definition: "Soleil carré Chiron signifie qu’à votre naissance, Chiron se trouvait à environ 90° du Soleil. Dans un thème, votre envie de briller et d’agir en étant vous-même rencontre de côté un point sensible : vous apprenez à vous adapter, par une autre méthode, un autre rythme. J’y lis une friction qui construit un savoir-faire, jamais un défaut."

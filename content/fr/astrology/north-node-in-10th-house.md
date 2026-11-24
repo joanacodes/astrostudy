@@ -6,6 +6,8 @@ description: "Nœud Nord en maison 10 dans un thème natal : entrer dans la vie
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "maison 10", "maisons"]
 weight: 154
 glyph: "☊"
 definition: "Nœud Nord en maison 10 signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans la maison qui commence au milieu du ciel, le Nœud Sud en maison 4. J’y lis une croissance vers la vie publique : une vocation, une réputation et une contribution que le monde peut voir."

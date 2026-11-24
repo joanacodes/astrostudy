@@ -5,6 +5,8 @@ description: "Chiron square Lilith in a birth chart: making do around a difficul
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Lilith", "square"]
 weight: 367
 glyph: "⚷□⚸"
 definition: "Chiron square Lilith describes Chiron and the mean Black Moon Lilith about 90° apart at birth, most often in signs of one modality. The way you make do around a lasting difficulty rubs against the part of you that refuses to be managed. I read it as friction that teaches which accommodations serve you, and which only tame you."

@@ -5,6 +5,8 @@ description: "Their Venus in your 7th house in synastry: ease, fairness and appe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "7th house", "synastry", "house overlays"]
 weight: 43
 glyph: "♀"
 definition: "Their Venus in your 7th house places what the other person values in your house of partners. In synastry they can embody what you look for in a partner, friend or associate, and being a pair feels easy and fair; Venus is at home in Libra, the house’s natural sign. It never predicts marriage."

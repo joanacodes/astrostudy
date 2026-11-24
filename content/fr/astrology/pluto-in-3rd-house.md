@@ -6,6 +6,8 @@ description: "Pluton en maison 3 dans un thème natal : un esprit qui creuse, d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "maison 3", "maisons"]
 weight: 111
 glyph: "♇"
 definition: "Avec Pluton en maison 3, le changement profond passe par la pensée et la parole quotidiennes, l’apprentissage, les frères et sœurs et les voisins. On y lit un esprit qui creuse sous la surface, et des conversations qui transforment. Comme toute maison, celle-ci demande une heure de naissance précise."

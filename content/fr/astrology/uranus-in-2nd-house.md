@@ -6,6 +6,8 @@ description: "Uranus en maison 2 dans un thème natal : votre mesure de la séc
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "maison 2", "maisons"]
 weight: 86
 glyph: "♅"
 definition: "Uranus en maison 2 place la planète du changement dans la maison de l’argent, des biens, des talents et de l’estime de soi, une maison succédente dont le signe naturel est le Taureau. J’y lis des valeurs qui refusent le réglage par défaut : une sécurité qui doit inclure la liberté. Ce placement demande l’heure de naissance."

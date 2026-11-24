@@ -5,6 +5,8 @@ description: "Their Venus in your 12th house in synastry: quiet affection for th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "12th house", "synastry", "house overlays"]
 weight: 48
 glyph: "♀"
 definition: "Their Venus in your 12th house is affection out of sight: the other person’s tenderness reaches your solitude, your inner life and the self you keep private. In synastry they may love and look after you quietly, and you feel accepted without performing; tradition exalts Venus in Pisces, the 12th’s natural sign."

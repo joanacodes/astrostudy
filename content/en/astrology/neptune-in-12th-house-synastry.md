@@ -5,6 +5,8 @@ description: "Their Neptune in your 12th house in synastry: their imagination in
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "12th house", "synastry", "house overlays"]
 weight: 108
 glyph: "♆"
 definition: "Their Neptune in your 12th house takes the other person’s Neptune into the quietest part of your chart: solitude, rest, dreams and the inner life. In synastry their imagination meets what you carry without saying, so you may feel understood without words, and they find a home in your quiet. It is neither a secret nor a symptom."

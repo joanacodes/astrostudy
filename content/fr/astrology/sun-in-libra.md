@@ -6,6 +6,8 @@ description: "Soleil en Balance dans un thème natal : le Soleil en chute, un m
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Balance"]
 weight: 7
 glyph: "☉♎"
 definition: "Le Soleil en Balance est le signe solaire des naissances du 23 septembre au 22 octobre environ, dès l’équinoxe de septembre : la chute du Soleil, en air cardinal gouverné par Vénus. J’y lis une identité qui se précise par la proportion et le jugement, une vitalité que l’harmonie restaure, et un but trouvé à rendre les choses justes."

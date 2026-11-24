@@ -6,6 +6,8 @@ description: "Soleil en Cancer, Lune en Vierge : l’eau et la terre en sextile
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Cancer", "Lune", "Vierge"]
 weight: 42
 glyph: "☉♋☽♍"
 definition: "Soleil en Cancer, Lune en Vierge place la Lune dans la terre mutable, en sextile par signe avec le Soleil, sous le fin croissant qui suit de quelques jours la nouvelle lune. J’y lis un soin méthodique : un moi qui veut s’occuper des gens, et des besoins qui s’apaisent quand ce soin est concret, utile et bien fait."

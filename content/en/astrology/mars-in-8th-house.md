@@ -5,6 +5,8 @@ description: "Mars in the 8th house in a birth chart: deep desire, trust and the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "8th house", "houses"]
 weight: 56
 glyph: "♂"
 definition: "Mars in the 8th house sets your drive in the house of intimacy, trust and what you share or owe. It describes strong desire and a strong will: you commit deeply, face crises head on and care how power is shared. Without an exact birth time it can’t be placed, and it predicts neither death nor money."

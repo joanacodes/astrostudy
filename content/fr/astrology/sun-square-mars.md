@@ -6,6 +6,8 @@ description: "Soleil carré Mars dans un thème natal : une volonté forte qui 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Mars", "carré"]
 weight: 10
 glyph: "☉□♂"
 definition: "Soleil carré Mars signifie qu’à votre naissance, Mars se trouvait à environ 90° du Soleil, à trois signes, en général dans le même mode. Dans un thème, votre but et votre élan poussent en biais l’un contre l’autre. J’y lis une volonté forte qui apprend sa propre force : une friction qui, avec le temps, enseigne où viser."

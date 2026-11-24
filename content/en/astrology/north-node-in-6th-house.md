@@ -5,6 +5,8 @@ description: "North Node in the 6th house in a birth chart: giving your days a s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "6th house", "houses"]
 weight: 150
 glyph: "☊"
 definition: "North Node in the 6th house means the North Node, where the Moon’s path crosses the Sun’s going north, sat in the house of the working day at your birth, with the South Node in the 12th. I read it as growth towards days with a shape: useful work, colleagues and routines that hold, after a habit of retreat."

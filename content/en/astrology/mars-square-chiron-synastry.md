@@ -5,6 +5,8 @@ description: "Mars square Chiron in synastry: one person’s push snags, from th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Chiron", "square", "synastry"]
 weight: 238
 glyph: "♂□⚷"
 definition: "Mars square Chiron in synastry means one person’s Mars meets the other’s Chiron side-on, about 90° away, within 5.1°. One person’s push snags on the other’s tender place, and each snag asks for a better method. It reads to me as friction that teaches gentleness and plain words, never as harm written into two charts."

@@ -5,6 +5,8 @@ description: "Sun in Leo, Moon in Gemini: fire and air in a sextile by sign, bor
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo", "Moon", "Gemini"]
 weight: 51
 glyph: "☉♌☽♊"
 definition: "Sun in Leo, Moon in Gemini joins a fixed fire Sun to a mutable air Moon, a sextile by sign, at a birth some days past the last quarter. Picture a heart with a running commentary: one big loyalty at the centre, and needs fed by talk and variety."

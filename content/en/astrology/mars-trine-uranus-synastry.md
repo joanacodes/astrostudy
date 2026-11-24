@@ -5,6 +5,8 @@ description: "Mars trine Uranus in synastry: one person’s effort and the other
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Uranus", "trine", "synastry"]
 weight: 224
 glyph: "♂△♅"
 definition: "Mars trine Uranus in synastry means one person’s Mars is about 120° from the other’s Uranus, within 5.1°, usually in signs of one element. One person’s effort and the other’s inventiveness keep step, so plans can change without a fuss. I read it as easy adaptability that still needs something finished."

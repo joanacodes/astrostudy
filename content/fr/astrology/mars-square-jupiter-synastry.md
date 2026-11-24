@@ -6,6 +6,8 @@ description: "Mars carré Jupiter en synastrie : le prochain pas de l’une ren
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Jupiter", "carré", "synastrie"]
 weight: 213
 glyph: "♂□♃"
 definition: "Mars carré Jupiter en synastrie signifie que Mars, chez une personne, se trouve à environ 90° de Jupiter chez l’autre, à 5,1° près. L’envie d’agir tout de suite de l’une rencontre le sens du but plus large de l’autre. J’y lis une friction qui apprend la mesure, jamais un choc de caractères."

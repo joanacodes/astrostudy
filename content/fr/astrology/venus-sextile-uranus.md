@@ -6,6 +6,8 @@ description: "Vénus sextile Uranus dans un thème natal : le changement en amo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Uranus", "sextile"]
 weight: 171
 glyph: "♀⚹♅"
 definition: "Vénus sextile Uranus signifie que votre thème place Vénus et Uranus à environ 60° d’écart, le plus souvent dans deux éléments qui s’entendent. Dans un thème, ce sextile ouvre ce que vous aimez au changement, par petites doses bienvenues : nouveaux goûts, nouvelles amitiés, nouvelles façons d’aimer. Les ouvertures restent à saisir."

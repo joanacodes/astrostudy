@@ -5,6 +5,8 @@ description: "Sun in Sagittarius, Moon in Gemini: the lights face each other on 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Sagittarius", "Moon", "Gemini"]
 weight: 99
 glyph: "☉♐☽♊"
 definition: "Sun in Sagittarius, Moon in Gemini places the lights in opposite mutable signs, fire and air, at a birth close to a full moon. This is the axis where Jupiter and Mercury, the two rulers, lose their footing in each other’s sign. To me it is a mind that asks and a self that answers."

@@ -6,6 +6,8 @@ description: "Saturne carré Pluton dans un thème natal : tenir et renouveler 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Pluton", "carré"]
 weight: 287
 glyph: "♄□♇"
 definition: "Saturne carré Pluton place les deux planètes à angle droit, à environ 90° et en général dans un même mode, pour cinq vagues de naissances de 1939 à 2009. Dans un thème, l’envie de garder une structure debout et celle de la transformer se pressent l’une l’autre : une friction qui construit l’endurance au lieu de tout casser."

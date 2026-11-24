@@ -5,6 +5,8 @@ description: "Venus sextile Lilith in a birth chart: what you value and your unt
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Lilith", "sextile"]
 weight: 191
 glyph: "♀⚹⚸"
 definition: "Venus sextile Lilith means Venus was about 60° from mean Black Moon Lilith at your birth, usually in signs of complementary elements. In a chart, what you value and your untamed side cooperate: your own taste, directness and boundaries are there to bring into a bond. I read it as authenticity within easy reach, used by choice."

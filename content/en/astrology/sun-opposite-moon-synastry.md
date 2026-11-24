@@ -5,6 +5,8 @@ description: "Sun opposite Moon in synastry: one person’s direction facing the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Moon", "opposition", "synastry"]
 weight: 5
 glyph: "☉☍☽"
 definition: "Sun opposite Moon in synastry means one person’s Sun is about 180° from the other’s Moon, within 8°. One person’s direction faces the other’s needs across the zodiac, so each sees the other’s end clearly. I read it as a seesaw of awareness and roles, never as two people set against each other."

@@ -5,6 +5,8 @@ description: "Venus conjunct Mars in a birth chart: liking and pursuing in one m
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Mars", "conjunction"]
 weight: 155
 glyph: "♀☌♂"
 definition: "Venus conjunct Mars means that, when you were born, Venus and Mars were only a few degrees apart, most often in one sign. In a chart it fuses what you like with how you go after it: interest turns quickly into effort, and effort into affection. The task is noticing which of the two is leading."

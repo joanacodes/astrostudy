@@ -6,6 +6,8 @@ description: "Soleil opposition Uranus dans un thème natal : un moi stable fac
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Uranus", "opposition"]
 weight: 27
 glyph: "☉☍♅"
 definition: "Soleil opposition Uranus signifie qu’à votre naissance, Uranus se tenait à l’opposé du Soleil, à environ 180°. Dans un thème, cet aspect place votre sens de qui vous êtes face à votre besoin de changer et de vous libérer, et le bout le plus libre se rencontre d’abord chez les autres. J’y lis un équilibre à trouver, jamais une contradiction."

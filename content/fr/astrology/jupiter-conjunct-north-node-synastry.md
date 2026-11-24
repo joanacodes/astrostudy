@@ -6,6 +6,8 @@ description: "Jupiter conjonction Nœud Nord en synastrie : le sens que l’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Nœud Nord", "conjonction", "synastrie"]
 weight: 281
 glyph: "♃☌☊"
 definition: "Jupiter conjonction Nœud Nord en synastrie signifie que Jupiter, chez une personne, se trouve à moins de 5° du Nœud Nord de l’autre, donc à l’opposé de son Nœud Sud. Le recul et l’encouragement de l’une tombent sur ce que l’autre apprend. J’y lis le soutien d’une direction, jamais un destin, à lire par les maisons."

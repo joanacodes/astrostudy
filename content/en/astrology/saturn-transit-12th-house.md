@@ -5,6 +5,8 @@ description: "Saturn transiting the 12th house: about three years of review, res
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "12th house", "transits"]
 weight: 24
 glyph: "♄"
 definition: "Saturn transiting the 12th house is the review, usually a little under three years long, that comes before Saturn reaches your Ascendant: chapters closed, fears faced, solitude given a structure. Its work happens in the inner life your chart already holds. Tradition said Saturn rejoices here; I read no confinement and no illness in it."

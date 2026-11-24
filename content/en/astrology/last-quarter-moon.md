@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["last quarter"]
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunar phases"]
 weight: 14
 glyph: "◑"
 definition: "The last quarter moon is the moment, about a week after the full moon, when the Moon is 90° behind the Sun and the other half of its disc is lit. It rises around midnight and is seen in the morning. In a birth chart it is the waning Sun–Moon square: friction that tends to turn inward."

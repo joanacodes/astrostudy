@@ -6,6 +6,8 @@ description: "Mercure rétrograde en Verseau : Mercure qui recule dans le signe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "Verseau"]
 weight: 11
 glyph: "☿℞♒"
 definition: "Mercure rétrograde en Verseau a lieu entre début janvier et début mars, quand Mercure semble, depuis la Terre, reculer dans le Verseau pendant trois semaines environ, souvent trois années de suite. J’y lis les idées pour l’avenir et les projets faits pour un groupe, revus avant d’aller plus loin, dans la maison qu’occupe le Verseau dans votre thème."

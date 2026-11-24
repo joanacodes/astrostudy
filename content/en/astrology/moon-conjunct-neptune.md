@@ -5,6 +5,8 @@ description: "Moon conjunct Neptune in a birth chart: feelings with soft edges, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Neptune", "conjunction"]
 weight: 83
 glyph: "☽☌♆"
 definition: "Moon conjunct Neptune means the Moon was beside Neptune when you were born, within a few degrees and usually in Neptune’s sign. It fuses your feelings with imagination and compassion: your emotions reach past your edges, and other people’s reach you. I read it as a gift for empathy that needs quiet to stay yours."

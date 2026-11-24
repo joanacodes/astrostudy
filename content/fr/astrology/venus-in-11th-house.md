@@ -6,6 +6,8 @@ description: "Vénus en maison 11 dans un thème natal : des amitiés chaleureu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "maison 11", "maisons"]
 weight: 47
 glyph: "♀"
 definition: "Vénus en maison 11 place la planète de l’affinité et de la réciprocité parmi les amitiés, les cercles et les espoirs partagés, dans la maison que les anciens appelaient le Génie favorable. On y lit des amitiés chaleureuses et faciles, le plaisir d’appartenir à un cercle, et un amour qui commence souvent par l’amitié. L’heure de naissance est indispensable."

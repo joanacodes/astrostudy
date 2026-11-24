@@ -5,6 +5,8 @@ description: "Their Sun in your 8th house in synastry: their purpose in your int
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "8th house", "synastry", "house overlays"]
 weight: 8
 glyph: "☉"
 definition: "Their Sun in your 8th house lets the other person’s Sun into your house of intimacy, trust and joint commitments. In synastry their purpose meets the places you let someone in: the bond tends to go deep and change you, and they feel seen in more of who they are; it never predicts an ending."

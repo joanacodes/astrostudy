@@ -6,6 +6,8 @@ description: "Vénus trigone Saturne dans un thème natal : l’angle où l’a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Saturne", "trigone"]
 weight: 168
 glyph: "♀△♄"
 definition: "Vénus trigone Saturne signifie que 120° environ séparaient Vénus et Saturne à votre naissance, en général à quatre signes d’intervalle, dans un même élément. Dans un thème, la tendresse et la constance s’y aident l’une l’autre : l’engagement semble naturel, et ce que vous aimez dure. J’y lis une constance sans effort, qui demande pourtant d’être choisie."

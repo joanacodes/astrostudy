@@ -6,6 +6,8 @@ description: "Neptune sextile Lilith en synastrie : l’imagination de l’une 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Lilith", "sextile", "synastrie"]
 weight: 352
 glyph: "♆⚹⚸"
 definition: "Neptune sextile Lilith en synastrie : environ 60°, à 2,4° près, séparent Neptune, dans le thème de l’une, de la Lune noire Lilith moyenne, dans celui de l’autre. L’imagination de l’une offre à la part indomptée de l’autre une forme sûre où sortir : le jeu, l’art, une histoire commune. J’y lis une invitation, qui ne compte que si on l’accepte."

@@ -6,6 +6,8 @@ description: "Mercure sextile Jupiter en synastrie : la curiosité de l’une, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Jupiter", "sextile", "synastrie"]
 weight: 127
 glyph: "☿⚹♃"
 definition: "Mercure sextile Jupiter en synastrie, c’est Mercure dans le thème d’une personne à environ 60° de Jupiter dans le thème de l’autre, à 3,6° près. La curiosité de la première et le sens que cherche la seconde peuvent s’entraider dès que l’une des deux le demande. J’y lis une porte entre deux esprits, qu’il faut pousser soi-même."

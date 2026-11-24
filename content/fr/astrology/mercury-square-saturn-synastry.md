@@ -6,6 +6,8 @@ description: "Mercure carré Saturne en synastrie : les mots de l’une face au
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Saturne", "carré", "synastrie"]
 weight: 133
 glyph: "☿□♄"
 definition: "Mercure carré Saturne en synastrie désigne Mercure, chez une personne, à environ 90° de Saturne, chez l’autre, à 5,1° près. Les mots rapides de la première et les exigences de la seconde se heurtent : l’une peut se sentir examinée, l’autre pas entendue. J’y lis une friction qui apprend patience et précision, jamais un verdict."

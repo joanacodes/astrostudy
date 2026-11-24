@@ -5,6 +5,8 @@ description: "North Node transiting the 6th house: about 17 months of building u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "6th house", "transits"]
 weight: 78
 glyph: "☊"
 definition: "North Node transiting the 6th house is the stay, usually a little under a year and a half, when the node moves backwards through your house of daily work and routine while the South Node crosses your 12th. It points towards useful habits and work done day by day, away from drifting. It says nothing about illness."

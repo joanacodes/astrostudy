@@ -5,6 +5,8 @@ description: "Gemini in astrology: the mutable air sign ruled by Mercury — in 
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signs"]
+tags: ["Gemini"]
 weight: 3
 glyph: "♊"
 definition: "Gemini is the third sign of the zodiac, a mutable air sign ruled by Mercury, which the Sun crosses from about 21 May to 20 June. In a birth chart it marks where you are curious and quick: questions, words, connections, more than one interest at a time. The house it falls in shows where your mind roams."

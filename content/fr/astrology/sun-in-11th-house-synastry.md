@@ -6,6 +6,8 @@ description: "Le Soleil de l’autre dans votre maison 11 en synastrie : son é
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "maison 11", "synastrie", "superpositions de maisons"]
 weight: 11
 glyph: "☉"
 definition: "Le Soleil de l’autre dans votre maison 11 fait arriver son Soleil parmi vos amis, vos groupes et vos espoirs pour l’avenir. En synastrie, son élan éclaire votre sentiment d’appartenance : cette personne a souvent d’abord la place d’une amitié, croit en vos projets, et trouve sa propre place parmi les vôtres."

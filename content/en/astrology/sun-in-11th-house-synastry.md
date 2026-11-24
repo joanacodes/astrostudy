@@ -5,6 +5,8 @@ description: "Their Sun in your 11th house in synastry: their purpose among your
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "11th house", "synastry", "house overlays"]
 weight: 11
 glyph: "☉"
 definition: "Their Sun in your 11th house brings the other person’s Sun among your friends, groups and hopes for the future. In synastry their purpose lights up your sense of belonging: they tend to feel like a friend first and to believe in your plans, and they find their own place among your people."

@@ -6,6 +6,8 @@ description: "Le Nœud Nord de l’autre dans votre maison 4 en synastrie : app
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Nœud Nord", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 148
 glyph: "☊"
 definition: "Le Nœud Nord de l’autre dans votre maison 4 place la façon dont cette personne grandit à la racine de votre thème, dans votre foyer et votre vie privée, et son Nœud Sud en haut, dans votre maison 10. Elle apprend l’appartenance et le repos dans votre monde privé, et se sent d’emblée à l’aise dans votre monde public."

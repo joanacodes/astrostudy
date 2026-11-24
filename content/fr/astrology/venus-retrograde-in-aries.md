@@ -6,6 +6,8 @@ description: "Vénus rétrograde en Bélier : six semaines tous les huit ans da
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde", "Bélier"]
 weight: 13
 glyph: "♀℞♈"
 definition: "Vénus rétrograde en Bélier, ce sont les six semaines environ, de début mars jusqu’en avril, tous les huit ans, où Vénus semble, depuis la Terre, reculer dans le Bélier, souvent jusqu’en Poissons. J’y lis les attirances rapides et les coups de cœur rappelés pour un second regard, dans la maison qu’occupe le Bélier dans votre thème."

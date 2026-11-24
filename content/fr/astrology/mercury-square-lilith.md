@@ -6,6 +6,8 @@ description: "Mercure carré Lilith dans un thème natal : la pensée vraie et 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Lilith", "carré"]
 weight: 147
 glyph: "☿□⚸"
 definition: "Mercure carré Lilith met vos mots à angle droit avec la Lune noire Lilith, que l’on associe à ce qu’on vous a appris à cacher. Dans un thème, dire ce que vous pensez et dire ce qui est acceptable tirent dans des directions différentes. J’y lis la fabrique d’une voix honnête et bien visée, pas un défaut."

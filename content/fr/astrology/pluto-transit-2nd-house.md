@@ -6,6 +6,8 @@ description: "Pluton en transit en maison 2 : seize ans environ, souvent, pour 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Pluton", "maison 2", "transits"]
 weight: 50
 glyph: "♇"
 definition: "Pluton en transit en maison 2, c’est le long séjour de Pluton, seize ans environ en général à la latitude de Londres, dans votre maison des ressources et des valeurs. Ce passage mène jusqu’aux racines ce que votre thème dit de votre sécurité et de votre valeur : ce que vous possédez, ce qui vous possède, ce que vous défendriez."

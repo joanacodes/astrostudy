@@ -5,6 +5,8 @@ description: "Jupiter in Pisces in a birth chart: Jupiter in its traditional sig
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Pisces"]
 weight: 72
 glyph: "♃♓"
 definition: "Jupiter in Pisces is Jupiter, the planet of growth and meaning, in the mutable water sign that tradition gives to Jupiter and modern tropical astrology to Neptune. Everyone born within a year or so shares it. I read it as growth through imagination and compassion: understanding that comes by feeling, and principles of acceptance and care."

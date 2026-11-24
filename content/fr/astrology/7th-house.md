@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["maison 7", "maison VII"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["maison 7"]
 weight: 7
 glyph: "VII"
 definition: "La maison 7 est la septième des douze maisons d’un thème natal : elle commence au descendant, le degré qui se couchait à l’ouest à votre naissance. Les astrologues y lisent les partenaires et les liens en tête-à-tête — amour, mariage, travail, jusqu’aux adversaires déclarés — et ce que vous cherchez chez la personne en face."

@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["lune noire"]
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 19
 glyph: "●●"
 definition: "Au sens du calendrier, une lune noire est une nouvelle lune en trop : le plus souvent la deuxième nouvelle lune d’un mois, parfois la troisième de quatre dans une saison. C’est un nom populaire, sans définition commune ni place en astronomie, et sans rapport avec la Lune noire Lilith, le point que les astrologues lisent dans un thème natal."

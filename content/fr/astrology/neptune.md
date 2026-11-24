@@ -6,6 +6,8 @@ description: "Neptune en astrologie : la planète des rêves, dans chaque signe
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planètes et points"]
+tags: ["Neptune"]
 weight: 9
 glyph: "♆"
 definition: "Neptune est la huitième planète, la plus éloignée du Soleil, et, en astrologie, celle des rêves, de l’imagination et de la compassion — et du brouillard. Son signe est partagé par toutes les personnes nées sur environ quatorze ans ; sa maison montre où vous idéalisez, créez et aspirez à plus grand que vous, et où les choses peuvent se brouiller."

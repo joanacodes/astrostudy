@@ -6,6 +6,8 @@ description: "Saturne en Gémeaux dans un thème natal : des mots pesés et un 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Gémeaux"]
 weight: 75
 glyph: "♄♊"
 definition: "Avec Saturne en Gémeaux, la planète de la maîtrise lente travaille par les mots et la curiosité, dans un signe d’air mutable gouverné par Mercure. Ce placement appartient aux personnes nées vers 1942–1944, 1971–1974 ou 2000–2003. Imaginez un esprit bâti avec soin : une confiance tardive en ses idées, et des mots pesés, puis tenus."

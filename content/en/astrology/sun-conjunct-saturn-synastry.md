@@ -5,6 +5,8 @@ description: "Sun conjunct Saturn in synastry: one person’s sense of duty land
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Saturn", "conjunction", "synastry"]
 weight: 26
 glyph: "☉☌♄"
 definition: "Sun conjunct Saturn in synastry is one person’s Saturn within 8° of the other’s Sun: duty, standards and the long view sitting on someone else’s sense of self. The Sun person feels taken seriously, the Saturn person responsible. I read it as a committed bond, and I watch whose measure ends up counting."

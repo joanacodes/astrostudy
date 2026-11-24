@@ -5,6 +5,8 @@ description: "Their Pluto in your 12th house in synastry: their depth meeting yo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "12th house", "synastry", "house overlays"]
 weight: 120
 glyph: "♇"
 definition: "Their Pluto in your 12th house puts the other person’s depth in touch with your solitude, your rest and whatever you carry unseen. In synastry inner work becomes possible, what you keep to yourself is sensed, and your quiet can change them, while privacy needs protecting. It predicts no harm and diagnoses nothing."

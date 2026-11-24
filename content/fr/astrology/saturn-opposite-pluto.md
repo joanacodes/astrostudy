@@ -6,6 +6,8 @@ description: "Saturne opposition Pluton dans un thème natal : garder et laisse
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Pluton", "opposition"]
 weight: 289
 glyph: "♄☍♇"
 definition: "Saturne opposition Pluton place les deux planètes de part et d’autre du zodiaque, à environ 180°, comme en 1930–1932, 1965–1967 et 2001–2003. Dans un thème, elle met ce que vous avez bâti face à ce qui veut le transformer, et demande un équilibre entre tenir et laisser partir, souvent appris à travers les autres."

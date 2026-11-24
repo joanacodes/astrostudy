@@ -5,6 +5,8 @@ description: "Their North Node in your 2nd house in synastry: what they learn fr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["North Node", "2nd house", "synastry", "house overlays"]
 weight: 146
 glyph: "☊"
 definition: "Their North Node in your 2nd house sets what the other person is learning among your resources, skills and sense of worth, and their South Node opposite, in your 8th. Read in synastry, your way of valuing and keeping what is yours teaches them something, though pooling everything with you comes to them far more naturally."

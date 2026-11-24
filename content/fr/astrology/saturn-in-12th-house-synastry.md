@@ -6,6 +6,8 @@ description: "Saturne de l’autre dans votre maison 12 en synastrie : une stru
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "maison 12", "synastrie", "superpositions de maisons"]
 weight: 84
 glyph: "♄"
 definition: "Saturne de l’autre dans votre maison 12 : Saturne, chez une autre personne, veille au bout le plus calme de votre thème, là où vivent la solitude, le repos, la retraite et ce que vous portez sans le dire. En synastrie, cela peut stabiliser votre vie intérieure et donner à vos peurs un témoin patient. Jamais un symptôme."

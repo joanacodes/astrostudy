@@ -5,6 +5,8 @@ description: "Their Lilith in your 3rd house in synastry: their unfiltered hones
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "3rd house", "synastry", "house overlays"]
 weight: 135
 glyph: "⚸"
 definition: "Their Lilith in your 3rd house shows the other person’s mean Black Moon Lilith turning up in your daily exchanges: chat, texts, what you learn, the people nearby. In synastry the instinct in them that wouldn’t be gagged meets your words: you may say what you were taught to swallow, while your phrasing can free or provoke their frankness."

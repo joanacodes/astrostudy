@@ -6,6 +6,8 @@ description: "Le premier croissant en astrologie : le fin croissant du soir ent
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["phases lunaires"]
 weight: 9
 glyph: "☽"
 definition: "Le premier croissant, c’est la Lune entre la nouvelle lune et le premier quartier : un mince filet de lumière qui grandit, visible à l’ouest après le coucher du Soleil. Dans le ciel, il dure environ une semaine ; dans les huit phases de Dane Rudhyar, la phase du croissant va de 45° à 90° devant le Soleil."

@@ -5,6 +5,8 @@ description: "Saturn in Sagittarius in a birth chart: convictions earned the har
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Sagittarius"]
 weight: 81
 glyph: "♄♐"
 definition: "Saturn in Sagittarius is the planet of limits travelling through mutable fire, the sign of belief and wide horizons, ruled by Jupiter. Anyone born in roughly 1956–59, 1985–88 or 2014–17 has it. It describes convictions earned the hard way: doubted first, then held, and in the end taught."

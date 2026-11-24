@@ -5,6 +5,8 @@ description: "Saturn trine North Node in a birth chart: patient habits that carr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "North Node", "trine"]
 weight: 303
 glyph: "♄△☊"
 definition: "Saturn trine North Node means Saturn stood about 120° from the North Node when you were born. In a chart, the part of you that builds patiently supports the direction you are growing in, so the less familiar can be practised with steady habits. I read it as help to be used, not a fixed destiny."

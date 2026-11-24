@@ -5,6 +5,8 @@ description: "Mercury sextile Uranus in a birth chart: fresh ideas within reach 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Uranus", "sextile"]
 weight: 126
 glyph: "☿⚹♅"
 definition: "Mercury sextile Uranus means Mercury and Uranus were about 60° apart when you were born. In a chart the way you think has easy access to the new: a different angle, a better method, an idea nobody has tried, whenever you go looking. I read it as an inventive opening that works best on real problems."

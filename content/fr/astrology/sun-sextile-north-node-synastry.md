@@ -6,6 +6,8 @@ description: "Soleil sextile Nœud Nord en synastrie : un accueil sans conditio
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Nœud Nord", "sextile", "synastrie"]
 weight: 57
 glyph: "☉⚹☊"
 definition: "Soleil sextile Nœud Nord en synastrie : entre le Soleil de l’une et le Nœud Nord de l’autre, un angle de 60°, à 4,8° près, et donc de 120° avec son Nœud Sud. L’une accueille l’autre comme elle est et lui ouvre une porte vers ce qu’elle apprend. J’y lis une invitation qui attend qu’on la saisisse."

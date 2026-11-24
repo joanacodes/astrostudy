@@ -6,6 +6,8 @@ description: "Lune en maison 1 dans un thème natal : des émotions qui se lise
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "maison 1", "maisons"]
 weight: 13
 glyph: "☽"
 definition: "La Lune en maison 1 signifie que la Lune se trouvait dans la maison de soi, du corps et des premières réactions, juste sous le degré qui se levait à votre naissance. J’y lis des émotions qui se voient avant que vous parliez, et une allure qui répond à chaque lieu où vous entrez. Il faut l’heure de naissance."

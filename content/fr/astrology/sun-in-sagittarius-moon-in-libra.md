@@ -6,6 +6,8 @@ description: "Soleil en Sagittaire, Lune en Balance : le feu et l’air en sext
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Sagittaire", "Lune", "Balance"]
 weight: 103
 glyph: "☉♐☽♎"
 definition: "Soleil en Sagittaire, Lune en Balance associe le feu mutable et l’air cardinal en sextile par signe, pour une naissance autour du dernier quartier, trois semaines environ après une nouvelle lune. Jupiter gouverne le signe du Soleil, Vénus celui de la Lune. J’y lis une franchise qui veut être juste : la vérité, dite de façon que l’amitié y survive."

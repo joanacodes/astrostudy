@@ -6,6 +6,8 @@ description: "Soleil en Bélier dans un thème natal : le Soleil en exaltation,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier"]
 weight: 1
 glyph: "☉♈"
 definition: "Le Soleil en Bélier est le signe solaire des personnes nées entre le 21 mars et le 19 avril environ, et l’exaltation du Soleil. J’y lis une identité qui prend forme dans le geste de commencer, une vitalité qui vient par élans plutôt qu’en continu, et un sens de la direction qui se trouve en avançant, pas en planifiant."

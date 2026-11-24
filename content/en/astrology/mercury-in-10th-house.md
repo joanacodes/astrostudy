@@ -5,6 +5,8 @@ description: "Mercury in the 10th house in a birth chart: a mind people see at w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "10th house", "houses"]
 weight: 34
 glyph: "☿"
 definition: "Mercury in the 10th house is the planet of thought and speech in the house of work, reputation and public life. It describes a mind that is seen at work: you tend to be known for how you think, write or explain, and your words become part of your reputation. It needs the birth time."

@@ -5,6 +5,8 @@ description: "Mercury conjunct Jupiter in a birth chart: facts and meaning in on
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Jupiter", "conjunction"]
 weight: 115
 glyph: "☿☌♃"
 definition: "Mercury conjunct Jupiter means Mercury and Jupiter were within a few degrees of each other when you were born. In a chart it ties the way you take in detail to the way you find meaning, so a fact opens onto a bigger picture. I read it as a teacher’s mind, at its best when it checks its facts."

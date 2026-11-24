@@ -6,6 +6,8 @@ description: "Neptune sextile Nœud Nord en synastrie : l’imagination de l’
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Nœud Nord", "sextile", "synastrie"]
 weight: 357
 glyph: "♆⚹☊"
 definition: "Neptune sextile Nœud Nord en synastrie est un lien de 60°, à 2,4° près, entre Neptune dans un thème et le Nœud Nord d’un autre, et un lien de 120° avec le Nœud Sud de cette personne. L’imagination de l’une tend la main à la croissance de l’autre, et glisse aussi vers les vieilles habitudes. J’y lis une offre."

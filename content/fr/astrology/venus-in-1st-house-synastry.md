@@ -6,6 +6,8 @@ description: "Vénus de l’autre dans votre maison 1 en synastrie : son goût 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 37
 glyph: "♀"
 definition: "Vénus de l’autre dans votre maison 1 tourne le goût et l’affection de cette personne vers votre présence : votre allure, votre manière d’être, la première impression que vous laissez. En synastrie, elle aime être près de vous, et vous vous sentez plus à l’aise dans votre peau ; l’attrait est direct, et pas forcément amoureux."

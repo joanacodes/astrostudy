@@ -5,6 +5,8 @@ description: "Their Lilith in your 5th house in synastry: untamed pleasure meeti
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "5th house", "synastry", "house overlays"]
 weight: 137
 glyph: "⚸"
 definition: "Their Lilith in your 5th house turns the other person’s mean Black Moon Lilith loose in your house of play, creativity, pleasure and romance. In synastry their unruly delight meets yours: fun gets franker and less polite, and your play can free or provoke them. It never predicts sex or children; every step needs both people’s yes."

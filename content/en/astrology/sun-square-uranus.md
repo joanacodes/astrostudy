@@ -5,6 +5,8 @@ description: "Sun square Uranus in a birth chart: a need for freedom pushing aga
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Uranus", "square"]
 weight: 25
 glyph: "☉□♅"
 definition: "Sun square Uranus brings your Sun and Uranus to a right angle, about 90°, usually in signs of the same modality. In a chart, the need to break free and the need to build a direction rub against each other. I read it as restlessness turning into reform: change with a reason, not change for its own sake."

@@ -6,6 +6,8 @@ description: "Nœud Nord en Vierge dans un thème natal : donner une forme quot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "Vierge"]
 weight: 150
 glyph: "☊♍"
 definition: "Nœud Nord en Vierge signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans ce signe de terre mutable, le Nœud Sud en Poissons. J’y lis une croissance vers la forme : des habitudes concrètes, un travail utile, un soin quotidien qui donnent un appui à une imagination généreuse."

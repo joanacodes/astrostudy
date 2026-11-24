@@ -6,6 +6,8 @@ description: "Pluton en Cancer dans un thème natal : un changement profond du 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Cancer"]
 weight: 112
 glyph: "♇♋"
 definition: "Pluton en Cancer porte le changement profond dans le signe du foyer et de la famille, l’eau cardinale gouvernée par la Lune. Ce placement est celui des naissances de 1912 à 1939, et Pluton se trouvait en Cancer lors de sa découverte, en 1930. On y lit une appartenance refondée, et des racines farouchement gardées."

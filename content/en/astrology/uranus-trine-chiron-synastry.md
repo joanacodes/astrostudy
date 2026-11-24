@@ -5,6 +5,8 @@ description: "Uranus trine Chiron in synastry: one person’s originality fits t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Chiron", "trine", "synastry"]
 weight: 329
 glyph: "♅△⚷"
 definition: "Uranus trine Chiron in synastry means one person’s Uranus is about 120° from the other’s Chiron, within 3.4°. One person’s originality suits the other’s way of living with a lasting limit, so solutions come without a fight. Whole birth periods share it; I read it through the houses, alert to the effort its ease can hide."

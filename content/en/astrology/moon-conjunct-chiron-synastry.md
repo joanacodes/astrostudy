@@ -5,6 +5,8 @@ description: "Moon conjunct Chiron in synastry: one person’s needs fall on the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Chiron", "conjunction", "synastry"]
 weight: 101
 glyph: "☽☌⚷"
 definition: "Moon conjunct Chiron in synastry means one person’s Moon sits within 8° of the other’s Chiron. Where one person looks for comfort is where the other has learned to live with a lasting sensitivity. I read it as care with experience behind it, and I watch that the care keeps running both ways."

@@ -5,6 +5,8 @@ description: "Lilith in the 10th house in a birth chart: the hidden part gone pu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "10th house", "houses"]
 weight: 142
 glyph: "⚸"
 definition: "Lilith in the 10th house means Black Moon Lilith, the Moon’s farthest point from Earth, sat near the top of your chart, in the house that begins at the Midheaven, when you were born. I read it as the hidden part going public, in your career and reputation, and a refusal to build a public life on someone else’s plan."

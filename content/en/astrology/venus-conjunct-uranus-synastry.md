@@ -5,6 +5,8 @@ description: "Venus conjunct Uranus in synastry: one person rearranges what the 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Uranus", "conjunction", "synastry"]
 weight: 181
 glyph: "♀☌♅"
 definition: "Venus conjunct Uranus in synastry means one person’s Venus sits within 6° of the other’s Uranus. What the first person finds lovely meets the second’s urge to try things differently, so tastes get rearranged and difference gets enjoyed. I read it as a shared appetite for the new, never as a promise or a warning."

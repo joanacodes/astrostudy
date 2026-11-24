@@ -5,6 +5,8 @@ description: "Jupiter opposite Uranus in a birth chart: belief and change at opp
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Uranus", "opposition"]
 weight: 249
 glyph: "♃☍♅"
 definition: "Jupiter opposite Uranus means the two planets stood about 180° apart at your birth, as they do roughly every fourteen years for a few months. The wish to widen your world through what you believe faces the wish to change it altogether. Lived over time, the axis teaches when to trust a framework and when to break it."

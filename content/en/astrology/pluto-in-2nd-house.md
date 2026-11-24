@@ -5,6 +5,8 @@ description: "Pluto in the 2nd house in a birth chart: security, money and self-
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "2nd house", "houses"]
 weight: 110
 glyph: "♇"
 definition: "Pluto in the 2nd house brings deep change to what you own and what you are worth: money, possessions, talents, self-worth. It describes security felt deeply and rebuilt from the ground up at turning points: an attitude to what is yours, never a forecast of what you will have. It needs the birth time."

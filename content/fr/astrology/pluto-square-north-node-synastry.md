@@ -6,6 +6,8 @@ description: "Pluton carré Nœud Nord en synastrie : l’exigence de changemen
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Nœud Nord", "carré", "synastrie"]
 weight: 373
 glyph: "♇□☊"
 definition: "Pluton carré Nœud Nord en synastrie dresse Pluton, chez une personne, perpendiculairement à l’axe des nœuds de l’autre, à 3,4° près. L’exigence de changement profond de l’une croise le chemin de l’autre aux deux bouts, terrain familier et direction nouvelle. J’y lis une friction qui aide si on l’offre, et qui irrite si on l’impose."

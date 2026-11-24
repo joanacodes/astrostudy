@@ -6,6 +6,8 @@ description: "L’astrologie, c’est vrai ? Comme pratique, oui, et très anc
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["test"]
 weight: 16
 glyph: "✦"
 definition: "Comme pratique, l’astrologie est réelle : elle existe sous diverses formes depuis au moins le IIe millénaire avant notre ère, et fut une tradition savante jusqu’aux Lumières. Que le ciel de votre naissance vous décrive, c’est autre chose : les tests contrôlés n’en ont trouvé aucune preuve, et aucun mécanisme proposé ne s’accorde avec la physique et la biologie."

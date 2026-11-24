@@ -5,6 +5,8 @@ description: "Mercury square Saturn in a birth chart: a voice that learns to tru
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Saturn", "square"]
 weight: 122
 glyph: "☿□♄"
 definition: "Mercury square Saturn means Mercury and Saturn were about 90° apart when you were born. In a chart your voice and your standards press on each other: you choose words carefully, sometimes for fear of getting them wrong, and learn slowly but for good. I read it as a timetable, not a wall."

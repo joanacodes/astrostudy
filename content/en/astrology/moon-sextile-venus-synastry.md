@@ -5,6 +5,8 @@ description: "Moon sextile Venus in synastry: small kindnesses that land once so
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Venus", "sextile", "synastry"]
 weight: 67
 glyph: "☽⚹♀"
 definition: "Moon sextile Venus in synastry is an angle of about 60°, give or take 4.8°, between one person’s Moon and the other’s Venus. Kindness from one side meets the needs of the other in friendly, unforced ways, as long as someone makes the first gesture. I read it as goodwill that deepens once it’s acted on."

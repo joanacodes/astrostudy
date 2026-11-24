@@ -5,6 +5,8 @@ description: "Their Mercury in your 4th house in synastry: talk that comes home,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "4th house", "synastry", "house overlays"]
 weight: 28
 glyph: "☿"
 definition: "Their Mercury in your 4th house is talk that comes indoors: the other person’s curiosity reaches your home, your roots and your private life. In synastry you may find words for family stories with them and make decisions about a home together, while your private world gives their thinking a quiet place to settle."

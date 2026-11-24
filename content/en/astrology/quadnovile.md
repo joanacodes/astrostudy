@@ -5,6 +5,8 @@ description: "The quadnovile in astrology: two planets 160° apart, four-ninths 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["quadnovile", "minor aspects"]
 weight: 17
 glyph: "✦"
 definition: "A quadnovile is an angle of 160° between two planets: four-ninths of the circle, a trine plus a novile, 20° short of the opposition. There is no trinovile, because three ninths make the trine. In a birth chart I read it as one of the ninths, slow maturing, at the far side of the circle."

@@ -6,6 +6,8 @@ description: "La Lune du cerf, pleine lune de juillet : ses dates et signes de 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 26
 glyph: "○"
 definition: "La Lune du cerf est le nom que les almanachs donnent à la pleine lune de juillet, quand les nouveaux bois des cerfs poussent. C’est un nom populaire, pas d’astrologie. Dans un thème, c’est une pleine lune en Capricorne ou en Verseau, face au Soleil en Cancer ou en Lion ; en 2027 et 2028, c’est aussi une éclipse de Lune."

@@ -6,6 +6,8 @@ description: "Soleil en Verseau dans un thème natal : le Soleil en exil, une i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Verseau"]
 weight: 11
 glyph: "☉♒"
 definition: "Le Soleil en Verseau est le signe solaire des naissances du 20 janvier au 18 février environ : l’exil du Soleil, en air fixe gouverné par Uranus dans l’astrologie tropicale moderne et par Saturne dans la tradition. J’y lis une identité organisée autour de principes et de réseaux, une vitalité nourrie d’idées, et un but plus grand qu’une seule vie."

@@ -5,6 +5,8 @@ description: "Pluto in Scorpio in a birth chart: Pluto in its own modern sign, f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Scorpio"]
 weight: 116
 glyph: "♇♏"
 definition: "Pluto in Scorpio is the planet of deep change in its own sign in modern tropical astrology: fixed water, ruled by Pluto and traditionally by Mars. Its generation was born from 1983 to 1995, during Pluto’s shortest stay in any sign. In a chart it describes intensity, intimacy and nothing left unexamined."

@@ -6,6 +6,8 @@ description: "Saturne conjonction Pluton en synastrie : les structures de l’u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Pluton", "conjonction", "synastrie"]
 weight: 296
 glyph: "♄☌♇"
 definition: "Saturne conjonction Pluton en synastrie signifie que Saturne, chez une personne, se trouve à moins de 5° de Pluton chez l’autre. Les structures et les responsabilités que l’une entretient reposent exactement là où l’autre a besoin de tout transformer à la racine. J’y lis l’autorité qui rencontre la profondeur, entre deux générations."

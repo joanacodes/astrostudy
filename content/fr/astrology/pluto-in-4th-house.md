@@ -6,6 +6,8 @@ description: "Pluton en maison 4 dans un thème natal : des racines profondes, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "maison 4", "maisons"]
 weight: 112
 glyph: "♇"
 definition: "Pluton en maison 4 met le changement profond à la racine du thème : le foyer, la famille, les racines et la vie privée. On y lit des racines profondes, un passé qui pèse, et un foyer refait aux tournants de la vie. En Placidus, cette maison commence au Fond du Ciel : il faut donc l’heure de naissance."

@@ -5,6 +5,8 @@ description: "Their Jupiter in your 8th house in synastry: their generosity in y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "8th house", "synastry", "house overlays"]
 weight: 68
 glyph: "♃"
 definition: "Their Jupiter in your 8th house widens your house of trust, intimacy and shared resources with the other person’s Jupiter. In synastry their generosity reaches what you share: trust can feel well placed, closeness can feel enlarging, and they find meaning in your depth. It describes the living bond, never a death or an inheritance."

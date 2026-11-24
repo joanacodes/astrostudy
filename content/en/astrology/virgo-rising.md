@@ -5,6 +5,8 @@ description: "Virgo rising: a working welcome, Mercury as your chart ruler, Pisc
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "rising sign", "Virgo"]
 weight: 6
 glyph: "↑♍"
 definition: "Virgo rising means Virgo, the mutable earth sign ruled by Mercury, was rising on the eastern horizon at your birth: your Ascendant is in Virgo. It describes an attentive, practical way of meeting the world, finding your footing by being of use. In the north it rises slowly, in nearly three hours at London."

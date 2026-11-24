@@ -6,6 +6,8 @@ description: "Soleil en Scorpion, Lune en Lion : deux signes fixes en carré, l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Scorpion", "Lune", "Lion"]
 weight: 89
 glyph: "☉♏☽♌"
 definition: "Soleil en Scorpion, Lune en Lion place deux signes fixes en carré, autour du dernier quartier, la Lune dans le signe que gouverne le Soleil. J’y lis un moi intense et réservé, dont le cœur a besoin de chaleur et de reconnaissance de la part de quelques personnes choisies."

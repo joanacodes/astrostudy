@@ -6,6 +6,8 @@ description: "Neptune en maison 9 dans un thème natal : une faim spirituelle, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "maison 9", "maisons"]
 weight: 105
 glyph: "♆"
 definition: "Neptune en maison 9 signifie que Neptune se trouvait, à votre naissance, dans la maison de la foi, des études supérieures et des longs voyages, celle que la tradition appelait le Dieu. On y lit une faim spirituelle : une foi assez large pour plusieurs traditions, l’étude et le voyage vécus comme un pèlerinage, et des sources à vérifier."

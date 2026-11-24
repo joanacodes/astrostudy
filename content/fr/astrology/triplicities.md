@@ -6,6 +6,8 @@ description: "Les triplicités : les quatre triangles de signes d’un même é
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 18
 glyph: "♈♌♐"
 definition: "Une triplicité est un groupe de trois signes du même élément, à 120° les uns des autres, en triangle dans le zodiaque : le feu, la terre, l’air et l’eau ont chacun le sien. Les planètes de ses signes forment souvent des trigones. La tradition lui donne aussi des maîtres, un de jour, un de nuit et un commun."

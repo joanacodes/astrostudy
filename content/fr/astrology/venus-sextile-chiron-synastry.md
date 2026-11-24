@@ -6,6 +6,8 @@ description: "Vénus sextile Chiron en synastrie : le savoir durement acquis de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Chiron", "sextile", "synastrie"]
 weight: 197
 glyph: "♀⚹⚷"
 definition: "Vénus sextile Chiron en synastrie signifie que Vénus, chez une personne, se trouve à environ 60° de Chiron chez l’autre, à 3,6° près. Ce que la seconde a appris en s’adaptant autour d’une sensibilité durable peut rendre les plaisirs de la première plus accueillants, et la première estime ce savoir-faire. J’y lis une gentillesse pratique, réciproque de préférence."

@@ -5,6 +5,8 @@ description: "Neptune conjunct Pluto in synastry: an elder’s ideals rest on a 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Pluto", "conjunction", "synastry"]
 weight: 341
 glyph: "♆☌♇"
 definition: "Neptune conjunct Pluto in synastry means one person’s Neptune and the other’s Pluto share the same degrees, within 4°; in every pair my data holds, the Neptune belongs to the elder. One generation’s ideals meet the next one’s drive to renew from the root. It is the slowest contact on the site, read through the houses."

@@ -5,6 +5,8 @@ description: "Jupiter opposite Neptune in a birth chart: belief and imagination 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Neptune", "opposition"]
 weight: 254
 glyph: "♃☍♆"
 definition: "Jupiter opposite Neptune means Jupiter and Neptune about 180° apart, facing each other across the chart. It comes for some months every 12 or 13 years, so a year-group shares it. In a chart, what you believe and what you long for stand at two ends of one line; I read it as a call for balance, not a split."

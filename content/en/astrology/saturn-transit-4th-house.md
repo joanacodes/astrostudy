@@ -5,6 +5,8 @@ description: "Saturn transiting the 4th house: about three years of repairing fo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "4th house", "transits"]
 weight: 16
 glyph: "♄"
 definition: "Saturn transiting the 4th house describes about three years spent underneath everything else: Saturn, moving through the sky, crosses your Imum Coeli and then your house of home and roots. It goes through what your chart says about family and belonging like a careful survey: foundations checked, responsibilities at home, a home built to last."

@@ -6,6 +6,8 @@ description: "Jupiter conjonction Lilith en synastrie : le sens que l’une don
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Lilith", "conjonction", "synastrie"]
 weight: 276
 glyph: "♃☌⚸"
 definition: "Jupiter conjonction Lilith en synastrie signifie que Jupiter, chez une personne, se trouve à moins de 5° de la Lune noire Lilith de l’autre. Les principes et la largeur d’esprit de l’une tombent sur la part de l’autre qui a appris à rester hors de vue. J’y lis une permission qui libère ou expose, à lire par les maisons."

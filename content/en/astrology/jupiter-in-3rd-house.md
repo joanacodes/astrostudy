@@ -5,6 +5,8 @@ description: "Jupiter in the 3rd house in a birth chart: growth through everyday
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "3rd house", "houses"]
 weight: 63
 glyph: "♃"
 definition: "Jupiter in the 3rd house means Jupiter was in the house of the everyday mind and the world close at hand. I read it as growth through learning and talk: curiosity that never quite stops, understanding found in ordinary exchanges, and a gift for passing ideas on. It needs an accurate birth time."

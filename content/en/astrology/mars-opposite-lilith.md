@@ -5,6 +5,8 @@ description: "Mars opposite Lilith in a birth chart: drive at one end of an axis
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Lilith", "opposition"]
 weight: 234
 glyph: "♂☍⚸"
 definition: "Mars opposite Lilith means Mars and Black Moon Lilith stood on opposite sides of your birth chart, about 180° apart. Your drive faces your untamed side, so the force nobody could tame out of you is often met first in someone else. I treat the axis as yours to own and balance, never as an enemy outside you."

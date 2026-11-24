@@ -6,6 +6,8 @@ description: "Neptune en Vierge dans un thème natal : Neptune en exil, l’id�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Vierge"]
 weight: 102
 glyph: "♆♍"
 definition: "Neptune en Vierge, c’est la planète de l’imagination et de la compassion dans le signe de terre mutable du métier et du soin, où l’astrologie tropicale moderne parle d’exil. Ce placement appartient aux personnes nées de 1928 à 1943, et j’y lis l’idéal de service de cette génération : une compassion devenue pratique, et le rêve d’un monde remis d’aplomb."

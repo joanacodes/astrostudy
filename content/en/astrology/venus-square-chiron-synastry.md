@@ -5,6 +5,8 @@ description: "Venus square Chiron in synastry: what delights one person can be w
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Chiron", "square", "synastry"]
 weight: 198
 glyph: "♀□⚷"
 definition: "Venus square Chiron in synastry means one person’s Venus is about 90° from the other’s Chiron, within 5.1°. The first person’s tastes and ways of showing affection can press, unknowingly, on what the second has learned to live around. I read it as a rub that gets two adults saying what helps."

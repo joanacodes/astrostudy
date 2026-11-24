@@ -5,6 +5,8 @@ description: "Mercury in the 12th house in a birth chart: a private, inward mind
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "12th house", "houses"]
 weight: 36
 glyph: "☿"
 definition: "Mercury in the 12th house is the planet of thought and speech in the house of what is private and unseen. It describes an inward mind that needs solitude to think, keeps much of its understanding to itself, and finds its words most easily on paper. Tradition gave this house confinement; a chart predicts none. It needs the birth time."

@@ -6,6 +6,8 @@ description: "Lune carré Pluton dans un thème natal : le besoin de réconfort
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Pluton", "carré"]
 weight: 90
 glyph: "☽□♇"
 definition: "Lune carré Pluton signifie que la Lune et Pluton formaient un angle droit à votre naissance, à quelque 90° d’écart. Ce carré oppose votre besoin d’un réconfort sûr et familier à l’élan d’aller plus loin et de renouveler : les émotions restent rarement en surface. J’y lis une friction qui construit une force émotionnelle, jamais un verdict."

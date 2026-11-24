@@ -6,6 +6,8 @@ description: "Lilith en maison 12 dans un thème natal : une part cachée souve
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "maison 12", "maisons"]
 weight: 144
 glyph: "⚸"
 definition: "Lilith en maison 12 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la maison de la solitude et de la vie intérieure, juste avant votre ascendant. J’y lis une part cachée souvent cachée à vous-même, et le refus tranquille qu’on gère votre monde intérieur."

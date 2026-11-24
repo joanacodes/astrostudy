@@ -5,6 +5,8 @@ description: "Moon conjunct Mercury in a birth chart: feelings that arrive alrea
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Mercury", "conjunction"]
 weight: 53
 glyph: "☽☌☿"
 definition: "Moon conjunct Mercury means the Moon and Mercury stood a few degrees apart at most when you were born, in the days around a new moon. In a chart it joins feeling and thinking into one movement: moods come with words, and words carry moods. I read it as a mind that listens to the heart."

@@ -5,6 +5,8 @@ description: "Aries rising: a starter’s reflex, Mars as your chart ruler, Libr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "rising sign", "Aries"]
 weight: 1
 glyph: "↑♈"
 definition: "Aries rising means Aries, the first sign of the zodiac, was coming up over the eastern horizon when you were born: your Ascendant is in Aries. Astrologers read it as a quick, direct way of meeting the world, with Mars as your chart ruler. At London it rises in under an hour, so it needs an exact birth time."

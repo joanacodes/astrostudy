@@ -6,6 +6,8 @@ description: "La nouvelle lune en Taureau : le Soleil et la Lune réunis dans l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "nouvelle lune", "Taureau"]
 weight: 37
 glyph: "●♉"
 definition: "La nouvelle lune en Taureau est la nouvelle lune qui tombe pendant le passage du Soleil en Taureau, entre le 20 avril et le 20 mai environ : le Soleil et la Lune réunis en terre fixe, le signe où la tradition exalte la Lune. J’y lis un repère tranquille pour construire, qui ne compte qu’à un degré d’un point natal."

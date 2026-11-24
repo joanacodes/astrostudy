@@ -6,6 +6,8 @@ description: "Soleil en Bélier, Lune en Scorpion : deux signes qui n’ont en 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier", "Lune", "Scorpion"]
 weight: 8
 glyph: "☉♈☽♏"
 definition: "Soleil en Bélier, Lune en Scorpion désigne une naissance quinze jours à dix-neuf jours et demi après une nouvelle lune, juste après la pleine lune, la Lune cinq signes derrière le Soleil. Les deux signes ne partagent qu’un maître ancien, Mars. J’y lis un courage au grand jour et une profondeur gardée : un moi franc, des besoins protégés."

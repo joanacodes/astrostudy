@@ -5,6 +5,8 @@ description: "Mercury sextile North Node in synastry: one person’s ideas bridg
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "North Node", "sextile", "synastry"]
 weight: 162
 glyph: "☿⚹☊"
 definition: "Mercury sextile North Node in synastry means one person’s Mercury is about 60° from the other’s North Node, within 3.6°, and so about 120° from their South Node. One person’s ideas link the other’s familiar strengths to what they are learning. I see in it an opening for useful advice, which works when someone asks for it."

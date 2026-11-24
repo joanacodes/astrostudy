@@ -5,6 +5,8 @@ description: "Their Pluto in your 11th house in synastry: their depth among your
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "11th house", "synastry", "house overlays"]
 weight: 119
 glyph: "♇"
 definition: "Their Pluto in your 11th house carries the other person’s depth among your friends, groups and causes. In synastry friendships deepen or are tested, circles change and hopes for the future gain weight, while they may want to belong deeply or to reshape the group. It never predicts the end of a friendship."

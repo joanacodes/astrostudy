@@ -6,6 +6,8 @@ description: "Saturne en Bélier dans un thème natal : Saturne en chute, la pa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Bélier"]
 weight: 73
 glyph: "♄♈"
 definition: "Saturne en Bélier, c’est Saturne en chute : la planète de la structure et de la patience dans le premier signe du zodiaque, celui qui veut commencer maintenant. Ce placement est commun aux personnes nées vers 1937–1940, 1967–1969 ou 1996–1999. On y lit un courage bâti lentement, et l’art d’agir de sa propre autorité."

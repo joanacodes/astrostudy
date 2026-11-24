@@ -5,6 +5,8 @@ description: "Their Jupiter in your 7th house in synastry: their generosity in y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "7th house", "synastry", "house overlays"]
 weight: 67
 glyph: "♃"
 definition: "Their Jupiter in your 7th house means the other person’s Jupiter joins your partners and allies, the people you meet as equals. In synastry their generosity makes partnership a place to grow: they give in good faith and share their world, and they find in you an equal who answers them; it never predicts marriage."

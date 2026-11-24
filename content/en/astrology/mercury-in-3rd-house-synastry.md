@@ -5,6 +5,8 @@ description: "Their Mercury in your 3rd house in synastry: their mind in your da
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "3rd house", "synastry", "house overlays"]
 weight: 27
 glyph: "☿"
 definition: "Their Mercury in your 3rd house carries their way of thinking into your daily round of talk, messages, errands and learning. In synastry, conversation between you tends to be frequent, quick and easy, and you teach each other things; Gemini, the 3rd’s natural sign, is one of the two signs Mercury rules."

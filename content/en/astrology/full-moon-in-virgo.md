@@ -5,6 +5,8 @@ description: "The full moon in Virgo, with the Sun in Pisces: detail against the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "full moon", "Virgo"]
 weight: 53
 glyph: "○♍"
 definition: "The full moon in Virgo is the Moon in Virgo opposite the Sun in Pisces, the last full moon before the March equinox. It lights the Virgo–Pisces axis: order and surrender, the detail and the whole. In a birth chart it counts within about 1° of a planet or angle, at either end; as an eclipse, about 3°."

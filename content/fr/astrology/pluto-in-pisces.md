@@ -6,6 +6,8 @@ description: "Pluton en Poissons dans un thème natal : un changement profond p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Poissons"]
 weight: 120
 glyph: "♇♓"
 definition: "Pluton en Poissons referme le zodiaque sur un changement profond : l’eau mutable, gouvernée par Neptune et traditionnellement par Jupiter. Ses naissances allaient de 1797 à 1823 et reprendront de 2043 à 2068, sans aucune entre les deux. On y lit une transformation par l’imagination et la compassion, où les vieilles frontières se dissolvent."

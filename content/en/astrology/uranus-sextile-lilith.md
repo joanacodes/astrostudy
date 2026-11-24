@@ -5,6 +5,8 @@ description: "Uranus sextile Lilith in a birth chart: originality giving your un
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Lilith", "sextile"]
 weight: 321
 glyph: "♅⚹⚸"
 definition: "Uranus sextile Lilith means Uranus and mean Black Moon Lilith stood about 60° apart when you were born. In a chart, the urge to be different offers the part of you that refuses to be tamed an outlet, through new ideas, new company or new ways of working, once you choose to take it."

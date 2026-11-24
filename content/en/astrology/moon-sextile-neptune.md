@@ -5,6 +5,8 @@ description: "Moon sextile Neptune in a birth chart: imagination offered to your
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Neptune", "sextile"]
 weight: 84
 glyph: "☽⚹♆"
 definition: "Moon sextile Neptune means Neptune sat about 60° from your Moon when you were born, usually in a sign two away. It lets your feelings and your imagination cooperate: a mood can become an image, a song or an act of kindness, and making it settles you. Gentle as it is, it only works when you use it."

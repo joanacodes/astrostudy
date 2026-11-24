@@ -5,6 +5,8 @@ description: "The new moon in Aries: the Sun and Moon together in the first sign
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "new moon", "Aries"]
 weight: 36
 glyph: "●♈"
 definition: "The new moon in Aries is the new moon that falls while the Sun is in Aries, between about 21 March and 19 April: the Sun and Moon together in the first sign, the first new moon of spring. I read it as a short marker for beginnings, counted only within a degree of a natal point."

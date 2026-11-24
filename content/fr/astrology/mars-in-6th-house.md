@@ -6,6 +6,8 @@ description: "Mars en maison 6 dans un thème natal : Mars dans sa joie, l’ef
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "maison 6", "maisons"]
 weight: 54
 glyph: "♂"
 definition: "En maison 6, Mars est dans sa joie, la Fortune défavorable des anciens : le travail quotidien, les habitudes, les collègues et le soin du corps. On y lit un effort énergique et pratique, au mieux avec une tâche en main. Il faut une heure exacte ; la tradition y mettait la maladie, et un thème n’en prédit aucune."

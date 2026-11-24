@@ -5,6 +5,8 @@ description: "Their Sun in your 5th house in synastry: their purpose lighting up
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "5th house", "synastry", "house overlays"]
 weight: 5
 glyph: "☉"
 definition: "Their Sun in your 5th house is the overlay of play: the other person’s Sun lands in the house of your pleasure, creativity and romance. In synastry it describes their purpose lighting up what you do for joy: you tend to have more fun and make more around them, and they feel enjoyed for who they are."

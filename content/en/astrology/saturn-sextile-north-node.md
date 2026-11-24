@@ -5,6 +5,8 @@ description: "Saturn sextile North Node in a birth chart: a bridge from familiar
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "North Node", "sextile"]
 weight: 301
 glyph: "♄⚹☊"
 definition: "Saturn sextile North Node means Saturn was about 60° from the North Node at your birth, and so 120° from the South Node. In a chart it builds a bridge: discipline learned on familiar ground can be carried into the direction you are growing in, which makes practice easier to organise once you choose to begin."

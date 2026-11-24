@@ -6,6 +6,8 @@ description: "Mercure de l’autre dans votre maison 9 en synastrie : idées, v
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "maison 9", "synastrie", "superpositions de maisons"]
 weight: 33
 glyph: "☿"
 definition: "Mercure de l’autre dans votre maison 9 est une rencontre des esprits à l’horizon lointain : voyages, études, croyances, questions de sens. En synastrie, parler avec cette personne élargit votre regard et elle aime apprendre le vôtre, même si les idées peuvent se figer en positions ; le Sagittaire, signe naturel de cette maison, est l’exil de Mercure."

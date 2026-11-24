@@ -6,6 +6,8 @@ description: "Le Cancer en astrologie : le signe d’eau cardinal gouverné par
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signes"]
+tags: ["Cancer"]
 weight: 4
 glyph: "♋"
 definition: "Le Cancer est le quatrième signe du zodiaque, un signe d’eau cardinal gouverné par la Lune ; le Soleil le traverse du 21 juin au 22 juillet environ. Dans un thème natal, il désigne là où vous veillez sur ce qui compte : le foyer, la famille, la mémoire, les vôtres. Sa maison montre où vous avez besoin d’appartenir."

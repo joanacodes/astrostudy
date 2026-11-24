@@ -6,6 +6,8 @@ description: "Le grand sextile en astrologie : six planètes à 60° en étoile
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["sextile", "configurations"]
 weight: 9
 glyph: "⚹"
 definition: "Un grand sextile, ce sont six planètes réparties à intervalles égaux autour du thème, chacune en sextile avec ses deux voisines, en trigone avec les deux suivantes et opposée à la sixième : une étoile à six branches. Il tisse circulation et ouvertures autour de trois oppositions. C’est la configuration la plus rare du décompte : environ 1 personne sur 7 305."

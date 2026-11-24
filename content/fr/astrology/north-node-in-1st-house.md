@@ -6,6 +6,8 @@ description: "Nœud Nord en maison 1 dans un thème natal : apprendre à vous p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "maison 1", "maisons"]
 weight: 145
 glyph: "☊"
 definition: "Nœud Nord en maison 1 signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil tombait dans la maison de l’ascendant, le Nœud Sud en maison 7. J’y lis une croissance vers la définition de soi : vos envies, votre présence, votre élan, après l’habitude de partir des attentes des autres."

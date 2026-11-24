@@ -6,6 +6,8 @@ description: "Mercure trigone Uranus dans un thème natal : des idées inhabitu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Uranus", "trigone"]
 weight: 128
 glyph: "☿△♅"
 definition: "Mercure trigone Uranus est un angle de 120° entre Mercure et Uranus à la naissance, un tiers du zodiaque, en général dans deux signes du même élément. Dans un thème, une idée inhabituelle arrive déjà en mots, et l’originalité passe pour de la clarté. J’y lis une aisance de travail, qui paie quand vous vérifiez ce qui vient facilement."

@@ -6,6 +6,8 @@ description: "Lilith de l’autre dans votre maison 2 en synastrie : son refus 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 134
 glyph: "⚸"
 definition: "Lilith de l’autre dans votre maison 2 introduit sa Lune noire Lilith moyenne parmi votre argent, vos biens et vos valeurs. En synastrie, ce que cette personne a refusé de laisser dompter rencontre ce que vous vous autorisez à vouloir : la culpabilité apprise autour du désir se desserre, et vos valeurs peuvent la provoquer ou la libérer."

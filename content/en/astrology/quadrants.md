@@ -5,6 +5,8 @@ description: "Quadrants in astrology: the four quarters of a birth chart between
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 28
 glyph: "✦"
 definition: "The quadrants are the four quarters of a birth chart, cut by the horizon and the meridian: houses 1 to 3, 4 to 6, 7 to 9 and 10 to 12. A quadrant holding most of the planets shows where the chart’s energy gathers. Like the houses, the quadrants are cast from the birth time and place."

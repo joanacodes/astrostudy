@@ -6,6 +6,8 @@ description: "Vénus sextile Uranus en synastrie : l’une expérimente, l’au
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Uranus", "sextile", "synastrie"]
 weight: 182
 glyph: "♀⚹♅"
 definition: "Vénus sextile Uranus en synastrie signifie que Vénus, chez une personne, se trouve à environ 60° d’Uranus chez l’autre, à 3,6° près. Les essais de l’une rencontrent le goût de l’autre, qui distingue le beau du simplement nouveau, et les deux en sortent un peu plus libres. J’y lis l’originalité et le discernement associés, en attente d’un premier pas."

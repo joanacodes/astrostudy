@@ -6,6 +6,8 @@ description: "Mars trigone Jupiter en synastrie : l’effort de l’une et les 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Jupiter", "trigone", "synastrie"]
 weight: 214
 glyph: "♂△♃"
 definition: "Mars trigone Jupiter en synastrie signifie que Mars, chez une personne, se trouve à environ 120° de Jupiter chez l’autre, en général dans des signes du même élément. L’effort de la première et le sens que cherche la seconde avancent au même pas, sans négocier. J’y lis une coopération généreuse, meilleure avec un regard extérieur."

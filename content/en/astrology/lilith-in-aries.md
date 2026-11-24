@@ -5,6 +5,8 @@ description: "Lilith in Aries in a birth chart: a first impulse you learned to h
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Aries"]
 weight: 133
 glyph: "⚸♈"
 definition: "Lilith in Aries means Black Moon Lilith, the Moon’s farthest point from Earth, was crossing the first sign of the zodiac when you were born. I read it as a first impulse you learned to hold back — wanting something, going first, saying no — and a refusal to wait for anyone’s permission."

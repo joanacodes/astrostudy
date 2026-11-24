@@ -5,6 +5,8 @@ description: "The Snow moon, February’s full moon: its dates and signs from 20
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 21
 glyph: "○"
 definition: "The Snow moon is the name almanacs give the full moon of February, after the heavy snows of that month in north-eastern North America. It is a folk name, not an astrological one. In a chart, I read it as what it is: a full moon in Leo or Virgo, with the Sun opposite in Aquarius or Pisces."

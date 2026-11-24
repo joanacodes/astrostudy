@@ -5,6 +5,8 @@ description: "Mercury trine Uranus in synastry: one person’s words and the oth
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Uranus", "trine", "synastry"]
 weight: 139
 glyph: "☿△♅"
 definition: "Mercury trine Uranus in synastry joins one person’s Mercury and the other’s Uranus at about 120°, within 5.1°, most often in a shared element. The Mercury person’s way of explaining fits the Uranus person’s originality, so unusual ideas pass between you without friction. I read it as an easy freshness that still needs testing."

@@ -6,6 +6,8 @@ description: "La pleine lune en Cancer, la Lune dans son signe face à un Soleil
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "pleine lune", "Cancer"]
 weight: 51
 glyph: "○♋"
 definition: "La pleine lune en Cancer, c’est la Lune dans son propre signe face au Soleil en Capricorne, la première pleine lune après le solstice de décembre. Elle éclaire l’axe Cancer–Capricorne : le foyer et le monde. Dans un thème, elle compte à 1° environ d’un point natal, à l’un ou l’autre bout ; à 3° pour une éclipse."

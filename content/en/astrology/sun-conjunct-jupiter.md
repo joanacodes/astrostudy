@@ -5,6 +5,8 @@ description: "Sun conjunct Jupiter in a birth chart: identity and the urge to gr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Jupiter", "conjunction"]
 weight: 13
 glyph: "☉☌♃"
 definition: "Sun conjunct Jupiter is a meeting of the Sun and Jupiter a few degrees apart, generally in the same sign, and it comes round every thirteen months or so. In a chart, your identity and your urge to grow work as one: you become yourself by widening. I read it as generosity of spirit, whose lesson is measure."

@@ -5,6 +5,8 @@ description: "Moon in the 12th house in a birth chart: quiet, deep feelings and 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "12th house", "houses"]
 weight: 24
 glyph: "☽"
 definition: "Moon in the 12th house means the Moon sat in the house of solitude, rest and what happens out of sight, which tradition called the Bad Spirit, when you were born. I read it as feelings that run quiet and deep, known best in time alone. It predicts no confinement, and it needs the birth time."

@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["Ophiuchus", "13th sign"]
 family: "stars"
+categories: ["Stars"]
+tags: ["zodiac signs", "fixed stars"]
 weight: 25
 glyph: "⛎"
 definition: "Ophiuchus, the Serpent-bearer, is a constellation the Sun passes in front of from about 30 November to 18 December, between Scorpius and Sagittarius. It is not a sign. The tropical zodiac divides the Sun’s year by the seasons into twelve equal signs, so during those weeks the Sun is in Sagittarius, whatever stars lie behind it."

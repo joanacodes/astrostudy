@@ -5,6 +5,8 @@ description: "Sun opposite Jupiter in synastry: one person’s worldview faces t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Jupiter", "opposition", "synastry"]
 weight: 25
 glyph: "☉☍♃"
 definition: "Sun opposite Jupiter in synastry means one person’s Jupiter is about 180° from the other’s Sun, within 8°. One person’s beliefs, and what they want to grow towards, face the other’s direction across the zodiac. I read it as two horizons in conversation, never a contest over whose world is right."

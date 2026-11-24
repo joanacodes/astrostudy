@@ -5,6 +5,8 @@ description: "Sun in Cancer, Moon in Capricorn: the Moon’s own axis, home and 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Cancer", "Moon", "Capricorn"]
 weight: 46
 glyph: "☉♋☽♑"
 definition: "Sun in Cancer, Moon in Capricorn puts the lights on the Moon’s own axis: the Sun in the Moon’s domicile, the Moon opposite, in its detriment, near a full moon. I read it as tenderness with a backbone: a self that shelters its people, and needs that relax only when the duties are done."

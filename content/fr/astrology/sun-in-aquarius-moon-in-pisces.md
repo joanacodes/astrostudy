@@ -6,6 +6,8 @@ description: "Soleil en Verseau, Lune en Poissons : des signes voisins aux prem
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Verseau", "Lune", "Poissons"]
 weight: 132
 glyph: "☉♒☽♓"
 definition: "Soleil en Verseau, Lune en Poissons, c’est une Lune qui a déjà gagné les Poissons, dans les cinq jours qui suivent une nouvelle lune, avec quatre maîtres pour le duo. J’y vois un moi qui pense au bien-être du grand nombre, avec des besoins nourris par l’imagination, la compassion et le sentiment d’appartenir à plus grand que soi."

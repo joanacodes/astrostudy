@@ -5,6 +5,8 @@ description: "Mercury trine Pluto in a birth chart: insight that comes naturally
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Pluto", "trine"]
 weight: 138
 glyph: "☿△♇"
 definition: "Mercury trine Pluto sets your thinking and the planet of depth 120° apart at birth, most often in signs that share an element, so that thinking and transformation flow together. In a chart it gives insight that comes naturally, and words that persuade without force. I read it as an easy depth worth using deliberately."

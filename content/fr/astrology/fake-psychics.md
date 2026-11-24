@@ -6,6 +6,8 @@ description: "Faux voyants : comment ils semblent vous connaître, le compteur 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Lectures"]
+tags: ["arnaques"]
 weight: 64
 glyph: "✦"
 definition: "Un faux voyant ou une fausse voyante prétend connaître votre avenir ou les pensées d’autrui, et s’en sert pour vous faire payer encore : à la minute, par abonnement, ou pour un rituel censé réparer ce qui a été « vu ». La méthode les trahit plus que les visions : la peur, l’urgence, le secret, un compteur qui tourne."

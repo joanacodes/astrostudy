@@ -5,6 +5,8 @@ description: "Their Venus in your 5th house in synastry: delight, play and attra
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "5th house", "synastry", "house overlays"]
 weight: 41
 glyph: "♀"
 definition: "Their Venus in your 5th house is delight shared: the other person’s affection and taste meet your play, pleasure, creativity and romance, in the house where tradition gave Venus its joy. In synastry, fun comes easily and attraction may follow, between friends as well as lovers; it never predicts children."

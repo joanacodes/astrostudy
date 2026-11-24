@@ -6,6 +6,8 @@ description: "Jupiter en maison 9 dans un thème natal : la planète du sens da
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "maison 9", "maisons"]
 weight: 69
 glyph: "♃"
 definition: "Jupiter en maison 9 signifie que Jupiter se trouvait dans la maison des longs voyages, des études supérieures et de la quête de sens, que la tradition appelait le Dieu. J’y lis la planète du sens dans son cadre naturel : une croissance par l’étude, le voyage et l’enseignement, et une philosophie à vous. Il faut une heure de naissance précise."

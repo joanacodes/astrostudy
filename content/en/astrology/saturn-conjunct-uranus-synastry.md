@@ -5,6 +5,8 @@ description: "Saturn conjunct Uranus in synastry: one person’s rules sit on th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Uranus", "conjunction", "synastry"]
 weight: 286
 glyph: "♄☌♅"
 definition: "Saturn conjunct Uranus in synastry means one person’s Saturn sits within 5° of the other’s Uranus. The structures one person keeps lie on the exact degree where the other wants to change things. I read it as a meeting between one generation’s sense of duty and another’s urge to reform, read through the houses rather than counted."

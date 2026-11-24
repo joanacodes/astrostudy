@@ -5,6 +5,8 @@ description: "Jupiter conjunct Uranus in a birth chart: growth and innovation fu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Uranus", "conjunction"]
 weight: 245
 glyph: "♃☌♅"
 definition: "Jupiter conjunct Uranus means the two planets stood within a few degrees of each other at your birth, a meeting that recurs about every 14 years and is common to a few months of births. Growth and innovation then act as one, and understanding keeps renewing itself. Its house shows where you widen your world by changing it."

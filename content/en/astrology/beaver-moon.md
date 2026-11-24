@@ -5,6 +5,8 @@ description: "The Beaver moon, November’s full moon: the next on 24 November 2
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 30
 glyph: "○"
 definition: "The Beaver moon is the almanacs’ name for the full moon of November, the season when beavers prepare for winter and trappers once set their traps. It is a folk name, not astrology. In a chart it is usually a full moon in Taurus, with the Sun in Scorpio, and in late years a full moon in Gemini."

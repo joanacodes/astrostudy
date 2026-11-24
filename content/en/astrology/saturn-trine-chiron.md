@@ -5,6 +5,8 @@ description: "Saturn trine Chiron in a birth chart: patience and adaptation as a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Chiron", "trine"]
 weight: 293
 glyph: "♄△⚷"
 definition: "Saturn trine Chiron joins Saturn and Chiron at about 120°, as in births of 1930–32 and 1977–80, both times in earth signs. In a chart, patience and adaptation reinforce each other: a lasting difficulty gets a sensible routine, and routines bend where you need them to, as long as you put the gift to use."

@@ -6,6 +6,8 @@ description: "Soleil opposition Pluton dans un thème natal : votre centre face
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Pluton", "opposition"]
 weight: 37
 glyph: "☉☍♇"
 definition: "Soleil opposition Pluton signifie que votre naissance tombe dans les deux semaines de l’année où le Soleil fait face à Pluton. Dans un thème, cet aspect place votre identité face à la profondeur, à l’intensité et au pouvoir, souvent rencontrés chez les autres. J’y lis une polarité qui apprend à tenir bon et à partager le pouvoir, jamais une compétition."

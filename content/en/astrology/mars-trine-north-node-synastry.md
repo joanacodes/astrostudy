@@ -5,6 +5,8 @@ description: "Mars trine North Node in synastry: one person’s drive keeps the 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "North Node", "trine", "synastry"]
 weight: 249
 glyph: "♂△☊"
 definition: "Mars trine North Node in synastry means one person’s Mars trines the other’s North Node, within 5.1°, while sextiling their South Node. One person’s drive flows towards the other’s growth, friendly to their old strengths. I read it as support that feels like company, while the practising stays the other’s."

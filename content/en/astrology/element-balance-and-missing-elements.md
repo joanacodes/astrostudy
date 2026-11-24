@@ -5,6 +5,8 @@ description: "Element balance and missing elements in astrology: counting planet
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Foundations"]
+tags: ["elements", "birth chart"]
 weight: 25
 glyph: "✦"
 definition: "Element balance is the count of a chart’s planets by element: how many sit in fire, earth, air and water signs. A missing element is one that holds no planet at all. The count shows where the chart’s energy gathers and which styles come first, never something the person lacks."

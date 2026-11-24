@@ -5,6 +5,8 @@ description: "Sun in Virgo, Moon in Taurus: both lights in earth, the Moon exalt
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Virgo", "Moon", "Taurus"]
 weight: 62
 glyph: "☉♍☽♉"
 definition: "Sun in Virgo, Moon in Taurus is an earth trine with the Moon exalted, at a birth some days past the full moon, as the light thins. Venus, ruler of the Moon’s sign, has its fall in the Sun’s. I read it as a careful self standing on unusually steady feelings, with practical knowledge it wants to hand on."

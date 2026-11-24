@@ -5,6 +5,8 @@ description: "Sagittarius in astrology: the archer, ruled by Jupiter. Sagittariu
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signs"]
+tags: ["Sagittarius"]
 weight: 9
 glyph: "♐"
 definition: "Sagittarius is the ninth sign of the zodiac, a mutable fire sign ruled by Jupiter; the Sun crosses it from about 22 November to 21 December. In a birth chart it shows where you look for meaning, freedom and a wider view — the part of life where you want to explore, learn and believe."

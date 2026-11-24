@@ -5,6 +5,8 @@ description: "Eclipses in Virgo: fourteen from 2000 to 2040 on the Virgo–Pisce
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["eclipses", "Virgo"]
 weight: 6
 glyph: "●♍"
 definition: "Virgo’s eclipses are new and full moons near the Moon’s nodes with the Moon in Virgo: solar ones with the Sun beside it, lunar ones with the Sun across the zodiac in Pisces. There are fourteen between 2000 and 2040. One of them speaks to a chart only when it falls within about three degrees of a natal point."

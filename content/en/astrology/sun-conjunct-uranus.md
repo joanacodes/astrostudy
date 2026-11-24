@@ -5,6 +5,8 @@ description: "Sun conjunct Uranus in a birth chart: being different as part of w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Uranus", "conjunction"]
 weight: 23
 glyph: "☉☌♅"
 definition: "Sun conjunct Uranus means your Sun and Uranus fell together at birth, a few degrees apart at most, usually in one sign. In a chart, identity and the urge to differ and renew move as one. I read it as originality built into identity: being different is part of you, not a phase."

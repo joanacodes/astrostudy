@@ -6,6 +6,8 @@ description: "Saturne en maison 7 dans un thème natal : l’engagement pris au
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "maison 7", "maisons"]
 weight: 79
 glyph: "♄"
 definition: "Saturne en maison 7 se tient juste au-dessus de l’horizon ouest, près du descendant, dans la maison des partenaires et des liens en tête-à-tête. On y lit un engagement pris au sérieux, des partenaires qui vous éprouvent ou vous enseignent, et des relations qui se renforcent avec le temps. Rien n’y prédit un mariage."

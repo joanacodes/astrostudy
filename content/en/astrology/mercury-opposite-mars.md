@@ -5,6 +5,8 @@ description: "Mercury opposite Mars in a birth chart: the pair’s rarest aspect
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Mars", "opposition"]
 weight: 114
 glyph: "☿☍♂"
 definition: "Mercury opposite Mars means Mercury and Mars were about 180° apart when you were born, which only happens while Mars is retrograde. In a chart words and deeds face each other, and each learns from the other. I read that as a polarity, not a war between them."

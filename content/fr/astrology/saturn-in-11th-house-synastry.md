@@ -6,6 +6,8 @@ description: "Saturne de l’autre dans votre maison 11 en synastrie : loyauté
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "maison 11", "synastrie", "superpositions de maisons"]
 weight: 83
 glyph: "♄"
 definition: "Saturne de l’autre dans votre maison 11 donne à Saturne, chez une autre personne, une place dans votre cercle : vos amis, vos groupes, vos réseaux et vos projets d’avenir. En synastrie, l’amitié se forme lentement et dure, les espoirs deviennent des plans, et l’autre se sent responsable de sa place parmi vos proches."

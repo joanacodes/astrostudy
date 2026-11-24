@@ -6,6 +6,8 @@ description: "Les éclipses solaires en astrologie : une nouvelle lune près de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Soleil", "éclipses"]
 weight: 32
 glyph: "●"
 definition: "Une éclipse solaire est une nouvelle lune assez proche d’un des nœuds lunaires pour que la Lune passe devant le Soleil : en entier, en anneau ou en partie. En astrologie, elle compte à environ trois degrés d’une planète ou d’un angle natal, lue à travers ce point et sa maison, et jamais comme un présage."

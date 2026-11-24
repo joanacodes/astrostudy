@@ -6,6 +6,8 @@ description: "Lune en maison 7 dans un thème natal : se sentir chez soi par la
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "maison 7", "maisons"]
 weight: 19
 glyph: "☽"
 definition: "La Lune en maison 7 signifie que la Lune se trouvait dans la maison des partenaires, juste au-dessus de l’horizon ouest, à votre naissance. J’y lis un besoin de proximité pour se sentir chez soi, et des émotions qui s’animent avec une autre personne. Elle ne prédit ni partenaire ni date ; il faut l’heure de naissance."

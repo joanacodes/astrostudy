@@ -6,6 +6,8 @@ description: "Soleil en Verseau, Lune en Gémeaux : un trigone d’air passé l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Verseau", "Lune", "Gémeaux"]
 weight: 123
 glyph: "☉♒☽♊"
 definition: "Soleil en Verseau, Lune en Gémeaux met les deux luminaires dans l’air, les Gémeaux quatre signes après le Verseau, sept à douze jours après une nouvelle lune. J’y vois un moi organisé autour d’idées et des personnes qu’elles relient, avec des émotions qui se posent dans l’échange : une question, une conversation, un message auquel on répond."

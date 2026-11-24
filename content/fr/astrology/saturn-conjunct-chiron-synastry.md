@@ -6,6 +6,8 @@ description: "Saturne conjonction Chiron en synastrie : le cadre de l’une sur
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Chiron", "conjonction", "synastrie"]
 weight: 301
 glyph: "♄☌⚷"
 definition: "Saturne conjonction Chiron en synastrie place Saturne d’une personne à moins de 5° de Chiron chez l’autre : une structure posée sur le degré même où quelqu’un a appris à contourner une limite durable. J’y lis une méthode bâtie à deux, partagée par des années de naissance entières, et lue par les maisons."

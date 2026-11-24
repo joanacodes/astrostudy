@@ -5,6 +5,8 @@ description: "Jupiter in the 10th house in a birth chart: growth that shows in y
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "10th house", "houses"]
 weight: 70
 glyph: "♃"
 definition: "Jupiter in the 10th house means Jupiter was near the Midheaven, in the house of public life, work and standing. I read it as growth that shows in the world: a vocation that gives meaning, principles visible in how you work, and people who look to you for direction. It promises no success, and it needs an accurate birth time."

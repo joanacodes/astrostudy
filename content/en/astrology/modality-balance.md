@@ -5,6 +5,8 @@ description: "Modality balance in astrology: counting a chart’s planets in car
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Foundations"]
+tags: ["modalities", "birth chart"]
 weight: 26
 glyph: "✦"
 definition: "Modality balance is the count of a chart’s planets by modality: how many stand in cardinal, fixed and mutable signs. It describes the chart’s pace, whether its energy gathers around starting, holding or adapting. An empty modality has no planet in its four signs, which says nothing about what the person can or can’t do."

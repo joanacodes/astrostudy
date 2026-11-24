@@ -5,6 +5,8 @@ description: "Sun trine Saturn in synastry: one person’s steadiness backs the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Saturn", "trine", "synastry"]
 weight: 29
 glyph: "☉△♄"
 definition: "Sun trine Saturn in synastry gives one person’s direction the easy backing of the other’s steadiness: their Saturn about 120° from the Sun, within 6.8°, the two usually sharing an element. Support arrives without pressure. I read it as reliable backing, at its best when the ease is used rather than left to caution."

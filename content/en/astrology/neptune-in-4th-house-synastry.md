@@ -5,6 +5,8 @@ description: "Their Neptune in your 4th house in synastry: their longing in your
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "4th house", "synastry", "house overlays"]
 weight: 100
 glyph: "♆"
 definition: "With their Neptune in your 4th house, the other person’s Neptune reaches the floor of your chart: home, roots and private life. In synastry their longing for belonging settles where you live: home can feel like a refuge, and your family may look to them like the one they dreamed of. House rules and boundaries tend to stay vague."

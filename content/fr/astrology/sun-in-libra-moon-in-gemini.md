@@ -6,6 +6,8 @@ description: "Soleil en Balance, Lune en Gémeaux : la balance et les jumeaux, 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Balance", "Lune", "Gémeaux"]
 weight: 75
 glyph: "☉♎☽♊"
 definition: "Soleil en Balance, Lune en Gémeaux forme un duo tout en air, pour une naissance quelques jours après une pleine lune, le plus souvent en phase disséminante, les luminaires en trigone par signe. J’y lis un sentiment de soi bâti sur le jugement équitable, et des besoins qui s’apaisent en nommant, en comparant, en parlant d’une émotion avec quelqu’un."

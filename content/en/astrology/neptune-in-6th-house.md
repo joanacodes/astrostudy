@@ -5,6 +5,8 @@ description: "Neptune in the 6th house in a birth chart: daily work as quiet dev
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "6th house", "houses"]
 weight: 102
 glyph: "♆"
 definition: "Neptune in the 6th house means Neptune was in the house of daily work, routines, colleagues and care for the body when you were born. In a chart it turns the ordinary day towards service: work done as devotion, a gift for helping, and routines that hold only when they mean something. Tradition gave this house illness; I predict none."

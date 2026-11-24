@@ -5,6 +5,8 @@ description: "Sun trine Moon in a birth chart: a gibbous-moon birth, purpose and
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Moon", "trine"]
 weight: 4
 glyph: "☉△☽"
 definition: "Sun trine Moon means a birth under a gibbous moon, more than half lit and a few days from full, with the Sun and Moon about 120° apart. In a chart, your direction and your needs reinforce each other. I read it as coherence: what you show and what you feel tend to match."

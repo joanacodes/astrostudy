@@ -6,6 +6,8 @@ description: "Les questions à poser à un astrologue avant de payer : heure de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Lectures"]
+tags: ["lectures"]
 weight: 27
 glyph: "✦"
 definition: "Les questions à poser à un astrologue sont celles qui montrent comment une lecture sera faite avant que vous la payiez : quel zodiaque et quel système de maisons, que faire sans heure de naissance, ce qui ne sera pas prédit, quels thèmes seront lus, et avec quelle assurance. Un astrologue sérieux répond simplement à chacune."

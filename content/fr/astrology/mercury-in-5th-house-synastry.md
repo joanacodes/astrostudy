@@ -6,6 +6,8 @@ description: "Mercure de l’autre dans votre maison 5 en synastrie : l’espri
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 29
 glyph: "☿"
 definition: "Mercure de l’autre dans votre maison 5 invite l’esprit de cette personne dans la maison du jeu, du plaisir, de la créativité et des amours. En synastrie, la conversation devient un plaisir en soi : plaisanteries, histoires, jeux, jeux de mots, parfois séduction. L’inventivité vous vient plus facilement à ses côtés, et vos plaisirs donnent à sa curiosité de quoi jouer."

@@ -6,6 +6,8 @@ description: "Pluton de l’autre dans votre maison 10 en synastrie : sa profon
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "maison 10", "synastrie", "superpositions de maisons"]
 weight: 118
 glyph: "♇"
 definition: "Pluton de l’autre dans votre maison 10 hisse la profondeur d’une autre personne jusqu’au point le plus haut de votre thème : carrière, réputation, autorité. En synastrie, l’ambition s’approfondit, votre rôle public peut se transformer, et votre position fascine l’autre, tandis que le mérite et la conduite des choses demandent des règles claires. Aucune ascension ni chute n’y est annoncée."

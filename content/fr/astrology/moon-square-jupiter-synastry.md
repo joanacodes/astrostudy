@@ -6,6 +6,8 @@ description: "Lune carré Jupiter en synastrie : la générosité de l’une ar
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Jupiter", "carré", "synastrie"]
 weight: 78
 glyph: "☽□♃"
 definition: "Lune carré Jupiter en synastrie : Jupiter d’une personne à environ 90° de la Lune de l’autre, à 6,8° près. L’envie de grandir de l’une touche les besoins de l’autre à une taille ou à un moment qui ne leur va pas. J’y lis une friction qui affine, à deux, le sens de la mesure."

@@ -6,6 +6,8 @@ description: "Vénus en maison 3 dans un thème natal : du tact dans les mots d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "maison 3", "maisons"]
 weight: 39
 glyph: "♀"
 definition: "Vénus en maison 3 met la planète de la valeur et de la relation dans la maison des pensées et des paroles de tous les jours, et des proches. On y lit du tact au quotidien, une vraie chaleur pour la fratrie et le voisinage, et une affection qui voyage par la conversation. Il faut l’heure de naissance."

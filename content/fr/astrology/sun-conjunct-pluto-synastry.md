@@ -6,6 +6,8 @@ description: "Soleil conjonction Pluton en synastrie : la profondeur d’une pe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Pluton", "conjonction", "synastrie"]
 weight: 41
 glyph: "☉☌♇"
 definition: "Soleil conjonction Pluton en synastrie amène la profondeur et la capacité de renouveau d’une personne tout contre l’identité de l’autre, à moins de 8°. Celle qui a le Soleil se sent vue jusqu’au fond, l’autre profondément engagée. J’y lis un contact qui peut fortifier un moi, tant que le changement reste choisi."

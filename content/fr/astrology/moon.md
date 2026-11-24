@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Lune", "signe lunaire"]
 family: "planets"
+categories: ["Planètes et points"]
+tags: ["Lune"]
 weight: 2
 glyph: "☽"
 definition: "Satellite de la Terre, la Lune est, avec le Soleil, l’un des deux luminaires. Le signe qu’elle occupait à votre naissance est votre signe lunaire. Dans un thème natal, elle montre ce dont vous avez besoin pour vous sentir en sécurité : vos humeurs, vos réflexes, le réconfort vers lequel vous vous tournez. Sa maison montre où vous le cherchez."

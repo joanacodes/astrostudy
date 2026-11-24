@@ -5,6 +5,8 @@ description: "Their Mercury in your 2nd house in synastry: their reasoning turne
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "2nd house", "synastry", "house overlays"]
 weight: 26
 glyph: "☿"
 definition: "Their Mercury in your 2nd house puts a second mind to work on what you own, earn and value. In synastry, talk with them turns practical: prices, skills, plans, and what you are worth. They help you name your resources, and your values give their thinking something solid to weigh."

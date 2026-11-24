@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["maison 11", "maison XI"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["maison 11"]
 weight: 11
 glyph: "XI"
 definition: "La maison 11 est la onzième des douze maisons d’un thème natal. Les astrologues y lisent les amis, les groupes et les espoirs : les personnes avec qui vous bâtissez un avenir, et l’avenir que vous aimeriez bâtir. La tradition l’appelait le Génie favorable, et Jupiter y a sa joie."

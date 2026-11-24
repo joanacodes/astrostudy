@@ -5,6 +5,8 @@ description: "Can astrology predict pregnancy? No chart can say if or when you�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Readings"]
+tags: ["limits of astrology"]
 weight: 59
 glyph: "✦"
 definition: "No. A chart can’t tell whether you are pregnant, whether or when you will conceive, how many children you will have, or a baby’s sex. Tradition gave the 5th house children and horary astrologers judged such questions; I never read for pregnancy. A pregnancy test, a doctor or a midwife can tell you what no sky can."

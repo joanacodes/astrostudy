@@ -6,6 +6,8 @@ description: "Mars en maison 1 dans un thème natal : un élan que l’on renco
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "maison 1", "maisons"]
 weight: 49
 glyph: "♂"
 definition: "Mars en maison 1 signifie qu’à votre naissance, Mars se trouvait dans la maison de soi, celle qui commence à l’ascendant. On y lit un élan que les autres rencontrent en premier : vous lancez les choses volontiers, abordez la vie de front et montrez votre énergie dans votre manière d’être. Une heure de naissance exacte est indispensable."

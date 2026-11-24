@@ -5,6 +5,8 @@ description: "The Pink moon, April’s full moon: its dates and signs from 2026 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 23
 glyph: "○"
 definition: "The Pink moon is the almanacs’ name for the full moon of April, after moss pink, a wild phlox that flowers early in the spring of eastern North America. The name says nothing about the Moon’s colour, nor about astrology. In a chart it is a full moon in Libra or Scorpio, with the Sun opposite in Aries or Taurus."

@@ -6,6 +6,8 @@ description: "Mars de l’autre dans votre maison 3 en synastrie : son élan da
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 51
 glyph: "♂"
 definition: "Mars de l’autre dans votre maison 3 place Mars, chez cette personne, parmi vos conversations, vos messages, vos courses et vos proches. En synastrie, son élan aiguise votre façon de parler et de penser en chemin : vous discutez, décidez et agissez plus vite avec elle, et l’autre trouve dans votre esprit vif de quoi croiser le fer."

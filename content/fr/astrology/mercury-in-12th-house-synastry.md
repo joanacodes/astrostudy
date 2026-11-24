@@ -6,6 +6,8 @@ description: "Mercure de l’autre dans votre maison 12 en synastrie : des mots
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "maison 12", "synastrie", "superpositions de maisons"]
 weight: 36
 glyph: "☿"
 definition: "Mercure de l’autre dans votre maison 12 met un esprit fait pour les mots au travail là où vous gardez ce que vous taisez. En synastrie, cette personne vous aide à mettre des mots sur vos émotions, ou vous trouve difficile à lire ; les Poissons, qui en sont le signe naturel, réunissent l’exil et la chute de Mercure."

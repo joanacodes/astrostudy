@@ -5,6 +5,8 @@ description: "The kite in astrology: a grand trine with a fourth planet opposite
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["aspect patterns"]
 weight: 7
 glyph: "△☍"
 definition: "A kite is a grand trine with a fourth planet opposite one corner and sextile the other two. The opposition gives the triangle’s ease a direction and a point of effort, so the talent has something to do. Never more common than the grand trine it needs, it turns up in about 1 chart in 19."

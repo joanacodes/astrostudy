@@ -5,6 +5,8 @@ description: "Chiron in Leo in a birth chart: learning to be seen on your own te
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Leo"]
 weight: 125
 glyph: "⚷♌"
 definition: "Chiron in Leo is a short-lived placement: Chiron crossed the fixed fire sign ruled by the Sun only from September 1940 to July 1943 and from July 1991 to September 1993. In a chart it describes learning to be seen on your own terms, adapting around a tender spot about recognition rather than chasing applause."

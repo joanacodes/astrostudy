@@ -6,6 +6,8 @@ description: "Mars rétrograde en Balance, où Mars est en exil : les boucles d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mars", "rétrograde", "Mars rétrograde", "Balance"]
 weight: 31
 glyph: "♂℞♎"
 definition: "Mars rétrograde en Balance, c’est le recul apparent de Mars dans la Balance, onze semaines environ au printemps : entièrement dans le signe en 2014, de la Balance à la Vierge en 2029. J’y lis l’envie de tenir bon qui rencontre le désir de paix, revue dans la maison qu’occupe la Balance dans votre thème."

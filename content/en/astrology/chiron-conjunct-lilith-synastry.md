@@ -5,6 +5,8 @@ description: "Chiron conjunct Lilith in synastry: one person’s careful, adapte
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "Lilith", "conjunction", "synastry"]
 weight: 376
 glyph: "⚷☌⚸"
 definition: "Chiron conjunct Lilith in synastry is the contact in which the Chiron of one person and the Black Moon Lilith of another fall no more than 3° apart. How one of them copes with a lasting difficulty sits right where the other keeps what refused to be tamed. I read it as recognition that needs care, through the houses."

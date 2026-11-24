@@ -6,6 +6,8 @@ description: "Les « travaux spirituels » payants : des rituels vendus pour 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Lectures"]
+tags: ["arnaques"]
 weight: 63
 glyph: "✦"
 definition: "Les « travaux spirituels » payants sont des rituels qu’une personne dit accomplir pour vous, à distance et contre paiement, pour changer une issue : faire revenir l’être aimé, gagner un procès, lever un blocage. Vous ne voyez jamais le travail, seulement la facture, et nul ne peut être payé pour changer les sentiments d’autrui. Je n’en vends aucun."

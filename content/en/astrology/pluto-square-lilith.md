@@ -5,6 +5,8 @@ description: "Pluto square Lilith in a birth chart: the urge to transform rubbin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Lilith", "square"]
 weight: 357
 glyph: "♇□⚸"
 definition: "Pluto square Lilith is a 90° angle between Pluto and the mean Black Moon Lilith at birth, usually in signs of one modality. Your capacity for deep change presses on the part of you that refuses to be managed, even by you. I read it as friction that teaches a part can be inconvenient without being obsolete."

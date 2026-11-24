@@ -6,6 +6,8 @@ description: "Soleil en maison 9 dans un thème natal : le Soleil dans sa joie,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "maison 9", "maisons"]
 weight: 9
 glyph: "☉"
 definition: "Le Soleil en maison 9 signifie que le Soleil venait de passer son point le plus haut à votre naissance, dans la maison des voyages, des études et des convictions. La tradition en fait la joie du Soleil. J’y lis un moi qui grandit en comprenant, et un but qui fonctionne comme une quête. Il faut l’heure de naissance."

@@ -6,6 +6,8 @@ description: "Neptune en maison 2 dans un thème natal : des valeurs fixées pa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "maison 2", "maisons"]
 weight: 98
 glyph: "♆"
 definition: "Neptune en maison 2 place la planète des idéaux, à votre naissance, dans la maison de l’argent, des biens, des talents et de l’estime de soi. Les valeurs y suivent les idéaux plus que les prix : la générosité, un don d’imagination dont on pourrait vivre, et un argent qui demande un système clair. Rien n’y prédit gain ou perte."

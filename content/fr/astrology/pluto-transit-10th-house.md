@@ -6,6 +6,8 @@ description: "Pluton en transit en maison 10 : vingt et un ans environ pour ret
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Pluton", "maison 10", "transits"]
 weight: 58
 glyph: "♇"
 definition: "Pluton en transit en maison 10 commence quand Pluton atteint votre Milieu du Ciel et dure vingt et un ans environ au milieu, à la latitude de Londres. Ce passage travaille le rôle que vous tenez dans le monde : votre vocation, votre réputation, votre façon d’exercer l’autorité ou d’y répondre. Ni promotion ni chute n’y sont prédites."

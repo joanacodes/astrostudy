@@ -5,6 +5,8 @@ description: "Their Uranus in your 11th house in synastry: new friends, causes a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "11th house", "synastry", "house overlays"]
 weight: 95
 glyph: "♅"
 definition: "Their Uranus in your 11th house finds another person’s Uranus at home in your circle: friends, groups, networks and the future you hope for. In synastry they may widen your circle, bring new causes and shake up old loyalties, while they feel unusually at ease among your people. It describes belonging and change, not who will stay."

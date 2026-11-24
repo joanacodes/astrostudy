@@ -6,6 +6,8 @@ description: "Mars en maison 11 dans un thème natal : un élan pour les amis, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "maison 11", "maisons"]
 weight: 59
 glyph: "♂"
 definition: "Mars en maison 11 donne votre élan aux amis, aux groupes et aux espoirs, dans la maison que la tradition appelait le Génie favorable. On y lit une énergie pour les équipes et les buts communs : vous organisez, rassemblez, défendez vos amis et travaillez pour l’avenir que vous souhaitez. Rien ne se lit ici sans heure de naissance exacte."

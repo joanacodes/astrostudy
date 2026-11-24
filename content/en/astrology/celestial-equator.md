@@ -5,6 +5,8 @@ description: "The celestial equator in astrology: the Earth’s equator projecte
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Foundations"]
+tags: ["astronomy"]
 weight: 34
 glyph: "✦"
 definition: "The celestial equator is the great circle of the sky that lies in the plane of the Earth’s equator. It is tilted by about 23.44° against the ecliptic, the Sun’s yearly path, and the two cross at the equinoxes, 0° Aries and 0° Libra in the tropical zodiac. Declination is measured from it."

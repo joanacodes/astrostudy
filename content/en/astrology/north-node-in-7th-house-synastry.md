@@ -5,6 +5,8 @@ description: "Their North Node in your 7th house in synastry: partnership with y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["North Node", "7th house", "synastry", "house overlays"]
 weight: 151
 glyph: "☊"
 definition: "Their North Node in your 7th house puts where the other person is heading in your house of partners, with their South Node across in your 1st. With you they practise sharing decisions, and when it gets hard they fall back on going their own way. It never means two people are meant to be together."

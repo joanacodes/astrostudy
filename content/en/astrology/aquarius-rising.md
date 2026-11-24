@@ -5,6 +5,8 @@ description: "Aquarius rising: a friendly distance, Saturn and Uranus as your ch
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "rising sign", "Aquarius"]
 weight: 11
 glyph: "↑♒"
 definition: "Aquarius rising means Aquarius, the fixed air sign, was rising on the eastern horizon at your birth: your Ascendant is in Aquarius. It describes a friendly, independent way of meeting the world, open to people while keeping room for yourself. Its chart rulers are Saturn and Uranus, and at London it rises in little more than an hour."

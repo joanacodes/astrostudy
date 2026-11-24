@@ -5,6 +5,8 @@ description: "Mars conjunct Uranus in synastry: one person’s readiness to act 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Uranus", "conjunction", "synastry"]
 weight: 221
 glyph: "♂☌♅"
 definition: "Mars conjunct Uranus in synastry means one person’s Mars sits within 6° of the other’s Uranus. Whatever the second wants to change, try out or break from, the first is ready to act on, so new ideas get moving quickly. I read it as shared momentum for change that works best when both choose the pace."

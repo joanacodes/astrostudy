@@ -6,6 +6,8 @@ description: "Soleil sextile Lune dans un thème natal : une naissance sous un 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lune", "sextile"]
 weight: 2
 glyph: "☉⚹☽"
 definition: "Soleil sextile Lune signifie qu’il y avait un croissant de lune à votre naissance, quelques jours avant ou après la nouvelle lune, avec environ 60° entre le Soleil et la Lune. Dans un thème, votre direction et vos besoins affectifs peuvent s’entraider. J’y lis une offre de coopération, qui fonctionne dès que vous la saisissez."

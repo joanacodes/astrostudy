@@ -6,6 +6,8 @@ description: "Saturne sextile Lilith en synastrie : la structure de l’une pou
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Lilith", "sextile", "synastrie"]
 weight: 307
 glyph: "♄⚹⚸"
 definition: "Saturne sextile Lilith en synastrie, c’est un angle d’environ 60°, à 3° près, entre Saturne d’une personne et la Lune noire Lilith de l’autre. La structure que l’une peut offrir donnerait une forme praticable à ce que l’autre refuse de lâcher, si quelqu’un saisit l’offre. Les maisons, et la Lilith moyenne, guident ma lecture."

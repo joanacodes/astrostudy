@@ -5,6 +5,8 @@ description: "Chiron opposite Lilith in a birth chart: accommodation and refusal
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Lilith", "opposition"]
 weight: 369
 glyph: "⚷☍⚸"
 definition: "Chiron opposite Lilith sets Chiron and the mean Black Moon Lilith about 180° apart in a birth chart. The way you adapt around a lasting difficulty faces the part of you that refuses to be tamed, and each end makes the other easier to see. I read it as a polarity that builds judgement, not a war inside you."

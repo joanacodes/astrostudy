@@ -6,6 +6,8 @@ description: "Soleil en Sagittaire, Lune en Bélier : deux signes de feu en tri
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Sagittaire", "Lune", "Bélier"]
 weight: 97
 glyph: "☉♐☽♈"
 definition: "Soleil en Sagittaire, Lune en Bélier, c’est une naissance où la Lune était quatre signes devant le Soleil, en Bélier, une semaine environ après une nouvelle lune, juste après le premier quartier. Les deux luminaires sont en feu. J’y lis un but lointain et un premier pas rapide qui s’entendent, et s’arrêtent rarement."

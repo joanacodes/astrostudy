@@ -5,6 +5,8 @@ description: "Their Sun in your 7th house in synastry: their purpose in your hou
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "7th house", "synastry", "house overlays"]
 weight: 7
 glyph: "☉"
 definition: "Their Sun in your 7th house sets the other person’s Sun in your house of partners, where you meet someone face to face. In synastry their purpose lands where you look for a counterpart: they tend to feel like a partner, an equal or a mirror to you, and their own direction grows clearer beside you."

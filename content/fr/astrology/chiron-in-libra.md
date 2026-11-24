@@ -6,6 +6,8 @@ description: "Chiron en Balance dans un thème natal : s’adapter par l’équ
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Balance"]
 weight: 127
 glyph: "⚷♎"
 definition: "Chiron en Balance est le signe de Chiron le moins courant parmi les personnes nées de 1930 à 2009 : seules l’ont celles nées de novembre 1944 à novembre 1946 ou de septembre 1995 à septembre 1997. Dans un thème, il décrit une adaptation par l’équité et la négociation, autour d’un point sensible : qu’on vous traite d’égal à égal."

@@ -6,6 +6,8 @@ description: "Mars carré Uranus en synastrie : l’élan de l’une rencontre 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Uranus", "carré", "synastrie"]
 weight: 223
 glyph: "♂□♅"
 definition: "Mars carré Uranus en synastrie signifie que Mars, chez une personne, se trouve à environ 90° d’Uranus chez l’autre, à 5,1° près. L’élan de la première rencontre sans cesse l’envie de la seconde de changer le plan ou de garder sa liberté. J’y lis une friction qui apprend à changer les choses ensemble, jamais une instabilité."

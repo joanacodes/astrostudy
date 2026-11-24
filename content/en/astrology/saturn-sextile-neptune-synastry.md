@@ -5,6 +5,8 @@ description: "Saturn sextile Neptune in synastry: one person can give the other�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Neptune", "sextile", "synastry"]
 weight: 292
 glyph: "♄⚹♆"
 definition: "Saturn sextile Neptune in synastry means one person’s Saturn is about 60° from the other’s Neptune, within 3°. One person’s practical sense can give the other’s ideal a first step, and the ideal can give a routine its reason. I read it as an exchange on offer between two generations, which works only when both take part."

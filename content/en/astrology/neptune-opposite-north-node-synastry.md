@@ -5,6 +5,8 @@ description: "Neptune opposite North Node in synastry: one person’s Neptune si
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "North Node", "opposition", "synastry"]
 weight: 360
 glyph: "♆☍☊"
 definition: "In synastry, Neptune opposite North Node means a Neptune in one chart facing the North Node of another, within 4°, and therefore sitting on that person’s South Node. One person’s imagination meets the other on ground they know by heart, while the other’s growth faces it across the chart. I read it as a seesaw between home and growth."

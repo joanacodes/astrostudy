@@ -5,6 +5,8 @@ description: "Moon conjunct Saturn in a birth chart: feelings with a frame aroun
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Saturn", "conjunction"]
 weight: 73
 glyph: "☽☌♄"
 definition: "Moon conjunct Saturn is the Moon and Saturn meeting in one part of your birth chart, within a few degrees. Need and structure work as one: feelings come with a frame around them, and care is given in reliable, practical forms. I read it as a steadiness learned early, with a softness that tends to arrive later."

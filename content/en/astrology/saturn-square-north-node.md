@@ -5,6 +5,8 @@ description: "Saturn square North Node in a birth chart: structure across the pa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "North Node", "square"]
 weight: 302
 glyph: "♄□☊"
 definition: "Saturn square North Node puts Saturn about 90° from the North Node at birth, which also means 90° from the South Node. In a chart, duties and limits cut across both your old habits and your new direction: a friction that teaches you to grow at a pace your responsibilities can bear, bringing old strengths along."

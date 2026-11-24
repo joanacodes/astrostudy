@@ -5,6 +5,8 @@ description: "Pluto conjunct Chiron in synastry: one person’s depth arrives at
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "Chiron", "conjunction", "synastry"]
 weight: 361
 glyph: "♇☌⚷"
 definition: "In synastry, Pluto conjunct Chiron brings one person’s Pluto within 4° of the other’s Chiron. The urge to renew things at the root meets the place where the other has learned to adapt around a lasting limit, which can free an old workaround or press on it too hard. I read it slowly, through the houses, with both people’s consent."

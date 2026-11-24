@@ -5,6 +5,8 @@ description: "Mars retrograde in Cancer, where Mars is in fall: the winter loops
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mars", "retrograde", "Mars retrograde", "Cancer"]
 weight: 28
 glyph: "♂℞♋"
 definition: "Mars retrograde in Cancer is Mars, seen from Earth, backing through Cancer for about eleven weeks of winter: three times from 2000 to 2040, most recently from December 2024 to February 2025. I read it as protective drive turning back, the fights taken on for others and the needs left unsaid, in the house Cancer occupies in your chart."

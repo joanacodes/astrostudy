@@ -6,6 +6,8 @@ description: "Lune trigone Vénus en synastrie : une affection quotidienne qui 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Vénus", "trigone", "synastrie"]
 weight: 69
 glyph: "☽△♀"
 definition: "Dans Lune trigone Vénus en synastrie, 120° environ, à 6,8° près, séparent la Lune d’une personne de la Vénus de l’autre, le plus souvent dans deux signes qui partagent leur élément. Le soin offert et le soin attendu s’accordent sans effort, au quotidien. J’y lis une douce aisance, à entretenir plutôt qu’à tenir pour acquise."

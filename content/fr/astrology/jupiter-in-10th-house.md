@@ -6,6 +6,8 @@ description: "Jupiter en maison 10 dans un thème natal : une croissance qui se
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "maison 10", "maisons"]
 weight: 70
 glyph: "♃"
 definition: "Jupiter en maison 10 signifie que Jupiter se trouvait près du Milieu du Ciel, dans la maison de la vie publique, du travail et de la position. J’y lis une croissance qui se voit : une vocation qui donne du sens, des principes visibles, des gens qui vous demandent une direction. Rien n’y promet la réussite ; il faut l’heure."

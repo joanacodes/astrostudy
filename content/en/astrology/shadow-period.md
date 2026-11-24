@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["shadow period"]
 family: "dignities"
+categories: ["Planets and points"]
+tags: ["retrograde"]
 weight: 4
 glyph: "✦"
 definition: "The shadow period is the time a planet spends moving forward over the degrees its retrograde covers: before the retrograde, from the degree where it will later turn direct, and after, until it regains the degree where it turned back. It is a convention of modern astrologers, used mostly for Mercury, and not something astronomy recognises."

@@ -5,6 +5,8 @@ description: "Their Lilith in your 7th house in synastry: what they won’t trad
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "7th house", "synastry", "house overlays"]
 weight: 139
 glyph: "⚸"
 definition: "Their Lilith in your 7th house settles the other person’s mean Black Moon Lilith in your house of partnership. In synastry what they won’t trade away meets your bonds: neither of you gets to shrink, you may meet in them what you once set aside, and your way of relating can provoke or free them."

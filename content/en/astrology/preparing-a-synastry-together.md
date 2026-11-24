@@ -5,6 +5,8 @@ description: "Preparing a synastry together: asking the other person first, find
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Readings"]
+tags: ["synastry", "readings"]
 weight: 29
 glyph: "✦"
 definition: "Preparing a synastry together means doing it with the other person rather than about them: they know before their birth details go anywhere, you’re both adults, both birth times are found, and you choose the bond and the questions side by side. For co-workers, the colleague must also agree."

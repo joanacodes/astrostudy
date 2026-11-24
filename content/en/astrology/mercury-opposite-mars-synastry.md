@@ -5,6 +5,8 @@ description: "Mercury opposite Mars in synastry: one person talks it through, th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Mars", "opposition", "synastry"]
 weight: 125
 glyph: "☿☍♂"
 definition: "Mercury opposite Mars in synastry means one person’s Mercury is about 180° from the other’s Mars, within 6°, usually in opposite signs. One person’s thinking and talking face the other’s drive across the zodiac, and each tends to hold one end. I read it as a seesaw between reflection and action, never as a fight."

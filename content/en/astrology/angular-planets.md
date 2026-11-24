@@ -5,6 +5,8 @@ description: "Angular planets in astrology: planets close to the Ascendant, Desc
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 31
 glyph: "✦"
 definition: "An angular planet is one close to an angle: the Ascendant, the Descendant, the Midheaven or the IC. Some astrologers count any planet in the 1st, 4th, 7th or 10th house; others only those within a few degrees of the angle itself. Placed there, a planet tends to show in how a life looks and moves."

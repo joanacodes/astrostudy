@@ -5,6 +5,8 @@ description: "Moon square Mars in a birth chart: need and drive at right angles,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Mars", "square"]
 weight: 65
 glyph: "☽□♂"
 definition: "Moon square Mars sets the Moon and Mars about 90° apart in a birth chart, usually three signs apart. Your needs and your actions keep pulling across each other: feelings push for action, or action runs past feelings. I see in it a friction that trains you to assert a need early, never a temper."

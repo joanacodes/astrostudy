@@ -6,6 +6,8 @@ description: "Uranus de l’autre dans votre maison 10 en synastrie : indépend
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "maison 10", "synastrie", "superpositions de maisons"]
 weight: 94
 glyph: "♅"
 definition: "Uranus de l’autre dans votre maison 10 dirige Uranus vers le sommet de votre thème : la carrière, la réputation, le rôle public. En synastrie, cette personne encourage peut-être un chemin peu ordinaire, un changement de cap ou plus d’indépendance au travail, ou rend votre vie publique instable, et se sent libre de réinventer vos ambitions. Rien n’y prédit votre carrière."

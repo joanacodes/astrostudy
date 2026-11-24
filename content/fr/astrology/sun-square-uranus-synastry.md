@@ -6,6 +6,8 @@ description: "Soleil carré Uranus en synastrie : le besoin de changement d’u
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Uranus", "carré", "synastrie"]
 weight: 33
 glyph: "☉□♅"
 definition: "Soleil carré Uranus en synastrie croise la direction d’une personne avec le besoin de changement de l’autre : Uranus à environ 90° du Soleil, à 6,8° près, souvent dans des signes d’un même mode. Les projets sont questionnés, la liberté se négocie. J’y lis une friction qui peut réformer une vie commune, jamais un verdict sur la paire."

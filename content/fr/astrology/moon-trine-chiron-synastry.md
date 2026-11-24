@@ -6,6 +6,8 @@ description: "Lune trigone Chiron en synastrie : un soin qui tombe juste sans e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Chiron", "trigone", "synastrie"]
 weight: 104
 glyph: "☽△⚷"
 definition: "Lune trigone Chiron en synastrie signifie que la Lune d’une personne se trouve à environ 120° du Chiron de l’autre, à 6,8° près, souvent dans des signes d’un seul élément. Les besoins de l’une et la manière dont l’autre vit avec une sensibilité durable s’accordent. J’y lis un soin juste, dont je demande le prix."

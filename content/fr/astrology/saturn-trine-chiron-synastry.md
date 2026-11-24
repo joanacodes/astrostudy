@@ -6,6 +6,8 @@ description: "Saturne trigone Chiron en synastrie : les routines de l’une ép
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Chiron", "trigone", "synastrie"]
 weight: 304
 glyph: "♄△⚷"
 definition: "Saturne trigone Chiron en synastrie, ce sont environ 120°, à 4,25° près, entre Saturne chez une personne et Chiron chez l’autre, en général dans des signes d’un même élément. La structure de l’une épouse la façon dont l’autre fait avec une limite durable, presque sans discussion. J’y lis un partenariat facile, dont les coûts doivent pourtant se dire."

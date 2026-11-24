@@ -6,6 +6,8 @@ description: "Lune en maison 11 dans un thème natal : l’appartenance trouvé
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "maison 11", "maisons"]
 weight: 23
 glyph: "☽"
 definition: "La Lune en maison 11 signifie que la Lune se trouvait dans la maison des amis, des groupes et des espoirs, que la tradition appelait le Génie favorable, à votre naissance. J’y lis une appartenance trouvée dans un cercle choisi, un soin donné à ses membres, et des espoirs qui leur sont liés. Il faut l’heure de naissance."

@@ -6,6 +6,8 @@ description: "Lune trigone Jupiter en synastrie : encouragement et réconfort v
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Jupiter", "trigone", "synastrie"]
 weight: 79
 glyph: "☽△♃"
 definition: "Lune trigone Jupiter en synastrie : Jupiter d’une personne à environ 120° de la Lune de l’autre, à 6,8° près, en général dans des signes de même élément. La vue large de l’une rejoint sans effort les besoins de l’autre, et le réconfort revient en sens inverse. J’y lis un encouragement facile, qui gagne à laisser d’abord l’émotion se poser."

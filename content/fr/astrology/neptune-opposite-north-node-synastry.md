@@ -6,6 +6,8 @@ description: "Neptune opposition Nœud Nord en synastrie : Neptune, chez l’un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Nœud Nord", "opposition", "synastrie"]
 weight: 360
 glyph: "♆☍☊"
 definition: "En synastrie, Neptune opposition Nœud Nord, c’est Neptune, dans un thème, à l’opposé du Nœud Nord d’un autre, à 4° près : sur son Nœud Sud, donc. L’imagination de l’une rejoint l’autre sur un terrain qu’elle connaît par cœur, apaisant, pendant que sa croissance lui fait face. J’y lis une balançoire entre le foyer et la croissance."

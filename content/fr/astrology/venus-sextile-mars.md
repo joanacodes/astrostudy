@@ -6,6 +6,8 @@ description: "Vénus sextile Mars dans un thème natal : la rencontre la plus c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Mars", "sextile"]
 weight: 156
 glyph: "♀⚹♂"
 definition: "Vénus sextile Mars signifie qu’un sixième du cercle, environ 60°, séparait Vénus et Mars à votre naissance, le plus souvent entre deux éléments complémentaires. Dans un thème, ce sextile fait coopérer le goût et la poursuite, souvent sous la forme d’un don pour le premier pas bienvenu. Comme tout sextile, celui-ci ne travaille que si vous vous en servez."

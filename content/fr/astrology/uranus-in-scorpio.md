@@ -6,6 +6,8 @@ description: "Uranus en Scorpion dans un thème natal : les tabous interrogés,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Scorpion"]
 weight: 92
 glyph: "♅♏"
 definition: "Uranus en Scorpion, c’est la planète du changement dans un signe d’eau fixe gouverné par Pluton et, dans la tradition, par Mars : celui de la profondeur et de la confiance. Les personnes nées de novembre 1974 à novembre 1981 l’ont en commun. J’y lis une génération qui interroge ce que l’on cache ; votre maison dit où cette question vous appartient."

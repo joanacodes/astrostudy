@@ -6,6 +6,8 @@ description: "Lune sextile Mercure dans un thème natal : une porte ouverte ent
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Mercure", "sextile"]
 weight: 54
 glyph: "☽⚹☿"
 definition: "Lune sextile Mercure signifie qu’à votre naissance, environ 60° séparaient la Lune et Mercure, en général à deux signes d’écart. Dans un thème, cet aspect ouvre une porte entre sentir et penser : les mots peuvent apaiser une humeur, et une humeur guider une pensée, dès que vous les laissez se rencontrer. J’y lis une aide qui attend qu’on s’en serve."

@@ -6,6 +6,8 @@ description: "Lune opposition Neptune en synastrie : les besoins quotidiens de 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Neptune", "opposition", "synastrie"]
 weight: 95
 glyph: "☽☍♆"
 definition: "Lune opposition Neptune en synastrie : Neptune d’une personne face à la Lune de l’autre, à environ 180°, à 8° près. L’une tient d’ordinaire les besoins concrets et quotidiens, l’autre l’idéal, l’imaginaire et la compassion. J’y lis une polarité entre le réel et le rêvé, que deux personnes peuvent apprendre à partager."

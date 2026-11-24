@@ -5,6 +5,8 @@ description: "Benefics and malefics in astrology: tradition’s good and hard pl
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 22
 glyph: "♃♀♄♂"
 definition: "Benefics and malefics are tradition’s names for the planets thought to bring good or difficulty: Jupiter and Venus the benefics, Saturn and Mars the malefics. They are the old books’ words, not verdicts. I read each planet by what it does, so a malefic shows where effort, limits or drive live in a life, never misfortune."

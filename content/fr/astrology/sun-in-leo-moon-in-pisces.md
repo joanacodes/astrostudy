@@ -6,6 +6,8 @@ description: "Soleil en Lion, Lune en Poissons : le feu fixe à côté de l’e
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion", "Lune", "Poissons"]
 weight: 60
 glyph: "☉♌☽♓"
 definition: "Soleil en Lion, Lune en Poissons réunit le feu fixe et l’eau mutable à travers un quinconce, pour une naissance survenue quelques jours après une pleine lune. Le Soleil est dans son propre signe ; Neptune et Jupiter gouvernent celui de la Lune. J’y lis une scène éclairée avec la mer derrière : un moi net, des émotions presque sans murs."

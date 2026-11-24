@@ -6,6 +6,8 @@ description: "Soleil conjonction Uranus dans un thème natal : la différence c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Uranus", "conjonction"]
 weight: 23
 glyph: "☉☌♅"
 definition: "Soleil conjonction Uranus signifie que votre Soleil et Uranus se trouvaient ensemble à la naissance, à quelques degrés au plus, en général dans un même signe. Dans un thème, l’identité et l’envie de se distinguer et de renouveler avancent comme une seule. J’y lis une originalité inscrite dans l’identité : la différence vous appartient, au-delà d’une phase."

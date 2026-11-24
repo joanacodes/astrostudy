@@ -6,6 +6,8 @@ description: "Lune en maison 9 dans un thème natal : des émotions apaisées p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "maison 9", "maisons"]
 weight: 21
 glyph: "☽"
 definition: "La Lune en maison 9 signifie que la Lune se trouvait dans la maison du sens, des convictions, des longs voyages et des études, que la tradition appelait le Dieu. J’y lis des émotions stabilisées par la vue d’ensemble, et un sentiment de foyer trouvé dans l’inconnu. Il faut l’heure de naissance."

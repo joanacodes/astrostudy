@@ -5,6 +5,8 @@ description: "Saturn in Gemini in a birth chart: careful words and a mind built 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Gemini"]
 weight: 75
 glyph: "♄♊"
 definition: "With Saturn in Gemini, the planet of slow mastery works through words and curiosity, in mutable air ruled by Mercury. It belongs to everyone born in roughly 1942–44, 1971–74 or 2000–03. Think of a mind built carefully: confidence in your own ideas learned slowly, and words that are weighed, then kept."

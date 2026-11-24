@@ -6,6 +6,8 @@ description: "Les éclipses lunaires en astrologie : une pleine lune dans l’o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "éclipses"]
 weight: 33
 glyph: "◐"
 definition: "Une éclipse lunaire est une pleine lune assez proche d’un des nœuds lunaires pour traverser l’ombre de la Terre : en entier, en partie, ou seulement sa pâle frange extérieure. En astrologie, elle compte à environ trois degrés d’un point natal, au bout de la Lune ou du Soleil, moins par la pénombre, jamais comme un présage."

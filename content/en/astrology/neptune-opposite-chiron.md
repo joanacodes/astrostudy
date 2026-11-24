@@ -5,6 +5,8 @@ description: "Neptune opposite Chiron in a birth chart: the ideal facing the ten
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Chiron", "opposition"]
 weight: 339
 glyph: "♆☍⚷"
 definition: "Neptune opposite Chiron means Neptune and Chiron about 180° apart, the rarest of the pair's aspects in my count: about 1 person in 49, all born between 1988 and 1991. In a chart, ideals and compassion face the place that stays tender, and the work is to hold both ends, often learned through other people."

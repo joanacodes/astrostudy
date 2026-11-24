@@ -6,6 +6,8 @@ description: "Mercure trigone Vénus en synastrie, qui n’existe qu’à deux 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Vénus", "trigone", "synastrie"]
 weight: 119
 glyph: "☿△♀"
 definition: "Mercure trigone Vénus en synastrie signifie que Mercure, chez une personne, se trouve à environ 120° de la Vénus de l’autre, à 5,1° près : aucun thème natal ne contient cet angle. La pensée de l’une et le goût de l’autre partagent souvent un élément et s’entendent sans effort. J’y vois une conversation aisée, qui a encore besoin de contradiction."

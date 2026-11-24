@@ -5,6 +5,8 @@ description: "Mars retrograde in astrology: why Mars turns back about every two 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "dignities"
+categories: ["Planets and points"]
+tags: ["Mars", "retrograde", "Mars retrograde"]
 weight: 7
 glyph: "♂℞"
 definition: "Mars retrograde is the two months or more, about every two years, when Mars seems to move backwards through the zodiac, seen from Earth. It happens as Earth overtakes Mars, with Mars opposite the Sun and at its brightest. I read it as a season for rethinking how effort is spent, never as a ban on acting."

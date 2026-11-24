@@ -5,6 +5,8 @@ description: "Their Venus in your 6th house in synastry: affection in practical 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "6th house", "synastry", "house overlays"]
 weight: 42
 glyph: "♀"
 definition: "Their Venus in your 6th house puts affection into your daily round: chores, routines, work and the small habits of self-care. In synastry their care shows in practical help and pleasant company at work; Virgo, the 6th’s natural sign, is Venus’s fall, and love here prefers details to grand gestures. It never describes health."

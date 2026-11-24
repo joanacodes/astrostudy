@@ -5,6 +5,8 @@ description: "North Node transiting the 1st house: about 17 months of learning t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "1st house", "transits"]
 weight: 73
 glyph: "☊"
 definition: "North Node transiting the 1st house is the stretch, usually a little under a year and a half, when the node moves backwards through the house of the self while the South Node crosses your 7th. It points towards acting on your own judgement and away from a habit of fitting round others. It decides nothing for you."

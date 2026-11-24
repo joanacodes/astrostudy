@@ -6,6 +6,8 @@ description: "Soleil trigone Saturne en synastrie : la stabilité d’une perso
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Saturne", "trigone", "synastrie"]
 weight: 29
 glyph: "☉△♄"
 definition: "Soleil trigone Saturne en synastrie donne à la direction d’une personne l’appui facile de la stabilité de l’autre, dont Saturne forme avec ce Soleil un angle d’environ 120°, à 6,8° près, souvent dans le même élément. Le soutien arrive sans pression. J’y lis un appui fiable, à son meilleur quand l’aisance sert vraiment."

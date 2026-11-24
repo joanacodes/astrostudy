@@ -6,6 +6,8 @@ description: "Mercure en Capricorne dans un thème natal : un esprit stratège 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Capricorne"]
 weight: 34
 glyph: "☿♑"
 definition: "Mercure en Capricorne place la planète de la pensée et de la parole en terre cardinale, le signe de Saturne. On y lit un esprit stratège et concret, qui planifie par étapes, confronte les idées au réel et parle peu, mais avec poids. Saturne, son maître, est ce que je regarde ensuite. Environ 1 personne sur 11 l’a."

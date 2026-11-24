@@ -5,6 +5,8 @@ description: "Moon sextile Mars in a birth chart: everyday courage that answers 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Mars", "sextile"]
 weight: 64
 glyph: "☽⚹♂"
 definition: "Moon sextile Mars has the Moon and Mars about 60° apart when you're born, generally two signs from each other. Feelings and drive cooperate: when something matters, the energy to act on it is there, as long as you reach for it. I read it as everyday courage that answers when it’s called."

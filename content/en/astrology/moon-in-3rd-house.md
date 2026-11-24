@@ -5,6 +5,8 @@ description: "Moon in the 3rd house in a birth chart: the Moon’s joy, feelings
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "3rd house", "houses"]
 weight: 15
 glyph: "☽"
 definition: "Moon in the 3rd house means the Moon sat in the house of daily life, conversation and the people you grew up alongside, the house tradition gives it as its joy. I read it as feelings that settle through talk, writing and familiar routines close to home. It needs the birth time."

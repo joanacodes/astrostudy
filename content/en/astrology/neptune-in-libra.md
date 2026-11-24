@@ -5,6 +5,8 @@ description: "Neptune in Libra in a birth chart: the 1942–1957 generation’s 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Libra"]
 weight: 103
 glyph: "♆♎"
 definition: "Neptune in Libra is Neptune, the planet of ideals and compassion, in the cardinal air sign of partnership and balance, where it stayed from October 1942 to August 1957. The generation born then shares one high ideal, perfect harmony: love imagined as a meeting of equals, and a longing for fairness and peace."

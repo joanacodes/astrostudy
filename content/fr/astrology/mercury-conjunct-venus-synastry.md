@@ -6,6 +6,8 @@ description: "Mercure conjonction Vénus en synastrie : la façon de penser de 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Vénus", "conjonction", "synastrie"]
 weight: 116
 glyph: "☿☌♀"
 definition: "Mercure conjonction Vénus en synastrie signifie que Mercure, chez une personne, se trouve à moins de 6° de la Vénus de l’autre. Ce que l’une pense et dit rejoint ce que l’autre estime précieux, et la conversation vient avec l’appréciation. J’y lis une rencontre de l’esprit et du goût, qui doit garder place au désaccord."

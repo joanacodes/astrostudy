@@ -5,6 +5,8 @@ description: "The bucket chart in astrology: nine planets in half the wheel and 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["chart shapes"]
 weight: 18
 glyph: "✦"
 definition: "A bucket chart has nine planets within half of the wheel and the tenth alone in the other half, like a handle. Marc Edmund Jones gave it its name. Astrologers give the handle planet extra weight; I give it a closer look, not the last word. By the count’s simple rule, about 1 chart in 3 is a bucket."

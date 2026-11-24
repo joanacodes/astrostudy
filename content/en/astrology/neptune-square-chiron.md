@@ -5,6 +5,8 @@ description: "Neptune square Chiron in a birth chart: hope meeting a limit, the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Chiron", "square"]
 weight: 337
 glyph: "♆□⚷"
 definition: "Neptune square Chiron means Neptune and Chiron about 90° apart, an angle that came in three groups of years in the count: 1933–38, 1953–56 and 1996–97. In a chart it sets the wish for a difficulty to dissolve against the slow work of adapting to it, a friction that turns hope into something practical."

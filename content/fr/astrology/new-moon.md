@@ -6,6 +6,8 @@ description: "La nouvelle lune en astrologie : le Soleil et la Lune au même de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "phases lunaires"]
 weight: 8
 glyph: "●"
 definition: "La nouvelle lune est le moment où la Lune passe devant le Soleil, au même degré du zodiaque, sa face éclairée tournée de l’autre côté : elle est invisible. Elle ouvre chaque cycle lunaire, d’environ 29 jours et demi, et tombe toujours dans le signe du Soleil. Une naissance à la nouvelle lune donne un Soleil conjoint à la Lune."

@@ -6,6 +6,8 @@ description: "Mars en maison 2 dans un thème natal : un élan qui gagne sa vie
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "maison 2", "maisons"]
 weight: 50
 glyph: "♂"
 definition: "Mars en maison 2 place Mars dans la maison des ressources et de la valeur personnelle. On y lit un effort tourné vers ce qui se tient en main : vous voulez gagner votre vie par vous-même, bâtir des compétences dont vivre, et défendre votre valeur. Il faut une heure de naissance exacte, et ce placement ne prédit jamais l’argent."

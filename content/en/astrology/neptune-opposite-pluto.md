@@ -5,6 +5,8 @@ description: "Neptune opposite Pluto in a birth chart: the widest angle of the p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Pluto", "opposition"]
 weight: 334
 glyph: "♆☍♇"
 definition: "Neptune opposite Pluto would set the two planets about 180° apart, the widest angle they can make. Nobody born between 1930 and 2009 has it: the pair stayed near 60° then. As a polarity, it would face the longing to merge with something larger against the drive to transform from the root."

@@ -6,6 +6,8 @@ description: "Vénus carré Neptune en synastrie : l’une veut savoir où elle
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Neptune", "carré", "synastrie"]
 weight: 188
 glyph: "♀□♆"
 definition: "Vénus carré Neptune en synastrie signifie que Vénus, chez une personne, se trouve à environ 90° de Neptune chez l’autre, à 5,1° près. Les préférences nettes de la première croisent sans cesse les idéaux de la seconde, qui aime laisser les choses ouvertes. J’y lis un frottement qui peut rendre deux adultes clairs et doux à la fois."

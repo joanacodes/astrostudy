@@ -5,6 +5,8 @@ description: "Scorpio rising: a watchful threshold, Mars and Pluto as your chart
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "rising sign", "Scorpio"]
 weight: 8
 glyph: "↑♏"
 definition: "Scorpio rising means Scorpio, the fixed water sign, was rising on the eastern horizon at your birth: your Ascendant is in Scorpio. It describes a watchful, private way of meeting the world, with a depth people sense early. Its chart rulers are Mars and Pluto, and at London it takes nearly three hours to rise."

@@ -6,6 +6,8 @@ description: "Lune conjonction Uranus en synastrie : le besoin de familier de l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Uranus", "conjonction", "synastrie"]
 weight: 86
 glyph: "☽☌♅"
 definition: "Lune conjonction Uranus en synastrie : Uranus d’une personne à moins de 8° de la Lune de l’autre. L’envie de renouveau et de liberté de l’une rencontre les besoins et les habitudes de l’autre. J’y lis un contact qui réveille ; je surveille le moment où les changements de l’une mènent les humeurs de l’autre."

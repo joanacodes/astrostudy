@@ -5,6 +5,8 @@ description: "Mars square Lilith in synastry: one person’s push meets the othe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Lilith", "square", "synastry"]
 weight: 243
 glyph: "♂□⚸"
 definition: "Mars square Lilith in synastry means the other’s mean Black Moon Lilith sits at a right angle to one person’s Mars, within 5.1°. One person’s push keeps meeting the other’s refusal to be managed, and the rub can fascinate as much as it annoys. I take it as friction that teaches clear boundaries, respected on both sides."

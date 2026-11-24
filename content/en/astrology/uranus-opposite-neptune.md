@@ -5,6 +5,8 @@ description: "Uranus opposite Neptune in a birth chart: why nobody born 1930–2
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Neptune", "opposition"]
 weight: 309
 glyph: "♅☍♆"
 definition: "Uranus opposite Neptune is a 180° angle between the two planets. Nobody born between 1930 and 2009 has it: in those eighty years they never came within 6° of it. In meaning it sets the urge to reform against the pull of an ideal, a polarity met today in synastry and in transits."

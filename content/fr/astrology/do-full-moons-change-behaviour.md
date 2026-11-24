@@ -6,6 +6,8 @@ description: "La pleine lune change-t-elle les comportements ? Une méta-analy
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["Lune", "test"]
 weight: 8
 glyph: "✦"
 definition: "L’idée qu’on se comporte autrement à la pleine lune a donné à l’anglais le mot lunatic. Mise à l’épreuve, elle ne tient pas : une méta-analyse de 37 études n’a trouvé aucun lien significatif entre les phases de la Lune et le comportement, et près de la moitié des études affirmant un lien comportaient des erreurs statistiques. Le sommeil reste débattu."

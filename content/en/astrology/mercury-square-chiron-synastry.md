@@ -5,6 +5,8 @@ description: "Mercury square Chiron in synastry: one person’s questions graze 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Chiron", "square", "synastry"]
 weight: 153
 glyph: "☿□⚷"
 definition: "Mercury square Chiron in synastry means one person’s Mercury is about 90° from the other’s Chiron, within 5.1°. One person’s way of asking and advising keeps grazing what the other has learned to work around. I see friction there that forces a better vocabulary on both sides, never proof that two people can’t talk."

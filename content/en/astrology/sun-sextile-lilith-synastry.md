@@ -5,6 +5,8 @@ description: "Sun sextile Lilith in synastry: one person’s purpose opens a doo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Lilith", "sextile", "synastry"]
 weight: 52
 glyph: "☉⚹⚸"
 definition: "Sun sextile Lilith in synastry is a 60° contact, within 4.8°, between one person’s Sun and the other’s Black Moon Lilith. One person’s sense of direction gives the other’s refused, untamed side a friendly opening. I read it as an invitation both can take up, and one that does little until somebody does."

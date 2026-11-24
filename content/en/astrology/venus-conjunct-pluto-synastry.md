@@ -5,6 +5,8 @@ description: "Venus conjunct Pluto in synastry: what one person values meets the
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Pluto", "conjunction", "synastry"]
 weight: 191
 glyph: "♀☌♇"
 definition: "Venus conjunct Pluto in synastry means one person’s Venus sits within 6° of the other’s Pluto. What the first person values meets the second’s urge to reach the root of things and renew them, so tastes and attachments seldom stay shallow. I read it as depth shared between two adults, never as fate."

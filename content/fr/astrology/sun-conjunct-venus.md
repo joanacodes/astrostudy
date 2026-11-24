@@ -6,6 +6,8 @@ description: "Soleil conjonction Vénus dans un thème natal : ce qui compte po
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vénus", "conjonction"]
 weight: 7
 glyph: "☉☌♀"
 definition: "Soleil conjonction Vénus signifie que Vénus se tenait tout près du Soleil à votre naissance, à quelques degrés. Vue de la Terre, Vénus reste à moins de 47° environ du Soleil, ce qui exclut le sextile et tout aspect plus large. Dans un thème, vos valeurs et votre identité ne font qu’un : la chaleur et le jugement au centre."

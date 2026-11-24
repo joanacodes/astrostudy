@@ -5,6 +5,8 @@ description: "Sun conjunct Moon in synastry: who one person is lands where the o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Moon", "conjunction", "synastry"]
 weight: 1
 glyph: "☉☌☽"
 definition: "Sun conjunct Moon in synastry means one person’s Sun sits within 8° of the other’s Moon. Who one of them is lands right where the other looks for comfort and safety. I read it as recognition on both sides, and I watch for the point where one person’s plans and the other’s needs stop being told apart."

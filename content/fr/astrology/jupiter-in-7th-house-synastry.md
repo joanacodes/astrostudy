@@ -6,6 +6,8 @@ description: "Jupiter de l’autre dans votre maison 7 en synastrie : sa géné
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 67
 glyph: "♃"
 definition: "Jupiter de l’autre dans votre maison 7 signifie que Jupiter, chez cette personne, retrouve vos partenaires et vos alliances, les personnes que vous traitez en égales. En synastrie, sa générosité fait du partenariat un lieu où grandir : l’autre donne de bonne foi et partage son monde, et trouve en vous une réponse d’égal à égal ; rien n’y prédit de mariage."

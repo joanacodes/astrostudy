@@ -6,6 +6,8 @@ description: "Chiron sextile Nœud Nord en synastrie : le savoir-faire de l’u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "Nœud Nord", "sextile", "synastrie"]
 weight: 382
 glyph: "⚷⚹☊"
 definition: "Chiron sextile Nœud Nord en synastrie relie le Chiron d’une personne au Nœud Nord d’une autre à environ 60°, à 1,8° près, ce qui le laisse à 120° de son Nœud Sud. Ce que l’une a appris en vivant avec une difficulté ouvre une porte vers la croissance de l’autre. J’y lis une offre qu’il reste à saisir."

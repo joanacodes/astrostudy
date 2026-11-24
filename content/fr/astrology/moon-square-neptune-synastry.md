@@ -6,6 +6,8 @@ description: "Lune carré Neptune en synastrie : le soin que l’une imagine et
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Neptune", "carré", "synastrie"]
 weight: 93
 glyph: "☽□♆"
 definition: "Lune carré Neptune en synastrie : Neptune d’une personne à environ 90° de la Lune de l’autre, à 6,8° près. Ce dont l’une a concrètement besoin et ce que l’autre imagine ou idéalise ont tendance à se manquer. Pour moi, c’est une friction qui oblige deux personnes à nommer clairement leurs émotions, jamais une tromperie."

@@ -6,6 +6,8 @@ description: "Soleil trigone Jupiter dans un thème natal : une croissance au p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Jupiter", "trigone"]
 weight: 16
 glyph: "☉△♃"
 definition: "Avec Soleil trigone Jupiter, Jupiter se trouve à environ 120° de votre Soleil, le plus souvent dans un signe du même élément. Dans un thème, le but et la croissance avancent de concert : ce que vous devenez a souvent du sens pour vous. J’y lis une croissance qui vient naturellement, et des portes qui s’ouvrent quand vous frappez."

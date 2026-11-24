@@ -5,6 +5,8 @@ description: "Moon conjunct Chiron in a birth chart: how you meet your needs, sh
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Chiron", "conjunction"]
 weight: 93
 glyph: "☽☌⚷"
 definition: "Moon conjunct Chiron means Chiron was within a few degrees of your Moon at birth, usually sharing its sign. In a chart it ties the way you meet your needs to the way you adapt around a tender spot that hasn’t simply gone away. I read it as hard-won skill in caring, never as damage."

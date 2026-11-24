@@ -6,6 +6,8 @@ description: "Jupiter sextile Saturne dans un thème natal : la croissance et l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Saturne", "sextile"]
 weight: 241
 glyph: "♃⚹♄"
 definition: "Jupiter sextile Saturne, c’est un angle de 60° entre les deux planètes, commun à quiconque naît dans les mêmes quelques mois. Ce sextile donne à la croissance et à la structure un lien de travail : vous repérez une ouverture et lui donnez une forme. J’y lis un jugement pratique qui grandit avec l’usage, jamais de la chance."

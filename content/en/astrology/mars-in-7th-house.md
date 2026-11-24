@@ -5,6 +5,8 @@ description: "Mars in the 7th house in a birth chart: drive met through partners
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "7th house", "houses"]
 weight: 55
 glyph: "♂"
 definition: "Mars in the 7th house sits in the house of partners and close one-to-one bonds, which begins at the Descendant. It describes drive you meet in relationships: attraction to strong, direct people, partnerships with spark and some friction, and the lesson of fighting fair. The birth time has to be exact, and it forecasts no marriage."

@@ -6,6 +6,8 @@ description: "Le retour de Chiron, vers 50 ans, une fois dans une vie : ce qu�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "cycles"
+categories: ["Transits et cycles"]
+tags: ["Chiron", "retours planétaires"]
 weight: 45
 glyph: "⚷☌⚷"
 definition: "Le retour de Chiron est le transit de Chiron sur son degré de naissance, vers 50 ans, en général une seule fois dans une vie. Il clôt son long cycle et revient sur la façon dont vous avez appris à vivre avec la blessure autour de laquelle vous tournez. Une guérison peut en venir ; elle n’est jamais promise."

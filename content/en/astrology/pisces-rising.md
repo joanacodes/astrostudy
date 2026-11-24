@@ -5,6 +5,8 @@ description: "Pisces rising: a soft border, Jupiter and Neptune as your chart ru
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "rising sign", "Pisces"]
 weight: 12
 glyph: "↑♓"
 definition: "Pisces rising means Pisces, the mutable water sign, was rising on the eastern horizon at your birth: your Ascendant is in Pisces. It describes a gentle, receptive way of meeting the world that senses moods quickly. Its chart rulers are Jupiter and Neptune, and at London it rises in under an hour, so it needs an exact birth time."

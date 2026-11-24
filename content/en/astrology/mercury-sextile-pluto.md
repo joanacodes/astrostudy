@@ -5,6 +5,8 @@ description: "Mercury sextile Pluto in a birth chart: insight on request, from t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Pluto", "sextile"]
 weight: 136
 glyph: "☿⚹♇"
 definition: "Mercury sextile Pluto is a 60° contact at birth between the mind and the planet of transformation, usually through signs two apart. In a chart it lets everyday thinking reach real depth whenever you put the question. I read it as a working tool for insight, sharper the more you use it."

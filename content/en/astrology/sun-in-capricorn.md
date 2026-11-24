@@ -5,6 +5,8 @@ description: "Sun in Capricorn in a birth chart: an identity built in stages and
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Capricorn"]
 weight: 10
 glyph: "☉♑"
 definition: "Sun in Capricorn is the Sun sign for births from the December solstice, about 22 December, to about 19 January, in cardinal earth ruled by Saturn. I read it as an identity built in stages and tested by time, a vitality spent with care, and a purpose that means building something that holds, never simply climbing."

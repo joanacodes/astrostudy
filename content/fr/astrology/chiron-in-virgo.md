@@ -6,6 +6,8 @@ description: "Chiron en Vierge dans un thème natal : s’adapter par la métho
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Vierge"]
 weight: 126
 glyph: "⚷♍"
 definition: "Chiron en Vierge, c’est l’adaptation de Chiron faite à la manière de la Vierge : par la méthode et la précision, autour d’un point sensible lié au fait d’en faire assez. Chiron n’a traversé ce signe de terre mutable, gouverné par Mercure, que de juillet 1943 à juillet 1945 et de septembre 1993 à septembre 1995."

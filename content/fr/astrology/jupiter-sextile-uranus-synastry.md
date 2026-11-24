@@ -6,6 +6,8 @@ description: "Jupiter sextile Uranus en synastrie : l’envie d’apprendre de 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Uranus", "sextile", "synastrie"]
 weight: 257
 glyph: "♃⚹♅"
 definition: "Jupiter sextile Uranus en synastrie signifie que Jupiter, chez une personne, se trouve à environ 60° d’Uranus chez l’autre, à 3° près. L’une apprend et donne sens, l’autre essaie d’autres voies, et ensemble elles peuvent apprendre en essayant, si quelqu’un commence. Une année de naissances ou plus peut le partager ; ce sont les maisons qui le rendent personnel."

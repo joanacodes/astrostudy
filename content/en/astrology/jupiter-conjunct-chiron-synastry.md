@@ -5,6 +5,8 @@ description: "Jupiter conjunct Chiron in synastry: one person’s growth lands o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Chiron", "conjunction", "synastry"]
 weight: 271
 glyph: "♃☌⚷"
 definition: "Jupiter conjunct Chiron in synastry means one person’s Jupiter lies within 5° of the other’s Chiron. One person’s way of finding meaning lands where the other has adapted around a lasting limitation, as help or as pressure. Shared by whole birth years, it asks for consent, and I read it through the houses."

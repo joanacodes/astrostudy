@@ -6,6 +6,8 @@ description: "Jupiter en maison 11 dans un thème natal : Jupiter dans sa joie,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "maison 11", "maisons"]
 weight: 71
 glyph: "♃"
 definition: "Jupiter en maison 11 signifie que Jupiter se trouvait dans la maison des amis, des groupes et des espoirs, que la tradition appelait le Génie favorable et donnait à Jupiter comme joie. J’y lis une croissance en compagnie : des amitiés qui vous élargissent, des espoirs partagés et bâtis avec d’autres. Il faut une heure de naissance précise."

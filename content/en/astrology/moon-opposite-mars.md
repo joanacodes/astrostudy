@@ -5,6 +5,8 @@ description: "Moon opposite Mars in a birth chart: comfort and push on opposite 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Mars", "opposition"]
 weight: 67
 glyph: "☽☍♂"
 definition: "Moon opposite Mars places the Moon and Mars about 180° apart at birth, on opposite sides of the chart. Your need for comfort and your drive to act face each other, and the drive is often met in another person first. I see in it a polarity between tenderness and assertion, to be owned rather than resolved."

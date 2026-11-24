@@ -6,6 +6,8 @@ description: "Le Taureau en astrologie : le signe de terre fixe gouverné par V
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signes"]
+tags: ["Taureau"]
 weight: 2
 glyph: "♉"
 definition: "Le Taureau est le deuxième signe du zodiaque, un signe de terre fixe gouverné par Vénus ; le Soleil le traverse du 20 avril au 20 mai environ. Dans un thème natal, il désigne là où vous construisez lentement : la patience, les sens, le confort, ce qui a de la valeur. Sa maison montre ce que vous voulez faire durer."

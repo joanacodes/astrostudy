@@ -5,6 +5,8 @@ description: "Sun in Libra, Moon in Aries: the two equinox signs face to face ne
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra", "Moon", "Aries"]
 weight: 73
 glyph: "☉♎☽♈"
 definition: "Sun in Libra, Moon in Aries places the lights in opposite cardinal signs, a day or two either side of a full moon, most often one in Aries. I read it as an identity that takes shape by weighing what is fair, joined to needs that want to act at once and settle only once they have moved."

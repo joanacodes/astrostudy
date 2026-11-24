@@ -6,6 +6,8 @@ description: "Uranus carré Nœud Nord en synastrie : l’indépendance de l’
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Nœud Nord", "carré", "synastrie"]
 weight: 338
 glyph: "♅□☊"
 definition: "Uranus carré Nœud Nord en synastrie signifie qu’Uranus d’une personne se trouve à environ 90° du Nœud Nord de l’autre, à 3,4° près, donc au carré de son Nœud Sud. L’indépendance de l’une coupe le chemin de l’autre, du familier au neuf, et demande à y entrer. Ses dates suivent le nœud vrai, et sa lecture, les maisons."

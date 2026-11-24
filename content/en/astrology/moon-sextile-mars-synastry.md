@@ -5,6 +5,8 @@ description: "Moon sextile Mars in synastry: needs on one side, drive on the oth
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Mars", "sextile", "synastry"]
 weight: 72
 glyph: "☽⚹♂"
 definition: "In Moon sextile Mars in synastry, a Moon in one chart and Mars in the other stand about 60° apart, within 4.8°. One person’s needs and the other’s drive work well together: a need becomes a plan, and effort gets a reason. I read it as practical teamwork between feeling and effort, waiting for someone to begin."

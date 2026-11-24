@@ -6,6 +6,8 @@ description: "Uranus en Sagittaire dans un thème natal : des convictions bien 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Sagittaire"]
 weight: 93
 glyph: "♅♐"
 definition: "Uranus en Sagittaire, c’est la planète du changement dans un signe de feu mutable gouverné par Jupiter, celui des convictions, du voyage et de la quête de sens. Toutes les personnes nées de février 1981 à décembre 1988 l’ont. J’y lis une génération qui se forge ses propres croyances ; la maison dit où."

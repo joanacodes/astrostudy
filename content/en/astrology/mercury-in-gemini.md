@@ -5,6 +5,8 @@ description: "Mercury in Gemini in a birth chart: Mercury at home, a mind that l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Gemini"]
 weight: 27
 glyph: "☿♊"
 definition: "Mercury in Gemini is Mercury in its own sign: mutable air, one of the two signs it rules. It describes a quick, curious, connecting mind that learns by asking, enjoys words and follows more than one thread at a time. Since Mercury rules the sign, its house and aspects tell the rest. About 1 person in 13 has it."

@@ -5,6 +5,8 @@ description: "Neptune sextile North Node in a birth chart: imagination as an all
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "North Node", "sextile"]
 weight: 346
 glyph: "♆⚹☊"
 definition: "In Neptune sextile North Node, Neptune stood about 60° from the North Node when you were born, which also puts it about 120° from the South Node. In a chart, imagination and compassion offer openings along the path you're growing into, with an easy line back to familiar ground; the openings are there for the taking, not handed over."

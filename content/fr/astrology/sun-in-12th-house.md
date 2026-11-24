@@ -6,6 +6,8 @@ description: "Soleil en maison 12 dans un thème natal : une naissance juste ap
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "maison 12", "maisons"]
 weight: 12
 glyph: "☉"
 definition: "Le Soleil en maison 12 signifie que le Soleil venait de se lever à votre naissance, dans la maison de la solitude, du repos et de ce qui échappe aux regards. J’y lis un moi qui fait son travail le plus vrai en privé et puise ses forces à l’écart. La tradition y mettait l’enfermement ; je n’en prédis aucun."

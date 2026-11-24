@@ -6,6 +6,8 @@ description: "Mercure trigone Mars dans un thème natal : penser et faire au m�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Mars", "trigone"]
 weight: 113
 glyph: "☿△♂"
 definition: "Mercure trigone Mars signifie qu’à votre naissance, Mercure et Mars étaient à environ 120° d’écart, le plus souvent dans le même élément. Dans un thème, les décisions et les actes vont au même rythme, sans beaucoup de friction entre eux. J’y lis une aisance pratique qu’il faut encore viser."

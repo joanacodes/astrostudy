@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["Davison chart", "Davison relationship chart"]
 family: "techniques"
+categories: ["Synastry"]
+tags: ["synastry"]
 weight: 52
 glyph: "✦"
 definition: "The Davison chart is a relationship chart cast for the moment halfway in time between two births, at the place halfway between the two birthplaces. Unlike the composite, it shows a real sky. Ronald Davison described it in 1977, and astrologers read it as the relationship’s own chart, alongside both natal charts, never as a verdict."

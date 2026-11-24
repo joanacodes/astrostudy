@@ -5,6 +5,8 @@ description: "Right ascension in astrology: the sky’s longitude, counted east 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Foundations"]
+tags: ["astronomy"]
 weight: 36
 glyph: "✦"
 definition: "Right ascension is a body’s position measured eastward along the celestial equator from the March equinox point, usually in hours, minutes and seconds, 24 hours making the full circle. With declination, it fixes a point on the sky. In astrology it links the turning sky to the clock, which is how the Midheaven is found."

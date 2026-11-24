@@ -6,6 +6,8 @@ description: "Soleil en Balance, Lune en Sagittaire : l’air et le feu en sext
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Balance", "Lune", "Sagittaire"]
 weight: 81
 glyph: "☉♎☽♐"
 definition: "Soleil en Balance, Lune en Sagittaire place la Lune deux signes devant le Soleil, un sextile par signe, quelques soirs après une nouvelle lune. J’y lis un moi en quête d’équité entre les personnes, porté par des besoins qui demandent de l’espace, de l’honnêteté et le sentiment que la vie va quelque part."

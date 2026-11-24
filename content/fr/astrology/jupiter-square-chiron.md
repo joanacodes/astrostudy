@@ -6,6 +6,8 @@ description: "Jupiter carré Chiron dans un thème natal : l’espoir face à u
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Chiron", "carré"]
 weight: 262
 glyph: "♃□⚷"
 definition: "Jupiter carré Chiron désigne un écart d’environ 90° entre Jupiter et Chiron. Dans un thème, la part de vous qui espère et grandit frotte contre le point sensible où vous revenez, si bien que les objectifs doivent s’adapter à un rythme plus lent. J’y lis une friction qui apprend à changer de méthode plutôt que de renoncer au but."

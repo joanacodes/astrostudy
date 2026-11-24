@@ -6,6 +6,8 @@ description: "Neptune en maison 10 dans un thème natal : le travail comme voca
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "maison 10", "maisons"]
 weight: 106
 glyph: "♆"
 definition: "Neptune en maison 10, c’est Neptune près du sommet du thème, dans la maison de la vie publique. On y lit le travail comme une vocation : un métier guidé par l’imagination ou la compassion, une image publique sur laquelle les autres rêvent, et un chemin qui va rarement en ligne droite."

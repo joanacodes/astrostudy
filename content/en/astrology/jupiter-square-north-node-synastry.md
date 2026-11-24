@@ -5,6 +5,8 @@ description: "Jupiter square North Node in synastry: one person’s worldview st
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "North Node", "square", "synastry"]
 weight: 283
 glyph: "♃□☊"
 definition: "Jupiter square North Node in synastry means one person’s Jupiter is about 90° from the other’s North Node, within 4.25°, and so 90° from their South Node too. One person’s beliefs stand across the other’s path, between familiar strengths and new growth. I read it as a crossroads that tests a direction, never a roadblock."

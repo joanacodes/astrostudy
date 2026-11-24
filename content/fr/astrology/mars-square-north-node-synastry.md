@@ -6,6 +6,8 @@ description: "Mars carré Nœud Nord en synastrie : l’élan de l’une coupe 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Nœud Nord", "carré", "synastrie"]
 weight: 248
 glyph: "♂□☊"
 definition: "Mars carré Nœud Nord en synastrie signifie que Mars, chez une personne, forme un carré avec les deux nœuds de l’autre, à 5,1° près : 90° du Nœud Nord, 90° du Nœud Sud. L’élan de l’une traverse la ligne entre l’ancien terrain de l’autre et sa croissance. J’y lis une friction tonique, qui enseigne le choix au cas par cas."

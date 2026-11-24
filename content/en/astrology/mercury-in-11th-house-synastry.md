@@ -5,6 +5,8 @@ description: "Their Mercury in your 11th house in synastry: ideas and introducti
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "11th house", "synastry", "house overlays"]
 weight: 35
 glyph: "☿"
 definition: "Their Mercury in your 11th house circulates among your friends, groups and hopes: the other person’s ideas reach your circle and your plans for the future. In synastry they tend to connect you with people and opportunities, and talk between you turns to causes and what you hope to build, often in company."

@@ -6,6 +6,8 @@ description: "Nœud Nord en maison 9 dans un thème natal : aller au-delà de l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "maison 9", "maisons"]
 weight: 153
 glyph: "☊"
 definition: "Nœud Nord en maison 9 signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans la maison des horizons lointains, le Nœud Sud en maison 3. J’y lis une croissance au-delà de la carte connue : les études, les voyages, une philosophie gagnée, après l’habitude du proche et du connu."

@@ -6,6 +6,8 @@ description: "Mercure sextile Uranus dans un thème natal : des idées neuves �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Uranus", "sextile"]
 weight: 126
 glyph: "☿⚹♅"
 definition: "Mercure sextile Uranus signifie qu’à votre naissance, Mercure et Uranus étaient à environ 60° d’écart. Dans un thème, votre pensée a facilement accès au nouveau : un autre angle, une meilleure méthode, une idée que personne n’a essayée, dès que vous la cherchez. J’y lis une ouverture inventive, à son meilleur sur de vrais problèmes."

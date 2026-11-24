@@ -6,6 +6,8 @@ description: "Vénus en astrologie : ce que vous aimez et ce à quoi vous tenez
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planètes et points"]
+tags: ["Vénus"]
 weight: 4
 glyph: "♀"
 definition: "Vénus est la planète la plus brillante du ciel. En astrologie, c’est celle de l’amour, du plaisir et de la valeur : ce que vous trouvez beau, votre façon de donner et de recevoir de l’affection, ce que vous voulez garder. Dans un thème natal, son signe montre votre façon d’aimer, sa maison où le plaisir vient le plus facilement."

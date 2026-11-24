@@ -6,6 +6,8 @@ description: "Naître entre deux signes : ce que veut dire une naissance au cha
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signes"]
+tags: ["signes du zodiaque"]
 weight: 28
 glyph: "✦"
 definition: "Naître entre deux signes, c’est naître tout près de l’instant où le Soleil est passé d’un signe au suivant. Cela ne fait pas de vous une moitié de chacun : à la naissance, le Soleil était dans l’un ou l’autre, et votre date, votre heure et votre lieu de naissance disent lequel. Le signe voisin peut se montrer par d’autres planètes."

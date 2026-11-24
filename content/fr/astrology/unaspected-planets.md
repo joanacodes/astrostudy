@@ -6,6 +6,8 @@ description: "Planètes non aspectées : une planète sans aspect majeur avec l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 30
 glyph: "✦"
 definition: "Une planète non aspectée ne forme aucun des cinq aspects majeurs, conjonction, sextile, carré, trigone ou opposition, avec une autre planète du thème. Qu’une planète compte ou non comme non aspectée dépend des orbes qu’un astrologue accorde. Cela décrit une fonction qui suit sa propre voie, pas une fonction absente ou cassée."

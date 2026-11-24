@@ -5,6 +5,8 @@ description: "The new moon in Scorpio: the next one on 9 November 2026, the date
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "new moon", "Scorpio"]
 weight: 43
 glyph: "●♏"
 definition: "The new moon in Scorpio is the Sun and Moon meeting in Scorpio, once a year, between late October and late November. It opens a lunar month in Scorpio’s manner: depth, trust, what is shared and what you are ready to face. In a birth chart it counts only within about 1° of a planet or angle."

@@ -6,6 +6,8 @@ description: "Lune carré Neptune dans un thème natal : ce dont vous avez beso
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Neptune", "carré"]
 weight: 85
 glyph: "☽□♆"
 definition: "Lune carré Neptune, c’est Neptune à environ 90° de votre Lune au moment de la naissance. Ce carré oppose vos besoins concrets à votre imagination et à vos idéaux : le réconfort dont vous avez besoin et celui dont vous rêvez concordent rarement d’emblée. J’y lis une friction qui apprend à nommer ses besoins."

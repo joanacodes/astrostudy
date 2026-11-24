@@ -5,6 +5,8 @@ description: "Sun square Jupiter in synastry: one person’s appetite for more p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Jupiter", "square", "synastry"]
 weight: 23
 glyph: "☉□♃"
 definition: "Sun square Jupiter in synastry means one person’s Jupiter is about 90° from the other’s Sun, within 6.8°. One person’s appetite for more, bigger plans, firmer principles, wider horizons, presses on the course the other has set. I read it as friction that tests both scale and belief, never as a verdict on the pair."

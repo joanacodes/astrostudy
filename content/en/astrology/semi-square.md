@@ -5,6 +5,8 @@ description: "The semi-square in astrology: two planets 45° apart, half a squar
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["semi-square", "minor aspects"]
 weight: 7
 glyph: "∠"
 definition: "A semi-square is an angle of 45° between two planets: half a square, an eighth of the circle, a sign and a half. In a birth chart it marks a local tension, not a crisis but a small, recurring friction in one corner of life that asks for a correction and eases each time you make it."

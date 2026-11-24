@@ -5,6 +5,8 @@ description: "Neptune conjunct Chiron in synastry: one person’s compassion lan
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Chiron", "conjunction", "synastry"]
 weight: 346
 glyph: "♆☌⚷"
 definition: "Neptune conjunct Chiron in synastry lays one person’s Neptune over the other’s Chiron, within 4°. One person’s compassion and imagination land exactly where the other has learned to live with a lasting limit, which can soothe it or blur what it needs. Shared by whole birth periods, it is read through the houses, gently."

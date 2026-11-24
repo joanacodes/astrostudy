@@ -5,6 +5,8 @@ description: "Uranus conjunct North Node in a birth chart: a direction of growth
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "North Node", "conjunction"]
 weight: 325
 glyph: "♅☌☊"
 definition: "Uranus conjunct North Node means Uranus stood within a few degrees of the North Node when you were born. In a chart, the direction you grow in asks you to differ, to experiment and to leave habits the South Node holds. I read it as a path to practise, not a destiny, and never a duty to be unusual."

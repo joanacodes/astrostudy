@@ -5,6 +5,8 @@ description: "The new moon in Sagittarius: the last before the December solstice
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "new moon", "Sagittarius"]
 weight: 44
 glyph: "●♐"
 definition: "The new moon in Sagittarius is the Sun and Moon meeting in Sagittarius, once a year, between late November and the December solstice. It opens a lunar month aimed further off: meaning, a journey, something to learn. In a birth chart it counts within about 1° of a planet or angle, or about 3° as an eclipse."

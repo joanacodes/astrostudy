@@ -5,6 +5,8 @@ description: "Sun trine North Node in a birth chart: growth that suits who you a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "North Node", "trine"]
 weight: 51
 glyph: "☉△☊"
 definition: "Sun trine North Node means the Sun and the North Node were about 120° apart when you were born, which also puts the Sun in sextile to the South Node. In a chart your sense of self and your direction of growth keep the same pace. I read it as development that feels like yours and still needs practice."

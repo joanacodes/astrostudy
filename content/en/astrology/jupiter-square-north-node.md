@@ -5,6 +5,8 @@ description: "Jupiter square North Node in a birth chart: meaning at right angle
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "North Node", "square"]
 weight: 272
 glyph: "♃□☊"
 definition: "Jupiter square North Node means Jupiter about 90° from the North Node, and so 90° from the South Node too: at right angles to the whole axis. In a chart, meaning stands across the path between familiar strengths and new growth. I read it as a part of you that asks to be brought along, not a blocked road."

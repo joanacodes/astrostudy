@@ -6,6 +6,8 @@ description: "Mercure conjonction Nœud Nord en synastrie : les idées de l’u
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Nœud Nord", "conjonction", "synastrie"]
 weight: 161
 glyph: "☿☌☊"
 definition: "Mercure conjonction Nœud Nord en synastrie signifie que Mercure, chez une personne, se trouve à moins de 6° du Nœud Nord de l’autre, donc en face de son Nœud Sud. Les idées et les questions de l’une orientent l’autre vers ce qu’elle apprend, loin de ses habitudes. J’y lis une conversation qui fait grandir, jamais un destin."

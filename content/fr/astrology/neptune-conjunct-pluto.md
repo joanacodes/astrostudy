@@ -6,6 +6,8 @@ description: "Neptune conjonction Pluton dans un thème natal : une rencontre a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Pluton", "conjonction"]
 weight: 330
 glyph: "♆☌♇"
 definition: "Neptune conjonction Pluton, c’est la rencontre des deux planètes les plus lentes, à quelques degrés près. Aucune personne née entre 1930 et 2009 ne la porte : pendant la plupart de ces années, les deux planètes se tenaient à environ 60° l’une de l’autre. Dans un thème, elle fondrait l’imagination et la compassion avec l’envie de renouveler à la racine."

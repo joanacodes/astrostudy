@@ -6,6 +6,8 @@ description: "Jupiter opposition Saturne en synastrie : l’une plaide pour plu
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Saturne", "opposition", "synastrie"]
 weight: 255
 glyph: "♃☍♄"
 definition: "Jupiter opposition Saturne en synastrie signifie que Jupiter d’une personne se trouve à environ 180° de Saturne chez l’autre, à 5° près. La croissance et le possible tiennent un bout, les limites et la durée l’autre, et chacune voit ce que l’autre laisse de côté. C’est une balance entre époques, jamais une rivalité, que je lis par les maisons."

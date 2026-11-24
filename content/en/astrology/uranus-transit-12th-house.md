@@ -5,6 +5,8 @@ description: "Uranus transiting the 12th house: about six years, up to fourteen,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "12th house", "transits"]
 weight: 36
 glyph: "♅"
 definition: "Uranus transiting the 12th house is the last stretch before Uranus reaches your Ascendant: about six years in the middle, spent in the house of the inner life. It loosens what your chart already holds out of sight: private habits, old patterns, ways of resting, with insight arriving in solitude. Illness and confinement are not what it describes."

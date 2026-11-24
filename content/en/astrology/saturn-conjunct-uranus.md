@@ -5,6 +5,8 @@ description: "Saturn conjunct Uranus in a birth chart: the two rulers of Aquariu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Uranus", "conjunction"]
 weight: 275
 glyph: "♄☌♅"
 definition: "Saturn conjunct Uranus is a meeting of Saturn and Uranus within a few degrees, which came twice between 1930 and 2009: in the early 1940s and the late 1980s. In a chart it fuses the urge to build what lasts with the urge to reform it. A generation shares it; its house makes it personal."

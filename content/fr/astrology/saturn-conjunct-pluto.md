@@ -6,6 +6,8 @@ description: "Saturne conjonction Pluton dans un thème natal : les rencontres 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Pluton", "conjonction"]
 weight: 285
 glyph: "♄☌♇"
 definition: "Saturne conjonction Pluton réunit les deux planètes à quelques degrés près, comme en Lion en 1946–1948 et en Balance en 1981–1983. Dans un thème, elle fond ensemble l’envie de bâtir ce qui dure et celle de dégager ce qui est devenu obsolète : une endurance pour les changements profonds, à lire par sa maison."

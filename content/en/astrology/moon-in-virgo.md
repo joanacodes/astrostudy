@@ -5,6 +5,8 @@ description: "Moon in Virgo in a birth chart: feelings settled by order and usef
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Virgo"]
 weight: 18
 glyph: "☽♍"
 definition: "Moon in Virgo means the Moon was in Virgo when you were born. I read it as feelings settled by order and usefulness: you calm down by sorting, fixing or helping, you care for people in practical and attentive ways, and a feeling becomes manageable once it has a proper place."

@@ -6,6 +6,8 @@ description: "Lune sextile Pluton en synastrie : la profondeur de l’une est �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Pluton", "sextile", "synastrie"]
 weight: 97
 glyph: "☽⚹♇"
 definition: "Lune sextile Pluton en synastrie : Pluton d’une personne à environ 60° de la Lune de l’autre, à 4,8° près. La capacité de profondeur et de renouveau de l’une reste à portée des émotions de l’autre, sans lui être imposée. J’y lis une invitation à des conversations franches qui transforment, acceptée par choix."

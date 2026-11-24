@@ -5,6 +5,8 @@ description: "Sun trine Neptune in a birth chart: imagination and compassion tha
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Neptune", "trine"]
 weight: 31
 glyph: "☉△♆"
 definition: "Sun trine Neptune means Neptune stood about 120° from your Sun at birth, usually in a sign of the same element. In a chart your sense of self and your imagination work together without strain: empathy and inspiration come naturally. I read it as a real ease, whose one risk is going unused."

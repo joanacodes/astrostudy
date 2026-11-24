@@ -6,6 +6,8 @@ description: "Uranus trigone Nœud Nord dans un thème natal : le changement et
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Nœud Nord", "trigone"]
 weight: 328
 glyph: "♅△☊"
 definition: "Uranus trigone Nœud Nord signifie qu’à votre naissance, Uranus se trouvait à environ 120° du Nœud Nord, donc à 60° du Nœud Sud. Dans un thème, le changement et votre direction de croissance avancent ensemble : le nouveau arrive avec un sentiment de liberté, et le familier s’adapte en chemin. L’aisance n’est pas un destin ; elle demande encore de la pratique."

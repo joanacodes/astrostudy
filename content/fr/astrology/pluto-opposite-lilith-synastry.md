@@ -6,6 +6,8 @@ description: "Pluton opposition Lilith en synastrie : le pouvoir de transformer
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Lilith", "opposition", "synastrie"]
 weight: 370
 glyph: "♇☍⚸"
 definition: "Pluton opposition Lilith en synastrie, c’est le face-à-face, à 4° près, de Pluton d’un thème et de la Lune noire Lilith moyenne d’un autre. Le pouvoir de transformer de l’une et le refus d’être domptée de l’autre se font face, chacun rendant l’autre visible. J’y lis une polarité aimantée, qui demande d’être honnête sur ce que chacune veut."

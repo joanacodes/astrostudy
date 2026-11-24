@@ -6,6 +6,8 @@ description: "Jupiter carré Saturne en synastrie : les grands espoirs de l’u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Saturne", "carré", "synastrie"]
 weight: 253
 glyph: "♃□♄"
 definition: "Jupiter carré Saturne en synastrie signifie que Jupiter, chez une personne, se trouve à environ 90° de Saturne chez l’autre, à 4,25° près. L’envie de s’étendre de l’une bute sans cesse sur l’exigence d’un sol solide chez l’autre. J’y lis une friction qui éprouve les projets des deux côtés, partagée par des années entières, jamais un signe d’incompatibilité."

@@ -5,6 +5,8 @@ description: "The progressed Moon in Aquarius: two years or so of needing freedo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressed Moon", "progressions", "Aquarius"]
 weight: 11
 glyph: "☽♒"
 definition: "For two to two and a half years of secondary progressions, the progressed Moon in Aquarius carries your chart’s emotional clock through the air sign ruled by Uranus and Saturn. I read it as a time when needs are met through freedom and fellowship: friends, groups, ideas for the future, and room to be yourself among others."

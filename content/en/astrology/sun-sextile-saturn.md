@@ -5,6 +5,8 @@ description: "Sun sextile Saturn in a birth chart: patience and structure your p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Saturn", "sextile"]
 weight: 19
 glyph: "☉⚹♄"
 definition: "With Sun sextile Saturn, Saturn was 60° from your Sun at birth, in a sign two away and usually of a complementary element. In a chart, structure and patience are on offer to your purpose. I read it as the slow kind of help: discipline you can lean on, once you choose to."

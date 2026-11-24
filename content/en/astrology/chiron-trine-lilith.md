@@ -5,6 +5,8 @@ description: "Chiron trine Lilith in a birth chart: adapting to a lasting diffic
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Lilith", "trine"]
 weight: 368
 glyph: "⚷△⚸"
 definition: "Chiron trine Lilith places Chiron and the mean Black Moon Lilith about 120° apart in your birth chart, most often in signs of one element. Your way of adapting around a lasting difficulty and the part of you that won’t be tamed support each other: you tend to make room for the difficulty without making yourself smaller."

@@ -6,6 +6,8 @@ description: "Jupiter en maison 1 dans un thème natal : une croissance qui se 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "maison 1", "maisons"]
 weight: 61
 glyph: "♃"
 definition: "Jupiter en maison 1 signifie que Jupiter se trouvait près de l’ascendant, dans la maison du moi que vous montrez d’abord. J’y lis une croissance qui se voit dans votre présence : une manière qui encourage, des convictions visibles dans votre allure, un apprentissage qui passe par le fait de se montrer. Il faut une heure de naissance précise."

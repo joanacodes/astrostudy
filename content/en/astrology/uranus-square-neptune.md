@@ -5,6 +5,8 @@ description: "Uranus square Neptune in a birth chart: reform and ideals in frict
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Neptune", "square"]
 weight: 307
 glyph: "♅□♆"
 definition: "Uranus square Neptune is a 90° angle between the two planets, in orb on and off from 1951 to 1958, mostly with Uranus in Cancer and Neptune in Libra. In a chart, the urge to reform and the pull of an ideal rub against each other until something workable comes of it. A generation shares it."

@@ -5,6 +5,8 @@ description: "Saturn conjunct Neptune in a birth chart: the meetings of 1952–5
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Neptune", "conjunction"]
 weight: 280
 glyph: "♄☌♆"
 definition: "Saturn conjunct Neptune is a meeting of the two planets, within a few degrees. It happened in Libra in 1952–53 and in Capricorn in 1988–90, so whole generations share it. In a chart it joins the urge to give things a firm shape with the urge to imagine beyond limits: a dream that asks to be built."

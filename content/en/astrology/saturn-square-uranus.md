@@ -5,6 +5,8 @@ description: "Saturn square Uranus in a birth chart: friction between keeping an
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Uranus", "square"]
 weight: 277
 glyph: "♄□♅"
 definition: "Saturn square Uranus means Saturn and Uranus about 90° apart, an angle four generations share: those born in 1930–32, 1950–53, 1975–77 and 1999–2001. In a chart, the urge to keep things stable rubs against the urge to change them. I read it as friction that teaches reform without demolition."

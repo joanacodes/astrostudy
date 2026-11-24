@@ -6,6 +6,8 @@ description: "Saturne de l’autre dans votre maison 3 en synastrie : du soin e
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 75
 glyph: "♄"
 definition: "Saturne de l’autre dans votre maison 3 mêle Saturne, chez cette personne, à vos conversations, à vos apprentissages, à vos messages et à votre entourage. En synastrie, son sens de la structure rencontre votre façon de penser à voix haute : vos mots gagnent en exactitude à ses côtés, et elle se sent responsable de la justesse de vos échanges."

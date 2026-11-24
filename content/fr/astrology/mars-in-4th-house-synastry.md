@@ -6,6 +6,8 @@ description: "Mars de l’autre dans votre maison 4 en synastrie : un élan qui
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 52
 glyph: "♂"
 definition: "Mars de l’autre dans votre maison 4 conduit Mars, chez cette personne, jusque chez vous : la maison, les racines, l’intimité du quotidien. En synastrie, son élan s’attaque à vos fondations : votre maison se met en mouvement à ses côtés, et l’autre se sent libre d’y mettre de l’effort, et parfois de la friction, là même où vous vous reposez."

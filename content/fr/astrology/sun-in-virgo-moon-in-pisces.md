@@ -6,6 +6,8 @@ description: "Soleil en Vierge, Lune en Poissons : signes mutables opposés, pr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge", "Lune", "Poissons"]
 weight: 72
 glyph: "☉♍☽♓"
 definition: "Soleil en Vierge, Lune en Poissons place les luminaires sur l’axe mutable de la terre et de l’eau, près de la pleine lune du mois de la Vierge. Mercure et Vénus y échangent leur force. J’y lis l’ordre face à l’océan : un esprit qui trie et un cœur qui se fond, chacun ayant besoin de ce que l’autre possède."

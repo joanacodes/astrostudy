@@ -6,6 +6,8 @@ description: "Lune carré Saturne dans un thème natal : la patience apprise tr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Saturne", "carré"]
 weight: 75
 glyph: "☽□♄"
 definition: "Lune carré Saturne, c’est un angle droit entre la Lune et Saturne dans un thème natal, en général entre des signes distants de trois. Le besoin et le devoir se contrarient : les émotions apprennent à attendre, et l’autonomie vient tôt. Sa friction construit une résilience à son rythme, comme je le lis : jamais une sentence, jamais un cœur froid."

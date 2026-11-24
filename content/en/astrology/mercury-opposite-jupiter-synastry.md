@@ -5,6 +5,8 @@ description: "Mercury opposite Jupiter in synastry: one person’s detail facing
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Jupiter", "opposition", "synastry"]
 weight: 130
 glyph: "☿☍♃"
 definition: "Mercury opposite Jupiter in synastry means one person’s Mercury is about 180° from the other’s Jupiter, within 6°. The first person’s eye for detail faces the second’s sense of the whole, and each tends to take one end of every discussion. I read it as a seesaw that works when you keep swapping ends, never as opposing camps."

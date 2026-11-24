@@ -6,6 +6,8 @@ description: "Mars rétrograde en Bélier, le signe de Mars : l’unique boucle
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mars", "rétrograde", "Mars rétrograde", "Bélier"]
 weight: 25
 glyph: "♂℞♈"
 definition: "Mars rétrograde en Bélier, c’est le recul apparent de Mars, vu de la Terre, dans le signe que Mars gouverne : une seule fois entre 2000 et 2040, du 9 septembre au 14 novembre 2020. J’y lis l’élan rappelé pour une révision, les batailles choisies et les départs précipités, dans la maison qu’occupe le Bélier dans votre thème."

@@ -5,6 +5,8 @@ description: "Venus trine Neptune in synastry: gentleness, shared taste and easy
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Neptune", "trine", "synastry"]
 weight: 189
 glyph: "♀△♆"
 definition: "Venus trine Neptune in synastry means one person’s Venus is about 120° from the other’s Neptune, within 5.1°. The second person’s imagination and compassion keep pace with what the first enjoys, so gentleness and forgiveness come easily. I read it as real tenderness in any adult pair, worth checking for balance now and then."

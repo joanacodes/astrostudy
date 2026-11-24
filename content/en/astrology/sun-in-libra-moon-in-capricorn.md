@@ -5,6 +5,8 @@ description: "Sun in Libra, Moon in Capricorn: two cardinal signs in a square ne
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra", "Moon", "Capricorn"]
 weight: 82
 glyph: "☉♎☽♑"
 definition: "Sun in Libra, Moon in Capricorn joins cardinal air and cardinal earth at a square, five to ten days after a new moon, with Saturn exalted in the Sun’s sign and ruling the Moon’s. I read it as a self that negotiates fair terms, with needs that settle once a plan is in place."

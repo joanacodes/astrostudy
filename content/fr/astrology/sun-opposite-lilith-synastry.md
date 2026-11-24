@@ -6,6 +6,8 @@ description: "Soleil opposition Lilith en synastrie : le Soleil de l’une face
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Lilith", "opposition", "synastrie"]
 weight: 55
 glyph: "☉☍⚸"
 definition: "Dans Soleil opposition Lilith en synastrie, un Soleil dans un thème se trouve à environ 180°, à 8° près, de la Lune noire Lilith dans l’autre. Chaque personne voit, en face, ce que l’autre laisse de côté : une identité à un bout, un refus à l’autre. J’y lis une bascule qui peut apprendre l’équilibre, jamais une hostilité."

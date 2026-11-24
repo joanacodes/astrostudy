@@ -5,6 +5,8 @@ description: "Mercury in the 6th house in a birth chart: a mind that thinks by d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "6th house", "houses"]
 weight: 30
 glyph: "☿"
 definition: "Mercury in the 6th house is the planet of thought and speech in the house of daily work, routines, methods and the care of the body. It describes a practical mind that thinks by doing, improves whatever process it touches and likes a job to do. Tradition gave this house illness; a chart predicts none. It needs the birth time."

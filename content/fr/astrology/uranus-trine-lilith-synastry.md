@@ -6,6 +6,8 @@ description: "Uranus trigone Lilith en synastrie : la liberté de l’une et la
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Lilith", "trigone", "synastrie"]
 weight: 334
 glyph: "♅△⚸"
 definition: "Uranus trigone Lilith en synastrie signifie qu’Uranus dans un thème et la Lune noire Lilith dans l’autre se trouvent à quelque 120° d’écart, à 3,4° près. Le goût de la différence de l’une et la part indomptée de l’autre s’encouragent : être soi sans retouche devient facile. Je le date avec la Lilith moyenne et le lis par les maisons."

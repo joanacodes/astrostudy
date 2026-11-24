@@ -6,6 +6,8 @@ description: "Uranus en transit en maison 3 : près de huit ans où la pensée 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Uranus", "maison 3", "transits"]
 weight: 27
 glyph: "♅"
 definition: "Uranus en transit en maison 3 amène la planète du changement dans votre esprit de tous les jours, en général pendant près de huit ans : votre façon de penser, de parler, d’apprendre et de garder le contact. Ce transit réveille ce que le thème en dit déjà : des idées qui arrivent par bonds, des habitudes de langage remises en cause."

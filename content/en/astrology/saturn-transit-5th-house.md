@@ -5,6 +5,8 @@ description: "Saturn transiting the 5th house: about three years when play and c
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "5th house", "transits"]
 weight: 17
 glyph: "♄"
 definition: "Saturn transiting the 5th house is the meeting, a little under three years long, between the planet of discipline and your house of joy: creativity, play, pleasure and romance. The creativity your chart already holds is given form: practice, craft, and time you protect. It predicts no child and no break-up."

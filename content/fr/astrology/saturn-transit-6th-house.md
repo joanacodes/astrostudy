@@ -6,6 +6,8 @@ description: "Saturne en transit en maison 6 : environ trois ans à reconstruir
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Saturne", "maison 6", "transits"]
 weight: 18
 glyph: "♄"
 definition: "Saturne en transit en maison 6 fait entrer Saturne, pour un peu moins de trois ans, dans votre maison du travail quotidien, des habitudes et du soin. Ce que votre thème dit du quotidien, Saturne le resserre et le répare : des méthodes revues, des limites posées, des routines faites pour durer. Ce transit ne dit rien d’une maladie."

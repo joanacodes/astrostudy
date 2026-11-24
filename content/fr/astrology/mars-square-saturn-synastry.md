@@ -6,6 +6,8 @@ description: "Mars carré Saturne en synastrie : l’envie d’agir de l’une 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Saturne", "carré", "synastrie"]
 weight: 218
 glyph: "♂□♄"
 definition: "Mars carré Saturne en synastrie signifie que Mars, chez une personne, se trouve à environ 90° de Saturne chez l’autre, à 5,1° près. L’envie d’agir de la première rencontre sans cesse la prudence et les exigences de la seconde. J’y lis une friction qui apprend le moment juste et la stratégie, jamais la preuve que l’une gêne l’autre."

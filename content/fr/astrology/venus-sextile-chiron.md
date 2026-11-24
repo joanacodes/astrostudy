@@ -6,6 +6,8 @@ description: "Vénus sextile Chiron dans un thème natal : ce que vous aimez et
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Chiron", "sextile"]
 weight: 186
 glyph: "♀⚹⚷"
 definition: "Vénus sextile Chiron signifie qu’à votre naissance, Vénus et Chiron étaient à environ 60° d’écart, souvent dans des signes d’éléments complémentaires. Ce que vous aimez et ce que l’adaptation vous a appris coopèrent : vous savez faire de la place aux autres autour d’une difficulté. J’y lis une sagesse pratique des liens, à mettre en œuvre."

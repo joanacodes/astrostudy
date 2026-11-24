@@ -5,6 +5,8 @@ description: "Mars conjunct Pluto in synastry: one person’s drive lands on the
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Pluto", "conjunction", "synastry"]
 weight: 231
 glyph: "♂☌♇"
 definition: "Mars conjunct Pluto in synastry means one person’s Mars and the other’s Pluto are within 6° of each other. One person’s drive lands on the other’s capacity for deep change, and joint effort tends to go all the way down. I read it as concentrated strength between two people, worth pointing at a shared aim, with power kept in proportion."

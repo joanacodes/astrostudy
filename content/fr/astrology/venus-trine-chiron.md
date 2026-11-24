@@ -6,6 +6,8 @@ description: "Vénus trigone Chiron dans un thème natal : ce que vous aimez et
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Chiron", "trigone"]
 weight: 188
 glyph: "♀△⚷"
 definition: "Vénus trigone Chiron signifie qu’à votre naissance, Vénus et Chiron étaient à environ 120° d’écart, souvent dans des signes du même élément. Ce que vous aimez et ce que l’adaptation vous a appris coulent ensemble : vous faites de la place à la différence avec aisance, et l’expérience a affiné votre goût. J’y lis un savoir-faire discret des liens."

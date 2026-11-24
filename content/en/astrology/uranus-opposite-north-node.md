@@ -5,6 +5,8 @@ description: "Uranus opposite North Node in a birth chart: Uranus on the South N
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "North Node", "opposition"]
 weight: 329
 glyph: "♅☍☊"
 definition: "Uranus opposite North Node means Uranus was about 180° from the North Node when you were born, and so right beside the South Node. In a chart, change, independence and the fresh start are moves you already know by heart; growth lies across the chart, in a capacity you have practised far less."

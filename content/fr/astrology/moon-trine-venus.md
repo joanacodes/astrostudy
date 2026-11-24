@@ -6,6 +6,8 @@ description: "Lune trigone Vénus dans un thème natal : une tendresse de tous 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Vénus", "trigone"]
 weight: 61
 glyph: "☽△♀"
 definition: "Lune trigone Vénus place environ 120° entre la Lune et Vénus, le plus souvent dans deux signes du même élément. Besoins et affections s’accordent sans effort : l’affection se donne et se reçoit simplement, au quotidien. J’y lis une tendresse naturelle qui mérite pourtant qu’on en prenne soin."

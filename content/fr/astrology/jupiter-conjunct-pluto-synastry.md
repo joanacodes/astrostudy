@@ -6,6 +6,8 @@ description: "Jupiter conjonction Pluton en synastrie : la croissance de l’un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Pluton", "conjonction", "synastrie"]
 weight: 266
 glyph: "♃☌♇"
 definition: "Jupiter conjonction Pluton en synastrie signifie que Jupiter, chez une personne, se trouve à moins de 5° de Pluton chez l’autre. L’envie d’élargir une vie et celle de la changer à la racine deviennent un seul mouvement, puissant et vite trop rapide. La lenteur de Pluton le fait partager à des années entières ; je le lis dans les maisons."

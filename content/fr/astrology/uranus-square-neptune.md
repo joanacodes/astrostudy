@@ -6,6 +6,8 @@ description: "Uranus carré Neptune dans un thème natal : la réforme et l’i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Neptune", "carré"]
 weight: 307
 glyph: "♅□♆"
 definition: "Uranus carré Neptune est un angle de 90° entre les deux planètes, dans l’orbe par intermittence de 1951 à 1958, le plus souvent avec Uranus en Cancer et Neptune en Balance. Dans un thème, l’envie de réformer et l’attrait d’un idéal frottent l’une contre l’autre jusqu’à donner quelque chose de praticable. Une génération le partage."

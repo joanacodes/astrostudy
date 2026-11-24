@@ -6,6 +6,8 @@ description: "Lune conjonction Chiron en synastrie : ce dont l’une a besoin t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Chiron", "conjonction", "synastrie"]
 weight: 101
 glyph: "☽☌⚷"
 definition: "Lune conjonction Chiron en synastrie signifie que la Lune d’une personne se trouve à moins de 8° du Chiron de l’autre. À l’endroit où l’une vient chercher du réconfort, l’autre a dû apprivoiser une sensibilité durable. J’y lis un soin nourri d’expérience, et je veille à ce qu’il circule dans les deux sens."

@@ -6,6 +6,8 @@ description: "Mars rétrograde en Gémeaux : les boucles de 2007–2008, 2022�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mars", "rétrograde", "Mars rétrograde", "Gémeaux"]
 weight: 27
 glyph: "♂℞♊"
 definition: "Mars rétrograde en Gémeaux, c’est le recul apparent de Mars dans les Gémeaux, dix ou onze semaines entre octobre et janvier : trois fois de 2000 à 2040, la dernière d’octobre 2022 à janvier 2023. J’y lis l’élan dépensé en mots, en débats et en projets parallèles qui revient sur ses pas, dans la maison des Gémeaux de votre thème."

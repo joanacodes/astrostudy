@@ -5,6 +5,8 @@ description: "Sun opposite Mars in a birth chart: purpose and drive facing each 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Mars", "opposition"]
 weight: 12
 glyph: "☉☍♂"
 definition: "Sun opposite Mars means you were born on one of the few days when Mars stood opposite the Sun, retrograde and close to the Earth. In a chart, purpose and drive face each other across one axis. I read it as a polarity, not a fight: you often meet your own force in other people first."

@@ -5,6 +5,8 @@ description: "Moon trine North Node in a birth chart: comfort that carries you f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "North Node", "trine"]
 weight: 106
 glyph: "☽△☊"
 definition: "Moon trine North Node means the Moon was about 120° from the North Node when you were born, and therefore about 60° from the South Node. In a chart, looking after yourself tends to move you towards what you’re learning, and growth feels natural. I read it as an ease worth noticing, because it rarely announces itself."

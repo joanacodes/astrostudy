@@ -5,6 +5,8 @@ description: "Saturn opposite Chiron in a birth chart: strength and vulnerabilit
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Chiron", "opposition"]
 weight: 294
 glyph: "♄☍⚷"
 definition: "Saturn opposite Chiron puts Saturn and Chiron about 180° apart, as at births on and off from 1985 to 1997 then in 2002–07. Read in a chart, it sets the structure you can carry opposite a lasting difficulty, and asks you to hold both: competence and limitation side by side, neither defining you."

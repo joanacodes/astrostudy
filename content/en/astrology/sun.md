@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Sun", "Sun sign"]
 family: "planets"
+categories: ["Planets and points"]
+tags: ["Sun"]
 weight: 1
 glyph: "☉"
 definition: "The Sun is the centre of a birth chart: the sign it was in when you were born is your Sun sign, the one horoscopes use. Astrologers read it as your core purpose and the way you shine — what you are trying to become. Its house shows the area of life where that effort is most visible."

@@ -6,6 +6,8 @@ description: "Nœud Nord en maison 4 dans un thème natal : prendre racine, ave
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "maison 4", "maisons"]
 weight: 148
 glyph: "☊"
 definition: "Nœud Nord en maison 4 signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans la maison qui commence au fond du ciel, le Nœud Sud au sommet, en maison 10. J’y lis une croissance vers les racines : un foyer, une vie intérieure et des fondations à vous."

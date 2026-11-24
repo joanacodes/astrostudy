@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Descendant"]
 family: "angles"
+categories: ["Planets and points"]
+tags: ["Descendant", "angles"]
 weight: 2
 glyph: "DC"
 definition: "The Descendant is the degree of the zodiac that was setting on the western horizon when you were born, exactly opposite the Ascendant. Astrologers read it, with the 7th house it belongs to, as what you look for and meet in other people: partners, close friends, rivals. Like every angle, it needs your birth time."

@@ -6,6 +6,8 @@ description: "Jupiter carré Chiron en synastrie : les espoirs de l’une frott
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Chiron", "carré", "synastrie"]
 weight: 273
 glyph: "♃□⚷"
 definition: "Jupiter carré Chiron en synastrie signifie que Jupiter, chez une personne, se trouve à environ 90° de Chiron chez l’autre, à 4,25° près. L’encouragement et une limite ancienne se rencontrent de biais, souvent sur la question du rythme. La friction peut apprendre une aide qui s’adapte ; des années entières la partagent, et une limite n’est jamais un échec."

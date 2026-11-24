@@ -6,6 +6,8 @@ description: "Mars sextile Jupiter en synastrie : l’énergie de l’une et le
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Jupiter", "sextile", "synastrie"]
 weight: 212
 glyph: "♂⚹♃"
 definition: "Mars sextile Jupiter en synastrie signifie que Mars, chez une personne, se trouve à environ 60° de Jupiter chez l’autre, à 3,6° près. L’énergie de la première et le sens du but de la seconde coopèrent dès que quelqu’un fait le premier pas. J’y lis une occasion d’effort commun, réelle si on la saisit."

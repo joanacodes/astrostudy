@@ -6,6 +6,8 @@ description: "Nœud Nord en Poissons dans un thème natal : laisser être, apr�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "Poissons"]
 weight: 156
 glyph: "☊♓"
 definition: "Nœud Nord en Poissons signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans ce signe d’eau mutable, le Nœud Sud en Vierge. J’y lis une croissance vers la confiance : la compassion, l’imaginaire, laisser certaines choses être, après une longue habitude de réparer, de vérifier et de bien faire."

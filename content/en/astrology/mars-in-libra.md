@@ -5,6 +5,8 @@ description: "Mars in Libra in a birth chart: Mars in detriment, drive that weig
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Libra"]
 weight: 55
 glyph: "♂♎"
 definition: "Mars in Libra sets the planet of initiative in its detriment, the cardinal air sign of Venus. It describes action taken with and for other people: you negotiate, fight for fairness and weigh both sides, and can be slow to say what you want for yourself. The skill it asks for is a plain *I want*."

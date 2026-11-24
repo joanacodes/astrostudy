@@ -5,6 +5,8 @@ description: "Uranus conjunct Neptune in a birth chart: invention and imaginatio
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Neptune", "conjunction"]
 weight: 305
 glyph: "♅☌♆"
 definition: "Uranus conjunct Neptune means you were born while the two outermost planets stood together, between 1990 and 1996, mostly in Capricorn. In a chart, the urge to invent and the capacity to imagine work as one process. A whole generation shares it, so your houses decide where it becomes yours."

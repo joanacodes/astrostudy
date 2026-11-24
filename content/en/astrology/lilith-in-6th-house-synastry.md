@@ -5,6 +5,8 @@ description: "Their Lilith in your 6th house in synastry: a refusal to serve on 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "6th house", "synastry", "house overlays"]
 weight: 138
 glyph: "⚸"
 definition: "Their Lilith in your 6th house means the other person’s mean Black Moon Lilith enters your daily round: tasks, routines, the working day. In synastry their refusal to serve on anyone else’s terms meets your habits: you may refuse work that isn’t yours, while your discipline feels like a frame or a cage to them. It never describes health."

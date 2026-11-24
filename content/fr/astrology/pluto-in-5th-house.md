@@ -6,6 +6,8 @@ description: "Pluton en maison 5 dans un thème natal : des passions profondes 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "maison 5", "maisons"]
 weight: 113
 glyph: "♇"
 definition: "En maison 5, Pluton emmène le changement profond dans la création, le plaisir, l’amour et le jeu. On y lit des passions profondes, et une création qui transforme. La tradition donnait les enfants à cette maison ; je ne la lis jamais pour prédire des enfants ou une grossesse. Il faut l’heure de naissance."

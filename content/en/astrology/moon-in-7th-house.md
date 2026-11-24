@@ -5,6 +5,8 @@ description: "Moon in the 7th house in a birth chart: feeling at home through cl
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "7th house", "houses"]
 weight: 19
 glyph: "☽"
 definition: "Moon in the 7th house means the Moon sat in the house of partners and close one-to-one bonds, just above the western horizon, when you were born. I read it as a need for closeness to feel at home, and feelings that come alive with one other person. It predicts no partner or date, and it needs the birth time."

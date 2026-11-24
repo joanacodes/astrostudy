@@ -6,6 +6,8 @@ description: "Le Soleil de l’autre dans votre maison 8 en synastrie : son él
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 8
 glyph: "☉"
 definition: "Le Soleil de l’autre dans votre maison 8 mène son Soleil là où se jouent l’intimité, la confiance et ce qui se partage ou se doit. En synastrie, son élan rencontre les endroits où vous laissez entrer quelqu’un : le lien va loin et vous change, et cette personne se sent vue en profondeur ; jamais une fin annoncée."

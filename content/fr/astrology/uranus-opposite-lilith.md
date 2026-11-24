@@ -6,6 +6,8 @@ description: "Uranus opposition Lilith dans un thème natal : l’envie de vous
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Lilith", "opposition"]
 weight: 324
 glyph: "♅☍⚸"
 definition: "Uranus opposition Lilith signifie qu’à votre naissance, Uranus et la Lune noire Lilith moyenne étaient à environ 180° d’écart. Dans un thème, l’envie de se distinguer et la part de vous qui refuse d’être domptée se font face, et se rencontrent souvent à travers d’autres personnes. J’y lis une polarité à intégrer, jamais un combat perdu d’avance."

@@ -6,6 +6,8 @@ description: "Jupiter opposition Neptune en synastrie : l’une parle depuis la
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Neptune", "opposition", "synastrie"]
 weight: 265
 glyph: "♃☍♆"
 definition: "Jupiter opposition Neptune en synastrie signifie que Jupiter, chez une personne, se trouve à environ 180° de Neptune chez l’autre, à 5° près. La conviction se tient à un bout, l’aspiration à l’autre, et chacune complète ce que l’autre laisse ouvert. Elle tient aux années de naissance ; je la lis dans les maisons, comme une polarité à équilibrer."

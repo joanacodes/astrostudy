@@ -6,6 +6,8 @@ description: "Lilith en Sagittaire dans un thème natal : une faim de monde plu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Sagittaire"]
 weight: 141
 glyph: "⚸♐"
 definition: "Lilith en Sagittaire signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans le feu mutable du signe de Jupiter. Elle désigne une faim de monde et de sens plus grande que ce qu’on vous offrait, souvent tue à la maison, et un refus des petits mondes."

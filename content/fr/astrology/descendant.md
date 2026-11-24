@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["descendant", "Descendant"]
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["Descendant", "angles"]
 weight: 2
 glyph: "DC"
 definition: "Le descendant est le degré du zodiaque qui se couchait à l’ouest, sur l’horizon, à votre naissance, exactement à l’opposé de l’ascendant. Les astrologues y lisent, avec la maison 7 à laquelle il appartient, ce que vous cherchez et rencontrez chez les autres : partenaires, amis proches, rivaux. Comme tout angle, il demande votre heure de naissance."

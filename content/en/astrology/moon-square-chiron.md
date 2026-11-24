@@ -5,6 +5,8 @@ description: "Moon square Chiron in a birth chart: your need for comfort rubbing
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Chiron", "square"]
 weight: 95
 glyph: "☽□⚷"
 definition: "Moon square Chiron means Chiron was a quarter-circle, about 90°, from your Moon at birth. In a chart it sets your need for comfort against a lasting sensitivity, so the moments you most need care can be the ones that touch it. I read it as friction that teaches you to ask for support in proportion."

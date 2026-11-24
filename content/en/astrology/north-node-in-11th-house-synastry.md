@@ -5,6 +5,8 @@ description: "Their North Node in your 11th house in synastry: belonging in your
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["North Node", "11th house", "synastry", "house overlays"]
 weight: 155
 glyph: "☊"
 definition: "Their North Node in your 11th house makes your friendships, groups and shared hopes the place where the other person grows, with their South Node across in your 5th. In your circle they learn to belong to something larger than the two of you, while charm and one-to-one fun with you need no learning at all."

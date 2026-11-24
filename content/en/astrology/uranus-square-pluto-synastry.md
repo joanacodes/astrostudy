@@ -5,6 +5,8 @@ description: "Uranus square Pluto in synastry: one generation’s quick reforms 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Pluto", "square", "synastry"]
 weight: 323
 glyph: "♅□♇"
 definition: "Uranus square Pluto in synastry sets one person’s Uranus at right angles to the other’s Pluto, within 3.4°. One generation’s urge to change things quickly keeps pushing against another’s urge to transform them slowly, at the root. I read it as friction between two ways of changing, through the houses, never as destruction."

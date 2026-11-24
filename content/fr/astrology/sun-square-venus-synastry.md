@@ -6,6 +6,8 @@ description: "Soleil carré Vénus en synastrie : une affection sous conditions
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Vénus", "carré", "synastrie"]
 weight: 13
 glyph: "☉□♀"
 definition: "Soleil carré Vénus en synastrie signifie que la Vénus d’une personne se trouve à environ 90° du Soleil de l’autre, à 6,8° près, un contact impossible dans un seul thème. Le goût de l’une rencontre l’identité de l’autre en biais. J’y lis une friction qui affine les deux, jamais un verdict sur le lien."

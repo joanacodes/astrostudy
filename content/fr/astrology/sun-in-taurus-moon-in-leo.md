@@ -6,6 +6,8 @@ description: "Soleil en Taureau, Lune en Lion : deux signes fixes, une Lune qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Taureau", "Lune", "Lion"]
 weight: 17
 glyph: "☉♉☽♌"
 definition: "Soleil en Taureau, Lune en Lion réunit deux signes fixes à trois signes d’écart, pour une naissance autour du premier quartier. Le Lion est le signe du Soleil : votre Lune répond donc à votre Soleil. J’y lis la fidélité en deux styles : un moi qui reste, des besoins qui veulent une chaleur rendue à voix haute."

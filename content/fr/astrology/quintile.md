@@ -6,6 +6,8 @@ description: "Le quintile en astrologie : deux planètes à 72°, un cinquième
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["quintile", "aspects mineurs"]
 weight: 10
 glyph: "✦"
 definition: "Le quintile est un angle de 72° entre deux planètes, un cinquième du cercle, à deux ou trois signes d’écart. Dans un thème natal, il marque deux planètes capables de s’organiser l’une l’autre en un motif : un sens du métier, de la mise en forme d’une matière brute. Il décrit un potentiel à travailler, pas un talent tout donné."

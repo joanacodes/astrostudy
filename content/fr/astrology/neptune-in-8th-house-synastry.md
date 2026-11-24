@@ -6,6 +6,8 @@ description: "Neptune de l’autre dans votre maison 8 en synastrie : son dési
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 104
 glyph: "♆"
 definition: "Neptune de l’autre dans votre maison 8 conduit Neptune, chez cette personne, vers ce que vous partagez : intimité, confiance, ressources communes. En synastrie, son désir de fusion rencontre ce que vous mettez en commun : la confiance se donne d’un bloc, la proximité se passe de mots, et l’argent comme le consentement demandent à être dits. Jamais une mort annoncée."

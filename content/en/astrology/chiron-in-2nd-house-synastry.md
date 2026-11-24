@@ -5,6 +5,8 @@ description: "Their Chiron in your 2nd house in synastry: an old sore spot about
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "2nd house", "synastry", "house overlays"]
 weight: 122
 glyph: "⚷"
 definition: "Their Chiron in your 2nd house lodges the other person’s Chiron among what you have and value: money, belongings, skills you could live from, self-worth. In synastry what they learned the hard way meets your resources; they often see what you undervalue, and your ease or thrift may touch an old sore spot."

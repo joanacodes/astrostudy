@@ -5,6 +5,8 @@ description: "Lilith in the 7th house in a birth chart: the hidden part you meet
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "7th house", "houses"]
 weight: 139
 glyph: "⚸"
 definition: "Lilith in the 7th house means Black Moon Lilith, the Moon’s farthest point from Earth, sat in the house that begins at your Descendant, the house of partners, when you were born. I read it as a hidden part you often meet first in someone else, and a refusal to be the smaller half of any bond."

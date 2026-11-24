@@ -5,6 +5,8 @@ description: "Moon opposite Neptune in a birth chart: your own needs facing an i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Neptune", "opposition"]
 weight: 87
 glyph: "☽☍♆"
 definition: "Moon opposite Neptune means that when you were born, Neptune stood across the zodiac from your Moon, about 180° away. It sets your own needs across from your ideals and your compassion, two ends of one axis that you often meet through other people. I read it as a balance between caring for yourself and caring beyond yourself."

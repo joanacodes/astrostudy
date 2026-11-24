@@ -6,6 +6,8 @@ description: "Les éclipses en Capricorne : vingt de 2000 à 2040 sur l’axe C
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["éclipses", "Capricorne"]
 weight: 10
 glyph: "●♑"
 definition: "Une éclipse en Capricorne se produit quand une nouvelle lune y obscurcit le Soleil, ou quand la pleine Lune en Capricorne, face à un Soleil en Cancer, traverse l’ombre de la Terre, toutes deux près des nœuds. Le signe en compte vingt de 2000 à 2040. Ce qui la fait compter, c’est un point natal à environ trois degrés."

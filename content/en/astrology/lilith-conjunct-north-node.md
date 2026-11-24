@@ -5,6 +5,8 @@ description: "Lilith conjunct North Node in a birth chart: growth that brings yo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "North Node", "conjunction"]
 weight: 375
 glyph: "⚸☌☊"
 definition: "Lilith conjunct North Node means the mean Black Moon Lilith stood within a few degrees of the North Node at your birth, opposite the South Node. In a chart, your direction of growth runs through the part of you that refused to be tamed: the less familiar capacity you practise includes your instinct instead of leaving it outside."

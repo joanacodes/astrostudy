@@ -6,6 +6,8 @@ description: "Soleil en Lion, Lune en Sagittaire : feu trigone feu, fixe et mut
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion", "Lune", "Sagittaire"]
 weight: 57
 glyph: "☉♌☽♐"
 definition: "Soleil en Lion, Lune en Sagittaire place les deux luminaires dans le feu, à quatre signes d’écart, pour une naissance juste après le premier quartier, le mois lunaire âgé de 7 jours et demi à 12 jours. Le Soleil est chez lui, Jupiter gouverne la Lune. J’y lis un cœur généreux qui a besoin d’un horizon pour le rester."

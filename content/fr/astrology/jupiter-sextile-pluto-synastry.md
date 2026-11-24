@@ -6,6 +6,8 @@ description: "Jupiter sextile Pluton en synastrie : le sens du possible de l’
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Pluton", "sextile", "synastrie"]
 weight: 267
 glyph: "♃⚹♇"
 definition: "Jupiter sextile Pluton en synastrie signifie que Jupiter, chez une personne, se trouve à environ 60° de Pluton chez l’autre, à 3° près. Le sens du possible et la capacité de renouveau peuvent s’entraider, sans bruit, dès que quelqu’un choisit d’aller plus profond. Ce sextile vient des années de naissance : sa place est dans les maisons, pas parmi les aspects."

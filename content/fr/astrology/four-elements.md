@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["quatre éléments"]
 family: "foundations"
+categories: ["Les bases"]
+tags: ["éléments", "thème natal"]
 weight: 15
 glyph: "♈♉♊♋"
 definition: "Les quatre éléments, feu, terre, air et eau, répartissent les douze signes en quatre familles de trois. Le feu agit par enthousiasme, la terre se fie à ce qu’elle peut toucher, l’air vit d’idées et d’échanges, l’eau lit le monde par le ressenti. Dans un thème, l’élément décrit le tempérament qu’un signe prête à ses planètes, jamais un verdict."

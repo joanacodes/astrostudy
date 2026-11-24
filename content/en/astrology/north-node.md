@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["North Node"]
 family: "angles"
+categories: ["Planets and points"]
+tags: ["North Node", "lunar nodes"]
 weight: 7
 glyph: "☊"
 definition: "The North Node is a point, not a planet: where the Moon’s path crosses the Sun’s going north, with the South Node exactly opposite. In a birth chart, astrologers read it as the direction of growth — less familiar than what came easily, awkward at first, and usually worth the effort. Its sign and house say where."

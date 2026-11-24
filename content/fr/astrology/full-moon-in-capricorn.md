@@ -6,6 +6,8 @@ description: "La pleine lune en Capricorne, la première après le solstice de j
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "pleine lune", "Capricorne"]
 weight: 57
 glyph: "○♑"
 definition: "La pleine lune en Capricorne, c’est la Lune en Capricorne face au Soleil en Cancer, la première pleine lune après le solstice de juin. Elle éclaire l’axe Capricorne–Cancer du côté public : le devoir et la position face au foyer et au soin. Dans un thème, elle compte à 1° environ d’un point natal ; à 3° pour une éclipse."

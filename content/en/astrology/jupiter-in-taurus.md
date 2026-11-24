@@ -5,6 +5,8 @@ description: "Jupiter in Taurus in a birth chart: growth that takes root slowly,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Taurus"]
 weight: 62
 glyph: "♃♉"
 definition: "Jupiter in Taurus is Jupiter, the planet of growth and meaning, in the fixed earth sign ruled by Venus. Everyone born within the same year or so has it. I read it as growth that takes root slowly: understanding that comes through the senses, practical principles, and trust in what has shown it can last."

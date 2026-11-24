@@ -6,6 +6,8 @@ description: "Soleil trigone Neptune dans un thème natal : l’imaginaire et l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Neptune", "trigone"]
 weight: 31
 glyph: "☉△♆"
 definition: "Soleil trigone Neptune signifie qu’à votre naissance, Neptune se trouvait à environ 120° de votre Soleil, en général dans un signe du même élément. Dans un thème, votre sens de vous-même et votre imaginaire travaillent ensemble sans effort : l’empathie et l’inspiration viennent naturellement. J’y lis une vraie aisance, dont le seul risque est de rester inemployée."

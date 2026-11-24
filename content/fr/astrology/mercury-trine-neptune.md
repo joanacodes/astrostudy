@@ -6,6 +6,8 @@ description: "Mercure trigone Neptune dans un thème natal : une imagination qu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Neptune", "trigone"]
 weight: 133
 glyph: "☿△♆"
 definition: "Mercure trigone Neptune relie à 120° la planète des mots et celle de l’imagination, en général par deux signes du même élément. Dans un thème, l’imagination passe dans le langage sans perdre sa couleur : les sentiments trouvent leur phrase. J’y lis une aisance créative qui grandit avec l’usage, pas une aisance qui travaille toute seule."

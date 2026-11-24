@@ -5,6 +5,8 @@ description: "Venus in astrology: what you love and value, in each sign and hous
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planets and points"]
+tags: ["Venus"]
 weight: 4
 glyph: "♀"
 definition: "Venus is the brightest planet in our sky. In astrology it is the planet of love, pleasure and value: what you find beautiful, how you give and receive affection, what you want to keep. In a birth chart its sign shows your way of loving, and its house where pleasure comes most easily."

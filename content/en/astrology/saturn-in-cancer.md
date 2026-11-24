@@ -5,6 +5,8 @@ description: "Saturn in Cancer in a birth chart: the planet of boundaries in det
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Cancer"]
 weight: 76
 glyph: "♄♋"
 definition: "Saturn in Cancer means the planet of boundaries was in the sign of care at your birth: cardinal water, ruled by the Moon, where tradition counts Saturn in detriment. Births in roughly 1944–46, 1973–76 and 2003–05 share it. It points to emotional safety learned slowly, and boundaries that protect feeling without shutting it away."

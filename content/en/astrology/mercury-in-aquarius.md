@@ -5,6 +5,8 @@ description: "Mercury in Aquarius in a birth chart: an independent mind that thi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Aquarius"]
 weight: 35
 glyph: "☿♒"
 definition: "Mercury in Aquarius is the planet of thought and speech in fixed air, the sign ruled by Uranus and, traditionally, Saturn. It describes an independent, inventive mind that thinks in systems, questions rules that can’t explain themselves and holds to what it has reasoned out. About 1 person in 12 born 1930–2009 has it."

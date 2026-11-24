@@ -6,6 +6,8 @@ description: "Soleil conjonction Chiron dans un thème natal : un point sensibl
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Chiron", "conjonction"]
 weight: 38
 glyph: "☉☌⚷"
 definition: "Soleil conjonction Chiron signifie qu’à votre naissance, Chiron se trouvait à quelques degrés de votre Soleil. Dans un thème, cette conjonction place un point sensible près du centre de qui vous êtes : votre façon de briller et ce qui vous a coûté sont liés. J’y lis une blessure qui, travaillée, devient un savoir-faire à partager."

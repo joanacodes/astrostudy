@@ -6,6 +6,8 @@ description: "Les éclipses en Poissons : treize de 2000 à 2040 sur l’axe Po
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["éclipses", "Poissons"]
 weight: 12
 glyph: "●♓"
 definition: "Une éclipse tombe en Poissons de deux façons : lors d’une nouvelle lune proche des nœuds, le Soleil et la Lune réunis en Poissons, ou lors d’une pleine lune, la Lune en Poissons et le Soleil en Vierge. Treize tombent entre 2000 et 2040. Une éclipse dans ce signe n’entre dans une lecture qu’à environ trois degrés d’un point natal."

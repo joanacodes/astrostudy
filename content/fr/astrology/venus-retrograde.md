@@ -6,6 +6,8 @@ description: "Vénus rétrograde en astrologie : pourquoi Vénus recule tous le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "dignities"
+categories: ["Planètes et points"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde"]
 weight: 6
 glyph: "♀℞"
 definition: "Vénus rétrograde, ce sont les six semaines environ, tous les 580 à 588 jours, où Vénus semble reculer dans le zodiaque, vue depuis la Terre, en passant entre nous et le Soleil. Ses rétrogradations reviennent presque aux mêmes degrés tous les huit ans. J’y lis une saison pour peser de nouveau ce à quoi vous tenez, et pourquoi."

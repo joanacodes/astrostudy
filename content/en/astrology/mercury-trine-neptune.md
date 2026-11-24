@@ -5,6 +5,8 @@ description: "Mercury trine Neptune in a birth chart: imagination that passes ea
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Neptune", "trine"]
 weight: 133
 glyph: "☿△♆"
 definition: "Mercury trine Neptune joins the planet of words and the planet of imagination at 120°, usually through two signs of the same element. In a chart it lets imagination pass into language without losing its colour, so feelings find their sentence. I read it as a creative ease that grows with use, not one that works on its own."

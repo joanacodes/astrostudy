@@ -5,6 +5,8 @@ description: "Moon sextile Mercury in a birth chart: an open door between feelin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Mercury", "sextile"]
 weight: 54
 glyph: "☽⚹☿"
 definition: "Moon sextile Mercury means the Moon and Mercury were about 60° apart when you were born, usually two signs apart. In a chart it opens a door between feeling and thinking: words can settle a mood, and a mood can guide a thought, once you let them meet. I read it as help that waits to be used."

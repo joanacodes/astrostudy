@@ -5,6 +5,8 @@ description: "The new moon in Gemini: the Sun and Moon together in mutable air, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "new moon", "Gemini"]
 weight: 38
 glyph: "●♊"
 definition: "The new moon in Gemini falls while the Sun is in Gemini, between about 21 May and 20 June: the Sun and Moon together in mutable air. In 2029 and 2030 it is also a solar eclipse. I read it as a marker for curiosity and talk, counted only within a degree of a natal point."

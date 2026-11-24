@@ -5,6 +5,8 @@ description: "Mercury in the 9th house in a birth chart: a mind that wants the l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "9th house", "houses"]
 weight: 33
 glyph: "☿"
 definition: "Mercury in the 9th house is the planet of thought and speech in the house of long journeys, foreign languages, belief and the search for meaning. It describes a mind that learns for understanding rather than credentials, enjoys big questions and debate, and travels, on foot or on paper, to find answers. It needs the birth time."

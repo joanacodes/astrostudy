@@ -5,6 +5,8 @@ description: "Sun opposite Mars in synastry: one person’s drive faces the othe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Mars", "opposition", "synastry"]
 weight: 20
 glyph: "☉☍♂"
 definition: "Sun opposite Mars in synastry means one person’s Mars is about 180° from the other’s Sun, within 8°. One person’s drive faces the other’s sense of self across the zodiac, like a sparring partner. I read it as a polarity that makes both people stronger when they agree to be on the same side."

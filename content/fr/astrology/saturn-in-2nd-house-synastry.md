@@ -6,6 +6,8 @@ description: "Saturne de l’autre dans votre maison 2 en synastrie : une prude
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 74
 glyph: "♄"
 definition: "Saturne de l’autre dans votre maison 2 installe Saturne, dans le thème d’une autre personne, parmi vos ressources : l’argent, les biens, les compétences, la valeur que vous vous accordez. En synastrie, sa prudence rencontre votre idée de la sécurité : vous bâtissez peut-être du solide ensemble, et elle se sent comptable de ce que vous dépensez et gardez."

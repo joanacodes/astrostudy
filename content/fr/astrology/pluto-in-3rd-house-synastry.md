@@ -6,6 +6,8 @@ description: "Pluton de l’autre dans votre maison 3 en synastrie : sa profond
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 111
 glyph: "♇"
 definition: "Pluton de l’autre dans votre maison 3 fait entrer la profondeur d’une autre personne dans votre pensée quotidienne : parler, écrire, apprendre, les courses de chaque jour. En synastrie, la conversation descend d’un étage, ses questions aiguisent votre réflexion, et vos mots pèsent lourd pour cette personne. L’échange ressemble parfois à un interrogatoire : vous choisissez ce que vous répondez."

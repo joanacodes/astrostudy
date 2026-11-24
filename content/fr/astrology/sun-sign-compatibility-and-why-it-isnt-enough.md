@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["compatibilité des signes", "compatibilité astrologique"]
 family: "techniques"
+categories: ["Synastrie"]
+tags: ["Soleil", "signes du zodiaque", "synastrie"]
 weight: 55
 glyph: "✦"
 definition: "La compatibilité des signes solaires compare deux personnes par leur seul signe solaire : éléments, modes, et nombre de signes qui les séparent. Elle peut esquisser la rencontre de deux élans. Elle ne suffit pas : elle lit un seul placement de chaque thème, par signe et non par degré, sans la Lune, Vénus, Mars, les angles ni les maisons."

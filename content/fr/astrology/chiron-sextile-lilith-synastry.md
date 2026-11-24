@@ -6,6 +6,8 @@ description: "Chiron sextile Lilith en synastrie : les contournements de l’un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "Lilith", "sextile", "synastrie"]
 weight: 377
 glyph: "⚷⚹⚸"
 definition: "Chiron sextile Lilith en synastrie est un lien de 60°, tenu à 1,8°, qui va du Chiron d’un premier thème jusqu’à la Lilith d’un second, l’orbe le plus serré que j’utilise. L’adaptation de l’une et la part indomptée de l’autre peuvent s’entraider, si quelqu’un demande. J’y lis une ouverture, par les maisons."

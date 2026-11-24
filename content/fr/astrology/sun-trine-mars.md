@@ -6,6 +6,8 @@ description: "Soleil trigone Mars dans un thème natal : l’effort qui suit vo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Mars", "trigone"]
 weight: 11
 glyph: "☉△♂"
 definition: "Soleil trigone Mars signifie une naissance avec Mars à quatre signes du Soleil, à environ 120°, en général dans le même élément. Dans un thème, votre effort va là où se dirige votre but. J’y lis un élan qui coule avec la direction, au meilleur quand vous apprenez aussi à pousser là où rien ne coule."

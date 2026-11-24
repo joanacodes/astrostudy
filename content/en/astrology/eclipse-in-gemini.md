@@ -5,6 +5,8 @@ description: "Eclipses in Gemini: sixteen from 2000 to 2040, most solar ones ann
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["eclipses", "Gemini"]
 weight: 3
 glyph: "●♊"
 definition: "When a new moon close to the Moon’s nodes falls in Gemini, the Sun is eclipsed there; when a full moon does, the Moon is eclipsed in Gemini while the Sun stands opposite in Sagittarius. Sixteen such eclipses fall between 2000 and 2040. I count one only within about three degrees of a natal point."

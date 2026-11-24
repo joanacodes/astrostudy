@@ -6,6 +6,8 @@ description: "Uranus en maison 12 dans un thème natal : une vie intérieure in
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "maison 12", "maisons"]
 weight: 96
 glyph: "♅"
 definition: "Uranus en maison 12 place la planète du changement dans la maison de la solitude, du repos, du travail discret et de la vie intérieure, une maison cadente juste au-dessus de l’ascendant, de signe naturel Poissons. J’y lis une liberté gardée pour soi, et un changement qui mûrit dedans avant de se voir. Rien n’y prédit un enfermement."

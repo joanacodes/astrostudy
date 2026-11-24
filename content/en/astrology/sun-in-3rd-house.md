@@ -5,6 +5,8 @@ description: "Sun in the 3rd house in a birth chart: purpose found close by, in 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "3rd house", "houses"]
 weight: 3
 glyph: "☉"
 definition: "Sun in the 3rd house means the Sun was in the house of the everyday mind when you were born, below the horizon in the hours after the middle of the night. I read it as an identity tied to your voice, and a purpose found in conversation, learning and the people within reach. It needs the birth time."

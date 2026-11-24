@@ -6,6 +6,8 @@ description: "Soleil sextile Pluton en synastrie : aux tournants, l’une peut 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Pluton", "sextile", "synastrie"]
 weight: 42
 glyph: "☉⚹♇"
 definition: "Soleil sextile Pluton en synastrie met la capacité de renouveau d’une personne à portée du but de l’autre, à environ 60° et à 4,8° près. Aux tournants, la personne qui a le Soleil peut puiser dans la profondeur de l’autre. J’y lis une résilience offerte, qui fonctionne dès qu’on la demande."

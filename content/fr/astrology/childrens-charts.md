@@ -6,6 +6,8 @@ description: "Le thème des enfants : pourquoi je ne lis aucun thème de mineur
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Lectures"]
+tags: ["consentement"]
 weight: 65
 glyph: "✦"
 definition: "Le thème d’un enfant est un thème natal dressé pour une personne de moins de 18 ans. Je n’en lis aucun, ni rien au sujet d’un enfant, même dans une synastrie familiale. Lu au mauvais âge, un thème peut devenir une étiquette à laquelle l’enfant finit par ressembler ; c’est à cette personne, une fois adulte, de l’ouvrir ou non."

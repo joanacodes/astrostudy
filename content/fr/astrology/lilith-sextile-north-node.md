@@ -6,6 +6,8 @@ description: "Lilith sextile Nœud Nord dans un thème natal : votre instinct �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Nœud Nord", "sextile"]
 weight: 376
 glyph: "⚸⚹☊"
 definition: "Lilith sextile Nœud Nord désigne un angle de 60° entre la Lune noire Lilith moyenne et le Nœud Nord à la naissance, Lilith étant à 120° du Nœud Sud. Dans un thème, votre part indomptée reçoit un vrai rôle dans votre croissance : elle sait souvent quels chemins peu familiers sont vraiment les vôtres, si vous choisissez de l’écouter."

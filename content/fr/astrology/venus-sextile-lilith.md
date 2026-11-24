@@ -6,6 +6,8 @@ description: "Vénus sextile Lilith dans un thème natal : ce que vous aimez et
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Lilith", "sextile"]
 weight: 191
 glyph: "♀⚹⚸"
 definition: "Vénus sextile Lilith signifie qu’à votre naissance, Vénus se trouvait à environ 60° de la Lune noire Lilith moyenne, en général dans des signes d’éléments complémentaires. Ce que vous aimez et votre part indomptée coopèrent : votre goût, votre franchise et vos limites sont là, à apporter dans un lien. J’y lis une authenticité à portée de main, choisie."

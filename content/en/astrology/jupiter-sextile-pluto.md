@@ -5,6 +5,8 @@ description: "Jupiter sextile Pluto in a birth chart: an opening between growth 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Pluto", "sextile"]
 weight: 256
 glyph: "♃⚹♇"
 definition: "Jupiter sextile Pluto means Jupiter and Pluto about 60° apart, an angle reached about two years before and after each of their meetings. In a chart, the urge to widen your understanding and the urge to transform it can cooperate, once you take the opening. A year-group shares it; your houses make it yours."

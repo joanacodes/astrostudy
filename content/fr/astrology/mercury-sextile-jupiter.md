@@ -6,6 +6,8 @@ description: "Mercure sextile Jupiter dans un thème natal : une curiosité qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Jupiter", "sextile"]
 weight: 116
 glyph: "☿⚹♃"
 definition: "Mercure sextile Jupiter signifie qu’à votre naissance, Mercure et Jupiter étaient à environ 60° d’écart. Dans un thème, vos questions et votre recherche de sens s’entraident : un détail peut vous mener à la vue d’ensemble, et la vue d’ensemble vous ramener aux faits. J’y lis une invitation à apprendre, pas la promesse de réponses faciles."

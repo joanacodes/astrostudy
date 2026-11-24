@@ -6,6 +6,8 @@ description: "Bénéfiques et maléfiques en astrologie : les planètes bonnes 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 22
 glyph: "♃♀♄♂"
 definition: "Bénéfiques et maléfiques sont les noms que la tradition donnait aux planètes censées apporter le bien ou la difficulté : Jupiter et Vénus d’un côté, Saturne et Mars de l’autre. Ce sont les mots des vieux livres, pas des verdicts. Je lis chaque planète par ce qu’elle fait : une maléfique montre l’effort, la limite ou l’élan, jamais le malheur."

@@ -6,6 +6,8 @@ description: "Quand consulter plutôt un professionnel qu’un astrologue : les
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Lectures"]
+tags: ["santé mentale"]
 weight: 67
 glyph: "✦"
 definition: "Consultez un professionnel plutôt qu’un astrologue dès que votre question touche à votre corps, à votre esprit, au droit, à votre argent ou à la sécurité de quelqu’un. Un médecin, un thérapeute, un avocat, un conseiller financier ou les secours peuvent agir ; un thème, non. Une lecture sert à réfléchir, à côté de leurs réponses, jamais à leur place."

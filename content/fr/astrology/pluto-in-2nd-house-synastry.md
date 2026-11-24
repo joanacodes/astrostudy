@@ -6,6 +6,8 @@ description: "Pluton de l’autre dans votre maison 2 en synastrie : sa profond
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 110
 glyph: "♇"
 definition: "Avec Pluton de l’autre dans votre maison 2, la profondeur d’une autre personne atteint vos ressources et l’idée que vous vous faites de votre valeur. En synastrie, ce que vous possédez et gagnez passe en revue, l’estime de soi se reconstruit plus solidement, et ce qui vous est cher fascine cette personne. Rien n’y annonce gain ou perte."

@@ -6,6 +6,8 @@ description: "Mercure de l’autre dans votre maison 10 en synastrie : sa pens�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "maison 10", "synastrie", "superpositions de maisons"]
 weight: 34
 glyph: "☿"
 definition: "Mercure de l’autre dans votre maison 10 dirige la pensée de cette personne vers votre travail, votre rôle et votre réputation. En synastrie, elle conseille, élabore des stratégies et parle de votre vie publique, parfois à d’autres ; vous y gagnez une caisse de résonance pour vos ambitions, et elle une scène pour ses idées, pourvu que le mérite se partage."

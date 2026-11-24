@@ -5,6 +5,8 @@ description: "Moon opposite North Node in synastry: one person’s needs fall on
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "North Node", "opposition", "synastry"]
 weight: 115
 glyph: "☽☍☊"
 definition: "Moon opposite North Node in synastry means one person’s Moon sits opposite the other’s North Node, within 8°, which places it on their South Node. What one person needs lands on the other’s oldest strengths, while their growth lies across the chart. I read it as a familiar base that shouldn’t become a ceiling."

@@ -6,6 +6,8 @@ description: "Soleil conjonction Chiron en synastrie : l’une rayonne là mêm
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Chiron", "conjonction", "synastrie"]
 weight: 46
 glyph: "☉☌⚷"
 definition: "Soleil conjonction Chiron en synastrie place le Soleil d’une personne à moins de 8° de Chiron dans le thème de l’autre : ce que l’une fait sans effort tombe là où l’autre a dû s’adapter autour d’un point sensible. La reconnaissance va dans les deux sens. J’y lis la rencontre d’une aisance et d’un savoir-faire durement acquis."

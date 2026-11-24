@@ -6,6 +6,8 @@ description: "Vénus sextile Mars en synastrie : le goût de l’une et l’ini
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Mars", "sextile", "synastrie"]
 weight: 167
 glyph: "♀⚹♂"
 definition: "Vénus sextile Mars en synastrie signifie que Vénus, chez une personne, se trouve à environ 60° de Mars chez l’autre, à 3,6° près. Les préférences de l’une et l’initiative de l’autre coopèrent : les idées sont reprises, les efforts appréciés. J’y lis une chaleur pratique, en couple, en amitié ou au travail, qui attend un premier pas."

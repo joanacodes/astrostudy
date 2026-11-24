@@ -5,6 +5,8 @@ description: "The Buck moon, July’s full moon: its dates and signs from 2026 t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 26
 glyph: "○"
 definition: "The Buck moon is the almanacs’ name for the full moon of July, when the new antlers of male deer are growing. It is a folk name, not astrology. In a chart it is a full moon in Capricorn or Aquarius, opposite a Sun in Cancer or Leo; in 2027 and 2028 it is also a lunar eclipse."

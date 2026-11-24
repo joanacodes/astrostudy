@@ -5,6 +5,8 @@ description: "Saturn conjunct Chiron in synastry: one person’s rules land on t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Chiron", "conjunction", "synastry"]
 weight: 301
 glyph: "♄☌⚷"
 definition: "Saturn conjunct Chiron in synastry puts one person’s Saturn within 5° of the other’s Chiron: a structure laid on the very degree where someone has learned to work around a lasting limit. I read it as one method built by two people, shared by whole birth years, and read through the houses."

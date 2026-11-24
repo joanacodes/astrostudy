@@ -6,6 +6,8 @@ description: "Soleil trigone Uranus dans un thème natal : une originalité au 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Uranus", "trigone"]
 weight: 26
 glyph: "☉△♅"
 definition: "Soleil trigone Uranus est un angle facile d’environ 120° entre votre Soleil et Uranus, le plus souvent au sein d’un même élément. Dans un thème, être vous-même et faire les choses autrement vont ensemble, sans lutte. J’y lis une originalité qui suit le but, au meilleur quand vous vous servez vraiment de la liberté qu’elle donne."

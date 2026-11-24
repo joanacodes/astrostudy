@@ -5,6 +5,8 @@ description: "Venus opposite Chiron in a birth chart: what you value facing the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Chiron", "opposition"]
 weight: 189
 glyph: "♀☍⚷"
 definition: "Venus opposite Chiron means Venus and Chiron stood about 180° apart at your birth. In a chart, what you value and the way you adapt around a lasting sensitivity face each other, so the tender place is often met in the people you love. To me it’s a lesson in reciprocity, learned at both ends of care."

@@ -6,6 +6,8 @@ description: "Mercure de l’autre dans votre maison 4 en synastrie : une parol
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 28
 glyph: "☿"
 definition: "Mercure de l’autre dans votre maison 4, c’est une parole qui entre chez vous : la curiosité de cette personne gagne votre intérieur, votre histoire et votre part privée. En synastrie, vous trouvez avec elle des mots pour les histoires de famille et décidez ensemble des choses de la maison ; votre monde privé offre à sa pensée un endroit calme."

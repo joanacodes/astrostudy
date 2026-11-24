@@ -5,6 +5,8 @@ description: "Jupiter trine Pluto in synastry: one person’s perspective and th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Pluto", "trine", "synastry"]
 weight: 269
 glyph: "♃△♇"
 definition: "Jupiter trine Pluto in synastry means one person’s Jupiter is about 120° from the other’s Pluto, within 4.25°. Perspective and the capacity for renewal support each other, so change can leave both people with more room than before. It belongs to long spans of birth years, so the houses carry my reading."

@@ -6,6 +6,8 @@ description: "Vénus conjonction Nœud Nord en synastrie : la façon d’aimer 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Nœud Nord", "conjonction", "synastrie"]
 weight: 206
 glyph: "♀☌☊"
 definition: "Vénus conjonction Nœud Nord en synastrie signifie que Vénus, chez une personne, se trouve à moins de 6° du Nœud Nord de l’autre, donc en face de son Nœud Sud. Ce que la première aime et fait sans effort, la seconde est en train de l’apprendre. J’y lis un encouragement vers une capacité nouvelle, jamais un destin."

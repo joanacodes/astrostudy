@@ -6,6 +6,8 @@ description: "Le Nœud Nord de l’autre dans votre maison 11 en synastrie : ap
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Nœud Nord", "maison 11", "synastrie", "superpositions de maisons"]
 weight: 155
 glyph: "☊"
 definition: "Le Nœud Nord de l’autre dans votre maison 11 signifie que cette personne grandit parmi vos amitiés, vos groupes et vos espoirs partagés, tandis que son Nœud Sud occupe votre maison 5. Dans votre cercle, elle apprend à appartenir à plus grand que vous deux ; le charme et le plaisir en tête-à-tête, eux, ne s’apprennent pas."

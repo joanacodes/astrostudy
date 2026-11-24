@@ -6,6 +6,8 @@ description: "Vénus carré Saturne en synastrie : le « allons-y » de l’u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Saturne", "carré", "synastrie"]
 weight: 178
 glyph: "♀□♄"
 definition: "Vénus carré Saturne en synastrie signifie que Vénus, chez une personne, se trouve à environ 90° de Saturne chez l’autre, à 5,1° près. Ce que la première veut savourer ou offrir rencontre la prudence de la seconde : les conditions de l’affection se négocient. J’y lis une négociation entre deux adultes, jamais un refus."

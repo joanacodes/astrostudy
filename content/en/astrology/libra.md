@@ -5,6 +5,8 @@ description: "Libra in astrology: the sign of the scales, ruled by Venus. Libra 
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signs"]
+tags: ["Libra"]
 weight: 7
 glyph: "♎"
 definition: "Libra is the seventh sign of the zodiac, a cardinal air sign ruled by Venus; the Sun crosses it from about 23 September to 22 October. In a birth chart it shows where you weigh both sides and look for fairness, and the part of life you would rather work out with someone than alone."

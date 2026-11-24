@@ -6,6 +6,8 @@ description: "Le cerf-volant en astrologie : un grand trigone et une quatrième
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["configurations"]
 weight: 7
 glyph: "△☍"
 definition: "Un cerf-volant est un grand trigone auquel s’ajoute une quatrième planète, opposée à un sommet et en sextile avec les deux autres. L’opposition donne à l’aisance du triangle une direction et un point d’effort : le talent a quelque chose à faire. Jamais plus fréquent que le grand trigone dont il a besoin, il apparaît dans environ 1 thème sur 19."

@@ -6,6 +6,8 @@ description: "Le thème en seau en astrologie : neuf planètes d’un côté de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["formes de thème"]
 weight: 18
 glyph: "✦"
 definition: "Un thème en seau a neuf planètes dans une moitié de la roue et la dixième seule dans l’autre, comme une anse. Marc Edmund Jones lui a donné son nom. Je regarde l’anse de près, sans lui laisser le dernier mot. Selon la règle simple du décompte, 1 thème sur 3 environ est un seau."

@@ -6,6 +6,8 @@ description: "Soleil en Lion, Lune en Gémeaux : le feu et l’air en sextile p
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion", "Lune", "Gémeaux"]
 weight: 51
 glyph: "☉♌☽♊"
 definition: "Soleil en Lion, Lune en Gémeaux associe le feu fixe et l’air mutable, à deux signes d’écart, pour une naissance dans la quatrième semaine du mois lunaire, après le dernier quartier. Imaginez un cœur accompagné d’un commentaire continu : une grande fidélité au centre, des besoins nourris de mots et de variété."

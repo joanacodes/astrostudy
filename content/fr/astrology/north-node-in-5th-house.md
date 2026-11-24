@@ -6,6 +6,8 @@ description: "Nœud Nord en maison 5 dans un thème natal : faire de la place �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "maison 5", "maisons"]
 weight: 149
 glyph: "☊"
 definition: "Nœud Nord en maison 5 signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil tombait dans la maison de la joie et du jeu, le Nœud Sud en maison 11. J’y lis une croissance vers le plaisir : créer, aimer, jouer pour vous-même, après l’habitude de faire passer le groupe d’abord."

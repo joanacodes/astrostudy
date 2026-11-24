@@ -6,6 +6,8 @@ description: "Neptune sextile Pluton dans un thème natal : l’aspect qui a du
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Pluton", "sextile"]
 weight: 331
 glyph: "♆⚹♇"
 definition: "Neptune sextile Pluton place les deux planètes à environ 60° l’une de l’autre, un aspect qui a duré des décennies : environ 7 personnes sur 10 nées entre 1930 et 2009 le portent, dont presque toutes celles nées de 1943 à 1993. Dans un thème, ce sextile ouvre une porte entre l’imagination et le renouveau profond ; les maisons le rendent personnel."

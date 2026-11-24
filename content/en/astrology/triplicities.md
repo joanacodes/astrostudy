@@ -5,6 +5,8 @@ description: "Triplicities in astrology: the four triangles of signs of one elem
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 18
 glyph: "♈♌♐"
 definition: "A triplicity is a group of three signs of the same element, 120° apart, forming a triangle in the zodiac: fire, earth, air and water each have one. Planets in its signs tend to make trines. Tradition also gives each triplicity planetary rulers, one by day, one by night and one shared, as a measure of support."

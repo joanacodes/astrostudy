@@ -6,6 +6,8 @@ description: "Lune opposition Nœud Nord en synastrie : ce dont l’une a besoi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Nœud Nord", "opposition", "synastrie"]
 weight: 115
 glyph: "☽☍☊"
 definition: "Lune opposition Nœud Nord en synastrie signifie que la Lune d’une personne fait face au Nœud Nord de l’autre, à 8° près, donc sur son Nœud Sud. Les besoins de l’une rejoignent les forces les plus anciennes de l’autre, qui grandit dans la direction opposée. J’y lis une base familière, à ne pas changer en plafond."

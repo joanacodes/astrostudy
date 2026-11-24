@@ -5,6 +5,8 @@ description: "Mars square Jupiter in synastry: one person’s next step meets th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Jupiter", "square", "synastry"]
 weight: 213
 glyph: "♂□♃"
 definition: "Mars square Jupiter in synastry means one person’s Mars is about 90° from the other’s Jupiter, within 5.1°, usually in signs of one modality. One person’s drive to act now meets the other’s sense of the larger aim, and each tests the other’s scale. I read it as friction that teaches proportion, never a clash of characters."

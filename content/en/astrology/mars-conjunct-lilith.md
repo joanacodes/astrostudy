@@ -5,6 +5,8 @@ description: "Mars conjunct Lilith in a birth chart: drive fused with the part o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Lilith", "conjunction"]
 weight: 230
 glyph: "♂☌⚸"
 definition: "Mars conjunct Lilith is a birth chart with Mars close beside Black Moon Lilith. Your drive and your untamed side then work as one: you act on your own terms, and permission rarely comes into it. I read it as force to reclaim and aim, never as a temper to manage or a warning."

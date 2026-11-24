@@ -6,6 +6,8 @@ description: "Jupiter en maison 3 dans un thème natal : grandir par l’appren
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "maison 3", "maisons"]
 weight: 63
 glyph: "♃"
 definition: "Jupiter en maison 3 signifie que Jupiter se trouvait dans la maison de l’esprit de tous les jours et du monde à portée de main. J’y lis une croissance par l’apprentissage et la parole : une curiosité qui ne s’arrête guère, un sens trouvé dans les échanges ordinaires, un don pour transmettre. Il faut une heure de naissance précise."

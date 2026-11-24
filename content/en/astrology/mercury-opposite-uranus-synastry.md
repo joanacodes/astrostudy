@@ -5,6 +5,8 @@ description: "Mercury opposite Uranus in synastry: one person’s reasoning face
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Uranus", "opposition", "synastry"]
 weight: 140
 glyph: "☿☍♅"
 definition: "Mercury opposite Uranus in synastry describes one person’s Mercury facing the other’s Uranus, about 180° apart, within 6°. The first person’s reasoning and the second’s urge to break the pattern sit at two ends of one axis, each sharpening the other. I read it as a seesaw between the familiar and the new, not as a contest."

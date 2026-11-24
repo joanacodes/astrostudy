@@ -5,6 +5,8 @@ description: "The new moon in Aquarius: three annular solar eclipses in a row, 2
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "new moon", "Aquarius"]
 weight: 46
 glyph: "●♒"
 definition: "The new moon in Aquarius is the Sun and Moon meeting in Aquarius, once a year, between late January and mid-February. It opens a lunar month in Aquarius’s manner: friends, groups, the future. From 2026 to 2028 it is an annular solar eclipse. In a birth chart it counts within about 1° of a planet or angle."

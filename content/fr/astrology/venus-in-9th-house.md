@@ -6,6 +6,8 @@ description: "Vénus en maison 9 dans un thème natal : un cœur élargi par l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "maison 9", "maisons"]
 weight: 45
 glyph: "♀"
 definition: "Vénus en maison 9 conduit la planète de la valeur et de l’attirance dans la maison de la distance sous toutes ses formes : le voyage, l’étude, la foi et le sens. On y lit un cœur élargi par l’inconnu, l’attrait des gens et des idées d’ailleurs, et un goût d’apprendre qui garde l’amour vivant. Il faut l’heure de naissance."

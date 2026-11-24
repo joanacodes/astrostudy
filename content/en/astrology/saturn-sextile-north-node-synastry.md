@@ -5,6 +5,8 @@ description: "Saturn sextile North Node in synastry: one person’s discipline i
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "North Node", "sextile", "synastry"]
 weight: 312
 glyph: "♄⚹☊"
 definition: "Saturn sextile North Node in synastry joins one person’s Saturn to the other’s North Node at about 60°, within 3°, which puts it in trine to their South Node. The structure one can lend is within reach of the other’s next step and comfortable with their old strengths. I read it as an opening that needs taking up."

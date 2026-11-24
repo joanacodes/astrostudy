@@ -6,6 +6,8 @@ description: "Mercure opposition Nœud Nord dans un thème natal : un esprit à
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Nœud Nord", "opposition"]
 weight: 154
 glyph: "☿☍☊"
 definition: "Mercure opposition Nœud Nord signifie que Mercure faisait face au Nœud Nord à votre naissance, et se trouvait donc sur le Nœud Sud. Votre pensée, dans un thème, appartient au terrain familier, venu tôt et facilement, et votre croissance se trouve en face. J’y lis un esprit prêt qui apprend à tendre la main."

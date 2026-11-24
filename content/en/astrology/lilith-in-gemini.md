@@ -5,6 +5,8 @@ description: "Lilith in Gemini in a birth chart: the question you weren’t mean
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Gemini"]
 weight: 135
 glyph: "⚸♊"
 definition: "Lilith in Gemini places Black Moon Lilith, the Moon’s farthest point from Earth, in mutable air, the sign ruled by Mercury. I read it as a curiosity that went further than it was allowed to — questions, contradictions, more than one self — and a refusal to be summed up in a single sentence."

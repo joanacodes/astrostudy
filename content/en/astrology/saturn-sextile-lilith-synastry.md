@@ -5,6 +5,8 @@ description: "Saturn sextile Lilith in synastry: one person’s structure could 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Lilith", "sextile", "synastry"]
 weight: 307
 glyph: "♄⚹⚸"
 definition: "Saturn sextile Lilith in synastry joins one person’s Saturn and the other’s Black Moon Lilith at about 60°, within 3°. The structure one can offer could give a workable shape to what the other refuses to give up, if someone takes the offer. I read it through the houses, using mean Lilith."

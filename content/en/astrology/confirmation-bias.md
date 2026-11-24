@@ -5,6 +5,8 @@ description: "Confirmation bias and astrology: Wason’s 2-4-6 test, its main cr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["testing", "cognitive biases"]
 weight: 12
 glyph: "✦"
 definition: "Confirmation bias is the habit of seeking, reading and remembering evidence in the way that supports what you already believe. The English psychologist Peter Wason named it after experiments he published from 1960. Research on astrology believers has found it at work, and it can make astrology feel confirmed without anything having been tested."

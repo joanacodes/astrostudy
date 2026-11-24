@@ -6,6 +6,8 @@ description: "Uranus opposition Chiron en synastrie : la liberté de l’une fa
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Chiron", "opposition", "synastrie"]
 weight: 330
 glyph: "♅☍⚷"
 definition: "Uranus opposition Chiron en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 180° du Chiron de l’autre, à 4° près. L’une porte l’élan de liberté, l’autre une limite durable et ses parades ; chacune voit dans l’autre un bout d’elle-même. Des personnes nées à quelques années d’écart l’ont souvent ; pour une paire donnée, le détail est dans les maisons."

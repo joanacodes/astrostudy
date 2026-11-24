@@ -6,6 +6,8 @@ description: "Lune sextile Uranus dans un thème natal : de la place pour chang
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Uranus", "sextile"]
 weight: 79
 glyph: "☽⚹♅"
 definition: "Lune sextile Uranus signifie que votre Lune se trouvait, à la naissance, à un sixième du cercle d’Uranus, environ 60°, en général deux signes avant ou après. Votre besoin de réconfort et votre goût du changement peuvent s’aider : le neuf peut vous apaiser, si vous le laissez entrer. L’ouverture est réelle, et attend d’être prise."

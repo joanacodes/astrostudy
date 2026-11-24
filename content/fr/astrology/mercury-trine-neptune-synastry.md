@@ -6,6 +6,8 @@ description: "Mercure trigone Neptune en synastrie : les mots de l’une et l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Neptune", "trigone", "synastrie"]
 weight: 144
 glyph: "☿△♆"
 definition: "Mercure trigone Neptune en synastrie décrit Mercure, dans un thème, à un tiers de cercle de Neptune, dans l’autre, avec 5,1° d’orbe. Ce que dit la personne côté Mercure et ce qu’imagine la personne côté Neptune coulent ensemble : les sentiments trouvent leurs phrases entre vous. J’y lis une aisance douce, qui doit laisser place aux vérités difficiles."

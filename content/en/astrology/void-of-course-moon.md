@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["void-of-course Moon", "void of course"]
 family: "dignities"
+categories: ["Planets and points"]
+tags: ["Moon", "dignities"]
 weight: 43
 glyph: "☽v/c"
 definition: "The Moon is void of course when it has made its last aspect to another planet in its sign and makes no more before it leaves. The stretch ends when it enters the next sign. Astrologers count it differently, by older and newer rules, and use it mostly for questions and chosen dates, never as a rule for life."

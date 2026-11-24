@@ -5,6 +5,8 @@ description: "Moon sextile Chiron in a birth chart: what you learned by adapting
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Chiron", "sextile"]
 weight: 94
 glyph: "☽⚹⚷"
 definition: "Moon sextile Chiron means you were born with Chiron roughly two signs from your Moon, about 60° away. In a chart it lets your need for comfort draw on what you’ve learned by adapting to a lasting sensitivity: you can turn that know-how into care, for yourself and others. Like any sextile, it helps most when it’s put to work."

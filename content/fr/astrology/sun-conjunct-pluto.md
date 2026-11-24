@@ -6,6 +6,8 @@ description: "Soleil conjonction Pluton dans un thème natal : l’intensité a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Pluton", "conjonction"]
 weight: 33
 glyph: "☉☌♇"
 definition: "Soleil conjonction Pluton signifie qu’à votre naissance, le Soleil se tenait à quelques degrés de Pluton. Dans un thème, cette conjonction fond votre identité avec la profondeur et la transformation : vous faites rarement les choses à moitié, et vous savez vous reconstruire plus d’une fois. J’y lis une force concentrée, jamais un besoin de contrôle."

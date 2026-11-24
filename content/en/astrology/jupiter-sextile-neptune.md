@@ -5,6 +5,8 @@ description: "Jupiter sextile Neptune in a birth chart: openings where imaginati
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Neptune", "sextile"]
 weight: 251
 glyph: "♃⚹♆"
 definition: "Jupiter sextile Neptune puts the two planets about 60° apart in a birth chart, an angle common to short spells of births. Your sense of meaning and your imagination can help each other: an inspiration finds a purpose, a belief finds a picture. I read it as a gentle opening that works once it is used."

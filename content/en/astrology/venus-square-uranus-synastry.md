@@ -5,6 +5,8 @@ description: "Venus square Uranus in synastry: one person is attached to how thi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Uranus", "square", "synastry"]
 weight: 183
 glyph: "♀□♅"
 definition: "Venus square Uranus in synastry means one person’s Venus is about 90° from the other’s Uranus, within 5.1°. What the first person is attached to keeps meeting the second’s urge to rearrange it, so habits and pleasures are rarely left alone. I read it as friction between attachment and reinvention that two adults can design around."

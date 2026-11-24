@@ -5,6 +5,8 @@ description: "Sun in Capricorn, Moon in Virgo: an earth trine by sign, Mercury s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Capricorn", "Moon", "Virgo"]
 weight: 114
 glyph: "☉♑☽♍"
 definition: "Sun in Capricorn, Moon in Virgo joins cardinal and mutable earth in a trine by sign, at a birth under a disseminating Moon, seventeen to twenty-two days into the lunar month. Saturn rules the Sun’s sign, Mercury the Moon’s. I read it as mastery built patiently and handed on: competence that is also a form of care."

@@ -6,6 +6,8 @@ description: "Vénus carré Chiron en synastrie : ce qui ravit l’une peut co�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Chiron", "carré", "synastrie"]
 weight: 198
 glyph: "♀□⚷"
 definition: "Vénus carré Chiron en synastrie signifie que Vénus, chez une personne, se trouve à environ 90° de Chiron chez l’autre, à 5,1° près. Les goûts et les gestes de la première peuvent appuyer, sans le savoir, sur ce que la seconde a dû contourner. J’y lis un frottement qui amène deux adultes à dire ce qui aide."

@@ -6,6 +6,8 @@ description: "Le Soleil de l’autre dans votre maison 2 en synastrie : son él
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 2
 glyph: "☉"
 definition: "Le Soleil de l’autre dans votre maison 2 signifie que son Soleil tombe dans la maison de ce que vous estimez et de ce sur quoi vous comptez. En synastrie, son élan éclaire vos talents, vos biens et votre valeur : à ses côtés, elle vous paraît plus nette, et cette personne trouve en vous un sol ferme."

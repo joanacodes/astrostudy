@@ -6,6 +6,8 @@ description: "Vénus en Bélier dans un thème natal : Vénus en exil, un goût
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Bélier"]
 weight: 37
 glyph: "♀♈"
 definition: "Vénus en Bélier place la planète de la valeur et de l’attirance dans le signe qui ouvre le zodiaque, le feu cardinal de Mars, où la tradition situe son exil. On y lit un goût immédiat, une affection qui fait le premier pas, et le choix d’un oui ou d’un non francs plutôt que d’une longue attente."

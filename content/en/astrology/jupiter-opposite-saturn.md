@@ -5,6 +5,8 @@ description: "Jupiter opposite Saturn in a birth chart: growth and structure fac
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Saturn", "opposition"]
 weight: 244
 glyph: "♃☍♄"
 definition: "Jupiter opposite Saturn is a 180° angle between the two planets, reached about ten years after each great conjunction and carried by everyone born in those months. Growth holds one side of the chart and consolidation the other, and the work is balancing them. Over time, that balancing becomes judgement."

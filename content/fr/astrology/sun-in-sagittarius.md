@@ -6,6 +6,8 @@ description: "Soleil en Sagittaire dans un thème natal : une identité organis
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Sagittaire"]
 weight: 9
 glyph: "☉♐"
 definition: "Le Soleil en Sagittaire est le signe solaire des naissances du 22 novembre au 21 décembre environ, en feu mutable gouverné par Jupiter. J’y lis une identité organisée autour d’une philosophie, une vitalité nourrie par ce que l’on attend avec impatience, et un but qui ressemble plus à une conviction qu’à un objectif, revu tout au long d’une vie."

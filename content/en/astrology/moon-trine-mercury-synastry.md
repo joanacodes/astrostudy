@@ -5,6 +5,8 @@ description: "Moon trine Mercury in synastry: two people who find each other eas
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Mercury", "trine", "synastry"]
 weight: 64
 glyph: "☽△☿"
 definition: "Moon trine Mercury in synastry is a 120° contact, within 6.8°, between one person’s Moon and the other’s Mercury, usually in signs of one element. Moods and words keep the same pace, so the two find each other easy to talk to. To me it’s a talent for talking about feelings, one that still deserves the hard subjects."

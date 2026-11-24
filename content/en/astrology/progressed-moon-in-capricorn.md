@@ -5,6 +5,8 @@ description: "The progressed Moon in Capricorn: about two years and four months 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressed Moon", "progressions", "Capricorn"]
 weight: 10
 glyph: "☽♑"
 definition: "The progressed Moon in Capricorn is the two to two and a half years in which your progressed Moon climbs through Capricorn, the earth sign ruled by Saturn and, by tradition, the Moon’s detriment. I read it as a chapter in which needs are met through structure and responsibility: work that lasts, and warmth shown in what you do."

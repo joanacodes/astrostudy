@@ -5,6 +5,8 @@ description: "Mercury retrograde in Sagittarius, the shortest and widest of the 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "Sagittarius"]
 weight: 9
 glyph: "☿℞♐"
 definition: "Mercury retrograde in Sagittarius names the roughly 20 days, between November and early January, when Mercury seems from Earth to back up through Sagittarius, the sign of its detriment. I read it as the big picture reread with the details in view: plans, beliefs and the meaning you drew from something, in the house Sagittarius occupies in your chart."

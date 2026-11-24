@@ -5,6 +5,8 @@ description: "Applying and separating aspects: how to tell whether an aspect is 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: []
 weight: 40
 glyph: "✦"
 definition: "An aspect is applying while the faster of two planets is still moving towards the exact angle, and separating once it has passed it. Many astrologers read an applying aspect as building and a separating one as easing. The direction never changes what the aspect is: it adds timing and tone, and the Moon shows it most clearly."

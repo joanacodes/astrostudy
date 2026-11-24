@@ -6,6 +6,8 @@ description: "La nouvelle lune en Cancer : la Lune chez elle, ses dates de 2026
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "nouvelle lune", "Cancer"]
 weight: 39
 glyph: "●♋"
 definition: "La nouvelle lune en Cancer tombe entre le 21 juin et le 22 juillet environ, le Soleil et la Lune réunis en eau cardinale, dans le signe de la Lune. En 2028, il y en a deux, dont une éclipse totale de Soleil. J’y lis un repère pour le foyer et l’appartenance, à un degré d’un point natal."

@@ -5,6 +5,8 @@ description: "Mercury retrograde in Gemini, Mercury’s own sign: barely 9° cov
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "Gemini"]
 weight: 3
 glyph: "☿℞♊"
 definition: "Mercury retrograde in Gemini is Mercury, seen from Earth, backing through the sign it rules for about 24 days, between early May and early July. Because Gemini is Mercury’s own sign, I read it as the planet’s own business turning back: open threads, half-finished conversations and saved messages, gone over in the house Gemini occupies in your chart."

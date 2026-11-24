@@ -6,6 +6,8 @@ description: "Neptune en transit en maison 4 : près de seize ans où le foyer 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Neptune", "maison 4", "transits"]
 weight: 40
 glyph: "♆"
 definition: "Neptune en transit en maison 4 s’ouvre à votre Fond du Ciel et passe, en général, près de seize ans dans votre maison du foyer, de la famille et des racines. Ce transit adoucit ce que votre thème dit déjà de l’appartenance : le besoin d’un refuge, plus de compassion pour vos origines, des limites à redessiner à la maison."

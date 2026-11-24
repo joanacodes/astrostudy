@@ -6,6 +6,8 @@ description: "Lune en maison 2 dans un thème natal : une sécurité liée au f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "maison 2", "maisons"]
 weight: 14
 glyph: "☽"
 definition: "La Lune en maison 2 signifie que la Lune se trouvait dans la maison des ressources, des biens et de l’estime de soi à votre naissance. J’y lis une sécurité liée au fait d’avoir assez et de savoir sur quoi compter, et un attachement aux objets familiers. Elle ne prédit rien sur l’argent ; il faut l’heure de naissance."

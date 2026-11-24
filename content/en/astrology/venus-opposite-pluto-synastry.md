@@ -5,6 +5,8 @@ description: "Venus opposite Pluto in synastry: one person tends the surface, th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Pluto", "opposition", "synastry"]
 weight: 195
 glyph: "♀☍♇"
 definition: "Venus opposite Pluto in synastry means one person’s Venus is about 180° from the other’s Pluto, within 6°. One person tends to keep the bond pleasant and fair while the other pushes towards depth and truth, and each can feel the other holds the power. I read it as a polarity two adults can share out, never as domination."

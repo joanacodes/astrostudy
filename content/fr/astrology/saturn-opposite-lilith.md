@@ -6,6 +6,8 @@ description: "Saturne opposition Lilith dans un thème natal : les règles que 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Lilith", "opposition"]
 weight: 299
 glyph: "♄☍⚸"
 definition: "Saturne opposition Lilith, c’est Saturne à environ 180° de la Lune noire Lilith moyenne à votre naissance. Dans un thème, cette opposition place les règles que vous tenez face à la part de vous qui les refuse ; les deux bouts se montrent souvent d’abord chez les autres, et le long travail consiste à reconnaître les deux comme vôtres."

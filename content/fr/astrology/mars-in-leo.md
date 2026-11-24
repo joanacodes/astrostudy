@@ -6,6 +6,8 @@ description: "Mars en Lion dans un thème natal : un élan avec du cœur, de la
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Lion"]
 weight: 53
 glyph: "♂♌"
 definition: "Mars en Lion, c’est la planète du courage dans le feu fixe du signe du Soleil. On y lit une action entière : vous agissez avec le cœur, restez fidèle à vos choix et voulez que votre effort compte. C’est le signe de Mars le plus fréquent, chez environ 1 personne sur 10."

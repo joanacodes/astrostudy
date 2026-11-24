@@ -5,6 +5,8 @@ description: "Moon conjunct Uranus in synastry: the familiar and the new meet on
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Uranus", "conjunction", "synastry"]
 weight: 86
 glyph: "☽☌♅"
 definition: "Moon conjunct Uranus in synastry means one person’s Uranus sits within 8° of the other’s Moon. One person’s urge to renew, differ and stay free lands on the other’s needs and habits. To me it’s a contact that wakes things up, and I keep an eye on the moment one person’s changes start running the other’s moods."

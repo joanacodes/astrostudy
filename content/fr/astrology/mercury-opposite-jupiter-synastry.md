@@ -6,6 +6,8 @@ description: "Mercure opposition Jupiter en synastrie : le détail de l’une f
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Jupiter", "opposition", "synastrie"]
 weight: 130
 glyph: "☿☍♃"
 definition: "Mercure opposition Jupiter en synastrie signifie que Mercure, dans un thème, fait face à Jupiter, dans l’autre, à environ 180°, à 6° près. Le détail, chez la première, fait face au tout, chez la seconde, et chacune tient un bout de la discussion. J’y lis une balançoire qui marche si vous changez de bout, jamais deux camps."

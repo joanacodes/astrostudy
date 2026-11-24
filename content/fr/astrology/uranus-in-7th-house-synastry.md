@@ -6,6 +6,8 @@ description: "Uranus de l’autre dans votre maison 7 en synastrie : liberté e
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 91
 glyph: "♅"
 definition: "Uranus de l’autre dans votre maison 7 fait asseoir Uranus en face de vous, dans la maison des partenaires et des accords. En synastrie, le partenariat paraît à la fois excitant et imprévisible : différent de tous les autres, spacieux, parfois déroutant, et l’autre s’y sent plus libre que dans la plupart des liens. Aucune fin n’y est écrite."

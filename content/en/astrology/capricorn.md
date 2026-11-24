@@ -5,6 +5,8 @@ description: "Capricorn in astrology: the sea-goat, ruled by Saturn. Capricorn S
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signs"]
+tags: ["Capricorn"]
 weight: 10
 glyph: "♑"
 definition: "Capricorn is the tenth sign of the zodiac, a cardinal earth sign ruled by Saturn; the Sun crosses it from about 22 December to 19 January. In a birth chart it shows where you take responsibility, work patiently and build for the long term — the part of life where you want to earn your place."

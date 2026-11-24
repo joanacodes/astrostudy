@@ -5,6 +5,8 @@ description: "Pluto in the 11th house in a birth chart: deep friendships, groups
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "11th house", "houses"]
 weight: 119
 glyph: "♇"
 definition: "In the 11th house, the planet of deep change gathers with friends, groups and networks, and with your hopes for the future. It describes friendships that are few and deep, communities that transform you, and hopes big enough to reshape a life. Its placement depends on the birth time."

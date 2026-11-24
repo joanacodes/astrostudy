@@ -5,6 +5,8 @@ description: "Saturn opposite Pluto in a birth chart: keeping and letting go at 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Pluto", "opposition"]
 weight: 289
 glyph: "♄☍♇"
 definition: "Saturn opposite Pluto places the two planets on either side of the zodiac, about 180° apart, as for births of 1930–32, 1965–67 and 2001–03. In a chart it sets what you have built opposite what wants to transform it, and asks for a balance between holding on and letting go, often learned through other people."

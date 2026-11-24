@@ -6,6 +6,8 @@ description: "Vénus en Verseau dans un thème natal : l’amitié d’abord, u
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Verseau"]
 weight: 47
 glyph: "♀♒"
 definition: "Vénus en Verseau envoie la planète de la valeur et de l’attirance dans l’air fixe, gouverné par Uranus et, dans la tradition, par Saturne. On y lit un amour qui commence par l’amitié, le goût de l’égalité, de l’originalité et des principes, et une façon d’aimer qui laisse de la place à l’autre, et en demande autant."

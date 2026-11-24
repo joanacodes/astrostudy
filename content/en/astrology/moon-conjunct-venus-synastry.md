@@ -5,6 +5,8 @@ description: "Moon conjunct Venus in synastry: what one person enjoys and offers
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Venus", "conjunction", "synastry"]
 weight: 66
 glyph: "☽☌♀"
 definition: "Moon conjunct Venus in synastry puts one person’s Venus within 8° of the other’s Moon. What one person likes, values and offers lands right where the other looks for comfort, so time together tends to feel easy and kind. I read it as warmth that works best when needs are still spoken plainly."

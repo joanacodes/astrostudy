@@ -6,6 +6,8 @@ description: "Uranus carré Pluton dans un thème natal : le changement et le r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Pluton", "carré"]
 weight: 312
 glyph: "♅□♇"
 definition: "Uranus carré Pluton est un angle de 90° entre les deux planètes. Dans le décompte, ce carré appartient aux naissances de 1930 à 1936, avec Uranus en Bélier et Pluton en Cancer, et à quelques mois de 2009. Dans un thème, l’envie de se libérer et la pression de transformer à la racine frottent jusqu’à rebâtir quelque chose."

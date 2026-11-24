@@ -42,7 +42,10 @@
 {{- if $p.IsPage }}
 {{- $term := dict "@type" "DefinedTerm" "@id" (printf "%s#term" $p.Permalink) "name" ($p.Title | plainify) "description" ($p.Params.definition | default $p.Description | plainify) "url" $p.Permalink "inDefinedTermSet" $setRef }}
 {{- $graph = $graph | append $term }}
-{{- $graph = $graph | append (dict "@type" "Article" "@id" (printf "%s#article" $p.Permalink) "headline" (truncate 110 "…" ($p.Title | plainify)) "description" ($p.Description | plainify) "image" (slice .image) "datePublished" ($p.Date.Format "2006-01-02T15:04:05Z07:00") "dateModified" ($p.Lastmod.Format "2006-01-02T15:04:05Z07:00") "author" $author "publisher" (dict "@id" $orgID) "mainEntityOfPage" $p.Permalink "inLanguage" site.Language.Locale "about" (dict "@id" (printf "%s#term" $p.Permalink))) }}
+{{- $article := dict "@type" "Article" "@id" (printf "%s#article" $p.Permalink) "headline" (truncate 110 "…" ($p.Title | plainify)) "description" ($p.Description | plainify) "image" (slice .image) "datePublished" ($p.Date.Format "2006-01-02T15:04:05Z07:00") "dateModified" ($p.Lastmod.Format "2006-01-02T15:04:05Z07:00") "author" $author "publisher" (dict "@id" $orgID) "mainEntityOfPage" $p.Permalink "inLanguage" site.Language.Locale "about" (dict "@id" (printf "%s#term" $p.Permalink)) }}
+{{- with $p.Params.categories }}{{ $article = merge $article (dict "articleSection" (index . 0)) }}{{ end }}
+{{- with $p.Params.tags }}{{ $article = merge $article (dict "keywords" (delimit . ", ")) }}{{ end }}
+{{- $graph = $graph | append $article }}
 {{- else }}
 {{- $graph = $graph | append (merge $setRef (dict "description" ($p.Description | plainify) "inLanguage" site.Language.Locale "publisher" (dict "@id" $orgID))) }}
 {{- end }}

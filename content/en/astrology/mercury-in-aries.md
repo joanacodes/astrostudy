@@ -5,6 +5,8 @@ description: "Mercury in Aries in a birth chart: a mind that finds out what it t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Aries"]
 weight: 25
 glyph: "☿♈"
 definition: "Mercury in Aries is the planet of thought and speech in the first sign of the zodiac, cardinal fire ruled by Mars. It describes a mind that works at the speed of a first reaction: you think by starting, often know your answer before the question ends, and refine it afterwards. About 1 person in 13 has it."

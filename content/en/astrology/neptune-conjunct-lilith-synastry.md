@@ -5,6 +5,8 @@ description: "Neptune conjunct Lilith in synastry: one person’s imagination se
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Lilith", "conjunction", "synastry"]
 weight: 351
 glyph: "♆☌⚸"
 definition: "In synastry, Neptune conjunct Lilith means one person’s Neptune lies no more than 4° from the other’s mean Black Moon Lilith. One person’s imagination and tenderness settle on what the other learned to keep hidden, which can honour it or turn it into a myth. Whole spells of births share it, so its houses tell me more than the aspect."

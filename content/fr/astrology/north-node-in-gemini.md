@@ -6,6 +6,8 @@ description: "Nœud Nord en Gémeaux dans un thème natal : troquer la grande r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "Gémeaux"]
 weight: 147
 glyph: "☊♊"
 definition: "Nœud Nord en Gémeaux signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans ce signe d’air mutable, face à un Nœud Sud en Sagittaire. J’y lis une direction vers les questions : écouter, garder la curiosité, apprendre de la personne en face, plutôt que chercher d’abord la grande réponse."

@@ -5,6 +5,8 @@ description: "Neptune square Pluto in a birth chart: an angle no one born 1930�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Pluto", "square"]
 weight: 332
 glyph: "♆□♇"
 definition: "Neptune square Pluto is Neptune and Pluto about 90° apart, an angle nobody born between 1930 and 2009 has: in those years the pair stayed far closer, mostly near 60°. In a chart it would set the ideal against the urge to clear away what has died, a friction that keeps both honest."

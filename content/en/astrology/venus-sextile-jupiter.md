@@ -5,6 +5,8 @@ description: "Venus sextile Jupiter in a birth chart: pleasures that lead somewh
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Jupiter", "sextile"]
 weight: 161
 glyph: "♀⚹♃"
 definition: "Venus sextile Jupiter means Venus and Jupiter stood about 60° apart when you were born, most often an air sign with a fire sign, or water with earth. In a chart it links what you enjoy with what helps you grow, through opportunity: pleasures that teach, friendships that widen your view. It works when you say yes to the openings."

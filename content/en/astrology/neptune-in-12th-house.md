@@ -5,6 +5,8 @@ description: "Neptune in the 12th house in a birth chart: Neptune in the house o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "12th house", "houses"]
 weight: 108
 glyph: "♆"
 definition: "Neptune in the 12th house means Neptune was in the house of solitude, rest and what happens out of sight, the house whose natural sign, Pisces, Neptune rules, when you were born. Read in a chart, it shows a deep inner life, compassion given quietly, and a real need for retreat. Tradition gave this house confinement; I predict none."

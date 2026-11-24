@@ -6,6 +6,8 @@ description: "Uranus en maison 7 dans un thème natal : la liberté dans le cou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "maison 7", "maisons"]
 weight: 91
 glyph: "♅"
 definition: "Uranus en maison 7 place la planète du changement dans la maison angulaire des partenaires et des liens en tête-à-tête, qui commence au descendant. J’y lis un besoin de liberté au sein des relations proches, et une attirance pour des personnes indépendantes et peu conventionnelles. Rien n’y prédit mariage ou divorce, et il faut l’heure de naissance."

@@ -6,6 +6,8 @@ description: "La Lune rose, pleine lune d’avril : ses dates et signes de 2026
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["Lune", "lunaisons"]
 weight: 23
 glyph: "○"
 definition: "La Lune rose est le nom que les almanachs donnent à la pleine lune d’avril, d’après le phlox mousse, une fleur sauvage précoce de l’est de l’Amérique du Nord. Le nom ne dit rien de la couleur de la Lune, ni d’astrologie. Dans un thème, c’est une pleine lune en Balance ou en Scorpion, face au Soleil."

@@ -6,6 +6,8 @@ description: "Saturne de l’autre dans votre maison 7 en synastrie : engagemen
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 79
 glyph: "♄"
 definition: "Saturne de l’autre dans votre maison 7, c’est Saturne, chez une autre personne, face à vous, dans la maison des partenaires, des accords et des rencontres d’égal à égal. En synastrie, le lien prend un tour sérieux, bâti pour durer : fiabilité et confiance lente d’un côté, sens du devoir de l’autre. Aucun mariage ne s’y lit d’avance."

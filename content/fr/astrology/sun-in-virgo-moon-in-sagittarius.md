@@ -6,6 +6,8 @@ description: "Soleil en Vierge, Lune en Sagittaire : deux signes mutables en ca
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge", "Lune", "Sagittaire"]
 weight: 69
 glyph: "☉♍☽♐"
 definition: "Soleil en Vierge, Lune en Sagittaire fait se croiser la terre et le feu, deux signes mutables, autour du premier quartier. Mercure et Jupiter, les deux maîtres, sont chacun en exil dans le signe de l’autre. J’y lis l’art de corriger et le goût d’explorer réunis : un esprit soigneux et un cœur qui a besoin d’espace."

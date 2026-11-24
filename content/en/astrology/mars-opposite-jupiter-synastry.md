@@ -5,6 +5,8 @@ description: "Mars opposite Jupiter in synastry: one person’s urge to act now 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Jupiter", "opposition", "synastry"]
 weight: 215
 glyph: "♂☍♃"
 definition: "Mars opposite Jupiter in synastry means one person’s Mars is about 180° from the other’s Jupiter, within 6°, in opposite signs. One leans towards acting now, the other towards understanding first, and each finds in the other what they leave for later. I read it as balance learned from both ends, never as a standoff."

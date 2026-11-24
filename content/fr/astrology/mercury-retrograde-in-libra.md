@@ -6,6 +6,8 @@ description: "Mercure rétrograde en Balance, souvent trois années de suite : 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "Balance"]
 weight: 7
 glyph: "☿℞♎"
 definition: "Mercure rétrograde en Balance revient par séries d’années, entre septembre et début novembre, quand Mercure semble, depuis la Terre, reculer dans la Balance pendant 20,5 à 22,5 jours. J’y lis une seconde audience pour ce que deux personnes se sont dit : accords et compromis repesés dans la maison qu’occupe la Balance dans votre thème."

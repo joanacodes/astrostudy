@@ -6,6 +6,8 @@ description: "Ascendant Vierge : un accueil au travail, Mercure maître du thè
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "Vierge"]
 weight: 6
 glyph: "↑♍"
 definition: "Un ascendant Vierge signifie que la Vierge, signe de terre mutable gouverné par Mercure, se levait à l’horizon est à votre naissance : votre ascendant est en Vierge. Il décrit une façon attentive et concrète d’aborder le monde, qui trouve sa place en se rendant utile. Dans le Nord, la Vierge se lève lentement : près de trois heures à Londres."

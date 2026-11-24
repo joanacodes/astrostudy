@@ -6,6 +6,8 @@ description: "Vénus conjonction Neptune dans un thème natal : aimer et imagin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Neptune", "conjonction"]
 weight: 175
 glyph: "♀☌♆"
 definition: "Vénus conjonction Neptune signifie que, le jour de votre naissance, peu de degrés séparaient Vénus et Neptune, souvent dans le même signe. Dans un thème, évaluer et imaginer ne font plus qu’un seul sentiment : une beauté qui vous émeut, un don pour voir le meilleur chez les gens. J’y lis une tâche : aimer la personne autant que l’image."

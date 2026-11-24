@@ -5,6 +5,8 @@ description: "Sun in Cancer, Moon in Cancer: both lights in the Moon’s own sig
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Cancer", "Moon"]
 weight: 40
 glyph: "☉♋☽♋"
 definition: "Sun in Cancer, Moon in Cancer puts both lights in the Moon’s own sign, close to a new moon, so the Moon rules the Sun’s sign and its own. I read it as one tide coming in twice: a self that lives to belong and protect, and needs that ask for the same: a home, close people, continuity."

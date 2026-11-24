@@ -5,6 +5,8 @@ description: "Uranus conjunct North Node in synastry: one person’s experiments
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "North Node", "conjunction", "synastry"]
 weight: 336
 glyph: "♅☌☊"
 definition: "Uranus conjunct North Node in synastry means one person’s Uranus lies within 4° of the other’s North Node, and so opposite their South Node. One person’s experiments land on the direction the other is learning to grow in, encouraging it or rushing it. I date it with the true node and read it through the houses."

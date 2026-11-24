@@ -5,6 +5,8 @@ description: "Their Saturn in your 7th house in synastry: commitment, fairness a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "7th house", "synastry", "house overlays"]
 weight: 79
 glyph: "♄"
 definition: "Their Saturn in your 7th house is someone else’s Saturn standing across from you, in the house of partners, agreements and the people you meet as equals. In synastry it tends to make the bond feel serious and built for time: reliability and slow trust on one side, a sense of duty on the other. It never predicts marriage."

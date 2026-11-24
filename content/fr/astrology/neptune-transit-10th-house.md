@@ -6,6 +6,8 @@ description: "Neptune en transit en maison 10 : près de seize ans où l’ambi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Neptune", "maison 10", "transits"]
 weight: 46
 glyph: "♆"
 definition: "Neptune en transit en maison 10 pose une longue question à votre vie de travail : à quoi sert-elle ? Près de seize ans en général, dès le passage sur votre Milieu du Ciel, ce transit colore votre vocation : ambition en quête de sens, image publique où l’on se projette, direction floue avant de s’éclaircir."

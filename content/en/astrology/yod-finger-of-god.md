@@ -5,6 +5,8 @@ description: "The yod, or finger of God, in astrology: a sextile pointing at a p
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["aspect patterns"]
 weight: 5
 glyph: "⚻"
 definition: "A yod is a narrow triangle of three planets: two in sextile at its base, both quincunx a third at its point, the apex. Also called the finger of God, it describes a function that keeps adjusting to two others it shares nothing with: recalibration, not fate. My count finds one for about 1 person in 8."

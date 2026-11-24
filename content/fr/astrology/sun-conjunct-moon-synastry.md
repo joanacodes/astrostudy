@@ -6,6 +6,8 @@ description: "Soleil conjonction Lune en synastrie : ce qu’une personne est r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Lune", "conjonction", "synastrie"]
 weight: 1
 glyph: "☉☌☽"
 definition: "Soleil conjonction Lune en synastrie signifie que le Soleil d’une personne se trouve à moins de 8° de la Lune de l’autre. Ce que l’une est tombe là où l’autre cherche réconfort et sécurité. J’y lis une reconnaissance des deux côtés, et je guette le moment où les projets de l’une et les besoins de l’autre se confondent."

@@ -6,6 +6,8 @@ description: "Mercure sextile Uranus en synastrie : les questions de l’une re
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Uranus", "sextile", "synastrie"]
 weight: 137
 glyph: "☿⚹♅"
 definition: "Mercure sextile Uranus en synastrie relie Mercure, chez une personne, à Uranus, chez l’autre, à environ 60°, à 3,6° près. Quand la première apporte un problème, la seconde trouve un angle que personne n’avait essayé, et la première le met en mots utilisables. J’y lis une porte vers des idées neuves, qui ne s’ouvre que si l’on frappe."

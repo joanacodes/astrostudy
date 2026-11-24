@@ -6,6 +6,8 @@ description: "Pluton trigone Chiron en synastrie : la profondeur de l’une rej
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Chiron", "trigone", "synastrie"]
 weight: 364
 glyph: "♇△⚷"
 definition: "Pluton trigone Chiron en synastrie, c’est un trigone, à 3,4° près, de Pluton chez une personne vers Chiron chez une autre. La capacité de changement profond de l’une rejoint l’endroit où l’autre vit avec une limite durable, et le fait avec calme : renouveau et adaptation s’aident. J’y lis une profondeur douce, qui mérite quand même du soin."

@@ -6,6 +6,8 @@ description: "Mars en Vierge dans un thème natal : un effort qui va au savoir-
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Vierge"]
 weight: 54
 glyph: "♂♍"
 definition: "Mars en Vierge, c’est l’effort devenu savoir-faire : Mars dans la terre mutable, le signe que gouverne Mercure. Dans un thème, on y lit un élan qui passe par la méthode : vous préparez, affinez et réparez, vous affirmez par la compétence, et vous battez en améliorant les choses plutôt qu’en les affrontant."

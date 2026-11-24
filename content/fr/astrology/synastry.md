@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["synastrie"]
 family: "techniques"
+categories: ["Synastrie"]
+tags: ["synastrie"]
 weight: 50
 glyph: "✦"
 definition: "La synastrie est la comparaison de deux thèmes natals : les aspects entre les planètes d’une personne et celles de l’autre, et les maisons où tombent les planètes de chacune chez l’autre. Elle décrit la façon dont deux personnes se rencontrent, ce qui circule et ce qui frotte, dans les deux sens. Elle ne décide jamais si une relation marchera."

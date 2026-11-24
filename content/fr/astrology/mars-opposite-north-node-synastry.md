@@ -6,6 +6,8 @@ description: "Mars opposition Nœud Nord en synastrie : l’élan de l’une to
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Nœud Nord", "opposition", "synastrie"]
 weight: 250
 glyph: "♂☍☊"
 definition: "Mars opposition Nœud Nord en synastrie signifie que Mars, chez une personne, coïncide à 6° près avec le Nœud Sud de l’autre, juste en face de son Nœud Nord. L’élan de l’une rencontre les forces établies de l’autre, familières et stimulantes. J’y lis une paire à l’aise en terrain connu, à surveiller quand le confort remplace la croissance."

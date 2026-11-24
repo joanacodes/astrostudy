@@ -6,6 +6,8 @@ description: "Lune sextile Saturne dans un thème natal : une rampe à côté d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Saturne", "sextile"]
 weight: 74
 glyph: "☽⚹♄"
 definition: "Lune sextile Saturne veut dire qu’environ 60° séparaient la Lune et Saturne à votre naissance, le plus souvent entre deux signes séparés par un troisième. Émotions et structure coopèrent : vous savez vous stabiliser sans vous fermer, et les routines réconfortent au lieu d’enfermer. J’y lis une rampe à côté de vos émotions, prête dès que vous tendez la main."

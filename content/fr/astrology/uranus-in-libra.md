@@ -6,6 +6,8 @@ description: "Uranus en Balance dans un thème natal : de nouvelles règles pou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Balance"]
 weight: 91
 glyph: "♅♎"
 definition: "Uranus en Balance, c’est la planète du changement dans un signe d’air cardinal gouverné par Vénus, celui du couple, de l’équilibre et des accords. Les naissances de septembre 1968 à septembre 1975 le partagent. J’y lis une génération qui redéfinit l’équité entre deux personnes ; la maison montre où ces règles sont à vous de les fixer."

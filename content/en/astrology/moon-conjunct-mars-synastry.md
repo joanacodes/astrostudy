@@ -5,6 +5,8 @@ description: "Moon conjunct Mars in synastry: one person’s drive lands right o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Mars", "conjunction", "synastry"]
 weight: 71
 glyph: "☽☌♂"
 definition: "Moon conjunct Mars in synastry puts one person’s Mars within 8° of the other’s Moon. One person’s drive lands squarely on the other’s needs, so help arrives fast, sometimes before it’s asked for. I read it as care that turns into action, at its best when it checks first."

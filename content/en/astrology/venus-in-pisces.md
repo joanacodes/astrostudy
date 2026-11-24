@@ -5,6 +5,8 @@ description: "Venus in Pisces in a birth chart: Venus exalted, love that doesn�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Pisces"]
 weight: 48
 glyph: "♀♓"
 definition: "Venus in Pisces is Venus in mutable water, the sign of its exaltation, ruled by Neptune and, in the tradition, Jupiter. It describes a way of valuing that doesn’t keep score, affection shown through compassion and imagination, and a tenderness that can love what is imperfect, and does best with a few boundaries of its own."

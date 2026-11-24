@@ -5,6 +5,8 @@ description: "Neptune square Pluto in synastry: one person’s ideals rub agains
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Pluto", "square", "synastry"]
 weight: 343
 glyph: "♆□♇"
 definition: "Neptune square Pluto in synastry is a right angle of about 90°, within 3.4°, between Neptune in one person’s chart and Pluto in the other’s. One person’s ideals rub against the other’s need to clear away what has died, usually across ten to twenty-four years of age. I read the friction through the houses."

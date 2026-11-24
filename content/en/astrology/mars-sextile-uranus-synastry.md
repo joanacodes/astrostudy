@@ -5,6 +5,8 @@ description: "Mars sextile Uranus in synastry: one person’s ‘what if’ meet
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Uranus", "sextile", "synastry"]
 weight: 222
 glyph: "♂⚹♅"
 definition: "Mars sextile Uranus in synastry means one person’s Mars is about 60° from the other’s Uranus, within 3.6°, usually two signs apart. One person’s fresh idea meets the other’s readiness to try it, and small experiments start easily. I read it as an opening for invention that pays off when someone follows through."

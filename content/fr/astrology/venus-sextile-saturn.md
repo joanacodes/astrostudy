@@ -6,6 +6,8 @@ description: "Vénus sextile Saturne dans un thème natal : de la patience offe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Saturne", "sextile"]
 weight: 166
 glyph: "♀⚹♄"
 definition: "Vénus sextile Saturne signifie que, dans votre thème, un angle d’environ 60° relie Vénus et Saturne, en général à deux signes d’intervalle. Dans un thème, ce sextile offre à ce qui compte pour vous l’aide de la patience : un amour qui grandit de petites promesses tenues, un goût affiné par la pratique. L’aide est réelle dès que vous la saisissez."

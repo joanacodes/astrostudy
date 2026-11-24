@@ -6,6 +6,8 @@ description: "Mars sextile Pluton en synastrie : une alliance entre l’élan d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Pluton", "sextile", "synastrie"]
 weight: 232
 glyph: "♂⚹♇"
 definition: "Mars sextile Pluton en synastrie signifie que Mars, chez une personne, et Pluton, chez l’autre, sont en sextile : environ 60°, à 3,6° près. L’une apporte l’élan, l’autre le cran de couper ce qui ne marche plus : une équipe solide. J’y lis une alliance qui sert le mieux quand on s’en sert avant une crise, pas seulement pendant."

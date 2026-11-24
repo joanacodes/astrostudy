@@ -6,6 +6,8 @@ description: "Vénus sextile Neptune en synastrie : gentillesse discrète et im
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Neptune", "sextile", "synastrie"]
 weight: 187
 glyph: "♀⚹♆"
 definition: "Vénus sextile Neptune en synastrie signifie que Vénus, chez une personne, se trouve à environ 60° de Neptune chez l’autre, à 3,6° près. L’empathie de la seconde rejoint les goûts de la première, qui donne aux rêveries de l’autre une forme concrète. J’y lis une coopération douce, qui marche mieux dès que quelqu’un lui fixe une date."

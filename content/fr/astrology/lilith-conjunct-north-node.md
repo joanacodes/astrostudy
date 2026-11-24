@@ -6,6 +6,8 @@ description: "Lilith conjonction Nœud Nord dans un thème natal : une croissan
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Nœud Nord", "conjonction"]
 weight: 375
 glyph: "⚸☌☊"
 definition: "Lilith conjonction Nœud Nord, c’est la Lune noire Lilith moyenne posée à quelques degrés du Nœud Nord dans votre thème natal, donc en face du Nœud Sud. Votre direction de croissance passe par la part de vous qui refusait d’être domptée : la capacité moins familière que vous pratiquez inclut votre instinct au lieu de le laisser dehors."

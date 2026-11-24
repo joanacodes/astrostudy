@@ -5,6 +5,8 @@ description: "Born on the cusp: what it means to be born near the Sun’s change
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "signs"
+categories: ["Signs"]
+tags: ["zodiac signs"]
 weight: 28
 glyph: "✦"
 definition: "Being born on the cusp means being born close to the moment the Sun moved from one sign into the next. It doesn’t make you half of each: at the moment of birth the Sun was in one sign or the other, and your birth date, time and place decide which. The neighbouring sign may still show through other planets."

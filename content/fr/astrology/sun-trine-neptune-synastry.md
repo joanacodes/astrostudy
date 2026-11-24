@@ -6,6 +6,8 @@ description: "Soleil trigone Neptune en synastrie : une bienveillance et un ima
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Neptune", "trigone", "synastrie"]
 weight: 39
 glyph: "☉△♆"
 definition: "Soleil trigone Neptune en synastrie laisse l’identité d’une personne et l’imaginaire de l’autre se rencontrer facilement, Neptune se plaçant à quatre signes du Soleil, avec un orbe de 6,8°. Bienveillance et inspiration circulent sans effort. J’y lis une aisance douce, à son meilleur quand elle sert et qu’on la vérifie parfois."

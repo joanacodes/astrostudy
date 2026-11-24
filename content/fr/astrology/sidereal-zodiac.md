@@ -6,6 +6,8 @@ description: "Le zodiaque sidéral en astrologie : des signes ancrés dans les 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: ["zodiaque"]
 weight: 5
 glyph: "★"
 definition: "Le zodiaque sidéral attache ses douze signes aux étoiles plutôt qu’à l’équinoxe de mars. L’astrologie védique l’utilise, comme certains astrologues occidentaux. Parce que l’équinoxe glisse devant les étoiles, il est aujourd’hui décalé d’environ 24° par rapport au zodiaque tropical : la plupart des planètes y tombent un signe plus tôt."

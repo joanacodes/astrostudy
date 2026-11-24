@@ -6,6 +6,8 @@ description: "L’astrologie peut-elle choisir des placements ? Pourquoi aucun
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Lectures"]
+tags: ["limites de l’astrologie"]
 weight: 61
 glyph: "✦"
 definition: "Non. L’astrologie ne peut pas choisir vos placements : aucun thème ne dit ce que feront une action, une monnaie ou un bien immobilier, ni quand acheter ou vendre. Ce qu’un thème natal peut décrire, c’est votre rapport à l’argent, votre façon de gagner, de dépenser, d’épargner et de vous sentir en sécurité, de quoi éclairer un rendez-vous avec un conseiller."

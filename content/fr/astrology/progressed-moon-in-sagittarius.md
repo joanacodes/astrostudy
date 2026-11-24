@@ -6,6 +6,8 @@ description: "La Lune progressée en Sagittaire : deux ans environ à avoir bes
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "Lune progressée", "progressions", "Sagittaire"]
 weight: 9
 glyph: "☽♐"
 definition: "La Lune progressée en Sagittaire, c’est le passage de votre Lune progressée dans le Sagittaire, signe de feu gouverné par Jupiter, pendant deux ans à deux ans et demi dans le compte du jour pour un an des progressions secondaires. J’y lis un chapitre d’élargissement : des besoins comblés par le sens, l’apprentissage, la franchise et la place pour grandir."

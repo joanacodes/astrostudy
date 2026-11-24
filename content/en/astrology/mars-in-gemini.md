@@ -5,6 +5,8 @@ description: "Mars in Gemini in a birth chart: drive that works through words, q
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Gemini"]
 weight: 51
 glyph: "♂♊"
 definition: "Mars in Gemini is Mars working through the mind: the planet of assertion in the mutable air of Mercury’s sign. In a chart it means drive that works through words: you argue, persuade and adapt, keep several projects going, and need variety to stay motivated. It’s the Mars sign of about 1 person in 12."

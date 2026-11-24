@@ -6,6 +6,8 @@ description: "Nœud Nord en Capricorne dans un thème natal : prendre votre pla
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "Capricorne"]
 weight: 154
 glyph: "☊♑"
 definition: "Nœud Nord en Capricorne signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans ce signe de terre cardinale, le Nœud Sud en Cancer. J’y lis une croissance vers la responsabilité : une place dans le monde, bâtie avec constance, de votre propre autorité, après l’habitude du cocon familial."

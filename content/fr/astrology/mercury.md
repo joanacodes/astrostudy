@@ -6,6 +6,8 @@ description: "Mercure en astrologie : votre façon de penser et de parler, dans
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planètes et points"]
+tags: ["Mercure"]
 weight: 3
 glyph: "☿"
 definition: "Mercure est la planète la plus proche du Soleil et, en astrologie, celle de l’esprit : votre façon de remarquer, de penser, d’apprendre et de parler. Dans un thème natal, son signe montre le style de votre pensée, sa maison les sujets vers lesquels votre esprit revient, ses aspects la facilité avec laquelle les idées deviennent des mots."

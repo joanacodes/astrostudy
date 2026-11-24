@@ -6,6 +6,8 @@ description: "Le Nœud Nord de l’autre dans votre maison 1 en synastrie : vot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Nœud Nord", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 145
 glyph: "☊"
 definition: "Le Nœud Nord de l’autre dans votre maison 1 signifie que la direction dans laquelle cette personne grandit tombe sur votre allure et vos premiers gestes ; son Nœud Sud, en face, tombe dans votre maison 7. En synastrie, votre façon d’agir de votre propre chef lui montre ce qu’elle apprend, et le rôle de partenaire, avec vous, lui est familier."

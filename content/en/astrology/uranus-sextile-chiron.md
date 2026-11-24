@@ -5,6 +5,8 @@ description: "Uranus sextile Chiron in a birth chart: new methods opening a way 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Chiron", "sextile"]
 weight: 316
 glyph: "♅⚹⚷"
 definition: "Uranus sextile Chiron is a 60° angle between Uranus and Chiron, found in the count for births of 1938 to 1941 and of 1999 to 2001. In a chart, the urge to experiment opens doors for the skill of adapting around a tender place, as long as you try the door. Your houses make it personal."

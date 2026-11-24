@@ -5,6 +5,8 @@ description: "Neptune sextile Pluto in synastry: ideals and the urge to renew wi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Pluto", "sextile", "synastry"]
 weight: 342
 glyph: "♆⚹♇"
 definition: "Neptune sextile Pluto in synastry means the two slowest bodies I read, Neptune in one chart and Pluto in the other, stand about 60° apart, within 2.4°. Ideals and the drive to renew can work together once someone takes the opening. Near-contemporaries often share it, so I read it through the houses."

@@ -6,6 +6,8 @@ description: "Soleil en Taureau, Lune en Bélier : un moi patient aux émotions
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Taureau", "Lune", "Bélier"]
 weight: 13
 glyph: "☉♉☽♈"
 definition: "Soleil en Taureau, Lune en Bélier désigne une naissance dans les derniers jours avant une nouvelle lune, la Lune encore un signe derrière le Soleil. J’y lis un moi patient qui porte des émotions vives : ce que vous bâtissez, vous le bâtissez lentement et le gardez, tandis que ce que vous ressentez s’embrase, se dit, puis passe."

@@ -6,6 +6,8 @@ description: "Vénus carré Pluton dans un thème natal : ce que vous aimez et 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Pluton", "carré"]
 weight: 182
 glyph: "♀□♇"
 definition: "Vénus carré Pluton signifie qu’à votre naissance, Vénus et Pluton étaient à environ 90° d’écart, souvent dans des signes du même mode. Dans un thème, ce que vous aimez et l’élan de transformer pèsent l’un sur l’autre : goûts et liens doivent s’approfondir ou se renouveler. Pour moi, c’est une friction qui apprend la franchise en amour ; rien n’y est condamné."

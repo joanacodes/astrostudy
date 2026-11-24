@@ -5,6 +5,8 @@ description: "Neptune transiting the 9th house: about fifteen and a half years o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "9th house", "transits"]
 weight: 45
 glyph: "♆"
 definition: "Neptune transiting the 9th house is a long pilgrimage of the mind, about fifteen years and eight months in the middle, through your house of belief, study and far horizons. It deepens what your chart already says about meaning: faith, art and travel that dissolve borders, and a longing that asks you to keep checking your sources."

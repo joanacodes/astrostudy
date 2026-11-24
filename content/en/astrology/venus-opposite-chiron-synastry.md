@@ -5,6 +5,8 @@ description: "Venus opposite Chiron in synastry: what comes easily to one person
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Chiron", "opposition", "synastry"]
 weight: 200
 glyph: "♀☍⚷"
 definition: "Venus opposite Chiron in synastry means one person’s Venus is about 180° from the other’s Chiron, within 6°. What comes easily to the first faces what the second has had to adapt around, so ease and effort tend to be divided between them. I read it as two ends of one seesaw, with care that can travel both ways."

@@ -5,6 +5,8 @@ description: "Mercury retrograde in Pisces, where tradition counts Mercury weake
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "Pisces"]
 weight: 12
 glyph: "☿℞♓"
 definition: "Mercury retrograde in Pisces brings Mercury, as seen from Earth, back through the one sign where tradition counts it weakest twice over, for 21½ to 23 days between February and early April. I read it as the mind going back over impressions rather than facts, dreams and unspoken feelings, in the house Pisces occupies in your chart."

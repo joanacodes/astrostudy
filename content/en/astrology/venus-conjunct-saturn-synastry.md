@@ -5,6 +5,8 @@ description: "Venus conjunct Saturn in synastry: what one person loves, held in 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Saturn", "conjunction", "synastry"]
 weight: 176
 glyph: "♀☌♄"
 definition: "Venus conjunct Saturn in synastry means one person’s Venus sits within 6° of the other’s Saturn. What the first person values and enjoys lands exactly where the second keeps commitments and limits, so affection tends to be taken seriously on both sides. I read it as a bond with weight in any adult pair, never as a promise."

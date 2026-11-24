@@ -6,6 +6,8 @@ description: "Uranus sextile Pluton dans un thème natal : une ouverture entre 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Pluton", "sextile"]
 weight: 311
 glyph: "♅⚹♇"
 definition: "Uranus sextile Pluton est un angle de 60° entre les deux planètes, et le décompte l’a trouvé deux fois : pour les naissances de 1941 à 1947 et de 1991 à 2001. Dans un thème, l’envie de réformer et la capacité de renouveler en profondeur peuvent s’activer l’une l’autre, dès que l’ouverture est saisie. Deux générations le partagent."

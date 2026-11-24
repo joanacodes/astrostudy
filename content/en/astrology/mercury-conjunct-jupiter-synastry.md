@@ -5,6 +5,8 @@ description: "Mercury conjunct Jupiter in synastry: one person’s words land ri
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Jupiter", "conjunction", "synastry"]
 weight: 126
 glyph: "☿☌♃"
 definition: "Mercury conjunct Jupiter in synastry means one person’s Mercury sits within 6° of the other’s Jupiter. What the first notices and says lands right where the second looks for meaning, so a remark tends to become a theory and a question a plan. I read it as a widening conversation that needs someone checking the facts."

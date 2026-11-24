@@ -5,6 +5,8 @@ description: "Jupiter transiting the 11th house: about a year in the house of it
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "11th house", "transits"]
 weight: 11
 glyph: "♃"
 definition: "Jupiter transiting the 11th house puts Jupiter, for a little over a year, in the house where tradition said it rejoices: friends, groups, and the hopes you share with them. It draws on the sense of belonging your chart already describes, towards new circles and a clearer idea of what you’re building together."

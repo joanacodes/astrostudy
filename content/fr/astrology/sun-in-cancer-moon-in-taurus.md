@@ -6,6 +6,8 @@ description: "Soleil en Cancer, Lune en Taureau : la Lune exaltée et maîtress
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Cancer", "Lune", "Taureau"]
 weight: 38
 glyph: "☉♋☽♉"
 definition: "Soleil en Cancer, Lune en Taureau place la Lune dans son exaltation, deux signes derrière un Soleil logé dans le signe qu’elle gouverne, pour une naissance pendant la semaine qui clôt un mois lunaire. J’y lis le soin rendu solide : un moi qui abrite les autres, des besoins qui s’apaisent par le corps, la bonne cuisine et les choses familières."

@@ -6,6 +6,8 @@ description: "Neptune opposition Lilith en synastrie : l’une voudrait abolir 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Lilith", "opposition", "synastrie"]
 weight: 355
 glyph: "♆☍⚸"
 definition: "Neptune opposition Lilith en synastrie met Neptune, dans un thème, face à la Lune noire Lilith moyenne de l’autre : 180° d’écart, à 4° près. Le désir de fusion de l’une fait face au refus de l’autre d’être absorbée, et chacune trouve chez l’autre la qualité qui lui manque le plus. J’y lis une balançoire, jamais une inimitié."

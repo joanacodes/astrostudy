@@ -5,6 +5,8 @@ description: "Mars sextile Jupiter in synastry: one person’s energy and the ot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Jupiter", "sextile", "synastry"]
 weight: 212
 glyph: "♂⚹♃"
 definition: "Mars sextile Jupiter in synastry means one person’s Mars is about 60° from the other’s Jupiter, within 3.6°, usually two signs apart. The first person’s energy and the second’s sense of purpose cooperate when someone makes the first move. I read it as an opportunity for shared effort, real only when taken."

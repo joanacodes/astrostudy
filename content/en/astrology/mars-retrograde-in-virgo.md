@@ -5,6 +5,8 @@ description: "Mars retrograde in Virgo: the 81-day loops of 2012 and 2027, the l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mars", "retrograde", "Mars retrograde", "Virgo"]
 weight: 30
 glyph: "♂℞♍"
 definition: "Mars retrograde in Virgo is Mars, seen from Earth, backing through Virgo for nearly twelve weeks between January and May: in 2012, from January to April 2027, and in 2029. I read it as effort spent on getting things right turning back for a review, in the house Virgo occupies in your chart."

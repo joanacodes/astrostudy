@@ -6,6 +6,8 @@ description: "Neptune sextile Pluton en synastrie : les idéaux et l’envie de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Pluton", "sextile", "synastrie"]
 weight: 342
 glyph: "♆⚹♇"
 definition: "Neptune sextile Pluton en synastrie signifie que les deux corps les plus lents que je lise, Neptune dans un thème et Pluton dans l’autre, se tiennent à environ 60°, à 2,4° près. Les idéaux et l’élan de renouveau peuvent s’allier dès que quelqu’un saisit l’ouverture. Des personnes du même âge le partagent souvent, d’où une lecture par les maisons."

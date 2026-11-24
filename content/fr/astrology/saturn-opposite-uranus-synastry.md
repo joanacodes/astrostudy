@@ -6,6 +6,8 @@ description: "Saturne opposition Uranus en synastrie : la sécurité dans un th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Uranus", "opposition", "synastrie"]
 weight: 290
 glyph: "♄☍♅"
 definition: "Saturne opposition Uranus en synastrie signifie que Saturne, chez une personne, se trouve à environ 180° d’Uranus chez l’autre, à 5° près. Le besoin de l’une que les choses tiennent et le besoin d’air de l’autre occupent les deux bouts d’une même ligne. J’y lis une balançoire entre sécurité et liberté, portée par deux générations, jamais une querelle."

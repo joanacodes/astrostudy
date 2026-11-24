@@ -5,6 +5,8 @@ description: "The new moon in Cancer: the Moon at home, its dates from 2026 to 2
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "new moon", "Cancer"]
 weight: 39
 glyph: "●♋"
 definition: "The new moon in Cancer falls while the Sun is in Cancer, between about 21 June and 22 July: the Sun and Moon together in cardinal water, the Moon’s own sign. In 2028 there are two, the second a total solar eclipse. I read it as a marker for home and belonging, counted within a degree of a natal point."

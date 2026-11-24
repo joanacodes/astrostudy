@@ -5,6 +5,8 @@ description: "Their Neptune in your 2nd house in synastry: their ideals in what 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "2nd house", "synastry", "house overlays"]
 weight: 98
 glyph: "♆"
 definition: "Their Neptune in your 2nd house brings the other person’s Neptune to your money, belongings and sense of worth. In synastry their ideals soften what you value: possessions may matter less and meaning more around them, and they tend to idealise your steadiness with things. Money between you can blur, so the figures deserve writing down."

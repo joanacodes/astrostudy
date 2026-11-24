@@ -5,6 +5,8 @@ description: "Chiron in the 9th house in a birth chart: a tender spot in belief 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "9th house", "houses"]
 weight: 129
 glyph: "⚷"
 definition: "Chiron in the 9th house means Chiron sat in the house of belief, higher study and long journeys, which tradition called the God. It describes adapting around a tender spot in belief or understanding, and reaching a view of your own that you can later pass on. It needs the birth time."

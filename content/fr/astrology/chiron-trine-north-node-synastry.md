@@ -6,6 +6,8 @@ description: "Chiron trigone Nœud Nord en synastrie : l’expérience de l’u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "Nœud Nord", "trigone", "synastrie"]
 weight: 384
 glyph: "⚷△☊"
 definition: "Chiron trigone Nœud Nord en synastrie relie, par un trigone d’environ 120° à 2,55° près, Chiron chez une personne et le Nœud Nord chez une autre, ce Chiron restant à 60° de son Nœud Sud. L’expérience d’une difficulté durable coule vers la croissance de l’autre. J’y lis un sentier balisé, que l’autre doit encore parcourir."

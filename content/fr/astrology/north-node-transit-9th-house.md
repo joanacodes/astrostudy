@@ -6,6 +6,8 @@ description: "Nœud Nord en transit en maison 9 : environ 19 mois d’études, 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Nœud Nord", "maison 9", "transits"]
 weight: 81
 glyph: "☊"
 definition: "Le Nœud Nord en transit en maison 9, c’est le séjour, dix-neuf mois environ en général, où le nœud recule à travers votre maison des convictions, des études et de l’horizon lointain, tandis que le Nœud Sud traverse votre maison 3. Il oriente vers un regard à vous et la vue d’ensemble, loin du flot d’informations."

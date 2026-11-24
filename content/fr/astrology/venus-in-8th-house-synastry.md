@@ -6,6 +6,8 @@ description: "Vénus de l’autre dans votre maison 8 en synastrie : désir, co
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 44
 glyph: "♀"
 definition: "Avec Vénus de l’autre dans votre maison 8, l’affection de cette personne gagne votre vie intime : désir, confiance, proximité, partage. En synastrie, l’attirance va souvent loin et la générosité suit, même si l’intensité peut devancer la confiance ; la tradition juge Vénus mal à l’aise en Scorpion, signe naturel de la maison. Aucune perte n’y est prédite."

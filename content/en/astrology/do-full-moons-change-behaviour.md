@@ -5,6 +5,8 @@ description: "Do full moons change behaviour? What a meta-analysis of 37 studies
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["Moon", "testing"]
 weight: 8
 glyph: "✦"
 definition: "The idea that people behave differently at the full moon is old enough to have given English the word lunatic. Tested, it doesn’t hold: a meta-analysis of 37 studies found no significant link between the Moon’s phases and human behaviour, and nearly half of the studies claiming one contained statistical errors. Sleep is still argued over."

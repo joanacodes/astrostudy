@@ -5,6 +5,8 @@ description: "Mercury sextile Pluto in synastry: one person’s words and the ot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Pluto", "sextile", "synastry"]
 weight: 147
 glyph: "☿⚹♇"
 definition: "Mercury sextile Pluto in synastry sets a 60° angle, within 3.6°, from a Mercury in one chart to a Pluto in the other. Either of you can bring up something difficult and find it met calmly, so hard subjects become speakable. I read it as an opening to depth that works when it is used, and kindly."

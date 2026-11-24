@@ -6,6 +6,8 @@ description: "Soleil sextile Chiron dans un thème natal : ce que vous avez app
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Chiron", "sextile"]
 weight: 39
 glyph: "☉⚹⚷"
 definition: "Soleil sextile Chiron signifie qu’à votre naissance, un sixième du zodiaque, environ 60°, séparait le Soleil et Chiron. Dans un thème, ce sextile relie votre sens du but à ce que vous avez appris autour d’un point sensible : cette expérience devient utile dès que vous vous en servez. J’y lis un don discret pour aider, offert plutôt qu’imposé."

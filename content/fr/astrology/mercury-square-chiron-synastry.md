@@ -6,6 +6,8 @@ description: "Mercure carré Chiron en synastrie : les questions de l’une fr�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Chiron", "carré", "synastrie"]
 weight: 153
 glyph: "☿□⚷"
 definition: "Mercure carré Chiron en synastrie signifie que Mercure, chez une personne, se trouve à environ 90° de Chiron chez l’autre, à 5,1° près. La façon dont l’une questionne et conseille frôle ce que l’autre a appris à contourner. Je vois là une friction qui oblige à trouver de meilleurs mots, jamais la preuve qu’on ne peut se parler."

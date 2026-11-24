@@ -5,6 +5,8 @@ description: "Venus square Lilith in a birth chart: the wish to be liked and the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Lilith", "square"]
 weight: 192
 glyph: "♀□⚸"
 definition: "Venus square Lilith means Venus was about 90° from mean Black Moon Lilith at your birth, usually in signs of one modality. In a chart, the wish to be liked and the refusal to be made smaller press on each other. I read it as friction that teaches you to be loved without editing yourself, never as being too much."

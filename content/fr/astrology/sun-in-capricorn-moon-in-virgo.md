@@ -6,6 +6,8 @@ description: "Soleil en Capricorne, Lune en Vierge : un trigone de terre, Mercu
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Capricorne", "Lune", "Vierge"]
 weight: 114
 glyph: "☉♑☽♍"
 definition: "Soleil en Capricorne, Lune en Vierge réunit deux signes de terre, cardinal et mutable, en trigone par signe, pour une naissance sous une Lune disséminante, dix-sept à vingt-deux jours après la nouvelle lune. Saturne gouverne le signe du Soleil, Mercure celui de la Lune. J’y lis une maîtrise bâtie patiemment et transmise : une compétence qui est aussi un soin."

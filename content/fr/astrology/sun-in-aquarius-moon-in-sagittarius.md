@@ -6,6 +6,8 @@ description: "Soleil en Verseau, Lune en Sagittaire : un sextile de feu et d’
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Verseau", "Lune", "Sagittaire"]
 weight: 129
 glyph: "☉♒☽♐"
 definition: "Soleil en Verseau, Lune en Sagittaire place la Lune deux signes derrière le Soleil, en feu, juste après le dernier quartier. Jupiter est le maître du signe lunaire. J’y vois un moi tourné vers l’avenir des gens en général, avec des besoins qui se posent dès qu’il y a un horizon et une question à suivre."

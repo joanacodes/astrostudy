@@ -6,6 +6,8 @@ description: "Uranus en transit en maison 2 : un peu moins de sept ans de nouve
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Uranus", "maison 2", "transits"]
 weight: 26
 glyph: "♅"
 definition: "Uranus en transit en maison 2 décrit les années, un peu moins de sept en général, où Uranus traverse la part du thème qui tient les revenus, les biens et l’estime de soi. Ce transit bouscule ce que le thème dit de la sécurité et demande de la liberté là où elle s’est figée, sans prédire ni gain ni perte."

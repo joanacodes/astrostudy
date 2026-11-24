@@ -6,6 +6,8 @@ description: "Lilith de l’autre dans votre maison 5 en synastrie : un plaisir
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 137
 glyph: "⚸"
 definition: "Lilith de l’autre dans votre maison 5 lâche sa Lune noire Lilith moyenne dans votre maison du jeu, de la création et des amours. En synastrie, son plaisir indocile rencontre le vôtre : l’amusement devient plus franc, et votre jeu peut la libérer ou la provoquer. Rien n’y prédit de sexe ni d’enfant ; chaque pas demande le oui des deux."

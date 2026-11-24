@@ -6,6 +6,8 @@ description: "Vénus sextile Jupiter en synastrie : l’une ouvre sans cesse de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Jupiter", "sextile", "synastrie"]
 weight: 172
 glyph: "♀⚹♃"
 definition: "Vénus sextile Jupiter en synastrie signifie que Vénus, chez une personne, se trouve à environ 60° de Jupiter chez l’autre, à 3,6° près. La vue large de l’une offre des ouvertures que le goût de l’autre finit par apprécier, et ce plaisir en appelle d’autres. J’y lis un échange amical d’invitations, qui marche quand quelqu’un dit oui."

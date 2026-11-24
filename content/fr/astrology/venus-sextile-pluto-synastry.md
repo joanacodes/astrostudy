@@ -6,6 +6,8 @@ description: "Vénus sextile Pluton en synastrie : un renouveau franc offert en
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Pluton", "sextile", "synastrie"]
 weight: 192
 glyph: "♀⚹♇"
 definition: "Vénus sextile Pluton en synastrie signifie que Vénus, chez une personne, se trouve à environ 60° de Pluton chez l’autre, à 3,6° près. La seconde peut aider la première à voir quels attachements comptent encore, et la première rend la franchise et le renouveau bienvenus plutôt que lourds. J’y lis une profondeur disponible, là quand quelqu’un la demande."

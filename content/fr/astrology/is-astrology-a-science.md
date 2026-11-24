@@ -6,6 +6,8 @@ description: "L’astrologie est-elle une science ? Ce qu’ont soutenu Popper
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["test"]
 weight: 18
 glyph: "✦"
 definition: "Non, pas selon la science moderne. Les philosophes des sciences en font souvent leur exemple de pseudoscience, et dans le test contrôlé le plus connu, les thèmes n’ont pas fait mieux que le hasard. Ils divergent sur la raison : pour Popper, elle n’est pas réfutable ; pour Kuhn, elle n’avait pas d’énigmes à résoudre ; pour Thagard, elle ne progressait plus."

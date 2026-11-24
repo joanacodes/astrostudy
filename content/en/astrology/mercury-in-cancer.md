@@ -5,6 +5,8 @@ description: "Mercury in Cancer in a birth chart: a mind that thinks through mem
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Cancer"]
 weight: 28
 glyph: "☿♋"
 definition: "Mercury in Cancer is the planet of thought and speech in cardinal water, the sign ruled by the Moon. It describes a mind that thinks through memory, feeling and context, hears the tone under the words and keeps conversations for years. It learns best where it feels safe. About 1 person in 13 born 1930–2009 has it."

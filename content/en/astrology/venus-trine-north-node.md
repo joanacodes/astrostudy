@@ -5,6 +5,8 @@ description: "Venus trine North Node in a birth chart: what you value in easy st
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "North Node", "trine"]
 weight: 198
 glyph: "♀△☊"
 definition: "Venus trine North Node means Venus was about 120° from the North Node at your birth, and about 60° from the South Node. In a chart, what you value moves in step with your growth: the people and pleasures you choose tend to support who you’re becoming. I read it as easy alignment that still asks for practice."

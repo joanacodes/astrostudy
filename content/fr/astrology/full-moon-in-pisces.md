@@ -6,6 +6,8 @@ description: "La pleine lune en Poissons, le Soleil en Vierge : le rêve face �
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "pleine lune", "Poissons"]
 weight: 59
 glyph: "○♓"
 definition: "La pleine lune en Poissons, c’est la Lune en Poissons face au Soleil en Vierge, dans les semaines qui précèdent l’équinoxe de septembre. Elle éclaire l’axe Poissons–Vierge du côté du rêve : le repos et le lâcher-prise face à l’ordre et au détail. Dans un thème, elle compte à 1° environ d’une planète ou d’un angle."

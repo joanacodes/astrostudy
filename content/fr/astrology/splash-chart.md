@@ -6,6 +6,8 @@ description: "Le thème dispersé en astrologie : des planètes sur toute la ro
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["formes de thème"]
 weight: 22
 glyph: "✦"
 definition: "Un thème dispersé a ses planètes réparties sur toute la roue plutôt que rassemblées dans une partie : plutôt une absence de forme qu’une forme. Des sept formes de Marc Edmund Jones, c’est la moins dessinée. J’y lis de l’ampleur, une attention partagée entre de nombreux domaines de vie. Faute d’accord sur ses limites, il n’est pas compté."

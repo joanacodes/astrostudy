@@ -6,6 +6,8 @@ description: "Uranus conjonction Lilith en synastrie : le droit à la différen
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Lilith", "conjonction", "synastrie"]
 weight: 331
 glyph: "♅☌⚸"
 definition: "Uranus conjonction Lilith en synastrie signifie qu’Uranus, chez une personne, et la Lune noire Lilith de l’autre sont à moins de 4° d’écart. Le droit à la différence de l’une tombe sur ce que l’autre a appris à cacher : une permission, ou une exposition. Ses dates suivent la Lilith moyenne, et je le lis par les maisons."

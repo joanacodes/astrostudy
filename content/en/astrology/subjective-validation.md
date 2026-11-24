@@ -5,6 +5,8 @@ description: "Subjective validation: why a reading can feel right because it mea
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["testing", "cognitive biases"]
 weight: 13
 glyph: "✦"
 definition: "Subjective validation is the pull to accept a statement about you as correct because it has personal meaning for you, whether or not it would fit almost anyone. The term first appeared in a 1980 book by the psychologists David Marks and Richard Kammann. It is one reason a reading can feel accurate without being specific."

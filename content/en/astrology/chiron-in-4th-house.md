@@ -5,6 +5,8 @@ description: "Chiron in the 4th house in a birth chart: a tender spot about belo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "4th house", "houses"]
 weight: 124
 glyph: "⚷"
 definition: "Chiron in the 4th house means Chiron sat at the root of the chart, in the house of home, family and the private self, which begins at the IC in Placidus. It describes adapting around a tender spot about belonging, and making your own ground: a chosen home and family. It needs the birth time."

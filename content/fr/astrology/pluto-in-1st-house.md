@@ -6,6 +6,8 @@ description: "Pluton en maison 1 dans un thème natal : une présence intense e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "maison 1", "maisons"]
 weight: 109
 glyph: "♇"
 definition: "Pluton en maison 1, c’est la planète de la transformation dans la maison du soi, du corps et de la façon d’aborder le monde. On y lit une présence intense et discrète, et la capacité de se réinventer de fond en comble. Il faut une heure de naissance précise : en Placidus, cette maison commence à l’ascendant."

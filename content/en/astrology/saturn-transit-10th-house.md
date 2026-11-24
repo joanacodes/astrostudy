@@ -5,6 +5,8 @@ description: "Saturn transiting the 10th house: about three years of Saturn at h
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "10th house", "transits"]
 weight: 22
 glyph: "♄"
 definition: "Saturn transiting the 10th house is Saturn at home for about three years, crossing the house of its own sign from your Midheaven on: work, responsibility, reputation and the role you play in public. Slowly, and for the long run, it gives structure to the ambitions already written in your chart."

@@ -6,6 +6,8 @@ description: "Constellations et signes : pourquoi les signes du zodiaque porten
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "stars"
+categories: ["Étoiles"]
+tags: ["signes du zodiaque", "étoiles fixes"]
 weight: 26
 glyph: "✦"
 definition: "Les constellations sont des dessins d’étoiles, de tailles inégales, dont les astronomes ont fixé les frontières en 1930. Les signes sont douze parts égales de 30° du trajet annuel du Soleil, comptées depuis l’équinoxe de mars. Les signes ont pris le nom des étoiles ; la précession les en a depuis séparés. Un thème utilise les signes."

@@ -6,6 +6,8 @@ description: "Soleil en Scorpion, Lune en Balance : la Lune un signe derrière,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Scorpion", "Lune", "Balance"]
 weight: 91
 glyph: "☉♏☽♎"
 definition: "Soleil en Scorpion, Lune en Balance laisse la Lune dans le signe que le Soleil vient de quitter, quelques jours avant la nouvelle lune en Scorpion. J’y lis un moi qui a besoin de la vérité sous les choses, et des besoins apaisés seulement quand la paix et l’équité règnent entre les personnes."

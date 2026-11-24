@@ -5,6 +5,8 @@ description: "Jupiter in Sagittarius in a birth chart: Jupiter in its own sign, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Sagittarius"]
 weight: 69
 glyph: "♃♐"
 definition: "Jupiter in Sagittarius is Jupiter, the planet of growth and meaning, in the mutable fire sign it rules: its domicile. Everyone born within the same year or so shares it. I read it as the search for meaning at full strength: you grow by exploring, studying and teaching, and you build a philosophy of your own."

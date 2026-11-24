@@ -5,6 +5,8 @@ description: "Their Saturn in your 12th house in synastry: quiet structure in yo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "12th house", "synastry", "house overlays"]
 weight: 84
 glyph: "♄"
 definition: "Their Saturn in your 12th house is someone else’s Saturn keeping watch at the quiet end of your chart: solitude, rest, retreat and what you carry without saying. In synastry it can steady your private life and give your fears a patient witness, while they feel responsible for things they can’t quite see. Nothing in it is a symptom."

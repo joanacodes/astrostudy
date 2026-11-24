@@ -5,6 +5,8 @@ description: "Moon conjunct North Node in synastry: what one person needs sits w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "North Node", "conjunction", "synastry"]
 weight: 111
 glyph: "☽☌☊"
 definition: "Moon conjunct North Node in synastry means one person’s Moon sits within 8° of the other’s North Node, which puts it opposite their South Node. One person’s comforts sit where the other is practising something unfamiliar. I read it as growth that comes through comfort, never as a fated bond."

@@ -6,6 +6,8 @@ description: "Chiron en transit en maison 4 : quatre ans environ où une vieill
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Chiron", "maison 4", "transits"]
 weight: 64
 glyph: "⚷"
 definition: "Chiron en transit en maison 4 commence quand Chiron atteint votre Fond du Ciel et dure quatre ans environ à la latitude de Londres. Il touche les plus vieilles blessures d’un thème, liées au foyer, à la famille et à l’appartenance, et demande de les regarder en adulte. Il ne prédit rien de vos parents ni de votre logement."

@@ -5,6 +5,8 @@ description: "Moon trine Lilith in a birth chart: comfort and your untamed insti
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Lilith", "trine"]
 weight: 101
 glyph: "☽△⚸"
 definition: "Moon trine Lilith means that when you were born, the Moon stood a third of the circle, about 120°, from mean Black Moon Lilith, usually in a sign of the same element. Your need for comfort and your instinct for autonomy flow together here: being fully yourself feels safe rather than risky. I read it as an easy authenticity."

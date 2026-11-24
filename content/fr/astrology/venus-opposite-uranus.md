@@ -6,6 +6,8 @@ description: "Vénus opposition Uranus dans un thème natal : l’envie d’êt
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Uranus", "opposition"]
 weight: 174
 glyph: "♀☍♅"
 definition: "Vénus opposition Uranus signifie qu’à votre naissance, Vénus et Uranus étaient à environ 180° d’écart, à six signes d’intervalle. Dans un thème, la proximité se tient à un bout d’une ligne et la liberté à l’autre : vous voulez les deux, et rencontrez souvent l’une d’elles chez quelqu’un d’autre d’abord. J’y lis l’art de demander les deux à la fois."

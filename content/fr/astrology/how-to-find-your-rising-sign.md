@@ -6,6 +6,8 @@ description: "Trouver son ascendant : l’heure et le lieu de naissance, les bo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Lectures"]
+tags: ["ascendant", "signes du zodiaque", "thème natal"]
 weight: 2
 glyph: "✦"
 definition: "Trouver son ascendant, c’est déterminer quel signe du zodiaque se levait à l’est, sur l’horizon, à la minute et au lieu de votre naissance : le signe où tombe votre ascendant. Il faut pour cela l’heure et le lieu de naissance, et un thème calculé dans le zodiaque tropical, car l’ascendant change de signe environ toutes les deux heures."

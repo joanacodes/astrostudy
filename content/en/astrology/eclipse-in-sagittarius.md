@@ -5,6 +5,8 @@ description: "Eclipses in Sagittarius: twenty from 2000 to 2040, the most of any
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["eclipses", "Sagittarius"]
 weight: 9
 glyph: "●♐"
 definition: "The eclipses of Sagittarius are the new moons near the nodes that darken the Sun in Sagittarius, and the full moons that put the Moon in Sagittarius into the Earth’s shadow, with the Sun in Gemini. Twenty fall from 2000 to 2040. Each one reaches a chart only through a natal point within about three degrees of it."

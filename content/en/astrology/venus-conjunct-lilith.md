@@ -5,6 +5,8 @@ description: "Venus conjunct Lilith in a birth chart: taste and the untamed self
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Lilith", "conjunction"]
 weight: 190
 glyph: "♀☌⚸"
 definition: "Venus conjunct Lilith means Venus stood within a few degrees of mean Black Moon Lilith at your birth. In a chart, what you value and find beautiful is fused with the part of you that won’t be tamed: your taste is unmistakably yours. To me it describes authenticity in love and pleasure, and nothing in it deserves judging."

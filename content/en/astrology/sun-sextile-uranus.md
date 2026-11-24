@@ -5,6 +5,8 @@ description: "Sun sextile Uranus in a birth chart: openings to reinvent yourself
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Uranus", "sextile"]
 weight: 24
 glyph: "☉⚹♅"
 definition: "Sun sextile Uranus links your Sun and Uranus at about 60°, two signs apart, usually across complementary elements. In a chart, change is available to your purpose as an ally rather than an alarm. I read it as a talent for timely reinvention, which works when you choose to use it."

@@ -5,6 +5,8 @@ description: "Pluto sextile Lilith in synastry: one person’s depth invites the
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "Lilith", "sextile", "synastry"]
 weight: 367
 glyph: "♇⚹⚸"
 definition: "Pluto sextile Lilith in synastry spaces one chart’s Pluto 60° from another chart’s mean Black Moon Lilith, give or take 2.4°. One person’s capacity for deep change invites the other’s untamed side to come out of hiding and be put to use. I read it as an invitation to be less guarded, which works only if both accept it."

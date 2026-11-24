@@ -5,6 +5,8 @@ description: "Venus in Virgo in a birth chart: Venus in its fall, love shown in 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Virgo"]
 weight: 42
 glyph: "♀♍"
 definition: "Venus in Virgo means the planet of value and attraction is in its fall, in mutable earth ruled by Mercury, facing its exaltation in Pisces. It describes love shown through help and attention to detail, a taste for what is useful and well made, and a discerning eye that needs to learn gentleness, especially with itself."

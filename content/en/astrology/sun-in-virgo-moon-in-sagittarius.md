@@ -5,6 +5,8 @@ description: "Sun in Virgo, Moon in Sagittarius: detail and horizon in a mutable
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Virgo", "Moon", "Sagittarius"]
 weight: 69
 glyph: "☉♍☽♐"
 definition: "Sun in Virgo, Moon in Sagittarius squares two mutable signs, earth and fire, near the first quarter of the lunar month. Mercury and Jupiter, the two rulers, are each in detriment in the other’s sign. I read it as the editor and the explorer in one person: a careful mind and a heart that needs room."

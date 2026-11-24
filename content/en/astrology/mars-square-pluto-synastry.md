@@ -5,6 +5,8 @@ description: "Mars square Pluto in synastry: one person wants to move, the other
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Pluto", "square", "synastry"]
 weight: 233
 glyph: "♂□♇"
 definition: "Mars square Pluto in synastry means one person’s Mars and the other’s Pluto stand about 90° apart, within 5.1°. One person’s pace keeps pressing on the other’s need for depth, and questions of who decides come up early. I read it as magnetic, demanding friction that teaches proportion, never as a contest someone has to win."

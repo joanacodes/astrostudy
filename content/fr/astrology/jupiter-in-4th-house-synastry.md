@@ -6,6 +6,8 @@ description: "Jupiter de l’autre dans votre maison 4 en synastrie : sa géné
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 64
 glyph: "♃"
 definition: "Jupiter de l’autre dans votre maison 4 accueille Jupiter, chez cette personne, dans votre foyer, vos origines et votre intimité, la maison dont le signe naturel, le Cancer, exalte Jupiter. En synastrie, sa générosité élargit vos fondations : le foyer semble plus spacieux et plus chaleureux, et l’autre trouve chez vous une appartenance ; rien n’y promet de biens."

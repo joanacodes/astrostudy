@@ -6,6 +6,8 @@ description: "Mercure de l’autre dans votre maison 2 en synastrie : son raiso
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 26
 glyph: "☿"
 definition: "Mercure de l’autre dans votre maison 2 met un second esprit au travail sur ce que vous possédez, gagnez et estimez. En synastrie, vos échanges deviennent concrets : prix, compétences, projets, et ce que vous valez. Elle vous aide à nommer vos ressources, et vos valeurs donnent à sa pensée quelque chose de solide à peser."

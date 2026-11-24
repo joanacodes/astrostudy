@@ -6,6 +6,8 @@ description: "Mars carré Pluton en synastrie : l’une veut avancer, l’autre
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Pluton", "carré", "synastrie"]
 weight: 233
 glyph: "♂□♇"
 definition: "Mars carré Pluton en synastrie signifie que Mars, chez une personne, se tient à environ 90° de Pluton chez l’autre, à 5,1° près. Le rythme de l’une pèse sans cesse sur le besoin de profondeur de l’autre, et qui décide devient vite une question. J’y lis une friction magnétique et exigeante qui apprend la mesure, jamais une compétition."

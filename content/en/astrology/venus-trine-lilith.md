@@ -5,6 +5,8 @@ description: "Venus trine Lilith in a birth chart: what you love and your untame
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Lilith", "trine"]
 weight: 193
 glyph: "♀△⚸"
 definition: "Venus trine Lilith means Venus was about 120° from mean Black Moon Lilith at your birth, usually in signs of the same element. In a chart, what you love and your untamed side get on: being fully yourself in a relationship feels natural rather than daring. I read it as a natural freedom in love, worth using on purpose."

@@ -6,6 +6,8 @@ description: "Neptune en maison 4 dans un thème natal : le foyer comme rêve d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "maison 4", "maisons"]
 weight: 100
 glyph: "♆"
 definition: "Neptune en maison 4, c’est Neptune tout en bas du thème, dans la maison du foyer, des racines et de la famille. On y lit un foyer imaginé comme un sanctuaire, une histoire familiale ressentie plus que racontée, et une vie intérieure qui a besoin de calme pour aller bien."

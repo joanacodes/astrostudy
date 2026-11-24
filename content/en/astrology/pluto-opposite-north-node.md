@@ -5,6 +5,8 @@ description: "Pluto opposite North Node in a birth chart: Pluto on the South Nod
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "North Node", "opposition"]
 weight: 364
 glyph: "♇☍☊"
 definition: "Pluto opposite North Node means that when you were born, Pluto lay about 180° from the North Node, right beside the South Node. In a chart, deep renewal is familiar ground: letting go and starting over may come easily, while the direction of growth across the chart asks you to practise a capacity you know less well."

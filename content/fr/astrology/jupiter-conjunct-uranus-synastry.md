@@ -6,6 +6,8 @@ description: "Jupiter conjonction Uranus en synastrie : le sens que l’une don
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Uranus", "conjonction", "synastrie"]
 weight: 256
 glyph: "♃☌♅"
 definition: "Jupiter conjonction Uranus en synastrie signifie que Jupiter, chez une personne, se trouve à moins de 5° d’Uranus chez l’autre. Une façon de donner sens à la vie et l’envie de la réformer n’en font plus qu’une, entre deux personnes. Les années de naissance la fixent : je la lis par les maisons, croyances d’une époque face aux essais d’une autre."

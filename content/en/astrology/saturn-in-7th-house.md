@@ -5,6 +5,8 @@ description: "Saturn in the 7th house in a birth chart: commitment taken serious
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "7th house", "houses"]
 weight: 79
 glyph: "♄"
 definition: "Saturn in the 7th house sits just above the western horizon, by the Descendant, in the house of partners and one-to-one bonds. It describes commitment taken very seriously, often later than others, partners who test or teach you, and relationships that strengthen with time. It doesn’t predict marriage."

@@ -6,6 +6,8 @@ description: "Les quadruplicités : les croix cardinale, fixe et mutable, les q
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 19
 glyph: "♈♋♎♑"
 definition: "Une quadruplicité est un groupe de quatre signes de la même modalité, à 90° les uns des autres, qui forment une croix dans le zodiaque : les croix cardinale, fixe et mutable. Les planètes d’une même croix forment souvent des carrés et des oppositions, d’où naissent les T-carrés et les grandes croix. J’y lis un moteur de développement, jamais une fatalité."

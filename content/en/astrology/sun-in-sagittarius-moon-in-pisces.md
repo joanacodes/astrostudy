@@ -5,6 +5,8 @@ description: "Sun in Sagittarius, Moon in Pisces: a mutable square, both signs o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Sagittarius", "Moon", "Pisces"]
 weight: 108
 glyph: "☉♐☽♓"
 definition: "Sun in Sagittarius, Moon in Pisces squares two mutable signs, fire and water, at a birth around the first quarter, five to ten days after a new moon. Jupiter rules Sagittarius and, in the older scheme, Pisces too; Neptune is the Moon’s modern ruler. I read it as one search for meaning, outward and inward."

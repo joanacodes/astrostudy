@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Fond du Ciel", "fond du ciel", "FC"]
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["Fond du Ciel", "angles"]
 weight: 4
 glyph: "FC"
 definition: "Le Fond du Ciel, noté FC ou IC (du latin Imum Coeli), est le point où le zodiaque croisait le méridien sous l’horizon à votre naissance, à l’opposé exact du Milieu du Ciel. Les astrologues y lisent vos racines : le foyer, la famille, le terrain intime sur lequel repose votre vie. Il demande l’heure de naissance."

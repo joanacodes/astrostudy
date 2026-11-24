@@ -5,6 +5,8 @@ description: "Moon opposite Lilith in synastry: one person keeps the nest, the o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Lilith", "opposition", "synastry"]
 weight: 110
 glyph: "☽☍⚸"
 definition: "Moon opposite Lilith in synastry means one person’s Moon faces the other’s mean Black Moon Lilith, within 8°. One person’s need to hold and be held sits opposite the other’s refusal to be kept, and each meets in the other a side they put away. To me it’s a balance kept by moving, never enmity."

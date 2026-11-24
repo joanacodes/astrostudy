@@ -5,6 +5,8 @@ description: "Chiron transiting the 4th house: about four years in which an old 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Chiron", "4th house", "transits"]
 weight: 64
 glyph: "⚷"
 definition: "Chiron transiting the 4th house begins when Chiron reaches your IC and usually lasts about four years at London’s latitude. It touches the oldest hurts a chart holds, about home, family and belonging, and asks you to look at them as an adult. It predicts nothing about your parents or where you will live."

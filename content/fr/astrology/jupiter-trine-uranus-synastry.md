@@ -6,6 +6,8 @@ description: "Jupiter trigone Uranus en synastrie : la croissance de l’une, l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Uranus", "trigone", "synastrie"]
 weight: 259
 glyph: "♃△♅"
 definition: "Jupiter trigone Uranus en synastrie signifie que Jupiter, chez une personne, se trouve à environ 120° d’Uranus chez l’autre, à 4,25° près. La croissance et l’indépendance s’entraident : le changement trouve un accueil, la compréhension reste en mouvement. Dans mes lectures, ce sont deux époques qui se conviennent, trouvées dans les maisons plutôt que comptées comme un aspect."

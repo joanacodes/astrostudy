@@ -6,6 +6,8 @@ description: "Vénus conjonction Pluton en synastrie : ce que l’une estime re
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Pluton", "conjonction", "synastrie"]
 weight: 191
 glyph: "♀☌♇"
 definition: "Vénus conjonction Pluton en synastrie signifie que Vénus, chez une personne, se trouve à moins de 6° de Pluton chez l’autre. Ce que la première estime rencontre le besoin de la seconde d’aller à la racine des choses et de les renouveler : goûts et attachements restent rarement superficiels. J’y lis une profondeur partagée entre deux adultes, jamais un destin."

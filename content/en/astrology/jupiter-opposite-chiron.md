@@ -5,6 +5,8 @@ description: "Jupiter opposite Chiron in a birth chart: the wide view facing the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Chiron", "opposition"]
 weight: 264
 glyph: "♃☍⚷"
 definition: "Jupiter opposite Chiron means Jupiter and Chiron about 180° apart, the rarest of their five aspects. In a chart, the wide view and the tender spot face each other, and one end is often met first through other people. I read it as a call to keep both in sight, so hope includes what stays sensitive."

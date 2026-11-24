@@ -6,6 +6,8 @@ description: "Ascendant Bélier : un réflexe de départ, Mars maître du thèm
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "Bélier"]
 weight: 1
 glyph: "↑♈"
 definition: "Un ascendant Bélier signifie que le Bélier, premier signe du zodiaque, se levait à l’horizon est à votre naissance : votre ascendant est en Bélier. Les astrologues y lisent une façon vive et directe d’aborder le monde, avec Mars pour maître du thème. À Londres, ce signe se lève en moins d’une heure : il faut une heure de naissance exacte."

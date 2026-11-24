@@ -5,6 +5,8 @@ description: "Mercury conjunct North Node in synastry: one person’s ideas poin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "North Node", "conjunction", "synastry"]
 weight: 161
 glyph: "☿☌☊"
 definition: "Mercury conjunct North Node in synastry means one person’s Mercury sits within 6° of the other’s North Node, and so opposite their South Node. One person’s ideas and questions point towards the capacity the other is learning, away from their familiar habits. I read it as conversation that stretches, a direction to practise, never a destiny."

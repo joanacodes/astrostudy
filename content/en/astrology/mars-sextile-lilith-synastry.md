@@ -5,6 +5,8 @@ description: "Mars sextile Lilith in synastry: initiative from one person, a pra
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Lilith", "sextile", "synastry"]
 weight: 242
 glyph: "♂⚹⚸"
 definition: "Mars sextile Lilith in synastry means a 60° angle, within 3.6°, links one person’s Mars to the other’s mean Black Moon Lilith. Initiative on one side and independence on the other cooperate, and the off-script option gets easier to take. I read it as an invitation to do things differently, which needs someone to accept it."

@@ -6,6 +6,8 @@ description: "Soleil opposition Neptune dans un thème natal : votre propre con
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Neptune", "opposition"]
 weight: 32
 glyph: "☉☍♆"
 definition: "Soleil opposition Neptune signifie que le Soleil faisait face à Neptune, à environ 180°, le jour de votre naissance. Dans un thème, cet aspect place votre propre contour face à l’illimité : les idéaux, la compassion, les besoins des autres, souvent rencontrés d’abord chez quelqu’un d’autre. J’y lis un équilibre entre se garder et se donner, jamais une perte de soi."

@@ -5,6 +5,8 @@ description: "Pisces in astrology: the two fish, ruled by Neptune and Jupiter. P
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signs"]
+tags: ["Pisces"]
 weight: 12
 glyph: "♓"
 definition: "Pisces is the twelfth and last sign of the zodiac, a mutable water sign ruled by Neptune in modern tropical astrology and by Jupiter in the tradition; the Sun crosses it from about 19 February to 20 March. In a birth chart it shows where your edges soften: where you imagine, empathise and let go."

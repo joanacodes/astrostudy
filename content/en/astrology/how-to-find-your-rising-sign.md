@@ -5,6 +5,8 @@ description: "How to find your rising sign: your birth time and place, the right
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Readings"]
+tags: ["rising sign", "zodiac signs", "birth chart"]
 weight: 2
 glyph: "✦"
 definition: "Finding your rising sign means working out which sign of the zodiac was rising on the eastern horizon at the minute and place of your birth: the sign your Ascendant falls in. It takes your birth time, your birthplace and a chart set to the tropical zodiac, because the rising sign changes about every two hours on average."

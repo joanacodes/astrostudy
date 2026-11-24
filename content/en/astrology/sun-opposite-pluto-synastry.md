@@ -5,6 +5,8 @@ description: "Sun opposite Pluto in synastry: a self that shows itself faces a d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Pluto", "opposition", "synastry"]
 weight: 45
 glyph: "☉☍♇"
 definition: "Sun opposite Pluto in synastry sets a visible self across the zodiac from a hidden depth, the Sun of one person opposing the Pluto of the other within 8°. One is easy to read, the other slow to know. To me it is a polarity between openness and depth, in which power has to be shared in plain words."

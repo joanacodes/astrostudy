@@ -6,6 +6,8 @@ description: "Le Nœud Nord de l’autre dans votre maison 10 en synastrie : vo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Nœud Nord", "maison 10", "synastrie", "superpositions de maisons"]
 weight: 154
 glyph: "☊"
 definition: "Le Nœud Nord de l’autre dans votre maison 10 hisse la croissance de cette personne au sommet de votre thème, votre travail, votre statut, votre rôle public, et place son Nœud Sud dans votre maison 4. Votre vie publique lui apprend à faire un pas vers le monde ; chez vous, elle s’installe comme si elle avait toujours été là."

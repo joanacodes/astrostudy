@@ -6,6 +6,8 @@ description: "Soleil en Scorpion, Lune en Verseau : l’eau fixe et l’air fix
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Scorpion", "Lune", "Verseau"]
 weight: 95
 glyph: "☉♏☽♒"
 definition: "Soleil en Scorpion, Lune en Verseau met l’eau fixe et l’air fixe en carré, une semaine environ après la nouvelle lune, avec deux maîtres pour chaque luminaire. J’y lis un moi qui regarde au fond d’une seule chose, avec des besoins apaisés par l’espace, l’amitié et une vue d’ensemble."

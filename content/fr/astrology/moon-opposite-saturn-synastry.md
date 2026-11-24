@@ -6,6 +6,8 @@ description: "Lune opposition Saturne en synastrie : l’une porte le besoin, l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Saturne", "opposition", "synastrie"]
 weight: 85
 glyph: "☽☍♄"
 definition: "Lune opposition Saturne en synastrie : Saturne d’une personne face à la Lune de l’autre, à environ 180°, à 8° près. L’une porte en général les besoins et les émotions, l’autre les limites et les projets. J’y lis un balancier que la paire règle à deux, et je guette le moment où les rôles cessent de bouger."

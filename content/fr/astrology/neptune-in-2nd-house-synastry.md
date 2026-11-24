@@ -6,6 +6,8 @@ description: "Neptune de l’autre dans votre maison 2 en synastrie : ses idéa
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 98
 glyph: "♆"
 definition: "Neptune de l’autre dans votre maison 2 amène Neptune, chez cette personne, jusqu’à votre argent, vos biens et le sentiment de votre valeur. En synastrie, son idéal adoucit ce qui compte pour vous : les objets pèsent moins, le sens davantage, et l’autre idéalise votre rapport aux choses. L’argent entre vous peut devenir flou ; mieux vaut écrire les chiffres."

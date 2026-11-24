@@ -6,6 +6,8 @@ description: "Ascendant Poissons : une frontière douce, Jupiter et Neptune ma�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "Poissons"]
 weight: 12
 glyph: "↑♓"
 definition: "Un ascendant Poissons signifie que les Poissons, signe d’eau mutable, se levaient à l’horizon est à votre naissance : votre ascendant est en Poissons. Il décrit une façon douce et réceptive d’aborder le monde, qui sent vite les ambiances. Ses maîtres sont Jupiter et Neptune, et à Londres, ce signe se lève en moins d’une heure : il faut l’heure exacte."

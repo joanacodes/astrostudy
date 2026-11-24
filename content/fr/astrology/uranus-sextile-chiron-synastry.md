@@ -6,6 +6,8 @@ description: "Uranus sextile Chiron en synastrie : les essais de l’une offren
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Chiron", "sextile", "synastrie"]
 weight: 327
 glyph: "♅⚹⚷"
 definition: "Uranus sextile Chiron en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 60° du Chiron de l’autre, à 2,4° près. Les essais de l’une offrent à l’autre un nouveau chemin autour d’une vieille limite, qui n’aide qu’une fois tenté. Il appartient à des mois entiers de naissances : je le lis par les maisons où l’offre se fait."

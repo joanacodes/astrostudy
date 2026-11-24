@@ -5,6 +5,8 @@ description: "Their North Node in your 3rd house in synastry: their practice in 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["North Node", "3rd house", "synastry", "house overlays"]
 weight: 147
 glyph: "☊"
 definition: "Their North Node in your 3rd house is the other person’s direction of growth landing in your near world, daily talk, errands, siblings, first lessons, while their South Node sits far off in your 9th. Between you, everyday questions become their practice and big pronouncements their habit, and each of you feels that difference from your own side."

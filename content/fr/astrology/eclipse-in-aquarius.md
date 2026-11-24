@@ -6,6 +6,8 @@ description: "Les éclipses en Verseau : quinze de 2000 à 2040, dont trois ann
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["éclipses", "Verseau"]
 weight: 11
 glyph: "●♒"
 definition: "Le Verseau reçoit sa part d’éclipses sur l’axe Verseau–Lion : solaires, quand une nouvelle lune proche des nœuds rejoint le Soleil en Verseau, et lunaires, quand la pleine Lune en Verseau fait face à un Soleil en Lion. Quinze tombent de 2000 à 2040. Je n’en tiens compte que si un point natal se trouve à environ trois degrés."

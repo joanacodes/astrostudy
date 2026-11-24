@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["house system", "house systems"]
 family: "houses"
+categories: ["Houses"]
+tags: ["house systems"]
 weight: 39
 glyph: "✦"
 definition: "A house system is the rule that divides a birth chart into twelve houses, and systems differ in where they put the cusps. Whole Sign makes each sign a house; equal houses count 30° from the Ascendant; Placidus and the other quadrant systems start four houses at the angles. I use Placidus. Whichever you choose, keep to it."

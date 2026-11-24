@@ -5,6 +5,8 @@ description: "Chiron square North Node in synastry: one person’s lasting diffi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "North Node", "square", "synastry"]
 weight: 383
 glyph: "⚷□☊"
 definition: "Chiron square North Node in synastry sets one person’s Chiron about 90° from another person’s North Node, within 2.55°, a right angle that holds for their South Node too. A difficulty one person lives around cuts through the other’s route at its midpoint, between familiar ground and new. I read it as friction that redesigns a route, never failure."

@@ -5,6 +5,8 @@ description: "Venus trine Jupiter in a birth chart: appreciation and good will t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Jupiter", "trine"]
 weight: 163
 glyph: "♀△♃"
 definition: "Venus trine Jupiter means your chart has Venus and Jupiter about 120° apart, most often in signs of one element. In a chart, your values and your urge to grow flow together: appreciation comes easily, and so does good will. The ease is real; I read it as a resource, never as luck."

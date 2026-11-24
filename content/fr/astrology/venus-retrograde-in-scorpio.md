@@ -6,6 +6,8 @@ description: "Vénus rétrograde en Scorpion : tous les huit ans dès début oc
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde", "Scorpion"]
 weight: 20
 glyph: "♀℞♏"
 definition: "Vénus rétrograde en Scorpion commence tous les huit ans début octobre : vue de la Terre, Vénus s’arrête en Scorpion et y recule pendant six semaines environ, pour finir le plus souvent en Balance. J’y lis l’attachement et le désir examinés en profondeur, ce que vous retenez et pourquoi, dans la maison qu’occupe le Scorpion dans votre thème."

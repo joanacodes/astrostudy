@@ -6,6 +6,8 @@ description: "Lune opposition Lilith dans un thème natal : la Lune du côté p
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Lilith", "opposition"]
 weight: 102
 glyph: "☽☍⚸"
 definition: "Lune opposition Lilith signifie qu’à votre naissance, la Lune était à environ 180° de la Lune noire Lilith, sur la moitié de son orbite tournée vers la Terre. Dans un thème, votre besoin de réconfort fait face à votre part indomptée. J’y lis une polarité, jamais une guerre."

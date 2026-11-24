@@ -5,6 +5,8 @@ description: "Saturn transiting the 8th house: about three years of taking stock
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "8th house", "transits"]
 weight: 20
 glyph: "♄"
 definition: "Saturn transiting the 8th house is Saturn’s audit, usually a little under three years long, of what you share with other people and what you owe them: joint money, obligations, trust and intimacy. What’s already in your chart gets counted and put on firmer ground. It foretells no death and no loss."

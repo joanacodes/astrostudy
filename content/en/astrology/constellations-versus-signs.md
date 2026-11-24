@@ -5,6 +5,8 @@ description: "Constellations versus signs: why the zodiac’s signs share names 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "stars"
+categories: ["Stars"]
+tags: ["zodiac signs", "fixed stars"]
 weight: 26
 glyph: "✦"
 definition: "Constellations are patterns of stars, of unequal sizes, with borders astronomers fixed in 1930. Signs are twelve equal parts of 30° of the Sun’s yearly path, counted from the March equinox. They share names because the signs were named after the stars behind them; precession has since pulled the two apart. A birth chart uses the signs."

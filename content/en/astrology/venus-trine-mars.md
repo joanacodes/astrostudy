@@ -5,6 +5,8 @@ description: "Venus trine Mars in a birth chart: what you value and how you go a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Mars", "trine"]
 weight: 158
 glyph: "♀△♂"
 definition: "Venus trine Mars means Venus and Mars were about 120° apart at your birth, usually in signs of the same element. In a chart it lets what you value and what you go after move together: you tend to pursue what you genuinely like, and ask for it without spoiling the exchange. The ease is real but needs using."

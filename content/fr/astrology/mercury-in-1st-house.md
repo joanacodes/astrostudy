@@ -6,6 +6,8 @@ description: "Mercure en maison 1 dans un thème natal : Mercure dans sa joie, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "maison 1", "maisons"]
 weight: 25
 glyph: "☿"
 definition: "Mercure en maison 1 place la planète de la pensée et de la parole dans la maison du moi, où, selon la tradition, Mercure se réjouit. On y lit un esprit qui se voit : la curiosité dans votre manière, des questions dès les premières minutes, une pensée que l’on regarde se faire. Il faut une heure de naissance précise."

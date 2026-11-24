@@ -6,6 +6,8 @@ description: "Pluton opposition Chiron dans un thème natal : la polarité des 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Chiron", "opposition"]
 weight: 354
 glyph: "♇☍⚷"
 definition: "Pluton opposition Chiron signifie qu’à votre naissance, Pluton et Chiron se faisaient face, à environ 180°, comme par intermittence de 1959 à 1970 : Pluton en Vierge, Chiron surtout en Poissons. Dans un thème, l’aspect met en balance deux réponses à ce qui ne fonctionne plus : renouveler à la racine, ou s’adapter autour de ce qui reste."

@@ -6,6 +6,8 @@ description: "Jupiter conjonction Uranus dans un thème natal : croissance et i
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Uranus", "conjonction"]
 weight: 245
 glyph: "♃☌♅"
 definition: "Jupiter conjonction Uranus signifie qu’à votre naissance, les deux planètes se trouvaient à quelques degrés d’écart, une rencontre qui revient environ tous les 14 ans et que partagent quelques mois de naissances. La croissance et l’innovation agissent alors ensemble, et la compréhension se renouvelle sans cesse. Sa maison montre où vous élargissez votre monde en le changeant."

@@ -6,6 +6,8 @@ description: "Mercure conjonction Lilith dans un thème natal : un esprit qui r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Lilith", "conjonction"]
 weight: 145
 glyph: "☿☌⚸"
 definition: "Mercure conjonction Lilith place Mercure à quelques degrés de la Lune noire Lilith, le point que les astrologues lisent comme ce qui, en vous, refuse d’être dompté. Dans un thème, l’esprit et cette part indomptée parlent d’une seule voix : franche, intime, rétive aux corrections. J’y lis une voix à reprendre, pas à craindre."

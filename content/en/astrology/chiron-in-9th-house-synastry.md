@@ -5,6 +5,8 @@ description: "Their Chiron in your 9th house in synastry: an old hurt and the me
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "9th house", "synastry", "house overlays"]
 weight: 129
 glyph: "⚷"
 definition: "Their Chiron in your 9th house sends the other person’s Chiron out to your far horizon: beliefs, higher study, long journeys, the search for meaning. In synastry the sense they made of an old hurt meets your own questions: they tend to teach without preaching, while your beliefs or travels can touch something tender in them."

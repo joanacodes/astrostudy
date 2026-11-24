@@ -6,6 +6,8 @@ description: "Mars carré Chiron en synastrie : la poussée de l’une accroche
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Chiron", "carré", "synastrie"]
 weight: 238
 glyph: "♂□⚷"
 definition: "Mars carré Chiron en synastrie signifie que Mars, chez une personne, aborde de côté Chiron chez l’autre : environ 90°, à 5,1° près. La poussée de l’une accroche le point sensible de l’autre, et chaque accroc demande une meilleure méthode. Cette friction, à mes yeux, enseigne la douceur et les mots simples ; elle n’inscrit aucun mal dans deux thèmes."

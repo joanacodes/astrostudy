@@ -5,6 +5,8 @@ description: "Moon trine Chiron in synastry: care that fits without explaining, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Chiron", "trine", "synastry"]
 weight: 104
 glyph: "☽△⚷"
 definition: "Moon trine Chiron in synastry means one person’s Moon is about 120° from the other’s Chiron, within 6.8°, most often in signs of a single element. One person’s needs and the other’s way of living with a lasting sensitivity suit each other. I read it as care that fits without explanation, and I ask what that ease costs."

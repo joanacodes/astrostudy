@@ -6,6 +6,8 @@ description: "L’astrologie : ce que c’est, comment un thème naît du ciel 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: []
 weight: 1
 glyph: "✦"
 definition: "L’astrologie consiste à lire la position du Soleil, de la Lune et des planètes à un instant donné, vue d’un lieu donné, comme un langage pour la vie humaine. Dans un thème natal, elle décrit des tendances, des besoins et des saisons plutôt que des événements fixés. Personne ne sait exactement comment elle fonctionne, et je le dis."

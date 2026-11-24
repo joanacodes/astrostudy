@@ -5,6 +5,8 @@ description: "Sun in Taurus, Moon in Taurus: a double Taurus born near a new moo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Taurus", "Moon"]
 weight: 14
 glyph: "☉♉☽♉"
 definition: "Sun in Taurus, Moon in Taurus is the double Taurus: the Moon in its exaltation beside a Sun in the same sign, at a birth just before or just after a new moon. I read it as one deep root: what you build and what comforts you are made of the same slow material, and Venus answers for both."

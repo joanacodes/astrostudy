@@ -6,6 +6,8 @@ description: "Jupiter carré Lilith en synastrie : les principes de l’une fro
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Lilith", "carré", "synastrie"]
 weight: 278
 glyph: "♃□⚸"
 definition: "Jupiter carré Lilith en synastrie signifie que Jupiter, chez une personne, se trouve à environ 90° de la Lune noire Lilith de l’autre, à 4,25° près. Ce que l’une croit bon et digne d’espoir accroche les refus de l’autre. J’y lis une friction qui fait examiner les certitudes, jamais un verdict, à lire par les maisons."

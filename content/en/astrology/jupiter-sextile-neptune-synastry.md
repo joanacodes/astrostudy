@@ -5,6 +5,8 @@ description: "Jupiter sextile Neptune in synastry: one person’s sense of purpo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Neptune", "sextile", "synastry"]
 weight: 262
 glyph: "♃⚹♆"
 definition: "Jupiter sextile Neptune in synastry means one person’s Jupiter is about 60° from the other’s Neptune, within 3°. Purpose and imagination can help each other, giving a dream a direction and a plan an image, once someone makes a start. It’s shared by long runs of birth months, and I read it in the houses."

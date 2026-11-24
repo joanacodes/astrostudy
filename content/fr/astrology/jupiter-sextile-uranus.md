@@ -6,6 +6,8 @@ description: "Jupiter sextile Uranus dans un thème natal : des ouvertures pour
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Uranus", "sextile"]
 weight: 246
 glyph: "♃⚹♅"
 definition: "Dans Jupiter sextile Uranus, les deux planètes se tenaient à environ 60° l’une de l’autre à votre naissance, un angle que partagent quelques mois de naissances. Cet aspect relie l’envie de grandir à l’envie d’essayer du neuf : les ouvertures passent souvent par le changement. J’y lis un goût pour la nouveauté utile, qui demande qu’on s’en serve."

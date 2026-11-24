@@ -5,6 +5,8 @@ description: "Sun square Mars in synastry: one person’s drive cutting across t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Mars", "square", "synastry"]
 weight: 18
 glyph: "☉□♂"
 definition: "Sun square Mars in synastry means one person’s Mars is about 90° from the other’s Sun, within 6.8°. One person’s drive cuts across the other’s direction, so pace, timing and who decides become live questions. I read it as friction that builds stamina in both, never as a sign that two people are at war."

@@ -5,6 +5,8 @@ description: "The supermoon: an astrologer’s word from 1979 for a full or new 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["lunations"]
 weight: 16
 glyph: "◯"
 definition: "A supermoon is a full or new moon that falls when the Moon is near perigee, its closest point to Earth. The astrologer Richard Nolle coined the word in 1979; astronomers say perigean full moon, and there is no single agreed definition. At its nearest, a full moon looks up to about a seventh wider than at its farthest."

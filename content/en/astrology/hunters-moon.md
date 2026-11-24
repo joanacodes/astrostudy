@@ -5,6 +5,8 @@ description: "The Hunter’s moon is the first full moon after the Harvest moon,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 29
 glyph: "○"
 definition: "The Hunter’s moon is the first full moon after the Harvest moon, so it falls in October, or in early November when the Harvest moon came in October. It is an old English name, not astrology. In a chart it is a full moon in Aries, with the Sun in Libra, or in Taurus, with the Sun in Scorpio."

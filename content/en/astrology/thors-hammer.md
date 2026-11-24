@@ -5,6 +5,8 @@ description: "Thor’s hammer in astrology: two planets in square, both 135° fr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["aspect patterns"]
 weight: 10
 glyph: "⚼"
 definition: "Thor’s hammer is three planets: two in square, both sesquiquadrate a third that sits 135° from each. The friction of the square is passed on to that third planet, which has to reorganise around it: compound tension that asks for a rebuild, not a punishment. Despite the name, about 1 chart in 11 contains one."

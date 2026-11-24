@@ -5,6 +5,8 @@ description: "Pluto transiting the 5th house: about twenty years in which pleasu
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "5th house", "transits"]
 weight: 53
 glyph: "♇"
 definition: "Pluto transiting the 5th house is Pluto’s stay, about twenty years in the middle at London’s latitude, in your house of pleasure, romance, play and creative work. It deepens what your chart already says about joy: what you make, whom you fall for and what you do for the love of it. It predicts no children."

@@ -5,6 +5,8 @@ description: "Moon trine Neptune in a birth chart: feelings and imagination flow
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Neptune", "trine"]
 weight: 86
 glyph: "☽△♆"
 definition: "Moon trine Neptune means your Moon and Neptune were about 120° apart at birth, usually in signs that share an element. In a chart it lets your feelings and your imagination move together: compassion comes naturally, and you can soothe yourself and others with very little. I read it as an easy tenderness, best used with intent."

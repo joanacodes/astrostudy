@@ -5,6 +5,8 @@ description: "Venus sextile North Node in a birth chart: what you value as a bri
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "North Node", "sextile"]
 weight: 196
 glyph: "♀⚹☊"
 definition: "Venus sextile North Node means Venus was about 60° from the North Node at your birth, and about 120° from the South Node. In a chart, what you value links the familiar and the new: your way of relating can help you grow towards a less practised capacity. I read it as a bridge, there to cross when you choose."

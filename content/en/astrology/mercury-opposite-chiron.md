@@ -5,6 +5,8 @@ description: "Mercury opposite Chiron in a birth chart: when other people’s wo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Chiron", "opposition"]
 weight: 144
 glyph: "☿☍⚷"
 definition: "Mercury opposite Chiron sets your way of thinking and speaking across the chart from Chiron, the sore place a chart keeps returning to. In a chart, the sensitivity is often touched by other people’s words, and you learn to answer from steadier ground. It’s a polarity, and its lesson is careful understanding in both directions."

@@ -6,6 +6,8 @@ description: "Mercure sextile Chiron dans un thème natal : changer ce qu’un 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Chiron", "sextile"]
 weight: 141
 glyph: "☿⚹⚷"
 definition: "Dans Mercure sextile Chiron, 60° séparent à la naissance la planète des mots et Chiron, le petit corps lu comme un point sensible. Dans un thème, ce sextile offre un moyen de mettre en mots qui aident ce que vos propres points sensibles vous ont appris. J’y lis une ouverture pour partager l’expérience, pas une obligation."

@@ -5,6 +5,8 @@ description: "Neptune in the 1st house in a birth chart: a soft, changeable pres
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "1st house", "houses"]
 weight: 97
 glyph: "♆"
 definition: "Neptune in the 1st house means Neptune was below the eastern horizon when you were born, in the house of the self, the body and first impressions. In a chart it gives a soft, receptive presence: people sense your empathy at once, and may find in you whatever they were hoping for."

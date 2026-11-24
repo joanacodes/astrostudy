@@ -6,6 +6,8 @@ description: "Soleil en Sagittaire, Lune en Taureau : un quinconce par signe, l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Sagittaire", "Lune", "Taureau"]
 weight: 98
 glyph: "☉♐☽♉"
 definition: "Soleil en Sagittaire, Lune en Taureau associe le feu mutable et la terre fixe, que cinq signes séparent, pour une naissance sous une Lune gibbeuse, dix à quinze jours après la nouvelle lune. La Lune est exaltée. J’y vois un moi qui repart sans cesse et des besoins qui font durer les choses : voyager avec des racines."

@@ -5,6 +5,8 @@ description: "Sun square Saturn in synastry: one person’s standards press on t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Saturn", "square", "synastry"]
 weight: 28
 glyph: "☉□♄"
 definition: "Sun square Saturn in synastry sets one person’s standards and caution at right angles to the other’s self-expression: their Saturn about 90° from the other’s Sun, within 6.8°. I read it as friction that tests plans and builds respect, never as a sign that two people can’t get on."

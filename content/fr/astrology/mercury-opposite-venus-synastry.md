@@ -6,6 +6,8 @@ description: "Mercure opposition Vénus en synastrie : les raisons d’un côt�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Vénus", "opposition", "synastrie"]
 weight: 120
 glyph: "☿☍♀"
 definition: "Mercure opposition Vénus en synastrie signifie que Mercure, chez une personne, fait face à la Vénus de l’autre, à 6° près, ce qu’aucun thème seul ne permet. Le raisonnement de l’une et le sens de la valeur de l’autre occupent les deux bouts d’une balance et se complètent. J’y vois une polarité que deux personnes équilibrent ensemble."

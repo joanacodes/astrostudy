@@ -5,6 +5,8 @@ description: "Neptune in Scorpio in a birth chart: the 1955–1970 generation’
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Scorpio"]
 weight: 104
 glyph: "♆♏"
 definition: "Neptune in Scorpio is Neptune, the planet of imagination and empathy, in the fixed water sign of depth and intimacy, where it stayed from December 1955 to November 1970. For the generation born in those years, I read it as a longing for depth: closeness without masks, mystery, and compassion that stays in the dark."

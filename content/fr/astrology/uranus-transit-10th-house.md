@@ -6,6 +6,8 @@ description: "Uranus en transit en maison 10 : près de huit ans à vouloir un 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Uranus", "maison 10", "transits"]
 weight: 34
 glyph: "♅"
 definition: "Uranus en transit en maison 10 commence au sommet de votre thème : une fois votre Milieu du Ciel franchi, Uranus passe près de huit ans, en général, dans votre maison du travail et de la réputation. Ce transit réveille ce que votre thème dit de la vie publique : un chemin qui ne va plus, un travail à votre façon."

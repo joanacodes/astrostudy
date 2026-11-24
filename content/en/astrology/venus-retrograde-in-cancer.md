@@ -5,6 +5,8 @@ description: "Venus retrograde in Cancer: none from 2000 to 2040, the Gemini and
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Venus", "retrograde", "Venus retrograde", "Cancer"]
 weight: 16
 glyph: "♀℞♋"
 definition: "Venus retrograde in Cancer would be Venus seeming, from Earth, to back through Cancer for about six weeks; in my list, from 2000 to 2040, it never does. I read the placement as care and belonging valued again: who feels like home, what you shelter and why, in the house Cancer occupies in your chart."

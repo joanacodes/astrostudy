@@ -6,6 +6,8 @@ description: "Soleil carré Jupiter dans un thème natal : un appétit de crois
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Jupiter", "carré"]
 weight: 15
 glyph: "☉□♃"
 definition: "Soleil carré Jupiter place Jupiter à environ 90° de votre Soleil, en général dans un signe qui partage le mode du vôtre. Dans un thème, la direction et l’envie de grandir tirent en biais : plus d’appétit que de temps. J’y lis une friction qui enseigne la mesure, et une générosité qui découvre sa propre taille."

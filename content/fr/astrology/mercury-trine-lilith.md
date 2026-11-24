@@ -6,6 +6,8 @@ description: "Mercure trigone Lilith dans un thème natal : une franchise qui v
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Lilith", "trigone"]
 weight: 148
 glyph: "☿△⚸"
 definition: "Mercure trigone Lilith place votre façon de parler à 120° de la Lune noire Lilith, ce point indompté, en général dans un signe du même élément. Dans un thème, la pensée franche et hors norme passe dans la parole sans lutte. J’y lis une franchise naturelle, à employer avec égard pour qui écoute."

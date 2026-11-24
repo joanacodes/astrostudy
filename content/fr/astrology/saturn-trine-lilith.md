@@ -6,6 +6,8 @@ description: "Saturne trigone Lilith dans un thème natal : responsabilité et 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Lilith", "trigone"]
 weight: 298
 glyph: "♄△⚸"
 definition: "Saturne trigone Lilith signifie qu’environ 120° séparaient Saturne et la Lune noire Lilith moyenne à la naissance, en général dans un même élément. Dans un thème, la responsabilité et l’instinct d’autonomie se renforcent : vous pouvez être fiable sans être domptable, et vos refus viennent souvent avec un plan plutôt qu’avec une porte claquée."

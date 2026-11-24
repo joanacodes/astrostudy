@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["thème de Davison", "Davison"]
 family: "techniques"
+categories: ["Synastrie"]
+tags: ["synastrie"]
 weight: 52
 glyph: "✦"
 definition: "Le thème de Davison est un thème de relation dressé pour l’instant situé à mi-chemin, dans le temps, entre deux naissances, au lieu situé à mi-chemin entre les deux lieux de naissance. Contrairement au composite, il montre un vrai ciel. Ronald Davison l’a décrit en 1977 ; on y lit le thème propre de la relation, avec les deux thèmes natals."

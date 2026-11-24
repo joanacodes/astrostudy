@@ -6,6 +6,8 @@ description: "Jupiter de l’autre dans votre maison 9 en synastrie : sa géné
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "maison 9", "synastrie", "superpositions de maisons"]
 weight: 69
 glyph: "♃"
 definition: "Jupiter de l’autre dans votre maison 9, c’est Jupiter, chez cette personne, en terrain familier : la maison des convictions, des études et des voyages, dont Jupiter gouverne le signe naturel. En synastrie, sa générosité élargit vos horizons : vous apprenez et explorez davantage à ses côtés, et votre ouverture offre à sa quête de sens la compagnie qu’elle cherche."

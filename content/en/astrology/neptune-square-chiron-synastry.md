@@ -5,6 +5,8 @@ description: "Neptune square Chiron in synastry: one person’s kindness and the
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Chiron", "square", "synastry"]
 weight: 348
 glyph: "♆□⚷"
 definition: "Neptune square Chiron in synastry crosses one person’s compassion with the other’s lasting limit: the Neptune and the Chiron sit about 90° apart, within 3.4°. Kindness and practical adaptation keep missing each other until they are talked through. Dates, not persons, decide who has it; the houses decide what it touches."

@@ -5,6 +5,8 @@ description: "Their Neptune in your 10th house in synastry: their ideals in your
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "10th house", "synastry", "house overlays"]
 weight: 106
 glyph: "♆"
 definition: "Their Neptune in your 10th house lifts the other person’s Neptune to the top of your chart: career, public role and reputation. In synastry their ideals meet your direction, so ambition can turn into vocation and your name takes on a glow, while plans and roles need clear terms. It predicts neither success nor failure."

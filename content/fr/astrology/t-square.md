@@ -6,6 +6,8 @@ description: "Le T-carré en astrologie : une opposition et une troisième plan
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["carré", "configurations"]
 weight: 4
 glyph: "□"
 definition: "Un T-carré, ce sont deux planètes en opposition, toutes deux en carré avec une troisième, la planète focale, au sommet. Il dessine un T en travers du thème, ouvert là où se tiendrait un quatrième coin. Il décrit une tension qui se rassemble en un point et pousse à agir. Près de 3 thèmes sur 10 en contiennent un."

@@ -5,6 +5,8 @@ description: "Uranus trine Pluto in synastry: one generation’s reforms and ano
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Pluto", "trine", "synastry"]
 weight: 324
 glyph: "♅△♇"
 definition: "Uranus trine Pluto in synastry sets one person’s Uranus a third of the zodiac from the other’s Pluto, within 3.4°. Missing from every birth chart of 1930 to 2009, the trine joins people born decades apart, with change and depth in step. I read it through the houses, as an alliance of eras."

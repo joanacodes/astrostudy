@@ -6,6 +6,8 @@ description: "Les stations en astrologie : quand une planète semble s’arrêt
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "dignities"
+categories: ["Planètes et points"]
+tags: ["rétrograde"]
 weight: 2
 glyph: "℞/D"
 definition: "Une station est le tournant du mouvement apparent d’une planète : vue depuis la Terre, elle semble s’immobiliser avant de changer de sens. La station rétrograde ouvre le recul, la station directe le referme. Autour d’une station, une planète bouge à peine, et les astrologues la lisent comme insistante : une fonction saisie à un tournant."

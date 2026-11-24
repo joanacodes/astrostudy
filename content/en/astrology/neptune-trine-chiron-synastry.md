@@ -5,6 +5,8 @@ description: "Neptune trine Chiron in synastry: one person’s compassion reache
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Chiron", "trine", "synastry"]
 weight: 349
 glyph: "♆△⚷"
 definition: "Neptune trine Chiron in synastry describes an easy 120°, within 3.4°, from one person’s Neptune to the other’s Chiron, usually in signs of one element. Compassion finds the other’s tender place without pressing on it, and adaptation meets understanding. People born in the mid-1960s often share it; its particulars lie in the houses."

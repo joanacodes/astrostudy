@@ -5,6 +5,8 @@ description: "Empty houses in astrology: why every chart has houses with no plan
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "houses"
+categories: ["Houses"]
+tags: ["houses"]
 weight: 37
 glyph: "✦"
 definition: "An empty house is a house of the birth chart with no planet in it. Every chart has some: with ten planets and twelve houses, at least two are always empty. It isn’t an empty part of life. It’s read through the sign on its cusp, that sign’s ruler and the planets passing through, and it is simply quieter."

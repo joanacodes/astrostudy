@@ -6,6 +6,8 @@ description: "Mars conjonction Pluton dans un thème natal : l’effort et la t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Pluton", "conjonction"]
 weight: 220
 glyph: "♂☌♇"
 definition: "Mars conjonction Pluton, c’est la planète de l’effort et celle de la transformation à quelques degrés d’écart. Dans un thème, l’élan s’y fond avec la profondeur : quand vous vous engagez, c’est sans réserve, et votre effort vise à changer les choses à la racine. J’y lis une volonté concentrée qui se renouvelle, jamais un permis de dominer."

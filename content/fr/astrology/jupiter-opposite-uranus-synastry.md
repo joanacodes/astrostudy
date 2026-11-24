@@ -6,6 +6,8 @@ description: "Jupiter opposition Uranus en synastrie : l’une parle pour le se
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Uranus", "opposition", "synastrie"]
 weight: 260
 glyph: "♃☍♅"
 definition: "Jupiter opposition Uranus en synastrie signifie que Jupiter, chez une personne, se trouve à environ 180° d’Uranus chez l’autre, à 5° près. L’une tient le principe qui relie les choses, l’autre l’exception qui demande un changement, et chacune rend l’autre plus consciente. La balance vient avec les dates de naissance, et je la lis dans les maisons."

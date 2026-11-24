@@ -6,6 +6,8 @@ description: "Neptune carré Lilith en synastrie : l’image tendre que l’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Lilith", "carré", "synastrie"]
 weight: 353
 glyph: "♆□⚸"
 definition: "Neptune carré Lilith en synastrie, c’est un quart de cercle, à 3,4° près, de Neptune dans un thème jusqu’à la Lune noire Lilith moyenne que porte l’autre. Le regard tendre de l’une manque le tranchant de l’autre, qui refuse d’être adoucie. J’y lis une friction qui apprend aux deux à se voir sans filtre, jamais un mauvais assortiment."

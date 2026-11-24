@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["maison 10", "maison X"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["maison 10"]
 weight: 10
 glyph: "X"
 definition: "La maison 10 est la dixième des douze maisons d’un thème natal, en haut de la roue : en Placidus et dans les systèmes voisins, elle commence au Milieu du Ciel. Les astrologues y lisent votre vie publique — le travail, la place, la réputation, ce que vous voulez bâtir. Elle montre une direction, pas un intitulé de poste."

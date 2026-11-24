@@ -5,6 +5,8 @@ description: "Chiron in Aquarius in a birth chart: adapting through ideas and be
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Aquarius"]
 weight: 131
 glyph: "⚷♒"
 definition: "Chiron in Aquarius dates a birth to January 1955 – January 1961 or February 2005 – February 2011, the years Chiron spent in the fixed air sign ruled by Uranus and, traditionally, Saturn. In a chart it describes adapting through ideas and better systems, around a tender spot about being different."

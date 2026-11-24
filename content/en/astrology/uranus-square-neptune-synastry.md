@@ -5,6 +5,8 @@ description: "Uranus square Neptune in synastry: one generation’s reforms rub 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Neptune", "square", "synastry"]
 weight: 318
 glyph: "♅□♆"
 definition: "Uranus square Neptune in synastry sets one person’s Uranus about 90° from the other’s Neptune, within 3.4°. What one generation wants to change keeps catching on what another holds as an ideal. I read it as friction that tests both the reforms and the dreams, through the houses, never as a clash between two people."

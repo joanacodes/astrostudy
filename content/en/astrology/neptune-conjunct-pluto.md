@@ -5,6 +5,8 @@ description: "Neptune conjunct Pluto in a birth chart: a meeting nobody born 193
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Pluto", "conjunction"]
 weight: 330
 glyph: "♆☌♇"
 definition: "Neptune conjunct Pluto is a meeting of the two slowest planets within a few degrees. Nobody born between 1930 and 2009 has it: for most of those years the pair stood about 60° apart. In a chart it would fuse imagination and compassion with the urge to renew things at the root."

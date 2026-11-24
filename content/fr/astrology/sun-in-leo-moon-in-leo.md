@@ -6,6 +6,8 @@ description: "Soleil en Lion, Lune en Lion : le Soleil gouverne les deux lumina
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion", "Lune"]
 weight: 53
 glyph: "☉♌☽♌"
 definition: "Soleil en Lion, Lune en Lion, c’est le double Lion : les deux luminaires dans le signe du Soleil, à 2 jours et demi au plus d’une nouvelle lune. Le Soleil répond donc pour les deux. J’y lis un but et un réconfort nés de la même source : créer de bon cœur, et que cela se voie."

@@ -5,6 +5,8 @@ description: "Their Mercury in your 7th house in synastry: dialogue between equa
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "7th house", "synastry", "house overlays"]
 weight: 31
 glyph: "☿"
 definition: "Their Mercury in your 7th house seats the other person’s voice directly across from yours, in the house of partners and one-to-one bonds. In synastry, talking tends to sit at the centre of the relationship: you think things through together, negotiate agreements and sharpen each other in debate, whether as partners, friends or colleagues."

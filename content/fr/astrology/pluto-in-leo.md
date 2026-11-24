@@ -6,6 +6,8 @@ description: "Pluton en Lion dans un thème natal : un changement profond par l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Lion"]
 weight: 113
 glyph: "♇♌"
 definition: "Pluton en Lion installe le changement profond dans le signe du cœur : le feu fixe, gouverné par le Soleil. Les naissances de 1937 à 1958 partagent ce placement : environ 1 personne sur 4 parmi toutes celles nées de 1930 à 2009. On y lit une génération transformée par la création, l’amour et l’audace de se montrer."

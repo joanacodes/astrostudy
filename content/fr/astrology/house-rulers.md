@@ -6,6 +6,8 @@ description: "Les maîtres des maisons en astrologie : la planète du signe de 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "houses"
+categories: ["Maisons"]
+tags: ["maisons"]
 weight: 36
 glyph: "✦"
 definition: "Le maître d’une maison est la planète qui gouverne le signe de sa cuspide. Chaque maison en a un, vide ou non. Sa place montre où se joue l’histoire de la maison : avec le maître de la maison 7 en maison 10, l’association et la vie publique avancent ensemble. Le Scorpion, le Verseau ou les Poissons en donnent deux."

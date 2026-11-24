@@ -6,6 +6,8 @@ description: "La Lune de l’autre dans votre maison 3 en synastrie : ses émot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 15
 glyph: "☽"
 definition: "La Lune de l’autre dans votre maison 3 veut dire que ses émotions et ses besoins entrent dans vos échanges de tous les jours, vos apprentissages et votre entourage. En synastrie, parler avec vous rassure cette personne, vos conversations l’apaisent, et sa compagnie vous paraît familière, souvent comme celle d’un frère ou d’une sœur."

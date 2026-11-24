@@ -6,6 +6,8 @@ description: "Soleil en Cancer, Lune en Balance : l’eau et l’air, tous deux
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Cancer", "Lune", "Balance"]
 weight: 43
 glyph: "☉♋☽♎"
 definition: "Soleil en Cancer, Lune en Balance met en tension deux signes cardinaux, l’eau du Soleil et l’air de la Lune, trois signes plus loin, près du premier quartier. J’y lis le foyer et l’harmonie qui tirent l’un contre l’autre : un moi fidèle d’abord aux siens, et des besoins qui ne trouvent pas de repos tant que quelqu’un est traité injustement."

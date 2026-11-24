@@ -5,6 +5,8 @@ description: "Venus in the 8th house in a birth chart: love that wants depth, tr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "8th house", "houses"]
 weight: 44
 glyph: "♀"
 definition: "Venus in the 8th house places the planet of attraction and reciprocity where intimacy, trust and shared resources live, in a house whose natural sign is Scorpio, its detriment. It describes love that wants depth, trust given slowly and then fully, and a generosity that stays sweet with clear agreements. Only an exact birth time can confirm it."

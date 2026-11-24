@@ -6,6 +6,8 @@ description: "La Lune progressée en Poissons : le dernier chapitre du tour, de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "Lune progressée", "progressions", "Poissons"]
 weight: 12
 glyph: "☽♓"
 definition: "La Lune progressée en Poissons clôt son tour du zodiaque : deux ans à deux ans et demi pendant lesquels la Lune de vos progressions secondaires traverse le dernier signe, gouverné par Neptune et Jupiter. J’y lis un chapitre doux et tourné vers le dedans, des besoins comblés par le repos, l’imaginaire, la compassion et le lâcher-prise."

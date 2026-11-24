@@ -6,6 +6,8 @@ description: "Pluton en maison 8 dans un thème natal : l’intimité, la confi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "maison 8", "maisons"]
 weight: 116
 glyph: "♇"
 definition: "Pluton en maison 8 est à l’aise parmi ses thèmes : l’intimité, la confiance, les ressources partagées et les crises, dans la maison du Scorpion. On y lit une proximité qui va très loin, et un renouveau après les temps durs. La tradition y mettait la mort, qu’aucun thème ne prédit. Il faut l’heure de naissance."

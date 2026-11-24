@@ -6,6 +6,8 @@ description: "Le trapèze en astrologie : quatre planètes et deux côtés para
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["configurations"]
 weight: 13
 glyph: "✦"
 definition: "Un trapèze est une configuration de quatre planètes dont les lignes dessinent une figure à quatre côtés, dont deux parallèles. Les auteurs la construisent avec des aspects différents : le nom décrit un contour plutôt qu’un ensemble d’aspects convenu, et ce site n’en donne pas de décompte. Elle se lit par ses quatre planètes et leurs aspects."

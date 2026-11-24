@@ -5,6 +5,8 @@ description: "Mercury square Lilith in synastry: one person’s questions keep m
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Lilith", "square", "synastry"]
 weight: 158
 glyph: "☿□⚸"
 definition: "Mercury square Lilith in synastry means one person’s Mercury is about 90° from the other’s Black Moon Lilith, within 5.1°. One person’s curiosity and arguments keep running into the other’s refusals and private ground. I read it as friction that teaches both to put a boundary into words, not as two people who can’t understand each other."

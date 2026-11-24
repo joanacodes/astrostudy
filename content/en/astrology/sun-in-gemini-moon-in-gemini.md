@@ -5,6 +5,8 @@ description: "Sun in Gemini, Moon in Gemini: both lights in Mercury’s airy sig
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini", "Moon"]
 weight: 27
 glyph: "☉♊☽♊"
 definition: "Sun in Gemini, Moon in Gemini means both lights stood in Gemini at your birth, less than 30° apart, so close to a new moon, and Mercury rules them both. I read it as a mind that comforts itself the way it explores: by asking, connecting and talking, with very little distance between thinking and feeling."

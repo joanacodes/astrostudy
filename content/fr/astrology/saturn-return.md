@@ -6,6 +6,8 @@ description: "Le retour de Saturne : quand Saturne retrouve son degré de naiss
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "cycles"
+categories: ["Transits et cycles"]
+tags: ["Saturne", "retours planétaires"]
 weight: 44
 glyph: "♄☌♄"
 definition: "Le retour de Saturne est le transit de Saturne sur le degré que cette planète occupait à votre naissance, une première fois entre 28 ans et demi et 30 ans, une deuxième vers 59 ans. Il clôt un tour du cycle de Saturne et ouvre le suivant. J’y lis un bilan de ce que vous avez construit, jamais une crise."

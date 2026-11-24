@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Moon", "Moon sign"]
 family: "planets"
+categories: ["Planets and points"]
+tags: ["Moon"]
 weight: 2
 glyph: "☽"
 definition: "The Moon is Earth’s satellite and, with the Sun, one of the two lights of astrology. The sign it was in when you were born is your Moon sign. In a birth chart it shows what you need to feel safe: your moods, your instincts, the comfort you reach for. Its house shows where you look for it."

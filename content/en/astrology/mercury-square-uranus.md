@@ -5,6 +5,8 @@ description: "Mercury square Uranus in a birth chart: ideas that arrive before t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Uranus", "square"]
 weight: 127
 glyph: "☿□♅"
 definition: "Mercury square Uranus means that when you were born, the planet of thought and the planet of change were about 90° apart. In a chart it sets the way you explain things against the urge to rethink them from scratch. I read it as friction that sharpens original thinking, never as a scattered mind."

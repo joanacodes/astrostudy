@@ -5,6 +5,8 @@ description: "Pluto in Aquarius in a birth chart: a generation’s placement, 20
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "Aquarius"]
 weight: 119
 glyph: "♇♒"
 definition: "Pluto in Aquarius places deep change among groups and shared ideals, in fixed air ruled by Uranus and traditionally by Saturn. Pluto entered it in 2023 and stays until 2044, so everyone alive who was born with it is still a small child. Astrologers read it as a generation transformed through collective life and shared ideals."

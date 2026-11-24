@@ -6,6 +6,8 @@ description: "Vénus trigone Uranus en synastrie : de la place donnée libremen
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Uranus", "trigone", "synastrie"]
 weight: 184
 glyph: "♀△♅"
 definition: "Vénus trigone Uranus en synastrie signifie que Vénus, chez une personne, se trouve à environ 120° d’Uranus chez l’autre, à 5,1° près. La première apprécie l’originalité de la seconde telle qu’elle est, et la seconde se sent libre sans le demander : le lien a de l’air. J’y lis une place facile, qui gagne à être ancrée."

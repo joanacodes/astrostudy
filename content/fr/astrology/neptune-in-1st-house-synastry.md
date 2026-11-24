@@ -6,6 +6,8 @@ description: "Neptune de l’autre dans votre maison 1 en synastrie : son imagi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 97
 glyph: "♆"
 definition: "Neptune de l’autre dans votre maison 1 signifie que Neptune, chez cette personne, tombe dans la maison du moi que vous montrez d’abord : votre corps, votre allure, vos premiers gestes. En synastrie, son imagination se pose sur votre façon d’apparaître ; près d’elle, vous gagnez souvent en douceur, et elle croit reconnaître en vous quelqu’un qu’elle avait rêvé."

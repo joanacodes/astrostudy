@@ -6,6 +6,8 @@ description: "Lilith trigone Nœud Nord en synastrie : ce que l’une a d’ind
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "Nœud Nord", "trigone", "synastrie"]
 weight: 389
 glyph: "⚸△☊"
 definition: "Lilith trigone Nœud Nord en synastrie unit, par un angle de 120° tenu à 2,55°, la Lilith d’une personne et le Nœud Nord d’une autre ; cette Lilith se trouve alors à 60° de son Nœud Sud. Ce que l’une a d’insoumis tend à encourager la croissance de l’autre. J’y lis une permission, à vérifier par la pratique."

@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["quinconce"]
 family: "aspects"
+categories: ["Aspects"]
+tags: ["quinconce", "aspects mineurs"]
 weight: 9
 glyph: "⚻"
 definition: "Le quinconce est un angle de 150° entre deux planètes, à cinq signes d’écart. Ses deux signes n’ont en commun ni élément, ni mode, ni polarité : les planètes travaillent dans des langues différentes. Dans un thème natal, il marque un décalage qui demande un ajustement constant : ni une friction à affronter, ni un équilibre à trouver, mais un réglage."

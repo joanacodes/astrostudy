@@ -6,6 +6,8 @@ description: "Soleil sextile Mars dans un thème natal : un élan qui répond q
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Mars", "sextile"]
 weight: 9
 glyph: "☉⚹♂"
 definition: "Soleil sextile Mars signifie une naissance avec Mars à deux signes du Soleil, à environ 60°, en général dans des éléments qui se complètent. Dans un thème, votre but peut faire appel à votre élan dès qu’il en a besoin. J’y lis une ouverture qui porte sa propre poussée : l’occasion d’agir, et l’énergie de la saisir."

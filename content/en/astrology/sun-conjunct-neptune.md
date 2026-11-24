@@ -5,6 +5,8 @@ description: "Sun conjunct Neptune in a birth chart: a self with soft edges, ope
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Neptune", "conjunction"]
 weight: 28
 glyph: "☉☌♆"
 definition: "Sun conjunct Neptune means Neptune sat within a few degrees of your Sun at birth, hidden in its glare. In a chart it fuses your sense of who you are with imagination and compassion, so your identity has soft edges. I read it as a gift for empathy and vision that asks you to keep a centre and stay open."

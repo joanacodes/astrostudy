@@ -6,6 +6,8 @@ description: "Uranus carré Nœud Nord dans un thème natal : le changement en 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Nœud Nord", "carré"]
 weight: 327
 glyph: "♅□☊"
 definition: "Uranus carré Nœud Nord signifie qu’à votre naissance, Uranus se trouvait à environ 90° du Nœud Nord, donc à 90° du Nœud Sud aussi, en travers du chemin qui les relie. Dans un thème, le changement coupe la ligne du familier au nouveau, et la croissance demande d’inclure votre indépendance. J’y lis une friction à travailler, pas un détour."

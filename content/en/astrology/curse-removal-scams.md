@@ -5,6 +5,8 @@ description: "Curse removal scams: how an offer to lift a curse for a fee works,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Readings"]
+tags: ["scams"]
 weight: 62
 glyph: "✦"
 definition: "A curse removal scam sells you the lifting of a curse, the evil eye or an ‘energy block’ that the seller has just discovered. No birth chart shows a curse, and no one can lift one for a fee. The first payment is rarely the last: the curse is said to resist, and fear keeps people paying."

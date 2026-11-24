@@ -6,6 +6,8 @@ description: "La grande croix en astrologie : quatre planètes en deux oppositi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["configurations"]
 weight: 3
 glyph: "⊞"
 definition: "Une grande croix, ce sont quatre planètes en deux oppositions qui se croisent, chacune en carré avec ses deux voisines, souvent dans un même mode. Elle décrit une tension tenue sur quatre côtés à la fois : un effort constant, une large palette de réponses, jamais un échec. Seule 1 personne sur 80 environ naît avec une grande croix."

@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux, Lune en Lion : un sextile par signe, la Lune 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux", "Lune", "Lion"]
 weight: 29
 glyph: "☉♊☽♌"
 definition: "Soleil en Gémeaux, Lune en Lion place la Lune deux signes devant le Soleil, en signe de feu, dans la première semaine d’un mois lunaire ; comme le Soleil gouverne le Lion, cette Lune répond à votre Soleil en Gémeaux. J’y lis un esprit vif et un cœur chaud : des mots qui veulent plaire, des besoins qui veulent être vus."

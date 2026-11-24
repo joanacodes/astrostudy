@@ -6,6 +6,8 @@ description: "Saturne en Verseau dans un thème natal : des règles au service 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Verseau"]
 weight: 83
 glyph: "♄♒"
 definition: "Avec Saturne en Verseau, le groupe a ses règles : la planète de la structure se trouve dans un signe d’air fixe, celui des groupes et des idées, gouverné par Saturne dans la tradition et par Uranus en astrologie tropicale moderne. Ce placement, le plus fréquent de tous, réunit les naissances de 1932–1935, 1962–1964 et 1991–1994 environ."

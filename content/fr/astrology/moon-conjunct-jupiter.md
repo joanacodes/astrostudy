@@ -6,6 +6,8 @@ description: "Lune conjonction Jupiter dans un thème natal : un grand cœur qu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Jupiter", "conjonction"]
 weight: 68
 glyph: "☽☌♃"
 definition: "Lune conjonction Jupiter place la Lune et Jupiter côte à côte dans votre thème natal, à quelques degrés près. Besoin et croissance agissent ensemble : vous vous sentez en sécurité quand la vie a de l’espace et du sens, et vous réconfortez en élargissant le regard des autres. J’y lis une générosité du cœur, et une invitation à la mesure."

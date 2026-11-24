@@ -5,6 +5,8 @@ description: "The decile in astrology: two planets 36° apart, a tenth of the ci
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["decile", "minor aspects"]
 weight: 18
 glyph: "✦"
 definition: "A decile is an angle of 36° between two planets, a tenth of the circle and half a quintile, usually in neighbouring signs. In a birth chart it marks creative potential being refined into something specific: a small, particular skill two planets can develop together through practice. It’s a possibility, never a guaranteed talent."

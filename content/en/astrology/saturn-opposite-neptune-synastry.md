@@ -5,6 +5,8 @@ description: "Saturn opposite Neptune in synastry: one person keeps the accounts
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Neptune", "opposition", "synastry"]
 weight: 295
 glyph: "♄☍♆"
 definition: "Saturn opposite Neptune in synastry means one person’s Saturn is about 180° from the other’s Neptune, within 5°. One person’s sense of what can be counted and kept faces the other’s sense of what can only be hoped or imagined. I read it as a seesaw between two eras’ ways of being sensible, never as a quarrel."

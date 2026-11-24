@@ -6,6 +6,8 @@ description: "Chiron en maison 3 dans un thème natal : un point sensible autou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "maison 3", "maisons"]
 weight: 123
 glyph: "⚷"
 definition: "Chiron en maison 3 place Chiron dans la maison de la parole quotidienne, de l’apprentissage et des proches, que la tradition appelait la Déesse. Il décrit une adaptation autour d’une sensibilité liée à la parole ou au rythme d’apprentissage, souvent ancienne, jusqu’à trouver une voix claire bien à vous. Il faut l’heure de naissance."

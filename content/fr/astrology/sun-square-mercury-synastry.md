@@ -6,6 +6,8 @@ description: "Soleil carré Mercure en synastrie : les remarques de l’une arr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Mercure", "carré", "synastrie"]
 weight: 8
 glyph: "☉□☿"
 definition: "Soleil carré Mercure en synastrie signifie que Mercure, chez une personne, se trouve à environ 90° du Soleil de l’autre, à 6,8° près. Ce contact n’existe qu’entre deux personnes : dans un thème, Mercure ne s’éloigne jamais autant du Soleil. J’y lis une friction qui aiguise les deux, une fois les idées distinguées des personnes."

@@ -6,6 +6,8 @@ description: "Lune conjonction Nœud Nord en synastrie : ce dont l’une a beso
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Nœud Nord", "conjonction", "synastrie"]
 weight: 111
 glyph: "☽☌☊"
 definition: "Lune conjonction Nœud Nord en synastrie signifie que la Lune d’une personne se trouve à moins de 8° du Nœud Nord de l’autre, ce qui la place en face de son Nœud Sud. Les réconforts de l’une se trouvent là où l’autre s’exerce à du nouveau. J’y lis une croissance qui passe par le réconfort, jamais un lien fatal."

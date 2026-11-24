@@ -5,6 +5,8 @@ description: "Jupiter in astrology: the planet of growth in a birth chart, in ea
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planets and points"]
+tags: ["Jupiter"]
 weight: 6
 glyph: "♃"
 definition: "Jupiter is the largest planet in the solar system, and in astrology the planet of growth, faith and generosity. In a birth chart it shows where life tends to open up — where you trust, learn and give most easily — and where you can overdo it. It comes back to its birth position about every 12 years."

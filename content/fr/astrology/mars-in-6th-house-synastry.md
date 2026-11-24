@@ -6,6 +6,8 @@ description: "Mars de l’autre dans votre maison 6 en synastrie : l’effort d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 54
 glyph: "♂"
 definition: "Mars de l’autre dans votre maison 6 met Mars, chez cette personne, au milieu de votre travail quotidien et de vos habitudes, dans la maison où la tradition plaçait sa joie. En synastrie, son élan fait avancer vos journées : les tâches se font plus vite, et l’autre se sent utile auprès de votre méthode, même si vos rythmes doivent s’accorder."

@@ -6,6 +6,8 @@ description: "Jupiter trigone Pluton en synastrie : le recul de l’une et la r
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Pluton", "trigone", "synastrie"]
 weight: 269
 glyph: "♃△♇"
 definition: "Jupiter trigone Pluton en synastrie signifie que Jupiter, chez une personne, se trouve à environ 120° de Pluton chez l’autre, à 4,25° près. Le recul et la capacité de renouveau se soutiennent : un changement peut alors agrandir les deux personnes. De longues périodes de naissances le partagent, et je le lis par les maisons."

@@ -6,6 +6,8 @@ description: "Mercure opposition Jupiter dans un thème natal : le détail et l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Jupiter", "opposition"]
 weight: 119
 glyph: "☿☍♃"
 definition: "Mercure opposition Jupiter signifie qu’à votre naissance, Mercure et Jupiter étaient à environ 180° d’écart, une configuration qui suppose Jupiter rétrograde. Dans un thème, le gros plan et la vue d’ensemble se font face, et chacun aiguise l’autre. J’y lis un dialogue entre les faits et le sens, jamais une querelle."

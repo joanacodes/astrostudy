@@ -6,6 +6,8 @@ description: "Mon signe a-t-il changé ? Pourquoi le 13e signe revient sans ce
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["signes du zodiaque", "test"]
 weight: 19
 glyph: "✦"
 definition: "Non. Dans le zodiaque tropical, celui que j’utilise, les signes se comptent à partir de l’équinoxe de mars : ils restent liés aux saisons. La précession décale lentement les constellations derrière eux, d’environ un degré tous les 72 ans, et les titres sur un treizième signe confondent les deux. Votre signe est celui qu’il a toujours été."

@@ -6,6 +6,8 @@ description: "Lune en Sagittaire dans un thème natal : un besoin d’espace, d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Sagittaire"]
 weight: 21
 glyph: "☽♐"
 definition: "La Lune en Sagittaire signifie que la Lune se trouvait en Sagittaire à votre naissance. J’y lis un besoin d’espace, de mouvement et de quelque chose à attendre, des émotions comprises en trouvant leur place dans une histoire plus vaste, et un réconfort qui vient de l’honnêteté, du rire et du sentiment que la vie a encore de la place."

@@ -6,6 +6,8 @@ description: "Nœud Nord en Lion dans un thème natal : vous laisser voir, avec
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "Lion"]
 weight: 149
 glyph: "☊♌"
 definition: "Nœud Nord en Lion signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans le signe du Soleil lui-même, le Nœud Sud en Verseau. J’y lis une direction vers la visibilité : créer quelque chose à vous et laisser voir votre chaleur, après des années dans l’anonymat du groupe."

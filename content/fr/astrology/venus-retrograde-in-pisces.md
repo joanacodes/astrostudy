@@ -6,6 +6,8 @@ description: "Vénus rétrograde en Poissons, son exaltation : les dernières s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde", "Poissons"]
 weight: 24
 glyph: "♀℞♓"
 definition: "En Poissons, Vénus rétrograde est la dernière étape de la rétrogradation de printemps : tous les huit ans, Vénus, vue de la Terre, quitte le Bélier à reculons et repart en Poissons, signe de son exaltation. La tendresse, le pardon et le désir d’ailleurs reviennent à l’examen, dans la maison que tiennent les Poissons dans votre thème."

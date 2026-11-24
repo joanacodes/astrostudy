@@ -6,6 +6,8 @@ description: "La nouvelle lune en Scorpion : la prochaine le 9 novembre 2026, l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "nouvelle lune", "Scorpion"]
 weight: 43
 glyph: "●♏"
 definition: "La nouvelle lune en Scorpion réunit le Soleil et la Lune en Scorpion, une fois par an, entre fin octobre et fin novembre. Elle ouvre un mois lunaire à la manière du Scorpion : profondeur, confiance, ce qui se partage. Dans un thème natal, elle ne compte qu’à 1° environ d’une planète ou d’un angle."

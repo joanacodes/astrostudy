@@ -5,6 +5,8 @@ description: "Sun in Cancer in a birth chart: the Sun in the Moon’s own sign, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Cancer"]
 weight: 4
 glyph: "☉♋"
 definition: "Sun in Cancer is the Sun sign for births from the June solstice, about 21 June, to about 22 July: the Sun in the only sign the Moon rules. I read it as an identity bound up with feeling safe, a vitality that comes back at home, and a purpose that grows strongest when it protects something it loves."

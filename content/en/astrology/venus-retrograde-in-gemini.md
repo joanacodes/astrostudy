@@ -5,6 +5,8 @@ description: "Venus retrograde in Gemini: every eight years in May and June, who
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Venus", "retrograde", "Venus retrograde", "Gemini"]
 weight: 15
 glyph: "♀℞♊"
 definition: "Venus retrograde in Gemini happens every eight years, from mid-May to late June: for about six weeks Venus seems, seen from Earth, to back through Gemini, and never leaves the sign. I read it as attractions and tastes that came through words and variety, compared and sorted again, in the house Gemini occupies in your chart."

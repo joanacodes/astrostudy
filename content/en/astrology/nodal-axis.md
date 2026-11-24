@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["nodal axis", "lunar nodes"]
 family: "angles"
+categories: ["Planets and points"]
+tags: ["lunar nodes"]
 weight: 9
 glyph: "☊/☋"
 definition: "The nodal axis is the line between the North and South Nodes, the two points where the Moon’s path crosses the Sun’s. It always runs from one sign to its opposite. Astrologers read it as one story told from two ends: what came early or easily, and the less familiar direction of growth."

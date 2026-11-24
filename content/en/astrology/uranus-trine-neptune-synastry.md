@@ -5,6 +5,8 @@ description: "Uranus trine Neptune in synastry: one generation’s new ideas and
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Neptune", "trine", "synastry"]
 weight: 319
 glyph: "♅△♆"
 definition: "Uranus trine Neptune in synastry links one person’s Uranus and the other’s Neptune by about 120°, within 3.4°, often across a generation or two. The changes one reaches for tend to serve the ideals the other holds, with little friction. I read it as an easy alliance between eras, through the houses, that still has to be used."

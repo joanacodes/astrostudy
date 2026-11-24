@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["12th house", "twelfth house"]
 family: "houses"
+categories: ["Houses"]
+tags: ["12th house"]
 weight: 12
 glyph: "XII"
 definition: "The 12th house is the twelfth and last of the houses of a birth chart, just before the Ascendant. Tradition gave it confinement and hidden enemies; astrologers today read it as what happens out of sight — solitude, rest, quiet work, the care given or received without being seen, and the inner life."

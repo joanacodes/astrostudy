@@ -5,6 +5,8 @@ description: "Saturn in the 2nd house in a birth chart: money, belongings and se
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "2nd house", "houses"]
 weight: 74
 glyph: "♄"
 definition: "In the 2nd house, Saturn takes charge of what you own and what you’re worth: money, belongings, values, self-worth. It describes security learned the long way and built steadily, and a sense of your own worth that takes time to settle. It shows how you handle having, never how much you will have."

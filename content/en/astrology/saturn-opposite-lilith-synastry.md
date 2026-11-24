@@ -5,6 +5,8 @@ description: "Saturn opposite Lilith in synastry: order at one end, the refusal 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Lilith", "opposition", "synastry"]
 weight: 310
 glyph: "♄☍⚸"
 definition: "Saturn opposite Lilith in synastry puts one person’s Saturn across the zodiac from the other’s Black Moon Lilith, within 5°. One tends to stand for order and the other for what refuses to be ordered, and each sees in the other what they keep less of. I read it as a seesaw of roles, through the houses."

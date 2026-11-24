@@ -5,6 +5,8 @@ description: "Mercury in astrology: how you think and talk, in each sign and hou
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planets and points"]
+tags: ["Mercury"]
 weight: 3
 glyph: "☿"
 definition: "Mercury is the planet closest to the Sun, and in astrology the planet of the mind: how you notice, think, learn and speak. In a birth chart its sign shows the style of your thinking, its house the subjects your mind returns to, and its aspects how easily thoughts become words."

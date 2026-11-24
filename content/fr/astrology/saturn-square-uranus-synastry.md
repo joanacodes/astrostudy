@@ -6,6 +6,8 @@ description: "Saturne carré Uranus en synastrie : la manière de faire d’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Uranus", "carré", "synastrie"]
 weight: 288
 glyph: "♄□♅"
 definition: "Saturne carré Uranus en synastrie signifie que Saturne, chez une personne, se trouve à environ 90° d’Uranus chez l’autre, à 4,25° près. L’idée que l’une se fait de la bonne façon de faire rencontre sans cesse, de biais, le besoin de l’autre de faire autrement. J’y lis la friction de deux époques, qui apprend aux deux quelles règles comptent."

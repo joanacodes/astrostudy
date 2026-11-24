@@ -5,6 +5,8 @@ description: "Jupiter sextile Uranus in a birth chart: openings for growth throu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Uranus", "sextile"]
 weight: 246
 glyph: "♃⚹♅"
 definition: "Jupiter sextile Uranus means the two planets were about 60° apart at your birth, an angle shared by a few months of births. It links the wish to grow with the wish to try something new, so openings tend to come through change. I read it as a readiness for useful novelty that asks to be acted on."

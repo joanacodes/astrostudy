@@ -5,6 +5,8 @@ description: "Sun opposite Pluto in a birth chart: your own centre facing intens
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pluto", "opposition"]
 weight: 37
 glyph: "☉☍♇"
 definition: "Sun opposite Pluto means your birthday fell in the two weeks a year when the Sun faces Pluto. In a chart it sets your sense of self across from depth, intensity and power, often met first in other people. I read it as a polarity that teaches you to hold your ground and share power, never as a contest."

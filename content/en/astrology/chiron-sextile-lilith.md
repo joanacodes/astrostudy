@@ -5,6 +5,8 @@ description: "Chiron sextile Lilith in a birth chart: your adaptations and your 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Lilith", "sextile"]
 weight: 366
 glyph: "⚷⚹⚸"
 definition: "Chiron sextile Lilith describes a 60° angle between Chiron and the mean Black Moon Lilith in your birth chart, usually in signs whose elements sit well together. It links the way you adapt around a lasting difficulty with the part of you that won’t be tamed: used, it gives a plain, unapologetic way of asking for what you need."

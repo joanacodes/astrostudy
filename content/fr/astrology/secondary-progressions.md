@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["progressions secondaires", "progressions", "thème progressé"]
 family: "techniques"
+categories: ["Transits et cycles"]
+tags: ["progressions"]
 weight: 48
 glyph: "✦"
 definition: "Les progressions secondaires prennent le ciel d’un jour après votre naissance pour chaque année de votre vie : le thème de votre 30e jour décrit votre 30e année. Elles avancent lentement, le Soleil progressé d’environ un degré par an, et les astrologues y lisent un développement intérieur. C’est un temps symbolique, jamais un mouvement réel, ni une promesse d’événements."

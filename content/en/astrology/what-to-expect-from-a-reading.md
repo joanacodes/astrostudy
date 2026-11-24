@@ -5,6 +5,8 @@ description: "What to expect from a reading: what I need before I start, what a 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Readings"]
+tags: ["readings"]
 weight: 26
 glyph: "✦"
 definition: "A reading is your whole birth chart read placement by placement, or two charts side by side in a synastry, from an exact date, time and place of birth. Expect tendencies, not events: it won’t predict, diagnose or decide for you, and it tells you which parts rest on placements that held less often in my tests."

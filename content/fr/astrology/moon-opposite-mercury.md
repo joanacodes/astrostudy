@@ -6,6 +6,8 @@ description: "Lune opposition Mercure dans un thème natal : émotions et pens�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Mercure", "opposition"]
 weight: 57
 glyph: "☽☍☿"
 definition: "Lune opposition Mercure place la Lune et Mercure de part et d’autre du zodiaque à votre naissance, à quelques jours d’une pleine lune. Sentir et penser se tiennent face à face : vous voyez une humeur clairement, de l’extérieur, et retrouvez souvent vos propres émotions dans les mots des autres. J’y lis une conversation, pas une coupure."

@@ -5,6 +5,8 @@ description: "Pluto opposite Chiron in synastry: one person asks whether it can 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "Chiron", "opposition", "synastry"]
 weight: 365
 glyph: "♇☍⚷"
 definition: "Pluto opposite Chiron in synastry is the contact of one chart’s Pluto with the point facing another chart’s Chiron, within 4°. One person’s urge to clear things out and renew them faces the other’s carefully adapted way of living with a limit. I read it as a polarity between two answers to the same difficulty, never as a fight."

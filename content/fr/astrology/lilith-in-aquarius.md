@@ -6,6 +6,8 @@ description: "Lilith en Verseau dans un thème natal : un esprit à soi qui a a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Verseau"]
 weight: 143
 glyph: "⚸♒"
 definition: "Lilith en Verseau signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans l’air fixe du signe d’Uranus et, traditionnellement, de Saturne. J’y lis un esprit bien à vous qui a appris tôt à parler comme celui des autres, et un refus raisonné d’être un élément parmi d’autres."

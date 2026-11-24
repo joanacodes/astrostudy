@@ -6,6 +6,8 @@ description: "Nœud Nord en Sagittaire dans un thème natal : passer de cent fa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "Sagittaire"]
 weight: 153
 glyph: "☊♐"
 definition: "Nœud Nord en Sagittaire signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans ce signe de feu mutable, le Nœud Sud en Gémeaux. J’y lis une croissance vers la conviction : faire confiance à votre jugement, trouver ce que vous croyez, après l’habitude de chercher un fait de plus."

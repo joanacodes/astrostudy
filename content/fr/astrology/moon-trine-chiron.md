@@ -6,6 +6,8 @@ description: "Lune trigone Chiron dans un thème natal : le réconfort et l’a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Chiron", "trigone"]
 weight: 96
 glyph: "☽△⚷"
 definition: "Lune trigone Chiron signifie que la Lune et Chiron formaient un trigone à votre naissance, environ 120°, en général dans un même élément. Votre besoin de réconfort et votre façon de vous adapter à une sensibilité durable se soutiennent : vous vivez souvent vos limites avec grâce. J’y lis une forme de soin facile, nourrie d’expérience."

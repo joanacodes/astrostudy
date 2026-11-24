@@ -6,6 +6,8 @@ description: "Soleil trigone Pluton en synastrie : une profondeur qui affermit 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Pluton", "trigone", "synastrie"]
 weight: 44
 glyph: "☉△♇"
 definition: "Dans Soleil trigone Pluton en synastrie, l’identité d’une personne et la profondeur de l’autre coopèrent sans tension, à 120° environ de distance, à 6,8° près, souvent dans un même élément. Sous pression, la paire tend à se raffermir. J’y lis une résilience partagée, à employer exprès plutôt que seulement en cas de crise."

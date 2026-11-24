@@ -5,6 +5,8 @@ description: "Jupiter transiting the 3rd house: about a year when everyday learn
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "3rd house", "transits"]
 weight: 3
 glyph: "♃"
 definition: "Jupiter transiting the 3rd house means Jupiter, moving through the sky, is crossing the part of your chart that holds everyday thinking, talk and learning, usually for a little over a year. The curiosity it wakes is already written in your chart; for a while it gets more conversation, and scattered knowledge starts to add up."

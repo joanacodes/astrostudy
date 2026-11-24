@@ -5,6 +5,8 @@ description: "Sun in Virgo, Moon in Capricorn: Saturn’s Moon and Mercury’s S
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Virgo", "Moon", "Capricorn"]
 weight: 70
 glyph: "☉♍☽♑"
 definition: "Sun in Virgo, Moon in Capricorn sets a Capricorn Moon, in its detriment, a trine away from a Virgo Sun, at a birth when the Moon has grown past half. Saturn rules the Moon’s sign and Mercury the Sun’s. I read it as method and responsibility in easy agreement, sometimes so easy that feelings wait their turn too long."

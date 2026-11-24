@@ -6,6 +6,8 @@ description: "Vénus rétrograde en Taureau, son propre signe : pourquoi aucune
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde", "Taureau"]
 weight: 14
 glyph: "♀℞♉"
 definition: "Vénus rétrograde en Taureau, ce serait Vénus qui semble, depuis la Terre, reculer dans l’un de ses propres signes pendant six semaines environ. Aucune n’y tombe entre 2000 et 2040 : les plus proches tournent en Bélier et en Gémeaux. J’y lis ce que vous avez choisi de garder, réévalué lentement, dans la maison qu’occupe le Taureau dans votre thème."

@@ -6,6 +6,8 @@ description: "Vénus trigone Nœud Nord dans un thème natal : ce que vous aime
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Nœud Nord", "trigone"]
 weight: 198
 glyph: "♀△☊"
 definition: "Vénus trigone Nœud Nord signifie qu’à votre naissance, Vénus se trouvait à environ 120° du Nœud Nord, et à environ 60° du Nœud Sud. Ce que vous aimez avance au même pas que votre croissance : les personnes et les plaisirs que vous choisissez soutiennent votre évolution. J’y lis un accord facile, qui demande encore de la pratique."

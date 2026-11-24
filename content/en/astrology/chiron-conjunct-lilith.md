@@ -5,6 +5,8 @@ description: "Chiron conjunct Lilith in a birth chart: adapting around a lasting
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Lilith", "conjunction"]
 weight: 365
 glyph: "⚷☌⚸"
 definition: "Chiron conjunct Lilith is the meeting, within a few degrees, of Chiron and the mean Black Moon Lilith in your birth chart. In a chart, the way you adapt around a lasting difficulty and the part of you that refused to be tamed work as one: your work-arounds tend to be made on your own, untamed terms."

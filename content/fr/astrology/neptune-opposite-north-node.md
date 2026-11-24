@@ -6,6 +6,8 @@ description: "Neptune opposition Nœud Nord dans un thème natal : Neptune sur 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Nœud Nord", "opposition"]
 weight: 349
 glyph: "♆☍☊"
 definition: "Neptune opposition Nœud Nord, c’est Neptune de l’autre côté du thème par rapport au Nœud Nord à votre naissance, donc à côté du Nœud Sud. Dans un thème, l’imagination, la compassion et l’art de lâcher prise sont un terrain familier, connu par cœur ; la direction de croissance leur fait face et demande une capacité moins pratiquée."

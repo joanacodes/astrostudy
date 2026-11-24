@@ -6,6 +6,8 @@ description: "Neptune en Balance dans un thème natal : l’idéal d’amour pa
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Balance"]
 weight: 103
 glyph: "♆♎"
 definition: "Neptune en Balance, c’est la planète des idéaux et de la compassion dans le signe d’air cardinal du couple et de l’équilibre, où Neptune a séjourné d’octobre 1942 à août 1957. La génération née alors partage un même idéal, l’harmonie parfaite : l’amour rêvé comme une rencontre entre égaux, et l’aspiration à la justice et à la paix."

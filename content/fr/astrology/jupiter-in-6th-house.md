@@ -6,6 +6,8 @@ description: "Jupiter en maison 6 dans un thème natal : grandir par le travail
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "maison 6", "maisons"]
 weight: 66
 glyph: "♃"
 definition: "Jupiter en maison 6 signifie que Jupiter se trouvait dans la maison du travail quotidien, de la routine et du soin. J’y lis une croissance dans la journée ordinaire : apprendre en pratiquant, des principes sur le travail utile, une générosité qui prend la forme de l’aide. Rien n’y parle de maladie, et il faut une heure de naissance précise."

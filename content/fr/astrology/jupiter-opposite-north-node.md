@@ -6,6 +6,8 @@ description: "Jupiter opposition Nœud Nord dans un thème natal : Jupiter sur 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Nœud Nord", "opposition"]
 weight: 274
 glyph: "♃☍☊"
 definition: "Jupiter opposition Nœud Nord désigne Jupiter à environ 180° du Nœud Nord, c’est-à-dire sur le Nœud Sud. Dans un thème, la générosité et la vue large de Jupiter appartiennent au bout familier de l’axe, et la croissance demande de les porter de l’autre côté. J’y lis une force à emmener, jamais un poids à lâcher."

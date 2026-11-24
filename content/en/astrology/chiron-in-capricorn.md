@@ -5,6 +5,8 @@ description: "Chiron in Capricorn in a birth chart: building your own ladder aro
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Capricorn"]
 weight: 130
 glyph: "⚷♑"
 definition: "Chiron in Capricorn belongs to two groups of births, February 1951 to January 1955 and December 2001 to December 2005, when Chiron crossed the cardinal earth sign ruled by Saturn. In a chart it describes building your own ladder, through structure and long effort, around a tender spot about authority."

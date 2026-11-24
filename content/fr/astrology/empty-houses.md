@@ -6,6 +6,8 @@ description: "Les maisons vides en astrologie : pourquoi tout thème en a, ce q
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "houses"
+categories: ["Maisons"]
+tags: ["maisons"]
 weight: 37
 glyph: "✦"
 definition: "Une maison vide est une maison du thème natal sans aucune planète. Tous les thèmes en ont : avec dix planètes pour douze maisons, deux au moins restent vides. Ce n’est pas un pan de vie absent : la maison se lit par le signe de sa cuspide, son maître et les planètes de passage. Elle est juste plus discrète."

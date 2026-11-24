@@ -6,6 +6,8 @@ description: "Saturne en transit en maison 1 : environ trois ans pour vous déf
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Saturne", "maison 1", "transits"]
 weight: 13
 glyph: "♄"
 definition: "Saturne en transit en maison 1 commence le jour où Saturne atteint votre ascendant et dure, en général, un peu moins de trois ans. La personne que ce transit façonne est celle que votre thème décrit déjà : plus de netteté, plus de sérieux, des engagements pris envers vous-même et tenus. Un calendrier, pas un mur."

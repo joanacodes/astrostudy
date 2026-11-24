@@ -5,6 +5,8 @@ description: "Jupiter trine Pluto in a birth chart: renewal that feeds growth, t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Pluto", "trine"]
 weight: 258
 glyph: "♃△♇"
 definition: "Jupiter trine Pluto means Jupiter and Pluto about 120° apart, usually in signs of one element, an angle reached four or five years either side of their meetings. In a chart, renewal feeds growth and growth gives renewal a direction. I read it as a quiet resilience: coming through change with a wider view."

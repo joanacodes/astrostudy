@@ -6,6 +6,8 @@ description: "Neptune conjonction Chiron en synastrie : la compassion de l’un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Chiron", "conjonction", "synastrie"]
 weight: 346
 glyph: "♆☌⚷"
 definition: "Neptune conjonction Chiron en synastrie place Neptune, chez une personne, sur le Chiron de l’autre, à 4° près. La compassion et l’imagination de l’une tombent exactement là où l’autre a appris à vivre avec une limite durable, pour l’apaiser ou brouiller ce dont elle a besoin. Partagé par des périodes entières, il se lit par les maisons, avec douceur."

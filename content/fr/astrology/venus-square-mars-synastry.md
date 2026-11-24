@@ -6,6 +6,8 @@ description: "Vénus carré Mars en synastrie : ce que l’une estime rencontre
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Mars", "carré", "synastrie"]
 weight: 168
 glyph: "♀□♂"
 definition: "Vénus carré Mars en synastrie signifie que Vénus, chez une personne, se trouve à environ 90° de Mars chez l’autre, à 5,1° près. Les préférences de l’une rencontrent sans cesse l’envie de l’autre d’agir à sa façon et à son heure. J’y lis une friction vive sur le comment et le quand, jamais une incompatibilité."

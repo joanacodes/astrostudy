@@ -5,6 +5,8 @@ description: "Their Venus in your 8th house in synastry: desire, trust and what 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "8th house", "synastry", "house overlays"]
 weight: 44
 glyph: "♀"
 definition: "Their Venus in your 8th house draws the other person’s affection into your intimate life: desire, trust, closeness and what you share. In synastry attraction tends to run deep and generosity follows, though intensity can outrun trust; tradition sees Venus as least at ease in Scorpio, the house’s natural sign. It never forecasts a loss."

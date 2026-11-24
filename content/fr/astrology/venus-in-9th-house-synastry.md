@@ -6,6 +6,8 @@ description: "Vénus de l’autre dans votre maison 9 en synastrie : l’affect
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "maison 9", "synastrie", "superpositions de maisons"]
 weight: 45
 glyph: "♀"
 definition: "Vénus de l’autre dans votre maison 9, c’est l’amour des horizons : cette personne trouve beaux vos voyages, vos études, vos croyances et votre quête de sens. En synastrie, voyager ou apprendre ensemble plaît des deux côtés, même si le lointain s’aime plus facilement que le quotidien ; le signe naturel de la maison est le Sagittaire de Jupiter."

@@ -5,6 +5,8 @@ description: "Sun sextile North Node in a birth chart: an opening between who yo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "North Node", "sextile"]
 weight: 49
 glyph: "☉⚹☊"
 definition: "Sun sextile North Node means the Sun and the North Node were about 60° apart when you were born, which puts the Sun in trine to the South Node. In a chart your sense of purpose has an opening towards your direction of growth, with old strengths backing it. I read it as growth you can start whenever you choose."

@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["synastry"]
 family: "techniques"
+categories: ["Synastry"]
+tags: ["synastry"]
 weight: 50
 glyph: "✦"
 definition: "Synastry is the comparison of two birth charts: the aspects one person’s planets make to the other’s, and where each person’s planets fall in the other’s houses. It describes how two people tend to meet, where things flow and where they rub, read in both directions. It never decides whether a relationship will work."

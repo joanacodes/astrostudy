@@ -5,6 +5,8 @@ description: "The Vertex in astrology: the point where the prime vertical crosse
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "angles"
+categories: ["Planets and points"]
+tags: ["Vertex", "sensitive points"]
 weight: 14
 glyph: "✦"
 definition: "The Vertex is a calculated point, one of the two places where the prime vertical, the circle through the east point, the point overhead and the west point, crosses the zodiac. It moves as fast as the angles. Astrologers who use it read it for encounters that feel significant; others leave it out."

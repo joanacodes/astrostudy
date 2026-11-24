@@ -6,6 +6,8 @@ description: "Soleil en Bélier, Lune en Poissons : le dernier signe et le prem
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Bélier", "Lune", "Poissons"]
 weight: 12
 glyph: "☉♈☽♓"
 definition: "Soleil en Bélier, Lune en Poissons place la Lune dans le dernier signe du zodiaque, un signe derrière le Soleil dans le premier, dans les cinq jours qui précèdent une nouvelle lune. J’y lis un nouveau départ qui porte ce qui l’a précédé : un moi qui trace une ligne nette et s’en va, des besoins qui absorbent chaque humeur alentour."

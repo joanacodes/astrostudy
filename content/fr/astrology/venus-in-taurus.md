@@ -6,6 +6,8 @@ description: "Vénus en Taureau dans un thème natal : Vénus dans son propre s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Taureau"]
 weight: 38
 glyph: "♀♉"
 definition: "Vénus en Taureau, c’est la planète de la valeur et de l’attirance dans son propre signe, un signe de terre fixe qu’elle gouverne elle-même. On y lit un goût formé par les sens et éprouvé par le temps, une affection qui se montre par des soins concrets et réguliers, et une façon d’aimer qui choisit lentement, puis tient bon."

@@ -6,6 +6,8 @@ description: "Le Capricorne en astrologie : le signe de la longue ascension, go
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signes"]
+tags: ["Capricorne"]
 weight: 10
 glyph: "♑"
 definition: "Le Capricorne est le dixième signe du zodiaque, un signe de terre cardinal gouverné par Saturne ; le Soleil le traverse environ du 22 décembre au 19 janvier. Dans un thème natal, il montre où vous prenez vos responsabilités, travaillez avec patience et construisez sur le long terme — le domaine où vous voulez gagner votre place."

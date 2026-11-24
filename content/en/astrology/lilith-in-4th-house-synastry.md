@@ -5,6 +5,8 @@ description: "Their Lilith in your 4th house in synastry: what they refused to t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "4th house", "synastry", "house overlays"]
 weight: 136
 glyph: "⚸"
 definition: "Their Lilith in your 4th house carries the other person’s mean Black Moon Lilith down to the root of your chart, into home, family and belonging. In synastry their untamed side meets your private life: the part of you that never quite fitted at home may find an ally, while your family ways can provoke or shelter them."

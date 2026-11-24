@@ -6,6 +6,8 @@ description: "Mars carré Lilith dans un thème natal : une friction entre votr
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Lilith", "carré"]
 weight: 232
 glyph: "♂□⚸"
 definition: "Mars carré Lilith, c’est un angle de 90° entre Mars et la Lune noire Lilith à la naissance, souvent dans des signes de même mode. Votre élan et votre part indomptée frottent : ce que vous poursuivez et ce que vous refusez ne s’accordent pas toujours. J’y lis une friction qui apprend où sont vos limites, et comment les tenir."

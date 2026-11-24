@@ -5,6 +5,8 @@ description: "Jupiter opposite North Node in synastry: one person’s Jupiter on
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "North Node", "opposition", "synastry"]
 weight: 285
 glyph: "♃☍☊"
 definition: "Jupiter opposite North Node in synastry means one person’s Jupiter is about 180° from the other’s North Node, within 5°, which puts it on their South Node. One person’s generosity and faith fall on the other’s familiar strengths, with their growth across the way. I read it as a home base, useful when it’s also a launch pad."

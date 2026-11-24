@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["maison 8", "maison VIII"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["maison 8"]
 weight: 8
 glyph: "VIII"
 definition: "La maison 8 est la huitième des douze maisons d’un thème natal, juste après celle des partenaires. La tradition lui donnait la mort et l’héritage ; les astrologues y lisent aujourd’hui l’intimité et la confiance, ce que vous partagez avec les autres ou leur devez — l’argent commun, les dettes, la proximité qui vous transforme."

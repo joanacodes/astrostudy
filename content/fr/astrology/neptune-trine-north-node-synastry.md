@@ -6,6 +6,8 @@ description: "Neptune trigone Nœud Nord en synastrie : l’imagination de l’
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Nœud Nord", "trigone", "synastrie"]
 weight: 359
 glyph: "♆△☊"
 definition: "Dans Neptune trigone Nœud Nord, contact de synastrie, Neptune d’un thème forme un trigone, à 3,4° près, avec le Nœud Nord d’un autre, et un sextile avec son Nœud Sud. L’imagination de l’une aide l’autre à se figurer où elle grandit, et cette croissance donne un but au rêve. J’y lis un soutien facile, à doubler d’honnêteté."

@@ -6,6 +6,8 @@ description: "Jupiter opposition Pluton en synastrie : l’une parle pour l’a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Pluton", "opposition", "synastrie"]
 weight: 270
 glyph: "♃☍♇"
 definition: "Jupiter opposition Pluton en synastrie signifie que Jupiter, chez une personne, se trouve à environ 180° de Pluton chez l’autre, à 5° près. L’ampleur se tient à un bout, la profondeur à l’autre, et chacune montre à l’autre ce qu’elle évite. Le calendrier la distribue inégalement : c’est dans les maisons que je la pèse, comme deux époques face à face."

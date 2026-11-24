@@ -5,6 +5,8 @@ description: "Their Saturn in your 9th house in synastry: rigour and doubt broug
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "9th house", "synastry", "house overlays"]
 weight: 81
 glyph: "♄"
 definition: "Their Saturn in your 9th house lets another person’s Saturn into your convictions, studies, long journeys and big questions. In synastry their rigour meets your search for meaning: beliefs tested with them tend to come out sturdier and long study gets finished, while they often feel responsible for keeping your thinking honest."

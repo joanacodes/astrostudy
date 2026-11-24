@@ -6,6 +6,8 @@ description: "Mars conjonction Uranus dans un thème natal : l’action et le c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Uranus", "conjonction"]
 weight: 210
 glyph: "♂☌♅"
 definition: "Mars conjonction Uranus est la rencontre, à quelques degrés près, de la planète de l’action et de celle du changement. Dans un thème, l’envie d’agir s’y fond avec l’envie de faire autrement : l’initiative arrive comme une rupture de routine. J’y lis un effort indépendant et inventif, jamais une imprudence inévitable."

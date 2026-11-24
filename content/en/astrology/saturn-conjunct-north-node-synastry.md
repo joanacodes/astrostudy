@@ -5,6 +5,8 @@ description: "Saturn conjunct North Node in synastry: one person’s discipline 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "North Node", "conjunction", "synastry"]
 weight: 311
 glyph: "♄☌☊"
 definition: "Saturn conjunct North Node in synastry brings one person’s Saturn to within 5° of the other’s North Node, which also places it across from their South Node. The patience and standards of one fall on the capacity the other is learning, as scaffolding or as pressure. I read it through the houses, with both nodes, and never as a fate."

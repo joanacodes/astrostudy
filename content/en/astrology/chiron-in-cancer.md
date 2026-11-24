@@ -5,6 +5,8 @@ description: "Chiron in Cancer in a birth chart: belonging made by hand, and car
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Cancer"]
 weight: 124
 glyph: "⚷♋"
 definition: "With Chiron in Cancer, you were born while Chiron, the body I read as adaptation, crossed the cardinal water sign ruled by the Moon: from August 1937 to June 1941, from June 1988 to July 1991, or from July 2038. In a chart it describes belonging made by hand, the shelter and care you build yourself."

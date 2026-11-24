@@ -5,6 +5,8 @@ description: "Sun in Sagittarius, Moon in Capricorn: neighbouring signs, the Moo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Sagittarius", "Moon", "Capricorn"]
 weight: 106
 glyph: "☉♐☽♑"
 definition: "Sun in Sagittarius, Moon in Capricorn places the Moon one sign ahead of the Sun, within about five days after a new moon. Mutable fire meets cardinal earth; the Moon is in its detriment, and Jupiter, the Sun’s ruler, has its fall in Capricorn. I read it as a vision that needs scaffolding before it feels safe."

@@ -5,6 +5,8 @@ description: "Their Mars in your 10th house in synastry: their drive behind your
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "10th house", "synastry", "house overlays"]
 weight: 58
 glyph: "♂"
 definition: "Their Mars in your 10th house lifts the other person’s Mars to the top of your chart, into your work, ambitions and public role, a house whose natural sign is Mars’s exaltation. In synastry their drive spurs your career: you may aim and act more boldly around them, and they find your path worth pushing, or racing."

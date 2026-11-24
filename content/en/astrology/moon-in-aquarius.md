@@ -5,6 +5,8 @@ description: "Moon in Aquarius in a birth chart: feelings understood from a litt
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Aquarius"]
 weight: 23
 glyph: "☽♒"
 definition: "Moon in Aquarius means the Moon was in Aquarius at your birth. I read it as feelings understood from a little distance, comfort found in friendship, freedom and shared ideals, and a steady loyalty that, once given, rarely changes, even when it looks cool from the outside."

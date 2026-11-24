@@ -6,6 +6,8 @@ description: "L’enveloppe en astrologie : un nom sans définition convenue, p
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["configurations"]
 weight: 14
 glyph: "✦"
 definition: "Enveloppe est le nom donné à une configuration qui relie plusieurs planètes d’un thème, mais les auteurs ne s’accordent pas sur les planètes et les aspects qui la forment. Sans définition unique, pas de dessin unique, et ce site n’en donne pas de décompte. Ce qu’un logiciel appelle enveloppe, je le lis planète par planète, aspect par aspect."

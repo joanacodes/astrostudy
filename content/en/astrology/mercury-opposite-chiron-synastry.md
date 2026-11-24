@@ -5,6 +5,8 @@ description: "Mercury opposite Chiron in synastry: two people on either side of 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Chiron", "opposition", "synastry"]
 weight: 155
 glyph: "☿☍⚷"
 definition: "Mercury opposite Chiron in synastry means one person’s Mercury is about 180° from the other’s Chiron, within 6°. One person’s reasoning faces what the other has had to find another way around, so each sees plainly what the other carries. I read it as a seesaw between explaining and being explained, which works best when the roles can swap."

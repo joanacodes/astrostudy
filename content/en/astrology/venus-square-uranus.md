@@ -5,6 +5,8 @@ description: "Venus square Uranus in a birth chart: attachment and the need for 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Uranus", "square"]
 weight: 172
 glyph: "♀□♅"
 definition: "Venus square Uranus means Venus and Uranus sat roughly 90° apart on the day you were born, usually both cardinal, fixed or mutable. In a chart, attachment and the urge for freedom rub against each other: you want closeness and air, steadiness and surprise. I read it as a rub that trains love to bend without breaking."

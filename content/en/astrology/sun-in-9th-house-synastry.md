@@ -5,6 +5,8 @@ description: "Their Sun in your 9th house in synastry: their purpose opening you
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "9th house", "synastry", "house overlays"]
 weight: 9
 glyph: "☉"
 definition: "Their Sun in your 9th house is the overlay of the far horizon: another person’s Sun lands among your travels, your studies, your beliefs and your search for meaning. In synastry their purpose widens your world: you tend to read, travel and question more with them, and their own direction gains meaning alongside you."

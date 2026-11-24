@@ -6,6 +6,8 @@ description: "Uranus conjonction Nœud Nord en synastrie : les essais de l’un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Nœud Nord", "conjonction", "synastrie"]
 weight: 336
 glyph: "♅☌☊"
 definition: "Uranus conjonction Nœud Nord en synastrie signifie qu’Uranus, chez une personne, se trouve à moins de 4° du Nœud Nord de l’autre, donc à l’opposé de son Nœud Sud. Les essais de l’une tombent sur la direction dans laquelle l’autre apprend à grandir, pour l’encourager ou la presser. Daté au nœud vrai, il se lit dans les maisons."

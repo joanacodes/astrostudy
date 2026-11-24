@@ -5,6 +5,8 @@ description: "North Node in the 10th house in a birth chart: stepping into publi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "10th house", "houses"]
 weight: 154
 glyph: "☊"
 definition: "North Node in the 10th house means the North Node, where the Moon’s path crosses the Sun’s going north, fell in the house that begins at the Midheaven when you were born, with the South Node in the 4th. I read it as growth towards a public life: a vocation, a reputation and a contribution the world can see."

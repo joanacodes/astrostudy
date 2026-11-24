@@ -5,6 +5,8 @@ description: "North Node transiting the 7th house: about 16 months of learning t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "7th house", "transits"]
 weight: 79
 glyph: "☊"
 definition: "North Node transiting the 7th house is the stay, usually around sixteen months, when the node moves backwards through your house of partners while the South Node crosses your 1st. It points towards cooperation and letting someone in on the decisions, away from doing everything alone. It predicts no meeting and no break-up."

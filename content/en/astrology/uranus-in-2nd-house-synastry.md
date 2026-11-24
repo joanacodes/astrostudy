@@ -5,6 +5,8 @@ description: "Their Uranus in your 2nd house in synastry: their restlessness mee
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "2nd house", "synastry", "house overlays"]
 weight: 86
 glyph: "♅"
 definition: "Their Uranus in your 2nd house shakes another person’s appetite for change into your resources: money, possessions, skills and self-worth. In synastry they may free you from old ideas of what you need, or unsettle your sense of security, while they tend to feel freer in your world of things. It never predicts money."

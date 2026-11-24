@@ -6,6 +6,8 @@ description: "Jupiter de l’autre dans votre maison 12 en synastrie : sa gén�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "maison 12", "synastrie", "superpositions de maisons"]
 weight: 72
 glyph: "♃"
 definition: "Jupiter de l’autre dans votre maison 12 confie Jupiter, chez cette personne, à la partie la plus intime de votre thème : solitude, repos, réflexion, soin discret. En synastrie, sa générosité travaille en arrière-plan et donne du sens à la retraite, et l’autre trouve dans votre vie intérieure un endroit où se poser. Ni sauvetage ni avertissement."

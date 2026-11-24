@@ -5,6 +5,8 @@ description: "Mercury trine Venus in synastry, only possible between two people:
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Venus", "trine", "synastry"]
 weight: 119
 glyph: "☿△♀"
 definition: "Mercury trine Venus in synastry means one person’s Mercury is about 120° from the other’s Venus, within 5.1°, an angle no birth chart contains. One person’s thinking and the other’s taste usually share an element and get on without effort. To me it’s easy fluency in conversation, which still needs someone willing to disagree."

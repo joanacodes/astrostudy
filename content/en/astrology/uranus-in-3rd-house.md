@@ -5,6 +5,8 @@ description: "Uranus in the 3rd house in a birth chart: a fast, original everyda
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "3rd house", "houses"]
 weight: 87
 glyph: "♅"
 definition: "Uranus in the 3rd house puts the planet of change in the house of everyday thinking, talk, learning, siblings and neighbours, a cadent house whose natural sign is Gemini. I read it as a fast, original mind that connects what others keep apart and learns best by experiment. Its house needs your birth time."

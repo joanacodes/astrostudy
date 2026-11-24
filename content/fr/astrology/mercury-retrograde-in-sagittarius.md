@@ -6,6 +6,8 @@ description: "Mercure rétrograde en Sagittaire, la plus courte et la plus large
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "Sagittaire"]
 weight: 9
 glyph: "☿℞♐"
 definition: "Mercure rétrograde en Sagittaire désigne la vingtaine de jours, entre novembre et début janvier, où Mercure semble, depuis la Terre, reculer dans le Sagittaire, son signe d’exil. J’y lis la vue d’ensemble relue avec les détails sous les yeux : projets, convictions et sens que vous avez tiré d’une expérience, dans la maison qu’occupe le Sagittaire dans votre thème."

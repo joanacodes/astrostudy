@@ -6,6 +6,8 @@ description: "Soleil trigone Nœud Nord en synastrie : ce qu’est l’une conv
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Nœud Nord", "trigone", "synastrie"]
 weight: 59
 glyph: "☉△☊"
 definition: "Soleil trigone Nœud Nord en synastrie : environ 120°, à 6,8° près, entre le Soleil d’une personne et le Nœud Nord de l’autre, donc 60° avec son Nœud Sud. Ce qu’est l’une convient à la direction où l’autre grandit. J’y lis un soutien facile, qui demande quand même de la pratique."

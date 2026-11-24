@@ -5,6 +5,8 @@ description: "Jupiter conjunct Uranus in synastry: one person’s sense of meani
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Uranus", "conjunction", "synastry"]
 weight: 256
 glyph: "♃☌♅"
 definition: "Jupiter conjunct Uranus in synastry means one person’s Jupiter sits within 5° of the other’s Uranus. A way of making sense of life and an urge to question and reform it act as one, between two people. Two birth years set it, so I read it through the houses, as one era’s beliefs meeting another’s experiments."

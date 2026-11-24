@@ -6,6 +6,8 @@ description: "Mercure en maison 11 dans un thème natal : un esprit qui pense a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "maison 11", "maisons"]
 weight: 35
 glyph: "☿"
 definition: "Mercure en maison 11 place la planète de la pensée dans la maison des amis, des groupes, des réseaux et des espoirs. On y lit un esprit social qui réfléchit en compagnie, relie les gens et les idées, et change ses espoirs en mots et en projets. La tradition appelait cette maison le Génie favorable. Il faut l’heure de naissance."

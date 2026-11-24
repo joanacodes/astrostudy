@@ -5,6 +5,8 @@ description: "Jupiter conjunct Pluto in a birth chart: growth and transformation
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Pluto", "conjunction"]
 weight: 255
 glyph: "♃☌♇"
 definition: "Jupiter conjunct Pluto is a meeting of the two planets within a few degrees, which happens every 12 or 13 years and lasts weeks or months. In a chart it joins the urge to grow and understand with the urge to transform from the root. Everyone born during a meeting shares it; its house makes it yours."

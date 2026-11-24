@@ -5,6 +5,8 @@ description: "Moon opposite Jupiter in synastry: one person holds the familiar, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Jupiter", "opposition", "synastry"]
 weight: 80
 glyph: "☽☍♃"
 definition: "Moon opposite Jupiter in synastry means one person’s Jupiter faces the other’s Moon from about 180° away, within 8°. One holds the need for the familiar and the close at hand; the other holds meaning, plans and the wider world. I read it as a seesaw two people balance together, never as a tug of war."

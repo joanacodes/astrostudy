@@ -5,6 +5,8 @@ description: "Mars trine Neptune in synastry: effort from one person, imaginatio
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Neptune", "trine", "synastry"]
 weight: 229
 glyph: "♂△♆"
 definition: "Mars trine Neptune in synastry means a third of the zodiac, within 5.1°, separates one person’s Mars from the other’s Neptune, often in one element. Drive in one and imagination in the other keep step, and effort follows inspiration unprompted. I read it as two people setting each other in motion, which still needs a plan to land."

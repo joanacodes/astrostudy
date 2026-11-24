@@ -5,6 +5,8 @@ description: "Their Jupiter in your 5th house in synastry: their generosity in y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "5th house", "synastry", "house overlays"]
 weight: 65
 glyph: "♃"
 definition: "Their Jupiter in your 5th house opens the house of your play, creativity, pleasure and romance to the other person’s Jupiter. In synastry their generosity enlarges your joy: fun gets bigger and warmer around them, and they love watching you enjoy yourself. Tradition called this house Good Fortune, but it promises neither luck nor children."

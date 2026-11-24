@@ -5,6 +5,8 @@ description: "Moon opposite Chiron in synastry: one person’s open needs face t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Chiron", "opposition", "synastry"]
 weight: 105
 glyph: "☽☍⚷"
 definition: "Moon opposite Chiron in synastry means one person’s Moon faces the other’s Chiron across the zodiac, within 8°. One person’s openly held needs sit opposite the other’s long adaptation to a lasting sensitivity, and each finds in the other the half they practise less. I read it as a seesaw to balance, never a contest."

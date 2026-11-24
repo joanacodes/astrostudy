@@ -6,6 +6,8 @@ description: "Saturne sextile Uranus dans un thème natal : structure et change
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Uranus", "sextile"]
 weight: 276
 glyph: "♄⚹♅"
 definition: "Saturne sextile Uranus désigne un écart d’environ 60° entre les deux planètes, tenu un an ou deux au milieu des années 1930, à la fin des années 1940, vers 1980 et au milieu des années 1990. Dans un thème, la structure et le changement peuvent coopérer. Une génération le partage ; vos maisons disent où le mettre au travail."

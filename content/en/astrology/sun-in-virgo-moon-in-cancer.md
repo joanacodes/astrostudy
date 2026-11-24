@@ -5,6 +5,8 @@ description: "Sun in Virgo, Moon in Cancer: the Moon at home, the Sun in Mercury
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Virgo", "Moon", "Cancer"]
 weight: 64
 glyph: "☉♍☽♋"
 definition: "Sun in Virgo, Moon in Cancer puts the Moon at home in its own sign, a sextile behind a Sun in Mercury’s sign, at a birth after the last quarter of the lunar month. To me it is practical tenderness: love that keeps lists, and lists kept out of love."

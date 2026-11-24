@@ -6,6 +6,8 @@ description: "Nœud Nord en maison 6 dans un thème natal : donner une forme à
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Nœud Nord", "maison 6", "maisons"]
 weight: 150
 glyph: "☊"
 definition: "Nœud Nord en maison 6 signifie qu’à votre naissance, le point où la Lune croise vers le nord la route du Soleil se trouvait dans la maison de la journée de travail, le Nœud Sud en maison 12. J’y lis une croissance vers des journées qui ont une forme : travail utile, collègues, routines solides, après l’habitude du retrait."

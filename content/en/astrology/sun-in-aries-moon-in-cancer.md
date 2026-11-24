@@ -5,6 +5,8 @@ description: "Sun in Aries, Moon in Cancer: two cardinal signs and two dignified
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries", "Moon", "Cancer"]
 weight: 4
 glyph: "☉♈☽♋"
 definition: "Sun in Aries, Moon in Cancer describes a birth five to ten days after a new moon, with the Moon three signs ahead of the Sun. Both lights are dignified: the Sun exalted, the Moon in its own sign. I read it as two kinds of initiative, one that sets out into the world and one that makes a home."

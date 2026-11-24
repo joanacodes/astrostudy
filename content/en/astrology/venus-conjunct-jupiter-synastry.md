@@ -5,6 +5,8 @@ description: "Venus conjunct Jupiter in synastry: one person’s taste meets the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Jupiter", "conjunction", "synastry"]
 weight: 171
 glyph: "♀☌♃"
 definition: "Venus conjunct Jupiter in synastry means one person’s Venus sits within 6° of the other’s Jupiter. What one person enjoys and values meets the other’s way of widening, believing and encouraging. I read it as mutual generosity, in couples, friendships and teams, which works best when the two keep a sense of enough."

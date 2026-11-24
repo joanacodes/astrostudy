@@ -6,6 +6,8 @@ description: "Lune opposition Mercure en synastrie : l’une porte l’humeur, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Mercure", "opposition", "synastrie"]
 weight: 65
 glyph: "☽☍☿"
 definition: "Lune opposition Mercure en synastrie : la Lune d’une personne fait face à Mercure, dans le thème de l’autre, à 180° environ et à 8° près. Le ressenti et la mise en mots se tiennent aux deux bouts : l’une porte l’humeur, l’autre les mots. J’y lis un miroir où chacune voit le côté de l’autre, jamais le cœur contre la tête."

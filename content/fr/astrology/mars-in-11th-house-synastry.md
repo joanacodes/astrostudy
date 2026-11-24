@@ -6,6 +6,8 @@ description: "Mars de l’autre dans votre maison 11 en synastrie : son élan d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "maison 11", "synastrie", "superpositions de maisons"]
 weight: 59
 glyph: "♂"
 definition: "Mars de l’autre dans votre maison 11 signifie que Mars, chez cette personne, rejoint vos amitiés, vos réseaux et vos buts communs, là où la tradition voyait le Génie favorable. En synastrie, son élan change vos projets en actes : vous agissez plus hardiment pour une cause ou une équipe, et l’autre se sent utile dans vos cercles."

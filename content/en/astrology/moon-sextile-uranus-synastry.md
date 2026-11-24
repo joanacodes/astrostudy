@@ -5,6 +5,8 @@ description: "Moon sextile Uranus in synastry: small changes offered by one pers
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Uranus", "sextile", "synastry"]
 weight: 87
 glyph: "☽⚹♅"
 definition: "Moon sextile Uranus in synastry means one person’s Uranus is about 60° from the other’s Moon, within 4.8°. One person’s taste for the new reaches the other’s habits in small, welcome doses. To me it’s an invitation to experiment together, light enough to ignore and worth taking up."

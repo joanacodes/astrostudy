@@ -6,6 +6,8 @@ description: "Mercure rétrograde en astrologie : pourquoi Mercure semble recul
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "dignities"
+categories: ["Planètes et points"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde"]
 weight: 5
 glyph: "☿℞"
 definition: "Mercure rétrograde, c’est la période, trois ou quatre fois par an, où Mercure semble, depuis la Terre, reculer dans le zodiaque pendant 20 à 24 jours, en passant entre nous et le Soleil. Les astrologues y lisent une saison de révision pour l’esprit ; dans un thème natal, j’y lis une pensée tournée d’abord vers l’intérieur."

@@ -5,6 +5,8 @@ description: "Mercury retrograde in Cancer: the longest of Mercury’s retrograd
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "Cancer"]
 weight: 4
 glyph: "☿℞♋"
 definition: "Mercury retrograde in Cancer lasts a little over 24 days each time, the longest, on average, of any sign: between June and early August, Mercury appears from Earth to move backwards through Cancer. I read it as the mind going back through memory, family stories and the tone of what was said, in the house Cancer occupies in your chart."

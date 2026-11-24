@@ -5,6 +5,8 @@ description: "Saturn sextile Uranus in a birth chart: structure and change in co
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Uranus", "sextile"]
 weight: 276
 glyph: "♄⚹♅"
 definition: "Saturn sextile Uranus means Saturn and Uranus about 60° apart, an angle the pair held for a year or two at a time in the mid-1930s, late 1940s, around 1980 and the mid-1990s. In a chart, structure and change can cooperate. A generation shares it; your houses decide where you put it to work."

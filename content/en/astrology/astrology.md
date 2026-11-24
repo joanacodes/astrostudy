@@ -5,6 +5,8 @@ description: "Astrology: what it is, how a chart is built from the sky at one mo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Foundations"]
+tags: []
 weight: 1
 glyph: "✦"
 definition: "Astrology is the practice of reading the positions of the Sun, Moon and planets at a given moment, seen from a given place, as a language for human life. In a birth chart it describes tendencies, needs and seasons rather than fixed events. Nobody knows exactly how it works, and I say so."

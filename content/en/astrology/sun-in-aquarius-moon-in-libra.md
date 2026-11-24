@@ -5,6 +5,8 @@ description: "Sun in Aquarius, Moon in Libra: an air trine born as the Moon wane
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aquarius", "Moon", "Libra"]
 weight: 127
 glyph: "☉♒☽♎"
 definition: "Sun in Aquarius, Moon in Libra puts the two lights in air signs, Libra four signs before Aquarius, in the week after a full moon. Saturn, the older ruler of Aquarius, is exalted in Libra. What I read is a self founded on principles meant for everyone, and needs that ask for a fair exchange with one person."

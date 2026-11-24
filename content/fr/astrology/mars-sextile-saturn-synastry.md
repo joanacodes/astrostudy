@@ -6,6 +6,8 @@ description: "Mars sextile Saturne en synastrie : l’énergie de l’une et la
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Saturne", "sextile", "synastrie"]
 weight: 217
 glyph: "♂⚹♄"
 definition: "Mars sextile Saturne en synastrie signifie que Mars, chez une personne, se trouve à environ 60° de Saturne chez l’autre, à 3,6° près. L’énergie de la première et la méthode de la seconde coopèrent, pourvu que quelqu’un demande. J’y lis une structure offerte à l’effort, et un effort offert à un plan."

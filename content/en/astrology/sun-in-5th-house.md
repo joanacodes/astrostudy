@@ -5,6 +5,8 @@ description: "Sun in the 5th house in a birth chart: the house of the Sun’s ow
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "5th house", "houses"]
 weight: 5
 glyph: "☉"
 definition: "Sun in the 5th house means the Sun was below the western horizon in the evening when you were born, in the house of creativity, play and pleasure, whose natural sign is Leo. I read it as a self that comes alive in what it makes and enjoys for its own sake. It says nothing about children."

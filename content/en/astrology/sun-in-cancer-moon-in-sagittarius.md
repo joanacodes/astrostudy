@@ -5,6 +5,8 @@ description: "Sun in Cancer, Moon in Sagittarius: a quincunx by sign, Jupiter ex
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Cancer", "Moon", "Sagittarius"]
 weight: 45
 glyph: "☉♋☽♐"
 definition: "Sun in Cancer, Moon in Sagittarius sets the Moon in mutable fire, a quincunx away from the Sun, as the month builds towards its full moon. I read it as a home with its door open: a self that shelters and belongs, and needs that settle through honesty, laughter, learning and a belief of their own."

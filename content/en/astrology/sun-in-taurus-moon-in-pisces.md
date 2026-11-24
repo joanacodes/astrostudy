@@ -5,6 +5,8 @@ description: "Sun in Taurus, Moon in Pisces: Venus at home in one sign and exalt
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Taurus", "Moon", "Pisces"]
 weight: 24
 glyph: "☉♉☽♓"
 definition: "Sun in Taurus, Moon in Pisces is a sextile by sign, the Moon two signs behind the Sun, from a birth twenty-two to twenty-seven days after a new moon. Venus rules the one sign and is exalted in the other. I read it as the senses and the imagination together: a grounded self, and tender needs that dream."

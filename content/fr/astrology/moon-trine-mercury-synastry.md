@@ -6,6 +6,8 @@ description: "Lune trigone Mercure en synastrie : deux personnes qui se parlent
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Mercure", "trigone", "synastrie"]
 weight: 64
 glyph: "☽△☿"
 definition: "Lune trigone Mercure en synastrie est un contact de 120°, à 6,8° près, entre la Lune d’une personne et Mercure dans le thème de l’autre, d’ordinaire dans deux signes d’un même élément. Humeurs et mots vont au même pas. Pour moi, c’est un talent pour parler des émotions, qui mérite aussi les sujets difficiles."

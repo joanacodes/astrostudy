@@ -5,6 +5,8 @@ description: "Sun in Aries, Moon in Aries: a double Aries, born close to a new m
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries", "Moon"]
 weight: 1
 glyph: "☉♈☽♈"
 definition: "Sun in Aries, Moon in Aries means both lights were in Aries when you were born, within about two and a half days of a new moon. I read it as purpose and need moving at the same speed: what you aim for and what settles you both come down to starting, and Mars rules the two."

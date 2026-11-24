@@ -5,6 +5,8 @@ description: "Their Venus in your 4th house in synastry: warmth at home, among y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "4th house", "synastry", "house overlays"]
 weight: 40
 glyph: "♀"
 definition: "Their Venus in your 4th house makes your home a place they love: their taste and affection settle into your private life, your roots and your family. In synastry, home feels warmer and more welcoming with them in it, and they find comfort under your roof; it never predicts living together."

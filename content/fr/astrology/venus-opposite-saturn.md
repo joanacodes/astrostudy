@@ -6,6 +6,8 @@ description: "Vénus opposition Saturne dans un thème natal : une ligne entre 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Saturne", "opposition"]
 weight: 169
 glyph: "♀☍♄"
 definition: "Vénus opposition Saturne signifie qu’à votre naissance, Saturne occupait le point du ciel opposé à Vénus, à 180° environ. Ce qui vous plaît y fait face à ce dont vous vous sentez responsable : la tendresse d’un côté, les règles de l’autre. J’y lis un équilibre entre plaisir et devoir, souvent appris à travers quelqu’un d’autre."

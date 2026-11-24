@@ -5,6 +5,8 @@ description: "Moon sextile Venus in a birth chart: a gift for welcome, affection
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Venus", "sextile"]
 weight: 59
 glyph: "☽⚹♀"
 definition: "Moon sextile Venus is the Moon and Venus about 60° apart in a birth chart, usually in signs two apart. What you need and what you enjoy help each other: affection is easy to offer and comfort easy to accept, once you make the first move. I read it as a gift for welcome that grows with use."

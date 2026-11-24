@@ -6,6 +6,8 @@ description: "Soleil opposition Uranus en synastrie : la constance d’une pers
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Uranus", "opposition", "synastrie"]
 weight: 35
 glyph: "☉☍♅"
 definition: "Soleil opposition Uranus en synastrie met l’identité d’une personne face à l’envie de liberté de l’autre : Uranus à environ 180° du Soleil, à 8° près, de part et d’autre du zodiaque. L’une tend à tenir bon, l’autre à garder les portes ouvertes. J’y lis une polarité entre appartenance et autonomie, que les deux peuvent apprendre à équilibrer."

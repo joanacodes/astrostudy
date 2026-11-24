@@ -6,6 +6,8 @@ description: "Vénus en Vierge dans un thème natal : Vénus en chute, un amour
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Vierge"]
 weight: 42
 glyph: "♀♍"
 definition: "Vénus en Vierge signifie que la planète de la valeur et de l’attirance est en chute, dans la terre mutable que gouverne Mercure, face à son exaltation en Poissons. On y lit un amour qui passe par l’aide et les détails, le goût de ce qui est utile et bien fait, et un regard exigeant qui doit apprendre la douceur."

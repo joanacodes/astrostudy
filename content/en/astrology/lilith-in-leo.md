@@ -5,6 +5,8 @@ description: "Lilith in Leo in a birth chart: the wish to be seen whole, learned
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Leo"]
 weight: 137
 glyph: "⚸♌"
 definition: "Lilith in Leo means Black Moon Lilith, the Moon’s farthest point from Earth, was in fixed fire, the Sun’s sign, when you were born. I read it as a wish to be seen whole — your work, your joy, your pride — that someone once called showing off, and a dignity that refuses to be made smaller."

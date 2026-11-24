@@ -5,6 +5,8 @@ description: "Sun in Leo, Moon in Taurus: both lights dignified, in fixed signs 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo", "Moon", "Taurus"]
 weight: 50
 glyph: "☉♌☽♉"
 definition: "Sun in Leo, Moon in Taurus sets each light in a fixed sign, a square apart, at a birth near the last quarter. Both lights are dignified, the Sun at home and the Moon exalted, so each stands on strong ground. I read it as loyalty in each, and two different ideas of what is worth keeping."

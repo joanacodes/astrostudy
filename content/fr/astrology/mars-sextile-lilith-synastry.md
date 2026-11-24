@@ -6,6 +6,8 @@ description: "Mars sextile Lilith en synastrie : l’élan de l’une donne à 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Lilith", "sextile", "synastrie"]
 weight: 242
 glyph: "♂⚹⚸"
 definition: "Mars sextile Lilith en synastrie signifie qu’un angle de 60°, à 3,6° près, lie Mars, chez une personne, à la Lune noire Lilith moyenne de l’autre. L’initiative d’un côté et l’indépendance de l’autre coopèrent, et l’option hors des sentiers battus devient plus facile à prendre. J’y lis une invitation à faire autrement, qu’il faut accepter."

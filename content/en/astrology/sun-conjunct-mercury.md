@@ -5,6 +5,8 @@ description: "Sun conjunct Mercury in a birth chart: thought and identity workin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Mercury", "conjunction"]
 weight: 6
 glyph: "☉☌☿"
 definition: "Sun conjunct Mercury means that at your birth Mercury stood within a few degrees of the Sun. Seen from Earth, Mercury never gets more than about 28° away, so no other major aspect between the two is possible. In a chart, your thinking and your sense of who you are work as one."

@@ -6,6 +6,8 @@ description: "Vénus trigone Lilith en synastrie : le goût de l’une accueill
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Lilith", "trigone", "synastrie"]
 weight: 204
 glyph: "♀△⚸"
 definition: "En synastrie, Vénus trigone Lilith relie Vénus, chez une personne, à la Lune noire Lilith moyenne de l’autre, à environ 120°, à 5,1° près, en général dans un même élément. Le goût de la première accueille d’office la part indomptée de la seconde : rien à plaider. J’y lis un accueil facile, qui demande d’être entretenu."

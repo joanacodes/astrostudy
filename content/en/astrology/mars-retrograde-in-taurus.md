@@ -5,6 +5,8 @@ description: "Mars retrograde in Taurus: the autumn loops of 2005 and 2037, thir
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mars", "retrograde", "Mars retrograde", "Taurus"]
 weight: 26
 glyph: "♂℞♉"
 definition: "Mars retrograde in Taurus is Mars, seen from Earth, backing through Taurus for about ten weeks of autumn: from October to December 2005, wholly in the sign, and again from October to December 2037. I read it as steady effort reconsidered, what you keep pushing for and why, in the house Taurus occupies in your chart."

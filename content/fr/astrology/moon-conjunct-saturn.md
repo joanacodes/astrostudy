@@ -6,6 +6,8 @@ description: "Lune conjonction Saturne dans un thème natal : des émotions ten
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Saturne", "conjonction"]
 weight: 73
 glyph: "☽☌♄"
 definition: "Lune conjonction Saturne veut dire que la Lune et Saturne occupaient presque le même degré à votre naissance. Le besoin et la structure agissent ensemble : les émotions viennent avec un cadre autour d’elles, et le soin se donne sous des formes fiables et concrètes. J’y lis une solidité apprise tôt, et une douceur qui arrive souvent plus tard."

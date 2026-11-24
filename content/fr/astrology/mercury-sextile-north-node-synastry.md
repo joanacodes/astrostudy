@@ -6,6 +6,8 @@ description: "Mercure sextile Nœud Nord en synastrie : les idées de l’une r
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Nœud Nord", "sextile", "synastrie"]
 weight: 162
 glyph: "☿⚹☊"
 definition: "Mercure sextile Nœud Nord en synastrie signifie que Mercure, chez une personne, se trouve à environ 60° du Nœud Nord de l’autre, à 3,6° près, donc à environ 120° de son Nœud Sud. Les idées de l’une relient les forces familières de l’autre à ce qu’elle apprend. J’y vois une occasion de conseils utiles, quand on les demande."

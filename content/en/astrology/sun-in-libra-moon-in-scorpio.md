@@ -5,6 +5,8 @@ description: "Sun in Libra, Moon in Scorpio: the only pair with both lights in t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra", "Moon", "Scorpio"]
 weight: 80
 glyph: "☉♎☽♏"
 definition: "Sun in Libra, Moon in Scorpio puts both lights in their fall, the only pair that does, in the first days of a lunar month. I see in it a self that comes into its strength through fair dealing with others, beside needs that settle only once they know the truth beneath the surface."

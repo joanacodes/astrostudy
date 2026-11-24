@@ -5,6 +5,8 @@ description: "Venus conjunct Pluto in a birth chart: what you value and the urge
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Pluto", "conjunction"]
 weight: 180
 glyph: "♀☌♇"
 definition: "Venus conjunct Pluto means Venus and Pluto stood within a few degrees of each other at your birth. In a chart, what you value and the urge to transform work as one: attraction goes deep, and what you love tends to change you. I read it as intensity in the service of renewal, never as a need to control."

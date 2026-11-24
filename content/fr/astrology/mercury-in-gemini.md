@@ -6,6 +6,8 @@ description: "Mercure en Gémeaux dans un thème natal : Mercure en domicile, u
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Gémeaux"]
 weight: 27
 glyph: "☿♊"
 definition: "Mercure en Gémeaux, c’est Mercure dans son propre signe : l’air mutable, l’un des deux signes que gouverne Mercure. On y lit un esprit vif, curieux, qui relie, apprend en questionnant, aime les mots et suit plusieurs fils à la fois. Mercure gouvernant le signe, sa maison et ses aspects disent le reste. Environ 1 personne sur 13 l’a."

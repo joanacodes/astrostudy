@@ -6,6 +6,8 @@ description: "Soleil en Taureau, Lune en Sagittaire : des racines et un horizon
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Taureau", "Lune", "Sagittaire"]
 weight: 21
 glyph: "☉♉☽♐"
 definition: "Soleil en Taureau, Lune en Sagittaire associe la terre fixe et le feu mutable, à cinq signes d’écart, dans les cinq jours qui suivent une pleine lune. J’y lis des racines et un horizon : un moi qui se fie à ce qu’il touche et garde, des besoins qui s’apaisent quand la vie a de l’espace et un sens."

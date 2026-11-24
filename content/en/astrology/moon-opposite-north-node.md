@@ -5,6 +5,8 @@ description: "Moon opposite North Node in a birth chart: the Moon on the South N
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "North Node", "opposition"]
 weight: 107
 glyph: "☽☍☊"
 definition: "Moon opposite North Node means the Moon was about 180° from the North Node when you were born, so near the South Node. In a chart your ways of finding comfort are familiar ground, and growth lies across the chart from them. I read it as a polarity: you build on your feelings, not away from them."

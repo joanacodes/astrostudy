@@ -6,6 +6,8 @@ description: "Soleil opposition Lune dans un thème natal : la pleine lune de v
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lune", "opposition"]
 weight: 5
 glyph: "☉☍☽"
 definition: "Soleil opposition Lune signifie une naissance à la pleine lune ou tout près, le Soleil et la Lune à environ 180° l’un de l’autre, dans des signes opposés. Dans un thème, ce que vous cherchez et ce qu’il vous faut occupent les deux bouts d’un même axe. J’y lis une polarité lucide, qui demande l’équilibre."

@@ -5,6 +5,8 @@ description: "Sun in Aries, Moon in Virgo: a quincunx by sign, the first draft a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aries", "Moon", "Virgo"]
 weight: 6
 glyph: "☉♈☽♍"
 definition: "Sun in Aries, Moon in Virgo joins two signs with nothing in common, fire and earth, five apart, in a birth ten to fifteen days after a new moon. I read it as the first draft and the careful edit living in one person: a self that starts fast and needs that settle once things are done properly."

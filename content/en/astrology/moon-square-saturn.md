@@ -5,6 +5,8 @@ description: "Moon square Saturn in a birth chart: feelings that learned to wait
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Saturn", "square"]
 weight: 75
 glyph: "☽□♄"
 definition: "Moon square Saturn is a right angle between the Moon and Saturn in a birth chart, usually across signs three apart. Need and duty pull across each other: feelings learn to wait, and self-reliance comes early. Its friction builds resilience on a timetable, as I read it: never a sentence, and never a cold heart."

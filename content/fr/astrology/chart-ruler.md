@@ -6,6 +6,8 @@ description: "Le maître du thème en astrologie : la planète de votre ascenda
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 23
 glyph: "✦"
 definition: "Le maître du thème est la planète qui gouverne votre signe ascendant : Mars pour un ascendant Bélier, Vénus pour un ascendant Taureau, et ainsi de suite tout autour du zodiaque. Il gouverne aussi la maison 1. Les astrologues le suivent dans tout le thème, car son signe et sa maison montrent où va vivre le moi que décrit l’ascendant."

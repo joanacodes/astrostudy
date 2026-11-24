@@ -5,6 +5,8 @@ description: "Sun in Leo, Moon in Pisces: a clear self and porous feelings, five
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo", "Moon", "Pisces"]
 weight: 60
 glyph: "☉♌☽♓"
 definition: "Sun in Leo, Moon in Pisces brings fixed fire and mutable water across a quincunx, at a birth a few days past a full moon. The Sun is in its own sign; Neptune and Jupiter rule the Moon’s. I read it as a bright stage with the sea behind it: a clear self, and feelings with very few walls."

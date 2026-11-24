@@ -5,6 +5,8 @@ description: "Jupiter opposite Neptune in synastry: one person speaks from convi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Neptune", "opposition", "synastry"]
 weight: 265
 glyph: "♃☍♆"
 definition: "Jupiter opposite Neptune in synastry means one person’s Jupiter is about 180° from the other’s Neptune, within 5°. Conviction stands at one end, longing and compassion at the other, and each completes what the other leaves open. It belongs to birth years, and I read it in the houses, as a polarity to balance."

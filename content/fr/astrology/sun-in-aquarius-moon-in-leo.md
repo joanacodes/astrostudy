@@ -6,6 +6,8 @@ description: "Soleil en Verseau, Lune en Lion : opposition fixe près de la ple
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Verseau", "Lune", "Lion"]
 weight: 125
 glyph: "☉♒☽♌"
 definition: "Soleil en Verseau, Lune en Lion associe un Soleil en exil à une Lune placée dans le signe même du Soleil, sur un axe fixe, près de la pleine lune en Lion. J’y lis un moi voué aux causes communes et à l’équité, avec des émotions qui ont besoin que quelqu’un en particulier leur rende leur chaleur."

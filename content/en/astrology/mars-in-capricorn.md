@@ -5,6 +5,8 @@ description: "Mars in Capricorn in a birth chart: Mars exalted, disciplined driv
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Capricorn"]
 weight: 58
 glyph: "♂♑"
 definition: "Mars in Capricorn is Mars at its exaltation, working in Saturn’s cardinal earth. It describes drive with a plan: you ration your energy, spend it where it counts, and keep climbing towards long-term goals when others stop. It’s found in about 1 person in 14."

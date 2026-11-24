@@ -5,6 +5,8 @@ description: "The Sturgeon moon, August’s full moon: its dates and signs from 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["Moon", "lunations"]
 weight: 27
 glyph: "○"
 definition: "The Sturgeon moon is the almanacs’ name for the full moon of August, when the great sturgeon of the Great Lakes were easiest to catch. It is a folk name, not astrology. In a chart it is a full moon in Aquarius, with the Sun in Leo, or in Pisces, with the Sun in Virgo, read by its house."

@@ -6,6 +6,8 @@ description: "Y a-t-il des signes toxiques ? Aucun. Ce qu’une étude du rece
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["signes du zodiaque", "test"]
 weight: 21
 glyph: "✦"
 definition: "Aucun signe n’est toxique. Les clichés sur les signes ne sont pas des faits : une étude sur plus de 20 millions de personnes en Angleterre et au pays de Galles n’a trouvé aucun lien entre signe et mariage, et les traits des signes n’apparaissent que chez qui connaît l’astrologie. Le mal tient aux actes, pas aux dates de naissance."

@@ -6,6 +6,8 @@ description: "Uranus conjonction Lilith dans un thème natal : votre originalit
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Lilith", "conjonction"]
 weight: 320
 glyph: "♅☌⚸"
 definition: "Uranus conjonction Lilith signifie qu’à votre naissance, Uranus et la Lune noire Lilith moyenne se trouvaient à quelques degrés d’écart. Dans un thème, l’envie de se distinguer et la part de vous qui refuse d’être domptée agissent ensemble : votre originalité et ce que vous avez appris à cacher sont souvent la même chose."

@@ -6,6 +6,8 @@ description: "Jupiter trigone Neptune dans un thème natal : le sens et l’ima
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Neptune", "trigone"]
 weight: 253
 glyph: "♃△♆"
 definition: "Jupiter trigone Neptune désigne un écart d’environ 120° entre les deux planètes, un angle qui dure quelques mois, deux fois tous les 12 ou 13 ans. Dans un thème, la fonction qui construit le sens et celle qui imagine au-delà des limites s’entraident. Toutes les personnes nées ces mois-là partagent cet aspect, que les maisons rendent personnel."

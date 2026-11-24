@@ -5,6 +5,8 @@ description: "Mars square Chiron in a birth chart: drive rubs against a sensitiv
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Chiron", "square"]
 weight: 227
 glyph: "♂□⚷"
 definition: "Mars square Chiron puts your drive about 90° from Chiron, the place where you've had to adapt the most, usually in signs of one modality. In a chart effort keeps meeting a sensitivity, so methods have to change. I read it as constructive friction that turns adjustments into skill, never as a sign that something in you is broken."

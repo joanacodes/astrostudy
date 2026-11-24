@@ -5,6 +5,8 @@ description: "Their Moon in your 9th house in synastry: their feelings at home i
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "9th house", "synastry", "house overlays"]
 weight: 21
 glyph: "☽"
 definition: "Their Moon in your 9th house places someone else’s Moon among your beliefs, studies, journeys and search for meaning. In synastry your outlook becomes a place where they feel at home: they’re at ease in your way of seeing the world, and the unfamiliar can feel safe when the two of you explore it together."

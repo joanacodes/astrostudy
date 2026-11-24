@@ -5,6 +5,8 @@ description: "Their Neptune in your 11th house in synastry: their ideals in your
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "11th house", "synastry", "house overlays"]
 weight: 107
 glyph: "♆"
 definition: "Their Neptune in your 11th house spreads the other person’s Neptune through your friendships, groups and hopes for the future. In synastry their ideals enter your circle: friendship can feel like kinship, causes like callings, and they may find in your people the community they longed for. Shared dreams, though, need plans to land."

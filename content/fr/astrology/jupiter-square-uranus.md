@@ -6,6 +6,8 @@ description: "Jupiter carré Uranus dans un thème natal : la friction entre vo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Uranus", "carré"]
 weight: 247
 glyph: "♃□♅"
 definition: "Jupiter carré Uranus, c’est un angle droit entre les deux planètes à la naissance ; il reparaît tous les sept ans environ, pour quelques mois de naissances. Votre cadre de sens et votre envie de changement appuient sans cesse l’un sur l’autre, et vos convictions se posent rarement longtemps. J’y lis une friction qui réforme, pas une instabilité."

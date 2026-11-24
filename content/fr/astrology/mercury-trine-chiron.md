@@ -6,6 +6,8 @@ description: "Mercure trigone Chiron dans un thème natal : nommer une difficul
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Chiron", "trigone"]
 weight: 143
 glyph: "☿△⚷"
 definition: "Mercure trigone Chiron relie par un angle facile de 120° la parole et Chiron, l’endroit sensible du thème. Dans un thème, ce trigone permet de parler de la difficulté, la vôtre ou celle des autres, sans que les mots deviennent tranchants. J’y vois un don pour l’explication bienveillante, qui grandit à l’usage."

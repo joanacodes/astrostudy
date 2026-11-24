@@ -6,6 +6,8 @@ description: "Jupiter opposition Saturne dans un thème natal : croissance et s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Saturne", "opposition"]
 weight: 244
 glyph: "♃☍♄"
 definition: "Jupiter opposition Saturne, c’est un angle de 180° entre les deux planètes, atteint une dizaine d’années après chaque grande conjonction et porté par toutes les naissances de ces mois-là. La croissance tient un côté du thème, la consolidation l’autre, et le travail consiste à les équilibrer. Avec le temps, cet équilibre devient du jugement."

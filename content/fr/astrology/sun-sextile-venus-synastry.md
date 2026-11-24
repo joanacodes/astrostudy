@@ -6,6 +6,8 @@ description: "Soleil sextile Vénus en synastrie : le goût de l’une offre à
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Vénus", "sextile", "synastrie"]
 weight: 12
 glyph: "☉⚹♀"
 definition: "Soleil sextile Vénus en synastrie signifie que la Vénus d’une personne se trouve à environ 60° du Soleil de l’autre, à 4,8° près. Personne ne l’a dans son propre thème : Vénus reste à moins de 47° environ du Soleil. Le goût de l’une offre à l’autre plaisirs et ouvertures. J’y lis une affection amicale qui grandit à l’usage."

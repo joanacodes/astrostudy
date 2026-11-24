@@ -6,6 +6,8 @@ description: "Vénus sextile Pluton dans un thème natal : la profondeur à por
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Pluton", "sextile"]
 weight: 181
 glyph: "♀⚹♇"
 definition: "Vénus sextile Pluton signifie qu’à votre naissance, Vénus et Pluton étaient à environ 60° d’écart, en général dans des signes d’éléments complémentaires. Dans un thème, la profondeur est à portée de ce que vous aimez : approfondir un lien, renouveler un goût, finir proprement, quand vous le choisissez. J’y lis une ouverture qui récompense l’engagement."

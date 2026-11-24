@@ -6,6 +6,8 @@ description: "Soleil conjonction Lune dans un thème natal : une naissance à l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lune", "conjonction"]
 weight: 1
 glyph: "☉☌☽"
 definition: "Soleil conjonction Lune signifie une naissance à la nouvelle lune ou presque, le Soleil et la Lune au même endroit du zodiaque ou à quelques degrés l’un de l’autre. Dans un thème, le but et le besoin partent d’un même élan. J’y lis un commencement d’un seul tenant, qui apprend à entendre ses deux voix."

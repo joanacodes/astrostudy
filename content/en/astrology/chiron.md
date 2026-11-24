@@ -5,6 +5,8 @@ description: "Chiron in astrology: the wounded healer in a birth chart, each sig
 date: 2026-10-24
 reviewed: 2026-10-29
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["Chiron"]
 weight: 11
 glyph: "⚷"
 definition: "Chiron is a small icy body orbiting between Saturn and Uranus, named after the centaur healer who could not heal his own wound. In a birth chart it marks the hurt a person keeps circling — and, very often, where they become most able to care for others. It returns to its birth place around age 50."

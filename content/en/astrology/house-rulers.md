@@ -5,6 +5,8 @@ description: "House rulers in astrology: the planet that rules the sign on each 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "houses"
+categories: ["Houses"]
+tags: ["houses"]
 weight: 36
 glyph: "✦"
 definition: "A house ruler is the planet that rules the sign on a house’s cusp. Every house has one, empty or not. Where the ruler sits shows where that house’s story plays out: with the ruler of the 7th in the 10th, partnership and public life run together. Scorpio, Aquarius and Pisces on a cusp give a house two rulers."

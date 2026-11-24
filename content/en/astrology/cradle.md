@@ -5,6 +5,8 @@ description: "The cradle in astrology: an opposition held by two planets between
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["aspect patterns"]
 weight: 11
 glyph: "⚹☍"
 definition: "A cradle is four planets across half the chart: two in opposition, two more between them on one side, linked by three sextiles, the outer pairs also in trine. It describes tension held from below by steps of support, comfortable enough to rest in. One chart in ten or so has a cradle, level with the grand trine."

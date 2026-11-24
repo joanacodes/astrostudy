@@ -5,6 +5,8 @@ description: "Moon trine Uranus in synastry: one person’s freedom and the othe
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Uranus", "trine", "synastry"]
 weight: 89
 glyph: "☽△♅"
 definition: "Moon trine Uranus in synastry means one person’s Uranus is about 120° from the other’s Moon, within 6.8°, in signs that, as a rule, share an element. One person’s independence and the other’s need for security work together, so change rarely feels like a threat. In my readings it’s a freeing ease, worth using on purpose."

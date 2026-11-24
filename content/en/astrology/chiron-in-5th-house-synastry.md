@@ -5,6 +5,8 @@ description: "Their Chiron in your 5th house in synastry: an old hurt and its ge
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "5th house", "synastry", "house overlays"]
 weight: 125
 glyph: "⚷"
 definition: "Their Chiron in your 5th house mixes the other person’s Chiron into your play, creativity, pleasure and romance. In synastry their old hurt, and the gentleness it taught them, meets your joy: they encourage what you make and dare, while your easy delight may brush a sore spot of theirs. It never predicts children."

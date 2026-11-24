@@ -5,6 +5,8 @@ description: "Mercury opposite Saturn in a birth chart: your voice facing other 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Saturn", "opposition"]
 weight: 124
 glyph: "☿☍♄"
 definition: "Mercury opposite Saturn means Mercury and Saturn were about 180° apart when you were born, a configuration found only with Saturn retrograde. In a chart your ideas meet structure across the room: rules, standards and authority, often in other people first. I read it as a polarity that ends with a voice that carries its own authority."

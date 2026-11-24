@@ -5,6 +5,8 @@ description: "Moon square Mercury in a birth chart: head and heart at right angl
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Mercury", "square"]
 weight: 55
 glyph: "☽□☿"
 definition: "Moon square Mercury is a birth with the Moon and Mercury about 90° apart, usually close to a quarter moon. In the chart, feeling and thinking stand at right angles: what you feel and what you conclude keep asking to be reconciled. I read it as friction that trains a perceptive mind, never a mind at war."

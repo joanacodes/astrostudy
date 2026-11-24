@@ -6,6 +6,8 @@ description: "Soleil en Verseau, Lune en Cancer : le seul duo avec la Lune chez
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Verseau", "Lune", "Cancer"]
 weight: 124
 glyph: "☉♒☽♋"
 definition: "Soleil en Verseau, Lune en Cancer place la Lune cinq signes devant le Soleil, dans son propre signe, alors qu’elle grossissait encore vers la pleine lune. Aucun autre duo ne met la Lune chez elle près d’un Soleil en exil. J’y lis un moi tourné vers le monde, avec des besoins enracinés auprès de quelques personnes."

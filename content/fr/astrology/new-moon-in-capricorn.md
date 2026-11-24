@@ -6,6 +6,8 @@ description: "La nouvelle lune en Capricorne, la première après le solstice de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "nouvelle lune", "Capricorne"]
 weight: 45
 glyph: "●♑"
 definition: "La nouvelle lune en Capricorne réunit le Soleil et la Lune en Capricorne : c’est la première après le solstice de décembre, toujours proche du nouvel an. Elle ouvre un mois lunaire à la manière du Capricorne : responsabilités, structure, objectifs comptés en années. Dans un thème natal, elle ne compte qu’à 1° environ d’une planète ou d’un angle."

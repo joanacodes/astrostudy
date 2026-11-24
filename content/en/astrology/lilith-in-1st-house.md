@@ -5,6 +5,8 @@ description: "Lilith in the 1st house in a birth chart: the part you learned to 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "1st house", "houses"]
 weight: 133
 glyph: "⚸"
 definition: "Lilith in the 1st house means Black Moon Lilith, the Moon’s farthest point from Earth, sat in the house that begins at your Ascendant when you were born. I read it as the part you learned to hide showing on the surface, in your presence and manner, and a visible refusal to be managed that people sense first."

@@ -5,6 +5,8 @@ description: "Mercury trine Chiron in synastry: talking about a tender subject c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Chiron", "trine", "synastry"]
 weight: 154
 glyph: "☿△⚷"
 definition: "Mercury trine Chiron in synastry means one person’s Mercury is about 120° from the other’s Chiron, within 5.1°, usually in signs of one element. One person’s way of listening and explaining suits what the other has had to adapt around. I read it as easy understanding, worth turning into practical help rather than leaving at words."

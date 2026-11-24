@@ -6,6 +6,8 @@ description: "Soleil en Poissons, Lune en Taureau : l’eau et la terre en sext
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Poissons", "Lune", "Taureau"]
 weight: 134
 glyph: "☉♓☽♉"
 definition: "Soleil en Poissons, Lune en Taureau met la Lune deux signes devant le Soleil, dans son exaltation, quelques jours après une nouvelle lune. Vénus, maîtresse du signe lunaire, trouve son exaltation dans celui du Soleil. J’y vois un moi imaginatif et dévoué, posé sur des besoins qui demandent comment faire durer les choses."

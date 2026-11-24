@@ -5,6 +5,8 @@ description: "Their Moon in your 10th house in synastry: their feelings in your 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "10th house", "synastry", "house overlays"]
 weight: 22
 glyph: "☽"
 definition: "Their Moon in your 10th house means the other person’s Moon reaches the most public part of your chart: your work, your role, your reputation. In synastry their feelings and care come into your public life: they feel invested in how your work goes, and you may feel supported, or watched, in the part of life others see."

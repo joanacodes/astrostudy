@@ -5,6 +5,8 @@ description: "Neptune transiting the 11th house: about fourteen years when frien
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "11th house", "transits"]
 weight: 47
 glyph: "♆"
 definition: "Neptune transiting the 11th house turns friendship and belonging towards an ideal for about fourteen years as a rule, as Neptune crosses your house of friends, groups and shared hopes. It softens what your chart already says there: friendships built on a dream, causes that feel like callings, and the need to see people as they are."

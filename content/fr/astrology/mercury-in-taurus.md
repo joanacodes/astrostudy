@@ -6,6 +6,8 @@ description: "Mercure en Taureau dans un thème natal : un esprit qui pèse cha
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Taureau"]
 weight: 26
 glyph: "☿♉"
 definition: "Mercure en Taureau place la planète de la pensée et de la parole en terre fixe, dans le signe gouverné par Vénus. On y lit un esprit réfléchi et concret, qui apprend en faisant et en répétant, parle peu mais solidement, et veut de vraies preuves avant de bouger. Environ 1 personne sur 13 née entre 1930 et 2009 l’a."

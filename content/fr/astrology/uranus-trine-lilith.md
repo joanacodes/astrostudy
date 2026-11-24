@@ -6,6 +6,8 @@ description: "Uranus trigone Lilith dans un thème natal : l’originalité et 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Lilith", "trigone"]
 weight: 323
 glyph: "♅△⚸"
 definition: "Uranus trigone Lilith signifie qu’à votre naissance, Uranus et la Lune noire Lilith moyenne étaient à environ 120° d’écart, en général dans des signes du même élément. Dans un thème, l’originalité et la part de vous qui refuse d’être domptée s’entraident : être vous-même sans retouche vient facilement. C’est un aspect personnel, lu par vos maisons."

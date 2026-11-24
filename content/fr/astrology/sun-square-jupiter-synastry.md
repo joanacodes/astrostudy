@@ -6,6 +6,8 @@ description: "Soleil carré Jupiter en synastrie : l’appétit de davantage de
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Jupiter", "carré", "synastrie"]
 weight: 23
 glyph: "☉□♃"
 definition: "Soleil carré Jupiter en synastrie signifie que Jupiter, chez une personne, se trouve à environ 90° du Soleil de l’autre, à 6,8° près. L’appétit de davantage de l’une, plans plus grands, principes plus fermes, horizons plus larges, presse sur le cap de l’autre. J’y lis une friction qui éprouve l’échelle et les convictions, jamais un verdict sur la paire."

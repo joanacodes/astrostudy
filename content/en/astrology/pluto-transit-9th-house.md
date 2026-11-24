@@ -5,6 +5,8 @@ description: "Pluto transiting the 9th house: about twenty-three years in which 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "9th house", "transits"]
 weight: 57
 glyph: "♇"
 definition: "Pluto transiting the 9th house is Pluto’s long passage, about twenty-three years in the middle at London’s latitude, through your house of belief, study, travel and the search for meaning. It tests convictions at the root: the ones you inherited or borrowed tend to loosen, and the ones you keep become your own."

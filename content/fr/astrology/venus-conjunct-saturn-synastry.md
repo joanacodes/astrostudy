@@ -6,6 +6,8 @@ description: "Vénus conjonction Saturne en synastrie : ce que l’une aime, te
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Saturne", "conjonction", "synastrie"]
 weight: 176
 glyph: "♀☌♄"
 definition: "Vénus conjonction Saturne en synastrie signifie que Vénus, chez une personne, se trouve à moins de 6° de Saturne chez l’autre. Ce que la première estime et apprécie tombe là où la seconde tient ses engagements et ses limites : l’affection y est prise au sérieux des deux côtés. J’y lis un lien qui a du poids, jamais une promesse."

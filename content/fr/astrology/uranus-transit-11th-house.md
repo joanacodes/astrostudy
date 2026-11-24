@@ -6,6 +6,8 @@ description: "Uranus en transit en maison 11 : un peu moins de sept ans de cerc
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Uranus", "maison 11", "transits"]
 weight: 35
 glyph: "♅"
 definition: "Uranus en transit en maison 11, c’est la planète de l’avenir qui traverse la maison des avenirs partagés, un peu moins de sept ans en général : les amis, les groupes, les réseaux et les espoirs. Ce transit remue ce que votre thème dit déjà de l’appartenance : des cercles nouveaux, des causes qui changent, l’envie d’appartenir sans rentrer dans le moule."

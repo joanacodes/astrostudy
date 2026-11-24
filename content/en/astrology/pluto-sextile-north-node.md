@@ -5,6 +5,8 @@ description: "Pluto sextile North Node in a birth chart: renewal as a bridge fro
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "North Node", "sextile"]
 weight: 361
 glyph: "♇⚹☊"
 definition: "Pluto sextile North Node is a 60° angle between Pluto and the North Node at birth, which also puts Pluto 120° from the South Node. In a chart, renewal links both ends of the nodal axis: it flows easily with what you know and opens a way towards what you are learning, as long as you take it."

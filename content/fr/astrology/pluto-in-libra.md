@@ -6,6 +6,8 @@ description: "Pluton en Balance dans un thème natal : une génération qui ref
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "Balance"]
 weight: 115
 glyph: "♇♎"
 definition: "Pluton en Balance fait entrer le changement profond dans le signe des plateaux, l’air cardinal gouverné par Vénus. Ce placement est celui de la génération née d’octobre 1971 à août 1984, environ 1 personne sur 7 née de 1930 à 2009. On y lit des relations refondées : l’équité, l’égalité, les conditions entre deux personnes."

@@ -5,6 +5,8 @@ description: "Can astrology predict a court case? No chart can say who wins, wha
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Readings"]
+tags: ["limits of astrology"]
 weight: 60
 glyph: "✦"
 definition: "No. No chart, transit or horary question can tell who will win a case, what a court will decide, how long it will take, or whether you should settle. Horary astrologers once judged lawsuits; I never read legal proceedings. A chart can describe how you handle conflict and pressure. Your case belongs with a lawyer."

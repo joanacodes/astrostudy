@@ -5,6 +5,8 @@ description: "Lilith in the 11th house in a birth chart: a self that didn’t fi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "11th house", "houses"]
 weight: 143
 glyph: "⚸"
 definition: "Lilith in the 11th house means Black Moon Lilith, the Moon’s farthest point from Earth, sat in the house of friends, groups and shared hopes when you were born. I read it as a self that didn’t fit the group, kept back to stay included, and a refusal of membership at the price of silence."

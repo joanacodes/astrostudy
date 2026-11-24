@@ -5,6 +5,8 @@ description: "Venus square Saturn in a birth chart: a heavy reputation and a kin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Saturn", "square"]
 weight: 167
 glyph: "♀□♄"
 definition: "Venus square Saturn means your chart has Venus and Saturn about 90° apart, typically three signs away. In a chart, what you love and what you feel you must earn rub against each other: affection held back by caution, then built to last. I read it as love learned slowly, never love denied."

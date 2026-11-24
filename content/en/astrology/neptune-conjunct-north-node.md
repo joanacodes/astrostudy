@@ -5,6 +5,8 @@ description: "Neptune conjunct North Node in a birth chart: imagination and comp
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "North Node", "conjunction"]
 weight: 345
 glyph: "♆☌☊"
 definition: "Neptune conjunct North Node means Neptune within a few degrees of the North Node at your birth, and so opposite the South Node. In a chart, the capacity you grow into by practice is Neptune's: imagination, compassion, trust in what can't be measured. I read it as a direction to practise, not a destiny to dream about."

@@ -5,6 +5,8 @@ description: "Mars conjunct Lilith in synastry: one person’s drive lands on th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Lilith", "conjunction", "synastry"]
 weight: 241
 glyph: "♂☌⚸"
 definition: "Mars conjunct Lilith in synastry means one person’s Mars and the other’s mean Black Moon Lilith share a degree, within 6°. One person’s drive arrives where the other keeps what they learned to hide and won’t have tamed. I read it as a charged meeting, felt as permission or exposure, that goes well when both people decide its pace."

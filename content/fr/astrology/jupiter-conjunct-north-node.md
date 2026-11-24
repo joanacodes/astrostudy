@@ -6,6 +6,8 @@ description: "Jupiter conjonction Nœud Nord dans un thème natal : le sens uni
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Nœud Nord", "conjonction"]
 weight: 270
 glyph: "♃☌☊"
 definition: "Jupiter conjonction Nœud Nord, c’est Jupiter à quelques degrés du Nœud Nord, le point lu comme votre direction de croissance, et donc en face du Nœud Sud. Dans un thème, le sens et la pratique se rejoignent : la compréhension donne une raison au chemin moins familier. J’y lis un chemin à pratiquer plutôt qu’un destin."

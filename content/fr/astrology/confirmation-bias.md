@@ -6,6 +6,8 @@ description: "Le biais de confirmation et l’astrologie : l’expérience 2-4-
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["L’astrologie, testée"]
+tags: ["test", "biais cognitifs"]
 weight: 12
 glyph: "✦"
 definition: "Le biais de confirmation est la tendance à chercher, lire et retenir les informations de la façon qui conforte ce que l’on croit déjà. Le psychologue anglais Peter Wason l’a nommé à partir d’expériences publiées dès 1960. La recherche l’a observé chez les personnes qui croient à l’astrologie : il peut donner l’impression d’une confirmation sans que rien n’ait été testé."

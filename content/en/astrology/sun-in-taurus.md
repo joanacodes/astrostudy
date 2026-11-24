@@ -5,6 +5,8 @@ description: "Sun in Taurus in a birth chart: an identity organised around what 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Taurus"]
 weight: 2
 glyph: "☉♉"
 definition: "The Sun is in Taurus, fixed earth ruled by Venus, for births from about 20 April to 20 May. As a Sun sign I read it as an identity organised around what you value, a vitality restored through the body and the senses, and a purpose felt as loyalty to something rather than a race towards it."

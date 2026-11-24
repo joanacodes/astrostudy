@@ -6,6 +6,8 @@ description: "Saturne en transit en maison 10 : environ trois ans de Saturne ch
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Saturne", "maison 10", "transits"]
 weight: 22
 glyph: "♄"
 definition: "Saturne en transit en maison 10, c’est Saturne chez soi pendant environ trois ans, dans la maison de son propre signe, à partir de votre Milieu du Ciel : le travail, les responsabilités, la réputation, le rôle public. Lentement, et pour le long terme, ce transit structure les ambitions déjà écrites dans votre thème."

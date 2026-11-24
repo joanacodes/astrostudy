@@ -6,6 +6,8 @@ description: "Pluton de l’autre dans votre maison 9 en synastrie : sa profond
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "maison 9", "synastrie", "superpositions de maisons"]
 weight: 117
 glyph: "♇"
 definition: "Pluton de l’autre dans votre maison 9 conduit la profondeur d’une autre personne vers vos croyances, vos longues études et vos voyages lointains. En synastrie, les convictions sont éprouvées à la racine, les débats vont loin, et l’autre voit parfois ses certitudes ébranlées par les vôtres. Aucune conversion n’y est prédite : chaque personne garde le droit de croire autrement."

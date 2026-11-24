@@ -6,6 +6,8 @@ description: "Jupiter carré Neptune en synastrie : les principes de l’une fr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Neptune", "carré", "synastrie"]
 weight: 263
 glyph: "♃□♆"
 definition: "Jupiter carré Neptune en synastrie signifie que Jupiter, chez une personne, se trouve à environ 90° de Neptune chez l’autre, à 4,25° près. Le besoin de principes clairs rencontre sans cesse des idéaux qui refusent d’être épinglés. La friction apprend le discernement ; des années entières la portent, et Neptune n’y veut jamais dire tromperie."

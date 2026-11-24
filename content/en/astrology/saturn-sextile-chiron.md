@@ -5,6 +5,8 @@ description: "Saturn sextile Chiron in a birth chart: an opening between discipl
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Chiron", "sextile"]
 weight: 291
 glyph: "♄⚹⚷"
 definition: "Saturn sextile Chiron means Saturn and Chiron were about 60° apart at birth, as they were in 1955–59 and 1971–73. In a chart it connects structure with the way you adapt around a lasting difficulty: routines that make things workable, and support asked for in proportion, whenever you use it."

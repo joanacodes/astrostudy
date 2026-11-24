@@ -6,6 +6,8 @@ description: "Jupiter conjonction Pluton dans un thème natal : croissance et t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Pluton", "conjonction"]
 weight: 255
 glyph: "♃☌♇"
 definition: "Jupiter conjonction Pluton, c’est la rencontre des deux planètes à quelques degrés près, qui revient tous les 12 ou 13 ans et dure des semaines ou des mois. Dans un thème, elle unit l’envie de grandir à celle de transformer depuis la racine. Toutes les personnes nées pendant une rencontre la partagent ; sa maison la rend vôtre."

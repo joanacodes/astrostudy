@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["maison 5", "maison V"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["maison 5"]
 weight: 5
 glyph: "V"
 definition: "La maison 5 est la cinquième des douze maisons d’un thème natal. Les astrologues y lisent ce que vous faites pour la joie : la créativité, le plaisir, le jeu et les amours, et la façon dont vous vous montrez quand personne ne vous note. La tradition l’appelait la Fortune favorable et y plaçait la joie de Vénus."

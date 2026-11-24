@@ -5,6 +5,8 @@ description: "Chiron in the 12th house in a birth chart: adapting out of sight, 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "12th house", "houses"]
 weight: 132
 glyph: "⚷"
 definition: "Chiron in the 12th house means Chiron sat in the house of what happens out of sight — solitude, rest, the inner life — which tradition called the Bad Spirit. It describes adapting in private around a sensitivity that is often quiet. It predicts no confinement or illness, and it needs the birth time."

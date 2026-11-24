@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["maison 12", "maison XII"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["maison 12"]
 weight: 12
 glyph: "XII"
 definition: "La maison 12 est la douzième et dernière maison d’un thème natal, juste avant l’ascendant. La tradition lui donnait l’enfermement et les ennemis cachés ; les astrologues y lisent aujourd’hui ce qui se passe loin des regards — la solitude, le repos, le travail discret, le soin donné ou reçu sans bruit, et la vie intérieure."

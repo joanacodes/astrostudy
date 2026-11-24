@@ -5,6 +5,8 @@ description: "The splay chart in astrology: planets gathered in a few uneven clu
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["chart shapes"]
 weight: 23
 glyph: "✦"
 definition: "A splay chart has its planets in a few irregular clusters spread round the wheel, often pairs or conjunctions at uneven distances, with gaps between them. Among Marc Edmund Jones’s seven shapes, none is less regular. I read it as several centres of gravity, each with its own business. With no agreed definition, it has no count here."

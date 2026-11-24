@@ -6,6 +6,8 @@ description: "Soleil en maison 3 dans un thème natal : un but trouvé tout pr�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "maison 3", "maisons"]
 weight: 3
 glyph: "☉"
 definition: "Le Soleil en maison 3 signifie que le Soleil se trouvait dans la maison de l’esprit quotidien à votre naissance, sous l’horizon, dans les heures qui suivent le milieu de la nuit. J’y lis une identité liée à votre voix, et un but trouvé dans la conversation, l’apprentissage et les personnes à portée de main. Il faut l’heure de naissance."

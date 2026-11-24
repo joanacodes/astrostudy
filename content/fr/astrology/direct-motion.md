@@ -6,6 +6,8 @@ description: "Le mouvement direct en astrologie : une planète qui avance dans 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "dignities"
+categories: ["Planètes et points"]
+tags: ["rétrograde"]
 weight: 1
 glyph: "D"
 definition: "Le mouvement direct est la marche ordinaire d’une planète vers l’avant dans le zodiaque, du Bélier vers le Taureau et au-delà, vue depuis la Terre. Le Soleil et la Lune sont toujours directs, et chaque planète l’est la plupart du temps, entre deux rétrogradations. Dans un thème natal, c’est l’état par défaut : il n’ajoute aucun sens."

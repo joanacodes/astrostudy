@@ -5,6 +5,8 @@ description: "Venus square Jupiter in a birth chart: generosity with a question 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Jupiter", "square"]
 weight: 162
 glyph: "♀□♃"
 definition: "Venus square Jupiter means that, at your birth, Venus and Jupiter were some 90° apart, most often in signs that share a modality. In a chart, your sense of value and your wish for more rub against each other, so generosity can outrun its measure. I read it as a friction whose lesson is proportion: promises you can keep."

@@ -6,6 +6,8 @@ description: "Soleil en Verseau, Lune en Vierge : un quinconce peu après la pl
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Verseau", "Lune", "Vierge"]
 weight: 126
 glyph: "☉♒☽♍"
 definition: "Soleil en Verseau, Lune en Vierge relie deux signes séparés de cinq, air fixe et terre mutable, peu après une pleine lune. J’y vois un moi qui réfléchit à la façon dont des systèmes entiers pourraient mieux marcher, avec des émotions qui se posent une fois la tâche du moment bien faite."

@@ -6,6 +6,8 @@ description: "Lune carré Uranus en synastrie : l’une demande de la proximit�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Uranus", "carré", "synastrie"]
 weight: 88
 glyph: "☽□♅"
 definition: "Lune carré Uranus en synastrie : Uranus d’une personne à environ 90° de la Lune de l’autre, à 6,8° près. Le besoin de familier de l’une et le besoin d’espace de l’autre culminent souvent au même moment. Pour moi, c’est une friction qui peut apprendre à deux personnes une sécurité capable de bouger, jamais la preuve d’un mauvais assortiment."

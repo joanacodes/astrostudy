@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["Milieu du Ciel", "milieu du ciel", "MC"]
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["Milieu du Ciel", "angles"]
 weight: 3
 glyph: "MC"
 definition: "Le Milieu du Ciel, ou MC, est le point où le zodiaque croisait le méridien, au-dessus de l’horizon, à la minute et au lieu de votre naissance. Les astrologues y lisent votre direction dans la vie publique : le travail et la réputation que vous construisez, ce que vous voulez qu’on retienne de vous. Il demande l’heure de naissance."

@@ -6,6 +6,8 @@ description: "Jupiter sextile Chiron en synastrie : la vue large de l’une, le
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Chiron", "sextile", "synastrie"]
 weight: 272
 glyph: "♃⚹⚷"
 definition: "Jupiter sextile Chiron en synastrie signifie que Jupiter, chez une personne, se trouve à environ 60° de Chiron chez l’autre, à 3° près. Une vue plus large et la sagesse pratique de quelqu’un qui s’est adapté peuvent s’offrir et se recevoir dans les deux sens, dès que quelqu’un demande. De longues périodes de naissances le portent ; je lis ses maisons."

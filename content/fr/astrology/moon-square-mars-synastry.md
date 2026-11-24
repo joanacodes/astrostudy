@@ -6,6 +6,8 @@ description: "Lune carré Mars en synastrie : l’une va vite quand l’autre a
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Mars", "carré", "synastrie"]
 weight: 73
 glyph: "☽□♂"
 definition: "Dans Lune carré Mars en synastrie, un quart du zodiaque, à 6,8° près, sépare la Lune d’une personne et Mars, dans le thème de l’autre. Le rythme de l’une accroche sans cesse les besoins de l’autre. À mes yeux, ce carré est une friction qui apprend à poser ses limites avant qu’on les franchisse, pas un mauvais caractère."

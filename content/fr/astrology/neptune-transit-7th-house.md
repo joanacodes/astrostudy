@@ -6,6 +6,8 @@ description: "Neptune en transit en maison 7 : près de treize ans où le coupl
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Neptune", "maison 7", "transits"]
 weight: 43
 glyph: "♆"
 definition: "Neptune en transit en maison 7 ouvre une longue saison au descendant : près de treize ans au milieu dans votre maison des partenaires. Ce transit colore les liens en tête-à-tête : dévouement, compassion, désir d’âme sœur, lignes qui se brouillent. Ce passage ne désigne aucun trompeur et ne clôt aucun lien."

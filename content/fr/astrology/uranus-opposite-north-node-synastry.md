@@ -6,6 +6,8 @@ description: "Uranus opposition Nœud Nord en synastrie : Uranus, chez l’une,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Nœud Nord", "opposition", "synastrie"]
 weight: 340
 glyph: "♅☍☊"
 definition: "Uranus opposition Nœud Nord en synastrie signifie qu’Uranus d’une personne se trouve à environ 180° du Nœud Nord de l’autre, à 4° près, donc sur son Nœud Sud. L’appétit de changement de l’une remue ce que l’autre connaît déjà bien, alors que sa croissance va dans l’autre sens. Le nœud vrai fixe ses fenêtres, les maisons son sens."

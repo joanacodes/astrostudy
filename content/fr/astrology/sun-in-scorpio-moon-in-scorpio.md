@@ -6,6 +6,8 @@ description: "Soleil en Scorpion, Lune en Scorpion : les deux luminaires dans l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Scorpion", "Lune"]
 weight: 92
 glyph: "☉♏☽♏"
 definition: "Soleil en Scorpion, Lune en Scorpion place les deux luminaires dans le même signe d’eau fixe, autour de la nouvelle lune en Scorpion, séparés de 30° au plus, la Lune dans sa chute. J’y lis une seule longue plongée : une identité et des besoins qui vont tous deux au fond, et veulent tous deux la vérité."

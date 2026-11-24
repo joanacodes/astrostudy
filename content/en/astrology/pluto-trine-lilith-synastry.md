@@ -5,6 +5,8 @@ description: "Pluto trine Lilith in synastry: one person’s depth lets the othe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "Lilith", "trine", "synastry"]
 weight: 369
 glyph: "♇△⚸"
 definition: "Pluto trine Lilith in synastry happens when a trine, within 3.4°, links one chart’s Pluto with another’s mean Black Moon Lilith. One person’s ease with depth leaves the other’s untamed side room to breathe, and that side feeds the first person’s renewals. I read it as permission, real when it is felt as well as given."

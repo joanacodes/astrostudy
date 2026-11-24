@@ -6,6 +6,8 @@ description: "Lune sextile Chiron en synastrie : le savoir-faire durement acqui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Chiron", "sextile", "synastrie"]
 weight: 102
 glyph: "☽⚹⚷"
 definition: "Lune sextile Chiron en synastrie signifie que la Lune d’une personne se trouve à environ 60° du Chiron de l’autre, à 4,8° près. Ce que l’une a compris en vivant avec une sensibilité durable reste à portée du besoin de réconfort de l’autre. J’y lis une expérience offerte, qui sert dès qu’on la sollicite."

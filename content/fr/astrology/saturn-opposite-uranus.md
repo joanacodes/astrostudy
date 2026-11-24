@@ -6,6 +6,8 @@ description: "Saturne opposition Uranus dans un thème natal : stabilité et ch
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Uranus", "opposition"]
 weight: 279
 glyph: "♄☍♅"
 definition: "Saturne opposition Uranus signifie qu’environ 180° séparaient Saturne et Uranus à votre naissance, ce qui s’est produit de 1964 à 1967 puis en 2008–2009. Dans un thème, cette opposition place le besoin de stabilité et le besoin de changement aux deux extrémités, et demande de les équilibrer plutôt que de choisir un camp."

@@ -5,6 +5,8 @@ description: "Neptune sextile Chiron in synastry: one person’s imagination off
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Chiron", "sextile", "synastry"]
 weight: 347
 glyph: "♆⚹⚷"
 definition: "Neptune sextile Chiron in synastry offers one person’s imagination to the other’s oldest adaptation: the two bodies stand about 60° apart, within 2.4°. That imagination suggests a kinder way of seeing an old limit, which helps once it is taken up. Whole months of births share it, and the houses make it particular."

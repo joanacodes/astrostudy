@@ -6,6 +6,8 @@ description: "Uranus en maison 6 dans un thème natal : un travail quotidien à
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "maison 6", "maisons"]
 weight: 90
 glyph: "♅"
 definition: "Uranus en maison 6 place la planète du changement dans la maison du travail quotidien, des routines, des collègues et du soin du corps, une maison cadente dont le signe naturel est la Vierge. J’y lis des journées menées selon votre propre méthode, et un talent pour améliorer la façon de faire. Rien n’y prédit la santé."

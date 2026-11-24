@@ -6,6 +6,8 @@ description: "Saturne de l’autre dans votre maison 5 en synastrie : patience 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 77
 glyph: "♄"
 definition: "Saturne de l’autre dans votre maison 5 porte Saturne, chez une autre personne, jusque dans vos plaisirs : le jeu, l’amour, les loisirs, ce que vous créez pour la joie. En synastrie, cela donne de la discipline à votre créativité et de la patience à une cour amoureuse, ou fait sentir le plaisir surveillé ; rien n’y prédit d’enfant."

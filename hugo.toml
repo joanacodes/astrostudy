@@ -270,17 +270,20 @@ enableGitInfo = true
   [markup.goldmark.extensions]
     typographer = true
 
-# "You might also read" under a blog article: the articles sharing its categories and tags
+# "Must reads" at the bottom of every article and entry (layouts/_partials/must-reads.html): the pages
+# sharing its tags first, then its category. Tags weigh more than the category: an entry is closer to
+# the pages about its own planets, signs and houses than to the other entries on its shelf. An entry's
+# categories and tags come from the page plan (tools/plan/tags.mjs).
 [related]
   includeNewer = true
   threshold = 20
   toLower = true
   [[related.indices]]
     name = "categories"
-    weight = 100
+    weight = 60
   [[related.indices]]
     name = "tags"
-    weight = 80
+    weight = 100
   [[related.indices]]
     name = "date"
     weight = 10

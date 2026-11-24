@@ -5,6 +5,8 @@ description: "Mercury conjunct Uranus in synastry: one person’s way of thinkin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Uranus", "conjunction", "synastry"]
 weight: 136
 glyph: "☿☌♅"
 definition: "Mercury conjunct Uranus in synastry happens when one person’s Mercury falls within 6° of the other’s Uranus. The first person’s words land on the second’s urge to do things differently, so a conversation can overturn a plan in minutes. I read it as a quick, inventive current that needs one fixed point to come back to."

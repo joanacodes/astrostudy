@@ -6,6 +6,8 @@ description: "Le Vertex en astrologie : le point où le premier vertical croise
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["Vertex", "points sensibles"]
 weight: 14
 glyph: "✦"
 definition: "Le Vertex est un point calculé, l’un des deux endroits où le premier vertical, le cercle qui passe par le point est, le point au-dessus de nos têtes et le point ouest, croise le zodiaque. Il avance aussi vite que les angles. Les astrologues qui l’emploient y lisent des rencontres qui comptent ; d’autres l’ignorent."

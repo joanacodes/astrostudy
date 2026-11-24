@@ -5,6 +5,8 @@ description: "The boomerang yod in astrology: a yod with a fourth planet opposit
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["aspect patterns"]
 weight: 6
 glyph: "⚻☍"
 definition: "A boomerang yod is a yod with a fourth planet opposite its apex: two planets in sextile, both quincunx a third, and a fourth across from that third, between the first two. It gives the yod’s constant adjusting a counterweight and a way back. Rarer than a plain yod, it marks about 1 chart in 27."

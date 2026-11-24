@@ -6,6 +6,8 @@ description: "Astrologie et santé mentale : pourquoi aucune position n’est u
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Lectures"]
+tags: ["santé mentale"]
 weight: 66
 glyph: "✦"
 definition: "L’astrologie peut vous donner des mots pour ce que vous ressentez, et l’idée que les temps durs ont leurs saisons. Elle ne peut ni diagnostiquer, ni prédire, ni soigner un trouble psychique, et aucune position n’est un symptôme. Une lecture peut accompagner des soins, jamais les remplacer : pour soigner, la bonne porte est celle d’un médecin ou d’un thérapeute qualifié."

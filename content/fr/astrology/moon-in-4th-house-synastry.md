@@ -6,6 +6,8 @@ description: "La Lune de l’autre dans votre maison 4 en synastrie : son besoi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 16
 glyph: "☽"
 definition: "La Lune de l’autre dans votre maison 4 place sa Lune à la racine de votre thème, parmi votre foyer, votre famille et votre vie privée. En synastrie, son besoin de réconfort trouve un foyer chez vous : cette personne sent qu’elle a sa place dans votre monde privé, et vous y recevez du soin."

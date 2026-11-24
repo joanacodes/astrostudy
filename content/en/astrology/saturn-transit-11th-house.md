@@ -5,6 +5,8 @@ description: "Saturn transiting the 11th house: about three years when friendshi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "11th house", "transits"]
 weight: 23
 glyph: "♄"
 definition: "Saturn transiting the 11th house is the season, usually just under three years, when Saturn’s sorting reaches your friends, groups and shared hopes. Belonging is reviewed on your chart’s own terms: fewer and truer bonds, responsibilities taken on in a group, and plans that turn hopes into steps."

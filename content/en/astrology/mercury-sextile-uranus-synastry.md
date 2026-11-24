@@ -5,6 +5,8 @@ description: "Mercury sextile Uranus in synastry: one person’s questions meet 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Uranus", "sextile", "synastry"]
 weight: 137
 glyph: "☿⚹♅"
 definition: "Mercury sextile Uranus in synastry links one person’s Mercury with the other’s Uranus at about 60°, within 3.6°. When the first brings a problem, the second tends to find an angle nobody tried, and the first can put it into workable words. I read it as a door to fresh ideas that only opens when someone knocks."

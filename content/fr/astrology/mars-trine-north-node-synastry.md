@@ -6,6 +6,8 @@ description: "Mars trigone Nœud Nord en synastrie : l’élan de l’une souti
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Nœud Nord", "trigone", "synastrie"]
 weight: 249
 glyph: "♂△☊"
 definition: "Mars trigone Nœud Nord en synastrie signifie que Mars, chez une personne, est à 120° du Nœud Nord de l’autre, à 5,1° près, et donc à 60° de son Nœud Sud. L’élan de l’une coule vers la croissance de l’autre, ami de ses forces anciennes. J’y lis un soutien qui tient compagnie, la pratique restant l’affaire de l’autre."

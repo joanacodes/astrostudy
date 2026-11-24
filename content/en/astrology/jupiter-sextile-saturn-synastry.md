@@ -5,6 +5,8 @@ description: "Jupiter sextile Saturn in synastry: one person’s eye for opening
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Saturn", "sextile", "synastry"]
 weight: 252
 glyph: "♃⚹♄"
 definition: "Jupiter sextile Saturn in synastry means one person’s Jupiter is about 60° from the other’s Saturn, within 3°. One sees where something could grow, the other how to make it hold, and the link works once someone acts on it. Whole birth months share it; the houses make it personal."

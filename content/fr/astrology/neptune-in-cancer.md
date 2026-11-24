@@ -6,6 +6,8 @@ description: "Neptune en Cancer dans un thème natal : des idéaux de foyer et 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Cancer"]
 weight: 100
 glyph: "♆♋"
 definition: "Neptune en Cancer, c’est la planète de la compassion et de l’aspiration dans le signe d’eau cardinal du foyer et de l’appartenance. Neptune y était de 1901 à 1916, et y revient en 2065 : les personnes nées alors auraient plus de 110 ans. On y lit des idéaux de foyer, de patrie et de famille, l’envie d’un port où revenir."

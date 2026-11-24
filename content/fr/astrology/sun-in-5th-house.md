@@ -6,6 +6,8 @@ description: "Soleil en maison 5 dans un thème natal : la maison du signe du S
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "maison 5", "maisons"]
 weight: 5
 glyph: "☉"
 definition: "Le Soleil en maison 5 signifie que le Soleil était sous l’horizon ouest dans la soirée à votre naissance, dans la maison de la création, du jeu et du plaisir, dont le signe naturel est le Lion. J’y lis un moi qui prend vie dans ce qu’il fait et savoure pour lui-même. Il ne dit rien des enfants."

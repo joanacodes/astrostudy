@@ -5,6 +5,8 @@ description: "Sun in Libra, Moon in Aquarius: an air trine near the first quarte
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra", "Moon", "Aquarius"]
 weight: 83
 glyph: "☉♎☽♒"
 definition: "Sun in Libra, Moon in Aquarius places both lights in air, with Aquarius four signs on from Libra, a week or more after a new moon. In my reading, a self built on fair dealing between particular people, with needs that rest on friendship, principle and a little room to breathe."

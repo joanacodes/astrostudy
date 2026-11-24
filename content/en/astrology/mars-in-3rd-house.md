@@ -5,6 +5,8 @@ description: "Mars in the 3rd house in a birth chart: drive that goes into words
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "3rd house", "houses"]
 weight: 51
 glyph: "♂"
 definition: "With Mars in the 3rd house, the planet of drive works in the house of the everyday mind: thinking, talking, learning, the people nearby and short journeys. It describes drive that works through words: you decide fast, speak frankly and enjoy a lively debate. Reading it needs an exact birth time."

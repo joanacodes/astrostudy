@@ -6,6 +6,8 @@ description: "Lune trigone Pluton en synastrie : la profondeur de l’une et le
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Pluton", "trigone", "synastrie"]
 weight: 99
 glyph: "☽△♇"
 definition: "Lune trigone Pluton en synastrie : Pluton d’une personne à environ 120° de la Lune de l’autre, à 6,8° près, d’habitude dans un même élément. La profondeur de l’une et son aptitude à se renouveler conviennent aux émotions de l’autre : les émotions fortes se partagent sans alarme. J’y lis une proximité calme et résistante, qui mérite d’être nommée."

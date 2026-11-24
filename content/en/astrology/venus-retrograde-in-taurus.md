@@ -5,6 +5,8 @@ description: "Venus retrograde in Taurus, Venus’s own sign: why none falls the
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Venus", "retrograde", "Venus retrograde", "Taurus"]
 weight: 14
 glyph: "♀℞♉"
 definition: "Venus retrograde in Taurus would be Venus, seen from Earth, backing through one of its own signs for about six weeks. None falls there between 2000 and 2040: the nearest turn in Aries and in Gemini. I read it as what you chose to keep, valued again slowly, in the house Taurus occupies in your chart."

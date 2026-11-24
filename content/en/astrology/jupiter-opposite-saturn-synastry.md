@@ -5,6 +5,8 @@ description: "Jupiter opposite Saturn in synastry: one person argues for more, t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Saturn", "opposition", "synastry"]
 weight: 255
 glyph: "♃☍♄"
 definition: "Jupiter opposite Saturn in synastry means one person’s Jupiter is about 180° from the other’s Saturn, within 5°. Growth and possibility sit at one end, limits and durability at the other, and each person sees what the other leaves out. Shared by whole birth months, it’s a seesaw I read through the houses, never a rivalry."

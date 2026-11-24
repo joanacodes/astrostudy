@@ -6,6 +6,8 @@ description: "Pluton en maison 7 dans un thème natal : des relations qui vous 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluton", "maison 7", "maisons"]
 weight: 115
 glyph: "♇"
 definition: "Pluton en maison 7 fait face au soi depuis l’autre côté du thème, dans la maison du couple, du mariage, des contrats et des adversaires déclarés. On y lit des relations qui vous transforment, et la confiance et le pouvoir travaillés entre deux personnes. En Placidus, cette maison commence au descendant : il faut donc une heure de naissance précise."

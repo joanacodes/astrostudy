@@ -5,6 +5,8 @@ description: "Mercury square Lilith in a birth chart: the honest thought and the
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Lilith", "square"]
 weight: 147
 glyph: "☿□⚸"
 definition: "Mercury square Lilith puts your words at a right angle to Black Moon Lilith, which astrologers link with what you were taught to keep hidden. In a chart, saying what you think and saying what’s acceptable pull in different directions. The friction, as I read it, is the making of an honest, well-aimed voice, not a fault."

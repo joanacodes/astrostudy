@@ -5,6 +5,8 @@ description: "Saturn in the 5th house in a birth chart: joy and play you had to 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "5th house", "houses"]
 weight: 77
 glyph: "♄"
 definition: "With Saturn in the 5th house, the planet of rules has moved into the house of play: creativity, pleasure, romance, the things you do for joy. It describes fun that needs permission at first, creativity that becomes a craft, and love taken seriously from the start. Tradition gave this house children; I read it in an adult’s life."

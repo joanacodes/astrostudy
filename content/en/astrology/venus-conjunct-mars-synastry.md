@@ -5,6 +5,8 @@ description: "Venus conjunct Mars in synastry: what one person finds worth havin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Mars", "conjunction", "synastry"]
 weight: 166
 glyph: "♀☌♂"
 definition: "Venus conjunct Mars in synastry means one person’s Venus sits within 6° of the other’s Mars. What one person finds attractive or worth having is exactly where the other puts their energy. I read it as quick, mutual interest, in couples, friendships and teams alike, never as a verdict on where a relationship goes."

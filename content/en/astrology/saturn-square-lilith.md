@@ -5,6 +5,8 @@ description: "Saturn square Lilith in a birth chart: friction between the rules 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Lilith", "square"]
 weight: 297
 glyph: "♄□⚸"
 definition: "Saturn square Lilith sets Saturn and mean Black Moon Lilith about 90° apart at birth, usually in signs of the same modality. In a chart, authority and your instinct for self-rule rub against each other: a friction that teaches which rules protect something and which only keep you small, and how to keep the first kind."

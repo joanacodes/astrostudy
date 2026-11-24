@@ -6,6 +6,8 @@ description: "Jupiter opposition Chiron en synastrie : les principes de l’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Chiron", "opposition", "synastrie"]
 weight: 275
 glyph: "♃☍⚷"
 definition: "Jupiter opposition Chiron en synastrie signifie que Jupiter, chez une personne, se trouve à environ 180° de Chiron chez l’autre, à 5° près. Des principes font face à l’expérience de quelqu’un qui s’est adapté à une limite durable, et chaque bout voit ce qui manque à l’autre. Des années entières la partagent ; je la lis dans les maisons, avec consentement."

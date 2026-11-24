@@ -5,6 +5,8 @@ description: "Sun trine Pluto in a birth chart: depth that moves with who you ar
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pluto", "trine"]
 weight: 36
 glyph: "☉△♇"
 definition: "Sun trine Pluto means the Sun and Pluto stood a third of the zodiac apart at your birth, usually in one element. In a chart your sense of self and your capacity for depth and renewal work together easily: you recover, and you go deep without forcing. I read it as a calm strength that shows most under pressure."

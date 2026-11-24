@@ -6,6 +6,8 @@ description: "Neptune carré Lilith dans un thème natal : l’envie de plaire 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Lilith", "carré"]
 weight: 342
 glyph: "♆□⚸"
 definition: "Avec Neptune carré Lilith, Neptune et la Lune noire Lilith moyenne se trouvent à environ 90° d’écart, comme pour environ 1 personne sur 15. Dans un thème, l’envie d’apaiser, de se fondre et de plaire frotte contre la part de vous qui refuse d’être domptée, une friction qui apprend la bienveillance sans abandon de soi."

@@ -6,6 +6,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["solar return"]
 family: "cycles"
+categories: ["Transits and cycles"]
+tags: ["Sun", "planetary returns"]
 weight: 46
 glyph: "☉☌☉"
 definition: "A solar return is the chart cast for the moment each year when the Sun comes back to its exact birth degree, on your birthday or a day either side. It is read as the tone of the year ahead: which areas of life are emphasised, and how. It never replaces the birth chart, and predicts no event."

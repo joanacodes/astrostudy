@@ -5,6 +5,8 @@ description: "The seesaw chart in astrology: two groups of planets facing each o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["chart shapes"]
 weight: 21
 glyph: "✦"
 definition: "A seesaw chart has its planets in two groups on opposite sides of the wheel, with empty space between them on both sides. Marc Edmund Jones listed it among his seven shapes. I read it as a life organised around two poles that ask to be balanced, not chosen between. Definitions differ too much between authors to count it."

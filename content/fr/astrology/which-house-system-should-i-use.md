@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["système de maisons", "systèmes de maisons"]
 family: "houses"
+categories: ["Maisons"]
+tags: ["systèmes de maisons"]
 weight: 39
 glyph: "✦"
 definition: "Un système de maisons est la règle qui découpe un thème natal en douze maisons, et chaque système place les cuspides à sa façon. En Whole Sign, chaque signe est une maison ; les maisons égales comptent 30° depuis l’ascendant ; Placidus et les autres systèmes par quadrants font commencer quatre maisons aux angles. J’utilise Placidus. Tenez-vous-en à un seul."

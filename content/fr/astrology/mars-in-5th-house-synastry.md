@@ -6,6 +6,8 @@ description: "Mars de l’autre dans votre maison 5 en synastrie : son élan da
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 53
 glyph: "♂"
 definition: "Mars de l’autre dans votre maison 5 signifie que Mars, dans le thème de cette personne, tombe là où vous jouez, créez et aimez. En synastrie, son élan change le plaisir en défi : vous osez davantage, en création comme en amour, et l’autre aime relever le défi de gagner votre attention ; rien n’y prédit d’enfant."

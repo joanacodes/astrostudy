@@ -5,6 +5,8 @@ description: "Mars in Aquarius in a birth chart: drive for ideas, causes and bet
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Aquarius"]
 weight: 59
 glyph: "♂♒"
 definition: "Mars in Aquarius puts the planet of action into fixed air, a sign ruled by Uranus in modern tropical astrology and by Saturn in the tradition; I read both. It describes drive sparked by ideas: you act for causes and for the group, ask what a rule is for, and hold firm to your principles."

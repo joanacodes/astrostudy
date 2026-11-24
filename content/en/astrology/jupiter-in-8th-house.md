@@ -5,6 +5,8 @@ description: "Jupiter in the 8th house in a birth chart: growth through intimacy
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "8th house", "houses"]
 weight: 68
 glyph: "♃"
 definition: "Jupiter in the 8th house means Jupiter was in the house of intimacy, trust and what you share with others. I read it as growth through depth: trust that can take weight, generosity with what’s shared, and meaning found in difficult places. It predicts no death or inheritance, and it needs an accurate birth time."

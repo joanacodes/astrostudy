@@ -5,6 +5,8 @@ description: "Venus square Pluto in a birth chart: what you value and the urge t
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Pluto", "square"]
 weight: 182
 glyph: "♀□♇"
 definition: "Venus square Pluto means Venus and Pluto were about 90° apart at your birth, usually in signs of one modality. In a chart, what you value and the urge to transform keep pressing on each other, so likes and bonds must deepen or be renewed. To me it's friction that teaches honesty in love; nothing about it is doomed."

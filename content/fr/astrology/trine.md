@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-10-29
 terms: ["trigone"]
 family: "aspects"
+categories: ["Aspects"]
+tags: ["trigone"]
 weight: 4
 glyph: "△"
 definition: "Le trigone est un angle de 120° entre deux planètes, en général à quatre signes d’écart et dans le même élément. Dans un thème natal, il montre deux parts de vous qui travaillent ensemble sans effort : une aisance naturelle, souvent un talent. Les astrologues y voient le plus facile des aspects ; son seul risque est d’être tenu pour acquis."

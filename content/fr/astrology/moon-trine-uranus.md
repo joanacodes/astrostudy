@@ -6,6 +6,8 @@ description: "Lune trigone Uranus dans un thème natal : le changement et le r�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Uranus", "trigone"]
 weight: 81
 glyph: "☽△♅"
 definition: "Lune trigone Uranus signifie qu’un tiers du cercle, environ 120°, séparait la Lune et Uranus à votre naissance, en général dans un même élément. Votre besoin de réconfort et votre besoin de liberté se soutiennent : vous pouvez changer de cap sans perdre pied. J’y lis une aisance naturelle avec le changement, à utiliser exprès."

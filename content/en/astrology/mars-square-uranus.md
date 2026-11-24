@@ -5,6 +5,8 @@ description: "Mars square Uranus in a birth chart: drive and the urge for change
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Uranus", "square"]
 weight: 212
 glyph: "♂□♅"
 definition: "Mars square Uranus sets your drive at a right angle, about 90°, to your need for independence and change, usually in signs of one modality. In a chart effort keeps meeting the urge to break off and do it differently. I read it as friction that turns restlessness into reform, never as restlessness without a point."

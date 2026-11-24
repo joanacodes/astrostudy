@@ -5,6 +5,8 @@ description: "Mars in the 1st house in a birth chart: drive that people meet fir
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "1st house", "houses"]
 weight: 49
 glyph: "♂"
 definition: "Mars in the 1st house means Mars sat in the house of the self, the one that begins at the Ascendant, when you were born. It describes drive that people meet first: you start things readily, meet life directly and show your energy in your manner. Like every house placement, it depends on an accurate birth time."

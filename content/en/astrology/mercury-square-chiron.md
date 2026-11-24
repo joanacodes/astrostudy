@@ -5,6 +5,8 @@ description: "Mercury square Chiron in a birth chart: speaking that brushes an o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Chiron", "square"]
 weight: 142
 glyph: "☿□⚷"
 definition: "Mercury square Chiron sets your thinking at a right angle to Chiron and the tenderness it stands for. In a chart, speaking and learning keep brushing against an old sensitivity, and you find your own ways round it. It’s friction that builds skill, never a flaw in how you think."

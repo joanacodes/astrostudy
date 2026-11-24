@@ -5,6 +5,8 @@ description: "Sun in Gemini, Moon in Virgo: one ruler, Mercury, for two mutable 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini", "Moon", "Virgo"]
 weight: 30
 glyph: "☉♊☽♍"
 definition: "Sun in Gemini, Moon in Virgo joins two mutable signs three apart, both ruled by Mercury, while the Moon was waxing towards or just past its first quarter. I read it as one mind doing two jobs: a self that gathers ideas, people and possibilities, and needs that settle once everything has been sorted and made to work."

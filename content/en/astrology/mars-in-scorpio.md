@@ -5,6 +5,8 @@ description: "Mars in Scorpio in a birth chart: Mars at home in the tradition, w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Scorpio"]
 weight: 56
 glyph: "♂♏"
 definition: "Mars in Scorpio is Mars at home in fixed water, by the traditional rulership; modern tropical astrology gives Scorpio to Pluto, and I read both. It describes concentrated, persistent effort: you act quietly, commit completely and rarely give up, and your courage shows in a crisis."

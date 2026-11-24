@@ -6,6 +6,8 @@ description: "Soleil sextile Uranus en synastrie : les idées de changement d�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Uranus", "sextile", "synastrie"]
 weight: 32
 glyph: "☉⚹♅"
 definition: "Soleil sextile Uranus en synastrie relie l’envie de changement d’une personne à la direction de l’autre par un angle facile d’environ 60°, à 4,8° près. L’une apporte des possibilités ; l’autre choisit lesquelles servir. J’y lis un renouveau offert, qui ne devient réel que lorsque quelqu’un passe à l’acte."

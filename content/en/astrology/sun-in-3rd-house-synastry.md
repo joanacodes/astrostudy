@@ -5,6 +5,8 @@ description: "Their Sun in your 3rd house in synastry: their purpose entering yo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "3rd house", "synastry", "house overlays"]
 weight: 3
 glyph: "☉"
 definition: "Their Sun in your 3rd house places another person’s Sun in the house of your everyday mind: talk, learning, messages and the people close at hand. In synastry it describes their purpose entering your conversations, so you tend to learn and think faster around them, while they hear their own plans more clearly once they’ve told you."

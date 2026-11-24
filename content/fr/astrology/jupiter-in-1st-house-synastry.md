@@ -6,6 +6,8 @@ description: "Jupiter de l’autre dans votre maison 1 en synastrie : sa géné
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 61
 glyph: "♃"
 definition: "Jupiter de l’autre dans votre maison 1 désigne Jupiter, chez cette personne, au seuil de votre thème : là où vivent votre allure, votre corps et vos débuts. En synastrie, sa générosité élargit votre façon de vous présenter : vous prenez plus de place à ses côtés, et l’autre voit en vous de quoi grandir, sans rien promettre de la suite."

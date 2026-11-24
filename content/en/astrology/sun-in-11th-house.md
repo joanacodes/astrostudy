@@ -5,6 +5,8 @@ description: "Sun in the 11th house in a birth chart: born in mid-morning, a sel
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "11th house", "houses"]
 weight: 11
 glyph: "☉"
 definition: "Sun in the 11th house means the Sun was well up in the mid-morning sky when you were born, in the house of friends, groups and hopes that tradition called the Good Spirit. I read it as a self that takes shape among chosen people, with a purpose tied to a shared future. It needs the birth time."

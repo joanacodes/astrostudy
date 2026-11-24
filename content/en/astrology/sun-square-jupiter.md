@@ -5,6 +5,8 @@ description: "Sun square Jupiter in a birth chart: an appetite for more that out
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Jupiter", "square"]
 weight: 15
 glyph: "☉□♃"
 definition: "Sun square Jupiter puts Jupiter about 90° from your Sun, generally in a sign that shares your Sun's modality. In a chart, direction and the urge to grow pull at an angle: more appetite than time. I read it as friction that teaches measure, and a generosity that learns its own size."

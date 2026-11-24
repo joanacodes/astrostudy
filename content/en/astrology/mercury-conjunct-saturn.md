@@ -5,6 +5,8 @@ description: "Mercury conjunct Saturn in a birth chart: a careful, structured mi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Saturn", "conjunction"]
 weight: 120
 glyph: "☿☌♄"
 definition: "Mercury conjunct Saturn means Mercury and Saturn were within a few degrees of each other when you were born, both near the Sun. In a chart thinking and structure become one act: you weigh your words, learn by method and build ideas to last. I read it as a mind that earns its confidence slowly, and keeps it."

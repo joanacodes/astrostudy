@@ -5,6 +5,8 @@ description: "Moon conjunct Neptune in synastry: one person’s imagination sett
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Neptune", "conjunction", "synastry"]
 weight: 91
 glyph: "☽☌♆"
 definition: "Moon conjunct Neptune in synastry means one person’s Neptune sits within 8° of the other’s Moon. One person’s imagination and compassion settle right on the other’s feelings and needs. I read it as deep tenderness between two people, with one caution: sensing each other mustn’t replace asking."

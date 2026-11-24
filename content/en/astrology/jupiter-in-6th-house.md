@@ -5,6 +5,8 @@ description: "Jupiter in the 6th house in a birth chart: growth through daily wo
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "6th house", "houses"]
 weight: 66
 glyph: "♃"
 definition: "Jupiter in the 6th house means Jupiter was in the house of daily work, routine and care. I read it as growth in the ordinary day: learning by practice, principles about useful work, and a generosity that shows as help. It says nothing about illness, whatever the house’s old associations, and it needs an accurate birth time."

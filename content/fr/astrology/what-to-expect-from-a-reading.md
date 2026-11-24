@@ -6,6 +6,8 @@ description: "À quoi s’attendre d’une lecture : ce qu’il me faut avant d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "practical"
+categories: ["Lectures"]
+tags: ["lectures"]
 weight: 26
 glyph: "✦"
 definition: "Une lecture, c’est votre thème natal entier, ou deux thèmes côte à côte en synastrie, lus à partir de la date, de l’heure et du lieu de naissance. Elle décrit des tendances, pas des événements : ni prédiction, ni diagnostic, ni décision à votre place, et elle vous dit ce qui a moins tenu dans mes tests."

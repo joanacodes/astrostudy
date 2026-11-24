@@ -5,6 +5,8 @@ description: "North Node in the 12th house in a birth chart: learning to stop, w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["North Node", "12th house", "houses"]
 weight: 156
 glyph: "☊"
 definition: "North Node in the 12th house means the North Node, where the Moon’s path crosses the Sun’s heading north, fell in the last house of the chart when you were born, with the South Node in the 6th. I read it as growth towards stillness: rest, solitude and an inner life, after a long habit of proving yourself useful."

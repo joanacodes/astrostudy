@@ -6,6 +6,8 @@ description: "Saturne carré Uranus dans un thème natal : la friction entre ga
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturne", "Uranus", "carré"]
 weight: 277
 glyph: "♄□♅"
 definition: "Saturne carré Uranus désigne un écart d’environ 90° entre les deux planètes, un angle que partagent quatre générations : les naissances de 1930–1932, 1950–1953, 1975–1977 et 1999–2001. Dans un thème, l’envie de garder les choses stables frotte contre l’envie de les changer. J’y lis une friction qui apprend à réformer sans démolir."

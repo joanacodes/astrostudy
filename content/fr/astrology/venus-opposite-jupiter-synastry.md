@@ -6,6 +6,8 @@ description: "Vénus opposition Jupiter en synastrie : l’une savoure ce qui e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Jupiter", "opposition", "synastrie"]
 weight: 175
 glyph: "♀☍♃"
 definition: "Vénus opposition Jupiter en synastrie signifie que Vénus, chez une personne, se trouve à environ 180° de Jupiter chez l’autre, à 6° près. Le plaisir de l’une pour ce qui est là fait face à la quête de sens et d’espace de l’autre. J’y lis une balançoire entre savourer et chercher, où chacune peut apprendre la moitié de l’autre."

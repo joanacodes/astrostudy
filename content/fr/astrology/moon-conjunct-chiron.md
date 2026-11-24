@@ -6,6 +6,8 @@ description: "Lune conjonction Chiron dans un thème natal : vos besoins et vot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Chiron", "conjonction"]
 weight: 93
 glyph: "☽☌⚷"
 definition: "Lune conjonction Chiron signifie que Chiron se trouvait à quelques degrés de votre Lune à la naissance, en général dans le même signe. Cette conjonction lie votre façon de répondre à vos besoins à votre façon de vous adapter autour d’un point sensible qui n’a pas simplement disparu. J’y lis un savoir-faire du soin, durement acquis, jamais un dommage."

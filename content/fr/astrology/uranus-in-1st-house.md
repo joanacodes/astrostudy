@@ -6,6 +6,8 @@ description: "Uranus en maison 1 dans un thème natal : une originalité visibl
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "maison 1", "maisons"]
 weight: 85
 glyph: "♅"
 definition: "Uranus en maison 1 signifie qu’Uranus se trouvait juste sous l’horizon est à votre naissance, dans la maison angulaire du moi, du corps et de la première impression. J’y lis une originalité qui se voit tout de suite : une façon d’aborder le monde à vos conditions. Ce placement demande une heure de naissance exacte."

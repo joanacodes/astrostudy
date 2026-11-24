@@ -5,6 +5,8 @@ description: "Jupiter conjunct North Node in synastry: one person’s sense of m
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "North Node", "conjunction", "synastry"]
 weight: 281
 glyph: "♃☌☊"
 definition: "Jupiter conjunct North Node in synastry means one person’s Jupiter sits within 5° of the other’s North Node, and so opposite their South Node. One person’s perspective and encouragement fall on the capacity the other is learning. I read it as support for a direction, never a destiny, and through the houses, since both points move slowly."

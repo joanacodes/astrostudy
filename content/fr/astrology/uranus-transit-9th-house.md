@@ -6,6 +6,8 @@ description: "Uranus en transit en maison 9 : près de neuf ans de convictions 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Uranus", "maison 9", "transits"]
 weight: 33
 glyph: "♅"
 definition: "Uranus en transit en maison 9, c’est la planète du changement qui traverse votre maison des convictions, des études et des longs voyages, en général pendant près de neuf ans. Ce transit bouscule la vision du monde que votre thème contient déjà : des certitudes dépassées, des sujets abordés de biais, des voyages hors du chemin prévu."

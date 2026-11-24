@@ -6,6 +6,8 @@ description: "Uranus conjonction Nœud Nord dans un thème natal : une directio
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Nœud Nord", "conjonction"]
 weight: 325
 glyph: "♅☌☊"
 definition: "Uranus conjonction Nœud Nord signifie qu’à votre naissance, Uranus se trouvait à quelques degrés du Nœud Nord. Dans un thème, la direction dans laquelle vous grandissez vous demande de vous distinguer, d’expérimenter et de vous libérer d’habitudes que garde le Nœud Sud. J’y lis un chemin à pratiquer, pas un destin, et jamais un devoir d’être hors norme."

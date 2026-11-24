@@ -5,6 +5,8 @@ description: "Chiron in Pisces in a birth chart: adapting through imagination an
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Pisces"]
 weight: 132
 glyph: "⚷♓"
 definition: "Chiron in Pisces is the placement of the long stays, March 1960 to January 1969 and April 2010 to February 2019, when Chiron moved slowly through the mutable water sign ruled by Neptune and, traditionally, Jupiter. In a chart it describes adapting through imagination and compassion, around a tender spot about boundaries."

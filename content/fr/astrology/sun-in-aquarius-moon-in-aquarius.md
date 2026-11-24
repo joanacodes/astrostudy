@@ -6,6 +6,8 @@ description: "Soleil en Verseau, Lune en Verseau : deux luminaires en air fixe 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Verseau", "Lune"]
 weight: 131
 glyph: "☉♒☽♒"
 definition: "Soleil en Verseau, Lune en Verseau signifie que les deux luminaires étaient en Verseau à la naissance, dans les deux jours et demi qui entourent une nouvelle lune, avec Uranus et Saturne pour maîtres. J’y vois le but et le besoin parler la même langue : fidèle aux principes, sociable, tournée vers l’avenir, et constante longtemps."

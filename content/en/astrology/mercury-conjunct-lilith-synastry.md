@@ -5,6 +5,8 @@ description: "Mercury conjunct Lilith in synastry: one person’s words land on 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Lilith", "conjunction", "synastry"]
 weight: 156
 glyph: "☿☌⚸"
 definition: "Mercury conjunct Lilith in synastry means one person’s Mercury sits within 6° of the other’s Black Moon Lilith. One person’s questions and words land on what the other learned to keep out of sight, their refusals and their untamed side. I read it as frank, sometimes exposing talk that asks for honesty and consent from both."

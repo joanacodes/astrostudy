@@ -5,6 +5,8 @@ description: "Moon conjunct Saturn in synastry: one person’s structure lands o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Saturn", "conjunction", "synastry"]
 weight: 81
 glyph: "☽☌♄"
 definition: "Moon conjunct Saturn in synastry means one person’s Saturn sits within 8° of the other’s Moon. One person’s sense of structure, duty and limits lands right where the other needs to feel safe. As I read it, this is a contact of reliability; I watch for the point where care turns into rules nobody chose."

@@ -5,6 +5,8 @@ description: "Chiron in Taurus in a birth chart: slow, practical adapting around
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Taurus"]
 weight: 122
 glyph: "⚷♉"
 definition: "Chiron in Taurus is Chiron, the small body astrologers read for adaptation, in the slow earth sign ruled by Venus: until March 1934, from May 1976 to April 1984, and from June 2026 to May 2034. In a chart it describes building steadiness by hand around a sensitivity about worth, rather than waiting to feel secure first."

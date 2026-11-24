@@ -6,6 +6,8 @@ description: "Soleil conjonction Nœud Nord en synastrie : l’une est déjà c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Nœud Nord", "conjonction", "synastrie"]
 weight: 56
 glyph: "☉☌☊"
 definition: "Soleil conjonction Nœud Nord en synastrie se produit quand le Soleil d’une personne et le Nœud Nord de l’autre sont à 8° près l’un de l’autre. Ce qui est naturel chez l’une est la direction où l’autre apprend à grandir, avec son Nœud Sud, le familier, en face. J’y lis un exemple vivant, jamais une rencontre écrite d’avance."

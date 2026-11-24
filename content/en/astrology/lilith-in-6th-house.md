@@ -5,6 +5,8 @@ description: "Lilith in the 6th house in a birth chart: daily work and routines 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "6th house", "houses"]
 weight: 138
 glyph: "⚸"
 definition: "Lilith in the 6th house means Black Moon Lilith, the Moon’s farthest point from Earth, sat in the house of daily work, routines and care when you were born. I read it as a way of doing ordinary things that is entirely your own, kept quiet where it wasn’t wanted, and a refusal to be treated as help."

@@ -5,6 +5,8 @@ description: "Uranus opposite Pluto in a birth chart: absent from every birth of
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Pluto", "opposition"]
 weight: 314
 glyph: "♅☍♇"
 definition: "Uranus opposite Pluto is a 180° angle between the two planets. No birth from 1930 to 2009 has it, within 6°. In meaning, it sets the urge to break free across from the pressure to transform at the root, a polarity asking for balance; people born in those years meet it through transits and synastry."

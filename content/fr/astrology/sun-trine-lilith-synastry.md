@@ -6,6 +6,8 @@ description: "Soleil trigone Lilith en synastrie : un côté indompté qui se d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Lilith", "trigone", "synastrie"]
 weight: 54
 glyph: "☉△⚸"
 definition: "Soleil trigone Lilith en synastrie est un contact d’environ 120°, à 6,8° près, qui relie un Soleil dans un thème à la Lune noire Lilith dans l’autre, en général dans deux signes du même élément. Le côté refusé, indompté, de l’une se détend auprès de l’autre. J’y lis une aisance qui mérite quand même un regard en dessous."

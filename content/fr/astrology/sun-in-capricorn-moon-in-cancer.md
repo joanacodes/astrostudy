@@ -6,6 +6,8 @@ description: "Soleil en Capricorne, Lune en Cancer : signes cardinaux opposés,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Capricorne", "Lune", "Cancer"]
 weight: 112
 glyph: "☉♑☽♋"
 definition: "Soleil en Capricorne, Lune en Cancer place les luminaires sur l’axe cardinal de la terre et de l’eau, pour une naissance proche d’une pleine lune, le plus souvent la pleine lune en Cancer. La Lune est dans son propre signe ; Saturne, maître du Soleil, y est en exil. J’y lis le foyer face au monde, chacun ayant besoin de l’autre."

@@ -5,6 +5,8 @@ description: "Lilith in Pisces in a birth chart: an imaginative, feeling inner l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "Pisces"]
 weight: 144
 glyph: "⚸♓"
 definition: "Lilith in Pisces means Black Moon Lilith, the Moon’s farthest point from Earth, was in mutable water, the sign of Neptune and, traditionally, Jupiter, when you were born. I read it as an imaginative, deeply feeling inner life you learned to keep out of sight, and a gentle but lasting refusal of hardness."

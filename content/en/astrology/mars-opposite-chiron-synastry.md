@@ -5,6 +5,8 @@ description: "Mars opposite Chiron in synastry: one person’s drive faces the o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Chiron", "opposition", "synastry"]
 weight: 240
 glyph: "♂☍⚷"
 definition: "Mars opposite Chiron in synastry means one person’s Mars and the other’s Chiron sit on one axis, at its opposite ends, within 6°. Each sees in the other what they practise less: going straight at a thing, or finding a way round it. I read it as a mirror held between two people, never a ranking of who is stronger."

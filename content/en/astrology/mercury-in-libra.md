@@ -5,6 +5,8 @@ description: "Mercury in Libra in a birth chart: a mind that reasons by comparis
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Libra"]
 weight: 31
 glyph: "☿♎"
 definition: "Mercury in Libra is the planet of thought and speech in cardinal air, the sign ruled by Venus. It describes a mind that reasons by comparison and conversation, weighs each view against its opposite and looks for the words that keep people talking. Deciding alone can take time. About 1 person in 11 has it."

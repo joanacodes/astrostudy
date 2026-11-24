@@ -6,6 +6,8 @@ description: "Neptune de l’autre dans votre maison 4 en synastrie : son dési
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 100
 glyph: "♆"
 definition: "Neptune de l’autre dans votre maison 4 conduit Neptune, chez cette personne, jusqu’à votre lieu de vie, vos racines, votre part intime. En synastrie, son désir d’appartenance s’installe là où vous vivez : votre maison devient un refuge, et votre famille ressemble à ses yeux à celle dont elle rêvait. Les règles de la maison, elles, restent souvent floues."

@@ -6,6 +6,8 @@ description: "Mars trigone Neptune dans un thème natal : l’action et l’ima
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Neptune", "trigone"]
 weight: 218
 glyph: "♂△♆"
 definition: "Mars trigone Neptune fait partager un élément à l’action et à l’imagination, à environ 120° dans le thème natal. Dans un thème, l’effort inspiré y devient naturel : vous allez avec grâce vers ce que vous imaginez, et agissez volontiers pour les autres. J’y lis un lien fluide entre faire et rêver, qui grandit quand vous lui donnez des buts."

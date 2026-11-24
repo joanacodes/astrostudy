@@ -6,6 +6,8 @@ description: "Mercure rétrograde en Taureau : la plus régulière des rétrogr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "Taureau"]
 weight: 2
 glyph: "☿℞♉"
 definition: "Mercure rétrograde en Taureau désigne les semaines où Mercure semble, depuis la Terre, reculer dans le Taureau pendant un peu moins de 24 jours, entre début avril et début juin. J’y lis une relecture lente de ce que vous aviez réglé, l’opinion de longue date ou l’arrangement familier, dans la maison qu’occupe le Taureau dans votre thème."

@@ -5,6 +5,8 @@ description: "Mercury conjunct Neptune in a birth chart: thinking in images, lis
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Neptune", "conjunction"]
 weight: 130
 glyph: "☿☌♆"
 definition: "Mercury conjunct Neptune is a meeting of the two within a few degrees: Mercury, the planet of the mind, beside Neptune, the planet of imagination. In a chart they work as one, so ideas come with images, tone and atmosphere attached. I read it as a mind that understands by resonance, and does well to check its facts twice."

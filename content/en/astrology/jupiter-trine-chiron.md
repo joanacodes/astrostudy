@@ -5,6 +5,8 @@ description: "Jupiter trine Chiron in a birth chart: an easy flow between meanin
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "Chiron", "trine"]
 weight: 263
 glyph: "♃△⚷"
 definition: "Jupiter trine Chiron means Jupiter and Chiron about 120° apart, usually in signs of one element. In a chart, your sense of meaning flows easily towards the place that stays tender, and what you learn there passes readily to others. I read it as a natural gift for mentoring, best used for yourself as well."

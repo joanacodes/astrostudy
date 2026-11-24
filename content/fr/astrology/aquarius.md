@@ -6,6 +6,8 @@ description: "Le Verseau en astrologie : un signe d’air, gouverné par Uranus
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "signs"
+categories: ["Signes"]
+tags: ["Verseau"]
 weight: 11
 glyph: "♒"
 definition: "Le Verseau est le onzième signe du zodiaque, un signe d’air fixe gouverné par Uranus en astrologie tropicale moderne et par Saturne dans la tradition ; le Soleil le traverse environ du 20 janvier au 18 février. Dans un thème natal, il montre où vous pensez par vous-même, choisissez le groupe et voulez faire autrement."

@@ -5,6 +5,8 @@ description: "Jupiter opposite North Node in a birth chart: Jupiter on your Sout
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Jupiter", "North Node", "opposition"]
 weight: 274
 glyph: "♃☍☊"
 definition: "Jupiter opposite North Node means Jupiter about 180° from the North Node, which places it on the South Node. In a chart, Jupiter’s generosity and wider view belong to the familiar end of the axis, and growth asks you to carry them across. I read it as a strength to bring along, never a weight to drop."

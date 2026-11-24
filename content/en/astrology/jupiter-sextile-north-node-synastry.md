@@ -5,6 +5,8 @@ description: "Jupiter sextile North Node in synastry: one person’s outlook bui
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "North Node", "sextile", "synastry"]
 weight: 282
 glyph: "♃⚹☊"
 definition: "Jupiter sextile North Node in synastry means one person’s Jupiter is about 60° from the other’s North Node, within 3°, and so about 120° from their South Node. One person’s outlook links the other’s familiar strengths to the capacity they are learning. I read it as an offer of help, read through the houses, real when used."

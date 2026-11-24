@@ -6,6 +6,8 @@ description: "Vénus en maison 12 dans un thème natal : un cœur discret et te
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "maison 12", "maisons"]
 weight: 48
 glyph: "♀"
 definition: "Vénus en maison 12 signifie que Vénus était tout juste levée à votre naissance, dans la maison cachée, dont le signe naturel est les Poissons, son exaltation. On y lit une façon d’aimer discrète et tendre, un besoin de beauté et de calme, et une gentillesse spontanée. Sans heure exacte, pas de maison."

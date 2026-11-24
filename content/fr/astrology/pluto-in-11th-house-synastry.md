@@ -6,6 +6,8 @@ description: "Pluton de l’autre dans votre maison 11 en synastrie : sa profon
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "maison 11", "synastrie", "superpositions de maisons"]
 weight: 119
 glyph: "♇"
 definition: "Pluton de l’autre dans votre maison 11 emmène la profondeur d’une autre personne parmi vos amis, vos groupes et vos causes. En synastrie, les amitiés s’approfondissent ou sont mises à l’épreuve, les cercles changent, les espoirs d’avenir prennent du poids, et l’autre veut parfois appartenir pleinement au groupe ou le transformer. Rien n’y annonce la fin d’une amitié."

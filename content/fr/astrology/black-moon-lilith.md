@@ -7,6 +7,8 @@ date: 2026-10-24
 reviewed: 2026-10-29
 terms: ["Lune noire", "Lilith"]
 family: "points"
+categories: ["Planètes et points"]
+tags: ["Lilith"]
 weight: 12
 glyph: "⚸"
 definition: "La Lune noire Lilith n’est pas un astre mais un point : l’endroit où l’orbite de la Lune l’emmène le plus loin de la Terre. Dans un thème natal, elle désigne la part de soi qu’on a appris à cacher — trop, trop fort, trop étrange — et là où l’on refuse d’être dompté. Elle traverse chaque signe en environ neuf mois."

@@ -6,6 +6,8 @@ description: "Neptune carré Pluton dans un thème natal : un angle absent des 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Pluton", "carré"]
 weight: 332
 glyph: "♆□♇"
 definition: "Neptune carré Pluton, ce sont les deux planètes à environ 90° l’une de l’autre, un angle qu’aucune personne née entre 1930 et 2009 ne porte : ces années-là, elles sont restées bien plus proches, le plus souvent vers 60°. Dans un thème, ce carré opposerait l’idéal et l’envie d’écarter ce qui est mort, une friction qui garde les deux honnêtes."

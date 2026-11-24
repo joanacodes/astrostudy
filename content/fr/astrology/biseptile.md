@@ -6,6 +6,8 @@ description: "Le biseptile en astrologie : deux planètes à 102°51′, deux s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["biseptile", "aspects mineurs"]
 weight: 13
 glyph: "✦"
 definition: "Le biseptile est un angle de deux septièmes du cercle, environ 102°51′, entre deux planètes le plus souvent à trois signes d’écart. Dans un thème natal, il dessine une différenciation qui se répète : deux planètes qui se séparent un peu plus à chaque situation, chacune trouvant sa propre voie sans cesser de se coordonner."

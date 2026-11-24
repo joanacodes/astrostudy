@@ -5,6 +5,8 @@ description: "Sun in Taurus, Moon in Sagittarius: roots and a horizon, a quincun
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Taurus", "Moon", "Sagittarius"]
 weight: 21
 glyph: "☉♉☽♐"
 definition: "Sun in Taurus, Moon in Sagittarius pairs fixed earth with mutable fire, five signs apart, at a birth up to five days after a full moon. I read it as roots and a horizon: a self that trusts what it can touch and keep, and needs that settle once life has room in it and a reason behind it."

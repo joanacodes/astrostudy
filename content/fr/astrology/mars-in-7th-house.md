@@ -6,6 +6,8 @@ description: "Mars en maison 7 dans un thème natal : un élan rencontré chez 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "maison 7", "maisons"]
 weight: 55
 glyph: "♂"
 definition: "Mars en maison 7 occupe la maison des partenaires et des liens en tête-à-tête, qui commence au descendant. On y lit un élan rencontré dans les relations : l’attirance pour les personnes fortes, des liens vifs, un peu de friction, et l’art de se battre loyalement. L’heure de naissance doit être exacte, et rien n’y annonce de mariage."

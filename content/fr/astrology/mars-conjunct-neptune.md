@@ -6,6 +6,8 @@ description: "Mars conjonction Neptune dans un thème natal : un effort guidé 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Neptune", "conjonction"]
 weight: 215
 glyph: "♂☌♆"
 definition: "Mars conjonction Neptune est la rencontre, à quelques degrés près, de la planète qui agit et de celle qui imagine. Dans un thème, l’effort s’y joint à l’inspiration et à la compassion : vous agissez le plus volontiers pour une vision ou pour les autres. J’y lis un élan guidé par l’imagination, jamais une faiblesse de volonté."

@@ -5,6 +5,8 @@ description: "Jupiter square Uranus in synastry: one person’s principles rub a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Uranus", "square", "synastry"]
 weight: 258
 glyph: "♃□♅"
 definition: "Jupiter square Uranus in synastry means one person’s Jupiter is about 90° from the other’s Uranus, within 4.25°. A framework of beliefs keeps meeting an urge to question and change it. That friction can turn convictions into reforms; it comes with birth years and never proves that two people can’t agree."

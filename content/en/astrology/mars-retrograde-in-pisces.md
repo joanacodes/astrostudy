@@ -5,6 +5,8 @@ description: "Mars retrograde in Pisces: the two shortest loops in my dates, 200
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mars", "retrograde", "Mars retrograde", "Pisces"]
 weight: 36
 glyph: "♂℞♓"
 definition: "Mars retrograde in Pisces is Mars, seen from Earth, backing through Pisces for about two months in late summer and early autumn: in 2003, and next from August to October 2035. I read it as drive that acts on instinct or for others turning back, in the house Pisces occupies in your chart."

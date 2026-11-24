@@ -5,6 +5,8 @@ description: "Uranus conjunct Neptune in synastry: one generation’s urge to ch
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Neptune", "conjunction", "synastry"]
 weight: 316
 glyph: "♅☌♆"
 definition: "Uranus conjunct Neptune in synastry puts one person’s Uranus within 4° of the other’s Neptune: the way one generation changes things lands on the ideals of another. For births before the 1990s, the Uranus belongs to the younger of the two. Read through the houses, it is a meeting of two eras rather than a personal bond."

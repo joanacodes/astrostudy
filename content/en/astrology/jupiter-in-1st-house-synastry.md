@@ -5,6 +5,8 @@ description: "Their Jupiter in your 1st house in synastry: their generosity wide
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "1st house", "synastry", "house overlays"]
 weight: 61
 glyph: "♃"
 definition: "Their Jupiter in your 1st house is the other person’s Jupiter landing where your chart begins: your manner, body and first moves. In synastry their generosity meets how you show up: you may feel larger and more at ease around them, and they see room for you to grow, though no overlay promises how that growth goes."

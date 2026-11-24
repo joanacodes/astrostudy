@@ -5,6 +5,8 @@ description: "Mars trine Jupiter in synastry: one person’s effort and the othe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Jupiter", "trine", "synastry"]
 weight: 214
 glyph: "♂△♃"
 definition: "Mars trine Jupiter in synastry means one person’s Mars is about 120° from the other’s Jupiter, within 5.1°, usually in signs of the same element. The first person’s effort and the second’s sense of meaning keep pace without negotiation. I read it as generous cooperation that does best with an outside view."

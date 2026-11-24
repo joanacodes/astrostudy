@@ -5,6 +5,8 @@ description: "Pluto in the 10th house in a birth chart: a public role with weigh
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Pluto", "10th house", "houses"]
 weight: 118
 glyph: "♇"
 definition: "Pluto in the 10th house is the planet of deep change at the top of the chart, in the house of career, vocation, reputation and authority. It describes a public life with weight, a deep ambition, and a role that may be remade. In Placidus this house begins at the Midheaven, so it needs the birth time."

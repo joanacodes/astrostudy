@@ -5,6 +5,8 @@ description: "Their Pluto in your 10th house in synastry: their depth in your ca
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "10th house", "synastry", "house overlays"]
 weight: 118
 glyph: "♇"
 definition: "Their Pluto in your 10th house takes the other person’s depth to the top of your chart: career, reputation and authority. In synastry ambition deepens, your public role can be transformed, and your standing fascinates them, while credit and leadership need clear terms. No rise or fall is foretold."

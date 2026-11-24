@@ -6,6 +6,8 @@ description: "Lune sextile Mars en synastrie : des besoins d’un côté, de l�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Mars", "sextile", "synastrie"]
 weight: 72
 glyph: "☽⚹♂"
 definition: "Lune sextile Mars en synastrie : la Lune d’une personne et Mars, chez l’autre, se trouvent à 60°, à 4,8° près. Les émotions d’un côté et l’élan de l’autre coopèrent : un besoin devient un projet, et l’effort trouve une raison. J’y lis un travail d’équipe entre le ressenti et l’effort, qui attend que quelqu’un commence."

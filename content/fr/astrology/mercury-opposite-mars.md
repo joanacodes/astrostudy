@@ -6,6 +6,8 @@ description: "Mercure opposition Mars dans un thème natal : l’aspect le plus
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Mars", "opposition"]
 weight: 114
 glyph: "☿☍♂"
 definition: "Mercure opposition Mars signifie qu’à votre naissance, Mercure et Mars étaient à environ 180° d’écart, ce qui n’arrive que pendant une rétrogradation de Mars. Dans un thème, les mots et les actes se font face, et chacun apprend de l’autre. J’y lis une polarité, pas une guerre."

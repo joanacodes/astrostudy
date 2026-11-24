@@ -5,6 +5,8 @@ description: "North Node transiting the 9th house: about 19 months of study, tra
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "9th house", "transits"]
 weight: 81
 glyph: "☊"
 definition: "North Node transiting the 9th house is the stay, usually about nineteen months, when the node moves backwards through your house of belief, study and far horizons while the South Node crosses your 3rd. It points towards a view of your own and the bigger picture, away from endless information and small talk."

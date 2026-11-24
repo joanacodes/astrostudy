@@ -5,6 +5,8 @@ description: "Moon sextile Mercury in synastry: an open line between one person�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Mercury", "sextile", "synastry"]
 weight: 62
 glyph: "☽⚹☿"
 definition: "Moon sextile Mercury in synastry links one person’s Moon and the other’s Mercury at about 60°, within 4.8°. Feelings on one side and words on the other cooperate, so talking things through tends to help. I read it as an open line between two people, which does its work once somebody picks up."

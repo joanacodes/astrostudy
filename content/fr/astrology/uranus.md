@@ -6,6 +6,8 @@ description: "Uranus en astrologie : la planète du changement, dans chaque sig
 date: 2026-11-04
 reviewed: 2026-10-29
 family: "planets"
+categories: ["Planètes et points"]
+tags: ["Uranus"]
 weight: 8
 glyph: "♅"
 definition: "Uranus est la septième planète du système solaire et, en astrologie, celle du changement, de la liberté et de la surprise. Son signe est partagé par toutes les personnes nées sur environ sept ans ; sa maison et ses contacts avec vos planètes personnelles montrent où il vous faut de l’espace pour vivre à votre façon."

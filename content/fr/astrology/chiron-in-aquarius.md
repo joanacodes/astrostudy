@@ -6,6 +6,8 @@ description: "Chiron en Verseau dans un thème natal : s’adapter par les idé
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "Verseau"]
 weight: 131
 glyph: "⚷♒"
 definition: "Chiron en Verseau situe une naissance entre janvier 1955 et janvier 1961, ou entre février 2005 et février 2011 : les années passées par Chiron dans le signe d’air fixe gouverné par Uranus et, traditionnellement, Saturne. Dans un thème, il décrit une adaptation par les idées et de meilleurs systèmes, autour d’un point sensible : la différence."

@@ -6,6 +6,8 @@ description: "Neptune en Poissons dans un thème natal : Neptune en domicile, l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Poissons"]
 weight: 108
 glyph: "♆♓"
 definition: "Neptune en Poissons, c’est la planète de la transcendance et de la compassion dans son propre signe, pour l’astrologie tropicale moderne ; la tradition donnait les Poissons à Jupiter. Neptune y était de 2011 à 2026 : les personnes nées alors sont encore des enfants. J’y lis le placement d’une génération, où s’amincissent les frontières entre les gens, l’art et la foi."

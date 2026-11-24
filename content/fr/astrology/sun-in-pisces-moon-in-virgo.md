@@ -6,6 +6,8 @@ description: "Soleil en Poissons, Lune en Vierge : une opposition près d’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Poissons", "Lune", "Vierge"]
 weight: 138
 glyph: "☉♓☽♍"
 definition: "Soleil en Poissons, Lune en Vierge oppose l’eau et la terre, deux signes souples, au plus près d’une pleine lune. Je vois là un moi qui saisit le tout des choses par le sentiment et l’imagination, et une Lune qui se repose quand chaque partie a un nom et une place."

@@ -6,6 +6,8 @@ date: 2026-10-24
 reviewed: 2026-10-29
 terms: ["Black Moon Lilith", "Lilith"]
 family: "points"
+categories: ["Planets and points"]
+tags: ["Lilith"]
 weight: 12
 glyph: "⚸"
 definition: "Black Moon Lilith is not a body but a point: the place where the Moon’s orbit takes it farthest from Earth. In a birth chart it marks the part of a person they learned to hide — too much, too loud, too strange — and where they refuse to be tamed. It moves through each sign in about nine months."

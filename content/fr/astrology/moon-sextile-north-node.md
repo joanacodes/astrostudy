@@ -6,6 +6,8 @@ description: "Lune sextile Nœud Nord dans un thème natal : des besoins qui ou
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Nœud Nord", "sextile"]
 weight: 104
 glyph: "☽⚹☊"
 definition: "Lune sextile Nœud Nord signifie qu’à votre naissance, la Lune était à environ 60° du Nœud Nord, donc à environ 120° du Nœud Sud. Dans un thème, vos besoins et vos habitudes ouvrent sans cesse de petites portes vers ce qui vous est moins familier, et le familier reste à portée. J’y lis une occasion à saisir."

@@ -5,6 +5,8 @@ description: "Moon in Aries in a birth chart: feelings that arrive fast and ask 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Aries"]
 weight: 13
 glyph: "☽♈"
 definition: "Moon in Aries means the Moon was in Aries when you were born. I read it as feelings that arrive at full strength and ask to be acted on, comfort found in movement rather than in being soothed, and a quick return to calm once the first surge has had somewhere to go."

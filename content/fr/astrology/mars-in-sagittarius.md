@@ -6,6 +6,8 @@ description: "Mars en Sagittaire dans un thème natal : un élan nourri de conv
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Sagittaire"]
 weight: 57
 glyph: "♂♐"
 definition: "Mars en Sagittaire envoie la planète de l’élan dans le feu mutable, sous la maîtrise de Jupiter. On y lit une action portée par la conviction : vous agissez vite pour ce en quoi vous croyez, dites ce que vous pensez, cherchez l’aventure plutôt que le confort, et il vous faut une cause ou un horizon pour continuer."

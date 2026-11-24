@@ -5,6 +5,8 @@ description: "Jupiter opposite Uranus in synastry: one person speaks for meaning
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Uranus", "opposition", "synastry"]
 weight: 260
 glyph: "♃☍♅"
 definition: "Jupiter opposite Uranus in synastry means one person’s Jupiter is about 180° from the other’s Uranus, within 5°. One holds the principle that ties things together, the other the exception that asks for change, and each makes the other more aware. The seesaw comes with the birth dates, and I read it in the houses."

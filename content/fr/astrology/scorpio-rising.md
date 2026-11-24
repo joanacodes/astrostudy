@@ -6,6 +6,8 @@ description: "Ascendant Scorpion : un seuil attentif, Mars et Pluton maîtres d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "Scorpion"]
 weight: 8
 glyph: "↑♏"
 definition: "Un ascendant Scorpion signifie que le Scorpion, signe d’eau fixe, se levait à l’horizon est à votre naissance : votre ascendant est en Scorpion. Il décrit une façon attentive et discrète d’aborder le monde, avec une profondeur qu’on sent tôt. Ses maîtres du thème sont Mars et Pluton, et à Londres, le Scorpion met près de trois heures à se lever."

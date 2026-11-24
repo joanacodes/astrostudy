@@ -6,6 +6,8 @@ description: "Vénus en maison 1 dans un thème natal : la chaleur et le goût 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "maison 1", "maisons"]
 weight: 37
 glyph: "♀"
 definition: "Vénus en maison 1 signifie que Vénus s’apprêtait à se lever à votre naissance, dans la maison du corps, de l’allure et des premières impressions. On y lit une chaleur et un goût visibles d’emblée, un don pour faciliter les premières rencontres, et une amabilité à garder sincère. Il lui faut l’heure de naissance exacte."

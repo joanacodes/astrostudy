@@ -6,6 +6,8 @@ description: "Lilith en maison 9 dans un thème natal : une conviction ou un do
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lilith", "maison 9", "maisons"]
 weight: 141
 glyph: "⚸"
 definition: "Lilith en maison 9 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la maison des croyances, des études et des horizons lointains. J’y lis une conviction ou un doute qui ne collait pas à ce qu’on vous a transmis, et le refus des certitudes empruntées."

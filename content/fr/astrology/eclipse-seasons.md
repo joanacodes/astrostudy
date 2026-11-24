@@ -6,6 +6,8 @@ description: "Les saisons d’éclipses : les semaines où, deux fois l’an, l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["éclipses"]
 weight: 34
 glyph: "●○"
 definition: "Une saison d’éclipses est la période d’environ cinq semaines, deux fois par an, où le Soleil est assez proche d’un des nœuds de la Lune pour que la nouvelle et la pleine lune soient éclipsées. Chacune apporte deux ou trois éclipses. En astrologie, elle ne compte que là où l’une d’elles tombe à environ trois degrés d’un point natal."

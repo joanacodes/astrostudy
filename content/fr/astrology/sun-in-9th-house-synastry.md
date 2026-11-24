@@ -6,6 +6,8 @@ description: "Le Soleil de l’autre dans votre maison 9 en synastrie : son él
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "maison 9", "synastrie", "superpositions de maisons"]
 weight: 9
 glyph: "☉"
 definition: "Le Soleil de l’autre dans votre maison 9 est la superposition des horizons lointains : son Soleil arrive parmi vos voyages, vos études, vos convictions et votre quête de sens. En synastrie, son élan élargit votre monde : vous lisez, voyagez et questionnez davantage avec cette personne, et sa propre direction prend du sens à vos côtés."

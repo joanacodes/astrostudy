@@ -6,6 +6,8 @@ description: "Uranus conjonction Neptune dans un thème natal : l’invention e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Neptune", "conjonction"]
 weight: 305
 glyph: "♅☌♆"
 definition: "Uranus conjonction Neptune signifie que votre naissance a eu lieu quand les deux planètes les plus lointaines se trouvaient ensemble, entre 1990 et 1996, surtout en Capricorne. Dans un thème, l’envie d’inventer et la capacité d’imaginer agissent comme une seule. Toute une génération partage cet aspect : vos maisons décident où il devient le vôtre."

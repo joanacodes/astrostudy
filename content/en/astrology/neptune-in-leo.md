@@ -5,6 +5,8 @@ description: "Neptune in Leo in a birth chart: a dream of grand romance and art,
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Leo"]
 weight: 101
 glyph: "♆♌"
 definition: "Neptune in Leo is Neptune, the planet of dreams and inspiration, in the fixed fire sign of the heart and self-expression, where it stayed from September 1914 to July 1929. It belongs to the oldest generation alive. I read it as a dream of grand romance and art: imagination that wants a stage, a heart that wants to be seen."

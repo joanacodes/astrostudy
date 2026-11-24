@@ -5,6 +5,8 @@ description: "Mercury square Neptune in synastry: one person’s need for clear 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Neptune", "square", "synastry"]
 weight: 143
 glyph: "☿□♆"
 definition: "Mercury square Neptune in synastry puts a right angle, within 5.1°, between one person’s Mercury and the other’s Neptune. The first person’s need for clear words and the second’s way of speaking in images and moods keep crossing, so meaning can drift between you. I read it as friction that teaches precise compassion, never as deceit."

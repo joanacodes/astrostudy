@@ -6,6 +6,8 @@ description: "Saturne en transit en maison 9 : environ trois ans où conviction
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Saturne", "maison 9", "transits"]
 weight: 21
 glyph: "♄"
 definition: "Saturne en transit en maison 9, c’est la mise à l’épreuve, un peu moins de trois ans durant, de ce que vous croyez et de l’origine de ces croyances, pendant la traversée de votre maison des études, des voyages et du sens. Les convictions éprouvées sont celles de votre thème, et celles qui tiennent prennent forme."

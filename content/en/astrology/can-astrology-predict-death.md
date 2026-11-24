@@ -5,6 +5,8 @@ description: "Can astrology predict death? No chart or transit can say when or h
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "ethics"
+categories: ["Readings"]
+tags: ["limits of astrology"]
 weight: 58
 glyph: "✦"
 definition: "No. No birth chart, transit, eclipse or degree can tell when or how anyone will die, yours or someone you love. Old astrology tried to count the length of a life; I never read for it. A chart can describe how you meet endings and grief. If the question frightens you, please talk to someone now."

@@ -6,6 +6,8 @@ description: "Nœud Nord en transit en maison 8 : un an et demi de confiance et
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Nœud Nord", "maison 8", "transits"]
 weight: 80
 glyph: "☊"
 definition: "Le Nœud Nord en transit en maison 8, c’est l’an et demi environ où le nœud recule à travers votre maison de l’intimité, de la confiance et du partage, tandis que le Nœud Sud traverse votre maison 2. Il oriente vers l’ouverture aux autres, loin du tout-faire-soi-même, sans annoncer ni mort, ni dette, ni héritage."

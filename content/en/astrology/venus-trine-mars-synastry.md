@@ -5,6 +5,8 @@ description: "Venus trine Mars in synastry: what one person enjoys and what the 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Mars", "trine", "synastry"]
 weight: 169
 glyph: "♀△♂"
 definition: "Venus trine Mars in synastry means one person’s Venus is about 120° from the other’s Mars, within 5.1°, usually in the same element. What one person values and how the other acts keep pace, so effort lands where it is enjoyed. I read it as easy cooperation in any adult pair, real but worth tending."

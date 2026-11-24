@@ -5,6 +5,8 @@ description: "Jupiter trine Uranus in synastry: one person’s growth and the ot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Uranus", "trine", "synastry"]
 weight: 259
 glyph: "♃△♅"
 definition: "Jupiter trine Uranus in synastry means one person’s Jupiter is about 120° from the other’s Uranus, within 4.25°. Growth and independence help each other: change finds a welcome, and understanding keeps moving. In my readings it’s two eras that suit each other, found in the houses rather than counted as an aspect."

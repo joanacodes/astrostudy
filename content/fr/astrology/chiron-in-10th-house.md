@@ -6,6 +6,8 @@ description: "Chiron en maison 10 dans un thème natal : un point sensible sous
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Chiron", "maison 10", "maisons"]
 weight: 130
 glyph: "⚷"
 definition: "Chiron en maison 10 signifie que Chiron se trouvait dans la maison de la vie publique, du travail et de la réputation, qui commence au Milieu du Ciel en Placidus. Il décrit une adaptation autour d’un point sensible lié au regard et au jugement des autres, et une vocation bâtie à votre façon. Il faut une heure de naissance exacte."

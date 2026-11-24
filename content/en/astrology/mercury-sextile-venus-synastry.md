@@ -5,6 +5,8 @@ description: "Mercury sextile Venus in synastry: one person’s curiosity meets 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Venus", "sextile", "synastry"]
 weight: 117
 glyph: "☿⚹♀"
 definition: "Mercury sextile Venus in synastry means one person’s Mercury is about 60° from the other’s Venus, within 3.6°. One person’s curiosity and the other’s sense of what’s worth having can feed each other, with room left between them. To me it’s an easy opening for conversation, which works once someone takes it."

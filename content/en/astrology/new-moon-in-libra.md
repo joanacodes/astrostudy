@@ -5,6 +5,8 @@ description: "The new moon in Libra, the first after the September equinox: its 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "new moon", "Libra"]
 weight: 42
 glyph: "●♎"
 definition: "The new moon in Libra is the Sun and Moon meeting in Libra, which happens once a year, in the weeks after the September equinox. It begins a lunar month with someone else in view: agreements, fairness, the terms between two people. In a birth chart it counts only within about 1° of a planet or angle."

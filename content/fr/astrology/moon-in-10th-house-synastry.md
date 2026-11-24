@@ -6,6 +6,8 @@ description: "La Lune de l’autre dans votre maison 10 en synastrie : ses émo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "maison 10", "synastrie", "superpositions de maisons"]
 weight: 22
 glyph: "☽"
 definition: "La Lune de l’autre dans votre maison 10 signifie que sa Lune atteint la part la plus publique de votre thème : votre travail, votre rôle, votre réputation. En synastrie, cette personne s’investit dans la marche de votre travail, et vous y trouvez du soutien, ou un regard insistant."

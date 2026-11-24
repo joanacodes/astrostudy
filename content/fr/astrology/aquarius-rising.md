@@ -6,6 +6,8 @@ description: "Ascendant Verseau : une distance amicale, Saturne et Uranus maît
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Ascendant", "Verseau"]
 weight: 11
 glyph: "↑♒"
 definition: "Un ascendant Verseau signifie que le Verseau, signe d’air fixe, se levait à l’horizon est à votre naissance : votre ascendant est en Verseau. Il décrit une façon amicale et indépendante d’aborder le monde, ouverte aux autres sans se livrer d’emblée. Ses maîtres sont Saturne et Uranus, et à Londres, le Verseau se lève en un peu plus d’une heure."

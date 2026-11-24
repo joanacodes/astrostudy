@@ -5,6 +5,8 @@ description: "The novile in astrology: two planets 40° apart, a ninth of the ci
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["novile", "minor aspects"]
 weight: 15
 glyph: "✦"
 definition: "A novile is an angle of 40° between two planets, a ninth of the circle: three of them make a trine. In a birth chart it stands for ripening, two planets whose connection matures slowly, almost out of sight, and becomes ready in its own time. It points to readiness, never to perfection or to a destiny."

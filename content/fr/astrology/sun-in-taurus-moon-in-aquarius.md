@@ -6,6 +6,8 @@ description: "Soleil en Taureau, Lune en Verseau : deux signes fixes en carré,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Taureau", "Lune", "Verseau"]
 weight: 23
 glyph: "☉♉☽♒"
 definition: "Soleil en Taureau, Lune en Verseau met en carré deux signes fixes, la terre et l’air, la Lune trois signes en arrière, pour une naissance dix-neuf jours et demi à vingt-quatre jours et demi après une nouvelle lune. J’y lis deux fidélités : un moi fidèle à ce qu’il a bâti, des besoins fidèles à ce qu’ils jugent juste."

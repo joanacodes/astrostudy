@@ -6,6 +6,8 @@ description: "Neptune carré Chiron en synastrie : la gentillesse de l’une et
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Chiron", "carré", "synastrie"]
 weight: 348
 glyph: "♆□⚷"
 definition: "Neptune carré Chiron en synastrie croise la compassion d’une personne avec la limite durable de l’autre : Neptune et Chiron se trouvent à environ 90°, à 3,4° près. La gentillesse et l’adaptation pratique se manquent jusqu’à ce qu’on en parle. Les dates, pas les personnes, décident qui l’a ; les maisons, ce qu’il touche."

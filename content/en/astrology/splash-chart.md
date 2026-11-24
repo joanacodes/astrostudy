@@ -5,6 +5,8 @@ description: "The splash chart in astrology: planets spread round the wheel, Mar
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["chart shapes"]
 weight: 22
 glyph: "✦"
 definition: "A splash chart has its planets spread round the wheel rather than gathered in one part of it: more an absence of pattern than a pattern. Of Marc Edmund Jones’s seven shapes, it is the least shaped. I read it as breadth, attention shared out across many areas of life. Authors disagree on its edges, so it goes uncounted here."

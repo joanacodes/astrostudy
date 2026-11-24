@@ -5,6 +5,8 @@ description: "The nodal return in astrology: when the Moon’s nodes come back t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "angles"
+categories: ["Planets and points"]
+tags: ["lunar nodes"]
 weight: 11
 glyph: "✦"
 definition: "A nodal return is the moment the Moon’s nodes, moving backwards round the zodiac, come back to the degrees they held at your birth. It happens about every 18.6 years, at about 18½, 37, 56 and 74. Astrologers read it as a checkpoint, when the question of direction your North Node describes comes round again."

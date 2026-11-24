@@ -5,6 +5,8 @@ description: "Sun trine Uranus in a birth chart: originality that keeps step wit
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Uranus", "trine"]
 weight: 26
 glyph: "☉△♅"
 definition: "Sun trine Uranus is an easy angle of about 120° between your Sun and Uranus, usually within one element. In a chart, being yourself and doing things differently go together without a struggle. I read it as originality in step with purpose, best when you actually use the freedom it gives."

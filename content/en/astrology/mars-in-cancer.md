@@ -5,6 +5,8 @@ description: "Mars in Cancer in a birth chart: Mars in its fall, drive that prot
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Cancer"]
 weight: 52
 glyph: "♂♋"
 definition: "Mars in Cancer places Mars in its fall: the planet of action in the Moon’s cardinal water sign, aimed at protection. It describes protective drive: you act most readily for the people and places you care about, defend better than you attack, and move once you feel safe. Roughly 1 person in 10 has it."

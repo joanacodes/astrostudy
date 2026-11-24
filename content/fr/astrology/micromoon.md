@@ -6,6 +6,8 @@ description: "La micro lune : une pleine lune proche de l’apogée, l’invers
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["La Lune"]
+tags: ["lunaisons"]
 weight: 17
 glyph: "◦"
 definition: "Une micro lune est une pleine ou nouvelle lune proche de l’apogée, quand la Lune passe au plus loin de la Terre : l’inverse d’une super lune, et pas mieux définie. La pleine lune paraît alors un peu plus petite et plus pâle, et une éclipse solaire à une telle nouvelle lune ne peut pas cacher tout le Soleil."

@@ -6,6 +6,8 @@ description: "Soleil conjonction Neptune dans un thème natal : un moi aux cont
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Neptune", "conjonction"]
 weight: 28
 glyph: "☉☌♆"
 definition: "Soleil conjonction Neptune signifie qu’à votre naissance, Neptune se trouvait à quelques degrés de votre Soleil, dans sa lumière. Dans un thème, cette conjonction fond votre sens de qui vous êtes avec l’imaginaire et la compassion : votre identité a des contours doux. J’y lis un don d’empathie et de vision, qui demande de garder un centre sans fermer la porte."

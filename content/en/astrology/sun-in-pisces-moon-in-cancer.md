@@ -5,6 +5,8 @@ description: "Sun in Pisces, Moon in Cancer: a water trine a little past the fir
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pisces", "Moon", "Cancer"]
 weight: 136
 glyph: "☉♓☽♋"
 definition: "Sun in Pisces, Moon in Cancer sets both lights in water, the Moon four signs ahead of the Sun and in its own sign, seven to twelve days after a new moon. I read a self given to compassion and imagination, with needs that settle in a sheltered home shared with a few people."

@@ -6,6 +6,8 @@ description: "Vénus opposition Lilith dans un thème natal : la proximité et 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Vénus", "Lilith", "opposition"]
 weight: 194
 glyph: "♀☍⚸"
 definition: "Vénus opposition Lilith signifie qu’à votre naissance, Vénus se trouvait à environ 180° de la Lune noire Lilith moyenne. Dans un thème, la proximité et l’autonomie se font face, et votre propre part indomptée se rencontre souvent d’abord chez quelqu’un d’autre. Cette opposition apprend l’intimité sans rapetisser ; ce n’est jamais un choix entre l’amour et la liberté."

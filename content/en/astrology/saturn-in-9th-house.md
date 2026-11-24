@@ -5,6 +5,8 @@ description: "Saturn in the 9th house in a birth chart: belief tested, long stud
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "9th house", "houses"]
 weight: 81
 glyph: "♄"
 definition: "Saturn in the 9th house brings the planet of slow mastery to the far horizon: belief, higher study, long journeys and the search for meaning. It describes convictions earned after doubting the ones you were handed, study that takes its time, and the authority of someone who has thought things through."

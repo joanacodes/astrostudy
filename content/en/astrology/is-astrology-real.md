@@ -5,6 +5,8 @@ description: "Is astrology real? As a practice, yes, and an old one. As a claim 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["testing"]
 weight: 16
 glyph: "✦"
 definition: "Astrology is real as a practice: forms of it have been used since at least the second millennium BCE, and until the Enlightenment it was a scholarly tradition. Whether the sky at your birth describes you is another matter: controlled tests have found no evidence that it does, and no mechanism has been proposed that fits physics and biology."

@@ -6,6 +6,8 @@ description: "Mars rétrograde en Lion : les boucles de 2009–2010, 2024–202
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mars", "rétrograde", "Mars rétrograde", "Lion"]
 weight: 29
 glyph: "♂℞♌"
 definition: "Mars rétrograde en Lion, c’est le recul apparent de Mars dans le Lion, onze semaines environ en hiver : en 2009–2010, en 2024–2025, et la prochaine fois de janvier à avril 2027. J’y lis la fierté, le jeu et le courage de se montrer qui reviennent sur leurs pas, dans la maison du Lion de votre thème."

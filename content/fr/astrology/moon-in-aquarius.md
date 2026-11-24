@@ -6,6 +6,8 @@ description: "Lune en Verseau dans un thème natal : des émotions comprises av
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Verseau"]
 weight: 23
 glyph: "☽♒"
 definition: "La Lune en Verseau signifie que la Lune se trouvait en Verseau à votre naissance. J’y lis des émotions comprises avec un peu de recul, un réconfort trouvé dans l’amitié, la liberté et les idéaux partagés, et une fidélité tranquille qui, une fois donnée, change rarement, même si elle paraît distante de l’extérieur."

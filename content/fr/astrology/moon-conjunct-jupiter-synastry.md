@@ -6,6 +6,8 @@ description: "Lune conjonction Jupiter en synastrie : les besoins de l’une to
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Jupiter", "conjonction", "synastrie"]
 weight: 76
 glyph: "☽☌♃"
 definition: "Lune conjonction Jupiter en synastrie : Jupiter d’une personne à moins de 8° de la Lune de l’autre. Ce dont l’une a besoin pour se sentir en sécurité tombe là où l’autre fait de la place et du sens. J’y lis une générosité donnée et reçue, en guettant le moment où une émotion devient le projet de l’autre."

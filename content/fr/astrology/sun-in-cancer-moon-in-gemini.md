@@ -6,6 +6,8 @@ description: "Soleil en Cancer, Lune en Gémeaux : des signes voisins, la Lune 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Cancer", "Lune", "Gémeaux"]
 weight: 39
 glyph: "☉♋☽♊"
 definition: "Soleil en Cancer, Lune en Gémeaux appartient à la fin d’un mois lunaire, la Lune en Gémeaux, un signe derrière le Soleil. Comme la Lune gouverne le Cancer, votre Soleil répond à une Lune bavarde. J’y lis un soin qui garde les gens en lien : un moi enraciné dans l’appartenance, des besoins apaisés quand les émotions trouvent leurs mots."

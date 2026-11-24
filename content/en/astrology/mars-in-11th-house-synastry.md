@@ -5,6 +5,8 @@ description: "Their Mars in your 11th house in synastry: their drive among your 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "11th house", "synastry", "house overlays"]
 weight: 59
 glyph: "♂"
 definition: "Their Mars in your 11th house lands the other person’s Mars in your house of friends, networks and shared aims, which tradition called the Good Spirit. In synastry their drive turns your plans into projects: you may act for a cause or a team more boldly with them, and they feel effective in your circles."

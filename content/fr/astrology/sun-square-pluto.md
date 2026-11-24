@@ -6,6 +6,8 @@ description: "Soleil carré Pluton dans un thème natal : une force conquise pl
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Pluton", "carré"]
 weight: 35
 glyph: "☉□♇"
 definition: "Soleil carré Pluton signifie qu’à votre naissance, Pluton formait un angle droit avec le Soleil, à environ 90°. Dans un thème, ce carré met votre sens de qui vous êtes face à une pression pour changer à la racine : la force se conquiert. J’y lis une friction qui construit une autorité sur votre propre vie, jamais une punition."

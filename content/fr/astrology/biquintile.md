@@ -6,6 +6,8 @@ description: "Le biquintile en astrologie : deux planètes à 144°, deux cinqu
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["biquintile", "aspects mineurs"]
 weight: 11
 glyph: "✦"
 definition: "Le biquintile est l’angle de 144° entre deux planètes, deux cinquièmes du cercle, le plus souvent à cinq signes d’écart. Dans un thème natal, il relie deux planètes capables de se combiner en un motif plus complexe que chacune seule : un potentiel de synthèse et de métier affiné, à développer, jamais une maîtrise garantie."

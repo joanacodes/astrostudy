@@ -5,6 +5,8 @@ description: "Their Neptune in your 5th house in synastry: their imagination in 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "5th house", "synastry", "house overlays"]
 weight: 101
 glyph: "♆"
 definition: "Their Neptune in your 5th house lets the other person’s Neptune into what you do for joy: play, art, pleasure and romance. In synastry their imagination enchants your joys: love can feel cinematic, art flows, and they find in your delight someone they once dreamed of. Tradition gave this house children, but it predicts neither children nor luck."

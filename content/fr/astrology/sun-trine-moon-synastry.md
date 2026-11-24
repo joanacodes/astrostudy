@@ -6,6 +6,8 @@ description: "Soleil trigone Lune en synastrie : la façon de vivre de l’une 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "Lune", "trigone", "synastrie"]
 weight: 4
 glyph: "☉△☽"
 definition: "Soleil trigone Lune en synastrie signifie que le Soleil d’une personne se trouve à environ 120° de la Lune de l’autre, à 6,8° près. Ce que l’une est et ce dont l’autre a besoin s’accordent, souvent dans un même élément. J’y lis une aisance qui apaise les deux, et qui dure quand personne ne la tient pour acquise."

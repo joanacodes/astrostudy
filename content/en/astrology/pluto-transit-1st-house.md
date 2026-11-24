@@ -5,6 +5,8 @@ description: "Pluto transiting the 1st house: usually about fourteen years of sl
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "1st house", "transits"]
 weight: 49
 glyph: "♇"
 definition: "Pluto transiting the 1st house begins when Pluto reaches your Ascendant and, at London’s latitude, usually lasts about fourteen years. The planet of depth and power works on the self you lead with: what you show, what you hide, and who gets to say who you are. It changes you from the inside, slowly."

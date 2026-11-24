@@ -5,6 +5,8 @@ description: "Moon conjunct Pluto in a birth chart: feelings at full depth, and 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Pluto", "conjunction"]
 weight: 88
 glyph: "☽☌♇"
 definition: "Moon conjunct Pluto means your Moon was born alongside Pluto, a few degrees away at most and usually in the same sign. It fuses your feelings and needs with the urge to transform: emotions go all the way down, and you change through them. I read it as emotional depth and resilience, never as darkness or control."

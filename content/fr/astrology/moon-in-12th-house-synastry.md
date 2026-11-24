@@ -6,6 +6,8 @@ description: "La Lune de l’autre dans votre maison 12 en synastrie : ses émo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "maison 12", "synastrie", "superpositions de maisons"]
 weight: 24
 glyph: "☽"
 definition: "La Lune de l’autre dans votre maison 12 place sa Lune tout au bout de votre thème, là où vivent la solitude, le repos et la vie intérieure. En synastrie, ses émotions rejoignent ce que vous montrez rarement : cette personne devine peut-être vos humeurs tues et vous apaise sans bruit, et la proximité entre vous est profonde et silencieuse."

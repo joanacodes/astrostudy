@@ -6,6 +6,8 @@ description: "Mercure sextile Mars en synastrie : les projets de l’une offren
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "Mars", "sextile", "synastrie"]
 weight: 122
 glyph: "☿⚹♂"
 definition: "Mercure sextile Mars en synastrie signifie que Mercure, chez une personne, se trouve à environ 60° de Mars dans le thème de l’autre, à 3,6° près. Les idées de l’une donnent un point de départ à l’élan de l’autre, qui les aide à quitter la page. J’y vois un partenariat pratique, jugé sur ce que les deux accomplissent."

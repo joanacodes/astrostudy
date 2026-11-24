@@ -6,6 +6,8 @@ description: "Vénus de l’autre dans votre maison 10 en synastrie : l’admir
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "maison 10", "synastrie", "superpositions de maisons"]
 weight: 46
 glyph: "♀"
 definition: "Vénus de l’autre dans votre maison 10 réserve son admiration à votre vie publique : votre travail, votre rôle, votre position. En synastrie, cette personne se réjouit de vos réussites et vante volontiers vos mérites, même si l’admiration pour un rôle peut se confondre avec l’amour. Rien n’y prédit l’issue d’une carrière."

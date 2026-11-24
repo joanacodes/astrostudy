@@ -5,6 +5,8 @@ description: "Saturn sextile Chiron in synastry: one person’s structure, offer
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Chiron", "sextile", "synastry"]
 weight: 302
 glyph: "♄⚹⚷"
 definition: "Saturn sextile Chiron in synastry sets one person’s Saturn about 60° from the other’s Chiron, within 3°, usually two signs apart. The structure one can lend lies within reach of the way the other adapts to a lasting limit, but it has to be asked for. I read it as an open offer, through the houses."

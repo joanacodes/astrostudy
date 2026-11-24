@@ -5,6 +5,8 @@ description: "Saturn transiting the 9th house: about three years when beliefs, s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "9th house", "transits"]
 weight: 21
 glyph: "♄"
 definition: "Saturn transiting the 9th house is the testing, usually just under three years long, of what you believe and how you came to believe it, as Saturn crosses your house of study, travel and meaning. The convictions it tests are your chart’s own, and the ones that hold get a shape."

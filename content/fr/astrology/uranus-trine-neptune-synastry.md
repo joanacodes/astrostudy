@@ -6,6 +6,8 @@ description: "Uranus trigone Neptune en synastrie : les idées neuves d’une g
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Neptune", "trigone", "synastrie"]
 weight: 319
 glyph: "♅△♆"
 definition: "Uranus trigone Neptune en synastrie, c’est un angle d’environ 120°, à 3,4° près, entre Uranus chez une personne et Neptune chez l’autre, souvent à une ou deux générations d’écart. Les changements que vise l’une servent volontiers les idéaux de l’autre, sans grande friction. J’y lis une alliance facile entre époques, par les maisons, qu’il faut encore employer."

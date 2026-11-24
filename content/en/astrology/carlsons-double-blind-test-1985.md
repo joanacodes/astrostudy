@@ -5,6 +5,8 @@ description: "Carlson’s double-blind test of astrology, published in Nature in
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["testing"]
 weight: 3
 glyph: "✦"
 definition: "Carlson’s double-blind test is a study of natal astrology published in Nature in 1985. Under a protocol the astrologers had agreed was fair, 28 of them tried to match birth charts to personality profiles from a standard questionnaire. They did no better than chance, and were no more often right when they felt sure."

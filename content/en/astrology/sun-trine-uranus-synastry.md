@@ -5,6 +5,8 @@ description: "Sun trine Uranus in synastry: two people who leave each other free
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Uranus", "trine", "synastry"]
 weight: 34
 glyph: "☉△♅"
 definition: "Sun trine Uranus in synastry gives two people an easy freedom: one person’s Uranus about 120° from the other’s Sun, within 6.8°, usually in the same element. Being different is welcome on both sides. It's an ease that counts only when the freedom is put to some use, as I read it."

@@ -6,6 +6,8 @@ description: "Mercure en Scorpion dans un thème natal : un esprit qui sonde, d
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Scorpion"]
 weight: 32
 glyph: "☿♏"
 definition: "Mercure en Scorpion place la planète de la pensée et de la parole en eau fixe, le signe de Pluton et, traditionnellement, de Mars. On y lit un esprit discret et pénétrant, qui cherche, lit le sous-texte, garde les confidences et choisit peu de mots, pour leur poids : la profondeur plutôt que l’étendue. Environ 1 personne sur 11 l’a."

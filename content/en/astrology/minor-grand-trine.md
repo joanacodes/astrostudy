@@ -5,6 +5,8 @@ description: "The minor grand trine in astrology: two planets in trine with a th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["trine", "aspect patterns"]
 weight: 12
 glyph: "⚹△"
 definition: "A minor grand trine is three planets: two in trine and a third between them, sextile both, drawing a flat triangle on one side of the chart. It describes ease with a point of use, the trine’s flow gathered by the planet in the middle. It’s common: nearly half of all charts, about 4 in 9, hold one."

@@ -6,6 +6,8 @@ description: "Lune conjonction Mercure dans un thème natal : des émotions qui
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Lune", "Mercure", "conjonction"]
 weight: 53
 glyph: "☽☌☿"
 definition: "Lune conjonction Mercure signifie qu’à votre naissance, la Lune et Mercure se trouvaient à quelques degrés d’écart, dans les jours qui entourent une nouvelle lune. Dans un thème, cet aspect réunit sentir et penser en un seul mouvement : les humeurs viennent avec des mots, et les mots portent les humeurs. J’y lis un esprit qui écoute le cœur."

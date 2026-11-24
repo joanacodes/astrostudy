@@ -5,6 +5,8 @@ description: "Their Pluto in your 2nd house in synastry: their depth meeting you
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "2nd house", "synastry", "house overlays"]
 weight: 110
 glyph: "♇"
 definition: "With their Pluto in your 2nd house, the other person’s depth reaches your money, belongings and sense of worth. In synastry what you own and earn comes up for review, self-worth can be rebuilt on firmer ground, and they are drawn to what you hold dear; money may become a language of power. Nothing here forecasts gain or loss."

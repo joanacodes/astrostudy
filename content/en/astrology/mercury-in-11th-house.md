@@ -5,6 +5,8 @@ description: "Mercury in the 11th house in a birth chart: a mind that thinks wit
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "11th house", "houses"]
 weight: 35
 glyph: "☿"
 definition: "Mercury in the 11th house is the planet of thought and speech in the house of friends, groups, networks and hopes. It describes a social mind that does much of its thinking in company, connects people and ideas, and turns hopes into words and plans. Tradition called the house Good Spirit. It needs the birth time."

@@ -5,6 +5,8 @@ description: "Moon square Pluto in synastry: one person’s need for safety meet
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "Pluto", "square", "synastry"]
 weight: 98
 glyph: "☽□♇"
 definition: "Moon square Pluto in synastry means one person’s Pluto is about 90° from the other’s Moon, within 6.8°. Familiar comfort matters most to one of them, going deeper and changing things to the other, and the two rub. To me it’s friction that can build trust and strength, provided power is shared."

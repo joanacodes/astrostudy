@@ -5,6 +5,8 @@ description: "Sun in the 6th house in a birth chart: born just after sunset, a s
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "6th house", "houses"]
 weight: 6
 glyph: "☉"
 definition: "Sun in the 6th house means the Sun had just set when you were born, in the house of daily work, routines, colleagues and the care of the body. I read it as an identity built through practice, a vitality that depends on rhythm, and a purpose found in useful work. It never forecasts illness."

@@ -5,6 +5,8 @@ description: "Eclipse seasons: the weeks, twice a year, when the Sun nears the M
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "moon"
+categories: ["The Moon"]
+tags: ["eclipses"]
 weight: 34
 glyph: "●○"
 definition: "An eclipse season is the stretch of about five weeks, twice a year, when the Sun is close enough to one of the Moon’s nodes for the new and full moons to be eclipsed. Each brings two or three eclipses. In astrology, it matters only where one of them falls within about three degrees of a natal point."

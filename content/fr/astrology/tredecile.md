@@ -6,6 +6,8 @@ description: "Le tridécile en astrologie : deux planètes à 108°, trois dixi
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "aspects"
+categories: ["Aspects"]
+tags: ["tridécile", "aspects mineurs"]
 weight: 19
 glyph: "✦"
 definition: "Le tridécile est un angle de 108° entre deux planètes : trois dixièmes du cercle, un quintile et demi, et l’angle de chaque coin d’un pentagone régulier. Dans un thème natal, il désigne une réorganisation qui s’adapte, deux planètes qui réagencent leurs motifs en quelque chose d’inhabituel. Se transformer ne veut pas dire être instable."

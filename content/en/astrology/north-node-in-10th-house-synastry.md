@@ -5,6 +5,8 @@ description: "Their North Node in your 10th house in synastry: your public life 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["North Node", "10th house", "synastry", "house overlays"]
 weight: 154
 glyph: "☊"
 definition: "Their North Node in your 10th house lifts the other person’s direction of growth to the top of your chart, your work, standing and public role, with their South Node below, in your 4th. Watching your public life, they practise stepping out; in your home, they settle in as if they had always belonged."

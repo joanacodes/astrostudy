@@ -5,6 +5,8 @@ description: "Mars retrograde in Scorpio, a sign Mars rules in the tradition: th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mars", "retrograde", "Mars retrograde", "Scorpio"]
 weight: 32
 glyph: "♂℞♏"
 definition: "Mars retrograde in Scorpio is Mars, seen from Earth, backing through a sign it rules in the tradition, for about eleven weeks in spring: from Sagittarius into Scorpio in 2016, and wholly in Scorpio from March to June 2031. I read it as desire and resolve turned back to their roots, in the house Scorpio occupies in your chart."

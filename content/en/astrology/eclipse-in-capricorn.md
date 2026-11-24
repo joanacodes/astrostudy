@@ -5,6 +5,8 @@ description: "Eclipses in Capricorn: twenty from 2000 to 2040 on the Capricorn�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["eclipses", "Capricorn"]
 weight: 10
 glyph: "●♑"
 definition: "An eclipse in Capricorn happens when a new moon darkens the Sun there, or when the full Moon in Capricorn, opposite a Cancer Sun, passes through the Earth’s shadow, both near the Moon’s nodes. Capricorn has twenty from 2000 to 2040. What makes one count for a chart is a natal point within about three degrees."

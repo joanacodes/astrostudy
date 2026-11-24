@@ -5,6 +5,8 @@ description: "Moon square North Node in a birth chart: the Moon halfway between 
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "North Node", "square"]
 weight: 105
 glyph: "☽□☊"
 definition: "Moon square North Node means the Moon was about 90° from the North Node when you were born, and so 90° from the South Node, halfway between them. In a chart your needs stand across the path of growth and ask to be brought along. To me it’s friction that trains you to grow without leaving yourself behind."

@@ -6,6 +6,8 @@ description: "Nœud Nord en transit en maison 6 : environ 17 mois pour bâtir d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Nœud Nord", "maison 6", "transits"]
 weight: 78
 glyph: "☊"
 definition: "Le Nœud Nord en transit en maison 6, c’est le séjour, un peu moins d’un an et demi en général, où le nœud recule à travers votre maison du travail quotidien et des habitudes, tandis que le Nœud Sud traverse votre maison 12. Il oriente vers des routines utiles, loin de la dérive, sans rien dire d’une maladie."

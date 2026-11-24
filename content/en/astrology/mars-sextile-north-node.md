@@ -5,6 +5,8 @@ description: "Mars sextile North Node in a birth chart: an opening from your eff
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "North Node", "sextile"]
 weight: 236
 glyph: "♂⚹☊"
 definition: "Mars sextile North Node means Mars stood about 60° from the North Node at your birth, and so about 120° from the South Node. Your effort has an opening towards the less familiar direction, and an easier current back to familiar ground. I read it as a chance to take on purpose, one that grows with practice."

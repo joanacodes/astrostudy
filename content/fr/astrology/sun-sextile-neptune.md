@@ -6,6 +6,8 @@ description: "Soleil sextile Neptune dans un thème natal : l’imaginaire et l
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Neptune", "sextile"]
 weight: 29
 glyph: "☉⚹♆"
 definition: "Soleil sextile Neptune signifie que votre Soleil et Neptune étaient à environ 60° d’écart à votre naissance, en général deux signes. Dans un thème, ce sextile ouvre une porte entre votre sens du but et votre imaginaire : l’inspiration et la compassion sont là, dès que vous allez les chercher. J’y lis un don discret, qui attend d’être saisi."

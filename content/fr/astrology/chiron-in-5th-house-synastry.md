@@ -6,6 +6,8 @@ description: "Chiron de l’autre dans votre maison 5 en synastrie : une vieill
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 125
 glyph: "⚷"
 definition: "Chiron de l’autre dans votre maison 5 mêle son Chiron à vos jeux, vos créations et vos amours. En synastrie, sa vieille blessure et la douceur qu’elle lui a apprise rencontrent votre joie : cette personne encourage ce que vous osez, et votre plaisir effleure son point sensible. Rien n’y annonce d’enfant."

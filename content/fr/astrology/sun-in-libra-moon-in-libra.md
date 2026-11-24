@@ -6,6 +6,8 @@ description: "Soleil en Balance, Lune en Balance : les deux luminaires dans le 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Balance", "Lune"]
 weight: 79
 glyph: "☉♎☽♎"
 definition: "Soleil en Balance, Lune en Balance place les luminaires dans le signe de la balance, à deux jours et demi au plus de la nouvelle lune en Balance, Vénus les gouvernant tous deux. Pour moi, c’est le but et le besoin pesés sur une même balance : un moi et un sentiment de sécurité qui se forment dans la relation."

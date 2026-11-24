@@ -6,6 +6,8 @@ description: "Le Soleil de l’autre dans votre maison 3 en synastrie : son él
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 3
 glyph: "☉"
 definition: "Le Soleil de l’autre dans votre maison 3 installe son Soleil dans la maison de votre esprit de tous les jours : les échanges, l’apprentissage, l’entourage proche. En synastrie, son élan entre dans vos conversations : vous apprenez et pensez plus vite à ses côtés, et ses projets lui paraissent plus clairs une fois racontés."

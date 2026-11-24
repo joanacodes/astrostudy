@@ -5,6 +5,8 @@ description: "Mars trine Chiron in synastry: one person’s drive comes near the
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Chiron", "trine", "synastry"]
 weight: 239
 glyph: "♂△⚷"
 definition: "Mars trine Chiron in synastry means one person’s Mars has the other’s Chiron about 120° away, within 5.1°, often in one element. One person’s drive and the other’s way of adapting around a limit work together easily. I read it as support that knows when to stop, worth checking now and then for what it quietly costs."

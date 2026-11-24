@@ -5,6 +5,8 @@ description: "Sun in Capricorn, Moon in Sagittarius: neighbouring signs, Jupiter
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Capricorn", "Moon", "Sagittarius"]
 weight: 117
 glyph: "☉♑☽♐"
 definition: "Sun in Capricorn, Moon in Sagittarius means the Moon trailed the Sun by one sign, in Sagittarius, at a birth in the closing days of the lunar month. Cardinal earth meets mutable fire, and Jupiter, the Moon’s ruler, has its fall in Capricorn. I read it as a structured life that keeps a window open."

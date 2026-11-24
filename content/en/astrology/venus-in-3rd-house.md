@@ -5,6 +5,8 @@ description: "Venus in the 3rd house in a birth chart: tact in everyday words, w
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "3rd house", "houses"]
 weight: 39
 glyph: "♀"
 definition: "Venus in the 3rd house places the planet of value and relating in the house of daily thought and talk, learning, and the people close at hand. It describes tact in everyday words, real warmth for siblings, cousins and neighbours, and affection that travels by conversation. Its house needs an exact birth time."

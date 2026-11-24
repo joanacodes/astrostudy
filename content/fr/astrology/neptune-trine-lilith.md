@@ -6,6 +6,8 @@ description: "Neptune trigone Lilith dans un thème natal : une part sauvage à
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Lilith", "trigone"]
 weight: 343
 glyph: "♆△⚸"
 definition: "Neptune trigone Lilith relie Neptune et la Lune noire Lilith moyenne à environ 120°, un trigone que porte environ 1 personne sur 15. Dans un thème, l’imagination et votre part indomptée coulent ensemble : la part sauvage trouve sans bataille un foyer dans l’art, les rêves ou la croyance."

@@ -6,6 +6,8 @@ description: "Lune opposition Mars en synastrie : le repos d’un côté, l’�
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "Mars", "opposition", "synastrie"]
 weight: 75
 glyph: "☽☍♂"
 definition: "Dans Lune opposition Mars en synastrie, Mars, chez l’une, fait face à la Lune de l’autre, à 8° près. Le besoin de repos et l’envie d’agir occupent les deux bouts, et chaque personne tend à en porter un. J’y lis une bascule entre l’élan et la pause, à équilibrer plutôt qu’à gagner."

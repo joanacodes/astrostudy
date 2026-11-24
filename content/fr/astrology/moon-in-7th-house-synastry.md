@@ -6,6 +6,8 @@ description: "La Lune de l’autre dans votre maison 7 en synastrie : ses besoi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 19
 glyph: "☽"
 definition: "La Lune de l’autre dans votre maison 7 est la superposition où sa Lune tombe parmi vos partenaires et vos liens en tête-à-tête. En synastrie, ses besoins vous rencontrent face à face : vous y répondez comme dans un couple, et cette personne trouve dans le tête-à-tête avec vous une vraie sécurité, quel que soit le lien."

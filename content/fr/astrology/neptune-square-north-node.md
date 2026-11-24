@@ -6,6 +6,8 @@ description: "Neptune carré Nœud Nord dans un thème natal : des rêves qui c
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Neptune", "Nœud Nord", "carré"]
 weight: 347
 glyph: "♆□☊"
 definition: "Neptune carré Nœud Nord place Neptune, à votre naissance, à mi-chemin entre les deux nœuds, à environ 90° de chacun. Dans un thème, l’imagination et les idéaux coupent la route entre le terrain familier et la croissance nouvelle, une friction qui demande de faire entrer le rêve dans la pratique."

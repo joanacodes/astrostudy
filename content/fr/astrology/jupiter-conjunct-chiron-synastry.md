@@ -6,6 +6,8 @@ description: "Jupiter conjonction Chiron en synastrie : la croissance de l’un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Chiron", "conjonction", "synastrie"]
 weight: 271
 glyph: "♃☌⚷"
 definition: "Jupiter conjonction Chiron en synastrie signifie que Jupiter, chez une personne, se trouve à moins de 5° de Chiron chez l’autre. La façon dont l’une trouve du sens tombe là où l’autre s’est adaptée à une limite durable, comme une aide ou comme une pression. Partagée par des années entières, elle demande le consentement ; je la lis par les maisons."

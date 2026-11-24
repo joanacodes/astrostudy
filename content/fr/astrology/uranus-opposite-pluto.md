@@ -6,6 +6,8 @@ description: "Uranus opposition Pluton dans un thème natal : absente de toutes
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Uranus", "Pluton", "opposition"]
 weight: 314
 glyph: "♅☍♇"
 definition: "Uranus opposition Pluton est un angle de 180° entre les deux planètes. Aucune naissance de 1930 à 2009 ne l’a, à 6° près. Cette opposition place l’envie de se libérer face à la pression de transformer à la racine, une polarité qui demande un équilibre ; les personnes nées ces années-là la rencontrent en transit et en synastrie."

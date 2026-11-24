@@ -6,6 +6,8 @@ description: "Jupiter carré Nœud Nord en synastrie : la vision du monde de l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Nœud Nord", "carré", "synastrie"]
 weight: 283
 glyph: "♃□☊"
 definition: "Jupiter carré Nœud Nord en synastrie signifie que Jupiter, chez une personne, se trouve à environ 90° du Nœud Nord de l’autre, à 4,25° près, donc aussi à 90° de son Nœud Sud. Les convictions de l’une se dressent en travers du chemin de l’autre. J’y lis un carrefour qui éprouve une direction, jamais un barrage."

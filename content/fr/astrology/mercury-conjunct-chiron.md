@@ -6,6 +6,8 @@ description: "Mercure conjonction Chiron dans un thème natal : un point sensib
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercure", "Chiron", "conjonction"]
 weight: 140
 glyph: "☿☌⚷"
 definition: "Mercure conjonction Chiron réunit à quelques degrés près, à la naissance, la planète de la parole et le petit corps qu’on lit comme un point sensible. Dans un thème, se faire comprendre peut sembler délicat, et vos façons de dire les choses deviennent un savoir-faire. J’y lis une sensibilité qui apprend à expliquer avec patience."

@@ -7,6 +7,8 @@ date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["zodiaque"]
 family: "foundations"
+categories: ["Les bases"]
+tags: ["zodiaque"]
 weight: 3
 glyph: "✦"
 definition: "Le zodiaque est le cercle des douze signes, de 30° chacun, posé le long de l’écliptique, la route annuelle du Soleil dans notre ciel, que la Lune et les planètes suivent de près. Dans un thème, le signe d’une planète décrit le style dans lequel elle agit. La tradition occidentale compte les signes à partir de l’équinoxe de mars."

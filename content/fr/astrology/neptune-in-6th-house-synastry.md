@@ -6,6 +6,8 @@ description: "Neptune de l’autre dans votre maison 6 en synastrie : son idéa
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 102
 glyph: "♆"
 definition: "Neptune de l’autre dans votre maison 6 place Neptune, chez cette personne, dans vos journées de travail et vos habitudes. En synastrie, son idéal donne du sens à vos journées : la routine devient rituel, l’aide circule, et votre méthode offre à sa compassion un usage concret. Les rôles peuvent se brouiller entre vous ; votre santé n’y est jamais lue."

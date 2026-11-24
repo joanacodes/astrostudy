@@ -5,6 +5,8 @@ description: "Mars opposite Uranus in a birth chart: effort and freedom at two e
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Uranus", "opposition"]
 weight: 214
 glyph: "♂☍♅"
 definition: "Mars opposite Uranus puts the planet of effort and the planet of change at opposite ends of the chart, about 180° apart. In a chart it pulls your drive between commitment and the need for freedom, often through other people first. I read it as a polarity that teaches independence without isolation."

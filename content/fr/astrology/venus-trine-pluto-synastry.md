@@ -6,6 +6,8 @@ description: "Vénus trigone Pluton en synastrie : la profondeur et l’estime 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Pluton", "trigone", "synastrie"]
 weight: 194
 glyph: "♀△♇"
 definition: "Vénus trigone Pluton en synastrie signifie que Vénus, chez une personne, se trouve à environ 120° de Pluton chez l’autre, à 5,1° près. Ce que la première estime et le goût de la seconde pour la profondeur vont dans le même sens : franchise et loyauté viennent sans effort. J’y lis une profondeur facile, qu’il faut quand même dire."

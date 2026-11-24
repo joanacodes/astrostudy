@@ -5,6 +5,8 @@ description: "Mercury conjunct Venus in a birth chart: thinking and valuing in o
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mercury", "Venus", "conjunction"]
 weight: 108
 glyph: "☿☌♀"
 definition: "Mercury conjunct Venus means Mercury and Venus were within a few degrees of each other when you were born. In a chart it joins the way you think with the way you value, so words are weighed for how they land. I read it as a gift for saying things well, which still needs something true to say."

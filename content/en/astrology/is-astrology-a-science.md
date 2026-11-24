@@ -5,6 +5,8 @@ description: "Is astrology a science? What Popper, Kuhn and Thagard argued, what
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "tested"
+categories: ["Astrology, tested"]
+tags: ["testing"]
 weight: 18
 glyph: "✦"
 definition: "No, not by the standards of modern science. Philosophers of science often use astrology as their example of a pseudoscience, and in the best-known controlled test, birth charts did no better than chance. They disagree about why it falls short: for Popper it can’t be falsified, for Kuhn it had no puzzles to solve, for Thagard it stopped progressing."

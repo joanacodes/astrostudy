@@ -6,6 +6,8 @@ description: "Jupiter carré Pluton en synastrie : l’envie d’élargir de l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Pluton", "carré", "synastrie"]
 weight: 268
 glyph: "♃□♇"
 definition: "Jupiter carré Pluton en synastrie signifie que Jupiter, chez une personne, se trouve à environ 90° de Pluton chez l’autre, à 4,25° près. L’envie d’élargir rencontre sans cesse celle de déblayer et de transformer, et chacune met l’autre à l’épreuve. Partagée par des années entières, c’est une friction qui enracine les convictions, jamais un concours."

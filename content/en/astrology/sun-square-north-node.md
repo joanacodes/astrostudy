@@ -5,6 +5,8 @@ description: "Sun square North Node in a birth chart: who you are, standing acro
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "North Node", "square"]
 weight: 50
 glyph: "☉□☊"
 definition: "Sun square North Node means the Sun was about 90° from the North Node when you were born, and so square to the South Node too. In a chart your sense of self sits across the path between the familiar and the new, asking to be included in your growth. I read it as friction that makes you the bridge."
