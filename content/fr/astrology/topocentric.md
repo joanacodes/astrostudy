@@ -2,7 +2,7 @@
 title: "Topocentrique"
 slug: "topocentrique"
 h1: "Le système de maisons topocentrique"
-description: "Le système de maisons topocentrique : les maisons argentines de Polich et Page Nelson, ajustées à des vies, à moins d’un degré de Placidus, et ce que cela change."
+description: "Le système de maisons topocentrique : les maisons argentines de Polich et Page Nelson, ajustées à des vies, à moins d’un degré de Placidus, et ce qu’il en résulte."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "houses"
