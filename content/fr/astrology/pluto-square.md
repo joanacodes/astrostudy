@@ -24,7 +24,7 @@ related: ["/astrology/pluto", "/astrology/neptune-square", "/astrology/pluto-in-
 faq:
   - q: "À quel âge a lieu le carré de Pluton ?"
     a: "Cela dépend de l’année de naissance plus que pour tout autre transit : pour les naissances de 1930 à 2009, le premier carré exact est venu entre 35,5 et 59,3 ans. Pour une naissance au milieu des années 1960, vers 35 ans et demi ; en 1930, vers 49 ans ; en 2005, ce sera vers 55 ans et demi."
-  - q: "Pourquoi le carré de Pluton arrive-t-il à des âges si différents ?"
+  - q: "Pourquoi est-ce que le carré de Pluton arrive à des âges si différents ?"
     a: "Parce que l’orbite de Pluton est très étirée : la planète passe 12 ans environ dans certains signes et 31 dans d’autres. Pour une naissance dans les années 1960, le quart de cercle traversait des signes que Pluton parcourt vite ; dans les années 2000, des signes plus lents, Capricorne, Verseau et Poissons : le carré vient alors des décennies plus tard."
   - q: "Combien de temps dure le carré de Pluton ?"
     a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, deux à trois ans en général, parfois près de quatre, avec trois passages exacts, ou cinq quand une station tombe sur le degré. Pour une naissance le 1er janvier 1985, à 41,1, 41,6 et 42 ans : en 2026 et dans les premiers jours de 2027."

@@ -28,7 +28,7 @@ faq:
     a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, une douzaine de jours quand Jupiter passe une seule fois sur son degré de naissance, et huit mois environ quand une boucle rétrograde fait passer Jupiter trois fois sur ce degré, ce qui arrive environ trois fois sur dix. Certains comptent toute l’année passée dans le signe natal."
   - q: "Que veut dire un retour de Jupiter ?"
     a: "J’y lis la fin d’un tour de croissance de douze ans et le début du suivant : une saison pour se demander ce que l’on veut davantage, ce que l’on a dépassé, et ce que l’on comprend aujourd’hui. Le retour se lit à travers Jupiter dans votre thème natal, son signe, sa maison et ses aspects, et ne promet aucune aubaine."
-  - q: "Le retour de Jupiter porte-t-il chance ?"
+  - q: "Est-ce que le retour de Jupiter porte chance ?"
     a: "La tradition faisait de Jupiter la grande planète bénéfique, et le retour a une réputation pleine d’espoir. Dans le système que j’ai construit pour mes lectures, Jupiter élargit la compréhension et soutient la croissance : ce n’est ni la chance, ni la richesse, ni la réussite. Un retour ouvre de la place pour grandir ; vous décidez de ce qui la remplit."
 sources:
   - { title: "NASA — Jupiter facts", url: "https://science.nasa.gov/jupiter/jupiter-facts/", note: "son orbite : environ 12 ans autour du Soleil" }

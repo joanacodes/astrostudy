@@ -26,8 +26,8 @@ faq:
     a: "Le premier passage date du 23 mars 2023 ; Pluton a regagné le Capricorne en juin, retrouvé le Verseau en janvier 2024, regagné le Capricorne en septembre, puis pris pied pour de bon en Verseau le 19 novembre 2024. Chaque recul venait de la rétrogradation annuelle, à cheval sur la frontière. Le départ définitif aura lieu en janvier 2044."
   - q: "Combien de temps dure le passage de Pluton en Verseau ?"
     a: "Une vingtaine d’années : de novembre 2024 à mars 2043, quand Pluton franchit pour la première fois le seuil des Poissons, puis encore de septembre 2043 au 19 janvier 2044. L’orbite étirée de Pluton lui laisse de 12 à 31 ans par signe, et le Verseau se situe entre les deux."
-  - q: "Comment le passage de Pluton en Verseau touche-t-il mon thème ?"
-    a: "Par la maison où tombe le Verseau dans votre thème, que Pluton traverse pendant des années, et par toute planète natale en Verseau, rencontrée degré après degré. Pluton forme aussi des carrés aux planètes en Taureau et en Scorpion et s’oppose à celles du Lion. Trouver la maison demande votre heure de naissance."
+  - q: "Que touche le passage de Pluton en Verseau dans mon thème ?"
+    a: "La maison où tombe le Verseau dans votre thème, que Pluton traverse pendant des années, et toute planète natale en Verseau, rencontrée degré après degré. Pluton forme aussi des carrés aux planètes en Taureau et en Scorpion et s’oppose à celles du Lion. Trouver la maison demande votre heure de naissance."
   - q: "Qui vit son carré de Pluton pendant le passage en Verseau ?"
     a: "La plupart des personnes nées entre novembre 1983 et novembre 1995, avec Pluton en Scorpion : Pluton en transit en Verseau se trouve à 90° de la position de Pluton dans leur thème natal. Pour le 1er janvier 1985, à 41,1, 41,6 et 42 ans, en 2026 et au tout début de 2027 ; pour 1990, en 2034."
 sources:

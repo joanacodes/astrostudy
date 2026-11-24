@@ -26,7 +26,7 @@ faq:
     a: "Le 20 février 2026 à 18 h 29 UT, à 0°45′ Bélier, en un seul passage exact. Neptune avait franchi le seuil du Bélier le 26 janvier et Saturne le 14 février : les deux planètes se sont rejointes quelques jours après leur entrée dans le premier signe. Entre 1800 et 2100, c’est leur seule rencontre en Bélier."
   - q: "À quelle fréquence a lieu la rencontre de Saturne et de Neptune ?"
     a: "Tous les 36 ans environ. Avant 2026, il y a eu trois rencontres en Capricorne en 1989, trois en Balance en 1952-1953, une en Lion en 1917 ; la prochaine aura lieu le 7 juin 2061, à 20°23′ Gémeaux. De 1809 à 2096, ces rencontres passent tour à tour par le feu, l’air et la terre."
-  - q: "La conjonction Saturne-Neptune touche-t-elle mon thème ?"
+  - q: "Est-ce que la conjonction Saturne-Neptune touche mon thème ?"
     a: "Directement, si vous avez une planète ou un angle près du premier degré du Bélier, du Cancer, de la Balance ou du Capricorne : ce point rencontre alors Saturne et Neptune en transit pendant la même période. Sinon, par la maison où tombent les premiers degrés du Bélier, qu’il faut l’heure de naissance pour trouver."
   - q: "Que veut dire Saturne conjonction Neptune ?"
     a: "Saturne construit des structures qui durent ; Neptune imagine, et desserre les limites devenues inutiles. Leur rencontre demande qu’un rêve prenne forme, et qu’une forme se souvienne de ce à quoi elle servait. Je lis cela dans les thèmes que la conjonction touche, jamais comme une prédiction pour le monde."

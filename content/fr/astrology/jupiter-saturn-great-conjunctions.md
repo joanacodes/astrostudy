@@ -28,7 +28,7 @@ faq:
     a: "Le 31 octobre 2040, à 17°55′ Balance. Viendront ensuite le 7 avril 2060 à 0°46′ Gémeaux, le 15 mars 2080 à 11°52′ Verseau et le 18 septembre 2100 à 25°32′ Balance. Toutes les quatre, comme celle de 2020, tombent dans des signes d’air, après une longue série en terre."
   - q: "Pourquoi l’élément d’une grande conjonction compte-t-il ?"
     a: "Chaque rencontre tombe à 120° environ en retrait de la précédente : trois de suite dessinent un triangle dans les signes d’un même élément, pendant deux siècles environ, avant de passer au suivant. La tradition donnait un poids particulier à la première rencontre dans un nouvel élément. De 1842 à 2000, elles sont tombées en terre, sauf en 1980-1981."
-  - q: "Comment une grande conjonction touche-t-elle mon thème ?"
+  - q: "Comment est-ce qu’une grande conjonction touche mon thème ?"
     a: "Par l’endroit où tombe son degré : la maison où elle tombe, qui demande votre heure de naissance, et toute planète natale à quelques degrés, qui rencontre alors Jupiter et Saturne en transit en même temps. J’y lis un tournant de vingt ans du ciel dans votre thème, jamais une prophétie sur vous ou sur le monde."
 sources:
   - { title: "Les dates de The Astro Study d’après la position des planètes", note: "toutes les conjonctions de Jupiter et de Saturne de 1800 à 2100, avec leur degré" }
