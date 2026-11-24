@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Mars", "Fomalhaut", "étoiles fixes"]
 weight: 2583
 glyph: "♂☌★"
-definition: "Mars conjonction Fomalhaut place Mars au début des Poissons, à moins de 1° du degré de l’étoile brillante du Poisson austral. Mars franchit ce degré en deux ou trois jours, environ une année sur deux ; en 2003, trois fois. Environ 1 personne sur 210 a ce contact. L’astronomie chinoise faisait de l’étoile la porte d’un camp militaire."
+definition: "Mars conjonction Fomalhaut place Mars au tout début des Poissons, sur le degré de l’étoile brillante du Poisson austral, à 1° près. Mars franchit ce degré en deux ou trois jours, environ une année sur deux ; en 2003, trois fois. Environ 1 personne sur 210 a ce contact. L’astronomie chinoise faisait de l’étoile la porte d’un camp militaire."
 facts:
   - { k: "Planète", v: "Mars ♂" }
   - { k: "Étoile", v: "Fomalhaut, α Piscis Austrini : 3°51′ des Poissons en 2000, 4°13′ des Poissons en 2026" }
@@ -32,13 +32,13 @@ sources:
   - { title: "IAU Working Group on Star Names, « Beiluo Shimen », All Skies Encyclopaedia, via Wikipédia en anglais, « Fomalhaut »", url: "https://en.wikipedia.org/wiki/Fomalhaut", note: "le nom chinois, la Porte du camp militaire du Nord" }
   - { title: "« Mars Opposition », NASA’s Mars Exploration Program (2017), et J. Laskar, « Primer on Mars oppositions », IMCCE (2003), via Wikipédia en anglais, « Mars »", url: "https://en.wikipedia.org/wiki/Mars", note: "l’opposition de 2003, proche du périhélie, et l’écart des distances lors des oppositions" }
 ---
-Mars conjonction Fomalhaut place Mars dans les tout premiers degrés des Poissons, sur le degré de Fomalhaut. La plupart des années qui offrent ce contact, Mars passe en deux ou trois jours ; en 2003, quand la distance entre Mars et la Terre est tombée presque au minimum possible, le degré a été franchi trois fois.
+Mars conjonction Fomalhaut place Mars au tout début des Poissons, au degré de Fomalhaut. La plupart des années qui offrent ce contact, Mars passe en deux ou trois jours ; en 2003, quand la distance entre Mars et la Terre est tombée presque au minimum possible, le degré a été franchi trois fois.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
 Pour moi, [Mars](/astrology/mars/) est la partie du thème qui lance les choses et s’y tient : l’effort, l’initiative, le cran de commencer, et la ligne que vous tenez quand quelque chose pousse contre elle. [Fomalhaut](/astrology/fomalhaut/) porte un nom chinois qui convient mieux à Mars que n’importe quel titre royal. Les astronomes chinois l’appelaient Běiluòshīmén, la Porte du camp militaire du Nord : une étoile seule à l’entrée du camp, parmi les étoiles du Campement, l’une des vingt-huit maisons lunaires.
 
-La planète qui porte le nom du dieu romain de la guerre arrive donc à la porte d’un camp d’armée, et une lecture par les étoiles pourrait en tirer beaucoup. Je ne prends aucun de ces deux noms pour l’annonce d’un conflit. L’une des tâches de Mars, telle que je la lis, est de tenir une limite : décider de ce qui entre et de ce qui reste dehors, et le dire clairement. Une porte fait ce travail, elle aussi, et je n’irais pas plus loin avec l’image.
+La planète nommée d’après le dieu romain de la guerre arrive donc à la porte d’un camp d’armée, et une lecture par les étoiles pourrait en tirer beaucoup. Je ne prends aucun de ces deux noms pour l’annonce d’un conflit. L’une des tâches de Mars, telle que je la lis, est de tenir une limite : décider de ce qui entre et de ce qui reste dehors, et le dire clairement. Une porte fait ce travail, elle aussi, et je n’irais pas plus loin avec l’image.
 
 Le signe en dit davantage. Quelle que soit l’année, le degré de l’étoile se trouve au tout début des Poissons, ce qui fait de ce contact [Mars en Poissons](/astrology/mars-in-pisces/), où l’effort suit volontiers un sentiment ou une image avant de suivre un plan, et où agir pour quelqu’un d’autre vient parfois plus facilement qu’agir pour soi.
 

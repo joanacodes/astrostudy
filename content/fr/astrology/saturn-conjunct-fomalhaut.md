@@ -2,7 +2,7 @@
 title: "Saturne conjonction Fomalhaut"
 slug: "saturne-conjonction-fomalhaut"
 h1: "Saturne conjonction Fomalhaut dans un thème natal"
-description: "Saturne conjonction Fomalhaut dans un thème natal : Saturne au début des Poissons, au degré de Fomalhaut, pour les naissances de 1935, de 1964-1965 ou de début 1994."
+description: "Saturne conjonction Fomalhaut dans un thème natal : Saturne au début des Poissons, au degré de Fomalhaut, pour des naissances de 1935, 1964-1965 ou début 1994."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Saturne", "Fomalhaut", "étoiles fixes"]
 weight: 2584
 glyph: "♄☌★"
-definition: "Saturne conjonction Fomalhaut, c’est Saturne à moins de 1° du degré de Fomalhaut, au début des Poissons : naissances de mars à novembre 1935, d’avril 1964 à janvier 1965, ou de février à mars 1994. Environ 1 personne sur 183 l’a. Le titre royal de l’étoile est douteux ; dans mon carnet, Saturne a tenu de 75 à 90 % du temps."
+definition: "Saturne conjonction Fomalhaut, c’est Saturne à moins de 1° du degré de Fomalhaut, au début des Poissons : naissances de 1935 (de mars à novembre), de 1964-1965 (d’avril à janvier) ou de 1994 (février et mars). Environ 1 personne sur 183 l’a. Le titre royal de l’étoile est douteux ; dans mon carnet, Saturne a tenu de 75 à 90 % du temps."
 facts:
   - { k: "Planète", v: "Saturne ♄" }
   - { k: "Étoile", v: "Fomalhaut, α Piscis Austrini : 2°52′ des Poissons en 1930, 3°51′ des Poissons en 2000" }
@@ -24,9 +24,9 @@ faq:
   - q: "Quand a eu lieu Saturne conjonction Fomalhaut ?"
     a: "Pour les naissances de 1930 à 2009 : mars 1935, puis de la mi-octobre à fin novembre 1935 ; de la mi-avril à la mi-mai 1964, de la mi-juillet à la mi-août 1964 et en janvier 1965 ; de fin février à début mars 1994. Les mois intermédiaires ne comptent pas : Saturne s’éloignait avant de revenir."
   - q: "Saturne conjonction Fomalhaut, est-ce rare ?"
-    a: "Environ 1 personne sur 183 née entre 1930 et 2009, près de la moyenne d’une fenêtre d’un degré. Ce contact accompagne quelques mois de naissances plutôt qu’un anniversaire : des camarades de classe dont les naissances sont à quelques semaines d’écart, en 1964, peuvent le partager."
+    a: "Environ 1 personne sur 183 née entre 1930 et 2009, autant que donne en moyenne une fenêtre d’un degré. Ce contact accompagne quelques mois de naissances plutôt qu’un anniversaire : des camarades de classe dont les naissances sont à quelques semaines d’écart, en 1964, peuvent le partager."
   - q: "Quand a eu lieu le dernier passage de Saturne sur Fomalhaut ?"
-    a: "En 2023 et au début de 2024 : Saturne a franchi le degré de l’étoile le 17 avril 2023, l’a retraversé le 23 août en rétrograde, et l’a franchi une dernière fois le 12 janvier 2024. Pour les personnes nées en 1994, ce passage était leur retour de Saturne sur la même étoile."
+    a: "En 2023 et au début de 2024 : Saturne a franchi le degré de l’étoile le 17 avril 2023, l’a retraversé le 23 août en rétrograde, et l’a franchi une dernière fois le 12 janvier 2024. Pour les personnes nées en 1994, c’était le retour de Saturne, sur cette même étoile."
 sources:
   - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et le décompte de The Astro Study d’après la position de Saturne, 1930–2009", note: "la position de Fomalhaut selon l’année, la fréquence de Saturne à moins de 1° d’elle, et les dates des passages et des stations" }
   - { title: "W. B. Henning, « An Astronomical Chapter of the Bundahishn », Journal of the Royal Asiatic Society (1942), via Wikipédia en anglais, « Celestial Commanders »", url: "https://en.wikipedia.org/wiki/Celestial_Commanders", note: "le commandant du sud autrefois pris pour Fomalhaut, plus probablement Antarès" }
@@ -44,7 +44,7 @@ Chaque période place Saturne dans les premiers degrés des Poissons ([Saturne e
 
 Le cycle relie aussi les trois groupes. Les personnes nées pendant le passage de 1935 ont retrouvé Saturne sur l’étoile lors de leur [retour de Saturne](/astrology/saturn-return/), en 1964-1965 ; pour les personnes nées alors, le même retour est arrivé en 1994 ; et le suivant en 2023, avec des passages le 17 avril et le 23 août de cette année-là, puis le 12 janvier 2024.
 
-Dans le ciel, Saturne ne s’approche jamais de l’étoile. Fomalhaut se trouve à 21° au sud de l’écliptique, et Saturne ne s’en écarte que de quelques degrés : à chaque passage, la planète a défilé à environ 19 ou 20° au nord de l’étoile.
+Dans le ciel, Saturne ne s’approche jamais de l’étoile. L’étoile se tient à 21° au sud de l’écliptique, et Saturne ne s’en écarte que de quelques degrés : à chaque passage, la planète a défilé à environ 19 ou 20° au nord de l’étoile.
 
 Avec Chiron et Lilith, Saturne forme dans mon carnet le trio qui a tenu bien plus souvent que tout le reste, de 75 à 90 % du temps, et les étoiles n’ont jamais été testées ([Les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)). Ce que je soutiendrais dans ce contact, c’est donc Saturne : son signe, sa maison, ses aspects, et une leçon qui prend son temps. Un calendrier, pas un mur.
 

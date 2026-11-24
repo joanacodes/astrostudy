@@ -2,7 +2,7 @@
 title: "Lune conjonction Spica"
 slug: "lune-conjonction-spica"
 h1: "Lune conjonction Spica dans un thème natal"
-description: "Lune conjonction Spica dans un thème natal : la Lune en fin de Balance au degré de Spica, qu’elle peut même cacher. La première maison lunaire, l’heure de naissance."
+description: "Lune conjonction Spica dans un thème natal : la Lune en fin de Balance au degré de Spica, qu’elle peut cacher. Première maison lunaire, heure de naissance."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Lune", "Spica", "étoiles fixes"]
 weight: 2591
 glyph: "☽☌★"
-definition: "Lune conjonction Spica, c’est une naissance avec la Lune en fin de Balance, à moins de 1° du degré de l’épi de la Vierge. La Lune franchit ce degré chaque mois en trois ou quatre heures : l’heure de naissance décide, et certaines années, elle passe juste devant l’étoile. Dans l’astronomie chinoise, Spica ouvre les vingt-huit maisons de la Lune."
+definition: "Lune conjonction Spica place la Lune dans les derniers degrés de la Balance, à 1° près du degré de l’épi de la Vierge. La Lune franchit ce degré chaque mois en trois ou quatre heures : l’heure de naissance décide, et certaines années, elle passe juste devant l’étoile. Dans l’astronomie chinoise, Spica ouvre les vingt-huit maisons de la Lune."
 facts:
   - { k: "Planète", v: "La Lune ☽" }
   - { k: "Étoile", v: "Spica, α Virginis : 23°50′ de la Balance en 2000, 24°12′ de la Balance en 2026" }
@@ -22,7 +22,7 @@ faq:
   - q: "Que veut dire Lune conjonction Spica ?"
     a: "Votre Lune est sur le degré de Spica, en fin de Balance, ce que seule une heure de naissance exacte confirme. La Lune décrit ce dont vous avez besoin pour vous poser ; Spica apporte de vieux noms de grain et ouvre les maisons lunaires chinoises. La Lune en Balance, sa maison et ses aspects vous décrivent mieux que l’étoile."
   - q: "Comment savoir si ma Lune est conjointe à Spica ?"
-    a: "Avec votre heure de naissance consignée : la Lune doit se trouver à moins d’un degré de Spica pour votre année, entre 22° et 25° de la Balance environ pour les naissances de 1930 à 2009. Sans l’heure, personne ne peut le dire, puisque la Lune ne passe que trois ou quatre heures par mois dans cette fenêtre."
+    a: "Avec votre heure de naissance consignée : la Lune doit se trouver à moins d’un degré de Spica pour votre année, entre 22° et 25° de la Balance environ pour les naissances de 1930 à 2009. Sans l’heure, personne ne peut le dire, puisque la Lune ne reste dans cette fenêtre que trois ou quatre heures chaque mois."
   - q: "La Lune peut-elle cacher Spica ?"
     a: "Oui. Spica ne se trouve qu’à 2° environ de la route du Soleil, dans la bande que parcourt la Lune : certaines années, la Lune passe devant elle chaque mois, vue d’une partie de la Terre. Ces séries d’occultations ont eu lieu en 1987-1988, en 1994-1995 et en 2024-2025."
   - q: "Dans quelle maison lunaire se trouve Spica ?"
@@ -42,8 +42,8 @@ La [Lune](/astrology/moon/), dans un thème, est la part qui prend soin de vous�
 
 Pour toutes les naissances comptées ici, Spica se tenait en fin de Balance : c’est donc toujours une [Lune en Balance](/astrology/moon-in-libra/), une Lune qui trouve son assise dans l’harmonie avec les autres et le sentiment que les comptes sont justes. Les noms de grain de Spica, et la liste médiévale qui l’a donnée à Vénus et à Mercure, s’y posent sans peine, comme une couleur de la tradition.
 
-Demandez à votre acte de naissance avant de demander à l’étoile. Le contact dure trois ou quatre heures par mois, et seule une heure consignée peut dire si votre naissance tombe dans ces heures-là. La même heure fixe la maison de la Lune, et avec elle le domaine de la vie où ces besoins trouvent leur réponse ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Demandez à votre acte de naissance avant de demander à l’étoile. Le contact dure trois ou quatre heures par mois, et seule une heure consignée peut montrer que votre naissance s’y trouve. La même heure fixe la maison de la Lune, et avec elle le domaine de la vie où ces besoins trouvent leur réponse ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-La Lune se trouve sur le degré de Spica pour environ 1 personne sur 187 née entre 1930 et 2009, près de la moyenne d’une fenêtre d’un degré. Des cinq contacts de l’étoile, seul celui de la Lune exige que l’heure de naissance le confirme : le [Soleil conjonction Spica](/astrology/sun-conjunct-spica/), [Vénus conjonction Spica](/astrology/venus-conjunct-spica/), [Mars conjonction Spica](/astrology/mars-conjunct-spica/) et [Saturne conjonction Spica](/astrology/saturn-conjunct-spica/) se règlent le plus souvent à partir de la seule date, sauf tout au bord de leur fenêtre.
+La Lune se trouve sur le degré de Spica pour environ 1 personne sur 187 parmi les naissances de 1930 à 2009, ce qui correspond à peu près à une fenêtre d’un degré. Des cinq contacts de l’étoile, seul celui de la Lune exige que l’heure de naissance le confirme : le [Soleil conjonction Spica](/astrology/sun-conjunct-spica/), [Vénus conjonction Spica](/astrology/venus-conjunct-spica/), [Mars conjonction Spica](/astrology/mars-conjunct-spica/) et [Saturne conjonction Spica](/astrology/saturn-conjunct-spica/) se règlent le plus souvent à partir de la seule date, sauf tout au bord de leur fenêtre.
 
-Les thèmes que je lis ne portent aucune étoile, Spica comprise. Ce que je lirais pour une Lune à cet endroit, c’est la Lune en Balance, sa maison et ses aspects ; la façon dont on compte un contact d’étoile, et pourquoi seule la conjonction compte, sont traitées dans [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/).
+Je ne place aucune étoile dans les thèmes que je lis, pas même Spica. Ce que je lirais pour une Lune à cet endroit, c’est la Lune en Balance, sa maison et ses aspects ; le décompte des contacts d’étoile, et la raison pour laquelle seule la conjonction y entre, sont traités dans [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/).

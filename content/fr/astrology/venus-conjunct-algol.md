@@ -2,7 +2,7 @@
 title: "Vénus conjonction Algol"
 slug: "venus-conjonction-algol"
 h1: "Vénus conjonction Algol dans un thème natal"
-description: "Vénus conjonction Algol dans un thème natal : Vénus dans son propre signe, le Taureau, au degré de l’étoile du Démon, de fin mars à début juillet. Sans prédiction."
+description: "Vénus conjonction Algol dans un thème natal : Vénus chez elle en Taureau, au degré de l’étoile du Démon, de fin mars à début juillet. Sans prédiction."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"

@@ -2,7 +2,7 @@
 title: "Vénus conjonction Fomalhaut"
 slug: "venus-conjonction-fomalhaut"
 h1: "Vénus conjonction Fomalhaut dans un thème natal"
-description: "Vénus conjonction Fomalhaut dans un thème natal : Vénus exaltée en Poissons, au degré de l’étoile brillante du Poisson austral, de janvier à avril. Mythe, rareté."
+description: "Vénus conjonction Fomalhaut dans un thème natal : Vénus exaltée en Poissons, au degré de l’étoile du Poisson austral, de janvier à avril. Mythe, rareté."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/fomalhaut", "/astrology/venus", "/astrology/conjunctions-to-fixed-stars", "/astrology/venus-in-pisces", "/astrology/exaltation"]
 faq:
   - q: "Que veut dire Vénus conjonction Fomalhaut ?"
-    a: "Votre Vénus se trouve dans les premiers degrés des Poissons, sur le degré de Fomalhaut. Vénus décrit ce à quoi vous accordez de la valeur et la manière dont l’affection circule ; l’étoile y ajoute un titre royal et le récit syrien d’un poisson qui sauva la fille d’Aphrodite. Je garde l’étoile comme légende et je lis Vénus en Poissons."
+    a: "Votre Vénus occupe le début des Poissons, au degré même de Fomalhaut. Vénus décrit ce à quoi vous accordez de la valeur et la manière dont l’affection circule ; l’étoile y ajoute un titre royal et le récit syrien d’un poisson qui sauva la fille d’Aphrodite. Je garde l’étoile comme légende et je lis Vénus en Poissons."
   - q: "Vénus est-elle exaltée quand elle est conjointe à Fomalhaut ?"
     a: "Oui, dans les termes de la tradition. Fomalhaut se trouve dans les premiers degrés des Poissons, le signe où Vénus est dite exaltée : toute Vénus posée sur cette étoile est une Vénus en Poissons. L’exaltation est le vieux mot pour un signe où une planète est particulièrement honorée ; ici, elle décrit une aisance et ne promet rien."
   - q: "Quelles dates de naissance peuvent donner Vénus conjonction Fomalhaut ?"
@@ -36,7 +36,7 @@ Vénus conjonction Fomalhaut place Vénus dans les premiers degrés des Poissons
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
-Je lis [Vénus](/astrology/venus/) comme un jugement de valeur : ce qui vous attire, ce que vous choisissez quand vous pourriez avoir l’un ou l’autre, ce que vous tenez pour un échange juste entre deux personnes. Parmi les récits qui entourent [Fomalhaut](/astrology/fomalhaut/), l’un touche de près au nom même de Vénus. Ctésias, historien grec du cinquième siècle avant notre ère, parle d’un poisson qui vivait dans un lac près de Bambyce, en Syrie, et qui sauva Derceto, une fille d’Aphrodite ; il fut placé parmi les étoiles pour cela, et c’est pourquoi, poursuit le récit, bien des Syriens tenaient les poissons pour sacrés et n’en mangeaient pas. Aphrodite est la déesse que les Romains appelaient Vénus : dans l’un de ses plus anciens récits, le Poisson austral sauve donc un membre de sa famille. Une version égyptienne donne au poisson le même rôle auprès d’Isis.
+Pour moi, [Vénus](/astrology/venus/) est un jugement de valeur : ce qui vous attire, ce que vous choisissez quand vous pourriez avoir l’un ou l’autre, ce que vous tenez pour un échange juste entre deux personnes. Parmi les récits qui entourent [Fomalhaut](/astrology/fomalhaut/), l’un touche de près au nom même de Vénus. Ctésias, historien grec du cinquième siècle avant notre ère, parle d’un poisson qui vivait dans un lac près de Bambyce, en Syrie, et qui sauva Derceto, une fille d’Aphrodite ; il fut placé parmi les étoiles pour cela, et c’est pourquoi, poursuit le récit, bien des Syriens tenaient les poissons pour sacrés et n’en mangeaient pas. Aphrodite est la déesse que les Romains appelaient Vénus : dans l’un de ses plus anciens récits, le Poisson austral sauve donc un membre de sa famille. Une version égyptienne donne au poisson le même rôle auprès d’Isis.
 
 Ces histoires sont la couleur que la tradition donne à ce contact, et elles sont bienveillantes : une étoile qui sauve au lieu de menacer. Elles restent des histoires. Vénus garde ici son propre travail, et ce qui la décrit le mieux, c’est le signe. Le degré de l’étoile, 2°52′ des Poissons en 1930 et 4°13′ en 2026, en fait toujours une [Vénus en Poissons](/astrology/venus-in-pisces/), et les Poissons sont le signe où les vieux livres plaçaient Vénus en [exaltation](/astrology/exaltation/), à sa place la plus honorée. Lue sans aucune étoile, c’est une Vénus dont le sens de la valeur passe volontiers par la tendresse, l’imagination et l’acceptation.
 

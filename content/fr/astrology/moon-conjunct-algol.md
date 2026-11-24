@@ -2,7 +2,7 @@
 title: "Lune conjonction Algol"
 slug: "lune-conjonction-algol"
 h1: "Lune conjonction Algol dans un thème natal"
-description: "Lune conjonction Algol dans un thème natal : une Lune exaltée en Taureau, les quelques heures par mois qu’elle passe au degré de l’étoile du Démon. L’heure décide."
+description: "Lune conjonction Algol dans un thème natal : une Lune exaltée en Taureau, quelques heures par mois au degré de l’étoile du Démon. L’heure décide."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -22,7 +22,7 @@ faq:
   - q: "Que veut dire Lune conjonction Algol ?"
     a: "Dans votre thème, la Lune tombe sur le degré d’Algol, à la fin du Taureau, une position qu’elle n’occupe que quelques heures chaque mois. La Lune décrit vos besoins et la manière dont vous retrouvez votre équilibre ; la tradition y a accroché les noms sinistres de l’étoile. Ces noms relèvent de l’histoire ; je lirais la Lune en Taureau."
   - q: "Comment savoir si ma Lune est conjointe à Algol ?"
-    a: "Demandez un thème établi à partir de l’heure inscrite sur votre acte de naissance, et vérifiez si la Lune se trouve à moins d’un degré d’Algol pour votre année, entre 24° et 27° du Taureau environ pour toute naissance de 1930 à 2009. La Lune traverse cette fenêtre en trois ou quatre heures : une date seule ne suffit jamais."
+    a: "Demandez un thème établi à partir de l’heure inscrite sur votre acte de naissance, et vérifiez si la Lune se trouve à moins d’un degré d’Algol pour votre année, entre 24° et 27° du Taureau environ si votre naissance date de 1930 à 2009. La Lune traverse cette fenêtre en trois ou quatre heures : une date seule ne suffit jamais."
   - q: "Lune conjonction Algol, est-ce mauvais ?"
     a: "Non. L’étoile malheureuse de la tradition se trouve dans le signe même où cette tradition exalte la Lune, ce qui dit assez quelle confiance accorder à l’une ou l’autre étiquette. Le contact ne prédit rien de votre santé, de votre sécurité ni de votre vie ; il décrit une Lune en Taureau."
   - q: "La Lune est-elle exaltée quand elle est conjointe à Algol ?"
@@ -40,7 +40,7 @@ Telle que je la lis, la [Lune](/astrology/moon/) est votre intendance intérieur
 
 Ici, la tradition se contredit. Le degré d’Algol, un peu après 25° du Taureau pour les naissances les plus anciennes comptées ici et après 26° pour les plus récentes, fait de la Lune posée sur elle toujours une [Lune en Taureau](/astrology/moon-in-taurus/), et le Taureau est justement le signe où la même tradition plaçait la Lune en [exaltation](/astrology/exaltation/), son signe le plus honoré. Une vieille règle dit l’endroit malheureux, une autre en fait le meilleur signe de la Lune. J’y vois une raison de ne tenir aucune des deux étiquettes pour un fait qui vous concerne, et de regarder ce que le signe lui-même décrit : des besoins comblés par la continuité, la stabilité et ce qui dure.
 
-La Lune parcourt environ 13° par jour : elle traverse la fenêtre de deux degrés en trois ou quatre heures, et la date seule ne peut pas dire si votre naissance tombe dans ces heures-là. C’est pourquoi je ne lis pas un thème sans heure de naissance : ici, l’heure décide entièrement du contact, et elle décide aussi de la maison de la Lune ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La Lune parcourt environ 13° par jour : trois ou quatre heures lui suffisent pour franchir la fenêtre de deux degrés, et la date seule ne peut pas dire si votre naissance tombe dans ces heures-là. C’est pourquoi je ne lis pas un thème sans heure de naissance : ici, l’heure décide entièrement du contact, et elle décide aussi de la maison de la Lune ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Algol se tient trop au nord pour que la Lune la cache jamais : la rencontre ne se fait qu’en degré du zodiaque, la Lune passant bien au sud de l’étoile elle-même. Deux lumières qui changent selon un horaire partagent pourtant ce degré : la Lune, qui croît et décroît en 29 jours et demi, et Algol, qui faiblit pendant une dizaine d’heures tous les 2,87 jours, quand l’une de ses étoiles passe devant une autre.
 

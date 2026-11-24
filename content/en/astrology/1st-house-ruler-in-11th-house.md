@@ -5,6 +5,8 @@ description: "Ruler of the 1st in the 11th house: your chart ruler in the house 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["1st house", "11th house", "house rulers"]
 weight: 2299
 glyph: "✦"
 definition: "The ruler of the 1st in the 11th house means your chart ruler, the planet of your rising sign, sits in the house of friends, groups, networks and hopes. You come to know yourself by who you stand with and what you’re working towards together. I read it as belonging, never as popularity or conformity."
@@ -36,7 +38,7 @@ I read it as a self found among its people. You tend to know who you are by who 
 
 Tradition called the 11th the Good Spirit, the house of friends, hopes and benefactors, and gave Jupiter its joy there ([planetary joys](/astrology/planetary-joys/)). With Sagittarius rising, or with Pisces rising through its traditional ruler, a Jupiter in the 11th rules your chart from the house where the planet of generosity was said to be happiest. Counted by sign, the 11th also sits a sextile from the rising sign, an aspect tradition read as harmony and opportunity.
 
-With Aquarius rising, your two rulers, Saturn and Uranus, belong to the very sign the natural zodiac pairs with the 11th, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Saturn here builds groups that last and takes its duties to them seriously; Uranus wants the circle to change something, or at least to let you be odd in it. The Moon, ruling Cancer rising from this house, makes friends into family and family into friends.
+With Aquarius rising, your two rulers, Saturn and Uranus, belong to the very sign the [natural zodiac](/astrology/natural-zodiac/) pairs with the 11th, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Saturn here builds groups that last and takes its duties to them seriously; Uranus wants the circle to change something, or at least to let you be odd in it. The Moon, ruling Cancer rising from this house, makes friends into family and family into friends. Mercury, ruling Gemini or Virgo rising from the 11th, keeps the group talking: the newsletter, the group chat, the meeting you end up chairing.
 
 In Placidus, the house system I use, a ruler in the 11th had risen a few hours before your birth and was climbing the eastern sky towards the Midheaven. Had it climbed further, into the 10th, your life would gather around your public role and the work you're known for ([Ruler of the 1st in the 10th house](/astrology/1st-house-ruler-in-10th-house/)); a little lower, in the 12th, around solitude and what happens out of sight ([Ruler of the 1st in the 12th house](/astrology/1st-house-ruler-in-12th-house/)). The cusps are only as good as the birth time behind them ([what changes without a birth time](/blog/unknown-birth-time/)).
 

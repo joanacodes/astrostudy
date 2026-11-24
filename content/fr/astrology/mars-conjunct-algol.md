@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Mars", "Algol", "étoiles fixes"]
 weight: 2588
 glyph: "♂☌★"
-definition: "Mars conjonction Algol, c’est une naissance avec Mars en fin de Taureau, à moins de 1° du degré zodiacal d’Algol. La tradition rangeait Mars parmi les maléfiques et Algol parmi les étoiles les plus malheureuses ; rien de cela ne prédit quoi que ce soit. Environ 1 personne sur 207 a ce contact, que Mars forme quelques jours tous les deux ans environ."
+definition: "Mars conjonction Algol, c’est Mars tout à la fin du Taureau, au degré d’Algol à 1° près. La tradition rangeait Mars parmi les maléfiques et Algol parmi les étoiles les plus malheureuses ; rien de cela n’est une prédiction. Environ 1 personne sur 207 a ce contact, que Mars forme quelques jours tous les deux ans environ."
 facts:
   - { k: "Planète", v: "Mars ♂" }
   - { k: "Étoile", v: "Algol, β Persei : 26°09′ du Taureau en 2000, 26°31′ du Taureau en 2026" }
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/algol", "/astrology/mars", "/astrology/conjunctions-to-fixed-stars", "/astrology/mars-in-taurus", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "Que veut dire Mars conjonction Algol ?"
-    a: "Ce contact décrit Mars en fin de Taureau, sur le degré d’Algol, l’étoile de la tête de Méduse. La tradition, qui rangeait Mars parmi les maléfiques, plaçait ici cette planète à côté de son étoile la plus malheureuse ; aucune de ces étiquettes n’est une prédiction. Mars en Taureau, avec sa maison et ses aspects, décrit votre élan."
+    a: "Ce contact décrit Mars vers la fin du Taureau, au degré d’Algol, la Gorgone de Persée. La tradition, qui rangeait Mars parmi les maléfiques, plaçait ici cette planète à côté de son étoile la plus malheureuse ; aucune de ces étiquettes n’est une prédiction. Mars en Taureau, avec sa maison et ses aspects, décrit votre élan."
   - q: "Mars conjonction Algol, est-ce dangereux ?"
     a: "Non. C’est une position le long du zodiaque, partagée par environ 1 personne sur 207, et elle n’annonce rien de votre sécurité ni de votre vie. La crainte qui s’y attache vient du nom d’une étoile et d’une vieille réputation, et une réputation n’est pas un événement."
   - q: "Quand a eu lieu Mars conjonction Algol ?"
-    a: "Mars atteint le degré d’Algol environ une fois tous les deux ans et y reste deux ou trois jours : la plupart des années n’ont donc aucune naissance avec ce contact. Le plus long séjour date de 1958-1959, avec des passages le 8 septembre et, en rétrograde, le 12 novembre 1958, puis un dernier le 31 janvier 1959."
+    a: "Mars atteint le degré d’Algol à peu près tous les deux ans, pour deux ou trois jours : la plupart des années n’ont donc aucune naissance avec ce contact. Le plus long séjour date de 1958-1959, avec des passages le 8 septembre et, en rétrograde, le 12 novembre 1958, puis un dernier le 31 janvier 1959."
   - q: "Est-ce que Mars est faible en Taureau ?"
     a: "La tradition place Mars en exil en Taureau, le signe opposé au Scorpion, que Mars gouverne dans la tradition et Pluton dans l’astrologie tropicale moderne. Cela veut dire que Mars agit à rebours du signe, plus lentement et plus délibérément, pas que son action soit moins bonne. Sur Algol, Mars est toujours en Taureau."
 sources:
@@ -42,10 +42,10 @@ Posés côte à côte, ces deux mots expliquent pourquoi ce contact effraie les 
 
 Ce que le contact décrit, c’est Mars en Taureau. Le degré de l’étoile est passé de 25°11′ à 26°09′ du Taureau entre 1930 et 2000 : c’est donc toujours [Mars en Taureau](/astrology/mars-in-taurus/), un élan au rythme de la terre fixe, avec des débuts lents, une régularité une fois lancée et une grande difficulté à se laisser détourner. La tradition y place Mars en [exil](/astrology/detriment/), face au Scorpion, son signe traditionnel (Pluton gouverne le Scorpion dans l’astrologie tropicale moderne, et je lis les deux) : le travail s’y fait à rebours du signe, ce qui ne veut pas dire qu’il se fait mal.
 
-Mars franchissait d’ordinaire ce degré en trois jours environ, à peu près tous les deux ans : 45 passages entre 1930 et 2009. Une fois, le séjour a duré plus longtemps. En 1958, Mars a franchi le degré en avançant le 8 septembre, l’a retraversé le 12 novembre en marche rétrograde, quatre jours avant l’opposition au Soleil, au plus fort de son éclat cette année-là, puis l’a franchi de nouveau en avançant le 31 janvier 1959 ([Mars rétrograde en Taureau](/astrology/mars-retrograde-in-taurus/), [planètes rétrogrades natales](/blog/retrograde-planets/)). Pendant l’hiver 1990-1991, Mars a de nouveau rebroussé chemin vers l’étoile, et la marche directe a repris le 2 janvier 1991, à moins de deux degrés de distance.
+Mars franchissait d’ordinaire ce degré en trois jours environ, à peu près tous les deux ans : 45 passages entre 1930 et 2009. Une fois, le séjour a duré plus longtemps. En 1958, le degré a été franchi en marche directe le 8 septembre, retraversé en rétrograde le 12 novembre, quatre jours avant l’opposition au Soleil, au plus fort de l’éclat de Mars cette année-là, puis franchi une dernière fois le 31 janvier 1959 ([Mars rétrograde en Taureau](/astrology/mars-retrograde-in-taurus/), [planètes rétrogrades natales](/blog/retrograde-planets/)). Pendant l’hiver 1990-1991, Mars a de nouveau rebroussé chemin vers l’étoile, et la marche directe a repris le 2 janvier 1991, à moins de deux degrés de distance.
 
 Même alors, la planète et l’étoile restaient à 20° ou plus l’une de l’autre dans le ciel. Algol se tient loin au nord de la route du Soleil, et Mars reste près de cette route : le contact ne tient qu’au degré du zodiaque. À environ 1 personne sur 207 née entre 1930 et 2009, ce contact est un peu plus rare que la moyenne d’une fenêtre d’un degré.
 
 Aucun des autres contacts de l’étoile ne suit l’horloge de deux ans de Mars : le [Soleil conjonction Algol](/astrology/sun-conjunct-algol/) revient chaque mois de mai, la [Lune conjonction Algol](/astrology/moon-conjunct-algol/) chaque mois, [Vénus conjonction Algol](/astrology/venus-conjunct-algol/) une fois par an entre le printemps et le début de l’été, et [Saturne conjonction Algol](/astrology/saturn-conjunct-algol/) environ une fois par génération.
 
-Algol n’entre jamais dans mes lectures, et quand Mars occupe ce degré, la lecture se fait comme pour n’importe quelle position de Mars : par le signe, la maison et les aspects, avec le même respect pour ce que l’élan peut construire. La façon dont les astrologues qui utilisent les étoiles comptent un tel contact est expliquée dans [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/).
+Algol n’entre jamais dans mes lectures, et quand Mars occupe ce degré, la lecture se fait comme pour n’importe quelle position de Mars : par le signe, la maison et les aspects, avec le même respect pour ce que l’élan peut construire. Pour savoir comment les astrologues qui utilisent les étoiles comptent ce genre de contact, voyez [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/).

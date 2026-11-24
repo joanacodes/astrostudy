@@ -2,7 +2,7 @@
 title: "Soleil conjonction Algol"
 slug: "soleil-conjonction-algol"
 h1: "Soleil conjonction Algol dans un thème natal"
-description: "Soleil conjonction Algol dans un thème natal : les anniversaires des 16 et 17 mai, quand un Soleil de fin de Taureau rejoint le degré de l’étoile du Démon. Sans prédiction."
+description: "Soleil conjonction Algol dans un thème natal : les anniversaires des 16 et 17 mai, un Soleil de fin de Taureau au degré de l’étoile du Démon. Sans prédiction."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Soleil", "Algol", "étoiles fixes"]
 weight: 2585
 glyph: "☉☌★"
-definition: "Soleil conjonction Algol, c’est une naissance avec le Soleil à moins de 1° du degré d’Algol, l’étoile de la tête de Méduse : un anniversaire vers le 16 ou le 17 mai, fin Taureau. La tradition en faisait l’une des étoiles les plus malheureuses ; c’est une histoire, pas une prédiction. Dans le ciel, le Soleil passe à 22° au sud de l’étoile."
+definition: "Soleil conjonction Algol désigne une naissance du 16 ou du 17 mai, avec le Soleil en fin de Taureau à moins de 1° du degré d’Algol, l’étoile de la tête de Méduse. La tradition en faisait l’une des étoiles les plus malheureuses ; c’est une histoire, pas une prédiction. Dans le ciel, le Soleil passe à 22° au sud de l’étoile."
 facts:
   - { k: "Planète", v: "Le Soleil ☉" }
   - { k: "Étoile", v: "Algol, β Persei : 25°11′ du Taureau en 1930, 26°31′ du Taureau en 2026" }

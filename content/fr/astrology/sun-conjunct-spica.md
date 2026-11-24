@@ -2,7 +2,7 @@
 title: "Soleil conjonction Spica"
 slug: "soleil-conjonction-spica"
 h1: "Soleil conjonction Spica dans un thème natal"
-description: "Soleil conjonction Spica dans un thème natal : les anniversaires des 16 et 17 octobre, un Soleil en Balance sur l’épi de la Vierge, qu’il frôle vraiment."
+description: "Soleil conjonction Spica dans un thème natal : un Soleil de mi-octobre, en Balance, sur l’épi de la Vierge, qu’il frôle vraiment. Légende et fréquence."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Soleil", "Spica", "étoiles fixes"]
 weight: 2590
 glyph: "☉☌★"
-definition: "Soleil conjonction Spica, c’est le Soleil à moins de 1° du degré de Spica, l’épi de la Vierge : un anniversaire vers le 16 ou le 17 octobre, fin Balance. Spica n’est qu’à 2° de la route du Soleil, qui la frôle vraiment. Ses vieux noms parlent de grain ; environ 1 personne sur 181 a ce contact."
+definition: "Soleil conjonction Spica, ce sont les anniversaires des 16 et 17 octobre : le Soleil, en fin de Balance, s’y trouve à 1° près du degré de Spica, l’épi de la Vierge. Spica n’est qu’à 2° de la route du Soleil, qui la frôle vraiment. Ses vieux noms parlent de grain ; environ 1 personne sur 181 a ce contact."
 facts:
   - { k: "Planète", v: "Le Soleil ☉" }
   - { k: "Étoile", v: "Spica, α Virginis : 22°51′ de la Balance en 1930, 24°12′ de la Balance en 2026" }
@@ -48,4 +48,4 @@ Sur les naissances de 1930 à 2009, ce contact revient environ une fois sur 181,
 
 Comme Spica se tient tout près de la route du Soleil, ses autres contacts peuvent être serrés dans le ciel autant que dans le zodiaque. La [Lune conjonction Spica](/astrology/moon-conjunct-spica/) peut cacher l’étoile tout entière ; [Vénus conjonction Spica](/astrology/venus-conjunct-spica/) a déjà frôlé l’étoile à moins d’un demi-degré ; [Mars conjonction Spica](/astrology/mars-conjunct-spica/) a amené Mars à un degré et quart d’elle ; [Saturne conjonction Spica](/astrology/saturn-conjunct-spica/) passe à quatre ou cinq degrés au nord. Les deux degrés du Soleil se situent au milieu de cette échelle.
 
-Aucun des thèmes que je lis ne comporte Spica ni aucune autre étoile ([Ma méthode](/how-i-read/)) : vous lisez donc ici une description du contact, pas une interprétation. La façon dont la tradition compte une étoile sur une planète, et pourquoi la conjonction est le seul contact qui compte, a sa propre page : [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/).
+Aucun des thèmes que je lis ne comporte Spica ni aucune autre étoile ([Ma méthode](/how-i-read/)) : vous lisez donc ici une description du contact, pas une interprétation. La façon dont la tradition compte une étoile sur une planète, et pourquoi la conjonction est le seul contact qui compte, se lit dans [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/).
