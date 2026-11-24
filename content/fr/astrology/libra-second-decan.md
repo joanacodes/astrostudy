@@ -2,7 +2,7 @@
 title: "Balance, deuxième décan"
 slug: "balance-deuxieme-decan"
 h1: "Le deuxième décan de la Balance (10°–20°)"
-description: "Balance, deuxième décan : de 10° à 20° Balance, le Soleil du 3 au 12 octobre environ. Saturne y règne dans les deux systèmes, avec Uranus dans l’un."
+description: "Balance, deuxième décan : le milieu de la Balance, de 10° à 20°, où passe le Soleil du 3 au 12 octobre environ et où Saturne règne dans les deux systèmes."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "signs"
@@ -24,7 +24,7 @@ faq:
   - q: "Quelles sont les dates du deuxième décan de la Balance ?"
     a: "Du 3 au 12 octobre environ, pendant que le Soleil parcourt les degrés 10 à 20 de la Balance. Les deux limites bougent d’un jour environ d’une année à l’autre : pour un anniversaire le 2, le 3, le 12 ou le 13 octobre, il faut l’heure de naissance pour situer le Soleil dans ce décan ou dans un voisin."
   - q: "Quelle planète gouverne le deuxième décan de la Balance ?"
-    a: "Saturne, dans les deux systèmes. Les faces chaldéennes lui donnent la deuxième face de la Balance, et les décans modernes confient cette tranche aux maîtres du Verseau, le signe d’air suivant : Saturne dans la tradition, Uranus dans l’astrologie tropicale moderne. Je lis les deux maîtres du Verseau."
+    a: "Saturne, dans les deux systèmes. Les faces chaldéennes donnent à Saturne la deuxième face de la Balance, et les décans modernes confient cette tranche aux maîtres du Verseau, le signe d’air suivant : Saturne dans la tradition, Uranus dans l’astrologie tropicale moderne. Je lis les deux maîtres du Verseau."
   - q: "Est-ce que Saturne a de la force dans le deuxième décan de la Balance ?"
     a: "D’après les tables anciennes, oui. Saturne a son exaltation en Balance et, entre 10° et 20°, se trouve aussi dans sa propre face : deux dignités à la fois. J’y lis une structure à l’aise ici, pas une promesse ; la maison et les aspects décident toujours de la façon dont cette structure travaille."
   - q: "Que veut dire le deuxième décan de la Balance ?"
@@ -38,7 +38,7 @@ Le milieu de la Balance est le domaine de Saturne. Les deux façons de répartir
 
 ## Ses maîtres {#ses-maitres}
 
-Après la face de la Lune ([Balance, premier décan](/astrology/libra-first-decan/)), l’[ordre chaldéen](/astrology/chaldean-order/) repart de sa planète la plus lente : la deuxième face de la [Balance](/astrology/libra/) revient donc à Saturne ([faces](/astrology/faces/)). Les décans modernes arrivent à la même planète par un autre chemin. Ils donnent le tiers central d’un signe au signe suivant de son élément, ici le Verseau, et le Verseau a deux maîtres : Saturne dans la tradition, Uranus dans l’astrologie tropicale moderne. Je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)).
+Après la face de la Lune ([Balance, premier décan](/astrology/libra-first-decan/)), l’[ordre chaldéen](/astrology/chaldean-order/) repart de sa planète la plus lente : la deuxième face de la [Balance](/astrology/libra/) revient donc à Saturne ([faces](/astrology/faces/)). Les décans modernes arrivent à la même planète par un autre chemin. Ils donnent le tiers central d’un signe au signe suivant de son élément, ici le Verseau, et le Verseau a deux maîtres : Saturne dans la tradition, Uranus dans l’astrologie tropicale moderne. Je lis les deux, pour les raisons que je donne dans [maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/).
 
 Si l’on compte le maître ancien du Verseau, c’est l’un des neuf décans du zodiaque où les deux systèmes nomment la même planète. Les dignités de Saturne s’y additionnent aussi. Saturne a son [exaltation](/astrology/exaltation/) en Balance : [Saturne en Balance](/astrology/saturn-in-libra/) entre 10° et 20° cumule donc l’exaltation et la face, et son degré d’exaltation, le 21e, se trouve juste après ([Balance, troisième décan](/astrology/libra-third-decan/)).
 

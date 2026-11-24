@@ -5,6 +5,8 @@ description: "Gemini, first decan: 0° to 10° Gemini, Mercury’s by sign and e
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "signs"
+categories: ["Signs"]
+tags: ["Gemini", "decans"]
 weight: 28
 glyph: "♊"
 definition: "The first decan of Gemini covers 0° to 10° Gemini, where the Sun stands from about 21 to 31 May. Mercury rules it by sign and by element, and Jupiter, ruler of the opposite sign, holds its face. I read a planet here as Gemini’s curiosity with a pull towards the larger picture."

@@ -1,10 +1,12 @@
 ---
 title: "Libra, third decan"
 h1: "The third decan of Libra (20°–30°)"
-description: "Libra, third decan: 20° to 30° Libra, the Sun about 13 to 22 October. Ruled by Jupiter and Mercury, home to Spica, Arcturus and Saturn’s exaltation degree."
+description: "Libra, third decan: the last ten degrees of Libra, which the Sun crosses about 13 to 22 October, ruled by Jupiter and Mercury, with Spica and Arcturus."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "signs"
+categories: ["Signs"]
+tags: ["Libra", "decans"]
 weight: 42
 glyph: "♎"
 definition: "The third decan of Libra covers the sign’s last ten degrees, 20° to 30°, crossed by the Sun from about 13 to 22 October. Jupiter rules it as a face; in the modern decans Mercury does, through Gemini. It holds Saturn’s exaltation degree and two bright stars, Spica and Arcturus, before the border with Scorpio."
@@ -19,9 +21,9 @@ facts:
 related: ["/astrology/libra", "/astrology/spica", "/astrology/libra-second-decan", "/astrology/scorpio-first-decan", "/astrology/born-on-the-cusp"]
 faq:
   - q: "What are the dates of the third decan of Libra?"
-    a: "About 13 to 22 October, while the Sun crosses 20° to 30° Libra; on about 16 and 17 October it passes the star Spica. At the far end, a birthday on 22 or 23 October needs the time of birth to say whether the Sun was still in Libra or had reached Scorpio."
+    a: "The Sun is in these degrees from about 13 to 22 October, and passes the star Spica on about 16 and 17 October. A birthday on 22 or 23 October needs the time of birth to say whether the Sun was still in Libra or had already reached Scorpio."
   - q: "Which planet rules the third decan of Libra?"
-    a: "Jupiter, in the traditional faces, which follow the Chaldean order. Mercury, in the modern decans by element, which give the last third of each sign to the remaining sign of its element, here Gemini. The two rule opposite signs, so a planet in these degrees answers to the big picture and to the details."
+    a: "The traditional faces, which run in the Chaldean order, give it to Jupiter. The modern decans by element give the last third of each sign to the remaining sign of its element, here Gemini, and so to Mercury. The two rule opposite signs, so a planet here answers to the big picture and to the details."
   - q: "Is a third decan Libra part Scorpio?"
     a: "No. At the moment of birth the Sun is in one sign, and late Libra is still Libra. Even the modern decans, which borrow a ruler from another sign of the same element, borrow Mercury from Gemini here. Scorpio begins at 0° Scorpio, about 23 October, and only the birth time settles a borderline case."
   - q: "Which stars are in the third decan of Libra?"
@@ -55,4 +57,4 @@ For any planet here, Libra's manner stays in front: weighing, pairing, keeping t
 
 Spica and Arcturus I describe on their own pages. Like every fixed star, they stay out of my readings, which are built on the planets by sign, house and aspect ([How I read](/how-i-read/)).
 
-A generation shares these degrees through the slow planets: [Neptune in Libra](/astrology/neptune-in-libra/) crossed them from late 1951 to 1957, and Pluto from late 1979 to 1984. Which house they fall in is what makes them yours, and that takes a birth time.
+Neptune spent late 1951 to 1957 in these degrees ([Neptune in Libra](/astrology/neptune-in-libra/)), and Pluto came through between late 1979 and 1984: placements a whole generation shares, made personal by the house they occupy, which only a birth time can show.

@@ -1,7 +1,7 @@
 ---
 title: "Libra, second decan"
 h1: "The second decan of Libra (10°–20°)"
-description: "Libra, second decan: 10° to 20° Libra, the Sun about 3 to 12 October. Saturn rules it in both systems, Uranus too in one; its stars and its old names."
+description: "Libra, second decan: the middle of Libra, 10° to 20°, where the Sun passes from about 3 to 12 October and Saturn rules in both systems, with Uranus in one."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "signs"
@@ -37,7 +37,7 @@ The middle of Libra is Saturn's ground. Both ways of sharing out the decans give
 
 ## Its rulers {#its-rulers}
 
-After the Moon's face ([Libra, first decan](/astrology/libra-first-decan/)), the [Chaldean order](/astrology/chaldean-order/) starts again from its slowest planet, so the second face of [Libra](/astrology/libra/) falls to Saturn ([faces](/astrology/faces/)). The modern decans reach the same planet by another road. They give the middle third of a sign to the next sign of its element, which for Libra is Aquarius, and Aquarius has two rulers: Saturn in the tradition, Uranus in modern tropical astrology. I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)).
+After the Moon's face ([Libra, first decan](/astrology/libra-first-decan/)), the [Chaldean order](/astrology/chaldean-order/) starts again from its slowest planet, so the second face of [Libra](/astrology/libra/) falls to Saturn ([faces](/astrology/faces/)). The modern decans reach the same planet by another road. They give the middle third of a sign to the next sign of its element, which for Libra is Aquarius, and Aquarius has two rulers: Saturn in the tradition, Uranus in modern tropical astrology, and I read both, for reasons I give under [traditional and modern rulers](/astrology/traditional-and-modern-rulers/).
 
 Counting Aquarius's older ruler, this is one of nine decans in the zodiac where the two systems name the same planet. It also stacks Saturn's dignities. Saturn is [exalted](/astrology/exaltation/) in Libra, so [Saturn in Libra](/astrology/saturn-in-libra/) between 10° and 20° holds exaltation and face together; its exaltation degree, the 21st, lies just ahead ([Libra, third decan](/astrology/libra-third-decan/)).
 
