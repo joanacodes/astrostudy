@@ -5,6 +5,8 @@ description: "Admetos in Uranian astrology: the hypothetical point named after a
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["Uranian astrology"]
 weight: 49
 glyph: "✦"
 definition: "Admetos is a hypothetical point of Uranian astrology, proposed by Friedrich Sieggrün in 1927 and the only one of the eight named after a mortal: Admetus, a king of Thessaly whom Apollo served. Uranian astrologers read it as transformative power held inside, hard to release, and for spiritual blockage and depth of knowledge."
@@ -56,5 +58,5 @@ Admetos isn't in my readings. When someone tells me that something in them won't
 ## Common myths {#myths}
 
 - **“Admetos is a god.”** He was a mortal king of Pherae; of the eight Uranian points, his is the one name that doesn't belong to a god.
-- **“Admetos means you'll stay stuck.”** No point fixes a fate, and in his own story the king's fate was undone twice, by a god and then by a hero.
+- **“Admetos means you'll stay stuck.”** No point fixes a fate, and his own story brings two reprieves, one from a god and one from a hero.
 - **“Admetos is another name for Hades.”** Uranian astrologers read the two as related powers, one released through helping others, the other held in; in myth, Admetus was the mortal whose wife the underworld gave back.

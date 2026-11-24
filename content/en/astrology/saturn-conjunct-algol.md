@@ -5,6 +5,8 @@ description: "Saturn conjunct Algol in a birth chart: Saturn in late Taurus on t
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Algol", "fixed stars"]
 weight: 2589
 glyph: "♄☌★"
 definition: "Saturn conjunct Algol is Saturn within 1° of Algol’s zodiac degree, late in Taurus: births between June 1941 and April 1942, in May 1971, or between June 2000 and March 2001. About 1 person in 191 has it. The tradition dreaded the star, yet medieval magic listed it as one of Saturn’s own; it forecasts nothing."
@@ -37,11 +39,11 @@ Saturn conjunct Algol is a contact of school years rather than birthdays: whole 
 
 Medieval magic gave it a surprising owner. In the Behenian list, fifteen stars each tied to planets, a gem and a plant, Algol belongs to Saturn and Jupiter, and a planet within six degrees of one of its own stars was thought to draw on it most strongly. By that scheme, Saturn on Algol is a planet sitting on a star of its own. I mention it for what it shows: one book's curse was another book's source of power, which is reason enough to take neither as a forecast.
 
-All three stretches put Saturn in the closing degrees of Taurus ([Saturn in Taurus](/astrology/saturn-in-taurus/)), the Saturn sign of a whole generation each time; the star narrows it to a few months. Saturn in Taurus learns security the long way, one solid layer at a time, and comes to value what holds.
+All three stretches put Saturn in the closing degrees of Taurus ([Saturn in Taurus](/astrology/saturn-in-taurus/)), the Saturn sign of a whole generation each time; the star narrows it to a few months. Saturn in Taurus builds security slowly and keeps what has proved its worth.
 
 Each pass ran its own course ([Saturn retrograde](/astrology/saturn-retrograde/)). In 1941 Saturn crossed the degree on 11 July, came back over it on 15 November while retrograde, and crossed for the last time on 31 March 1942. In 1971 it went straight across, on 17 May, during the very days the Sun passes the star each year, so a birth on 16 or 17 May 1971 has the Sun and Saturn together on Algol's degree. In 2000 it crossed on 27 June and again, retrograde, on 7 December, turned direct on 25 January 2001 about two degrees on the far side, and made its final crossing on 15 March. The next pass comes in 2030, after Saturn turns back in September 2029 a degree and a half short of the star.
 
-In the sky the two never meet. In this part of the zodiac Saturn runs a little south of the ecliptic and Algol stands far to the north, so on every pass about 24° of sky lay between them.
+On every pass about 24° of sky lay between planet and star, since in this part of the zodiac Saturn runs a little south of the ecliptic while Algol stands far to the north.
 
 Of everything I tested, Saturn is one of the three placements that held most often, 75 to 90% of the time; Algol was never tested, and no star appears in the charts I read ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). So the part of this contact I'd read is Saturn: its sign, its house, its aspects. Saturn is the planet of time, and even it can't tell the length of a life; no chart can ([Can astrology predict death?](/astrology/can-astrology-predict-death/)).
 

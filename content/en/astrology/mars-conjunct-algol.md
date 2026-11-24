@@ -5,6 +5,8 @@ description: "Mars conjunct Algol in a birth chart: Mars in late Taurus on the D
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Algol", "fixed stars"]
 weight: 2588
 glyph: "♂☌★"
 definition: "Mars conjunct Algol is Mars within 1° of the zodiac degree of Algol, late in Taurus. The tradition called Mars a malefic and Algol one of the unluckiest stars; none of that forecasts anything. About 1 person in 207 has the contact, which Mars makes for a few days every two years or so."

@@ -5,6 +5,8 @@ description: "Vulkanus in Uranian astrology: Sieggrün’s point named after the
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["Uranian astrology"]
 weight: 50
 glyph: "✦"
 definition: "Vulkanus is a hypothetical point of Uranian astrology, the third of four that Friedrich Sieggrün added beyond Neptune in 1927, named after Vulcan, the Roman smith god. Uranian astrologers read it for raw force that wants its freedom and for overcoming lifelong difficulties. It is unrelated to Vulcan, the planet once sought inside Mercury’s orbit."
@@ -37,7 +39,7 @@ Two hypothetical planets carry the smith god's name, at opposite ends of the Sol
 
 Friedrich Sieggrün proposed Vulkanus as the third of his four points, after [Admetos](/astrology/admetos/) and before [Poseidon](/astrology/poseidon/), extending the four that Alfred Witte had already set beyond Neptune ([The Hamburg School (Uranian astrology)](/astrology/hamburg-school-uranian-astrology/)). It is spelled two ways: Vulkanus, as on the school's list, and Vulcanus, the god's Latin name, which is also the name Unicode gives its symbol. Software still draws it: the free program Astrolog names Vulkanus among the Uranian points it computes.
 
-Vulcan was the Roman god of fire, of volcanoes and of the forge, shown with a blacksmith's hammer and honoured at the Vulcanalia every 23 August; the Greeks called him Hephaestus. In Greek myth Hephaestus was thrown out of Olympus, by his mother, Hera, because he was born lame, or in another account by Zeus, for taking Hera's side. In that version he fell for a whole day and landed on Lemnos, where the islanders cared for him and taught him his craft. He became the gods' smith, maker of all their weapons, and in time he went back up to Olympus. One story has him settle the score first: he sent Hera a golden chair with invisible fetters, which held her fast the moment she sat down, and he listened to no god but Dionysus, who made him drunk and brought him home.
+Vulcan was the Roman god of fire, of volcanoes and of the forge, shown with a blacksmith's hammer and honoured at the Vulcanalia every 23 August. His oldest shrine in Rome, the Vulcanal, stood at the foot of the Capitoline, and Roman tradition dated it to the time of the kings. The Greeks called him Hephaestus. In Greek myth Hephaestus was thrown out of Olympus, by his mother, Hera, because he was born lame, or in another account by Zeus, for taking Hera's side. In that version he fell for a whole day and landed on Lemnos, where the islanders cared for him and taught him his craft. He became the gods' smith, maker of all their weapons, and in time he went back up to Olympus. One story has him settle the score first: he sent Hera a golden chair with invisible fetters, which held her fast the moment she sat down, and he listened to no god but Dionysus, who made him drunk and brought him home.
 
 ## How it works {#how-it-works}
 

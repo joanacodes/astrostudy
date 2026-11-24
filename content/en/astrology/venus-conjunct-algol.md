@@ -5,6 +5,8 @@ description: "Venus conjunct Algol in a birth chart: Venus at home in Taurus on 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Algol", "fixed stars"]
 weight: 2587
 glyph: "♀☌★"
 definition: "Venus conjunct Algol is Venus within 1° of Algol’s zodiac degree, late in Taurus, Venus’s own sign, for births between about 30 March and 3 July. About 1 person in 212 has it. The tradition set one of its benefics on its unluckiest star; I read Venus in Taurus and take neither label as a forecast."
@@ -41,7 +43,7 @@ The sign is what I'd actually read. Algol stood at 25°11′ Taurus in 1930 and 
 
 So the tradition sets one of its two benefics at home ([benefics and malefics](/astrology/benefics-and-malefics/)) and lays its unluckiest star on top. An old astrologer would weigh one against the other. I notice that the two labels cancel out, and read what is left, which is Venus in its own sign, in a house and with aspects that only the full chart shows.
 
-Because Venus is never far from the Sun, the contact belongs to births from the end of March to the first days of July, while the Sun moves from early Aries to mid-Cancer; for 1930 to 2009 the earliest date was 30 March and the latest 3 July. About 1 person in 212 born in those years has it, a little under the average for a one-degree window, since Venus went straight over this degree once a year and never doubled back.
+Because Venus is never far from the Sun, the contact belongs to births from the end of March to the first days of July, while the Sun is between about 10° Aries and 11° Cancer; for 1930 to 2009 the earliest date was 30 March and the latest 3 July. About 1 person in 212 born in those years has it, a little under the average for a one-degree window, since Venus went straight over this degree once a year and never doubled back.
 
 Nothing here forecasts how love, money or anything else will go. Venus on Algol describes a way of valuing, in a Taurus key, with an old fear written over it, and fears written into old books are not events waiting to happen.
 

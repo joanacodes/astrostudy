@@ -5,6 +5,8 @@ description: "Vulcan in astrology: the planet Le Verrier announced inside Mercur
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["hypothetical bodies"]
 weight: 52
 glyph: "✦"
 definition: "Vulcan is a hypothetical planet once thought to orbit between Mercury and the Sun, announced by Urbain Le Verrier in 1860 and made unnecessary in 1915 by Einstein’s general relativity. The name lived on in Alice Bailey’s esoteric astrology, which pairs Vulcan with Pluto as the planets of her first ray, will or power."
@@ -53,7 +55,7 @@ Set in a chart, a planet on Le Verrier's orbit would never stray more than 8° f
 
 ## In a reading {#in-a-reading}
 
-Vulcan isn't in my readings. Everything I read has a position astronomy computes from a real orbit: the planets, Chiron, and the two points taken from the Moon's own path, Lilith and the nodes. Vulcan's orbit was built on one man's sighting, and no one could repeat it.
+Vulcan isn't in my readings. Everything I read has a position astronomy computes from a real orbit: the planets, Chiron, and the points taken from the Moon's own orbit, Lilith and the nodes. Vulcan's orbit was built on one man's sighting, and no one could repeat it.
 
 If what draws you to Vulcan is its closeness to the Sun, Mercury does that work in a chart: never more than about 28° from the Sun, it describes how you think and speak, and in my notebook it was among the placements everyone reads first, which held about a third of the time ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). Power, in my readings, is part of what Pluto describes, by sign, house and aspect ([How I read](/how-i-read/)).
 

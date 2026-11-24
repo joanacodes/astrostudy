@@ -5,6 +5,8 @@ description: "Apollon in Uranian astrology: the first of Friedrich Sieggrün’s
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["Uranian astrology"]
 weight: 48
 glyph: "✦"
 definition: "Apollon is a hypothetical point of Uranian astrology, the first of four that Friedrich Sieggrün added in 1927 to Alfred Witte’s points beyond Neptune. It carries the Greek form of Apollo’s name, and Uranian astrologers read it for wisdom gathered over a lifetime, a balanced temperament and prophetic dreams."

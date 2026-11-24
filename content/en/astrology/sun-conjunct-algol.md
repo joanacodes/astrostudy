@@ -5,6 +5,8 @@ description: "Sun conjunct Algol in a birth chart: born about 16–17 May, a lat
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Algol", "fixed stars"]
 weight: 2585
 glyph: "☉☌★"
 definition: "Sun conjunct Algol is the Sun within 1° of the zodiac degree of Algol, the star in Medusa’s head: a birthday on about 16 or 17 May, late in Taurus. The tradition counted Algol among the unluckiest stars, and that reputation is a story, not a forecast. In the sky, the Sun passes 22° south of the star."

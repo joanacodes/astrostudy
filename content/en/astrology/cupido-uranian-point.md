@@ -5,6 +5,8 @@ description: "Cupido in Uranian astrology: the point Alfred Witte placed beyond 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["Uranian astrology"]
 weight: 44
 glyph: "✦"
 definition: "Cupido is a hypothetical point of Uranian astrology, one of four that Alfred Witte placed beyond Neptune and, with Hades, one of two whose colour he described. It bears Cupid’s Latin name, passionate desire, and Uranian astrologers read it for romantic love, marriage, partnerships and artistic gifts."

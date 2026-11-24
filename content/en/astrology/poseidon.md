@@ -5,6 +5,8 @@ description: "Poseidon in Uranian astrology: the last of the eight hypothetical 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["Uranian astrology"]
 weight: 51
 glyph: "✦"
 definition: "Poseidon is a hypothetical point of Uranian astrology, the last of the eight: Friedrich Sieggrün proposed it in 1927 and named it after the Greek sea god whom the Romans called Neptune. Uranian astrologers read it much as they read Neptune, for spirituality, selfless love, psychic abilities and spiritual wisdom."
@@ -38,7 +40,7 @@ Poseidon closes the list of Uranian astrology's eight hypothetical points. Fried
 
 It is the last of Sieggrün's four, after [Vulkanus](/astrology/vulkanus/), and with it the Hamburg School had its full set: four points from Alfred Witte, four from Sieggrün, every one of them placed beyond Neptune ([The Hamburg School (Uranian astrology)](/astrology/hamburg-school-uranian-astrology/)).
 
-Poseidon was one of the twelve Olympians: god of the sea, of storms, of earthquakes and of horses, protector of sailors, worshipped at Pylos and Thebes as the earth-shaker. When the sons of Cronus had overthrown their father, Homer says, they shared out the world by lot; Zeus drew the sky, Hades the underworld, Poseidon the sea. He was the tamer of horses, or their father, and in remote Arcadia he was worshipped in the form of a horse; a strike of his trident made springs rise from the ground, and in Greek the words for horses and springs are related. He lost Athens to Athena and flooded the plain in his anger, and he kept Odysseus from home for ten years for blinding his son, the Cyclops Polyphemus.
+Poseidon was one of the twelve Olympians: god of the sea, of storms, of earthquakes and of horses, protector of sailors, worshipped at Pylos and Thebes as the earth-shaker. When the sons of Cronus had overthrown their father, Homer says, they shared out the world by lot; Zeus drew the sky, Hades the underworld, Poseidon the sea. He was the tamer of horses, or their father, and in remote Arcadia he was worshipped in the form of a horse; a strike of his trident made springs rise from the ground, and in Greek the words for horses and springs are related. He lost Athens to Athena and flooded the plain in his anger. In the *Iliad* he takes the Greeks' side against Troy; in the *Odyssey* he keeps Odysseus from home for ten years for blinding his son, the Cyclops Polyphemus. His two brothers have Uranian points too, both of them Witte's: [Zeus](/astrology/zeus/) and [Hades](/astrology/hades/).
 
 The Romans called him Neptune, and every chart already carries his emblem: the glyph for [Neptune](/astrology/neptune/), the planet found in 1846, is his trident.
 

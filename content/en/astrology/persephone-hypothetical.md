@@ -5,6 +5,8 @@ description: "Persephone, the hypothetical planet beyond Pluto: why fiction and 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["hypothetical bodies"]
 weight: 54
 glyph: "✦"
 definition: "Persephone is the name fiction most often gives a hypothetical planet beyond Pluto, after the queen of the underworld, Pluto’s consort; no such planet has been found. Astrologers have used her Latin name: Dane Rudhyar proposed an undiscovered Proserpine as the true ruler of Taurus, and astrologers in Poland identify their Proserpina with Eris."

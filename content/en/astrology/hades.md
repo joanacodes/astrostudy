@@ -5,6 +5,8 @@ description: "Hades in Uranian astrology: Alfred Witte’s underworld point, nam
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["Uranian astrology"]
 weight: 45
 glyph: "✦"
 definition: "Hades is a hypothetical point of Uranian astrology, named after the Greek lord of the underworld by Alfred Witte before the planet Pluto was found. Uranian astrologers read it as a near relation of Pluto: esoteric and healing callings, emotional or mental difficulties, the wounds a life leaves. No body has been seen there."

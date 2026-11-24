@@ -5,6 +5,8 @@ description: "Moon conjunct Algol in a birth chart: the Moon exalted in late Tau
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Algol", "fixed stars"]
 weight: 2586
 glyph: "☽☌★"
 definition: "Moon conjunct Algol is the Moon within 1° of the zodiac degree of Algol, late in Taurus, the sign where tradition exalts the Moon. The Moon crosses that degree in three or four hours each month, so only the birth time can confirm it. The star’s unlucky reputation is old lore and predicts nothing about you."

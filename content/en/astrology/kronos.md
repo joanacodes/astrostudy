@@ -5,6 +5,8 @@ description: "Kronos in Uranian astrology: Alfred Witte’s point of authority, 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["Uranian astrology"]
 weight: 47
 glyph: "✦"
 definition: "Kronos is a hypothetical point of Uranian astrology, the last of the four Alfred Witte proposed beyond Neptune, named after the Titan who ruled before Zeus. Uranian astrologers read it for authority and for what stands high up: the heavens, kings, leaders. Time, often pinned on the god, belongs in the chart to Saturn."

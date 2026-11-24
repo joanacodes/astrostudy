@@ -5,6 +5,8 @@ description: "Zeus in Uranian astrology: the hypothetical point named after the 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["Uranian astrology"]
 weight: 46
 glyph: "✦"
 definition: "Zeus is a hypothetical point of Uranian astrology, placed beyond Neptune by Alfred Witte and named after the Greek king of the gods, whose initial already sits in Jupiter’s glyph. Uranian astrologers read it for creativity and ambitious achievement, and as a symbol of fertility. Its positions are calculated; nothing has been observed there."
