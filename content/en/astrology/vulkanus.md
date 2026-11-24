@@ -49,7 +49,7 @@ The god himself was a figure of fire under the ground: Greek settlers in souther
 
 ## In a reading {#in-a-reading}
 
-Vulkanus isn't in my readings. Force belongs there to [Mars](/astrology/mars/), how you go after what you want, read by sign, house and aspect, and the wish to be free to [Uranus](/astrology/uranus/) and the house it falls in.
+Vulkanus isn't in my readings. Force belongs there to [Mars](/astrology/mars/), how you go after what you want: its sign tells me how someone pushes, its house where the push goes, and its aspects whether it runs freely or snags. The wish to be free belongs to [Uranus](/astrology/uranus/) and the house it falls in.
 
 As for the difficulties someone has carried through life: a chart can't see a body's limits, and I don't read one for health ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). What a person has had to overcome, I'd rather hear from them than read off a point no one has seen ([How I read](/how-i-read/)).
 

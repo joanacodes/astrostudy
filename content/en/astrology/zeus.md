@@ -55,7 +55,7 @@ In practice a Uranian astrologer doesn't read Zeus on its own but in combination
 
 Zeus isn't one of the points I read, and fertility is where I stop altogether. No chart can say whether or when a pregnancy will come, and I never read one for that ([Can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)).
 
-Creativity I read in [the 5th house](/astrology/5th-house/), what you do for joy, which tradition called Good Fortune. Drive and ambition I read in Mars and in Jupiter itself, each by sign, house and aspect. When I look ahead for someone, Jupiter's transits are among the ones I follow, so the god's initial is already doing its work in the chart ([How I read](/how-i-read/)).
+Creativity I read in [the 5th house](/astrology/5th-house/), what you do for joy, which tradition called Good Fortune. Drive and ambition I read in Mars and in Jupiter itself, each by sign, house and aspect. When I look ahead for someone, Jupiter's transits are among the ones I follow, its return to its own place every twelve years or so included, so the god's initial is already doing its work in the chart ([How I read](/how-i-read/)).
 
 ## Common myths {#myths}
 

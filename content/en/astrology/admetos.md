@@ -49,7 +49,7 @@ The ancient writers didn't agree on why the god served him, either. In one telli
 
 ## In a reading {#in-a-reading}
 
-Admetos isn't in my readings. When someone tells me that something in them won't move, I don't go looking for a hidden point. I look at what is crossing their chart now, the slow planets above all, and at how long each contact lasts ([Transits](/astrology/transits/)). In a forecast I follow the transits of the planets from Jupiter out to Pluto, with Chiron and the true node, and every one of them arrives, builds and passes. A slow transit has a start and an end: a timetable, not a wall.
+Admetos isn't in my readings. When someone tells me that something in them won't move, I don't go looking for a hidden point. I look at what is crossing their chart now, the slow planets above all, [Saturn](/astrology/saturn/) first among them, and at how long each contact lasts ([Transits](/astrology/transits/)). In a forecast I follow the transits of the planets from Jupiter out to Pluto, the social and generational ones ([Personal, social and generational planets](/astrology/personal-social-and-generational-planets/)), with Chiron and the true node, and every one of them arrives, builds and passes. A slow transit has a start and an end: a timetable, not a wall.
 
 *Spiritual blockage* isn't a phrase I use in a reading either. A chart can show where things come slowly, or late; it can't weigh anyone's inner life, and it would be unkind to pretend it can ([How I read](/how-i-read/)).
 
