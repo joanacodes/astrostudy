@@ -6,6 +6,8 @@ description: "Le système de maisons topocentrique : les maisons argentines de 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "houses"
+categories: ["Maisons"]
+tags: ["systèmes de maisons"]
 weight: 32
 glyph: "✦"
 definition: "Le système de maisons topocentrique, aussi appelé Polich-Page d’après ses auteurs Wendel Polich et A. Page Nelson, vient d’Argentine. Ses créateurs disent l’avoir trouvé de façon empirique, à partir d’événements de vies réelles. Ses cuspides tombent toujours à moins d’un degré de celles de Placidus : c’est une approximation étroite de Placidus, le système que j’utilise."

@@ -5,6 +5,8 @@ description: "The Topocentric house system: Polich and Page Nelson’s houses fr
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "houses"
+categories: ["Houses"]
+tags: ["house systems"]
 weight: 32
 glyph: "✦"
 definition: "The Topocentric house system, also called Polich-Page after its creators Wendel Polich and A. Page Nelson, is a house system from Argentina. Its makers say they found it empirically, from events in people’s lives. Its cusps always fall within a degree of the Placidus cusps, so it works as a close approximation of Placidus, the system I use."
