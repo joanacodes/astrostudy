@@ -5,6 +5,8 @@ description: "Rigel in astrology: Orion’s blue-white foot at 17°11′ Gemini,
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Rigel", "fixed stars"]
 weight: 25
 glyph: "★"
 definition: "Rigel is the blue-white star at Orion’s foot, usually the brightest of the constellation, and a fixed star at 17°11′ Gemini in 2026. In star astrology a planet within about a degree of that point is conjunct it, though at 31° south of the ecliptic the two never meet in the sky."
@@ -21,7 +23,7 @@ faq:
   - q: "What is Rigel known for in astrology?"
     a: "Rigel is Orion’s foot, a blue-white star placed at 17°11′ Gemini for 2026. Its name is Arabic for the left foot of Orion, and in New Zealand it is Puanga, whose rising heralds the Māori New Year. A planet on its degree meets it by longitude only, 31° away in the sky."
   - q: "Has Rigel moved since 1930?"
-    a: "Along the zodiac, yes: from 15°50′ Gemini in 1930 to 16°49′ in 2000 and 17°11′ in 2026. That drift of 1°21′, from precession, is wider than the one-degree orb, so a chart from 1930 needs Rigel’s degree for 1930, not today’s."
+    a: "Along the zodiac, yes, by 1°21′: it stood at 15°50′ Gemini for a 1930 birth and stands at 17°11′ for 2026, with 16°49′ in 2000. That drift, from precession, is wider than the one-degree orb, so a chart from 1930 needs Rigel’s degree for 1930, not today’s."
   - q: "Is my Sun on Rigel if I was born in early June?"
     a: "If your birthday falls around 7 June, give or take a day, yes: the Sun is then within a degree of Rigel’s zodiac position. It is a shared degree of Gemini and nothing more, because the star lies 31° south of the Sun’s path."
   - q: "Why is Rigel beta Orionis if it is brighter than Betelgeuse?"
@@ -38,13 +40,13 @@ Rigel is β Orionis, magnitude 0.12 in the Yale catalogue. It wavers a little, b
 
 Rigel's degree has moved 1°21′ since 1930, from 15°50′ [Gemini](/astrology/gemini/) to 17°11′ in 2026, by way of 16°49′ in 2000. That is more than the whole one-degree orb the tradition allows, so the year a star's degree is taken for decides whether a planet is on it ([precession of the equinoxes](/astrology/precession-of-the-equinoxes/)).
 
-Its latitude is 31.1° south of the [ecliptic](/astrology/ecliptic/). No planet and no Moon comes within 20° of it in the sky; a planet "on" Rigel shares its longitude, nothing else ([celestial latitude](/astrology/celestial-latitude/)). Sailors know it well all the same: it is visible from every ocean except north of 82°N.
+Rigel lies 31.1° south of the [ecliptic](/astrology/ecliptic/), so no planet and no Moon comes within 20° of it in the sky; a planet "on" Rigel shares its longitude, nothing else ([celestial latitude](/astrology/celestial-latitude/)). Sailors know it well all the same: it is visible from every ocean except north of 82°N.
 
 ## Its tradition {#its-tradition}
 
 The name is Arabic, rijl jauzah al-yusrā, the left foot of al-Jauzā', the old name for Orion. It is first recorded as Rigel in the Alfonsine tables of 1521, beside a second name, Algebar, from rijl al-jabbār, the foot of the great one. On Greek star maps it is the hunter's knee or foot, with a star of the River, β Eridani, as his footstool.
 
-In Aotearoa New Zealand, Rigel is Puanga. Its first rising before dawn announces Matariki, the Pleiades, and with it the Māori New Year in late May or early June ([Alcyone and the Pleiades](/astrology/alcyone-and-the-pleiades/)); the Moriori of the Chatham Islands, and some Māori groups, begin the year with Puanga itself. Further north, Norse lore probably knew it as Aurvandil's toe.
+In Aotearoa New Zealand, Rigel is Puanga. Its first rising before dawn announces Matariki, the Pleiades, and with it the Māori New Year in late May or early June ([Alcyone and the Pleiades](/astrology/alcyone-and-the-pleiades/)); the Moriori of the Chatham Islands, and some Māori groups, begin the year with Puanga itself. In Norse lore it was probably Aurvandil's toe.
 
 Two stars of Orion follow it along the zodiac: [Bellatrix](/astrology/bellatrix/), the left shoulder, 4° later at 21°18′ Gemini, and the belt just after that.
 
@@ -52,6 +54,6 @@ Two stars of Orion follow it along the zodiac: [Bellatrix](/astrology/bellatrix/
 
 For a birth in 2026, a planet or angle between 16°11′ and 18°11′ Gemini is conjunct Rigel in the tradition's terms; for 1930, between 14°50′ and 16°50′ ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)). The Sun gets there around 7 June, a day either side.
 
-Rigel is a clear case of what such a conjunction is. Draw a line from the planet to the star and it crosses 31° of sky; what the two share is the degree of Gemini they project onto. Astrologers who want the real sky look instead for a star rising, culminating or setting at the same moment as a planet, which suits a star this far south better ([parans](/astrology/parans/)).
+Rigel is a clear case of what such a conjunction is. Draw a line from the planet to the star and it crosses 31° of sky; what the two share is the degree of Gemini they project onto. Some astrologers prefer to work from the real sky, with a star rising, culminating or setting at the same moment as a planet, a method that suits a star this far south better ([parans](/astrology/parans/)).
 
 An Ascendant or Midheaven on Rigel would need a birth time you trust to the minute, since the angles move a degree in about four ([what changes without a birth time](/blog/unknown-birth-time/)). In my own readings the question doesn't arise: the system I built for them leaves fixed stars out, so Rigel stays a description here.

@@ -5,6 +5,8 @@ description: "Altair in astrology: the flying eagle at 2°08′ Aquarius, a mili
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Altair", "fixed stars"]
 weight: 35
 glyph: "★"
 definition: "Altair is the bright star of Aquila, the Eagle, a fixed star at 2°08′ Aquarius in 2026. Western astrology calls it a military star, linked with boldness and risk-taking. The Eagle lies 29.3° north of the ecliptic, so a planet can share Altair’s degree, within about 1°, but never its patch of sky."
@@ -39,7 +41,7 @@ Altair is α Aquilae, magnitude 0.77 in the Yale catalogue, the twelfth-brightes
 
 Altair has been in [Aquarius](/astrology/aquarius/) only since the 1870s, when the [precession of the equinoxes](/astrology/precession-of-the-equinoxes/) carried it over from [Capricorn](/astrology/capricorn/): it was at 0°47′ Aquarius in 1930, 1°46′ in 2000 and 2°08′ in 2026.
 
-The Eagle flies 29.3° north of the [ecliptic](/astrology/ecliptic/). No planet comes anywhere near it in the sky, and a planet "on" Altair shares only its degree.
+The Eagle flies 29.3° north of the [ecliptic](/astrology/ecliptic/), too far for any planet to come near it in the sky; a planet "on" Altair shares only its degree.
 
 ## Its tradition {#its-tradition}
 

@@ -5,6 +5,8 @@ description: "Bellatrix in astrology: the female warrior on Orion’s left shoul
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Bellatrix", "fixed stars"]
 weight: 26
 glyph: "★"
 definition: "Bellatrix, Latin for female warrior, is the fixed star on Orion’s left shoulder, at 21°18′ Gemini in 2026. A planet within a degree or so of it is conjunct it in star astrology, but only on paper: the star lies 16.8° south of the ecliptic, where the Moon and planets never go."
@@ -18,8 +20,8 @@ facts:
   - { k: "Sun on its degree", v: "Births about 11–12 June" }
 related: ["/astrology/fixed-stars-in-astrology", "/astrology/rigel", "/astrology/orions-belt", "/astrology/capella", "/astrology/gemini"]
 faq:
-  - q: "What does the name Bellatrix mean?"
-    a: "Bellatrix is Latin for female warrior, and the star has also been called the Amazon Star. The name first belonged to Capella and was moved to Orion’s left shoulder in the fifteenth century. In the sources I can check, the name is most of what astrology has to say about the star."
+  - q: "Where does the name Bellatrix come from?"
+    a: "From Latin: bellatrix means female warrior, and the star has also been called the Amazon Star. The name first belonged to Capella and was moved to Orion’s left shoulder in the fifteenth century. In the sources I can check, the name is most of what astrology has to say about the star."
   - q: "What sign is Bellatrix in?"
     a: "Gemini. Its degree for 2026 is 21°18′, and charts from 2000 and 1930 have it 22′ and 1°21′ earlier. Capella, the star the name came from, is now 55′ away in longitude, at 22°13′ Gemini, though 40° away in the sky."
   - q: "When does the Sun pass Bellatrix?"

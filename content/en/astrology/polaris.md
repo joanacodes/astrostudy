@@ -5,6 +5,8 @@ description: "Polaris in astrology: the North Star at 28°55′ Gemini, 66° fro
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Polaris", "fixed stars"]
 weight: 32
 glyph: "★"
 definition: "Polaris is the North Star, the fixed star less than a degree from the north pole of the sky, placed at 28°55′ Gemini in the tropical zodiac for 2026. That degree is a projection: the star lies 66.1° north of the ecliptic, so a planet “conjunct” Polaris shares a number with it and never comes near it."
@@ -21,7 +23,7 @@ faq:
   - q: "What does the North Star symbolise in astrology?"
     a: "Polaris, the North Star, is placed at 28°55′ Gemini in 2026, but it lies 66° north of the Sun’s path, so a planet on that degree never comes near it. In its names, from the Hindu Dhruva to Shakespeare’s northern star, it stands for constancy: a fact of the sky more than of the zodiac."
   - q: "What zodiac sign is the North Star in?"
-    a: "Gemini, on its 29th degree: 28°55′ for 2026, 28°33′ for 2000. Precession moves it on about a degree every 72 years, and it will cross into Cancer early in the 2100s. Betelgeuse sits on almost the same degree, though the two stars are 82° apart in the sky."
+    a: "In Gemini, five minutes of arc short of 29°: 28°55′ for 2026, after 28°33′ for 2000. Precession moves it on about a degree every 72 years, and it will cross into Cancer early in the 2100s. Betelgeuse sits on almost the same degree, though the two stars are 82° apart in the sky."
   - q: "Is Polaris the brightest star in the sky?"
     a: "No. Its magnitude of about 2 makes it roughly the 47th-brightest star. It is famous for staying put, not for brightness: it lies less than a degree from the north pole of the sky, so everything else seems to turn around it. Ptolemy recorded it as fainter still."
   - q: "Can the Sun be conjunct Polaris?"
@@ -51,6 +53,6 @@ The Bedouin of the Negev and Sinai steered by two stars and set them against eac
 
 Polaris shares its zodiac degree with [Betelgeuse](/astrology/betelgeuse/): 28°55′ against 29°07′ Gemini, while the two stars are 82° apart in the sky. A planet at 29° Gemini is "conjunct" both by the tradition's one-degree rule, which shows plainly what a conjunction to a star this far north is: a shared number, not a shared place ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)). The Sun stands on that number for births on about 19 and 20 June.
 
-Astrologers who want the real sky look instead at which stars rise, culminate or set with a planet ([parans](/astrology/parans/)). Polaris never rises or sets for anyone well north of the equator, so for it even that comes down to the moment it crosses the meridian.
+The method of [parans](/astrology/parans/), which pairs a planet with a star rising, culminating or setting at the same moment, follows the real sky instead. Polaris never rises or sets for anyone well north of the equator, so for it even that comes down to the moment it crosses the meridian.
 
 [Acubens](/astrology/acubens/), the faint claw of the Crab, is the opposite case: close enough to the Sun's path for the Moon to hide it. I describe both here and read neither, since the stars aren't part of the system I built for my readings ([How I read](/how-i-read/)).

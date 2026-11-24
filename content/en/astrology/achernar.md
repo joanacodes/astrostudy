@@ -5,6 +5,8 @@ description: "Achernar in astrology: the end of the river at 15°40′ Pisces, a
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Achernar", "fixed stars"]
 weight: 34
 glyph: "★"
 definition: "Achernar is the bright star at the southern end of Eridanus, the River, a fixed star at 15°40′ Pisces in 2026; its name is Arabic for the end of the river. It is the only first-magnitude star missing from Ptolemy’s catalogue. Lying 59.4° south of the ecliptic, it touches a chart only through its zodiac degree."

@@ -5,6 +5,8 @@ description: "Acubens in astrology: the Crab’s claw, a faint star at 14°00′
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Acubens", "fixed stars"]
 weight: 31
 glyph: "★"
 definition: "Acubens is the fixed star in the Crab’s claw, α Cancri, a faint star at 14°00′ Leo in 2026 whose name is Arabic for the claws. Only 5.1° south of the ecliptic, it can be covered by the Moon, and in star astrology a planet within about a degree of it is conjunct."
@@ -23,7 +25,7 @@ faq:
   - q: "Which degree of Leo is Acubens on?"
     a: "Exactly 14°00′ Leo in 2026, after 13°38′ in 2000 and 12°39′ in 1930. In Ptolemy’s time it still stood in the sign of Cancer, like its constellation; precession has since moved it on by about a degree every 72 years."
   - q: "What date is the Sun conjunct Acubens?"
-    a: "About 5 and 6 August, in every year from 1930 to 2009: the Sun is then within a degree of the star’s zodiac position, almost halfway through Leo. The star lies 5.1° south of the Sun’s path, so the Sun passes a few degrees north of it."
+    a: "About 5 and 6 August, in every year from 1930 to 2009: the Sun is then within a degree of the star’s zodiac position, almost halfway through Leo, and it passes some 5° north of the faint star itself."
   - q: "Can the Moon cover Acubens?"
     a: "Yes. At 5.1° south of the ecliptic the star sits at the edge of the band the Moon travels in, so the Moon sometimes passes in front of it. Astronomers timed one such occultation in 2014 to look for a close companion star, and found none."
 sources:

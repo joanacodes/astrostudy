@@ -5,6 +5,8 @@ description: "Vega in astrology: the Lyre’s star at 15°40′ Capricorn, its B
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Vega", "fixed stars", "Behenian stars"]
 weight: 22
 glyph: "★"
 definition: "Vega is the Lyre’s brightest star, a fixed star at 15°40′ Capricorn in 2026 and one of the fifteen Behenian stars of medieval magic. A planet within about a degree of that position counts as conjunct it, although Vega lies 61.7° north of the Sun’s path and no planet ever comes near it in the sky."
@@ -39,7 +41,7 @@ Vega is α Lyrae, the brightest star of the Lyre, a small constellation of the n
 
 Its tropical degree for 2026 is 15°40′ [Capricorn](/astrology/capricorn/). Charts from 2000 put it at 15°18′ and charts from 1930 at 14°20′, because the [precession of the equinoxes](/astrology/precession-of-the-equinoxes/) moves every star on by about a degree in 72 years; at that pace Vega has roughly a thousand years of Capricorn ahead of it.
 
-The figure that matters most for a chart is its latitude, the distance north or south of the [ecliptic](/astrology/ecliptic/), the Sun's path. Vega's is 61.7° north. The Moon never strays much more than 5° from that path and the planets stray less, so nothing in a birth chart ever comes near Vega in the sky. A planet "on" Vega shares its zodiac degree, and only that ([celestial latitude](/astrology/celestial-latitude/)).
+The figure that matters most for a chart is its latitude, the distance north or south of the [ecliptic](/astrology/ecliptic/), the Sun's path. Vega's is 61.7° north. The Moon strays only about 5° from that path, and no planet in a birth chart strays anywhere near as far as Vega lies, so none ever comes near it in the sky. A planet "on" Vega shares its zodiac degree, and only that ([celestial latitude](/astrology/celestial-latitude/)).
 
 ## Its tradition {#its-tradition}
 
@@ -55,4 +57,4 @@ A star enters a birth chart through a conjunction: a planet or angle within abou
 
 The Sun crosses it on about 5 and 6 January. Early January is when the Sun moves fastest, near the Earth's closest approach to it, so the window goes by a little sooner than a summer star's: about 1 person in 185 born from 1930 to 2009 has the Sun on Vega, against nearer 1 in 175 for the stars the Sun meets in June and July. Astrologers who work with stars would lay Vega's two planets, Mercury and Venus, over that Sun, which keeps its own meaning all the same: a [Sun in Capricorn](/astrology/sun-in-capricorn/) first.
 
-I describe Vega rather than read it. The system I built for my readings doesn't compute fixed stars, and a contact made only on paper, with the star 61.7° away from the planet it touches, is one I wouldn't add to a chart on trust ([How I read](/how-i-read/)).
+The system I built for my readings doesn't compute fixed stars, so Vega appears here as a description. A contact made only on paper, with the star 61.7° away from the planet it touches, is not one I would add to a chart on trust ([How I read](/how-i-read/)).

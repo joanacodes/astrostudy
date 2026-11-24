@@ -5,6 +5,8 @@ description: "Pollux in astrology: the brighter Twin, an orange giant at 23°34�
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Pollux", "fixed stars"]
 weight: 28
 glyph: "★"
 definition: "Pollux is the brighter Twin of Gemini, an orange giant and fixed star at 23°34′ Cancer in 2026. In myth he is the immortal brother who asked Zeus to make Castor immortal too. Star astrology reads it into a planet within about a degree of its position; at 6.7° north, it lies just beyond the Moon’s reach."
@@ -22,8 +24,8 @@ faq:
     a: "Pollux and Castor were twin sons of Leda: Pollux the son of Zeus and immortal, Castor the son of a mortal king. When Castor died, Pollux asked Zeus to give his brother immortality, and the two were set side by side in the sky as the Twins. The star stands at 23°34′ Cancer in 2026."
   - q: "Why is Pollux in Cancer and not Gemini?"
     a: "The star belongs to the constellation Gemini, and in Ptolemy’s day it stood in the sign of Gemini too, at about 27°. Since then the equinox, from which the signs are counted, has slipped back about 26°, and that has carried Pollux to 23°34′ Cancer."
-  - q: "What does Sun conjunct Pollux mean?"
-    a: "It means a birthday around 15 or 16 July, or 14 to 16 July in 1930, with the Sun within a degree of Pollux’s zodiac position. Those who use stars would add the immortal twin’s story to that Sun. The star lies 6.7° north of the Sun’s path, so the two never quite meet."
+  - q: "What does a Sun on Pollux mean?"
+    a: "It means a birthday around 15 or 16 July, or 14 to 16 July in 1930, with the Sun within a degree of Pollux’s zodiac position. Those who use stars would add the immortal twin’s story to that Sun. The star lies 6.7° north of the Sun’s path, so the Sun always passes some 7° south of it."
   - q: "Is Pollux brighter than Castor?"
     a: "Yes. Pollux shines at magnitude 1.14, Castor at about 1.6 for its six stars together. Johann Bayer lettered Castor alpha and Pollux beta in 1603 without carefully telling which was brighter, and the letters stuck."
 sources:
@@ -39,7 +41,7 @@ Pollux is β Geminorum, magnitude 1.14 in the Yale catalogue: the brightest star
 
 In the zodiac this star of Gemini belongs to the next sign, [Cancer](/astrology/cancer/): 23°34′ for 2026, 23°12′ for 2000 and 22°14′ for 1930. In Ptolemy's day it was still in the sign of Gemini, at about 27°; the signs are counted from the March equinox, and the equinox has drifted back against the stars since then ([constellations versus signs](/astrology/constellations-versus-signs/)).
 
-Its latitude is 6.7° north of the [ecliptic](/astrology/ecliptic/), just beyond the Moon's present reach. No occultation of Pollux by the Moon has been visible from Earth since 30 September 117 BCE, seen then from high southern latitudes. Planets that reach its degree pass several degrees south of it ([celestial latitude](/astrology/celestial-latitude/)).
+Its latitude is 6.7° north of the [ecliptic](/astrology/ecliptic/), just beyond the Moon's present reach. No occultation of Pollux by the Moon has been visible from Earth since 30 September 117 BCE, seen then from high southern latitudes. Planets that reach its degree pass south of it ([celestial latitude](/astrology/celestial-latitude/)).
 
 ## Its tradition {#its-tradition}
 

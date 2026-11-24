@@ -5,6 +5,8 @@ description: "Betelgeuse in astrology: Orion’s red shoulder at 29°07′ Gemin
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Betelgeuse", "fixed stars"]
 weight: 24
 glyph: "★"
 definition: "Betelgeuse is the red supergiant on Orion’s shoulder, a fixed star at 29°07′ Gemini in 2026 that will enter Cancer around 2090. Old star lore ties its colour to Mars and conquest. A planet on its degree is conjunct it by longitude only, for the star lies 16° south of the ecliptic, out of the planets’ reach."
@@ -20,8 +22,8 @@ related: ["/astrology/fixed-stars-in-astrology", "/astrology/rigel", "/astrology
 faq:
   - q: "Is Betelgeuse linked with Mars in astrology?"
     a: "In old star lore, yes: its red colour tied it to Mars, the planet named after the Roman war god, and to conquest. In India it names Ardra, a lunar mansion. That is the tradition’s picture; a planet on Betelgeuse’s degree, 29°07′ Gemini in 2026, still means what that planet means first."
-  - q: "Is Betelgeuse in Gemini or Cancer?"
-    a: "In Gemini, on its last degree: 29°07′ for 2026, after 27°46′ for 1930 and 28°45′ for 2000. Moving on about a degree every 72 years, it will cross into Cancer around 2090, and already a planet in the first minutes of Cancer is within a degree of it."
+  - q: "Is Betelgeuse moving into Cancer?"
+    a: "Slowly. It is on the last degree of Gemini: 29°07′ for 2026, after 27°46′ for 1930 and 28°45′ for 2000. Moving on about a degree every 72 years, it will cross into Cancer around 2090, and already a planet in the first minutes of Cancer is within a degree of it."
   - q: "Does a 20 June birthday put the Sun on Betelgeuse?"
     a: "Yes, and so does 19 June. In those last days of Gemini, just before the June solstice, the Sun is within a degree of the star’s zodiac position. The star itself lies 16° south of the Sun’s path, too far for the two ever to meet in the sky."
   - q: "Why did Betelgeuse dim in 2019 and 2020?"
@@ -52,6 +54,6 @@ In India it is Ārdrā, "the moist one", which gives its name to a lunar mansion
 
 The tradition's measure is a planet or angle within about a degree, by zodiac position ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)). For a birth in 2026 that window runs from 28°07′ Gemini to 0°07′ Cancer, so a planet that has only just entered Cancer can still be on Betelgeuse; the orb is counted in degrees, not in signs. For a birth in 1930 the window is 26°46′ to 28°46′ Gemini.
 
-The Sun reaches the star on about 19 and 20 June, in the last days of a [Sun in Gemini](/astrology/sun-in-gemini/), just before the solstice. The same birthdays put the Sun on Polaris's degree too, which shows what a contact by longitude is: one number shared by two stars some 82° apart.
+Birthdays on about 19 and 20 June bring the Sun to the star, at the very end of a [Sun in Gemini](/astrology/sun-in-gemini/), a day or two before the solstice. The same birthdays put the Sun on Polaris's degree too, which shows what a contact by longitude is: one number shared by two stars some 82° apart.
 
 Read by an astrologer who uses stars, Betelgeuse would lend a planet on its degree something of the red star's martial lore. My readings compute no stars, so I keep that lore here, as history worth knowing and never a verdict about anyone born with a planet at 29° Gemini ([How I read](/how-i-read/)).

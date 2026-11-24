@@ -5,9 +5,11 @@ description: "Deneb Algedi in astrology: the sea-goat’s tail at 23°54′ Aqua
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Deneb Algedi", "fixed stars", "Behenian stars"]
 weight: 23
 glyph: "★"
-definition: "Deneb Algedi is the fixed star in the tail of the sea-goat, the brightest star of Capricornus, standing at 23°54′ Aquarius in 2026. Medieval astrology counted it among the fifteen Behenian stars, with Saturn and Mercury. Only 2.6° from the Sun’s path, it can meet the Moon and planets in the sky, not just by degree."
+definition: "Deneb Algedi is the fixed star in the tail of the sea-goat, the brightest star of Capricornus, standing at 23°54′ Aquarius in 2026. Medieval talisman-makers paired it with Saturn and Mercury, as one of the fifteen Behenian stars. Only 2.6° from the Sun’s path, it can meet the Moon and planets in the sky, not just by degree."
 facts:
   - { k: "Constellation", v: "Capricornus: δ Capricorni, its brightest star" }
   - { k: "Brightness", v: "Magnitude 2.87, dipping slightly every 24½ hours" }
@@ -23,7 +25,7 @@ faq:
   - q: "Why is Deneb Algedi in Aquarius if it belongs to Capricorn?"
     a: "Signs are counted from the March equinox, which slides back against the stars by about a degree in 72 years. In Ptolemy’s day the goat’s tail still stood near the end of the sign of Capricorn; today the brightest star of Capricornus sits at 23°54′ of Aquarius."
   - q: "Which birthdays have the Sun on Deneb Algedi?"
-    a: "Those around 11 and 12 February, in every year from 1930 to 2009. The Sun then passes within a degree of the star’s zodiac position, and within a few degrees of the star itself, since Deneb Algedi lies only 2.6° from the Sun’s yearly path."
+    a: "Birthdays around 11 and 12 February. On those days the Sun passes within a degree of the star’s zodiac position, and within a few degrees of the star itself, since Deneb Algedi lies only 2.6° from the Sun’s yearly path; the dates held for every year from 1930 to 2009."
   - q: "Can the Moon pass in front of Deneb Algedi?"
     a: "Yes. The star lies 2.6° south of the ecliptic, inside the band the Moon covers, so the Moon sometimes hides it for a while: occultations were observed in 1951, 1962 and 1988. Planets can do the same, though much more rarely."
 sources:
@@ -55,4 +57,4 @@ In the tradition's terms, a planet or angle within about a degree of the star is
 
 Because the star lies so near the Sun's path, the planets that reach its degree usually pass within a few degrees of it in the sky, and the Moon now and then right over it. That's a real meeting, unlike the paper contacts of stars far to the north or south. Whether the Moon was on it at your birth, though, turns on the hour ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Saturn and Mercury, the pair the Behenian list gave it, are the tone a star astrologer would lay over the planet there. The goat's tail is as close as a fixed star comes to the planets' own road, and still I keep it out of readings, which compute no stars; its double fortune is lore to know, never something I'd hand anyone as a prediction.
+Saturn and Mercury, the pair the Behenian list gave it, are the tone a star astrologer would lay over the planet there. The goat's tail lies almost on the planets' own road, and still I keep it out of readings, which compute no stars; its double fortune is lore to know, never something I'd hand anyone as a prediction.

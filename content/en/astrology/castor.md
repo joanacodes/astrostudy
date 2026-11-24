@@ -5,9 +5,11 @@ description: "Castor in astrology: the mortal Twin, six stars that look like one
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Castor", "fixed stars"]
 weight: 29
 glyph: "★"
-definition: "Castor is the mortal Twin of Gemini, a fixed star at 20°36′ Cancer in 2026 that is really six stars in three pairs. With Pollux it protected sailors in Greek myth. Those who read fixed stars treat a planet within about a degree of it as conjunct; at 10.1° north, the star never meets the Moon."
+definition: "Castor is the mortal Twin of Gemini, a fixed star at 20°36′ Cancer in 2026 that is really six stars in three pairs. With Pollux it protected sailors in Greek myth. For astrology the six make a single point, and a planet within about a degree of that point is conjunct it."
 facts:
   - { k: "Constellation", v: "Gemini: α Geminorum" }
   - { k: "Brightness", v: "Magnitude 1.98 for its brighter pair; about 1.6 for all six stars" }
@@ -40,7 +42,7 @@ Castor is α Geminorum. The Yale catalogue gives it magnitude 1.98, the figure f
 
 Its zodiac degree is 20°36′ [Cancer](/astrology/cancer/) for 2026; a chart from 2000 gives 20°14′, and one from 1930 19°15′. Around 150 CE it was still in the sign of its constellation, at about 24° Gemini.
 
-Its latitude is 10.1° north of the [ecliptic](/astrology/ecliptic/), the furthest north of the Twins. The [Moon](/astrology/moon/), ruler of Cancer, crosses Castor's degree every month and passes several degrees south of the star each time; the planets pass further south still ([celestial latitude](/astrology/celestial-latitude/)).
+Castor lies 10.1° north of the [ecliptic](/astrology/ecliptic/), further north than Pollux. The [Moon](/astrology/moon/), ruler of Cancer, crosses Castor's degree every month and passes several degrees south of the star each time, and so do the planets ([celestial latitude](/astrology/celestial-latitude/)).
 
 ## Its tradition {#its-tradition}
 

@@ -5,6 +5,8 @@ description: "Praesepe in astrology: the Beehive Cluster in Cancer, centred near
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Praesepe", "fixed stars"]
 weight: 30
 glyph: "★"
 definition: "Praesepe is the Beehive Cluster, about a thousand stars in the constellation Cancer that astrologers count among the fixed stars. Its centre works out at about 7°38′ Leo for 2026. It lies only 1.6° north of the Sun’s path, so the Moon and planets that reach its degree really pass beside or through it."

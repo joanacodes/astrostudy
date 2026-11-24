@@ -5,6 +5,8 @@ description: "Orion’s belt in astrology: Mintaka, Alnilam and Alnitak from 22�
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Orion’s belt", "fixed stars"]
 weight: 27
 glyph: "★"
 definition: "Orion’s belt is the row of three fixed stars across Orion’s middle: Mintaka, Alnilam and Alnitak, at 22°43′, 23°49′ and 25°02′ Gemini in 2026. An asterism has no single position, so astrologers who use it take each star’s own degree. All three lie 23° to 25° south of the ecliptic, beyond any planet’s reach."
