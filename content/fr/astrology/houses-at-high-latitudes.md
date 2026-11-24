@@ -61,7 +61,7 @@ Qui cela concerne-t-il ? Les plus grandes villes au nord du cercle arctique so
 
 ## Dans une lecture {#dans-une-lecture}
 
-J’utilise Placidus, et je ne prétendrai pas qu’il fait ce qu’il ne peut pas faire. Pour une naissance au nord du cercle arctique ou au sud du cercle antarctique, Placidus ne peut pas donner une maison à chaque degré : un thème en Placidus dressé là-bas a soit laissé une partie du zodiaque sans maison, soit prolongé le système, et les maisons de ce site, toutes écrites pour Placidus, n’en sont pas un guide. Si c’est votre thème, demandez dans quel système il a été dressé avant de lire quoi que ce soit dans ses maisons ([Quel système de maisons choisir ?](/astrology/which-house-system-should-i-use/)).
+Placidus est le système que j’utilise, et je ne prétendrai pas qu’il fait ce qu’il ne peut pas faire. Pour une naissance au nord du cercle arctique ou au sud du cercle antarctique, Placidus ne peut pas donner une maison à chaque degré : un thème en Placidus dressé là-bas a soit laissé une partie du zodiaque sans maison, soit prolongé le système, et les maisons de ce site, toutes écrites pour Placidus, n’en sont pas un guide. Si c’est votre thème, demandez dans quel système il a été dressé avant de lire quoi que ce soit dans ses maisons ([Quel système de maisons choisir ?](/astrology/which-house-system-should-i-use/)).
 
 Au sud du cercle, Placidus se dessine toujours, si déséquilibrées que soient ses maisons : un thème pour Stockholm ou Reykjavik est inégal, pas cassé. Près des cercles, l’heure de naissance compte plus encore que d’habitude : quand un signe se lève en une demi-heure, quelques minutes déplacent beaucoup l’ascendant ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

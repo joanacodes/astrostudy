@@ -25,9 +25,9 @@ faq:
   - q: "What are meridian houses in astrology?"
     a: "A house system, also called axial or equatorial, that cuts the celestial equator into twelve equal arcs of two sidereal hours, starting at the meridian, and carries them onto the zodiac through the celestial poles. The Midheaven is the 10th cusp and the East Point the 1st. David Cope proposed it early in the 20th century."
   - q: "Why isn’t the Ascendant the 1st house cusp in meridian houses?"
-    a: "Because the system’s divisions come from the equator and the meridian, not from the horizon. Its 1st cusp is the East Point, the degree that would be rising on the Earth’s equator at the same moment. The Ascendant keeps its sign and aspects but no longer decides where the houses begin."
+    a: "Every cusp is found by the same rule, two sidereal hours of the equator carried to the zodiac through the celestial poles, and that rule makes the 1st cusp the East Point, the degree rising at that moment on the Earth’s equator. The Ascendant keeps its sign and aspects but no longer decides where the houses begin."
   - q: "Do meridian houses work at high latitudes?"
-    a: "Yes. The construction never uses the latitude of the birthplace, so meridian houses can be drawn anywhere, including beyond the polar circles where Placidus and Koch fail. That independence from the horizon is the very reason the Ascendant doesn’t open the 1st house."
+    a: "Yes. Each house is two sidereal hours of the sky’s turning, counted from the meridian, and nothing in that count depends on how far north or south you were born, so the houses can be drawn beyond the polar circles too. The price of that freedom is the 1st cusp, which goes to the East Point."
   - q: "Who uses the meridian house system?"
     a: "It became the most popular house system of Uranian astrology, the school that grew from Alfred Witte’s Hamburg School and its American branch, whose work centres on midpoints and hypothetical points. Some Hamburg astrologers go further and use no houses at all."
 sources:
@@ -39,7 +39,7 @@ Meridian houses keep time the way the sky does: each house is exactly two hours 
 
 ## What it is {#what-it-is}
 
-The system takes the [celestial equator](/astrology/celestial-equator/) and cuts it into twelve equal arcs of 30°, starting from the meridian, where the [Midheaven](/astrology/midheaven/) is. Each arc is two sidereal hours of the sky's rotation. The dividing points are carried onto the zodiac along great circles through the celestial poles, the same circles astronomers use to measure [right ascension](/astrology/right-ascension/), and where each one crosses the zodiac is a cusp. The 10th cusp is therefore the Midheaven itself. The 1st cusp is not the [Ascendant](/astrology/ascendant/) but the [East Point](/astrology/east-point/), the degree that would be rising at that moment on the Earth's equator.
+The system takes the [celestial equator](/astrology/celestial-equator/) and cuts it into twelve equal arcs of 30°, starting from the meridian, where the [Midheaven](/astrology/midheaven/) is. Each arc stands for two sidereal hours. The dividing points are carried onto the zodiac along great circles through the celestial poles, the same circles astronomers use to measure [right ascension](/astrology/right-ascension/), and where each one crosses the zodiac is a cusp. The 10th cusp is therefore the Midheaven itself. The 1st cusp is not the [Ascendant](/astrology/ascendant/) but the [East Point](/astrology/east-point/), the degree that would be rising at that moment on the Earth's equator.
 
 It goes by several names, meridian, axial and equatorial, and was proposed by the Australian astrologer David Cope at the beginning of the 20th century. It became the most popular house system of the Uranian school, the astrology of [The Hamburg School (Uranian astrology)](/astrology/hamburg-school-uranian-astrology/) and its American branch.
 
@@ -55,13 +55,13 @@ Among the many systems still being proposed and argued over are the [Topocentric
 
 ## In a reading {#in-a-reading}
 
-I use Placidus, and meridian houses differ from it first at the 1st house. In Placidus the Ascendant is its cusp, so the rising degree is where the houses begin ([house cusps](/astrology/house-cusps/)); in meridian houses the East Point is, and away from the equator the two can be far apart. A planet just below the horizon can be in the 1st house in one system and the 12th in the other.
+Meridian houses part from Placidus, the system I use, first at the 1st house. In Placidus the Ascendant is its cusp, so the rising degree is where the houses begin ([house cusps](/astrology/house-cusps/)); in meridian houses the East Point is, and away from the equator the two can be far apart. A planet just below the horizon can be in the 1st house in one system and the 12th in the other.
 
-What I respect in the system is its consistency: equal two-hour houses, the same rule at every latitude, no special case for the far north. If your chart was drawn by a Uranian astrologer, your planets' signs, degrees and aspects are the ones I'd read; the houses belong to another frame, and I wouldn't mix the two ([which house system should I use?](/astrology/which-house-system-should-i-use/)). Two-hour houses also mean that every cusp, the Midheaven first, turns with the clock, so the birth time decides them all ([What changes without a birth time](/blog/unknown-birth-time/)).
+What I respect in the system is its consistency: equal two-hour houses, the same rule at every latitude, no special case for the far north. A chart from a Uranian astrologer gives your planets the signs, degrees and aspects I'd give them; its houses belong to another frame, and I wouldn't mix the two ([which house system should I use?](/astrology/which-house-system-should-i-use/)). Two-hour houses also mean that every cusp, the Midheaven first, turns with the clock, so the birth time decides them all ([What changes without a birth time](/blog/unknown-birth-time/)).
 
 ## Common myths {#myths}
 
 - **“Meridian houses ignore the Ascendant.”** It keeps its sign and aspects; it just doesn't open the 1st house.
 - **“Equal in time means equal in the zodiac.”** Two sidereal hours each, but between about 28° and 32° of zodiac.
 - **“Every Uranian astrologer uses them.”** They are the school's most popular system, but some Hamburg practitioners use no houses at all.
-- **“Like Placidus, it fails near the poles.”** It uses no latitude, so it can be drawn anywhere.
+- **“Meridian houses are a Uranian invention.”** David Cope, an Australian astrologer, proposed them at the beginning of the 20th century; the Uranian school adopted them afterwards.

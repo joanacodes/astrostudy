@@ -26,9 +26,9 @@ faq:
   - q: "Que sont les maisons méridiennes en astrologie ?"
     a: "Un système de maisons, dit aussi axial ou équatorial, qui coupe l’équateur céleste en douze arcs égaux de deux heures sidérales, à partir du méridien, et les reporte sur le zodiaque par les pôles célestes. Le Milieu du Ciel est la cuspide 10 et le Point Est la cuspide 1. David Cope l’a proposé au début du XXe siècle."
   - q: "Pourquoi l’ascendant n’est-il pas la cuspide 1 dans les maisons méridiennes ?"
-    a: "Parce que les divisions du système viennent de l’équateur et du méridien, pas de l’horizon. Sa cuspide 1 est le Point Est, le degré qui se lèverait au même instant sur l’équateur terrestre. L’ascendant garde son signe et ses aspects, mais ne décide plus du début des maisons."
+    a: "Chaque cuspide suit la même règle, deux heures sidérales d’équateur reportées sur le zodiaque par les pôles célestes, et cette règle fait de la cuspide 1 le Point Est, le degré qui se lève au même instant sur l’équateur terrestre. L’ascendant garde son signe et ses aspects, mais ne décide plus du début des maisons."
   - q: "Les maisons méridiennes fonctionnent-elles aux hautes latitudes ?"
-    a: "Oui. La construction n’emploie jamais la latitude du lieu de naissance : les maisons méridiennes se dessinent partout, y compris au-delà des cercles polaires où Placidus et Koch échouent. Cette indépendance vis-à-vis de l’horizon est précisément la raison pour laquelle l’ascendant n’ouvre pas la maison 1."
+    a: "Oui. Chaque maison vaut deux heures sidérales de la rotation du ciel, comptées depuis le méridien, et rien dans ce compte ne dépend de la latitude de naissance : les maisons se dessinent donc aussi au-delà des cercles polaires. Le prix de cette liberté, c’est la cuspide 1, qui revient au Point Est."
   - q: "Qui emploie le système des maisons méridiennes ?"
     a: "C’est devenu le système de maisons préféré de l’astrologie uranienne, l’école née de l’école de Hambourg d’Alfred Witte et de sa branche américaine, dont le travail porte sur les mi-points et les points hypothétiques. Certains astrologues de Hambourg vont plus loin et n’emploient aucune maison."
 sources:
@@ -40,7 +40,7 @@ Les maisons méridiennes comptent le temps comme le ciel : chaque maison vaut e
 
 ## Ce que c’est {#ce-que-c-est}
 
-Le système prend l’[équateur céleste](/astrology/celestial-equator/) et le coupe en douze arcs égaux de 30°, à partir du méridien, là où se trouve le [Milieu du Ciel](/astrology/midheaven/). Chaque arc vaut deux heures sidérales de la rotation du ciel. Les points de division sont reportés sur le zodiaque par des grands cercles passant par les pôles célestes, ceux-là mêmes qui servent aux astronomes à mesurer l’[ascension droite](/astrology/right-ascension/), et là où chacun croise le zodiaque se trouve une cuspide. La cuspide 10 est donc le Milieu du Ciel lui-même. La cuspide 1 n’est pas l’[ascendant](/astrology/ascendant/) mais le [Point Est](/astrology/east-point/), le degré qui se lèverait à cet instant sur l’équateur terrestre.
+Le système prend l’[équateur céleste](/astrology/celestial-equator/) et le coupe en douze arcs égaux de 30°, à partir du méridien, là où se trouve le [Milieu du Ciel](/astrology/midheaven/). Chaque arc représente deux heures sidérales. Les points de division sont reportés sur le zodiaque par des grands cercles passant par les pôles célestes, ceux-là mêmes qui servent aux astronomes à mesurer l’[ascension droite](/astrology/right-ascension/), et là où chacun croise le zodiaque se trouve une cuspide. Le Milieu du Ciel est ainsi lui-même la cuspide 10. La cuspide 1 n’est pas l’[ascendant](/astrology/ascendant/) mais le [Point Est](/astrology/east-point/), le degré qui se lèverait à cet instant sur l’équateur terrestre.
 
 Il porte plusieurs noms, méridien, axial et équatorial, et a été proposé par l’astrologue australien David Cope au début du XXe siècle. Il est devenu le système de maisons le plus répandu de l’école uranienne, l’astrologie de [L’école de Hambourg (astrologie uranienne)](/astrology/hamburg-school-uranian-astrology/) et de sa branche américaine.
 
@@ -56,13 +56,13 @@ Parmi les nombreux systèmes encore proposés et débattus figurent les maisons 
 
 ## Dans une lecture {#dans-une-lecture}
 
-J’utilise Placidus, et les maisons méridiennes s’en écartent d’abord à la maison 1. En Placidus, l’ascendant en est la cuspide, si bien que le degré qui se lève est le point où commencent les maisons ([cuspides des maisons](/astrology/house-cusps/)) ; dans les maisons méridiennes, c’est le Point Est, et loin de l’équateur les deux peuvent être très éloignés. Une planète juste sous l’horizon peut être en maison 1 dans un système et en maison 12 dans l’autre.
+Les maisons méridiennes s’écartent de Placidus, le système que j’utilise, d’abord à la maison 1. En Placidus, l’ascendant en est la cuspide, si bien que le degré qui se lève est le point où commencent les maisons ([cuspides des maisons](/astrology/house-cusps/)) ; dans les maisons méridiennes, c’est le Point Est, et loin de l’équateur les deux peuvent être très éloignés. Une planète juste sous l’horizon peut être en maison 1 dans un système et en maison 12 dans l’autre.
 
-Ce que je respecte dans ce système, c’est sa cohérence : des maisons égales de deux heures, la même règle à toutes les latitudes, aucun cas particulier pour le Grand Nord. Si votre thème a été dressé par un astrologue uranien, les signes, degrés et aspects de vos planètes sont ceux que je lirais ; les maisons relèvent d’un autre cadre, et je ne mélangerais pas les deux ([Quel système de maisons choisir ?](/astrology/which-house-system-should-i-use/)). Des maisons de deux heures veulent aussi dire que chaque cuspide, à commencer par le Milieu du Ciel, tourne avec l’horloge : l’heure de naissance les décide toutes ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Ce que je respecte dans ce système, c’est sa cohérence : des maisons égales de deux heures, la même règle à toutes les latitudes, aucun cas particulier pour le Grand Nord. Un thème dressé par un astrologue uranien donne à vos planètes les signes, degrés et aspects que je leur donnerais ; ses maisons relèvent d’un autre cadre, et je ne mélangerais pas les deux ([Quel système de maisons choisir ?](/astrology/which-house-system-should-i-use/)). Des maisons de deux heures veulent aussi dire que chaque cuspide, à commencer par le Milieu du Ciel, tourne avec l’horloge : l’heure de naissance les décide toutes ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Idées reçues {#idees-recues}
 
 - **« Les maisons méridiennes ignorent l’ascendant. »** Il garde son signe et ses aspects ; il n’ouvre simplement pas la maison 1.
 - **« Égales en temps, donc égales dans le zodiaque. »** Deux heures sidérales chacune, mais entre 28° et 32° de zodiaque environ.
 - **« Tous les astrologues uraniens les emploient. »** C’est le système le plus répandu de l’école, mais certains praticiens de Hambourg n’emploient aucune maison.
-- **« Comme Placidus, il échoue près des pôles. »** Il n’emploie aucune latitude : il se dessine partout.
+- **« Les maisons méridiennes sont une invention uranienne. »** David Cope, astrologue australien, les a proposées au début du XXe siècle ; l’école uranienne les a adoptées ensuite.

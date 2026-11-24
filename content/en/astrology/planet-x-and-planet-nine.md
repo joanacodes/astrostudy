@@ -59,7 +59,7 @@ Astrology keeps its own list of unobserved planets, worked out for its own reaso
 
 A planet earns its place in a chart by having a position: a degree of the zodiac at the moment of birth, read from tables built on observation ([Ephemeris, and how to read one](/astrology/ephemeris-and-how-to-read-one/)). Planet Nine has possible orbits and rough regions of sky, but no degree to write beside anyone's name. Whatever degree is offered for it comes from a hypothesis, not from the sky, and I don't read it.
 
-If it is found, it will go round the Sun once in thousands of years and stay in one sign for centuries, so everyone alive would share its sign. What set one chart apart from another would be its house and its contacts with the angles, and those depend on the birth time ([What changes without a birth time](/blog/unknown-birth-time/)).
+If it is found, it will go round the Sun once in thousands of years and stay in one sign for centuries, so everyone alive would share its sign. What set one chart apart from another would be its house and its contacts with the angles, both of which need the birth time ([What changes without a birth time](/blog/unknown-birth-time/)).
 
 Until then, Planet X and Planet Nine are astronomy to me, and a fine story about how planets are found. My notebook covered the Sun, Moon, rising sign, each planet, Chiron and Lilith ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)); a planet nobody has seen was never in it ([How I read](/how-i-read/)).
 

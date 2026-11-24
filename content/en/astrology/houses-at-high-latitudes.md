@@ -60,7 +60,7 @@ Who does this touch? The largest towns north of the Arctic Circle are in Russia,
 
 ## In a reading {#in-a-reading}
 
-I use Placidus, and I won't pretend it does what it can't. For a birth north of the Arctic Circle or south of the Antarctic, Placidus can't give every degree a house: a Placidus chart drawn there has either left part of the zodiac without a house or had the system extended, and the houses on this site, all written for Placidus, aren't a guide to it. If that's your chart, ask which system it was drawn in before reading anything into its houses ([which house system should I use?](/astrology/which-house-system-should-i-use/)).
+Placidus is the system I use, and I won't pretend it does what it can't. For a birth north of the Arctic Circle or south of the Antarctic, Placidus can't give every degree a house: a Placidus chart drawn there has either left part of the zodiac without a house or had the system extended, and the houses on this site, all written for Placidus, aren't a guide to it. If that's your chart, ask which system it was drawn in before reading anything into its houses ([which house system should I use?](/astrology/which-house-system-should-i-use/)).
 
 South of the circle, Placidus can always be drawn, however lopsided its houses get: a chart for Stockholm or Reykjavík is unequal, not broken. Near the circles the birth time matters even more than usual, because when a sign rises in half an hour a few minutes move the Ascendant a long way ([What changes without a birth time](/blog/unknown-birth-time/)).
 

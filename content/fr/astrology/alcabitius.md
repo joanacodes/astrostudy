@@ -39,7 +39,7 @@ Trois systèmes de maisons divisent le ciel selon le temps, et ce qui les distin
 
 ## Ce que c’est {#ce-que-c-est}
 
-Alcabitius est un système par quadrants : l’[ascendant](/astrology/ascendant/) ouvre la maison 1 et le [Milieu du Ciel](/astrology/midheaven/) la maison 10. Pour les cuspides intermédiaires, il prend un seul degré, celui qui se lève à la naissance, et demande combien de temps ce degré mettra à monter de l’horizon est jusqu’au méridien. Ce temps est coupé en trois parts égales, et ces tiers fixent les cuspides entre les deux angles.
+Alcabitius laisse les quatre angles à leur place, l’[ascendant](/astrology/ascendant/) en cuspide 1 et le [Milieu du Ciel](/astrology/midheaven/) en cuspide 10, et ne chronomètre que ce qui se trouve entre eux. Pour ces cuspides, il prend un seul degré, celui qui se lève à la naissance, et demande combien de temps ce degré mettra à monter de l’horizon est jusqu’au méridien. Ce temps est coupé en trois parts égales, et ces tiers fixent les cuspides entre les deux angles.
 
 C’est l’ancêtre de [Placidus](/astrology/placidus/), qui divise de la même façon la montée propre de chaque degré, et il a largement pris la place de [Porphyre](/astrology/porphyry/), qui divise le zodiaque plutôt que le temps. Dans l’Europe médiévale, il fut très répandu jusqu’à l’arrivée de [Regiomontanus](/astrology/regiomontanus/).
 
@@ -55,9 +55,9 @@ L’idée est revenue au XXe siècle. Quand Walter Koch a proposé son système 
 
 ## Dans une lecture {#dans-une-lecture}
 
-J’utilise Placidus, et Alcabitius permet de dire facilement pourquoi. Les deux gardent les angles sur les cuspides ; les deux divisent le temps. La différence, c’est que Placidus laisse à chaque degré son propre rythme, et c’est la mesure que je veux pour des maisons bâties sur une heure de naissance ([Quel système de maisons choisir ?](/astrology/which-house-system-should-i-use/)). Alcabitius a choisi un étalon unique et raisonnable, le degré qui se lève, et des générations d’astrologues s’en sont contentées. C’est une réponse cohérente, pas une réponse grossière.
+Alcabitius permet de dire facilement pourquoi j’utilise Placidus. Les deux partagent un principe, les angles sur les cuspides et le temps pour mesure ; là où ils se séparent, c’est que Placidus laisse à chaque degré son propre rythme, et c’est la mesure que je veux pour des maisons bâties sur une heure de naissance ([Quel système de maisons choisir ?](/astrology/which-house-system-should-i-use/)). Alcabitius a choisi un étalon unique et raisonnable, le degré qui se lève, et des générations d’astrologues s’en sont contentées. C’est une réponse cohérente, pas une réponse grossière.
 
-Si vous tombez sur un thème dressé en Alcabitius, un thème médiéval par exemple, lisez ses maisons en le sachant : signes, degrés, aspects et angles sont les mêmes que dans tout système, et seules les cuspides entre les angles diffèrent ([cuspides des maisons](/astrology/house-cusps/)). Et comme son étalon est l’ascendant, le point le plus rapide de tout thème, il demande l’heure de naissance autant que Placidus ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Un thème médiéval dressé en Alcabitius reste lisible aujourd’hui : ses angles sont ceux que donnerait Placidus, et seules les cuspides entre eux demandent un second regard ([cuspides des maisons](/astrology/house-cusps/)). Et comme son étalon est l’ascendant, l’un des points les plus rapides de tout thème, il demande l’heure de naissance autant que Placidus ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Idées reçues {#idees-recues}
 

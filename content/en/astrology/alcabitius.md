@@ -38,7 +38,7 @@ Three house systems divide the sky by time, and what sets them apart is whose ti
 
 ## What it is {#what-it-is}
 
-Alcabitius is a quadrant system: the [Ascendant](/astrology/ascendant/) opens the 1st house and the [Midheaven](/astrology/midheaven/) the 10th. For the cusps in between, it takes a single degree, the one rising at birth, and asks how long that degree will take to climb from the eastern horizon to the meridian. That stretch of time is cut into three equal parts, and the thirds fix the cusps between the two angles.
+Alcabitius leaves the four angles where they are, the [Ascendant](/astrology/ascendant/) on the 1st cusp and the [Midheaven](/astrology/midheaven/) on the 10th, and times only what lies between. For those cusps it takes a single degree, the one rising at birth, and asks how long that degree will take to climb from the eastern horizon to the meridian. That stretch of time is cut into three equal parts, and the thirds fix the cusps between the two angles.
 
 It is the forerunner of [Placidus](/astrology/placidus/), which divides each degree's own climb in the same way, and it largely took the place of [Porphyry](/astrology/porphyry/), which divides the zodiac rather than time. In medieval Europe it was very popular until [Regiomontanus](/astrology/regiomontanus/) arrived.
 
@@ -54,9 +54,9 @@ The idea came back in the 20th century. When Walter Koch put forward his birthpl
 
 ## In a reading {#in-a-reading}
 
-I use Placidus, and Alcabitius makes it easy to say why. Both keep the angles on the cusps; both divide time. The difference is that Placidus lets each degree keep its own pace, and that is the measure I want for houses built from a birth time ([which house system should I use?](/astrology/which-house-system-should-i-use/)). Alcabitius chose a single, sensible yardstick, the rising degree, and generations of astrologers found it good enough. It is a coherent answer, not a crude one.
+Alcabitius makes it easy to say why I use Placidus. The two share a principle, angles on the cusps and time as the measure; where they part is that Placidus lets each degree keep its own pace, and that is the measure I want for houses built from a birth time ([which house system should I use?](/astrology/which-house-system-should-i-use/)). Alcabitius chose a single, sensible yardstick, the rising degree, and generations of astrologers found it good enough. It is a coherent answer, not a crude one.
 
-If you come across a chart drawn in Alcabitius, a medieval one perhaps, read its houses with that in mind: signs, degrees, aspects and angles are as in any system, and only the cusps between the angles differ ([house cusps](/astrology/house-cusps/)). And since its yardstick is the Ascendant, the fastest-moving point in any chart, it needs the birth time as much as Placidus does ([What changes without a birth time](/blog/unknown-birth-time/)).
+A medieval chart drawn in Alcabitius is still legible today: its angles are the ones Placidus would give, and only the cusps between them need a second look ([house cusps](/astrology/house-cusps/)). And since its yardstick is the Ascendant, one of the fastest-moving points in any chart, it needs the birth time as much as Placidus does ([What changes without a birth time](/blog/unknown-birth-time/)).
 
 ## Common myths {#myths}
 

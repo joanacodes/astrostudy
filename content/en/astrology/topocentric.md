@@ -53,7 +53,7 @@ The house systems at the other end of the range ignore the horizon altogether. [
 
 ## In a reading {#in-a-reading}
 
-I use Placidus, and between Placidus and Topocentric the choice rarely changes a reading. A planet more than a degree from a cusp sits in the same house in both. Only a planet within a degree of a cusp can change house, and for that planet I'd want the birth time checked before trusting either system ([house cusps](/astrology/house-cusps/)).
+Between Placidus, the system I use, and Topocentric, the choice rarely changes a reading. A planet more than a degree from a cusp sits in the same house in both. Only a planet within a degree of a cusp can change house, and for that planet I'd want the birth time checked before trusting either system ([house cusps](/astrology/house-cusps/)).
 
 What I keep to is the frame. Every house on this site is written for Placidus, so a reader whose chart was drawn in Placidus reads about the same houses I read ([which house system should I use?](/astrology/which-house-system-should-i-use/)). If your software is set to Topocentric, your signs, degrees and aspects are unchanged, and your houses almost certainly are too; a quick look at the planets nearest the cusps settles it.
 

@@ -38,7 +38,7 @@ The chart wheel measures one direction only, along the zodiac. A parallel measur
 
 ## What it is {#what-it-is}
 
-Every planet has a [declination](/astrology/declination/), its distance north or south of the [celestial equator](/astrology/celestial-equator/), the Earth's equator projected onto the sky. When two planets share a declination on the same side, both 12° north, say, or both 20° south, they are in parallel. Like two towns on the same line of latitude, they lie on the same parallel, however far apart they are round the sky.
+Every planet has a [declination](/astrology/declination/), its distance north or south of the [celestial equator](/astrology/celestial-equator/), the line the Earth's equator would draw across the sky. When two planets share a declination on the same side, both 12° north, say, or both 20° south, they are in parallel. Like two towns on the same line of latitude, they lie on the same parallel, however far apart they are round the sky.
 
 Astrologers who use parallels read them like a [conjunction](/astrology/conjunction/): two functions joined and working together, each keeping its own nature. Not many astrologers do use them. The parallel and its pair, the [contra-parallel](/astrology/contra-parallel/), are the two aspects of declination, and most charts are read without either.
 
@@ -48,7 +48,7 @@ Declination and the zodiac are tied together by the Sun's path. A body sitting e
 
 So for bodies on the ecliptic, a conjunction is always a parallel too, and so is a pair of antiscia. But the planets wander a little above and below the ecliptic, the Moon by about 5°, so a conjunction need not be a parallel, and a parallel can join planets whose signs make no major aspect at all, as Gemini and Cancer don't.
 
-The Sun's own declination never passes about 23°26′. A planet further out, [out of bounds](/astrology/out-of-bounds-planets/), has no partner in the Sun at that moment; only another body near or beyond the same line can share its declination.
+A planet [out of bounds](/astrology/out-of-bounds-planets/), past the Sun's furthest reach of about 23°26′, can't be parallel the Sun at all; its only possible partners are bodies that also stray near or beyond that line.
 
 How close two declinations must be varies from one astrologer to another, as it does for every aspect ([orbs](/astrology/orbs/)). Most chart software lists each planet's declination in a column beside its zodiac position: look for two values that match, with the same direction, both north (+) or both south (−).
 

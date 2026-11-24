@@ -54,7 +54,7 @@ Les systèmes situés à l’autre bout de l’éventail ignorent complètement 
 
 ## Dans une lecture {#dans-une-lecture}
 
-J’utilise Placidus, et entre Placidus et le topocentrique, le choix change rarement une lecture. Une planète à plus d’un degré d’une cuspide est dans la même maison dans les deux. Seule une planète à moins d’un degré d’une cuspide peut changer de maison, et pour elle je voudrais que l’heure de naissance soit vérifiée avant de me fier à l’un ou l’autre système ([cuspides des maisons](/astrology/house-cusps/)).
+Entre Placidus, le système que j’utilise, et le topocentrique, le choix change rarement une lecture. Une planète à plus d’un degré d’une cuspide est dans la même maison dans les deux. Seule une planète à moins d’un degré d’une cuspide peut changer de maison, et pour elle je voudrais que l’heure de naissance soit vérifiée avant de me fier à l’un ou l’autre système ([cuspides des maisons](/astrology/house-cusps/)).
 
 Ce à quoi je tiens, c’est le cadre. Toutes les maisons de ce site sont écrites pour Placidus : une lectrice ou un lecteur dont le thème est dressé en Placidus lit les mêmes maisons que moi ([Quel système de maisons choisir ?](/astrology/which-house-system-should-i-use/)). Si votre logiciel est réglé sur le topocentrique, vos signes, degrés et aspects ne changent pas, et vos maisons très probablement non plus ; un coup d’œil aux planètes les plus proches des cuspides suffit à trancher.
 

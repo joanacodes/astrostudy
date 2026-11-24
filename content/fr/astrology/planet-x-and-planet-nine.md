@@ -40,11 +40,11 @@ Deux fois, des astronomes ont calculé qu’une planète devait exister au-delà
 
 ## Ce que c’est {#ce-que-c-est}
 
-La Planète X était celle de Percival Lowell. Après la découverte de [Neptune](/astrology/neptune/) en 1846, de petits écarts semblaient subsister dans les orbites des planètes géantes, celle d’[Uranus](/astrology/uranus/) surtout. Lowell, riche Bostonien doté de son propre observatoire à Flagstaff, en Arizona, se mit en 1906 à chercher le corps qui, pensait-il, les tirait de leur route. Il l’appela Planète X, X pour inconnue, et publia en 1915 son estimation : environ sept fois la masse de la Terre, à environ 43 fois la distance Terre-Soleil.
+La Planète X était celle de Percival Lowell. Après la découverte de [Neptune](/astrology/neptune/) en 1846, de petits écarts semblaient subsister dans les orbites des planètes géantes, celle d’[Uranus](/astrology/uranus/) surtout. Lowell, riche Bostonien doté de son propre observatoire à Flagstaff, en Arizona, se mit en 1906 à chercher le corps qui, pensait-il, les déviait. Il l’appela Planète X, X pour inconnue, et publia en 1915 son estimation : environ sept fois la masse de la Terre, à environ 43 fois la distance Terre-Soleil.
 
 Lowell mourut en 1916 sans l’avoir trouvée. En février 1930, Clyde Tombaugh, au même observatoire, repéra un faible point mobile sur des plaques prises en janvier, à quelque six degrés de l’un des endroits indiqués par Lowell. On le baptisa [Pluton](/astrology/pluto/), dont les deux premières lettres sont les initiales de Lowell. Mais la masse de Pluton était bien trop faible pour déranger Uranus : une fois Charon, sa lune, découverte en 1978, cette masse put être mesurée, environ un cinq-centième de celle de la Terre. Au début des années 1990, E. Myles Standish refit les calculs avec la masse de Neptune mesurée par Voyager 2 en 1989, et les écarts disparurent, avec le besoin d’une Planète X.
 
-La Planète Neuf repose sur d’autres indices. Loin au-delà de Neptune, de petits corps glacés parcourent des orbites longues et étirées, dont [Sedna](/astrology/sedna/). En janvier 2016, Konstantin Batygin et Michael Brown, du California Institute of Technology, ont montré que six des plus lointains passent au plus près du Soleil à peu près du même côté et inclinent leurs orbites de la même façon. Une planète de cinq à dix masses terrestres, sur une orbite large et allongée, pourrait les rassembler ainsi. Depuis le reclassement de Pluton en 2006, elle serait la neuvième.
+La Planète Neuf repose sur d’autres indices. Loin au-delà de Neptune, de petits corps glacés parcourent des orbites longues et étirées, dont [Sedna](/astrology/sedna/). En janvier 2016, Konstantin Batygin et Michael Brown, du California Institute of Technology, ont montré que six des plus lointains passent au plus près du Soleil à peu près du même côté et inclinent leurs orbites de la même façon. Une planète de cinq à dix masses terrestres, sur une orbite large et allongée, pourrait les rassembler ainsi. Depuis le reclassement de Pluton en 2006, une telle planète serait la neuvième.
 
 ## Comment ça marche {#comment-ca-marche}
 
@@ -60,9 +60,9 @@ L’astrologie a sa propre liste de planètes jamais observées : [Perséphone 
 
 Une planète gagne sa place dans un thème en ayant une position : un degré du zodiaque au moment de la naissance, lu dans des tables fondées sur l’observation ([Éphémérides, et comment les lire](/astrology/ephemeris-and-how-to-read-one/)). La Planète Neuf a des orbites possibles et de vagues régions du ciel, mais aucun degré à inscrire à côté d’un nom. Le degré qu’on lui prête vient d’une hypothèse, pas du ciel, et je ne le lis pas.
 
-Si on la trouve, elle fera le tour du Soleil en des milliers d’années et restera des siècles dans un même signe : tout le monde partagerait son signe. Ce qui distinguerait un thème d’un autre serait sa maison et ses contacts avec les angles, qui dépendent de l’heure de naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Si on la trouve, elle fera le tour du Soleil en des milliers d’années et restera des siècles dans un même signe : tout le monde partagerait son signe. Ce qui distinguerait un thème d’un autre serait sa maison et ses contacts avec les angles, qui demandent tous deux l’heure de naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-D’ici là, la Planète X et la Planète Neuf restent pour moi de l’astronomie, et une belle histoire de découverte. Mon carnet couvrait le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)) ; une planète que personne n’a vue n’y figurait pas ([Ma méthode](/how-i-read/)).
+D’ici là, la Planète X et la Planète Neuf restent pour moi de l’astronomie, et une belle histoire. Mon carnet couvrait le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)) ; une planète que personne n’a vue n’y figurait pas ([Ma méthode](/how-i-read/)).
 
 ## Idées reçues {#idees-recues}
 

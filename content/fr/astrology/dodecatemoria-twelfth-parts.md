@@ -48,7 +48,7 @@ Manilius, dont l’*Astronomica* expose le calcul, va plus loin et coupe chaque 
 
 ## Comment ça marche {#comment-ca-marche}
 
-La méthode est plus ancienne que l’astrologie grecque. Des tablettes cunéiformes babyloniennes, peut-être de l’époque perse, entre 539 et 331 avant notre ère, multiplient déjà par douze pour trouver le douzième d’un degré. Leur version diffère un peu : elle ajoute douze fois le degré au degré lui-même, et non au début du signe, si bien que le point avance treize fois plus vite que la planète. Les astrologues grecs ont repris l’idée, et les auteurs latins Manilius et [Firmicus Maternus](/astrology/firmicus-maternus/) décrivent tous deux le calcul ; il est entré dans l’[astrologie hellénistique](/astrology/hellenistic-astrology/).
+Le procédé précède l’astrologie grecque. Des tablettes cunéiformes babyloniennes, peut-être de l’époque perse, entre 539 et 331 avant notre ère, multiplient déjà par douze pour trouver le douzième d’un degré. Leur version diffère un peu : elle ajoute douze fois le degré au degré lui-même, et non au début du signe, si bien que le point avance treize fois plus vite que la planète. Les astrologues grecs ont repris l’idée, et les auteurs latins Manilius et [Firmicus Maternus](/astrology/firmicus-maternus/) décrivent tous deux le calcul ; il est entré dans l’[astrologie hellénistique](/astrology/hellenistic-astrology/).
 
 Pourquoi multiplier par douze ? Selon une hypothèse, cela donnait à l’astrologue une seconde position pour chaque planète, et donc deux fois plus à interpréter. Selon une autre, cela imite la Lune, qui parcourt les douze signes à peu près dans le temps que le Soleil met à en traverser un ; les chiffres babyloniens correspondent à une Lune imaginaire avançant de 13° par jour.
 

@@ -49,15 +49,15 @@ Pour des astres posés exactement sur la route du Soleil, un contre-parallèle a
 
 Un contre-parallèle peut donc relier des planètes dont les signes ne sont pas du tout opposés : le Taureau et le Verseau sont en carré. Et comme les planètes s’écartent un peu au-dessus et au-dessous de l’écliptique, une opposition dans le zodiaque n’est pas toujours un contre-parallèle dans le ciel.
 
-La limite que fixe le Soleil compte ici autant que pour le parallèle. La déclinaison du Soleil ne dépasse jamais 23°26′ environ : une planète [hors limites](/astrology/out-of-bounds-planets/), au-delà de cette ligne, ne peut pas être en contre-parallèle avec lui ; seul un autre astre proche de la ligne ou au-delà, de l’autre côté de l’équateur, peut lui répondre.
+Le Soleil ne peut rien pour une planète [hors limites](/astrology/out-of-bounds-planets/). Sa déclinaison ne dépasse jamais 23°26′ environ : une planète au-delà de cette ligne ne trouve pas son reflet dans le Soleil, seulement dans un autre astre aussi éloigné, de l’autre côté de l’équateur.
 
-Pour en trouver un, lisez la colonne des déclinaisons : deux valeurs égales de signe contraire, l’une + et l’autre −. La [Lune](/astrology/moon/) va le plus vite et dépasse largement, certaines années, la limite du Soleil : un contre-parallèle avec la Lune peut ne tenir qu’une partie de la journée, et c’est l’heure de naissance qui tranche ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Pour en trouver un, lisez la colonne des déclinaisons : deux valeurs égales de signe contraire, l’une + et l’autre −. La [Lune](/astrology/moon/) est l’astre qui demande le plus l’heure de naissance ici. Les années de ses plus grands écarts, elle passe d’environ 28° d’un côté de l’équateur à 28° de l’autre en une quinzaine de jours : un contre-parallèle avec elle se forme et se défait en moins d’une journée ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Dans une lecture {#dans-une-lecture}
 
 Je lis un contre-parallèle comme je lis une opposition, en termes de polarité : deux fonctions qui ont besoin l’une de l’autre pour se voir clairement, qui tirent dans des directions différentes et demandent un équilibre. Il décrit une tension avec laquelle on peut travailler, pas un conflit à gagner, et jamais un verdict. La Lune en contre-parallèle avec Mars, par exemple, opposerait le besoin de sécurité affective à l’élan d’agir et de s’affirmer, tous deux réels, tous deux en quête de place.
 
-Il reste pour moi une couche secondaire. Les aspects de la roue passent d’abord ; un contre-parallèle s’y ajoute, ou nomme une polarité que la roue ne montre pas. La déclinaison n’a jamais fait partie de ce que mon carnet mesurait : aucun résultat de mes tests ne l’accompagne, et je le précise chaque fois que j’en mentionne un ([Ma méthode](/how-i-read/)).
+Il reste pour moi une couche secondaire. Les aspects de la roue passent d’abord ; un contre-parallèle s’y ajoute, ou nomme une polarité que la roue ne montre pas. Je le tiens aussi légèrement que son pendant, le parallèle, et pour la même raison : rien dans mes propres tests n’a mesuré la déclinaison ([Ma méthode](/how-i-read/)).
 
 ## Idées reçues {#idees-recues}
 

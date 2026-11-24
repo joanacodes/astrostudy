@@ -39,7 +39,7 @@ La roue du thème ne mesure qu’une direction, le long du zodiaque. Le parallè
 
 ## Ce que c’est {#ce-que-c-est}
 
-Chaque planète a une [déclinaison](/astrology/declination/), sa distance au nord ou au sud de l’[équateur céleste](/astrology/celestial-equator/), l’équateur terrestre projeté sur le ciel. Quand deux planètes partagent une déclinaison du même côté, toutes deux à 12° nord, par exemple, ou toutes deux à 20° sud, elles sont en parallèle. Comme deux villes sur la même latitude, elles se trouvent sur le même parallèle, si éloignées soient-elles sur le tour du ciel.
+Chaque planète a une [déclinaison](/astrology/declination/), sa distance au nord ou au sud de l’[équateur céleste](/astrology/celestial-equator/), la ligne que l’équateur terrestre tracerait sur le ciel. Quand deux planètes partagent une déclinaison du même côté, toutes deux à 12° nord, par exemple, ou toutes deux à 20° sud, elles sont en parallèle. Comme deux villes sur la même latitude, elles se trouvent sur le même parallèle, si éloignées soient-elles sur le tour du ciel.
 
 Les astrologues qui emploient les parallèles les lisent comme une [conjonction](/astrology/conjunction/) : deux fonctions unies, qui travaillent ensemble en gardant chacune leur nature. Ils ne sont pas nombreux. Le parallèle et son pendant, le [contre-parallèle](/astrology/contra-parallel/), sont les deux aspects de la déclinaison, et la plupart des thèmes se lisent sans l’un ni l’autre.
 
@@ -49,7 +49,7 @@ Déclinaison et zodiaque sont liés par la route du Soleil. Un astre posé exact
 
 Pour des astres situés sur l’écliptique, une conjonction est donc toujours aussi un parallèle, et une paire d’antisces aussi. Mais les planètes s’écartent un peu au-dessus et au-dessous de l’écliptique, la Lune d’environ 5° : une conjonction n’est pas forcément un parallèle, et un parallèle peut relier des planètes dont les signes ne forment aucun aspect majeur, comme les Gémeaux et le Cancer.
 
-La déclinaison du Soleil ne dépasse jamais 23°26′ environ. Une planète plus loin, [hors limites](/astrology/out-of-bounds-planets/), n’a pas le Soleil pour partenaire à ce moment-là ; seul un autre astre proche de la même ligne, ou au-delà, peut partager sa déclinaison.
+Une planète [hors limites](/astrology/out-of-bounds-planets/), au-delà de la portée maximale du Soleil, environ 23°26′, ne peut pas du tout être parallèle au Soleil ; ses seuls partenaires possibles sont des astres qui s’aventurent eux aussi près de cette ligne ou au-delà.
 
 L’écart permis entre deux déclinaisons varie d’un astrologue à l’autre, comme pour tout aspect ([Orbes](/astrology/orbs/)). La plupart des logiciels donnent la déclinaison de chaque planète dans une colonne à côté de sa position zodiacale : cherchez deux valeurs égales et de même direction, toutes deux au nord (+) ou toutes deux au sud (−).
 
@@ -57,7 +57,7 @@ La [Lune](/astrology/moon/) change de déclinaison plus vite que tout autre astr
 
 ## Dans une lecture {#dans-une-lecture}
 
-Un parallèle ne change jamais le signe, la maison ou les aspects d’une planète ; il ajoute un fil. Quand j’en trouve un, je lis les deux planètes comme une paire, comme je les lirais en conjonction, mais d’une main plus légère : les aspects de la roue passent d’abord, et le parallèle les confirme ou les complète. Quand il relie deux planètes que la roue laisse à l’écart l’une de l’autre, Vénus et Saturne sans aspect par exemple, il peut être le détail qui explique pourquoi elles agissent d’un seul tenant dans une vie.
+Un parallèle ne change jamais le signe, la maison ou les aspects d’une planète ; il ajoute un fil. Quand j’en trouve un, je lis les deux planètes comme une paire, comme je les lirais en conjonction, mais d’une main plus légère : les aspects de la roue passent d’abord, et le parallèle les confirme ou les complète. Quand il relie deux planètes que la roue laisse à l’écart l’une de l’autre, Vénus et Saturne sans aspect par exemple, le parallèle peut être le détail qui explique pourquoi elles agissent d’un seul tenant dans une vie.
 
 Aucun chiffre de mes tests ne le soutient. Mon carnet cochait les planètes par signe et par maison et n’a jamais regardé la déclinaison : quand je mentionne un parallèle, je précise qu’il repose sur une mesure que je n’ai pas testée ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)). C’est ainsi que je traite tout ce qui sort des placements vérifiés ([Ma méthode](/how-i-read/)).
 

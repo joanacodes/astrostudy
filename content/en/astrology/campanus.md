@@ -37,9 +37,9 @@ Campanus divides the sky as it looks from the birthplace: the dome overhead cut 
 
 ## What it is {#what-it-is}
 
-Campanus is a quadrant system, so the [Ascendant](/astrology/ascendant/) and the [Midheaven](/astrology/midheaven/) are the cusps of the 1st and 10th houses. The circle it divides is the prime vertical: the great circle that rises from the east point of the horizon, passes through the zenith and comes down at the west point. It is cut into twelve equal arcs of 30°, and each dividing point is joined to the north and south points of the horizon by a great circle. Where that circle crosses the zodiac is a cusp.
+The circle Campanus divides is the prime vertical: the great circle that rises from the east point of the horizon, passes through the zenith and comes down at the west point. Twelve equal arcs of 30° are marked along it. Then a second set of great circles comes in, all meeting at the north and south points of the horizon, one through each mark, and the zodiac crosses each of them at a cusp.
 
-The result is twelve equal segments of the sky, meeting at the north and south points like the segments of an orange held with its stalk pointing north, six above the horizon and six below. The circle for the 11th cusp crosses the prime vertical 60° above the eastern horizon, the one for the 12th 30° above it. Where the prime vertical itself crosses the zodiac, astrologers who use it place another point, the [Vertex](/astrology/vertex/).
+The result is twelve equal segments of the sky, meeting at the north and south points like the segments of an orange held with its stalk pointing north, six above the horizon and six below. The dividing circle through the zenith is the meridian, so the [Midheaven](/astrology/midheaven/) opens the 10th house; the one through the east point is the horizon itself, so the [Ascendant](/astrology/ascendant/) opens the 1st, as in every quadrant system. The circle for the 11th cusp crosses the prime vertical 60° above the eastern horizon, the one for the 12th 30° above it. Where the prime vertical itself crosses the zodiac, astrologers who use it place another point, the [Vertex](/astrology/vertex/).
 
 Only the slices are equal, not the houses. The zodiac runs across the segments at a slant that changes through the day, so the stretch of zodiac caught in each varies, and away from the equator Campanus houses can be very unequal, with signs swallowed inside a house as in other quadrant systems ([intercepted signs](/astrology/intercepted-signs/)).
 
@@ -53,12 +53,12 @@ Its nearest relative is [Regiomontanus](/astrology/regiomontanus/), which uses t
 
 ## In a reading {#in-a-reading}
 
-I use Placidus. Campanus and Placidus give the same Ascendant and Midheaven and differ on the cusps between them: Campanus cuts the visible dome into equal slices, Placidus cuts each degree's climb into equal thirds of time. The first describes where things stand in the sky above the birthplace; the second, how far through its daily journey each degree has come. A birth time marks a point in that journey, which is why I chose the second, and every house on this site is written for it ([which house system should I use?](/astrology/which-house-system-should-i-use/)).
+Campanus and Placidus, the system I use, give the same Ascendant and Midheaven and differ on the cusps between them: Campanus cuts the visible dome into equal slices, Placidus cuts each degree's climb into equal thirds of time. The first describes where things stand in the sky above the birthplace; the second, how far along its daily climb each degree has come. A birth time marks a moment in that turning, which is why I chose the second, and every house on this site is written for it ([which house system should I use?](/astrology/which-house-system-should-i-use/)).
 
-If your chart uses Campanus, your planets' signs, degrees and aspects are unchanged. A planet close to an intermediate cusp may sit in a different house, so look at those first before comparing readings ([house cusps](/astrology/house-cusps/)). The segments are hinged on the horizon and the zenith of one place at one moment, which is exactly what the birth time and place define ([What changes without a birth time](/blog/unknown-birth-time/)).
+Because the two agree at the four angles, the planets worth checking in a Campanus chart are those near the 2nd, 3rd, 11th and 12th cusps and the cusps opposite them; sign, degree and aspect read the same in both ([house cusps](/astrology/house-cusps/)). The segments are hinged on the horizon and the zenith of one place at one moment, which is exactly what the birth time and place define ([What changes without a birth time](/blog/unknown-birth-time/)).
 
 ## Common myths {#myths}
 
-- **“Campanus invented the Campanus system.”** It is attributed to him, but the method was described before his time, with evidence in al-Bīrūnī.
+- **“It's a medieval European invention.”** It carries the name of a 13th-century Italian, but John North found the method in al-Bīrūnī, in the Islamic East, before Campanus's time.
 - **“Campanus houses are equal.”** The slices of sky are equal; the stretches of zodiac they hold are not.
 - **“Campanus and Regiomontanus are the same.”** They share the angles and the way of projecting; they divide different circles, so their intermediate cusps differ.

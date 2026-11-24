@@ -48,15 +48,15 @@ For bodies sitting exactly on the Sun's path, a contra-parallel turns up in two 
 
 So a contra-parallel can link planets whose signs are not opposite at all: Taurus and Aquarius are square to each other. And because the planets wander a little above and below the ecliptic, an opposition in the zodiac isn't always a contra-parallel in the sky.
 
-The limit the Sun sets matters here as much as for the parallel. The Sun's declination never passes about 23°26′, so a planet [out of bounds](/astrology/out-of-bounds-planets/), beyond that line, can't be contra-parallel the Sun; only another body near or past the line, on the other side of the equator, can partner it.
+The Sun can't help a planet [out of bounds](/astrology/out-of-bounds-planets/). Its declination never passes about 23°26′, so a planet beyond that line finds no mirror in the Sun, only in another body as far out on the other side of the equator.
 
-To find one, read the declination column: two equal values with opposite signs, one + and one −. The [Moon](/astrology/moon/) moves fastest and, in some years, reaches well beyond the Sun's limit, so a contra-parallel to the Moon may hold for only part of a day, and the birth time settles it ([What changes without a birth time](/blog/unknown-birth-time/)).
+To find one, read the declination column: two equal values with opposite signs, one + and one −. The [Moon](/astrology/moon/) is the body most likely to need the birth time here. In the years of its widest swings it travels from about 28° on one side of the equator to 28° on the other in a fortnight, so a contra-parallel to it comes and goes within a day ([What changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In a reading {#in-a-reading}
 
 I read a contra-parallel the way I read an opposition, as polarity: two functions that need each other to be seen clearly, pulling in different directions and asking for a balance between them. It describes a tension that can be worked with, not a conflict to be won, and never a verdict. The Moon contra-parallel Mars, for example, would set the need for emotional security against the drive to act and assert, both real, both asking for room.
 
-It stays a second layer for me. The aspects on the wheel come first; a contra-parallel adds to them, or names a polarity the wheel misses. Declination was never part of what my notebook measured, so there's no result of mine to set beside it, and I make that clear whenever I mention one ([How I read](/how-i-read/)).
+It stays a second layer for me. The aspects on the wheel come first; a contra-parallel adds to them, or names a polarity the wheel misses. I hold it as lightly as its partner, the parallel, and for the same reason: none of my own testing measured declination ([How I read](/how-i-read/)).
 
 ## Common myths {#myths}
 
