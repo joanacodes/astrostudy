@@ -5,6 +5,8 @@ description: "Saros cycles in astrology: the 18-year eclipse cycle of 223 lunati
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "moon"
+categories: ["The Moon"]
+tags: ["eclipses"]
 weight: 31
 glyph: "✦"
 definition: "The saros is an eclipse cycle of 223 lunations, about 18 years and 11 days. After it, the Sun, the Moon and the nodes stand in nearly the same arrangement, and a similar eclipse returns about ten degrees further on in the zodiac. Eclipses linked this way form a saros series. I read it as astronomy, never as fate."

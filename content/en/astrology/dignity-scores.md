@@ -5,6 +5,8 @@ description: "Dignity scores in astrology: how Lilly’s points for the five ess
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "dignities"
+categories: ["Planets and points"]
+tags: ["dignities"]
 weight: 11
 glyph: "✦"
 definition: "A dignity score adds up the points a planet earns for the essential dignities it holds at its degree: in William Lilly’s scheme, 5 for its own sign, 4 for exaltation, 3 for triplicity, 2 for a term, 1 for a face. It measures fit with a sign, not strength in a life, so I read the parts."

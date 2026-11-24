@@ -5,6 +5,8 @@ description: "Sect condition in astrology: how each planet fares with its chart�
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "dignities"
+categories: ["Planets and points"]
+tags: ["sect", "dignities"]
 weight: 36
 glyph: "✦"
 definition: "Sect condition is how a planet stands with the sect of its chart: whether it belongs to the chart’s day or night side and, in the medieval refinement, whether its sign and its side of the horizon agree too. Passing all three tests is hayz. I read it as how far a function runs with the chart’s grain."

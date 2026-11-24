@@ -1,7 +1,7 @@
 ---
 title: "Moon conjunct Fomalhaut"
 h1: "Moon conjunct Fomalhaut in a birth chart"
-description: "Moon conjunct Fomalhaut in a birth chart: the Moon in early Pisces on the Southern Fish’s star, for a few hours each month. Why the birth time decides it."
+description: "Moon conjunct Fomalhaut in a birth chart: a few hours each month when the Moon crosses Fomalhaut’s degree in early Pisces. Why only the birth time can tell."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Moon", "Fomalhaut", "fixed stars"]
 weight: 2581
 glyph: "☽☌★"
-definition: "Moon conjunct Fomalhaut is the Moon within 1° of the zodiac degree of Fomalhaut, the star in the Southern Fish’s mouth, early in Pisces. The Moon spends three or four hours a month there, so only the birth time settles it. Tradition brings a myth and a royal title to your needs; the star stays out of my readings."
+definition: "Moon conjunct Fomalhaut is a birth with the Moon in early Pisces, within 1° of Fomalhaut’s zodiac degree, the Southern Fish’s star. The Moon spends three or four hours a month there, so only the birth time settles it. Tradition brings a myth and a royal title to your needs; the star stays out of my readings."
 facts:
   - { k: "Planet", v: "The Moon ☽" }
   - { k: "Star", v: "Fomalhaut, α Piscis Austrini: 3°51′ Pisces in 2000, 4°13′ Pisces in 2026" }
@@ -35,7 +35,7 @@ Moon conjunct Fomalhaut needs a clock as much as a calendar. The Moon passes the
 
 ## What it means {#what-it-means}
 
-I read the [Moon](/astrology/moon/) as regulation: what you need in order to feel safe, the habits that settle you, the people and places you lean on when things shake. [Fomalhaut](/astrology/fomalhaut/) arrives with a picture and a title rather than a planetary nature. The title is the royal one astrology books give it, on thin evidence. The picture is Greek: a great fish swallowing the water that Aquarius pours out of his jar. Set beside the Moon, it becomes an image of taking in whatever flows your way, and a reading that used stars would lean on it. I keep it as an image and nothing more, since stars were never among the placements I tested.
+The [Moon](/astrology/moon/), for me, is about regulation: what keeps you feeling safe, the habits that settle you, the people and places you lean on when things shake. [Fomalhaut](/astrology/fomalhaut/) arrives with a picture and a title rather than a planetary nature. The title is the royal one astrology books give it, on thin evidence. The picture is Greek: a great fish swallowing the water that Aquarius pours out of his jar. Set beside the Moon, it becomes an image of taking in whatever flows your way, and a reading that used stars would lean on it. I keep it as an image and nothing more, since stars were never among the placements I tested.
 
 What does describe you is the sign. For births from 1930 to 2009 the window ran from about 2° to 5° Pisces, so the Moon on Fomalhaut is always a [Moon in Pisces](/astrology/moon-in-pisces/), in the sign's first degrees, where needs tend to be met through imagination and fellow feeling.
 
@@ -47,4 +47,4 @@ The phase ties some passes to a season. A full Moon on Fomalhaut needs the Sun o
 
 About 1 person in 184 born between 1930 and 2009 has the Moon within a degree of the star, as near the average for a one-degree window as makes no difference. Of the five contacts this star receives, the Moon's is the only one any birthday can carry: the [Sun conjunct Fomalhaut](/astrology/sun-conjunct-fomalhaut/) is tied to late February, [Venus conjunct Fomalhaut](/astrology/venus-conjunct-fomalhaut/) to winter and early spring, [Mars conjunct Fomalhaut](/astrology/mars-conjunct-fomalhaut/) to particular years, and [Saturn conjunct Fomalhaut](/astrology/saturn-conjunct-fomalhaut/) to a few seasons in three decades.
 
-Stars have no place in the system I built for my readings, so Fomalhaut stays on this page and out of them; the Moon's sign, house and aspects are what I'd read. The rule that astrologers who do use stars follow is in [conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/).
+Stars have no place in the system I built for my readings, so Fomalhaut stays on this page and out of them; the Moon's sign, house and aspects are what I'd read. The rule followed by astrologers who do use stars has its own page, [conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/).

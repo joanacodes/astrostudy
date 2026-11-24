@@ -19,9 +19,9 @@ facts:
   - { k: "Naissances", v: "Vers les 16 et 17 octobre, en 1930 comme en 1970 ou en 2009" }
 related: ["/astrology/spica", "/astrology/sun", "/astrology/conjunctions-to-fixed-stars", "/astrology/sun-in-libra", "/astrology/heliacal-rising"]
 faq:
-  - q: "Que veut dire Soleil conjonction Spica ?"
-    a: "Un anniversaire de la mi-octobre place votre Soleil à la fin de la Balance, sur le degré de Spica, à moins d’un degré de l’étoile. Spica est l’épi de blé dans la main de la Vierge, et ses vieux noms parlent de grain et de récolte. L’image est douce ; ce que je lirais, c’est le Soleil en Balance, avec sa maison et ses aspects."
-  - q: "Quelle date de naissance donne Soleil conjonction Spica ?"
+  - q: "Que veut dire Soleil conjonction Spica ?"
+    a: "Un anniversaire de la mi-octobre place votre Soleil à la fin de la Balance, sur le degré de Spica. Spica est l’épi de blé dans la main de la Vierge, et ses vieux noms parlent de grain et de récolte. L’image est douce ; ce que je lirais, c’est le Soleil en Balance, avec sa maison et ses aspects."
+  - q: "Quelle date de naissance donne Soleil conjonction Spica ?"
     a: "Le 16 ou le 17 octobre, chaque année de 1930 à 2009. Une naissance du 15 ou du 18 peut tout juste atteindre la fenêtre d’un degré certaines années, et seule l’heure de naissance tranche ces cas-là."
   - q: "Le Soleil est-il proche de Spica dans le ciel ?"
     a: "Oui, ce qui est rare pour un contact d’étoile. Spica se trouve à environ 2° au sud de la route du Soleil : chaque octobre, le Soleil passe un peu plus de deux degrés au nord d’elle. L’étoile se perd alors dans le jour, et reparaît avant l’aube environ deux semaines plus tard."

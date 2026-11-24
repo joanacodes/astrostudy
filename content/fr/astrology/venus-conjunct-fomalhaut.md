@@ -19,12 +19,12 @@ facts:
   - { k: "Naissances", v: "Entre le 6 janvier et le 10 avril environ ; Vénus a franchi ce degré une fois par an, jamais rétrograde" }
 related: ["/astrology/fomalhaut", "/astrology/venus", "/astrology/conjunctions-to-fixed-stars", "/astrology/venus-in-pisces", "/astrology/exaltation"]
 faq:
-  - q: "Que veut dire Vénus conjonction Fomalhaut ?"
-    a: "Votre Vénus se trouve dans les premiers degrés des Poissons, sur le degré zodiacal de Fomalhaut. Vénus décrit ce à quoi vous accordez de la valeur et la manière dont l’affection circule ; l’étoile y ajoute un titre royal et un récit syrien, celui d’un poisson qui sauva la fille d’Aphrodite. Je garde l’étoile comme légende et je lis Vénus en Poissons."
-  - q: "Vénus est-elle exaltée quand elle est conjointe à Fomalhaut ?"
-    a: "Oui, dans les termes de la tradition. Fomalhaut se trouve dans les premiers degrés des Poissons, le signe où Vénus est dite exaltée : toute Vénus posée sur cette étoile est une Vénus en Poissons. L’exaltation est le vieux mot pour un signe où une planète est particulièrement honorée ; ici, elle décrit une aisance et ne promet rien."
-  - q: "Quelles dates de naissance peuvent donner Vénus conjonction Fomalhaut ?"
-    a: "Seulement les naissances du 6 janvier au 10 avril environ. Vénus n’est jamais à plus de 47° environ du Soleil : elle ne peut se tenir au début des Poissons que lorsque le Soleil se trouve entre le milieu du Capricorne et le milieu du Bélier, et dans cet intervalle, la date change d’une année à l’autre."
+  - q: "Que veut dire Vénus conjonction Fomalhaut ?"
+    a: "Votre Vénus se trouve dans les premiers degrés des Poissons, sur le degré de Fomalhaut. Vénus décrit ce à quoi vous accordez de la valeur et la manière dont l’affection circule ; l’étoile y ajoute un titre royal et le récit syrien d’un poisson qui sauva la fille d’Aphrodite. Je garde l’étoile comme légende et je lis Vénus en Poissons."
+  - q: "Vénus est-elle exaltée quand elle est conjointe à Fomalhaut ?"
+    a: "Oui, dans les termes de la tradition. Fomalhaut se trouve dans les premiers degrés des Poissons, le signe où Vénus est dite exaltée : toute Vénus posée sur cette étoile est une Vénus en Poissons. L’exaltation est le vieux mot pour un signe où une planète est particulièrement honorée ; ici, elle décrit une aisance et ne promet rien."
+  - q: "Quelles dates de naissance peuvent donner Vénus conjonction Fomalhaut ?"
+    a: "Seulement les naissances du 6 janvier au 10 avril environ. Vénus n’est jamais à plus de 47° environ du Soleil : elle ne peut se tenir au début des Poissons que lorsque le Soleil se trouve entre le milieu du Capricorne et le milieu du Bélier, et dans cet intervalle, la date change d’une année à l’autre."
   - q: "Vénus conjonction Fomalhaut, est-ce rare ?"
     a: "Environ 1 personne sur 216 née entre 1930 et 2009, moins que la moyenne de 1 sur 180 que donne une fenêtre d’un degré. En ces quatre-vingts ans, Vénus n’est jamais devenue rétrograde sur ce degré : elle n’est donc jamais revenue en arrière pour le franchir une seconde fois."
 sources:

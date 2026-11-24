@@ -1,7 +1,7 @@
 ---
 title: "Mars conjunct Algol"
 h1: "Mars conjunct Algol in a birth chart"
-description: "Mars conjunct Algol in a birth chart: Mars in late Taurus on the Demon Star’s degree. Why its grim tradition is no forecast, the loop of 1958–59, its odds."
+description: "Mars conjunct Algol in a birth chart: Mars in the last degrees of Taurus, sharing the Demon Star’s degree. A grim tradition, no forecast; the loop of 1958–59."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Mars", "Algol", "fixed stars"]
 weight: 2588
 glyph: "♂☌★"
-definition: "Mars conjunct Algol is Mars within 1° of the zodiac degree of Algol, late in Taurus. The tradition called Mars a malefic and Algol one of the unluckiest stars; none of that forecasts anything. About 1 person in 207 has the contact, which Mars makes for a few days every two years or so."
+definition: "Mars conjunct Algol is a birth with Mars in late Taurus, within 1° of the zodiac degree of Algol. The tradition called Mars a malefic and Algol one of the unluckiest stars; none of that forecasts anything. About 1 person in 207 has the contact, which Mars makes for a few days every two years or so."
 facts:
   - { k: "Planet", v: "Mars ♂" }
   - { k: "Star", v: "Algol, β Persei: 26°09′ Taurus in 2000, 26°31′ Taurus in 2026" }
@@ -31,17 +31,17 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book IV, trans. F. E. Robbins (Loeb Classical Library, 1940), and R. H. Allen, Star Names: Their Lore and Meaning (1899), via Wikipedia, “Algol”", url: "https://en.wikipedia.org/wiki/Algol", note: "the Gorgon of Perseus and the star’s unlucky reputation" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mars’s signs, and so its detriment in Taurus" }
 ---
-Mars conjunct Algol is the contact where astrology's old vocabulary turns darkest: the tradition called Mars a malefic and counted Algol among the unluckiest stars. Without that vocabulary it is Mars in the last degrees of Taurus, on the zodiac degree of a star that stays more than 20° away from it in the sky.
+Mars conjunct Algol is the contact where astrology's old vocabulary turns darkest: the tradition called Mars a malefic and counted Algol among the unluckiest stars. Without that vocabulary it is Mars near the end of Taurus, on the zodiac degree of a star that stays more than 20° away from it in the sky.
 
 ## What it means {#what-it-means}
 
-I read [Mars](/astrology/mars/) as your capacity to act: to start, to push, to protect what matters to you and to say no. Assertion isn't aggression and courage isn't recklessness, and those two distinctions do most of the work on this page. [Algol](/astrology/algol/) is the star of the Gorgon's head in Perseus, named in Arabic after a ghoul, and it has the grimmest reputation in the astrology of fixed stars.
+[Mars](/astrology/mars/) is, to my mind, your capacity to act: to start, to push, to protect what matters to you and to say no. Assertion isn't aggression and courage isn't recklessness, and those two distinctions do most of the work on this page. [Algol](/astrology/algol/) is the star of the Gorgon's head in Perseus, named in Arabic after a ghoul, and it has the grimmest reputation in the astrology of fixed stars.
 
 Laid side by side, the two words explain why this contact frightens people who find it in a list of star meanings. Here is what it is not. The tradition's words were labels for whole classes of things, a malefic planet, an unlucky star, and never a description of a person. An old label does nothing to the person it is pinned on, and the length of a life is not something any chart can show ([Can astrology predict death?](/astrology/can-astrology-predict-death/)).
 
-What the contact does describe is Mars in Taurus. Algol stood at 25°11′ Taurus in 1930 and 26°09′ in 2000, so this is always a [Mars in Taurus](/astrology/mars-in-taurus/): drive at the pace of fixed earth, slow to start, steady once moving and very hard to turn aside. The tradition puts Mars in [detriment](/astrology/detriment/) there, opposite Scorpio, its traditional sign (Pluto rules Scorpio in modern tropical astrology, and I read both), which means the planet works against the grain of the sign, not that it works badly.
+What the contact does describe is Mars in Taurus. The star's degree moved from 25°11′ to 26°09′ Taurus between 1930 and 2000, so this is always a [Mars in Taurus](/astrology/mars-in-taurus/): drive at the pace of fixed earth, slow to start, steady once moving and very hard to turn aside. The tradition puts Mars in [detriment](/astrology/detriment/) there, opposite Scorpio, its traditional sign (Pluto rules Scorpio in modern tropical astrology, and I read both), which means the planet works against the grain of the sign, not that it works badly.
 
-Mars usually crossed this degree in about three days, roughly once every two years: 45 passes between 1930 and 2009. Once it stayed longer. In 1958 Mars crossed going forward on 8 September, came back over the degree on 12 November while retrograde, four days before it stood opposite the Sun at its brightest of that year, and crossed forward again on 31 January 1959 ([Mars retrograde in Taurus](/astrology/mars-retrograde-in-taurus/), [natal retrograde planets](/blog/retrograde-planets/)). In the winter of 1990–91 another retrograde loop brought it back towards the star, and it turned direct on 2 January 1991, less than two degrees short.
+Mars usually crossed this degree in about three days, roughly once every two years: 45 passes between 1930 and 2009. Once it stayed longer. In 1958 Mars crossed going forward on 8 September, came back over the degree on 12 November while retrograde, four days before it stood opposite the Sun at its brightest of that year, and crossed forward again on 31 January 1959 ([Mars retrograde in Taurus](/astrology/mars-retrograde-in-taurus/), [natal retrograde planets](/blog/retrograde-planets/)). In the winter of 1990–91 Mars doubled back towards the star again and turned direct on 2 January 1991, less than two degrees short.
 
 Even then, planet and star stood 20° or more apart in the sky. Algol sits far north of the Sun's path and Mars keeps near it, so the contact is a matter of the zodiac degree alone; at about 1 person in 207 born between 1930 and 2009, it is a little rarer than the one-degree average.
 

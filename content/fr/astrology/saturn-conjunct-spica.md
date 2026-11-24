@@ -19,14 +19,14 @@ facts:
   - { k: "Naissances", v: "De novembre 1952 à août 1953 ; de septembre à octobre 1982" }
 related: ["/astrology/spica", "/astrology/saturn", "/astrology/conjunctions-to-fixed-stars", "/astrology/saturn-in-libra", "/blog/saturn-chiron-lilith"]
 faq:
-  - q: "Que veut dire Saturne conjonction Spica ?"
-    a: "Pour certaines naissances de 1952-1953 et de l’automne 1982, Saturne se trouve à la fin de la Balance, sur le degré de Spica. Saturne décrit la discipline, la responsabilité et la maîtrise lente, et la Balance est son signe d’exaltation dans la tradition. L’étoile ajoute de vieux noms de grain et de croissance ; c’est Saturne en Balance qui porte la lecture."
+  - q: "Que veut dire Saturne conjonction Spica ?"
+    a: "Pour certaines naissances de 1952-1953 et de l’automne 1982, Saturne se trouve en fin de Balance, sur le degré de Spica. Saturne décrit la discipline, la responsabilité et la maîtrise lente, et la Balance est son signe d’exaltation dans la tradition. L’étoile ajoute de vieux noms de grain et de croissance ; c’est Saturne en Balance qui porte la lecture."
   - q: "Quand a eu lieu Saturne conjonction Spica ?"
     a: "Pour les naissances de 1930 à 2009 : de la mi-novembre à début décembre 1952, de la mi-avril à début mai 1953, la plus grande partie d’août 1953, et du 27 septembre au 13 octobre 1982. Saturne a de nouveau franchi le même degré en 2011-2012, juste après cette période."
   - q: "Saturne conjonction Spica : pourquoi est-ce si rare ?"
     a: "Saturne met environ 29 ans et demi à faire le tour du zodiaque : en quatre-vingts ans, un degré donné ne reçoit sa visite que deux ou trois fois. Sur le degré de Spica, la visite de 1982 a aussi été courte : Saturne avait rebroussé chemin juste avant l’étoile en janvier, et n’a franchi son degré qu’une fois, en octobre."
-  - q: "Saturne conjonction Spica, est-ce une exaltation ?"
-    a: "Oui, dans la tradition : la Balance est le signe d’exaltation de Saturne, et le degré de Spica se trouve dans sa dernière partie. Les vieux livres pensaient que son sens de la mesure et de la loi s’y exprimait le mieux ; pour moi, cela veut dire des engagements pesés avec justice, même si Saturne enseigne toujours lentement."
+  - q: "Saturne conjonction Spica, est-ce une exaltation ?"
+    a: "Oui, dans la tradition : la Balance est le signe d’exaltation de Saturne, et le degré de Spica se trouve dans sa dernière partie. Les vieux livres pensaient que son sens de la mesure et de la loi s’y exprimait le mieux ; pour moi, cela veut dire des engagements pesés avec justice, même si Saturne enseigne toujours lentement."
 sources:
   - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et le décompte de The Astro Study d’après la position de Saturne, 1930–2012", note: "la position de Spica selon l’année, la fréquence de Saturne à moins de 1° d’elle, et les dates des passages et des stations" }
   - { title: "R. H. Allen, Star Names and Their Meanings (réimpr. Kessinger, 2003), via Wikipédia en anglais, « Spica »", url: "https://en.wikipedia.org/wiki/Spica", note: "le temple de Menat à Thèbes orienté sur Spica, et la précession qui a écarté l’étoile de son axe" }

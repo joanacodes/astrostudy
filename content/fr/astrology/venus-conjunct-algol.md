@@ -19,11 +19,11 @@ facts:
   - { k: "Naissances", v: "Entre le 30 mars et le 3 juillet environ, à une date qui change chaque année" }
 related: ["/astrology/algol", "/astrology/venus", "/astrology/conjunctions-to-fixed-stars", "/astrology/venus-in-taurus", "/astrology/benefics-and-malefics"]
 faq:
-  - q: "Que veut dire Vénus conjonction Algol ?"
-    a: "Dans votre thème, Vénus partage son degré du zodiaque avec Algol, à un degré près, dans la dernière partie du Taureau. Vénus décrit ce à quoi vous tenez et ce qui vous attire ; la tradition y a posé la sombre réputation de l’étoile. Sans l’étoile, c’est Vénus chez elle en Taureau, dans sa maison et avec ses aspects."
+  - q: "Que veut dire Vénus conjonction Algol ?"
+    a: "Dans votre thème, Vénus partage son degré du zodiaque avec Algol, à un degré près, dans la dernière partie du Taureau. Vénus décrit ce à quoi vous tenez et ce qui vous attire ; la tradition y a posé la sombre réputation de l’étoile. Sans l’étoile, c’est Vénus chez elle en Taureau, dans sa maison et avec ses aspects."
   - q: "Vénus conjonction Algol, est-ce mauvais en amour ?"
     a: "Non. Rien dans un thème natal ne prédit la manière dont une relation tournera, et le vieux nom d’une étoile pas davantage. La tradition appelait Vénus une bénéfique et Algol l’une des étoiles les plus malheureuses : mises ensemble, ces étiquettes se contredisent plus qu’elles ne décrivent quiconque."
-  - q: "Quelles dates de naissance peuvent donner Vénus conjonction Algol ?"
+  - q: "Quelles dates de naissance peuvent donner Vénus conjonction Algol ?"
     a: "Les naissances entre le 30 mars et le 3 juillet environ, quand le Soleil est assez proche de la fin du Taureau pour que Vénus puisse s’y trouver. Une année donnée, Vénus atteint l’étoile à une seule date, qui change d’une année à l’autre, et n’y reste qu’un jour ou deux."
   - q: "Quelle pierre va avec Algol ?"
     a: "Le diamant. La magie médiévale avait choisi quinze étoiles, les étoiles béhéniennes, et associé chacune à une pierre et à une plante pour fabriquer des talismans ; Algol a reçu le diamant et l’hellébore noir. C’est un fragment d’histoire de l’étoile, pas un remède à quoi que ce soit."

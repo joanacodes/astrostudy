@@ -19,12 +19,12 @@ facts:
   - { k: "Naissances", v: "Entre le 30 août et le 2 décembre environ ; tous les huit ans, les 30 et 31 août de 1930 à 2002, à moins d’un demi-degré dans le ciel" }
 related: ["/astrology/spica", "/astrology/venus", "/astrology/conjunctions-to-fixed-stars", "/astrology/venus-in-libra", "/astrology/venus-star-point"]
 faq:
-  - q: "Que veut dire Vénus conjonction Spica ?"
-    a: "Ce contact place Vénus dans son propre signe, la Balance, sur le degré de Spica, à un degré près. Vénus décrit ce qui vous attire et la manière dont vous aimez que l’échange s’équilibre ; la magie médiévale faisait de Spica une étoile de Vénus et de Mercure. Une vieille image bienveillante, gardée comme image : je lis Vénus en Balance."
+  - q: "Que veut dire Vénus conjonction Spica ?"
+    a: "Ce contact place Vénus dans son propre signe, la Balance, sur le degré de Spica, à un degré près. Vénus décrit ce qui vous attire et la manière dont vous aimez que l’échange s’équilibre ; la magie médiévale faisait de Spica une étoile de Vénus et de Mercure. Une vieille image bienveillante, gardée comme image : je lis Vénus en Balance."
   - q: "Vénus conjonction Spica, est-ce un bon placement ?"
     a: "C’en est un que la tradition aimait : Vénus dans son propre signe, sur une étoile que la magie médiévale donnait à Vénus. Je ne range pas pour autant les placements en bons et en mauvais. Je le lis comme Vénus en Balance, et je tiens la bonne réputation de l’étoile pour de l’histoire, comme je le ferais d’une mauvaise."
-  - q: "Quelles dates de naissance peuvent donner Vénus conjonction Spica ?"
-    a: "Les naissances du 30 août au 2 décembre environ. La date dépend de l’année, puisque Vénus atteint le degré de Spica une fois par an, chaque fois un jour différent : une éphéméride de votre année de naissance indique lequel, et un thème montre si votre naissance tombe dessus."
+  - q: "Quelles dates de naissance peuvent donner Vénus conjonction Spica ?"
+    a: "Les naissances du 30 août au 2 décembre environ. La date dépend de l’année, puisque Vénus atteint le degré de Spica une fois par an, chaque fois un jour différent : une éphéméride de votre année de naissance indique lequel, et un thème montre si votre naissance tombe dessus."
   - q: "À quelle distance Vénus passe-t-elle de Spica dans le ciel ?"
     a: "Parfois tout près. Le 30 ou le 31 août, tous les huit ans de 1930 à 2002, Vénus est passée à moins d’un demi-degré de Spica dans le ciel du soir. La dernière fois que Vénus est passée juste devant l’étoile, c’était en 1783, et la prochaine sera en 2197."
 sources:

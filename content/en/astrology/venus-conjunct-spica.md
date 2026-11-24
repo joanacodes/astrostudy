@@ -1,7 +1,7 @@
 ---
 title: "Venus conjunct Spica"
 h1: "Venus conjunct Spica in a birth chart"
-description: "Venus conjunct Spica in a birth chart: Venus at home in Libra on the ear of wheat, a star medieval magic gave to Venus. Its eight-year rhythm, dates and odds."
+description: "Venus conjunct Spica in a birth chart: Venus at home in Libra, on the degree of a star medieval magic gave to Venus. Its eight-year rhythm, dates and odds."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Venus", "Spica", "fixed stars"]
 weight: 2592
 glyph: "♀☌★"
-definition: "Venus conjunct Spica is Venus within 1° of the zodiac degree of Spica, the Virgin’s ear of wheat: always Venus in Libra, one of its own signs, and only for births between about 30 August and 2 December. About 1 person in 218 has it. Medieval magic gave Spica to Venus and Mercury, so star and sign agree."
+definition: "Venus conjunct Spica is Venus within a degree of Spica’s longitude: always Venus in Libra, one of its own signs, and only for births between about 30 August and 2 December. About 1 person in 218 has it. Medieval magic gave Spica to Venus and Mercury, so star and sign agree."
 facts:
   - { k: "Planet", v: "Venus ♀" }
   - { k: "Star", v: "Spica, α Virginis: 22°51′ Libra in 1930, 24°12′ Libra in 2026" }
@@ -45,4 +45,4 @@ The season is fixed by Venus's short leash to the Sun. From 1930 to 2009 the fir
 
 Each body meets Spica on different terms, because Libra treats them differently in the tradition. The [Sun conjunct Spica](/astrology/sun-conjunct-spica/) falls in the Sun's fall, [Saturn conjunct Spica](/astrology/saturn-conjunct-spica/) in Saturn's exaltation, [Mars conjunct Spica](/astrology/mars-conjunct-spica/) in Mars's detriment, and the [Moon conjunct Spica](/astrology/moon-conjunct-spica/) in a sign where the Moon has no special standing. Venus alone is at home.
 
-None of that makes a star part of my readings: I don't place Spica, or any other star, in a chart ([How I read](/how-i-read/)). What I'd read is Venus in Libra, its house and its aspects, and the tradition's rule for star contacts is set out under [conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/).
+None of that makes a star part of my readings: I don't place Spica, or any other star, in a chart ([How I read](/how-i-read/)). What I'd read is Venus in Libra, its house and its aspects, and the tradition's rule for star contacts is laid down in [conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/).

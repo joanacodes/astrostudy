@@ -19,12 +19,12 @@ facts:
   - { k: "Naissances", v: "Quelques jours tous les deux ans environ ; des semaines entières en 1935, 1967 et 1999" }
 related: ["/astrology/spica", "/astrology/mars", "/astrology/conjunctions-to-fixed-stars", "/astrology/mars-in-libra", "/astrology/mars-retrograde-in-libra"]
 faq:
-  - q: "Que veut dire Mars conjonction Spica ?"
-    a: "Dans votre thème, Mars à la fin de la Balance partage son degré du zodiaque avec Spica, l’épi de la Vierge. Mars décrit votre effort et votre manière d’aller chercher les choses ; un nom arabe dit Spica désarmée. Cela convient à une lecture de Mars comme effort plutôt que comme force, en Balance, par sa maison et ses aspects."
+  - q: "Que veut dire Mars conjonction Spica ?"
+    a: "Dans votre thème, Mars à la fin de la Balance partage son degré du zodiaque avec Spica, l’épi de la Vierge. Mars décrit votre effort et votre manière d’aller chercher les choses ; un nom arabe dit Spica désarmée. Cela convient à une lecture de Mars comme effort plutôt que comme force, en Balance, par sa maison et ses aspects."
   - q: "Mars conjonction Spica : pourquoi est-ce si fréquent ?"
     a: "Environ 1 personne sur 155 née entre 1930 et 2009 a ce contact, plus que pour n’importe quel autre contact avec cette étoile. Les boucles rétrogrades de Mars ont ramené la planète sur le degré de Spica en 1935, 1967 et 1999 : trois passages chacune des deux premières années, et la troisième fois, un arrêt à un demi-degré de l’étoile."
-  - q: "Quand a eu lieu Mars conjonction Spica ?"
-    a: "Quelques jours dans la plupart des cycles de deux ans, et des semaines entières trois années durant : 1935, avec des passages en février, mars et juillet ; 1967, en janvier, avril et juillet ; et 1999, en janvier, puis de fin mai à la mi-juin, quand Mars se tenait presque immobile près du degré."
+  - q: "Quand a eu lieu Mars conjonction Spica ?"
+    a: "Quelques jours dans la plupart des cycles de deux ans, et des semaines entières trois années durant : 1935, avec des passages en février, mars et juillet ; 1967, en janvier, avril et juillet ; et 1999, en janvier, puis de fin mai à la mi-juin, quand Mars se tenait presque immobile près du degré."
   - q: "Pourquoi appelle-t-on Spica l’étoile désarmée ?"
     a: "Des listes d’étoiles arabes l’appelaient al-simāk al-aʽzal, le simāk désarmé, et nommaient Arcturus, qui occupe presque le même degré du zodiaque, as-simāk ar-rāmiḥ, le simāk du lancier. Deux étoiles brillantes sur un même degré : l’une avec une lance, l’autre sans."
 sources:

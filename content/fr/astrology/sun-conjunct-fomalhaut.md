@@ -19,13 +19,13 @@ facts:
   - { k: "Naissances", v: "Vers les 21 et 22 février, en 1930 comme en 1970 ou en 2009" }
 related: ["/astrology/fomalhaut", "/astrology/sun", "/astrology/conjunctions-to-fixed-stars", "/astrology/sun-in-pisces", "/blog/i-tested-my-birth-chart"]
 faq:
-  - q: "Que veut dire Soleil conjonction Fomalhaut ?"
-    a: "Cela veut dire que votre naissance place le Soleil sur le degré de Fomalhaut, au début des Poissons, ce qui arrive vers le 21 ou le 22 février. Les livres d’astrologie font de Fomalhaut une étoile royale, mais son titre est le plus fragile des quatre. Ce qui vous décrit, c’est le Soleil en Poissons, lu par sa maison et ses aspects."
-  - q: "Quelle date de naissance donne Soleil conjonction Fomalhaut ?"
-    a: "Le 21 ou le 22 février, quelle que soit l’année entre 1930 et 2009. Les naissances du 20 ou du 23 se trouvent tout au bord de la fenêtre : l’heure de naissance et le calendrier de l’année décident alors si le Soleil est à moins d’un degré de l’étoile."
+  - q: "Que veut dire Soleil conjonction Fomalhaut ?"
+    a: "Votre naissance place le Soleil sur le degré de Fomalhaut, au début des Poissons, ce qui arrive vers le 21 ou le 22 février. Les livres d’astrologie font de Fomalhaut une étoile royale, mais son titre est le plus fragile des quatre. Ce qui vous décrit, c’est le Soleil en Poissons, avec sa maison et ses aspects."
+  - q: "Quelle date de naissance donne Soleil conjonction Fomalhaut ?"
+    a: "Le 21 ou le 22 février, quelle que soit l’année entre 1930 et 2009. Les naissances du 20 ou du 23 se trouvent tout au bord de la fenêtre : l’heure de naissance et le calendrier de l’année décident alors si le Soleil est à moins d’un degré de l’étoile."
   - q: "Le Soleil est-il proche de Fomalhaut dans le ciel ?"
     a: "Non. Fomalhaut se trouve à 21° au sud de l’écliptique, la route annuelle du Soleil : lors de ces anniversaires de février, le Soleil passe à environ 21° au nord de l’étoile. Les deux partagent un degré compté le long du zodiaque, jamais un coin de ciel."
-  - q: "Soleil conjonction Fomalhaut, est-ce rare ?"
+  - q: "Soleil conjonction Fomalhaut, est-ce rare ?"
     a: "Environ 1 personne sur 183 née entre 1930 et 2009 l’a, près de la moyenne de tout contact d’un degré. Comme tous les anniversaires de ces deux jours de février le partagent, c’est un anniversaire assez ordinaire, avec un nom qui l’est beaucoup moins."
 sources:
   - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et le décompte de The Astro Study d’après la position du Soleil, 1930–2009", note: "la position de Fomalhaut selon l’année, les anniversaires et le nombre de personnes qui ont ce contact" }

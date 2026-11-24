@@ -1,7 +1,7 @@
 ---
 title: "Saturn conjunct Fomalhaut"
 h1: "Saturn conjunct Fomalhaut in a birth chart"
-description: "Saturn conjunct Fomalhaut in a birth chart: Saturn in early Pisces on the Southern Fish’s star, for births of 1935, 1964–65 or early 1994. How each pass ran."
+description: "Saturn conjunct Fomalhaut in a birth chart: Saturn in early Pisces on Fomalhaut’s degree, for births of 1935, 1964–65 or early 1994. How each pass ran."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Saturn", "Fomalhaut", "fixed stars"]
 weight: 2584
 glyph: "♄☌★"
-definition: "Saturn conjunct Fomalhaut is Saturn within 1° of Fomalhaut’s zodiac degree, early in Pisces: births from March to November 1935, April 1964 to January 1965, or February to March 1994. About 1 person in 183 has it. The star’s royal title is doubtful; Saturn was among the three placements that held most often in my notebook."
+definition: "Saturn conjunct Fomalhaut is Saturn within 1° of Fomalhaut’s zodiac degree, early in Pisces: births from March to November 1935, April 1964 to January 1965, or February to March 1994. About 1 person in 183 has it. The star’s royal title is doubtful; in my notebook, Saturn held 75 to 90% of the time."
 facts:
   - { k: "Planet", v: "Saturn ♄" }
   - { k: "Star", v: "Fomalhaut, α Piscis Austrini: 2°52′ Pisces in 1930, 3°51′ Pisces in 2000" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/fomalhaut", "/astrology/saturn", "/astrology/conjunctions-to-fixed-stars", "/astrology/saturn-in-pisces", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does Saturn conjunct Fomalhaut mean?"
-    a: "It marks a birth in 1935, 1964–65 or early 1994, when Saturn stood in the first degrees of Pisces on Fomalhaut’s degree. Saturn describes structure and lasting commitments; the star brings a royal title that historians doubt. I read Saturn in Pisces, one of the placements that held most often in my notebook."
+    a: "It marks a birth in 1935, 1964–65 or early 1994, when Saturn stood early in Pisces, on Fomalhaut’s degree. Saturn describes structure and lasting commitments; the star brings a royal title that historians doubt. I read Saturn in Pisces, a placement my notebook gives me good reason to trust."
   - q: "When was Saturn conjunct Fomalhaut?"
     a: "For births from 1930 to 2009: March 1935 and mid-October to November 1935; mid-April to mid-May 1964, mid-July to mid-August 1964 and January 1965; late February to early March 1994. Months in between don’t count, because Saturn moved on and came back."
   - q: "How rare is Saturn conjunct Fomalhaut?"
@@ -35,7 +35,7 @@ Saturn takes about two and a half years to cross a sign, so when it reaches Foma
 
 ## What it means {#what-it-means}
 
-In my readings [Saturn](/astrology/saturn/) describes what you build to stand up over time: commitments kept, rules you set yourself, the patience to do a thing properly even when nobody is checking. [Fomalhaut](/astrology/fomalhaut/) brings a royal title that doesn't survive much checking. Astrology books took it from R. H. Allen's *Star Names* (1899), which placed the star among four royal stars of the Persians, while the Zoroastrian commander of the southern sky it was meant to be is now more often identified with Antares. If Saturn has a question for any star, it is what the claim rests on, and here the answer is: not much.
+In my readings [Saturn](/astrology/saturn/) describes what you build to stand up over time: commitments kept, rules you set yourself, the patience to do a thing properly even when nobody is checking. [Fomalhaut](/astrology/fomalhaut/) brings a royal title that doesn't survive much checking. The title entered astrology books through R. H. Allen's *Star Names* of 1899, with its four royal stars of the Persians, while the Zoroastrian commander of the southern sky it was meant to be is now more often identified with Antares. If Saturn has a question for any star, it is what the claim rests on, and here the answer is: not much.
 
 The three stretches ran very differently ([Saturn retrograde](/astrology/saturn-retrograde/)). In 1935 Saturn crossed the degree on 12 March and moved on; in the autumn it came back and stood still on 8 November, about half a degree short of the star, before setting off forward again, so births from mid-October to the end of November 1935 have Saturn almost motionless beside it. In 1964 it crossed on 1 May, turned back over the degree on 2 August, and made its last crossing on 22 January 1965. In 1994 there was a single crossing, on 2 March; later that year Saturn's retrograde loop brought it back towards the star, but it turned forward again on 9 November, nearly two degrees short.
 

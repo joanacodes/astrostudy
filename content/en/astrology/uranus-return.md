@@ -5,6 +5,8 @@ description: "The Uranus return: Uranus back at its birth degree after one 84-ye
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "cycles"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "planetary returns"]
 weight: 5
 glyph: "✦"
 definition: "The Uranus return is the transit of Uranus back over the degree it held when you were born, after one orbit of about 84 years. It closes a cycle whose earlier turns are the squares, around twenty and in the sixties, and the opposition around forty. I read it as a late review of what makes you distinct."

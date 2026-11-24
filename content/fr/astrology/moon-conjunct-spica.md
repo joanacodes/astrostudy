@@ -19,10 +19,10 @@ facts:
   - { k: "Naissances", v: "N’importe quel mois ; seule l’heure de naissance le confirme" }
 related: ["/astrology/spica", "/astrology/moon", "/astrology/conjunctions-to-fixed-stars", "/astrology/moon-in-libra", "/astrology/28-lunar-mansions"]
 faq:
-  - q: "Que veut dire Lune conjonction Spica ?"
-    a: "Votre Lune se trouve sur le degré de Spica, à la fin de la Balance, ce que seule une heure de naissance exacte peut confirmer. La Lune décrit ce dont vous avez besoin pour vous poser ; Spica apporte de vieux noms de grain et de croissance, et ouvre les maisons lunaires chinoises. La Lune en Balance, sa maison et ses aspects vous décrivent mieux que l’étoile."
-  - q: "Comment savoir si ma Lune est conjointe à Spica ?"
-    a: "Avec votre heure de naissance consignée : la Lune doit se trouver à moins d’un degré de Spica pour votre année, entre 22° et 25° de la Balance environ pour les naissances de 1930 à 2009. Sans l’heure, personne ne peut le dire, puisque la Lune ne passe que trois ou quatre heures par mois dans cette fenêtre."
+  - q: "Que veut dire Lune conjonction Spica ?"
+    a: "Votre Lune est sur le degré de Spica, en fin de Balance, ce que seule une heure de naissance exacte confirme. La Lune décrit ce dont vous avez besoin pour vous poser ; Spica apporte de vieux noms de grain et ouvre les maisons lunaires chinoises. La Lune en Balance, sa maison et ses aspects vous décrivent mieux que l’étoile."
+  - q: "Comment savoir si ma Lune est conjointe à Spica ?"
+    a: "Avec votre heure de naissance consignée : la Lune doit se trouver à moins d’un degré de Spica pour votre année, entre 22° et 25° de la Balance environ pour les naissances de 1930 à 2009. Sans l’heure, personne ne peut le dire, puisque la Lune ne passe que trois ou quatre heures par mois dans cette fenêtre."
   - q: "La Lune peut-elle cacher Spica ?"
     a: "Oui. Spica ne se trouve qu’à 2° environ de la route du Soleil, dans la bande que parcourt la Lune : certaines années, la Lune passe devant elle chaque mois, vue d’une partie de la Terre. Ces séries d’occultations ont eu lieu en 1987-1988, en 1994-1995 et en 2024-2025."
   - q: "Dans quelle maison lunaire se trouve Spica ?"
