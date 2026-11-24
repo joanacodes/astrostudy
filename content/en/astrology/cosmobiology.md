@@ -46,7 +46,7 @@ Cosmobiology is a German school of astrology with a scientific-sounding name and
 
 ## What it was {#what-it-was}
 
-The word is older than the school. Before Reinhold Ebertin took it up, *Kosmobiologie* had been used by the German medical astrologer Friedrich Feerhow and by the Swiss Karl Krafft, whom Ebertin calls a statistician, for the branch of astrology “working on scientific foundations and keyed to the natural sciences”, in Ebertin's own description.
+The word is older than the school. Before Reinhold Ebertin took it up, *Kosmobiologie* had been used by the German medical astrologer Friedrich Feerhow and by the Swiss statistician Karl Krafft for the branch of astrology “working on scientific foundations and keyed to the natural sciences”, in Ebertin's own description.
 
 The method came from Hamburg. Alfred Witte (1878–1941), a surveyor and amateur astronomer, revived the use of midpoints, the degree exactly between two bodies, and his circle published its rules in the *Regelwerk für Planetenbilder* in 1928. His school also worked with hypothetical planets beyond Neptune, eight of them in the end ([The Hamburg School (Uranian astrology)](/astrology/hamburg-school-uranian-astrology/)). The Nazi regime banned the *Regelwerk* on 2 October 1936. Ebertin kept Witte's [midpoints](/astrology/midpoints/) and the 90° dial, left the hypothetical planets out, and called what remained cosmobiology. His handbook, *Kombination der Gestirneinflüsse*, appeared in 1940; its English translation, *The Combination of Stellar Influences*, was last updated in 1972. In it he acknowledges how much he drew on Witte's rulebook, while differing from Witte on method.
 

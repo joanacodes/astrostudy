@@ -57,6 +57,6 @@ No link that survives a fair test. People who know astrology do tend to describe
 
 ## What I found {#what-i-found}
 
-The Sun sign was on my invoice like every other placement: Sun, Moon, rising, each planet in its sign and house, a tick or a cross beside each. It held about a third of the time, with the rising sign, Venus and Mercury, the placements everyone reads first; overall, about a third of what I checked held, 30 to 40%, close to what a flattering horoscope scores. Saturn, Lilith and Chiron were different: they held 75 to 90% of the time.
+The Sun sign was on my invoice like every other placement: Sun, Moon, rising, each planet in its sign and house, a tick or a cross beside each. It held about a third of the time, with the rising sign, Venus and Mercury, the placements everyone reads first; overall, about a third of what I checked held, 30 to 40%, close to what a flattering horoscope scores. Three did far better: Saturn, Lilith and Chiron held 75 to 90% of the time.
 
 The people I tested marked their own lines, which is the very situation the self-attribution studies describe, so I hold the Sun sign's third lightly. It's a notebook, not a study, and it proves nothing about astrology in general. In a reading, when something rests on your Sun sign alone, I tell you so you can weigh it ([How I read](/how-i-read/)); the count itself is in [my testing notes](/blog/i-tested-my-birth-chart/).
