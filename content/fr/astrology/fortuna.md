@@ -26,7 +26,7 @@ faq:
   - q: "L’astéroïde Fortuna, est-ce la Part de Fortune ?"
     a: "Non. Fortuna est un astéroïde, un corps réel de plus de 200 km, dont la position vient de son orbite. La Part de Fortune est un point calculé à partir de votre ascendant, de votre Soleil et de votre Lune : elle demande votre heure de naissance. Le degré de l’astéroïde, non ; sa maison, si."
   - q: "Qui a découvert l’astéroïde Fortuna ?"
-    a: "John Russell Hind, depuis l’observatoire de George Bishop à Londres, le soir du 22 août 1852. Bishop l’a encouragé à lui donner un nom, et il a choisi Fortuna. L’astéroïde fait le tour du Soleil en 3,8 ans environ, dans la partie intérieure de la ceinture principale."
+    a: "John Russell Hind, depuis l’observatoire de George Bishop à Londres, le soir du 22 août 1852. Bishop l’a encouragé à lui donner un nom, et il a choisi Fortuna. Son orbite, dans la partie intérieure de la ceinture principale, dure environ 3,8 ans."
   - q: "Fortuna montre-t-il la chance dans un thème natal ?"
     a: "Rien ne l’a jamais vérifié, et je ne le lirais pas ainsi, si frappant que soit le placement. Aucun thème ne peut promettre la chance ou l’argent, ni annoncer que vous les perdrez. La déesse elle-même était souvent représentée aveugle, et sa roue tournait dans les deux sens."
 sources:
@@ -55,7 +55,7 @@ Dans un thème, les deux Fortunes se comportent à l’inverse l’une de l’au
 
 Je laisse l’astéroïde Fortuna de côté, et pour celui-ci, je veux être claire sur la raison. Un corps nommé Fortune appelle des questions de chance et d’argent, et aucun thème ne peut y répondre : je ne dirai à personne qu’un placement promet une aubaine ou annonce une perte ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)).
 
-La raison la plus simple, c’est qu’il n’a jamais été vérifié. La déesse distribuait la chance les yeux bandés ; mon carnet a fait l’inverse, en mettant, les yeux ouverts, une coche ou une croix en face du Soleil, de la Lune, de l’ascendant, de chaque planète, de Chiron et de Lilith. Environ un tiers a tenu au total, et trois placements, Saturne, Chiron et Lilith, ont tenu bien plus souvent que les autres ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)). L’astéroïde de Fortuna n’avait pas de ligne sur cette facture, et le système derrière mes lectures ne le calcule pas ([Ma méthode](/how-i-read/)).
+La raison la plus simple, c’est qu’il n’a jamais été vérifié. La déesse distribuait la chance les yeux bandés ; mon carnet a fait l’inverse et a regardé, les yeux ouverts, le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith. Au total, environ un tiers a tenu, avec Saturne, Chiron et Lilith loin devant tout le reste ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)). L’astéroïde de Fortuna n’avait pas de ligne sur cette facture, et le système derrière mes lectures ne le calcule pas ([Ma méthode](/how-i-read/)).
 
 Si c’est l’ancienne idée de la fortune que vous cherchez, ce qui vous échoit plutôt que ce que vous gagnez, la tradition l’a placée dans la Part de Fortune, et sa page explique comment on la calcule et pourquoi elle demande votre heure de naissance.
 

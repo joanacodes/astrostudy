@@ -56,7 +56,7 @@ In a chart, Makemake is among the slowest bodies anyone places. With 307 years t
 
 Makemake's name was picked to fit a calendar, and that is the clearest reason I can give for leaving it out. A body named after a fertility god because it was found near Easter can't tell anyone about fertility: nothing in a chart predicts a pregnancy, and I never read one for that ([Can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)).
 
-It was also never tested. My notebook went through the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and the three that stood out, Saturn, Chiron and Lilith, held 75 to 90% of the time ([The three that held](/blog/saturn-chiron-lilith/)). A dwarf planet named in 2008 had no line beside them, and the system behind my readings doesn't compute it ([How I read](/how-i-read/)).
+It was also never tested. In my notebook, Saturn, Chiron and Lilith held 75 to 90% of the time ([The three that held](/blog/saturn-chiron-lilith/)), but it only covered the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and Makemake was never in the running. Nor does my reading system compute it ([How I read](/how-i-read/)).
 
 ## Common myths {#myths}
 

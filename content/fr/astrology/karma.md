@@ -41,7 +41,7 @@ L’astéroïde 3811 s’appelle Karma, un nom bien lourd pour un rocher d’une
 
 ## Ce que c’est {#ce-que-c-est}
 
-Karma est un petit astéroïde de la partie médiane de la ceinture principale, entre Mars et Jupiter. Liisi Oterma l’a découvert à Turku, en Finlande, le 13 octobre 1953, et il a d’abord été désigné 1953 TH. Il donne son nom à une petite famille : quand des astronomes ont recensé en 2015 les familles d’astéroïdes de la ceinture, ils ont compté 59 membres dans la famille de Karma, des corps sombres aux orbites voisines. On pense que ces familles sont les débris de collisions entre astéroïdes.
+Karma tourne autour du Soleil au milieu de la ceinture d’astéroïdes, entre Mars et Jupiter. Liisi Oterma l’a découvert à Turku, en Finlande, le 13 octobre 1953, et il a d’abord été désigné 1953 TH. Il donne son nom à une petite famille : quand des astronomes ont recensé en 2015 les familles d’astéroïdes de la ceinture, ils ont compté 59 membres dans la famille de Karma, des corps sombres aux orbites voisines. On pense que ces familles sont les débris de collisions entre astéroïdes.
 
 Liisi Oterma a été la première femme de Finlande à obtenir un doctorat en astronomie, et elle a dirigé plus tard l’observatoire de Tuorla. Le Minor Planet Center lui attribue 54 petites planètes découvertes entre 1938 et 1953, et Karma est la dernière. Elle avait d’abord voulu étudier le sanskrit, la langue d’où vient le mot, mais l’université de Turku ne l’enseignait pas.
 

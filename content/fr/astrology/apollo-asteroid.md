@@ -40,7 +40,7 @@ Apollon a été découvert en 1932, puis perdu pendant 41 ans. Il a depuis donn�
 
 ## Ce que c’est {#ce-que-c-est}
 
-Apollon est un astéroïde rocheux d’environ 1,5 km. Karl Reinmuth l’a découvert à Heidelberg le 24 avril 1932, mais on l’a perdu, et il n’a été retrouvé qu’en 1973. Son orbite est étirée : au plus près, il vient à 0,65 fois la distance de la Terre au Soleil, en deçà de l’orbite de [Vénus](/astrology/venus/) ; au plus loin, à 2,3 fois, au-delà de Mars. Un tour lui prend environ 1,8 an. En 2005, le radar de l’observatoire d’Arecibo a montré qu’il a une lune d’environ 80 mètres, qui tourne à 3 km seulement de lui.
+Apollon est un astéroïde rocheux d’environ 1,5 km. Karl Reinmuth l’a découvert à Heidelberg le 24 avril 1932, mais on l’a perdu, et il n’a été retrouvé qu’en 1973. Son orbite est étirée, de 0,65 fois la distance de la Terre au Soleil, en deçà de l’orbite de [Vénus](/astrology/venus/), à 2,3 fois, au-delà de Mars. Un tour lui prend environ 1,8 an. En 2005, le radar de l’observatoire d’Arecibo a montré qu’il a une lune d’environ 80 mètres, qui tourne à 3 km seulement de lui.
 
 C’est le premier de son espèce à avoir été reconnu, et tout le groupe porte aujourd’hui son nom. Les astéroïdes Apollon sont en moyenne plus loin du Soleil que la Terre, mais s’en approchent davantage que la Terre à son point le plus éloigné : leurs routes croisent la nôtre. En janvier 2025, on en connaissait plus de 21 000, le plus grand groupe de géocroiseurs. Comme Apollon est resté perdu si longtemps, d’autres ont été numérotés avant lui : [Icare](/astrology/icarus/), découvert en 1949, porte le numéro 1566.
 

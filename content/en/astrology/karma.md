@@ -40,7 +40,7 @@ Asteroid 3811 is called Karma, a heavy name for a rock about 30 km across. It ca
 
 ## What it is {#what-it-is}
 
-Karma is a small asteroid in the middle part of the main belt, between Mars and Jupiter. Liisi Oterma found it at Turku, in Finland, on 13 October 1953, and it was first designated 1953 TH. It gives its name to a small family: when astronomers traced the asteroid families of the belt in 2015, they counted 59 members in the Karma family, dark bodies on similar orbits. Families like this are thought to be the pieces of collisions between asteroids.
+Karma circles the Sun in the middle of the asteroid belt between Mars and Jupiter. Liisi Oterma found it at Turku, in Finland, on 13 October 1953, and it was first designated 1953 TH. It gives its name to a small family: when astronomers traced the asteroid families of the belt in 2015, they counted 59 members in the Karma family, dark bodies on similar orbits. Families like this are thought to be the pieces of collisions between asteroids.
 
 Oterma was the first woman in Finland to earn a doctorate in astronomy, and she later directed the Tuorla Observatory. The Minor Planet Center credits her with 54 minor planets found between 1938 and 1953, and Karma is the last of them. She had first meant to study Sanskrit, the language the word comes from, but Turku didn't teach it.
 

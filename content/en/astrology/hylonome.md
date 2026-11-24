@@ -55,7 +55,7 @@ The body that carries her name moves too slowly to go even once round the zodiac
 
 ## In a reading {#in-a-reading}
 
-A myth about a devoted couple invites one use above all: looking for Hylonome between two people's charts. I don't. In my [synastry readings](/synastry/) I count only contacts that involve at least one personal body, and no centaur but Chiron is in the system I built. Nor did the notebook in which I checked the Sun, the Moon, the rising sign, each planet, Chiron and Lilith ever hold a line for her, or for Cyllarus ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
+A myth about a devoted couple invites one use above all: looking for Hylonome between two people's charts. I don't. When I compare two charts in my [synastry readings](/synastry/), a contact counts only if at least one personal body is in it, and of all the centaurs, my system knows only Chiron. Nor did the notebook in which I checked the Sun, the Moon, the rising sign, each planet, Chiron and Lilith ever hold a line for her, or for Cyllarus ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
 
 Her story ends in grief and a death by her own hand, and no chart can say that anyone will lose a partner, or what grief will do to them. If you're grieving hard, or thinking of ending your life, please don't wait: if you're in danger now, call your local emergency number, and talk to someone qualified ([When to see a professional instead](/astrology/when-to-see-a-professional-instead/)). The Disclaimers page, linked at the foot of every page of this site, lists helplines.
 

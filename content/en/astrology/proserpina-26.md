@@ -64,4 +64,4 @@ If you use Proserpina anyway, first make sure your program means the asteroid, t
 - **“Proserpina is a goddess with her own separate myth.”** She is Persephone under a Latin name, fused at Rome with an older goddess, Libera.
 - **“The Proserpina in my chart must be the asteroid.”** It may be a fictitious planet that shares the name. Check the symbol and the number.
 - **“She spent a third of the year below.”** That is the Greek hymn's count. The Latin versions, Ovid's among them, give half.
-- **“Proserpina is a small Pluto.”** They share a myth. The planet is in my readings and in my notebook; the asteroid is in neither.
+- **“Proserpina is a small Pluto.”** They share a myth and nothing more: Pluto had a line in my notebook and keeps a place in my readings; the asteroid never had either.

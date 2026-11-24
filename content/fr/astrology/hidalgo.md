@@ -53,7 +53,7 @@ L’orbite pose une seconde difficulté. Inclinée de 43°, presque autant que c
 
 ## Dans une lecture {#dans-une-lecture}
 
-Hidalgo n’entre pas dans mes lectures, et comme un centaure y entre, je vous dois une raison. Chiron figurait sur la liste de mon carnet, et avec Saturne et Lilith, il a tenu bien plus souvent que tout le reste, 75 à 90 % du temps ([Les trois qui ont tenu](/blog/saturn-chiron-lilith/)). Être le premier de sa classe ne donne pas à Hidalgo le bilan de Chiron. Il n’a jamais été sur la liste, et le système que j’ai construit pour mes lectures ne calcule aucun autre centaure que Chiron ([Ma méthode](/how-i-read/)).
+Hidalgo n’entre pas dans mes lectures, et comme un centaure y entre, je vous dois une raison. Parmi les placements de mon carnet, Chiron a été l’un des trois, avec Saturne et Lilith, à tenir 75 à 90 % du temps, bien plus souvent que tout le reste ([Les trois qui ont tenu](/blog/saturn-chiron-lilith/)). Être le premier de sa classe ne donne pas à Hidalgo le bilan de Chiron. Il n’a jamais figuré dans ce carnet, et le système que j’ai construit pour mes lectures ne calcule aucun autre centaure que Chiron ([Ma méthode](/how-i-read/)).
 
 Si vous placez Hidalgo vous-même, souvenez-vous de son inclinaison de 43° avant de vous fier à une conjonction, décidez à l’avance si vous l’utiliserez, comme pour chaque nom de la longue liste, [Karma](/astrology/karma/) compris, et ne le laissez jamais parler plus fort que les planètes ([Lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 

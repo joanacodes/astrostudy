@@ -55,9 +55,9 @@ An asteroid found in 1895 has no centuries of commentary behind it. Placed in a 
 
 ## In a reading {#in-a-reading}
 
-Persephone isn't one of the bodies I read. The system I built for my readings computes the planets, Chiron, Lilith and the lunar nodes; no asteroid has a place in it. In the myth Persephone spends part of every year out of sight; in my notebook she was out of sight the whole time. When I [went through charts placement by placement](/blog/i-tested-my-birth-chart/), the list was the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and about a third of it held overall; there's no figure for her, not even a rough one.
+Persephone isn't one of the bodies I read. The system I built for my readings computes the planets, Chiron, Lilith and the lunar nodes; no asteroid has a place in it. In the myth Persephone spends part of every year out of sight; in my notebook she was out of sight the whole time. The [notebook where I tested charts](/blog/i-tested-my-birth-chart/) took the Sun, the Moon, the rising sign, each planet, Chiron and Lilith in turn, and about a third of those placements held overall; there's no figure for her, not even a rough one.
 
-With this myth there's a second reason. It's the story of a young woman taken without her consent and of a mother who loses her for part of every year, and it would be easy to turn it into a warning about someone you love. No placement can say that anyone will be taken from you, and I don't read a chart for what will happen in a family ([How I read](/how-i-read/)).
+The myth itself gives me a second reason. It's the story of a young woman taken without her consent and of a mother who loses her for part of every year, and it would be easy to turn it into a warning about someone you love. No placement can say that anyone will be taken from you, and I don't read a chart for what will happen in a family ([How I read](/how-i-read/)).
 
 If you meet her on a printout, first check which Persephone the program means, the asteroid or the hypothetical planet. A wheel that shows Persephone and Proserpina side by side is telling one story twice, which is exactly how a chart drowns ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 

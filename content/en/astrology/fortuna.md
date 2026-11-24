@@ -25,7 +25,7 @@ faq:
   - q: "Is the asteroid Fortuna the same as the Part of Fortune?"
     a: "No. Fortuna is an asteroid, a real body more than 200 km across, whose position comes from its orbit. The Part of Fortune is a point calculated from your Ascendant, Sun and Moon, so it needs your birth time; the asteroid’s degree doesn’t, although its house does."
   - q: "Who discovered the asteroid Fortuna?"
-    a: "John Russell Hind, observing from George Bishop’s observatory in London on the evening of 22 August 1852. Bishop encouraged him to name it, and he chose Fortuna. It goes round the Sun in about 3.8 years, in the inner part of the main belt."
+    a: "John Russell Hind, observing from George Bishop’s observatory in London on the evening of 22 August 1852. Bishop encouraged him to name it, and he chose Fortuna. Its orbit, in the inner main belt, takes about 3.8 years."
   - q: "Does Fortuna show luck in a birth chart?"
     a: "Nothing has tested that, and I wouldn’t read it so however striking the placement. No chart can promise luck or money, or warn that you will lose them. The goddess herself was often shown blind, and her wheel turned both ways."
 sources:
@@ -54,7 +54,7 @@ In a chart, the two Fortunes behave in opposite ways. The Part of Fortune is cal
 
 I leave the asteroid Fortuna out, and with this one I want to be plain about why. A body called Fortune invites questions about luck and money, and no chart can answer those: I won't tell anyone that a placement promises a windfall or warns of a loss ([Can astrology pick investments?](/astrology/can-astrology-pick-investments/)).
 
-The plainer reason is that it has never been tested. The goddess handed out luck blindfolded; my notebook did the opposite, putting a tick or a cross, eyes open, beside the Sun, the Moon, the rising sign, each planet, Chiron and Lilith. About a third held overall, and three placements, Saturn, Chiron and Lilith, held far more often than the rest ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). Fortuna's asteroid had no line on that invoice, and the system behind my readings doesn't compute it ([How I read](/how-i-read/)).
+The plainer reason is that it has never been tested. The goddess handed out luck blindfolded; my notebook did the opposite and looked, eyes open, at the Sun, the Moon, the rising sign, each planet, Chiron and Lilith. Overall, about a third of it held, with Saturn, Chiron and Lilith well ahead of everything else ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). Fortuna's asteroid had no line on that invoice, and the system behind my readings doesn't compute it ([How I read](/how-i-read/)).
 
 If it's the old idea of fortune you're after, what befalls you rather than what you win, tradition put it in the Part of Fortune, and that page explains how it's worked out and why it needs your birth time.
 

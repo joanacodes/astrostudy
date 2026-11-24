@@ -24,7 +24,7 @@ faq:
   - q: "Que signifie Asbolus en astrologie ?"
     a: "Le centaure porte le nom d’Asbolus, « le fuligineux », un centaure devin qui lisait les présages dans le vol des oiseaux et mit les siens en garde contre un combat qu’ils perdirent. Un prophète que personne n’écoutait ferait un emblème tentant, mais rien n’a vérifié cette découverte de 1995, et je ne la lis pas."
   - q: "Quand Asbolus a-t-il été découvert ?"
-    a: "Le 5 avril 1995, par James Scotti et Robert Jedicke, du programme Spacewatch, à Kitt Peak, en Arizona. C’est un centaure d’environ 80 km, et son nom a été publié le 28 septembre 1999, le même jour que celui de Chariclo, une autre découverte de Spacewatch."
+    a: "Le 5 avril 1995, par James Scotti et Robert Jedicke, du programme Spacewatch, à Kitt Peak, en Arizona. C’est un centaure d’environ 80 km, et le Minor Planet Center a publié son nom en septembre 1999, en même temps que celui de Chariclo, une autre découverte de Spacewatch."
   - q: "Combien de temps dure l’orbite d’Asbolus ?"
     a: "Environ 76 ans. Au plus près, il vient à 6,8 fois la distance de la Terre au Soleil, entre Jupiter et Saturne, comme en juillet 2002 ; au plus loin, à 29,1 fois, presque aussi loin que Neptune. Il repassera au plus près en décembre 2078, et son orbite est difficile à prévoir au-delà de quelques milliers d’années."
   - q: "Qui était Asbolus dans la mythologie grecque ?"
@@ -54,7 +54,7 @@ Pour qui place Asbolus dans un thème, cette orbite agitée compte. Avec un tour
 
 ## Dans une lecture {#dans-une-lecture}
 
-Un devin que personne n’écoutait ferait un emblème tentant pour les avertissements, et je ne lis Asbolus ni comme cela ni autrement. Le système que j’ai construit pour mes lectures calcule les planètes, Chiron, Lilith et les nœuds lunaires, et parmi les centaures, seul Chiron y figure. L’augure lisait les oiseaux ; mon carnet lisait des placements, une coche ou une croix pour le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)), et Asbolus n’y avait pas de ligne : je n’ai donc aucun chiffre à citer.
+Un devin que personne n’écoutait ferait un emblème tentant pour les avertissements, et je ne lis Asbolus ni comme cela ni autrement. Mon système de lecture calcule les planètes, Lilith, les nœuds lunaires et un seul centaure, Chiron. Dans mon carnet, j’ai noté un par un le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)) ; Asbolus n’y avait pas de ligne : je n’ai donc aucun chiffre à citer.
 
 Si vous le croisez dans un thème, souvenez-vous du genre de prophète qu’était Asbolus : il nommait le danger devant les siens et les conseillait ; le choix leur appartenait. C’est plus proche de ce que devrait faire une lecture que n’importe quelle prédiction ([Ma méthode](/how-i-read/)).
 

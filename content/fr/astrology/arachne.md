@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["astéroïdes"]
 weight: 23
 glyph: "✦"
-definition: "Arachné (astéroïde 407) est un astéroïde sombre de la ceinture principale, d’environ 97 km, découvert par Max Wolf à Heidelberg en 1895 et nommé d’après la tisserande qui défia Minerve et fut changée en araignée. Son histoire nous vient surtout d’Ovide ; l’astéroïde n’apporte au thème rien de vérifié, et je ne le lis pas."
+definition: "Arachné (astéroïde 407) est un astéroïde sombre de la ceinture principale, d’environ 97 km, l’une des trouvailles de Max Wolf à Heidelberg en 1895. Il porte le nom de la tisserande qui défia Minerve et fut changée en araignée, une histoire surtout racontée par Ovide ; l’astéroïde n’apporte au thème rien de vérifié, et je ne le lis pas."
 facts:
   - { k: "Nature", v: "Astéroïde sombre et carboné de la ceinture principale, d’environ 97 km" }
   - { k: "Découverte", v: "Le 13 octobre 1895, par Max Wolf à Heidelberg" }
@@ -24,7 +24,7 @@ faq:
   - q: "Que signifie Arachné en astrologie ?"
     a: "L’astéroïde porte le nom de la tisserande des Métamorphoses d’Ovide, qui défia Minerve, tissa dans sa toile les méfaits des dieux et fut changée en araignée. Son histoire se lit comme l’orgueil puni ou comme l’art réduit au silence ; je ne poserais ni l’un ni l’autre sur une personne, et je laisse l’astéroïde hors de mes lectures."
   - q: "Qui a découvert l’astéroïde Arachné ?"
-    a: "Max Wolf, à Heidelberg, le 13 octobre 1895, l’année où il découvrit aussi l’astéroïde Perséphone. Wolf a été un pionnier de la recherche d’astéroïdes sur photographies plutôt qu’à l’œil. Arachné est un astéroïde sombre d’environ 97 km qui fait le tour du Soleil en 4,3 ans environ."
+    a: "Max Wolf, à Heidelberg, le 13 octobre 1895, l’année où il découvrit aussi l’astéroïde Perséphone. Wolf a été un pionnier de la recherche d’astéroïdes sur photographies plutôt qu’à l’œil. L’astéroïde, sombre, mesure environ 97 km et boucle le tour du Soleil en 4,3 ans environ."
   - q: "Quelle est l’histoire d’Arachné ?"
     a: "Chez Ovide, Arachné est une jeune femme de Lydie qui tissait si bien qu’elle refusait de devoir son talent à Minerve. La déesse vint la mettre en garde, déguisée en vieille femme, puis releva le défi. La tapisserie d’Arachné, sans défaut, montrait les dieux trompant des mortelles, et Minerve la mit en pièces."
   - q: "Arachné a-t-elle gagné le concours ?"
@@ -39,7 +39,7 @@ Le nom d’Arachné est tout simplement le mot grec pour « araignée », et s
 
 ## Ce que c’est {#ce-que-c-est}
 
-Arachné est un astéroïde sombre et carboné d’environ 97 km dans la ceinture principale, entre 2,4 et 2,8 fois la distance de la Terre au Soleil. Un tour lui prend environ 4,3 ans, et une rotation presque une journée entière, environ 22,6 heures. Entre 2002 et 2023, on l’a vu passer devant neuf étoiles.
+Sombre et carboné, Arachné mesure environ 97 km et se tient dans la ceinture principale, entre 2,4 et 2,8 fois la distance de la Terre au Soleil. Un tour lui prend environ 4,3 ans, et une rotation presque une journée entière, environ 22,6 heures. Entre 2002 et 2023, on l’a vu passer devant neuf étoiles.
 
 Max Wolf l’a découvert à Heidelberg le 13 octobre 1895, l’année où il a aussi trouvé [Perséphone (astéroïde 399)](/astrology/persephone-asteroid/), et il en a trouvé un autre la même nuit, 408 Fama. Wolf a été le pionnier de la recherche d’astéroïdes sur des photographies à longue pose, où ils apparaissent comme de petits traits parmi les étoiles, au lieu de les traquer à l’œil ; une fois sa méthode adoptée, le rythme des découvertes a fortement augmenté.
 
@@ -57,7 +57,7 @@ Je laisse Arachné de côté, et je demanderais à qui l’utilise de choisir av
 
 Son histoire comprend aussi une mort volontaire. Si cela touche quelque chose dans votre propre vie, parlez-en à quelqu’un dès maintenant : ma page Avertissements, en lien au bas de chaque page, donne des lignes d’écoute, et [Astrologie et santé mentale](/astrology/astrology-and-mental-health/) dit ce qu’un thème peut faire pour vous, et ce qu’il ne peut pas faire.
 
-Arachné a plaidé sa cause dans une tapisserie ; la mienne, c’est un carnet, et l’astéroïde n’y a pas un fil. Les placements que j’y ai vérifiés étaient le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)), et le système derrière mes lectures ne calcule pas les astéroïdes ([Ma méthode](/how-i-read/)). Si vous l’ajoutez à votre thème, tissez-le en dernier, après les planètes, et seulement là où il en touche une de près ([Lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+L’astéroïde n’a pas un fil dans mon carnet. J’y ai vérifié le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, un à un ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)) ; les astéroïdes ne font pas partie du système derrière mes lectures ([Ma méthode](/how-i-read/)). Si vous l’ajoutez à votre thème, tissez-le en dernier, après les planètes, et seulement là où il en touche une de près ([Lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Idées reçues {#idees-recues}
 

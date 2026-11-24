@@ -23,7 +23,7 @@ faq:
   - q: "What does Asbolus mean in astrology?"
     a: "The centaur carries the name of Asbolus, the sooty one, a centaur seer who read omens in the flight of birds and warned his kind against a fight they then lost. A prophet nobody heeded makes a tempting emblem, but nothing has tested this find of 1995, and I leave it out of readings."
   - q: "When was Asbolus discovered?"
-    a: "On 5 April 1995, by James Scotti and Robert Jedicke of the Spacewatch survey at Kitt Peak, Arizona. It is a centaur about 80 km across, and its name was published on 28 September 1999, the same day as that of Chariklo, another Spacewatch find."
+    a: "On 5 April 1995, by James Scotti and Robert Jedicke of the Spacewatch survey at Kitt Peak, Arizona. It is a centaur about 80 km across, and the Minor Planet Center published its name in September 1999, alongside that of Chariklo, another Spacewatch find."
   - q: "How long is the orbit of Asbolus?"
     a: "About 76 years. At its closest it comes 6.8 times the Earth’s distance from the Sun, between Jupiter and Saturn, as it did in July 2002; at its farthest, 29.1 times, almost as far as Neptune. It will next be closest in December 2078, and its orbit is hard to predict beyond a few thousand years."
   - q: "Who was Asbolus in Greek mythology?"
@@ -53,7 +53,7 @@ For anyone placing Asbolus in a chart, the restless orbit matters. At 76 years a
 
 ## In a reading {#in-a-reading}
 
-A seer nobody heeded makes a tempting emblem for warnings, and I don't read Asbolus as one, or as anything else. The system I built for my readings computes the planets, Chiron, Lilith and the lunar nodes, and of the centaurs only Chiron is there. The augur read birds; my notebook read placements, a tick or a cross for the Sun, the Moon, the rising sign, each planet, Chiron and Lilith ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)), and Asbolus had no line in it, so there's no figure to quote.
+A seer nobody heeded makes a tempting emblem for warnings, and I don't read Asbolus as one, or as anything else. My reading system computes the planets, Lilith, the lunar nodes and a single centaur, Chiron. In my notebook I scored the Sun, the Moon, the rising sign, each planet, Chiron and Lilith one by one ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)); Asbolus had no line there, so there's no figure to quote.
 
 If you meet it in someone's chart, it's worth remembering what kind of prophet Asbolus was: he named the danger in front of his friends and advised them; the choice was theirs. That's closer to what a reading should do than any forecast is ([How I read](/how-i-read/)).
 

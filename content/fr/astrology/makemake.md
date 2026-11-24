@@ -57,7 +57,7 @@ Dans un thème, Makemake compte parmi les corps les plus lents qu’on puisse pl
 
 Le nom de Makemake a été choisi pour s’accorder à un calendrier, et c’est la raison la plus claire que je puisse donner pour la laisser de côté. Un corps baptisé d’après un dieu de la fertilité parce qu’il a été trouvé près de Pâques ne peut rien dire de la fertilité de personne : rien dans un thème ne prédit une grossesse, et je n’en lis jamais un pour cela ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)).
 
-Elle n’a jamais été vérifiée non plus. Mon carnet a passé en revue le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, et les trois placements qui se sont détachés, Saturne, Chiron et Lilith, ont tenu 75 à 90 % du temps ([Les trois qui ont tenu](/blog/saturn-chiron-lilith/)). Une planète naine nommée en 2008 n’avait pas de ligne à côté d’eux, et le système derrière mes lectures ne la calcule pas ([Ma méthode](/how-i-read/)).
+Elle n’a jamais été vérifiée non plus. Dans mon carnet, Saturne, Chiron et Lilith ont tenu 75 à 90 % du temps ([Les trois qui ont tenu](/blog/saturn-chiron-lilith/)), mais ce carnet ne couvrait que le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, et Makemake n’a jamais été en lice. Mon système de lecture ne la calcule pas davantage ([Ma méthode](/how-i-read/)).
 
 ## Idées reçues {#idees-recues}
 

@@ -39,7 +39,7 @@ Apollo was found in 1932, then lost for 41 years. It has since given its name to
 
 ## What it is {#what-it-is}
 
-Apollo is a stony asteroid about 1.5 km across. Karl Reinmuth found it at Heidelberg on 24 April 1932, but it was lost and not recovered until 1973. Its orbit is stretched: at its closest it comes 0.65 times the Earth's distance from the Sun, inside the orbit of [Venus](/astrology/venus/); at its farthest, 2.3 times, beyond Mars. One circuit takes about 1.8 years. In 2005 radar from the Arecibo Observatory showed that it has a moon, about 80 metres across, circling only 3 km away.
+Apollo is a stony asteroid about 1.5 km across. Karl Reinmuth found it at Heidelberg on 24 April 1932, but it was lost and not recovered until 1973. Its orbit is stretched, dipping to 0.65 times the Earth's distance from the Sun, inside the orbit of [Venus](/astrology/venus/), and reaching out to 2.3 times, beyond Mars. One circuit takes about 1.8 years. In 2005 radar from the Arecibo Observatory showed that it has a moon, about 80 metres across, circling only 3 km away.
 
 It was the first of its kind to be recognised, and the whole group now carries its name. The Apollo asteroids are, on average, farther from the Sun than the Earth, but come in closer than the Earth's farthest point, so their paths cross ours; by January 2025 more than 21,000 were known, the largest group of near-Earth objects. Because Apollo was lost for so long, others were numbered before it: [Icarus](/astrology/icarus/), found in 1949, is number 1566.
 

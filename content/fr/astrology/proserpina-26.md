@@ -65,4 +65,4 @@ Si vous utilisez malgré tout Proserpine, vérifiez d’abord que votre logiciel
 - **« Proserpine est une déesse qui a son propre mythe, distinct. »** C’est Perséphone sous un nom latin, fondue à Rome avec une déesse plus ancienne, Libera.
 - **« La Proserpine de mon thème est forcément l’astéroïde. »** Ce peut être une planète fictive qui porte le même nom. Vérifiez le symbole et le numéro.
 - **« Elle passait un tiers de l’année sous terre. »** C’est le compte de l’hymne grec. Les versions latines, dont celle d’Ovide, disent la moitié.
-- **« Proserpine, c’est Pluton en plus petit. »** Les deux partagent un mythe. La planète figure dans mes lectures et dans mon carnet ; l’astéroïde, dans ni l’un ni l’autre.
+- **« Proserpine, c’est Pluton en plus petit. »** Les deux partagent un mythe, rien de plus : Pluton a eu une ligne dans mon carnet et garde une place dans mes lectures ; l’astéroïde n’a jamais eu ni l’une ni l’autre.

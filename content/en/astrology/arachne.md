@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["asteroids"]
 weight: 23
 glyph: "✦"
-definition: "Arachne (asteroid 407) is a dark main-belt asteroid about 97 km across, found by Max Wolf at Heidelberg in 1895 and named after the weaver who challenged Minerva and was turned into a spider. Her story comes to us mainly from Ovid; the asteroid brings nothing tested to a chart, and I leave it out of readings."
+definition: "Arachne (asteroid 407) is a dark main-belt asteroid about 97 km across, one of Max Wolf’s 1895 finds at Heidelberg. It bears the name of the weaver who challenged Minerva and was turned into a spider, a story told mainly by Ovid; the asteroid brings nothing tested to a chart, and I leave it out of readings."
 facts:
   - { k: "Type", v: "Main-belt asteroid, dark and carbonaceous, about 97 km across" }
   - { k: "Discovered", v: "13 October 1895, by Max Wolf at Heidelberg" }
@@ -23,7 +23,7 @@ faq:
   - q: "What does Arachne mean in astrology?"
     a: "The asteroid carries the name of the weaver of Ovid’s Metamorphoses, who challenged Minerva, wove the gods’ misdeeds into her cloth and was turned into a spider. Her story can be read as pride punished or as art silenced; I’d put neither on a person, and I leave the asteroid out of readings."
   - q: "Who discovered the asteroid Arachne?"
-    a: "Max Wolf, at Heidelberg, on 13 October 1895, the same year he found the asteroid Persephone. Wolf was a pioneer of finding asteroids on photographs rather than by eye. Arachne is a dark asteroid about 97 km across that goes round the Sun in about 4.3 years."
+    a: "Max Wolf, at Heidelberg, on 13 October 1895, the same year he found the asteroid Persephone. Wolf was a pioneer of finding asteroids on photographs rather than by eye. The asteroid is dark, about 97 km wide, and circles the Sun every 4.3 years or so."
   - q: "What is the story of Arachne?"
     a: "In Ovid, Arachne is a young woman of Lydia whose weaving was so fine that she denied owing it to Minerva. The goddess came disguised as an old woman to warn her, then took up the challenge. Arachne’s tapestry, flawless, showed the gods deceiving mortal women, and Minerva tore it apart."
   - q: "Did Arachne win the contest?"
@@ -38,7 +38,7 @@ Arachne's name is simply the Greek word for spider, and her story was told to ex
 
 ## What it is {#what-it-is}
 
-Arachne is a dark, carbonaceous asteroid about 97 km across in the main belt, between 2.4 and 2.8 times the Earth's distance from the Sun. One circuit takes about 4.3 years and one rotation nearly a full day, about 22.6 hours. Between 2002 and 2023 it was seen to pass in front of nine stars.
+Arachne is dark and carbonaceous, about 97 km wide, and keeps to the main belt, 2.4 to 2.8 times the Earth's distance from the Sun. One circuit takes about 4.3 years and one rotation nearly a full day, about 22.6 hours. Between 2002 and 2023 it was seen to pass in front of nine stars.
 
 Max Wolf found it at Heidelberg on 13 October 1895, the year he also found [Persephone (asteroid 399)](/astrology/persephone-asteroid/), and he found another, 408 Fama, the same night. Wolf pioneered the search for asteroids on long-exposure photographs, where they show as short streaks among the stars, instead of hunting them by eye; once his method took hold, the rate of discoveries rose sharply.
 
@@ -56,7 +56,7 @@ I leave Arachne out, and I'd ask anyone who uses it to be careful which half of 
 
 Her story also includes a death by her own hand. If that touches something in your own life, please talk to someone now: my Disclaimers page, linked at the foot of every page, lists helplines, and [Astrology and mental health](/astrology/astrology-and-mental-health/) says what a chart can and can't do for you.
 
-Arachne set out her case in a tapestry; mine is a notebook, and the asteroid has no thread in it. The placements I checked there were the Sun, the Moon, the rising sign, each planet, Chiron and Lilith ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)), and the system behind my readings doesn't compute asteroids ([How I read](/how-i-read/)). If you add it to your own chart, weave it in last, after the planets, and only where it touches one closely ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+The asteroid has no thread in my notebook. There I checked the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, one at a time ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)); asteroids aren't part of the system behind my readings ([How I read](/how-i-read/)). If you add it to your own chart, weave it in last, after the planets, and only where it touches one closely ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Common myths {#myths}
 

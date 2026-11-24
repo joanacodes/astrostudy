@@ -52,7 +52,7 @@ The orbit raises a second difficulty. Tilted 43°, almost as steeply as [Eris](/
 
 ## In a reading {#in-a-reading}
 
-Hidalgo isn't in my readings, and since a centaur is, I owe a reason. Chiron was on the list in my notebook, and with Saturn and Lilith it held far more often than anything else, 75 to 90% of the time ([The three that held](/blog/saturn-chiron-lilith/)). Being the first of its class doesn't give Hidalgo Chiron's record. It was never on the list, and the system I built for my readings computes no centaur but Chiron ([How I read](/how-i-read/)).
+Hidalgo isn't in my readings, and since a centaur is, I owe a reason. Of the placements in my notebook, Chiron was one of three, with Saturn and Lilith, that held 75 to 90% of the time, far more often than anything else ([The three that held](/blog/saturn-chiron-lilith/)). Being the first of its class doesn't give Hidalgo Chiron's record. It was never in that notebook, and the system I built for my readings computes no centaur but Chiron ([How I read](/how-i-read/)).
 
 If you place Hidalgo yourself, remember its 43° tilt before trusting any conjunction, decide in advance whether you'll use it at all, as with every name on the long list, [Karma](/astrology/karma/) among them, and never let it speak louder than the planets ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 

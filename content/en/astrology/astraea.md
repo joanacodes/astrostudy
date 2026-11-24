@@ -37,7 +37,7 @@ For 38 years after Vesta was found in 1807, no new asteroid turned up. Then a po
 
 ## What it is {#what-it-is}
 
-Astraea is a stony asteroid about 115 km across, with a bright, reflective surface, in the main belt between Mars and Jupiter. It goes round the Sun in about 4.1 years, between 2.1 and 3.1 times the Earth's distance, and turns on its axis in a little under 17 hours. A star it passed in front of on 6 June 2008 gave its width.
+Astraea measures about 115 km, and its stony surface is bright and reflective. It goes round the Sun in about 4.1 years, between 2.1 and 3.1 times the Earth's distance, inside the belt that lies between Mars and Jupiter, and turns on its axis in a little under 17 hours. A star it passed in front of on 6 June 2008 gave its width.
 
 Karl Ludwig Hencke, a German amateur astronomer who ran the post office at Driesen, found it on 8 December 1845 while looking for [Vesta](/astrology/vesta/). The King of Prussia rewarded him with a yearly pension of 1,200 marks. The find broke the long pause: eight more asteroids followed in the next five years and twenty-four in the five after that, and by the time [Kassandra](/astrology/kassandra/) was named, the list had passed a hundred. It also began the demotion of the first four, which had been counted as planets, once it was clear they were only the largest of a crowd.
 
@@ -53,7 +53,7 @@ The sky kept her scales next to her. Milton set God's golden scales "betwixt Ast
 
 ## In a reading {#in-a-reading}
 
-Astraea stays out of my readings. Her emblem is a pair of scales, and the nearest thing I own is my notebook, where I [weighed placement after placement](/blog/i-tested-my-birth-chart/), the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and found that about a third held overall. She was never put on those scales, and the system I built computes no asteroid, so she can't borrow a figure from the placements that were.
+Astraea stays out of my readings. About a third of the placements I [weighed in my notebook](/blog/i-tested-my-birth-chart/), the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, held overall. Astraea was never weighed there, and the system I built computes no asteroid, so she can't borrow a figure from the placements that were.
 
 It's also the asteroid most likely to tempt a neat story. Astraea in Virgo or in Libra can look like a goddess come home, and a homecoming is a pleasing thing to read into a chart. But the asteroid's sign comes from where it was when you were born, at about 4.1 years a circuit, so it's shared by many people born around the same time, and the constellations behind the signs have drifted away from them. A pleasing coincidence isn't a reason ([How I read](/how-i-read/)).
 

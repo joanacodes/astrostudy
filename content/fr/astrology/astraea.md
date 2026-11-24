@@ -38,7 +38,7 @@ Pendant 38 ans après la découverte de Vesta en 1807, aucun nouvel astéroïde 
 
 ## Ce que c’est {#ce-que-c-est}
 
-Astrée est un astéroïde rocheux d’environ 115 km, à la surface claire et réfléchissante, dans la ceinture principale, entre Mars et Jupiter. Il fait le tour du Soleil en 4,1 ans environ, entre 2,1 et 3,1 fois la distance de la Terre, et tourne sur lui-même en un peu moins de 17 heures. Une étoile devant laquelle il est passé le 6 juin 2008 a permis de mesurer sa largeur.
+Astrée mesure environ 115 km, et sa surface rocheuse est claire et réfléchissante. L’astéroïde fait le tour du Soleil en 4,1 ans environ, entre 2,1 et 3,1 fois la distance de la Terre, dans la ceinture qui s’étend entre Mars et Jupiter, et tourne sur lui-même en un peu moins de 17 heures. Une étoile devant laquelle il est passé le 6 juin 2008 a permis de mesurer sa largeur.
 
 Karl Ludwig Hencke, astronome amateur allemand qui dirigeait le bureau de poste de Driesen, l’a découvert le 8 décembre 1845 alors qu’il cherchait [Vesta](/astrology/vesta/). Le roi de Prusse l’a récompensé d’une pension annuelle de 1 200 marks. La découverte a rompu la longue pause : huit autres astéroïdes ont suivi dans les cinq années suivantes, vingt-quatre dans les cinq d’après, et quand [Cassandre](/astrology/kassandra/) a reçu son nom, la liste dépassait la centaine. Elle a aussi amorcé le déclassement des quatre premiers, comptés jusque-là parmi les planètes, une fois qu’il est devenu clair qu’ils n’étaient que les plus grands d’une foule.
 
@@ -54,7 +54,7 @@ Le ciel a gardé sa balance à côté d’elle. Milton place la balance d’or d
 
 ## Dans une lecture {#dans-une-lecture}
 
-Astrée reste en dehors de mes lectures. Son emblème est une balance, et ce que j’ai de plus proche, c’est mon carnet, où j’ai [pesé un placement après l’autre](/blog/i-tested-my-birth-chart/), le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, pour constater qu’environ un tiers tenait au total. Elle n’est jamais passée sur cette balance, et le système que j’ai construit ne calcule aucun astéroïde : elle ne peut pas emprunter le chiffre des placements qui y sont passés.
+Astrée reste en dehors de mes lectures. Environ un tiers des placements que j’ai [pesés dans mon carnet](/blog/i-tested-my-birth-chart/), le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, a tenu au total. Astrée n’y a jamais été pesée, et le système que j’ai construit ne calcule aucun astéroïde : elle ne peut pas emprunter le chiffre des placements qui, eux, l’ont été.
 
 C’est aussi l’astéroïde le plus susceptible d’inspirer une jolie histoire. Astrée en Vierge ou en Balance peut ressembler à une déesse rentrée chez elle, et ce retour au foyer est plaisant à lire dans un thème. Mais le signe de l’astéroïde vient de sa position à votre naissance, avec un tour en 4,1 ans environ : beaucoup de personnes nées à peu près en même temps le partagent, et les constellations derrière les signes s’en sont éloignées. Une coïncidence plaisante n’est pas une raison ([Ma méthode](/how-i-read/)).
 
