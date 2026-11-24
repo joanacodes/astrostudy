@@ -6,6 +6,8 @@ description: "Le Nœud Nord de l’autre dans votre maison 9 en synastrie : une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Nœud Nord", "maison 9", "synastrie", "superpositions de maisons"]
 weight: 153
 glyph: "☊"
 definition: "Le Nœud Nord de l’autre dans votre maison 9 oriente la croissance de cette personne vers vos convictions, vos études et vos longs voyages, et laisse son Nœud Sud dans votre maison 3. Près de vous, elle essaie une vision du monde à elle ; bavarder de faits et de courses avec vous ne lui coûte rien : c’est son refuge."

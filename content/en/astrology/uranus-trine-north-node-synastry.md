@@ -5,6 +5,8 @@ description: "Uranus trine North Node in synastry: one person’s appetite for c
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "North Node", "trine", "synastry"]
 weight: 339
 glyph: "♅△☊"
 definition: "Uranus trine North Node in synastry means one person’s Uranus is about 120° from the other’s North Node, within 3.4°, and so 60° from their South Node. One person’s appetite for change runs with the other’s direction of growth, making the new feel light. Reckoned with the true node, it belongs to the houses more than to the pair."

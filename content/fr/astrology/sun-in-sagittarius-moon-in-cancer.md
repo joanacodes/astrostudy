@@ -6,6 +6,8 @@ description: "Soleil en Sagittaire, Lune en Cancer : un quinconce, la Lune chez
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Sagittaire", "Lune", "Cancer"]
 weight: 100
 glyph: "☉♐☽♋"
 definition: "Soleil en Sagittaire, Lune en Cancer relie le feu mutable et l’eau cardinale par un quinconce, pour une naissance dans les jours qui suivent une pleine lune. La Lune est dans son propre signe, où Jupiter, maître du Soleil, a son exaltation. J’y lis une vie de voyage avec un port d’attache : un moi large qui grandit en prenant soin."

@@ -5,6 +5,8 @@ description: "Jupiter trine Lilith in synastry: one person’s outlook has room 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Lilith", "trine", "synastry"]
 weight: 279
 glyph: "♃△⚸"
 definition: "Jupiter trine Lilith in synastry means one person’s Jupiter is about 120° from the other’s Black Moon Lilith, within 4.25°, usually in one element. One person’s sense of meaning makes easy room for the part of the other that learned to hide. I read it as permission that flows, best taken out of the room it was found in."

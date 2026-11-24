@@ -5,6 +5,8 @@ description: "Sun in Capricorn, Moon in Cancer: opposite cardinal signs near the
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Capricorn", "Moon", "Cancer"]
 weight: 112
 glyph: "☉♑☽♋"
 definition: "Sun in Capricorn, Moon in Cancer sets the lights on the cardinal axis of earth and water, at a birth near a full moon, most often the full moon in Cancer. The Moon is in its own sign; Saturn, the Sun’s ruler, is in its detriment there. I read it as the hearth facing the world, each needing the other."

@@ -5,6 +5,8 @@ description: "Venus sextile Neptune in synastry: quiet kindness and imagination 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Neptune", "sextile", "synastry"]
 weight: 187
 glyph: "♀⚹♆"
 definition: "Venus sextile Neptune in synastry means one person’s Venus is about 60° from the other’s Neptune, within 3.6°. The second person’s empathy reaches the first’s tastes, and the first gives the second’s imaginings a lovely, practical form. I read it as gentle cooperation that works best once someone gives it a date."

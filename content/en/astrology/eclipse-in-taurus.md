@@ -5,6 +5,8 @@ description: "Eclipses in Taurus: thirteen from 2000 to 2040, mostly lunar, on t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["eclipses", "Taurus"]
 weight: 2
 glyph: "●♉"
 definition: "Eclipses in Taurus are the solar eclipses whose Sun and Moon meet in Taurus and the lunar ones whose full Moon stands in Taurus, opposite a Scorpio Sun. Thirteen fall between 2000 and 2040, most of them lunar. In a chart I read one only within about three degrees of a natal point, as emphasis."

@@ -6,6 +6,8 @@ description: "Saturne de l’autre dans votre maison 10 en synastrie : autorit�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "maison 10", "synastrie", "superpositions de maisons"]
 weight: 82
 glyph: "♄"
 definition: "Saturne de l’autre dans votre maison 10 fait présider Saturne, chez une autre personne, à votre carrière et à votre réputation, tout en haut de votre thème. En synastrie, cela ressemble à du mentorat ou à de la supervision : vos ambitions prises au sérieux, tenues à une haute exigence, et l’autre comptable de votre place dans le monde."

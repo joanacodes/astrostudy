@@ -6,6 +6,8 @@ description: "Jupiter trigone Nœud Nord en synastrie : le regard de l’une re
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Nœud Nord", "trigone", "synastrie"]
 weight: 284
 glyph: "♃△☊"
 definition: "Jupiter trigone Nœud Nord en synastrie signifie que Jupiter, chez une personne, se trouve à environ 120° du Nœud Nord de l’autre, à 4,25° près, donc à environ 60° de son Nœud Sud. Le regard de l’une soutient, facilement, ce que l’autre apprend. J’y lis un encouragement qui coule, à condition de laisser la pratique à qui elle appartient."

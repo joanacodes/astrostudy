@@ -5,6 +5,8 @@ description: "The T-square in astrology: an opposition with a third planet squar
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["square", "aspect patterns"]
 weight: 4
 glyph: "□"
 definition: "A T-square is two planets in opposition, both square a third, the focal planet at the apex. It draws a T across the chart, with an open side where a fourth corner would be. It describes tension that gathers in one place and pushes for action. Roughly 3 charts in 10 hold one."

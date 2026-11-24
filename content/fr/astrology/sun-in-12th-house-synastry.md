@@ -6,6 +6,8 @@ description: "Le Soleil de l’autre dans votre maison 12 en synastrie : son é
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "maison 12", "synastrie", "superpositions de maisons"]
 weight: 12
 glyph: "☉"
 definition: "Le Soleil de l’autre dans votre maison 12 fait tomber son Soleil dans la fin silencieuse de votre thème : la solitude, le repos, la vie intérieure, ce que vous portez sans le dire. En synastrie, son élan rejoint votre part discrète : cette personne peut sembler familière et reposante, et perçoit des pans de vous que peu de gens voient."

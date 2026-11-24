@@ -5,6 +5,8 @@ description: "Their Saturn in your 6th house in synastry: their discipline in yo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "6th house", "synastry", "house overlays"]
 weight: 78
 glyph: "♄"
 definition: "Their Saturn in your 6th house places another person’s Saturn among your routines, tasks and habits, the working machinery of your week. In synastry their discipline meets your daily round: you may get more done and keep better habits with them, while they tend to feel responsible for how your days run. It says nothing about health."

@@ -6,6 +6,8 @@ description: "Pluton en transit en maison 1 : quatorze ans environ, en généra
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Pluton", "maison 1", "transits"]
 weight: 49
 glyph: "♇"
 definition: "Pluton en transit en maison 1 commence quand Pluton atteint votre ascendant et dure en général, à la latitude de Londres, quatorze ans environ. La planète de la profondeur et du pouvoir travaille la personne que vous montrez d’abord : ce que vous laissez voir, ce que vous cachez, et qui décide de qui vous êtes. Le changement vient du dedans."

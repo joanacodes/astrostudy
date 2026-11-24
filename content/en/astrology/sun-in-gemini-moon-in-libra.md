@@ -5,6 +5,8 @@ description: "Sun in Gemini, Moon in Libra: air trine air, Mercury and Venus, bo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini", "Moon", "Libra"]
 weight: 31
 glyph: "☉♊☽♎"
 definition: "Sun in Gemini, Moon in Libra puts both lights in air, the Moon four signs ahead, at a birth between the eighth and twelfth days of the lunar month. I read it as a sociable, curious self whose needs rest on even exchanges: a mind that loves a good conversation, and a heart that wants it balanced."

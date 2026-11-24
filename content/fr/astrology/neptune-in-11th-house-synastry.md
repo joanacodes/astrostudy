@@ -6,6 +6,8 @@ description: "Neptune de l’autre dans votre maison 11 en synastrie : son idé
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "maison 11", "synastrie", "superpositions de maisons"]
 weight: 107
 glyph: "♆"
 definition: "Neptune de l’autre dans votre maison 11 porte Neptune, chez cette personne, jusqu’à vos amitiés, vos groupes et vos espoirs d’avenir. En synastrie, son idéal entre dans votre cercle : l’amitié ressemble à une parenté, les causes à des vocations, et l’autre trouve parmi vos proches la communauté espérée. Les rêves partagés ont pourtant besoin de plans pour atterrir."

@@ -6,6 +6,8 @@ description: "Neptune conjonction Lilith en synastrie : l’imagination de l’
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Lilith", "conjonction", "synastrie"]
 weight: 351
 glyph: "♆☌⚸"
 definition: "En synastrie, Neptune conjonction Lilith réunit, à 4° près, Neptune d’un thème et la Lune noire Lilith moyenne d’un autre. L’imagination de l’une enveloppe la part que l’autre a appris à taire, pour l’honorer ou en faire un mythe. Ce contact appartient à toute une période de naissances : ses maisons m’en disent plus que l’aspect."

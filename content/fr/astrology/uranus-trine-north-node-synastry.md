@@ -6,6 +6,8 @@ description: "Uranus trigone Nœud Nord en synastrie : le goût du changement d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Nœud Nord", "trigone", "synastrie"]
 weight: 339
 glyph: "♅△☊"
 definition: "Uranus trigone Nœud Nord en synastrie signifie qu’Uranus d’une personne se trouve à environ 120° du Nœud Nord de l’autre, à 3,4° près, donc à 60° de son Nœud Sud. Le goût du changement de l’une accompagne la croissance de l’autre et allège le neuf. Calculé avec le nœud vrai, il appartient aux maisons plus qu’à la paire."

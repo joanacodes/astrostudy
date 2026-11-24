@@ -5,6 +5,8 @@ description: "Their Venus in your 11th house in synastry: affection that fits in
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "11th house", "synastry", "house overlays"]
 weight: 47
 glyph: "♀"
 definition: "Their Venus in your 11th house warms your circle: the other person’s affection reaches your friends, your groups and your hopes for the future. In synastry there is usually a real friendship in the bond, whatever else it is, though affection spread across a group can run thin. Its old name, the Good Spirit, still fits."

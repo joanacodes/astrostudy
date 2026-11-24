@@ -5,6 +5,8 @@ description: "Sun in Pisces, Moon in Virgo: a mutable opposition near a full moo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pisces", "Moon", "Virgo"]
 weight: 138
 glyph: "☉♓☽♍"
 definition: "Sun in Pisces, Moon in Virgo puts the lights in opposite mutable signs, water facing earth, close to a full moon. I read a self that takes in the whole of things through feeling and imagining, and a Moon that rests once each part has a name and a place."

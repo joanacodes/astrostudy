@@ -6,6 +6,8 @@ description: "La Lune progressée en Gémeaux : deux ans environ à avoir besoi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "Lune progressée", "progressions", "Gémeaux"]
 weight: 3
 glyph: "☽♊"
 definition: "Dans les progressions secondaires, où un jour vaut un an, la Lune progressée en Gémeaux couvre deux ans à deux ans et demi de votre vie. J’y lis un chapitre où l’on comprend ses émotions en les nommant : la conversation, la lecture et les nouveaux liens deviennent des façons de prendre soin de soi."

@@ -6,6 +6,8 @@ description: "Mars opposition Neptune en synastrie : l’une agit, l’autre im
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Neptune", "opposition", "synastrie"]
 weight: 230
 glyph: "♂☍♆"
 definition: "Mars opposition Neptune en synastrie signifie que Mars, chez une personne, fait face à Neptune chez l’autre, à 6° près. L’une devient souvent celle qui fait, l’autre celle qui rêve, chacune tenant ce que l’autre pratique moins. J’y lis une balançoire qu’on fait bouger à tour de rôle, jamais deux personnes qui tirent en sens contraire."

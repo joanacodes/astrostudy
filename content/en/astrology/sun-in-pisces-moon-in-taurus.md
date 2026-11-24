@@ -5,6 +5,8 @@ description: "Sun in Pisces, Moon in Taurus: water and earth a sextile apart, th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pisces", "Moon", "Taurus"]
 weight: 134
 glyph: "☉♓☽♉"
 definition: "Sun in Pisces, Moon in Taurus sets the Moon two signs ahead of the Sun, in its exaltation, a few days after a new moon. Venus rules the Moon’s sign and is exalted in the Sun’s. I read an imaginative, devoted self resting on needs that ask how anything can be made to last."

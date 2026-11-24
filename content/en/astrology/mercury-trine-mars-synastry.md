@@ -5,6 +5,8 @@ description: "Mercury trine Mars in synastry: one person’s plan becomes the ot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "Mars", "trine", "synastry"]
 weight: 124
 glyph: "☿△♂"
 definition: "Mercury trine Mars in synastry means one person’s Mercury is about 120° from the other’s Mars, within 5.1°, usually in signs of one element. What one person thinks and says passes to the other’s drive without resistance, so plans become deeds. I read it as an easy relay, worth slowing at the costly moments."

@@ -5,6 +5,8 @@ description: "Sun in Scorpio, Moon in Scorpio: both lights in fixed water near t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Scorpio", "Moon"]
 weight: 92
 glyph: "☉♏☽♏"
 definition: "Sun in Scorpio, Moon in Scorpio places both lights in the same fixed water sign around the new moon in Scorpio, the lights at most 30° apart and the Moon in its fall. I read it as one long dive: an identity and needs that both go to the depths, and both want the truth."

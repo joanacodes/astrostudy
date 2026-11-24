@@ -5,6 +5,8 @@ description: "Mars retrograde in Gemini: the loops of 2007–08, 2022–23 and 2
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mars", "retrograde", "Mars retrograde", "Gemini"]
 weight: 27
 glyph: "♂℞♊"
 definition: "Mars retrograde in Gemini is Mars, seen from Earth, backing through Gemini for ten or eleven weeks between October and January: three times from 2000 to 2040, most recently from October 2022 to January 2023. I read it as drive spent in words, debates and parallel plans turning back, in the house Gemini occupies in your chart."

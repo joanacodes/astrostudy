@@ -6,6 +6,8 @@ description: "Mercure de l’autre dans votre maison 6 en synastrie : un esprit
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 30
 glyph: "☿"
 definition: "Mercure de l’autre dans votre maison 6 tourne l’esprit pratique de cette personne vers vos tâches de tous les jours, vos routines, vos méthodes. En synastrie, elle remarque comment vos journées tournent et propose mieux, et travailler à ses côtés affûte votre méthode ; la Vierge, signe naturel de la maison 6, est gouvernée par Mercure et en est aussi l’exaltation."

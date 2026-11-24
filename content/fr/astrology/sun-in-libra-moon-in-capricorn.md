@@ -6,6 +6,8 @@ description: "Soleil en Balance, Lune en Capricorne : deux signes cardinaux en 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Balance", "Lune", "Capricorne"]
 weight: 82
 glyph: "☉♎☽♑"
 definition: "Soleil en Balance, Lune en Capricorne réunit l’air cardinal et la terre cardinale en carré, cinq à dix jours après une nouvelle lune, avec l’exaltation de Saturne dans le signe du Soleil et sa maîtrise sur celui de la Lune. Je lis là un moi qui négocie des termes justes, avec des besoins rassurés dès qu’un plan tient."

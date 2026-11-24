@@ -5,6 +5,8 @@ description: "Pluto transiting the 8th house: around twenty-four years of deeper
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "8th house", "transits"]
 weight: 56
 glyph: "♇"
 definition: "Pluto transiting the 8th house is Pluto’s long stay, about twenty-four years in the middle at London’s latitude, in your house of intimacy, trust and what you share with others. It asks how deeply you let people in, and on what terms. It forecasts no death and no money, gained or lost."

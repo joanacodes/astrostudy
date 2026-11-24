@@ -6,6 +6,8 @@ description: "Pluton sextile Lilith en synastrie : la profondeur de l’une inv
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Lilith", "sextile", "synastrie"]
 weight: 367
 glyph: "♇⚹⚸"
 definition: "Avec Pluton sextile Lilith en synastrie, Pluton se trouve, dans un premier thème, à 60° environ de la Lune noire Lilith moyenne d’un second, à 2,4° près. La profondeur de l’une invite la part indomptée de l’autre à sortir de sa cachette. J’y lis une invitation à se dévoiler, qui ne marche que si les deux l’acceptent."

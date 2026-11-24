@@ -6,6 +6,8 @@ description: "Uranus en transit en maison 7 : environ sept ans de liberté et d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Uranus", "maison 7", "transits"]
 weight: 31
 glyph: "♅"
 definition: "Uranus en transit en maison 7, c’est la planète de la liberté au travail dans votre maison des partenaires, sept ans environ en général à partir du jour où votre descendant est franchi. Ce transit remue votre façon d’entrer en relation : plus d’indépendance dans les liens proches, des termes renégociés, une autre idée du couple. Aucune séparation n’y est prédite."

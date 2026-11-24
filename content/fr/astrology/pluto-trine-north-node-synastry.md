@@ -6,6 +6,8 @@ description: "Pluton trigone Nœud Nord en synastrie : la profondeur de l’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Nœud Nord", "trigone", "synastrie"]
 weight: 374
 glyph: "♇△☊"
 definition: "Pluton trigone Nœud Nord en synastrie relie Pluton d’un thème au Nœud Nord d’un autre par un trigone, à 3,4° près, et à son Nœud Sud par un sextile. La capacité de renouveau de l’une porte la croissance de l’autre sans lui retirer ses forces anciennes. J’y lis un soutien ; marcher reste l’affaire de l’autre."

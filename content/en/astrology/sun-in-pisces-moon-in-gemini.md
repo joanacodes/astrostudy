@@ -5,6 +5,8 @@ description: "Sun in Pisces, Moon in Gemini: a mutable square near the first qua
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pisces", "Moon", "Gemini"]
 weight: 135
 glyph: "☉♓☽♊"
 definition: "Sun in Pisces, Moon in Gemini sets the Moon three signs ahead of the Sun, both lights in mutable signs, around the first quarter moon. I read a self shaped by imagination and compassion, with feelings that settle once they have been put into words and shared with someone."

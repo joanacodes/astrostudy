@@ -6,6 +6,8 @@ description: "L’Anti-Vertex en astrologie : le point exactement opposé au Ve
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "angles"
+categories: ["Planètes et points"]
+tags: ["Vertex", "points sensibles"]
 weight: 15
 glyph: "✦"
 definition: "L’Anti-Vertex est le second endroit où le premier vertical croise le zodiaque, toujours exactement opposé au Vertex : même degré, signe opposé. Il se calcule, il ne se voit pas, et tourne aussi vite que les angles. Les astrologues qui l’emploient le lisent comme l’autre bout d’un même axe avec le Vertex, plutôt que seul."

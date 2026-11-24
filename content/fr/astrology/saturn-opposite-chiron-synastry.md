@@ -6,6 +6,8 @@ description: "Saturne opposition Chiron en synastrie : la compétence de l’un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Chiron", "opposition", "synastrie"]
 weight: 305
 glyph: "♄☍⚷"
 definition: "Saturne opposition Chiron en synastrie place Saturne d’une personne de l’autre côté du zodiaque par rapport à Chiron chez l’autre, à 5° près. La compétence se tient à un bout, une limite durable et le savoir-faire bâti autour à l’autre, et chacune voit ce que l’autre porte. J’y lis une balançoire de rôles, jamais la force contre la faiblesse."

@@ -5,6 +5,8 @@ description: "Venus sextile Lilith in synastry: one person’s delight gives the
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Lilith", "sextile", "synastry"]
 weight: 202
 glyph: "♀⚹⚸"
 definition: "Venus sextile Lilith in synastry is one person’s Venus about 60° from the other’s mean Black Moon Lilith, within 3.6°, usually two signs apart. What the first enjoys makes a light opening for what the second keeps in. I read it as an invitation in good humour: real, and only as useful as the use made of it."

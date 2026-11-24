@@ -5,6 +5,8 @@ description: "Sun in Scorpio, Moon in Cancer: a water trine with the Moon at hom
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Scorpio", "Moon", "Cancer"]
 weight: 88
 glyph: "☉♏☽♋"
 definition: "Sun in Scorpio, Moon in Cancer joins two water signs a trine apart, with the Moon in the sign it rules, several days after a full moon. I take it as a self that gets to the bottom of things, held by needs that settle at home, among its own people and memories."

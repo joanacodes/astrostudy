@@ -6,6 +6,8 @@ description: "Le Soleil de l’autre dans votre maison 1 en synastrie : son él
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 1
 glyph: "☉"
 definition: "Le Soleil de l’autre dans votre maison 1 signifie que le Soleil de cette personne tombe dans votre première maison, celle du moi que vous montrez d’abord. En synastrie, son élan rencontre votre allure et votre façon de commencer : à ses côtés, vous gagnez en présence, et cette personne reconnaît en vous une part de sa propre direction."

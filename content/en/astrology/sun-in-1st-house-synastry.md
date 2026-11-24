@@ -5,6 +5,8 @@ description: "Their Sun in your 1st house in synastry: their purpose meeting the
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "1st house", "synastry", "house overlays"]
 weight: 1
 glyph: "☉"
 definition: "Their Sun in your 1st house means the other person’s Sun falls in your first house, the self you lead with. In synastry it describes their purpose meeting your manner and your first moves: you tend to feel more awake and visible with them, and they see something of their own direction in you."

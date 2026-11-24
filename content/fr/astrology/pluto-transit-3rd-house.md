@@ -6,6 +6,8 @@ description: "Pluton en transit en maison 3 : dix-neuf ans environ où penser, 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Pluton", "maison 3", "transits"]
 weight: 51
 glyph: "♇"
 definition: "Pluton en transit en maison 3, c’est le long passage de Pluton, dix-neuf ans environ au milieu à la latitude de Londres, dans votre maison des mots, de la fratrie, du voisinage et des apprentissages du quotidien. Votre façon de penser et de parler y gagne en profondeur : moins de politesses, plus de ce que vous voulez vraiment dire."

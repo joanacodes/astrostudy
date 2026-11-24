@@ -6,6 +6,8 @@ description: "Soleil en Scorpion, Lune en Poissons : un trigone d’eau passé 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Scorpion", "Lune", "Poissons"]
 weight: 96
 glyph: "☉♏☽♓"
 definition: "Soleil en Scorpion, Lune en Poissons place les deux luminaires dans l’eau, en trigone par signe, plus d’une semaine après la nouvelle lune. J’y vois une identité qui ressent une chose jusqu’au fond, avec des besoins qui captent l’atmosphère de toute une pièce et s’apaisent dans le calme, l’imagination et la confiance."

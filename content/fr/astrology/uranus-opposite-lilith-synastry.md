@@ -6,6 +6,8 @@ description: "Uranus opposition Lilith en synastrie : la différence affichée 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Lilith", "opposition", "synastrie"]
 weight: 335
 glyph: "♅☍⚸"
 definition: "Uranus opposition Lilith en synastrie signifie qu’Uranus, chez une personne, fait face à la Lune noire Lilith de l’autre, à environ 180°, à 4° près. L’une joue l’envie de se différencier, l’autre le refus et l’instinct gardé, et chacune voit dans l’autre un bout d’elle-même. La Lilith moyenne le date ; les maisons portent sa lecture."

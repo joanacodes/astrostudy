@@ -5,6 +5,8 @@ description: "The progressed Moon in Scorpio: about two years and four months in
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressed Moon", "progressions", "Scorpio"]
 weight: 8
 glyph: "☽♏"
 definition: "The progressed Moon in Scorpio names the two to two and a half years in which the Moon of your progressed chart crosses Scorpio, the sign tradition calls the Moon’s fall. I read it as a chapter of depth: feelings held longer and felt more fully, a need for trust and truth, and change that works from the inside."

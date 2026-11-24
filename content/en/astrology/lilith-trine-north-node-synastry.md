@@ -5,6 +5,8 @@ description: "Lilith trine North Node in synastry: one person’s untamed side e
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "North Node", "trine", "synastry"]
 weight: 389
 glyph: "⚸△☊"
 definition: "Lilith trine North Node in synastry joins one person’s Black Moon Lilith and another person’s North Node by a trine of about 120°, within 2.55°, which leaves that Lilith 60° from their South Node. The untamed side of one tends to encourage the other’s growth. I read it as permission, worth checking against practice."

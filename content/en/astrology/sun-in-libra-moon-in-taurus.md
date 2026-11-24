@@ -5,6 +5,8 @@ description: "Sun in Libra, Moon in Taurus: Venus rules both lights, the Moon ex
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra", "Moon", "Taurus"]
 weight: 74
 glyph: "☉♎☽♉"
 definition: "Sun in Libra, Moon in Taurus joins two signs ruled by Venus, with the Moon at its exaltation and the Sun in its fall, with the full moon a few days gone. I read it as a self that looks for the fair arrangement between people, steadied by needs that look for what is durable, familiar and unhurried."

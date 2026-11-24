@@ -6,6 +6,8 @@ description: "Soleil en Capricorne, Lune en Taureau : un trigone de terre, la L
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Capricorne", "Lune", "Taureau"]
 weight: 110
 glyph: "☉♑☽♉"
 definition: "Soleil en Capricorne, Lune en Taureau associe la terre cardinale et la terre fixe en trigone par signe, pour une naissance sept jours et demi à douze jours après une nouvelle lune. La Lune est exaltée en Taureau. J’y vois une personne qui bâtit, aux besoins qui entretiennent ce qui est bâti : stable des deux côtés."

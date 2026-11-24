@@ -5,6 +5,8 @@ description: "Pluto transiting the 11th house: about eighteen years of deeper fr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "11th house", "transits"]
 weight: 59
 glyph: "♇"
 definition: "Pluto transiting the 11th house is Pluto’s stay, about eighteen years in the middle at London’s latitude, in your house of friends, groups and hopes for the future. It sorts companionship from habit and wishes from real aims: the circles that remain tend to be deeper, and the plans you keep more truly yours."

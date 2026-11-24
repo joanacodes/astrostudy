@@ -5,6 +5,8 @@ description: "Eclipses in Scorpio: fifteen from 2000 to 2040 on the Scorpio–Ta
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["eclipses", "Scorpio"]
 weight: 8
 glyph: "●♏"
 definition: "In Scorpio, an eclipse is either a new moon near the nodes, with the Sun and Moon joined in Scorpio, or a full moon, with the Moon in Scorpio and the Sun in Taurus. Fifteen fall between 2000 and 2040. None counts in a chart outside about three degrees of a natal point, and none is an omen."

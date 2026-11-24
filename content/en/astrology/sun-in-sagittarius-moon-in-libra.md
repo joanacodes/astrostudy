@@ -5,6 +5,8 @@ description: "Sun in Sagittarius, Moon in Libra: a sextile by sign with Jupiter 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Sagittarius", "Moon", "Libra"]
 weight: 103
 glyph: "☉♐☽♎"
 definition: "Sun in Sagittarius, Moon in Libra puts the Moon two signs behind the Sun, a sextile by sign between mutable fire and cardinal air, at a birth near the last quarter. Jupiter rules the Sun’s sign and Venus the Moon’s. I read it as candour that wants to be fair: the truth, said so that the friendship survives it."

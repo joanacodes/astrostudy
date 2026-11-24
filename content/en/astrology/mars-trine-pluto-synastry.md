@@ -5,6 +5,8 @@ description: "Mars trine Pluto in synastry: drive in one person and depth in the
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Pluto", "trine", "synastry"]
 weight: 234
 glyph: "♂△♇"
 definition: "Mars trine Pluto in synastry means one person’s Mars and the other’s Pluto usually share an element, sitting about 120° apart within 5.1°. Drive and depth support each other, so the two can keep going through long, demanding work. I read it as shared stamina, strength that backs rather than competes, which still needs saying who steers."

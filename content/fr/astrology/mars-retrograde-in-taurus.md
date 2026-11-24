@@ -6,6 +6,8 @@ description: "Mars rétrograde en Taureau : les boucles d’automne de 2005 et 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mars", "rétrograde", "Mars rétrograde", "Taureau"]
 weight: 26
 glyph: "♂℞♉"
 definition: "Mars rétrograde en Taureau, c’est le recul apparent de Mars, vu de la Terre, dans le Taureau pendant une dizaine de semaines d’automne : d’octobre à décembre 2005, entièrement dans le signe, puis d’octobre à décembre 2037. J’y lis l’effort tenace remis en question, ce que vous poursuivez et pourquoi, dans la maison qu’occupe le Taureau dans votre thème."

@@ -5,6 +5,8 @@ description: "Their Moon in your 8th house in synastry: their feelings in your i
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "8th house", "synastry", "house overlays"]
 weight: 20
 glyph: "☽"
 definition: "Their Moon in your 8th house takes the other person’s feelings into the most private part of your chart, where intimacy, trust and joint matters live. In synastry the emotional bond tends to run deep and change you both, and they feel safe only once trust is real; it is never a forecast of loss."

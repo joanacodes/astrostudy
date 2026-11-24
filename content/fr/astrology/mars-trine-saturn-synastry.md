@@ -6,6 +6,8 @@ description: "Mars trigone Saturne en synastrie : l’effort de l’une et le s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Saturne", "trigone", "synastrie"]
 weight: 219
 glyph: "♂△♄"
 definition: "Mars trigone Saturne en synastrie signifie que Mars, chez une personne, se trouve à environ 120° de Saturne chez l’autre. L’effort de la première et la structure de la seconde avancent au même pas : le travail commence et se termine. J’y lis une coopération fiable, au mieux quand les rôles restent ouverts."

@@ -6,6 +6,8 @@ description: "Lilith de l’autre dans votre maison 8 en synastrie : une franch
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 140
 glyph: "⚸"
 definition: "Lilith de l’autre dans votre maison 8 attire sa Lune noire Lilith moyenne dans votre maison de l’intimité, de la confiance et du partage. En synastrie, sa vérité sans fard rencontre votre proximité : les demi-vérités cessent de fonctionner, et vos limites peuvent la libérer ou la provoquer. Rien n’y prédit le sexe, la perte ou la mort."

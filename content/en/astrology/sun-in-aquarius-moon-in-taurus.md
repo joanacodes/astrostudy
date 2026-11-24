@@ -5,6 +5,8 @@ description: "Sun in Aquarius, Moon in Taurus: the only pair with the Sun in its
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aquarius", "Moon", "Taurus"]
 weight: 122
 glyph: "☉♒☽♉"
 definition: "Sun in Aquarius, Moon in Taurus sets the Moon three signs ahead of the Sun, in Taurus, around the first quarter, and it is the only pair to put the Sun in its detriment and the Moon in its exaltation. To me it is a self that pictures a different future, resting on needs that keep what works."

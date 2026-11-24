@@ -5,6 +5,8 @@ description: "Sun in Capricorn, Moon in Leo: a quincunx, the Moon ruled by the S
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Capricorn", "Moon", "Leo"]
 weight: 113
 glyph: "☉♑☽♌"
 definition: "Sun in Capricorn, Moon in Leo joins cardinal earth and fixed fire by a quincunx, at a birth within five days after a full moon. The Sun rules the Moon’s sign, and Saturn, the Sun’s ruler, has its detriment in Leo. I read it as a dutiful self with a warm light inside, learning to let it be seen."

@@ -6,6 +6,8 @@ description: "Uranus de l’autre dans votre maison 3 en synastrie : idées sou
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 87
 glyph: "♅"
 definition: "Uranus de l’autre dans votre maison 3 branche Uranus, chez une autre personne, sur vos échanges de tous les jours : conversations, messages, courses, apprentissages et entourage proche. En synastrie, la parole fait des étincelles, votre pensée prend de l’avance et vous adoptez de nouveaux outils, tandis que l’autre sent son esprit libéré par le vôtre. Parfois, tout s’éparpille."

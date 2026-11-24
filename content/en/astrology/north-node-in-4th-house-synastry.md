@@ -5,6 +5,8 @@ description: "Their North Node in your 4th house in synastry: learning to belong
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["North Node", "4th house", "synastry", "house overlays"]
 weight: 148
 glyph: "☊"
 definition: "Their North Node in your 4th house places the way the other person is growing at the root of your chart, in your home and private life, with their South Node at the top, in your 10th. They tend to learn belonging and rest in your private world, and to feel competent at once in your public one."

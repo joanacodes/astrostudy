@@ -6,6 +6,8 @@ description: "Saturne sextile Neptune en synastrie : l’une peut donner à l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Neptune", "sextile", "synastrie"]
 weight: 292
 glyph: "♄⚹♆"
 definition: "Saturne sextile Neptune en synastrie signifie que Saturne, chez une personne, se trouve à environ 60° de Neptune chez l’autre, à 3° près. Le sens pratique de l’une peut donner un premier pas à l’idéal de l’autre, et l’idéal une raison à une habitude. J’y lis un échange offert entre deux générations, réel si les deux y prennent part."

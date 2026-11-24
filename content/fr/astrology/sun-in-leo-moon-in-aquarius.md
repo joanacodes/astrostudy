@@ -6,6 +6,8 @@ description: "Soleil en Lion, Lune en Verseau : deux signes fixes opposés sur 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion", "Lune", "Verseau"]
 weight: 59
 glyph: "☉♌☽♒"
 definition: "Soleil en Lion, Lune en Verseau couvre l’axe propre du Soleil, son domicile en Lion et son exil en face, pour une naissance aux environs de la pleine lune du mois du Lion. J’y lis un centre chaleureux qui a besoin d’un large cercle : un moi qui veut être vu, des besoins qui veulent de l’air parmi les amis."

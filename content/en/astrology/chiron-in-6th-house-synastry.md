@@ -5,6 +5,8 @@ description: "Their Chiron in your 6th house in synastry: a hard-won way of work
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "6th house", "synastry", "house overlays"]
 weight: 126
 glyph: "⚷"
 definition: "Their Chiron in your 6th house threads the other person’s Chiron through your routines, daily tasks and working habits. In synastry what they learned about working within limits meets your ordinary week: they often help you pace yourself, while your way of working brushes an old sore spot of theirs. It never describes health."

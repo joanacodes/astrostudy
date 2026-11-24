@@ -6,6 +6,8 @@ description: "Le Nœud Nord de l’autre dans votre maison 5 en synastrie : le 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Nœud Nord", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 149
 glyph: "☊"
 definition: "Le Nœud Nord de l’autre dans votre maison 5 fait de vos plaisirs, de vos créations et de vos amours le terrain d’exercice de cette personne, et place son Nœud Sud dans votre maison 11. À vos côtés, elle s’exerce au jeu et à se montrer comme elle est ; se glisser parmi vos amis ne lui coûte aucun effort."

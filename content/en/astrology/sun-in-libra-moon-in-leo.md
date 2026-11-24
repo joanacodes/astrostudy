@@ -5,6 +5,8 @@ description: "Sun in Libra, Moon in Leo: the Moon in the Sun’s own sign, the S
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra", "Moon", "Leo"]
 weight: 77
 glyph: "☉♎☽♌"
 definition: "Sun in Libra, Moon in Leo puts the Moon in the Sun’s own sign while the Sun stands in its fall, with the Moon two signs behind, late in the lunar month. Here I read a self that shares attention out fairly, beside needs that settle only when someone notices what you gave."

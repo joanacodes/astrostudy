@@ -6,6 +6,8 @@ description: "Le petit trigone en astrologie : deux planètes en trigone et une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["trigone", "configurations"]
 weight: 12
 glyph: "⚹△"
 definition: "Un petit trigone, ce sont trois planètes : deux en trigone et une troisième entre elles, en sextile avec les deux, en triangle aplati. Il décrit une aisance qui trouve son point d’usage, la circulation du trigone recueillie par la planète du milieu. Il est courant : près de la moitié des thèmes, environ 4 sur 9, en contiennent un."

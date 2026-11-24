@@ -6,6 +6,8 @@ description: "Soleil en Sagittaire, Lune en Sagittaire : deux luminaires en feu
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Sagittaire", "Lune"]
 weight: 105
 glyph: "☉♐☽♐"
 definition: "Soleil en Sagittaire, Lune en Sagittaire place les deux luminaires en feu mutable, pour une naissance à deux jours et demi environ de la nouvelle lune en Sagittaire, la dernière avant le solstice de décembre. Jupiter les gouverne tous deux. J’y lis un horizon voulu deux fois : le but et le besoin demandent le même espace et la même route."

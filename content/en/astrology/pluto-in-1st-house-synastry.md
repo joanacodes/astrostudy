@@ -5,6 +5,8 @@ description: "Their Pluto in your 1st house in synastry: their depth meeting you
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "1st house", "synastry", "house overlays"]
 weight: 109
 glyph: "♇"
 definition: "Their Pluto in your 1st house sets the other person’s Pluto where you meet the world: appearance, bearing, the way you begin things. In synastry their depth meets how you appear, so a persona you have outgrown may fall away, and they tend to find your presence magnetic. It never predicts control."

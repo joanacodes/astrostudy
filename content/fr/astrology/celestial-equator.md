@@ -6,6 +6,8 @@ description: "L’équateur céleste en astrologie : l’équateur terrestre pr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Les bases"]
+tags: ["astronomie"]
 weight: 34
 glyph: "✦"
 definition: "L’équateur céleste est le grand cercle du ciel situé dans le plan de l’équateur terrestre. Il est incliné d’environ 23,44° sur l’écliptique, la route annuelle du Soleil, et les deux se croisent aux équinoxes, à 0° Bélier et 0° Balance dans le zodiaque tropical. C’est depuis lui que se mesure la déclinaison."

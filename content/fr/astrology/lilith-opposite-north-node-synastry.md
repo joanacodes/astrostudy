@@ -6,6 +6,8 @@ description: "Lilith opposition Nœud Nord en synastrie : la Lilith d’une per
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "Nœud Nord", "opposition", "synastrie"]
 weight: 390
 glyph: "⚸☍☊"
 definition: "Lilith opposition Nœud Nord en synastrie est une opposition, tenue à 3°, entre la Lune noire Lilith d’un thème et le Nœud Nord d’un autre : cette Lilith se pose donc sur le Nœud Sud de la seconde personne. La sauvagerie de l’une atterrit sur le terrain le plus familier de l’autre. Deux bouts d’une balançoire, jamais deux adversaires."

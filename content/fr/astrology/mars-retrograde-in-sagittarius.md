@@ -6,6 +6,8 @@ description: "Mars rétrograde en Sagittaire : toute la boucle de 2001, une par
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mars", "rétrograde", "Mars rétrograde", "Sagittaire"]
 weight: 33
 glyph: "♂℞♐"
 definition: "Mars rétrograde en Sagittaire, c’est le recul apparent de Mars dans ce signe, de la fin du printemps à l’été : entièrement en 2001, du Sagittaire au Scorpion en 2016, à peine dans son dernier degré en 2033. J’y lis la conviction et l’envie d’aller plus loin qui reviennent sur leurs pas, dans la maison du Sagittaire de votre thème."

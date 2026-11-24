@@ -5,6 +5,8 @@ description: "Sun in Leo, Moon in Libra: fire and air, a sextile by sign, the Mo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo", "Moon", "Libra"]
 weight: 55
 glyph: "☉♌☽♎"
 definition: "Sun in Leo, Moon in Libra pairs fixed fire with cardinal air, two signs apart, under a waxing crescent a few days after a new moon, the Sun at home and the Moon in the sign of the Sun’s fall. I see a strong sense of self that is comforted by fairness and good company."

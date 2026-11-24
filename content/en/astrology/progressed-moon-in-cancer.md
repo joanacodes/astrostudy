@@ -5,6 +5,8 @@ description: "The progressed Moon in Cancer, the Moon’s own sign: a chapter of
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressed Moon", "progressions", "Cancer"]
 weight: 4
 glyph: "☽♋"
 definition: "The progressed Moon in Cancer is your progressed Moon passing through the sign it rules, a chapter of two to two and a half years in secondary progressions. I read it as a time when needs gather around belonging: home, the people closest to you, care given and received, and the memories that make a place feel like yours."

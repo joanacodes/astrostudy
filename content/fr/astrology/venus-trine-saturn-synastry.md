@@ -6,6 +6,8 @@ description: "Vénus trigone Saturne en synastrie : la fiabilité de l’une es
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Saturne", "trigone", "synastrie"]
 weight: 179
 glyph: "♀△♄"
 definition: "Vénus trigone Saturne en synastrie signifie que Vénus, chez une personne, se trouve à environ 120° de Saturne chez l’autre, à 5,1° près. Ce que la première apprécie et la façon de s’engager de la seconde vont au même pas : la fiabilité y est goûtée plutôt que subie. J’y lis une aisance à vérifier parfois."

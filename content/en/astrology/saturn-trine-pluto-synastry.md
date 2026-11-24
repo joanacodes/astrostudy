@@ -5,6 +5,8 @@ description: "Saturn trine Pluto in synastry: one person’s staying power and t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Pluto", "trine", "synastry"]
 weight: 299
 glyph: "♄△♇"
 definition: "Saturn trine Pluto in synastry means one person’s Saturn is about 120° from the other’s Pluto, within 4.25°, usually in one element. One person’s staying power gives the other’s deep changes a form that lasts, and that depth keeps the structures alive. I read it as resilience shared between two eras, best checked now and then."

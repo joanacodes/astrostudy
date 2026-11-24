@@ -5,6 +5,8 @@ description: "Sun in Aquarius, Moon in Pisces: next-door signs early in a lunar 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aquarius", "Moon", "Pisces"]
 weight: 132
 glyph: "☉♒☽♓"
 definition: "Sun in Aquarius, Moon in Pisces sets the Moon one sign ahead of the Sun, in Pisces, within five days after a new moon, and four rulers share the pair. What I read is a self concerned with the welfare of many people, with needs met through imagination, compassion and a sense of belonging to something larger."

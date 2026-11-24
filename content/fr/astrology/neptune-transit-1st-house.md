@@ -6,6 +6,8 @@ description: "Neptune en transit en maison 1 : en général près de treize ans
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Neptune", "maison 1", "transits"]
 weight: 37
 glyph: "♆"
 definition: "Neptune en transit en maison 1, c’est un long adoucissement du moi que vous montrez, près de treize ans en général à partir du jour où votre ascendant est franchi. Ce transit travaille ce que votre thème dit de l’identité : un moi moins figé, une allure où les autres lisent leurs espoirs. Un élargissement, jamais une perte de soi."

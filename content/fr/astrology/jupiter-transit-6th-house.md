@@ -6,6 +6,8 @@ description: "Jupiter en transit en maison 6 : un an environ où travail quotid
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Jupiter", "maison 6", "transits"]
 weight: 6
 glyph: "♃"
 definition: "Jupiter en transit en maison 6, c’est l’année environ que Jupiter passe à traverser votre maison du travail quotidien, des habitudes et du soin. Sa matière, c’est la vie de travail que votre thème décrit déjà : plus à faire, de meilleures habitudes à portée de main, du sens dans les tâches ordinaires. Ce transit ne prédit rien de votre santé."

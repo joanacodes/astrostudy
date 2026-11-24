@@ -5,6 +5,8 @@ description: "Neptune sextile Lilith in synastry: one person’s imagination giv
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Lilith", "sextile", "synastry"]
 weight: 352
 glyph: "♆⚹⚸"
 definition: "Neptune sextile Lilith in synastry joins one person’s Neptune and the other’s mean Black Moon Lilith by a sextile, within 2.4°. One person’s imagination offers the other’s untamed side a safe form to come out in, through play, art or a shared story. I read it as an invitation that counts only when taken up."

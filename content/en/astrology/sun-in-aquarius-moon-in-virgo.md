@@ -5,6 +5,8 @@ description: "Sun in Aquarius, Moon in Virgo: a quincunx in the days after a ful
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aquarius", "Moon", "Virgo"]
 weight: 126
 glyph: "☉♒☽♍"
 definition: "Sun in Aquarius, Moon in Virgo joins two signs five apart, fixed air and mutable earth, a few days past a full moon. I see a self that thinks about how whole systems could work better, with feelings that settle once the task in front of them has been done well."

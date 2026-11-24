@@ -6,6 +6,8 @@ description: "La Lune de l’autre dans votre maison 1 en synastrie : ses émot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 13
 glyph: "☽"
 definition: "La Lune de l’autre dans votre maison 1 signifie que sa Lune, ses émotions et ses besoins, se trouve à l’avant de votre thème : votre allure, vos premières réactions. En synastrie, cette personne réagit à vous d’instinct et peut se sentir en sécurité à vos côtés, tandis que vous sentez son soin, ou son malaise, avant qu’elle parle."

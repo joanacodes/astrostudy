@@ -5,6 +5,8 @@ description: "Pluto sextile Chiron in synastry: one person’s depth makes it sa
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "Chiron", "sextile", "synastry"]
 weight: 362
 glyph: "♇⚹⚷"
 definition: "Pluto sextile Chiron in synastry sets one chart’s Pluto a sextile, about 60°, from another chart’s Chiron, within 2.4°. One person’s capacity for deep renewal offers the other room to rework an old adaptation, without forcing it. I treat it as a quiet invitation, and look at it in the houses rather than in the count."

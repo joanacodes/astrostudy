@@ -6,6 +6,8 @@ description: "Mars conjonction Lilith en synastrie : l’élan de l’une tombe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Lilith", "conjonction", "synastrie"]
 weight: 241
 glyph: "♂☌⚸"
 definition: "Mars conjonction Lilith en synastrie signifie que Mars, chez une personne, partage un degré avec la Lune noire Lilith moyenne de l’autre, à 6° près. L’élan de l’une arrive là où l’autre garde ce qu’elle a appris à cacher. J’y lis une rencontre chargée, permission ou exposition, qui se passe bien quand les deux en fixent le rythme."

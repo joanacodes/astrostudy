@@ -5,6 +5,8 @@ description: "Sun in Cancer, Moon in Gemini: neighbouring signs, the Moon one si
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Cancer", "Moon", "Gemini"]
 weight: 39
 glyph: "☉♋☽♊"
 definition: "Sun in Cancer, Moon in Gemini belongs to the close of a lunar month, with the Moon still in Gemini, one sign short of the Sun. Since the Moon rules Cancer, your Sun answers to a talkative Moon. I read it as care that keeps people in touch: a self rooted in belonging, needs that settle once feelings find words."

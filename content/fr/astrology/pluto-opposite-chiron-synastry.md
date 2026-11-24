@@ -6,6 +6,8 @@ description: "Pluton opposition Chiron en synastrie : l’une demande si cela p
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Chiron", "opposition", "synastrie"]
 weight: 365
 glyph: "♇☍⚷"
 definition: "Pluton opposition Chiron en synastrie, c’est Pluton, dans un thème, face au Chiron d’un autre, à 4° près. Le besoin de l’une de faire place nette et de renouveler fait face à la manière soigneusement adaptée dont l’autre vit avec une limite. J’y lis une polarité entre deux réponses à la même difficulté, jamais un combat."

@@ -6,6 +6,8 @@ description: "Uranus de l’autre dans votre maison 6 en synastrie : nouvelles 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 90
 glyph: "♅"
 definition: "Uranus de l’autre dans votre maison 6 recâble votre quotidien avec Uranus, chez une autre personne : routines, tâches, outils et habitudes. En synastrie, cette personne vous libère peut-être de routines qui ne servent plus, ou garde vos journées en mouvement, et voit dans vos méthodes un système à améliorer. La santé n’y entre pas."

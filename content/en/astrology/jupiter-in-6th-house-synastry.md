@@ -5,6 +5,8 @@ description: "Their Jupiter in your 6th house in synastry: their generosity in y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "6th house", "synastry", "house overlays"]
 weight: 66
 glyph: "♃"
 definition: "Their Jupiter in your 6th house brings the other person’s Jupiter to your daily work, routines and habits. In synastry their generosity gives your working days meaning: they help and encourage you, and your method gives their big ideas a practical outlet. It describes work and habits, never your health."

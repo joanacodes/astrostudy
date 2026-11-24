@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux, Lune en Poissons : deux signes mutables en ca
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux", "Lune", "Poissons"]
 weight: 36
 glyph: "☉♊☽♓"
 definition: "Soleil en Gémeaux, Lune en Poissons réunit l’air et l’eau, deux signes mutables, la Lune trois signes en retard sur le Soleil, autour du dernier quartier. J’y lis les mots face à ce qu’ils ne peuvent contenir : un moi qui nomme, relie et explique, des besoins qui avancent à tâtons dans les images, les humeurs et la musique."

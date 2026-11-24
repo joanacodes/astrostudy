@@ -5,6 +5,8 @@ description: "Sun in Aquarius, Moon in Scorpio: no other pair has the Sun in det
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aquarius", "Moon", "Scorpio"]
 weight: 128
 glyph: "☉♒☽♏"
 definition: "Sun in Aquarius, Moon in Scorpio puts the lights in two fixed signs a square apart, around the last quarter moon, with a Sun in detriment and a Moon in fall. I see a self given to reason and the common good, with feelings that go deep and settle only on trust that has been proved."

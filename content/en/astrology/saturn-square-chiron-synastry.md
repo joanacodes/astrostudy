@@ -5,6 +5,8 @@ description: "Saturn square Chiron in synastry: one person’s standards press o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Chiron", "square", "synastry"]
 weight: 303
 glyph: "♄□⚷"
 definition: "Saturn square Chiron in synastry is a 90° angle, within 4.25°, between one person’s Saturn and the other’s Chiron. The standards one person holds press on the difficulty the other has had to work around. I read it as friction that can produce a rule fitted to both, never as one person failing the other’s test."

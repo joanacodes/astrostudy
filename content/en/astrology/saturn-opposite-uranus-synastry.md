@@ -5,6 +5,8 @@ description: "Saturn opposite Uranus in synastry: security in one chart, freedom
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Uranus", "opposition", "synastry"]
 weight: 290
 glyph: "♄☍♅"
 definition: "Saturn opposite Uranus in synastry means one person’s Saturn is about 180° from the other’s Uranus, within 5°. One person’s need for things to hold and the other’s need for room sit at opposite ends of one line. I read it as a seesaw between security and freedom, carried by two generations, never as a quarrel."

@@ -5,6 +5,8 @@ description: "Their Uranus in your 4th house in synastry: new ideas of home and 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "4th house", "synastry", "house overlays"]
 weight: 88
 glyph: "♅"
 definition: "Their Uranus in your 4th house opens a window in your foundations: another person’s Uranus reaches your home, family, roots and private self. In synastry you may rethink how and where you live, or feel the ground shift, while they feel freer in your home than almost anywhere. It forecasts no move and no break-up."

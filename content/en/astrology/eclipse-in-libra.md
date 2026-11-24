@@ -5,6 +5,8 @@ description: "Eclipses in Libra: eleven from 2000 to 2040, the fewest of any sig
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["eclipses", "Libra"]
 weight: 7
 glyph: "●♎"
 definition: "Libra’s eclipses are the solar eclipses with the Sun in Libra and the lunar ones in which the full Moon is in Libra and the Sun in Aries. With eleven between 2000 and 2040, Libra has the fewest of any sign. In a reading, one matters only if it lands within about three degrees of a natal point."

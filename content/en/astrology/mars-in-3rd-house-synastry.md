@@ -5,6 +5,8 @@ description: "Their Mars in your 3rd house in synastry: their drive in your talk
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "3rd house", "synastry", "house overlays"]
 weight: 51
 glyph: "♂"
 definition: "Their Mars in your 3rd house puts the other person’s Mars among your everyday conversations, messages, errands and close circle. In synastry their drive sharpens how you speak and think on the move: you may argue, decide and act faster with them, and they find in your quick mind someone to spar with."

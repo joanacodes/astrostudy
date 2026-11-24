@@ -5,6 +5,8 @@ description: "Jupiter transiting the 10th house: about a year of growth at work 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "10th house", "transits"]
 weight: 10
 glyph: "♃"
 definition: "Jupiter transiting the 10th house is the season, a little over a year as a rule, that opens on your Midheaven, the highest point of your chart. It takes what your chart already says about work and public life and gives it more room: visibility, often more responsibility, and a clearer sense of direction."

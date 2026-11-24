@@ -6,6 +6,8 @@ description: "Jupiter en transit en maison 9 : un an environ dans sa propre mai
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Jupiter", "maison 9", "transits"]
 weight: 9
 glyph: "♃"
 definition: "Jupiter en transit en maison 9, c’est Jupiter qui traverse la maison qui lui revient dans l’ordre naturel, l’horizon lointain du thème, en général pendant un peu plus d’un an. Ce passage élargit les convictions, les études et les voyages que votre thème contient déjà, et leur demande des questions plutôt que des certitudes."

@@ -6,6 +6,8 @@ description: "Vénus conjonction Uranus en synastrie : l’une réarrange ce qu
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Uranus", "conjonction", "synastrie"]
 weight: 181
 glyph: "♀☌♅"
 definition: "Vénus conjonction Uranus en synastrie signifie que Vénus, chez une personne, se trouve à moins de 6° d’Uranus chez l’autre. Ce que la première trouve beau rencontre l’envie de la seconde de faire autrement : les goûts se réarrangent, et la différence devient un plaisir. J’y lis un appétit commun pour le neuf, jamais une promesse ni un avertissement."

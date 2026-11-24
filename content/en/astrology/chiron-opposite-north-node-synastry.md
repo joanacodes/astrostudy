@@ -5,6 +5,8 @@ description: "Chiron opposite North Node in synastry: one person’s Chiron on t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "North Node", "opposition", "synastry"]
 weight: 385
 glyph: "⚷☍☊"
 definition: "Chiron opposite North Node in synastry puts one person’s Chiron about 180° from another person’s North Node, within 3°, which amounts to a conjunction with their South Node. One person’s ways of coping land on the other’s most familiar ground. Comfort sits at one end of this seesaw and growth at the other, and neither is an enemy."

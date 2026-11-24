@@ -5,6 +5,8 @@ description: "Jupiter transiting the 8th house: about a year of deeper trust and
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "8th house", "transits"]
 weight: 8
 glyph: "♃"
 definition: "Jupiter transiting the 8th house describes the year or so when Jupiter’s growth reaches what you share with other people: trust, intimacy, joint money and obligations. It works on what your chart already holds there, often pulling it towards depth and honesty. It foretells no inheritance and no death."

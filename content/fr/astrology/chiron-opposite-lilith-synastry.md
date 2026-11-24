@@ -6,6 +6,8 @@ description: "Chiron opposition Lilith en synastrie : l’une s’accommode, l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "Lilith", "opposition", "synastrie"]
 weight: 380
 glyph: "⚷☍⚸"
 definition: "Chiron opposition Lilith en synastrie place le Chiron d’une personne en face de la Lune noire Lilith de quelqu’un d’autre, à 180° et 3° près. L’une s’accommode d’une difficulté durable ; l’autre refuse d’être domptée, et chacune trouve chez l’autre l’attitude qu’elle-même n’a pas prise. Je lis cette paire comme une balançoire, jamais comme une inimitié."

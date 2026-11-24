@@ -6,6 +6,8 @@ description: "Chiron carré Lilith en synastrie : la prudence de l’une frotte
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "Lilith", "carré", "synastrie"]
 weight: 378
 glyph: "⚷□⚸"
 definition: "Chiron carré Lilith en synastrie forme un quart de cercle, environ 90° à 2,55° près, entre le Chiron d’un premier thème et la Lune noire Lilith d’un second. Des façons prudentes de vivre avec une difficulté durable rencontrent un refus de se laisser gérer. Du frottement, chacune peut apprendre quoi adapter et quoi refuser ; personne n’échoue."

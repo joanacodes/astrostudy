@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux, Lune en Balance : air trigone air, Mercure et
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux", "Lune", "Balance"]
 weight: 31
 glyph: "☉♊☽♎"
 definition: "Soleil en Gémeaux, Lune en Balance place les deux luminaires dans l’air, la Lune quatre signes devant, pour une naissance entre le huitième et le douzième jour du mois lunaire. J’y lis un moi sociable et curieux dont les besoins reposent sur des échanges équilibrés : un esprit qui aime une bonne conversation, un cœur qui la veut juste."

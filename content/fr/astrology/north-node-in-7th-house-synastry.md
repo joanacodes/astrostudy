@@ -6,6 +6,8 @@ description: "Le Nœud Nord de l’autre dans votre maison 7 en synastrie : le 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Nœud Nord", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 151
 glyph: "☊"
 definition: "Le Nœud Nord de l’autre dans votre maison 7 place là où cette personne se dirige dans votre maison des partenaires, et son Nœud Sud dans votre maison 1. Avec vous, elle s’exerce à partager les décisions, et quand cela devient difficile, elle revient à sa propre voie. Rien n’y dit que deux personnes sont faites pour être ensemble."

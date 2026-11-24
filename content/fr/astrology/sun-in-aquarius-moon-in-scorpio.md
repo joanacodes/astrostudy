@@ -6,6 +6,8 @@ description: "Soleil en Verseau, Lune en Scorpion : aucun autre duo n’a le So
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Verseau", "Lune", "Scorpion"]
 weight: 128
 glyph: "☉♒☽♏"
 definition: "Soleil en Verseau, Lune en Scorpion réunit deux signes fixes en carré, autour du dernier quartier, avec un Soleil en exil et une Lune en chute. J’y vois un moi voué à la raison et au bien commun, avec des émotions profondes qui ne se posent que sur une confiance éprouvée."

@@ -5,6 +5,8 @@ description: "Their Neptune in your 8th house in synastry: their longing to merg
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "8th house", "synastry", "house overlays"]
 weight: 104
 glyph: "♆"
 definition: "Their Neptune in your 8th house takes the other person’s Neptune into your intimacy, trust and shared resources. In synastry their longing to merge meets what you hold in common: trust can come whole and closeness feel wordless, while lines about money and consent need saying aloud. No death is ever read in it."

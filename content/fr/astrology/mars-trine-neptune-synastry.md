@@ -6,6 +6,8 @@ description: "Mars trigone Neptune en synastrie : l’élan de l’une et l’i
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Neptune", "trigone", "synastrie"]
 weight: 229
 glyph: "♂△♆"
 definition: "Mars trigone Neptune en synastrie signifie qu’un tiers du zodiaque, à 5,1° près, sépare Mars, chez une personne, de Neptune chez l’autre, souvent dans un même élément. L’élan de l’une et l’imaginaire de l’autre vont au même pas. J’y lis deux personnes qui se mettent en mouvement, et à qui il faut encore un plan."

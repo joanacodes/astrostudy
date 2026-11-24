@@ -5,6 +5,8 @@ description: "Their Moon in your 12th house in synastry: their feelings reaching
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "12th house", "synastry", "house overlays"]
 weight: 24
 glyph: "☽"
 definition: "Their Moon in your 12th house places the other person’s Moon at the quiet end of your chart, among solitude, rest and the inner life. In synastry their feelings reach what you rarely show: they may sense your unspoken moods and soothe you quietly, and closeness between you is often deep and wordless."

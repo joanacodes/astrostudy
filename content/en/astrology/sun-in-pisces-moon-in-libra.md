@@ -5,6 +5,8 @@ description: "Sun in Pisces, Moon in Libra: a quincunx a little past full, Venus
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pisces", "Moon", "Libra"]
 weight: 139
 glyph: "☉♓☽♎"
 definition: "Sun in Pisces, Moon in Libra places the Moon seven signs on from the Sun, just past its opposition, no more than five days after a full moon. To me it is a compassionate, accepting self whose needs settle when affection runs both ways and the give and take between two people stays even."

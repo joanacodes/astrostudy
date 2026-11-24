@@ -5,6 +5,8 @@ description: "North Node transiting the 12th house: about 16 months of rest and 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "12th house", "transits"]
 weight: 84
 glyph: "☊"
 definition: "North Node transiting the 12th house is the stay, usually around sixteen months, when the node moves backwards through your house of rest and the inner life, from your Ascendant on, while the South Node crosses your 6th. It points towards solitude, quiet and letting go, away from staying busy. It predicts no confinement."

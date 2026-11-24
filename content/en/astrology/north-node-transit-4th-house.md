@@ -5,6 +5,8 @@ description: "North Node transiting the 4th house: about 20 months of turning to
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "4th house", "transits"]
 weight: 76
 glyph: "☊"
 definition: "North Node transiting the 4th house is the year and a half or more when the node moves backwards through your house of home and roots while the South Node crosses your 10th. It turns growth towards a private life, family as you define it and a place to belong, away from living for your standing."

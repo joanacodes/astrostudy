@@ -5,6 +5,8 @@ description: "The progressed Moon in Taurus: about two years and four months wit
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressed Moon", "progressions", "Taurus"]
 weight: 2
 glyph: "☽♉"
 definition: "The progressed Moon in Taurus is the Moon of your progressed chart crossing Taurus, the sign of its exaltation, for two to two and a half years. I read it as a chapter in which your needs settle around what lasts: a steady rhythm, a place you can count on, and the slow work of making something durable."

@@ -5,6 +5,8 @@ description: "Saturn square Pluto in synastry: one person’s structures meet th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Pluto", "square", "synastry"]
 weight: 298
 glyph: "♄□♇"
 definition: "Saturn square Pluto in synastry means one person’s Saturn is about 90° from the other’s Pluto, within 4.25°. What one person holds in place keeps meeting the other’s pressure to transform it, at an awkward angle. I read it as friction between two eras that can build endurance and plain speaking about power, never as a fight foretold."

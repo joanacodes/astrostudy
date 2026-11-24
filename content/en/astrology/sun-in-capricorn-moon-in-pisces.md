@@ -5,6 +5,8 @@ description: "Sun in Capricorn, Moon in Pisces: earth and water in a sextile, Ne
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Capricorn", "Moon", "Pisces"]
 weight: 120
 glyph: "☉♑☽♓"
 definition: "Sun in Capricorn, Moon in Pisces joins cardinal earth and mutable water in a sextile by sign, born while a young crescent grew in the evening sky. Saturn rules the Sun’s sign; Neptune and Jupiter rule the Moon’s, and Jupiter has its fall in Capricorn. I read it as steady hands around a tender imagination."

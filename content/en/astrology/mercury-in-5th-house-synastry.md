@@ -5,6 +5,8 @@ description: "Their Mercury in your 5th house in synastry: wit and wordplay in y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "5th house", "synastry", "house overlays"]
 weight: 29
 glyph: "☿"
 definition: "Their Mercury in your 5th house invites the other person’s wit into your games, pleasures, creative work and love life. In synastry, conversation becomes something you enjoy for its own sake: jokes, stories, games, wordplay, sometimes flirting. You may feel more inventive with them, and your pleasures give their curiosity plenty to play with."

@@ -6,6 +6,8 @@ description: "Chiron en transit en maison 5 : quatre ans environ où une vieill
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Chiron", "maison 5", "transits"]
 weight: 65
 glyph: "⚷"
 definition: "Chiron en transit en maison 5, c’est le séjour de Chiron, quatre ans environ à la latitude de Londres, dans votre maison du jeu, du plaisir, des amours et de la création. Il touche de vieilles blessures liées au plaisir et au fait de briller, et peut en faire un don pour encourager les autres. Aucun enfant n’y est prédit."

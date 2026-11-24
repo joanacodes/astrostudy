@@ -6,6 +6,8 @@ description: "Soleil en Vierge, Lune en Bélier : la méthode et l’urgence en
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge", "Lune", "Bélier"]
 weight: 61
 glyph: "☉♍☽♈"
 definition: "Soleil en Vierge, Lune en Bélier relie la terre mutable au feu cardinal par un quinconce, au début du déclin d’une pleine lune, cinq jours après elle au plus. Mercure gouverne le signe du Soleil, Mars celui de la Lune. J’y lis une méthode soigneuse et une émotion rapide, qui négocient sans fin laquelle passe en premier."

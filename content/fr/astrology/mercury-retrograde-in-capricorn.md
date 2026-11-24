@@ -6,6 +6,8 @@ description: "Mercure rétrograde en Capricorne : la rétrogradation du tournan
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "Capricorne"]
 weight: 10
 glyph: "☿℞♑"
 definition: "Mercure rétrograde en Capricorne tombe au tournant de l’année : pendant 20 ou 21 jours, entre début décembre et début février, Mercure semble, depuis la Terre, reculer dans le Capricorne. J’y lis les projets et les engagements relus à l’entrée d’une nouvelle année, la structure vérifiée avant de bâtir dessus, dans la maison qu’occupe le Capricorne dans votre thème."

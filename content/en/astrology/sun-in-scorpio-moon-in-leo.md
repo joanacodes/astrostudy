@@ -5,6 +5,8 @@ description: "Sun in Scorpio, Moon in Leo: two fixed signs squaring off, the Moo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Scorpio", "Moon", "Leo"]
 weight: 89
 glyph: "☉♏☽♌"
 definition: "Sun in Scorpio, Moon in Leo pairs fixed water with fixed fire at a square, around the last quarter moon, with the Moon in the sign the Sun rules. I read it as a private, intense self whose heart needs warmth and recognition from a chosen few, and settles once it knows it has been seen."

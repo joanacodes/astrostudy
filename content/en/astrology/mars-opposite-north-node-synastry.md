@@ -5,6 +5,8 @@ description: "Mars opposite North Node in synastry: one person’s drive lands o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "North Node", "opposition", "synastry"]
 weight: 250
 glyph: "♂☍☊"
 definition: "Mars opposite North Node in synastry means one person’s Mars lands on the other’s South Node, within 6°, directly across from their North Node. One person’s drive meets the other’s established strengths, familiar and energising for both. I read it as a pair at ease on old ground, worth watching for when comfort replaces growth."

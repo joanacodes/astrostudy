@@ -5,6 +5,8 @@ description: "Uranus transiting the 6th house: about seven years of changing how
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "6th house", "transits"]
 weight: 30
 glyph: "♅"
 definition: "Uranus transiting the 6th house is the stay, about seven years in the middle, of the planet of change in your house of daily work, routine and care. It reworks what your chart already says about your working days: new methods, new hours, routines you invent rather than inherit. It forecasts nothing about your health."

@@ -6,6 +6,8 @@ description: "Mars conjonction Saturne en synastrie : l’élan et le long term
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Saturne", "conjonction", "synastrie"]
 weight: 216
 glyph: "♂☌♄"
 definition: "Mars conjonction Saturne en synastrie signifie que Mars, chez une personne, se trouve à moins de 6° de Saturne chez l’autre. L’énergie de la première arrive là où la seconde garde ses exigences, ses devoirs et ses projets à long terme. J’y lis l’effort qui rencontre la structure : de quoi bâtir du durable, si l’on s’accorde sur l’horloge."

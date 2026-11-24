@@ -5,6 +5,8 @@ description: "Venus opposite Lilith in synastry: closeness at one end, an untame
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Lilith", "opposition", "synastry"]
 weight: 205
 glyph: "♀☍⚸"
 definition: "Venus opposite Lilith in synastry puts one person’s Venus about 180° from the other’s mean Black Moon Lilith, within 6°, in opposite signs. One person leans towards closeness and harmony, the other towards autonomy and refusal, and each holds what the other lacks. I read it as a seesaw two people learn to ride, never as a fight."

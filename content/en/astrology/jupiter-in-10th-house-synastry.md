@@ -5,6 +5,8 @@ description: "Their Jupiter in your 10th house in synastry: their generosity in 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "10th house", "synastry", "house overlays"]
 weight: 70
 glyph: "♃"
 definition: "Their Jupiter in your 10th house places the other person’s Jupiter among your career, responsibilities and public standing. In synastry their generosity meets your ambitions: they tend to believe in your work and open doors, and your path gives their generosity a cause. It describes support and growth, and promises no success."

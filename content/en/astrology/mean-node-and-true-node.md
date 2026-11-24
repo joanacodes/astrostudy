@@ -5,6 +5,8 @@ description: "Mean node and true node in astrology: why two apps place your Nort
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "angles"
+categories: ["Planets and points"]
+tags: ["lunar nodes"]
 weight: 10
 glyph: "✦"
 definition: "The mean node and the true node are two ways of placing the same point, where the Moon’s path crosses the Sun’s. The mean node is an average that slides steadily backwards; the true node is the actual crossing point, which wobbles. They sit a degree or two apart at most, so they only disagree near an edge."

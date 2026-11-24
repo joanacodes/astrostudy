@@ -6,6 +6,8 @@ description: "Chiron de l’autre dans votre maison 4 en synastrie : une vieill
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 124
 glyph: "⚷"
 definition: "Chiron de l’autre dans votre maison 4 loge son Chiron au pied de votre thème, dans la maison du foyer et des racines. En synastrie, ce que sa vieille blessure lui a enseigné sur l’appartenance rejoint votre vie privée : chez vous, cette personne rend un lieu plus sûr, et votre vie de famille effleure son point tendre."

@@ -5,6 +5,8 @@ description: "Their Jupiter in your 12th house in synastry: their quiet generosi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "12th house", "synastry", "house overlays"]
 weight: 72
 glyph: "♃"
 definition: "Their Jupiter in your 12th house takes the other person’s Jupiter into the private end of your chart: solitude, rest, reflection and quiet care. In synastry their generosity works in the background, protecting your quiet and giving meaning to retreat, and they find in your inner life a place to rest. It is neither a rescue nor a warning."

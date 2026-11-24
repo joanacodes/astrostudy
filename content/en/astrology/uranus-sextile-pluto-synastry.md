@@ -5,6 +5,8 @@ description: "Uranus sextile Pluto in synastry: bold reform from one generation,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Pluto", "sextile", "synastry"]
 weight: 322
 glyph: "♅⚹♇"
 definition: "Uranus sextile Pluto in synastry is a 60° angle, within 2.4°, between the Uranus of one person and the Pluto of another. The way one generation reforms things and the way another renews them at depth can work together, if one of them takes the first step. I read it through the houses, as an opening between eras."

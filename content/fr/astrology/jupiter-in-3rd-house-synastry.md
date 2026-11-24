@@ -6,6 +6,8 @@ description: "Jupiter de l’autre dans votre maison 3 en synastrie : son ample
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 63
 glyph: "♃"
 definition: "Jupiter de l’autre dans votre maison 3 donne à Jupiter, chez cette personne, une place dans votre parole de tous les jours, vos lectures, vos courses et vos proches. En synastrie, son ampleur élargit votre façon de penser et de parler : avec elle, vous apprenez et demandez davantage, et l’autre trouve dans votre curiosité le meilleur public pour ses idées."

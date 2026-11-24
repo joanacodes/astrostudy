@@ -5,6 +5,8 @@ description: "Mars trine Lilith in synastry: one person’s drive and the other�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Lilith", "trine", "synastry"]
 weight: 244
 glyph: "♂△⚸"
 definition: "Mars trine Lilith in synastry means one person’s Mars and the other’s mean Black Moon Lilith sit a trine apart, about 120° within 5.1°, mostly across one element. Action and independence agree, without discussion, on the unconventional choice. To me it’s an easy alliance that still needs room for two separate wills."

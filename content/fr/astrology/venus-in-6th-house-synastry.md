@@ -6,6 +6,8 @@ description: "Vénus de l’autre dans votre maison 6 en synastrie : une affect
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 42
 glyph: "♀"
 definition: "Vénus de l’autre dans votre maison 6 glisse de l’affection dans votre quotidien : corvées, routines, travail. En synastrie, son attention se voit dans l’aide concrète et une présence agréable au travail ; la Vierge, signe naturel de cette maison, est la chute de Vénus, et l’amour y préfère les détails aux grands gestes. Rien n’y parle de santé."

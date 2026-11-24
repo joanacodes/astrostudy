@@ -5,6 +5,8 @@ description: "Pluto square North Node in synastry: one person’s demand for dee
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "North Node", "square", "synastry"]
 weight: 373
 glyph: "♇□☊"
 definition: "Pluto square North Node in synastry is one chart’s Pluto at right angles, within 3.4°, to both nodes of another chart. One person’s demand for deep change crosses the other’s path at both ends, the familiar ground and the new direction alike. I read it as friction that helps when offered gently and chafes when pressed."

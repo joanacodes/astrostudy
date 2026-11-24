@@ -6,6 +6,8 @@ description: "Soleil en Scorpion, Lune en Vierge : l’eau et la terre en sexti
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Scorpion", "Lune", "Vierge"]
 weight: 90
 glyph: "☉♏☽♍"
 definition: "Soleil en Scorpion, Lune en Vierge réunit l’eau fixe et la terre mutable en sextile, tard dans le mois lunaire, la Vierge étant domicile et exaltation de Mercure. J’y vois un moi qui cherche sous la surface, avec des besoins qui s’apaisent une fois ce qu’il trouve trié et rendu utile."

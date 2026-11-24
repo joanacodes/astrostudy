@@ -6,6 +6,8 @@ description: "Jupiter trigone Chiron en synastrie : la vue large de l’une et 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Chiron", "trigone", "synastrie"]
 weight: 274
 glyph: "♃△⚷"
 definition: "Jupiter trigone Chiron en synastrie signifie que Jupiter, chez une personne, se trouve à environ 120° de Chiron chez l’autre, à 4,25° près. Une vue plus large et le savoir-faire de quelqu’un qui s’est adapté passent facilement de l’une à l’autre, dans les deux sens. Il sert la transmission, et c’est par les maisons que je l’aborde."

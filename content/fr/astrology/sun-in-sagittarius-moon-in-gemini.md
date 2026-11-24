@@ -6,6 +6,8 @@ description: "Soleil en Sagittaire, Lune en Gémeaux : signes mutables opposés
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Sagittaire", "Lune", "Gémeaux"]
 weight: 99
 glyph: "☉♐☽♊"
 definition: "Soleil en Sagittaire, Lune en Gémeaux place les luminaires dans deux signes mutables opposés, le feu et l’air, pour une naissance à deux jours et demi environ d’une pleine lune. Leurs maîtres, Jupiter et Mercure, sont chacun en exil dans le signe de l’autre. J’y lis un esprit qui questionne et un moi qui répond, l’un ayant besoin de l’autre."

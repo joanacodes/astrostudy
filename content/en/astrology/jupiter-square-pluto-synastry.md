@@ -5,6 +5,8 @@ description: "Jupiter square Pluto in synastry: one person’s urge to widen rub
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Pluto", "square", "synastry"]
 weight: 268
 glyph: "♃□♇"
 definition: "Jupiter square Pluto in synastry means one person’s Jupiter is about 90° from the other’s Pluto, within 4.25°. The urge to widen keeps meeting the urge to clear and transform, and each tests the other. Shared by whole birth years, it reads as friction that roots convictions, never as a contest."

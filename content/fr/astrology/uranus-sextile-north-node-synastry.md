@@ -6,6 +6,8 @@ description: "Uranus sextile Nœud Nord en synastrie : les essais de l’une ou
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Nœud Nord", "sextile", "synastrie"]
 weight: 337
 glyph: "♅⚹☊"
 definition: "Uranus sextile Nœud Nord en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 60° du Nœud Nord de l’autre, à 2,4° près, donc à 120° de son Nœud Sud. Les essais de l’une ouvrent à l’autre une voie pour grandir, en rafraîchissant ce qu’elle sait déjà. Le nœud vrai le date ; les maisons portent son sens."

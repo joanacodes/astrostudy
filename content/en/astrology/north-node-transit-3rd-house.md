@@ -5,6 +5,8 @@ description: "North Node transiting the 3rd house: about 20 months of asking, le
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "3rd house", "transits"]
 weight: 75
 glyph: "☊"
 definition: "North Node transiting the 3rd house is the stay, often a little longer than a year and a half, when the node moves backwards through your house of everyday words and learning while the South Node crosses your 9th. It points towards asking, listening and the world close at hand, away from ready-made answers."

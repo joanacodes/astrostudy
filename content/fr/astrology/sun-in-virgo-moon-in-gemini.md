@@ -6,6 +6,8 @@ description: "Soleil en Vierge, Lune en Gémeaux : un duo que Mercure gouverne 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge", "Lune", "Gémeaux"]
 weight: 63
 glyph: "☉♍☽♊"
 definition: "Soleil en Vierge, Lune en Gémeaux met en carré deux signes mutables que gouverne Mercure, pour une naissance autour du dernier quartier du mois lunaire. Une seule planète gouverne les deux luminaires. J’y lis un esprit qui trie et un esprit qui vagabonde, assis au même bureau et qui ne ferment presque jamais boutique."

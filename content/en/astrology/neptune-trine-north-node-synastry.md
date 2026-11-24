@@ -5,6 +5,8 @@ description: "Neptune trine North Node in synastry: one person’s imagination m
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "North Node", "trine", "synastry"]
 weight: 359
 glyph: "♆△☊"
 definition: "In Neptune trine North Node, a synastry contact, the Neptune of one chart lies a trine, within 3.4°, from the North Node of another, and a sextile from its South Node. One person’s imagination lets the other picture where they are growing, and that growth gives the dream an aim: easy support, best paired with honest feedback."

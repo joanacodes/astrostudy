@@ -5,6 +5,8 @@ description: "Their Uranus in your 3rd house in synastry: sudden ideas and new w
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "3rd house", "synastry", "house overlays"]
 weight: 87
 glyph: "♅"
 definition: "Their Uranus in your 3rd house wires another person’s Uranus into your everyday exchanges: conversations, messages, errands, learning and the people nearby. In synastry talk with them tends to spark, your thinking jumps ahead and you pick up new tools, while they feel their mind freed by yours. It can also feel scattered."

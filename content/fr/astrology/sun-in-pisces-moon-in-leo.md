@@ -6,6 +6,8 @@ description: "Soleil en Poissons, Lune en Lion : un quinconce juste avant la pl
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Poissons", "Lune", "Lion"]
 weight: 137
 glyph: "☉♓☽♌"
 definition: "Soleil en Poissons, Lune en Lion met la Lune dans l’unique signe du Soleil, cinq signes plus loin, peu de jours avant une pleine lune. Pour moi, c’est une imagination heureuse de travailler sans signer, à côté d’un cœur qui veut voir ses dons remarqués et sa chaleur rendue."

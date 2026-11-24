@@ -6,6 +6,8 @@ description: "Vénus rétrograde en Vierge, sa chute : seulement 2007 et 2015 d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde", "Vierge"]
 weight: 18
 glyph: "♀℞♍"
 definition: "Vénus rétrograde en Vierge, c’est Vénus qui semble, depuis la Terre, rebrousser chemin dans les premiers degrés de la Vierge pour reculer jusqu’en Lion, comme en juillet 2007 et en juillet 2015 ; aucune ne suit avant 2041. J’y lis les petites attentions et les exigences de l’amour reconsidérées, dans la maison qu’occupe la Vierge dans votre thème."

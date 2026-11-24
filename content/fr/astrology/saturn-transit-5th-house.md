@@ -6,6 +6,8 @@ description: "Saturne en transit en maison 5 : environ trois ans où le jeu et 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Saturne", "maison 5", "transits"]
 weight: 17
 glyph: "♄"
 definition: "Saturne en transit en maison 5, c’est la rencontre, longue d’un peu moins de trois ans, entre la planète de la discipline et votre maison de la joie : la créativité, le jeu, le plaisir, l’amour. La créativité que votre thème contient déjà prend forme : la pratique, le savoir-faire, un temps protégé. Ce transit ne prédit ni enfant ni rupture."

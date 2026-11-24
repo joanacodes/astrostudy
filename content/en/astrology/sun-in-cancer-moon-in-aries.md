@@ -5,6 +5,8 @@ description: "Sun in Cancer, Moon in Aries: two cardinal signs in a square, the 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Cancer", "Moon", "Aries"]
 weight: 37
 glyph: "☉♋☽♈"
 definition: "Sun in Cancer, Moon in Aries joins water and fire, both cardinal, with the Moon in Aries trailing the Sun by three signs, around the last quarter moon. I read it as a protective self with quick reflexes: a purpose built around the people it shelters, and feelings that flare, act and are done."

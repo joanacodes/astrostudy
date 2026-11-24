@@ -5,6 +5,8 @@ description: "Pluto opposite Lilith in synastry: one person’s power to transfo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "Lilith", "opposition", "synastry"]
 weight: 370
 glyph: "♇☍⚸"
 definition: "Pluto opposite Lilith in synastry is the face-off, within 4°, between the Pluto of one chart and the mean Black Moon Lilith of another. One person’s power to transform and the other’s refusal to be tamed face each other, each making the other visible. I read it as a magnetic polarity that asks for honesty about who wants what."

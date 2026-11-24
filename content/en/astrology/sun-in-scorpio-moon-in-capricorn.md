@@ -5,6 +5,8 @@ description: "Sun in Scorpio, Moon in Capricorn: a sextile of water and earth un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Scorpio", "Moon", "Capricorn"]
 weight: 94
 glyph: "☉♏☽♑"
 definition: "Sun in Scorpio, Moon in Capricorn joins fixed water and cardinal earth a sextile apart, under a young crescent, with the Moon in its detriment and Mars exalted in its sign. I read the pair as a self that sees beneath the surface, with needs that feel safe once there is a plan and someone responsible."

@@ -5,6 +5,8 @@ description: "The stellium in astrology: three or more planets crowded into one 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["aspect patterns"]
 weight: 1
 glyph: "☌"
 definition: "A stellium is a crowd of planets in one part of the chart: at least three in the same sign, or a chain of conjunctions, depending on the author. It marks emphasis, a manner or an area of life the chart keeps returning to. Among the ten planets, about 7 people in 10 have three in one sign."

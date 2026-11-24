@@ -5,6 +5,8 @@ description: "Chiron square Lilith in synastry: one person’s careful accommoda
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "Lilith", "square", "synastry"]
 weight: 378
 glyph: "⚷□⚸"
 definition: "Chiron square Lilith in synastry is a quarter-circle, about 90° held to 2.55°, between the Chiron of one chart and the Black Moon Lilith of another. Careful ways of living around a lasting difficulty meet a refusal to be managed. From the rub, each can learn what to adapt and what to refuse; nobody fails."

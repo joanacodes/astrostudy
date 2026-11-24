@@ -5,6 +5,8 @@ description: "Jupiter sextile Lilith in synastry: one person’s wider world off
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Lilith", "sextile", "synastry"]
 weight: 277
 glyph: "♃⚹⚸"
 definition: "Jupiter sextile Lilith in synastry means one person’s Jupiter is about 60° from the other’s Black Moon Lilith, within 3°. One person’s interests, beliefs and openings give the other’s untamed side occasions to come out, without pushing. I read it as an invitation, real only when accepted, and through the houses, since both points move slowly."

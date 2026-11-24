@@ -6,6 +6,8 @@ description: "Mars rétrograde en Capricorne, exaltation de Mars : les courtes 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mars", "rétrograde", "Mars rétrograde", "Capricorne"]
 weight: 34
 glyph: "♂℞♑"
 definition: "Mars rétrograde en Capricorne, c’est le recul apparent de Mars, en été, dans le signe de son exaltation : du Verseau aux derniers degrés du Capricorne en 2018, du Capricorne au Sagittaire en 2033. J’y lis l’ambition et l’effort discipliné qui reviennent en arrière pour un bilan, dans la maison qu’occupe le Capricorne dans votre thème."

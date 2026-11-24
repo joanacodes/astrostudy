@@ -5,6 +5,8 @@ description: "Mercury retrograde in Taurus: the most regular of Mercury’s retr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "Taurus"]
 weight: 2
 glyph: "☿℞♉"
 definition: "Mercury retrograde in Taurus means Mercury seeming, from Earth, to back up through Taurus for just under 24 days, between early April and early June. I read it as a slow re-reading of what you had settled, the long-held view or the familiar arrangement, in the house Taurus occupies in your chart."

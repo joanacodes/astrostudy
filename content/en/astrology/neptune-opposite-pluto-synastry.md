@@ -5,6 +5,8 @@ description: "Neptune opposite Pluto in synastry: an elder’s hard-won depth fa
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Pluto", "opposition", "synastry"]
 weight: 345
 glyph: "♆☍♇"
 definition: "Neptune opposite Pluto in synastry places Neptune in one person’s chart across the zodiac from Pluto in the other’s, about 180° apart, within 4°; in my data it links only people born more than fifty years apart, the Pluto the elder’s. Depth that has lived through change faces a dream of what could be."

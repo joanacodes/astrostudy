@@ -6,6 +6,8 @@ description: "Lilith de l’autre dans votre maison 7 en synastrie : ce que l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 139
 glyph: "⚸"
 definition: "Lilith de l’autre dans votre maison 7 fait atterrir sa Lune noire Lilith moyenne dans votre maison du partenariat. En synastrie, ce que cette personne refuse de céder rencontre vos liens : aucune des deux ne peut rapetisser, vous retrouvez peut-être en elle ce que vous aviez écarté, et votre façon d’aimer peut la provoquer ou la libérer."

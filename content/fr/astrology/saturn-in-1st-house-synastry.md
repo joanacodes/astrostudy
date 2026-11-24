@@ -6,6 +6,8 @@ description: "Saturne de l’autre dans votre maison 1 en synastrie : la patien
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 73
 glyph: "♄"
 definition: "Saturne de l’autre dans votre maison 1 pose Saturne, planète du temps et des limites, sur la façade de votre thème : votre allure, votre corps, vos premiers gestes. Auprès de cette personne, vous gagnez souvent en mesure et en assise, et elle se sent volontiers responsable de votre façon de commencer."

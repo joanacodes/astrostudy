@@ -6,6 +6,8 @@ description: "Soleil en Verseau, Lune en Taureau : seul duo à réunir un Solei
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Verseau", "Lune", "Taureau"]
 weight: 122
 glyph: "☉♒☽♉"
 definition: "Soleil en Verseau, Lune en Taureau place la Lune trois signes devant le Soleil, en Taureau, autour du premier quartier : c’est le seul duo qui met le Soleil en exil et la Lune en exaltation. J’y vois un moi qui imagine un autre avenir, posé sur des besoins qui gardent ce qui marche."

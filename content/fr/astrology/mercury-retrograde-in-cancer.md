@@ -6,6 +6,8 @@ description: "Mercure rétrograde en Cancer : la plus longue des rétrogradatio
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "Cancer"]
 weight: 4
 glyph: "☿℞♋"
 definition: "Mercure rétrograde en Cancer dure un peu plus de 24 jours, plus longtemps en moyenne que dans tout autre signe : entre juin et début août, Mercure semble, depuis la Terre, y reculer. J’y lis l’esprit qui revient sur la mémoire, les histoires de famille et le ton des mots, dans la maison qu’occupe le Cancer dans votre thème."

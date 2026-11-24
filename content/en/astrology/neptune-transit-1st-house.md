@@ -5,6 +5,8 @@ description: "Neptune transiting the 1st house: usually nearly thirteen years of
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "1st house", "transits"]
 weight: 37
 glyph: "♆"
 definition: "Neptune transiting the 1st house is a long softening of the self you lead with, nearly thirteen years as a rule from the day Neptune crosses your Ascendant. It works on what your chart already says about identity: a self less fixed and more open, a manner others read their hopes into. A widening, never a loss of self."

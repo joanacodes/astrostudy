@@ -5,6 +5,8 @@ description: "Jupiter transiting the 12th house: about a year of quiet growth, r
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "12th house", "transits"]
 weight: 12
 glyph: "♃"
 definition: "Jupiter transiting the 12th house is the quiet year or so before Jupiter reaches your Ascendant, as it crosses the house of the inner life. Solitude, rest and compassion, as your chart already holds them, are what it widens: meaning found in private, and chapters finished. It predicts no illness and no confinement."

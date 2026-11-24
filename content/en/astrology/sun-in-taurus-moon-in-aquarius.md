@@ -5,6 +5,8 @@ description: "Sun in Taurus, Moon in Aquarius: two fixed signs in a square, a bi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Taurus", "Moon", "Aquarius"]
 weight: 23
 glyph: "☉♉☽♒"
 definition: "Sun in Taurus, Moon in Aquarius squares two fixed signs, earth and air, with the Moon three signs back, at a birth nineteen and a half to twenty-four and a half days after a new moon. I read it as two loyalties: a self loyal to what it has built, and needs loyal to what they believe is right."

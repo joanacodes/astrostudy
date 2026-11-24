@@ -6,6 +6,8 @@ description: "Les éclipses en Bélier : les quatorze de 2000 à 2040, solaires
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["éclipses", "Bélier"]
 weight: 1
 glyph: "●♈"
 definition: "Une éclipse en Bélier est une nouvelle ou une pleine lune proche des nœuds lunaires, avec la Lune en Bélier : lors d’une éclipse solaire, le Soleil s’y trouve aussi ; lors d’une éclipse lunaire, il lui fait face depuis la Balance. Je ne la lis qu’à environ trois degrés d’un point natal, comme un accent, jamais comme un présage."

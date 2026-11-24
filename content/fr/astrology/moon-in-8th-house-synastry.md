@@ -6,6 +6,8 @@ description: "La Lune de l’autre dans votre maison 8 en synastrie : ses émot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 20
 glyph: "☽"
 definition: "La Lune de l’autre dans votre maison 8 mène ses émotions jusqu’à la part la plus privée de votre thème, celle de l’intimité et de la confiance. En synastrie, le lien émotionnel va loin et transforme les deux personnes, et cette personne ne se sent en sécurité qu’une fois la confiance bien réelle ; rien n’y annonce de perte."

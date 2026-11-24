@@ -6,6 +6,8 @@ description: "Le thème en balançoire en astrologie : deux groupes de planète
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["formes de thème"]
 weight: 21
 glyph: "✦"
 definition: "Un thème en balançoire a ses planètes en deux groupes, de part et d’autre de la roue, avec de l’espace vide des deux côtés. Marc Edmund Jones l’a rangé parmi ses sept formes. J’y lis une vie organisée autour de deux pôles qui demandent à être équilibrés, pas départagés. Les définitions diffèrent trop d’un auteur à l’autre pour le compter."

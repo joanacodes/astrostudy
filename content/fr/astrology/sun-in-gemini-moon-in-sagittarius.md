@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux, Lune en Sagittaire : deux signes mutables opp
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux", "Lune", "Sagittaire"]
 weight: 33
 glyph: "☉♊☽♐"
 definition: "Soleil en Gémeaux, Lune en Sagittaire place les luminaires de part et d’autre du zodiaque, tous deux en signes mutables, près d’une pleine lune. J’y lis l’étude et l’exploration réunies en une même personne : un moi qui rassemble faits et voix de près, des besoins qui trouvent la paix quand la vie a un large horizon et un sens."

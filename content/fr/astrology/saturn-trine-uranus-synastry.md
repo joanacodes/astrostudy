@@ -6,6 +6,8 @@ description: "Saturne trigone Uranus en synastrie : la manière de garder d’u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Uranus", "trigone", "synastrie"]
 weight: 289
 glyph: "♄△♅"
 definition: "Saturne trigone Uranus en synastrie signifie que Saturne, chez une personne, se trouve à environ 120° d’Uranus chez l’autre, à 4,25° près, en général dans le même élément. La constance de l’une et l’inventivité de l’autre se renforcent : le changement arrive avec quelqu’un pour le mener au bout. J’y lis un emboîtement facile entre deux époques."

@@ -6,6 +6,8 @@ description: "Jupiter trigone Neptune en synastrie : le sens de l’une et la c
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Neptune", "trigone", "synastrie"]
 weight: 264
 glyph: "♃△♆"
 definition: "Jupiter trigone Neptune en synastrie signifie que Jupiter, chez une personne, se trouve à environ 120° de Neptune chez l’autre, à 4,25° près. Le sens et la compassion se soutiennent : les croyances deviennent plus douces, les idéaux trouvent une direction. Je le lis dans les maisons, comme deux époques dont les idéaux s’accordent."

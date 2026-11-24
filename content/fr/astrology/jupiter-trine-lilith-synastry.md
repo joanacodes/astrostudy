@@ -6,6 +6,8 @@ description: "Jupiter trigone Lilith en synastrie : le regard de l’une a de l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Lilith", "trigone", "synastrie"]
 weight: 279
 glyph: "♃△⚸"
 definition: "Jupiter trigone Lilith en synastrie signifie que Jupiter, chez une personne, se trouve à environ 120° de la Lune noire Lilith de l’autre, à 4,25° près, souvent dans le même élément. Le regard de l’une fait place à ce que l’autre a appris à cacher. J’y lis une permission facile, à sortir de la pièce où on l’a trouvée."

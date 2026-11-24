@@ -6,6 +6,8 @@ description: "Saturne carré Lilith en synastrie : le « tu devrais » de l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Lilith", "carré", "synastrie"]
 weight: 308
 glyph: "♄□⚸"
 definition: "Saturne carré Lilith en synastrie est un angle droit, à 4,25° près, que forment Saturne chez une personne et la Lune noire Lilith chez l’autre. Les règles de l’une butent sans cesse sur ce que l’autre refuse de céder. J’y lis une friction qui éprouve les règles comme les refus, jamais un bras de fer."

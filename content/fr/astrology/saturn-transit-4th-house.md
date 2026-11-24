@@ -6,6 +6,8 @@ description: "Saturne en transit en maison 4 : environ trois ans à réparer le
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Saturne", "maison 4", "transits"]
 weight: 16
 glyph: "♄"
 definition: "Saturne en transit en maison 4 décrit environ trois ans passés sous tout le reste : Saturne franchit votre Fond du Ciel puis traverse votre maison du foyer et des racines. Ce transit passe en revue ce que votre thème dit de la famille et de l’appartenance : des fondations vérifiées, des responsabilités à la maison, un foyer bâti pour durer."

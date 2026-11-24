@@ -6,6 +6,8 @@ description: "Neptune de l’autre dans votre maison 12 en synastrie : son imag
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "maison 12", "synastrie", "superpositions de maisons"]
 weight: 108
 glyph: "♆"
 definition: "Neptune de l’autre dans votre maison 12 conduit Neptune, chez cette personne, dans la part la plus silencieuse de votre thème : la solitude, le repos, les rêves, la vie intérieure. En synastrie, son imagination rejoint vos silences : on vous comprend sans mots, et l’autre trouve un foyer dans votre calme. Ni secret ni symptôme."

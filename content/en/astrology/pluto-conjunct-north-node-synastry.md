@@ -5,6 +5,8 @@ description: "Pluto conjunct North Node in synastry: one person’s depth lands 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "North Node", "conjunction", "synastry"]
 weight: 371
 glyph: "♇☌☊"
 definition: "Pluto conjunct North Node in synastry is the meeting, within 4°, of one person’s Pluto with the other’s North Node, which sets that Pluto opposite their South Node. One person’s urge to renew at depth lands where the other is starting to practise, and the two rarely feel that pressure alike. I read it in both charts’ houses."

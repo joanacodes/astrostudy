@@ -5,6 +5,8 @@ description: "Their North Node in your 5th house in synastry: play and creativit
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["North Node", "5th house", "synastry", "house overlays"]
 weight: 149
 glyph: "☊"
 definition: "Their North Node in your 5th house turns your pleasures, creative projects and romance into the other person’s practice ground, with their South Node away in your 11th. Beside you they practise play and being seen as themselves; slipping into your circle of friends, by contrast, takes them no effort at all."

@@ -6,6 +6,8 @@ description: "Neptune en transit en maison 12 : près de treize ans de solitude
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Neptune", "maison 12", "transits"]
 weight: 48
 glyph: "♆"
 definition: "Neptune en transit en maison 12 amène Neptune dans la maison de son propre signe pour près de treize ans en général, la longue étape tranquille avant l’ascendant. Ce transit approfondit ce que votre thème contient de la vie intérieure : solitude, imagination, compassion et repos, avec un vrai besoin de limites. Rien n’y désigne une maladie ou un enfermement."

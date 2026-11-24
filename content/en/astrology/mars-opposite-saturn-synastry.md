@@ -5,6 +5,8 @@ description: "Mars opposite Saturn in synastry: one person’s urgency and the o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Saturn", "opposition", "synastry"]
 weight: 220
 glyph: "♂☍♄"
 definition: "Mars opposite Saturn in synastry means one person’s Mars is about 180° from the other’s Saturn, within 6°, in opposite signs. Urgency sits at one end and patience at the other, and when one leans in, the other tends to lean back. I read it as two people learning proportion from each other, never as a contest."

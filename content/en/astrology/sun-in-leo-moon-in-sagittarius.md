@@ -5,6 +5,8 @@ description: "Sun in Leo, Moon in Sagittarius: fire trine fire, fixed and mutabl
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo", "Moon", "Sagittarius"]
 weight: 57
 glyph: "☉♌☽♐"
 definition: "Sun in Leo, Moon in Sagittarius puts both lights in fire, four signs apart, at a birth just past the first quarter, the lunar month 7½ to 12 days old. Leo is the Sun’s own sign, and Jupiter rules the Moon’s. I read it as a generous heart that needs a horizon in order to stay generous."

@@ -5,6 +5,8 @@ description: "Saturn trine Uranus in synastry: one generation’s way of keeping
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Uranus", "trine", "synastry"]
 weight: 289
 glyph: "♄△♅"
 definition: "Saturn trine Uranus in synastry means one person’s Saturn is about 120° from the other’s Uranus, within 4.25°, usually in one element. One person’s steadiness and the other’s inventiveness reinforce each other, so change arrives with follow-through. I read it as an easy fit between two eras, worth spending on something hard."

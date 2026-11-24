@@ -6,6 +6,8 @@ description: "La Lune progressée en Bélier : un chapitre d’environ deux ans
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "Lune progressée", "progressions", "Bélier"]
 weight: 1
 glyph: "☽♈"
 definition: "La Lune progressée en Bélier est le chapitre, de deux ans à deux ans et demi, où la Lune de votre thème progressé traverse le Bélier, premier signe du zodiaque. J’y lis un temps où vos besoins se tournent vers le commencement et l’action : un réconfort trouvé dans le mouvement, des émotions qui demandent à passer à l’acte."

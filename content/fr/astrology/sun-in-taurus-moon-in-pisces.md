@@ -6,6 +6,8 @@ description: "Soleil en Taureau, Lune en Poissons : Vénus chez elle dans un si
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Taureau", "Lune", "Poissons"]
 weight: 24
 glyph: "☉♉☽♓"
 definition: "Soleil en Taureau, Lune en Poissons forme un sextile par signe, la Lune deux signes derrière le Soleil, à une naissance survenue vingt-deux à vingt-sept jours après une nouvelle lune. Vénus gouverne l’un des signes et a son exaltation dans l’autre. J’y lis les sens et l’imaginaire réunis : un moi ancré, des besoins tendres qui rêvent."

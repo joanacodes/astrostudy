@@ -6,6 +6,8 @@ description: "Mars de l’autre dans votre maison 2 en synastrie : son élan da
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 50
 glyph: "♂"
 definition: "Mars de l’autre dans votre maison 2 fait entrer Mars, chez cette personne, parmi vos revenus, vos biens et votre estime de vous. En synastrie, son élan rencontre ce que vous possédez et estimez : l’autre vous pousse à gagner, à demander, à défendre ce qui est à vous, et sent votre stabilité lui répondre, parfois en ne bougeant pas."

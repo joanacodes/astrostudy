@@ -6,6 +6,8 @@ description: "Mercure rétrograde en Poissons, là où la tradition affaiblit de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "Poissons"]
 weight: 12
 glyph: "☿℞♓"
 definition: "Mercure rétrograde en Poissons, c’est Mercure qui semble, depuis la Terre, reculer dans le seul signe où la tradition tient la planète pour deux fois affaiblie, pendant 21,5 à 23 jours entre février et début avril. J’y lis l’esprit qui revient sur des impressions plutôt que sur des faits, dans la maison qu’occupent les Poissons dans votre thème."

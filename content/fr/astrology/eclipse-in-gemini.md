@@ -6,6 +6,8 @@ description: "Les éclipses en Gémeaux : seize de 2000 à 2040, solaires surto
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["éclipses", "Gémeaux"]
 weight: 3
 glyph: "●♊"
 definition: "Quand une nouvelle lune proche des nœuds lunaires tombe en Gémeaux, le Soleil y est éclipsé ; quand c’est une pleine lune, la Lune est éclipsée en Gémeaux tandis que le Soleil se tient en face, en Sagittaire. Seize éclipses de ce genre tombent entre 2000 et 2040. Je n’en retiens une qu’à environ trois degrés d’un point natal."

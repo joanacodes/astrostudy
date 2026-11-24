@@ -6,6 +6,8 @@ description: "Mars trigone Lilith en synastrie : l’élan de l’une et l’in
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Lilith", "trigone", "synastrie"]
 weight: 244
 glyph: "♂△⚸"
 definition: "Mars trigone Lilith en synastrie signifie que Mars, chez une personne, et la Lune noire Lilith moyenne, chez l’autre, forment un trigone d’environ 120°, à 5,1° près, souvent à travers un même élément. L’action et l’indépendance s’accordent, sans discussion, sur le choix peu conventionnel. J’y lis une alliance facile qui doit laisser de la place à deux volontés."

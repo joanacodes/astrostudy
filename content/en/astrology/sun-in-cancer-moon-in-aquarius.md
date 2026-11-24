@@ -5,6 +5,8 @@ description: "Sun in Cancer, Moon in Aquarius: water and air five signs apart, S
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Cancer", "Moon", "Aquarius"]
 weight: 47
 glyph: "☉♋☽♒"
 definition: "Sun in Cancer, Moon in Aquarius places the Moon in fixed air, five signs behind the Sun, just after the Moon has turned full. I read it as belonging with open membership: a self rooted in family and memory, and needs that settle among equals, with room to think."

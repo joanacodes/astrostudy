@@ -5,6 +5,8 @@ description: "Neptune trine Lilith in synastry: one person greets the other’s 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Lilith", "trine", "synastry"]
 weight: 354
 glyph: "♆△⚸"
 definition: "Neptune trine Lilith in synastry joins the Neptune of one chart to the mean Black Moon Lilith of another at about 120°, within 3.4°. One person’s imagination takes in the other’s untamed side without flinching, and the untamed side lends the dreaming some spine. I read it as easy acceptance that is worth putting to use."

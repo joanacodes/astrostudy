@@ -5,6 +5,8 @@ description: "Mercury retrograde in Leo: Mercury backing through the Sun’s sig
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "Leo"]
 weight: 5
 glyph: "☿℞♌"
 definition: "Mercury retrograde in Leo is what astrologers call the 23 to 24 days, between July and September, when Mercury seen from Earth appears to back up through Leo. I read it as the voice going back to rehearsal: the speech, the creative piece and the story you tell about yourself, revised in the house Leo occupies in your chart."

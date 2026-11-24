@@ -6,6 +6,8 @@ description: "Mars de l’autre dans votre maison 12 en synastrie : son élan d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "maison 12", "synastrie", "superpositions de maisons"]
 weight: 60
 glyph: "♂"
 definition: "Mars de l’autre dans votre maison 12 fait glisser Mars, chez cette personne, vers le bout privé de votre thème : solitude, repos, effort discret, non-dits. En synastrie, son élan touche ce que vous ne montrez pas ; l’autre protège votre calme ou le trouble, et ses efforts pour vous passent souvent inaperçus. Jamais un symptôme."

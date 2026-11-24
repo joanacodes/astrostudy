@@ -6,6 +6,8 @@ description: "Nœud Nord en transit en maison 5 : environ un an et demi de jeu,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Nœud Nord", "maison 5", "transits"]
 weight: 77
 glyph: "☊"
 definition: "Le Nœud Nord en transit en maison 5, c’est l’an et demi environ où le nœud recule à travers votre maison de la joie et de la créativité, tandis que le Nœud Sud traverse votre maison 11. Il oriente vers le jeu, les amours et ce que vous créez, loin du groupe où l’on s’oublie, sans prédire d’enfant."

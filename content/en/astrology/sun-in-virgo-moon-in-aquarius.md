@@ -5,6 +5,8 @@ description: "Sun in Virgo, Moon in Aquarius: earth and air across a quincunx, b
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Virgo", "Moon", "Aquarius"]
 weight: 71
 glyph: "☉♍☽♒"
 definition: "Sun in Virgo, Moon in Aquarius sets the two lights five signs apart, a quincunx with nothing shared, at a birth while the Moon swelled towards full. Mercury rules the Sun’s sign, Uranus and Saturn the Moon’s. I read it as an engineer of better arrangements, for people as much as for things."

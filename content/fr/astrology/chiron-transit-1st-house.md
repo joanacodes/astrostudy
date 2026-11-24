@@ -6,6 +6,8 @@ description: "Chiron en transit en maison 1 : souvent deux ans environ où une 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Chiron", "maison 1", "transits"]
 weight: 61
 glyph: "⚷"
 definition: "Chiron en transit en maison 1 commence quand Chiron atteint votre ascendant et dure en général deux ans environ à la latitude de Londres, même si certains séjours sont bien plus longs. Il touche la vieille blessure d’être soi devant les autres, et ce qu’elle vous a appris. Il ne décrit aucune maladie."

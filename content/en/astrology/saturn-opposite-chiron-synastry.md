@@ -5,6 +5,8 @@ description: "Saturn opposite Chiron in synastry: one person’s competence face
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Chiron", "opposition", "synastry"]
 weight: 305
 glyph: "♄☍⚷"
 definition: "Saturn opposite Chiron in synastry sets one person’s Saturn across the zodiac from the other’s Chiron, within 5°. Competence stands at one end, a lasting limit and the skill built around it at the other, and each sees what the other holds. I read it as a seesaw of roles, never strength against weakness, and through the houses."

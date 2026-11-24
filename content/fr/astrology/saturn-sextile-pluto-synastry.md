@@ -6,6 +6,8 @@ description: "Saturne sextile Pluton en synastrie : la méthode de l’une peut
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Pluton", "sextile", "synastrie"]
 weight: 297
 glyph: "♄⚹♇"
 definition: "Saturne sextile Pluton en synastrie signifie que Saturne, chez une personne, se trouve à environ 60° de Pluton chez l’autre, à 3° près. Le sens de l’ordre de l’une peut découper en étapes le besoin de changement profond de l’autre, et cette profondeur montrer quelles structures méritent d’être rénovées. J’y lis une offre entre deux générations."

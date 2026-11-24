@@ -5,6 +5,8 @@ description: "Chiron conjunct North Node in synastry: one person’s hard-won wo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "North Node", "conjunction", "synastry"]
 weight: 381
 glyph: "⚷☌☊"
 definition: "Chiron conjunct North Node in synastry is the contact in which one person’s Chiron lands within 3° of someone else’s North Node, and therefore opposite their South Node. How one copes with a lasting difficulty sits on the very road the other is starting down. I take it as an example on offer, never a destiny."

@@ -5,6 +5,8 @@ description: "Lilith square North Node in synastry: one person’s untamed insti
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "North Node", "square", "synastry"]
 weight: 388
 glyph: "⚸□☊"
 definition: "Lilith square North Node in synastry is a right angle, held to 2.55°, between one person’s Black Moon Lilith and another person’s nodal axis, so it squares their North Node and their South Node at once. The part of one that won’t be managed stands across the other’s path. I read it as friction, never failure."

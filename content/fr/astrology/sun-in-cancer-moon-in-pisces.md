@@ -6,6 +6,8 @@ description: "Soleil en Cancer, Lune en Poissons : deux signes d’eau en trigo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Cancer", "Lune", "Poissons"]
 weight: 48
 glyph: "☉♋☽♓"
 definition: "Soleil en Cancer, Lune en Poissons place la Lune dans l’eau mutable, quatre signes derrière un Soleil d’eau cardinale, quelques jours après la pleine lune. J’y lis un soin sans murs : un moi qui abrite les siens, et des besoins qui s’apaisent dans la compassion, l’imaginaire et le calme."

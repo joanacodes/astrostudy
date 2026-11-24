@@ -5,6 +5,8 @@ description: "Mars conjunct Saturn in synastry: drive and the long view land on 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Saturn", "conjunction", "synastry"]
 weight: 216
 glyph: "♂☌♄"
 definition: "Mars conjunct Saturn in synastry means one person’s Mars sits within 6° of the other’s Saturn. The first person’s energy arrives exactly where the second keeps their standards, duties and long-term plans. I read it as effort meeting structure in one place: it can build something durable, if both agree whose timetable it is."

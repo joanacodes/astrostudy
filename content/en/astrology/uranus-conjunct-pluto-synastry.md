@@ -5,6 +5,8 @@ description: "Uranus conjunct Pluto in synastry: one generation’s urge to brea
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Pluto", "conjunction", "synastry"]
 weight: 321
 glyph: "♅☌♇"
 definition: "Uranus conjunct Pluto in synastry brings the Uranus of one person to within 4° of the other’s Pluto: one generation’s way of changing things lands on another’s way of transforming them from the root. Whether the younger or the older holds the Uranus depends on the 1960s meeting. I read it through the houses, as two eras, not as fate."

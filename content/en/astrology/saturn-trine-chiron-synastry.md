@@ -5,6 +5,8 @@ description: "Saturn trine Chiron in synastry: one person’s routines fit the o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Chiron", "trine", "synastry"]
 weight: 304
 glyph: "♄△⚷"
 definition: "Saturn trine Chiron in synastry joins one person’s Saturn and the other’s Chiron at about 120°, within 4.25°, usually in signs of one element. The structure of one fits the way the other copes with a lasting limit, almost without discussion. I read it as an easy partnership whose costs still need saying aloud."

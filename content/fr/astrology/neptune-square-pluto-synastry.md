@@ -6,6 +6,8 @@ description: "Neptune carré Pluton en synastrie : les idéaux de l’une frott
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Pluton", "carré", "synastrie"]
 weight: 343
 glyph: "♆□♇"
 definition: "Neptune carré Pluton en synastrie est un angle droit d’environ 90°, à 3,4° près, entre Neptune dans le thème d’une personne et Pluton dans celui de l’autre. Les idéaux de l’une frottent contre le besoin de l’autre de déblayer ce qui est mort, en général à dix ou vingt-quatre ans d’écart. Je lis la friction par les maisons."

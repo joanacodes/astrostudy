@@ -6,6 +6,8 @@ description: "Saturne trigone Lilith en synastrie : les règles de l’une lais
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Lilith", "trigone", "synastrie"]
 weight: 309
 glyph: "♄△⚸"
 definition: "Saturne trigone Lilith en synastrie lie Saturne d’une personne à la Lune noire Lilith de l’autre par environ 120°, à 4,25° près. Les règles de l’une laissent de la place à ce que l’autre refuse de céder : aucune ne se sent domptée ni défiée. J’y lis une aisance à employer, par les maisons, avec la Lilith moyenne."

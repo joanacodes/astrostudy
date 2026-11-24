@@ -5,6 +5,8 @@ description: "Mars opposite Uranus in synastry: one person’s drive to commit f
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Uranus", "opposition", "synastry"]
 weight: 225
 glyph: "♂☍♅"
 definition: "Mars opposite Uranus in synastry means one person’s Mars is about 180° from the other’s Uranus, within 6°, in opposite signs. One leans towards committing effort, the other towards keeping room to change, and each wakes up what the other underplays. To me it’s a seesaw, and its lesson is independence without distance."

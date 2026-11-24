@@ -6,6 +6,8 @@ description: "Lilith sextile Nœud Nord en synastrie : la franchise de l’une 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "Nœud Nord", "sextile", "synastrie"]
 weight: 387
 glyph: "⚸⚹☊"
 definition: "Lilith sextile Nœud Nord en synastrie relie la Lune noire Lilith d’une personne au Nœud Nord d’une autre par un sextile tenu à 1,8°, ce qui place aussi cette Lilith à 120° de son Nœud Sud. Le côté indompté de l’une peut ouvrir une porte à la croissance de l’autre. J’y lis un coup de pouce, jamais une poussée."

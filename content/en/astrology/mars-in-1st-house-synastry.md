@@ -5,6 +5,8 @@ description: "Their Mars in your 1st house in synastry: their drive meeting your
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "1st house", "synastry", "house overlays"]
 weight: 49
 glyph: "♂"
 definition: "Their Mars in your 1st house sets the other person’s Mars at the front of your chart, in the house of your manner, your body and your first moves. In synastry you may act faster and more boldly around them, and they find in you someone to spur on, or to race; the push runs both ways."

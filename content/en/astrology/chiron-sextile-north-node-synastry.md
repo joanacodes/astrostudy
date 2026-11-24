@@ -5,6 +5,8 @@ description: "Chiron sextile North Node in synastry: one person’s know-how ope
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "North Node", "sextile", "synastry"]
 weight: 382
 glyph: "⚷⚹☊"
 definition: "Chiron sextile North Node in synastry links one person’s Chiron to someone else’s North Node at about 60°, within 1.8°, which also leaves it 120° from their South Node. What one learned living around a difficulty opens a door towards the other’s growth. I read it as an offer that still needs taking."

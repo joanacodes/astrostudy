@@ -6,6 +6,8 @@ description: "Le Soleil de l’autre dans votre maison 7 en synastrie : son él
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 7
 glyph: "☉"
 definition: "Le Soleil de l’autre dans votre maison 7 place son Soleil dans votre maison des partenaires, là où vous rencontrez quelqu’un face à face. En synastrie, son élan arrive là où vous cherchez un vis-à-vis : cette personne devient pour vous un partenaire d’égal à égal, parfois un miroir, et sa propre direction s’éclaircit à vos côtés."

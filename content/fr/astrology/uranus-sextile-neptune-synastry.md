@@ -6,6 +6,8 @@ description: "Uranus sextile Neptune en synastrie : les réformes d’une gén�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Neptune", "sextile", "synastrie"]
 weight: 317
 glyph: "♅⚹♆"
 definition: "Uranus sextile Neptune en synastrie relie Uranus d’une personne et Neptune de l’autre par environ 60°, à 2,4° près. Les réformes que vise une génération et les idéaux que porte une autre peuvent s’entraider, grâce à un effort commun que quelqu’un doit lancer. J’y lis, par les maisons, deux époques qui s’échangent de l’aide."

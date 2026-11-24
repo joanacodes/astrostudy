@@ -6,6 +6,8 @@ description: "Neptune en transit en maison 8 : près de quatorze ans d’intimi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Neptune", "maison 8", "transits"]
 weight: 44
 glyph: "♆"
 definition: "Neptune en transit en maison 8 amincit les murs entre vous et les autres pendant près de quatorze ans en général, dans la maison de l’intimité, de la confiance et de ce qui se partage. Ce transit travaille la proximité de votre thème : compassion, fusion, arrangements communs flous. On n’y lit ni la mort de quiconque ni une somme d’argent."

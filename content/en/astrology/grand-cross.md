@@ -5,6 +5,8 @@ description: "The grand cross in astrology: four planets in two oppositions and 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["aspect patterns"]
 weight: 3
 glyph: "⊞"
 definition: "A grand cross is four planets in two oppositions that cross the chart, each planet square its two neighbours, usually in signs of one modality. It describes tension held on four sides at once: steady effort, and often a wide range of responses, never failure. Only about 1 person in 80 is born with one."

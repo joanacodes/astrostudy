@@ -6,6 +6,8 @@ description: "Saturne sextile Chiron en synastrie : la structure de l’une, of
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Chiron", "sextile", "synastrie"]
 weight: 302
 glyph: "♄⚹⚷"
 definition: "Saturne sextile Chiron en synastrie relie Saturne d’une personne et Chiron de l’autre par un angle d’environ 60°, à 3° près, en général à deux signes d’écart. La structure que l’une peut prêter est à portée de la façon dont l’autre s’adapte à une limite durable, mais il faut la demander. J’y lis une offre ouverte, lue par les maisons."

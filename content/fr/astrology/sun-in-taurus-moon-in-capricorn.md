@@ -6,6 +6,8 @@ description: "Soleil en Taureau, Lune en Capricorne : deux signes de terre en t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Taureau", "Lune", "Capricorne"]
 weight: 22
 glyph: "☉♉☽♑"
 definition: "Soleil en Taureau, Lune en Capricorne réunit deux signes de terre à quatre signes d’écart, la Lune derrière le Soleil, pour une naissance dix-sept jours et demi à vingt-deux jours après une nouvelle lune. J’y lis une stabilité au long cours : un moi qui bâtit ce qu’il peut savourer et garder, des besoins rassurés quand il y a un plan."

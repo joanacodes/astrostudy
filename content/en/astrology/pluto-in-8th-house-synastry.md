@@ -5,6 +5,8 @@ description: "Their Pluto in your 8th house in synastry: their depth in your tru
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "8th house", "synastry", "house overlays"]
 weight: 116
 glyph: "♇"
 definition: "Their Pluto in your 8th house puts the other person’s Pluto in the house of its own modern sign: intimacy, trust and shared resources. In synastry closeness runs deep, trust becomes total or nothing, and crises faced together can renew you both, while privacy and joint money need clear terms. Death is never part of the reading."

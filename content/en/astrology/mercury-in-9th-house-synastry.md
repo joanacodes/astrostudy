@@ -5,6 +5,8 @@ description: "Their Mercury in your 9th house in synastry: ideas, travel, study 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "9th house", "synastry", "house overlays"]
 weight: 33
 glyph: "☿"
 definition: "Their Mercury in your 9th house is a meeting of minds on the far horizon: travel, study, belief and the questions you ask about meaning. In synastry, talk with them widens your outlook and they love to learn yours, though ideas can harden into positions; Sagittarius, the 9th’s natural sign, is where Mercury is said to be in detriment."

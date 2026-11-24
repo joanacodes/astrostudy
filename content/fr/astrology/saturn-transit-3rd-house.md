@@ -6,6 +6,8 @@ description: "Saturne en transit en maison 3 : environ trois ans où l’esprit
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Saturne", "maison 3", "transits"]
 weight: 15
 glyph: "♄"
 definition: "Saturne en transit en maison 3, c’est la saison, un peu moins de trois ans en général, où la lente discipline de Saturne atteint l’esprit du quotidien : votre façon de penser, de parler, d’apprendre et de circuler. Ce qu’elle structure se trouve déjà dans votre thème : des études soignées, des mots pesés, des savoir-faire bâtis pour durer."

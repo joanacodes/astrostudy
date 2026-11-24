@@ -6,6 +6,8 @@ description: "Uranus opposition Pluton en synastrie : l’envie de se libérer 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Pluton", "opposition", "synastrie"]
 weight: 325
 glyph: "♅☍♇"
 definition: "Uranus opposition Pluton en synastrie place Uranus d’une personne à l’opposé de Pluton chez l’autre, à 4° près. Aucun thème de naissance de 1930 à 2009 ne porte cette opposition : elle demande deux personnes nées à quarante, voire soixante ans d’écart, l’élan de liberté d’une époque face au renouveau profond d’une autre. Je la lis par les maisons."

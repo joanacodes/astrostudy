@@ -6,6 +6,8 @@ description: "Neptune de l’autre dans votre maison 10 en synastrie : son idé
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "maison 10", "synastrie", "superpositions de maisons"]
 weight: 106
 glyph: "♆"
 definition: "Neptune de l’autre dans votre maison 10 élève Neptune, chez cette personne, au sommet de votre thème : carrière, rôle public, réputation. En synastrie, son idéal rencontre votre direction : l’ambition devient vocation et votre nom prend un léger halo, tandis que projets et rôles demandent des conditions claires. Ni réussite ni échec n’y sont prédits."

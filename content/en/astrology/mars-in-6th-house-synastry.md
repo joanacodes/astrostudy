@@ -5,6 +5,8 @@ description: "Their Mars in your 6th house in synastry: their drive in your work
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "6th house", "synastry", "house overlays"]
 weight: 54
 glyph: "♂"
 definition: "Their Mars in your 6th house means the other person’s Mars falls among your daily work, routines and habits, the house where tradition said Mars rejoices. In synastry their drive gets your days moving: tasks get done faster around them, and they feel useful beside your method, though your pace and theirs may need agreeing."

@@ -5,6 +5,8 @@ description: "Mars sextile Chiron in synastry: encouragement of the right size, 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Chiron", "sextile", "synastry"]
 weight: 237
 glyph: "♂⚹⚷"
 definition: "Mars sextile Chiron in synastry means one person’s Mars and the other’s Chiron usually sit two signs apart, within 3.6°. One person’s drive gives the other the nerve for another attempt at a workable speed; the other’s practical wisdom about limits helps that drive last. I read it as encouragement that waits to be invited, and repays it."

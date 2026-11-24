@@ -6,6 +6,8 @@ description: "La Lune progressée en Cancer, le signe propre de la Lune : un ch
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "Lune progressée", "progressions", "Cancer"]
 weight: 4
 glyph: "☽♋"
 definition: "La Lune progressée en Cancer, c’est votre Lune progressée qui traverse le signe qu’elle gouverne, un chapitre de deux ans à deux ans et demi dans les progressions secondaires. J’y lis un temps où les besoins se rassemblent autour de l’appartenance : le foyer, vos proches, le soin donné et reçu, les souvenirs qui font qu’un lieu est le vôtre."

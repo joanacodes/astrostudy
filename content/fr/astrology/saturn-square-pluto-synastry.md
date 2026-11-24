@@ -6,6 +6,8 @@ description: "Saturne carré Pluton en synastrie : les structures de l’une re
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Pluton", "carré", "synastrie"]
 weight: 298
 glyph: "♄□♇"
 definition: "Saturne carré Pluton en synastrie signifie que Saturne, chez une personne, se trouve à environ 90° de Pluton chez l’autre, à 4,25° près. Ce que l’une maintient rencontre sans cesse, de biais, la pression de l’autre pour le transformer. J’y lis la friction de deux époques, qui peut bâtir l’endurance et une parole franche sur le pouvoir."

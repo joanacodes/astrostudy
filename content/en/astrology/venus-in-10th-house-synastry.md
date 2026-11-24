@@ -5,6 +5,8 @@ description: "Their Venus in your 10th house in synastry: admiration for your wo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "10th house", "synastry", "house overlays"]
 weight: 46
 glyph: "♀"
 definition: "With their Venus in your 10th house, your public life is what the other person admires: your work, your role, your standing. In synastry they take pleasure in your achievements and talk you up, though admiration for a role can blur into love for it. It never predicts a career outcome."

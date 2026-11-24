@@ -5,6 +5,8 @@ description: "Sun in Aquarius, Moon in Aries: a Sun in detriment, a Moon where t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aquarius", "Moon", "Aries"]
 weight: 121
 glyph: "☉♒☽♈"
 definition: "Sun in Aquarius, Moon in Aries joins a Sun in its detriment to a Moon in Aries, the sign where tradition exalts the Sun, two signs on and a few days after a new moon. I read it as a self that plans for everyone’s future, with feelings that answer straight away."

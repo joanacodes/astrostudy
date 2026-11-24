@@ -5,6 +5,8 @@ description: "Pluto sextile North Node in synastry: one person’s capacity for 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "North Node", "sextile", "synastry"]
 weight: 372
 glyph: "♇⚹☊"
 definition: "Pluto sextile North Node in synastry is one person’s Pluto sitting a sextile from the other’s North Node, inside 2.4°, and so a trine from their South Node. The renewal one carries gives the other a route forward that keeps faith with old strengths. I read it as a quiet opportunity, real once taken."

@@ -6,6 +6,8 @@ description: "La Lune progressée en Lion : deux ans ou un peu plus de besoin d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "Lune progressée", "progressions", "Lion"]
 weight: 5
 glyph: "☽♌"
 definition: "La Lune progressée en Lion désigne les deux ans, ou un peu plus, pendant lesquels votre Lune progressée traverse le Lion, signe du Soleil, dans l’horloge du jour pour un an des progressions secondaires. J’y lis un chapitre où les besoins deviennent chaleureux et tournés vers l’extérieur : créer, jouer, montrer qui vous êtes et recevoir de la reconnaissance."

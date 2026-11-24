@@ -6,6 +6,8 @@ description: "La Lune progressée en Balance : deux ans et quatre mois environ 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "Lune progressée", "progressions", "Balance"]
 weight: 7
 glyph: "☽♎"
 definition: "La Lune progressée en Balance est un chapitre de deux ans à deux ans et demi, dans les progressions secondaires, pendant lequel votre Lune progressée traverse la Balance, signe opposé au Bélier. J’y lis un temps où les besoins se comblent par les autres : la compagnie, l’échange équitable, la coopération, et un sens de la mesure au quotidien."

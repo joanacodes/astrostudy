@@ -5,6 +5,8 @@ description: "Lilith conjunct North Node in synastry: one person’s untamed sid
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "North Node", "conjunction", "synastry"]
 weight: 386
 glyph: "⚸☌☊"
 definition: "Lilith conjunct North Node in synastry is a meeting, within 3°, of one person’s Black Moon Lilith with another person’s North Node, which also sets the Lilith against their South Node. What one refuses to have tamed lands where the other is learning to grow. I read it as permission or pressure, never a destiny."

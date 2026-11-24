@@ -6,6 +6,8 @@ description: "Mercure de l’autre dans votre maison 1 en synastrie : sa pensé
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 25
 glyph: "☿"
 definition: "Avec Mercure de l’autre dans votre maison 1, la planète de la pensée et de la parole de cette personne occupe la maison de votre allure. En synastrie, elle vous remarque à voix haute et met des mots sur votre manière d’être ; à ses côtés, vous pensez plus vite, vous parlez davantage, et l’on vous lit plus facilement."

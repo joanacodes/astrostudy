@@ -6,6 +6,8 @@ description: "Jupiter en transit en maison 3 : un an environ où l’apprentiss
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Jupiter", "maison 3", "transits"]
 weight: 3
 glyph: "♃"
 definition: "Jupiter en transit en maison 3 veut dire que Jupiter, en avançant dans le ciel, traverse la part de votre thème qui contient la pensée, la parole et l’apprentissage du quotidien, un peu plus d’un an. La curiosité réveillée était déjà écrite dans votre thème ; pour un temps, elle trouve plus de conversations, et un savoir épars se rassemble."

@@ -5,6 +5,8 @@ description: "Their Sun in your 4th house in synastry: their purpose warming you
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "4th house", "synastry", "house overlays"]
 weight: 4
 glyph: "☉"
 definition: "Their Sun in your 4th house sets another person’s Sun at the foot of your chart, among your home, roots and private life. In synastry their purpose lights up the ground you stand on: they tend to feel like home or family to you, and most themselves in your private world."

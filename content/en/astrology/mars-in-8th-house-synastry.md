@@ -5,6 +5,8 @@ description: "Their Mars in your 8th house in synastry: their drive in your inti
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "8th house", "synastry", "house overlays"]
 weight: 56
 glyph: "♂"
 definition: "Their Mars in your 8th house carries the other person’s Mars into your intimacy, trust and shared resources, a house whose sign tradition gave to Mars. In synastry their drive meets what you share: desire and courage can run strong between you, and they want to earn a trust you don’t give lightly; it never predicts a death."

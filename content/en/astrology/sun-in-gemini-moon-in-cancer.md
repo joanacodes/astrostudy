@@ -5,6 +5,8 @@ description: "Sun in Gemini, Moon in Cancer: a talkative, curious self with deep
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini", "Moon", "Cancer"]
 weight: 28
 glyph: "☉♊☽♋"
 definition: "Sun in Gemini, Moon in Cancer comes from the opening days of a lunar month, with the Moon in its own sign, Cancer, just one sign past the Sun. I read it as a light, curious self that talks its way out into the world, and needs that look for shelter, and for people to shelter there."

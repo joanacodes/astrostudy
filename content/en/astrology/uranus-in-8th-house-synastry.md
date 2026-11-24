@@ -5,6 +5,8 @@ description: "Their Uranus in your 8th house in synastry: freedom and surprise i
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "8th house", "synastry", "house overlays"]
 weight: 92
 glyph: "♅"
 definition: "Their Uranus in your 8th house sends another person’s Uranus into your house of intimacy, trust and shared resources. In synastry closeness with them can feel liberating and charged, breaking old taboos, or jolting, with trust shaken by surprise, while they feel freer in deep intimacy with you than they expected. It never predicts death or loss."

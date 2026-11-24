@@ -5,6 +5,8 @@ description: "Sun in Aquarius, Moon in Sagittarius: a fire-and-air sextile just 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aquarius", "Moon", "Sagittarius"]
 weight: 129
 glyph: "☉♒☽♐"
 definition: "Sun in Aquarius, Moon in Sagittarius places the Moon two signs behind the Sun, in fire, just after the last quarter moon. Jupiter rules the Moon’s sign. I see a self oriented to the future of people in general, with needs that settle when a horizon and a question worth following are in view."

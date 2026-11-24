@@ -5,6 +5,8 @@ description: "Sun in Leo, Moon in Aries: fixed and cardinal fire, the Moon in th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo", "Moon", "Aries"]
 weight: 49
 glyph: "☉♌☽♈"
 definition: "Sun in Leo, Moon in Aries joins fixed and cardinal fire, with the Moon four signs back from the Sun, two and a half to three weeks into the lunar month. The Sun is in its own sign and the Moon in the Sun’s exaltation: a self that keeps a flame going, and needs that strike the match."

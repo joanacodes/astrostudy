@@ -5,6 +5,8 @@ description: "Their Uranus in your 10th house in synastry: independence and sudd
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "10th house", "synastry", "house overlays"]
 weight: 94
 glyph: "♅"
 definition: "Their Uranus in your 10th house aims another person’s Uranus at the top of your chart: career, reputation, public role. In synastry they may encourage an unusual path, a change of direction or more independence at work, or make your public life feel unstable, while they feel free to reinvent your ambitions. It forecasts nothing about your career."

@@ -6,6 +6,8 @@ description: "Mercure de l’autre dans votre maison 11 en synastrie : idées e
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mercure", "maison 11", "synastrie", "superpositions de maisons"]
 weight: 35
 glyph: "☿"
 definition: "Mercure de l’autre dans votre maison 11 circule dans votre cercle, vos réseaux et vos espérances : les idées de cette personne rejoignent votre cercle et vos projets d’avenir. En synastrie, elle vous met en relation avec des gens et des occasions, et vos échanges tournent vers les causes et ce que vous espérez bâtir, souvent en compagnie."

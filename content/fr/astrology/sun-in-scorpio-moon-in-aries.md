@@ -6,6 +6,8 @@ description: "Soleil en Scorpion, Lune en Bélier : Mars derrière les deux lum
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Scorpion", "Lune", "Bélier"]
 weight: 85
 glyph: "☉♏☽♈"
 definition: "Soleil en Scorpion, Lune en Bélier réunit l’eau fixe et le feu cardinal, à cinq signes, quelques jours avant une pleine lune, Mars gouvernant le signe de la Lune et, dans la tradition, celui du Soleil. J’y lis un moi qui va lentement à la racine des choses, avec des émotions vives et franches."

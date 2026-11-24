@@ -5,6 +5,8 @@ description: "Their Chiron in your 1st house in synastry: their old hurt and wha
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "1st house", "synastry", "house overlays"]
 weight: 121
 glyph: "⚷"
 definition: "In synastry, their Chiron in your 1st house describes the other person’s Chiron lying in the house of your manner, body and first moves. Their old hurt, and what it taught them, meets the way you show up: they often put you at ease about how you come across, while your presence brushes a sore spot of theirs."

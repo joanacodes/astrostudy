@@ -5,6 +5,8 @@ description: "Sun in Capricorn, Moon in Taurus: an earth trine by sign, the Moon
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Capricorn", "Moon", "Taurus"]
 weight: 110
 glyph: "☉♑☽♉"
 definition: "Sun in Capricorn, Moon in Taurus joins cardinal and fixed earth in a trine by sign, at a birth seven and a half to twelve days after a new moon. The Moon is exalted in Taurus. I see a builder whose needs look after what has been built: steady on both sides, and patient by nature."

@@ -6,6 +6,8 @@ description: "Pluton en transit en maison 11 : dix-huit ans environ d’amitié
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Pluton", "maison 11", "transits"]
 weight: 59
 glyph: "♇"
 definition: "Pluton en transit en maison 11 : un séjour de dix-huit ans environ au milieu, à la latitude de Londres, dans votre maison des amis, des groupes et des espoirs. Ce passage sépare la compagnie de l’habitude, et les souhaits des vrais projets : les cercles qui restent tendent à être plus profonds, et les projets gardés, plus vraiment les vôtres."

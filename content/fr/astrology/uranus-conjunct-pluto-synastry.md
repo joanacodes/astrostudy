@@ -6,6 +6,8 @@ description: "Uranus conjonction Pluton en synastrie : l’envie d’une géné
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Pluton", "conjonction", "synastrie"]
 weight: 321
 glyph: "♅☌♇"
 definition: "Uranus conjonction Pluton en synastrie fait tomber Uranus d’une personne à moins de 4° de Pluton chez l’autre : l’élan d’une génération pour changer les choses rencontre la manière dont une autre les transforme à la racine. La plus jeune ou la plus âgée porte Uranus selon la rencontre des années 1960. J’y lis deux époques, pas un destin."

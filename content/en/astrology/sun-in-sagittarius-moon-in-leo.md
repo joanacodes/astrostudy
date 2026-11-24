@@ -5,6 +5,8 @@ description: "Sun in Sagittarius, Moon in Leo: two fire signs in a trine, the Mo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Sagittarius", "Moon", "Leo"]
 weight: 101
 glyph: "☉♐☽♌"
 definition: "Sun in Sagittarius, Moon in Leo means the Moon stood eight signs ahead of the Sun, in Leo, at a birth under a disseminating Moon, about three weeks after the new moon. Both lights are in fire, and the Sun rules the Moon’s sign. I read it as conviction with a warm voice, wanting an audience it trusts."

@@ -5,6 +5,8 @@ description: "Their Neptune in your 6th house in synastry: their ideals in your 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "6th house", "synastry", "house overlays"]
 weight: 102
 glyph: "♆"
 definition: "Their Neptune in your 6th house sets the other person’s Neptune among your daily tasks, routines and habits. In synastry their ideals give your working days meaning: routine becomes ritual and help flows freely, while your method gives their compassion something practical to do. Roles and schedules can blur between you, and it never describes your health."

@@ -5,6 +5,8 @@ description: "Their North Node in your 8th house in synastry: trust and what you
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["North Node", "8th house", "synastry", "house overlays"]
 weight: 152
 glyph: "☊"
 definition: "Their North Node in your 8th house is an overlay of trust: the other person’s growth reaches into your intimacy and shared resources, while their South Node sits in your 2nd. Trust is what they practise with you, and holding on to what is theirs is the reflex they know best. It never forecasts a loss."

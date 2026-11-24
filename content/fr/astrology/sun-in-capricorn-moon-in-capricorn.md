@@ -6,6 +6,8 @@ description: "Soleil en Capricorne, Lune en Capricorne : deux luminaires en ter
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Capricorne", "Lune"]
 weight: 118
 glyph: "☉♑☽♑"
 definition: "Soleil en Capricorne, Lune en Capricorne, ce sont deux luminaires en terre cardinale, pour une naissance à deux jours et demi au plus de la nouvelle lune en Capricorne, la première après le solstice de décembre. Saturne les gouverne tous deux, et la Lune est en exil. J’y lis un long projet, mené des mêmes mains patientes."

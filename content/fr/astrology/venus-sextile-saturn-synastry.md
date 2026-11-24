@@ -6,6 +6,8 @@ description: "Vénus sextile Saturne en synastrie : les plaisirs de l’une emp
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Saturne", "sextile", "synastrie"]
 weight: 177
 glyph: "♀⚹♄"
 definition: "Vénus sextile Saturne en synastrie signifie que Vénus, chez une personne, se trouve à environ 60° de Saturne chez l’autre, à 3,6° près. Ce que la première estime peut emprunter la patience et le sens pratique de la seconde, dont la constance est accueillie plutôt que subie. J’y lis une offre qui marche quand quelqu’un la saisit."

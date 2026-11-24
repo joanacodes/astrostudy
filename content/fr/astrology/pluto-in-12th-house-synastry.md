@@ -6,6 +6,8 @@ description: "Pluton de l’autre dans votre maison 12 en synastrie : sa profon
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "maison 12", "synastrie", "superpositions de maisons"]
 weight: 120
 glyph: "♇"
 definition: "Pluton de l’autre dans votre maison 12 laisse entrer la profondeur d’une autre personne dans l’arrière-pays de votre thème : la solitude, le repos, ce que vous portez hors de vue. En synastrie, un travail intérieur devient possible, ce que vous gardez pour vous est pressenti, et votre calme peut changer l’autre. Aucun tort n’y est prédit, aucun diagnostic posé."

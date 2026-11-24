@@ -6,6 +6,8 @@ description: "Neptune en transit en maison 3 : près de seize ans à penser en 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Neptune", "maison 3", "transits"]
 weight: 39
 glyph: "♆"
 definition: "Neptune en transit en maison 3 remplit d’images votre esprit de tous les jours pendant près de seize ans au milieu, le plus long séjour de Neptune dans une maison à la latitude de Londres. Ce transit travaille ce que votre thème dit de la pensée, de la parole et de l’apprentissage : l’intuition grandit, les détails demandent une seconde lecture."

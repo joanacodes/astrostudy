@@ -5,6 +5,8 @@ description: "Sun in Capricorn, Moon in Capricorn: both lights in cardinal earth
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Capricorn", "Moon"]
 weight: 118
 glyph: "☉♑☽♑"
 definition: "Sun in Capricorn, Moon in Capricorn means both lights stood in cardinal earth, no more than two and a half days from the new moon in Capricorn, the first after the December solstice. Saturn rules both, and the Moon is in its detriment. I read it as one long project, the same patient hands for work and feeling."

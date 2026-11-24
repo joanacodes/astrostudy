@@ -6,6 +6,8 @@ description: "Uranus conjonction Neptune en synastrie : l’envie de changement
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Neptune", "conjonction", "synastrie"]
 weight: 316
 glyph: "♅☌♆"
 definition: "Uranus conjonction Neptune en synastrie place Uranus d’une personne à moins de 4° de Neptune chez l’autre : la façon dont une génération change les choses se pose sur les idéaux d’une autre. Pour les naissances antérieures aux années 1990, Uranus revient à la plus jeune. Par les maisons, j’y lis la rencontre de deux époques plutôt qu’un lien personnel."

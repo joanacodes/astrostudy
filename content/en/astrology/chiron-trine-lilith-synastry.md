@@ -5,6 +5,8 @@ description: "Chiron trine Lilith in synastry: one person’s ways of adapting a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "Lilith", "trine", "synastry"]
 weight: 379
 glyph: "⚷△⚸"
 definition: "Chiron trine Lilith in synastry joins a Chiron in one chart and a Black Moon Lilith in the other by a trine, 120° held to 2.55°, usually across signs of one element. One person’s ways of adapting and the other’s untamed side sit easily together. I read it as a comfort worth naming rather than taking for granted."

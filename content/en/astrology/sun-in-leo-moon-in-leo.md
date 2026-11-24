@@ -5,6 +5,8 @@ description: "Sun in Leo, Moon in Leo: the Sun rules both lights, and the Moon, 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo", "Moon"]
 weight: 53
 glyph: "☉♌☽♌"
 definition: "Sun in Leo, Moon in Leo is the double Leo: both lights in the Sun’s own sign, no more than about 2½ days from a new moon. The Sun rules the sign, so a single light answers for both. I read it as purpose and comfort lit from one source: making something from the heart, and having it seen."

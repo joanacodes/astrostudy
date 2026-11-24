@@ -6,6 +6,8 @@ description: "Neptune sextile Chiron en synastrie : l’imagination de l’une 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Chiron", "sextile", "synastrie"]
 weight: 347
 glyph: "♆⚹⚷"
 definition: "Neptune sextile Chiron en synastrie offre l’imagination d’une personne à la plus vieille adaptation de l’autre : les deux corps se tiennent à environ 60°, à 2,4° près. Cette imagination propose une façon plus douce de voir une vieille limite, qui aide une fois saisie. Des mois entiers de naissances le partagent, et les maisons le rendent singulier."

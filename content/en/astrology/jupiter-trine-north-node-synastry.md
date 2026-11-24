@@ -5,6 +5,8 @@ description: "Jupiter trine North Node in synastry: one person’s outlook makes
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "North Node", "trine", "synastry"]
 weight: 284
 glyph: "♃△☊"
 definition: "Jupiter trine North Node in synastry means one person’s Jupiter is about 120° from the other’s North Node, within 4.25°, and so about 60° from their South Node. One person’s outlook supports the capacity the other is learning, easily and steadily. I read it as encouragement that flows, best when it leaves the practising to its owner."

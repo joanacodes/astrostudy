@@ -5,6 +5,8 @@ description: "Chiron transiting the 5th house: about four years in which an old 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Chiron", "5th house", "transits"]
 weight: 65
 glyph: "⚷"
 definition: "Chiron transiting the 5th house is Chiron’s stay, about four years at London’s latitude, in your house of play, pleasure, romance and creative work. It touches old hurts about enjoying yourself and being seen to shine, and can turn them into a gift for encouraging others. It predicts no children."

@@ -6,6 +6,8 @@ description: "Soleil en Balance, Lune en Poissons : Vénus maîtresse de l’un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Balance", "Lune", "Poissons"]
 weight: 84
 glyph: "☉♎☽♓"
 definition: "Soleil en Balance, Lune en Poissons relie deux signes à cinq signes d’écart par Vénus, qui gouverne la Balance et a son exaltation en Poissons, dans les jours qui précèdent une pleine lune. J’y trouve un moi qui cherche la proportion et le jugement juste, avec des besoins poreux, imaginatifs et prompts à la compassion."

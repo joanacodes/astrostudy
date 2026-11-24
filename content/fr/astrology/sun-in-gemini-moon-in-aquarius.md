@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux, Lune en Verseau : deux signes d’air en trig
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux", "Lune", "Verseau"]
 weight: 35
 glyph: "☉♊☽♒"
 definition: "Soleil en Gémeaux, Lune en Verseau réunit les luminaires dans l’élément air, à quatre signes d’écart, la Lune derrière, entre la pleine lune et le dernier quartier. J’y vois un esprit fait pour les réseaux : un moi qui relie gens et idées, des besoins en paix quand la vie est juste, libre et partagée avec des amis."

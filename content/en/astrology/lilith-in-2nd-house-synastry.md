@@ -5,6 +5,8 @@ description: "Their Lilith in your 2nd house in synastry: their refusal to be ta
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "2nd house", "synastry", "house overlays"]
 weight: 134
 glyph: "⚸"
 definition: "Their Lilith in your 2nd house drops the other person’s mean Black Moon Lilith among your money, belongings, values and self-worth. In synastry what they refused to have tamed meets what you allow yourself to want: the guilt you learned about wanting may loosen, while your values can provoke or free them."

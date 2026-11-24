@@ -5,6 +5,8 @@ description: "Venus opposite Uranus in synastry: one person speaks for togethern
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Uranus", "opposition", "synastry"]
 weight: 185
 glyph: "♀☍♅"
 definition: "Venus opposite Uranus in synastry means one person’s Venus is about 180° from the other’s Uranus, within 6°. The pair’s answers to how close is close enough sit at two ends: one person tends to speak for togetherness, the other for independence. I read it as a seesaw that teaches each person the other end."

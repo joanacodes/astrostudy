@@ -5,6 +5,8 @@ description: "Their Pluto in your 6th house in synastry: their depth in your wor
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "6th house", "synastry", "house overlays"]
 weight: 114
 glyph: "♇"
 definition: "Their Pluto in your 6th house sets the other person’s depth to work on your daily routines, methods and habits. In synastry how you work can be overhauled, habits that no longer serve fall away, and your discipline may change them in turn, while questions of control can surface. It says nothing about your health."

@@ -5,6 +5,8 @@ description: "Sun in Sagittarius, Moon in Scorpio: neighbouring signs that share
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Sagittarius", "Moon", "Scorpio"]
 weight: 104
 glyph: "☉♐☽♏"
 definition: "Sun in Sagittarius, Moon in Scorpio places the Moon in the sign just before the Sun’s, at a birth under a balsamic Moon in the last days before a new moon. Fire meets water, and the Moon is in its fall. I read it as open sky above deep water: candour carried by feelings that go all the way down."

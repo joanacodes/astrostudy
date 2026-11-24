@@ -5,6 +5,8 @@ description: "Their Moon in your 1st house in synastry: their feelings meeting y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "1st house", "synastry", "house overlays"]
 weight: 13
 glyph: "☽"
 definition: "Their Moon in your 1st house means the other person’s Moon, their feelings and needs, sits on the front of your chart: your manner, body and first reactions. In synastry they tend to respond to you instinctively and feel safe near you, while you sense their care, or their unease, almost before they speak."

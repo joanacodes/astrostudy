@@ -5,6 +5,8 @@ description: "Their Venus in your 3rd house in synastry: kindness in your daily 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "3rd house", "synastry", "house overlays"]
 weight: 39
 glyph: "♀"
 definition: "Their Venus in your 3rd house is affection spoken in the everyday: kind words, easy messages, pleasant errands, warmth in your close circle. In synastry, talk between you is gentle and enjoyable and the ordinary feels sweeter, though ease can dodge hard conversations; Gemini is the 3rd’s natural sign."

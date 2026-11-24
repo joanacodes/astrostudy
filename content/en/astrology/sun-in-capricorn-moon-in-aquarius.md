@@ -5,6 +5,8 @@ description: "Sun in Capricorn, Moon in Aquarius: neighbouring signs that share 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Capricorn", "Moon", "Aquarius"]
 weight: 119
 glyph: "☉♑☽♒"
 definition: "Sun in Capricorn, Moon in Aquarius has the Moon a sign ahead of the Sun, in Aquarius, at a birth in the first five days of a lunar month. Saturn rules Capricorn and, traditionally, Aquarius too, with Uranus as the Moon’s modern ruler. I read it as someone who builds for the future and needs room to improve it."

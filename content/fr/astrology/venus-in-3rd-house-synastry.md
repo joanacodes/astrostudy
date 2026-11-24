@@ -6,6 +6,8 @@ description: "Vénus de l’autre dans votre maison 3 en synastrie : de la douc
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 39
 glyph: "♀"
 definition: "Vénus de l’autre dans votre maison 3, c’est une affection qui se dit au quotidien : mots gentils, messages faciles, courses agréables, chaleur dans votre entourage proche. En synastrie, vos échanges sont doux et plaisants, l’ordinaire prend du goût, même si l’aisance peut esquiver les conversations difficiles ; les Gémeaux sont le signe naturel de cette maison."

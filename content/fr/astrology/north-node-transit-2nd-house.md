@@ -6,6 +6,8 @@ description: "Nœud Nord en transit en maison 2 : environ un an et demi pour b�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Nœud Nord", "maison 2", "transits"]
 weight: 74
 glyph: "☊"
 definition: "Le Nœud Nord en transit en maison 2, c’est l’an et demi environ où le nœud recule à travers votre maison des ressources et des valeurs, tandis que le Nœud Sud traverse votre maison 8. Il oriente vers ce qui est à vous, savoir-faire, moyens, estime de soi, plutôt que vers ce que d’autres détiennent, sans prédire vos revenus."

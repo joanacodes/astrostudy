@@ -6,6 +6,8 @@ description: "Vénus de l’autre dans votre maison 5 en synastrie : plaisir, j
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 41
 glyph: "♀"
 definition: "Vénus de l’autre dans votre maison 5, c’est un plaisir partagé : l’affection et le goût de cette personne rencontrent vos jeux, vos plaisirs, votre créativité et vos amours, dans la maison où la tradition plaçait la joie de Vénus. En synastrie, l’amusement vient tout seul et l’attirance peut suivre, en amitié comme en amour ; rien n’y annonce d’enfants."

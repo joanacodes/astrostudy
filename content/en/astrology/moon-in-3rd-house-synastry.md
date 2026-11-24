@@ -5,6 +5,8 @@ description: "Their Moon in your 3rd house in synastry: their feelings in your d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "3rd house", "synastry", "house overlays"]
 weight: 15
 glyph: "☽"
 definition: "Their Moon in your 3rd house means the other person’s feelings and needs come into your everyday talk, learning and close circle. In synastry they tend to feel safe talking to you and settle through your conversations, while you find their company familiar and easy, often like a sibling’s; tradition gave the Moon its joy in this house."

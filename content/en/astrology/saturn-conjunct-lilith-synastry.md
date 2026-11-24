@@ -5,6 +5,8 @@ description: "Saturn conjunct Lilith in synastry: one person’s rules sit on wh
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Lilith", "conjunction", "synastry"]
 weight: 306
 glyph: "♄☌⚸"
 definition: "Saturn conjunct Lilith in synastry brings one person’s Saturn within 5° of the other’s Black Moon Lilith, so a structure lands on the very part of someone that learned to stay hidden. It can work as a lid or as a container. I read it through the houses, with mean Lilith, and only with both people’s consent."

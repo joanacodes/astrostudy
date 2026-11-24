@@ -5,6 +5,8 @@ description: "Sun in Gemini, Moon in Aries: air and fire, Mercury and Mars, born
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini", "Moon", "Aries"]
 weight: 25
 glyph: "☉♊☽♈"
 definition: "Sun in Gemini, Moon in Aries places a fire Moon two signs back from the Sun, in the lunar month’s final week, after the last quarter. I read it as curiosity and impatience travelling together: a self that gathers options and ideas, and needs that settle once a feeling has been acted on, quickly and out loud."

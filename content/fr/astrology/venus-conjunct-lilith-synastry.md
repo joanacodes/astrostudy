@@ -6,6 +6,8 @@ description: "Vénus conjonction Lilith en synastrie : le goût de l’une tomb
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Lilith", "conjonction", "synastrie"]
 weight: 201
 glyph: "♀☌⚸"
 definition: "Vénus conjonction Lilith en synastrie signifie que Vénus, chez une personne, se trouve sur la Lune noire Lilith moyenne de l’autre, à 6° près. La première aime d’emblée ce que la seconde a appris à cacher : une part rarement aimée jusque-là. J’y lis une estime à offrir, jamais à revendiquer."

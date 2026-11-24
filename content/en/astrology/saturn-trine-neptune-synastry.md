@@ -5,6 +5,8 @@ description: "Saturn trine Neptune in synastry: one person’s reliability gives
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Neptune", "trine", "synastry"]
 weight: 294
 glyph: "♄△♆"
 definition: "Saturn trine Neptune in synastry means one person’s Saturn is about 120° from the other’s Neptune, within 4.25°, usually in one element. One person’s reliability gives the other’s imagination or compassion a steady container, and the ideal gives the reliability a purpose. I read it as quiet faithfulness between two eras."

@@ -5,6 +5,8 @@ description: "Their Uranus in your 5th house in synastry: the unexpected in fun,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "5th house", "synastry", "house overlays"]
 weight: 89
 glyph: "♅"
 definition: "Their Uranus in your 5th house sparks another person’s Uranus across your pleasures: play, romance, hobbies and the things you create. In synastry fun with them tends to be inventive and unpredictable, romance carries a jolt of surprise, and they feel freer to play beside you. It predicts neither a fling nor children."

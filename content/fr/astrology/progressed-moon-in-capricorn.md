@@ -6,6 +6,8 @@ description: "La Lune progressée en Capricorne : deux ans et quatre mois envir
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "Lune progressée", "progressions", "Capricorne"]
 weight: 10
 glyph: "☽♑"
 definition: "La Lune progressée en Capricorne couvre les deux ans à deux ans et demi où votre Lune progressée gravit le Capricorne, signe de terre gouverné par Saturne et, selon la tradition, exil de la Lune. J’y lis un chapitre où les besoins se comblent par la structure et la responsabilité : un travail qui dure, une chaleur montrée par les actes."

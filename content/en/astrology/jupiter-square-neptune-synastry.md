@@ -5,6 +5,8 @@ description: "Jupiter square Neptune in synastry: one person’s principles rub 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Neptune", "square", "synastry"]
 weight: 263
 glyph: "♃□♆"
 definition: "Jupiter square Neptune in synastry means one person’s Jupiter is about 90° from the other’s Neptune, within 4.25°. A wish for clear principles keeps meeting ideals that resist being pinned down. The friction teaches discernment; whole birth years carry it, and Neptune here never means deception."

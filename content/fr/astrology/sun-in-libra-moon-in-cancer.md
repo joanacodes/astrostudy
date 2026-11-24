@@ -6,6 +6,8 @@ description: "Soleil en Balance, Lune en Cancer : deux signes cardinaux en carr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Balance", "Lune", "Cancer"]
 weight: 76
 glyph: "☉♎☽♋"
 definition: "Soleil en Balance, Lune en Cancer place les luminaires dans deux signes cardinaux en carré, la Lune dans son propre signe, trois semaines environ après la nouvelle lune. J’y lis un moi qui garde les choses justes entre les personnes, avec des besoins qui réclament un seul lieu abrité où rien n’est à négocier."

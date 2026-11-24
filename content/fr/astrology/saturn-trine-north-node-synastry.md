@@ -6,6 +6,8 @@ description: "Saturne trigone Nœud Nord en synastrie : la constance de l’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Nœud Nord", "trigone", "synastrie"]
 weight: 314
 glyph: "♄△☊"
 definition: "Saturne trigone Nœud Nord en synastrie unit par un trigone, à 4,25° près, Saturne d’une personne et le Nœud Nord de l’autre, avec en prime un sextile vers son Nœud Sud. La constance de l’une nourrit ce que l’autre apprend sans peser sur ce qu’elle sait déjà. J’y lis un soutien facile, qu’il faut encore employer."

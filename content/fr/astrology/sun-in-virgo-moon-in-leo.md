@@ -6,6 +6,8 @@ description: "Soleil en Vierge, Lune en Lion : un Soleil modeste et une Lune ch
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge", "Lune", "Lion"]
 weight: 65
 glyph: "☉♍☽♌"
 definition: "Soleil en Vierge, Lune en Lion met la Lune un signe avant le Soleil, dans le signe même que gouverne le Soleil, au bout du mois lunaire. La Lune répond au Soleil, le Soleil à Mercure. J’y lis un cœur chaud derrière un travail discret, qui a besoin parfois qu’on le remarque."

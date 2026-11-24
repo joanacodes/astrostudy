@@ -5,6 +5,8 @@ description: "Sun in Pisces, Moon in Aries: the zodiac’s closing sign and its 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pisces", "Moon", "Aries"]
 weight: 133
 glyph: "☉♓☽♈"
 definition: "Sun in Pisces, Moon in Aries puts the Moon a sign ahead of the Sun, over the starting line of the zodiac, within five days after a new moon. Mars rules the Moon’s sign, and I read a self formed by compassion and imagination, with feelings that answer quickly and need something to do."

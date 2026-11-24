@@ -5,6 +5,8 @@ description: "Their Jupiter in your 9th house in synastry: their generosity in y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "9th house", "synastry", "house overlays"]
 weight: 69
 glyph: "♃"
 definition: "Their Jupiter in your 9th house is the other person’s Jupiter at home in your chart, in the house of beliefs, study and travel, whose natural sign Jupiter rules. In synastry their generosity widens your horizons: you learn, question and explore more with them, and they find in your openness the company their own search for meaning needs."

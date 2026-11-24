@@ -6,6 +6,8 @@ description: "Chiron trigone Lilith en synastrie : les manières de s’adapter
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "Lilith", "trigone", "synastrie"]
 weight: 379
 glyph: "⚷△⚸"
 definition: "Chiron trigone Lilith en synastrie unit le Chiron d’une personne à la Lilith d’une autre par un trigone de 120° tenu à 2,55°, en général à travers deux signes d’un même élément. Les adaptations de l’une et la part indomptée de l’autre s’accordent sans effort. J’y lis un confort à nommer plutôt qu’un acquis."

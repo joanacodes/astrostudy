@@ -6,6 +6,8 @@ description: "Vénus conjonction Neptune en synastrie : deux personnes bâtisse
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Neptune", "conjonction", "synastrie"]
 weight: 186
 glyph: "♀☌♆"
 definition: "Vénus conjonction Neptune en synastrie signifie que Vénus, chez une personne, se trouve à moins de 6° de Neptune chez l’autre. Ce que la première aime rencontre l’imagination et la compassion de la seconde : le goût et le sentiment se fondent en un monde commun. J’y lis une tendresse où chacune garde ses contours, jamais un destin."

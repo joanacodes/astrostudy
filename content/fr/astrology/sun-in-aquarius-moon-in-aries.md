@@ -6,6 +6,8 @@ description: "Soleil en Verseau, Lune en Bélier : un Soleil en exil, une Lune 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Verseau", "Lune", "Bélier"]
 weight: 121
 glyph: "☉♒☽♈"
 definition: "Soleil en Verseau, Lune en Bélier associe un Soleil en exil à une Lune en Bélier, le signe où la tradition exalte le Soleil, deux signes plus loin et quelques jours après une nouvelle lune. J’y lis un moi qui prépare l’avenir de tous, avec des émotions qui répondent sur-le-champ."

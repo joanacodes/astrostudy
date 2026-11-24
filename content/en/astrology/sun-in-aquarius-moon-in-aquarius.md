@@ -5,6 +5,8 @@ description: "Sun in Aquarius, Moon in Aquarius: both lights in fixed air within
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aquarius", "Moon"]
 weight: 131
 glyph: "☉♒☽♒"
 definition: "Sun in Aquarius, Moon in Aquarius means both lights stood in Aquarius at birth, two and a half days at most from a new moon, with Uranus and Saturn ruling both. I see purpose and need sharing one manner: principled, sociable, turned towards the future, and loyal for a long time."

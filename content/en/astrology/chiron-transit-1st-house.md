@@ -5,6 +5,8 @@ description: "Chiron transiting the 1st house: often about two years in which an
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Chiron", "1st house", "transits"]
 weight: 61
 glyph: "⚷"
 definition: "Chiron transiting the 1st house begins when Chiron reaches your Ascendant and, at London’s latitude, usually lasts about two years, though some stays run far longer. It touches the old hurt around being yourself in front of others, and what that hurt has taught you. It describes no illness."

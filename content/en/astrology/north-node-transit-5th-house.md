@@ -5,6 +5,8 @@ description: "North Node transiting the 5th house: about a year and a half of pl
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "5th house", "transits"]
 weight: 77
 glyph: "☊"
 definition: "North Node transiting the 5th house is the year and a half or so when the node moves backwards through your house of joy and creativity while the South Node crosses your 11th. It points towards play, romance and making things of your own, away from losing yourself in the group. It predicts no children."

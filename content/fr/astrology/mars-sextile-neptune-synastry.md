@@ -6,6 +6,8 @@ description: "Mars sextile Neptune en synastrie : l’élan de l’une prête l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Neptune", "sextile", "synastrie"]
 weight: 227
 glyph: "♂⚹♆"
 definition: "Mars sextile Neptune en synastrie signifie que l’écart entre Mars, chez une personne, et Neptune, chez l’autre, avoisine 60°, à 3,6° près. L’élan de l’une et l’imaginaire de l’autre coopèrent volontiers, à condition que quelqu’un fasse le premier pas. J’y lis un encouragement en douceur : une aide concrète à un idéal, offerte et acceptée par choix."

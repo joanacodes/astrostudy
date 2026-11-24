@@ -5,6 +5,8 @@ description: "Mercury retrograde in Libra, often three years running: its dates 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "Libra"]
 weight: 7
 glyph: "☿℞♎"
 definition: "Mercury retrograde in Libra comes in runs of years, between September and early November, when Mercury seems from Earth to reverse through Libra for 20½ to 22½ days. I read it as a second hearing for what two people have said to each other: agreements and compromises weighed again in the house Libra occupies in your chart."

@@ -5,6 +5,8 @@ description: "Chiron opposite Lilith in synastry: one person accommodates, the o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Chiron", "Lilith", "opposition", "synastry"]
 weight: 380
 glyph: "⚷☍⚸"
 definition: "Chiron opposite Lilith in synastry places one person’s Chiron opposite someone else’s Black Moon Lilith, 180° apart within 3°. One person accommodates a lasting difficulty; the other won’t be tamed, and each finds in the other the stance they skipped. I read it as a seesaw, never enmity."

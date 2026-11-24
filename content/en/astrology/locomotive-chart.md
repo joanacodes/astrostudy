@@ -5,6 +5,8 @@ description: "The locomotive chart in astrology: ten planets within two-thirds o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["chart shapes"]
 weight: 20
 glyph: "✦"
 definition: "A locomotive chart has all ten planets within two-thirds of the wheel, 240° or less, leaving an empty third, like a train with open track ahead. It is one of Marc Edmund Jones’s seven shapes, with one planet leading the train. No shape is commoner in my count: about 2 people in 5 have one."

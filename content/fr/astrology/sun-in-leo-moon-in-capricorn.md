@@ -6,6 +6,8 @@ description: "Soleil en Lion, Lune en Capricorne : un quinconce par signe, le S
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion", "Lune", "Capricorne"]
 weight: 58
 glyph: "☉♌☽♑"
 definition: "Soleil en Lion, Lune en Capricorne associe le feu fixe et la terre cardinale, à cinq signes d’écart, pour une naissance sous une Lune gibbeuse, quelques jours avant la pleine lune. Le Soleil est chez lui, la Lune en exil. J’y lis un grand cœur doté d’un fort sens du devoir, qui apprend à se donner parfois congé."

@@ -5,6 +5,8 @@ description: "Venus opposite Saturn in synastry: one person carries the pleasure
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Saturn", "opposition", "synastry"]
 weight: 180
 glyph: "♀☍♄"
 definition: "Venus opposite Saturn in synastry means one person’s Venus is about 180° from the other’s Saturn, within 6°. What one person enjoys and the other’s sense of limits face each other, so the pair tends to share them out as roles. I read it as a seesaw that two adults can learn to ride, never as a standoff."

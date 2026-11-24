@@ -6,6 +6,8 @@ description: "Chiron carré Nœud Nord en synastrie : la difficulté durable de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "Nœud Nord", "carré", "synastrie"]
 weight: 383
 glyph: "⚷□☊"
 definition: "Chiron carré Nœud Nord en synastrie place le Chiron d’une personne à environ 90° du Nœud Nord d’une autre, à 2,55° près, un angle droit qui vaut aussi pour son Nœud Sud. La difficulté avec laquelle l’une vit coupe la route de l’autre en son milieu. J’y lis une friction qui redessine un trajet, jamais un échec."

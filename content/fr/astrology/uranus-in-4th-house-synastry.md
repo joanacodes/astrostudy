@@ -6,6 +6,8 @@ description: "Uranus de l’autre dans votre maison 4 en synastrie : de nouvell
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 88
 glyph: "♅"
 definition: "Uranus de l’autre dans votre maison 4 ouvre une fenêtre dans vos fondations : Uranus, chez une autre personne, rejoint votre foyer, votre famille, vos racines et votre moi intime. En synastrie, vous repensez peut-être comment et où vous vivez, ou sentez le sol bouger, et l’autre se sent chez vous plus libre que presque partout. Rien n’y annonce de déménagement."

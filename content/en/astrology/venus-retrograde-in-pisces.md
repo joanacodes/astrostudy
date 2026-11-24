@@ -5,6 +5,8 @@ description: "Venus retrograde in Pisces, its exaltation: the spring retrograde�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Venus", "retrograde", "Venus retrograde", "Pisces"]
 weight: 24
 glyph: "♀℞♓"
 definition: "In Pisces, Venus retrograde is the closing stretch of the spring retrograde: every eight years Venus, seen from Earth, backs out of Aries into Pisces and turns direct there, in the sign of its exaltation. Tenderness, forgiveness and longing come up for review, in whichever house Pisces holds in your chart."

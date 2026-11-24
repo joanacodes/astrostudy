@@ -6,6 +6,8 @@ description: "Pluton de l’autre dans votre maison 4 en synastrie : sa profond
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 112
 glyph: "♇"
 definition: "Pluton de l’autre dans votre maison 4 fait descendre la profondeur d’une autre personne jusqu’à vos racines : le foyer, la famille, le moi intime. En synastrie, ce dont vous avez hérité apparaît, la maison devient un lieu de vrai changement, et l’autre trouve auprès de vous une appartenance profonde. Rien n’y dit la famille de quiconque."

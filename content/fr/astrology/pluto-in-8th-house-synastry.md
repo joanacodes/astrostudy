@@ -6,6 +6,8 @@ description: "Pluton de l’autre dans votre maison 8 en synastrie : sa profond
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 116
 glyph: "♇"
 definition: "Pluton de l’autre dans votre maison 8 installe Pluton, chez cette personne, dans la maison de son propre signe moderne : l’intimité, la confiance, les ressources communes. En synastrie, la proximité va loin, la confiance se donne entière ou pas du tout, et les crises traversées ensemble peuvent vous renouveler. Aucune mort n’y est lue."

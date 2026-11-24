@@ -5,6 +5,8 @@ description: "Venus sextile Pluto in synastry: honest renewal offered between tw
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Pluto", "sextile", "synastry"]
 weight: 192
 glyph: "♀⚹♇"
 definition: "Venus sextile Pluto in synastry means one person’s Venus is about 60° from the other’s Pluto, within 3.6°. The second person can help the first see which attachments still matter, and the first makes honesty and renewal feel welcome rather than heavy. I read it as depth on offer between two adults, there when somebody asks."

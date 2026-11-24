@@ -6,6 +6,8 @@ description: "Le Nœud Nord de l’autre dans votre maison 12 en synastrie : le
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Nœud Nord", "maison 12", "synastrie", "superpositions de maisons"]
 weight: 156
 glyph: "☊"
 definition: "Le Nœud Nord de l’autre dans votre maison 12 envoie ce que cette personne apprend vers les heures privées de votre thème, votre repos, votre solitude, votre vie intérieure, et son Nœud Sud vers votre maison 6. Près de vous, elle s’exerce au calme et au lâcher-prise, et revient à une utilité affairée dans votre quotidien."

@@ -6,6 +6,8 @@ description: "Soleil en Balance, Lune en Lion : la Lune dans le signe du Soleil
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Balance", "Lune", "Lion"]
 weight: 77
 glyph: "☉♎☽♌"
 definition: "Soleil en Balance, Lune en Lion place la Lune dans le signe propre du Soleil alors que le Soleil est dans sa chute, la Lune deux signes derrière, tard dans le mois lunaire. J’y lis un moi qui partage l’attention avec équité, à côté de besoins qui ne s’apaisent que si quelqu’un remarque ce que vous avez donné."

@@ -6,6 +6,8 @@ description: "Chiron de l’autre dans votre maison 6 en synastrie : une façon
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 126
 glyph: "⚷"
 definition: "Chiron de l’autre dans votre maison 6 glisse son Chiron dans vos routines, vos tâches et vos habitudes. En synastrie, ce que l’autre a appris sur le travail dans les limites rencontre votre semaine : cette personne vous aide à doser vos efforts, et votre façon de travailler effleure un vieux point sensible chez elle. Rien n’y parle de santé."

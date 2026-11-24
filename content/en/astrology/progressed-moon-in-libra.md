@@ -5,6 +5,8 @@ description: "The progressed Moon in Libra: about two years and four months of n
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressed Moon", "progressions", "Libra"]
 weight: 7
 glyph: "☽♎"
 definition: "The progressed Moon in Libra is a chapter of two to two and a half years, in secondary progressions, during which your progressed Moon crosses Libra, the sign opposite Aries. I read it as a time when needs are met through others: company, fair exchange, cooperation, and a sense of proportion in the way your days are shared."

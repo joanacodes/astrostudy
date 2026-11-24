@@ -6,6 +6,8 @@ description: "Vénus de l’autre dans votre maison 12 en synastrie : une affec
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "maison 12", "synastrie", "superpositions de maisons"]
 weight: 48
 glyph: "♀"
 definition: "Vénus de l’autre dans votre maison 12, c’est une tendresse loin des regards : elle atteint votre solitude, votre vie intérieure et votre part privée. En synastrie, cette personne vous aime et prend soin de vous sans bruit, et l’on vous accepte sans rôle à jouer. Vénus a son exaltation en Poissons, que le zodiaque naturel associe à cette maison."

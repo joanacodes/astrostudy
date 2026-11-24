@@ -5,6 +5,8 @@ description: "Their Mars in your 12th house in synastry: their drive in your sol
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "12th house", "synastry", "house overlays"]
 weight: 60
 glyph: "♂"
 definition: "Their Mars in your 12th house opens the private end of your chart to the other person’s Mars: solitude, rest, quiet effort and what you leave unsaid. In synastry their drive stirs what you keep out of view; they may protect your quiet or unsettle it, and their efforts for you often go unseen. It is never a symptom."

@@ -5,6 +5,8 @@ description: "Mercury retrograde in Aquarius: Mercury backing through the sign o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "Aquarius"]
 weight: 11
 glyph: "☿℞♒"
 definition: "Mercury retrograde in Aquarius takes place between early January and early March, when Mercury seems from Earth to back through Aquarius for about three weeks, often three years running. I read it as ideas for the future and plans made for a group, checked again before they go further, in the house Aquarius occupies in your chart."

@@ -5,6 +5,8 @@ description: "Mercury retrograde in Scorpio: the sign with the most of Mercury�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "Scorpio"]
 weight: 8
 glyph: "☿℞♏"
 definition: "Mercury retrograde in Scorpio is Mercury’s apparent backward run through Scorpio, seen from Earth, for about 20 or 21 days between October and early December, often three years running. I read it as the mind digging back over ground already turned: unanswered questions and unfinished conversations, in the house Scorpio occupies in your chart."

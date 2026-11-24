@@ -6,6 +6,8 @@ description: "La Lune de l’autre dans votre maison 5 en synastrie : ses émot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 17
 glyph: "☽"
 definition: "La Lune de l’autre dans votre maison 5 mêle ses émotions et ses besoins à ce que vous faites pour le plaisir : le jeu, la création, l’amour. En synastrie, la légèreté avec vous rassure cette personne, et vous vous sentez libre de jouer et de montrer votre tendresse en sa compagnie ; rien n’y prédit d’enfant."

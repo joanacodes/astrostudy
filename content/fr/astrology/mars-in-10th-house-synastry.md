@@ -6,6 +6,8 @@ description: "Mars de l’autre dans votre maison 10 en synastrie : son élan d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "maison 10", "synastrie", "superpositions de maisons"]
 weight: 58
 glyph: "♂"
 definition: "Mars de l’autre dans votre maison 10 hisse Mars, chez cette personne, en haut de votre thème, dans votre travail, vos ambitions et votre rôle public, une maison dont le signe naturel est l’exaltation de Mars. En synastrie, son élan pousse votre carrière : vous visez plus haut à ses côtés, et l’autre trouve votre chemin digne d’être poussé, ou concurrencé."

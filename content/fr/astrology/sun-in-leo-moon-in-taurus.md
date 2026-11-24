@@ -6,6 +6,8 @@ description: "Soleil en Lion, Lune en Taureau : Soleil chez lui et Lune exalté
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion", "Lune", "Taureau"]
 weight: 50
 glyph: "☉♌☽♉"
 definition: "Soleil en Lion, Lune en Taureau met chaque luminaire dans un signe fixe, en carré l’un de l’autre, près du dernier quartier. Les deux sont en dignité, le Soleil chez lui, la Lune exaltée : chacun se tient sur un terrain solide. J’y lis une fidélité de chaque côté, et deux idées différentes de ce qui mérite d’être gardé."

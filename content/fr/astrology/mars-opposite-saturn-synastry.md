@@ -6,6 +6,8 @@ description: "Mars opposition Saturne en synastrie : l’urgence de l’une et 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Saturne", "opposition", "synastrie"]
 weight: 220
 glyph: "♂☍♄"
 definition: "Mars opposition Saturne en synastrie signifie que Mars, chez une personne, se trouve à environ 180° de Saturne chez l’autre. L’urgence se tient à un bout et la patience à l’autre, et quand l’une se penche en avant, l’autre se penche en arrière. J’y lis deux personnes qui apprennent la mesure l’une de l’autre, jamais un concours."

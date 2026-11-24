@@ -5,6 +5,8 @@ description: "Sun in Leo, Moon in Virgo: fire beside earth, the Moon just past a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo", "Moon", "Virgo"]
 weight: 54
 glyph: "☉♌☽♍"
 definition: "Sun in Leo, Moon in Virgo sets the Moon in the sign after the Sun’s, fire beside earth, at a birth within five days after a new moon. Your Sun is in its own sign; Mercury, ruler of the Moon’s, never strays far from it. I read it as a performer who also runs the stage."

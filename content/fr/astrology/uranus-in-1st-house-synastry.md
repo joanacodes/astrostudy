@@ -6,6 +6,8 @@ description: "Uranus de l’autre dans votre maison 1 en synastrie : un goût d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 85
 glyph: "♅"
 definition: "Avec Uranus de l’autre dans votre maison 1, la planète du changement et de la liberté se pose sur ce que l’on voit de vous en premier : votre allure, votre apparence, votre façon de commencer. En synastrie, la différence semble permise, ou déroutante, et cette personne se sent plus vive auprès de vous. Aucune rupture ne s’y lit."

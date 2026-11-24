@@ -5,6 +5,8 @@ description: "Venus trine Pluto in synastry: depth and appreciation that come ea
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Pluto", "trine", "synastry"]
 weight: 194
 glyph: "♀△♇"
 definition: "Venus trine Pluto in synastry means one person’s Venus is about 120° from the other’s Pluto, within 5.1°. What the first person values and the second’s capacity for depth and renewal run in the same direction, so honesty and loyalty come without much strain. I read it as an easy depth that still needs saying aloud."

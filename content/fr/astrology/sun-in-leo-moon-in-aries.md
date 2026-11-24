@@ -6,6 +6,8 @@ description: "Soleil en Lion, Lune en Bélier : feu fixe et cardinal, la Lune d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion", "Lune", "Bélier"]
 weight: 49
 glyph: "☉♌☽♈"
 definition: "Soleil en Lion, Lune en Bélier réunit le feu fixe et le feu cardinal, la Lune quatre signes en arrière du Soleil, deux semaines et demie à trois semaines après la nouvelle lune. Le Soleil est dans son propre signe, la Lune dans l’exaltation du Soleil. J’y lis un moi qui entretient une flamme, et des besoins qui craquent l’allumette."

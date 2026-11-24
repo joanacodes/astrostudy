@@ -6,6 +6,8 @@ description: "Chiron conjonction Nœud Nord en synastrie : les contournements d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "Nœud Nord", "conjonction", "synastrie"]
 weight: 381
 glyph: "⚷☌☊"
 definition: "Avec Chiron conjonction Nœud Nord en synastrie, le Chiron d’une personne se pose à moins de 3° du Nœud Nord d’une autre, et donc face à son Nœud Sud. La façon dont l’une fait avec une difficulté durable se trouve sur la route même où l’autre s’engage. J’y vois un exemple offert, jamais un destin."

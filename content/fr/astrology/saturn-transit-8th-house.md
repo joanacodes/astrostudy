@@ -6,6 +6,8 @@ description: "Saturne en transit en maison 8 : environ trois ans pour faire le 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Saturne", "maison 8", "transits"]
 weight: 20
 glyph: "♄"
 definition: "Saturne en transit en maison 8, c’est l’inventaire que dresse Saturne, pendant un peu moins de trois ans, de ce que vous partagez avec d’autres et de ce que vous leur devez : l’argent commun, les obligations, la confiance, l’intimité. Ce que contient votre thème est compté et posé sur un sol plus ferme. Ce transit n’annonce ni mort ni perte."

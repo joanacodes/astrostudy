@@ -5,6 +5,8 @@ description: "Venus retrograde in Capricorn: six weeks across the turn of the ye
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Venus", "retrograde", "Venus retrograde", "Capricorn"]
 weight: 22
 glyph: "♀℞♑"
 definition: "Venus retrograde in Capricorn arrives every eight years in mid-December and lasts into late January: about six weeks in which Venus seems, from Earth, to back through Capricorn across the turn of the year. My reading: commitments, and what you’ve built with others, weighed again where Capricorn sits in your chart."

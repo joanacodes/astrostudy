@@ -5,6 +5,8 @@ description: "Mars retrograde in Libra, where Mars is in detriment: the spring l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mars", "retrograde", "Mars retrograde", "Libra"]
 weight: 31
 glyph: "♂℞♎"
 definition: "Mars retrograde in Libra is Mars, seen from Earth, backing through Libra for about eleven spring weeks: wholly in the sign in 2014, and from Libra into Virgo in 2029. I read it as standing your ground meeting the wish for peace, reviewed in the house Libra occupies in your chart."

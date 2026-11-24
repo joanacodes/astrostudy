@@ -5,6 +5,8 @@ description: "Uranus conjunct Lilith in synastry: one person’s licence to diff
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Lilith", "conjunction", "synastry"]
 weight: 331
 glyph: "♅☌⚸"
 definition: "Uranus conjunct Lilith in synastry means one person’s Uranus and the other’s Black Moon Lilith lie within 4° of each other. One person’s licence to be different lands on the part of the other they learned to hide, which can feel like permission or like exposure. Its dates follow mean Lilith, and I read it through the houses."

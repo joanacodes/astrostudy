@@ -5,6 +5,8 @@ description: "Neptune square North Node in synastry: one person’s dreams keep 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "North Node", "square", "synastry"]
 weight: 358
 glyph: "♆□☊"
 definition: "In synastry, Neptune square North Node crosses one person’s nodal axis with another’s Neptune, about 90° from both nodes, within 3.4°. One person’s ideals and longings keep crossing the road the other is learning to walk. I read it as friction that asks for the dream to be folded into the practice."

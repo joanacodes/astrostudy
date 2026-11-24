@@ -6,6 +6,8 @@ description: "Saturne carré Neptune en synastrie : le sens du réalisme de l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Neptune", "carré", "synastrie"]
 weight: 293
 glyph: "♄□♆"
 definition: "Saturne carré Neptune en synastrie signifie que Saturne, chez une personne, se trouve à environ 90° de Neptune chez l’autre, à 4,25° près. Les limites et la prudence de l’une accrochent sans cesse les idéaux et la compassion de l’autre. J’y lis la friction de deux époques sur le possible, qui laisse des espoirs solides et des règles humaines."

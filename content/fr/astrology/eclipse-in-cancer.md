@@ -6,6 +6,8 @@ description: "Les éclipses en Cancer : dix-neuf de 2000 à 2040, dont treize s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["éclipses", "Cancer"]
 weight: 4
 glyph: "●♋"
 definition: "Une éclipse en Cancer obscurcit l’un des deux luminaires en Cancer : le Soleil, lors d’une nouvelle lune proche des nœuds, ou la pleine Lune, le Soleil étant en face, en Capricorne. Le Cancer en compte dix-neuf de 2000 à 2040, dont treize solaires. Pour un thème, seules comptent pour moi celles qui tombent à environ trois degrés d’un point natal."

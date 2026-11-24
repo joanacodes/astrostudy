@@ -6,6 +6,8 @@ description: "Soleil en Cancer, Lune en Capricorne : l’axe même de la Lune, 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Cancer", "Lune", "Capricorne"]
 weight: 46
 glyph: "☉♋☽♑"
 definition: "Soleil en Cancer, Lune en Capricorne place les luminaires sur l’axe même de la Lune : le Soleil dans le signe qu’elle gouverne, la Lune en face, en exil, près d’une pleine lune. J’y lis une tendresse qui a de l’ossature : protéger les siens, et ne se détendre qu’une fois le devoir accompli."

@@ -6,6 +6,8 @@ description: "Chiron de l’autre dans votre maison 7 en synastrie : une vieill
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 127
 glyph: "⚷"
 definition: "Chiron de l’autre dans votre maison 7, c’est son Chiron dans la maison de la personne qui vous fait face : partenaires, proches collaborateurs, liens à deux. En synastrie, son ancienne blessure, et la leçon qu’elle en a tirée sur la proximité, entrent dans le lien lui-même : cette personne écoute remarquablement bien, et être votre égale effleure un point sensible."

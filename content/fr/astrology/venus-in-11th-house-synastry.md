@@ -6,6 +6,8 @@ description: "Vénus de l’autre dans votre maison 11 en synastrie : une affec
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "maison 11", "synastrie", "superpositions de maisons"]
 weight: 47
 glyph: "♀"
 definition: "Vénus de l’autre dans votre maison 11 réchauffe votre cercle : l’affection de cette personne atteint vos amitiés, vos collectifs et vos rêves d’avenir. En synastrie, il y a souvent une vraie amitié dans le lien, quoi qu’il soit par ailleurs, même si une affection répartie sur tout un groupe peut s’amincir. Les anciens livres la nommaient le Génie favorable."

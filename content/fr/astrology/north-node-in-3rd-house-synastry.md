@@ -6,6 +6,8 @@ description: "Le Nœud Nord de l’autre dans votre maison 3 en synastrie : que
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Nœud Nord", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 147
 glyph: "☊"
 definition: "Le Nœud Nord de l’autre dans votre maison 3, c’est la direction de croissance de cette personne qui arrive dans votre monde proche, conversations, courses, fratrie, premières leçons, tandis que son Nœud Sud s’éloigne dans votre maison 9. Entre vous, les questions de tous les jours deviennent son exercice, et les grandes déclarations son habitude."

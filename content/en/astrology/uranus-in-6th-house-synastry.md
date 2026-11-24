@@ -5,6 +5,8 @@ description: "Their Uranus in your 6th house in synastry: new methods and broken
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "6th house", "synastry", "house overlays"]
 weight: 90
 glyph: "♅"
 definition: "Their Uranus in your 6th house rewires your daily round with another person’s Uranus: routines, tasks, tools and habits. In synastry they may free you from routines that no longer serve, or keep your days in flux, while they find in your methods a system to improve. Health is no part of it."

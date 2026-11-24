@@ -5,6 +5,8 @@ description: "Uranus transiting the 8th house: nearly eight years of freedom ins
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "8th house", "transits"]
 weight: 32
 glyph: "♅"
 definition: "Uranus transiting the 8th house is Uranus’s stay, nearly eight years as a rule, in the part of your chart that holds intimacy, trust, and what you share with or owe to others. It unsettles the terms your chart already describes there, asking for freedom inside closeness. Death, inheritance and money are not what it predicts."

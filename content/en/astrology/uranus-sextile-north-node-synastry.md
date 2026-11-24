@@ -5,6 +5,8 @@ description: "Uranus sextile North Node in synastry: one person’s experiments 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "North Node", "sextile", "synastry"]
 weight: 337
 glyph: "♅⚹☊"
 definition: "Uranus sextile North Node in synastry means one person’s Uranus is about 60° from the other’s North Node, within 2.4°, and so 120° from their South Node. One person’s experiments open a way for the other to grow, while refreshing what they already know. The true node dates it; the houses carry its meaning."

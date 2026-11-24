@@ -6,6 +6,8 @@ description: "Soleil en Vierge, Lune en Vierge : le but et le réconfort dans u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge", "Lune"]
 weight: 66
 glyph: "☉♍☽♍"
 definition: "Soleil en Vierge, Lune en Vierge désigne une naissance proche d’une nouvelle lune, avec les deux luminaires en terre mutable, gouvernés ensemble par Mercure. J’y lis une seule voix exigeante pour le but et le réconfort : vous vous sentez le plus vous-même, et le plus à l’aise, au même instant, quand une chose a été bien faite."

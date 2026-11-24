@@ -5,6 +5,8 @@ description: "North Node transiting the 10th house: about 19 months of stepping 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "10th house", "transits"]
 weight: 82
 glyph: "☊"
 definition: "North Node transiting the 10th house is the year and a half or more when the node moves backwards through your house of public life and work while the South Node crosses your 4th. It points towards responsibility and a visible role, away from staying where you feel safest. It promises no promotion."

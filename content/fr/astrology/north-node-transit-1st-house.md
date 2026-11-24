@@ -6,6 +6,8 @@ description: "Nœud Nord en transit en maison 1 : environ 17 mois pour apprendr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Nœud Nord", "maison 1", "transits"]
 weight: 73
 glyph: "☊"
 definition: "Le Nœud Nord en transit en maison 1, c’est la période, un peu moins d’un an et demi en général, où le nœud recule à travers la maison du moi, tandis que le Nœud Sud traverse votre maison 7. Il oriente vers vos propres décisions plutôt que vers les attentes des autres, sans rien décider pour vous."

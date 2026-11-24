@@ -5,6 +5,8 @@ description: "Their Pluto in your 3rd house in synastry: their depth in your tal
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "3rd house", "synastry", "house overlays"]
 weight: 111
 glyph: "♇"
 definition: "Their Pluto in your 3rd house brings the other person’s depth into your everyday mind: talking, writing, learning and daily errands. In synastry conversation goes down a level, their questions sharpen your thinking, and your words land on them with weight. Talk can sometimes feel like questioning, and you choose what to answer."

@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux, Lune en Vierge : un seul maître, Mercure, po
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux", "Lune", "Vierge"]
 weight: 30
 glyph: "☉♊☽♍"
 definition: "Soleil en Gémeaux, Lune en Vierge réunit deux signes mutables à trois signes d’écart, tous deux gouvernés par Mercure, quand la Lune croissait vers son premier quartier ou venait de le passer. J’y lis un esprit qui fait deux métiers : un moi qui rassemble idées, gens et possibles, des besoins qui s’apaisent quand tout est trié et fonctionne."

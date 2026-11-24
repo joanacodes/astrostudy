@@ -5,6 +5,8 @@ description: "Their Neptune in your 3rd house in synastry: their imagination in 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "3rd house", "synastry", "house overlays"]
 weight: 99
 glyph: "♆"
 definition: "Their Neptune in your 3rd house carries the other person’s Neptune into your everyday mind: conversation, messages, errands and learning. In synastry talk between you turns to images and music, and they hear more in your words than you put there. Plans made together can blur without anyone intending it, so the practical details are worth writing down."

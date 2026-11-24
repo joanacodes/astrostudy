@@ -5,6 +5,8 @@ description: "Sun in Capricorn, Moon in Libra: earth and air at a square, born n
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Capricorn", "Moon", "Libra"]
 weight: 115
 glyph: "☉♑☽♎"
 definition: "Sun in Capricorn, Moon in Libra sets cardinal earth against cardinal air in a square by sign, at a birth around the last quarter. Saturn, the Sun’s ruler, has its exaltation in Libra; Venus rules the Moon’s sign. I read it as duty and fairness negotiating, and often agreeing on rules everyone can trust."

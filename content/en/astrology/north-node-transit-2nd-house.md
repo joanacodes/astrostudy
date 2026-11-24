@@ -5,6 +5,8 @@ description: "North Node transiting the 2nd house: about a year and a half of bu
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "2nd house", "transits"]
 weight: 74
 glyph: "☊"
 definition: "North Node transiting the 2nd house is the year and a half or so when the node, moving backwards, crosses your house of resources and values while the South Node crosses your 8th. It points towards building what is yours, skills, means and a sense of worth, rather than leaning on what others hold. It predicts no money."

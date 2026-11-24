@@ -6,6 +6,8 @@ description: "Jupiter en transit en maison 10 : un an environ de croissance au 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Jupiter", "maison 10", "transits"]
 weight: 10
 glyph: "♃"
 definition: "Jupiter en transit en maison 10, c’est la saison, un peu plus d’un an, qui s’ouvre sur votre Milieu du Ciel, le point le plus haut du thème. Ce transit prend ce que votre thème dit du travail et de la vie publique et lui donne plus de place : de la visibilité, souvent plus de responsabilités, une direction plus nette."

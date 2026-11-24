@@ -5,6 +5,8 @@ description: "Neptune transiting the 3rd house: close to sixteen years of thinki
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "3rd house", "transits"]
 weight: 39
 glyph: "♆"
 definition: "Neptune transiting the 3rd house fills your everyday mind with images for close to sixteen years in the middle, Neptune’s longest stay in any house at London’s latitude. It works on what your chart already says about thinking, talking and learning: intuition and imagination grow, while details ask for a second look."

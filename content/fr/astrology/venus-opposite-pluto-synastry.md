@@ -6,6 +6,8 @@ description: "Vénus opposition Pluton en synastrie : l’une soigne la surface
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Pluton", "opposition", "synastrie"]
 weight: 195
 glyph: "♀☍♇"
 definition: "Vénus opposition Pluton en synastrie signifie que Vénus, chez une personne, se trouve à environ 180° de Pluton chez l’autre, à 6° près. L’une garde le lien agréable et juste, l’autre pousse vers la profondeur et la vérité, et chacune peut croire que l’autre tient le pouvoir. J’y lis une polarité à partager, jamais une domination."

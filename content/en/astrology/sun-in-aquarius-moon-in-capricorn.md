@@ -5,6 +5,8 @@ description: "Sun in Aquarius, Moon in Capricorn: no other pair puts both lights
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aquarius", "Moon", "Capricorn"]
 weight: 130
 glyph: "☉♒☽♑"
 definition: "Sun in Aquarius, Moon in Capricorn places the Moon a sign behind the Sun, within the five days before a new moon. Both lights are in their detriment, and Saturn rules both signs in the tradition. I see a self devoted to a better future for many people, whose needs settle once the responsibilities are clear."

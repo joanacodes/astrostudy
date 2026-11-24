@@ -6,6 +6,8 @@ description: "Vénus opposition Uranus en synastrie : l’une parle pour la vie
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Uranus", "opposition", "synastrie"]
 weight: 185
 glyph: "♀☍♅"
 definition: "Vénus opposition Uranus en synastrie signifie que Vénus, chez une personne, se trouve à environ 180° d’Uranus chez l’autre, à 6° près. Les réponses de la paire à la question de la bonne distance se tiennent aux deux bouts : l’une parle plutôt pour la vie à deux, l’autre pour l’indépendance. J’y lis une balançoire qui apprend à chacune l’autre bout."

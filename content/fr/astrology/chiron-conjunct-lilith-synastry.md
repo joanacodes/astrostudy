@@ -6,6 +6,8 @@ description: "Chiron conjonction Lilith en synastrie : l’endroit prudent et a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "Lilith", "conjonction", "synastrie"]
 weight: 376
 glyph: "⚷☌⚸"
 definition: "Chiron conjonction Lilith en synastrie désigne le contact où le Chiron d’une personne et la Lune noire Lilith d’une autre tombent à 3° au plus. La façon dont l’une fait face à une difficulté durable se loge là où l’autre garde ce qui a refusé d’être dompté. J’y lis une reconnaissance à manier avec soin, par les maisons."

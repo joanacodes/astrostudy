@@ -5,6 +5,8 @@ description: "Uranus opposite North Node in synastry: one person’s Uranus sits
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "North Node", "opposition", "synastry"]
 weight: 340
 glyph: "♅☍☊"
 definition: "Uranus opposite North Node in synastry means one person’s Uranus is about 180° from the other’s North Node, within 4°, and so on their South Node. One person’s appetite for change stirs what the other already knows well, while their growth lies the other way. Its windows come from the true node, and I read it through the houses."

@@ -5,6 +5,8 @@ description: "Venus trine Saturn in synastry: one person’s reliability is exac
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Saturn", "trine", "synastry"]
 weight: 179
 glyph: "♀△♄"
 definition: "Venus trine Saturn in synastry means one person’s Venus is about 120° from the other’s Saturn, within 5.1°, usually in the same element. What the first person enjoys and the second’s way of committing keep the same pace, so reliability is appreciated rather than endured. I read it as ease worth checking now and then."

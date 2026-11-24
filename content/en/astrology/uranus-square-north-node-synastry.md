@@ -5,6 +5,8 @@ description: "Uranus square North Node in synastry: one person’s independence 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "North Node", "square", "synastry"]
 weight: 338
 glyph: "♅□☊"
 definition: "Uranus square North Node in synastry means one person’s Uranus is about 90° from the other’s North Node, within 3.4°, and so square their South Node too. One person’s independence cuts across the other’s path from the familiar to the new, asking to be included. Its dates follow the true node, and its reading the houses."

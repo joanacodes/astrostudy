@@ -6,6 +6,8 @@ description: "Les éclipses en Balance : onze de 2000 à 2040, le moins de tous
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["éclipses", "Balance"]
 weight: 7
 glyph: "●♎"
 definition: "Les éclipses de la Balance sont les éclipses solaires avec le Soleil en Balance, et les éclipses lunaires où la pleine Lune est en Balance et le Soleil en Bélier. Avec onze entre 2000 et 2040, c’est le signe qui en compte le moins. Dans une lecture, elle ne compte qu’à environ trois degrés d’un point natal."

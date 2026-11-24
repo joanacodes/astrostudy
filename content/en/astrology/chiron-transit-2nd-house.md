@@ -5,6 +5,8 @@ description: "Chiron transiting the 2nd house: often nearly three years in which
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Chiron", "2nd house", "transits"]
 weight: 62
 glyph: "⚷"
 definition: "Chiron transiting the 2nd house is Chiron’s stay, nearly three years in the middle at London’s latitude, in your house of resources and self-worth. It touches an old hurt about value: what you think you deserve, what you charge, what you own. It predicts no money, gained or lost, and no hardship."

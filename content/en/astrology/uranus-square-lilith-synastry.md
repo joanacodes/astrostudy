@@ -5,6 +5,8 @@ description: "Uranus square Lilith in synastry: one person’s restlessness catc
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Lilith", "square", "synastry"]
 weight: 333
 glyph: "♅□⚸"
 definition: "Uranus square Lilith in synastry means the other person’s Black Moon Lilith lies about 90° from one person’s Uranus, within 3.4°. One person’s restlessness keeps catching on the other’s guarded boundaries, and the other’s refusals on that restlessness. Dated with mean Lilith, it is friction about freedom and privacy, read through the houses."

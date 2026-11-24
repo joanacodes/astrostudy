@@ -5,6 +5,8 @@ description: "Neptune conjunct North Node in synastry: one person’s imaginatio
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "North Node", "conjunction", "synastry"]
 weight: 356
 glyph: "♆☌☊"
 definition: "Neptune conjunct North Node in synastry happens when one person’s Neptune lies on the other’s North Node, at most 4° away, with their South Node opposite. One person’s imagination settles on the other’s growing edge: inspiring when the dream helps the practice, hazy when it replaces it. Whole cohorts share it; only the houses make it personal."

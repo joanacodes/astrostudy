@@ -6,6 +6,8 @@ description: "Soleil en Sagittaire, Lune en Capricorne : deux voisins, la Lune 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Sagittaire", "Lune", "Capricorne"]
 weight: 106
 glyph: "☉♐☽♑"
 definition: "Soleil en Sagittaire, Lune en Capricorne place la Lune un signe devant le Soleil, dans les cinq jours qui suivent une nouvelle lune. Le feu mutable rencontre la terre cardinale ; la Lune est en exil, et Jupiter, maître du Soleil, a sa chute en Capricorne. J’y lis une vision qui veut un échafaudage pour se sentir en sécurité."

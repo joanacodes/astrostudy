@@ -5,6 +5,8 @@ description: "Sun in Scorpio, Moon in Pisces: a water trine past the first quart
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Scorpio", "Moon", "Pisces"]
 weight: 96
 glyph: "☉♏☽♓"
 definition: "Sun in Scorpio, Moon in Pisces puts both lights in water, a trine apart by sign, more than a week into the lunar month. In my reading, it is a self that feels one thing all the way down, with needs that take in the whole room and settle in quiet, imagination and trust."

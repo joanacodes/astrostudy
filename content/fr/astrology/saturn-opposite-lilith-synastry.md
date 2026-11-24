@@ -6,6 +6,8 @@ description: "Saturne opposition Lilith en synastrie : l’ordre à un bout, le
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Lilith", "opposition", "synastrie"]
 weight: 310
 glyph: "♄☍⚸"
 definition: "Saturne opposition Lilith en synastrie, c’est Saturne d’une personne face à la Lune noire Lilith de l’autre, d’un bout à l’autre du zodiaque, à 5° près. L’une représente plutôt l’ordre, l’autre ce qui refuse de s’y plier, et chacune voit chez l’autre ce qu’elle garde moins en elle. J’y lis une balançoire de rôles, par les maisons."

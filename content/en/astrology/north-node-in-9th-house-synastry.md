@@ -5,6 +5,8 @@ description: "Their North Node in your 9th house in synastry: a view of the worl
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["North Node", "9th house", "synastry", "house overlays"]
 weight: 153
 glyph: "☊"
 definition: "Their North Node in your 9th house points the other person’s growth towards your beliefs, studies and long journeys, leaving their South Node in your 3rd. Near you, they try out a view of the world of their own; chatting about facts and errands with you, meanwhile, is effortless, and the place they retreat to."

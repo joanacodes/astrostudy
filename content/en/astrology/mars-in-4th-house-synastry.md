@@ -5,6 +5,8 @@ description: "Their Mars in your 4th house in synastry: their drive in your home
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "4th house", "synastry", "house overlays"]
 weight: 52
 glyph: "♂"
 definition: "Their Mars in your 4th house brings the other person’s Mars into the house of your home, roots and private life. In synastry their drive goes to work on your foundations: around them your household tends to get moving, and they feel at ease putting effort, and sometimes friction, into the place where you rest."

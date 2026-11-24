@@ -6,6 +6,8 @@ description: "Jupiter carré Uranus en synastrie : les principes de l’une fro
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Uranus", "carré", "synastrie"]
 weight: 258
 glyph: "♃□♅"
 definition: "Jupiter carré Uranus en synastrie signifie que Jupiter, chez une personne, se trouve à environ 90° d’Uranus chez l’autre, à 4,25° près. Un cadre de croyances rencontre sans cesse l’envie de le questionner et de le changer. Cette friction peut changer des convictions en réformes ; elle vient des années de naissance et n’annonce jamais une impasse."

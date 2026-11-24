@@ -6,6 +6,8 @@ description: "Vénus sextile Nœud Nord en synastrie : l’affection de l’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Nœud Nord", "sextile", "synastrie"]
 weight: 207
 glyph: "♀⚹☊"
 definition: "Vénus sextile Nœud Nord en synastrie signifie que Vénus, chez une personne, se trouve à environ 60° du Nœud Nord de l’autre, donc à environ 120° de son Nœud Sud. La première aime les forces familières de la seconde et se tient à un pas de ce qu’elle apprend. J’y lis une ouverture, pas une poussée."

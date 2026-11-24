@@ -5,6 +5,8 @@ description: "Uranus transiting the 3rd house: nearly eight years of new ideas, 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "3rd house", "transits"]
 weight: 27
 glyph: "♅"
 definition: "Uranus transiting the 3rd house brings the planet of change into your everyday mind, as a rule for nearly eight years: how you think, talk, learn and keep in touch. It wakes up what the chart already says there: ideas that arrive in jumps, habits of speech questioned, new ways of keeping in touch."

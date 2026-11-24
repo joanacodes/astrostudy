@@ -6,6 +6,8 @@ description: "Pluton de l’autre dans votre maison 1 en synastrie : sa profond
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 109
 glyph: "♇"
 definition: "Pluton de l’autre dans votre maison 1 place Pluton, chez cette personne, là où vous rencontrez le monde : l’apparence, le maintien, la façon d’entreprendre. En synastrie, sa profondeur rencontre votre façon d’apparaître : un personnage devenu trop étroit peut tomber, et l’autre trouve votre présence magnétique. Rien n’y annonce une emprise."

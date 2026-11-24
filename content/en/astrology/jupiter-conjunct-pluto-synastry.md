@@ -5,6 +5,8 @@ description: "Jupiter conjunct Pluto in synastry: one person’s growth fused wi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Pluto", "conjunction", "synastry"]
 weight: 266
 glyph: "♃☌♇"
 definition: "Jupiter conjunct Pluto in synastry means one person’s Jupiter lies within 5° of the other’s Pluto. The wish to widen a life and the wish to change it at the root become one movement, powerful and easily too fast. Pluto’s slowness lets whole runs of birth years share it, and the houses are where I read it."

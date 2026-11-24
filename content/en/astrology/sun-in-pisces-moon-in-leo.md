@@ -5,6 +5,8 @@ description: "Sun in Pisces, Moon in Leo: a quincunx in the last waxing days, an
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Pisces", "Moon", "Leo"]
 weight: 137
 glyph: "☉♓☽♌"
 definition: "Sun in Pisces, Moon in Leo places the Moon in the one sign the Sun rules, five signs past it, in the days just before a full moon. To me the pair is an imagination content to work without a name, beside a heart that still needs its gifts noticed and its warmth given back."

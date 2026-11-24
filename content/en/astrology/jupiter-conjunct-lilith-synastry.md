@@ -5,6 +5,8 @@ description: "Jupiter conjunct Lilith in synastry: one person’s sense of meani
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Lilith", "conjunction", "synastry"]
 weight: 276
 glyph: "♃☌⚸"
 definition: "Jupiter conjunct Lilith in synastry means one person’s Jupiter sits within 5° of the other’s Black Moon Lilith. One person’s principles and generosity of mind fall on the part of the other that learned to stay out of sight. I read it as permission that can free or expose, and, both being slow, through the houses."

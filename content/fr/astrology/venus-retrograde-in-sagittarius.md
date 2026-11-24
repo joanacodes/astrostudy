@@ -6,6 +6,8 @@ description: "Vénus rétrograde en Sagittaire : aucune de 2000 à 2040, Vénus
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde", "Sagittaire"]
 weight: 21
 glyph: "♀℞♐"
 definition: "Aucune rétrogradation de Vénus ne tombe en Sagittaire entre 2000 et 2040 : les plus proches s’arrêtent en Scorpion et en Capricorne. S’il en venait une, Vénus semblerait, vue de la Terre, reculer dans le signe pendant six semaines environ, et j’y lirais le goût de la liberté et des horizons lointains repesé, dans la maison du Sagittaire de votre thème."

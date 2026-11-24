@@ -5,6 +5,8 @@ description: "Sun in Gemini, Moon in Capricorn: a quincunx by sign, light words 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini", "Moon", "Capricorn"]
 weight: 34
 glyph: "☉♊☽♑"
 definition: "Sun in Gemini, Moon in Capricorn has the Moon five signs past the Sun, in cardinal earth, at a birth soon after a full moon. I read it as a talkative, quick-witted self with needs that settle through responsibility: light on the surface, serious underneath, and dependable when it counts."

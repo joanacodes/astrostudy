@@ -5,6 +5,8 @@ description: "Neptune transiting the 10th house: nearly sixteen years when ambit
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "10th house", "transits"]
 weight: 46
 glyph: "♆"
 definition: "Neptune transiting the 10th house puts a long question to your working life: what is it for? For nearly sixteen years as a rule, from your Midheaven on, it colours your vocation: ambition that wants meaning, a public image others project onto, a direction that blurs before it clears. Career outcomes are not part of its reading."

@@ -6,6 +6,8 @@ description: "Saturne en transit en maison 12 : environ trois ans de bilan, de 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Saturne", "maison 12", "transits"]
 weight: 24
 glyph: "♄"
 definition: "Saturne en transit en maison 12, c’est le bilan d’un peu moins de trois ans qui précède l’arrivée de Saturne sur votre ascendant : des chapitres refermés, des peurs regardées, une solitude structurée. Ce travail se fait dans la vie intérieure que votre thème contient déjà. La tradition y plaçait la joie de Saturne ; je n’y lis ni enfermement ni maladie."

@@ -6,6 +6,8 @@ description: "Planètes angulaires : les planètes proches d’un angle du thè
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 31
 glyph: "✦"
 definition: "Une planète angulaire est proche d’un angle : l’ascendant, le descendant, le milieu du ciel ou le fond du ciel. Certains astrologues comptent toute planète en maison 1, 4, 7 ou 10 ; d’autres seulement celles qui sont à quelques degrés de l’angle lui-même. Placée là, une planète se voit dans l’allure et le mouvement d’une vie."

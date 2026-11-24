@@ -5,6 +5,8 @@ description: "Mars sextile Saturn in synastry: one person’s energy and the oth
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Saturn", "sextile", "synastry"]
 weight: 217
 glyph: "♂⚹♄"
 definition: "Mars sextile Saturn in synastry means one person’s Mars is about 60° from the other’s Saturn, within 3.6°, usually two signs apart. The first person’s energy and the second’s method cooperate, as long as someone asks. I read it as structure on offer to effort, and effort on offer to a plan."

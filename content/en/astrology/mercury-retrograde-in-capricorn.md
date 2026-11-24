@@ -5,6 +5,8 @@ description: "Mercury retrograde in Capricorn: the retrograde of the turn of the
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mercury", "retrograde", "Mercury retrograde", "Capricorn"]
 weight: 10
 glyph: "☿℞♑"
 definition: "Mercury retrograde in Capricorn falls around the turn of the year: for 20 or 21 days between early December and early February, Mercury appears from Earth to reverse through Capricorn. I read it as plans and commitments reread as a new year begins, the structure checked before building on it, in the house Capricorn occupies in your chart."

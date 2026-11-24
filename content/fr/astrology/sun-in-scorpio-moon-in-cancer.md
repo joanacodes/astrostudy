@@ -6,6 +6,8 @@ description: "Soleil en Scorpion, Lune en Cancer : un trigone d’eau, la Lune 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Scorpion", "Lune", "Cancer"]
 weight: 88
 glyph: "☉♏☽♋"
 definition: "Soleil en Scorpion, Lune en Cancer réunit deux signes d’eau en trigone, la Lune dans le signe qu’elle gouverne, quelques jours après une pleine lune. Je le vois comme un moi qui va au fond des choses, tenu par des besoins qui s’apaisent chez soi, parmi les siens et les souvenirs."

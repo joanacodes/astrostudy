@@ -5,6 +5,8 @@ description: "Their Moon in your 11th house in synastry: their need to belong me
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "11th house", "synastry", "house overlays"]
 weight: 23
 glyph: "☽"
 definition: "Their Moon in your 11th house means someone else’s Moon falls among your friendships, communities and plans for the future. In synastry their need to belong finds a home in your circle: they feel safe among your people and look after them, and your friendships tend to grow warmer with them around."

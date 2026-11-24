@@ -5,6 +5,8 @@ description: "Hemisphere emphasis in astrology: planets gathered above or below 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 27
 glyph: "✦"
 definition: "Hemisphere emphasis is the gathering of a chart’s planets in one half of the wheel: above or below the horizon, east or west of the meridian. The halves are drawn by the angles, so they rest entirely on the birth time. Astrologers read them as where energy gathers, never as a missing part of life."

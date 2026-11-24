@@ -6,6 +6,8 @@ description: "Soleil en Balance, Lune en Bélier : les deux signes des équinox
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Balance", "Lune", "Bélier"]
 weight: 73
 glyph: "☉♎☽♈"
 definition: "Soleil en Balance, Lune en Bélier oppose les luminaires dans deux signes cardinaux, un jour ou deux autour d’une pleine lune, en Bélier la plupart du temps. J’y lis une identité qui se forme en pesant ce qui est juste, unie à des besoins qui veulent agir tout de suite et ne s’apaisent qu’une fois en mouvement."

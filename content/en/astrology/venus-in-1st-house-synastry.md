@@ -5,6 +5,8 @@ description: "Their Venus in your 1st house in synastry: their taste and warmth 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "1st house", "synastry", "house overlays"]
 weight: 37
 glyph: "♀"
 definition: "Their Venus in your 1st house turns the other person’s taste and affection towards your presence: your look, your manner, the first impression you make. In synastry they enjoy being near you, and you may feel more at ease in your own skin; liking here is direct, and not necessarily romantic."

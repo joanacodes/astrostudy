@@ -5,6 +5,8 @@ description: "Their Venus in your 9th house in synastry: affection for your idea
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "9th house", "synastry", "house overlays"]
 weight: 45
 glyph: "♀"
 definition: "Their Venus in your 9th house finds your horizons lovely: your travels, studies, beliefs and search for meaning are what the other person admires. In synastry, journeys and learning together please you both, though the far-off can be easier to love than the everyday; the house’s natural sign is Jupiter’s Sagittarius."

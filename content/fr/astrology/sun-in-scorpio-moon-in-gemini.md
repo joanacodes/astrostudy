@@ -6,6 +6,8 @@ description: "Soleil en Scorpion, Lune en Gémeaux : cinq signes d’écart, ju
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Scorpion", "Lune", "Gémeaux"]
 weight: 87
 glyph: "☉♏☽♊"
 definition: "Soleil en Scorpion, Lune en Gémeaux réunit l’eau fixe et l’air mutable en quinconce, quelques jours après une pleine lune. Ce que j’y lis : un moi qui protège l’essentiel et va en profondeur, à côté de besoins qui s’apaisent en parlant, en questionnant, en nommant ce qui est ressenti."

@@ -6,6 +6,8 @@ description: "Pluton carré Lilith en synastrie : l’envie de transformer de l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Lilith", "carré", "synastrie"]
 weight: 368
 glyph: "♇□⚸"
 definition: "Pluton carré Lilith en synastrie : la Lune noire Lilith moyenne d’une personne et Pluton dans le thème d’une autre font un angle droit, à 3,4° près. L’élan de transformation de l’une appuie sans cesse sur le refus de l’autre d’être dirigée, et chacune peut se sentir poussée. J’y lis une friction qui apprend à distinguer changer et contrôler."

@@ -5,6 +5,8 @@ description: "Mars conjunct North Node in synastry: one person’s drive lands w
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "North Node", "conjunction", "synastry"]
 weight: 246
 glyph: "♂☌☊"
 definition: "Mars conjunct North Node in synastry places one person’s Mars on the other’s North Node, within 6°, which sets it opposite their South Node too. One person’s drive arrives at the edge where the other is still learning. I read it as a push towards growth that works best when the person growing decides how fast."

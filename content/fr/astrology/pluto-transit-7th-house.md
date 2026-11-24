@@ -6,6 +6,8 @@ description: "Pluton en transit en maison 7 : souvent vingt-quatre ans environ 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Pluton", "maison 7", "transits"]
 weight: 55
 glyph: "♇"
 definition: "Pluton en transit en maison 7 commence quand Pluton franchit votre descendant et dure, à la latitude de Londres, vingt-quatre ans environ au milieu. Vos liens les plus proches, d’égal à égal, y sont travaillés : qui vous choisissez, ce que vous donnez, où se trouve le pouvoir entre vous. Ni rencontre ni rupture n’y sont prédites."

@@ -6,6 +6,8 @@ description: "Uranus carré Neptune en synastrie : les réformes d’une géné
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Neptune", "carré", "synastrie"]
 weight: 318
 glyph: "♅□♆"
 definition: "Uranus carré Neptune en synastrie met Uranus d’une personne à environ 90° de Neptune chez l’autre, à 3,4° près. Ce qu’une génération veut changer bute sans cesse sur ce qu’une autre tient pour un idéal. J’y lis une friction qui éprouve les réformes comme les rêves, par les maisons, jamais un affrontement entre deux personnes."

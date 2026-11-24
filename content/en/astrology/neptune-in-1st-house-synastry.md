@@ -5,6 +5,8 @@ description: "Their Neptune in your 1st house in synastry: their imagination aro
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "1st house", "synastry", "house overlays"]
 weight: 97
 glyph: "♆"
 definition: "Their Neptune in your 1st house means the other person’s Neptune falls in the house of the self you show first: your body, your manner, your first moves. In synastry their imagination gathers around how you come across, so you may feel softer and freer near them, and they tend to see in you someone they had already dreamed of."

@@ -6,6 +6,8 @@ description: "Neptune en transit en maison 11 : environ quatorze ans où amis, 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Neptune", "maison 11", "transits"]
 weight: 47
 glyph: "♆"
 definition: "Neptune en transit en maison 11 tourne l’amitié et l’appartenance vers un idéal pendant environ quatorze ans, le temps de traverser votre maison des amis, des groupes et des espoirs. Ce transit adoucit ce que votre thème en dit : des amitiés nées d’un rêve, des causes vécues comme des appels, des gens à voir tels qu’ils sont."

@@ -5,6 +5,8 @@ description: "Mars retrograde in Leo: the loops of 2009–10, 2024–25 and 2027
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mars", "retrograde", "Mars retrograde", "Leo"]
 weight: 29
 glyph: "♂℞♌"
 definition: "Mars retrograde in Leo is Mars, seen from Earth, backing through Leo for eleven weeks or so in winter: in 2009–10, in 2024–25, and next from January to April 2027. I read it as pride, play and the courage to be seen turning back for a review, in the house Leo occupies in your chart."

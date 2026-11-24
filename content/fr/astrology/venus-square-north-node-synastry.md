@@ -6,6 +6,8 @@ description: "Vénus carré Nœud Nord en synastrie : les plaisirs de l’une �
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Nœud Nord", "carré", "synastrie"]
 weight: 208
 glyph: "♀□☊"
 definition: "Vénus carré Nœud Nord en synastrie signifie que Vénus, chez une personne, est à environ 90° des deux nœuds de l’autre. Ce que la première estime n’appartient ni au terrain familier de la seconde ni à sa nouvelle direction. J’y lis une friction qui demande à la croissance de faire place au plaisir."

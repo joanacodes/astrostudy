@@ -5,6 +5,8 @@ description: "Jupiter conjunct Neptune in synastry: one person’s beliefs fused
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Neptune", "conjunction", "synastry"]
 weight: 261
 glyph: "♃☌♆"
 definition: "Jupiter conjunct Neptune in synastry means one person’s Jupiter lies within 5° of the other’s Neptune. Beliefs and ideals fuse: meaning gets an image, imagination gets a direction, and both can inflate. Some birth years share it widely and others not at all; I read it in the houses, never as fate."

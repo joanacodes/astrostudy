@@ -5,6 +5,8 @@ description: "Pluto trine Chiron in synastry: one person’s depth meets the oth
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "Chiron", "trine", "synastry"]
 weight: 364
 glyph: "♇△⚷"
 definition: "Pluto trine Chiron in synastry links one chart’s Pluto and another’s Chiron by a trine, within 3.4°. One person’s capacity for deep change meets the place where the other lives with a lasting limit, and it meets it steadily, so renewal and adaptation help each other. I read it as gentle depth that still deserves care."

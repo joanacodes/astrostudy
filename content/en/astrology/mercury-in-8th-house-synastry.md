@@ -5,6 +5,8 @@ description: "Their Mercury in your 8th house in synastry: deep talk about trust
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "8th house", "synastry", "house overlays"]
 weight: 32
 glyph: "☿"
 definition: "With their Mercury in your 8th house, the other person’s curiosity goes where few are invited: intimacy, trust, shared money and what people leave unsaid. In synastry, conversation between you goes deep quickly and confiding comes easily; it never forecasts a loss, an inheritance or an ending."

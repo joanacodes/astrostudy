@@ -5,6 +5,8 @@ description: "Uranus transiting the 10th house: nearly eight years of wanting wo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "10th house", "transits"]
 weight: 34
 glyph: "♅"
 definition: "Uranus transiting the 10th house starts at the top of your chart: from your Midheaven, Uranus spends nearly eight years, as a rule, in your house of work and reputation. It wakes what your chart already holds about public life: restlessness with a path that no longer fits, room for work you shape yourself. It predicts no career outcome."

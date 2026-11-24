@@ -5,6 +5,8 @@ description: "Singletons in astrology: a planet alone in a hemisphere, an elemen
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Foundations"]
+tags: ["birth chart"]
 weight: 29
 glyph: "✦"
 definition: "A singleton is a planet that stands alone in one part of a chart: the only planet in a hemisphere, in an element or in a modality. Astrologers who use the idea give it extra weight, because it carries a whole share of the chart by itself. It marks a focus, not a lonely person."

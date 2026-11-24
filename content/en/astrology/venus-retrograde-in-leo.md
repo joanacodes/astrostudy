@@ -5,6 +5,8 @@ description: "Venus retrograde in Leo: six summer weeks every eight years, wholl
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Venus", "retrograde", "Venus retrograde", "Leo"]
 weight: 17
 glyph: "♀℞♌"
 definition: "Venus retrograde in Leo comes round every eight years in high summer, when Venus appears from Earth to reverse through Leo for about six weeks, from late July to early September. I read it as warmth and generosity turned inward for a while: how you show love and what you’re proud of, in the house Leo occupies in your chart."

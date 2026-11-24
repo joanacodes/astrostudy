@@ -5,6 +5,8 @@ description: "Neptune opposite Chiron in synastry: one person’s ideals face th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Chiron", "opposition", "synastry"]
 weight: 350
 glyph: "♆☍⚷"
 definition: "With Neptune opposite Chiron in synastry, one person’s ideals and the other’s lasting limit sit at the two ends of a 180° axis, within 4°. Each sees in the other what they hold less of, hope on one side and hard-won practicality on the other, and both are easy to idealise. The houses show where the axis runs."

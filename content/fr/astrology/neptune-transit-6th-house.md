@@ -6,6 +6,8 @@ description: "Neptune en transit en maison 6 : près de treize ans, jusqu’à 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Neptune", "maison 6", "transits"]
 weight: 42
 glyph: "♆"
 definition: "Neptune en transit en maison 6 demande un sens à la journée de travail : près de treize ans au milieu, et jusqu’à vingt-six, la planète des idéaux traverse votre maison du travail, de la routine et du soin. Ce transit remodèle vos journées : des tâches en quête de sens, une compassion à border. La santé n’y est pas décrite."

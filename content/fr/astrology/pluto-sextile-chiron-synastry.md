@@ -6,6 +6,8 @@ description: "Pluton sextile Chiron en synastrie : la profondeur de l’une ren
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Chiron", "sextile", "synastrie"]
 weight: 362
 glyph: "♇⚹⚷"
 definition: "Pluton sextile Chiron en synastrie : environ 60°, à 2,4° près, de Pluton dans un thème à Chiron dans un autre. La capacité de renouveau profond de l’une offre à l’autre la place de revoir une vieille adaptation, sans la forcer. J’y vois une invitation discrète, à lire dans les maisons plutôt qu’à compter."

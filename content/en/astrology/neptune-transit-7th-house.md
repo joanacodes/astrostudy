@@ -5,6 +5,8 @@ description: "Neptune transiting the 7th house: close to thirteen years when par
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "7th house", "transits"]
 weight: 43
 glyph: "♆"
 definition: "Neptune transiting the 7th house opens a long season at your Descendant: close to thirteen years in the middle, spent in your house of partners. It colours what your chart already says about one-to-one bonds: devotion, compassion, a longing for a soulmate, and lines that blur. It names no deceiver and ends no bond."

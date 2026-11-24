@@ -6,6 +6,8 @@ description: "Chiron en transit en maison 2 : souvent près de trois ans où un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Chiron", "maison 2", "transits"]
 weight: 62
 glyph: "⚷"
 definition: "Chiron en transit en maison 2, c’est le séjour de Chiron, près de trois ans à la latitude de Londres, dans votre maison des ressources et de la valeur personnelle. Il touche une vieille blessure liée à la valeur : ce que vous pensez mériter, ce que vous demandez, ce que vous possédez. Il ne prédit ni gain ni perte."

@@ -6,6 +6,8 @@ description: "Vénus trigone Nœud Nord en synastrie : le goût de l’une aime
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Nœud Nord", "trigone", "synastrie"]
 weight: 209
 glyph: "♀△☊"
 definition: "Vénus trigone Nœud Nord en synastrie signifie que Vénus, chez une personne, se trouve à environ 120° du Nœud Nord de l’autre, donc à environ 60° de son Nœud Sud. Le goût de la première apprécie la capacité que construit la seconde. J’y lis une croissance qui ressemble à un plaisir, et qui demande pourtant de la pratique."

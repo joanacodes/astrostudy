@@ -6,6 +6,8 @@ description: "Planètes singletons : une planète seule dans un hémisphère, u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 29
 glyph: "✦"
 definition: "Un singleton est une planète seule dans une partie du thème : l’unique planète d’un hémisphère, d’un élément ou d’une modalité. Les astrologues qui emploient cette notion lui donnent un poids particulier, parce qu’elle porte à elle seule toute une part du thème. Elle signale un point de focalisation, pas une personne solitaire."

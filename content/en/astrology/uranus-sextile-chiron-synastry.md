@@ -5,6 +5,8 @@ description: "Uranus sextile Chiron in synastry: one person’s experiments offe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Chiron", "sextile", "synastry"]
 weight: 327
 glyph: "♅⚹⚷"
 definition: "Uranus sextile Chiron in synastry means one person’s Uranus is about 60° from the other’s Chiron, within 2.4°. One person’s experiments offer the other a new way around an old limit, which helps only once someone tries it. It belongs to whole months of births, so I read it through the houses where the offer is made."

@@ -5,6 +5,8 @@ description: "Sun in Leo, Moon in Aquarius: opposite fixed signs on the Sun’s 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo", "Moon", "Aquarius"]
 weight: 59
 glyph: "☉♌☽♒"
 definition: "Sun in Leo, Moon in Aquarius spans the Sun’s own axis, its home in Leo and its detriment opposite, at a birth near the full moon of the Leo month. I read it as a warm centre that needs a wide circle: a self that wants to be seen, and needs room among friends."

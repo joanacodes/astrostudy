@@ -6,6 +6,8 @@ description: "Pluton de l’autre dans votre maison 5 en synastrie : sa profond
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 113
 glyph: "♇"
 definition: "Pluton de l’autre dans votre maison 5 porte la profondeur d’une autre personne jusqu’à vos plaisirs : les amours, le jeu, la création. En synastrie, la joie devient sérieuse, et l’amour, s’il existe, prend tout l’espace, tandis que le jeu peut tourner à la rivalité. Les anciens y lisaient les enfants ; cette superposition n’en prédit aucun."

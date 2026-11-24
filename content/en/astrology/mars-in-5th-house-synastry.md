@@ -5,6 +5,8 @@ description: "Their Mars in your 5th house in synastry: their drive in your play
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "5th house", "synastry", "house overlays"]
 weight: 53
 glyph: "♂"
 definition: "Their Mars in your 5th house sets the other person’s Mars where you play, create, flirt and fall in love. In synastry their drive turns fun into a dare: you may take bolder creative and romantic risks around them, and they enjoy the challenge of winning your attention; it never predicts children."

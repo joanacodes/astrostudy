@@ -6,6 +6,8 @@ description: "Pluton carré Chiron en synastrie : le besoin de changement profo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Chiron", "carré", "synastrie"]
 weight: 363
 glyph: "♇□⚷"
 definition: "En synastrie, Pluton carré Chiron met Pluton, dans un thème, à angle droit du Chiron d’un autre, à 3,4° près. Le besoin de l’une de tout changer à la racine appuie sur ce que l’autre a appris à contourner : il faut trier ce qui part et ce qui reste. J’y lis une friction qui enseigne cette différence, lentement."

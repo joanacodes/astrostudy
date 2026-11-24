@@ -6,6 +6,8 @@ description: "Soleil en Vierge, Lune en Verseau : la terre et l’air en quinco
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge", "Lune", "Verseau"]
 weight: 71
 glyph: "☉♍☽♒"
 definition: "Soleil en Vierge, Lune en Verseau place les luminaires à cinq signes d’écart, un quinconce sans rien de commun, pendant que la Lune s’arrondissait vers la pleine lune. Mercure gouverne le signe du Soleil, Uranus et Saturne celui de la Lune. J’y lis un esprit d’ingénieur au service de meilleurs arrangements, pour les gens comme pour les choses."

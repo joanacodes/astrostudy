@@ -5,6 +5,8 @@ description: "Sun in Sagittarius, Moon in Taurus: a quincunx by sign, the Moon e
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Sagittarius", "Moon", "Taurus"]
 weight: 98
 glyph: "☉♐☽♉"
 definition: "Sun in Sagittarius, Moon in Taurus joins mutable fire and fixed earth, five signs apart, at a birth under a gibbous Moon, ten to fifteen days into the lunar month. The Moon is in its exaltation. I see in it a self that keeps setting out and needs that keep things going: travelling with roots."

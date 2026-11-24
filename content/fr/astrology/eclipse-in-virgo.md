@@ -6,6 +6,8 @@ description: "Les éclipses en Vierge : quatorze de 2000 à 2040 sur l’axe Vi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["éclipses", "Vierge"]
 weight: 6
 glyph: "●♍"
 definition: "Les éclipses de la Vierge sont des nouvelles et des pleines lunes proches des nœuds, avec la Lune en Vierge : solaires, le Soleil à ses côtés ; lunaires, le Soleil en face, en Poissons. Quatorze tombent de 2000 à 2040. L’une d’elles ne parle à un thème que si elle tombe à environ trois degrés d’un point natal."

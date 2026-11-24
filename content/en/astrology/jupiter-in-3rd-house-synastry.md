@@ -5,6 +5,8 @@ description: "Their Jupiter in your 3rd house in synastry: their breadth in your
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "3rd house", "synastry", "house overlays"]
 weight: 63
 glyph: "♃"
 definition: "Their Jupiter in your 3rd house gives the other person’s Jupiter a place in your daily talk, reading, errands and close circle. In synastry their breadth widens how you think and talk: with them you may learn, read and ask more, and they find in your curiosity the best audience their ideas could have."

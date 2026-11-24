@@ -6,6 +6,8 @@ description: "Mars de l’autre dans votre maison 9 en synastrie : son élan au
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "maison 9", "synastrie", "superpositions de maisons"]
 weight: 57
 glyph: "♂"
 definition: "Mars de l’autre dans votre maison 9 envoie Mars, chez cette personne, vers vos convictions, vos études, vos voyages et votre vision du monde. En synastrie, son élan conteste et enflamme ce que vous croyez : vous agissez plus hardiment selon vos idées à ses côtés, et l’autre trouve dans vos horizons une cause à défendre, ou un départ à prendre."

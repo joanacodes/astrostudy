@@ -5,6 +5,8 @@ description: "Saturn conjunct Pluto in synastry: one person’s structures sit w
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Pluto", "conjunction", "synastry"]
 weight: 296
 glyph: "♄☌♇"
 definition: "Saturn conjunct Pluto in synastry means one person’s Saturn sits within 5° of the other’s Pluto. The structures and responsibilities one person maintains lie exactly where the other needs to transform things at the root. I read it as authority meeting depth between two generations, which asks both to be honest about control."

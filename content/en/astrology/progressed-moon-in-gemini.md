@@ -5,6 +5,8 @@ description: "The progressed Moon in Gemini: two years or so of needing to talk,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressed Moon", "progressions", "Gemini"]
 weight: 3
 glyph: "☽♊"
 definition: "In secondary progressions, where a day stands for a year, the progressed Moon in Gemini covers two to two and a half years of your life. I read it as a chapter in which you understand your feelings by naming them: talk, reading and new connections become ways of looking after yourself."

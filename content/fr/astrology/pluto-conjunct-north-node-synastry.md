@@ -6,6 +6,8 @@ description: "Pluton conjonction Nœud Nord en synastrie : la profondeur de l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Nœud Nord", "conjonction", "synastrie"]
 weight: 371
 glyph: "♇☌☊"
 definition: "Pluton conjonction Nœud Nord en synastrie réunit Pluton, chez une personne, et le Nœud Nord de l’autre, à 4° au plus, face au Nœud Sud de celle-ci. Le besoin de l’une de renouveler en profondeur arrive là où l’autre commence à s’exercer, une pression rarement ressentie de la même façon. Sa lecture passe par les maisons des deux thèmes."

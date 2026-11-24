@@ -5,6 +5,8 @@ description: "Sun in Gemini, Moon in Leo: a sextile by sign, the Moon ruled by y
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini", "Moon", "Leo"]
 weight: 29
 glyph: "☉♊☽♌"
 definition: "Sun in Gemini, Moon in Leo puts the Moon in fire, two signs on from the Sun, in a lunar month’s first week; with the Sun ruling Leo, this Moon answers to your Gemini Sun. I read it as quick wit and a warm heart: words that want enjoying, needs that want to be seen."

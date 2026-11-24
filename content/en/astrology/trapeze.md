@@ -5,6 +5,8 @@ description: "The trapeze in astrology: a four-planet figure with two parallel s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["aspect patterns"]
 weight: 13
 glyph: "✦"
 definition: "A trapeze is a four-planet aspect pattern whose lines draw a four-sided figure with two parallel sides. Authors build it from different aspects, so the name describes an outline rather than one agreed set of aspects, and this site gives no count for it. It is read through its four planets and the aspects between them."

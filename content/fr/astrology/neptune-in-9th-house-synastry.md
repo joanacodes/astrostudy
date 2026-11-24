@@ -6,6 +6,8 @@ description: "Neptune de l’autre dans votre maison 9 en synastrie : sa quête
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "maison 9", "synastrie", "superpositions de maisons"]
 weight: 105
 glyph: "♆"
 definition: "Neptune de l’autre dans votre maison 9 amène Neptune, chez cette personne, jusqu’à vos convictions, vos longues études et vos voyages lointains. En synastrie, sa quête de sens élargit votre horizon : la foi et l’art se rapprochent, les voyages deviennent des pèlerinages, et l’autre voit peut-être en vous un guide. Il s’agit de garder vos propres questions."

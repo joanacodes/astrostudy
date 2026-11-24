@@ -5,6 +5,8 @@ description: "Uranus opposite Lilith in synastry: one person’s open difference
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Lilith", "opposition", "synastry"]
 weight: 335
 glyph: "♅☍⚸"
 definition: "Uranus opposite Lilith in synastry means one person’s Uranus faces the other’s Black Moon Lilith across the zodiac, about 180° away, within 4°. One person acts out the urge to differ, the other the refusal and the guarded instinct, and each sees a far end of themselves in the other. Mean Lilith dates it; the houses carry its reading."

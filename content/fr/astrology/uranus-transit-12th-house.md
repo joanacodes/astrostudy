@@ -6,6 +6,8 @@ description: "Uranus en transit en maison 12 : environ six ans, jusqu’à quat
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Uranus", "maison 12", "transits"]
 weight: 36
 glyph: "♅"
 definition: "Uranus en transit en maison 12, c’est la dernière étape avant votre ascendant : six ans environ au milieu, passés dans la maison de la vie intérieure. Ce transit desserre ce que votre thème garde loin des regards : habitudes intimes, vieux schémas, façons de se reposer, intuitions venues dans la solitude. Ni maladie ni enfermement n’y sont décrits."

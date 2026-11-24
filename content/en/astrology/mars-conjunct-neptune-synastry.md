@@ -5,6 +5,8 @@ description: "Mars conjunct Neptune in synastry: one person’s drive lands on t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Neptune", "conjunction", "synastry"]
 weight: 226
 glyph: "♂☌♆"
 definition: "Mars conjunct Neptune in synastry means one person’s Mars falls within 6° of the other’s Neptune. One person’s drive meets the other’s imagination on the same degree, so a vision finds someone to act on it and effort gains a purpose. To me it is inspiration put to work, kept honest by saying who wants what."

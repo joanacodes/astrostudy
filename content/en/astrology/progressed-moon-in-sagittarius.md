@@ -5,6 +5,8 @@ description: "The progressed Moon in Sagittarius: two years or so of needing roo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressed Moon", "progressions", "Sagittarius"]
 weight: 9
 glyph: "☽♐"
 definition: "The progressed Moon in Sagittarius is your progressed Moon’s passage through Sagittarius, the fire sign ruled by Jupiter, lasting two to two and a half years in the day-for-a-year count of secondary progressions. I read it as an expansive chapter: needs met through meaning, learning, honesty and room to grow."

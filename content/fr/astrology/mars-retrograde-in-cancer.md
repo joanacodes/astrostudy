@@ -6,6 +6,8 @@ description: "Mars rétrograde en Cancer, où Mars est en chute : les boucles d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mars", "rétrograde", "Mars rétrograde", "Cancer"]
 weight: 28
 glyph: "♂℞♋"
 definition: "Mars rétrograde en Cancer, c’est le recul apparent de Mars dans le Cancer, onze semaines environ en plein hiver : trois fois de 2000 à 2040, la dernière de décembre 2024 à février 2025. J’y lis l’élan protecteur qui revient sur ses pas, les combats menés pour les autres et les besoins tus, dans la maison du Cancer de votre thème."

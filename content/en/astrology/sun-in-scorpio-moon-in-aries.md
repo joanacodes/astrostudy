@@ -5,6 +5,8 @@ description: "Sun in Scorpio, Moon in Aries: Mars behind both lights, five signs
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Scorpio", "Moon", "Aries"]
 weight: 85
 glyph: "☉♏☽♈"
 definition: "Sun in Scorpio, Moon in Aries joins fixed water and cardinal fire, five signs apart, a few days before a full moon, with Mars ruling the Moon’s sign and, in the tradition, the Sun’s. I read it as a self that works slowly towards the root of things, with feelings that flare fast and frankly."

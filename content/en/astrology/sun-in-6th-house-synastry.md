@@ -5,6 +5,8 @@ description: "Their Sun in your 6th house in synastry: their purpose shaping you
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "6th house", "synastry", "house overlays"]
 weight: 6
 glyph: "☉"
 definition: "Their Sun in your 6th house brings another person’s Sun into the house of your daily work, routines and habits. In synastry it describes their purpose shaping your ordinary days: work and chores can feel more meaningful around them, and they find in your skill and method somewhere to put their direction to use."

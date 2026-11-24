@@ -6,6 +6,8 @@ description: "Le grand trigone en astrologie : trois planètes à 120°, souven
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["trigone", "configurations"]
 weight: 2
 glyph: "△"
 definition: "Un grand trigone relie trois planètes à 120° environ les unes des autres, chacune en trigone avec les deux autres : un triangle équilatéral, le plus souvent dans un même élément. Il décrit un circuit de soutien entre trois fonctions : une aisance réelle, qui ne demande rien et peut donc rester inemployée. Environ 1 personne sur 10 en a un."

@@ -5,6 +5,8 @@ description: "Their Saturn in your 5th house in synastry: patience and limits in
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "5th house", "synastry", "house overlays"]
 weight: 77
 glyph: "♄"
 definition: "Their Saturn in your 5th house carries another person’s Saturn into your pleasures: play, romance, hobbies and the things you make for the joy of it. In synastry it can lend your creativity discipline and your courtship patience, or make fun feel supervised, and they tend to feel responsible for your joy. It never predicts children."

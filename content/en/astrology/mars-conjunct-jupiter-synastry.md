@@ -5,6 +5,8 @@ description: "Mars conjunct Jupiter in synastry: what one person believes in, th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Jupiter", "conjunction", "synastry"]
 weight: 211
 glyph: "♂☌♃"
 definition: "Mars conjunct Jupiter in synastry means one person’s Mars sits within 6° of the other’s Jupiter. The first person’s drive lands on the second’s beliefs and sense of what matters: effort finds a reason, and a reason finds someone to act on it. I read it as shared momentum that needs a sense of scale."

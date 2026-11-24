@@ -5,6 +5,8 @@ description: "The mystic rectangle in astrology: two oppositions joined by two t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["aspect patterns"]
 weight: 8
 glyph: "▭"
 definition: "A mystic rectangle is four planets in two oppositions, joined around the sides by two sextiles and two trines, drawing a rectangle across the chart. It describes tension held inside a frame of support: two polarities, with easy links between their ends. Four planets must fall just so, and about 1 person in 28 has one."

@@ -5,6 +5,8 @@ description: "Their Saturn in your 2nd house in synastry: their caution and sens
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "2nd house", "synastry", "house overlays"]
 weight: 74
 glyph: "♄"
 definition: "Their Saturn in your 2nd house sets another person’s Saturn among your resources: money, possessions, skills and the sense of what you’re worth. In synastry their caution meets your idea of security: you may build something solid together, while they tend to feel answerable for what you spend and keep."

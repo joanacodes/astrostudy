@@ -6,6 +6,8 @@ description: "Mars rétrograde en Poissons : les deux boucles les plus courtes 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mars", "rétrograde", "Mars rétrograde", "Poissons"]
 weight: 36
 glyph: "♂℞♓"
 definition: "Mars rétrograde en Poissons, c’est le recul apparent de Mars dans les Poissons, deux mois environ entre la fin de l’été et le début de l’automne : en 2003, puis d’août à octobre 2035. J’y lis l’élan qui agit à l’instinct ou pour les autres et revient sur ses pas, dans la maison qu’occupent les Poissons dans votre thème."

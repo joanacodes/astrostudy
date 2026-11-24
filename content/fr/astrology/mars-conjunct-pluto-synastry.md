@@ -6,6 +6,8 @@ description: "Mars conjonction Pluton en synastrie : l’élan de l’une renco
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Pluton", "conjonction", "synastrie"]
 weight: 231
 glyph: "♂☌♇"
 definition: "Mars conjonction Pluton en synastrie signifie que Mars, chez une personne, et Pluton, chez l’autre, ont moins de 6° d’écart. L’élan de l’une tombe sur la capacité de l’autre à changer en profondeur, et l’effort commun va volontiers jusqu’au fond. J’y lis une force concentrée, à tourner vers un but partagé, en gardant le pouvoir à sa juste mesure."

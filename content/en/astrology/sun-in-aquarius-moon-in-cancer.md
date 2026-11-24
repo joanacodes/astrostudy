@@ -5,6 +5,8 @@ description: "Sun in Aquarius, Moon in Cancer: the one pair with the Moon in its
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aquarius", "Moon", "Cancer"]
 weight: 124
 glyph: "☉♒☽♋"
 definition: "Sun in Aquarius, Moon in Cancer places the Moon five signs ahead of the Sun, in its own sign, while it was still filling towards full. No other pair sets the Moon at home beside a Sun in its detriment. I read a self given to the wider world, with needs rooted in a few people."

@@ -5,6 +5,8 @@ description: "Sun in Scorpio, Moon in Gemini: five signs apart, born just after 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Scorpio", "Moon", "Gemini"]
 weight: 87
 glyph: "☉♏☽♊"
 definition: "Sun in Scorpio, Moon in Gemini joins fixed water and mutable air at a quincunx, with the full moon a few days behind. What I read there is a self that guards what is essential and goes deep, beside needs that settle by talking, asking and naming what is felt."

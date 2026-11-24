@@ -6,6 +6,8 @@ description: "Lilith conjonction Nœud Nord en synastrie : la part indomptée d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "Nœud Nord", "conjonction", "synastrie"]
 weight: 386
 glyph: "⚸☌☊"
 definition: "Lilith conjonction Nœud Nord en synastrie est la rencontre, à 3° près, de la Lune noire Lilith d’une personne et du Nœud Nord d’une autre, ce qui oppose aussi cette Lilith à son Nœud Sud. Ce que l’une refuse de laisser dompter tombe là où l’autre apprend à grandir. J’y lis une permission ou une pression, jamais un destin."

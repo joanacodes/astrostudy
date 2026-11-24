@@ -6,6 +6,8 @@ description: "Uranus carré Pluton en synastrie : les réformes rapides d’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Pluton", "carré", "synastrie"]
 weight: 323
 glyph: "♅□♇"
 definition: "Uranus carré Pluton en synastrie met Uranus d’une personne à angle droit de Pluton chez l’autre, à 3,4° près. Une génération veut changer les choses vite, une autre les transformer lentement, à la racine, et les deux élans se poussent sans cesse. J’y lis une friction entre deux façons de changer, par les maisons, jamais une destruction."

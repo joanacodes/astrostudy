@@ -6,6 +6,8 @@ description: "Neptune opposition Pluton en synastrie : la profondeur durement g
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Pluton", "opposition", "synastrie"]
 weight: 345
 glyph: "♆☍♇"
 definition: "Neptune opposition Pluton en synastrie place Neptune, dans le thème d’une personne, à l’opposé de Pluton dans celui de l’autre, à environ 180°, à 4° près ; dans mes données, il ne relie que des personnes nées à plus de cinquante ans d’écart, Pluton revenant à l’aînée. Une profondeur éprouvée fait face au rêve de ce qui pourrait être."

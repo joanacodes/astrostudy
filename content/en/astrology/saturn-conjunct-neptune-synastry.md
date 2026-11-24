@@ -5,6 +5,8 @@ description: "Saturn conjunct Neptune in synastry: one person’s sense of duty 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Neptune", "conjunction", "synastry"]
 weight: 291
 glyph: "♄☌♆"
 definition: "Saturn conjunct Neptune in synastry means one person’s Saturn sits within 5° of the other’s Neptune. One person’s sense of limits and duty lands on the very place where the other keeps an ideal. I read it as a dream meeting someone able to build it, or measure it: two eras meeting, read through the houses."

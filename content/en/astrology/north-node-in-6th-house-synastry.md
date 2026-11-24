@@ -5,6 +5,8 @@ description: "Their North Node in your 6th house in synastry: your routines as t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["North Node", "6th house", "synastry", "house overlays"]
 weight: 150
 glyph: "☊"
 definition: "Their North Node in your 6th house means the other person grows by practising what fills your ordinary day, routines, daily work, self-care, while their South Node sits in your 12th. You may see them copy your habits as they build their own, then slip away into your quiet hours, their familiar ground, when the effort feels like too much."

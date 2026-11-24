@@ -6,6 +6,8 @@ description: "Saturne de l’autre dans votre maison 8 en synastrie : confiance
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 80
 glyph: "♄"
 definition: "Saturne de l’autre dans votre maison 8 mène Saturne, chez une autre personne, dans la maison de l’intimité, de la confiance et de ce qui se partage ou se doit. En synastrie, la proximité devient lente, prudente et engageante : la confiance se gagne puis se garde, l’argent commun et les promesses se traitent avec sérieux. Rien n’y prédit la mort."

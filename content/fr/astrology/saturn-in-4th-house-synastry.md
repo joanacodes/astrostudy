@@ -6,6 +6,8 @@ description: "Saturne de l’autre dans votre maison 4 en synastrie : un sens d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 76
 glyph: "♄"
 definition: "Saturne de l’autre dans votre maison 4 loge le sens du devoir et de la durée d’une autre personne sous votre propre toit : le foyer, la famille, les racines, le moi intime. En synastrie, cela ressemble à des fondations posées ensemble, ou à un règlement jamais signé, et l’autre se sent comptable de la solidité de votre maison."

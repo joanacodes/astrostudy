@@ -6,6 +6,8 @@ description: "Soleil en Lion, Lune en Balance : feu et air en sextile par signe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion", "Lune", "Balance"]
 weight: 55
 glyph: "☉♌☽♎"
 definition: "Soleil en Lion, Lune en Balance associe le feu fixe et l’air cardinal, à deux signes d’écart, sous un premier croissant, quelques jours après une nouvelle lune, le Soleil chez lui et la Lune dans le signe de sa chute. J’y vois un sens de soi solide, que la justice et la bonne compagnie réconfortent."

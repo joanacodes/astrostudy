@@ -5,6 +5,8 @@ description: "Venus conjunct Lilith in synastry: one person’s taste falls righ
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Lilith", "conjunction", "synastry"]
 weight: 201
 glyph: "♀☌⚸"
 definition: "Venus conjunct Lilith in synastry means one person’s Venus sits within 6° of the other’s mean Black Moon Lilith. The first person’s taste goes straight to what the second learned to keep out of sight, and that part is liked, often for the first time. I read it as appreciation that has to stay an offer, never a claim."

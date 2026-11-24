@@ -6,6 +6,8 @@ description: "Neptune conjonction Pluton en synastrie : les idéaux d’une aî
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Pluton", "conjonction", "synastrie"]
 weight: 341
 glyph: "♆☌♇"
 definition: "Neptune conjonction Pluton en synastrie signifie que Neptune, chez une personne, et Pluton, chez l’autre, occupent les mêmes degrés, à 4° près ; dans toutes les paires de mes données, Neptune appartient à l’aînée. Les idéaux d’une génération rencontrent l’élan de la suivante à tout refaire depuis la racine. C’est le contact le plus lent du site."

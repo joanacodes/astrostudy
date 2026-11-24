@@ -5,6 +5,8 @@ description: "Venus retrograde in Aries: six weeks every eight years in Mars’s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Venus", "retrograde", "Venus retrograde", "Aries"]
 weight: 13
 glyph: "♀℞♈"
 definition: "Venus retrograde in Aries is the six weeks or so, from early March into April once every eight years, when Venus seems from Earth to back up through Aries, usually sliding on into Pisces. I read it as quick attractions and instant likes called back for a second look, in the house Aries occupies in your chart."

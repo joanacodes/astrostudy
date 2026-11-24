@@ -6,6 +6,8 @@ description: "Le Nœud Nord de l’autre dans votre maison 2 en synastrie : ce 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Nœud Nord", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 146
 glyph: "☊"
 definition: "Le Nœud Nord de l’autre dans votre maison 2 place ce que cette personne apprend parmi vos ressources, vos savoir-faire et votre estime de vous, et son Nœud Sud dans votre maison 8. Votre façon d’estimer et de garder ce qui est à vous l’instruit, alors que tout mettre en commun avec vous lui vient bien plus naturellement."

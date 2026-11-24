@@ -6,6 +6,8 @@ description: "Vénus trigone Chiron en synastrie : deux personnes se font de la
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Chiron", "trigone", "synastrie"]
 weight: 199
 glyph: "♀△⚷"
 definition: "Vénus trigone Chiron en synastrie signifie que Vénus, chez une personne, se trouve à environ 120° de Chiron chez l’autre, à 5,1° près. Les goûts de la première laissent de la place à ce que la seconde contourne, et les adaptations de la seconde plaisent sans explication. J’y lis un accommodement facile, à remercier tout haut."

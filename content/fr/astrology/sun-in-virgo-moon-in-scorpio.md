@@ -6,6 +6,8 @@ description: "Soleil en Vierge, Lune en Scorpion : un sextile de la terre à l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge", "Lune", "Scorpion"]
 weight: 68
 glyph: "☉♍☽♏"
 definition: "Soleil en Vierge, Lune en Scorpion réunit la terre mutable et l’eau fixe en sextile, pendant qu’un jeune croissant brillait dans le ciel du soir. La Lune est dans sa chute ; Mercure gouverne le signe du Soleil. J’y lis une attention précise et profonde : vous voyez le petit détail, et sentez ce qu’il veut dire."

@@ -6,6 +6,8 @@ description: "Soleil en Vierge, Lune en Cancer : la Lune chez elle, le Soleil d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge", "Lune", "Cancer"]
 weight: 64
 glyph: "☉♍☽♋"
 definition: "Soleil en Vierge, Lune en Cancer place la Lune chez elle, dans son propre signe, en sextile derrière un Soleil logé dans le signe de Mercure, pour une naissance après le dernier quartier du mois lunaire. J’y lis une tendresse pratique : un amour qui fait des listes, et des listes faites par amour."

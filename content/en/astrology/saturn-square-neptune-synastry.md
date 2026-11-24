@@ -5,6 +5,8 @@ description: "Saturn square Neptune in synastry: one person’s sense of what’
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Neptune", "square", "synastry"]
 weight: 293
 glyph: "♄□♆"
 definition: "Saturn square Neptune in synastry means one person’s Saturn is about 90° from the other’s Neptune, within 4.25°. One person’s limits and caution keep catching on the other’s ideals and compassion. I read it as friction between two eras’ sense of the possible, which can leave both with hopes that hold up and rules that remember people."

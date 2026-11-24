@@ -6,6 +6,8 @@ description: "Jupiter en transit en maison 2 : un an environ où l’estime de 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Jupiter", "maison 2", "transits"]
 weight: 2
 glyph: "♃"
 definition: "Jupiter en transit en maison 2, c’est l’année environ où Jupiter traverse votre maison des ressources et des valeurs. Ce transit n’apporte pas d’argent : il remue ce que votre thème dit déjà de la valeur et de la sécurité, et ce qui compte pour vous, ce sur quoi bâtir, ce que vous garderiez se précisent."

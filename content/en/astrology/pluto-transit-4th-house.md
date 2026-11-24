@@ -5,6 +5,8 @@ description: "Pluto transiting the 4th house: about nineteen years at the base o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "4th house", "transits"]
 weight: 52
 glyph: "♇"
 definition: "Pluto transiting the 4th house starts when Pluto reaches the IC, the lowest point of your chart, and lasts about nineteen years in the middle at London’s latitude. It works on home, family history and the private ground you stand on, bringing up what was handed down so that you can choose what to keep."

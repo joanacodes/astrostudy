@@ -5,6 +5,8 @@ description: "Saturn sextile Uranus in synastry: one person’s reliability and 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Uranus", "sextile", "synastry"]
 weight: 287
 glyph: "♄⚹♅"
 definition: "Saturn sextile Uranus in synastry means one person’s Saturn is about 60° from the other’s Uranus, within 3°. One person’s reliability and the other’s appetite for new methods can cooperate, so a fresh idea gets a structure that keeps it. I read it as an alliance on offer between two generations, real only when someone takes it up."

@@ -6,6 +6,8 @@ description: "Uranus sextile Pluton en synastrie : la réforme hardie d’une g
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Pluton", "sextile", "synastrie"]
 weight: 322
 glyph: "♅⚹♇"
 definition: "Uranus sextile Pluton en synastrie est un angle de 60°, à 2,4° près, entre Uranus d’une personne et Pluton d’une autre. La façon dont une génération réforme les choses et celle dont une autre les renouvelle en profondeur peuvent travailler ensemble, si l’une des deux fait le premier pas. J’y lis, par les maisons, une ouverture entre deux époques."

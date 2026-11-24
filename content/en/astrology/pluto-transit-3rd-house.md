@@ -5,6 +5,8 @@ description: "Pluto transiting the 3rd house: around nineteen years in which thi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "3rd house", "transits"]
 weight: 51
 glyph: "♇"
 definition: "Pluto transiting the 3rd house is the long passage of Pluto, around nineteen years in the middle at London’s latitude, through your house of words, siblings, neighbours and daily learning. It gives depth to the way you think and speak: fewer pleasantries, more of what you actually mean, and a mind that wants the bottom of things."

@@ -6,6 +6,8 @@ description: "Jupiter sextile Neptune en synastrie : le sens du but de l’une 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Neptune", "sextile", "synastrie"]
 weight: 262
 glyph: "♃⚹♆"
 definition: "Jupiter sextile Neptune en synastrie signifie que Jupiter, chez une personne, se trouve à environ 60° de Neptune chez l’autre, à 3° près. Le but et l’imagination peuvent s’entraider, donnant au rêve une direction et au projet une image, dès que quelqu’un commence. De longues séries de mois de naissance le partagent ; je le lis dans les maisons."

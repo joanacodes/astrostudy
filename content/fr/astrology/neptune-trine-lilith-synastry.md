@@ -6,6 +6,8 @@ description: "Neptune trigone Lilith en synastrie : l’une reçoit sans bronch
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Lilith", "trigone", "synastrie"]
 weight: 354
 glyph: "♆△⚸"
 definition: "Neptune trigone Lilith en synastrie : à environ 120° de Neptune dans un thème, à 3,4° près, se tient la Lune noire Lilith moyenne d’un autre. L’imagination de l’une reçoit sans broncher la part indomptée de l’autre, et cette part donne en retour de l’aplomb aux rêves. J’y lis une acceptation facile, qui gagne à servir."

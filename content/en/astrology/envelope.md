@@ -5,6 +5,8 @@ description: "The envelope in astrology: a pattern name with no agreed definitio
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["aspect patterns"]
 weight: 14
 glyph: "✦"
 definition: "Envelope is a name given to an aspect pattern linking several planets in a chart, but authors don’t agree on which planets and aspects make one. With no single definition there is no single drawing, and this site gives no count. Whatever a program labels an envelope, I read planet by planet and aspect by aspect."

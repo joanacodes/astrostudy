@@ -6,6 +6,8 @@ description: "Mars carré Neptune en synastrie : l’élan de l’une rencontre
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Neptune", "carré", "synastrie"]
 weight: 228
 glyph: "♂□♆"
 definition: "Mars carré Neptune en synastrie signifie qu’un quart du zodiaque, à 5,1° près, s’étend entre Mars, chez une personne, et Neptune, chez l’autre. L’élan de l’une rencontre de biais les idéaux de l’autre, et ce qui se fait diffère un peu de ce qu’on imaginait. Pour moi, c’est une friction qui apprend à dire clairement ce qu’on veut."

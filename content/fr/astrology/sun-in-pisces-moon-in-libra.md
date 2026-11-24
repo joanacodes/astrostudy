@@ -6,6 +6,8 @@ description: "Soleil en Poissons, Lune en Balance : un quinconce juste après l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Poissons", "Lune", "Balance"]
 weight: 139
 glyph: "☉♓☽♎"
 definition: "Soleil en Poissons, Lune en Balance installe la Lune sept signes après le Soleil, un peu au-delà de l’opposition, quelques jours à peine après une pleine lune. Je lis là un moi compatissant et accueillant, dont les besoins s’apaisent quand l’affection va dans les deux sens et que l’échange entre deux personnes reste équilibré."

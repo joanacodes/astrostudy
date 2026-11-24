@@ -6,6 +6,8 @@ description: "Vénus conjonction Chiron en synastrie : l’une admire ce que l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Chiron", "conjonction", "synastrie"]
 weight: 196
 glyph: "♀☌⚷"
 definition: "Vénus conjonction Chiron en synastrie signifie que Vénus, chez une personne, se trouve à moins de 6° de Chiron chez l’autre. Ce que la première estime se pose là où la seconde a appris à s’adapter autour d’une sensibilité durable : ce contournement est remarqué et apprécié. J’y lis une estime qui demande de la délicatesse, jamais une guérison."

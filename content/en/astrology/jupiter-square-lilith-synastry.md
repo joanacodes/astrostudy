@@ -5,6 +5,8 @@ description: "Jupiter square Lilith in synastry: one person’s principles rub a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Lilith", "square", "synastry"]
 weight: 278
 glyph: "♃□⚸"
 definition: "Jupiter square Lilith in synastry means one person’s Jupiter is about 90° from the other’s Black Moon Lilith, within 4.25°. One person’s beliefs about what is good and worth hoping for keep catching on the other’s refusals. I read it as friction that makes both examine their certainties, never a verdict on either, and through the houses."

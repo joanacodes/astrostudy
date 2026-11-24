@@ -5,6 +5,8 @@ description: "Their Pluto in your 9th house in synastry: their depth meeting you
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "9th house", "synastry", "house overlays"]
 weight: 117
 glyph: "♇"
 definition: "Their Pluto in your 9th house lets the other person’s depth into your beliefs, philosophy, long study and far journeys. In synastry convictions are tested at the root, debates go deep, and they may find their own certainties shaken by yours. It predicts no conversion: each of you keeps the right to believe differently."

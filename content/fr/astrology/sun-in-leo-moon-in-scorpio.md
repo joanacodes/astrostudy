@@ -6,6 +6,8 @@ description: "Soleil en Lion, Lune en Scorpion : le feu fixe en carré avec l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion", "Lune", "Scorpion"]
 weight: 56
 glyph: "☉♌☽♏"
 definition: "Soleil en Lion, Lune en Scorpion met deux signes fixes en carré, le feu face à l’eau, pour une naissance près du premier quartier, 5 à 10 jours après la nouvelle lune. Le Soleil est chez lui, la Lune dans sa chute. J’y lis une fidélité à deux visages : l’un au grand jour, l’autre sous la ligne de flottaison."

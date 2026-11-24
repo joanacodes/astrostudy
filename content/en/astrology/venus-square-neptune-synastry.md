@@ -5,6 +5,8 @@ description: "Venus square Neptune in synastry: one person wants to know where t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Neptune", "square", "synastry"]
 weight: 188
 glyph: "♀□♆"
 definition: "Venus square Neptune in synastry means one person’s Venus is about 90° from the other’s Neptune, within 5.1°. The first person’s clear preferences and sense of a fair exchange keep meeting the second’s ideals and wish to leave things open. I read it as a rub that can make two adults clear and kind at once."

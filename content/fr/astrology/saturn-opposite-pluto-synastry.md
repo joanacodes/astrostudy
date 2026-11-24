@@ -6,6 +6,8 @@ description: "Saturne opposition Pluton en synastrie : ce que l’une garde, l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Pluton", "opposition", "synastrie"]
 weight: 300
 glyph: "♄☍♇"
 definition: "Saturne opposition Pluton en synastrie signifie que Saturne, chez une personne, se trouve à environ 180° de Pluton chez l’autre, à 5° près. Ce que l’une entretient et garde fait face à ce que l’autre a besoin de finir ou de transformer. J’y lis une balançoire entre garder et lâcher, portée par deux générations."

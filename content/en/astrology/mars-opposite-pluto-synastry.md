@@ -5,6 +5,8 @@ description: "Mars opposite Pluto in synastry: one person’s drive faces the ot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Pluto", "opposition", "synastry"]
 weight: 235
 glyph: "♂☍♇"
 definition: "Mars opposite Pluto in synastry means one person’s Mars stands at the far pole from the other’s Pluto, 180° away within 6°. Each meets in the other a strength they use less, directness or depth, so the pair keeps working out a balance of power. To me it’s a seesaw two adults can share, never enmity."

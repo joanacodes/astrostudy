@@ -6,6 +6,8 @@ description: "Le marteau de Thor en astrologie : deux planètes en carré, tout
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["configurations"]
 weight: 10
 glyph: "⚼"
 definition: "Le marteau de Thor, ce sont trois planètes : deux en carré, toutes deux en sesqui-carré avec une troisième placée à 135° de chacune. Le frottement du carré se reporte sur cette troisième planète, qui doit se réorganiser autour : une tension composée qui demande une reconstruction, pas une punition. Malgré son nom, environ 1 thème sur 11 en contient un."

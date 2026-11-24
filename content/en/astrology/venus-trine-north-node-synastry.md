@@ -5,6 +5,8 @@ description: "Venus trine North Node in synastry: one person’s taste already l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "North Node", "trine", "synastry"]
 weight: 209
 glyph: "♀△☊"
 definition: "Venus trine North Node in synastry means one person’s Venus is about 120° from the other’s North Node, within 5.1°, and so about 60° from their South Node. The first person’s taste enjoys the capacity the second is building. I read it as growth that feels like pleasure, which still asks for real practice."

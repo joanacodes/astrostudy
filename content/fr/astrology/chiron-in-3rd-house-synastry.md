@@ -6,6 +6,8 @@ description: "Chiron de l’autre dans votre maison 3 en synastrie : sa vieille
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "maison 3", "synastrie", "superpositions de maisons"]
 weight: 123
 glyph: "⚷"
 definition: "Avec Chiron de l’autre dans votre maison 3, son Chiron se trouve dans la maison de votre esprit au quotidien : conversations, messages, apprentissages, frères, sœurs et voisins. En synastrie, sa patience durement gagnée entre dans vos échanges : cette personne explique et écoute remarquablement bien, et vos mots lancés en passant peuvent effleurer un de ses points sensibles."

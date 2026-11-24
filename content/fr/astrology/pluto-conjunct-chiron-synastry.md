@@ -6,6 +6,8 @@ description: "Pluton conjonction Chiron en synastrie : la profondeur de l’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Chiron", "conjonction", "synastrie"]
 weight: 361
 glyph: "♇☌⚷"
 definition: "En synastrie, Pluton conjonction Chiron rapproche à 4° au plus Pluton, chez une personne, du Chiron de l’autre. Le besoin de tout renouveler à la racine rencontre l’endroit où l’autre a appris à s’adapter à une limite durable, ce qui peut libérer un vieux détour ou trop appuyer dessus. Je le lis lentement, par les maisons, avec l’accord des deux."

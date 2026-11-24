@@ -5,6 +5,8 @@ description: "The progressed Moon in Leo: two years or a little more of needing 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressed Moon", "progressions", "Leo"]
 weight: 5
 glyph: "☽♌"
 definition: "The progressed Moon in Leo marks the two years or a little more in which your progressed Moon crosses Leo, the sign of the Sun, in the day-for-a-year clock of secondary progressions. I read it as a chapter in which needs turn warm and outward: to create, to play, to be seen and appreciated for who you are."

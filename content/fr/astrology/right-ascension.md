@@ -6,6 +6,8 @@ description: "L’ascension droite en astrologie : la longitude du ciel, compt�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Les bases"]
+tags: ["astronomie"]
 weight: 36
 glyph: "✦"
 definition: "L’ascension droite est la position d’un astre mesurée vers l’est le long de l’équateur céleste depuis le point de l’équinoxe de mars, en heures, minutes et secondes, 24 heures faisant le tour. Avec la déclinaison, elle situe un point du ciel. En astrologie, elle relie la rotation du ciel à l’horloge : c’est ainsi qu’on trouve le milieu du ciel."

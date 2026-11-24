@@ -6,6 +6,8 @@ description: "Soleil en Balance, Lune en Taureau : Vénus gouverne les deux lum
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Balance", "Lune", "Taureau"]
 weight: 74
 glyph: "☉♎☽♉"
 definition: "Soleil en Balance, Lune en Taureau réunit deux signes gouvernés par Vénus, la Lune dans son exaltation et le Soleil dans sa chute, quelques jours après une pleine lune. J’y reconnais un moi qui cherche l’arrangement juste entre les personnes, tenu par des besoins qui recherchent ce qui dure, le familier, le pas tranquille."

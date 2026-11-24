@@ -5,6 +5,8 @@ description: "Pluto transiting the 2nd house: often about sixteen years of diggi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "2nd house", "transits"]
 weight: 50
 glyph: "♇"
 definition: "Pluto transiting the 2nd house is Pluto’s long stay, about sixteen years as a rule at London’s latitude, in your house of resources and values. It takes what your chart says about security and self-worth down to the roots: what you own, what owns you, what you would defend. It predicts no money, gained or lost."

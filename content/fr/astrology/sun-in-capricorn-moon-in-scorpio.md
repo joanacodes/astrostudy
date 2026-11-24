@@ -6,6 +6,8 @@ description: "Soleil en Capricorne, Lune en Scorpion : la terre et l’eau en s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Capricorne", "Lune", "Scorpion"]
 weight: 116
 glyph: "☉♑☽♏"
 definition: "Soleil en Capricorne, Lune en Scorpion associe la terre cardinale et l’eau fixe en sextile par signe, pour une naissance juste après le dernier quartier. La Lune est en chute ; Mars, maître ancien du Scorpion, a son exaltation en Capricorne. J’y lis une endurance portée par la profondeur, lente à faire confiance et à renoncer."

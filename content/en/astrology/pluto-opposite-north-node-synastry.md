@@ -5,6 +5,8 @@ description: "Pluto opposite North Node in synastry: one person’s Pluto rests 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "North Node", "opposition", "synastry"]
 weight: 375
 glyph: "♇☍☊"
 definition: "Pluto opposite North Node in synastry puts one chart’s Pluto on another chart’s South Node, within 4°, with that person’s North Node facing it across the chart. One person’s depth meets the other on their oldest, most practised ground, which can steady them or keep them circling it. I read it as a seesaw between the known and the new."

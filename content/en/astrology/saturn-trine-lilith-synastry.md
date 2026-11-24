@@ -5,6 +5,8 @@ description: "Saturn trine Lilith in synastry: one person’s rules leave room f
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Lilith", "trine", "synastry"]
 weight: 309
 glyph: "♄△⚸"
 definition: "Saturn trine Lilith in synastry links one person’s Saturn and the other’s Black Moon Lilith by about 120°, within 4.25°. The rules of one happen to leave room for what the other refuses to give up, so neither feels tamed or defied. I read it as an ease worth using, through the houses, with mean Lilith."

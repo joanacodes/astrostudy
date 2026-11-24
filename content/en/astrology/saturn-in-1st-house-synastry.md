@@ -5,6 +5,8 @@ description: "Their Saturn in your 1st house in synastry: someone’s patience a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "1st house", "synastry", "house overlays"]
 weight: 73
 glyph: "♄"
 definition: "Their Saturn in your 1st house puts another person’s Saturn, the planet of time and limits, on the front of your chart: your manner, your body, your first moves. Beside them you tend to feel steadier and more measured, and they often feel responsible for how you begin things."

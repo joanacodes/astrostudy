@@ -6,6 +6,8 @@ description: "Mars sextile Nœud Nord en synastrie : une porte discrète vers l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Nœud Nord", "sextile", "synastrie"]
 weight: 247
 glyph: "♂⚹☊"
 definition: "Mars sextile Nœud Nord en synastrie relie Mars, chez une personne, au Nœud Nord de l’autre à 60°, à 3,6° près, et à son Nœud Sud à 120°. L’élan de l’une ouvre une voie vers ce que l’autre apprend, et un chemin tranquille vers l’habitude. J’y lis un encouragement à offrir, jamais à imposer."

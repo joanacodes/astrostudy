@@ -5,6 +5,8 @@ description: "Saturn opposite Pluto in synastry: what one person guards, the oth
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Pluto", "opposition", "synastry"]
 weight: 300
 glyph: "♄☍♇"
 definition: "Saturn opposite Pluto in synastry means one person’s Saturn is about 180° from the other’s Pluto, within 5°. What one person maintains and guards faces what the other needs to end or transform. I read it as a seesaw between keeping and letting go, carried by two generations, which works when each names what they fear."

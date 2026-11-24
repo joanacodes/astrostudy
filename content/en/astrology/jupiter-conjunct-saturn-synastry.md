@@ -5,6 +5,8 @@ description: "Jupiter conjunct Saturn in synastry: one person’s growth on the 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Saturn", "conjunction", "synastry"]
 weight: 251
 glyph: "♃☌♄"
 definition: "Jupiter conjunct Saturn in synastry means one person’s Jupiter lies within 5° of the other’s Saturn. The urge to expand meaning and the urge to make things last turn into one shared project. Birth years decide who has it, so I read it through both charts’ houses, as two eras meeting more than two people."

@@ -5,6 +5,8 @@ description: "Their Mars in your 2nd house in synastry: their drive in your earn
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "2nd house", "synastry", "house overlays"]
 weight: 50
 glyph: "♂"
 definition: "Their Mars in your 2nd house brings the other person’s Mars among your income, belongings and self-worth. In synastry their drive meets what you own and value: they may spur you to earn, to ask, to defend what’s yours, and they feel your steadiness answer their push, sometimes by not moving at all."

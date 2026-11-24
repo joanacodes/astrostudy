@@ -5,6 +5,8 @@ description: "Mars retrograde in Sagittarius: the whole loop of 2001, part of 20
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mars", "retrograde", "Mars retrograde", "Sagittarius"]
 weight: 33
 glyph: "♂℞♐"
 definition: "Mars retrograde in Sagittarius is Mars, seen from Earth, backing through Sagittarius in late spring and summer: wholly in the sign in 2001, from Sagittarius into Scorpio in 2016, and just touching its last degree in 2033. I read it as conviction and the urge to go further turning back, in the house Sagittarius occupies in your chart."

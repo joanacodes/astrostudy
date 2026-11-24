@@ -5,6 +5,8 @@ description: "Sun in Leo, Moon in Cancer: each light in its own sign, side by si
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Leo", "Moon", "Cancer"]
 weight: 52
 glyph: "☉♌☽♋"
 definition: "Sun in Leo, Moon in Cancer puts each light in its own sign, the Moon in the sign just before the Sun’s, as the lunar month runs out before a new moon. Neither light answers to another planet. I read it as warmth shown in public and care kept at home: two strong centres that need each other’s respect."

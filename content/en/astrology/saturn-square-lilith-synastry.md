@@ -5,6 +5,8 @@ description: "Saturn square Lilith in synastry: one person’s “you should” 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "Lilith", "square", "synastry"]
 weight: 308
 glyph: "♄□⚸"
 definition: "In Saturn square Lilith in synastry, one person’s Saturn stands at right angles, within 4.25°, to the other’s Black Moon Lilith. One person’s rules and sense of what is proper keep catching on what the other refuses to give up. I read it as friction that tests both the rules and the refusals, never as a battle of wills."

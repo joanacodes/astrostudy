@@ -6,6 +6,8 @@ description: "Le thème en étoile irrégulière en astrologie : quelques amas 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["formes de thème"]
 weight: 23
 glyph: "✦"
 definition: "Un thème en étoile irrégulière a ses planètes en quelques amas répartis sur la roue, souvent des paires ou des conjonctions à des distances inégales, séparées par des vides. Parmi les sept formes de Marc Edmund Jones, aucune n’est moins régulière. J’y lis plusieurs centres de gravité, chacun avec ses affaires. Faute de définition convenue, il n’a pas de décompte."

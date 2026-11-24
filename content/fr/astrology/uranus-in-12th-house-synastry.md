@@ -6,6 +6,8 @@ description: "Uranus de l’autre dans votre maison 12 en synastrie : intuition
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "maison 12", "synastrie", "superpositions de maisons"]
 weight: 96
 glyph: "♅"
 definition: "Uranus de l’autre dans votre maison 12 réveille la part la plus calme de votre thème : la solitude, le repos, la retraite, le non-dit. En synastrie, cette personne suscite peut-être des intuitions soudaines, ou trouble le calme dont vous avez besoin, et se sent étrangement libre dans votre silence. Jamais un symptôme."

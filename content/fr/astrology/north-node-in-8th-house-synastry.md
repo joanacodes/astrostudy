@@ -6,6 +6,8 @@ description: "Le Nœud Nord de l’autre dans votre maison 8 en synastrie : la 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Nœud Nord", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 152
 glyph: "☊"
 definition: "Le Nœud Nord de l’autre dans votre maison 8 est une superposition de confiance : la croissance de cette personne rejoint votre intimité et vos ressources partagées, tandis que son Nœud Sud se trouve dans votre maison 2. Avec vous, elle s’exerce à faire confiance ; garder ce qui est à elle est son plus vieux réflexe. Aucune perte n’y est annoncée."

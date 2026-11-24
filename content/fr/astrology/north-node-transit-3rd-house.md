@@ -6,6 +6,8 @@ description: "Nœud Nord en transit en maison 3 : environ 20 mois pour question
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Nœud Nord", "maison 3", "transits"]
 weight: 75
 glyph: "☊"
 definition: "Le Nœud Nord en transit en maison 3, c’est le séjour, souvent un peu plus long qu’un an et demi, où le nœud recule à travers votre maison des mots du quotidien et de l’apprentissage, tandis que le Nœud Sud traverse votre maison 9. Il oriente vers les questions, l’écoute et le monde proche."

@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux, Lune en Cancer : un moi bavard et curieux, de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux", "Lune", "Cancer"]
 weight: 28
 glyph: "☉♊☽♋"
 definition: "Soleil en Gémeaux, Lune en Cancer naît des premiers jours d’un mois lunaire, avec la Lune dans son propre signe, le Cancer, à un seul signe du Soleil. J’y lis un moi léger et curieux qui sort dans le monde en parlant, et des besoins qui cherchent un abri, et des personnes à y abriter."

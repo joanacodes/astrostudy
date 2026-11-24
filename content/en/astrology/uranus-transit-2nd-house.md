@@ -5,6 +5,8 @@ description: "Uranus transiting the 2nd house: just under seven years of new way
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "2nd house", "transits"]
 weight: 26
 glyph: "♅"
 definition: "Uranus transiting the 2nd house describes the years, usually a little under seven, when Uranus crosses the part of your chart that holds income, possessions and self-worth. It unsettles what the chart already says about security, asking for freedom where it has gone stale and honesty about what you value. It forecasts neither gain nor loss."

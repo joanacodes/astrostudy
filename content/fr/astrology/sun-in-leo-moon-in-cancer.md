@@ -6,6 +6,8 @@ description: "Soleil en Lion, Lune en Cancer : chaque luminaire dans son propre
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Lion", "Lune", "Cancer"]
 weight: 52
 glyph: "☉♌☽♋"
 definition: "Soleil en Lion, Lune en Cancer met chaque luminaire dans son propre signe, la Lune dans le signe qui précède celui du Soleil, quand le mois lunaire s’épuise avant une nouvelle lune. Aucun des deux ne répond à une autre planète. J’y lis une chaleur montrée au-dehors et un soin gardé au-dedans : deux centres forts qui se doivent le respect."

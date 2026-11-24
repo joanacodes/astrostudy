@@ -6,6 +6,8 @@ description: "Mars opposition Jupiter en synastrie : l’envie d’agir tout de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Jupiter", "opposition", "synastrie"]
 weight: 215
 glyph: "♂☍♃"
 definition: "Mars opposition Jupiter en synastrie signifie que Mars, chez une personne, se trouve à environ 180° de Jupiter chez l’autre, dans des signes opposés. L’une penche vers l’action immédiate, l’autre vers la compréhension préalable, et chacune trouve chez l’autre ce qu’elle laisse pour plus tard. J’y lis un équilibre appris par les deux bouts, jamais un bras de fer."

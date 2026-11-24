@@ -5,6 +5,8 @@ description: "Pluto transiting the 12th house: often about sixteen years of quie
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "12th house", "transits"]
 weight: 60
 glyph: "♇"
 definition: "Pluto transiting the 12th house is Pluto’s stay, about sixteen years in the middle at London’s latitude, in your most private house: solitude, rest, what you keep unseen. It works below the surface, on patterns you may not yet have named, and it ends when Pluto reaches your Ascendant. It forecasts no confinement."

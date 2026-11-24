@@ -6,6 +6,8 @@ description: "Vénus rétrograde en Gémeaux : tous les huit ans en mai et juin
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde", "Gémeaux"]
 weight: 15
 glyph: "♀℞♊"
 definition: "Vénus rétrograde en Gémeaux revient tous les huit ans, de mi-mai à fin juin : pendant six semaines environ, Vénus semble, vue de la Terre, reculer dans les Gémeaux, sans jamais en sortir. J’y lis les attirances et les goûts venus par les mots et la variété, comparés et triés de nouveau, dans la maison qu’occupent les Gémeaux dans votre thème."

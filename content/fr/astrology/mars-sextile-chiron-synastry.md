@@ -6,6 +6,8 @@ description: "Mars sextile Chiron en synastrie : un encouragement à la bonne t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Chiron", "sextile", "synastrie"]
 weight: 237
 glyph: "♂⚹⚷"
 definition: "Mars sextile Chiron en synastrie signifie que Mars, chez une personne, se trouve en général à deux signes de Chiron chez l’autre, à 3,6° près. L’élan de l’une donne à l’autre le cran d’un nouvel essai ; sa sagesse pratique aide cet élan à durer. J’y lis un encouragement qui attend d’être invité, et le rend bien."

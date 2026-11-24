@@ -5,6 +5,8 @@ description: "Neptune opposite Lilith in synastry: one person longs to close the
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "Lilith", "opposition", "synastry"]
 weight: 355
 glyph: "♆☍⚸"
 definition: "Neptune opposite Lilith in synastry sets one person’s Neptune across the zodiac from the other’s mean Black Moon Lilith, 180° apart within 4°. One person’s longing to merge faces the other’s refusal to be absorbed, and each finds in the other the quality they lack most. I read it as a seesaw between closeness and autonomy, never as enmity."

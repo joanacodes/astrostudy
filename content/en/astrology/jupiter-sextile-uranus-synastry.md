@@ -5,6 +5,8 @@ description: "Jupiter sextile Uranus in synastry: one person’s wish to learn m
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Uranus", "sextile", "synastry"]
 weight: 257
 glyph: "♃⚹♅"
 definition: "Jupiter sextile Uranus in synastry means one person’s Jupiter is about 60° from the other’s Uranus, within 3°. One learns and makes sense of things, the other tests alternatives, and together they can learn by trying, provided someone starts. A year or more of births can share it; what makes it personal is the houses."

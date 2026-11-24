@@ -6,6 +6,8 @@ description: "Pluton en transit en maison 8 : vingt-quatre ans environ d’inti
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Pluton", "maison 8", "transits"]
 weight: 56
 glyph: "♇"
 definition: "Pluton en transit en maison 8 : un long séjour de vingt-quatre ans environ au milieu, à la latitude de Londres, dans votre maison de l’intimité, de la confiance et de ce que vous partagez avec d’autres. La question posée : jusqu’où laissez-vous entrer les autres, et à quelles conditions ? Ni mort ni argent n’y sont prédits."

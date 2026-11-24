@@ -6,6 +6,8 @@ description: "Mercure rétrograde en Vierge : Mercure qui recule dans son domic
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "Vierge"]
 weight: 6
 glyph: "☿℞♍"
 definition: "Mercure rétrograde en Vierge se produit quand Mercure semble, depuis la Terre, reculer dans le seul signe à la fois son domicile et son exaltation, pendant 22 à 24 jours, entre août et début octobre. J’y lis le savoir-faire de Mercure qui revient sur ses pas : vérifier, corriger, mettre au point, dans la maison qu’occupe la Vierge dans votre thème."

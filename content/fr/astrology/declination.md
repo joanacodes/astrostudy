@@ -6,6 +6,8 @@ description: "La déclinaison en astrologie : la distance d’une planète au n
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Les bases"]
+tags: ["astronomie"]
 weight: 35
 glyph: "✦"
 definition: "La déclinaison est la distance d’une planète au nord ou au sud de l’équateur céleste, mesurée en degrés : positive au nord, négative au sud. C’est l’équivalent céleste de la latitude. Les astrologues l’emploient à côté du zodiaque pour trouver des parallèles entre planètes et repérer les planètes hors limites, au-delà de la course du Soleil."

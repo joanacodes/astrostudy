@@ -5,6 +5,8 @@ description: "The grand sextile in astrology: six planets 60° apart in a six-po
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["sextile", "aspect patterns"]
 weight: 9
 glyph: "⚹"
 definition: "A grand sextile is six planets evenly spaced round the chart, each sextile its two neighbours, trine the next two and opposite the sixth, drawing a six-pointed star. It weaves flow and openings around three oppositions. Among the ten planets it is the rarest pattern in the count: about 1 person in 7,305."

@@ -6,6 +6,8 @@ description: "Le berceau en astrologie : une opposition portée par deux planè
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["configurations"]
 weight: 11
 glyph: "⚹☍"
 definition: "Un berceau, ce sont quatre planètes sur une moitié du thème : deux en opposition, deux autres entre elles d’un même côté, reliées par trois sextiles, les paires extérieures aussi en trigone. Il décrit une tension portée par en dessous, assez confortable pour s’y reposer. Un thème sur dix environ en a un, presque autant que de grands trigones."

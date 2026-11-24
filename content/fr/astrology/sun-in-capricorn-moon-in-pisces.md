@@ -6,6 +6,8 @@ description: "Soleil en Capricorne, Lune en Poissons : terre et eau en sextile,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Capricorne", "Lune", "Poissons"]
 weight: 120
 glyph: "☉♑☽♓"
 definition: "Soleil en Capricorne, Lune en Poissons associe la terre cardinale et l’eau mutable en sextile par signe, pour une naissance sous un jeune croissant qui grandissait dans le ciel du soir. Saturne gouverne le signe du Soleil ; Neptune et Jupiter celui de la Lune, et Jupiter a sa chute en Capricorne. J’y lis des mains sûres autour d’une imagination tendre."

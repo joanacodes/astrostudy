@@ -6,6 +6,8 @@ description: "Saturne opposition Nœud Nord en synastrie : la structure de l’
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Nœud Nord", "opposition", "synastrie"]
 weight: 315
 glyph: "♄☍☊"
 definition: "Saturne opposition Nœud Nord en synastrie met Saturne d’une personne en face du Nœud Nord de l’autre, à 5° près, et donc sur son Nœud Sud. La structure de l’une s’installe sur ce que l’autre fait déjà bien, face à la direction où elle veut grandir. J’y lis une base qui peut stabiliser ou retenir, par les maisons."

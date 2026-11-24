@@ -6,6 +6,8 @@ description: "Les éclipses en Sagittaire : vingt de 2000 à 2040, le plus de t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["éclipses", "Sagittaire"]
 weight: 9
 glyph: "●♐"
 definition: "Les éclipses du Sagittaire sont les nouvelles lunes proches des nœuds qui obscurcissent le Soleil en Sagittaire, et les pleines lunes qui plongent la Lune du Sagittaire dans l’ombre de la Terre, le Soleil étant en Gémeaux. Vingt tombent de 2000 à 2040. Chacune n’atteint un thème qu’à travers un point natal situé à environ trois degrés."

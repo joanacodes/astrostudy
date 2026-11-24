@@ -5,6 +5,8 @@ description: "Pluto conjunct Lilith in synastry: one person’s depth reaches ex
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "Lilith", "conjunction", "synastry"]
 weight: 366
 glyph: "♇☌⚸"
 definition: "Pluto conjunct Lilith in synastry joins one chart’s Pluto to another chart’s mean Black Moon Lilith, within 4°. One person’s depth goes straight to what the other learned to keep back, and that can feel like recognition or like being dug into. I read it with care, through the houses, and only with both people’s consent."

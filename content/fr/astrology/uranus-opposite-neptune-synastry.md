@@ -6,6 +6,8 @@ description: "Uranus opposition Neptune en synastrie : d’un côté le changem
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Neptune", "opposition", "synastrie"]
 weight: 320
 glyph: "♅☍♆"
 definition: "Uranus opposition Neptune en synastrie dresse Uranus d’une personne face à Neptune chez l’autre, d’un côté à l’autre du ciel, à 4° près. Aucune naissance de 1930 à 2009 n’a cette opposition dans son thème ; entre deux personnes nées à des décennies d’écart, elle est courante. J’y lis une balançoire entre le changement et les idéaux de deux époques."

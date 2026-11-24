@@ -6,6 +6,8 @@ description: "Jupiter de l’autre dans votre maison 8 en synastrie : sa géné
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 68
 glyph: "♃"
 definition: "Jupiter de l’autre dans votre maison 8 élargit, avec Jupiter de cette personne, votre maison de la confiance, de l’intimité et des ressources partagées. En synastrie, sa générosité atteint ce que vous partagez : la confiance semble bien placée, la proximité agrandit, et l’autre trouve du sens dans votre profondeur. Il s’agit du lien vivant, jamais d’une mort ni d’un héritage."

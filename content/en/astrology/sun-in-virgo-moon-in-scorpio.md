@@ -5,6 +5,8 @@ description: "Sun in Virgo, Moon in Scorpio: earth and water a sextile apart, th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Virgo", "Moon", "Scorpio"]
 weight: 68
 glyph: "☉♍☽♏"
 definition: "Sun in Virgo, Moon in Scorpio joins mutable earth and fixed water a sextile apart, at a birth while a young crescent hung low in the west after sunset. The Moon is in its fall; Mercury rules the Sun’s sign. I read it as close attention with depth behind it: you see the small thing, and feel what it means."

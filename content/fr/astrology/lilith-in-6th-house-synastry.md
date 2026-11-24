@@ -6,6 +6,8 @@ description: "Lilith de l’autre dans votre maison 6 en synastrie : un refus d
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 138
 glyph: "⚸"
 definition: "Lilith de l’autre dans votre maison 6 convie sa Lune noire Lilith moyenne à votre quotidien : tâches, routines, travail. En synastrie, son refus de servir aux conditions des autres rencontre vos habitudes : vous cessez d’accepter le travail qui n’est pas le vôtre, et votre discipline lui paraît un cadre ou une cage. La santé n’y est jamais en jeu."

@@ -5,6 +5,8 @@ description: "Their Uranus in your 1st house in synastry: their appetite for cha
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "1st house", "synastry", "house overlays"]
 weight: 85
 glyph: "♅"
 definition: "With their Uranus in your 1st house, the planet of change and freedom in another chart reaches the self you show first: your manner, your looks, your way of starting. In synastry you may feel freer to be unusual around them, or unsettled, while they tend to feel livelier and more inventive beside you. It never predicts a break-up."

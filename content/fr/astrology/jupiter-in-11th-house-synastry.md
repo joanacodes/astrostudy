@@ -6,6 +6,8 @@ description: "Jupiter de l’autre dans votre maison 11 en synastrie : Jupiter 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "maison 11", "synastrie", "superpositions de maisons"]
 weight: 71
 glyph: "♃"
 definition: "Jupiter de l’autre dans votre maison 11 met Jupiter, chez cette personne, dans la maison de sa joie selon la tradition : vos amis, vos groupes et vos espoirs partagés. En synastrie, sa générosité élargit votre cercle et encourage vos projets, et l’autre trouve dans vos amitiés un foyer pour ses dons. Il s’agit d’appartenance et d’espoir, jamais de popularité."

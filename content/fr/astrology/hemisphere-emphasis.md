@@ -6,6 +6,8 @@ description: "Hémisphères du thème : les planètes rassemblées au-dessus ou
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Les bases"]
+tags: ["thème natal"]
 weight: 27
 glyph: "✦"
 definition: "L’accent sur un hémisphère, c’est le rassemblement des planètes d’un thème dans une moitié de la roue : au-dessus ou au-dessous de l’horizon, à l’est ou à l’ouest du méridien. Les moitiés sont tracées par les angles et reposent donc entièrement sur l’heure de naissance. On y lit où l’énergie se rassemble, jamais une part de vie manquante."

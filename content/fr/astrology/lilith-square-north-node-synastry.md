@@ -6,6 +6,8 @@ description: "Lilith carré Nœud Nord en synastrie : l’instinct indompté de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "Nœud Nord", "carré", "synastrie"]
 weight: 388
 glyph: "⚸□☊"
 definition: "Lilith carré Nœud Nord en synastrie est un angle droit, tenu à 2,55°, entre la Lune noire Lilith d’une personne et l’axe des nœuds d’une autre : il touche son Nœud Nord et son Nœud Sud. Ce qui, chez l’une, refuse d’être géré se dresse en travers du chemin de l’autre. J’y lis une friction, jamais un échec."

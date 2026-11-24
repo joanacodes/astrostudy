@@ -6,6 +6,8 @@ description: "Jupiter en transit en maison 8 : un an environ de confiance et de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Jupiter", "maison 8", "transits"]
 weight: 8
 glyph: "♃"
 definition: "Jupiter en transit en maison 8 décrit l’année environ où la croissance de Jupiter atteint ce que vous partagez avec d’autres : la confiance, l’intimité, l’argent commun, les obligations. Ce transit travaille ce que votre thème y contient déjà, souvent vers plus de profondeur et d’honnêteté. Il n’annonce ni héritage ni mort."

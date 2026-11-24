@@ -5,6 +5,8 @@ description: "Sun in Cancer, Moon in Taurus: the Moon exalted and ruling your Su
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Cancer", "Moon", "Taurus"]
 weight: 38
 glyph: "☉♋☽♉"
 definition: "Sun in Cancer, Moon in Taurus places the Moon in its exaltation, two signs behind a Sun in the sign the Moon rules, at a birth in the closing week of a lunar month. I read it as care made solid: a self that shelters people, and needs that settle through the body, good food and familiar things."

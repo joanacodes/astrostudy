@@ -6,6 +6,8 @@ description: "Jupiter opposition Lilith en synastrie : les convictions de l’u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Lilith", "opposition", "synastrie"]
 weight: 280
 glyph: "♃☍⚸"
 definition: "Jupiter opposition Lilith en synastrie signifie que Jupiter, chez une personne, se trouve à environ 180° de la Lune noire Lilith de l’autre, à 5° près. Les convictions de l’une et les refus indomptés de l’autre occupent les deux bouts d’une même ligne. J’y lis une balançoire entre la foi et le défi, jamais une inimitié."

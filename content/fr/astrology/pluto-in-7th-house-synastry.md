@@ -6,6 +6,8 @@ description: "Pluton de l’autre dans votre maison 7 en synastrie : sa profond
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "maison 7", "synastrie", "superpositions de maisons"]
 weight: 115
 glyph: "♇"
 definition: "Pluton de l’autre dans votre maison 7 place la profondeur d’une autre personne sur l’angle ouest de votre thème, là où se rencontrent partenaires, alliances et adversaires déclarés. En synastrie, le lien devient sérieux et transformant, le pouvoir doit se partager au grand jour, et cette personne se trouve changée à son tour. Ni mariage ni séparation n’y sont prédits."

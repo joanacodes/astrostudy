@@ -5,6 +5,8 @@ description: "Neptune sextile North Node in synastry: one person’s imagination
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "North Node", "sextile", "synastry"]
 weight: 357
 glyph: "♆⚹☊"
 definition: "Neptune sextile North Node in synastry is a 60° link, give or take 2.4°, between one chart’s Neptune and another’s North Node, and a 120° link to that person’s South Node. One person’s imagination offers the other’s growth a gentle hand, and slips as easily into old habits. It reads to me as an offer."

@@ -5,6 +5,8 @@ description: "Mars conjunct Chiron in synastry: one person’s drive arrives at 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Chiron", "conjunction", "synastry"]
 weight: 236
 glyph: "♂☌⚷"
 definition: "Mars conjunct Chiron in synastry means one person’s Mars lies on the other’s Chiron, within 6°. One person’s drive arrives exactly where the other learned to adapt around a lasting limit, so encouragement and pressure sit very close. I read it as a contact that works when the Chiron person sets the pace."

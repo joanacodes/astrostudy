@@ -6,6 +6,8 @@ description: "Chiron de l’autre dans votre maison 12 en synastrie : une vieil
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "maison 12", "synastrie", "superpositions de maisons"]
 weight: 132
 glyph: "⚷"
 definition: "Chiron de l’autre dans votre maison 12 dépose son Chiron dans la dernière maison de votre thème : solitude, repos, soin discret. En synastrie, sa vieille blessure et la compassion qu’elle lui a apprise rencontrent votre vie intérieure : cette personne vous tient compagnie sans questions, et vos silences peuvent la toucher. Ce n’est jamais un symptôme."

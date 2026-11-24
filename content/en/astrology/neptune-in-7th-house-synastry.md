@@ -5,6 +5,8 @@ description: "Their Neptune in your 7th house in synastry: their ideals in your 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "7th house", "synastry", "house overlays"]
 weight: 103
 glyph: "♆"
 definition: "Their Neptune in your 7th house places the other person’s Neptune among your partners and equals, at the angle where your chart faces someone. In synastry their ideals meet your idea of partnership: the bond can feel tender, forgiving and fated, and each of you may love a picture as well as a person. It never predicts marriage."

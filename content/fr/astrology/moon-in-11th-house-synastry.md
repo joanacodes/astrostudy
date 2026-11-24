@@ -6,6 +6,8 @@ description: "La Lune de l’autre dans votre maison 11 en synastrie : son beso
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "maison 11", "synastrie", "superpositions de maisons"]
 weight: 23
 glyph: "☽"
 definition: "La Lune de l’autre dans votre maison 11 signifie que la Lune de quelqu’un tombe parmi vos amitiés, vos communautés et vos projets d’avenir. En synastrie, son besoin d’appartenance trouve un foyer dans votre cercle : cette personne se sent en sécurité parmi les vôtres et en prend soin, et vos amitiés gagnent en chaleur."

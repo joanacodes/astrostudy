@@ -6,6 +6,8 @@ description: "Mercure rétrograde en Scorpion : le signe qui compte le plus de 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "Scorpion"]
 weight: 8
 glyph: "☿℞♏"
 definition: "Mercure rétrograde en Scorpion, c’est le recul apparent de Mercure dans le Scorpion, depuis la Terre, pendant 20 ou 21 jours entre octobre et début décembre, souvent trois années de suite. J’y lis l’esprit qui creuse de nouveau une terre déjà retournée : questions restées sans réponse et conversations inachevées, dans la maison qu’occupe le Scorpion dans votre thème."

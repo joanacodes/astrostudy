@@ -5,6 +5,8 @@ description: "Their Moon in your 5th house in synastry: their feelings in your p
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "5th house", "synastry", "house overlays"]
 weight: 17
 glyph: "☽"
 definition: "Their Moon in your 5th house sets the other person’s feelings and needs in the house of your play, pleasure, creativity and romance. In synastry, being light-hearted with you feels safe to them, and you feel free to be playful and tender in their company; it never predicts children."

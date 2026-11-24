@@ -5,6 +5,8 @@ description: "Their Mercury in your 12th house in synastry: words reaching what 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mercury", "12th house", "synastry", "house overlays"]
 weight: 36
 glyph: "☿"
 definition: "Their Mercury in your 12th house is a mind made for words working where you keep what you don’t say: solitude, the inner life, private thoughts. In synastry they may help you put feelings into words, or find you hard to read, and much passes between you unspoken; Pisces, the 12th’s natural sign, is Mercury’s detriment and fall."

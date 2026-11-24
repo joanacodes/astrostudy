@@ -5,6 +5,8 @@ description: "Their Sun in your 2nd house in synastry: their purpose lighting up
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "2nd house", "synastry", "house overlays"]
 weight: 2
 glyph: "☉"
 definition: "Their Sun in your 2nd house is the overlay in which another person’s Sun lands in your second house, among the things you value and can count on. In synastry their purpose shines on your skills, possessions and sense of worth: you may value yourself more around them, and they find firm ground in your steadiness."

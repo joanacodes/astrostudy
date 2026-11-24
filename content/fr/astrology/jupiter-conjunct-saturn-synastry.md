@@ -6,6 +6,8 @@ description: "Jupiter conjonction Saturne en synastrie : la croissance de l’u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Saturne", "conjonction", "synastrie"]
 weight: 251
 glyph: "♃☌♄"
 definition: "Jupiter conjonction Saturne en synastrie signifie que Jupiter, chez une personne, se trouve à moins de 5° de Saturne chez l’autre. L’élan qui élargit le sens et celui qui fait durer les choses forment un seul projet. Les années de naissance en décident : je la lis donc par les maisons, comme deux époques qui se rencontrent."

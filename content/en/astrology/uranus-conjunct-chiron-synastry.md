@@ -5,6 +5,8 @@ description: "Uranus conjunct Chiron in synastry: one person’s appetite for ch
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Chiron", "conjunction", "synastry"]
 weight: 326
 glyph: "♅☌⚷"
 definition: "Uranus conjunct Chiron in synastry means one person’s Uranus lies within 4° of the other’s Chiron. The first person’s urge to change an arrangement lands where the second has built a careful way around a lasting limit. Whole birth periods share it, so I read it through the houses, gently, and only with both people’s consent."

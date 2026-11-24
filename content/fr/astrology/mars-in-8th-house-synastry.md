@@ -6,6 +6,8 @@ description: "Mars de l’autre dans votre maison 8 en synastrie : son élan da
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 56
 glyph: "♂"
 definition: "Mars de l’autre dans votre maison 8 mène Mars, chez cette personne, jusqu’à votre intimité, votre confiance et vos ressources partagées, dans une maison dont le signe revenait à Mars. En synastrie, le désir et le courage peuvent être forts entre vous, et l’autre veut gagner une confiance que vous n’accordez pas à la légère ; jamais une mort annoncée."

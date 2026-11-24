@@ -6,6 +6,8 @@ description: "Mars trigone Uranus en synastrie : l’effort de l’une et l’i
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Mars", "Uranus", "trigone", "synastrie"]
 weight: 224
 glyph: "♂△♅"
 definition: "Mars trigone Uranus en synastrie signifie que Mars, chez une personne, se trouve à environ 120° d’Uranus chez l’autre, à 5,1° près. L’effort de la première et l’inventivité de la seconde avancent au même pas : les plans changent sans histoire. J’y lis une souplesse facile, à laquelle il faut quand même quelque chose de fini."

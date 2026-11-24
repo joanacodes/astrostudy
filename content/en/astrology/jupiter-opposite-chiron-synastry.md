@@ -5,6 +5,8 @@ description: "Jupiter opposite Chiron in synastry: one person’s principles fac
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Chiron", "opposition", "synastry"]
 weight: 275
 glyph: "♃☍⚷"
 definition: "Jupiter opposite Chiron in synastry means one person’s Jupiter is about 180° from the other’s Chiron, within 5°. Principles and a wide view face the experience of someone who has adapted around a lasting limit, and each sees what the other misses. Whole birth years share it; I read it in the houses, with consent."

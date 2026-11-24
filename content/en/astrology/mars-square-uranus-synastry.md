@@ -5,6 +5,8 @@ description: "Mars square Uranus in synastry: one person’s momentum keeps meet
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Uranus", "square", "synastry"]
 weight: 223
 glyph: "♂□♅"
 definition: "Mars square Uranus in synastry means one person’s Mars is about 90° from the other’s Uranus, within 5.1°, usually in signs of one modality. One person’s momentum keeps meeting the other’s urge to change the plan or keep some freedom. I read it as friction that teaches a pair to change things together, never as instability."

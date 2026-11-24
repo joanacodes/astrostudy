@@ -5,6 +5,8 @@ description: "Venus retrograde in Virgo, its fall: only 2007 and 2015 from 2000 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Venus", "retrograde", "Venus retrograde", "Virgo"]
 weight: 18
 glyph: "♀℞♍"
 definition: "Venus retrograde in Virgo is Venus seeming, from Earth, to turn back in the first degrees of Virgo and back on into Leo, as it did in July 2007 and July 2015; none follows before 2041. I read it as love’s small attentions and high standards reconsidered, in the house Virgo occupies in your chart."

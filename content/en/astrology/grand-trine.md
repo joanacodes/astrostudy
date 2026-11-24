@@ -5,6 +5,8 @@ description: "The grand trine in astrology: three planets 120° apart, usually i
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["trine", "aspect patterns"]
 weight: 2
 glyph: "△"
 definition: "A grand trine links three planets about 120° apart, each in trine with the other two: an equilateral triangle across the chart, usually in signs of one element. It describes a circuit of support between three functions: real ease, which asks nothing and so can sit idle. About 1 person in 10 has one among the ten planets."

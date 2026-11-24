@@ -5,6 +5,8 @@ description: "Uranus transiting the 5th house: nearly eight years of new pleasur
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "5th house", "transits"]
 weight: 29
 glyph: "♅"
 definition: "Uranus transiting the 5th house means nearly eight years, as a rule, of the planet of the unexpected in your house of creativity, play and romance. What it shakes up is the delight your chart already holds: pleasures that change, art tried in a new form, love that asks for room. It foretells neither a child nor a lover."

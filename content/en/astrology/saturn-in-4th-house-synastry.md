@@ -5,6 +5,8 @@ description: "Their Saturn in your 4th house in synastry: their sense of duty un
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Saturn", "4th house", "synastry", "house overlays"]
 weight: 76
 glyph: "♄"
 definition: "Their Saturn in your 4th house lodges another person’s sense of duty and permanence under your own roof: home, family, roots, the private self. In synastry it can feel like a foundation laid together or like house rules you never agreed to, while they tend to feel answerable for keeping your home standing."

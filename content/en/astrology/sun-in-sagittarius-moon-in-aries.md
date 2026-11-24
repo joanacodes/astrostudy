@@ -5,6 +5,8 @@ description: "Sun in Sagittarius, Moon in Aries: two fire signs in a trine by si
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Sagittarius", "Moon", "Aries"]
 weight: 97
 glyph: "☉♐☽♈"
 definition: "Sun in Sagittarius, Moon in Aries describes a birth in which the Moon stood four signs ahead of the Sun, in Aries, a week or so after a new moon, just past the first quarter, with both lights in fire. I read it as a far aim and a quick first step that agree, and seldom stop to rest."

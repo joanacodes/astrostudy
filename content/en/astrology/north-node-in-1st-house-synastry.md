@@ -5,6 +5,8 @@ description: "Their North Node in your 1st house in synastry: your way of starti
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["North Node", "1st house", "synastry", "house overlays"]
 weight: 145
 glyph: "☊"
 definition: "Their North Node in your 1st house means the direction the other person grows in falls on your manner and first moves; their South Node, opposite, lands in your 7th. In synastry, the way you act on your own tends to show them what they are learning, and being your partner feels like familiar ground to them."

@@ -6,6 +6,8 @@ description: "Mercure rétrograde en Bélier : les semaines où Mercure recule 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mercure", "rétrograde", "Mercure rétrograde", "Bélier"]
 weight: 1
 glyph: "☿℞♈"
 definition: "Mercure rétrograde en Bélier, ce sont les 23 ou 24 jours, toujours entre mars et mai, où Mercure semble, depuis la Terre, reculer dans le Bélier. J’y lis le premier mot rappelé pour un second regard : les réponses, les décisions et les projets faits vite, revus dans la maison qu’occupe le Bélier dans votre thème."

@@ -6,6 +6,8 @@ description: "Chiron de l’autre dans votre maison 10 en synastrie : une vieil
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "maison 10", "synastrie", "superpositions de maisons"]
 weight: 130
 glyph: "⚷"
 definition: "Chiron de l’autre dans votre maison 10 élève son Chiron au sommet de votre thème, dans la maison de votre vie publique et de votre réputation. En synastrie, ce que cette personne a appris sur le fait d’être vue et jugée rencontre vos ambitions : elle guide avec tact, et votre position peut remuer en elle quelque chose de tendre."

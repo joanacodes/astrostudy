@@ -5,6 +5,8 @@ description: "Jupiter trine Chiron in synastry: one person’s wider view and th
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Chiron", "trine", "synastry"]
 weight: 274
 glyph: "♃△⚷"
 definition: "Jupiter trine Chiron in synastry means one person’s Jupiter is about 120° from the other’s Chiron, within 4.25°. A wider view and the know-how of someone who has adapted pass easily between them, in both directions. It suits learning and mentoring, and I place it in the houses rather than among the aspects."

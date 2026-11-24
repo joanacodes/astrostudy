@@ -5,6 +5,8 @@ description: "Eclipses in Leo: sixteen from 2000 to 2040, with total solar ones 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["eclipses", "Leo"]
 weight: 5
 glyph: "●♌"
 definition: "Eclipses in Leo come when a new or full moon near the nodes lands in Leo: the Sun hidden by the Moon in its own sign, or the full Moon in Leo in the Earth’s shadow, opposite an Aquarius Sun. Sixteen fall from 2000 to 2040; one counts for me only near a natal point, within about three degrees."

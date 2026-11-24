@@ -6,6 +6,8 @@ description: "Jupiter conjonction Neptune en synastrie : les croyances de l’u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Neptune", "conjonction", "synastrie"]
 weight: 261
 glyph: "♃☌♆"
 definition: "Jupiter conjonction Neptune en synastrie signifie que Jupiter, chez une personne, se trouve à moins de 5° de Neptune chez l’autre. Croyances et idéaux se fondent : le sens reçoit une image, l’imagination une direction, et les deux peuvent enfler. Certaines années la partagent largement, d’autres pas du tout ; je la lis dans les maisons, jamais comme un destin."

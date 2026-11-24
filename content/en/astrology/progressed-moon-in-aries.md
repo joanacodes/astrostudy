@@ -5,6 +5,8 @@ description: "The progressed Moon in Aries: a chapter of about two years and fou
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Moon", "progressed Moon", "progressions", "Aries"]
 weight: 1
 glyph: "☽♈"
 definition: "The progressed Moon in Aries is the chapter, two to two and a half years long, when the Moon of your secondary progressed chart crosses Aries, the sign that starts the zodiac. I read it as a time when your needs turn towards beginning and acting: comfort found in movement, and feelings that ask to be acted on."

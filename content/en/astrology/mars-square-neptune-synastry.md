@@ -5,6 +5,8 @@ description: "Mars square Neptune in synastry: one person’s effort and the oth
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Neptune", "square", "synastry"]
 weight: 228
 glyph: "♂□♆"
 definition: "Mars square Neptune in synastry means a quarter of the zodiac, within 5.1°, lies between one person’s Mars and the other’s Neptune. One person’s drive comes at the other’s ideals from the side, so what gets done and what was imagined don’t quite match. To me it’s a friction that trains both people to say plainly what they want."

@@ -6,6 +6,8 @@ description: "Jupiter trigone Saturne en synastrie : la compréhension de l’u
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Saturne", "trigone", "synastrie"]
 weight: 254
 glyph: "♃△♄"
 definition: "Jupiter trigone Saturne en synastrie signifie que Jupiter d’une personne se trouve à environ 120° de Saturne chez l’autre, à 4,25° près. Ce que l’une comprend et ce que l’autre peut tenir s’emboîtent aisément, ce qui sert les projets et la transmission. Les années de naissance le distribuent ; je le lis dans les maisons."

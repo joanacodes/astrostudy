@@ -5,6 +5,8 @@ description: "Pluto transiting the 10th house: about twenty-one years of reworki
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "10th house", "transits"]
 weight: 58
 glyph: "♇"
 definition: "Pluto transiting the 10th house begins when Pluto reaches your Midheaven and lasts about twenty-one years in the middle at London’s latitude. It works on the role you play in the world: your vocation, your reputation, and how you hold authority or answer to it. It forecasts no promotion and no fall."

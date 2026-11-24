@@ -6,6 +6,8 @@ description: "Chiron de l’autre dans votre maison 2 en synastrie : un vieux p
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 122
 glyph: "⚷"
 definition: "Chiron de l’autre dans votre maison 2 range son Chiron parmi vos ressources et ce qui fait votre valeur : argent, biens, estime de soi. En synastrie, ce qu’elle a appris à la dure rencontre vos ressources : cette personne voit ce que vous sous-estimez, et votre rapport à l’argent touche chez elle un vieux point sensible."

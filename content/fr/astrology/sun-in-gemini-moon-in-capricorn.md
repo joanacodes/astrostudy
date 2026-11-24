@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux, Lune en Capricorne : un quinconce par signe, 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux", "Lune", "Capricorne"]
 weight: 34
 glyph: "☉♊☽♑"
 definition: "Soleil en Gémeaux, Lune en Capricorne place la Lune cinq signes après le Soleil, dans la terre cardinale, pour une naissance peu après une pleine lune. J’y lis un moi bavard et vif d’esprit, aux besoins qui s’apaisent par la responsabilité : léger en surface, sérieux dessous, et fiable quand ça compte."

@@ -5,6 +5,8 @@ description: "Their Venus in your 2nd house in synastry: shared taste in what yo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "2nd house", "synastry", "house overlays"]
 weight: 38
 glyph: "♀"
 definition: "With their Venus in your 2nd house, the other person’s taste meets your belongings, your earnings and your values. In synastry they enjoy your comforts and choices, value what you value and may lift your sense of worth, in a house whose natural sign, Taurus, Venus rules. It never forecasts money or gifts."

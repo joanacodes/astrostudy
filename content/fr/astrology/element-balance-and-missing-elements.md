@@ -6,6 +6,8 @@ description: "Équilibre des éléments et éléments manquants : compter les p
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Les bases"]
+tags: ["éléments", "thème natal"]
 weight: 25
 glyph: "✦"
 definition: "L’équilibre des éléments, c’est le décompte des planètes d’un thème par élément : combien se trouvent dans des signes de feu, de terre, d’air et d’eau. Un élément manquant ne reçoit aucune planète. Le décompte montre où se rassemble l’énergie du thème, jamais ce qui manquerait à la personne."

@@ -6,6 +6,8 @@ description: "Saturne trigone Neptune en synastrie : la fiabilité de l’une o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Neptune", "trigone", "synastrie"]
 weight: 294
 glyph: "♄△♆"
 definition: "Saturne trigone Neptune en synastrie signifie que Saturne, chez une personne, se trouve à environ 120° de Neptune chez l’autre, à 4,25° près, en général dans le même élément. La fiabilité de l’une abrite l’imagination ou la compassion de l’autre, et l’idéal donne un but à cette fiabilité. J’y lis une fidélité tranquille entre deux époques."

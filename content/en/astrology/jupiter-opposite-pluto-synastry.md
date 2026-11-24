@@ -5,6 +5,8 @@ description: "Jupiter opposite Pluto in synastry: one person speaks for breadth,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Jupiter", "Pluto", "opposition", "synastry"]
 weight: 270
 glyph: "♃☍♇"
 definition: "Jupiter opposite Pluto in synastry means one person’s Jupiter is about 180° from the other’s Pluto, within 5°. Breadth stands at one end and depth at the other, and each shows the other what it avoids. The calendar hands it out unevenly; the houses are where I weigh it, as two eras facing each other."

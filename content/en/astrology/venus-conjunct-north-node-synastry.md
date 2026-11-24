@@ -5,6 +5,8 @@ description: "Venus conjunct North Node in synastry: one person’s way of lovin
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "North Node", "conjunction", "synastry"]
 weight: 206
 glyph: "♀☌☊"
 definition: "Venus conjunct North Node in synastry means one person’s Venus sits within 6° of the other’s North Node, and so opposite their South Node. What the first enjoys and does easily is what the second is learning. I read it as encouragement towards a new capacity, never as fate or a promised partner."

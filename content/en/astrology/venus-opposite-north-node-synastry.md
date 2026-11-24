@@ -5,6 +5,8 @@ description: "Venus opposite North Node in synastry: one person’s Venus sits o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "North Node", "opposition", "synastry"]
 weight: 210
 glyph: "♀☍☊"
 definition: "Venus opposite North Node in synastry means one person’s Venus is about 180° from the other’s North Node, within 6°, and so on their South Node. The first person enjoys what the second does without effort, while the second’s growth lies the other way. I read it as a seesaw between comfort and change, never a step back."

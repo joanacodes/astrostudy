@@ -5,6 +5,8 @@ description: "Venus sextile Chiron in synastry: one person’s hard-won know-how
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Chiron", "sextile", "synastry"]
 weight: 197
 glyph: "♀⚹⚷"
 definition: "Venus sextile Chiron in synastry means one person’s Venus is about 60° from the other’s Chiron, within 3.6°. What the second person learned by adapting around a lasting sensitivity can make the first person’s pleasures more inclusive, and the first appreciates that skill. I read it as practical kindness that works when it runs both ways."

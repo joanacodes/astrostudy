@@ -6,6 +6,8 @@ description: "Mars rétrograde en Verseau : une seule boucle en quarante ans, l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mars", "rétrograde", "Mars rétrograde", "Verseau"]
 weight: 35
 glyph: "♂℞♒"
 definition: "Mars rétrograde en Verseau, c’est le recul apparent de Mars dans le Verseau : une seule fois entre 2000 et 2040, de juin à août 2018, de 9°13′ du Verseau jusqu’en Capricorne. J’y lis l’élan mis dans les idées, les groupes et les causes qui revient sur ses pas, dans la maison qu’occupe le Verseau dans votre thème."

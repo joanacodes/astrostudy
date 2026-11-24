@@ -6,6 +6,8 @@ description: "Neptune de l’autre dans votre maison 5 en synastrie : son imagi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 101
 glyph: "♆"
 definition: "Neptune de l’autre dans votre maison 5 ouvre vos jeux, votre créativité, vos plaisirs et vos amours à Neptune, chez cette personne. En synastrie, son imagination enchante vos joies : l’amour prend des airs de film, et l’autre retrouve dans votre plaisir un rêve ancien. Les enfants que les anciens prêtaient à cette maison n’y sont pas prédits, ni la chance."

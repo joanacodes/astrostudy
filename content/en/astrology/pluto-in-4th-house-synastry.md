@@ -5,6 +5,8 @@ description: "Their Pluto in your 4th house in synastry: their depth at your roo
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Pluto", "4th house", "synastry", "house overlays"]
 weight: 112
 glyph: "♇"
 definition: "Their Pluto in your 4th house sends the other person’s depth down to your roots: home, family and the private self. In synastry what you inherited comes into view, home becomes a place of real change, and they feel a deep belonging with you, while questions of territory can surface. It predicts nothing about anyone’s family."

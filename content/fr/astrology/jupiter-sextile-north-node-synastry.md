@@ -6,6 +6,8 @@ description: "Jupiter sextile Nœud Nord en synastrie : le regard de l’une je
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Nœud Nord", "sextile", "synastrie"]
 weight: 282
 glyph: "♃⚹☊"
 definition: "Jupiter sextile Nœud Nord en synastrie signifie que Jupiter, chez une personne, se trouve à environ 60° du Nœud Nord de l’autre, à 3° près, donc à environ 120° de son Nœud Sud. Le regard de l’une relie les forces familières de l’autre à ce qu’elle apprend. J’y lis une offre d’aide, à lire par les maisons."

@@ -6,6 +6,8 @@ description: "Uranus carré Chiron en synastrie : l’élan de changement de l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Chiron", "carré", "synastrie"]
 weight: 328
 glyph: "♅□⚷"
 definition: "Uranus carré Chiron en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 90° du Chiron de l’autre, à 3,4° près. L’élan de changement de l’une appuie sans cesse sur les arrangements que l’autre a bâtis autour d’une limite durable. J’y lis une friction qui peut donner de meilleures solutions, à lire par les maisons."

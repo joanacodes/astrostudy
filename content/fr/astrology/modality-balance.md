@@ -6,6 +6,8 @@ description: "Équilibre des modalités : compter les planètes d’un thème e
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Les bases"]
+tags: ["modalités", "thème natal"]
 weight: 26
 glyph: "✦"
 definition: "L’équilibre des modalités, c’est le décompte des planètes d’un thème par modalité : combien se trouvent en signes cardinaux, fixes et mutables. Il décrit le rythme du thème, selon que son énergie se rassemble autour de commencer, de tenir ou de s’adapter. Une modalité vide ne dit rien de ce que la personne peut faire ou non."

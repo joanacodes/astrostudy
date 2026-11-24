@@ -5,6 +5,8 @@ description: "Sun in Gemini, Moon in Aquarius: two air signs in trine, a birth a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Gemini", "Moon", "Aquarius"]
 weight: 35
 glyph: "☉♊☽♒"
 definition: "Sun in Gemini, Moon in Aquarius has both lights in air, with the Moon four signs back, in the waning days between the full moon and the last quarter. To me it describes a mind made for networks: a self that connects people and ideas, and needs that are at peace when life feels fair, free and shared with friends."

@@ -5,6 +5,8 @@ description: "Their North Node in your 12th house in synastry: rest and solitude
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["North Node", "12th house", "synastry", "house overlays"]
 weight: 156
 glyph: "☊"
 definition: "Their North Node in your 12th house sends the other person’s learning into the private hours of your chart, your rest, your solitude, your inner life, and their South Node to your 6th. Near you they practise stillness and letting go, and they fall back on busy usefulness in your daily routine."

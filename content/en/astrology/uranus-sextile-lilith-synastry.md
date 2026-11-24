@@ -5,6 +5,8 @@ description: "Uranus sextile Lilith in synastry: one person’s unusual ways giv
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Uranus", "Lilith", "sextile", "synastry"]
 weight: 332
 glyph: "♅⚹⚸"
 definition: "Uranus sextile Lilith in synastry means that, within 2.4°, one person’s Uranus and the other’s Black Moon Lilith are about 60° apart. One person’s unconventional ways offer the other’s guarded side an outlet, which opens only when the other chooses. Dated with mean Lilith, its windows are short and recur, and the houses carry its meaning."

@@ -6,6 +6,8 @@ description: "Le Nœud Nord de l’autre dans votre maison 6 en synastrie : vos
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Nœud Nord", "maison 6", "synastrie", "superpositions de maisons"]
 weight: 150
 glyph: "☊"
 definition: "Le Nœud Nord de l’autre dans votre maison 6 signifie que cette personne grandit en s’exerçant à ce qui remplit votre journée ordinaire, routines, travail quotidien, soin de soi, tandis que son Nœud Sud se trouve dans votre maison 12. Elle copie peut-être vos habitudes en bâtissant les siennes, puis s’échappe dans vos heures calmes quand l’effort pèse trop."

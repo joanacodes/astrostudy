@@ -5,6 +5,8 @@ description: "Their Moon in your 4th house in synastry: their need for comfort f
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Moon", "4th house", "synastry", "house overlays"]
 weight: 16
 glyph: "☽"
 definition: "Their Moon in your 4th house places another person’s Moon at the root of your chart, among your home, family and private life. In synastry their need for comfort finds a home with you: being together feels familiar and unguarded, they tend to feel they belong in your private world, and you feel looked after in it."

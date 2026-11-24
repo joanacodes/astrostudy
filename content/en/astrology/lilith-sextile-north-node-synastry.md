@@ -5,6 +5,8 @@ description: "Lilith sextile North Node in synastry: one person’s frankness nu
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "North Node", "sextile", "synastry"]
 weight: 387
 glyph: "⚸⚹☊"
 definition: "Lilith sextile North Node in synastry links one person’s Black Moon Lilith to another person’s North Node by a sextile held to 1.8°, which also sets that Lilith 120° from their South Node. One person’s untamed streak can open a door for the other’s growth. I read it as a nudge, never a push."

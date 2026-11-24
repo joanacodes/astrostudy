@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux, Lune en Gémeaux : les deux luminaires dans l
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux", "Lune"]
 weight: 27
 glyph: "☉♊☽♊"
 definition: "Soleil en Gémeaux, Lune en Gémeaux réunit les deux luminaires en Gémeaux, à moins de 30° l’un de l’autre, donc près d’une nouvelle lune, sous un seul maître, Mercure. J’y lis un esprit qui se réconforte comme il explore : en questionnant, en reliant, en parlant, presque sans distance entre penser et ressentir."

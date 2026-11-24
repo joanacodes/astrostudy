@@ -5,6 +5,8 @@ description: "Jupiter transiting the 7th house: about a year when partners and a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "7th house", "transits"]
 weight: 7
 glyph: "♃"
 definition: "Jupiter transiting the 7th house begins when Jupiter, moving through the sky, reaches your Descendant, and lasts about a year while it crosses your house of partners. What it brings forward is the way your chart already meets people one to one: partners who broaden your world, agreements that ask for fairness."

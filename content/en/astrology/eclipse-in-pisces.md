@@ -5,6 +5,8 @@ description: "Eclipses in Pisces: thirteen from 2000 to 2040 on the Pisces–Vir
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["eclipses", "Pisces"]
 weight: 12
 glyph: "●♓"
 definition: "An eclipse falls in Pisces in one of two ways: at a new moon near the nodes, with the Sun and Moon together in Pisces, or at a full moon, with the Moon in Pisces and the Sun in Virgo. Thirteen fall between 2000 and 2040. One enters a reading only within about three degrees of a natal point."

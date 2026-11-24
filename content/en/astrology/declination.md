@@ -5,6 +5,8 @@ description: "Declination in astrology: how far a planet stands north or south o
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "foundations"
+categories: ["Foundations"]
+tags: ["astronomy"]
 weight: 35
 glyph: "✦"
 definition: "Declination is a planet’s distance north or south of the celestial equator, measured in degrees: positive to the north, negative to the south. It is the sky’s version of latitude. Astrologers use it alongside the zodiac to find parallels between planets and to spot planets out of bounds, beyond the Sun’s furthest reach."

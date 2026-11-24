@@ -6,6 +6,8 @@ description: "Soleil en Gémeaux, Lune en Taureau : un esprit vif et un cœur s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Gémeaux", "Lune", "Taureau"]
 weight: 26
 glyph: "☉♊☽♉"
 definition: "Soleil en Gémeaux, Lune en Taureau place la Lune un signe derrière le Soleil, dans son exaltation, pour une naissance dans les cinq derniers jours avant une nouvelle lune. J’y lis un moi vif et curieux posé sur des besoins lents et solides : un esprit qui va loin, un cœur qui veut chaque soir les mêmes quelques réconforts."

@@ -5,6 +5,8 @@ description: "North Node transiting the 11th house: about a year and a half of f
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "11th house", "transits"]
 weight: 83
 glyph: "☊"
 definition: "North Node transiting the 11th house is the year and a half or so when the node moves backwards through your house of friends, groups and hopes while the South Node crosses your 5th. It points towards shared aims and the people you build a future with, away from needing the spotlight."

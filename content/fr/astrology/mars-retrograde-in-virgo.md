@@ -6,6 +6,8 @@ description: "Mars rétrograde en Vierge : les boucles de 81 jours de 2012 et 2
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Mars", "rétrograde", "Mars rétrograde", "Vierge"]
 weight: 30
 glyph: "♂℞♍"
 definition: "Mars rétrograde en Vierge, c’est le recul apparent de Mars dans la Vierge, près de douze semaines entre janvier et mai : en 2012, de janvier à avril 2027, puis en 2029. J’y lis l’effort mis à bien faire les choses qui revient sur ses pas, dans la maison qu’occupe la Vierge dans votre thème."

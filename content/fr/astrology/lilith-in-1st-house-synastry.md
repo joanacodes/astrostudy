@@ -6,6 +6,8 @@ description: "Lilith de l’autre dans votre maison 1 en synastrie : ce que cet
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "maison 1", "synastrie", "superpositions de maisons"]
 weight: 133
 glyph: "⚸"
 definition: "Lilith de l’autre dans votre maison 1 pose sa Lune noire Lilith moyenne dans la maison de votre allure, de votre corps et de vos débuts. En synastrie, la part de cette personne qui a refusé d’être domptée rencontre votre façon d’arriver : à ses côtés, vous cessez de vous retenir, et votre présence peut la provoquer ou la libérer."

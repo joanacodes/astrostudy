@@ -6,6 +6,8 @@ description: "Uranus de l’autre dans votre maison 9 en synastrie : des virage
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "maison 9", "synastrie", "superpositions de maisons"]
 weight: 93
 glyph: "♅"
 definition: "Uranus de l’autre dans votre maison 9 ouvre en grand les fenêtres de votre vision du monde : Uranus rejoint vos convictions, vos études, vos longs voyages et vos grandes questions. En synastrie, cette personne vous fait peut-être changer d’avis, partir ailleurs ou vers un sujet inattendu, et pense librement à voix haute avec vous. Vos convictions peuvent aussi vaciller."

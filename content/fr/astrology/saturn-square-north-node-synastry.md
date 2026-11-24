@@ -6,6 +6,8 @@ description: "Saturne carré Nœud Nord en synastrie : les exigences de l’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Nœud Nord", "carré", "synastrie"]
 weight: 313
 glyph: "♄□☊"
 definition: "Saturne carré Nœud Nord en synastrie met Saturne d’une personne à angle droit, à 4,25° près, de l’axe des nœuds de l’autre : au carré du Nœud Nord comme du Nœud Sud. Les exigences de l’une croisent le chemin de l’autre à mi-distance du connu et du nouveau. J’y lis une friction à intégrer, par les maisons."

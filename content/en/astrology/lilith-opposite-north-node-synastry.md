@@ -5,6 +5,8 @@ description: "Lilith opposite North Node in synastry: one person’s Lilith on t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "North Node", "opposition", "synastry"]
 weight: 390
 glyph: "⚸☍☊"
 definition: "Lilith opposite North Node in synastry is an opposition, held to 3°, between the Black Moon Lilith in one chart and the North Node in another, so the Lilith sits right on that person’s South Node. One person’s wildness lands on the other’s most familiar ground. Two ends of one seesaw, never two enemies."

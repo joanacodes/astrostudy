@@ -6,6 +6,8 @@ description: "Pluton en transit en maison 9 : vingt-trois ans environ où vos c
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Pluton", "maison 9", "transits"]
 weight: 57
 glyph: "♇"
 definition: "Pluton en transit en maison 9 : un long passage de vingt-trois ans environ au milieu, à la latitude de Londres, dans votre maison des croyances, des études, des voyages et de la quête de sens. Les convictions y sont éprouvées à la racine : celles qu’on vous a transmises se desserrent, celles que vous gardez deviennent les vôtres."

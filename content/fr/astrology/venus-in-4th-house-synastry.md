@@ -6,6 +6,8 @@ description: "Vénus de l’autre dans votre maison 4 en synastrie : de la chal
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 40
 glyph: "♀"
 definition: "Vénus de l’autre dans votre maison 4 fait de votre foyer un lieu que cette personne aime : son goût et son affection s’installent dans votre vie privée, vos racines et votre famille. En synastrie, la maison semble plus chaleureuse et accueillante avec elle, et elle trouve du réconfort sous votre toit ; rien n’y annonce une vie commune."

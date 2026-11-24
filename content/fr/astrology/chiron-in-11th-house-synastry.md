@@ -6,6 +6,8 @@ description: "Chiron de l’autre dans votre maison 11 en synastrie : une vieil
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "maison 11", "synastrie", "superpositions de maisons"]
 weight: 131
 glyph: "⚷"
 definition: "Chiron de l’autre dans votre maison 11 se produit quand son Chiron rejoint vos amis, vos groupes et vos espoirs. En synastrie, le savoir-faire bâti autour d’une vieille blessure rencontre vos cercles : cette personne remarque qui reste à l’écart et lui fait de la place, et votre aisance à appartenir peut toucher en elle quelque chose de tendre."

@@ -6,6 +6,8 @@ description: "Neptune opposition Chiron en synastrie : les idéaux de l’une f
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Chiron", "opposition", "synastrie"]
 weight: 350
 glyph: "♆☍⚷"
 definition: "Avec Neptune opposition Chiron en synastrie, les idéaux d’une personne et la limite durable de l’autre occupent les deux bouts d’un axe de 180°, à 4° près. Chacune voit dans l’autre ce qu’elle a moins : l’espoir d’un côté, le sens pratique durement acquis de l’autre, et les deux s’idéalisent vite. Les maisons disent où passe l’axe."

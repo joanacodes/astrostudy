@@ -5,6 +5,8 @@ description: "Sun in Virgo, Moon in Gemini: Mercury rules both lights, squared a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Virgo", "Moon", "Gemini"]
 weight: 63
 glyph: "☉♍☽♊"
 definition: "Sun in Virgo, Moon in Gemini squares two mutable signs that Mercury rules, at a birth around the last quarter of the lunar month. A single planet governs both lights. I read it as a mind that sorts and a mind that roams, sharing one desk and rarely clocking off."

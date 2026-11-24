@@ -6,6 +6,8 @@ description: "Uranus trigone Chiron en synastrie : l’originalité de l’une 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "Chiron", "trigone", "synastrie"]
 weight: 329
 glyph: "♅△⚷"
 definition: "Uranus trigone Chiron en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 120° du Chiron de l’autre, à 3,4° près. L’originalité de l’une sert la façon dont l’autre vit avec une limite durable : les solutions viennent sans bataille. Commun à des années entières de naissances, il se lit par les maisons, avec un œil sur l’effort caché."

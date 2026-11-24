@@ -6,6 +6,8 @@ description: "Le thème en locomotive en astrologie : dix planètes sur deux ti
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["formes de thème"]
 weight: 20
 glyph: "✦"
 definition: "Un thème en locomotive a ses dix planètes sur deux tiers de la roue, 240° ou moins, et un tiers vide, comme un train devant une voie libre. C’est l’une des sept formes de Marc Edmund Jones, et une planète mène le train. Aucune forme n’est plus courante dans mon décompte : environ 2 personnes sur 5 en ont un."

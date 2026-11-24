@@ -6,6 +6,8 @@ description: "Uranus de l’autre dans votre maison 8 en synastrie : liberté e
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Uranus", "maison 8", "synastrie", "superpositions de maisons"]
 weight: 92
 glyph: "♅"
 definition: "Uranus de l’autre dans votre maison 8 envoie Uranus dans votre maison de l’intimité, de la confiance et des ressources partagées. En synastrie, la proximité peut libérer et électriser, briser de vieux tabous, ou secouer, la confiance ébranlée par la surprise, et l’autre se sent plus libre qu’attendu dans l’intimité avec vous. Rien n’y prédit de mort ni de perte."

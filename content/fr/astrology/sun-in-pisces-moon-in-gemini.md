@@ -6,6 +6,8 @@ description: "Soleil en Poissons, Lune en Gémeaux : un carré mutable vers le 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Poissons", "Lune", "Gémeaux"]
 weight: 135
 glyph: "☉♓☽♊"
 definition: "Soleil en Poissons, Lune en Gémeaux réunit deux signes mutables à un carré d’écart, autour du premier quartier. J’y lis un moi façonné par l’imagination et la compassion, et des émotions apaisées dès qu’elles sont mises en mots et partagées avec quelqu’un."

@@ -6,6 +6,8 @@ description: "Le Soleil de l’autre dans votre maison 10 en synastrie : son é
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Soleil", "maison 10", "synastrie", "superpositions de maisons"]
 weight: 10
 glyph: "☉"
 definition: "Le Soleil de l’autre dans votre maison 10 place le Soleil d’une autre personne au sommet de votre thème, dans la maison de votre travail, de votre rôle et de votre réputation. En synastrie, son élan rencontre votre direction publique : cette personne prend vos ambitions au sérieux, et reconnaît ses propres buts dans ce que vous faites."

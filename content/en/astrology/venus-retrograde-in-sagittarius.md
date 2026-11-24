@@ -5,6 +5,8 @@ description: "Venus retrograde in Sagittarius: none from 2000 to 2040, since Ven
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Venus", "retrograde", "Venus retrograde", "Sagittarius"]
 weight: 21
 glyph: "♀℞♐"
 definition: "No Venus retrograde falls in Sagittarius between 2000 and 2040: the nearest stop in Scorpio and Capricorn. Were one to come, Venus would seem from Earth to back through the sign for about six weeks, and I’d read it as a love of freedom and far horizons weighed again, in the Sagittarius house of your chart."

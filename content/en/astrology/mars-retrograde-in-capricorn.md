@@ -5,6 +5,8 @@ description: "Mars retrograde in Capricorn, Mars’s exaltation: the short summe
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Mars", "retrograde", "Mars retrograde", "Capricorn"]
 weight: 34
 glyph: "♂℞♑"
 definition: "Mars retrograde in Capricorn is Mars, seen from Earth, backing through the sign of its exaltation in summer: from Aquarius into Capricorn’s last degrees in 2018, and from Capricorn into Sagittarius in 2033. I read it as ambition and disciplined effort turned back for an audit, in the house Capricorn occupies in your chart."

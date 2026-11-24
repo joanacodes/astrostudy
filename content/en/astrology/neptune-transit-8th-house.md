@@ -5,6 +5,8 @@ description: "Neptune transiting the 8th house: nearly fourteen years of intimac
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "8th house", "transits"]
 weight: 44
 glyph: "♆"
 definition: "Neptune transiting the 8th house softens the walls between you and others for nearly fourteen years as a rule, in the house of intimacy, trust and what is shared or owed. It works on what your chart already says about closeness: compassion, merging, joint arrangements that blur. No death, legacy or sum of money is read into it."

@@ -5,6 +5,8 @@ description: "Uranus transiting the 9th house: nearly nine years of changing bel
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Uranus", "9th house", "transits"]
 weight: 33
 glyph: "♅"
 definition: "Uranus transiting the 9th house is the planet of change crossing your house of belief, study and long journeys, usually for close to nine years. It unsettles the worldview your chart already holds: certainties outgrown, subjects taken up sideways, journeys off the planned route. What you come to believe is still yours to decide."

@@ -6,6 +6,8 @@ description: "Saturne conjonction Nœud Nord en synastrie : la discipline de l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Nœud Nord", "conjonction", "synastrie"]
 weight: 311
 glyph: "♄☌☊"
 definition: "Saturne conjonction Nœud Nord en synastrie pose Saturne d’une personne sur le Nœud Nord de l’autre, à 5° près, donc face à son Nœud Sud. La patience et les exigences de l’une tombent sur la capacité que l’autre apprend, en échafaudage ou en pression. J’aborde ce contact maison par maison, avec les deux nœuds, jamais comme un destin."

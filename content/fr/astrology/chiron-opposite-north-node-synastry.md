@@ -6,6 +6,8 @@ description: "Chiron opposition Nœud Nord en synastrie : le Chiron de l’une 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Chiron", "Nœud Nord", "opposition", "synastrie"]
 weight: 385
 glyph: "⚷☍☊"
 definition: "Chiron opposition Nœud Nord en synastrie, c’est Chiron chez une personne en face du Nœud Nord d’une autre, à 3° près, donc en conjonction avec son Nœud Sud. Les façons de tenir de l’une atterrissent sur le terrain le plus familier de l’autre. Confort à un bout, croissance à l’autre : une balançoire, sans ennemi."

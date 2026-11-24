@@ -6,6 +6,8 @@ description: "Saturne conjonction Uranus en synastrie : les règles de l’une 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Uranus", "conjonction", "synastrie"]
 weight: 286
 glyph: "♄☌♅"
 definition: "Saturne conjonction Uranus en synastrie signifie que Saturne, chez une personne, se trouve à moins de 5° d’Uranus chez l’autre. Les structures que l’une entretient reposent sur le degré même où l’autre veut changer les choses. J’y lis la rencontre du sens du devoir d’une génération et de l’envie de réforme d’une autre, lue par les maisons."

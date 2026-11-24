@@ -5,6 +5,8 @@ description: "Venus square North Node in synastry: one person’s pleasures sit 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "North Node", "square", "synastry"]
 weight: 208
 glyph: "♀□☊"
 definition: "Venus square North Node in synastry means one person’s Venus is about 90° from the other’s North Node, within 5.1°, and so 90° from their South Node as well. What the first values belongs to neither the second’s familiar ground nor their new direction. I read it as friction that asks growth to keep room for pleasure."

@@ -5,6 +5,8 @@ description: "Their Neptune in your 9th house in synastry: their longing for mea
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Neptune", "9th house", "synastry", "house overlays"]
 weight: 105
 glyph: "♆"
 definition: "Their Neptune in your 9th house sends the other person’s Neptune towards your beliefs, long study and far travel. In synastry their longing for meaning widens your horizon: faith and art feel close, journeys turn into pilgrimages, and they may see you as a guide. The task is keeping your own questions alongside theirs."

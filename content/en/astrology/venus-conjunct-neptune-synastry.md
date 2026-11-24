@@ -5,6 +5,8 @@ description: "Venus conjunct Neptune in synastry: two people build a small world
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Venus", "Neptune", "conjunction", "synastry"]
 weight: 186
 glyph: "♀☌♆"
 definition: "Venus conjunct Neptune in synastry means one person’s Venus sits within 6° of the other’s Neptune. What the first person loves meets the second’s imagination and compassion, so taste and feeling tend to merge into a shared world. I read it as tenderness that needs both people to keep their outlines, never as fate or illusion."

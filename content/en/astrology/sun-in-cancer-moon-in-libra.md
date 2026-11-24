@@ -5,6 +5,8 @@ description: "Sun in Cancer, Moon in Libra: water and air, both cardinal, square
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Cancer", "Moon", "Libra"]
 weight: 43
 glyph: "☉♋☽♎"
 definition: "Sun in Cancer, Moon in Libra sets two cardinal signs at odds, water and air, the Moon three signs on, near the first quarter. I read it as home and harmony pulling at each other: a self loyal first to its own people, and needs that cannot rest while anyone is treated unfairly."

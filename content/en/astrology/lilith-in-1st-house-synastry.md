@@ -5,6 +5,8 @@ description: "Their Lilith in your 1st house in synastry: what they refused to t
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "1st house", "synastry", "house overlays"]
 weight: 133
 glyph: "⚸"
 definition: "Their Lilith in your 1st house plants the other person’s mean Black Moon Lilith in the house of your manner, body and first moves. In synastry the part of them that refused to be tamed meets the way you show up: around them you may stop toning yourself down, while your presence can provoke or free something in them."

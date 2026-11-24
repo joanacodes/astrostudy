@@ -6,6 +6,8 @@ description: "Nœud Nord en transit en maison 7 : environ 16 mois pour apprendr
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Nœud Nord", "maison 7", "transits"]
 weight: 79
 glyph: "☊"
 definition: "Le Nœud Nord en transit en maison 7, c’est le séjour, seize mois environ en général, où le nœud recule à travers votre maison des partenaires, tandis que le Nœud Sud traverse votre maison 1. Il oriente vers la coopération et les décisions partagées, loin du tout-seul. Il ne prédit ni rencontre ni rupture."

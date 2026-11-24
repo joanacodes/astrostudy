@@ -6,6 +6,8 @@ description: "Saturne carré Chiron en synastrie : les normes de l’une pèsen
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Saturne", "Chiron", "carré", "synastrie"]
 weight: 303
 glyph: "♄□⚷"
 definition: "Saturne carré Chiron en synastrie est un angle de 90°, à 4,25° près, entre Saturne d’une personne et Chiron de l’autre. Les normes que tient l’une pèsent sur la difficulté que l’autre a dû contourner. J’y lis une friction qui peut produire une règle ajustée aux deux, jamais une personne qui échoue à l’examen de l’autre."

@@ -6,6 +6,8 @@ description: "Pluton conjonction Lilith en synastrie : la profondeur de l’une
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Pluton", "Lilith", "conjonction", "synastrie"]
 weight: 366
 glyph: "♇☌⚸"
 definition: "Pluton conjonction Lilith en synastrie : à 4° près, Pluton rejoint, d’un thème à l’autre, la Lune noire Lilith moyenne. La profondeur de l’une va droit à ce que l’autre a appris à garder en retrait, ce qui peut ressembler à une reconnaissance ou à une fouille. Je le lis avec soin, par les maisons, avec l’accord des deux."

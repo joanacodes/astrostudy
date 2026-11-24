@@ -5,6 +5,8 @@ description: "Sun in Libra, Moon in Gemini: the scales and the twins, two air si
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra", "Moon", "Gemini"]
 weight: 75
 glyph: "☉♎☽♊"
 definition: "Sun in Libra, Moon in Gemini is an all-air pair, born once the full moon has passed by a few days, usually in the disseminating phase, the lights a trine apart by sign. I read it as a sense of self built on fair judgement, with needs that settle by naming, comparing and talking a feeling over."

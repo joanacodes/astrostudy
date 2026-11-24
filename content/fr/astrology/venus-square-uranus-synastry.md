@@ -6,6 +6,8 @@ description: "Vénus carré Uranus en synastrie : l’une tient à la façon de
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Uranus", "carré", "synastrie"]
 weight: 183
 glyph: "♀□♅"
 definition: "Vénus carré Uranus en synastrie signifie que Vénus, chez une personne, se trouve à environ 90° d’Uranus chez l’autre, à 5,1° près. Ce à quoi la première tient se heurte sans cesse à l’envie de la seconde de le réarranger : habitudes et plaisirs restent rarement tranquilles. J’y lis une friction entre attachement et réinvention, que deux adultes peuvent organiser."

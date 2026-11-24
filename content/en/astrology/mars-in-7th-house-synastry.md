@@ -5,6 +5,8 @@ description: "Their Mars in your 7th house in synastry: their drive facing you a
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "7th house", "synastry", "house overlays"]
 weight: 55
 glyph: "♂"
 definition: "Their Mars in your 7th house is the other person’s Mars falling where you meet people one to one: partners, allies and open rivals. In synastry their drive faces you as an equal: they challenge and energise you, you push back, and both of you may find the spark and the contest hard to tell apart."

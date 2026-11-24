@@ -6,6 +6,8 @@ description: "Jupiter opposition Nœud Nord en synastrie : Jupiter de l’une s
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "Nœud Nord", "opposition", "synastrie"]
 weight: 285
 glyph: "♃☍☊"
 definition: "Jupiter opposition Nœud Nord en synastrie signifie que Jupiter, chez une personne, se trouve à environ 180° du Nœud Nord de l’autre, à 5° près, donc sur son Nœud Sud. La générosité et la foi de l’une tombent sur les forces familières de l’autre, sa croissance en face. J’y lis un camp de base, utile s’il sert aussi de tremplin."

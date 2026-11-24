@@ -5,6 +5,8 @@ description: "The bowl chart in astrology: all ten planets in one half of the wh
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["chart shapes"]
 weight: 17
 glyph: "✦"
 definition: "A bowl chart has all ten planets within half of the wheel, 180° or less, leaving the other half empty. It is one of the seven chart shapes Marc Edmund Jones named. I read it as emphasis: much held on one side, and an empty side the chart keeps facing. Its share in my count: about 1 person in 9."

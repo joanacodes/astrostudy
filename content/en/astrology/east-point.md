@@ -5,6 +5,8 @@ description: "The East Point in astrology: the equatorial ascendant, the degree 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "angles"
+categories: ["Planets and points"]
+tags: ["sensitive points"]
 weight: 16
 glyph: "✦"
 definition: "The East Point, also called the equatorial ascendant, is the degree of the zodiac that would be rising on the eastern horizon at the Earth’s equator at the moment of birth. It depends on the birth time and the longitude of the birthplace, not its latitude, and sits roughly 90° on from the Midheaven."

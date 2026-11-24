@@ -6,6 +6,8 @@ description: "Neptune conjonction Nœud Nord en synastrie : l’imagination de 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Neptune", "Nœud Nord", "conjonction", "synastrie"]
 weight: 356
 glyph: "♆☌☊"
 definition: "Neptune conjonction Nœud Nord en synastrie joint Neptune, dans un thème, au Nœud Nord d’un autre, à 4° près, face à son Nœud Sud. L’imagination de l’une se pose sur ce que l’autre commence à apprendre : inspirante si le rêve aide la pratique, floue s’il la remplace. Des cohortes la partagent ; c’est dans les maisons qu’elle devient personnelle."

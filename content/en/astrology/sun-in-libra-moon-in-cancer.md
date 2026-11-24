@@ -5,6 +5,8 @@ description: "Sun in Libra, Moon in Cancer: two cardinal signs in a square, the 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Libra", "Moon", "Cancer"]
 weight: 76
 glyph: "☉♎☽♋"
 definition: "Sun in Libra, Moon in Cancer sets the lights in two cardinal signs a square apart, with the Moon in its own sign, about three weeks into the lunar month. I read it as a self that keeps things fair between people, with needs that ask for one sheltered place where nothing has to be negotiated."

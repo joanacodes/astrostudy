@@ -6,6 +6,8 @@ description: "Jupiter de l’autre dans votre maison 5 en synastrie : sa géné
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Jupiter", "maison 5", "synastrie", "superpositions de maisons"]
 weight: 65
 glyph: "♃"
 definition: "Jupiter de l’autre dans votre maison 5 ouvre à Jupiter, chez cette personne, la maison de vos jeux, de vos créations et de vos amours. En synastrie, sa générosité agrandit votre joie : le plaisir devient plus vaste et plus chaleureux, et l’autre aime vous voir savourer la vie. Rien n’y promet chance ni enfant."

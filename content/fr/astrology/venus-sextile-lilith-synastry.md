@@ -6,6 +6,8 @@ description: "Vénus sextile Lilith en synastrie : le plaisir de l’une offre 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Lilith", "sextile", "synastrie"]
 weight: 202
 glyph: "♀⚹⚸"
 definition: "Vénus sextile Lilith en synastrie signifie que Vénus, chez une personne, se trouve à environ 60° de la Lune noire Lilith moyenne de l’autre, à 3,6° près. Ce que la première apprécie offre une ouverture légère à ce que la seconde retient. J’y lis une invitation de bonne humeur, réelle, qui vaut ce qu’on en fait."

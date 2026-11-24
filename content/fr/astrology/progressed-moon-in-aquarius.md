@@ -6,6 +6,8 @@ description: "La Lune progressée en Verseau : deux ans environ à avoir besoin
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Lune", "Lune progressée", "progressions", "Verseau"]
 weight: 11
 glyph: "☽♒"
 definition: "Pendant deux ans à deux ans et demi de progressions secondaires, la Lune progressée en Verseau fait passer votre horloge affective par le signe d’air gouverné par Uranus et Saturne. J’y lis un temps où les besoins se comblent par la liberté et le lien aux autres : les amis, les groupes, les idées d’avenir, et la place d’être soi."

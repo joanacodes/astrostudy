@@ -5,6 +5,8 @@ description: "Neptune transiting the 5th house: about fourteen years of art, rom
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "5th house", "transits"]
 weight: 41
 glyph: "♆"
 definition: "Neptune transiting the 5th house is imagination let loose where you create, play and love, usually for about fourteen years. It colours what your chart already says about delight: art closer to devotion, love quick to idealise, play that lets you forget yourself. Children and romances are not what it predicts."

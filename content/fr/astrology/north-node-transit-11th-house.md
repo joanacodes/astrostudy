@@ -6,6 +6,8 @@ description: "Nœud Nord en transit en maison 11 : environ un an et demi d’am
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Nœud Nord", "maison 11", "transits"]
 weight: 83
 glyph: "☊"
 definition: "Le Nœud Nord en transit en maison 11, c’est l’an et demi environ où le nœud recule à travers votre maison des amis, des groupes et des espoirs, tandis que le Nœud Sud traverse votre maison 5. Il oriente vers les buts partagés et les personnes avec qui bâtir un avenir, loin du besoin d’être en vedette."

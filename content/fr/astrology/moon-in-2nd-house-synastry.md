@@ -6,6 +6,8 @@ description: "La Lune de l’autre dans votre maison 2 en synastrie : son besoi
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "maison 2", "synastrie", "superpositions de maisons"]
 weight: 14
 glyph: "☽"
 definition: "La Lune de l’autre dans votre maison 2 fait entrer ses émotions et ses besoins dans la maison de vos ressources, de vos valeurs et de votre estime de vous. En synastrie, cette personne se sent en sécurité avec votre stabilité, et vous recevez un soin concret qui vous fait sentir votre valeur ; jamais une prédiction d’argent."

@@ -6,6 +6,8 @@ description: "La Lune de l’autre dans votre maison 9 en synastrie : ses émot
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lune", "maison 9", "synastrie", "superpositions de maisons"]
 weight: 21
 glyph: "☽"
 definition: "La Lune de l’autre dans votre maison 9 place sa Lune parmi vos convictions, vos études, vos voyages et ce qui donne du sens à votre vie. En synastrie, votre regard sur le monde devient un lieu où cette personne se sent chez elle, et l’inconnu paraît sûr quand vous l’explorez ensemble."

@@ -6,6 +6,8 @@ description: "Le yod boomerang en astrologie : un yod avec une quatrième plan�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
+categories: ["Aspects"]
+tags: ["configurations"]
 weight: 6
 glyph: "⚻☍"
 definition: "Un yod boomerang est un yod (deux planètes en sextile, toutes deux en quinconce avec une troisième, le sommet) auquel s’ajoute une quatrième planète, opposée au sommet et placée entre les deux premières. Il donne à l’ajustement constant du yod un contrepoids et un chemin de retour. Plus rare qu’un yod simple, il marque environ 1 thème sur 27."

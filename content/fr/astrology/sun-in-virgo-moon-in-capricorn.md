@@ -6,6 +6,8 @@ description: "Soleil en Vierge, Lune en Capricorne : une Lune de Saturne et un 
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Placements"]
+tags: ["Soleil", "Vierge", "Lune", "Capricorne"]
 weight: 70
 glyph: "☉♍☽♑"
 definition: "Soleil en Vierge, Lune en Capricorne place une Lune en exil, en Capricorne, en trigone d’un Soleil en Vierge, pour une naissance où la Lune a dépassé la moitié. Saturne gouverne le signe de la Lune, Mercure celui du Soleil. J’y lis la méthode et la responsabilité d’accord, parfois au point que les émotions attendent trop leur tour."

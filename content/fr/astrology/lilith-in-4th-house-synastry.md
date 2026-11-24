@@ -6,6 +6,8 @@ description: "Lilith de l’autre dans votre maison 4 en synastrie : ce que l�
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Lilith", "maison 4", "synastrie", "superpositions de maisons"]
 weight: 136
 glyph: "⚸"
 definition: "Lilith de l’autre dans votre maison 4 descend sa Lune noire Lilith moyenne jusqu’à la racine de votre thème : le foyer, la famille, l’appartenance. En synastrie, son côté indompté rencontre votre vie privée : la part de vous qui n’a jamais trouvé sa place à la maison trouve un appui, et vos habitudes de famille peuvent la provoquer ou l’abriter."

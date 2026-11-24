@@ -6,6 +6,8 @@ description: "Vénus rétrograde en Balance, son domicile : quatre de 2000 à 2
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits et cycles"]
+tags: ["Vénus", "rétrograde", "Vénus rétrograde", "Balance"]
 weight: 19
 glyph: "♀℞♎"
 definition: "Vénus rétrograde en Balance, c’est la seconde moitié de la rétrogradation d’automne de Vénus, tous les huit ans, quand Vénus semble, depuis la Terre, sortir à reculons du Scorpion pour rentrer dans son propre signe et y reprendre sa marche directe. J’y lis l’équité et l’échange repesés, dans la maison qu’occupe la Balance dans votre thème."

@@ -6,6 +6,8 @@ description: "Vénus opposition Lilith en synastrie : la proximité à un bout,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Synastrie"]
+tags: ["Vénus", "Lilith", "opposition", "synastrie"]
 weight: 205
 glyph: "♀☍⚸"
 definition: "Vénus opposition Lilith en synastrie place Vénus, chez une personne, à environ 180° de la Lune noire Lilith moyenne de l’autre, à 6° près, dans des signes opposés. L’une penche vers la proximité et l’harmonie, l’autre vers l’autonomie et le refus, et chacune tient ce qui manque à l’autre. J’y lis un jeu de bascule, jamais un combat."

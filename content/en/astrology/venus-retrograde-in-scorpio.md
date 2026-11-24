@@ -5,6 +5,8 @@ description: "Venus retrograde in Scorpio: every eight years from early October,
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Venus", "retrograde", "Venus retrograde", "Scorpio"]
 weight: 20
 glyph: "♀℞♏"
 definition: "Venus retrograde in Scorpio begins every eight years in early October: Venus, seen from Earth, halts in Scorpio and backs through it for about six weeks, usually ending in Libra. I read it as attachment and desire examined at depth: what you share, what you hold onto and why, in the house Scorpio occupies in your chart."
