@@ -52,16 +52,16 @@ Vulcain a eu ses usagers pendant que les astronomes se disputaient. À Saint-Lou
 
 Dans l’astrologie ésotérique qu’enseignait Alice Bailey, Vulcain a survécu aux recherches au télescope. Son enseignement des sept rayons, sept sortes d’énergie liées chacune à des planètes et à des signes, donne au premier rayon, la volonté ou la puissance, deux planètes, Vulcain et [Pluton](/astrology/pluto/), et deux signes, le [Taureau](/astrology/taurus/) et les Poissons.
 
-Placée dans un thème, une planète sur l’orbite de Le Verrier ne s’écarterait jamais de plus de 8° du Soleil, bien plus près que Mercure, qui s’en éloigne jusqu’à 28° environ : elle serait toujours dans le signe du Soleil ou dans un signe voisin. À l’autre bout du Système solaire, des astrologues ont aussi imaginé des planètes invisibles, dont une au-delà de Pluton ([Transpluton (Isis)](/astrology/transpluto-isis/)).
+Placée dans un thème, une planète sur l’orbite de Le Verrier ne s’écarterait jamais de plus de 8° du Soleil, bien plus près que Mercure, qui s’en éloigne jusqu’à 28° environ : elle serait toujours dans le signe du Soleil ou dans un signe voisin. À l’autre bout du Système solaire, des astrologues ont aussi imaginé des planètes invisibles, dont une au-delà de Pluton ([Transpluton (Isis)](/astrology/transpluto-isis/)), et l’astrologie uranienne a plus tard donné le nom du dieu forgeron à l’un de ses propres points, bien au-delà de Neptune ([Vulkanus](/astrology/vulkanus/)).
 
 ## Dans une lecture {#dans-une-lecture}
 
-Vulcain ne fait pas partie de mes lectures. Tout ce que je lis a une position que l’astronomie calcule à partir d’une orbite réelle : les planètes, Chiron, et les points tirés de l’orbite même de la Lune, Lilith et les nœuds. L’orbite de Vulcain reposait sur l’observation d’un seul homme, et personne n’a pu la refaire.
+Il n’y a pas de Vulcain dans mes lectures, parce qu’il n’y a pas de Vulcain à placer : tout ce que je lis a une position que l’astronomie calcule à partir d’une orbite réelle : les planètes, Chiron, et les points tirés de l’orbite même de la Lune, Lilith et les nœuds. L’orbite de Vulcain reposait sur l’observation d’un seul homme, et personne n’a pu la refaire.
 
 Si c’est sa proximité avec le Soleil qui vous attire, c’est Mercure qui fait ce travail dans un thème : jamais à plus de 28° environ du Soleil, Mercure décrit votre façon de penser et de parler, et dans mon carnet ce placement faisait partie de ceux que tout le monde lit en premier, qui ont tenu environ un tiers du temps ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)). Le pouvoir, dans mes lectures, fait partie de ce que décrit Pluton, selon son signe, sa maison et ses aspects ([Ma méthode](/how-i-read/)).
 
 ## Idées reçues {#idees-recues}
 
 - **« Vulcain a été découverte en 1860. »** Elle a été annoncée en 1860, sur la foi d’une observation que personne n’a pu confirmer, puis abandonnée quand la relativité générale a expliqué l’orbite de Mercure.
-- **« Vulcain, c’est le Vulkanus uranien. »** [Vulkanus](/astrology/vulkanus/) est un point que Friedrich Sieggrün a proposé en 1927, au-delà de Neptune ; Vulcain, on la cherchait entre Mercure et le Soleil.
+- **« Vulcain est une invention d’astrologues. »** Ce sont des astronomes qui l’ont proposée, nommée et annoncée ; les astrologues l’ont reprise ensuite, et l’ont gardée quand l’astronomie l’avait abandonnée.
 - **« Einstein a prouvé qu’il n’y a rien du tout à l’intérieur de l’orbite de Mercure. »** Sa théorie a supprimé le besoin d’une planète à cet endroit. Les astronomes cherchent encore de petits vulcanoïdes, et n’en ont pas trouvé à ce jour.

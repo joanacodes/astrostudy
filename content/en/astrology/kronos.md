@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Uranian astrology"]
 weight: 47
 glyph: "✦"
-definition: "Kronos is a hypothetical point of Uranian astrology, the last of the four Alfred Witte proposed beyond Neptune, named after the Titan who ruled before Zeus. Uranian astrologers read it for authority and for what stands high up: the heavens, kings, leaders. Time, often pinned on the god, belongs in the chart to Saturn."
+definition: "Kronos is the last of Alfred Witte’s four hypothetical points in Uranian astrology, placed beyond Neptune and named after the Titan who ruled before Zeus. Its readers see authority in it, and what stands high up: the heavens, kings, leaders. Time, often pinned on the god, belongs in the chart to Saturn."
 facts:
   - { k: "Type", v: "Hypothetical point of Uranian astrology, never observed" }
   - { k: "Proposed by", v: "Alfred Witte, the last of his four, before Pluto was found in 1930" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/zeus", "/astrology/apollon-uranian-point", "/astrology/saturn", "/astrology/midheaven", "/astrology/hamburg-school-uranian-astrology"]
 faq:
   - q: "What does Kronos mean in Uranian astrology?"
-    a: "Uranian astrologers read Kronos for authority and for whatever stands high up: the heavens, kings, leaders. It is the last of Alfred Witte’s four hypothetical points beyond Neptune, named after the Titan who ruled before Zeus, and nothing has ever been observed where it is placed."
+    a: "Authority, and whatever stands high up: the heavens, kings, leaders. That is how Uranian astrologers read the last of Alfred Witte’s four hypothetical points, named after the Titan who ruled the gods until his son Zeus overthrew him."
   - q: "Is Kronos the same as Saturn?"
-    a: "The Romans identified the god Cronus with their Saturn, and Saturn’s glyph began as the Greek letters κρ, for Kronos. In a Uranian chart, though, they are separate: Saturn is the planet you can see, about 29½ years round the zodiac; Kronos is a calculated point beyond Neptune."
+    a: "Not in a chart. The god Cronus became Saturn in Rome, and Saturn’s glyph began as the Greek letters κρ, for Kronos; but the planet you can see, about 29½ years round the zodiac, and Witte’s calculated point beyond Neptune are two different places on the wheel."
   - q: "Is Kronos the god of time?"
     a: "Not originally. Cronus was a Titan, probably a harvest god at first, and his link with time came from an ancient play on chronos, the Greek word for time. Cicero and Plutarch both read his name that way, and the Renaissance made him Father Time, scythe in hand."
   - q: "How do I find Kronos in my chart?"
@@ -34,7 +34,7 @@ sources:
   - { title: "Hesiod, Theogony, and Cicero and Plutarch on Cronus and chronos, via Wikipedia, “Cronus”", url: "https://en.wikipedia.org/wiki/Cronus", note: "the Titan, the Golden Age, the Kronia, Father Time, Saturn’s Greek name; checked on 24 November 2026" }
   - { title: "Alexander Jones, Astronomical Papyri from Oxyrhynchus (American Philosophical Society, 1999), 62–63, via Wikipedia, “Astrological symbols”", url: "https://en.wikipedia.org/wiki/Astrological_symbols", note: "Saturn’s glyph, κρ for Kronos; the Uranian symbols in Unicode" }
 ---
-In Greek, the planet Saturn is still called Kronos, and the glyph astrologers draw for it began as the first two letters of that name. Uranian astrology gives the name to something else: a point beyond Neptune, proposed by Alfred Witte, which its users read for authority.
+Kronos was king of the gods before Zeus, and the god behind Saturn. In Uranian astrology the name belongs to a third thing: a point beyond Neptune, proposed by Alfred Witte, which its users read for authority.
 
 ## What it is {#what-it-is}
 
@@ -42,24 +42,24 @@ Kronos closes Witte's list of four points; the next name on the school's list, [
 
 The god is Cronus, or Kronos, youngest and leader of the Titans, the children of Earth and Sky. With a sickle his mother made, he overthrew his father, Uranus, and ruled through the Golden Age, until his own son, [Zeus](/astrology/zeus/), overthrew him in turn and shut him away in Tartarus. He was probably a harvest god to begin with: in Athens his festival, the Kronia, celebrated the harvest. The Romans identified him with their Saturn.
 
-Saturn and Kronos have never quite come apart. The glyph for [Saturn](/astrology/saturn/) is a monogram of κρ, the first letters of Kronos, with a bar across it, and modern Greek still calls the planet Κρόνος.
+His Roman name went to the farthest planet the naked eye can see, and Saturn and Kronos have never quite come apart since. The glyph for [Saturn](/astrology/saturn/) is a monogram of κρ, the first letters of Kronos, with a bar across it, and modern Greek still calls the planet Κρόνος.
 
 ## How it works {#how-it-works}
 
-Uranian astrologers read Kronos for authority, and for whatever stands high up: the sky and the heavens, kings, leaders.
+Authority is the heart of the Uranian reading of Kronos, along with whatever stands high up: the sky and the heavens, kings, leaders.
 
-The reading keeps the god's crown and leaves his scythe to Saturn. In a Uranian chart the two stand side by side: Saturn where it is observed, on its round of about 29½ years, Kronos where the school's figures place it, far beyond Neptune. Authority and limits get separate points.
+The reading keeps the god's crown and leaves his scythe to Saturn. Saturn is observed, on its round of about 29½ years; Kronos sits where the school's figures place it, far beyond Neptune. Authority and limits get separate points.
 
 The myth adds an irony. The reign of Kronos was the Golden Age, when, the story goes, people had no need of laws or rules because everyone did what was right. The god of the high places presided over the one age that needed no one in charge. The Romans, who honoured him as Saturn with the Saturnalia, kept the memory fond: in Lucian's satire on the festival, the old king claims he gave up his throne peacefully and takes it back for seven days each year, to remind people how easy life was in his time.
 
 ## In a reading {#in-a-reading}
 
-Kronos isn't in my readings. Authority comes into them through Saturn, the slow planet of limits and of what you earn over time, and through the [Midheaven](/astrology/midheaven/) and [the 10th house](/astrology/10th-house/), your direction in public life. The Midheaven and the houses need an exact birth time, and a chart without one is a chart I don't read ([What changes without a birth time](/blog/unknown-birth-time/)).
+For authority I don't need Kronos: it comes into my readings through Saturn, the slow planet of limits and of what you earn over time, and through the [Midheaven](/astrology/midheaven/) and [the 10th house](/astrology/10th-house/), your direction in public life. The Midheaven and the houses need an exact birth time, and a chart without one is a chart I don't read ([What changes without a birth time](/blog/unknown-birth-time/)).
 
 In my notebook, Saturn did better than almost anything else I checked: along with Chiron and Lilith, it held 75 to 90% of the time ([The three that held](/blog/saturn-chiron-lilith/)). When a planet with that record already speaks for authority, I'd rather listen to it closely than add a point beyond Neptune to say the same thing ([How I read](/how-i-read/)).
 
 ## Common myths {#myths}
 
 - **“Kronos is the point of time.”** Time came to the god through an ancient pun: *chronos* is Greek for time, writers from Cicero and Plutarch on read Cronus as Chronos, and the Renaissance made him Father Time. That image went to Saturn; the Uranian Kronos is read for authority.
-- **“Kronos is a malefic, like Saturn.”** *Malefic* is the old tradition's word for Saturn, centuries older than Witte's point; what Uranian astrologers read in Kronos is authority and high places.
+- **“Kronos is a malefic, like Saturn.”** *Malefic* is the old tradition's word for Saturn, centuries older than Witte's point; nothing in the Uranian reading of Kronos speaks of misfortune.
 - **“A strong Kronos makes you the boss.”** A chart can describe how you hold authority or meet it in others; no point hands out a position.

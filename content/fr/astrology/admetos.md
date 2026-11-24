@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["astrologie uranienne"]
 weight: 49
 glyph: "✦"
-definition: "Admetos est un point hypothétique de l’astrologie uranienne, proposé par Friedrich Sieggrün en 1927, et le seul des huit à porter le nom d’un mortel : Admète, roi de Thessalie qu’Apollon servit. Les astrologues uraniens y lisent une puissance de transformation retenue à l’intérieur, difficile à libérer, un blocage spirituel et une profondeur de savoir."
+definition: "Admetos est le seul point hypothétique de l’astrologie uranienne à porter le nom d’un mortel : Admète, roi de Thessalie qu’Apollon servit. Friedrich Sieggrün l’a proposé en 1927. Ses lecteurs y voient une puissance de transformation retenue à l’intérieur, difficile à libérer, un blocage spirituel et une profondeur de savoir."
 facts:
   - { k: "Nature", v: "Point hypothétique de l’astrologie uranienne, jamais observé" }
   - { k: "Proposé par", v: "Friedrich Sieggrün, en 1927, le deuxième de ses quatre" }
@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/apollon-uranian-point", "/astrology/vulkanus", "/astrology/hades", "/astrology/transits", "/astrology/hamburg-school-uranian-astrology"]
 faq:
   - q: "Que signifie Admetos en astrologie uranienne ?"
-    a: "Les astrologues uraniens y lisent une puissance de transformation retenue à l’intérieur, difficile à libérer dans le monde, et aussi un blocage spirituel et une profondeur de savoir. Friedrich Sieggrün a proposé ce point en 1927 et l’a nommé d’après Admète, roi de Thessalie dans la mythologie grecque."
+    a: "Une puissance de transformation retenue à l’intérieur, difficile à libérer dans le monde, avec un blocage spirituel et une profondeur de savoir. Friedrich Sieggrün a proposé ce point en 1927 et l’a nommé d’après Admète, roi de Thessalie dans la mythologie grecque, dont l’histoire est liée à celle d’Apollon."
   - q: "Qui était Admète dans la mythologie grecque ?"
     a: "Un roi de Phères, en Thessalie, dont le nom signifie « l’indomptable ». Apollon le servit un an comme bouvier, l’aida à épouser Alceste et persuada les Moires de l’épargner si quelqu’un mourait à sa place. Alceste accepta, et Héraclès lutta contre la Mort pour la lui ramener."
   - q: "Quelle différence entre Admetos et Hadès ?"
@@ -44,7 +44,7 @@ Apollon fit davantage. Il persuada les Moires, en les enivrant selon un récit, 
 
 ## Comment ça marche {#comment-ca-marche}
 
-Les astrologues uraniens lisent dans Admetos une puissance de transformation, proche parente d’[Hadès](/astrology/hades/), à une différence près : la puissance d’Admetos reste à l’intérieur et se libère difficilement dans le monde, alors que celle d’Hadès peut se libérer en aidant les autres. Ils y lisent aussi un blocage spirituel, et une profondeur de savoir.
+Pour les astrologues uraniens, Admetos est une puissance de transformation, proche parente d’[Hadès](/astrology/hades/), à une différence près : la puissance d’Admetos reste à l’intérieur et se libère difficilement dans le monde, alors que celle d’Hadès peut se libérer en aidant les autres. Ils y lisent aussi un blocage spirituel, et une profondeur de savoir.
 
 L’histoire et la lecture tirent dans deux sens : le roi était célèbre pour sa maison ouverte, et le point se lit comme une puissance gardée en dedans.
 
@@ -52,7 +52,7 @@ Les auteurs anciens ne s’accordaient pas non plus sur la raison pour laquelle 
 
 ## Dans une lecture {#dans-une-lecture}
 
-Admetos ne fait pas partie de mes lectures. Quand on me dit que quelque chose, en soi, refuse de bouger, je ne pars pas à la recherche d’un point caché. Je regarde ce qui traverse le thème en ce moment, les planètes lentes avant tout, à commencer par [Saturne](/astrology/saturn/), et combien de temps dure chaque contact ([Transits](/astrology/transits/)). Dans une prévision, je suis les transits des planètes de Jupiter à Pluton, les sociales et les générationnelles ([Planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)), avec Chiron et le nœud vrai, et chacun de ces transits arrive, s’intensifie et passe. Un transit lent a un début et une fin : c’est un calendrier, pas un mur.
+Quand on me dit que quelque chose, en soi, refuse de bouger, je ne pars pas à la recherche d’Admetos, ni d’aucun autre point caché. Je regarde ce qui traverse le thème en ce moment, les planètes lentes avant tout, à commencer par [Saturne](/astrology/saturn/), et combien de temps dure chaque contact ([Transits](/astrology/transits/)). Dans une prévision, je suis les transits des planètes de Jupiter à Pluton, les sociales et les générationnelles ([Planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)), avec Chiron et le nœud vrai, et chacun de ces transits arrive, s’intensifie et passe. Un transit lent a un début et une fin : c’est un calendrier, pas un mur.
 
 Le *blocage spirituel* n’est pas non plus une expression que j’emploie en lecture. Un thème peut montrer où les choses viennent lentement, ou tard ; il ne peut pas peser la vie intérieure de qui que ce soit, et il serait peu charitable de prétendre le contraire ([Ma méthode](/how-i-read/)).
 

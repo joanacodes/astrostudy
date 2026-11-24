@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/transpluto-isis", "/astrology/planet-x-and-planet-nine", "/astrology/persephone-asteroid", "/astrology/eris", "/astrology/taurus"]
 faq:
   - q: "Qu’est-ce que la planète Perséphone en astrologie ?"
-    a: "Une planète hypothétique au-delà de Pluton, qu’on n’a jamais trouvée. La fiction l’a le plus souvent appelée Perséphone ; les astrologues ont employé son nom latin, Proserpine. Dane Rudhyar y voyait le vrai maître du Taureau, et des astrologues polonais identifient leur Proserpine à la planète naine Éris."
+    a: "Une planète hypothétique, jamais trouvée, que l’on plaçait au-delà de Pluton. La fiction l’a le plus souvent appelée Perséphone ; les astrologues ont employé son nom latin, Proserpine. Dane Rudhyar y voyait le vrai maître du Taureau, et des astrologues polonais identifient leur Proserpine à la planète naine Éris."
   - q: "Existe-t-il une planète Perséphone au-delà de Pluton ?"
     a: "Non. Depuis la découverte de Pluton en 1930, bien des romans et des nouvelles ont placé une dixième planète plus loin, appelée le plus souvent Perséphone, mais les astronomes n’en ont trouvé aucune. Le nom a été proposé pour la lune de Pluton et envisagé pour Éris ; aucune des deux ne l’a reçu."
   - q: "Pourquoi Éris ne s’appelle-t-elle pas Perséphone ?"
@@ -38,7 +38,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les maîtrises classiques : Vénus pour le Taureau et la Balance" }
   - { title: "Wikipédia en anglais, « The Hitchhiker’s Guide to the Galaxy Tertiary to Hexagonal Phases »", url: "https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_Tertiary_to_Hexagonal_Phases", note: "la Perséphone de la radio, surnommée Rupert, et son effet sur l’astrologie ; consulté le 24 novembre 2026" }
 ---
-Perséphone est la planète au-delà de Pluton que la fiction n’a cessé de trouver et que l’astronomie n’a jamais vue. Les astrologues l’ont voulue eux aussi, sous son nom latin, comme le maître qui manquait, disait-on, à un signe.
+Perséphone est la planète que la fiction n’a cessé de trouver au-delà de Pluton, et que l’astronomie n’a jamais vue. Les astrologues l’ont voulue eux aussi, sous son nom latin, comme le maître qui manquait, disait-on, à un signe.
 
 ## Ce que c’est {#ce-que-c-est}
 

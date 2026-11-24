@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Uranian astrology"]
 weight: 45
 glyph: "✦"
-definition: "Hades is a hypothetical point of Uranian astrology, named after the Greek lord of the underworld by Alfred Witte before the planet Pluto was found. Uranian astrologers read it as a near relation of Pluto: esoteric and healing callings, emotional or mental difficulties, the wounds a life leaves. No body has been seen there."
+definition: "Hades is the underworld’s point in Uranian astrology, a hypothetical position that Alfred Witte named after the Greek lord of the dead before the planet Pluto was found. It is read as a near relation of Pluto: esoteric and healing callings, emotional or mental difficulties, the wounds a life leaves. No body has been seen there."
 facts:
   - { k: "Type", v: "Hypothetical point of Uranian astrology, never observed" }
   - { k: "Proposed by", v: "Alfred Witte, before Pluto was found in 1930" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/cupido-uranian-point", "/astrology/zeus", "/astrology/pluto", "/astrology/chiron", "/astrology/hamburg-school-uranian-astrology"]
 faq:
   - q: "What does Hades mean in Uranian astrology?"
-    a: "Uranian astrologers read Hades as a near relation of Pluto: esoteric callings and work devoted to healing, and also emotional or mental difficulties and the wounds a life leaves. It is one of the four hypothetical points Alfred Witte proposed beyond Neptune, and none of them has been observed."
+    a: "A near relation of Pluto, in the eyes of Uranian astrologers: esoteric callings and work devoted to healing, and also emotional or mental difficulties and the wounds a life leaves. Alfred Witte proposed it beyond Neptune with Cupido, Zeus and Kronos, before the planet Pluto had been found."
   - q: "What is the difference between Hades and Pluto in astrology?"
     a: "Pluto is a real body, found in 1930, on an orbit of about 248 years. Hades is a calculated point that Alfred Witte placed beyond Neptune before Pluto was found. In myth they are one god, Pluto being a Latin form of his title Plouton; in a Uranian chart they are two positions."
   - q: "Is Hades a planet?"
@@ -46,13 +46,13 @@ Around the fifth century BC, perhaps wary of saying his name aloud, Greeks began
 
 ## How it works {#how-it-works}
 
-Uranian astrologers read Hades as a near relation of Pluto. They tie it to esoteric callings and to work devoted to healing, and also to emotional and mental difficulties and the wounds a life leaves.
+In Uranian practice, Hades is a near relation of Pluto. Its readers tie it to esoteric callings and to work devoted to healing, and also to emotional and mental difficulties and the wounds a life leaves.
 
 In a Uranian chart the two underworld lords stand apart. Pluto sits where astronomers observe it, on its orbit of about 248 years; Hades sits where the school's calculations put it, and each has its own aspects and midpoints. Witte's school wanted exactly that: it added its points to account for events that the astronomically certified planets didn't clearly explain.
 
 ## In a reading {#in-a-reading}
 
-Hades isn't part of my readings. When a reading turns to old wounds, I start with [Chiron](/astrology/chiron/), which in my notebook was one of the three placements that held far more often than the rest, 75 to 90% of the time ([The three that held](/blog/saturn-chiron-lilith/)), and with Pluto by sign, house and aspect.
+When a reading turns to old wounds, I don't reach for Hades. I start with [Chiron](/astrology/chiron/), which in my notebook was one of the three placements that held far more often than the rest, 75 to 90% of the time ([The three that held](/blog/saturn-chiron-lilith/)), and with Pluto by sign, house and aspect.
 
 Mental health is where I'm most careful. A chart is not a diagnosis, and no point, calculated or observed, can tell anyone what their mind is going through; if that is the question, a doctor or a therapist is the person to ask ([Astrology and mental health](/astrology/astrology-and-mental-health/)).
 

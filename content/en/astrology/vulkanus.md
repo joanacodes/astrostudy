@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Uranian astrology"]
 weight: 50
 glyph: "✦"
-definition: "Vulkanus is a hypothetical point of Uranian astrology, the third of four that Friedrich Sieggrün added beyond Neptune in 1927, named after Vulcan, the Roman smith god. Uranian astrologers read it for raw force that wants its freedom and for overcoming lifelong difficulties. It is unrelated to Vulcan, the planet once sought inside Mercury’s orbit."
+definition: "Vulkanus, also written Vulcanus, is a Uranian astrology point named after Vulcan, the Roman smith god: the third of four hypothetical points that Friedrich Sieggrün added beyond Neptune in 1927. It is read for raw force that wants its freedom and for overcoming lifelong difficulties, and is unrelated to Vulcan, the planet once sought inside Mercury’s orbit."
 facts:
   - { k: "Type", v: "Hypothetical point of Uranian astrology, never observed" }
   - { k: "Proposed by", v: "Friedrich Sieggrün, in 1927, the third of his four" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/admetos", "/astrology/poseidon", "/astrology/vulcan", "/astrology/mars", "/astrology/hamburg-school-uranian-astrology"]
 faq:
   - q: "What does Vulkanus mean in Uranian astrology?"
-    a: "Uranian astrologers read Vulkanus for overcoming lifelong difficulties, after the smith god cast out of Olympus who came back to make what the other gods needed, and for raw force that wants its freedom. Friedrich Sieggrün proposed the point in 1927; it has never been observed."
+    a: "Two things, in Uranian practice: overcoming lifelong difficulties, after the smith god cast out of Olympus who came back to make what the other gods needed, and raw force that wants its freedom. It is the third of the four points Friedrich Sieggrün added in 1927."
   - q: "Is Vulkanus the same as Vulcan?"
     a: "No. Vulcan was a planet astronomers sought between Mercury and the Sun after 1859 and gave up once Einstein’s theory explained Mercury’s orbit in 1915. Vulkanus is a hypothetical point of Uranian astrology, placed beyond Neptune in 1927. They share only the god’s name."
   - q: "Why is Vulkanus sometimes spelled Vulcanus?"
@@ -43,15 +43,15 @@ Vulcan was the Roman god of fire, of volcanoes and of the forge, shown with a bl
 
 ## How it works {#how-it-works}
 
-Uranian astrologers read Vulkanus for overcoming the difficulties a person carries through life, and they take the reading straight from the smith's story: cast out of Olympus, he came back to make what the other gods needed. They also read it for raw force, in their words a brute force of masculine energy that wants freedom.
+Overcoming the difficulties a person carries through life is the first thing Uranian astrologers see in Vulkanus, and they take the reading straight from the smith's story: cast out of Olympus, he came back to make what the other gods needed. They also read it for raw force, in their words a brute force of masculine energy that wants freedom.
 
-*Masculine* is astrology's old word for active, outgoing force, the word it uses for Mars. Every chart has a Vulkanus, whoever was born.
+*Masculine* is astrology's old word for active, outgoing force, the word it uses for Mars. Every chart has a Vulkanus, whoever it belongs to.
 
 The god himself was a figure of fire under the ground: Greek settlers in southern Italy linked Hephaestus with the volcano gods of the region, Adranus of Etna and Vulcanus of the Lipari islands. The Uranian reading draws on the smith and his return rather than on the volcanoes.
 
 ## In a reading {#in-a-reading}
 
-Vulkanus isn't in my readings. Force belongs there to [Mars](/astrology/mars/), how you go after what you want: its sign tells me how someone pushes, its house where the push goes, and its aspects whether it runs freely or snags. The wish to be free belongs to [Uranus](/astrology/uranus/) and the house it falls in.
+In my readings, force belongs to [Mars](/astrology/mars/), with no Vulkanus beside it: Mars is how you go after what you want; its sign tells me how someone pushes, its house where the push goes, and its aspects whether it runs freely or snags. The wish to be free belongs to [Uranus](/astrology/uranus/) and the house it falls in.
 
 As for the difficulties someone has carried through life: a chart can't see a body's limits, and I don't read one for health ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). What a person has had to overcome, I'd rather hear from them than read off a point no one has seen ([How I read](/how-i-read/)).
 

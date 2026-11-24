@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Uranian astrology"]
 weight: 51
 glyph: "✦"
-definition: "Poseidon is a hypothetical point of Uranian astrology, the last of the eight: Friedrich Sieggrün proposed it in 1927 and named it after the Greek sea god whom the Romans called Neptune. Uranian astrologers read it much as they read Neptune, for spirituality, selfless love, psychic abilities and spiritual wisdom."
+definition: "Poseidon is the last of the eight hypothetical points of Uranian astrology: Friedrich Sieggrün proposed it in 1927 and named it after the Greek sea god whom the Romans called Neptune. Its readers treat it much as they treat Neptune, for spirituality, selfless love, psychic abilities and spiritual wisdom."
 facts:
   - { k: "Type", v: "Hypothetical point of Uranian astrology, never observed" }
   - { k: "Proposed by", v: "Friedrich Sieggrün, in 1927, the last of his four" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/vulkanus", "/astrology/neptune", "/astrology/12th-house", "/astrology/cosmobiology", "/astrology/hamburg-school-uranian-astrology"]
 faq:
   - q: "What does Poseidon mean in Uranian astrology?"
-    a: "Uranian astrologers read Poseidon for the spirit, much as they read Neptune: at its best, spiritual and enlightened love, the selfless love called agape, and also psychic abilities and spiritual wisdom. Friedrich Sieggrün proposed the point in 1927, the last of the school’s eight."
+    a: "The spirit, much as Neptune does: at its best, spiritual and enlightened love, the selfless love called agape, and also psychic abilities and spiritual wisdom. It is the last of the school’s eight points, added by Friedrich Sieggrün in 1927 and named after the Greek god of the sea."
   - q: "Is Poseidon the same as Neptune in astrology?"
     a: "No. Neptune is the planet found in 1846, which spends about fourteen years in each sign; its glyph is Poseidon’s trident, since Neptune was his Roman name. Poseidon is a hypothetical point of Uranian astrology, calculated rather than observed, which Uranian astrologers read in a similar way."
   - q: "Do all midpoint astrologers use Poseidon?"
@@ -34,7 +34,7 @@ sources:
   - { title: "Wikipedia — Astrological symbols", url: "https://en.wikipedia.org/wiki/Astrological_symbols", note: "Neptune’s glyph, the trident; Poseidon’s symbol, U+2BE7" }
   - { title: "J. G. Galle, “Account of the discovery of the planet of Le Verrier at Berlin”, Monthly Notices of the Royal Astronomical Society 7 (1846), 153, via Wikipedia, “Vulcan (hypothetical planet)”", url: "https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet)", note: "Neptune found where Le Verrier’s calculation put it; checked on 24 November 2026" }
 ---
-Poseidon closes the list of Uranian astrology's eight hypothetical points. Friedrich Sieggrün proposed it in 1927 and gave it the Greek name of the sea god whose Roman name a planet already carried: Neptune.
+Uranian astrology's list of hypothetical points ends with Poseidon: the eighth and last, proposed by Friedrich Sieggrün in 1927, and named after the god whose Roman name, Neptune, had gone to a planet some eighty years before.
 
 ## What it is {#what-it-is}
 
@@ -46,13 +46,13 @@ The Romans called him Neptune, and every chart already carries his emblem: the g
 
 ## How it works {#how-it-works}
 
-Uranian astrologers read Poseidon for the spirit, and they say so in Neptune's terms: it is spiritual, like Neptune. At its best, in their reading, it is enlightened love, the selfless love that Greek calls *agape*, and they read it for psychic abilities and spiritual wisdom.
+The spirit is Poseidon's domain in a Uranian chart, and its readers say so in Neptune's terms: it is spiritual, like Neptune. At its best, in their reading, it is enlightened love, the selfless love that Greek calls *agape*, and they read it for psychic abilities and spiritual wisdom.
 
 A Uranian chart holds both sea gods, then, with a shared theme and different footing. Neptune began as a calculation too: Urbain Le Verrier worked out where it must be from the way it pulled on Uranus, and in 1846 astronomers looked there and found it. It spends about fourteen years in each sign. Poseidon was proposed from charts, not from any pull on a planet, and in nearly a century since, nobody has seen anything where it is placed. The god of storms and earthquakes lends the point none of his violence, though: the meanings given for it are all calm water.
 
 ## In a reading {#in-a-reading}
 
-Poseidon isn't in my readings. The spirit, and the longing for something larger, I read in Neptune, by sign, house and aspect, and in [the 12th house](/astrology/12th-house/), which tradition called the Bad Spirit and which I read for what happens out of sight, the inner life included. For [Pisces](/astrology/pisces/), Neptune's sign, I read both rulers, Neptune and Jupiter. When I look ahead, Neptune's transits are among the ones I follow, and the one most people meet is its square to its own place, at about 41: a long stretch when what seemed solid can blur, read as weather, not a forecast.
+The spirit, and the longing for something larger, I read in Neptune, not in Poseidon, by sign, house and aspect, and in [the 12th house](/astrology/12th-house/), which tradition called the Bad Spirit and which I read for what happens out of sight, the inner life included. For [Pisces](/astrology/pisces/), Neptune's sign, I read both rulers, Neptune and Jupiter. When I look ahead, Neptune's transits are among the ones I follow, and the one most people meet is its square to its own place, at about 41: a long stretch when what seemed solid can blur, read as weather, not a forecast.
 
 Psychic abilities I don't read at all. A chart can describe how someone takes in the world around them; it can't prove a gift, or rule one out ([How I read](/how-i-read/)).
 

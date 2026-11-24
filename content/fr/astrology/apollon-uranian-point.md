@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["astrologie uranienne"]
 weight: 48
 glyph: "✦"
-definition: "Apollon est un point hypothétique de l’astrologie uranienne, le premier des quatre que Friedrich Sieggrün a ajoutés en 1927 aux points d’Alfred Witte, au-delà de Neptune. Il porte le nom du dieu de Delphes, et les astrologues uraniens y lisent la sagesse acquise au fil d’une vie, un tempérament équilibré et les rêves prémonitoires."
+definition: "Apollon est le premier des quatre points hypothétiques que Friedrich Sieggrün a ajoutés à l’astrologie uranienne en 1927, au-delà de Neptune, après ceux d’Alfred Witte. Il porte le nom du dieu de Delphes et représente, dans un thème uranien, la sagesse acquise au fil d’une vie, un tempérament équilibré et les rêves prémonitoires."
 facts:
   - { k: "Nature", v: "Point hypothétique de l’astrologie uranienne, jamais observé" }
   - { k: "Proposé par", v: "Friedrich Sieggrün, en 1927" }
@@ -24,13 +24,13 @@ facts:
 related: ["/astrology/kronos", "/astrology/admetos", "/astrology/apollo-asteroid", "/astrology/sun", "/astrology/hamburg-school-uranian-astrology"]
 faq:
   - q: "Que signifie Apollon en astrologie uranienne ?"
-    a: "Les astrologues uraniens y lisent la sagesse acquise au fil d’une vie, un tempérament équilibré et les rêves prémonitoires. Friedrich Sieggrün a proposé ce point en 1927, en le nommant d’après le dieu grec de la prophétie, de la guérison et de la musique, et aucun corps n’a jamais été observé là où il est placé."
+    a: "La sagesse acquise au fil d’une vie, un tempérament équilibré et les rêves prémonitoires : ce sont les significations que lui donnent les astrologues uraniens. Friedrich Sieggrün a nommé ce point en 1927 d’après le dieu grec de la prophétie, de la guérison et de la musique, le premier des quatre qu’il a ajoutés à ceux de Witte."
   - q: "Qui a proposé Apollon en astrologie ?"
     a: "Friedrich Sieggrün, l’un des premiers collaborateurs d’Alfred Witte à Hambourg, en 1927. C’était le premier de ses quatre points, avec Admetos, Vulkanus et Poséidon, ajoutés à ceux de Witte : Cupido, Hadès, Zeus et Kronos. Le livre de règles de l’école n’a imprimé les points de Sieggrün qu’à partir de sa quatrième édition, après la guerre."
   - q: "Apollon est-il le maître des Gémeaux ?"
     a: "Non. Le maître des Gémeaux est Mercure. Certains astrologues ont espéré qu’une planète encore inconnue, nommée Apollon, prendrait un jour les Gémeaux, dans l’idée que chaque signe devrait avoir un maître à lui, mais cette idée n’a rien à voir avec le point uranien de Sieggrün."
   - q: "L’Apollon uranien est-il l’astéroïde Apollon ?"
-    a: "Non. L’astéroïde, numéro 1862, est un petit corps réel découvert en 1932, dont l’orbite croise celle de la Terre. L’Apollon uranien est un point que Friedrich Sieggrün a placé au-delà de Neptune en 1927, et que personne n’a jamais observé. Seul le dieu leur est commun."
+    a: "Non. L’astéroïde, numéro 1862, est un petit corps réel découvert en 1932, dont l’orbite croise celle de la Terre. Le point uranien, lui, date de 1927 : Friedrich Sieggrün l’a placé au-delà de Neptune, où l’on n’a jamais rien trouvé. Seul le dieu leur est commun."
 sources:
   - { title: "The Astrological Magazine 87 (1998), 65, et Ludwig Rudolph et Hermann Lefeldt (éd.), Witte : Regelwerk für Planetenbilder, 4e éd. (Witte-Verlag Ludwig Rudolph), via Wikipédia en anglais, « Hamburg School of Astrology »", url: "https://en.wikipedia.org/wiki/Hamburg_School_of_Astrology", note: "les quatre points de Sieggrün en 1927, la première édition à les inclure, et ce que les astrologues uraniens lisent dans Apollon ; consulté le 24 novembre 2026" }
   - { title: "Wikipédia en anglais, « Apollo » et « Admetus of Pherae »", url: "https://en.wikipedia.org/wiki/Admetus_of_Pherae", note: "le dieu de Delphes, et son année comme bouvier d’Admète ; consulté le 24 novembre 2026" }
@@ -44,11 +44,11 @@ Sieggrün comptait parmi les premiers collaborateurs d’Alfred Witte à Hambour
 
 Le dieu Apollon était l’un des Olympiens, fils de Zeus et de Léto, jumeau d’Artémis : dieu de la guérison et de la prophétie, de la musique, de la poésie et de l’arc, qui parlait par l’oracle de Delphes, et donneur de lois. C’était aussi un dieu des bergers, et une histoire l’a mis au travail comme tel. Condamné à servir un mortel pendant un an, pour avoir tué la dragonne Delphyné ou, selon des récits plus tardifs, les Cyclopes, il passa cette année comme bouvier chez Admète, roi de Phères, et fit naître des jumeaux à chaque vache du troupeau. Le nom suivant sur la liste de Sieggrün vient de cette histoire.
 
-L’astrologie connaît aussi un Apollon bien réel : [Apollon (astéroïde)](/astrology/apollo-asteroid/), un petit corps géocroiseur découvert en 1932, perdu, puis retrouvé en 1973. L’Apollon uranien, lui, n’a jamais été vu.
+Le ciel compte pourtant un véritable Apollon : [Apollon (astéroïde)](/astrology/apollo-asteroid/), un petit corps géocroiseur découvert en 1932, perdu, puis retrouvé en 1973. L’Apollon uranien, lui, n’a jamais été vu.
 
 ## Comment ça marche {#comment-ca-marche}
 
-Les astrologues uraniens lisent dans Apollon la sagesse acquise au fil d’une vie, un tempérament équilibré et les rêves prémonitoires.
+Dans un thème uranien, Apollon représente la sagesse acquise au fil d’une vie, un tempérament équilibré et les rêves prémonitoires.
 
 On entend facilement le dieu dans deux des trois. Les rêves prémonitoires font écho à Delphes, où l’on consultait son oracle pour être guidé ; la sagesse, au donneur de lois qui encourageait la fondation des villes et de leurs constitutions. L’équilibre est une lecture propre aux astrologues uraniens.
 
@@ -56,7 +56,7 @@ Les quatre points de Sieggrün ont été proposés, comme ceux de Witte, alors q
 
 ## Dans une lecture {#dans-une-lecture}
 
-Apollon ne fait pas partie de mes lectures. La lumière du dieu, je la lis dans le [Soleil](/astrology/sun/), auquel Apollon a fini par être identifié, selon son signe, sa maison et ses aspects : le centre du thème, et le seul placement que tout le monde connaît déjà. Je dis aussi clairement que le signe solaire a tenu environ un tiers du temps dans mon carnet, comme les autres placements que tout le monde lit en premier ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)).
+La lumière du dieu entre dans mes lectures par le [Soleil](/astrology/sun/), auquel Apollon a fini par être identifié, et non par le point Apollon. Je lis le Soleil selon son signe, sa maison et ses aspects : le centre du thème, et le seul placement que tout le monde connaît déjà. Je dis aussi clairement que le signe solaire a tenu environ un tiers du temps dans mon carnet, comme les autres placements que tout le monde lit en premier ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)).
 
 Les rêves prémonitoires, je les laisse de côté : je ne lis ni les rêves ni les thèmes comme des nouvelles de ce qui va arriver. Et la sagesse d’une vie n’est pas une chose que je chercherais dans un point. Les cycles que je suis marquent des âges, pas des vertus : Saturne revient à sa place de naissance vers 29 ans et demi, Uranus s’oppose à sa propre position vers 42 ans, et ce qu’une personne apprend pendant ces années lui appartient, pas à un point ([Ma méthode](/how-i-read/)).
 

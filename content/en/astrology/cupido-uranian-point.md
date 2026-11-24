@@ -56,7 +56,7 @@ Its position comes from calculation, not observation. Nobody has ever pointed a 
 
 ## In a reading {#in-a-reading}
 
-Cupido isn't in my readings. Love comes into them through Venus, by sign, house and aspect, and through [the 7th house](/astrology/7th-house/), whose cusp is the Descendant. That house depends on the birth time, as every house does, which is one reason I don't read a chart without one ([What changes without a birth time](/blog/unknown-birth-time/)).
+Love comes into my readings without Cupido: through Venus, by sign, house and aspect, and through [the 7th house](/astrology/7th-house/), whose cusp is the Descendant. That house depends on the birth time, as every house does, which is one reason I don't read a chart without one ([What changes without a birth time](/blog/unknown-birth-time/)).
 
 Between two people, the case against it is plainer still. When I compare charts, I count only contacts that involve at least one personal body: the Sun, the Moon, Mercury, Venus or Mars. A point beyond Neptune moves so slowly that partners born a few years apart have their Cupidos close together, whatever else is true of them, so a Cupido contact says more about their birth years than about the two of them ([How I read](/how-i-read/)).
 

@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["astrologie uranienne"]
 weight: 45
 glyph: "✦"
-definition: "Hadès est un point hypothétique de l’astrologie uranienne, nommé d’après le maître grec des Enfers par Alfred Witte avant la découverte de Pluton. Les astrologues uraniens y voient un proche parent de Pluton : vocations ésotériques et soignantes, difficultés émotionnelles ou mentales, blessures que laisse une vie. Aucun corps n’y a jamais été observé."
+definition: "Hadès est le point des Enfers en astrologie uranienne, une position hypothétique qu’Alfred Witte a nommée d’après le maître grec des morts avant la découverte de Pluton. On y lit un proche parent de Pluton : vocations ésotériques et soignantes, difficultés émotionnelles ou mentales, blessures que laisse une vie. Aucun corps n’y a été vu."
 facts:
   - { k: "Nature", v: "Point hypothétique de l’astrologie uranienne, jamais observé" }
   - { k: "Proposé par", v: "Alfred Witte, avant la découverte de Pluton en 1930" }
@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/cupido-uranian-point", "/astrology/zeus", "/astrology/pluto", "/astrology/chiron", "/astrology/hamburg-school-uranian-astrology"]
 faq:
   - q: "Que signifie Hadès en astrologie uranienne ?"
-    a: "Les astrologues uraniens voient en Hadès un proche parent de Pluton : vocations ésotériques et métiers voués au soin, mais aussi difficultés émotionnelles ou mentales et blessures que laisse une vie. C’est l’un des quatre points hypothétiques qu’Alfred Witte a proposés au-delà de Neptune, et aucun d’eux n’a été observé."
+    a: "Un proche parent de Pluton, aux yeux des astrologues uraniens : vocations ésotériques et métiers voués au soin, mais aussi difficultés émotionnelles ou mentales et blessures que laisse une vie. Alfred Witte l’a proposé au-delà de Neptune avec Cupido, Zeus et Kronos, avant qu’on ait découvert Pluton."
   - q: "Quelle différence entre Hadès et Pluton en astrologie ?"
     a: "On a découvert Pluton en 1930 : c’est un corps réel, sur une orbite d’environ 248 ans. Hadès est un point calculé qu’Alfred Witte a placé au-delà de Neptune avant cette découverte. Dans le mythe, c’est un seul dieu, Pluton venant de son titre Plouton ; dans un thème uranien, ce sont deux positions."
   - q: "Hadès est-il une planète ?"
@@ -47,13 +47,13 @@ Vers le cinquième siècle avant notre ère, peut-être par crainte de prononcer
 
 ## Comment ça marche {#comment-ca-marche}
 
-Les astrologues uraniens voient en Hadès un proche parent de Pluton. Ils le rattachent aux vocations ésotériques et aux métiers voués au soin, mais aussi aux difficultés émotionnelles et mentales, et aux blessures que laisse une vie.
+Dans la pratique uranienne, Hadès est un proche parent de Pluton. Ceux qui le lisent le rattachent aux vocations ésotériques et aux métiers voués au soin, mais aussi aux difficultés émotionnelles et mentales, et aux blessures que laisse une vie.
 
 Dans un thème uranien, les deux maîtres des Enfers se tiennent à distance. La position de Pluton est celle qu’observent les astronomes, sur une orbite d’environ 248 ans ; celle d’Hadès est celle que donnent les calculs de l’école, et les deux positions ont chacune leurs aspects et leurs mi-points. C’était bien le but de l’école de Witte : elle ajoutait ses points pour rendre compte d’événements que les planètes certifiées par l’astronomie n’expliquaient pas clairement.
 
 ## Dans une lecture {#dans-une-lecture}
 
-Hadès ne fait pas partie de mes lectures. Quand une lecture touche aux vieilles blessures, je commence par [Chiron](/astrology/chiron/), qui dans mon carnet a fait partie des trois placements ayant tenu bien plus souvent que les autres, 75 à 90 % du temps ([Les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)), puis par Pluton, selon son signe, sa maison et ses aspects.
+Quand une lecture touche aux vieilles blessures, je ne vais pas chercher Hadès. Je commence par [Chiron](/astrology/chiron/), qui dans mon carnet a fait partie des trois placements ayant tenu bien plus souvent que les autres, 75 à 90 % du temps ([Les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)), puis par Pluton, selon son signe, sa maison et ses aspects.
 
 La santé mentale est le domaine où je suis le plus prudente. Un thème n’est pas un diagnostic, et aucun point, calculé ou observé, ne peut dire à quelqu’un ce que traverse son esprit ; si c’est la question, c’est à un médecin ou à un psychothérapeute qu’il faut la poser ([Astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
 

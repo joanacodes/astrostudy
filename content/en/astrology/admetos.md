@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Uranian astrology"]
 weight: 49
 glyph: "✦"
-definition: "Admetos is a hypothetical point of Uranian astrology, proposed by Friedrich Sieggrün in 1927 and the only one of the eight named after a mortal: Admetus, a king of Thessaly whom Apollo served. Uranian astrologers read it as transformative power held inside, hard to release, and for spiritual blockage and depth of knowledge."
+definition: "Admetos is the one hypothetical point of Uranian astrology named after a mortal: Admetus, a king of Thessaly whom Apollo served. Friedrich Sieggrün proposed it in 1927. Its readers see in it transformative power held inside and hard to release, along with spiritual blockage and depth of knowledge."
 facts:
   - { k: "Type", v: "Hypothetical point of Uranian astrology, never observed" }
   - { k: "Proposed by", v: "Friedrich Sieggrün, in 1927, the second of his four" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/apollon-uranian-point", "/astrology/vulkanus", "/astrology/hades", "/astrology/transits", "/astrology/hamburg-school-uranian-astrology"]
 faq:
   - q: "What does Admetos mean in Uranian astrology?"
-    a: "Uranian astrologers read Admetos as transformative power held inside, hard to release into the world, and also for spiritual blockage and depth of knowledge. Friedrich Sieggrün proposed the point in 1927 and named it after Admetus, a king of Thessaly in Greek myth."
+    a: "Transformative power held inside, hard to release into the world, along with spiritual blockage and depth of knowledge. Friedrich Sieggrün proposed the point in 1927 and named it after Admetus, a king of Thessaly in Greek myth, whose story is bound up with Apollo’s."
   - q: "Who was Admetus in Greek mythology?"
     a: "A king of Pherae in Thessaly, whose name means the untameable. Apollo served him for a year as a cowherd, helped him win his wife Alcestis, and persuaded the Fates to spare him if someone would die in his place. Alcestis did, and Heracles wrestled Death to bring her back."
   - q: "What is the difference between Admetos and Hades?"
@@ -43,7 +43,7 @@ Apollo did more. He persuaded the Fates, in one telling by getting them drunk, t
 
 ## How it works {#how-it-works}
 
-Uranian astrologers read Admetos as transformative power, close kin to [Hades](/astrology/hades/), with one difference: Admetos's power is held inside and is hard to release into the world, while Hades's can be released by helping others. They also read it for spiritual blockage, and for depth of knowledge.
+Admetos, in Uranian practice, is transformative power, close kin to [Hades](/astrology/hades/), with one difference: Admetos's power is held inside and is hard to release into the world, while Hades's can be released by helping others. They also read it for spiritual blockage, and for depth of knowledge.
 
 The story and the reading pull different ways: the king was famous for an open house, and the point is read for power kept in.
 
@@ -51,7 +51,7 @@ The ancient writers didn't agree on why the god served him, either. In one telli
 
 ## In a reading {#in-a-reading}
 
-Admetos isn't in my readings. When someone tells me that something in them won't move, I don't go looking for a hidden point. I look at what is crossing their chart now, the slow planets above all, [Saturn](/astrology/saturn/) first among them, and at how long each contact lasts ([Transits](/astrology/transits/)). In a forecast I follow the transits of the planets from Jupiter out to Pluto, the social and generational ones ([Personal, social and generational planets](/astrology/personal-social-and-generational-planets/)), with Chiron and the true node, and every one of them arrives, builds and passes. A slow transit has a start and an end: a timetable, not a wall.
+When someone tells me that something in them won't move, I don't go looking for Admetos, or for any other hidden point. I look at what is crossing their chart now, the slow planets above all, [Saturn](/astrology/saturn/) first among them, and at how long each contact lasts ([Transits](/astrology/transits/)). In a forecast I follow the transits of the planets from Jupiter out to Pluto, the social and generational ones ([Personal, social and generational planets](/astrology/personal-social-and-generational-planets/)), with Chiron and the true node, and every one of them arrives, builds and passes. A slow transit has a start and an end: a timetable, not a wall.
 
 *Spiritual blockage* isn't a phrase I use in a reading either. A chart can show where things come slowly, or late; it can't weigh anyone's inner life, and it would be unkind to pretend it can ([How I read](/how-i-read/)).
 

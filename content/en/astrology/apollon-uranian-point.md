@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Uranian astrology"]
 weight: 48
 glyph: "✦"
-definition: "Apollon is a hypothetical point of Uranian astrology, the first of four that Friedrich Sieggrün added in 1927 to Alfred Witte’s points beyond Neptune. It carries the Greek form of Apollo’s name, and Uranian astrologers read it for wisdom gathered over a lifetime, a balanced temperament and prophetic dreams."
+definition: "Apollon is the first of the four hypothetical points Friedrich Sieggrün added to Uranian astrology in 1927, beyond Neptune, after Alfred Witte’s four. It carries the Greek form of Apollo’s name, and stands in a Uranian chart for wisdom gathered over a lifetime, a balanced temperament and prophetic dreams."
 facts:
   - { k: "Type", v: "Hypothetical point of Uranian astrology, never observed" }
   - { k: "Proposed by", v: "Friedrich Sieggrün, in 1927" }
@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/kronos", "/astrology/admetos", "/astrology/apollo-asteroid", "/astrology/sun", "/astrology/hamburg-school-uranian-astrology"]
 faq:
   - q: "What does Apollon mean in Uranian astrology?"
-    a: "Uranian astrologers read Apollon for wisdom gathered over a lifetime, a balanced temperament and prophetic dreams. Friedrich Sieggrün proposed the point in 1927, naming it after the Greek god of prophecy, healing and music, and no body has ever been observed where it is placed."
+    a: "Wisdom gathered over a lifetime, a balanced temperament and prophetic dreams: those are the meanings Uranian astrologers give it. Friedrich Sieggrün named the point in 1927 after the Greek god of prophecy, healing and music, the first of the four he added to Alfred Witte’s."
   - q: "Who proposed Apollon in astrology?"
     a: "Friedrich Sieggrün, an early collaborator of Alfred Witte in Hamburg, in 1927. It was the first of his four points, with Admetos, Vulkanus and Poseidon, added to Witte’s Cupido, Hades, Zeus and Kronos. The school’s rulebook first printed Sieggrün’s points in its fourth edition, after the war."
   - q: "Is Apollon the ruler of Gemini?"
@@ -43,11 +43,11 @@ Sieggrün was one of Alfred Witte's early collaborators in Hamburg, and his four
 
 Apollo was one of the Olympians, son of Zeus and Leto and twin of Artemis: god of healing and of prophecy, of music, poetry and the bow, speaking through the oracle at Delphi, and a giver of laws. He was a god of herdsmen too, and one story put him to work as one. Sentenced to a year's service to a mortal, for killing the serpent Delphyne or, in later tellings, the Cyclopes, he spent it as cowherd to Admetus, king of Pherae, and made every cow in the herd bear twins. The next name on Sieggrün's list comes from that story.
 
-Astrology has a real Apollo as well: [Apollo (asteroid)](/astrology/apollo-asteroid/), a small near-Earth body found in 1932, lost, and found again in 1973. The Uranian Apollon has never been seen at all.
+The sky does hold a real Apollo: [Apollo (asteroid)](/astrology/apollo-asteroid/), a small near-Earth body found in 1932, lost, and found again in 1973. The Uranian Apollon has never been seen at all.
 
 ## How it works {#how-it-works}
 
-Uranian astrologers read Apollon for wisdom gathered over a lifetime, for a balanced temperament, and for prophetic dreams.
+In a Uranian chart, Apollon stands for wisdom gathered over a lifetime, a balanced temperament and prophetic dreams.
 
 The god is easy to hear in two of the three. The prophetic dreams echo Delphi, where his oracle was consulted for guidance; the wisdom echoes the giver of laws, who encouraged the founding of towns and of their constitutions. The balance is the Uranian astrologers' own reading.
 
@@ -55,7 +55,7 @@ Sieggrün's four were proposed, like Witte's, while the region beyond Neptune wa
 
 ## In a reading {#in-a-reading}
 
-Apollon isn't in my readings. The god's light I read in the [Sun](/astrology/sun/), with which Apollo came to be identified, by sign, house and aspect: the centre of the chart, and the one placement everyone already knows. I also tell people plainly that the Sun sign held about a third of the time in my notebook, like the other placements everyone reads first ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
+The god's light reaches my readings through the [Sun](/astrology/sun/), with which Apollo came to be identified, and not through Apollon. I read the Sun by sign, house and aspect: the centre of the chart, and the one placement everyone already knows. I also tell people plainly that the Sun sign held about a third of the time in my notebook, like the other placements everyone reads first ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
 
 Prophetic dreams I leave alone: I don't read dreams, or charts, as news of what will happen. And the wisdom of a lifetime isn't something I'd look for in one point. The cycles I do follow mark ages, not virtues: Saturn comes back to its birth place at about 29½, Uranus opposes its own at about 42, and what a person learns in those years is theirs, not a point's ([How I read](/how-i-read/)).
 

@@ -57,7 +57,7 @@ Fiction kept the joke going. In the BBC radio version of Douglas Adams's *Mostly
 
 ## In a reading {#in-a-reading}
 
-Persephone isn't in my readings, under either name. Taurus has a ruler in them, [Venus](/astrology/venus/), as Libra does. The three signs that have both a modern and a traditional ruler, Scorpio, Aquarius and Pisces, get both from me, because I read both; I don't keep a seat free for a planet nobody has found.
+Under neither name does Persephone come into my readings. Taurus has a ruler in them, [Venus](/astrology/venus/), as Libra does. The three signs that have both a modern and a traditional ruler, Scorpio, Aquarius and Pisces, get both from me, because I read both; I don't keep a seat free for a planet nobody has found.
 
 Nor do I read Eris, the body Polish astrologers call Proserpina. Giving a hypothetical planet a real body doesn't change my answer: my readings rest on the planets, Chiron, Lilith and the nodes, and a dwarf planet found in 2005 hasn't joined them ([How I read](/how-i-read/)).
 

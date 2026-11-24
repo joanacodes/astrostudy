@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["astrologie uranienne"]
 weight: 51
 glyph: "✦"
-definition: "Poséidon est un point hypothétique de l’astrologie uranienne, le dernier des huit : Friedrich Sieggrün l’a proposé en 1927 et l’a nommé d’après le dieu grec de la mer, que les Romains appelaient Neptune. Les astrologues uraniens le lisent à peu près comme Neptune : spiritualité, amour désintéressé, facultés psychiques et sagesse spirituelle."
+definition: "Poséidon est le dernier des huit points hypothétiques de l’astrologie uranienne : Friedrich Sieggrün l’a proposé en 1927 et l’a nommé d’après le dieu grec de la mer, que les Romains appelaient Neptune. On le lit à peu près comme Neptune : spiritualité, amour désintéressé, facultés psychiques et sagesse spirituelle."
 facts:
   - { k: "Nature", v: "Point hypothétique de l’astrologie uranienne, jamais observé" }
   - { k: "Proposé par", v: "Friedrich Sieggrün, en 1927, le dernier de ses quatre" }
@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/vulkanus", "/astrology/neptune", "/astrology/12th-house", "/astrology/cosmobiology", "/astrology/hamburg-school-uranian-astrology"]
 faq:
   - q: "Que signifie Poséidon en astrologie uranienne ?"
-    a: "Les astrologues uraniens y lisent l’esprit, à peu près comme dans Neptune : au mieux, un amour spirituel et éclairé, l’amour désintéressé que le grec appelle agapè, et aussi des facultés psychiques et une sagesse spirituelle. Friedrich Sieggrün a proposé ce point en 1927, le dernier des huit de l’école."
+    a: "L’esprit, à peu près comme Neptune : au mieux, un amour spirituel et éclairé, l’amour désintéressé que le grec appelle agapè, et aussi des facultés psychiques et une sagesse spirituelle. C’est le dernier des huit points de l’école, ajouté par Friedrich Sieggrün en 1927 et nommé d’après le dieu grec de la mer."
   - q: "Poséidon est-il la même chose que Neptune en astrologie ?"
     a: "Non. Neptune est la planète découverte en 1846, qui passe environ quatorze ans dans chaque signe ; son glyphe est le trident de Poséidon, puisque Neptune était le nom romain du dieu. Poséidon est un point hypothétique de l’astrologie uranienne, calculé et non observé, que les astrologues uraniens lisent de façon voisine."
   - q: "Tous les astrologues des mi-points utilisent-ils Poséidon ?"
@@ -35,7 +35,7 @@ sources:
   - { title: "Wikipédia en anglais, « Astrological symbols »", url: "https://en.wikipedia.org/wiki/Astrological_symbols", note: "le glyphe de Neptune, le trident ; le symbole de Poséidon, U+2BE7" }
   - { title: "J. G. Galle, « Account of the discovery of the planet of Le Verrier at Berlin », Monthly Notices of the Royal Astronomical Society 7 (1846), 153, via Wikipédia en anglais, « Vulcan (hypothetical planet) »", url: "https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet)", note: "la découverte de Neptune à l’endroit calculé par Le Verrier ; consulté le 24 novembre 2026" }
 ---
-Poséidon ferme la liste des huit points hypothétiques de l’astrologie uranienne. Friedrich Sieggrün l’a proposé en 1927 et lui a donné le nom grec du dieu de la mer dont une planète portait déjà le nom romain : Neptune.
+La liste des points hypothétiques de l’astrologie uranienne s’achève sur Poséidon : le huitième et dernier, proposé par Friedrich Sieggrün en 1927, et nommé d’après le dieu dont le nom romain, Neptune, était allé à une planète quelque quatre-vingts ans plus tôt.
 
 ## Ce que c’est {#ce-que-c-est}
 
@@ -47,13 +47,13 @@ Les Romains l’appelaient Neptune, et chaque thème porte déjà son emblème 
 
 ## Comment ça marche {#comment-ca-marche}
 
-Les astrologues uraniens lisent dans Poséidon l’esprit, et ils le disent dans les termes de Neptune : le point est spirituel, comme Neptune. Au mieux, dans leur lecture, c’est un amour éclairé, l’amour désintéressé que le grec appelle *agapè*, et ils y lisent des facultés psychiques et une sagesse spirituelle.
+L’esprit est le domaine de Poséidon dans un thème uranien, et ses lecteurs le disent dans les termes de Neptune : le point est spirituel, comme Neptune. Au mieux, dans leur lecture, c’est un amour éclairé, l’amour désintéressé que le grec appelle *agapè*, et ils y lisent des facultés psychiques et une sagesse spirituelle.
 
 Un thème uranien contient donc les deux dieux de la mer, avec un thème commun et des assises différentes. Neptune aussi a commencé par un calcul : Urbain Le Verrier a déduit sa position de l’attraction qu’exerçait cette planète sur Uranus, et en 1846, en regardant à cet endroit, les astronomes ont trouvé Neptune. Neptune passe environ quatorze ans dans chaque signe. Poséidon a été proposé à partir de thèmes, non d’une attraction sur une planète, et depuis près d’un siècle, personne n’a rien vu là où il est placé. Le dieu des tempêtes et des séismes ne prête pourtant au point rien de sa violence : les significations qu’on lui donne sont toutes en eaux calmes.
 
 ## Dans une lecture {#dans-une-lecture}
 
-Poséidon ne fait pas partie de mes lectures. L’esprit, et le désir de quelque chose de plus grand, je les lis dans Neptune, selon son signe, sa maison et ses aspects, et dans la [maison 12](/astrology/12th-house/), que la tradition appelait le Génie défavorable et que je lis pour ce qui se passe hors de la vue, la vie intérieure comprise. Pour les [Poissons](/astrology/pisces/), signe de Neptune, je lis les deux maîtres, Neptune et Jupiter. Quand je regarde la période à venir, les transits de Neptune font partie de ceux que je suis, et celui que la plupart des gens rencontrent est le carré de Neptune à sa propre position, vers 41 ans : une longue période où ce qui semblait solide peut se brouiller, à lire comme une météo, pas comme une prédiction.
+L’esprit, et le désir de quelque chose de plus grand, je ne les cherche pas dans Poséidon : je les lis dans Neptune, selon son signe, sa maison et ses aspects, et dans la [maison 12](/astrology/12th-house/), que la tradition appelait le Génie défavorable et que je lis pour ce qui se passe hors de la vue, la vie intérieure comprise. Pour les [Poissons](/astrology/pisces/), signe de Neptune, je lis les deux maîtres, Neptune et Jupiter. Quand je regarde la période à venir, les transits de Neptune font partie de ceux que je suis, et celui que la plupart des gens rencontrent est le carré de Neptune à sa propre position, vers 41 ans : une longue période où ce qui semblait solide peut se brouiller, à lire comme une météo, pas comme une prédiction.
 
 Les facultés psychiques, je ne les lis pas du tout. Un thème peut décrire la façon dont quelqu’un perçoit le monde qui l’entoure ; il ne peut ni prouver un don, ni l’exclure ([Ma méthode](/how-i-read/)).
 

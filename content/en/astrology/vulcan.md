@@ -51,16 +51,16 @@ Vulcan had its users while astronomers argued. In St Louis, John H. Tice, a weat
 
 In the esoteric astrology Alice Bailey taught, Vulcan outlasted the telescope searches. Her teaching of the seven rays, seven kinds of energy each tied to particular planets and signs, gives the first ray, will or power, two planets, Vulcan and [Pluto](/astrology/pluto/), and two signs, [Taurus](/astrology/taurus/) and Pisces.
 
-Set in a chart, a planet on Le Verrier's orbit would never stray more than 8° from the Sun, far closer than Mercury, which gets up to about 28° away: it would always sit in the Sun's sign or a neighbouring one. At the other end of the Solar System, astrologers have pictured unseen planets too, among them one beyond Pluto ([Transpluto (Isis)](/astrology/transpluto-isis/)).
+Set in a chart, a planet on Le Verrier's orbit would never stray more than 8° from the Sun, far closer than Mercury, which gets up to about 28° away: it would always sit in the Sun's sign or a neighbouring one. At the other end of the Solar System, astrologers have pictured unseen planets too, among them one beyond Pluto ([Transpluto (Isis)](/astrology/transpluto-isis/)), and Uranian astrology later gave the smith god's name to a point of its own, far beyond Neptune ([Vulkanus](/astrology/vulkanus/)).
 
 ## In a reading {#in-a-reading}
 
-Vulcan isn't in my readings. Everything I read has a position astronomy computes from a real orbit: the planets, Chiron, and the points taken from the Moon's own orbit, Lilith and the nodes. Vulcan's orbit was built on one man's sighting, and no one could repeat it.
+There's no Vulcan in my readings, because there's no Vulcan to place: everything I read has a position astronomy computes from a real orbit: the planets, Chiron, and the points taken from the Moon's own orbit, Lilith and the nodes. Vulcan's orbit was built on one man's sighting, and no one could repeat it.
 
 If what draws you to Vulcan is its closeness to the Sun, Mercury does that work in a chart: never more than about 28° from the Sun, it describes how you think and speak, and in my notebook it was among the placements everyone reads first, which held about a third of the time ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). Power, in my readings, is part of what Pluto describes, by sign, house and aspect ([How I read](/how-i-read/)).
 
 ## Common myths {#myths}
 
 - **“Vulcan was discovered in 1860.”** It was announced in 1860, on the strength of a sighting nobody could confirm, and given up once general relativity explained Mercury's orbit.
-- **“Vulcan is the Uranian Vulkanus.”** [Vulkanus](/astrology/vulkanus/) is a point Friedrich Sieggrün proposed in 1927, beyond Neptune; Vulcan was sought between Mercury and the Sun.
+- **“Vulcan was an astrologers' invention.”** Astronomers proposed it, named it and announced it; astrologers took it up afterwards, and kept it once astronomy had let it go.
 - **“Einstein proved there is nothing at all inside Mercury's orbit.”** His theory removed the need for a planet there. Astronomers still look for small vulcanoids, and haven't found one yet.

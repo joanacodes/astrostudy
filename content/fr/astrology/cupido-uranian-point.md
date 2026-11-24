@@ -57,7 +57,7 @@ Sa position vient du calcul, non de l’observation. Personne n’a jamais braqu
 
 ## Dans une lecture {#dans-une-lecture}
 
-Cupido ne fait pas partie de mes lectures. L’amour y entre par Vénus, selon son signe, sa maison et ses aspects, et par la [maison 7](/astrology/7th-house/), dont la cuspide est le descendant. Cette maison dépend de l’heure de naissance, comme toutes les maisons, et c’est l’une des raisons pour lesquelles je ne lis pas un thème sans elle ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+L’amour entre dans mes lectures sans Cupido : par Vénus, selon son signe, sa maison et ses aspects, et par la [maison 7](/astrology/7th-house/), dont la cuspide est le descendant. Cette maison dépend de l’heure de naissance, comme toutes les maisons, et c’est l’une des raisons pour lesquelles je ne lis pas un thème sans elle ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Entre deux personnes, l’argument est plus net encore. Quand je compare deux thèmes, je ne compte que les contacts qui touchent au moins un astre personnel : le Soleil, la Lune, Mercure, Vénus ou Mars. Un point situé au-delà de Neptune avance si lentement que deux partenaires venus au monde à quelques années d’écart ont leurs Cupido tout près l’un de l’autre, quoi qu’il en soit par ailleurs : un contact de Cupido en dit plus long sur leurs années de naissance que sur le couple ([Ma méthode](/how-i-read/)).
 

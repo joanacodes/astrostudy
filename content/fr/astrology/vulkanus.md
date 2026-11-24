@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["astrologie uranienne"]
 weight: 50
 glyph: "✦"
-definition: "Vulkanus est un point hypothétique de l’astrologie uranienne, le troisième des quatre que Friedrich Sieggrün a ajoutés au-delà de Neptune en 1927, nommé d’après Vulcain, le dieu forgeron des Romains. Les astrologues uraniens y lisent une force brute qui veut sa liberté et le dépassement des difficultés d’une vie. Rien à voir avec Vulcain, planète cherchée près du Soleil."
+definition: "Vulkanus, qu’on écrit aussi Vulcanus, est un point de l’astrologie uranienne nommé d’après Vulcain, le dieu forgeron des Romains : le troisième des quatre points hypothétiques que Friedrich Sieggrün a ajoutés au-delà de Neptune en 1927. Il se lit pour une force brute qui veut sa liberté et pour le dépassement des difficultés d’une vie."
 facts:
   - { k: "Nature", v: "Point hypothétique de l’astrologie uranienne, jamais observé" }
   - { k: "Proposé par", v: "Friedrich Sieggrün, en 1927, le troisième de ses quatre" }
@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/admetos", "/astrology/poseidon", "/astrology/vulcan", "/astrology/mars", "/astrology/hamburg-school-uranian-astrology"]
 faq:
   - q: "Que signifie Vulkanus en astrologie uranienne ?"
-    a: "Les astrologues uraniens y lisent le dépassement des difficultés d’une vie, d’après le dieu forgeron chassé de l’Olympe qui revint fabriquer ce dont les autres dieux avaient besoin, et une force brute qui veut sa liberté. Friedrich Sieggrün a proposé ce point en 1927 ; il n’a jamais été observé."
+    a: "Deux choses, selon les astrologues uraniens : le dépassement des difficultés d’une vie, d’après le dieu forgeron chassé de l’Olympe qui revint fabriquer ce dont les autres dieux avaient besoin, et une force brute qui veut sa liberté. C’est le troisième des quatre points que Friedrich Sieggrün a ajoutés en 1927."
   - q: "Vulkanus et Vulcain, est-ce la même chose ?"
     a: "Non. Vulcain était une planète que les astronomes ont cherchée entre Mercure et le Soleil à partir de 1859, puis abandonnée quand la théorie d’Einstein a expliqué l’orbite de Mercure, en 1915. Vulkanus est un point hypothétique de l’astrologie uranienne, placé au-delà de Neptune en 1927. Ils n’ont en commun que le nom du dieu."
   - q: "Pourquoi écrit-on parfois Vulcanus ?"
@@ -44,15 +44,15 @@ Vulcain était le dieu romain du feu, des volcans et de la forge, représenté a
 
 ## Comment ça marche {#comment-ca-marche}
 
-Les astrologues uraniens lisent dans Vulkanus le dépassement des difficultés qu’une personne porte toute sa vie, et ils tirent cette lecture tout droit de l’histoire du forgeron : chassé de l’Olympe, il revint fabriquer ce dont les autres dieux avaient besoin. Ils y lisent aussi une force brute, selon leurs mots une force brute d’énergie masculine qui veut la liberté.
+Le dépassement des difficultés qu’une personne porte toute sa vie, c’est la première chose que les astrologues uraniens voient dans Vulkanus, et ils tirent cette lecture tout droit de l’histoire du forgeron : chassé de l’Olympe, il revint fabriquer ce dont les autres dieux avaient besoin. Ils y lisent aussi une force brute, selon leurs mots une force brute d’énergie masculine qui veut la liberté.
 
-*Masculin*, c’est le vieux mot de l’astrologie pour une force active, tournée vers l’extérieur, celui qu’elle emploie pour Mars. Chaque thème a son Vulkanus, quelle que soit la personne qui est née.
+*Masculin*, c’est le vieux mot de l’astrologie pour une force active, tournée vers l’extérieur, celui qu’elle emploie pour Mars. Chaque thème a son Vulkanus, à qui qu’il appartienne.
 
 Le dieu lui-même était une figure du feu souterrain : des colons grecs d’Italie du Sud associaient Héphaïstos aux dieux des volcans de la région, Adranos de l’Etna et Vulcanus des îles Lipari. La lecture uranienne puise dans le forgeron et son retour plutôt que dans les volcans.
 
 ## Dans une lecture {#dans-une-lecture}
 
-Vulkanus ne fait pas partie de mes lectures. La force y appartient à [Mars](/astrology/mars/), votre façon d’aller chercher ce que vous voulez : son signe me dit comment une personne pousse, sa maison où va cette poussée, ses aspects si elle circule librement ou si elle accroche. Le désir d’être libre appartient à [Uranus](/astrology/uranus/) et à la maison où Uranus se trouve.
+Dans mes lectures, la force appartient à [Mars](/astrology/mars/), sans Vulkanus à côté : Mars, c’est votre façon d’aller chercher ce que vous voulez ; son signe me dit comment une personne pousse, sa maison où va cette poussée, ses aspects si elle circule librement ou si elle accroche. Le désir d’être libre appartient à [Uranus](/astrology/uranus/) et à la maison où Uranus se trouve.
 
 Quant aux difficultés qu’une personne a portées toute sa vie : un thème ne voit pas les limites d’un corps, et je n’en lis aucun pour la santé ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Ce qu’une personne a dû surmonter, je préfère l’entendre de sa bouche que le lire dans un point que personne n’a vu ([Ma méthode](/how-i-read/)).
 
