@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Arabic parts"]
 weight: 18
 glyph: "✦"
-definition: "The Part of Travel is the lot old astrology kept for journeys, above all long ones, a calculated degree read beside the 9th house of far travel. It depends on the birth time and moves in a relocated chart. It can neither promise a safe journey nor choose a date."
+definition: "The Part of Travel is the lot old astrology kept for journeys, above all long ones, a calculated degree read beside the 9th house of far travel. It needs the birth time, and a relocated chart moves it. It can neither promise a safe journey nor choose a date."
 facts:
   - { k: "Type", v: "A lot, also called an Arabic part" }
   - { k: "Kept for", v: "Journeys, above all long ones" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/9th-house", "/astrology/part-of-friends", "/astrology/part-of-commerce", "/astrology/relocation-charts", "/blog/unknown-birth-time"]
 faq:
   - q: "What is the Part of Travel in astrology?"
-    a: "It is the lot kept for journeys, especially long ones: a calculated degree, read beside the 9th house, which tradition called the God. It moves with the Ascendant, so it needs an exact birth time and shifts in a relocated chart. It can never say whether a trip will be safe."
+    a: "The degree old astrologers worked out for journeys, long ones above all, and read beside the 9th house, which they called the God. Since it is counted from the Ascendant, it needs an exact birth time, and a relocated chart moves it. It can never say whether a trip will be safe."
   - q: "Can the Part of Travel tell me when to travel?"
-    a: "No. No lot or transit can say whether a journey will be safe, whether a flight will run, or which day to book. Transits describe the weather of a period, not events. Plan a trip with timetables, forecasts and advice from the people who run the journey, not with a chart."
+    a: "No. No lot or transit can say whether a journey will be safe, whether a flight will run, or which day to book: what a chart describes is the tone of a stretch of time, never the events in it. For the trip itself, the airline, the timetable and the forecasters know more than any chart."
   - q: "Which house is travel in astrology?"
-    a: "Tradition gave long journeys and travel abroad to the 9th house, called the God, and short everyday trips to the 3rd, called the Goddess. The Part of Travel is a separate degree that can fall in any house; astrologers who use it read it beside the 9th, not in place of it."
+    a: "Tradition gave long journeys and travel abroad to the 9th house, called the God, and short everyday trips to the 3rd, called the Goddess. The Part of Travel is a separate degree that can fall in any house, and those who use it treat it as a supplement to the 9th."
   - q: "Does my Part of Travel change if I move abroad?"
     a: "Not in your birth chart, which stays the chart of the place and minute you were born. In a relocation chart, drawn for another city, the Ascendant changes, and every lot counted from it moves too, this one included. I read the chart of your birthplace."
 sources:
@@ -46,7 +46,7 @@ What the old books wanted to know about travel was mostly whether it would be sa
 
 ## How it works {#how-it-works}
 
-The lot is counted from the Ascendant, so it moves about a degree for every four minutes of birth time; [without an exact time](/blog/unknown-birth-time/#what-the-time-decides) it can't be placed at all. Which two points it measures between is a question for your program's documentation, along with what it does for a night birth; I've left them out rather than guess.
+Being counted from the Ascendant, the lot goes wherever the Ascendant goes; [without an exact time](/blog/unknown-birth-time/#what-the-time-decides) it can't be placed at all. Which two points it measures between is a question for your program's documentation, along with what it does for a night birth; I've left them out rather than guess.
 
 Travel adds a twist of its own. A [relocation chart](/astrology/relocation-charts/) redraws your birth chart for another city: the planets keep their degrees, but the Ascendant and the houses change. Every lot counted from the Ascendant moves with it, by exactly as much. So the one lot made for journeys is also one that won't stay put when you redraw the chart for where you went. In your birth chart itself, nothing moves: it remains the sky of the minute and the place you were born.
 

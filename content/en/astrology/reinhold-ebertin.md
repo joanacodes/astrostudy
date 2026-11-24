@@ -5,6 +5,8 @@ description: "Reinhold Ebertin, the German astrologer behind cosmobiology: Witte
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "history"
+categories: ["History"]
+tags: []
 weight: 43
 glyph: "✦"
 definition: "Reinhold Ebertin was a German astrologer and publisher, sometimes called the founder of cosmobiology as the word is used today. He took Alfred Witte’s midpoints and the Hamburg School’s 90° dial, set aside its hypothetical planets, and published his combinations in 1940 in Kombination der Gestirneinflüsse, in English The Combination of Stellar Influences."
@@ -60,4 +62,4 @@ His titles show how much of his work looked ahead. *Transits* came with a subtit
 
 The fixed stars had a book of their own with Georg Hoffmann. I describe stars on this site without computing them in readings ([Fixed stars in astrology](/astrology/fixed-stars-in-astrology/)), and my notebook, which went through planets by sign and house, has nothing to say about them or about midpoints ([my testing notes](/blog/i-tested-my-birth-chart/)).
 
-His psychology came from the arithmetic outward. At the same time, in America, [Dane Rudhyar](/astrology/dane-rudhyar/) was arriving at a psychological astrology from the other end, by way of Jung, with a book first published in 1936.
+He reached psychology by way of arithmetic. At the same time, in America, [Dane Rudhyar](/astrology/dane-rudhyar/) was arriving at a psychological astrology from the other end, by way of Jung, with a book first published in 1936.

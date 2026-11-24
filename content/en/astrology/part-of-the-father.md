@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Arabic parts"]
 weight: 14
 glyph: "✦"
-definition: "The Part of the Father is a lot, one of the calculated points of traditional astrology, built from two points of the birth chart and the Ascendant and kept for questions about the father. It moves with the birth time. In an adult’s chart, it can only describe fathering as that adult lived it, never the father himself."
+definition: "The Part of the Father is a lot, one of the calculated points of traditional astrology, built from two points of the birth chart and the Ascendant and kept for questions about the father. The birth time decides where it falls. In an adult’s chart, it can only describe fathering as that adult lived it, never the father himself."
 facts:
   - { k: "Type", v: "A calculated point: a lot, also called an Arabic part" }
   - { k: "Kept for", v: "Questions about the father" }
@@ -24,16 +24,16 @@ faq:
   - q: "What is the Part of the Father in astrology?"
     a: "It is a calculated point, one of the lots, which old astrology kept for questions about the father, a subject Ptolemy placed first among those that come before a birth. Like every lot it hangs on the Ascendant, so it needs an exact birth time, and in your chart it describes your experience of fathering, not him."
   - q: "How do I calculate my Part of the Father?"
-    a: "A chart program does the arithmetic: the distance from one point to another, counted on from the Ascendant, and often reversed for a night birth. Before trusting the result, look in the program’s settings or help for the two points it uses and what it does at night, and enter your birth time to the minute."
+    a: "Let a chart program do the sum, then check its working: its settings or help pages should say which two points it measures between and whether it swaps them for a night birth. Enter your birth time to the minute, since the result moves with the Ascendant."
   - q: "Does the Part of the Father describe my dad?"
     a: "No. Your chart describes your life, so at most this lot describes how fathering figured in it: what you received, what you missed, what you carried away. Your father has a chart of his own, and only that chart, read with his agreement, could say anything about him."
   - q: "Can astrology tell me about my father’s health or how long he will live?"
-    a: "No. No lot, house or transit can say whether a parent will fall ill or when anyone will die, and I never read a chart for either. If you are worried about your father’s health, his doctor, and the conversations you can still have with him, are where the answers are."
+    a: "No. Illness and death are two subjects I never read, a parent’s included, and no lot, house or transit could foresee either. If you are worried about your father’s health, his doctor, and the conversations you can still have with him, are where the answers are."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book III, trans. F. E. Robbins (Loeb Classical Library, 1940), via Wikipedia, “Tetrabiblos”", url: "https://en.wikipedia.org/wiki/Tetrabiblos", note: "the parents in chapter 4, and lots dismissed in chapter 3; checked on 24 November 2026" }
   - { title: "Paulus Alexandrinus, Introductory Matters, trans. Dorian Gieseler Greenbaum (ARHAT, 2001), via Wikipedia, “Arabic parts”", url: "https://en.wikipedia.org/wiki/Arabic_parts", note: "how a lot is built, and lots for almost every question; checked on 24 November 2026" }
 ---
-The Part of the Father isn't a planet, or anything you could point a telescope at. It's a degree worked out from your chart and set aside for one subject. This page says what that degree is, why you won't find its formula here, and what I look at when someone wants to talk about their father.
+No telescope will find the Part of the Father. It's a degree worked out from your chart and set aside for one subject, and my readings do without it, even when your father is what we're talking about.
 
 ## What it is {#what-it-is}
 
@@ -45,10 +45,10 @@ Not every astrologer thought a father needed a lot. Ptolemy, in the 2nd century,
 
 Like every lot, it's built from two points of the chart and the Ascendant, and for many lots the two points change places when the birth happens at night ([sect: day and night charts](/astrology/sect-day-and-night-charts/)). Two things follow, whichever points are used:
 
-- **The time decides the degree.** The Ascendant moves about a degree every four minutes, and the lot moves with it. An hour's error shifts it by some fifteen degrees on average, often into another sign, so [without an exact birth time](/blog/unknown-birth-time/#what-the-time-decides) there's no lot to speak of.
+- **The time decides the degree.** Every four minutes of birth time carry the Ascendant, and the lot with it, about a degree further; get the hour wrong and the lot can land in another sign, so [without an exact birth time](/blog/unknown-birth-time/#what-the-time-decides) there's no lot to speak of.
 - **Day or night decides the version.** Born close to sunrise or sunset, a few minutes settle which of the two counts applies.
 
-You won't find a formula on this page. I only print a rule I've been able to check against its source, and I haven't managed it for this one; a lot built from the wrong two points is simply another degree. If a program offers you a Part of the Father, find out which points it measures between, and whether it swaps them by night, before reading anything into it.
+You won't find a formula on this page. I only print a rule I've been able to check against its source, and I haven't managed it for this one; a lot built from the wrong two points is simply another degree. If a program offers you a Part of the Father, its documentation should name the two points; check them, and the night rule, before you trust the degree.
 
 The older books also gave the father a house, though they never settled whether the [4th house](/astrology/4th-house/) belonged to the father or the mother, and horary astrologers count on from a parent's house to ask about that parent's world ([derived houses](/astrology/derived-houses/)). Even for those who used it, the lot was one pointer among several, never the whole answer.
 

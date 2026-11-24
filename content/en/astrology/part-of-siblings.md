@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/3rd-house", "/astrology/part-of-the-mother", "/astrology/part-of-friends", "/astrology/charts-for-friends-colleagues-and-family", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What is the Part of Siblings in astrology?"
-    a: "It is the lot kept for brothers and sisters: one calculated degree, added to the 3rd house that tradition already gave them. It is counted from the Ascendant, so it needs an exact birth time, and it can say nothing about how many siblings you have or what they are like."
+    a: "Old astrology’s lot for brothers and sisters: a degree worked out from the birth chart, on top of the 3rd house that already covered them. Measured from the Ascendant, it needs an exact birth time, and it can say nothing about how many siblings you have or what they are like."
   - q: "Can astrology tell how many siblings I have or will have?"
     a: "No. No lot, house or planet can count brothers and sisters, past or future. Every chart has a Part of Siblings, an only child’s included, because it is arithmetic, not a record of your family. Your family history lives in people and documents, not in degrees."
   - q: "What is the difference between the Part of Siblings and the 3rd house?"
@@ -37,13 +37,13 @@ Brothers and sisters already have a house in the old scheme, the 3rd. The Part o
 
 ## What it is {#what-it-is}
 
-Like every lot, it turns a distance into a place: the distance between two points of the chart, counted again from the [Ascendant](/astrology/ascendant/). It belongs with the lots made for relatives, between the [Part of the Mother](/astrology/part-of-the-mother/), on the side of the people who raised you, and the [Part of Friends](/astrology/part-of-friends/), on the side of the people you choose.
+Like every lot, it turns a distance into a place: how far one point of the chart lies from another becomes a degree, measured out from the [Ascendant](/astrology/ascendant/). It belongs with the lots made for relatives, between the [Part of the Mother](/astrology/part-of-the-mother/), on the side of the people who raised you, and the [Part of Friends](/astrology/part-of-friends/), on the side of the people you choose.
 
 Siblings were a topic of their own long before anyone calculated a point for them. Ptolemy took them straight after the parents, in chapter 5 of the third book of his *Tetrabiblos*, in the part that deals with what is set before a birth ([Ptolemy's Tetrabiblos](/astrology/ptolemys-tetrabiblos/)). And tradition gave them the [3rd house](/astrology/3rd-house/), along with cousins, neighbours and the short trips of an ordinary week. Tradition called that house the Goddess and gave the Moon its joy there ([planetary joys](/astrology/planetary-joys/)). Many modern books add [Mercury](/astrology/mercury/), the planet of the near at hand, so a reader looking for siblings already has a house and a planet before reaching the lot.
 
 ## How it works {#how-it-works}
 
-Since the lot is counted from the Ascendant, it shares the Ascendant's speed: about a degree for every four minutes of birth time. That has a consequence particular to this lot. Brothers and sisters born years apart have different Parts of Siblings, as different as their charts. Even twins don't share one: born ten minutes apart, their Ascendants differ by about two and a half degrees, and so do their lots, which near the edge of a sign or a house can put them on opposite sides of it. For anyone else, a time rounded to the hour can move the lot into another sign, which is why [the birth time](/blog/unknown-birth-time/#what-the-time-decides) comes before any reading of it.
+Counted from the Ascendant, the lot keeps pace with it, which here has a particular consequence. Brothers and sisters born years apart have different Parts of Siblings, as different as their charts. Even twins don't share one: born ten minutes apart, their Ascendants differ by about two and a half degrees, and so do their lots, which near the edge of a sign or a house can put them on opposite sides of it. For everyone else, rounding the birth time to the hour can be enough to change the lot's sign, so [the time](/blog/unknown-birth-time/#what-the-time-decides) has to be settled first.
 
 Which two points it measures between, I leave out, for the reason given on the [Part of the Father](/astrology/part-of-the-father/#how-it-works) page. If a program shows you a Part of Siblings, its settings or help pages should name the points, and say whether it reverses them for a night birth.
 

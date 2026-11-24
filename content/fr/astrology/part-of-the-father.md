@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["parts arabes"]
 weight: 14
 glyph: "✦"
-definition: "La Part du père est une part : un degré calculé à partir de deux points du thème natal et de l’ascendant, que l’astrologie ancienne réservait aux questions sur le père. Elle bouge avec l’heure de naissance. Dans le thème d’un adulte, elle ne peut décrire que la place du père telle que cet adulte l’a vécue, jamais le père lui-même."
+definition: "La Part du père est une part, l’un des points calculés de l’astrologie traditionnelle, construite avec deux points du thème natal et l’ascendant et réservée aux questions sur le père. L’heure de naissance la situe. Dans le thème d’un adulte, elle ne peut décrire que la paternité telle que cet adulte l’a vécue, jamais le père lui-même."
 facts:
   - { k: "Nature", v: "Un point calculé : une part, dite aussi part arabe" }
   - { k: "Réservée à", v: "Les questions sur le père" }
@@ -23,18 +23,18 @@ facts:
 related: ["/astrology/part-of-the-mother", "/astrology/part-of-children", "/astrology/doctrine-of-the-lots", "/astrology/4th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "Qu’est-ce que la Part du père en astrologie ?"
-    a: "C’est une part : un degré calculé à partir du thème natal, et non un astre dans le ciel. La distance entre deux points du thème est reportée à partir de l’ascendant, et le degré obtenu était réservé aux questions sur le père. Il faut une heure de naissance exacte, car cette part avance avec l’ascendant."
+    a: "C’est un point calculé, l’une des parts, que l’astrologie ancienne réservait aux questions sur le père, un sujet que Ptolémée plaçait en tête de ceux qui précèdent une naissance. Comme toute part, elle dépend de l’ascendant, donc d’une heure de naissance exacte, et dans votre thème elle décrit votre expérience de la paternité, pas votre père."
   - q: "Comment calculer sa Part du père ?"
-    a: "Un logiciel fait le calcul : la distance d’un point à un autre, reportée à partir de l’ascendant, souvent inversée pour une naissance de nuit. Avant de vous fier au résultat, cherchez dans les réglages ou l’aide les deux points utilisés et ce que le logiciel fait la nuit, et entrez votre heure de naissance à la minute près."
+    a: "Laissez un logiciel faire le calcul, puis vérifiez son travail : ses réglages ou ses pages d’aide devraient dire entre quels points il mesure et s’il les intervertit pour une naissance de nuit. Entrez votre heure de naissance à la minute près, car le résultat bouge avec l’ascendant."
   - q: "La Part du père décrit-elle mon père ?"
     a: "Non. Votre thème décrit votre vie : cette part décrit au mieux la place qu’y a tenue un père, ce que vous avez reçu, ce qui vous a manqué, ce que vous en avez gardé. Votre père a son propre thème, et seul ce thème, lu avec son accord, pourrait dire quelque chose de lui."
   - q: "L’astrologie peut-elle me renseigner sur la santé de mon père ou sur le temps qu’il lui reste ?"
-    a: "Non. Aucune part, aucune maison, aucun transit ne peut dire si un parent tombera malade ni quand quelqu’un mourra, et je ne lis jamais un thème pour l’un ou l’autre. Si la santé de votre père vous inquiète, les réponses sont auprès de son médecin, et dans les conversations que vous pouvez encore avoir avec lui."
+    a: "Non. La maladie et la mort sont deux sujets que je ne lis jamais, pour un parent comme pour quiconque, et aucune part, aucune maison, aucun transit ne pourrait les prévoir. Si la santé de votre père vous inquiète, les réponses sont auprès de son médecin, et dans les conversations que vous pouvez encore avoir avec lui."
 sources:
   - { title: "Ptolémée, Tétrabible, livre III, trad. F. E. Robbins (Loeb Classical Library, 1940), via Wikipédia en anglais, « Tetrabiblos »", url: "https://en.wikipedia.org/wiki/Tetrabiblos", note: "les parents au chapitre 4, et les parts écartées au chapitre 3 ; vérifié le 24 novembre 2026" }
   - { title: "Paul d’Alexandrie, Introductory Matters, trad. Dorian Gieseler Greenbaum (ARHAT, 2001), via Wikipédia en anglais, « Arabic parts »", url: "https://en.wikipedia.org/wiki/Arabic_parts", note: "comment se construit une part, et des parts pour presque chaque question ; vérifié le 24 novembre 2026" }
 ---
-La Part du père n’est pas une planète, ni rien qu’on puisse viser avec un télescope. C’est un degré calculé à partir de votre thème et mis de côté pour un seul sujet. Cette page dit ce qu’est ce degré, pourquoi vous n’y trouverez pas sa formule, et ce que je regarde quand quelqu’un veut parler de son père.
+Aucun télescope ne trouvera la Part du père. C’est un degré calculé à partir de votre thème et réservé à un seul sujet, et mes lectures s’en passent, même quand votre père est au centre de la conversation.
 
 ## Ce que c’est {#ce-que-c-est}
 
@@ -46,16 +46,16 @@ Tous les astrologues ne pensaient pas qu’un père avait besoin d’une part. P
 
 Comme toutes les parts, elle se construit avec deux points du thème et l’ascendant, et pour beaucoup de parts les deux points échangent leurs places quand la naissance a lieu de nuit ([secte : thèmes diurnes et nocturnes](/astrology/sect-day-and-night-charts/)). Deux conséquences, quels que soient les points :
 
-- **L’heure décide du degré.** L’ascendant avance d’environ un degré toutes les quatre minutes, et la part avec lui. Une heure d’erreur la déplace d’une quinzaine de degrés en moyenne, souvent dans un autre signe : [sans heure de naissance exacte](/blog/unknown-birth-time/#ce-que-l-heure-decide), il n’y a pas de part à lire.
+- **L’heure décide du degré.** Chaque tranche de quatre minutes fait avancer l’ascendant, et la part avec lui, d’environ un degré ; avec une heure fausse, elle peut changer de signe, et [sans heure de naissance exacte](/blog/unknown-birth-time/#ce-que-l-heure-decide), il n’y a pas de part à lire.
 - **Le jour ou la nuit décide de la version.** Pour une naissance proche du lever ou du coucher du Soleil, quelques minutes tranchent entre les deux calculs.
 
-Vous ne trouverez pas de formule sur cette page. Je ne publie une règle que si j’ai pu la vérifier à sa source, et je n’y suis pas parvenue pour celle-ci ; une part construite avec les deux mauvais points n’est qu’un autre degré. Si un logiciel vous propose une Part du père, cherchez entre quels points il mesure, et s’il les intervertit la nuit, avant d’y lire quoi que ce soit.
+Vous ne trouverez pas de formule sur cette page. Je ne publie une règle que si j’ai pu la vérifier à sa source, et je n’y suis pas parvenue pour celle-ci ; une part construite avec les deux mauvais points n’est qu’un autre degré. Si un logiciel vous propose une Part du père, sa documentation devrait nommer les deux points : vérifiez-les, avec la règle de nuit, avant de vous fier au degré.
 
 Les livres anciens donnaient aussi une maison au père, sans jamais trancher si la [maison 4](/astrology/4th-house/) revenait au père ou à la mère, et les astrologues de l’horaire comptent à partir de la maison d’un parent pour interroger le monde de ce parent ([maisons dérivées](/astrology/derived-houses/)). Même pour ceux qui s’en servaient, la part n’était qu’un indice parmi d’autres, jamais la réponse entière.
 
 ## Dans une lecture {#dans-une-lecture}
 
-Je ne calcule pas cette part. Le système derrière mes lectures calcule deux parts, la Fortune et l’Esprit, et s’en sert pour la datation : une Part du père n’apparaît donc jamais dans ce que je vous envoie.
+Je ne calcule pas cette part. Le système derrière mes lectures calcule deux parts, la Fortune et l’Esprit, et s’en sert pour la datation : les seuls pères de mes lectures sont donc ceux que vous amenez dans la conversation.
 
 Les pères reviennent pourtant souvent dans une lecture, et quand c’est le cas, je lis l’adulte qui est en face de moi. Votre thème décrit votre vie : ce qu’il peut montrer, c’est la place du père telle que vous l’avez vécue, ce qu’on attendait de vous, comment la protection et l’autorité se faisaient sentir, ce que vous en avez gardé et ce que vous êtes encore en train de déposer. Pour cela, je regarde vos propres placements : la maison 4 pour les racines, [Saturne](/astrology/saturn/) pour les règles et la responsabilité, le [Soleil](/astrology/sun/) pour la façon dont vous avez appris à vous reconnaître.
 

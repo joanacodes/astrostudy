@@ -1,13 +1,15 @@
 ---
 title: "Sun conjunct Aldebaran"
 h1: "Sun conjunct Aldebaran in a birth chart"
-description: "Sun conjunct Aldebaran in a birth chart: born about 30–31 May, with the Sun on the Bull’s red eye, the star Ptolemy called the Torch. Its lore, its rarity, my view."
+description: "Sun conjunct Aldebaran in a birth chart: born about 30–31 May, with the Sun on the Bull’s red eye, Ptolemy’s Torch. Its lore, its rarity, and my view of it."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Aldebaran", "fixed stars"]
 weight: 2570
 glyph: "☉☌★"
-definition: "Sun conjunct Aldebaran means you were born with the Sun within 1° of Aldebaran, the red star in the eye of the Bull: a birthday on about 30 or 31 May, with the Sun in Gemini. Ptolemy called the star the Torch and likened it to Mars. I read the Sun first, as purpose and vitality, and the star as old lore."
+definition: "Sun conjunct Aldebaran means you were born with the Sun within 1° of Aldebaran, the red star in the eye of the Bull: a birthday on about 30 or 31 May, with the Sun in Gemini. Ptolemy called the star the Torch and likened it to Mars. I read the Sun first, as purpose and vitality."
 facts:
   - { k: "Planet", v: "The Sun ☉" }
   - { k: "Star", v: "Aldebaran, α Tauri: 9°47′ Gemini in 2000, 10°09′ Gemini in 2026" }
@@ -43,4 +45,4 @@ The royal-star story ties Aldebaran to the spring equinox, and that memory is ve
 
 By then the star has been out of sight for weeks. Its Latin name, Palilicium, comes from the Parilia, the feast of Pales on 21 April, around which Aldebaran sank into the evening twilight. On your birthday the Sun passes five and a half degrees north of it: together in the zodiac, well apart in the sky.
 
-The Torch has four other contacts, each with a character of its own: the [Moon conjunct Aldebaran](/astrology/moon-conjunct-aldebaran/), which Indian astronomy turned into a love story; [Venus conjunct Aldebaran](/astrology/venus-conjunct-aldebaran/), the rarest of the five; [Mars conjunct Aldebaran](/astrology/mars-conjunct-aldebaran/), Ptolemy's Mars-like star on Mars itself; and [Saturn conjunct Aldebaran](/astrology/saturn-conjunct-aldebaran/), which belongs to three stretches of births since 1942. None of them comes into my readings: the system I read with leaves stars out, so this page describes the contact and stops there ([How I read](/how-i-read/)). The [conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/) page explains how astrologers who use stars count it, within the wider tradition of [fixed stars in astrology](/astrology/fixed-stars-in-astrology/).
+The Torch has four other contacts, each with a character of its own: the [Moon conjunct Aldebaran](/astrology/moon-conjunct-aldebaran/), which Indian astronomy turned into a love story; [Venus conjunct Aldebaran](/astrology/venus-conjunct-aldebaran/), the rarest of the five; [Mars conjunct Aldebaran](/astrology/mars-conjunct-aldebaran/), Ptolemy's Mars-like star on Mars itself; and [Saturn conjunct Aldebaran](/astrology/saturn-conjunct-aldebaran/), which belongs to three stretches of births since 1942. None of them comes into my readings: the system I read with leaves stars out, so this page describes the contact and stops there ([How I read](/how-i-read/)). What I would read instead is the Sun's house: in Placidus, the system I use, the birth time places the Sun in one of twelve areas of life, and that says far more about where your energy goes than any star. The [conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/) page explains how astrologers who use stars count it, within the wider tradition of [fixed stars in astrology](/astrology/fixed-stars-in-astrology/).

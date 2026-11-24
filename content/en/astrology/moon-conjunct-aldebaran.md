@@ -1,10 +1,12 @@
 ---
 title: "Moon conjunct Aldebaran"
 h1: "Moon conjunct Aldebaran in a birth chart"
-description: "Moon conjunct Aldebaran in a birth chart: the Moon on the Bull’s red eye, Rohini in Indian astronomy. Its myth, why the birth time decides it, and how rare it is."
+description: "Moon conjunct Aldebaran in a birth chart: the Moon on the Bull’s red eye, Rohini in Indian astronomy. Its myth, why the birth time decides it, how rare it is."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Aldebaran", "fixed stars"]
 weight: 2571
 glyph: "☽☌★"
 definition: "Moon conjunct Aldebaran means the Moon was within 1° of Aldebaran, the red star in the eye of the Bull, at your birth. The Moon passes it monthly, for about four hours, so only the birth time can confirm it. In Indian astronomy the star is Rohini, the Moon god’s favourite; I read the Moon’s own sign and house."
@@ -37,7 +39,7 @@ I read the [Moon](/astrology/moon/) as the part of you that looks after your nee
 
 The mansions were personified as the daughters of Daksha, all married to Chandra, the Moon god. Chandra neglected the other twenty-six for Rohini, the story goes, and Daksha cursed him: ever since, the Moon has waxed and waned each month. It is a myth about attachment, which is the Moon's own subject, and I find it a lovely image for this contact. It describes a god's favourite, though, not yours: nothing about a star can tell anyone whom you will love or how.
 
-In the sky the meeting comes and goes with the years. Aldebaran lies five and a half degrees south of the ecliptic, right at the edge of the Moon's reach, so the Moon covers it only in runs of years set by the slow turning of its orbit. A run of 49 such occultations lasted from January 2015 to September 2018; in other years the Moon slides by to the north. An earlier one, watched from Athens on 11 March 509, mattered to astronomy: its timing led Edmund Halley to conclude in 1718 that Aldebaran had shifted since antiquity, one of the observations that showed the fixed stars move.
+In the sky the meeting comes and goes with the years. Aldebaran lies five and a half degrees south of the ecliptic, right at the edge of the Moon's reach, so the Moon covers it only in runs of years set by the slow turning of its orbit. A run of 49 such occultations lasted from January 2015 to September 2018, each visible only from the northern hemisphere or near the equator; in other years the Moon slides by to the north. An earlier one, watched from Athens on 11 March 509, mattered to astronomy: its timing led Edmund Halley to conclude in 1718 that Aldebaran had shifted since antiquity, one of the observations that showed the fixed stars move.
 
 Inside a chart the window is narrow. The Moon is within a degree of the star for about four hours, and only an accurate birth time can say whether yours fell in them; the same time decides which house the meeting lands in ([what changes without a birth time](/blog/unknown-birth-time/)). For births from 1930 to 2009, the Moon on Aldebaran sits at about 8° to 11° Gemini ([Moon in Gemini](/astrology/moon-in-gemini/)). That sign, with the Moon's house and aspects, carries what I read. The star stays out of my readings, which run on a system with no stars in it.
 

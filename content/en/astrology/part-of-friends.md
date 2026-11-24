@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Arabic parts"]
 weight: 17
 glyph: "✦"
-definition: "The Part of Friends is the lot tradition kept for friends, allies and helpers, a calculated degree that sits beside the 11th house, the old Good Spirit. It depends on the birth time. It can’t name, test or choose a friend: a friendship lives between two charts, not in one degree."
+definition: "The Part of Friends is the lot tradition kept for friends, allies and helpers, a calculated degree that sits beside the 11th house, the old Good Spirit, and shifts with the birth time. It can’t name, test or choose a friend: a friendship lives between two charts, not in one degree."
 facts:
   - { k: "Type", v: "A lot: a degree calculated from the chart" }
   - { k: "Kept for", v: "Friends, allies and helpers" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/11th-house", "/astrology/part-of-siblings", "/astrology/part-of-travel", "/astrology/charts-for-friends-colleagues-and-family", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What is the Part of Friends in astrology?"
-    a: "It is the lot kept for friends, allies and the people who help you: a calculated degree, read beside the 11th house, which tradition called the Good Spirit. Without an exact birth time it can’t be placed, and with one it still can’t tell you who your friends are."
+    a: "A calculated point that traditional astrology devoted to friends, allies and the people who help you, read alongside the 11th house. Without an exact birth time it can’t be placed, and with one it still can’t tell you who your friends are."
   - q: "Can the Part of Friends tell me who my real friends are?"
     a: "No. A degree in your chart knows nothing about another person’s loyalty, and no placement can vet, rank or name a friend. What a chart can describe is how you make friends and what you hope for from them; whether a particular friendship holds depends on two people, not on a point."
   - q: "What is the difference between the Part of Friends and the 11th house?"
-    a: "The 11th house is a whole sector of the chart: friends, groups, networks and hopes, the house tradition called the Good Spirit. The lot is one calculated degree, kept for friends, which can fall in any house. Astrologers who use it read the two side by side."
+    a: "The 11th house is a whole sector of the chart: friends, groups, networks and hopes, the house tradition called the Good Spirit. The lot, by contrast, is a single point, which can land in any house at all, and it adds to the 11th rather than replacing it."
   - q: "How can astrology look at a friendship?"
     a: "By comparing two charts, not by reading a lot in one of them. Between two adult friends who both agree, synastry looks at how one person’s planets meet the other’s, in both directions. It describes how you tend to get on, never whether the friendship should continue."
 sources:
@@ -49,7 +49,7 @@ Whatever its two points, the clock moves it: a quarter of an hour's error in the
 
 If your software shows a Part of Friends, three things are worth checking before you read anything into it:
 
-1. **Which two points it uses.** The help pages should name them; this site doesn't, for want of a source I could check.
+1. **Which two points it uses.** The help pages should name them; I can't, having found no source to confirm them.
 2. **What it does at night.** Many lots swap their two points for a night birth, which puts the lot on the other side of the Ascendant, at the same distance.
 3. **Which house system is set.** The degree stays the same in every system, but the house can change, and I read houses in Placidus.
 
@@ -57,7 +57,7 @@ Those who use the lot start from its house: a Part of Friends in the 7th, say, w
 
 ## In a reading {#in-a-reading}
 
-Friendship reaches my readings through the 11th house, never through this lot: my system draws none but Fortune and Spirit. I read that house as belonging rather than popularity: the people you gather with, the causes you join, what you hope to build together. The house describes how you make friends. It doesn't produce them, and it can't promise them.
+Friendship reaches my readings through the 11th house, never through this lot: my system draws none but Fortune and Spirit. I read that house as belonging rather than popularity: the people you gather with, the causes you join, what you hope to build together. That house shows how you make friends; it doesn't produce them, and it can't promise them.
 
 A particular friendship is another matter, because it belongs to two people. Between two adult friends who both want to look at it, I'd compare their two charts, a [synastry](/synastry/) read in both directions ([charts for friends, colleagues and family](/astrology/charts-for-friends-colleagues-and-family/)). Both have to know and agree ([synastry and consent](/blog/synastry-behind-their-back/)). And no comparison will tell you whether a friend is loyal; that's something two people find out by living it.
 
