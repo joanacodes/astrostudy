@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Gemini", "decans"]
 weight: 28
 glyph: "♊"
-definition: "The first decan of Gemini, 0° to 10° Gemini, receives the Sun from about 21 to 31 May, just after it leaves Taurus. Mercury rules it by sign and by element, and Jupiter, ruler of the opposite sign, holds its face. I read a planet here as Gemini’s curiosity with a pull towards the larger picture."
+definition: "The first decan of Gemini, 0° to 10° Gemini, receives the Sun from about 21 to 31 May, just after it leaves Taurus. Mercury rules it by sign and by element, and Jupiter, ruler of the opposite sign, holds its face. Gemini’s curiosity, for a planet here, comes with a pull towards the larger picture."
 facts:
   - { k: "Degrees", v: "0°–10° Gemini" }
   - { k: "Face (Chaldean)", v: "Jupiter" }

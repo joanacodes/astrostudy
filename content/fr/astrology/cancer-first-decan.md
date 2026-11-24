@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Cancer", "décans"]
 weight: 31
 glyph: "♋"
-definition: "Le premier décan du Cancer va de 0° à 10° du Cancer, à partir du solstice de juin ; le Soleil s’y trouve du 21 juin au 1er juillet environ. La Lune le gouverne par le signe et par l’élément, Vénus par la face. Dans les listes tardives des décans égyptiens, le compte commençait ici, avec Sothis, l’étoile Sirius."
+definition: "Le premier décan du Cancer commence au solstice de juin et va de 0° à 10° du Cancer : ce sont les degrés du Soleil du 21 juin au 1er juillet environ. Vénus y a sa face, la Lune le signe et le décan. Les listes tardives des décans égyptiens commençaient ici leur compte, avec Sothis, l’étoile Sirius."
 facts:
   - { k: "Degrés", v: "0°–10° Cancer" }
   - { k: "Face (chaldéenne)", v: "Vénus" }
@@ -24,7 +24,7 @@ faq:
   - q: "Quelles sont les dates du premier décan du Cancer ?"
     a: "Du 21 juin au 1er juillet environ, du solstice de juin jusqu’à ce que le Soleil atteigne 10° Cancer. En 2026, le solstice tombe le 21 juin à 8 h 25 UT et le Soleil quitte le décan le 1er juillet à 20 h 04 UT ; en 2027, le 21 juin à 14 h 10 UT et le 2 juillet à 1 h 48 UT."
   - q: "Quelle planète gouverne le premier décan du Cancer ?"
-    a: "La Lune par l’élément, parce que les décans modernes donnent les dix premiers degrés d’un signe à son propre maître, et Vénus par la face, dans la table chaldéenne de Lilly. Avec une planète dans ces degrés, je lis d’abord la Lune, qui gouverne à la fois le signe et le décan, puis Vénus."
+    a: "Deux planètes se le partagent. Vénus y tient la face dans la table chaldéenne de Lilly, et la Lune, maîtresse du Cancer, garde le décan dans la liste moderne : la Lune gouverne donc ces degrés deux fois. Dans une lecture, la Lune vient en premier et Vénus ensuite."
   - q: "De quel décan partait le compte égyptien ?"
     a: "De Sothis, l’étoile Sirius, que les listes zodiacales des décans placent au début du Cancer. Son lever avant l’aube marquait le nouvel an égyptien et la crue du Nil. Budge transcrit son nom égyptien Sepṭet ; les auteurs grecs et latins ont gardé Sothis."
 sources:
@@ -33,11 +33,11 @@ sources:
   - { title: "E. A. Wallis Budge, The Gods of the Egyptians (1904), et Wilhelm Gundel, Dekane und Dekansterbilder (1936), cités dans Wikipedia — Decan", url: "https://en.wikipedia.org/wiki/Decan", note: "Sepṭet, Sothis et la place du décan en tête de la suite ; le lever de Sirius et le nouvel an" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes et le Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991)", note: "les dates du Soleil, les années d’Uranus et de Saturne, le temps de lever à 51,5° nord, la position de Menkalinan" }
 ---
-Le premier décan du Cancer commence au solstice de juin et va de 0° à 10° du signe. La Lune le gouverne deux fois, par le signe et par l’élément, et Vénus y tient la face ; dans les listes qui ont ajusté les décans égyptiens au zodiaque, c’est ici que leur compte commençait.
+Le solstice de juin marque le premier degré du premier décan du Cancer : le Soleil l’atteint le jour le plus long de l’année boréale et passe les dix jours suivants à traverser le décan.
 
 ## Ses maîtres {#ses-maitres}
 
-Après la face du Soleil à la fin des Gémeaux, l’ordre chaldéen passe à [Vénus](/astrology/venus/) : les [faces](/astrology/faces/) de Lilly ouvrent donc le [Cancer](/astrology/cancer/) avec elle. Les décans modernes donnent le premier décan d’un signe à son propre maître, et la maîtresse du Cancer, c’est la [Lune](/astrology/moon/).
+[Vénus](/astrology/venus/) tient la face : dans la table des [faces](/astrology/faces/) de Lilly, la suite chaldéenne passe du Soleil, dernier des Gémeaux, à Vénus, première du [Cancer](/astrology/cancer/). La liste moderne laisse le décan à la [Lune](/astrology/moon/), maîtresse du Cancer, qui tient donc ces degrés par le signe comme par le décan.
 
 Une planète placée dans ces degrés prend donc d’abord le ton de la Lune : la protection et le soin du Cancer, le besoin de se sentir en sécurité et de veiller sur les autres. La face y ajoute le sens de Vénus pour ce qui vaut la peine d’être gardé près de soi. Je regarde le signe et la maison de votre Lune avant tout, puis votre Vénus.
 
@@ -51,8 +51,8 @@ Les listes plus tardives ont ajouté leurs propres figures. Cosmas de Maïouma a
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le Soleil est ici pour les naissances du 21 juin au 1er juillet environ ([Soleil en Cancer](/astrology/sun-in-cancer/)). En 2026, il atteint 0° Cancer, le solstice de juin, le 21 juin à 8 h 25 UT, et 10° le 1er juillet à 20 h 04 UT ([solstices et équinoxes](/astrology/solstices-and-equinoxes/)). Une naissance le 20 ou le 21 juin peut avoir le Soleil à la fin des Gémeaux ([Gémeaux, troisième décan](/astrology/gemini-third-decan/)).
+Le Soleil traverse ces degrés pour les naissances du 21 juin au 1er juillet environ ([Soleil en Cancer](/astrology/sun-in-cancer/)), à partir du solstice lui-même : en 2026, le solstice a eu lieu le 21 juin à 8 h 25 UT, et le Soleil a atteint 10° le 1er juillet à 20 h 04 UT ([solstices et équinoxes](/astrology/solstices-and-equinoxes/)). Une personne née le 20 ou le 21 juin peut encore avoir un Soleil en Gémeaux ([Gémeaux, troisième décan](/astrology/gemini-third-decan/)).
 
 À partir d’ici, vus de l’hémisphère nord, les signes se lèvent lentement. À la latitude de Londres, ces dix degrés mettent environ trois quarts d’heure à franchir l’horizon, plus de deux fois plus que le premier décan du Bélier ([Ascendant Cancer](/astrology/cancer-rising/)).
 
-L’étoile fixe [Menkalinan](/astrology/menkalinan/), β Aurigae, est passée en Cancer en 2006 et se tient à 0°16′ en 2026, tout au début du décan. Uranus a occupé ces degrés pour les naissances de juin 1949 à juillet 1951 et y revient de 2032 à 2035 ; Saturne a traversé le décan en 1944-1945, 1973-1974 et 2003-2004. Une planète lente ici, comme tout placement, décrit la façon dont quelque chose tend à fonctionner en vous, jamais ce qui va vous arriver ([ma méthode](/how-i-read/)).
+La précession a fait passer l’étoile fixe [Menkalinan](/astrology/menkalinan/), β Aurigae, des Gémeaux au Cancer en 2006 : en 2026, elle se trouve à 0°16′ Cancer, tout au début du décan. Pour Uranus, les années de naissance vont de juin 1949 à juillet 1951, avec un retour prévu de 2032 à 2035 ; pour Saturne, ce sont 1944-1945, 1973-1974 et 2003-2004. Une planète lente ici, comme tout placement, décrit la façon dont quelque chose tend à fonctionner en vous, jamais ce qui va vous arriver ([ma méthode](/how-i-read/)).

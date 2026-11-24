@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/taurus", "/astrology/sun-in-taurus", "/astrology/taurus-second-decan", "/astrology/moon-in-taurus", "/astrology/hamal"]
 faq:
   - q: "Quelles sont les dates du premier décan du Taureau ?"
-    a: "Les dix premiers jours du Soleil en Taureau, du 20 au 29 avril environ. Le Taureau a commencé à 1 h 39 UT le 20 avril 2026 et le deuxième décan à 8 h 04 UT le 30 avril ; un an plus tard, les deux moments arrivent environ cinq heures et demie plus tard, et le 30 avril peut tomber d’un côté ou de l’autre de la limite."
+    a: "Du 20 au 29 avril environ, quand le Soleil commence le Taureau. Le Taureau a commencé à 1 h 39 UT le 20 avril 2026 et le deuxième décan à 8 h 04 UT le 30 avril ; un an plus tard, les deux moments arrivent environ cinq heures et demie plus tard, et le 30 avril peut tomber d’un côté ou de l’autre de la limite."
   - q: "Quelle planète gouverne le premier décan du Taureau ?"
     a: "Cela dépend de la liste. Les faces chaldéennes passent directement de Vénus, à la fin du Bélier, à Mercure, qui a donc la face ; le système par élément donne le décan à Vénus, maîtresse du Taureau. Vénus, qui tient le signe et le décan moderne, est la planète que je lis en premier."
   - q: "La Lune est-elle exaltée dans le premier décan du Taureau ?"

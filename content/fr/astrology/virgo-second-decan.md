@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Vierge", "décans"]
 weight: 38
 glyph: "♍"
-definition: "Le deuxième décan de la Vierge va de 10° à 20° de la Vierge, où le Soleil se trouve du 3 au 12 septembre environ. Vénus y a sa face et Saturne le gouverne par l’élément, sous Mercure, qui gouverne le signe. Il contient aussi le degré d’exaltation de Mercure, et les trois rencontres d’Uranus et de Pluton en 1965-1966."
+definition: "La rencontre d’Uranus et de Pluton a été exacte trois fois dans le deuxième décan de la Vierge, de 10° à 20°, en 1965-1966, et le degré d’exaltation de Mercure s’y trouve aussi ; le Soleil le parcourt du 3 au 12 septembre environ. Sous Mercure, maître du signe, Vénus a la face et Saturne le décan."
 facts:
   - { k: "Degrés", v: "10°–20° Vierge" }
   - { k: "Face (chaldéenne)", v: "Vénus" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/virgo", "/astrology/uranus-conjunct-pluto", "/astrology/venus-in-virgo", "/astrology/virgo-first-decan", "/astrology/virgo-third-decan"]
 faq:
   - q: "Quelles sont les dates du deuxième décan de la Vierge ?"
-    a: "Du 3 au 12 septembre environ. En 2026, le Soleil atteint 10° Vierge le 2 septembre à 10 h 53 UT et 20° le 12 septembre à 18 h 08 UT ; en 2027, à 16 h 41 et 23 h 58 UT les mêmes jours. Une naissance le 2 ou le 12 septembre demande son heure avant qu’on puisse nommer le décan."
+    a: "Du 3 au 12 septembre environ, avec le degré d’exaltation de Mercure le 6 ou le 7. Chaque bord du décan tombe à la même date deux années de suite, le 2 et le 12 septembre, mais l’heure change : 10 h 53 et 18 h 08 UT en 2026, 16 h 41 et 23 h 58 UT en 2027. Le 2 et le 12 restent donc incertains sans l’heure."
   - q: "Quelles planètes gouvernent le deuxième décan de la Vierge ?"
-    a: "Vénus par la face, dans la table chaldéenne de Lilly, et Saturne par l’élément, au titre du Capricorne, le signe de terre suivant. Mercure gouverne la Vierge elle-même. Une planète ici répond donc à Mercure pour son signe, et à Vénus ou à Saturne pour son décan, selon la liste suivie."
+    a: "La face appartient à Vénus, dans la table chaldéenne de Lilly, et le décan à Saturne, par l’élément, au titre du Capricorne, le signe de terre suivant. Mercure gouverne la Vierge elle-même et passe en premier dans une lecture."
   - q: "Quelles naissances ont Uranus et Pluton dans le deuxième décan de la Vierge ?"
     a: "La plupart des naissances de l’automne 1964 à l’automne 1966. Uranus a traversé ces degrés d’août 1964 à septembre 1966 et Pluton de juillet 1963 à novembre 1966, et leur rencontre a été exacte trois fois : en octobre 1965, en avril 1966 et en juin 1966."
 sources:
@@ -34,30 +34,30 @@ sources:
   - { title: "Exaltation", page: "/astrology/exaltation", note: "le degré d’exaltation de Mercure, d’après O. Neugebauer et H. B. van Hoesen, Greek Horoscopes (1959)" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les dates du Soleil, les rencontres d’Uranus et de Pluton, les années des planètes lentes, le transit de Jupiter, l’éclipse de mars 2026" }
 ---
-Le deuxième décan de la Vierge va de 10° à 20° du signe : les jours du Soleil au début de septembre. Il contient le degré d’exaltation de Mercure, et les trois rencontres exactes d’Uranus et de Pluton des années 1960.
+Les trois rencontres exactes d’Uranus et de Pluton des années 1960 ont eu lieu au milieu de la Vierge, sur des degrés qui contiennent aussi l’exaltation de Mercure. Ces degrés forment le deuxième décan de la Vierge, de 10° à 20° du signe, et le Soleil s’y trouve au début de septembre.
 
 ## Ses maîtres {#ses-maitres}
 
-L’ordre chaldéen fait suivre le Soleil de [Vénus](/astrology/venus/) : les [faces](/astrology/faces/) de Lilly donnent donc le milieu de la [Vierge](/astrology/virgo/) à la planète que la tradition place ici en [chute](/astrology/fall/), en face de son exaltation dans les Poissons. Par l’élément, les décans modernes donnent le milieu d’un signe de terre à la planète qui gouverne le signe de terre suivant, le Capricorne : [Saturne](/astrology/saturn/).
+[Vénus](/astrology/venus/) suit le Soleil dans l’ordre chaldéen : dans la table des [faces](/astrology/faces/) de Lilly, la face du milieu de la [Vierge](/astrology/virgo/) revient donc à une planète en [chute](/astrology/fall/) dans ce signe, à l’opposé de son exaltation dans les Poissons. Le décan, par l’élément, appartient à [Saturne](/astrology/saturn/), maître du Capricorne, le signe de terre qui suit la Vierge.
 
-Sous Mercure, le décan répond donc à Vénus ou à Saturne : ce qui vaut la peine d’être gardé, dans une liste, et ce qui tiendra dans le temps, dans l’autre. Avec une planète ici, je lis d’abord votre Mercure, puisque Mercure gouverne le signe, puis, de Vénus et de Saturne, la planète qui ressort le plus dans votre thème.
+Sous Mercure, le décan répond donc à Vénus ou à Saturne : ce qui vaut la peine d’être gardé, dans une liste, et ce qui tiendra dans le temps, dans l’autre. Votre Mercure, qui gouverne le signe, reçoit mon premier regard, puis, de Vénus et de Saturne, la planète qui ressort le plus dans votre thème.
 
 [Vénus en Vierge](/astrology/venus-in-virgo/), entre 10° et 20°, est en chute par le signe et dans sa propre face : un amour qui se montre par l’attention et le soin concret, avec la face comme petit point d’appui dans un signe qui, sinon, ne favorise pas Vénus.
 
-Mercure a aussi sa marque dans le décan. Les anciennes tables placent son degré d’exaltation au 15e de la Vierge ([exaltation](/astrology/exaltation/)) : [Mercure en Vierge](/astrology/mercury-in-virgo/), entre 14° et 15°, se tient dans son propre signe, sur son propre degré d’exaltation, dans un décan dont les maîtres sont d’autres planètes.
+Le 15e degré de la Vierge porte un honneur de plus pour Mercure : les anciennes tables y placent le degré d’exaltation de Mercure ([exaltation](/astrology/exaltation/)). [Mercure en Vierge](/astrology/mercury-in-virgo/), entre 14° et 15°, réunit en un seul endroit son signe et son degré d’exaltation, tandis que le décan lui-même répond à Vénus et à Saturne.
 
 ## Son image {#son-image}
 
-La paire de noms de Budge se referme ici : Themat-khert suit le Themat-ḥert du décan précédent ([Vierge, premier décan](/astrology/virgo-first-decan/)). Les listes gréco-égyptiennes écrivent Uste-bikot, la liste hermétique grecque Brysous ; Firmicus Maternus a Tophicus, ou Tropicus, Joseph Scaliger Thopitus, et le *Testament de Salomon* Ieropaêl.
+Themat-khert, chez Budge, répond au Themat-ḥert du décan précédent ([Vierge, premier décan](/astrology/virgo-first-decan/)). Uste-bikot est le nom gréco-égyptien, et Brysous le nom hermétique grec. Le Tophicus, ou Tropicus, de Firmicus Maternus et le Thopitus de Joseph Scaliger sont proches voisins, et le *Testament de Salomon* ajoute Ieropaêl.
 
-Cosmas de Maïouma a placé les Moires sur ces degrés, les Parques du mythe grec, et Athanasius Kircher Piosiris. Les Parques sont la seule image que je tiens fermement à l’écart d’une lecture : un thème montre comment vous avez tendance à avancer, jamais un fil déjà filé ([les décans égyptiens](/astrology/egyptian-decans/)).
+Les Moires, les Parques du mythe grec, sont le choix de Cosmas de Maïouma pour ces degrés, et Piosiris celui d’Athanasius Kircher. Les Parques sont la seule image que je tiens fermement à l’écart d’une lecture : un thème montre comment vous avez tendance à avancer, jamais un fil déjà filé ([les décans égyptiens](/astrology/egyptian-decans/)).
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le Soleil se trouve ici pour les naissances du 3 au 12 septembre environ ([Soleil en Vierge](/astrology/sun-in-virgo/)). En 2026, il atteint 10° Vierge le 2 septembre à 10 h 53 UT et 20° le 12 septembre à 18 h 08 UT, et il passe sur le degré d’exaltation de Mercure vers les 6 et 7 septembre.
+Le Soleil est dans ce décan pour les naissances du 3 au 12 septembre environ ([Soleil en Vierge](/astrology/sun-in-virgo/)), et sur le degré d’exaltation de Mercure pour celles des 6 et 7 septembre environ.
 
-La rencontre d’Uranus et de Pluton a été exacte trois fois dans ce décan : le 9 octobre 1965 à 17°10′ Vierge, le 4 avril 1966 à 16°27′ et le 30 juin 1966 à 16°06′ ([Uranus conjonction Pluton](/astrology/uranus-conjunct-pluto/)). Uranus a occupé ces degrés d’août 1964 à septembre 1966, Pluton de juillet 1963 à novembre 1966 : beaucoup de personnes nées dans ces années portent les deux ici. Neptune a traversé le décan plus tôt, pour les naissances de juin 1934 à octobre 1937, et Saturne en 1949-1950, 1978-1979 et 2008-2009.
+La rencontre d’Uranus et de Pluton a été exacte trois fois dans ce décan : le 9 octobre 1965 à 17°10′ Vierge, le 4 avril 1966 à 16°27′ et le 30 juin 1966 à 16°06′ ([Uranus conjonction Pluton](/astrology/uranus-conjunct-pluto/)). Uranus se trouvait dans ces degrés d’août 1964 à septembre 1966 et Pluton de juillet 1963 à novembre 1966 : beaucoup de personnes nées dans ces années portent les deux ici. Neptune les avait traversés plus tôt, pour les naissances de juin 1934 à octobre 1937, et Saturne a suivi en 1949-1950, 1978-1979 et 2008-2009.
 
 L’éclipse totale de Lune du 3 mars 2026 est tombée à 12°51′ Vierge ([Éclipse en Vierge](/astrology/eclipse-in-virgo/)), et Jupiter traverse le décan du 11 septembre au 29 octobre 2027, puis d’avril à juin 2028.
 
-Saturne, qui gouverne le décan par l’élément, fait partie des trois placements qui ont tenu le plus souvent dans mes tests, de 75 à 90 % du temps ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)). La place de votre Saturne mérite un regard attentif chaque fois que ce décan contient quelque chose de vous. Dix degrés plus loin, Mercure prend la face ([Vierge, troisième décan](/astrology/virgo-third-decan/)).
+Saturne, qui gouverne le décan par l’élément, fait partie des trois placements qui ont tenu le plus souvent dans mes tests, de 75 à 90 % du temps ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)). La place de votre Saturne mérite un regard attentif chaque fois que ce décan contient quelque chose de vous. La face de Mercure vient ensuite, dans les dix derniers degrés du signe ([Vierge, troisième décan](/astrology/virgo-third-decan/)).

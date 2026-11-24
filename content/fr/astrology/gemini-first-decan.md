@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Gémeaux", "décans"]
 weight: 28
 glyph: "♊"
-definition: "Le premier décan des Gémeaux, de 0° à 10° des Gémeaux, reçoit le Soleil du 21 au 31 mai environ, juste après sa sortie du Taureau. Mercure le gouverne par le signe et par l’élément, et Jupiter, qui gouverne le signe opposé, y a sa face. J’y lis la curiosité des Gémeaux, tirée vers une vue plus large."
+definition: "Le premier décan des Gémeaux, de 0° à 10°, reçoit le Soleil du 21 au 31 mai environ, au sortir du Taureau. Mercure le gouverne par le signe et par l’élément, et Jupiter, qui gouverne le signe opposé, y a sa face. La curiosité des Gémeaux, pour une planète ici, s’accompagne d’un élan vers une vue plus large."
 facts:
   - { k: "Degrés", v: "0°–10° Gémeaux" }
   - { k: "Face (chaldéenne)", v: "Jupiter" }

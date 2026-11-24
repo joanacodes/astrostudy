@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/taurus", "/astrology/sun-in-taurus", "/astrology/taurus-second-decan", "/astrology/moon-in-taurus", "/astrology/hamal"]
 faq:
   - q: "What are the dates of the first decan of Taurus?"
-    a: "The first ten days of the Taurus Sun, about 20 to 29 April. Taurus began at 01:39 UT on 20 April 2026 and the second decan at 08:04 UT on 30 April; a year later both moments come about five and a half hours later, so 30 April can land on either side of the line."
+    a: "About 20 to 29 April, as the Sun begins Taurus. Taurus began at 01:39 UT on 20 April 2026 and the second decan at 08:04 UT on 30 April; a year later both moments come about five and a half hours later, so 30 April can land on either side of the line."
   - q: "Who rules the first decan of Taurus?"
     a: "It depends on the list. The Chaldean faces run straight on from Venus at the end of Aries to Mercury, so Mercury has the face; the element scheme gives the decan to Venus, Taurus’s own ruler. Venus, holding both the sign and the modern decan, is the planet I read first."
   - q: "Is the Moon exalted in the first decan of Taurus?"

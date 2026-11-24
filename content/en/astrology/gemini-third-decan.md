@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Gemini", "decans"]
 weight: 30
 glyph: "♊"
-definition: "The third decan of Gemini, 20° to 30° Gemini, is the last stretch before the June solstice, with the Sun there from about 11 to 20 June. The Sun holds its face; by element it goes to Aquarius’s rulers, Uranus in modern tropical astrology and Saturn in the tradition, and I read both."
+definition: "The third decan of Gemini, 20° to 30° Gemini, leads up to the June solstice, with the Sun there from about 11 to 20 June. The Sun holds its face; by element it goes to Aquarius’s rulers, Uranus in modern tropical astrology and Saturn in the tradition, and I read both."
 facts:
   - { k: "Degrees", v: "20°–30° Gemini" }
   - { k: "Face (Chaldean)", v: "The Sun" }
@@ -44,16 +44,16 @@ The Sun's face adds a centre to all that air. [Sun in Gemini](/astrology/sun-in-
 
 ## Its image {#its-image}
 
-Budge's list closes its Saḥ names here. This decan is A-Saḥ, and after it comes an entry that belongs to no sign at all, Saḥ alone, a thirty-seventh name, before Sothis opens the count again at the start of Cancer. Saḥ's constellation took in the stars of Orion ([Taurus, third decan](/astrology/taurus-third-decan/)).
+Budge's list closes its Saḥ names here. This decan is A-Saḥ, and after it comes an entry that belongs to no sign at all, Saḥ alone, a thirty-seventh name, before Sothis opens the count again at the start of Cancer. Behind all these names stands the god of a constellation that took in Orion and Lepus ([Taurus, third decan](/astrology/taurus-third-decan/)).
 
-The Greco-Egyptian lists write Phu-hor. Firmicus Maternus gives Tepis, or Atosoae, and Joseph Scaliger runs the two together as Tepisatosoa; the *Testament of Solomon* has Kourtael. Cosmas of Maiuma's figure is Praxidike, and Athanasius Kircher's a Titan ([the Egyptian decans](/astrology/egyptian-decans/)).
+Phu-hor is the Greco-Egyptian form. Firmicus Maternus gives Tepis, or Atosoae, and Joseph Scaliger runs the two together as Tepisatosoa, while Kourtael is the name in the *Testament of Solomon*. Cosmas of Maiuma's figure is Praxidike, and Athanasius Kircher's a Titan ([the Egyptian decans](/astrology/egyptian-decans/)).
 
 ## In a birth chart {#in-a-birth-chart}
 
-Births in the ten days before the June solstice, from about 11 to 20 June, have the Sun here, on the zodiac degrees of Orion's brightest stars. In 2026 it came in at 21:14 UT on 10 June and left at the solstice itself, 08:25 UT on 21 June, when it reached 0° Cancer; the 2027 dates run nearly six hours later. Around the 21st, the time of birth decides between Gemini and the first decan of Cancer ([Cancer, first decan](/astrology/cancer-first-decan/), [what changes without a birth time](/blog/unknown-birth-time/)).
+In the ten days before the June solstice, from about 11 to 20 June, the Sun stands on the zodiac degrees of Orion's brightest stars. In 2026 it came in at 21:14 UT on 10 June and left at the solstice itself, 08:25 UT on 21 June, when it reached 0° Cancer; the 2027 dates run nearly six hours later. Around the 21st, the time of birth decides between Gemini and the first decan of Cancer ([Cancer, first decan](/astrology/cancer-first-decan/), [what changes without a birth time](/blog/unknown-birth-time/)).
 
 Of the fixed stars this site describes, more stand in these ten degrees than in any other decan: Bellatrix at 21°18′ Gemini in 2026, Capella at 22°13′, the three stars of [Orion's belt](/astrology/orions-belt/) between 22°43′ and 25°02′, El Nath at 22°56′, Polaris at 28°55′ and [Betelgeuse](/astrology/betelgeuse/) at 29°07′, which crosses into Cancer around 2090. Many lie far from the Sun's path, so they share a planet's zodiac degree without ever passing near it.
 
-Uranus belonged to these degrees for births from May 1947 to August 1948, with shorter stays on either side, and returns from 2030 to 2033; Saturn came through in 1943–44, 1972–74 and 2002–03. The partial eclipse of the Sun on 12 June 2029 falls at 21°29′ Gemini, and the total eclipse of the Moon on 20 December 2029 at 29°18′: weather for any chart with something in these degrees, not a forecast.
+Uranus belonged to these degrees for births from May 1947 to August 1948, with shorter stays on either side, and returns from 2030 to 2033; Saturn came through in 1943–44, 1972–74 and 2002–03. Two eclipses of 2029 land here, the Sun's, partial, on 12 June at 21°29′ Gemini, and the Moon's, total, on 20 December at 29°18′: weather for any chart with something in these degrees, not a forecast.
 
 The middle of the sign belongs to Mars and Venus ([Gemini, second decan](/astrology/gemini-second-decan/)); here the decan rulers are the Sun and Aquarius's pair.

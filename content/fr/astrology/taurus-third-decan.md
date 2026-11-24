@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Taureau", "décans"]
 weight: 27
 glyph: "♉"
-definition: "Le troisième décan du Taureau est la dernière étape avant les Gémeaux, de 20° à 30° du Taureau, et le Soleil y passe du 11 au 20 mai environ. Saturne le gouverne par la face et par l’élément, sous Vénus, maîtresse du signe. J’y lis le Taureau, avec la patience et le sens de la structure de Saturne en plus."
+definition: "Le troisième décan du Taureau, de 20° à 30°, précède les Gémeaux, et le Soleil y passe du 11 au 20 mai environ. Saturne le gouverne par la face et par l’élément, sous Vénus, maîtresse du signe. Une planète ici, c’est pour moi le Taureau plus la patience et le sens de la structure de Saturne."
 facts:
   - { k: "Degrés", v: "20°–30° Taureau" }
   - { k: "Face (chaldéenne)", v: "Saturne" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/taurus", "/astrology/saturn-in-taurus", "/astrology/algol", "/astrology/taurus-second-decan", "/astrology/gemini-first-decan"]
 faq:
   - q: "Quelles sont les dates du troisième décan du Taureau ?"
-    a: "À la mi-mai, du 11 au 20 mai environ. Le Soleil est arrivé à 15 h 50 UT le 10 mai 2026 et il est passé en Gémeaux à 0 h 37 UT le 21 mai ; les passages de 2027 ont environ cinq heures et demie de retard. Pour une naissance le 20 ou le 21, l’heure tranche le signe."
+    a: "À la mi-mai, du 11 au 20 mai environ. Le Soleil est arrivé à 15 h 50 UT le 10 mai 2026 et il est passé en Gémeaux à 0 h 37 UT le 21 mai ; les passages de 2027 tombent à 21 h 22 UT le 10 mai et à 6 h 17 UT le 21 mai. Pour une naissance le 20 ou le 21, l’heure tranche le signe."
   - q: "Quelle planète gouverne le troisième décan du Taureau ?"
     a: "Saturne, quel que soit le système : l’ordre chaldéen y arrive après Mercure et la Lune, et les décans modernes donnent le décan à Saturne au titre du Capricorne, le dernier signe de terre. Vénus garde le signe : je la lis pour la part Taureau, et Saturne pour ces dix degrés."
   - q: "Algol est-elle dans le troisième décan du Taureau ?"
@@ -48,7 +48,7 @@ Saturne compte aussi pour moi pour une autre raison. Dans mes tests, les placeme
 
 Le nom égyptien fait entrer Orion dans le tableau. Budge le transcrit Remen-ḥeru-an-Saḥ, et Saḥ était le dieu d’une constellation qui comprenait les étoiles d’Orion et du Lièvre, le compagnon de Sopdet, la déesse de Sirius. Dans la liste de Budge, quatre décans, d’ici à la fin des Gémeaux, portent son nom, et un cinquième, Saḥ tout court, les suit avant que Sothis ne relance le compte. Quelles étoiles désignait chaque décan, c’est une autre affaire : les spécialistes des tables d’étoiles égyptiennes disent qu’on ne le sait pas ([les décans égyptiens](/astrology/egyptian-decans/)).
 
-Les listes plus tardives vont ailleurs. Les listes gréco-égyptiennes écrivent Remen-hare, Firmicus Maternus Romanae ou Arfa, et le *Testament de Salomon* Sphendonael. Cosmas de Maïouma y a mis les Litai, les Prières, et Athanasius Kircher Apopis, le serpent du mythe égyptien.
+Les listes plus tardives vont ailleurs. Les listes gréco-égyptiennes ont Remen-hare, proche de la forme de Budge. Firmicus Maternus propose deux noms, Romanae et Arfa, et le *Testament de Salomon* un troisième, Sphendonael. Cosmas de Maïouma y a mis les Litai, les Prières, et Athanasius Kircher Apopis, le serpent du mythe égyptien.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 

@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Cancer", "décans"]
 weight: 32
 glyph: "♋"
-definition: "Le deuxième décan du Cancer va de 10° à 20° du Cancer, où le Soleil se trouve du 2 au 11 juillet environ. Mercure y a sa face ; par l’élément, il revient aux deux maîtres du Scorpion, Pluton et Mars, et je lis les deux. Il contient aussi le degré d’exaltation de Jupiter et, aujourd’hui, l’étoile Sirius."
+definition: "Le deuxième décan du Cancer, de 10° à 20° du Cancer, porte le Soleil du 2 au 11 juillet environ et contient à la fois le degré zodiacal de Sirius et le degré d’exaltation de Jupiter. Mercure y a sa face ; par l’élément, le décan revient aux deux maîtres du Scorpion, Pluton et Mars, et je lis les deux."
 facts:
   - { k: "Degrés", v: "10°–20° Cancer" }
   - { k: "Face (chaldéenne)", v: "Mercure" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/cancer", "/astrology/sirius", "/astrology/jupiter-in-cancer", "/astrology/cancer-first-decan", "/astrology/cancer-third-decan"]
 faq:
   - q: "Quand a lieu le deuxième décan du Cancer ?"
-    a: "Du 2 au 11 juillet environ. En 2026, le Soleil atteint 10° Cancer le 1er juillet à 20 h 04 UT et 20° le 12 juillet à 7 h 46 UT ; en 2027, le 2 juillet à 1 h 48 UT et le 12 juillet à 13 h 27 UT. Une naissance le 1er, le 2, le 11 ou le 12 juillet demande son heure exacte avant qu’on puisse nommer le décan."
+    a: "Du 2 au 11 juillet environ, avec le degré de Sirius vers les 5 et 6 juillet. En 2026, l’entrée du Soleil a eu lieu à 20 h 04 UT le 1er juillet et sa sortie à 7 h 46 UT le 12 juillet ; en 2027, elles tombent à 1 h 48 UT le 2 juillet et à 13 h 27 UT le 12 juillet. Pour une naissance le 1er, le 2, le 11 ou le 12, il faut l’heure exacte pour connaître le décan."
   - q: "Quelle planète gouverne le deuxième décan du Cancer ?"
-    a: "Mercure par la face, dans l’ordre chaldéen, et les maîtres du Scorpion par l’élément : Pluton en astrologie tropicale moderne et Mars dans la tradition. La Lune gouverne le Cancer lui-même. Une planète ici répond donc à la Lune pour son signe, et à Mercure, ou à Pluton et Mars, pour son décan."
+    a: "Trois planètes, sous la Lune, qui gouverne le Cancer. La table chaldéenne de Lilly donne la face à Mercure ; par l’élément, le décan revient au Scorpion, dont le maître est Pluton en astrologie tropicale moderne et Mars dans la tradition, et je lis les deux."
   - q: "Sirius est-elle dans le deuxième décan du Cancer ?"
     a: "Oui. Dans le zodiaque tropical, Sirius se trouve à 14°26′ Cancer en 2026, et le Soleil passe sur son degré vers les 5 et 6 juillet. L’étoile est à près de 40° au sud de la route du Soleil : une planète peut partager son degré du zodiaque sans jamais s’en approcher dans le ciel."
 sources:
@@ -34,28 +34,28 @@ sources:
   - { title: "Exaltation", page: "/astrology/exaltation", note: "le degré d’exaltation de Jupiter, d’après O. Neugebauer et H. B. van Hoesen, Greek Horoscopes (1959)" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes et le Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991)", note: "les dates du Soleil, les années de Pluton, d’Uranus et de Saturne, les éclipses de 2028 et 2029, la position de Sirius et de Canopus" }
 ---
-Le deuxième décan du Cancer va de 10° à 20° du signe : les dix premiers jours de juillet pour le Soleil. Il contient le degré d’exaltation de Jupiter et, dans le zodiaque actuel, Sirius, l’étoile la plus brillante du ciel nocturne.
+Sirius, l’étoile la plus brillante du ciel nocturne, a aujourd’hui son degré zodiacal au milieu du Cancer, tout comme l’exaltation de Jupiter. Les deux tombent dans le deuxième décan du Cancer, de 10° à 20° du signe, que le Soleil traverse dans les dix premiers jours de juillet.
 
 ## Ses maîtres {#ses-maitres}
 
-Les [faces](/astrology/faces/) de Lilly le donnent à [Mercure](/astrology/mercury/), qui suit Vénus dans l’ordre chaldéen. Les décans modernes donnent le milieu d’un signe d’eau au maître du signe d’eau suivant, le Scorpion, qui en a deux : [Pluton](/astrology/pluto/) en astrologie tropicale moderne, Mars dans la tradition. Je lis les deux.
+La table des [faces](/astrology/faces/) de Lilly passe de Vénus à [Mercure](/astrology/mercury/) pour la face. Par l’élément, le décan passe au Scorpion, le signe d’eau suivant, que l’astrologie tropicale moderne attribue à [Pluton](/astrology/pluto/) et la tradition à Mars ; je lis les deux.
 
-Une planète placée dans ces degrés répond donc d’abord à la Lune, qui gouverne le [Cancer](/astrology/cancer/), puis à Mercure, ou à Pluton et Mars, selon la liste. Par Mercure, elle met des mots sur ce qu’elle ressent et nomme ce dont elle a besoin ; par Pluton, elle va sous la surface et réorganise ; par Mars, elle agit pour protéger ce qui compte. Je regarde les trois dans votre thème avant de laisser parler le décan, et je dis de quelle liste vient chaque remarque.
+La Lune, qui gouverne le [Cancer](/astrology/cancer/), passe toujours en premier pour une planète placée ici ; le décan renvoie ensuite à Mercure, ou à Pluton et à Mars, selon la liste. Par Mercure, une telle planète met des mots sur ce qu’elle ressent et nomme ce dont elle a besoin ; par Pluton, elle va sous la surface et réorganise ; par Mars, elle agit pour protéger ce qui compte. Je regarde les trois dans votre thème avant de laisser parler le décan, et je dis de quelle liste vient chaque remarque.
 
-Jupiter a aussi son mot à dire ici. Les anciennes tables placent le degré exact de son [exaltation](/astrology/exaltation/) au 15e du Cancer, entre 14° et 15° : [Jupiter en Cancer](/astrology/jupiter-in-cancer/), sur ce degré, se tient là où la tradition honorait Jupiter le plus, dans un décan gouverné par d’autres planètes.
+La marque de Jupiter, ici, tient en un seul degré. Le 15e du Cancer, de 14° à 15°, est l’endroit où les anciennes tables placent le sommet de son [exaltation](/astrology/exaltation/) : [Jupiter en Cancer](/astrology/jupiter-in-cancer/), sur ce degré, occupe le degré le plus honoré que la tradition lui ait donné, même si aucune des deux listes de maîtres de décan ne nomme Jupiter.
 
 ## Son image {#son-image}
 
-Le nom égyptien de Budge est Ṭepā-Kenmut, le premier des trois décans nommés d’après Kenmut, une suite qui se prolonge jusqu’au premier décan du Lion. Les listes gréco-égyptiennes écrivent Seta, Firmicus Maternus Sith, Joseph Scaliger Syth ; le *Testament de Salomon* a Katanikotael.
+Kenmut donne son nom à trois décans de suite dans la liste de Budge, et celui-ci est le premier, Ṭepā-Kenmut ; la série s’achève au début du Lion. Les autres listes suivent un autre fil : Seta dans les listes gréco-égyptiennes, Sith chez Firmicus Maternus et Syth chez Joseph Scaliger, tandis que le *Testament de Salomon* donne un nom plus long, Katanikotael.
 
 Deux figures plus tardives se font face de part et d’autre de la limite avec le décan suivant. Cosmas de Maïouma a donné à celui-ci Héraclès et au suivant Hécate, tandis qu’Athanasius Kircher, en 1652, a placé Hécate ici, un décan plus tôt ([Cancer, troisième décan](/astrology/cancer-third-decan/)). Les listes se contredisent librement, une raison de plus pour que je les traite comme de l’histoire ([les décans égyptiens](/astrology/egyptian-decans/)).
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le Soleil se trouve ici pour les naissances du 2 au 11 juillet environ ([Soleil en Cancer](/astrology/sun-in-cancer/)). En 2026, il atteint 10° Cancer le 1er juillet à 20 h 04 UT et 20° le 12 juillet à 7 h 46 UT. Il passe sur Sirius vers les 5 et 6 juillet, et l’étoile se trouve dans le 15e degré du Cancer, celui de l’exaltation de Jupiter.
+Le décan couvre les anniversaires du 2 au 11 juillet environ ([Soleil en Cancer](/astrology/sun-in-cancer/)) ; le Soleil de 2026 s’y est trouvé du 1er juillet à 20 h 04 UT au 12 juillet à 7 h 46 UT. Vers les 5 et 6 juillet, il passe sur Sirius, dont le degré, le 15e du Cancer, est aussi celui de l’exaltation de Jupiter.
 
 [Sirius](/astrology/sirius/) se trouve à 14°26′ Cancer en 2026 et [Canopus](/astrology/canopus/) à 15°19′, mais toutes deux sont loin au sud de la route du Soleil, Canopus de près de 76°. Une planète ici partage leur degré du zodiaque sans passer près d’aucune des deux. Le décan précédent porte l’ancien nom égyptien de Sirius ([Cancer, premier décan](/astrology/cancer-first-decan/)).
 
-Pluton traversait ces degrés au moment de sa découverte, en 1930 ; Pluton les quitte en août de cette année-là et y revient au gré de ses boucles rétrogrades jusqu’au printemps 1932 ([Pluton en Cancer](/astrology/pluto-in-cancer/)). Uranus les a occupés pour les naissances de juillet 1951 à juillet 1953, Saturne en 1944-1946, 1974-1975 et 2003-2004. L’éclipse totale de Lune du 31 décembre 2028 tombe à 10°34′ Cancer, et l’éclipse partielle de Soleil du 11 juillet 2029 à 19°37′ ([Éclipse en Cancer](/astrology/eclipse-in-cancer/)).
+Pluton traversait ces degrés au moment de sa découverte, en 1930 ; Pluton les quitte en août de cette année-là et y revient au gré de ses boucles rétrogrades jusqu’au printemps 1932 ([Pluton en Cancer](/astrology/pluto-in-cancer/)). Uranus a eu son tour pour les naissances de juillet 1951 à juillet 1953, Saturne en 1944-1946, 1974-1975 et 2003-2004. La Lune est totalement éclipsée à 10°34′ Cancer le 31 décembre 2028, et le Soleil partiellement éclipsé à 19°37′ le 11 juillet 2029 ([Éclipse en Cancer](/astrology/eclipse-in-cancer/)).
 
 Dans [mon carnet](/blog/i-tested-my-birth-chart/), Mercure, la planète de cette face, faisait partie des placements qui ont tenu environ une fois sur trois ; les placements de Pluton et de Mars, vérifiés comme tout le reste, n’étaient pas parmi les trois qui ont tenu bien plus souvent. Je garde donc à la voix du décan un ton léger, et je laisse les planètes qui s’y trouvent parler par leur propre signe et leur propre maison.

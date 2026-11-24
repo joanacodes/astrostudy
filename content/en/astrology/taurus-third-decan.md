@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Taurus", "decans"]
 weight: 27
 glyph: "♉"
-definition: "The third decan of Taurus is the last stretch before Gemini, 20° to 30° Taurus, and the Sun spends about 11 to 20 May in it. Saturn rules it by face and by element, under Venus as ruler of the sign. I read a planet here as Taurus with Saturn’s patience and sense of structure added."
+definition: "The third decan of Taurus is the last stretch before Gemini, 20° to 30° Taurus, and the Sun spends about 11 to 20 May in it. Saturn rules it by face and by element, under Venus as ruler of the sign. To me, a planet here is Taurus with Saturn’s patience and sense of structure added."
 facts:
   - { k: "Degrees", v: "20°–30° Taurus" }
   - { k: "Face (Chaldean)", v: "Saturn" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/taurus", "/astrology/saturn-in-taurus", "/astrology/algol", "/astrology/taurus-second-decan", "/astrology/gemini-first-decan"]
 faq:
   - q: "What are the dates of the third decan of Taurus?"
-    a: "Mid-May, from about 11 to 20 May. The Sun arrived at 15:50 UT on 10 May 2026 and moved into Gemini at 00:37 UT on 21 May, and the 2027 crossings run about five and a half hours later. For a birth on the 20th or 21st, the time decides the sign."
+    a: "Mid-May, from about 11 to 20 May. The Sun arrived at 15:50 UT on 10 May 2026 and moved into Gemini at 00:37 UT on 21 May; the 2027 crossings come at 21:22 UT on 10 May and 06:17 UT on 21 May. For a birth on the 20th or 21st, the time decides the sign."
   - q: "Which planet rules the third decan of Taurus?"
     a: "Saturn, whichever system you use: the Chaldean order reaches it after Mercury and the Moon, and the modern decans give it the decan as ruler of Capricorn, the last earth sign. Venus keeps the sign, so I read her for the Taurus part and Saturn for these ten degrees."
   - q: "Is Algol in the third decan of Taurus?"
@@ -47,7 +47,7 @@ Saturn also matters to me for another reason. In my tests, Saturn's placements h
 
 The Egyptian name brings Orion into the picture. Budge transliterates it Remen-ḥeru-an-Saḥ, and Saḥ was the god of a constellation that took in the stars of Orion and Lepus, the consort of Sopdet, goddess of Sirius. In Budge's list, four decans from here to the end of Gemini carry his name, and a fifth, Saḥ alone, follows them before Sothis opens the count again. Which stars each decan stood for is another matter: scholars of the Egyptian star tables say it is not known ([the Egyptian decans](/astrology/egyptian-decans/)).
 
-The later lists go elsewhere. The Greco-Egyptian ones write Remen-hare, Firmicus Maternus Romanae or Arfa, and the *Testament of Solomon* Sphendonael. Cosmas of Maiuma put the Litai here, the Prayers, and Athanasius Kircher Apopis, the serpent of Egyptian myth.
+The later lists go elsewhere. The Greco-Egyptian ones have Remen-hare, close to Budge's form. Firmicus Maternus offers two names, Romanae and Arfa, and the *Testament of Solomon* a third, Sphendonael. Cosmas of Maiuma put the Litai here, the Prayers, and Athanasius Kircher Apopis, the serpent of Egyptian myth.
 
 ## In a birth chart {#in-a-birth-chart}
 

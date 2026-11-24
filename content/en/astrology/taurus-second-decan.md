@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Taurus", "decans"]
 weight: 26
 glyph: "♉"
-definition: "The second decan of Taurus is the middle of the sign, 10° to 20° Taurus, and the Sun’s ground from about 30 April to 10 May. The Moon, exalted in Taurus, holds its face; Mercury, as ruler of Virgo, its decan. I read a planet here as Taurus with a second voice: the Moon’s needs or Mercury’s reasoning."
+definition: "The second decan of Taurus is the middle of the sign, 10° to 20° Taurus, and the Sun’s ground from about 30 April to 10 May. The Moon, exalted in Taurus, holds its face; Mercury, as ruler of Virgo, its decan. A planet here speaks Taurus with a second voice: the Moon’s needs or Mercury’s reasoning."
 facts:
   - { k: "Degrees", v: "10°–20° Taurus" }
   - { k: "Face (Chaldean)", v: "The Moon" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/taurus", "/astrology/moon-in-taurus", "/astrology/taurus-first-decan", "/astrology/taurus-third-decan", "/astrology/sun-in-taurus"]
 faq:
   - q: "When is the second decan of Taurus?"
-    a: "In early May: from about 30 April to 10 May. The 2026 boundaries came at 08:04 UT on 30 April and 15:50 UT on 10 May, the 2027 ones at 13:44 and 21:22 UT, so either of those dates can belong to this decan or to a neighbour."
+    a: "In early May: from about 30 April to 10 May. The decan opened at 08:04 UT on 30 April 2026 and closed at 15:50 UT on 10 May, with 13:44 and 21:22 UT the 2027 times, so either of those dates can belong to this decan or to a neighbour."
   - q: "What planet rules the second decan of Taurus?"
     a: "The Moon by face and Mercury by element. The Moon, exalted in Taurus, gets one of its five faces here; Mercury takes the decan as ruler of Virgo, the earth sign after Taurus. Under Venus, who rules the sign, I give more weight to whichever of the two is better placed."
   - q: "Is the Moon strong in the second decan of Taurus?"

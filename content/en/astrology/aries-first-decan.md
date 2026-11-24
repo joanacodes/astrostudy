@@ -46,7 +46,7 @@ The Sun is exalted in Aries, but it has to wait: its exaltation degree and its f
 
 ## Its image {#its-image}
 
-Egypt started counting somewhere else. Its sequence of decans opened with Sothis, the star Sirius, at the start of Cancer, which makes the zodiac's first decan Egypt's twenty-eighth: Khent-kheru, as E. A. Wallis Budge transliterated it in 1904. the Greco-Egyptian lists give Chont-har; Firmicus Maternus, in the fourth century, called it Senator; Athanasius Kircher, in 1652, gave it to Arueris, a form of Horus. In the list of Cosmas of Maiuma every decan carries the name of a god or a personification, and this one is Aidoneus, another name for Hades; Persephone, his queen, takes the next.
+Egypt started counting somewhere else. Its sequence of decans opened with Sothis, the star Sirius, at the start of Cancer, which makes the zodiac's first decan Egypt's twenty-eighth: Khent-kheru, as E. A. Wallis Budge transliterated it in 1904. The Greco-Egyptian lists give Chont-har; Firmicus Maternus, in the fourth century, called it Senator; Athanasius Kircher, in 1652, gave it to Arueris, a form of Horus. In the list of Cosmas of Maiuma every decan carries the name of a god or a personification, and this one is Aidoneus, another name for Hades; Persephone, his queen, takes the next.
 
 Medieval magic drew pictures as well: the *Picatrix* describes images of the decans for making talismans ([the Egyptian decans](/astrology/egyptian-decans/)). Those pictures reach me only through translations I haven't been able to check line by line, so I don't repeat them second-hand.
 

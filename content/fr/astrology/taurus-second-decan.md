@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Taureau", "décans"]
 weight: 26
 glyph: "♉"
-definition: "Le deuxième décan du Taureau en est le milieu, de 10° à 20° du Taureau, et le terrain du Soleil du 30 avril au 10 mai environ. La Lune, exaltée en Taureau, y a sa face ; Mercure le décan, au titre de la Vierge. J’y lis une deuxième voix : les besoins de la Lune ou le raisonnement de Mercure."
+definition: "Le deuxième décan du Taureau en est le milieu, de 10° à 20°, et le terrain du Soleil du 30 avril au 10 mai environ. La Lune, exaltée en Taureau, y a sa face ; Mercure le décan, au titre de la Vierge. Une deuxième voix s’y fait entendre : les besoins de la Lune ou le raisonnement de Mercure."
 facts:
   - { k: "Degrés", v: "10°–20° Taureau" }
   - { k: "Face (chaldéenne)", v: "La Lune" }
