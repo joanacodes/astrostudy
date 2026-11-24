@@ -16,7 +16,7 @@ facts:
   - { k: "By triplicity", v: "Mars, the ruler of Aries" }
   - { k: "The Sun there", v: "About 2 to 11 December" }
   - { k: "Fixed stars (2026)", v: "Antares at 10°07′, Ras Algethi at 16°31′, Sabik at 18°20′" }
-  - { k: "Time to rise", v: "About 50 minutes in Paris, 51 in London" }
+  - { k: "Rising time", v: "About 50 minutes in Paris, 51 in London" }
   - { k: "Cosmas’s name", v: "Kore, the Maiden" }
 related: ["/astrology/sagittarius", "/astrology/moon-in-sagittarius", "/astrology/sagittarius-first-decan", "/astrology/sagittarius-third-decan", "/astrology/antares"]
 faq:

@@ -40,7 +40,7 @@ Les Poissons commencent sous Saturne, la planète de la forme, dans le signe que
 
 Après la face de la Lune à la fin du Verseau ([Verseau, troisième décan](/astrology/aquarius-third-decan/)), l’[ordre chaldéen](/astrology/chaldean-order/) repart du début, et la première face des [Poissons](/astrology/pisces/) revient à Saturne ([faces](/astrology/faces/)). Les trois faces du Lion reviennent ici dans le même ordre : Saturne, Jupiter ([Poissons, deuxième décan](/astrology/pisces-second-decan/)) et Mars. Ce sont les deux seuls signes dont les trois faces reviennent toutes aux planètes situées au-dessus du Soleil dans l’ancien ordre des cieux. [Saturne en Poissons](/astrology/saturn-in-pisces/) gagne dans ces degrés sa propre face.
 
-Les décans modernes donnent les dix premiers degrés aux maîtres des Poissons, Jupiter dans la tradition et Neptune dans l’astrologie tropicale moderne. Je lis les deux, et entre ce duo et Saturne le décan porte une vraie tension : deux planètes qui élargissent et adoucissent, et une qui donne forme. J’y lis une compassion qui a un cadre, un soin qui sait où il s’arrête.
+Dans les décans modernes, le premier tiers des Poissons reste aux deux maîtres du signe, Jupiter dans la tradition et Neptune dans l’astrologie tropicale moderne. Je lis les deux, et entre ce duo et Saturne le décan porte une vraie tension : deux planètes qui élargissent et adoucissent, et une qui donne forme. J’y lis une compassion qui a un cadre, un soin qui sait où il s’arrête.
 
 ## Son image {#son-image}
 

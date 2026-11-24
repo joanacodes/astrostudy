@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Balance", "décans"]
 weight: 41
 glyph: "♎"
-definition: "Le deuxième décan de la Balance va de 10° à 20° du signe, la portion que le Soleil traverse du 3 au 12 octobre environ. Saturne le gouverne deux fois : comme face dans l’ordre chaldéen, et par le Verseau dans les décans modernes, où Uranus partage la maîtrise. Ici, le sens de l’équité veut des règles qui durent."
+definition: "Le deuxième décan de la Balance, de 10° à 20° du signe, appartient deux fois à Saturne, et le Soleil le traverse du 3 au 12 octobre environ. Les faces chaldéennes le donnent à Saturne, et les décans modernes aussi, par le Verseau, où Uranus partage la maîtrise. Ici, le sens de l’équité veut des règles qui durent."
 facts:
   - { k: "Degrés", v: "10°–20° Balance" }
   - { k: "Face (chaldéenne)", v: "Saturne" }
@@ -18,7 +18,7 @@ facts:
   - { k: "Le Soleil y passe", v: "Du 3 au 12 octobre environ" }
   - { k: "Saturne ici", v: "En exaltation, et dans sa propre face" }
   - { k: "Étoiles fixes (2026)", v: "Vindemiatrix à 10°18′, Algorab à 13°48′" }
-  - { k: "Décan égyptien", v: "Ṭepā-khentet, dans la liste de Wallis Budge" }
+  - { k: "Nom égyptien", v: "Ṭepā-khentet, dans la liste de Wallis Budge" }
 related: ["/astrology/libra", "/astrology/saturn-in-libra", "/astrology/libra-first-decan", "/astrology/libra-third-decan", "/astrology/faces"]
 faq:
   - q: "Quelles sont les dates du deuxième décan de la Balance ?"

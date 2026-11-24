@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Aquarius", "decans"]
 weight: 53
 glyph: "♒"
-definition: "The second decan of Aquarius spans 10° to 20° of the sign, the Sun’s ground from about 30 January to 8 February. It is the one decan Mercury rules in both systems: as the Chaldean face, and through Gemini in the modern decans. Aquarius’s own rulers, Saturn and Uranus, frame it."
+definition: "The second decan of Aquarius, from 10° to 20°, is the only one Mercury rules in both systems, and the Sun is in it from about 30 January to 8 February. Mercury holds the Chaldean face and, through Gemini, the modern decan; Aquarius’s own rulers, Saturn and Uranus, frame it."
 facts:
   - { k: "Degrees", v: "10°–20° Aquarius" }
   - { k: "Face (Chaldean)", v: "Mercury" }
@@ -17,7 +17,7 @@ facts:
   - { k: "The Sun there", v: "About 30 January to 8 February" }
   - { k: "Mercury here", v: "Face and modern decan at once, the only such decan for Mercury" }
   - { k: "Rulers of the sign", v: "Saturn and Uranus" }
-  - { k: "Egyptian decan", v: "Kher-khept-sert, in Wallis Budge’s list" }
+  - { k: "Egyptian name", v: "Kher-khept-sert, in Wallis Budge’s list" }
 related: ["/astrology/aquarius", "/astrology/mercury-in-aquarius", "/astrology/aquarius-first-decan", "/astrology/aquarius-third-decan", "/astrology/faces"]
 faq:
   - q: "When is the second decan of Aquarius?"

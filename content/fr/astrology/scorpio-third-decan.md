@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Scorpion", "décans"]
 weight: 45
 glyph: "♏"
-definition: "Le troisième décan du Scorpion, de 20° à 30°, ferme le signe ; le Soleil y passe du 13 au 21 novembre environ. Vénus le gouverne comme face, la Lune dans les décans modernes par le Cancer : deux astres que le Scorpion affaiblit, Vénus en exil et la Lune en chute. J’y lis une intensité tournée vers le soin."
+definition: "Le troisième décan du Scorpion, de 20° à 30°, clôt le signe ; le Soleil le franchit du 13 au 21 novembre environ. Vénus le gouverne comme face, la Lune dans les décans modernes par le Cancer : deux astres que le Scorpion affaiblit, Vénus en exil et la Lune en chute. J’y lis une intensité tournée vers le soin."
 facts:
   - { k: "Degrés", v: "20°–30° Scorpion" }
   - { k: "Face (chaldéenne)", v: "Vénus" }
@@ -18,11 +18,11 @@ facts:
   - { k: "Le Soleil y passe", v: "Du 13 au 21 novembre environ" }
   - { k: "Les deux maîtres en Scorpion", v: "Vénus en exil, la Lune en chute" }
   - { k: "Étoile fixe (2026)", v: "Unukalhai à 22°26′" }
-  - { k: "Décan égyptien", v: "Sapt-khennu, dans la liste de Wallis Budge" }
+  - { k: "Nom égyptien", v: "Sapt-khennu, dans la liste de Wallis Budge" }
 related: ["/astrology/scorpio", "/astrology/venus-in-scorpio", "/astrology/moon-in-scorpio", "/astrology/scorpio-second-decan", "/astrology/sagittarius-first-decan"]
 faq:
   - q: "Quelles sont les dates du troisième décan du Scorpion ?"
-    a: "Le Soleil s’y trouve du 13 au 21 novembre environ, en parcourant les dix derniers degrés du Scorpion, de 20° à 30°. À l’autre bout, un anniversaire le 21 ou le 22 novembre peut tomber d’un côté ou de l’autre de la frontière avec le Sagittaire, et c’est l’heure de naissance qui tranche."
+    a: "Le Soleil traverse la fin du Scorpion du 13 au 21 novembre environ. Au bout du décan, l’entrée du Soleil dans le Sagittaire tombe vers le 21 ou le 22 novembre selon les années : pour une naissance l’un de ces jours-là, seule l’heure dit dans quel signe il se trouvait."
   - q: "Quelles planètes gouvernent le troisième décan du Scorpion ?"
     a: "Vénus, comme face dans l’ordre chaldéen, et la Lune dans les décans modernes par élément, qui donnent le dernier tiers du Scorpion au Cancer. Le Scorpion affaiblit l’une et l’autre : Vénus y est en exil, la Lune en chute. Le signe garde ses deux maîtres, Mars et Pluton, et je lis les deux."
   - q: "Vénus est-elle faible dans le troisième décan du Scorpion ?"

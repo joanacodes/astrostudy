@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/aquarius", "/astrology/moon-in-aquarius", "/astrology/aquarius-second-decan", "/astrology/pisces-first-decan", "/astrology/sadalsuud"]
 faq:
   - q: "Quand a lieu le troisième décan du Verseau ?"
-    a: "Du 9 au 18 février environ. C’est le moment où le Soleil couvre les dix derniers degrés du Verseau ; la frontière avec les Poissons se déplace de quelques heures par an, si bien qu’un anniversaire le 18 ou le 19 février se règle par l’heure de naissance, pas par la date."
+    a: "Le Soleil occupe les dix derniers degrés du Verseau à la mi-février, du 9 au 18 environ. Les Poissons commencent vers le 18 ou le 19 selon l’année et le fuseau horaire, et pour une naissance l’un de ces deux jours, il faut l’heure pour départager les deux signes."
   - q: "Quelle planète gouverne le troisième décan du Verseau ?"
     a: "La Lune, comme face dans l’ordre chaldéen, et Vénus dans les décans modernes, qui confient le dernier tiers d’un signe d’air au signe d’air pas encore employé, ici la Balance. Saturne et Uranus, les maîtres du signe, restent dans le cadre : je lis les deux, autour du duo du décan."
   - q: "Que veut dire le troisième décan du Verseau ?"
     a: "Les idéaux du Verseau avec une main plus chaleureuse, c’est ainsi que je lis un Soleil né du 9 au 18 février environ : la face de la Lune ajoute ce dont les gens ont besoin, le décan de Vénus ce à quoi ils tiennent. La cause compte, et les personnes qui la portent aussi."
   - q: "Quelles étoiles se trouvent dans le troisième décan du Verseau ?"
-    a: "Sadalsuud, l’étoile la plus brillante de la constellation du Verseau, à 23°45′, et Deneb Algedi, la queue de la chèvre-poisson, à 23°54′, en 2026. Deneb Algedi se trouve à moins de 3° de la route du Soleil ; Sadalsuud, à environ 8,5° au nord."
+    a: "Sadalsuud, l’étoile la plus brillante de la constellation du Verseau, à 23°45′, et Deneb Algedi, la queue de la chèvre-poisson, à 23°54′, en 2026. Deneb Algedi frôle la route du Soleil, à moins de 3° ; Sadalsuud s’en écarte d’environ 8,5° vers le nord."
 sources:
   - { title: "William Lilly, Christian Astrology (1647), éd. Deborah Houlding (Ascella, 1999), p. 104–105, via Wikipédia en anglais, « Decan (astrology) »", url: "https://en.wikipedia.org/wiki/Decan_(astrology)", note: "la face de la Lune, et Vénus par la Balance dans les décans modernes" }
   - { title: "Wilhelm Gundel, Dekane und Dekansterbilder (J. J. Augustin, 1936), p. 77–81 et 353–354 ; E. A. Wallis Budge, The Gods of the Egyptians (Open Court, 1904) ; Athanasius Kircher, Oedipus Aegyptiacus (1652), via Wikipédia en anglais, « Decan »", url: "https://en.wikipedia.org/wiki/Decan", note: "Khukhu, Tepis, Osiris et Protée pour ces degrés" }

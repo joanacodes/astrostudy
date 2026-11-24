@@ -24,7 +24,7 @@ faq:
   - q: "Quand a lieu le premier décan du Verseau ?"
     a: "En gros du 20 au 29 janvier : le Soleil entre dans le Verseau vers le 20 janvier et atteint 10° du signe neuf jours plus tard environ. Les 19 et 20 janvier, la frontière avec le Capricorne est trop proche pour que la date suffise : il faut l’heure de naissance."
   - q: "Quelle planète gouverne le premier décan du Verseau ?"
-    a: "Vénus en tient la face dans l’ordre chaldéen. Dans les décans modernes, qui donnent les dix premiers degrés d’un signe à son propre maître, il revient aux deux maîtres du Verseau, Saturne dans la tradition et Uranus dans l’astrologie tropicale moderne. Je lis les deux, avec Vénus pour la face."
+    a: "Vénus en tient la face dans l’ordre chaldéen. Les décans modernes le laissent au Verseau lui-même, et donc à ses deux maîtres : Saturne pour la tradition, Uranus pour l’astrologie tropicale moderne. Je lis les deux, avec Vénus pour la face."
   - q: "Que veut dire le premier décan du Verseau ?"
     a: "Avec le Soleil ici, pour une naissance du 20 au 29 janvier environ, la façon dont le Verseau pense pour le groupe passe d’abord. La face de Vénus et les deux maîtres du signe la nuancent vers une équité qui se construit avec les autres : ce qu’un groupe estime, et comment bien le partager."
   - q: "Est-ce que Pluton se trouve dans le premier décan du Verseau ?"

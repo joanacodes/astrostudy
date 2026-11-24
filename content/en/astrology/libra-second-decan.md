@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Libra", "decans"]
 weight: 41
 glyph: "♎"
-definition: "The second decan of Libra runs from 10° to 20° of the sign, the stretch the Sun crosses from about 3 to 12 October. Saturn rules it twice: as its face in the Chaldean order, and through Aquarius in the modern decans, where Uranus shares the rule. Here Libra’s sense of fairness tends to want rules that last."
+definition: "The second decan of Libra, 10° to 20° of the sign, belongs to Saturn twice over, and the Sun crosses it from about 3 to 12 October. The Chaldean faces give it to Saturn, and so do the modern decans, through Aquarius, where Uranus shares the rule. Here Libra’s sense of fairness tends to want rules that last."
 facts:
   - { k: "Degrees", v: "10°–20° Libra" }
   - { k: "Face (Chaldean)", v: "Saturn" }
@@ -17,7 +17,7 @@ facts:
   - { k: "The Sun there", v: "About 3 to 12 October" }
   - { k: "Saturn here", v: "Exalted, and in its own face" }
   - { k: "Fixed stars (2026)", v: "Vindemiatrix at 10°18′, Algorab at 13°48′" }
-  - { k: "Egyptian decan", v: "Ṭepā-khentet, in Wallis Budge’s list" }
+  - { k: "Egyptian name", v: "Ṭepā-khentet, in Wallis Budge’s list" }
 related: ["/astrology/libra", "/astrology/saturn-in-libra", "/astrology/libra-first-decan", "/astrology/libra-third-decan", "/astrology/faces"]
 faq:
   - q: "What are the dates of the second decan of Libra?"

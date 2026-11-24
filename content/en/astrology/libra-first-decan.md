@@ -16,8 +16,8 @@ facts:
   - { k: "By triplicity", v: "Venus, the ruler of Libra" }
   - { k: "The Sun there", v: "About 23 September to 2 October" }
   - { k: "Begins at", v: "The September equinox" }
-  - { k: "Egyptian decan", v: "Bekathȧ, in Wallis Budge’s list" }
-  - { k: "Time to rise", v: "About 55 minutes in Paris, 57 in London" }
+  - { k: "Egyptian name", v: "Bekathȧ, in Wallis Budge’s list" }
+  - { k: "Rising time", v: "About 55 minutes in Paris, 57 in London" }
 related: ["/astrology/libra", "/astrology/faces", "/astrology/libra-second-decan", "/astrology/egyptian-decans", "/astrology/sun-in-libra"]
 faq:
   - q: "When is the first decan of Libra?"
@@ -25,7 +25,7 @@ faq:
   - q: "Which planet rules the first decan of Libra?"
     a: "It depends on the scheme. In the traditional faces, which follow the Chaldean order, the Moon rules it. In the modern decans, ruled by element, Venus does, because the first ten degrees of every sign go to the sign’s own ruler. I mention both, and give neither much weight on its own."
   - q: "What does a Sun in the first decan of Libra mean?"
-    a: "You were born with the Sun between 0° and 10° Libra, from about 23 September to 2 October. Libra’s way of working comes first: weighing, pairing, looking for a fair exchange. The decan adds a light shade, the Moon’s attention to how things feel, and never turns the Sun into another sign."
+    a: "Your Sun is in the first ten degrees after the September equinox, so you were born between about 23 September and 2 October. Libra’s way of working comes first: weighing, pairing, looking for a fair exchange. The decan adds a light shade, the Moon’s attention to how things feel, and never turns the Sun into another sign."
   - q: "Why does Libra start at the September equinox?"
     a: "Because the tropical zodiac is counted from the equinoxes. When the Sun crosses the celestial equator heading south in late September, it is at 0° Libra by definition. The constellation of Libra has drifted out of line since, but the sign stays tied to the season."
 sources:
@@ -55,6 +55,6 @@ A Sun here is a [Sun in Libra](/astrology/sun-in-libra/) born from about 23 Sept
 
 With any planet in these degrees I start from Libra's way of working, weighing one side against the other, and let the rulers tint it. Venus asks whether the exchange is fair; the Moon's face asks how it feels to the people inside it. Mercury here, for instance, tends to read the mood of a conversation before making its point.
 
-[Libra rising](/astrology/libra-rising/) in its first decan is a matter of minutes. At the latitude of Paris these ten degrees take about 55 minutes to cross the horizon, at London's about 57: Libra rises slowly, yet a time out by half an hour can still move the Ascendant into the next decan, and every house cusp with it. It's one reason I don't read a chart without the time ([what changes without a birth time](/blog/unknown-birth-time/)).
+[Libra rising](/astrology/libra-rising/) in its first decan is a matter of minutes. At the latitude of Paris these ten degrees take about 55 minutes to cross the horizon, at London's about 57: Libra rises slowly, yet a time out by half an hour can still move the Ascendant into the next decan, and every house cusp with it. The Ascendant's decan, like every house, depends on the time of birth, which is why I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Two slower bodies have lingered here. [Pluto in Libra](/astrology/pluto-in-libra/) crossed these degrees from late 1971 to 1976, looping back and forth at both ends, so most people born in those years share them, and only the house makes them personal. The fixed star [Vindemiatrix](/astrology/vindemiatrix/), Virgo's grape-gatherer, stood inside this decan until about 2005, at 9°56′ Libra in 2000; precession has since carried it to 10°18′, just over the line ([Libra, second decan](/astrology/libra-second-decan/)).

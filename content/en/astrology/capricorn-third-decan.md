@@ -16,8 +16,8 @@ facts:
   - { k: "By triplicity", v: "Mercury, the ruler of Virgo" }
   - { k: "The Sun there", v: "About 11 to 19 January" }
   - { k: "Mars’s exaltation degree", v: "The 28th of Capricorn, in this decan" }
-  - { k: "Egyptian decan", v: "Sert, in Wallis Budge’s list" }
-  - { k: "Time to rise", v: "About half an hour in Paris or London" }
+  - { k: "Egyptian name", v: "Sert, in Wallis Budge’s list" }
+  - { k: "Rising time", v: "About half an hour in Paris or London" }
 related: ["/astrology/capricorn", "/astrology/sun-in-capricorn", "/astrology/capricorn-second-decan", "/astrology/aquarius-first-decan", "/astrology/mars-in-capricorn"]
 faq:
   - q: "When is the third decan of Capricorn?"

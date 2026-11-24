@@ -9,14 +9,14 @@ categories: ["Signs"]
 tags: ["Sagittarius", "decans"]
 weight: 46
 glyph: "♐"
-definition: "The first decan of Sagittarius is the sign’s first ten degrees, home to the Sun from about 22 November to 1 December. Jupiter rules it in the modern decans, as it rules the sign; the traditional face is Mercury’s, in its detriment. Its Egyptian name is one of the few that can still be translated."
+definition: "The first decan of Sagittarius is the sign’s first ten degrees, home to the Sun from about 22 November to 1 December. Jupiter rules it in the modern decans, as it rules the sign; the traditional face is Mercury’s, in its detriment. Its Egyptian name can still be translated: “in the centre of the boat”."
 facts:
   - { k: "Degrees", v: "0°–10° Sagittarius" }
   - { k: "Face (Chaldean)", v: "Mercury" }
   - { k: "By triplicity", v: "Jupiter, the ruler of Sagittarius" }
   - { k: "The Sun there", v: "About 22 November to 1 December" }
   - { k: "Mercury here", v: "In detriment, and in its own face" }
-  - { k: "Egyptian decan", v: "Ḥer-ab-uȧa, “in the centre of the boat”" }
+  - { k: "Egyptian name", v: "Ḥer-ab-uȧa, “in the centre of the boat”" }
   - { k: "Fixed star", v: "Antares, at 9°45′ in 2000; 10°07′ in 2026" }
 related: ["/astrology/sagittarius", "/astrology/antares", "/astrology/mercury-in-sagittarius", "/astrology/sagittarius-second-decan", "/astrology/egyptian-decans"]
 faq:
@@ -30,10 +30,10 @@ faq:
     a: "For most adults alive today, yes. The star stood at 9°45′ Sagittarius in 2000 and crossed into the second decan around 2017, moving about a degree every 72 years; in 2026 it is at 10°07′. The Sun passes it on about 1 or 2 December."
 sources:
   - { title: "William Lilly, Christian Astrology (1647), ed. Deborah Houlding (Ascella, 1999), pp. 104–105, via Wikipedia, “Decan (astrology)”", url: "https://en.wikipedia.org/wiki/Decan_(astrology)", note: "Mercury’s face, and Jupiter’s decan in the modern scheme" }
-  - { title: "S. L. Symons, “A Star’s Year: The Annual Cycle in the Ancient Egyptian Sky”, in J. M. Steele (ed.), Calendars and Years (Oxbow Books, 2007), and E. A. Wallis Budge, The Gods of the Egyptians (Open Court, 1904), via Wikipedia, “Decan”", url: "https://en.wikipedia.org/wiki/Decan", note: "ḥry-ib wiꜣ, ‘in the centre of the boat’, Budge’s Ḥer-ab-uȧa, and the later forms of the name" }
+  - { title: "S. L. Symons, “A Star’s Year: The Annual Cycle in the Ancient Egyptian Sky”, in J. M. Steele (ed.), Calendars and Years (Oxbow Books, 2007); E. A. Wallis Budge, The Gods of the Egyptians (Open Court, 1904); Wilhelm Gundel, Dekane und Dekansterbilder (J. J. Augustin, 1936), pp. 77–81; Athanasius Kircher, Oedipus Aegyptiacus (1652), via Wikipedia, “Decan”", url: "https://en.wikipedia.org/wiki/Decan", note: "ḥry-ib wiꜣ, ‘in the centre of the boat’, Budge’s Ḥer-ab-uȧa, and the later names: Hre-ua, Eregbuo, Sebos, Clinothois, Tolmophta" }
   - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991)", note: "Antares in 1930, 2000 and 2026" }
 ---
-Sagittarius opens with a contradiction the old tables seem to enjoy: Mercury, a stranger in the sign, rules its first face. And the Egyptian decan behind these degrees is one of the very few whose name can still be read.
+Sagittarius opens with a contradiction the old tables seem to enjoy: Mercury, a stranger in the sign, rules its first face. And the Egyptian decan behind these degrees has a name that can still be read.
 
 ## Its rulers {#its-rulers}
 
@@ -43,9 +43,9 @@ The modern decans give the first ten degrees to the sign's own ruler, and Sagitt
 
 ## Its image {#its-image}
 
-This is one of the rare decans whose Egyptian name can be translated. Wallis Budge wrote it Ḥer-ab-uȧa; in the transliteration Egyptologists use today it is ḥry-ib wiꜣ, which the Egyptologist Sarah Symons gives as her example of a decan name we can read: "in the centre of the boat". Which stars made up that figure, she adds, is not known ([the Egyptian decans](/astrology/egyptian-decans/)).
+This is one of the decans whose Egyptian name can be translated. Wallis Budge wrote it Ḥer-ab-uȧa; in the transliteration Egyptologists use today it is ḥry-ib wiꜣ, which the Egyptologist Sarah Symons gives as her example of a decan name we can read: "in the centre of the boat". Which stars made up that figure, she adds, is not known ([the Egyptian decans](/astrology/egyptian-decans/)).
 
-The later lists give other forms of the name, without its meaning: Hre-ua in the Greek-Egyptian lists, Eregbuo or Ergbuo in [Firmicus Maternus](/astrology/firmicus-maternus/), Eregbuo again in Joseph Scaliger's sixteenth-century list. Few of the decans' names can be read as a picture at all; this one I can give you with a translation behind it.
+The later lists give other forms of the name, without its meaning: Hre-ua in the Greek-Egyptian lists, Eregbuo or Ergbuo in [Firmicus Maternus](/astrology/firmicus-maternus/), Eregbuo again in Joseph Scaliger's sixteenth-century list. Beside them stand Sebos and Clinothois, the decan's names in the Greek and the Latin Hermetic lists, and Tolmophta, which Athanasius Kircher gave it in 1652. Here, for once, I can give you an old name with a translation behind it.
 
 ## In a birth chart {#in-a-birth-chart}
 

@@ -18,7 +18,7 @@ facts:
   - { k: "Le Soleil y passe", v: "Du 1er au 10 mars environ, et le 29 février les années bissextiles" }
   - { k: "Jupiter ici", v: "Dans son domicile traditionnel et dans sa propre face" }
   - { k: "Étoile fixe (2026)", v: "Achernar à 15°40′" }
-  - { k: "Décan égyptien", v: "Khent-ḥeru, dans la liste de Wallis Budge" }
+  - { k: "Nom égyptien", v: "Khent-ḥeru, dans la liste de Wallis Budge" }
 related: ["/astrology/pisces", "/astrology/jupiter-in-pisces", "/astrology/pisces-first-decan", "/astrology/pisces-third-decan", "/astrology/achernar"]
 faq:
   - q: "Quand a lieu le deuxième décan des Poissons ?"

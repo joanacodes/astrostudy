@@ -18,7 +18,7 @@ facts:
   - { k: "Le Soleil y passe", v: "Du 23 octobre au 2 novembre environ" }
   - { k: "Mars ici", v: "Dans son domicile traditionnel et dans sa propre face" }
   - { k: "Pluton ici", v: "De novembre 1983 à l’été 1988, avec deux retours en arrière" }
-  - { k: "Décan égyptien", v: "Khentet-khert, dans la liste de Wallis Budge" }
+  - { k: "Nom égyptien", v: "Khentet-khert, dans la liste de Wallis Budge" }
 related: ["/astrology/scorpio", "/astrology/mars-in-scorpio", "/astrology/pluto-in-scorpio", "/astrology/scorpio-second-decan", "/astrology/faces"]
 faq:
   - q: "Quand a lieu le premier décan du Scorpion ?"

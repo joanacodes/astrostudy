@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Capricorn", "decans"]
 weight: 49
 glyph: "♑"
-definition: "The first decan of Capricorn opens at the December solstice and runs to 10° of the sign, holding the Sun from about 22 to 31 December. Saturn, Capricorn’s ruler, rules it in the modern decans; the traditional face is Jupiter’s, in its fall. A planet here meets Saturn twice, which is why I read it closely."
+definition: "The first decan of Capricorn begins where the Sun turns back north, at the December solstice, and the Sun crosses it from about 22 to 31 December. Saturn rules both the sign and, in the modern decans, this decan; the face goes to Jupiter, in its fall here. A planet in it meets Saturn twice."
 facts:
   - { k: "Degrees", v: "0°–10° Capricorn" }
   - { k: "Face (Chaldean)", v: "Jupiter" }

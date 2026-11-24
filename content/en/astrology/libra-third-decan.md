@@ -17,7 +17,7 @@ facts:
   - { k: "The Sun there", v: "About 13 to 22 October" }
   - { k: "Saturn’s exaltation degree", v: "The 21st of Libra, in this decan" }
   - { k: "Fixed stars (2026)", v: "Spica at 24°12′, Arcturus at 24°36′" }
-  - { k: "Egyptian decan", v: "Khentet-ḥert, in Wallis Budge’s list" }
+  - { k: "Egyptian name", v: "Khentet-ḥert, in Wallis Budge’s list" }
 related: ["/astrology/libra", "/astrology/spica", "/astrology/libra-second-decan", "/astrology/scorpio-first-decan", "/astrology/born-on-the-cusp"]
 faq:
   - q: "What are the dates of the third decan of Libra?"

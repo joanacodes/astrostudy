@@ -18,13 +18,13 @@ facts:
   - { k: "Le Soleil y passe", v: "Du 3 au 12 novembre environ" }
   - { k: "Le Soleil ici", v: "Dans sa propre face, sa seule dignité en Scorpion" }
   - { k: "Étoiles fixes (2026)", v: "Alphecca à 12°39′, Zubenelgenubi à 15°26′, Zubeneschamali à 19°44′" }
-  - { k: "Décan égyptien", v: "Themes-en-khentet, dans la liste de Wallis Budge" }
+  - { k: "Nom égyptien", v: "Themes-en-khentet, dans la liste de Wallis Budge" }
 related: ["/astrology/scorpio", "/astrology/sun-in-scorpio", "/astrology/scorpio-first-decan", "/astrology/scorpio-third-decan", "/astrology/zubenelgenubi"]
 faq:
   - q: "Quand a lieu le deuxième décan du Scorpion ?"
-    a: "Le Soleil s’y trouve du 3 au 12 novembre environ, dans les dix degrés du milieu du Scorpion. Comme ce calendrier glisse d’un jour environ d’une année à l’autre, un anniversaire le 2, le 3, le 12 ou le 13 novembre ne se place dans ce décan, ou dans un voisin, qu’avec l’heure de naissance."
+    a: "Le Soleil parcourt les dix degrés centraux du Scorpion du 3 au 12 novembre environ. Ces dates glissent d’un jour environ selon les années : près de l’un ou l’autre bout, c’est l’heure de naissance qui place le Soleil dans ce décan ou chez son voisin."
   - q: "Qui gouverne le deuxième décan du Scorpion ?"
-    a: "Le Soleil, comme face dans l’ordre chaldéen. Dans les décans modernes par élément, le milieu du Scorpion revient au signe d’eau suivant, les Poissons, et donc à ses deux maîtres : Jupiter dans la tradition, Neptune dans l’astrologie tropicale moderne. Je lis les deux, et je garde la face du Soleil comme la couche la plus ancienne."
+    a: "Le Soleil, qui suit Mars dans l’ordre chaldéen, en tient la face. Dans les décans modernes par élément, le milieu du Scorpion revient au signe d’eau suivant, les Poissons, et donc à ses deux maîtres : Jupiter dans la tradition, Neptune dans l’astrologie tropicale moderne. Je lis les deux, et je garde la face du Soleil comme la couche la plus ancienne."
   - q: "Le Soleil est-il pérégrin en Scorpion ?"
     a: "D’après les tables anciennes, presque partout dans le signe : le Scorpion ne donne au Soleil ni domicile, ni exaltation, ni triplicité, et le Soleil n’a pas de termes. L’exception va de 10° à 20°, sa propre face. Même pérégrin, le Soleil n’est pas faible à mes yeux : il s’appuie davantage sur son maître et sur ses aspects."
   - q: "Quelles étoiles se trouvent dans le deuxième décan du Scorpion ?"

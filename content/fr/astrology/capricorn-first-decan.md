@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Capricorne", "décans"]
 weight: 49
 glyph: "♑"
-definition: "Le premier décan du Capricorne s’ouvre au solstice de décembre et va jusqu’à 10° du signe ; le Soleil y séjourne du 22 au 31 décembre environ. Saturne, maître du Capricorne, le gouverne dans les décans modernes ; la face traditionnelle est celle de Jupiter, en chute. Une planète y rencontre deux fois Saturne : je la lis de près."
+definition: "Le premier décan du Capricorne commence là où le Soleil repart vers le nord, au solstice de décembre, et le Soleil le traverse du 22 au 31 décembre environ. Saturne gouverne à la fois le signe et, dans les décans modernes, ce décan ; la face revient à Jupiter, ici en chute. Une planète y rencontre deux fois Saturne."
 facts:
   - { k: "Degrés", v: "0°–10° Capricorne" }
   - { k: "Face (chaldéenne)", v: "Jupiter" }

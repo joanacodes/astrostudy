@@ -17,7 +17,7 @@ facts:
   - { k: "The Sun there", v: "About 19 to 28 February" }
   - { k: "Fixed stars (2026)", v: "Sadalmelik at 3°42′, Fomalhaut at 4°13′, Deneb Adige at 5°41′" }
   - { k: "Cosmas’s name", v: "Okeanos, the world-circling river" }
-  - { k: "Time to rise", v: "About 18 minutes in London, 20 in Paris" }
+  - { k: "Rising time", v: "About 18 minutes in London, 20 in Paris" }
 related: ["/astrology/pisces", "/astrology/saturn-in-pisces", "/astrology/aquarius-third-decan", "/astrology/pisces-second-decan", "/astrology/fomalhaut"]
 faq:
   - q: "When is the first decan of Pisces?"
@@ -45,7 +45,7 @@ The modern decans give the opening ten degrees to Pisces's own rulers, Jupiter i
 
 Cosmas of Maiuma gives these degrees to Okeanos, the Titan who was, in Greek myth, the great river encircling the whole world: a fitting name for the first ten degrees of the last water sign. Wallis Budge's Egyptian name is Baba, written Biu in the Greek-Egyptian lists; [Firmicus Maternus](/astrology/firmicus-maternus/) has Acha or Atapiac, and Athanasius Kircher, in 1652, Rephan. The Hermetic lists know the decan as Tetimo in Greek and Fambais in Latin.
 
-Three bright stars share the decan. [Fomalhaut](/astrology/fomalhaut/), the mouth of the Southern Fish, is at 4°13′ Pisces; [Sadalmelik](/astrology/sadalmelik/), the water-bearer's right shoulder, at 3°42′, in the sign of Pisces since precession carried it over the line around 1760; and [Deneb Adige](/astrology/deneb-adige/), the tail of the Swan, at 5°41′. The Sun passes Fomalhaut about 21 or 22 February.
+Three bright stars share the decan. [Fomalhaut](/astrology/fomalhaut/), the mouth of the Southern Fish, is at 4°13′ Pisces; [Sadalmelik](/astrology/sadalmelik/), the water-bearer's right shoulder, at 3°42′, in the sign of Pisces since precession carried it over the line around 1760; and [Deneb Adige](/astrology/deneb-adige/), the tail of the Swan, at 5°41′. The Sun reaches Fomalhaut's degree about 21 or 22 February.
 
 ## In a birth chart {#in-a-birth-chart}
 

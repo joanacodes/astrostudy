@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/aquarius", "/astrology/moon-in-aquarius", "/astrology/aquarius-second-decan", "/astrology/pisces-first-decan", "/astrology/sadalsuud"]
 faq:
   - q: "When is the third decan of Aquarius?"
-    a: "From about 9 to 18 February. That is when the Sun covers the last ten degrees of Aquarius; the border with Pisces shifts by a few hours a year, so a birthday on 18 or 19 February is settled by the time of birth, not the date."
+    a: "The Sun is in Aquarius’s last ten degrees through the middle of February, from about the 9th to the 18th. Pisces begins around the 18th or 19th, depending on the year and the time zone, and a birth on either day needs its time to tell the two signs apart."
   - q: "Which planet rules the third decan of Aquarius?"
     a: "The Moon, as its face in the Chaldean order, and Venus in the modern decans, which hand the last third of an air sign to the air sign not yet used, here Libra. Saturn and Uranus, the sign’s own rulers, stay in the frame: I read both, around the decan’s pair."
   - q: "What does the third decan of Aquarius mean?"

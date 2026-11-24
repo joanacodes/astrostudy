@@ -17,7 +17,7 @@ facts:
   - { k: "Par triplicité", v: "Vénus, maître de la Balance" }
   - { k: "Le Soleil y passe", v: "Du 23 septembre au 2 octobre environ" }
   - { k: "Commence à", v: "L’équinoxe de septembre" }
-  - { k: "Décan égyptien", v: "Bekathȧ, dans la liste de Wallis Budge" }
+  - { k: "Nom égyptien", v: "Bekathȧ, dans la liste de Wallis Budge" }
   - { k: "Temps de lever", v: "Environ 55 minutes à Paris, 57 à Londres" }
 related: ["/astrology/libra", "/astrology/faces", "/astrology/libra-second-decan", "/astrology/egyptian-decans", "/astrology/sun-in-libra"]
 faq:
@@ -26,7 +26,7 @@ faq:
   - q: "Quelle planète gouverne le premier décan de la Balance ?"
     a: "Cela dépend du système. Dans les faces traditionnelles, qui suivent l’ordre chaldéen, c’est la Lune. Dans les décans modernes, gouvernés par élément, c’est Vénus, car les dix premiers degrés de chaque signe reviennent à son propre maître. Je cite les deux, sans donner beaucoup de poids à l’un ou l’autre pris seul."
   - q: "Que veut dire un Soleil dans le premier décan de la Balance ?"
-    a: "Que votre naissance a eu lieu avec le Soleil entre 0° et 10° de la Balance, du 23 septembre au 2 octobre environ. La manière de la Balance passe d’abord : peser, s’associer, chercher un échange juste. Le décan ajoute une nuance légère, l’attention de la Lune à ce que chacun ressent, sans jamais changer le signe du Soleil."
+    a: "Que votre Soleil se trouve dans les dix premiers degrés après l’équinoxe de septembre, pour une naissance du 23 septembre au 2 octobre environ. La manière de la Balance passe d’abord : peser, s’associer, chercher un échange juste. Le décan ajoute une nuance légère, l’attention de la Lune à ce que chacun ressent, sans jamais changer le signe du Soleil."
   - q: "Pourquoi la Balance commence-t-elle à l’équinoxe de septembre ?"
     a: "Parce que le zodiaque tropical se compte à partir des équinoxes. Quand le Soleil franchit l’équateur céleste vers le sud, fin septembre, il est par définition à 0° de la Balance. La constellation de la Balance s’est décalée depuis, mais le signe reste attaché à la saison."
 sources:
@@ -56,6 +56,6 @@ Un Soleil ici est un [Soleil en Balance](/astrology/sun-in-libra/), pour une nai
 
 Quelle que soit la planète placée dans ces degrés, je pars de la manière de la Balance, qui pèse un côté contre l’autre, et je laisse les maîtres la teinter. Vénus demande si l’échange est juste ; la face de la Lune demande ce qu’il fait ressentir à ceux qui y prennent part. Mercure, ici, prend souvent la température d’une conversation avant d’avancer son idée.
 
-Un [ascendant Balance](/astrology/libra-rising/) dans son premier décan est une affaire de minutes. À la latitude de Paris, ces dix degrés mettent environ 55 minutes à franchir l’horizon, 57 à celle de Londres : la Balance se lève lentement, mais une heure fausse d’une demi-heure peut encore faire passer l’ascendant dans le décan suivant, et toutes les cuspides des maisons avec lui. C’est l’une des raisons pour lesquelles je ne lis pas de thème sans l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Un [ascendant Balance](/astrology/libra-rising/) dans son premier décan est une affaire de minutes. À la latitude de Paris, ces dix degrés mettent environ 55 minutes à franchir l’horizon, 57 à celle de Londres : la Balance se lève lentement, mais une heure fausse d’une demi-heure peut encore faire passer l’ascendant dans le décan suivant, et toutes les cuspides des maisons avec lui. Le décan de l’ascendant, comme chaque maison, dépend de l’heure de naissance : c’est pourquoi je ne lis pas de thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Deux corps plus lents s’y sont attardés. [Pluton en Balance](/astrology/pluto-in-libra/) a parcouru ces degrés de la fin de 1971 à 1976, avec des allers-retours aux deux bouts : la plupart des personnes nées pendant ces années partagent ce placement, et seule la maison le rend personnel. L’étoile fixe [Vindemiatrix](/astrology/vindemiatrix/), la vendangeuse de la Vierge, est restée dans ce décan jusque vers 2005, à 9°56′ de la Balance en 2000 ; la précession l’a depuis portée à 10°18′, juste de l’autre côté de la limite ([Balance, deuxième décan](/astrology/libra-second-decan/)).

@@ -9,7 +9,7 @@ categories: ["Signs"]
 tags: ["Pisces", "decans"]
 weight: 57
 glyph: "♓"
-definition: "The third decan of Pisces closes the zodiac, from 20° to 30° of the last sign, the Sun crossing it from about 11 to 20 March. Mars holds it twice over, as the last of the Chaldean faces and, through Scorpio, as a modern decan ruler beside Pluto. It also holds the degree tradition gives to Venus’s exaltation."
+definition: "The third decan of Pisces closes the zodiac, from 20° to 30° of the last sign, the Sun crossing it from about 11 to 20 March. Mars holds it twice over, as the last of the Chaldean faces and, through Scorpio, as a modern decan ruler beside Pluto. Near its end lies the 27th degree, where tradition exalts Venus."
 facts:
   - { k: "Degrees", v: "20°–30° Pisces" }
   - { k: "Face (Chaldean)", v: "Mars, the 36th and last face" }

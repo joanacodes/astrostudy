@@ -23,7 +23,7 @@ faq:
   - q: "When is the first decan of Aquarius?"
     a: "Roughly 20 to 29 January: the Sun enters Aquarius about 20 January and reaches 10° of the sign some nine days later. On 19 and 20 January the border with Capricorn is too close for the date alone to decide; the time of birth does."
   - q: "Which planet rules the first decan of Aquarius?"
-    a: "Venus holds its face in the Chaldean order. In the modern decans, which give a sign’s first ten degrees to its own ruler, it belongs to Aquarius’s two rulers, Saturn in the tradition and Uranus in modern tropical astrology. I read both, with Venus as the face."
+    a: "Venus holds its face in the Chaldean order. In the modern decans it stays with Aquarius itself, and so with both its rulers: Saturn for the tradition, Uranus for modern tropical astrology. I read both, with Venus as the face."
   - q: "What does the first decan of Aquarius mean?"
     a: "With the Sun here, born about 20 to 29 January, Aquarius’s way of thinking for the group comes first. Venus’s face and the sign’s two rulers shade it towards fairness worked out with others: what a group values, and how to share it well."
   - q: "Is Pluto in the first decan of Aquarius?"

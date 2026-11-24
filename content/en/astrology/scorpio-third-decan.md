@@ -17,7 +17,7 @@ facts:
   - { k: "The Sun there", v: "About 13 to 21 November" }
   - { k: "Both rulers in Scorpio", v: "Venus in detriment, the Moon in fall" }
   - { k: "Fixed star (2026)", v: "Unukalhai at 22°26′" }
-  - { k: "Egyptian decan", v: "Sapt-khennu, in Wallis Budge’s list" }
+  - { k: "Egyptian name", v: "Sapt-khennu, in Wallis Budge’s list" }
 related: ["/astrology/scorpio", "/astrology/venus-in-scorpio", "/astrology/moon-in-scorpio", "/astrology/scorpio-second-decan", "/astrology/sagittarius-first-decan"]
 faq:
   - q: "What are the dates of the third decan of Scorpio?"

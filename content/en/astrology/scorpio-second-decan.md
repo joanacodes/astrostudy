@@ -17,13 +17,13 @@ facts:
   - { k: "The Sun there", v: "About 3 to 12 November" }
   - { k: "The Sun here", v: "In its own face, its one dignity in Scorpio" }
   - { k: "Fixed stars (2026)", v: "Alphecca at 12°39′, Zubenelgenubi at 15°26′, Zubeneschamali at 19°44′" }
-  - { k: "Egyptian decan", v: "Themes-en-khentet, in Wallis Budge’s list" }
+  - { k: "Egyptian name", v: "Themes-en-khentet, in Wallis Budge’s list" }
 related: ["/astrology/scorpio", "/astrology/sun-in-scorpio", "/astrology/scorpio-first-decan", "/astrology/scorpio-third-decan", "/astrology/zubenelgenubi"]
 faq:
   - q: "When is the second decan of Scorpio?"
-    a: "The Sun is there from about 3 to 12 November, in the middle ten degrees of Scorpio. Because the Sun’s timing slips by a day or so between years, a birthday on 2, 3, 12 or 13 November can only be placed in this decan or a neighbouring one with the time of birth."
+    a: "The Sun crosses the central ten degrees of Scorpio from about 3 to 12 November. Those dates slip by a day or so between years, so close to either end, the time of birth is what places the Sun in this decan or its neighbour."
   - q: "Who rules the second decan of Scorpio?"
-    a: "The Sun, as its face in the Chaldean order. In the modern decans by element, the middle of Scorpio goes to the next water sign, Pisces, and so to its two rulers: Jupiter in the tradition, Neptune in modern tropical astrology. I read both, and keep the Sun’s face as the older layer."
+    a: "The Sun, which follows Mars in the Chaldean order, holds the face. In the modern decans by element, the middle of Scorpio goes to the next water sign, Pisces, and so to its two rulers: Jupiter in the tradition, Neptune in modern tropical astrology. I read both, and keep the Sun’s face as the older layer."
   - q: "Is the Sun peregrine in Scorpio?"
     a: "By the old tables, nearly everywhere in the sign: Scorpio gives the Sun no home, no exaltation and no triplicity, and the Sun has no terms. The exception is 10° to 20°, its own face. Even peregrine, the Sun isn’t weak as I read it, only leaning more on its ruler and its aspects."
   - q: "Which stars are in the second decan of Scorpio?"

@@ -17,7 +17,7 @@ facts:
   - { k: "The Sun there", v: "About 1 to 10 March, and 29 February in a leap year" }
   - { k: "Jupiter here", v: "In its traditional home and its own face" }
   - { k: "Fixed star (2026)", v: "Achernar at 15°40′" }
-  - { k: "Egyptian decan", v: "Khent-ḥeru, in Wallis Budge’s list" }
+  - { k: "Egyptian name", v: "Khent-ḥeru, in Wallis Budge’s list" }
 related: ["/astrology/pisces", "/astrology/jupiter-in-pisces", "/astrology/pisces-first-decan", "/astrology/pisces-third-decan", "/astrology/achernar"]
 faq:
   - q: "When is the second decan of Pisces?"

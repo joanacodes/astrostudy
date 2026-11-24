@@ -2,7 +2,7 @@
 title: "Capricorne, troisième décan"
 slug: "capricorne-troisieme-decan"
 h1: "Le troisième décan du Capricorne (20°–30°)"
-description: "Capricorne, troisième décan, les dix derniers degrés du signe : le Soleil du 11 au 19 janvier environ, sa propre face, Mercure, et l’exaltation de Mars."
+description: "Capricorne, troisième décan : la fin du signe, où le Soleil passe du 11 au 19 janvier environ dans sa propre face ; Mercure par élément, l’exaltation de Mars."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "signs"
@@ -17,7 +17,7 @@ facts:
   - { k: "Par triplicité", v: "Mercure, maître de la Vierge" }
   - { k: "Le Soleil y passe", v: "Du 11 au 19 janvier environ" }
   - { k: "Degré d’exaltation de Mars", v: "Le 28e du Capricorne, dans ce décan" }
-  - { k: "Décan égyptien", v: "Sert, dans la liste de Wallis Budge" }
+  - { k: "Nom égyptien", v: "Sert, dans la liste de Wallis Budge" }
   - { k: "Temps de lever", v: "Environ une demi-heure à Paris ou à Londres" }
 related: ["/astrology/capricorn", "/astrology/sun-in-capricorn", "/astrology/capricorn-second-decan", "/astrology/aquarius-first-decan", "/astrology/mars-in-capricorn"]
 faq:

@@ -10,14 +10,14 @@ categories: ["Signes"]
 tags: ["Sagittaire", "décans"]
 weight: 46
 glyph: "♐"
-definition: "Le premier décan du Sagittaire, ce sont les dix premiers degrés du signe, où séjourne le Soleil du 22 novembre au 1er décembre environ. Jupiter le gouverne dans les décans modernes, tout comme le signe entier ; la face traditionnelle est celle de Mercure, en exil. Son nom égyptien est l’un des rares qu’on sache encore traduire."
+definition: "Le premier décan du Sagittaire, ce sont les dix premiers degrés du signe, où séjourne le Soleil du 22 novembre au 1er décembre environ. Jupiter le gouverne dans les décans modernes, tout comme le signe entier ; la face traditionnelle est celle de Mercure, en exil. Son nom égyptien se traduit encore : « au milieu de la barque »."
 facts:
   - { k: "Degrés", v: "0°–10° Sagittaire" }
   - { k: "Face (chaldéenne)", v: "Mercure" }
   - { k: "Par triplicité", v: "Jupiter, maître du Sagittaire" }
   - { k: "Le Soleil y passe", v: "Du 22 novembre au 1er décembre environ" }
   - { k: "Mercure ici", v: "En exil, et dans sa propre face" }
-  - { k: "Décan égyptien", v: "Ḥer-ab-uȧa, « au milieu de la barque »" }
+  - { k: "Nom égyptien", v: "Ḥer-ab-uȧa, « au milieu de la barque »" }
   - { k: "Étoile fixe", v: "Antarès, à 9°45′ en 2000 ; 10°07′ en 2026" }
 related: ["/astrology/sagittarius", "/astrology/antares", "/astrology/mercury-in-sagittarius", "/astrology/sagittarius-second-decan", "/astrology/egyptian-decans"]
 faq:
@@ -31,10 +31,10 @@ faq:
     a: "Pour la plupart des adultes d’aujourd’hui, oui. L’étoile était à 9°45′ du Sagittaire en 2000 et a franchi la limite du deuxième décan vers 2017, au rythme d’un degré environ tous les 72 ans ; en 2026, elle est à 10°07′. Le Soleil passe sur elle vers le 1er ou le 2 décembre."
 sources:
   - { title: "William Lilly, Christian Astrology (1647), éd. Deborah Houlding (Ascella, 1999), p. 104–105, via Wikipédia en anglais, « Decan (astrology) »", url: "https://en.wikipedia.org/wiki/Decan_(astrology)", note: "la face de Mercure, et le décan de Jupiter dans le système moderne" }
-  - { title: "S. L. Symons, « A Star’s Year : The Annual Cycle in the Ancient Egyptian Sky », dans J. M. Steele (dir.), Calendars and Years (Oxbow Books, 2007), et E. A. Wallis Budge, The Gods of the Egyptians (Open Court, 1904), via Wikipédia en anglais, « Decan »", url: "https://en.wikipedia.org/wiki/Decan", note: "ḥry-ib wiꜣ, « au milieu de la barque », le Ḥer-ab-uȧa de Budge, et les formes plus tardives du nom" }
+  - { title: "S. L. Symons, « A Star’s Year : The Annual Cycle in the Ancient Egyptian Sky », dans J. M. Steele (dir.), Calendars and Years (Oxbow Books, 2007) ; E. A. Wallis Budge, The Gods of the Egyptians (Open Court, 1904) ; Wilhelm Gundel, Dekane und Dekansterbilder (J. J. Augustin, 1936), p. 77–81 ; Athanasius Kircher, Oedipus Aegyptiacus (1652), via Wikipédia en anglais, « Decan »", url: "https://en.wikipedia.org/wiki/Decan", note: "ḥry-ib wiꜣ, « au milieu de la barque », le Ḥer-ab-uȧa de Budge, et les noms plus tardifs : Hre-ua, Eregbuo, Sebos, Clinothois, Tolmophta" }
   - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991)", note: "Antarès en 1930, 2000 et 2026" }
 ---
-Le Sagittaire s’ouvre sur une contradiction que les tables anciennes semblent apprécier : Mercure, étranger au signe, en gouverne la première face. Et le décan égyptien derrière ces degrés est l’un des très rares dont on sache encore lire le nom.
+Le Sagittaire s’ouvre sur une contradiction que les tables anciennes semblent apprécier : Mercure, étranger au signe, en gouverne la première face. Et le décan égyptien derrière ces degrés porte un nom que l’on sait encore lire.
 
 ## Ses maîtres {#ses-maitres}
 
@@ -44,9 +44,9 @@ Les décans modernes donnent les dix premiers degrés au propre maître du signe
 
 ## Son image {#son-image}
 
-C’est l’un des rares décans dont le nom égyptien se traduit. Wallis Budge l’écrivait Ḥer-ab-uȧa ; dans la translittération qu’emploient aujourd’hui les égyptologues, c’est ḥry-ib wiꜣ, que l’égyptologue Sarah Symons donne justement en exemple d’un nom de décan que l’on sait lire : « au milieu de la barque ». Quelles étoiles formaient cette figure, ajoute-t-elle, on l’ignore ([les décans égyptiens](/astrology/egyptian-decans/)).
+C’est l’un des décans dont le nom égyptien se traduit. Wallis Budge l’écrivait Ḥer-ab-uȧa ; dans la translittération qu’emploient aujourd’hui les égyptologues, c’est ḥry-ib wiꜣ, que l’égyptologue Sarah Symons donne justement en exemple d’un nom de décan que l’on sait lire : « au milieu de la barque ». Quelles étoiles formaient cette figure, ajoute-t-elle, on l’ignore ([les décans égyptiens](/astrology/egyptian-decans/)).
 
-Les listes plus tardives donnent d’autres formes du nom, sans son sens : Hre-ua dans les listes gréco-égyptiennes, Eregbuo ou Ergbuo chez [Firmicus Maternus](/astrology/firmicus-maternus/), Eregbuo encore dans la liste de Joseph Scaliger, au XVIe siècle. Bien peu de noms de décans se laissent lire comme une image ; celui-ci, je peux vous le donner avec une traduction derrière.
+Les listes plus tardives donnent d’autres formes du nom, sans son sens : Hre-ua dans les listes gréco-égyptiennes, Eregbuo ou Ergbuo chez [Firmicus Maternus](/astrology/firmicus-maternus/), Eregbuo encore dans la liste de Joseph Scaliger, au XVIe siècle. À côté d’eux se tiennent Sebos et Clinothois, les noms du décan dans les listes hermétiques grecque et latine, et Tolmophta, que lui donnait Athanasius Kircher en 1652. Pour une fois, je peux vous donner un nom ancien avec une traduction derrière.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 

@@ -17,7 +17,7 @@ facts:
   - { k: "The Sun there", v: "About 23 October to 2 November" }
   - { k: "Mars here", v: "In its traditional home and its own face" }
   - { k: "Pluto here", v: "November 1983 to summer 1988, with two loops back" }
-  - { k: "Egyptian decan", v: "Khentet-khert, in Wallis Budge’s list" }
+  - { k: "Egyptian name", v: "Khentet-khert, in Wallis Budge’s list" }
 related: ["/astrology/scorpio", "/astrology/mars-in-scorpio", "/astrology/pluto-in-scorpio", "/astrology/scorpio-second-decan", "/astrology/faces"]
 faq:
   - q: "When is the first decan of Scorpio?"

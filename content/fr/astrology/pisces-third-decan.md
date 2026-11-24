@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Poissons", "décans"]
 weight: 57
 glyph: "♓"
-definition: "Le troisième décan des Poissons ferme le zodiaque, de 20° à 30° du dernier signe, que le Soleil traverse du 11 au 20 mars environ. Mars le tient deux fois, comme dernière des faces chaldéennes et, par le Scorpion, comme maître de décan moderne aux côtés de Pluton. Il contient aussi le degré d’exaltation de Vénus."
+definition: "Le troisième décan des Poissons ferme le zodiaque, de 20° à 30° du dernier signe, que le Soleil traverse du 11 au 20 mars environ. Mars le tient deux fois, comme dernière des faces chaldéennes et, par le Scorpion, comme maître de décan moderne aux côtés de Pluton. Vénus y a, vers la fin, son degré d’exaltation."
 facts:
   - { k: "Degrés", v: "20°–30° Poissons" }
   - { k: "Face (chaldéenne)", v: "Mars, la 36e et dernière face" }

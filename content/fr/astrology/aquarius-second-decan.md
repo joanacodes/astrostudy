@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Verseau", "décans"]
 weight: 53
 glyph: "♒"
-definition: "Le deuxième décan du Verseau s’étend de 10° à 20° du signe, le domaine du Soleil du 30 janvier au 8 février environ. C’est le seul décan que Mercure gouverne dans les deux systèmes : comme face chaldéenne, et par les Gémeaux dans les décans modernes. Les maîtres du Verseau, Saturne et Uranus, l’encadrent."
+definition: "Le deuxième décan du Verseau, de 10° à 20°, est le seul que Mercure gouverne dans les deux systèmes, et le Soleil y séjourne du 30 janvier au 8 février environ. Mercure en tient la face chaldéenne et, par les Gémeaux, le décan moderne ; les maîtres du Verseau, Saturne et Uranus, l’encadrent."
 facts:
   - { k: "Degrés", v: "10°–20° Verseau" }
   - { k: "Face (chaldéenne)", v: "Mercure" }
@@ -18,7 +18,7 @@ facts:
   - { k: "Le Soleil y passe", v: "Du 30 janvier au 8 février environ" }
   - { k: "Mercure ici", v: "Face et décan moderne à la fois, seul cas pour Mercure" }
   - { k: "Maîtres du signe", v: "Saturne et Uranus" }
-  - { k: "Décan égyptien", v: "Kher-khept-sert, dans la liste de Wallis Budge" }
+  - { k: "Nom égyptien", v: "Kher-khept-sert, dans la liste de Wallis Budge" }
 related: ["/astrology/aquarius", "/astrology/mercury-in-aquarius", "/astrology/aquarius-first-decan", "/astrology/aquarius-third-decan", "/astrology/faces"]
 faq:
   - q: "Quand a lieu le deuxième décan du Verseau ?"

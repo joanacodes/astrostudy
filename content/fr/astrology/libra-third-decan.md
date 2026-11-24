@@ -18,7 +18,7 @@ facts:
   - { k: "Le Soleil y passe", v: "Du 13 au 22 octobre environ" }
   - { k: "Degré d’exaltation de Saturne", v: "Le 21e de la Balance, dans ce décan" }
   - { k: "Étoiles fixes (2026)", v: "Spica à 24°12′, Arcturus à 24°36′" }
-  - { k: "Décan égyptien", v: "Khentet-ḥert, dans la liste de Wallis Budge" }
+  - { k: "Nom égyptien", v: "Khentet-ḥert, dans la liste de Wallis Budge" }
 related: ["/astrology/libra", "/astrology/spica", "/astrology/libra-second-decan", "/astrology/scorpio-first-decan", "/astrology/born-on-the-cusp"]
 faq:
   - q: "Quelles sont les dates du troisième décan de la Balance ?"
