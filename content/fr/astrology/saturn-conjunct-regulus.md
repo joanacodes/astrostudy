@@ -24,7 +24,7 @@ faq:
   - q: "Quelles naissances ont Saturne conjonction Régulus ?"
     a: "De 1930 à 2009, trois périodes : de septembre 1948 à mai 1949, d’octobre 1977 à juillet 1978, et d’août à septembre 2007. Tous les mois de ces périodes ne comptent pas, car Saturne a dépassé l’étoile de quelques degrés avant d’y revenir : la date de naissance et une éphéméride tranchent."
   - q: "Saturne conjonction Régulus, est-ce rare ?"
-    a: "Environ 1 naissance sur 151 de 1930 à 2009, un peu plus que ce que donne d’ordinaire un contact d’un degré, parce que Saturne a ralenti et changé de sens deux fois tout près de l’étoile. Toutes les personnes nées dans les mêmes quelques mois le partagent : il marque une période de naissances plutôt qu’un jour."
+    a: "Environ 1 naissance sur 151 de 1930 à 2009, un peu plus que ce que donne d’ordinaire un contact d’un degré, parce que Saturne a ralenti et changé de sens deux fois tout près de l’étoile. Toutes les personnes nées dans les mêmes quelques mois partagent ce contact, qui marque une période de naissances plutôt qu’un jour."
 sources:
   - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et le décompte de The Astro Study d’après la position de Saturne, 1930–2009", note: "la position de Régulus, le nombre de naissances avec Saturne à moins de 1° d’elle, et ses passages en 1948–1949, 1977–1978 et 2007" }
   - { title: "Ptolémée, Tétrabible, livre I, chapitre 9", note: "Régulus, de la nature de Mars et de Jupiter" }

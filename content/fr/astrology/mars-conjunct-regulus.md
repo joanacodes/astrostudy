@@ -22,7 +22,7 @@ faq:
   - q: "Que veut dire Mars conjonction Régulus ?"
     a: "Que Mars se trouvait à moins d’un degré de Régulus, le cœur du Lion, à votre naissance. Ptolémée comparait l’étoile à Mars et à Jupiter : la tradition y voit un élan qui gagne en ampleur et en port royal. Je lis Mars comme l’effort, l’initiative et la volonté de protéger, par son signe et sa maison."
   - q: "Mars conjonction Régulus, est-ce mauvais ?"
-    a: "Pas dans ma façon de lire : aucune position n’est mauvaise. La tradition rangeait Mars parmi les maléfiques, un mot venu d’une astrologie qui lisait le destin, et lui associait ici Jupiter, en tête des bénéfiques. Mars, c’est la part de vous qui agit et s’affirme, et la colère n’est qu’un de ses usages."
+    a: "Pas dans ma façon de lire : aucune position n’est mauvaise. La tradition rangeait Mars parmi les maléfiques, un mot venu d’une astrologie qui lisait le destin, et donnait ici à Mars la compagnie de Jupiter, en tête des bénéfiques. Mars, c’est la part de vous qui agit et s’affirme, et la colère n’est qu’un de ses usages."
   - q: "Mars conjonction Régulus, c’est fréquent ?"
     a: "Mars atteint Régulus à peu près tous les deux ans et franchit d’ordinaire son degré en quelques jours, ce qui donne environ 1 naissance sur 161 de 1930 à 2009. En 1947–1948, 1979–1980 et 1994–1995, Mars a rebroussé chemin sur l’étoile et l’a franchie trois fois : des naissances de plusieurs mois peuvent l’avoir."
 sources:

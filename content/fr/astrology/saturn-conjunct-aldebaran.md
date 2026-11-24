@@ -23,7 +23,7 @@ faq:
     a: "Que Saturne se trouvait à moins d’un degré d’Aldébaran, l’œil rouge du Taureau, à votre naissance. Ptolémée prêtait à l’étoile une température martienne et comparait les Hyades qui l’entourent à Saturne : la tradition pose donc Saturne sur la seule lumière martienne d’un groupe saturnien. Je lis Saturne, par son signe et sa maison."
   - q: "Quelles naissances ont Saturne conjonction Aldébaran ?"
     a: "De 1930 à 2009, trois périodes : de juillet 1942 à avril 1943, de mai à juin 1972, et de juin 2001 à avril 2002. Dans les longues périodes, Saturne a franchi l’étoile trois fois en s’en écartant de plusieurs degrés entre-temps : la date de naissance et une éphéméride tranchent."
-  - q: "Pourquoi le passage de 1972 a-t-il été si court ?"
+  - q: "Pourquoi est-ce que le passage de 1972 a été si court ?"
     a: "Parce que, cette année-là, Saturne n’a franchi l’étoile qu’une fois, en avançant, à la fin du mois de mai. Sa boucle rétrograde est tombée bien après l’étoile, sans revenir sur elle. En 1942–1943 et 2001–2002, la boucle encadrait l’étoile, et Saturne l’a franchie trois fois en neuf ou dix mois."
 sources:
   - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et le décompte de The Astro Study d’après la position de Saturne, 1930–2009", note: "la position et la latitude d’Aldébaran, le nombre de naissances avec Saturne à moins de 1° d’elle, et ses passages en 1942–1943, 1972 et 2001–2002" }

@@ -5,6 +5,8 @@ description: "Sun conjunct Antares in a birth chart: born about 1–2 December, 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Antares", "fixed stars"]
 weight: 2575
 glyph: "☉☌★"
 definition: "Sun conjunct Antares means the Sun was within 1° of Antares, the red heart of the Scorpion, at your birth: a birthday on about 1 or 2 December, with the Sun in Sagittarius. The star’s Greek name calls it the rival of Mars, and tradition reads that colour into the Sun. I read the Sun as purpose and vitality."
