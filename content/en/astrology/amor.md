@@ -1,10 +1,12 @@
 ---
 title: "Amor"
 h1: "The asteroid Amor in astrology"
-description: "The asteroid Amor in astrology: the near-Earth asteroid found in 1932, the family named after it, the three asteroids that share Cupid, and why I read love elsewhere."
+description: "The asteroid Amor in astrology: the near-Earth asteroid found in 1932, the family named after it, three asteroids for one god, and why I read love elsewhere."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["asteroids"]
 weight: 8
 glyph: "✦"
 definition: "Amor, asteroid 1221, is a near-Earth asteroid about a kilometre across, discovered in 1932 and named with the Latin word for love, a name of Cupid. It gave its name to the Amor asteroids, which approach the Earth’s orbit from outside. Astrologers who use it read love through its name; I don’t read it."
@@ -44,7 +46,7 @@ The name belongs to the god the Greeks called Eros and the Romans called Cupid. 
 
 ## How it works {#how-it-works}
 
-A body found in 1932 brings no ancient tradition with it, so what astrologers say about Amor comes from its name. That makes the choice of name matter more than usual, and here one god has three asteroids. Eros, Cupido and Amor have separate orbits, so in any chart they usually fall in three different places, and anyone who adds all three has three answers to one question. If you use one, decide which before you see where they land in your chart, so that the chart doesn't choose for you ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+A body found in 1932 brings no ancient tradition with it, so what astrologers say about Amor comes from its name. That makes the choice of name matter more than usual, and here one god has three asteroids. Eros, Cupido and Amor have separate orbits, so in any chart they usually fall in three different places, and anyone who adds all three has three answers to one question. If you use one, decide which before you see where they land in your chart, so that the chart doesn't choose for you ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)). Nor is the god the only source of love's names among the asteroids: [Sappho](/astrology/sappho/), found in 1864, carries the name of the Greek poet best known in antiquity for her love poems.
 
 Its motion follows from its orbit. Like other near-Earth asteroids, it moves through the zodiac unevenly, fast when it's near us and slowly when it's far, and its house in a chart depends on the birth time, like every house.
 

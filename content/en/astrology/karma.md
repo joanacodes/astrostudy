@@ -5,6 +5,8 @@ description: "Karma asteroid (3811) in astrology: found by Liisi Oterma in 1953,
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["asteroids"]
 weight: 24
 glyph: "✦"
 definition: "Karma (asteroid 3811) is a main-belt asteroid about 30 km across, found by Liisi Oterma at Turku in 1953 and named after karma, the Indian idea of action and its consequences. It has nothing to do with the karmic reading of the lunar nodes; I describe it here, and I don’t read karma in any chart."
