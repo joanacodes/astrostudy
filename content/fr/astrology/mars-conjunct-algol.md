@@ -19,12 +19,12 @@ facts:
   - { k: "Naissances", v: "Quelques jours tous les deux ans environ ; trois passages en 1958-1959, dont un en rétrograde" }
 related: ["/astrology/algol", "/astrology/mars", "/astrology/conjunctions-to-fixed-stars", "/astrology/mars-in-taurus", "/astrology/can-astrology-predict-death"]
 faq:
-  - q: "Que veut dire Mars conjonction Algol ?"
-    a: "Mars se trouvait à moins d’un degré du degré zodiacal d’Algol, à la fin du Taureau, à votre naissance. Mars décrit votre élan et votre façon d’agir ; la tradition, qui rangeait Mars parmi les maléfiques, voyait dans ce degré la rencontre avec son étoile la plus malheureuse. Je ne lis aucune de ces étiquettes comme une prédiction : Mars en Taureau, sa maison et ses aspects vous décrivent."
+  - q: "Que veut dire Mars conjonction Algol ?"
+    a: "Ce contact décrit Mars à la fin du Taureau, sur le même degré du zodiaque qu’Algol, l’étoile de la tête de Méduse. La tradition, qui rangeait Mars parmi les maléfiques, plaçait ici cette planète à côté de son étoile la plus malheureuse ; aucune de ces étiquettes n’est une prédiction. Mars en Taureau, avec sa maison et ses aspects, décrit votre élan."
   - q: "Mars conjonction Algol, est-ce dangereux ?"
     a: "Non. C’est une position le long du zodiaque, partagée par environ 1 personne sur 207, et elle n’annonce rien de votre sécurité ni de votre vie. La crainte qui s’y attache vient du nom d’une étoile et d’une vieille réputation, et une réputation n’est pas un événement."
-  - q: "Quand a eu lieu Mars conjonction Algol ?"
-    a: "Deux ou trois jours tous les deux ans environ : 45 passages entre 1930 et 2009. En 1958-1959, le degré a été franchi trois fois, le 8 septembre, le 12 novembre en rétrograde et le 31 janvier 1959 : les naissances proches de chacune de ces dates ont ce contact."
+  - q: "Quand a eu lieu Mars conjonction Algol ?"
+    a: "Mars atteint le degré d’Algol environ une fois tous les deux ans et y reste deux ou trois jours : la plupart des années n’ont donc aucune naissance avec ce contact. Le plus long séjour date de 1958-1959, avec des passages le 8 septembre et, en rétrograde, le 12 novembre 1958, puis un dernier le 31 janvier 1959."
   - q: "Est-ce que Mars est faible en Taureau ?"
     a: "La tradition place Mars en exil en Taureau, le signe opposé au Scorpion, que Mars gouverne dans la tradition et Pluton dans l’astrologie tropicale moderne. Cela veut dire que Mars agit à rebours du signe, plus lentement et plus délibérément, pas que son action soit moins bonne. Sur Algol, Mars est toujours en Taureau."
 sources:

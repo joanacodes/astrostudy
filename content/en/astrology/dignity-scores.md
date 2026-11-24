@@ -53,7 +53,7 @@ A score is only as steady as its inputs, and four of them move.
 
 The values carry the later tradition's order of importance, own sign first and the face last. The Hellenistic authors before it counted sign, exaltation, triplicity and term as about equal, so a score is one reading of the table, not the table itself.
 
-A score also leaves out everything that comes from the chart rather than the sign. A planet's house, its nearness to the angles, its motion and the aspects it receives are accidental dignity, measured apart: a planet can score well and still stand in a cadent house, squared by a malefic, as tradition put it. Adding the points of every planet at one degree answers a different question, which has its own page: the [almuten](/astrology/almuten/).
+A score also leaves out everything that comes from the chart rather than the sign. A planet's house, its nearness to the angles, its motion and the aspects it receives are accidental dignity, measured apart: a planet can score well by sign and still stand in a cadent house, squared by one of the malefics, which tradition counted against it. Adding the points of every planet at one degree answers a different question, which has its own page: the [almuten](/astrology/almuten/).
 
 ## In a reading {#in-a-reading}
 

@@ -19,14 +19,14 @@ facts:
   - { k: "Naissances", v: "N’importe quel mois, pendant les heures que la Lune y passe" }
 related: ["/astrology/algol", "/astrology/moon", "/astrology/conjunctions-to-fixed-stars", "/astrology/moon-in-taurus", "/blog/unknown-birth-time"]
 faq:
-  - q: "Que veut dire Lune conjonction Algol ?"
-    a: "La Lune se trouvait à moins d’un degré du degré zodiacal d’Algol, à la fin du Taureau, à votre naissance. La Lune décrit vos besoins et la manière dont vous retrouvez votre équilibre ; la tradition y a posé les noms sinistres de l’étoile. Je garde ces noms comme de l’histoire et je lis la Lune par son signe, sa maison et ses aspects."
-  - q: "Comment savoir si ma Lune est conjointe à Algol ?"
-    a: "Il faut une heure de naissance exacte. La Lune passe sur le degré d’Algol chaque mois, mais ne met que trois ou quatre heures à traverser la fenêtre d’un degré de part et d’autre : la date ne suffit pas. Pour les naissances de 1930 à 2009, la fenêtre se situe entre 24° et 27° du Taureau environ."
+  - q: "Que veut dire Lune conjonction Algol ?"
+    a: "Dans votre thème, la Lune tombe sur le degré d’Algol, à la fin du Taureau, une position qu’elle n’occupe que quelques heures chaque mois. La Lune décrit vos besoins et la manière dont vous retrouvez votre équilibre ; la tradition y a accroché les noms sinistres de l’étoile. Ces noms appartiennent à l’histoire, et c’est la Lune en Taureau que je lirais."
+  - q: "Comment savoir si ma Lune est conjointe à Algol ?"
+    a: "Demandez un thème calculé pour votre heure de naissance consignée, et vérifiez si la Lune se trouve à moins d’un degré d’Algol pour votre année, entre 24° et 27° du Taureau environ pour les naissances de 1930 à 2009. La Lune traverse cette fenêtre en trois ou quatre heures : une date seule ne suffit jamais."
   - q: "Lune conjonction Algol, est-ce mauvais ?"
     a: "Non. L’étoile malheureuse de la tradition se trouve dans le signe même où cette tradition exalte la Lune, ce qui dit assez quelle confiance accorder à l’une ou l’autre étiquette. Le contact ne prédit rien de votre santé, de votre sécurité ni de votre vie ; il décrit une Lune en Taureau."
-  - q: "La Lune est-elle exaltée quand elle est conjointe à Algol ?"
-    a: "Oui, dans le vieux système des dignités. Le degré d’Algol tombe dans la dernière partie du Taureau, signe d’exaltation de la Lune : toute Lune posée sur cette étoile est donc exaltée. L’exaltation décrit une aisance d’expression ; ce n’est ni une récompense ni une garantie."
+  - q: "La Lune est-elle exaltée quand elle est conjointe à Algol ?"
+    a: "Oui, dans le vieux système des dignités : le Taureau est le signe d’exaltation de la Lune, et le degré d’Algol se trouve dans sa dernière partie. La tradition honore donc l’endroit même où elle redoute l’étoile, ce qui en dit plus sur la tradition que sur vous."
 sources:
   - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et le décompte de The Astro Study d’après la position de la Lune, 1930–2009", note: "la position d’Algol selon l’année, les heures que la Lune passe à moins de 1° d’elle et sa distance à l’étoile à chaque passage" }
   - { title: "R. H. Allen, Star Names : Their Lore and Meaning (1899), et S. Porceddu et al., « Evidence of Periodicity in Ancient Egyptian Calendars of Lucky and Unlucky Days », Cambridge Archaeological Journal (2008), via Wikipédia en anglais, « Algol »", url: "https://en.wikipedia.org/wiki/Algol", note: "la tête de la goule, la réputation malheureuse, et le calendrier égyptien lu comme une trace du clignement de l’étoile" }

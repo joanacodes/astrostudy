@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/fomalhaut", "/astrology/sun", "/astrology/conjunctions-to-fixed-stars", "/astrology/sun-in-pisces", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Sun conjunct Fomalhaut mean?"
-    a: "The Sun stood within a degree of Fomalhaut’s longitude when you were born. Astrologers who use stars lay the star’s royal title over the Sun, the part of a chart that carries your purpose. That title is the weakest of the four royal stars’, and the Sun’s sign, house and aspects say far more about you."
+    a: "It means you were born with the Sun on Fomalhaut’s degree, early in Pisces, which happens on about 21 or 22 February. Astrology books call Fomalhaut a royal star, though its claim to the title is the weakest of the four. What describes you is the Sun in Pisces, read through its house and aspects."
   - q: "What birthday is Sun conjunct Fomalhaut?"
-    a: "About 21 or 22 February, in every year from 1930 to 2009. The Sun moves roughly a degree a day, so a birth late on the 20th or early on the 23rd can land just inside the window or just outside it, depending on the year and the hour."
+    a: "The 21st or 22nd of February, whatever the year between 1930 and 2009. Births on the 20th or the 23rd sit right at the edge of the window, where the hour of birth and that year’s calendar decide whether the Sun is within one degree of the star."
   - q: "Is the Sun close to Fomalhaut in the sky?"
     a: "No. Fomalhaut lies 21° south of the ecliptic, the Sun’s yearly path, so on those February birthdays the Sun passes about 21° north of the star. The two share a degree counted along the zodiac, never a patch of sky."
   - q: "Is Sun conjunct Fomalhaut rare?"
-    a: "About 1 person in 183 born between 1930 and 2009 has it, close to what any one-degree window gives. Everyone born on those two days of February shares it, so it is better described as a birthday than as a rarity."
+    a: "About 1 person in 183 born between 1930 and 2009 has it, close to the average for any one-degree contact. Since every birthday on those two February days shares it, it is a fairly ordinary birthday with an unusual name attached."
 sources:
   - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991), and The Astro Study’s count from the Sun’s positions, 1930–2009", note: "Fomalhaut’s position by year, the birthdays, and how many people have the contact" }
   - { title: "Theony Condos, Star Myths of the Greeks and Romans: A Sourcebook (1997), via Wikipedia, “Piscis Austrinus”", url: "https://en.wikipedia.org/wiki/Piscis_Austrinus", note: "the Southern Fish drinking the water of Aquarius, with the two fish of Pisces as its young" }

@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/algol", "/astrology/sun", "/astrology/conjunctions-to-fixed-stars", "/astrology/sun-in-taurus", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "What does Sun conjunct Algol mean?"
-    a: "The Sun stood within a degree of Algol’s zodiac degree, late in Taurus, when you were born. The tradition counted Algol among the unluckiest stars, after the Gorgon’s head it marks. That is old lore, not a forecast: the Sun’s sign, house and aspects describe you, and nothing in this contact predicts harm."
+    a: "It means a mid-May birthday, the 16th or 17th, with the Sun in late Taurus on Algol’s degree. The tradition counted Algol among the unluckiest stars, after the Gorgon’s head it marks; that is a story about a star, not a forecast. The Sun in Taurus, its house and its aspects are what describe you."
   - q: "What birthday is Sun conjunct Algol?"
-    a: "About 16 or 17 May, in every year from 1930 to 2009. With William Lilly’s wider orb of five degrees, the old label would stretch over every birthday from about 12 to 21 May; the one-degree window used here keeps it to two days."
+    a: "16 or 17 May, in any year from 1930 to 2009. William Lilly’s wider orb of five degrees would have spread the old label over every birthday from about 12 to 21 May; the one-degree window used here keeps it to two days."
   - q: "Is Sun conjunct Algol bad?"
     a: "No. Unlucky is the tradition’s word for a star named after a monster’s head, not a description of anyone born in mid-May. The Sun on Algol is a late-Taurus Sun with an old story laid over it, and a story is not a forecast."
-  - q: "How rare is Sun conjunct Algol?"
-    a: "About 1 person in 176 born between 1930 and 2009, almost exactly what a one-degree window gives. Everyone born on those two days of May has it, so the contact is shared by a great many people, year after year."
+  - q: "Is Sun conjunct Algol the same as a Sun in Taurus?"
+    a: "Every Sun on Algol is a Sun in Taurus, in the sign’s last degrees, but only two of the sign’s thirty or so birthdays carry the contact. What the Sun in Taurus describes, steady purpose and loyalty to what you value, applies to all of them; Algol adds only an old story."
 sources:
   - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991), and The Astro Study’s count from the Sun’s positions, 1930–2009", note: "Algol’s position by year, the birthdays within 1° and within 5°, and how many people have the contact" }
   - { title: "Ptolemy, Tetrabiblos, book IV, trans. F. E. Robbins (Loeb Classical Library, 1940), and R. H. Allen, Star Names: Their Lore and Meaning (1899), via Wikipedia, “Algol”", url: "https://en.wikipedia.org/wiki/Algol", note: "the Gorgon of Perseus and its unlucky reputation" }

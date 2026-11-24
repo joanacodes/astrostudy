@@ -5,6 +5,8 @@ description: "Sun conjunct Spica in a birth chart: born about 16–17 October, a
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Spica", "fixed stars"]
 weight: 2590
 glyph: "☉☌★"
 definition: "Sun conjunct Spica is the Sun within 1° of Spica’s zodiac degree, the ear of wheat in Virgo’s hand: a birthday on about 16 or 17 October, late in Libra. Spica lies 2° from the Sun’s path, so the Sun really passes beside it. Its old names speak of grain; about 1 person in 181 has it."
@@ -17,9 +19,9 @@ facts:
 related: ["/astrology/spica", "/astrology/sun", "/astrology/conjunctions-to-fixed-stars", "/astrology/sun-in-libra", "/astrology/heliacal-rising"]
 faq:
   - q: "What does Sun conjunct Spica mean?"
-    a: "The Sun stood within a degree of Spica’s zodiac degree, late in Libra, when you were born. Spica is the ear of wheat in the Virgin’s hand, and its old names speak of grain and gathering. I read the Sun in Libra through its house and aspects, and treat the star as the tradition’s colour."
+    a: "A mid-October birthday puts your Sun in late Libra, on Spica’s degree, within one degree of the star. Spica is the ear of wheat in the Virgin’s hand, and its old names speak of grain and gathering. That makes a gentle image; what I’d read is the Sun in Libra, with its house and aspects."
   - q: "What birthday is Sun conjunct Spica?"
-    a: "About 16 or 17 October, in every year from 1930 to 2009. The Sun moves about a degree a day, so a birth a day either side can still fall inside the window in some years; the year and the hour decide it."
+    a: "The 16th or 17th of October, in every year from 1930 to 2009. A birth on the 15th or the 18th can just reach the one-degree window in some years, and only the hour of birth settles those cases."
   - q: "Is the Sun close to Spica in the sky?"
     a: "Yes, unusually so for a star contact. Spica lies about 2° south of the Sun’s path, so each October the Sun passes a little more than two degrees north of it. The star is lost in daylight then, and reappears before dawn about two weeks later."
   - q: "Is the Sun in fall when it is conjunct Spica?"

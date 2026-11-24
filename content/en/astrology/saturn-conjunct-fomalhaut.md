@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/fomalhaut", "/astrology/saturn", "/astrology/conjunctions-to-fixed-stars", "/astrology/saturn-in-pisces", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does Saturn conjunct Fomalhaut mean?"
-    a: "Saturn stood within a degree of Fomalhaut’s zodiac degree, early in Pisces, when you were born. Astrologers who use stars lay the star’s royal title over Saturn, the planet of structure and lasting commitments. That title is poorly founded; Saturn’s sign, house and aspects are where I’d look."
+    a: "It marks a birth in 1935, 1964–65 or early 1994, when Saturn stood in the first degrees of Pisces on Fomalhaut’s degree. Saturn describes structure and lasting commitments; the star brings a royal title that historians doubt. I read Saturn in Pisces, one of the placements that held most often in my notebook."
   - q: "When was Saturn conjunct Fomalhaut?"
     a: "For births from 1930 to 2009: March 1935 and mid-October to November 1935; mid-April to mid-May 1964, mid-July to mid-August 1964 and January 1965; late February to early March 1994. Months in between don’t count, because Saturn moved on and came back."
   - q: "How rare is Saturn conjunct Fomalhaut?"
-    a: "About 1 person in 183 born between 1930 and 2009, close to the average for a one-degree window. Everyone born in the same few months shares it, so it marks a stretch of births rather than a day."
-  - q: "Is Saturn close to Fomalhaut in the sky?"
-    a: "No. Fomalhaut lies 21° south of the ecliptic and Saturn keeps within a few degrees of it, so on each pass Saturn went by about 19° to 20° north of the star. The two share a zodiac degree, not a patch of sky."
+    a: "About 1 person in 183 born between 1930 and 2009, close to the average for a one-degree window. It goes with a few months of births at a time rather than with a birthday, so classmates born weeks apart in 1964 can share it."
+  - q: "When did Saturn last pass Fomalhaut?"
+    a: "In 2023 and early 2024: Saturn crossed the star’s degree on 17 April 2023, came back over it on 23 August while retrograde, and crossed for the last time on 12 January 2024. For people born in 1994, that pass was their Saturn return on the same star."
 sources:
   - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991), and The Astro Study’s count from Saturn’s positions, 1930–2009", note: "Fomalhaut’s position by year, how often Saturn stood within 1° of it, and the dates of its crossings and stations" }
   - { title: "W. B. Henning, “An Astronomical Chapter of the Bundahishn”, Journal of the Royal Asiatic Society (1942), via Wikipedia, “Celestial Commanders”", url: "https://en.wikipedia.org/wiki/Celestial_Commanders", note: "the southern commander once taken for Fomalhaut, more likely Antares" }

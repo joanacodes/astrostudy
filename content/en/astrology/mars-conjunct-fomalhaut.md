@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/fomalhaut", "/astrology/mars", "/astrology/conjunctions-to-fixed-stars", "/astrology/mars-in-pisces", "/astrology/mars-retrograde-in-pisces"]
 faq:
   - q: "What does Mars conjunct Fomalhaut mean?"
-    a: "Mars stood within a degree of Fomalhaut’s zodiac degree, early in Pisces, when you were born. Mars is how you start things, make an effort and hold your ground; the star adds a royal title from astrology books and, in Chinese astronomy, the name of a camp gate. Mars’s sign, house and aspects describe you better."
+    a: "Your birth chart has Mars in the first degrees of Pisces, on the same zodiac degree as Fomalhaut. Mars describes how you start things, put in effort and hold your ground; Chinese astronomy named the star the gate of an army camp. Read without the star, it is Mars in Pisces, in its house and aspects."
   - q: "When was Mars conjunct Fomalhaut?"
     a: "For a few days roughly every two years: Mars passed the star’s degree 45 times between 1930 and 2009. In 2003 it crossed three times, on 28 June, on 2 September while retrograde, and on 22 October, so births around each of those dates have it."
   - q: "Is Mars conjunct Fomalhaut good or bad?"
-    a: "Neither. Mars isn’t a planet of harm, and no star turns it into one. The contact describes the drive of a Mars in Pisces with an old name laid over it. I read Mars through its sign, house and aspects, and I leave the star to the tradition."
+    a: "Neither. Mars isn’t a planet of harm, and no star turns it into one. The contact describes the drive of Mars in Pisces with an old name laid over it. What I look at is the sign, the house and the aspects of Mars; the star stays with the tradition."
   - q: "Is Mars conjunct Fomalhaut rare?"
     a: "About 1 person in 210 born between 1930 and 2009, a little under the average for a one-degree window. Mars usually crossed this degree in two or three days and doubled back over it only once in those eighty years, in 2003."
 sources:

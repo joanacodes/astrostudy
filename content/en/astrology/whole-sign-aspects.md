@@ -5,6 +5,8 @@ description: "Whole-sign aspects in astrology: aspects counted from sign to sign
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "aspects"
+categories: ["Aspects"]
+tags: ["zodiac signs", "traditional astrology"]
 weight: 35
 glyph: "✦"
 definition: "Whole-sign aspects are aspects counted between signs rather than degrees: every planet in Taurus squares every planet in Leo, whatever their degrees. Signs two apart are sextile, three square, four trine, six opposite; neighbouring signs, and signs five apart, make no aspect. I count by degree, and read the sign count as background."
@@ -31,7 +33,7 @@ faq:
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I, trans. F. E. Robbins (Loeb Classical Library, 1940), via Wikipedia, “Tetrabiblos”", url: "https://en.wikipedia.org/wiki/Tetrabiblos", note: "the aspects, from the angles between planets and between signs" }
   - { title: "Wikipedia — Mutual reception", url: "https://en.wikipedia.org/wiki/Mutual_reception", note: "planets whose signs are in sextile, trine, square or opposition, and signs in aversion, not in aspect" }
-  - { title: "Wikipedia — Astrological aspect (Hindu astrology)", url: "https://en.wikipedia.org/wiki/Astrological_aspect_(Hindu_astrology)", note: "aspects counted from degree to degree, or from sign to sign" }
+  - { title: "Wikipedia — Cadent house", url: "https://en.wikipedia.org/wiki/Cadent_house", note: "a place 150° from another, unable to “see” it" }
 ---
 Venus at 20° Taurus and Mars at 5° Leo are 75° apart, too far from 90° for most astrologers to call it a square. Count their signs instead, Taurus to Leo, three signs on, and they are square. Whole-sign aspects are that second count: no orbs, no exact moment, only the signs.
 

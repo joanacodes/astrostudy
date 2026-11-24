@@ -5,6 +5,8 @@ description: "Aversion in astrology: the signs and houses that make no aspect an
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "aspects"
+categories: ["Aspects"]
+tags: ["traditional astrology"]
 weight: 36
 glyph: "✦"
 definition: "Aversion is the traditional name for two signs that make no aspect to each other: neighbours, 30° apart, and signs five apart, 150° away. Planets in them were said not to see each other. Counted house by house, the 2nd, 6th, 8th and 12th are averse to the 1st. I read aversion as two functions without a direct line."
@@ -36,17 +38,17 @@ Aries and Taurus sit side by side, and Aries and Virgo sit 150° apart, yet neit
 
 ## What it is {#what-it-is}
 
-Aversion is the absence of an aspect between two signs. Every sign has four of them: its two neighbours, 30° away, and the two signs five places off, 150° away. Aries is averse to Pisces and Taurus, and to Virgo and Scorpio; Libra to Virgo and Scorpio, and to Pisces and Taurus. With the seven remaining signs it is configured one way or another ([whole-sign aspects](/astrology/whole-sign-aspects/)).
+Aversion is the absence of an aspect between two signs. Every sign is averse to four others: its two neighbours, 30° away, and the two signs five places off, 150° away. Aries is averse to Pisces and Taurus, and to Virgo and Scorpio; Libra to Virgo and Scorpio, and to Pisces and Taurus. With the seven remaining signs it is configured one way or another ([whole-sign aspects](/astrology/whole-sign-aspects/)).
 
 The image behind the word is sight. A planet was said to see the signs it aspects, and so to be able to support or trouble whatever stands in them; a planet in a sign averse to another's can do neither directly.
 
-Ptolemy has his own word for them. In a passage on marriage in the fourth book of the *Tetrabiblos*, he sets the lights "in harmonious aspect, that is, in trine or in sextile" against the lights "in disjunct signs, or in opposition or in quartile". Disjunct signs are signs in aversion. Ptolemy drew forecasts about marriages from such rules; I never read a configuration that way ([How I read](/how-i-read/)), but the vocabulary is worth having.
+Ptolemy has his own word for such signs. In a passage on marriage in the fourth book of the *Tetrabiblos*, he sets the lights "in harmonious aspect, that is, in trine or in sextile" against the lights "in disjunct signs, or in opposition or in quartile". Disjunct signs are signs in aversion. Ptolemy drew forecasts about marriages from such rules; I never read a configuration that way ([How I read](/how-i-read/)), but the vocabulary is worth having.
 
 ## How it works {#how-it-works}
 
 Aversion is a relation between signs, so it holds for whatever stands in them, houses included. Counted house by house, four houses are averse to the [1st house](/astrology/1st-house/), the place of the native: the 2nd and the 12th on either side of it, and the 6th and the 8th, five houses away. The rest of the circle sees the 1st, by sextile, square, trine or opposition.
 
-The tradition made use of this. It counted the 6th, the 8th and the 12th among the difficult houses, and gave the 6th's aversion to the Ascendant, the house of life, as one reason for that house's old link with sickness: from 150° away, it can't "see" the 1st. That is tradition speaking. I never read the [6th house](/astrology/6th-house/) for illness ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)); in an adult's life, I read it as the work and the daily care a life runs on. Aversion on its own didn't make a house hard, though: the 2nd is just as averse to the 1st, and it isn't on that list.
+The tradition counted the 6th, the 8th and the 12th among the difficult houses. For the 6th, it gave aversion as one reason: from 150° away, that house can't "see" the Ascendant, the house of life, and the weakness was tied to its old link with sickness. That is tradition speaking. I never read the [6th house](/astrology/6th-house/) for illness ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)); in an adult's life, I read it as the work and the daily care a life runs on. Aversion on its own didn't make a house hard, though: the 2nd is just as averse to the 1st, and it isn't on that list.
 
 Between planets, aversion matters most where tradition wants two of them to cooperate. Two planets in each other's signs were reckoned to help each other far better when their signs saw each other ([mutual reception](/astrology/mutual-reception/)); in aversion, the exchange has no channel.
 

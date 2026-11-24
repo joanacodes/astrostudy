@@ -5,6 +5,8 @@ description: "Saturn conjunct Spica in a birth chart: Saturn exalted in Libra on
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Spica", "fixed stars"]
 weight: 2594
 glyph: "♄☌★"
 definition: "Saturn conjunct Spica is Saturn within 1° of the zodiac degree of Spica, the Virgin’s ear of wheat: always Saturn in Libra, its sign of exaltation. Between 1930 and 2009 only births from November 1952 to August 1953, or in late September and early October 1982, have it: about 1 person in 332."
@@ -17,13 +19,13 @@ facts:
 related: ["/astrology/spica", "/astrology/saturn", "/astrology/conjunctions-to-fixed-stars", "/astrology/saturn-in-libra", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does Saturn conjunct Spica mean?"
-    a: "Saturn stood within a degree of Spica’s zodiac degree, late in Libra, when you were born. Saturn describes discipline, responsibility and slow mastery; Libra is its sign of exaltation, and Spica adds old names of grain and growth. I read Saturn in Libra through its house and aspects, and the star as tradition."
+    a: "It belongs to births in parts of 1952–53 and in the autumn of 1982, which have Saturn in late Libra on Spica’s degree. Saturn describes discipline, responsibility and slow mastery, and Libra is its sign of exaltation in the tradition. The star adds old names of grain and growth; Saturn in Libra carries the reading."
   - q: "When was Saturn conjunct Spica?"
-    a: "For births from 1930 to 2009: mid-November to early December 1952, mid-April to early May 1953, most of August 1953, and from 27 September to 13 October 1982. The months between those stretches don’t count, because Saturn moved away and came back."
+    a: "For births from 1930 to 2009: mid-November to early December 1952, mid-April to early May 1953, most of August 1953, and from 27 September to 13 October 1982. Saturn crossed the same degree again in 2011–12, just after that period."
   - q: "Why is Saturn conjunct Spica so rare?"
     a: "Saturn needs about 29½ years to go round the zodiac, so it reaches any degree only two or three times in eighty years. On Spica’s degree the 1982 visit was also short: Saturn had turned back just before the star that January and crossed it only once, in October."
   - q: "Is Saturn exalted when it is conjunct Spica?"
-    a: "Yes, in the tradition. Spica’s degree lies in Libra, the sign of Saturn’s exaltation, where the old books thought its sense of measure and law worked best. Exaltation describes ease of expression, not a reward; Saturn still teaches slowly."
+    a: "Yes, in the tradition: Libra is Saturn’s sign of exaltation, and Spica’s degree lies late in it. The old books saw Saturn’s sense of measure and law at its best there; for me that means commitments weighed fairly, though Saturn still teaches slowly."
 sources:
   - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991), and The Astro Study’s count from Saturn’s positions, 1930–2012", note: "Spica’s position by year, how often Saturn stood within 1° of it, and the dates of its crossings and stations" }
   - { title: "R. H. Allen, Star Names and Their Meanings (Kessinger reprint, 2003), via Wikipedia, “Spica”", url: "https://en.wikipedia.org/wiki/Spica", note: "the temple to Menat at Thebes oriented on Spica, and precession moving the star off its line" }

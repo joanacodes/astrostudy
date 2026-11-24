@@ -19,14 +19,14 @@ facts:
   - { k: "Naissances", v: "De juin 1941 à avril 1942, mai 1971, de juin 2000 à mars 2001" }
 related: ["/astrology/algol", "/astrology/saturn", "/astrology/conjunctions-to-fixed-stars", "/astrology/saturn-in-taurus", "/astrology/can-astrology-predict-death"]
 faq:
-  - q: "Que veut dire Saturne conjonction Algol ?"
-    a: "Saturne se trouvait à moins d’un degré du degré zodiacal d’Algol, à la fin du Taureau, à votre naissance. Saturne décrit le travail de longue haleine, les limites et les structures que vous bâtissez ; la tradition y a posé la sombre réputation de l’étoile, même si la magie médiévale comptait Algol parmi les étoiles de Saturne. Je lis Saturne en Taureau, pas la réputation."
+  - q: "Que veut dire Saturne conjonction Algol ?"
+    a: "Votre Saturne se trouve à la fin du Taureau, sur le degré d’Algol, une position partagée par toutes les personnes nées pendant les mêmes quelques mois de 1941-1942, de 1971 ou de 2000-2001. Saturne décrit le travail de longue haleine, les limites et les structures ; la tradition redoutait l’étoile, et la magie médiévale la disait étoile de Saturne. Je lis Saturne en Taureau, pas la réputation."
   - q: "Quand a eu lieu Saturne conjonction Algol ?"
-    a: "Pour les naissances de 1930 à 2009 : de fin juin à fin juillet 1941, la plus grande partie de novembre 1941, de fin mars à début avril 1942, la mi-mai 1971, de la mi-juin à début juillet 2000, de fin novembre à fin décembre 2000, et mars 2001. Les mois intermédiaires ne comptent pas."
+    a: "Pour les naissances de 1930 à 2009 : de fin juin à fin juillet 1941, la plus grande partie de novembre 1941, de fin mars à début avril 1942, la mi-mai 1971, de la mi-juin à début juillet 2000, de fin novembre à fin décembre 2000, et mars 2001. Entre ces périodes, Saturne se trouvait à plus d’un degré de la longitude de l’étoile."
   - q: "Saturne conjonction Algol, est-ce mauvais ?"
     a: "Non. La tradition rangeait Saturne parmi les maléfiques et disait Algol malheureuse, mais sa propre liste béhénienne faisait d’Algol une étoile de Saturne : les vieilles étiquettes ne s’accordent même pas entre elles. Le contact décrit Saturne en Taureau et n’annonce aucun malheur."
-  - q: "Quand aura lieu la prochaine conjonction de Saturne et d’Algol ?"
-    a: "Saturne rebroussera chemin en septembre 2029 à un degré et demi environ de l’étoile, puis franchira son degré le 6 mai 2030. La précession aura alors porté Algol vers 26°35′ du Taureau."
+  - q: "Quand aura lieu la prochaine conjonction de Saturne et d’Algol ?"
+    a: "Saturne rebroussera chemin en septembre 2029 à un degré et demi environ de l’étoile, puis franchira son degré le 6 mai 2030. La précession aura alors porté Algol vers 26°35′ du Taureau, un peu plus loin que pour toutes les naissances précédentes."
 sources:
   - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et le décompte de The Astro Study d’après la position de Saturne, 1930–2030", note: "la position d’Algol selon l’année, la fréquence de Saturne à moins de 1° d’elle, et les dates des passages et des stations" }
   - { title: "Henri Corneille Agrippa, La Philosophie occulte (1531-1533), via Wikipédia en anglais, « Behenian fixed star »", url: "https://en.wikipedia.org/wiki/Behenian_fixed_star", note: "Algol, étoile de Saturne et de Jupiter ; une planète à moins de six degrés de son étoile" }

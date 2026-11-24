@@ -5,6 +5,8 @@ description: "Moon conjunct Spica in a birth chart: the Moon in late Libra on th
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Moon", "Spica", "fixed stars"]
 weight: 2591
 glyph: "☽☌★"
 definition: "Moon conjunct Spica is the Moon within 1° of Spica’s zodiac degree, the Virgin’s ear of wheat, late in Libra. The Moon crosses that degree every month in three or four hours, so the birth time decides it, and in some years it passes right in front of the star. In Chinese astronomy, Spica opens the Moon’s twenty-eight mansions."
@@ -17,9 +19,9 @@ facts:
 related: ["/astrology/spica", "/astrology/moon", "/astrology/conjunctions-to-fixed-stars", "/astrology/moon-in-libra", "/astrology/28-lunar-mansions"]
 faq:
   - q: "What does Moon conjunct Spica mean?"
-    a: "The Moon stood within a degree of Spica’s zodiac degree, late in Libra, when you were born. The Moon describes what you need in order to settle; Spica brings old names of grain and growth, and a place at the head of the Chinese lunar mansions. I read the Moon in Libra through its house and aspects."
+    a: "Your Moon is on Spica’s degree, late in Libra, which only an accurate birth time can confirm. The Moon describes what you need in order to settle; Spica brings old names of grain and growth, and opens the Chinese lunar mansions. The Moon in Libra, its house and its aspects describe you better than the star."
   - q: "How do I know if my Moon is conjunct Spica?"
-    a: "Only from an accurately timed chart. The Moon reaches Spica’s degree every month but stays within a degree of it for three or four hours, so the date can’t settle it. For births from 1930 to 2009, the window runs from about 22° to 25° Libra."
+    a: "With your recorded birth time: the Moon has to lie within a degree of Spica for your birth year, somewhere between about 22° and 25° Libra for births from 1930 to 2009. Without the time no one can say, since the Moon spends only three or four hours a month in that window."
   - q: "Can the Moon cover Spica?"
     a: "Yes. Spica lies only about 2° from the Sun’s path, inside the band the Moon wanders through, so in some years the Moon passes in front of it every month, as seen from part of the Earth. Runs of these occultations came in 1987–88, in 1994–95 and in 2024–25."
   - q: "Which lunar mansion is Spica in?"

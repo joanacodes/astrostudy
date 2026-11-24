@@ -5,6 +5,8 @@ description: "Mars conjunct Spica in a birth chart: Mars in Libra on the ear of 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Spica", "fixed stars"]
 weight: 2593
 glyph: "♂☌★"
 definition: "Mars conjunct Spica is Mars within 1° of Spica’s zodiac degree, the Virgin’s ear of wheat, late in Libra. About 1 person in 155 has it, the most of any contact with this star, because Mars’s retrograde loops brought it back there in 1935, 1967 and 1999. An Arabic name calls Spica unarmed: a quiet star for effort."
@@ -17,11 +19,11 @@ facts:
 related: ["/astrology/spica", "/astrology/mars", "/astrology/conjunctions-to-fixed-stars", "/astrology/mars-in-libra", "/astrology/mars-retrograde-in-libra"]
 faq:
   - q: "What does Mars conjunct Spica mean?"
-    a: "Mars stood within a degree of Spica’s zodiac degree, late in Libra, when you were born. Mars describes your effort and how you go after things; Spica brings names of grain, and one Arabic name that calls it unarmed. I read Mars in Libra through its house and aspects, and leave the star to the tradition."
+    a: "In your chart, Mars in late Libra shares its zodiac degree with Spica, the Virgin’s ear of wheat. Mars describes your effort and how you go after things; one Arabic name calls Spica the unarmed star. That suits a Mars read as effort rather than force, in Libra, through its house and aspects."
   - q: "Why is Mars conjunct Spica so common?"
     a: "About 1 person in 155 born between 1930 and 2009 has it, more than any other contact with this star. Mars’s retrograde loops brought it back to Spica’s degree in 1935, 1967 and 1999: three crossings in each of the first two years, and in the third a standstill half a degree from the star."
-  - q: "Is Mars weak in Libra?"
-    a: "The tradition puts Mars in detriment in Libra, the sign opposite Aries. In practice it describes effort that runs through partnership and a sense of fairness, often slower to start on its own behalf; it is a different way of spending effort, not a lesser one."
+  - q: "When was Mars conjunct Spica?"
+    a: "For a few days in most two-year cycles, and for weeks in three years: 1935, with crossings in February, March and July; 1967, in January, April and July; and 1999, in January and again from late May to mid-June, when Mars stood almost still beside the degree."
   - q: "Why is Spica called the unarmed star?"
     a: "Arabic star lists called it al-simāk al-aʽzal, the unarmed simāk, and called Arcturus, which shares almost the same zodiac degree, as-simāk ar-rāmiḥ, the simāk of the lancer. Two bright stars at one degree, one with a lance and one without."
 sources:

@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/algol", "/astrology/mars", "/astrology/conjunctions-to-fixed-stars", "/astrology/mars-in-taurus", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "What does Mars conjunct Algol mean?"
-    a: "Mars stood within a degree of Algol’s zodiac degree, late in Taurus, when you were born. Mars is your drive and your way of acting; the tradition, which called Mars a malefic, found it here beside its unluckiest star. I read neither label as a forecast: Mars in Taurus, its house and its aspects describe you."
+    a: "It describes a Mars in late Taurus that shares its zodiac degree with Algol, the star in Medusa’s head. The tradition, which called Mars a malefic, set it here beside its unluckiest star; neither label is a forecast. Mars in Taurus, with its house and aspects, is what describes your drive."
   - q: "Is Mars conjunct Algol dangerous?"
     a: "No. It is a position along the zodiac, shared by about 1 person in 207, and it foretells nothing about your safety or your life. The fear attached to it comes from a star’s name and an old reputation, and a reputation is not an event."
   - q: "When was Mars conjunct Algol?"
-    a: "For two or three days roughly every two years: 45 passes between 1930 and 2009. In 1958–59 Mars crossed the degree three times, on 8 September, on 12 November while retrograde, and on 31 January 1959, so births near each of those dates have it."
+    a: "Mars reaches Algol’s degree about once every two years and stays two or three days, so most years have no birth with it at all. The longest stay came in 1958–59, with crossings on 8 September and, retrograde, on 12 November 1958, then a last one on 31 January 1959."
   - q: "Is Mars weak in Taurus?"
     a: "The tradition puts Mars in detriment in Taurus, the sign opposite Scorpio, which Mars rules traditionally and Pluto in modern tropical astrology. That means Mars works against the grain of the sign, slower and more deliberate, not that it works badly. Every Mars on Algol is a Mars in Taurus."
 sources:

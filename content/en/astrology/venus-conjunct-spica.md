@@ -5,6 +5,8 @@ description: "Venus conjunct Spica in a birth chart: Venus at home in Libra on t
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Spica", "fixed stars"]
 weight: 2592
 glyph: "♀☌★"
 definition: "Venus conjunct Spica is Venus within 1° of the zodiac degree of Spica, the Virgin’s ear of wheat: always Venus in Libra, one of its own signs, and only for births between about 30 August and 2 December. About 1 person in 218 has it. Medieval magic gave Spica to Venus and Mercury, so star and sign agree."
@@ -17,11 +19,11 @@ facts:
 related: ["/astrology/spica", "/astrology/venus", "/astrology/conjunctions-to-fixed-stars", "/astrology/venus-in-libra", "/astrology/venus-star-point"]
 faq:
   - q: "What does Venus conjunct Spica mean?"
-    a: "Venus stood within a degree of Spica’s zodiac degree, late in Libra, when you were born. Venus describes what you are drawn to and how you like exchange to balance out; the tradition adds a star it assigned to Venus and Mercury. I read Venus in Libra through its house and aspects."
+    a: "It puts Venus in its own sign, Libra, on the degree of Spica, within one degree. Venus describes what draws you and how you like exchange to balance out; medieval magic made Spica a star of Venus and Mercury. A kind old image, kept as an image: Venus in Libra is what I read."
   - q: "Is Venus conjunct Spica a good placement?"
     a: "It is one the tradition liked: Venus in its own sign, on a star medieval magic gave to Venus. I don’t sort placements into good and bad, though. I read it as Venus in Libra, and I treat the star’s good name as history, just as I would a bad one."
   - q: "What birthdays can have Venus conjunct Spica?"
-    a: "Births between about 30 August and 2 December, because Venus never moves more than about 47° from the Sun. Within those months the year decides: Venus crosses Spica’s degree once a year, on a date that shifts from one year to the next."
+    a: "Births from about 30 August to 2 December. Which date applies depends on the year, since Venus reaches Spica’s degree once a year on a different day; an ephemeris for your birth year shows when, and a chart shows whether you were born on it."
   - q: "How close does Venus come to Spica in the sky?"
     a: "Sometimes very close. On 30 or 31 August of every eighth year from 1930 to 2002, Venus passed within about half a degree of Spica in the evening sky. Venus last passed right in front of the star in 1783 and is due to do so again in 2197."
 sources:

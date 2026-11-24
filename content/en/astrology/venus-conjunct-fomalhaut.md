@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/fomalhaut", "/astrology/venus", "/astrology/conjunctions-to-fixed-stars", "/astrology/venus-in-pisces", "/astrology/exaltation"]
 faq:
   - q: "What does Venus conjunct Fomalhaut mean?"
-    a: "Venus stood within a degree of Fomalhaut’s zodiac degree, early in Pisces, when you were born. Venus describes what you value and how you like affection to be exchanged; the tradition adds the star’s royal title and its myths. I treat the star as old lore and read Venus through its sign, house and aspects."
+    a: "Your Venus sits in the first degrees of Pisces, on the zodiac degree of Fomalhaut. Venus describes what you value and how you like affection to go back and forth; the star adds a royal title and a Syrian tale of a fish that saved Aphrodite’s daughter. I keep the star as lore and read Venus in Pisces."
   - q: "Is Venus exalted when it is conjunct Fomalhaut?"
-    a: "Yes, in the tradition’s terms. Fomalhaut sits in the first degrees of Pisces, the sign where Venus is said to be exalted, so every Venus on this star is a Venus in Pisces. Exaltation is an old measure of dignity; it describes ease of expression, not a promise of anything."
+    a: "Yes, in the tradition’s terms. Fomalhaut sits in the first degrees of Pisces, the sign where Venus is said to be exalted, so every Venus on this star is a Venus in Pisces. Exaltation is the old word for a sign where a planet is especially honoured; here it describes ease, and promises nothing."
   - q: "What birthdays can have Venus conjunct Fomalhaut?"
-    a: "Only births between about 6 January and 10 April, because Venus never moves more than about 47° from the Sun. Within those months the year decides: from 1930 to 2009, Venus reached the star once a year, on a different date each time, and stayed a day or two."
+    a: "Only births from about 6 January to 10 April. Venus is never more than about 47° from the Sun, so it can stand in early Pisces only while the Sun is between mid-Capricorn and mid-Aries; inside that span, the date changes from one year to the next."
   - q: "How rare is Venus conjunct Fomalhaut?"
     a: "About 1 person in 216 born between 1930 and 2009, rarer than the 1 in 180 a one-degree window gives on average. In those eighty years Venus never turned retrograde over this degree, so it never doubled back to cross it again."
 sources:

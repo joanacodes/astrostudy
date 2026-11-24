@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/algol", "/astrology/moon", "/astrology/conjunctions-to-fixed-stars", "/astrology/moon-in-taurus", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Moon conjunct Algol mean?"
-    a: "The Moon stood within a degree of Algol’s zodiac degree, late in Taurus, when you were born. The Moon describes your needs and how you steady yourself; the tradition laid the star’s grim names over it. I keep those names as history and read the Moon through its sign, house and aspects."
+    a: "In your chart the Moon falls on Algol’s degree, late in Taurus, a position it holds for only a few hours each month. The Moon describes your needs and how you steady yourself; the tradition hung the star’s grim names on it. Those names are history, and the Moon in Taurus is what I’d read."
   - q: "How do I know if my Moon is conjunct Algol?"
-    a: "You need an accurate birth time. The Moon passes Algol’s degree every month but takes only three or four hours to cross the one-degree window on either side, so the date can’t settle it. For births from 1930 to 2009 the window lies between about 24° and 27° Taurus."
+    a: "Ask for a chart cast for your recorded birth time and check whether the Moon lies within a degree of Algol for your birth year, between about 24° and 27° Taurus for births from 1930 to 2009. The Moon crosses that window in three or four hours, so a date on its own is never enough."
   - q: "Is Moon conjunct Algol bad?"
     a: "No. The tradition’s unlucky star sits in the very sign where the same tradition exalts the Moon, which tells you how far to trust either label. The contact predicts nothing about your health, your safety or your life; it describes a Moon in Taurus."
   - q: "Is the Moon exalted when it is conjunct Algol?"
-    a: "Yes, in the old scheme of dignities. Algol’s degree falls in the last part of Taurus, and Taurus is the Moon’s sign of exaltation, so every Moon on this star is an exalted Moon. Exaltation describes ease of expression; it is not a reward or a guarantee."
+    a: "Yes, in the old scheme of dignities: Taurus is the Moon’s sign of exaltation, and Algol’s degree lies in its last part. The tradition therefore honours the very place where it fears the star, which says more about the tradition than about you."
 sources:
   - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991), and The Astro Study’s count from the Moon’s positions, 1930–2009", note: "Algol’s position by year, the hours the Moon spends within 1° of it, and its distance from the star on each pass" }
   - { title: "R. H. Allen, Star Names: Their Lore and Meaning (1899), and S. Porceddu and others, “Evidence of Periodicity in Ancient Egyptian Calendars of Lucky and Unlucky Days”, Cambridge Archaeological Journal (2008), via Wikipedia, “Algol”", url: "https://en.wikipedia.org/wiki/Algol", note: "the ghoul’s head, the unlucky reputation, and the Egyptian calendar read as a record of the star’s blinking" }

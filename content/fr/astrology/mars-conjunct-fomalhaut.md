@@ -19,12 +19,12 @@ facts:
   - { k: "Naissances", v: "Quelques jours tous les deux ans environ ; trois passages en 2003, dont le deuxième en rétrograde" }
 related: ["/astrology/fomalhaut", "/astrology/mars", "/astrology/conjunctions-to-fixed-stars", "/astrology/mars-in-pisces", "/astrology/mars-retrograde-in-pisces"]
 faq:
-  - q: "Que veut dire Mars conjonction Fomalhaut ?"
-    a: "Mars se trouvait à moins d’un degré du degré zodiacal de Fomalhaut, au début des Poissons, à votre naissance. Mars dit comment vous commencez, fournissez un effort et tenez bon ; l’étoile y ajoute un titre royal venu des livres d’astrologie et, dans l’astronomie chinoise, le nom d’une porte de camp. Le signe, la maison et les aspects de Mars vous décrivent mieux."
+  - q: "Que veut dire Mars conjonction Fomalhaut ?"
+    a: "Votre thème place Mars dans les premiers degrés des Poissons, sur le même degré du zodiaque que Fomalhaut. Mars décrit votre manière de commencer, de fournir un effort et de tenir bon ; l’astronomie chinoise faisait de l’étoile la porte d’un camp d’armée. Sans l’étoile, c’est Mars en Poissons, dans sa maison et avec ses aspects."
   - q: "Quand a lieu Mars conjonction Fomalhaut ?"
     a: "Quelques jours, environ tous les deux ans : Mars a franchi le degré de l’étoile 45 fois entre 1930 et 2009. En 2003, le degré a été franchi trois fois, le 28 juin, le 2 septembre en rétrograde et le 22 octobre : les naissances autour de chacune de ces dates ont ce contact."
-  - q: "Mars conjonction Fomalhaut, est-ce bon ou mauvais ?"
-    a: "Ni l’un ni l’autre. Mars n’est pas une planète du malheur, et aucune étoile n’en fait une. Le contact décrit l’élan de Mars en Poissons, avec un vieux nom posé par-dessus. Je lis Mars par son signe, sa maison et ses aspects, et je laisse l’étoile à la tradition."
+  - q: "Mars conjonction Fomalhaut, est-ce bon ou mauvais ?"
+    a: "Ni l’un ni l’autre. Mars n’est pas une planète du malheur, et aucune étoile n’en fait une. Le contact décrit l’élan de Mars en Poissons, avec un vieux nom posé par-dessus. Ce que je regarde, ce sont le signe, la maison et les aspects de Mars ; l’étoile reste à la tradition."
   - q: "Mars conjonction Fomalhaut, est-ce rare ?"
     a: "Environ 1 personne sur 210 née entre 1930 et 2009, un peu moins que la moyenne d’une fenêtre d’un degré. Mars franchissait d’ordinaire ce degré en deux ou trois jours, et ne l’a retraversé en marche arrière qu’une seule fois en quatre-vingts ans, en 2003."
 sources:

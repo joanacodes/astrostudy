@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/fomalhaut", "/astrology/moon", "/astrology/conjunctions-to-fixed-stars", "/astrology/moon-in-pisces", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Moon conjunct Fomalhaut mean?"
-    a: "The Moon stood within a degree of Fomalhaut’s zodiac degree, early in Pisces, when you were born. Astrologers who use stars bring the star’s old myth and royal title to the Moon, the part of a chart that describes what you need to feel safe. The Moon’s own sign, house and aspects describe that far better."
+    a: "At your birth the Moon was crossing the first degrees of Pisces on Fomalhaut’s degree, a passage that lasts only a few hours each month. The star brings an old Greek picture of a fish drinking from Aquarius’s jar, and a doubtful royal title. Your needs are better described by the Moon in Pisces and its house."
   - q: "How do I know if my Moon is conjunct Fomalhaut?"
-    a: "From a chart cast for an accurate birth time. The Moon reaches the star’s degree every month but stays within a degree of it for three or four hours only, so the date alone can’t settle it. For births from 1930 to 2009, the window runs from about 2° to 5° Pisces."
+    a: "Look at the Moon’s degree in a chart cast for your recorded birth time: for births from 1930 to 2009 it has to fall between about 2° and 5° Pisces, within a degree of the star for your year. Without a time the question can’t be answered, because the Moon moves about 13° a day."
   - q: "Can the Moon pass in front of Fomalhaut?"
     a: "Never. The Moon wanders only about five degrees north or south of the Sun’s path, and Fomalhaut lies 21° south of it. On each monthly pass the Moon goes by somewhere between 16° and 26° north of the star, so the two share a zodiac degree and nothing more."
   - q: "Is Moon conjunct Fomalhaut rare?"
-    a: "About 1 person in 184 born between 1930 and 2009 has it, almost exactly the share a one-degree window gives. It can come with any birthday, because the Moon returns every 27⅓ days; what keeps it uncommon is how brief each visit is."
+    a: "About 1 person in 184 born between 1930 and 2009 has it, almost exactly the share a one-degree window gives. Any birthday can carry it, because the Moon comes back every 27⅓ days; what keeps it uncommon is how brief each visit is."
 sources:
   - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991), and The Astro Study’s count from the Moon’s positions, 1930–2009", note: "Fomalhaut’s position by year, the hours the Moon spends within 1° of it, and its distance from the star on each pass" }
   - { title: "Theony Condos, Star Myths of the Greeks and Romans: A Sourcebook (1997), via Wikipedia, “Piscis Austrinus”", url: "https://en.wikipedia.org/wiki/Piscis_Austrinus", note: "the Southern Fish swallowing the water poured out by Aquarius" }

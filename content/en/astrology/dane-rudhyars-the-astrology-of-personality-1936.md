@@ -5,6 +5,8 @@ description: "Dane Rudhyar’s The Astrology of Personality (1936): what this bo
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "history"
+categories: ["History"]
+tags: []
 weight: 24
 glyph: "✦"
 definition: "Dane Rudhyar’s The Astrology of Personality is a book of astrological theory published in New York in 1936. It reformulates astrology in the terms of modern psychology and philosophy, and reads the birth chart as a picture of the psychological forces in a person, not as a set of causes. Rudhyar called the approach humanistic astrology."
@@ -54,7 +56,7 @@ It begins by looking back. Early in the book, Rudhyar traces the astrology of hi
 
 It changes what a chart is for. In the book, the chart causes nothing. It corresponds to a person by synchronicity rather than by any force the planets exert, and what it shows are psychological tendencies that leave the person free to answer them in their own way. That takes it a long way from [William Lilly’s Christian Astrology (1647)](/astrology/william-lillys-christian-astrology-1647/), which judged questions and foretold events.
 
-It takes in the newest planet. Pluto had been found only six years before, in 1930, and the book credits the symbol most astrologers now use for it, an orb above a bident, to Paul Clancy Publications, founded in 1933 by the Paul Clancy in whose magazine, *American Astrology*, Rudhyar's first astrological articles had appeared ([Pluto](/astrology/pluto/)). Today I read Pluto beside Mars as a ruler of Scorpio: I read both, the modern ruler and the traditional one ([Traditional and modern rulers](/astrology/traditional-and-modern-rulers/)).
+It takes in the newest planet. Pluto had been found only six years before, in 1930, and the book credits the symbol most astrologers now use for it, an orb above a bident, to Paul Clancy Publications, founded in 1933 ([Pluto](/astrology/pluto/)). Paul Clancy's magazine, *American Astrology*, was where Rudhyar's first astrological articles had appeared. Today I read Pluto beside Mars as a ruler of Scorpio: I read both, the modern ruler and the traditional one ([Traditional and modern rulers](/astrology/traditional-and-modern-rulers/)).
 
 Where I stand with it is simple. A chart describes tendencies, not fate, and you stay in charge of your choices; on that, Rudhyar and I agree. Why a chart should describe anything at all is another matter. Synchronicity is his answer. I don't claim to know, and my own testing, a tick or a cross beside each placement of my chart and of other people's, is a notebook, not a study: it proves nothing about astrology in general ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
 

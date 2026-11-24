@@ -19,14 +19,14 @@ facts:
   - { k: "Naissances", v: "À toute époque de l’année : l’heure décide, pas la date" }
 related: ["/astrology/fomalhaut", "/astrology/moon", "/astrology/conjunctions-to-fixed-stars", "/astrology/moon-in-pisces", "/blog/unknown-birth-time"]
 faq:
-  - q: "Que veut dire Lune conjonction Fomalhaut ?"
-    a: "La Lune se trouvait à moins d’un degré du degré zodiacal de Fomalhaut, au début des Poissons, à votre naissance. Ceux qui utilisent les étoiles prêtent le vieux mythe et le titre royal de l’étoile à la Lune, qui dit ce dont vous avez besoin pour vous sentir en sécurité. Son signe, sa maison et ses aspects le décrivent bien mieux."
-  - q: "Comment savoir si ma Lune est conjointe à Fomalhaut ?"
-    a: "Avec un thème dressé pour une heure de naissance exacte. La Lune atteint le degré de l’étoile chaque mois, mais n’y reste à moins d’un degré que trois ou quatre heures : la date seule ne suffit pas. Pour les naissances de 1930 à 2009, la fenêtre va d’environ 2° à 5° des Poissons."
+  - q: "Que veut dire Lune conjonction Fomalhaut ?"
+    a: "À votre naissance, la Lune franchissait les premiers degrés des Poissons, sur le degré de Fomalhaut, un passage qui ne dure que quelques heures chaque mois. L’étoile apporte une vieille image grecque, un poisson qui boit à la jarre du Verseau, et un titre royal douteux. La Lune en Poissons et sa maison décrivent bien mieux vos besoins."
+  - q: "Comment savoir si ma Lune est conjointe à Fomalhaut ?"
+    a: "Regardez le degré de la Lune dans un thème calculé pour votre heure de naissance consignée : pour les naissances de 1930 à 2009, il doit se situer entre 2° et 5° des Poissons environ, à moins d’un degré de l’étoile pour votre année. Sans heure, impossible de répondre, puisque la Lune avance d’environ 13° par jour."
   - q: "La Lune peut-elle passer devant Fomalhaut ?"
     a: "Jamais. La Lune ne s’écarte que d’environ cinq degrés au nord ou au sud de la route du Soleil, et Fomalhaut se trouve à 21° au sud de cette route. À chaque passage mensuel, la Lune passe entre 16° et 26° au nord de l’étoile : les deux partagent un degré du zodiaque, rien de plus."
-  - q: "Lune conjonction Fomalhaut, est-ce rare ?"
-    a: "Environ 1 personne sur 184 née entre 1930 et 2009 l’a, presque exactement la part que donne une fenêtre d’un degré. Ce contact peut accompagner n’importe quel anniversaire, puisque la Lune revient tous les 27 jours et un tiers ; ce qui le rend peu commun, c’est la brièveté de chaque visite."
+  - q: "Lune conjonction Fomalhaut, est-ce rare ?"
+    a: "Environ 1 personne sur 184 née entre 1930 et 2009 l’a, presque exactement la part que donne une fenêtre d’un degré. N’importe quel anniversaire peut porter ce contact, puisque la Lune revient tous les 27 jours et un tiers ; ce qui le rend peu commun, c’est la brièveté de chaque visite."
 sources:
   - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et le décompte de The Astro Study d’après la position de la Lune, 1930–2009", note: "la position de Fomalhaut selon l’année, les heures que la Lune passe à moins de 1° d’elle et sa distance à l’étoile à chaque passage" }
   - { title: "Theony Condos, Star Myths of the Greeks and Romans : A Sourcebook (1997), via Wikipédia en anglais, « Piscis Austrinus »", url: "https://en.wikipedia.org/wiki/Piscis_Austrinus", note: "le Poisson austral qui avale l’eau versée par le Verseau" }

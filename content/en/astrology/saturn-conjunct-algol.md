@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/algol", "/astrology/saturn", "/astrology/conjunctions-to-fixed-stars", "/astrology/saturn-in-taurus", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "What does Saturn conjunct Algol mean?"
-    a: "Saturn stood within a degree of Algol’s zodiac degree, late in Taurus, when you were born. Saturn describes long work, limits and the structures you build; the tradition laid the star’s grim reputation over it, though medieval magic counted Algol among Saturn’s own stars. I read Saturn in Taurus, not the reputation."
+    a: "Your Saturn lies in late Taurus on Algol’s degree, a position shared by everyone born in the same few months of 1941–42, 1971 or 2000–01. Saturn describes long work, limits and structure; the tradition dreaded the star, while medieval magic called it one of Saturn’s own. I read Saturn in Taurus, not the reputation."
   - q: "When was Saturn conjunct Algol?"
-    a: "For births from 1930 to 2009: late June to late July 1941, most of November 1941, late March to early April 1942, mid-May 1971, mid-June to early July 2000, late November to late December 2000, and March 2001. The months in between don’t count."
+    a: "For births from 1930 to 2009: late June to late July 1941, most of November 1941, late March to early April 1942, mid-May 1971, mid-June to early July 2000, late November to late December 2000, and March 2001. Between those stretches, Saturn was more than a degree from the star’s longitude."
   - q: "Is Saturn conjunct Algol bad?"
     a: "No. The tradition called Saturn a malefic and Algol unlucky, yet its own Behenian list made Algol a star of Saturn, so the old labels don’t even agree with each other. The contact describes Saturn in Taurus and predicts no misfortune."
   - q: "When is Saturn next conjunct Algol?"
-    a: "Saturn turns back in September 2029 about a degree and a half short of the star, then crosses its degree on 6 May 2030. By then precession will have carried Algol to about 26°35′ Taurus."
+    a: "Saturn turns back in September 2029 about a degree and a half short of the star, then crosses its degree on 6 May 2030. By then precession will have carried Algol to about 26°35′ Taurus, a little further on than for any birth before it."
 sources:
   - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991), and The Astro Study’s count from Saturn’s positions, 1930–2030", note: "Algol’s position by year, how often Saturn stood within 1° of it, and the dates of its crossings and stations" }
   - { title: "Heinrich Cornelius Agrippa, Three Books of Occult Philosophy (1531–33), via Wikipedia, “Behenian fixed star”", url: "https://en.wikipedia.org/wiki/Behenian_fixed_star", note: "Algol as a star of Saturn and Jupiter; a planet within six degrees of its own star" }

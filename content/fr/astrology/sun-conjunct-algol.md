@@ -19,14 +19,14 @@ facts:
   - { k: "Naissances", v: "Vers les 16 et 17 mai, en 1930 comme en 1970 ou en 2009" }
 related: ["/astrology/algol", "/astrology/sun", "/astrology/conjunctions-to-fixed-stars", "/astrology/sun-in-taurus", "/astrology/can-astrology-predict-death"]
 faq:
-  - q: "Que veut dire Soleil conjonction Algol ?"
-    a: "Le Soleil se trouvait à moins d’un degré du degré zodiacal d’Algol, à la fin du Taureau, à votre naissance. La tradition comptait Algol parmi les étoiles les plus malheureuses, à cause de la tête de Gorgone qu’elle marque. C’est un savoir ancien, pas une prédiction : le signe, la maison et les aspects du Soleil vous décrivent, et rien dans ce contact n’annonce de malheur."
-  - q: "Quelle date de naissance donne Soleil conjonction Algol ?"
-    a: "Le 16 ou le 17 mai environ, chaque année de 1930 à 2009. Avec l’orbe plus large de William Lilly, cinq degrés, la vieille étiquette s’étendrait à tous les anniversaires du 12 au 21 mai environ ; la fenêtre d’un degré utilisée ici la ramène à deux jours."
+  - q: "Que veut dire Soleil conjonction Algol ?"
+    a: "Cela correspond à un anniversaire de la mi-mai, le 16 ou le 17, avec le Soleil à la fin du Taureau sur le degré d’Algol. La tradition comptait Algol parmi les étoiles les plus malheureuses, à cause de la tête de Gorgone qu’elle marque ; c’est une histoire d’étoile, pas une prédiction. Le Soleil en Taureau, sa maison et ses aspects, voilà ce qui vous décrit."
+  - q: "Quelle date de naissance donne Soleil conjonction Algol ?"
+    a: "Le 16 ou le 17 mai, quelle que soit l’année entre 1930 et 2009. L’orbe plus large de William Lilly, cinq degrés, aurait étendu la vieille étiquette à tous les anniversaires du 12 au 21 mai environ ; la fenêtre d’un degré utilisée ici la ramène à deux jours."
   - q: "Soleil conjonction Algol, est-ce mauvais ?"
     a: "Non. « Malheureuse » est le mot de la tradition pour une étoile nommée d’après la tête d’un monstre, pas une description des personnes nées à la mi-mai. Le Soleil sur Algol est un Soleil de fin de Taureau sous une vieille histoire, et une histoire n’est pas une prédiction."
-  - q: "Soleil conjonction Algol, est-ce rare ?"
-    a: "Environ 1 personne sur 176 née entre 1930 et 2009, presque exactement ce que donne une fenêtre d’un degré. Toutes les personnes nées ces deux jours de mai l’ont : le contact est partagé, année après année, par un très grand nombre de gens."
+  - q: "Soleil conjonction Algol, est-ce la même chose qu’un Soleil en Taureau ?"
+    a: "Tout Soleil sur Algol est un Soleil en Taureau, dans les derniers degrés du signe, mais seuls deux des quelque trente anniversaires du signe portent ce contact. Ce que décrit le Soleil en Taureau, un but tenu avec constance et une fidélité à ce qui compte pour vous, vaut pour tous ; Algol n’ajoute qu’une vieille histoire."
 sources:
   - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et le décompte de The Astro Study d’après la position du Soleil, 1930–2009", note: "la position d’Algol selon l’année, les anniversaires à moins de 1° et de 5°, et le nombre de personnes qui ont ce contact" }
   - { title: "Ptolémée, Tétrabible, livre IV, trad. F. E. Robbins (Loeb Classical Library, 1940), et R. H. Allen, Star Names : Their Lore and Meaning (1899), via Wikipédia en anglais, « Algol »", url: "https://en.wikipedia.org/wiki/Algol", note: "la Gorgone de Persée et sa réputation malheureuse" }

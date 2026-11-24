@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/algol", "/astrology/venus", "/astrology/conjunctions-to-fixed-stars", "/astrology/venus-in-taurus", "/astrology/benefics-and-malefics"]
 faq:
   - q: "What does Venus conjunct Algol mean?"
-    a: "Venus stood within a degree of Algol’s zodiac degree, late in Taurus, when you were born. Venus describes what you value and whom you are drawn to; the tradition laid Algol’s grim reputation over it. I read Venus in Taurus through its house and aspects, and leave the reputation to the old books."
+    a: "Venus in your chart shares its zodiac degree with Algol, within one degree, in the last part of Taurus. Venus describes what you value and whom you are drawn to; the tradition laid the star’s grim reputation over it. Read without the star, it is Venus at home in Taurus, in its house and aspects."
   - q: "Is Venus conjunct Algol bad for love?"
     a: "No. Nothing in a birth chart forecasts how a relationship will go, and a star’s old name can’t either. The tradition called Venus a benefic and Algol one of the unluckiest stars; put together, the labels contradict each other more than they describe anyone."
   - q: "What birthdays can have Venus conjunct Algol?"
-    a: "Births between about 30 March and 3 July, because Venus always stays within about 47° of the Sun. Inside those months the year decides: Venus reaches Algol’s degree once a year, on a different date each time, and stays a day or two."
+    a: "Births between about 30 March and 3 July, when the Sun is near enough to late Taurus for Venus to stand there. In any one year Venus reaches the star on a single date, which moves from year to year, and stays only a day or two."
   - q: "What stone goes with Algol?"
     a: "The diamond. Medieval magic chose fifteen stars, the Behenian stars, and paired each with a gem and a plant for making talismans; Algol received the diamond and black hellebore. It is a piece of history about the star, not a remedy for anything."
 sources:

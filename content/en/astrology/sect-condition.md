@@ -1,13 +1,13 @@
 ---
 title: "Sect condition"
 h1: "Sect condition in astrology"
-description: "Sect condition in astrology: how each planet fares against its chart’s sect, its sign’s gender and its side of the horizon, from hayz to contrary on every count."
+description: "Sect condition in astrology: how each planet fares with its chart’s sect, its sign’s gender and its side of the horizon, from hayz to failing all three."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "dignities"
 weight: 36
 glyph: "✦"
-definition: "Sect condition is how a planet stands with the sect of its chart: whether it belongs to the day or the night side the chart was born on, and, in the medieval refinement, whether its sign and its side of the horizon agree as well. A planet passing all three tests is in hayz. I read it as how far a function runs with the chart’s grain."
+definition: "Sect condition is how a planet stands with the sect of its chart: whether it belongs to the chart’s day or night side and, in the medieval refinement, whether its sign and its side of the horizon agree too. Passing all three tests is hayz. I read it as how far a function runs with the chart’s grain."
 facts:
   - { k: "What it is", v: "A planet’s standing with the day or night sect of its chart" }
   - { k: "Test one, the chart", v: "A day planet in a day chart, a night planet in a night chart" }
@@ -36,7 +36,7 @@ Sect sorts whole charts into day and night. Sect condition turns the same questi
 
 ## What it is {#what-it-is}
 
-Every chart has a sect, day if the Sun was above the horizon at birth, night if it was below ([Sect: day and night charts](/astrology/sect-day-and-night-charts/)). Every traditional planet has one too: the Sun, [Jupiter](/astrology/jupiter/) and [Saturn](/astrology/saturn/) belong to the day, the Moon, [Venus](/astrology/venus/) and [Mars](/astrology/mars/) to the night. A planet whose sect matches its chart's is in sect; one whose sect doesn't is contrary to it. For the Hellenistic astrologers, that single match was the whole question.
+Every chart has a sect, day if the Sun was above the horizon at birth, night if it was below ([Sect: day and night charts](/astrology/sect-day-and-night-charts/)). Every traditional planet has one too: the Sun, [Jupiter](/astrology/jupiter/) and [Saturn](/astrology/saturn/) belong to the day, the Moon, [Venus](/astrology/venus/) and [Mars](/astrology/mars/) to the night. A planet whose sect matches its chart's is in sect; one whose sect doesn't is contrary to it. That first match is the oldest part of the doctrine.
 
 The astrologers who wrote in Arabic in the Middle Ages turned it into a graded one, with two further tests. The sign test asks for a masculine sign for a day planet and a feminine sign for a night planet. The hemisphere test asks a day planet to stand in the same half of the sky as the Sun, above or below the horizon, and a night planet in the half opposite. The tests weren't equal. Belonging to the chart's sect came first; a planet that failed it could still claim some sect from its sign, and a last shred of it from its hemisphere. A planet that passed all three was in [hayz](/astrology/hayz/).
 
@@ -55,11 +55,11 @@ The result is a profile, not a ranking. In that chart Venus is the benefic of th
 
 ## In a reading {#in-a-reading}
 
-I read sect condition as grain: whether a planet's function runs along the time of day its chart was born into, or has to work against it. In the chart above, Mars acts with little resistance from its surroundings, and Saturn builds in conditions that weren't made for it. That second Saturn isn't weaker at what Saturn does. It still structures, slowly and patiently; it simply needs more patience from you to do it, and I'd say so plainly rather than call it a problem.
+I read sect condition as grain: whether a planet's function runs along the time of day its chart was born into, or has to work against it. In the chart above, Mars works with little resistance from its surroundings, while Saturn has to work in conditions that weren't made for it. That doesn't make Saturn weaker at what Saturn does: it still structures, slowly and carefully, and asks more time of you to do it. I'd say so plainly rather than call it a problem.
 
-The tests hang on the horizon, so they hang on the birth time. The chart's sect, and every planet's half of the sky, depend on it, and near sunrise or sunset a few minutes decide ([what changes without a birth time](/blog/unknown-birth-time/)). Only the sign test can be read from a birth date.
+The tests hang on the horizon, so they hang on the birth time. The chart's sect, and every planet's half of the sky, depend on it, and near sunrise or sunset a few minutes decide ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-My notebook never tested sect, of the chart or of a planet. When a planet's sect condition comes up in a reading, I present it as the tradition's view and weigh it below the placements that held best ([How I read](/how-i-read/)).
+[My notebook](/blog/i-tested-my-birth-chart/) never tested sect, of the chart or of a planet. When a planet's sect condition comes up in a reading, I present it as the tradition's view, and I don't let it outweigh what the planet's sign, house and aspects say ([How I read](/how-i-read/)).
 
 ## Common myths {#myths}
 

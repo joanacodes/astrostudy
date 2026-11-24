@@ -5,6 +5,8 @@ description: "Dodecatemoria, the twelfth-parts of the signs: each sign cut into 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "signs"
+categories: ["Signs"]
+tags: ["twelfth-parts"]
 weight: 418
 glyph: "✦"
 definition: "Dodecatemoria, or twelfth-parts, divide each zodiac sign into twelve slices of 2½°, each given to a sign in order, starting with the sign itself: 144 in all. To find a planet’s twelfth-part, multiply its degree in the sign by twelve and count that far on from the start of the sign. Babylonian in origin, they were dismissed by Ptolemy."
