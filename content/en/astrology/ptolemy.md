@@ -9,7 +9,7 @@ categories: ["History"]
 tags: []
 weight: 26
 glyph: "✦"
-definition: "Ptolemy was an astronomer who wrote in Greek in second-century Alexandria: the author of the Almagest and of the Tetrabiblos, astrology’s most influential textbook. He set astrology in the natural philosophy of his day and counted the signs from the equinoxes and solstices, the tropical zodiac of modern Western astrology."
+definition: "Ptolemy was an astronomer who wrote in Greek in second-century Alexandria: the author of the Almagest and of the Tetrabiblos, astrology’s most influential textbook. He set astrology in the natural philosophy of his day and counted the signs from the equinoxes and solstices: the tropical zodiac, in which I still read every chart."
 facts:
   - { k: "Lived", v: "About 100 to the 160s or 170s AD" }
   - { k: "Where", v: "Alexandria, in Roman Egypt" }

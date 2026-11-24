@@ -2,7 +2,7 @@
 title: "Alan Leo"
 slug: "alan-leo"
 h1: "Alan Leo, l’astrologue qui a troqué le destin contre le caractère"
-description: "Alan Leo, l’astrologue théosophe anglais qu’on appelle le père de l’astrologie moderne : ses livres, ses thèmes collectés, ses procès, la science des tendances."
+description: "Alan Leo, astrologue théosophe anglais appelé « le père de l’astrologie moderne » : ses livres, ses thèmes collectés, ses procès, la science des tendances."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "history"
@@ -10,7 +10,7 @@ categories: ["Histoire"]
 tags: []
 weight: 39
 glyph: "✦"
-definition: "Alan Leo, né William Frederick Allan, est un astrologue, auteur et éditeur anglais qui a vécu de 1860 à 1917, souvent appelé le père de l’astrologie moderne. Théosophe, il défendait la lecture d’un thème comme un ensemble de tendances possibles plutôt qu’une liste d’événements, et ses livres et revues ont porté l’astrologie vers un large public."
+definition: "Alan Leo, né William Frederick Allan, est un astrologue, auteur et éditeur anglais qui a vécu de 1860 à 1917, souvent appelé « le père de l’astrologie moderne ». Théosophe, il défendait la lecture d’un thème comme un ensemble de tendances possibles plutôt qu’une liste d’événements, et ses livres et revues ont porté l’astrologie vers un large public."
 facts:
   - { k: "Vie", v: "1860 – 1917" }
   - { k: "Où", v: "Né à Westminster ; Londres ; mort à Bude, en Cornouailles" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/theosophical-revival", "/astrology/psychological-astrology", "/astrology/william-lilly", "/astrology/evangeline-adams"]
 faq:
   - q: "Qui était Alan Leo ?"
-    a: "Un astrologue, auteur, éditeur et théosophe anglais, né William Frederick Allan à Westminster en 1860 et mort à Bude en 1917. Il a écrit et publié une longue série de livres d’astrologie, fondé l’Astrological Lodge of London en 1915, et on l’appelle souvent le père de l’astrologie moderne."
+    a: "Un astrologue, auteur, éditeur et théosophe anglais, né William Frederick Allan à Westminster en 1860 et mort à Bude en 1917. Il a écrit et publié une longue série de livres d’astrologie, fondé l’Astrological Lodge of London en 1915, et on l’appelle souvent « le père de l’astrologie moderne »."
   - q: "Qu’entendait Alan Leo par la science des tendances ?"
     a: "Que l’astrologie devait décrire des tendances possibles dans une vie plutôt qu’annoncer des événements précis. Après son premier procès, il a pressé les astrologues de se séparer de l’astrologue fataliste fier de ses prédictions, et d’appeler l’astrologie la science des tendances. Il est mort en récrivant son œuvre dans ce sens."
   - q: "Pourquoi Alan Leo a-t-il été poursuivi ?"
@@ -34,7 +34,7 @@ sources:
   - { title: "Patrick Curry, Confusion of Prophets : Victorian and Edwardian Astrology (Collins & Brown, 1992), 149", note: "l’astrologue fataliste et la science des tendances" }
   - { title: "Bessie Leo et Annie Besant, The Life and Work of Alan Leo : Theosophist, Astrologer, Mason (Modern Astrology Office, 1919), 74, 105–106 et 113–114", note: "l’Inde ; la condamnation ; sa mort à Bude ; la réécriture achevée par H. S. Greene" }
   - { title: "Deborah Houlding, « Prediction, Providence and Power of the Self », Traditional Astrologer 17 (1998)", note: "les procès de 1914 et 1917" }
-  - { title: "Gavin Kent McClung, « What Makes A True Astrologer ? », Dell Horoscope (juin 2000), 66–77", note: "le père de l’astrologie moderne" }
+  - { title: "Gavin Kent McClung, « What Makes A True Astrologer ? », Dell Horoscope (juin 2000), 66–77", note: "« le père de l’astrologie moderne »" }
   - { title: "International Order of Freemasonry for Men and Women, Le Droit Humain, « Hermes Lodge »", note: "Alan et Bessie Leo dans la loge Hermes no 20" }
   - { title: "« Leo, Alan », Oxford Dictionary of National Biography", note: "non-fumeur, abstinent et végétarien" }
   - { title: "Alan Leo, 1001 Notable Nativities : The Astrologer’s Who’s Who, 2e éd. (L. N. Fowler, 1917)", note: "un collectionneur de thèmes" }
@@ -50,7 +50,7 @@ Né William Frederick Allan à Westminster le 7 août 1860, il est devenu Alan L
 
 Sa production était énorme. Il a dirigé *The Astrologer’s Magazine* dans les années 1890, et son Modern Astrology Office publiait ses livres l’un après l’autre : *How to Judge a Nativity* (1904), *Horary Astrology* (1909), *The Key to Your Own Nativity* (1910) et *Casting the Horoscope* (1912) entre autres, puis, après sa mort, un *Dictionary of Astrology* achevé par Vivian Robson. Il collectionnait aussi les thèmes. Ses *1001 Notable Nativities*, sous-titrées *The Astrologer’s Who’s Who*, ont connu une deuxième édition en 1917. C’est une pratique dont je me tiens à l’écart : le thème d’une personnalité reste le thème d’une personne, et sans son accord je le laisse fermé ([Lire le thème des personnalités](/astrology/reading-public-figures/)).
 
-Certains astrologues l’appellent aujourd’hui le père de l’astrologie moderne. Il est mort à Bude, en Cornouailles, le 30 août 1917, quelques semaines après avoir été condamné à une amende pour divination. Bessie l’avait prévenu qu’il « avait grand besoin de repos après le souci et l’angoisse du procès » (je traduis) ; il a passé ces vacances à récrire ses livres. En 1919, elle a publié avec Annie Besant *The Life and Work of Alan Leo*.
+Certains astrologues l’appellent aujourd’hui « le père de l’astrologie moderne ». Il est mort à Bude, en Cornouailles, le 30 août 1917, quelques semaines après avoir été condamné à une amende pour divination. Bessie l’avait prévenu qu’il « avait grand besoin de repos après le souci et l’angoisse du procès » (je traduis) ; il a passé ces vacances à récrire ses livres. En 1919, elle a publié avec Annie Besant *The Life and Work of Alan Leo*.
 
 ## Son apport {#son-apport}
 

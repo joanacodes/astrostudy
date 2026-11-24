@@ -10,7 +10,7 @@ categories: ["Histoire"]
 tags: []
 weight: 26
 glyph: "✦"
-definition: "Ptolémée est un astronome qui écrivait en grec, à Alexandrie, au IIe siècle : l’auteur de l’Almageste et de la Tétrabible, le manuel d’astrologie le plus influent. Il a inscrit l’astrologie dans la philosophie naturelle de son temps et compté les signes depuis les équinoxes et les solstices, comme le zodiaque tropical de l’astrologie occidentale moderne."
+definition: "Ptolémée est un astronome qui écrivait en grec, à Alexandrie, au IIe siècle : l’auteur de l’Almageste et de la Tétrabible, le manuel d’astrologie le plus influent. Il a inscrit l’astrologie dans la philosophie naturelle de son temps et compté les signes depuis les équinoxes et les solstices : le zodiaque tropical, dans lequel je lis encore chaque thème."
 facts:
   - { k: "Vie", v: "Vers 100 – années 160 ou 170 de notre ère" }
   - { k: "Où", v: "Alexandrie, dans l’Égypte romaine" }
