@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Uranus", "sextile", "transits"]
 weight: 1834
 glyph: "♇⚹♅"
-definition: "Pluton en transit sextile Uranus du thème natal place Pluton à 60° de la place natale d’Uranus pendant deux à quatre ans ; 5 personnes sur 6 le vivent avant 80 ans. Le renouveau ouvre une voie à votre envie de changement. Une chance de réformer à votre manière : rien ne change tout seul."
+definition: "Pluton en transit sextile Uranus du thème natal, que 5 personnes sur 6 vivent avant 80 ans, met deux signes entre Pluton et la place natale d’Uranus pendant deux à quatre ans. Le renouveau ouvre une voie à votre envie de changement. Une chance de réformer à votre manière : rien ne change tout seul."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète du renouveau" }
   - { k: "Point natal", v: "Uranus ♅ : le changement, l’invention et la liberté d’être différente ou différent" }
@@ -25,7 +25,7 @@ faq:
   - q: "Que veut dire Pluton en transit sextile Uranus ?"
     a: "Un angle de 60° relie Pluton à Uranus dans votre thème, à deux signes d’écart, et le renouveau soutient votre envie de changement. Une réforme que vous voulez, au travail, chez vous ou dans un groupe, devient praticable si vous vous en saisissez ; rien ne se fait sans vous."
   - q: "Quand vient le sextile de Pluton à Uranus dans mon thème ?"
-    a: "Cela dépend de votre année de naissance, car Uranus s’éloigne de Pluton depuis des décennies. Pour une naissance un 1er janvier, le sextile est venu à 13,9 ans pour 1955, 23,9 ans pour 1965, 33,1 ans pour 1975 et 47,2 ans pour 1985. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le sextile touche les personnes nées de 1981 à 1989, avec Uranus en Sagittaire."
+    a: "Cela dépend de votre année de naissance, car Uranus s’éloigne de Pluton depuis des décennies. Pour les anniversaires du 1er janvier, le sextile est venu à 13,9 ans en 1955, 23,9 ans en 1965, 33,1 ans en 1975 et 47,2 ans en 1985. D’ici à ce que Pluton quitte le Verseau, au début de 2044, le sextile touche les personnes nées de 1981 à 1989, avec Uranus en Sagittaire."
   - q: "Combien de temps dure Pluton sextile Uranus ?"
     a: "En moyenne deux ans et huit mois, vingt-deux mois environ au plus court, entre 1,5° avant l’exactitude et 1° après. Un passage exact cinq fois plutôt que trois dure environ trois ans et sept mois."
   - q: "Est-ce que Pluton sextile Uranus est un bon moment pour de grands changements ?"
@@ -42,7 +42,7 @@ Le renouveau de Pluton donne de la profondeur à votre envie de changement quand
 
 Le sextile passe par les autres autant que par vous : gare à un angle mort d’Uranus, prendre le rythme d’adaptation des autres pour de la résistance. Les alliés avancent à leur pas, et une réforme qui les emmène dure en général plus longtemps qu’une réforme imposée au vôtre.
 
-Les personnes nées avec [Uranus sextile Pluton](/astrology/uranus-sextile-pluto/), dans les années 1940 ou 1990, ont vu le jour tout près de ce transit. Pour bien des personnes nées de 1993 à 1999, il revient de l’autre côté d’Uranus, entre 65 et 79 ans environ.
+Les personnes nées avec [Uranus sextile Pluton](/astrology/uranus-sextile-pluto/), dans les années 1940 ou 1990, ont vu le jour tout près de ce transit. Pour bien des personnes nées de 1993 à 1999, le sextile revient de l’autre côté d’Uranus, entre 65 et 79 ans environ.
 
 Les maisons disent quel système est prêt. Avec Uranus en maison 4, le sextile vient des environs de la maison 6 ([Pluton en transit en maison 6](/astrology/pluto-transit-6th-house/)) ou de la maison 2 : une nouvelle façon de travailler, ou un autre rapport à ce que vous possédez, laisse la place de changer votre façon de vivre chez vous. Seule l’heure de naissance dit si cette situation est la vôtre ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

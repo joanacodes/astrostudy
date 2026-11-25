@@ -24,7 +24,7 @@ faq:
   - q: "What does transiting Pluto trine natal Uranus mean?"
     a: "Pluto trines your Uranus from a sign usually of the same element, and renewal and your need for change pull together. A reform, a new way of living or working, or a freer arrangement can take shape with less friction than usual."
   - q: "At what age does Pluto trine Uranus come?"
-    a: "Earlier births meet it younger: for births on 1 January it came within orb at 19.7 in 1935, 29.9 in 1945, 38 in 1955 and 49.2 in 1965, and at 68.2 in 1975. For births on 1 January 1985, 1995 and 2005 it doesn’t come by 80, and more than 1 person in 3 never meets it."
+    a: "Earlier births meet it younger: 19.7 for 1 January 1935, 29.9 for 1945, 38 for 1955, 49.2 for 1965 and 68.2 for 1975. Births on 1 January 1985, 1995 and 2005 don’t meet it by 80, and more than 1 person in 3 never does."
   - q: "How long does Pluto trine Uranus last?"
     a: "Close to two years and eight months in my orbs, from 1½° before exact to 1° after; the longest passes approach four years. Pluto stands exactly 120° from your Uranus three times in most passes; the other passes bring it there five times."
   - q: "Is Pluto trine Uranus a good time to change my life?"

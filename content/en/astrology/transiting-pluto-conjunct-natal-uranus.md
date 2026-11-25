@@ -1,7 +1,7 @@
 ---
 title: "Transiting Pluto conjunct natal Uranus"
 h1: "Transiting Pluto conjunct your natal Uranus"
-description: "Transiting Pluto conjunct natal Uranus: two to four years when your need for freedom is remade. Why only births after 1965 meet it, at what age, what helps."
+description: "Transiting Pluto conjunct natal Uranus: two to four years when what freedom means to you is reworked. Why only births after 1965 meet it, and what helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -26,7 +26,7 @@ faq:
   - q: "Who gets Pluto conjunct Uranus?"
     a: "Only people born after Uranus overtook Pluto in Virgo in 1965 and 1966. Uranus moves faster, so it has stood ahead of Pluto in every chart since, further ahead each year, and Pluto slowly catches up. Everyone born from 1930 to the mid-1960s, a little under half of the births counted, never meets it."
   - q: "At what age does Pluto conjunct Uranus come?"
-    a: "Later the later you were born. For births on 1 January, it came within orb at 8.9 for 1975, 16 for 1985 and 25.1 for 1995, and comes at 39.3 for 2005. People born at the end of the 1960s met it as children; the last births counted, in 2009, meet it at about 53."
+    a: "Later the later you were born: at 8.9 for a birth on 1 January 1975, 16 for 1985 and 25.1 for 1995, and at 39.3 for 2005. People born at the end of the 1960s met it as children; the last births counted, in 2009, meet it at about 53."
   - q: "How long does Pluto conjunct Uranus last?"
     a: "Two years and eight months is usual and twenty-two months the shortest, with my orbs of 1½° before exact and 1° after. Each year Pluto’s retrograde carries it back over your Uranus, which is why the degree is crossed three or five times."
 sources:

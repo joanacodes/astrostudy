@@ -24,7 +24,7 @@ faq:
   - q: "What does Pluto conjunct natal Neptune mean?"
     a: "Pluto is on your Neptune, the part of the chart that imagines, idealises and longs for something larger, usually in your twenties. The ideals you grew up with are tested at the root: some dissolve, others go deeper and become your own."
   - q: "At what age does Pluto conjunct Neptune happen?"
-    a: "Between about 22 and 30, for everyone born from 1930 to 2009. For births on 1 January it came within orb at 28.8 for 1935 and 1945, 27 for 1955, 25.9 for 1965, 24 for 1975, 23.1 for 1985 and 23.3 for 1995, and comes at 26.1 for 2005."
+    a: "Between about 22 and 30, for everyone born from 1930 to 2009. A 1 January birthday in 1935 or 1945 put it at 28.8, one in 1975 at 24, and one in 2005 puts it at 26.1."
   - q: "Why does everyone get Pluto conjunct Neptune in their twenties?"
     a: "Because in every chart of those years Neptune stood some 45° to 65° ahead of Pluto, close to the long sextile between them, and Pluto covers that distance in 22 to 30 years. It came soonest for births of the 1980s and 1990s, when Pluto was crossing Scorpio and Sagittarius near its fastest."
   - q: "How long does Pluto conjunct Neptune last?"

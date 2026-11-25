@@ -26,7 +26,7 @@ faq:
   - q: "How long does Pluto trine Jupiter last?"
     a: "Roughly two years and eight months, from the day Pluto comes within 1½° of the exact trine to the day it is 1° past, and twenty-two months when it moves quickly. The trine is never exact just once: three times in most passes, five in about two passes in five."
   - q: "When will Pluto trine my Jupiter?"
-    a: "It depends on your Jupiter’s sign and degree, not on your age, because Jupiter changes sign about once a year. While Pluto crosses Aquarius, until early 2044, it trines Jupiters in Gemini and Libra, early degrees first. About 1 person in 4 born between 1930 and 2009 never meets it by 80."
+    a: "It depends on your Jupiter’s sign and degree, not on your age, because Jupiter changes sign about once a year. Until early 2044, with Pluto in Aquarius, the Jupiters it trines are in Gemini and Libra, early degrees first. About 1 person in 4 born between 1930 and 2009 never meets it by 80."
   - q: "Does Pluto trine Jupiter bring luck or money?"
     a: "In my reading, neither. Jupiter describes growth in understanding, not luck or wealth, and a trine describes flow, not success. This transit makes it easier to deepen what you believe and how you plan; it doesn’t forecast a windfall, a win or any other event."
 sources:

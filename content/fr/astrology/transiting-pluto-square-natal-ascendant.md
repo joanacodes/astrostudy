@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Ascendant", "carré", "transits"]
 weight: 1849
 glyph: "♇□AC"
-definition: "Pluton en transit carré Ascendant du thème natal fait peser Pluton, à 90°, sur votre degré ascendant pendant deux à quatre ans ; 7 personnes sur 8 environ le vivent avant 80 ans. Les exigences du travail ou du foyer s’exercent sur votre façon d’aborder le monde. Il faut l’heure de naissance. Une friction qui renouvelle, pas une défaite."
+definition: "Pluton en transit carré Ascendant du thème natal pèse sur votre degré ascendant depuis 90° pendant deux à quatre ans, un transit que 7 personnes sur 8 environ vivent avant 80 ans. Les exigences du travail ou du foyer s’exercent sur votre façon d’aborder le monde. Il faut l’heure de naissance. Une friction qui renouvelle, pas une défaite."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "L’Ascendant (AC) : votre façon d’aborder les gens et de commencer ; il demande l’heure de naissance" }
@@ -27,7 +27,7 @@ faq:
   - q: "Combien de temps dure Pluton carré Ascendant ?"
     a: "Environ deux ans et huit mois, et jusqu’à trois ans et neuf mois environ, de 1,5° avant l’exactitude à 1° après. Les contacts exacts vont par trois dans environ trois passages sur cinq, et par cinq dans les autres."
   - q: "Est-ce que je vivrai Pluton carré Ascendant ?"
-    a: "Probablement : environ 7 personnes sur 8 nées entre 1930 et 2009 le vivent avant 80 ans, une fois. Personne ne vit les deux carrés, qui sont à un demi-zodiaque l’un de l’autre. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le carré touche l’Ascendant Taureau et l’Ascendant Scorpion, et votre heure de naissance donne l’année."
+    a: "Probablement : environ 7 personnes sur 8 nées entre 1930 et 2009 le vivent avant 80 ans, une fois. Personne ne vit les deux carrés, qui sont à un demi-zodiaque l’un de l’autre. L’Ascendant Taureau et l’Ascendant Scorpion reçoivent le carré pendant que Pluton est en Verseau, jusqu’au début de 2044, et votre heure de naissance donne l’année."
   - q: "Est-ce que Pluton carré Ascendant est une crise ?"
     a: "Pas au sens d’un effondrement. Un carré décrit une friction qui demande de s’ajuster, et celui-ci vous demande de changer votre façon de vous présenter et de commencer les choses. Il peut sembler exigeant, mais il n’annonce aucun événement, aucune perte, aucune maladie, et la façon de le vivre vous appartient."
 sources:

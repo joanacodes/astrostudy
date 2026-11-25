@@ -24,7 +24,7 @@ faq:
   - q: "What does transiting Pluto opposite natal Uranus mean?"
     a: "From across the chart, Pluto brings your Uranus change driven by other people or by the world around you. Your independence and your way of doing things differently are asked to be renegotiated: neither giving in nor walking away."
   - q: "Who meets Pluto opposite Uranus?"
-    a: "Only people born before about 1963, whose Uranus stood behind Pluto at birth: they meet it once, between about 44 and 80. Uranus has stood ahead of Pluto in every chart since the mid-1960s, which puts the opposition out of reach by 80. About 3 people in 5 born between 1930 and 2009 never meet it."
+    a: "Only people born before about 1963, whose Uranus stood behind Pluto at birth: they meet it once, between about 44 and 80. Uranus has stood ahead of Pluto in every chart since the mid-1960s, which puts the opposition out of reach by 80. That leaves about 3 people in 5 born between 1930 and 2009 without it."
   - q: "How long does Pluto opposite Uranus last?"
     a: "Reckoned from 1½° before exact to 1° after, the opposition lasts about two years and eight months, and never less than about twenty-two months."
   - q: "Does Pluto opposite Uranus mean separation?"

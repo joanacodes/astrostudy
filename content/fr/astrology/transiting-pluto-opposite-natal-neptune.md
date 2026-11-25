@@ -25,7 +25,7 @@ faq:
   - q: "Est-ce que je vivrai Pluton opposition Neptune du thème natal ?"
     a: "Pas si votre naissance se situe entre 1930 et 2009. Il faudrait vivre jusqu’à 112 ans environ pour une naissance au début de 1930, jusqu’à 125 ans pour une naissance en 1945, et au-delà de 140 ans à partir de 1960 environ. Pluton part derrière Neptune et doit parcourir 225° à 245° pour atteindre le point opposé."
   - q: "Pourquoi Pluton ne peut pas s’opposer à Neptune du thème natal en une vie ?"
-    a: "Parce que dans chaque thème de ces années, Pluton se trouvait 45° à 65° derrière Neptune. Pour s’y opposer, Pluton doit d’abord rattraper la place de Neptune, ce qui prend 22 à 30 ans, puis parcourir la moitié du zodiaque au-delà. Pluton couvre 110° à 170° environ en 80 ans : le trajet prend largement plus d’un siècle."
+    a: "À cause de l’écart : à chaque naissance de 1930 à 2009, Pluton se trouvait 45° à 65° derrière Neptune. Pour s’y opposer, Pluton doit d’abord rattraper la place de Neptune, ce qui prend 22 à 30 ans, puis parcourir la moitié du zodiaque au-delà. Pluton couvre 110° à 170° environ en 80 ans : le trajet prend largement plus d’un siècle."
   - q: "Que vit-on à la place de Pluton opposition Neptune ?"
     a: "Tout le monde vit la conjonction, entre 22 et 30 ans environ, et presque tout le monde le sextile, souvent deux fois. Environ 2 personnes sur 3 vivent le carré dans la soixantaine ou la soixante-dizaine, et environ 1 sur 6 le trigone, vers 80 ans. L’opposition entre ces deux planètes atteint toutes ces vies dans l’autre sens : Neptune en transit opposition Pluton du thème natal."
   - q: "Est-ce que Pluton est en opposition à Neptune dans le ciel en ce moment ?"

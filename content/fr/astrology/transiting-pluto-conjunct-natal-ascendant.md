@@ -27,7 +27,7 @@ faq:
   - q: "Combien de temps dure Pluton conjonction Ascendant ?"
     a: "Pluton met environ deux ans et huit mois à aller de 1,5° avant votre degré ascendant à 1° au-delà, et vingt-deux mois environ quand le mouvement est rapide. Entre-temps, Pluton va et vient sur la pointe de votre maison 1, trois ou cinq fois."
   - q: "Quand Pluton passera sur mon Ascendant ?"
-    a: "Seule votre heure de naissance peut le dire. Tant que Pluton est en Verseau, jusqu’au début de 2044, le passage touche l’Ascendant Verseau : les premiers degrés au milieu des années 2020, ceux du milieu dans les années 2030, les derniers vers 2042. Plus de la moitié des personnes nées entre 1930 et 2009 ne le vivent jamais avant 80 ans, et personne deux fois."
+    a: "Seule votre heure de naissance peut le dire. Pluton traverse l’Ascendant Verseau jusqu’au début de 2044 : les premiers degrés au milieu des années 2020, ceux du milieu dans les années 2030, les derniers vers 2042. Plus de la moitié des personnes nées entre 1930 et 2009 arrivent à 80 ans sans l’avoir vécu, et nul ne le vit deux fois."
   - q: "Est-ce que Pluton sur l’Ascendant touche la santé ou l’apparence ?"
     a: "Pas dans ma lecture. L’Ascendant décrit votre orientation, pas votre corps ni votre physique, et aucun transit ne prédit une maladie ou un accident. Il arrive que l’on change sa façon de se présenter sous ce transit, mais c’est un choix, pas une prédiction."
 sources:

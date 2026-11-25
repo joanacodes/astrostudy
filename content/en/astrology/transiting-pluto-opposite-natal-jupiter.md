@@ -26,7 +26,7 @@ faq:
   - q: "How long does Pluto opposite Jupiter last?"
     a: "With my orbs, 1½° before exact and 1° after, Pluto spends about two years and eight months opposite your Jupiter, and close to four years in the slowest passes."
   - q: "Why do most people never have Pluto opposite Jupiter?"
-    a: "Because Pluto needs about 248 years to go round the zodiac, so a lifetime shows only part of its circle. Whether the point opposite your Jupiter lies in that part depends on where Jupiter stood when you were born. About 3 people in 5 born between 1930 and 2009 never meet it by 80."
+    a: "Because Pluto needs about 248 years to go round the zodiac, so a lifetime shows only part of its circle. Whether the point opposite your Jupiter lies in that part depends on where Jupiter stood when you were born. Of those born between 1930 and 2009, about 3 in 5 reach 80 without it."
   - q: "Is Pluto opposite Jupiter bad?"
     a: "No transit is bad in itself. This one can be demanding, because someone else’s certainty may press hard on yours. But polarity isn’t conflict, and nothing is decided in advance: no transit forecasts a quarrel, a court case or a loss. It shows where your beliefs ask to be weighed."
 sources:

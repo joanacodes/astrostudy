@@ -26,7 +26,7 @@ faq:
   - q: "How long does Pluto conjunct Ascendant last?"
     a: "Pluto takes about two years and eight months to get from 1½° before your rising degree to 1° past it, and about twenty-two months when it moves quickly. Meanwhile it moves back and forth across the cusp of your 1st house, three or five times."
   - q: "When will Pluto cross my Ascendant?"
-    a: "Only your birth time can say. While Pluto is in Aquarius, until early 2044, it crosses Aquarius rising: the early degrees in the mid-2020s, the middle ones in the 2030s, the last around 2042. More than half of people born between 1930 and 2009 never have this transit by 80, and nobody has it twice."
+    a: "Only your birth time can say. Pluto is crossing Aquarius rising until early 2044: the early degrees in the mid-2020s, the middle ones in the 2030s, the last around 2042. More than half of people born between 1930 and 2009 reach 80 without it, and no one has it twice."
   - q: "Does Pluto on the Ascendant affect health or appearance?"
     a: "Not as I read it. The Ascendant describes your orientation, not your body or your looks, and no transit predicts an illness or an accident. People sometimes change how they present themselves under this transit, but that is a choice they make, not a forecast."
 sources:

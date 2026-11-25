@@ -27,7 +27,7 @@ faq:
   - q: "Combien de temps dure Pluton sextile Saturne ?"
     a: "Dans mes orbes de 1,5° avant l’exactitude et 1° après, environ deux ans et huit mois. Quand l’une des stations de Pluton tombe près du degré, le sextile est exact cinq fois au lieu de trois, et dure plutôt trois ans et sept mois."
   - q: "Est-ce que je vivrai Pluton sextile Saturne ?"
-    a: "Il y a de bonnes chances : environ 3 personnes sur 4 nées entre 1930 et 2009 le vivent avant 80 ans, et environ 1 sur 10 deux fois, une de chaque côté de Saturne. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le sextile touche Saturne en Bélier et en Sagittaire, et le degré exact de Saturne dans votre thème fixe l’année."
+    a: "Il y a de bonnes chances : environ 3 personnes sur 4 nées entre 1930 et 2009 le vivent avant 80 ans, et environ 1 sur 10 rencontre les deux points de sextile de Saturne. Pluton en Verseau forme ce sextile avec Saturne en Bélier ou en Sagittaire jusqu’au début de 2044, et le degré exact de Saturne dans votre thème fixe l’année."
   - q: "Pluton sextile Saturne : est-ce un bon transit ?"
     a: "C’est l’un des transits de Pluton les plus doux, mais je ne lis aucun transit comme bon ou mauvais. Un sextile décrit une occasion qui demande de s’engager : rien ne change si vous ne la saisissez pas. Il ne promet aucun succès et n’annonce aucun événement."
 sources:
@@ -54,7 +54,7 @@ Environ trois personnes sur quatre nées entre 1930 et 2009 le vivent avant 80 a
 
 Le Bélier et le Sagittaire sont à 60° du Verseau : jusqu’au début de 2044, Pluton forme donc ce sextile avec Saturne dans l’un ou l’autre de ces signes. Pour une naissance de 1996 à 1999, avec Saturne en Bélier, le sextile vient entre 26 et 45 ans environ ; de 1985 à 1988, avec Saturne en Sagittaire, entre 37 et 55 ans.
 
-C’est le plus doux des cinq contacts de Pluton à Saturne. Le carré ([Pluton en transit carré Saturne du thème natal](/astrology/transiting-pluto-square-natal-saturn/)) et l’opposition ([Pluton en transit opposition Saturne du thème natal](/astrology/transiting-pluto-opposite-natal-saturn/)) pressent là où celui-ci invite, le trigone ([Pluton en transit trigone Saturne du thème natal](/astrology/transiting-pluto-trine-natal-saturn/)) coule sans qu’on le lui demande, et la conjonction ([Pluton en transit conjonction Saturne du thème natal](/astrology/transiting-pluto-conjunct-natal-saturn/)), va droit aux fondations.
+C’est le plus doux des cinq contacts de Pluton à Saturne. Le carré ([Pluton en transit carré Saturne du thème natal](/astrology/transiting-pluto-square-natal-saturn/)) et l’opposition ([Pluton en transit opposition Saturne du thème natal](/astrology/transiting-pluto-opposite-natal-saturn/)) pressent là où celui-ci invite, le trigone ([Pluton en transit trigone Saturne du thème natal](/astrology/transiting-pluto-trine-natal-saturn/)) coule sans qu’on le lui demande, et la conjonction ([Pluton en transit conjonction Saturne du thème natal](/astrology/transiting-pluto-conjunct-natal-saturn/)) va droit aux fondations.
 
 ## Ce qui aide {#ce-qui-aide}
 

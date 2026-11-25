@@ -27,7 +27,7 @@ faq:
   - q: "Combien de temps dure Pluton sextile Ascendant ?"
     a: "Comptez environ deux ans et huit mois, ou vingt-deux mois si Pluton va vite, dans mes orbes de 1,5° avant l’exactitude et 1° après."
   - q: "Quand vient le sextile de Pluton à mon Ascendant ?"
-    a: "C’est votre heure de naissance qui le dit. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le sextile touche l’Ascendant Bélier et l’Ascendant Sagittaire, les premiers degrés d’abord. Environ 3 personnes sur 4 nées entre 1930 et 2009 le vivent avant 80 ans, et certaines deux fois, une de chaque côté de l’Ascendant."
+    a: "C’est votre heure de naissance qui le dit. L’Ascendant Bélier et l’Ascendant Sagittaire sont à portée jusqu’au début de 2044, pendant que Pluton est en Verseau, les premiers degrés d’abord. Il vient à trois personnes sur quatre avant 80 ans, et à certaines deux fois, de part et d’autre de l’Ascendant."
   - q: "Est-ce que Pluton sextile Ascendant est un bon moment pour un nouveau départ ?"
     a: "C’est un bon moment pour en prendre un, parce que le sextile favorise le changement délibéré. Mais il offre une occasion plutôt qu’un résultat : rien ne commence si vous ne le commencez pas, et aucun transit ne garantit la suite d’un nouveau départ."
 sources:

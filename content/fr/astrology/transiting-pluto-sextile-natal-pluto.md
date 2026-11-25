@@ -25,7 +25,7 @@ faq:
   - q: "Que veut dire Pluton en transit sextile Pluton ?"
     a: "Pluton a parcouru 60° depuis sa place de naissance : c’est la première ouverture de son propre cycle dans la vie adulte. C’est l’occasion de changer quelque chose en profondeur par choix plutôt que sous la pression, dans le domaine que décrit la maison de Pluton dans votre thème."
   - q: "À quel âge vient le sextile de Pluton ?"
-    a: "Entre 21,5 et 36,1 ans, pour les naissances de 1930 à 2009. Pour une naissance un 1er janvier, le sextile est entré dans l’orbe à 33,8 ans en 1935, 29,9 ans en 1945, 26,8 ans en 1955, 24 ans en 1965, 23,1 ans en 1975, 24,1 ans en 1985 et 27,2 ans en 1995, et viendra à 31,3 ans pour 2005."
+    a: "De 21,5 à 36,1 ans pour les personnes nées entre 1930 et 2009, selon l’année : 33,8 ans pour une naissance le 1er janvier 1935, 23,1 ans seulement pour 1975, et 31,3 ans pour 2005."
   - q: "Pourquoi le sextile de Pluton vient à des âges différents ?"
     a: "Parce que l’orbite de Pluton est allongée : Pluton traverse certains signes en 12 ans environ, d’autres en 31. Pour une naissance des années 1970, les 60° suivants passaient par la Balance, le Scorpion et le Sagittaire, près de sa vitesse maximale : le sextile est venu vers 23 ans. Pour une naissance des années 1930, par le Lion et la Vierge, plus lents : vers 34 ans."
   - q: "Combien de temps dure Pluton sextile Pluton ?"

@@ -25,7 +25,7 @@ faq:
   - q: "Que veut dire Pluton en transit carré Uranus ?"
     a: "Pluton se trouve à 90° d’Uranus dans votre thème, la part qui a besoin de liberté et de changement. Il en résulte une longue friction entre la vie pour laquelle vous voulez de la place et une pression qui veut transformer quelque chose en profondeur : l’agacement devant ce qui va mal, et le travail de le réformer plutôt que de simplement rompre."
   - q: "À quel âge vient Pluton carré Uranus ?"
-    a: "C’est votre année de naissance qui le fixe. Pour une naissance un 1er janvier, le carré est entré dans l’orbe à 16,7 ans en 1945, 26,8 ans en 1955, 36 ans en 1965 et 49,1 ans en 1975, et viendra à 68,3 ans pour 1985. Pour une naissance en 1935, le carré était là dès la première année ; en 1995 et en 2005, il ne vient pas avant 80 ans."
+    a: "C’est votre année de naissance qui le fixe : 16,7 ans pour une personne née le 1er janvier 1945, 26,8 ans pour 1955, 36 ans pour 1965, 49,1 ans pour 1975 et 68,3 ans pour 1985. Pour une naissance en 1935, le carré était là dès la première année ; en 1995 et en 2005, il ne vient pas avant 80 ans."
   - q: "Combien de temps dure Pluton carré Uranus ?"
     a: "Au moins vingt-deux mois environ, et le plus souvent deux ans et huit mois, entre 1,5° avant l’exactitude et 1° après, à mesure que Pluton repasse chaque année sur le degré."
   - q: "Est-ce que Pluton carré Uranus annonce un bouleversement soudain ?"

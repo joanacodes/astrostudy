@@ -26,7 +26,7 @@ faq:
   - q: "How long does Pluto trine Saturn last?"
     a: "The loops decide: with three exact hits, as in about three passes out of five, around two years and seven months; with five, around three years and seven months. Over all passes, from 1½° before exact to 1° after, the typical length is about two years and eight months."
   - q: "When will Pluto trine my Saturn?"
-    a: "Saturn’s place in your chart decides, not your generation: for births on 1 January, at 13.9 in 1975, 18.8 in 1965, 40.9 in 1945 and 56.3 in 2005. While Pluto crosses Aquarius, until early 2044, it trines Saturns in Gemini and Libra. Nearly 4 people in 5 meet it by 80."
+    a: "Saturn’s place in your chart decides, not your generation: for births on 1 January, at 13.9 in 1975, 18.8 in 1965, 40.9 in 1945 and 56.3 in 2005. Pluto’s years in Aquarius, to early 2044, bring the trine to Saturn in Gemini or Libra. Nearly 4 people in 5 meet it by 80."
   - q: "Is Pluto trine Saturn lucky?"
     a: "I don’t read it as luck. A trine describes ease, and ease isn’t a guarantee: it helps the work you are willing to do. Saturn rewards patience and Pluto rewards honesty, so the trine suits finishing, consolidating and making things last. It forecasts no success and no event."
 sources:

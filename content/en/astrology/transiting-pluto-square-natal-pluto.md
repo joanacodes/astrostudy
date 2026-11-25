@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "square", "transits"]
 weight: 1844
 glyph: "♇□♇"
-definition: "Transiting Pluto square natal Pluto is the Pluto square itself: Pluto 90° on from its birth degree. Everyone born from 1930 to 2009 meets it once, between about 34½ and 59 depending on the birth year, for two to four years. It brings midlife pressure to rework what you hold on to, never a breakdown."
+definition: "Transiting Pluto square natal Pluto is the Pluto square itself: Pluto 90° on from its birth degree, for two to four years. It comes once to everyone born from 1930 to 2009, at an age between about 34½ and 59 set by the birth year. It brings midlife pressure to rework what you hold on to, never a breakdown."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Pluto ♇: where you hold on hardest and can let go" }

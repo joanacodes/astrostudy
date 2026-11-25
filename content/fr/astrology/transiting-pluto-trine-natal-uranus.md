@@ -25,7 +25,7 @@ faq:
   - q: "Que veut dire Pluton en transit trigone Uranus ?"
     a: "Pluton forme un trigone à Uranus dans votre thème depuis un signe en général du même élément, et le renouveau et votre besoin de changement tirent ensemble. Une réforme, une nouvelle façon de vivre ou de travailler, ou un arrangement plus libre peuvent prendre forme avec moins de friction que d’habitude."
   - q: "À quel âge vient Pluton trigone Uranus ?"
-    a: "Plus la naissance est ancienne, plus ce trigone vient tôt : pour une naissance un 1er janvier, il est entré dans l’orbe à 19,7 ans en 1935, 29,9 ans en 1945, 38 ans en 1955 et 49,2 ans en 1965, et à 68,2 ans en 1975. Pour le 1er janvier 1985, 1995 et 2005, il ne vient pas avant 80 ans, et plus d’1 personne sur 3 ne le vit jamais."
+    a: "Plus la naissance est ancienne, plus ce trigone vient tôt : 19,7 ans pour le 1er janvier 1935, 29,9 ans pour 1945, 38 ans pour 1955, 49,2 ans pour 1965 et 68,2 ans pour 1975. Les naissances du 1er janvier 1985, 1995 et 2005 ne le vivent pas avant 80 ans, et plus d’1 personne sur 3 ne le vit jamais."
   - q: "Combien de temps dure Pluton trigone Uranus ?"
     a: "Près de deux ans et huit mois dans mes orbes, de 1,5° avant l’exactitude à 1° après ; les passages les plus longs approchent quatre ans. Pluton se trouve exactement à 120° d’Uranus trois fois dans la plupart des passages, et cinq fois dans les autres."
   - q: "Est-ce que Pluton trigone Uranus est un bon moment pour changer de vie ?"

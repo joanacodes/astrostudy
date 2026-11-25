@@ -2,7 +2,7 @@
 title: "Pluton en transit opposition Saturne du thème natal"
 slug: "pluton-transit-opposition-saturne-natal"
 h1: "Pluton en transit opposition Saturne de votre thème natal"
-description: "Pluton en transit opposition Saturne du thème natal : deux à quatre ans où vos devoirs et vos limites rencontrent le pouvoir d’autrui. Qui le vit, ce qui aide."
+description: "Pluton en transit opposition Saturne du thème natal : deux à quatre ans où vos devoirs et vos limites rencontrent le pouvoir d’autrui. Pour qui, et quand."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -27,7 +27,7 @@ faq:
   - q: "Combien de temps dure Pluton opposition Saturne ?"
     a: "De vingt-deux mois environ à près de quatre ans, deux ans et huit mois en moyenne, avec mes orbes de 1,5° avant l’exactitude et 1° après."
   - q: "Pluton opposition Saturne : est-ce rare ?"
-    a: "Un peu plus de la moitié des personnes nées entre 1930 et 2009 ne la vivent jamais avant 80 ans, et personne ne la vit deux fois. Pour une naissance un 1er janvier, elle est venue à 15,1 ans en 2005, 18,7 ans en 1935, 40,1 ans en 1975 et 66 ans en 1945, et pas avant 80 ans en 1955, 1965, 1985 ou 1995."
+    a: "Un peu plus de la moitié des personnes nées entre 1930 et 2009 ne la vivent jamais avant 80 ans, et personne ne la vit deux fois. Parmi les naissances du 1er janvier, celle de 2005 la vivra à 15,1 ans ; celle de 1935 l’a vécue à 18,7 ans, 1975 à 40,1 ans et 1945 à 66 ans ; 1955, 1965, 1985 et 1995, jamais avant 80 ans."
   - q: "Est-ce que Pluton opposition Saturne veut dire un rapport de force ?"
     a: "Cela peut en avoir l’air, parce que le pouvoir de quelqu’un d’autre fait face à vos propres structures. Mais une polarité n’est pas un conflit, et tout échange inégal n’est pas une tentative de domination. Ce transit décrit une pression pour redessiner les limites, jamais qui l’emporte, et il n’annonce ni dispute, ni licenciement, ni issue judiciaire."
 sources:

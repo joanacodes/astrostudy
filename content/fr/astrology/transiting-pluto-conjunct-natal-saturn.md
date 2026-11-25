@@ -27,7 +27,7 @@ faq:
   - q: "Combien de temps dure Pluton conjonction Saturne ?"
     a: "Pluton s’attarde sur Saturne environ deux ans et huit mois, de 1,5° avant l’exactitude à 1° après ; un passage rapide prend vingt-deux mois environ, un passage lent jusqu’à trois ans et neuf mois."
   - q: "À quel âge vient la conjonction de Pluton à Saturne ?"
-    a: "Il n’y a pas d’âge fixe, parce que la position de Saturne varie beaucoup d’une naissance à l’autre. Pour une naissance un 1er janvier, elle est venue à 7,9 ans en 1985, à 35 ans en 1955 et à 53,2 ans en 1995, et pas avant 80 ans en 1935, 1945, 1975 ou 2005. Environ 3 personnes sur 5 ne la vivent jamais."
+    a: "Il n’y a pas d’âge fixe, parce que la position de Saturne varie beaucoup d’une naissance à l’autre. Une naissance le 1er janvier 1985 l’a vécue à 7,9 ans, une du 1er janvier 1955 à 35 ans et une de 1995 à 53,2 ans, tandis que 1935, 1945, 1975 et 2005 ne la vivent pas avant 80 ans. Trois personnes sur cinq ne la vivent jamais."
   - q: "Est-ce que Pluton conjonction Saturne annonce une perte ?"
     a: "Je ne le vois pas ainsi. Saturne n’annonce jamais un échec, et Pluton jamais une perte : ensemble, ces deux fonctions décrivent des structures rebâties, souvent lentement. Ce qui change dépend de vous et de votre situation, pas du transit. Si une période lourde pèse sur vous des semaines durant, parlez-en à un médecin ou à une ou un thérapeute."
 sources:

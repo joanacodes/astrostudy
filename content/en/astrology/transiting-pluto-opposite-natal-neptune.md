@@ -24,7 +24,7 @@ faq:
   - q: "Will I ever have Pluto opposite natal Neptune?"
     a: "Not if you were born between 1930 and 2009. You would need to live to about 112 if born in early 1930, to about 125 if born in 1945, and past 140 if born from about 1960 on. Pluto starts behind your Neptune and must travel some 225° to 245° to reach the point opposite."
   - q: "Why can’t Pluto oppose natal Neptune in a lifetime?"
-    a: "Because in every chart of those years Pluto stood 45° to 65° behind Neptune. To oppose your Neptune, Pluto must first catch up with it, which takes 22 to 30 years, then travel half the zodiac beyond it. Pluto covers about 110° to 170° in 80 years, so getting there takes well over a century."
+    a: "The gap is the reason: at every birth from 1930 to 2009, Pluto stood 45° to 65° behind Neptune. To oppose your Neptune, Pluto must first catch up with it, which takes 22 to 30 years, then travel half the zodiac beyond it. Pluto covers about 110° to 170° in 80 years, so getting there takes well over a century."
   - q: "What do people meet instead of Pluto opposite Neptune?"
     a: "Everyone meets the conjunction, between about 22 and 30, and almost everyone the sextile, often twice. About 2 people in 3 meet the square in their sixties or seventies, and about 1 in 6 the trine, near 80. The opposition between these two planets reaches every one of these lives the other way round, as transiting Neptune opposite natal Pluto."
   - q: "Is Pluto opposite Neptune happening in the sky now?"

@@ -27,7 +27,7 @@ faq:
   - q: "Combien de temps dure Pluton opposition Jupiter ?"
     a: "Avec mes orbes, 1,5° avant l’exactitude et 1° après, Pluton passe environ deux ans et huit mois face à Jupiter, et près de quatre ans dans les passages les plus lents."
   - q: "Pourquoi tant de gens ne connaissent jamais l’opposition de Pluton à Jupiter ?"
-    a: "Parce que Pluton met environ 248 ans à faire le tour du zodiaque : une vie n’en montre qu’une partie. Que le point opposé à Jupiter se trouve dans cette partie dépend de la position de Jupiter à votre naissance. Environ 3 personnes sur 5 nées entre 1930 et 2009 ne le rencontrent jamais avant 80 ans."
+    a: "Parce que Pluton met environ 248 ans à faire le tour du zodiaque : une vie n’en montre qu’une partie. Que le point opposé à Jupiter se trouve dans cette partie dépend de la position de Jupiter à votre naissance. Parmi les personnes nées entre 1930 et 2009, environ 3 sur 5 arrivent à 80 ans sans elle."
   - q: "Pluton opposition Jupiter : est-ce un mauvais transit ?"
     a: "Aucun transit n’est mauvais en soi. Celui-ci peut être exigeant, parce que la certitude d’une autre personne peut peser fort sur la vôtre. Mais une polarité n’est pas un conflit, et rien n’est écrit d’avance : aucun transit n’annonce une dispute, un procès ou une perte. Il montre où vos convictions demandent à être pesées."
 sources:

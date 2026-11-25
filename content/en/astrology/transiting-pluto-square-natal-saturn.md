@@ -26,7 +26,7 @@ faq:
   - q: "How long does Pluto square Saturn last?"
     a: "Typically two years and eight months, from 1½° before exact to 1° after, and as long as three and three-quarter years. Because Pluto loops back each year, the square becomes exact three times in about three passes out of five, five times in the others."
   - q: "When will Pluto square my Saturn?"
-    a: "At an age set by where your Saturn stood at birth: for births on 1 January, at 2 in 1975, 28.8 in 1945, 30 in 1965 and 53.2 in 1985. While Pluto crosses Aquarius, until early 2044, it squares Saturns in Taurus and Scorpio. About 1 person in 7 never meets it by 80."
+    a: "At an age set by where your Saturn stood at birth: for births on 1 January, at 2 in 1975, 28.8 in 1945, 30 in 1965 and 53.2 in 1985. For now, with Pluto in Aquarius until early 2044, the square falls on Saturn in Taurus or Scorpio. Only about 1 person in 7 reaches 80 without it."
   - q: "Is Pluto square Saturn dangerous?"
     a: "No. A square describes friction, and friction isn’t failure; this one asks structures to adapt. It doesn’t forecast a breakdown, an illness, a job loss or any other event. If the pressure of a stretch like this stays heavy for weeks, a doctor or a therapist is the right help."
 sources:

@@ -24,7 +24,7 @@ faq:
   - q: "What does transiting Pluto sextile natal Pluto mean?"
     a: "Pluto has travelled 60° from its place at your birth, the first opening of its own cycle in adult life. It is a chance to change something at depth by choice rather than under pressure, in the part of life your natal Pluto’s house describes."
   - q: "At what age is the Pluto sextile?"
-    a: "Between 21.5 and 36.1, for births from 1930 to 2009. For births on 1 January it came within orb at 33.8 in 1935, 29.9 in 1945, 26.8 in 1955, 24 in 1965, 23.1 in 1975, 24.1 in 1985 and 27.2 in 1995, and comes at 31.3 for 2005."
+    a: "Anywhere from 21.5 to 36.1 for people born between 1930 and 2009, depending on the year: 33.8 for a birth on 1 January 1935, as early as 23.1 for 1975, and 31.3 for 2005."
   - q: "Why does the Pluto sextile come at different ages?"
     a: "Because Pluto’s orbit is stretched: it crosses some signs in about 12 years and others in about 31. Born in the 1970s, your first 60° ran through Libra, Scorpio and Sagittarius, near Pluto’s fastest, so the sextile came at about 23; born in the 1930s, through Leo and Virgo, slower signs, so it came at about 34."
   - q: "How long does Pluto sextile Pluto last?"

@@ -25,7 +25,7 @@ faq:
   - q: "Que veut dire Pluton en transit conjonction Neptune ?"
     a: "Pluton se trouve sur Neptune dans votre thème, la part qui imagine, idéalise et aspire à quelque chose de plus grand, le plus souvent dans votre vingtaine. Les idéaux avec lesquels vous avez grandi sont éprouvés à la racine : certains se dissolvent, d’autres gagnent en profondeur et deviennent les vôtres."
   - q: "À quel âge vient Pluton conjonction Neptune ?"
-    a: "Entre 22 et 30 ans environ, pour toutes les personnes nées de 1930 à 2009. Pour une naissance un 1er janvier, la conjonction est entrée dans l’orbe à 28,8 ans pour 1935 et 1945, 27 ans pour 1955, 25,9 ans pour 1965, 24 ans pour 1975, 23,1 ans pour 1985 et 23,3 ans pour 1995, et viendra à 26,1 ans pour 2005."
+    a: "Entre 22 et 30 ans environ, pour toutes les personnes nées de 1930 à 2009. Une naissance le 1er janvier 1935 ou 1945 l’a placée à 28,8 ans, une de 1975 à 24 ans, et une de 2005 la place à 26,1 ans."
   - q: "Pourquoi cette conjonction vient-elle pour tout le monde dans la vingtaine ?"
     a: "Parce que dans chaque thème de ces années, Neptune se trouvait 45° à 65° environ devant Pluton, près du long sextile qui les reliait, et Pluton parcourt cette distance en 22 à 30 ans. Elle est venue le plus tôt pour les naissances des années 1980 et 1990, quand Pluton traversait le Scorpion et le Sagittaire, près de sa vitesse maximale."
   - q: "Combien de temps dure Pluton conjonction Neptune ?"

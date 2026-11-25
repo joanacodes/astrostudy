@@ -26,7 +26,7 @@ faq:
   - q: "How long does Pluto opposite Saturn last?"
     a: "Anything from about twenty-two months to nearly four years, two years and eight months on average, with my orbs of 1½° before exact and 1° after."
   - q: "How rare is Pluto opposite Saturn?"
-    a: "Just over half of people born between 1930 and 2009 never meet it by 80, and nobody meets it twice. For births on 1 January it came at 15.1 in 2005, 18.7 in 1935, 40.1 in 1975 and 66 in 1945, and not by 80 in 1955, 1965, 1985 or 1995."
+    a: "Just over half of people born between 1930 and 2009 never meet it by 80, and nobody meets it twice. Among 1 January birthdays, 2005 meets it at 15.1, 1935 met it at 18.7, 1975 at 40.1 and 1945 at 66; 1955, 1965, 1985 and 1995 never do by 80."
   - q: "Does Pluto opposite Saturn mean a power struggle?"
     a: "It can feel like one, because someone else’s power faces your own structures. But polarity isn’t conflict, and not every unequal exchange is an attempt to dominate you. The transit describes pressure to redraw boundaries, never who wins, and it forecasts no dispute, dismissal or legal outcome."
 sources:

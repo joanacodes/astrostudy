@@ -26,7 +26,7 @@ faq:
   - q: "How long does Pluto sextile Saturn last?"
     a: "Within my orbs of 1½° before exact and 1° after, about two years and eight months. When one of Pluto’s stations falls near the degree, the sextile is exact five times instead of three and lasts closer to three years and seven months."
   - q: "Will I have Pluto sextile Saturn?"
-    a: "The odds are good: about 3 people in 4 born between 1930 and 2009 meet it by 80, and about 1 in 10 meets it twice, once on each side of Saturn. While Pluto crosses Aquarius, until early 2044, it sextiles Saturns in Aries and Sagittarius, and the exact degree of yours sets the year."
+    a: "The odds are good: about 3 people in 4 born between 1930 and 2009 meet it by 80, and about 1 in 10 meets both of Saturn’s sextile points. Pluto in Aquarius sextiles Saturn in Aries or Sagittarius until early 2044, and the exact degree of yours sets the year."
   - q: "Is Pluto sextile Saturn a good transit?"
     a: "It is one of the gentler Pluto transits, but I don’t read any transit as good or bad. A sextile describes an opportunity that needs engagement: nothing changes unless you take it up. It promises no success, and it predicts no event."
 sources:
@@ -53,7 +53,7 @@ About three people in four born between 1930 and 2009 meet it by 80, and about o
 
 Aries and Sagittarius lie 60° from Aquarius, so until early 2044 Pluto sextiles Saturn in either of those signs. Born from 1996 to 1999, with Saturn in Aries, you meet it between about 26 and 45; from 1985 to 1988, with Saturn in Sagittarius, between about 37 and 55.
 
-It is the mildest of Pluto's five contacts with Saturn. The square ([Transiting Pluto square natal Saturn](/astrology/transiting-pluto-square-natal-saturn/)) and the opposition ([Transiting Pluto opposite natal Saturn](/astrology/transiting-pluto-opposite-natal-saturn/)) press where this one invites, the trine ([Transiting Pluto trine natal Saturn](/astrology/transiting-pluto-trine-natal-saturn/)) flows without being asked, and the conjunction ([Transiting Pluto conjunct natal Saturn](/astrology/transiting-pluto-conjunct-natal-saturn/)), goes straight to the foundations.
+It is the mildest of Pluto's five contacts with Saturn. The square ([Transiting Pluto square natal Saturn](/astrology/transiting-pluto-square-natal-saturn/)) and the opposition ([Transiting Pluto opposite natal Saturn](/astrology/transiting-pluto-opposite-natal-saturn/)) press where this one invites, the trine ([Transiting Pluto trine natal Saturn](/astrology/transiting-pluto-trine-natal-saturn/)) flows without being asked, and the conjunction ([Transiting Pluto conjunct natal Saturn](/astrology/transiting-pluto-conjunct-natal-saturn/)) goes straight to the foundations.
 
 ## What helps {#what-helps}
 

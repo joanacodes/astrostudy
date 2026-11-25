@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Uranus", "sextile", "transits"]
 weight: 1834
 glyph: "♇⚹♅"
-definition: "Transiting Pluto sextile natal Uranus places Pluto 60° from your birth Uranus for two to four years; about 5 people in 6 meet it by 80. Renewal offers your wish for change a workable route. I treat it as a chance to reform something on your own terms; it changes nothing by itself."
+definition: "Transiting Pluto sextile natal Uranus, which about 5 people in 6 meet by 80, puts two signs between Pluto and your birth Uranus for two to four years. Renewal offers your wish for change a workable route. I treat it as a chance to reform something on your own terms; it changes nothing by itself."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of renewal" }
   - { k: "Natal point", v: "Uranus ♅: change, invention and room to differ" }
@@ -24,7 +24,7 @@ faq:
   - q: "What does transiting Pluto sextile natal Uranus mean?"
     a: "A 60° angle links Pluto to your Uranus, two signs apart, and renewal backs your wish for change. A reform you want, at work, at home or in a group, becomes workable if you take it up; nothing happens unless you do."
   - q: "When will Pluto sextile my Uranus?"
-    a: "It depends on your birth year, because Uranus has been drawing away from Pluto for decades. For births on 1 January it came at 13.9 for 1955, 23.9 for 1965, 33.1 for 1975 and 47.2 for 1985. While Pluto crosses Aquarius, until early 2044, it reaches people born from 1981 to 1989, with Uranus in Sagittarius."
+    a: "It depends on your birth year, because Uranus has been drawing away from Pluto for decades. On 1 January birthdays it came at 13.9 in 1955, 23.9 in 1965, 33.1 in 1975 and 47.2 in 1985. Until Pluto leaves Aquarius in early 2044, it reaches people born from 1981 to 1989, with Uranus in Sagittarius."
   - q: "How long does Pluto sextile Uranus last?"
     a: "On average two years and eight months, about twenty-two months at its shortest, between 1½° before exact and 1° after. A pass that turns exact five times rather than three lasts about three years and seven months."
   - q: "Is Pluto sextile Uranus a good time for big changes?"

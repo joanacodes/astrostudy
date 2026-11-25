@@ -2,7 +2,7 @@
 title: "Pluton en transit trigone Jupiter du thème natal"
 slug: "pluton-transit-trigone-jupiter-natal"
 h1: "Pluton en transit trigone Jupiter de votre thème natal"
-description: "Pluton en transit trigone Jupiter du thème natal : deux à quatre ans où vos convictions s’approfondissent sans lutte. Qui le vit, quand, ce qui aide."
+description: "Pluton en transit trigone Jupiter du thème natal : deux à quatre ans où vos convictions s’approfondissent sans lutte. Pourquoi l’âge ne le date pas."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -27,7 +27,7 @@ faq:
   - q: "Combien de temps dure Pluton trigone Jupiter ?"
     a: "À peu près deux ans et huit mois, du jour où Pluton arrive à 1,5° du trigone exact au jour où Pluton l’a dépassé de 1°, et vingt-deux mois quand le mouvement est rapide. Le trigone n’est jamais exact une seule fois : trois fois dans la plupart des passages, cinq dans environ deux passages sur cinq."
   - q: "Quand vient le trigone de Pluton à Jupiter dans mon thème ?"
-    a: "Cela dépend du signe et du degré de Jupiter dans votre thème, pas de votre âge, car Jupiter change de signe environ une fois par an. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le trigone touche Jupiter en Gémeaux et en Balance, les premiers degrés d’abord. Environ 1 personne sur 4 née entre 1930 et 2009 ne le vit jamais avant 80 ans."
+    a: "Cela dépend du signe et du degré de Jupiter dans votre thème, pas de votre âge, car Jupiter change de signe environ une fois par an. Jusqu’au début de 2044, avec Pluton en Verseau, le trigone touche Jupiter en Gémeaux et en Balance, les premiers degrés d’abord. Environ 1 personne sur 4 née entre 1930 et 2009 ne le vit jamais avant 80 ans."
   - q: "Est-ce que Pluton trigone Jupiter apporte de la chance ou de l’argent ?"
     a: "Ni l’un ni l’autre, dans ma lecture. Jupiter décrit une croissance de la compréhension, pas la chance ni la richesse, et un trigone décrit une fluidité, pas un succès. Ce transit rend plus facile d’approfondir ce que vous croyez et ce que vous projetez ; il n’annonce ni aubaine, ni victoire, ni aucun événement."
 sources:

@@ -26,7 +26,7 @@ faq:
   - q: "How long does Pluto conjunct Saturn last?"
     a: "Pluto lingers on your Saturn for about two years and eight months, counted from 1½° before exact to 1° after; a quick pass takes about twenty-two months, a slow one up to three and three-quarter years."
   - q: "At what age does Pluto conjunct Saturn happen?"
-    a: "There is no set age, because Saturn’s position varies so much from one birth to the next. For births on 1 January it came at 7.9 in 1985, at 35 in 1955 and at 53.2 in 1995, and not by 80 in 1935, 1945, 1975 or 2005. About 3 people in 5 never meet it."
+    a: "There is no set age, because Saturn’s position varies so much from one birth to the next. A birth on 1 January 1985 met it at 7.9, one on 1 January 1955 at 35 and one in 1995 at 53.2, while 1935, 1945, 1975 and 2005 don’t meet it by 80. Three people in five go without it."
   - q: "Is Pluto conjunct Saturn a time of loss?"
     a: "I don’t see it that way. Saturn never predicts failure and Pluto never predicts loss; together they describe structures being rebuilt, often slowly. What changes is decided by you and your circumstances, not by the transit. If a heavy stretch weighs on you for weeks, talk to a doctor or a therapist."
 sources:

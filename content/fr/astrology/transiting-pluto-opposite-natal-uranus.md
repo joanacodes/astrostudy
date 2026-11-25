@@ -25,7 +25,7 @@ faq:
   - q: "Que veut dire Pluton en transit opposition Uranus ?"
     a: "Depuis l’autre côté du thème, face à Uranus, Pluton amène un changement porté par d’autres personnes ou par le monde qui vous entoure. Votre indépendance et votre façon de faire autrement demandent à être renégociées : ni céder, ni partir."
   - q: "Qui vit Pluton opposition Uranus ?"
-    a: "Seulement les personnes nées avant 1963 environ, dont Uranus se trouvait derrière Pluton à la naissance : elles la vivent une fois, entre 44 et 80 ans environ. Depuis le milieu des années 1960, Uranus se trouve devant Pluton dans chaque thème, ce qui met l’opposition hors de portée avant 80 ans. Environ 3 personnes sur 5 nées entre 1930 et 2009 ne la vivent jamais."
+    a: "Seulement les personnes nées avant 1963 environ, dont Uranus se trouvait derrière Pluton à la naissance : elles la vivent une fois, entre 44 et 80 ans environ. Depuis le milieu des années 1960, Uranus se trouve devant Pluton dans chaque thème, ce qui met l’opposition hors de portée avant 80 ans. Environ 3 personnes sur 5 nées entre 1930 et 2009 restent donc sans elle."
   - q: "Combien de temps dure Pluton opposition Uranus ?"
     a: "Comptée de 1,5° avant l’exactitude à 1° après, l’opposition dure environ deux ans et huit mois, et jamais moins de vingt-deux mois environ."
   - q: "Est-ce que Pluton opposition Uranus annonce une séparation ?"

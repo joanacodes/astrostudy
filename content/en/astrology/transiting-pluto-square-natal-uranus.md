@@ -24,7 +24,7 @@ faq:
   - q: "What does transiting Pluto square natal Uranus mean?"
     a: "Pluto has come 90° round from your Uranus, the part of the chart that needs freedom and change. The result is a long friction between the life you want room for and pressure to transform something at depth: restlessness with what fits badly, and the work of reforming it rather than simply breaking away."
   - q: "At what age does Pluto square Uranus come?"
-    a: "Your birth year sets it. For births on 1 January it came within orb at 16.7 in 1945, 26.8 in 1955, 36 in 1965 and 49.1 in 1975, and comes at 68.3 for 1985. Born in 1935, you had it as a baby; for births in 1995 and 2005, it doesn’t come by 80."
+    a: "Your birth year sets it: 16.7 for someone born on 1 January 1945, 26.8 for 1955, 36 for 1965, 49.1 for 1975 and 68.3 for 1985. Born in 1935, you had it as a baby; for births in 1995 and 2005, it doesn’t come by 80."
   - q: "How long does Pluto square Uranus last?"
     a: "At least about twenty-two months, and usually two years and eight months, between 1½° before exact and 1° after, as Pluto turns back over the degree each year."
   - q: "Does Pluto square Uranus bring sudden upheaval?"

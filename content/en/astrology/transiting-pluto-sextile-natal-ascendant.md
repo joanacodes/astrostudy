@@ -26,7 +26,7 @@ faq:
   - q: "How long does Pluto sextile Ascendant last?"
     a: "Expect about two years and eight months, or twenty-two months if Pluto is quick, inside my orbs of 1½° before exact and 1° after."
   - q: "When will Pluto sextile my Ascendant?"
-    a: "Your birth time decides it. While Pluto crosses Aquarius, until early 2044, it sextiles Aries rising and Sagittarius rising, early degrees first. About 3 people in 4 born between 1930 and 2009 meet this sextile by 80, and some meet it twice, once on each side of the Ascendant."
+    a: "Your birth time decides it. Aries rising and Sagittarius rising are the ones within reach until early 2044, while Pluto is in Aquarius, early degrees first. It comes to three people in four before 80, and to some twice, from either side of the Ascendant."
   - q: "Is Pluto sextile Ascendant a good time for a fresh start?"
     a: "It is a good time to make one, because the sextile favours deliberate change. But it offers an opportunity rather than an outcome: nothing begins unless you begin it, and no transit guarantees how a new start will turn out."
 sources:

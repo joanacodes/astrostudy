@@ -2,7 +2,7 @@
 title: "Pluton en transit carré Saturne du thème natal"
 slug: "pluton-transit-carre-saturne-natal"
 h1: "Pluton en transit carré Saturne de votre thème natal"
-description: "Pluton en transit carré Saturne du thème natal : deux à quatre ans de pression sur les structures qui vous portent. À quel âge il vient, ce qui aide."
+description: "Pluton en transit carré Saturne du thème natal : deux à quatre ans de pression sur les structures qui vous portent. À quel âge ce carré vient, ce qui aide."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -27,7 +27,7 @@ faq:
   - q: "Combien de temps dure Pluton carré Saturne ?"
     a: "En général deux ans et huit mois, de 1,5° avant l’exactitude à 1° après, et jusqu’à trois ans et neuf mois. Comme Pluton revient en arrière chaque année, le carré devient exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres."
   - q: "Quand vient le carré de Pluton à Saturne dans mon thème ?"
-    a: "À un âge fixé par la position de Saturne à votre naissance : pour une naissance un 1er janvier, à 2 ans en 1975, 28,8 ans en 1945, 30 ans en 1965 et 53,2 ans en 1985. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le carré touche Saturne en Taureau et en Scorpion. Environ 1 personne sur 7 ne le vit jamais avant 80 ans."
+    a: "À un âge fixé par la position de Saturne à votre naissance : pour une naissance un 1er janvier, à 2 ans en 1975, 28,8 ans en 1945, 30 ans en 1965 et 53,2 ans en 1985. Pour l’instant, avec Pluton en Verseau jusqu’au début de 2044, le carré tombe sur Saturne en Taureau ou en Scorpion. Environ 1 personne sur 7 seulement arrive à 80 ans sans l’avoir vécu."
   - q: "Est-ce que Pluton carré Saturne est dangereux ?"
     a: "Non. Un carré décrit une friction, et une friction n’est pas un échec : celui-ci demande aux structures de s’adapter. Il n’annonce ni effondrement, ni maladie, ni perte d’emploi, ni aucun autre événement. Si la pression d’une telle période reste lourde des semaines durant, un médecin ou une ou un thérapeute est la bonne aide."
 sources:

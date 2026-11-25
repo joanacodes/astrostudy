@@ -27,7 +27,7 @@ faq:
   - q: "Combien de temps dure Pluton trigone Saturne ?"
     a: "Les boucles en décident : avec trois contacts exacts, comme dans environ trois passages sur cinq, deux ans et sept mois environ ; avec cinq, trois ans et sept mois environ. Tous passages confondus, de 1,5° avant l’exactitude à 1° après, la durée habituelle est d’environ deux ans et huit mois."
   - q: "Quand vient le trigone de Pluton à Saturne dans mon thème ?"
-    a: "C’est la place de Saturne dans votre thème qui décide, pas votre génération : pour une naissance un 1er janvier, à 13,9 ans en 1975, 18,8 ans en 1965, 40,9 ans en 1945 et 56,3 ans en 2005. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le trigone touche Saturne en Gémeaux et en Balance. Près de 4 personnes sur 5 le vivent avant 80 ans."
+    a: "C’est la place de Saturne dans votre thème qui décide, pas votre génération : pour une naissance un 1er janvier, à 13,9 ans en 1975, 18,8 ans en 1965, 40,9 ans en 1945 et 56,3 ans en 2005. Pendant les années de Pluton en Verseau, jusqu’au début de 2044, c’est Saturne en Gémeaux ou en Balance qui reçoit le trigone. Près de 4 personnes sur 5 le vivent avant 80 ans."
   - q: "Est-ce que Pluton trigone Saturne porte chance ?"
     a: "Je n’y lis pas de la chance. Un trigone décrit une aisance, et une aisance n’est pas une garantie : elle aide le travail que vous êtes prête ou prêt à faire. Saturne récompense la patience et Pluton l’honnêteté, si bien que ce trigone convient pour terminer, consolider et faire durer. Il n’annonce ni succès ni événement."
 sources:

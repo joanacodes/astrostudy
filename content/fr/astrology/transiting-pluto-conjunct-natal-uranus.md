@@ -2,7 +2,7 @@
 title: "Pluton en transit conjonction Uranus du thème natal"
 slug: "pluton-transit-conjonction-uranus-natal"
 h1: "Pluton en transit conjonction Uranus de votre thème natal"
-description: "Pluton en transit conjonction Uranus du thème natal : deux à quatre ans où votre besoin de liberté se refait. Pourquoi après 1965 seulement, ce qui aide."
+description: "Pluton en transit conjonction Uranus du thème natal : deux à quatre ans où votre idée de la liberté change de fond. Pourquoi après 1965 seulement."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -27,7 +27,7 @@ faq:
   - q: "Qui vit Pluton conjonction Uranus ?"
     a: "Seulement les personnes nées après qu’Uranus a dépassé Pluton, en Vierge, en 1965 et 1966. Uranus va plus vite : depuis, dans chaque thème, Uranus se trouve devant Pluton, un peu plus loin chaque année, et Pluton rattrape lentement l’écart. Les naissances de 1930 au milieu des années 1960, un peu moins de la moitié de celles comptées, ne la vivent jamais."
   - q: "À quel âge vient Pluton conjonction Uranus ?"
-    a: "D’autant plus tard que la naissance est tardive. Pour une naissance un 1er janvier, elle est entrée dans l’orbe à 8,9 ans en 1975, 16 ans en 1985 et 25,1 ans en 1995, et viendra à 39,3 ans pour 2005. Les personnes nées à la fin des années 1960 l’ont vécue enfants ; les dernières naissances comptées, en 2009, la vivront vers 53 ans."
+    a: "D’autant plus tard que la naissance est tardive : à 8,9 ans pour une naissance le 1er janvier 1975, 16 ans pour 1985 et 25,1 ans pour 1995, et à 39,3 ans pour 2005. Les personnes nées à la fin des années 1960 l’ont vécue enfants ; les dernières naissances comptées, en 2009, la vivront vers 53 ans."
   - q: "Combien de temps dure Pluton conjonction Uranus ?"
     a: "Deux ans et huit mois en général, vingt-deux mois au plus court, avec mes orbes de 1,5° avant l’exactitude et 1° après. Chaque année, la rétrogradation ramène Pluton sur la place d’Uranus : c’est pourquoi le degré est franchi trois ou cinq fois."
 sources:
@@ -52,7 +52,7 @@ Pluton reste sur Uranus environ deux ans et huit mois, en comptant de 1,5° avan
 
 Qui la vit dépend de cette rencontre en Vierge. Uranus, qui fait le tour du zodiaque en 84 ans, a pris de l’avance sur Pluton depuis, un peu plus chaque année : plus la naissance est tardive, plus Pluton a de chemin à faire pour atteindre la place d’Uranus. Une personne née le 1er janvier 1975 est entrée dans l’orbe à 8,9 ans, une du 1er janvier 1995 à 25,1 ans ; pour le 1er janvier 2005, ce sera à 39,3 ans, et les dernières naissances comptées, en 2009, la vivront vers 53 ans. Toutes les personnes nées de 1930 au milieu des années 1960, avec Uranus derrière Pluton, ne la rencontrent jamais : un peu moins de la moitié des naissances comptées.
 
-En ce moment, elle revient aux personnes nées avec Uranus en Verseau, de 1996 à 2004 : Pluton, en Verseau jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), les atteint entre 26 et 40 ans environ.
+En ce moment, la conjonction revient aux personnes nées avec Uranus en Verseau, de 1996 à 2004 : Pluton, en Verseau jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), les atteint entre 26 et 40 ans environ.
 
 La même géométrie règle les autres contacts. Le carré de Pluton à Uranus ([Pluton en transit carré Uranus du thème natal](/astrology/transiting-pluto-square-natal-uranus/)) est arrivé vers 36 ans pour les naissances du milieu des années 1960, avec le [carré de Pluton](/astrology/pluto-square/), et le trigone ([Pluton en transit trigone Uranus du thème natal](/astrology/transiting-pluto-trine-natal-uranus/)) vers 49 ans. Quant au sextile ([Pluton en transit sextile Uranus du thème natal](/astrology/transiting-pluto-sextile-natal-uranus/)), il atteint environ 5 personnes sur 6, et l’opposition ([Pluton en transit opposition Uranus du thème natal](/astrology/transiting-pluto-opposite-natal-uranus/)) environ 2 sur 5.
 
