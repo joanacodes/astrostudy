@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/mercury", "/astrology/square", "/astrology/mercury-square-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit carré Mercure du thème natal ?"
-    a: "Uranus se trouve à 90° de votre Mercure de naissance et reste près de cet angle une vingtaine de mois. J’y lis une friction entre votre façon habituelle de penser et d’expliquer et une poussée pour tout repenser : les méthodes sur lesquelles vous comptiez cessent de marcher, les conversations s’aiguisent, et de meilleures idées sortent du désaccord."
+    a: "Le carré, c’est 90° entre Uranus et votre Mercure de naissance, un écart qui tient une vingtaine de mois. J’y lis une friction entre votre façon habituelle de penser et d’expliquer et une poussée pour tout repenser : les méthodes sur lesquelles vous comptiez cessent de marcher, les conversations s’aiguisent, et de meilleures idées sortent du désaccord."
   - q: "Uranus carré Mercure, est-ce mauvais pour la communication ?"
     a: "Les conversations peuvent devenir plus rapides et plus abruptes, les malentendus plus faciles, parce que l’esprit court devant les mots. C’est une friction, pas un dommage. Ralentir la réponse, mettre l’important par écrit et chercher ce qu’il y a derrière une objection transforment en général le carré en meilleures idées."
   - q: "Combien de temps dure Uranus carré Mercure ?"

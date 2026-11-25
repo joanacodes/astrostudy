@@ -46,9 +46,9 @@ Un transit n’embauche ni ne licencie personne. Qu’un emploi commence ou fini
 
 ## Combien de temps {#combien-de-temps}
 
-Sur le degré lui-même, dans mes orbes de 1,5° avant l’exactitude et 1° après, Saturne reste neuf mois environ. Un peu plus d’une fois sur deux, le passage se fait en trois fois au gré de la boucle, sur neuf mois et demi environ, et les plus rapides prennent trois semaines. Tout le monde le vit deux ou trois fois avant 80 ans.
+Le sommet du thème retient Saturne neuf mois environ, de 1,5° avant l’exactitude à 1° après, les orbes que j’utilise. Un peu plus d’une fois sur deux, Saturne arrive, recule et arrive de nouveau : trois passages exacts en neuf mois et demi environ ; une seule traversée rapide peut tenir en trois semaines. Tout le monde le vit deux ou trois fois avant 80 ans.
 
-Le Milieu du Ciel avance dans le zodiaque d’environ un degré toutes les quatre minutes de la journée : l’heure et la minute inscrites sur votre acte de naissance décident du mois. Deux heures notées à cinq minutes d’écart peuvent déplacer ce passage de plus d’un mois. Cette précision explique pourquoi je ne commence aucune lecture sans l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le Milieu du Ciel avance dans le zodiaque d’environ un degré toutes les quatre minutes de la journée, si bien que l’heure et la minute inscrites sur votre acte de naissance décident du mois : deux heures notées à cinq minutes d’écart peuvent déplacer ce passage de plus d’un mois. D’où l’importance que je donne à la minute, autant qu’au jour ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Avant et après ce passage, de façon symétrique, viennent les sextiles, environ cinq ans de chaque côté ([Saturne en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-saturn-sextile-natal-midheaven/)) ; les carrés, environ sept ans, tout près des passages de Saturne sur votre Descendant et sur votre Ascendant ([Saturne en transit carré Milieu du Ciel du thème natal](/astrology/transiting-saturn-square-natal-midheaven/)) ; et les trigones, environ dix ans ([Saturne en transit trigone Milieu du Ciel du thème natal](/astrology/transiting-saturn-trine-natal-midheaven/)).
 

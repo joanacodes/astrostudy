@@ -43,7 +43,7 @@ With your Venus in the 7th, the friction sits in partnership. Saturn is then usu
 
 ## How long it lasts {#how-long-it-lasts}
 
-Saturn's yearly loop backwards covers about seven degrees ([Saturn retrograde](/astrology/saturn-retrograde/)), so when it turns near the square it can cross the exact point three times. That happens in a little over half of these [transits](/astrology/transits/) and spreads them over about nine and a half months. With my orbs, from 1½° before exact to 1° after, the usual length is about nine months, and a single quick crossing can be over in three weeks.
+Saturn's yearly loop backwards covers about seven degrees ([Saturn retrograde](/astrology/saturn-retrograde/)), so when it turns near the square it can cross the exact point three times. That happens in a little over half of these [transits](/astrology/transits/) and spreads them over about nine and a half months. The usual length, with my orbs of 1½° before exact and 1° after, is about nine months, and a single quick crossing can be over in three weeks.
 
 Twice a round adds up to five or six squares by 80, and nobody gets there without meeting some. The waxing square comes between [transiting Saturn sextile natal Venus](/astrology/transiting-saturn-sextile-natal-venus/) and [transiting Saturn trine natal Venus](/astrology/transiting-saturn-trine-natal-venus/). The waning one follows [transiting Saturn opposite natal Venus](/astrology/transiting-saturn-opposite-natal-venus/) and the second trine, a few years before Saturn returns to your Venus at [transiting Saturn conjunct natal Venus](/astrology/transiting-saturn-conjunct-natal-venus/).
 

@@ -38,7 +38,7 @@ sources:
 
 C’est l’aisance que [Mars trigone Uranus](/astrology/mars-trine-uranus/) donne à certaines personnes dès la naissance : agir sur une idée neuve sans d’abord se disputer avec soi-même. Sous ce transit, vous vous surprenez peut-être à vous entraîner autrement, à réorganiser votre travail, ou à entreprendre sans personne ce que vous n’auriez fait autrefois qu’avec une permission.
 
-Le risque du trigone est le même que d’habitude. Un élan qui s’offre se laisse facilement passer, et l’énergie de Mars sans direction a tendance à se disperser.
+Ce qu’un trigone demande à Mars, c’est une cible. Sans elle, le surcroît d’élan tourne à l’agitation, une douzaine de débuts et aucune fin, et les vingt mois passent.
 
 L’indépendance est le thème qu’Uranus apporte à Mars, et sous un trigone elle coûte rarement des alliés. Travailler à votre compte, mener un projet à votre façon ou changer le fonctionnement d’une équipe rencontre ici des conditions plus amicales que sous la conjonction ou les carrés, où le même souhait se heurte à plus de résistance.
 

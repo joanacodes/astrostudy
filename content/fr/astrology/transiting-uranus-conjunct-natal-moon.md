@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/moon", "/astrology/conjunction", "/astrology/moon-conjunct-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit conjonction Lune du thème natal ?"
-    a: "Uranus passe sur le degré qu’occupait votre Lune à la naissance. J’y lis une saison où votre façon de prendre soin de vous change de forme : des routines qui vous apaisaient se mettent à serrer, des besoins inaperçus demandent de la place, et votre façon de vivre chez vous peut demander à être réarrangée de l’intérieur."
+    a: "Uranus se tient sur votre Lune de naissance, ou à un degré près, pour une vingtaine de mois. J’y lis une saison où votre façon de prendre soin de vous change de forme : des routines qui vous apaisaient se mettent à serrer, des besoins inaperçus demandent de la place, et votre façon de vivre chez vous peut demander à être réarrangée de l’intérieur."
   - q: "Uranus conjonction Lune, est-ce un déménagement ?"
     a: "Pas comme je le lis. Un transit ne décide pas d’un déménagement, et je ne m’en sers jamais pour en prédire un. Uranus sur la Lune décrit un besoin de plus d’air dans votre façon de vivre et de ressentir ; certaines personnes y répondent en déménageant, beaucoup en changeant leur façon de vivre là où elles sont."
   - q: "À quel âge vient la conjonction d’Uranus à la Lune ?"
@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent la conjonction avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à la Lune" }
 ---
-Une fois dans son tour de 84 ans, Uranus franchit le degré qu’occupait votre Lune à la naissance, et le franchit en général trois fois. Pendant une vingtaine de mois, ce qui vous rassure doit faire de la place à ce qui vous rend libre.
+Uranus ne vient sur votre Lune natale qu’une fois dans une vie, au plus, et y repasse en général deux fois avant de s’éloigner. Pendant une vingtaine de mois, ce qui vous rassure doit faire de la place à ce qui vous rend libre.
 
 ## Ce qui change {#ce-qui-change}
 

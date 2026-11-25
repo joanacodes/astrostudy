@@ -47,7 +47,7 @@ With your natal Uranus in the 3rd, the first square reaches it from your 6th ([U
 
 Each square lasts about twenty months within my orbs, from 1½° before exact to 1° after, or about eleven at the shortest, and is usually exact three times: long enough, at 20, to try a different path for a year and more.
 
-Everyone born within a year or two of you meets it at about the same age, so a whole year group goes through it together. In the site's count the first square came within orb between about 17½ and 23: at 18.8 for someone born at the start of 1945, at 21.3 for the start of 1985. Its first exact hit fell between 18.4 and 22.9, and the second square, three quarters round, comes between about 59 and 65. By 80, everyone has met both.
+Everyone born within a year or two of you meets it at about the same age. In the site's count the first square came within orb between about 17½ and 23: at 18.8 for someone born at the start of 1945, at 21.3 for the start of 1985. Its first exact hit fell between 18.4 and 22.9, and the second square, three quarters round, comes between about 59 and 65. By 80, everyone has met both.
 
 Uranus in Gemini, until 2033, squares two generations at once ([Uranus in Gemini, 2026–2033](/astrology/uranus-in-gemini-2026-2033/)). People born from March 2003 to March 2011, mostly with Uranus in Pisces, are meeting their first square in their early twenties; those born from November 1961 to June 1969, with Uranus in Virgo, their second in their early sixties.
 

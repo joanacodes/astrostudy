@@ -22,9 +22,9 @@ faq:
   - q: "What does transiting Uranus opposite natal Sun mean?"
     a: "In the sky, Uranus has reached the point directly across the zodiac from your birth Sun. I read it as a season when change reaches you from the other side, often through someone close who wants something different, and asks how much of your direction is yours and how much was only the arrangement around you."
   - q: "How often does Uranus oppose the Sun?"
-    a: "Once in Uranus’s round of about 84 years, so once in a long life at most: about 1 person in 50 born between 1930 and 2009 never meets it before 80. When it comes, it lasts about twenty months with my orbs, and Uranus usually crosses the exact point three times."
+    a: "Once in Uranus’s round of about 84 years, so once in a long life at most: about 1 person in 50 born between 1930 and 2009 turns 80 without having met it. When it comes, it lasts about twenty months with my orbs, and Uranus usually crosses the exact point three times."
   - q: "Is Uranus opposite Sun the same as the Uranus opposition?"
-    a: "Not usually. The Uranus opposition is Uranus facing its own birth place, which everyone meets at about 39 to 44½. Uranus opposite your Sun comes at an age set by where your Sun sits, and the two coincide only if you were born with the Sun and Uranus together."
+    a: "Not usually. The Uranus opposition is Uranus facing its own natal place, at about 39 to 44½ for everyone. Opposite your Sun, the timing depends on the gap between the Sun and Uranus at your birth, and only a chart with the Sun conjunct Uranus brings the two together."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the opposition by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits, one by one" }

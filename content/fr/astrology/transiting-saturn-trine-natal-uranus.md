@@ -46,7 +46,7 @@ Le domaine concerné dépend de la maison de votre Uranus, là où vous tenez à
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, le trigone tient en général neuf mois environ. Un peu plus d’une fois sur deux, la rétrogradation fait passer Saturne trois fois sur le degré exact, en neuf mois et demi environ ; les autres fois, le passage exact est unique, Saturne s’attarde le plus souvent huit mois environ en tournant tout près, et le plus rapide se joue en trois semaines.
+Neuf mois, c’est à peu près ce que prend ce trigone, mesuré avec mes orbes : 1,5° avant l’exactitude, 1° après. Un peu plus d’une fois sur deux, la rétrogradation fait passer Saturne trois fois sur le degré exact, en neuf mois et demi environ ; les autres fois, le passage exact est unique, Saturne s’attarde le plus souvent huit mois environ en tournant tout près, et le plus rapide se joue en trois semaines.
 
 Uranus reste environ sept ans dans un signe : les personnes nées la même année ont Uranus à quelques degrés près au même endroit, et vivent le trigone de Saturne au même âge, à un an près. Cet âge varie beaucoup selon l’année : vers 19 ans pour une naissance en 1975, vers 12 ans en 1985, dans la première année en 1955, quand les deux planètes formaient déjà un trigone. Les trigones vont ensuite par paires, à une dizaine d’années d’écart, avec entre eux l’opposition de Saturne à votre Uranus ([Saturne en transit opposition Uranus du thème natal](/astrology/transiting-saturn-opposite-natal-uranus/)), puis près de vingt ans passent avant la paire suivante. Avant 80 ans, la plupart des gens le vivent cinq fois, quelques-uns six.
 

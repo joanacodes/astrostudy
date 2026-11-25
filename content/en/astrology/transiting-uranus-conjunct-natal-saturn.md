@@ -54,7 +54,7 @@ The sky sets the date: Saturn and Uranus met in 1942 and 1988, and meet again in
 
 With Saturn in Gemini, as for most people born between August 2000 and June 2003, it falls while Uranus crosses Gemini, in your mid to late twenties. For births in the first half of 2003 it shares the months of 2031–32 with the first [Saturn return](/astrology/saturn-return/), when Saturn too comes back to that degree.
 
-Round the rest of the circle come [transiting Uranus sextile natal Saturn](/astrology/transiting-uranus-sextile-natal-saturn/), on average about fourteen years after the conjunction, [transiting Uranus square natal Saturn](/astrology/transiting-uranus-square-natal-saturn/) at about twenty-one, [transiting Uranus trine natal Saturn](/astrology/transiting-uranus-trine-natal-saturn/) at about twenty-eight and [transiting Uranus opposite natal Saturn](/astrology/transiting-uranus-opposite-natal-saturn/) at about forty-two.
+Round the rest of the circle come [transiting Uranus sextile natal Saturn](/astrology/transiting-uranus-sextile-natal-saturn/), about fourteen years after the conjunction, [transiting Uranus square natal Saturn](/astrology/transiting-uranus-square-natal-saturn/) at about twenty-one, [transiting Uranus trine natal Saturn](/astrology/transiting-uranus-trine-natal-saturn/) at about twenty-eight and [transiting Uranus opposite natal Saturn](/astrology/transiting-uranus-opposite-natal-saturn/) at about forty-two.
 
 ## What helps {#what-helps}
 
@@ -62,4 +62,4 @@ List the rules you follow and ask who wrote each one. The ones you'd choose agai
 
 Reform from inside before you think of leaving. Uranus on Saturn favours change made by someone who knows how the thing works, and in Saturn's house, that's you.
 
-Give the new arrangement time to bear weight. A structure needs a season to prove itself, and twenty months is long enough to see which changes hold.
+Give the new arrangement time to bear weight: twenty months is long enough to see which changes hold.

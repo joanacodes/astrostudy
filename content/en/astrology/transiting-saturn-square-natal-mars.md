@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn square natal Mars"
 h1: "Transiting Saturn square your natal Mars"
-description: "Transiting Saturn square natal Mars: twice every 29½ years, drive meets resistance and impatience asks for strategy. How to pace the fight."
+description: "Transiting Saturn square natal Mars: drive meets resistance and impatience asks for strategy, twice in each Saturn round. How to pace the fight."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Mars", "square", "transits"]
 weight: 1643
 glyph: "♄□♂"
-definition: "Transiting Saturn square natal Mars is Saturn at right angles to your birth Mars, about seven years after crossing it and again seven years before returning. Effort meets delay, rules or fatigue, and pushing harder works less well than pushing smarter. I read it as friction that teaches strategy, never as defeat or danger."
+definition: "Transiting Saturn square natal Mars is Saturn at right angles to your birth Mars, which happens twice a round, on the way out from the conjunction and on the way back. Effort meets delay, rules or fatigue, and pushing harder works less well than pushing smarter. I read it as friction that teaches strategy, never as defeat or danger."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Mars ♂: your drive, effort and initiative" }
@@ -24,7 +24,7 @@ faq:
   - q: "Why do I feel blocked under Saturn square Mars?"
     a: "Because Mars wants to move now and Saturn insists on proper timing and method. The square sets them at an angle, so effort meets delays, rules or tiredness. The block is usually a problem of route rather than a dead end: slower, more strategic effort tends to get through where force doesn’t."
   - q: "How long does Saturn square Mars last?"
-    a: "Long enough to outlast any burst of effort: about nine months within my orbs of 1½° before exact and 1° after, often in three exact passes, occasionally three weeks. It comes about seven years after each conjunction and seven before the next, five or six times by 80."
+    a: "Long enough to outlast any burst of effort: some nine months between 1½° before exact and 1° after, frequently as three exact passes, occasionally only three weeks. It falls halfway between a conjunction and the opposition, on the way out and again on the way back: five or six times by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in orb with my orbs, and how often the square comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
@@ -45,9 +45,9 @@ With Saturn in Aries until April 2028, the squares falling now are to Mars in Ca
 
 ## How long it lasts {#how-long-it-lasts}
 
-Nine months is the usual stretch for this square, counting 1½° before exact and 1° after. In a little over half of these [transits](/astrology/transits/) Saturn's retrograde loop brings it over the exact square three times, across about nine and a half months; a single crossing at full speed can be over in three weeks. Either way it outlasts any Mars-sized burst of effort, which is rather the point.
+Nine months is the usual stretch for this square, counting 1½° before exact and 1° after. Three exact squares instead of one is the pattern in a little over half of these [transits](/astrology/transits/), spread over about nine and a half months by Saturn's retrograde loop; with no loop, Saturn can be through in three weeks. Either way it outlasts any Mars-sized burst of effort, which is rather the point.
 
-Twice a round gives five or six squares by 80, for everyone. The first sits between [transiting Saturn sextile natal Mars](/astrology/transiting-saturn-sextile-natal-mars/) and [transiting Saturn trine natal Mars](/astrology/transiting-saturn-trine-natal-mars/), about seven years after [transiting Saturn conjunct natal Mars](/astrology/transiting-saturn-conjunct-natal-mars/); the second follows [transiting Saturn opposite natal Mars](/astrology/transiting-saturn-opposite-natal-mars/) and comes about seven years before the conjunction returns.
+Twice a round gives five or six squares by 80, for everyone. In each round the first follows [transiting Saturn sextile natal Mars](/astrology/transiting-saturn-sextile-natal-mars/) by two or three years, comes about seven after [transiting Saturn conjunct natal Mars](/astrology/transiting-saturn-conjunct-natal-mars/) and leads on to [transiting Saturn trine natal Mars](/astrology/transiting-saturn-trine-natal-mars/); the second comes back after [transiting Saturn opposite natal Mars](/astrology/transiting-saturn-opposite-natal-mars/), some seven years before the next conjunction.
 
 ## What helps {#what-helps}
 

@@ -57,6 +57,6 @@ In the site's count the first trine came at about 52 for someone born at the sta
 
 Make one thing from the inspiration. A trine to Neptune is generous with ideas; what it rewards is the one you finish.
 
-Learn the tool that matches the vision: an instrument, a program, a technique. Uranus in trine makes the learning feel light.
+Learn the tool that matches the vision: an instrument, a piece of software, a technique. Uranus in trine makes the learning feel light.
 
 Say the dream out loud while it's easy to talk about. Told to the right person now, it often finds the collaborator it lacked.

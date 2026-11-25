@@ -46,7 +46,7 @@ On s’inquiète parfois du corps à cet endroit, parce que les vieux livres le 
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, Saturne met neuf mois environ à passer votre degré ascendant. Un peu plus de la moitié de ces passages se font en trois passages exacts, sur neuf mois et demi environ, quand Saturne repasse en arrière sur le degré puis le franchit de nouveau ; les autres ne le touchent qu’une fois, et les plus rapides se règlent en trois semaines.
+Avec mes orbes, de 1,5° avant l’exactitude à 1° après, Saturne met neuf mois environ à passer votre degré ascendant. Un peu plus de la moitié de ces traversées comptent trois passages exacts, sur neuf mois et demi environ, quand Saturne repasse en arrière sur le degré puis le franchit de nouveau ; les autres ne le touchent qu’une fois, et les plus rapides se règlent en trois semaines.
 
 Ces dates ne valent que ce que vaut votre heure de naissance. Votre Ascendant avance d’environ un degré toutes les quatre minutes et Saturne d’environ un degré par mois : en moyenne, chaque minute d’erreur déplace la fenêtre d’une semaine environ, et une heure arrondie peut la décaler de plus de six mois. C’est le cas le plus net de ma règle : pas d’heure de naissance, pas de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

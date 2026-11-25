@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Venus", "opposition", "transits"]
 weight: 1640
 glyph: "♄☍♀"
-definition: "Transiting Saturn opposite natal Venus is the halfway point of Saturn's round with your Venus: Saturn across the zodiac from your birth Venus, about fifteen years after the conjunction. What you enjoy and value faces duty and other people’s expectations, and the give and take between you asks to be rebalanced. I read it as a seesaw, never a verdict."
+definition: "Transiting Saturn opposite natal Venus is the halfway point of Saturn’s round with your Venus: Saturn across the zodiac from your birth Venus, about fifteen years after the conjunction. What you enjoy and value faces duty and other people’s expectations, and the give and take between you asks to be rebalanced. I read it as a seesaw, not a ruling."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Venus ♀: what you value, enjoy and love" }
@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Saturn opposite natal Venus mean?"
     a: "Saturn has reached the point opposite your birth Venus. What you love and enjoy faces responsibility, often through another person: a partner’s needs, a family duty, a formal commitment. I read it as a season of rebalancing give and take, when what you value becomes clearer by contrast, never as a loss foretold."
   - q: "Does Saturn opposite Venus mean divorce?"
-    a: "No transit decides that, and I never read one for the end of a marriage. This opposition tends to bring the balance of a relationship into view: what each person gives, expects and carries. Many couples renegotiate under it, some more honestly than ever before. The outcome belongs to the people involved."
+    a: "That isn’t something a transit decides, and the end of a marriage is not something I read for. This opposition tends to bring the balance of a relationship into view: what each person gives, expects and carries. Many couples renegotiate under it, some more honestly than ever before. The outcome belongs to the people involved."
   - q: "When does Saturn oppose my Venus?"
     a: "Roughly fifteen years after each Saturn conjunction with your Venus, at the midpoint of the round: two or three times by the age of 80. It usually lasts about nine months with my orbs, often in three passes, and a quick single crossing can take three weeks."
 sources:
@@ -39,13 +39,13 @@ In a relationship it often brings the terms into view: who adapts to whom, whose
 
 Across the axis, two houses talk. With Venus in your 4th and Saturn crossing your 10th ([Saturn transiting the 10th house](/astrology/saturn-transit-10th-house/)), the home and the people you love sit across from what work or a public role demands. In Placidus, the house system I use, the 4th and the 10th begin at the IC and the Midheaven, two points only a birth time can place; without it I don't read this opposition ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Saturn crosses Aries until April 2028, so the people meeting this opposition now have Venus in Libra: Venus in one of its own signs, faced by Saturn in the sign tradition calls its fall.
+Until April 2028 Saturn is in Aries, which means the people meeting this opposition now were born with Venus in Libra, at home in its own sign and facing a Saturn in its fall.
 
 ## How long it lasts {#how-long-it-lasts}
 
 When Saturn's retrograde loop falls on the point, as it does in a little over half of its transits, the opposition comes in three passes over about nine and a half months: forward, back, forward again. A single pass can be over in three weeks, and most of these transits last about nine months with my orbs, 1½° before exact and 1° after.
 
-The opposition is the far point of the round that [transiting Saturn conjunct natal Venus](/astrology/transiting-saturn-conjunct-natal-venus/) opens. On the way out come [transiting Saturn sextile natal Venus](/astrology/transiting-saturn-sextile-natal-venus/), [transiting Saturn square natal Venus](/astrology/transiting-saturn-square-natal-venus/) and [transiting Saturn trine natal Venus](/astrology/transiting-saturn-trine-natal-venus/); on the way back, the same three in reverse. Once a round makes two or three oppositions by 80, and everyone meets at least two.
+The opposition is the far point of the round that [transiting Saturn conjunct natal Venus](/astrology/transiting-saturn-conjunct-natal-venus/) opens. Before it, Saturn has made [transiting Saturn sextile natal Venus](/astrology/transiting-saturn-sextile-natal-venus/), [transiting Saturn square natal Venus](/astrology/transiting-saturn-square-natal-venus/) and [transiting Saturn trine natal Venus](/astrology/transiting-saturn-trine-natal-venus/); after it, those three come round again in reverse. Once a round makes two or three oppositions by 80, and everyone meets at least two.
 
 In a birth chart the same axis is [Venus opposite Saturn](/astrology/venus-opposite-saturn/), carried for life rather than for a season. Born with Venus beside Saturn instead, you meet this transit when Saturn faces its own birth place, in your mid-teens and again around 44 ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)).
 

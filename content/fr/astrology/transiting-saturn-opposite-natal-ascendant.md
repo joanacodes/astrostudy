@@ -45,9 +45,9 @@ En Placidus, le système de maisons que j’utilise, le Descendant est la cuspid
 
 ## Combien de temps {#combien-de-temps}
 
-Sur le degré lui-même, dans mes orbes de 1,5° avant l’exactitude et 1° après, l’opposition dure neuf mois environ. Un peu plus d’une fois sur deux, la rétrogradation fait passer Saturne trois fois sur le Descendant, en neuf mois et demi environ ; un passage unique peut se faire en trois semaines. Avant 80 ans, la plupart des gens ont vu Saturne passer deux ou trois fois sur leur Descendant.
+Il faut en général neuf mois environ à Saturne pour franchir votre Descendant, en comptant de 1,5° avant l’exactitude à 1° après. Dans un peu plus de la moitié de ces traversées, Saturne atteint trois fois le Descendant, boucle rétrograde comprise, en neuf mois et demi environ ; une traversée d’un seul trait peut prendre trois semaines. Avant 80 ans, la plupart des gens ont vu Saturne passer deux ou trois fois sur leur Descendant.
 
-Le Descendant n’est que le degré opposé à l’Ascendant : il est donc exactement aussi précis que votre heure de naissance, pas davantage. Une heure fausse de vingt minutes déplace ce transit d’environ cinq mois. C’est l’une des raisons pour lesquelles je ne lis pas de thème sans l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le Descendant n’est que le degré opposé à l’Ascendant : il est donc exactement aussi précis que votre heure de naissance, pas davantage, et une heure fausse de vingt minutes déplace ce transit d’environ cinq mois. De tous les points du thème, les angles sont les moins indulgents envers une erreur d’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 En remontant de l’autre côté du thème, Saturne formera [Saturne en transit trigone Ascendant du thème natal](/astrology/transiting-saturn-trine-natal-ascendant/) autour de votre maison 9, [Saturne en transit carré Ascendant du thème natal](/astrology/transiting-saturn-square-natal-ascendant/) près de votre Milieu du Ciel et [Saturne en transit sextile Ascendant du thème natal](/astrology/transiting-saturn-sextile-natal-ascendant/) autour de votre maison 11, dans cet ordre, avant de retrouver votre degré ascendant.
 

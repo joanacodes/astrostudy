@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire Uranus en transit conjonction Jupiter du thème natal ?"
     a: "Pendant une vingtaine de mois, Uranus se tient sur votre Jupiter de naissance ou tout près, la planète de la croissance, du sens et des convictions. J’y lis une saison où vos horizons s’élargissent dans des directions imprévues : un sujet, un pays, une philosophie ou une façon de travailler s’ouvre, et vos convictions trouvent de la place pour changer."
   - q: "Uranus conjonction Jupiter, est-ce que cela porte chance ?"
-    a: "Pas comme je le lis. Jupiter n’est pas la chance, et Uranus n’est pas un gros lot ; je ne lis aucun transit pour des gains inattendus, des victoires ou des bénéfices. La conjonction décrit une occasion d’un genre inattendu, et une occasion demande toujours votre jugement et votre travail."
+    a: "Pas comme je le lis. Cette conjonction décrit une compréhension qui s’élargit dans une direction imprévue, pas de l’argent qui arrive, et je ne lis ni la chance ni les gains dans aucun transit. Une ouverture, quand elle se présente, demande encore votre jugement et votre travail."
   - q: "À quel âge arrive Uranus conjonction Jupiter ?"
     a: "Cela dépend beaucoup de l’année de naissance, parce que Jupiter rattrape Uranus tous les quatorze ans environ. D’après le décompte du site, elle est venue vers cinq mois pour une naissance au début de 1955, vers 23 ans pour 1945 et vers 57 ans pour 1965 ; environ 1 personne sur 50 ne la rencontre pas avant 80 ans."
 sources:
@@ -39,13 +39,13 @@ Une fois dans son tour de 84 ans, Uranus franchit votre Jupiter, et l’âge auq
 
 Cela peut prendre la forme d’un intérêt soudain qui devient une vocation, d’un voyage qui change votre regard sur chez vous, d’une enseignante ou d’un livre qui réorganise vos convictions, ou de la liberté de travailler à quelque chose de plus vaste que votre rôle actuel. Les principes se mettent à jour. Ce que vous teniez pour vrai se révèle parfois un point de vue parmi d’autres, et cela ressemble d’ordinaire à un soulagement plutôt qu’à une perte.
 
-L’angle mort, ici, c’est de prendre la différence pour la justesse : une conviction n’est pas plus vraie parce qu’elle est neuve. Et Jupiter n’est pas la chance. Je ne lis pas ce transit pour des gains, des victoires ou des aubaines ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)).
+L’angle mort, ici, c’est de prendre la différence pour la justesse : une conviction n’est pas plus vraie parce qu’elle est neuve. Un horizon plus large n’est pas non plus un gain, et je ne déplacerais pas un centime sur la foi de ce transit, ni d’aucun autre ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)).
 
 Jupiter en maison 9 rencontre Uranus pendant les années que la planète du changement passe dans la maison des convictions et des longs voyages ([Uranus en transit en maison 9](/astrology/uranus-transit-9th-house/)), et c’est dans l’étude, le voyage et les croyances que l’élargissement se montre d’abord. La maison 9 ne se lit qu’avec une heure de naissance, et ce [transit](/astrology/transits/) non plus ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Uranus reste sur votre Jupiter une vingtaine de mois, et environ un dixième des passages ne dure que onze mois. La rétrogradation annuelle fait franchir à Uranus trois fois le degré exact dans plus de neuf cas sur dix.
+Comptée de 1,5° avant l’exactitude à 1° après, la conjonction tient une vingtaine de mois, et le dixième le plus vif des passages en prend onze ou moins. La rétrogradation annuelle ramène Uranus sur le degré exact de votre Jupiter, si bien que trois franchissements sont la règle, dans plus de neuf passages sur dix.
 
 Jupiter fait le tour du zodiaque en douze ans environ et rattrape Uranus tous les quatorze ans environ : la position de Jupiter par rapport à Uranus à votre naissance, et donc votre âge pour ce transit, dépend surtout de votre année de naissance. D’après le décompte du site, une naissance au début de 1955 l’a connu vers cinq mois ; 1985, vers 8 ans ; 1945, vers 23 ans ; 1975, vers 31 ans ; 1935, vers 43 ans ; 2005, vers 51 ans ; 1965, vers 57 ans ; et 1995, vers 71 ans. Sur toutes les naissances comptées, l’âge médian est d’environ 40 ans, et pour environ 1 personne sur 50, il vient après 80 ans.
 

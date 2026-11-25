@@ -45,7 +45,7 @@ La maison de votre Pluton montre où se loge la pression : en maison 4, les sch
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le carré dure en général neuf mois environ. La rétrogradation annuelle de Saturne donne à un peu plus de la moitié d’entre eux trois passages exacts sur neuf mois et demi environ ; un seul passage exact peut le ramener à trois semaines.
+En règle générale, le carré dure neuf mois environ : le temps que Saturne passe entre 1,5° avant l’exactitude et 1° après, mes orbes. Un peu plus d’une fois sur deux, la pression vient en trois vagues exactes sur neuf mois et demi environ ; avec un seul passage exact, tout peut passer en trois semaines.
 
 Les deux carrés de chaque tour viennent à une quinzaine d’années d’écart, et personne n’attend longtemps le premier : toutes les personnes nées entre 1930 et 2009 l’ont vécu vers 15 ans au plus tard, la plupart bien avant. Ces premiers carrés tombent dans l’enfance, que je ne lis pas ([le thème des enfants](/astrology/childrens-charts/)) ; à l’âge adulte viennent les suivants, cinq ou six avant 80 ans en tout. La lenteur de Pluton garde une classe d’âge ensemble. Pour une naissance en 1975, les carrés sont venus vers 14, 29 et 43 ans, et le prochain est attendu vers 58 ans, en 2033 ; en 1985, vers 6, 21 et 36 ans, puis vers 50 ans. Pour une naissance en 1955, au cœur de [Saturne carré Pluton](/astrology/saturn-square-pluto/) de 1955–1956, le premier est venu dans l’année, et un autre tout près du retour de Saturne, vers 30 ans.
 

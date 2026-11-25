@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn sextile natal Uranus"
 h1: "Transiting Saturn sextile your natal Uranus"
-description: "Transiting Saturn sextile natal Uranus: an opening to make a change in steps that hold, twice every 29½ years, at ages set by your birth year. What helps."
+description: "Transiting Saturn sextile natal Uranus: an opening to change in steps that hold, first at an age your birth year sets. What helps the change last."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -44,7 +44,7 @@ Many people your age share your Uranus sign, so it's the house that makes this s
 
 ## How long it lasts {#how-long-it-lasts}
 
-About nine months is the usual length, with my orbs of 1½° before exact and 1° after: enough for a trial period with a proper review at the end. A little over half of Saturn's [transits](/astrology/transits/) stretch to about nine and a half months with three exact passes; a crossing at full speed can be over in three weeks.
+A trial period with a proper review at the end fits inside this sextile, which usually lasts about nine months, counted from 1½° before the exact sextile to 1° after it. A little over half of Saturn's [transits](/astrology/transits/) stretch to about nine and a half months with three exact passes; without a loop, three weeks can see it come and go.
 
 Its first visit depends on the angle between Saturn and Uranus at your birth, which changes slowly from year to year. For someone born on 1 January 1945, 1975 or 1995 it came before the age of three; for 1 January 1935, 1965 or 1985, between about 7 and 10; for 1 January 1955 and 2005, at 16.3 and 13. Nobody born from 1930 to 2009 waited beyond about 20 for the first, half had it by 7, and by 80 everyone has met five or six.
 

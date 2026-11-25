@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce que le trigone d’Uranus tombe avec le retour de Saturne ?"
     a: "Pour beaucoup de naissances à partir du milieu des années 1970, oui : le premier trigone arrive vers 28 ou 29 ans et demi, les années du premier retour de Saturne. Pour les naissances plus anciennes, il venait deux à quatre ans avant. Je lis les deux ensemble : Saturne demande à quoi vous vous engagez, Uranus comment le faire vôtre."
   - q: "Combien de temps dure le trigone d’Uranus ?"
-    a: "Une vingtaine de mois chaque fois, comptés de 1,5° avant le trigone exact à 1° après, et onze environ quand le passage est court. Plus de neuf fois sur dix, Uranus forme trois fois le trigone exact : en avançant, puis en reculant pendant la rétrogradation, puis en avançant de nouveau : le premier trigone peut ainsi couvrir tous les mois d’un retour de Saturne."
+    a: "Une vingtaine de mois chaque fois, comptés de 1,5° avant le trigone exact à 1° après, et onze environ quand le passage est court. Plus de neuf fois sur dix, Uranus forme trois fois le trigone exact, et le premier trigone peut ainsi couvrir tous les mois d’un retour de Saturne."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "l’âge du premier trigone d’Uranus pour les naissances de 1930 à 2009, et combien de temps il reste dans mes orbes" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à sa propre position natale" }

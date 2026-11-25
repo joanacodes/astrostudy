@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Uranus opposite natal Jupiter mean?"
     a: "Uranus stands 180° from your natal Jupiter, the part of your chart that holds your beliefs and your sense of meaning. I read it as a meeting with another outlook, often through someone else: your framework seen beside its alternative. It asks for a wider view that keeps the best of both, not a conversion."
   - q: "How long does Uranus opposite Jupiter last?"
-    a: "It stays within my orbs, 1½° before the exact opposition to 1° after, for about twenty months, or about eleven in the shortest passes. In more than nine passes out of ten, Uranus stands exactly opposite your Jupiter three times, the middle time while it is moving backwards through the zodiac, so the other point of view gets more than one hearing."
+    a: "It stays within my orbs, 1½° before the exact opposition to 1° after, for about twenty months, or about eleven in the shortest passes. In more than nine passes out of ten, Uranus stands exactly opposite your Jupiter three times, the middle time while it is retrograde, so the other point of view gets more than one hearing."
   - q: "Does everyone have Uranus opposite Jupiter?"
     a: "Almost everyone who reaches 80 has had it once, and nobody has had it twice by then. About 1 person in 33 born between 1930 and 2009 never meets it by 80: those born just after Jupiter and Uranus stood exactly opposite, for whom Uranus has almost a full round to travel."
   - q: "At what age does Uranus oppose Jupiter?"
@@ -41,7 +41,7 @@ Often the other view arrives in a person: a partner who believes otherwise, a co
 
 I read it as a widening by contrast. Polarity isn't contradiction, and the opposition doesn't ask you to convert or to win; it asks what each view sees that the other misses. The risk is swinging from a long-held faith to its opposite, wholesale, because the new one happens to be in front of you.
 
-With Jupiter in your 9th and Uranus crossing your 3rd ([Uranus transiting the 3rd house](/astrology/uranus-transit-3rd-house/)), your big picture meets the news of the street: what neighbours, a sibling, a short course or a daily journey keep telling you. That axis can only be drawn from your birth time, and I won't read a chart that lacks one ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Jupiter in your 9th and Uranus crossing your 3rd ([Uranus transiting the 3rd house](/astrology/uranus-transit-3rd-house/)), your big picture meets the news of the street: what neighbours, a sibling, a short course or a daily commute keep telling you. That axis can only be drawn from your birth time, and I won't read a chart that lacks one ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

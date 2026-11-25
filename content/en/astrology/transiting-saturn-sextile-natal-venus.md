@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Venus", "sextile", "transits"]
 weight: 1637
 glyph: "♄⚹♀"
-definition: "Transiting Saturn sextile natal Venus is Saturn 60° from the degree your Venus held at birth, about five years after Saturn crosses it and five before it returns. It opens a practical door for what you love: a routine shared, a craft taken up, a bond given time. I read it as an opening that needs your step."
+definition: "Transiting Saturn sextile natal Venus is a 60° contact between Saturn and your birth Venus, the first step after each conjunction and the last before the next. It opens a practical door for what you love: a routine shared, a craft taken up, a bond given time. I read it as an offer that waits for your step."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Venus ♀: what you value, enjoy and love" }
@@ -24,12 +24,12 @@ faq:
   - q: "Is Saturn sextile Venus good for relationships?"
     a: "It tends to suit patient effort in a bond: a regular time together, a shared plan, an honest talk about what each of you can give. It doesn’t bring a relationship or keep one by itself. A sextile is an opening, and what passes through it depends on the people involved."
   - q: "How long does Saturn sextile Venus last?"
-    a: "Long enough to start something and see if it holds: about nine months as a rule, counting from 1½° before exact to 1° after. Just over half the time Saturn crosses the exact sextile three times; a quick single pass can be as short as three weeks. It returns twice a round, five or six times by 80."
+    a: "Long enough to start something and see if it holds: nine months in most cases, from 1½° before the exact sextile to 1° after it. Just over half the time Saturn crosses the exact sextile three times; a quick single pass can be as short as three weeks. It returns twice a round, five or six times by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in orb with my orbs, and how often the sextile comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-About five years after Saturn crosses your Venus, and again about five years before it comes back, the two make a sextile. It's the gentlest of Saturn's visits to Venus and the easiest to sleep through: a door held open for something you value to take a steadier shape.
+Five years or so after Saturn crosses your Venus, the two make a sextile, and they make it again some five years before Saturn comes back. It's the gentlest of Saturn's visits to Venus and the easiest to sleep through: a door held open for something you value to take a steadier shape.
 
 ## What changes {#what-changes}
 

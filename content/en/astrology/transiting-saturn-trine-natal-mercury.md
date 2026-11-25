@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Saturn trine natal Mercury mean?"
     a: "Saturn has reached a trine, 120°, to the degree your Mercury held at birth. Your way of thinking and speaking gets the support of structure: concentration comes more easily, a method takes shape, and work that needs months of attention feels possible. I read it as a good season for patient mental work, with no result promised."
   - q: "How long does Saturn trine Mercury last?"
-    a: "Usually about nine months, counting from 1½° before exact to 1° after, the orbs I use. In a little over half of these transits Saturn loops back and touches the exact trine three times; when it passes once at full speed, it can be over in about three weeks. The trine comes twice in every 29½ years."
+    a: "Nine months, give or take: the time Saturn needs to move from 1½° before the exact trine to 1° past it. In a little over half of these transits it loops back and touches the exact trine three times; passing once at full speed, it can be over in three weeks. It comes twice every 29½ years."
   - q: "Is Saturn trine Mercury good for studying?"
     a: "It tends to suit study that rewards persistence: a long course, a language, a qualification, a book you have to read slowly. The trine makes steady attention easier to keep up. It doesn’t sit the exam for you, and I never read a transit for a result, only for the kind of effort it favours."
 sources:

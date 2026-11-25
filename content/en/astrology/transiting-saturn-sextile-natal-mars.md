@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Mars", "sextile", "transits"]
 weight: 1642
 glyph: "♄⚹♂"
-definition: "Transiting Saturn sextile natal Mars is a 60° angle from Saturn to your birth Mars, about five years after Saturn crosses that degree and five before it comes back. Effort and structure cooperate if you take the opening: a training plan, a skill built by repetition, help from someone experienced. I read it as an opportunity, never a guarantee."
+definition: "Transiting Saturn sextile natal Mars is a 60° angle from Saturn to your birth Mars, about five years after Saturn crosses that degree and five before it comes back. Effort and structure cooperate if you take the opening: a training plan, a skill built by repetition, help from someone experienced. I read it as an opportunity with no guarantee attached."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Mars ♂: your drive, effort and initiative" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/mars", "/astrology/sextile", "/astrology/mars-sextile-saturn", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn sextile natal Mars mean?"
-    a: "Saturn and your birth Mars are two signs apart, a sextile of 60°. Your drive and initiative get the offer of a method: a plan, a schedule, an experienced guide, a standard worth meeting. Nothing is forced under a sextile, so I read it as a practical opening for disciplined effort, one you choose to use."
+    a: "Saturn and your birth Mars are two signs apart, a sextile of 60°. Your drive and initiative get the offer of a method: a plan, a schedule, an experienced guide, a standard worth meeting. Under a sextile nothing is forced; I read this one as a standing offer of method, there for you to take up or leave."
   - q: "Is Saturn sextile Mars a good time to start a training plan?"
     a: "It tends to be. The sextile favours effort with a method: a schedule you can keep, a coach or a plan, practice that adds up over months. It doesn’t do the training for you, and nothing about it is guaranteed. I read it as a season when discipline costs less than usual."
   - q: "How long does Saturn sextile Mars last?"

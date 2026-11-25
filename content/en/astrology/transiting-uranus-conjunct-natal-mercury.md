@@ -39,11 +39,11 @@ In practice that can look like a field that clicks into place, a skill or a piec
 
 Curiosity isn't the same as distraction, yet a mind under this conjunction can run ahead of the hours it has. The ideas that last are usually the ones you test.
 
-Mercury in the 3rd, the house of the everyday mind, puts this conjunction inside a longer stretch of change there ([Uranus transiting the 3rd house](/astrology/uranus-transit-3rd-house/)): daily talk, neighbours and short journeys show the new thinking first. That house comes from your birth time, and without the time I don't read the transit ([what changes without a birth time](/blog/unknown-birth-time/)). Unlike [Mercury conjunct Uranus](/astrology/mercury-conjunct-uranus/) in a birth chart, which describes how a mind is built, the transit is thinking under new conditions, and what stays afterwards is whatever you finished.
+Mercury in the 3rd, the house of the everyday mind, puts this conjunction inside a longer stretch of change there ([Uranus transiting the 3rd house](/astrology/uranus-transit-3rd-house/)): daily talk, neighbours and short journeys show the new thinking first. I can only place that house, and read this conjunction at all, from a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Unlike [Mercury conjunct Uranus](/astrology/mercury-conjunct-uranus/) in a birth chart, which describes how a mind is built, the transit is thinking under new conditions, and what stays afterwards is whatever you finished.
 
 ## How long it lasts {#how-long-it-lasts}
 
-Measured with my orbs, from 1½° before exact to 1° after, Uranus sits on Mercury for about twenty months, long enough for Mercury itself to turn retrograde five or six times in the sky. More than nine passes in ten bring three exact hits; the briefest passes still last about eleven months.
+Between 1½° before exact and 1° after, my orbs for this crossing, about twenty months go by, and Mercury in the sky turns retrograde five or six times while Uranus waits on yours. More than nine passes in ten bring three exact hits; the briefest still take about eleven months.
 
 Mercury always stays within about 28° of the Sun, so this crossing falls within about six or seven years of [transiting Uranus conjunct natal Sun](/astrology/transiting-uranus-conjunct-natal-sun/), before or after, when both come within a life.
 

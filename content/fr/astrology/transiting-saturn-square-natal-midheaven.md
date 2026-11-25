@@ -45,11 +45,11 @@ Le premier carré vient environ sept ans après le passage de Saturne sur votre 
 
 ## Combien de temps {#combien-de-temps}
 
-Mesuré avec mes orbes, de 1,5° avant l’exactitude à 1° après, un carré au Milieu du Ciel dure en général neuf mois environ. Un peu plus de la moitié de ces carrés font une boucle à trois passages exacts sur neuf mois et demi environ ; un passage exact unique peut se terminer en trois semaines. Cinq avant 80 ans, c’est l’habitude, six pour certaines personnes.
+Mesuré avec mes orbes, de 1,5° avant l’exactitude à 1° après, un carré au Milieu du Ciel dure en général neuf mois environ. La moitié d’entre eux, un peu plus, sont des boucles à trois passages exacts sur quelque neuf mois et demi ; les autres n’ont qu’un passage exact, et peuvent être finis en trois semaines. Cinq avant 80 ans, c’est l’habitude, six pour certaines personnes.
 
 Le degré de votre Milieu du Ciel fixe les dates, et il vient de l’heure de naissance : une erreur de quarante minutes déplacerait ce carré de dix mois environ, plus que la durée du transit lui-même. Un thème sans heure n’est pas un thème que je lis ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Jusqu’en avril 2028, Saturne en Bélier forme un carré au Cancer et au Capricorne : avec votre Milieu du Ciel dans l’un de ces signes, l’un de ces carrés est pour vous en ce moment. Les sextiles ([Saturne en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-saturn-sextile-natal-midheaven/)) et les trigones ([Saturne en transit trigone Milieu du Ciel du thème natal](/astrology/transiting-saturn-trine-natal-midheaven/)) à votre Milieu du Ciel tombent à deux ou trois ans de part et d’autre de chaque carré.
+Un Milieu du Ciel en Cancer ou en Capricorne vit son carré maintenant, avec les années de Saturne en Bélier, qui durent jusqu’en avril 2028. Les sextiles ([Saturne en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-saturn-sextile-natal-midheaven/)) et les trigones ([Saturne en transit trigone Milieu du Ciel du thème natal](/astrology/transiting-saturn-trine-natal-midheaven/)) à votre Milieu du Ciel tombent à deux ou trois ans de part et d’autre de chaque carré.
 
 ## Ce qui aide {#ce-qui-aide}
 

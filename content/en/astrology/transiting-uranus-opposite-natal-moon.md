@@ -24,7 +24,7 @@ faq:
   - q: "Does Uranus opposite Moon mean family changes?"
     a: "It can describe a stretch when a household’s balance shifts, as I read it, but a transit doesn’t decide who moves, leaves or arrives. It describes a climate: closeness and independence asking to be rebalanced. What the people involved do with that is theirs to decide."
   - q: "How rare is Uranus opposite the Moon?"
-    a: "It’s a once-in-a-life transit at most, coming roughly 42 years after Uranus crosses your Moon. Most people born between 1930 and 2009 meet it before 80, while about 1 in 33 doesn’t. With my orbs it lasts about twenty months, usually with three exact hits."
+    a: "It’s a once-in-a-life transit at most, coming roughly 42 years after Uranus crosses your Moon. At 80, about 1 person in 33 born between 1930 and 2009 is still waiting for it. With my orbs it lasts about twenty months, usually with three exact hits."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the opposition by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus opposite the Moon, among his transits" }

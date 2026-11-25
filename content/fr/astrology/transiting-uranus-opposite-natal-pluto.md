@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Uranus en transit opposition Pluton du thème natal ?"
     a: "Uranus se trouve à 180° du degré qu’occupait Pluton à votre naissance, une fois dans une vie. J’y lis l’envie de se libérer face aux attachements profonds et aux rapports de pouvoir, souvent à travers quelqu’un : un système familial, une institution, une relation inégale. L’opposition demande un rééquilibrage vu des deux côtés, et ne prédit aucune fin."
   - q: "Combien de temps dure Uranus opposition Pluton ?"
-    a: "Une vingtaine de mois dans mes orbes, qui vont de 1,5° avant l’opposition exacte à 1° après, et onze environ pour les passages les plus brefs. Dans plus de neuf cas sur dix, Uranus se trouve trois fois exactement en face de Pluton, dont une fois en reculant : le temps de voir un rapport de pouvoir, de le questionner et de le rééquilibrer."
+    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant l’opposition exacte à 1° après, et onze environ au plus bref. Dans plus de neuf cas sur dix, Uranus se trouve trois fois exactement en face de Pluton, dont une fois en reculant : le temps de voir un rapport de pouvoir, de le questionner et de le rééquilibrer."
   - q: "Qui vit Uranus opposition Pluton en ce moment ?"
     a: "Les personnes nées de janvier 1995 à novembre 2008, avec Pluton en Sagittaire. Uranus est en Gémeaux jusqu’en 2033, en face de cette position : elles rencontrent le transit ces années-ci, vers 24 à 30 ans. Toutes les personnes nées entre 1930 et 2009 le rencontrent une fois, à un âge que fixe l’année de naissance."
   - q: "À quel âge arrive l’opposition d’Uranus à Pluton ?"

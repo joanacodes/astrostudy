@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/jupiter", "/astrology/sextile", "/astrology/jupiter-sextile-saturn", "/astrology/transits"]
 faq:
   - q: "What does Saturn sextile natal Jupiter mean?"
-    a: "Saturn is two signs, about 60°, from your birth Jupiter. What you want to learn, build or believe in gets the offer of structure: a training that leads somewhere, a plan with stages, a framework from someone experienced. Nothing is forced under a sextile, so I read it as a practical opening, useful if you take it up."
+    a: "Two signs, about 60°, now separate Saturn from your birth Jupiter. What you want to learn, build or believe in gets the offer of structure: a training that leads somewhere, a plan with stages, a framework from someone experienced. Nothing is forced under a sextile, so I read it as a practical opening, useful if you take it up."
   - q: "When does Saturn sextile my natal Jupiter?"
-    a: "Twice in each Saturn round, at ages set by your birth year. For births from 1930 to 2009, the first came anywhere from the first weeks of life to about 20, around 7 in the middle: in the first two years for someone born on 1 January 1945 or 1965, at 14 to 16 for 1 January 1935 or 1975."
+    a: "Twice in each Saturn round, at ages set by your birth year. Half of all births from 1930 to 2009 had met the first by about 7, and none waited past about 20: it came in the first two years for someone born on 1 January 1945 or 1965, at 14 to 16 for 1 January 1935 or 1975."
   - q: "Is Saturn sextile Jupiter lucky?"
     a: "I don’t read Jupiter as luck, and a sextile guarantees nothing. What this transit tends to offer is the means to make a hope workable: time, method, a structure, often someone who has done it before. It rewards the person who enrols, applies or starts; it doesn’t hand out results."
 sources:
@@ -42,9 +42,9 @@ With your Jupiter in the 7th, Saturn makes the sextile from your 5th or your 9th
 
 ## How long it lasts {#how-long-it-lasts}
 
-The window stays open for about nine months as a rule, the length of an academic year, which suits the courses and trainings this sextile favours; that's with my orbs, 1½° before exact to 1° after. When Saturn's yearly loop falls on the point, as it does in a little over half of its [transits](/astrology/transits/), it brings three exact passes over about nine and a half months; with no loop nearby, three weeks can be the whole of it.
+The window stays open for about nine months as a rule, the length of an academic year, which suits the courses and trainings this sextile favours; that's with my orbs, 1½° before exact to 1° after. The exact sextile comes three times over about nine and a half months whenever Saturn's yearly loop falls on the point, as in a little over half of its [transits](/astrology/transits/); with no loop nearby, three weeks can be the whole of it.
 
-When it first comes depends on where Jupiter stood in relation to Saturn at your birth, and so on your birth year. For someone born on 1 January 1945, 1965, 1985 or 2005, a few years after a Jupiter–Saturn conjunction, the first sextile came in the first two years of life; for 1 January 1935, 1955, 1975 or 1995, between about 14 and 16. The full spread, for births from 1930 to 2009, runs from the first weeks of life to about 20, with about 7 in the middle. Two a round then make five or six by 80, for everyone.
+When it first comes depends on where Jupiter stood in relation to Saturn at your birth, and so on your birth year. The first sextile came in the first two years of life for anyone born on 1 January 1945, 1965, 1985 or 2005, a few years after a Jupiter–Saturn conjunction, and between about 14 and 16 for 1 January 1935, 1955, 1975 or 1995. The full spread, for births from 1930 to 2009, runs from the first weeks of life to about 20, with about 7 in the middle. Two a round then make five or six chances by 80 to give a plan its framework.
 
 On the way out from [transiting Saturn conjunct natal Jupiter](/astrology/transiting-saturn-conjunct-natal-jupiter/), the sextile comes about five years after the conjunction and two or three before [transiting Saturn square natal Jupiter](/astrology/transiting-saturn-square-natal-jupiter/); [transiting Saturn trine natal Jupiter](/astrology/transiting-saturn-trine-natal-jupiter/) and [transiting Saturn opposite natal Jupiter](/astrology/transiting-saturn-opposite-natal-jupiter/) follow, and the second sextile comes on the way home.
 

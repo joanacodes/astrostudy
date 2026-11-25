@@ -42,7 +42,7 @@ Uranus moves so slowly that people born a few years apart share its sign; the ho
 
 ## How long it lasts {#how-long-it-lasts}
 
-With my orbs, from 1½° before exact to 1° after, the square tends to press for about nine months, which is why a quick escape rarely settles it. Saturn's yearly loop catches the square in a little over half of its [transits](/astrology/transits/), making three exact passes over about nine and a half months; otherwise the crossing can be done in three weeks.
+Under my orbs, which run from 1½° before exact to 1° after, the square tends to press for about nine months, which is why a quick escape rarely settles it. In a little over half of its [transits](/astrology/transits/) Saturn's yearly loop catches the square, so the exact angle comes three times over about nine and a half months; otherwise the crossing can be done in three weeks.
 
 The first square follows the angle between Saturn and Uranus at your birth. It came at 0.7 for someone born on 1 January 1975, at 3.3 for 1995 and 4.6 for 1945, at 7.5 for 1965, at about 10 for 1985 and 2005, and at 11.5 and 13.5 for 1935 and 1955. For all births from 1930 to 2009 the first square fell between the first weeks of life and about 15½, a median of about 8, and five or six follow by 80.
 

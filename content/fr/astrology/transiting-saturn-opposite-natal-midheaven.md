@@ -45,7 +45,7 @@ En Placidus, le système de maisons que j’utilise, le Fond du Ciel est la cusp
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes de 1,5° avant l’exactitude et 1° après, Saturne met neuf mois environ à franchir votre Fond du Ciel. Un peu plus d’une fois sur deux, la boucle de Saturne passe trois fois sur ce degré, en neuf mois et demi environ, et les passages les plus rapides prennent trois semaines. Deux ou trois de ces passages viennent avant 80 ans, pour tout le monde.
+Saturne passe neuf mois environ sur votre Fond du Ciel, comptés avec mes orbes de 1,5° avant l’exactitude et 1° après. Un peu plus d’une fois sur deux, la traversée se fait trois fois, Saturne revenant sur ses pas, en neuf mois et demi environ ; au plus rapide, elle est finie en trois semaines. Deux ou trois de ces passages viennent avant 80 ans, pour tout le monde.
 
 Le Fond du Ciel est exactement opposé au Milieu du Ciel : il hérite donc de la même précision. Une heure de naissance fausse de huit minutes déplace ce passage d’environ deux mois. Sans l’heure, il n’y a pas de Fond du Ciel à franchir, ni de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

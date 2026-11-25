@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/sun", "/astrology/trine", "/astrology/sun-trine-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit trigone Soleil du thème natal ?"
-    a: "Cela veut dire qu’Uranus est entré dans l’orbe des 120° avec votre Soleil de naissance, une distance qui relie d’ordinaire deux signes d’un même élément. J’y lis une période où l’originalité et l’identité coopèrent : un changement de direction, un projet inhabituel ou une nouvelle façon de vous présenter avance sans grande friction, à condition de le commencer."
+    a: "Cela veut dire qu’Uranus entre dans l’orbe des 120° autour de votre Soleil de naissance, une distance qui relie d’ordinaire deux signes d’un même élément. J’y lis une période où l’originalité et l’identité coopèrent : un changement de direction, un projet inhabituel ou une nouvelle façon de vous présenter avance sans grande friction, à condition de le commencer."
   - q: "Uranus trigone Soleil, est-ce un bon transit ?"
     a: "C’est l’un des transits d’Uranus les plus faciles, parce qu’un trigone relie deux planètes par la fluidité plutôt que par la friction. Facile ne veut pas dire automatique : rien n’arrive tout seul sous un trigone. Il rend moins coûteux le changement que vous choisissez, et beaucoup ne le remarquent qu’après coup, une fois l’occasion passée."
   - q: "Quand arrive le trigone d’Uranus à mon Soleil ?"
@@ -34,7 +34,7 @@ Uranus forme un trigone à votre Soleil deux fois dans son tour de 84 ans, et ce
 
 ## Ce qui change {#ce-qui-change}
 
-[Uranus](/astrology/uranus/) apporte l’originalité, l’expérience et la liberté de réarranger. Votre [Soleil](/astrology/sun/) organise l’identité et la direction : ce que vous devenez, et l’effort que vous y mettez. Un [trigone](/astrology/trine/), 120°, fait couler deux fonctions dans le même sens sans qu’aucune perde sa nature : pendant ces mois, le changement et le sentiment d’être soi cessent de se faire concurrence. Vous pouvez modifier quelque chose de central, votre travail, votre allure, l’histoire que vous racontez sur vous, sans l’impression de trahison qui accompagne d’ordinaire ce genre de changement.
+[Uranus](/astrology/uranus/) apporte l’originalité, l’expérience et la liberté de réarranger. Votre [Soleil](/astrology/sun/) organise l’identité et la direction : ce que vous devenez, et l’effort que vous y mettez. Un [trigone](/astrology/trine/), 120°, met ces deux fonctions sur la même pente sans qu’aucune renonce à son caractère : pendant ces mois, le changement et le sentiment d’être soi cessent de se faire concurrence. Vous pouvez modifier quelque chose de central, votre travail, votre allure, l’histoire que vous racontez sur vous, sans l’impression de trahison qui accompagne d’ordinaire ce genre de changement.
 
 Le sentiment le plus courant est celui d’une permission. Un à-côté devient l’essentiel ; une idée rangée sous « un jour » se révèle possible cette année ; des proches qui vous connaissaient d’une façon vous acceptent d’une autre, avec moins d’histoires que vous ne le craigniez. L’aide est réelle mais discrète. Un trigone n’arrive avec aucun événement, et bien des gens traversent ce transit comme l’année précédente, pour s’apercevoir plus tard combien la route était dégagée.
 

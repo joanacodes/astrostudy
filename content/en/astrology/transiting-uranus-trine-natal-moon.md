@@ -47,7 +47,7 @@ If you were born with [Moon trine Uranus](/astrology/moon-trine-uranus/), this t
 
 ## How long it lasts {#how-long-it-lasts}
 
-The trine stays within my orbs, from 1½° before exact to 1° after, for about twenty months, and only the quickest passes, about eleven months, are much shorter. Uranus usually makes three exact contacts in that time, as it does in more than nine passes out of ten.
+Allow about twenty months for the trine, counting from 1½° before exact to 1° after; a fast pass, about one in ten, can be through in eleven. In more than nine passes out of ten the trine has three exact peaks rather than one, as Uranus loops back over the point.
 
 The two trines sit at the wide points of Uranus's round with your Moon. After [transiting Uranus conjunct natal Moon](/astrology/transiting-uranus-conjunct-natal-moon/), [transiting Uranus sextile natal Moon](/astrology/transiting-uranus-sextile-natal-moon/) and [transiting Uranus square natal Moon](/astrology/transiting-uranus-square-natal-moon/) come first; the first trine follows at about 28 years, [transiting Uranus opposite natal Moon](/astrology/transiting-uranus-opposite-natal-moon/) at about 42, and the second trine at about 56. Two trines by 80 is the usual count for births from 1930 to 2009, one the lowest, which makes this [transit](/astrology/transits/) a fair-weather season most people get twice.
 

@@ -40,7 +40,7 @@ La dernière rencontre d’Uranus et de Neptune dans le ciel date de 1993, vers 
 
 Cela se montre là où vous imaginez et croyez : un autre genre d’art ou de musique, une nouvelle façon de pratiquer une foi ou de prendre soin des autres, une cause qui trouve enfin les outils qui lui manquaient. Des idéaux que vous n’examiniez plus se rafraîchissent, et quelques-uns se posent parce qu’un plus récent vous va mieux.
 
-Chaque fonction a un angle mort que ce transit fait ressortir. Neptune peut confondre résonance et vérité, Uranus nouveauté et innovation : une vision qui arrive vite et ressemble à une révélation mérite un second regard, lent. Neptune n’est ni confusion ni tromperie, et le transit n’apporte ni l’une ni l’autre ; il demande d’éprouver ce qui vous inspire.
+Chaque fonction a un angle mort que ce transit fait ressortir. Neptune peut prendre un fort sentiment de justesse pour la vérité, Uranus la nouveauté pour l’innovation : une vision qui arrive vite et ressemble à une révélation mérite un second regard, lent. Neptune n’est ni confusion ni tromperie, et le transit n’apporte ni l’une ni l’autre ; il demande d’éprouver ce qui vous inspire.
 
 Avec Neptune en maison 3, Uranus y passe ([Uranus en transit en maison 3](/astrology/uranus-transit-3rd-house/)) : de nouvelles façons d’écrire, de parler ou de mettre en images ce que vous pensez. Votre heure de naissance fixe cette maison, et sans elle je ne lirais ni ce transit ni rien d’autre de votre thème ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

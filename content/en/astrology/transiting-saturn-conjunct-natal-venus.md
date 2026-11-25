@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Venus", "conjunction", "transits"]
 weight: 1636
 glyph: "♄☌♀"
-definition: "Transiting Saturn conjunct natal Venus is Saturn in the sky crossing the degree your Venus held at birth, once in each round of about 29½ years. What you love, enjoy and value is asked to show it can last: bonds looked at, pleasures given a shape. I read it as a season of choosing, never a verdict on love."
+definition: "Transiting Saturn conjunct natal Venus opens each 29½-year round between the two planets: Saturn arrives on the degree your Venus held at birth and stays for months. What you love, enjoy and value is asked to show it can last: bonds looked at, pleasures given a shape. I read it as a season of choosing, never a verdict on love."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Venus ♀: what you value, enjoy and love" }

@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Uranus en transit carré Jupiter du thème natal ?"
     a: "Uranus se trouve à 90° de Jupiter dans votre thème natal, la part du thème qui construit le sens et les convictions. J’y lis une friction constructive : un cadre qui vous a fait grandir n’explique plus assez, et une idée neuve réclame sa place. Le carré demande de réviser vos principes, pas de tous les jeter."
   - q: "Combien de temps dure Uranus carré Jupiter ?"
-    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant le carré exact à 1° après, et onze mois environ pour les passages les plus rapides. Dans plus de neuf cas sur dix, Uranus forme trois fois le carré exact, en avançant, en reculant puis en avançant de nouveau : assez longtemps pour réviser un cadre de convictions plutôt que l’abandonner."
+    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant le carré exact à 1° après, et onze mois environ pour les plus rapides. Dans plus de neuf cas sur dix, Uranus forme trois fois le carré exact, en avançant, en reculant puis en avançant de nouveau : assez longtemps pour réviser un cadre de convictions plutôt que l’abandonner."
   - q: "Est-ce qu’Uranus carré Jupiter est un mauvais transit ?"
     a: "Non. Un carré est une friction, et c’est par la friction qu’un ensemble de convictions se met à l’épreuve et se met à jour. La saison peut déstabiliser quand une vision sur laquelle vous comptiez cesse d’aller, mais elle ne juge pas vos choix et ne prédit ni perte, ni échec, ni aucun événement."
   - q: "À quel âge arrive le carré d’Uranus à Jupiter ?"

@@ -43,7 +43,7 @@ La maison de votre Soleil montre ce que vous changeriez, et la maison que traver
 
 ## Combien de temps {#combien-de-temps}
 
-Uranus tient le sextile une vingtaine de mois dans mes orbes, de 1,5° avant l’exactitude à 1° après. Plus de neuf fois sur dix, le sextile prend la forme d’une boucle rétrograde à trois passages exacts, et les passages les plus courts durent encore environ onze mois.
+Pendant une vingtaine de mois, Uranus tient le sextile, de 1,5° avant l’exactitude à 1° après, les orbes que j’utilise. Neuf passages sur dix, et plus, sont des boucles à trois passages exacts, et les plus courts prennent encore onze mois environ.
 
 La plupart des gens le vivent deux fois avant 80 ans, et tout le monde au moins une fois. Les deux sextiles tombent soit à 28 ans d’écart environ, de part et d’autre du passage d’Uranus sur votre Soleil ([Uranus en transit conjonction Soleil du thème natal](/astrology/transiting-uranus-conjunct-natal-sun/)), soit à 56 ans environ, selon la position d’Uranus à votre naissance. Dans le second cas, [Uranus en transit carré Soleil du thème natal](/astrology/transiting-uranus-square-natal-sun/), [Uranus en transit trigone Soleil du thème natal](/astrology/transiting-uranus-trine-natal-sun/) et [Uranus en transit opposition Soleil du thème natal](/astrology/transiting-uranus-opposite-natal-sun/) se placent entre les deux.
 

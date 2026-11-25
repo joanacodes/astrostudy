@@ -36,7 +36,7 @@ Mercury is the part of you that names things, and Neptune is the planet least in
 
 ## What changes {#what-changes}
 
-[Neptune](/astrology/neptune/) imagines and loosens edges; [Mercury](/astrology/mercury/) processes, names and connects: the part of you that learns, compares and explains. A [conjunction](/astrology/conjunction/) fuses them, so this [transit](/astrology/transits/) turns thinking inward and pictorial: you may follow hunches better than arguments, remember the mood of a conversation better than its words, and find poetry, music, symbols or another language easier than spreadsheets.
+[Neptune](/astrology/neptune/) imagines and loosens edges; [Mercury](/astrology/mercury/) processes, names and connects: the part of you that learns, compares and explains. A [conjunction](/astrology/conjunction/) fuses them, so this [transit](/astrology/transits/) turns thinking inward and pictorial: you may follow hunches better than arguments, remember how a conversation felt more clearly than what was said, and find poetry, music, symbols or another language easier than spreadsheets.
 
 Reasoning isn't certainty, and under Neptune it's easy to believe whatever fits the picture. What you sign, promise or pass on is worth a second look in daylight: not because anything will go wrong, but because a mind tuned to images lets details slide. Curiosity isn't distraction either, and this is a good season to study something that can only be learnt by feel. Interpretation is one of Mercury's jobs too, and under this conjunction it leans towards the symbolic: a dream, a coincidence or a song can seem to carry a message. Enjoy the meaning, and keep decisions for the facts.
 

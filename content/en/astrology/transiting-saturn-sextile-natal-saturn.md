@@ -25,7 +25,7 @@ faq:
   - q: "At what ages does Saturn sextile natal Saturn?"
     a: "Everyone born from 1930 to 2009 met the first between the ages of 3½ and 6, at 4.6 in the middle. The adult ones fall at about 24, 34, 54 and 64, five years before or after a Saturn return: by 80, everyone has met five of them."
   - q: "How long does Saturn sextile Saturn last?"
-    a: "Most often some nine months, measured from 1½° before exact to 1° after. A little over half the time Saturn loops back over the exact sextile, making three passes in about nine and a half months; a single fast crossing can be over in three weeks."
+    a: "Most often some nine months, with Saturn allowed 1½° to approach the exact sextile and 1° to leave it. In a little over half of these transits it loops back and makes three exact passes in about nine and a half months; otherwise one fast crossing, three weeks long, can be all there is."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in orb with my orbs, the age at the first sextile and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
@@ -45,7 +45,7 @@ Everyone born in the same few months meets them at almost the same age, so what 
 
 Each sextile stays in orb for about nine months, counting 1½° before exact and 1° after, which is plenty of time to set up one new routine and see it through a season. In a little over half of Saturn's [transits](/astrology/transits/) the opening comes in three exact passes over about nine and a half months; once in a while Saturn crosses it in three weeks and moves on.
 
-The first came between 3½ and 6 for everyone born from 1930 to 2009, at 4.6 in the middle: at 4.3 for someone born on 1 January 1965, at 4.6 for 1 January 1975, at 5.2 for 1 January 1985. That one belongs to childhood, and this site doesn't read children's charts ([children's charts](/astrology/childrens-charts/)); I name it only because the cycle starts there. By 80, everyone has met exactly five sextiles.
+The first came between 3½ and 6 for everyone born from 1930 to 2009, at 4.6 in the middle: someone born on 1 January 1965 met it at 4.3, on 1 January 1975 at 4.6, on 1 January 1985 at 5.2. That one belongs to childhood, and this site doesn't read children's charts ([children's charts](/astrology/childrens-charts/)); I name it only because the cycle starts there. By 80, everyone has met exactly five sextiles.
 
 In the cycle, each waxing sextile comes a couple of years before [transiting Saturn square natal Saturn](/astrology/transiting-saturn-square-natal-saturn/), then [transiting Saturn trine natal Saturn](/astrology/transiting-saturn-trine-natal-saturn/) and [transiting Saturn opposite natal Saturn](/astrology/transiting-saturn-opposite-natal-saturn/) follow ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)). The waning sextile is the last step before the [Saturn return](/astrology/saturn-return/), about five years ahead of it.
 

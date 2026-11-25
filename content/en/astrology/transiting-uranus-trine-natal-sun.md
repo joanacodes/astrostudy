@@ -33,7 +33,7 @@ Uranus trines your Sun twice in its 84-year round, and the two visits are among 
 
 ## What changes {#what-changes}
 
-[Uranus](/astrology/uranus/) brings originality, experiment and the freedom to rearrange. Your [Sun](/astrology/sun/) organises identity and direction: who you're becoming, and the effort you put behind it. A [trine](/astrology/trine/), 120°, relates two functions through flow while each keeps its own nature, so for these months change and selfhood stop competing. You can alter something central, your work, your look, the story you tell about yourself, without the sense of betrayal that usually comes with it.
+[Uranus](/astrology/uranus/) brings originality, experiment and the freedom to rearrange. Your [Sun](/astrology/sun/) organises identity and direction: who you're becoming, and the effort you put behind it. A [trine](/astrology/trine/), 120°, sets the two running the same way without either giving up its character, so for these months change and selfhood stop competing. You can alter something central, your work, your look, the story you tell about yourself, without the sense of betrayal that usually comes with it.
 
 Permission is the usual feeling. A side interest becomes the main thing; an idea you'd filed under “one day” turns out to be possible this year; people who knew you one way accept you another with less fuss than you feared. The help is real but quiet. A trine doesn't come with an event attached, and plenty of people spend this transit as they spent the year before, only to see later how open the road had been.
 

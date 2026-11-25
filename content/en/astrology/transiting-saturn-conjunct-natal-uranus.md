@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Uranus", "conjunction", "transits"]
 weight: 1655
 glyph: "♄☌♅"
-definition: "Transiting Saturn conjunct natal Uranus is Saturn's pass over your birth Uranus, which first comes at an age set by your birth year and then about every 29½ years. Where you need freedom and change, Saturn asks for a structure that can carry them. I read it as reform made durable, never as freedom lost."
+definition: "Transiting Saturn conjunct natal Uranus is Saturn’s pass over your birth Uranus, which first comes at an age set by your birth year and then about every 29½ years. Where you need freedom and change, Saturn asks for a structure that can carry them. I read it as reform made durable, never as freedom lost."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Uranus ♅: where you need room to change" }

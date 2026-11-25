@@ -23,9 +23,9 @@ faq:
   - q: "Que veut dire Uranus en transit opposition Soleil du thème natal ?"
     a: "Dans le ciel, Uranus a atteint le point exactement opposé à votre Soleil de naissance. J’y lis une saison où le changement vous arrive de l’autre côté, souvent par une personne proche qui veut autre chose, et vous demande quelle part de votre direction vous appartient, et quelle part tenait seulement à l’arrangement autour de vous."
   - q: "Uranus en opposition au Soleil, c’est tous les combien ?"
-    a: "Une fois par tour d’Uranus, soit tous les 84 ans environ : une fois au plus dans une longue vie. Environ 1 personne sur 50 née entre 1930 et 2009 ne la rencontre jamais avant 80 ans. Quand elle vient, elle dure une vingtaine de mois avec mes orbes, et le point exact est en général franchi trois fois."
+    a: "Une fois par tour d’Uranus, soit tous les 84 ans environ : une fois au plus dans une longue vie. Parmi les naissances de 1930 à 2009, environ 1 personne sur 50 fête ses 80 ans sans l’avoir connue. Quand elle vient, elle dure une vingtaine de mois avec mes orbes, et le point exact est en général franchi trois fois."
   - q: "Uranus opposition Soleil, est-ce la même chose que l’opposition d’Uranus ?"
-    a: "En général, non. L’opposition d’Uranus, c’est Uranus face à sa propre position de naissance, que tout le monde rencontre vers 39 à 44 ans et demi. Le transit d’Uranus en opposition à votre Soleil vient à un âge fixé par la place de ce Soleil, et les deux ne coïncident que si votre naissance a réuni le Soleil et Uranus."
+    a: "En général, non. L’opposition d’Uranus, c’est Uranus face à sa propre place natale, vers 39 à 44 ans et demi pour tout le monde. Face à votre Soleil, l’âge dépend de l’écart entre le Soleil et Uranus à votre naissance, et seul un thème avec le Soleil conjoint à Uranus réunit les deux."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent l’opposition avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus, un par un" }

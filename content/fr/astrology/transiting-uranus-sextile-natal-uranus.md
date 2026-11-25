@@ -25,7 +25,7 @@ faq:
   - q: "À quel âge arrive le sextile d’Uranus ?"
     a: "Le premier vient vers 13 ans : entre 11 ans et demi et 15 ans environ pour toutes les naissances de 1930 à 2009, dans le décompte du site. Le second vient sur le chemin du retour, entre 67 et 71 ans environ. Le second est donc celui qu’une personne adulte vit au moment où il arrive."
   - q: "Combien de temps dure le sextile d’Uranus ?"
-    a: "Une vingtaine de mois chaque fois, à 13 ans comme à 70, de 1,5° avant le sextile exact à 1° après, et onze environ quand le passage est court. Le plus souvent, Uranus franchit trois fois l’angle exact pendant ce temps, en avançant, en reculant puis en avançant, parce que cette planète passe environ cinq mois par an en rétrograde."
+    a: "Une vingtaine de mois chaque fois, à 13 ans comme à 70, de 1,5° avant le sextile exact à 1° après, et onze environ quand le passage est court. Le plus souvent, Uranus franchit trois fois l’angle exact pendant ce temps, parce que cette planète passe environ cinq mois par an en rétrograde."
   - q: "Que veut dire le sextile d’Uranus à 13 ans ?"
     a: "C’est le premier pas du cycle d’Uranus après la naissance. Je ne lis pas le thème des enfants, donc je ne le lis pas au moment où il se produit. Une personne adulte peut y revenir, dans la lecture de son propre thème, comme le début du cycle qui amène ensuite les carrés, les trigones et l’opposition."
 sources:

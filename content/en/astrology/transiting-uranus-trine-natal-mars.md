@@ -37,7 +37,7 @@ A third of the way round from your Mars, in either direction, Uranus trines it: 
 
 This is the ease [Mars trine Uranus](/astrology/mars-trine-uranus/) gives some people from birth: acting on a new idea without first arguing with yourself. Under the transit you may find yourself training differently, reorganising how you work, or taking on alone something you'd once have done only with permission.
 
-The trine's risk is the usual one. Momentum on offer is easy to let pass, and Mars energy without a direction tends to scatter.
+What a trine asks of Mars is a target. Without one, the extra drive turns into restlessness, a dozen starts and no finish, and the twenty months go by.
 
 Independence is the theme Uranus brings to Mars, and under a trine it rarely costs you allies. Going freelance, running a project your own way or changing how a team works meets friendlier conditions now than under the conjunction or the squares, where the same wish runs into more resistance.
 

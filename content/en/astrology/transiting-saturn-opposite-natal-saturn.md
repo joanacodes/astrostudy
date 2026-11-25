@@ -23,7 +23,7 @@ faq:
   - q: "What does Saturn opposite natal Saturn mean?"
     a: "Saturn stands across the zodiac from the place it held at your birth, halfway between two Saturn returns. The structures you have built since the last return come into full view, often through what other people expect of you. I read it as the hinge of the cycle, a season of asking what your commitments are for."
   - q: "At what age is the Saturn opposition?"
-    a: "Everyone born from 1930 to 2009 had the first between 12.8 and 16.2, half of them by 14.3. The second comes around 44 and the third in the early seventies, so everyone meets exactly three by 80. With my orbs, each usually lasts about nine months, often in three exact passes."
+    a: "The first came in the teens for everyone born from 1930 to 2009, between 12.8 and 16.2, half of them by 14.3. The second comes around 44 and the third in the early seventies, so everyone meets exactly three by 80. Each takes about nine months to pass through my orbs, often in three exact hits."
   - q: "Does everyone have a Saturn opposition around 44?"
     a: "Everyone born in the same few months meets it at nearly the same age, because it depends only on Saturn’s own cycle: around 44 for the second, after a first in the teens. What differs is where it lands: your Saturn’s house, which needs a birth time, its sign and its aspects to the rest of your chart."
 sources:
@@ -45,7 +45,7 @@ With natal Saturn in the 10th, transiting Saturn faces it from your 4th ([Saturn
 
 ## How long it lasts {#how-long-it-lasts}
 
-Each opposition lasts about nine months with my orbs, 1½° before exact and 1° after, so the one in your mid-forties is a season rather than a birthday. A little over half of Saturn's [transits](/astrology/transits/) come as three exact passes over about nine and a half months; a straight crossing can take three weeks.
+Each opposition lasts about nine months with my orbs, 1½° before exact and 1° after, so the one in your mid-forties is a season rather than a birthday. Three exact passes are slightly the likelier pattern: a little over half of Saturn's [transits](/astrology/transits/) have them, spread over about nine and a half months, while a straight crossing can take three weeks.
 
 Among births every fifth day from 1930 to 2009, nobody met the first opposition before 12.8 or after 16.2, and half had met it by 14.3: someone born on 1 January 1965 at 12.9, on 1 January 1975 at 15, on 1 January 1985 at 15.4. The second follows one cycle later, around 44, and the third in the early seventies: exactly three by 80, for everyone.
 

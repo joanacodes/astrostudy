@@ -24,7 +24,7 @@ faq:
   - q: "Is Saturn conjunct Mars dangerous?"
     a: "No. I don’t read transits for accidents, illness or injury, and this one predicts none of them. What it tends to describe is frustration with slowness and a need to pace your effort. If you feel worn out, rest and, where needed, a doctor are the right answers, not a chart."
   - q: "How long does Saturn conjunct Mars last?"
-    a: "Usually around nine months, counted from 1½° before exact to 1° after, and often in three exact passes as Saturn turns back and forward again. The shortest single crossings take about three weeks. Saturn reaches your Mars once in each round of about 29½ years, so two or three times by 80."
+    a: "Usually around nine months, from first contact at 1½° to the last at 1° past exact, often in three exact passes as Saturn turns back and forward again. The shortest single crossings take about three weeks. Saturn reaches your Mars once in each round of about 29½ years, so two or three times by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in orb with my orbs, and how often the conjunction comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
@@ -45,7 +45,7 @@ Saturn crosses Aries until April 2028, so people with Mars in Aries are meeting 
 
 ## How long it lasts {#how-long-it-lasts}
 
-Saturn lingers on your Mars for about nine months as a rule, counting from 1½° before exact to 1° after. A little over half the time it crosses the exact degree three times as it loops back, over some nine and a half months; now and then it passes in a single crossing of three weeks.
+Saturn lingers on your Mars for the best part of nine months, from the moment it comes within 1½° of the exact degree until it is 1° past. A little over half the time it crosses the exact degree three times as it loops back, over some nine and a half months; now and then it passes in a single crossing of three weeks.
 
 One conjunction a round makes two or three by 80: two when Saturn needed most of its first round to reach your Mars, three when it got there early in life. Nobody misses it. What starts here runs on through the round: the effort you organise now meets an opening at [transiting Saturn sextile natal Mars](/astrology/transiting-saturn-sextile-natal-mars/), a test at [transiting Saturn square natal Mars](/astrology/transiting-saturn-square-natal-mars/), an easier stretch at [transiting Saturn trine natal Mars](/astrology/transiting-saturn-trine-natal-mars/) and a reckoning with other people at [transiting Saturn opposite natal Mars](/astrology/transiting-saturn-opposite-natal-mars/), halfway round.
 

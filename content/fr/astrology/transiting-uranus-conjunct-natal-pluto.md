@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Uranus en transit conjonction Pluton du thème natal ?"
     a: "Uranus passe sur le degré qu’occupait Pluton à votre naissance, une fois au plus. J’y lis libération et renouveau profond à l’œuvre ensemble : un schéma dans lequel vous viviez depuis des années apparaît et se desserre. Pluton, ici, c’est la transformation, pas la destruction, et le transit ne prédit aucune fin ; il décrit un changement à la racine."
   - q: "Combien de temps dure Uranus conjonction Pluton ?"
-    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant la conjonction exacte à 1° après, et onze environ pour les passages les plus courts. Plus de neuf fois sur dix, on compte trois contacts exacts : Uranus repasse sur Pluton pendant sa rétrogradation annuelle, puis s’en éloigne pour de bon : un changement à la racine se fait par étapes plutôt que d’un coup."
+    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant la conjonction exacte à 1° après, et onze environ pour les passages les plus courts. Plus de neuf fois sur dix, on compte trois contacts exacts, Uranus repassant sur Pluton avant de s’en éloigner pour de bon : un changement à la racine se fait par étapes."
   - q: "À quel âge Uranus passe sur Pluton ?"
     a: "La rencontre d’Uranus et de Pluton dans le ciel date de 1965-1966 : pour une naissance avant, le transit est venu tôt, vers 20 ans pour une naissance début 1935 ; pour une naissance après, il faut attendre presque toute une vie, environ 79 ans pour début 1975. Les naissances de 1966 à 1972 environ ne le rencontrent pas avant 80 ans."
   - q: "Uranus conjonction Pluton, est-ce l’annonce d’une mort ?"

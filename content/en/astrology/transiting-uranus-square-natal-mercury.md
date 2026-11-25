@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/mercury", "/astrology/square", "/astrology/mercury-square-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus square natal Mercury mean?"
-    a: "Uranus is 90° from your birth Mercury and stays near that angle for about twenty months. I read it as friction between the way you’re used to thinking and explaining things and a push to rethink them: methods you relied on stop working, conversations get sharper, and better ideas come out of the disagreement."
+    a: "The square is 90° between Uranus and your birth Mercury, a gap that holds for about twenty months. I read it as friction between the way you’re used to thinking and explaining things and a push to rethink them: methods you relied on stop working, conversations get sharper, and better ideas come out of the disagreement."
   - q: "Is Uranus square Mercury bad for communication?"
     a: "It can make conversations quicker and blunter, and misunderstandings easier, because your mind runs ahead of your words. That’s friction, not damage. Slowing the reply down, putting important things in writing and listening for the point behind an objection usually turn the square into better ideas."
   - q: "How long does Uranus square Mercury last?"

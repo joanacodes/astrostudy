@@ -48,7 +48,7 @@ Avec Uranus en maison 3 dans votre thème natal, le premier carré y arrive depu
 
 Chaque carré dure une vingtaine de mois dans mes orbes, de 1,5° avant l’exactitude à 1° après, onze environ au plus court, et il est d’ordinaire exact trois fois : à 20 ans, assez longtemps pour essayer un autre chemin pendant plus d’une année.
 
-Les personnes nées à un an ou deux de vous le rencontrent à peu près au même âge : toute une classe d’âge le traverse ensemble. Dans le décompte du site, le premier carré est entré dans l’orbe entre 17 ans et demi et 23 ans environ : à 18,8 ans pour une naissance début 1945, à 21,3 ans pour une naissance début 1985. Son premier contact exact est tombé entre 18,4 et 22,9 ans, et le second carré, aux trois quarts du tour, vient entre 59 et 65 ans environ. Avant 80 ans, tout le monde a connu les deux.
+Les personnes nées à un an ou deux de vous le rencontrent à peu près au même âge. Dans le décompte du site, le premier carré est entré dans l’orbe entre 17 ans et demi et 23 ans environ : à 18,8 ans pour une naissance début 1945, à 21,3 ans pour une naissance début 1985. Son premier contact exact est tombé entre 18,4 et 22,9 ans, et le second carré, aux trois quarts du tour, vient entre 59 et 65 ans environ. Avant 80 ans, tout le monde a connu les deux.
 
 Uranus en Gémeaux, jusqu’en 2033, forme un carré à deux générations à la fois ([Uranus en Gémeaux, 2026-2033](/astrology/uranus-in-gemini-2026-2033/)). Les personnes nées de mars 2003 à mars 2011, la plupart avec Uranus en Poissons, vivent leur premier carré au début de la vingtaine ; celles nées de novembre 1961 à juin 1969, avec Uranus en Vierge, leur second au début de la soixantaine.
 

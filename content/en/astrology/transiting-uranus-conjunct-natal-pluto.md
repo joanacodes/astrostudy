@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Uranus conjunct natal Pluto mean?"
     a: "Uranus passes over the degree your Pluto held at birth, once at most. I read it as liberation and deep renewal working as one: a pattern you’ve lived inside for years comes into view and loosens. Pluto here is transformation, not destruction, and the transit predicts no ending; it describes change at the roots."
   - q: "How long does Uranus conjunct Pluto last?"
-    a: "About twenty months within my orbs, from 1½° before the exact conjunction to 1° after, and about eleven for the shortest passes. More than nine times in ten there are three exact hits, as Uranus loops back over your Pluto during its yearly retrograde and then crosses it for good: change at the roots in stages rather than all at once."
+    a: "About twenty months within my orbs, from 1½° before the exact conjunction to 1° after, and about eleven for the shortest passes. More than nine times in ten there are three exact hits, as Uranus loops back over your Pluto and then crosses it for good: change at the roots in stages rather than all at once."
   - q: "When does Uranus conjunct my Pluto?"
     a: "It depends on your birth year. Uranus and Pluto met in the sky in 1965–66: born before, you met the transit young, at about 20 if born at the start of 1935; born after, you wait most of a lifetime, about 79 years for the start of 1975. Births from 1966 to about 1972 don’t meet it before 80."
   - q: "Does Uranus conjunct Pluto mean death?"

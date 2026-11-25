@@ -39,7 +39,7 @@ Uranus and Neptune last met in the sky in 1993, at about 19° Capricorn. When tr
 
 It shows where you imagine and believe: a different kind of art or music, a new way to practise a faith or to care for others, a cause that finally has the tools it lacked. Ideals you'd stopped examining are refreshed, and a few are set down because a newer one fits better.
 
-Both functions have a blind spot that this transit turns up. Neptune can confuse resonance with truth, and Uranus novelty with innovation, so a vision that arrives fast and feels like revelation deserves a slow second look. Neptune isn't confusion or deception, and the transit brings neither; it asks you to test what inspires you.
+Both functions have a blind spot that this transit turns up. Neptune can mistake a strong sense of rightness for truth, and Uranus novelty for innovation, so a vision that arrives fast and feels like revelation deserves a slow second look. Neptune isn't confusion or deception, and the transit brings neither; it asks you to test what inspires you.
 
 With Neptune in your 3rd, Uranus crosses it there ([Uranus transiting the 3rd house](/astrology/uranus-transit-3rd-house/)): new ways of writing, speaking or picturing what you think. Your birth time sets that house, and without it I wouldn't read this or anything else in your chart ([what changes without a birth time](/blog/unknown-birth-time/)).
 

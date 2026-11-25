@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Venus", "trine", "transits"]
 weight: 1639
 glyph: "♄△♀"
-definition: "Transiting Saturn trine natal Venus is Saturn four signs from your birth Venus, usually in the same element, roughly a decade after the conjunction and a decade before the next. Affection, taste and loyalty find time on their side: a good season to give what you love a lasting form. I read it as a tailwind, never a promise."
+definition: "Transiting Saturn trine natal Venus is Saturn four signs from your birth Venus, usually in the same element, roughly a decade after the conjunction and a decade before the next. Affection, taste and loyalty find time on their side: a good season to give what you love a lasting form. I read it as a tailwind; nothing is promised."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Venus ♀: what you value, enjoy and love" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/venus", "/astrology/trine", "/astrology/venus-trine-saturn", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn trine natal Venus mean?"
-    a: "Saturn in the sky is 120° from your birth Venus, usually in a sign of the same element. What you love and value gets the support of time and structure: commitments feel natural, taste matures, effort spent on a pleasure or a bond tends to hold. I read it as a favourable season for building, with nothing guaranteed."
+    a: "Saturn in the sky is 120° from your birth Venus, usually in a sign of the same element. What you love and value gets the support of time and structure: commitments feel natural, taste matures, effort spent on a pleasure or a bond tends to hold. I read it as good weather for building, with nothing guaranteed."
   - q: "Is Saturn trine Venus good for marriage?"
     a: "I don’t give dates for marrying, and no transit makes that choice for anyone. What this trine tends to support is commitment that feels natural rather than forced: practical arrangements, shared plans, the steadiness that lets affection last. Whether any of that leads to a wedding is for the people involved, not for Saturn."
   - q: "How often does Saturn trine Venus come?"
@@ -45,7 +45,7 @@ With your Venus in the 10th, the trine tends to show in work you love doing, or 
 
 I give Saturn 1½° while it applies to the exact trine and 1° once it separates ([applying and separating aspects](/astrology/applying-and-separating-aspects/)). Within those limits the transit usually lasts about nine months; in a little over half of Saturn's [transits](/astrology/transits/) its retrograde loop brings three exact passes over about nine and a half months, and a straight crossing can be done in three weeks.
 
-The trine comes twice a round, five or six times by 80 for everyone. The first follows [transiting Saturn square natal Venus](/astrology/transiting-saturn-square-natal-venus/) by two or three years, as if the friction had been worth something, and leads on to [transiting Saturn opposite natal Venus](/astrology/transiting-saturn-opposite-natal-venus/) five years later. The second comes on the way back, ten years before [transiting Saturn conjunct natal Venus](/astrology/transiting-saturn-conjunct-natal-venus/) begins a new round; [transiting Saturn sextile natal Venus](/astrology/transiting-saturn-sextile-natal-venus/) offers a smaller version of the same help nearer each conjunction.
+By 80 the count reaches five or six, two in every round. The first follows [transiting Saturn square natal Venus](/astrology/transiting-saturn-square-natal-venus/) by two or three years, as if the friction had been worth something, and leads on to [transiting Saturn opposite natal Venus](/astrology/transiting-saturn-opposite-natal-venus/) five years later. The second comes on the way back, ten years before [transiting Saturn conjunct natal Venus](/astrology/transiting-saturn-conjunct-natal-venus/) begins a new round; [transiting Saturn sextile natal Venus](/astrology/transiting-saturn-sextile-natal-venus/) offers a smaller version of the same help nearer each conjunction.
 
 ## What helps {#what-helps}
 

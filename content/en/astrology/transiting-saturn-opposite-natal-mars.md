@@ -43,9 +43,9 @@ With your Mars in the 10th and Saturn crossing your 4th ([Saturn transiting the 
 
 ## How long it lasts {#how-long-it-lasts}
 
-When Saturn's retrograde loop lands on the point, as it does in a little over half of its [transits](/astrology/transits/), it opposes your Mars three times over about nine and a half months. I read the three passes as one season, not three events. With my orbs, 1½° before exact and 1° after, most of these transits last about nine months, and a quick single crossing can be over in three weeks.
+Saturn opposes your Mars three times over about nine and a half months whenever its retrograde loop lands on the point, as happens in a little over half of its [transits](/astrology/transits/). I read the three passes as one season, not three events. Measured with my orbs, 1½° before exact and 1° after, the whole season usually runs to about nine months; the quickest version, a single crossing, takes three weeks.
 
-The opposition comes once a round, two or three times by 80, and nobody reaches that age without one. It sits halfway between two passes of [transiting Saturn conjunct natal Mars](/astrology/transiting-saturn-conjunct-natal-mars/): [transiting Saturn sextile natal Mars](/astrology/transiting-saturn-sextile-natal-mars/), [transiting Saturn square natal Mars](/astrology/transiting-saturn-square-natal-mars/) and [transiting Saturn trine natal Mars](/astrology/transiting-saturn-trine-natal-mars/) lead up to it, and come again in reverse on the way back.
+Everyone meets this opposition two or three times by 80, once in each round. It sits halfway between two passes of [transiting Saturn conjunct natal Mars](/astrology/transiting-saturn-conjunct-natal-mars/): [transiting Saturn sextile natal Mars](/astrology/transiting-saturn-sextile-natal-mars/), [transiting Saturn square natal Mars](/astrology/transiting-saturn-square-natal-mars/) and [transiting Saturn trine natal Mars](/astrology/transiting-saturn-trine-natal-mars/) lead up to it, and come again in reverse on the way back.
 
 ## What helps {#what-helps}
 
