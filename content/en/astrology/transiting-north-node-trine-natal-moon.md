@@ -25,7 +25,7 @@ faq:
   - q: "When does the North Node trine my Moon?"
     a: "Twice in each round of the nodes, one trine on each side of your Moon, 120° away. The node’s sign tells you when: while it crosses Aquarius (July 2026 to March 2028), Moons in Gemini and Libra have theirs. Your Moon’s exact degree, which needs the birth time, sets the month."
   - q: "Is a North Node trine Moon transit lucky?"
-    a: "I don’t read luck in a chart. A trine describes ease between two functions, and here that means your needs and your growth helping each other for a while. What you do with good conditions is yours; the transit makes nothing happen on its own."
+    a: "I don’t read luck in a chart. A trine is ease between two functions, and here that means your needs and your growth helping each other for a while. What you do with good conditions is yours; the transit makes nothing happen on its own."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the trine within my orbs, how often it comes by 80, and its signs from 2026" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal planets, read one by one" }
@@ -34,7 +34,7 @@ When the node trines your Moon, how you look after yourself and how your chart i
 
 ## What changes {#what-changes}
 
-The [Moon](/astrology/moon/) is your regulation: needs, attachment, the memory of what has felt safe before. The [North Node](/astrology/north-node/) points to a capacity you build by practising it, and a [trine](/astrology/trine/) relates the two through flow, each helping the other without either giving way. Under this [transit](/astrology/transits/), a step towards growth tends to feel like something you already know how to do.
+The [Moon](/astrology/moon/) is your regulation: needs, attachment, the memory of what has felt safe before. The [North Node](/astrology/north-node/) is a capacity you build by practising it, and a [trine](/astrology/trine/) lets the two flow together, each helping the other without either giving way. Under this [transit](/astrology/transits/), a step towards growth tends to feel like something you already know how to do.
 
 That is the gift and the catch. Ease isn't inevitability, and a trine can pass unnoticed precisely because nothing pushes. What it offers is good conditions: a new routine that settles quickly, a place that feels like home sooner than you expected, care that is easy to give and to accept. The [South Node](/astrology/south-node/), sextile your Moon, lends its old skills of comfort without pulling you back to them.
 

@@ -18,7 +18,7 @@ facts:
   - { k: "Un passage", v: "Un mois environ ; 3 mois et demi ou plus une fois sur 10" }
   - { k: "Avec une boucle", v: "Trois contacts exacts en 3 mois et demi environ, une fois sur 25 environ" }
   - { k: "Avant 80 ans", v: "4 ou 5 fois ; personne n’y échappe" }
-  - { k: "Dans ma prévision", v: "Compté : le Nœud Sud est sur votre Mars" }
+  - { k: "Dans ma prévision", v: "Compté : le Nœud Sud est sur votre Mars" }
 related: ["/astrology/south-node", "/astrology/mars", "/astrology/opposition", "/astrology/mars-opposite-north-node", "/astrology/mars-in-2nd-house"]
 faq:
   - q: "Que veut dire le Nœud Nord en transit opposition Mars natal ?"

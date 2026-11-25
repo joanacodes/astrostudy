@@ -38,7 +38,7 @@ A sextile from the node to Mars is an opening you have to walk through yourself.
 
 The openings are practical: a training you could start, a role that asks for some initiative, a skill learned by doing rather than reading, a moment to speak up that would usually pass. With the [South Node](/astrology/south-node/) trine your Mars, your established ways of getting things done are on hand, so the new effort can lean on the old competence.
 
-With your [Mars in the 3rd house](/astrology/mars-in-3rd-house/), the house of everyday words, short journeys, brothers and sisters, the opening may be as simple as saying what you think, sooner, or learning something hands-on close to home. That house, like all of them, is drawn from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+With your [Mars in the 3rd house](/astrology/mars-in-3rd-house/), the house of daily speech, short trips, brothers and sisters, the opening may be as simple as saying what you think, sooner, or learning something hands-on close to home. That house, like all of them, is drawn from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 A transit to Mars also reaches the houses Mars rules: the one with Aries on its cusp, and the one with Scorpio, whose two rulers I read together, Mars from the tradition and Pluto from modern tropical astrology. So this sextile can open a door in either of those houses as well.
 

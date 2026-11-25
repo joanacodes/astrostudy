@@ -1,7 +1,7 @@
 ---
 title: "Transiting North Node trine natal Mars"
 h1: "Transiting North Node trine your natal Mars"
-description: "Transiting North Node trine natal Mars: a month of momentum for effort aimed at growth, twice a round. How long it lasts, and how to use it."
+description: "Transiting North Node trine natal Mars: a month of momentum for effort aimed at growth, twice a round. How long it lasts, and using it well."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

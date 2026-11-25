@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Venus", "square", "transits"]
 weight: 1934
 glyph: "☊□♀"
-definition: "Transiting North Node square natal Venus runs the nodal axis past your birth Venus at 90°, for about a month, twice in every 18.6-year round. A pleasure, a relationship or a comfort sits between your old ground and your next step. I read it as friction that asks for room, never as a parting."
+definition: "Transiting North Node square natal Venus runs the nodal axis past your birth Venus at 90°, for about a month, twice in every 18.6-year round. A pleasure, a relationship or a comfort sits between your old ground and your next step. I read it as a call for room, never as a parting."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node square your Venus from the other side" }
   - { k: "Natal point", v: "Venus ♀: what you value and enjoy, and how you meet others halfway" }
@@ -39,7 +39,7 @@ When the nodes square your Venus, neither end of the axis touches it; the axis r
 
 That can show as a relationship that suits the old you better than the new one, a comfort that keeps you from a step, or a step that seems to ask you to give up something you love. Harmony isn't the same as avoiding conflict, and the square doesn't ask you to choose between your affections and your growth; it asks what each would need to make room for the other. The answer is often smaller than the worry: a conversation, a change of rhythm, a pleasure moved rather than cancelled. None of this forecasts a parting, and no transit could. My forecast doesn't even list the square: of the node's contacts with your Venus it keeps only the conjunction and the opposition.
 
-With your [Venus in the 4th house](/astrology/venus-in-4th-house/), the friction tends to sit at home: the warmth of family habits, the place you've made comfortable, the people you'd rather not disappoint. If you're tempted to look up someone else's chart to see what the square means for them, ask them first ([synastry and consent](/blog/synastry-behind-their-back/)). And your 4th, like the rest of your houses, exists only once the birth time is known ([what changes without a birth time](/blog/unknown-birth-time/)).
+With your [Venus in the 4th house](/astrology/venus-in-4th-house/), the friction tends to sit at home: the warmth of family habits, the place you've made comfortable, the people you'd rather not disappoint. If you're tempted to look up someone else's chart to see what the square means for them, ask their permission before you do ([synastry and consent](/blog/synastry-behind-their-back/)). And your 4th, like the rest of your houses, exists only once the birth time is known ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

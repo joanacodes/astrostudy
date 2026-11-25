@@ -24,7 +24,7 @@ faq:
   - q: "What does transiting North Node square natal Jupiter mean?"
     a: "For about a month your birth Jupiter sits halfway between the two nodes, on neither path, so what you believe and what you’re practising stop agreeing for a while. A conviction is asked to prove itself in practice. I read it as beliefs being adjusted to life, never as a reversal of fortune."
   - q: "At what age does the North Node first square Jupiter?"
-    a: "Before about 9½ for everyone born from 1930 to 2009, at about 4½ in the middle; at about 1 for a birth at the start of 1945, and at about 9 for the start of 1975. After that it comes every nine years or so, eight or nine times by 80."
+    a: "Before about 9½ for everyone born from 1930 to 2009, at about 4½ in the middle; at about 1 if you were born at the start of 1945, at about 9 if at the start of 1975. After that it comes every nine years or so, eight or nine times by 80."
   - q: "Is North Node square Jupiter bad luck?"
     a: "No. Jupiter isn’t luck, and a square isn’t misfortune. This transit describes friction between belief and practice, which tends to leave you with convictions that fit your life better. Money, success and failure aren’t things I read from a transit."
 sources:

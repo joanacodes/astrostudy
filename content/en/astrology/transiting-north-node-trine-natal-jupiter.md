@@ -44,7 +44,7 @@ With [Jupiter in the 12th house](/astrology/jupiter-in-12th-house/), the house o
 
 ## How long it lasts {#how-long-it-lasts}
 
-Counted from 1½° before exact to 1° after, the trine lasts about a month. Most of the variation is the Sun's doing. When it lines up with the nodes, in an eclipse season, the true node idles and a tenth of these trines last three and a half months or more; when it stands 90° away, the node hurries and a tenth are over in three and a half weeks. About one in twenty-five touches exact three times.
+Counted from 1½° before exact to 1° after, this trine holds for about a month. Most of the variation is the Sun's doing. When it lines up with the nodes, in an eclipse season, the true node idles and a tenth of these trines last three and a half months or more; when it stands 90° away, the node hurries and a tenth are over in three and a half weeks. About one in twenty-five touches exact three times.
 
 Your birth year sets the first of them. Born between 1930 and 2009, you had your first trine somewhere between your first weeks and about 12½, around 4½ in the middle case: within weeks if your birth came at the start of 1985, at about 10 if it came at the start of 1935. So the first trine belongs to a part of life I don't read ([children's charts](/astrology/childrens-charts/)), and the adult ones follow twice a round, eight or nine of them by 80.
 

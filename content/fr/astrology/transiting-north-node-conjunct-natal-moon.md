@@ -18,11 +18,11 @@ facts:
   - { k: "Un passage", v: "Un mois environ (34 jours au milieu) ; 3 mois et demi ou plus une fois sur 10" }
   - { k: "Avec une boucle", v: "Trois contacts exacts en 3 mois et demi environ, une fois sur 25 environ" }
   - { k: "Avant 80 ans", v: "4 ou 5 fois ; personne n’y échappe" }
-  - { k: "Dans ma prévision", v: "Compté : le Nœud Nord est sur votre Lune" }
+  - { k: "Dans ma prévision", v: "Compté : le Nœud Nord est sur votre Lune" }
 related: ["/astrology/north-node", "/astrology/moon", "/astrology/moon-conjunct-north-node", "/astrology/eclipses-on-your-natal-planets", "/astrology/transits"]
 faq:
   - q: "Que veut dire le Nœud Nord en transit conjonction Lune natale ?"
-    a: "L’endroit où l’orbite de la Lune coupe la route du Soleil, en montant vers le nord, a atteint le degré de votre Lune de naissance. Pendant un mois environ, votre besoin de sécurité et la direction moins pratiquée de votre thème vont dans le même sens. J’y lis une saison pour apprendre à prendre soin de vous autrement, pas un événement."
+    a: "Le point où la Lune franchit l’écliptique vers le nord a atteint le degré de votre Lune de naissance. Pendant un mois environ, votre besoin de sécurité et la direction moins pratiquée de votre thème vont dans le même sens. J’y lis une saison pour apprendre à prendre soin de vous autrement, pas un événement."
   - q: "Combien de temps dure le Nœud Nord conjonction Lune ?"
     a: "Un mois environ dans le cas du milieu, de 1,5° avant l’exactitude à 1° après. Une fois sur dix, c’est fini en trois semaines et demie ; une fois sur dix, cela dure trois mois et demi ou plus, en général quand une saison d’éclipses arrive pendant que le nœud est sur votre Lune."
   - q: "Le Nœud Nord sur la Lune, est-ce un transit karmique ?"
@@ -34,7 +34,7 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "comment se lit un transit sur la Lune du thème natal" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "le nœud vrai, dont l’allure suit l’angle du Soleil avec lui" }
 ---
-De tout ce que le Nœud Nord peut croiser dans un thème, la Lune est ce dont il vient : le nœud marque l’endroit où l’orbite de la Lune croise la route du Soleil, en montant vers le nord. Quand ce point de croisement recule jusqu’au degré de votre Lune de naissance, la route actuelle de la Lune rencontre celle du Soleil sur ce degré précis, et pendant un mois environ vos besoins se tiennent sur la ligne de croissance.
+De tout ce que le Nœud Nord peut croiser dans un thème, la Lune est ce dont il vient : le nœud marque le point où la Lune, montant vers le nord, traverse la route du Soleil. Quand ce point de croisement recule jusqu’au degré de votre Lune de naissance, la route actuelle de la Lune rencontre celle du Soleil sur ce degré précis, et pendant un mois environ vos besoins se tiennent sur la ligne de croissance.
 
 ## Ce qui change {#ce-qui-change}
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Mercury", "square", "transits"]
 weight: 1929
 glyph: "☊□☿"
-definition: "Transiting North Node square natal Mercury puts your birth Mercury at right angles to the nodal axis for a month or so, every nine years and four months. Old explanations and new aims both claim your attention, and the friction tends to sharpen a decision. I read it as a mind adjusting, never as bad news on the way."
+definition: "Transiting North Node square natal Mercury sets the nodal axis square to your birth Mercury for a month or so, every nine years and four months. Old explanations and new aims both claim your attention, and the friction tends to sharpen a decision. I read it as a mind adjusting, never as bad news on the way."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node square your Mercury too" }
   - { k: "Natal point", v: "Mercury ☿: how you reason, interpret and explain" }
@@ -34,11 +34,11 @@ With the node square your Mercury, the line between where you come from and wher
 
 ## What changes {#what-changes}
 
-[Mercury](/astrology/mercury/) reasons, interprets and exchanges: it is how information becomes meaning and meaning becomes words. The [North Node](/astrology/north-node/) is a capacity built by practice and the [South Node](/astrology/south-node/) one already built, while a [square](/astrology/square/) relates functions through friction that calls for adjustment and problem-solving. Under this [transit](/astrology/transits/), the way you reason gets in the way of a step, or the step gets in the way of how you reason, and something has to give a little.
+[Mercury](/astrology/mercury/) reasons, interprets and exchanges: it is how information becomes meaning and meaning becomes words. The [North Node](/astrology/north-node/) stands for a capacity you build by practice and the [South Node](/astrology/south-node/) for one already built, while a [square](/astrology/square/) relates functions through friction that calls for adjustment and problem-solving. Under this [transit](/astrology/transits/), the way you reason gets in the way of a step, or the step gets in the way of how you reason, and something has to give a little.
 
 In practice it often feels like an argument with yourself. The old explanation no longer quite convinces, the new one hasn't earned your trust yet, and you keep rehearsing both. A plan may need rethinking, a skill relearning, a story you tell about yourself retelling. That friction is useful: it's how a square turns information into a decision, and it rarely has to be settled in one sitting.
 
-With your [Mercury in the 10th house](/astrology/mercury-in-10th-house/), the friction tends to show at work: in what you say in public, how you present an idea, the reputation your words have built. None of it forecasts how a contract, an exam or a dispute will turn out, which no chart can tell ([can astrology predict a court case?](/astrology/can-astrology-predict-a-court-case/)). The 10th, like every house, is drawn from your birth time; without it, I wouldn't know where in your life this square falls ([what changes without a birth time](/blog/unknown-birth-time/)).
+With your [Mercury in the 10th house](/astrology/mercury-in-10th-house/), the friction tends to show at work: in what you say in public, how you present an idea, the reputation your words have built. None of it forecasts how a contract, an exam or a dispute will turn out, which no chart can tell ([can astrology predict a court case?](/astrology/can-astrology-predict-a-court-case/)). Your 10th, like every other house, comes from the birth time; without it, I wouldn't know where in your life this square falls ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

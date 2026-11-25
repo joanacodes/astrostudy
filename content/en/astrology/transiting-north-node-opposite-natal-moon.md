@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Moon", "opposition", "transits"]
 weight: 1926
 glyph: "☊☍☽"
-definition: "Transiting North Node opposite natal Moon is the South Node in the sky crossing your birth Moon, with the North Node facing it, for a month or so every 18.6 years. Your familiar ways of comfort come into view, and the less practised direction faces them. I read it as sorting habit from need."
+definition: "Transiting North Node opposite natal Moon is the South Node in the sky crossing your birth Moon, with the North Node facing it, for a month or so in each 18.6-year round. Your familiar ways of comfort come into view, and the less practised direction faces them. I read it as sorting habit from need."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node on your Moon" }
   - { k: "Natal point", v: "The Moon ☽: your needs and your habits of comfort" }
@@ -35,13 +35,13 @@ The opposition is the South Node's conjunction: the transiting South Node crosse
 
 ## What changes {#what-changes}
 
-The [Moon](/astrology/moon/) describes your needs and the habits that keep you settled. The [South Node](/astrology/south-node/) is the pole of consolidation: capacity built long ago, ready to hand, sometimes leaned on harder than it should be. The [North Node](/astrology/north-node/), opposite, is the pole of practice. An [opposition](/astrology/opposition/) holds two ends in view at once: under this [transit](/astrology/transits/) your Moon sits at the familiar one, and the new one faces it.
+The [Moon](/astrology/moon/) describes your needs and the routines that steady you. The [South Node](/astrology/south-node/) is the pole of consolidation: capacity built long ago, ready to hand, sometimes leaned on harder than it should be. The [North Node](/astrology/north-node/), opposite, is the pole of practice. An [opposition](/astrology/opposition/) holds two ends in view at once: under this [transit](/astrology/transits/) your Moon sits at the familiar one, and the new one faces it.
 
 What tends to show is the autopilot of comfort: the food, the phrase, the person or the retreat you reach for before you've asked yourself what you need. Nothing here is a fault, and the South Node isn't asking for any of it to go; it asks you to notice which of those habits still work and which only repeat. The North Node, across the chart, often arrives through other people, as someone else's way of looking after themselves that you could borrow.
 
 The Moon marks it in the sky. Each time it returns to your Moon's degree during these weeks, it is crossing the Sun's path heading south. And since an eclipse of the Moon needs a full moon near a node, a lunar eclipse in this stretch could darken the Moon on or close to your own.
 
-With your [Moon in the 1st house](/astrology/moon-in-1st-house/), the South Node crosses your 1st and the North Node your 7th ([North Node transiting the 7th house](/astrology/north-node-transit-7th-house/)): the habit of looking after yourself alone, without bothering anyone, meets an invitation to let someone in on what you need. Your Ascendant and your Moon's house come from your birth time, and without it I can't tell which houses the axis is crossing ([what changes without a birth time](/blog/unknown-birth-time/)).
+With your [Moon in the 1st house](/astrology/moon-in-1st-house/), the South Node crosses your 1st and the North Node your 7th ([North Node transiting the 7th house](/astrology/north-node-transit-7th-house/)): the habit of looking after yourself alone, without bothering anyone, meets an invitation to let someone in on what you need. Your Ascendant and your Moon's house come from your birth time; with no time, the houses the axis crosses stay unknown ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

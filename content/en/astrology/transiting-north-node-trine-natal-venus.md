@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Venus", "trine", "transits"]
 weight: 1935
 glyph: "☊△♀"
-definition: "Transiting North Node trine natal Venus lets what you enjoy and what you are learning point the same way for about a month at a time, twice each 18.6-year round, as the node stands 120° from your birth Venus. Meanwhile the South Node sextiles it. I read it as growth that can feel like pleasure, still asking to be used."
+definition: "Transiting North Node trine natal Venus lets what you enjoy and what you are learning point the same way for a month, twice each 18.6-year round, as the node stands 120° from your birth Venus. Meanwhile the South Node sextiles it. I read it as growth that can feel like pleasure, still asking to be used."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node sextile your Venus" }
   - { k: "Natal point", v: "Venus ♀: how you value, enjoy and relate" }
@@ -39,7 +39,7 @@ A trine from the node to Venus is the rare transit in which growing and enjoying
 
 It's the kind of month in which a hobby becomes a craft, a friendship deepens without effort, or a new way of spending time simply sticks because it's enjoyable. The risk is only the trine's usual one: that ease passes for luck and goes unused. The [South Node](/astrology/south-node/), sextile your Venus in the same weeks, adds an old talent to the new pleasure.
 
-With your [Venus in the 5th house](/astrology/venus-in-5th-house/), the house of Venus's joy in tradition, the trine is likely to show in play, romance and the things you make for the pleasure of making them. Tradition also gave the 5th to children; for an adult I read it as joy and creativity, and no transit forecasts a pregnancy ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)). The 5th, like every house, can only be drawn from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+With your [Venus in the 5th house](/astrology/venus-in-5th-house/), the house of Venus's joy in tradition, the trine is likely to show in play, romance and what you make purely for the pleasure of making it. Tradition also gave the 5th to children; for an adult I read it as joy and creativity, and no transit forecasts a pregnancy ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)). The 5th, like every house, can only be drawn from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
