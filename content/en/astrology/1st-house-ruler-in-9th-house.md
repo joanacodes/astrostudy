@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/9th-house", "/astrology/1st-house", "/astrology/planetary-joys", "/astrology/house-rulers"]
 faq:
   - q: "What does it mean if your chart ruler is in the 9th house?"
-    a: "Your life keeps reaching past where it started, in miles or in thought. With your chart ruler among travel, study and belief, you tend to know yourself by what you’re looking for, and people meet you through your convictions and your questions."
+    a: "Distance, in miles or in ideas, keeps calling you on. With your chart ruler among travel, study and belief, your questions say more about you than your answers, and the life you build tends to carry you a long way from your first address."
   - q: "Does the ruler of the 1st in the 9th house mean I’ll live abroad?"
     a: "It can’t say where you’ll live. It describes a self that grows by going further, and for some people that does mean other countries; for others it’s study, faith, teaching or a long conversation with ideas. The direction is outward; the form is yours."
   - q: "Is the Sun as chart ruler in the 9th house in its joy?"

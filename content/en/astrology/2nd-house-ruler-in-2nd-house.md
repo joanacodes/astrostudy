@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/2nd-house", "/astrology/house-rulers", "/astrology/domicile", "/astrology/2nd-house-ruler-in-1st-house", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "What does it mean when the ruler of the 2nd house is in the 2nd house?"
-    a: "The planet that governs your money and self-worth stays in its own house. You tend to keep your resources in your own hands, build them up slowly and hold values that change little. It reads as self-sufficiency about security, never as a promise of wealth."
+    a: "The planet that governs your money and self-worth stays in its own house. You tend to keep your resources in your own hands, build them up slowly and hold values that change little. That isn’t a promise of wealth; it’s a habit of relying on yourself."
   - q: "Is the 2nd house ruler in its own house strong?"
     a: "It works on familiar ground, and if it also stands in its own sign, it’s at ease twice over. That gives steady habits and clear values. Strength isn’t fortune, though: it describes how you handle what you have, not how much there will be."
   - q: "Can a 2nd house ruler in the 2nd house make you too attached to money?"

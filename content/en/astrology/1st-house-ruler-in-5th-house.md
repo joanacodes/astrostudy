@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/5th-house", "/astrology/1st-house", "/astrology/planetary-joys", "/astrology/can-astrology-predict-pregnancy"]
 faq:
   - q: "What does it mean if your chart ruler is in the 5th house?"
-    a: "You come alive through what you love doing. Your chart ruler lives among creativity, play and romance, and people see you most clearly when you’re absorbed in something. Joy works less as a break from your direction than as part of it."
+    a: "Pleasure is where you show up most fully. Your chart ruler lives among creativity, play and romance, and people see you most clearly when you’re absorbed in something. Joy works less as a break from your direction than as part of it."
   - q: "Does the ruler of the 1st in the 5th house mean I will have children?"
     a: "No chart can say that. Tradition gave the 5th children, but I read it in an adult’s life as your own creativity, pleasure and love. Whether children come into your life is your story to live, not something a placement decides."
   - q: "Is a chart ruler in the 5th house good for love?"
@@ -34,7 +34,7 @@ The self you lead with comes fully alive when it's enjoying itself. Your chart r
 
 The ruler of the [1st house](/astrology/1st-house/), your [chart ruler](/astrology/chart-ruler/), has carried the story of the self into the [5th house](/astrology/5th-house/) ([house rulers](/astrology/house-rulers/)), which covers what you do for joy: making things for the pleasure of it, the games and hobbies you lose hours in, flirting and falling in love, the risks you take for fun, and the way you show yourself when no one's keeping score.
 
-You find out who you are by doing what you love, and a life with no room for it can leave you feeling half there. Pleasure isn't a distraction from your direction; with your ruler here it often is the direction, or at least the compass. People see you most clearly when you're absorbed in something: performing, building, painting, courting, coaching a team, cooking for twelve. One question keeps it honest: who is the play for? Making things you'd make even if nobody were watching keeps the joy your own.
+Without room for what you love, life can leave you feeling half there. Pleasure isn't a distraction from your direction; with your ruler here it often is the direction, or at least the compass. People see you most clearly when you're absorbed in something: performing, building, painting, courting, coaching a team, cooking for twelve. One question keeps it honest: who is the play for? Making things you'd make even if nobody were watching keeps the joy your own.
 
 Good Fortune was the 5th's old name, and Venus, the planet of pleasure, was said to rejoice there ([planetary joys](/astrology/planetary-joys/)); with Taurus or Libra rising, a Venus in the 5th rules your chart from the house where it was happiest. Counted by sign, the 5th sign from your Ascendant is a trine away, in the same element as your rising sign, and astrologers who group the houses the way the signs are grouped put the 1st, 5th and 9th together as the fire houses. Self and pleasure, in this chart, speak the same language.
 

@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/2nd-house", "/astrology/6th-house", "/astrology/house-rulers", "/astrology/planetary-joys", "/astrology/can-astrology-predict-health-problems"]
 faq:
   - q: "Que veut dire le maître de la maison 2 en maison 6 ?"
-    a: "Votre argent et votre sentiment de valeur viennent du travail de tous les jours. Vous gagnez volontiers de façon régulière, par vos compétences, vos routines et le travail bien fait, et vous estimez la compétence. Le soin qu’il demande : fixer un juste prix à votre travail et vous accorder du repos."
+    a: "Votre argent et votre sentiment de valeur viennent du travail de tous les jours : des routines tenues, des compétences mises en œuvre, du travail bien fait. La compétence compte plus pour vous que l’apparence. Le soin qu’il demande : fixer un juste prix à votre travail et vous accorder du repos."
   - q: "Le maître de la maison 2 en maison 6 veut-il dire un emploi salarié ?"
     a: "Il va souvent avec un revenu tiré d’un travail régulier ou d’un savoir-faire exercé, et avec le goût d’un revenu stable. Il ne choisit pas entre emploi et travail à votre compte, et ne dit pas ce que vous gagnerez. Il décrit d’où viennent vos ressources : le travail de vos mains et de vos journées."
   - q: "Est-ce que le maître de la maison 2 en maison 6 parle de frais de santé ?"
-    a: "Non. La tradition donnait la maladie à la maison 6, mais aucun thème ne peut prédire votre santé ni ce qu’elle coûtera, et je n’en lis jamais un pour cela. Ce placement décrit votre façon de travailler et de prendre soin du corps qui fait ce travail."
+    a: "Non. La tradition donnait la maladie à la maison 6, mais aucun thème ne peut prédire votre santé ni ce qu’elle coûtera, et je n’en lis jamais un pour cela. Ce placement parle de vos habitudes de travail, y compris du repos et du soin dont votre corps a besoin pour tenir."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et les noms que leur donnait la tradition" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "la maison 2, les finances ; la maison 6, les employés, les prestataires et le lieu de travail" }

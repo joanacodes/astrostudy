@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/2nd-house", "/astrology/8th-house", "/astrology/house-rulers", "/astrology/derived-houses", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "What does the ruler of the 2nd house in the 8th house mean?"
-    a: "Your money and your sense of worth get bound up with other people’s: joint accounts, loans, shared plans and the trust they need. You value depth, and you learn what you’re worth through what you share and what you keep. Clear terms keep it easy."
+    a: "Shared money is the theme: joint accounts, loans, plans made with someone else and the trust they need. You value depth, and you learn what you’re worth through what you share and what you keep. Clear terms keep it easy."
   - q: "Does the ruler of the 2nd in the 8th house mean an inheritance?"
     a: "No chart can say that. Tradition gave the 8th legacies, so the theme is there, but this placement describes how you handle shared resources and trust, not what anyone will leave you. Inheritances belong to other people’s lives and choices."
   - q: "Is the 2nd house ruler in the 8th house bad for money?"

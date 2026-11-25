@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/2nd-house", "/astrology/7th-house", "/astrology/house-rulers", "/astrology/descendant", "/astrology/aversion"]
 faq:
   - q: "Que veut dire le maître de la maison 2 en maison 7 ?"
-    a: "Votre argent et votre sentiment de valeur passent par d’autres : partenaires, clients, collaborations et accords conclus avec eux. Vous pouvez gagner par des contrats ou des associations, et vous apprenez ce qui compte pour vous en partie en le voyant chez quelqu’un d’autre."
+    a: "Vos revenus dépendent volontiers de la signature de quelqu’un d’autre : un partenaire, un client, un associé. Vous pouvez gagner par des contrats ou des associations, et vous apprenez ce qui compte pour vous en partie en le voyant chez les autres."
   - q: "Le maître de la maison 2 en maison 7 veut-il dire un mariage d’argent ?"
     a: "Non. Il décrit la rencontre de l’argent et de la relation dans votre vie, pas qui vous épouserez ni ce que cette personne possédera. Avec ce maître, des termes justes, des projets partagés et des accords clairs comptent pour votre sécurité, en amour comme en affaires."
   - q: "Le maître de la maison 2 en maison 7, est-ce bon pour s’associer ?"
@@ -45,4 +45,4 @@ Votre argent avait son maître bas à l’ouest à votre naissance, sur le point
 
 Une maison 2 en Verseau répond à Saturne et à Uranus, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)) : Saturne en maison 7 veut des termes convenus et tenus, tandis qu’Uranus, où qu’il tombe, garde une part de votre argent indépendante de quiconque.
 
-Rien de cela ne prédit un mariage, un procès ni un paiement. Cela décrit le chemin que suivent vos ressources : par les autres, et par les accords que vous concluez avec eux.
+Un mariage, un procès, un paiement attendu : rien de cela ne se lit dans ce placement. Cela décrit le chemin que suivent vos ressources : par les autres, et par les accords que vous concluez avec eux.

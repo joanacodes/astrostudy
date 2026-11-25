@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/2nd-house", "/astrology/8th-house", "/astrology/house-rulers", "/astrology/derived-houses", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "Que veut dire le maître de la maison 2 en maison 8 ?"
-    a: "Votre argent et votre sentiment de valeur se mêlent à ceux des autres : comptes joints, emprunts, projets communs et la confiance qu’ils demandent. Vous estimez la profondeur, et vous apprenez ce que vous valez par ce que vous partagez et ce que vous gardez. Des termes clairs rendent tout cela plus simple."
+    a: "L’argent partagé est au cœur du placement : comptes joints, emprunts, projets menés avec quelqu’un et la confiance qu’ils demandent. Vous estimez la profondeur, et vous apprenez ce que vous valez par ce que vous partagez et ce que vous gardez. Des termes clairs rendent tout cela plus simple."
   - q: "Est-ce que le maître de la maison 2 en maison 8 annonce un héritage ?"
     a: "Aucun thème ne peut le dire. La tradition donnait les legs à la maison 8, le thème est donc là, mais ce placement décrit votre façon de gérer les ressources partagées et la confiance, pas ce que quiconque vous laissera. Les héritages appartiennent à la vie et aux choix des autres."
   - q: "Le maître de la maison 2 en maison 8, est-ce mauvais pour l’argent ?"
-    a: "Non. Vos ressources ont tendance à se partager, à s’emprunter ou à se mettre en commun plutôt qu’à rester à part, ce qui apporte à la fois du soutien et des enchevêtrements. Il ne prédit ni dette ni perte. Ce qu’il demande, c’est de la clarté sur ce qui appartient à qui."
+    a: "Non. Vos ressources ont tendance à se partager, à s’emprunter ou à se mettre en commun plutôt qu’à rester à part, ce qui apporte à la fois du soutien et des enchevêtrements. Il n’annonce ni dette ni perte. Ce qu’il demande, c’est de la clarté sur ce qui appartient à qui."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que leur donnait la tradition" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "la maison 2, les finances ; la maison 8, l’argent d’autrui, en tournant le thème" }

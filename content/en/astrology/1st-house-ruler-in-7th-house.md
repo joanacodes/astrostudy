@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/7th-house", "/astrology/1st-house", "/astrology/descendant", "/astrology/detriment"]
 faq:
   - q: "What does it mean when your chart ruler is in the 7th house?"
-    a: "Your chart ruler faces your Ascendant from the house of partners. You tend to find out who you are in relationship, in love, work or friendship, and the people you choose often carry qualities you’re still growing into."
+    a: "Your chart ruler faces your Ascendant from the house of partners. Relationships, in love, work or friendship, are where you see yourself most clearly, and you may be drawn to people who already have what you’re still learning."
   - q: "Does a chart ruler in the 7th house mean early marriage?"
     a: "No placement says whether or when you’ll marry. The 7th describes how you meet people as equals, and with your chart ruler there, partnership is one of the main places you learn about yourself, whatever form your relationships take."
   - q: "Is the ruler of the 1st in the 7th house in detriment?"
@@ -34,7 +34,7 @@ Directly across the chart from your Ascendant, in the 7th house, stands the plan
 
 The [1st house](/astrology/1st-house/) speaks for you and the [7th house](/astrology/7th-house/) for the person facing you: a partner, a close collaborator, the one across the table, anyone you meet as an equal, the open rival included. Your [chart ruler](/astrology/chart-ruler/), the ruler of the 1st, takes your story to the house where it sits ([house rulers](/astrology/house-rulers/)), and here it crosses the whole chart to settle on the other side.
 
-You come into focus in company. You tend to learn who you are through partnership: what you want becomes clear when you see it, or miss it, in someone else, and the people you choose often carry qualities you're still growing into. Collaboration suits you, and so does a good argument with someone who's your match. What it needs is balance between the two ends of the chart. A life steered from the far side can drift towards other people's plans, and part of the work is keeping a self you'd recognise on your own. Partnership isn't dependence, and a mirror only helps while you're the one looking into it.
+You come into focus in company. Partnership is your mirror: what you want becomes clear when you see it, or miss it, in someone else, and the people you choose often carry qualities you're still growing into. Collaboration suits you, and so does a good argument with someone who's your match. What it needs is balance between the two ends of the chart. A life steered from the far side can drift towards other people's plans, and part of the work is keeping a self you'd recognise on your own. Partnership isn't dependence, and a mirror only helps while you're the one looking into it.
 
 There's a structural reason the balance takes effort. A planet is at home in the sign it rules and in [detriment](/astrology/detriment/) in the sign opposite, and the 7th house always begins in the sign opposite your rising sign, at the [Descendant](/astrology/descendant/). So if your chart ruler sits in the sign of your Descendant, it's in its detriment, whatever your Ascendant: Mars in Libra for Aries rising, Venus in Aries for Libra rising, the Moon in Capricorn for Cancer rising. Your ruler has to work in the other side's manner, and the people you pair with tend to be the ones who teach it to you. I read detriment as a skill learned the long way, never as a flaw.
 

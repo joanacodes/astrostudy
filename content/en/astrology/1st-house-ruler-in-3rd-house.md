@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/3rd-house", "/astrology/1st-house", "/astrology/house-rulers", "/astrology/planetary-joys"]
 faq:
   - q: "What does it mean if your chart ruler is in the 3rd house?"
-    a: "Your life gathers in ordinary exchanges: conversations, errands, lessons, the neighbourhood. You tend to think aloud, learn by explaining and know your mind once you’ve heard yourself say it, because the planet of your rising sign lives in the house of everyday words."
+    a: "Your life gathers in ordinary exchanges: conversations, errands, lessons, the neighbourhood. You often make up your mind by talking it through and learn best by teaching, because the planet of your rising sign lives in the house of everyday words."
   - q: "Does the ruler of the 1st in the 3rd house say something about my siblings?"
     a: "It says something about how those ties feel from your side. The 3rd covers the people you grew up alongside, so they may have shaped how you talk and learn. It can’t describe your brothers or sisters themselves: they have charts of their own."
   - q: "Is a chart ruler in the 3rd house good for writing?"
@@ -28,7 +28,7 @@ sources:
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp as the significator of its matters" }
   - { title: "Wikipedia — Astrological aspect", url: "https://en.wikipedia.org/wiki/Astrological_aspect", note: "the sextile, said to ease communication" }
 ---
-A chart ruler in the 3rd house puts the planet of your rising sign among everyday words, learning and the people close at hand. Your story gets told in conversation: you find out who you are by asking, explaining, writing and moving about.
+Your story gets told in conversation. Your chart ruler sits in the 3rd house, among daily talk, errands, lessons and the people close at hand, and you make sense of yourself one exchange at a time.
 
 ## What it means {#what-it-means}
 

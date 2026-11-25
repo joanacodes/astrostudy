@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/3rd-house", "/astrology/1st-house", "/astrology/house-rulers", "/astrology/planetary-joys"]
 faq:
   - q: "Que veut dire un maître du thème en maison 3 ?"
-    a: "Votre vie se rassemble dans les échanges ordinaires : conversations, courses, leçons, quartier. Vous pensez volontiers à voix haute, vous apprenez en expliquant et vous savez ce que vous pensez une fois que vous l’avez dit, parce que la planète de votre ascendant vit dans la maison des mots de tous les jours."
+    a: "Votre vie se rassemble dans les échanges ordinaires : conversations, courses, leçons, quartier. Vous vous faites souvent une opinion en en parlant, et vous apprenez le mieux en enseignant, parce que la planète de votre ascendant vit dans la maison des mots de tous les jours."
   - q: "Est-ce que le maître de la maison 1 en maison 3 parle de mes frères et sœurs ?"
     a: "Il dit quelque chose de la façon dont ces liens se vivent de votre côté. La maison 3 couvre les personnes à côté de qui vous avez grandi : elles ont pu façonner votre façon de parler et d’apprendre. Elle ne peut pas décrire vos frères et sœurs eux-mêmes, qui ont leur propre thème."
   - q: "Un maître du thème en maison 3, est-ce bon pour l’écriture ?"
@@ -29,7 +29,7 @@ sources:
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide représente les affaires de sa maison" }
   - { title: "Wikipedia — Astrological aspect", url: "https://en.wikipedia.org/wiki/Astrological_aspect", note: "le sextile, réputé faciliter la communication" }
 ---
-Un maître du thème en maison 3 place la planète de votre ascendant parmi les mots de tous les jours, l’apprentissage et les gens proches. Votre histoire se raconte en conversation : vous découvrez qui vous êtes en questionnant, en expliquant, en écrivant et en circulant.
+Votre histoire se raconte en conversation. Votre maître du thème se trouve en maison 3, parmi les mots de tous les jours, les courses, les leçons et les gens proches, et vous vous comprenez un échange après l’autre.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

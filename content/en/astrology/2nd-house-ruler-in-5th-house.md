@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/2nd-house", "/astrology/5th-house", "/astrology/house-rulers", "/astrology/planetary-joys", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "What does the ruler of the 2nd house in the 5th house mean?"
-    a: "Your money follows your pleasures. You may earn through what you create, perform or love doing, and you spend readily on what delights you. What you value most is joy itself, which is a strength, and asks for some care with the budget."
+    a: "Pleasure steers your money, coming and going. Income can grow out of what you create or perform, and spending goes readily on what delights you. Joy is your real currency, a strength that asks for some care with the budget."
   - q: "Is the 2nd house ruler in the 5th house good for earning from creativity?"
     a: "It ties your resources to creative work and play, so earning from a craft, an art or a hobby can feel natural. It doesn’t promise that it will pay. The planet and its sign describe your way with money and pleasure, not your income."
   - q: "Does a 2nd house ruler in the 5th house mean gambling?"
-    a: "Horary astrology filed gambling and speculation under the 5th, so the theme is in the tradition. A placement doesn’t make anyone a gambler or tell anyone to bet, and no chart can pick a winner or an investment. It describes a taste for risk, not where it leads."
+    a: "The old horary lists put gambling and speculation in the 5th, so the theme has deep roots. A placement doesn’t make anyone a gambler or tell anyone to bet, and no chart can pick a winner or an investment. It describes a taste for risk, not where it leads."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and the names tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the 2nd as finances; the 5th as games, pleasure, gambling and speculation" }

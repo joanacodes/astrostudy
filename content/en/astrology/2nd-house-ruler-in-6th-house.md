@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/2nd-house", "/astrology/6th-house", "/astrology/house-rulers", "/astrology/planetary-joys", "/astrology/can-astrology-predict-health-problems"]
 faq:
   - q: "What does the ruler of the 2nd house in the 6th house mean?"
-    a: "Your money and your sense of worth come out of daily work. You tend to earn the steady way, through skills, routines and jobs done well, and you value competence. The care it asks for is pricing your work fairly and letting yourself rest."
+    a: "Your money and your sense of worth come out of daily work: routines kept, skills used, jobs done well. Competence matters to you more than show. The care it asks for is pricing your work fairly and letting yourself rest."
   - q: "Does the 2nd house ruler in the 6th house mean a regular job?"
     a: "It often goes with earning through regular work or a practised craft, and with valuing a steady income. It doesn’t decide whether you’re employed or work for yourself, or what you’ll earn. It describes where your resources tend to come from: the work of your hands and days."
   - q: "Does a 2nd house ruler in the 6th house say anything about health costs?"
-    a: "No. Tradition gave the 6th illness, but no chart can forecast your health or what it might cost, and I never read one for that. This placement describes how you work and how you look after the body that does the work."
+    a: "No. Tradition gave the 6th illness, but no chart can forecast your health or what it might cost, and I never read one for that. This placement is about your working habits, including the rest and care your body needs to keep going."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and the names tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the 2nd as finances; the 6th as employees, contractors and the place of work" }

@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/11th-house", "/astrology/1st-house", "/astrology/planetary-joys", "/astrology/house-rulers"]
 faq:
   - q: "Que veut dire un maître d’ascendant en maison 11 ?"
-    a: "Vous vous trouvez parmi les vôtres. Vous savez qui vous êtes par les personnes à vos côtés et par ce que vous construisez ensemble, puisque votre maître du thème vit dans la maison des amis, des groupes et des espoirs."
+    a: "Vous vous trouvez parmi les vôtres. Avec votre maître du thème dans la maison des amis, des groupes et des espoirs, les personnes que vous choisissez et l’avenir que vous bâtissez avec elles façonnent votre sentiment de vous-même autant que ce que vous faites de votre côté."
   - q: "Est-ce qu’un maître du thème en maison 11 rend populaire ?"
     a: "Pas en soi. La maison 11 décrit l’appartenance, pas la popularité. Avec votre maître à cet endroit, les personnes que vous choisissez et les groupes que vous rejoignez comptent dans qui vous êtes, et c’est souvent vous qui reliez les gens. Quelques personnes sûres peuvent compter plus qu’une foule."
   - q: "Est-ce que Jupiter, maître du thème en maison 11, est dans sa joie ?"
@@ -35,7 +35,7 @@ Un cercle d’amis, une équipe, une cause : avec la planète de votre ascendan
 
 En tant que maître de la [maison 1](/astrology/1st-house/), votre [maître du thème](/astrology/chart-ruler/) a emmené le moi de l’ascendant en [maison 11](/astrology/11th-house/) ([maîtres des maisons](/astrology/house-rulers/)), la maison de l’appartenance et de ce qui vient : les amis que vous choisissez au lieu d’en hériter, les équipes, les réseaux et les communautés que vous rejoignez, les personnes qui aident sans y être tenues, et les projets que vous aimeriez mener à bien.
 
-C’est parmi les vôtres que vous vous trouvez. Vous savez qui vous êtes par les personnes à vos côtés : le groupe qui vous comprend, la cause qui donne une direction à vos efforts, les amitiés qui durent plus longtemps que les emplois et les adresses. C’est souvent vous qui reliez les gens, ou qui gardez un cercle uni quand les autres s’éloignent. L’espoir compte aussi : ce vers quoi vous travaillez vous façonne autant que l’endroit d’où vous venez. Garder votre propre voix, voilà le travail. Appartenir n’est pas se conformer, et le bon groupe fait de la place aux parts de vous qui n’y entrent pas.
+C’est parmi les vôtres que vous vous trouvez. Votre cercle fait partie de votre identité : le groupe qui vous comprend, la cause qui donne une direction à vos efforts, les amitiés qui durent plus longtemps que les emplois et les adresses. C’est souvent vous qui reliez les gens, ou qui gardez un cercle uni quand les autres s’éloignent. L’espoir compte aussi : ce vers quoi vous travaillez vous façonne autant que l’endroit d’où vous venez. Garder votre propre voix, voilà le travail. Appartenir n’est pas se conformer, et le bon groupe fait de la place aux parts de vous qui n’y entrent pas.
 
 On disait que Jupiter, la planète de la générosité, se réjouissait en maison 11, la maison que la tradition appelait le Génie favorable et peuplait d’amis, d’espoirs et de bienfaiteurs ([joies des planètes](/astrology/planetary-joys/)). Jupiter gouverne le thème d’un ascendant Sagittaire et le partage avec Neptune pour un ascendant Poissons ; en maison 11, il règne depuis cet endroit heureux. La géométrie aussi est amicale : par signe, la maison 11 regarde votre signe ascendant à travers un sextile, l’aspect de soixante degrés que la tradition lisait comme une harmonie et une occasion.
 

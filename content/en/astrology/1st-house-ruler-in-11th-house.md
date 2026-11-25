@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/11th-house", "/astrology/1st-house", "/astrology/planetary-joys", "/astrology/house-rulers"]
 faq:
   - q: "What does it mean when your chart ruler is in the 11th house?"
-    a: "You find yourself among your people. You tend to know who you are by who you stand with and by what you’re working towards together, since your chart ruler lives in the house of friends, groups and hopes."
+    a: "You find yourself among your people. With your chart ruler in the house of friends, groups and hopes, the company you choose and the future you’re building with it shape your sense of self as much as anything you do alone."
   - q: "Does a chart ruler in the 11th house make you popular?"
     a: "Not as such. The 11th describes belonging, not popularity. With your ruler there, the people you choose and the groups you join matter to who you are, and you’re often the one who connects others. A few close allies can count for more than a crowd."
   - q: "Is Jupiter in the 11th house as chart ruler in its joy?"
@@ -34,7 +34,7 @@ A circle of friends, a team, a cause: with the planet of your rising sign in the
 
 As ruler of the [1st house](/astrology/1st-house/), your [chart ruler](/astrology/chart-ruler/) has taken the self of the Ascendant into the [11th house](/astrology/11th-house/) ([house rulers](/astrology/house-rulers/)), the house of belonging and of what lies ahead: the friends you choose rather than inherit, the teams, networks and communities you join, the people who help without having to, and the plans you'd like to see through.
 
-Your people are where you find yourself. You tend to know who you are by who you stand with: the group that understands you, the cause that gives your effort a direction, the friendships that outlast jobs and addresses. You're often the one who connects people, or who keeps a circle together after others drift. Hope matters here too, and you're shaped as much by what you're working towards as by where you come from. Keeping your own voice is the work. Belonging isn't conformity, and the right group makes room for the parts of you that don't fit it.
+Your people are where you find yourself. Your circle is part of your identity: the group that understands you, the cause that gives your effort a direction, the friendships that outlast jobs and addresses. You're often the one who connects people, or who keeps a circle together after others drift. Hope matters here too, and you're shaped as much by what you're working towards as by where you come from. Keeping your own voice is the work. Belonging isn't conformity, and the right group makes room for the parts of you that don't fit it.
 
 Jupiter, the planet of generosity, was said to rejoice in the 11th, the house tradition named the Good Spirit and filled with friends, hopes and benefactors ([planetary joys](/astrology/planetary-joys/)). Jupiter rules the chart for Sagittarius rising and shares it with Neptune for Pisces rising; in the 11th, it governs from that happy place. The geometry is friendly too: by sign, the 11th looks back at your rising sign across a sextile, the sixty-degree aspect tradition read as harmony and opportunity.
 

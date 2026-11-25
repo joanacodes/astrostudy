@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/9th-house", "/astrology/1st-house", "/astrology/planetary-joys", "/astrology/house-rulers"]
 faq:
   - q: "Que veut dire un maître d’ascendant en maison 9 ?"
-    a: "Votre vie va sans cesse au-delà de son point de départ, en kilomètres ou en pensée. Avec votre maître du thème parmi les voyages, les études et les convictions, vous vous connaissez par ce que vous cherchez, et l’on vous rencontre par vos convictions et vos questions."
+    a: "La distance, en kilomètres ou en idées, ne cesse de vous appeler. Avec votre maître du thème parmi les voyages, les études et les convictions, vos questions disent plus de vous que vos réponses, et la vie que vous bâtissez vous emmène souvent loin de votre première adresse."
   - q: "Le maître de la maison 1 en maison 9 veut-il dire que je vivrai à l’étranger ?"
     a: "Il ne peut pas dire où vous vivrez. Il décrit un moi qui grandit en allant plus loin : pour certaines personnes, ce sont d’autres pays ; pour d’autres, les études, la foi, l’enseignement ou une longue conversation avec les idées. La direction est vers le large ; la forme vous appartient."
   - q: "Le Soleil, maître du thème en maison 9, est-il dans sa joie ?"

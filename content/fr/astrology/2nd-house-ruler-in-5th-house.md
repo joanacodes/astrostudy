@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/2nd-house", "/astrology/5th-house", "/astrology/house-rulers", "/astrology/planetary-joys", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire le maître de la maison 2 en maison 5 ?"
-    a: "Votre argent suit vos plaisirs. Vous pouvez gagner par ce que vous créez, jouez ou aimez faire, et vous dépensez volontiers pour ce qui vous enchante. Ce qui compte le plus pour vous, c’est la joie elle-même : une force, qui demande un peu d’attention au budget."
+    a: "Le plaisir guide votre argent, à l’aller comme au retour. Vos revenus peuvent naître de ce que vous créez ou interprétez, et vos dépenses vont volontiers vers ce qui vous enchante. La joie est votre vraie monnaie : une force, qui demande un peu d’attention au budget."
   - q: "Le maître de la maison 2 en maison 5, est-ce bon pour vivre de sa créativité ?"
     a: "Il lie vos ressources au travail créatif et au jeu : gagner votre vie par un savoir-faire, un art ou un passe-temps peut sembler naturel. Il ne promet pas que cela rapportera. La planète et son signe décrivent votre rapport à l’argent et au plaisir, pas vos revenus."
   - q: "Est-ce que le maître de la maison 2 en maison 5 pousse aux jeux d’argent ?"
-    a: "L’astrologie horaire rangeait les jeux d’argent et la spéculation dans la maison 5 : le thème appartient à la tradition. Mais un placement ne pousse personne à parier, et aucun thème ne peut désigner un gagnant ni un placement. Il décrit un goût du risque, pas l’endroit où il mène."
+    a: "Les anciennes listes de l’astrologie horaire mettaient les jeux d’argent et la spéculation en maison 5 : le thème a des racines profondes. Mais un placement ne pousse personne à parier, et aucun thème ne peut désigner un gagnant ni un placement. Il décrit un goût du risque, pas l’endroit où il mène."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et les noms que leur donnait la tradition" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "la maison 2, les finances ; la maison 5, les jeux, le plaisir, les paris et la spéculation" }

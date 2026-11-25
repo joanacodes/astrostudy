@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/2nd-house", "/astrology/house-rulers", "/astrology/domicile", "/astrology/2nd-house-ruler-in-1st-house", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire le maître de la maison 2 en maison 2 ?"
-    a: "La planète qui gouverne votre argent et votre estime de soi reste dans sa propre maison. Vous gardez volontiers vos ressources entre vos mains, vous les faites grandir lentement, et vos valeurs changent peu. J’y lis une autonomie face à la sécurité, jamais une promesse de richesse."
+    a: "La planète qui gouverne votre argent et votre estime de soi reste dans sa propre maison. Vous gardez volontiers vos ressources entre vos mains, vous les faites grandir lentement, et vos valeurs changent peu. Ce n’est pas une promesse de richesse, mais l’habitude de compter sur vous-même."
   - q: "Le maître de la maison 2 dans sa propre maison, est-ce fort ?"
     a: "Il travaille en terrain connu, et s’il se trouve aussi dans son propre signe, il est doublement à l’aise. Cela donne des habitudes stables et des valeurs nettes. Mais la force n’est pas la chance : il décrit votre façon de gérer ce que vous avez, pas la quantité qu’il y aura."
   - q: "Est-ce que le maître de la maison 2 en maison 2 fait trop tenir à l’argent ?"

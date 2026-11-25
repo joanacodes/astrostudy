@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/8th-house", "/astrology/1st-house", "/astrology/derived-houses", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "Que veut dire un maître du thème en maison 8 ?"
-    a: "Il entraîne votre vie vers la profondeur. Vous apprenez à vous connaître par les liens qui vous demandent quelque chose de vrai, et par les moments où une vie commune doit se renégocier, parce que votre maître du thème se trouve parmi l’intimité, la confiance et ce qui se partage ou se doit."
+    a: "Il entraîne votre vie vers la profondeur. Avec votre maître du thème parmi l’intimité, la confiance et ce qui se partage ou se doit, les premières impressions comptent moins pour vous que ce qui se passe une fois les gens proches, et renégocier une vie commune fait partie de votre façon de grandir."
   - q: "Est-ce que le maître de la maison 1 en maison 8 annonce une mort précoce ?"
     a: "Non. La tradition donnait la mort à la maison 8, mais aucun thème ne peut dire combien de temps quelqu’un vivra, et je n’en lis jamais un pour cela. Dans une vie d’adulte, j’y lis l’intimité, la confiance et ce que l’on partage, et votre maître à cet endroit comme un moi formé en profondeur."
   - q: "Vais-je hériter avec un maître du thème en maison 8 ?"

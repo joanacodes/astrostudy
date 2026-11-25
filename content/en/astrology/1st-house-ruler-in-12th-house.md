@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/12th-house", "/astrology/1st-house", "/astrology/astrology-and-mental-health", "/astrology/planetary-joys"]
 faq:
   - q: "What does it mean if your chart ruler is in the 12th house?"
-    a: "Much of who you are is lived privately. Your chart ruler rose just before you were born and sits in the house of solitude and what happens out of sight, so reflection, quiet work and care no one sees take up a great deal of your life."
+    a: "A large part of your life happens in private. Your chart ruler rose just before you were born and sits in the house of solitude and what happens out of sight, so reflection, quiet work and care no one sees take up much of your time."
   - q: "Is a chart ruler in the 12th house bad?"
-    a: "No. Tradition counted the 12th among the difficult houses and gave it confinement and hidden enemies, but I don’t read either into a chart. A ruler here describes a self that recharges alone and often works best without an audience. It isn’t hidden away; it keeps a private room."
+    a: "No. Tradition counted the 12th among the difficult houses and gave it confinement and hidden enemies, but I don’t read either into a chart. A ruler here describes a self that recharges alone and often works best without an audience. It isn’t hidden; it just doesn’t perform."
   - q: "Why is my chart ruler in the 12th house when it’s in my rising sign?"
     a: "Because in Placidus the 12th house ends at the Ascendant. If your ruler stands in the rising sign but at an earlier degree than the Ascendant, it had already risen when you were born, so it sits in the 12th while still at home in its own sign."
 sources:

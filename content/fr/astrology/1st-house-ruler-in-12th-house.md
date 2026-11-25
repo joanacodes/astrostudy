@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/12th-house", "/astrology/1st-house", "/astrology/astrology-and-mental-health", "/astrology/planetary-joys"]
 faq:
   - q: "Que veut dire un maître d’ascendant en maison 12 ?"
-    a: "Une grande part de qui vous êtes se vit dans l’intime. Votre maître du thème s’est levé juste avant votre naissance et se trouve dans la maison de la solitude et de ce qui se passe loin des regards : la réflexion, le travail discret et le soin que personne ne voit occupent une grande place dans votre vie."
+    a: "Une large part de votre vie se déroule en privé. Votre maître du thème s’est levé juste avant votre naissance et se trouve dans la maison de la solitude et de ce qui se passe loin des regards : la réflexion, le travail discret et le soin que personne ne voit occupent une grande part de votre temps."
   - q: "Un maître du thème en maison 12, est-ce mauvais ?"
-    a: "Non. La tradition rangeait la maison 12 parmi les maisons difficiles et lui donnait l’enfermement et les ennemis cachés, mais je ne lis ni l’un ni l’autre dans un thème. Un maître à cet endroit décrit un moi qui se ressource dans la solitude et travaille souvent mieux sans public. Il n’est pas caché : il garde une pièce à lui."
+    a: "Non. La tradition rangeait la maison 12 parmi les maisons difficiles et lui donnait l’enfermement et les ennemis cachés, mais je ne lis ni l’un ni l’autre dans un thème. Un maître à cet endroit décrit un moi qui se ressource dans la solitude et travaille souvent mieux sans public. Il n’est pas caché : il ne se donne simplement pas en spectacle."
   - q: "Mon maître du thème est en maison 12 mais dans mon signe ascendant : comment est-ce possible ?"
     a: "Parce qu’en Placidus, la maison 12 s’arrête à l’ascendant. Si votre maître se trouve dans le signe ascendant mais à un degré plus faible que l’ascendant, il s’était déjà levé à votre naissance : il est donc en maison 12 tout en restant chez lui, dans son propre signe."
 sources:

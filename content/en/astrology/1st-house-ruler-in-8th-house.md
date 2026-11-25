@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/8th-house", "/astrology/1st-house", "/astrology/derived-houses", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "What does a chart ruler in the 8th house mean?"
-    a: "It draws your life towards depth. You come to know yourself through the bonds that ask something real of you, and through the times a shared life has to be renegotiated, because your chart ruler sits among intimacy, trust and what’s shared or owed."
+    a: "It draws your life towards depth. With your chart ruler among intimacy, trust and what’s shared or owed, first impressions matter less to you than what happens once people are close, and renegotiating a shared life is part of how you grow."
   - q: "Does the ruler of the 1st in the 8th house mean an early death?"
     a: "No. Tradition gave the 8th death, but no chart can say how long anyone will live, and I never read one for that. In an adult’s life I read the 8th as intimacy, trust and what you share or owe, and your chart ruler there as a self formed in depth."
   - q: "Will I inherit money with my chart ruler in the 8th house?"

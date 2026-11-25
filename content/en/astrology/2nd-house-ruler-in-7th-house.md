@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/2nd-house", "/astrology/7th-house", "/astrology/house-rulers", "/astrology/descendant", "/astrology/aversion"]
 faq:
   - q: "What does the ruler of the 2nd house in the 7th house mean?"
-    a: "Your money and your sense of worth pass through other people: partners, clients, collaborators and the agreements you make with them. You may earn through contracts or partnerships, and you learn what you value partly by seeing it in someone else."
+    a: "Your income tends to depend on someone else’s signature: a partner’s, a client’s, a collaborator’s. You may earn through contracts or partnerships, and you learn what you value partly by seeing it in someone else."
   - q: "Does the 2nd house ruler in the 7th house mean marrying for money?"
     a: "No. It describes how money and partnership meet in your life, not whom you’ll marry or what they’ll have. With this ruler, fair terms, shared plans and clear agreements matter to your sense of security, in love and in business alike."
   - q: "Is the ruler of the 2nd in the 7th house good for business partnerships?"
@@ -44,4 +44,4 @@ When you were born, the planet of your money hung low in the west, close to sett
 
 An Aquarius 2nd answers to Saturn and Uranus, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Saturn in the 7th wants terms agreed and kept, while Uranus, wherever it lands, keeps some part of your money independent of anyone else.
 
-None of this predicts a marriage, a lawsuit or a payment. It describes how your resources travel: through other people, and through the agreements you make with them.
+A marriage, a lawsuit, a payment due: none of these can be read from it. It describes how your resources travel: through other people, and through the agreements you make with them.

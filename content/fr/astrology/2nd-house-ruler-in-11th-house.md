@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 2", "maison 11", "maîtres des maisons"]
 weight: 2311
 glyph: "✦"
-definition: "Le maître de la maison 2 en maison 11 met la planète de votre argent et de votre estime de soi parmi les amis, les groupes, les réseaux et les espoirs. Vos ressources circulent dans des cercles : du travail par recommandation, de l’argent dépensé pour des causes et des proches. Il ne promet l’aide de personne."
+definition: "Le maître de la maison 2 en maison 11 met la planète de votre argent et de votre estime de soi parmi les amis, les groupes, les réseaux et les espoirs. Vos ressources circulent dans des cercles : du travail par recommandation, de l’argent dépensé pour des causes et des proches. Aucune aide n’y est promise."
 facts:
   - { k: "Maître de", v: "La maison 2 : l’argent, les biens, l’estime de soi" }
   - { k: "Placé en", v: "Maison 11 : les amis, les groupes, les réseaux, les espoirs" }
