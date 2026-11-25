@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Pluton", "conjonction", "transits"]
 weight: 1665
 glyph: "♄☌♇"
-definition: "Saturne en transit conjonction Pluton du thème natal, c’est Saturne qui franchit, environ tous les 29 ans et demi, le degré qu’occupait Pluton à votre naissance. La structure et la transformation fusionnent : ce qui est usé part en bon ordre, et ce que vous retravaillez depuis des années peut être bâti pour durer. J’y lis une rénovation, jamais une menace."
+definition: "Saturne en transit conjonction Pluton du thème natal, c’est Saturne, dans le ciel, qui passe sur le degré qu’occupait Pluton à votre naissance, au début de chaque tour de 29 ans et demi. La structure et la transformation fusionnent : ce qui est usé s’en va, et ce que vous retravaillez peut durer. J’y lis une rénovation, jamais une menace."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Pluton ♇, la profondeur, le pouvoir et le renouveau" }
@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire Saturne en transit conjonction Pluton ?"
     a: "Saturne, dans le ciel, franchit le degré qu’occupait Pluton à votre naissance : la structure et le changement profond ne font plus qu’un. Quelque chose d’usé tend à partir, et ce que vous retravaillez depuis longtemps reçoit une forme durable. J’y lis une saison de rénovation, exigeante, honnête, tournée vers ce qui tiendra."
   - q: "Combien de temps dure Saturne conjonction Pluton en transit ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, neuf mois environ. Un peu plus d’une fois sur deux, Saturne franchit le degré trois fois au cours de sa boucle rétrograde, sur neuf mois et demi environ ; un passage unique peut se faire en trois semaines."
+    a: "Saturne passe neuf mois environ dans l’orbe, avec mes orbes de 1,5° avant l’exactitude et 1° après. Un peu plus d’une fois sur deux, Saturne franchit votre Pluton trois fois au gré de sa boucle ; un seul passage peut se faire en trois semaines."
   - q: "Saturne conjonction Pluton, est-ce l’annonce d’un deuil ?"
     a: "Non. Pluton porte le nom du dieu des Enfers et sa vieille réputation demeure, mais aucun transit ne prédit une mort, la vôtre ou celle de quelqu’un d’autre, et je ne lis jamais un thème pour cela. Ce passage décrit une saison de tri et de reconstruction, où c’est vous qui choisissez."
   - q: "Quand vient la conjonction de Saturne à mon Pluton ?"
@@ -40,9 +40,9 @@ L’arrivée de Saturne sur votre Pluton de naissance est le transit Saturne-Plu
 
 [Saturne](/astrology/saturn/) établit la structure et lui demande des comptes ; [Pluton](/astrology/pluto/) transforme, régénère et dégage ce qui ne fonctionne plus. Une [conjonction](/astrology/conjunction/) fond les deux : pendant les mois de ce [transit](/astrology/transits/), bâtir et démonter ne font qu’un. Un engagement vide depuis des années peut prendre fin en bon ordre. Un changement que vous vivez sans le nommer, dans un rôle, dans votre rapport au pouvoir, dans une habitude de contrôle, peut recevoir une structure qui tiendra. Le rythme est celui de Saturne : délibéré, et sans hâte d’en finir.
 
-Saturne craint le chaos, et l’angle mort de Pluton, c’est de confondre contrôle et sécurité : ensemble, ils peuvent pousser à serrer plus fort. La saison se passe en général mieux dans l’autre sens, moins de choses tenues serré, chacune bien tenue. La réputation de fin qui entoure Pluton donne à ce passage un air sombre, et pourtant il ne prédit aucune mort, ni la vôtre ni celle de quiconque ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)) ; ce qui prend fin sous ce transit, dans ma lecture, ce sont des structures, jamais des vies.
+Saturne craint le chaos, et l’angle mort de Pluton, c’est de confondre contrôle et sécurité : ensemble, ces deux penchants peuvent pousser à serrer plus fort. La saison se passe en général mieux dans l’autre sens, moins de choses tenues serré, chacune bien tenue. La réputation de fin qui entoure Pluton donne à ce passage un air sombre, et pourtant il ne prédit aucune mort, ni la vôtre ni celle de quiconque ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)) ; ce qui prend fin sous ce transit, dans ma lecture, ce sont des structures, jamais des vies.
 
-La maison de votre Pluton montre où se fait la rénovation : en maison 2, ce que vous estimez et gardez ; en maison 8, ce que vous partagez et devez dans les liens proches. Cette maison vient de votre heure de naissance : je ne lis donc pas ce transit sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si votre naissance tombe en 1946–1948 ou en 1981–1983, votre thème porte [Saturne conjonction Pluton](/astrology/saturn-conjunct-pluto/) : la rencontre même que ce transit répète.
+La maison de votre Pluton montre où se fait la rénovation : en maison 2, ce que vous estimez et gardez ; en maison 8, ce que vous partagez et devez dans les liens proches. Votre heure de naissance décide de cette maison, et je l’attends avant de rien dire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si votre naissance tombe en 1946–1948 ou en 1981–1983, votre thème porte [Saturne conjonction Pluton](/astrology/saturn-conjunct-pluto/) : la rencontre même que ce transit répète.
 
 ## Combien de temps {#combien-de-temps}
 

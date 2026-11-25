@@ -24,12 +24,12 @@ faq:
   - q: "Is Uranus sextile Moon a good time to move house?"
     a: "It can be a good season for changes at home that you choose, because a sextile favours change you start yourself. I don’t pick the date of a move from a transit, though. The practical reasons come first; the transit only describes a mood in which change and comfort get on."
   - q: "How often does Uranus sextile your Moon?"
-    a: "Twice in Uranus’s round of about 84 years, about fourteen years before and fourteen years after it crosses your Moon. Most people born between 1930 and 2009 meet both by 80, and everyone meets at least one. Each lasts about twenty months with my orbs, usually with three exact hits."
+    a: "Two per round of about 84 years. Both usually come before 80, and everyone born between 1930 and 2009 has at least one by then. Each lasts about twenty months with my orbs, usually with three exact hits."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the sextile comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the sextile of Uranus to the Moon, among his transits" }
 ---
-Uranus sextiles your Moon twice in its round, once some fourteen years before it reaches your Moon and once some fourteen years after. Each time, for about twenty months, the way you live can change without anything having to break first.
+The sextiles are the first step Uranus takes away from your Moon and the last one back towards it. Each time, for about twenty months, the way you live can change without anything having to break first.
 
 ## What changes {#what-changes}
 
@@ -45,7 +45,7 @@ With your Moon in the 4th and Uranus crossing your 2nd ([Uranus transiting the 2
 
 Counting from 1½° before exact to 1° after, as I do for every transit, the sextile holds for about twenty months: long for an opening, with time to try a change, drop it and try another. Three exact hits are the rule, in more than nine passes out of ten, and the quickest passes still take about eleven months.
 
-One sextile comes about fourteen years before Uranus reaches your Moon ([transiting Uranus conjunct natal Moon](/astrology/transiting-uranus-conjunct-natal-moon/)), the other about fourteen years after it. From the first, it's about seven years on to [transiting Uranus square natal Moon](/astrology/transiting-uranus-square-natal-moon/), fourteen to [transiting Uranus trine natal Moon](/astrology/transiting-uranus-trine-natal-moon/) and 28 to [transiting Uranus opposite natal Moon](/astrology/transiting-uranus-opposite-natal-moon/). Nobody born between 1930 and 2009 gets to 80 without one of them; most get both.
+From the first sextile it's about seven years on to [transiting Uranus square natal Moon](/astrology/transiting-uranus-square-natal-moon/), fourteen to [transiting Uranus trine natal Moon](/astrology/transiting-uranus-trine-natal-moon/) and 28 to [transiting Uranus opposite natal Moon](/astrology/transiting-uranus-opposite-natal-moon/); the second falls in the last fourteen years or so before the round closes at [transiting Uranus conjunct natal Moon](/astrology/transiting-uranus-conjunct-natal-moon/). Nobody born between 1930 and 2009 gets to 80 without one of them; most get both.
 
 Born with [Moon sextile Uranus](/astrology/moon-sextile-uranus/), you began life inside one of these sextiles; the other comes at about 28 or about 56, when Uranus makes a trine to its own birth place. And with Uranus in Gemini until 2033, sextile the fire signs Aries and Leo, a Moon in either of them gets its [transit](/astrology/transits/) some time in these years.
 

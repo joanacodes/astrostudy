@@ -25,12 +25,12 @@ faq:
   - q: "Uranus carré Mars, est-ce que cela cause des accidents ?"
     a: "Je ne lis aucun transit pour les accidents ou les blessures, et celui-ci ne fait pas exception. Il décrit de l’agitation et de l’impatience, qui peuvent rendre la précipitation tentante. Choisir votre rythme exprès, et donner à l’énergie une vraie cible, fait de ce carré une saison de changements utiles."
   - q: "Quand arrive Uranus carré Mars ?"
-    a: "Deux fois dans un tour d’environ 84 ans : une vingtaine d’années avant le passage d’Uranus sur votre Mars, et une vingtaine d’années après. La plupart des personnes nées entre 1930 et 2009 connaissent les deux carrés avant 80 ans, personne ne manque les deux, et chacun dure une vingtaine de mois avec mes orbes."
+    a: "Le premier vient au quart du tour depuis votre Mars, le second aux trois quarts : quelque 21 et 63 ans après le passage d’Uranus sur ce point. Chacun dure une vingtaine de mois avec mes orbes, et avant 80 ans, la plupart des personnes nées entre 1930 et 2009 ont les deux derrière elles."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de carrés viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le carré d’Uranus à Mars, parmi ses transits" }
 ---
-Les deux angles droits qu’Uranus forme avec votre Mars tombent une vingtaine d’années de part et d’autre de son passage sur ce point. À chaque fois, pendant une vingtaine de mois, votre façon de pousser et l’envie de sortir des chemins habituels s’accrochent sans cesse.
+Un angle droit entre Uranus et votre Mars revient deux fois en 84 ans. À chaque fois, pendant une vingtaine de mois, votre façon de pousser et l’envie de sortir des chemins habituels s’accrochent sans cesse.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -46,7 +46,7 @@ Avec Mars en maison 7 et Uranus qui traverse votre maison 4 ([Uranus en transit 
 
 Uranus met une vingtaine de mois à traverser ce carré, de 1,5° avant l’exactitude à 1° après ; un passage sur dix environ prend onze mois ou moins. Trois passages exacts sont la norme, dans plus de neuf cas sur dix : la pression vient donc plutôt en trois vagues qu’en une seule.
 
-Les carrés sont les deux virages serrés du tour d’Uranus avec votre Mars, une vingtaine d’années avant et après [Uranus en transit conjonction Mars du thème natal](/astrology/transiting-uranus-conjunct-natal-mars/). [Uranus en transit sextile Mars du thème natal](/astrology/transiting-uranus-sextile-natal-mars/) vient juste avant le premier carré et [Uranus en transit trigone Mars du thème natal](/astrology/transiting-uranus-trine-natal-mars/) juste après, tandis qu’[Uranus en transit opposition Mars du thème natal](/astrology/transiting-uranus-opposite-natal-mars/) tombe à mi-chemin entre les deux carrés. La plupart des vies qui atteignent 80 ans voient les deux carrés, les autres un seul, et aucune n’en voit zéro : ce [transit](/astrology/transits/) figure au moins une fois dans l’agenda de presque tout le monde.
+Les carrés sont les deux virages serrés du tour d’Uranus avec votre Mars, un de chaque côté de [Uranus en transit conjonction Mars du thème natal](/astrology/transiting-uranus-conjunct-natal-mars/). [Uranus en transit sextile Mars du thème natal](/astrology/transiting-uranus-sextile-natal-mars/) vient juste avant le premier carré et [Uranus en transit trigone Mars du thème natal](/astrology/transiting-uranus-trine-natal-mars/) juste après, tandis qu’[Uranus en transit opposition Mars du thème natal](/astrology/transiting-uranus-opposite-natal-mars/) tombe à mi-chemin entre les deux carrés. La plupart des vies qui atteignent 80 ans voient les deux carrés, et aucune n’en voit zéro : ce [transit](/astrology/transits/) figure au moins une fois dans l’agenda de presque tout le monde.
 
 ## Ce qui aide {#ce-qui-aide}
 

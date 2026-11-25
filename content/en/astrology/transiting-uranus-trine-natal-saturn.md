@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Saturn", "trine", "transits"]
 weight: 1713
 glyph: "♅△♄"
-definition: "Transiting Uranus trine natal Saturn is Uranus 120° from the degree Saturn held at your birth, for about twenty months, usually twice in a life. Structure and change pull together: a reform can be planned and built to last. I read it as the easiest season for modernising what you’re responsible for."
+definition: "Transiting Uranus trine natal Saturn is Uranus 120° from the degree Saturn held at your birth, for about twenty months: the easiest of Uranus’s meetings with Saturn, usually twice in a life. Structure and change pull together, and a reform can be built to last. I read it as a season for modernising what you’re responsible for."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Saturn ♄: structure, responsibility and time" }
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/saturn", "/astrology/trine", "/astrology/saturn-trine-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus trine natal Saturn mean?"
-    a: "Uranus stands 120° from the degree your Saturn held at birth. Structure and change help each other: a reform can be planned and built properly, and old rules can be rewritten rather than broken. I read it as the easiest season in Uranus’s round for modernising what you’re responsible for, if you use it."
+    a: "Uranus stands 120° from your natal Saturn, the planet of the commitments you keep. Structure and change help each other: a reform can be planned and built properly, and old rules can be rewritten rather than broken. I read it as the easiest season in Uranus’s round for modernising what you’re responsible for, if you use it."
   - q: "How long does Uranus trine Saturn last?"
-    a: "About twenty months, counting from 1½° before the exact trine to 1° after; the shortest passes take about eleven. In more than nine passes out of ten Uranus crosses the exact trine three times, the middle crossing made while it is retrograde: time to plan a reform, build it and check that it holds."
+    a: "Time enough to plan a reform, build it and check that it holds: about twenty months, counting from 1½° before the exact trine to 1° after, and about eleven in the shortest passes. In more than nine passes out of ten Uranus crosses the exact trine three times, the middle crossing made while it is retrograde."
   - q: "Who has Uranus trine Saturn now?"
-    a: "Uranus is in Gemini until May 2033, so it trines natal Saturn in Libra and in Aquarius. That covers most people born from late 1980 to the summer of 1983, from 1962 to 1964 and from 1991 to early 1994, and those born in the early 1950s with Saturn in Libra."
+    a: "Most people born from late 1980 to the summer of 1983, from 1962 to 1964 or from 1991 to early 1994, and those born in the early 1950s with Saturn in Libra: their Saturn is in Libra or Aquarius, which Uranus trines from Gemini until May 2033."
   - q: "Is Uranus trine Saturn a good transit?"
     a: "It is one of the most cooperative, because Saturn’s patience and Uranus’s invention pull the same way. A trine makes things easier, not certain: it brings no guaranteed result at work or anywhere else, and left alone it can pass without leaving much behind."
 sources:

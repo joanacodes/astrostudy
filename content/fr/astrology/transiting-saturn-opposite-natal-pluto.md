@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Pluton", "opposition", "transits"]
 weight: 1669
 glyph: "♄☍♇"
-definition: "Saturne en transit opposition Pluton du thème natal, c’est Saturne, dans le ciel, face au degré qu’occupait Pluton à votre naissance, une fois par tour de 29 ans et demi. La structure et le changement profond se font face, souvent à travers quelqu’un. J’y lis un appel à exercer le pouvoir avec soin, jamais un verdict."
+definition: "Saturne en transit opposition Pluton du thème natal, c’est Saturne, dans le ciel, de l’autre côté du zodiaque par rapport au degré qu’occupait Pluton à votre naissance, une fois par tour de 29 ans et demi. La structure et le changement profond se font face, souvent à travers quelqu’un. J’y lis un appel à exercer le pouvoir avec soin."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Pluton ♇, la profondeur, le pouvoir et le renouveau" }
@@ -24,16 +24,16 @@ faq:
   - q: "Que veut dire Saturne en transit opposition Pluton ?"
     a: "Saturne, dans le ciel, se tient de l’autre côté du thème par rapport à votre Pluton : l’envie de garder les choses en l’état et le besoin de les changer en profondeur se font face. Souvent, une personne ou une institution tient l’un des bouts. J’y lis une saison pour exercer le pouvoir avec soin, en négociant plutôt qu’en écrasant."
   - q: "Combien de temps dure Saturne opposition Pluton en transit ?"
-    a: "Neuf mois environ en général, dans mes orbes de 1,5° avant l’exactitude et 1° après. Un peu plus d’une fois sur deux, une boucle rétrograde donne trois passages exacts sur neuf mois et demi environ ; avec un seul passage exact, trois semaines peuvent suffire."
+    a: "Saturne met neuf mois environ à la traverser, selon mes orbes de 1,5° avant l’exactitude et 1° après. Trois passages exacts sont un peu plus fréquents qu’un seul, et une opposition à passage unique peut être finie en trois semaines."
   - q: "À quel âge vient l’opposition de Saturne à Pluton ?"
-    a: "Environ tous les 29 ans et demi, à des âges que partage toute votre année de naissance. Pour une naissance en 1975, vers 22 et 51 ans ; en 1985, vers 14 et 43 ans ; en 1955, vers 9, 38 et 67 ans. La plupart des personnes nées entre 1971 et 1984 la vivent entre 2025 et début 2028."
+    a: "Une même année de naissance la vit ensemble, environ tous les 29 ans et demi : pour une naissance en 1975, vers 22 et 51 ans ; en 1985, vers 14 et 43 ans ; en 1955, vers 9, 38 et 67 ans. Pour la plupart des naissances de 1971 à 1984, c’est entre 2025 et début 2028."
   - q: "Saturne opposition Pluton, est-ce une lutte de pouvoir ?"
     a: "Pas forcément. Une opposition passe souvent par les autres, si bien que des questions de contrôle peuvent se poser entre vous et quelqu’un d’autre, chez vous ou au travail. Mais le transit décrit la question, pas un combat avec un vainqueur, et les réponses qui durent sont le plus souvent négociées."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée avec mes orbes, le nombre avant 80 ans et l’âge de la première" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Saturne, lus un à un" }
 ---
-Une quinzaine d’années après le passage de Saturne sur votre Pluton, Saturne atteint le côté opposé du thème. Ce que vous retravaillez en profondeur rencontre de front les structures du monde, ou celles de quelqu’un d’autre, et la question de savoir qui décide sort au grand jour.
+Le tour de Saturne avec votre Pluton atteint son point le plus éloigné une quinzaine d’années après le passage : Saturne se tient alors face à ce degré, de l’autre côté du thème. Ce que vous retravaillez en profondeur rencontre de front les structures du monde, ou celles de quelqu’un d’autre, et la question de savoir qui décide sort au grand jour.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -41,7 +41,7 @@ Une quinzaine d’années après le passage de Saturne sur votre Pluton, Saturne
 
 Une polarité n’est pas une contradiction. J’y lis un appel à la bonne gestion : exercer avec soin le pouvoir que vous avez, et lâcher le contrôle qui ne vous protégeait que de l’incertitude. La négociation dure plus longtemps que la victoire. Le transit ne tranche pas non plus un litige, au travail ou devant un tribunal ([L’astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)) : il décrit les termes de la question, pas son issue.
 
-L’axe relie deux maisons. Avec Pluton en maison 5, Saturne traverse votre maison 11, et ce que vous créez à votre façon rencontre les attentes d’un groupe. Ces deux maisons viennent de votre heure de naissance, la première chose que je demande ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+L’axe relie deux maisons. Avec Pluton en maison 5, Saturne traverse votre maison 11, et ce que vous créez à votre façon rencontre les attentes d’un groupe. Les deux maisons reposent sur la minute de votre naissance : sans elle, je ne peux rien dire de l’endroit où tombe ce transit ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

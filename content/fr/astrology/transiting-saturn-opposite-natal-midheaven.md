@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/imum-coeli", "/astrology/saturn-transit-4th-house", "/astrology/transiting-saturn-conjunct-natal-midheaven", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit opposition Milieu du Ciel ?"
-    a: "Saturne, dans le ciel, franchit votre Fond du Ciel, le point opposé à votre Milieu du Ciel, en bas du thème, comme environ tous les 29 ans et demi. J’y lis une saison pour les fondations : le foyer, l’appartenance, le repos, les structures privées qui permettent à votre vie publique de tenir debout."
+    a: "Saturne, dans le ciel, franchit votre Fond du Ciel, le point opposé à votre Milieu du Ciel, en bas du thème, comme environ tous les 29 ans et demi. J’y lis une saison pour les fondations : le foyer, l’appartenance, le repos, les structures privées qui font tenir votre vie publique. Saturne commence ensuite ses années en maison 4."
   - q: "Combien de temps dure Saturne opposition Milieu du Ciel ?"
-    a: "Sur le degré lui-même, neuf mois environ avec mes orbes de 1,5° avant l’exactitude et 1° après : un peu plus d’une fois sur deux en trois passages exacts sur neuf mois et demi environ, et au plus rapide en trois semaines. Saturne passe ensuite un peu moins de trois ans dans votre maison 4."
+    a: "Saturne passe neuf mois environ sur votre Fond du Ciel, avec mes orbes de 1,5° avant l’exactitude et 1° après, et le franchit trois fois un peu plus souvent qu’une seule ; au plus rapide, trois semaines. Suivent un peu moins de trois ans de Saturne dans votre maison 4."
   - q: "Saturne opposition Milieu du Ciel, est-ce Saturne sur le Fond du Ciel ?"
     a: "Oui. Le Fond du Ciel est toujours exactement opposé au Milieu du Ciel : Saturne qui franchit l’un s’oppose à l’autre. En Placidus, le système que j’utilise, c’est aussi la cuspide de la maison 4, et ce passage ouvre donc les années de Saturne dans cette maison, quatorze ou quinze ans après son passage sur le Milieu du Ciel."
   - q: "Saturne sur le Fond du Ciel, est-ce une période calme au travail ?"
@@ -41,11 +41,11 @@ sources:
 
 Le Fond du Ciel n’est pas seulement une maison, une famille ou une enfance, même s’il peut être chacune d’elles : c’est ce qui vous régénère. La vie publique peut sembler plus calme, non parce que quelque chose a mal tourné, mais parce que l’effort s’est déplacé hors de vue. Là où le passage de Saturne sur votre Milieu du Ciel demande ce qui vous fait connaître, celui-ci demande ce qui vous fait tenir quand personne ne regarde, et les deux réponses sont faites pour aller ensemble. Un transit au Fond du Ciel ne dit rien non plus de la santé des personnes dont vous venez ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)) ; les fondations que je lis ici sont les vôtres.
 
-En Placidus, le système de maisons que j’utilise, le Fond du Ciel est la cuspide de la maison 4 : ce passage ouvre donc [Saturne en transit en maison 4](/astrology/saturn-transit-4th-house/). C’est le point bas de l’arc que Saturne décrit à travers vos angles, quatorze ou quinze ans environ après [Saturne en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-saturn-conjunct-natal-midheaven/), et autant avant le suivant.
+Le Fond du Ciel ouvre aussi la maison 4 en Placidus, le système que j’utilise : c’est donc ici que commence [Saturne en transit en maison 4](/astrology/saturn-transit-4th-house/). La remontée jusqu’à votre Milieu du Ciel ([Saturne en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-saturn-conjunct-natal-midheaven/)) prend encore quatorze ou quinze ans, à peu près le temps qu’il a fallu à Saturne pour en descendre.
 
 ## Combien de temps {#combien-de-temps}
 
-Saturne passe neuf mois environ sur votre Fond du Ciel, comptés avec mes orbes de 1,5° avant l’exactitude et 1° après. Un peu plus d’une fois sur deux, la traversée se fait trois fois, Saturne revenant sur ses pas, en neuf mois et demi environ ; au plus rapide, elle est finie en trois semaines. Deux ou trois de ces passages viennent avant 80 ans, pour tout le monde.
+Sur votre Fond du Ciel, Saturne s’attarde neuf mois environ : c’est ce que donnent mes orbes, 1,5° avant l’exactitude et 1° après. Un peu plus d’une fois sur deux, la traversée se fait trois fois, Saturne revenant sur ses pas, en neuf mois et demi environ ; au plus rapide, elle est finie en trois semaines. Deux ou trois de ces passages viennent avant 80 ans, pour tout le monde.
 
 Le Fond du Ciel est exactement opposé au Milieu du Ciel : il hérite donc de la même précision. Une heure de naissance fausse de huit minutes déplace ce passage d’environ deux mois. Sans l’heure, il n’y a pas de Fond du Ciel à franchir, ni de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

@@ -47,7 +47,7 @@ Dans mes orbes, de 1,5° avant l’exactitude à 1° après, l’opposition dure
 
 Avant 80 ans, à peu près tout le monde, parmi les personnes nées entre 1930 et 2009, a rencontré soit la conjonction de Neptune à leur Lune ([Neptune en transit conjonction Lune du thème natal](/astrology/transiting-neptune-conjunct-natal-moon/)), soit cette opposition, la moitié l’une, la moitié l’autre, et personne les deux : elles sont séparées d’un demi-cercle, et Neptune en parcourt un peu moins en 80 ans. Entre les deux se trouvent les trigones ([Neptune en transit trigone Lune du thème natal](/astrology/transiting-neptune-trine-natal-moon/)), à un sixième de cercle de cette opposition, les carrés ([Neptune en transit carré Lune du thème natal](/astrology/transiting-neptune-square-natal-moon/)), à un quart, et les sextiles ([Neptune en transit sextile Lune du thème natal](/astrology/transiting-neptune-sextile-natal-moon/)), à un tiers. Les personnes nées avec [Lune opposition Neptune](/astrology/moon-opposite-neptune/) connaissent cette attraction de l’intérieur ; le transit l’apporte, pour un temps, à toutes celles qu’il atteint.
 
-Depuis le Bélier, jusqu’en 2039, Neptune s’oppose aux Lunes en Balance.
+En face du Bélier se trouve la Balance : jusqu’en 2039, l’opposition tombe donc sur les Lunes en Balance.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Saturne", "trigone", "transits"]
 weight: 1713
 glyph: "♅△♄"
-definition: "Uranus en transit trigone Saturne du thème natal, c’est Uranus à 120° du degré qu’occupait Saturne à votre naissance, une vingtaine de mois, deux fois dans la plupart des vies. Structure et changement tirent ensemble : une réforme peut se préparer et se bâtir pour durer. J’y lis la saison la plus facile pour moderniser ce dont vous avez la charge."
+definition: "Uranus en transit trigone Saturne du thème natal, c’est Uranus à 120° du degré qu’occupait Saturne à votre naissance, une vingtaine de mois : la plus facile des rencontres d’Uranus avec Saturne, deux fois le plus souvent. Structure et changement tirent ensemble, et une réforme peut se bâtir pour durer. J’y lis une saison pour moderniser ce dont vous avez la charge."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Saturne ♄ : structure, responsabilité et temps" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/saturn", "/astrology/trine", "/astrology/saturn-trine-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit trigone Saturne du thème natal ?"
-    a: "Uranus se trouve à 120° du degré qu’occupait Saturne à votre naissance. Structure et changement s’entraident : une réforme peut se préparer et se construire correctement, et les vieilles règles se réécrire au lieu de casser. J’y lis la saison la plus facile du tour d’Uranus pour moderniser ce dont vous avez la charge, si vous vous en servez."
+    a: "Uranus se trouve à 120° de Saturne dans votre thème, la planète des engagements que vous tenez. Structure et changement s’entraident : une réforme peut se préparer et se construire correctement, et les vieilles règles se réécrire au lieu de casser. J’y lis la saison la plus facile du tour d’Uranus pour moderniser ce dont vous avez la charge, si vous vous en servez."
   - q: "Combien de temps dure Uranus trigone Saturne ?"
-    a: "Une vingtaine de mois, comptés de 1,5° avant le trigone exact à 1° après ; les passages les plus courts prennent onze mois environ. Dans plus de neuf cas sur dix, Uranus franchit trois fois le trigone exact, le passage du milieu pendant la rétrogradation : le temps de préparer une réforme, de la bâtir et de vérifier qu’elle tient."
+    a: "Le temps de préparer une réforme, de la bâtir et de vérifier qu’elle tient : une vingtaine de mois, comptés de 1,5° avant le trigone exact à 1° après, et onze environ pour les passages les plus courts. Dans plus de neuf cas sur dix, Uranus franchit trois fois le trigone exact, le passage du milieu pendant la rétrogradation."
   - q: "Qui vit Uranus trigone Saturne en ce moment ?"
-    a: "Uranus est en Gémeaux jusqu’en mai 2033 et forme donc un trigone à toute position de Saturne en Balance ou en Verseau. Cela concerne la plupart des personnes nées de fin 1980 à l’été 1983, de 1962 à 1964 et de 1991 à début 1994, ainsi que celles nées au début des années 1950 avec Saturne en Balance."
+    a: "La plupart des personnes nées de fin 1980 à l’été 1983, de 1962 à 1964 ou de 1991 à début 1994, et celles nées au début des années 1950 avec Saturne en Balance : Saturne, dans leur thème, est en Balance ou en Verseau, signes auxquels Uranus forme un trigone depuis les Gémeaux jusqu’en mai 2033."
   - q: "Est-ce qu’Uranus trigone Saturne est un bon transit ?"
     a: "C’est l’un des plus coopératifs, parce que la patience de Saturne et l’invention d’Uranus vont dans le même sens. Un trigone rend les choses plus faciles, pas certaines : aucun résultat garanti au travail ni ailleurs, et laissé à lui-même, ce transit peut passer sans laisser grand-chose."
 sources:

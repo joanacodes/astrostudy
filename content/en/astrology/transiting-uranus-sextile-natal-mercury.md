@@ -24,7 +24,7 @@ faq:
   - q: "Is Uranus sextile Mercury a good time to study?"
     a: "It’s one of the better ones, as I read it, because the sextile links curiosity and invention without friction. It won’t enrol you, though. Opportunity under a sextile needs engagement: the subject you sign up for, the question you ask, the person you write to."
   - q: "How often does Uranus sextile Mercury?"
-    a: "Two sextiles per round of about 84 years: one roughly fourteen years before Uranus crosses your Mercury, one roughly fourteen years after. Most people born between 1930 and 2009 have had both by 80; for the rest, the second comes later. With my orbs, each one holds for some twenty months."
+    a: "Each round of about 84 years holds two, and two is also the usual tally by 80 for people born between 1930 and 2009. With my orbs, each one holds for some twenty months, usually with three exact hits."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the sextile comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus sextile Mercury, among his transits" }

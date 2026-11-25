@@ -50,11 +50,11 @@ If Venus and Neptune were already together when you were born ([Venus conjunct N
 
 With the orbs I use for timing, from 1½° before exact to 1° after, one pass over your Venus lasts about two years and seven months, seldom less than twenty-two, while Venus in the sky laps the whole zodiac more than twice. Neptune's yearly retrograde loop takes it across the exact degree three times in three passes out of four, and five times in the rest ([Neptune retrograde](/astrology/neptune-retrograde/)).
 
-Half of the people born between 1930 and 2009 never meet it before 80. In eighty years Neptune covers a little under half the zodiac, and Venus never strays more than about 47° from the Sun, so the day of the year you were born counts as much as the year: among people born the same year, a Venus one sign further on meets the conjunction about fourteen years later, and a Venus just behind Neptune never meets it.
+Half of the people born between 1930 and 2009 never meet it before 80. In eighty years Neptune covers a little under half the zodiac, and Venus never strays more than about 47° from the Sun, so the day of the year you were born counts as much as the year: among people born the same year, a Venus one sign further on meets the conjunction about fourteen years later, and a Venus a sign behind Neptune never meets it.
 
 Neptune is in Aries from January 2026 until March 2039, so in those years it reaches, degree by degree, everyone born with Venus in Aries ([Neptune in Aries, 2026–2039](/astrology/neptune-in-aries-2026-2039/)).
 
-After the conjunction, Neptune reaches [transiting Neptune sextile natal Venus](/astrology/transiting-neptune-sextile-natal-venus/) about twenty-seven years later, [transiting Neptune square natal Venus](/astrology/transiting-neptune-square-natal-venus/) about forty-one and [transiting Neptune trine natal Venus](/astrology/transiting-neptune-trine-natal-venus/) about fifty-five. [Transiting Neptune opposite natal Venus](/astrology/transiting-neptune-opposite-natal-venus/) would take some eighty-two, so no one meets it and the conjunction before 80.
+After the conjunction, Neptune reaches [transiting Neptune sextile natal Venus](/astrology/transiting-neptune-sextile-natal-venus/) about twenty-seven years later, [transiting Neptune square natal Venus](/astrology/transiting-neptune-square-natal-venus/) about forty-one and [transiting Neptune trine natal Venus](/astrology/transiting-neptune-trine-natal-venus/) about fifty-five. [Transiting Neptune opposite natal Venus](/astrology/transiting-neptune-opposite-natal-venus/) would take some eighty-two years, so the two share a lifetime only for the few born with one of them already in orb, who meet the other at 79 or 80.
 
 ## What helps {#what-helps}
 

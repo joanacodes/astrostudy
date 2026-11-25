@@ -24,12 +24,12 @@ faq:
   - q: "Does Uranus square Mars cause accidents?"
     a: "I don’t read any transit for accidents or injuries, and this one is no exception. What it describes is restlessness and impatience, which can make haste tempting. Choosing your pace on purpose, and giving the energy a real target, turns the square into a season of useful change."
   - q: "When does Uranus square Mars happen?"
-    a: "Twice in a round of about 84 years: about twenty years before Uranus crosses your Mars and about twenty years after. Most people born between 1930 and 2009 meet both squares by 80, nobody misses both, and each lasts about twenty months with my orbs."
+    a: "The first comes about a quarter of the way round from your Mars, the second about three quarters: some 21 and 63 years after Uranus crosses it. Each lasts about twenty months with my orbs, and by 80 most people born between 1930 and 2009 have both behind them."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the square comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus square Mars, among his transits" }
 ---
-The two right angles Uranus makes to your Mars fall about twenty years either side of its crossing. Each time, for some twenty months, the way you push and the urge to break out of the usual channel keep catching on each other.
+A right angle between Uranus and your Mars comes round twice in 84 years. Each time, for some twenty months, the way you push and the urge to break out of the usual channel keep catching on each other.
 
 ## What changes {#what-changes}
 
@@ -45,7 +45,7 @@ With Mars in your 7th and Uranus crossing your 4th ([Uranus transiting the 4th h
 
 Uranus needs about twenty months to get through this square, from 1½° before exact to 1° after; about one pass in ten takes eleven months or less. Three exact hits are the norm, in more than nine passes out of ten, so the pressure tends to come in three waves rather than one.
 
-The squares are the two hard turns of Uranus's round with your Mars, about twenty years before and after [transiting Uranus conjunct natal Mars](/astrology/transiting-uranus-conjunct-natal-mars/). [Transiting Uranus sextile natal Mars](/astrology/transiting-uranus-sextile-natal-mars/) comes just before the first square and [transiting Uranus trine natal Mars](/astrology/transiting-uranus-trine-natal-mars/) just after it, while [transiting Uranus opposite natal Mars](/astrology/transiting-uranus-opposite-natal-mars/) falls halfway between the two squares. Most lives that reach 80 see both squares; the rest see one, and none sees neither, which puts this [transit](/astrology/transits/) in nearly everyone's diary at least once.
+The squares are the two hard turns of Uranus's round with your Mars, one on each side of [transiting Uranus conjunct natal Mars](/astrology/transiting-uranus-conjunct-natal-mars/). [Transiting Uranus sextile natal Mars](/astrology/transiting-uranus-sextile-natal-mars/) comes just before the first square and [transiting Uranus trine natal Mars](/astrology/transiting-uranus-trine-natal-mars/) just after it, while [transiting Uranus opposite natal Mars](/astrology/transiting-uranus-opposite-natal-mars/) falls halfway between the two squares. Most lives that reach 80 see both squares and none sees neither, which puts this [transit](/astrology/transits/) in nearly everyone's diary at least once.
 
 ## What helps {#what-helps}
 

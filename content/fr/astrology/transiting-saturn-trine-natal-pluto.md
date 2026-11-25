@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Pluton", "trigone", "transits"]
 weight: 1668
 glyph: "♄△♇"
-definition: "Saturne en transit trigone Pluton du thème natal, c’est Saturne, dans le ciel, à 120° du degré qu’occupait Pluton à votre naissance, deux fois par tour de 29 ans et demi. La structure et la transformation vont du même pas : ce que vous avez rebâti peut porter du poids. J’y lis une consolidation, jamais une promesse de pouvoir."
+definition: "Saturne en transit trigone Pluton du thème natal, c’est Saturne, dans le ciel, dans un angle facile de 120° avec le degré qu’occupait Pluton à votre naissance, deux fois par tour de 29 ans et demi. La structure et la transformation vont du même pas : ce que vous avez rebâti peut porter du poids. J’y lis une consolidation."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Pluton ♇, la profondeur, le pouvoir et le renouveau" }
@@ -41,7 +41,7 @@ Le trigone de Saturne à votre Pluton de naissance arrive souvent deux ou trois 
 
 L’aisance n’est pas une fatalité. Un trigone peut faire oublier que sa saison sert à consolider, pas à se reposer sur ce qui est fait, et ses acquis durent quand on les met au travail. Il ne promet pas non plus pouvoir ou réussite : il décrit des conditions où votre propre force s’emploie mieux.
 
-La maison de votre Pluton montre ce qui peut se consolider : en maison 7, le partage du pouvoir dans un couple ou une association ; en maison 2, ce que vous estimez et la façon d’en prendre soin. Les maisons viennent de l’heure de naissance, et je ne lis pas sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). [Saturne trigone Pluton](/astrology/saturn-trine-pluto/) dans un thème natal, l’aspect Saturne-Pluton le plus fréquent parmi les naissances comptées, décrit la même coopération comme un trait ; en transit, elle vient en visite.
+La maison de votre Pluton montre ce qui peut se consolider : en maison 7, le partage du pouvoir dans un couple ou une association ; en maison 2, ce que vous estimez et la façon d’en prendre soin. Les maisons sont fixées par la minute de naissance ; sans elle, je n’ai rien à lire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). [Saturne trigone Pluton](/astrology/saturn-trine-pluto/) dans un thème natal, l’aspect Saturne-Pluton le plus fréquent parmi les naissances comptées, décrit la même coopération comme un trait ; en transit, elle vient en visite.
 
 ## Combien de temps {#combien-de-temps}
 

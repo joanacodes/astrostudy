@@ -24,7 +24,7 @@ faq:
   - q: "Is Uranus trine Venus good for love?"
     a: "It’s among the kindest Uranus transits for relationships, as I read it, because freedom and closeness stop competing. Kind isn’t the same as eventful: the trine doesn’t bring a partner or decide anything. It makes the changes you and the people you love choose easier to live with."
   - q: "How often does Uranus trine Venus?"
-    a: "Twice in most lives: about 28 years before and 28 years after Uranus crosses your Venus, in a round of about 84 years. Each trine stays in orb about twenty months, and in more than nine cases in ten Uranus crosses the exact point three times."
+    a: "Twice in most lives, either 28 or 56 years apart, depending on whether the opposition or the conjunction falls between them. Each trine stays in orb about twenty months, and in more than nine cases in ten Uranus crosses the exact point three times."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the trine comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus trine Venus, among his transits" }

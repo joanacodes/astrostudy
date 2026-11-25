@@ -46,7 +46,7 @@ Within my orbs, from 1½° before exact to 1° after, the sextile lasts about tw
 
 By 80, most people born between 1930 and 2009 have had it once, a few twice, and about 1 in 6 never. On Neptune's round it sits between the conjunction ([transiting Neptune conjunct natal Moon](/astrology/transiting-neptune-conjunct-natal-moon/)) and the square ([transiting Neptune square natal Moon](/astrology/transiting-neptune-square-natal-moon/)); the trine ([transiting Neptune trine natal Moon](/astrology/transiting-neptune-trine-natal-moon/)) and the opposition ([transiting Neptune opposite natal Moon](/astrology/transiting-neptune-opposite-natal-moon/)) lie further on.
 
-From Aries, until 2039, Neptune sextiles Moons in Gemini and Aquarius, the earlier degrees first ([Neptune in Aries, 2026–2039](/astrology/neptune-in-aries-2026-2039/)).
+Moons in Gemini and Aquarius are the ones this sextile reaches during Neptune's years in Aries, to 2039, the earlier degrees first ([Neptune in Aries, 2026–2039](/astrology/neptune-in-aries-2026-2039/)).
 
 ## What helps {#what-helps}
 

@@ -25,7 +25,7 @@ faq:
   - q: "Uranus trigone Vénus, est-ce bon pour l’amour ?"
     a: "C’est l’un des transits d’Uranus les plus doux pour les relations, comme je le lis, parce que liberté et proximité cessent de se faire concurrence. Doux ne veut pas dire riche en événements : le trigone n’amène personne et ne décide rien. Il rend plus faciles à vivre les changements que vous choisissez avec les personnes que vous aimez."
   - q: "Uranus trigone Vénus, c’est tous les combien ?"
-    a: "Deux fois dans la plupart des vies : 28 ans environ avant et 28 ans environ après le passage d’Uranus sur votre Vénus, dans un tour d’environ 84 ans. Chaque trigone reste dans l’orbe une vingtaine de mois, et dans plus de neuf cas sur dix le point exact est franchi trois fois."
+    a: "Deux fois dans la plupart des vies, à 28 ou à 56 ans d’intervalle, selon que l’opposition ou la conjonction tombe entre les deux. Chaque trigone reste dans l’orbe une vingtaine de mois, et dans plus de neuf cas sur dix le point exact est franchi trois fois."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de trigones viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le trigone d’Uranus à Vénus, parmi ses transits" }

@@ -49,7 +49,7 @@ Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le carré met envir
 
 Votre Lune peut se trouver n’importe où par rapport à Neptune, et pourtant un carré lui arrive avant 80 ans pour presque toutes les personnes nées entre 1930 et 2009, deux fois pour certaines. Les carrés tombent entre la conjonction ([Neptune en transit conjonction Lune du thème natal](/astrology/transiting-neptune-conjunct-natal-moon/)) et l’opposition ([Neptune en transit opposition Lune du thème natal](/astrology/transiting-neptune-opposite-natal-moon/)), à un quart de cercle de chacune ; le sextile ([Neptune en transit sextile Lune du thème natal](/astrology/transiting-neptune-sextile-natal-moon/)) se trouve entre la conjonction et un carré, le trigone ([Neptune en transit trigone Lune du thème natal](/astrology/transiting-neptune-trine-natal-moon/)) entre un carré et l’opposition. Si votre naissance porte [Lune carré Neptune](/astrology/moon-square-neptune/), vous connaissez cette tension au quotidien ; le transit l’apporte à tout le monde le temps d’une saison.
 
-Depuis le Bélier, jusqu’en 2039, Neptune forme un carré aux Lunes en Cancer et en Capricorne, les premiers degrés d’abord.
+Les Lunes en Cancer et en Capricorne sont les prochaines à recevoir ce carré, les premiers degrés d’abord, d’ici 2039.
 
 ## Ce qui aide {#ce-qui-aide}
 

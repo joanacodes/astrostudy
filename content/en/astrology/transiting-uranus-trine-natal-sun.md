@@ -24,7 +24,7 @@ faq:
   - q: "Is Uranus trine Sun a good transit?"
     a: "It’s one of the easier Uranus transits, because a trine relates two planets through flow rather than friction. Easy isn’t automatic, though. Nothing arrives on its own under a trine: it makes the change you choose cheaper, and many people only notice it afterwards, once the chance has gone by."
   - q: "When will Uranus trine my Sun?"
-    a: "Between 2025 and 2033 Uranus crosses Gemini, so it trines Suns in Libra and Aquarius. Over a whole life, the two trines fall about 28 years before and about 28 years after Uranus crosses your Sun. Most people see both before 80; a few see only one."
+    a: "Between 2025 and 2033 Uranus crosses Gemini, so it trines Suns in Libra and Aquarius. Over a whole life there are two, and most people see both before 80; the rest see one."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the trine comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to the Sun" }

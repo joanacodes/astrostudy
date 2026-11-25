@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Ascendant", "sextile", "transits"]
 weight: 1671
 glyph: "♄⚹AC"
-definition: "Saturne en transit sextile Ascendant du thème natal, c’est Saturne, dans le ciel, à 60° du degré qui se levait à votre naissance, deux fois par tour de 29 ans et demi. La stabilité devient accessible à votre façon d’aborder les gens et les situations, si vous la saisissez. J’y lis une ouverture concrète, jamais une garantie."
+definition: "Saturne en transit sextile Ascendant du thème natal, c’est Saturne, dans le ciel, à 60° du degré qui se levait à votre naissance, environ cinq ans avant ou après son passage sur ce degré. La stabilité devient accessible à votre façon d’aborder les gens et les situations, si vous la saisissez. J’y lis une ouverture concrète, jamais une garantie."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "L’Ascendant AC, votre façon d’aborder le monde" }
@@ -24,9 +24,9 @@ faq:
   - q: "Que veut dire Saturne en transit sextile Ascendant ?"
     a: "Saturne, dans le ciel, est à 60° de votre degré ascendant : la stabilité et la structure sont offertes à votre façon d’aborder le monde. C’est une bonne saison pour accepter un rôle qui convient à votre manière d’être, ou pour vous exercer à une façon de vous présenter que vous aimeriez garder. Comme tout sextile, il faut le saisir."
   - q: "Combien de temps dure Saturne sextile Ascendant ?"
-    a: "Neuf mois environ, comptés avec mes orbes de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, Saturne revient en arrière pour trois passages exacts sur neuf mois et demi environ ; avec un seul passage exact, tout peut se jouer en trois semaines."
+    a: "Saturne passe neuf mois environ dans ce sextile, avec mes orbes de 1,5° avant l’exactitude et 1° après ; les boucles à trois passages exacts sont un peu plus fréquentes qu’un passage unique, qui peut se terminer en trois semaines. Votre degré ascendant, donc votre heure de naissance, fixe les dates."
   - q: "Quand vient le sextile de Saturne à mon Ascendant ?"
-    a: "Deux fois par tour de 29 ans et demi : environ cinq ans après le passage de Saturne sur votre Ascendant, et environ cinq ans avant le suivant. Les mois exacts dépendent de votre degré ascendant, donc de votre heure de naissance. Avec un ascendant Gémeaux ou Verseau, les années de Saturne en Bélier, jusqu’en avril 2028, en apportent un."
+    a: "Deux fois par tour : environ cinq ans après le passage de Saturne sur votre Ascendant, et environ cinq ans avant le suivant. Les mois exacts suivent votre degré ascendant, donc votre heure de naissance. Les ascendants Gémeaux et Verseau en vivent un maintenant, pendant les années de Saturne en Bélier, qui s’achèvent en avril 2028."
   - q: "Saturne sextile Ascendant, est-ce le moment de commencer quelque chose ?"
     a: "Le moment de commencer ce que vous comptez garder, je dirais : une formation, un rôle, une façon régulière de vous montrer. Le sextile favorise les débuts qui viennent avec un plan. Il ne promet rien de leur issue ; il rend la démarche patiente plus facile à prendre."
 sources:

@@ -48,7 +48,7 @@ Avec [Lune trigone Uranus](/astrology/moon-trine-uranus/) dans votre thème nata
 
 ## Combien de temps {#combien-de-temps}
 
-Comptez une vingtaine de mois pour le trigone, de 1,5° avant l’exactitude à 1° après ; un passage rapide, environ un sur dix, peut s’achever en onze. Dans plus de neuf cas sur dix, le trigone connaît trois sommets exacts plutôt qu’un, car Uranus repasse en boucle sur le point.
+Comptez une vingtaine de mois pour le trigone, de 1,5° avant l’exactitude à 1° après ; un passage rapide, environ un sur dix, peut s’achever en onze. Dans plus de neuf cas sur dix, le trigone connaît trois sommets exacts plutôt qu’un, car Uranus repasse en boucle sur le point.
 
 Les deux trigones se trouvent aux points larges du tour qu’Uranus fait avec votre Lune. Après [Uranus en transit conjonction Lune du thème natal](/astrology/transiting-uranus-conjunct-natal-moon/), viennent d’abord [Uranus en transit sextile Lune du thème natal](/astrology/transiting-uranus-sextile-natal-moon/) et [Uranus en transit carré Lune du thème natal](/astrology/transiting-uranus-square-natal-moon/) ; le premier trigone suit vers 28 ans, [Uranus en transit opposition Lune du thème natal](/astrology/transiting-uranus-opposite-natal-moon/) vers 42 ans, et le second trigone vers 56 ans. Deux trigones avant 80 ans, c’est le compte habituel pour les naissances de 1930 à 2009, un seul au minimum : ce [transit](/astrology/transits/) est une saison de beau temps que la plupart des gens connaissent deux fois.
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Neptune", "opposition", "transits"]
 weight: 1664
 glyph: "♄☍♆"
-definition: "Saturne en transit opposition Neptune du thème natal, c’est Saturne, dans le ciel, face au degré qu’occupait Neptune à votre naissance, une fois par tour de 29 ans et demi. Ce qui se mesure et ce qui s’imagine se font face, souvent à travers quelqu’un, et demandent à tenir ensemble. J’y lis un idéalisme pratique, jamais un verdict."
+definition: "Saturne en transit opposition Neptune du thème natal, c’est Saturne, dans le ciel, juste en face du degré qu’occupait Neptune à votre naissance, une quinzaine d’années après le passage sur ce point. Ce qui se mesure et ce qui s’imagine se font face, souvent à travers quelqu’un, et demandent à tenir ensemble. J’y lis un idéalisme pratique, jamais un verdict."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Neptune ♆, l’imagination et la compassion" }
@@ -24,16 +24,16 @@ faq:
   - q: "Que veut dire Saturne en transit opposition Neptune ?"
     a: "Saturne, dans le ciel, fait face à votre Neptune de naissance depuis l’autre côté du thème : ce qui se mesure et ce qui ne peut que s’imaginer se tiennent aux deux bouts d’une même ligne. Souvent, quelqu’un joue l’un des rôles, la personne réaliste qui demande des preuves ou la rêveuse qui rappelle pourquoi vous avez commencé."
   - q: "Combien de temps dure Saturne opposition Neptune en transit ?"
-    a: "Neuf mois environ en général, avec mes orbes de 1,5° avant l’exactitude et 1° après. Un peu plus d’une fois sur deux, Saturne revient en arrière pour trois passages exacts, ce qui prend neuf mois et demi environ ; avec un seul passage exact, tout peut finir en trois semaines."
+    a: "De 1,5° avant l’exactitude à 1° après, mes orbes, elle dure en général neuf mois environ. Dans un peu plus de la moitié des cas, Saturne fait demi-tour de l’autre côté et l’opposition est exacte trois fois ; un seul passage exact peut la réduire à trois semaines."
   - q: "À quel âge vient l’opposition de Saturne à mon Neptune ?"
-    a: "Environ tous les 29 ans et demi, à des âges que partage toute une année de naissance. Pour une naissance en 1955, vers 14, 43 et 72 ans ; en 1975, vers 26 et 56 ans ; en 1985, vers 18 et 47 ans. La plupart des personnes nées entre 1942 et 1957 en vivent une entre 2025 et 2028."
+    a: "Environ tous les 29 ans et demi, à des âges que partage toute une année de naissance. Pour une naissance en 1955, vers 14, 43 et 72 ans ; en 1975, vers 26 et 56 ans ; en 1985, vers 18 et 47 ans. Pour une naissance entre 1942 et 1957, la vôtre tombe entre 2025 et 2028."
   - q: "Saturne opposition Neptune, est-ce une déception amoureuse ?"
     a: "Ce peut être voir quelqu’un plus clairement, ce qui n’est pas la même chose. Une opposition passe souvent par les autres, et une image idéalisée peut rencontrer la personne telle qu’elle est. Ce que vous faites de ce regard plus net vous appartient ; le transit ne prédit ni séparation ni retrouvailles."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée avec mes orbes, le nombre avant 80 ans et l’âge de la première" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Saturne, lus un à un" }
 ---
-À mi-parcours de son cycle avec votre Neptune, une quinzaine d’années après le passage sur ce point, Saturne se tient de l’autre côté de votre thème. Ce que vous savez et ce que vous espérez se retrouvent face à face, et les gens autour de vous prennent souvent chacun un côté.
+Un demi-tour de Saturne après le passage sur votre Neptune, une quinzaine d’années plus tard, Saturne regarde ce degré depuis l’autre côté de votre thème. Ce que vous savez et ce que vous espérez se retrouvent face à face, et les gens autour de vous prennent souvent chacun un côté.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -41,13 +41,13 @@ sources:
 
 Une polarité n’est pas une contradiction, et je n’y lis pas de vainqueur. La saison demande un idéalisme pratique : un rêve que l’on peut décrire en heures et en étapes, une structure dont on peut dire à quoi elle sert. Ce qui s’est mis en mouvement quand Saturne a franchi votre Neptune, une quinzaine d’années plus tôt ([Saturne en transit conjonction Neptune du thème natal](/astrology/transiting-saturn-conjunct-natal-neptune/)), se voit maintenant depuis l’autre rive, et une partie demande à être repesée.
 
-La maison de Neptune montre ce que vous idéalisez ; la maison opposée, où se trouve Saturne, montre d’où vient l’appel au réalisme. Avec Neptune en maison 1, Saturne traverse votre maison 7, et ce sont parfois vos partenaires qui demandent des contours plus nets. Ces deux maisons demandent votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison de Neptune montre ce que vous idéalisez ; la maison opposée, où se trouve Saturne, montre d’où vient l’appel au réalisme. Avec Neptune en maison 1, Saturne traverse votre maison 7, et ce sont parfois vos partenaires qui demandent des contours plus nets. C’est votre heure de naissance qui fixe ces deux maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
 Du jour où Saturne arrive à 1,5° de l’opposition à votre Neptune au jour où Saturne l’a dépassée de 1°, mes orbes, il s’écoule en général neuf mois environ. Un peu plus d’une fois sur deux, Saturne rétrograde de l’autre côté et revient, si bien que l’opposition est exacte trois fois ; les autres fois, elle ne l’est qu’une fois, et ne dure parfois que trois semaines.
 
-Une fois par tour, environ tous les 29 ans et demi, cela fait deux ou trois oppositions avant 80 ans, et tout le monde en vit au moins deux. Neptune avance si lentement que chaque classe d’âge garde son propre calendrier : pour une naissance en 1955, vers 14, 43 et 72 ans ; en 1975, vers 26 et 56 ans ; en 1935 ou en 2005, dans les deux premières années, tout près de [Saturne opposition Neptune](/astrology/saturn-opposite-neptune/) que portent ces naissances. L’opposition est en cours pour la plupart des personnes nées entre 1942 et 1957, dont le Neptune est en Balance, pendant que Saturne traverse le Bélier jusqu’en avril 2028. La génération de Neptune en Scorpion, née entre 1956 et 1970, suit pendant la traversée du Taureau par Saturne, de 2028 à 2030.
+Une fois par tour, environ tous les 29 ans et demi, cela fait deux ou trois oppositions avant 80 ans, et tout le monde en vit au moins deux. Neptune avance si lentement que chaque classe d’âge garde son propre calendrier : pour une naissance en 1955, vers 14, 43 et 72 ans ; en 1975, vers 26 et 56 ans ; en 1935 ou en 2005, dans les deux premières années, tout près de [Saturne opposition Neptune](/astrology/saturn-opposite-neptune/) que portent ces naissances. L’opposition est en cours pour la plupart des personnes nées entre 1942 et 1957, qui ont Neptune en Balance, pendant que Saturne traverse le Bélier jusqu’en avril 2028. La génération de Neptune en Scorpion, née entre 1956 et 1970, suit pendant la traversée du Taureau par Saturne, de 2028 à 2030.
 
 Chacun des autres transits Saturne-Neptune tombe deux fois entre deux passages, une fois à l’aller vers cette opposition et une fois au retour : [Saturne en transit sextile Neptune du thème natal](/astrology/transiting-saturn-sextile-natal-neptune/), [Saturne en transit carré Neptune du thème natal](/astrology/transiting-saturn-square-natal-neptune/), [Saturne en transit trigone Neptune du thème natal](/astrology/transiting-saturn-trine-natal-neptune/).
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Neptune", "carré", "transits"]
 weight: 1662
 glyph: "♄□♆"
-definition: "Saturne en transit carré Neptune du thème natal, c’est Saturne, dans le ciel, à 90° du degré qu’occupait Neptune à votre naissance, deux fois par tour de 29 ans et demi. L’épreuve du réel presse un idéal jusqu’à ce que le projet ou l’espoir s’ajuste. J’y lis un changement de cap, jamais la fin d’un rêve."
+definition: "Saturne en transit carré Neptune du thème natal, c’est Saturne, dans le ciel, à angle droit avec le degré qu’occupait Neptune à votre naissance, environ tous les quinze ans. L’épreuve du réel presse un idéal jusqu’à ce que le projet ou l’espoir s’ajuste. J’y lis un changement de cap, jamais la fin d’un rêve."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Neptune ♆, l’imagination et la compassion" }
@@ -26,7 +26,7 @@ faq:
   - q: "Combien de temps dure Saturne carré Neptune en transit ?"
     a: "Neuf mois environ en général, comptés avec mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, la boucle rétrograde de Saturne donne trois passages exacts en neuf mois et demi environ ; avec un seul passage exact, tout peut passer en trois semaines."
   - q: "Quand ai-je Saturne carré Neptune ?"
-    a: "Deux fois par tour de Saturne, à une quinzaine d’années d’écart, et les personnes nées la même année partagent les dates. Pour une naissance en 1985, vers 11, 25 et 40 ans ; en 1995, vers 3, 17 et 32 ans. La plupart des personnes nées entre 1984 et 1998 en vivent un entre 2025 et 2028."
+    a: "Deux fois par tour de Saturne, à une quinzaine d’années d’écart, et les personnes nées la même année partagent les dates. Pour une naissance en 1985, vers 11, 25 et 40 ans ; en 1995, vers 3, 17 et 32 ans. Pour une naissance entre 1984 et 1998, il tombe sans doute entre 2025 et 2028."
   - q: "Saturne carré Neptune, est-ce une dépression ?"
     a: "Aucun thème ne peut en causer ni en diagnostiquer une. Le carré peut coïncider avec le doute ou une perte d’élan, une saison où croire en quelque chose et s’y présenter ne vont pas facilement ensemble. Si une humeur sombre dure, voyez un médecin ou une ou un thérapeute ; le transit ne décrit que le climat."
 sources:

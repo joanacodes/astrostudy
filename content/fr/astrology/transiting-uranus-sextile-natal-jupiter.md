@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Jupiter", "sextile", "transits"]
 weight: 1706
 glyph: "♅⚹♃"
-definition: "Uranus en transit sextile Jupiter du thème natal, c’est Uranus à 60° du degré qu’occupait Jupiter à votre naissance, pendant une vingtaine de mois, deux fois dans la plupart des vies. Une idée, une méthode ou un domaine neuf peut élargir votre compréhension de votre vie, à condition de vous en saisir. J’y lis une invitation, pas un cadeau."
+definition: "Uranus en transit sextile Jupiter du thème natal, c’est Uranus à 60° du degré qu’occupait Jupiter à votre naissance, une vingtaine de mois, deux fois le plus souvent, à 28 ou 56 ans d’écart. Une idée, une méthode ou un domaine neuf peut élargir votre compréhension de votre vie, à condition de vous en saisir. J’y lis une invitation, pas un cadeau."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Jupiter ♃ : croissance, sens et convictions" }

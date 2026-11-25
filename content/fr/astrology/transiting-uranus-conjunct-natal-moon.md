@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/moon", "/astrology/conjunction", "/astrology/moon-conjunct-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit conjonction Lune du thème natal ?"
-    a: "Uranus se tient sur votre Lune de naissance, ou à un degré près, pour une vingtaine de mois. J’y lis une saison où votre façon de prendre soin de vous change de forme : des routines qui vous apaisaient se mettent à serrer, des besoins inaperçus demandent de la place, et votre façon de vivre chez vous peut demander à être réarrangée de l’intérieur."
+    a: "Uranus se tient sur votre Lune de naissance, ou à un degré près, pour une vingtaine de mois. J’y lis une saison où votre manière de prendre soin de vous change de forme : des routines qui vous apaisaient se mettent à serrer, des besoins inaperçus réclament de la place, et la vie chez vous peut se réarranger de l’intérieur."
   - q: "Uranus conjonction Lune, est-ce un déménagement ?"
     a: "Pas comme je le lis. Un transit ne décide pas d’un déménagement, et je ne m’en sers jamais pour en prédire un. Uranus sur la Lune décrit un besoin de plus d’air dans votre façon de vivre et de ressentir ; certaines personnes y répondent en déménageant, beaucoup en changeant leur façon de vivre là où elles sont."
   - q: "À quel âge vient la conjonction d’Uranus à la Lune ?"

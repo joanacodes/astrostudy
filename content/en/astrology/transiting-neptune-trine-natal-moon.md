@@ -46,7 +46,7 @@ Within my orbs, from 1½° before exact to 1° after, Neptune holds the [transit
 
 By 80, about 1 in 6 people born between 1930 and 2009 have never had it; most have had it once, and a few twice. Of Neptune's two easy contacts with your Moon, the trine lies nearer the opposition ([transiting Neptune opposite natal Moon](/astrology/transiting-neptune-opposite-natal-moon/)), the sextile ([transiting Neptune sextile natal Moon](/astrology/transiting-neptune-sextile-natal-moon/)) nearer the conjunction ([transiting Neptune conjunct natal Moon](/astrology/transiting-neptune-conjunct-natal-moon/)); the square ([transiting Neptune square natal Moon](/astrology/transiting-neptune-square-natal-moon/)) sits between them.
 
-From Aries, until 2039, Neptune trines Leo and Sagittarius Moons ([Neptune in Aries, 2026–2039](/astrology/neptune-in-aries-2026-2039/)).
+Until 2039, Leo and Sagittarius Moons are the ones in this trine's path ([Neptune in Aries, 2026–2039](/astrology/neptune-in-aries-2026-2039/)).
 
 ## What helps {#what-helps}
 

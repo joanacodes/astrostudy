@@ -25,7 +25,7 @@ faq:
   - q: "Vais-je rencontrer quelqu’un sous Uranus conjonction Vénus ?"
     a: "Je ne lis pas un transit pour les rencontres, les nouvelles amours ou les fins. Celui-ci décrit un changement dans ce qui vous attire et dans l’espace dont vous avez besoin, en amour comme en amitié. Qui vous rencontrez, et ce que vous en faites, dépend de votre vie plutôt que du ciel."
   - q: "Uranus conjonction Vénus, c’est tous les combien ?"
-    a: "Elle vient une fois au plus, parce qu’Uranus met environ 84 ans à revenir au même point ; votre âge à ce moment dépend de l’avance de votre Vénus sur Uranus à la naissance. Pour environ une personne sur 25, elle arrive après 80 ans. Une fois là, elle reste une vingtaine de mois."
+    a: "Elle vient une fois au plus, parce qu’Uranus met environ 84 ans à revenir au même point ; votre âge à ce moment dépend de l’avance de votre Vénus sur Uranus à la naissance. Environ 1 personne sur 25 devrait vivre au-delà de 80 ans pour la rencontrer. Une fois là, elle reste une vingtaine de mois."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent la conjonction avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "la conjonction d’Uranus à Vénus, parmi ses transits" }
@@ -48,7 +48,7 @@ On décrit souvent [Vénus conjonction Uranus](/astrology/venus-conjunct-uranus/
 
 Uranus passe une vingtaine de mois dans mes orbes de votre Vénus, de 1,5° avant l’exactitude à 1° après, assez longtemps pour que Vénus, dans le ciel, devienne rétrograde une fois ; les passages les plus brefs prennent onze mois environ. Uranus touche trois fois le degré exact, sauf dans un passage sur quatorze environ.
 
-Des cinq étapes qu’Uranus parcourt avec votre Vénus, seules celle-ci et [Uranus en transit opposition Vénus du thème natal](/astrology/transiting-uranus-opposite-natal-venus/) viennent une fois au plus. [Uranus en transit sextile Vénus du thème natal](/astrology/transiting-uranus-sextile-natal-venus/), [Uranus en transit carré Vénus du thème natal](/astrology/transiting-uranus-square-natal-venus/) et [Uranus en transit trigone Vénus du thème natal](/astrology/transiting-uranus-trine-natal-venus/) viennent deux fois, à quatorze, vingt et 28 ans environ de part et d’autre de ce passage. En 80 ans, Uranus atteint la Vénus de presque toutes les personnes nées entre 1930 et 2009 ; environ une sur 25 fait exception.
+Des cinq étapes qu’Uranus parcourt avec votre Vénus, seules celle-ci et [Uranus en transit opposition Vénus du thème natal](/astrology/transiting-uranus-opposite-natal-venus/) viennent une fois au plus. [Uranus en transit sextile Vénus du thème natal](/astrology/transiting-uranus-sextile-natal-venus/), [Uranus en transit carré Vénus du thème natal](/astrology/transiting-uranus-square-natal-venus/) et [Uranus en transit trigone Vénus du thème natal](/astrology/transiting-uranus-trine-natal-venus/) viennent deux fois, à quatorze, vingt et 28 ans environ de part et d’autre de ce passage. En 80 ans, Uranus atteint la Vénus de presque toutes les personnes nées entre 1930 et 2009, mais environ 1 personne sur 25 reste à l’écart.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Uranus", "opposition", "transits"]
 weight: 1659
 glyph: "♄☍♅"
-definition: "Saturne en transit opposition Uranus du thème natal, c’est Saturne, dans le ciel, face au degré qu’occupait Uranus à votre naissance, une fois par tour de 29 ans et demi. Vos engagements et votre besoin d’air se regardent, souvent à travers quelqu’un d’autre, et demandent un équilibre. J’y lis une saison de renégociation, jamais l’annonce d’une rupture."
+definition: "Saturne en transit opposition Uranus du thème natal, c’est Saturne, dans le ciel, face au degré qu’occupait Uranus à votre naissance depuis l’autre bout du zodiaque, à mi-parcours de chaque tour de 29 ans et demi. Vos engagements et votre besoin d’air se regardent, souvent à travers quelqu’un, et demandent un équilibre. J’y lis une renégociation, jamais une rupture annoncée."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Uranus ♅, le changement et la liberté" }
@@ -24,10 +24,10 @@ faq:
   - q: "Que veut dire Saturne en transit opposition Uranus ?"
     a: "Saturne, dans le ciel, se tient de l’autre côté du thème par rapport à votre Uranus de naissance : les structures dans lesquelles vous vivez et votre besoin d’air se font face. Souvent, l’un des deux côtés prend les traits de quelqu’un, qui veut des règles ou qui veut partir. J’y lis une saison pour renégocier."
   - q: "Combien de temps dure Saturne opposition Uranus en transit ?"
-    a: "Neuf mois environ en général, avec mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, la rétrogradation de Saturne donne trois passages exacts en neuf mois et demi environ ; avec un seul passage exact, tout peut tenir en trois semaines."
+    a: "Neuf mois environ, en règle générale, de 1,5° avant l’exactitude à 1° après. Saturne rétrograde quelque quatre mois et demi chaque année, et un peu plus d’une fois sur deux ce demi-tour ramène Saturne pour trois passages exacts ; un seul passage exact peut ne durer que trois semaines."
   - q: "À quel âge vient l’opposition de Saturne à Uranus ?"
     a: "Cela dépend de votre année de naissance, et les personnes nées la même année le vivent au même âge, à un an près. Pour une naissance en 1975, la première vers 23 ans et la suivante vers 53 ans ; en 1955, vers 6 ans, puis 35 et 65 ans. Elle revient environ tous les 29 ans et demi."
-  - q: "Saturne opposition Uranus annonce-t-il une rupture ou une démission ?"
+  - q: "Est-ce que Saturne opposition Uranus annonce une rupture ou une démission ?"
     a: "Aucun transit n’en décide. Une opposition fait souvent apparaître une tension entre ce que vous avez promis et ce dont vous avez besoin pour rester vous-même, et l’envie de partir peut venir avec. Ce que vous en faites vous appartient : je lis la saison, jamais son issue."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée avec mes orbes, le nombre avant 80 ans et l’âge de la première" }
@@ -41,7 +41,7 @@ sources:
 
 J’y lis une renégociation plutôt qu’un combat. Une polarité n’est pas une contradiction : le travail consiste à voir ce que chaque bout protège, puis à redessiner l’arrangement pour que les deux gardent leur place. L’envie de tout quitter peut être forte, celle de tout verrouiller aussi. Le transit n’exige ni l’une ni l’autre, et ne dit rien de la durée d’un emploi ou d’une relation : cela reste à vous de le décider, avec une vue plus complète.
 
-La maison de votre Uranus dit où vous avez besoin d’air ; la maison opposée, que Saturne traverse, dit d’où vient l’appel à la structure. Avec Uranus en maison 10, Saturne arrive en maison 4 : les besoins du foyer mis en balance avec l’indépendance au travail. Ces deux maisons viennent de l’heure de naissance, et c’est pourquoi je ne lis pas de thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison de votre Uranus dit où vous avez besoin d’air ; la maison opposée, que Saturne traverse, dit d’où vient l’appel à la structure. Avec Uranus en maison 10, Saturne arrive en maison 4 : les besoins du foyer mis en balance avec l’indépendance au travail. Les deux maisons sont fixées par l’heure de naissance, et un thème qui en manque me reste fermé ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

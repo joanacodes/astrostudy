@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Ascendant", "carré", "transits"]
 weight: 1672
 glyph: "♄□AC"
-definition: "Saturne en transit carré Ascendant du thème natal, c’est Saturne, dans le ciel, à 90° du degré qui se levait à votre naissance, deux fois par tour de 29 ans et demi. Les devoirs, chez vous ou en public, pressent votre façon habituelle d’aborder les choses. J’y lis une friction qui affine votre manière d’être, jamais un revers."
+definition: "Saturne en transit carré Ascendant du thème natal, c’est Saturne, dans le ciel, à 90° du degré qui se levait à votre naissance, une fois près du bas du thème, une fois près du haut, à chaque tour. Les devoirs pressent votre façon habituelle d’aborder les choses. J’y lis une friction qui affine votre manière d’être, pas un revers."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "L’Ascendant AC, votre façon d’aborder le monde" }
@@ -24,11 +24,11 @@ faq:
   - q: "Que veut dire Saturne en transit carré Ascendant ?"
     a: "Saturne, dans le ciel, est à 90° de votre degré ascendant : les structures autour de vous, chez vous ou dans la vie publique, pressent votre façon habituelle d’aborder le monde. L’habitude qui marchait jusque-là peut demander un ajustement. J’y lis une friction utile qui affine votre manière d’être, pas un revers ni un jugement."
   - q: "Combien de temps dure Saturne carré Ascendant ?"
-    a: "Neuf mois environ dans mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, le carré se fait en trois passages exacts sur neuf mois et demi environ, quand Saturne repart en arrière ; avec un seul passage exact, tout peut tenir en trois semaines."
+    a: "La plupart durent neuf mois environ, comptés de 1,5° avant l’exactitude à 1° après. Dans un peu plus de la moitié des cas, Saturne touche trois fois le degré exact ; sinon une seule fois, et les plus courts durent trois semaines. Dix minutes d’erreur sur votre heure de naissance déplacent les dates de plus de deux mois."
   - q: "Saturne carré Ascendant, est-ce la même chose que Saturne sur le Milieu du Ciel ?"
     a: "Pas tout à fait. L’un des deux carrés tombe près de votre Milieu du Ciel et l’autre près de votre Fond du Ciel, mais le Milieu du Ciel est rarement à 90° exacts de l’Ascendant : le carré et le passage sur l’angle viennent donc en général à des moments différents, à quelques semaines ou à plus d’un an d’écart."
   - q: "Quand vient le carré de Saturne à mon Ascendant ?"
-    a: "Deux fois par tour de Saturne, environ sept ans après son passage sur votre Ascendant et environ sept ans avant le suivant. Les mois exacts dépendent de votre degré ascendant, donc de votre heure de naissance. Avec un ascendant Cancer ou Capricorne, les années de Saturne en Bélier, jusqu’en avril 2028, en apportent un."
+    a: "Deux fois par tour de Saturne, environ sept ans après son passage sur votre Ascendant et environ sept ans avant le suivant. Votre heure de naissance fixe le degré ascendant, et donc les mois. Avec un ascendant Cancer ou Capricorne, le carré en cours vient de Saturne en Bélier, jusqu’en avril 2028."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée avec mes orbes, et son nombre avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits aux angles, lus un à un" }

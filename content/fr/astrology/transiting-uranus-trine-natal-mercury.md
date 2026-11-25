@@ -25,12 +25,12 @@ faq:
   - q: "Uranus trigone Mercure, est-ce bon pour écrire ?"
     a: "Comme je le lis, c’est l’un des climats les plus favorables à l’écriture, à l’étude ou à tout travail d’idées, parce que l’invention et l’expression vont ensemble. Le risque est celui de tout trigone : des idées faciles laissées en plan. Un projet avec une échéance tire bien mieux parti de ce transit qu’un carnet de débuts."
   - q: "Uranus trigone Mercure, c’est tous les combien ?"
-    a: "Deux fois par tour d’Uranus, soit tous les 84 ans environ : 28 ans environ avant et 28 ans environ après son passage sur votre Mercure. Avant 80 ans, presque toutes les personnes nées entre 1930 et 2009 ont connu les deux, et aucune moins d’un. Chaque visite dure une vingtaine de mois."
+    a: "Il y en a deux par tour de 84 ans. Avant 80 ans, la majorité des personnes nées entre 1930 et 2009 ont connu les deux. Chaque visite dure une vingtaine de mois, en général avec trois passages exacts."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de trigones viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le trigone d’Uranus à Mercure, parmi ses transits" }
 ---
-Environ 28 ans avant qu’Uranus n’atteigne votre Mercure, et environ 28 ans après, les deux forment un trigone. Vingt mois chaque fois, penser autrement cesse d’être une lutte avec votre entourage, et peut devenir ce qu’on vient chercher chez vous.
+Chacun des deux trigones d’Uranus à votre Mercure tombe entre un carré et l’opposition. Vingt mois chaque fois, penser autrement cesse d’être une lutte avec votre entourage, et peut devenir ce qu’on vient chercher chez vous.
 
 ## Ce qui change {#ce-qui-change}
 

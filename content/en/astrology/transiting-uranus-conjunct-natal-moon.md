@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/moon", "/astrology/conjunction", "/astrology/moon-conjunct-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus conjunct natal Moon mean?"
-    a: "Uranus is on your birth Moon now, or within a degree or so, and stays for about twenty months. I read it as a season when the way you look after yourself changes shape: routines that soothed you start to feel tight, needs you hadn’t noticed ask for room, and the way you live at home may want rearranging from the inside."
+    a: "Uranus is on your birth Moon, or within a degree or so, for about twenty months. I read it as a season when the way you look after yourself changes shape: routines that soothed you start to feel tight, needs you hadn’t noticed ask for room, and home life may want rearranging from the inside."
   - q: "Does Uranus conjunct Moon mean moving house?"
     a: "Not as I read it. A transit doesn’t decide a move, and I never use one to predict it. Uranus on the Moon describes a need for more room in how you live and feel; some people answer it by moving, and many by changing how they live where they already are."
   - q: "At what age does Uranus conjunct the Moon?"

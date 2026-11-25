@@ -47,7 +47,7 @@ Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le sextile dure env
 
 Avant 80 ans, la plupart des personnes nées entre 1930 et 2009 l’ont connu une fois, quelques-unes deux fois, et environ 1 sur 6 jamais. Sur le cercle de Neptune, il se place entre la conjonction ([Neptune en transit conjonction Lune du thème natal](/astrology/transiting-neptune-conjunct-natal-moon/)) et le carré ([Neptune en transit carré Lune du thème natal](/astrology/transiting-neptune-square-natal-moon/)) ; le trigone ([Neptune en transit trigone Lune du thème natal](/astrology/transiting-neptune-trine-natal-moon/)) et l’opposition ([Neptune en transit opposition Lune du thème natal](/astrology/transiting-neptune-opposite-natal-moon/)) sont plus loin.
 
-Depuis le Bélier, jusqu’en 2039, Neptune forme un sextile aux Lunes en Gémeaux et en Verseau, les premiers degrés d’abord ([Neptune en Bélier, 2026-2039](/astrology/neptune-in-aries-2026-2039/)).
+Ce sont les Lunes en Gémeaux et en Verseau que ce sextile atteint pendant les années de Neptune en Bélier, jusqu’en 2039, les premiers degrés d’abord ([Neptune en Bélier, 2026-2039](/astrology/neptune-in-aries-2026-2039/)).
 
 ## Ce qui aide {#ce-qui-aide}
 

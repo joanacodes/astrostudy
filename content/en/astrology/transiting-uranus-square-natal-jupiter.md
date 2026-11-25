@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Jupiter", "square", "transits"]
 weight: 1707
 glyph: "♅□♃"
-definition: "Transiting Uranus square natal Jupiter is Uranus 90° from the degree Jupiter held at your birth, for about twenty months, usually twice in a life. Your principles meet an idea they didn’t plan for, and the friction asks you to revise them. I read it as an update to your outlook, never a loss of faith."
+definition: "Transiting Uranus square natal Jupiter is Uranus 90° from the degree Jupiter held at your birth, for about twenty months, twice in most lives and some forty years apart. Your principles meet an idea they didn’t plan for, and the friction asks you to revise them. I read it as an update to your outlook, never a loss of faith."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Jupiter ♃: growth, meaning and what you believe" }
@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Uranus square natal Jupiter mean?"
     a: "Uranus stands 90° from your natal Jupiter, the part of your chart that builds meaning and belief. I read it as constructive friction: a framework you grew by stops explaining enough, and a new idea pushes for room. The square asks you to revise your principles, not to throw them all out."
   - q: "How long does Uranus square Jupiter last?"
-    a: "About twenty months within my orbs, from 1½° before the exact square to 1° after, and about eleven months for the quickest passes. In more than nine cases out of ten Uranus makes the exact square three times, forward, backward while retrograde, then forward again: long enough for a framework of belief to be revised rather than dropped."
+    a: "Long enough to revise a framework of belief rather than drop it: about twenty months within my orbs, from 1½° before the exact square to 1° after, and about eleven for the quickest passes. In more than nine cases out of ten Uranus makes the exact square three times, forward, backward while retrograde, then forward again."
   - q: "Is Uranus square Jupiter bad?"
     a: "No. A square is friction, and friction is how a set of beliefs gets tested and updated. The season can feel unsettling while an outlook you relied on stops fitting, but it isn’t a verdict on your choices, and nothing about it predicts a loss, a failure or any other event."
   - q: "At what age does Uranus square Jupiter?"

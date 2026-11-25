@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Saturne", "conjonction", "transits"]
 weight: 1710
 glyph: "♅☌♄"
-definition: "Uranus en transit conjonction Saturne du thème natal, c’est Uranus sur le degré qu’occupait Saturne à votre naissance, une vingtaine de mois, une fois au plus dans une vie. Les deux maîtres du Verseau se rejoignent : les règles de la maison de Saturne se réforment au lieu de disparaître. J’y lis une rénovation menée par la personne responsable."
+definition: "Uranus en transit conjonction Saturne du thème natal, c’est Uranus sur le degré qu’occupait Saturne à votre naissance, une vingtaine de mois, une fois au plus : les deux maîtres du Verseau sur un même point. Les règles de la maison de Saturne se réforment au lieu de disparaître. J’y lis une rénovation menée par la personne responsable."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Saturne ♄ : structure, responsabilité et temps" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/saturn", "/astrology/conjunction", "/astrology/saturn-conjunct-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit conjonction Saturne du thème natal ?"
-    a: "Uranus passe sur le degré qu’occupait Saturne à votre naissance, une fois au plus dans une vie. J’y lis les règles et les devoirs qui organisent votre vie réécrits de l’intérieur : la structure de la maison de Saturne demeure, mais ses raisons et sa forme changent. C’est une réforme menée par la personne responsable, pas un effondrement."
+    a: "Uranus passe sur Saturne dans votre thème une fois au plus dans une vie, et les deux maîtres du Verseau partagent un degré. J’y lis les règles et les devoirs qui organisent votre vie réécrits de l’intérieur : la structure de la maison de Saturne demeure, mais ses raisons et sa forme changent. C’est une réforme menée par la personne responsable, pas un effondrement."
   - q: "Combien de temps dure Uranus conjonction Saturne ?"
-    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant la conjonction exacte à 1° après, et onze environ pour les passages les plus rapides. Plus de neuf fois sur dix, Uranus passe trois fois sur Saturne, à cause de la boucle rétrograde annuelle : une règle réécrite au premier passage est mise à l’épreuve deux fois encore."
+    a: "Assez pour qu’une règle soit réécrite, puis mise à l’épreuve deux fois : une vingtaine de mois dans mes orbes, de 1,5° avant la conjonction exacte à 1° après, et onze environ pour les passages les plus rapides. Plus de neuf fois sur dix, Uranus passe trois fois sur Saturne, à cause de la boucle rétrograde annuelle."
   - q: "À quel âge Uranus passe sur Saturne ?"
-    a: "Cela dépend de l’avance de Saturne sur Uranus à votre naissance. Pour une naissance peu après la rencontre des deux planètes dans le ciel, en 1942 ou en 1988, le transit vient tôt ; peu avant, vers 80 ans ou jamais. Environ 1 personne sur 25 née entre 1930 et 2009 ne la rencontre pas avant 80 ans."
+    a: "Cela dépend de l’avance de Saturne sur Uranus à votre naissance. Pour une naissance peu après la rencontre des deux planètes dans le ciel, en 1942 ou en 1988, le transit vient tôt ; peu avant, vers 80 ans ou jamais, ce qui est le cas d’environ 1 personne sur 25 née entre 1930 et 2009."
   - q: "Uranus conjonction Saturne, est-ce la même chose qu’un retour de Saturne ?"
     a: "Non. Le retour de Saturne, c’est Saturne qui revient sur son degré de naissance, vers 29 ans et demi puis vers 59 ans ; ce transit, c’est Uranus qui atteint ce degré, une fois au plus, à un âge que fixe votre thème. Pour certaines naissances de 2003, les deux tombent les mêmes mois, vers 2031-2032."
 sources:

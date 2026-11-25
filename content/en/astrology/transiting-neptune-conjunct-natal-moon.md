@@ -25,9 +25,9 @@ faq:
   - q: "How long does Neptune conjunct Moon last?"
     a: "About two years and seven months with my orbs, from 1½° before exact to 1° after, and a little under two in the shortest passes. Neptune usually crosses the exact degree three times, sometimes five, as its retrograde loops overlap from year to year."
   - q: "Why does my birth time matter for Neptune conjunct my Moon?"
-    a: "Because the Moon moves about 13° a day. Without the time of birth, your Moon’s degree could sit anywhere within that span, and Neptune, at about two degrees a year, could reach it at any point in a six-year window. The time also gives the house where all of this is felt."
+    a: "Because the Moon travels about 13° every day. Without the time of birth, your Moon’s degree could sit anywhere within that span, and Neptune, at about two degrees a year, could reach it at any point in a six-year window. The time also gives the house where all of this is felt."
   - q: "Will Neptune conjunct my Moon?"
-    a: "Half of people born between 1930 and 2009 meet it before 80, once; the other half never do. Until 2039, Neptune is in Aries, so it is reaching Moons in Aries. Whether yours is among them, and when, depends on your Moon’s exact degree."
+    a: "Half of people born between 1930 and 2009 meet it before 80, once; the other half never do. Your Moon’s exact degree, which takes the birth time, settles whether and when; while Neptune is in Aries, until 2039, only Aries Moons are within reach."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Neptune stays within my orbs, and how many people meet the conjunction by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Neptune’s transits, read one by one" }
@@ -40,15 +40,15 @@ The Moon is the most personal point Neptune can reach, and the hardest to date. 
 
 Neptune's core need is contact without losing the line between yourself and others, and that's the work here: knowing whose feeling you're carrying. The natal [Moon conjunct Neptune](/astrology/moon-conjunct-neptune/) describes this porousness as a lifelong trait; as a transit, it comes for a few years and then thins. If the tenderness turns into a low mood that settles in, or a worry that won't let go, see a doctor or a therapist: a transit describes a climate, never an illness ([Astrology and mental health](/astrology/astrology-and-mental-health/)).
 
-Your Moon's degree is the part of this transit that most needs the birth time. The Moon moves about 13° a day, so without the time its degree could be anywhere within about 13°, and Neptune's arrival anywhere within about six years. The house matters too: with your Moon in the 4th, it's home and family where the softening is felt first ([Neptune transiting the 4th house](/astrology/neptune-transit-4th-house/)). No birth time, no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
+Your Moon's degree is the part of this transit that most needs the birth time. In a single day the Moon covers about 13°, so without the time its degree could be anywhere within that span, and Neptune's arrival anywhere within about six years. The house matters too: with your Moon in the 4th, it's home and family where the softening is felt first ([Neptune transiting the 4th house](/astrology/neptune-transit-4th-house/)). No birth time, no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, Neptune stays on your Moon for about two years and seven months, a little under two in the shortest passes. It crosses the exact degree three times in most passes and five times in about one in four.
+Within my orbs, from 1½° before exact to 1° after, the conjunction to your Moon lasts about two years and seven months, a little under two in the shortest passes. It crosses the exact degree three times in most passes and five times in about one in four.
 
 Neptune needs to start less than half the zodiac behind your Moon to reach it by 80, and half of people born between 1930 and 2009 were born that way; nobody meets it twice. Neptune's other contacts with your Moon differ in tone: the sextile ([transiting Neptune sextile natal Moon](/astrology/transiting-neptune-sextile-natal-moon/)) and the trine ([transiting Neptune trine natal Moon](/astrology/transiting-neptune-trine-natal-moon/)) are gentler visits to your feelings, the square ([transiting Neptune square natal Moon](/astrology/transiting-neptune-square-natal-moon/)) tests the comforts you rely on, and the opposition ([transiting Neptune opposite natal Moon](/astrology/transiting-neptune-opposite-natal-moon/)) brings Neptune's pull through the people you care for.
 
-From 2026 to 2039, Neptune is in Aries, so it reaches Moons in Aries, the early degrees first ([Moon in Aries](/astrology/moon-in-aries/)).
+Neptune's stay in Aries, from 2026 to 2039, brings it to Moons in Aries, the early degrees first ([Moon in Aries](/astrology/moon-in-aries/)).
 
 ## What helps {#what-helps}
 

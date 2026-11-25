@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Uranus square natal Sun mean?"
     a: "Uranus has reached a right angle to your birth Sun. I read it as friction between the life you’ve built and the part of you that wants to differ: a role, a routine or a plan that fitted starts to pinch, and you get a long season to rework it rather than a day to escape it."
   - q: "How long does Uranus square Sun last?"
-    a: "Each square holds for about twenty months between 1½° before exact and 1° after, the orbs I time it with, and the quickest are over in about eleven. In more than nine passes out of ten Uranus meets the exact right angle three times, going forward, backing up, then forward again, so the friction comes in waves."
+    a: "Each square holds for about twenty months between 1½° before exact and 1° after, the orbs I time it with, and the quickest are over in about eleven. In more than nine passes out of ten that time holds three exact hits, not one."
   - q: "At what age does Uranus square your Sun?"
     a: "Your birth chart sets it: one square comes about twenty years before Uranus reaches your Sun, the other about twenty years after it has passed, so roughly forty-two years separate them. By 80 most people have had both, and nobody gets there without one."
 sources:
@@ -45,7 +45,7 @@ The houses show where. With your Sun in the 10th and Uranus crossing your 1st ([
 
 With the orbs I use for timing, from 1½° before exact to 1° after, Uranus holds the square for about twenty months, long enough for a birthday or two to pass inside it; the quickest passes take about eleven. Uranus spends about five months of each year retrograde, so in more than nine passes out of ten it crosses the exact square three times: forward, back, then forward again for good.
 
-The two squares fall on either side of [transiting Uranus conjunct natal Sun](/astrology/transiting-uranus-conjunct-natal-sun/), about twenty years before it and about twenty years after, so roughly forty-two years separate them. [Transiting Uranus sextile natal Sun](/astrology/transiting-uranus-sextile-natal-sun/) and [transiting Uranus trine natal Sun](/astrology/transiting-uranus-trine-natal-sun/) are the easier steps of the same round; [transiting Uranus opposite natal Sun](/astrology/transiting-uranus-opposite-natal-sun/) lies halfway between the two squares. By 80, everyone born between 1930 and 2009 has met at least one square, and most have met both.
+Read in order, the round runs from [transiting Uranus conjunct natal Sun](/astrology/transiting-uranus-conjunct-natal-sun/) through [transiting Uranus sextile natal Sun](/astrology/transiting-uranus-sextile-natal-sun/), the first square and [transiting Uranus trine natal Sun](/astrology/transiting-uranus-trine-natal-sun/) to [transiting Uranus opposite natal Sun](/astrology/transiting-uranus-opposite-natal-sun/), then back through the same steps, so each square sits between a sextile and a trine. Unlike the conjunction and the opposition, which come once at most and to some people not at all before 80, the squares come twice in most lives and once at the least.
 
 Born with [Sun square Uranus](/astrology/sun-square-uranus/), your timetable was set from the start: one of the two squares was already there at birth, and the other arrives with your [Uranus opposition](/astrology/uranus-opposition/), between about 39 and 44½, when Uranus, facing its own birth place, squares your Sun from the other side.
 

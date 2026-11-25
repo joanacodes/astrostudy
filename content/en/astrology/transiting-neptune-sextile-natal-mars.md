@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/mars", "/astrology/sextile", "/astrology/mars-sextile-neptune", "/astrology/transits"]
 faq:
   - q: "What does transiting Neptune sextile natal Mars mean?"
-    a: "Neptune stands 60° from your natal Mars for about two and a half years. I read it as an opening between imagination and action: an inspiration can become a project, and effort comes more easily for causes and people you care about, provided you make the first move."
+    a: "For two and a half years or so, Neptune and your natal Mars stand 60° apart. I read it as an opening between imagination and action: an inspiration can become a project, and effort comes more easily for causes and people you care about, provided you make the first move."
   - q: "How long does Neptune sextile Mars last?"
     a: "Two years and seven months is the usual length within my orbs, from 1½° before the exact sextile to 1° after, and twenty-two months the shortest. The exact point is crossed three times in most passes and five in about a quarter, as Neptune loops back each year."
   - q: "What should I do during Neptune sextile Mars?"

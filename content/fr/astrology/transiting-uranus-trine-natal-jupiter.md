@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Jupiter", "trigone", "transits"]
 weight: 1708
 glyph: "♅△♃"
-definition: "Uranus en transit trigone Jupiter du thème natal, c’est Uranus à 120° du degré qu’occupait Jupiter à votre naissance, une vingtaine de mois, deux fois dans la plupart des vies. Changement et croissance vont dans le même sens : une idée neuve élargit votre vision sans la renverser. J’y lis une saison facile pour repenser, jamais de la chance."
+definition: "Uranus en transit trigone Jupiter du thème natal, c’est Uranus à 120° du degré qu’occupait Jupiter à votre naissance, d’ordinaire depuis un signe de même élément, une vingtaine de mois. Changement et croissance vont dans le même sens : une idée neuve élargit votre vision sans la renverser. J’y lis une saison facile pour repenser, jamais de la chance."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Jupiter ♃ : croissance, sens et convictions" }
@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/uranus", "/astrology/jupiter", "/astrology/trine", "/astrology/jupiter-trine-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit trigone Jupiter du thème natal ?"
-    a: "Uranus se trouve à 120° du degré qu’occupait Jupiter à votre naissance. Pendant une vingtaine de mois, changement et croissance tirent dans le même sens : une idée, une méthode ou une direction neuve élargit votre vision sans devoir la renverser. J’y lis une saison facile pour apprendre et repenser, qui demande quand même de choisir où aller."
+    a: "Uranus se trouve à 120° de Jupiter dans votre thème, d’ordinaire dans un signe de même élément. Pendant une vingtaine de mois, changement et croissance tirent dans le même sens : une idée, une méthode ou une direction neuve élargit votre vision sans devoir la renverser. J’y lis une saison facile pour apprendre et repenser, qui demande quand même de choisir où aller."
   - q: "Combien de temps dure Uranus trigone Jupiter ?"
-    a: "Une vingtaine de mois, de 1,5° avant le trigone exact à 1° après, et onze environ quand le passage est court. La plupart des passages comptent trois contacts exacts, à cause de la boucle rétrograde annuelle ; dans un cas sur quatorze environ, Uranus ne touche le degré exact qu’une fois et reste pourtant à peu près aussi longtemps."
+    a: "Une vingtaine de mois, de 1,5° avant le trigone exact à 1° après, et onze environ quand le passage est court, même quand Uranus ne touche le degré exact qu’une fois, comme dans un cas sur quatorze environ. La plupart des passages comptent trois contacts exacts, à cause de la boucle rétrograde annuelle."
   - q: "Est-ce qu’Uranus trigone Jupiter apporte de l’argent ou de la chance ?"
     a: "Pas dans ma lecture, et je ne prédis l’argent de personne. Jupiter, c’est la croissance et le sens, et un trigone une facilité plutôt qu’une garantie. Ce que le transit offre, c’est une saison particulièrement fluide pour changer d’avis, apprendre quelque chose de neuf ou essayer une autre direction."
   - q: "À quel âge arrive le trigone d’Uranus à Jupiter ?"

@@ -49,7 +49,7 @@ Born with [Venus opposite Neptune](/astrology/venus-opposite-neptune/), you carr
 
 The opposition holds for about two years and seven months within my orbs, 1½° before exact and 1° after, and rarely less than twenty-two: time enough for a relationship to go through every season with this question in it. Along the way Neptune faces your Venus exactly three times, or five in about one pass in four.
 
-Almost everyone born between 1930 and 2009 meets either this opposition or [transiting Neptune conjunct natal Venus](/astrology/transiting-neptune-conjunct-natal-venus/) before 80, and nobody meets both: the two points lie half a circle apart, and Neptune covers just under half a circle in eighty years. That splits people roughly in two, and about half never meet the opposition.
+Almost everyone born between 1930 and 2009 meets either this opposition or [transiting Neptune conjunct natal Venus](/astrology/transiting-neptune-conjunct-natal-venus/) before 80, and only a very few meet both, one at birth and the other at 79 or 80: the two points lie half a circle apart, and Neptune covers just under half a circle in eighty years. That splits people roughly in two, and about half never meet the opposition.
 
 From Venus in Libra, its own sign, the opposition falls in Aries, where Neptune is from 2026 to 2039; those years bring it to everyone born with Venus in Libra.
 

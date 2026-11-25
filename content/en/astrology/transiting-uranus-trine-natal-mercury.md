@@ -24,12 +24,12 @@ faq:
   - q: "Is Uranus trine Mercury good for writing?"
     a: "As I read it, it’s one of the kindest backgrounds for writing, study or any work with ideas, because invention and expression flow together. The risk is the trine’s usual one: easy ideas left unfinished. A project with a deadline uses this transit far better than a notebook of beginnings."
   - q: "How often does Uranus trine Mercury?"
-    a: "Twice in Uranus’s round of about 84 years, about 28 years before and 28 years after it crosses your Mercury. By 80 nearly everyone born between 1930 and 2009 has had both, and no one fewer than one. Each visit runs to about twenty months."
+    a: "There are two in each 84-year round. By 80, the majority of people born between 1930 and 2009 have had both. Each visit runs to about twenty months, usually with three exact hits."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the trine comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus trine Mercury, among his transits" }
 ---
-About 28 years before Uranus reaches your Mercury, and about 28 years after, it trines it. Twenty months at a time, thinking differently stops being a struggle with the people around you, and can become something they come to you for.
+Each of Uranus's two trines to your Mercury falls between a square and the opposition. Twenty months at a time, thinking differently stops being a struggle with the people around you, and can become something they come to you for.
 
 ## What changes {#what-changes}
 

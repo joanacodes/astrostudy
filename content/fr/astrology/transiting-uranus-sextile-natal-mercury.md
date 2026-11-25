@@ -25,7 +25,7 @@ faq:
   - q: "Uranus sextile Mercure, est-ce un bon moment pour étudier ?"
     a: "L’un des meilleurs, comme je le lis, parce que le sextile relie la curiosité et l’invention sans friction. Il ne fera pas l’inscription à votre place. L’occasion, sous un sextile, demande de l’engagement : le sujet que vous choisissez, la question que vous posez, la personne à qui vous écrivez."
   - q: "Uranus sextile Mercure, c’est tous les combien ?"
-    a: "Deux sextiles par tour d’environ 84 ans : l’un quatorze ans environ avant le passage d’Uranus sur votre Mercure, l’autre quatorze ans environ après. La plupart des personnes nées entre 1930 et 2009 ont connu les deux avant 80 ans ; pour les autres, le second vient plus tard. Avec mes orbes, chacun tient une vingtaine de mois."
+    a: "Chaque tour d’environ 84 ans en contient deux, et deux, c’est aussi le compte habituel avant 80 ans pour les personnes nées entre 1930 et 2009. Avec mes orbes, chacun dure une vingtaine de mois, en général avec trois passages exacts."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de sextiles viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le sextile d’Uranus à Mercure, parmi ses transits" }

@@ -24,7 +24,7 @@ faq:
   - q: "Does Uranus opposite Mars mean conflict?"
     a: "It can bring more friction with others, because two people’s need to act freely is harder to fit together. I don’t predict fights or their outcomes, though. The opposition describes a balance between your drive and someone else’s, and negotiation usually serves it better than force."
   - q: "How often does Uranus oppose Mars?"
-    a: "At most once, since Uranus takes about 84 years to go round and the opposition marks its halfway point, some 42 years after it passes your Mars. About one person in 33 born between 1930 and 2009 hasn’t met it by 80; for everyone else it comes once, lasting about twenty months with my orbs."
+    a: "At most once, since Uranus takes about 84 years to go round and the opposition marks its halfway point, some 42 years after it passes your Mars. About 1 person in 33 born between 1930 and 2009 hasn’t met it by 80; for everyone else it comes once, lasting about twenty months with my orbs."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the opposition by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus opposite Mars, among his transits" }
@@ -47,7 +47,7 @@ Born with [Mars opposite Uranus](/astrology/mars-opposite-uranus/), you'll find 
 
 Uranus spends about twenty months on this opposition, from 1½° before exact to 1° after, the orbs I use for timing; a tenth of passes are over in eleven months or less. In more than nine passes out of ten Uranus crosses the exact point three times, so a standoff has time to turn into an agreement.
 
-Uranus needs about 42 years to get here from [transiting Uranus conjunct natal Mars](/astrology/transiting-uranus-conjunct-natal-mars/), and passes [transiting Uranus sextile natal Mars](/astrology/transiting-uranus-sextile-natal-mars/), [transiting Uranus square natal Mars](/astrology/transiting-uranus-square-natal-mars/) and [transiting Uranus trine natal Mars](/astrology/transiting-uranus-trine-natal-mars/) on the way, each of which it meets again on the other side. The opposition is missed by about one person in 33 before 80, and met once by everyone else, since one round of Uranus holds only one.
+Uranus needs about 42 years to get here from [transiting Uranus conjunct natal Mars](/astrology/transiting-uranus-conjunct-natal-mars/), and passes [transiting Uranus sextile natal Mars](/astrology/transiting-uranus-sextile-natal-mars/), [transiting Uranus square natal Mars](/astrology/transiting-uranus-square-natal-mars/) and [transiting Uranus trine natal Mars](/astrology/transiting-uranus-trine-natal-mars/) on the way, each of which it meets again on the other side. The opposition is missed by about 1 person in 33 before 80, and met once by everyone else, since one round of Uranus holds only one.
 
 ## What helps {#what-helps}
 

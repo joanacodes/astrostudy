@@ -24,7 +24,7 @@ faq:
   - q: "Will I meet someone new under Uranus conjunct Venus?"
     a: "I don’t read a transit for meetings, new lovers or endings. What this one describes is a change in what attracts you and in how much room you need, in love and in friendship. Who you meet, and what you do about it, depends on your life rather than on the sky."
   - q: "How often does Uranus conjunct Venus?"
-    a: "It comes at most once, because Uranus needs about 84 years to get back round to the same point; your age for it depends on how far your Venus sat ahead of Uranus when you were born. For about one person in 25 it arrives later than 80. Once it comes, it stays about twenty months."
+    a: "It comes at most once, because Uranus needs about 84 years to get back round to the same point; your age for it depends on how far your Venus sat ahead of Uranus when you were born. About 1 person in 25 would have to live beyond 80 to meet it. Once it comes, it stays about twenty months."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the conjunction by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus conjunct Venus, among his transits" }
@@ -47,7 +47,7 @@ The natal pairing, [Venus conjunct Uranus](/astrology/venus-conjunct-uranus/), i
 
 Uranus spends about twenty months within my orbs of your Venus, from 1½° before exact to 1° after, long enough for Venus in the sky to turn retrograde once; the briefest passes take about eleven months. Uranus touches the exact degree three times in all but about one pass in fourteen.
 
-Of the five steps Uranus takes with your Venus, only this one and [transiting Uranus opposite natal Venus](/astrology/transiting-uranus-opposite-natal-venus/) come once at most. [Transiting Uranus sextile natal Venus](/astrology/transiting-uranus-sextile-natal-venus/), [transiting Uranus square natal Venus](/astrology/transiting-uranus-square-natal-venus/) and [transiting Uranus trine natal Venus](/astrology/transiting-uranus-trine-natal-venus/) come twice, about fourteen, twenty and 28 years either side of this crossing. In 80 years Uranus reaches the Venus of nearly everyone born between 1930 and 2009; about one person in 25 is the exception.
+Of the five steps Uranus takes with your Venus, only this one and [transiting Uranus opposite natal Venus](/astrology/transiting-uranus-opposite-natal-venus/) come once at most. [Transiting Uranus sextile natal Venus](/astrology/transiting-uranus-sextile-natal-venus/), [transiting Uranus square natal Venus](/astrology/transiting-uranus-square-natal-venus/) and [transiting Uranus trine natal Venus](/astrology/transiting-uranus-trine-natal-venus/) come twice, about fourteen, twenty and 28 years either side of this crossing. In 80 years Uranus reaches the Venus of nearly everyone born between 1930 and 2009, though about 1 person in 25 is left out.
 
 ## What helps {#what-helps}
 

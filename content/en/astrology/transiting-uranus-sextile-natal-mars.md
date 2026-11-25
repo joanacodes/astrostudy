@@ -24,7 +24,7 @@ faq:
   - q: "Is Uranus sextile Mars good for starting a business?"
     a: "As I read it, it’s a supportive background for starting things on your own terms, because drive and originality cooperate. I don’t predict whether a venture will succeed, and the transit doesn’t either. It describes a season when the first steps cost less effort than usual."
   - q: "How often does Uranus sextile Mars?"
-    a: "Twice in each 84-year round, roughly fourteen years before and after Uranus crosses your Mars. Most people born between 1930 and 2009 get both by 80, everyone at least one, and each stays within my orbs for about twenty months."
+    a: "Twice in each 84-year round, so most people born between 1930 and 2009 have been offered both by 80, and everyone at least one. Each stays within my orbs for about twenty months, usually with three exact hits."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the sextile comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus sextile Mars, among his transits" }

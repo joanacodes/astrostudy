@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Uranus", "trigone", "transits"]
 weight: 1658
 glyph: "♄△♅"
-definition: "Saturne en transit trigone Uranus du thème natal, c’est Saturne, dans le ciel, à 120° du degré qu’occupait Uranus à votre naissance, deux fois par tour de 29 ans et demi. La stabilité et l’envie de changement tirent dans le même sens : une expérience peut devenir une habitude. J’y lis un vent favorable aux réformes, jamais une promesse."
+definition: "Saturne en transit trigone Uranus du thème natal, c’est Saturne qui forme, dans le ciel, un angle de 120° avec le degré qu’occupait Uranus à votre naissance, deux trigones à une dizaine d’années d’écart par tour. La stabilité et l’envie de changement tirent dans le même sens : une expérience peut devenir une habitude. J’y lis un vent favorable aux réformes."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Uranus ♅, le changement et la liberté" }
@@ -42,7 +42,7 @@ Deux fois par tour de Saturne, à une dizaine d’années d’écart, la planèt
 
 J’y remarque une forme de permission. Les règles avec lesquelles vous vivez cessent de paraître ennemies de votre indépendance, et votre indépendance cesse de menacer ce que vous avez bâti. Le trigone ne fera pas le travail à votre place : l’aisance n’est pas une fatalité, et beaucoup de ces transits passent sans que rien n’ait été mis à jour.
 
-Le domaine concerné dépend de la maison de votre Uranus, là où vous tenez à faire à votre façon. Avec Uranus en maison 6, ce sont le travail quotidien et ses méthodes ; en maison 4, la façon dont tourne un foyer. Les maisons viennent de votre heure de naissance, et sans elle je ne lis pas le thème du tout ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si votre naissance tombe pendant [Saturne trigone Uranus](/astrology/saturn-trine-uranus/), en 1955–1958, 1971–1974 ou 2002–2004, vous connaissez cette coopération de l’intérieur, et le transit la réveille.
+Le domaine concerné dépend de la maison de votre Uranus, là où vous tenez à faire à votre façon. Avec Uranus en maison 6, ce sont le travail quotidien et ses méthodes ; en maison 4, la façon dont tourne un foyer. Vos maisons viennent de la minute de votre naissance, et je ne les devine pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si votre naissance tombe pendant [Saturne trigone Uranus](/astrology/saturn-trine-uranus/), en 1955–1958, 1971–1974 ou 2002–2004, vous connaissez cette coopération de l’intérieur, et le transit la réveille.
 
 ## Combien de temps {#combien-de-temps}
 

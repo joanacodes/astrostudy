@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Neptune", "trigone", "transits"]
 weight: 1663
 glyph: "♄△♆"
-definition: "Saturne en transit trigone Neptune du thème natal, c’est Saturne, dans le ciel, à 120° du degré qu’occupait Neptune à votre naissance, deux fois par tour de 29 ans et demi. La discipline et l’imagination vont du même pas : un art, une foi ou une façon de prendre soin trouve sa routine. J’y lis un courant facile, jamais une promesse."
+definition: "Saturne en transit trigone Neptune du thème natal, c’est Saturne, dans le ciel, à 120° du degré qu’occupait Neptune à votre naissance, une fois avant, une fois après son opposition à ce degré. La discipline et l’imagination vont du même pas : un art, une foi ou une façon de prendre soin trouve sa routine. J’y lis un courant facile."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Neptune ♆, l’imagination et la compassion" }
@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire Saturne en transit trigone Neptune ?"
     a: "Saturne, dans le ciel, est à 120° de votre Neptune de naissance : la structure et l’imagination avancent un temps du même pas. Faire de la place à un art, à une pratique spirituelle ou à une façon de prendre soin demande moins d’effort que d’habitude, et la routine cesse d’être l’ennemie de l’inspiration. L’aisance est réelle, encore faut-il s’en servir."
   - q: "Combien de temps dure Saturne trigone Neptune en transit ?"
-    a: "Neuf mois environ avec mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus de la moitié de ces trigones prennent la forme d’une boucle rétrograde à trois passages exacts, sur neuf mois et demi environ ; les plus courts, avec un seul passage exact, durent trois semaines."
+    a: "Prévoyez environ neuf mois, avec mes orbes de 1,5° avant l’exactitude et 1° après. Dans un peu plus de la moitié de ces trigones, la rétrogradation de Saturne donne trois passages exacts, et les plus courts, exacts une seule fois, se terminent en trois semaines."
   - q: "Quand vient le trigone de Saturne à mon Neptune ?"
     a: "Deux fois par tour de Saturne : deux trigones à une dizaine d’années d’écart, de part et d’autre de l’opposition de Saturne à votre Neptune, puis une vingtaine d’années avant la paire suivante. Pour une naissance en 1975, vers 22 et 31 ans, puis vers 51 ans ; en 1985, vers 13 et 23 ans, puis 43 ans."
   - q: "Saturne trigone Neptune, est-ce un bon moment pour l’art ou la spiritualité ?"
@@ -45,7 +45,7 @@ La maison de votre Neptune dit de quel rêve il s’agit : en maison 12, une vi
 
 ## Combien de temps {#combien-de-temps}
 
-Comptez neuf mois environ pour ce trigone, de 1,5° avant l’exactitude à 1° après, les orbes avec lesquels je situe les transits. Quand la rétrogradation de Saturne repasse sur le degré, ce qui arrive un peu plus d’une fois sur deux, le trigone est exact trois fois ; quand Saturne ne passe qu’une fois, tout peut finir en trois semaines.
+Prévoyez neuf mois environ pour ce trigone, de 1,5° avant l’exactitude à 1° après, les orbes avec lesquels je situe les transits. Quand la rétrogradation de Saturne repasse sur le degré, ce qui arrive un peu plus d’une fois sur deux, le trigone est exact trois fois ; quand Saturne ne passe qu’une fois, tout peut finir en trois semaines.
 
 Les trigones vont par paires, à une dizaine d’années d’écart, l’un avant et l’autre après l’opposition de Saturne à votre Neptune ([Saturne en transit opposition Neptune du thème natal](/astrology/transiting-saturn-opposite-natal-neptune/)) ; une vingtaine d’années passent ensuite, de part et d’autre du passage de Saturne sur ce point ([Saturne en transit conjonction Neptune du thème natal](/astrology/transiting-saturn-conjunct-natal-neptune/)), avant la paire suivante. Cinq trigones avant 80 ans pour la plupart des gens, six pour certains. Neptune avance d’environ deux degrés par an, si bien que les personnes nées la même année partagent les âges : le premier est venu vers 13 ans pour une naissance en 1985, vers 17 ans en 1945, et dans les deux premières années en 1965 et en 1975, quand le trigone se formait dans le ciel. Les personnes nées entre 1970 et 1984, pour la plupart avec Neptune en Sagittaire, vivent le leur maintenant, puisque Saturne traverse jusqu’en avril 2028 le Bélier, signe de feu comme le Sagittaire ; une naissance en 1975 le rencontre vers 51 ans.
 

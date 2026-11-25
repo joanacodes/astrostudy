@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/saturn", "/astrology/ascendant", "/astrology/saturn-transit-1st-house", "/astrology/transiting-saturn-opposite-natal-ascendant", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit conjonction Ascendant ?"
-    a: "Saturne, dans le ciel, franchit votre degré ascendant, comme environ tous les 29 ans et demi. J’y lis une saison où votre façon d’aborder les choses devient plus réfléchie : des débuts moins nombreux et plus fermes, une manière d’être qui se prend au sérieux. Ce passage ouvre les années de Saturne en maison 1."
+    a: "Saturne, dans le ciel, franchit votre degré ascendant, comme environ tous les 29 ans et demi. J’y lis une saison où votre façon d’aborder les choses devient plus réfléchie : des débuts moins nombreux et plus fermes, une manière d’être plus sérieuse. Ce passage ouvre aussi les années de Saturne en maison 1, pour un peu moins de trois ans."
   - q: "Combien de temps dure Saturne sur l’Ascendant ?"
     a: "Le passage lui-même prend neuf mois environ avec mes orbes, de 1,5° avant l’exactitude à 1° après, souvent en trois fois quand Saturne rétrograde ; au plus court, trois semaines. Le séjour en maison 1 qui suit dure un peu moins de trois ans."
   - q: "Saturne sur l’Ascendant, est-ce mon retour de Saturne ?"
-    a: "Seulement si votre naissance a eu lieu avec Saturne près de l’Ascendant. Sinon, les deux tombent à des moments différents : le retour dépend de la place de Saturne à votre naissance, le passage sur l’Ascendant de votre heure de naissance. Chacun revient environ tous les 29 ans et demi."
+    a: "Seulement si, à votre naissance, Saturne se trouvait près de l’Ascendant. Sinon, les deux tombent à des moments différents : le retour dépend de la place de Saturne à votre naissance, le passage sur l’Ascendant de votre heure de naissance. Chacun revient environ tous les 29 ans et demi ; avec Saturne à l’Ascendant dans votre thème, les deux arrivent ensemble."
   - q: "Peut-on savoir quand Saturne passe sur l’Ascendant sans heure de naissance ?"
     a: "Non. L’Ascendant avance d’environ un degré toutes les quatre minutes et Saturne d’environ un degré par mois : chaque minute d’erreur déplace les dates d’une semaine environ. Sans l’heure, il n’y a pas de degré ascendant à franchir, et c’est pourquoi je ne lis pas de thème sans elle."
 sources:

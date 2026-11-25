@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Pluton", "sextile", "transits"]
 weight: 1666
 glyph: "♄⚹♇"
-definition: "Saturne en transit sextile Pluton du thème natal, c’est Saturne, dans le ciel, à 60° du degré qu’occupait Pluton à votre naissance, deux fois par tour de 29 ans et demi. La structure offre un levier au changement profond : un effort modeste et bien placé débloque ce qui ne bougeait plus. J’y lis une ouverture, jamais une garantie."
+definition: "Saturne en transit sextile Pluton du thème natal, c’est Saturne, dans le ciel, à 60° du degré qu’occupait Pluton à votre naissance, un angle que la plupart des gens vivent six fois avant 80 ans. La structure offre un levier au changement profond : un effort modeste et bien placé débloque ce qui ne bougeait plus. J’y lis une ouverture."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Pluton ♇, la profondeur, le pouvoir et le renouveau" }
@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire Saturne en transit sextile Pluton ?"
     a: "Saturne, dans le ciel, est à 60° de votre Pluton de naissance : une voie concrète s’ouvre pour travailler sur quelque chose de profond, une habitude, un rôle, un vieux réflexe de contrôle. Le sextile offre un levier plutôt qu’une pression, si bien qu’un effort modeste et régulier va plus loin que d’habitude. Encore faut-il agir."
   - q: "Combien de temps dure Saturne sextile Pluton en transit ?"
-    a: "Neuf mois environ, avec mes orbes de 1,5° avant l’exactitude et 1° après. La rétrogradation de Saturne donne à un peu plus de la moitié d’entre eux trois passages exacts, sur neuf mois et demi environ ; quand Saturne ne touche le degré qu’une fois, la fenêtre peut se réduire à trois semaines."
+    a: "Le sextile reste en général neuf mois environ dans mes orbes, 1,5° avant l’exactitude et 1° après. Ses passages exacts viennent par trois un peu plus souvent que seuls ; quand il n’y en a qu’un, la fenêtre peut se refermer en trois semaines."
   - q: "Combien de fois vit-on Saturne sextile Pluton ?"
     a: "Deux fois par tour de 29 ans et demi : la plupart des gens le vivent six fois avant 80 ans, et personne moins de cinq. Les deux sextiles d’un tour tombent à une dizaine d’années d’écart, de part et d’autre du passage de Saturne sur votre Pluton, et toute une année de naissance en partage les dates."
   - q: "Saturne sextile Pluton, est-ce le moment d’un grand changement ?"
@@ -41,7 +41,7 @@ Certains transits poussent, d’autres ouvrent une porte de côté. Le sextile d
 
 J’y lis un levier. Le travail de Pluton est souvent lent et discret, et Saturne lui prête ici une prise : une routine, un accord, une personne qui a les bonnes compétences. Le pouvoir d’agir n’est pas la domination, et le sextile convient au changement fait avec l’accord des autres plutôt que contre eux. S’il reste inutilisé, il passe, tout simplement ; rien ne se dégrade faute de s’en être servi. Les deux sextiles d’un tour penchent chacun de leur côté, dans ma lecture : celui qui suit le passage de Saturne sur votre Pluton convient pour bâtir sur ce qui a été dégagé, celui qui précède le passage suivant, pour finir, trier et transmettre.
 
-La maison de votre Pluton montre ce qui peut bouger : en maison 6, votre façon de travailler et les habitudes qui la portent ; en maison 10, votre position et votre usage de l’autorité. Cette maison est fixée par votre heure de naissance, et c’est pourquoi je ne lis pas un thème qui en manque ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison de votre Pluton montre ce qui peut bouger : en maison 6, votre façon de travailler et les habitudes qui la portent ; en maison 10, votre position et votre usage de l’autorité. La maison est fixée par votre heure de naissance ; sans elle, une lecture ne serait que conjecture, et je n’en propose pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

@@ -44,11 +44,11 @@ Mercure en maison 3, la maison de l’esprit quotidien, place cette conjonction 
 
 ## Combien de temps {#combien-de-temps}
 
-Entre 1,5° avant l’exactitude et 1° après, les orbes que j’emploie pour ce passage, une vingtaine de mois s’écoulent : pendant qu’Uranus s’attarde sur votre Mercure de naissance, Mercure, dans le ciel, devient rétrograde cinq ou six fois. Plus de neuf passages sur dix comptent trois contacts exacts ; les plus brefs prennent encore onze mois environ.
+Entre 1,5° avant l’exactitude et 1° après, les orbes que j’emploie pour ce passage, une vingtaine de mois s’écoulent : pendant qu’Uranus s’attarde sur votre Mercure de naissance, Mercure, dans le ciel, devient rétrograde cinq ou six fois. Plus de neuf passages sur dix comptent trois contacts exacts ; les plus brefs prennent encore onze mois environ.
 
 Mercure reste toujours à moins de 28° environ du Soleil : ce passage tombe donc à six ou sept ans environ de [Uranus en transit conjonction Soleil du thème natal](/astrology/transiting-uranus-conjunct-natal-sun/), avant ou après, quand les deux ont lieu au cours d’une vie.
 
-C’est à partir de cette conjonction que le compte commence. Le point le plus lointain, [Uranus en transit opposition Mercure du thème natal](/astrology/transiting-uranus-opposite-natal-mercury/), vient environ 42 ans plus tard ; [Uranus en transit sextile Mercure du thème natal](/astrology/transiting-uranus-sextile-natal-mercury/), [Uranus en transit carré Mercure du thème natal](/astrology/transiting-uranus-square-natal-mercury/) et [Uranus en transit trigone Mercure du thème natal](/astrology/transiting-uranus-trine-natal-mercury/) viennent chacun deux fois, une fois à l’aller vers ce point et une fois sur le chemin du retour. Environ 1 personne sur 33 née entre 1930 et 2009 attend encore ce [transit](/astrology/transits/) à 80 ans.
+C’est à partir de cette conjonction que le compte commence. Le point le plus lointain, [Uranus en transit opposition Mercure du thème natal](/astrology/transiting-uranus-opposite-natal-mercury/), vient environ 42 ans plus tard ; [Uranus en transit sextile Mercure du thème natal](/astrology/transiting-uranus-sextile-natal-mercury/), [Uranus en transit carré Mercure du thème natal](/astrology/transiting-uranus-square-natal-mercury/) et [Uranus en transit trigone Mercure du thème natal](/astrology/transiting-uranus-trine-natal-mercury/) viennent chacun deux fois, une fois à l’aller vers ce point et une fois sur le chemin du retour. En 80 ans, ce [transit](/astrology/transits/) a lancé le compte pour tout le monde, sauf environ 1 personne sur 33 née entre 1930 et 2009.
 
 ## Ce qui aide {#ce-qui-aide}
 

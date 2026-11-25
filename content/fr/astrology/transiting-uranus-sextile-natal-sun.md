@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire Uranus en transit sextile Soleil ?"
     a: "Uranus, dans le ciel, est à 60° de votre Soleil de naissance : le changement devient possible à vos conditions, une expérience dans votre façon de travailler ou de vivre qui va avec la direction que vous prenez déjà. Rien n’est forcé, et c’est tout l’intérêt. Le sextile propose ; vous décidez de le saisir ou non, et jusqu’où."
   - q: "Combien de temps dure Uranus sextile Soleil en transit ?"
-    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant l’exactitude à 1° après. Plus de neuf fois sur dix, Uranus rend le sextile exact trois fois en revenant en arrière, et même les passages les plus courts durent environ onze mois."
+    a: "Une vingtaine de mois, de 1,5° avant l’exactitude à 1° après, les orbes que j’utilise. Neuf passages sur dix, et plus, sont des boucles à trois passages exacts ; les plus courts prennent encore onze mois environ, ce qui laisse le temps d’essayer quelque chose pour de bon."
   - q: "Quand vient le sextile d’Uranus à mon Soleil ?"
     a: "En général deux fois dans une vie, soit à 28 ans d’écart environ, autour du passage d’Uranus sur votre Soleil, soit à 56 ans environ, autour de l’opposition. Uranus est en Gémeaux jusqu’en 2033 : avec le Soleil en Bélier ou en Lion, c’est maintenant."
   - q: "Uranus sextile Soleil, est-ce le moment de changer de métier ?"
@@ -39,7 +39,7 @@ Des transits d’Uranus à votre Soleil, le sextile est celui dont on se souvien
 
 Le [Soleil](/astrology/sun/) est votre sens de vous-même et de votre direction, ce que vous cherchez à devenir ; [Uranus](/astrology/uranus/) expérimente, libère et réforme. Un [sextile](/astrology/sextile/) les relie par l’occasion, et dans ce [transit](/astrology/transits/), le changement arrive comme une option dont votre élan peut se servir : une méthode que vous vouliez essayer, des gens qui pensent autrement, une façon d’organiser votre vie qui vous donne plus d’air sans vous demander de tout recommencer. L’occasion demande de s’engager. Laissé à lui-même, le sextile n’est qu’une agréable impatience ; saisi, il peut infléchir votre direction de quelques degrés utiles. Parce qu’il demande au lieu d’insister, c’est aussi le transit d’Uranus que l’on gaspille le plus facilement : vingt mois peuvent passer en simple curiosité si aucune expérience ne reçoit de date de départ.
 
-La maison de votre Soleil montre ce que vous changeriez, et la maison que traverse Uranus, en général deux maisons plus loin, d’où vient l’idée. Avec le Soleil en maison 1, Uranus traverse peut-être votre maison 3, et c’est une conversation, une étude ou l’exemple d’un frère ou d’une sœur qui donne l’étincelle ([Uranus en transit en maison 3](/astrology/uranus-transit-3rd-house/)). Ces maisons dépendent de la minute de votre naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si votre thème porte [Soleil sextile Uranus](/astrology/sun-sextile-uranus/), ce genre de changement vous est habituel ; le transit vous en donne une saison.
+La maison de votre Soleil montre ce que vous changeriez, et la maison que traverse Uranus, en général deux maisons plus loin, d’où vient l’idée. Avec le Soleil en maison 1, Uranus traverse peut-être votre maison 3, et c’est une conversation, une étude ou l’exemple d’un frère ou d’une sœur qui donne l’étincelle ([Uranus en transit en maison 3](/astrology/uranus-transit-3rd-house/)). Les placer demande la minute exacte de votre naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si votre thème porte [Soleil sextile Uranus](/astrology/sun-sextile-uranus/), ce genre de changement vous est habituel ; le transit vous en donne une saison.
 
 ## Combien de temps {#combien-de-temps}
 
@@ -51,7 +51,7 @@ Uranus est en Gémeaux jusqu’en 2033, après une première visite en 2025, et 
 
 ## Ce qui aide {#ce-qui-aide}
 
-Choisir un changement qui vous tourne autour et lui donner un essai avec une date de départ. Sous un sextile, le premier pas concret fait l’essentiel du travail.
+Choisir un changement qui vous tourne autour et lui donner un essai avec une date de départ. Avec un sextile, commencer est l’essentiel de l’effort ; la suite vient en général plus facilement.
 
 Chercher des personnes qui font déjà ce qui vous intrigue. Les ouvertures d’Uranus passent souvent par quelqu’un qui a un pas d’avance.
 

@@ -25,7 +25,7 @@ faq:
   - q: "Uranus opposition Mars, est-ce un conflit ?"
     a: "Cela peut apporter plus de friction avec les autres, parce que le besoin d’agir librement de deux personnes s’emboîte mal. Je ne prédis pas pour autant les disputes ni leur issue. L’opposition décrit un équilibre entre votre élan et celui de quelqu’un d’autre, et la négociation le sert en général mieux que la force."
   - q: "Uranus en opposition à Mars, c’est tous les combien ?"
-    a: "Une fois au plus : l’opposition marque la moitié du tour de 84 ans d’Uranus, quelque 42 ans après son passage sur votre Mars. Environ une personne sur 33 née entre 1930 et 2009 ne l’a pas connue à 80 ans ; pour les autres, elle vient une fois, pour une vingtaine de mois."
+    a: "Une fois au plus : l’opposition marque la moitié du tour de 84 ans d’Uranus, quelque 42 ans après son passage sur votre Mars. Environ 1 personne sur 33 née entre 1930 et 2009 ne l’a pas connue à 80 ans ; pour les autres, elle vient une fois, pour une vingtaine de mois."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent l’opposition avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "l’opposition d’Uranus à Mars, parmi ses transits" }
@@ -48,7 +48,7 @@ Avec [Mars opposition Uranus](/astrology/mars-opposite-uranus/) dans votre thèm
 
 Uranus passe une vingtaine de mois sur cette opposition, de 1,5° avant l’exactitude à 1° après, les orbes de mes prévisions ; un dixième des passages se termine en onze mois ou moins. Dans plus de neuf cas sur dix, Uranus franchit trois fois le point exact : un face-à-face a donc le temps de devenir un accord.
 
-Uranus met environ 42 ans à venir ici depuis [Uranus en transit conjonction Mars du thème natal](/astrology/transiting-uranus-conjunct-natal-mars/), et passe en chemin par [Uranus en transit sextile Mars du thème natal](/astrology/transiting-uranus-sextile-natal-mars/), [Uranus en transit carré Mars du thème natal](/astrology/transiting-uranus-square-natal-mars/) et [Uranus en transit trigone Mars du thème natal](/astrology/transiting-uranus-trine-natal-mars/), trois étapes qu’Uranus retrouve chacune de l’autre côté. Environ une personne sur 33 manque l’opposition avant 80 ans, et toutes les autres la rencontrent une fois, puisqu’un tour d’Uranus n’en contient qu’une.
+Uranus met environ 42 ans à venir ici depuis [Uranus en transit conjonction Mars du thème natal](/astrology/transiting-uranus-conjunct-natal-mars/), et passe en chemin par [Uranus en transit sextile Mars du thème natal](/astrology/transiting-uranus-sextile-natal-mars/), [Uranus en transit carré Mars du thème natal](/astrology/transiting-uranus-square-natal-mars/) et [Uranus en transit trigone Mars du thème natal](/astrology/transiting-uranus-trine-natal-mars/), trois étapes qu’Uranus retrouve chacune de l’autre côté. Environ 1 personne sur 33 manque l’opposition avant 80 ans, et toutes les autres la rencontrent une fois, puisqu’un tour d’Uranus n’en contient qu’une.
 
 ## Ce qui aide {#ce-qui-aide}
 

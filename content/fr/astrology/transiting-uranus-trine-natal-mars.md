@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/mars", "/astrology/trine", "/astrology/mars-trine-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit trigone Mars du thème natal ?"
-    a: "Uranus est entré en trigone avec votre Mars de naissance, à 120°, et tient cet angle une vingtaine de mois. J’y lis une période où l’élan et l’originalité travaillent ensemble : changer votre façon de travailler, lancer quelque chose d’indépendant ou apprendre un savoir-faire se fait avec moins de friction que d’habitude."
+    a: "Uranus forme un trigone avec votre Mars de naissance, à 120°, et tient cet angle une vingtaine de mois. J’y lis une période où l’élan et l’originalité travaillent ensemble : changer votre façon de travailler, lancer quelque chose d’indépendant ou apprendre un savoir-faire se fait avec moins de friction que d’habitude."
   - q: "Uranus trigone Mars, est-ce un bon moment pour commencer quelque chose ?"
     a: "C’est l’un des climats les plus faciles pour cela, comme je le lis, parce que l’effort et l’innovation coopèrent. Il ne choisit pas le projet et ne garantit pas son déroulement. Il offre de l’élan : les premiers pas coûtent moins, et un changement de méthode rencontre moins de résistance."
   - q: "Uranus trigone Mars, c’est tous les combien ?"
-    a: "La plupart des gens en connaissent deux, et personne, parmi les naissances de 1930 à 2009, n’arrive à 80 ans sans en avoir connu un. Ils se placent à 28 ans environ de part et d’autre du passage d’Uranus sur votre Mars, et chacun reste une vingtaine de mois dans mes orbes."
+    a: "La plupart des gens en connaissent deux ; pour les personnes nées entre 1930 et 2009, le compte ne descend jamais sous un. Chacun reste une vingtaine de mois dans mes orbes, et dans la plupart des passages, Uranus touche trois fois le trigone exact."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de trigones viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le trigone d’Uranus à Mars, parmi ses transits" }
@@ -48,7 +48,7 @@ Avec Mars en maison 6 et Uranus qui traverse votre maison 2 ([Uranus en transit 
 
 De 1,5° avant l’exactitude à 1° après, les orbes de mes prévisions, le trigone reste une vingtaine de mois, et seul le dixième des passages le plus bref dure moins d’un an. Dans plus de neuf cas sur dix, il y a trois passages exacts, ce qui donne à l’élan trois poussées plutôt qu’une.
 
-Le premier trigone vient à un tiers du tour depuis [Uranus en transit conjonction Mars du thème natal](/astrology/transiting-uranus-conjunct-natal-mars/), après [Uranus en transit sextile Mars du thème natal](/astrology/transiting-uranus-sextile-natal-mars/) et [Uranus en transit carré Mars du thème natal](/astrology/transiting-uranus-square-natal-mars/) ; [Uranus en transit opposition Mars du thème natal](/astrology/transiting-uranus-opposite-natal-mars/) suit quelque quatorze ans plus tard, et le second trigone quatorze ans après encore. Avant 80 ans, deux trigones sont la norme, un seul le minimum.
+Le premier trigone vient à un tiers du tour depuis [Uranus en transit conjonction Mars du thème natal](/astrology/transiting-uranus-conjunct-natal-mars/), après [Uranus en transit sextile Mars du thème natal](/astrology/transiting-uranus-sextile-natal-mars/) et [Uranus en transit carré Mars du thème natal](/astrology/transiting-uranus-square-natal-mars/) ; [Uranus en transit opposition Mars du thème natal](/astrology/transiting-uranus-opposite-natal-mars/) suit quelque quatorze ans plus tard, et le second trigone quatorze ans après encore. Avant 80 ans, les deux trigones sont en général venus, et l’un d’eux toujours.
 
 Avec [Mars conjonction Uranus](/astrology/mars-conjunct-uranus/) dans votre thème natal, vous rencontrez les deux trigones vers 28 et 56 ans, quand Uranus forme aussi un trigone à sa propre position de naissance : pour vous, ce [transit](/astrology/transits/) et cette étape arrivent ensemble.
 

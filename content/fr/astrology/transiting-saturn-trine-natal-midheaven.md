@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Milieu du Ciel", "trigone", "transits"]
 weight: 1678
 glyph: "♄△MC"
-definition: "Saturne en transit trigone Milieu du Ciel du thème natal, c’est Saturne, dans le ciel, à 120° du degré situé en haut de votre thème, deux fois par tour de 29 ans et demi. La responsabilité et la direction vont du même pas, et votre rôle se stabilise. J’y lis une consolidation, jamais une promesse de réussite."
+definition: "Saturne en transit trigone Milieu du Ciel du thème natal, c’est Saturne, dans le ciel, à 120° de votre Milieu du Ciel, une dizaine d’années avant d’atteindre le sommet de votre thème, puis dix ans après. La responsabilité et la direction vont du même pas, et votre rôle se stabilise. J’y lis une consolidation, jamais une promesse de réussite."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Le Milieu du Ciel MC, votre direction et votre rôle public" }
@@ -24,9 +24,9 @@ faq:
   - q: "Que veut dire Saturne en transit trigone Milieu du Ciel ?"
     a: "Saturne, dans le ciel, est à 120° de votre Milieu du Ciel : la structure coule un temps dans votre direction publique. Le rôle que vous avez fait vôtre se stabilise, et les responsabilités se portent plus naturellement. Comme le même angle est un sextile à votre Fond du Ciel, le foyer le permet en général."
   - q: "Combien de temps dure Saturne trigone Milieu du Ciel ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, neuf mois environ. Un peu plus d’une fois sur deux, la rétrogradation de Saturne lui donne trois passages exacts sur neuf mois et demi environ ; un passage exact unique peut ne durer que trois semaines."
+    a: "Neuf mois environ, comptés avec mes orbes de 1,5° avant l’exactitude à 1° après. Trois passages exacts, au gré de la boucle de Saturne, sont un peu plus fréquents qu’un seul, et un trigone à passage unique peut aller et venir en trois semaines."
   - q: "Quand vient le trigone de Saturne à mon Milieu du Ciel ?"
-    a: "Deux fois par tour : environ dix ans avant que Saturne atteigne votre Milieu du Ciel, et environ dix ans après. Votre heure de naissance fixe les mois, et douze minutes d’erreur font environ trois mois d’écart. Avec un Milieu du Ciel en Lion ou en Sagittaire, les années de Saturne en Bélier, jusqu’en avril 2028, en apportent un."
+    a: "Deux fois par tour : environ dix ans avant que Saturne atteigne votre Milieu du Ciel, et dix ans après. Votre heure de naissance fixe les mois, et douze minutes d’erreur font environ trois mois d’écart. Avec un Milieu du Ciel en Lion ou en Sagittaire, le vôtre tombe pendant les années de Saturne en Bélier, jusqu’en avril 2028."
   - q: "Saturne trigone Milieu du Ciel, est-ce la reconnaissance ?"
     a: "Ce transit peut rendre un travail régulier plus facile à voir et à tenir, et la reconnaissance suit parfois, mais il n’en promet aucune. Le statut n’est pas la contribution, et ce trigone est plus doux pour la seconde : ce qu’il soutient, c’est le travail bien fait dans la durée, que quelqu’un regarde ou non."
 sources:
@@ -41,7 +41,7 @@ Le trigone à votre Milieu du Ciel s’annonce rarement. Une dizaine d’années
 
 Le même angle forme un sextile à votre [Fond du Ciel](/astrology/imum-coeli/) : vos fondations, à la maison, permettent en général l’effort au lieu de lui faire concurrence. L’aisance n’est pas une fatalité, pour autant : le trigone affermit surtout ce que vous faites déjà, et il le fait le mieux quand vous nommez ce que vous consolidez. Dans une saison de bouleversements ailleurs dans votre thème, il peut aussi servir de lest : une part de la vie qui tient bon pendant qu’une autre se reconstruit.
 
-Les deux trigones viennent de régions différentes du thème. Le premier, une dizaine d’années avant le passage sur le Milieu du Ciel, trouve en général Saturne autour de votre maison 6, dans le travail quotidien et le savoir-faire ([Saturne en transit en maison 6](/astrology/saturn-transit-6th-house/)) ; le second, une dizaine d’années après, autour de votre maison 2, parmi ce que vous estimez et gardez ([Saturne en transit en maison 2](/astrology/saturn-transit-2nd-house/)). Les maisons de Placidus varient en taille : votre propre thème dit exactement où.
+Saturne atteint chaque trigone depuis une région différente de votre thème. Le premier, une dizaine d’années avant le passage sur le Milieu du Ciel, trouve en général Saturne autour de votre maison 6, dans le travail quotidien et le savoir-faire ([Saturne en transit en maison 6](/astrology/saturn-transit-6th-house/)) ; le second, une dizaine d’années après, autour de votre maison 2, parmi ce que vous estimez et gardez ([Saturne en transit en maison 2](/astrology/saturn-transit-2nd-house/)). Les maisons de Placidus varient en taille : votre propre thème dit exactement où.
 
 ## Combien de temps {#combien-de-temps}
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Jupiter", "opposition", "transits"]
 weight: 1709
 glyph: "♅☍♃"
-definition: "Uranus en transit opposition Jupiter du thème natal, c’est Uranus à 180° du degré qu’occupait Jupiter à votre naissance, pendant une vingtaine de mois, une fois au plus dans une vie. Vos convictions rencontrent une vision qui diffère, souvent chez quelqu’un d’autre. J’y lis un élargissement par contraste : garder ce que chaque regard voit."
+definition: "Uranus en transit opposition Jupiter du thème natal, c’est Uranus à 180° du degré qu’occupait Jupiter à votre naissance, une vingtaine de mois, une fois au plus et à presque n’importe quel âge. Vos convictions rencontrent une vision qui diffère, souvent chez quelqu’un d’autre. J’y lis un élargissement par contraste : garder ce que chaque regard voit."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Jupiter ♃ : croissance, sens et convictions" }
@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Uranus en transit opposition Jupiter du thème natal ?"
     a: "Uranus se trouve à 180° de Jupiter dans votre thème natal, la part du thème qui porte vos convictions et votre sens des choses. J’y lis la rencontre d’une autre vision, souvent à travers quelqu’un : votre cadre vu à côté de son contraire. L’opposition demande un regard plus large, qui garde le meilleur des deux, pas une conversion."
   - q: "Combien de temps dure Uranus opposition Jupiter ?"
-    a: "Elle reste dans mes orbes, de 1,5° avant l’opposition exacte à 1° après, une vingtaine de mois, ou onze environ pour les passages les plus courts. Dans plus de neuf cas sur dix, Uranus se trouve trois fois exactement en face de Jupiter, la deuxième fois en reculant : l’autre point de vue a droit à plus d’une audience."
+    a: "Assez pour qu’une conviction rencontre son contraire plus d’une fois : une vingtaine de mois dans mes orbes, de 1,5° avant l’opposition exacte à 1° après, ou onze environ pour les passages les plus courts. Dans plus de neuf cas sur dix, Uranus se trouve trois fois exactement en face de Jupiter, la deuxième fois en reculant."
   - q: "Est-ce que tout le monde connaît Uranus opposition Jupiter ?"
     a: "Presque toutes les personnes qui atteignent 80 ans l’ont connue une fois, et personne deux fois. Environ 1 personne sur 33 née entre 1930 et 2009 ne la rencontre jamais avant 80 ans : celles nées juste après l’opposition exacte de Jupiter et d’Uranus, pour qui Uranus doit faire presque un tour complet."
   - q: "À quel âge arrive l’opposition d’Uranus à Jupiter ?"

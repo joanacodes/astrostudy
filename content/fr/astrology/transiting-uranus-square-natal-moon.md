@@ -23,14 +23,14 @@ faq:
   - q: "Que veut dire Uranus en transit carré Lune du thème natal ?"
     a: "Pendant une vingtaine de mois, Uranus se tient à un quart de zodiaque de votre Lune de naissance. J’y lis une friction au cœur de votre sentiment de sécurité : les routines et les conforts qui vous stabilisent deviennent étroits, les émotions vont plus vite que d’habitude, et votre façon de vivre réclame un nouvel arrangement."
   - q: "Uranus carré Lune, est-ce un transit difficile ?"
-    a: "Il peut être agité, parce qu’il frotte contre la part de vous qui voudrait que rien ne bouge. Difficile ne veut pas dire nuisible, pour autant. Le carré vous demande d’ajuster votre façon de vivre et de prendre soin de vous, et la plupart de ce qu’il dérange était prêt à changer."
+    a: "Ce transit peut être agité, parce qu’il frotte contre la part de vous qui voudrait que rien ne bouge. Difficile ne veut pas dire nuisible, pour autant. Le carré vous demande d’ajuster votre façon de vivre et de prendre soin de vous, et la plupart de ce qu’il dérange était prêt à changer."
   - q: "Uranus carré Lune, est-ce que cela joue sur l’humeur ?"
     a: "Souvent, comme je le lis : les humeurs tournent plus vite, et le repos repose moins tant que dure le carré. Cela décrit un climat, pas un état. Si l’anxiété ou le mauvais sommeil s’installent pendant des semaines, c’est un médecin ou une ou un thérapeute qu’il faut voir, quoi que fasse le ciel."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de carrés viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus carré la Lune, parmi ses transits" }
 ---
-Deux fois dans le tour d’Uranus, une vingtaine d’années avant son passage sur votre Lune et une vingtaine d’années après, la planète du changement forme un carré à l’endroit où vous cherchez le repos. Pendant une vingtaine de mois à chaque fois, le réconfort et la liberté attendent des choses différentes des mêmes soirées.
+Deux fois dans le tour d’Uranus, aux quarts de tour de part et d’autre de votre Lune, la planète du changement forme un carré à l’endroit où vous cherchez le repos. Pendant une vingtaine de mois à chaque fois, le réconfort et la liberté attendent des choses différentes des mêmes soirées.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -46,7 +46,7 @@ Avec votre Lune en maison 2 et Uranus qui traverse votre maison 5 ([Uranus en tr
 
 La durée habituelle, avec mes orbes de 1,5° avant l’exactitude et 1° après, est d’une vingtaine de mois ; quelques passages ne prennent que onze mois. Trois passages exacts sont le lot de la plupart des gens, dans plus de neuf cas sur dix, ce qui donne au carré un début, un milieu et une fin.
 
-Un carré vient une vingtaine d’années avant le passage d’Uranus sur votre Lune ([Uranus en transit conjonction Lune du thème natal](/astrology/transiting-uranus-conjunct-natal-moon/)) et l’autre une vingtaine d’années après : quelque 42 ans les séparent, avec [Uranus en transit opposition Lune du thème natal](/astrology/transiting-uranus-opposite-natal-moon/) à mi-chemin. Les angles plus amicaux du même tour, [Uranus en transit sextile Lune du thème natal](/astrology/transiting-uranus-sextile-natal-moon/) et [Uranus en transit trigone Lune du thème natal](/astrology/transiting-uranus-trine-natal-moon/), se placent à sept ans environ de part et d’autre de chaque carré. La plupart des gens ont traversé les deux carrés avant 80 ans ; les autres, un seul.
+Une vingtaine d’années séparent chaque carré de [Uranus en transit conjonction Lune du thème natal](/astrology/transiting-uranus-conjunct-natal-moon/), l’un avant, l’autre après, et [Uranus en transit opposition Lune du thème natal](/astrology/transiting-uranus-opposite-natal-moon/) tombe à mi-chemin entre les deux. Les angles plus amicaux du même tour, [Uranus en transit sextile Lune du thème natal](/astrology/transiting-uranus-sextile-natal-moon/) et [Uranus en transit trigone Lune du thème natal](/astrology/transiting-uranus-trine-natal-moon/), se placent à sept ans environ de part et d’autre de chaque carré. La plupart des gens ont traversé les deux carrés avant 80 ans ; les autres, un seul.
 
 Jusqu’en 2033, tant qu’Uranus traverse les Gémeaux, les Lunes que touche ce [transit](/astrology/transits/) sont en Vierge et en Poissons. Avec [Lune carré Uranus](/astrology/moon-square-uranus/) dans votre thème natal, vous connaissez cette friction de l’intérieur ; le transit, c’est le même frottement avec une date de début et une date de fin.
 

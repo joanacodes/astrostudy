@@ -40,7 +40,7 @@ Halfway between two crossings of your Midheaven, Saturn reaches the lowest point
 
 The IC isn't only a house, a family or a childhood, though it can be any of those: it's whatever regenerates you. Public life may feel quieter, not because anything has gone wrong but because the effort has moved out of view. Where Saturn's crossing of your Midheaven asks what you're known for, this one asks what keeps you going when nobody is looking, and the two answers are meant to fit together. Nor does a transit to the IC say anything about the health of the people you come from ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)); the foundations I read here are yours.
 
-The IC also begins the 4th house in Placidus, the system I use, so this is where [Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/) starts. Saturn reaches it at the low point of its arc through your angles, roughly midway between two crossings of your Midheaven ([transiting Saturn conjunct natal Midheaven](/astrology/transiting-saturn-conjunct-natal-midheaven/)).
+The IC also begins the 4th house in Placidus, the system I use, so this is where [Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/) starts. The climb back to your Midheaven ([transiting Saturn conjunct natal Midheaven](/astrology/transiting-saturn-conjunct-natal-midheaven/)) takes another fourteen or fifteen years, about as long as Saturn needed to come down from it.
 
 ## How long it lasts {#how-long-it-lasts}
 

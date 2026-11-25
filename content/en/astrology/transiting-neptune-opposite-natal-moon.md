@@ -46,7 +46,7 @@ Within my orbs, from 1½° before exact to 1° after, the opposition lasts about
 
 By 80, almost everyone born between 1930 and 2009 has met either Neptune's conjunction with their Moon ([transiting Neptune conjunct natal Moon](/astrology/transiting-neptune-conjunct-natal-moon/)) or this opposition, half one and half the other, and nobody meets both: they lie half a circle apart, and Neptune covers a little less than that in 80 years. Between the two lie the trines ([transiting Neptune trine natal Moon](/astrology/transiting-neptune-trine-natal-moon/)), a sixth of the circle from this opposition, the squares ([transiting Neptune square natal Moon](/astrology/transiting-neptune-square-natal-moon/)), a quarter, and the sextiles ([transiting Neptune sextile natal Moon](/astrology/transiting-neptune-sextile-natal-moon/)), a third. People born with [Moon opposite Neptune](/astrology/moon-opposite-neptune/) know this pull from the inside; the transit brings it, for a while, to anyone it reaches.
 
-From Aries, until 2039, Neptune opposes Moons in Libra.
+Across from Aries lies Libra, so until 2039 the opposition falls on Moons in Libra.
 
 ## What helps {#what-helps}
 

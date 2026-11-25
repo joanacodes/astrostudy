@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire Saturne en transit opposition Ascendant ?"
     a: "Saturne, dans le ciel, se trouve sur votre Descendant, le degré opposé à votre Ascendant, comme environ tous les 29 ans et demi. Les personnes que vous rencontrez d’égal à égal, en amour ou au travail, deviennent le lieu où arrivent les questions de Saturne : ce qui est juste, ce qui est convenu, ce qui durera."
   - q: "Combien de temps dure Saturne opposition Ascendant ?"
-    a: "Neuf mois environ sur le degré lui-même, avec mes orbes de 1,5° avant l’exactitude et 1° après : un peu plus d’une fois sur deux en trois passages exacts sur neuf mois et demi environ, et au plus rapide en trois semaines. Le séjour de Saturne en maison 7, qui suit, prend quelques années."
+    a: "Il faut en général neuf mois environ à Saturne pour franchir votre Descendant, avec mes orbes de 1,5° avant l’exactitude et 1° après, en trois fois dans un peu plus de la moitié des cas ; au plus rapide, trois semaines. Le séjour en maison 7 qui suit prend quelques années."
   - q: "Saturne opposition Ascendant, est-ce l’annonce d’une rupture ?"
     a: "Non. Un transit ne peut pas dire si une relation commence, dure ou s’arrête, et je n’en lis jamais un pour cela. Celui-ci décrit une saison où les engagements sont pesés et leurs termes précisés. Certains liens en sortent plus solides, et ce que vous décidez vous appartient."
   - q: "Saturne opposition Ascendant, est-ce Saturne sur le Descendant ?"
@@ -41,7 +41,7 @@ Le Descendant est l’endroit où les planètes se couchent dans votre thème, s
 
 Une polarité n’est pas une contradiction, et le travail est la réciprocité : garder votre propre orientation tout en prenant au sérieux celle de l’autre. Saturne peut prendre les traits d’une personne qui paraît plus stricte, plus âgée ou plus prudente que vous, et parfois c’est vous qui jouez ce rôle pour quelqu’un d’autre. Si l’une de vos planètes se trouve près du Descendant, Saturne l’atteint dans la même saison et colore les questions : avec Vénus, elles portent sur l’affection et ce qu’on lui doit ; avec Mars, sur la façon de régler les désaccords. Rien de tout cela ne décide si une relation commence, dure ou s’arrête ; je lis dans un thème des schémas, jamais des issues ([ma méthode](/how-i-read/)).
 
-En Placidus, le système de maisons que j’utilise, le Descendant est la cuspide de la maison 7 : ce passage ouvre donc [Saturne en transit en maison 7](/astrology/saturn-transit-7th-house/), après les années passées par Saturne parmi vos routines quotidiennes, en maison 6. C’est aussi le milieu du cycle de Saturne avec votre Ascendant, une quinzaine d’années après [Saturne en transit conjonction Ascendant du thème natal](/astrology/transiting-saturn-conjunct-natal-ascendant/) et autant avant le suivant.
+En Placidus, le système de maisons que j’utilise, le Descendant est la cuspide de la maison 7 : ce passage ouvre donc [Saturne en transit en maison 7](/astrology/saturn-transit-7th-house/), après les années passées par Saturne parmi vos routines quotidiennes, en maison 6. Ce passage tombe aussi à mi-parcours du tour de Saturne avec votre degré ascendant : [Saturne en transit conjonction Ascendant du thème natal](/astrology/transiting-saturn-conjunct-natal-ascendant/) a eu lieu une quinzaine d’années plus tôt, et le suivant est aussi loin devant.
 
 ## Combien de temps {#combien-de-temps}
 

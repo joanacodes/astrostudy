@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Mercury", "conjunction", "transits"]
 weight: 1749
 glyph: "♆☌☿"
-definition: "Transiting Neptune conjunct natal Mercury is Neptune crossing the degree of your Mercury for about two and a half years, once in a lifetime at most; half of people never meet it. Thinking turns towards images, intuition and metaphor, and facts need more checking. I read it as a season for an imaginative mind, never a muddled one."
+definition: "Transiting Neptune conjunct natal Mercury is Neptune crossing the degree of your Mercury for about two and a half years, once in a lifetime at most; half of people never meet it. Thinking turns towards images, intuition and metaphor, and facts need more checking. I read it as a season for an imaginative mind, never as confusion."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "Mercury ☿: thinking, learning and words" }
@@ -27,12 +27,12 @@ faq:
   - q: "Does Neptune conjunct Mercury make you forgetful?"
     a: "Not as I read it, and a chart can’t tell you anything about memory as a health matter. What changes is the style of your thinking: more pictures, fewer lists, more feeling for the whole than for the parts. Notes help. If concentration or memory worry you, see a doctor."
   - q: "Will Neptune conjunct my Mercury?"
-    a: "Half of people born between 1930 and 2009 meet it before 80, once; the other half never do. Until 2039, Neptune is in Aries, so it is reaching Mercury in Aries, which can sit beside a Sun in Pisces, Aries or Taurus."
+    a: "If it does, it will be once: about half the people born between 1930 and 2009 see Neptune cross their Mercury before they turn 80. Look at your Mercury’s sign rather than your birthday: an Aries Mercury, possible with a Pisces, Aries or Taurus Sun, is the one Neptune reaches before 2039."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Neptune stays within my orbs, and how many people meet the conjunction by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Neptune’s transits, read one by one" }
 ---
-Mercury is the part of you that names things, and Neptune is the planet least interested in names. For about two and a half years around Neptune's arrival on your Mercury, the way you take in, sort and pass on information borrows Neptune's habits: pictures before lists, feeling before argument.
+Mercury is the part of you that names things, and Neptune is the planet least interested in names. For two and a half years or so around Neptune's arrival on your Mercury, the way you take in, sort and pass on information borrows Neptune's habits: pictures before lists, feeling before argument.
 
 ## What changes {#what-changes}
 
@@ -40,15 +40,15 @@ Mercury is the part of you that names things, and Neptune is the planet least in
 
 Reasoning isn't certainty, and under Neptune it's easy to believe whatever fits the picture. What you sign, promise or pass on is worth a second look in daylight: not because anything will go wrong, but because a mind tuned to images lets details slide. Curiosity isn't distraction either, and this is a good season to study something that can only be learnt by feel. Interpretation is one of Mercury's jobs too, and under this conjunction it leans towards the symbolic: a dream, a coincidence or a song can seem to carry a message. Enjoy the meaning, and keep decisions for the facts.
 
-With your Mercury in the 3rd and Neptune crossing that house too ([Neptune transiting the 3rd house](/astrology/neptune-transit-3rd-house/)), everyday conversation, messages and study carry the change; in the 6th, it reaches the way you organise your working day. The natal [Mercury conjunct Neptune](/astrology/mercury-conjunct-neptune/) describes a mind that works this way for life; for everyone else, these are the years to try it. Houses need the birth time, which is why I don't read a chart without one ([what changes without a birth time](/blog/unknown-birth-time/)).
+With your Mercury in the 3rd and Neptune crossing that house too ([Neptune transiting the 3rd house](/astrology/neptune-transit-3rd-house/)), everyday conversation, messages and study carry the change; in the 6th, it reaches the way you organise your working day. The natal [Mercury conjunct Neptune](/astrology/mercury-conjunct-neptune/) describes a mind that works this way for life; for everyone else, these are the years to try it. Your birth time gives the houses, and I'd rather not guess them ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, Neptune stays on your Mercury for about two and a half years, sometimes not quite two. It never crosses the degree only once: three passes are usual, and five happen about one time in four, when Neptune's loops overlap ([Neptune retrograde](/astrology/neptune-retrograde/)).
+Within my orbs, from 1½° before exact to 1° after, Neptune remains within range of your Mercury for about two and a half years, sometimes not quite two. It never crosses the degree only once: three passes are usual, and five happen about one time in four, when Neptune's loops overlap ([Neptune retrograde](/astrology/neptune-retrograde/)).
 
-By 80, half of people born between 1930 and 2009 have met it, once; the other half never do. Whether you're among them depends on your birth year as much as your birthday, since it's Neptune's starting place that decides. Before and after this crossing come the sextiles ([transiting Neptune sextile natal Mercury](/astrology/transiting-neptune-sextile-natal-mercury/)) and the squares ([transiting Neptune square natal Mercury](/astrology/transiting-neptune-square-natal-mercury/)), further out the trines ([transiting Neptune trine natal Mercury](/astrology/transiting-neptune-trine-natal-mercury/)), and across the circle the opposition ([transiting Neptune opposite natal Mercury](/astrology/transiting-neptune-opposite-natal-mercury/)).
+Of those born between 1930 and 2009, one in two meets this conjunction before 80, and no one meets it twice. Whether you're among them is a matter of your birth year as well as your birthday, since Neptune's starting place decides it. Before and after this crossing come the sextiles ([transiting Neptune sextile natal Mercury](/astrology/transiting-neptune-sextile-natal-mercury/)) and the squares ([transiting Neptune square natal Mercury](/astrology/transiting-neptune-square-natal-mercury/)), further out the trines ([transiting Neptune trine natal Mercury](/astrology/transiting-neptune-trine-natal-mercury/)), and across the circle the opposition ([transiting Neptune opposite natal Mercury](/astrology/transiting-neptune-opposite-natal-mercury/)).
 
-Until 2039, Neptune is in Aries and meets Mercury there, the early degrees first. Your Mercury can be in Aries with a Sun in Pisces, Aries or Taurus ([Mercury in Aries](/astrology/mercury-in-aries/)).
+Neptune moves through Aries from its first degrees until 2039, and your Mercury can be in Aries with a Sun in Pisces, Aries or Taurus ([Mercury in Aries](/astrology/mercury-in-aries/)).
 
 ## What helps {#what-helps}
 

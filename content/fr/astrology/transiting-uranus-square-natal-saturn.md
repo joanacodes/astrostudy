@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Saturne", "carré", "transits"]
 weight: 1712
 glyph: "♅□♄"
-definition: "Uranus en transit carré Saturne du thème natal, c’est Uranus à 90° du degré qu’occupait Saturne à votre naissance, pendant une vingtaine de mois, deux fois dans la plupart des vies. Ce que vous avez bâti rencontre l’envie de le changer, et la friction demande une réforme pas à pas. J’y lis un ajustement sous charge, jamais un effondrement."
+definition: "Uranus en transit carré Saturne du thème natal, c’est Uranus à 90° du degré qu’occupait Saturne à votre naissance, une vingtaine de mois, deux fois pour la plupart des gens, et parfois une première fois avant 5 ans. Ce que vous avez bâti rencontre l’envie de le changer. J’y lis un ajustement sous charge, jamais un effondrement."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Saturne ♄ : structure, responsabilité et temps" }
@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/uranus", "/astrology/saturn", "/astrology/square", "/astrology/saturn-square-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit carré Saturne du thème natal ?"
-    a: "Uranus se trouve à 90° du degré qu’occupait Saturne à votre naissance. J’y lis une friction entre ce que vous avez bâti et ce qui veut changer : un rôle, une règle ou une routine qui ne va plus mais porte encore du poids. Le carré demande une réforme pas à pas, ni tour de vis ni table rase."
+    a: "Uranus se trouve à 90° de Saturne dans votre thème, la part qui porte la structure et le devoir. J’y lis une friction entre ce que vous avez bâti et ce qui veut changer : un rôle, une règle ou une routine qui ne va plus mais porte encore du poids. Le carré demande une réforme pas à pas, ni tour de vis ni table rase."
   - q: "Combien de temps dure Uranus carré Saturne ?"
-    a: "Une vingtaine de mois, avec mes orbes de 1,5° avant le carré exact à 1° après, et onze environ au plus rapide. Dans plus de neuf cas sur dix, Uranus franchit trois fois le carré exact : la même structure est mise à l’épreuve plus d’une fois."
+    a: "La pression sur ce que vous avez bâti dure une vingtaine de mois, avec mes orbes de 1,5° avant le carré exact à 1° après, et onze environ au plus rapide. Dans plus de neuf cas sur dix, Uranus franchit trois fois le carré exact : la même structure est mise à l’épreuve plus d’une fois."
   - q: "Est-ce qu’Uranus carré Saturne est un mauvais transit ?"
     a: "C’est un transit exigeant, pas mauvais. Un carré est une friction qui pousse une structure à s’adapter, et les structures de Saturne sont celles sur lesquelles vous vous appuyez : la saison peut peser. Mais elle ne prédit aucun événement, aucune perte de travail, de logement ou de relation : elle décrit une pression pour changer la façon dont quelque chose fonctionne."
   - q: "À quel âge arrive le carré d’Uranus à Saturne ?"

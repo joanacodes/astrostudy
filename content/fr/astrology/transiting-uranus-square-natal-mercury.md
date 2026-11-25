@@ -25,12 +25,12 @@ faq:
   - q: "Uranus carré Mercure, est-ce mauvais pour la communication ?"
     a: "Les conversations peuvent devenir plus rapides et plus abruptes, les malentendus plus faciles, parce que l’esprit court devant les mots. C’est une friction, pas un dommage. Ralentir la réponse, mettre l’important par écrit et chercher ce qu’il y a derrière une objection transforment en général le carré en meilleures idées."
   - q: "Combien de temps dure Uranus carré Mercure ?"
-    a: "Une vingtaine de mois avec mes orbes, parfois onze seulement, et dans plus de neuf cas sur dix le carré exact est franchi trois fois. Ce carré revient deux fois par tour d’Uranus, soit tous les 84 ans environ, une vingtaine d’années avant et une vingtaine d’années après le passage d’Uranus sur votre Mercure."
+    a: "Une vingtaine de mois avec mes orbes, parfois onze seulement, et dans plus de neuf cas sur dix le carré exact est franchi trois fois. Une longue vie en contient en général deux, à plusieurs décennies d’intervalle."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de carrés viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le carré d’Uranus à Mercure, parmi ses transits" }
 ---
-Une vingtaine d’années avant qu’Uranus n’atteigne votre Mercure, et une vingtaine d’années après, les deux se trouvent à angle droit. À chaque fois, pendant une vingtaine de mois, votre façon de penser et celle qu’on vous demande cessent de s’accorder, et la dispute a tendance à améliorer vos méthodes.
+Uranus forme un carré avec votre Mercure en allant vers l’opposition, puis de nouveau au retour. À chaque fois, pendant une vingtaine de mois, votre façon de penser et celle qu’on vous demande cessent de s’accorder, et la dispute a tendance à améliorer vos méthodes.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -46,7 +46,7 @@ Avec Mercure en maison 3 et Uranus qui traverse votre maison 6 ([Uranus en trans
 
 Dans mes orbes, qui s’ouvrent à 1,5° avant l’exactitude et se ferment à 1° après, le carré dure une vingtaine de mois ; les passages les plus rapides prennent onze mois environ. Uranus franchit trois fois le carré exact dans plus de neuf cas sur dix : une première solution trouvée vite a donc en général droit à un second examen avant la fin du carré.
 
-Les deux carrés se placent à une vingtaine d’années de part et d’autre de [Uranus en transit conjonction Mercure du thème natal](/astrology/transiting-uranus-conjunct-natal-mercury/). Entre le premier et [Uranus en transit opposition Mercure du thème natal](/astrology/transiting-uranus-opposite-natal-mercury/) se trouve le premier [Uranus en transit trigone Mercure du thème natal](/astrology/transiting-uranus-trine-natal-mercury/) ; entre la conjonction et chaque carré vient un [Uranus en transit sextile Mercure du thème natal](/astrology/transiting-uranus-sextile-natal-mercury/). Sur une vie de 80 ans, le compte habituel est de deux carrés, et jamais moins d’un.
+Mercure ne s’écarte jamais de plus de 28° environ du Soleil : chacun de ces carrés vient donc à six ou sept ans au plus du carré d’Uranus à votre Soleil ([Uranus en transit carré Soleil du thème natal](/astrology/transiting-uranus-square-natal-sun/)), et pendant la même saison si votre Mercure se tient près de votre Soleil. L’ordre autour d’eux ne change jamais : un sextile ([Uranus en transit sextile Mercure du thème natal](/astrology/transiting-uranus-sextile-natal-mercury/)) entre [Uranus en transit conjonction Mercure du thème natal](/astrology/transiting-uranus-conjunct-natal-mercury/) et chaque carré, et le premier trigone ([Uranus en transit trigone Mercure du thème natal](/astrology/transiting-uranus-trine-natal-mercury/)) entre le premier carré et [Uranus en transit opposition Mercure du thème natal](/astrology/transiting-uranus-opposite-natal-mercury/). Sur une vie de 80 ans, le compte habituel est de deux carrés, et jamais moins d’un.
 
 Jusqu’en 2033, ce [transit](/astrology/transits/) part des Gémeaux, l’un des signes de Mercure, et touche les thèmes où Mercure se trouve en Vierge, l’autre signe de Mercure, ou en Poissons, où la tradition situe la chute de Mercure.
 

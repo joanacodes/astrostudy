@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Ascendant", "trigone", "transits"]
 weight: 1673
 glyph: "♄△AC"
-definition: "Saturne en transit trigone Ascendant du thème natal, c’est Saturne, dans le ciel, à 120° du degré qui se levait à votre naissance, deux fois par tour de 29 ans et demi. La stabilité gagne votre manière d’être, et l’on vous prend au sérieux sans insister. J’y lis une saison facile pour la présence, jamais une promesse de chance."
+definition: "Saturne en transit trigone Ascendant du thème natal, c’est Saturne, dans le ciel, en trigone au degré qui se levait à votre naissance, à une dizaine d’années de chaque passage sur ce degré. La stabilité gagne votre manière d’être, et l’on vous prend au sérieux sans insister. J’y lis une saison facile pour la présence, jamais une promesse."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "L’Ascendant AC, votre façon d’aborder le monde" }
@@ -24,9 +24,9 @@ faq:
   - q: "Que veut dire Saturne en transit trigone Ascendant ?"
     a: "Saturne, dans le ciel, est à 120° de votre degré ascendant : la stabilité gagne sans friction votre façon d’aborder les gens et les situations. On vous prend plus facilement au sérieux, et les engagements pris en arrivant se tiennent mieux. C’est une saison facile, et les saisons faciles demandent qu’on s’en serve."
   - q: "Combien de temps dure Saturne trigone Ascendant ?"
-    a: "Neuf mois environ avec mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus de la moitié de ces trigones prennent la forme d’une boucle rétrograde à trois passages exacts, longue de neuf mois et demi environ ; avec un seul passage exact, trois semaines."
+    a: "Attendez-vous à neuf mois environ dans l’orbe, avec mes orbes de 1,5° avant l’exactitude et 1° après. Les passages exacts vont par trois un peu plus souvent qu’autrement ; un passage isolé peut signifier trois semaines. Une heure de naissance connue seulement à la demi-heure brouille les dates sur presque toute une année."
   - q: "Quand vient le trigone de Saturne à mon Ascendant ?"
-    a: "Deux fois par tour : environ dix ans après le passage de Saturne sur votre Ascendant, avec Saturne autour de votre maison 5, et environ dix ans avant le passage suivant, autour de votre maison 9. Avec un ascendant Lion ou Sagittaire, les années de Saturne en Bélier, jusqu’en avril 2028, en apportent un."
+    a: "Deux fois par tour : environ dix ans après le passage de Saturne sur votre Ascendant, avec Saturne autour de votre maison 5, et environ dix ans avant le passage suivant, autour de votre maison 9. Votre heure de naissance fixe les mois. Les ascendants Lion et Sagittaire vivent le leur pendant que Saturne traverse le Bélier, jusqu’en avril 2028."
   - q: "Saturne trigone Ascendant, est-ce un transit de chance ?"
     a: "Je n’y lis pas de chance. Le trigone aide à garder une manière d’être stable et fiable, ce qui peut inspirer confiance, mais rien n’arrive à cause du transit. Ce que vous bâtissez sur cette aisance vous appartient, et le fait même de la remarquer aussi."
 sources:
@@ -41,7 +41,7 @@ Deux fois par tour, une dizaine d’années après le passage de Saturne sur vot
 
 L’aisance n’est pas une fatalité, et un courant n’est pas de la passivité. Le trigone convient pour habiter la personne que vous êtes devenue depuis le dernier passage : laisser tomber un tic qui appartenait à un ancien rôle, laisser se montrer une autorité plus calme. Il ne vous donne rien, et il peut se dépenser à se sentir simplement à l’aise.
 
-Les deux trigones arrivent de maisons différentes. Le premier vient avec Saturne autour de votre maison 5 ([Saturne en transit en maison 5](/astrology/saturn-transit-5th-house/)) : la création, le jeu, l’amour, ce que vous faites pour le plaisir. La tradition donnait aussi les enfants à la maison 5, et aucun transit ne peut rien dire d’une grossesse ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)). Le second vient avec Saturne autour de votre maison 9 ([Saturne en transit en maison 9](/astrology/saturn-transit-9th-house/)) : les convictions, les études, les longs voyages.
+Chaque trigone vient avec Saturne dans une maison différente. Le premier vient avec Saturne autour de votre maison 5 ([Saturne en transit en maison 5](/astrology/saturn-transit-5th-house/)) : la création, le jeu, l’amour, ce que vous faites pour le plaisir. La tradition donnait aussi les enfants à la maison 5, et aucun transit ne peut rien dire d’une grossesse ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)). Le second vient avec Saturne autour de votre maison 9 ([Saturne en transit en maison 9](/astrology/saturn-transit-9th-house/)) : les convictions, les études, les longs voyages.
 
 ## Combien de temps {#combien-de-temps}
 

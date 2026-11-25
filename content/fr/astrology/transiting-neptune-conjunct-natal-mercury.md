@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Mercure", "conjonction", "transits"]
 weight: 1749
 glyph: "♆☌☿"
-definition: "Neptune en transit conjonction Mercure du thème natal, c’est Neptune sur le degré de votre Mercure pendant environ deux ans et demi, une fois dans une vie au plus, et la moitié des gens jamais. La pensée passe par les images et l’intuition, et les faits demandent à être revus. J’y lis la saison d’un esprit imaginatif, jamais brouillon."
+definition: "Neptune en transit conjonction Mercure du thème natal, c’est Neptune sur le degré de votre Mercure pendant environ deux ans et demi, une fois dans une vie au plus, et la moitié des gens jamais. La pensée passe par les images et l’intuition, et les faits demandent à être revus. J’y lis la saison d’un esprit imaginatif, jamais la confusion."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "Mercure ☿ : pensée, apprentissage et mots" }
@@ -28,7 +28,7 @@ faq:
   - q: "Est-ce que Neptune conjonction Mercure fait perdre la mémoire ?"
     a: "Pas tel que je le lis, et un thème ne peut rien dire de la mémoire comme question de santé. Ce qui change, c’est le style de votre pensée : plus d’images, moins de listes, plus de sens de l’ensemble que des détails. Les notes aident. Si la concentration ou la mémoire vous inquiètent, voyez un médecin."
   - q: "Est-ce que Neptune atteindra Mercure dans mon thème ?"
-    a: "La moitié des personnes nées entre 1930 et 2009 le rencontrent avant 80 ans, une fois ; l’autre moitié jamais. Jusqu’en 2039, Neptune est en Bélier et rejoint Mercure en Bélier, qui peut accompagner un Soleil en Poissons, en Bélier ou en Taureau."
+    a: "Si c’est le cas, ce sera une seule fois : avant leurs 80 ans, environ la moitié des personnes nées entre 1930 et 2009 voient Neptune franchir leur Mercure. Regardez le signe de votre Mercure plutôt que votre date d’anniversaire : c’est Mercure en Bélier, possible avec un Soleil en Poissons, en Bélier ou en Taureau, que Neptune atteint avant 2039."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Neptune reste dans mes orbes, et combien de personnes rencontrent la conjonction avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Neptune, un par un" }
@@ -41,15 +41,15 @@ Mercure est la part de vous qui nomme les choses, et Neptune est la planète qui
 
 Le raisonnement n’est pas la certitude, et sous Neptune, il est facile de croire ce qui va avec l’image. Ce que vous signez, promettez ou transmettez mérite une seconde lecture en plein jour : non que quelque chose doive mal tourner, mais un esprit accordé aux images laisse filer les détails. La curiosité n’est pas la distraction non plus, et c’est une bonne saison pour étudier ce qui ne s’apprend qu’au ressenti. Interpréter fait aussi partie du travail de Mercure, et sous cette conjonction l’interprétation penche vers le symbole : un rêve, une coïncidence ou une chanson peuvent sembler porter un message. Profitez du sens, et gardez les décisions pour les faits.
 
-Avec Mercure en maison 3 et Neptune dans cette même maison ([Neptune en transit en maison 3](/astrology/neptune-transit-3rd-house/)), les conversations de tous les jours, les messages et les études portent le changement ; en maison 6, il touche votre façon d’organiser vos journées de travail. [Mercure conjonction Neptune](/astrology/mercury-conjunct-neptune/), dans un thème natal, décrit un esprit qui fonctionne ainsi toute la vie ; pour les autres, ce sont les années pour l’essayer. Les maisons demandent l’heure de naissance, et c’est pourquoi je ne lis pas un thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Mercure en maison 3 et Neptune dans cette même maison ([Neptune en transit en maison 3](/astrology/neptune-transit-3rd-house/)), les conversations de tous les jours, les messages et les études portent le changement ; en maison 6, il touche votre façon d’organiser vos journées de travail. [Mercure conjonction Neptune](/astrology/mercury-conjunct-neptune/), dans un thème natal, décrit un esprit qui fonctionne ainsi toute la vie ; pour les autres, ce sont les années pour l’essayer. C’est votre heure de naissance qui donne les maisons, et je préfère ne pas les deviner ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Neptune reste sur votre Mercure environ deux ans et demi, parfois pas tout à fait deux. Le degré n’est jamais franchi une seule fois : trois passages sont la règle, cinq arrivent environ une fois sur quatre, quand les boucles de Neptune se chevauchent ([Neptune rétrograde](/astrology/neptune-retrograde/)).
+Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Neptune demeure à portée de votre Mercure environ deux ans et demi, parfois pas tout à fait deux. Le degré n’est jamais franchi une seule fois : trois passages sont la règle, cinq arrivent environ une fois sur quatre, quand les boucles de Neptune se chevauchent ([Neptune rétrograde](/astrology/neptune-retrograde/)).
 
-Avant 80 ans, la moitié des personnes nées entre 1930 et 2009 l’ont rencontré, une fois ; l’autre moitié jamais. En faire partie dépend de votre année de naissance autant que de votre date d’anniversaire, puisque c’est le point de départ de Neptune qui décide. Avant et après ce passage viennent les sextiles ([Neptune en transit sextile Mercure du thème natal](/astrology/transiting-neptune-sextile-natal-mercury/)) et les carrés ([Neptune en transit carré Mercure du thème natal](/astrology/transiting-neptune-square-natal-mercury/)), plus loin les trigones ([Neptune en transit trigone Mercure du thème natal](/astrology/transiting-neptune-trine-natal-mercury/)), et à l’autre bout du cercle l’opposition ([Neptune en transit opposition Mercure du thème natal](/astrology/transiting-neptune-opposite-natal-mercury/)).
+Une personne sur deux née entre 1930 et 2009 rencontre cette conjonction avant 80 ans, et personne ne la rencontre deux fois. En faire partie tient à votre année de naissance comme à votre date d’anniversaire, puisque tout dépend du point de départ de Neptune. Avant et après ce passage viennent les sextiles ([Neptune en transit sextile Mercure du thème natal](/astrology/transiting-neptune-sextile-natal-mercury/)) et les carrés ([Neptune en transit carré Mercure du thème natal](/astrology/transiting-neptune-square-natal-mercury/)), plus loin les trigones ([Neptune en transit trigone Mercure du thème natal](/astrology/transiting-neptune-trine-natal-mercury/)), et à l’autre bout du cercle l’opposition ([Neptune en transit opposition Mercure du thème natal](/astrology/transiting-neptune-opposite-natal-mercury/)).
 
-Jusqu’en 2039, Neptune est en Bélier et y rejoint Mercure, les premiers degrés d’abord. Votre Mercure peut être en Bélier avec un Soleil en Poissons, en Bélier ou en Taureau ([Mercure en Bélier](/astrology/mercury-in-aries/)).
+Neptune parcourt le Bélier depuis ses premiers degrés jusqu’en 2039, et votre Mercure peut être en Bélier avec un Soleil en Poissons, en Bélier ou en Taureau ([Mercure en Bélier](/astrology/mercury-in-aries/)).
 
 ## Ce qui aide {#ce-qui-aide}
 

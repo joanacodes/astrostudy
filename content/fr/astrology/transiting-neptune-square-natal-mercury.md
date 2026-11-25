@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Mercure", "carré", "transits"]
 weight: 1751
 glyph: "♆□☿"
-definition: "Neptune en transit carré Mercure du thème natal, c’est Neptune à 90° du degré de votre Mercure pendant environ deux ans et demi, que presque tout le monde rencontre avant 80 ans. L’intuition et les faits tirent dans des sens différents, et les projets perdent leurs contours. J’y lis une friction qui affine le jugement, jamais un esprit embrouillé."
+definition: "Neptune en transit carré Mercure du thème natal, c’est Neptune à 90° du degré de votre Mercure pendant environ deux ans et demi, que presque tout le monde rencontre avant 80 ans. L’intuition et les faits tirent dans des sens différents, et les projets perdent leurs contours. J’y lis un entraînement à peser les preuves, jamais une perte de clarté."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "Mercure ☿ : pensée, apprentissage et mots" }
@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Neptune tient le carré dans mes orbes, et combien de fois il revient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Neptune, un par un" }
 ---
-Le carré est le plus courant des contacts de Neptune avec votre Mercure : avant 80 ans, presque tout le monde en a connu un. Pendant environ deux ans et demi, la part de vous qui trie les faits et celle qui sent le sens cessent de s’accorder facilement, et chacune a quelque chose à apprendre à l’autre.
+Le carré est le plus courant des contacts de Neptune avec votre Mercure : avant 80 ans, presque tout le monde en a connu un. Pendant environ deux ans et demi, les faits que vous triez et le sens que vous percevez cessent de s’accorder facilement, et chacun peut apprendre quelque chose à l’autre.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -39,15 +39,15 @@ Le carré est le plus courant des contacts de Neptune avec votre Mercure : avan
 
 Les angles morts de Neptune sont ici les plus vifs : confondre la résonance avec la vérité, et l’imagination avec la preuve. Une bonne habitude pour ces années : traiter une intuition importante comme une question à vérifier plutôt que comme une réponse à suivre. Les malentendus, quand ils viennent, tiennent au ton autant qu’aux faits ; redire la même chose une seconde fois, en mots simples, épargne bien des suppositions.
 
-Avec Mercure en maison 6 et Neptune en maison 9 ([Neptune en transit en maison 9](/astrology/neptune-transit-9th-house/)), l’organisation de vos journées frotte contre une croyance en train de changer ; avec Mercure en maison 10 et Neptune en maison 1, ce que vous dites en public et l’image que vous avez de vous cessent de coïncider. Les deux maisons viennent de l’heure de naissance, et je ne commence aucune lecture sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Supposons Mercure en maison 6 pendant que Neptune traverse la maison 9 ([Neptune en transit en maison 9](/astrology/neptune-transit-9th-house/)) : l’organisation de vos journées frotte contre une croyance en train de changer. Avec Mercure en maison 2 et Neptune en maison 11, votre façon de penser ce qui compte pour vous et les idéaux d’un groupe se mettent à diverger. Les deux maisons tiennent à votre heure de naissance : je n’y touche pas avant de l’avoir ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Neptune tient le carré environ deux ans et demi, vingt-deux mois environ au plus court. Le carré exact est en général franchi trois fois, cinq fois environ un passage sur quatre, les passages du milieu se faisant pendant la rétrogradation de Neptune.
+Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le carré s’étend sur environ deux ans et demi, et même les passages les plus rapides durent vingt-deux mois environ. Le carré exact est en général franchi trois fois, cinq fois environ un passage sur quatre, les passages du milieu se faisant pendant la rétrogradation de Neptune.
 
-Mercure voyage avec le Soleil, jamais à plus de 28° environ, et Neptune parcourt 28° en treize ans environ : le carré à votre Mercure et [Neptune en transit carré Soleil du thème natal](/astrology/transiting-neptune-square-natal-sun/) viennent donc en général à une douzaine d’années d’écart au plus ; avant 80 ans, rares sont les personnes nées entre 1930 et 2009 qui n’en ont connu aucun. Les carrés se situent entre la conjonction ([Neptune en transit conjonction Mercure du thème natal](/astrology/transiting-neptune-conjunct-natal-mercury/)) et l’opposition ([Neptune en transit opposition Mercure du thème natal](/astrology/transiting-neptune-opposite-natal-mercury/)) ; le sextile ([Neptune en transit sextile Mercure du thème natal](/astrology/transiting-neptune-sextile-natal-mercury/)) se trouve du côté de la conjonction, le trigone ([Neptune en transit trigone Mercure du thème natal](/astrology/transiting-neptune-trine-natal-mercury/)) du côté de l’opposition. [Mercure carré Neptune](/astrology/mercury-square-neptune/), dans un thème natal, décrit un esprit qui vit avec cette friction pour de bon ; en transit, elle a un début et une fin, et c’est ce qui la rend vivable.
+L’écart entre Mercure et le Soleil ne dépasse jamais 28° environ, et il faut à Neptune treize ans environ pour couvrir cette distance : le carré à votre Mercure et [Neptune en transit carré Soleil du thème natal](/astrology/transiting-neptune-square-natal-sun/) viennent donc en général à une douzaine d’années d’écart au plus ; avant 80 ans, rares sont les personnes nées entre 1930 et 2009 qui n’en ont connu aucun. Les carrés se situent entre la conjonction ([Neptune en transit conjonction Mercure du thème natal](/astrology/transiting-neptune-conjunct-natal-mercury/)) et l’opposition ([Neptune en transit opposition Mercure du thème natal](/astrology/transiting-neptune-opposite-natal-mercury/)) ; le sextile ([Neptune en transit sextile Mercure du thème natal](/astrology/transiting-neptune-sextile-natal-mercury/)) se trouve du côté de la conjonction, le trigone ([Neptune en transit trigone Mercure du thème natal](/astrology/transiting-neptune-trine-natal-mercury/)) du côté de l’opposition. Dans un thème natal, [Mercure carré Neptune](/astrology/mercury-square-neptune/) installe cette friction pour la vie ; en transit, elle a un début et une fin, et c’est ce qui la rend vivable.
 
-Depuis le Bélier, jusqu’en 2039, Neptune forme un carré à Mercure en Cancer et en Capricorne.
+En ce moment, le carré tombe sur Mercure en Cancer ou en Capricorne, et ce sera le cas jusqu’à ce que Neptune quitte le Bélier, en 2039.
 
 ## Ce qui aide {#ce-qui-aide}
 

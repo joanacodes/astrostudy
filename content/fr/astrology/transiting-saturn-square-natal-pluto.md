@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Pluton", "carré", "transits"]
 weight: 1667
 glyph: "♄□♇"
-definition: "Saturne en transit carré Pluton du thème natal, c’est Saturne, dans le ciel, à 90° du degré qu’occupait Pluton à votre naissance, deux fois par tour de 29 ans et demi. L’envie de garder une structure et le besoin de la changer à la racine se pressent jusqu’à trouver une meilleure forme. J’y lis une pression utile, jamais une menace."
+definition: "Saturne en transit carré Pluton du thème natal, c’est Saturne, dans le ciel, à 90° du degré qu’occupait Pluton à votre naissance : un carré tous les quinze ans, le premier avant 15 ans. Garder une structure et la changer à la racine : les deux besoins se pressent jusqu’à une meilleure forme. J’y lis une pression utile, jamais une menace."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Pluton ♇, la profondeur, le pouvoir et le renouveau" }
@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire Saturne en transit carré Pluton ?"
     a: "Saturne, dans le ciel, est à 90° de votre Pluton de naissance : ce que vous tenez ensemble et ce qui doit changer à la racine se pressent l’un l’autre. Ce transit montre souvent où vous comptiez sur la force, le contrôle ou la seule endurance. J’y lis une pression vers une meilleure structure, exigeante mais utile, jamais une punition."
   - q: "Combien de temps dure Saturne carré Pluton en transit ?"
-    a: "Neuf mois environ dans mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, le carré prend la forme d’une boucle rétrograde de trois passages exacts sur neuf mois et demi environ ; un passage exact unique peut le réduire à trois semaines."
+    a: "En règle générale, neuf mois environ, comptés de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, le carré est exact trois fois au gré de la boucle de Saturne ; avec un seul passage exact, il peut passer en trois semaines."
   - q: "Quand vient le carré de Saturne à mon Pluton ?"
     a: "Deux fois par tour de Saturne, à une quinzaine d’années d’écart, à des âges que partage votre année de naissance. Pour une naissance en 1975, vers 14, 29 et 43 ans, le suivant vers 58 ans, en 2033 ; en 1985, vers 6, 21 et 36 ans, puis vers 50 ans."
   - q: "Saturne carré Pluton, est-ce dangereux ?"
@@ -41,7 +41,7 @@ Saturne forme un carré au degré qu’occupait votre Pluton de naissance enviro
 
 Une friction n’est pas un échec, et le carré ne vous demande rien d’abattre. Il vous demande de repérer où la force a remplacé les fondations, et d’en rebâtir une correctement. Certaines choses demandent plus de structure, d’autres moins de prise, et le plus difficile est de savoir lesquelles. Beaucoup de gens trouvent la saison fatigante ; l’effort se change en général en un arrangement plus solide et plus simple.
 
-La maison de votre Pluton montre où se loge la pression : en maison 4, les schémas familiaux et ce que vous portez chez vous ; en maison 11, votre place dans un groupe et le pouvoir que vous y tenez. Cette maison demande votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison de votre Pluton montre où se loge la pression : en maison 4, les schémas familiaux et ce que vous portez chez vous ; en maison 11, votre place dans un groupe et le pouvoir que vous y tenez. La maison où tombe votre Pluton, seule l’heure de naissance peut me la dire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

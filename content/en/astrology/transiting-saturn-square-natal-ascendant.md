@@ -27,7 +27,7 @@ faq:
   - q: "Is Saturn square my Ascendant the same as Saturn on my Midheaven?"
     a: "Not quite. One of the two squares falls near your Midheaven and the other near your IC, but the Midheaven is rarely exactly 90° from the Ascendant, so the square and the crossing usually come at different times, sometimes weeks apart, sometimes more than a year. Your birth chart shows the gap."
   - q: "When does Saturn square my Ascendant?"
-    a: "Twice in each round of Saturn, about seven years after it crosses your Ascendant and about seven years before it crosses it again. The months depend on your rising degree, so on your birth time. If you have Cancer or Capricorn rising, the current one comes from Saturn in Aries, until April 2028."
+    a: "Twice in each round of Saturn, about seven years after it crosses your Ascendant and about seven years before it crosses it again. Your birth time fixes the rising degree, and so the months. If you have Cancer or Capricorn rising, the current one comes from Saturn in Aries, until April 2028."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long it lasts with my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to the angles, read one by one" }

@@ -24,7 +24,7 @@ faq:
   - q: "Will Uranus opposite Venus end my relationship?"
     a: "No transit ends a relationship, as I read them, and this one decides nothing. It tends to make the balance between closeness and freedom visible, often through what one person needs. A bond can come through it on fairer terms; what happens is up to the people in it."
   - q: "When does Uranus oppose Venus?"
-    a: "It marks the halfway point of the 84 years Uranus needs to come back to your Venus, about 42 years after crossing it, so it comes once in a life at most. By 80, all but about one person in 50 born between 1930 and 2009 have had it. Its twenty months or so usually hold three exact crossings."
+    a: "It marks the halfway point of the 84 years Uranus needs to come back to your Venus, about 42 years after crossing it, so it comes once in a life at most. By 80, all but about 1 person in 50 born between 1930 and 2009 have had it. Its twenty months or so usually hold three exact crossings."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the opposition by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus opposite Venus, among his transits" }
@@ -45,7 +45,7 @@ With Venus in your 5th and Uranus crossing your 11th ([Uranus transiting the 11t
 
 The opposition keeps within my orbs, 1½° before exact to 1° after, for about twenty months; a few passes manage it in about eleven. Uranus crosses the exact point three times in more than nine passes out of ten, so a conversation started at the first is rarely the last word.
 
-It falls about 42 years after [transiting Uranus conjunct natal Venus](/astrology/transiting-uranus-conjunct-natal-venus/): if Uranus crossed your Venus at 10, the opposition comes at about 52, and if the crossing comes at 50, the opposition came at about 8. [Transiting Uranus sextile natal Venus](/astrology/transiting-uranus-sextile-natal-venus/), [transiting Uranus square natal Venus](/astrology/transiting-uranus-square-natal-venus/) and [transiting Uranus trine natal Venus](/astrology/transiting-uranus-trine-natal-venus/) each come twice in the same round, which is why most people meet them more often than this. By 80, all but about one person in 50 have had it.
+It falls about 42 years after [transiting Uranus conjunct natal Venus](/astrology/transiting-uranus-conjunct-natal-venus/): if Uranus crossed your Venus at 10, the opposition comes at about 52, and if the crossing comes at 50, the opposition came at about 8. [Transiting Uranus sextile natal Venus](/astrology/transiting-uranus-sextile-natal-venus/), [transiting Uranus square natal Venus](/astrology/transiting-uranus-square-natal-venus/) and [transiting Uranus trine natal Venus](/astrology/transiting-uranus-trine-natal-venus/) each come twice in the same round, which is why most people meet them more often than this. Nearly everyone has been through it by 80; about 1 person in 50 has not.
 
 The Sun is never far from Venus, at most about 47° away, so the opposition to your Sun ([transiting Uranus opposite natal Sun](/astrology/transiting-uranus-opposite-natal-sun/)) falls within about eleven years of this one, whichever comes first. Like every [transit](/astrology/transits/), each describes a climate, not an outcome.
 

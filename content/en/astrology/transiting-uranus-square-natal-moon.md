@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the square comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus square the Moon, among his transits" }
 ---
-Twice in Uranus's round, about twenty years before it reaches your Moon and about twenty years after, the planet of change squares the place where you look for rest. For about twenty months each time, comfort and freedom want different things from the same evenings.
+Twice in Uranus's round, at the quarter turns either side of your Moon, the planet of change squares the place where you look for rest. For about twenty months each time, comfort and freedom want different things from the same evenings.
 
 ## What changes {#what-changes}
 
@@ -45,7 +45,7 @@ With your Moon in the 2nd and Uranus crossing your 5th ([Uranus transiting the 5
 
 The usual length, with my orbs of 1½° before exact and 1° after, is about twenty months; a few passes take only eleven. Three exact crossings are what most people get, in more than nine passes out of ten, which gives the square a beginning, a middle and an end.
 
-One square comes about twenty years before Uranus crosses your Moon ([transiting Uranus conjunct natal Moon](/astrology/transiting-uranus-conjunct-natal-moon/)) and the other about twenty years after, so some 42 years separate them, with [transiting Uranus opposite natal Moon](/astrology/transiting-uranus-opposite-natal-moon/) halfway. The friendlier angles of the round, [transiting Uranus sextile natal Moon](/astrology/transiting-uranus-sextile-natal-moon/) and [transiting Uranus trine natal Moon](/astrology/transiting-uranus-trine-natal-moon/), sit about seven years either side of each square. Most people have lived through both squares by 80; the rest, through one.
+About twenty years separate each square from [transiting Uranus conjunct natal Moon](/astrology/transiting-uranus-conjunct-natal-moon/), one before and one after, and [transiting Uranus opposite natal Moon](/astrology/transiting-uranus-opposite-natal-moon/) falls midway between them. The friendlier angles of the round, [transiting Uranus sextile natal Moon](/astrology/transiting-uranus-sextile-natal-moon/) and [transiting Uranus trine natal Moon](/astrology/transiting-uranus-trine-natal-moon/), sit about seven years either side of each square. Most people have lived through both squares by 80; the rest, through one.
 
 Until 2033, while Uranus crosses Gemini, the Moons this [transit](/astrology/transits/) reaches are in Virgo and Pisces. Born with [Moon square Uranus](/astrology/moon-square-uranus/), you know this friction from the inside; the transit is the same rub with a start date and an end date.
 

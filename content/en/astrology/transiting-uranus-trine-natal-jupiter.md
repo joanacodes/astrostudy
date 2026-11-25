@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Jupiter", "trine", "transits"]
 weight: 1708
 glyph: "♅△♃"
-definition: "Transiting Uranus trine natal Jupiter is Uranus 120° from the degree Jupiter held at your birth, a season of about twenty months that most people meet twice. Change and growth run the same way: a new idea or direction widens your outlook without overturning it. I read it as an easy season for rethinking, never as luck."
+definition: "Transiting Uranus trine natal Jupiter is Uranus 120° from the degree Jupiter held at your birth, usually from a sign of Jupiter’s own element, for about twenty months. Change and growth run the same way: a new idea or direction widens your outlook without overturning it. I read it as an easy season for rethinking, never as luck."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Jupiter ♃: growth, meaning and what you believe" }
@@ -20,9 +20,9 @@ facts:
 related: ["/astrology/uranus", "/astrology/jupiter", "/astrology/trine", "/astrology/jupiter-trine-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus trine natal Jupiter mean?"
-    a: "Uranus stands 120° from the degree your Jupiter held at birth. For about twenty months, change and growth pull the same way: a new idea, method or direction widens your outlook without having to overturn it. I read it as an easy season for learning and rethinking, one that still needs you to choose where to go."
+    a: "Uranus stands 120° from your natal Jupiter, usually in a sign of the same element. For about twenty months, change and growth pull the same way: a new idea, method or direction widens your outlook without having to overturn it. I read it as an easy season for learning and rethinking, one that still needs you to choose where to go."
   - q: "How long does Uranus trine Jupiter last?"
-    a: "About twenty months, from 1½° before the exact trine to 1° after, and about eleven when the pass is short. Most passes bring three exact hits because of Uranus’s yearly retrograde loop; in about one in fourteen, Uranus touches the exact degree only once and still stays about as long."
+    a: "About twenty months, from 1½° before the exact trine to 1° after, and about eleven when the pass is short, even when Uranus touches the exact degree only once, as it does in about one pass in fourteen. Most passes bring three exact hits, because of Uranus’s yearly retrograde loop."
   - q: "Does Uranus trine Jupiter bring money or luck?"
     a: "Not as I read it, and I don’t forecast money for anyone. Jupiter stands for growth and meaning, and a trine for ease rather than a guarantee. What the transit offers is an unusually smooth season for changing your mind, learning something new or trying a different direction."
   - q: "When will Uranus trine my Jupiter?"

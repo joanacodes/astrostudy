@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/mars", "/astrology/sextile", "/astrology/mars-sextile-neptune", "/astrology/transits"]
 faq:
   - q: "Que veut dire Neptune en transit sextile Mars du thème natal ?"
-    a: "Neptune se tient à 60° de Mars dans votre thème natal pendant deux ans et demi environ. J’y lis une ouverture entre l’imaginaire et l’action : une inspiration peut devenir un projet, et l’effort vient plus facilement pour les causes et les personnes qui vous tiennent à cœur, à condition de faire le premier pas."
+    a: "Pendant deux ans et demi environ, Neptune et Mars de votre thème natal se trouvent à 60° de distance. J’y lis une ouverture entre l’imaginaire et l’action : une inspiration peut devenir un projet, et l’effort vient plus facilement pour les causes et les personnes qui vous tiennent à cœur, à condition de faire le premier pas."
   - q: "Combien de temps dure Neptune sextile Mars ?"
     a: "Deux ans et sept mois, c’est la durée habituelle dans mes orbes, de 1,5° avant le sextile exact à 1° après, et vingt-deux mois la plus courte. Le point exact est franchi trois fois dans la plupart des passages et cinq fois dans un quart environ, au gré de la boucle annuelle de Neptune."
   - q: "Que faire pendant Neptune sextile Mars ?"

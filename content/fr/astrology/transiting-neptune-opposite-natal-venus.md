@@ -50,7 +50,7 @@ Avec [Vénus opposition Neptune](/astrology/venus-opposite-neptune/) dans le th�
 
 L’opposition tient environ deux ans et sept mois dans mes orbes, 1,5° avant l’exactitude et 1° après, et rarement moins de vingt-deux : de quoi faire traverser à une relation toutes ses saisons avec cette question en elle. En chemin, Neptune fait face exactement à votre Vénus trois fois, ou cinq fois dans un passage sur quatre environ.
 
-Presque toutes les personnes nées entre 1930 et 2009 rencontrent avant 80 ans soit cette opposition, soit [Neptune en transit conjonction Vénus du thème natal](/astrology/transiting-neptune-conjunct-natal-venus/), et personne ne rencontre les deux : les deux points sont à un demi-cercle l’un de l’autre, et Neptune parcourt un peu moins d’un demi-cercle en quatre-vingts ans. Cela partage les gens en deux à peu près, et la moitié environ ne rencontre jamais l’opposition.
+Presque toutes les personnes nées entre 1930 et 2009 rencontrent avant 80 ans soit cette opposition, soit [Neptune en transit conjonction Vénus du thème natal](/astrology/transiting-neptune-conjunct-natal-venus/), et seules de très rares personnes rencontrent les deux, l’un à la naissance et l’autre vers 79 ou 80 ans : les deux points sont à un demi-cercle l’un de l’autre, et Neptune parcourt un peu moins d’un demi-cercle en quatre-vingts ans. Cela partage les gens en deux à peu près, et la moitié environ ne rencontre jamais l’opposition.
 
 Depuis Vénus en Balance, son propre signe, l’opposition tombe en Bélier, où Neptune se trouve de 2026 à 2039 : ces années l’apportent à toutes les personnes nées avec Vénus en Balance.
 

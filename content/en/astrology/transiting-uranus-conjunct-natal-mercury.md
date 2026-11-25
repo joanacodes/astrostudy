@@ -47,7 +47,7 @@ Between 1½° before exact and 1° after, my orbs for this crossing, about twent
 
 Mercury always stays within about 28° of the Sun, so this crossing falls within about six or seven years of [transiting Uranus conjunct natal Sun](/astrology/transiting-uranus-conjunct-natal-sun/), before or after, when both come within a life.
 
-This conjunction is where the count begins. The far point, [transiting Uranus opposite natal Mercury](/astrology/transiting-uranus-opposite-natal-mercury/), comes about 42 years later; [transiting Uranus sextile natal Mercury](/astrology/transiting-uranus-sextile-natal-mercury/), [transiting Uranus square natal Mercury](/astrology/transiting-uranus-square-natal-mercury/) and [transiting Uranus trine natal Mercury](/astrology/transiting-uranus-trine-natal-mercury/) each come twice, once on the way out to it and once on the way back round. About 1 person in 33 born between 1930 and 2009 is still waiting for this [transit](/astrology/transits/) at 80.
+This conjunction is where the count begins. The far point, [transiting Uranus opposite natal Mercury](/astrology/transiting-uranus-opposite-natal-mercury/), comes about 42 years later; [transiting Uranus sextile natal Mercury](/astrology/transiting-uranus-sextile-natal-mercury/), [transiting Uranus square natal Mercury](/astrology/transiting-uranus-square-natal-mercury/) and [transiting Uranus trine natal Mercury](/astrology/transiting-uranus-trine-natal-mercury/) each come twice, once on the way out to it and once on the way back round. Within 80 years this [transit](/astrology/transits/) has started the count for all but about 1 person in 33 born between 1930 and 2009.
 
 ## What helps {#what-helps}
 

@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Neptune stays within my orbs, and how many people meet the opposition by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Neptune’s transits, read one by one" }
 ---
-An opposition works through what stands across from you, and for Mercury that means conversation. For about two and a half years, the ideas you meet in other people, in a group or in the air of the times carry Neptune's shimmer, and your own view has to keep its place at the table.
+An opposition works through what stands across from you, and for Mercury that means conversation. Over about two and a half years, the ideas you meet in other people, in a group or in the air of the times carry Neptune's shimmer, and your own view has to keep its place at the table.
 
 ## What changes {#what-changes}
 
@@ -38,13 +38,13 @@ An opposition works through what stands across from you, and for Mercury that me
 
 Neptune's blind spot is confusing empathy with accurate knowledge of another person, and its partner here is confusing resonance with truth. Listening fully and agreeing are two different acts, and this transit gives practice in keeping them apart. If someone's certainty sounds lovelier than their evidence, that's worth noticing, gently, without assuming bad faith. I don't read deception from it, or any legal or financial outcome ([how I read](/how-i-read/)).
 
-With your Mercury in the 10th and Neptune working through your 4th ([Neptune transiting the 4th house](/astrology/neptune-transit-4th-house/)), what you say in public faces the way your family, or your home, sees things; with Mercury in the 3rd and Neptune in the 9th, everyday talk meets a larger belief. Both houses need your birth time, and without it I don't read the chart ([what changes without a birth time](/blog/unknown-birth-time/)).
+If your Mercury is in the 10th, Neptune faces it from the 4th ([Neptune transiting the 4th house](/astrology/neptune-transit-4th-house/)): what you say in public stands opposite the way your family, or your home, sees things. With Mercury in the 3rd and Neptune across in the 9th, everyday talk meets a larger belief. I place both houses from your birth time, so the reading waits for it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, Neptune takes about two years and seven months to pass the opposition, sometimes not quite two; Neptune touches the exact point three times in most passes, five times in about one in four.
+Within my orbs, from 1½° before exact to 1° after, the opposition is active for about two years and seven months, sometimes not quite two; Neptune touches the exact point three times in a typical pass, five times in about one in four.
 
-Only half of people born between 1930 and 2009 meet this opposition before 80, and none of them twice. Your Mercury may sit in a different sign from your Sun, so check its degree rather than your birthday: from Aries, until 2039, Neptune opposes Mercury in Libra, which can go with a Sun in Virgo, Libra or Scorpio. Counted from this opposition, the conjunction ([transiting Neptune conjunct natal Mercury](/astrology/transiting-neptune-conjunct-natal-mercury/)) lies half a circle away, the trine ([transiting Neptune trine natal Mercury](/astrology/transiting-neptune-trine-natal-mercury/)) about twenty-seven years before or after, the square ([transiting Neptune square natal Mercury](/astrology/transiting-neptune-square-natal-mercury/)) about forty-one, and the sextile ([transiting Neptune sextile natal Mercury](/astrology/transiting-neptune-sextile-natal-mercury/)) further still. People born with [Mercury opposite Neptune](/astrology/mercury-opposite-neptune/) have had this dialogue in their heads for years; the transit brings it out into the room.
+Only half the people born between 1930 and 2009 reach this opposition before 80, and none reach it twice. Your Mercury may sit in a different sign from your Sun, so check its degree rather than your birthday: until 2039, the degrees opposite Neptune are in Libra, and a Mercury there can go with a Sun in Virgo, Libra or Scorpio. Counted from this opposition, the conjunction ([transiting Neptune conjunct natal Mercury](/astrology/transiting-neptune-conjunct-natal-mercury/)) lies about eighty-two years away, half of Neptune's cycle, the trine ([transiting Neptune trine natal Mercury](/astrology/transiting-neptune-trine-natal-mercury/)) some twenty-seven years before or after, the square ([transiting Neptune square natal Mercury](/astrology/transiting-neptune-square-natal-mercury/)) about forty-one, and the sextile ([transiting Neptune sextile natal Mercury](/astrology/transiting-neptune-sextile-natal-mercury/)) further still. With [Mercury opposite Neptune](/astrology/mercury-opposite-neptune/) in your birth chart, you've had this dialogue in your head for years; the transit brings it out into the room.
 
 ## What helps {#what-helps}
 

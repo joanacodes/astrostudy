@@ -21,16 +21,16 @@ facts:
 related: ["/astrology/uranus", "/astrology/moon", "/astrology/sextile", "/astrology/moon-sextile-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit sextile Lune du thème natal ?"
-    a: "Uranus est entré dans l’orbe d’un sextile, 60°, avec votre Lune de naissance. J’y lis une ouverture : pendant une vingtaine de mois, changer une routine, le fonctionnement de votre foyer ou votre façon de prendre soin de vous rencontre moins de résistance que d’habitude. Rien ne change tout seul sous un sextile ; il récompense le pas que vous faites."
+    a: "Uranus entre dans l’orbe d’un sextile, 60°, avec votre Lune de naissance. J’y lis une ouverture : pendant une vingtaine de mois, changer une routine, le fonctionnement de votre foyer ou votre façon de prendre soin de vous rencontre moins de résistance que d’habitude. Rien ne change tout seul sous un sextile ; il récompense le pas que vous faites."
   - q: "Uranus sextile Lune, est-ce un bon moment pour déménager ?"
     a: "Ce peut être une bonne saison pour des changements chez vous que vous choisissez, parce qu’un sextile favorise le changement que vous lancez vous-même. Je ne fixe pas pour autant la date d’un déménagement d’après un transit : les raisons pratiques passent d’abord, et le transit décrit seulement une humeur où changement et réconfort s’entendent."
   - q: "Uranus sextile votre Lune, c’est tous les combien ?"
-    a: "Deux fois par tour d’Uranus, soit environ tous les 84 ans : quatorze ans environ avant son passage sur votre Lune, et quatorze ans environ après. La plupart des personnes nées entre 1930 et 2009 rencontrent les deux avant 80 ans, et toutes au moins un. Chacun dure une vingtaine de mois avec mes orbes, souvent en trois passages exacts."
+    a: "Deux par tour d’environ 84 ans. Les deux viennent en général avant 80 ans, et toutes les personnes nées entre 1930 et 2009 en ont connu au moins un à cet âge. Chacun dure une vingtaine de mois avec mes orbes, souvent en trois passages exacts."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de sextiles viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le sextile d’Uranus à la Lune, parmi ses transits" }
 ---
-Uranus forme un sextile à votre Lune deux fois dans son tour, une fois quatorze ans environ avant d’atteindre votre Lune, une fois quatorze ans environ après. À chaque fois, pendant une vingtaine de mois, votre façon de vivre peut changer sans que rien ait besoin de casser d’abord.
+Les sextiles sont le premier pas d’Uranus en s’éloignant de votre Lune et le dernier en y revenant. À chaque fois, pendant une vingtaine de mois, votre façon de vivre peut changer sans que rien ait besoin de casser d’abord.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -46,7 +46,7 @@ Avec votre Lune en maison 4 et Uranus qui traverse votre maison 2 ([Uranus en tr
 
 En comptant de 1,5° avant l’exactitude à 1° après, comme pour chaque transit, le sextile tient une vingtaine de mois : c’est long pour une ouverture, le temps d’essayer un changement, de l’abandonner et d’en essayer un autre. Trois passages exacts sont la règle, dans plus de neuf cas sur dix, et les passages les plus rapides prennent tout de même onze mois environ.
 
-Un sextile vient environ quatorze ans avant qu’Uranus n’atteigne votre Lune ([Uranus en transit conjonction Lune du thème natal](/astrology/transiting-uranus-conjunct-natal-moon/)), l’autre environ quatorze ans après. À partir du premier, il faut environ sept ans pour arriver à [Uranus en transit carré Lune du thème natal](/astrology/transiting-uranus-square-natal-moon/), quatorze pour [Uranus en transit trigone Lune du thème natal](/astrology/transiting-uranus-trine-natal-moon/) et 28 pour [Uranus en transit opposition Lune du thème natal](/astrology/transiting-uranus-opposite-natal-moon/). Personne, parmi les naissances de 1930 à 2009, n’arrive à 80 ans sans l’un des deux ; la plupart connaissent les deux.
+Du premier sextile, il faut environ sept ans pour arriver à [Uranus en transit carré Lune du thème natal](/astrology/transiting-uranus-square-natal-moon/), quatorze pour [Uranus en transit trigone Lune du thème natal](/astrology/transiting-uranus-trine-natal-moon/) et 28 pour [Uranus en transit opposition Lune du thème natal](/astrology/transiting-uranus-opposite-natal-moon/) ; le second tombe dans les quatorze dernières années environ avant que le tour se referme sur [Uranus en transit conjonction Lune du thème natal](/astrology/transiting-uranus-conjunct-natal-moon/). Personne, parmi les naissances de 1930 à 2009, n’arrive à 80 ans sans l’un des deux ; la plupart connaissent les deux.
 
 Avec [Lune sextile Uranus](/astrology/moon-sextile-uranus/) dans votre thème natal, votre vie a commencé dans l’un de ces sextiles ; l’autre vient vers 28 ou vers 56 ans, quand Uranus forme un trigone à sa propre position de naissance. Et comme Uranus reste en Gémeaux jusqu’en 2033, en sextile aux signes de feu que sont le Bélier et le Lion, une Lune dans l’un d’eux reçoit ce [transit](/astrology/transits/) au cours de ces années.
 

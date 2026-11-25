@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Mercury", "square", "transits"]
 weight: 1751
 glyph: "♆□☿"
-definition: "Transiting Neptune square natal Mercury is Neptune 90° from your Mercury's degree for about two and a half years, a transit almost everyone meets by 80. Intuition and fact pull in different directions, and plans lose their edges. I read it as friction that sharpens judgement over time, never as a confused mind."
+definition: "Transiting Neptune square natal Mercury is Neptune 90° from your Mercury's degree for about two and a half years, a transit almost everyone meets by 80. Intuition and fact pull in different directions, and plans lose their edges. I read it as training in how to weigh evidence, never as a loss of clarity."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "Mercury ☿: thinking, learning and words" }
@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Neptune holds the square within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Neptune’s transits, read one by one" }
 ---
-The square is the most common of Neptune's contacts with your Mercury: by 80, almost everyone has had one. For about two and a half years, the part of you that sorts facts and the part that senses meaning stop agreeing easily, and each has something to teach the other.
+The square is the most common of Neptune's contacts with your Mercury: by 80, almost everyone has had one. For roughly two and a half years, the facts you sort and the meanings you sense stop agreeing easily, and each can teach the other something.
 
 ## What changes {#what-changes}
 
@@ -38,15 +38,15 @@ The square is the most common of Neptune's contacts with your Mercury: by 80, al
 
 Neptune's blind spots are sharpest here: confusing resonance with truth, and imagination with evidence. A useful habit for these years is to treat an important hunch as a question to check rather than an answer to act on. Misunderstandings, when they come, can be about tone as much as facts; saying the same thing twice, in plain words, saves a lot of guessing.
 
-With your Mercury in the 6th and Neptune crossing your 9th ([Neptune transiting the 9th house](/astrology/neptune-transit-9th-house/)), the way you organise your days rubs against a belief that's changing; with Mercury in the 10th and Neptune in the 1st, what you say in public and how you see yourself stop matching. Both houses come from the birth time, and I begin no reading without it ([what changes without a birth time](/blog/unknown-birth-time/)).
+Say your Mercury is in the 6th while Neptune crosses the 9th ([Neptune transiting the 9th house](/astrology/neptune-transit-9th-house/)): the way you organise your days rubs against a belief that's changing. With Mercury in the 2nd and Neptune in the 11th, your thinking about what matters to you and a group's ideals start to diverge. Both houses hang on your birth time, so I leave them alone until I have it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, Neptune holds the square for about two and a half years, around twenty-two months at the shortest. It usually crosses the exact square three times, and five in about one pass in four, with the middle passes made while Neptune is retrograde.
+Within my orbs, from 1½° before exact to 1° after, the square spans about two and a half years, and even the quickest passes last about twenty-two months. Neptune usually crosses the exact square three times, and five in about one pass in four, with the middle passes made while Neptune is retrograde.
 
-Mercury travels with the Sun, never more than about 28° from it, and Neptune covers 28° in about thirteen years, so the square to your Mercury and [transiting Neptune square natal Sun](/astrology/transiting-neptune-square-natal-sun/) tend to come within about a dozen years of each other; by 80, hardly anyone born between 1930 and 2009 has gone without one. The squares sit between the conjunction ([transiting Neptune conjunct natal Mercury](/astrology/transiting-neptune-conjunct-natal-mercury/)) and the opposition ([transiting Neptune opposite natal Mercury](/astrology/transiting-neptune-opposite-natal-mercury/)); the sextile ([transiting Neptune sextile natal Mercury](/astrology/transiting-neptune-sextile-natal-mercury/)) lies on the conjunction's side of each, the trine ([transiting Neptune trine natal Mercury](/astrology/transiting-neptune-trine-natal-mercury/)) on the opposition's. [Mercury square Neptune](/astrology/mercury-square-neptune/) at birth describes a mind that lives with this friction for good; as a transit, it has a beginning and an end, which is what makes it workable.
+The gap between Mercury and the Sun never exceeds about 28°, and Neptune needs about thirteen years to cover that distance, so the square to your Mercury and [transiting Neptune square natal Sun](/astrology/transiting-neptune-square-natal-sun/) tend to come within about a dozen years of each other; by 80, hardly anyone born between 1930 and 2009 has gone without one. The squares sit between the conjunction ([transiting Neptune conjunct natal Mercury](/astrology/transiting-neptune-conjunct-natal-mercury/)) and the opposition ([transiting Neptune opposite natal Mercury](/astrology/transiting-neptune-opposite-natal-mercury/)); the sextile ([transiting Neptune sextile natal Mercury](/astrology/transiting-neptune-sextile-natal-mercury/)) lies on the conjunction's side of each, the trine ([transiting Neptune trine natal Mercury](/astrology/transiting-neptune-trine-natal-mercury/)) on the opposition's. In a birth chart, [Mercury square Neptune](/astrology/mercury-square-neptune/) sets up this friction for life; as a transit, it has a beginning and an end, which is what makes it workable.
 
-From Aries, until 2039, Neptune squares Mercury in Cancer and Capricorn.
+Right now the square falls on Mercury in Cancer or Capricorn, and will until Neptune leaves Aries in 2039.
 
 ## What helps {#what-helps}
 

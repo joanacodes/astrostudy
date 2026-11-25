@@ -42,7 +42,7 @@ L’élan peut perdre de son mordant pour des buts qui ne signifient plus rien, 
 
 La tradition rangeait Mars parmi les [maléfiques](/astrology/benefics-and-malefics/), les planètes de la chaleur et du conflit. J’y lis la part de vous qui agit et protège, et rien dans cette conjonction n’annonce une dispute, un échec ou une perte ([ma méthode](/how-i-read/)).
 
-Avec Mars en maison 1, Neptune y passe pendant ses années dans cette maison ([Neptune en transit en maison 1](/astrology/neptune-transit-1st-house/)) : votre façon de commencer les choses et de vous défendre prend un contour plus doux, moins prévisible, et les autres peuvent avoir plus de mal à vous lire. La maison de Mars vient de votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Mars en maison 1, Neptune y passe pendant ses années dans cette maison ([Neptune en transit en maison 1](/astrology/neptune-transit-1st-house/)) : votre façon de commencer les choses et de vous défendre prend un contour plus doux, moins prévisible, et les autres peuvent avoir plus de mal à vous lire. Pour situer la maison de Mars, il faut votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Un thème natal qui porte [Mars conjonction Neptune](/astrology/mars-conjunct-neptune/) connaît depuis le début cet élan mené par l’imaginaire ; le transit apporte ce mélange, pour une saison, à un thème qui fonctionne peut-être tout autrement.
 

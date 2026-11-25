@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Milieu du Ciel", "carré", "transits"]
 weight: 1677
 glyph: "♄□MC"
-definition: "Saturne en transit carré Milieu du Ciel du thème natal, c’est Saturne, dans le ciel, à 90° du degré situé en haut de votre thème, deux fois par tour de 29 ans et demi. Le carré presse à la fois votre direction publique et vos fondations privées, jusqu’à un nouvel équilibre. J’y lis une friction constructive, jamais une chute."
+definition: "Saturne en transit carré Milieu du Ciel du thème natal, c’est Saturne, dans le ciel, à 90° du sommet de votre thème, et donc du Fond du Ciel à sa base, deux fois par tour de 29 ans et demi. Le carré presse votre direction publique et vos fondations privées. J’y lis une friction constructive, jamais une chute."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Le Milieu du Ciel MC, votre direction et votre rôle public" }
@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire Saturne en transit carré Milieu du Ciel ?"
     a: "Saturne, dans le ciel, est à 90° de votre Milieu du Ciel, et donc aussi de votre Fond du Ciel, qui lui fait exactement face. La direction que vous bâtissez en public et les fondations qui vous portent en privé frottent l’une contre l’autre, et quelque chose dans l’arrangement doit s’ajuster. J’y lis une friction qui affine votre direction."
   - q: "Combien de temps dure Saturne carré Milieu du Ciel ?"
-    a: "Neuf mois environ avec mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, le carré se fait en trois passages exacts au gré de la boucle de Saturne, sur neuf mois et demi environ ; avec un seul passage exact, tout peut passer en trois semaines."
+    a: "Comptez neuf mois environ, entre 1,5° avant l’exactitude et 1° après. Un peu plus de la moitié de ces carrés sont des boucles à trois passages exacts ; les autres n’en ont qu’un, et peuvent être finis en trois semaines. Une erreur de quarante minutes sur l’heure de naissance déplacerait les dates de dix mois environ."
   - q: "Saturne carré Milieu du Ciel, est-ce des ennuis au travail ?"
     a: "Pas comme une prédiction. Le carré décrit une pression sur la forme de votre vie professionnelle ou publique, souvent parce que quelque chose, chez vous ou dans votre vie privée, réclame de la place, ou l’inverse. Ce qui arrive dans un emploi dépend de bien plus qu’un thème, et je n’en lis jamais un pour cela."
   - q: "Saturne carré Milieu du Ciel, est-ce Saturne sur l’Ascendant ?"
@@ -45,7 +45,7 @@ Le premier carré vient environ sept ans après le passage de Saturne sur votre 
 
 ## Combien de temps {#combien-de-temps}
 
-Mesuré avec mes orbes, de 1,5° avant l’exactitude à 1° après, un carré au Milieu du Ciel dure en général neuf mois environ. La moitié d’entre eux, un peu plus, sont des boucles à trois passages exacts sur quelque neuf mois et demi ; les autres n’ont qu’un passage exact, et peuvent être finis en trois semaines. Cinq avant 80 ans, c’est l’habitude, six pour certaines personnes.
+Comptez neuf mois environ pour ce carré, entre 1,5° avant l’exactitude et 1° après, mes orbes habituels. La moitié d’entre eux, un peu plus, sont des boucles à trois passages exacts sur quelque neuf mois et demi ; les autres n’ont qu’un passage exact, et peuvent être finis en trois semaines. Cinq avant 80 ans, c’est l’habitude, six pour certaines personnes.
 
 Le degré de votre Milieu du Ciel fixe les dates, et il vient de l’heure de naissance : une erreur de quarante minutes déplacerait ce carré de dix mois environ, plus que la durée du transit lui-même. Un thème sans heure n’est pas un thème que je lis ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

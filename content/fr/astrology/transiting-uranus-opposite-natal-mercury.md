@@ -25,7 +25,7 @@ faq:
   - q: "Uranus opposition Mercure, est-ce que cela apporte des nouvelles inattendues ?"
     a: "Les informations surprenantes font partie de la façon dont on le décrit souvent, et cela peut se vivre ainsi. Je ne prédis pas de nouvelles pour autant, bonnes ou mauvaises. Le transit décrit un esprit qui rencontre des points de vue venus d’ailleurs pendant une vingtaine de mois, et ce que vous décidez reste à vous."
   - q: "Uranus en opposition à Mercure, c’est tous les combien ?"
-    a: "Uranus atteint le point opposé à votre Mercure une fois par circuit de 84 ans, environ 42 ans après son passage sur Mercure, si bien qu’une vie connaît cette opposition une fois au plus. Sur 33 personnes nées entre 1930 et 2009, environ 32 l’ont connue avant 80 ans. Elle dure en général vingt mois, en trois passages exacts."
+    a: "Uranus atteint le point opposé à votre Mercure une fois tous les 84 ans, environ 42 ans après son passage sur Mercure, soit une fois au plus dans une vie. Environ 1 personne sur 33 née entre 1930 et 2009 ne la voit venir qu’après 80 ans. Elle dure en général vingt mois, en trois passages exacts."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent l’opposition avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "l’opposition d’Uranus à Mercure, parmi ses transits" }
@@ -48,7 +48,7 @@ Avec Mercure en maison 9 et Uranus qui traverse votre maison 3 ([Uranus en trans
 
 Uranus tient l’opposition une vingtaine de mois dans mes orbes, de 1,5° avant l’exactitude à 1° après ; onze mois suffisent aux passages les plus brefs. Dans plus de neuf cas sur dix, le point exact est franchi trois fois, ce qui laisse le temps de changer d’avis, et d’en changer encore.
 
-C’est le bout du tour qu’Uranus fait avec votre Mercure, environ 42 ans après [Uranus en transit conjonction Mercure du thème natal](/astrology/transiting-uranus-conjunct-natal-mercury/). Avant cette opposition viennent le premier [Uranus en transit sextile Mercure du thème natal](/astrology/transiting-uranus-sextile-natal-mercury/), le premier [Uranus en transit carré Mercure du thème natal](/astrology/transiting-uranus-square-natal-mercury/) et le premier [Uranus en transit trigone Mercure du thème natal](/astrology/transiting-uranus-trine-natal-mercury/) ; après elle, les trois mêmes dans l’ordre inverse, le trigone d’abord. Quelques personnes, environ une sur 33 parmi les naissances de 1930 à 2009, n’y arrivent jamais avant 80 ans, et pour toutes les autres, ce [transit](/astrology/transits/) vient une fois.
+C’est le bout du tour qu’Uranus fait avec votre Mercure, environ 42 ans après [Uranus en transit conjonction Mercure du thème natal](/astrology/transiting-uranus-conjunct-natal-mercury/). Avant cette opposition viennent un premier sextile ([Uranus en transit sextile Mercure du thème natal](/astrology/transiting-uranus-sextile-natal-mercury/)), un premier carré ([Uranus en transit carré Mercure du thème natal](/astrology/transiting-uranus-square-natal-mercury/)) et un premier trigone ([Uranus en transit trigone Mercure du thème natal](/astrology/transiting-uranus-trine-natal-mercury/)) ; après elle, les trois mêmes dans l’ordre inverse, le trigone d’abord. À part environ 1 personne sur 33 née entre 1930 et 2009, tout le monde arrive à ce [transit](/astrology/transits/) avant 80 ans, et y arrive une fois.
 
 ## Ce qui aide {#ce-qui-aide}
 

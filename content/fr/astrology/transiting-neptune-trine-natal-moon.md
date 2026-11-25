@@ -47,7 +47,7 @@ Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Neptune tient ce [t
 
 Avant 80 ans, environ 1 personne sur 6 née entre 1930 et 2009 ne l’a jamais connu ; la plupart l’ont connu une fois, quelques-unes deux fois. Des deux contacts faciles de Neptune avec votre Lune, le trigone est le plus proche de l’opposition ([Neptune en transit opposition Lune du thème natal](/astrology/transiting-neptune-opposite-natal-moon/)), le sextile ([Neptune en transit sextile Lune du thème natal](/astrology/transiting-neptune-sextile-natal-moon/)) le plus proche de la conjonction ([Neptune en transit conjonction Lune du thème natal](/astrology/transiting-neptune-conjunct-natal-moon/)) ; le carré ([Neptune en transit carré Lune du thème natal](/astrology/transiting-neptune-square-natal-moon/)) se tient entre les deux.
 
-Depuis le Bélier, jusqu’en 2039, Neptune forme un trigone aux Lunes en Lion et en Sagittaire ([Neptune en Bélier, 2026-2039](/astrology/neptune-in-aries-2026-2039/)).
+Jusqu’en 2039, ce sont les Lunes en Lion et en Sagittaire qui se trouvent sur le chemin de ce trigone ([Neptune en Bélier, 2026-2039](/astrology/neptune-in-aries-2026-2039/)).
 
 ## Ce qui aide {#ce-qui-aide}
 

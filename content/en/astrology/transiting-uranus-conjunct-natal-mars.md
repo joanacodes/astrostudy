@@ -24,7 +24,7 @@ faq:
   - q: "Is Uranus conjunct Mars dangerous?"
     a: "Not as I read it. People sometimes fear accidents under this transit, and I don’t read transits for injuries or illness. What it describes is restless energy and a wish to act independently. Channelled into something you’ve chosen, that energy is an asset rather than a risk."
   - q: "When does Uranus conjunct Mars happen?"
-    a: "Mars sets it: the transit comes when Uranus has travelled from its birth position to your Mars, at most once in a life. Because Mars moves fast, two people born a month apart can meet it years apart, and about 1 person in 33 hasn’t met it by 80."
+    a: "Mars sets it: the transit comes when Uranus has travelled from its birth position to your Mars, at most once in a life. Because Mars moves fast, two people born a month apart can meet it years apart, and for about 1 person in 33 the wait runs past 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the conjunction by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus conjunct Mars, among his transits" }
@@ -45,7 +45,7 @@ With Mars in your 1st, the conjunction falls in Uranus's years there ([Uranus tr
 
 Within my orbs, 1½° before exact and 1° after, Uranus holds your Mars for about twenty months, and only about one pass in ten takes eleven months or less. Uranus's retrograde months fall in the middle, so most passes, more than nine in ten, hit the exact degree three times.
 
-Mars moves quickly, about half a degree a day on average, so two people born a month apart can have their Mars 15° apart and meet this conjunction three or four years apart. If Uranus reaches your Mars at 30, say, the sextiles ([transiting Uranus sextile natal Mars](/astrology/transiting-uranus-sextile-natal-mars/)) fall at about 16 and 44, the squares ([transiting Uranus square natal Mars](/astrology/transiting-uranus-square-natal-mars/)) at about 9 and 51, the trines ([transiting Uranus trine natal Mars](/astrology/transiting-uranus-trine-natal-mars/)) at about 2 and 58, and the opposition ([transiting Uranus opposite natal Mars](/astrology/transiting-uranus-opposite-natal-mars/)) at about 72. Roughly one person in 33 waits past 80 for the conjunction itself.
+Mars moves quickly, about half a degree a day on average, so two people born a month apart can have their Mars 15° apart and meet this conjunction three or four years apart. If Uranus reaches your Mars at 30, say, the sextiles ([transiting Uranus sextile natal Mars](/astrology/transiting-uranus-sextile-natal-mars/)) fall at about 16 and 44, the squares ([transiting Uranus square natal Mars](/astrology/transiting-uranus-square-natal-mars/)) at about 9 and 51, the trines ([transiting Uranus trine natal Mars](/astrology/transiting-uranus-trine-natal-mars/)) at about 2 and 58, and the opposition ([transiting Uranus opposite natal Mars](/astrology/transiting-uranus-opposite-natal-mars/)) at about 72. The conjunction itself, though, stays out of reach before 80 for about 1 person in 33.
 
 ## What helps {#what-helps}
 

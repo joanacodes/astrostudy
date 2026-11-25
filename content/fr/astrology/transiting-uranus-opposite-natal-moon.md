@@ -25,7 +25,7 @@ faq:
   - q: "Uranus opposition Lune, est-ce un changement dans la famille ?"
     a: "Ce transit peut décrire une période où l’équilibre d’un foyer se déplace, comme je le lis, mais il ne décide pas de qui s’en va, reste ou arrive. Il décrit un climat : la proximité et l’indépendance qui demandent à être rééquilibrées. Ce qu’en font les personnes concernées leur appartient."
   - q: "Uranus opposition Lune, est-ce rare ?"
-    a: "C’est un transit qui vient une fois dans une vie au plus, quelque 42 ans après le passage d’Uranus sur votre Lune. À 80 ans, environ 1 personne sur 33 née entre 1930 et 2009 l’attend encore. Avec mes orbes, il dure une vingtaine de mois, souvent en trois passages exacts."
+    a: "C’est un transit qui vient une fois dans une vie au plus, quelque 42 ans après le passage d’Uranus sur votre Lune. Environ 1 personne sur 33 née entre 1930 et 2009 a passé 80 ans avant qu’Uranus n’arrive jusque-là. Avec mes orbes, il dure une vingtaine de mois, souvent en trois passages exacts."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent l’opposition avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "l’opposition d’Uranus à la Lune, parmi ses transits" }

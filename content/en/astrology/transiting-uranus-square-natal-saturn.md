@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Saturn", "square", "transits"]
 weight: 1712
 glyph: "♅□♄"
-definition: "Transiting Uranus square natal Saturn is Uranus 90° from the degree Saturn held at your birth, for about twenty months, usually twice in a life. What you have built meets the urge to change it, and the friction asks for reform one step at a time. I read it as an adjustment under load, never a collapse."
+definition: "Transiting Uranus square natal Saturn is Uranus 90° from the degree Saturn held at your birth, for about twenty months, twice for most people and, for some, first before the age of five. What you have built meets the urge to change it. I read it as an adjustment under load, never a collapse."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Saturn ♄: structure, responsibility and time" }
@@ -20,9 +20,9 @@ facts:
 related: ["/astrology/uranus", "/astrology/saturn", "/astrology/square", "/astrology/saturn-square-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus square natal Saturn mean?"
-    a: "Uranus stands 90° from the degree your Saturn held at birth. I read it as friction between what you’ve built and what wants to change: a role, a rule or a routine that no longer fits but still carries weight. The square asks for reform made one step at a time, not a clampdown or a clean sweep."
+    a: "Uranus stands 90° from your natal Saturn, the part of your chart that holds structure and duty. I read it as friction between what you’ve built and what wants to change: a role, a rule or a routine that no longer fits but still carries weight. The square asks for reform made one step at a time, not a clampdown or a clean sweep."
   - q: "How long does Uranus square Saturn last?"
-    a: "About twenty months, with my orbs running from 1½° before the exact square to 1° after, and about eleven at the quickest. In more than nine passes out of ten Uranus crosses the exact square three times, so the same structure is tested more than once."
+    a: "The pressure on what you’ve built lasts about twenty months, with my orbs running from 1½° before the exact square to 1° after, and about eleven at the quickest. In more than nine passes out of ten Uranus crosses the exact square three times, so the same structure is tested more than once."
   - q: "Is Uranus square Saturn bad?"
     a: "It is demanding, not bad. A square is friction that pushes a structure to adapt, and Saturn’s structures are the ones you lean on, so the season can feel heavy. But it predicts no event, no loss of work, home or relationship: it describes pressure to change how something is run."
   - q: "At what age does Uranus square Saturn?"

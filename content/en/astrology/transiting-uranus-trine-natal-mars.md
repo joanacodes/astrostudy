@@ -24,7 +24,7 @@ faq:
   - q: "Is Uranus trine Mars a good time to start something new?"
     a: "It’s one of the easier backgrounds for it, as I read it, because effort and innovation cooperate. It won’t choose the project or guarantee how it goes. What it offers is momentum: the first steps cost less, and a change of method meets less resistance."
   - q: "How often does Uranus trine Mars?"
-    a: "Most people get two, and nobody born between 1930 and 2009 reaches 80 without one. They sit about 28 years either side of Uranus’s crossing of your Mars, and each stays within my orbs for about twenty months."
+    a: "Most people get two; the count for people born between 1930 and 2009 never drops below one. Each stays within my orbs for about twenty months, and in most passes Uranus touches the exact trine three times."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the trine comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus trine Mars, among his transits" }
@@ -47,7 +47,7 @@ With Mars in your 6th and Uranus crossing your 2nd ([Uranus transiting the 2nd h
 
 From 1½° before exact to 1° after, my orbs for timing, the trine stays about twenty months, and only the shortest tenth of passes are under a year. In more than nine passes out of ten there are three exact hits, which gives the momentum three pushes rather than one.
 
-The first trine comes about a third of the way round from [transiting Uranus conjunct natal Mars](/astrology/transiting-uranus-conjunct-natal-mars/), after [transiting Uranus sextile natal Mars](/astrology/transiting-uranus-sextile-natal-mars/) and [transiting Uranus square natal Mars](/astrology/transiting-uranus-square-natal-mars/); [transiting Uranus opposite natal Mars](/astrology/transiting-uranus-opposite-natal-mars/) follows some fourteen years later, and the second trine some fourteen years after that. By 80, two trines is the norm and one the least.
+The first trine comes about a third of the way round from [transiting Uranus conjunct natal Mars](/astrology/transiting-uranus-conjunct-natal-mars/), after [transiting Uranus sextile natal Mars](/astrology/transiting-uranus-sextile-natal-mars/) and [transiting Uranus square natal Mars](/astrology/transiting-uranus-square-natal-mars/); [transiting Uranus opposite natal Mars](/astrology/transiting-uranus-opposite-natal-mars/) follows some fourteen years later, and the second trine some fourteen years after that. By 80 both trines have usually come, and one always has.
 
 Born with [Mars conjunct Uranus](/astrology/mars-conjunct-uranus/), you'll meet both trines at about 28 and 56, when Uranus also trines its own birth place; for you, this [transit](/astrology/transits/) and that milestone arrive together.
 

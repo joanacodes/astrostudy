@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Milieu du Ciel", "sextile", "transits"]
 weight: 1676
 glyph: "♄⚹MC"
-definition: "Saturne en transit sextile Milieu du Ciel du thème natal, c’est Saturne, dans le ciel, à 60° du degré situé en haut de votre thème, deux fois par tour de 29 ans et demi. La structure offre à votre rôle public une ouverture concrète : une responsabilité qui vous va, une compétence reconnue. J’y lis une invitation, jamais une promesse."
+definition: "Saturne en transit sextile Milieu du Ciel du thème natal, c’est Saturne, dans le ciel, à 60° du sommet de votre thème, donc en trigone à son point le plus bas, le Fond du Ciel, deux fois par tour. La structure offre à votre rôle public une ouverture : une responsabilité qui vous va, une compétence reconnue. J’y lis une invitation."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Le Milieu du Ciel MC, votre direction et votre rôle public" }
@@ -24,9 +24,9 @@ faq:
   - q: "Que veut dire Saturne en transit sextile Milieu du Ciel ?"
     a: "Saturne, dans le ciel, est à 60° de votre Milieu du Ciel : une ouverture concrète apparaît dans votre vie professionnelle ou publique, un rôle qui vous convient, une qualification, un arrangement mis sur des bases solides. Comme le même angle forme un trigone à votre Fond du Ciel, le foyer soutient souvent l’effort. Encore faut-il saisir l’occasion."
   - q: "Combien de temps dure Saturne sextile Milieu du Ciel ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, neuf mois environ. La rétrogradation de Saturne donne à un peu plus de la moitié de ces sextiles trois passages exacts sur neuf mois et demi environ ; avec un seul passage exact, la fenêtre peut se réduire à trois semaines."
+    a: "Un sextile au Milieu du Ciel s’étend sur neuf mois environ dans mes orbes, 1,5° avant l’exactitude et 1° après. Il est exact trois fois un peu plus souvent qu’une seule ; un seul passage exact peut en faire une affaire de trois semaines."
   - q: "Quand vient le sextile de Saturne à mon Milieu du Ciel ?"
-    a: "Deux fois par tour : environ cinq ans avant que Saturne atteigne votre Milieu du Ciel, et environ cinq ans après. Les mois dépendent de votre heure de naissance. Avec un Milieu du Ciel en Gémeaux ou en Verseau, les années de Saturne en Bélier, jusqu’en avril 2028, en apportent un."
+    a: "Deux fois par tour : environ cinq ans avant que Saturne atteigne votre Milieu du Ciel, et cinq ans après. Les mois dépendent de votre heure de naissance, car le Milieu du Ciel avance d’environ un degré toutes les quatre minutes. Un Milieu du Ciel en Gémeaux ou Verseau en vit un maintenant, avec Saturne en Bélier jusqu’en avril 2028."
   - q: "Saturne sextile Milieu du Ciel, est-ce une promotion ?"
     a: "Pas comme une promesse. Le sextile aide à prendre une responsabilité ou un rôle qui vous va, et des offres arrivent parfois pendant cette période, mais rien n’arrive à cause du transit. Ce qu’il favorise, c’est le pas régulier et concret, fait par vous."
 sources:

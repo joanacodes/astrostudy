@@ -25,7 +25,7 @@ faq:
   - q: "Uranus sextile Mars, est-ce bon pour créer une entreprise ?"
     a: "Comme je le lis, c’est un climat favorable pour lancer quelque chose selon vos propres termes, parce que l’élan et l’originalité coopèrent. Je ne prédis pas la réussite d’un projet, et le transit non plus. Il décrit une saison où les premiers pas demandent moins d’effort que d’habitude."
   - q: "Uranus sextile Mars, c’est tous les combien ?"
-    a: "Deux fois par tour de 84 ans, quatorze ans environ avant et après le passage d’Uranus sur votre Mars. La plupart des personnes nées entre 1930 et 2009 connaissent les deux avant 80 ans, toutes au moins un, et chacun reste dans mes orbes une vingtaine de mois."
+    a: "Deux fois par tour de 84 ans : avant 80 ans, la plupart des personnes nées entre 1930 et 2009 se sont vu offrir les deux, et toutes au moins un. Chacun reste dans mes orbes une vingtaine de mois, en général avec trois passages exacts."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de sextiles viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le sextile d’Uranus à Mars, parmi ses transits" }

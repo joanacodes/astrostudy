@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Jupiter", "sextile", "transits"]
 weight: 1706
 glyph: "♅⚹♃"
-definition: "Transiting Uranus sextile natal Jupiter is Uranus in the sky 60° from the degree Jupiter held at your birth, a season of about twenty months that most people meet twice. A new idea, method or field can widen how you understand your life, provided you take it up. I read it as an invitation, not a gift."
+definition: "Transiting Uranus sextile natal Jupiter is Uranus 60° from the degree Jupiter held at your birth, for about twenty months, usually twice in a life and about 28 or 56 years apart. A new idea, method or field can widen how you understand your life, provided you take it up. I read it as an invitation, not a gift."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Jupiter ♃: growth, meaning and what you believe" }
