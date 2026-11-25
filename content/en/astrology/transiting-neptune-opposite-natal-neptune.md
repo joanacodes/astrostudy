@@ -42,7 +42,7 @@ Eighty years on, natal [Neptune](/astrology/neptune/) is less a promise than a r
 
 I read it as a season of perspective. What your generation hoped for, and what you made of those hopes, meets the ideals of the people around you, many of them much younger. Compassion has the most room here: for the person you were in your twenties and at forty, and for those now living their own versions. Neptune's blind spot, confusing compassion with unlimited availability, still applies, and generosity keeps its limits.
 
-Neptune's fog is an image, not a diagnosis. Memory or confusion, at this age or any other, belongs with a doctor, and no transit can foretell it ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). The house the opposition falls in says where the perspective is felt, and that needs the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). If it's a parent's chart you're looking at, ask them first ([synastry and consent](/blog/synastry-behind-their-back/)).
+Neptune's fog is an image, not a diagnosis. Memory or confusion, at this age or any other, belongs with a doctor, and no transit can foretell it ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). The house the opposition falls in says where the perspective is felt, and no house can be drawn without the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). If it's a parent's chart you're looking at, ask them first ([synastry and consent](/blog/synastry-behind-their-back/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

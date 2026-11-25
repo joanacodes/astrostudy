@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Midheaven", "trine", "transits"]
 weight: 1796
 glyph: "♆△MC"
-definition: "Transiting Neptune trine natal Midheaven is Neptune 120° from the top of your birth chart, for about two and a half years. Imagination and the work you are known for pull the same way, and a gentler, more personal way of doing it comes easily. Most people meet one of the two trines; about 1 in 6 meets neither."
+definition: "Transiting Neptune trine natal Midheaven is an easy current between imagination and the work you are known for, rising from below the horizon for about two and a half years. A gentler, more personal way of doing that work comes easily. Most people meet one of the two trines; about 1 in 6 meets neither."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "The Midheaven (MC): your direction in public life; the 10th house cusp in Placidus" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/midheaven", "/astrology/neptune", "/astrology/trine", "/astrology/neptune-transit-2nd-house", "/astrology/time-zones-and-daylight-saving-in-charts"]
 faq:
   - q: "What does transiting Neptune trine natal Midheaven mean?"
-    a: "Neptune is 120° from the top of your birth chart. I read it as a stretch when your ideals and your public role pull the same way: a creative side finds room at work, care becomes part of how you do things, and what you are known for feels more like your own. It promises no result."
+    a: "Your Midheaven is receiving a trine from Neptune, 120° away. I read it as a stretch when your ideals and your public role pull the same way: a creative side finds room at work, care becomes part of how you do things, and what you are known for feels more like your own. It promises no result."
   - q: "How long does Neptune trine the Midheaven last?"
-    a: "About two and a half years within my orbs, from 1½° before exact to 1° after, and about twenty-two months in the briefest passes. Neptune touches the exact trine three times in most passes and five times in about a quarter, as it loops back over the degree each year."
+    a: "From the day it enters my orbs to the day it leaves, the trine takes about two and a half years, or twenty-two months when Neptune hurries. Most passes touch the exact trine three times and about a quarter five times; rising from below the horizon, much of it works quietly, through routine or resources."
   - q: "Does Neptune trine Midheaven help creative work?"
     a: "It describes an easier climate for bringing imagination into what you do in public, whatever your work is: a craft, a cause or a gentler way of leading can find a place in it. Whether anything comes of that depends on what you put in, and the transit says nothing about recognition or income."
   - q: "Where is Neptune in my chart when it trines my Midheaven?"

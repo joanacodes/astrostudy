@@ -38,7 +38,7 @@ Pluton à 60° de votre Ascendant natal, c’est une fenêtre qui s’ouvre plut
 
 ## Ce qui change {#ce-qui-change}
 
-L’[Ascendant](/astrology/ascendant/), c’est la posture d’où vous partez : votre façon d’entrer dans une pièce, de lancer un projet, de rencontrer quelqu’un. [Pluton](/astrology/pluto/) fait place au neuf en retirant ce qui ne tient plus. Un [sextile](/astrology/sextile/), à 60°, relie les deux fonctions par l’occasion, et une occasion demande de s’engager : sous ce [transit](/astrology/transits/), changer votre façon de vous présenter devient possible sans qu’une crise vous y oblige. Une autre façon de vous présenter, un autre rythme le matin, l’envie d’être connue ou connu au-delà de la première impression.
+L’[Ascendant](/astrology/ascendant/), c’est la posture d’où vous partez : votre façon d’entrer dans une pièce, de lancer un projet, de rencontrer quelqu’un. [Pluton](/astrology/pluto/) fait place au neuf en écartant ce qui a fait son temps. Un [sextile](/astrology/sextile/), à 60°, relie les deux fonctions par l’occasion, et une occasion demande de s’engager : sous ce [transit](/astrology/transits/), changer votre façon de vous présenter devient possible sans qu’une crise vous y oblige. Une autre façon de vous présenter, un autre rythme le matin, l’envie d’être connue ou connu au-delà de la première impression.
 
 Parmi les angles morts de l’Ascendant, il y a celui d’utiliser la même orientation partout, et celui de surestimer les premières impressions. Le sextile est une bonne saison pour en essayer d’autres : arriver au travail autrement que parmi vos amis, et voir quelle version vous préférez.
 
@@ -48,13 +48,13 @@ Votre heure de naissance place les deux points de sextile, un de chaque côté d
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le sextile dure environ deux ans et huit mois, vingt-deux mois au plus rapide. Pluton franchit le degré exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres.
+Avec 1,5° admis avant l’exactitude et 1° après, mes orbes, le sextile dure environ deux ans et huit mois, vingt-deux mois au plus rapide, et dans la plupart des passages Pluton touche trois fois le degré exact, cinq fois dans environ deux sur cinq.
 
 Avant 80 ans, environ 3 personnes sur 4 nées entre 1930 et 2009 le vivent, et certaines deux fois : les deux points de sextile sont à un tiers de zodiaque l’un de l’autre, et Pluton parcourt environ 110° à 170° en 80 ans. Près d’1 personne sur 4 n’en rencontre aucun.
 
 Jusqu’au début de 2044, Pluton en Verseau forme un sextile à l’[Ascendant Sagittaire](/astrology/sagittarius-rising/), depuis les environs de la maison 3, et à l’[Ascendant Bélier](/astrology/aries-rising/), depuis les environs de la maison 11, les premiers degrés d’abord.
 
-Parmi les contacts de Pluton à l’Ascendant, seul le carré ([Pluton en transit carré Ascendant du thème natal](/astrology/transiting-pluto-square-natal-ascendant/)) touche plus de monde, environ 7 personnes sur 8. Le trigone ([Pluton en transit trigone Ascendant du thème natal](/astrology/transiting-pluto-trine-natal-ascendant/)) en touche autant que ce sextile, et la conjonction ([Pluton en transit conjonction Ascendant du thème natal](/astrology/transiting-pluto-conjunct-natal-ascendant/)) comme l’opposition ([Pluton en transit opposition Ascendant du thème natal](/astrology/transiting-pluto-opposite-natal-ascendant/)) moins de la moitié des gens.
+Le carré de Pluton à l’Ascendant ([Pluton en transit carré Ascendant du thème natal](/astrology/transiting-pluto-square-natal-ascendant/)) est le seul de ses contacts à toucher plus de monde, environ 7 personnes sur 8. Le trigone ([Pluton en transit trigone Ascendant du thème natal](/astrology/transiting-pluto-trine-natal-ascendant/)) en touche autant que ce sextile, et la conjonction ([Pluton en transit conjonction Ascendant du thème natal](/astrology/transiting-pluto-conjunct-natal-ascendant/)) comme l’opposition ([Pluton en transit opposition Ascendant du thème natal](/astrology/transiting-pluto-opposite-natal-ascendant/)) moins de la moitié des gens.
 
 ## Ce qui aide {#ce-qui-aide}
 

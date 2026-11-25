@@ -2,7 +2,7 @@
 title: "Neptune en transit trigone Neptune du thème natal"
 slug: "neptune-transit-trigone-neptune-natal"
 h1: "Neptune en transit trigone Neptune de votre thème natal"
-description: "Neptune en transit trigone Neptune du thème natal : un tiers du tour de Neptune, atteint par tous entre 51 ans et demi et 55 ans. Sa durée, ce qui aide."
+description: "Neptune en transit trigone Neptune du thème natal : dans la cinquantaine, Neptune à un tiers de son tour, et vos idéaux d’accord avec votre expérience."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "trigone", "transits"]
 weight: 1781
 glyph: "♆△♆"
-definition: "Neptune en transit trigone Neptune du thème natal, c’est Neptune à 120° de sa place de naissance, une étape que chacun atteint une fois, vers 52 à 55 ans, pour deux ans et demi. Vos idéaux de naissance et la vie qu’ils ont façonnée vont dans le même sens. J’y lis une aisance qui demande encore à servir."
+definition: "Neptune en transit trigone Neptune du thème natal arrive une fois pour tout le monde, entre 51 ans et demi et 55 ans environ, quand Neptune a parcouru un tiers de son tour depuis votre naissance. Pendant quelque deux ans et demi, vos idéaux de naissance et la vie qu’ils ont façonnée vont dans le même sens."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "Neptune ♆ : les idéaux de votre naissance" }
@@ -25,9 +25,9 @@ faq:
   - q: "Que veut dire Neptune en transit trigone Neptune du thème natal ?"
     a: "Neptune a parcouru un tiers du chemin depuis sa place dans votre thème, un point que chacun atteint entre le début et le milieu de la cinquantaine. J’y lis une circulation entre les idéaux de votre naissance et là où la vie les a menés : une compassion nourrie d’expérience, une imagination qui sait ce qu’elle peut porter."
   - q: "À quel âge vient Neptune trigone Neptune ?"
-    a: "Le trigone entre dans mes orbes entre 51,7 et 55,2 ans pour les naissances de 1930 à 2009 : à 55 ans pour les années 1930 à 1950, à 54 ans pour les années 1960 et 1970, à 52 ans et demi pour les années 1990 et pour 2005. Les passages exacts suivent dans les deux ans environ."
+    a: "Entre le début et le milieu de la cinquantaine, et d’autant plus tôt que la naissance est récente : 55 ans pour les naissances des années 1930 à 1950, 54 pour les années 1960 et 1970, 52 et demi pour les années 1990 et 2005, entre 51,7 et 55,2 ans en tout."
   - q: "Combien de temps dure Neptune trigone Neptune ?"
-    a: "Environ deux ans et demi avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus rapides. Trois passages exacts sont la règle, cinq arrivent environ une fois sur quatre, parce que Neptune passe environ cinq mois de chaque année en rétrograde."
+    a: "Assez longtemps pour s’y installer : environ deux ans et demi dans mes orbes, vingt-deux mois pour les passages les plus rapides. Neptune passe quelque cinq mois par an en rétrograde, si bien que le trigone est exact trois fois en règle générale, et cinq fois environ une fois sur quatre."
   - q: "Qu’est-ce qui vient après le trigone de Neptune ?"
     a: "Seulement l’opposition, quand Neptune se trouve à mi-tour de sa place de naissance, environ 80 ans plus tard. Pour une naissance à partir de la fin des années 1980, elle viendrait juste avant 80 ans ; plus tôt, après. Le reste du cycle, avec le retour, dépasse toute vie humaine."
 sources:
@@ -42,7 +42,7 @@ Dans la cinquantaine, [Neptune](/astrology/neptune/), dans votre thème, a une h
 
 Circulation n’est pas passivité. Un trigone soutient une direction que vous choisissez ; sans elle, ses deux ans et demi peuvent passer sans rien laisser d’autre qu’une humeur agréable. Le piège serait de lâcher l’effort au nom de l’acceptation, comme si s’abandonner revenait à ne rien pouvoir : ce transit récompense un effort léger et régulier plus que l’absence d’effort.
 
-La maison que Neptune traverse, environ quatre maisons après votre Neptune de naissance, montre où passe le courant. Avec Neptune en maison 5 à la naissance, le trigone vient en général des environs de la maison 9, et ce que vous créez peut s’ouvrir sur l’étude, la croyance ou les horizons lointains ([Neptune en transit en maison 9](/astrology/neptune-transit-9th-house/)). Sans heure de naissance, ces maisons ne se placent pas, et il n’y a pas de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison que Neptune traverse, environ quatre maisons après votre Neptune de naissance, montre où passe le courant. Avec Neptune en maison 5 à la naissance, le trigone vient en général des environs de la maison 9, et ce que vous créez peut s’ouvrir sur l’étude, la croyance ou les horizons lointains ([Neptune en transit en maison 9](/astrology/neptune-transit-9th-house/)). Sans heure de naissance, ces maisons ne se placent pas, et je ne lis pas ce trigone ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

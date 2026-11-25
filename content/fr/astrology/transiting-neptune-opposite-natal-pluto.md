@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Pluton", "opposition", "transits"]
 weight: 1787
 glyph: "♆☍♇"
-definition: "Neptune en transit opposition Pluton du thème natal, c’est Neptune à 180° de Pluton de naissance, que chaque naissance de 1930 à 2009 rencontre entre 51 et 62 ans, pour deux ans et demi. Ce que vous retenez rencontre un idéal qui demande de desserrer la prise. J’y lis un équilibre à trouver, pas un renversement."
+definition: "Neptune en transit opposition Pluton du thème natal place Neptune face à votre Pluton de naissance, pour toute personne née de 1930 à 2009, entre 51 et 62 ans. En ces deux ans et demi environ, ce que vous retenez depuis des décennies rencontre un idéal qui demande de desserrer la prise. Un équilibre à trouver, pas un renversement."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "Pluton ♇ : là où vous tenez le plus fort et pouvez recommencer" }
@@ -23,11 +23,11 @@ facts:
 related: ["/astrology/neptune", "/astrology/pluto", "/astrology/opposition", "/astrology/neptune-opposite-pluto", "/astrology/pluto-in-libra"]
 faq:
   - q: "Que veut dire Neptune en transit opposition Pluton du thème natal ?"
-    a: "Neptune se tient en face de Pluton de naissance, une fois dans chaque vie de ces années, dans la cinquantaine ou au début de la soixantaine. J’y lis une saison où ce que vous retenez depuis longtemps fait face à un idéal qui demande de desserrer la prise. Cette saison appelle un équilibre, jamais un abandon de tout."
+    a: "Une fois dans chaque vie de ces années, dans la cinquantaine ou au début de la soixantaine, Neptune se tient face à votre Pluton de naissance. J’y lis une saison où ce que vous retenez depuis longtemps rencontre un idéal qui demande de desserrer la prise. Cette saison appelle un équilibre, jamais un abandon de tout."
   - q: "À quel âge vient Neptune opposition Pluton ?"
-    a: "Entre 51 et 62 ans pour les naissances de 1930 à 2009. Dans le décompte du site, l’orbe s’ouvrait à 60,1 ans pour une naissance au début de 1935, vers 53 ans pour les naissances des années 1960 et 1970, à 56,5 ans pour 2005. Le premier passage exact suit dans l’année environ."
+    a: "Entre 51 et 62 ans pour les naissances de 1930 à 2009, et plus tôt pour les personnes nées quand Neptune avait le plus d’avance sur Pluton, dans les années 1960 et 1970 : vers 53 ans au début de 1965 ou de 1975, contre 60,1 ans au début de 1935 et 56,5 ans au début de 2005."
   - q: "Combien de temps dure Neptune opposition Pluton ?"
-    a: "Environ deux ans et demi avec mes orbes, de 1,5° avant l’exactitude à 1° après, et moins de deux pour les passages les plus serrés. Neptune franchit le plus souvent l’opposition exacte trois fois ; environ une fois sur quatre, cinq fois, quand les boucles rétrogrades annuelles repassent sur le degré."
+    a: "L’opposition reste dans l’orbe environ deux ans et demi, un peu moins de deux dans les passages les plus serrés. Elle est en général exacte trois fois, et cinq fois dans un passage sur quatre environ, chaque boucle rétrograde faisant repasser Neptune en face de votre Pluton."
   - q: "Qui vit Neptune opposition Pluton en ce moment ?"
     a: "Tant que Neptune traverse le Bélier, jusqu’en mars 2039, le transit s’oppose à Pluton en Balance : toutes les personnes nées d’octobre 1971 à août 1984, entre le début et le milieu de la cinquantaine pendant ces années. Pour la plupart, il arrive avec le trigone de Neptune à sa propre place de naissance."
 sources:

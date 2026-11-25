@@ -46,13 +46,13 @@ Pluton arrive ici depuis votre maison 12, où le travail se fait hors de vue dep
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Pluton met environ deux ans et huit mois à franchir votre degré ascendant, vingt-deux mois quand le mouvement est rapide, et passe dessus trois fois dans environ trois passages sur cinq, cinq fois dans les autres.
+Pluton a besoin d’environ deux ans et huit mois pour franchir votre degré ascendant, mesurés de 1,5° avant l’exactitude à 1° après, mes orbes, et de vingt-deux mois quand le mouvement est rapide. Dans environ trois passages sur cinq, le degré est franchi trois fois, et cinq fois dans les autres.
 
 Plus de la moitié des personnes nées entre 1930 et 2009 ne le vivent jamais avant 80 ans, et personne deux fois. En une vie, Pluton parcourt bien moins de la moitié du zodiaque, et votre degré ascendant peut se trouver en dehors de ce trajet : tout dépend de la distance qui séparait Pluton de votre Ascendant à la naissance, comptée en avançant dans les signes.
 
 Ici, l’heure de naissance décide de tout. En moyenne, le degré ascendant avance d’environ 15° par heure, et pendant sa traversée du Verseau, Pluton parcourt environ un degré et demi par an : une heure d’erreur sur l’heure déplace ce transit d’une dizaine d’années, ou le fait sortir de votre vie. Jusqu’au début de 2044, Pluton traverse l’[Ascendant Verseau](/astrology/aquarius-rising/) : ses premiers degrés au milieu des années 2020, ceux du milieu dans les années 2030, les derniers vers 2042.
 
-Le carré ([Pluton en transit carré Ascendant du thème natal](/astrology/transiting-pluto-square-natal-ascendant/)) touche environ 7 personnes sur 8, le sextile ([Pluton en transit sextile Ascendant du thème natal](/astrology/transiting-pluto-sextile-natal-ascendant/)) et le trigone ([Pluton en transit trigone Ascendant du thème natal](/astrology/transiting-pluto-trine-natal-ascendant/)) environ 3 sur 4. L’opposition ([Pluton en transit opposition Ascendant du thème natal](/astrology/transiting-pluto-opposite-natal-ascendant/)), Pluton sur votre Descendant, est aussi rare que ce passage.
+La plupart des gens vivent plutôt le carré ([Pluton en transit carré Ascendant du thème natal](/astrology/transiting-pluto-square-natal-ascendant/)), environ 7 personnes sur 8, et environ 3 sur 4 le sextile ([Pluton en transit sextile Ascendant du thème natal](/astrology/transiting-pluto-sextile-natal-ascendant/)) ou le trigone ([Pluton en transit trigone Ascendant du thème natal](/astrology/transiting-pluto-trine-natal-ascendant/)). L’opposition ([Pluton en transit opposition Ascendant du thème natal](/astrology/transiting-pluto-opposite-natal-ascendant/)), Pluton sur votre Descendant, est aussi rare que ce passage.
 
 ## Ce qui aide {#ce-qui-aide}
 

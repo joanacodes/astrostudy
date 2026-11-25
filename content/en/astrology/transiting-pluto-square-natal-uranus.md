@@ -47,11 +47,11 @@ Where it lands is a matter of houses. With Uranus in your 1st, the square comes 
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the square lasts about two years and eight months, about twenty-two months at the shortest. Pluto's yearly retrograde loop brings three exact hits in about three passes out of five, and five in the rest.
+The square stays in force for about two years and eight months, from 1½° before exact to 1° after, which are my orbs; even the shortest passes take about twenty-two months. Pluto's yearly retrograde loop puts it over the exact square three times in about three passes out of five, and five times in the rest.
 
-About 5 people in 7 born between 1930 and 2009 meet it by 80, none of them twice; about 2 in 7 never do. The age rises steadily with the birth year, because each later generation was born with Uranus further from the point Pluto must reach. For births on 1 January it came within orb at 16.7 in 1945, 26.8 in 1955, 36 in 1965 and 49.1 in 1975, and comes at 68.3 for 1985; births from the 1990s on don't meet it by 80.
+About 5 people in 7 born between 1930 and 2009 meet it by 80, none of them twice; about 2 in 7 never do. The age rises steadily with the birth year, because each later generation was born with Uranus further from the point Pluto must reach. Each later decade of births waits longer: 16.7 for 1 January 1945, 26.8 for 1955, 36 for 1965, 49.1 for 1975 and 68.3 for 1985, while births from the 1990s on don't meet it by 80.
 
-Pluto's years in Aquarius, until early 2044, bring the square to everyone born with Uranus in Scorpio, from 1975 to 1982, between about 47 and 61 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
+The generation meeting it now was born from 1975 to 1982, with Uranus in Scorpio, which Pluto in Aquarius squares between their late forties and early sixties, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
 
 Of Pluto's contacts with your Uranus, only the sextile ([Transiting Pluto sextile natal Uranus](/astrology/transiting-pluto-sextile-natal-uranus/)) reaches more people, about 5 in 6. The trine ([Transiting Pluto trine natal Uranus](/astrology/transiting-pluto-trine-natal-uranus/)) misses more than 1 in 3, and the conjunction ([Transiting Pluto conjunct natal Uranus](/astrology/transiting-pluto-conjunct-natal-uranus/)) and the opposition ([Transiting Pluto opposite natal Uranus](/astrology/transiting-pluto-opposite-natal-uranus/)) each miss nearly half of people or more.
 

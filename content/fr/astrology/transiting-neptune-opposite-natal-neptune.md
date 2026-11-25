@@ -43,7 +43,7 @@ Quatre-vingts ans plus tard, [Neptune](/astrology/neptune/), dans votre thème, 
 
 J’y lis une saison de recul. Ce que votre génération espérait, et ce que vous avez fait de ces espoirs, rencontre les idéaux des personnes qui vous entourent, souvent bien plus jeunes. La compassion y trouve le plus de place : pour la personne que vous étiez dans la vingtaine et vers quarante ans, et pour celles qui vivent aujourd’hui leurs propres versions. L’angle mort de Neptune, confondre la compassion avec une disponibilité sans limite, vaut toujours, et la générosité garde ses bornes.
 
-Le brouillard de Neptune est une image, pas un diagnostic. La mémoire ou la confusion, à cet âge comme à un autre, relèvent d’un médecin, et aucun transit ne peut les annoncer ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). La maison où tombe l’opposition dit où ce recul se ressent, et il faut pour cela l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). S’il s’agit du thème d’un parent, demandez-lui d’abord ([synastrie et consentement](/blog/synastry-behind-their-back/)).
+Le brouillard de Neptune est une image, pas un diagnostic. La mémoire ou la confusion, à cet âge comme à un autre, relèvent d’un médecin, et aucun transit ne peut les annoncer ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). La maison où tombe l’opposition dit où ce recul se ressent, et aucune maison ne se trace sans l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). S’il s’agit du thème d’un parent, demandez-lui d’abord ([synastrie et consentement](/blog/synastry-behind-their-back/)).
 
 ## Combien de temps {#combien-de-temps}
 

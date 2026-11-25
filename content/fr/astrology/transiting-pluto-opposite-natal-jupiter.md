@@ -46,13 +46,13 @@ La tradition a donné à Jupiter la loi et la religion. J’y lis le sens et la 
 
 Si votre thème porte [Jupiter opposition Pluton](/astrology/jupiter-opposite-pluto/), vous avez eu ce transit au tout début de la vie, ou jamais : Pluton se trouvait déjà près de l’autre bout de l’axe et l’a quitté en quelques années. Pour tous les autres, la rencontre est nouvelle.
 
-Les deux maisons de l’axe disent où se fait la pesée. Avec Jupiter en maison 3, l’opposition vient de la maison 9 ([Pluton en transit en maison 9](/astrology/pluto-transit-9th-house/)) : ce que vous avez appris au fil des jours rencontre un système de pensée plus vaste, qui demande à être pris au sérieux, ou interrogé. Avec Jupiter en maison 7 et Pluton qui traverse la maison 1, vos propres changements font face à la personne qui a porté vos espoirs. Les deux maisons viennent de votre heure de naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les deux maisons de l’axe disent où se fait la pesée. Avec Jupiter en maison 3, l’opposition vient de la maison 9 ([Pluton en transit en maison 9](/astrology/pluto-transit-9th-house/)) : ce que vous avez appris au fil des jours rencontre un système de pensée plus vaste, qui demande à être pris au sérieux, ou interrogé. Avec Jupiter en maison 7 et Pluton qui traverse la maison 1, vos propres changements font face à la personne qui a porté vos espoirs. Sans l’heure de naissance, on ne peut pas savoir quelles maisons l’axe relie ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
 Avec les orbes que j’utilise pour dater, de 1,5° avant l’exactitude à 1° après, l’opposition tient environ deux ans et huit mois, et près de quatre ans pour les passages les plus lents. Pluton recule environ cinq mois par an : trois passages exacts dans environ trois cas sur cinq, cinq dans les autres.
 
-Environ 3 personnes sur 5 nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans : une vie ne montre qu’une partie du cercle de 248 ans de Pluton, et le point opposé à Jupiter peut se trouver en dehors. Pour une naissance un 1er janvier, elle est entrée dans l’orbe à 24 ans en 1965, à 65,2 ans en 1955 et à 76,4 ans en 2005 ; en 1935, 1945, 1975, 1985 et 1995, pas avant 80 ans. Personne ne la vit deux fois.
+Environ 3 personnes sur 5 nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans : une vie ne montre qu’une partie du cercle de 248 ans de Pluton, et le point opposé à Jupiter peut se trouver en dehors. Prenons les naissances d’un 1er janvier : 1965 l’a vécue à 24 ans, 1955 à 65,2 ans, et 2005 la vivra à 76,4 ans, tandis que 1935, 1945, 1975, 1985 et 1995 atteignent 80 ans sans elle. Personne ne la vit deux fois.
 
 Jusqu’au début de 2044, Pluton en Verseau s’oppose à Jupiter en Lion, un signe que Jupiter visite environ un an tous les douze ans. Les personnes qui la vivent maintenant appartiennent donc à plusieurs générations : nées en 2002-2003, entre 21 et 40 ans environ ; en 1990-1991, entre 33 et 52 ans ; en 1978-1979, entre 44 et 64 ans ; en 1966-1968, entre 56 et 75 ans.
 

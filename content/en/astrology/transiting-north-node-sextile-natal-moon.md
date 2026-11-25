@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Moon", "sextile", "transits"]
 weight: 1923
 glyph: "☊⚹☽"
-definition: "Transiting North Node sextile natal Moon is the node standing about 60° from your birth Moon, twice in each 18.6-year round, for a month or so each time. A new way of meeting your needs comes within reach while the South Node trines your Moon. I read it as an opening, which shows only if you use it."
+definition: "Transiting North Node sextile natal Moon is the node standing about 60° from your birth Moon for a month or so, twice in every round of the nodes. A new way of meeting your needs comes within reach while the South Node trines your Moon. I read it as an opening, which shows only if you use it."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node trine your Moon" }
   - { k: "Natal point", v: "The Moon ☽: what you need, and how you settle" }
@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal planets, read one by one" }
   - { title: "Vettius Valens, Anthology", note: "the houses, and the Moon’s joy in the 3rd" }
 ---
-Of all the angles the node makes to your Moon, the sextile is the lightest, and the easiest to let pass. For a month or so the direction your chart grows in stands two signs from your Moon, while the South Node, at the far end of the axis, trines it.
+Of all the angles the node makes to your Moon, the sextile is the lightest, and the easiest to let pass. For a month or so the point of growth sits two signs away from your Moon, while the South Node, at the far end of the axis, trines it.
 
 ## What changes {#what-changes}
 
@@ -42,9 +42,9 @@ With your [Moon in the 3rd house](/astrology/moon-in-3rd-house/), the house trad
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, 1½° before exact and 1° after, the sextile usually lasts about a month. Now and then it stretches: a tenth of passes run to three and a half months or more, and about one in twenty-five goes back and forth over the exact sextile three times. An eclipse season may fall in those weeks, and the node slows almost to a stop in it; but its eclipses then land a couple of signs from your Moon, and the rule I use counts an eclipse only on a natal point or opposite it.
+Within my orbs, 1½° before exact and 1° after, the sextile usually lasts about a month. Now and then it stretches: a tenth of passes run to three and a half months or more; about one in twenty-five goes back and forth over the exact sextile three times. An eclipse season may fall in those weeks, and the node slows almost to a stop in it; but its eclipses then land a couple of signs from your Moon, and the rule I use counts an eclipse only on a natal point or opposite it.
 
-Two sextiles come in each round of the nodes. The first falls about three years after the node's conjunction with your Moon ([Transiting North Node conjunct natal Moon](/astrology/transiting-north-node-conjunct-natal-moon/)), the second about three years before the next one, so they arrive alternately some twelve and six years apart, and by 80 most people have had eight or nine. Between the two come [Transiting North Node square natal Moon](/astrology/transiting-north-node-square-natal-moon/), [Transiting North Node trine natal Moon](/astrology/transiting-north-node-trine-natal-moon/) and, halfway round, [Transiting North Node opposite natal Moon](/astrology/transiting-north-node-opposite-natal-moon/). If you were born with [Moon sextile North Node](/astrology/moon-sextile-north-node/), each return of the nodes to their birth places brings this same angle back.
+Two sextiles come in each round of the nodes. The first falls about three years after the node's conjunction with your Moon ([Transiting North Node conjunct natal Moon](/astrology/transiting-north-node-conjunct-natal-moon/)), the second about three years before the next one, so they arrive alternately some twelve and six years apart, and by 80 most people have had eight or nine. Between the two come [Transiting North Node square natal Moon](/astrology/transiting-north-node-square-natal-moon/), [Transiting North Node trine natal Moon](/astrology/transiting-north-node-trine-natal-moon/) and, halfway round, [Transiting North Node opposite natal Moon](/astrology/transiting-north-node-opposite-natal-moon/). With [Moon sextile North Node](/astrology/moon-sextile-north-node/) in your chart, your nodal return, every 18.6 years, sets the node at this same sextile to your Moon.
 
 ## What helps {#what-helps}
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Ascendant", "rising sign", "square", "transits"]
 weight: 1790
 glyph: "♆□AC"
-definition: "Transiting Neptune square natal Ascendant is Neptune 90° from the degree rising at your birth, for about two and a half years, a transit almost everyone meets by 80. The manner you meet the world with rubs against something it can’t organise, at work or at home. Friction that teaches you to meet different rooms differently."
+definition: "Transiting Neptune square natal Ascendant is a friction almost everyone meets by 80, with Neptune near the top or the bottom of the chart, 90° from your rising degree, for about two and a half years. The manner you meet the world with rubs against something it can’t organise, at work or at home."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "The Ascendant (AC): how you meet the world; the 1st house cusp in Placidus" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/ascendant", "/astrology/neptune", "/astrology/square", "/astrology/midheaven", "/astrology/imum-coeli"]
 faq:
   - q: "What does transiting Neptune square natal Ascendant mean?"
-    a: "Neptune is 90° from the degree that was rising when you were born. I read it as friction between the manner you meet the world with and something that won’t be organised: a vocation that blurs, or a home life asking for more gentleness. It teaches you to meet different settings differently, and it predicts no event."
+    a: "With Neptune at right angles to your rising degree, near the top or the bottom, I read friction between the manner you meet the world with and something that won’t be organised: a vocation that blurs, or a home life asking for more gentleness. It teaches you to meet different settings differently, and predicts no event."
   - q: "How long does Neptune square the Ascendant last?"
-    a: "About two and a half years with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the briefest passes. Neptune crosses the exact square three times in about three passes out of four and five times in the rest, as its yearly retrograde loops carry it back over the degree."
+    a: "Roughly two and a half years in my orbs, and about twenty-two months in the briefest passes. Neptune’s yearly loops bring the exact square three times in about three passes out of four, and five times in the rest, so the friction eases and returns with each loop."
   - q: "Is Neptune square my Ascendant the same as Neptune on my Midheaven?"
     a: "Not quite. The squares to your Ascendant fall near the top and the bottom of the chart, but your Midheaven is rarely exactly 90° from your Ascendant: the gap depends on the hour and latitude of your birth. So the two transits can come together or years apart, and only a chart drawn from your birth time shows which."
   - q: "Does everyone get Neptune square the Ascendant?"

@@ -48,11 +48,11 @@ Les maisons disent où la friction mord. Avec Saturne en maison 10, le carré vi
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le carré tient environ deux ans et huit mois, et trois ans et neuf mois environ pour les passages les plus longs. Pluton passe environ cinq mois par an en rétrogradation : trois passages exacts dans environ trois cas sur cinq, cinq dans les autres.
+Un carré de Pluton à Saturne n’a rien de bref : avec mes orbes de 1,5° avant l’exactitude et de 1° après, il tient environ deux ans et huit mois, et les passages les plus longs vont jusqu’à trois ans et neuf mois environ. Comme Pluton rétrograde environ cinq mois par an, la plupart des passages franchissent le carré exact trois fois, et environ deux sur cinq cinq fois.
 
-Environ 6 personnes sur 7 nées entre 1930 et 2009 le vivent avant 80 ans, et aucune deux fois : les deux points de carré se font face d’un bout à l’autre du zodiaque, et Pluton met plus de 80 ans à parcourir le demi-cercle qui les sépare. Pour une naissance un 1er janvier, le carré est entré dans l’orbe à 28,8 ans en 1945, 30 ans en 1965, 53,2 ans en 1985 et 57,9 ans en 1935 ; en 2005, pas avant 80 ans.
+Environ 6 personnes sur 7 nées entre 1930 et 2009 le vivent avant 80 ans, et aucune deux fois : les deux points de carré se font face d’un bout à l’autre du zodiaque, et Pluton met plus de 80 ans à parcourir le demi-cercle qui les sépare. Les âges se dispersent : 28,8 ans pour une naissance le 1er janvier 1945, 30 ans pour 1965, 53,2 ans pour 1985 et 57,9 ans pour 1935, et rien avant 80 ans pour le 1er janvier 2005.
 
-Jusqu’au début de 2044, Pluton en Verseau forme ce carré avec Saturne en Taureau et en Scorpion. Pour une naissance de 1998 à 2001, avec Saturne en Taureau, le carré vient entre 24 et 42 ans environ ; de 1982 à 1985, avec Saturne en Scorpion, entre 39 et 57 ans ; de 1969 à 1972, avec Saturne en Taureau, entre 54 et 72 ans.
+Le séjour de Pluton en Verseau, jusqu’au début de 2044, place sous ce carré Saturne en Taureau et en Scorpion. Les âges vont ainsi : pour les naissances de 1998 à 2001 (Saturne en Taureau), de 24 à 42 ans environ ; de 1982 à 1985 (Saturne en Scorpion), de 39 à 57 ans ; de 1969 à 1972 (Saturne en Taureau), de 54 à 72 ans.
 
 Les autres contacts sont plus rares. Environ 3 personnes sur 4 connaissent le sextile ([Pluton en transit sextile Saturne du thème natal](/astrology/transiting-pluto-sextile-natal-saturn/)), près de 4 sur 5 le trigone ([Pluton en transit trigone Saturne du thème natal](/astrology/transiting-pluto-trine-natal-saturn/)), un peu moins de la moitié l’opposition ([Pluton en transit opposition Saturne du thème natal](/astrology/transiting-pluto-opposite-natal-saturn/)) et 2 sur 5 la conjonction ([Pluton en transit conjonction Saturne du thème natal](/astrology/transiting-pluto-conjunct-natal-saturn/)).
 

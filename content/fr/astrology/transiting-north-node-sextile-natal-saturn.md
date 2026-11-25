@@ -40,11 +40,11 @@ Trois ans environ avant que le Nœud Nord atteigne votre Saturne, puis trois ans
 
 L’ouverture est en général modeste et pratique. Une formation courte qui tient dans votre semaine. Une routine qui paraît soudain tenable. Une personne plus expérimentée qui vous offre une heure. Parmi les contacts du nœud avec Saturne, celui-ci est l’un des plus légers : le nouveau savoir peut emprunter sa discipline à Saturne sans en porter le poids. De l’autre côté du thème, le [Nœud Sud](/astrology/south-node/) forme un trigone à votre Saturne : vos manières connues d’être fiable restent à portée, comme un appui plutôt qu’un retour en arrière.
 
-Les signes le montrent clairement. Avec Saturne en Taureau, le nœud forme ce sextile depuis le Cancer en allant vers votre Saturne, puis depuis les Poissons en s’en éloignant. De juillet 2026 à mars 2028, le nœud est en Verseau : il forme ce sextile pour toutes les personnes nées avec Saturne en Bélier ou en Sagittaire. Les maisons qu’il traverse dépendent de votre heure de naissance, comme le domaine de vie que l’ouverture concerne ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les signes le montrent clairement. Avec Saturne en Taureau, le nœud forme ce sextile depuis le Cancer en allant vers votre Saturne, puis depuis les Poissons en s’en éloignant. Les maisons qu’il traverse dépendent de votre heure de naissance, comme le domaine de vie que l’ouverture concerne ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
-De 1,5° avant le sextile exact à 1° après, le nœud vrai a besoin d’un mois environ. Une saison d’éclipses peut porter cette durée à trois mois ou plus, car le nœud s’arrête presque pendant que le Soleil s’aligne sur lui, et environ un passage sur 25 donne trois contacts exacts. Les éclipses d’une telle saison tombent à deux ou à quatre signes de votre Saturne, et je ne les compte pas comme des éclipses sur votre thème.
+De 1,5° avant le sextile exact à 1° après, le nœud vrai a besoin d’un mois environ. Une saison d’éclipses peut porter cette durée à trois mois ou plus, car le nœud piétine pendant que le Soleil passe à sa hauteur, et environ un passage sur 25 donne trois contacts exacts. Les éclipses d’une telle saison tombent à deux ou à quatre signes de votre Saturne, et je ne les compte pas comme des éclipses sur votre thème.
 
 Ma prévision ne retient le nœud que lorsqu’un de ses bouts rencontre un point, par conjonction ou par opposition, parce que je lis les nœuds comme un axe. Un sextile ne pose aucun des deux bouts sur votre Saturne : ce transit n’est donc pas l’une de ses saisons, et je le mentionne, quand il coïncide avec des transits plus lents, comme une touche légère.
 

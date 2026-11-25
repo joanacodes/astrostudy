@@ -39,11 +39,11 @@ About three years before the North Node reaches your Saturn, and again about thr
 
 The opening is usually modest and practical. A short course that fits your week. A routine that suddenly looks sustainable. Someone more experienced who offers an hour. Of the node's contacts with Saturn, this is one of the light ones: the new skill can borrow its discipline without being weighed down by it. Across the chart the [South Node](/astrology/south-node/) trines your Saturn, so the ways you already know of being reliable stay within reach, a support rather than a pull backwards.
 
-The signs show it plainly. With Saturn in Taurus, the node sextiles it from Cancer on its way to your Saturn and from Pisces on its way out. From July 2026 to March 2028 the node is in Aquarius, sextile every Saturn in Aries and in Sagittarius. Which houses it crosses depends on your birth time, and so does the part of life the opening concerns ([what changes without a birth time](/blog/unknown-birth-time/)).
+The signs show it plainly. With Saturn in Taurus, the node sextiles it from Cancer on its way to your Saturn and from Pisces on its way out. Which houses it crosses depends on your birth time, and so does the part of life the opening concerns ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before the exact sextile to 1° after, the true node usually needs about a month. An eclipse season can stretch that to three months or more, as the node all but stops while the Sun is aligned with it, and about one pass in 25 brings three exact hits. The eclipses of such a season fall two signs or four signs from your Saturn, and those I don't count as eclipses on your chart.
+From 1½° before the exact sextile to 1° after, the true node usually needs about a month. An eclipse season can stretch that to three months or more, since the node idles while the Sun goes by it, and about one pass in 25 brings three exact hits. The eclipses of such a season fall two signs or four signs from your Saturn, and those I don't count as eclipses on your chart.
 
 My forecast lists the node only when one of its ends meets a point, by conjunction or opposition, because I read the nodes as an axis. A sextile touches neither end to your Saturn, so this transit isn't one of its seasons; I mention it, when it coincides with slower transits, as a light accent.
 

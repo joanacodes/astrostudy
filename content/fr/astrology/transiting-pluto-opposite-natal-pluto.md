@@ -48,11 +48,11 @@ La maison de Pluton dans votre thème, et la maison opposée, disent où se fait
 
 ## Combien de temps {#combien-de-temps}
 
-Si vous la vivez, elle dure comme tout transit de Pluton dans mes orbes, de 1,5° avant l’exactitude à 1° après : environ deux ans et huit mois, ou trois ans et sept mois environ quand elle compte cinq passages exacts au lieu de trois.
+Pour qui la rencontre, l’opposition s’étend sur environ deux ans et huit mois, comptés de 1,5° avant l’exactitude à 1° après, mes orbes, ou sur trois ans et sept mois environ quand le passage compte cinq contacts exacts au lieu de trois.
 
 L’âge dépend de l’orbite allongée de Pluton. Le demi-cercle demande au moins 82 ans environ, et seulement pour les naissances dont le demi-cercle traverse les années les plus rapides de Pluton, autour de son passage au plus près du Soleil en 1989 : celles des années 1940 et du début des années 1950. Pour les naissances de 1930 à 1960 environ, l’opposition vient entre 82 et 86 ans ; ensuite elle s’éloigne régulièrement, vers 88 ans pour une naissance en 1965, 98 ans pour 1975, 113 ans pour 1985 et 130 ans pour 1995. Avant 80 ans, personne parmi les naissances de 1930 à 2009 ne l’a vécue, et pour toutes les naissances à partir des années 1980, elle se situe au-delà d’une vie humaine.
 
-Les années de Pluton en Verseau, jusqu’au début de 2044, apportent l’opposition aux personnes nées avec [Pluton en Lion](/astrology/pluto-in-leo/), de la fin des années 1930 à 1958, entre 82 et 85 ans et demi environ ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)).
+Ces années-ci, l’opposition rejoint, entre 82 et 85 ans et demi environ, la génération de [Pluton en Lion](/astrology/pluto-in-leo/), née de la fin des années 1930 à 1958, et ce jusqu’à ce que Pluton quitte le Verseau, au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)).
 
 Elle ferme une suite dont la plupart des vies contiennent trois étapes : le sextile ([Pluton en transit sextile Pluton du thème natal](/astrology/transiting-pluto-sextile-natal-pluto/)) entre 21 et 36 ans environ, le carré ([Pluton en transit carré Pluton du thème natal](/astrology/transiting-pluto-square-natal-pluto/)), le [carré de Pluton](/astrology/pluto-square/), entre 34 ans et demi et 59 ans, et le trigone ([Pluton en transit trigone Pluton du thème natal](/astrology/transiting-pluto-trine-natal-pluto/)) à partir de 48 ans et demi.
 

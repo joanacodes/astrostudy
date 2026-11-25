@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Ascendant", "opposition", "transits"]
 weight: 1792
 glyph: "♆☍AC"
-definition: "Neptune en transit opposition Ascendant du thème natal, c’est Neptune sur votre Descendant, le point qui fait face à votre degré levant, pendant environ deux ans et demi ; une personne sur deux le rencontre avant 80 ans. L’espace entre vous et vos proches devient plus poreux et plus tendre. Ce transit n’amène personne et n’emporte personne."
+definition: "Neptune en transit opposition Ascendant du thème natal, c’est Neptune sur votre Descendant, l’angle ouest qui fait face à votre degré levant : une personne sur deux le rencontre une fois avant 80 ans, pendant environ deux ans et demi. L’espace entre vous et vos proches devient plus poreux et plus tendre. Ce transit n’amène personne et n’emporte personne."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "L’Ascendant (AC), face à votre Descendant, la cuspide de la maison 7 en Placidus" }
@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/descendant", "/astrology/ascendant", "/astrology/neptune", "/astrology/neptune-transit-7th-house", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Neptune en transit opposition Ascendant du thème natal ?"
-    a: "Neptune se trouve sur votre Descendant, le point qui fait face au degré levant de votre naissance. J’y lis un adoucissement de l’espace entre vous et les autres : vous sentez ce dont les gens ont besoin, vous pouvez idéaliser un partenaire, une amie ou une cliente, et la limite entre leurs souhaits et les vôtres demande plus de soin."
+    a: "Neptune se trouve sur votre Descendant, face à votre degré levant. J’y lis un adoucissement de l’espace entre vous et les autres : vous sentez ce dont les gens ont besoin, vous pouvez idéaliser un partenaire, une amie ou une cliente, et la limite entre leurs souhaits et les vôtres demande plus de soin."
   - q: "Est-ce que Neptune sur le Descendant annonce une âme sœur ?"
     a: "Aucun transit n’amène une personne. Neptune sur votre Descendant décrit la façon dont vous rencontrez les gens déjà là, ou ceux qui viennent, avec plus de tendresse et plus d’idéal, pas qui ils seront. Ce transit n’annonce aucune relation et n’en termine aucune, et je ne le lirais ni comme une promesse ni comme un avertissement en amour."
   - q: "Est-ce que Neptune passera sur mon Descendant ?"
     a: "Si votre Neptune de naissance se trouvait sous l’horizon, en maisons 1 à 6, sa route mène à votre Descendant en moins de 80 ans environ : tôt depuis la maison 6, vers 80 ans depuis juste sous l’Ascendant. Avec Neptune au-dessus de l’horizon, c’est la conjonction à l’Ascendant qui vient. La moitié des naissances de 1930 à 2009 rencontrent celle-ci."
   - q: "Combien de temps dure Neptune opposition Ascendant ?"
-    a: "Environ deux ans et demi avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus courts. Neptune franchit le degré exact trois fois le plus souvent et cinq fois environ une fois sur quatre, en allant et venant un temps entre vos maisons 6 et 7."
+    a: "Trois passages sur votre Descendant dans la plupart des cas, cinq environ une fois sur quatre, sur quelque deux ans et demi dans mes orbes, et vingt-deux mois pour les plus brefs. Entre deux passages, Neptune repart dans votre maison 6, celle du travail et des soins de tous les jours."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Neptune reste dans mes orbes, et combien rencontrent l’opposition avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Neptune aux angles" }

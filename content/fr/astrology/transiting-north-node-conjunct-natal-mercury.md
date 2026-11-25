@@ -2,7 +2,7 @@
 title: "Nœud Nord en transit conjonction Mercure du thème natal"
 slug: "noeud-nord-transit-conjonction-mercure-natal"
 h1: "Nœud Nord en transit conjonction Mercure de votre thème natal"
-description: "Nœud Nord en transit conjonction Mercure du thème natal : une façon moins pratiquée de penser ou de parler, un mois tous les 18,6 ans. Ce qui aide."
+description: "Nœud Nord en transit conjonction Mercure du thème natal : tous les 18,6 ans, un mois où une façon moins pratiquée de penser ou de parler s’avance. Ce qui aide."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Nœud Nord", "Mercure", "conjonction", "transits"]
 weight: 1927
 glyph: "☊☌☿"
-definition: "Le Nœud Nord en transit conjonction Mercure du thème natal, c’est le Nœud Nord sur le degré de Mercure à votre naissance, une fois par tour de 18,6 ans, un mois environ. Votre façon de penser, d’apprendre et de parler rejoint la direction que vous pratiquez encore, le Nœud Sud en face. J’y lis une saison pour apprendre autrement."
+definition: "Le Nœud Nord en transit conjonction Mercure du thème natal, c’est le Nœud Nord sur le degré de Mercure à votre naissance, tous les 18,6 ans, un mois environ. Votre façon de penser, d’apprendre et de parler rejoint la direction que vous pratiquez encore, le Nœud Sud tenant le degré opposé. Une saison pour apprendre autrement."
 facts:
   - { k: "En transit", v: "Le Nœud Nord ☊, le nœud vrai : une croissance qui demande de la pratique" }
   - { k: "Point natal", v: "Mercure ☿ : votre façon de recevoir, de trier et d’échanger l’information" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/north-node", "/astrology/mercury", "/astrology/mercury-conjunct-north-node", "/astrology/mercury-in-3rd-house", "/astrology/transits"]
 faq:
   - q: "Que veut dire le Nœud Nord en transit conjonction Mercure natal ?"
-    a: "Le Nœud Nord atteint le degré de Mercure dans votre thème de naissance, le Nœud Sud en face. Pendant un mois environ, une façon moins pratiquée de penser, d’apprendre ou de parler se présente, face à vos arguments habituels de l’autre côté du thème. J’y lis une saison pour apprendre autrement, jamais une nouvelle en route."
+    a: "Le Nœud Nord atteint le degré de Mercure dans votre thème de naissance, le Nœud Sud en face. Pendant un mois environ, une façon moins pratiquée de penser, d’apprendre ou de parler se présente, face à vos arguments habituels de l’autre côté du thème. C’est un mois pour apprendre autrement, jamais une nouvelle en route."
   - q: "Quand le Nœud Nord passe-t-il sur Mercure dans mon thème ?"
     a: "Une fois par tour de 18,6 ans, à un an et demi environ de la conjonction du nœud avec votre Soleil, puisque Mercure ne s’en écarte jamais de plus de 28°. Le mois exact vient du degré de Mercure ; la plupart des gens le rencontrent quatre fois avant 80 ans, certaines personnes cinq."
   - q: "Le Nœud Nord conjonction Mercure, est-ce un bon moment pour étudier ?"
@@ -35,19 +35,19 @@ Mercure ne s’écarte jamais de plus de 28° environ du Soleil : le nœud, en 
 
 ## Ce qui change {#ce-qui-change}
 
-[Mercure](/astrology/mercury/) traite l’information : la reçoit, la trie, lui donne un sens et la transmet, en mots, en notes, en questions et en arguments. Le [Nœud Nord](/astrology/north-node/) marque une capacité qui ne grandit qu’à force de répétition. Dans une [conjonction](/astrology/conjunction/), les deux travaillent comme un seul : pendant ce [transit](/astrology/transits/), apprendre quelque chose et grandir reviennent au même.
+[Mercure](/astrology/mercury/) traite l’information : la reçoit, la trie, lui donne un sens et la transmet, en mots, en notes, en questions et en arguments. Le [Nœud Nord](/astrology/north-node/) représente un savoir-faire que seule la répétition construit. Dans une [conjonction](/astrology/conjunction/), les deux travaillent comme un seul : pendant ce [transit](/astrology/transits/), apprendre quelque chose et grandir reviennent au même.
 
-Ce qui se présente, c’est souvent une façon de penser moins pratiquée : demander là où vous expliquiez, écrire là où vous parliez, vérifier là où vous répondiez aussitôt, ou l’inverse. Un sujet évité parce qu’il ne venait pas tout seul peut être celui qui réclame votre attention, et il sonnera faux dans votre bouche tant qu’il n’aura pas servi un moment. De l’autre côté du thème, le [Nœud Sud](/astrology/south-node/) se tient face à Mercure, sur les explications que vous avez toujours données et les arguments que vous connaissez par cœur. Ils marchent encore ; le mois montre où ils répondent avant que vous ayez écouté.
+Ce qui se présente, c’est souvent une façon de penser moins pratiquée : demander là où vous expliquiez, écrire là où vous parliez, vérifier là où vous répondiez aussitôt, ou l’inverse. Un sujet évité parce qu’il ne venait pas tout seul peut être celui qui réclame votre attention, et il sonnera faux dans votre bouche tant qu’il n’aura pas servi un moment. Pendant ce temps, le [Nœud Sud](/astrology/south-node/) occupe le point opposé à Mercure, sur les explications que vous avez toujours données et les arguments que vous connaissez par cœur. Ils marchent encore ; le mois montre où ils répondent avant que vous ayez écouté.
 
 Ce qui vient d’abord dépend de votre thème. Le nœud recule : si Mercure se trouve à un degré plus avancé que votre Soleil, le nœud passe d’abord sur Mercure et [Nœud Nord en transit conjonction Soleil du thème natal](/astrology/transiting-north-node-conjunct-natal-sun/) suit ; dans le cas contraire, le tour du Soleil vient d’abord.
 
-Avec [Mercure en maison 3](/astrology/mercury-in-3rd-house/), dont le signe naturel, les Gémeaux, a Mercure pour maître, la conjonction tombe pendant le séjour du nœud dans cette maison ([Nœud Nord en transit en maison 3](/astrology/north-node-transit-3rd-house/)) : les lettres, les voisins, les frères et sœurs, les cours et les conversations de tous les jours. Mercure bouge si peu en un jour que votre date de naissance fixe presque le moment ; c’est la maison qui demande votre heure de naissance, et je ne lis pas ce transit sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Mercure gouverne les Gémeaux, signe naturel de la maison 3, et avec [Mercure en maison 3](/astrology/mercury-in-3rd-house/) ce transit appartient au séjour du nœud dans cette maison ([Nœud Nord en transit en maison 3](/astrology/north-node-transit-3rd-house/)) : les lettres, les voisins, les frères et sœurs, les cours et les conversations de tous les jours. Mercure bouge si peu en un jour que votre date de naissance fixe presque le moment ; c’est la maison qui demande votre heure de naissance, et je ne lis pas ce transit sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
 Ma prévision ouvre la fenêtre 1,5° avant l’exactitude et la ferme 1° après. Le nœud met en général un mois environ à la traverser, 32 jours quand il franchit le degré de Mercure une fois, comme dans dix-neuf passages sur vingt. Quand une saison d’éclipses arrive au milieu, le nœud vrai s’arrête presque, car son allure dépend de la place du Soleil : la conjonction s’étire alors à trois mois et demi ou plus, comme une fois sur dix, et une fois sur vingt-cinq environ le nœud passe trois fois. La saison de février 2027 en est une : avec Mercure vers 20° Verseau à la naissance, le nœud s’y tient de la fin décembre 2026 à la fin mars 2027, et l’éclipse annulaire du 6 février tombe à 17°37′ Verseau, assez près pour compter ([Éclipses sur vos planètes natales](/astrology/eclipses-on-your-natal-planets/)).
 
-La conjonction vient une fois par tour, tous les 18,6 ans environ : quatre fois avant 80 ans pour la plupart des gens, cinq si la première est arrivée avant cinq ans et demi environ. Ensuite, le nœud passe à [Nœud Nord en transit sextile Mercure du thème natal](/astrology/transiting-north-node-sextile-natal-mercury/) et à [Nœud Nord en transit carré Mercure du thème natal](/astrology/transiting-north-node-square-natal-mercury/) en moins de cinq ans, à [Nœud Nord en transit trigone Mercure du thème natal](/astrology/transiting-north-node-trine-natal-mercury/) vers six ans et à [Nœud Nord en transit opposition Mercure du thème natal](/astrology/transiting-north-node-opposite-natal-mercury/) vers neuf ans, quand le Nœud Sud prend son tour sur Mercure. Si votre thème porte [Mercure conjonction Nœud Nord](/astrology/mercury-conjunct-north-node/), vous rencontrez ce transit chaque fois que les nœuds reviennent à leurs degrés de naissance.
+Chaque tour des nœuds apporte la conjonction une fois : la plupart des gens en ont quatre avant 80 ans, et celles et ceux qui ont connu la première avant cinq ans et demi environ en ont cinq. Ensuite, le nœud passe à [Nœud Nord en transit sextile Mercure du thème natal](/astrology/transiting-north-node-sextile-natal-mercury/) et à [Nœud Nord en transit carré Mercure du thème natal](/astrology/transiting-north-node-square-natal-mercury/) en moins de cinq ans, à [Nœud Nord en transit trigone Mercure du thème natal](/astrology/transiting-north-node-trine-natal-mercury/) vers six ans et à [Nœud Nord en transit opposition Mercure du thème natal](/astrology/transiting-north-node-opposite-natal-mercury/) vers neuf ans, quand le Nœud Sud prend son tour sur Mercure. Si votre thème porte [Mercure conjonction Nœud Nord](/astrology/mercury-conjunct-north-node/), vous rencontrez ce transit chaque fois que les nœuds reviennent à leurs degrés de naissance.
 
 ## Ce qui aide {#ce-qui-aide}
 

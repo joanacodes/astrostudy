@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Ascendant", "rising sign", "sextile", "transits"]
 weight: 1789
 glyph: "♆⚹AC"
-definition: "Transiting Neptune sextile natal Ascendant is Neptune 60° from the degree rising at your birth, for about two and a half years. A gentler, more imaginative way of meeting people and starting things becomes easy to try, if you take it up. Most people meet one of the two sextiles, some both, about 1 in 6 neither."
+definition: "Transiting Neptune sextile natal Ascendant opens a gentler, more imaginative way of meeting people and starting things, easy to try if you take it up. Neptune stays 60° from your rising degree for about two and a half years; most people meet one of these sextiles, some both, and about 1 in 6 neither."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "The Ascendant (AC): how you meet the world; the 1st house cusp in Placidus" }
@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/ascendant", "/astrology/neptune", "/astrology/sextile", "/astrology/neptune-transit-11th-house", "/astrology/neptune-transit-3rd-house"]
 faq:
   - q: "What does transiting Neptune sextile natal Ascendant mean?"
-    a: "Neptune is 60° from the degree that was rising when you were born. I read it as an opening: a softer, more imaginative way of introducing yourself and starting things becomes easy to try, through friends and groups or through conversation and study, depending on the side it comes from. It offers the climate; the step is yours."
+    a: "Neptune is a sixth of the zodiac from your rising degree, coming from your 11th house or your 3rd. I read it as an opening: a softer, more imaginative way of introducing yourself and starting things becomes easy to try, through friends and groups or through conversation and study. It offers the climate; the step is yours."
   - q: "How long does Neptune sextile the Ascendant last?"
-    a: "About two and a half years within my orbs, from 1½° before exact to 1° after, and twenty-two months in the shortest passes. Three exact hits are usual and about a quarter of passes bring five, because Neptune loops back over the degree as it turns retrograde each year."
+    a: "Two and a half years or so in my orbs, and some twenty-two months in the quickest passes, with three exact hits as a rule and five in about a quarter. Someone who meets both sextiles lives through two such stretches, decades apart."
   - q: "Can Neptune sextile my Ascendant twice?"
     a: "Yes, for some. Every Ascendant has two sextiles, a third of the zodiac apart, and Neptune covers almost half the zodiac in 80 years. Born with Neptune near the top of your chart, you meet both; born with it low, around your 3rd or 4th house, you meet neither, like about 1 person in 6."
   - q: "Can I read Neptune sextile Ascendant without a birth time?"
-    a: "No. The sextile is measured from the rising degree, which shifts about a degree every four minutes of clock time, and the house it comes through needs the time as well. Without a recorded birth time there is no Ascendant to measure from, so there is no reading of this transit or of anything else."
+    a: "No. The sextile is measured from the rising degree, which goes round the whole zodiac in a day, and the house it comes through needs the time as well. Without a recorded birth time there is no Ascendant to measure from, so there is no reading of this transit or of anything else."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Neptune stays within my orbs, and how many meet each sextile by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Neptune’s transits to the angles" }
@@ -39,7 +39,7 @@ Every Ascendant has two sextiles, a third of the zodiac apart, and Neptune's slo
 
 The [Ascendant](/astrology/ascendant/) sets the angle you come at things from: how you walk into a room, how you begin. [Neptune](/astrology/neptune/) lends imagination, tenderness and a feel for atmosphere. A [sextile](/astrology/sextile/), 60°, relates the two through an opening that waits for you to use it, so under this [transit](/astrology/transits/) a gentler, more imaginative way of presenting yourself becomes easy to try: a softer first approach, a creative side you let people see sooner, more patience with first impressions.
 
-Which sextile you're under shows in where the opening arrives. From above the horizon, Neptune is usually crossing your 11th house, and the opening comes through friends, groups and shared hopes ([Neptune transiting the 11th house](/astrology/neptune-transit-11th-house/)); from below, around your 3rd, through conversation, study, writing or the streets near home ([Neptune transiting the 3rd house](/astrology/neptune-transit-3rd-house/)). Those are rough places: in [Placidus](/astrology/placidus/) the houses aren't 30° each, and only your birth time can say ([what changes without a birth time](/blog/unknown-birth-time/)).
+Which sextile you're under shows in where the opening arrives. From above the horizon, Neptune is usually crossing your 11th house, and the opening comes through friends, groups and shared hopes ([Neptune transiting the 11th house](/astrology/neptune-transit-11th-house/)); from below, around your 3rd, through conversation, study, writing or the streets near home ([Neptune transiting the 3rd house](/astrology/neptune-transit-3rd-house/)). Those are rough places: in [Placidus](/astrology/placidus/) the houses aren't 30° each, and only a chart cast for your birth time gives their real size ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 A sextile doesn't act on its own. Neptune's blind spot here would be expecting a pleasant atmosphere to carry you; the transit offers the climate, and showing that side of yourself remains your step. The Ascendant's own blind spot, making too much of first impressions, eases under it too: you can let people take longer to see you, and take longer to see them.
 

@@ -1,7 +1,7 @@
 ---
 title: "Transiting Neptune trine natal Neptune"
 h1: "Transiting Neptune trine your natal Neptune"
-description: "Transiting Neptune trine natal Neptune: a third of Neptune’s round, met by everyone between 51½ and 55. What flows, how long it lasts, what helps."
+description: "Transiting Neptune trine natal Neptune: in your fifties, Neptune a third of the way round from its birth place, and your ideals and experience in step."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "trine", "transits"]
 weight: 1781
 glyph: "♆△♆"
-definition: "Transiting Neptune trine natal Neptune is Neptune 120° on from its place in your birth chart, a step everyone reaches once, between about 51½ and 55, for some two and a half years. Your birth ideals and the life they shaped move the same way. I read it as ease that still asks to be used."
+definition: "Transiting Neptune trine natal Neptune comes once to everyone, between about 51½ and 55, when Neptune has covered a third of its round since your birth. For some two and a half years, the ideals you were born with and the life they shaped move the same way. I read it as ease that asks to be used."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "Neptune ♆: the ideals you were born with" }
@@ -24,9 +24,9 @@ faq:
   - q: "What does transiting Neptune trine natal Neptune mean?"
     a: "Neptune has travelled a third of the way round from its place in your birth chart, a point everyone reaches in the early to mid-fifties. I read it as a flow between the ideals you were born with and where life has taken them: compassion with experience behind it, imagination that knows what it can carry."
   - q: "At what age is Neptune trine natal Neptune?"
-    a: "It comes within my orbs between 51.7 and 55.2 for births from 1930 to 2009: at 55 for people born from the 1930s to the 1950s, at 54 for the 1960s and 1970s, and at 52½ for the 1990s and 2005. The exact hits follow within about two years."
+    a: "In the early to mid-fifties, and the later the birth, the sooner: at 55 for births of the 1930s to the 1950s, 54 for the 1960s and 1970s, 52½ for the 1990s and 2005, between 51.7 and 55.2 in all."
   - q: "How long does Neptune trine Neptune last?"
-    a: "About two and a half years with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the quickest passes. Three exact hits are the rule and five come in about one pass in four, because Neptune spends about five months of every year retrograde."
+    a: "Long enough to settle into: about two and a half years in my orbs, twenty-two months in the quickest passes. Neptune spends some five months of every year retrograde, so the trine is exact three times as a rule, and five times in about one pass in four."
   - q: "What comes after the Neptune trine?"
     a: "Only the opposition, when Neptune stands halfway round from its birth place, about 80 years on. Born from the late 1980s on, you would meet it just before 80; born earlier, after it. The rest of the cycle, the closing trine and square and the return, lies beyond any human life."
 sources:

@@ -2,7 +2,7 @@
 title: "Nœud Nord en transit carré Mercure du thème natal"
 slug: "noeud-nord-transit-carre-mercure-natal"
 h1: "Nœud Nord en transit carré Mercure de votre thème natal"
-description: "Nœud Nord en transit carré Mercure du thème natal : tous les neuf ans, vieilles explications et nouveaux buts se frottent un mois. Pourquoi, ce qui aide."
+description: "Nœud Nord en transit carré Mercure du thème natal : tous les neuf ans, vieilles explications et nouveaux buts se frottent un mois. Ce qu’il demande."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Nœud Nord", "Mercure", "carré", "transits"]
 weight: 1929
 glyph: "☊□☿"
-definition: "Le Nœud Nord en transit carré Mercure du thème natal, c’est l’axe des nœuds à angle droit sur Mercure dans votre thème, tous les neuf ans environ, pendant un mois. Vieilles explications et nouveaux buts réclament votre attention, et la friction aiguise souvent une décision. J’y lis un esprit qui s’ajuste, jamais une mauvaise nouvelle."
+definition: "Le Nœud Nord en transit carré Mercure du thème natal place Mercure à angle droit de l’axe des nœuds pendant un mois environ, tous les neuf ans et quatre mois. Vieilles explications et nouveaux buts réclament votre attention, et la friction aiguise souvent une décision. J’y lis un esprit qui s’ajuste, jamais une mauvaise nouvelle."
 facts:
   - { k: "En transit", v: "Le Nœud Nord ☊, le nœud vrai, avec le Nœud Sud lui aussi en carré à Mercure" }
   - { k: "Point natal", v: "Mercure ☿ : votre façon de raisonner, d’interpréter et d’expliquer" }
@@ -38,13 +38,13 @@ Quand le nœud forme un carré avec Mercure dans votre thème, la ligne qui va d
 
 Concrètement, cela ressemble souvent à une dispute avec vous-même. L’ancienne explication ne convainc plus tout à fait, la nouvelle n’a pas encore gagné votre confiance, et vous répétez les deux. Un projet demande peut-être à être repensé, un savoir-faire réappris, une histoire que vous vous racontez sur vous-même racontée autrement. Cette friction est utile : c’est ainsi qu’un carré change l’information en décision, et il est rare qu’elle doive être réglée d’un coup.
 
-Avec [Mercure en maison 10](/astrology/mercury-in-10th-house/), la friction se montre souvent au travail : dans ce que vous dites en public, dans la façon de présenter une idée, dans la réputation que vos mots ont construite. Rien de tout cela n’annonce l’issue d’un contrat, d’un examen ou d’un litige, qu’aucun thème ne peut dire ([L’astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)). La maison 10, comme toutes les maisons, demande votre heure de naissance pour être tracée, et je ne lis pas ce carré sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec [Mercure en maison 10](/astrology/mercury-in-10th-house/), la friction se montre souvent au travail : dans ce que vous dites en public, dans la façon de présenter une idée, dans la réputation que vos mots ont construite. Rien de tout cela n’annonce l’issue d’un contrat, d’un examen ou d’un litige, qu’aucun thème ne peut dire ([L’astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)). La maison 10, comme toutes les maisons, se trace à partir de votre heure de naissance ; sans elle, je ne saurais pas où ce carré tombe dans votre vie ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
 Chaque transit que je suis reçoit les mêmes orbes, 1,5° avant l’exactitude et 1° après, et le nœud les franchit, dans le cas du milieu, en un mois environ. Pour un dixième des passages, il lui faut trois semaines et demie ou moins ; pour un autre dixième, trois mois et demi ou plus : c’est le nœud vrai qui s’attarde parce que le Soleil a rejoint les nœuds et qu’une saison d’éclipses a commencé. Une fois sur vingt-cinq environ, le passage touche trois fois le carré exact.
 
-Les carrés reviennent à intervalles réguliers, tous les neuf ans et quatre mois environ, d’un côté puis de l’autre : le premier quatre ans et demi environ après le passage du nœud sur Mercure ([Nœud Nord en transit conjonction Mercure du thème natal](/astrology/transiting-north-node-conjunct-natal-mercury/)), le suivant quatre ans et demi environ après celui du Nœud Sud ([Nœud Nord en transit opposition Mercure du thème natal](/astrology/transiting-north-node-opposite-natal-mercury/)). En chemin, le nœud forme aussi [Nœud Nord en transit sextile Mercure du thème natal](/astrology/transiting-north-node-sextile-natal-mercury/) et [Nœud Nord en transit trigone Mercure du thème natal](/astrology/transiting-north-node-trine-natal-mercury/). Avant 80 ans, la plupart des gens ont connu neuf carrés, huit au moins. Si votre thème porte [Mercure carré Nœud Nord](/astrology/mercury-square-north-node/), vous rencontrez celui-ci à chaque [retour nodal](/astrology/nodal-return/) et à chaque [inversion nodale](/astrology/nodal-reversal/), puisque Mercure se tient déjà à angle droit de l’axe de votre naissance.
+Les carrés forment la paire régulière : neuf ans et quatre mois d’écart chaque fois, un de chaque côté de Mercure. Le nœud passe [Nœud Nord en transit sextile Mercure du thème natal](/astrology/transiting-north-node-sextile-natal-mercury/) avant le premier et [Nœud Nord en transit trigone Mercure du thème natal](/astrology/transiting-north-node-trine-natal-mercury/) après, atteint [Nœud Nord en transit opposition Mercure du thème natal](/astrology/transiting-north-node-opposite-natal-mercury/) à mi-parcours, et refait les mêmes angles à rebours en revenant vers [Nœud Nord en transit conjonction Mercure du thème natal](/astrology/transiting-north-node-conjunct-natal-mercury/). Avant 80 ans, la plupart des gens ont connu neuf carrés, huit au moins. Si votre thème porte [Mercure carré Nœud Nord](/astrology/mercury-square-north-node/), vous rencontrez celui-ci à chaque [retour nodal](/astrology/nodal-return/) et à chaque [inversion nodale](/astrology/nodal-reversal/), puisque Mercure se tient déjà à angle droit de l’axe de votre naissance.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Pluton", "sextile", "transits"]
 weight: 1784
 glyph: "♆⚹♇"
-definition: "Neptune en transit sextile Pluton du thème natal, c’est Neptune à 60° du degré de Pluton à votre naissance. Cinq personnes sur six le rencontrent avant 7 ans, le plus souvent la première année, quand le ciel achève le sextile Neptune-Pluton de leur naissance ; les autres jamais. Je lis la paire natale chez l’adulte, jamais ce transit chez l’enfant."
+definition: "Neptune en transit sextile Pluton du thème natal, Neptune à 60° de votre Pluton de naissance, touche cinq personnes sur six avant 7 ans, le plus souvent la première année, quand le ciel achève le sextile Neptune-Pluton de leur naissance ; les autres jamais. Je lis la paire natale chez l’adulte, jamais ce transit chez l’enfant."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "Pluton ♇ : là où vous tenez le plus fort et pouvez recommencer" }
@@ -40,9 +40,9 @@ Pour la plupart des gens, ce transit est venu avant tout souvenir. Neptune a att
 
 [Pluton](/astrology/pluto/) marque l’endroit où vous tenez le plus fort et où, avec le temps, vous vous renouvelez. [Neptune](/astrology/neptune/) apporte l’imagination et la compassion, le don de se figurer les choses autrement. Un [sextile](/astrology/sextile/), 60°, relie deux fonctions par une ouverture qui attend une réponse ; sous ce [transit](/astrology/transits/), l’ouverture passe entre imaginer et transformer : la capacité de laisser un idéal changer ce qui ne marche plus.
 
-Comme il vient si tôt, je ne le lis pas comme une saison vécue. Beaucoup de personnes nées ces années-là portent l’aspect natal [Neptune sextile Pluton](/astrology/neptune-sextile-pluto/) ; pour elles, le transit, c’est le même angle qui devient exact dans le ciel quelques mois ou un ou deux ans après la naissance, parfois déjà dans l’orbe le jour même. Ce dont un adulte peut se servir, c’est la paire natale, lue dans les maisons des deux planètes, qui viennent de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Comme il vient si tôt, je ne le lis pas comme une saison vécue. Beaucoup de personnes nées ces années-là portent l’aspect natal [Neptune sextile Pluton](/astrology/neptune-sextile-pluto/) ; pour elles, le transit, c’est le même angle qui devient exact dans le ciel quelques mois ou un ou deux ans après la naissance, parfois déjà dans l’orbe le jour même. Ce dont un adulte peut se servir, c’est la paire natale, lue dans les maisons des deux planètes, que donne l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Je ne lis pas le thème des enfants ([Le thème des enfants](/astrology/childrens-charts/)), et ici cette règle ne coûte rien : rien dans ce transit ne demande à un enfant ou à un parent d’agir. L’angle mort de Neptune consiste à confondre le sens symbolique avec une prédiction littérale, et la première année d’une vie est le dernier endroit où commettre cette erreur.
+Les thèmes d’enfants, je ne les lis pas ([Le thème des enfants](/astrology/childrens-charts/)), et ici cette règle ne coûte rien : rien dans ce transit ne demande à un enfant ou à un parent d’agir. L’angle mort de Neptune consiste à confondre le sens symbolique avec une prédiction littérale, et la première année d’une vie est le dernier endroit où commettre cette erreur.
 
 ## Combien de temps {#combien-de-temps}
 

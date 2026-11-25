@@ -45,13 +45,13 @@ Pluto arrives here from your 12th house, where it has been working out of sight 
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, Pluto takes about two years and eight months to cross your rising degree, twenty-two months when it moves quickly, and goes over it three times in about three passes out of five, five times in the rest.
+Pluto needs about two years and eight months to get across your rising degree, measured from 1½° before exact to 1° after, my orbs, and twenty-two months when it moves quickly. In about three passes out of five it goes over the degree three times, and five times in the rest.
 
 More than half of people born between 1930 and 2009 never meet it by 80, and nobody meets it twice. Pluto covers well under half the zodiac in a lifetime, and your rising degree may not lie in that stretch: it depends on how far Pluto stood behind your Ascendant at birth, counted forward through the signs.
 
 Here the birth time decides everything. On average the rising degree moves about 15° an hour, and while Pluto crosses Aquarius it covers about a degree and a half a year, so an hour's error in the time moves this transit by about a decade, or out of your life altogether. Until early 2044 Pluto crosses [Aquarius rising](/astrology/aquarius-rising/): its early degrees in the mid-2020s, the middle ones in the 2030s, the last around 2042.
 
-The square ([Transiting Pluto square natal Ascendant](/astrology/transiting-pluto-square-natal-ascendant/)) reaches about 7 people in 8, and the sextile ([Transiting Pluto sextile natal Ascendant](/astrology/transiting-pluto-sextile-natal-ascendant/)) and the trine ([Transiting Pluto trine natal Ascendant](/astrology/transiting-pluto-trine-natal-ascendant/)) about 3 in 4. The opposition ([Transiting Pluto opposite natal Ascendant](/astrology/transiting-pluto-opposite-natal-ascendant/)), Pluto on your Descendant, is as rare as this crossing.
+Most people meet the square instead ([Transiting Pluto square natal Ascendant](/astrology/transiting-pluto-square-natal-ascendant/)), about 7 in 8 of them, and about 3 in 4 the sextile ([Transiting Pluto sextile natal Ascendant](/astrology/transiting-pluto-sextile-natal-ascendant/)) or the trine ([Transiting Pluto trine natal Ascendant](/astrology/transiting-pluto-trine-natal-ascendant/)). The opposition ([Transiting Pluto opposite natal Ascendant](/astrology/transiting-pluto-opposite-natal-ascendant/)), Pluto on your Descendant, is as rare as this crossing.
 
 ## What helps {#what-helps}
 

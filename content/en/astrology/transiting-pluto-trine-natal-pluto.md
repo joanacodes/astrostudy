@@ -47,9 +47,9 @@ With Pluto in your 11th, the trine comes from around your 3rd ([Pluto transiting
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, my orbs, the trine lasts about two years and eight months, twenty-two months in the quickest passes. Pluto crosses the exact trine three times in about three passes out of five, and five times in the rest.
+Like the square before it, the trine takes its time: about two years and eight months from 1½° before exact to 1° after, my orbs, and about twenty-two months in the quickest passes. Most passes are exact three times; about two in five are exact five times.
 
-All but about 1 person in 14 born between 1930 and 2009 meet it by 80, and nobody meets it twice; the exceptions are the latest births, from the mid-2000s on, whose trine lies beyond 80. For births on 1 January, Pluto came within orb at 57.9 in 1935, 53.9 in 1945, 51 in 1955, 50.1 in 1965 and 53.1 in 1975, and comes at 60.2 for 1985 and 70.3 for 1995; the youngest anyone met it was 48.6. Pluto's stretched orbit makes the difference. After a birth in the 1960s, the third of the zodiac ran through Pluto's quickest years, around its closest approach to the Sun in 1989; after a birth in the 1990s, it runs on into Aquarius and Pisces, where Pluto is slow.
+All but about 1 person in 14 born between 1930 and 2009 meet it by 80, and nobody meets it twice; the exceptions are the latest births, from the mid-2000s on, whose trine lies beyond 80. Dated by 1 January birthdays, it begins at 57.9 for 1935, 53.9 for 1945, 51 for 1955, 50.1 for 1965 and 53.1 for 1975, and at 60.2 for 1985 and 70.3 for 1995; no one met it younger than 48.6. Pluto's stretched orbit makes the difference. After a birth in the 1960s, the third of the zodiac ran through Pluto's quickest years, around its closest approach to the Sun in 1989; after a birth in the 1990s, it runs on into Aquarius and Pisces, where Pluto is slow.
 
 Pluto in Aquarius, until early 2044, trines Pluto in Libra: people born from 1972 to 1984 ([Pluto in Libra](/astrology/pluto-in-libra/)) meet it between about 50 and 59.
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Midheaven", "conjunction", "transits"]
 weight: 1793
 glyph: "♆☌MC"
-definition: "Transiting Neptune conjunct natal Midheaven is Neptune crossing the top of your birth chart, the point of your public direction, for about two and a half years, once at most; half of people never meet it. Your role in the world softens at the edges and asks for meaning. It needs your birth time, and forecasts no career."
+definition: "Transiting Neptune conjunct natal Midheaven is Neptune at the top of your birth chart, where your public direction is marked. Half of people live through it, once only, for some two and a half years. Your role in the world softens at the edges and asks for meaning. It needs your birth time, and forecasts no career."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "The Midheaven (MC): your direction in public life; the 10th house cusp in Placidus" }
@@ -22,19 +22,19 @@ facts:
 related: ["/astrology/midheaven", "/astrology/neptune", "/astrology/neptune-transit-10th-house", "/astrology/neptune-transit-9th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "What does transiting Neptune conjunct natal Midheaven mean?"
-    a: "Neptune is crossing the top of your birth chart, the point that stands for your role in the world. I read it as a season when work wants to mean something beyond itself, and when the picture others hold of you says as much about their hopes as about what you do. It describes a search for vocation."
+    a: "Neptune is crossing the top of your birth chart, the angle of your role in the world. I read it as a season when work wants to mean something beyond itself, and when the picture others hold of you says as much about their hopes as about what you do. It describes a search for vocation."
   - q: "Does Neptune on the Midheaven mean a career change?"
     a: "Not as I read it. A transit doesn’t say whether a job begins or ends, and the Midheaven is broader than a career: it covers any visible role and contribution. What this crossing describes is the kind of meaning you look for in whatever you do, and that can change inside the same work."
   - q: "Will Neptune ever reach my Midheaven?"
     a: "Only if you were born in the twelve hours after Neptune crossed the meridian high in your sky, which puts it in houses 4 to 9 of your chart. Born soon after, it comes early; nearly twelve hours after, close to 80. Born in the other half of the day, the IC comes first; about half of people meet it."
   - q: "How long does Neptune conjunct the Midheaven last?"
-    a: "About two and a half years with my orbs, from 1½° before the Midheaven to 1° past it, and about twenty-two months in the shortest passes. Neptune touches the exact degree three times in most passes and five times in about one in four, moving between your 9th and 10th houses as it loops."
+    a: "The crossing lasts about two and a half years in my orbs, around twenty-two months at the quickest, with three exact hits in most passes and five in about one in four. It is the hinge between Neptune’s years in your 9th house and its years in your 10th."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Neptune stays within my orbs of the Midheaven, and how many meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Neptune’s transits to the angles" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Midheaven from the local sidereal time of birth" }
 ---
-Neptune reaches the top of your chart once at most, and only half of people see it before 80. For about two and a half years the point that stands for your place in the world takes on Neptune's colours: vocation, ideals, and other people's projections.
+Neptune reaches the top of your chart once at most, and only half of people see it before 80. For about two and a half years your public direction takes on Neptune's colours: vocation, ideals, and other people's projections.
 
 ## What changes {#what-changes}
 

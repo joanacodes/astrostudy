@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Ascendant", "rising sign", "conjunction", "transits"]
 weight: 1788
 glyph: "♆☌AC"
-definition: "Transiting Neptune conjunct natal Ascendant is Neptune crossing the degree that was rising at your birth, for about two and a half years, once at most; half of people never meet it. The way you meet the world grows softer and more receptive. It needs your birth time: without it there is no Ascendant, and no reading."
+definition: "Transiting Neptune conjunct natal Ascendant is Neptune on your rising degree, a crossing half of people never meet and the rest meet once, for about two and a half years. Your first approach to the world grows softer and more receptive. It needs your birth time: without it there is no Ascendant, and no reading."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "The Ascendant (AC): how you meet the world; the 1st house cusp in Placidus" }
@@ -22,19 +22,19 @@ facts:
 related: ["/astrology/ascendant", "/astrology/neptune", "/astrology/neptune-transit-1st-house", "/astrology/neptune-transit-12th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "What does transiting Neptune conjunct natal Ascendant mean?"
-    a: "Neptune is crossing the degree that was rising when you were born. I read it as a softening of the way you meet the world: you take in a room before you act, arrive more gently, and people read their own hopes into your manner. It widens how you come across and predicts no event."
+    a: "Neptune is passing over your rising degree. I read it as a softening of the way you meet the world: you take in a room before you act, arrive more gently, and people read their own hopes into your manner. It widens how you come across and predicts no event."
   - q: "How long does Neptune on the Ascendant last?"
-    a: "About two and a half years within my orbs, from 1½° before the rising degree to 1° past it, and about twenty-two months when the pass is short. Neptune touches the exact degree three times in most passes and five in about one in four, crossing back above the horizon for a while on each retrograde loop."
+    a: "About two and a half years in my orbs, twenty-two months when the pass is short. Your rising degree is usually crossed three times, and five times in about one pass in four, before Neptune settles into your 1st house for its long stay there."
   - q: "Will Neptune ever cross my Ascendant?"
     a: "Only if your natal Neptune sat above the horizon, in houses 7 to 12: Neptune is then on its way to your rising degree, early if it was in your 12th, near 80 if it had just set. Born with Neptune below the horizon, you meet the opposition instead; half of people born 1930–2009 meet this crossing by 80."
   - q: "Do I need my birth time for Neptune conjunct the Ascendant?"
-    a: "Yes, completely. The Ascendant moves about a degree every four minutes on average, and a degree is months of Neptune’s slow progress, so a time rounded to the quarter hour can shift this crossing by up to a year. Without a recorded time there is nothing to cross, and I don’t read the chart."
+    a: "Yes, completely. The rising degree changes so fast through the day that a time rounded to the quarter hour can move this crossing by up to a year, and without a recorded time there is no rising degree at all. In that case I don’t read the chart."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Neptune stays within my orbs of the rising degree, and how many meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Neptune’s transits to the angles" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Ascendant from the time and place of birth" }
 ---
-Once in a life at most, and for only half of people, Neptune reaches the degree that was rising when you were born. For about two and a half years the planet of imagination sits on the threshold where you meet the world, and the threshold grows softer.
+Once in a life at most, and for only half of people, Neptune reaches the degree that stood on the eastern horizon at your birth. For about two and a half years the planet of imagination sits on the threshold where you meet the world, and the threshold grows softer.
 
 ## What changes {#what-changes}
 
@@ -46,11 +46,11 @@ In [Placidus](/astrology/placidus/), my house system, the rising degree is where
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before the rising degree to 1° past it, Neptune takes about two and a half years to cross, about twenty-two months when the loops are short. It touches the exact degree three times in most passes and five in about one in four, each retrograde loop lifting it back above the horizon for a few months.
+From 1½° before the rising degree to 1° past it, Neptune takes about two and a half years to cross, about twenty-two months when the loops are short. Three exact hits are the rule and five come in about one pass in four, each retrograde loop lifting Neptune back above the horizon for a few months.
 
 Whether you meet it at all is settled by the horizon. Born with Neptune above it, in houses 7 to 12, you have Neptune on its way to your Ascendant: early in life if it sat in your 12th, around 40 if it sat near the top of the chart, close to 80 if it had just set. Born with Neptune below the horizon, in houses 1 to 6, the conjunction lies more than 80 years off, and [transiting Neptune opposite natal Ascendant](/astrology/transiting-neptune-opposite-natal-ascendant/) comes instead. So among births from 1930 to 2009, half meet it once and half never do. Of the other steps, [transiting Neptune square natal Ascendant](/astrology/transiting-neptune-square-natal-ascendant/) reaches everyone, and [transiting Neptune sextile natal Ascendant](/astrology/transiting-neptune-sextile-natal-ascendant/) and [transiting Neptune trine natal Ascendant](/astrology/transiting-neptune-trine-natal-ascendant/) most people.
 
-The Ascendant moves about a degree every four minutes of clock time on average, and a degree is months of Neptune's progress, so a birth time rounded to the quarter hour can shift this crossing by up to a year. Without a recorded time there's no rising degree to cross ([what changes without a birth time](/blog/unknown-birth-time/)); if yours is missing, it may still be found ([how to find your birth time](/astrology/how-to-find-your-birth-time/)). Neptune is in Aries until March 2039, so this is the crossing of [Aries rising](/astrology/aries-rising/), the earliest degrees first.
+A degree of the Ascendant is about four minutes of clock time, on average, and months of Neptune's progress: round the birth time to the quarter hour and this crossing can move by up to a year. Without a recorded time there's no rising degree to cross ([what changes without a birth time](/blog/unknown-birth-time/)); if yours is missing, it may still be found ([how to find your birth time](/astrology/how-to-find-your-birth-time/)). Neptune is in Aries until March 2039, so this is the crossing of [Aries rising](/astrology/aries-rising/), the earliest degrees first.
 
 ## What helps {#what-helps}
 

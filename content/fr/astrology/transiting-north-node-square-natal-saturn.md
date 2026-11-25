@@ -46,7 +46,7 @@ Si votre Saturne se trouve en maison 10, les carrés viennent souvent quand l’
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le nœud vrai a besoin d’un mois environ. Une saison d’éclipses dans les mêmes semaines peut le retenir presque immobile, pendant que le Soleil s’aligne sur les nœuds, et étirer le carré sur trois mois ou plus ; environ un passage sur 25 franchit le degré exact trois fois. Les éclipses d’une telle saison tombent à angle droit de votre Saturne, ce que ma règle des éclipses laisse de côté : elle ne compte une éclipse que sur un point natal ou en face de lui.
+Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le nœud vrai a besoin d’un mois environ. Une saison d’éclipses dans les mêmes semaines, le Soleil près des nœuds, peut le retenir presque immobile et étirer le carré sur trois mois ou plus ; environ un passage sur 25 franchit le degré exact trois fois. Les éclipses d’une telle saison tombent à angle droit de votre Saturne, ce que ma règle des éclipses laisse de côté : elle ne compte une éclipse que sur un point natal ou en face de lui.
 
 Aucun bout de l’axe ne se pose sur votre Saturne, et c’est aussi pour cela que la prévision avec laquelle je prépare mes lectures ne retient pas ce carré : le nœud n’y compte que de front, par conjonction ou opposition. Je le lis comme l’arrière-plan de ce que les planètes lentes font alors à votre Saturne.
 

@@ -43,7 +43,7 @@ If your Saturn is in your 6th, the trines tend to come while the node crosses th
 
 ## How long it lasts {#how-long-it-lasts}
 
-A trine from the node usually lasts about a month in my orbs, from 1½° before exact to 1° after. Caught by an eclipse season, when the Sun's line-up with the nodes holds the true node almost in place, it can run three months or more, and about one pass in 25 makes three exact hits. The eclipses of those weeks fall a trine or a sextile from your Saturn and don't touch it.
+A trine from the node usually lasts about a month in my orbs, from 1½° before exact to 1° after. Caught by an eclipse season, the weeks when the Sun is near the nodes and the true node scarcely moves, it can run three months or more, and about one pass in 25 makes three exact hits. The eclipses of those weeks fall a trine or a sextile from your Saturn and don't touch it.
 
 The forecast I build readings from leaves the node's trines out; it counts the node only where an end of the axis falls on a point. So this transit is a quiet one in my readings, worth noticing when it accompanies a slower transit to your Saturn, not worth waiting for on its own.
 

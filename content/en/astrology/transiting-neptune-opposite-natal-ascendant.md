@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Ascendant", "rising sign", "opposition", "transits"]
 weight: 1792
 glyph: "♆☍AC"
-definition: "Transiting Neptune opposite natal Ascendant is Neptune crossing your Descendant, the point facing your rising degree, for about two and a half years; half of people meet it once by 80. The space between you and the people close to you grows more porous and more tender. It brings no particular person, and takes none away."
+definition: "Transiting Neptune opposite natal Ascendant is Neptune on your Descendant, the western angle across from your rising degree: half of people meet it once by 80, for about two and a half years. The space between you and those close to you grows more porous and more tender. It brings no particular person, and takes none away."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "The Ascendant (AC), across from your Descendant, the 7th house cusp in Placidus" }
@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/descendant", "/astrology/ascendant", "/astrology/neptune", "/astrology/neptune-transit-7th-house", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does transiting Neptune opposite natal Ascendant mean?"
-    a: "Neptune is on your Descendant, the point facing the degree that was rising when you were born. I read it as a softening of the space between you and others: you sense what people need, you may idealise a partner, a friend or a client, and the line between their wishes and yours takes more care."
+    a: "Neptune is on your Descendant, the western point opposite your rising degree. I read it as a softening of the space between you and others: you sense what people need, you may idealise a partner, a friend or a client, and the line between their wishes and yours takes more care."
   - q: "Does Neptune on the Descendant bring a soulmate?"
     a: "No transit brings a person. Neptune on your Descendant describes how you meet the people who are already there or who come, with more tenderness and more idealising, not who they will be. It neither announces a relationship nor ends one, and I wouldn’t read it as a promise or a warning about love."
   - q: "Will Neptune cross my Descendant?"
     a: "If your natal Neptune sat below the horizon, in houses 1 to 6, its road leads to your Descendant within about 80 years: soon from the 6th, close to 80 from just under the Ascendant. With Neptune born above the horizon, the conjunction with your Ascendant comes instead. Half of people born 1930–2009 meet this one."
   - q: "How long does Neptune opposite the Ascendant last?"
-    a: "About two and a half years with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the shortest passes. Neptune crosses the exact degree three times in most passes and five in about one in four, moving back and forth between your 6th and 7th houses for a while."
+    a: "Three crossings of your Descendant in most passes, five in about one in four, spread over some two and a half years in my orbs and twenty-two months at the very least. Between crossings, Neptune drifts back into your 6th house, the house of work and daily care."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Neptune stays within my orbs, and how many meet the opposition by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Neptune’s transits to the angles" }

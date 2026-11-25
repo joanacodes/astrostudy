@@ -48,11 +48,11 @@ Avec Neptune en maison 9, le carré vient des environs de la maison 12 ([Pluton 
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le carré tient environ deux ans et huit mois, près de quatre ans pour les passages les plus longs. Trois fois sur cinq environ, Pluton franchit le carré exact à trois reprises ; sinon, à cinq.
+À cet âge, le carré n’est pas plus court qu’à un autre : environ deux ans et huit mois de 1,5° avant l’exactitude à 1° après, mes orbes, et près de quatre ans pour les passages les plus longs. Trois contacts exacts marquent environ trois passages sur cinq, cinq les autres.
 
-Environ 2 personnes sur 3 nées entre 1930 et 2009 le vivent avant 80 ans, une fois ; environ 1 sur 3 non. Pour une naissance un 1er janvier, le carré est entré dans l’orbe à 65,9 ans en 1935, 65,1 ans en 1945 et 66,2 ans en 1955, et viendra à 69,3 ans pour 1965 et 74,3 ans pour 1975. Personne ne le vit avant 63 ans environ, et pour les naissances à partir de 1982 environ, il se situe au-delà de 80 ans.
+Deux personnes sur trois nées entre 1930 et 2009 le vivent avant 80 ans, une fois ; le dernier tiers, non. Sur les naissances du 1er janvier que j’ai comptées, l’orbe s’est ouvert à 65,9 ans pour 1935, 65,1 ans pour 1945 et 66,2 ans pour 1955, et s’ouvrira à 69,3 ans pour 1965 et 74,3 ans pour 1975. Personne ne le vit avant 63 ans environ, et pour les naissances à partir de 1982 environ, il se situe au-delà de 80 ans.
 
-Les années de Pluton en Verseau, jusqu’au début de 2044, l’apportent aux personnes nées de 1957 à 1970, avec Neptune en Scorpion, entre 65 et 72 ans environ.
+Ces années-ci, le carré atteint les personnes nées de 1957 à 1970, avec Neptune en Scorpion, entre 65 et 72 ans environ : Pluton le forme depuis le Verseau jusqu’au début de 2044.
 
 La conjonction est venue à tout le monde dans la vingtaine et le sextile ([Pluton en transit sextile Neptune du thème natal](/astrology/transiting-pluto-sextile-natal-neptune/)) touche presque tout le monde, tandis que le trigone ([Pluton en transit trigone Neptune du thème natal](/astrology/transiting-pluto-trine-natal-neptune/)) touche environ 1 personne sur 6 et l’opposition ([Pluton en transit opposition Neptune du thème natal](/astrology/transiting-pluto-opposite-natal-neptune/)) personne.
 

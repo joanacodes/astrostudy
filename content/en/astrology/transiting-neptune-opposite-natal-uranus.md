@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Uranus", "opposition", "transits"]
 weight: 1778
 glyph: "♆☍♅"
-definition: "Transiting Neptune opposite natal Uranus is Neptune 180° from your birth Uranus, for about two and a half years. The age follows the birth year: about 19 for births of 1935, 52 for 1965, past 80 from the mid-1990s. Your need to stand apart faces a shared ideal. I read it as freedom asked what it serves."
+definition: "Transiting Neptune opposite natal Uranus is a transit whose age depends on your birth year more than most: about 19 for births of 1935, 52 for 1965, past 80 from the mid-1990s. Over some two and a half years, your need to stand apart faces a shared ideal. I read it as freedom asked what it serves."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "Uranus ♅: where you need room to differ and to reform" }
@@ -26,7 +26,7 @@ faq:
   - q: "At what age does Neptune oppose natal Uranus?"
     a: "It depends on the year you were born, more than almost any other transit. Among births from 1930 to 2009 it came within orb at 19 for the start of 1935, at 40 for 1955 and at 63 for 1975. From the mid-1990s on it comes after 80, so about 1 person in 5 never meets it."
   - q: "How long does Neptune opposite Uranus last?"
-    a: "About two and a half years with the orbs I use, from 1½° before exact to 1° after, and a little under two in the shortest passes. Neptune crosses the exact opposition three times in most passes and five times in about one in four, as its yearly retrograde loops carry it back and forth."
+    a: "Whatever the age it comes at, the length hardly changes: about two and a half years in my orbs, twenty-two months or so at the shortest. Most passes cross the exact opposition three times; one in four crosses it five times, as Neptune’s yearly retrograde swings it back across the point opposite your Uranus."
   - q: "Who has Neptune opposite Uranus now?"
     a: "Neptune is in Aries until March 2039, so it opposes Uranus in Libra: people born between late 1968 and 1975, who meet it between about 55 and 63. Which of their houses it crosses, and so what it touches, depends on each birth time."
 sources:

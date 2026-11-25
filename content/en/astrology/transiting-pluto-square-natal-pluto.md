@@ -47,7 +47,7 @@ The house of your natal Pluto says where the reworking lands. With Pluto in your
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the square lasts about two years and eight months, up to about three and three-quarter years, with three exact hits in about three passes out of five and five in the rest.
+The square holds for about two years and eight months between 1½° before exact and 1° after, my orbs, and up to about three and three-quarter years; Pluto's retrograde loop makes it exact three times in about three passes out of five, five times in the rest.
 
 Everyone born between 1930 and 2009 meets it once. Pluto comes within orb about a year before the first exact square that the [Pluto square](/astrology/pluto-square/) gives for each birth year: for births on 1 January, at 45.9 in 1935, 41.9 in 1945, 38 in 1955, 36.1 in 1965, 37 in 1975, 40.2 in 1985 and 46.3 in 1995, and 54.3 for 2005. The youngest anyone entered the orb was 34.5, the oldest 59.2. The swing comes from Pluto's stretched orbit. After a birth in the 1960s, the quarter circle ran through Libra and Scorpio while Pluto was speeding towards its closest approach to the Sun, in 1989; after a birth in the 2000s, it runs through Capricorn, Aquarius and Pisces, where Pluto is slowing down.
 

@@ -49,7 +49,7 @@ Born with [Saturn sextile Pluto](/astrology/saturn-sextile-pluto/), you began li
 
 From 1½° before exact to 1° after, the orbs I use for timing, the sextile lasts about two years and eight months. In about three passes out of five, Pluto crosses the exact sextile three times, over about two years and seven months; the rest bring five exact hits over about three years and seven months, when one of Pluto's stations falls close to the degree.
 
-About 3 people in 4 born between 1930 and 2009 meet it by 80, about 1 in 10 of them twice, from each side of Saturn. Saturn is too quick for a generation to share one age: for births on 1 January, it came within orb at 10.8 in 1955, 14.8 in 1945, 16.1 in 1995, 35.1 in 1985, 43.1 in 1965 and 70.1 in 1935, and not by 80 in 1975 or 2005.
+About three people in four born between 1930 and 2009 meet it by 80, and about one in ten meet both of Saturn's sextile points, one on each side. Saturn is too quick for a generation to share one age: a birth on 1 January 1955 came within orb at 10.8, one in 1945 at 14.8, 1995 at 16.1, 1985 at 35.1, 1965 at 43.1 and 1935 at 70.1, while 1975 and 2005 don't meet it by 80.
 
 Until early 2044, Pluto in Aquarius sextiles Saturns in Aries and Sagittarius. Born from 1996 to 1999, with Saturn in Aries, you meet it between about 26 and 45; from 1985 to 1988, with Saturn in Sagittarius, between about 37 and 55; from 1967 to 1969, with Saturn in Aries again, between about 56 and 74.
 

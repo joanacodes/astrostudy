@@ -2,7 +2,7 @@
 title: "Neptune en transit carré Pluton du thème natal"
 slug: "neptune-transit-carre-pluton-natal"
 h1: "Neptune en transit carré Pluton de votre thème natal"
-description: "Neptune en transit carré Pluton du thème natal : un transit de l’adolescence, vécu par tous entre 10 et 20 ans. Pourquoi l’âge varie, comment je le lis."
+description: "Neptune en transit carré Pluton du thème natal : un transit de l’adolescence, vécu par tous entre 10 ans et demi et 20 ans, selon l’année de naissance."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Pluton", "carré", "transits"]
 weight: 1785
 glyph: "♆□♇"
-definition: "Neptune en transit carré Pluton du thème natal, c’est Neptune à 90° de Pluton de naissance, une fois pour chaque naissance de 1930 à 2009, entre 10 et 20 ans, pour deux ans et demi. Ce transit oppose un idéal à ce que vous ne pouviez pas encore lâcher ; je ne le lis qu’après coup."
+definition: "Neptune en transit carré Pluton du thème natal appartient à l’adolescence : toute personne née de 1930 à 2009 le rencontre une fois, entre 10 ans et demi et 20 ans, pour deux ans et demi environ. Ce transit oppose un idéal à ce que vous ne pouviez pas encore lâcher ; je ne le lis qu’après coup."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "Pluton ♇ : là où vous tenez le plus fort et pouvez recommencer" }
@@ -23,9 +23,9 @@ facts:
 related: ["/astrology/neptune", "/astrology/pluto", "/astrology/square", "/astrology/neptune-square-pluto", "/astrology/childrens-charts"]
 faq:
   - q: "Que veut dire Neptune en transit carré Pluton du thème natal ?"
-    a: "C’est Neptune à 90° de Pluton de naissance, une fois pour chaque naissance de 1930 à 2009, à l’adolescence. J’y lis une friction entre un idéal et un attachement : ce que vous désiriez à cet âge et ce que vous n’étiez pas prête ou prêt à lâcher. Cela décrit un climat vu après coup, jamais les événements d’une adolescence."
+    a: "Neptune arrive à 90° de Pluton de naissance à l’adolescence, pour toute personne née de 1930 à 2009. J’y lis une friction entre un idéal et un attachement : ce que vous désiriez à cet âge et ce que vous n’étiez pas prête ou prêt à lâcher. Cela décrit un climat vu après coup, jamais les événements d’une adolescence."
   - q: "À quel âge vient Neptune carré Pluton du thème natal ?"
-    a: "Entre 10 ans et demi et 20 ans environ, selon l’année de naissance. Dans le décompte du site, l’orbe s’ouvrait à 18 ans pour une naissance au début de 1935, vers 12 ans pour les naissances des années 1960 et 1970, à 16 ans pour 2005. L’âge suit l’avance de Neptune sur Pluton à la naissance."
+    a: "Entre 10 ans et demi et 20 ans environ, et l’année de naissance décide : plus l’écart entre Neptune et Pluton était grand à votre naissance, plus vite Neptune le porte à 90°. Le décompte du site donne 18 ans pour une naissance au début de 1935, 12 environ pour les années 1960 et 1970, 16 pour 2005."
   - q: "Neptune carré Pluton, est-ce le carré de Neptune ?"
     a: "Non. Le carré de Neptune, c’est Neptune à 90° de sa propre place de naissance, vers la quarantaine pour tout le monde. Ce transit-ci, c’est Neptune à 90° de Pluton de naissance, à l’adolescence. Les deux partagent une planète et un angle, rien de plus, et je les lis à des décennies d’écart, chacun dans ses maisons."
   - q: "Peut-on lire Neptune carré Pluton pour un adolescent ?"
@@ -40,7 +40,7 @@ Neptune atteint le carré à votre Pluton de naissance à l’adolescence, entre
 
 [Pluton](/astrology/pluto/), dans votre thème, marque l’endroit où vous tenez le plus fort et où vous apprenez, lentement, à lâcher et à reconstruire. [Neptune](/astrology/neptune/) fait apparaître des idéaux et adoucit les contours autour d’eux. Un [carré](/astrology/square/), 90°, relie les deux par la friction : en [transit](/astrology/transits/), celui-ci oppose un idéal à un attachement, ce que vous désiriez à cet âge et ce que vous n’étiez pas en mesure d’abandonner.
 
-Je ne le lis pas comme l’histoire d’une adolescence précise. Avec le recul, certaines personnes reconnaissent dans ces années la première fois où un désir et une perte sont arrivés ensemble : une cause, une foi ou une amitié vécue de tout son être, une certitude d’enfance laissée derrière soi. Le transit ne les a pas produites, et bien des adolescences ne contiennent rien qu’un thème puisse nommer. Ce qui reste, c’est l’axe qu’il a tracé entre la maison de votre Pluton et celle que Neptune traversait, trois maisons plus loin environ, et les placer demande l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Je ne le lis pas comme l’histoire d’une adolescence précise. Avec le recul, certaines personnes reconnaissent dans ces années la première fois où un désir et une perte sont arrivés ensemble : une cause, une foi ou une amitié vécue de tout son être, une certitude d’enfance laissée derrière soi. Le transit ne les a pas produites, et bien des adolescences ne contiennent rien qu’un thème puisse nommer. Ce qui reste, c’est l’axe qu’il a tracé entre la maison de votre Pluton et celle que Neptune traversait, trois maisons plus loin environ, et ces deux maisons ne se lisent que sur un thème dressé à l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 L’aspect natal [Neptune carré Pluton](/astrology/neptune-square-pluto/) manque à tous les thèmes de ces années : la friction qu’il décrirait n’arrive que par ce chemin, une fois, avant vingt ans. Si vous lisez pour une jeune personne, ce transit est en cours pour les naissances avec Pluton en Capricorne, depuis 2008, mais je ne lis pas le thème des enfants, adolescents compris ([Le thème des enfants](/astrology/childrens-charts/)). Une jeune personne en difficulté a besoin d’un médecin, d’un conseiller scolaire ou d’un thérapeute ([astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
 

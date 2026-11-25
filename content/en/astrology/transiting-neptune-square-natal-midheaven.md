@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Midheaven", "square", "transits"]
 weight: 1795
 glyph: "♆□MC"
-definition: "Transiting Neptune square natal Midheaven is Neptune 90° from the top of your birth chart, for about two and a half years, almost always before 80. The role you are known by loses some of its outline, and so does the ground under it. Friction that separates what the work needs from what you can give."
+definition: "Transiting Neptune square natal Midheaven reaches almost everyone before 80: for about two and a half years, Neptune stands at right angles to the vertical line of your chart. The role you are known by loses some of its outline, and so does the ground under it. Friction that separates what the work needs from what you can give."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "The Midheaven (MC): your direction in public life; the 10th house cusp in Placidus" }
@@ -24,7 +24,7 @@ faq:
   - q: "What does transiting Neptune square natal Midheaven mean?"
     a: "Neptune is 90° from the top of your birth chart, which also squares the point opposite, your IC. I read it as friction between the role you are known by and what you are: a title or a job description stops covering everything, and the footing under the work needs attention too. It describes a climate, never an outcome."
   - q: "How long does Neptune square the Midheaven last?"
-    a: "About two and a half years within my orbs, from 1½° before exact to 1° after, and about twenty-two months at the shortest. Neptune crosses the exact square three times in most passes and five times in about a quarter, as its yearly retrograde loops carry it back over the degree."
+    a: "Count on about two and a half years in my orbs, or some twenty-two months if Neptune moves fast. In most passes the square is exact three times, in about a quarter five times, and all the while the same square presses on your IC from the other side."
   - q: "Is Neptune square Midheaven bad for my career?"
     a: "I don’t read transits as good or bad for a career, and none can say whether a job goes well or ends. This square describes friction about meaning: a role that asks for more than you want to give, or ideals that no longer fit it, and friction of that kind can be worked with."
   - q: "Do I need my birth time for Neptune square Midheaven?"
@@ -45,7 +45,7 @@ Which side the square comes from changes where it starts. From the eastern side 
 
 ## How long it lasts {#how-long-it-lasts}
 
-Neptune needs about two and a half years to clear this square in my orbs, from 1½° before exact to 1° after, and around twenty-two months when it moves quickly; three exact hits are the norm, five come in roughly a quarter of passes. Hardly anyone born between 1930 and 2009 gets to 80 without one of these squares, and a very few meet both.
+Neptune needs about two and a half years to clear this square in my orbs, from 1½° before exact to 1° after, and around twenty-two months when it moves quickly; three exact hits are the norm, five come in roughly a quarter of passes. A life of 80 years almost always holds one of these squares, in the count for births from 1930 to 2009, and only a very few hold both.
 
 Seen along Neptune's road, the western square comes before [transiting Neptune conjunct natal Midheaven](/astrology/transiting-neptune-conjunct-natal-midheaven/), with [transiting Neptune sextile natal Midheaven](/astrology/transiting-neptune-sextile-natal-midheaven/) in between; the eastern square comes after it and leads on to [transiting Neptune trine natal Midheaven](/astrology/transiting-neptune-trine-natal-midheaven/) and [transiting Neptune opposite natal Midheaven](/astrology/transiting-neptune-opposite-natal-midheaven/).
 

@@ -43,13 +43,13 @@ Saturn's fear is chaos and wasted effort; Pluto's blind spot is assuming every u
 
 For many people born from 1939 to 1941 or from 1973 to 1975, with Saturn about 90° behind Pluto ([Saturn square Pluto](/astrology/saturn-square-pluto/)), this opposition falls within a few years of their [Pluto square](/astrology/pluto-square/), and I read the two together.
 
-The axis runs through two houses. With Saturn in your 10th, Pluto opposes it from your 4th ([Pluto transiting the 4th house](/astrology/pluto-transit-4th-house/)): what home and family need presses on the responsibilities of your working life. With Saturn in the 7th and Pluto in the 1st, your own changes test a commitment you made to someone. Placing the axis needs your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). And no transit forecasts a dismissal, a dispute or how one ends ([disclaimers](/disclaimers/#refusals)).
+The axis runs through two houses. With Saturn in your 10th, Pluto opposes it from your 4th ([Pluto transiting the 4th house](/astrology/pluto-transit-4th-house/)): what home and family need presses on the responsibilities of your working life. With Saturn in the 7th and Pluto in the 1st, your own changes test a commitment you made to someone. To know which houses the axis runs between, you need a reliable birth time ([what changes without a birth time](/blog/unknown-birth-time/)). And no transit forecasts a dismissal, a dispute or how one ends ([disclaimers](/disclaimers/#refusals)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-In my orbs, from 1½° before exact to 1° after, the opposition holds for about two years and eight months, anywhere from twenty-two months to nearly four years. Pluto turns back for about five months each year, giving three exact hits in about three passes out of five, and five in the rest.
+Expect a long stay: with my orbs, 1½° before exact and 1° after, the opposition lasts about two years and eight months, anywhere from twenty-two months to nearly four years, and Pluto's yearly retreat makes it exact three times in about three passes out of five, five times in the rest.
 
-Just over half of people born between 1930 and 2009 never meet it by 80, and nobody meets it twice. For births on 1 January, it came within orb at 15.1 in 2005, 18.7 in 1935, 40.1 in 1975 and 66 in 1945; in 1955, 1965, 1985 and 1995, not by 80.
+It misses just over half of the people born between 1930 and 2009 by 80; the rest meet it once. On the first day of the year, a birth in 2005 meets it at 15.1; in 1935 it came at 18.7, in 1975 at 40.1 and in 1945 at 66, while births on 1 January 1955, 1965, 1985 and 1995 never do by 80.
 
 Until early 2044, Pluto in Aquarius opposes Saturns in Leo: born from 2005 to 2007, you meet it between about 18 and 36; from 1975 to 1978, between about 47 and 65 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
 

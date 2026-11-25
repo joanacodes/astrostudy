@@ -48,7 +48,7 @@ La maison de Pluton dans votre thème dit où se pose le remaniement. Avec Pluto
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le carré dure environ deux ans et huit mois, jusqu’à trois ans et neuf mois environ, avec trois passages exacts dans environ trois cas sur cinq et cinq dans les autres.
+Le carré tient environ deux ans et huit mois entre 1,5° avant l’exactitude et 1° après, mes orbes, et jusqu’à trois ans et neuf mois environ ; la boucle rétrograde de Pluton le rend exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres.
 
 Toutes les personnes nées entre 1930 et 2009 le vivent une fois. Pluton entre dans l’orbe environ un an avant le premier carré exact que donne la page du [carré de Pluton](/astrology/pluto-square/) pour chaque année de naissance : pour une naissance un 1er janvier, à 45,9 ans en 1935, 41,9 ans en 1945, 38 ans en 1955, 36,1 ans en 1965, 37 ans en 1975, 40,2 ans en 1985 et 46,3 ans en 1995, et à 54,3 ans pour 2005. L’entrée la plus précoce dans l’orbe s’est faite à 34,5 ans, la plus tardive à 59,2 ans. Cet écart vient de l’orbite allongée de Pluton. Après une naissance des années 1960, le quart de cercle a traversé la Balance et le Scorpion pendant que Pluton accélérait vers son passage au plus près du Soleil, en 1989 ; après une naissance des années 2000, il traverse le Capricorne, le Verseau et les Poissons, où Pluton ralentit.
 

@@ -45,7 +45,7 @@ Which side the square comes from changes the story. Arriving from above, near yo
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the square holds for about two years and eight months, and up to about three and three-quarter years. Pluto crosses the exact square three times in about three passes out of five, and five times in the rest.
+In my orbs, which run from 1½° before exact to 1° after, the square holds for about two years and eight months and can stretch to about three and three-quarter years. Three exact hits in about three passes out of five, five in the rest: the retrograde loop sees to that.
 
 About 7 people in 8 born between 1930 and 2009 meet it by 80, and nobody meets it twice: the two square points face each other across the zodiac, and Pluto would need more than 80 years to travel from one to the other. About 1 in 8 meet neither.
 

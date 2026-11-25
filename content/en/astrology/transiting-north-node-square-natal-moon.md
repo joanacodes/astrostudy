@@ -24,7 +24,7 @@ faq:
   - q: "Is North Node square Moon a bad transit?"
     a: "No. A square is friction, and friction asks for adjustment, not punishment. Here it tends to show where a plan has no room for what you need. The month passes either way; what it can leave behind is a plan that knows a little more about you."
   - q: "How long does the North Node square my Moon?"
-    a: "About a month, counted from 1½° before exact to 1° after. One pass in ten lasts three and a half months or more, when an eclipse season slows the node. The square comes back about every nine years, from alternate sides, eight or nine times by 80."
+    a: "With my orbs, which open 1½° before exact and close 1° after, about a month. An eclipse season can slow the node enough to stretch it to three and a half months or more, as happens in one pass out of ten. The square comes back about every nine years, from alternate sides, eight or nine times by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the square within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to the natal Moon" }
@@ -44,7 +44,7 @@ With your [Moon in the 10th house](/astrology/moon-in-10th-house/), the friction
 
 ## How long it lasts {#how-long-it-lasts}
 
-I give every transit the same window, opening 1½° before exact and closing 1° after, and the node usually crosses it in about a month. The quickest tenth are done within three and a half weeks; the slowest tenth take three and a half months or more, when an eclipse season holds the node almost still near the square, and about one pass in twenty-five brings three exact contacts. The eclipses of such a season fall roughly a quarter of the zodiac from your Moon, a square, which I don't count as an eclipse on your chart.
+I give every transit the same window, opening 1½° before exact and closing 1° after, and the node usually crosses it in about a month. The quickest tenth are done within three and a half weeks; the slowest tenth take three and a half months or more, because an eclipse season has all but stopped the node near the square, and about one pass in twenty-five brings three exact contacts. The eclipses of such a season fall roughly a quarter of the zodiac from your Moon, a square, which I don't count as an eclipse on your chart.
 
 The square returns every nine years or so, from each side in turn: about four and a half years after the node crosses your Moon ([Transiting North Node conjunct natal Moon](/astrology/transiting-north-node-conjunct-natal-moon/)), and again about four and a half years after it stands opposite ([Transiting North Node opposite natal Moon](/astrology/transiting-north-node-opposite-natal-moon/)). Each time it falls between [Transiting North Node sextile natal Moon](/astrology/transiting-north-node-sextile-natal-moon/) and [Transiting North Node trine natal Moon](/astrology/transiting-north-node-trine-natal-moon/). By 80, most people have met it nine times, nobody fewer than eight. With [Moon square North Node](/astrology/moon-square-north-node/) in your chart, the nodes recreate the square whenever they line up with your natal axis, at the [nodal return](/astrology/nodal-return/) and at the [nodal reversal](/astrology/nodal-reversal/) alike.
 

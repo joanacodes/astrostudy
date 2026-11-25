@@ -43,15 +43,15 @@ The sextile's gift is that it asks for no sacrifice. Neptune's boundaries matter
 
 The sextile adults live comes after Pluto has crossed your natal Neptune in your twenties ([Transiting Pluto conjunct natal Neptune](/astrology/transiting-pluto-conjunct-natal-neptune/)). By then the ideals tested in those years have had decades to settle, and this transit offers a way to put the survivors to use. Born with [Neptune sextile Pluto](/astrology/neptune-sextile-pluto/), as most people born between 1943 and 1993 were, you began life close to it.
 
-With Neptune in your 6th, the sextile comes from around your 8th ([Pluto transiting the 8th house](/astrology/pluto-transit-8th-house/)) or your 4th: what you share with others, or what you rebuild at home, gives your ideal of service a practical form. With Neptune in the 12th, it comes from near the 2nd or the 10th, and a quiet inner life finds an outward use. Those houses rest on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Neptune in your 6th, the sextile comes from around your 8th ([Pluto transiting the 8th house](/astrology/pluto-transit-8th-house/)) or your 4th: what you share with others, or what you rebuild at home, gives your ideal of service a practical form. With Neptune in the 12th, it comes from near the 2nd or the 10th, and a quiet inner life finds an outward use. An approximate birth time can move Neptune from one house to the next ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, my orbs, the sextile lasts about two years and eight months, twenty-two months at the shortest. Pluto crosses the exact sextile three times in about three passes out of five, and five times in the rest.
+Each sextile lasts about two years and eight months, from the moment Pluto comes within 1½° of exact to the moment it is 1° past, the orbs I use, and about twenty-two months at the shortest. Most passes bring three exact hits; about two in five bring five.
 
 Almost everyone born between 1930 and 2009 meets it by 80, and about half meet it twice. For many births from the late 1940s to the late 1980s, the first came within a year or two, as Pluto, already close to the sextile at birth, looped into orb: at 0.6 for a birth on 1 January 1955, 0.8 for 1965 and 0.7 for 1975. The second comes after Pluto has passed natal Neptune: at about 50 to 57 for births up to the mid-1980s, and later for later births, 64.3 for 1 January 1995 and 73.3 for 1 January 2005. Born in the 1930s or most of the 1940s, you meet only that later one, at 53.9 for 1 January 1935.
 
-Pluto's years in Aquarius, until early 2044, bring the later sextile to people born from 1970 to 1984, with Neptune in Sagittarius, between about 51 and 58.
+From Aquarius, until early 2044, Pluto gives the later sextile to the generation born from 1970 to 1984 with Neptune in Sagittarius, in their early to late fifties.
 
 Only the conjunction reaches everyone as surely, in the twenties. The square ([Transiting Pluto square natal Neptune](/astrology/transiting-pluto-square-natal-neptune/)) misses about 1 in 3, the trine ([Transiting Pluto trine natal Neptune](/astrology/transiting-pluto-trine-natal-neptune/)) about 5 in 6, and the opposition ([Transiting Pluto opposite natal Neptune](/astrology/transiting-pluto-opposite-natal-neptune/)) everyone.
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "sextile", "transits"]
 weight: 1779
 glyph: "♆⚹♆"
-definition: "Transiting Neptune sextile natal Neptune is Neptune 60° on from its place in your birth chart, an opening everyone meets once, in the mid-to-late twenties, for about two and a half years. The ideals and imagination you were born with find it easier to take a working form. I read it as an invitation that waits for your step."
+definition: "Transiting Neptune sextile natal Neptune is the first major step of Neptune’s cycle: Neptune a sixth of the way round from its birth place, met by everyone in the mid-to-late twenties, for about two and a half years. The ideals you were born with find it easier to take a working form, if you act on them."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "Neptune ♆: the dream you were born with, made yours by its house" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/neptune", "/astrology/sextile", "/astrology/neptune-square", "/astrology/saturn-return", "/astrology/neptune-in-aquarius"]
 faq:
   - q: "What does transiting Neptune sextile natal Neptune mean?"
-    a: "Neptune has moved 60° on from its place in your birth chart, which happens to everyone in the mid-to-late twenties. I read it as an opening for the ideals and imagination you were born with to take a practical form: a craft, a practice, a way of caring. It offers a better climate, and the step is yours."
+    a: "Neptune has moved 60° on from its place in your birth chart, which happens to everyone in the mid-to-late twenties. I read it as an opening for the ideals and imagination you were born with to take a practical form: a craft, a practice, a way of caring. It makes the step easier without taking it for you."
   - q: "At what age is Neptune sextile Neptune?"
     a: "It comes within orb between about 24½ and 27 for births from 1930 to 2009: at about 27 for people born from the 1930s to the 1970s, 26 for the 1980s and 1990s, and 25½ for 2005. The exact passes follow over the next year or two."
   - q: "How long does the Neptune sextile last?"
-    a: "About two and a half years with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the shortest passes. Neptune crosses the exact sextile three times in about three passes out of four and five times in the rest, because it turns retrograde every year."
+    a: "A good part of the late twenties: about two and a half years in my orbs, never much under two. Because Neptune turns retrograde every year, it crosses the exact sextile three times in about three passes out of four, and five times in the rest."
   - q: "Is the Neptune sextile part of the Saturn return?"
     a: "No, but they are neighbours. The sextile opens between 24½ and 27, and Saturn comes back to its birth degree a little later, first exact between 28.4 and 29.9. I read them separately, Neptune as an opening for ideals and Saturn as a review of what you carry, then together."
 sources:

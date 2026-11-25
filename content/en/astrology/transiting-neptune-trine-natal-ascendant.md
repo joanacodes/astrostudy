@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Ascendant", "rising sign", "trine", "transits"]
 weight: 1791
 glyph: "♆△AC"
-definition: "Transiting Neptune trine natal Ascendant is Neptune 120° from the degree rising at your birth, for about two and a half years. A softer, more intuitive way of arriving and beginning comes without effort, through study and travel or through what you make and enjoy. Most people meet one of the two trines; about 1 in 6 meets neither."
+definition: "Transiting Neptune trine natal Ascendant is two and a half years of ease in the way you arrive and begin: softer, more intuitive, without effort, through study and travel or through what you make and enjoy. Neptune stands 120° from your rising degree. One trine or the other reaches most people; about 1 in 6 never meets either."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "The Ascendant (AC): how you meet the world; the 1st house cusp in Placidus" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/ascendant", "/astrology/neptune", "/astrology/trine", "/astrology/neptune-transit-9th-house", "/astrology/neptune-transit-5th-house"]
 faq:
   - q: "What does transiting Neptune trine natal Ascendant mean?"
-    a: "Neptune is 120° from the degree that was rising when you were born. I read it as an easy gentleness in the way you meet the world: you read situations by their mood, put people at ease, and let a creative or spiritual side show. It supports what you choose to do with it, and it promises nothing."
+    a: "Neptune, crossing your 9th house or your 5th, trines your rising degree. I read it as an easy gentleness in the way you meet the world: you read situations by their mood, put people at ease, and let a creative or spiritual side show. It supports what you choose to do with it, and promises nothing."
   - q: "How long does Neptune trine the Ascendant last?"
-    a: "About two and a half years within my orbs, from 1½° before exact to 1° after, and about twenty-two months at the shortest. Neptune touches the exact trine three times in most passes and five times in about a quarter, because its retrograde loops overlap from one year to the next."
+    a: "Its retrograde loops overlap from one year to the next, so Neptune touches the exact trine three times in most passes and five in about a quarter. Altogether that makes some two and a half years in my orbs, and twenty-two months or so at the least."
   - q: "Why haven’t I had Neptune trine my Ascendant?"
     a: "Possibly because your natal Neptune sits near the top of your chart, around your 10th house. Neptune has then just passed one trine to your Ascendant and needs more than 80 years to reach the other. About 1 person in 6 born from 1930 to 2009 is in that position; only a chart drawn from your birth time can tell."
   - q: "Is Neptune trine Ascendant a good transit?"
@@ -45,7 +45,7 @@ One trine shines from your 9th house, the house of study, belief and far places 
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the trine holds for about two and a half years; even the briefest passes take some twenty-two months, most bring three exact hits and roughly a quarter bring five. Because the rising degree moves so quickly through the day, two people born a few hours apart on the same date can meet this trine years apart, or one of them not at all.
+Within my orbs, from 1½° before exact to 1° after, the trine spans about two and a half years; even the briefest passes take some twenty-two months, most bring three exact hits and roughly a quarter bring five. Because the rising degree moves so quickly through the day, two people born a few hours apart on the same date can meet this trine years apart, or one of them not at all.
 
 The two trines lie 120° apart, and Neptune's 80 years cover a little less than half the zodiac. Starting from the bottom of the chart, that is enough for both trines, with [transiting Neptune opposite natal Ascendant](/astrology/transiting-neptune-opposite-natal-ascendant/) between them; starting from the top, around your 10th house, it falls in the gap, past one trine and long before the other. In the count for births from 1930 to 2009, about 1 person in 6 starts in that gap, and most of the rest meet one trine.
 

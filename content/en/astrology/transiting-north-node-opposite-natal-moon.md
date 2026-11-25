@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Moon", "opposition", "transits"]
 weight: 1926
 glyph: "☊☍☽"
-definition: "Transiting North Node opposite natal Moon is the South Node in the sky crossing your birth Moon, with the North Node facing it, once in each 18.6-year round, for about a month. Your familiar ways of comfort come into view, and the less practised direction faces them. I read it as sorting habit from need."
+definition: "Transiting North Node opposite natal Moon is the South Node in the sky crossing your birth Moon, with the North Node facing it, for a month or so every 18.6 years. Your familiar ways of comfort come into view, and the less practised direction faces them. I read it as sorting habit from need."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node on your Moon" }
   - { k: "Natal point", v: "The Moon ☽: your needs and your habits of comfort" }
@@ -34,9 +34,9 @@ The opposition is the South Node's conjunction: the transiting South Node crosse
 
 ## What changes {#what-changes}
 
-The [Moon](/astrology/moon/) describes your needs and the habits that keep you settled. The [South Node](/astrology/south-node/) is the pole of consolidation: capacity built long ago, ready to hand, sometimes leaned on harder than it should be. The [North Node](/astrology/north-node/), opposite, is the pole of practice. An [opposition](/astrology/opposition/) relates two ends through polarity and awareness, and under this [transit](/astrology/transits/) your Moon sits at the familiar end, with the new one in full view.
+The [Moon](/astrology/moon/) describes your needs and the habits that keep you settled. The [South Node](/astrology/south-node/) is the pole of consolidation: capacity built long ago, ready to hand, sometimes leaned on harder than it should be. The [North Node](/astrology/north-node/), opposite, is the pole of practice. An [opposition](/astrology/opposition/) holds two ends in view at once: under this [transit](/astrology/transits/) your Moon sits at the familiar one, and the new one faces it.
 
-What tends to show is the autopilot of comfort: the food, the phrase, the person or the retreat you reach for before you've asked yourself what you need. None of it is wrong, and the South Node doesn't ask you to give it up; it asks you to notice which of those habits still work and which only repeat. The North Node, across the chart, often arrives through other people, as someone else's way of looking after themselves that you could borrow.
+What tends to show is the autopilot of comfort: the food, the phrase, the person or the retreat you reach for before you've asked yourself what you need. Nothing here is a fault, and the South Node isn't asking for any of it to go; it asks you to notice which of those habits still work and which only repeat. The North Node, across the chart, often arrives through other people, as someone else's way of looking after themselves that you could borrow.
 
 The Moon marks it in the sky. Each time it returns to your Moon's degree during these weeks, it is crossing the Sun's path heading south. And since an eclipse of the Moon needs a full moon near a node, a lunar eclipse in this stretch could darken the Moon on or close to your own.
 
@@ -44,9 +44,9 @@ With your [Moon in the 1st house](/astrology/moon-in-1st-house/), the South Node
 
 ## How long it lasts {#how-long-it-lasts}
 
-Counting from 1½° before exact to 1° after, the South Node usually stays on your Moon for about a month and crosses it once. A tenth of passes are quicker, three and a half weeks or less, and a tenth far slower, three and a half months or more, which is what happens when an eclipse season holds the node still on your Moon; the eclipses of such a season fall close to your Moon or opposite it ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)). About one pass in twenty-five touches your Moon three times.
+Counting from 1½° before exact to 1° after, a single crossing by the South Node, the usual case, takes about a month. A tenth of passes are quicker, three and a half weeks or less, and a tenth far slower, three and a half months or more, which is what happens when an eclipse season holds the node still on your Moon; any eclipse of that season lands near your Moon's degree or the one facing it ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)). About one pass in twenty-five touches your Moon three times.
 
-It comes once in each round, about nine years after the North Node's own conjunction with your Moon ([Transiting North Node conjunct natal Moon](/astrology/transiting-north-node-conjunct-natal-moon/)) and nine years before the next; nobody reaches 80 without four of them, and some have five. Either side of it come the trines ([Transiting North Node trine natal Moon](/astrology/transiting-north-node-trine-natal-moon/)), then the squares ([Transiting North Node square natal Moon](/astrology/transiting-north-node-square-natal-moon/)) and the sextiles ([Transiting North Node sextile natal Moon](/astrology/transiting-north-node-sextile-natal-moon/)). If you were born with [Moon opposite North Node](/astrology/moon-opposite-north-node/), your Moon sits on your natal South Node, so this transit comes back each time the nodes return to their birth places, and the conjunction at each [nodal reversal](/astrology/nodal-reversal/).
+It comes once in each round, about nine years after the North Node's own conjunction with your Moon ([Transiting North Node conjunct natal Moon](/astrology/transiting-north-node-conjunct-natal-moon/)) and nine years before the next; nobody reaches 80 without four of them, and some have five. Either side of it come the trines ([Transiting North Node trine natal Moon](/astrology/transiting-north-node-trine-natal-moon/)), then the squares ([Transiting North Node square natal Moon](/astrology/transiting-north-node-square-natal-moon/)) and the sextiles ([Transiting North Node sextile natal Moon](/astrology/transiting-north-node-sextile-natal-moon/)). Born with [Moon opposite North Node](/astrology/moon-opposite-north-node/), your Moon is on your natal South Node, and the calendar does the rest: this transit falls at your nodal returns, the North Node's own conjunction at each [nodal reversal](/astrology/nodal-reversal/).
 
 ## What helps {#what-helps}
 

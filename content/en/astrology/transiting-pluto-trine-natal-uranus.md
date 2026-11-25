@@ -47,11 +47,11 @@ With Uranus in your 8th, the trine comes from around your 12th ([Pluto transitin
 
 ## How long it lasts {#how-long-it-lasts}
 
-In my orbs, from 1½° before exact to 1° after, the trine holds for about two years and eight months, and nearly four years in the longest passes. In about three passes out of five, Pluto crosses the exact trine three times; in the rest, five times, over about three years and seven months.
+Its length is Pluto's usual one. Between 1½° before exact and 1° after, the window I use, the trine lasts about two years and eight months, and nearly four years in the longest passes; three exact hits come in about three passes out of five, and five, over about three years and seven months, in the rest.
 
-A little under 2 people in 3 born between 1930 and 2009 meet it by 80, and more than 1 in 3 never do. For births on 1 January, it came within orb at 19.7 in 1935, 29.9 in 1945, 38 in 1955 and 49.2 in 1965, and at 68.2 in 1975; for 1985, 1995 and 2005, not by 80.
+A little under 2 people in 3 born between 1930 and 2009 meet it by 80, and more than 1 in 3 never do. A birth on 1 January 1935 entered the orb at 19.7, and the same date in 1945, 1955, 1965 and 1975 at 29.9, 38, 49.2 and 68.2; from 1985 on, the trine lies beyond 80.
 
-Pluto's years in Aquarius, until early 2044, bring the trine to people born from 1968 to 1975, with Uranus in Libra, between about 54 and 70.
+Those meeting it in the 2020s and 2030s were born from 1968 to 1975, with Uranus in Libra: Pluto in Aquarius trines it until early 2044, when they are between about 54 and 70.
 
 Pluto's sextile to Uranus ([Transiting Pluto sextile natal Uranus](/astrology/transiting-pluto-sextile-natal-uranus/)) reaches more people, about 5 in 6, and so does the square ([Transiting Pluto square natal Uranus](/astrology/transiting-pluto-square-natal-uranus/)), about 5 in 7. The conjunction ([Transiting Pluto conjunct natal Uranus](/astrology/transiting-pluto-conjunct-natal-uranus/)) and the opposition ([Transiting Pluto opposite natal Uranus](/astrology/transiting-pluto-opposite-natal-uranus/)) are rarer, each missing nearly half of people or more.
 

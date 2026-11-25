@@ -47,13 +47,13 @@ Your birth time places both sextile points, one on each side of the rising degre
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the sextile lasts about two years and eight months, twenty-two months at the quickest. Pluto crosses the exact degree three times in about three passes out of five, and five times in the rest.
+With 1½° allowed before exact and 1° after, my orbs, the sextile lasts about two years and eight months, twenty-two months at the quickest, and Pluto touches the exact degree three times in most passes, five in about two in five.
 
 By 80, about 3 people in 4 born between 1930 and 2009 meet it, and some twice: the two sextile points lie a third of the zodiac apart, and Pluto covers about 110° to 170° in 80 years. Nearly 1 person in 4 meets neither.
 
 Until early 2044, Pluto in Aquarius sextiles [Sagittarius rising](/astrology/sagittarius-rising/), from around the 3rd house, and [Aries rising](/astrology/aries-rising/), from around the 11th, early degrees first.
 
-Of Pluto's contacts with the Ascendant, only the square ([Transiting Pluto square natal Ascendant](/astrology/transiting-pluto-square-natal-ascendant/)) reaches more people, about 7 in 8. The trine ([Transiting Pluto trine natal Ascendant](/astrology/transiting-pluto-trine-natal-ascendant/)) reaches as many as this sextile, and the conjunction ([Transiting Pluto conjunct natal Ascendant](/astrology/transiting-pluto-conjunct-natal-ascendant/)) and the opposition ([Transiting Pluto opposite natal Ascendant](/astrology/transiting-pluto-opposite-natal-ascendant/)) fewer than half.
+Pluto's square to the Ascendant ([Transiting Pluto square natal Ascendant](/astrology/transiting-pluto-square-natal-ascendant/)) is the only one of its contacts that reaches more people, about 7 in 8. The trine ([Transiting Pluto trine natal Ascendant](/astrology/transiting-pluto-trine-natal-ascendant/)) reaches as many as this sextile, and the conjunction ([Transiting Pluto conjunct natal Ascendant](/astrology/transiting-pluto-conjunct-natal-ascendant/)) and the opposition ([Transiting Pluto opposite natal Ascendant](/astrology/transiting-pluto-opposite-natal-ascendant/)) fewer than half.
 
 ## What helps {#what-helps}
 

@@ -47,11 +47,11 @@ Your Pluto's house, and the house opposite, say where the reckoning lands. With 
 
 ## How long it lasts {#how-long-it-lasts}
 
-If you meet it, it lasts like any Pluto transit within my orbs, from 1½° before exact to 1° after: about two years and eight months, or about three years and seven months when it brings five exact hits rather than three.
+Those who meet it have it for about two years and eight months, counted from 1½° before exact to 1° after, my orbs, or about three years and seven months when the pass brings five exact hits rather than three.
 
 The age is set by Pluto's stretched orbit. A half-circle takes at least about 82 years, and only for births whose half-circle runs through Pluto's quickest years, around its closest approach to the Sun in 1989: births of the 1940s and early 1950s. For births from 1930 to about 1960 it comes between about 82 and 86; after that it moves steadily away, to about 88 for a birth in 1965, 98 for 1975, 113 for 1985 and 130 for 1995. By 80, no one born from 1930 to 2009 has met it, and for everyone born from the 1980s on it lies beyond a human life.
 
-Pluto's years in Aquarius, until early 2044, bring the opposition to people born with [Pluto in Leo](/astrology/pluto-in-leo/), from the late 1930s to 1958, between about 82 and 85½ ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
+These years it is reaching the [Pluto in Leo](/astrology/pluto-in-leo/) generation, born from the late 1930s to 1958, between about 82 and 85½, and it will go on doing so until Pluto leaves Aquarius in early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
 
 It closes a sequence of which most lives hold three steps: the sextile ([Transiting Pluto sextile natal Pluto](/astrology/transiting-pluto-sextile-natal-pluto/)) between about 21 and 36, the square ([Transiting Pluto square natal Pluto](/astrology/transiting-pluto-square-natal-pluto/)), the [Pluto square](/astrology/pluto-square/), between about 34½ and 59, and the trine ([Transiting Pluto trine natal Pluto](/astrology/transiting-pluto-trine-natal-pluto/)) from about 48½.
 

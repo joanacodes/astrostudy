@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Midheaven", "opposition", "transits"]
 weight: 1797
 glyph: "♆☍MC"
-definition: "Transiting Neptune opposite natal Midheaven is Neptune crossing your IC, the lowest point of the chart, for about two and a half years; half of people meet it once by 80. Your sense of where you come from and belong softens; home can become a refuge or a longing. It predicts no move and no family event."
+definition: "Transiting Neptune opposite natal Midheaven brings Neptune down to your IC, the lowest point of the chart, where your roots are. It comes once by 80 to half of people and stays about two and a half years. Your sense of belonging softens; home can become a refuge or a longing. It predicts no move and no family event."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "The Midheaven (MC), across from your IC, the 4th house cusp in Placidus" }
@@ -28,7 +28,7 @@ faq:
   - q: "When will Neptune reach my IC?"
     a: "It depends on where Neptune sat at your birth. On your Ascendant, a quarter of the zodiac before the IC, it gets there at about 41; in your 3rd house, within a few years; just past your Midheaven, near 80. Born with Neptune in the western half of the chart, you meet the conjunction with your Midheaven instead."
   - q: "How long does Neptune opposite the Midheaven last?"
-    a: "About two and a half years with my orbs, from 1½° before the IC to 1° past it, and about twenty-two months at the quickest. Neptune touches the exact degree three times in most passes and five times in about one in four, moving between your 3rd and 4th houses as it loops."
+    a: "Neptune sits on your IC for about two and a half years in my orbs, twenty-two months at the quickest. Three exact crossings are usual and five happen in about one pass in four, each one a fresh look at where you belong."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Neptune stays within my orbs of the IC, and how many meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Neptune’s transits to the angles" }
@@ -45,7 +45,7 @@ Neptune reaches the IC from your 3rd, the house of everyday thought and talk ([N
 
 ## How long it lasts {#how-long-it-lasts}
 
-In my orbs, from 1½° before the IC to 1° past it, the crossing lasts some two and a half years, twenty-two months at the quickest; Neptune touches the exact degree three times in most passes and five times in about one in four.
+In my orbs, from 1½° before the IC to 1° past it, the crossing lasts some two and a half years, twenty-two months at the quickest, with three exact hits in most passes and five in about a quarter of them.
 
 With Neptune on your Ascendant at birth, a quarter of the zodiac before the IC, it gets there at about 41; born with it in your 3rd, within a few years; born with it just past your Midheaven, close to 80. Born with Neptune anywhere in the western half of the chart, you meet [transiting Neptune conjunct natal Midheaven](/astrology/transiting-neptune-conjunct-natal-midheaven/) instead, which is why half of people born from 1930 to 2009 have this crossing by 80 and half don't.
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Ascendant", "sextile", "transits"]
 weight: 1789
 glyph: "♆⚹AC"
-definition: "Neptune en transit sextile Ascendant du thème natal, c’est Neptune à 60° du degré qui se levait à votre naissance, pendant environ deux ans et demi. Une façon plus douce et imaginative d’aborder les gens devient facile à essayer, si vous la saisissez. La plupart rencontrent un des deux sextiles, certaines personnes les deux, 1 sur 6 aucun."
+definition: "Neptune en transit sextile Ascendant du thème natal ouvre une façon plus douce et imaginative d’aborder les gens et de commencer, facile à essayer si vous la saisissez. Neptune reste à 60° de votre degré levant pendant environ deux ans et demi ; la plupart rencontrent un de ces sextiles, certaines personnes les deux, 1 sur 6 aucun."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "L’Ascendant (AC) : votre façon d’aborder le monde ; la cuspide de la maison 1 en Placidus" }
@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/ascendant", "/astrology/neptune", "/astrology/sextile", "/astrology/neptune-transit-11th-house", "/astrology/neptune-transit-3rd-house"]
 faq:
   - q: "Que veut dire Neptune en transit sextile Ascendant du thème natal ?"
-    a: "Neptune se trouve à 60° du degré qui se levait à votre naissance. J’y lis une ouverture : une façon plus douce et imaginative de vous présenter devient facile à essayer, à travers les amis et les groupes, ou la conversation et l’étude, selon le côté d’où vient le sextile. Le climat s’y prête ; le pas vous revient."
+    a: "Neptune est à un sixième de zodiaque de votre degré levant, du côté de la maison 11 ou de la maison 3. J’y lis une ouverture : une façon plus douce et imaginative de vous présenter devient facile à essayer, à travers les amis et les groupes, ou la conversation et l’étude. Le climat s’y prête ; le pas vous revient."
   - q: "Combien de temps dure Neptune sextile Ascendant ?"
-    a: "Environ deux ans et demi dans mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois pour les passages les plus courts. Trois passages exacts sont l’usage, et un quart des passages environ en apportent cinq, parce que Neptune repasse sur le degré en rétrogradant chaque année."
+    a: "Deux ans et demi environ dans mes orbes, et quelque vingt-deux mois pour les passages les plus rapides, avec trois passages exacts en règle générale et cinq dans un quart des cas. Une personne qui rencontre les deux sextiles connaît deux périodes de ce genre, à des décennies d’écart."
   - q: "Est-ce que Neptune peut former deux fois un sextile à mon Ascendant ?"
     a: "Oui, parfois. Chaque Ascendant a deux sextiles, à un tiers de zodiaque l’un de l’autre, et Neptune parcourt presque la moitié du zodiaque en 80 ans. Avec Neptune près du haut du thème à la naissance, vous rencontrez les deux ; avec Neptune en bas du thème, vers la maison 3 ou 4, aucun, comme environ 1 personne sur 6."
   - q: "Peut-on lire Neptune sextile Ascendant sans heure de naissance ?"
-    a: "Non. Le sextile se mesure depuis le degré levant, qui se déplace d’environ un degré toutes les quatre minutes, et la maison par laquelle il arrive demande aussi l’heure. Sans heure de naissance notée, pas d’Ascendant d’où mesurer : pas de lecture de ce transit, ni du reste."
+    a: "Non. Le sextile se mesure depuis le degré levant, qui fait le tour du zodiaque en une journée, et la maison par laquelle il arrive demande aussi l’heure. Sans heure de naissance notée, pas d’Ascendant d’où mesurer : pas de lecture de ce transit, ni du reste."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Neptune reste dans mes orbes, et combien rencontrent chaque sextile avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Neptune aux angles" }
@@ -40,7 +40,7 @@ Chaque Ascendant a deux sextiles, à un tiers de zodiaque l’un de l’autre, e
 
 L’[Ascendant](/astrology/ascendant/) fixe l’angle sous lequel vous abordez les choses : votre façon d’entrer dans une pièce, de commencer. [Neptune](/astrology/neptune/) prête l’imagination, la tendresse et le sens des atmosphères. Un [sextile](/astrology/sextile/), 60°, relie les deux par une ouverture qui attend que vous vous en serviez : sous ce [transit](/astrology/transits/), une façon plus douce et plus imaginative de vous présenter devient facile à essayer. Une première approche plus souple, un côté créatif montré plus tôt, plus de patience avec les premières impressions.
 
-Le sextile en cours se reconnaît à l’endroit où arrive l’ouverture. Depuis le dessus de l’horizon, Neptune traverse en général votre maison 11, et l’ouverture passe par les amis, les groupes et les espoirs partagés ([Neptune en transit en maison 11](/astrology/neptune-transit-11th-house/)) ; depuis le dessous, vers la maison 3, par la conversation, l’étude, l’écriture ou les rues autour de chez vous ([Neptune en transit en maison 3](/astrology/neptune-transit-3rd-house/)). Ce sont des repères approximatifs : en [Placidus](/astrology/placidus/), les maisons ne font pas 30° chacune, et seule votre heure de naissance tranche ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le sextile en cours se reconnaît à l’endroit où arrive l’ouverture. Depuis le dessus de l’horizon, Neptune traverse en général votre maison 11, et l’ouverture passe par les amis, les groupes et les espoirs partagés ([Neptune en transit en maison 11](/astrology/neptune-transit-11th-house/)) ; depuis le dessous, vers la maison 3, par la conversation, l’étude, l’écriture ou les rues autour de chez vous ([Neptune en transit en maison 3](/astrology/neptune-transit-3rd-house/)). Ce sont des repères approximatifs : en [Placidus](/astrology/placidus/), les maisons ne font pas 30° chacune, et seul un thème dressé à votre heure de naissance leur donne leur vraie taille ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Un sextile n’agit pas seul. L’angle mort de Neptune serait ici d’attendre qu’une atmosphère agréable vous porte : le transit offre le climat, et montrer ce côté de vous reste votre pas. L’angle mort propre à l’Ascendant, accorder trop de poids aux premières impressions, s’adoucit lui aussi : vous pouvez laisser aux autres plus de temps pour vous voir, et en prendre davantage pour les voir.
 

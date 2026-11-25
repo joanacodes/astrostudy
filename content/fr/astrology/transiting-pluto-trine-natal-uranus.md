@@ -48,11 +48,11 @@ Avec Uranus en maison 8, le trigone vient des environs de la maison 12 ([Pluton 
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le trigone tient environ deux ans et huit mois, et près de quatre ans pour les passages les plus longs. Dans environ trois passages sur cinq, Pluton franchit le trigone exact trois fois ; dans les autres, cinq fois, sur trois ans et sept mois environ.
+Sa durée est celle des transits de Pluton en général. Entre 1,5° avant l’exactitude et 1° après, la fenêtre que j’utilise, le trigone dure environ deux ans et huit mois, et près de quatre ans pour les passages les plus longs ; trois passages exacts viennent dans environ trois cas sur cinq, et cinq, sur trois ans et sept mois environ, dans les autres.
 
-Un peu moins de 2 personnes sur 3 nées entre 1930 et 2009 le vivent avant 80 ans, et plus d’1 sur 3 ne le vivent jamais. Pour une naissance un 1er janvier, le trigone est entré dans l’orbe à 19,7 ans en 1935, 29,9 ans en 1945, 38 ans en 1955 et 49,2 ans en 1965, et à 68,2 ans en 1975 ; pour 1985, 1995 et 2005, pas avant 80 ans.
+Un peu moins de 2 personnes sur 3 nées entre 1930 et 2009 le vivent avant 80 ans, et plus d’1 sur 3 ne le vivent jamais. Une naissance le 1er janvier 1935 est entrée dans l’orbe à 19,7 ans, et la même date en 1945, 1955, 1965 et 1975 à 29,9, 38, 49,2 et 68,2 ans ; à partir de 1985, le trigone se situe au-delà de 80 ans.
 
-Les années de Pluton en Verseau, jusqu’au début de 2044, apportent ce trigone aux personnes nées de 1968 à 1975, avec Uranus en Balance, entre 54 et 70 ans environ.
+Les personnes qui le vivent dans les années 2020 et 2030 sont nées de 1968 à 1975, avec Uranus en Balance, et Pluton en Verseau leur apporte ce trigone jusqu’au début de 2044, entre 54 et 70 ans environ.
 
 Le sextile de Pluton à Uranus ([Pluton en transit sextile Uranus du thème natal](/astrology/transiting-pluto-sextile-natal-uranus/)) touche plus de monde, environ 5 personnes sur 6, et le carré aussi ([Pluton en transit carré Uranus du thème natal](/astrology/transiting-pluto-square-natal-uranus/)), environ 5 sur 7. La conjonction ([Pluton en transit conjonction Uranus du thème natal](/astrology/transiting-pluto-conjunct-natal-uranus/)) et l’opposition ([Pluton en transit opposition Uranus du thème natal](/astrology/transiting-pluto-opposite-natal-uranus/)) sont plus rares, et manquent chacune près de la moitié des gens ou davantage.
 

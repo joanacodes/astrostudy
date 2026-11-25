@@ -44,7 +44,7 @@ Si votre Saturne se trouve en maison 6, les trigones viennent souvent quand le n
 
 ## Combien de temps {#combien-de-temps}
 
-Un trigone du nœud dure en général un mois environ dans mes orbes, de 1,5° avant l’exactitude à 1° après. Rattrapé par une saison d’éclipses, quand l’alignement du Soleil sur les nœuds tient le nœud vrai presque sur place, il peut durer trois mois ou plus, et environ un passage sur 25 donne trois contacts exacts. Les éclipses de ces semaines tombent en trigone ou en sextile de votre Saturne : aucune ne se pose dessus.
+Un trigone du nœud dure en général un mois environ dans mes orbes, de 1,5° avant l’exactitude à 1° après. Rattrapé par une saison d’éclipses, ces semaines où le Soleil est près des nœuds et où le nœud vrai fait presque du surplace, il peut durer trois mois ou plus, et environ un passage sur 25 donne trois contacts exacts. Les éclipses de ces semaines tombent en trigone ou en sextile de votre Saturne : aucune ne se pose dessus.
 
 La prévision sur laquelle je fonde mes lectures laisse de côté les trigones du nœud : elle ne compte le nœud que là où un bout de l’axe tombe sur un point. Ce transit reste donc discret dans mes lectures, à remarquer quand il accompagne un transit plus lent à votre Saturne, pas à attendre pour lui-même.
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Pluto", "square", "transits"]
 weight: 1785
 glyph: "♆□♇"
-definition: "Transiting Neptune square natal Pluto is Neptune 90° from your birth Pluto, a transit everyone born 1930–2009 meets once, between about 10½ and 20, for some two and a half years. It sets an ideal against an attachment: what you longed for then, and what you weren’t ready to let go. I read it only looking back."
+definition: "Transiting Neptune square natal Pluto belongs to adolescence: everyone born 1930–2009 meets it once, between about 10½ and 20, for some two and a half years. It sets an ideal against an attachment: what you longed for then, and what you weren’t ready to let go. I read it only looking back."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "Pluto ♇: where you hold on hardest and can begin again" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/neptune", "/astrology/pluto", "/astrology/square", "/astrology/neptune-square-pluto", "/astrology/childrens-charts"]
 faq:
   - q: "What does transiting Neptune square natal Pluto mean?"
-    a: "It is Neptune 90° from your birth Pluto, met once by everyone born from 1930 to 2009, in adolescence. I read it as friction between an ideal and an attachment: what you longed for at that age and what you weren’t ready to give up. It describes a climate looked back on, never the events of anyone’s teens."
+    a: "Neptune comes to 90° from your birth Pluto once, in adolescence, for everyone born from 1930 to 2009. I read it as friction between an ideal and an attachment: what you longed for at that age and what you weren’t ready to give up. It describes a climate looked back on, never the events of anyone’s teens."
   - q: "At what age is Neptune square natal Pluto?"
-    a: "Between about 10½ and 20, depending on the birth year. In the site’s count it came within orb at 18 for someone born at the start of 1935, at about 12 for births of the 1960s and 1970s, and at 16 for 2005. The age follows how far Neptune already stood ahead of Pluto at birth."
+    a: "Between about 10½ and 20, and the birth year decides where: the wider the gap between Neptune and Pluto when you were born, the sooner Neptune stretches it to 90°. The site’s count has 18 for a birth at the start of 1935, about 12 for the 1960s and 1970s, and 16 for 2005."
   - q: "Is Neptune square Pluto the same as the Neptune square?"
     a: "No. The Neptune square is Neptune 90° from its own birth place, around forty for everyone. This transit is Neptune 90° from your natal Pluto, in your teens. The two share a planet and an angle, nothing more, and I read them decades apart, each through its own houses."
   - q: "Can you read Neptune square Pluto for a teenager?"
@@ -39,7 +39,7 @@ Neptune reaches the square to your natal Pluto in adolescence, between about 10�
 
 [Pluto](/astrology/pluto/) in your chart is where you hold on hardest and where you learn, slowly, to let go and rebuild. [Neptune](/astrology/neptune/) brings ideals into focus and softens the edges round them. A [square](/astrology/square/), 90°, relates the two through friction, so as a [transit](/astrology/transits/) this one sets an ideal against an attachment: what you longed for at that age, and what you weren't ready to give up.
 
-I don't read it as the story of a particular adolescence. Looking back, some people recognise in those years the first time a longing and a loss arrived together: a cause, a faith or a friendship taken up with everything, a childhood certainty let go. The transit didn't produce them, and many teenage years hold nothing a chart could name. What lasts is the axis it drew, between the house of your natal Pluto and the house Neptune was crossing about three houses on, and placing those needs the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+I don't read it as the story of a particular adolescence. Looking back, some people recognise in those years the first time a longing and a loss arrived together: a cause, a faith or a friendship taken up with everything, a childhood certainty let go. The transit didn't produce them, and many teenage years hold nothing a chart could name. What lasts is the axis it drew, between the house of your natal Pluto and the house Neptune was crossing about three houses on, and those two houses can only be read from a chart drawn for the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The natal [Neptune square Pluto](/astrology/neptune-square-pluto/) is absent from every chart of these years, so the friction it would describe comes only this way, once, before twenty. If you are reading for a teenager, it is under way now for those born with Pluto in Capricorn, from 2008, but I don't read children's charts, teenagers' included ([Children's charts](/astrology/childrens-charts/)). A young person who is struggling needs a doctor, a school counsellor or a therapist ([astrology and mental health](/astrology/astrology-and-mental-health/)).
 

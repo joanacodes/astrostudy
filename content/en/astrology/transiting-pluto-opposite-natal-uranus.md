@@ -43,15 +43,15 @@ Uranus's blind spot under an opposition is confusing distance with objectivity: 
 
 The generation born with the square of the 1930s ([Uranus square Pluto](/astrology/uranus-square-pluto/)) met it earliest, in their mid- to late forties, while Pluto crossed Libra. For everyone born after the two planets met in the mid-1960s, Uranus stands ahead of Pluto and the opposition lies beyond 80. And nobody born between 1930 and 2009 has [Uranus opposite Pluto](/astrology/uranus-opposite-pluto/) in the birth chart.
 
-Your houses show where the negotiation happens. With Uranus in your 5th, Pluto opposes it from your 11th ([Pluto transiting the 11th house](/astrology/pluto-transit-11th-house/)): your own projects and pleasures meet a group's need to change. With Uranus in the 4th and Pluto in the 10th, a home life run on your terms meets the demands of a public role. Both ends need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Your houses show where the negotiation happens. With Uranus in your 5th, Pluto opposes it from your 11th ([Pluto transiting the 11th house](/astrology/pluto-transit-11th-house/)): your own projects and pleasures meet a group's need to change. With Uranus in the 4th and Pluto in the 10th, a home life run on your terms meets the demands of a public role. Each end of the axis is placed by the birth time, and only by it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, my orbs, the opposition lasts about two years and eight months, about twenty-two months at the shortest. Pluto turns back for about five months of the year: three exact hits in about three passes out of five, five in the rest.
+Once it begins, the opposition lasts about two years and eight months inside my orbs, from 1½° before exact to 1° after, and about twenty-two months at the shortest. With Pluto turning back for some five months of every year, most passes are exact three times, and about two in five are exact five times.
 
-About 3 people in 5 born between 1930 and 2009 never meet it by 80; the others meet it once. The age climbs with the birth year, because each later generation was born with Uranus closer to Pluto and the point opposite it further away: for births on 1 January it came within orb at 46.9 in 1935, 53.9 in 1945 and 65.2 in 1955, and the youngest anyone met it was about 44.
+About 3 people in 5 born between 1930 and 2009 never meet it by 80; the others meet it once. The age climbs with the birth year, because each later generation was born with Uranus closer to Pluto and the point opposite it further away: a birth on 1 January 1935 met it at 46.9, 1945 at 53.9 and 1955 at 65.2, and nobody met it younger than about 44.
 
-Pluto's years in Aquarius, until early 2044, bring it to people born from 1955 to 1962, with Uranus in Leo, between about 67 and 80.
+Its current group was born with Uranus in Leo, from 1955 to 1962, and meets it between about 67 and 80, as Pluto crosses Aquarius until early 2044.
 
 Most people meet Pluto's other contacts with Uranus instead: the sextile ([Transiting Pluto sextile natal Uranus](/astrology/transiting-pluto-sextile-natal-uranus/)), which about 5 in 6 meet, the square ([Transiting Pluto square natal Uranus](/astrology/transiting-pluto-square-natal-uranus/)), about 5 in 7, and the trine ([Transiting Pluto trine natal Uranus](/astrology/transiting-pluto-trine-natal-uranus/)), a little under 2 in 3. The conjunction ([Transiting Pluto conjunct natal Uranus](/astrology/transiting-pluto-conjunct-natal-uranus/)) belongs to the generations born after 1965, the very ones this opposition misses.
 

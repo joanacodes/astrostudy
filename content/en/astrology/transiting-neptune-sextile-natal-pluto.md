@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Pluto", "sextile", "transits"]
 weight: 1784
 glyph: "♆⚹♇"
-definition: "Transiting Neptune sextile natal Pluto is Neptune 60° from your birth Pluto. Five people in six meet it before seven, most in their first year, as the sky finishes the Neptune–Pluto sextile they were born close to; the rest never do. I read the natal pair in the adult chart, never the transit in a child’s."
+definition: "Transiting Neptune sextile natal Pluto, Neptune 60° from your birth Pluto, comes to five people in six before seven, most in their first year, as the sky finishes the Neptune–Pluto sextile they were born close to; the rest never meet it. I read the natal pair in the adult chart, never the transit in a child’s."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "Pluto ♇: where you hold on hardest and can begin again" }
@@ -39,7 +39,7 @@ For most people this transit came before they could remember anything. Neptune r
 
 [Pluto](/astrology/pluto/) marks where you hold on hardest and where, in time, you renew. [Neptune](/astrology/neptune/) brings imagination and compassion, the gift of picturing things otherwise. A [sextile](/astrology/sextile/), 60°, relates two functions through an opening that needs a response, and under this [transit](/astrology/transits/) the opening runs between imagining and transforming: the capacity to let an ideal change what no longer works.
 
-Because it comes so early, I don't read it as a season lived. Many people born in these years have the natal [Neptune sextile Pluto](/astrology/neptune-sextile-pluto/), and for them the transit is the same angle in the sky becoming exact a few months or a year or two after birth, sometimes already inside the orb on the day itself. What an adult can use is the natal pair, read through the houses of the two planets, which come from the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Because it comes so early, I don't read it as a season lived. Many people born in these years have the natal [Neptune sextile Pluto](/astrology/neptune-sextile-pluto/), and for them the transit is the same angle in the sky becoming exact a few months or a year or two after birth, sometimes already inside the orb on the day itself. What an adult can use is the natal pair, read through the houses of the two planets, which the birth time gives ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 I don't read children's charts ([Children's charts](/astrology/childrens-charts/)), and here the rule costs nothing: nothing in this transit asks a child or a parent to act. Neptune's blind spot is confusing symbolic meaning with literal prediction, and a first year of life is the last place to make that mistake.
 

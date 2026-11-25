@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Midheaven", "sextile", "transits"]
 weight: 1794
 glyph: "♆⚹MC"
-definition: "Transiting Neptune sextile natal Midheaven is Neptune 60° from the top of your birth chart, for about two and a half years. An ideal finds an easier way into your work and public role, if you take the step. Most people meet one of the two sextiles, some both, about 1 in 6 neither. It needs your birth time."
+definition: "Transiting Neptune sextile natal Midheaven gives an ideal an easier way into your work and public role for about two and a half years, if you take the step, with Neptune 60° from the top of your chart. One person in six misses both sextiles; most meet one, some the two. It needs your birth time."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "The Midheaven (MC): your direction in public life; the 10th house cusp in Placidus" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/midheaven", "/astrology/neptune", "/astrology/sextile", "/astrology/neptune-transit-8th-house", "/astrology/neptune-transit-12th-house"]
 faq:
   - q: "What does transiting Neptune sextile natal Midheaven mean?"
-    a: "Neptune is 60° from the top of your birth chart. I read it as an opening for ideals in your public life: a project with a purpose, a gentler kind of authority, a skill offered to something you believe in. It comes through shared commitments or work done out of sight, and waits for your step."
+    a: "From your 8th house or your 12th, Neptune makes a 60° angle to the top of your chart. I read it as an opening for ideals in your public life: a project with a purpose, a gentler kind of authority, a skill offered to something you believe in. It waits for your step."
   - q: "How long does Neptune sextile the Midheaven last?"
-    a: "About two and a half years within my orbs, from 1½° before exact to 1° after, and about twenty-two months in the shortest passes. Three exact hits are the rule; roughly one pass in four brings five, because Neptune loops back over the degree each year as it turns retrograde."
+    a: "About two and a half years in my orbs for each sextile, with three exact hits in most passes and five in roughly one in four. On Neptune’s road, the sextile from your 8th leads up to the Midheaven, and the one from your 12th follows it, so meeting both means meeting the conjunction too."
   - q: "Why do some people get Neptune sextile Midheaven twice?"
     a: "Because of the hour they were born. With Neptune setting at your birth, near your Descendant, Neptune’s slow road passes the first sextile to your Midheaven, then the Midheaven itself, then the second sextile, all within 80 years. With Neptune rising at your birth, neither sextile comes in time, as for about 1 person in 6."
   - q: "Does Neptune sextile Midheaven bring a new job?"
@@ -49,7 +49,7 @@ Each pass runs about two and a half years in my orbs, from 1½° before exact to
 
 The hour of birth sorts people here. Born within an hour or two of Neptune rising, with Neptune close to your Ascendant, you are among the 1 in 6, in the count for births from 1930 to 2009, who never meet either sextile: Neptune has just passed one, and the other is too far round. Born around Neptune's setting, near your Descendant, you have time for both, and for the conjunction with your Midheaven in between ([transiting Neptune conjunct natal Midheaven](/astrology/transiting-neptune-conjunct-natal-midheaven/)). Most people, born at other hours, meet one.
 
-Both sextiles hang on the minute of birth. A Midheaven worked backwards from the events of your life would make this transit circular, the time fitted to the very years it is then read against, which is one reason I don't read from a rectified chart ([Rectification](/astrology/rectification/), [what changes without a birth time](/blog/unknown-birth-time/)).
+Both sextiles hang on the minute of birth. A Midheaven worked backwards from the events of your life would make this transit circular, the time fitted to the very years it is then read against, and so I don't work from a rectified chart ([Rectification](/astrology/rectification/), [what changes without a birth time](/blog/unknown-birth-time/)).
 
 Each sextile sits between the conjunction and one of the squares ([transiting Neptune square natal Midheaven](/astrology/transiting-neptune-square-natal-midheaven/)); the trines ([transiting Neptune trine natal Midheaven](/astrology/transiting-neptune-trine-natal-midheaven/)) and the opposition ([transiting Neptune opposite natal Midheaven](/astrology/transiting-neptune-opposite-natal-midheaven/)) belong to the lower half of the round. In these years of Neptune in Aries, which end in March 2039, the sextile lands on Midheavens in Gemini, cast from the 8th-house side, and on those in Aquarius, cast from the 12th ([Gemini on the 10th house cusp](/astrology/gemini-on-10th-house-cusp/), [Aquarius on the 10th house cusp](/astrology/aquarius-on-10th-house-cusp/)).
 

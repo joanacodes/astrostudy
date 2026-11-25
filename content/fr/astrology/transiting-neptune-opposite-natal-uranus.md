@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Uranus", "opposition", "transits"]
 weight: 1778
 glyph: "♆☍♅"
-definition: "Neptune en transit opposition Uranus du thème natal, c’est Neptune à 180° de votre Uranus, environ deux ans et demi. L’âge suit l’année de naissance : 19 ans pour 1935, 52 pour 1965, plus de 80 dès le milieu des années 1990. J’y lis votre besoin de vous distinguer face à un idéal partagé."
+definition: "Neptune en transit opposition Uranus du thème natal est un transit dont l’âge dépend de l’année de naissance plus que pour la plupart des autres : 19 ans pour 1935, 52 pour 1965, plus de 80 dès le milieu des années 1990. Deux ans et demi durant, votre besoin de vous distinguer fait face à un idéal partagé."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "Uranus ♅ : là où vous avez besoin de vous distinguer et de réformer" }
@@ -27,7 +27,7 @@ faq:
   - q: "À quel âge arrive l’opposition de Neptune à Uranus de naissance ?"
     a: "Cela dépend de l’année de naissance, plus que pour presque tout autre transit. Pour les naissances de 1930 à 2009, l’orbe commençait à 19 ans pour le début de 1935, 40 pour 1955, 63 pour 1975. Dès le milieu des années 1990, il vient après 80 ans : environ 1 personne sur 5 ne le rencontre jamais."
   - q: "Combien de temps dure Neptune opposition Uranus ?"
-    a: "Environ deux ans et demi avec mes orbes, de 1,5° avant l’exactitude à 1° après, et un peu moins de deux dans les passages les plus courts. Neptune franchit l’opposition exacte trois fois le plus souvent, cinq fois environ une fois sur quatre, au gré de ses boucles rétrogrades annuelles."
+    a: "Quel que soit l’âge où ce transit arrive, sa durée change à peine : environ deux ans et demi dans mes orbes, vingt-deux mois environ au plus court. La plupart des passages franchissent l’opposition exacte trois fois, un sur quatre la franchit cinq fois, quand la rétrogradation annuelle ramène Neptune sur le point opposé à votre Uranus."
   - q: "Qui vit Neptune opposition Uranus en ce moment ?"
     a: "Neptune est en Bélier jusqu’en mars 2039 et s’oppose donc à Uranus en Balance : les personnes nées entre la fin de 1968 et 1975, qui le rencontrent entre 55 et 63 ans environ. Les maisons concernées, donc ce que le transit touche, dépendent de chaque heure de naissance."
 sources:

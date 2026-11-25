@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Pluto", "opposition", "transits"]
 weight: 1787
 glyph: "♆☍♇"
-definition: "Transiting Neptune opposite natal Pluto is Neptune 180° from your birth Pluto, met by everyone born 1930–2009 between 51 and 62, for some two and a half years. What you have held on to for decades meets an ideal that asks you to loosen your grip. I read it as a balance to find, not a reversal."
+definition: "Transiting Neptune opposite natal Pluto puts Neptune across the zodiac from your birth Pluto, once for everyone born 1930–2009, between 51 and 62. In those two and a half years or so, what you have held on to for decades meets an ideal that asks you to loosen your grip. A balance to find, not a reversal."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination and compassion" }
   - { k: "Natal point", v: "Pluto ♇: where you hold on hardest and can begin again" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/neptune", "/astrology/pluto", "/astrology/opposition", "/astrology/neptune-opposite-pluto", "/astrology/pluto-in-libra"]
 faq:
   - q: "What does transiting Neptune opposite natal Pluto mean?"
-    a: "Neptune stands across the zodiac from your birth Pluto, once in every life of these years, in the fifties or early sixties. I read it as a season when what you have long held on to faces an ideal or a longing that asks you to loosen your hold. It asks for balance, never for giving everything up."
+    a: "Once in every life of these birth years, in the fifties or early sixties, Neptune faces your birth Pluto from across the zodiac. I read it as a season when what you have long held on to meets an ideal or a longing that asks you to loosen your hold. It calls for balance, never for giving everything up."
   - q: "At what age is Neptune opposite Pluto?"
-    a: "Between 51 and 62 for births from 1930 to 2009. In the site’s count the orb opened at 60.1 for someone born at the start of 1935, at about 53 for births of the 1960s and 1970s, and at 56.5 for 2005. The first exact hit follows within about a year."
+    a: "Between 51 and 62 for births from 1930 to 2009, and soonest for those born when Neptune ran furthest ahead of Pluto, in the 1960s and 1970s: about 53 at the start of 1965 or 1975, against 60.1 at the start of 1935 and 56.5 at the start of 2005."
   - q: "How long does Neptune opposite natal Pluto last?"
-    a: "About two and a half years with my orbs, from 1½° before exact to 1° after, and under two in the tightest passes. Neptune usually crosses the exact opposition three times; in about one pass in four, five times, as its yearly retrograde loops sweep back over the degree."
+    a: "The opposition stays in orb for about two and a half years, a little less than two in the tightest passes. It is usually exact three times, and five times in about one pass in four, each retrograde loop carrying Neptune back to face your Pluto again."
   - q: "Who has Neptune opposite Pluto now?"
     a: "While Neptune crosses Aries, until March 2039, it opposes Pluto in Libra: everyone born from October 1971 to August 1984, in their early to mid-fifties during these years. For most of them it arrives together with Neptune’s trine to its own birth place."
 sources:

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Ascendant", "trigone", "transits"]
 weight: 1791
 glyph: "♆△AC"
-definition: "Neptune en transit trigone Ascendant du thème natal, c’est Neptune à 120° du degré qui se levait à votre naissance, environ deux ans et demi. Une façon plus douce et intuitive d’arriver vient sans effort, par l’étude et le voyage ou par ce que vous créez. La plupart rencontrent un des deux trigones ; 1 personne sur 6 aucun."
+definition: "Neptune en transit trigone Ascendant du thème natal, ce sont deux ans et demi d’aisance dans votre façon d’arriver et de commencer : plus douce, plus intuitive, sans effort, par l’étude et le voyage ou par ce que vous créez. L’un ou l’autre trigone atteint la plupart des gens ; environ 1 personne sur 6 n’en rencontre aucun."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "L’Ascendant (AC) : votre façon d’aborder le monde ; la cuspide de la maison 1 en Placidus" }
@@ -23,9 +23,9 @@ facts:
 related: ["/astrology/ascendant", "/astrology/neptune", "/astrology/trine", "/astrology/neptune-transit-9th-house", "/astrology/neptune-transit-5th-house"]
 faq:
   - q: "Que veut dire Neptune en transit trigone Ascendant du thème natal ?"
-    a: "Neptune se trouve à 120° du degré qui se levait à votre naissance. J’y lis une douceur facile dans votre façon d’aborder le monde : vous lisez les situations à leur atmosphère, vous mettez les gens à l’aise, et un côté créatif ou spirituel se montre. Le trigone soutient ce que vous choisissez d’en faire, et ne promet rien."
+    a: "Neptune, en maison 9 ou en maison 5, forme un trigone à votre degré levant. J’y lis une douceur facile dans votre façon d’aborder le monde : vous lisez les situations à leur atmosphère, vous mettez les gens à l’aise, et un côté créatif ou spirituel se montre. Le trigone soutient vos choix, sans rien promettre."
   - q: "Combien de temps dure Neptune trigone Ascendant ?"
-    a: "Environ deux ans et demi dans mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ au plus court. Neptune touche le trigone exact trois fois dans la plupart des passages et cinq fois dans un quart environ, parce que ses boucles rétrogrades se chevauchent d’une année sur l’autre."
+    a: "Les boucles rétrogrades de Neptune se chevauchent d’une année sur l’autre : le trigone exact revient trois fois dans la plupart des passages et cinq fois dans un quart environ. Cela fait en tout quelque deux ans et demi dans mes orbes, et vingt-deux mois environ au minimum."
   - q: "Pourquoi n’ai-je jamais eu Neptune trigone Ascendant ?"
     a: "Peut-être parce que votre Neptune de naissance se trouve près du haut du thème, vers la maison 10. Neptune vient alors de dépasser l’un des trigones à votre Ascendant et met plus de 80 ans à atteindre l’autre. Environ 1 personne sur 6 née de 1930 à 2009 est dans ce cas ; seul un thème dressé avec l’heure le dit."
   - q: "Neptune trigone Ascendant, est-ce un bon transit ?"
@@ -46,7 +46,7 @@ L’un des trigones rayonne depuis votre maison 9, celle de l’étude, des croy
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le trigone tient environ deux ans et demi ; même les passages les plus brefs prennent quelque vingt-deux mois, la plupart apportent trois passages exacts et un quart environ en apportent cinq. Comme le degré levant avance vite au fil de la journée, deux personnes nées le même jour à quelques heures d’écart peuvent rencontrer ce trigone à des années de distance, ou l’une des deux pas du tout.
+Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le trigone s’étend sur environ deux ans et demi ; même les passages les plus brefs prennent quelque vingt-deux mois, la plupart apportent trois passages exacts et un quart environ en apportent cinq. Comme le degré levant avance vite au fil de la journée, deux personnes nées le même jour à quelques heures d’écart peuvent rencontrer ce trigone à des années de distance, ou l’une des deux pas du tout.
 
 Les deux trigones sont à 120° l’un de l’autre, et les 80 ans de Neptune couvrent un peu moins de la moitié du zodiaque. En partant du bas du thème, cela suffit pour les deux trigones, avec [Neptune en transit opposition Ascendant du thème natal](/astrology/transiting-neptune-opposite-natal-ascendant/) entre eux ; en partant du haut, vers la maison 10, le chemin tombe dans l’intervalle, après un trigone et bien avant l’autre. Dans le décompte des naissances de 1930 à 2009, environ 1 personne sur 6 part de cet intervalle, et la plupart des autres rencontrent un trigone.
 

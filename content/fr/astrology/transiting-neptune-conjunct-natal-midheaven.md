@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Milieu du Ciel", "conjonction", "transits"]
 weight: 1793
 glyph: "♆☌MC"
-definition: "Neptune en transit conjonction Milieu du Ciel du thème natal, c’est Neptune au sommet de votre thème, le point de votre direction publique, environ deux ans et demi, une fois au plus, pour une personne sur deux. Votre rôle dans le monde s’adoucit et cherche un sens. Il faut l’heure de naissance ; aucune carrière n’y est prédite."
+definition: "Neptune en transit conjonction Milieu du Ciel du thème natal, c’est Neptune au sommet de votre thème, là où se marque votre direction publique. La moitié des gens le vivent, une seule fois, pendant quelque deux ans et demi. Votre rôle dans le monde s’adoucit et cherche un sens. Il faut l’heure de naissance ; aucune carrière n’y est prédite."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "Le Milieu du Ciel (MC) : votre direction dans la vie publique ; la cuspide de la maison 10 en Placidus" }
@@ -23,19 +23,19 @@ facts:
 related: ["/astrology/midheaven", "/astrology/neptune", "/astrology/neptune-transit-10th-house", "/astrology/neptune-transit-9th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Neptune en transit conjonction Milieu du Ciel du thème natal ?"
-    a: "Neptune franchit le sommet de votre thème, le point qui représente votre rôle dans le monde. J’y lis une saison où le travail veut servir quelque chose au-delà de lui-même, et où l’image que les autres ont de vous parle autant de leurs espoirs que de ce que vous faites. Cela décrit une recherche de vocation."
+    a: "Neptune franchit le sommet de votre thème, l’angle de votre rôle dans le monde. J’y lis une saison où le travail veut servir quelque chose au-delà de lui-même, et où l’image que les autres ont de vous parle autant de leurs espoirs que de ce que vous faites. Cela décrit une recherche de vocation."
   - q: "Neptune sur le Milieu du Ciel, est-ce un changement de carrière ?"
     a: "Pas tel que je le lis. Un transit ne dit pas si un emploi commence ou finit, et le Milieu du Ciel dépasse la carrière : il couvre tout rôle visible, toute contribution. Ce passage décrit le genre de sens que vous cherchez dans ce que vous faites, et ce sens peut changer au sein du même travail."
   - q: "Est-ce que Neptune atteindra mon Milieu du Ciel ?"
     a: "Seulement si votre naissance suit de moins de douze heures le passage de Neptune au méridien, haut dans le ciel : Neptune est alors en maisons 4 à 9. Peu après, le transit vient tôt ; près de douze heures après, vers 80 ans. Sinon, le Fond du Ciel vient d’abord. Une personne sur deux environ vit ce passage."
   - q: "Combien de temps dure Neptune conjonction Milieu du Ciel ?"
-    a: "Environ deux ans et demi avec mes orbes, de 1,5° avant le Milieu du Ciel à 1° après, et vingt-deux mois environ pour les passages les plus courts. Neptune touche le degré exact trois fois le plus souvent et cinq fois environ une fois sur quatre, en allant et venant entre vos maisons 9 et 10."
+    a: "Le passage dure environ deux ans et demi dans mes orbes, vingt-deux mois environ au plus rapide, et le Milieu du Ciel exact y est atteint trois fois en général, cinq fois dans un passage sur quatre environ. Il fait la charnière entre les années de Neptune dans votre maison 9 et celles dans votre maison 10."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Neptune reste dans mes orbes du Milieu du Ciel, et combien le rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Neptune aux angles" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le Milieu du Ciel d’après le temps sidéral local de la naissance" }
 ---
-Neptune atteint le sommet de votre thème une fois au plus, et seule la moitié des gens voit ce passage avant 80 ans. Pendant environ deux ans et demi, le point qui représente votre place dans le monde prend les couleurs de Neptune : la vocation, les idéaux, et ce que les autres projettent sur vous.
+Neptune atteint le sommet de votre thème une fois au plus, et seule la moitié des gens voit ce passage avant 80 ans. Pendant environ deux ans et demi, votre direction publique prend les couleurs de Neptune : la vocation, les idéaux, et ce que les autres projettent sur vous.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -47,7 +47,7 @@ En Placidus, le Milieu du Ciel est la cuspide de la maison 10. Avant ce passage,
 
 ## Combien de temps {#combien-de-temps}
 
-De 1,5° avant votre Milieu du Ciel à 1° après, Neptune passe environ deux ans et demi sur ce point, vingt-deux mois pour les passages les plus courts ; la plupart apportent trois passages exacts, un sur quatre environ en apporte cinq.
+De 1,5° avant votre Milieu du Ciel à 1° après, le passage occupe environ deux ans et demi, vingt-deux mois pour les plus courts ; la plupart apportent trois passages exacts, un sur quatre environ en apporte cinq.
 
 Qui le rencontre dépend de l’heure de naissance. Si votre naissance tombe dans les douze heures qui suivent le passage de Neptune au méridien, haut dans votre ciel, Neptune se trouve dans la moitié ouest de votre thème, en maisons 4 à 9, et son lent transit se dirige vers votre Milieu du Ciel : plus la naissance suit de près ce passage, plus le transit vient tôt ; douze heures après, il faut attendre près de 80 ans. Dans les douze autres heures, Neptune atteint d’abord votre Fond du Ciel ([Neptune en transit opposition Milieu du Ciel du thème natal](/astrology/transiting-neptune-opposite-natal-midheaven/)), et le Milieu du Ciel se trouve au-delà de 80 ans. Parmi les naissances de 1930 à 2009, les gens se partagent ainsi par moitié.
 

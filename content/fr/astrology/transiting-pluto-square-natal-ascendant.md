@@ -46,7 +46,7 @@ Le côté d’où vient le carré change l’histoire. Venu d’en haut, près d
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le carré tient environ deux ans et huit mois, et jusqu’à trois ans et neuf mois environ. Pluton franchit le carré exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres.
+Mes orbes allant de 1,5° avant l’exactitude à 1° après, le carré tient environ deux ans et huit mois, et peut s’étirer jusqu’à trois ans et neuf mois environ. Trois contacts exacts dans environ trois passages sur cinq, cinq dans les autres : c’est l’effet de la boucle rétrograde.
 
 Environ 7 personnes sur 8 nées entre 1930 et 2009 le vivent avant 80 ans, et personne deux fois : les deux points de carré se font face d’un bout à l’autre du zodiaque, et Pluton mettrait plus de 80 ans à aller de l’un à l’autre. Environ 1 personne sur 8 n’en rencontre aucun.
 

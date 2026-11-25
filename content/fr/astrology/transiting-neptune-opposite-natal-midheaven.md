@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Milieu du Ciel", "opposition", "transits"]
 weight: 1797
 glyph: "♆☍MC"
-definition: "Neptune en transit opposition Milieu du Ciel du thème natal, c’est Neptune sur votre Fond du Ciel, le point le plus bas du thème, environ deux ans et demi ; une personne sur deux vit ce passage avant 80 ans. Vos racines s’adoucissent ; le foyer devient refuge ou nostalgie. Aucun déménagement ni événement familial n’y est prédit."
+definition: "Neptune en transit opposition Milieu du Ciel du thème natal, c’est Neptune au plus bas de votre thème, sur votre Fond du Ciel. Ce passage vient une fois avant 80 ans pour la moitié des naissances et dure environ deux ans et demi. Votre sentiment d’appartenance s’adoucit ; le foyer devient refuge ou nostalgie. Rien n’y annonce un déménagement."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "Le Milieu du Ciel (MC), face à votre Fond du Ciel, la cuspide de la maison 4 en Placidus" }
@@ -29,7 +29,7 @@ faq:
   - q: "Quand est-ce que Neptune atteindra mon Fond du Ciel ?"
     a: "Cela dépend de la place de Neptune à votre naissance. Sur votre Ascendant, un quart de zodiaque avant le Fond du Ciel, Neptune y arrive vers 41 ans ; en maison 3, en quelques années ; juste après votre Milieu du Ciel, vers 80 ans. Avec Neptune dans la moitié ouest du thème, c’est la conjonction au Milieu du Ciel qui vient."
   - q: "Combien de temps dure Neptune opposition Milieu du Ciel ?"
-    a: "Environ deux ans et demi avec mes orbes, de 1,5° avant le Fond du Ciel à 1° après, et vingt-deux mois environ au plus rapide. Neptune touche le degré exact trois fois dans la plupart des passages et cinq fois environ une fois sur quatre, en allant et venant entre vos maisons 3 et 4."
+    a: "Neptune reste sur votre Fond du Ciel environ deux ans et demi dans mes orbes, vingt-deux mois au plus rapide. Trois passages exacts sont l’usage, cinq arrivent environ une fois sur quatre, et chacun redonne un regard neuf sur l’endroit où vous vous sentez chez vous."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Neptune reste dans mes orbes du Fond du Ciel, et combien vivent ce passage avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Neptune aux angles" }
@@ -46,7 +46,7 @@ Neptune atteint le Fond du Ciel depuis votre maison 3, celle de la pensée et de
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant le Fond du Ciel à 1° après, le passage dure quelque deux ans et demi, vingt-deux mois au plus rapide ; Neptune touche le degré exact trois fois dans la plupart des passages et cinq fois environ une fois sur quatre.
+Dans mes orbes, de 1,5° avant le Fond du Ciel à 1° après, le passage dure quelque deux ans et demi, vingt-deux mois au plus rapide, avec trois passages exacts dans la plupart des cas et cinq dans un quart d’entre eux environ.
 
 Avec Neptune sur votre Ascendant à la naissance, un quart de zodiaque avant le Fond du Ciel, Neptune y arrive vers 41 ans ; depuis votre maison 3, en quelques années ; juste après votre Milieu du Ciel, il faut près de 80 ans. Avec Neptune n’importe où dans la moitié ouest du thème, c’est [Neptune en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-neptune-conjunct-natal-midheaven/) qui vient à la place : voilà pourquoi la moitié des naissances de 1930 à 2009 vivent ce passage avant 80 ans, et l’autre moitié non.
 

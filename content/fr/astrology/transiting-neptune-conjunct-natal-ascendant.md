@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Ascendant", "conjonction", "transits"]
 weight: 1788
 glyph: "♆☌AC"
-definition: "Neptune en transit conjonction Ascendant du thème natal, c’est Neptune sur le degré qui se levait à votre naissance, environ deux ans et demi, une fois au plus ; une personne sur deux ne le voit jamais. Votre abord du monde devient plus doux et plus réceptif. Il faut l’heure de naissance : sans elle, pas d’Ascendant, et pas de lecture."
+definition: "Neptune en transit conjonction Ascendant du thème natal, c’est Neptune sur votre degré levant : une personne sur deux ne le voit jamais, les autres une fois, pendant environ deux ans et demi. Votre premier abord du monde devient plus doux et plus réceptif. Il faut l’heure de naissance : sans elle, pas d’Ascendant, et pas de lecture."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "L’Ascendant (AC) : votre façon d’aborder le monde ; la cuspide de la maison 1 en Placidus" }
@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/ascendant", "/astrology/neptune", "/astrology/neptune-transit-1st-house", "/astrology/neptune-transit-12th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Neptune en transit conjonction Ascendant du thème natal ?"
-    a: "Neptune franchit le degré qui se levait à votre naissance. J’y lis un adoucissement de votre façon d’aborder le monde : vous sentez une pièce avant d’agir, vous arrivez plus doucement, et les autres lisent leurs propres espoirs dans votre manière d’être. Ce transit élargit votre abord et ne prédit aucun événement."
+    a: "Neptune passe sur votre degré levant. J’y lis un adoucissement de votre façon d’aborder le monde : vous sentez une pièce avant d’agir, vous arrivez plus doucement, et les autres lisent leurs propres espoirs dans votre manière d’être. Ce transit élargit votre abord et ne prédit aucun événement."
   - q: "Combien de temps dure Neptune sur l’Ascendant ?"
-    a: "Environ deux ans et demi dans mes orbes, de 1,5° avant le degré levant à 1° après, et vingt-deux mois environ quand le passage est court. Neptune touche le degré exact trois fois le plus souvent et cinq fois environ une fois sur quatre, en repassant au-dessus de l’horizon un temps à chaque boucle rétrograde."
+    a: "Environ deux ans et demi dans mes orbes, vingt-deux mois quand le passage est court. Votre degré levant est en général franchi trois fois, et cinq fois dans un passage sur quatre environ, avant que Neptune s’installe pour longtemps dans votre maison 1."
   - q: "Est-ce que Neptune passera un jour sur mon Ascendant ?"
     a: "Seulement si votre Neptune de naissance se trouvait au-dessus de l’horizon, en maisons 7 à 12 : Neptune est alors en route vers votre degré levant, tôt depuis la maison 12, vers 80 ans si Neptune venait de se coucher. Sous l’horizon, c’est l’opposition qui vient ; la moitié des naissances de 1930 à 2009 rencontrent ce passage avant 80 ans."
   - q: "Faut-il l’heure de naissance pour Neptune conjonction Ascendant ?"
-    a: "Oui, entièrement. L’Ascendant avance d’environ un degré toutes les quatre minutes en moyenne, et un degré représente des mois de la lente progression de Neptune : une heure arrondie au quart d’heure peut décaler ce passage de près d’un an. Sans heure notée, rien à franchir, et je ne lis pas le thème."
+    a: "Oui, entièrement. Le degré levant change si vite au fil de la journée qu’une heure arrondie au quart d’heure peut décaler ce passage de près d’un an, et sans heure notée il n’y a pas de degré levant du tout. Dans ce cas, je ne lis pas le thème."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Neptune reste dans mes orbes du degré levant, et combien le rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Neptune aux angles" }
@@ -47,11 +47,11 @@ En [Placidus](/astrology/placidus/), mon système de maisons, le degré levant e
 
 ## Combien de temps {#combien-de-temps}
 
-De 1,5° avant le degré levant à 1° après, le passage de Neptune prend environ deux ans et demi, vingt-deux mois environ quand les boucles sont courtes. Le degré exact est touché trois fois le plus souvent et cinq fois environ une fois sur quatre, chaque boucle rétrograde ramenant Neptune quelques mois au-dessus de l’horizon.
+De 1,5° avant le degré levant à 1° après, le passage de Neptune prend environ deux ans et demi, vingt-deux mois environ quand les boucles sont courtes. Trois passages exacts sont la règle et cinq arrivent environ une fois sur quatre, chaque boucle rétrograde ramenant Neptune quelques mois au-dessus de l’horizon.
 
 C’est l’horizon qui décide si vous le rencontrez. Avec Neptune au-dessus de l’horizon à la naissance, en maisons 7 à 12, Neptune est en route vers votre Ascendant : tôt dans la vie depuis la maison 12, vers 40 ans depuis le haut du thème, près de 80 ans si Neptune venait de se coucher. Avec Neptune sous l’horizon, en maisons 1 à 6, la conjonction se trouve à plus de 80 ans, et c’est [Neptune en transit opposition Ascendant du thème natal](/astrology/transiting-neptune-opposite-natal-ascendant/) qui vient. Parmi les naissances de 1930 à 2009, la moitié le rencontre donc une fois, l’autre jamais. Des autres étapes, [Neptune en transit carré Ascendant du thème natal](/astrology/transiting-neptune-square-natal-ascendant/) atteint tout le monde, [Neptune en transit sextile Ascendant du thème natal](/astrology/transiting-neptune-sextile-natal-ascendant/) et [Neptune en transit trigone Ascendant du thème natal](/astrology/transiting-neptune-trine-natal-ascendant/) la plupart des gens.
 
-L’Ascendant avance d’environ un degré toutes les quatre minutes en moyenne, et un degré représente des mois de progression de Neptune : une heure de naissance arrondie au quart d’heure peut décaler ce passage de près d’un an. Sans heure notée, pas de degré levant à franchir ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)) ; si la vôtre manque, elle peut encore se retrouver ([trouver son heure de naissance](/astrology/how-to-find-your-birth-time/)). Jusqu’en mars 2039, Neptune traverse le Bélier : c’est le passage de l’[Ascendant Bélier](/astrology/aries-rising/), les premiers degrés d’abord.
+Un degré d’Ascendant représente environ quatre minutes d’horloge, en moyenne, et des mois de la progression de Neptune : arrondie au quart d’heure, l’heure de naissance peut décaler ce passage de près d’un an. Sans heure notée, pas de degré levant à franchir ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)) ; si la vôtre manque, elle peut encore se retrouver ([trouver son heure de naissance](/astrology/how-to-find-your-birth-time/)). Jusqu’en mars 2039, Neptune traverse le Bélier : c’est le passage de l’[Ascendant Bélier](/astrology/aries-rising/), les premiers degrés d’abord.
 
 ## Ce qui aide {#ce-qui-aide}
 

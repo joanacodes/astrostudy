@@ -50,7 +50,7 @@ Si votre naissance porte [Saturne sextile Pluton](/astrology/saturn-sextile-plut
 
 De 1,5° avant l’exactitude à 1° après, les orbes que j’utilise pour dater, le sextile dure environ deux ans et huit mois. Dans environ trois passages sur cinq, Pluton franchit le sextile exact trois fois, sur deux ans et sept mois environ ; les autres comptent cinq passages exacts sur trois ans et sept mois, quand l’une des stations de Pluton tombe près du degré.
 
-Environ 3 personnes sur 4 nées entre 1930 et 2009 le vivent avant 80 ans, et environ 1 sur 10 deux fois, de chaque côté de Saturne. Saturne va trop vite pour qu’une génération partage un même âge : pour une naissance un 1er janvier, le sextile est entré dans l’orbe à 10,8 ans en 1955, 14,8 ans en 1945, 16,1 ans en 1995, 35,1 ans en 1985, 43,1 ans en 1965 et 70,1 ans en 1935, et pas avant 80 ans en 1975 ni en 2005.
+Environ trois personnes sur quatre nées entre 1930 et 2009 le vivent avant 80 ans, et environ une sur dix rencontre les deux points de sextile de Saturne, un de chaque côté. Saturne va trop vite pour qu’une génération partage un même âge : une naissance le 1er janvier 1955 est entrée dans l’orbe à 10,8 ans, une de 1945 à 14,8 ans, de 1995 à 16,1 ans, de 1985 à 35,1 ans, de 1965 à 43,1 ans et de 1935 à 70,1 ans, tandis que 1975 et 2005 ne le rencontrent pas avant 80 ans.
 
 Jusqu’au début de 2044, Pluton en Verseau forme ce sextile avec Saturne en Bélier et en Sagittaire. Pour une naissance de 1996 à 1999, avec Saturne en Bélier, le sextile vient entre 26 et 45 ans environ ; de 1985 à 1988, avec Saturne en Sagittaire, entre 37 et 55 ans ; de 1967 à 1969, avec Saturne de nouveau en Bélier, entre 56 et 74 ans.
 

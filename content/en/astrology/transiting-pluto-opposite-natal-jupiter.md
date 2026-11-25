@@ -45,13 +45,13 @@ Tradition gave Jupiter the law and religion. I read it as meaning and growth, an
 
 Born with [Jupiter opposite Pluto](/astrology/jupiter-opposite-pluto/), you had this transit at the start of life, if at all: Pluto already stood near the far end of your Jupiter and left it within a few years. For everyone else, the meeting is new.
 
-The two houses of the axis say where the weighing happens. With Jupiter in your 3rd, Pluto opposes it from your 9th ([Pluto transiting the 9th house](/astrology/pluto-transit-9th-house/)): what you've picked up day by day meets a larger system of thought that asks to be taken seriously, or questioned. With Jupiter in the 7th and Pluto crossing the 1st, your own changes face the partner who has carried your hopes. Both houses come from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The two houses of the axis say where the weighing happens. With Jupiter in your 3rd, Pluto opposes it from your 9th ([Pluto transiting the 9th house](/astrology/pluto-transit-9th-house/)): what you've picked up day by day meets a larger system of thought that asks to be taken seriously, or questioned. With Jupiter in the 7th and Pluto crossing the 1st, your own changes face the partner who has carried your hopes. Without the birth time there is no telling which houses the axis joins ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
 With the orbs I use for timing, from 1½° before exact to 1° after, the opposition holds for about two years and eight months, and close to four years in the slowest passes. Pluto backs up for about five months a year, so there are three exact hits in about three passes out of five, and five in the rest.
 
-About 3 people in 5 born between 1930 and 2009 never meet it by 80: a life shows only part of Pluto's 248-year circle, and the far end of your Jupiter may lie outside it. For births on 1 January, it came within orb at 24 in 1965, at 65.2 in 1955 and at 76.4 in 2005; in 1935, 1945, 1975, 1985 and 1995, not by 80. Nobody meets it twice.
+About 3 people in 5 born between 1930 and 2009 never meet it by 80: a life shows only part of Pluto's 248-year circle, and the far end of your Jupiter may lie outside it. Take births on 1 January: 1965 met it at 24, 1955 at 65.2 and 2005 at 76.4, while 1935, 1945, 1975, 1985 and 1995 reach 80 without it. Nobody meets it twice.
 
 Until early 2044, Pluto in Aquarius opposes Jupiters in Leo, a sign Jupiter visits for about a year in every twelve. The people meeting it now span the generations: born in 2002–03, between about 21 and 40; in 1990–91, between about 33 and 52; in 1978–79, between about 44 and 64; in 1966–68, between about 56 and 75.
 

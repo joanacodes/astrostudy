@@ -45,7 +45,7 @@ If your Saturn is in the 10th, the squares tend to come while the axis runs near
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, 1½° before exact to 1° after, the true node needs about a month. An eclipse season in the same weeks can hold it nearly still, while the Sun lines up with the nodes, and stretch the square to three months or more; about one pass in 25 crosses the exact degree three times. The eclipses of such a season land at right angles to your Saturn, which my eclipse rule leaves aside: it counts an eclipse only on a natal point or opposite it.
+Within my orbs, 1½° before exact to 1° after, the true node needs about a month. An eclipse season in the same weeks, with the Sun close to the nodes, can hold it nearly still and stretch the square to three months or more; about one pass in 25 crosses the exact degree three times. The eclipses of such a season land at right angles to your Saturn, which my eclipse rule leaves aside: it counts an eclipse only on a natal point or opposite it.
 
 Neither end of the axis sits on your Saturn, which is also why the forecast I prepare readings with doesn't list this square: there the node counts only head on, by conjunction or opposition. I read it as the background to whatever the slower planets are doing to your Saturn at the time.
 

@@ -47,9 +47,9 @@ The houses say where the friction bites. With Saturn in your 10th, the square co
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the square holds for about two years and eight months, the longest passes about three and three-quarter years. Pluto spends about five months of each year retrograde: three exact hits in about three passes out of five, five in the rest.
+A square from Pluto to Saturn is no brief affair: allowing my orbs of 1½° before exact and 1° after, it holds for about two years and eight months, and the longest passes run to about three and three-quarter years. Because Pluto retrogrades for about five months a year, most passes cross the exact square three times, and about two in five cross it five times.
 
-About 6 people in 7 born between 1930 and 2009 meet it by 80, and none twice: the two square points face each other across the zodiac, and Pluto needs more than 80 years to cover the half-circle between them. For births on 1 January it came within orb at 28.8 in 1945, 30 in 1965, 53.2 in 1985 and 57.9 in 1935; in 2005, not by 80.
+About 6 people in 7 born between 1930 and 2009 meet it by 80, and none twice: the two square points face each other across the zodiac, and Pluto needs more than 80 years to cover the half-circle between them. The ages scatter: 28.8 for a birth on 1 January 1945, 30 for 1965, 53.2 for 1985 and 57.9 for 1935, and none by 80 for 1 January 2005.
 
 Until early 2044, Pluto in Aquarius squares Saturns in Taurus and Scorpio. Born from 1998 to 2001, with Saturn in Taurus, you meet it between about 24 and 42; from 1982 to 1985, with Saturn in Scorpio, between about 39 and 57; from 1969 to 1972, with Saturn in Taurus, between about 54 and 72.
 

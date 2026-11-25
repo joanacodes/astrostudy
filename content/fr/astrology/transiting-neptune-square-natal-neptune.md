@@ -2,7 +2,7 @@
 title: "Neptune en transit carré Neptune du thème natal"
 slug: "neptune-transit-carre-neptune-natal"
 h1: "Neptune en transit carré Neptune de votre thème natal"
-description: "Neptune en transit carré Neptune du thème natal : le carré de Neptune vers la quarantaine, une fois pour tous. Quand l’orbe s’ouvre, sa durée, ce qui aide."
+description: "Neptune en transit carré Neptune du thème natal : le carré de Neptune, vers la quarantaine, quand les idéaux de la vingtaine frottent contre un désir neuf."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -27,7 +27,7 @@ faq:
   - q: "Quand commence Neptune carré Neptune ?"
     a: "Dans mes orbes, le carré s’ouvre entre 38,5 et 41,2 ans pour les naissances de 1930 à 2009, un an environ avant le premier carré exact, venu entre 39,4 et 42,1 ans. Il arrive plus tôt pour les générations récentes : 41 ans pour les années 1940 à 1960, 38 ans et demi pour 2005."
   - q: "Combien de temps dure le carré de Neptune ?"
-    a: "Environ deux ans et demi avec mes orbes, de 1,5° avant l’exactitude à 1° après, moins de deux au plus court. Trois passages exacts sont l’usage, cinq arrivent dans un quart des cas environ ; pour une naissance au début de 1965, cinq passages exacts entre 41,3 et 42,9 ans."
+    a: "Le carré s’étale sur deux ans et demi environ dans mes orbes, un peu moins de deux quand Neptune avance vite. Trois passages exacts sont l’usage, cinq arrivent dans un quart des cas environ ; pour une naissance au début de 1965, cinq passages exacts entre 41,3 et 42,9 ans."
   - q: "Le carré de Neptune peut-il revenir une seconde fois ?"
     a: "Non. Neptune met environ 165 ans à faire le tour du zodiaque, si bien que le carré à sa place de naissance n’arrive qu’une fois dans une vie, vers la quarantaine. Le second carré du cycle, sur le chemin du retour, se trouve bien au-delà de toute vie humaine, et le retour aussi."
 sources:
@@ -42,11 +42,11 @@ Vers quarante ans, [Neptune](/astrology/neptune/), dans votre thème, a eu le te
 
 Cela se montre souvent par des buts nets qui perdent leurs contours, un travail qui cherche une nouvelle raison d’être, un désir à l’étroit dans la vie bâtie autour. La friction est douce et tenace. Je cherche quels idéaux étaient nécessaires et lesquels n’étaient qu’une habitude : le carré demande de garder les premiers et de desserrer les seconds, sans tout trancher dans le brouillard. Le piège de Neptune, à ce carré, est de croire que l’ambiguïté est toujours profondeur : un flou est parfois une question qui mérite une réponse simple.
 
-Le carré atteint en général votre Neptune de naissance depuis trois maisons plus loin. Avec Neptune en maison 7 à la naissance, il vient des environs de la maison 10, et l’image du couple que vous portez depuis l’enfance est pressée par des questions de travail et de place dans le monde ([Neptune en transit en maison 10](/astrology/neptune-transit-10th-house/)). Ces maisons viennent de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Et si une humeur basse ou une confusion dure à cet âge, elle relève d’un médecin ou d’un thérapeute : aucun transit ne l’explique à sa place ([astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
+Le carré atteint en général votre Neptune de naissance depuis trois maisons plus loin. Avec Neptune en maison 7 à la naissance, il vient des environs de la maison 10, et l’image du couple que vous portez depuis l’enfance est pressée par des questions de travail et de place dans le monde ([Neptune en transit en maison 10](/astrology/neptune-transit-10th-house/)). Ces maisons se tracent à partir de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Et si une humeur basse ou une confusion dure à cet âge, elle relève d’un médecin ou d’un thérapeute : aucun transit ne l’explique à sa place ([astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
 
 ## Combien de temps {#combien-de-temps}
 
-Mes orbes, de 1,5° avant l’exactitude à 1° après, s’ouvrent sur le carré un an environ avant que Neptune l’atteigne : entre 38,5 et 41,2 ans dans le décompte du site pour les naissances de 1930 à 2009, contre 39,4 à 42,1 ans pour le premier passage exact, que détaille le [carré de Neptune](/astrology/neptune-square/). Au début de 1945, de 1955 ou de 1965, l’orbe s’ouvrait à 41,1 ans ; au début de 1985, à 40,2 ; de 2005, à 38,5. Le passage s’étend sur deux ans et demi environ, moins de deux au plus rapide ; au début de 1965, il comptait cinq passages exacts, à 41,3, 41,5, 42,1, 42,8 et 42,9 ans.
+Mes orbes, de 1,5° avant l’exactitude à 1° après, s’ouvrent sur le carré un an environ avant que Neptune l’atteigne : entre 38,5 et 41,2 ans dans le décompte du site pour les naissances de 1930 à 2009, contre 39,4 à 42,1 ans pour le premier passage exact, que détaille le [carré de Neptune](/astrology/neptune-square/). Pour les naissances du début de 1945, de 1955 et de 1965, l’orbe s’ouvre à 41,1 ans ; pour 1985, à 40,2 ; pour 2005, à 38,5. Le passage s’étend sur deux ans et demi environ, moins de deux au plus rapide ; au début de 1965, il comptait cinq passages exacts, à 41,3, 41,5, 42,1, 42,8 et 42,9 ans.
 
 Chacun le rencontre une seule fois : le carré qui referme le cycle, sur le chemin du retour, se trouve bien au-delà de toute vie. C’est l’étape du milieu, entre le sextile du milieu de la vingtaine ([Neptune en transit sextile Neptune du thème natal](/astrology/transiting-neptune-sextile-natal-neptune/)) et le trigone de la cinquantaine ([Neptune en transit trigone Neptune du thème natal](/astrology/transiting-neptune-trine-natal-neptune/)) ; l’opposition ([Neptune en transit opposition Neptune du thème natal](/astrology/transiting-neptune-opposite-natal-neptune/)) vient vers 80 ans, ou pas du tout. L’[opposition d’Uranus](/astrology/uranus-opposition/) partage le début de la quarantaine avec lui, et je lis les deux côte à côte.
 

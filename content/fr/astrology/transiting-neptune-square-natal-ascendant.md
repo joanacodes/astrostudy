@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Ascendant", "carré", "transits"]
 weight: 1790
 glyph: "♆□AC"
-definition: "Neptune en transit carré Ascendant du thème natal, c’est Neptune à 90° du degré levant de votre naissance, environ deux ans et demi, presque toujours avant 80 ans. Votre manière d’aborder le monde frotte contre ce qu’elle ne peut organiser, au travail ou chez vous : une friction qui apprend à varier son abord."
+definition: "Neptune en transit carré Ascendant du thème natal est une friction que presque tout le monde rencontre avant 80 ans, Neptune près du haut ou du bas du thème, à 90° de votre degré levant, environ deux ans et demi. Votre manière d’aborder le monde frotte contre ce qu’elle ne peut organiser, au travail ou chez vous."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "L’Ascendant (AC) : votre façon d’aborder le monde ; la cuspide de la maison 1 en Placidus" }
@@ -23,9 +23,9 @@ facts:
 related: ["/astrology/ascendant", "/astrology/neptune", "/astrology/square", "/astrology/midheaven", "/astrology/imum-coeli"]
 faq:
   - q: "Que veut dire Neptune en transit carré Ascendant du thème natal ?"
-    a: "Neptune se trouve à 90° du degré qui se levait à votre naissance. J’y lis une friction entre votre manière d’aborder le monde et quelque chose qui refuse de s’organiser : une vocation qui se brouille, ou une vie de famille qui demande plus de douceur. Ce transit apprend à aborder chaque lieu autrement, et ne prédit aucun événement."
+    a: "Neptune se tient à angle droit de votre degré levant. J’y lis une friction entre votre manière d’aborder le monde et quelque chose qui refuse de s’organiser : une vocation qui se brouille, ou une vie de famille qui demande plus de douceur. Ce transit apprend à aborder chaque lieu autrement, et ne prédit aucun événement."
   - q: "Combien de temps dure Neptune carré Ascendant ?"
-    a: "Environ deux ans et demi avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus brefs. Neptune franchit le carré exact trois fois dans environ trois passages sur quatre, cinq fois dans les autres, au rythme de ses boucles rétrogrades annuelles."
+    a: "Deux ans et demi à peu près dans mes orbes, et vingt-deux mois environ pour les passages les plus brefs. Les boucles annuelles de Neptune rendent le carré exact trois fois dans environ trois passages sur quatre, cinq fois dans les autres : la friction se relâche et revient à chaque boucle."
   - q: "Neptune carré Ascendant, est-ce la même chose que Neptune sur le Milieu du Ciel ?"
     a: "Pas tout à fait. Les carrés à l’Ascendant tombent près du haut et du bas du thème, mais le Milieu du Ciel est rarement à 90° exactement de l’Ascendant : l’écart dépend de l’heure et de la latitude de naissance. Les deux transits peuvent donc coïncider ou tomber à des années d’écart, et seul un thème dressé d’après l’heure le montre."
   - q: "Est-ce que tout le monde rencontre Neptune carré Ascendant ?"

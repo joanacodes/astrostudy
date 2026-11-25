@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Milieu du Ciel", "carré", "transits"]
 weight: 1795
 glyph: "♆□MC"
-definition: "Neptune en transit carré Milieu du Ciel du thème natal, c’est Neptune à 90° du sommet de votre thème, environ deux ans et demi, presque toujours avant 80 ans. Votre rôle public perd de ses contours, et le sol qui le porte aussi : une friction qui sépare ce que le travail demande et ce que vous pouvez donner."
+definition: "Neptune en transit carré Milieu du Ciel du thème natal atteint presque tout le monde avant 80 ans, pour deux ans et demi environ. Votre rôle public perd de ses contours, et le sol qui le porte aussi : la friction sépare ce que le travail demande de ce que vous pouvez donner."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "Le Milieu du Ciel (MC) : votre direction dans la vie publique ; la cuspide de la maison 10 en Placidus" }
@@ -25,7 +25,7 @@ faq:
   - q: "Que veut dire Neptune en transit carré Milieu du Ciel du thème natal ?"
     a: "Neptune se trouve à 90° du sommet de votre thème, ce qui forme aussi un carré au point opposé, votre Fond du Ciel. J’y lis une friction entre le rôle qui vous fait connaître et ce que vous êtes : un titre ou une fiche de poste ne couvre plus tout, et le sol sous le travail demande aussi de l’attention."
   - q: "Combien de temps dure Neptune carré Milieu du Ciel ?"
-    a: "Environ deux ans et demi dans mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ au plus court. Neptune franchit le carré exact trois fois dans la plupart des passages et cinq fois dans un quart environ, au gré de ses boucles rétrogrades annuelles."
+    a: "Comptez environ deux ans et demi dans mes orbes, ou quelque vingt-deux mois si Neptune avance vite. Dans la plupart des passages, le carré est exact trois fois, dans un quart environ cinq fois, et pendant tout ce temps le même carré presse votre Fond du Ciel de l’autre côté."
   - q: "Neptune carré Milieu du Ciel, est-ce mauvais pour ma carrière ?"
     a: "Je ne lis pas les transits comme bons ou mauvais pour une carrière, et aucun ne peut dire si un emploi réussit ou s’arrête. Ce carré décrit une friction autour du sens : un rôle qui demande plus que vous ne voulez donner, ou des idéaux qui n’y tiennent plus, et une friction de ce genre se travaille."
   - q: "Faut-il l’heure de naissance pour Neptune carré Milieu du Ciel ?"
@@ -46,7 +46,7 @@ Le côté d’où vient le carré change l’endroit où il commence. Depuis l�
 
 ## Combien de temps {#combien-de-temps}
 
-Il faut à Neptune environ deux ans et demi pour franchir ce carré dans mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ quand Neptune avance vite ; trois passages exacts sont la règle, cinq arrivent dans un quart des passages environ. Parmi les naissances de 1930 à 2009, presque personne n’arrive à 80 ans sans l’un de ces carrés, et une toute petite minorité rencontre les deux.
+Il faut à Neptune environ deux ans et demi pour franchir ce carré dans mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ quand Neptune avance vite ; trois passages exacts sont la règle, cinq arrivent dans un quart des passages environ. Une vie de 80 ans contient presque toujours l’un de ces carrés, dans le décompte des naissances de 1930 à 2009, et très rarement les deux.
 
 Sur la route de Neptune, le carré de l’ouest vient avant [Neptune en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-neptune-conjunct-natal-midheaven/), avec [Neptune en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-neptune-sextile-natal-midheaven/) entre les deux ; le carré de l’est vient après et mène à [Neptune en transit trigone Milieu du Ciel du thème natal](/astrology/transiting-neptune-trine-natal-midheaven/) puis à [Neptune en transit opposition Milieu du Ciel du thème natal](/astrology/transiting-neptune-opposite-natal-midheaven/).
 

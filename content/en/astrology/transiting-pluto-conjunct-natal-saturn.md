@@ -43,7 +43,7 @@ These two planets share a blind spot, and this is where it shows: Saturn believe
 
 Born with [Saturn conjunct Pluto](/astrology/saturn-conjunct-pluto/) after the exact meeting, in August 1947 or November 1982, you had this transit in early childhood, with Saturn just ahead of Pluto; born before it, you never will.
 
-Your natal Saturn's house says where the rebuilding happens, and it deserves weight: in my notebook, Saturn was one of the three placements that held most often, 75 to 90% of the time ([Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). With Saturn in your 10th, the career you built is reworked during Pluto's long stay there ([Pluto transiting the 10th house](/astrology/pluto-transit-10th-house/)); with Saturn in the 4th, the duties of home and family. Planets conjunct your Saturn at birth meet Pluto within the same few years. Placing Saturn in its house takes your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Your natal Saturn's house says where the rebuilding happens, and it deserves weight: in my notebook, Saturn was one of the three placements that held most often, 75 to 90% of the time ([Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). With Saturn in your 10th, the career you built is reworked during Pluto's long stay there ([Pluto transiting the 10th house](/astrology/pluto-transit-10th-house/)); with Saturn in the 4th, the duties of home and family. Planets conjunct your Saturn at birth meet Pluto within the same few years. Without your birth time, Saturn has no house, and this part of the reading is lost with it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 None of this forecasts a loss, an illness or an ending. If the weight of a stretch like this stays with you for weeks, a doctor or a therapist is the right help ([Astrology and mental health](/astrology/astrology-and-mental-health/); the numbers to call are on my [disclaimers](/disclaimers/#help) page).
 
@@ -51,7 +51,7 @@ None of this forecasts a loss, an illness or an ending. If the weight of a stret
 
 Counted from 1½° before exact to 1° after, the orbs I time by, Pluto spends about two years and eight months on your Saturn, most passes between twenty-two months and three and three-quarter years. Three exact hits in about three passes out of five, five in the rest: Pluto turns back over the degree before it lets it go.
 
-About 3 people in 5 born between 1930 and 2009 never meet it by 80, and nobody meets it twice. Saturn changes sign every two and a half years, so the age swings with the birth date: for births on 1 January, 7.9 in 1985, 35 in 1955, 53.2 in 1995 and 77.4 in 1965, while 1935, 1945, 1975 and 2005 don't see it by 80. People born a few months apart share it at nearly the same age; people born ten years apart rarely do.
+Three people in five born between 1930 and 2009 reach 80 without it, and no one has it twice. Saturn changes sign every two and a half years, so the age swings with the birth date: for births on 1 January, 7.9 in 1985, 35 in 1955, 53.2 in 1995 and 77.4 in 1965, while 1935, 1945, 1975 and 2005 don't see it by 80. People born a few months apart share it at nearly the same age; people born ten years apart rarely do.
 
 While Pluto crosses Aquarius, until early 2044, it reaches Saturns in Aquarius: people born from 1962 to 1964 meet it in their sixties and seventies, and those born from 1991 to 1994 between about 31 and 49 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
 

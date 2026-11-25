@@ -36,7 +36,7 @@ Not every Chiron transit to the Ascendant presses. The trine tends to arrive as 
 
 The [Ascendant](/astrology/ascendant/) is the frame you approach things from: your first move, your manner, what you notice on arrival. [Chiron](/astrology/chiron/) is the skill of living with a limit that stays. A [trine](/astrology/trine/) relates them through flow, and in this [transit](/astrology/transits/) the adaptation you have built around an old sore spot starts to look like part of your manner rather than something you hide behind.
 
-The two trines of a round come from opposite halves of the sky. From below the horizon, near the cusp of your 5th house, the ease tends to come through play and making things: performing, painting, singing in front of friends, being seen enjoying yourself ([Chiron transiting the 5th house](/astrology/chiron-transit-5th-house/)). From above, near the cusp of your 9th, it comes through learning, belief or distance: a course, a journey, a teacher who shows you a kinder way of looking at yourself ([Chiron transiting the 9th house](/astrology/chiron-transit-9th-house/)).
+The two trines of a round come from opposite halves of the sky. From below the horizon, near the cusp of your 5th house, the ease tends to come through play and making things: performing, painting, singing in front of friends, being seen enjoying yourself ([Chiron transiting the 5th house](/astrology/chiron-transit-5th-house/)). From above, near the cusp of your 9th, it comes through learning, belief or distance: a course, a trip, a teacher who shows you a kinder way of looking at yourself ([Chiron transiting the 9th house](/astrology/chiron-transit-9th-house/)).
 
 The Ascendant's blind spot is overrating first impressions, and the trine often quiets it: the first thirty seconds matter less once you trust the rest of the meeting. A trine to the Ascendant is also a sextile to the Descendant, so the people close to you tend to offer openings of their own, and saying yes to them is part of the transit.
 
@@ -52,7 +52,7 @@ On the way out from [transiting Chiron conjunct natal Ascendant](/astrology/tran
 
 ## What helps {#what-helps}
 
-Take the ease somewhere: sign up for the class, perform the piece, book the journey you kept postponing.
+Take the ease somewhere: sign up for the class, perform the piece, book the trip you kept postponing.
 
 Arrive once without the protective habit, and notice that the room holds.
 

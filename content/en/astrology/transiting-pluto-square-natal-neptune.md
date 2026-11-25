@@ -47,11 +47,11 @@ With Neptune in your 9th, the square comes from around your 12th ([Pluto transit
 
 ## How long it lasts {#how-long-it-lasts}
 
-In my orbs, from 1½° before exact to 1° after, the square holds for about two years and eight months, nearly four years in the longest passes. In about three passes out of five there are three exact hits, and five in the others.
+At this age the square is no shorter than at any other: about two years and eight months from 1½° before exact to 1° after, my orbs, and nearly four years in the longest passes. In about three passes out of five there are three exact hits, and five in the others.
 
-About 2 people in 3 born between 1930 and 2009 meet it by 80, once; about 1 in 3 don't. For births on 1 January, it came within orb at 65.9 in 1935, 65.1 in 1945 and 66.2 in 1955, and comes at 69.3 for 1965 and 74.3 for 1975. Nobody meets it before about 63, and for births from about 1982 on it lies beyond 80.
+Two people in three born between 1930 and 2009 meet it before 80, once; the other third don't. On the 1 January birthdays counted, the orb opened at 65.9 for 1935, 65.1 for 1945 and 66.2 for 1955, and opens at 69.3 for 1965 and 74.3 for 1975. Nobody meets it before about 63, and for births from about 1982 on it lies beyond 80.
 
-Pluto's years in Aquarius, until early 2044, bring it to people born from 1957 to 1970, with Neptune in Scorpio, between about 65 and 72.
+The people meeting it in these years were born from 1957 to 1970, with Neptune in Scorpio, which Pluto squares from Aquarius until early 2044: they are between about 65 and 72 when it comes.
 
 The conjunction came to everyone in their twenties and the sextile ([Transiting Pluto sextile natal Neptune](/astrology/transiting-pluto-sextile-natal-neptune/)) reaches almost everyone, while the trine ([Transiting Pluto trine natal Neptune](/astrology/transiting-pluto-trine-natal-neptune/)) reaches about 1 in 6 and the opposition ([Transiting Pluto opposite natal Neptune](/astrology/transiting-pluto-opposite-natal-neptune/)) no one.
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Neptune", "Milieu du Ciel", "trigone", "transits"]
 weight: 1796
 glyph: "♆△MC"
-definition: "Neptune en transit trigone Milieu du Ciel du thème natal, c’est Neptune à 120° du sommet de votre thème, environ deux ans et demi. L’imagination et le travail qui vous fait connaître vont dans le même sens, et une façon plus douce et personnelle de le faire vient facilement. La plupart en rencontrent un ; 1 personne sur 6 aucun."
+definition: "Neptune en transit trigone Milieu du Ciel du thème natal est un courant facile entre l’imagination et le travail qui vous fait connaître ; ce courant monte de sous l’horizon pendant deux ans et demi environ. Une façon plus douce et personnelle de faire ce travail vient facilement. La plupart en rencontrent un ; 1 personne sur 6 aucun."
 facts:
   - { k: "En transit", v: "Neptune ♆, la planète de l’imagination et de la compassion" }
   - { k: "Point natal", v: "Le Milieu du Ciel (MC) : votre direction dans la vie publique ; la cuspide de la maison 10 en Placidus" }
@@ -23,9 +23,9 @@ facts:
 related: ["/astrology/midheaven", "/astrology/neptune", "/astrology/trine", "/astrology/neptune-transit-2nd-house", "/astrology/time-zones-and-daylight-saving-in-charts"]
 faq:
   - q: "Que veut dire Neptune en transit trigone Milieu du Ciel du thème natal ?"
-    a: "Neptune se trouve à 120° du sommet de votre thème. J’y lis une période où vos idéaux et votre rôle public vont dans le même sens : un côté créatif trouve sa place au travail, le soin entre dans votre façon de faire, et ce qui vous fait connaître vous ressemble davantage. Le trigone ne promet aucun résultat."
+    a: "Votre Milieu du Ciel reçoit un trigone de Neptune, à 120°. J’y lis une période où vos idéaux et votre rôle public vont dans le même sens : un côté créatif trouve sa place au travail, le soin entre dans votre façon de faire, et ce qui vous fait connaître vous ressemble davantage. Le trigone ne promet aucun résultat."
   - q: "Combien de temps dure Neptune trigone Milieu du Ciel ?"
-    a: "Environ deux ans et demi dans mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus brefs. Neptune touche le trigone exact trois fois dans la plupart des passages et cinq fois dans un quart environ, en repassant chaque année sur le degré."
+    a: "De son entrée dans mes orbes à sa sortie, le trigone prend environ deux ans et demi, ou vingt-deux mois quand Neptune se presse. La plupart des passages touchent le trigone exact trois fois et un quart environ cinq fois ; montant de sous l’horizon, il agit souvent en silence, par la routine ou les ressources."
   - q: "Neptune trigone Milieu du Ciel, est-ce que cela aide le travail créatif ?"
     a: "Ce transit décrit un climat plus favorable à l’imagination dans ce que vous faites en public, quel que soit votre métier : un savoir-faire, une cause ou une façon plus douce de diriger peut y trouver sa place. Ce qui en sort dépend de ce que vous y mettez, et le transit ne dit rien de la reconnaissance ni des revenus."
   - q: "Où se trouve Neptune dans mon thème quand Neptune forme un trigone à mon Milieu du Ciel ?"
