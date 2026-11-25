@@ -33,19 +33,19 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true, and the true node’s pace" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "how a transit is read: the moving body, the natal point and the angle between them" }
 ---
-Every eighteen and a half years or so, the South Node, the end of the axis that stands for what you have already made your own, reaches your Sun. The North Node faces it from the other side of the chart, and the year's eclipse season gathers around your birthday, this time at the South Node's end.
+Every eighteen and a half years or so, the South Node, the end of the axis that stands for what you have already made your own, reaches your Sun, and the year's eclipse season gathers around your birthday, this time at its end.
 
 ## What changes {#what-changes}
 
-The [Sun](/astrology/sun/) is the identity you recognise as your own. The [South Node](/astrology/south-node/) consolidates: it holds the capacities you reach for without thinking, the competence that has become second nature, and with it the risk of leaning on it too much. The [North Node](/astrology/north-node/) opposite points to what is less practised. An [opposition](/astrology/opposition/) relates through polarity, so in this [transit](/astrology/transits/) the familiar version of you is lit from close up while the newer direction is seen across the table, often in other people.
+The [Sun](/astrology/sun/) is the identity you recognise as your own. The [South Node](/astrology/south-node/) consolidates: it holds the capacities you reach for without thinking, and with them the risk of leaning on them too much. The [North Node](/astrology/north-node/) opposite points to what is less practised. An [opposition](/astrology/opposition/) relates through polarity, so in this [transit](/astrology/transits/) the familiar version of you is lit from close up while the newer direction is seen across the table, often in other people.
 
-Astrologers often read it as a season for finishing and clearing out, and that fits as far as it goes: it tends to show which of your habits of being yourself have become automatic. Some are a resource and deserve keeping, because established capacity is no defect. Some have turned into a script you play because it is expected of you. The South Node's blind spot is mistaking efficiency for adaptability, and the month asks which is which.
+Astrologers often read it as a season for finishing and clearing out, and that fits as far as it goes: it tends to show which of your habits of being yourself have become automatic. Some are a resource and deserve keeping. Some have turned into a script you play because it is expected of you. The South Node's blind spot is mistaking efficiency for adaptability, and the month asks which is which.
 
 A modern school of astrology reads the South Node as a past life. That is a belief of theirs, not something a chart can show; I read the South Node as what you have consolidated in this one.
 
 The sorting happens in your Sun's house, while the North Node crosses the house opposite. With the [Sun in the 4th house](/astrology/sun-in-4th-house/), home is where the old roles get checked, while the node in your 10th points outwards. Those houses wait on a recorded birth time ([what changes without a birth time](/blog/unknown-birth-time/)), though the date alone already gives your Sun's degree.
 
-The Sun meets the South Node near your birthday in the year of this transit, and an eclipse can fall on the day itself. With the South Node in Leo until March 2028, the total solar eclipse of 2 August 2027 lands at 9°55′ Leo, on the birthday of people born around 2 August, with the South Node close to their Sun that summer ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)). Weather, not a forecast: I read an eclipse as emphasis, and this one points at the familiar self.
+In the year of the transit, an eclipse can coincide with your birthday. With the South Node in Leo until March 2028, the total solar eclipse of 2 August 2027 lands at 9°55′ Leo, on the birthday of people born around 2 August, with the South Node close to their Sun that summer ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)). Weather, not a forecast: I read an eclipse as emphasis, and this one points at the familiar self.
 
 ## How long it lasts {#how-long-it-lasts}
 

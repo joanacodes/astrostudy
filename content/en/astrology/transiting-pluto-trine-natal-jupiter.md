@@ -37,17 +37,17 @@ Pluto at 120° from your natal Jupiter is renewal and growth moving in the same 
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) expands understanding: it makes sense of experience, holds your principles and looks for room to grow. [Pluto](/astrology/pluto/) transforms, reaching the root of what has become unsustainable and reorganising it. A [trine](/astrology/trine/), 120°, relates two functions through flow while each keeps its identity, so under this [transit](/astrology/transits/) the reworking goes with the grain of your growth rather than against it. A subject you've studied for years can become the one that changes how you see the rest. A conviction you inherited can be examined to the bottom and kept, or let go, without a crisis.
+[Jupiter](/astrology/jupiter/) expands understanding: it makes sense of experience, holds your principles and looks for room to grow. [Pluto](/astrology/pluto/) transforms, reaching the root of what has become unsustainable and reorganising it. A [trine](/astrology/trine/), 120°, relates two functions through flow, so under this [transit](/astrology/transits/) the reworking goes with the grain of your growth rather than against it. A subject you've studied for years can become the one that changes how you see the rest. A conviction you inherited can be examined to the bottom and kept, or let go, without a crisis.
 
-The trap is the one every trine sets: ease isn't inevitability, and flow that nothing calls on can pass unnoticed for its whole stay. Nor do I read it for luck or money. Jupiter describes growth in meaning, never wealth, and no transit forecasts a windfall ([how I read](/how-i-read/)).
+I don't read this trine for luck or money: Jupiter describes growth in meaning, never wealth, and no transit forecasts a windfall ([how I read](/how-i-read/)).
 
-If your chart holds [Jupiter trine Pluto](/astrology/jupiter-trine-pluto/), the transit belongs to your first years, while Pluto was still crossing the exact angle, or waits until Pluto has moved a third of the zodiac on, decades later. For everyone else it brings a pairing the birth chart doesn't hold.
+If your chart holds [Jupiter trine Pluto](/astrology/jupiter-trine-pluto/), the transit belongs to your first years, while Pluto was still crossing the exact angle, or waits until Pluto has moved a third of the zodiac on, decades later.
 
-The houses show where the deepening happens. With Jupiter in your 9th, the trine comes from around your 5th ([Pluto transiting the 5th house](/astrology/pluto-transit-5th-house/)) or your 1st, and what you love doing starts to change what you believe; with Jupiter in the 2nd, it comes from the 6th or the 10th, and work rearranges what you value. Planets beside your Jupiter at birth are trined in the same years. All of this needs your birth time, and without it I don't read the chart ([what changes without a birth time](/blog/unknown-birth-time/)).
+The houses show where the deepening happens. With Jupiter in your 9th, the trine comes from around your 5th ([Pluto transiting the 5th house](/astrology/pluto-transit-5th-house/)) or your 1st, and what you love doing starts to change what you believe; with Jupiter in the 2nd, it comes from the 6th or the 10th, and work rearranges what you value. All of this needs your birth time, and without it I don't read the chart ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-Pluto's trine to Jupiter holds for about two years and eight months; my orbs run from 1½° before exact to 1° after, and the quickest passes are over in twenty-two months. Pluto spends about five months of each year retrograde, so it never crosses the exact trine just once: three times in about three passes out of five, five times in the others, which last about three years and seven months.
+Pluto's trine to Jupiter holds for about two years and eight months; my orbs run from 1½° before exact to 1° after, and the quickest passes are over in twenty-two months. Pluto spends about five months of each year retrograde, so it never crosses the exact trine just once: three times in about three passes out of five, five times in the others.
 
 By 80, about 3 people in 4 born between 1930 and 2009 have met it, about 1 in 10 of them twice, once from each side of Jupiter. Age can't date it, because Jupiter moves on by a sign a year: the trine came within orb at 38 for a birth on 1 January 1955, at 13.8 for 1 January 1975 and at 28.2 for 1 January 2005, and not by 80 for 1 January 1985.
 
@@ -61,4 +61,4 @@ Follow the question that keeps pulling you down to its roots. A trine rewards th
 
 Put a revised belief to work, in a plan or a way of judging, so the flow leaves something behind.
 
-Pass on what you learn. Jupiter grows by sharing meaning, and what Pluto has shown you keeps better in other hands than in a notebook.
+Pass on what you learn. Jupiter grows by sharing meaning, and what Pluto has shown you keeps better in other hands.

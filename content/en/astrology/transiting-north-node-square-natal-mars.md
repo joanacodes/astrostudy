@@ -24,7 +24,7 @@ faq:
   - q: "Does North Node square Mars mean conflict?"
     a: "Not as I read it. Mars is effort and assertion, not anger, and a square is friction that asks for adjustment. It can make you notice where you push too hard or not at all. It doesn’t forecast quarrels, accidents or disputes, and none of those can be read from a transit."
   - q: "How long does North Node square Mars last?"
-    a: "Usually about a month, with my orbs of 1½° before exact and 1° after; a slow pass, when an eclipse season holds the node back, can run three and a half months or more. It returns every nine years or so, from one side and then the other, eight or nine times by 80."
+    a: "A month is typical, counting from 1½° before exact to 1° after; a slow pass, when an eclipse season holds the node back, can run three and a half months or more. Over a lifetime to 80 it comes eight or nine times, roughly nine years apart."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the square within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Mars" }
@@ -39,7 +39,7 @@ It tends to show as too many claims on the same energy, a habit of pushing in on
 
 The two ends ask different things of Mars. Towards the South Node, effort runs along tracks you could follow in your sleep; towards the North Node it is clumsier, slower, and growing. The square doesn't say which should win. Often the answer is a split: keep the old effort where it still earns its keep, and give the new one a fixed, modest share.
 
-With your [Mars in the 7th house](/astrology/mars-in-7th-house/), the friction tends to involve partners and rivals: how hard you push in a partnership, how you meet someone who pushes back. No transit says how a disagreement or a case will end ([can astrology predict a court case?](/astrology/can-astrology-predict-a-court-case/)), and the 7th, like the other houses, needs your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+With your [Mars in the 7th house](/astrology/mars-in-7th-house/), the friction tends to involve partners and rivals: how hard you push in a partnership, how you meet someone who pushes back. No transit says how a disagreement or a case will end ([can astrology predict a court case?](/astrology/can-astrology-predict-a-court-case/)), and the 7th, like the other houses, is only known from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

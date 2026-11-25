@@ -5,6 +5,8 @@ description: "Transiting Pluto sextile natal Sun: an opening to put real force b
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "Sun", "sextile", "transits"]
 weight: 1799
 glyph: "♇⚹☉"
 definition: "Transiting Pluto sextile natal Sun is Pluto 60° from your birth Sun for about two years and eight months: an opening to put real force behind a purpose you choose, if you take it. About 2 people in 3 meet one sextile by 80, 1 in 10 meets both, and nearly 1 in 4 neither."
@@ -22,7 +24,7 @@ faq:
   - q: "What does transiting Pluto sextile natal Sun mean?"
     a: "Pluto has come within orb of a 60° angle to your birth Sun. I read it as a long opening for change you choose: a project that needs staying power, a role you can take on with more authority, a habit you can finally rebuild. Nothing forces the change, and nothing comes of it unless you act."
   - q: "Can Pluto sextile my Sun twice?"
-    a: "Yes, for about 1 person in 10. The two sextiles sit 120° apart, so meeting both takes a long stretch of Pluto’s road: about 15% of people born from the 1930s to the 1960s have it, the first often in early childhood and the second some fifty to sixty years later, and almost no one born in the 2000s."
+    a: "Yes, for about 1 person in 10. The two sextiles sit 120° apart, so meeting both takes a long stretch of Pluto’s road: about 1 in 7 of those born from the 1930s to the 1960s have it, the first often in early childhood and the second some fifty to sixty years later, and almost no one born in the 2000s."
   - q: "How long does Pluto sextile Sun last?"
     a: "About two years and eight months in my orbs, from 1½° before exact to 1° after. Pluto’s yearly retrograde means at least three exact hits; about two passes in five have five, and those take some three years and seven months, the time a long project needs to find its footing."
   - q: "Who has Pluto sextile the Sun now?"
@@ -39,15 +41,15 @@ A sextile is the quietest way Pluto can reach your Sun: 60° apart, two signs, f
 
 Pluto's blind spot here is confusing secrecy with depth: the sense that a serious change must stay private until it is finished. A sextile works through other people, a colleague, a teacher, a friend with the right question, and it opens more easily once you say out loud what you mean to change. The Sun adds that purpose is not status: authority made easier to take on is worth having only if it serves what you mean to do.
 
-It is the clearest case of a rule I keep: a chart describes tendencies, not fate ([How I read](/how-i-read/)).
+This transit is the clearest case of a rule I keep: a chart describes tendencies, not fate ([How I read](/how-i-read/)).
 
-The opening arrives through the house Pluto is crossing, usually two houses on or two houses back from your Sun's. With the Sun in your 9th, a sextile often comes from around your 11th, through friends, groups and a shared cause ([Pluto transiting the 11th house](/astrology/pluto-transit-11th-house/)). Both houses hang on the birth time; when none is on record, I don't offer a reading ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Sun sextile Pluto](/astrology/sun-sextile-pluto/), you may have met one of these transits in early childhood, while the natal angle was still closing; for some, the other comes 120° further on, half a century later.
+Two houses from your Sun's, on either side, is where the opening tends to arrive: for a Sun in the 9th, around the 11th, through friends, groups and a shared cause ([Pluto transiting the 11th house](/astrology/pluto-transit-11th-house/)), or around the 7th, through a partner. Both houses hang on the birth time; when none is on record, I don't offer a reading ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Sun sextile Pluto](/astrology/sun-sextile-pluto/), you may have met one of these transits in early childhood, while the natal angle was still closing; for some, the other comes 120° further on, half a century later.
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, one sextile pass runs to about two years and eight months, and the briefest are over in about twenty-two months. Every pass has at least three exact hits, because Pluto spends part of each year retrograde; about two passes in five have five, and stretch to some three years and seven months.
+From 1½° before exact to 1° after, one sextile pass runs to about two years and eight months, with the briefest over in about twenty-two months. Every pass has at least three exact hits, because Pluto spends part of each year retrograde; about two passes in five have five, and stretch to some three years and seven months.
 
-About three people in four meet at least one sextile by 80. The two sit 120° apart, one before your Sun on Pluto's road and one after it, and an 80-year stretch of that road, can hold one, both or neither, depending on where it starts. Born in 1975, with Pluto in Libra, birthdays from mid-May to late July missed both. Older generations had the longer road: about 15% of people born in the 1930s to the 1960s meet both sextiles, almost none of those born in the 2000s, and a third of the latter meet neither.
+About three people in four meet at least one sextile by 80. The two sit 120° apart, one before your Sun on Pluto's road and one after it, and an 80-year stretch of that road can hold one, both or neither, depending on where it starts. Born in 1975, with Pluto in Libra, birthdays from mid-May to late July missed both. Older generations had the longer road: about 1 in 7 of those born in the 1930s to the 1960s meet both sextiles, almost none of those born in the 2000s, and a third of the latter meet neither.
 
 Between your two sextiles lies the conjunction ([transiting Pluto conjunct natal Sun](/astrology/transiting-pluto-conjunct-natal-sun/)), and nobody meets both sextiles without meeting it in between. The squares ([transiting Pluto square natal Sun](/astrology/transiting-pluto-square-natal-sun/)) come 30° further out on each side, then the trines ([transiting Pluto trine natal Sun](/astrology/transiting-pluto-trine-natal-sun/)), with the opposition ([transiting Pluto opposite natal Sun](/astrology/transiting-pluto-opposite-natal-sun/)) furthest of all.
 

@@ -5,6 +5,8 @@ description: "Transiting Pluto conjunct natal Sun: Pluto on your birth Sun, once
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "Sun", "conjunction", "transits"]
 weight: 1798
 glyph: "♇☌☉"
 definition: "Transiting Pluto conjunct natal Sun is Pluto crossing the degree your Sun held at birth, for about two years and eight months. Four people in seven never meet it by 80; the rest meet it once. Identity and purpose are reworked from the core, often slowly. I read it as a self renewed, never as a threat."

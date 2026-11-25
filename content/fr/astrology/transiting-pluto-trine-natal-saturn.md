@@ -38,9 +38,9 @@ sources:
 
 ## Ce qui change {#ce-qui-change}
 
-[Saturne](/astrology/saturn/) intègre sur la durée : la structure de votre vie, ses limites, l’effort qui devient maîtrise. [Pluton](/astrology/pluto/) régénère, en retirant ce qui ne tient plus pour que ce qui reste se renforce. Un [trigone](/astrology/trine/), à 120°, laisse le renouveau de Pluton suivre les lignes de Saturne au lieu de les couper, et chaque fonction reste elle-même. Sous ce [transit](/astrology/transits/), une réforme que vous portez peut être consolidée, une structure rénovée sans être abattue, une compétence approfondie jusqu’à faire autorité. On termine souvent des choses sous ce trigone : une longue formation, une réparation, un engagement mené à sa juste fin.
+[Saturne](/astrology/saturn/) intègre sur la durée : la structure de votre vie, ses limites, l’effort qui devient maîtrise. [Pluton](/astrology/pluto/) régénère, en retirant ce qui ne tient plus pour que ce qui reste se renforce. Un [trigone](/astrology/trine/), à 120°, laisse le renouveau de Pluton suivre les lignes de Saturne au lieu de les couper, et chaque fonction reste elle-même. Sous ce [transit](/astrology/transits/), une réforme que vous portez peut être consolidée, une structure rénovée sans être abattue, une compétence approfondie jusqu’à faire autorité.
 
-Son risque est celui que Saturne court toujours avec le confort : profiter de l’aisance pour se retrancher. La fluidité n’est pas de la passivité, et un trigone qui ne fait que renforcer l’existant peut durcir une structure qui demandait de la souplesse. La question utile n’est pas seulement ce qu’il faut garder, mais ce que vous pouvez désormais vous permettre de changer, puisque pour une fois le changement coûte moins cher.
+Son risque est celui que Saturne court toujours avec le confort : profiter de l’aisance pour se retrancher, et durcir une structure qui demandait de la souplesse. La question utile, c’est aussi ce que vous pouvez désormais vous permettre de changer, puisque pour une fois le changement coûte moins cher.
 
 Si votre thème porte [Saturne trigone Pluton](/astrology/saturn-trine-pluto/), ce transit a ouvert votre vie et peut revenir plus tard. Quand Saturne était la planète en retard, comme dans bien des naissances de 1936-1938 et de 1970-1972, Pluton ramène le trigone une cinquantaine d’années après, au même rythme que son trigone à sa propre place de naissance ([Pluton en transit trigone Pluton du thème natal](/astrology/transiting-pluto-trine-natal-pluto/)) : les personnes nées en 1971 ont vécu les deux entre 2021 et 2023.
 
@@ -48,11 +48,11 @@ Les maisons montrent ce qui se consolide. Avec Saturne en maison 6, le trigone v
 
 ## Combien de temps {#combien-de-temps}
 
-Mesuré comme je date les transits, de 1,5° avant l’exactitude à 1° après, le trigone met environ deux ans et huit mois à passer. Un passage avec trois contacts exacts, le cas habituel, dure environ deux ans et sept mois ; un passage avec cinq, environ deux fois sur cinq, dure environ trois ans et sept mois, quand la boucle annuelle de Pluton repasse sur le degré.
+Mesuré comme je date les transits, de 1,5° avant l’exactitude à 1° après, le trigone met environ deux ans et huit mois à passer. Avec trois contacts exacts, le cas habituel, un passage dure environ deux ans et sept mois ; avec cinq, environ deux fois sur cinq, trois ans et sept mois, quand la boucle annuelle de Pluton repasse sur le degré.
 
-Près de 4 personnes sur 5 nées entre 1930 et 2009 le vivent avant 80 ans, et environ 1 sur 9 deux fois, des deux côtés de Saturne, à un tiers de zodiaque d’écart. Saturne change de signe tous les deux ou trois ans, si bien que des personnes nées à quelques années d’écart vivent ce trigone à des âges très différents : une personne née le 1er janvier 1975 est entrée dans l’orbe à 13,9 ans, et les naissances du même jour en 1965, 1945, 1935 et 2005 à 18,8, 40,9, 46 et 56,3 ans ; 1985 attend 76,3 ans, et 1955 et 1995 ne le rencontrent pas avant 80 ans.
+Près de 4 personnes sur 5 nées entre 1930 et 2009 le vivent avant 80 ans, et environ 1 sur 9 deux fois, des deux côtés de Saturne, à un tiers de zodiaque d’écart. Saturne avance vite, et deux naissances à dix ans d’écart peuvent vivre ce trigone à des âges distants de soixante ans : une personne née le 1er janvier 1975 est entrée dans l’orbe à 13,9 ans, une du même jour en 1945 à 40,9 ans ; 1985 attend 76,3 ans, et 1955 et 1995 ne le rencontrent pas avant 80 ans.
 
-Pluton en Verseau forme ce trigone avec Saturne en Gémeaux et en Balance jusqu’au début de 2044 : les naissances de 2000 à 2003 le vivent entre 22 et 40 ans environ, celles de 1980 à 1983 entre 42 et 60 ans, celles de 1971 à 1974 entre 51 et 70 ans ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)).
+Pluton en Verseau forme ce trigone avec Saturne en Gémeaux et en Balance jusqu’au début de 2044 : les naissances de 2000 à 2003 le vivent entre 22 et 40 ans environ, celles de 1980 à 1983 entre 42 et 60 ans ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)).
 
 Un seul contact de Pluton à Saturne est plus fréquent que ce trigone : le carré ([Pluton en transit carré Saturne du thème natal](/astrology/transiting-pluto-square-natal-saturn/)), que vivent environ 6 personnes sur 7. Le sextile ([Pluton en transit sextile Saturne du thème natal](/astrology/transiting-pluto-sextile-natal-saturn/)) demande plus d’effort pour un résultat semblable, tandis que l’opposition ([Pluton en transit opposition Saturne du thème natal](/astrology/transiting-pluto-opposite-natal-saturn/)) et la conjonction ([Pluton en transit conjonction Saturne du thème natal](/astrology/transiting-pluto-conjunct-natal-saturn/)) manquent chacune la moitié des gens ou plus.
 
@@ -62,4 +62,4 @@ Terminer proprement une chose longue : la formation, la réparation, les archiv
 
 Officialiser ce qui marche. Une pratique qui a fait ses preuves peut devenir une routine, un rôle ou un accord écrit.
 
-Vérifier la nouvelle structure avec les personnes qui y vivront. Saturne bâtit pour longtemps, et ce sont les personnes qui utilisent une structure qui en voient les défauts en premier.
+Vérifier la nouvelle structure avec les personnes qui y vivront : ce sont elles qui en voient les défauts en premier.

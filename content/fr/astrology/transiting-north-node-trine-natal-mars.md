@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Nœud Nord", "Mars", "trigone", "transits"]
 weight: 1940
 glyph: "☊△♂"
-definition: "Le Nœud Nord en transit trigone Mars du thème natal, c’est un mois d’élan, deux fois par tour de 18,6 ans : le nœud en trigone à Mars dans votre thème, le Nœud Sud en sextile, et l’effort tourné vers la croissance rencontre moins de résistance. J’y lis un vent porteur, qu’il faut encore utiliser."
+definition: "Le Nœud Nord en transit trigone Mars du thème natal, c’est un mois d’élan qui revient deux fois tous les 18,6 ans. Le nœud forme un trigone avec Mars dans votre thème, le Nœud Sud un sextile, et l’effort tourné vers la croissance rencontre moins de résistance. J’y lis un vent porteur, qu’il faut encore utiliser."
 facts:
   - { k: "En transit", v: "Le Nœud Nord ☊, le nœud vrai, avec le Nœud Sud en sextile à Mars" }
   - { k: "Point natal", v: "Mars ♂ : l’initiative, l’élan et l’effort qui change les projets en faits" }

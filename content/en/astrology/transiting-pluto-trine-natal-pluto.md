@@ -37,11 +37,11 @@ A third of the zodiac on from its birth place, Pluto trines itself. For most peo
 
 ## What changes {#what-changes}
 
-Natal [Pluto](/astrology/pluto/) is your capacity to regenerate: to let what is finished end, and to come back from it stronger. At the [trine](/astrology/trine/), 120°, Pluto meets its own birth place through facilitative flow, so under this [transit](/astrology/transits/) the work of transformation feels more like support than demand. Changes forced on you at the square can now be chosen, and a strength found in hard years can be put to use, often for other people: as a mentor, a steady presence in someone else's crisis, a person who knows that endings can be lived through.
+Natal [Pluto](/astrology/pluto/) is your capacity to regenerate: to let what is finished end, and to come back from it stronger. At the [trine](/astrology/trine/), 120°, Pluto meets its own birth place through facilitative flow, so under this [transit](/astrology/transits/) the work of transformation feels more like support than demand. Changes forced on you at the square can now be chosen, and a strength found in hard years can be put to use, often for other people.
 
-Regeneration, in Pluto's own terms, is renewal after release, and that is the gift here. The trine's caution still applies, because ease isn't inevitability: a flow you never draw on simply passes. Weather, not a forecast: the trine describes conditions that favour lasting change, and leaves the change itself to you.
+Regeneration, for Pluto, is renewal after release: that is the gift here, but ease isn't inevitability, and a flow you never draw on simply passes. Weather, not a forecast: the trine describes favourable conditions, and leaves the change itself to you.
 
-People born in the mid-1960s had two trines in quick succession, at about 49 and 50: Pluto's trine to their natal Uranus ([Transiting Pluto trine natal Uranus](/astrology/transiting-pluto-trine-natal-uranus/)) and this one, because Uranus and Pluto sat side by side in Virgo at their birth; both came while Pluto crossed Capricorn. Born with [Saturn trine Pluto](/astrology/saturn-trine-pluto/) and Saturn trailing, as in many births of 1936–38 and 1970–72, you meet Pluto's trine to your Saturn in the same years.
+People born in the mid-1960s had two trines in quick succession, at about 49 and 50: Pluto's trine to their natal Uranus ([Transiting Pluto trine natal Uranus](/astrology/transiting-pluto-trine-natal-uranus/)) and this one, because Uranus and Pluto sat side by side in Virgo at their birth; both came while Pluto crossed Capricorn.
 
 With Pluto in your 11th, the trine comes from around your 3rd ([Pluto transiting the 3rd house](/astrology/pluto-transit-3rd-house/)) or your 7th: the way you speak, learn and write, or a close partnership, makes it easier to change what you do with friends and groups. The house is set by your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
@@ -49,7 +49,7 @@ With Pluto in your 11th, the trine comes from around your 3rd ([Pluto transiting
 
 Like the square before it, the trine takes its time: about two years and eight months from 1½° before exact to 1° after, my orbs, and about twenty-two months in the quickest passes. Most passes are exact three times; about two in five are exact five times.
 
-All but about 1 person in 14 born between 1930 and 2009 meet it by 80, and nobody meets it twice; the exceptions are the latest births, from the mid-2000s on, whose trine lies beyond 80. Dated by 1 January birthdays, it begins at 57.9 for 1935, 53.9 for 1945, 51 for 1955, 50.1 for 1965 and 53.1 for 1975, and at 60.2 for 1985 and 70.3 for 1995; no one met it younger than 48.6. Pluto's stretched orbit makes the difference. After a birth in the 1960s, the third of the zodiac ran through Pluto's quickest years, around its closest approach to the Sun in 1989; after a birth in the 1990s, it runs on into Aquarius and Pisces, where Pluto is slow.
+All but about 1 person in 14 born between 1930 and 2009 meet it by 80, once only; the exceptions are births from the mid-2000s on, whose trine lies beyond 80. Dated by 1 January birthdays, it begins at 57.9 for 1935, 50.1 for 1965 and 70.3 for 1995; no one met it younger than 48.6. Pluto's stretched orbit makes the difference. After a birth in the 1960s, the third of the zodiac ran through Pluto's quickest years, around its closest approach to the Sun in 1989; after a birth in the 1990s, it runs on into Aquarius and Pisces, where Pluto is slow.
 
 If you were born from 1972 to 1984, with [Pluto in Libra](/astrology/pluto-in-libra/), this trine reaches you between about 50 and 59, while Pluto is in Aquarius, until early 2044.
 
@@ -57,7 +57,7 @@ It is the last of Pluto's aspects to itself that most lives hold. The sextile ([
 
 ## What helps {#what-helps}
 
-Use what you learnt at the square. The trine is the season to apply it, at work, at home or for someone who is where you were.
+Use what you learnt at the square: the trine is the season to apply it, at work or at home.
 
 Finish a transformation you began years ago. Under this trine, the last part of a long change often goes faster than the first.
 

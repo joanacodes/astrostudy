@@ -25,7 +25,7 @@ faq:
   - q: "Le Nœud Nord carré Mars, est-ce un conflit ?"
     a: "Pas tel que je le lis. Mars est l’effort et l’affirmation, pas la colère, et un carré est une friction qui demande un ajustement. Il peut vous faire remarquer où vous poussez trop, ou pas du tout. Il n’annonce ni dispute, ni accident, ni litige, et rien de cela ne se lit dans un transit."
   - q: "Combien de temps dure le Nœud Nord carré Mars ?"
-    a: "En général un mois environ, avec mes orbes de 1,5° avant l’exactitude et 1° après ; un passage lent, quand une saison d’éclipses retient le nœud, peut durer trois mois et demi ou plus. Il revient tous les neuf ans environ, d’un côté puis de l’autre, huit ou neuf fois avant 80 ans."
+    a: "Un mois est le cas typique, en comptant de 1,5° avant l’exactitude à 1° après ; un passage lent, quand une saison d’éclipses retient le nœud, peut durer trois mois et demi ou plus. Jusqu’à 80 ans, il vient huit ou neuf fois, à neuf ans d’écart environ."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le nœud vrai tient le carré dans mes orbes, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits sur Mars dans le thème natal" }
@@ -40,7 +40,7 @@ Cela se montre souvent par trop de demandes sur la même énergie, par une habit
 
 Les deux bouts demandent à Mars des choses différentes. Du côté du Nœud Sud, l’effort suit des rails que vous suivriez les yeux fermés ; du côté du Nœud Nord, il est plus maladroit, plus lent, et il grandit. Le carré ne dit pas lequel doit l’emporter. Souvent, la réponse est un partage : garder l’effort ancien là où il rapporte encore, et donner au nouveau une part fixe et modeste.
 
-Avec [Mars en maison 7](/astrology/mars-in-7th-house/), la friction concerne souvent les partenaires et les rivaux : la force avec laquelle vous poussez dans un partenariat, votre façon de faire face à quelqu’un qui pousse en retour. Aucun transit ne dit comment finira un désaccord ou un procès ([L’astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)), et la maison 7, comme les autres, demande votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec [Mars en maison 7](/astrology/mars-in-7th-house/), la friction concerne souvent les partenaires et les rivaux : la force avec laquelle vous poussez dans un partenariat, votre façon de faire face à quelqu’un qui pousse en retour. Aucun transit ne dit comment finira un désaccord ou un procès ([L’astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)), et la maison 7, comme les autres, ne se connaît qu’avec votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

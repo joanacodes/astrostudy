@@ -46,7 +46,7 @@ In Placidus, the house system I use, the Ascendant opens the 1st house, so this 
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the crossing usually takes about ten months, and in nearly two passes out of three it is the triple crossing just described. A third are single, done in about three weeks, mostly in Chiron's fast years through Virgo and Libra; one in twenty, in its slowest stretches, loops twice, with five hits over about twenty-one months. With Aries or Taurus rising, the signs Chiron crosses from 2018 to 2034, expect the long kind.
+Nearly two passes in three are the triple crossing just described, about ten months long within my orbs of 1½° before exact and 1° after. A third are single, done in about three weeks, mostly in Chiron's fast years through Virgo and Libra; one in twenty, in its slowest stretches, loops twice, with five hits over about twenty-one months. With Aries or Taurus rising, the signs Chiron crosses from 2018 to 2034, expect the long kind.
 
 Chiron's round of about 50 years brings this crossing twice by 80 for most people and once for those whose first comes late. The age depends on where Chiron sat at your birth: high in the 12th, just above the horizon, it arrives early; just inside the 1st, it needs most of a round.
 
@@ -60,4 +60,4 @@ Watch the first thirty seconds of a meeting for a week: what you do before you h
 
 Try one new way of arriving, the greeting you would give if you weren't bracing for something.
 
-Let someone close tell you what they notice changing. The other side of the chart often sees it first.
+Let someone close tell you what they notice changing.

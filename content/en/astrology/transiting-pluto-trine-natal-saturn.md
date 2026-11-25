@@ -37,9 +37,9 @@ At 120° from your natal Saturn, Pluto supports the slow work instead of disrupt
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) integrates over the long term: it gives your life structure, sets its limits and turns effort into mastery. [Pluto](/astrology/pluto/) regenerates, removing what no longer holds so that what remains can grow stronger. A [trine](/astrology/trine/), 120°, lets Pluto's renewal run along Saturn's lines instead of across them, and each keeps its identity. Under this [transit](/astrology/transits/), a reform you have been carrying can be consolidated, a structure renovated without being torn down, an expertise deepened until it becomes authority. People often finish things under this trine: a long training, a repair, a commitment brought to its proper end.
+[Saturn](/astrology/saturn/) integrates over the long term: it gives your life structure, sets its limits and turns effort into mastery. [Pluto](/astrology/pluto/) regenerates, removing what no longer holds so that what remains can grow stronger. A [trine](/astrology/trine/), 120°, lets Pluto's renewal run along Saturn's lines instead of across them, and each keeps its identity. Under this [transit](/astrology/transits/), a reform you have been carrying can be consolidated, a structure renovated without being torn down, an expertise deepened until it becomes authority.
 
-Its risk is the one Saturn always runs with comfort: using the ease to entrench. Flow isn't passivity, and a trine that only reinforces what already exists can harden a structure that needed loosening. The question worth asking is not only what to keep but what you can now afford to change, because for once change costs less.
+Its risk is the one Saturn always runs with comfort: using the ease to entrench, and hardening a structure that needed loosening. The question worth asking is also what you can now afford to change, because for once change costs less.
 
 If [Saturn trine Pluto](/astrology/saturn-trine-pluto/) is in your chart, this transit opened your life and may return later. With Saturn as the trailing planet, as in many births of 1936–38 and 1970–72, Pluto brings the trine back about fifty years on, in step with its trine to its own birth place ([Transiting Pluto trine natal Pluto](/astrology/transiting-pluto-trine-natal-pluto/)): people born in 1971 met both between 2021 and 2023.
 
@@ -49,9 +49,9 @@ The houses show what gets consolidated. With Saturn in your 6th, the trine comes
 
 Measured the way I time transits, from 1½° before exact to 1° after, the trine takes about two years and eight months to pass. A pass with three exact hits, the usual case, takes about two years and seven months; one with five, about two passes in five, takes about three years and seven months, as Pluto's yearly loop folds back over the degree.
 
-Nearly 4 people in 5 born between 1930 and 2009 meet it by 80, and about 1 in 9 twice, from the two sides of Saturn, a third of the zodiac apart. Saturn changes sign every two or three years, so people born a few years apart meet this trine at very different ages: someone born on 1 January 1975 entered the orb at 13.9, and births on the same day in 1965, 1945, 1935 and 2005 at 18.8, 40.9, 46 and 56.3; 1985 waits until 76.3, and 1955 and 1995 don't meet it by 80.
+Nearly 4 people in 5 born between 1930 and 2009 meet it by 80, and about 1 in 9 twice, from the two sides of Saturn, a third of the zodiac apart. Saturn moves on quickly, and births ten years apart can meet this trine at ages sixty years apart: someone born on 1 January 1975 entered the orb at 13.9, and someone born the same day in 1945 at 40.9; 1985 waits until 76.3, and 1955 and 1995 don't meet it by 80.
 
-Pluto in Aquarius trines Saturns in Gemini and Libra until early 2044: births from 2000 to 2003 meet it between about 22 and 40, from 1980 to 1983 between about 42 and 60, and from 1971 to 1974 between about 51 and 70 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
+Pluto in Aquarius trines Saturns in Gemini and Libra until early 2044: births from 2000 to 2003 meet it between about 22 and 40, and from 1980 to 1983 between about 42 and 60 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
 
 Only one Pluto contact with Saturn is commoner than this trine: the square ([Transiting Pluto square natal Saturn](/astrology/transiting-pluto-square-natal-saturn/)), which about 6 people in 7 meet. The sextile ([Transiting Pluto sextile natal Saturn](/astrology/transiting-pluto-sextile-natal-saturn/)) asks more effort for a similar result, while the opposition ([Transiting Pluto opposite natal Saturn](/astrology/transiting-pluto-opposite-natal-saturn/)) and the conjunction ([Transiting Pluto conjunct natal Saturn](/astrology/transiting-pluto-conjunct-natal-saturn/)) each miss half of people or more.
 
@@ -61,4 +61,4 @@ Finish one long thing properly: the training, the repair, the archive put in ord
 
 Formalise what works. A practice that has proved itself can become a routine, a role or a written agreement.
 
-Check the new structure with the people who will live in it. Saturn builds for the long term, and those who use a structure see its flaws first.
+Check the new structure with the people who will live in it: they are the first to see its flaws.

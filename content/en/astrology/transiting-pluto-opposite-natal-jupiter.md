@@ -33,19 +33,19 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the opposition within my orbs, and who meets it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Jupiter, read one at a time" }
 ---
-When Pluto stands opposite your natal Jupiter, the planet of depth faces the part of you that hopes, believes and plans to grow. What you've taken to be true tends to meet its counterpart in someone else: a person, a teacher, an institution with convictions as strong as yours.
+When Pluto stands opposite your natal Jupiter, the planet of depth faces the part of you that hopes, believes and plans to grow. What you've taken to be true tends to meet convictions as strong as yours.
 
 ## What changes {#what-changes}
 
 [Jupiter](/astrology/jupiter/) synthesises meaning: it turns experience into principles and points you towards growth. [Pluto](/astrology/pluto/) eliminates what has become obsolete and returns real strength to what remains. An [opposition](/astrology/opposition/), 180°, relates the two through polarity, so this [transit](/astrology/transits/) works by contrast: you see your beliefs most clearly against someone else's depth. A mentor whose certainty unsettles yours, a partner who won't share your optimism, an employer whose aims aren't your aims: each holds up the other end of the axis.
 
-Pluto's blind spot is confusing intensity with truth, and here it can sit on either side. A conviction held with force isn't proven by the force, yours or theirs, and Jupiter's own boundary is worth keeping in view: a belief is not a dogma. Many people come out of this opposition with fewer beliefs, held more firmly.
+Pluto's blind spot is confusing intensity with truth, and here it can sit on either side. A conviction held with force isn't proven by the force, and Jupiter's own boundary is worth keeping in view: a belief is not a dogma. Many people come out of this opposition with fewer beliefs, held more firmly.
 
 Tradition gave Jupiter the law and religion. I read it as meaning and growth, and I never read a transit for a court case, a contract or how either will turn out ([disclaimers](/disclaimers/#refusals)).
 
-Born with [Jupiter opposite Pluto](/astrology/jupiter-opposite-pluto/), you had this transit at the start of life, if at all: Pluto already stood near the far end of your Jupiter and left it within a few years. For everyone else, the meeting is new.
+Born with [Jupiter opposite Pluto](/astrology/jupiter-opposite-pluto/), you had this transit at the start of life, if at all: Pluto already stood near the far end of your Jupiter and left it within a few years.
 
-The two houses of the axis say where the weighing happens. With Jupiter in your 3rd, Pluto opposes it from your 9th ([Pluto transiting the 9th house](/astrology/pluto-transit-9th-house/)): what you've picked up day by day meets a larger system of thought that asks to be taken seriously, or questioned. With Jupiter in the 7th and Pluto crossing the 1st, your own changes face the partner who has carried your hopes. Without the birth time there is no telling which houses the axis joins ([what changes without a birth time](/blog/unknown-birth-time/)).
+The two houses of the axis say where the weighing happens. With Jupiter in your 3rd, Pluto opposes it from your 9th ([Pluto transiting the 9th house](/astrology/pluto-transit-9th-house/)): what you've picked up day by day meets a larger system of thought that asks to be taken seriously, or questioned. Without the birth time there is no telling which houses the axis joins ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
@@ -53,14 +53,14 @@ With the orbs I use for timing, from 1½° before exact to 1° after, the opposi
 
 About 3 people in 5 born between 1930 and 2009 never meet it by 80: a life shows only part of Pluto's 248-year circle, and the far end of your Jupiter may lie outside it. Take births on 1 January: 1965 met it at 24, 1955 at 65.2 and 2005 at 76.4, while 1935, 1945, 1975, 1985 and 1995 reach 80 without it. Nobody meets it twice.
 
-Until early 2044, Pluto in Aquarius opposes Jupiters in Leo, a sign Jupiter visits for about a year in every twelve. The people meeting it now span the generations: born in 2002–03, between about 21 and 40; in 1990–91, between about 33 and 52; in 1978–79, between about 44 and 64; in 1966–68, between about 56 and 75.
+Until early 2044, Pluto in Aquarius opposes Jupiters in Leo, a sign Jupiter visits for about a year in every twelve. The people meeting it now span the generations: born in 2002–03, between about 21 and 40, in 1966–68, between about 56 and 75, and in the years of Jupiter in Leo between them.
 
-Far more people meet Pluto's square to Jupiter ([Transiting Pluto square natal Jupiter](/astrology/transiting-pluto-square-natal-jupiter/)), about 7 in 8, and about 3 in 4 meet the sextile ([Transiting Pluto sextile natal Jupiter](/astrology/transiting-pluto-sextile-natal-jupiter/)) or the trine ([Transiting Pluto trine natal Jupiter](/astrology/transiting-pluto-trine-natal-jupiter/)). Only the conjunction ([Transiting Pluto conjunct natal Jupiter](/astrology/transiting-pluto-conjunct-natal-jupiter/)) comes close to this one for rarity.
+Far more people meet the square ([Transiting Pluto square natal Jupiter](/astrology/transiting-pluto-square-natal-jupiter/)), about 7 in 8, and about 3 in 4 meet the sextile ([Transiting Pluto sextile natal Jupiter](/astrology/transiting-pluto-sextile-natal-jupiter/)) or the trine ([Transiting Pluto trine natal Jupiter](/astrology/transiting-pluto-trine-natal-jupiter/)). Only the conjunction ([Transiting Pluto conjunct natal Jupiter](/astrology/transiting-pluto-conjunct-natal-jupiter/)) comes close to this one for rarity.
 
 ## What helps {#what-helps}
 
 Argue with the strongest version of the other view, in writing if you can. Under an opposition you learn your own position by stating theirs fairly.
 
-Notice whom you hand your hopes to. A teacher, a partner or an employer can carry them for a while; this transit asks you to take back the part that is yours.
+Notice whom you hand your hopes to: this transit asks you to take back the part that is yours.
 
 Let a new conviction prove itself over the whole season before you build on it. What still convinces you after the last exact hit is worth keeping.

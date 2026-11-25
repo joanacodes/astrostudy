@@ -5,6 +5,8 @@ description: "Transiting Pluto trine natal Sun: two to three years when deep cha
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "Sun", "trine", "transits"]
 weight: 1801
 glyph: "♇△☉"
 definition: "Transiting Pluto trine natal Sun gives deep change an easier passage, with Pluto 120° from your birth Sun for about two years and eight months. Renewing your purpose meets less resistance than usual, if you use the ease. A little over 1 person in 5 never meets either trine by 80; about 1 in 9 meets both."
@@ -41,7 +43,7 @@ Pluto's blind spot here is confusing exposure with humiliation. Real change show
 
 Flow is not passivity, though. The trine carries what you set moving, and carries nothing otherwise.
 
-The current runs between the house of your Sun and the one Pluto is crossing, about four houses away. With the Sun in your 6th, the trine often comes from around your 2nd, so your resources, skills and values support a change in your daily work ([Pluto transiting the 2nd house](/astrology/pluto-transit-2nd-house/)). A recorded birth time settles which houses they are, and I ask for one before anything else ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Sun trine Pluto](/astrology/sun-trine-pluto/), you carry the angle itself, an ease with depth that a transit can echo for a few years but never replaces.
+From four houses away, the trine brings support from another part of life. A Sun in the 6th receives it from around the 10th or the 2nd; from the 2nd, resources, skills and values back a change in daily work ([Pluto transiting the 2nd house](/astrology/pluto-transit-2nd-house/)). A recorded birth time settles which houses they are, and I ask for one before anything else ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Sun trine Pluto](/astrology/sun-trine-pluto/), you carry the angle itself, an ease with depth that a transit can echo for a few years but never replaces.
 
 ## How long it lasts {#how-long-it-lasts}
 

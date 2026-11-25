@@ -34,19 +34,19 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient l’opposition dans mes orbes, et qui la rencontre avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Jupiter, lus un à un" }
 ---
-Quand Pluton se tient face à la place de Jupiter dans votre thème natal, la planète de la profondeur fait face à la part de vous qui espère, croit et veut grandir. Ce que vous teniez pour vrai rencontre souvent son pendant chez quelqu’un d’autre : une personne, un enseignement, une institution aux convictions aussi fortes que les vôtres.
+Quand Pluton se tient face à la place de Jupiter dans votre thème natal, la planète de la profondeur fait face à la part de vous qui espère, croit et veut grandir. Ce que vous teniez pour vrai rencontre souvent des convictions aussi fortes que les vôtres.
 
 ## Ce qui change {#ce-qui-change}
 
-[Jupiter](/astrology/jupiter/) fait la synthèse du sens : l’expérience devient principes, et la croissance trouve une direction. [Pluton](/astrology/pluto/) élimine ce qui est devenu obsolète et rend une force réelle à ce qui reste. Une [opposition](/astrology/opposition/), à 180°, relie les deux par la polarité : ce [transit](/astrology/transits/) agit par contraste, et vos convictions se voient le mieux contre la profondeur de quelqu’un d’autre. Une personne qui vous guide et dont la certitude ébranle la vôtre, un partenaire qui ne partage pas votre optimisme, un employeur dont les buts ne sont pas les vôtres : chacun tient l’autre bout de l’axe.
+[Jupiter](/astrology/jupiter/) fait la synthèse du sens : l’expérience devient principes, et la croissance trouve une direction. [Pluton](/astrology/pluto/) élimine ce qui est devenu obsolète et rend une force réelle à ce qui reste. Une [opposition](/astrology/opposition/), à 180°, relie les deux par la polarité : ce [transit](/astrology/transits/) agit par contraste, et vos convictions se voient le mieux contre la profondeur de quelqu’un d’autre. Une personne qui vous guide et dont la certitude ébranle la vôtre, une ou un partenaire qui ne partage pas votre optimisme, un employeur dont les buts ne sont pas les vôtres : chacun tient l’autre bout de l’axe.
 
-L’angle mort de Pluton, c’est de confondre l’intensité avec la vérité, et ici il peut se trouver d’un côté comme de l’autre. Une conviction tenue avec force n’est pas prouvée par cette force, la vôtre ou celle d’en face, et la limite propre à Jupiter mérite d’être gardée en vue : une croyance n’est pas un dogme. Beaucoup de gens sortent de cette opposition avec moins de convictions, mais plus solides.
+L’angle mort de Pluton, c’est de confondre l’intensité avec la vérité, et ici il peut se trouver d’un côté comme de l’autre. Une conviction tenue avec force n’est pas prouvée par cette force, et la limite propre à Jupiter mérite d’être gardée en vue : une croyance n’est pas un dogme. Beaucoup de gens sortent de cette opposition avec moins de convictions, mais plus solides.
 
 La tradition a donné à Jupiter la loi et la religion. J’y lis le sens et la croissance, et je ne lis jamais un transit pour un procès, un contrat ou leur issue ([avertissements](/disclaimers/#refusals)).
 
-Si votre thème porte [Jupiter opposition Pluton](/astrology/jupiter-opposite-pluto/), vous avez eu ce transit au tout début de la vie, ou jamais : Pluton se trouvait déjà près de l’autre bout de l’axe et l’a quitté en quelques années. Pour tous les autres, la rencontre est nouvelle.
+Si votre thème porte [Jupiter opposition Pluton](/astrology/jupiter-opposite-pluto/), vous avez eu ce transit au tout début de la vie, ou jamais : Pluton se trouvait déjà près de l’autre bout de l’axe et l’a quitté en quelques années.
 
-Les deux maisons de l’axe disent où se fait la pesée. Avec Jupiter en maison 3, l’opposition vient de la maison 9 ([Pluton en transit en maison 9](/astrology/pluto-transit-9th-house/)) : ce que vous avez appris au fil des jours rencontre un système de pensée plus vaste, qui demande à être pris au sérieux, ou interrogé. Avec Jupiter en maison 7 et Pluton qui traverse la maison 1, vos propres changements font face à la personne qui a porté vos espoirs. Sans l’heure de naissance, on ne peut pas savoir quelles maisons l’axe relie ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les deux maisons de l’axe disent où se fait la pesée. Avec Jupiter en maison 3, l’opposition vient de la maison 9 ([Pluton en transit en maison 9](/astrology/pluto-transit-9th-house/)) : ce que vous avez appris au fil des jours rencontre un système de pensée plus vaste, qui demande à être pris au sérieux, ou interrogé. Sans l’heure de naissance, on ne peut pas savoir quelles maisons l’axe relie ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
@@ -54,14 +54,14 @@ Avec les orbes que j’utilise pour dater, de 1,5° avant l’exactitude à 1° 
 
 Environ 3 personnes sur 5 nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans : une vie ne montre qu’une partie du cercle de 248 ans de Pluton, et le point opposé à Jupiter peut se trouver en dehors. Prenons les naissances d’un 1er janvier : 1965 l’a vécue à 24 ans, 1955 à 65,2 ans, et 2005 la vivra à 76,4 ans, tandis que 1935, 1945, 1975, 1985 et 1995 atteignent 80 ans sans elle. Personne ne la vit deux fois.
 
-Jusqu’au début de 2044, Pluton en Verseau s’oppose à Jupiter en Lion, un signe que Jupiter visite environ un an tous les douze ans. Les personnes qui la vivent maintenant appartiennent donc à plusieurs générations : nées en 2002-2003, entre 21 et 40 ans environ ; en 1990-1991, entre 33 et 52 ans ; en 1978-1979, entre 44 et 64 ans ; en 1966-1968, entre 56 et 75 ans.
+Jusqu’au début de 2044, Pluton en Verseau s’oppose à Jupiter en Lion, un signe que Jupiter visite environ un an tous les douze ans. Les personnes qui la vivent maintenant appartiennent donc à plusieurs générations : nées en 2002-2003, entre 21 et 40 ans environ, en 1966-1968, entre 56 et 75 ans, et les années de Jupiter en Lion entre les deux.
 
-Bien plus de gens connaissent le carré de Pluton à Jupiter ([Pluton en transit carré Jupiter du thème natal](/astrology/transiting-pluto-square-natal-jupiter/)), environ 7 sur 8, et environ 3 sur 4 le sextile ([Pluton en transit sextile Jupiter du thème natal](/astrology/transiting-pluto-sextile-natal-jupiter/)) ou le trigone ([Pluton en transit trigone Jupiter du thème natal](/astrology/transiting-pluto-trine-natal-jupiter/)). Seule la conjonction ([Pluton en transit conjonction Jupiter du thème natal](/astrology/transiting-pluto-conjunct-natal-jupiter/)) approche cette opposition en rareté.
+Bien plus de gens connaissent le carré ([Pluton en transit carré Jupiter du thème natal](/astrology/transiting-pluto-square-natal-jupiter/)), environ 7 sur 8, et environ 3 sur 4 le sextile ([Pluton en transit sextile Jupiter du thème natal](/astrology/transiting-pluto-sextile-natal-jupiter/)) ou le trigone ([Pluton en transit trigone Jupiter du thème natal](/astrology/transiting-pluto-trine-natal-jupiter/)). Seule la conjonction ([Pluton en transit conjonction Jupiter du thème natal](/astrology/transiting-pluto-conjunct-natal-jupiter/)) approche cette opposition en rareté.
 
 ## Ce qui aide {#ce-qui-aide}
 
 Discuter avec la version la plus forte du point de vue opposé, par écrit si possible. Sous une opposition, on apprend sa propre position en exposant honnêtement celle de l’autre.
 
-Remarquer à qui vous confiez vos espoirs. Une personne qui enseigne, qui partage votre vie ou qui vous emploie peut les porter un temps ; ce transit vous demande de reprendre la part qui vous revient.
+Remarquer à qui vous confiez vos espoirs : ce transit vous demande d’en reprendre la part qui vous revient.
 
 Laisser une nouvelle conviction faire ses preuves sur toute la saison avant de bâtir dessus. Ce qui vous convainc encore après le dernier passage exact mérite d’être gardé.

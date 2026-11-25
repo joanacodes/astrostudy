@@ -39,7 +39,7 @@ The openings are practical: a training you could start, a role that asks for som
 
 With your [Mars in the 3rd house](/astrology/mars-in-3rd-house/), the house of everyday words, short journeys, brothers and sisters, the opening may be as simple as saying what you think, sooner, or learning something hands-on close to home. That house, like all of them, is drawn from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-A transit to Mars also reaches the houses Mars rules: the one with Aries on its cusp, and the one with Scorpio, whose rulers are Mars in tradition and Pluto in modern tropical astrology. I read both, so this sextile can open a door in either of those houses as well.
+A transit to Mars also reaches the houses Mars rules: the one with Aries on its cusp, and the one with Scorpio, whose two rulers I read together, Mars from the tradition and Pluto from modern tropical astrology. So this sextile can open a door in either of those houses as well.
 
 Mars in Virgo or Capricorn, for example, gets its next sextile in the node's Scorpio years, March 2031 to December 2032, with the exact month set by the degree of your Mars.
 
@@ -47,7 +47,7 @@ Mars in Virgo or Capricorn, for example, gets its next sextile in the node's Sco
 
 Usually the sextile holds for about a month, counting 1½° before exact and 1° after. The true node moves at the Sun's bidding, fastest when the Sun is 90° from the nodes and almost still when the Sun lines up with them, so the quickest passes are done in three and a half weeks and the slowest, in an eclipse season, take three and a half months or more. About one in twenty-five has three exact contacts.
 
-Two sextiles fall in each round, one either side of the conjunction ([Transiting North Node conjunct natal Mars](/astrology/transiting-north-node-conjunct-natal-mars/)), so most people meet nine of them by 80 and nobody fewer than eight; [Transiting North Node square natal Mars](/astrology/transiting-north-node-square-natal-mars/), [Transiting North Node trine natal Mars](/astrology/transiting-north-node-trine-natal-mars/) and [Transiting North Node opposite natal Mars](/astrology/transiting-north-node-opposite-natal-mars/) fill the rest of the round. If you were born with [Mars sextile North Node](/astrology/mars-sextile-north-node/), add your nodal returns, at about 18½, 37 and 56, to the list.
+Two sextiles fall in each round, one either side of the conjunction ([Transiting North Node conjunct natal Mars](/astrology/transiting-north-node-conjunct-natal-mars/)), so by 80 the count is nine for most people and never below eight; [Transiting North Node square natal Mars](/astrology/transiting-north-node-square-natal-mars/), [Transiting North Node trine natal Mars](/astrology/transiting-north-node-trine-natal-mars/) and [Transiting North Node opposite natal Mars](/astrology/transiting-north-node-opposite-natal-mars/) fill the rest of the round. If you were born with [Mars sextile North Node](/astrology/mars-sextile-north-node/), add your nodal returns, in your late teens, your late thirties and your mid-fifties, to the list.
 
 ## What helps {#what-helps}
 
