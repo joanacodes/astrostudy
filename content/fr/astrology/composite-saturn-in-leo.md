@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Saturne", "Lion", "thème composite"]
 weight: 2125
 glyph: "♄♌"
-definition: "Saturne composite en Lion situe Saturne, dans le thème d’une relation, au mi-point de deux positions natales, en feu fixe gouverné par le Soleil : l’un de ses deux signes d’exil. Ce placement décrit un lien qui prend au sérieux sa joie, sa loyauté et sa vie créative, et qui apprend que le plaisir n’a pas à se mériter."
+definition: "Saturne composite en Lion met de la retenue dans le signe du Soleil : le mi-point de deux positions natales tombe en feu fixe, l’un des deux exils de la planète. Ce placement décrit un lien qui prend au sérieux sa joie, sa loyauté et sa vie créative, et qui apprend que le plaisir n’a pas à se mériter."
 facts:
   - { k: "Corps", v: "Saturne composite ♄, au mi-point le plus proche des positions de Saturne dans vos deux thèmes" }
   - { k: "Signe", v: "Lion ♌, feu fixe, gouverné par le Soleil" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/saturn-in-leo", "/astrology/leo", "/astrology/detriment", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que veut dire Saturne composite en Lion ?"
-    a: "De la loyauté et de la fierté, surtout. Le sens du devoir de Saturne tombe ici dans le signe de l’expression et de la chaleur : les astrologues y lisent un lien qui prend au sérieux ses fêtes et ses projets communs, et qui doit apprendre qu’il a le droit de s’amuser. C’est une manière, pas un avenir."
+    a: "De la loyauté et de la fierté, surtout. Le sens du devoir de Saturne tombe ici dans le signe de l’expression et de la chaleur : les astrologues y lisent un lien qui prend au sérieux ses fêtes et ses projets communs, et qui doit apprendre qu’il a le droit de s’amuser. Une manière, donc, pas un destin."
   - q: "Pourquoi dit-on que Saturne est en exil dans le Lion ?"
     a: "Parce que le Lion fait face au Verseau, signe traditionnel de Saturne, et que la tradition dit en exil une planète dans le signe opposé au sien. La prudence s’y accorde mal avec le rayonnement. Dans un composite, cela se lit comme une leçon sur le jeu et la fierté, jamais comme une relation condamnée."
   - q: "Saturne composite en Lion, est-ce fréquent ?"

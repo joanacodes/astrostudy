@@ -1,7 +1,7 @@
 ---
 title: "Composite Chiron in Scorpio"
 h1: "Composite Chiron in Scorpio: the relationship’s chart"
-description: "Composite Chiron in Scorpio: a relationship tender about trust and exposure, how it learns what to open and what to guard, its two rulers and who has it."
+description: "Composite Chiron in Scorpio: a relationship tender about trust and exposure, how it learns what to open and what to guard, its two rulers and its birth years."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "Scorpio", "composite chart"]
 weight: 2224
 glyph: "⚷♏"
-definition: "Composite Chiron in Scorpio sets the Chiron of a relationship chart, halfway between two natal Chirons, in fixed water, the sign ruled by Pluto and traditionally by Mars. Astrologers read a bond tender about trust, power and exposure, which learns gradually what can be opened and what stays guarded. About 1 pair in 22 has it."
+definition: "Composite Chiron in Scorpio sets the Chiron of a relationship chart, halfway between two natal Chirons, in fixed water, the sign ruled by Pluto and traditionally by Mars. Astrologers read a bond tender about trust, power and exposure, which learns gradually what can be opened and what stays guarded. It is uncommon, at about 1 pair in 22."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷, the nearer midpoint of your two natal Chirons" }
   - { k: "Sign", v: "Scorpio ♏, fixed water, ruled by Pluto and, traditionally, Mars" }
@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Chiron falls in Scorpio, and the birth years that give it to pairs of the same age" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Scorpio as a sign of Mars" }
 ---
-Some pairs share a bank account and the keys to everything, yet never say what frightens them; others confide all their fears and won't share a drawer. Composite Chiron in Scorpio makes trust the relationship's tender spot, and describes the careful way two people decide, together, what can be opened.
+Some pairs share a bank account and the keys to everything, yet never say what frightens them; others confide all their fears and won't share a drawer. Trust is where composite Chiron in Scorpio is tender, and deciding together what can be opened is how such a pair adapts.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -37,7 +37,7 @@ Some pairs share a bank account and the keys to everything, yet never say what f
 
 The sign has two rulers, [Pluto](/astrology/pluto/) in modern tropical astrology and [Mars](/astrology/mars/) in the tradition, and I read both: in a composite each is a midpoint too, and where they fall shows where the bond does its work on trust. Two people who trust easily elsewhere can find that, together, everything feels weighty; two guarded people can find in each other the one place to set the armour down. Trust gets built the slow way: confidences offered a little at a time, agreements about what stays between the two of you, crises met side by side and talked over afterwards.
 
-In two million pairs of birth dates drawn from 1930 to 2009, about 1 pair in 22 had it, few by the standards of composite Chiron. Its same-age pairs come from the births of November 1946 to November 1948 and of December 1996 to September 1999. Most others are a few years apart: born in June 1994 and June 2003, two people have Chirons at about 5° Virgo and 17° Capricorn, and halfway between lies about 11° Scorpio. A handful arrive across a whole generation, from two Chirons nearly opposite. Born in July 1955 and April 1992, two people have theirs at about 3° Aquarius and 3° Leo, and the composite lands at about 3° Scorpio or 3° Taurus, depending on the days.
+About 1 pair in 22 has it, few by the standards of composite Chiron, in a count of two million random pairs born from 1930 to 2009. Its same-age pairs come from the births of November 1946 to November 1948 and of December 1996 to September 1999. Most others are a few years apart: halfway between Chiron at about 5° Virgo (June 1994) and at about 17° Capricorn (June 2003) lies about 11° Scorpio. A handful arrive across a whole generation, from two Chirons nearly opposite, like 3° Aquarius in July 1955 and 3° Leo in April 1992: the composite then sits at about 3° Scorpio, or at 3° Taurus, depending on the days.
 
 A person born with [Chiron in Scorpio](/astrology/chiron-in-scorpio/) keeps a guard of their own. The composite's guard is held jointly, so that one person's privacy and the other's questions are two halves of the same caution.
 

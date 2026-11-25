@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "Taurus", "composite chart"]
 weight: 2218
 glyph: "⚷♉"
-definition: "Composite Chiron in Taurus means the midpoint of two people’s natal Chirons, the Chiron of their relationship chart, falls in Venus’s earthy, slow-moving sign. Astrologers read the bond’s sore spot as worth and security, and see the pair building solid ground slowly, by practical means. Roughly 1 pair in 8 has it."
+definition: "Composite Chiron in Taurus means the midpoint of two people’s natal Chirons, the Chiron of their relationship chart, falls in Venus’s earthy, slow-moving sign. Astrologers read the bond’s sore spot as worth and security, and see the pair building solid ground slowly, by practical means. Chiron’s long stays in Taurus give it to roughly 1 pair in 8."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷, halfway between your two natal Chirons" }
   - { k: "Sign", v: "Taurus ♉, fixed earth, ruled by Venus" }
@@ -29,15 +29,15 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Chiron falls in Taurus, and the birth years that give it to pairs of the same age" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "a count of birth charts only, never of composites" }
 ---
-Some relationships keep testing the floor beneath them: whether there is enough, whether it will hold, whether the two of them are worth the trouble. Composite Chiron in Taurus makes that question the bond's tender spot, and describes the slow, hands-on steadiness the pair puts together in answer.
+Some relationships keep testing the floor beneath them: whether there is enough, whether it will hold, whether the two of them are worth the trouble. That testing is what composite Chiron in Taurus is about, and so is the slow, hands-on steadiness a pair puts together in answer.
 
 ## What it says about the two of you {#what-it-says}
 
-[Chiron](/astrology/chiron/) doesn't remove a limit; it finds a way to live and work around one, and the finding becomes a skill. Its place in [the composite chart](/astrology/composite-chart/), drawn from the midpoints of two birth charts, shows where the relationship meets a limit of its own. [Taurus](/astrology/taurus/), fixed earth ruled by [Venus](/astrology/venus/), sets it among the things that make a bond feel solid: worth, comfort, the pace of shared life, what the two of you own and look after. The sore spot is often a doubt about footing, as if the relationship had to earn the right to settle.
+[Chiron](/astrology/chiron/) doesn't remove a limit; it finds a way to live and work around one, and the finding becomes a skill. Placed in [the composite chart](/astrology/composite-chart/), the chart of the relationship itself, it marks a limit the bond keeps meeting. [Taurus](/astrology/taurus/), fixed earth ruled by [Venus](/astrology/venus/), sets it among the things that make a bond feel solid: worth, comfort, the pace of shared life, what the two of you own and look after. The sore spot is often a doubt about footing, as if the relationship had to earn the right to settle.
 
 This is where the composite earns its keep as a technique: the worry about footing may not show in either birth chart at all, only in the chart the two of you make together. What it describes is the pair's own adapting: security assembled piece by piece rather than waited for, a Sunday routine kept for years, a home furnished one chair at a time, a habit of asking what something is worth to both of you before deciding.
 
-About 1 pair in 8 has it: in two million pairs of birth dates drawn from 1930 to 2009, only Aries and Pisces came up more often. Same-generation pairs get it with no gap at all: everyone born between May 1976 and April 1984 has Chiron in Taurus, so any two of them have it in their composite too, like the couples born together in the early 1930s, now in their nineties. A friendship between someone born in June 1970 and someone born in June 1985 reaches it from either side, with Chirons at about 10° Aries and 10° Gemini and the composite's at about 10° Taurus. In fact any Chiron in Aries paired with any Chiron in Gemini meets the other halfway in Taurus.
+Only Aries and Pisces beat it: Taurus came up for about 1 pair in 8 when two million birth dates from 1930 to 2009 were paired at random. Same-generation pairs get it with no gap at all: everyone born between May 1976 and April 1984 has Chiron in Taurus, so any two of them have it in their composite too, like the couples born together in the early 1930s, now in their nineties. A friendship between someone born in June 1970 and someone born in June 1985 reaches it from either side, with Chirons at about 10° Aries and 10° Gemini and the composite's at about 10° Taurus. In fact any Chiron in Aries paired with any Chiron in Gemini meets the other halfway in Taurus.
 
 [Chiron in Taurus](/astrology/chiron-in-taurus/), in a single birth chart, belongs to one person and their own sense of worth. Here the worth in question is the relationship's, and the lesson can arrive as a request for more security that sounds, to the other person, like a demand for proof.
 

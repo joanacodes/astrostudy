@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Saturn", "Leo", "composite chart"]
 weight: 2125
 glyph: "♄♌"
-definition: "Composite Saturn in Leo is the Saturn of a relationship’s chart, the midpoint of two natal Saturns, in fixed fire ruled by the Sun, one of its two signs of detriment. It describes a bond that takes its joy, loyalty and creative life seriously, and learns that pleasure needn’t be earned."
+definition: "Composite Saturn in Leo puts restraint into the Sun’s own sign: the midpoint of two natal Saturns lands in fixed fire, one of Saturn’s two signs of detriment. It describes a bond that takes its joy, loyalty and creative life seriously, and learns that pleasure needn’t be earned."
 facts:
   - { k: "Body", v: "Composite Saturn ♄, the nearer midpoint of your two natal Saturns" }
   - { k: "Sign", v: "Leo ♌, fixed fire, ruled by the Sun" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/saturn-in-leo", "/astrology/leo", "/astrology/detriment", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does composite Saturn in Leo mean?"
-    a: "Loyalty and pride, mostly. In the relationship’s chart, Saturn’s sense of duty falls in the sign of expression and warmth, so astrologers read a bond that takes its celebrations and shared projects seriously, and may need to learn that enjoying itself is allowed. It describes the relationship’s manner, not its future."
+    a: "Loyalty and pride, mostly. In the relationship’s chart, Saturn’s sense of duty falls in the sign of expression and warmth, so astrologers read a bond that takes its celebrations and shared projects seriously, and may need to learn that enjoying itself is allowed. Manner, then, not destiny."
   - q: "Why is Saturn in detriment in Leo?"
     a: "Because Leo faces Aquarius, one of Saturn’s two traditional signs, and tradition says a planet in the sign opposite its own is in detriment. Saturn’s caution sits awkwardly with Leo’s radiance. In a composite, that reads as a lesson about play and pride, never as a sign that the relationship is doomed."
   - q: "Is composite Saturn in Leo common?"

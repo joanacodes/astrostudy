@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Saturne", "Scorpion", "thème composite"]
 weight: 2128
 glyph: "♄♏"
-definition: "Saturne composite en Scorpion décrit un thème de relation où le mi-point des deux positions natales de Saturne se trouve en eau fixe, signe gouverné par Mars et par Pluton. Les astrologues y lisent un lien dont la structure est une confiance gagnée lentement : confidences gardées, vie commune consolidée, loyauté qui tient sous la pression."
+definition: "Saturne composite en Scorpion fait entrer la planète de l’engagement en eau fixe, sous la maîtrise de Mars et de Pluton, au mi-point de deux positions natales de Saturne. Les astrologues y lisent un lien dont la structure est une confiance gagnée lentement : confidences gardées, vie commune consolidée, loyauté qui tient sous la pression."
 facts:
   - { k: "Corps", v: "Saturne composite ♄, au mi-point le plus proche de vos deux positions natales de Saturne" }
   - { k: "Signe", v: "Scorpion ♏, eau fixe, gouverné par Mars et par Pluton" }
@@ -37,7 +37,7 @@ La confiance, pour cette relation, est un long apprentissage. Saturne composite 
 
 Dans un composite, [Saturne](/astrology/saturn/) porte le poids de long terme d’une relation, les engagements qu’elle ne peut pas poser facilement. En [Scorpion](/astrology/scorpio/), eau fixe, ce poids se pose sur la confiance. S’engager veut dire garder les confidences, consolider une vie commune pièce par pièce, et tenir une loyauté sous la pression. Les règles du lien portent souvent sur ce qui reste entre vous : ce que vous ne dites à personne d’autre, les décisions prises sans conseil extérieur. [Le thème composite](/astrology/composite-chart/) lit tout cela comme le caractère de la relation, pas comme le tempérament de l’une ou l’autre personne.
 
-Le Scorpion a deux maîtres, Mars dans la tradition et Pluton en astrologie tropicale moderne ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)), et je lis les deux dans tout thème. Appliquée à un composite, cette habitude veut dire regarder Mars composite, pour la façon dont le lien agit et se défend, et Pluton composite, pour sa façon de changer avec le temps. La tradition ne donne à Saturne aucune dignité en Scorpion, ni domicile ni faiblesse : la lecture repose donc sur la manière du signe, la profondeur d’abord, la surface ensuite.
+Je lis les deux maîtres du Scorpion dans tout thème : Mars, qui tenait le signe dans la tradition, et Pluton, son maître pour l’astrologie tropicale moderne ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Appliquée à un composite, cette habitude veut dire regarder Mars composite, pour la façon dont le lien agit et se défend, et Pluton composite, pour sa façon de changer avec le temps. La tradition ne donne à Saturne aucune dignité en Scorpion, ni domicile ni faiblesse : la lecture repose donc sur la manière du signe, la profondeur d’abord, la surface ensuite.
 
 La plupart des paires qui l’ont, environ 1 sur 13 parmi deux millions tirées des naissances de 1930 à 2009, sont du même âge, les deux personnes nées entre octobre 1953 et octobre 1956, ou entre novembre 1982 et novembre 1985. Les paires qui ont un écart d’âge y arrivent autrement, par deux positions de Saturne qui encadrent le Scorpion, et leur lien peut alors se montrer plus patient avec la confiance que chaque personne ne l’est seule. C’est le composite à l’œuvre : la relation a sa propre position de Saturne, que ni l’une ni l’autre personne n’apporte seule dans une pièce.
 

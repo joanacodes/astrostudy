@@ -5,6 +5,8 @@ description: "Composite Lilith in Leo: a relationship’s hidden pride and wish 
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Lilith", "Leo", "composite chart"]
 weight: 2245
 glyph: "⚸♌"
 definition: "Composite Lilith in Leo is the relationship chart’s Black Moon Lilith, at the midpoint of two natal mean Liliths, in fixed fire, the Sun’s sign. Astrologers read it as the bond’s hidden wish to be seen whole: a pride and a delight in itself that it may keep quiet, and a refusal to make itself smaller for anyone’s comfort."

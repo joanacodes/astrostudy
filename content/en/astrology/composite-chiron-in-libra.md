@@ -21,7 +21,7 @@ faq:
   - q: "What does composite Chiron in Libra mean?"
     a: "The relationship’s own chart has Chiron in the sign of partnership and balance, so the bond’s sore spot is equality: whether both people stand level in it, whether its give and take is fair. Astrologers read a pair that adapts by negotiating, with agreements spelled out and turns taken, rather than assuming fairness."
   - q: "Why is composite Chiron in Libra the rarest?"
-    a: "Chiron races through Libra, about two years on each pass, so few people are born with it there and few midpoints fall in it. In two million random pairs born 1930–2009 it came up for about 1 pair in 26, less often than any other sign."
+    a: "Libra is where Chiron travels fastest, near the point of its orbit closest to the Sun, so it stays only about two years and few births, or midpoints, fall there. In two million random pairs born 1930–2009 it came up for about 1 pair in 26, less often than any other sign."
   - q: "Can composite Chiron flip between Libra and Aries?"
     a: "Yes, when the two natal Chirons stand almost exactly opposite each other, one in Cancer and one in Capricorn. A composite takes the nearer of the two midpoints, and a fraction of a degree decides which side that is, so a pair can sit right on the line between Libra and Aries."
 sources:
@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Chiron falls in Libra, and the birth years that give it to pairs of the same age" }
   - { title: "“Chiron Apmag March-April 1996”, JPL Horizons, in Wikipedia: 2060 Chiron", url: "https://en.wikipedia.org/wiki/2060_Chiron", note: "Chiron’s perihelion in 1996, and in 1945" }
 ---
-Every bond has its imbalances: one earns more, one is older, one carries more of the family, one gives way more often. Composite Chiron in Libra makes those imbalances the relationship's tender spot, and describes the fairness two people learn to build on purpose.
+Every bond has its imbalances: one earns more, one is older, one carries more of the family, one gives way more often. When composite Chiron is in Libra, those imbalances become the relationship's tender spot, and fairness turns into something two people build on purpose.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -37,7 +37,7 @@ Every bond has its imbalances: one earns more, one is older, one carries more of
 
 A difference of this kind belongs to the two of you together, which is why the composite is the place to read it rather than either birth chart. No one has to be unfair for it to come up: fifteen years between two birthdays, or two very different salaries, are enough to make the scales a subject. What the bond learns is negotiation as a craft: agreements made out loud, turns taken on purpose, decisions that rotate rather than default to whoever cares most. Having had to invent their own fairness, such pairs are often asked to referee other people's disputes.
 
-Libra is the rarest sign for composite Chiron: about 1 pair in 26, in two million pairs of birth dates drawn from 1930 to 2009. Chiron raced through it in about two years each time, passing its perihelion, the point of its orbit nearest the Sun, inside Libra in 1945 and again in 1996, so only the births of November 1944 to November 1946 and of September 1995 to September 1997 give it to same-age pairs. Most pairs who have it are some years apart. Born in June 1992 and June 2000, two people have Chirons at about 7° Leo and 13° Sagittarius, and their composite Chiron is at about 10° Libra. The scales, Libra's own image, fit the way some others get here. Born in July 1939 and April 1952, two people have Chirons at about 13° Cancer and 12° Capricorn, almost exactly opposite, and the composite, which takes the nearer of the two midpoints, tips into Libra or into Aries depending on the days.
+Libra is the rarest sign for composite Chiron: of two million random pairs born between 1930 and 2009, about 1 in 26 had it. Chiron raced through it in about two years each time, passing its perihelion, the point of its orbit nearest the Sun, inside Libra in 1945 and again in 1996, so only the births of November 1944 to November 1946 and of September 1995 to September 1997 give it to same-age pairs. Most pairs who have it are some years apart. Born in June 1992 and June 2000, two people have Chirons at about 7° Leo and 13° Sagittarius, and their composite Chiron is at about 10° Libra. The scales, Libra's own image, fit the way some others get here. Born in July 1939 and April 1952, two people have Chirons at about 13° Cancer and 12° Capricorn, almost exactly opposite, and the composite, which takes the nearer of the two midpoints, tips into Libra or into Aries depending on the days.
 
 Natally, [Chiron in Libra](/astrology/chiron-in-libra/) tells how one person learned to stand level with others. Shared, it can make each of you feel like the one who gives way more.
 

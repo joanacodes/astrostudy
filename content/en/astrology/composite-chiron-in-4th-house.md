@@ -1,7 +1,7 @@
 ---
 title: "Composite Chiron in the 4th house"
 h1: "Composite Chiron in the 4th house: the relationship’s chart"
-description: "Composite Chiron in the 4th house: a relationship tender about home, roots and its private life, the foundations it lays itself, and what its house needs."
+description: "Composite Chiron in the 4th house: a relationship tender about home and roots, the foundations it lays itself, and why one method ties it to where you live."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "4th house", "composite chart"]
 weight: 2232
 glyph: "⚷"
-definition: "Composite Chiron in the 4th house puts the relationship chart’s Chiron at its root, in the house of home, family and private life that begins at the composite IC. Astrologers read a bond tender about its foundations, which lays its own, slowly and on purpose. It predicts no move or family event, and it needs both birth times."
+definition: "Composite Chiron in the 4th house puts the relationship chart’s Chiron at its root, in the house of home, family and private life that begins at the composite IC. Astrologers read a bond tender about its foundations, which lays its own, slowly and on purpose. No move or family event is foretold, and both birth times are needed."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 4th house, which begins at the composite IC" }
@@ -28,7 +28,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "Vettius Valens, Anthology", note: "the 4th house and what tradition gave it" }
 ---
-Under every relationship there is a floor: a home, two families, a history of where each person comes from, the private life nobody else sees. Composite Chiron in the 4th house puts the bond's tender spot at that floor, and describes the foundations two people lay for themselves.
+Under every relationship there is a floor: a home, two families, a history of where each person comes from, the private life nobody else sees. With composite Chiron in the 4th house, that floor creaks, and the two people living on it learn to lay foundations of their own.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -42,4 +42,4 @@ Where a natal [Chiron in the 4th house](/astrology/chiron-in-4th-house/) belongs
 
 Where it goes wrong, the past sets the terms. A bond tender about its roots can repeat a family pattern it meant to leave, retreat from the world entirely, or treat the home as the measure of whether the relationship is working. It helps to decide, together and out loud, which traditions you keep and which you drop.
 
-The houses around it frame it: [composite Chiron in the 3rd house](/astrology/composite-chiron-in-3rd-house/) is tender in daily exchanges, [composite Chiron in the 5th house](/astrology/composite-chiron-in-5th-house/) in play and pleasure. I don't draw composites; the astrologers who do read this Chiron with both birth charts and the [synastry](/astrology/synastry/), and it never predicts a move, a house, a family or an ending. Like any chart of two people, it is for two adults who both know it is being read ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+The houses around it frame it: [composite Chiron in the 3rd house](/astrology/composite-chiron-in-3rd-house/) is tender in daily exchanges, [composite Chiron in the 5th house](/astrology/composite-chiron-in-5th-house/) in play and pleasure. I don't draw composites; the astrologers who do read this Chiron with both birth charts and the [synastry](/astrology/synastry/), and it never predicts a move, a house, a family or an ending. It is also, like any chart of two people, a matter for two adults who both know it is being read ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

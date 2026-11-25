@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Saturn", "6th house", "composite chart"]
 weight: 2138
 glyph: "♄"
-definition: "Composite Saturn in the 6th house means the relationship’s structure lives in the cadent house of daily work, routine and service, which tradition called Bad Fortune. Astrologers read a pair that commits through ordinary days: chores shared, work done together, care given as routine. It predicts no illness, and depends on both birth times."
+definition: "Composite Saturn in the 6th house means the relationship’s structure lives in the cadent house of daily work, routine and service, which tradition called Bad Fortune. Astrologers read a pair that commits through ordinary days: chores shared, work done together, care given as routine. It diagnoses nothing, and two birth times are needed to find it."
 facts:
   - { k: "Body", v: "Composite Saturn ♄" }
   - { k: "House", v: "The 6th house: daily work, routine, service" }

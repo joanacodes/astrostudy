@@ -1,7 +1,7 @@
 ---
 title: "Composite Chiron in the 10th house"
 h1: "Composite Chiron in the 10th house: the relationship’s chart"
-description: "Composite Chiron in the 10th house: a relationship tender about its public standing and shared work, the role it shapes in the world, and what its house needs."
+description: "Composite Chiron in the 10th house: a relationship tender about its public standing and shared work, the role it shapes, and the one cusp both methods share."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "10th house", "composite chart"]
 weight: 2238
 glyph: "⚷"
-definition: "Composite Chiron in the 10th house sets the relationship chart’s Chiron in the house of public life and vocation, which begins at the composite Midheaven. Astrologers read a bond tender about how the world sees it and what it does together, which shapes a public role that fits it. It needs both birth times."
+definition: "Composite Chiron in the 10th house raises the relationship chart’s Chiron to the top of the chart, the house of public life and vocation that begins at the composite Midheaven. Astrologers read a bond tender about how the world sees it and what it does together, which shapes a public role that fits it. It needs both birth times."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 10th house, which begins at the composite Midheaven" }
@@ -28,7 +28,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "Vettius Valens, Anthology", note: "the 10th house and what tradition gave it" }
 ---
-Some pairs are watched: colleagues who became a couple, partners who run a business, a relationship one family or one small town has opinions about. Composite Chiron in the 10th house puts the bond's tender spot in that public view, and describes the role in the world two people shape for themselves.
+Some pairs are watched: colleagues who became a couple, partners who run a business, a relationship one family or one small town has opinions about. Under that gaze, composite Chiron in the 10th house finds the relationship's sore spot, and the role in the world the two people shape for themselves is its answer.
 
 ## What it says about the two of you {#what-it-says}
 

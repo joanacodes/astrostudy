@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Saturne", "maison 2", "thème composite"]
 weight: 2134
 glyph: "♄"
-definition: "Saturne composite en maison 2 installe Saturne dans la maison succédente des ressources, des biens et des valeurs. Les astrologues y lisent une paire qui bâtit sa sécurité lentement : soigneuse de ce qu’elle a, fidèle à ce qu’elle garde. Ce placement ne dit rien de l’argent, et seules les deux heures de naissance peuvent le situer."
+definition: "Saturne composite en maison 2 lie les engagements d’une relation à ce qu’elle possède et estime, dans une maison succédente. Les astrologues y lisent une paire qui bâtit sa sécurité lentement : soigneuse de ce qu’elle a, fidèle à ce qu’elle garde. Ce placement ne prévoit ni richesse ni dette, et demande l’heure de naissance de chaque personne."
 facts:
   - { k: "Corps", v: "Saturne composite ♄, mi-point de vos deux positions natales de Saturne" }
   - { k: "Maison", v: "Maison 2 : ressources, biens, valeurs" }

@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Saturn", "9th house", "composite chart"]
 weight: 2141
 glyph: "♄"
-definition: "Composite Saturn in the 9th house belongs to the cadent house of beliefs, study, travel and the wider world, the house tradition called the God. Astrologers read a pair that builds a shared outlook slowly: long study, travels planned for years, principles tested before they’re kept. It foresees no legal outcome, and its house needs both birth times."
+definition: "Composite Saturn in the 9th house belongs to the cadent house of beliefs, study, travel and the wider world, the house tradition called the God. Astrologers read a pair that builds a shared outlook slowly: long study, travels planned for years, principles tested before they’re kept. It decides no exam, visa or lawsuit, and moves with either birth time."
 facts:
   - { k: "Body", v: "Composite Saturn ♄" }
   - { k: "House", v: "The 9th house: beliefs, study, long-distance travel, the wider world" }

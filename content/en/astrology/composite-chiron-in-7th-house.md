@@ -1,7 +1,7 @@
 ---
 title: "Composite Chiron in the 7th house"
 h1: "Composite Chiron in the 7th house: the relationship’s chart"
-description: "Composite Chiron in the 7th house: a relationship tender about its own terms as a partnership, the agreements it writes for itself, and what its house needs."
+description: "Composite Chiron in the 7th house: a partnership tender about its own terms, the agreements it writes for itself, and the Descendant that frames it."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "7th house", "composite chart"]
 weight: 2235
 glyph: "⚷"
-definition: "Composite Chiron in the 7th house puts the relationship chart’s Chiron in the house of partnership, which begins at the composite Descendant. Astrologers read a bond tender about its own terms, what the two people are to each other, which learns to write its agreements itself. It predicts no wedding or parting, and needs both birth times."
+definition: "Composite Chiron in the 7th house gives the relationship chart’s Chiron to the house of partnership, the one that opens at the composite Descendant. Astrologers read a bond tender about its own terms, which learns to write its agreements itself. Weddings and partings are beyond its reach; its house needs both birth times."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 7th house, which begins at the composite Descendant" }
@@ -28,7 +28,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "Vettius Valens, Anthology", note: "the 7th house and what tradition gave it" }
 ---
-*What are we to each other?* Some pairs answer that once and never ask again; for others it stays an open, tender question for years. Composite Chiron in the 7th house places the relationship's sore spot in its own terms as a partnership, and describes the agreements two people learn to write for themselves.
+*What are we to each other?* Some pairs answer that once and never ask again; for others it stays an open, tender question for years. Composite Chiron in the 7th house belongs to the second kind: the partnership's own terms are the sore point, and the agreements two people write for themselves are the way through.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -42,4 +42,4 @@ In one birth chart, [Chiron in the 7th house](/astrology/chiron-in-7th-house/) d
 
 What makes it hard is defining the relationship by what it lacks: the ring, the title, the business plan other pairs seem to have. A composite says nothing about whether two people will marry, sign or separate. It helps to decide what your commitment consists of, in your own words, and to say it to each other now and then.
 
-Read beside its neighbours, the pattern is plain: [composite Chiron in the 6th house](/astrology/composite-chiron-in-6th-house/) carries the daily round, [composite Chiron in the 8th house](/astrology/composite-chiron-in-8th-house/) what is pooled and trusted, and the 7th the agreement between them. I don't draw composites in my readings; the astrologers who do read this Chiron with both birth charts and the [synastry](/astrology/synastry/). A chart of a partnership is a kind of agreement too, and it needs both partners' knowledge ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Read beside its neighbours, the pattern is plain: [composite Chiron in the 6th house](/astrology/composite-chiron-in-6th-house/) carries the daily round, [composite Chiron in the 8th house](/astrology/composite-chiron-in-8th-house/) what is pooled and trusted, and the 7th the agreement between them. This is a technique I describe, not one I use; those who use it read this Chiron with both birth charts and the [synastry](/astrology/synastry/). A chart of a partnership is a kind of agreement too, and it needs both partners' knowledge ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

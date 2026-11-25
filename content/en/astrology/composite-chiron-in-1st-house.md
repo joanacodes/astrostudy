@@ -28,7 +28,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "Vettius Valens, Anthology", note: "the 1st house and what tradition gave it" }
 ---
-Before anyone knows either of you, they see the two of you together: how you come into a room, what you seem to be to each other. Composite Chiron in the 1st house puts the relationship's tender spot in that first impression, and describes the manner the bond works out for itself.
+Before anyone knows either of you, they see the two of you together: how you come into a room, what you seem to be to each other. That first impression is where composite Chiron in the 1st house sits, with all the self-consciousness and the hard-won ease that come with it.
 
 ## What it says about the two of you {#what-it-says}
 

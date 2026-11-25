@@ -9,10 +9,10 @@ categories: ["Synastry"]
 tags: ["Pluto", "9th house", "composite chart"]
 weight: 2213
 glyph: "♇"
-definition: "Composite Pluto in the 9th house places the midpoint of two natal Plutos in the relationship chart’s house of belief, study and long journeys. Astrologers read a bond whose deepest changes come through how it understands the world: faiths reconsidered, countries crossed, ideas that remake both people. It needs both birth times and a named house method."
+definition: "Composite Pluto in the 9th house places the midpoint of two natal Plutos in the relationship chart’s house of belief, study and distant travel. Astrologers read a bond whose deepest changes come through how it understands the world: faiths reconsidered, countries crossed, ideas that remake both people. It needs both birth times and a named house method."
 facts:
   - { k: "Body", v: "Composite Pluto ♇, the nearer midpoint of your two natal Plutos" }
-  - { k: "House", v: "The 9th house: belief, study, long journeys, the pair’s view of the world" }
+  - { k: "House", v: "The 9th house: belief, study, distant travel, the pair’s view of the world" }
   - { k: "Type", v: "Cadent" }
   - { k: "Natural sign", v: "Sagittarius" }
   - { k: "Old name", v: "The God, where tradition placed the Sun’s joy" }
@@ -20,16 +20,16 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/pluto-in-9th-house", "/astrology/9th-house", "/astrology/pluto-in-9th-house-synastry", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Pluto in the 9th house mean?"
-    a: "The relationship’s chart puts Pluto, the planet of deep change, in the house of belief, study and long journeys. Astrologers read a bond transformed by how it sees the world: a faith taken up or left together, a move abroad, years of study that change both people. It describes the relationship’s horizon, not a forecast."
+    a: "The relationship’s chart puts Pluto, the planet of deep change, in the house of belief, study and distant travel. Astrologers read a bond transformed by how it sees the world: a faith taken up or left together, a move abroad, years of study that change both people. It describes the relationship’s horizon, not a forecast."
   - q: "Does composite Pluto in the 9th house mean moving abroad?"
-    a: "It can describe a pair for whom distance and other cultures matter deeply, and some such pairs do move. But a composite predicts no event, journey or emigration. What the placement describes is the relationship’s need to understand the world for itself, wherever it lives."
+    a: "It can describe a pair for whom distance and other cultures matter deeply, and some such pairs do move. But a composite predicts no event, trip or emigration. What the placement describes is the relationship’s need to understand the world for itself, wherever it lives."
   - q: "Can composite Pluto in the 9th house cause arguments about religion or politics?"
     a: "Beliefs are where this pair’s intensity goes, so disagreements there can run deep. The trap is throwing out every old conviction at once, or making the other person’s view a test of loyalty. Two people can share a horizon without sharing every opinion under it."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, and the 9th as the God" }
 ---
-Some relationships change their address; others change their whole view of the world. A composite Pluto in the 9th house puts the bond's deepest transformations in belief, study and long journeys: in what the two of you understand life to be for.
+Some relationships change their address; others change their whole view of the world. A composite Pluto in the 9th house puts the bond's deepest transformations in belief, study and distant travel: in what the two of you understand life to be for.
 
 ## What it says about the two of you {#what-it-says}
 

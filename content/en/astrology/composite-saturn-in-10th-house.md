@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Saturn", "10th house", "composite chart"]
 weight: 2142
 glyph: "♄"
-definition: "Seen from outside, composite Saturn in the 10th house is a relationship that carries its structure in full public view, in the angular house of reputation, shared ambition and public role, beginning at the composite Midheaven. Astrologers read a bond known for its reliability, building its standing over years. It promises no success, and needs both birth times."
+definition: "Composite Saturn in the 10th house carries a relationship’s structure in full public view, in the angular house of reputation, shared ambition and public role, from the composite Midheaven. Astrologers read a bond known for its reliability, building its standing over years. Success is not its to promise; the house itself rests on two known birth times."
 facts:
   - { k: "Body", v: "Composite Saturn ♄" }
   - { k: "House", v: "The 10th house: public role, reputation, shared ambition" }
@@ -43,4 +43,4 @@ Picture the chart's top floor: [composite Saturn in the 9th house](/astrology/co
 
 Where it can go wrong is a bond that lives inside its role. Public duties can swallow private time, the pair's image can matter more than how it actually feels, and success, or the lack of it, can start to stand for the worth of the bond itself. It helps to keep part of life entirely out of view, to decide together what success means to the two of you rather than borrowing a definition, and to mark achievements privately as well as in public. A composite never promises the success it describes a pair working towards.
 
-This is a technique I describe without practising it. Its practitioners would set the composite 10th beside both birth charts and the [synastry](/astrology/synastry/), and read no career forecast from it.
+Since the 10th is the house of what is said in public, I'll say it plainly: I describe composites, but my readings don't use them. Astrologers who do would set the composite 10th beside both birth charts and the [synastry](/astrology/synastry/), and read no career forecast from it.

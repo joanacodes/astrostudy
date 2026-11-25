@@ -1,7 +1,7 @@
 ---
 title: "Composite Chiron in Leo"
 h1: "Composite Chiron in Leo: the relationship’s chart"
-description: "Composite Chiron in Leo: a relationship tender about being seen and celebrated, how it learns its own kind of pride, how rare it is and which pairs have it."
+description: "Composite Chiron in Leo: a relationship tender about being seen and celebrated, how it learns its own kind of pride, and why so few pairs have it."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -21,14 +21,14 @@ faq:
   - q: "What does composite Chiron in Leo mean?"
     a: "Chiron in the relationship’s own chart sits in the sign of pride, joy and being seen. The bond’s sore spot is recognition: whether it is noticed, celebrated, taken seriously as a pair. Astrologers read two people who learn to celebrate each other in their own way, without waiting for anyone else’s applause."
   - q: "Is composite Chiron in Leo rare?"
-    a: "Fairly. In two million random pairs born 1930–2009 it came up for about 1 pair in 18. Chiron crossed Leo in under three years each time, from September 1940 to July 1943 and from July 1991 to September 1993, so few same-age pairs have it, and most reach it through an age gap."
+    a: "Somewhat: of two million random pairs born 1930–2009, about 1 in 18 had it. Chiron crossed Leo in under three years each time, from September 1940 to July 1943 and from July 1991 to September 1993, so few same-age pairs have it, and most reach it through an age gap."
   - q: "What is the difference between composite Chiron and Davison Chiron?"
     a: "A composite takes the midpoint of the two natal Chirons; a Davison chart uses Chiron’s real position at the moment halfway between the births. Chiron’s speed varies so much that the two can land in different signs: for births in June 1986 and June 1996, the composite has Leo, the Davison Cancer."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Chiron falls in Leo, and the birth years that give it to pairs of the same age" }
 ---
-Some couples are never quite introduced as a couple; some friendships are loved in private and never celebrated in public. Composite Chiron in Leo makes recognition the bond's tender spot, and describes the pride the two people learn to take in what they have, with or without an audience.
+Some couples are never quite introduced as a couple; some friendships are loved in private and never celebrated in public. Recognition is the tender point of composite Chiron in Leo; taking pride in what the two people have, with or without an audience, is what the bond learns.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -36,7 +36,7 @@ Some couples are never quite introduced as a couple; some friendships are loved 
 
 The shyness, if it is there, belongs to the bond: people who are easy in company can still find that their relationship prefers the wings to the stage. Its way round is to celebrate deliberately, with anniversaries nobody else knows about, a shared creative project, a habit of telling each other plainly what each admires. They tend to be the first to clap at a friend's opening night or a colleague's first talk, knowing what it is to go unapplauded.
 
-It's one of the rarer composite Chiron signs, about 1 pair in 18 in two million pairs of birth dates drawn from 1930 to 2009. Chiron hurried through Leo, from September 1940 to July 1943 and from July 1991 to September 1993, so its same-age pairs come from narrow bands of births, and most of the pairs who have it get there across a gap. Here Chiron's speed shows. Two people born in June 1986 and June 1996 have their Chirons at about 16° Gemini and 8° Libra, nearly a third of the zodiac apart after only ten years, and their composite Chiron is at about 12° Leo. A [Davison chart](/astrology/davison-chart/) for the same two, cast for the moment halfway between their births, would put Chiron where it really stood in June 1991, at about 26° Cancer: the two relationship charts disagree by a sign.
+It's one of the rarer composite Chiron signs: about 1 pair in 18 has it, by The Astro Study's count of two million random pairs born 1930–2009. Chiron hurried through Leo, from September 1940 to July 1943 and from July 1991 to September 1993, so its same-age pairs come from narrow bands of births, and most of the pairs who have it get there across a gap. Here Chiron's speed shows. Two people born in June 1986 and June 1996 have their Chirons at about 16° Gemini and 8° Libra, nearly a third of the zodiac apart after only ten years, and their composite Chiron is at about 12° Leo. A [Davison chart](/astrology/davison-chart/) for the same two, cast for the moment halfway between their births, would put Chiron where it really stood in June 1991, at about 26° Cancer: the two relationship charts disagree by a sign.
 
 The applause one person did or didn't receive is the subject of a natal [Chiron in Leo](/astrology/chiron-in-leo/). Shared, it can show up as each of you waiting for the other to make the bond visible.
 

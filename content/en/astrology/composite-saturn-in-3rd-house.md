@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Saturn", "3rd house", "composite chart"]
 weight: 2135
 glyph: "♄"
-definition: "Composite Saturn in the 3rd house puts the relationship chart’s Saturn in the cadent house of everyday talk, learning, siblings and neighbours. Astrologers read a pair whose commitment shows in daily contact: words chosen carefully, skills learned slowly together, duties close to home. The house needs both birth times and a choice of method."
+definition: "Composite Saturn in the 3rd house, a cadent house, lodges a relationship’s structure in small daily things: talk, learning, siblings, neighbours. Astrologers read a pair whose commitment shows in ordinary contact: words chosen carefully, skills learned slowly together, duties close to home. Two birth times and a house method must come first."
 facts:
   - { k: "Body", v: "Composite Saturn ♄" }
   - { k: "House", v: "The 3rd house: daily talk, learning, siblings, neighbours, short trips" }
@@ -39,10 +39,10 @@ Opposite, the 9th house holds long-distance travel and large ideas; the 3rd keep
 
 It's a cadent house, with Gemini as its natural sign; tradition called it the Goddess and gave the Moon its joy here, not Saturn. Its first cusp lies between the angles and its last is the composite IC, and both come from both birth times whichever method draws them: the midpoints of your two charts' cusps, or a set of houses rebuilt from the composite Midheaven for the place where you live ([what changes without a birth time](/blog/unknown-birth-time/)). A Saturn near either edge can move house when a time or the method changes.
 
-The composite's 3rd belongs to neither of you. [Saturn in the 3rd house](/astrology/saturn-in-3rd-house/) of one birth chart usually means careful speech and a late trust in one's own ideas, and [their Saturn in your 3rd house](/astrology/saturn-in-3rd-house-synastry/) means one person weighing the other's words. Here the weighing is mutual: two chatterboxes can find that, together, they speak more slowly, and mean more of what they say.
+Nobody brings this 3rd house to the relationship; it forms between you. [Saturn in the 3rd house](/astrology/saturn-in-3rd-house/) of one birth chart usually means careful speech and a late trust in one's own ideas, and [their Saturn in your 3rd house](/astrology/saturn-in-3rd-house-synastry/) means one person weighing the other's words. Here the weighing is mutual: two chatterboxes can find that, together, they speak more slowly, and mean more of what they say.
 
 Between [composite Saturn in the 2nd house](/astrology/composite-saturn-in-2nd-house/), which looks after what the bond owns, and [composite Saturn in the 4th house](/astrology/composite-saturn-in-4th-house/), which looks after its home, the 3rd is the street outside: errands, visits, the daily commute, the parcel taken in for next door.
 
 Silence is the risk. A bond that weighs every word can stop saying the small things, and then the serious ones arrive carrying too much weight. Duties to siblings or neighbours can also take more of the pair's time than either would choose, because saying no feels like breaking a promise. It helps to keep the small talk going, the trivial news, the joke, the passing remark; to share family and neighbourly duties out with other people; and to keep learning something together that has nothing to do with obligation.
 
-I write about composites without using them in my readings. The astrologers who do use them read a 3rd-house Saturn next to both birth charts and the [synastry](/astrology/synastry/), and take no prediction from it.
+Fittingly for a house of learning, composites are something I read and write about, not something my readings use. The astrologers who do use them read a 3rd-house Saturn next to both birth charts and the [synastry](/astrology/synastry/), and take no prediction from it.

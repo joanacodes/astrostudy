@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Saturne", "Vierge", "thème composite"]
 weight: 2126
 glyph: "♄♍"
-definition: "On parle de Saturne composite en Vierge quand le thème d’une relation, fait des mi-points de deux thèmes natals, place Saturne dans ce signe de terre mutable que gouverne Mercure. Les astrologues y lisent un lien tenu par un ordre utile : routines affinées, aide précise, petites améliorations entretenues. Avec la Balance, c’est le signe le plus rare pour Saturne composite."
+definition: "On parle de Saturne composite en Vierge quand le thème d’une relation, fait des mi-points de deux thèmes natals, place Saturne dans ce signe de terre mutable que gouverne Mercure. Les astrologues y lisent un lien tenu par un ordre utile : routines affinées, aide précise, petites améliorations entretenues. Seule la Balance est aussi rare parmi les signes de Saturne composite."
 facts:
   - { k: "Corps", v: "Saturne composite ♄, à mi-chemin entre vos deux positions natales de Saturne, par l’arc le plus court" }
   - { k: "Signe", v: "Vierge ♍, terre mutable, gouvernée par Mercure" }
@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Saturne composite en Vierge ?"
     a: "Dans le thème dressé pour la relation, Saturne, planète de l’engagement et de la structure, se trouve dans le signe de l’affinage. Les astrologues y lisent un lien qui s’engage en se rendant utile : aide concrète, routines qui fonctionnent, petites améliorations tenues des années. Construire ensemble est son sujet ; rester ensemble vous appartient."
   - q: "Est-ce que Saturne composite en Vierge rend une relation critique ou contrôlante ?"
-    a: "Pas par nature. La Vierge apporte la précision et le soin du bon fonctionnement, pas la critique. Le risque vient de Saturne : un désir de contrôle qui peut changer l’amélioration en inspection. Nommer ce qui marche déjà, autant que ce qui reste à réparer, garde la méthode du lien utile plutôt qu’exigeante."
+    a: "Pas par nature. Ce que la Vierge ajoute, c’est la précision et l’intérêt pour la façon dont les choses marchent ; la critique n’en fait pas partie. Le risque vient de Saturne : un désir de contrôle qui peut changer l’amélioration en inspection. Nommer ce qui marche déjà, autant que ce qui reste à réparer, garde la méthode du lien utile plutôt qu’exigeante."
   - q: "Saturne composite en Vierge, est-ce rare ?"
     a: "Sur deux millions de paires de personnes nées de 1930 à 2009, environ 1 paire sur 14 avait ce placement : avec la Balance, c’est le signe le plus rare pour Saturne composite. La plupart de ces paires sont nées les mêmes années, de septembre 1948 à août 1951 ou de novembre 1977 à septembre 1980."
 sources:

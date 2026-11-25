@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "Aries", "composite chart"]
 weight: 2217
 glyph: "⚷♈"
-definition: "Composite Chiron in Aries is the relationship chart’s Chiron, at the midpoint of two natal Chirons, in the first sign of the zodiac. Astrologers read it as the bond’s tender spot around initiative and self-assertion, and the brave, step-by-step ways the pair learns to begin things together. About 1 pair in 7 has it."
+definition: "Composite Chiron in Aries is the relationship chart’s Chiron, at the midpoint of two natal Chirons, in the first sign of the zodiac. Astrologers read it as the bond’s tender spot around initiative and self-assertion, and the brave, step-by-step ways the pair learns to begin things together. No composite Chiron sign is commoner: about 1 pair in 7 has it."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷, the nearer midpoint of your two natal Chirons" }
   - { k: "Sign", v: "Aries ♈, cardinal fire, ruled by Mars" }
@@ -21,7 +21,7 @@ faq:
   - q: "What does composite Chiron in Aries mean?"
     a: "The midpoint of your two natal Chirons falls in Aries, so the relationship’s own sore spot concerns going first: starting plans, wanting things aloud, disagreeing. Astrologers read a bond that learns courage by acting in small steps, together. It describes the relationship rather than either of you, and it predicts nothing."
   - q: "Why is composite Chiron in Aries so common?"
-    a: "Chiron moves at its slowest through Pisces, Aries and Taurus, so a great many people are born with it there, and the midpoints of their pairs gather in the same stretch of sky. In two million random pairs born 1930–2009, Aries came up for about 1 pair in 7, as often as Pisces."
+    a: "Chiron moves at its slowest through Pisces, Aries and Taurus, so a great many people are born with it there, and the midpoints of their pairs gather in the same stretch of sky. Across two million random pairs born 1930–2009, about 1 in 7 had it in Aries, a shade more than in Pisces."
   - q: "Is composite Chiron in Aries bad for a relationship?"
     a: "No. Chiron marks where a relationship keeps meeting a limit and builds its own way round it; in Aries the limit concerns starting and standing up for itself. No composite placement says whether two people will stay together, and none of them is a verdict on the bond."
 sources:
@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Chiron falls in Aries, and the birth years that give it to pairs of the same age" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Aries and its ruler, Mars" }
 ---
-One couple argues with ease and still can't book a holiday; another launches a new plan every month and never says what it wants. Composite Chiron in Aries places the relationship's tender spot in the first move, and describes the nerve the bond builds by making that move anyway.
+One couple argues with ease and still can't book a holiday; another launches a new plan every month and never says what it wants. With composite Chiron in Aries, the first move is the sore part of the relationship, and the nerve to make it anyway is what the bond slowly builds.
 
 ## What it says about the two of you {#what-it-says}
 

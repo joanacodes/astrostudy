@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "12th house", "composite chart"]
 weight: 2240
 glyph: "⚷"
-definition: "Composite Chiron in the 12th house places the relationship chart’s Chiron in the house of retreat, rest and what stays out of sight, which tradition called the Bad Spirit. Astrologers read a bond tender in what it leaves unsaid, which learns gentle ways of naming it. Nothing here foretells confinement or illness, and only both birth times can place it."
+definition: "Composite Chiron in the 12th house hides the relationship chart’s Chiron in the house of retreat, rest and what stays out of sight, the Bad Spirit of tradition. Astrologers read a bond tender in what it leaves unsaid, which learns gentle ways of naming it. Nothing here foretells confinement or illness, and only both birth times can place it."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 12th house, of retreat and what stays out of sight" }
@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "Vettius Valens, Anthology", note: "the 12th house, the Bad Spirit, and what tradition gave it" }
 ---
-Every couple has a room nobody else enters: the things not said at dinner, the tiredness only the other sees, the old sadness both of you step around. Composite Chiron in the 12th house puts the relationship's tender spot in that room, and describes the quiet care two people learn there.
+Every couple has a room nobody else enters: the things not said at dinner, the tiredness only the other sees, the old sadness both of you step around. Composite Chiron in the 12th house keeps its tenderness in that room, where two people learn a quiet kind of care.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -39,7 +39,7 @@ What stays hidden is the pair's, not a secret either person keeps: two open, tal
 
 Confinement, hidden enemies and sorrow: that is what tradition filed under the 12th. A composite predicts none of that, and no chart can say that anyone will be confined or unwell ([astrology and mental health](/astrology/astrology-and-mental-health/)); this Chiron describes the inner life two people share. If something heavy is sitting in that room, a counsellor or a doctor is the right person to open the door with, not an astrologer.
 
-Its place depends on both birth times and on the house method, either the midpoints of your two charts' cusps or houses built from the composite Midheaven where you live. Of everything in a composite, the houses are the least certain part, and a 12th-house Chiron is worth holding lightly for that reason ([what changes without a birth time](/blog/unknown-birth-time/)).
+Whether Chiron is in the 12th at all depends on both birth times and on the house method, cusp midpoints or houses built from the composite Midheaven where you live. Of everything in a composite, the houses are the least certain part, and a 12th-house Chiron is worth holding lightly for that reason ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The quiet sensitivity of a natal [Chiron in the 12th house](/astrology/chiron-in-12th-house/) belongs to one person, and the compassion of [their Chiron in your 12th house](/astrology/chiron-in-12th-house-synastry/) is offered from one life into another; the composite's 12th is a privacy shared, with its silences and its need for space.
 

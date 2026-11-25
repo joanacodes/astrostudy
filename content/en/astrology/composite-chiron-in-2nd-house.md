@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "2nd house", "composite chart"]
 weight: 2230
 glyph: "⚷"
-definition: "Composite Chiron in the 2nd house places the relationship chart’s Chiron in the house of what a pair has and values: money, belongings, skills, its sense of worth. The bond’s sore spot is value, and it adapts with arrangements of its own. It predicts no gain or loss, and it needs both birth times."
+definition: "Composite Chiron in the 2nd house places the relationship chart’s Chiron in the house of what a pair has and values: money, belongings, skills, its sense of worth. The bond’s sore spot is value, and it adapts with arrangements of its own. Gains and losses are not its business, and its house needs both birth times."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 2nd house, of what the pair has and values" }
@@ -28,7 +28,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "Vettius Valens, Anthology", note: "the 2nd house and what tradition gave it" }
 ---
-Who pays for what, whose things fill the flat, whether the relationship is worth the time it takes: every pair settles these questions, and some settle them more painfully than others. Composite Chiron in the 2nd house makes value the bond's tender spot, and describes the arrangements two people build so that it stops hurting.
+Who pays for what, whose things fill the flat, whether the relationship is worth the time it takes: every pair settles these questions, and some settle them more painfully than others. The painful version belongs to composite Chiron in the 2nd house, and so do the arrangements that, over time, take the sting out of it.
 
 ## What it says about the two of you {#what-it-says}
 

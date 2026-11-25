@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "Gemini", "composite chart"]
 weight: 2219
 glyph: "⚷♊"
-definition: "Composite Chiron in Gemini places a relationship chart’s Chiron, the midpoint of two natal Chirons, in the sign of talk and exchange. It is read as a bond tender about being understood, which builds its own language over time: questions asked twice, things written down, patience with words. It turns up for about 1 pair in 10."
+definition: "Composite Chiron in Gemini: average two natal Chirons into a relationship chart and the midpoint falls in the sign of talk and exchange. It is read as a bond tender about being understood, which builds its own language over time: questions asked twice, things written down, patience with words. It turns up for about 1 pair in 10."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷, the midpoint of your two natal Chirons" }
   - { k: "Sign", v: "Gemini ♊, mutable air, ruled by Mercury" }
@@ -28,7 +28,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Chiron falls in Gemini, and the birth years that give it to pairs of the same age" }
 ---
-A message read the wrong way, a joke that lands badly, a long talk that leaves both people feeling unheard: in some relationships, words are where the trouble starts. Composite Chiron in Gemini puts the bond's tender spot in its conversations, and describes the language the two people slowly make their own.
+A message read the wrong way, a joke that lands badly, a long talk that leaves both people feeling unheard: in some relationships, words are where the trouble starts. Composite Chiron in Gemini belongs to such relationships, and to the private language they end up inventing.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -36,7 +36,7 @@ Words are where this relationship has to adapt. In [the composite chart](/astrol
 
 A duet can go out of tune with two good singers, and the composite reads the tuning, not the voices: two fluent, articulate people can find that between them, and only between them, words slip. The remedy tends to be inventive: a private vocabulary, important things written down, a rule of asking *what did you mean?* before answering, walks where talking comes easier than across a table. Friends who need help saying something difficult tend to call them.
 
-Gemini comes up for about 1 pair in 10, in two million pairs of birth dates drawn from 1930 to 2009. Its generations are the births of June 1983 to June 1988 and of June 1933 to May 1938: two people from the same one share Chiron in Gemini, and the composite simply repeats it. Take a pair born ten years apart, in June 1979 and June 1989: their Chirons stand at about 12° Taurus and 7° Cancer, and the composite's falls between them at about 10° Gemini, a placement neither has from birth.
+Paired at random, two million birth dates from 1930 to 2009 gave Gemini to about 1 pair in 10. Its generations are the births of June 1983 to June 1988 and of June 1933 to May 1938: two people from the same one share Chiron in Gemini, and the composite simply repeats it. Take a pair born ten years apart, in June 1979 and June 1989: their Chirons stand at about 12° Taurus and 7° Cancer, and the composite's falls between them at about 10° Gemini, a placement neither has from birth.
 
 A natal [Chiron in Gemini](/astrology/chiron-in-gemini/) concerns one person's voice; the composite's concerns a voice two people share. Astrologers came to it later than to the rest of the technique: Robert Hand's *Planets in Composite*, a book-length guide to composites, came out in 1975, two years before Chiron was found.
 

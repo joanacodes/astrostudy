@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Pluton", "maison 10", "thème composite"]
 weight: 2214
 glyph: "♇"
-definition: "Pluton composite en maison 10 place le mi-point de vos deux positions de Pluton au sommet du thème de la relation, à partir du Milieu du Ciel composite : la maison du rôle public, du travail et de la réputation. Les astrologues y lisent un lien que les autres voient comme une force. Il faut les deux heures de naissance, et rien n’y promet le succès."
+definition: "Pluton composite en maison 10 place le mi-point de vos deux positions de Pluton au sommet du thème de la relation, dans la maison du rôle public, du travail et de la réputation. Les astrologues y lisent un lien que les autres voient comme une force. Il faut les deux heures de naissance, et rien n’y promet le succès."
 facts:
   - { k: "Corps", v: "Pluton composite ♇, au mi-point le plus proche de vos deux positions de Pluton" }
   - { k: "Maison", v: "La maison 10 : le rôle public, le travail commun, la réputation, l’ambition" }
@@ -34,7 +34,7 @@ Certaines paires sont connues en tant que paire : au travail, dans leur quartie
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-Dans [le thème composite](/astrology/composite-chart/), la [maison 10](/astrology/10th-house/) commence au [Milieu du Ciel](/astrology/midheaven/) composite, le point le plus haut, et couvre la vie publique de la relation : le travail commun ou une entreprise à deux, le rôle qu’elle joue dans une famille, une société ou une ville, sa réputation, et ses ambitions pour ce qu’elle laissera derrière elle. [Pluton](/astrology/pluto/) fait de ce rôle public le lieu de la transformation. Les astrologues y lisent un lien que les autres voient comme une force, et qui change surtout par ce qu’il prend en charge : une affaire de famille reconstruite après une crise, une cause que la paire mène ensemble, une carrière commune qui ne cesse de se réinventer, une place dans la communauté qui grandit, est mise à l’épreuve, puis se mérite à nouveau.
+Dans [le thème composite](/astrology/composite-chart/), la [maison 10](/astrology/10th-house/) commence au [Milieu du Ciel](/astrology/midheaven/) composite, le point le plus haut, et couvre la vie publique de la relation : le travail commun ou une entreprise à deux, le rôle qu’elle joue dans une famille, une société ou une ville, sa réputation, et ses ambitions pour ce qu’elle laissera derrière elle. [Pluton](/astrology/pluto/) apporte à cette vie publique profondeur et changement. Les astrologues y lisent un lien que les autres voient comme une force, et qui change surtout par ce qu’il prend en charge : une affaire de famille reconstruite après une crise, une cause que la paire mène ensemble, une carrière commune qui ne cesse de se réinventer, une place dans la communauté qui grandit, est mise à l’épreuve, puis se mérite à nouveau.
 
 Le pouvoir, ici, appartient à la paire, pas à l’une ou l’autre personne. Là où [Pluton en maison 10](/astrology/pluto-in-10th-house/) décrit une personne dont la vie publique pèse, et [Pluton de l’autre dans votre maison 10](/astrology/pluto-in-10th-house-synastry/) la profondeur d’une personne qui pèse sur les ambitions de l’autre, la maison 10 du composite donne ce poids à la relation : deux personnes sans aucun goût pour l’autorité peuvent découvrir qu’ensemble, ce sont elles qui finissent par diriger.
 

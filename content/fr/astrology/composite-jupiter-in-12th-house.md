@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite, ses maisons et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, leurs noms anciens et ce que la tradition leur attribuait" }
 ---
-Certaines relations grandissent derrière une porte fermée : la longue marche sans destination, la retraite prise chaque hiver, les prières ou les silences dont personne d’autre n’est informé. Un lien peut s’élargir loin des regards, et avec Jupiter composite en maison 12, c’est là qu’il fait l’essentiel de sa croissance.
+Certaines relations grandissent derrière une porte fermée : la longue marche sans destination, la retraite prise chaque hiver, les prières ou les silences dont personne d’autre n’est informé. Un lien peut s’élargir loin des regards : avec Jupiter composite en maison 12, c’est là que la relation fait l’essentiel de sa croissance.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
@@ -38,7 +38,7 @@ La [maison 12](/astrology/12th-house/) couvre la vie intérieure, la solitude, l
 
 La tradition rangeait sous la maison 12 l’enfermement, le chagrin et les ennemis cachés. Je n’en lis rien dans aucun thème, composite ou natal : ce placement ne prédit ni enfermement ni maladie, et ne dit rien de l’état psychique de qui que ce soit ([astrologie et santé mentale](/astrology/astrology-and-mental-health/)). Ce qu’il décrit, c’est une relation dont la générosité reste souvent sans signature, et dont la croissance a besoin de calme. Le pardon a aussi sa place ici : ce lien grandit pour une bonne part par ce qu’il laisse aller, sans bruit.
 
-Certains astrologues contournent la question des maisons composites en se servant du [thème de Davison](/astrology/davison-chart/), dressé pour un instant et un lieu réels, à mi-chemin entre vos naissances, dont les maisons se calculent comme celles de n’importe quel thème natal. Dans le composite lui-même, la maison 12, juste derrière l’Ascendant, bouge avec la méthode qui trace cet angle : mi-points des cuspides des deux thèmes, ou maisons construites à partir du Milieu du Ciel composite pour le lieu où vous vivez. Chaque version demande les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Certains astrologues contournent la question des maisons composites en se servant du [thème de Davison](/astrology/davison-chart/), dressé pour un instant et un lieu réels, à mi-chemin entre vos naissances, dont les maisons se calculent comme celles de n’importe quel thème natal. Dans le composite lui-même, la maison 12, juste derrière l’Ascendant, bouge avec la méthode qui trace cet angle : mi-points des cuspides des deux thèmes, ou maisons construites à partir du Milieu du Ciel composite pour le lieu où vous vivez. Thème de Davison compris, chacune de ces versions demande les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Dans la solitude et la réflexion, [Jupiter en maison 12](/astrology/jupiter-in-12th-house/) grandit au sein d’un thème natal ; en synastrie, [Jupiter de l’autre dans votre maison 12](/astrology/jupiter-in-12th-house-synastry/) soutient discrètement la vie intérieure de l’autre. Ici, le calme se partage. Deux personnes très tournées vers l’extérieur peuvent découvrir qu’ensemble, elles méditent, prient, marchent en silence ou restent simplement assises, et que le lien les ressource d’une façon qu’aucune ne saurait expliquer à ses amis.
 

@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "Aquarius", "composite chart"]
 weight: 2227
 glyph: "⚷♒"
-definition: "Composite Chiron in Aquarius means the relationship chart’s Chiron, the midpoint of two natal Chirons, lies in the sign of friendship and independence, ruled by Uranus and traditionally Saturn. Being different is the bond’s tender spot, and it adapts by inventing forms of its own rather than borrowing them. Roughly 1 pair in 10 has it."
+definition: "Composite Chiron in Aquarius means the relationship chart’s Chiron, the midpoint of two natal Chirons, lies in the sign of friendship and independence, ruled by Uranus and traditionally Saturn. Being different is the bond’s tender spot, and it adapts by inventing forms of its own rather than borrowing them. It is common: roughly 1 pair in 10."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷, halfway between your two natal Chirons" }
   - { k: "Sign", v: "Aquarius ♒, fixed air, ruled by Uranus and, traditionally, Saturn" }
@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Chiron falls in Aquarius, and the birth years that give it to pairs of the same age" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Aquarius as a sign of Saturn" }
 ---
-At every wedding, every work party, every family lunch, some pairs are the odd ones out, and not always because of anything either person does. Composite Chiron in Aquarius makes being different the relationship's tender spot, and describes the forms of its own the bond invents in reply.
+At every wedding, every work party, every family lunch, some pairs are the odd ones out, and not always because of anything either person does. Being different is what composite Chiron in Aquarius makes tender, and the bond answers by inventing forms of its own.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -37,7 +37,7 @@ Being out of step is where this bond does its adapting. [Chiron](/astrology/chir
 
 At a party, each of you might fit in perfectly with your own friends and still, arriving together, be the pair nobody can quite place. Invention is its way round: arrangements designed rather than inherited, a circle of friends who don't need the relationship explained, a friendship at the core that survives whatever else changes. Other couples who don't fit the usual shapes often seek them out.
 
-About 1 pair in 10 has it, in two million pairs of birth dates drawn from 1930 to 2009. Chiron lingered in Aquarius for six years at a time, so pairs born in the same stretch of January 1955 to January 1961 have it as their generation's sign; the next stretch, February 2005 to February 2011, is only now coming of age. Across a decade, born in June 1953 and June 1963, two people have Chirons at about 20° Capricorn and 15° Pisces, with the composite's at about 17° Aquarius, in neither person's sign.
+Roughly 1 pair in 10 has it, among two million random pairs born 1930–2009. Chiron lingered in Aquarius for six years at a time, so pairs born in the same stretch of January 1955 to January 1961 have it as their generation's sign; the next stretch, February 2005 to February 2011, is only now coming of age. Across a decade it works like this: about 20° Capricorn for a June 1953 birth, about 15° Pisces for a June 1963 one, and about 17° Aquarius for the composite, in neither person's sign.
 
 One person's sense of standing apart is what [Chiron in Aquarius](/astrology/chiron-in-aquarius/) describes in a birth chart. In the composite the standing apart is done together, and a pair can be proud of it one year and tired of it the next.
 

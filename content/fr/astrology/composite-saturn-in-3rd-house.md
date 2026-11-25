@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Saturne", "maison 3", "thème composite"]
 weight: 2135
 glyph: "♄"
-definition: "Saturne composite en maison 3 place Saturne dans la maison cadente de la parole quotidienne, de l’apprentissage, de la fratrie et du voisinage. Les astrologues y lisent une paire dont l’engagement se voit au quotidien : mots choisis avec soin, savoirs appris lentement à deux, devoirs tout proches. La maison demande les deux heures de naissance et le choix d’une méthode."
+definition: "Avec Saturne composite en maison 3, maison cadente, la structure d’une relation se loge dans le quotidien : parole, apprentissage, fratrie, voisinage. Les astrologues y lisent une paire dont l’engagement se voit au jour le jour : mots pesés, savoirs appris à deux, devoirs tout proches. Il faut d’abord les deux heures de naissance et une méthode de maisons."
 facts:
   - { k: "Corps", v: "Saturne composite ♄" }
   - { k: "Maison", v: "Maison 3 : parole quotidienne, apprentissage, fratrie, voisinage, petits trajets" }
@@ -40,10 +40,10 @@ En face, la maison 9 contient les longs voyages et les grandes idées ; la mai
 
 C’est une maison cadente, de signe naturel Gémeaux ; la tradition l’appelait la Déesse et y donnait sa joie à la Lune, pas à Saturne. Sa première cuspide se trouve entre les angles et sa dernière est le Fond du Ciel composite, et les deux viennent des deux heures de naissance, quelle que soit la méthode : les mi-points des cuspides de vos deux thèmes, ou des maisons reconstruites depuis le Milieu du Ciel composite pour le lieu où vous vivez ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Une position de Saturne proche d’un bord peut changer de maison quand une heure, ou la méthode, change.
 
-La maison 3 du composite n’appartient à aucune des deux personnes. [Saturne en maison 3](/astrology/saturn-in-3rd-house/), dans un thème natal, veut d’ordinaire dire une parole prudente et une confiance tardive en ses propres idées, et [Saturne de l’autre dans votre maison 3](/astrology/saturn-in-3rd-house-synastry/), une personne qui pèse les mots de l’autre. Ici, la pesée est mutuelle : deux personnes très bavardes peuvent découvrir qu’ensemble, elles parlent plus lentement, et pensent davantage ce qu’elles disent.
+Personne n’apporte cette maison 3 dans la relation : elle se forme entre vous. [Saturne en maison 3](/astrology/saturn-in-3rd-house/), dans un thème natal, veut d’ordinaire dire une parole prudente et une confiance tardive en ses propres idées, et [Saturne de l’autre dans votre maison 3](/astrology/saturn-in-3rd-house-synastry/), une personne qui pèse les mots de l’autre. Ici, la pesée est mutuelle : deux personnes très bavardes peuvent découvrir qu’ensemble, elles parlent plus lentement, et pensent davantage ce qu’elles disent.
 
 Entre [Saturne composite en maison 2](/astrology/composite-saturn-in-2nd-house/), qui veille sur ce que le lien possède, et [Saturne composite en maison 4](/astrology/composite-saturn-in-4th-house/), qui veille sur son foyer, la maison 3 est la rue devant la porte : les courses, les visites, le trajet quotidien, le colis réceptionné pour les voisins.
 
 Le risque, c’est le silence. Un lien qui pèse chaque mot peut cesser de dire les petites choses, et les sérieuses arrivent alors chargées d’un poids excessif. Les devoirs envers la fratrie ou le voisinage peuvent aussi prendre à la paire plus de temps que l’une ou l’autre personne n’en choisirait, parce que dire non ressemble à une promesse rompue. Ce qui aide : continuer les petites conversations, les nouvelles sans importance, la blague, la remarque en passant ; partager les devoirs familiaux et de voisinage avec d’autres ; et continuer d’apprendre ensemble quelque chose qui n’a rien d’une obligation.
 
-J’écris sur les composites sans m’en servir dans mes lectures. Les astrologues qui s’en servent lisent Saturne en maison 3 à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et n’en tirent aucune prédiction.
+Comme il convient à une maison de l’apprentissage, les composites sont pour moi un sujet d’étude et d’écriture, pas un outil de mes lectures. Les astrologues qui s’en servent lisent Saturne en maison 3 à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et n’en tirent aucune prédiction.

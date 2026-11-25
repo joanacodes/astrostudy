@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "5th house", "composite chart"]
 weight: 2233
 glyph: "⚷"
-definition: "Composite Chiron in the 5th house places the relationship chart’s Chiron in the house of play, pleasure, romance and creativity, which tradition called Good Fortune. Astrologers read a bond shy of its own enjoyment, which invents its own ways of having fun. It predicts no children, and its house needs both birth times."
+definition: "Composite Chiron in the 5th house means the relationship’s Chiron sits in Good Fortune, the old name for the house of play, pleasure, romance and creativity. Astrologers read a bond shy of its own enjoyment, which invents its own ways of having fun. It predicts no children, and its house needs both birth times."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 5th house, of play, pleasure and romance" }
@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "Vettius Valens, Anthology", note: "the 5th house, Good Fortune, and what tradition gave it" }
 ---
-Some couples can run a household, survive a crisis and plan a decade ahead, and still not know how to spend a free Saturday together. Composite Chiron in the 5th house puts the relationship's tender spot in its pleasures, and describes the ways two people learn to enjoy what they have.
+Some couples can run a household, survive a crisis and plan a decade ahead, and still not know how to spend a free Saturday together. Composite Chiron in the 5th house is the placement of that free Saturday: pleasure is the tender part, and enjoying what they have is something the pair learns.
 
 ## What it says about the two of you {#what-it-says}
 

@@ -1,7 +1,7 @@
 ---
 title: "Composite Chiron in Sagittarius"
 h1: "Composite Chiron in Sagittarius: the relationship’s chart"
-description: "Composite Chiron in Sagittarius: a relationship tender about meaning, belief and freedom, the shared outlook it builds, how common it is and who has it."
+description: "Composite Chiron in Sagittarius: a relationship tender about meaning, belief and freedom, the shared outlook it builds, and the birth years behind it."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "Sagittarius", "composite chart"]
 weight: 2225
 glyph: "⚷♐"
-definition: "Composite Chiron in Sagittarius puts the relationship chart’s Chiron, the midpoint of two natal Chirons, in the sign drawn as a centaur, ruled by Jupiter. Meaning, belief and freedom are its sore points, and the pair adapts by building one outlook out of two different ones. It comes up for about 1 pair in 18."
+definition: "Composite Chiron in Sagittarius is a relationship’s Chiron, averaged from two birth charts, standing in the sign drawn as a centaur and ruled by Jupiter. Meaning, belief and freedom are its sore points, and the pair adapts by building one outlook out of two different ones. Its share is about 1 pair in 18."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷, the midpoint of your two natal Chirons" }
   - { k: "Sign", v: "Sagittarius ♐, mutable fire, ruled by Jupiter" }
@@ -28,7 +28,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Chiron falls in Sagittarius, and the birth years that give it to pairs of the same age" }
 ---
-Two faiths at one table, two countries in one family, or simply two very different ideas of what a good life is: some relationships are made of distances. Composite Chiron in Sagittarius makes meaning the bond's tender spot, and describes the outlook two people piece together from their separate ones.
+Two faiths at one table, two countries in one family, or simply two very different ideas of what a good life is: some relationships are made of distances. Composite Chiron in Sagittarius asks such a relationship what it means, and the answer is an outlook pieced together from two separate ones.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -36,7 +36,7 @@ In myth, Chiron was the centaur who taught; in [the composite chart](/astrology/
 
 Ask each of you what you believe and the answers may come easily; ask what the two of you believe together, and the pause that follows is what the composite describes. Its answer is to explore: learning the other's language or holidays, travelling to understand rather than to escape, a habit of asking *why do you see it that way?* and listening to the answer. Pairs who manage it often end up teaching, formally or not, because explaining two worlds to each other turned out to be a skill.
 
-About 1 pair in 18 has it, in two million pairs of birth dates drawn from 1930 to 2009, the same share as Leo. Chiron crossed Sagittarius from November 1948 to November 1951 and from January 1999 to December 2001, and two people born in the same one of those spans share it. Ten years can bring others here. Someone born in June 1996 has Chiron at about 8° Libra, someone born in June 2006 at about 9° Aquarius, a trine apart, and their composite Chiron sits at about 9° Sagittarius, in the sign between the two.
+Its share matches Leo's, about 1 pair in 18 across two million random pairings of births from 1930 to 2009. Chiron crossed Sagittarius from November 1948 to November 1951 and from January 1999 to December 2001, and two people born in the same one of those spans share it. Ten years can bring others here: with Chiron at about 8° Libra for a birth in June 1996 and about 9° Aquarius for one in June 2006, a trine apart, the composite lands at about 9° Sagittarius, the sign between.
 
 [Chiron in Sagittarius](/astrology/chiron-in-sagittarius/) in a single chart is one person's search for a creed of their own. The composite's search is for a creed two people can hold, which is a slower and more generous business.
 

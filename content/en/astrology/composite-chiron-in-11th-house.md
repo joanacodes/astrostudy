@@ -1,7 +1,7 @@
 ---
 title: "Composite Chiron in the 11th house"
 h1: "Composite Chiron in the 11th house: the relationship’s chart"
-description: "Composite Chiron in the 11th house: a relationship tender about friends, groups and shared hopes, the circle it gathers for itself, and what its house needs."
+description: "Composite Chiron in the 11th house: a relationship tender about friends, groups and shared hopes, the circle it gathers, and what to do without a birth time."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "11th house", "composite chart"]
 weight: 2239
 glyph: "⚷"
-definition: "Composite Chiron in the 11th house places the relationship chart’s Chiron in the house of friends, groups and hopes, which tradition called the Good Spirit. Astrologers read a bond tender about where it belongs socially, which gathers its own people and its own plans. Its house depends on both birth times."
+definition: "Composite Chiron in the 11th house is the relationship chart’s Chiron among friends, groups and hopes, in the house once called the Good Spirit. Astrologers read a bond tender about where it belongs socially, which gathers its own people and its own plans. Its house depends on both birth times."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 11th house, of friends, groups and hopes" }
@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "Vettius Valens, Anthology", note: "the 11th house, the Good Spirit, and what tradition gave it" }
 ---
-Two sets of friends who never quite mix, a club where only one of you feels at home, a future each of you pictures differently: the 11th house is where a relationship meets its wider circle and its hopes. Composite Chiron there puts the bond's tender spot in that circle, and describes the people and plans the pair gathers for itself.
+Two sets of friends who never quite mix, a club where only one of you feels at home, a future each of you pictures differently: the 11th house is where a relationship meets its wider circle and its hopes. A composite Chiron in it makes the circle tender, and gathering the right people and plans becomes the pair's own work.
 
 ## What it says about the two of you {#what-it-says}
 

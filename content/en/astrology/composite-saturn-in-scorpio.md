@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Saturn", "Scorpio", "composite chart"]
 weight: 2128
 glyph: "♄♏"
-definition: "Composite Saturn in Scorpio describes a relationship chart whose Saturn, the midpoint of two natal Saturns, lies in fixed water, the sign ruled by Mars and Pluto. Astrologers read a bond whose structure is trust earned slowly: confidences kept, a shared life consolidated, loyalty that holds under pressure. It describes depth, not destiny."
+definition: "Composite Saturn in Scorpio brings the planet of commitment into fixed water, ruled by Mars and Pluto, at the midpoint of two natal Saturns. Astrologers read a bond whose structure is trust earned slowly: confidences kept, a shared life consolidated, loyalty that holds under pressure. It describes depth, not destiny."
 facts:
   - { k: "Body", v: "Composite Saturn ♄, at the nearer midpoint of your two natal Saturns" }
   - { k: "Sign", v: "Scorpio ♏, fixed water, ruled by Mars and by Pluto" }
@@ -36,7 +36,7 @@ Trust, for this relationship, is a long apprenticeship. Composite Saturn in Scor
 
 The composite's [Saturn](/astrology/saturn/) carries a relationship's long-term weight, the commitments it can't easily put down. In [Scorpio](/astrology/scorpio/), fixed water, that weight settles on trust. Commitment means confidences kept, a shared life consolidated piece by piece, and a loyalty that holds under strain. The bond's rules often concern what stays between the two of you: the things you tell no one else, the decisions you make without outside advice. [The composite chart](/astrology/composite-chart/) reads all of this as the relationship's character, not as either person's temperament.
 
-Scorpio has two rulers, Mars in the tradition and Pluto in modern tropical astrology ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)), and I read both in any chart. Applied to a composite, that habit means looking at composite Mars, for how the bond acts and defends itself, and at composite Pluto, for how it changes over time. Tradition gives Saturn no dignity in Scorpio, neither home nor weakness, so its reading rests on the sign's own manner: depth first, surface later.
+I read both of Scorpio's rulers in any chart: Mars, which held the sign in the tradition, and Pluto, which modern tropical astrology gave it ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Applied to a composite, that habit means looking at composite Mars, for how the bond acts and defends itself, and at composite Pluto, for how it changes over time. Tradition gives Saturn no dignity in Scorpio, neither home nor weakness, so its reading rests on the sign's own manner: depth first, surface later.
 
 Most of the pairs who have it, about 1 in 13 of two million drawn from the births of 1930 to 2009, are of an age, with both people born between October 1953 and October 1956, or between November 1982 and November 1985. Pairs with an age gap reach it another way, through two Saturns that bracket Scorpio, and their bond may then be more patient with trust than either of them is alone. That's the composite at work: the relationship has a Saturn of its own, which neither of you carries into a room alone.
 

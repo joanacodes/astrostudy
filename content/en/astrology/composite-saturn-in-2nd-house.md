@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Saturn", "2nd house", "composite chart"]
 weight: 2134
 glyph: "♄"
-definition: "Composite Saturn in the 2nd house sets the relationship chart’s Saturn in the succedent house of resources, possessions and values. Astrologers read a pair that builds its security slowly: careful with what it has, slow to agree on what matters, loyal to what it keeps. It says nothing about money, and only both birth times can place it."
+definition: "Composite Saturn in the 2nd house ties a relationship’s commitments to what it owns and values, in a succedent house. Astrologers read a pair that builds its security slowly: careful with what it has, loyal to what it keeps. It forecasts no wealth or debt, and placing it takes a birth time from each of you."
 facts:
   - { k: "Body", v: "Composite Saturn ♄, the midpoint of your two natal Saturns" }
   - { k: "House", v: "The 2nd house: resources, possessions, values" }

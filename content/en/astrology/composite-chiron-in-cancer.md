@@ -1,7 +1,7 @@
 ---
 title: "Composite Chiron in Cancer"
 h1: "Composite Chiron in Cancer: the relationship’s chart"
-description: "Composite Chiron in Cancer: a relationship tender about belonging and home, the shelter and care it learns to make itself, how common it is and who has it."
+description: "Composite Chiron in Cancer: a relationship tender about belonging and home, the shelter and care it learns to make itself, and the years that give it."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "Cancer", "composite chart"]
 weight: 2220
 glyph: "⚷♋"
-definition: "With composite Chiron in Cancer, the relationship chart’s Chiron, halfway between the two natal ones, sits in the Moon’s sign, the sign of home. The bond is read as tender about belonging, to a home, to its families, to each other, and as learning to make its own shelter and care. About 1 pair in 14 has it."
+definition: "With composite Chiron in Cancer, the relationship chart’s Chiron, halfway between the two natal ones, sits in the Moon’s sign, the sign of home. The bond is read as tender about belonging, to a home, to its families, and as learning to make its own shelter. Fewer pairs have it than the signs before, about 1 in 14."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷, halfway between your two natal Chirons" }
   - { k: "Sign", v: "Cancer ♋, cardinal water, ruled by the Moon" }
@@ -23,12 +23,12 @@ faq:
   - q: "Is composite Chiron in Cancer about family problems?"
     a: "Not as a prediction. Cancer covers home, family and belonging, so astrologers read the bond as sensitive there: where it fits, who welcomes it, how care is shared. A composite can’t say how any family will behave, or whether two people will live together; it describes a tender place, not an event."
   - q: "Why is composite Chiron in Cancer less common than in Aries?"
-    a: "Chiron crosses Cancer in three or four years but spends eight or nine in Aries, so fewer people are born with it in Cancer and fewer midpoints land there. In two million random pairs born 1930–2009, Cancer came up for about 1 pair in 14, Aries for about 1 in 7."
+    a: "Chiron crosses Cancer in three or four years but spends eight or nine in Aries, so fewer people are born with it in Cancer and fewer midpoints land there. Two million random pairs born 1930–2009 give about 1 in 14 for Cancer, against about 1 in 7 for Aries."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Chiron falls in Cancer, and the birth years that give it to pairs of the same age" }
 ---
-Every relationship has to work out where it lives, in a flat, in two families, in a circle of friends, and some find that question harder than others. Composite Chiron in Cancer makes belonging the bond's tender spot, and describes the shelter the two people learn to build for it.
+Every relationship has to work out where it lives, in a flat, in two families, in a circle of friends, and some find that question harder than others. For a pair with composite Chiron in Cancer, belonging is the sore question, and shelter is something the two of them learn to build by hand.
 
 ## What it says about the two of you {#what-it-says}
 

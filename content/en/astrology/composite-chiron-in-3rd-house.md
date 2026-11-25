@@ -1,7 +1,7 @@
 ---
 title: "Composite Chiron in the 3rd house"
 h1: "Composite Chiron in the 3rd house: the relationship’s chart"
-description: "Composite Chiron in the 3rd house: a relationship tender in its everyday exchanges and close ties, the daily rhythm it builds, and what its house needs."
+description: "Composite Chiron in the 3rd house: a relationship tender in its everyday exchanges and close ties, the daily rhythm it builds, and the birth times it needs."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "3rd house", "composite chart"]
 weight: 2231
 glyph: "⚷"
-definition: "Composite Chiron in the 3rd house sets the relationship chart’s Chiron in the house of daily talk, messages, short trips and the people close at hand, which tradition called the Goddess. The bond’s tender spot is its everyday exchange, and it adapts with a rhythm of contact of its own. It needs both birth times."
+definition: "With composite Chiron in the 3rd house, the relationship’s Chiron falls among daily talk, messages, short trips and the people close at hand, in the house tradition called the Goddess. The bond’s tender spot is its everyday exchange, and it adapts with a rhythm of contact of its own. It needs both birth times."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 3rd house, of daily talk and the near world" }
@@ -29,11 +29,11 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "Vettius Valens, Anthology", note: "the 3rd house, the Goddess, and what tradition gave it" }
 ---
-Most of a relationship happens in small exchanges: the message at lunchtime, the drive to the station, the sister who drops in, the neighbour who waves. Composite Chiron in the 3rd house puts the bond's tender spot in that everyday traffic, and describes the rhythm of contact two people learn to make their own.
+Most of a relationship happens in small exchanges: the message at lunchtime, the drive to the station, the sister who drops in, the neighbour who waves. Composite Chiron in the 3rd house finds the bond's soreness in that everyday traffic; what it teaches is a rhythm of contact two people can keep.
 
 ## What it says about the two of you {#what-it-says}
 
-[The 3rd house](/astrology/3rd-house/) covers the near world: daily conversation, messages, errands and short journeys, siblings, neighbours, what gets learned along the way. The [Moon](/astrology/moon/), whose joy is here, suits a house the old books called the Goddess. [Chiron](/astrology/chiron/) in this house of [the composite chart](/astrology/composite-chart/) turns the relationship's everyday weather into its sore point. The pair may misread each other's messages, find the daily logistics oddly fraught, or feel that the people close at hand, a brother, a flatmate, the street they live on, don't quite make room for them as a pair.
+[The 3rd house](/astrology/3rd-house/) covers the near world: daily conversation, messages, errands and short journeys, siblings, neighbours, what gets learned along the way. The [Moon](/astrology/moon/), whose joy is here, suits a house the old books called the Goddess. [Chiron](/astrology/chiron/) in this house of [the composite chart](/astrology/composite-chart/) turns the relationship's everyday weather into its sore point. The pair may misread each other's messages, find the daily logistics oddly fraught, or feel that the people close at hand, a brother, a flatmate, the street they live on, don't quite make room for them as a pair. Siblings count here too: a brother's teasing or a sister's silence can weigh on the pair more than either person expected.
 
 You may each message your friends all day and still find that the messages between the two of you are the ones that go astray. Rhythm is the fix: a time of day for talking, a way of flagging *this matters* in a message, a shared calendar, a walk round the block when something needs saying. Such pairs often become the ones relatives and neighbours confide in, having learned to listen at close range.
 

@@ -28,7 +28,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read, from before Chiron’s discovery in 1977" }
   - { title: "Vettius Valens, Anthology", note: "the 8th house and what tradition gave it" }
 ---
-A joint account, a shared debt, a body, a secret: the 8th house holds what two people stop keeping separate. Composite Chiron there puts the relationship's tender spot in that merging, and describes the careful, staged way two people learn to pool their lives.
+A joint account, a shared debt, a body, a secret: the 8th house holds what two people stop keeping separate. When composite Chiron sits in it, merging is the delicate part, and pooling a life happens carefully, in stages.
 
 ## What it says about the two of you {#what-it-says}
 
