@@ -28,7 +28,7 @@ sources:
   - { title: "Wikipedia — Succedent house", url: "https://en.wikipedia.org/wiki/Succedent_house", note: "the 11th as Good Spirit, a house of hopes and of worldly abundance; Jupiter as the ancient planet of money" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp as significator of its matters; the 2nd as finances and movable goods" }
 ---
-Older astrologers expected good things to arrive through the 11th: patrons, gains, a wish granted. With the planet that rules it in the 2nd, the house of money, belongings and self-worth, your friendships and your resources lean on each other, in ways both practical and quiet.
+Older astrologers expected good things to arrive through the 11th: patrons, gains, a wish granted. Put the planet that rules it in the 2nd, the house of money, belongings and self-worth, and your friendships and your resources lean on each other, in ways both practical and quiet.
 
 ## What it means {#what-it-means}
 
@@ -40,6 +40,6 @@ Tradition gave the 11th more of this than modern tropical astrology does. It was
 
 Counted by sign, the 2nd stands a square from the 11th, the aspect tradition gave friction and effort. I read it as a real pull between what you give the group and what you keep for yourself, between the shared plan and your own budget. It rarely settles for good: you settle it again with each cause that asks for a contribution, and the settling is where your values become clear.
 
-The planet sets the terms. Venus, ruling a Taurus or Libra 11th, tends to make friendship and taste one subject: you value what your friends value, and you give well. Jupiter, ruling a Sagittarius 11th, can be generous to a fault with your circle. A Pisces cusp splits the rulership between Jupiter and Neptune, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Jupiter in the 2nd ties your means to your ideals, while Neptune, wherever it stands, asks you to see clearly what a cause costs.
+The planet sets the terms. Venus, ruling a Taurus or Libra 11th, tends to make friendship and taste one subject: you value what your friends value, and you give well. Jupiter, ruling a Sagittarius 11th, can be generous to a fault with your circle. Where Pisces opens the house, I follow two planets, Jupiter and Neptune, and read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Jupiter in the 2nd ties your means to your ideals, while Neptune, wherever it stands, asks you to see clearly what a cause costs.
 
 Both cusps come from your birth time, in [Placidus](/astrology/placidus/) as in any quadrant system ([what changes without a birth time](/blog/unknown-birth-time/)). A ruler close to the 2nd cusp would have crossed into the 1st with a slightly later birth, and your circle would shape your manner rather than your means ([Ruler of the 11th in the 1st house](/astrology/11th-house-ruler-in-1st-house/)). One close to the 3rd cusp needed only a slightly earlier birth to sit among conversations, classes and neighbours ([Ruler of the 11th in the 3rd house](/astrology/11th-house-ruler-in-3rd-house/)).

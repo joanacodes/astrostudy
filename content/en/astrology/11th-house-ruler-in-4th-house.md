@@ -27,11 +27,11 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve places and the signs that see each other" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp as significator; the 4th as parents, houses and land" }
 ---
-Some kitchens are never empty. With the planet that rules your 11th house in the 4th, the people you've chosen find their way into your home, and the future you hope for usually has a front door in it.
+Some kitchens are never empty. Here the planet of your 11th house has settled in the 4th: the people you've chosen find their way into your home, and the future you hope for usually has a front door in it.
 
 ## What it means {#what-it-means}
 
-The [4th house](/astrology/4th-house/) begins at the lowest point of the chart, the [Imum Coeli](/astrology/imum-coeli/): home, roots, family, the private self beneath the public one. The [11th](/astrology/11th-house/) is the house of the friends you pick rather than inherit, of the groups you join and of the plans you make for later. Follow its ruler and you find where those matters are lived ([house rulers](/astrology/house-rulers/)): here, by the hearth.
+The [4th house](/astrology/4th-house/), opened by the [Imum Coeli](/astrology/imum-coeli/) beneath your feet, holds home, roots, family and the private self beneath the public one. The [11th](/astrology/11th-house/) is the house of the friends you pick rather than inherit, of the groups you join and of the plans you make for later. Follow its ruler and you find where those matters are lived ([house rulers](/astrology/house-rulers/)): here, by the hearth.
 
 Friends tend to become household. The meeting happens at your table, the spare room has hosted half your circle, and the people you'd ring in a crisis are as likely to be friends as relatives. Some build a family of choice alongside the one they were born into, or in its place; others bring friends into the family they have until the line blurs. Your hopes take a domestic shape too: where you'll live and with whom, what kind of home you'd like to make, sometimes a house shared with friends or a group of households living close together.
 

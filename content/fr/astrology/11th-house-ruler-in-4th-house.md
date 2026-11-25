@@ -28,11 +28,11 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze lieux et les signes qui se voient" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison comme significateur ; la maison 4 comme parents, maisons et terres" }
 ---
-Certaines cuisines ne sont jamais vides. Avec la planète qui gouverne votre maison 11 en maison 4, les personnes que vous avez choisies trouvent le chemin de chez vous, et l’avenir que vous espérez a presque toujours une porte d’entrée.
+Certaines cuisines ne sont jamais vides. Ici, la planète de votre maison 11 s’est installée en maison 4 : les personnes que vous avez choisies trouvent le chemin de chez vous, et l’avenir que vous espérez a presque toujours une porte d’entrée.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
-La [maison 4](/astrology/4th-house/) commence au point le plus bas du thème, le [Fond du Ciel](/astrology/imum-coeli/) : le foyer, les racines, la famille, le moi intime sous le moi public. La [maison 11](/astrology/11th-house/) est celle des amis que l’on choisit plutôt qu’on n’en hérite, des groupes que l’on rejoint et des projets que l’on forme pour plus tard. Suivez son maître et vous trouverez où se vivent ces affaires ([maîtres des maisons](/astrology/house-rulers/)) : ici, au coin du feu.
+La [maison 4](/astrology/4th-house/), ouverte par le [Fond du Ciel](/astrology/imum-coeli/) sous vos pieds, réunit le foyer, les racines, la famille et le moi intime sous le moi public. La [maison 11](/astrology/11th-house/) est celle des amis que l’on choisit plutôt qu’on n’en hérite, des groupes que l’on rejoint et des projets que l’on forme pour plus tard. Suivez son maître et vous trouverez où se vivent ces affaires ([maîtres des maisons](/astrology/house-rulers/)) : ici, au coin du feu.
 
 Les amis deviennent volontiers la maisonnée. La réunion se tient à votre table, la chambre d’amis a accueilli la moitié de votre cercle, et les personnes que vous appelleriez en pleine crise sont aussi souvent des amis que des parents. Certaines personnes bâtissent une famille choisie à côté de leur famille d’origine, ou à sa place ; d’autres font entrer leurs amis dans la famille qu’elles ont, jusqu’à ce que la frontière s’efface. Vos espoirs prennent aussi une forme domestique : où vous vivrez et avec qui, quel foyer vous aimeriez construire, parfois une maison partagée avec des amis ou quelques foyers qui vivent tout près les uns des autres.
 
