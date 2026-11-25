@@ -32,7 +32,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part du Nœud Nord composite en Sagittaire, et les années de naissance qui le donnent aux paires du même âge" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-Certaines paires peuvent passer une heure à décider qui va chercher qui, par quelle route et à qui c’est le tour, sans jamais se demander à quoi sert tout cela. Le Nœud Nord composite en Sagittaire fait lever les yeux de la relation, des courses vers l’horizon.
+Qui va chercher qui, par quelle route, à qui le tour : certaines paires peuvent y passer une heure sans jamais se demander à quoi sert tout cela. Le Nœud Nord composite en Sagittaire fait lever les yeux de la relation, des courses vers l’horizon.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
@@ -40,7 +40,7 @@ C’est une technique que je décris plutôt que je ne la pratique : [le thème
 
 Cette agitation appartient au lien, et elle peut dérouter deux personnes qui réfléchissent profondément chacune de leur côté. Ensemble, la conversation reste pratique et légère, comme si le sens était pour plus tard. La direction Sagittaire fait de la place à la longue conversation, au cours suivi ensemble, au voyage construit autour d’une question plutôt que d’une plage. Jupiter composite, qui gouverne le signe, montre où cet élargissement vient le plus facilement.
 
-Pour une seule personne, le [Nœud Nord en Sagittaire](/astrology/north-node-in-sagittarius/) consiste à faire confiance à une conviction à soi plutôt qu’aux détails sans fin. Un composite demande à une paire d’en trouver une commune, ce qui est plus difficile : deux philosophies coïncident rarement, et la croissance tient souvent dans un sens construit ensemble plutôt qu’emprunté à l’un des deux côtés.
+Une personne née avec le [Nœud Nord en Sagittaire](/astrology/north-node-in-sagittarius/) apprend à faire confiance à une conviction à elle plutôt qu’aux détails sans fin. Un composite demande à une paire d’en trouver une commune, ce qui est plus difficile : deux philosophies coïncident rarement, et la croissance tient souvent dans un sens construit ensemble plutôt qu’emprunté à l’un des deux côtés.
 
 Environ 1 paire sur 12 l’avait parmi deux millions de paires tirées au hasard, nées entre 1930 et 2009, près de la part égale. Les paires du même âge le partagent quand les deux naissances tombent dans l’un des passages du nœud en Sagittaire : de septembre 1936 à mars 1938, d’avril 1955 à octobre 1956, d’octobre 1973 à juillet 1975, ou d’août 1992 à janvier 1994. Un écart de six ans environ peut aussi y mener : avec des naissances en octobre 1952 et en février 1959, et des Nœuds Nord natals vers 20° Verseau et 14° Balance, une paire a un Nœud Nord composite vers 17° Sagittaire.
 

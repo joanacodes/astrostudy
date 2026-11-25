@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Nœud Nord", "maison 3", "thème composite"]
 weight: 2279
 glyph: "☊"
-definition: "Le Nœud Nord composite en maison 3 met le Nœud Nord du thème de la relation dans la maison cadente des échanges quotidiens et du voisinage, face à un Nœud Sud composite en maison 9. Les astrologues y lisent un lien à l’aise dans les grandes idées qui apprend l’échange de tous les jours. Il faut les deux heures."
+definition: "Le Nœud Nord composite en maison 3 signifie que le mi-point de deux Nœuds Nord natals tombe, dans le thème de la relation, dans la maison cadente des échanges quotidiens et des petits trajets, face au Nœud Sud en maison 9. Les astrologues y voient une paire de grandes idées qui apprend l’échange de tous les jours."
 facts:
   - { k: "Corps", v: "Nœud Nord composite ☊, au mi-point le plus proche de vos deux Nœuds Nord natals" }
   - { k: "Maison", v: "La maison 3, des échanges quotidiens et du monde proche" }
@@ -31,13 +31,13 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, leurs joies et leurs noms anciens" }
 ---
-Un couple peut débattre du sens de la vie jusqu’à deux heures du matin et oublier quand même de demander à l’autre comment s’est passée sa journée. Le Nœud Nord composite en maison 3 ramène une relation de ce genre à la table de la cuisine, à la rue et à la question ordinaire.
+Un couple peut débattre du sens de la vie jusqu’à deux heures du matin et oublier quand même de demander à l’autre comment s’est passée sa journée. Le Nœud Nord composite en maison 3 ramène cette relation dans la rue, à l’arrêt de bus et à la question ordinaire.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-Dans [le thème composite](/astrology/composite-chart/), construit point par point avec les mi-points de deux thèmes natals, le [Nœud Nord](/astrology/north-node/) est la direction de croissance de la relation, et le [Nœud Sud](/astrology/south-node/), en face, son terrain familier. Ici, ce terrain, c’est la [maison 9](/astrology/9th-house/) : les convictions, les philosophies, les projets lointains, la vue d’ensemble. Le Nœud Nord se trouve en [maison 3](/astrology/3rd-house/), cadente, naturellement celle des Gémeaux, et la maison que les anciens astrologues appelaient la Déesse, où la Lune avait sa joie. Ses sujets sont proches et quotidiens : les conversations, les messages, les courses, les voisins, les frères et sœurs, les petits trajets, apprendre en posant des questions.
+Dans [le thème composite](/astrology/composite-chart/), construit point par point avec les mi-points de deux thèmes natals, le [Nœud Nord](/astrology/north-node/) est la direction de croissance de la relation, et le [Nœud Sud](/astrology/south-node/), en face, son terrain familier. Ici, ce terrain, c’est la [maison 9](/astrology/9th-house/) : les convictions, les philosophies, les projets lointains, la vue d’ensemble. Son Nœud Nord est en [maison 3](/astrology/3rd-house/), une maison cadente, celle des Gémeaux par nature, que les anciens astrologues nommaient la Déesse et où ils plaçaient la joie de la Lune. Les sujets y sont proches et quotidiens : les conversations, les messages, les courses, les voisins, les frères et sœurs, les petits trajets, apprendre en posant des questions.
 
-Le schéma appartient au lien, et il peut surprendre deux personnes qui savent très bien écouter ailleurs. Ensemble, la conversation remonte toujours vers les principes et les projets d’un ailleurs à venir, tandis que les petites nouvelles ne se partagent pas. La direction de la maison 3, c’est l’habitude de remarquer : la scène drôle à la boulangerie, une question posée parce qu’on veut vraiment la réponse, un tour du quartier sans destination.
+Il peut surprendre deux personnes qui savent très bien écouter ailleurs, car le schéma vit entre elles. Ensemble, la conversation remonte toujours vers les principes et les projets d’un ailleurs à venir, tandis que les petites nouvelles ne se partagent pas. La direction de la maison 3, c’est l’habitude de remarquer : la scène drôle à la boulangerie, une question posée parce qu’on veut vraiment la réponse, un tour du quartier sans destination.
 
 Comparé au [Nœud Nord en maison 3](/astrology/north-node-in-3rd-house/) d’une seule personne, qui apprend en demandant, ou au [Nœud Nord de l’autre dans votre maison 3](/astrology/north-node-in-3rd-house-synastry/), où la croissance de quelqu’un passe par vos conversations, le nœud composite place la curiosité dans l’espace entre vous.
 
@@ -45,6 +45,6 @@ De toutes les parties du composite, les cuspides intermédiaires sont celles qui
 
 Avec tant de choix, un nœud proche de l’une ou l’autre cuspide peut bouger : revenir vers le [Nœud Nord composite en maison 2](/astrology/composite-north-node-in-2nd-house/), ou passer au [Nœud Nord composite en maison 4](/astrology/composite-north-node-in-4th-house/). Le nœud moyen et le nœud vrai ajoutent leur degré ou deux, et je regarde les deux.
 
-Le piège de la maison 3, c’est le bavardage qui remplace le contact : un flot d’organisation et de nouvelles où rien de personnel ne se dit, ou une relation qui connaît les affaires de toute la rue et peu des siennes. Les petits rituels aident le plus : dix minutes par jour pour échanger les nouvelles sans écran, un cours à la bibliothèque du quartier, la même promenade jusqu’au même café. Le bout maison 9 donne du sens à la parole : son idée de ce qui compte transforme l’échange quotidien en vraie conversation.
+Le bavardage qui remplace le contact, voilà le défaut de la maison 3 : un flot d’organisation et de nouvelles où rien de personnel ne se dit, ou une relation qui connaît les affaires de toute la rue et peu des siennes. Les petits rituels aident le plus : dix minutes par jour pour échanger les nouvelles sans écran, un cours à la bibliothèque du quartier, la même promenade jusqu’au même café. Le bout maison 9 donne du sens à la parole : son idée de ce qui compte transforme l’échange quotidien en vraie conversation.
 
 Les astrologues qui emploient les composites placent ce nœud à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et il décrit une direction, ni un événement ni un verdict. Le thème lui-même devrait faire partie de la conversation entre vous, jamais devenir un dossier tenu sur l’une des deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

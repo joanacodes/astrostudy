@@ -32,7 +32,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part du Nœud Nord composite en Lion, et les années de naissance qui le donnent aux paires du même âge" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-Le couple sur lequel tout le monde compte pour les retrouvailles, la collecte de fonds et les vacances en bande n’a peut-être pas eu une soirée à lui depuis le printemps. Le Nœud Nord composite en Lion demande à une telle relation de sortir de la foule et de savourer le plaisir d’être vous deux.
+Le couple sur lequel tout le monde compte pour les retrouvailles, la collecte de fonds et les vacances en bande n’a peut-être pas eu une soirée à lui depuis le printemps. Quand le Nœud Nord composite tombe en Lion, la croissance consiste à sortir de la foule et à savourer le plaisir d’être vous deux.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

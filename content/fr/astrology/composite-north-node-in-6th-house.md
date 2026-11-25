@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Nœud Nord", "maison 6", "thème composite"]
 weight: 2282
 glyph: "☊"
-definition: "Le Nœud Nord composite en maison 6 place le Nœud Nord du thème de la relation dans la maison cadente des habitudes quotidiennes et du travail utile, avec le Nœud Sud composite en maison 12. Les astrologues y lisent un lien rêveur qui apprend à donner une forme à ses journées. Il ne prédit aucune maladie."
+definition: "Le Nœud Nord composite en maison 6 désigne un thème de relation dont le Nœud Nord se trouve parmi les habitudes et le travail utile, en maison 6 cadente, et le Nœud Sud dans la rêveuse maison 12. Un lien à la dérive y apprend à donner une forme à ses journées. Aucune maladie n’est prédite."
 facts:
   - { k: "Corps", v: "Nœud Nord composite ☊, au mi-point le plus proche de vos deux Nœuds Nord natals" }
   - { k: "Maison", v: "La maison 6, des habitudes, des tâches et du travail utile" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/north-node-in-6th-house", "/astrology/6th-house", "/astrology/12th-house", "/astrology/can-astrology-predict-health-problems"]
 faq:
   - q: "Que veut dire le Nœud Nord composite en maison 6 ?"
-    a: "Le thème de la relation place son Nœud Nord dans la maison de la vie quotidienne, des habitudes et du travail utile, et son Nœud Sud en maison 12, celle du retrait et de l’invisible. Les astrologues y lisent un lien qui dérive facilement et grandit en organisant ses journées : tâches partagées, habitudes stables, travail côte à côte."
+    a: "Les astrologues y lisent une relation qui dérive facilement, son Nœud Sud étant en maison 12, celle du retrait, et qui grandit en organisant ses journées en maison 6 : tâches partagées, habitudes stables, travail côte à côte. La maison 6 est celle de la vie quotidienne et du travail utile."
   - q: "Le Nœud Nord composite en maison 6 parle-t-il de santé ?"
     a: "Non. La tradition donnait la maladie à la maison 6, mais aucun placement composite ne prédit la santé de qui que ce soit, et aucun thème ne pose de diagnostic. Ici, la maison 6 décrit les habitudes quotidiennes de la relation et le soin pratique que deux personnes se donnent : une question d’habitudes, pas de médecine."
   - q: "Le Nœud Nord composite en maison 6 est-il bon pour travailler ensemble ?"
@@ -31,15 +31,15 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, leurs joies et leurs noms anciens" }
 ---
-Certaines relations vivent de longs week-ends à la dérive, où personne ne se souvient vraiment de qui doit faire à manger. Le Nœud Nord composite en maison 6 demande à un tel lien de donner une forme à ses journées, et de trouver de l’intimité dans cette forme.
+De longs week-ends à la dérive, et personne ne se souvient vraiment de qui doit faire à manger. Le Nœud Nord composite en maison 6 demande à un tel lien de donner une forme à ses journées, et de trouver de l’intimité dans cette forme.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-[Le thème composite](/astrology/composite-chart/) traite une relation comme un thème à part entière, dont chaque point est un mi-point entre deux positions natales. Son [Nœud Nord](/astrology/north-node/) est la direction que le lien apprend ; son [Nœud Sud](/astrology/south-node/), toujours en face, l’endroit où il se retire. Ici, le retrait, c’est la [maison 12](/astrology/12th-house/) : les rêves, la solitude, un talent pour disparaître ensemble du monde. Le Nœud Nord se trouve en [maison 6](/astrology/6th-house/), cadente, naturellement celle de la Vierge, que les astrologues grecs appelaient la Fortune défavorable et dont ils faisaient la joie de Mars. Le nom est celui de la tradition, pas un jugement : dans une relation, la maison 6 couvre le quotidien, les tâches partagées, les habitudes tenues, le travail bien fait côte à côte.
+[Le thème composite](/astrology/composite-chart/) traite une relation comme un thème à part entière, dont chaque point est un mi-point entre deux positions natales. Son [Nœud Nord](/astrology/north-node/) est la direction que le lien apprend ; son [Nœud Sud](/astrology/south-node/), toujours en face, l’endroit où il se retire. Ici, le retrait, c’est la [maison 12](/astrology/12th-house/) : les rêves, la solitude, un talent pour disparaître ensemble du monde. Le Nœud Nord est en [maison 6](/astrology/6th-house/), cadente et celle de la Vierge par nature. Son nom grec, la Fortune défavorable, et son rôle de joie de Mars sont des étiquettes de la tradition, pas des jugements ; dans une relation, la maison 6 couvre le quotidien, les tâches partagées, les habitudes tenues, le travail bien fait côte à côte.
 
-La dérive appartient au lien. Chacune des deux personnes peut mener seule une vie bien ordonnée, et pourtant, à deux, la relation flotte, comme si la routine allait gâcher quelque chose de précieux. La direction de la maison 6 dit que la routine peut être précieuse : le café du matin préparé pour l’autre, un tour de rôle équitable, un travail commun fait avec soin, une semaine qui tourne sur des accords plutôt que sur des humeurs. Un bon début : une tâche détestée des deux côtés, faite ensemble à heure fixe, en laissant le reste de la routine pousser à partir de là.
+Chacune des deux personnes peut mener seule une vie bien ordonnée, et pourtant, à deux, la relation flotte, comme si la routine allait gâcher quelque chose de précieux. La direction de la maison 6 dit que la routine peut être précieuse : le café du matin préparé pour l’autre, un tour de rôle équitable, un travail commun fait avec soin, une semaine qui tourne sur des accords plutôt que sur des humeurs. Un bon début : une tâche détestée des deux côtés, faite ensemble à heure fixe, en laissant le reste de la routine pousser à partir de là.
 
-Le [Nœud Nord en maison 6](/astrology/north-node-in-6th-house/) d’un seul thème ramène une vie à la dérive sur la terre ferme ; [le Nœud Nord de l’autre dans votre maison 6](/astrology/north-node-in-6th-house-synastry/) lie la croissance de quelqu’un à vos habitudes quotidiennes. Dans le composite, les habitudes sont communes, ce qui veut aussi dire qu’aucune des deux personnes ne devrait devenir la seule à gérer la maison.
+Un thème natal avec le [Nœud Nord en maison 6](/astrology/north-node-in-6th-house/) ramène une vie à la dérive sur la terre ferme ; en synastrie, [le Nœud Nord de l’autre dans votre maison 6](/astrology/north-node-in-6th-house-synastry/) met quelqu’un à l’école de vos habitudes quotidiennes. Dans le composite, les habitudes sont communes, ce qui veut aussi dire qu’aucune des deux personnes ne devrait devenir la seule à gérer la maison.
 
 La tradition donnait la maladie à la maison 6. Aucun composite ne prédit la santé de qui que ce soit, et aucun thème ne pose de diagnostic ([l’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)) ; ici, la maison décrit un soin pratique, celui qui se voit dans la routine d’une semaine, pas dans une prédiction.
 
@@ -47,4 +47,4 @@ Les composites restent en dehors de mes lectures, et leurs maisons dépendent de
 
 Son piège, c’est le tour de rôle qui remplace la tendresse : une relation devenue un lieu de travail bien géré, ou qui critique plus qu’elle n’aide. Le bout maison 12 garde quelque chose de doux au centre, la capacité de se reposer ensemble et de pardonner une corvée oubliée, et quelques heures de la semaine laissées libres exprès empêchent les habitudes de durcir.
 
-Les praticiens lisent ce nœud à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), jamais comme un verdict sur le lien. Une règle pratique passe avant tout cela : le thème ne se dresse que lorsque les deux personnes ont donné leur accord ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Il se lit à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/) dans toute lecture sérieuse, jamais comme un verdict sur le lien. Une règle pratique passe avant tout cela : pas de thème tant que les deux personnes n’ont pas dit oui ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

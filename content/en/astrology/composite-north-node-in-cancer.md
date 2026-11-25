@@ -31,7 +31,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often the composite North Node falls in Cancer, and the birth years that give it to pairs of the same age" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
 ---
-Some partnerships run like a well-regarded firm: reliable, admired, booked up for months, and short of evenings at home doing nothing much. Composite North Node in Cancer turns a relationship of that kind towards its own kitchen table, and towards the feelings it has been too busy to have.
+Think of a partnership run like a well-regarded firm: reliable, admired, booked up for months, and short of evenings at home doing nothing much. Composite North Node in Cancer turns a relationship of that kind towards its own kitchen table, and towards the feelings it has been too busy to have.
 
 ## What it says about the two of you {#what-it-says}
 

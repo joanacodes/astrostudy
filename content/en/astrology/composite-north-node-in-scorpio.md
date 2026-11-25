@@ -31,7 +31,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often the composite North Node falls in Scorpio, and the birth years that give it to pairs of the same age" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
 ---
-Some relationships are as comfortable as an old armchair, and about as willing to talk about what frightens them. Composite North Node in Scorpio asks a bond like that to sit forward: to say the difficult thing, share what it has been keeping back, and let itself change.
+A relationship can be as comfortable as an old armchair, and about as willing to talk about what frightens it. The direction of composite North Node in Scorpio is to sit forward: say the difficult thing, share what has been kept back, and let the bond change.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -39,14 +39,14 @@ In [the composite chart](/astrology/composite-chart/), the relationship gets a c
 
 Scorpio has two rulers, [Mars](/astrology/mars/) in the old scheme and [Pluto](/astrology/pluto/) in the modern one, and in a birth chart I read both. I don't draw composites, but anyone who does would look at both here as well: composite Mars for the courage to raise a hard subject, composite Pluto for what the bond is ready to transform. For pairs close in age, composite Pluto mostly repeats their generation's, so Mars often says more.
 
-The comfort belongs to the relationship, not to either temperament. Two people who are frank with everyone else can find that together they protect the peace at any cost, as if the bond had decided that depth would break something. The Scorpio direction says depth is what holds: a relationship that has survived an honest conversation trusts itself more afterwards.
+The comfort is something the two of you built together, whatever your temperaments. Two people who are frank with everyone else can find that together they protect the peace at any cost, as if the bond had decided that depth would break something. The Scorpio direction says depth is what holds: a relationship that has survived an honest conversation trusts itself more afterwards.
 
-For one person, [North Node in Scorpio](/astrology/north-node-in-scorpio/) means trading comfort for real sharing. In a composite, that trade is negotiated by two, and it rarely happens at the same speed for both. Going first with a small truth, and receiving the other's without punishing it, matters more than any grand revelation.
+Natally, [North Node in Scorpio](/astrology/north-node-in-scorpio/) trades comfort for real sharing. In a composite, that trade is negotiated by two, and it rarely happens at the same speed for both. Going first with a small truth, and receiving the other's without punishing it, matters more than any grand revelation.
 
 Composite North Node in Scorpio turned up in about 1 pair in 13 of the two million random pairs, born 1930–2009, behind this site's figures. Same-age pairs carry it from their birth stretch: March 1938 to September 1939, October 1956 to June 1958, July 1975 to January 1977, or February 1994 to August 1995. A short gap can give it as well: born in October 1955 and October 1958, three years apart, with natal North Nodes near 19° Sagittarius and 22° Libra, two people have a composite North Node near 21° Scorpio, between the two.
 
 The edges of those stretches depend on the calculation. In 1975 the mean node entered Scorpio on 12 June, the true node only on 10 July, so a birth in those four weeks has a Scorpio node by one count and a Sagittarius node by the other. When a composite node sits near a border, the reading may belong partly to [composite North Node in Libra](/astrology/composite-north-node-in-libra/) or [composite North Node in Sagittarius](/astrology/composite-north-node-in-sagittarius/), and I look at both.
 
-The trap is mistaking intensity for depth. A bond learning Scorpio can stage crises to feel close, test each other's loyalty, or hold on through control rather than trust. The Taurus end steadies all that: its comfort is what makes honesty survivable, and its patience gives change time to settle.
+What it must avoid is mistaking intensity for depth. A bond learning Scorpio can stage crises to feel close, test each other's loyalty, or hold on through control rather than trust. The Taurus end steadies all that: its comfort is what makes honesty survivable, and its patience gives change time to settle.
 
 Nothing here forecasts a crisis, a loss, or anything about money held in common; the node describes a direction, never an outcome, and the astrologers who use it read it beside both birth charts and the [synastry](/astrology/synastry/). It also asks for honesty about the chart itself: a composite drawn in secret would be the opposite of what this node describes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

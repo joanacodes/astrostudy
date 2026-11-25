@@ -32,7 +32,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur donnait" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai, et les angles" }
 ---
-Certaines paires sont toujours présentées par quelqu’un d’autre : le conjoint d’une collègue, la colocataire d’un vieil ami, le couple venu avec les voisins. Le Nœud Nord composite en maison 1 demande à une telle relation d’entrer dans la pièce sous son propre nom.
+Le conjoint d’une collègue, la colocataire d’un vieil ami, le couple venu avec les voisins : certaines paires ne sont jamais présentées que par quelqu’un d’autre. Le Nœud Nord composite en maison 1 demande à une telle relation d’entrer dans la pièce sous son propre nom.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

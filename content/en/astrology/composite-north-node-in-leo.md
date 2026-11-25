@@ -31,7 +31,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often the composite North Node falls in Leo, and the birth years that give it to pairs of the same age" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
 ---
-The couple everyone relies on for the reunion, the fundraiser and the group holiday may not have had an evening to itself since spring. Composite North Node in Leo asks a relationship like that to step out of the crowd and enjoy being the two of you.
+The couple everyone relies on for the reunion, the fundraiser and the group holiday may not have had an evening to itself since spring. Where the composite North Node falls in Leo, the growth lies in stepping out of the crowd and enjoying being the two of you.
 
 ## What it says about the two of you {#what-it-says}
 

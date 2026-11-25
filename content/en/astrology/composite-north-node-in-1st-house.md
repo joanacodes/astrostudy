@@ -31,7 +31,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true, and the angles" }
 ---
-Some pairs are always introduced through someone else: her colleague's partner, his old friend's flatmate, the couple who came with the neighbours. Composite North Node in the 1st house asks a relationship like that to walk into the room under its own name.
+Her colleague's partner, his old friend's flatmate, the couple who came with the neighbours: some pairs are only ever introduced through someone else. Composite North Node in the 1st house asks a relationship like that to walk into the room under its own name.
 
 ## What it says about the two of you {#what-it-says}
 

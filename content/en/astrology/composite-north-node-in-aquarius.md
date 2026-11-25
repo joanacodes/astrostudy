@@ -31,7 +31,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often the composite North Node falls in Aquarius, and the birth years that give it to pairs of the same age" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
 ---
-Some relationships are a show: the anniversary posts, the grand gestures, the couple everyone watches at parties. Composite North Node in Aquarius invites a bond like that to step down from the stage and join the room, as friends, as equals, and as part of something larger than itself.
+Every party has one: the couple everyone watches, the one with the anniversary posts and the grand gestures. Composite North Node in Aquarius invites a bond like that to step down from the stage and join the room, as friends, as equals, and as part of something larger than itself.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -47,4 +47,4 @@ About 1 pair in 11 had it among two million random pairs born 1930–2009, which
 
 The calculations part at the edges. In late 1990 the true node moved on into Capricorn on 19 November, while the mean node stayed in Aquarius until 15 December, so births in those weeks carry a different node sign depending on the method. I look at both, and a composite node near a border may need [composite North Node in Capricorn](/astrology/composite-north-node-in-capricorn/) or [composite North Node in Pisces](/astrology/composite-north-node-in-pisces/) as well.
 
-The risk is detachment dressed as freedom: coolness where warmth is needed, causes that crowd out the person beside you. The Leo end is the antidote, a reminder that friendship is personal and that a relationship can serve a circle without disappearing into it. The composite isn't part of my own practice; those who use it read it with both birth charts and the [synastry](/astrology/synastry/), and none of them should treat it as a verdict on whether two people last. Fairness, Aquarius's value, applies to the chart as well: it is drawn only when both people have agreed ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+The risk is detachment dressed as freedom: coolness where warmth is needed, causes that crowd out the person beside you. The Leo end is the antidote, a reminder that friendship is personal and that a relationship can serve a circle without disappearing into it. The composite isn't part of my own practice; those who use it read it with both birth charts and the [synastry](/astrology/synastry/), and none of them should treat it as a verdict on whether two people last. Fairness, Aquarius's value, applies to the chart as well: it is drawn for two people who have both agreed, or not at all ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

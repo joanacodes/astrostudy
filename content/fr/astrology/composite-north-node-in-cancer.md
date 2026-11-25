@@ -32,7 +32,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part du Nœud Nord composite en Cancer, et les années de naissance qui le donnent aux paires du même âge" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-Certains duos fonctionnent comme une entreprise réputée : fiables, admirés, pris des mois à l’avance, et à court de soirées passées chez eux à ne pas faire grand-chose. Le Nœud Nord composite en Cancer tourne une relation de ce genre vers sa propre table de cuisine, et vers les sentiments qu’elle a été trop occupée pour éprouver.
+Pensez à un duo qui fonctionne comme une entreprise réputée : fiable, admiré, pris des mois à l’avance, et à court de soirées passées chez soi à ne pas faire grand-chose. Le Nœud Nord composite en Cancer tourne une relation de ce genre vers sa propre table de cuisine, et vers les sentiments qu’elle a été trop occupée pour éprouver.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

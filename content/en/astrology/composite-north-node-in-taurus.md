@@ -31,13 +31,13 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often the composite North Node falls in Taurus, and the birth years that give it to pairs of the same age" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
 ---
-Some relationships are at their best in an emergency and at a loss on a quiet Sunday. Composite North Node in Taurus points a bond like that towards the quiet Sunday: calm, plain pleasures, and things that grow slowly.
+Give some relationships an emergency and they shine; give them a quiet Sunday and they're lost. For a bond like that, composite North Node in Taurus marks the way to the quiet Sunday: calm, plain pleasures, and things that grow slowly.
 
 ## What it says about the two of you {#what-it-says}
 
 In [the composite chart](/astrology/composite-chart/), built from the midpoints of two birth charts, the [North Node](/astrology/north-node/) shows where the relationship itself is heading, and the [South Node](/astrology/south-node/), exactly opposite, what it already does by reflex. Here the reflex is [Scorpio](/astrology/scorpio/): intensity, the late-night talk that changes everything, a closeness that seems to need high stakes to prove itself. The direction is [Taurus](/astrology/taurus/), fixed earth ruled by [Venus](/astrology/venus/): steadiness, the body's pleasures, a home that is comfortable rather than charged, value built up a little at a time.
 
-Neither of you has to be dramatic for this to fit. Two calm people can still find that their bond comes alive mainly when something is at stake, a move, a family upheaval, a rival, and goes flat when nothing is. That pattern belongs to the relationship, and so does the way forward: learning that a meal cooked together, a walk every Saturday or a garden planted in spring are not a lesser kind of closeness. Composite Venus, the ruler of the sign, shows where those pleasures come most easily.
+Neither of you has to be dramatic for this to fit. Two calm people can still find that their bond comes alive mainly when something is at stake, a move, a family upheaval, a rival, and goes flat when nothing is. The way forward is shared as well: learning that a meal cooked together, a walk every Saturday or a garden planted in spring are not a lesser kind of closeness. Composite Venus, the ruler of the sign, shows where those pleasures come most easily.
 
 In a single birth chart, [North Node in Taurus](/astrology/north-node-in-taurus/) describes a person growing towards peace after one crisis too many. In a composite, the peace has to be agreed by two, and one of you may feel a calm stretch as relief while the other reads it as distance. Saying out loud that quiet isn't cooling saves a good deal of worry.
 

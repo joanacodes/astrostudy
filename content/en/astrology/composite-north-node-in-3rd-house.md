@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["North Node", "3rd house", "composite chart"]
 weight: 2279
 glyph: "☊"
-definition: "Composite North Node in the 3rd house puts the relationship chart’s North Node in the cadent house of everyday talk, neighbours and short journeys, opposite a composite South Node in the 9th. Astrologers read a bond fluent in big ideas that is learning the small, daily exchange. Its house needs both birth times."
+definition: "Composite North Node in the 3rd house means the midpoint of two natal North Nodes lands, in the relationship chart, in the cadent house of everyday talk and short trips, while the South Node faces it from the 9th. Astrologers see a pair fluent in big ideas learning the small, daily exchange. Both birth times are needed."
 facts:
   - { k: "Body", v: "Composite North Node ☊, the nearer midpoint of your two natal North Nodes" }
   - { k: "House", v: "The 3rd, of daily talk and the near world" }
@@ -30,13 +30,13 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, their joys and old names" }
 ---
-A couple can debate the meaning of life until two in the morning and still forget to ask how the other's day went. Composite North Node in the 3rd house brings a relationship of that kind back to the kitchen table, the street and the ordinary question.
+A couple can debate the meaning of life until two in the morning and still forget to ask how the other's day went. Composite North Node in the 3rd house brings that relationship back down to the street, the bus stop and the ordinary question.
 
 ## What it says about the two of you {#what-it-says}
 
-In [the composite chart](/astrology/composite-chart/), built point by point from the midpoints of two birth charts, the [North Node](/astrology/north-node/) is the relationship's direction of growth and the [South Node](/astrology/south-node/), opposite, its home ground. Here the home ground is [the 9th house](/astrology/9th-house/): convictions, philosophies, far-off plans, the long view. The North Node sits in [the 3rd house](/astrology/3rd-house/), cadent, naturally Gemini's, and the house the old astrologers called the Goddess, where the Moon had its joy. Its subjects are near and daily: conversations, messages, errands, neighbours, brothers and sisters, short journeys, learning by asking.
+In [the composite chart](/astrology/composite-chart/), built point by point from the midpoints of two birth charts, the [North Node](/astrology/north-node/) is the relationship's direction of growth and the [South Node](/astrology/south-node/), opposite, its home ground. Here the home ground is [the 9th house](/astrology/9th-house/): convictions, philosophies, far-off plans, the long view. Its North Node is in [the 3rd house](/astrology/3rd-house/), a cadent house, Gemini's by nature, which old astrologers named the Goddess and where they placed the Moon's joy. The subjects here are near and daily: conversations, messages, errands, neighbours, brothers and sisters, short trips, learning by asking.
 
-The pattern belongs to the bond, and it can surprise two people who are each good listeners elsewhere. Together, the talk keeps rising to principles and plans for some future elsewhere, while the small news goes unshared. The 3rd-house direction is a habit of noticing: the funny thing that happened at the bakery, a question asked because you actually want the answer, a walk round the neighbourhood with no destination.
+It can surprise two people who are each good listeners elsewhere, because the pattern lives between them. Together, the talk keeps rising to principles and plans for some future elsewhere, while the small news goes unshared. The 3rd-house direction is a habit of noticing: the funny thing that happened at the bakery, a question asked because you actually want the answer, a walk round the neighbourhood with no destination.
 
 Compared with one person's [North Node in the 3rd house](/astrology/north-node-in-3rd-house/), learning by asking, or [their North Node in your 3rd house](/astrology/north-node-in-3rd-house-synastry/), where someone's growth runs through your conversations, the composite node puts the curiosity in the space between you.
 
@@ -44,6 +44,6 @@ Of every part of the composite, the intermediate cusps depend most on choices. M
 
 With so many choices, a node near either cusp can move: back into [composite North Node in the 2nd house](/astrology/composite-north-node-in-2nd-house/), or on into [composite North Node in the 4th house](/astrology/composite-north-node-in-4th-house/). The mean and true node add their degree or two, and I look at both.
 
-The 3rd-house trap is chatter that replaces contact: a stream of logistics and news in which nothing personal gets said, or a relationship that knows the whole street's business and little of its own. Small rituals help most: ten minutes a day to trade news without screens, a class at the local library, the same walk to the same café. The 9th-house end keeps the talk meaningful. Its sense of what matters is what turns daily exchange into real conversation.
+Chatter that replaces contact is the 3rd's failing: a stream of logistics and news in which nothing personal gets said, or a relationship that knows the whole street's business and little of its own. Small rituals help most: ten minutes a day to trade news without screens, a class at the local library, the same walk to the same café. The 9th-house end keeps the talk meaningful. Its sense of what matters is what turns daily exchange into real conversation.
 
 Astrologers who use composites set this node beside both birth charts and the [synastry](/astrology/synastry/), and it describes a direction, not an event or a verdict. The chart itself should be part of the conversation between you, never a file kept on one of you ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
