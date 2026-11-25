@@ -47,7 +47,7 @@ Born with [Jupiter trine Neptune](/astrology/jupiter-trine-neptune/), as at the 
 
 Neptune keeps the trine within my orbs, 1½° before exact to 1° after, for about two years and seven months, twenty-two at the shortest. In most passes the trine is exact three times and in about one in four five times, so there's time to start something and see it through.
 
-From 2026 to 2039, with Neptune in Aries, the trine reaches people born with Jupiter in Sagittarius, Jupiter's own sign: those born in 1983 meet it between about 41 and 52, those born in 1995 between about 30 and 36. About 6 people in 7 born between 1930 and 2009 meet it at some point before 80, some of them twice; for births at the start of 1935 or 1975 it doesn't come.
+From 2026 to 2039, with Neptune in Aries, the trine reaches people born with Jupiter in Sagittarius, Jupiter's own sign: those born in 1983 meet it between about 42 and 52, those born in 1995 between about 32 and 41. About 6 people in 7 born between 1930 and 2009 meet it at some point before 80, some of them twice; for births at the start of 1935 or 1975 it doesn't come.
 
 For someone born at the start of 1995 the sequence runs: [transiting Neptune sextile natal Jupiter](/astrology/transiting-neptune-sextile-natal-jupiter/) at about 4, [transiting Neptune square natal Jupiter](/astrology/transiting-neptune-square-natal-jupiter/) at about 18, this trine at about 31 and [transiting Neptune opposite natal Jupiter](/astrology/transiting-neptune-opposite-natal-jupiter/) at about 58½. For them, [transiting Neptune conjunct natal Jupiter](/astrology/transiting-neptune-conjunct-natal-jupiter/) lies beyond 80.
 

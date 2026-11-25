@@ -54,7 +54,7 @@ In the time Saturn in the sky takes to cross one sign, about two years and seven
 
 It comes once at most, and just over half of the people born between 1930 and 2009 meet it before 80. Saturn and Neptune meet in the sky about every thirty-six years: in 1952–53, in 1989, and on 20 February 2026 at the very start of Aries ([the Saturn–Neptune conjunction of 2026](/astrology/saturn-neptune-conjunction-of-2026/)). Born a few years after one of those meetings, with Saturn ahead, you meet the transit young: at about 9 for someone born at the start of 1955, about 19 for 1995. Born in the years before one, as at the start of 1945, 1975 or 1985, you don't meet it before 80.
 
-Neptune's passage through Aries, from 2025 to 2039, brings the conjunction to nearly everyone born with Saturn in Aries, the sign of Saturn's fall in the tradition: births of 1967 to 1969 meet it at about 57 to 67, and births of 1996 to 1999 at about 27 to 41.
+Neptune's passage through Aries, from 2025 to 2039, brings the conjunction to nearly everyone born with Saturn in Aries, the sign of Saturn's fall in the tradition: births of 1967 to 1969 meet it at about 58 to 69, and births of 1996 to 1999 at about 28 to 40.
 
 For that 1995 birth, [transiting Neptune sextile natal Saturn](/astrology/transiting-neptune-sextile-natal-saturn/) follows at about 46, [transiting Neptune square natal Saturn](/astrology/transiting-neptune-square-natal-saturn/) at about 60 and [transiting Neptune trine natal Saturn](/astrology/transiting-neptune-trine-natal-saturn/) at about 73½; [transiting Neptune opposite natal Saturn](/astrology/transiting-neptune-opposite-natal-saturn/) lies out of reach.
 
