@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "carré", "transits"]
 weight: 1716
 glyph: "♅□♅"
-definition: "Uranus en transit carré Uranus du thème natal, c’est Uranus à 90° de sa position de naissance, une étape de son cycle de 84 ans qui vient vers 20 ans puis dans la soixantaine, une vingtaine de mois chaque fois. La liberté voulue dès la naissance rencontre la vie formée autour de vous. J’y lis une friction qui l’aiguise."
+definition: "Uranus en transit carré Uranus du thème natal, c’est Uranus à 90° de sa place de naissance : le quart de tour de son cycle de 84 ans vers 20 ans, puis les trois quarts dans la soixantaine. La liberté voulue dès la naissance rencontre la vie formée autour de vous. J’y lis une friction qui l’aiguise."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Uranus ♅ : là où vous avez besoin de place pour vivre à votre façon" }
@@ -38,17 +38,17 @@ Au quart environ de son orbite de 84 ans, Uranus forme un carré au point qu’o
 
 [Uranus](/astrology/uranus/), dans le thème natal, c’est la part de vous qui veut de la place pour vivre à sa façon ; Uranus en transit, c’est la même fonction, des années plus tard, qui demande si vous avez pris cette place. Un [carré](/astrology/square/), 90°, relie les deux par une friction constructive : ce [transit](/astrology/transits/) appuie sur l’écart entre la liberté voulue dès la naissance et celle que vous avez vraiment prise.
 
-Vers 20 ans, la friction se fait d’ordinaire avec les premières structures rejointes à l’âge adulte : des études, un premier emploi, un logement partagé, les attentes venues de votre famille. Ce peut être la saison où l’on découvre ce qu’on ne fera pas, avant de savoir ce qu’on fera. J’y lis la première mise à l’épreuve, au grand jour, de votre propre Uranus.
+Vers 20 ans, la friction se fait d’ordinaire avec les premières structures rejointes à l’âge adulte : des études, un premier emploi, un logement partagé, les attentes venues de votre famille. Ce peut être la saison où l’on découvre ce qu’on ne fera pas, avant de savoir ce qu’on fera. J’y lis la première mise à l’épreuve, au grand jour, de votre Uranus.
 
-Dans la soixantaine, le carré revient de l’autre côté. La vie construite est plus longue et plus installée, et l’envie de la réorganiser peut être aussi forte qu’à 20 ans, avec bien plus à peser. Le risque est celui qu’Uranus court toujours, changer un système avant de comprendre ce qui fonctionne encore ; le cadeau, c’est qu’à ce stade, vous savez bien ce qui fonctionne.
+Dans la soixantaine, le carré revient de l’autre côté. La vie construite est plus longue et plus installée, et l’envie de la réorganiser peut être aussi forte qu’à 20 ans, avec bien plus à peser. Le risque, comme toujours avec Uranus, est de changer un système avant de comprendre ce qui fonctionne encore ; le cadeau, c’est qu’à ce stade, vous le savez.
 
-Avec Uranus en maison 3 dans votre thème natal, le premier carré y arrive depuis votre maison 6 ([Uranus en transit en maison 6](/astrology/uranus-transit-6th-house/)) : un esprit vif et impatient frotte contre les routines du travail quotidien et des études. Les deux maisons dépendent de l’heure de votre naissance, et je ne lis pas un thème qui n’en a pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Uranus en maison 3 dans votre thème natal, le premier carré y arrive depuis votre maison 6 ([Uranus en transit en maison 6](/astrology/uranus-transit-6th-house/)) : un esprit vif et impatient frotte contre les routines du travail quotidien et des études. Une heure d’erreur sur l’heure de naissance peut faire passer votre Uranus en maison 2 ou en maison 4 : c’est pourquoi je ne lis pas un thème sans heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
 Chaque carré dure une vingtaine de mois dans mes orbes, de 1,5° avant l’exactitude à 1° après, onze environ au plus court, et il est d’ordinaire exact trois fois : à 20 ans, assez longtemps pour essayer un autre chemin pendant plus d’une année.
 
-Les personnes nées à un an ou deux de vous le rencontrent à peu près au même âge. Pour les naissances de 1930 à 2009, son premier passage est entré dans l’orbe entre 17 ans et demi et 23 ans environ, d’après le décompte du site : à 18,8 ans pour une naissance début 1945, à 21,3 ans pour une naissance début 1985. Son premier contact exact est tombé entre 18,4 et 22,9 ans, et le second carré, aux trois quarts du tour, vient entre 59 et 65 ans environ. Avant 80 ans, tout le monde a connu les deux.
+Pour les naissances de 1930 à 2009, son premier passage est entré dans l’orbe entre 17 ans et demi et 23 ans environ, d’après le décompte du site : à 18,8 ans pour une naissance début 1945, à 21,3 ans pour une naissance début 1985. Le carré est exact une première fois entre 18,4 et 22,9 ans ; le second vient entre 59 et 65 ans environ. Avant 80 ans, tout le monde a connu les deux.
 
 Uranus en Gémeaux, jusqu’en 2033, forme un carré à deux générations à la fois ([Uranus en Gémeaux, 2026-2033](/astrology/uranus-in-gemini-2026-2033/)). Les personnes nées de mars 2003 à mars 2011, la plupart avec Uranus en Poissons, vivent leur premier carré au début de la vingtaine ; celles nées de novembre 1961 à juin 1969, avec Uranus en Vierge, leur second au début de la soixantaine.
 
@@ -60,4 +60,4 @@ Sept ans environ séparent chaque étape : [Uranus en transit sextile Uranus du
 
 Dans la soixantaine, faire la liste de ce que vous garderiez avant celle de ce que vous changeriez. Le second carré a plus à réorganiser, et plus de choses qui ont gagné leur place.
 
-Parler avec quelqu’un qui vit l’autre carré. Les personnes d’une vingtaine et d’une soixantaine d’années traversent le même transit, et chacune a ce qui manque à l’autre : l’élan d’un côté, le jugement de l’autre.
+Parler avec quelqu’un qui vit l’autre carré : à 20 ans comme à 60, chaque âge a ce qui manque à l’autre, l’élan d’un côté, le jugement de l’autre.

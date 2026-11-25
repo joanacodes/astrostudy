@@ -41,7 +41,7 @@ The openings tend to be practical routes into deep work: a conversation that fin
 
 Like every sextile, it waits for you. Pluto keeps its depths private, and the opening can pass with the old arrangement intact simply because nothing forced the issue.
 
-With Pluto in your 9th and Uranus crossing your 11th ([Uranus transiting the 11th house](/astrology/uranus-transit-11th-house/)), a group, a friendship or a shared cause can give you a way to rework convictions you hold at depth. Your birth time is what places those houses, and without it I don't read the chart ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Pluto in your 9th and Uranus crossing your 11th ([Uranus transiting the 11th house](/astrology/uranus-transit-11th-house/)), a group, a friendship or a shared cause can give you a way to rework convictions you hold at depth. Your birth time places those houses; without it I could date the transit but not say where it lands, and that's not a reading I give ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
@@ -49,7 +49,7 @@ Within my orbs, from 1½° before exact to 1° after, the sextile lasts about tw
 
 In the site's count the first sextile came early for most births: at about 5 for someone born at the start of 1935, about 8 for 1975 and about 4 for 1985. The second, in the planets' positions, came at about 32 for the start of 1935, and waits until the sixties or seventies for births from the 1950s on: about 66 for the start of 1975, about 62 for 1985.
 
-Born with [Uranus sextile Pluto](/astrology/uranus-sextile-pluto/), in 1941–47 or 1991–2001, you had one sextile at birth. The other came at about 25 for the 1940s generation, whose Uranus trailed Pluto by 60°, and comes at about 57 for the 1990s one, whose Uranus ran 60° ahead. Even someone born at the start of 2005, who waits until about 52 for the first, meets the second at about 79: by 80, every birth of the count has met at least one sextile to Pluto, most of them two.
+In the birth charts of 1941–47 and 1991–2001 the two planets already formed [Uranus sextile Pluto](/astrology/uranus-sextile-pluto/), so one of the transits came at birth. The other came at about 25 for the 1940s generation, whose Uranus trailed Pluto by 60°, and comes at about 57 for the 1990s one, whose Uranus ran 60° ahead. Even someone born at the start of 2005, who waits until about 52 for the first, meets the second at about 79: by 80, every birth of the count has met at least one sextile to Pluto, most of them two.
 
 In the 84-year round the two sextiles lie about fourteen years before and after [transiting Uranus conjunct natal Pluto](/astrology/transiting-uranus-conjunct-natal-pluto/), the step that comes last, or not at all, for everyone born from mid-1967 on. [Transiting Uranus square natal Pluto](/astrology/transiting-uranus-square-natal-pluto/) and [transiting Uranus trine natal Pluto](/astrology/transiting-uranus-trine-natal-pluto/) come about seven and fourteen years after the sextile that follows the conjunction, and [transiting Uranus opposite natal Pluto](/astrology/transiting-uranus-opposite-natal-pluto/) halfway round.
 

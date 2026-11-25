@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Ascendant", "rising sign", "conjunction", "transits"]
 weight: 1729
 glyph: "♅☌AC"
-definition: "Transiting Uranus conjunct natal Ascendant is Uranus crossing the degree that was rising at your birth, for about twenty months, once at most. The way you begin things and meet the world opens to change. It needs your birth time outright: without it there is no Ascendant to cross, and no reading."
+definition: "Transiting Uranus conjunct natal Ascendant is Uranus crossing the degree that was rising at your birth, for about twenty months, once at most. The way you begin things and meet the world opens to change. Without a birth time, recorded and not guessed, there is no rising degree to cross, so I give no reading."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "The Ascendant (AC): how you meet the world; it needs the birth time" }
@@ -31,7 +31,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the crossing stays within my orbs, and how many meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to the angles" }
 ---
-Once in a life at most, Uranus reaches the degree that was rising when you were born. For about twenty months the planet of change sits on the threshold of your chart, where you meet the world and begin things, and the way you do both is open to revision.
+Uranus gets to the rising degree of your birth chart once in a life at most, and for some people not before 80. For about twenty months the planet of change sits on the threshold of your chart, where you meet the world and begin things, and the way you do both is open to revision.
 
 ## What changes {#what-changes}
 

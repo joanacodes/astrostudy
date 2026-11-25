@@ -42,7 +42,7 @@ Vers 27 ans, le premier trigone tombe d’ordinaire entre l’épreuve du premie
 
 Au milieu de la cinquantaine, le second trigone vient une fois l’opposition traversée. L’indépendance est alors plus facile à exercer qu’à conquérir, et le trigone favorise l’expérience mise au travail sous une forme plus libre : enseigner, conseiller, lancer le projet remis à plus tard. Le risque, comme pour tout trigone, c’est de se laisser porter, une facilité qu’on ne remarque qu’une fois partie.
 
-Avec Uranus en maison 10 dans votre thème natal, le premier trigone y arrive depuis votre maison 2 ([Uranus en transit en maison 2](/astrology/uranus-transit-2nd-house/)) : votre propre façon de travailler trouve un appui dans ce que vous estimez et ce que vous savez faire. Aucune des deux maisons n’existe sans votre heure de naissance, et ma lecture non plus ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Uranus en maison 10 dans votre thème natal, le premier trigone y arrive depuis votre maison 2 ([Uranus en transit en maison 2](/astrology/uranus-transit-2nd-house/)) : votre propre façon de travailler trouve un appui dans ce que vous estimez et ce que vous savez faire. Placer votre Uranus en maison 10 demande l’heure de naissance, comme toute lecture que je fais ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

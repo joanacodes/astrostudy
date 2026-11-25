@@ -25,7 +25,7 @@ faq:
   - q: "Combien de temps dure Uranus opposition Pluton ?"
     a: "Un rapport de pouvoir a le temps d’être vu, questionné et rééquilibré, car l’opposition est le plus souvent exacte trois fois, dont une avec Uranus en marche arrière. Le passage va de 1,5° avant l’exactitude à 1° après : une vingtaine de mois, et onze environ au plus bref."
   - q: "Qui vit Uranus opposition Pluton en ce moment ?"
-    a: "La génération de Pluton en Sagittaire, née de janvier 1995 à novembre 2008 : depuis les Gémeaux, jusqu’en 2033, Uranus fait face à cette position, et elle rencontre le transit vers 24 à 30 ans. Pour une naissance début 1965, il est venu vers 42 ans."
+    a: "La génération de Pluton en Sagittaire, née de janvier 1995 à novembre 2008 : depuis les Gémeaux, jusqu’en 2033, Uranus fait face à cette position, et elle rencontre le transit vers 24 à 30 ans. Les personnes nées début 1965 l’ont rencontré en 2007, vers 42 ans."
   - q: "À quel âge arrive l’opposition d’Uranus à Pluton ?"
     a: "Plus tôt à chaque décennie de naissance : dans le décompte du site, vers 59 ans pour une naissance début 1935, vers 42 ans pour 1965, vers 34 ans pour 1985 et vers 26 ans pour 2005. Aucune naissance de ces années n’a l’opposition dans son thème natal ; toutes la rencontrent une fois par transit."
 sources:

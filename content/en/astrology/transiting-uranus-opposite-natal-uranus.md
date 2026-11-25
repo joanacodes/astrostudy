@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Uranus opposite natal Uranus mean?"
     a: "It is the Uranus opposition: Uranus halfway round its 84-year orbit, facing the place it held at your birth. I read it as your own need for freedom set against the life it has produced, so you can see which of your freedoms are still yours and what you have postponed. It comes once, at about 42."
   - q: "At what age does transiting Uranus oppose natal Uranus?"
-    a: "Between about 39 and 44½ for the first exact hit, depending on the birth year, and a little earlier with my orbs: in the site’s count it comes within orb at 38.1 for someone born at the start of 1945, at 43.6 for the start of 1985. Everyone born from 1930 to 2009 meets it once by 80."
+    a: "Between about 39 and 44½ for the first exact hit, depending on the birth year, and a little earlier with my orbs: in the site’s count it comes within orb at 38.1 for someone born at the start of 1945, at 43.6 for the start of 1985. That band holds for every birth from 1930 to 2009."
   - q: "How long does the Uranus opposition last?"
     a: "About twenty months, counting from 1½° before the exact opposition to 1° after, and about eleven at the shortest. In more than nine cases out of ten Uranus crosses the exact point three times, the second time while it is retrograde, and everyone of a given birth year goes through it within months of the same age."
   - q: "What else does the Uranus opposition bring?"
@@ -45,7 +45,7 @@ With your natal Uranus in the 4th, the opposition comes from your 10th ([Uranus 
 
 ## How long it lasts {#how-long-it-lasts}
 
-At about 42, for everyone, the opposition lasts about twenty months within my orbs, from 1½° before exact to 1° after, eleven at the shortest, and in more than nine cases out of ten it is exact three times. Someone born at the start of 1945 came within my orb of it at 38.1, in the site's count, and someone born at the start of 1985 does so at 43.6; across all births from 1930 to 2009, the range runs from about 38 to 44½. The first exact hit falls between about 39 and 44½. Nobody born in those years misses it by 80, and nobody meets it twice.
+At about 42, for everyone, the opposition lasts about twenty months within my orbs, from 1½° before exact to 1° after, eleven at the shortest, and in more than nine cases out of ten it is exact three times. Someone born at the start of 1945 came within my orb of it at 38.1, in the site's count, and someone born at the start of 1985 does so at 43.6; across all births from 1930 to 2009, from about 38 to 44½. The first exact hit falls between about 39 and 44½. Nobody misses it by 80, and nobody meets it twice.
 
 Because it reaches the whole degree, it also opposes whatever sat beside your Uranus at birth. Born in 1963–68, with Uranus conjunct Pluto, you meet [transiting Uranus opposite natal Pluto](/astrology/transiting-uranus-opposite-natal-pluto/) in the same years: at 42.2 for someone born at the start of 1965, against 41.3 for the Uranus opposition itself. Born in 1990–96, with Uranus conjunct Neptune, you get [transiting Uranus opposite natal Neptune](/astrology/transiting-uranus-opposite-natal-neptune/) with it; in the late 1980s, with Saturn beside Uranus, [transiting Uranus opposite natal Saturn](/astrology/transiting-uranus-opposite-natal-saturn/); and with Jupiter conjunct Uranus at birth, [transiting Uranus opposite natal Jupiter](/astrology/transiting-uranus-opposite-natal-jupiter/).
 

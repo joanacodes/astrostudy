@@ -47,11 +47,11 @@ It isn't Saturn's own opposition, Saturn facing its birth degree at about 44, wh
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, 1½° before exact to 1° after, the opposition lasts about twenty months, eleven at the shortest, and its three exact hits, in more than nine passes out of ten, leave room to renegotiate an arrangement, try it and adjust it. No one meets it twice.
+Within my orbs, 1½° before exact to 1° after, the opposition lasts about twenty months, eleven at the shortest, and its three exact hits, in more than nine passes out of ten, leave room to renegotiate an arrangement, try it and adjust it.
 
 Two natal pictures date it. Born with [Saturn opposite Uranus](/astrology/saturn-opposite-uranus/), in 1964–67 or 2008–09, you started life at or near that point, so the transit came in your first years or won't come until your eighties; that second group makes up most of the 1 person in 25, among births from 1930 to 2009, who never meet it by 80, someone born at the start of 1965 among them. Born in the late 1980s with [Saturn conjunct Uranus](/astrology/saturn-conjunct-uranus/), you meet it with your [Uranus opposition](/astrology/uranus-opposition/), at about 43½.
 
-Those born from November 1985 to November 1988 have Saturn in Sagittarius, the sign Uranus faces from Gemini until 2033. For them the opposition comes in their late thirties or early forties, a few years before their own Uranus opposition or with it. Elsewhere the ages scatter: about 17 for someone born at the start of 1975, about 72 for the start of 2005.
+Those born from November 1985 to November 1988 have Saturn in Sagittarius, the sign Uranus faces from Gemini until 2033. For them the opposition comes in their late thirties or early forties, a few years before their own Uranus opposition or with it. Other birth years spread far wider: about 17 for someone born at the start of 1975, about 72 for the start of 2005.
 
 The opposition is the halfway mark of a round that starts at [transiting Uranus conjunct natal Saturn](/astrology/transiting-uranus-conjunct-natal-saturn/). [Transiting Uranus trine natal Saturn](/astrology/transiting-uranus-trine-natal-saturn/) stands about fourteen years either side of it and [transiting Uranus square natal Saturn](/astrology/transiting-uranus-square-natal-saturn/) about twenty-one, with [transiting Uranus sextile natal Saturn](/astrology/transiting-uranus-sextile-natal-saturn/) nearer the conjunction.
 

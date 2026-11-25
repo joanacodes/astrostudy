@@ -24,7 +24,7 @@ faq:
   - q: "At what age is the Uranus sextile?"
     a: "The first comes at about 13: between about 11½ and 15 for every birth from 1930 to 2009 in the site’s count. The second comes on the way back round, between about 67 and 71. So the second is the one an adult meets as it happens."
   - q: "How long does the Uranus sextile last?"
-    a: "At 13 as at 70, a sextile stays within my orbs, from 1½° before exact to 1° after, for about twenty months, or about eleven when the pass is short. In more than nine passes out of ten Uranus crosses that angle to its own birth place three times, as it spends about five months a year retrograde."
+    a: "The same at 13 as at 70: about twenty months between 1½° before the exact sextile and 1° after, and about eleven when the pass is short. In more than nine passes out of ten Uranus crosses that angle to its own birth place three times, as it spends about five months a year retrograde."
   - q: "What does the Uranus sextile at 13 mean?"
     a: "It is the first step of Uranus’s cycle after birth. I don’t read children’s charts, so I don’t read it as it happens. An adult can look back on it, in a reading of their own chart, as the start of the cycle that later brings the squares, the trines and the opposition."
 sources:

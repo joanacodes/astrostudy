@@ -24,7 +24,7 @@ faq:
   - q: "How long does Uranus opposite Pluto last?"
     a: "A power arrangement has time to be seen, questioned and rebalanced, because the opposition is usually exact three times, once with Uranus moving backwards. The pass runs from 1½° before exact to 1° after, about twenty months, and about eleven at its briefest."
   - q: "Who has Uranus opposite Pluto now?"
-    a: "The Sagittarius Pluto generation, born from January 1995 to November 2008: from Gemini, until 2033, Uranus stands opposite their Pluto, and they meet it at about 24 to 30. For someone born at the start of 1965 it came at about 42."
+    a: "The Sagittarius Pluto generation, born from January 1995 to November 2008: from Gemini, until 2033, Uranus stands opposite their Pluto, and they meet it at about 24 to 30. People born at the start of 1965 met it in 2007, at about 42."
   - q: "At what age does Uranus oppose Pluto?"
     a: "Younger with every decade of birth: in the site’s count, about 59 for someone born at the start of 1935, about 42 for 1965, about 34 for 1985 and about 26 for 2005. Nobody born in those years has the opposition in the birth chart; everyone meets it once by transit."
 sources:

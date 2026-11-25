@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "square", "transits"]
 weight: 1716
 glyph: "♅□♅"
-definition: "Transiting Uranus square natal Uranus is Uranus 90° from the place it held at your birth, a step of its 84-year cycle that comes around 20 and again in the sixties, for about twenty months each time. The freedom you were born wanting meets the life formed around you. I read it as friction that sharpens it."
+definition: "Transiting Uranus square natal Uranus is Uranus 90° from its birth place: the quarter-turn of its 84-year cycle around 20, and the three-quarter turn in the sixties. The freedom you were born wanting meets the life formed around you. I read it as friction that sharpens it."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Uranus ♅: where you need room to live your own way" }
@@ -39,15 +39,15 @@ Natal [Uranus](/astrology/uranus/) is the part of your chart that wants room to 
 
 At about 20, the friction tends to be with the first structures you've joined as an adult: a course of study, a first job, a shared home, the expectations that travelled with you from your family. It can be the season of finding out what you won't do, before you know what you will. I read it as the first time your own Uranus is tested in the open.
 
-In the sixties the square comes back from the other side. The life you've built is longer and more settled, and the urge to rearrange it can be as strong as at 20, with far more to weigh. The risk is the one Uranus always runs, changing a system before understanding what still works; the gift is that by now you know a great deal about what does.
+In the sixties the square comes back from the other side. The life you've built is longer and more settled, and the urge to rearrange it can be as strong as at 20, with far more to weigh. The risk, as ever with Uranus, is changing a system before understanding what still works; the gift is that by now you know.
 
-With your natal Uranus in the 3rd, the first square reaches it from your 6th ([Uranus transiting the 6th house](/astrology/uranus-transit-6th-house/)): a quick, restless mind rubs against the routines of daily work and study. Both houses depend on the time of your birth, and I don't read a chart that doesn't have one ([what changes without a birth time](/blog/unknown-birth-time/)).
+With your natal Uranus in the 3rd, the first square reaches it from your 6th ([Uranus transiting the 6th house](/astrology/uranus-transit-6th-house/)): a quick, restless mind rubs against the routines of daily work and study. An hour's error in the birth time can shift your Uranus into the 2nd or the 4th, which is why I don't read a chart without a time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
 Each square lasts about twenty months within my orbs, from 1½° before exact to 1° after, or about eleven at the shortest, and is usually exact three times: long enough, at 20, to try a different path for a year and more.
 
-Everyone born within a year or two of you meets it at about the same age. Its first pass entered my orb between about 17½ and 23 for births from 1930 to 2009, in the site's count: at 18.8 for someone born at the start of 1945, at 21.3 for the start of 1985. Its first exact hit fell between 18.4 and 22.9, and the second square, three quarters round, comes between about 59 and 65. By 80, everyone has met both.
+Its first pass entered my orb between about 17½ and 23 for births from 1930 to 2009, in the site's count: at 18.8 for someone born at the start of 1945, at 21.3 for the start of 1985. Uranus first squares its birth place exactly at 18.4 to 22.9, and the second square comes between about 59 and 65. By 80, everyone has met both.
 
 Uranus in Gemini, until 2033, squares two generations at once ([Uranus in Gemini, 2026–2033](/astrology/uranus-in-gemini-2026-2033/)). People born from March 2003 to March 2011, mostly with Uranus in Pisces, are meeting their first square in their early twenties; those born from November 1961 to June 1969, with Uranus in Virgo, their second in their early sixties.
 
@@ -59,4 +59,4 @@ At 20, try the different path at a small scale first: a term somewhere else, a s
 
 In the sixties, list what you'd keep before what you'd change. The second square has more to rearrange, and more that has earned its place.
 
-Talk to someone at the other square. People in their twenties and in their sixties are meeting the same transit, and each has what the other lacks: momentum on one side, judgement on the other.
+Talk to someone at the other square: at 20 as at 60, each age has what the other lacks, momentum on one side, judgement on the other.

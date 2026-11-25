@@ -42,7 +42,7 @@ Les ouvertures sont souvent petites et précises : un outil qui permet de faire
 
 Son risque, c’est que Neptune dérive et qu’un sextile n’insiste pas. Les rêves restent des rêves si personne ne réserve la salle ou n’achète les cordes, et la fenêtre peut se refermer avec l’idée encore dans un carnet.
 
-Avec Neptune en maison 5 et Uranus qui traverse votre maison 7 ([Uranus en transit en maison 7](/astrology/uranus-transit-7th-house/)), un ou une partenaire, ou quelqu’un avec qui vous créez, peut donner à votre imagination le débouché qui lui manquait. Je ne peux nommer ces maisons qu’avec votre heure de naissance, et je ne lis pas un thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Neptune en maison 5 et Uranus qui traverse votre maison 7 ([Uranus en transit en maison 7](/astrology/uranus-transit-7th-house/)), un ou une partenaire, ou quelqu’un avec qui vous créez, peut donner à votre imagination le débouché qui lui manquait. Sans heure de naissance, je ne saurais distinguer votre maison 5 de la 4 ou de la 6, et je ne lis pas un thème au jugé ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

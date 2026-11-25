@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce qu’Uranus carré Saturne est un mauvais transit ?"
     a: "C’est un transit exigeant, pas mauvais. Un carré est une friction qui pousse une structure à s’adapter, et les structures de Saturne sont celles sur lesquelles vous vous appuyez : la saison peut peser. Mais elle ne prédit aucun événement, aucune perte de travail, de logement ou de relation : elle décrit une pression pour changer la façon dont quelque chose fonctionne."
   - q: "À quel âge arrive le carré d’Uranus à Saturne ?"
-    a: "L’angle entre Saturne et Uranus à votre naissance en décide, et cet angle change d’environ huit degrés à chaque année de naissance, Saturne avançant plus vite qu’Uranus. Le décompte du site place le premier carré vers 25 ans pour une naissance début 1945 et vers 16 ans pour une naissance début 1985."
+    a: "L’angle entre Saturne et Uranus à votre naissance en décide, et cet angle change d’environ huit degrés à chaque année de naissance, Saturne avançant plus vite qu’Uranus. Dans le décompte du site, l’âge du premier carré est d’environ 25 ans pour une naissance début 1945 et d’environ 16 ans pour une naissance début 1985."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le carré reste dans mes orbes, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à Saturne dans le thème natal" }
@@ -46,9 +46,9 @@ Avec Saturne en maison 1 et Uranus qui traverse votre maison 10 ([Uranus en tran
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le carré dure une vingtaine de mois, et ses passages les plus rapides onze environ. Dans plus de neuf cas sur dix, Uranus franchit trois fois le carré exact, et chaque passage remet la même poutre à l’épreuve.
+Chacun des deux carrés met une vingtaine de mois à passer de 1,5° avant l’exactitude à 1° après, et les plus rapides onze environ. Dans plus de neuf cas sur dix, Uranus franchit trois fois le carré exact, et chaque passage remet la même poutre à l’épreuve.
 
-D’un point de carré à l’autre, il y a la moitié du zodiaque : le second carré suit donc le premier d’une quarantaine d’années, l’écart exact dépendant de la vitesse d’Uranus dans ces signes. Dans le décompte du site, une naissance début 1955 a connu le premier avant 5 ans, une naissance début 1975 vers 39 ans, ce qui place son second vers 80 ans. Personne ne manque les deux.
+D’un point de carré à l’autre, il y a la moitié du zodiaque : le second carré suit donc le premier d’une quarantaine d’années, l’écart exact dépendant de la vitesse d’Uranus dans ces signes. Le décompte du site montre l’écart : le premier carré est venu avant 5 ans pour une naissance début 1955 et vers 39 ans pour une naissance début 1975, dont le second tombe donc vers 80 ans. Personne ne manque les deux.
 
 Pour une naissance entre mars 1964 et mars 1967, avec Saturne en Poissons à l’opposé d’Uranus ([Saturne opposition Uranus](/astrology/saturn-opposite-uranus/)), ces carrés arrivent à quelques années de vos propres carrés d’Uranus ([Uranus en transit carré Uranus du thème natal](/astrology/transiting-uranus-square-natal-uranus/)) : le premier entre 16 et 22 ans environ, le second au début ou au milieu de la soixantaine, pendant qu’Uranus traverse les Gémeaux, jusqu’en 2033.
 

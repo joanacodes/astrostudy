@@ -35,7 +35,7 @@ Once in a life, for everyone born between 1930 and 2009, Uranus stands opposite 
 
 ## What changes {#what-changes}
 
-[Neptune](/astrology/neptune/) is where you imagine, idealise and feel for others. [Uranus](/astrology/uranus/) differentiates and wants what is true brought into view. An [opposition](/astrology/opposition/), 180°, relates two functions through polarity, so under this [transit](/astrology/transits/) the dream and the wish to see clearly stand at either end of one line.
+[Neptune](/astrology/neptune/) carries your dreams, your ideals and the compassion you feel for others. [Uranus](/astrology/uranus/) differentiates and wants what is true brought into view. An [opposition](/astrology/opposition/), 180°, relates two functions through polarity, so under this [transit](/astrology/transits/) the dream and the wish to see clearly stand at either end of one line.
 
 The other end tends to appear outside you: a movement you believed in seen from the outside, a partner or a friend whose dream pulls against yours, an institution that wants to modernise what you held sacred. Or you're the one who sees through something while the people around you still believe. A dream you'd lived inside becomes visible as a dream, which isn't the same as false.
 

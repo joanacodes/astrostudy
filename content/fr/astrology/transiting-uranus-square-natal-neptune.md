@@ -27,7 +27,7 @@ faq:
   - q: "Uranus carré Neptune, est-ce la même chose que le carré de Neptune ?"
     a: "Non. Le carré de Neptune, c’est Neptune en transit en carré à sa position de naissance, vers 41 ans. Ici, c’est Uranus en carré à Neptune de votre thème, deux fois le plus souvent, à des âges que fixe l’année de naissance. Pour les naissances des années 1950, le second est tombé les mêmes années que le carré de Neptune."
   - q: "À quel âge arrive le carré d’Uranus à Neptune ?"
-    a: "Dans le décompte du site, une naissance début 1965 a connu le premier vers 35 ans ; pour 1985, l’âge est d’environ 25 ans, et pour 2005 d’environ 16 ans. Le second suit le premier d’une quarantaine d’années."
+    a: "D’après le décompte du site, le premier carré est arrivé vers 35 ans pour une naissance début 1965 ; il arrive vers 25 ans pour 1985 et vers 16 ans pour 2005. Le second suit le premier d’une quarantaine d’années."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "l’âge du premier carré selon l’année de naissance, et combien de temps il reste dans mes orbes" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à Neptune dans le thème natal" }

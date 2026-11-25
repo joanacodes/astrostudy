@@ -24,7 +24,7 @@ faq:
   - q: "How long does Uranus conjunct Saturn last?"
     a: "A rule can be rewritten and then tested twice before the transit ends. Uranus usually crosses your Saturn three times, in more than nine passes out of ten, because of its yearly retrograde loop, and the whole pass, from 1½° before the exact conjunction to 1° after, lasts about twenty months, or eleven at the quickest."
   - q: "When does Uranus conjunct my Saturn?"
-    a: "It depends on how far Saturn stood ahead of Uranus when you were born. Born soon after Saturn and Uranus met in the sky in 1942 or 1988, you meet it young; born soon before one of those meetings, near 80 or not at all, which is the case for about 1 person in 25 born between 1930 and 2009."
+    a: "It turns on how far Uranus still had to go to reach Saturn at your birth. Born soon after Saturn and Uranus met in the sky in 1942 or 1988, you meet it young; born soon before one of those meetings, near 80 or not at all, as for about 1 person in 25 born from 1930 to 2009."
   - q: "Is Uranus conjunct Saturn the same as a Saturn return?"
     a: "No. The Saturn return is Saturn coming back to its own birth degree, at about 29½ and again at about 59; this transit is Uranus reaching that degree, once at most, at an age your chart sets. For some people born in 2003 the two fall in the same months, around 2031–32."
 sources:
@@ -50,9 +50,9 @@ Natal Saturn was one of the placements that held 75 to 90% of the time in my not
 
 Within my orbs, 1½° before exact to 1° after, Uranus stays on your Saturn for about twenty months, eleven at the shortest: more than twice the nine months or so that Saturn's own transits usually take. In more than nine passes out of ten it crosses the exact degree three times.
 
-The sky sets the date: Saturn and Uranus met in 1942 and 1988, and meet again in 2032. Born soon after one of those meetings, with Saturn a little ahead of Uranus, you meet the transit early, at about 5 for someone born at the start of 1945; born soon before, Uranus has nearly its whole round to travel, about 79 years for someone born at the start of 1985, and more than 80 for births a year or two nearer a meeting: those make up most of the 1 person in 25, among births from 1930 to 2009, who never meet it. Nobody meets it twice. Born with [Saturn conjunct Uranus](/astrology/saturn-conjunct-uranus/), you had it at birth or soon after, unless your Saturn lay just behind your Uranus.
+The sky sets the date, with Saturn and Uranus together in 1942, in 1988 and again in 2032. Born soon after one of those meetings, with Saturn a little ahead of Uranus, you meet the transit early, at about 5 for someone born at the start of 1945; born soon before, Uranus has nearly its whole round to travel, about 79 years for someone born at the start of 1985, and more than 80 for births a year or two nearer a meeting. Nobody meets it twice. Born with [Saturn conjunct Uranus](/astrology/saturn-conjunct-uranus/), you had it at birth or soon after, unless your Saturn lay just behind your Uranus.
 
-With Saturn in Gemini, as for most people born between August 2000 and June 2003, it falls while Uranus crosses Gemini, in your mid to late twenties. For births in the first half of 2003 it shares the months of 2031–32 with the first [Saturn return](/astrology/saturn-return/), when Saturn too comes back to that degree.
+With Saturn in Gemini, as for most people born between August 2000 and June 2003, it falls while Uranus crosses Gemini, in your mid to late twenties. For births in the first half of 2003 it shares the months of 2031–32 with the first [Saturn return](/astrology/saturn-return/).
 
 Round the rest of the circle come [transiting Uranus sextile natal Saturn](/astrology/transiting-uranus-sextile-natal-saturn/), about fourteen years after the conjunction, [transiting Uranus square natal Saturn](/astrology/transiting-uranus-square-natal-saturn/) at about twenty-one, [transiting Uranus trine natal Saturn](/astrology/transiting-uranus-trine-natal-saturn/) at about twenty-eight and [transiting Uranus opposite natal Saturn](/astrology/transiting-uranus-opposite-natal-saturn/) at about forty-two.
 

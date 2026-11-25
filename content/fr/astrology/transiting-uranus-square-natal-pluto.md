@@ -25,7 +25,7 @@ faq:
   - q: "Combien de temps dure Uranus carré Pluton ?"
     a: "Une pression qui monte et retombe plus d’une fois : dans plus de neuf cas sur dix, Uranus atteint le carré exact, repasse dessus en rétrogradant, puis l’atteint de nouveau. Un passage dure une vingtaine de mois, avec mes orbes à 1,5° avant le carré exact et 1° après, et onze environ au plus court."
   - q: "Qui vit Uranus carré Pluton en ce moment ?"
-    a: "Les personnes nées de fin 1956 à mi-1972, avec Pluton en Vierge. Uranus est en Gémeaux jusqu’en 2033, en carré à cette position : elles vivent leur second carré, vers 60 à 68 ans. Le premier est venu vers 16 à 24 ans, dans les années 1980, pendant la traversée du Sagittaire par Uranus."
+    a: "La plupart des personnes nées avec Pluton en Vierge, de fin 1956 à mi-1972, vivent leur second carré maintenant, vers 60 à 68 ans, pendant la traversée des Gémeaux par Uranus, jusqu’en 2033. Le premier est venu vers 16 à 24 ans, dans les années 1980, pendant celle du Sagittaire."
   - q: "Uranus carré Pluton, est-ce la même chose que le carré de Pluton ?"
     a: "Non. Le carré de Pluton, c’est Pluton en transit en carré à sa position de naissance, à un âge qui varie d’une génération à l’autre. Ici, c’est Uranus en carré à Pluton de votre thème, deux fois le plus souvent : dans le décompte du site, le premier vers 32 ans pour une naissance début 1945, vers 15 ans pour 1975."
 sources:
@@ -40,7 +40,7 @@ Quand Uranus forme un carré à Pluton de votre thème natal, l’envie de se li
 
 La friction se rassemble là où quelque chose est tenu depuis longtemps : une loyauté devenue obligation, un besoin de contrôle qui servait autrefois à vous protéger, un arrangement de pouvoir à la maison ou au travail que personne ne questionne. Uranus veut l’ouvrir ; Pluton veut le garder, ou le transformer à ses propres conditions. Le carré demande de laisser quelque chose céder, par choix, avant que la pression n’en décide.
 
-Pluton peut confondre contrôle et sécurité, Uranus bouleversement et progrès : sous le carré, une impasse peut sembler le seul choix, tout tenir ou tout casser. J’y lis une pression pour renégocier un arrangement profond, clause par clause. La transformation n’est pas la destruction, et le transit ne prédit aucune fin.
+Pluton peut confondre contrôle et sécurité, Uranus bouleversement et progrès : sous le carré, une impasse peut sembler le seul choix, tout tenir ou tout casser. J’y lis une pression pour renégocier un arrangement profond, clause par clause. Pluton renouvelle sans détruire, et aucun transit n’annonce une fin.
 
 Avec Pluton en maison 1 et Uranus qui traverse votre maison 4 ([Uranus en transit en maison 4](/astrology/uranus-transit-4th-house/)), l’intensité que vous portez dans le monde rencontre un changement dans votre vie de foyer et vos racines. La maison 4 commence au Fond du Ciel, le point le plus bas du thème, que seule l’heure de naissance permet de trouver ; je ne lis pas un thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

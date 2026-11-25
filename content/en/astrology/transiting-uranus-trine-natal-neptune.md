@@ -51,7 +51,7 @@ Uranus is crossing Gemini until 2033 ([Uranus in Gemini, 2026–2033](/astrology
 
 The ages in the site's count run from about 52 for someone born at the start of 1945 to about 42 for 1965, about 33 for 1985 and about 23½ for 2005. Born in 1936–46 with [Uranus trine Neptune](/astrology/uranus-trine-neptune/), one trine point sat right beside your natal Uranus, so that transit fell in your first year or two, or just before you were born; the other comes in your early or mid-fifties. For the Libra Neptune of the mid-1940s the second can fall after 80, at about 82 for someone born at the start of 1945, which leaves that generation one; every birth from 1930 to 2009 has at least one.
 
-[Transiting Uranus square natal Neptune](/astrology/transiting-uranus-square-natal-neptune/) comes about seven years before the first trine, and [transiting Uranus opposite natal Neptune](/astrology/transiting-uranus-opposite-natal-neptune/) about fourteen after it. [Transiting Uranus conjunct natal Neptune](/astrology/transiting-uranus-conjunct-natal-neptune/) and [transiting Uranus sextile natal Neptune](/astrology/transiting-uranus-sextile-natal-neptune/) belong to the far side of the round.
+The first trine follows [transiting Uranus square natal Neptune](/astrology/transiting-uranus-square-natal-neptune/) by about seven years and precedes [transiting Uranus opposite natal Neptune](/astrology/transiting-uranus-opposite-natal-neptune/) by about fourteen. [Transiting Uranus conjunct natal Neptune](/astrology/transiting-uranus-conjunct-natal-neptune/) and [transiting Uranus sextile natal Neptune](/astrology/transiting-uranus-sextile-natal-neptune/) belong to the far side of the round.
 
 ## What helps {#what-helps}
 

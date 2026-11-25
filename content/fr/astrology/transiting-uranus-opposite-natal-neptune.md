@@ -36,7 +36,7 @@ Une fois dans une vie, pour toutes les personnes nées entre 1930 et 2009, Uranu
 
 ## Ce qui change {#ce-qui-change}
 
-[Neptune](/astrology/neptune/), c’est là où vous imaginez, idéalisez et ressentez pour les autres. [Uranus](/astrology/uranus/) différencie et veut que le vrai soit mis en vue. Une [opposition](/astrology/opposition/), 180°, relie deux fonctions par la polarité : sous ce [transit](/astrology/transits/), le rêve et le désir de voir clair se tiennent aux deux bouts d’une même ligne.
+[Neptune](/astrology/neptune/) porte vos rêves, vos idéaux et la compassion que vous ressentez pour les autres. [Uranus](/astrology/uranus/) différencie et veut que le vrai soit mis en vue. Une [opposition](/astrology/opposition/), 180°, relie deux fonctions par la polarité : sous ce [transit](/astrology/transits/), le rêve et le désir de voir clair se tiennent aux deux bouts d’une même ligne.
 
 L’autre bout apparaît d’ordinaire hors de vous : un mouvement auquel vous croyiez, vu de l’extérieur, quelqu’un de proche dont le rêve tire contre le vôtre, une institution qui veut moderniser ce que vous teniez pour sacré. Ou bien c’est vous qui voyez au travers de quelque chose pendant que votre entourage y croit encore. Un rêve dans lequel vous viviez devient visible comme un rêve, ce qui ne veut pas dire faux.
 

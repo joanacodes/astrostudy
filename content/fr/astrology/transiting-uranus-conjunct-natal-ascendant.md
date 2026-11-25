@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Ascendant", "conjonction", "transits"]
 weight: 1729
 glyph: "♅☌AC"
-definition: "Uranus en transit conjonction Ascendant du thème natal, c’est Uranus qui franchit le degré qui se levait à votre naissance, une vingtaine de mois, une fois au plus. Votre façon de commencer et d’aborder le monde s’ouvre au changement. Il faut absolument l’heure de naissance : sans elle, pas d’Ascendant à franchir, et pas de lecture."
+definition: "Uranus en transit conjonction Ascendant du thème natal, c’est Uranus qui franchit le degré qui se levait à votre naissance, une vingtaine de mois, une fois au plus. Votre façon de commencer et d’aborder le monde s’ouvre au changement. Sans heure de naissance notée, et non devinée, pas de degré levant à franchir, donc pas de lecture."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "L’Ascendant (AC) : votre façon d’aborder le monde ; il demande l’heure de naissance" }
@@ -27,12 +27,12 @@ faq:
   - q: "Faut-il l’heure de naissance pour Uranus conjonction Ascendant ?"
     a: "Oui, entièrement. L’Ascendant est le degré qui se levait à la minute de votre naissance : sans l’heure, Uranus n’a rien à franchir. Même une heure notée, arrondie au quart d’heure, laisse un degré ou deux de doute, donc des mois de doute sur ce transit. Sans heure, je ne le lis pas, ni rien d’autre."
   - q: "Est-ce que je rencontrerai Uranus conjonction mon Ascendant ?"
-    a: "La plupart des gens le rencontrent, une fois. Tout dépend de la position d’Uranus par rapport à votre Ascendant : en maison 12, tout près, le transit vient tôt ; juste à l’intérieur de la maison 1, quelques degrés après, Uranus doit faire presque tout son tour, et ces personnes, environ 1 sur 33, atteignent 80 ans sans ce transit."
+    a: "Oui, une fois, pour la plupart des gens. Tout dépend de la position d’Uranus par rapport à votre Ascendant : en maison 12, tout près, le transit vient tôt ; juste à l’intérieur de la maison 1, quelques degrés après, Uranus doit faire presque tout son tour, et ces personnes, environ 1 sur 33, atteignent 80 ans sans ce transit."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le passage reste dans mes orbes, et combien le rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus aux angles" }
 ---
-Une fois dans une vie au plus, Uranus atteint le degré qui se levait à votre naissance. Pendant une vingtaine de mois, la planète du changement se tient sur le seuil de votre thème, là où vous abordez le monde et commencez les choses, et votre façon de faire l’un et l’autre devient révisable.
+Uranus arrive au degré levant de votre thème une fois dans une vie au plus, et pour certaines personnes pas avant 80 ans. Pendant une vingtaine de mois, la planète du changement se tient sur le seuil de votre thème, là où vous abordez le monde et commencez les choses, et votre façon de faire l’un et l’autre devient révisable.
 
 ## Ce qui change {#ce-qui-change}
 

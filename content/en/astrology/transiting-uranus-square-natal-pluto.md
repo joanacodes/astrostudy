@@ -24,7 +24,7 @@ faq:
   - q: "How long does Uranus square Pluto last?"
     a: "Pressure that builds and eases more than once: Uranus hits the exact square, backs over it while retrograde, then hits it again, in more than nine passes out of ten. A pass lasts about twenty months, with my orbs at 1½° before the exact square and 1° after, and about eleven at the shortest."
   - q: "Who has Uranus square Pluto now?"
-    a: "People born from late 1956 to mid-1972, with Pluto in Virgo. Uranus is in Gemini until 2033, square to that Pluto, so they are meeting their second square at about 60 to 68. Their first came at about 16 to 24, in the 1980s, while Uranus crossed Sagittarius."
+    a: "Most people with Pluto in Virgo, born from late 1956 to mid-1972, are meeting their second square now, at about 60 to 68, while Uranus crosses Gemini until 2033. Their first came at about 16 to 24, in the 1980s, while Uranus crossed Sagittarius."
   - q: "Is Uranus square Pluto the same as the Pluto square?"
     a: "No. The Pluto square is transiting Pluto squaring its own birth place, at an age that varies widely by generation. This transit is Uranus squaring your Pluto, twice in most lives: in the site’s count, the first at about 32 for someone born at the start of 1945 and about 15 for 1975."
 sources:
@@ -39,7 +39,7 @@ When Uranus squares your natal Pluto, the urge to break free presses on what you
 
 The friction gathers where something has been held for a long time: a loyalty that has turned into an obligation, a need for control that once kept you safe, a power arrangement at home or at work that nobody questions. Uranus wants it opened; Pluto wants it kept, or transformed on its own terms. The square asks you to let something give, by choice, before pressure decides it.
 
-Pluto can confuse control with safety, and Uranus disruption with progress, so under the square a standoff can look like the only choice: hold everything or break everything. I read it as pressure to renegotiate a deep arrangement, one term at a time. Transformation isn't destruction, and the transit predicts no ending.
+Pluto can confuse control with safety, and Uranus disruption with progress, so under the square a standoff can look like the only choice: hold everything or break everything. I read it as pressure to renegotiate a deep arrangement, one term at a time. Pluto renews without destroying, and no transit foretells an ending.
 
 With Pluto in your 1st and Uranus crossing your 4th ([Uranus transiting the 4th house](/astrology/uranus-transit-4th-house/)), the intensity you carry into the world meets change in your home life and your roots. The 4th begins at the IC, the lowest point of the chart, and only a birth time can find it; I don't read a chart without one ([what changes without a birth time](/blog/unknown-birth-time/)).
 

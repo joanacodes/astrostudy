@@ -41,7 +41,7 @@ At about 27, the first trine usually falls between the trial of the first square
 
 In the mid-fifties, the second trine comes after the opposition has been lived through. By then independence is easier to use than to win, and the trine favours putting experience to work in a freer form: teaching, advising, starting the project you postponed. The risk, as with any trine, is coasting, an ease you notice only once it's gone.
 
-With your natal Uranus in the 10th, the first trine reaches it from your 2nd ([Uranus transiting the 2nd house](/astrology/uranus-transit-2nd-house/)): your own way of working finds support in what you value and know how to do. Neither house exists without your birth time, and neither does my reading ([what changes without a birth time](/blog/unknown-birth-time/)).
+With your natal Uranus in the 10th, the first trine reaches it from your 2nd ([Uranus transiting the 2nd house](/astrology/uranus-transit-2nd-house/)): your own way of working finds support in what you value and know how to do. Placing your Uranus in the 10th takes the birth time, and so does every reading I give ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

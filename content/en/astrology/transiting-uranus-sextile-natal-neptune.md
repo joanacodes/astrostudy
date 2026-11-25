@@ -41,7 +41,7 @@ The openings are often small and concrete: a tool that lets you make the music o
 
 Its risk is that Neptune drifts and a sextile doesn't insist. Dreams stay dreams if nobody books the room or buys the strings, and the window can close with the idea still in a notebook.
 
-With Neptune in your 5th and Uranus crossing your 7th ([Uranus transiting the 7th house](/astrology/uranus-transit-7th-house/)), a partner or a collaborator can give your creative imagination the outlet it lacked. I can only name those houses from your birth time, and I don't read a chart without one ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Neptune in your 5th and Uranus crossing your 7th ([Uranus transiting the 7th house](/astrology/uranus-transit-7th-house/)), a partner or a collaborator can give your creative imagination the outlet it lacked. Without a birth time I couldn't tell your 5th from your 4th or your 6th, and I don't read a chart on a guess ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
