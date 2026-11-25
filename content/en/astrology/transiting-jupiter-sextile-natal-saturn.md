@@ -1,7 +1,7 @@
 ---
 title: "Transiting Jupiter sextile natal Saturn"
 h1: "Transiting Jupiter sextile your natal Saturn"
-description: "Transiting Jupiter sextile natal Saturn: an opening to give a hope a structure, twice in each Jupiter round. How long it lasts, when it comes, how to use it."
+description: "Transiting Jupiter sextile natal Saturn: an opening to give a hope a structure, twice in each Jupiter round, and why it needs you to act on it."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Saturn", "sextile", "transits"]
 weight: 1592
 glyph: "♃⚹♄"
-definition: "Transiting Jupiter sextile natal Saturn happens when Jupiter in the sky reaches 60° from the degree Saturn held at your birth, twice in each twelve-year round. Growth and the part of you that builds slowly can cooperate. I read it as an opening to put a structure under a hope, which helps only if you take it."
+definition: "Transiting Jupiter sextile natal Saturn is a 60° angle between Jupiter as it moves today and your Saturn at birth, formed twice in every Jupiter round. Growth and the part of you that builds slowly can cooperate. I read it as an opening to put a structure under a hope, which helps only if you take it."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, about a year in each sign" }
   - { k: "Natal point", v: "Your Saturn ♄: what you carry and how you build" }
@@ -22,14 +22,14 @@ faq:
   - q: "What does Jupiter sextile natal Saturn mean as a transit?"
     a: "Jupiter in the sky is 60° from your natal Saturn, so growth and the slow, responsible part of you can work together for a while. I read it as a quiet opening to give something you hope for a proper structure: a timetable, an agreement, a teacher. Nothing happens unless you use it."
   - q: "How often does Jupiter sextile your natal Saturn?"
-    a: "Twice in every twelve-year Jupiter round, so thirteen or fourteen times by 80 for people born between 1930 and 2009. Each lasts about eleven days, or about eight months when Jupiter loops back over the point. The first came anywhere from a few weeks after birth to almost eight years."
+    a: "Twice in every twelve-year Jupiter round, which adds up to thirteen or fourteen by 80 for people born between 1930 and 2009. Each lasts about eleven days, or about eight months when Jupiter loops back over the point. The earliest came within weeks of birth, the latest when a child was nearly eight."
   - q: "Is Jupiter sextile Saturn a good time for commitments?"
     a: "It suits commitments you have already thought through, because growing and holding steady pull in the same direction for a while. It doesn’t decide how a commitment works out, and nothing needs this transit to go well. I’d use it to give a long-term plan its first solid step."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first sextile for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-Twice in each twelve-year round, Jupiter in the sky makes a sextile to the degree your Saturn held at birth. The planet that widens and the planet that builds slowly are on speaking terms for a few days, and something you hope for can be given a shape that lasts.
+For a few days, twice in every Jupiter round, the planet that widens things and the planet that builds slowly are on speaking terms: Jupiter in the sky stands 60° from your birth Saturn. Something you hope for can then be given a shape that lasts.
 
 ## What changes {#what-changes}
 
@@ -41,7 +41,7 @@ Which part of life it concerns depends on two houses: the one your Saturn occupi
 
 ## How long it lasts {#how-long-it-lasts}
 
-Measured between 1½° before exact and 1° after, the orbs I time [transits](/astrology/transits/) with, a sextile to your Saturn that Jupiter crosses once is over within about eleven days. Roughly three times in ten Jupiter is near one of its stations, and the window opens three times over some eight months. With two sextiles in every round, people born between 1930 and 2009 meet thirteen or fourteen by 80.
+Measured between 1½° before exact and 1° after, the orbs I time [transits](/astrology/transits/) with, a sextile to your Saturn that Jupiter crosses once is over within about eleven days. Roughly three times in ten Jupiter is near one of its stations, and the window opens three times over some eight months. Count two per round and you reach thirteen or fourteen by 80, the figure for every birth from 1930 to 2009.
 
 The first can come within weeks of birth or not until nearly eight: at about 1.1 for a birth on 1 January 1995, at about 7.1 for 1 January 1965. The difference is where Jupiter stood at birth, and how far it had to travel to reach a point 60° from your Saturn.
 

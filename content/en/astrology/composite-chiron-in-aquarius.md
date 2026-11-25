@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "Aquarius", "composite chart"]
 weight: 2227
 glyph: "⚷♒"
-definition: "Composite Chiron in Aquarius means the relationship chart’s Chiron, the midpoint of two natal Chirons, lies in the sign of friendship and independence, ruled by Uranus and traditionally Saturn. Being different is the bond’s tender spot, and it adapts by inventing forms of its own rather than borrowing them. It is common: roughly 1 pair in 10."
+definition: "Composite Chiron in Aquarius means the relationship chart’s Chiron, the midpoint of two natal Chirons, lies in the sign of friendship and independence, ruled by Uranus and traditionally Saturn. Being different is the bond’s tender spot, and it adapts by inventing forms of its own. It is common: roughly 1 pair in 10, slightly more than Gemini."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷, halfway between your two natal Chirons" }
   - { k: "Sign", v: "Aquarius ♒, fixed air, ruled by Uranus and, traditionally, Saturn" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-aquarius", "/astrology/aquarius", "/astrology/chiron", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Chiron in Aquarius mean?"
-    a: "It means the midpoint of your two natal Chirons falls in the sign of friendship, groups and independence. The relationship’s sore spot is being different: not fitting the usual shapes, or feeling outside the circles around it. Astrologers read a pair that adapts by inventing its own forms and rules, and by finding its own people."
+    a: "Being different. The relationship may not fit the usual shapes, or may feel outside the circles around it, because the midpoint of your Chirons falls in the sign of friendship and independence. It invents its own forms and rules, and finds its own people."
   - q: "Does composite Chiron in Aquarius mean an unconventional relationship?"
     a: "Often it describes one that feels unconventional to the two people in it, whatever it looks like from outside. A composite doesn’t predict the form a relationship takes, or whether it lasts; it shows where the bond feels out of step, and how it learns to be at ease with that."
   - q: "Is composite Chiron in Aquarius about friendship?"
@@ -33,7 +33,7 @@ At every wedding, every work party, every family lunch, some pairs are the odd o
 
 ## What it says about the two of you {#what-it-says}
 
-Being out of step is where this bond does its adapting. [Chiron](/astrology/chiron/) in [the composite chart](/astrology/composite-chart/), the chart of the relationship drawn from your two sets of midpoints, marks a limit the pair keeps meeting and learns to live with rather than erase. [Aquarius](/astrology/aquarius/), fixed air, gives it the shape of a difference: the relationship may not match what families expect, may not fit the categories friends use, may feel like a translation between two very separate worlds. Aquarius has two rulers, [Uranus](/astrology/uranus/) for modern tropical astrology and [Saturn](/astrology/saturn/) for the tradition, and I read both; in a composite, both are midpoints as well, and between them they describe the new rules and the old structures this Chiron negotiates with.
+Out of step with the usual patterns, this bond has to invent its own. [Chiron](/astrology/chiron/) in [the composite chart](/astrology/composite-chart/), the chart of the relationship drawn from your two sets of midpoints, marks a limit the pair keeps meeting and learns to live with rather than erase. [Aquarius](/astrology/aquarius/), fixed air, gives it the shape of a difference: the relationship may not match what families expect, may not fit the categories friends use, may feel like a translation between two very separate worlds. Aquarius has two rulers, [Uranus](/astrology/uranus/) for modern tropical astrology and [Saturn](/astrology/saturn/) for the tradition, and I read both; in a composite, both are midpoints as well, and between them they describe the new rules and the old structures this Chiron negotiates with.
 
 At a party, each of you might fit in perfectly with your own friends and still, arriving together, be the pair nobody can quite place. Invention is its way round: arrangements designed rather than inherited, a circle of friends who don't need the relationship explained, a friendship at the core that survives whatever else changes. Other couples who don't fit the usual shapes often seek them out.
 
@@ -41,6 +41,6 @@ Roughly 1 pair in 10 has it, among two million random pairs born 1930–2009. Ch
 
 One person's sense of standing apart is what [Chiron in Aquarius](/astrology/chiron-in-aquarius/) describes in a birth chart. In the composite the standing apart is done together, and a pair can be proud of it one year and tired of it the next.
 
-The risk is turning difference into the whole identity of the bond. A relationship tender about fitting in can grow cool and theoretical, treat closeness as a threat to freedom, or defend its oddness so hard that it never rests. Warmth helps, ordinary and unremarkable, and so does letting a few people in close enough to see the relationship as simply yours. Before it, [composite Chiron in Capricorn](/astrology/composite-chiron-in-capricorn/) carries the weight of rules; after it, [composite Chiron in Pisces](/astrology/composite-chiron-in-pisces/) the softness of boundaries.
+Difference can become the bond's whole identity. Then the relationship grows cool and theoretical, treats closeness as a threat to freedom, or defends its oddness so hard that it never rests. Ordinary, unremarkable warmth is the antidote, along with a few people let in close enough to see the relationship as simply yours. Before it, [composite Chiron in Capricorn](/astrology/composite-chiron-in-capricorn/) carries the weight of rules; after it, [composite Chiron in Pisces](/astrology/composite-chiron-in-pisces/) the softness of boundaries.
 
-Composites aren't part of my readings, so this is the technique's view, which its users read with both birth charts and the [synastry](/astrology/synastry/), and never as a forecast of how a relationship will turn out. An unconventional bond still deserves the most conventional courtesy: both people knowing before their charts are read together ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+I don't read composites myself, so this is the technique's view, which its users read with both birth charts and the [synastry](/astrology/synastry/), and never as a forecast of how a relationship will turn out. An unconventional bond still deserves the most conventional courtesy: both people knowing before their charts are read together ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

@@ -2,7 +2,7 @@
 title: "Jupiter en transit carré Saturne du thème natal"
 slug: "jupiter-transit-carre-saturne-natal"
 h1: "Jupiter en transit carré Saturne de votre thème natal"
-description: "Jupiter en transit carré Saturne du thème natal : l’envie de grandir frotte contre vos limites, deux fois par tour. Sa durée, sa fréquence, et ce qui aide."
+description: "Jupiter en transit carré Saturne du thème natal : l’envie de grandir frotte contre vos limites, deux fois par tour. Redimensionner un projet sans le lâcher."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Saturne", "carré", "transits"]
 weight: 1593
 glyph: "♃□♄"
-definition: "Jupiter en transit carré Saturne du thème natal, c’est la période où Jupiter, dans le ciel, se trouve à 90° du degré de Saturne à votre naissance, deux fois par tour de douze ans. L’envie d’en avoir plus frotte contre vos limites. J’y lis une friction qui redessine un projet, pas un mur ni un refus."
+definition: "Jupiter en transit carré Saturne du thème natal, c’est la friction d’un angle de 90° entre Jupiter, là où la planète se trouve aujourd’hui, et Saturne à votre naissance, ressentie deux fois par cycle de Jupiter. L’envie d’en avoir plus frotte contre vos limites. J’y lis une friction qui redessine un projet, pas un mur ni un refus."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Saturne ♄ de votre thème : les limites, les engagements, le long terme" }
@@ -23,14 +23,14 @@ faq:
   - q: "Que veut dire Jupiter en transit carré Saturne du thème natal ?"
     a: "Jupiter, dans le ciel, se trouve à 90° de Saturne dans votre thème : l’envie de grandir et la part de vous qui fixe les limites se gênent un moment. Soit le projet dépasse ce que vous pouvez porter, soit la prudence fait paraître imprudente une bonne idée. J’y lis un moment pour redimensionner le projet, pas pour le lâcher."
   - q: "Combien de temps dure le carré de Jupiter à Saturne du thème natal ?"
-    a: "Onze jours environ quand Jupiter franchit le point une seule fois, avec les orbes que j’utilise pour situer les transits. Trois fois sur dix à peu près, Jupiter repasse en boucle trois fois, ce qui l’étire à huit mois environ. Ce carré revient deux fois par tour de douze ans, treize ou quatorze fois avant 80 ans."
+    a: "Jupiter met onze jours environ à franchir le carré une fois, avec mes orbes habituels. Trois fois sur dix à peu près, Jupiter repasse en boucle trois fois, ce qui l’étire à huit mois environ. Ce carré revient deux fois par tour de douze ans, treize ou quatorze fois avant 80 ans."
   - q: "Jupiter carré Saturne en transit, est-ce un mauvais transit ?"
-    a: "Aucun transit n’est mauvais en soi. Celui-ci apporte une friction entre « plus » et « assez », et c’est par la friction qu’un projet découvre ce qu’il peut supporter. Il ne prédit ni échec, ni refus, ni perte. Il marque souvent le moment où une ambition reçoit un calendrier qu’elle peut vraiment tenir."
+    a: "Pas tel que je le lis. Ce transit apporte une friction entre « plus » et « assez », et c’est par la friction qu’un projet découvre ce qu’il peut supporter. Il ne prédit ni échec, ni refus, ni perte. Il marque souvent le moment où une ambition reçoit un calendrier qu’elle peut vraiment tenir."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge au premier carré selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
 ---
-Deux fois par tour de douze ans, Jupiter, dans le ciel, forme un carré avec le degré de Saturne à votre naissance. Pendant quelques jours, ou des mois quand la planète fait une boucle, l’envie de grandir et la part de vous qui fixe les limites se gênent, et le projet doit être redessiné pour que les deux puissent s’en accommoder.
+Quand Jupiter, dans le ciel, atteint 90° de Saturne de votre naissance, à l’aller après chaque passage sur ce point puis de nouveau au retour, l’envie de grandir et la part de vous qui fixe les limites se gênent. Pendant quelques jours, ou des mois quand la planète fait une boucle, le projet doit être redessiné pour que les deux puissent s’en accommoder.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -38,7 +38,7 @@ Deux fois par tour de douze ans, Jupiter, dans le ciel, forme un carré avec le 
 
 La friction prend souvent l’une de deux formes. Soit la croissance tire contre la structure : de l’impatience envers votre propre prudence, des règles soudain trop étroites, un projet qui déborde des heures disponibles. Soit la structure résiste à la croissance : un doute qui fait paraître imprudente une bonne idée, ou un devoir qui ne lui laisse aucune place. Saturne a tendance à croire que le contrôle protège, et Jupiter que plus vaut mieux : le carré met un peu de pression sur ces deux croyances, ce qui fait du bien à l’une comme à l’autre.
 
-L’endroit où cela frotte dépend de la maison de Saturne et de celle que Jupiter traverse, et les deux demandent votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec [Jupiter carré Saturne](/astrology/jupiter-square-saturn/) à la naissance, l’un de ces transits tombe près de chaque [retour de Jupiter](/astrology/jupiter-return/), et la conversation vous sera familière.
+L’endroit où cela frotte dépend de la maison de Saturne et de celle que Jupiter traverse, et les deux demandent votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Votre thème porte [Jupiter carré Saturne](/astrology/jupiter-square-saturn/) ? Vous connaissez alors cette friction de l’intérieur, et le ciel la rejoue près de chaque [retour de Jupiter](/astrology/jupiter-return/).
 
 ## Combien de temps {#combien-de-temps}
 

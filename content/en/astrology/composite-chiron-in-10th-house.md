@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "10th house", "composite chart"]
 weight: 2238
 glyph: "⚷"
-definition: "Composite Chiron in the 10th house raises the relationship chart’s Chiron to the top of the chart, the house of public life and vocation that begins at the composite Midheaven. Astrologers read a bond tender about how the world sees it and what it does together, which shapes a public role that fits it. It needs both birth times."
+definition: "Composite Chiron in the 10th house raises the relationship chart’s Chiron to the top of the chart, the house of public life and vocation that begins at the composite Midheaven. Astrologers read a bond tender about being seen, which shapes a public role of its own. Both methods agree on that Midheaven, which still needs both birth times."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 10th house, which begins at the composite Midheaven" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-10th-house", "/astrology/10th-house", "/astrology/midheaven", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Chiron in the 10th house mean?"
-    a: "The relationship chart has Chiron in the house of public life and vocation, so the bond’s tender spot is how it is seen: judged by a workplace, a family or a town, exposed when it works in public. Astrologers read a pair that adapts by shaping a public role and a shared purpose that suit it."
+    a: "How the world sees the two of you. Colleagues, a family or a small town may judge the relationship, and working in public can expose it. What helps is a public role and a shared purpose shaped to fit."
   - q: "Is composite Chiron in the 10th house about working together?"
     a: "Often. The 10th covers vocation and standing, so the bond’s tender spot can show in a shared business, a workplace where both are known, or simply in how the pair is seen. It predicts no success or failure; it describes where the relationship feels exposed, and the role it builds there."
   - q: "Why do both methods agree on the composite Midheaven?"
@@ -40,6 +40,6 @@ Its cusp, with the IC opposite, is where the two ways of drawing composite house
 
 Three charts can carry this Chiron, and they say different things: a natal [Chiron in the 10th house](/astrology/chiron-in-10th-house/) is about one person's reputation and vocation, [their Chiron in your 10th house](/astrology/chiron-in-10th-house-synastry/) meets one person's ambitions with the other's experience, and the composite's 10th is the face the two of you show together, ambition and reluctance alike.
 
-Reputation can end up running the relationship: choices made for how they look, a bond that performs success, or one that hides from view to avoid comment. A composite predicts no promotion, failure or scandal. It helps to decide together what you want to be known for, and to keep some of your life out of the shop window.
+Reputation can end up running the relationship: choices made for how they look, a bond that performs success, or one that hides from view to avoid comment. A composite predicts no promotion, failure or scandal. It is worth deciding together what you want to be known for, and keeping some of your life out of the shop window.
 
-Behind it, [composite Chiron in the 9th house](/astrology/composite-chiron-in-9th-house/) is tender about the wider world; ahead of it, [composite Chiron in the 11th house](/astrology/composite-chiron-in-11th-house/) about friends and groups. Composites aren't something I draw; the astrologers who do read this Chiron with both birth charts and the [synastry](/astrology/synastry/), and for a pair in the public eye more than most, both should know before their charts are compared ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Behind it, [composite Chiron in the 9th house](/astrology/composite-chiron-in-9th-house/) is tender about the wider world; ahead of it, [composite Chiron in the 11th house](/astrology/composite-chiron-in-11th-house/) about friends and groups. Drawing composites isn't part of my work; the astrologers who do it read this Chiron with both birth charts and the [synastry](/astrology/synastry/), and for a pair in the public eye more than most, both should know before their charts are compared ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

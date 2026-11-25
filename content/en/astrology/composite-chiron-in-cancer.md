@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-cancer", "/astrology/cancer", "/astrology/chiron", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Chiron in Cancer mean?"
-    a: "It means your relationship chart has Chiron in the sign of home and belonging. The bond’s tender place is where it fits: in a home, among its families, in each other’s care. Astrologers read a pair that adapts by making shelter and traditions of its own, and by learning to let care run both ways."
+    a: "It means the bond is tender about where it belongs: in a home, among its families, in each other’s care. Shelter and traditions of its own help, and so does learning to let care run both ways rather than always in one direction."
   - q: "Is composite Chiron in Cancer about family problems?"
     a: "Not as a prediction. Cancer covers home, family and belonging, so astrologers read the bond as sensitive there: where it fits, who welcomes it, how care is shared. A composite can’t say how any family will behave, or whether two people will live together; it describes a tender place, not an event."
   - q: "Why is composite Chiron in Cancer less common than in Aries?"
@@ -40,8 +40,8 @@ Chiron moves faster through Cancer than through the signs before it, so fewer bi
 
 Someone born with [Chiron in Cancer](/astrology/chiron-in-cancer/) searches for a place to belong on their own account. Shared, the search often pulls two ways at once, towards more closeness and away from being swallowed by it, and a pair can feel both pulls in the same evening.
 
-The difficulty is care that tips into control. A bond that is sore about belonging can over-protect, keep score of who looks after whom, or withdraw into its shell when a family remark stings. It helps to ask for care in plain words rather than wait for it, and to let the home be imperfect and still be home.
+Care can tip into control. Over-protecting, keeping score of who looks after whom, withdrawing into the shell when a family remark stings: these are the bond's defences, and they cost it. Asking for care in plain words beats waiting for it, and a home can be imperfect and still be home.
 
 The neighbouring placements describe other tender places: [composite Chiron in Gemini](/astrology/composite-chiron-in-gemini/) the words between you, [composite Chiron in Leo](/astrology/composite-chiron-in-leo/) the wish to be seen together.
 
-Composite charts stay outside my own readings. Here they are described as a technique, the way astrologers who draw them read this Chiron: next to both birth charts and the [synastry](/astrology/synastry/), and never as a prediction of a home, a wedding or a separation. A chart of two people needs both of them to have said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Composite charts never come into my own readings. Here they are described as a technique, the way astrologers who draw them read this Chiron: next to both birth charts and the [synastry](/astrology/synastry/), and never as a prediction of a home, a wedding or a separation. Care starts with asking, so a chart of two people needs both of them to have said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

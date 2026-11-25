@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Chiron", "maison 2", "thème composite"]
 weight: 2230
 glyph: "⚷"
-definition: "Chiron composite en maison 2 place le Chiron du thème de la relation dans la maison de ce qu’une paire possède et estime : argent, biens, savoir-faire, sentiment de valeur. Le point sensible du lien, c’est la valeur, et il s’adapte par des arrangements bien à lui. Gains et pertes ne sont pas son affaire ; sa maison demande les deux heures."
+definition: "Chiron composite en maison 2 place le Chiron de la relation dans la maison de ce qu’une paire possède et estime : argent, biens, savoir-faire, sentiment de valeur. Le point sensible du lien, c’est la valeur, et il s’adapte par des arrangements bien à lui. Ni gain ni perte n’y sont prédits ; il lui faut deux heures de naissance."
 facts:
   - { k: "Corps", v: "Chiron composite ⚷" }
   - { k: "Maison", v: "La maison 2, de ce que la paire possède et estime" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-2nd-house", "/astrology/2nd-house", "/astrology/which-house-system-should-i-use", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Chiron composite en maison 2 ?"
-    a: "Le thème de votre relation place Chiron dans la maison de l’argent, des biens et des valeurs : le point tendre du lien, c’est la valeur, des revenus inégaux, des habitudes différentes avec l’argent, le doute que ce que vous avez ensemble suffise. Les astrologues y lisent une paire qui s’adapte par des arrangements choisis, posés tôt et calmement."
+    a: "L’argent et la valeur touchent le point sensible de la relation : des revenus inégaux, des habitudes différentes avec l’argent, le doute que ce que vous avez ensemble suffise. En maison 2 composite, la question se règle en général par des arrangements choisis tôt et calmement, avant que rien ne coince."
   - q: "Chiron composite en maison 2 parle-t-il d’argent ?"
     a: "En partie. La maison 2 couvre l’argent, les biens et les valeurs : le lien est sensible à ce qu’il possède et à la façon de le partager. Cela décrit des sentiments et des habitudes, pas une prédiction : aucun composite ne dit si une paire sera à l’aise ou à court, ni qui gagnera quoi."
   - q: "Quelle méthode de maisons choisir pour un composite ?"
@@ -43,4 +43,4 @@ Le nœud d’une personne entre ce qu’elle gagne et ce qu’elle pense valoir,
 
 Sa difficulté, c’est de laisser l’argent tenir lieu de valeur : tenir les comptes à l’euro près, ou prouver la valeur du lien par ce qu’il possède. Un composite ne dit rien de l’aisance ou de la gêne qui attend deux personnes ; ce Chiron décrit ce qu’elles ressentent face à ce qu’elles ont. Parler d’argent quand tout va bien aide bien plus que d’en parler en pleine crise.
 
-À côté, [Chiron composite en maison 1](/astrology/composite-chiron-in-1st-house/) est sensible à l’image du lien, et [Chiron composite en maison 3](/astrology/composite-chiron-in-3rd-house/) à ses échanges de tous les jours. Les composites restent en dehors de mes lectures ; leurs adeptes lisent ce Chiron à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et tout ce qui touche à l’argent de deux personnes ne se regarde que si les deux l’ont accepté ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+À côté, [Chiron composite en maison 1](/astrology/composite-chiron-in-1st-house/) est sensible à l’image du lien, et [Chiron composite en maison 3](/astrology/composite-chiron-in-3rd-house/) à ses échanges de tous les jours. Je laisse les composites hors de mes propres lectures ; leurs adeptes lisent ce Chiron à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et tout ce qui touche à l’argent de deux personnes ne se regarde que si les deux l’ont accepté ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

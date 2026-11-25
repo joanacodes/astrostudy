@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-sagittarius", "/astrology/sagittarius", "/astrology/chiron", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does composite Chiron in Sagittarius mean?"
-    a: "The midpoint of your two natal Chirons falls in the sign of belief, travel and the wider view, so the relationship’s sore spot is meaning: what it stands for, how two outlooks fit, how much freedom each keeps. Astrologers read a pair that adapts by learning each other’s worlds and building a shared outlook."
+    a: "A search for meaning the two of you share: what the relationship stands for, how two outlooks fit, how much freedom each person keeps. Learning each other’s worlds, with Chiron in the centaur’s own sign, is how a shared outlook takes shape."
   - q: "Does composite Chiron in Sagittarius mean a long-distance relationship?"
     a: "Not as a prediction. Sagittarius covers distance, travel and the wider world, so astrologers read the bond as sensitive there, but a composite can’t say where two people will live or whether they will be apart. It describes a tender spot about meaning and freedom, not an itinerary."
   - q: "Why do we have composite Chiron in Sagittarius when neither of us was born with it?"
@@ -40,6 +40,6 @@ Its share matches Leo's, about 1 pair in 18 across two million random pairings o
 
 [Chiron in Sagittarius](/astrology/chiron-in-sagittarius/) in a single chart is one person's search for a creed of their own. The composite's search is for a creed two people can hold, which is a slower and more generous business.
 
-Meaning can turn into a contest. A bond sore about belief can preach, debate everything, or keep one foot out of the door in the name of freedom. Curiosity helps more than agreement: rituals that honour both worlds, a shared purpose put simply, and room for each of you to wander and return. Between [composite Chiron in Scorpio](/astrology/composite-chiron-in-scorpio/), sore about trust, and [composite Chiron in Capricorn](/astrology/composite-chiron-in-capricorn/), sore about authority, Sagittarius is sore about why.
+Meaning can turn into a contest, with sermons, endless debate, or one foot kept out of the door in the name of freedom. Curiosity helps more than agreement: rituals that honour both worlds, a shared purpose put simply, and room for each of you to wander and return. Between [composite Chiron in Scorpio](/astrology/composite-chiron-in-scorpio/), sore about trust, and [composite Chiron in Capricorn](/astrology/composite-chiron-in-capricorn/), sore about authority, Sagittarius is sore about why.
 
 Explaining a technique is not the same as practising it: composites aren't part of my readings, and those who use them set this Chiron beside both birth charts and the [synastry](/astrology/synastry/). It forecasts no move abroad, no conversion and no parting. Wherever Chiron turns up, though, I'd want it read the way I read it in a birth chart, gently ([the three that held](/blog/saturn-chiron-lilith/#gently)).

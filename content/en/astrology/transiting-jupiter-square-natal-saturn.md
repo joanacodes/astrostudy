@@ -1,7 +1,7 @@
 ---
 title: "Transiting Jupiter square natal Saturn"
 h1: "Transiting Jupiter square your natal Saturn"
-description: "Transiting Jupiter square natal Saturn: the wish to grow rubs against your limits, twice in each Jupiter round. How long it lasts, how often, and what helps."
+description: "Transiting Jupiter square natal Saturn: the wish to grow rubs against your limits, twice in each Jupiter round, and how to resize a plan rather than drop it."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Saturn", "square", "transits"]
 weight: 1593
 glyph: "♃□♄"
-definition: "Transiting Jupiter square natal Saturn is the stretch when Jupiter in the sky stands 90° from the degree Saturn held at your birth, twice in each twelve-year round. The wish for more rubs against the part of you that sets limits. I read it as friction that redraws a plan, not as a wall or a refusal."
+definition: "Transiting Jupiter square natal Saturn is the friction of a 90° angle between today’s Jupiter and your birth Saturn, felt twice in each twelve-year Jupiter cycle. The wish for more rubs against the part of you that sets limits. I read it as friction that redraws a plan, not as a wall or a refusal."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, about a year in each sign" }
   - { k: "Natal point", v: "Your Saturn ♄: limits, commitments, the long view" }
@@ -22,14 +22,14 @@ faq:
   - q: "What does transiting Jupiter square natal Saturn mean?"
     a: "Jupiter in the sky is 90° from your natal Saturn, so the urge to grow and the part of you that sets limits get in each other’s way. Either the plan outruns what you can carry, or caution makes a good idea look reckless. I read it as a time to resize the plan, not to drop it."
   - q: "How long does Jupiter square Saturn last as a transit?"
-    a: "About eleven days when Jupiter crosses the point once, with the orbs I use for timing. Roughly three times in ten it loops back and crosses three times, which stretches it to about eight months. It comes twice in each twelve-year round, thirteen or fourteen times by 80."
+    a: "Jupiter takes about eleven days to cross the square once, counting by my usual orbs. Roughly three times in ten it loops back and crosses three times, which stretches it to about eight months. It comes twice in each twelve-year round, thirteen or fourteen times by 80."
   - q: "Is Jupiter square natal Saturn a bad transit?"
-    a: "No transit is bad in itself. This one brings friction between more and enough, and friction is how a plan finds out what it can bear. It predicts no failure, refusal or loss. It often marks the point where an ambition gets a timetable it can actually keep."
+    a: "Not as I read it. It brings friction between more and enough, and friction is how a plan finds out what it can bear. It predicts no failure, refusal or loss. It often marks the point where an ambition gets a timetable it can actually keep."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first square for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-Twice in each twelve-year round, Jupiter in the sky makes a square to the degree your Saturn held at birth. For a few days, or for months when it loops, the urge to grow and the part of you that sets limits get in each other's way, and the plan has to be redrawn so that both can live with it.
+When Jupiter in the sky reaches 90° from your birth Saturn, as it does on the way out from each crossing and again on the way back, the urge to grow and the part of you that sets limits get in each other's way. For a few days, or for months when Jupiter loops, the plan has to be redrawn so that both can live with it.
 
 ## What changes {#what-changes}
 
@@ -37,7 +37,7 @@ Twice in each twelve-year round, Jupiter in the sky makes a square to the degree
 
 The friction tends to take one of two shapes. Either growth pulls against structure, with impatience at your own caution, rules that suddenly feel too tight, a plan that outruns the hours; or structure pushes back against growth, with a doubt that makes a good idea look reckless, or a duty that leaves no room for it. Saturn tends to believe that control keeps things safe, and Jupiter that more is better: the square puts both beliefs under a little pressure, which is useful for each.
 
-Where it bites depends on Saturn's house and on the house Jupiter is crossing, both of which need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). If you were born with [Jupiter square Saturn](/astrology/jupiter-square-saturn/), one of these transits falls near every [Jupiter return](/astrology/jupiter-return/), and the conversation will be a familiar one.
+Where it bites depends on Saturn's house and on the house Jupiter is crossing, both of which need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Jupiter square Saturn](/astrology/jupiter-square-saturn/)? Then you know this friction from the inside, and the sky stages it again close to each [Jupiter return](/astrology/jupiter-return/).
 
 ## How long it lasts {#how-long-it-lasts}
 

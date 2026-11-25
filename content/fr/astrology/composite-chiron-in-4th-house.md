@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Chiron", "maison 4", "thème composite"]
 weight: 2232
 glyph: "⚷"
-definition: "Chiron composite en maison 4 met le Chiron de la relation à sa racine, dans la maison du foyer, de la famille et de l’intime, ouverte au Fond du Ciel composite. Les astrologues y lisent un lien sensible à ses fondations, qui pose les siennes, lentement et exprès. Aucun déménagement n’y est annoncé ; il faut les deux heures de naissance."
+definition: "Chiron composite en maison 4 met le Chiron de la relation à sa racine : le foyer, la famille, l’intime. Les astrologues y lisent un lien sensible à ses fondations, qui pose les siennes, lentement et exprès. La maison s’ouvre au Fond du Ciel composite, tiré des deux heures de naissance, et rien n’y annonce un déménagement."
 facts:
   - { k: "Corps", v: "Chiron composite ⚷" }
   - { k: "Maison", v: "La maison 4, qui commence au Fond du Ciel composite" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-4th-house", "/astrology/4th-house", "/astrology/imum-coeli", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Chiron composite en maison 4 ?"
-    a: "Le thème de la relation place Chiron dans la maison du foyer, des racines et de la vie privée : le point tendre du lien, ce sont ses fondations, le foyer qu’il se fait, les familles de chaque côté, ce sur quoi il repose. Les astrologues y lisent une paire qui pose ses propres fondations, délibérément, au lieu d’en hériter."
+    a: "Il s’agit des fondations : le foyer que vous faites, les familles derrière chaque personne, ce sur quoi la relation repose. Quand le composite place Chiron en maison 4, ces fondations se posent délibérément, par la paire, au lieu d’être héritées de l’un ou l’autre côté."
   - q: "Chiron composite en maison 4 veut-il dire que nous n’aurons pas de foyer ensemble ?"
     a: "Non. Un composite ne prédit ni déménagement, ni maison, ni événement de famille ; il décrit l’endroit où la relation est tendre, sa vie au foyer et ses racines. Beaucoup de paires qui l’ont font leur foyer avec un soin rare, justement parce que cela ne leur a jamais semblé aller de soi."
   - q: "Un déménagement change-t-il un thème composite ?"
@@ -41,6 +41,6 @@ Cette maison partage un avantage avec la maison 10 seulement : sa cuspide est l
 
 Là où un [Chiron en maison 4](/astrology/chiron-in-4th-house/) natal appartient à la recherche, par une personne, d’un sol à elle, et où [le Chiron de l’autre dans votre maison 4](/astrology/chiron-in-4th-house-synastry/) fait entrer sa vieille blessure dans votre vie privée, la maison 4 du composite est un sol sur lequel vous vous tenez à deux, agitation et nostalgie comprises.
 
-Quand cela tourne mal, c’est le passé qui dicte ses conditions. Un lien sensible à ses racines peut reproduire un schéma familial qu’il voulait quitter, se retirer complètement du monde, ou faire du foyer la mesure de la bonne marche de la relation. Mieux vaut décider ensemble, à voix haute, quelles traditions vous gardez et lesquelles vous laissez.
+Quand cela tourne mal, c’est le passé qui dicte ses conditions : un schéma familial répété alors que la paire voulait le quitter, un retrait du monde, le foyer devenu la mesure de la bonne marche de la relation. Mieux vaut décider ensemble, à voix haute, quelles traditions vous gardez et lesquelles vous laissez.
 
-Les maisons voisines l’encadrent : [Chiron composite en maison 3](/astrology/composite-chiron-in-3rd-house/) est sensible dans les échanges quotidiens, [Chiron composite en maison 5](/astrology/composite-chiron-in-5th-house/) dans le jeu et le plaisir. Je ne dresse pas de composites ; les astrologues qui en dressent lisent ce Chiron avec les deux thèmes natals et la [synastrie](/astrology/synastry/), et il ne prédit jamais ni déménagement, ni maison, ni famille, ni fin. Comme tout thème de deux personnes, il ne se lit qu’entre adultes, et seulement si les deux personnes le savent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Les maisons voisines l’encadrent : [Chiron composite en maison 3](/astrology/composite-chiron-in-3rd-house/) est sensible dans les échanges quotidiens, [Chiron composite en maison 5](/astrology/composite-chiron-in-5th-house/) dans le jeu et le plaisir. Je laisse les thèmes composites à d’autres ; les astrologues qui les dressent lisent ce Chiron avec les deux thèmes natals et la [synastrie](/astrology/synastry/), et il ne prédit jamais ni déménagement, ni maison, ni famille, ni fin. Et un thème qui touche à la vie privée de deux personnes leur appartient à toutes les deux : il ne se lit qu’entre adultes, et seulement si les deux le savent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

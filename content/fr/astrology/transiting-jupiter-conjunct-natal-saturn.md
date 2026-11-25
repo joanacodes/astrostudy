@@ -2,7 +2,7 @@
 title: "Jupiter en transit conjonction Saturne du thème natal"
 slug: "jupiter-transit-conjonction-saturne-natal"
 h1: "Jupiter en transit conjonction Saturne de votre thème natal"
-description: "Jupiter en transit conjonction Saturne du thème natal : tous les 12 ans environ, la croissance rejoint ce que vous bâtissez lentement. Durée, âges, ce qui aide."
+description: "Jupiter en transit conjonction Saturne du thème natal : la croissance rejoint ce que vous bâtissez lentement, et ce transit n’est pas la grande conjonction."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Saturne", "conjonction", "transits"]
 weight: 1591
 glyph: "♃☌♄"
-definition: "Jupiter en transit conjonction Saturne du thème natal, c’est Jupiter, dans le ciel du moment, sur le degré de Saturne à votre naissance, une fois tous les douze ans environ. La croissance rejoint la part du thème qui bâtit lentement. J’y lis de l’air et du recul pour un long effort, jamais une récompense arrivée à échéance."
+definition: "Jupiter en transit conjonction Saturne du thème natal, c’est le passage de Jupiter sur Saturne de votre naissance, qui revient tous les douze ans environ. La croissance rejoint la part du thème qui bâtit lentement. J’y lis de l’air et du recul pour un long effort, jamais une récompense arrivée à échéance."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Saturne ♄ de votre thème : la structure, les responsabilités, les limites" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/conjunction", "/astrology/jupiter-conjunct-saturn", "/astrology/jupiter-saturn-great-conjunctions"]
 faq:
   - q: "Que veut dire Jupiter en transit conjonction Saturne du thème natal ?"
-    a: "Jupiter, dans le ciel, passe sur le degré de Saturne à votre naissance. J’y lis une croissance qui arrive là où vous êtes le plus prudent ou la plus prudente : un devoir qui trouve de l’aide, une règle qui a de la marge, un long effort qui montre à quoi il servait. Une saison, pas un événement."
+    a: "Jupiter traverse en ce moment Saturne de votre thème natal. J’y lis une croissance qui arrive là où vous êtes le plus prudent ou la plus prudente : un devoir qui trouve de l’aide, une règle qui a de la marge, un long effort qui montre à quoi il servait. Une saison, pas un événement."
   - q: "Jupiter en transit sur Saturne du thème natal, est-ce un bon transit ?"
     a: "La tradition mettait Jupiter en tête des bénéfiques et Saturne en tête des maléfiques, et beaucoup d’astrologues lisent ici un soulagement. J’y lis du recul sur ce que porte Saturne dans votre thème : cela peut soulager, et cela peut aussi pousser à promettre plus que cette structure ne peut tenir. Ni récompense ni facilité garanties."
   - q: "À quel moment vient le passage de Jupiter sur Saturne de mon thème ?"
-    a: "Tous les douze ans environ, six ou sept fois avant 80 ans pour les naissances de 1930 à 2009. Le premier passage est venu entre quelques semaines et douze ans après la naissance, selon la place de Jupiter ce jour-là. Avec votre date de naissance et des éphémérides, les semaines exactes se trouvent facilement."
+    a: "Tous les douze ans environ, six ou sept fois avant 80 ans pour les naissances de 1930 à 2009. Sa première visite est tombée entre quelques semaines et douze ans après la naissance, selon la place de Jupiter ce jour-là. Avec votre date de naissance et des éphémérides, les semaines exactes se trouvent facilement."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge au premier passage selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
@@ -45,7 +45,7 @@ Ce [transit](/astrology/transits/) n’est pas la grande conjonction ([grandes c
 
 ## Combien de temps {#combien-de-temps}
 
-Jupiter parcourt en général le trajet qui va de 1,5° avant Saturne à 1° après, les orbes que j’utilise pour situer les transits, en onze jours environ. Quand sa rétrogradation annuelle tombe sur ce trajet, trois fois sur dix environ, Jupiter passe trois fois et reste quelque huit mois. Les personnes nées entre 1930 et 2009 le rencontrent six ou sept fois avant 80 ans.
+Jupiter parcourt en général le trajet qui va de 1,5° avant Saturne à 1° après, les orbes que j’utilise pour situer les transits, en onze jours environ. Quand sa rétrogradation annuelle tombe sur ce trajet, trois fois sur dix environ, Jupiter passe trois fois et reste quelque huit mois. Six ou sept de ces transits tombent avant 80 ans pour les naissances de 1930 à 2009.
 
 Le premier passage est venu entre quelques semaines et douze ans après la naissance, selon un rythme de vingt ans, celui des grandes conjonctions. Pour une naissance le 1er janvier 1935, 1955, 1975 ou 1995, quelques années avant une grande conjonction, avec Jupiter encore derrière Saturne, on l’a rencontré à trois ou quatre ans ; pour le 1er janvier 1945, 1965, 1985 ou 2005, quelques années après, avec Jupiter déjà devant, à neuf ou dix ans.
 

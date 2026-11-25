@@ -5,6 +5,8 @@ description: "Transiting Jupiter conjunct natal Sun: once every twelve years, ro
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Sun", "conjunction", "transits"]
 weight: 1562
 glyph: "♃☌☉"
 definition: "Transiting Jupiter conjunct natal Sun is Jupiter’s arrival at the exact degree of your birth Sun, about once every twelve years. For eleven days, or eight months when it loops back, your sense of self gets more room: confidence, a wider purpose, an appetite to learn. I read it as growth on offer, not a guarantee."
@@ -42,11 +44,11 @@ Your Sun's house says where in life this happens, and the crossing always falls 
 
 ## How long it lasts {#how-long-it-lasts}
 
-With the orbs I use, from 1½° before exact to 1° after, about seven crossings in ten are a single pass of about eleven days. The other three are loops: Jupiter crosses your Sun's degree, backs over it and crosses it again: three exact hits, spread over about eight months.
+With the orbs I use, from 1½° before exact to 1° after, about seven crossings in ten are a single pass of about eleven days. The other three are loops, in which Jupiter crosses your Sun's degree, backs over it and crosses it again: three exact hits, spread over about eight months.
 
 Your birthday tells you which kind is coming. Jupiter travels backwards only in the four months or so around its opposition, when it faces the Sun across the sky, so a quick single crossing of your Sun can come only within about two months of your birthday, while Jupiter sits near the Sun from where we stand, low in the twilight or lost in its glare. A crossing further from your birthday belongs to a loop, and its middle pass, during [Jupiter retrograde](/astrology/jupiter-retrograde/), lands four to six months from it, with Jupiter up for most of the night.
 
-Everyone born between 1930 and 2009 has six or seven of these crossings by 80, at intervals of about twelve years. Each crossing starts a round that the next twelve years complete: [transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/) about two years on, [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/) at three, [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/) at four and [transiting Jupiter opposite natal Sun](/astrology/transiting-jupiter-opposite-natal-sun/) halfway, at six, before the same angles come back in reverse order.
+Everyone born between 1930 and 2009 has six or seven of these crossings by 80, at intervals of about twelve years: a regular renewal of how you grow into yourself. Each crossing starts a round that the next twelve years complete: [transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/) about two years on, [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/) at three, [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/) at four and [transiting Jupiter opposite natal Sun](/astrology/transiting-jupiter-opposite-natal-sun/) halfway, at six, before the same angles come back in reverse order.
 
 ## What helps {#what-helps}
 

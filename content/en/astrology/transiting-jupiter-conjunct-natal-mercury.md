@@ -35,7 +35,7 @@ About once in twelve years, Jupiter reaches the degree where Mercury stood when 
 
 It often shows as an appetite for a subject that suddenly opens out, a course you finally sign up for, a book you want to write or to read slowly, a conversation that changes how you see your work. Explaining comes more easily, and so does teaching. The risk is on the generous side: big statements on small evidence, more projects than you can keep track of, the feeling of being right arriving before the facts. Reasoning isn't certainty, and a crossing of Mercury is a good time to remember it.
 
-This conjunction always comes during Jupiter's year in your Mercury's house. With Mercury in the 3rd, the house that belongs to Gemini, Mercury's own sign, in the natural order, it comes during [Jupiter transiting the 3rd house](/astrology/jupiter-transit-3rd-house/), and words, lessons, neighbours and short journeys are the setting. Born with [Mercury conjunct Jupiter](/astrology/mercury-conjunct-jupiter/), you'll meet it at each [Jupiter return](/astrology/jupiter-return/).
+This conjunction always comes during Jupiter's year in your Mercury's house. With Mercury in the 3rd, the house that belongs to Gemini, Mercury's own sign, in the natural order, it comes during [Jupiter transiting the 3rd house](/astrology/jupiter-transit-3rd-house/), and words, lessons, neighbours and short journeys are the setting. If [Mercury conjunct Jupiter](/astrology/mercury-conjunct-jupiter/) is in your birth chart, this crossing and your [Jupiter return](/astrology/jupiter-return/) arrive together.
 
 ## How long it lasts {#how-long-it-lasts}
 

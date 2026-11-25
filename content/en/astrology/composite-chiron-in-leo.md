@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-leo", "/astrology/leo", "/astrology/davison-chart", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Chiron in Leo mean?"
-    a: "Chiron in the relationship’s own chart sits in the sign of pride, joy and being seen. The bond’s sore spot is recognition: whether it is noticed, celebrated, taken seriously as a pair. Astrologers read two people who learn to celebrate each other in their own way, without waiting for anyone else’s applause."
+    a: "Recognition: whether the relationship is noticed, celebrated, taken seriously as a pair. In the sign of pride and joy, Chiron teaches two people to celebrate each other in their own way, without waiting for anyone else’s applause."
   - q: "Is composite Chiron in Leo rare?"
     a: "Somewhat: of two million random pairs born 1930–2009, about 1 in 18 had it. Chiron crossed Leo in under three years each time, from September 1940 to July 1943 and from July 1991 to September 1993, so few same-age pairs have it, and most reach it through an age gap."
   - q: "What is the difference between composite Chiron and Davison Chiron?"
@@ -40,8 +40,8 @@ It's one of the rarer composite Chiron signs: about 1 pair in 18 has it, by The 
 
 The applause one person did or didn't receive is the subject of a natal [Chiron in Leo](/astrology/chiron-in-leo/). Shared, it can show up as each of you waiting for the other to make the bond visible.
 
-What makes it hard is a hunger for proof. The relationship may compete for attention within itself, perform for an audience it doesn't trust, or hide entirely rather than risk being judged. Choosing the audience helps: a few people who matter, told plainly that the two of you are together, or in business, or friends for life.
+Its weak spot is a hunger for proof. The relationship may compete for attention within itself, perform for an audience it doesn't trust, or hide entirely rather than risk being judged. Choosing the audience helps: a few people who matter, told plainly that the two of you are together, or in business, or friends for life.
 
 Before it comes [composite Chiron in Cancer](/astrology/composite-chiron-in-cancer/), sore about belonging; after it, [composite Chiron in Virgo](/astrology/composite-chiron-in-virgo/), sore about being good enough. Leo's question sits between them: are we allowed to enjoy this, out loud?
 
-I describe composites and Davison charts as techniques without using either in my readings. Those who use the composite set this Chiron beside both birth charts and the [synastry](/astrology/synastry/), and it never says whether a relationship will be made public, last or end. Like any chart of two people, it's for two people who both agreed to look ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+I describe composites and Davison charts as techniques without using either in my readings. Those who use the composite set this Chiron beside both birth charts and the [synastry](/astrology/synastry/), and it never says whether a relationship will be made public, last or end. Being looked at is its tender spot, so the chart is only for two people who both agreed to be looked at ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

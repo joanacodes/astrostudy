@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Chiron", "maison 9", "thème composite"]
 weight: 2237
 glyph: "⚷"
-definition: "Chiron composite en maison 9 envoie le Chiron de la relation vers le lointain : croyances, études, droit et longs voyages, la maison que la tradition appelait le Dieu. Les astrologues y lisent un lien sensible face au vaste monde, qui se bâtit une vision et une façon de voyager à lui. Sa maison exige les deux heures de naissance."
+definition: "Chiron composite en maison 9 envoie le Chiron de la relation vers le lointain : croyances, études, droit, longs voyages, dans la maison que la tradition appelait le Dieu. Les astrologues y lisent un lien exposé au vaste monde, qui se bâtit sa vision. Il faut les deux heures de naissance, et un lieu de vie pour l’une des méthodes."
 facts:
   - { k: "Corps", v: "Chiron composite ⚷" }
   - { k: "Maison", v: "La maison 9, des croyances, des études et des horizons lointains" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-9th-house", "/astrology/9th-house", "/astrology/can-astrology-predict-a-court-case", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Chiron composite en maison 9 ?"
-    a: "Le thème de la relation place Chiron dans la maison des croyances, des études, du droit et des longs voyages : le point tendre du lien, c’est sa rencontre avec le vaste monde, deux pays, deux religions, un diplôme, une frontière. Les astrologues y lisent une paire qui se bâtit sa propre vision et apprend le monde de l’autre."
+    a: "Les frontières, réelles ou non : deux pays, deux religions, un diplôme, un visa. La maison 9 composite est l’endroit où une relation rencontre le vaste monde, et avec Chiron à cet endroit, la paire se bâtit sa propre vision tout en apprenant le monde de l’autre."
   - q: "Chiron composite en maison 9 parle-t-il de vivre à l’étranger ?"
     a: "En partie. La maison 9 couvre l’étranger et les longs voyages : le lien peut être sensible partout où le vaste monde entre en jeu, un second pays, une période à distance, une autre religion. Il ne prédit ni déménagement, ni visa, ni séparation ; il décrit la façon dont la relation rencontre le monde au-delà de sa porte."
   - q: "Quel lieu prendre pour les maisons composites quand on vit dans deux pays ?"
@@ -46,4 +46,4 @@ La difficulté d’une personne avec la croyance appartient à un [Chiron en mai
 
 La vision commune peut devenir une ligne de partage : quel pays, quelle religion, quelles études passent en premier. Alterner aide, tout comme garder de la curiosité pour la réponse avec laquelle on n’a pas grandi.
 
-Ses voisines tirent ailleurs : vers l’intérieur, avec ce que la paire met en commun dans [Chiron composite en maison 8](/astrology/composite-chiron-in-8th-house/), vers le haut, avec sa place publique dans [Chiron composite en maison 10](/astrology/composite-chiron-in-10th-house/). Les composites restent en dehors de mes lectures ; les astrologues qui les dressent lisent ce Chiron avec les deux thèmes natals et la [synastrie](/astrology/synastry/), et jamais comme une prédiction de l’endroit où deux personnes vivront.
+Ses voisines tirent ailleurs : vers l’intérieur, avec ce que la paire met en commun dans [Chiron composite en maison 8](/astrology/composite-chiron-in-8th-house/), vers le haut, avec sa place publique dans [Chiron composite en maison 10](/astrology/composite-chiron-in-10th-house/). Mes lectures ne comprennent pas de composites ; les astrologues qui les dressent lisent ce Chiron avec les deux thèmes natals et la [synastrie](/astrology/synastry/), et jamais comme une prédiction de l’endroit où deux personnes vivront.

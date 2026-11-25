@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Chiron", "maison 5", "thème composite"]
 weight: 2233
 glyph: "⚷"
-definition: "Chiron composite en maison 5 : le Chiron de la relation loge dans la Fortune favorable, ancien nom de la maison du jeu, du plaisir, de la romance et de la création. Les astrologues y lisent un lien intimidé par son plaisir, qui invente ses façons de s’amuser. Il ne prédit aucun enfant et demande les deux heures de naissance."
+definition: "Chiron composite en maison 5 : le Chiron de la relation loge dans la Fortune favorable, ancien nom de la maison du jeu, du plaisir, de la romance et de la création. Les astrologues y lisent un lien intimidé par son plaisir, qui invente ses façons de s’amuser. Les enfants ne sont pas son sujet ; il demande deux heures de naissance."
 facts:
   - { k: "Corps", v: "Chiron composite ⚷" }
   - { k: "Maison", v: "La maison 5, du jeu, du plaisir et de la romance" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-5th-house", "/astrology/5th-house", "/astrology/can-astrology-predict-pregnancy", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Chiron composite en maison 5 ?"
-    a: "Le thème de la relation place Chiron dans la maison du jeu, du plaisir, de la romance et de la création : le point tendre du lien, c’est le plaisir, un amusement qui semble immérité, une romance difficile à montrer, un jeu perdu tôt. Les astrologues y lisent une paire qui s’adapte en faisant exprès de la place au plaisir."
+    a: "Certains couples trouvent l’amusement plus difficile que le travail. Avec Chiron en maison 5 composite, le plaisir est le point sensible : un amusement qui semble immérité, une romance difficile à montrer, un jeu perdu tôt. Faire exprès de la place au plaisir, et la protéger, en est le remède."
   - q: "Chiron composite en maison 5 veut-il dire que nous n’aurons pas d’enfants ?"
     a: "Non. La tradition donnait les enfants à la maison 5, mais aucun thème, composite ou natal, ne peut dire si quelqu’un en aura, et je n’en lis jamais un de cette façon. Dans un composite, ce Chiron décrit le jeu, le plaisir et la romance entre deux adultes : là où profiter de la relation s’apprend."
   - q: "Pourquoi les maisons composites sont-elles parfois très inégales ?"
@@ -44,6 +44,6 @@ La maison exige les deux heures de naissance, et sa forme dépend de la méthode
 
 Pour une seule personne, un [Chiron en maison 5](/astrology/chiron-in-5th-house/) natal est une sensibilité au fait d’être vue en train de s’amuser ; entre deux thèmes, [le Chiron de l’autre dans votre maison 5](/astrology/chiron-in-5th-house-synastry/) fait rencontrer la joie d’une personne et la vieille blessure de l’autre. Celui du composite est une réticence que la paire partage, et c’est pourquoi aucune des deux personnes ne peut la lever à elle seule.
 
-Le report est l’écueil : le plaisir toujours remis à plus tard, après le travail, après le déménagement, après l’année difficile. Réserver l’amusement aussi fermement que le reste aide, tout comme le laisser ne servir à rien.
+Le report est l’écueil : le plaisir toujours remis à plus tard, après le travail, après le déménagement, après l’année difficile. Réservez l’amusement aussi fermement que le reste, et laissez-le ne servir à rien.
 
 Une paire avec [Chiron composite en maison 4](/astrology/composite-chiron-in-4th-house/) est sensible aux racines, une autre avec [Chiron composite en maison 6](/astrology/composite-chiron-in-6th-house/) au train-train quotidien ; la maison 5 se tient entre les deux, là où le travail s’arrête et où l’amusement est censé commencer. J’écris sur les composites sans en dresser : les astrologues qui s’en servent lisent ce Chiron à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et il ne promet ni romance, ni enfant, ni fin.

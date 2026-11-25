@@ -1,7 +1,7 @@
 ---
 title: "Transiting Jupiter sextile natal Jupiter"
 h1: "Transiting Jupiter sextile your natal Jupiter"
-description: "Transiting Jupiter sextile natal Jupiter: the two openings in each Jupiter cycle, two years after a return and two before the next. When they come, what helps."
+description: "Transiting Jupiter sextile natal Jupiter: the cycle’s two openings, two years after a return and two before the next, and why they are so easy to miss."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/jupiter-return", "/astrology/sextile", "/astrology/transiting-jupiter-square-natal-jupiter", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter sextile natal Jupiter mean?"
-    a: "Twice in each twelve-year cycle, Jupiter in the sky reaches a sextile, 60°, to its own birth degree. I read it as an opening that suits the way you already grow: a course, an offer, a conversation that moves you on. It asks to be taken, and promises nothing by itself."
+    a: "Twice in each twelve-year cycle, Jupiter in the sky reaches a sextile, 60°, to its own birth degree. To me it’s an opening that suits the way you already grow: a course, an offer, a conversation that moves you on. It asks to be taken, and promises nothing by itself."
   - q: "When does Jupiter sextile my natal Jupiter?"
     a: "One comes about two years after each Jupiter return, the other about two years before the next. The very first came between 1.4 and 2.1 years of age for everyone born from 1930 to 2009, and by 80 everyone counted had met thirteen of them."
   - q: "Is Jupiter sextile natal Jupiter lucky?"

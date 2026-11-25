@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Chiron", "maison 1", "thème composite"]
 weight: 2229
 glyph: "⚷"
-definition: "Chiron composite en maison 1 place le Chiron du thème de la relation dans la maison qui commence à l’ascendant composite : la façon dont le lien se présente. Les astrologues y lisent une paire sensible à la première impression, qui se façonne sa manière d’apparaître à deux. Il faut les deux heures de naissance et une méthode de maisons."
+definition: "Chiron composite en maison 1 place le Chiron de la relation dans la maison qui commence à l’ascendant composite : la façon dont le lien se présente. Les astrologues y lisent une paire sensible à la première impression, qui se façonne sa manière d’apparaître à deux. Cet ascendant vient des deux heures de naissance et varie selon la méthode."
 facts:
   - { k: "Corps", v: "Chiron composite ⚷" }
   - { k: "Maison", v: "La maison 1, qui commence à l’ascendant composite" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-1st-house", "/astrology/1st-house", "/astrology/ascendant", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Chiron composite en maison 1 ?"
-    a: "Le thème de la relation place Chiron dans sa maison 1, celle de l’apparence et de la première impression : le point sensible du lien, c’est l’image qu’il donne, mal lu au premier regard, ne sachant pas bien comment être une paire en public. Les astrologues y lisent deux personnes qui se façonnent leur manière d’apparaître ensemble."
+    a: "Imaginez-vous entrant ensemble dans une pièce : cette première impression est l’endroit où la relation se sent exposée. Elle peut être mal lue au premier regard, jusqu’à ce que vous vous façonniez une manière d’apparaître à deux et cessiez de l’expliquer."
   - q: "Peut-on connaître la maison de Chiron composite sans les heures de naissance ?"
     a: "Non. Les maisons composites viennent des angles des deux thèmes, qui avancent d’environ un degré toutes les quatre minutes : sans les deux heures, il n’y a pas de maisons composites du tout. Le signe de Chiron composite ne demande que les dates ; sa maison demande les deux heures, et une méthode."
   - q: "Pourquoi notre Chiron composite est-il en maison 1 sur un site et en maison 12 sur un autre ?"
@@ -41,6 +41,6 @@ C’est une maison angulaire, et sa cuspide est l’[ascendant](/astrology/ascen
 
 C’est aussi la maison qui fait de ce Chiron le vôtre. Son signe est partagé par toutes les personnes nées à quelques années de vous ; sa maison ne l’est pas. Un [Chiron en maison 1](/astrology/chiron-in-1st-house/) natal concerne le sentiment d’une personne d’être vue telle qu’elle est, et en synastrie, [le Chiron de l’autre dans votre maison 1](/astrology/chiron-in-1st-house-synastry/) fait rencontrer le point sensible de l’une à l’allure de l’autre. Ici, le point tendre, c’est le visage commun du lien.
 
-Laisser la première impression des autres décider de ce qu’est la relation : voilà le piège. Un lien sensible à son image peut se cacher, trop s’expliquer, ou jouer une version de lui-même qu’il croit plus acceptable. Il aide de convenir entre vous de la façon dont vous voulez qu’on vous présente, et de laisser le reste.
+Laisser la première impression des autres décider de ce qu’est la relation : voilà le piège. Se cacher, trop s’expliquer, jouer une version de vous deux qui passerait mieux : rien de tout cela n’apaise. Convenez entre vous de la façon dont vous voulez qu’on vous présente, et laissez le reste.
 
-Avant elle, [Chiron composite en maison 12](/astrology/composite-chiron-in-12th-house/) garde son point tendre hors de vue ; après elle, [Chiron composite en maison 2](/astrology/composite-chiron-in-2nd-house/) le trouve parmi ce que la paire possède et estime. Les composites ne font pas partie de mes lectures : les astrologues qui s’en servent posent ce Chiron à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et il ne dit rien de la durée d’une relation.
+Avant elle, [Chiron composite en maison 12](/astrology/composite-chiron-in-12th-house/) garde son point tendre hors de vue ; après elle, [Chiron composite en maison 2](/astrology/composite-chiron-in-2nd-house/) le trouve parmi ce que la paire possède et estime. Les composites ne sont pas un outil dont je me sers : les astrologues qui s’en servent posent ce Chiron à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et il ne dit rien de la durée d’une relation.

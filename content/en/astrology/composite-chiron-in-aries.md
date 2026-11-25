@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-aries", "/astrology/aries", "/astrology/chiron", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Chiron in Aries mean?"
-    a: "The midpoint of your two natal Chirons falls in Aries, so the relationship’s own sore spot concerns going first: starting plans, wanting things aloud, disagreeing. Astrologers read a bond that learns courage by acting in small steps, together. It describes the relationship rather than either of you, and it predicts nothing."
+    a: "The midpoint of your two natal Chirons lands in Aries, the sign of beginnings, so going first is delicate: starting plans, saying what you want, disagreeing. Courage comes in small steps taken together. It describes the relationship rather than either of you, and it predicts nothing."
   - q: "Why is composite Chiron in Aries so common?"
     a: "Chiron moves at its slowest through Pisces, Aries and Taurus, so a great many people are born with it there, and the midpoints of their pairs gather in the same stretch of sky. Across two million random pairs born 1930–2009, about 1 in 7 had it in Aries, a shade more than in Pisces."
   - q: "Is composite Chiron in Aries bad for a relationship?"
@@ -41,6 +41,6 @@ In two million pairs of birth dates drawn from 1930 to 2009, about 1 pair in 7 h
 
 In one birth chart, [Chiron in Aries](/astrology/chiron-in-aries/) describes a person learning nerve by using it. In a composite the nerve has to be found by two, and the impatient one and the reluctant one may swap roles from one plan to the next. The signs on either side tell the same kind of story in other keys: [composite Chiron in Pisces](/astrology/composite-chiron-in-pisces/) is tender about where one person ends and the other begins, [composite Chiron in Taurus](/astrology/composite-chiron-in-taurus/) about what the bond is worth and how safe it feels.
 
-The hard part is haste. A bond that is sore about beginnings can rush to prove it isn't, take on the biggest project available, or treat a pause as a defeat. It helps to count a small start as a real one, to argue about one thing at a time, and to notice who usually goes first, so that the other gets a turn.
+Haste is the usual mistake: rushing to prove the bond isn't afraid of beginnings, taking on the biggest project available, treating a pause as a defeat. Count a small start as a real one, argue about one thing at a time, and notice who usually goes first, so that the other gets a turn.
 
-Composites aren't something I draw: this is the technique's reading, which the astrologers who use it weigh against both birth charts and the [synastry](/astrology/synastry/). It says nothing about how long two people will last, whether they'll marry, or what they'll earn, and like any reading of two people it waits until both have said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Composites aren't something I draw: this is the technique's reading, which the astrologers who use it weigh against both birth charts and the [synastry](/astrology/synastry/). It says nothing about how long two people will last, whether they'll marry, or what they'll earn, and even its first step, drawing the chart, waits until both have said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

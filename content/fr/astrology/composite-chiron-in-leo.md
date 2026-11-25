@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-leo", "/astrology/leo", "/astrology/davison-chart", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Chiron composite en Lion ?"
-    a: "Dans le thème propre de la relation, Chiron occupe le signe de la fierté, de la joie et du regard des autres. Le point sensible du lien, c’est la reconnaissance : être remarqué, fêté, pris au sérieux comme paire. Les astrologues y lisent deux personnes qui apprennent à se fêter à leur façon, sans attendre les applaudissements de quiconque."
+    a: "La reconnaissance : que la relation soit remarquée, fêtée, prise au sérieux comme paire. Dans le signe de la fierté et de la joie, Chiron apprend à deux personnes à se fêter à leur façon, sans attendre les applaudissements de quiconque."
   - q: "Chiron composite en Lion est-il rare ?"
     a: "Plutôt : sur deux millions de paires nées entre 1930 et 2009 et tirées au hasard, environ 1 sur 18 l’avait. Chiron a traversé le Lion en moins de trois ans à chaque passage, de septembre 1940 à juillet 1943 et de juillet 1991 à septembre 1993 : peu de paires du même âge l’ont, la plupart y arrivent par l’écart d’âge."
   - q: "Quelle différence entre Chiron composite et Chiron dans le thème de Davison ?"
@@ -41,8 +41,8 @@ C’est l’un des signes les plus rares pour Chiron composite : environ 1 pair
 
 Les applaudissements qu’une personne a reçus, ou pas, sont le sujet d’un [Chiron en Lion](/astrology/chiron-in-leo/) natal. Partagé, il peut se traduire par deux personnes qui attendent chacune que l’autre rende le lien visible.
 
-Ce qui le rend difficile, c’est la faim de preuves. La relation peut se disputer l’attention en son sein, jouer pour un public dont elle se méfie, ou se cacher tout à fait plutôt que risquer d’être jugée. Choisir son public aide : quelques personnes qui comptent, à qui l’on dit simplement que vous êtes ensemble, associés ou amis pour la vie.
+Son point faible, c’est la faim de preuves. La relation peut se disputer l’attention en son sein, jouer pour un public dont elle se méfie, ou se cacher tout à fait plutôt que risquer d’être jugée. Choisir son public aide : quelques personnes qui comptent, à qui l’on dit simplement que vous êtes ensemble, associés ou amis pour la vie.
 
 Avant lui vient [Chiron composite en Cancer](/astrology/composite-chiron-in-cancer/), sensible à l’appartenance ; après lui, [Chiron composite en Vierge](/astrology/composite-chiron-in-virgo/), sensible au fait d’être à la hauteur. La question du Lion se pose entre les deux : a-t-on le droit d’en profiter, tout haut ?
 
-Je présente les composites et les thèmes de Davison comme des techniques, sans me servir ni des uns ni des autres dans mes lectures. Les astrologues qui emploient le composite posent ce Chiron à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et il ne dit jamais si une relation deviendra publique, durera ou finira. Comme tout thème de deux personnes, il s’adresse à deux personnes qui ont toutes deux accepté de regarder ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Je présente les composites et les thèmes de Davison comme des techniques, sans me servir ni des uns ni des autres dans mes lectures. Les astrologues qui emploient le composite posent ce Chiron à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et il ne dit jamais si une relation deviendra publique, durera ou finira. Le regard des autres est son point sensible : ce thème ne s’adresse qu’à deux personnes qui ont toutes deux accepté d’être regardées ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

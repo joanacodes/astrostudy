@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-taurus", "/astrology/taurus", "/astrology/chiron", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does composite Chiron in Taurus mean?"
-    a: "Your relationship chart has its Chiron in Taurus, so the bond’s tender place is its own worth and footing: whether it has enough, whether it will hold. Astrologers read a pair that answers the doubt practically, with routines, care for shared things and patience, rather than by waiting to feel secure."
+    a: "That the bond doubts its own footing: whether there is enough, whether it will hold. With composite Chiron in Taurus, the doubt is answered with practical things, routines, care for what you share, patience, rather than by waiting until security arrives by itself."
   - q: "Does composite Chiron in Taurus mean money problems?"
     a: "No. Taurus covers worth, comfort and what a pair owns, but a composite predicts no income, debt or loss, and I never read a chart for money. This Chiron describes how a relationship feels about its own ground, and the steadiness it learns to build there."
   - q: "Which couples have composite Chiron in Taurus?"
@@ -41,6 +41,6 @@ Only Aries and Pisces beat it: Taurus came up for about 1 pair in 8 when two mil
 
 [Chiron in Taurus](/astrology/chiron-in-taurus/), in a single birth chart, belongs to one person and their own sense of worth. Here the worth in question is the relationship's, and the lesson can arrive as a request for more security that sounds, to the other person, like a demand for proof.
 
-Holding on is the hard side. A bond unsure of its ground can cling to routines after they stop fitting, measure itself by what it has, or treat every change as a threat to the floor. It helps to say, now and then, what the relationship is worth in words rather than things, and to make changes slowly enough that both of you can keep up. Between [composite Chiron in Aries](/astrology/composite-chiron-in-aries/), tender about first moves, and [composite Chiron in Gemini](/astrology/composite-chiron-in-gemini/), tender about being understood, Taurus is tender about staying.
+Holding on is the hard side: routines kept long after they stop fitting, a bond measured by what it owns, every change felt as a threat to the floor. What steadies it is saying, now and then, what the relationship is worth in words rather than things, and making changes slowly enough for both of you to keep up. Between [composite Chiron in Aries](/astrology/composite-chiron-in-aries/), tender about first moves, and [composite Chiron in Gemini](/astrology/composite-chiron-in-gemini/), tender about being understood, Taurus is tender about staying.
 
 I don't use composites in my readings; this is the technique as its practitioners describe it, set beside both birth charts and the [synastry](/astrology/synastry/), and it never predicts money, a wedding or an ending. Chiron was one of the three placements that held most often when I tested birth charts by hand, but no composite was ever part of that count, so none of its weight carries over to this page ([the three that held](/blog/saturn-chiron-lilith/)).

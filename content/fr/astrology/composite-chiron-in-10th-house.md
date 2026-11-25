@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Chiron", "maison 10", "thème composite"]
 weight: 2238
 glyph: "⚷"
-definition: "Chiron composite en maison 10 élève le Chiron de la relation au sommet du thème, dans la maison de la vie publique et de la vocation, ouverte au Milieu du Ciel composite. Les astrologues y lisent un lien sensible au regard du monde, qui se façonne un rôle public à sa mesure. Les deux heures de naissance sont indispensables."
+definition: "Chiron composite en maison 10 élève le Chiron de la relation au sommet du thème : vie publique, vocation. Les astrologues y lisent un lien sensible au regard du monde, qui se façonne un rôle public à sa mesure. Sa cuspide, le Milieu du Ciel composite, est la même dans les deux méthodes, mais exige les deux heures de naissance."
 facts:
   - { k: "Corps", v: "Chiron composite ⚷" }
   - { k: "Maison", v: "La maison 10, qui commence au Milieu du Ciel composite" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-10th-house", "/astrology/10th-house", "/astrology/midheaven", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Chiron composite en maison 10 ?"
-    a: "Le thème de la relation place Chiron dans la maison de la vie publique et de la vocation : le point tendre du lien, c’est le regard qu’on porte sur lui, celui d’un lieu de travail, d’une famille ou d’une ville. Les astrologues y lisent une paire qui se façonne un rôle public et un but commun à sa mesure."
+    a: "Le regard que le monde porte sur vous deux. Des collègues, une famille ou une petite ville peuvent juger la relation, et travailler en public peut l’exposer. Elle gagne à se donner un rôle public et un but commun qui lui ressemblent."
   - q: "Chiron composite en maison 10 parle-t-il de travailler ensemble ?"
     a: "Souvent. La maison 10 couvre la vocation et le rang : le point tendre du lien peut se montrer dans une affaire commune, un lieu de travail où l’on connaît les deux personnes, ou simplement dans le regard porté sur la paire. Il ne prédit ni réussite ni échec ; il décrit où la relation se sent exposée."
   - q: "Pourquoi les deux méthodes s’accordent-elles sur le Milieu du Ciel composite ?"
@@ -43,4 +43,4 @@ Trois thèmes peuvent porter ce Chiron, et ils ne disent pas la même chose : u
 
 La réputation peut finir par diriger la relation : des choix faits pour l’image, un lien qui joue la réussite, ou un lien qui se dérobe aux regards pour éviter les commentaires. Un composite ne prédit ni promotion, ni échec, ni scandale. Il vaut la peine de décider ensemble de ce pour quoi vous voulez qu’on vous connaisse, et de garder une part de votre vie hors de la vitrine.
 
-Derrière elle, [Chiron composite en maison 9](/astrology/composite-chiron-in-9th-house/) est sensible au vaste monde ; devant elle, [Chiron composite en maison 11](/astrology/composite-chiron-in-11th-house/) aux amis et aux groupes. Je ne dresse pas moi-même de composites ; celles et ceux qui le font lisent ce Chiron à la lumière des deux thèmes natals et de la [synastrie](/astrology/synastry/), et pour une paire exposée plus que pour toute autre, les deux personnes doivent savoir que leurs thèmes vont être comparés ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Derrière elle, [Chiron composite en maison 9](/astrology/composite-chiron-in-9th-house/) est sensible au vaste monde ; devant elle, [Chiron composite en maison 11](/astrology/composite-chiron-in-11th-house/) aux amis et aux groupes. Dresser des composites ne fait pas partie de mon travail ; celles et ceux qui le font lisent ce Chiron à la lumière des deux thèmes natals et de la [synastrie](/astrology/synastry/), et pour une paire exposée plus que pour toute autre, les deux personnes doivent savoir que leurs thèmes vont être comparés ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-scorpio", "/astrology/scorpio", "/astrology/chiron", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Chiron composite en Scorpion ?"
-    a: "Le thème de la relation place Chiron dans le signe de la profondeur, de la confiance et du pouvoir : le point tendre du lien, c’est l’exposition, ce qui peut se montrer, se partager ou se confier sans danger. Les astrologues y lisent une paire qui s’adapte lentement, une porte après l’autre, en décidant ensemble de ce qui reste privé."
+    a: "L’exposition, surtout : ce qui peut se montrer, se partager ou se confier sans danger, quand le Chiron de la relation est dans le signe de la profondeur et de la confiance. Une telle paire ouvre une porte après l’autre et décide ensemble de ce qui reste privé ; sa lenteur est du soin, pas de la froideur."
   - q: "Chiron composite en Scorpion annonce-t-il une trahison ?"
     a: "Non. Le Scorpion parle de confiance, d’intimité et de pouvoir : le lien y est sensible, mais un composite ne prédit ni trahison, ni liaison, ni perte. Beaucoup de paires qui ont ce Chiron deviennent remarquablement solides dans la crise, parce que la confiance, elles l’ont bâtie exprès au lieu de la tenir pour acquise."
   - q: "Quelles planètes gouvernent Chiron composite en Scorpion ?"
@@ -42,6 +42,6 @@ Environ 1 paire sur 22 l’a, peu au regard des autres signes de Chiron composit
 
 Une personne née avec [Chiron en Scorpion](/astrology/chiron-in-scorpio/) monte une garde qui lui est propre. Celle du composite est tenue à deux, si bien que la discrétion de l’une et les questions de l’autre sont les deux moitiés d’une même prudence.
 
-Son côté difficile, c’est le contrôle. Un lien sensible à la confiance peut devenir vigilant, tenir le registre des vieilles blessures, ou se servir de ce qu’il sait comme d’un levier dans une dispute. Dire ce qui vous fait peur, simplement et tôt, fait plus qu’aucune épreuve, tout comme tenir les petites promesses faciles à tenir. De part et d’autre, [Chiron composite en Balance](/astrology/composite-chiron-in-libra/) est sensible à l’équité et [Chiron composite en Sagittaire](/astrology/composite-chiron-in-sagittarius/) au sens ; le Scorpion est sensible à ce qui se trouve dessous.
+Le contrôle en est le revers : la vigilance, le registre des vieilles blessures, ce que l’on sait utilisé comme levier dans une dispute. Dire ce qui vous fait peur, simplement et tôt, fait plus qu’aucune épreuve ; tenir les petites promesses faciles à tenir fait le reste. De part et d’autre, [Chiron composite en Balance](/astrology/composite-chiron-in-libra/) est sensible à l’équité et [Chiron composite en Sagittaire](/astrology/composite-chiron-in-sagittarius/) au sens ; le Scorpion est sensible à ce qui se trouve dessous.
 
 Comme pour tous les composites de ce site, je décris une technique dont je ne me sers pas : ses praticiens lisent ce Chiron à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et il ne prédit ni trahison, ni héritage, ni fin. Un thème de relation qui parle de confiance en demande aussi : deux personnes qui savent toutes deux qu’on le dresse ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

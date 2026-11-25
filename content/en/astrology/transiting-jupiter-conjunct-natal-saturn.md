@@ -1,7 +1,7 @@
 ---
 title: "Transiting Jupiter conjunct natal Saturn"
 h1: "Transiting Jupiter conjunct your natal Saturn"
-description: "Transiting Jupiter conjunct natal Saturn: growth reaches the place you build slowly, about every 12 years. How long it lasts, when it first came, what helps."
+description: "Transiting Jupiter conjunct natal Saturn: growth reaches the place you build slowly, about every 12 years, and how it differs from the great conjunction."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Saturn", "conjunction", "transits"]
 weight: 1591
 glyph: "♃☌♄"
-definition: "Transiting Jupiter conjunct natal Saturn is Jupiter in today’s sky crossing the degree Saturn held at your birth, about once every twelve years. Growth reaches the part of your chart that builds slowly and carries responsibility. I read it as air and perspective for a long effort, never as a reward that has fallen due."
+definition: "Transiting Jupiter conjunct natal Saturn is Jupiter’s passage over your birth Saturn, which comes round about every twelve years. Growth reaches the part of your chart that builds slowly and carries responsibility. I read it as air and perspective for a long effort, never as a reward that has fallen due."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, about a year in each sign" }
   - { k: "Natal point", v: "Your Saturn ♄: structure, responsibility, limits" }
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/conjunction", "/astrology/jupiter-conjunct-saturn", "/astrology/jupiter-saturn-great-conjunctions"]
 faq:
   - q: "What does transiting Jupiter conjunct natal Saturn mean?"
-    a: "Jupiter in the sky is crossing the degree your Saturn held at birth. I read it as growth arriving where you are most careful: a duty that gets help, a rule that turns out to have room in it, a long effort that shows what it was for. It describes a season of days or months, not an event."
+    a: "Your birth Saturn is being crossed by Jupiter. I read it as growth arriving where you are most careful: a duty that gets help, a rule that turns out to have room in it, a long effort that shows what it was for. It describes a season of days or months, not an event."
   - q: "Is Jupiter conjunct natal Saturn a good transit?"
     a: "In tradition this is the greater benefic crossing the greater malefic, and many astrologers read relief in it. I read it as perspective on whatever your Saturn carries, which can feel like relief and can also tempt you to promise more than that structure can hold. It guarantees neither reward nor ease."
   - q: "When will Jupiter conjunct my natal Saturn?"
-    a: "About every twelve years, six or seven times by 80 for anyone born between 1930 and 2009. The first came anywhere from a few weeks after birth to twelve years later, depending on where Jupiter stood at your birth. With your birth date and an ephemeris, the exact weeks are easy to find."
+    a: "About every twelve years, six or seven times by 80 for anyone born between 1930 and 2009. Its first visit fell anywhere between a few weeks and twelve years after birth, depending on where Jupiter stood that day. With your birth date and an ephemeris, the exact weeks are easy to find."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first conjunction for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
@@ -44,7 +44,7 @@ This [transit](/astrology/transits/) isn't the great conjunction ([Jupiter–Sat
 
 ## How long it lasts {#how-long-it-lasts}
 
-Jupiter usually covers the stretch from 1½° before your Saturn to 1° past it, the orbs I use for timing, in about eleven days. When its yearly retrograde falls on that stretch, about three times in ten, it crosses three times and stays some eight months. People born between 1930 and 2009 meet it six or seven times by 80.
+Jupiter usually covers the stretch from 1½° before your Saturn to 1° past it, the orbs I use for timing, in about eleven days. When its yearly retrograde falls on that stretch, about three times in ten, it crosses three times and stays some eight months. Six or seven of these transits fall before 80 for births from 1930 to 2009.
 
 The first came at very different ages, from a few weeks old to twelve, and the twenty-year rhythm of the great conjunctions shows in the pattern. Born on 1 January 1935, 1955, 1975 or 1995, a few years before a great conjunction, with Jupiter still behind Saturn, people met it at three or four; born on 1 January 1945, 1965, 1985 or 2005, a few years after one, with Jupiter already past it, at nine or ten.
 

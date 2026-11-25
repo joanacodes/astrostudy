@@ -46,7 +46,7 @@ Within my orbs, from 1½° before exact to 1° after, the opposition holds for a
 
 A Moon near a house cusp may sit in one house or the next depending on a few minutes of birth time, and the house Jupiter opposes it from moves with it. With no time, there's no house to read, and I leave the chart unread ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-By 80, people born between 1930 and 2009 meet this opposition six or seven times, each about six years after [transiting Jupiter conjunct natal Moon](/astrology/transiting-jupiter-conjunct-natal-moon/). On its way here, Jupiter has offered your Moon support ([transiting Jupiter sextile natal Moon](/astrology/transiting-jupiter-sextile-natal-moon/)), pressed on its habits ([transiting Jupiter square natal Moon](/astrology/transiting-jupiter-square-natal-moon/)) and eased its moods ([transiting Jupiter trine natal Moon](/astrology/transiting-jupiter-trine-natal-moon/)); the road back holds the same three, ending at the next crossing.
+By 80, people born between 1930 and 2009 have felt home and the wider world pull this way six or seven times, each about six years after [transiting Jupiter conjunct natal Moon](/astrology/transiting-jupiter-conjunct-natal-moon/). On its way here, Jupiter has offered your Moon support ([transiting Jupiter sextile natal Moon](/astrology/transiting-jupiter-sextile-natal-moon/)), pressed on its habits ([transiting Jupiter square natal Moon](/astrology/transiting-jupiter-square-natal-moon/)) and eased its moods ([transiting Jupiter trine natal Moon](/astrology/transiting-jupiter-trine-natal-moon/)); the road back holds the same three, ending at the next crossing.
 
 ## What helps {#what-helps}
 

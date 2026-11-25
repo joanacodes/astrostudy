@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Chiron", "maison 6", "thème composite"]
 weight: 2234
 glyph: "⚷"
-definition: "Chiron composite en maison 6 fait tomber le Chiron de la relation dans la maison du travail quotidien, des habitudes et du soin, la Fortune défavorable des livres anciens. Les astrologues y lisent un lien éprouvé par la charge de tous les jours, qui se donne un rythme tenable. Il n’annonce aucune maladie et dépend des deux heures de naissance."
+definition: "Chiron composite en maison 6 fait tomber le Chiron de la relation dans la maison du travail quotidien, des habitudes et du soin, la Fortune défavorable d’autrefois. Les astrologues y lisent un lien éprouvé par la charge quotidienne, qui se donne un rythme tenable. La maladie n’entre pas dans son sens ; trouver sa maison exige deux heures de naissance."
 facts:
   - { k: "Corps", v: "Chiron composite ⚷" }
   - { k: "Maison", v: "La maison 6, du travail quotidien, des habitudes et du soin" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-6th-house", "/astrology/6th-house", "/astrology/can-astrology-predict-health-problems", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Chiron composite en maison 6 ?"
-    a: "Le thème de la relation place Chiron dans la maison des tâches, des habitudes et du soin quotidien : le point tendre du lien, c’est le train-train, qui fait quoi, à quel rythme, si le soin circule dans les deux sens. La réponse habituelle : un rythme de travail que les deux personnes acceptent et peuvent changer."
+    a: "Qui fait quoi, à quel rythme, et si le soin circule dans les deux sens : le train-train est le point sensible quand Chiron se trouve en maison 6 composite. La réponse habituelle : un rythme de travail que les deux personnes acceptent et peuvent changer."
   - q: "Chiron composite en maison 6 annonce-t-il une maladie ?"
     a: "Non. La tradition rattachait la maison 6 à la maladie, mais aucun thème ne peut prédire la santé de quiconque, et un composite décrit une relation, pas un corps. Ce Chiron montre où la vie quotidienne du lien est tendre : les tâches, les habitudes, le soin, et l’équité de leur partage."
   - q: "Peut-on dresser des maisons composites pour un couple qui vit dans le Grand Nord ?"
@@ -44,6 +44,6 @@ Les deux heures de naissance sont le prix d’entrée ; vient ensuite une mét
 
 Le travail et l’utilité sont la question d’une seule personne dans un [Chiron en maison 6](/astrology/chiron-in-6th-house/) natal, et en synastrie, [le Chiron de l’autre dans votre maison 6](/astrology/chiron-in-6th-house-synastry/) fait passer son expérience dans votre semaine de travail. La routine du composite appartient à la paire, lenteurs et affairements compris.
 
-L’amour peut se réduire à une liste de tâches ; c’est là le risque. Ce qui aide : remarquer le soin caché dans les corvées, et dire merci pour les choses ennuyeuses aussi volontiers que pour les grandes.
+L’amour peut se réduire à une liste de tâches ; c’est là le risque. Le soin caché dans les corvées mérite d’être remarqué, et les choses ennuyeuses méritent un merci aussi volontiers que les grandes.
 
-Avant elle, [Chiron composite en maison 5](/astrology/composite-chiron-in-5th-house/) est sensible au jeu ; après elle, [Chiron composite en maison 7](/astrology/composite-chiron-in-7th-house/) au couple lui-même. Je décris les composites sans m’en servir dans mes lectures ; leurs praticiens lisent ce Chiron avec les deux thèmes natals et la [synastrie](/astrology/synastry/), comme l’image d’une routine partagée et non comme une prédiction.
+Avant elle, [Chiron composite en maison 5](/astrology/composite-chiron-in-5th-house/) est sensible au jeu ; après elle, [Chiron composite en maison 7](/astrology/composite-chiron-in-7th-house/) au couple lui-même. Les composites ont droit à une description de ma part, pas à une place dans mes lectures ; leurs praticiens lisent ce Chiron avec les deux thèmes natals et la [synastrie](/astrology/synastry/), comme l’image d’une routine partagée et non comme une prédiction.

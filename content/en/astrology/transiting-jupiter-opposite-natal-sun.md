@@ -5,6 +5,8 @@ description: "Transiting Jupiter opposite natal Sun: halfway round Jupiter’s t
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Sun", "opposition", "transits"]
 weight: 1566
 glyph: "♃☍☉"
 definition: "Transiting Jupiter opposite natal Sun is Jupiter facing your birth Sun from the other side of the zodiac, the halfway mark of its twelve-year round. Growth reaches you from across the room: a mentor, a partner’s plans, an audience, a challenge to your aims. I read it as a balancing act, never a defeat."
@@ -42,11 +44,11 @@ In Placidus, the house system I use, opposite houses mirror each other exactly, 
 
 My orbs run from 1½° before exact to 1° after. Within them, about seven oppositions in ten come and go in some eleven days; the other three are retrograde loops, three exact hits spread across about eight months.
 
-Your birthday works the other way round from the crossing. Jupiter is retrograde in the months it faces the Sun, and on your birthday the Sun is back on your natal Sun, so a three-pass opposition has its middle pass close to your birthday, within about six weeks of it nine times in ten. Around then Jupiter is at its brightest of the year, rising as the Sun sets. A quick single pass comes around your half-birthday instead.
+Your birthday works the other way round from the crossing. Jupiter is retrograde in the months it faces the Sun, and on your birthday the Sun is back on your natal Sun, so a three-pass opposition has its middle pass close to your birthday, within about a month and a half of it, nine times in ten. Around then Jupiter is at its brightest of the year, rising as the Sun sets. A quick single pass comes around your half-birthday instead.
 
 This winter shows it. Jupiter is retrograde in Leo from 13 December 2026 to 13 April 2027; for a Sun at 22° Aquarius, a birthday around 11 February, the three oppositions fall in mid-October 2026, mid-February 2027 and mid-June 2027, the middle one in the birthday week.
 
-Counted for births between 1930 and 2009, it comes six or seven times by 80, once a round, halfway between two passes of [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/). On the way out, Jupiter has already offered your direction an opening, a test and a tailwind ([transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/), [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/), [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/)); on the way home it offers them again, in reverse.
+Counted for births between 1930 and 2009, it comes six or seven times by 80, each one a chance to see your own direction from the outside, halfway between two passes of [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/). On the way out, Jupiter has already offered your direction an opening, a test and a tailwind ([transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/), [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/), [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/)); on the way home it offers them again, in reverse.
 
 ## What helps {#what-helps}
 

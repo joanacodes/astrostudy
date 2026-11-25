@@ -5,6 +5,8 @@ description: "Transiting Jupiter sextile natal Sun: twice every twelve years, an
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Sun", "sextile", "transits"]
 weight: 1563
 glyph: "♃⚹☉"
 definition: "Transiting Jupiter sextile natal Sun is the 60° angle between Jupiter in today’s sky and your birth Sun, a cooperative opening that comes twice every twelve years. For your sense of purpose it can be a course, an offer, a chance to step forward. I read it as an invitation that works only if you take it up."
@@ -43,7 +45,7 @@ Within my orbs, from 1½° before exact to 1° after, a sextile from Jupiter usu
 
 Your Sun sign is enough to see this one coming, and everyone knows their Sun sign. The sextile comes from the signs two places either side of yours, and Jupiter spends about a year in each. It is in Leo from June 2026 to July 2027, and in that time it sextiles every Sun in Gemini and in Libra; your Sun's degree gives the day.
 
-Everyone born between 1930 and 2009 has thirteen or fourteen of these small doors by 80, two in every round. The first comes about two years after [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/), when what began at the crossing is ready for a practical first step; the second about two years before the next crossing, when what you've grown into can be put to use. Between them, Jupiter presses on your direction at [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/), lets it run at [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/) and holds it up to other people at [transiting Jupiter opposite natal Sun](/astrology/transiting-jupiter-opposite-natal-sun/).
+Everyone born between 1930 and 2009 has thirteen or fourteen of these small doors for their sense of purpose by 80, two in every round. The first comes about two years after [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/), when what began at the crossing is ready for a practical first step; the second about two years before the next crossing, when what you've grown into can be put to use. Between them, Jupiter presses on your direction at [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/), lets it run at [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/) and holds it up to other people at [transiting Jupiter opposite natal Sun](/astrology/transiting-jupiter-opposite-natal-sun/).
 
 ## What helps {#what-helps}
 

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/mercury", "/astrology/square", "/astrology/mercury-square-jupiter", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter square natal Mercury mean?"
-    a: "Jupiter is 90° from your birth Mercury, as it is twice in each twelve-year round. I read it as friction between the big picture and the details: too many plans, overstatement, more reading than deciding. It asks you to edit, so that the large idea rests on facts that hold."
+    a: "Twice a round, Jupiter reaches 90° from your birth Mercury, a quarter of the zodiac away. I read it as friction between the big picture and the details: too many plans, overstatement, more reading than deciding. It asks you to edit, so that the large idea rests on facts that hold."
   - q: "How long does Jupiter square Mercury last?"
     a: "About eleven days within my orbs, or about eight months when the square falls inside one of Jupiter’s retrograde loops, which happens about three times in ten. It comes on Jupiter’s way out, three years after it crosses your Mercury, and on its way back, three years before the next crossing."
   - q: "Should I avoid signing contracts during Jupiter square Mercury?"
@@ -36,7 +36,7 @@ The square between Jupiter and your Mercury is the transit of the overfull noteb
 
 It tends to look like overload: more projects than attention, more tabs open than read, promises made in conversation that the calendar can't keep, an argument won on principle and lost on facts. Analysis isn't overthinking, and this square doesn't ask you to stop thinking big. It asks for an edit, so the large idea is carried by details that hold.
 
-Tradition set these two at right angles long before anyone read transits. Mercury rules Gemini and Virgo, Jupiter Sagittarius and, in the old scheme, Pisces: the four mutable signs between them, and each of Mercury's squares one of Jupiter's, Gemini to Pisces and Virgo to Sagittarius.
+Tradition set these two at right angles long before anyone read transits. Mercury rules Gemini and Virgo, Jupiter Sagittarius and, in the old scheme, Pisces, which modern astrologers give to Neptune (I read both): the four mutable signs between them, and each of Mercury's squares one of Jupiter's, Gemini to Pisces and Virgo to Sagittarius.
 
 Where the overload lands depends on the house Jupiter is crossing. From your 6th, Virgo's house in the natural order ([Jupiter transiting the 6th house](/astrology/jupiter-transit-6th-house/)), it usually lands in daily work: lists, messages, the small print of tasks. Born with [Mercury square Jupiter](/astrology/mercury-square-jupiter/), you know this rub already, and each Jupiter return brings it back from the side it held at your birth.
 

@@ -36,9 +36,9 @@ Of all the ways Jupiter meets your Venus, the sextile is the most modest: two si
 
 The openings are usually pleasant and specific: someone you like suggests a plan, a creative project finds a willing partner, a place or a piece of music turns into a lasting pleasure. Preference is the part of Venus this [transit](/astrology/transits/) sharpens most, and it's worth noticing what you choose when choosing is easy. Venus also governs affinity, the people you simply get on with, and this sextile is good at bringing you more of them, if you accept the invitations.
 
-Tradition lines this angle up with the planets' own signs. Venus rules Taurus and Libra, Jupiter Sagittarius and, in the old scheme, Pisces, and each of Venus's signs lies a sextile from one of Jupiter's: Taurus from Pisces, the sign of Venus's [exaltation](/astrology/exaltation/), and Libra from Sagittarius.
+Tradition lines this angle up with the planets' own signs. Venus rules Taurus and Libra, Jupiter Sagittarius and, in the old scheme, Pisces, which modern astrologers give to Neptune (I read both); each of Venus's signs lies a sextile from one of Jupiter's: Taurus from Pisces, the sign of Venus's [exaltation](/astrology/exaltation/), and Libra from Sagittarius.
 
-Where the opening appears depends on the house Jupiter is crossing. From your 5th, which tradition called Good Fortune and gave to Venus's joy ([Jupiter transiting the 5th house](/astrology/jupiter-transit-5th-house/)), it often comes through play, creative work and things done for love of them. If your chart has [Venus sextile Jupiter](/astrology/venus-sextile-jupiter/), every Jupiter return repeats that angle in the sky.
+Look at the house Jupiter is in at the time to see where the opening appears. From your 5th, which tradition called Good Fortune and gave to Venus's joy ([Jupiter transiting the 5th house](/astrology/jupiter-transit-5th-house/)), it often comes through play, creative work and things done for love of them. If your chart has [Venus sextile Jupiter](/astrology/venus-sextile-jupiter/), every Jupiter return repeats that angle in the sky.
 
 ## How long it lasts {#how-long-it-lasts}
 

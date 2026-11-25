@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "3rd house", "composite chart"]
 weight: 2231
 glyph: "⚷"
-definition: "With composite Chiron in the 3rd house, the relationship’s Chiron falls among daily talk, messages, short trips and the people close at hand, in the house tradition called the Goddess. The bond’s tender spot is its everyday exchange, and it adapts with a rhythm of contact of its own. It needs both birth times."
+definition: "With composite Chiron in the 3rd house, the relationship’s Chiron falls among daily talk, messages, short trips and the people close at hand, in the house tradition called the Goddess. The bond’s tender spot is its everyday exchange, and it adapts with a rhythm of contact of its own. Both birth times are needed, as exact as possible."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 3rd house, of daily talk and the near world" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-3rd-house", "/astrology/3rd-house", "/astrology/chiron-in-3rd-house-synastry", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Chiron in the 3rd house mean?"
-    a: "The relationship chart has Chiron in the house of daily talk, errands and the people close at hand, so the bond’s tender spot is its everyday exchange: messages misread, logistics that turn tense. Astrologers read a pair that adapts by finding a rhythm of contact that suits both, small and regular."
+    a: "Small daily traffic: texts that go astray, logistics that turn tense, siblings and neighbours in the mix. That is where a relationship with Chiron in the composite 3rd house feels it, and a rhythm of contact that suits both of you, small and regular, helps more than long talks."
   - q: "Is composite Chiron in the 3rd house about siblings?"
     a: "Partly. Tradition gives the 3rd to siblings, neighbours and the near world, so the bond may be sensitive to the people at close range, a sister’s opinion, the street it lives on. It doesn’t predict how any relative will behave; it describes where the relationship’s daily life feels tender."
   - q: "How precise do our birth times need to be for composite houses?"
@@ -35,12 +35,12 @@ Most of a relationship happens in small exchanges: the message at lunchtime, the
 
 [The 3rd house](/astrology/3rd-house/) covers the near world: daily conversation, messages, errands and short journeys, siblings, neighbours, what gets learned along the way. The [Moon](/astrology/moon/), whose joy is here, suits a house the old books called the Goddess. [Chiron](/astrology/chiron/) in this house of [the composite chart](/astrology/composite-chart/) turns the relationship's everyday weather into its sore point. The pair may misread each other's messages, find the daily logistics oddly fraught, or feel that the people close at hand, a brother, a flatmate, the street they live on, don't quite make room for them as a pair. Siblings count here too: a brother's teasing or a sister's silence can weigh on the pair more than either person expected.
 
-You may each message your friends all day and still find that the messages between the two of you are the ones that go astray. Rhythm is the fix: a time of day for talking, a way of flagging *this matters* in a message, a shared calendar, a walk round the block when something needs saying. Such pairs often become the ones relatives and neighbours confide in, having learned to listen at close range.
+You may each message your friends all day and still find that the messages between the two of you are the ones that go astray. Rhythm is the fix: a time of day for talking, a way of flagging *this matters* in a message, a shared calendar, a note left on the table, a walk round the block when something needs saying. Such pairs often become the ones relatives and neighbours confide in, having learned to listen at close range.
 
 Like every composite house, this one needs both birth times and a method: the midpoints of the two charts' cusps, or houses drawn from the composite Midheaven at the place where you live. The arithmetic is worth seeing. A birth time a quarter of an hour out moves that person's angles by about four degrees on average, and the composite's by about two, enough to carry a Chiron near a cusp from one house to the next ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Compare it with [Chiron in the 3rd house](/astrology/chiron-in-3rd-house/), which concerns one person's voice and whether they were heard early on, or with [their Chiron in your 3rd house](/astrology/chiron-in-3rd-house-synastry/), where one person's hard-won patience enters the other's everyday mind. The composite's 3rd belongs to neither of you: it is the conversation the two of you keep up.
 
-What makes it hard is the small stuff piling up. A bond tender in its daily exchanges can let a curt message turn into a quarrel, fall silent to avoid the next misunderstanding, or let relatives' remarks do the talking for it. Small, regular check-ins help more than rare big talks.
+Small stuff piles up. A curt message turns into a quarrel, silence becomes a way of avoiding the next misunderstanding, or relatives' remarks end up doing the talking. Small, regular check-ins help more than rare big talks; assuming the best of a short reply helps too.
 
-Its neighbours in the wheel carry tender spots of their own, worth in [composite Chiron in the 2nd house](/astrology/composite-chiron-in-2nd-house/) and home in [composite Chiron in the 4th house](/astrology/composite-chiron-in-4th-house/); the 3rd's is the conversation in between. Composite charts are a technique I describe rather than use: the astrologers who draw them read this Chiron alongside both birth charts and the [synastry](/astrology/synastry/), never as a forecast of what anyone will say or do.
+Its neighbours in the wheel carry tender spots of their own, worth in [composite Chiron in the 2nd house](/astrology/composite-chiron-in-2nd-house/) and home in [composite Chiron in the 4th house](/astrology/composite-chiron-in-4th-house/); the 3rd's is the conversation in between. Composites are outside my practice: the astrologers who draw them read this Chiron alongside both birth charts and the [synastry](/astrology/synastry/), never as a forecast of what anyone will say or do.

@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "6th house", "composite chart"]
 weight: 2234
 glyph: "⚷"
-definition: "Composite Chiron in the 6th house: the relationship chart’s Chiron lands in the house of daily work, routine and care, the Bad Fortune of the old books. Astrologers read a bond sore about the everyday load, which works out a rhythm that suits both people. It foretells no illness, and its house rests on both birth times."
+definition: "Composite Chiron in the 6th house: the relationship chart’s Chiron lands in the house of daily work, routine and care, the Bad Fortune of the old books. Astrologers read a bond sore about the everyday load, which works out a rhythm that suits both people. Illness is no part of its meaning, and finding the house takes both birth times."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 6th house, of daily work, routine and care" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-6th-house", "/astrology/6th-house", "/astrology/can-astrology-predict-health-problems", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Chiron in the 6th house mean?"
-    a: "The relationship chart has Chiron in the house of chores, routines and everyday care, so the bond’s tender spot is the daily round: who does what, at what pace, and whether care runs both ways. The usual answer is a rhythm of work both people agree to, and can change."
+    a: "Who does what, at what pace, and whether care runs both ways: the daily round is the tender spot when Chiron sits in the composite 6th house. The usual answer is a rhythm of work both people agree to, and can change."
   - q: "Does composite Chiron in the 6th house mean one of us will be ill?"
     a: "No. Tradition linked the 6th with illness, but no chart can predict anyone’s health, and a composite describes a relationship, not a body. This Chiron shows where the bond’s daily life is tender: chores, routines, care, and how fairly they are shared."
   - q: "Can composite houses be drawn for a couple living in the far north?"
@@ -43,6 +43,6 @@ Two birth times are the price of entry, and then a method: the midpoints of your
 
 Work and usefulness are one person's question in a natal [Chiron in the 6th house](/astrology/chiron-in-6th-house/), and in synastry [their Chiron in your 6th house](/astrology/chiron-in-6th-house-synastry/) threads the other's experience through your working week. The composite's routine is the pair's own, slowness and busyness together.
 
-Love can shrink into a list of tasks; that is the risk. It helps to notice the care hidden in the chores, and to say thank you for the dull things as readily as for the grand ones.
+Love can shrink into a list of tasks; that is the risk. The care hidden in the chores deserves noticing, and the dull things deserve thanks as readily as the grand ones.
 
-Before it, [composite Chiron in the 5th house](/astrology/composite-chiron-in-5th-house/) is tender about play; after it, [composite Chiron in the 7th house](/astrology/composite-chiron-in-7th-house/) about the partnership itself. I describe composites without using them in readings; their practitioners read this Chiron with both birth charts and the [synastry](/astrology/synastry/), as a picture of a shared routine rather than a forecast.
+Before it, [composite Chiron in the 5th house](/astrology/composite-chiron-in-5th-house/) is tender about play; after it, [composite Chiron in the 7th house](/astrology/composite-chiron-in-7th-house/) about the partnership itself. Composites get a description from me, not a place in my readings; their practitioners read this Chiron with both birth charts and the [synastry](/astrology/synastry/), as a picture of a shared routine rather than a forecast.

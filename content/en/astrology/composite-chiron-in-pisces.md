@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-pisces", "/astrology/pisces", "/astrology/chiron", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Chiron in Pisces mean?"
-    a: "Your relationship chart has Chiron in the sign of compassion, imagination and dissolving edges, so the bond’s sore spot is boundaries: how much to give, where each person stops, when closeness becomes losing yourselves. Astrologers read a pair that adapts by learning kindness with limits, and by keeping some solitude."
+    a: "Where each of you stops. With Chiron in the sign of compassion and dissolving edges, the bond’s question is how much to give, and when closeness turns into losing yourselves. The bond learns kindness with limits, and keeps some solitude on purpose."
   - q: "Does composite Chiron in Pisces mean we lose ourselves in each other?"
     a: "It can describe that pull, not a fate. Pisces is the sign of merging, and this Chiron shows where the relationship finds edges hard to keep. Many pairs with it become remarkably gentle with each other and with others, because they had to learn that caring includes saying no."
   - q: "Can people born years apart share composite Chiron in Pisces?"
@@ -41,6 +41,6 @@ With Aries, it tops the count: about 1 pair in 7 of two million random pairs bor
 
 Born with [Chiron in Pisces](/astrology/chiron-in-pisces/), one person learns about their own boundaries. In the composite the boundaries are the bond's, drawn and redrawn between two people rather than around one.
 
-The hard part is self-sacrifice that nobody asked for. A bond sore about limits can make one person the permanent carer, drift into fantasy rather than face a hard fact, or call avoidance compassion. Kind clarity helps: saying what you can't give, checking what is really happening, keeping some part of life that is yours alone. Next door, [composite Chiron in Aquarius](/astrology/composite-chiron-in-aquarius/) is tender about standing apart and [composite Chiron in Aries](/astrology/composite-chiron-in-aries/) about going first; Pisces is tender about letting go of the edge.
+Self-sacrifice that nobody asked for is the slippery slope: one person made the permanent carer, fantasy preferred to a hard fact, avoidance called compassion. Kind clarity helps: saying what you can't give, checking what is really happening, keeping some part of life that is yours alone, and letting the other person look after themselves sometimes. Next door, [composite Chiron in Aquarius](/astrology/composite-chiron-in-aquarius/) is tender about standing apart and [composite Chiron in Aries](/astrology/composite-chiron-in-aries/) about going first; Pisces is tender about letting go of the edge.
 
 Composite charts are a technique I describe rather than use; its practitioners read this Chiron with both birth charts and the [synastry](/astrology/synastry/), and it predicts no illness, no rescue and no ending. Something this tender is only looked at when both people want it looked at ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "9th house", "composite chart"]
 weight: 2237
 glyph: "⚷"
-definition: "Composite Chiron in the 9th house sends the relationship chart’s Chiron to the far horizon: belief, study, law and long journeys, in the house tradition called the God. Astrologers read a bond tender in its dealings with the wider world, which builds an outlook and a way of travelling that are its own. It needs both birth times."
+definition: "Composite Chiron in the 9th house sends the relationship chart’s Chiron to the far horizon: belief, study, law and long journeys, in the house tradition called the God. Astrologers read a bond exposed to the wider world, which builds an outlook of its own. Its houses need both birth times and, in one method, a place the pair calls home."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 9th house, of belief, study and far horizons" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-9th-house", "/astrology/9th-house", "/astrology/can-astrology-predict-a-court-case", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Chiron in the 9th house mean?"
-    a: "The relationship chart has Chiron in the house of belief, study, law and long journeys, so the bond’s tender spot is where it meets the wider world: two countries, two faiths, a degree, a border. Astrologers read a pair that adapts by building an outlook of its own and learning each other’s worlds."
+    a: "Borders, literal or not: two countries, two faiths, a degree, a visa. The composite 9th house is where a relationship meets the wider world, and with Chiron there the pair builds an outlook of its own while learning each other’s worlds."
   - q: "Is composite Chiron in the 9th house about living abroad?"
     a: "Partly. The 9th covers foreign places and long journeys, so the bond may feel tender wherever the wider world comes in: a second country, a long-distance stretch, a different faith. It predicts no move, visa or separation; it describes how the relationship meets the world beyond its doorstep."
   - q: "Which place do we use for composite houses if we live in two countries?"
@@ -45,4 +45,4 @@ One person's struggle with belief belongs to a natal [Chiron in the 9th house](/
 
 Outlook can harden into a dividing line: whose country, whose faith, whose studies come first. Taking turns helps, and so does staying curious about the answer you didn't grow up with.
 
-Its neighbours pull in other directions: inward to what the pair pools in [composite Chiron in the 8th house](/astrology/composite-chiron-in-8th-house/), upward to its public standing in [composite Chiron in the 10th house](/astrology/composite-chiron-in-10th-house/). Composites stay outside my readings; the astrologers who draw them read this Chiron with both birth charts and the [synastry](/astrology/synastry/), and never as a forecast of where two people will live.
+Its neighbours pull in other directions: inward to what the pair pools in [composite Chiron in the 8th house](/astrology/composite-chiron-in-8th-house/), upward to its public standing in [composite Chiron in the 10th house](/astrology/composite-chiron-in-10th-house/). My readings don't include composites; the astrologers who draw them read this Chiron with both birth charts and the [synastry](/astrology/synastry/), and never as a forecast of where two people will live.

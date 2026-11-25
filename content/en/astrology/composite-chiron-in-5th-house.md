@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "5th house", "composite chart"]
 weight: 2233
 glyph: "⚷"
-definition: "Composite Chiron in the 5th house means the relationship’s Chiron sits in Good Fortune, the old name for the house of play, pleasure, romance and creativity. Astrologers read a bond shy of its own enjoyment, which invents its own ways of having fun. It predicts no children, and its house needs both birth times."
+definition: "Composite Chiron in the 5th house means the relationship’s Chiron sits in Good Fortune, the old name for the house of play, pleasure, romance and creativity. Astrologers read a bond shy of its own enjoyment, which invents its own ways of having fun. Children are not its subject; the house needs both birth times."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 5th house, of play, pleasure and romance" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-5th-house", "/astrology/5th-house", "/astrology/can-astrology-predict-pregnancy", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Chiron in the 5th house mean?"
-    a: "The relationship chart has Chiron in the house of play, pleasure, romance and creativity, so the bond’s tender spot is enjoyment: fun that feels undeserved, romance that is hard to show, play that got lost early. Astrologers read a pair that adapts by making room for pleasure on purpose."
+    a: "Some couples find fun harder than work. With Chiron in the composite 5th house, enjoyment is the sore point: fun that feels undeserved, romance that is hard to show, play that got lost early. Making room for pleasure on purpose, and protecting it, is the remedy."
   - q: "Does composite Chiron in the 5th house mean we won’t have children?"
     a: "No. Tradition gave the 5th house to children, but no chart, composite or natal, can say whether anyone will have them, and I never read one that way. In a composite this Chiron describes play, pleasure and romance between two adults: where enjoying the relationship takes some learning."
   - q: "Why are composite houses sometimes very uneven?"
@@ -43,6 +43,6 @@ The house needs both birth times, and the method shapes it. Built from the midpo
 
 For one person, a natal [Chiron in the 5th house](/astrology/chiron-in-5th-house/) is a tenderness about being seen enjoying themselves; between two charts, [their Chiron in your 5th house](/astrology/chiron-in-5th-house-synastry/) meets one person's delight with the other's old hurt. The composite's version is a reluctance the pair shares, which is why neither of you can fix it alone.
 
-Postponement is the trouble: pleasure always saved for later, after the work, after the move, after the difficult year. Booking the fun as firmly as anything else helps, and so does letting it be unproductive.
+Postponement is the trouble: pleasure always saved for later, after the work, after the move, after the difficult year. Book the fun as firmly as anything else, and let it be unproductive.
 
 A pair with [composite Chiron in the 4th house](/astrology/composite-chiron-in-4th-house/) is tender about roots, one with [composite Chiron in the 6th house](/astrology/composite-chiron-in-6th-house/) about the daily round; the 5th sits between them, where the work stops and the fun is meant to start. I write about composites without drawing them: those who use them read this Chiron next to both birth charts and the [synastry](/astrology/synastry/), and it promises no romance, no child and no ending.

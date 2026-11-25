@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-12th-house", "/astrology/12th-house", "/astrology/astrology-and-mental-health", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Chiron composite en maison 12 ?"
-    a: "Le thème de la relation place Chiron dans la maison de la retraite et de ce qui reste hors de vue. Le point tendre du lien est privé : des choses tues, une fatigue que personne d’autre ne voit. Les astrologues y lisent une paire qui apprend à nommer doucement le non-dit, et à se reposer ensemble."
+    a: "Ce qui reste privé : des choses tues, une fatigue que personne d’autre ne voit, un soin donné sans témoin. Le travail, ici, est doux : nommer le non-dit avec délicatesse, et se reposer ensemble. Il ne prédit ni maladie ni enfermement."
   - q: "Chiron composite en maison 12 est-il mauvais signe ?"
     a: "Non. La tradition appelait la maison 12 le Génie défavorable et lui donnait le chagrin et l’enfermement, mais aucun thème ne prédit l’un ou l’autre, et un composite décrit une relation, pas le destin de quelqu’un. Ce Chiron montre où le lien est sensible en privé, et avec quelle douceur il apprend à en parler."
   - q: "Chiron composite en maison 12 veut-il dire une relation cachée ?"
@@ -44,6 +44,6 @@ Que Chiron soit en maison 12 ou non dépend des deux heures de naissance et de l
 
 La sensibilité discrète d’un [Chiron en maison 12](/astrology/chiron-in-12th-house/) natal appartient à une seule personne, et la compassion du [Chiron de l’autre dans votre maison 12](/astrology/chiron-in-12th-house-synastry/) passe d’une vie à l’autre ; la maison 12 du composite est une intimité partagée, avec ses silences et son besoin d’espace.
 
-Le silence peut durcir en distance. Vous pouvez convenir d’une façon de dire *il y a quelque chose que je n’arrive pas encore à mettre en mots*, pour que ce qui n’est pas dit ait un endroit où attendre.
+Le silence peut durcir en distance. Certains couples conviennent d’une phrase pour cela, *il y a quelque chose que je n’arrive pas encore à mettre en mots*, pour que ce qui n’est pas dit ait un endroit où attendre.
 
 Avant elle, [Chiron composite en maison 11](/astrology/composite-chiron-in-11th-house/) est sensible parmi les amis et les groupes ; de l’autre côté de l’ascendant, [Chiron composite en maison 1](/astrology/composite-chiron-in-1st-house/) l’est à la vue de tous. Les composites sont une technique que j’explique plutôt que je ne la pratique : leurs adeptes lisent ce Chiron à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et un thème qui touche à la vie cachée de deux personnes ne devrait être dressé qu’une fois que les deux ont dit oui ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "1st house", "composite chart"]
 weight: 2229
 glyph: "⚷"
-definition: "Composite Chiron in the 1st house puts the relationship chart’s Chiron in the house that begins at the composite Ascendant: how the bond shows itself and comes across. Astrologers read a pair tender about first impressions, which shapes its own way of appearing together. It needs both birth times and depends on the house method."
+definition: "Composite Chiron in the 1st house puts the relationship chart’s Chiron in the house that begins at the composite Ascendant: how the bond shows itself and comes across. Astrologers read a pair tender about first impressions, which shapes its own way of appearing together. That Ascendant needs both birth times, and the methods rarely agree on it."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷" }
   - { k: "House", v: "The 1st house, which begins at the composite Ascendant" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-1st-house", "/astrology/1st-house", "/astrology/ascendant", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Chiron in the 1st house mean?"
-    a: "The relationship chart has Chiron in its 1st house, the house of appearance and first impressions, so the bond’s tender spot is how it comes across: misread at first sight, unsure how to be a pair in public. Astrologers read two people who shape their own way of appearing together, and stop explaining it."
+    a: "Picture the two of you walking into a room: that first impression is where this relationship feels exposed. It may be misread at first sight, until the two of you shape your own way of appearing together and stop explaining it."
   - q: "Can we find our composite Chiron’s house without birth times?"
     a: "No. Composite houses come from both charts’ angles, and those move about a degree every four minutes of birth time, so without both times there are no composite houses at all. The sign of composite Chiron needs only the dates; its house needs the two times, and a method."
   - q: "Why is our composite Chiron in the 1st house on one website and the 12th on another?"
@@ -40,6 +40,6 @@ This is an angular house, and its cusp is the composite [Ascendant](/astrology/a
 
 The house is also what makes this Chiron belong to the two of you. Its sign is shared by everyone born within a few years of you; its house is not. A natal [Chiron in the 1st house](/astrology/chiron-in-1st-house/) concerns one person's sense of being seen as they are, and in synastry, [their Chiron in your 1st house](/astrology/chiron-in-1st-house-synastry/) is one person's sore spot meeting the other's manner. Here the tender place is the bond's shared face.
 
-Letting other people's first impressions decide what the relationship is: that is the trap here. A bond sore about how it looks can hide, over-explain, or perform a version of itself that it thinks will pass. It helps to agree, between you, how you want to be introduced, and to let the rest go.
+Letting other people's first impressions decide what the relationship is: that is the trap here. Hiding, over-explaining, performing a version of the two of you that might pass: none of it settles anything. Agree between you how you want to be introduced, and let the rest go.
 
-Before it, [composite Chiron in the 12th house](/astrology/composite-chiron-in-12th-house/) keeps its tender place out of sight; after it, [composite Chiron in the 2nd house](/astrology/composite-chiron-in-2nd-house/) finds it among what the pair owns and values. Composites aren't part of my own readings: the astrologers who use them set this Chiron beside both birth charts and the [synastry](/astrology/synastry/), and it says nothing about how long two people will be together.
+Before it, [composite Chiron in the 12th house](/astrology/composite-chiron-in-12th-house/) keeps its tender place out of sight; after it, [composite Chiron in the 2nd house](/astrology/composite-chiron-in-2nd-house/) finds it among what the pair owns and values. Composites are not a tool I use: the astrologers who use them set this Chiron beside both birth charts and the [synastry](/astrology/synastry/), and it says nothing about how long two people will be together.

@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-libra", "/astrology/libra", "/astrology/chiron", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Chiron in Libra mean?"
-    a: "The relationship’s own chart has Chiron in the sign of partnership and balance, so the bond’s sore spot is equality: whether both people stand level in it, whether its give and take is fair. Astrologers read a pair that adapts by negotiating, with agreements spelled out and turns taken, rather than assuming fairness."
+    a: "Fairness between two people who are meant to be equals. Whether both stand level, and whether the give and take is fair, stays a live question for composite Chiron in Libra, settled by negotiation rather than assumption, with agreements spelled out and turns taken."
   - q: "Why is composite Chiron in Libra the rarest?"
     a: "Libra is where Chiron travels fastest, near the point of its orbit closest to the Sun, so it stays only about two years and few births, or midpoints, fall there. In two million random pairs born 1930–2009 it came up for about 1 pair in 26, less often than any other sign."
   - q: "Can composite Chiron flip between Libra and Aries?"
@@ -41,6 +41,6 @@ Libra is the rarest sign for composite Chiron: of two million random pairs born 
 
 Natally, [Chiron in Libra](/astrology/chiron-in-libra/) tells how one person learned to stand level with others. Shared, it can make each of you feel like the one who gives way more.
 
-What makes it hard is the scorekeeping. A bond sore about fairness can count favours, avoid every argument to keep the balance, or let one person accommodate for years and call it harmony. It helps to aim for a fair process rather than a perfect balance, and to say out loud when the scales have tipped. On either side, [composite Chiron in Virgo](/astrology/composite-chiron-in-virgo/) frets about doing things right and [composite Chiron in Scorpio](/astrology/composite-chiron-in-scorpio/) about whom to trust; Libra frets about whether the two of you are even.
+Scorekeeping is where it sours. Favours get counted, arguments get avoided to keep the balance, or one person accommodates for years and calls it harmony. Aim for a fair process rather than a perfect balance, and say out loud when the scales have tipped. On either side, [composite Chiron in Virgo](/astrology/composite-chiron-in-virgo/) frets about doing things right and [composite Chiron in Scorpio](/astrology/composite-chiron-in-scorpio/) about whom to trust; Libra frets about whether the two of you are even.
 
-Composite charts aren't part of how I work, so this is the technique's account, read by its users next to both birth charts and the [synastry](/astrology/synastry/). It can't tell you whether two people will marry, part or stay. And a chart of two people drawn without one of them knowing would be lopsided from the start ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Composite charts aren't part of how I work, so this is the technique's account, read by its users next to both birth charts and the [synastry](/astrology/synastry/). No set of scales, not even Libra's, can weigh whether two people will marry, part or stay. And a chart of two people drawn without one of them knowing would be lopsided from the start ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

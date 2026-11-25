@@ -2,7 +2,7 @@
 title: "Jupiter en transit sextile Jupiter du thème natal"
 slug: "jupiter-transit-sextile-jupiter-natal"
 h1: "Jupiter en transit sextile Jupiter de votre thème natal"
-description: "Jupiter en transit sextile Jupiter du thème natal : les deux ouvertures du cycle, deux ans après un retour et deux ans avant le suivant. Quand, et ce qui aide."
+description: "Jupiter en transit sextile Jupiter du thème natal : les deux ouvertures du cycle, deux ans après un retour et deux avant le suivant, et pourquoi on les manque."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/jupiter-return", "/astrology/sextile", "/astrology/transiting-jupiter-square-natal-jupiter", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit sextile Jupiter du thème natal ?"
-    a: "Deux fois par cycle de douze ans, Jupiter, dans le ciel, forme un sextile, 60°, avec son propre degré de naissance. J’y lis une ouverture qui convient à votre façon de grandir : une formation, une proposition, une conversation qui vous fait avancer. Elle demande à être saisie et ne promet rien d’elle-même."
+    a: "Deux fois par cycle de douze ans, Jupiter, dans le ciel, forme un sextile, 60°, avec son propre degré de naissance. Pour moi, c’est une ouverture qui convient à votre façon de grandir : une formation, une proposition, une conversation qui vous fait avancer. Elle demande à être saisie et ne promet rien d’elle-même."
   - q: "Quand vient le sextile de Jupiter à sa position de naissance ?"
     a: "L’un vient deux ans environ après chaque retour de Jupiter, l’autre deux ans environ avant le suivant. Le tout premier est venu entre 1,4 et 2,1 ans pour toutes les naissances de 1930 à 2009, et avant 80 ans, chacune des personnes comptées en avait connu treize."
   - q: "Le sextile de Jupiter à sa position natale porte-t-il chance ?"

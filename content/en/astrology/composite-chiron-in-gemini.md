@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Chiron", "Gemini", "composite chart"]
 weight: 2219
 glyph: "⚷♊"
-definition: "Composite Chiron in Gemini: average two natal Chirons into a relationship chart and the midpoint falls in the sign of talk and exchange. It is read as a bond tender about being understood, which builds its own language over time: questions asked twice, things written down, patience with words. It turns up for about 1 pair in 10."
+definition: "Composite Chiron in Gemini: average two natal Chirons into a relationship chart and the midpoint falls in the sign of talk and exchange. It is read as a bond tender about being understood, which builds its own language: questions asked twice, things written down, patience. It turns up for about 1 pair in 10, a little fewer than Taurus."
 facts:
   - { k: "Body", v: "Composite Chiron ⚷, the midpoint of your two natal Chirons" }
   - { k: "Sign", v: "Gemini ♊, mutable air, ruled by Mercury" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-gemini", "/astrology/gemini", "/astrology/chiron", "/how-i-read"]
 faq:
   - q: "What does composite Chiron in Gemini mean?"
-    a: "The relationship’s chart has Chiron in the sign of talk and exchange, so the bond’s sore spot is being understood: messages misread, conversations that are hard to begin. Astrologers read a pair that adapts by building a language of its own, with patience and questions, rather than by waiting to communicate perfectly."
+    a: "In a relationship whose Chiron sits in Gemini, words are where it catches: messages misread, conversations hard to begin, even between two fluent people. A language of the pair’s own, built with patience and questions, works better than waiting to communicate perfectly."
   - q: "Does composite Chiron in Gemini mean we can’t communicate?"
     a: "No. It shows where talking takes more care between you, not a failure to talk. Many pairs with it end up unusually good at conversation, precisely because they had to work at it. The composite describes the relationship’s tender spot; it never says how the relationship will turn out."
   - q: "Is composite Chiron in Gemini common?"
@@ -32,7 +32,7 @@ A message read the wrong way, a joke that lands badly, a long talk that leaves b
 
 ## What it says about the two of you {#what-it-says}
 
-Words are where this relationship has to adapt. In [the composite chart](/astrology/composite-chart/), the chart of midpoints that stands for the relationship rather than for either person, [Chiron](/astrology/chiron/) marks a limit the bond keeps meeting and learns to work around without waiting for it to vanish. [Gemini](/astrology/gemini/), mutable air ruled by [Mercury](/astrology/mercury/), makes that limit a matter of exchange: being understood, keeping each other informed, learning side by side. The pair may misread each other's messages, explain the same thing three times, or find that the conversations that matter most are the hardest to start.
+This pair has to build its way of talking rather than find it ready-made. In [the composite chart](/astrology/composite-chart/), the chart of midpoints that stands for the relationship rather than for either person, [Chiron](/astrology/chiron/) marks a limit the bond keeps meeting and learns to work around without waiting for it to vanish. [Gemini](/astrology/gemini/), mutable air ruled by [Mercury](/astrology/mercury/), makes that limit a matter of exchange: being understood, keeping each other informed, learning side by side. The pair may misread each other's messages, explain the same thing three times, or find that the conversations that matter most are the hardest to start.
 
 A duet can go out of tune with two good singers, and the composite reads the tuning, not the voices: two fluent, articulate people can find that between them, and only between them, words slip. The remedy tends to be inventive: a private vocabulary, important things written down, a rule of asking *what did you mean?* before answering, walks where talking comes easier than across a table. Friends who need help saying something difficult tend to call them.
 

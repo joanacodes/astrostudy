@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-cancer", "/astrology/cancer", "/astrology/chiron", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Chiron composite en Cancer ?"
-    a: "Votre thème de relation place Chiron dans le signe du foyer et de l’appartenance : le point tendre du lien, c’est sa place, dans un logement, auprès de ses familles, dans le soin que vous vous donnez. Les astrologues y lisent une paire qui se crée son propre abri et apprend à faire circuler le soin dans les deux sens."
+    a: "Cela veut dire que le lien est sensible à sa place : dans un logement, auprès de ses familles, dans le soin que vous vous donnez. Un abri et des traditions bien à lui aident, tout comme apprendre à faire circuler le soin dans les deux sens plutôt que toujours dans le même."
   - q: "Chiron composite en Cancer annonce-t-il des problèmes de famille ?"
     a: "Pas comme une prédiction. Le Cancer parle de foyer, de famille et d’appartenance : les astrologues y voient un lien sensible là, à sa place, à l’accueil qu’il reçoit, au partage du soin. Un composite ne dit pas comment une famille se comportera, ni si deux personnes vivront ensemble ; il décrit un point tendre, pas un événement."
   - q: "Pourquoi Chiron composite en Cancer est-il moins fréquent qu’en Bélier ?"
@@ -41,8 +41,8 @@ Chiron traverse le Cancer plus vite que les signes qui le précèdent : moins d
 
 Une personne née avec [Chiron en Cancer](/astrology/chiron-in-cancer/) cherche pour son propre compte un endroit où appartenir. Partagée, cette recherche tire souvent dans deux sens à la fois, vers plus de proximité et loin du risque d’y être engloutie, et une paire peut sentir les deux élans dans la même soirée.
 
-La difficulté, c’est le soin qui tourne au contrôle. Un lien sensible à l’appartenance peut surprotéger, compter qui s’occupe de qui, ou rentrer dans sa coquille quand une remarque de famille blesse. Il aide de demander du soin avec des mots simples plutôt que de l’attendre, et de laisser le foyer être imparfait sans cesser d’être un foyer.
+Le soin peut tourner au contrôle. Surprotéger, compter qui s’occupe de qui, rentrer dans sa coquille quand une remarque de famille blesse : ce sont les défenses du lien, et elles lui coûtent. Demander du soin avec des mots simples vaut mieux que l’attendre, et un foyer peut être imparfait sans cesser d’être un foyer.
 
 Les placements voisins décrivent d’autres points tendres : [Chiron composite en Gémeaux](/astrology/composite-chiron-in-gemini/) les mots entre vous, [Chiron composite en Lion](/astrology/composite-chiron-in-leo/) le désir d’être vus ensemble.
 
-Les thèmes composites restent en dehors de mes lectures. Ils sont décrits ici comme une technique, telle que les astrologues qui les dressent lisent ce Chiron : à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et jamais comme la prédiction d’un foyer, d’un mariage ou d’une séparation. Un thème de deux personnes demande que les deux aient dit oui ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Les thèmes composites n’entrent jamais dans mes propres lectures. Ils sont décrits ici comme une technique, telle que les astrologues qui les dressent lisent ce Chiron : à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/), et jamais comme la prédiction d’un foyer, d’un mariage ou d’une séparation. Le soin commence par la demande : un thème de deux personnes exige que les deux aient dit oui ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

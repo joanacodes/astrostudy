@@ -5,6 +5,8 @@ description: "Transiting Jupiter square natal Sun: twice every twelve years, wan
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Sun", "square", "transits"]
 weight: 1564
 glyph: "♃□☉"
 definition: "Transiting Jupiter square natal Sun is Jupiter a quarter of the zodiac from your birth Sun, about three years before and after each crossing. It sets the urge for more against the hours you actually have: overreach, restlessness, a role grown too small. I read it as friction that builds a sense of scale, never as failure."
@@ -22,7 +24,7 @@ faq:
   - q: "Is Jupiter square Sun a bad transit?"
     a: "No. Astrologers call the square hard, and with Jupiter the difficulty is excess rather than lack: overconfidence, overcommitment, plans bigger than the hours behind them. Met with some measure, it is often when people outgrow a role, or a story about themselves, that had become too small."
   - q: "How long does Jupiter square the Sun last?"
-    a: "About eleven days within my orbs, from 1½° before exact to 1° after. In about three cases out of ten, Jupiter's retrograde loop sits on the square, which is then crossed three times in about eight months. It comes twice per round, about three and nine years after Jupiter crosses your Sun."
+    a: "Each square holds your Sun for about eleven days. In about three cases out of ten, Jupiter's retrograde loop sits on the square, which is then crossed three times in about eight months. It comes twice per round, about three and nine years after Jupiter crosses your Sun."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the transit lasts with my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits read one by one" }
@@ -45,7 +47,7 @@ Each square is brief unless Jupiter turns round near it: about eleven days withi
 
 The two squares of a round don't feel alike. The first, three years after [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/), tests what you began then against your real hours and strengths. The second, nine years in, comes while you're clearing ground for the next crossing, and asks what you've outgrown. Halfway between them lies [transiting Jupiter opposite natal Sun](/astrology/transiting-jupiter-opposite-natal-sun/). If either square is exact near your birthday, Jupiter stands a quarter of the sky from the Sun, at its highest around dusk for the first and around dawn for the second.
 
-Everyone born between 1930 and 2009 meets it thirteen or fourteen times by 80, so nobody reaches that age without a few lessons in how far confidence can run ahead of the hours. [Transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/) and [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/) are the easier visits of the same round; the square is the one that leaves a lesson in scale behind it.
+Everyone born between 1930 and 2009 meets it thirteen or fourteen times by 80, so nobody reaches that age without a few lessons in how far confidence can run ahead of the hours. [Transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/) and [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/) give your sense of direction the same room without the pressure; the square is the visit that leaves a lesson in scale behind it.
 
 ## What helps {#what-helps}
 

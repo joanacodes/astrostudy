@@ -2,7 +2,7 @@
 title: "Jupiter en transit sextile Saturne du thème natal"
 slug: "jupiter-transit-sextile-saturne-natal"
 h1: "Jupiter en transit sextile Saturne de votre thème natal"
-description: "Jupiter en transit sextile Saturne du thème natal : une ouverture pour donner une structure à un espoir, deux fois par tour. Durée, dates, comment s’en servir."
+description: "Jupiter en transit sextile Saturne du thème natal : une ouverture pour donner une structure à un espoir, deux fois par tour, et pourquoi il faut agir."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Saturne", "sextile", "transits"]
 weight: 1592
 glyph: "♃⚹♄"
-definition: "Jupiter en transit sextile Saturne du thème natal se produit quand Jupiter, dans le ciel, atteint 60° du degré de Saturne à votre naissance, deux fois par tour de douze ans. La croissance et la part de vous qui bâtit lentement peuvent coopérer. J’y lis l’occasion de donner une structure à un espoir, utile seulement si vous la saisissez."
+definition: "Jupiter en transit sextile Saturne du thème natal, c’est un angle de 60° entre Jupiter dans le ciel d’aujourd’hui et Saturne de votre naissance, formé deux fois par tour de Jupiter. La croissance et la part de vous qui bâtit lentement peuvent coopérer. J’y lis l’occasion de donner une structure à un espoir, utile seulement si vous la saisissez."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Saturne ♄ de votre thème : ce que vous portez, votre façon de bâtir" }
@@ -23,14 +23,14 @@ faq:
   - q: "Que veut dire Jupiter en transit sextile Saturne du thème natal ?"
     a: "Jupiter, dans le ciel, se trouve à 60° de Saturne dans votre thème : la croissance et la part de vous, lente et responsable, peuvent travailler ensemble. J’y lis une ouverture discrète pour donner une vraie structure à ce que vous espérez : un calendrier, un accord, quelqu’un qui enseigne. Rien ne se passe si vous ne vous en servez pas."
   - q: "Combien de fois Jupiter forme un sextile avec Saturne du thème natal ?"
-    a: "Deux fois par tour de Jupiter de douze ans, soit treize ou quatorze fois avant 80 ans pour les naissances de 1930 à 2009. Chaque fois, onze jours environ, ou huit mois environ quand Jupiter repasse en boucle sur le point. Le premier est venu entre quelques semaines et presque huit ans après la naissance."
+    a: "Deux fois par tour de Jupiter de douze ans, soit treize ou quatorze avant 80 ans pour les naissances de 1930 à 2009. Chaque fois, onze jours environ, ou huit mois environ quand Jupiter repasse en boucle sur le point. Le plus précoce est venu quelques semaines après la naissance, le plus tardif vers presque huit ans."
   - q: "Jupiter sextile Saturne, est-ce un bon moment pour s’engager ?"
     a: "Ce transit convient aux engagements déjà réfléchis, parce que grandir et tenir bon tirent un moment dans le même sens. Il ne décide pas de la façon dont un engagement tournera, et rien n’a besoin de lui pour bien se passer. Je m’en servirais pour donner à un projet de long terme son premier pas solide."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge au premier sextile selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
 ---
-Deux fois par tour de douze ans, Jupiter, dans le ciel, forme un sextile avec le degré de Saturne à votre naissance. La planète qui élargit et celle qui bâtit lentement se parlent pendant quelques jours, et une chose que vous espérez peut recevoir une forme qui dure.
+Pendant quelques jours, deux fois par tour de Jupiter, la planète qui élargit et celle qui bâtit lentement se parlent : Jupiter, dans le ciel, se trouve à 60° de Saturne de votre naissance. Une chose que vous espérez peut alors recevoir une forme qui dure.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -42,7 +42,7 @@ Le domaine de vie concerné dépend de deux maisons : celle où se trouve Satur
 
 ## Combien de temps {#combien-de-temps}
 
-Mesuré entre 1,5° avant l’exactitude et 1° après, les orbes avec lesquels je situe les [transits](/astrology/transits/), un sextile que Jupiter franchit une seule fois s’achève en onze jours environ. Trois fois sur dix à peu près, Jupiter est près de l’une de ses stations, et la fenêtre s’ouvre trois fois sur quelque huit mois. Avec deux sextiles par tour, les personnes nées entre 1930 et 2009 en rencontrent treize ou quatorze avant 80 ans.
+Mesuré entre 1,5° avant l’exactitude et 1° après, les orbes avec lesquels je situe les [transits](/astrology/transits/), un sextile que Jupiter franchit une seule fois s’achève en onze jours environ. Trois fois sur dix à peu près, Jupiter est près de l’une de ses stations, et la fenêtre s’ouvre trois fois sur quelque huit mois. À deux par tour, on arrive à treize ou quatorze avant 80 ans, le chiffre de toutes les naissances de 1930 à 2009.
 
 Le premier peut venir quelques semaines après la naissance, ou pas avant presque huit ans : vers 1,1 an pour une naissance le 1er janvier 1995, vers 7,1 ans pour le 1er janvier 1965. Tout tient à la place de Jupiter ce jour-là, et au chemin qui restait à parcourir jusqu’à un point situé à 60° de votre Saturne.
 

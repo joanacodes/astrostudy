@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-scorpio", "/astrology/scorpio", "/astrology/chiron", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Chiron in Scorpio mean?"
-    a: "The relationship’s chart has Chiron in the sign of depth, trust and power, so the bond’s tender spot is exposure: what can be shown, shared or handed over safely. Astrologers read a pair that adapts slowly and deliberately, opening one door at a time and agreeing together what stays private."
+    a: "Exposure, mostly: what can be shown, shared or handed over safely when the relationship’s Chiron is in the sign of depth and trust. Such a pair opens one door at a time and decides together what stays private; its slowness is care, not coldness."
   - q: "Does composite Chiron in Scorpio mean betrayal?"
     a: "No. Scorpio covers trust, intimacy and power, so the bond is sensitive there, but a composite predicts no betrayal, affair or loss. Many pairs with this Chiron become unusually steady in a crisis, because trust was something they built on purpose rather than took for granted."
   - q: "Which planets rule composite Chiron in Scorpio?"
@@ -41,6 +41,6 @@ About 1 pair in 22 has it, few by the standards of composite Chiron, in a count 
 
 A person born with [Chiron in Scorpio](/astrology/chiron-in-scorpio/) keeps a guard of their own. The composite's guard is held jointly, so that one person's privacy and the other's questions are two halves of the same caution.
 
-Its hard side is control. A bond tender about trust can turn watchful, keep a record of old wounds, or use what it knows as leverage in an argument. Saying what you're afraid of, plainly and early, does more than any test, and so does keeping the small promises that are easy to keep. On either side of it, [composite Chiron in Libra](/astrology/composite-chiron-in-libra/) is tender about fairness and [composite Chiron in Sagittarius](/astrology/composite-chiron-in-sagittarius/) about meaning; Scorpio is tender about what lies underneath.
+Control is the shadow side: watchfulness, a record of old wounds, what one knows used as leverage in an argument. Saying what you're afraid of, plainly and early, does more than any test; keeping the small promises that are easy to keep does the rest. On either side of it, [composite Chiron in Libra](/astrology/composite-chiron-in-libra/) is tender about fairness and [composite Chiron in Sagittarius](/astrology/composite-chiron-in-sagittarius/) about meaning; Scorpio is tender about what lies underneath.
 
 As with all the composites here, I'm describing a technique I don't use: its practitioners read this Chiron beside both birth charts and the [synastry](/astrology/synastry/), and it predicts no betrayal, no inheritance and no ending. A relationship chart about trust also needs some: two people who both know it is being drawn ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-12th-house", "/astrology/12th-house", "/astrology/astrology-and-mental-health", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Chiron in the 12th house mean?"
-    a: "The relationship chart has Chiron in the house of retreat and what stays out of sight, so the bond’s tender spot is private: things left unsaid, tiredness only the two of you see, care given without witnesses. Astrologers read a pair that learns to name the unsaid gently, and to rest together."
+    a: "What stays private: things left unsaid, tiredness only the two of you see, care given without witnesses. The work here is gentle: naming the unsaid softly, and resting together. It predicts neither illness nor confinement."
   - q: "Is composite Chiron in the 12th house a bad sign?"
     a: "No. Tradition called the 12th the Bad Spirit and gave it sorrow and confinement, but no chart predicts either, and a composite describes a relationship, not anyone’s fate. This Chiron shows where the bond is tender in private, and how gently it learns to speak about it."
   - q: "Does composite Chiron in the 12th house mean a secret relationship?"
@@ -43,6 +43,6 @@ Whether Chiron is in the 12th at all depends on both birth times and on the hous
 
 The quiet sensitivity of a natal [Chiron in the 12th house](/astrology/chiron-in-12th-house/) belongs to one person, and the compassion of [their Chiron in your 12th house](/astrology/chiron-in-12th-house-synastry/) is offered from one life into another; the composite's 12th is a privacy shared, with its silences and its need for space.
 
-Silence can harden into distance. It helps to agree a way of saying *there's something I can't put into words yet*, so that the unsaid has a place to wait.
+Silence can harden into distance. Some couples agree a phrase for it, *there's something I can't put into words yet*, so that the unsaid has a place to wait.
 
 Before it, [composite Chiron in the 11th house](/astrology/composite-chiron-in-11th-house/) is tender among friends and groups; across the Ascendant, [composite Chiron in the 1st house](/astrology/composite-chiron-in-1st-house/) is tender in full view. Composites are a technique I explain rather than practise: their users read this Chiron beside both birth charts and the [synastry](/astrology/synastry/), and a chart that touches the hidden life of two people should only be drawn once both have said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

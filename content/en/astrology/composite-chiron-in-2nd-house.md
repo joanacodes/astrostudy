@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/chiron-in-2nd-house", "/astrology/2nd-house", "/astrology/which-house-system-should-i-use", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Chiron in the 2nd house mean?"
-    a: "Your relationship chart has Chiron in the house of money, possessions and values, so the bond’s tender spot is worth: unequal incomes, different habits with money, a doubt that what you have together is enough. Astrologers read a pair that adapts with arrangements it chose itself, made calmly and early."
+    a: "Money and worth touch the relationship’s tender spot: unequal incomes, different habits with money, a doubt that what you have together is enough. In the composite 2nd house, Chiron is usually met with arrangements chosen calmly and early, before anything goes wrong."
   - q: "Is composite Chiron in the 2nd house about money?"
     a: "Partly. The 2nd covers money, belongings and values, so the bond is sensitive about what it has and how it shares it. That describes feelings and habits, not a forecast: no composite says whether a pair will be well off or short, or who will earn what."
   - q: "Which house method should we use for a composite?"
@@ -42,4 +42,4 @@ One person's knot between earning and self-worth is what a natal [Chiron in the 
 
 Its difficulty is letting money stand in for worth: keeping score in pounds, or proving the bond's value by what it owns. A composite says nothing about whether two people will be comfortable or short; this Chiron describes how they feel about what they have. Talking about money when nothing is wrong helps far more than talking about it in a crisis.
 
-Next to it, [composite Chiron in the 1st house](/astrology/composite-chiron-in-1st-house/) is tender about how the bond looks, and [composite Chiron in the 3rd house](/astrology/composite-chiron-in-3rd-house/) about its everyday exchanges. Composites stay outside my readings; their users read this Chiron beside both birth charts and the [synastry](/astrology/synastry/), and anything touching two people's money is looked at only when both have agreed ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Next to it, [composite Chiron in the 1st house](/astrology/composite-chiron-in-1st-house/) is tender about how the bond looks, and [composite Chiron in the 3rd house](/astrology/composite-chiron-in-3rd-house/) about its everyday exchanges. I leave composites out of my own readings; their users read this Chiron beside both birth charts and the [synastry](/astrology/synastry/), and anything touching two people's money is looked at only when both have agreed ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

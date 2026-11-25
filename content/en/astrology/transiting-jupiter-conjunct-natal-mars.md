@@ -32,7 +32,7 @@ Every twelve years or so, Jupiter crosses the degree of your natal Mars, and the
 
 ## What changes {#what-changes}
 
-[Mars](/astrology/mars/) initiates: it starts things, makes the effort, asserts what you want and holds your limits. [Jupiter](/astrology/jupiter/) widens and looks for meaning. A [conjunction](/astrology/conjunction/) runs them as one engine, so for the length of this [transit](/astrology/transits/) the push to act comes with a reason built in, and effort tends to fasten onto something bigger than the task in front of you.
+[Mars](/astrology/mars/) initiates: it starts things, makes the effort, asserts what you want and holds your limits. [Jupiter](/astrology/jupiter/) asks what the effort is for. A [conjunction](/astrology/conjunction/) runs them as one engine, so for the length of this [transit](/astrology/transits/) the push to act comes with a reason built in, and effort tends to fasten onto something bigger than the task in front of you.
 
 People often take something on: a cause, a training, a venture, a stand at work, a start postponed for years. Courage comes more easily, and so does asking for what you want. The cautions are the usual ones for this pair: courage isn't recklessness, and more energy isn't more time. Taking on as much as the reason deserves, and no more, is the skill of this crossing.
 
@@ -46,7 +46,7 @@ Counted from 1½° before exact to 1° after, the crossing usually lasts about e
 
 The date comes from your birth date alone, because Mars shifts so little in a day. The meaning comes from the house, and the house from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)): no birth time, no reading.
 
-Six or seven of these crossings come by 80 for anyone born between 1930 and 2009, spaced about twelve years apart: often enough to compare them, rarely enough for each to open a chapter. Six years after each one, [transiting Jupiter opposite natal Mars](/astrology/transiting-jupiter-opposite-natal-mars/) holds up what the effort has grown into; on the way there and back come [transiting Jupiter sextile natal Mars](/astrology/transiting-jupiter-sextile-natal-mars/), [transiting Jupiter square natal Mars](/astrology/transiting-jupiter-square-natal-mars/) and [transiting Jupiter trine natal Mars](/astrology/transiting-jupiter-trine-natal-mars/).
+Six or seven of these crossings come by 80 for anyone born between 1930 and 2009, spaced about twelve years apart, often enough to compare what your drive was serving each time. Six years after each one, [transiting Jupiter opposite natal Mars](/astrology/transiting-jupiter-opposite-natal-mars/) holds up what the effort has grown into; on the way there and back, [transiting Jupiter sextile natal Mars](/astrology/transiting-jupiter-sextile-natal-mars/) offers your drive a channel, [transiting Jupiter square natal Mars](/astrology/transiting-jupiter-square-natal-mars/) tests its limits and [transiting Jupiter trine natal Mars](/astrology/transiting-jupiter-trine-natal-mars/) gives it an easy run.
 
 ## What helps {#what-helps}
 

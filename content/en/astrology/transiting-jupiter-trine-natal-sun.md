@@ -5,6 +5,8 @@ description: "Transiting Jupiter trine natal Sun: twice every twelve years, a fo
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Sun", "trine", "transits"]
 weight: 1565
 glyph: "♃△☉"
 definition: "Transiting Jupiter trine natal Sun is Jupiter, four signs ahead of your birth Sun or four behind it, forming the 120° angle of flow. Your purpose and your wish to grow keep step for a while: confidence comes without forcing, and plans meet less resistance. I read it as a following wind, which still needs a direction."
