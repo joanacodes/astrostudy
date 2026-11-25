@@ -45,13 +45,13 @@ Trois placements amènent la plupart des gens ici :
 
 - **[Soleil en Lion](/astrology/sun-in-leo/) :** une naissance entre le 23 juillet et le 22 août environ. Le Soleil chez lui : vous grandissez en créant et en partageant avec générosité, et la reconnaissance compte parce qu’elle vous dit que ce que vous avez fait existe vraiment.
 - **[Lune en Lion](/astrology/moon-in-leo/) :** il vous faut de la chaleur, du jeu, et le sentiment de compter pour les personnes qui comptent. Une fierté blessée fait mal longtemps, et votre générosité revient dès qu’on vous voit vraiment.
-- **[Ascendant Lion](/astrology/leo-rising/) :** vous abordez le monde avec chaleur et présence, et l’on vous remarque, parfois avant que vous ayez dit un mot. Le Soleil devient le [maître du thème](/astrology/chart-ruler/). Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
+- **[Ascendant Lion](/astrology/leo-rising/) :** vous abordez le monde avec chaleur et présence, et l’on vous remarque, parfois avant que vous ayez dit un mot. Le Soleil devient le [maître du thème](/astrology/chart-ruler/). Pour confirmer un ascendant Lion, il faut votre [heure de naissance](/blog/unknown-birth-time/) : l’ascendant change de signe toutes les deux heures environ.
 
-Aucun de ces placements ne raconte toute l’histoire. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Alors je lis le Lion à travers tout le thème, en commençant par la place du Soleil.
+Seul, aucun de ces placements ne suffit à tout dire. Voici ce qu’a trouvé [mon carnet](/blog/i-tested-my-birth-chart/) : le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, n’était pas dans le groupe des trois qui ont tenu bien plus souvent. Alors je lis le Lion à travers tout le thème, en commençant par la place du Soleil.
 
 ## Son maître : le Soleil {#maitre}
 
-Le maître d’un signe est la planète qui s’y trouve chez elle : c’est elle qui porte les affaires du signe dans le reste du thème. Le Lion appartient au [Soleil](/astrology/sun/), et c’est le seul signe qu’il gouverne : la tradition a donné aux deux luminaires les deux signes du plein été, le Lion au Soleil et le Cancer à la Lune. La position de votre Soleil, par signe et par maison, montre où votre part Lion veut briller. Avec le Lion sur la cuspide de la maison 10 et le Soleil en maison 4, par exemple, votre vie publique puise sa force dans le foyer.
+Le Lion, comme chaque signe, a un maître : la planète qui s’y trouve chez elle, et qui porte les affaires du Lion à travers le reste du thème. Le Lion appartient au [Soleil](/astrology/sun/), et c’est le seul signe qu’il gouverne : la tradition a donné aux deux luminaires les deux signes du plein été, le Lion au Soleil et le Cancer à la Lune. La position de votre Soleil, par signe et par maison, montre où votre part Lion veut briller. Avec le Lion sur la cuspide de la maison 10 et le Soleil en maison 4, par exemple, votre vie publique puise sa force dans le foyer.
 
 Dans le schéma classique, aucune planète n’est exaltée en Lion ni n’y tombe en chute. Deux y sont affaiblies :
 
@@ -75,7 +75,7 @@ Une planète en Lion se réchauffe et cherche un public ; la maison où elle s
 
 ## Le Lion sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Lion quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Lion ouvre une maison, vous voulez y mettre du cœur, et que cela se voie, et le Soleil, quelle que soit sa place, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Lion quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. Placidus et les autres systèmes par quadrants laissent parfois le Lion ouvrir deux maisons, et parfois aucune, quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où le Lion ouvre une maison, vous voulez y mettre du cœur, et que cela se voie, et le Soleil, quelle que soit sa place, poursuit l’histoire. C’est votre heure de naissance qui place le Lion dans telle ou telle maison.
 
 1. **[Maison I](/astrology/leo-rising/) :** l’ascendant Lion — une présence chaleureuse qu’on remarque ; vous abordez le monde avec générosité, et l’on se souvient de vous.
 2. **[Maison II](/astrology/leo-on-2nd-house-cusp/) :** de la générosité avec ce que vous avez ; vous aimez la qualité et les choses qui vous ressemblent, et votre fierté tient à gagner votre vie par vous-même.
@@ -99,4 +99,4 @@ En [synastrie](/synastry/), les planètes en Lion apportent la chaleur et la gé
 - **« Les Lions sont arrogants. »** Le Lion est fier, et la fierté peut être discrète. Une bonne part de ce qui ressemble à de l’ego est le désir que ce qu’on a créé soit vu, et une générosité qui veut le partager.
 - **« Les Lions ont besoin d’attention en permanence. »** Le Lion a besoin de chaleur et de reconnaissance, comme tout le monde, et le dit plus ouvertement. Il donne de l’attention aussi volontiers qu’il en demande.
 - **« Le Soleil en Lion, c’est un destin de leader. »** Le Soleil chez lui donne un sens fort de soi. Diriger est une façon de le montrer ; créer, enseigner, prendre soin en sont d’autres.
-- **« Le jour où le Soleil change de signe, on est à moitié Cancer. »** À la minute de votre naissance, le Soleil était dans l’un ou l’autre signe ; à un jour près d’un changement, votre heure de naissance tranche. C’est tout le sujet des [naissances entre deux signes](/astrology/born-on-the-cusp/).
+- **« Le jour où le Soleil change de signe, on est à moitié Cancer. »** À la minute de votre naissance, le Soleil était en Cancer ou en Lion, l’un ou l’autre ; à moins d’un jour du changement, c’est l’heure de naissance qui décide. Voir les [naissances entre deux signes](/astrology/born-on-the-cusp/) pour en savoir plus.

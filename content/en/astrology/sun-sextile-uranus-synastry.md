@@ -53,7 +53,7 @@ Uranus's sign is the part of this contact that belongs to everyone born within a
 
 Act on one idea. The Sun person can pick a single suggestion and give it a real trial, with a date. The Uranus person can say which of their ideas actually matter to them, so they don't all sound equally casual. A couple might try one new thing each season; friends, a trip or a class neither would have booked alone; a family, a tradition updated at a relative's suggestion; coworkers, a small pilot instead of a long debate.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. Both birth times are part of what I ask for before I begin. The hour can matter at the very edge of an orb this narrow, a day moving the Sun by a degree or so; it always matters for the houses, which show whether the new options open at work, at home or among friends ([what changes without a birth time](/blog/unknown-birth-time/)).
+This Sun–Uranus sextile, within 4.8° and either way round, turns up in about 1 pair of people in 10. Both birth times are part of what I ask for before I begin. The hour can matter at the very edge of an orb this narrow, a day moving the Sun by a degree or so; it always matters for the houses, which show whether the new options open at work, at home or among friends ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The other angles of the same two bodies:
 

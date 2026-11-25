@@ -39,7 +39,7 @@ Je lis le [Soleil](/astrology/sun/) comme le centre qui organise le thème : l�
 
 La tradition fait du Verseau l’[exil](/astrology/detriment/) du Soleil, parce qu’il fait face au Lion, le signe du Soleil. Le Lion organise un moi autour d’un centre chaleureux et personnel ; le Verseau l’organise autour d’un système. Je ne lis pas cet exil comme un Soleil terne. J’y lis un moi vraiment chez lui au pluriel, qui doit travailler un peu plus pour dire *je veux* plutôt que *nous devrions*.
 
-Le Verseau a deux maîtres, et je lis les deux. [Saturne](/astrology/saturn/), son maître dans la tradition, montre par signe et par maison où ce Soleil bâtit les cadres auxquels il croit. [Uranus](/astrology/uranus/), son maître dans l’astrologie tropicale moderne, montre par maison où ce Soleil tient à faire les choses autrement.
+Un Soleil en Verseau répond à deux maîtres, et je regarde l’un comme l’autre. [Saturne](/astrology/saturn/), son maître dans la tradition, montre par signe et par maison où ce Soleil bâtit les cadres auxquels il croit. [Uranus](/astrology/uranus/), son maître dans l’astrologie tropicale moderne, montre par maison où ce Soleil tient à faire les choses autrement.
 
 Le [Soleil en Capricorne](/astrology/sun-in-capricorn/) passe la main vers le 20 janvier, et le [Soleil en Poissons](/astrology/sun-in-pisces/) la reprend vers le 19 février ; le Soleil en Verseau occupe les 29 ou 30 jours entre les deux, quand les jours rallongent dans l’hémisphère Nord sans que l’hiver ait lâché prise. Environ 1 personne sur 12 a ce placement, et pour une naissance près de l’une des deux bornes, c’est l’[heure de naissance](/blog/unknown-birth-time/) qui tranche.
 

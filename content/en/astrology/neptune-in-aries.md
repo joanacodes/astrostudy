@@ -40,7 +40,7 @@ Aries is also where the zodiac starts again after Pisces, so Neptune arrives her
 
 Neptune was last in Aries from April 1861 to April 1875, so nobody alive today was born under it before now. The people born with it are the babies of 2025 and 2026, and everyone still to come until 2039. The border months are shared: until January 2026 with [Neptune in Pisces](/astrology/neptune-in-pisces/), and from May 2038 with [Neptune in Taurus](/astrology/neptune-in-taurus/).
 
-I don't read [children’s charts](/astrology/childrens-charts/). So I describe Neptune in Aries as a generation's sign, the dream in the air of these years, and leave each person's house, the part that makes it theirs, for the day they're old enough to ask.
+I leave [children’s charts](/astrology/childrens-charts/) out of my readings. So I describe Neptune in Aries as a generation's sign, the dream in the air of these years, and leave each person's house, the part that makes it theirs, for the day they're old enough to ask.
 
 ## In close relationships {#in-close-relationships}
 

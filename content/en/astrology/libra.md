@@ -44,13 +44,13 @@ Three placements bring most people here:
 
 - **[Sun in Libra](/astrology/sun-in-libra/):** born between about 23 September and 22 October. You grow through relationships and a strong sense of fairness. You often see the other person's side before your own, and part of your path is learning that your own weight counts in the balance too.
 - **[Moon in Libra](/astrology/moon-in-libra/):** you feel safe when things are calm between you and the people you love. Tension unsettles you more than it seems to unsettle others, so you may smooth things over before you've said what you need.
-- **[Libra rising](/astrology/libra-rising/):** you meet the world with tact, warmth and an eye for how things look and feel, and people find you easy to approach. Venus becomes your [chart ruler](/astrology/chart-ruler/), so its sign and house matter a great deal. A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Libra rising](/astrology/libra-rising/):** you meet the world with tact, warmth and an eye for how things look and feel, and people find you easy to approach. Venus becomes your [chart ruler](/astrology/chart-ruler/), so its sign and house matter a great deal. Libra rising rests on your [birth time](/blog/unknown-birth-time/), since the rising sign changes about every two hours.
 
-None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Libra as one voice in a chart, never the whole of it.
+Not one of the three is the full story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign alike held about a third of the time each, and the Moon, checked like every other placement, was outside the three that held far more often. So I read Libra as one voice in a chart, never the whole of it.
 
 ## Its ruler: Venus {#ruler}
 
-A sign's ruler is the planet that's at home in it, and where that planet sits in your chart shows where the sign's energy goes. Libra is ruled by [Venus](/astrology/venus/), which also rules Taurus: in Taurus it's the Venus of the body and of what you keep; in Libra, the Venus of agreements, courtesy and beauty as proportion. If Libra is on your 10th house cusp and Venus sits in your 4th, say, your public life draws on what you build at home.
+The planet that's at home in a sign is its ruler, and for Libra, that planet's place in your chart shows where Libra's energy goes. Libra is ruled by [Venus](/astrology/venus/), which also rules Taurus: in Taurus it's the Venus of the body and of what you keep; in Libra, the Venus of agreements, courtesy and beauty as proportion. If Libra is on your 10th house cusp and Venus sits in your 4th, say, your public life draws on what you build at home.
 
 [Saturn](/astrology/saturn/) is [exalted](/astrology/exaltation/) in Libra: tradition saw the planet of rules and time at its best where rules are fair and agreed by both sides. [Mars](/astrology/mars/) is in [detriment](/astrology/detriment/) here, opposite its home in Aries — a fighter in the sign of negotiation — and the [Sun](/astrology/sun/) is in [fall](/astrology/fall/), opposite its exaltation: the self has to learn to share the stage. A planet in detriment or fall isn't broken. It's speaking a second language, and often speaks it with more care than a native would.
 
@@ -71,7 +71,7 @@ Every planet passes through Libra sooner or later: the Moon for about two and a 
 
 ## Libra on a house cusp {#on-a-house-cusp}
 
-Every chart has Libra somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Libra opens a house, that part of life takes on its question — *what's fair here, and who am I doing it with?* — and Venus, wherever it sits, carries the story on. Which house it is depends on your birth time.
+Every chart has Libra somewhere in its twelve houses, usually on the cusp of one of them. Libra may open two houses in Placidus or any other quadrant system, or open none when it lies [intercepted](/astrology/intercepted-signs/) inside one. Wherever Libra opens a house, that part of life takes on its question — *what's fair here, and who am I doing it with?* — and Venus, wherever it sits, carries the story on. Which house Libra opens is down to your birth time.
 
 1. **[1st house](/astrology/libra-rising/):** Libra rising — you meet the world with grace and diplomacy, and people often turn to you to keep the peace.
 2. **[2nd house](/astrology/libra-on-2nd-house-cusp/):** money and possessions are a matter of fairness and taste; you may earn through people, beauty or negotiation.
@@ -94,5 +94,5 @@ In [synastry](/synastry/), Libra placements bring courtesy, attention to the oth
 
 - **“Libras are indecisive.”** Libra is slow to decide because it's honestly weighing more than one side. That's a method, not a flaw — and a Sun sign is only one placement among many.
 - **“Libra is all about romance.”** Libra is about relationships of every kind — partners, colleagues, rivals, contracts — and about fairness in all of them.
-- **“Born on 22 or 23 October, you're half Scorpio.”** At the minute you were born the Sun was in one sign. Near a change, your birth time settles which: that's the whole question of being [born on the cusp](/astrology/born-on-the-cusp/).
+- **“Born on 22 or 23 October, you're half Scorpio.”** At the minute you were born, the Sun was in Libra or Scorpio, not both. Close to the change, your birth time picks one: that's the whole question of being [born on the cusp](/astrology/born-on-the-cusp/).
 - **“The stars have moved, so Libra is really Virgo now.”** The signs follow the seasons, not the constellations. In the [tropical zodiac](/astrology/tropical-zodiac/), Libra begins at the September equinox, whichever stars have drifted behind it.

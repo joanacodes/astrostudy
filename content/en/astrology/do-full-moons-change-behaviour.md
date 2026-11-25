@@ -69,4 +69,4 @@ My notebook asked a different question. It checked charts, placement by placemen
 
 The Moon was checked like every other placement, and it wasn't one of the three that held far more often: those were Saturn, Lilith and Chiron, at 75 to 90%. Overall, about a third of what I checked held, 30 to 40%.
 
-It's a notebook, not a study, and it proves nothing about astrology in general. It's why, when something in a reading rests on a placement that held less often in my tests, I tell you. The count is in [my testing notes](/blog/i-tested-my-birth-chart/).
+None of that makes a study: it's a notebook, and it proves nothing about astrology in general. It's why, when something in a reading rests on a placement that held less often in my tests, I tell you. The count is in [my testing notes](/blog/i-tested-my-birth-chart/).

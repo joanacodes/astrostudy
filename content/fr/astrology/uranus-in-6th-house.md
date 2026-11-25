@@ -35,7 +35,7 @@ Un emploi du temps écrit par quelqu’un d’autre survit rarement à Uranus en
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 6](/astrology/6th-house/) donne sa forme à une journée ordinaire : le travail que vous faites, les routines qui vous portent, les gens avec qui vous travaillez et le soin que vous donnez à votre corps. Cadente, avec la Vierge, gouvernée par Mercure, pour signe naturel, elle était la Fortune défavorable des astrologues hellénistiques, qui y plaçaient pourtant la joie de Mars. Avec [Uranus](/astrology/uranus/) ici, la réforme et l’expérience travaillent sur la méthode : vous améliorez les procédures, changez d’outils, et avez besoin d’avoir votre mot à dire sur la façon et le moment de travailler.
+La [maison 6](/astrology/6th-house/), c’est ce dont une journée ordinaire est faite : votre travail, les routines qui vous équilibrent, vos collègues et la façon dont vous prenez soin de votre corps. Cadente, avec la Vierge, gouvernée par Mercure, pour signe naturel, elle était la Fortune défavorable des astrologues hellénistiques, qui y plaçaient pourtant la joie de Mars. Avec [Uranus](/astrology/uranus/) ici, la réforme et l’expérience travaillent sur la méthode : vous améliorez les procédures, changez d’outils, et avez besoin d’avoir votre mot à dire sur la façon et le moment de travailler.
 
 La tradition donnait la maladie à cette maison. Être malade ou en bonne santé, aucun placement ne peut le dire, et je ne le cherche pas ([l’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Dans une vie d’adulte, je lis la maison 6 comme le travail de tous les jours et les habitudes que l’on vit, et Uranus y signale un besoin de routines souples, choisies par vous.
 

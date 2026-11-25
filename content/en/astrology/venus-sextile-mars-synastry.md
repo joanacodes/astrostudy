@@ -58,6 +58,6 @@ Other angles give taste and drive a different arrangement:
 
 Invite rather than hint. The Venus person can say plainly what they would enjoy; the Mars person can propose rather than wait for permission; either can swap roles now and then, so that both get to choose and both get to start. Disagree out loud when you do, because this contact makes it easy to skip.
 
-About 1 pair of people in 13 has this sextile, one way round or the other, within 3.6°. The orb is narrow, but Venus covers only about a degree a day and Mars less, so the hour of birth decides it only right at the edge; it always decides the houses, which need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+I find this sextile between a Venus and a Mars in about 1 pair of people in 13, counting both directions, with an orb of 3.6°. The orb is narrow, but Venus covers only about a degree a day and Mars less, so the hour of birth decides it only right at the edge; it always decides the houses, which need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 A person whose own chart has [Venus sextile Mars](/astrology/venus-sextile-mars/) has a knack for the welcome first move. Between two people, the knack is split in half, and works only when both halves show up.

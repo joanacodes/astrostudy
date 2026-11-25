@@ -35,7 +35,7 @@ The Sun in the 6th house had just set when you were born. The light had gone ind
 
 [The 6th house](/astrology/6th-house/) is the shape of an ordinary day: the work you do, the routines that hold you up, the people you work alongside and the care you give your body. Cadent, linked to Virgo, it went by the name of Bad Fortune in the old books, which also made it the house of Mars's joy. Put the [Sun](/astrology/sun/) here and its questions, who am I and what am I for, get answered in practice rather than in theory. You tend to find out who you are by what you do repeatedly, and to feel most yourself when your days have a shape you've chosen.
 
-Tradition gave the 6th illness too. I don't read a chart for health problems, and no placement can forecast them ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). What I read here is how you look after your energy from day to day: the rhythm of work and rest that keeps this Sun lit.
+In the traditional texts, the 6th was also the house of illness. I don't read a chart for health problems, and no placement can forecast them ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). What I read here is how you look after your energy from day to day: the rhythm of work and rest that keeps this Sun lit.
 
 In Placidus, the house system I use, a 6th-house Sun was just below the western horizon in the early evening. Born a little earlier, while the Sun was still setting, you'd have the [Sun in the 7th house](/astrology/sun-in-7th-house/); later in the evening, the [Sun in the 5th house](/astrology/sun-in-5th-house/). A birth around sunset is one where the [birth time](/blog/unknown-birth-time/) matters to the minute.
 

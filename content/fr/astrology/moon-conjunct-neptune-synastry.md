@@ -49,7 +49,7 @@ Si près l’une de l’autre, les deux fonctions perdent leurs contours. La per
 
 Mettez des mots là où l’on devinait. La personne qui a la Lune peut dire « j’ai besoin » à voix haute, même quand l’autre semble savoir ; celle qui a Neptune peut demander « c’est ce que tu veux ? » avant de donner. Le temps séparé aide aussi : une soirée pour chaque personne, une amitié à soi, un projet qui n’appartient qu’à l’une. En couple, c’est une protection, pas une distance ; entre proches, c’est ce qui garde la tendresse lucide.
 
-Environ 1 paire de personnes sur 11 a cette conjonction, dans un sens ou dans l’autre, à 8° près. Avec quelque quatorze ans par signe, la position de Neptune chez l’une se retrouve chez des personnes nées sur plus d’une décennie ; elle ne devient cette rencontre qu’au moment où la Lune de l’autre s’y pose, et la Lune, à environ 13° par jour, s’y pose ou la manque à quelques heures près. Il faut donc les deux heures de naissance, et les deux jeux de maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 11 rapproche la Lune de l’une et Neptune chez l’autre à 8° près, peu importe laquelle des deux a la Lune. Avec quelque quatorze ans par signe, la position de Neptune chez l’une se retrouve chez des personnes nées sur plus d’une décennie ; elle ne devient cette rencontre qu’au moment où la Lune de l’autre s’y pose, et la Lune, à environ 13° par jour, s’y pose ou la manque à quelques heures près. Il faut donc les deux heures de naissance, et les deux jeux de maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Avec plus de distance, les deux mêmes fonctions montrent d’autres visages :
 

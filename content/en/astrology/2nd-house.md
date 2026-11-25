@@ -37,7 +37,7 @@ The 2nd house is the house of what you have and what you value: money, belonging
 
 I read the 2nd house as the answer to *what can I count on?* It covers what you earn and how you earn it, what you buy and what you keep, the skills you could live from, and the things you'd protect if you had to choose. Underneath the money sits self-worth: how much you feel allowed to have, and what you think you're worth.
 
-- **A succedent house.** It follows an angle, and succedent houses are where things settle and build up: the 2nd gathers what the 1st set in motion. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
+- **A succedent house.** It follows an angle, and succedent houses are where things settle and build up: the 2nd gathers what the 1st set in motion. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) puts the 2nd's kind side by side with the other two.
 - **Its natural sign and planet.** [Taurus](/astrology/taurus/) and [Venus](/astrology/venus/): comfort, pleasure in good things, a steady pace.
 - **Its opposite.** The [8th house](/astrology/8th-house/): the 2nd is what's yours, the 8th what you share or owe — a partner's money, joint accounts, debts, trust.
 
@@ -83,7 +83,7 @@ The sign on the cusp of the 2nd house is your style with money and things: how y
 
 ## Its ruler {#ruler}
 
-The ruler of the 2nd house is the planet that rules the sign on its cusp. Where it sits shows where your money and your sense of worth come from, and where they tend to go: the part of life that feeds your security, or the one that spends it. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
+The ruler of the 2nd house is the planet that rules the sign on its cusp. Where it sits shows where your money and your sense of worth come from, and where they tend to go: the part of life that feeds your security, or the one that spends it. If your 2nd house cusp is in Scorpio, Aquarius or Pisces, the 2nd has two rulers, one modern and one traditional, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/2nd-house-ruler-in-1st-house/):** you earn through your own effort and presence; worth and identity sit close together.
 2. **[In the 2nd house](/astrology/2nd-house-ruler-in-2nd-house/):** the story stays at home; what you have tends to build on itself.

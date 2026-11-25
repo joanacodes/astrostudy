@@ -45,7 +45,7 @@ Vue du côté de Jupiter, la liberté peut sembler insouciante ; vue du côté
 
 Environ 1 personne sur 30, parmi les naissances de 1930 à 2009, la porte à 6° près, en six périodes espacées d’environ quatorze ans : 1933–34, 1948, 1962–63, 1975–76, 1989–90 et 2003–04, le plus souvent en deux passages. Commune à ces mois-là, elle parle pour une cohorte plus que pour une personne ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)).
 
-Les maisons la ramènent à vous. Avec Jupiter en maison 6 et Uranus en maison 12, les routines quotidiennes peuvent porter votre besoin de sens tandis que votre besoin de liberté travaille hors de vue ; avec Jupiter en maison 8 et Uranus en maison 2, des engagements partagés auxquels vous croyez peuvent faire face à une façon très personnelle de gagner et de posséder. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les maisons la ramènent à vous. Avec Jupiter en maison 6 et Uranus en maison 12, les routines quotidiennes peuvent porter votre besoin de sens tandis que votre besoin de liberté travaille hors de vue ; avec Jupiter en maison 8 et Uranus en maison 2, des engagements partagés auxquels vous croyez peuvent faire face à une façon très personnelle de gagner et de posséder. Chaque bout de l’opposition reçoit sa maison de votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Sur le même cycle de quatorze ans :
 

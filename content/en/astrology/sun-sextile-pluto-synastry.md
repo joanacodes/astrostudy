@@ -53,7 +53,7 @@ Depending on where it is in its long, uneven orbit, Pluto takes 12 to 31 years o
 
 Ask at the turning points. The Sun person can bring the hard decision to the Pluto person on purpose, and say what kind of help they want; the Pluto person can make the offer a single time and trust the other to return to it. A couple might lean on this contact during a move or a change of career; friends, after a loss or an ending; family members, when an old pattern needs breaking; colleagues, when a project needs restructuring.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. So narrow an orb means that near its edge the birth time can count, the Sun shifting about a degree in a day; it always counts for the houses, which show in which part of each life the renewal happens, and I don't read the contact without both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+Counted both ways round, about 1 pair of people in 10 has a Sun–Pluto sextile within 4.8°. So narrow an orb means that near its edge the birth time can count, the Sun shifting about a degree in a day; it always counts for the houses, which show in which part of each life the renewal happens, and I don't read the contact without both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Other angles of the same pair:
 

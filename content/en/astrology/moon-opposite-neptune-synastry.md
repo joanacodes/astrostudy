@@ -48,7 +48,7 @@ Polarities invite projection. The Moon person can see the Neptune person as pure
 
 Check the picture against the person, often and kindly. The Moon person can let the other dream without asking them to justify it; the Neptune person can meet ordinary needs as gladly as poetic ones. Take turns at each other's end: the Moon person choosing the inspiring outing, the Neptune person handling the practical week. Friends, couples and relatives alike can keep a habit of asking "how are you really?" and waiting for the answer; colleagues can pair vision with logistics on purpose.
 
-About 1 pair of people in 11 has this opposition, one way round or the other, within 8°. Its far end, Neptune, was the same for everyone born across fourteen years or so; its near end, the Moon, shifts by the hour, and that's the end that makes the opposition yours. So both birth times decide it, and both give the houses each end falls in ([what changes without a birth time](/blog/unknown-birth-time/)).
+Allowing 8°, and whichever of the two has the Moon, this opposition links about 1 pair of people in 11. Its far end, Neptune, was the same for everyone born across fourteen years or so; its near end, the Moon, shifts by the hour, and that's the end that makes the opposition yours. So both birth times decide it, and both give the houses each end falls in ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Closer in, or at an angle, the same two functions behave differently:
 

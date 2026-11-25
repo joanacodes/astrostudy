@@ -52,7 +52,7 @@ Le reste de la famille Saturne–Neptune :
 - **[Saturne carré Neptune](/astrology/saturn-square-neptune/) :** 1943–1945, 1962–1964, 1978–1980 ou 1998–1999 ; un frottement à angle droit au lieu d’un bras de fer.
 - **[Saturne trigone Neptune](/astrology/saturn-trine-neptune/) :** 1930, 1941–1943, 1965–1967, 1976–1978 ou 2000–2002 ; les mêmes fonctions qui coulent ensemble.
 
-Dans une relation, [Saturne opposition Neptune en synastrie](/astrology/saturn-opposite-neptune-synastry/) peut donner l’impression que l’une des deux personnes apporte le sol et l’autre le ciel : un partenariat, si chacune tient à ce que l’autre apporte. Je le lis d’un côté comme de l’autre.
+Dans une relation, [Saturne opposition Neptune en synastrie](/astrology/saturn-opposite-neptune-synastry/) peut donner l’impression que l’une des deux personnes apporte le sol et l’autre le ciel : un partenariat, si chacune tient à ce que l’autre apporte. Je le lis pour la personne de Saturne comme pour celle de Neptune.
 
 ## En transit {#en-transit}
 

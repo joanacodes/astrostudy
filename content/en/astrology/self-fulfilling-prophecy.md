@@ -59,7 +59,7 @@ For astrology, the nearest finding is what researchers call self-attribution. In
 
 ## What I found {#what-i-found}
 
-My notebook can't tell these apart. I checked every placement with a tick or a cross, my own chart first, then family, friends and strangers, with their consent. Overall about a third held, 30 to 40%, and [Saturn](/astrology/saturn/), [Lilith](/astrology/black-moon-lilith/) and [Chiron](/astrology/chiron/) held 75 to 90% of the time. But a tick can't show whether a placement described someone or whether they had already taken the description on. It's [a notebook, not a study](/blog/i-tested-my-birth-chart/), and it proves nothing about astrology in general.
+My notebook can't tell these apart. I checked every placement with a tick or a cross, my own chart first, then family, friends and strangers, with their consent. About a third held in all, 30 to 40%, against 75 to 90% of the time for [Saturn](/astrology/saturn/), [Lilith](/astrology/black-moon-lilith/) and [Chiron](/astrology/chiron/). But a tick can't show whether a placement described someone or whether they had already taken the description on. My count remains [a notebook, not a study](/blog/i-tested-my-birth-chart/), and proof of nothing about astrology in general.
 
 What I can do is read in a way that gives a prophecy as little to work with as I can. A chart describes tendencies, not permissions: how you're inclined to move, not where you must end up. There are no doomed placements in my readings, and I read your patterns and your seasons, not next Tuesday. "You're a Scorpio, so…" is not a reading; it's an excuse with a vocabulary. It's also why I don't read for anyone under 18: a chart read at the wrong age can become a label you grow into.
 

@@ -39,7 +39,7 @@ The 3rd house is the house of the everyday mind: how you think, talk, write and 
 
 I read the 3rd house as the traffic of daily life: messages, conversations, errands, what you read on the way somewhere, and the way your mind moves through an ordinary day. It also covers the people you didn't choose but grew up alongside — brothers and sisters, cousins, neighbours — and the first learning, before anyone asked what you wanted to study. Where it touches family, it describes your experience of those ties, not who the others are.
 
-- **A cadent house.** It follows a succedent one, and cadent houses are read as places of adjusting, learning and passing things on: the 3rd takes what the 2nd gathered and puts it into circulation. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
+- **A cadent house.** It follows a succedent one, and cadent houses are read as places of adjusting, learning and passing things on: the 3rd takes what the 2nd gathered and puts it into circulation. What sets the cadent kind apart from the other two is on [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/).
 - **Its natural sign and planet.** [Gemini](/astrology/gemini/) and [Mercury](/astrology/mercury/): curiosity, words, movement.
 - **The Goddess.** Tradition gave it that name and said the [Moon](/astrology/moon/) rejoices here ([planetary joys](/astrology/planetary-joys/)): the quickest of the lights, at home among daily comings and goings.
 - **Its opposite.** The [9th house](/astrology/9th-house/), which tradition called the God, where the Sun has its joy. The 3rd is the near — short trips, first lessons, the neighbourhood — and the 9th the far: long journeys, higher study, big questions.
@@ -52,7 +52,7 @@ Like every house, the 3rd is placed by your birth time. Without it, the house yo
 
 A planet in the 3rd house shows in how you talk, learn and get about, and often in how things felt with siblings and neighbours.
 
-Saturn, Chiron and Lilith are the three I read most slowly: in [my notebook](/blog/i-tested-my-birth-chart/) they held 75 to 90% of the time, against about a third for most placements. With Saturn, [Chiron in the 3rd house](/astrology/chiron-in-3rd-house/) or [Lilith in the 3rd house](/astrology/lilith-in-3rd-house/) in your chart, being heard is usually where a reading goes.
+I read Saturn, Chiron and Lilith more slowly than anything else, because in [my notebook](/blog/i-tested-my-birth-chart/) they held 75 to 90% of the time, against about a third for most placements. With Saturn, [Chiron in the 3rd house](/astrology/chiron-in-3rd-house/) or [Lilith in the 3rd house](/astrology/lilith-in-3rd-house/) in your chart, being heard is usually where a reading goes.
 
 - **[Sun in the 3rd house](/astrology/sun-in-3rd-house/):** words, learning and your close circle are your stage.
 - **[Moon in the 3rd house](/astrology/moon-in-3rd-house/):** in its joy: you feel your way through talk, and the daily round steadies you.
@@ -86,7 +86,7 @@ The sign on the cusp of the 3rd house gives your everyday mind its style: the pa
 
 ## Its ruler {#ruler}
 
-The ruler of the 3rd house is the planet that rules the sign on its cusp, and where it sits shows what your thinking and talking are put to work for: the part of life your words serve. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
+The ruler of the 3rd house is the planet that rules the sign on its cusp, and where it sits shows what your thinking and talking are put to work for: the part of life your words serve. When Scorpio, Aquarius or Pisces is on the 3rd's cusp, the house has two rulers, a modern one and a traditional one, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/3rd-house-ruler-in-1st-house/):** how you speak is a large part of who you are.
 2. **[In the 2nd house](/astrology/3rd-house-ruler-in-2nd-house/):** your words and skills can earn; you think a lot about value.

@@ -40,7 +40,7 @@ I read the 7th house as the house of the person across the table: a spouse or lo
 
 It doesn't tell you who you'll end up with, or when. It describes what you look for in people and, very often, the qualities you find easier to see in someone else than in yourself.
 
-- **An angular house.** It's one of the four houses that begin at the angles of the chart, and what sits here shows: in the people you choose, and in the ones you clash with. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
+- **An angular house.** It's one of the four houses that begin at the angles of the chart, and what sits here shows: in the people you choose, and in the ones you clash with. The 7th's kind and the other two are compared in [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/).
 - **Its angle.** Its cusp is the [Descendant](/astrology/descendant/), the degree that was setting in the west when you were born. In Placidus and the other quadrant systems, it's where the 7th house begins; in whole sign houses, the 7th is the whole sign opposite your rising sign ([which house system should I use?](/astrology/which-house-system-should-i-use/)).
 - **Its natural sign and planet.** [Libra](/astrology/libra/) and [Venus](/astrology/venus/): balance, fairness, the pleasure of company.
 - **Its opposite.** The [1st house](/astrology/1st-house/), the house of the self: the 1st is *me*, the 7th is *you*, and I read the two together.
@@ -89,7 +89,7 @@ The sign on the cusp of the 7th house is your Descendant's sign, always the one 
 
 ## Its ruler {#ruler}
 
-The ruler of the 7th house is the planet that rules the sign on its cusp, and where it sits shows where the story of your partnerships plays out: where you tend to meet people, and what you end up sharing with them. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
+The ruler of the 7th house is the planet that rules the sign on its cusp, and where it sits shows where the story of your partnerships plays out: where you tend to meet people, and what you end up sharing with them. Scorpio, Aquarius or Pisces on the cusp of your 7th gives it a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/7th-house-ruler-in-1st-house/):** partners shape who you become; you may recognise yourself in the people you choose.
 2. **[In the 2nd house](/astrology/7th-house-ruler-in-2nd-house/):** partnership tied to money and values; a bond has to feel secure, and worth it.

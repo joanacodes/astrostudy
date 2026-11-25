@@ -40,7 +40,7 @@ Neptune has no dignity in Taurus. [Venus](/astrology/venus/), the sign's ruler, 
 
 Neptune was last in Taurus from June 1874 to March 1889, crossing back and forth with Aries at the start and with Gemini at the end, and it returns from May 2038 to May 2052. Not one birth from 1930 to 2009 has it. In the order of the generations, it comes between [Neptune in Aries](/astrology/neptune-in-aries/), the sign being born now, and [Neptune in Gemini](/astrology/neptune-in-gemini/), which follows from 2051. For the people born with it from 2038, the house will be what makes it personal, in their own time. What follows is how I read the sign in principle.
 
-My [notebook](/blog/i-tested-my-birth-chart/) checked Neptune like every placement. It didn't turn out to be one of the three that held far more often, Saturn, Chiron and Lilith; across the notebook, about a third held.
+In my [notebook](/blog/i-tested-my-birth-chart/), Neptune got the same check as every other placement. It didn't turn out to be one of the three that held far more often, Saturn, Chiron and Lilith; across the notebook, about a third held.
 
 ## In close relationships {#in-close-relationships}
 

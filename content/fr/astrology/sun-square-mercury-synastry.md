@@ -38,7 +38,7 @@ Aucun thème ne peut contenir un carré entre le Soleil et Mercure : Mercure re
 
 Le [Soleil](/astrology/sun/) représente ce qu’une personne devient : l’identité, le but, la direction. [Mercure](/astrology/mercury/), c’est la façon dont un esprit travaille : observer, raisonner, questionner, mettre en mots. Sur un [carré](/astrology/square/), deux fonctions se pressent l’une l’autre jusqu’à ce que chacune s’adapte, et dans les [aspects de synastrie](/astrology/synastry-aspects/), cette pression passe entre deux personnes : la pensée de l’une, l’identité de l’autre.
 
-Les signes d’un carré sont en général du même mode. Mercure en Vierge et un Soleil en Sagittaire : des questions précises posées à une personne qui pense à grands traits. Mercure en Verseau et un Soleil en Taureau : un esprit qui veut repenser le système, face à une personne qui préfère garder ce qui marche.
+Avec Mercure chez l’une en carré du Soleil de l’autre, les deux signes partagent en général un même mode. Mercure en Vierge et un Soleil en Sagittaire : des questions précises posées à une personne qui pense à grands traits. Mercure en Verseau et un Soleil en Taureau : un esprit qui veut repenser le système, face à une personne qui préfère garder ce qui marche.
 
 Ce que la friction rend possible, c’est une pensée plus aiguisée des deux côtés. Les projets de la personne du Soleil rencontrent de vraies questions et en sortent mieux argumentés ; les idées de la personne de Mercure rencontrent une vie réelle et s’y mettent à l’épreuve. Aucune des deux ne laisse passer une réponse vague, ce qui fait de ce contact un bon allié pour relire, planifier, débattre et résoudre des problèmes ensemble.
 

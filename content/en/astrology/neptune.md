@@ -47,7 +47,7 @@ Neptune stays about fourteen years in a sign, which makes it one of the [generat
 
 Neptune is the modern ruler of [Pisces](/astrology/pisces/); before it was found, Pisces belonged to [Jupiter](/astrology/jupiter/), and traditional astrologers still read it that way. With [Uranus](/astrology/uranus/) and [Pluto](/astrology/pluto/), it's one of the three planets beyond Saturn. It speaks most clearly through the [Moon](/astrology/moon/) and [Venus](/astrology/venus/), the planets of feeling and of love.
 
-Its aspects are where it gets personal. With the [Moon conjunct Neptune](/astrology/moon-conjunct-neptune/), you tend to soak up other people's moods like weather. A [Sun square Neptune](/astrology/sun-square-neptune/) often describes someone who took a long time to see themselves clearly, and found a gift for imagination on the way. A [Venus trine Neptune](/astrology/venus-trine-neptune/) loves tenderly and sees the best in people, sometimes before it's there. And a [Mercury square Neptune](/astrology/mercury-square-neptune/) thinks in pictures more than lists: wonderful for stories, harder for small print.
+Reading Neptune turns personal in its aspects. With the [Moon conjunct Neptune](/astrology/moon-conjunct-neptune/), you tend to soak up other people's moods like weather. A [Sun square Neptune](/astrology/sun-square-neptune/) often describes someone who took a long time to see themselves clearly, and found a gift for imagination on the way. A [Venus trine Neptune](/astrology/venus-trine-neptune/) loves tenderly and sees the best in people, sometimes before it's there. And a [Mercury square Neptune](/astrology/mercury-square-neptune/) thinks in pictures more than lists: wonderful for stories, harder for small print.
 
 ## Neptune through the signs {#through-the-signs}
 
@@ -95,7 +95,7 @@ Its transits through the houses are slow and gentle: [Neptune transiting the 7th
 
 ## What held in my tests {#what-held}
 
-I checked Neptune like every other placement in [my notebook](/blog/i-tested-my-birth-chart/): its sign and its house, in my own chart first, then in family's, friends' and strangers' charts, with their consent. It wasn't one of the three that held far more often — [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/) held 75 to 90% of the time — and across everything I checked, about a third held. Neptune is the planet of wishful thinking, and my notebook had one rule against it: no half marks. So I read Neptune gently, I lean on its house and aspects, and I tell you when part of a reading rests on it. It's a notebook, not a study.
+I checked Neptune like every other placement in [my notebook](/blog/i-tested-my-birth-chart/): its sign and its house, in my own chart first, then in family's, friends' and strangers' charts, with their consent. Neptune wasn't among the three that held far more often — those were [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/), at 75 to 90% of the time — and out of everything I checked, about a third held. Neptune is the planet of wishful thinking, and my notebook had one rule against it: no half marks. So I read Neptune gently, I lean on its house and aspects, and I tell you when part of a reading rests on it. It's a notebook, not a study.
 
 ## Common myths {#myths}
 

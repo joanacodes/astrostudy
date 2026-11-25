@@ -36,7 +36,7 @@ Neptune was discovered in 1846, while it was crossing Aquarius, and in January 1
 
 [Aquarius](/astrology/aquarius/), fixed air, thinks about the many: the group, the network, the future people might share. With [Neptune](/astrology/neptune/) here, compassion widens to include people you'll never meet, and imagination is drawn to whatever could connect everyone: communities without borders, fairness on a large scale, a sense of belonging to one shared story. The sign is fixed, so it keeps faith with its ideals and doesn't trade them in when they become inconvenient.
 
-Aquarius has two rulers, and I read both. [Uranus](/astrology/uranus/), its modern ruler, shows where this dream of a connected world wants to try something new; [Saturn](/astrology/saturn/), the traditional ruler, shows where it has to build patiently. Read together, they describe the push and pull inside the placement: the wish to reinvent the world, and the patience it takes to change any part of it.
+This Neptune sits in a sign with two rulers, and I take both into account. [Uranus](/astrology/uranus/), its modern ruler, shows where this dream of a connected world wants to try something new; [Saturn](/astrology/saturn/), the traditional ruler, shows where it has to build patiently. Read together, they describe the push and pull inside the placement: the wish to reinvent the world, and the patience it takes to change any part of it.
 
 In [my notebook](/blog/i-tested-my-birth-chart/), placements weren't marked as a group: each got its own tick or cross, Neptune's sign and house included. Three of them held far more often than the rest: Saturn, Chiron and Lilith. Neptune wasn't among those three, and overall about a third held.
 

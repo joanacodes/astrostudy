@@ -44,13 +44,13 @@ Three placements bring most people here:
 
 - **[Sun in Taurus](/astrology/sun-in-taurus/):** born between about 20 April and 20 May. You grow by building what lasts — a skill, a home, a bond — and your sense of purpose rarely changes course on a whim.
 - **[Moon in Taurus](/astrology/moon-in-taurus/):** the Moon is exalted here, at its steadiest. You feel safe with routine, comfort and people you can count on, and your moods take their time to change, in both directions.
-- **[Taurus rising](/astrology/taurus-rising/):** you meet the world calmly and at your own pace, and people often find you reassuring before they know you. Venus becomes your [chart ruler](/astrology/chart-ruler/). A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Taurus rising](/astrology/taurus-rising/):** you meet the world calmly and at your own pace, and people often find you reassuring before they know you. Venus becomes your [chart ruler](/astrology/chart-ruler/). Taurus rising needs your [birth time](/blog/unknown-birth-time/): the sign coming up in the east changes about every two hours.
 
-Each of these is one part of the picture. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Taurus through the whole chart, beginning with where Venus sits.
+Each of these is one part of the picture. [My notebook](/blog/i-tested-my-birth-chart/) gave the Sun sign and the rising sign the same result, about a third of the time each, and the Moon, checked like every other placement, stayed outside the three that held far more often. So I read Taurus through the whole chart, beginning with where Venus sits.
 
 ## Its ruler: Venus {#ruler}
 
-A sign's ruler is the planet that's at home in it, the one that carries the sign's business into the rest of the chart. Taurus belongs to [Venus](/astrology/venus/): the Venus of comfort, beauty and value, while Libra, its other sign, gets the Venus of fairness and partnership. Wherever your Venus sits, by sign and house, shows where your Taurus side looks for security and pleasure. With Taurus on the cusp of the 2nd house and Venus in the 7th, say, your sense of security is bound up with a partner.
+The planet at home in Taurus is its ruler, the one that carries Taurus's business out to the rest of the chart. Taurus belongs to [Venus](/astrology/venus/): the Venus of comfort, beauty and value, while Libra, its other sign, gets the Venus of fairness and partnership. Wherever your Venus sits, by sign and house, shows where your Taurus side looks for security and pleasure. With Taurus on the cusp of the 2nd house and Venus in the 7th, say, your sense of security is bound up with a partner.
 
 Three more planets have a particular bond with Taurus:
 
@@ -75,7 +75,7 @@ A planet in Taurus slows down and settles; the house it sits in shows where that
 
 ## Taurus on a house cusp {#on-a-house-cusp}
 
-Every chart has Taurus somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Taurus opens a house, that's where you go slowly and want what lasts, and Venus, wherever it sits, carries the story on. Which house it is depends on your birth time.
+Every chart has Taurus somewhere in its twelve houses, usually on the cusp of one of them. Quadrant systems such as Placidus can give Taurus two house cusps, or no cusp at all when it is [intercepted](/astrology/intercepted-signs/) inside a house. Wherever Taurus opens a house, that's where you go slowly and want what lasts, and Venus, wherever it sits, carries the story on. Your birth time decides which house that is for Taurus.
 
 1. **[1st house](/astrology/taurus-rising/):** Taurus rising — a calm, steady presence; you take life at your own pace, and people find you reassuring.
 2. **[2nd house](/astrology/taurus-on-2nd-house-cusp/):** Taurus in its natural house — a patient relationship with money and possessions; you value quality, and keep what's good.
@@ -99,4 +99,4 @@ In [synastry](/synastry/), Taurus planets bring steadiness and loyalty: the pers
 - **“Taureans are lazy.”** Taurus moves at its own pace, and once it starts, it rarely stops. Slow to begin isn't the same as idle.
 - **“Taurus only cares about money and things.”** Taurus values what's real and lasting, and that includes people, time, and the work of looking after them.
 - **“Taurus never changes.”** Fixed signs hold a course; they change when the reasons are solid. Steadfast and stubborn are the same quality, seen from two sides.
-- **“Born on the cusp, you're half Aries.”** At the minute you were born, the Sun was in one sign or the other; within a day of a change, your birth time settles which. More on being [born on the cusp](/astrology/born-on-the-cusp/).
+- **“Born on the cusp, you're half Aries.”** At the minute of your birth the Sun was in Aries or in Taurus, never in both at once; within a day of the change, your birth time says which. Being [born on the cusp](/astrology/born-on-the-cusp/) has a page of its own.

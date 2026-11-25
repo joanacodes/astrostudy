@@ -48,7 +48,7 @@ So close together, edges dissolve. The Neptune person may imagine what the other
 
 Put words where the sensing was. The Moon person can say "I need" out loud, even when the other seems to know; the Neptune person can ask "is this what you want?" before giving. Time apart helps, too: an evening each, a friendship of one's own, a project that belongs to one person. In a couple that's protection, not distance; between relatives or close friends, it's what keeps the tenderness clear-eyed.
 
-About 1 pair of people in 11 has this conjunction, one way round or the other, within 8°. With some fourteen years to each sign, the Neptune person's Neptune is shared by people born across a decade and more; it becomes this meeting only because the other's Moon lands on it, and a Moon that travels some 13° a day lands or misses by the hour. Both birth times are needed, then, and both sets of houses ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 11 brings one person's Moon and the other's Neptune together within 8°, whichever of the two has the Moon. With some fourteen years to each sign, the Neptune person's Neptune is shared by people born across a decade and more; it becomes this meeting only because the other's Moon lands on it, and a Moon that travels some 13° a day lands or misses by the hour. Both birth times are needed, then, and both sets of houses ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 With more distance between them, the same two functions show other faces:
 

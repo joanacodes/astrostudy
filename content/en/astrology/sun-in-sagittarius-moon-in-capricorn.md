@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the new moon and the days after it" }
 ---
-Your Moon had already reached Capricorn, the sign the Sun enters at the December solstice, while your Sun was still in Sagittarius. You were born in the first days of a lunar month. I see the pair as a vision that needs scaffolding before it feels safe, with a long view on both sides.
+Your Moon had already reached Capricorn, the sign the Sun enters at the December solstice, while your Sun was still in Sagittarius. A lunar month was in its first days when you were born. I see the pair as a vision that needs scaffolding before it feels safe, with a long view on both sides.
 
 ## How they get along {#how-they-get-along}
 
@@ -40,7 +40,7 @@ The dignities weigh on the Moon's side. Tradition puts the Moon in its [detrimen
 
 You were born at the start of a lunar month. The Moon had moved up to 60° ahead of the Sun, up to about five days after the new moon, and if it showed at all it was a thin crescent low in the west at dusk. In the eight-phase count the [new moon](/astrology/new-moon/) phase takes seven of these births in eight, the [waxing crescent](/astrology/waxing-crescent/) the rest; at the very end of the range the lights make a waxing [Sun sextile Moon](/astrology/sun-sextile-moon/). I read a new moon birth as purpose and need still close together, and this one as a need for structure setting out alongside the vision. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains the phases.
 
-About 1 person in 148 has this pair. If the Moon entered Capricorn, or left it for Aquarius, on your birthday, the time decides between this page, the [Sun in Sagittarius, Moon in Sagittarius](/astrology/sun-in-sagittarius-moon-in-sagittarius/) and the [Sun in Sagittarius, Moon in Aquarius](/astrology/sun-in-sagittarius-moon-in-aquarius/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Born around 21 December, the same time may also decide whether your Sun is still in Sagittarius. Saturn's house and the rising sign need it as well.
+Of every 148 people, about 1 has the Sun in Sagittarius and the Moon in Capricorn. If the Moon entered Capricorn, or left it for Aquarius, on your birthday, the time decides between this page, the [Sun in Sagittarius, Moon in Sagittarius](/astrology/sun-in-sagittarius-moon-in-sagittarius/) and the [Sun in Sagittarius, Moon in Aquarius](/astrology/sun-in-sagittarius-moon-in-aquarius/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Born around 21 December, the same time may also decide whether your Sun is still in Sagittarius. Saturn's house and the rising sign need it as well.
 
 ## In close relationships {#in-close-relationships}
 

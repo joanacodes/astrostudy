@@ -32,7 +32,7 @@ Mars in the 10th house does its work where everyone can see it. Its ambition is 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Mars](/astrology/mars/) is drive, initiative and the will to win. [The 10th house](/astrology/10th-house/) is your public life: work, standing, reputation, and the direction you want your life to take in the world. It shows a direction, not a job title. With Mars here, ambition has energy behind it. You want to lead, to build something your own way, and to be known for what you do; competition at work can motivate you strongly, and so can the chance to prove yourself.
+[Mars](/astrology/mars/) is drive, initiative and the will to win. [The 10th house](/astrology/10th-house/) is your public life: work, standing, reputation, and the direction you want your life to take in the world. It points a way, without naming a job. With Mars here, ambition has energy behind it. You want to lead, to build something your own way, and to be known for what you do; competition at work can motivate you strongly, and so can the chance to prove yourself.
 
 It's angular, the house at the top of the chart, and its cusp is the [Midheaven](/astrology/midheaven/). When you were born, Mars was climbing towards the meridian, where its daily arc peaks. In Placidus and the other quadrant systems, the 10th begins at the Midheaven; in whole sign houses it's simply the tenth sign from the rising sign, so a Mars near the top of the chart can change house with the system ([which house system should I use?](/astrology/which-house-system-should-i-use/)). I read Placidus, which needs your exact birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 

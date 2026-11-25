@@ -40,7 +40,7 @@ La maison 1 est le point de départ d’un thème natal : la portion du zodiaqu
 
 Je lis la maison 1 comme la porte d’entrée d’un thème. Elle décrit votre corps et votre allure, votre premier réflexe, votre façon de commencer les choses et l’impression que vous laissez avant qu’on vous connaisse. Tout ce que contient le reste du thème sort par cette porte : c’est pour cela que je regarde ici avant tout le reste.
 
-- **Une maison angulaire.** C’est l’une des quatre maisons qui commencent aux angles du thème, et ce qui se trouve dans une maison angulaire se voit. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
+- **Une maison angulaire.** C’est l’une des quatre maisons qui commencent aux angles du thème, et ce qui se trouve dans une maison angulaire se voit. Les trois familles ont leur propre page : [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/).
 - **Son angle.** Sa cuspide est l’[ascendant](/astrology/ascendant/), le degré qui se levait à l’horizon est à votre naissance. En Placidus, le système de maisons que j’utilise, comme dans les autres systèmes par quadrants, l’ascendant marque le début de la maison 1 ; en maisons Whole Sign, la maison 1 est le signe ascendant tout entier (voir [Quel système de maisons choisir ?](/astrology/which-house-system-should-i-use/)).
 - **Son signe et sa planète naturels.** Le [Bélier](/astrology/aries/) et [Mars](/astrology/mars/) : les débuts, l’élan, le premier pas.
 - **La joie de Mercure.** Selon la tradition, [Mercure](/astrology/mercury/) se réjouit ici (voir [joies des planètes](/astrology/planetary-joys/)) : la planète de la pensée et de la parole, chez elle dans la maison du moi.

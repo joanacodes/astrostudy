@@ -37,7 +37,7 @@ L’essentiel d’une vie se passe en semaine, les jours ordinaires, et c’est 
 
 Si Mars occupe votre maison 6 natale, là où la tradition place la joie de Mars, la rencontre vient en chemin et demande de travailler avec plus de stratégie et moins de tension.
 
-La tradition appelait la maison 6 la Fortune défavorable et lui donnait la maladie. Je ne lis ni la maladie ni la santé dans aucun thème ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)), et rien dans ce transit n’annonce un diagnostic. Un [transit](/astrology/transits/) montre une saison dans vos habitudes et votre travail, la part de la maison 6 qui est entre vos mains.
+Pour la tradition, la maison 6 était la Fortune défavorable, et la maladie lui revenait. Je ne lis ni la maladie ni la santé dans aucun thème ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)), et rien dans ce transit n’annonce un diagnostic. Un [transit](/astrology/transits/) montre une saison dans vos habitudes et votre travail, la part de la maison 6 qui est entre vos mains.
 
 ## Combien de temps {#combien-de-temps}
 

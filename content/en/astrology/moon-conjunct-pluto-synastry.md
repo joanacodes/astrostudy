@@ -48,7 +48,7 @@ Sharing a degree, two intensities merge, and it can be hard to tell whose feelin
 
 Build trust slowly and on purpose. Talk about power plainly: who decides what, what stays private, what each of you needs to feel safe. Let change be invited, not imposed, and keep some of life separate: friends of your own, time alone, a place where nobody is examining anybody. In a couple, that's what keeps intensity from becoming possession; between close friends or relatives, it's what lets honesty stay kind.
 
-About 1 pair of people in 11 has this conjunction, one way round or the other, within 8°. Pluto's stay in a sign runs from 12 to 31 years, so the Pluto person shares its sign with a long run of births; the conjunction becomes personal only where the other's Moon lands on it. At roughly 13° a day, the Moon arrives on that degree or misses it within a few hours of birth, and both times are needed for the houses it falls in ([what changes without a birth time](/blog/unknown-birth-time/)).
+Take 11 pairs of people: about 1 will have one person's Moon on the other's Pluto, within 8°, either way round. Pluto's stay in a sign runs from 12 to 31 years, so the Pluto person shares its sign with a long run of births; the conjunction becomes personal only where the other's Moon lands on it. At roughly 13° a day, the Moon arrives on that degree or misses it within a few hours of birth, and both times are needed for the houses it falls in ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Further apart, depth and feeling work differently:
 

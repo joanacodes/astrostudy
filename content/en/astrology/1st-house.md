@@ -39,7 +39,7 @@ The 1st house is where a birth chart starts: the stretch of the zodiac that was 
 
 I read the 1st house as the front door of a chart. It describes your body and your manner, your first reaction, the way you start things and the impression you make before anyone knows you. Whatever the rest of the chart holds comes out through this door, so I look here first.
 
-- **An angular house.** It's one of the four houses that begin at the angles of the chart, and what sits in an angular house shows. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
+- **An angular house.** It's one of the four houses that begin at the angles of the chart, and what sits in an angular house shows. The three kinds have a page of their own: [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/).
 - **Its angle.** Its cusp is the [Ascendant](/astrology/ascendant/), the degree that was rising on the eastern horizon when you were born. In Placidus, the house system I use, and in the other quadrant systems, the Ascendant is where the 1st house begins; in whole sign houses, the 1st house is the whole of the rising sign ([which house system should I use?](/astrology/which-house-system-should-i-use/)).
 - **Its natural sign and planet.** [Aries](/astrology/aries/) and [Mars](/astrology/mars/): beginnings, drive, the first move.
 - **Mercury's joy.** Tradition said [Mercury](/astrology/mercury/) rejoices here ([planetary joys](/astrology/planetary-joys/)): the planet of thought and speech, at home in the house of the self.

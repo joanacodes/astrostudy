@@ -44,7 +44,7 @@ I read it as restlessness with a purpose: a mind that grows by changing its fram
 
 Counting within 6°, the conjunction concerns about 1 person in 27 born between 1930 and 2009, gathered in five windows: April to June 1941; August 1954 to June 1955; October 1968 to September 1969; December 1982 to November 1983; and January to March 1997. Jupiter, about 12 years round, laps Uranus, about 84, every fourteen years or so, and the windows last from about three months to about a year.
 
-On its own, then, it describes a cohort: Jupiter is a social planet and Uranus a generational one ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). Your own version lives in its house, and in any contact it makes with your Sun, Moon or angles. In the 3rd, it might show as a mind that learns by jumping between subjects; in the 6th, as daily work you keep reinventing; in the 7th, as partnerships that need room. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+On its own, then, it describes a cohort: Jupiter is a social planet and Uranus a generational one ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). Your own version lives in its house, and in any contact it makes with your Sun, Moon or angles. In the 3rd, it might show as a mind that learns by jumping between subjects; in the 6th, as daily work you keep reinventing; in the 7th, as partnerships that need room. To know its house, you need the time you were born ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The pair's other aspects mark other years:
 

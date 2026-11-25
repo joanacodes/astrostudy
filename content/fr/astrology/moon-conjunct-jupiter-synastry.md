@@ -54,7 +54,7 @@ Les autres angles écartent davantage les deux mêmes fonctions :
 
 Laissez certaines émotions rester petites. La personne qui a la Lune peut dire « juste de la compagnie ce soir » et être crue ; celle qui a Jupiter peut demander « des idées, ou une oreille ? » avant de chercher la vue d’ensemble. Dans un couple, cela veut dire des projets qui laissent de la place aux habitudes de l’autre ; entre amis ou entre frères et sœurs, une perspective offerte et une table de cuisine partagée ; au travail, des ambitions confrontées à ce dont l’autre a besoin pour bien travailler.
 
-Environ 1 paire de personnes sur 12 a cette conjonction, dans un sens ou dans l’autre, à 8° près. Les deux heures de naissance comptent : la Lune avance d’environ 13° par jour, si bien que l’heure peut la poser sur Jupiter ou la faire sortir de l’orbe, et sans les heures, il n’y a pas de maisons pour montrer où chaque vie accueille le contact ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Sans elles, je ne commence pas.
+Sur 12 paires de personnes, environ 1 voit la Lune de l’une rejoindre Jupiter chez l’autre à 8° près, quel que soit le sens. Les deux heures de naissance comptent : la Lune avance d’environ 13° par jour, si bien que l’heure peut la poser sur Jupiter ou la faire sortir de l’orbe, et sans les heures, il n’y a pas de maisons pour montrer où chaque vie accueille le contact ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Sans elles, je ne commence pas.
 
 Dans un seul thème, [Lune conjonction Jupiter](/astrology/moon-conjunct-jupiter/) décrit une personne dont le besoin et la croissance avancent d’un même pas ; ici, chacune des deux peut prendre du recul et voir l’autre.
 

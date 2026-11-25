@@ -61,6 +61,6 @@ Ailleurs dans la paire, l’invitation prend d’autres formes :
 
 Acceptez l’invitation à petites doses, une chose honnête à la fois : une préférence dite simplement, un refus qui ne s’accompagne pas d’excuses, un besoin nommé tôt. Invitez plutôt que de mettre au défi. Dans une fratrie adulte, on peut garder une soirée par mois pour se dire les choses franchement ; dans un couple, convenir que « je n’ai pas envie » est une phrase complète.
 
-Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. Avec si peu de marge, un sextile présent dans un thème calculé pour le matin peut avoir disparu le soir, car la Lune franchit quelque 13° en une journée ; la Lilith moyenne, elle, bouge à peine. C’est l’heure de chaque naissance qui décide, et c’est d’elle aussi que viennent les maisons concernées ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La Lune de l’une en sextile avec Lilith chez l’autre, à 4,8° près, se retrouve chez environ 1 paire de personnes sur 10, en comptant les deux sens. Avec si peu de marge, un sextile présent dans un thème calculé pour le matin peut avoir disparu le soir, car la Lune franchit quelque 13° en une journée ; la Lilith moyenne, elle, bouge à peine. C’est l’heure de chaque naissance qui décide, et c’est d’elle aussi que viennent les maisons concernées ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Dans un seul thème, [Lune sextile Lilith](/astrology/moon-sextile-lilith/) montre quelqu’un dont le réconfort et la part indomptée s’entraident déjà.

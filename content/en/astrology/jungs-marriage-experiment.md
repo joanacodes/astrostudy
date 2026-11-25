@@ -65,6 +65,6 @@ Jung was looking, in effect, for a signature of marriage in two charts. That's n
 
 Jung worked with pairs of horoscopes; my notebook worked with single charts, placement by placement. I checked every placement of my own chart, Sun, Moon, rising, each planet in its sign and house, with a tick or a cross, then did the same for family, friends and strangers, with their consent.
 
-Overall, about a third held: 30 to 40%. The Sun sign, the rising sign, Venus and Mercury, the placements everyone reads first, are among those. Saturn, Lilith and Chiron held 75 to 90% of the time.
+Taken together, about a third held: 30 to 40%. That's where the Sun sign, the rising sign, Venus and Mercury sit, the placements everyone reads first. Saturn, Lilith and Chiron were another matter, at 75 to 90% of the time.
 
 It's a notebook, not a study, and it proves nothing about astrology in general, about marriage or about anything else. It's simply why, when something in a reading rests on a placement that held less often in my tests, I tell you so. The method is in [my testing notes](/blog/i-tested-my-birth-chart/).

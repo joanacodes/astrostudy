@@ -34,7 +34,7 @@ Le Nœud Nord atteint votre maison 11 après votre maison 12, à reculons comme 
 
 ## Ce qui change {#ce-qui-change}
 
-Le [Nœud Nord](/astrology/north-node/) montre une croissance qui vient avec la pratique. La [maison 11](/astrology/11th-house/), c’est les amis, les groupes et les espoirs : les personnes avec qui vous bâtissez un avenir, et l’avenir que vous aimeriez bâtir. Avec le nœud ici, la pratique consiste à appartenir par choix : rejoindre quelque chose, offrir un savoir-faire à un but commun, entretenir les amitiés tournées vers l’avant.
+Le [Nœud Nord](/astrology/north-node/) montre une croissance qui vient avec la pratique. Les amis, les groupes et les espoirs, voilà de quoi parle la [maison 11](/astrology/11th-house/) : avec qui vous bâtissez un avenir, et l’avenir que vous espérez bâtir. Avec le nœud ici, la pratique consiste à appartenir par choix : rejoindre quelque chose, offrir un savoir-faire à un but commun, entretenir les amitiés tournées vers l’avant.
 
 Le [Nœud Sud](/astrology/south-node/), dans votre maison 5, connaît le numéro en solo : vos créations, votre plaisir, le fait d’être la personne qu’on regarde. C’est un vrai don. L’effort consiste à le mettre au service de quelque chose de plus grand qu’une seule scène.
 

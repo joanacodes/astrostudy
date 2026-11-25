@@ -41,7 +41,7 @@ Tradition was hard on the 12th. It gave it confinement, hidden enemies and hospi
 
 What tradition called hidden enemies, I usually read as what works against you without being seen: sometimes another person, more often a fear or a habit you haven't looked at yet. And a planet in the 12th isn't a symptom. A chart can't diagnose anything; [astrology and mental health](/astrology/astrology-and-mental-health/) is where I say what it can and can't do, and when the right door is someone else's.
 
-- **A cadent house.** It follows a succedent one, and cadent houses are read as places of adjusting, learning and passing things on: the 12th is where one round of the houses is let go before the next begins. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
+- **A cadent house.** It follows a succedent one, and cadent houses are read as places of adjusting, learning and passing things on: the 12th is where one round of the houses is let go before the next begins. All three kinds, the 12th's among them, are laid out in [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/).
 - **Its natural sign and planet.** [Pisces](/astrology/pisces/) and [Neptune](/astrology/neptune/), with [Jupiter](/astrology/jupiter/) as Pisces's traditional ruler: compassion, imagination, the softening of edges.
 - **The Bad Spirit.** Tradition gave it that name, and said [Saturn](/astrology/saturn/), the planet of time and limits, rejoices here ([planetary joys](/astrology/planetary-joys/)): the old planet of solitude, at ease in the house of retreat.
 - **Its opposite.** The [6th house](/astrology/6th-house/), which tradition called Bad Fortune: the 6th is the daily round you can see, the 12th what goes on out of sight.
@@ -67,7 +67,7 @@ Saturn, Chiron and Lilith are the placements I read most carefully: in [my noteb
 - **[Neptune in the 12th house](/astrology/neptune-in-12th-house/):** in the house of its own sign: a rich imagination, deep compassion, and a real need for solitude and boundaries.
 - **[Pluto in the 12th house](/astrology/pluto-in-12th-house/):** deep, private feelings; strength found in what you've faced quietly.
 
-No planet here? An [empty 12th house](/astrology/empty-houses/) doesn't mean you never need to be alone. It's read through the sign on its cusp and the place of its ruler, the next two sections.
+No planet here? An [empty 12th house](/astrology/empty-houses/) doesn't mean you never need to be alone. Its reading comes from the sign on its cusp and from where its ruler is placed, which the next two sections cover.
 
 ## The sign on its cusp {#sign-on-the-cusp}
 
@@ -88,7 +88,7 @@ The sign on the cusp of the 12th house describes how you retreat and recover, an
 
 ## Its ruler {#ruler}
 
-The ruler of the 12th house is the planet that rules the sign on its cusp, and where it sits shows where the 12th's quiet work plays out: the part of life you retreat into, or the one you serve without being seen. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
+The ruler of the 12th house is the planet that rules the sign on its cusp, and where it sits shows where the 12th's quiet work plays out: the part of life you retreat into, or the one you serve without being seen. When the 12th opens in Scorpio, Aquarius or Pisces, it has a modern ruler and a traditional one, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/12th-house-ruler-in-1st-house/):** your inner life shows in your manner; a quiet, sensitive presence.
 2. **[In the 2nd house](/astrology/12th-house-ruler-in-2nd-house/):** private worries about security; money earned behind the scenes, or spent on rest and calm.

@@ -41,7 +41,7 @@ Neptune n’a pas de dignité en Taureau. [Vénus](/astrology/venus/), maîtress
 
 Neptune était en Taureau pour la dernière fois de juin 1874 à mars 1889, avec des allers-retours avec le Bélier au début et avec les Gémeaux à la fin, et y revient de mai 2038 à mai 2052. Pas une seule naissance de 1930 à 2009 n’a ce placement. Dans l’ordre des générations, Neptune en Taureau vient entre [Neptune en Bélier](/astrology/neptune-in-aries/), le signe des naissances actuelles, et [Neptune en Gémeaux](/astrology/neptune-in-gemini/), qui suit à partir de 2051. Pour les personnes nées avec ce placement à partir de 2038, la maison sera, le moment venu, ce qui en fera un placement personnel. Ce qui suit, c’est ma lecture du signe en principe.
 
-Mon [carnet](/blog/i-tested-my-birth-chart/) a vérifié Neptune comme chaque placement. Neptune ne figure pas parmi les trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith ; sur tout le carnet, environ un tiers a tenu.
+Dans mon [carnet](/blog/i-tested-my-birth-chart/), Neptune a eu droit à la même vérification que tous les autres placements. Neptune ne figure pas parmi les trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith ; sur tout le carnet, environ un tiers a tenu.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

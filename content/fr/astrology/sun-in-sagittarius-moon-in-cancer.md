@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’écart entre la Lune et le Soleil" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "la pleine lune et les jours décroissants qui la suivent" }
 ---
-La tradition place l’exaltation de Jupiter en Cancer, et Jupiter gouverne le Sagittaire : avec ce duo, la planète à laquelle répond votre Soleil est honorée dans le signe de votre Lune. Votre naissance a suivi de peu une pleine lune. Ce duo se lit pour moi comme une vie de voyage avec un port d’attache, un moi large qui grandit en prenant soin des autres.
+La tradition place l’exaltation de Jupiter en Cancer, et Jupiter gouverne le Sagittaire : avec ce duo, la planète à laquelle répond votre Soleil est honorée dans le signe de votre Lune. À votre naissance, la pleine lune venait tout juste de passer. Ce duo se lit pour moi comme une vie de voyage avec un port d’attache, un moi large qui grandit en prenant soin des autres.
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 

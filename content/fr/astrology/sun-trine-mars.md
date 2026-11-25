@@ -38,7 +38,7 @@ Votre sens de vous-même et de votre chemin, c’est le [Soleil](/astrology/sun/
 
 Concrètement, quand vous savez ce que vous voulez, l’énergie pour y aller est en général là, et elle va dans la bonne direction. Vous pouvez travailler dur sans avoir l’impression de lutter contre vous-même ; rivaliser, défendre une limite ou repartir de zéro semblent naturels plutôt que coûteux. Le courage, avec ce trigone, ressemble moins à de l’audace qu’à une façon d’avancer, tout simplement.
 
-L’aisance n’est pas une garantie, et la fluidité n’est pas la passivité. Le piège de ce trigone, c’est de n’avoir jamais eu à pousser là où rien ne coule : la tâche qui demande un effort que vous ne sentez pas, le moment où votre énergie et votre visée ne s’accordent pas. Je lis ce trigone au meilleur chez les personnes qui ont appris à s’en servir délibérément, et à continuer les jours où le trigone ne les porte pas.
+Avec Soleil trigone Mars, facile ne veut pas dire acquis d’avance, et fluide ne veut pas dire inactif. Le piège de ce trigone, c’est de n’avoir jamais eu à pousser là où rien ne coule : la tâche qui demande un effort que vous ne sentez pas, le moment où votre énergie et votre visée ne s’accordent pas. Je lis ce trigone au meilleur chez les personnes qui ont appris à s’en servir délibérément, et à continuer les jours où le trigone ne les porte pas.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 

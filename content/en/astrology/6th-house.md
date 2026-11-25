@@ -41,7 +41,7 @@ I read the 6th house as the shape of an ordinary day. It covers the work you do 
 
 Tradition gave the 6th illness and called it Bad Fortune. I don't read illness in a chart: no chart can diagnose or predict a health problem, and anything about your health belongs with a doctor ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). What I read here is how you work and how you care for yourself.
 
-- **A cadent house.** It follows a succedent one, and cadent houses are read as places of adjusting and maintaining: the 6th keeps things running. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
+- **A cadent house.** It follows a succedent one, and cadent houses are read as places of adjusting and maintaining: the 6th keeps things running. The three kinds, cadent like the 6th, angular and succedent, are explained in [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/).
 - **Its natural sign and planet.** [Virgo](/astrology/virgo/) and [Mercury](/astrology/mercury/): method, detail, usefulness.
 - **Bad Fortune.** Tradition gave it that name and said [Mars](/astrology/mars/) rejoices here ([planetary joys](/astrology/planetary-joys/)): the planet of effort, at home in the house of toil.
 - **Its opposite.** The [12th house](/astrology/12th-house/), which tradition called Bad Spirit, where Saturn has its joy: the 6th is the daily round you can see, the 12th what goes on out of sight.
@@ -54,7 +54,7 @@ Like every house, the 6th is placed by your birth time: without it, no one can s
 
 A planet in the 6th house works for its living: it shows in your job, your habits and the way you look after yourself.
 
-Saturn, Chiron and Lilith held 75 to 90% of the time in [my notebook](/blog/i-tested-my-birth-chart/), against about a third for most placements. If Saturn, [Chiron in the 6th house](/astrology/chiron-in-6th-house/) or [Lilith in the 6th house](/astrology/lilith-in-6th-house/) sits here, the way you work — and whether you know when to stop — is where I'd spend the most time in a reading.
+Most placements held about a third of the time in [my notebook](/blog/i-tested-my-birth-chart/); Saturn, Chiron and Lilith held 75 to 90% of the time. If Saturn, [Chiron in the 6th house](/astrology/chiron-in-6th-house/) or [Lilith in the 6th house](/astrology/lilith-in-6th-house/) sits here, the way you work — and whether you know when to stop — is where I'd spend the most time in a reading.
 
 - **[Sun in the 6th house](/astrology/sun-in-6th-house/):** you shine through useful, well-made daily work.
 - **[Moon in the 6th house](/astrology/moon-in-6th-house/):** a day that runs well is how you feel safe; you look after others almost without thinking.
@@ -88,7 +88,7 @@ The sign on the cusp of the 6th house gives your days their style: how you work,
 
 ## Its ruler {#ruler}
 
-The ruler of the 6th house is the planet that rules the sign on its cusp. Where it sits shows where your daily work and routines go: the part of life your effort serves. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
+The ruler of the 6th house is the planet that rules the sign on its cusp. Where it sits shows where your daily work and routines go: the part of life your effort serves. If the 6th begins in Scorpio, Aquarius or Pisces, it has both a modern and a traditional ruler, and I read each of them ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/6th-house-ruler-in-1st-house/):** you're known for how you work; effort is part of who you are.
 2. **[In the 2nd house](/astrology/6th-house-ruler-in-2nd-house/):** daily work as a livelihood; skills that pay.

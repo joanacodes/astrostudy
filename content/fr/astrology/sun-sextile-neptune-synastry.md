@@ -52,7 +52,7 @@ Sur environ quatorze années, les naissances ont Neptune dans le même signe : 
 
 Donnez une forme concrète à une inspiration : une date dans l’agenda, un premier jet, une visite réservée. La personne qui a Neptune peut dire simplement ce qu’elle espère ; celle qui a le Soleil peut demander « qu’est-ce que tu voulais dire ? » au lieu de deviner. Un couple peut garder un petit rituel qui a du sens pour les deux ; des amis, une série de concerts ou une cause pour laquelle s’engager ; une famille, une tradition dont on dit le sens à voix haute ; des collègues, une phrase sur la raison d’être du projet, écrite là où tout le monde la voit.
 
-Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. Avec un orbe aussi étroit, un contact proche de sa limite peut dépendre de l’heure de naissance, puisque le Soleil avance d’un degré environ en une journée ; les maisons, qui montrent où l’inspiration arrive dans chaque vie, en dépendent toujours, et j’attends les deux heures avant de les lire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Chez environ 1 paire de personnes sur 10, le Soleil d’un thème forme ce sextile avec Neptune dans l’autre, à 4,8° près, dans un sens comme dans l’autre. Avec un orbe aussi étroit, un contact proche de sa limite peut dépendre de l’heure de naissance, puisque le Soleil avance d’un degré environ en une journée ; les maisons, qui montrent où l’inspiration arrive dans chaque vie, en dépendent toujours, et j’attends les deux heures avant de les lire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Changez d’angle, et le contact change :
 

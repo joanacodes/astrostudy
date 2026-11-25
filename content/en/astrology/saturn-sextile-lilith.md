@@ -42,7 +42,7 @@ In daily life it tends to show as a practical way of being yourself. You find fo
 
 About 1 person in 17 has Saturn within 6° of a sextile to mean Lilith. That's the count with mean Lilith; the true, osculating Lilith swings far from it, and can remove the aspect or add one ([which Lilith is mine?](/astrology/which-lilith-is-mine/)). Because Lilith covers a sign in about nine months and Saturn in about two and a half years, it's Lilith that brings the sextile in and out of orb, a few months at a time. Close to exact, the cooperation is easy to see; near 6°, it shows mainly when a rule and an instinct need a compromise.
 
-A sextile usually links compatible elements. Saturn in Capricorn sextile Lilith in Scorpio, earth and water, can make a private, determined self-rule durable; Saturn in Libra sextile Lilith in Leo, air and fire, can give a proud refusal a fair shape. By house, the door opens somewhere specific: Saturn in the 4th sextile Lilith in the 6th might protect, at home, the habits that let you work your own way. All of that needs a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+A sextile usually links compatible elements. Saturn in Capricorn sextile Lilith in Scorpio, earth and water, can make a private, determined self-rule durable; Saturn in Libra sextile Lilith in Leo, air and fire, can give a proud refusal a fair shape. By house, the door opens somewhere specific: Saturn in the 4th sextile Lilith in the 6th might protect, at home, the habits that let you work your own way. Each of those readings rests on a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The other ways Saturn and Lilith meet:
 

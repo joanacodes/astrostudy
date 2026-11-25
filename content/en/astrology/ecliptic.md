@@ -62,5 +62,5 @@ Two things follow that I keep in mind. The angles and the houses come from where
 
 - **“The ecliptic is the sky's equator.”** That's the celestial equator. The ecliptic is the Sun's yearly path, tilted about 23.4° to it.
 - **“The planets sit exactly on the zodiac line.”** They wander a little north and south of it, the Moon by up to about five degrees. A chart records their longitude and sets the rest aside.
-- **“The Midheaven is the point straight overhead.”** It's where the ecliptic crosses the meridian, which is rarely the point overhead.
+- **“The Midheaven sits directly above your head.”** It's where the ecliptic crosses the meridian, which is rarely the point overhead.
 - **“There's an eclipse at every new and full moon.”** Only when the lunation falls near one of the nodes, which happens roughly twice a year, in the [eclipse seasons](/astrology/eclipse-seasons/).

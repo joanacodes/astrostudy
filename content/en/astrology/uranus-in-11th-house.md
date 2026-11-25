@@ -35,7 +35,7 @@ Some people find their circle at school or at work. With Uranus in the 11th hous
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 11th house](/astrology/11th-house/) is friends, groups and hopes: the people you build a future with, and the future you'd like to build. Succedent, it was the Good Spirit of the Hellenistic astrologers, who placed Jupiter's joy in it. Its natural sign is Aquarius, which modern tropical astrology gives to [Uranus](/astrology/uranus/) and the tradition to Saturn, so Uranus here sits in the house that echoes its own sign. Dignities belong to signs rather than houses, but the fit is easy to feel: innovation, autonomy and systems thinking at work in your friendships and causes.
+[The 11th house](/astrology/11th-house/) gathers friends, groups and hopes: the people building a future alongside you, and the future you want to build. Succedent, it was the Good Spirit of the Hellenistic astrologers, who placed Jupiter's joy in it. Its natural sign is Aquarius, which modern tropical astrology gives to [Uranus](/astrology/uranus/) and the tradition to Saturn, so Uranus here sits in the house that echoes its own sign. Dignities belong to signs rather than houses, but the fit is easy to feel: innovation, autonomy and systems thinking at work in your friendships and causes.
 
 Placidus, my house system, shows Uranus climbing in the east when you were born, a few hours after rising. That position comes from the hour, not the year, so your [birth time](/blog/unknown-birth-time/) is what puts Uranus in this house rather than the 10th or the 12th. [Uranus in the 10th house](/astrology/uranus-in-10th-house/) takes the same independence into public life, and [Uranus in the 12th house](/astrology/uranus-in-12th-house/) into private.
 

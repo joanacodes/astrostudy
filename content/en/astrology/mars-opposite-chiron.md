@@ -42,7 +42,7 @@ The two ends aren't at war. With time, this opposition usually teaches a particu
 
 ## In a birth chart {#in-a-birth-chart}
 
-The two bodies then sit in signs facing each other, alike in modality and complementary in element. Mars in Capricorn, disciplined and aimed at the long game, across from Chiron in Cancer, where the tender place is belonging, might make work the way you avoid the question of home, or the way you finally answer it. The houses show the two ends in your life: across the 1st and 7th, between asserting yourself and what partnership stirs up; across the 2nd and 8th, between what you earn by your own effort and what you share with others. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The two bodies then sit in signs facing each other, alike in modality and complementary in element. Mars in Capricorn, disciplined and aimed at the long game, across from Chiron in Cancer, where the tender place is belonging, might make work the way you avoid the question of home, or the way you finally answer it. The houses show the two ends in your life: across the 1st and 7th, between asserting yourself and what partnership stirs up; across the 2nd and 8th, between what you earn by your own effort and what you share with others. Mars's house and Chiron's both come from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 About 1 person in 34 has Mars within 6° of an exact opposition to Chiron. Tight, the two ends seem to trigger each other often; near 6°, the balancing happens mostly when life asks for it.
 

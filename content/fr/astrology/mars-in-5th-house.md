@@ -37,7 +37,7 @@ Mars en maison 5 fait du jeu une compétition et du plaisir une conquête. Tout 
 
 C’est une maison succédente, que la tradition appelait la Fortune favorable et où elle plaçait la joie de Vénus , et ce placement se retrouve ainsi dans la maison même du plaisir de Vénus, où le désir et le plaisir se distinguent mal. Son signe naturel est le Lion. De l’autre côté du thème, la maison 11, celle des amis et des groupes, rappelle que vos plaisirs peuvent parfois tirer contre vos loyautés.
 
-La tradition donnait aussi les enfants à la maison 5. Je ne lis pas cela dans un thème : aucun ne peut dire ni si ni quand une personne aura un enfant ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis jamais [le thème des enfants](/astrology/childrens-charts/). Ici, je lis votre propre jeu et votre propre créativité, en adulte.
+Les textes anciens plaçaient aussi les enfants en maison 5. Je ne lis pas cela dans un thème : aucun ne peut dire ni si ni quand une personne aura un enfant ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis jamais [le thème des enfants](/astrology/childrens-charts/). Ici, je lis votre propre jeu et votre propre créativité, en adulte.
 
 Comme toute maison, la maison 5 repose sur l’heure de naissance. Je calcule les maisons en Placidus, et avec une heure connue seulement à peu près, une planète proche d’une pointe peut appartenir à la maison voisine ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). [Mars en maison 4](/astrology/mars-in-4th-house/) défend un foyer ; [Mars en maison 6](/astrology/mars-in-6th-house/), dans sa joie, abat le travail.
 

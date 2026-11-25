@@ -40,7 +40,7 @@ I read the 4th house as the ground you stand on. It covers home — the one you 
 
 I read it gently. The 4th describes your experience of home and family, what it felt like from inside; it says nothing certain about anyone's parents. Older books give it a parent, and astrologers have never agreed which one. The people who raised you have charts of their own.
 
-- **An angular house.** It's one of the four houses that begin at the angles, and what sits here is strong, even when it works out of sight. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
+- **An angular house.** It's one of the four houses that begin at the angles, and what sits here is strong, even when it works out of sight. Each of the three kinds, with the houses that belong to it, is on [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/).
 - **Its angle.** Its cusp is the [Imum Coeli](/astrology/imum-coeli/), or IC: the point of the zodiac opposite the [Midheaven](/astrology/midheaven/), at the bottom of the chart. In Placidus and the other quadrant systems, the IC is where the 4th house begins ([which house system should I use?](/astrology/which-house-system-should-i-use/)).
 - **Its natural sign and planet.** [Cancer](/astrology/cancer/) and the [Moon](/astrology/moon/): shelter, need, memory.
 - **Its opposite.** The [10th house](/astrology/10th-house/), career and public life: the 10th is what the world sees of you, the 4th what goes on behind your own front door.
@@ -53,7 +53,7 @@ The IC goes round the whole zodiac in a day, like the Ascendant, so the 4th hous
 
 A planet in the 4th house lives at home: it shows in your private life, your family patterns and what you need in order to belong. It's often quieter in public than its strength would suggest.
 
-Saturn, Chiron and Lilith held 75 to 90% of the time in [my notebook](/blog/i-tested-my-birth-chart/), against about a third for most placements. If Saturn, [Chiron in the 4th house](/astrology/chiron-in-4th-house/) or [Lilith in the 4th house](/astrology/lilith-in-4th-house/) sits here, I take that part of a reading slowly: belonging is tender ground.
+When I tested my own chart in [my notebook](/blog/i-tested-my-birth-chart/), Saturn, Chiron and Lilith held 75 to 90% of the time, against about a third for most placements. If Saturn, [Chiron in the 4th house](/astrology/chiron-in-4th-house/) or [Lilith in the 4th house](/astrology/lilith-in-4th-house/) sits here, I take that part of a reading slowly: belonging is tender ground.
 
 - **[Sun in the 4th house](/astrology/sun-in-4th-house/):** home and family are where you find your purpose; your best self is often the private one.
 - **[Moon in the 4th house](/astrology/moon-in-4th-house/):** in the house of its own sign: a deep need for a nest, and a long memory for where you come from.

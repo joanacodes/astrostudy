@@ -36,7 +36,7 @@ Neptune trigone Pluton est l’angle confortable entre les deux planètes les pl
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Neptune](/astrology/neptune/) est l’endroit où un thème rêve et compatit : imaginer quelque chose de plus grand, ressentir ce que ressentent les autres, laisser s’adoucir les bords trop raides. [Pluton](/astrology/pluto/) est l’endroit où le thème se renouvelle par les profondeurs : ce qui a fait son temps s’en va, et ce qui reste revient plus fort. Un [trigone](/astrology/trine/) les met en courant : chaque fonction nourrit l’autre sans cesser d’être elle-même.
+[Neptune](/astrology/neptune/) est l’endroit où un thème rêve et compatit : imaginer quelque chose de plus grand, ressentir ce que ressentent les autres, laisser s’adoucir les bords trop raides. [Pluton](/astrology/pluto/) est l’endroit où le thème se renouvelle par les profondeurs : ce qui a fait son temps s’en va, et ce qui reste revient plus fort. Par un [trigone](/astrology/trine/), les deux fonctions coulent ensemble : chacune renforce l’autre et reste ce qu’elle est.
 
 Concrètement, le changement viendrait par l’inspiration plutôt que par la crise, et l’inspiration aurait des racines. Une vision préparerait sans bruit le terrain d’un vrai renouveau ; un changement profond arriverait déjà chargé de sens. Le cadeau du trigone, c’est que tout cela se fait sans bataille. Son risque, pour cette paire surtout, c’est que cela se fasse sans qu’on le remarque : une transformation si naturelle que vous ne mesurez jamais le chemin parcouru, ou des idéaux portés si facilement que personne ne les met à l’épreuve. L’aisance n’est pas l’inaction. J’y lirais un courant que vous pouvez choisir de suivre.
 

@@ -42,7 +42,7 @@ It isn't. Development doesn't erase existing capacity, and growing towards the N
 
 ## In a birth chart {#in-a-birth-chart}
 
-The signs show what the practised drive is, and what it's asked to learn. With the North Node in Libra and Mars on the South Node in Aries, going it alone is the familiar skill and acting with someone the growth; with the North Node in Taurus and Mars in Scorpio, a practised intensity is asked to make room for calm and steady pleasures. The houses say where: if Mars and the South Node share the 10th house, ambition may come easily while home, across the chart in the 4th, is the less practised art. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The signs show what the practised drive is, and what it's asked to learn. With the North Node in Libra and Mars on the South Node in Aries, going it alone is the familiar skill and acting with someone the growth; with the North Node in Taurus and Mars in Scorpio, a practised intensity is asked to make room for calm and steady pleasures. The houses say where: if Mars and the South Node share the 10th house, ambition may come easily while home, across the chart in the 4th, is the less practised art. Which pair of houses the opposition spans depends on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 About 1 person in 29 is born with Mars within 6° of the South Node, which is the same as opposing the North Node, using the true node. I also check the mean node, since it can move the result by a degree or two. Tight, the familiar drive is the first thing people meet in you; wide, it's one strength among several.
 

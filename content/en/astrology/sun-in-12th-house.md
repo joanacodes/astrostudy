@@ -34,7 +34,7 @@ The Sun had only just risen when you were born, low in the east, in the house tr
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 12th house](/astrology/12th-house/) is what happens out of sight: solitude, rest, quiet work, the care given or received without being seen, and the inner life. The last of the cadent houses, with Pisces as its natural sign, it was called the Bad Spirit, and tradition gave Saturn its joy here. The [Sun](/astrology/sun/)'s work in this house is done inwardly. You may know yourself best alone, and find that your sense of direction comes from a private conviction rather than from anything you could easily explain.
+[The 12th house](/astrology/12th-house/) keeps the part of life that goes on unseen: time alone, rest, quiet work, care given or received with no one watching, and the inner life. The last of the cadent houses, with Pisces as its natural sign, it was called the Bad Spirit, and tradition gave Saturn its joy here. The [Sun](/astrology/sun/)'s work in this house is done inwardly. You may know yourself best alone, and find that your sense of direction comes from a private conviction rather than from anything you could easily explain.
 
 Tradition gave the 12th confinement, hidden enemies and sorrow. I don't read any of that as a forecast, and no chart can say whether anyone will be isolated or unwell ([astrology and mental health](/astrology/astrology-and-mental-health/)). For an adult, I read this house as the life you live inside, and the work you do where no one is watching.
 

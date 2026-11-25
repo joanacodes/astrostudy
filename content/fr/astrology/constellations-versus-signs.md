@@ -62,5 +62,5 @@ Quand votre thème place le Soleil à 12° du Bélier, il vous donne donc deux i
 
 - **« Les astrologues ignorent la précession. »** Hipparque l’a remarquée il y a plus de deux mille ans, et Ptolémée comptait toujours les signes depuis l’équinoxe. Le zodiaque tropical suit les saisons, et c’est voulu.
 - **« Votre vrai signe, c’est la constellation derrière le Soleil. »** C’est un fait sur les étoiles derrière le Soleil. Votre signe, c’est la saison de votre naissance, et c’est sur elle que se construit un thème.
-- **« Le zodiaque sidéral utilise les vraies constellations. »** Il ancre douze signes égaux aux étoiles ; il ne suit pas non plus les frontières inégales des constellations.
+- **« Le zodiaque sidéral repose sur les constellations réelles. »** Il ancre douze signes égaux aux étoiles ; il ne suit pas non plus les frontières inégales des constellations.
 - **« La précession change peu à peu le signe de tout le monde. »** Elle change les étoiles qui se tiennent derrière chaque signe. Dans le zodiaque tropical, le Bélier commence chaque année à l’équinoxe de mars, et il en sera toujours ainsi.

@@ -58,6 +58,6 @@ The other angles of the pair handle taste and growth differently:
 
 Say yes to one thing, and then say what you liked about it. The Jupiter person can ask before recommending; the Venus person can open a door or two in return, so the exchange goes both ways. In a couple, take turns choosing the next new thing to try.
 
-About 1 pair of people in 13 has this sextile, one way round or the other, within 3.6°. Venus moves little more than a degree a day and Jupiter far less, so the hour of birth matters only at the sextile's very edge; the houses where the invitations land need both times ([what changes without a birth time](/blog/unknown-birth-time/)). Its effects are mostly seen in hindsight: the person whose suggestions, added up, changed your shelves, your holidays, your work.
+Venus on one side and Jupiter on the other, in either order, make this sextile within 3.6° for about 1 pair of people in 13. Venus moves little more than a degree a day and Jupiter far less, so the hour of birth matters only at the sextile's very edge; the houses where the invitations land need both times ([what changes without a birth time](/blog/unknown-birth-time/)). Its effects are mostly seen in hindsight: the person whose suggestions, added up, changed your shelves, your holidays, your work.
 
 In one person's chart, [Venus sextile Jupiter](/astrology/venus-sextile-jupiter/) turns enjoyment into learning without outside help. Between two charts, someone else holds the door.

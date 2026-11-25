@@ -40,7 +40,7 @@ La maison 11 est l’endroit où le thème s’ouvre aux autres, au pluriel. Non
 
 Je lis la maison 11 comme la maison de l’appartenance et de l’avenir. Les amis, surtout ceux que l’on choisit plutôt qu’on n’en hérite ; les groupes, les équipes, les réseaux et les communautés dont vous faites partie ; les personnes qui vous aident sans y être obligées ; et les espoirs et les projets que vous aimeriez mener à bien. C’est là que vous vous demandez *qui sont les miens ?* et *vers quoi allons-nous ensemble ?*
 
-- **Une maison succédente.** Elle suit un angle, et les maisons succédentes sont celles où les choses se posent et s’accumulent : ce que vous accomplissez en maison 10, vous le partagez et le faites vivre avec les autres en maison 11. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
+- **Une maison succédente.** Elle suit un angle, et les maisons succédentes sont celles où les choses se posent et s’accumulent : ce que vous accomplissez en maison 10, vous le partagez et le faites vivre avec les autres en maison 11. Les trois familles, et ce qui fait de la maison 11 une succédente, sont présentées sur la page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/).
 - **Son signe et sa planète naturels.** Le [Verseau](/astrology/aquarius/) et [Uranus](/astrology/uranus/), avec [Saturne](/astrology/saturn/) pour maître traditionnel du Verseau : la communauté, l’indépendance, le regard qui porte loin.
 - **Le Génie favorable.** La tradition lui donnait ce nom et la comptait parmi les maisons fastes : celle des amis, des espoirs et des bienfaiteurs. [Jupiter](/astrology/jupiter/), la planète de la croissance et de la générosité, s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)).
 - **Son opposée.** La [maison 5](/astrology/5th-house/) : la maison 5, c’est ce que vous savourez pour vous et avec les personnes que vous aimez ; la maison 11, ce que vous partagez avec beaucoup.
@@ -87,7 +87,7 @@ Le signe sur la cuspide de la maison 11 décrit votre façon de vous faire des a
 
 ## Son maître {#maitre}
 
-Le maître de la maison 11 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se jouent vos amitiés et vos espoirs : là où vous trouvez les vôtres, et ce que vous bâtissez avec eux. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 11 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se jouent vos amitiés et vos espoirs : là où vous trouvez les vôtres, et ce que vous bâtissez avec eux. Votre maison 11 reçoit un maître moderne et un maître traditionnel si le Scorpion, le Verseau ou les Poissons sont sur sa cuspide, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/11th-house-ruler-in-1st-house/) :** vos amis façonnent qui vous êtes ; vous incarnez souvent ce que votre groupe défend.
 2. **[En maison II](/astrology/11th-house-ruler-in-2nd-house/) :** les amitiés et les réseaux touchent à ce que vous gagnez et à ce qui compte pour vous.

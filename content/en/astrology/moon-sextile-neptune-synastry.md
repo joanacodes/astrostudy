@@ -48,7 +48,7 @@ A sextile's gift can stay a gift unopened. The Neptune person may drift into rev
 
 Create something together. A shared playlist, a photo album, a garden, a cooking ritual: anything that gives the imagination a form and the feelings a place. The Moon person can spell out what would comfort them; the Neptune person can turn that into something lovely, then check it's still what was asked for. A couple might keep a creative habit; relatives might share a tradition of storytelling; coworkers can bring imagination to how a team looks after itself.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. Neptune's side of it is common property, since it stays some fourteen years in each sign; the Moon's side is a matter of days and hours, and that's the side that belongs to the two of you. With an orb under 5°, the Moon's daily 13° or so settles it within hours, and the houses, which say where imagination meets feeling in each life, need both birth times too ([why I wait for the time](/blog/unknown-birth-time/#why-i-wait-for-the-time)).
+Within 4.8°, roughly 1 pair of people in 10 has a Moon sextile Neptune between them, whichever way round. Neptune's side of it is common property, since it stays some fourteen years in each sign; the Moon's side is a matter of days and hours, and that's the side that belongs to the two of you. With an orb under 5°, the Moon's daily 13° or so settles it within hours, and the houses, which say where imagination meets feeling in each life, need both birth times too ([why I wait for the time](/blog/unknown-birth-time/#why-i-wait-for-the-time)).
 
 Change the angle, and imagination meets feeling another way:
 

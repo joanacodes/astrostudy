@@ -38,7 +38,7 @@ Leo is the natural sign of the 5th. The house is succedent, following the 4th; i
 
 This Lilith refuses to enjoy things in the approved way. It won't make its art agreeable, its fun respectable or its love conventional just to be allowed them. The boundary here protects play: free time that stays free, work made for its own sake, a love that's chosen rather than arranged.
 
-Tradition also gave the 5th children. I don't read them there: a chart can't tell anyone if or when a child will come ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I never read [children's charts](/astrology/childrens-charts/). In the 5th I read your own joy, as an adult.
+Children, too, belonged to the 5th in older astrology. I don't read them there: a chart can't tell anyone if or when a child will come ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I never read [children's charts](/astrology/childrens-charts/). In the 5th I read your own joy, as an adult.
 
 You'll need your birth time for this one, as for every house ([what changes without a birth time](/blog/unknown-birth-time/)); I read houses in Placidus. The house before, [Lilith in the 4th house](/astrology/lilith-in-4th-house/), keeps its hidden part at home; the house after, [Lilith in the 6th house](/astrology/lilith-in-6th-house/), in the daily routine. In the 5th, it hides in the hours that were meant to be free.
 

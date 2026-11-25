@@ -37,7 +37,7 @@ Le 26 juin 2029, la Lune sera éclipsée à 4°49′ du Capricorne, dix-neuf ans
 
 Le [Capricorne](/astrology/capricorn/) est un signe de terre cardinal gouverné par Saturne : la structure, la responsabilité, le travail des années. Ses éclipses tombent sur l’axe Capricorne–Cancer, le monde public et la vie privée, le devoir et le soin, en alternance avec celles du Cancer au fil des nœuds. La seule [éclipse solaire](/astrology/solar-eclipses/) totale en Capricorne de ma liste, le 26 décembre 2038 à 4°19′, réunira ici le Soleil et la Lune ; l’[éclipse lunaire](/astrology/lunar-eclipses/) du 26 juin 2029 opposera la pleine Lune en Capricorne au Soleil en Cancer.
 
-Dans un thème, je m’en tiens à la règle AGS : une éclipse compte à environ trois degrés d’une planète, d’un angle ou d’un nœud natal, à l’un ou l’autre bout de son axe, et je la lis à travers ce point et sa maison. Cinq des vingt éclipses du Capricorne sont par la pénombre, dont la plus récente, le 5 juillet 2020, et la prochaine, le 18 juillet 2027, et celles-là pèsent moins. Je regarde le nœud moyen comme le nœud vrai. Jamais un présage : une période d’accent.
+Dans un thème, je m’en tiens à la règle AGS : une éclipse compte à environ trois degrés d’une planète, d’un angle ou d’un nœud natal, à l’un ou l’autre bout de son axe, et je la lis à travers ce point et sa maison. Cinq des vingt éclipses du Capricorne sont par la pénombre, dont la plus récente, le 5 juillet 2020, et la prochaine, le 18 juillet 2027, et celles-là pèsent moins. Je traite le nœud moyen et le nœud vrai de la même façon. Jamais un présage : une période d’accent.
 
 Les vingt, année par année :
 

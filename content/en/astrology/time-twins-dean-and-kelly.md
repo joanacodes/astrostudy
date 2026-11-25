@@ -60,8 +60,8 @@ That's the finding, and I'm not going to dress it up. If a chart shaped people t
 
 ## What I found {#what-i-found}
 
-Dean and Kelly asked whether the same chart makes the same person. My notebook asked something smaller: whether each placement in a chart described the person it belonged to. I checked every placement of my own chart, Sun, Moon, rising, each planet in its sign and house, with a tick or a cross, then did the same for family, friends and strangers, with their consent.
+Dean and Kelly asked whether the same chart makes the same person. My notebook asked something smaller: whether each placement in a chart described the person it belonged to. I started with my own chart, giving every placement a tick or a cross, the Sun, the Moon, the rising sign and each planet in its sign and house, and then, with their consent, did the same for family, friends and strangers.
 
-Overall, about a third held: 30 to 40%, with the Sun sign, the rising sign, Venus and Mercury among them, the placements everyone reads first. Saturn, Lilith and Chiron held 75 to 90% of the time.
+Overall, about a third held: 30 to 40%, with the Sun sign, the rising sign, Venus and Mercury among them, the placements everyone reads first. Saturn, Lilith and Chiron stood apart, holding 75 to 90% of the time.
 
-It's a notebook, not a study, and it proves nothing about astrology in general. It certainly doesn't outweigh research like this. What it gives me is a rule for readings: when something rests on a placement that held less often in my tests, I tell you so. The count itself is in [my testing notes](/blog/i-tested-my-birth-chart/).
+Being a notebook and not a study, it proves nothing about astrology in general. It certainly doesn't outweigh research like this. What it gives me is a rule for readings: when something rests on a placement that held less often in my tests, I tell you so. The count itself is in [my testing notes](/blog/i-tested-my-birth-chart/).

@@ -48,7 +48,7 @@ Pluton est la plus lente des [planètes générationnelles](/astrology/personal-
 
 Pluton est le maître moderne du [Scorpion](/astrology/scorpio/) ; avant 1930, le Scorpion revenait à [Mars](/astrology/mars/), et les astrologues traditionnels le lisent toujours ainsi. C’est la dernière des trois planètes au-delà de Saturne, après [Uranus](/astrology/uranus/) et [Neptune](/astrology/neptune/). Comme les deux autres, Pluton passe environ cinq mois par an en rétrogradation : beaucoup de gens naissent donc avec [Pluton rétrograde](/astrology/pluto-retrograde/). J’y lis une transformation qui se travaille d’abord à l’intérieur — [un rythme, pas un retard](/blog/retrograde-planets/).
 
-Ses aspects, c’est là que la lecture devient personnelle. Avec la [Lune conjointe à Pluton](/astrology/moon-conjunct-pluto/), les émotions vont très loin et sont gardées de près. Un [Soleil carré Pluton](/astrology/sun-square-pluto/) décrit souvent quelqu’un qui a dû conquérir sa propre force, parfois contre celle de quelqu’un d’autre. Une [Vénus opposée à Pluton](/astrology/venus-opposite-pluto/) aime tout ou rien, et apprend que la proximité n’a pas besoin de contrôle. Et [Mars conjonction Pluton](/astrology/mars-conjunct-pluto/) donne une endurance que peu de gens égalent.
+C’est par ses aspects que la lecture de Pluton devient personnelle. Avec la [Lune conjointe à Pluton](/astrology/moon-conjunct-pluto/), les émotions vont très loin et sont gardées de près. Un [Soleil carré Pluton](/astrology/sun-square-pluto/) décrit souvent quelqu’un qui a dû conquérir sa propre force, parfois contre celle de quelqu’un d’autre. Une [Vénus opposée à Pluton](/astrology/venus-opposite-pluto/) aime tout ou rien, et apprend que la proximité n’a pas besoin de contrôle. Et [Mars conjonction Pluton](/astrology/mars-conjunct-pluto/) donne une endurance que peu de gens égalent.
 
 ## Pluton dans les signes {#dans-les-signes}
 
@@ -96,7 +96,7 @@ Pluton reste de longues années dans chaque maison : [Pluton en transit en mais
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-J’ai vérifié Pluton comme tous les autres placements de [mon carnet](/blog/i-tested-my-birth-chart/) : son signe et sa maison, dans mon thème d’abord, puis dans ceux de ma famille, d’amis et d’inconnus, avec leur accord. Pluton ne fait pas partie des trois qui ont tenu bien plus souvent — [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/) ont tenu 75 à 90 % du temps — et, sur l’ensemble de ce que j’ai vérifié, environ un tiers a tenu. Je lis donc Pluton par sa maison et ses aspects, je garde du recul, et quand une partie de la lecture y repose, je vous le dis. C’est un carnet, pas une étude, et il façonne [ma façon de lire](/how-i-read/).
+J’ai vérifié Pluton comme tous les autres placements de [mon carnet](/blog/i-tested-my-birth-chart/) : son signe et sa maison, dans mon thème d’abord, puis dans ceux de ma famille, d’amis et d’inconnus, avec leur accord. Pluton n’était pas parmi les trois qui ont tenu bien plus souvent, à savoir [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/), à 75 à 90 % du temps, et sur tout ce que j’ai vérifié, environ un tiers a tenu. Je lis donc Pluton par sa maison et ses aspects, je garde du recul, et quand une partie de la lecture y repose, je vous le dis. Ce sont les résultats d’un carnet, pas d’une étude, et ils façonnent [ma façon de lire](/how-i-read/).
 
 ## Idées reçues {#idees-recues}
 

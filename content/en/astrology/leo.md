@@ -44,13 +44,13 @@ Three placements bring most people here:
 
 - **[Sun in Leo](/astrology/sun-in-leo/):** born between about 23 July and 22 August. The Sun at home: you grow by creating and being generous with it, and recognition matters because it tells you that what you made was real.
 - **[Moon in Leo](/astrology/moon-in-leo/):** you need warmth, play and to feel special to the people who matter. Hurt pride runs deep, and your generosity comes back the moment you feel seen.
-- **[Leo rising](/astrology/leo-rising/):** you meet the world with warmth and presence, and people notice you, sometimes before you've said a word. The Sun becomes your [chart ruler](/astrology/chart-ruler/). A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Leo rising](/astrology/leo-rising/):** you meet the world with warmth and presence, and people notice you, sometimes before you've said a word. The Sun becomes your [chart ruler](/astrology/chart-ruler/). Leo rising takes your [birth time](/blog/unknown-birth-time/) to confirm: the rising sign changes about every two hours.
 
-None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Leo through the whole chart, beginning with where the Sun sits.
+Alone, none of these placements is enough to say it all. This is what [my notebook](/blog/i-tested-my-birth-chart/) found: the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, was not in the group of three that held far more often. So I read Leo through the whole chart, beginning with where the Sun sits.
 
 ## Its ruler: the Sun {#ruler}
 
-A sign's ruler is the planet that's at home in it, the one that carries the sign's business into the rest of the chart. Leo belongs to the [Sun](/astrology/sun/), the only sign it rules: tradition gave the two lights the two signs of high summer, Leo to the Sun and Cancer to the Moon. Wherever your Sun sits, by sign and house, shows where your Leo side wants to shine. With Leo on the cusp of the 10th house and the Sun in the 4th, say, your public life draws its strength from home.
+Leo, like every sign, has a ruler: the planet at home in it, which takes Leo's business through the rest of the chart. Leo belongs to the [Sun](/astrology/sun/), the only sign it rules: tradition gave the two lights the two signs of high summer, Leo to the Sun and Cancer to the Moon. Wherever your Sun sits, by sign and house, shows where your Leo side wants to shine. With Leo on the cusp of the 10th house and the Sun in the 4th, say, your public life draws its strength from home.
 
 In the classical scheme, no planet is exalted in Leo or has its fall there. Two are weakened:
 
@@ -74,7 +74,7 @@ A planet in Leo warms up and wants an audience; the house it sits in shows where
 
 ## Leo on a house cusp {#on-a-house-cusp}
 
-Every chart has Leo somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Leo opens a house, that's where you want to put your heart into things and be seen doing it, and the Sun, wherever it sits, carries the story on. Which house it is depends on your birth time.
+Every chart has Leo somewhere in its twelve houses, usually on the cusp of one of them. Placidus and the other quadrant systems sometimes let Leo open two houses, and sometimes none at all, when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Leo opens a house, that's where you want to put your heart into things and be seen doing it, and the Sun, wherever it sits, carries the story on. Your birth time is what places Leo in one house or another.
 
 1. **[1st house](/astrology/leo-rising/):** Leo rising — a warm, noticeable presence; you meet the world generously, and people remember you.
 2. **[2nd house](/astrology/leo-on-2nd-house-cusp/):** generous with what you have; you value quality and things that express who you are, and your pride is tied to earning your own way.
@@ -98,4 +98,4 @@ In [synastry](/synastry/), Leo planets bring warmth and generosity: the person w
 - **“Leos are arrogant.”** Leo is proud, and pride can be quiet. Much of what looks like ego is a wish to be seen for what you've made, and a generosity that wants to share it.
 - **“Leos need constant attention.”** Leo needs warmth and appreciation, like everyone, and says so more openly. It gives attention as readily as it asks for it.
 - **“The Sun in Leo makes you a born leader.”** The Sun at home gives a strong sense of self. Leading is one way to show it; creating, teaching and caring are others.
-- **“Born on the cusp, you're half Cancer.”** At the minute you were born, the Sun was in one sign or the other; within a day of a change, your birth time settles which. More on being [born on the cusp](/astrology/born-on-the-cusp/).
+- **“Born on the cusp, you're half Cancer.”** The minute you were born, the Sun was in Cancer or in Leo, one or the other; within a day of the change, the birth time is what decides. See [born on the cusp](/astrology/born-on-the-cusp/) for more.

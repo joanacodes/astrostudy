@@ -59,8 +59,8 @@ Most of the research here is argument: philosophers trying to say where science 
 
 ## What I found {#what-i-found}
 
-I came to astrology to mock it, so before I read for anyone, I tested it: my own chart first, like an invoice, every placement with a tick or a cross, then family, friends and strangers, with their consent. Overall, about a third of what I checked held, **30 to 40%**. **Saturn, Lilith and Chiron held 75 to 90% of the time.**
+I came to astrology to mock it, so before I read for anyone, I tested it: my own chart first, like an invoice, every placement with a tick or a cross, then family, friends and strangers, with their consent. Across all I checked, about a third held, **30 to 40%**. **Saturn, Lilith and Chiron, on the other hand, held 75 to 90% of the time.**
 
-It's a notebook, not a study, and it proves nothing about astrology in general. I don't claim that my count is a scientific study: it's a hand count in a notebook, not audited. Nor do I claim to know how astrology works. Nobody knows exactly how it works, me included, and saying so is a promise not to pretend.
+That test was a notebook, not a study, and it offers no proof about astrology in general. I don't claim that my count is a scientific study: it's a hand count in a notebook, not audited. Nor do I claim to know how astrology works. Nobody knows exactly how it works, me included, and saying so is a promise not to pretend.
 
 That's why my readings are offered for reflection and entertainment, and why, when something in a reading rests on a placement that held less often in my tests, I tell you, so you can weigh it for yourself. [How I read](/how-i-read/) sets out the rest, and [the invoice method](/blog/i-tested-my-birth-chart/) shows how I counted.

@@ -96,7 +96,7 @@ Naître pendant une rétrogradation de Mars n’est pas un manque d’élan ; 
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-Mars était sur ma liste comme chaque placement — son signe et sa maison, une coche ou une croix — dans [mon carnet](/blog/i-tested-my-birth-chart/), pour mon propre thème puis pour ma famille, des amis et des inconnus qui avaient donné leur accord. Mars ne fait pas partie des trois qui ont tenu bien plus souvent : ce sont [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/), qui ont tenu 75 à 90 % du temps. Dans l’ensemble, environ un tiers de ce que j’ai vérifié a tenu : 30 à 40 %. Je lis donc Mars dans chaque thème, mais sans y faire reposer toute une lecture, et quand une partie de ma lecture en dépend, je vous le dis. C’est un carnet, pas une étude, et il façonne [ma façon de lire](/how-i-read/).
+Mars était sur ma liste comme chaque placement — son signe et sa maison, une coche ou une croix — dans [mon carnet](/blog/i-tested-my-birth-chart/), pour mon propre thème puis pour ma famille, des amis et des inconnus qui avaient donné leur accord. Mars ne fait pas partie des trois qui ont tenu bien plus souvent : ce sont [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/), qui ont tenu 75 à 90 % du temps. Dans l’ensemble, environ un tiers de ce que j’ai vérifié a tenu : 30 à 40 %. Je lis donc Mars dans chaque thème, mais sans y faire reposer toute une lecture, et quand une partie de ma lecture en dépend, je vous le dis. Le carnet n’a rien d’une étude, mais [ma façon de lire](/how-i-read/) en est façonnée.
 
 ## Idées reçues {#idees-recues}
 

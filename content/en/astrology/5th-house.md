@@ -41,7 +41,7 @@ I read the 5th house as the part of life you don't have to justify. It covers wh
 
 Tradition gave the 5th children, and some astrologers still look there for them. I don't. No chart can tell anyone whether or when they'll have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I don't read [children's charts](/astrology/childrens-charts/): a chart is read for the person it belongs to, once they're an adult and happy for it to be read ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#your-child)). What I read in the 5th is your own creativity and pleasure.
 
-- **A succedent house.** It follows an angle, and succedent houses are where things settle and grow: the 5th is what grows once you feel at home. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
+- **A succedent house.** It follows an angle, and succedent houses are where things settle and grow: the 5th is what grows once you feel at home. For the 5th's kind and the two others, see [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/).
 - **Its natural sign and planet.** [Leo](/astrology/leo/) and the [Sun](/astrology/sun/): warmth, self-expression, being seen.
 - **Good Fortune.** Tradition gave it that name and said [Venus](/astrology/venus/) rejoices here ([planetary joys](/astrology/planetary-joys/)): the planet of pleasure, at home in the house of play.
 - **Its opposite.** The [11th house](/astrology/11th-house/), friends and groups, which tradition called Good Spirit, where Jupiter has its joy: the 5th is what you enjoy for yourself and with the people you love, the 11th what you share with many.
@@ -54,7 +54,7 @@ In synastry, another person's planets in your 5th house tend to feel like fun an
 
 A planet in the 5th house shows in how you play, create and love — and in what makes you feel most like yourself.
 
-Saturn, Chiron and Lilith held 75 to 90% of the time in [my notebook](/blog/i-tested-my-birth-chart/), against about a third for most placements. If Saturn, [Chiron in the 5th house](/astrology/chiron-in-5th-house/) or [Lilith in the 5th house](/astrology/lilith-in-5th-house/) sits here, joy is where I'd spend the most time in a reading — and usually the permission to have it.
+Saturn, Chiron and Lilith held 75 to 90% of the time in [my notebook](/blog/i-tested-my-birth-chart/), where most placements managed about a third. If Saturn, [Chiron in the 5th house](/astrology/chiron-in-5th-house/) or [Lilith in the 5th house](/astrology/lilith-in-5th-house/) sits here, joy is where I'd spend the most time in a reading — and usually the permission to have it.
 
 - **[Sun in the 5th house](/astrology/sun-in-5th-house/):** creation, play and romance light you up; you shine when you make something your own.
 - **[Moon in the 5th house](/astrology/moon-in-5th-house/):** you need play to feel safe, and your feelings come out in what you make.
@@ -88,7 +88,7 @@ The sign on the cusp of the 5th house gives your pleasures their style: how you 
 
 ## Its ruler {#ruler}
 
-The ruler of the 5th house is the planet that rules the sign on its cusp. Where it sits shows where your creativity and pleasure go to play out: the part of life your joy flows into. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
+The ruler of the 5th house is the planet that rules the sign on its cusp. Where it sits shows where your creativity and pleasure go to play out: the part of life your joy flows into. A 5th house cusp in Scorpio, Aquarius or Pisces brings two rulers, a modern and a traditional one, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/5th-house-ruler-in-1st-house/):** creativity is part of who you are; you show yourself through what you make.
 2. **[In the 2nd house](/astrology/5th-house-ruler-in-2nd-house/):** what you create can earn; pleasure in good things.

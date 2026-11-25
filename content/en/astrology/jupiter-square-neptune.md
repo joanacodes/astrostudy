@@ -44,7 +44,7 @@ An ideal isn't a delusion, and a rub isn't a defeat. Over time this square tends
 
 Within 6°, it turns up in about one birth in 16 from 1930 to 2009, in spells about six or seven years apart: January to March 1930; December 1935 to February 1936 and June to November 1936; May to June 1942; December 1948 to February 1949; August 1954 to June 1955; April to July 1961 and December 1961 to February 1962; August to October 1967 and February to June 1968; March to May 1974 and September 1974 to January 1975; August to October 1980; March to April 1987; December 1992 to February 1993 and August to October 1993; June 1999 to April 2000; and December 2005 to May 2006 with August to October 2006.
 
-Each spell's births share it, which is why I look to the houses for what is yours ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). Jupiter in the 1st square Neptune in the 4th, for instance, might set a confident, outward faith against a family story that is hard to pin down. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Each spell's births share it, which is why I look to the houses for what is yours ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). Jupiter in the 1st square Neptune in the 4th, for instance, might set a confident, outward faith against a family story that is hard to pin down. Where the square lands among your houses is something only a birth time can show ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Weighed against the square:
 

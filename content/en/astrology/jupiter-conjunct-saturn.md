@@ -47,7 +47,7 @@ Within 6°, about 1 person in 28 born from 1930 to 2009 carries it, bunched in f
 
 The meetings fell in different signs: Taurus in 1940–41, Capricorn in 1961, Libra in 1980–81 and Taurus again in 2000. Capricorn is Saturn's own sign and Jupiter's fall, and Libra is Saturn's exaltation, so in tradition Saturn was the stronger partner in 1961 and 1980–81; in Taurus, neither has its domicile or exaltation.
 
-Its house, and any contact it makes with your personal planets or your angles, turn it into something of your own ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). In the 9th, it might show as beliefs you test before committing to them; in the 10th, as a working life built for the long term. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Jupiter, about 12 years round against Saturn's 29½, does the overtaking: born before the exact meeting, you have Jupiter still closing in; born after, pulling ahead.
+Its house, and any contact it makes with your personal planets or your angles, turn it into something of your own ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). In the 9th, it might show as beliefs you test before committing to them; in the 10th, as a working life built for the long term. Only a birth time places the conjunction in a house ([what changes without a birth time](/blog/unknown-birth-time/)). Jupiter, about 12 years round against Saturn's 29½, does the overtaking: born before the exact meeting, you have Jupiter still closing in; born after, pulling ahead.
 
 The pair's other aspects belong to people born in other years:
 

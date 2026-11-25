@@ -94,7 +94,7 @@ In [synastry](/synastry/), the Descendant shows where another person lands in th
 
 The angles have no return: what moves is the sky. A slow planet crossing your Descendant is, by definition, opposite your Ascendant, so when [Saturn is opposite your natal Ascendant](/astrology/transiting-saturn-opposite-natal-ascendant/), it is on your Descendant. That happens about every 29½ years, before Saturn moves on through your 7th house ([Saturn transiting the 7th house](/astrology/saturn-transit-7th-house/)), and people often describe it as relationships asking to be taken seriously: commitments made, or looked at again. [Jupiter opposite the Ascendant](/astrology/transiting-jupiter-opposite-natal-ascendant/), about every 12 years, tends to feel like an opening towards others, followed by [Jupiter transiting the 7th house](/astrology/jupiter-transit-7th-house/). Uranus, Neptune and Pluto reach the Descendant once in a lifetime at most.
 
-A transit is weather, not a forecast: it describes the climate of a period in your relationships, never a wedding or a break-up written in advance. And it is only as precise as your birth time.
+A transit is weather, not a forecast: it describes the climate of a period in your relationships, never a wedding or a break-up written in advance. And its timing is only ever as exact as the birth time behind it.
 
 ## What held in my tests {#what-held}
 

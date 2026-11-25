@@ -63,5 +63,5 @@ Il en découle deux choses que je garde en tête. Les angles et les maisons vien
 
 - **« L’écliptique est l’équateur du ciel. »** Ça, c’est l’équateur céleste. L’écliptique est la route annuelle du Soleil, incliné d’environ 23,4° sur lui.
 - **« Les planètes sont exactement sur la ligne du zodiaque. »** Elles s’en écartent un peu au nord et au sud, la Lune jusqu’à cinq degrés environ. Un thème retient leur longitude et laisse le reste de côté.
-- **« Le Milieu du Ciel est le point juste au-dessus de la tête. »** C’est l’endroit où l’écliptique franchit le méridien, et ce n’est que rarement le zénith.
+- **« Le Milieu du Ciel se trouve à la verticale, juste au-dessus de nous. »** C’est l’endroit où l’écliptique franchit le méridien, et ce n’est que rarement le zénith.
 - **« Il y a une éclipse à chaque nouvelle et à chaque pleine lune. »** Seulement quand la lunaison tombe près de l’un des nœuds, ce qui arrive à peu près deux fois par an, pendant les [saisons d’éclipses](/astrology/eclipse-seasons/).

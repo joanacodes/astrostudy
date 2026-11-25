@@ -40,7 +40,7 @@ La tradition donnait à la maison 8 la mort et l’héritage, et beaucoup de liv
 
 Comptée depuis la maison 7, la maison 8 est la maison 2 de votre partenaire, c’est-à-dire son argent : voilà pourquoi elle couvre aussi les comptes communs, les prêts, les dettes et tout ce qu’on détient à deux (voir [maisons dérivées](/astrology/derived-houses/)). C’est la maison de ce qui se doit, dans les deux sens : l’argent, et les dettes que les gens portent entre eux. Elle ne dit jamais ce que vous allez gagner ou perdre ; elle montre votre façon de partager.
 
-- **Une maison succédente.** Elle suit un angle, et les maisons succédentes sont celles où les choses se posent et s’accumulent : la maison 7 crée le lien, la maison 8 garde ce que le lien fait naître. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
+- **Une maison succédente.** Elle suit un angle, et les maisons succédentes sont celles où les choses se posent et s’accumulent : la maison 7 crée le lien, la maison 8 garde ce que le lien fait naître. Ce qui sépare les trois familles, et la place de la maison 8 parmi elles, figure sur la page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/).
 - **Son signe et sa planète naturels.** Le [Scorpion](/astrology/scorpio/) et [Pluton](/astrology/pluto/), avec [Mars](/astrology/mars/) pour maître traditionnel du Scorpion : la profondeur, l’intensité, et le cran qu’il faut pour rester proche.
 - **Son opposée.** La [maison 2](/astrology/2nd-house/) : la maison 2, c’est ce qui est à vous ; la maison 8, ce que vous partagez ou devez.
 
@@ -52,7 +52,7 @@ Comme toutes les maisons, la maison 8 dépend de votre heure de naissance : san
 
 Une planète en maison 8 va en profondeur. Elle agit plutôt en privé, se montre à très peu de gens, et décrit ce qui vous arrive quand vous laissez quelqu’un s’approcher.
 
-Saturne, Chiron et Lilith sont les placements que je lis avec le plus de soin : dans [mon carnet](/blog/i-tested-my-birth-chart/), ils ont tenu 75 à 90 % du temps, contre environ une fois sur trois pour la plupart des placements. Avec Saturne, [Chiron en maison 8](/astrology/chiron-in-8th-house/) ou [Lilith en maison 8](/astrology/lilith-in-8th-house/) ici, une de mes lectures ralentirait autour de la confiance : qui a gagné la vôtre, et à quel prix.
+Aucun placement ne reçoit plus de soin de ma part que Saturne, Chiron et Lilith : dans [mon carnet](/blog/i-tested-my-birth-chart/), ils ont tenu 75 à 90 % du temps, contre environ une fois sur trois pour la plupart des placements. Avec Saturne, [Chiron en maison 8](/astrology/chiron-in-8th-house/) ou [Lilith en maison 8](/astrology/lilith-in-8th-house/) ici, une de mes lectures ralentirait autour de la confiance : qui a gagné la vôtre, et à quel prix.
 
 - **[Soleil en maison 8](/astrology/sun-in-8th-house/) :** vous grandissez par l’intimité, la confiance et ce qui se partage ; vous prenez vie en profondeur, pas en surface.
 - **[Lune en maison 8](/astrology/moon-in-8th-house/) :** il vous faut une vraie proximité affective pour vous sentir en sécurité, et les humeurs des autres vous traversent.
@@ -65,7 +65,7 @@ Saturne, Chiron et Lilith sont les placements que je lis avec le plus de soin :
 - **[Neptune en maison 8](/astrology/neptune-in-8th-house/) :** des frontières floues dans l’intimité et l’argent commun ; une grande empathie, et le besoin de savoir ce qui est à vous.
 - **[Pluton en maison 8](/astrology/pluto-in-8th-house/) :** dans la maison de son propre signe : l’intensité, la discrétion, et la force de vous reconstruire après une crise.
 
-Pas de planète ici ? Une [maison 8 vide](/astrology/empty-houses/) ne veut pas dire une vie superficielle, ni une vie sans intimité. Elle se lit par le signe sur sa cuspide et par la place de son maître, les deux sections suivantes.
+Pas de planète ici ? Une [maison 8 vide](/astrology/empty-houses/) ne veut pas dire une vie superficielle, ni une vie sans intimité. Les deux sections suivantes la lisent par le signe sur sa cuspide et par la place de son maître.
 
 ## Le signe sur sa cuspide {#signe-sur-la-cuspide}
 
@@ -86,7 +86,7 @@ Le signe sur la cuspide de la maison 8 décrit votre façon d’aborder ce qui s
 
 ## Son maître {#maitre}
 
-Le maître de la maison 8 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où les questions de la maison 8 — la confiance, le partage, les dettes — se posent dans votre vie. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 8 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où les questions de la maison 8 — la confiance, le partage, les dettes — se posent dans votre vie. La maison 8 a deux maîtres quand le Scorpion, le Verseau ou les Poissons sont sur sa cuspide, l’un moderne, l’autre traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/8th-house-ruler-in-1st-house/) :** l’intensité se voit dans votre façon d’aborder le monde ; la profondeur fait partie de qui vous êtes.
 2. **[En maison II](/astrology/8th-house-ruler-in-2nd-house/) :** ce que vous partagez et ce que vous possédez sont liés ; des limites claires aident.

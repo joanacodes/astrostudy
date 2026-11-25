@@ -64,5 +64,5 @@ Mon [carnet](/blog/i-tested-my-birth-chart/) ne nomme ni le Milieu du Ciel ni le
 
 - **« Le Milieu du Ciel est le point juste au-dessus de la tête. »** C’est le zénith. Le Milieu du Ciel est l’endroit où le zodiaque croise le méridien, et vu de France ou de Grande-Bretagne, il se trouve toujours au sud, plus bas dans le ciel.
 - **« Le Milieu du Ciel est toujours au carré de l’ascendant. »** Seulement dans des cas particuliers ; l’écart change avec l’heure et la latitude.
-- **« Votre Milieu du Ciel vous dit quel métier faire. »** Il décrit une direction et une façon d’apparaître aux yeux des autres, pas un intitulé de poste, et je ne prédis jamais une carrière, l’argent ou la réussite.
+- **« Votre Milieu du Ciel désigne le métier que vous devez exercer. »** Il décrit une direction et une façon d’apparaître aux yeux des autres, pas un intitulé de poste, et je ne prédis jamais une carrière, l’argent ou la réussite.
 - **« Le Fond du Ciel, c’est votre mère, et le Milieu du Ciel votre père. »** Les astrologues ne s’accordent pas sur le parent qui va avec chaque bout. Je lis le Fond du Ciel comme la famille d’où vous venez, sans étiquette.

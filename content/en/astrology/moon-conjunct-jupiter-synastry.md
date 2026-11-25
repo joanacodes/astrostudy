@@ -53,7 +53,7 @@ The other angles spread the same two functions further apart:
 
 Let some feelings stay small. The Moon person can say "just company tonight" and be believed; the Jupiter person can ask "ideas, or an ear?" before reaching for the bigger picture. In a couple, that means plans with room for the other's routines; between friends or siblings, perspective offered and a kitchen table shared; at work, ambitions checked against what a colleague needs in order to do well.
 
-About 1 pair of people in 12 has this conjunction, one way round or the other, within 8°. Both birth times matter: the Moon moves about 13° a day, so the hour can set it on Jupiter or carry it out of orb, and without the times there are no houses to show where each life takes the contact in ([what changes without a birth time](/blog/unknown-birth-time/)). Without them, I don't begin.
+Of every 12 pairs of people, about 1 has one person's Moon joining the other's Jupiter within 8°, whichever way round. Both birth times matter: the Moon moves about 13° a day, so the hour can set it on Jupiter or carry it out of orb, and without the times there are no houses to show where each life takes the contact in ([what changes without a birth time](/blog/unknown-birth-time/)). Without them, I don't begin.
 
 Within one chart, [Moon conjunct Jupiter](/astrology/moon-conjunct-jupiter/) is a single person whose need and growth move as one; here, each of you can step back and see the other.
 

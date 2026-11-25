@@ -38,7 +38,7 @@ La [maison 5](/astrology/5th-house/) est ce que vous faites pour la joie : la c
 
 Lu en Placidus, le système de maisons que j’utilise, ce placement décrit une naissance du soir, le Soleil bien sous l’horizon ouest. Ce sont des heures solaires, pas celles de l’horloge, et la maison peut être étroite ou large : la lecture dépend d’une [heure de naissance](/blog/unknown-birth-time/) exacte.
 
-La tradition donnait aussi les enfants à la maison 5. Je ne lis pas un thème pour savoir si vous en aurez ni quand, et aucun placement ne peut le dire ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)) ; ce site ne lit pas non plus [le thème des enfants](/astrology/childrens-charts/). Dans la vie d’un adulte, je lis la maison 5 comme ce que vous créez et aimez, quelle qu’en soit la forme.
+Les enfants faisaient aussi partie de la maison 5 dans la tradition. Je ne lis pas un thème pour savoir si vous en aurez ni quand, et aucun placement ne peut le dire ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)) ; ce site ne lit pas non plus [le thème des enfants](/astrology/childrens-charts/). Dans la vie d’un adulte, je lis la maison 5 comme ce que vous créez et aimez, quelle qu’en soit la forme.
 
 De l’autre côté du thème, la maison 11 est celle des amis et des espoirs partagés. Un Soleil en maison 5 brille à la première personne, une création, une histoire d’amour, une partie à la fois, et la maison 11 lui rappelle que la joie grandit aussi quand on la partage en groupe.
 

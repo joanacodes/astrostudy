@@ -61,6 +61,6 @@ The pair's other angles, side by side:
 
 Say out loud what's accepted, now and then, so it stops being an assumption: "I like that you never pretend." Ask the Lilith person what they need, not only what they won't tolerate. And let the Moon person try some boldness of their own rather than borrowing it. Colleagues with this trine often make a frank, steady team; it helps to agree who says the hard thing this time.
 
-About 1 pair of people in 7 has this trine, one way round or the other, within 6.8°. Whether a pair has it rests on the Moon's place at the hour of birth: at around 13° a day, an afternoon is enough to carry it into or out of orb, while mean Lilith stays almost still. I need both times for that, and for the houses ([what changes without a birth time](/blog/unknown-birth-time/)).
+Lilith in one chart and the Moon in the other, whichever way round, make this trine within 6.8° in about 1 pair of people in 7. Whether a pair has it rests on the Moon's place at the hour of birth: at around 13° a day, an afternoon is enough to carry it into or out of orb, while mean Lilith stays almost still. I need both times for that, and for the houses ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 In one person's chart alone, [Moon trine Lilith](/astrology/moon-trine-lilith/) is an ease with one's own untamed side.

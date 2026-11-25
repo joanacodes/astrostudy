@@ -35,7 +35,7 @@ Le Soleil venait tout juste de se lever à votre naissance, bas à l’est, dans
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 12](/astrology/12th-house/) est ce qui se passe loin des regards : la solitude, le repos, le travail discret, le soin donné ou reçu sans être vu, et la vie intérieure. Dernière des maisons cadentes, avec les Poissons pour signe naturel, elle portait le nom de Génie défavorable, et la tradition y plaçait la joie de Saturne. Dans cette maison, le travail du [Soleil](/astrology/sun/) se fait de l’intérieur. Vous vous connaissez peut-être le mieux dans la solitude, et votre sens de la direction vient d’une conviction intime plutôt que de quoi que ce soit de facile à expliquer.
+La [maison 12](/astrology/12th-house/) garde la part de la vie qui se déroule à l’abri des regards : les moments de solitude, le repos, le travail discret, le soin donné ou reçu sans témoin, et la vie intérieure. Dernière des maisons cadentes, avec les Poissons pour signe naturel, elle portait le nom de Génie défavorable, et la tradition y plaçait la joie de Saturne. Dans cette maison, le travail du [Soleil](/astrology/sun/) se fait de l’intérieur. Vous vous connaissez peut-être le mieux dans la solitude, et votre sens de la direction vient d’une conviction intime plutôt que de quoi que ce soit de facile à expliquer.
 
 La tradition donnait à la maison 12 l’enfermement, les ennemis cachés et les chagrins. Je n’en lis rien comme une prédiction, et aucun thème ne peut dire si une personne connaîtra l’isolement ou la souffrance ([Astrologie et santé mentale](/astrology/astrology-and-mental-health/)). Pour un adulte, cette maison, je la lis comme la vie que vous menez à l’intérieur, et le travail que vous faites là où personne ne regarde.
 

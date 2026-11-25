@@ -39,7 +39,7 @@ The 11th house is where a chart opens onto other people in the plural. Not the o
 
 I read the 11th house as the house of belonging and of the future. Friends, especially the ones you choose rather than inherit; the groups, teams, networks and communities you're part of; the people who help you without having to; and the hopes and plans you'd like to see through. It's where you ask *who are my people?* and *what are we working towards?*
 
-- **A succedent house.** It follows an angle, and succedent houses are where things settle and build up: what you achieve in the 10th, you share and keep alive with others in the 11th. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
+- **A succedent house.** It follows an angle, and succedent houses are where things settle and build up: what you achieve in the 10th, you share and keep alive with others in the 11th. The three kinds, and why the 11th counts as succedent, are set out in [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/).
 - **Its natural sign and planet.** [Aquarius](/astrology/aquarius/) and [Uranus](/astrology/uranus/), with [Saturn](/astrology/saturn/) as Aquarius's traditional ruler: community, independence, the long view.
 - **The Good Spirit.** Tradition gave it that name and counted it among the fortunate houses, the place of friends, hopes and benefactors. [Jupiter](/astrology/jupiter/), the planet of growth and generosity, rejoices here ([planetary joys](/astrology/planetary-joys/)).
 - **Its opposite.** The [5th house](/astrology/5th-house/): the 5th is what you enjoy for yourself and with the people you love, the 11th what you share with many.
@@ -86,7 +86,7 @@ The sign on the cusp of the 11th house describes how you make friends and join i
 
 ## Its ruler {#ruler}
 
-The ruler of the 11th house is the planet that rules the sign on its cusp, and where it sits shows where your friendships and hopes play out: where you find your people, and what you build with them. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
+The ruler of the 11th house is the planet that rules the sign on its cusp, and where it sits shows where your friendships and hopes play out: where you find your people, and what you build with them. Your 11th gets a modern and a traditional ruler if Scorpio, Aquarius or Pisces is on its cusp, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/11th-house-ruler-in-1st-house/):** friends shape who you are; you often embody what your group stands for.
 2. **[In the 2nd house](/astrology/11th-house-ruler-in-2nd-house/):** friendships and networks connect to what you earn and value.

@@ -57,6 +57,6 @@ L’aisance invite aussi à la dérive. Les projets restent au stade agréable d
 
 Gardez des éloges précis et des retours honnêtes : un trigone porte une vérité difficile plus aisément que la plupart des contacts. Choisissez ensemble ce qui doit grandir, plutôt que de faire grandir ce qui se trouve le plus près, et laissez chacune dire non de temps en temps sans que la chaleur en pâtisse.
 
-Environ 1 paire de personnes sur 9 a ce trigone, dans un sens ou dans l’autre, à 5,1° près. Jupiter n’avance que d’une fraction de degré par jour et Vénus d’environ un : l’heure de naissance touche à peine le trigone, mais il faut les deux heures pour savoir dans quelles maisons cette bienveillance se montre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les trigones entre Vénus et Jupiter à 5,1° près, comptés dans les deux sens, relient environ 1 paire de personnes sur 9. Jupiter n’avance que d’une fraction de degré par jour et Vénus d’environ un : l’heure de naissance touche à peine le trigone, mais il faut les deux heures pour savoir dans quelles maisons cette bienveillance se montre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Un seul thème qui contient [Vénus trigone Jupiter](/astrology/venus-trine-jupiter/) porte cette chaleur pour une personne. Entre deux, elle se partage, et un contact aussi agréable donne envie de le chercher à propos de quelqu’un d’autre ; je préfère le lire avec les deux ([synastrie et consentement](/blog/synastry-behind-their-back/)).

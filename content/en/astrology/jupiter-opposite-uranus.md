@@ -44,7 +44,7 @@ Seen from Jupiter's end, freedom can look careless; seen from Uranus's, a belief
 
 It is carried, within 6°, by about 1 person in 30 of those born from 1930 to 2009, in six stretches about fourteen years apart: 1933–34, 1948, 1962–63, 1975–76, 1989–90 and 2003–04, most of them in two spells. Being common to those months, it speaks for a cohort more than for a person ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)).
 
-The houses bring it home. With Jupiter in the 6th and Uranus in the 12th, daily routines may carry your sense of meaning while your need for freedom works out of sight; with Jupiter in the 8th and Uranus in the 2nd, shared commitments you believe in may sit across from a very personal way of earning and owning. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The houses bring it home. With Jupiter in the 6th and Uranus in the 12th, daily routines may carry your sense of meaning while your need for freedom works out of sight; with Jupiter in the 8th and Uranus in the 2nd, shared commitments you believe in may sit across from a very personal way of earning and owning. Each end of the opposition gets its house from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Across the same fourteen-year cycle:
 

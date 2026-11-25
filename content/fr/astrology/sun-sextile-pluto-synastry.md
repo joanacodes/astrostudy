@@ -54,7 +54,7 @@ Pluton met de 12 à 31 ans à traverser un signe, selon la portion d’orbite pa
 
 Demandez aux tournants. La personne qui a le Soleil peut apporter exprès la décision difficile à l’autre, et dire quel genre d’aide elle attend ; celle qui a Pluton peut faire l’offre une seule fois, et compter sur l’autre pour y revenir. Un couple peut s’appuyer sur ce contact pendant un déménagement ou un changement de métier ; des amis, après une perte ou une fin ; une famille, quand un vieux schéma doit être rompu ; des collègues, quand un projet doit être réorganisé.
 
-Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. Avec un orbe aussi étroit, l’heure de naissance peut compter près de la limite, le Soleil se déplaçant d’un degré environ en une journée ; pour les maisons, elle compte à coup sûr : ce sont elles qui situent le renouveau dans chaque vie, et je ne lis pas ce contact sans les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les deux sens réunis, environ 1 paire de personnes sur 10 a un sextile entre le Soleil et Pluton à 4,8° près. Avec un orbe aussi étroit, l’heure de naissance peut compter près de la limite, le Soleil se déplaçant d’un degré environ en une journée ; pour les maisons, elle compte à coup sûr : ce sont elles qui situent le renouveau dans chaque vie, et je ne lis pas ce contact sans les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Les autres angles de la même paire :
 

@@ -44,13 +44,13 @@ Three placements bring most people here:
 
 - **[Sun in Gemini](/astrology/sun-in-gemini/):** born between about 21 May and 20 June. You grow by learning and by connecting ideas, people and places, and your sense of purpose often has more than one strand.
 - **[Moon in Gemini](/astrology/moon-in-gemini/):** you understand your feelings by putting them into words. Talking things through is how you settle, and boredom unsettles you more than most things.
-- **[Gemini rising](/astrology/gemini-rising/):** you meet the world with questions and quick conversation, and people find you lively and easy to talk to. Mercury becomes your [chart ruler](/astrology/chart-ruler/). A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Gemini rising](/astrology/gemini-rising/):** you meet the world with questions and quick conversation, and people find you lively and easy to talk to. Mercury becomes your [chart ruler](/astrology/chart-ruler/). Whether you have Gemini rising depends on your [birth time](/blog/unknown-birth-time/), because the rising sign changes about every two hours.
 
-None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Gemini through the whole chart, beginning with where Mercury sits.
+The whole story takes more than these three. According to [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held true about a third of the time, and the Moon, which I checked like every other placement, was not one of the three that held far more often. So I read Gemini through the whole chart, beginning with where Mercury sits.
 
 ## Its ruler: Mercury {#ruler}
 
-A sign's ruler is the planet that's at home in it, the one that carries the sign's business into the rest of the chart. Gemini belongs to [Mercury](/astrology/mercury/), the planet of thought, speech and exchange, which also rules [Virgo](/astrology/virgo/): in Gemini it gathers and connects, in Virgo it sorts and refines. Wherever your Mercury sits, by sign and house, shows where your Gemini side turns its curiosity. With Gemini on the cusp of the 10th house and Mercury in the 3rd, say, your working life runs on words, messages and the people close by. Mercury never strays more than about 28° from the Sun, so it is always in your Sun sign or a sign next to it.
+The ruler of Gemini is the planet that's at home there, and it carries Gemini's concerns into the rest of your chart. Gemini belongs to [Mercury](/astrology/mercury/), the planet of thought, speech and exchange, which also rules [Virgo](/astrology/virgo/): in Gemini it gathers and connects, in Virgo it sorts and refines. Wherever your Mercury sits, by sign and house, shows where your Gemini side turns its curiosity. With Gemini on the cusp of the 10th house and Mercury in the 3rd, say, your working life runs on words, messages and the people close by. Mercury never strays more than about 28° from the Sun, so it is always in your Sun sign or a sign next to it.
 
 In the classical scheme, no planet is exalted in Gemini or has its fall there. One is weakened:
 
@@ -73,7 +73,7 @@ A planet in Gemini speeds up and starts asking questions; the house it sits in s
 
 ## Gemini on a house cusp {#on-a-house-cusp}
 
-Every chart has Gemini somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Gemini opens a house, that's where you stay curious and keep things moving, and Mercury, wherever it sits, carries the story on. Which house it is depends on your birth time.
+Every chart has Gemini somewhere in its twelve houses, usually on the cusp of one of them. In Placidus, as in every quadrant system, Gemini might open two houses, or none at all if it's [intercepted](/astrology/intercepted-signs/) within a house. Wherever Gemini opens a house, that's where you stay curious and keep things moving, and Mercury, wherever it sits, carries the story on. Which house Gemini opens for you comes down to your birth time.
 
 1. **[1st house](/astrology/gemini-rising/):** Gemini rising — a quick, curious presence; you lead with questions, and people find you easy to talk to.
 2. **[2nd house](/astrology/gemini-on-2nd-house-cusp/):** you value ideas, skills and contacts; you like money to circulate rather than sit still, and may enjoy having more than one string to your bow.
@@ -97,4 +97,4 @@ In [synastry](/synastry/), Gemini planets bring conversation and lightness: the 
 - **“Geminis are two-faced.”** The twins of the symbol describe a mind that can see two sides at once, not a person who lies. Holding two views is a way of thinking, not a flaw of character.
 - **“Geminis are superficial.”** Curiosity that ranges widely isn't curiosity that stays on the surface. Gemini can go deep, in more than one place.
 - **“Geminis can't commit.”** What Gemini can't do is stay bored. A bond that keeps it curious is a bond it keeps.
-- **“Born on the cusp, you're part Taurus.”** At the minute you were born, the Sun was in one sign or the other; within a day of a change, your birth time settles which. More on being [born on the cusp](/astrology/born-on-the-cusp/).
+- **“Born on the cusp, you're part Taurus.”** The Sun, at the minute of your birth, was either in Taurus or in Gemini; within a day of the change, your birth time tells you which. The page on being [born on the cusp](/astrology/born-on-the-cusp/) says more.

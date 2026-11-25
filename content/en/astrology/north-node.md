@@ -95,7 +95,7 @@ About every 18.6 years the nodes come back to where they were when you were born
 
 ## What held in my tests {#what-held}
 
-My notebook doesn't name the nodes. When I [went through charts like an invoice](/blog/i-tested-my-birth-chart/) — Sun, Moon, rising, each planet in its sign and house — about a third of what I checked held: 30 to 40%. The angle it reports is the rising sign, which held about a third of the time too. The three that stood out were [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/), at 75 to 90%. So I have no figure for the North Node, and I won't invent one. I read it as a direction worth trying on, never a verdict, and I tell you when part of a reading leans on it.
+My notebook doesn't name the nodes. When I [went through charts like an invoice](/blog/i-tested-my-birth-chart/) — Sun, Moon, rising, each planet in its sign and house — about a third of what I checked held: 30 to 40%. The angle it reports is the rising sign, which held about a third of the time too. At 75 to 90%, [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/) were the three that stood out. So I have no figure for the North Node, and I won't invent one. I read it as a direction worth trying on, never a verdict, and I tell you when part of a reading leans on it.
 
 ## Common myths {#myths}
 

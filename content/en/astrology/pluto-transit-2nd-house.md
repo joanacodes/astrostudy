@@ -32,7 +32,7 @@ Money is the surface of the 2nd house; underneath lie the questions of what keep
 
 ## What changes {#what-changes}
 
-[Pluto](/astrology/pluto/) brings up what has been buried and asks who holds the power. The [2nd house](/astrology/2nd-house/) is what you have and what you value: earnings, belongings, the talents you could live from, and the sense of your own worth beneath them. Over the years of this stay, your idea of security tends to be tested from below. Things you thought you needed may lose their grip on you, while one or two you'd taken for granted turn out to matter enormously. Where money and dependence are tangled, with a partner, a family or an employer, the knot becomes harder to ignore. And the value you put on your own time and skill often rises, sometimes after a long stretch of underselling it.
+[Pluto](/astrology/pluto/) brings up what has been buried and asks who holds the power. What you own and what you care about sit in the [2nd house](/astrology/2nd-house/): your income, your belongings, the talents you could earn a living from, and under all of them the sense of your own worth. Over the years of this stay, your idea of security tends to be tested from below. Things you thought you needed may lose their grip on you, while one or two you'd taken for granted turn out to matter enormously. Where money and dependence are tangled, with a partner, a family or an employer, the knot becomes harder to ignore. And the value you put on your own time and skill often rises, sometimes after a long stretch of underselling it.
 
 Planets in your natal 2nd are met on the way, sometimes years apart: a Saturn there may find its caution re-examined, a Jupiter may be asked what "enough" would look like.
 

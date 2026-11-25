@@ -45,7 +45,7 @@ Une naissance sur 142 environ réunit ces deux luminaires. Le jour où la Lune p
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-L’amitié est le sol où pousse votre amour. La Lune en Verseau a besoin de quelqu’un qui respecte votre indépendance et vos idées singulières, et n’a pas besoin d’être rassuré chaque jour ; le Soleil en Vierge montre son amour en étant utile, fiable et attentif aux détails. Ce qui peut manquer, c’est la chaleur dite à voix haute. Il vous arrive peut-être de régler le problème de l’autre quand il voulait seulement être pris dans les bras. Demandez ce qu’il préfère : les deux sont des cadeaux.
+Votre amour prend racine dans l’amitié. La Lune en Verseau a besoin de quelqu’un qui respecte votre indépendance et vos idées singulières, et n’a pas besoin d’être rassuré chaque jour ; le Soleil en Vierge montre son amour en étant utile, fiable et attentif aux détails. Ce qui peut manquer, c’est la chaleur dite à voix haute. Il vous arrive peut-être de régler le problème de l’autre quand il voulait seulement être pris dans les bras. Demandez ce qu’il préfère : les deux sont des cadeaux.
 
 ## Au travail {#au-travail}
 

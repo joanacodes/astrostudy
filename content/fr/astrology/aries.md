@@ -45,9 +45,9 @@ Trois placements amènent la plupart des gens ici :
 
 - **[Soleil en Bélier](/astrology/sun-in-aries/) :** une naissance entre le 21 mars et le 19 avril environ. Vous découvrez qui vous êtes en essayant, et le courage est un muscle que vous ne cessez d’entraîner.
 - **[Lune en Bélier](/astrology/moon-in-aries/) :** les émotions arrivent vite et repartent aussi vite. Vous avez besoin de réagir avant de réfléchir, et c’est en bougeant que vous retrouvez votre calme, pas en vous faisant consoler.
-- **[Ascendant Bélier](/astrology/aries-rising/) :** vous abordez le monde de front, et l’on remarque votre énergie avant tout le reste. Mars devient le [maître du thème](/astrology/chart-ruler/). Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
+- **[Ascendant Bélier](/astrology/aries-rising/) :** vous abordez le monde de front, et l’on remarque votre énergie avant tout le reste. Mars devient le [maître du thème](/astrology/chart-ruler/). L’ascendant Bélier ne se trouve qu’avec votre [heure de naissance](/blog/unknown-birth-time/), puisqu’un nouveau signe se lève toutes les deux heures environ.
 
-Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Alors je lis le Bélier à travers tout le thème : les planètes qui s’y trouvent, la maison qu’il ouvre, et la place de Mars.
+Aucun des trois ne vous résume à lui seul. Dans les pages de [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire a tenu environ une fois sur trois, tout comme l’ascendant, tandis que la Lune, vérifiée comme tous les autres placements, ne comptait pas parmi les trois qui ont tenu bien plus souvent. Alors je lis le Bélier à travers tout le thème : les planètes qui s’y trouvent, la maison qu’il ouvre, et la place de Mars.
 
 ## Son maître : Mars {#maitre}
 
@@ -76,7 +76,7 @@ Une planète en Bélier prend la vitesse et la franchise du signe ; la maison 
 
 ## Le Bélier sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Bélier quelque part dans ses douze maisons, le plus souvent sur la cuspide — la ligne de départ — de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Bélier ouvre une maison, vous agissez d’abord et posez les questions ensuite, et Mars, quelle que soit sa place, dit où l’histoire continue. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Bélier quelque part dans ses douze maisons, le plus souvent sur la cuspide — la ligne de départ — de l’une d’elles. Avec Placidus ou un autre système par quadrants, le Bélier peut commencer deux maisons, ou n’en commencer aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où le Bélier ouvre une maison, vous agissez d’abord et posez les questions ensuite, et Mars, quelle que soit sa place, dit où l’histoire continue. La maison qu’ouvre le Bélier, c’est votre heure de naissance qui la fixe.
 
 1. **[Maison I](/astrology/aries-rising/) :** l’ascendant Bélier — vous abordez la vie de front, avec franchise et vivacité, et l’on voit en vous quelqu’un qui fait bouger les choses.
 2. **[Maison II](/astrology/aries-on-2nd-house-cusp/) :** l’envie de gagner votre vie à votre façon, par votre propre initiative ; les décisions d’argent se prennent vite, et attendre avant de dépenser est ce qui s’apprend.

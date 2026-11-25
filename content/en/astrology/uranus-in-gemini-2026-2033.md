@@ -60,7 +60,7 @@ Each year Uranus moves about four degrees on, then spends about 150 days retrogr
 - **2031–32:** from 27°15′ to 23°11′.
 - **2032–33:** from 1°39′ Cancer to 27°35′ Gemini.
 
-A natal planet in Gemini is met around the loop that covers its degree, for about twenty months with the orbs I use for timing ([transits](/astrology/transits/)). The house that holds Gemini receives Uranus for the whole stay; [Uranus transiting the 10th house](/astrology/uranus-transit-10th-house/) shows what that can look like. Gemini is ruled by [Mercury](/astrology/mercury/), and Mercury's place in your birth chart shows where that house's matters tend to play out ([house rulers](/astrology/house-rulers/)). Both need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+A natal planet in Gemini is met around the loop that covers its degree, for about twenty months with the orbs I use for timing ([transits](/astrology/transits/)). The house that holds Gemini receives Uranus for the whole stay; [Uranus transiting the 10th house](/astrology/uranus-transit-10th-house/) shows what that can look like. Gemini is ruled by [Mercury](/astrology/mercury/), and Mercury's place in your birth chart shows where that house's matters tend to play out ([house rulers](/astrology/house-rulers/)). Neither can be worked out without your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Three groups also meet it through their own Uranus, at an age its cycle sets:
 

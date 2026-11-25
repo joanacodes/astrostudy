@@ -85,7 +85,7 @@ The return has a reputation as a crisis. In readings it looks more like a review
 
 ## What held in my tests {#what-held}
 
-When I checked charts placement by placement — mine, then my family's, friends', and strangers' who told me nothing first — Saturn, [Chiron](/astrology/chiron/) and [Lilith](/astrology/black-moon-lilith/) held 75 to 90% of the time, while most placements held about a third. It's a notebook, not a study: a count by hand, mostly on people I knew. But it's why I slow down when I reach Saturn in a chart. [How I tested](/blog/i-tested-my-birth-chart/), and [how I read the three](/blog/saturn-chiron-lilith/).
+When I checked charts placement by placement — mine, then my family's, friends', and strangers' who told me nothing first — Saturn, [Chiron](/astrology/chiron/) and [Lilith](/astrology/black-moon-lilith/) held 75 to 90% of the time, while most placements held about a third. I counted by hand, mostly on people I knew: a notebook, not a study. But it's why I slow down when I reach Saturn in a chart. More on [the way I tested](/blog/i-tested-my-birth-chart/), and on [the way I read all three](/blog/saturn-chiron-lilith/).
 
 ## Common myths {#myths}
 

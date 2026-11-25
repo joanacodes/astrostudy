@@ -74,7 +74,7 @@ L’orbite irrégulière de Chiron fait que ses transits arrivent à des âges d
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-Quand j’ai vérifié des thèmes placement par placement — le mien, puis ceux de ma famille, d’amis, et d’inconnus qui ne m’avaient rien dit d’eux — Chiron, [Saturne](/astrology/saturn/) et [Lilith](/astrology/black-moon-lilith/) ont tenu 75 à 90 % du temps, quand la plupart des placements tenaient environ une fois sur trois. C’est un carnet, pas une étude : un décompte à la main, surtout sur des personnes que je connaissais. Mais c’est pour cela que Chiron a plus de place que le Soleil dans mes lectures. [Comment j’ai testé](/blog/i-tested-my-birth-chart/), et [comment je lis les trois](/blog/saturn-chiron-lilith/).
+Quand j’ai vérifié des thèmes placement par placement — le mien, puis ceux de ma famille, d’amis, et d’inconnus qui ne m’avaient rien dit d’eux — Chiron, [Saturne](/astrology/saturn/) et [Lilith](/astrology/black-moon-lilith/) ont tenu 75 à 90 % du temps, quand la plupart des placements tenaient environ une fois sur trois. Un décompte à la main, surtout sur des personnes que je connaissais, cela fait un carnet, pas une étude. Mais c’est pour cela que Chiron a plus de place que le Soleil dans mes lectures. Vous pouvez lire [comment j’ai testé](/blog/i-tested-my-birth-chart/), et [comment je lis Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/).
 
 ## Idées reçues {#idees-recues}
 

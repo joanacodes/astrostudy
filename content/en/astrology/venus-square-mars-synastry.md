@@ -38,7 +38,7 @@ Astrologers often describe Venus square Mars in synastry as attraction with fric
 
 What it makes possible is real negotiation. Nothing runs on autopilot: the Mars person learns that pushing harder isn't the same as persuading, and the Venus person learns that keeping the peace isn't the same as getting what they value. Assertion meets fairness, and both come out more skilled. The friction also keeps things lively: there is always something still to settle.
 
-Squares usually join signs of one modality. One person's Venus in Virgo with the other's Mars in Sagittarius, both mutable: a discerning taste for things done properly meets a bold drive that leaps at the big idea. The Mars person wants to start; the Venus person wants it done well.
+When Venus and Mars are square, their signs most often belong to one modality. One person's Venus in Virgo with the other's Mars in Sagittarius, both mutable: a discerning taste for things done properly meets a bold drive that leaps at the big idea. The Mars person wants to start; the Venus person wants it done well.
 
 ## Where it rubs {#where-it-rubs}
 

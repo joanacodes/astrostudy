@@ -60,8 +60,8 @@ Ici, la recherche est surtout faite d’arguments : des philosophes qui cherche
 
 ## Ce que j’ai trouvé {#ce-que-j-ai-trouve}
 
-Je suis venue à l’astrologie pour m’en moquer : avant de lire pour qui que ce soit, je l’ai donc testée. Mon propre thème d’abord, comme une facture, chaque position avec une coche ou une croix, puis ceux de ma famille, d’amis et d’inconnus, avec leur accord. Dans l’ensemble, environ un tiers de ce que j’ai vérifié a tenu : **30 à 40 %**. **Saturne, Lilith et Chiron ont tenu 75 à 90 % du temps.**
+Je suis venue à l’astrologie pour m’en moquer : avant de lire pour qui que ce soit, je l’ai donc testée. Mon propre thème d’abord, comme une facture, chaque position avec une coche ou une croix, puis ceux de ma famille, d’amis et d’inconnus, avec leur accord. Sur l’ensemble de mes vérifications, environ un tiers a tenu : **30 à 40 %**. **Saturne, Lilith et Chiron, en revanche, ont tenu 75 à 90 % du temps.**
 
-C’est un carnet, pas une étude, et cela ne prouve rien sur l’astrologie en général. Je ne prétends pas que mon comptage soit une étude scientifique : c’est un comptage à la main, dans un carnet, non audité. Je ne prétends pas non plus savoir comment l’astrologie fonctionne. Personne ne sait exactement comment ça marche, moi y compris, et le dire, c’est promettre de ne pas faire semblant.
+Ce test, c’était un carnet, pas une étude, et il n’apporte aucune preuve sur l’astrologie en général. Je ne prétends pas que mon comptage soit une étude scientifique : c’est un comptage à la main, dans un carnet, non audité. Je ne prétends pas non plus savoir comment l’astrologie fonctionne. Personne ne sait exactement comment ça marche, moi y compris, et le dire, c’est promettre de ne pas faire semblant.
 
 C’est pour cela que mes lectures sont proposées à des fins de réflexion et de divertissement, et que, lorsqu’un élément d’une lecture repose sur une position qui a moins souvent tenu dans mes tests, je vous le dis, pour que vous puissiez en juger par vous-même. [Ma méthode](/how-i-read/) explique le reste, et [la méthode de la facture](/blog/i-tested-my-birth-chart/) montre comment j’ai compté.

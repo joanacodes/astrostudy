@@ -63,5 +63,5 @@ My [notebook](/blog/i-tested-my-birth-chart/) doesn't name the Midheaven or the 
 
 - **“The Midheaven is the point straight overhead.”** That's the zenith. The Midheaven is where the zodiac crosses the meridian, and from Britain or France it always lies to the south, lower in the sky.
 - **“The Midheaven is always square the Ascendant.”** Only in particular cases; the gap changes with the time of day and the latitude.
-- **“Your Midheaven tells you which job to do.”** It describes a direction and a way of being seen, not a job title, and I never predict careers, money or success.
+- **“Your Midheaven names the job you should do.”** It describes a direction and a way of being seen, not a job title, and I never predict careers, money or success.
 - **“The IC is your mother and the Midheaven your father.”** Astrologers don't agree on which parent goes with which end. I read the IC as the family you come from, without the labels.

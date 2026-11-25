@@ -56,6 +56,6 @@ Both planets were counted as benefics in tradition, so this opposition sets two 
 
 Let each end borrow from the other. The Jupiter person can learn to enjoy the step they are on; the Venus person can ask, now and then, what it is all for. Alternate on purpose: one weekend for staying in, one for setting out. Among friends, let the planner and the host swap jobs once in a while; at work, the vision and the finish each get their say; in a family, an adult child's comforts and a parent's convictions can share a table.
 
-About 1 pair of people in 15 has this opposition, one way round or the other, within 6°. Venus moves about a degree a day and Jupiter only a fraction, so the hour of birth rarely makes or unmakes it; it does decide the houses the two ends land in, which only both times can show ([what changes without a birth time](/blog/unknown-birth-time/)).
+Venus in one chart, Jupiter facing it in the other, either way round and within 6°: about 1 pair of people in 15 has this contact. Venus moves about a degree a day and Jupiter only a fraction, so the hour of birth rarely makes or unmakes it; it does decide the houses the two ends land in, which only both times can show ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Inside one chart, [Venus opposite Jupiter](/astrology/venus-opposite-jupiter/) is a single person's back-and-forth between enjoying and reaching. Between two, the balance is negotiated, and both people should be in on the reading ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

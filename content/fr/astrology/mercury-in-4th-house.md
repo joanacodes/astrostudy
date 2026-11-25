@@ -34,7 +34,7 @@ Demandez où Mercure en maison 4 réfléchit le mieux : la réponse est souvent
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 4](/astrology/4th-house/), c’est le foyer, la famille, les racines et la vie privée : d’où vous venez, et ce que vous bâtissez pour y revenir. La tradition lui donnait aussi les terres et les maisons, ce qui ne bouge pas. L’une des quatre maisons angulaires, elle commence au [Fond du Ciel](/astrology/imum-coeli/), le point le plus bas du thème, et son signe naturel est le Cancer. Avec [Mercure](/astrology/mercury/) ici, les conversations les plus importantes de l’esprit ont lieu loin des regards : chez vous, en famille, ou en tête-à-tête avec un livre.
+La [maison 4](/astrology/4th-house/), c’est le foyer, la famille, les racines et la vie privée : d’où vous venez, et ce que vous bâtissez pour y revenir. Les terres et les maisons, les choses qui ne bougent pas, en faisaient aussi partie dans la tradition. L’une des quatre maisons angulaires, elle commence au [Fond du Ciel](/astrology/imum-coeli/), le point le plus bas du thème, et son signe naturel est le Cancer. Avec [Mercure](/astrology/mercury/) ici, les conversations les plus importantes de l’esprit ont lieu loin des regards : chez vous, en famille, ou en tête-à-tête avec un livre.
 
 Vous pensez peut-être beaucoup à vos origines, à l’histoire de la famille, aux lieux d’autrefois, aux mots et aux expressions qu’on employait chez vous. La mémoire est l’une des ressources de ce placement. Il vous faut souvent un endroit calme et familier pour bien penser, et vous travaillez peut-être mieux de chez vous. Mercure en Cancer dans cette maison, le signe même de la maison 4, fait de la mémoire le sujet principal ([Mercure en Cancer](/astrology/mercury-in-cancer/)).
 

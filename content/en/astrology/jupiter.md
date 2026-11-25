@@ -93,7 +93,7 @@ Jupiter also spends about four months of every year retrograde, so plenty of peo
 
 ## What held in my tests {#what-held}
 
-I checked Jupiter the way I checked everything in [my notebook](/blog/i-tested-my-birth-chart/): its sign and its house, in my own chart first, then in my family's, friends' and strangers', with their consent, a tick or a cross beside each line. It wasn't one of the three that held far more often — [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/) held 75 to 90% of the time — and across everything I checked, about a third held. So I read Jupiter in every chart, but I hold it lightly, and when part of a reading rests on it, I tell you. It's a notebook, not a study, and it shapes [how I read](/how-i-read/).
+I checked Jupiter the way I checked everything in [my notebook](/blog/i-tested-my-birth-chart/): its sign and its house, in my own chart first, then in my family's, friends' and strangers', with their consent, a tick or a cross beside each line. It wasn't one of the three that held far more often — [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/) held 75 to 90% of the time — and across everything I checked, about a third held. So I read Jupiter in every chart, but I hold it lightly, and when part of a reading rests on it, I tell you. I kept a notebook, not a study, and it shapes [how I read](/how-i-read/).
 
 ## Common myths {#myths}
 

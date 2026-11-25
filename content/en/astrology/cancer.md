@@ -44,13 +44,13 @@ Three placements bring most people here:
 
 - **[Sun in Cancer](/astrology/sun-in-cancer/):** born between about 21 June and 22 July. You grow by caring for what's yours, and your sense of purpose is tied to the people and places you belong to.
 - **[Moon in Cancer](/astrology/moon-in-cancer/):** the Moon at home — deep, tidal feelings, a long memory, and a need for a safe place to come back to. You often sense other people's moods before they say a word.
-- **[Cancer rising](/astrology/cancer-rising/):** you meet the world carefully, a little guarded at first and warm once you feel safe. The Moon becomes your [chart ruler](/astrology/chart-ruler/), so its sign and house weigh more than usual. A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Cancer rising](/astrology/cancer-rising/):** you meet the world carefully, a little guarded at first and warm once you feel safe. The Moon becomes your [chart ruler](/astrology/chart-ruler/), so its sign and house weigh more than usual. For Cancer rising, your [birth time](/blog/unknown-birth-time/) is what counts, as the rising sign moves on about every two hours.
 
-None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Cancer through the whole chart, beginning with the Moon.
+None of these tells the whole story. The count in [my notebook](/blog/i-tested-my-birth-chart/) put the Sun sign and the rising sign at about a third of the time each; the Moon was checked like every other placement, and it wasn't among the three that held far more often. So I read Cancer through the whole chart, beginning with the Moon.
 
 ## Its ruler: the Moon {#ruler}
 
-A sign's ruler is the planet that's at home in it, the one that carries the sign's business into the rest of the chart. Cancer belongs to the [Moon](/astrology/moon/), the only sign it rules: tradition gave the two lights the two signs of high summer, Cancer to the Moon and Leo to the Sun. Wherever your Moon sits, by sign and house, shows where your Cancer side looks for safety and where it gives care. With Cancer on the cusp of the 10th house and the Moon in the 4th, say, your public life and your home life are woven together. The Moon changes sign about every two and a half days, so even people born close together can have their Cancer working through very different Moons.
+Cancer's ruler is the planet at home in it, and it's that planet that brings Cancer's business into the rest of the chart. Cancer belongs to the [Moon](/astrology/moon/), the only sign it rules: tradition gave the two lights the two signs of high summer, Cancer to the Moon and Leo to the Sun. Wherever your Moon sits, by sign and house, shows where your Cancer side looks for safety and where it gives care. With Cancer on the cusp of the 10th house and the Moon in the 4th, say, your public life and your home life are woven together. The Moon changes sign about every two and a half days, so even people born close together can have their Cancer working through very different Moons.
 
 Three more planets have a particular bond with Cancer:
 
@@ -75,7 +75,7 @@ A planet in Cancer turns protective and remembers everything; the house it sits 
 
 ## Cancer on a house cusp {#on-a-house-cusp}
 
-Every chart has Cancer somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Cancer opens a house, that's where you protect and nurture, and the Moon, wherever it sits, carries the story on. Which house it is depends on your birth time.
+Every chart has Cancer somewhere in its twelve houses, usually on the cusp of one of them. Cancer can open two houses in Placidus and the other quadrant systems — or none, if it is [intercepted](/astrology/intercepted-signs/) inside a single house. Wherever Cancer opens a house, that's where you protect and nurture, and the Moon, wherever it sits, carries the story on. Where Cancer falls among your houses is a matter of your birth time.
 
 1. **[1st house](/astrology/cancer-rising/):** Cancer rising — a careful, caring presence; guarded at first, warm once you feel safe.
 2. **[2nd house](/astrology/cancer-on-2nd-house-cusp/):** money and possessions as a source of safety; you keep things for what they mean, and like to have something put by.
@@ -99,4 +99,4 @@ In [synastry](/synastry/), Cancer planets bring care and protection: the person 
 - **“Cancers are clingy.”** Cancer holds on to what it loves, and from outside that can look like clinging. It's a need to belong; given enough safety, Cancer lets people go, and grow.
 - **“Cancer is a soft, passive sign.”** It's cardinal: it starts things. Its way of starting is to protect, gather people and make a home — action through care.
 - **“Cancers are moody because the Moon rules them.”** Everyone has a Moon, and everyone has moods. Cancer simply notices them sooner, its own and other people's.
-- **“Born on the cusp, you're a bit of Gemini.”** At the minute you were born, the Sun was in one sign or the other; within a day of a change, your birth time settles which. More on being [born on the cusp](/astrology/born-on-the-cusp/).
+- **“Born on the cusp, you're a bit of Gemini.”** At the minute of your birth, the Sun was in Gemini or in Cancer, not a bit of each; within a day of the change, your birth time settles it. [Born on the cusp](/astrology/born-on-the-cusp/) explains the rest.

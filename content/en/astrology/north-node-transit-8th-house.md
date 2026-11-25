@@ -39,7 +39,7 @@ The [South Node](/astrology/south-node/) in your 2nd knows the opposite habit we
 
 Scorpio, the 8th's natural sign, has two rulers, Mars, the traditional one, and Pluto, the modern one, and I read both: with either natal in your 8th, questions of control and trust tend to come forward while the node crosses it.
 
-Tradition gave this house death and inheritance. A [transit](/astrology/transits/) predicts neither ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and I don't read debts, legacies or joint money for their outcome. What this one stirs is what your chart already holds about closeness.
+Death and inheritance belonged to this house in the tradition. A [transit](/astrology/transits/) predicts neither ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and I don't read debts, legacies or joint money for their outcome. What this one stirs is what your chart already holds about closeness.
 
 ## How long it lasts {#how-long-it-lasts}
 

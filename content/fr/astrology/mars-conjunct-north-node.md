@@ -43,7 +43,7 @@ Ce qu’elle apporte, une fois pratiquée, c’est une confiance particulière 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le signe dit quel genre d’action. Avec le Nœud Nord en Bélier, Mars à cet endroit redouble l’appel à agir de votre propre initiative ; en Balance, l’effort grandit en apprenant à agir avec quelqu’un plutôt qu’en solitaire ; en Capricorne, en prenant des responsabilités au-delà de la famille. La maison montre où : en maison 10, dans votre vie professionnelle ; en maison 7, dans le couple. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le signe dit quel genre d’action. Avec le Nœud Nord en Bélier, Mars à cet endroit redouble l’appel à agir de votre propre initiative ; en Balance, l’effort grandit en apprenant à agir avec quelqu’un plutôt qu’en solitaire ; en Capricorne, en prenant des responsabilités au-delà de la famille. La maison montre où : en maison 10, dans votre vie professionnelle ; en maison 7, dans le couple. Cette maison se trouve grâce à votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Avec le nœud vrai, on compte environ 1 personne sur 28 née avec Mars à moins de 6° du Nœud Nord. Mars va bien plus vite ; le nœud recule d’un signe en 18 mois environ. Je vérifie aussi la conjonction avec le nœud moyen, jamais à plus d’un ou deux degrés ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)) : au bord de l’orbe, l’un peut montrer la conjonction et l’autre non.
 

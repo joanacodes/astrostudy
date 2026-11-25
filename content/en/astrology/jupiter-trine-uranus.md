@@ -44,7 +44,7 @@ Flow isn't passivity. Because this comes so easily, it can stay at the level of 
 
 Counting within 6°, it is found in about 1 person in 15 born between 1930 and 2009, in twelve groups of births: September 1931 to August 1932; December 1936 to January 1937 and August to October 1937; October to December 1945 and April to September 1946; March to August 1950 and December 1950 to February 1951; December 1959 to February 1960 and July to November 1960; April to June 1964 and November 1964 to February 1965; February to March 1974; September to November 1977 and May to July 1978; May 1987 to April 1988; October 1991 to February 1992 and July to August 1992; September to October 2000 and May to July 2001; and October 2005 to September 2006.
 
-With so many births sharing each spell, the trine is a cohort's temperament first ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)); its house makes it yours. Jupiter in the 11th trine Uranus in the 3rd, for example, might show as friendships and groups that keep widening what you think about. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+With so many births sharing each spell, the trine is a cohort's temperament first ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)); its house makes it yours. Jupiter in the 11th trine Uranus in the 3rd, for example, might show as friendships and groups that keep widening what you think about. Each planet's house can be known only with a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Beside the trine:
 

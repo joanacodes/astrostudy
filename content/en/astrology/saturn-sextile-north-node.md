@@ -52,7 +52,7 @@ The other Saturn–North Node aspects:
 - **[Saturn trine North Node](/astrology/saturn-trine-north-node/):** trine and sextile swapped: easy support for the new, an opening to the old.
 - **[Saturn opposite North Node](/astrology/saturn-opposite-north-node/):** Saturn on the South Node, giving weight to the familiar.
 
-Between two charts, [Saturn sextile North Node in synastry](/astrology/saturn-sextile-north-node-synastry/) can make one person a practical help in the other's growth, offering method without taking over. I read it from both people's charts.
+Between two charts, [Saturn sextile North Node in synastry](/astrology/saturn-sextile-north-node-synastry/) can make one person a practical help in the other's growth, offering method without taking over. I read it from each person's side.
 
 ## In transits {#in-transits}
 

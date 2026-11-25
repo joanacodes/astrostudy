@@ -48,7 +48,7 @@ An easy contact with deep things has its blind spot: change can happen without a
 
 Name what's changing. Once in a while, ask each other what's different since last year, and whether the change was chosen. Make room for lightness: a silly evening, a trip with no purpose. The Pluto person can ask whether their influence still feels welcome; the Moon person can bring their own direction to the table rather than following. And when a hard season comes, use this trine on purpose: it's what it's good for.
 
-About 1 pair of people in 7 has this trine, one way round or the other, within 6.8°. With 12 to 31 years to each sign, Pluto makes the Pluto person's side of this trine common to a large crowd of contemporaries; what no contemporary shares is the other person's Moon, set by a single day and hour. Both birth times matter, then, since a Moon gaining some 13° a day can move into or out of a 6.8° orb in hours, and since the houses that place the trine in each life depend on them ([why I wait for the time](/blog/unknown-birth-time/#why-i-wait-for-the-time)).
+About 1 pair of people in 7 is linked by a Moon–Pluto trine, one person's Moon to the other's Pluto or the reverse, within 6.8°. With 12 to 31 years to each sign, Pluto makes the Pluto person's side of this trine common to a large crowd of contemporaries; what no contemporary shares is the other person's Moon, set by a single day and hour. Both birth times matter, then, since a Moon gaining some 13° a day can move into or out of a 6.8° orb in hours, and since the houses that place the trine in each life depend on them ([why I wait for the time](/blog/unknown-birth-time/#why-i-wait-for-the-time)).
 
 Other angles give the same pair of functions more friction, or less distance:
 

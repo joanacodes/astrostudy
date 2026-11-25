@@ -32,7 +32,7 @@ The 3rd house is the most ordinary room in the chart: errands, messages, the str
 
 ## What changes {#what-changes}
 
-[Pluto](/astrology/pluto/) is depth and power, and the urge to reach the root of things. The [3rd house](/astrology/3rd-house/) is how you think and speak, your siblings and neighbours, the short trips and the daily learning that fill a week. Tradition called it the Goddess, the house where the Moon rejoices. With Pluto passing through, conversation tends to lose its padding. You may find small talk harder and frank talk easier, start asking the question everyone else steps around, or take up a subject and refuse to stop at its surface. Old patterns with brothers, sisters or the people you grew up with can come back into view, not as events but as things you finally understand. Words, yours and other people's, begin to feel as if they have consequences.
+[Pluto](/astrology/pluto/) is depth and power, and the urge to reach the root of things. The [3rd house](/astrology/3rd-house/) is how you think and speak, your siblings and neighbours, the short trips and the daily learning that fill a week. The old books named it the Goddess: the Moon has its joy in this house. With Pluto passing through, conversation tends to lose its padding. You may find small talk harder and frank talk easier, start asking the question everyone else steps around, or take up a subject and refuse to stop at its surface. Old patterns with brothers, sisters or the people you grew up with can come back into view, not as events but as things you finally understand. Words, yours and other people's, begin to feel as if they have consequences.
 
 A natal Mercury in the 3rd is the planet most changed by the meeting: its curiosity turns into investigation.
 

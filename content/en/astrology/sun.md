@@ -48,7 +48,7 @@ I read the Sun as direction rather than personality. It answers *what are you tr
 
 The Sun works with the [Moon](/astrology/moon/), which describes what you need to feel safe, and with the [Ascendant](/astrology/ascendant/), which describes how you meet the world. Read together, the three give a first sketch; the rest of the chart fills it in.
 
-Its aspects are where it gets personal. Born with the [Sun conjunct the Moon](/astrology/sun-conjunct-moon/), at a new moon, what you want and what you need pull the same way; with the [Sun opposite the Moon](/astrology/sun-opposite-moon/), at a full moon, they face each other and ask to be balanced. A [Sun square Saturn](/astrology/sun-square-saturn/) often describes someone who had to earn their confidence slowly. And Mercury never strays more than 28° from the Sun, so the only major aspect the two can make is the [conjunction](/astrology/sun-conjunct-mercury/).
+For the Sun, it's the aspects that make a reading personal. Born with the [Sun conjunct the Moon](/astrology/sun-conjunct-moon/), at a new moon, what you want and what you need pull the same way; with the [Sun opposite the Moon](/astrology/sun-opposite-moon/), at a full moon, they face each other and ask to be balanced. A [Sun square Saturn](/astrology/sun-square-saturn/) often describes someone who had to earn their confidence slowly. And Mercury never strays more than 28° from the Sun, so the only major aspect the two can make is the [conjunction](/astrology/sun-conjunct-mercury/).
 
 ## The Sun through the signs {#through-the-signs}
 
@@ -92,11 +92,11 @@ The Sun crosses each house of your chart in about a month, so its transits are s
 
 ## What held in my tests {#what-held}
 
-The Sun sign is the placement everyone reads first. In [my notebook](/blog/i-tested-my-birth-chart/), it held about a third of the time — 30 to 40%, with the rising sign, Venus and Mercury — which is close to what a flattering, vague horoscope scores. That's not nothing, and I still read it in every chart. But [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/#why-not-the-sun) held 75 to 90% of the time, so that's where I spend the most time, and I tell you which parts of a reading rest on less. It's a notebook, not a study, and it shapes [how I read](/how-i-read/).
+The Sun sign is the placement everyone reads first. In [my notebook](/blog/i-tested-my-birth-chart/), it held about a third of the time — 30 to 40%, with the rising sign, Venus and Mercury — which is close to what a flattering, vague horoscope scores. That's not nothing, and I still read it in every chart. But [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/#why-not-the-sun) held 75 to 90% of the time, so that's where I spend the most time, and I tell you which parts of a reading rest on less. Even as a notebook and not a study, it shapes [how I read](/how-i-read/), the Sun included.
 
 ## Common myths {#myths}
 
 - **“Your Sun sign is your chart.”** It's one placement out of more than a dozen. Two people born on the same day can have different Moons, risings and houses.
-- **“Born on the cusp, you're a bit of both.”** At the minute you were born the Sun was in one sign; near a change, your birth time settles which.
+- **“Born on the cusp, you're a bit of both.”** The Sun can only be in one sign at the minute of your birth; close to a change of sign, your birth time is what decides which.
 - **“Your sign is wrong because the stars have moved.”** Western astrology uses the tropical zodiac, tied to the seasons, not the constellations; Ophiuchus is a constellation, not a missing sign.
 - **“Horoscopes describe Sun signs.”** A horoscope written for a twelfth of humanity can only be general, which is exactly why it fits most people a little.
