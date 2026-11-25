@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "Taureau", "thème composite"]
 weight: 2098
 glyph: "♃♉"
-definition: "Avec Jupiter composite en Taureau, le point situé à mi-chemin des positions natales de Jupiter de deux personnes tombe dans le signe de terre fixe gouverné par Vénus. Les astrologues y lisent une relation qui grandit en gardant ce qui marche : des habitudes qui durent, des principes éprouvés, une générosité faite de fiabilité. Ce placement ne promet ni argent ni avenir."
+definition: "Avec Jupiter composite en Taureau, le mi-point de deux positions natales de Jupiter tombe dans le signe de terre fixe gouverné par Vénus. Les astrologues y lisent une relation qui grandit en gardant ce qui marche : des habitudes qui durent, des principes éprouvés, une générosité faite de fiabilité. Ce placement ne promet ni argent ni avenir."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃, au mi-point de deux positions natales de Jupiter, par l’arc le plus court" }
   - { k: "Signe", v: "Taureau ♉, terre fixe, gouverné par Vénus" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-taurus", "/astrology/taurus", "/astrology/jupiter-return", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Jupiter composite en Taureau ?"
-    a: "Qu’à mi-chemin entre vos deux positions natales de Jupiter se trouve le Taureau : le thème de la relation grandit d’un pas régulier. Les astrologues y lisent un lien qui bâtit sa confiance au fil des années, tient aux principes qui ont fait leurs preuves et montre sa générosité par sa fiabilité. Ce placement ne dit rien de vos revenus ni de votre avenir."
+    a: "Qu’à mi-chemin entre vos deux positions natales de Jupiter se trouve le Taureau : le thème de la relation grandit d’un pas régulier. Les astrologues y lisent un lien qui bâtit sa confiance avec les années, tient aux principes éprouvés et montre sa générosité par sa fiabilité. Ce placement ne dit rien de vos revenus ni de votre avenir."
   - q: "Est-ce que Jupiter composite en Taureau annonce de l’argent pour un couple ?"
     a: "Non. Jupiter représente la croissance, pas la richesse, et le Taureau décrit la constance et le soin de ce que l’on a, pas un compte en banque. Un composite ne peut prévoir ni revenus, ni économies, ni gains, et aucun thème ne peut les promettre. Ce placement décrit un lien qui s’élargit en entretenant ce qu’il bâtit."
   - q: "Est-ce qu’un couple avec douze ans d’écart peut avoir Jupiter composite en Taureau ?"
