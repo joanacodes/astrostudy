@@ -35,7 +35,7 @@ const ASPECT_WORD = { conjunction: 'conjunct', sextile: 'sextile', square: 'squa
 
 const p = (id) => `/astrology/${id}/`;
 // the site's own pages that rules ask for, outside the encyclopaedia (the plan lists its pages and the articles)
-export const SITE = new Set(['/synastry/', '/how-i-read/', '/birth-chart/']);
+export const SITE = new Set(['/synastry/', '/how-i-read/', '/birth-chart/', '/disclaimers/']);
 const real = (paths) => paths.filter((x) => byPath.has(x) || SITE.has(x));
 const around = (list, i) => [list[(i + list.length - 1) % list.length], list[(i + 1) % list.length]];
 const opposite = (list, i) => list[(i + list.length / 2) % list.length];
