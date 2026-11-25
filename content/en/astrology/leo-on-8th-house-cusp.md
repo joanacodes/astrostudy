@@ -5,6 +5,8 @@ description: "Leo on the 8th house cusp: wholehearted trust, generosity with wha
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Placements"]
+tags: ["Leo", "8th house", "house cusps"]
 weight: 2483
 glyph: "♌"
 definition: "Leo on the 8th house cusp means the house of intimacy, trust and what you share or owe opens in Leo. You tend to give trust and money wholeheartedly, to want to be cherished, and to find needing or owing harder than giving. The Sun’s house shows where those bonds and resources come into your life."
