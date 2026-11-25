@@ -5,9 +5,11 @@ description: "Gonggong in astrology: the red dwarf planet named by public vote i
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["dwarf planets"]
 weight: 42
 glyph: "✦"
-definition: "Gonggong is a dwarf planet of the scattered disc, about 1,230 km across, on a 547-year orbit tilted 31° that carries it from 33 to 101 times the Earth’s distance from the Sun. Named in 2020 after a Chinese water god of floods and chaos, it is new to astrology, and any meaning is only proposed."
+definition: "Gonggong is one of the most distant dwarf planets known, about 1,230 km across, on a 547-year orbit tilted 31° that carries it from 33 to 101 times the Earth’s distance from the Sun. Named in 2020 after a Chinese water god of floods and chaos, it is new to astrology, and any meaning is only proposed."
 facts:
   - { k: "Type", v: "Dwarf planet of the scattered disc, beyond Neptune" }
   - { k: "Size", v: "About 1,230 km across, close to the size of Pluto’s moon Charon" }
@@ -34,30 +36,30 @@ For more than a decade, Gonggong was the largest body in the Solar System withou
 
 ## What it is {#what-it-is}
 
-Gonggong is a dwarf planet about 1,230 km across, close to the size of Pluto's moon Charon and the fifth-largest body known beyond [Neptune](/astrology/neptune/). It belongs to the scattered disc, on an orbit of extremes: 547 years long, stretched enough to swing it from 33 to 101 times the Earth's distance from the Sun, and tilted 30.9° to the Sun's path ([Ecliptic](/astrology/ecliptic/)). It completes three circuits for every ten of Neptune's.
+At about 1,230 km across, close to the size of Pluto's moon Charon, Gonggong is the fifth-largest body known beyond [Neptune](/astrology/neptune/). It belongs to the scattered disc, on an orbit of extremes: 547 years long, stretched enough to swing it from 33 to 101 times the Earth's distance from the Sun, and tilted 30.9° to the Sun's path ([Ecliptic](/astrology/ecliptic/)). It completes three circuits for every ten of Neptune's.
 
-It was nearest the Sun in 1857 and is heading for its farthest point, which it reaches in 2130. In 2026 it is 89.7 times the Earth's distance away, the sixth-farthest body known in the Solar System.
+Its last perihelion, its closest point to the Sun, came in 1857, and it is heading for its farthest, which it reaches in 2130. In 2026 it is 89.7 times the Earth's distance away, the sixth-farthest body known in the Solar System.
 
 It is one of the reddest bodies beyond Neptune, coloured by organic compounds, yet water ice shows on its surface, a sign of brief eruptions from inside long ago. It turns slowly, in about 22 hours, perhaps braked by its moon, Xiangliu, about 100 km across, which Csaba Kiss's team found in 2016 in Hubble images taken in 2010.
 
-Megan Schwamb, then a graduate student of Michael Brown's, spotted it on 17 July 2007 in images from Palomar, during a survey with Brown and David Rabinowitz of the region where [Sedna](/astrology/sedna/) travels. It became part of her doctoral thesis, and was announced in January 2009 as 2007 OR10.
+Megan Schwamb, then a graduate student of Michael Brown's, spotted it on 17 July 2007 in images from Palomar, during a survey, with Brown and David Rabinowitz, of the region where [Sedna](/astrology/sedna/) travels. It became part of her doctoral thesis, and was announced in January 2009 as 2007 OR10.
 
 ## How it works {#how-it-works}
 
 Gonggong appears in Chinese sources from before 221 BC: the “Heavenly Questions” of the Chu Ci blame him for knocking the earth's axis askew. Later texts fill in the picture: a water god with a copper human head, an iron forehead, red hair and a serpent's body, who brings floods with his minister Xiangliu, a nine-headed snake. Beaten by Zhurong, god of fire, in a struggle for the throne of heaven, he smashed his head in rage against Buzhou Mountain, one of the pillars holding up the sky. The sky tipped towards the north-west and the earth towards the south-east, which is why, the story says, China's great rivers flow south-east and the heavenly bodies travel north-west. The goddess Nüwa propped up the sky with the legs of a giant turtle and ended the floods, but could not set it fully straight.
 
-The vote, run by the discoverers in 2019, offered three names that suited the body's water ice and red colour, each with a companion figure for the moon: Gonggong, Holle and Vili. Gonggong won, the IAU accepted it, and on 5 February 2020 the moon became Xiangliu. Its symbol, by Denis Moskowitz, joins the character 共, gòng, to a snake's tail, and astrologers use it more than anyone.
+The vote, run by the discoverers in 2019, offered three names that suited the body's water ice and red colour, each with a companion figure for the moon: Gonggong, Holle and Vili. Gonggong won, the IAU accepted it, and on 5 February 2020 the moon became Xiangliu. Astrologers are the main users of its symbol, the character 共, gòng, with a snake's tail, drawn by Denis Moskowitz.
 
 The myth is about a tilted sky, and the body's own orbit is tilted too: for long stretches its 31° tilt lifts it far from the Sun's path, and a chart, which measures only along the zodiac, flattens that away ([Zodiacal longitude](/astrology/zodiacal-longitude/)). Bound now for 2130, it is slowing, and will creep along the zodiac for the rest of this century.
 
 ## In a reading {#in-a-reading}
 
-The name is not yet seven years old, and nothing said about it amounts to a tradition. Read from the myth, Gonggong would stand for upheaval: a rage that floods the plain and tips the sky, and a repair that never quite straightens it. I'd offer that as a proposal, and as a caution to myself: a flood god invites predictions of disaster, and I don't make them. Transits are weather, not a forecast, and Gonggong isn't even among the bodies I follow.
+The name is not yet seven years old, far too young for a tradition. Like [Varuna](/astrology/varuna/)'s, it comes from a living culture, so I keep to the story as the old Chinese texts tell it. Read from the myth, Gonggong would stand for upheaval: a rage that floods the plain and tips the sky, and a repair that never quite straightens it. I'd offer that as a proposal, and as a caution to myself: a flood god invites predictions of disaster, and I don't make them. Transits are weather, not a forecast, and Gonggong isn't even among the bodies I follow.
 
-The system behind my readings doesn't place it ([How I read](/how-i-read/)), and my notebook can't speak for it: a count by hand, a tick or a cross beside each placement of each chart, it never had a line for Gonggong ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
+Gonggong is absent from the charts my readings are built on ([How I read](/how-i-read/)), and my notebook can't speak for it: a count by hand, a tick or a cross beside each placement of each chart, and Gonggong was never one of those placements ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
 
 ## Common myths {#myths}
 
-- **“Gonggong is the farthest object in the Solar System.”** It is sixth among the bodies known; Eris and several smaller worlds are farther out.
+- **“Nothing known lies farther out than Gonggong.”** In 2026 five known bodies are farther from the Sun, Eris among them.
 - **“Gonggong is snow-white.”** Brown nicknamed it Snow White, expecting an icy member of [Haumea](/astrology/haumea/)'s family, and because his team had already found seven large bodies, Quaoar, Sedna, Haumea, [Salacia](/astrology/salacia/), Orcus, Makemake and Eris, which they called the seven dwarfs. It turned out to be red, and the nickname went.
 - **“No large body has a stranger orbit.”** Among the likely dwarf planets, [Eris](/astrology/eris/)'s orbit is longer and more tilted, and Sedna's longer and more stretched: Gonggong comes second or third on each count.

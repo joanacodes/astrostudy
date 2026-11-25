@@ -5,9 +5,11 @@ description: "Ixion in astrology: the large plutino found in Chile in 2001, its 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["dwarf planets"]
 weight: 40
 glyph: "✦"
-definition: "Ixion is a plutino, a body of the Kuiper belt 697 km across that circles the Sun every 248 years in step with Neptune, as Pluto does. Found in 2001, it is named after the Greek king bound to a burning wheel for betraying the god who took him in. Astrologers seldom use it; any meaning is a proposal."
+definition: "Ixion is a plutino, a body of the Kuiper belt 697 km across that circles the Sun every 248 years in step with Neptune, as Pluto does. Found in 2001, it is named after the Greek king bound to a burning wheel for betraying the god who took him in. Its symbols are rare in charts; its meaning, a proposal."
 facts:
   - { k: "Type", v: "Plutino of the Kuiper belt, in step with Neptune; a possible dwarf planet" }
   - { k: "Size", v: "697 km across, nearly round, measured by occultations from 2020 to 2023" }
@@ -20,7 +22,7 @@ facts:
 related: ["/astrology/orcus", "/astrology/varuna", "/astrology/chiron", "/astrology/constellations-versus-signs", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Ixion represent in astrology?"
-    a: "Nothing settled: its symbols turn up now and then on astrology websites without coming into general use. Those who place it start from the myth of a king who killed his father-in-law, was taken in by Zeus, then betrayed him at his own table. Ingratitude is a proposal drawn from that story, not a tradition."
+    a: "Nothing settled; its symbols are seldom used. Those who place it start from the myth of a king who killed his father-in-law, was taken in by Zeus, then betrayed him at his own table. Ingratitude is the theme people draw from it; astrology has had no time to make that more than a guess."
   - q: "Is Ixion a dwarf planet?"
     a: "Perhaps. It is 697 km across and nearly round, so Gonzalo Tancredi counts it a likely dwarf planet and Mike Brown a highly likely one. But it has no known moon, so its mass and density, which would help settle the question, can’t yet be measured."
   - q: "What is the wheel of Ixion?"
@@ -31,13 +33,13 @@ sources:
   - { title: "Apollodorus, The Library, trans. J. G. Frazer (1921), via Wikipedia, “Chiron”", url: "https://en.wikipedia.org/wiki/Chiron", note: "Chiron’s parents, unlike the other centaurs’" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "what the notebook covered, Chiron included" }
 ---
-Ixion is the brightest body the Deep Ecliptic Survey ever found, and in the summer of 2001 it looked like the largest known beyond Neptune. It proved smaller, and it has never shown a moon, so its mass, the most basic fact about a body, is still unknown.
+Ixion is the brightest body the Deep Ecliptic Survey ever found, and in the summer of 2001 it looked like the largest known beyond Neptune. It proved smaller, and it has never shown a moon, so even its mass is still unknown.
 
 ## What it is {#what-it-is}
 
-Ixion keeps Pluto's rhythm: for every two circuits it makes round the Sun, [Neptune](/astrology/neptune/) makes exactly three, which places it among the plutinos, named after their largest member, [Pluto](/astrology/pluto/). Its orbit takes 248 years, runs from 29.9 to 49.1 times the Earth's distance from the Sun, and is tilted 19.6° to the Sun's path, a little more than Pluto's 17°. Ixion will be nearest the Sun on 24 September 2070.
+Ixion keeps Pluto's rhythm: for every two circuits it makes round the Sun, [Neptune](/astrology/neptune/) makes exactly three, which places it among the plutinos, named after their largest member, [Pluto](/astrology/pluto/). It needs 248 years for one circuit, between 29.9 and 49.1 times the Earth's distance from the Sun, on a path tilted 19.6°, a little more than Pluto's 17°. Its next closest approach to the Sun falls on 24 September 2070.
 
-Occultations of stars between 2020 and 2023 measured it at 697 km across, nearly round and slightly flattened, the fourth-largest plutino with a measured size, after Pluto, [Orcus](/astrology/orcus/) and Achlys. In brightness it is close to [Varuna](/astrology/varuna/), a body of similar size. Its surface is dark and moderately red, coated with organic compounds that sunlight and cosmic rays have worked on for a very long time, with little sign of the water ice beneath. Hubble looked for moons in 2002 and 2006 and found none, so its mass and density are unknown, and astronomers call it a likely dwarf planet rather than a certain one.
+Occultations of stars between 2020 and 2023 measured it at 697 km across, nearly round and slightly flattened, the fourth-largest plutino with a measured size, after Pluto, [Orcus](/astrology/orcus/) and Achlys. In brightness it is close to [Varuna](/astrology/varuna/), a body of similar size. Its surface is dark and moderately red, coated with organic compounds that sunlight and cosmic rays have worked on for a very long time, with little sign of any water ice beneath. Hubble looked for moons in 2002 and 2006 and found none, so its mass and density are unknown, and astronomers call it a likely dwarf planet rather than a certain one.
 
 James Elliot and Lawrence Wasserman spotted it on 22 May 2001, comparing two images taken about two hours apart with the 4-metre Víctor M. Blanco Telescope at Cerro Tololo in Chile, in a survey led by Robert Millis. Announced on 1 July, it was traced on older plates back to 1982 and numbered 28978 that September.
 
@@ -47,13 +49,13 @@ In Greek myth, Ixion was a king of the Lapiths in Thessaly. He married Dia, neve
 
 The IAU keeps the underworld for plutinos, and Elaine K. Elliot, the wife of one of the survey's astronomers, suggested the king condemned to Tartarus; the name was published on 28 March 2002.
 
-Astrologers have proposed several symbols. Sandy Turnbull's joins an I and an X to the wheel; Denis Moskowitz's swaps them for the Greek letters iota and xi; another is simply the wheel. They turn up occasionally on astrology websites, and none is in wide use, which is a fair measure of how far Ixion has come into astrology.
+Several symbols have been proposed for astrologers' use. Sandy Turnbull's joins an I and an X to the wheel; Denis Moskowitz's swaps them for the Greek letters iota and xi; another is simply the wheel. They turn up occasionally on astrology websites, and none is in wide use, which is a fair measure of how far Ixion has come into astrology.
 
 ## In a reading {#in-a-reading}
 
 Ixion's story is about a man, and it ends in a punishment without end. I'd be careful with any reading that hands someone that story as a portrait: no placement makes a person ungrateful, and none condemns anyone to go round the same wheel. If I proposed a meaning from the myth, I'd take its quieter side, hospitality, and what is owed to whoever took you in when no one else would. That would be a proposal with nothing tested behind it.
 
-I don't compute it: the system behind my readings has no Ixion in it ([How I read](/how-i-read/)), and it wasn't on the list when I went through charts [like an invoice](/blog/i-tested-my-birth-chart/). The centaur that was, Chiron, held 75 to 90% of the time, with Saturn and Lilith.
+Ixion stays out of my readings: nothing in the system I built calculates it ([How I read](/how-i-read/)), and it wasn't on the list when I went through charts line by line ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). The centaur that was on it, Chiron, came out among the three that held best.
 
 ## Common myths {#myths}
 

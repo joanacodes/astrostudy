@@ -5,9 +5,11 @@ description: "Quaoar in astrology: the ringed dwarf planet found in 2002, its st
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["dwarf planets"]
 weight: 38
 glyph: "✦"
-definition: "Quaoar is a ringed dwarf planet of the Kuiper belt, about 1,100 km across, found in 2002 on a near-circular orbit of 285 years, with a moon named Weywot. It carries the name of the Tongva creator, used with the Tongva’s agreement. Astrology has little to say about it, and any meaning is a proposal from that name."
+definition: "Quaoar, found in 2002, is a dwarf planet about 1,100 km across that circles the Sun beyond Neptune every 285 years on a near-circular path, with two rings and a moon, Weywot. It carries the name of the Tongva creator, used with the Tongva’s agreement. Astrologers have barely begun with it: any meaning is proposed from the story."
 facts:
   - { k: "Type", v: "Dwarf planet of the Kuiper belt, with two rings" }
   - { k: "Size", v: "About 1,100 km across: half Pluto’s width, a little less than Charon’s" }
@@ -19,8 +21,8 @@ facts:
   - { k: "Symbol", v: "A Q joined to a canoe, in the style of Tongva rock art" }
 related: ["/astrology/haumea", "/astrology/orcus", "/astrology/ophiuchus-and-the-13th-sign", "/astrology/planet-x-and-planet-nine", "/blog/saturn-chiron-lilith"]
 faq:
-  - q: "What does Quaoar represent in astrology?"
-    a: "Nothing settled yet. Those who place it start from the Tongva creator, who sang and danced the other gods into being and brought order out of chaos, so creation and order are the usual proposals. They come from the name alone, not from a tradition: Quaoar has only been known since 2002."
+  - q: "Do astrologers use Quaoar?"
+    a: "A few do, with nothing settled yet. Those who place it start from the Tongva creator, who sang and danced the other gods into being and brought order out of chaos, so creation and order are the usual proposals. They come from the name alone, not from a tradition: Quaoar has only been known since 2002."
   - q: "How do you pronounce Quaoar?"
     a: "Its discoverers give three syllables, KWAH-oh-ar, as the nearest English sound to the Tongva word. Many people say two, KWAH-war, following Kwawar, the usual English spelling of the god’s name. The spelling Quaoar is the one the Tongva preferred, Qua-o-ar, written without its hyphens."
   - q: "Does Quaoar have rings?"
@@ -44,24 +46,24 @@ Trujillo and Brown found it with the Samuel Oschin telescope at Palomar on 4 Jun
 
 ## How it works {#how-it-works}
 
-The Tongva are the people of the Los Angeles Basin, where Brown's institute, Caltech, stands. In their tradition, as the discoverers' sources tell it, Kwawar is the creation force of the universe, without gender, who sings and dances the other gods into being: first Weywot, Sky Father; then, singing together, Chehooit, Earth Mother, and Tamit, Grandfather Sun. With each new voice the creation grows more complex, until chaos gives way to order, seven giants are made to hold up the world, then the animals, and last the first man and woman, Tobohar and Pahavit. Older records tell it differently, and the people who carry the tradition are the Tongva themselves.
+The Tongva are the people of the Los Angeles Basin, where Brown's institute, Caltech, stands. In their tradition, as one account tells it, Kwawar is the creation force of the universe, without gender, who sings and dances the other gods into being: first Weywot, Sky Father; then, singing together, Chehooit, Earth Mother, and Tamit, Grandfather Sun. With each new voice the creation grows more complex, until chaos gives way to order, seven giants are made to hold up the world, then the animals, and last the first man and woman, Tobohar and Pahavit. Older records tell it differently, and the people who carry the tradition are the Tongva themselves.
 
 Under the IAU's rules, a body like Quaoar, which keeps clear of any rhythm with [Neptune](/astrology/neptune/), takes the name of a creation god; underworld gods are kept for bodies in step with Neptune, such as [Orcus](/astrology/orcus/). Brown and Trujillo, who wanted a local name, contacted the Tongva for permission. The tribal historian Marc Acuña confirmed that Kwawar was a fitting name, and the Tongva preferred the spelling Qua-o-ar, kept without the hyphens. When the moon came to be named, Brown left the choice to the Tongva, who chose Weywot in 2009.
 
-Its symbol, designed by Denis Moskowitz, joins a Q to a canoe in the angular style of Tongva rock art, and it is used mostly among astrologers.
+The symbol astrologers mostly use joins a Q to a canoe, in the angular style of Tongva rock art; Denis Moskowitz designed it.
 
-On its near-circle Quaoar keeps an even pace through the zodiac, roughly a sign every 24 years, so a sign is shared by everyone born over two decades. Its house could make it personal, and the house depends on the birth time: in Placidus, the house system I use, the cusps are worked out from the time and place of birth, which is why I don't read a chart without them ([What changes without a birth time](/blog/unknown-birth-time/)).
+On its near-circle Quaoar keeps an even pace through the zodiac, roughly a sign every 24 years, so people born two decades apart can share it. Its house could make it personal, and the house depends on the birth time: in Placidus, the house system I use, the cusps are worked out from the time and place of birth, which is why I don't read a chart without them ([What changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In a reading {#in-a-reading}
 
-Quaoar has been in astrologers' charts for barely two decades, and nothing said about it comes from a tradition. If I proposed a meaning from the story, it would be order made by joining in, each voice adding to the song rather than one voice giving orders. I'd hold even that loosely.
+Quaoar has been in astrologers' charts for a little over two decades, and nothing said about it comes from a tradition. If I proposed a meaning from the story, it would be order made by joining in, each voice adding to the song rather than one voice giving orders. I'd hold even that loosely.
 
-I don't place it, and not only because the system behind my readings leaves it out ([How I read](/how-i-read/)). The Tongva were asked whether their creator's name could go on a world; nobody asked whether it should become a line in a horoscope, and I would want that answered first.
+I don't place it, and not only because my reading system leaves it out ([How I read](/how-i-read/)). The Tongva were asked whether their creator's name could go on a world. Whether it should become a line in someone's horoscope is another question, and I would want their answer to it first.
 
-Nor has it earned a place by the measure I trust. In my notebook, the placements that stood out, Saturn, Chiron and Lilith, held 75 to 90% of the time ([The three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)); Quaoar was never among the things I checked.
+Nor has it earned a place by the one measure I trust. Quaoar was never on the list in my notebook, where three placements stood far above the rest: Saturn, Chiron and Lilith, which held 75 to 90% of the time ([The three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)).
 
 ## Common myths {#myths}
 
 - **“Quaoar is a tenth planet.”** Its first nickname, Object X, nodded to Planet X, and its brightness made the team wonder. Hubble showed it was half Pluto's width, and Brown has said its discovery helped lead to Pluto's own reclassification.
 - **“Nobody had seen Quaoar before 2002.”** Charles Kowal had caught it on photographic plates in May 1983, while searching for Planet X ([Planet X and Planet Nine](/astrology/planet-x-and-planet-nine/)), and the oldest known image dates from 1954. No one had recognised it.
-- **“A ring that far out should have become a moon.”** That was the theory. Astronomers now think the cold, the pull of Weywot and Quaoar's own shape keep the outer ring a ring.
+- **“A ring that far out should have become a moon.”** That was the theory. Astronomers now think the cold, the pull of Weywot and Quaoar's own shape help keep the outer ring a ring.

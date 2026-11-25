@@ -5,9 +5,11 @@ description: "Orcus in astrology: the “anti-Pluto” dwarf planet, its 247-yea
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["dwarf planets"]
 weight: 39
 glyph: "✦"
-definition: "Orcus is a dwarf planet of the Kuiper belt, about 900 km across, with a large moon, Vanth, on a 247-year orbit that keeps Pluto’s pace from the opposite side of the cycle. It is named after a Roman god of the underworld. Astrologers took it up only lately, and its meaning remains a proposal from the name."
+definition: "Orcus is the anti-Pluto: a dwarf planet some 900 km across, with a large moon, Vanth, whose 247-year orbit keeps Pluto’s pace from the opposite side of the cycle. It is named after a Roman god of the underworld. In astrology it has no tradition yet, only proposals drawn from a god of death and oaths."
 facts:
   - { k: "Type", v: "Dwarf planet of the Kuiper belt; a plutino, in step with Neptune like Pluto" }
   - { k: "Size", v: "870 to 960 km across, about the size of Ceres" }
@@ -19,8 +21,8 @@ facts:
   - { k: "Symbols", v: "An OR monogram by Denis Moskowitz; an upturned Pluto glyph by the astrologer Melanie Reinhart" }
 related: ["/astrology/pluto", "/astrology/quaoar", "/astrology/ixion", "/astrology/can-astrology-predict-death", "/how-i-read"]
 faq:
-  - q: "What does Orcus mean in a birth chart?"
-    a: "There is no tradition yet. Astrologers who place it read it through the Roman god whose name stood for death itself, and through the oath: ancient scholars made Orcus the punisher of those who swear falsely. Promises and their keeping are a proposal drawn from the name, not an established meaning."
+  - q: "What does Orcus signify in a birth chart?"
+    a: "There is no tradition yet. Astrologers who place it read it through the Roman god whose name stood for death itself, and through the oath: ancient scholars made Orcus the punisher of those who swear falsely. If the name suggests anything, it is promises and their keeping, and that is as far as it goes."
   - q: "Why is Orcus called the anti-Pluto?"
     a: "Both circle the Sun twice for every three circuits of Neptune, on similar tilted orbits, but in opposite phase: Orcus was farthest from the Sun in 2019, thirty years after Pluto was nearest. Each has a large moon, Vanth and Charon. And to the Romans, the god Orcus was another name for Pluto."
   - q: "What is Orcus’s moon called?"
@@ -34,7 +36,7 @@ Orcus is the nearest thing Pluto has to a mirror image: the same period, the sam
 
 ## What it is {#what-it-is}
 
-Orcus is a plutino. Like [Pluto](/astrology/pluto/), it goes round the Sun twice while [Neptune](/astrology/neptune/) goes round three times, a rhythm that keeps it more than 18 times the Earth's distance from Neptune even where their orbits come closest. Its circuit takes 247 years, tilted about 20° to the Sun's path. Its orbit and Pluto's are alike in shape and tilt but turned differently, and the shared rhythm holds the two bodies in opposite phase: Pluto was nearest the Sun in 1989, Orcus farthest in 2019, and Orcus will be nearest around 12 January 2143. Astronomers call it the anti-Pluto.
+Orcus is a plutino. Like [Pluto](/astrology/pluto/), it goes round the Sun twice while [Neptune](/astrology/neptune/) goes round three times, a rhythm that keeps it more than 18 times the Earth's distance from Neptune even where their orbits come closest. Its year is 247 of ours, on an orbit leaning about 20° to the Sun's path. That orbit and Pluto's are alike in shape and tilt but turned differently, and the shared rhythm holds the two bodies in opposite phase: Pluto was nearest the Sun in 1989, Orcus farthest in 2019, and Orcus will be nearest around 12 January 2143. Astronomers call it the anti-Pluto.
 
 It measures between 870 and 960 km across, about the size of [Ceres](/astrology/ceres/), and its fairly bright, neutral-coloured surface is rich in water ice. Much of that ice is crystalline, as on [Quaoar](/astrology/quaoar/) and Charon, a form that space radiation breaks down within about ten million years, so something seems to have renewed the surface, perhaps eruptions of icy water from inside.
 
@@ -54,14 +56,14 @@ In a chart, Orcus would keep Pluto's slow pace but not its timing: Pluto moved f
 
 ## In a reading {#in-a-reading}
 
-I don't read Orcus, and I'm wary of how it tends to be read. A god whose name meant death invites predictions, and no chart predicts a death; I never look for one ([Can astrology predict death?](/astrology/can-astrology-predict-death/)).
+I don't read Orcus, and I'd be wary of the reading its name invites. A god whose name meant death invites predictions, and no chart predicts a death; I never look for one ([Can astrology predict death?](/astrology/can-astrology-predict-death/)).
 
 What the name offers is quieter: the oath. If I proposed a meaning, it would be about promises, those a person keeps and those that come back to them. That is drawn from the name, not from a tradition; astrology has had Orcus only since 2004.
 
-My readings are built on Pluto, not on its mirror: the system I prepare them with leaves Orcus out ([How I read](/how-i-read/)). In my notebook, Pluto was checked like every planet and was not one of [the three that held far more often](/blog/saturn-chiron-lilith/); Orcus never had a line at all.
+My readings are built on Pluto, not on its mirror: the system I prepare them with leaves Orcus out ([How I read](/how-i-read/)). In my notebook, Pluto was checked like every planet and was not one of [the three that held far more often](/blog/saturn-chiron-lilith/); Orcus wasn't checked at all.
 
 ## Common myths {#myths}
 
 - **“Orcus was an Etruscan god.”** His discoverers described him so, but scholars who have examined the idea found it wanting, and the standard etymological dictionary of Latin gives his name as of unknown origin.
 - **“The orcs of fantasy are named after Orcus.”** Tolkien took the word from Old English orc, a demon, and doubted any link with the Latin god. Orcus does live on in the Italian orco, the man-eating monster of fairy tales.
-- **“An underworld name makes it a dark omen.”** Every body that shares Pluto's beat with Neptune is given an underworld name, [Ixion](/astrology/ixion/) among them: the name follows the orbit, not a character.
+- **“An underworld name makes it a dark omen.”** Bodies that share Pluto's beat with Neptune are given underworld names, [Ixion](/astrology/ixion/) among them: the name follows the orbit, not a character.
