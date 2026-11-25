@@ -51,7 +51,7 @@ Avec la Lune en maison 4, la conjonction tombe pendant le long séjour de Pluton
 
 Je compte un transit de 1,5° avant l’exactitude à 1° après, et à ce compte Pluton passe environ deux ans et huit mois sur votre Lune, vingt-deux mois environ pour les passages les plus rapides et près de quatre ans pour les plus lents. Environ deux passages sur cinq en apportent cinq au lieu de trois : Pluton repasse alors deux fois en arrière sur le degré.
 
-Une vie ne montre qu’une partie du cercle de Pluton, long de 248 ans, et que votre Lune s’y trouve ou non dépend de sa place à votre naissance. Plus de la moitié des personnes nées entre 1930 et 2009 ne connaissent jamais cette conjonction avant 80 ans.
+Pluton met quelque 248 ans à faire un tour : une vie n’en voit qu’un tronçon, et que votre Lune s’y trouve ou non dépend de sa place à votre naissance. Plus de la moitié des personnes nées entre 1930 et 2009 ne connaissent jamais cette conjonction avant 80 ans.
 
 Tant que Pluton traverse le Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), la conjonction touche les Lunes de ce signe, les premiers degrés d’abord : 5° en 2026, 20° en 2036, et les derniers degrés au début des années 2040.
 

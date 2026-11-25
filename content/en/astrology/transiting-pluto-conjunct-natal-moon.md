@@ -50,7 +50,7 @@ With your Moon in the 4th, the conjunction comes during Pluto's long stay in the
 
 I count a transit from 1½° before exact to 1° after, and on that count Pluto spends about two years and eight months on your Moon, the quickest passes about twenty-two months and the slowest nearly four years. About two passes in five bring five exact hits rather than three, because Pluto backs over the degree twice before it moves on.
 
-A lifetime shows only part of Pluto's 248-year circle, and whether your Moon lies in that part depends on where it was at birth. More than half of people born between 1930 and 2009 never meet this conjunction by 80.
+Pluto needs some 248 years for one round, so a lifetime sees only a stretch of it, and whether your Moon lies on that stretch depends on where it was at birth. More than half of people born between 1930 and 2009 never meet this conjunction by 80.
 
 While Pluto crosses Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it reaches Moons in that sign, the early degrees first: 5° in 2026, 20° in 2036 and the last degrees in the early 2040s.
 
