@@ -46,7 +46,7 @@ Which house Jupiter is crossing gives the ease its subject. From your 5th, the h
 
 Within my orbs, from 1½° before exact to 1° after, the trine lasts about eleven days when Jupiter passes straight through, and about eight months in the three cases out of ten where Jupiter's loop lands on it and makes three exact hits.
 
-Jupiter turns round when it stands about 115° from the Sun, close to a trine. So if one of Jupiter's [stations](/astrology/stations/) lands on the trine to your Sun, it lands within about a week of your birthday: a trine that barely moves, in the days the Sun comes back to its birth place.
+Jupiter turns round when it stands about 115° from the Sun, close to a trine. So if one of Jupiter's [stations](/astrology/stations/) lands on the trine to your Sun, half the time it lands within about a week of your birthday: a trine that barely moves, in the days the Sun comes back to its birth place.
 
 By 80, anyone born between 1930 and 2009 has felt this following wind on their Sun thirteen or fourteen times. The first trine of a round, four years after [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/), tends to carry what began at the crossing into a form that works. The second, eight years in and two years after [transiting Jupiter opposite natal Sun](/astrology/transiting-jupiter-opposite-natal-sun/), lets you use what other people showed you then. Where [transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/) asks you to reach and [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/) makes you adjust, the trine smooths the road you're already on.
 
