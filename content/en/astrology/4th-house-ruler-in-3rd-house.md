@@ -5,6 +5,8 @@ description: "Ruler of the 4th in the 3rd house: home life tied to siblings, nei
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["4th house", "3rd house", "house rulers"]
 weight: 2327
 glyph: "✦"
 definition: "The ruler of the 4th in the 3rd house means the planet ruling your IC’s sign, and so your house of home and family, sits in your 3rd, the house of talk, siblings and the local area. Belonging lives in conversation and in the streets nearby. I read it as roots kept up by words."

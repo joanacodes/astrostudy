@@ -5,6 +5,8 @@ description: "Ruler of the 6th in the 4th house: the working day comes home. Hom
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["6th house", "4th house", "house rulers"]
 weight: 2352
 glyph: "✦"
 definition: "The ruler of the 6th in the 4th house places the planet of your daily work and routines at the root of the chart, among home, family and the past. Work tends to happen where you live, or for the people you live with. I read it as work with a front door, and a border to keep."
