@@ -32,11 +32,11 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to the Midheaven, read one by one" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the true node and the Midheaven" }
 ---
-A sextile from the node to your Midheaven is an opening in your public direction, and openings have to be walked through. Like every contact with the Midheaven, it can be dated only from an exact birth time ([what changes without a birth time](/blog/unknown-birth-time/)), and meanwhile the South Node trines the same degree, so the familiar side of your work runs smoothly while the newer side only knocks.
+A sextile from the node to your Midheaven is an opening in your public direction, and openings have to be walked through. Like every contact with the Midheaven, it needs an exact birth time before it has a date ([what changes without a birth time](/blog/unknown-birth-time/)), and meanwhile the South Node trines the same degree, so the familiar side of your work runs smoothly while the newer side only knocks.
 
 ## What changes {#what-changes}
 
-The [Midheaven](/astrology/midheaven/) is the top of your chart, the direction you want to take in public: the role, the standing, the contribution you're working towards. The [North Node](/astrology/north-node/), a crossing point rather than a body, describes the capacity you've practised least. A [sextile](/astrology/sextile/) links them by opportunity, and opportunity asks for a response: under this [transit](/astrology/transits/), a chance to use the newer skill in public tends to appear and then wait.
+The [Midheaven](/astrology/midheaven/) is the top of your chart, the direction you want to take in public: the role, the standing, the contribution you're working towards. The [North Node](/astrology/north-node/), a crossing point rather than a body, describes the capacity you've practised least. A [sextile](/astrology/sextile/) opens a door between them that only counts once it is used: under this [transit](/astrology/transits/), a chance to use the newer skill in public tends to appear, then wait.
 
 What makes it particular is the way the two nodes share the work. The [South Node](/astrology/south-node/), 120° from your Midheaven, holds the easier aspect, so what you're already known for keeps flowing: the reputation, the reliable method, the role people expect of you. That ease is useful, and it can also fill the room. The North Node, for its part, is 120° from your [IC](/astrology/imum-coeli/), so the private side of your life tends to back the new step rather than resist it.
 
@@ -44,11 +44,11 @@ Which side of the top of the chart the node is on decides the houses. On its way
 
 ## How long it lasts {#how-long-it-lasts}
 
-With my orbs, 1½° before exact and 1° after, the sextile usually holds for about a month; the median pass is 34 days. One pass in ten is through within 25 days and one in ten lingers past 100, held there by an eclipse season, while a pass with three exact hits is the exception, about one in twenty-five. An eclipse in such a season falls near one of the nodes, so it meets your Midheaven only by sextile or trine, and those aren't contacts I count for an eclipse.
+With my orbs, 1½° before exact and 1° after, the sextile usually holds for about a month; the median pass is 34 days. One pass in ten is through within 25 days and one in ten lingers past 100, held there by an eclipse season, while a pass with three exact hits is the exception, about one in twenty-five. An eclipse in such a season falls near one of the nodes, some way from both your Midheaven and your IC, so it doesn't count on either.
 
 This sextile doesn't enter my forecast, which leaves the node's sextiles out and counts the node only where one of its ends meets a point of the chart.
 
-By 80, everyone has met it eight or nine times. Halfway from one sextile of a round to the other, the North Node reaches your IC ([Transiting North Node opposite natal Midheaven](/astrology/transiting-north-node-opposite-natal-midheaven/)); between each sextile and that point come the square and the trine ([Transiting North Node square natal Midheaven](/astrology/transiting-north-node-square-natal-midheaven/), [Transiting North Node trine natal Midheaven](/astrology/transiting-north-node-trine-natal-midheaven/)).
+By 80, everyone has met it eight or nine times. Halfway from one sextile of a round to the other, the North Node arrives at your IC ([Transiting North Node opposite natal Midheaven](/astrology/transiting-north-node-opposite-natal-midheaven/)); between each sextile and that point come the square and the trine ([Transiting North Node square natal Midheaven](/astrology/transiting-north-node-square-natal-midheaven/), [Transiting North Node trine natal Midheaven](/astrology/transiting-north-node-trine-natal-midheaven/)).
 
 The degree the sextile is measured from has to come from a recorded time. A time worked out backwards from the events of a life, by [rectification](/astrology/rectification/), is a hypothesis, and I don't date transits from one.
 

@@ -49,7 +49,7 @@ Les deux trigones d’un tour tombent dans des régions différentes de votre th
 
 ## Combien de temps {#combien-de-temps}
 
-Ma fenêtre s’ouvre à 1,5° avant l’exactitude et se ferme à 1° après. La moitié des passages la franchissent en 34 jours au plus, et dix-neuf sur vingt ne touchent le trigone exact qu’une fois. Un dixième prennent 25 jours ou moins, un dixième plus de 100 : ce sont ceux qu’une saison d’éclipses rattrape, car le nœud vrai bouge à peine aussi longtemps que le Soleil reste proche de lui. Trois passages exacts, étalés sur 100 jours environ, arrivent une fois sur vingt-cinq environ. Les éclipses de cette saison-là se placent près de l’un ou l’autre nœud, loin de votre Ascendant comme de votre Descendant, et je ne compte une éclipse qu’à trois degrés environ d’un point ou du degré opposé ([Éclipses sur vos planètes natales](/astrology/eclipses-on-your-natal-planets/)).
+Ma fenêtre s’ouvre à 1,5° avant l’exactitude et se ferme à 1° après. La moitié des passages la franchissent en 34 jours au plus, et dix-neuf sur vingt ne touchent le trigone exact qu’une fois. Un passage sur dix prend 25 jours ou moins, un sur dix plus de 100 : ce sont ceux qu’une saison d’éclipses rattrape, car le nœud vrai bouge à peine aussi longtemps que le Soleil reste proche de lui. Trois passages exacts, étalés sur 100 jours environ, arrivent une fois sur vingt-cinq environ. Les éclipses de cette saison-là se placent près de l’un ou l’autre nœud, loin de votre Ascendant comme de votre Descendant, et je ne compte une éclipse qu’à trois degrés environ d’un point ou du degré opposé ([Éclipses sur vos planètes natales](/astrology/eclipses-on-your-natal-planets/)).
 
 D’ici 80 ans, chacun a eu ce trigone huit ou neuf fois. Le premier d’un tour arrive quelque six ans après que le nœud a franchi votre degré ascendant ([Nœud Nord en transit conjonction Ascendant du thème natal](/astrology/transiting-north-node-conjunct-natal-ascendant/)), le second trois ans environ après qu’il a atteint votre Descendant ([Nœud Nord en transit opposition Ascendant du thème natal](/astrology/transiting-north-node-opposite-natal-ascendant/)). Ma prévision ne compte pas ce trigone : elle ne compte le nœud que par conjonction ou opposition, quand un bout de son axe se pose sur un point de votre thème.
 
@@ -59,7 +59,7 @@ Tout dépend de votre heure de naissance. À Londres, quatre minutes déplacent 
 
 Essayer la nouvelle approche là où l’on vous accueille déjà : un groupe qui vous connaît, un lieu où une maladresse ne coûte rien. Un trigone récompense la pratique en terrain ami.
 
-Remarquer votre premier geste dans une situation nouvelle, la plaisanterie, la question, le silence, et une fois par semaine, ce mois-ci, en faire un autre exprès.
+Choisir un cadre ce mois-ci, une réunion, un cours, un dîner, et y arriver en personne qui apprend plutôt qu’en personne qui sait.
 
 Dire oui à la version facile d’une chose nouvelle : le stage court plutôt que le diplôme, le café plutôt que la présentation en règle. Un trigone sert à s’exercer, pas à passer un examen.
 

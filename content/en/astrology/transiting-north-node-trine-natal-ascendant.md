@@ -58,7 +58,7 @@ All of it hangs on your birth time. At London, four minutes move the Ascendant b
 
 Try the new approach where you're already welcome: a group that knows you, a place where a fumble costs nothing. A trine rewards practice in friendly conditions.
 
-Notice your first move in a new situation, the joke, the question, the silence, and once a week this month make a different one on purpose.
+Pick one setting this month, a meeting, a class, a dinner, and arrive there as the person who is learning rather than the one who knows.
 
 Say yes to the easy version of something new: the short course rather than the degree, the coffee rather than the pitch. A trine is practice, not a test.
 
