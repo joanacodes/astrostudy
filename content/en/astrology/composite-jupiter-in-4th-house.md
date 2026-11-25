@@ -20,7 +20,7 @@ related: ["/astrology/composite-chart", "/astrology/jupiter-in-4th-house", "/ast
 faq:
   - q: "What does composite Jupiter in the 4th house mean?"
     a: "It puts the relationship’s Jupiter in the house of home, family and roots. Astrologers read a bond that grows from its private life outwards: a home others lean on, roots put down together, traditions of its own. Both birth times are needed, and a foundation is described, not a forecast."
-  - q: "Does composite Jupiter in the 4th house mean we will buy a house or have children?"
+  - q: "Will composite Jupiter in the 4th house bring us a house or a family?"
     a: "No. The 4th house describes home and roots, and Jupiter growth, but a composite can’t forecast a purchase, a move, a pregnancy or a birth, and no chart can. What it describes is where the relationship finds its footing: in a home and a private life the two of you make."
   - q: "Can moving house change a composite chart?"
     a: "With one method, yes. Houses built from the composite Midheaven are drawn for the latitude where you live, so a move far north or south shifts the cusps, though not the IC itself. Houses drawn from the midpoints of your two charts’ cusps stay the same wherever you move."

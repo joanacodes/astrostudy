@@ -21,7 +21,7 @@ related: ["/astrology/composite-chart", "/astrology/jupiter-in-4th-house", "/ast
 faq:
   - q: "Que veut dire Jupiter composite en maison 4 ?"
     a: "Ce placement met Jupiter, dans le thème de la relation, dans la maison du foyer, de la famille et des racines. On y lit un lien qui grandit de sa vie privée vers le dehors : un foyer où d’autres trouvent appui, des racines prises ensemble, des traditions propres. Il faut les deux heures, et rien n’y est prédit."
-  - q: "Est-ce que Jupiter composite en maison 4 annonce l’achat d’une maison ou des enfants ?"
+  - q: "Avec Jupiter composite en maison 4, est-ce que nous aurons une maison à nous, ou une famille ?"
     a: "Non. La maison 4 décrit le foyer et les racines, et Jupiter la croissance, mais un composite ne peut prévoir ni achat, ni déménagement, ni grossesse, ni naissance, et aucun thème ne le peut. Ce qu’un composite décrit, c’est l’endroit où la relation trouve son assise : un foyer et une vie privée que vous faites à deux."
   - q: "Est-ce qu’un déménagement peut changer un thème composite ?"
     a: "Avec l’une des méthodes, oui. Les maisons construites à partir du Milieu du Ciel composite se calculent pour la latitude où vous vivez : un déménagement loin vers le nord ou le sud déplace les cuspides, mais pas le Fond du Ciel lui-même. Celles qui viennent des mi-points de vos cuspides natales ne bougent pas."

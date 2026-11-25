@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-6th-house", "/astrology/6th-house", "/astrology/can-astrology-predict-health-problems", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Jupiter composite en maison 6 ?"
-    a: "Les jours ordinaires font grandir ce lien : des habitudes communes, une aide concrète, un travail fait côte à côte, puisque Jupiter, dans le thème de la relation, se trouve dans la maison des routines, du travail quotidien et du service. Situer cette maison demande les deux heures, et elle décrit le quotidien, pas la santé."
+    a: "Les jours ordinaires font grandir ce lien : des habitudes communes, une aide concrète, un travail fait côte à côte, puisque Jupiter, dans le thème de la relation, se trouve dans la maison des routines, du travail quotidien et du service. Il faut les deux heures pour situer cette maison, qui décrit le quotidien, pas la santé."
   - q: "Est-ce que Jupiter composite en maison 6 dit quelque chose de notre santé ?"
-    a: "Non. La tradition donnait la maladie à la maison 6, mais un composite ne peut prédire ni maladie ni guérison, et aucun thème ne peut prévoir la santé. Dans un composite, la maison 6 décrit la façon dont une paire organise ses journées et ménage son énergie. Les questions de santé relèvent d’un médecin."
+    a: "Non. Les textes anciens rangeaient la maladie sous la maison 6 ; un composite ne prédit ni maladie ni guérison, et la santé n’est jamais une chose qu’un thème puisse prévoir. Dans un composite, la maison 6 décrit la façon dont une paire organise ses journées et ménage son énergie. Les questions de santé relèvent d’un médecin."
   - q: "Pourquoi est-ce que des couples du même âge partagent le signe de Jupiter composite, mais pas sa maison ?"
     a: "Jupiter passe environ un an dans chaque signe : deux personnes nées la même année ont souvent le même signe pour Jupiter composite. La maison dépend des deux heures de naissance, à la minute près, et de la méthode de maisons : elle change d’un couple à l’autre, même quand le signe est le même."
 sources:

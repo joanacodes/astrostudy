@@ -22,7 +22,7 @@ faq:
   - q: "What does composite Jupiter in the 6th house mean?"
     a: "Ordinary days do the growing: shared habits, practical help, work done side by side, because the relationship’s Jupiter sits in the house of routines, daily work and service. Placing that house takes both birth times, and what it describes is daily life, not health."
   - q: "Does composite Jupiter in the 6th house say anything about our health?"
-    a: "No. Tradition gave the 6th house illness, but a composite can’t predict illness or recovery, and no chart can forecast health. In a composite, the 6th describes how a pair organises its days and looks after its energy. Questions about health belong with a doctor."
+    a: "No. The old texts filed illness under the 6th; a composite predicts neither illness nor recovery, and health is never something a chart can forecast. In a composite, the 6th describes how a pair organises its days and looks after its energy. Questions about health belong with a doctor."
   - q: "Why do couples of the same age share composite Jupiter’s sign but not its house?"
     a: "Jupiter spends about a year in each sign, so two people born in the same year often have the same composite Jupiter sign. The house depends on both birth times, to the minute, and on the house method, so it differs from couple to couple even when the sign is shared."
 sources:

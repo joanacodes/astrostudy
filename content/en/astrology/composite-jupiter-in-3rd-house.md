@@ -22,9 +22,9 @@ faq:
   - q: "What does composite Jupiter in the 3rd house mean?"
     a: "Talking, studying and teaching: the relationship grows through all three when its Jupiter falls in the house of communication, learning, siblings and neighbours, and it folds the people nearby into its life. The house is placed from both birth times and describes how you learn together, not what will happen to you."
   - q: "Is composite Jupiter in the 3rd house good for communication?"
-    a: "It describes a bond that grows through conversation, which often means plenty of it. Plenty isn’t the same as easy, though: a relationship can talk a great deal and still avoid one hard subject. How well two people communicate depends on what they do, not on a midpoint."
+    a: "It describes a bond that grows through conversation, which often means plenty of it. Plenty isn’t the same as easy, though: a relationship can talk a great deal and still avoid one hard subject. Good communication comes from practice, which no chart supplies."
   - q: "What if one of our birth times is only remembered?"
-    a: "Then the composite houses are only as sure as that memory. A composite cusp sits between the two natal ones, so doubt about either time passes into it. A remembered time can often still be checked against records, and that is worth doing before reading any house, the 3rd included."
+    a: "Then the composite houses are only as sure as that memory. Each composite cusp is a midpoint, and a midpoint moves whenever either of its ends does. A remembered time can often still be checked against records, and that is worth doing before reading any house, the 3rd included."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart, its houses and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, their old names and what tradition gave them" }
@@ -37,7 +37,7 @@ Tradition called [the 3rd house](/astrology/3rd-house/) the Goddess and gave its
 
 In daily life that looks like learning side by side: an evening class taken together, a language practised over breakfast, a book group that began at your kitchen table. Brothers, sisters, cousins and neighbours tend to be folded into the bond rather than kept at its edge, and short trips, the weekend in the next town, the walk to the market, matter more than their size suggests. Its generosity comes in words and time: an explanation given patiently, a lift to the station, the message sent to check on someone.
 
-Curiosity is the mark of [Jupiter in the 3rd house](/astrology/jupiter-in-3rd-house/) in a birth chart; in synastry, [their Jupiter in your 3rd house](/astrology/jupiter-in-3rd-house-synastry/) widens the way the other thinks and talks. Here the curiosity lives between you, and two quiet people can find that, together, they never run out of things to say.
+Curiosity is the mark of [Jupiter in the 3rd house](/astrology/jupiter-in-3rd-house/) in a birth chart; in synastry, [their Jupiter in your 3rd house](/astrology/jupiter-in-3rd-house-synastry/) widens the way the other thinks and talks. Here the curiosity lives between you: each of you may be quiet in company, and the two of you still never run out of things to say.
 
 Like every composite house, this one stands on two birth times, and the two are rarely equally sure. One may come from a certificate that records the minute; the other from a parent's memory of *just after lunch*. The composite inherits the doubt of the less certain time, and the house method adds a choice of its own: midpoints of the two charts' cusps, or houses rebuilt from the composite Midheaven for the place where you live. Before reading a 3rd-house Jupiter, then, it's worth knowing where each time came from ([finding your time](/blog/unknown-birth-time/#finding-your-time)).
 
