@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["5th house", "8th house", "house rulers"]
 weight: 2344
 glyph: "✦"
-definition: "With the ruler of the 5th in the 8th house, the planet of your creativity, pleasure and romance works in the 8th, among intimacy, trust and what people hold in common. Flirting rarely stays light, and what you create digs below the surface. This is joy that needs trust, not a warning of loss."
+definition: "With the ruler of the 5th in the 8th house, the planet in charge of your pleasures works in the 8th, among intimacy, trust and what people hold in common. Flirting rarely stays light, and what you create digs below the surface. This is joy that needs trust, not a warning of loss."
 facts:
   - { k: "Ruler of", v: "The 5th house: creativity, pleasure, romance" }
   - { k: "Placed in", v: "The 8th house: intimacy, trust, what is shared and owed" }
@@ -39,7 +39,7 @@ Lightness and depth pull at each other here, since the 8th stands at right angle
 
 Seen from the 7th, the 8th becomes your partner's 2nd house ([derived houses](/astrology/derived-houses/)), so pleasures paid from a joint account, presents between lovers and money spent together belong here too. The 5th's old link with speculation meets the 8th's loans and debts. I read that pairing as the way you handle risk with what isn't only yours, never as a forecast of gain or loss.
 
-A Taurus or Libra cusp gives the job to Venus, and from the 8th it makes tenderness private and lasting rather than showy. Saturn, ruling a Capricorn 5th, lets trust build slowly, and pleasure deepens with the years. And if the cusp is Scorpio ([Scorpio on the 5th house cusp](/astrology/scorpio-on-5th-house-cusp/)), the rule is split between Mars and Pluto ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). I read both: Pluto in the 8th is on home ground, intense and unhurried, while Mars brings a quicker appetite from another house.
+A Taurus or Libra cusp gives the job to Venus, and from the 8th it makes tenderness private and lasting rather than showy. If Saturn rules your 5th through Capricorn, trust builds slowly, and pleasure deepens with the years. And if the cusp is Scorpio ([Scorpio on the 5th house cusp](/astrology/scorpio-on-5th-house-cusp/)), the rule is split between Mars and Pluto ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). I read both: Pluto in the 8th is on home ground, intense and unhurried, while Mars brings a quicker appetite from another house.
 
 Shift the birth time and the ruler shifts with it. Run the clock later and a ruler near the start of the 8th slides towards the Descendant, into the 7th, where romance looks for a partner ([Ruler of the 5th in the 7th house](/astrology/5th-house-ruler-in-7th-house/)); run it earlier and one near the far end climbs into the 9th, where pleasure travels and studies ([Ruler of the 5th in the 9th house](/astrology/5th-house-ruler-in-9th-house/)). A planet here was in the western sky at your birth, a few hours from setting, so I need the recorded minute ([what changes without a birth time](/blog/unknown-birth-time/)).
 

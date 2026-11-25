@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["6th house", "8th house", "house rulers"]
 weight: 2356
 glyph: "✦"
-definition: "The ruler of the 6th in the 8th house brings your daily work and routines into the house of shared money, trust and crisis. Your work often handles what isn't yours: accounts, debts, research, other people's hard moments. I read it as work that goes where things are difficult; it foretells no loss."
+definition: "The ruler of the 6th in the 8th house brings the planet of your working habits into the house of shared money, trust and crisis. Your work often handles what isn't yours: accounts, debts, research, other people's hard moments. I read it as work that goes where things are difficult; it foretells no loss."
 facts:
   - { k: "Ruler of", v: "The 6th house: daily work, routines, care" }
   - { k: "Placed in", v: "The 8th house: shared money, trust, crisis" }
@@ -37,10 +37,10 @@ I read it as work that goes where things are difficult. The routines are confide
 
 Horary astrology counts the 6th, 8th and 12th as the difficult houses, and a planet in any of them as hindered; here the ruler of one sits in another. I don't read that as misfortune. By sign, the 8th lies two signs on from the 6th, a sextile, so the two houses help each other more than their reputations suggest: daily method makes hard subjects manageable.
 
-The planet decides what you handle. Through a Gemini or Virgo cusp, Mercury goes to the small print, the figures and the records nobody else wants to check. The Moon, ruling a Cancer 6th, brings care into hard moments, the steady voice in somebody's worst week. Venus, ruling a Taurus or Libra 6th, keeps shared arrangements fair.
+Which matters land on your desk depends on the planet. Through a Gemini or Virgo cusp, Mercury goes to the small print, the figures and the records nobody else wants to check. When Cancer is on the cusp, the Moon brings care into hard moments, the steady voice in somebody's worst week. Venus, ruling a Taurus or Libra 6th, keeps shared arrangements fair.
 
 Saturn in the 8th takes long obligations seriously: pensions, mortgages, the slow work of putting someone's affairs in order. Capricorn gives Saturn the 6th outright; Aquarius gives it the house jointly with Uranus ([Aquarius on the 6th house cusp](/astrology/aquarius-on-6th-house-cusp/); [traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Both get read, and wherever Uranus sits, it brings a taste for new methods to old problems.
 
-The pages on either side show what a few minutes could change. In the 7th, this ruler would work face to face with one person at a time ([Ruler of the 6th in the 7th house](/astrology/6th-house-ruler-in-7th-house/)); in the 9th, it would work through teaching, travel or publishing ([Ruler of the 6th in the 9th house](/astrology/6th-house-ruler-in-9th-house/)). A ruler near either cusp can belong to one of them with a small change in the birth time, so I read it only from a documented time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The pages on either side show what a few minutes could change. In the 7th, this ruler would work face to face with one person at a time ([Ruler of the 6th in the 7th house](/astrology/6th-house-ruler-in-7th-house/)); in the 9th, it would work through teaching, travel or publishing ([Ruler of the 6th in the 9th house](/astrology/6th-house-ruler-in-9th-house/)). Which of the three it falls in can turn on a small change in the birth time, so I read it only from a documented time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Illness and death are the old words for these two houses, and I read neither here. No chart can foresee an illness ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)) or say when a life will end ([can astrology predict death?](/astrology/can-astrology-predict-death/)). Work that deals with crisis can be heavy to carry; if it weighs on your mind, talk it over with a therapist ([astrology and mental health](/astrology/astrology-and-mental-health/)).

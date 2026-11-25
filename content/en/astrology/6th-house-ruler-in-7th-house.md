@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/6th-house", "/astrology/7th-house", "/astrology/house-rulers", "/astrology/descendant", "/astrology/can-astrology-predict-health-problems"]
 faq:
   - q: "Is the 6th house ruler in the 7th house about working one to one?"
-    a: "Often, yes: you work best one to one, with clients, customers, a business partner or a spouse. With your daily tasks ruled from the house of partnership, service has a face and work becomes a relationship. It describes how you work with people, not which job you’ll do."
+    a: "Often, yes: you work best one to one, with clients, customers, a business partner or a spouse. With your daily tasks ruled from the house of partnership, the work comes with a person attached. It describes how you work with people, not which job you’ll do."
   - q: "Does the ruler of the 6th in the 7th mean working with my partner?"
     a: "It can. Some people with it run a business with a spouse; others share the daily round so closely that the household becomes a joint project. It’s a tendency, not a prediction, and it says nothing about how a relationship will go."
   - q: "Can the 6th house ruler in the 7th house cause problems in relationships?"
@@ -35,11 +35,11 @@ In the [7th house](/astrology/7th-house/), the house of the person you meet as a
 
 I read it as service with a face. You may freelance for a few long-standing clients, coach, advise or represent people, run a business with a partner, or simply work best in a pair. The 7th is also where horary puts competitors and opponents, and a well-matched rival can sharpen your work more than any manager. In a couple, the daily round becomes shared ground: chores, plans, the rhythm of two working lives. The risk is a relationship that turns into a to-do list, or a client who quietly eats the hours you meant for yourself.
 
-Next door to each other, the 6th and the 7th share no aspect in the old geometry ([aversion](/astrology/aversion/)): the ruler can't see the back room it came from, so the work moves out of the office and into the meeting. The 7th is angular as well, opening at the [Descendant](/astrology/descendant/), and what you do for others is seen by them.
+Next door to each other, the 6th and the 7th share no aspect in the old geometry ([aversion](/astrology/aversion/)): the ruler can't see the back room it came from, so the work moves out of the office and into the meeting. The [Descendant](/astrology/descendant/) opens the 7th, an angular house, so what you do for others is seen by them.
 
-The planet sets the tone of the collaboration. If Taurus or Libra opens the 6th, the ruler is Venus, which in the 7th brings grace to dealings with clients and a keen eye for fairness in shared work. Mercury, ruling a Gemini or Virgo 6th, works through negotiation: emails, agreements, contracts read twice. A Capricorn 6th gives the house to Saturn, which makes commitments slowly and keeps them.
+The planet sets the tone of the collaboration. If Taurus or Libra opens the 6th, the ruler is Venus, which in the 7th brings grace to dealings with clients and a keen eye for fairness in shared work. For a Gemini or Virgo 6th, Mercury works through negotiation: emails, agreements, contracts read twice. A Capricorn 6th gives the house to Saturn, which makes commitments slowly and keeps them.
 
-Generosity towards the people you serve marks Jupiter in the 7th, sometimes to the point of giving your time away. Jupiter rules your 6th from there if Pisces is on the cusp ([Pisces on the 6th house cusp](/astrology/pisces-on-6th-house-cusp/)), sharing the house with Neptune ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Both are read: Neptune, wherever it sits, adds the wish that the work serve something larger than the two of you.
+Generosity towards the people you serve marks Jupiter in the 7th, sometimes to the point of giving your time away. Jupiter rules your 6th from there if Pisces is on the cusp ([Pisces on the 6th house cusp](/astrology/pisces-on-6th-house-cusp/)), sharing the house with Neptune ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Both are read, and Neptune adds the wish that the work serve something larger than the two of you.
 
 If the ruler sits just above the Descendant, a slightly later birth would have seen it set into the 6th, its own house ([Ruler of the 6th in the 6th house](/astrology/6th-house-ruler-in-6th-house/)). If it sits higher, near the 8th cusp, an earlier time lifts it into the 8th, where work deals with debts, trust and crisis ([Ruler of the 6th in the 8th house](/astrology/6th-house-ruler-in-8th-house/)). The minute of birth draws that line ([what changes without a birth time](/blog/unknown-birth-time/)).
 

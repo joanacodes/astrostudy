@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["5th house", "house rulers"]
 weight: 2341
 glyph: "✦"
-definition: "A 5th house ruler in the 5th house is a planet standing in the house it rules: whatever sign opens your 5th, its ruler stays among creativity, pleasure and romance. Joy needs no other part of life to justify it. Delight for its own sake isn’t self-indulgence."
+definition: "A 5th house ruler in the 5th house is a planet standing in the house it rules: your 5th keeps its ruler at home, among creativity, pleasure and romance. Joy needs no other part of life to justify it. Delight for its own sake isn’t self-indulgence."
 facts:
   - { k: "Ruler of", v: "The 5th house: creativity, pleasure, romance" }
   - { k: "Placed in", v: "The 5th house itself" }

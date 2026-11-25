@@ -20,7 +20,7 @@ faq:
   - q: "What does it mean if the 6th house ruler is in the 1st house?"
     a: "That work is part of how people see you. The planet ruling your daily tasks and routines sits in the house of manner and first impressions, so you come across as capable, busy or useful, and you often know yourself through what you do well. It describes a way of working, not a job."
   - q: "Does the ruler of the 6th in the 1st house say anything about health?"
-    a: "No. Tradition gave the 6th illness and the 1st the body, so the pair can sound medical. No chart can see an illness coming or name one, and health isn’t something I read. I read the pairing as the habits and routines that show in how you live."
+    a: "No. With illness in the 6th's old portfolio and the body in the 1st's, the pair can sound medical. No chart can see an illness coming or name one, and health isn’t something I read. I read the pairing as the habits and routines that show in how you live."
   - q: "Is a 6th house ruler in the 1st a sign of a workaholic?"
     a: "Not in itself. It puts your way of working at the front of your life, which can mean pride in doing things properly as easily as overwork. The planet, its sign and its aspects show which; for you, rest may simply need to become part of the routine."
 sources:

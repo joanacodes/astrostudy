@@ -37,7 +37,7 @@ I read it as work with a reason. A job that only pays the bills leaves you restl
 
 By sign, the 9th stands square to the 6th, three signs on, and the square names that pull exactly: the task against the meaning. The 9th is cadent, yet Vettius Valens called it the "pre-Midheaven" and gave it considerable influence, so a ruler here carries more weight than its category suggests.
 
-The planet sets the subject. Mercury, ruling a Gemini or Virgo 6th, makes the 9th's horizons practical: languages, translation, editing and the careful work of passing knowledge on. Jupiter, ruling a Sagittarius 6th, makes the work generous and wide: advising, lecturing, travelling for the job. The Sun, ruling a Leo 6th, wants to be proud of what the work stands for.
+The planet sets the subject. Mercury, ruling a Gemini or Virgo 6th, brings the 9th's horizons down to the desk: languages, translation, editing and the careful work of passing knowledge on. Jupiter, ruling a Sagittarius 6th, makes the work generous and wide: advising, lecturing, travelling for the job. A Leo 6th has the Sun as ruler, and it wants to be proud of what the work stands for.
 
 Pluto pushes the 9th towards depth: research that goes to the root, work for a cause you care about intensely. Pluto rules from there only when Scorpio opens your 6th ([Scorpio on the 6th house cusp](/astrology/scorpio-on-6th-house-cusp/)), and Mars shares that house ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)); both count, and Mars, from another house, brings the energy for the daily part.
 

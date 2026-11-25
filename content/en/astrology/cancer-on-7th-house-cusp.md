@@ -1,0 +1,41 @@
+---
+title: "Cancer on the 7th house cusp"
+h1: "Cancer on the 7th house cusp in a birth chart"
+description: "Cancer on the 7th house cusp, a Cancer Descendant: partners who feel like home, the Moon as ruler of your relationships, and Capricorn rising every time."
+date: 2026-11-25
+reviewed: 2026-11-25
+family: "combinations"
+weight: 2471
+glyph: "♋"
+definition: "Cancer on the 7th house cusp, a Cancer Descendant, opens the house of partners in the sign of home, with Capricorn rising on the other side of the chart. You tend to look for warmth, loyalty and shared habits in the people you pair with. The Moon rules the house: its position shows where partnerships grow."
+facts:
+  - { k: "Sign", v: "Cancer ♋, cardinal water" }
+  - { k: "Cusp", v: "The 7th house, opened by the Descendant" }
+  - { k: "Ruler", v: "The Moon ☽, ruler of your partnerships" }
+  - { k: "How common", v: "About 1 birth in 13, at London as at New York" }
+  - { k: "Opposite cusp", v: "Capricorn, on the Ascendant" }
+  - { k: "Needs", v: "An exact birth time" }
+related: ["/astrology/cancer", "/astrology/7th-house", "/astrology/descendant", "/astrology/moon", "/astrology/capricorn-rising"]
+faq:
+  - q: "What does Cancer on the 7th house cusp mean?"
+    a: "That the house of partners opens in the sign of home, with Capricorn rising: you look for warmth, loyalty and shared habits in a partner, and give care as readily as you hope to receive it. The Moon rules the house, and its position shows where partnerships grow."
+  - q: "What does a Cancer Descendant mean in relationships?"
+    a: "That a partnership matters most when it feels like a home: shared habits, kept promises, someone who remembers. You mend rather than walk away, and look after the people you pair with. It describes what draws you and what you recognise in another person, never who you’ll meet or when."
+  - q: "Why is my 7th house so big with Cancer on the cusp?"
+    a: "Because Capricorn, on your Ascendant, and the signs after it rise quickly in the northern hemisphere, and Placidus divides the sky by time, so the houses either side of the horizon stretch. At London’s latitude the 7th then spans about 47° to 59°, often holding the whole of Leo too."
+sources:
+  - { title: "The Astro Study’s count from the planets’ positions", note: "Placidus cusps for births spread evenly over a day at London and New York, and the width of the 7th house" }
+  - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon as the ruler of Cancer, Saturn of Capricorn, the Sun of Leo" }
+  - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Ascendant and the Descendant" }
+---
+Cancer on the 7th house cusp puts the sign of home at your Descendant, the point where the chart turns towards the people you meet as equals. A partnership, here, is somewhere to live as much as someone to be with.
+
+## What it means {#what-it-means}
+
+The [Descendant](/astrology/descendant/) frames how you meet a partner, in love, in work or across a negotiating table, and its sign is what you look for and recognise in them ([house cusps](/astrology/house-cusps/)). With [Cancer](/astrology/cancer/) there, it is care: people who remember what matters to you, keep their word and make a place feel lived in. You tend to look after the people you pair with and to want looking after in turn, and a bond feels real once it has its own habits, the shared meal, the call at the end of the day, the jokes that took years to grow. In business, clients and associates often become a kind of family, for better and for worse. A quarrel with someone close can feel like a crack in the house itself, which is why you tend to mend things rather than walk away. The [7th house](/astrology/7th-house/) describes what you seek and recognise in another person, never who you'll meet or when; and care that goes both ways is a partnership, not dependence.
+
+The Ascendant is always the opposite degree, so with this Descendant [Capricorn rising](/astrology/capricorn-rising/) comes every time, and Saturn rules your chart while the [Moon](/astrology/moon/) rules your partnerships. The reserve people meet first often hides how much you want a home with someone, and the people who draw you tend to carry the tenderness you keep for later. The Moon's house shows where your partnerships grow: the [1st](/astrology/7th-house-ruler-in-1st-house/), [2nd](/astrology/7th-house-ruler-in-2nd-house/), [3rd](/astrology/7th-house-ruler-in-3rd-house/), [4th](/astrology/7th-house-ruler-in-4th-house/), [5th](/astrology/7th-house-ruler-in-5th-house/), [6th](/astrology/7th-house-ruler-in-6th-house/), [7th](/astrology/7th-house-ruler-in-7th-house/), [8th](/astrology/7th-house-ruler-in-8th-house/), [9th](/astrology/7th-house-ruler-in-9th-house/), [10th](/astrology/7th-house-ruler-in-10th-house/), [11th](/astrology/7th-house-ruler-in-11th-house/) or [12th](/astrology/7th-house-ruler-in-12th-house/).
+
+About 1 birth in 13 has Cancer on the Descendant, at London as at New York, counting Placidus cusps, the system I use. Cancer sets as quickly as Capricorn rises, in under two hours at London, which makes this its rarest cusp. Because Capricorn and the signs after it rise fast in the north, the 1st and 7th houses come out wide: at London, between about 47° and 59°. In about 2 London charts in 3, and 2 in 5 at New York, the whole of Leo lies inside your 7th as well ([intercepted signs](/astrology/intercepted-signs/)), so both lights, the Moon through the cusp and the Sun through Leo, speak for your partnerships. In more than 1 London chart in 4, Cancer opens the 6th too, and colleagues and partners share the Moon ([Cancer on the 6th house cusp](/astrology/cancer-on-6th-house-cusp/), [duplicated signs](/astrology/duplicated-signs/)); it never opens the 8th as well, so [Cancer on the 8th house cusp](/astrology/cancer-on-8th-house-cusp/) belongs to other charts.
+
+A Capricorn Ascendant rises in under two hours, so a birth time that's half an hour out can change this whole axis; I settle the time before I read anything ([what changes without a birth time](/blog/unknown-birth-time/)).

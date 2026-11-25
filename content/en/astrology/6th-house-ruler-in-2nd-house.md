@@ -38,7 +38,7 @@ I read it as skills that pay. You may know exactly what an hour of your time is 
 
 The two houses get along easily. Astrologers group the 2nd, 6th and 10th as the earth houses, the houses of material life, a trine apart, so work and resources speak the same practical language. The old books saw the link too: William Lilly gave the 6th small domestic animals "and the profit and loss got thereby", a reminder that the 6th has always had an eye on what labour brings in.
 
-The planet decides what you're paid for. With Taurus or Libra on the 6th cusp, Venus does the work, and from the 2nd it earns through the pleasant and the beautiful: design, food, flowers, a well-kept shop. When Mercury holds the 6th (a Gemini or Virgo cusp), money comes from detail and talk; the Moon, ruling a Cancer 6th, ties income to looking after people.
+What you're paid for depends on the planet. With Taurus or Libra on the 6th cusp, Venus does the work, and from the 2nd it earns through the pleasant and the beautiful: design, food, flowers, a well-kept shop. When Mercury holds the 6th (a Gemini or Virgo cusp), money comes from detail and talk; a Cancer cusp makes the Moon the ruler, and it ties income to looking after people.
 
 Hard graft is how Mars earns from the 2nd when it rules a Scorpio 6th ([Scorpio on the 6th house cusp](/astrology/scorpio-on-6th-house-cusp/)): physical work, long shifts, money made by effort. Pluto rules that cusp as well ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)), and I read it beside Mars; from its own house, it can add a need to be fully in charge of your own resources.
 

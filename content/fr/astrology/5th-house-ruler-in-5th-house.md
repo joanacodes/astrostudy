@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 5", "maîtres des maisons"]
 weight: 2341
 glyph: "✦"
-definition: "Un maître de la maison 5 en maison 5 est une planète placée dans la maison qu’elle gouverne : quel que soit le signe qui ouvre votre maison 5, son maître reste parmi vos créations, vos plaisirs et vos amours. La joie n’a besoin d’aucun autre domaine pour se justifier. Le plaisir pour lui-même n’est pas de la complaisance."
+definition: "Un maître de la maison 5 en maison 5 est une planète placée dans la maison qu’elle gouverne : votre maison 5 garde son maître chez elle, parmi vos créations, vos plaisirs et vos amours. La joie n’a besoin d’aucun autre domaine pour se justifier. Le plaisir pour lui-même n’est pas de la complaisance."
 facts:
   - { k: "Maître de", v: "La maison 5 : la créativité, le plaisir, les amours" }
   - { k: "Placé en", v: "La maison 5 elle-même" }
@@ -23,7 +23,7 @@ faq:
   - q: "Le maître de la maison 5 en maison 5, est-ce une position forte ?"
     a: "C’est une position autonome. La maison a son porte-parole sur place, et si la planète est dans son propre signe ou, pour Vénus, dans sa joie, elle travaille avec aisance. Être autonome n’est pas avoir de la chance : vos plaisirs se reconnaissent simplement plus facilement, quels qu’ils soient."
   - q: "Un maître de la maison 5 resté en maison 5 rend-il les enfants plus probables ?"
-    a: "Non. La tradition voyait les enfants dans la maison 5, et comme la maison garde son propre maître, la tentation d’y lire une famille est forte. Je ne le fais pas : savoir si et quand un enfant viendra échappe à tout thème. Je lis la maison 5 comme votre créativité, vos plaisirs et vos amours d’adulte."
+    a: "Non. La tradition voyait les enfants dans la maison 5, et comme la maison garde son propre maître, la tentation d’y lire une famille est forte. Je ne le fais pas : savoir si et quand un enfant viendra échappe à tout thème. J’y vois votre créativité, vos plaisirs et vos amours d’adulte."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 5, la Fortune favorable" }
   - { title: "Joseph Crane, A Practical Guide to Traditional Astrology (1997), via Wikipédia (en anglais), « Succedent house »", url: "https://en.wikipedia.org/wiki/Succedent_house", note: "la joie de Vénus en maison 5 ; les plaisirs mis en avant seulement après l’époque hellénistique" }
@@ -37,7 +37,7 @@ D’ordinaire, le maître d’une maison emporte les affaires de sa maison aille
 
 La créativité, ici, se nourrit d’elle-même. Un projet en appelle un autre, une chanson une deuxième, et le plaisir de faire l’emporte souvent sur celui d’avoir fait. En amour, ce sont les débuts qui comptent le plus : la cour, le jeu de la séduction, le frisson d’être choisi ou choisie. Ce que demande ce placement, c’est un pont. Une joie gardée dans sa propre pièce peut devenir un monde à part, et le reste du thème, le travail, le foyer, le couple, a parfois besoin d’en recevoir une part.
 
-Si le Taureau ou la Balance occupe la cuspide, le maître est Vénus, et [Vénus en maison 5](/astrology/venus-in-5th-house/) se tient dans sa joie, la maison que la tradition nommait la Fortune favorable ([joies des planètes](/astrology/planetary-joys/)) : la planète du plaisir gouverne la maison du plaisir depuis l’intérieur. Avec le [Lion sur la cuspide de la maison 5](/astrology/leo-on-5th-house-cusp/) et le Soleil dedans, votre naissance a eu lieu dans la soirée, quelques heures après le coucher du soleil, et le jeu a la chaleur d’un feu qu’on entretient.
+Si le Taureau ou la Balance occupe la cuspide, le maître est Vénus, et [Vénus en maison 5](/astrology/venus-in-5th-house/) se tient dans sa joie, la maison que la tradition nommait la Fortune favorable ([joies des planètes](/astrology/planetary-joys/)) : c’est le plaisir lui-même qui gouverne sa maison, de l’intérieur. Avec le [Lion sur la cuspide de la maison 5](/astrology/leo-on-5th-house-cusp/) et le Soleil dedans, votre naissance a eu lieu dans la soirée, quelques heures après le coucher du soleil, et le jeu a la chaleur d’un feu qu’on entretient.
 
 Le plaisir est plus jeune que la maison. La maison 5 signifie les enfants depuis des millénaires, et Joseph Crane note que, malgré la joie de Vénus, les plaisirs et les jouissances des sens n’y ont été mis en avant qu’après les astrologues hellénistiques. La créativité, le sens sur lequel je m’appuie le plus, est un ajout moderne. Un placement aussi concentré est un bon endroit pour se rappeler que les significations d’une maison ont une histoire.
 

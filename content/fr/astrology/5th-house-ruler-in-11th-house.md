@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 5", "maison 11", "maîtres des maisons"]
 weight: 2347
 glyph: "✦"
-definition: "Le maître de la maison 5 en maison 11 place la planète de vos joies et de vos amours de l’autre côté du thème, parmi les amis, les groupes et les espoirs partagés. La création aime le collectif, l’amour naît de l’amitié. Rien de cela ne mesure la popularité ; c’est une joie qui veut de la compagnie."
+definition: "Le maître de la maison 5 en maison 11 place la planète de vos joies et de vos amours de l’autre côté du thème, parmi vos amis, vos groupes et vos espoirs partagés. La création aime le collectif, l’amour naît de l’amitié. Rien de cela ne mesure la popularité ; c’est une joie qui veut de la compagnie."
 facts:
   - { k: "Maître de", v: "La maison 5 : la créativité, le plaisir, les amours" }
   - { k: "Placé en", v: "Maison 11 : les amis, les groupes, les espoirs" }
@@ -23,7 +23,7 @@ faq:
   - q: "Le maître de la maison 5 en maison 11 veut-il dire que l’amour commence par l’amitié ?"
     a: "Souvent. Les amours naissent volontiers dans un cercle commun ou autour d’une cause partagée, et vous pouvez vous éprendre d’une personne que vous connaissez depuis des années. C’est une tendance, ni une règle ni une prédiction : qui vous aimerez, et comment cela commencera, reste à découvrir."
   - q: "Pourquoi les maisons 5 et 11 sont-elles liées en astrologie ?"
-    a: "Ce sont des maisons opposées, et la tradition les donnait toutes deux aux bénéfiques : Vénus a sa joie en maison 5, la Fortune favorable, et Jupiter en maison 11, le Génie favorable. Je lis la paire comme la joie intime et la joie partagée, chacune ayant besoin de l’autre."
+    a: "Ce sont des maisons opposées, et la tradition les donnait toutes deux aux bénéfiques : Vénus a sa joie dans la maison 5, dite Fortune favorable, et Jupiter dans la maison 11, dite Génie favorable. Je lis la paire comme la joie intime et la joie partagée, chacune ayant besoin de l’autre."
 sources:
   - { title: "Vettius Valens, Anthologies, livre II, trad. Robert Schmidt (1994), via Wikipédia (en anglais), « Succedent house »", url: "https://en.wikipedia.org/wiki/Succedent_house", note: "la maison 11 comme Génie favorable, où Jupiter se réjouit" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia (en anglais), « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison en représente les affaires ; la maison 11 avec les amitiés, les groupes, les souhaits et les espoirs ; tourner le thème" }
@@ -36,7 +36,7 @@ La [maison 5](/astrology/5th-house/) contient ce que vous faites par plaisir ;
 
 La création tend à se faire à plusieurs. Vous fabriquez peut-être des choses dans un collectif, écrivez avec une conversation de groupe qui vous encourage, ou montez des spectacles entre amis parce que, seule ou seul, ce serait deux fois moins drôle. En amour, l’amitié vient souvent d’abord ; vous pouvez vous éprendre d’une personne connue depuis des années, et une relation où vos amis n’ont pas leur place peut vous sembler laborieuse. Le risque, c’est une joie qui dépend du groupe : une chose cesse d’amuser dès que personne d’autre ne la fait, ou votre propre goût se perd sous celui de la bande.
 
-Les maisons 5 et 11 sont celles que la tradition donnait aux deux bénéfiques : Vénus se réjouit en maison 5, la Fortune favorable, et Jupiter en maison 11, le Génie favorable ([joies des planètes](/astrology/planetary-joys/)). Une opposition reste un aspect dans l’ancien compte par signe : le maître voit sa propre maison depuis l’autre côté du thème, et plaisir et amitié ne se perdent pas de vue. Un [Sagittaire sur la cuspide de la maison 5](/astrology/sagittarius-on-5th-house-cusp/) confie la maison à Jupiter, et [Jupiter en maison 11](/astrology/jupiter-in-11th-house/) y est à la fête : la personne qui entraîne tout le monde et paie la première tournée.
+Les maisons 5 et 11 sont celles que la tradition donnait aux deux bénéfiques : Vénus se réjouit en maison 5, qu’on nommait la Fortune favorable, et Jupiter en maison 11, qu’on nommait le Génie favorable ([joies des planètes](/astrology/planetary-joys/)). Une opposition reste un aspect dans l’ancien compte par signe : le maître voit sa propre maison depuis l’autre côté du thème, et plaisir et amitié ne se perdent pas de vue. Un [Sagittaire sur la cuspide de la maison 5](/astrology/sagittarius-on-5th-house-cusp/) confie la maison à Jupiter, et [Jupiter en maison 11](/astrology/jupiter-in-11th-house/) y est à la fête : la personne qui entraîne tout le monde et paie la première tournée.
 
 La maison 11 est aussi l’avenir : vos plaisirs s’attachent donc à des projets. Vous aimez avancer vers quelque chose avec d’autres : les retrouvailles que vous organisez, le jardin partagé, le voyage pour lequel toute une bande a mis de côté.
 

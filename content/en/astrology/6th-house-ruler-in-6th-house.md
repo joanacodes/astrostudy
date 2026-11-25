@@ -22,7 +22,7 @@ faq:
   - q: "What does the 6th house ruler in the 6th house say about routines?"
     a: "That they carry real weight for you. You tend to build a day that runs well and to feel unsettled when it doesn’t. A routine that includes rest, food and movement can be one of your strengths; one that leaves no room for them is worth rethinking."
   - q: "Is the ruler of the 6th in the 6th house about health?"
-    a: "No. Tradition gave the 6th illness, and with its ruler at home there, the pairing can sound worrying. I don’t read illness in a chart: no placement can name one or see one coming. I read the 6th as work and the daily care you give yourself."
+    a: "No. A ruler at home in tradition’s house of illness can sound alarming, yet no placement can name an illness or see one coming. What I read in the 6th is work and the daily care you give yourself."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 6th, Bad Fortune, and the houses tradition counted weak" }
   - { title: "William Lilly, Christian Astrology (1647), book I, p. 48, via Wikipedia, “Succedent house”", url: "https://en.wikipedia.org/wiki/Succedent_house", note: "“the cadents poor, and of little efficacy”" }
@@ -42,6 +42,6 @@ The planet shapes the routine. With Aries or Scorpio on the cusp, Mars is both r
 
 [Scorpio on the 6th house cusp](/astrology/scorpio-on-6th-house-cusp/) gives Pluto a share of the house alongside Mars ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). If Mars is the one at home here, Pluto, from another house, can bring a need to overhaul how things are done every few years. Both are part of the reading.
 
-The Descendant borders the 6th on one side. A ruler close to it would, with a slightly earlier birth, still have been above the horizon, in the 7th, working one to one with clients or partners ([Ruler of the 6th in the 7th house](/astrology/6th-house-ruler-in-7th-house/)). On the other side, a slightly later birth would push a ruler near the 6th cusp back into the 5th, where enjoyment drives the work ([Ruler of the 6th in the 5th house](/astrology/6th-house-ruler-in-5th-house/)). The recorded minute decides ([what changes without a birth time](/blog/unknown-birth-time/)).
+The Descendant borders the 6th on one side. A ruler close to it would, with a slightly earlier birth, still have been above the horizon, in the 7th, working one to one with clients or partners ([Ruler of the 6th in the 7th house](/astrology/6th-house-ruler-in-7th-house/)). On the other side, a ruler near the 6th cusp needs only a slightly later birth to land in the 5th, where enjoyment drives the work ([Ruler of the 6th in the 5th house](/astrology/6th-house-ruler-in-5th-house/)). The recorded minute decides ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The 6th was tradition's house of illness, and a ruler at home there doesn't double anything of the kind. Routines include sleep, food, movement and rest, and a chart can describe the rhythm that suits you; it can't name or foresee an illness ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). If the routine turns into a cage, or worry takes over the day, talk to a doctor or a counsellor ([astrology and mental health](/astrology/astrology-and-mental-health/)).

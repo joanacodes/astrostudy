@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 5", "maison 8", "maîtres des maisons"]
 weight: 2344
 glyph: "✦"
-definition: "Avec le maître de la maison 5 en maison 8, la planète de votre créativité, de vos plaisirs et de vos amours travaille là où se jouent l’intime et la confiance. La séduction reste rarement légère, et ce que vous créez creuse sous la surface. C’est une joie qui demande la confiance, pas l’annonce d’une perte."
+definition: "Avec le maître de la maison 5 en maison 8, la planète qui a la charge de vos plaisirs travaille là où se jouent l’intime et la confiance. La séduction reste rarement légère, et ce que vous créez creuse sous la surface. C’est une joie qui demande la confiance, pas l’annonce d’une perte."
 facts:
   - { k: "Maître de", v: "La maison 5 : la créativité, le plaisir, les amours" }
   - { k: "Placé en", v: "Maison 8 : l’intimité, la confiance, ce qui se partage et se doit" }
@@ -40,7 +40,7 @@ La légèreté et la profondeur tirent ici l’une contre l’autre, car la mais
 
 Vue depuis la maison 7, la maison 8 devient la maison 2 de votre partenaire ([maisons dérivées](/astrology/derived-houses/)) : les plaisirs payés sur un compte commun, les cadeaux entre amants et l’argent dépensé ensemble y ont leur place. L’ancien lien de la maison 5 avec la spéculation y rencontre les prêts et les dettes de la maison 8. J’y lis votre façon de prendre des risques avec ce qui n’est pas qu’à vous, jamais une prévision de gain ou de perte.
 
-Une cuspide en Taureau ou en Balance confie la tâche à Vénus, qui rend depuis la maison 8 la tendresse intime et durable plutôt que démonstrative. Saturne, qui gouverne une maison 5 en Capricorne, laisse la confiance se construire lentement, et le plaisir s’approfondit avec les années. Et si la cuspide est en Scorpion ([Scorpion sur la cuspide de la maison 5](/astrology/scorpio-on-5th-house-cusp/)), la maîtrise revient à Mars et à Pluton ensemble ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Je lis les deux : Pluton en maison 8 est en terrain connu, intense et sans hâte, tandis que Mars apporte depuis une autre maison un appétit plus vif.
+Une cuspide en Taureau ou en Balance confie la tâche à Vénus, qui rend depuis la maison 8 la tendresse intime et durable plutôt que démonstrative. Si Saturne gouverne votre maison 5 par le Capricorne, la confiance se construit lentement, et le plaisir s’approfondit avec les années. Et si la cuspide est en Scorpion ([Scorpion sur la cuspide de la maison 5](/astrology/scorpio-on-5th-house-cusp/)), la maîtrise revient à Mars et à Pluton ensemble ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Je lis les deux : Pluton en maison 8 est en terrain connu, intense et sans hâte, tandis que Mars apporte depuis une autre maison un appétit plus vif.
 
 Déplacez l’heure de naissance, et le maître se déplace avec elle. Avancez l’horloge, et un maître proche du début de la maison 8 glisse vers le descendant, en maison 7, là où les amours cherchent un ou une partenaire ([Maître de la maison 5 en maison 7](/astrology/5th-house-ruler-in-7th-house/)) ; reculez-la, et un maître proche de l’autre bord monte en maison 9, là où le plaisir voyage et étudie ([Maître de la maison 5 en maison 9](/astrology/5th-house-ruler-in-9th-house/)). Une planète de la maison 8 se trouvait dans le ciel de l’ouest à votre naissance, à quelques heures de son coucher : il me faut la minute inscrite ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

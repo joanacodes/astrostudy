@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies, livre II, trad. Robert Schmidt (1994), via Wikipédia (en anglais), « Succedent house »", url: "https://en.wikipedia.org/wiki/Succedent_house", note: "la maison 11 comme Génie favorable, où Jupiter se réjouit" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia (en anglais), « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison en représente les affaires ; la maison 11 avec les amitiés, les groupes, les souhaits et les espoirs" }
 ---
-En maison 11, le maître de la maison 6 fait de la journée de travail un effort d’équipe. Les collègues deviennent des amis, les groupes ont besoin d’être organisés, et le service va souvent à une cause que vous partagez avec d’autres.
+Le maître de la maison 6, placé en maison 11, fait de la journée de travail un effort d’équipe. Les collègues deviennent des amis, les groupes ont besoin d’être organisés, et le service va souvent à une cause que vous partagez avec d’autres.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
