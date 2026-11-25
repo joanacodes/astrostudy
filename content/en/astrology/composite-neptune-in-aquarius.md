@@ -13,7 +13,7 @@ definition: "Composite Neptune in Aquarius sets a relationship chart’s Neptune
 facts:
   - { k: "Body", v: "Composite Neptune ♆, halfway between your two natal Neptunes" }
   - { k: "Sign", v: "Aquarius ♒, fixed air, ruled by Uranus and, traditionally, Saturn" }
-  - { k: "How common", v: "About 1 pair in 23 among pairs born 1930–2009, a sample that ends just as its generation begins" }
+  - { k: "How common", v: "About 1 pair in 23 among pairs born 1930–2009, since both partners must come from its youngest years" }
   - { k: "Same-age pairs", v: "Both born January 1998 – February 2012; adults today if born by late 2008" }
   - { k: "Would need", v: "At least one partner born from January 1998" }
   - { k: "Needs", v: "Both birth dates; its house needs both birth times" }
@@ -22,7 +22,7 @@ faq:
   - q: "What does composite Neptune in Aquarius mean?"
     a: "It gives a relationship an ideal that reaches beyond the couple: friendship inside love, freedom for each person, a shared cause or community, a fairer future. It describes the bond rather than either partner. It belongs to the youngest adult couples, with at least one partner born from 1998."
   - q: "Is composite Neptune in Aquarius rare?"
-    a: "Not among young couples: two people born between 1998 and 2008 almost always have it. It looks rare, about 1 pair in 23, only in a sample of people born from 1930 to 2009, because Neptune entered Aquarius in January 1998 and that sample stops in 2009."
+    a: "Not among young couples: two people born between 1998 and 2008 almost always have it. It looks rare, about 1 pair in 23, only in a sample of people born from 1930 to 2009: Neptune entered Aquarius in January 1998, so both partners have to come from the last years of that sample."
   - q: "Which planets rule Aquarius in a composite?"
     a: "Uranus, its modern ruler, and Saturn, its traditional one; I read both in any chart. In a composite, Uranus shows where a bond needs room and change, Saturn where it needs commitment, and with Neptune in Aquarius the pair’s ideal tends to ask for both."
 sources:
@@ -37,7 +37,7 @@ Every planet of [the composite chart](/astrology/composite-chart/) is a midpoint
 
 Aquarius has two rulers, [Uranus](/astrology/uranus/) in modern tropical astrology and [Saturn](/astrology/saturn/) in the tradition, and I read both. In a composite, Uranus would show where the bond needs room and change, Saturn where it needs rules and commitment; with Neptune in Aquarius, the pair's ideal tends to ask for both at once: freedom held inside something that lasts.
 
-Two people born between January 1998 and February 2012 both have [Neptune in Aquarius](/astrology/neptune-in-aquarius/), but only those born by late 2008 are adults today, and this site never reads [children's charts](/astrology/childrens-charts/). Pairs from next door join them: born in June 1994, one partner has Neptune at about 23° Capricorn; born in June 2006, the other has it at about 20° Aquarius; the composite lands at about 6° Aquarius. A random sample of two million pairs born from 1930 to 2009 gives only about 1 pair in 23, but that sample stops just as this generation begins: for couples born in the 2000s, it is the rule.
+Two people born between January 1998 and February 2012 both have [Neptune in Aquarius](/astrology/neptune-in-aquarius/), but only those born by late 2008 are adults today, and this site never reads [children's charts](/astrology/childrens-charts/). Pairs from next door join them: born in June 1994, one partner has Neptune at about 23° Capricorn; born in June 2006, the other has it at about 20° Aquarius; the composite lands at about 6° Aquarius. A random sample of two million pairs born from 1930 to 2009 gives only about 1 pair in 23, because both partners have to come from its youngest years; for couples born in the 2000s, it is the rule.
 
 On one side, [composite Neptune in Capricorn](/astrology/composite-neptune-in-capricorn/) builds its ideal to last; on the other, [composite Neptune in Pisces](/astrology/composite-neptune-in-pisces/) belongs to two people born from 2011 to 2026, all of them children today.
 

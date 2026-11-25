@@ -31,7 +31,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "la maison 8 et ce que la tradition lui donnait" }
 ---
-Certains couples peuvent rester en silence et sentir qu’ils se sont tout dit. Neptune composite en maison 8 met le rêve de la relation dans ses profondeurs : l’intimité, la confiance, et tout ce que vous tenez ensemble.
+Le silence peut tout dire entre deux personnes. Neptune composite en maison 8 met le rêve de la relation dans ses profondeurs : l’intimité, la confiance, et tout ce que vous tenez ensemble.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

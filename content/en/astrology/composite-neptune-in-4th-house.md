@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what they cover" }
 ---
-Some couples could live in a tent and still call it home, as long as they were in it together. A composite Neptune in the 4th house puts the relationship's dream at its foundation: home, roots and the life it keeps for itself.
+A tent would do, as long as the two of you were in it. That is the spirit of a composite Neptune in the 4th house, which puts the relationship's dream at its foundation: home, roots and the life it keeps for itself.
 
 ## What it says about the two of you {#what-it-says}
 

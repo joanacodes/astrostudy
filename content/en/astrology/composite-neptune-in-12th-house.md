@@ -31,7 +31,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, and the 12th as the Bad Spirit" }
 ---
-Some couples are at their closest when nobody else is watching: a long walk without talking, an hour reading in the same room, a song no one else knows. A composite Neptune in the 12th house gives the relationship's dream that hidden, inward home.
+No one watches the best hours of this bond: a long walk without talking, an hour reading in the same room, a song only the two of you know. A composite Neptune in the 12th house gives the relationship's dream that hidden, inward home.
 
 ## What it says about the two of you {#what-it-says}
 

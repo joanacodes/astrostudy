@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, and the 3rd as the Goddess" }
 ---
-Some pairs finish each other's sentences; others never need to start them. A composite Neptune in the 3rd house puts the relationship's dream into its everyday talk.
+Finishing each other's sentences is one thing; never needing to start them is another. A composite Neptune in the 3rd house puts the relationship's dream into its everyday talk.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -44,6 +44,6 @@ The difficulty is the unsaid. A bond that understands so much without words can 
 
 In one chart, [Neptune in the 3rd house](/astrology/neptune-in-3rd-house/) gives a person a mind that thinks in pictures; in synastry, [their Neptune in your 3rd house](/astrology/neptune-in-3rd-house-synastry/) is one partner hearing more in the other's words than was said. The composite version is a shared language that neither of you speaks quite the same way with anyone else.
 
-Placing this house takes more than the family story. Birth times often come down by word of mouth, as "just after lunch" or "around teatime", and that is a fine place to start looking ([what changes without a birth time](/blog/unknown-birth-time/#finding-your-time)). It isn't enough for a composite house: the cusps come from both exact times, whether they are averaged from the two charts' cusps or raised from the composite Midheaven, and a few degrees of doubt can hand this Neptune to the 2nd house or the 4th.
+Placing this house takes more than the family story. Birth times often come down by word of mouth, as “just after lunch” or “around teatime”, and that is a fine place to start looking ([what changes without a birth time](/blog/unknown-birth-time/#finding-your-time)). It isn't enough for a composite house: the cusps come from both exact times, whether they are averaged from the two charts' cusps or raised from the composite Midheaven, and a few degrees of doubt can hand this Neptune to the 2nd house or the 4th.
 
 Around it, [composite Neptune in the 2nd house](/astrology/composite-neptune-in-2nd-house/) dreams through what the pair values, and [composite Neptune in the 4th house](/astrology/composite-neptune-in-4th-house/) through its home. I explain composites without using them in my own readings; those who use them set it beside each partner's own chart and the [synastry](/astrology/synastry/), and it tells them how a pair talks and dreams, nothing about where it is heading.

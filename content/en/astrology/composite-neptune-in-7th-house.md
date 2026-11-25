@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what they cover" }
 ---
-Some couples talk about the day they met as if it had been arranged in advance. A composite Neptune in the 7th house gives the relationship that feeling about itself: being a pair seems to mean something larger than the two of you.
+“We were meant to meet” is the sentence a composite Neptune in the 7th house tends to put in a couple's mouth. The relationship feels arranged in advance, and being a pair seems to mean something larger than the two of you.
 
 ## What it says about the two of you {#what-it-says}
 

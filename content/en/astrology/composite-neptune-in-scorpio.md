@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Neptune falls in Scorpio, and Neptune’s stays in the sign" }
 ---
-Scorpio is where the zodiac goes underground. A composite Neptune there gives a relationship a longing for depth, and it is the commonest composite Neptune sign of all: about 1 pair in 3 among people born from 1930 to 2009 has it.
+Scorpio takes the zodiac underground. A composite Neptune there gives a relationship a longing for depth, and it is the commonest composite Neptune sign of all: about 1 pair in 3 among people born from 1930 to 2009 has it.
 
 ## What it says about the two of you {#what-it-says}
 

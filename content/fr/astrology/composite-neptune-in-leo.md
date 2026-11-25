@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009, et les séjours de Neptune en Lion, 1700–2300" }
 ---
-Le Lion est le signe du cœur qui veut être vu. Neptune composite dans ce signe ferait du rêve de la relation une histoire d’amour racontée au grand jour, et seuls les couples les plus âgés peuvent avoir ce placement : il faut qu’au moins une des deux personnes soit née avant juillet 1929.
+Le cœur du Lion veut être vu. Dans un thème composite, Neptune en Lion ferait du rêve de la relation une histoire d’amour racontée au grand jour, et seuls les couples les plus âgés peuvent avoir ce placement : il faut qu’au moins une des deux personnes soit née avant juillet 1929.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

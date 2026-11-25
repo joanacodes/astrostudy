@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/neptune-in-12th-house", "/astrology/12th-house", "/astrology/astrology-and-mental-health", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Neptune composite en maison 12 ?"
-    a: "Le rêve de la relation vit en privé : une vie intérieure partagée, un silence qui semble plein, une pratique spirituelle ou une compassion offerte sans public. Neptune gouverne les Poissons, le signe naturel de cette maison, et s’y trouve donc à l’aise. Ce placement décrit le lien, pas le psychisme de l’une ou l’autre personne, et sa maison demande les deux heures."
+    a: "Le rêve de la relation vit en privé : une vie intérieure partagée, un silence plein, une pratique spirituelle ou une compassion offerte sans public. Neptune gouverne les Poissons, signe naturel de cette maison, et s’y trouve à l’aise. Ce placement décrit le lien, pas le psychisme de l’une ou l’autre personne, et sa maison demande les deux heures."
   - q: "Est-ce que Neptune composite en maison 12 désigne une relation cachée ?"
     a: "Non. Ce placement décrit un lien dont la vie la plus riche se déroule loin des regards, ce qui n’est pas la même chose que se cacher. Son risque est de se retirer au point que les amis et la famille ne voient jamais la relation telle qu’elle est : laisser entrer quelques personnes garde ce calme en bonne santé."
   - q: "Est-ce que Neptune composite en maison 12 prédit une maladie ou un enfermement ?"
@@ -32,11 +32,11 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, et la maison 12 comme le Génie défavorable" }
 ---
-Certains couples ne sont jamais aussi proches que lorsque personne ne les regarde : une longue marche sans parler, une heure à lire dans la même pièce, une chanson que personne d’autre ne connaît. Neptune composite en maison 12 donne au rêve de la relation cette demeure cachée, tournée vers l’intérieur.
+Les meilleures heures de ce lien se passent loin des regards : une longue marche sans parler, une heure à lire dans la même pièce, une chanson que personne d’autre ne connaît. Neptune composite en maison 12 donne au rêve de la relation cette demeure cachée, tournée vers l’intérieur.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-[Le thème composite](/astrology/composite-chart/) dessine une relation comme une troisième chose, à partir des mi-points de deux thèmes natals, et cette troisième chose a, elle aussi, une vie intérieure. [Neptune](/astrology/neptune/) y montre où elle rêve, et la [maison 12](/astrology/12th-house/) est celle de la solitude, de la retraite, de la réflexion et de la compassion offerte sans public. Neptune gouverne les Poissons, le signe naturel de cette maison, en astrologie tropicale moderne : la planète y travaille donc à l’aise. Vous partagez peut-être une pratique spirituelle, méditez ou priez côte à côte, faites de la musique pour personne d’autre que vous, ou prenez soin en silence de personnes qui ne connaîtront jamais vos noms. Le silence à deux semble plein plutôt que vide, et la relation est un refuge loin d’un monde bruyant.
+[Le thème composite](/astrology/composite-chart/) dessine une relation comme une troisième chose, à partir des mi-points de deux thèmes natals, et cette troisième chose a, elle aussi, une vie intérieure. [Neptune](/astrology/neptune/) y montre où la relation rêve, et la [maison 12](/astrology/12th-house/) est celle de la solitude, de la retraite, de la réflexion et de la compassion offerte sans public. Neptune gouverne les Poissons, le signe naturel de cette maison, en astrologie tropicale moderne : la planète y travaille donc à l’aise. Vous partagez peut-être une pratique spirituelle, méditez ou priez côte à côte, faites de la musique pour personne d’autre que vous, ou prenez soin en silence de personnes qui ne connaîtront jamais vos noms. Le silence à deux semble plein plutôt que vide, et la relation est un refuge loin d’un monde bruyant.
 
 La maison 12 portait un lourd nom ancien, le Génie défavorable, même si l’on disait que Saturne s’y réjouissait ([joies des planètes](/astrology/planetary-joys/)) ; avec Neptune ici, la maison est plus douce que son nom.
 

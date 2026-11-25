@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009, and Neptune’s stays in Pisces, 1700–2300" }
 ---
-Pisces is Neptune's own sign, where edges soften and everything seems connected. A composite Neptune there would make a relationship's ideal one of oneness; no adult couple can have it yet, because the pairs who will share it were born between 2011 and 2026.
+Pisces is Neptune's own sign, where edges soften and everything seems connected. As a composite placement, Neptune in Pisces would give a relationship an ideal of oneness; no adult couple can have it yet, because the pairs who will share it were born between 2011 and 2026.
 
 ## What it says about the two of you {#what-it-says}
 

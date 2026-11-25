@@ -23,14 +23,14 @@ faq:
   - q: "Que veut dire Neptune composite en Capricorne ?"
     a: "Ce placement donne à une relation un idéal à construire : un rêve commun doté d’une structure, d’un plan et de la patience d’aller au bout. Il décrit le lien comme une troisième chose, pas l’une ou l’autre personne. Les paires nées entre 1984 et 1998 l’ont, comme environ 1 paire sur 6 parmi les naissances de 1930 à 2009."
   - q: "Est-ce un placement pratique ou rêveur ?"
-    a: "Les deux, et c’est tout son intérêt. Neptune apporte l’idéal et le Capricorne la méthode : la paire rêve volontiers en plans, avec des dates et des étapes. Son risque, c’est de repousser le rêve jusqu’à ce que tout soit en place, ou de laisser le devoir prendre la place de la tendresse. Il ne promet aucune réussite et ne dit rien de l’argent."
+    a: "Les deux, et c’est tout son intérêt. Neptune apporte l’idéal et le Capricorne la méthode : la paire rêve en plans datés. Son risque, c’est de repousser le rêve jusqu’à ce que tout soit en place, ou de laisser le devoir prendre la place de la tendresse. Il ne promet aucune réussite et ne dit rien de l’argent."
   - q: "Un couple de deux générations peut-il avoir Neptune composite en Capricorne ?"
     a: "Oui. Presque toutes les paires qui réunissent une personne née entre 1970 et 1984, avec Neptune en Sagittaire, et une autre née entre 1998 et 2008, avec Neptune en Verseau, ont Neptune composite en Capricorne, alors qu’aucun des deux thèmes natals n’a Neptune dans ce signe."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Neptune composite en Capricorne, et les séjours de Neptune dans ce signe" }
 ---
-Le Capricorne est le signe qui fait d’un plan un bâtiment. Avec Neptune dans ce signe, le rêve d’une relation veut des fondations : vous idéalisez ce que vous pouvez construire à deux et faire tenir debout.
+Le Capricorne change les plans en bâtiments. Avec Neptune dans ce signe, le rêve d’une relation veut des fondations : vous idéalisez ce que vous pouvez construire à deux et faire tenir debout.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

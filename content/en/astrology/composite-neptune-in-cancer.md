@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009, and Neptune’s stays in Cancer, 1700–2300" }
 ---
-Cancer is where the zodiac builds its shelters. A composite Neptune there would make a harbour the relationship's ideal, a home to come back to; in practice no couple alive has it, because Neptune left Cancer in 1916 and won't be back before 2065.
+Cancer is where the zodiac builds its shelters. Were a relationship's Neptune to land there, its ideal would be a harbour, a home to come back to; in practice no couple alive has it, because Neptune left Cancer in 1916 and won't be back before 2065.
 
 ## What it says about the two of you {#what-it-says}
 

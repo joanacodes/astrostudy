@@ -30,13 +30,13 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, and the 11th as the Good Spirit" }
 ---
-Some couples are never really alone: there's always a friend at the table, a meeting to go to, a cause pinned to the fridge door. A composite Neptune in the 11th house makes that wider circle part of the relationship's dream.
+There's always a friend at the table, a meeting to go to, a cause pinned to the fridge door. A composite Neptune in the 11th house makes that wider circle part of the relationship's dream.
 
 ## What it says about the two of you {#what-it-says}
 
-[The composite chart](/astrology/composite-chart/) can give a friendship, as much as a love, a chart of its own: every planet halfway between two birth charts, read as a third thing with a social life of its own. Composite [Neptune](/astrology/neptune/) is where its hopes lose their edges. [The 11th house](/astrology/11th-house/) holds friendships, groups, networks and causes, and the hopes a bond has for the future. With Neptune here, the relationship dreams with others. Friends become something like family, the two of you may host the gatherings or carry a group's spirit, and a cause, a choir, a community garden or an online circle can feel like an extension of the bond itself.
+[The composite chart](/astrology/composite-chart/) can give a friendship, as much as a love, a chart of its own: every planet halfway between two birth charts, read as a third thing with a social life of its own. Composite [Neptune](/astrology/neptune/) is where the bond's hopes lose their edges. [The 11th house](/astrology/11th-house/) holds friendships, groups, networks and causes, and the hopes a bond has for the future. With Neptune here, the relationship dreams with others. Friends become something like family, the two of you may host the gatherings or carry a group's spirit, and a cause, a choir, a community garden or an online circle can feel like an extension of the bond itself.
 
-Jupiter, the tradition says, took its joy in the 11th, which it called the Good Spirit ([planetary joys](/astrology/planetary-joys/)). With Neptune here, the bond's hopes reach past the people it knows, to people it hasn't met yet.
+Jupiter, the tradition says, took its joy in the 11th, which it called the Good Spirit ([planetary joys](/astrology/planetary-joys/)). In this house, those hopes reach past the people the bond knows, to people it hasn't met yet.
 
 The difficulty is seeing the circle clearly. A bond that idealises community can see a group as it hopes it is rather than as it is, follow a charismatic friend further than it meant to, or give its best energy to everyone's plans but its own. Shared hopes can stay hopes. Friendship isn't the same as belonging to a crowd, and a cause is better served by two people who still have time for each other.
 

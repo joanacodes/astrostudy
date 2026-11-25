@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/neptune-in-libra", "/astrology/libra", "/astrology/venus", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Neptune composite en Balance ?"
-    a: "Ce placement donne à une relation un idéal de partenariat : le rêve de deux personnes à égalité, qui vivent dans la justice, la beauté et la paix. Il décrit le lien plutôt que l’une ou l’autre personne. Les paires nées entre 1942 et 1957 l’ont, comme beaucoup de paires nées l’une dans les années 1930 et l’autre dans les années 1950."
+    a: "Ce placement donne à une relation un idéal de partenariat : le rêve de deux personnes à égalité, vivant dans la justice, la beauté et la paix. Il décrit le lien plutôt que l’une ou l’autre personne. Les paires nées entre 1942 et 1957 l’ont, comme beaucoup de paires nées l’une dans les années 1930, l’autre dans les années 1950."
   - q: "Est-ce un bon signe d’avoir Neptune composite en Balance ?"
     a: "Ce placement n’est ni bon ni mauvais : aucun placement composite ne décide de rien. Il décrit un lien qui idéalise l’harmonie, ce qui apporte du tact, de la gentillesse et un sens commun de ce qui est juste. Son risque, c’est une paix gardée en taisant les choses. Un composite ne dit jamais combien de temps une relation durera."
   - q: "Neptune composite en Balance, c’est fréquent ?"

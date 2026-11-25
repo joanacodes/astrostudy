@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the 8th house and what tradition gave it" }
 ---
-Some couples can sit in silence and feel they've said everything. A composite Neptune in the 8th house puts the relationship's dream in its depths: in intimacy, trust and whatever the two of you hold together.
+Silence can say everything between two people. A composite Neptune in the 8th house puts the relationship's dream in its depths: in intimacy, trust and whatever the two of you hold together.
 
 ## What it says about the two of you {#what-it-says}
 

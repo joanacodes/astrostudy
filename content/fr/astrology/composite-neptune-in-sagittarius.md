@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/neptune-in-sagittarius", "/astrology/sagittarius", "/astrology/jupiter", "/astrology/davison-chart"]
 faq:
   - q: "Que veut dire Neptune composite en Sagittaire ?"
-    a: "Ce placement donne à une relation un idéal de sens : une quête commune de foi, de compréhension ou d’un horizon plus large, souvent par le voyage et l’étude. Il décrit le lien comme une troisième chose, pas l’une ou l’autre personne. Les paires nées entre 1970 et 1984 l’ont, et environ 1 paire sur 4 parmi les naissances de 1930 à 2009."
+    a: "Ce placement donne à une relation un idéal de sens : une quête commune de foi, de compréhension ou d’un horizon plus large, souvent par le voyage et l’étude. Il décrit le lien, pas l’une ou l’autre personne. Les paires nées entre 1970 et 1984 l’ont, et environ 1 paire sur 4 parmi les naissances de 1930 à 2009."
   - q: "Pourquoi le composite et le thème de Davison placent-ils Neptune presque au même endroit ?"
     a: "Parce que Neptune avance lentement et régulièrement. Le composite prend le mi-point de vos deux positions de Neptune ; le thème de Davison est dressé pour le jour situé à mi-chemin entre vos naissances. Pour une planète aussi lente, les deux positions tombent toujours à 4° environ l’une de l’autre au plus, et le plus souvent bien plus près."
   - q: "Est-ce que Neptune composite en Sagittaire parle de voyages ?"
@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Neptune composite en Sagittaire, les séjours de Neptune dans ce signe, et l’écart entre le composite et la position de Neptune à mi-chemin des deux dates" }
 ---
-Le Sagittaire veut toujours savoir ce qu’il y a derrière la colline suivante. Neptune composite dans ce signe fait de cette question celle de la relation : vous rêvez de sens, et de le trouver à deux.
+Le Sagittaire veut toujours savoir ce qu’il y a derrière la colline suivante. Neptune composite, en Sagittaire, fait de cette question celle de la relation : vous rêvez de sens, et de le trouver à deux.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

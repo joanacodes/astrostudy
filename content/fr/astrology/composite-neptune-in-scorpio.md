@@ -23,14 +23,14 @@ faq:
   - q: "Que veut dire Neptune composite en Scorpion ?"
     a: "Ce placement donne à une relation un idéal de profondeur : le rêve d’une connaissance totale de l’autre, d’une proximité sans masque et d’une compassion qui reste dans les moments sombres. Il décrit le lien dans son ensemble, pas l’une ou l’autre personne. C’est le signe le plus courant pour Neptune composite parmi les paires nées de 1930 à 2009."
   - q: "Pourquoi trouve-t-on si souvent Neptune composite en Scorpion ?"
-    a: "Parce qu’un composite prend des mi-points, et que les mi-points se rassemblent au milieu d’une plage. Deux personnes nées entre 1955 et 1970 ont ce placement, et presque toutes les paires réunissant une personne née de 1942 à 1957 et une autre née de 1970 à 1984 aussi. Sur deux millions de paires nées de 1930 à 2009, environ 1 sur 3 l’avait."
+    a: "Parce qu’un composite prend des mi-points, et que ceux-ci se rassemblent au milieu d’une plage. Deux personnes nées entre 1955 et 1970 ont ce placement, et presque toutes les paires réunissant une personne née de 1942 à 1957 et une autre de 1970 à 1984 aussi. Sur deux millions de paires nées de 1930 à 2009, environ 1 sur 3."
   - q: "Est-ce que Neptune composite en Scorpion veut dire des secrets ?"
     a: "Non. Le Scorpion décrit la profondeur, et la profondeur n’est pas le secret. Le lien tend à vouloir de la franchise sur la peur, le désir et la perte, et une intimité protégée du monde extérieur. Son risque, c’est une fusion telle que les deux personnes perdent leurs contours : un peu d’air et une vie séparée de chaque côté aident."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Neptune composite en Scorpion, et les séjours de Neptune dans ce signe" }
 ---
-Le Scorpion est l’endroit où le zodiaque descend sous terre. Neptune composite dans ce signe donne à une relation un désir de profondeur, et c’est le signe le plus courant pour Neptune composite : environ 1 paire sur 3 parmi les paires nées de 1930 à 2009.
+Avec le Scorpion, le zodiaque passe sous terre. Neptune composite dans ce signe donne à une relation un désir de profondeur, et c’est le signe le plus courant pour Neptune composite : environ 1 paire sur 3 parmi les paires nées de 1930 à 2009.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

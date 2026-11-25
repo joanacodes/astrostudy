@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce qu’elles couvrent" }
 ---
-Certains couples pourraient vivre sous une tente et l’appeler encore leur maison, pourvu qu’ils y soient ensemble. Neptune composite en maison 4 met le rêve de la relation à ses fondations : le foyer, les racines, et la vie qu’elle garde pour elle.
+Une tente suffirait, pourvu que vous y soyez ensemble. C’est l’esprit de Neptune composite en maison 4, qui met le rêve de la relation à ses fondations : le foyer, les racines, et la vie qu’elle garde pour elle.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

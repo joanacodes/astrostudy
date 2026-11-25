@@ -21,20 +21,20 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/neptune-in-9th-house", "/astrology/9th-house", "/astrology/composite-neptune-in-sagittarius", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Neptune in the 9th house mean?"
-    a: "The relationship looks for meaning together: a shared faith, philosophy or practice, study taken up as a calling, and journeys that feel like pilgrimages. It describes the bond’s horizon, not either person’s beliefs, and its house needs both birth times."
+    a: "The relationship looks for meaning together: a shared faith, philosophy or practice, study taken up as a calling, and travel that feels like pilgrimage. It describes the bond’s horizon, not either person’s beliefs, and its house needs both birth times."
   - q: "Is composite Neptune in the 9th house good for a long-distance relationship?"
-    a: "It describes a bond that idealises distance and the faraway, which can make long journeys feel meaningful rather than lonely. It doesn’t decide whether a long-distance relationship works; the two of you do. It also makes one way of drawing composite houses awkward, since that method needs a single place where the pair lives."
+    a: "It describes a bond that idealises distance and the faraway, which can make long trips feel meaningful rather than lonely. It doesn’t decide whether a long-distance relationship works; the two of you do. It also makes one way of drawing composite houses awkward, since that method needs a single place where the pair lives."
   - q: "Does composite Neptune in the 9th house mean a shared religion?"
     a: "Not necessarily. The 9th covers every kind of belief and search, from a faith to a philosophy to a love of learning. With Neptune here, the pair tends to share a sense of the sacred, whatever form it takes. Its risk is believing together without asking questions together."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, and the 9th as the God" }
 ---
-Some couples are happiest on the way somewhere: a train crossing a border, a lecture hall, a retreat in the hills. A composite Neptune in the 9th house makes that search for meaning the relationship's own dream.
+A train crossing a border, a lecture hall, a retreat in the hills: the places where a composite Neptune in the 9th house feels most at home are all on the way somewhere. The relationship's own dream is a search for meaning.
 
 ## What it says about the two of you {#what-it-says}
 
-[The composite chart](/astrology/composite-chart/) gives a relationship a horizon of its own: one chart, built from the midpoints of two birth charts, read as a third thing that belongs to neither of you. Its [Neptune](/astrology/neptune/) shows where the bond longs for something larger than itself. [The 9th house](/astrology/9th-house/) is the house of belief and wide horizons: faith and philosophy, higher study and teaching, long journeys and foreign places. With Neptune here, the pair's ideal is a shared search. The two of you may study together, travel as if on pilgrimage rather than on holiday, take up a spiritual practice side by side, or simply keep a conversation about what matters running for years. Other cultures and other faiths tend to move this bond rather than threaten it.
+[The composite chart](/astrology/composite-chart/) gives a relationship a horizon of its own: one chart, built from the midpoints of two birth charts, read as a third thing that belongs to neither of you. Its [Neptune](/astrology/neptune/) shows where the bond longs for something larger than itself. [The 9th house](/astrology/9th-house/) is the house of belief and wide horizons: faith and philosophy, higher study and teaching, long-distance travel and foreign places. With Neptune here, the pair's ideal is a shared search. The two of you may study together, travel as if on pilgrimage rather than on holiday, take up a spiritual practice side by side, or simply keep a conversation about what matters running for years. Other cultures and other faiths tend to move this bond rather than threaten it.
 
 Old astrologers gave this house a grand name, the God, and placed the Sun's joy in it ([planetary joys](/astrology/planetary-joys/)). A Neptune here doesn't make the pair religious; it makes it reverent, in whatever form reverence takes for the two of you.
 

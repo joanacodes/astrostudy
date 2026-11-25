@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Neptune", "Sagittarius", "composite chart"]
 weight: 2177
 glyph: "♆♐"
-definition: "Composite Neptune in Sagittarius means the relationship chart’s Neptune, the midpoint of two natal Neptunes, falls in the mutable fire sign of journeys and big questions. It describes a bond whose shared ideal is a search for meaning. About 1 pair in 4 born from 1930 to 2009 has it, above all pairs born 1970–1984."
+definition: "Composite Neptune in Sagittarius means the relationship chart’s Neptune, the midpoint of two natal Neptunes, falls in the mutable fire sign of travel and big questions. It describes a bond whose shared ideal is a search for meaning. About 1 pair in 4 born from 1930 to 2009 has it, above all pairs born 1970–1984."
 facts:
   - { k: "Body", v: "Composite Neptune ♆, at the nearer midpoint of your two natal Neptunes" }
   - { k: "Sign", v: "Sagittarius ♐, mutable fire, ruled by Jupiter" }
@@ -24,12 +24,12 @@ faq:
   - q: "Why is our composite Neptune close to our Davison Neptune?"
     a: "Because Neptune moves so slowly and so evenly. The composite takes the midpoint of your two Neptunes; the Davison chart is cast for the day halfway between your births. For a planet this slow, the two positions always land within about 4° of each other, and usually much closer."
   - q: "Is composite Neptune in Sagittarius about travel?"
-    a: "Often, but not only. Sagittarius describes exploration of every kind: journeys, study, belief, the big questions. With Neptune here a pair tends to dream of a wider world together, whether that means another country, a shared faith or a lifelong conversation about what matters. It predicts no move abroad."
+    a: "Often, but not only. Sagittarius describes exploration of every kind: travel, study, belief, the big questions. With Neptune here a pair tends to dream of a wider world together, whether that means another country, a shared faith or a lifelong conversation about what matters. It predicts no move abroad."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Neptune falls in Sagittarius, Neptune’s stays in the sign, and how far the composite lies from Neptune at the halfway date" }
 ---
-Sagittarius always wants to know what lies over the next hill. A composite Neptune there makes that question the relationship's own: the two of you dream of meaning, and of finding it together.
+Sagittarius always wants to know what lies over the next hill. With Neptune there in a composite, that question becomes the relationship's own: the two of you dream of meaning, and of finding it together.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -41,6 +41,6 @@ Two people born between January 1970 and November 1984 both have [Neptune in Sag
 
 On either side, [composite Neptune in Scorpio](/astrology/composite-neptune-in-scorpio/), the commonest placement, looks for meaning in depth, and [composite Neptune in Capricorn](/astrology/composite-neptune-in-capricorn/) in building something to last; Sagittarius looks for it in distance.
 
-The difficulty is a horizon that keeps moving. A bond that idealises the search can find the place it has reached less interesting than the next one, treat ordinary life as a waiting room for the next journey, or hold a shared belief so warmly that questioning it feels like disloyalty. Meaning also lives close to home: in the kitchen, at the bus stop, in the town where the two of you actually live.
+The difficulty is a horizon that keeps moving. A bond that idealises the search can find the place it has reached less interesting than the next one, treat ordinary life as a waiting room for the next trip, or hold a shared belief so warmly that questioning it feels like disloyalty. Meaning also lives close to home: in the kitchen, at the bus stop, in the town where the two of you actually live.
 
 For a pair of one generation, the sign says most about when they were born, and the composite house, which needs both birth times, says where in their shared life the search takes place ([what changes without a birth time](/blog/unknown-birth-time/)). Composites are a school of thought I explain here without following it in my own readings; those who teach it read them beside both natal charts and the [synastry](/astrology/synastry/), and never to decide whether a relationship will last.

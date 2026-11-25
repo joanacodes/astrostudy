@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Neptune falls in Capricorn, and Neptune’s stays in the sign" }
 ---
-Capricorn is the sign that turns a plan into a building. With Neptune there, a relationship's dream wants foundations: the two of you idealise what you can make together and keep standing.
+Capricorn turns plans into buildings. With Neptune there, a relationship's dream wants foundations: the two of you idealise what you can make together and keep standing.
 
 ## What it says about the two of you {#what-it-says}
 

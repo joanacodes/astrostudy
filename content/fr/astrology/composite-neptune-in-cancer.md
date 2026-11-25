@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009, et les séjours de Neptune en Cancer, 1700–2300" }
 ---
-Le Cancer est le signe où le zodiaque construit ses abris. Neptune composite dans ce signe ferait d’un port d’attache l’idéal de la relation, une maison où revenir ; en pratique, aucun couple vivant n’a ce placement, car Neptune a quitté le Cancer en 1916 et n’y revient pas avant 2065.
+Le Cancer est le signe où le zodiaque construit ses abris. Si Neptune composite s’y trouvait, l’idéal de la relation serait un port d’attache, une maison où revenir ; en pratique, aucun couple vivant n’a ce placement, car Neptune a quitté le Cancer en 1916 et n’y revient pas avant 2065.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

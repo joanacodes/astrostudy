@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009, and Neptune’s stays in Taurus, 1700–2300" }
 ---
-Taurus asks how something can be made to last. A composite Neptune there would give a relationship a dream of permanence, and in practice no couple alive carries it: Neptune left Taurus in 1889 and returns only in 2038.
+Taurus asks how something can be made to last. A relationship whose composite Neptune fell there would dream of permanence, and in practice no couple alive has one: Neptune left Taurus in 1889 and returns only in 2038.
 
 ## What it says about the two of you {#what-it-says}
 

@@ -31,7 +31,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, et la maison 9 comme le Dieu" }
 ---
-Certains couples ne sont jamais aussi heureux qu’en chemin : un train qui passe une frontière, un amphithéâtre, une retraite dans les collines. Neptune composite en maison 9 fait de cette quête de sens le rêve propre de la relation.
+Un train qui passe une frontière, un amphithéâtre, une retraite dans les collines : les lieux où Neptune composite en maison 9 se sent chez soi sont tous en chemin vers ailleurs. Le rêve propre de la relation est une quête de sens.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

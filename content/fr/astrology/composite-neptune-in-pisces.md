@@ -31,7 +31,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009, et les séjours de Neptune en Poissons, 1700–2300" }
 ---
-Les Poissons sont le signe de Neptune, celui où les contours s’adoucissent et où tout semble relié. Neptune composite dans ce signe ferait de l’idéal d’une relation un rêve de ne faire qu’un ; aucun couple adulte ne peut encore avoir ce placement, car les paires qui le partageront sont nées entre 2011 et 2026.
+Les Poissons sont le signe de Neptune, celui où les contours s’adoucissent et où tout semble relié. Comme placement composite, Neptune en Poissons ferait de l’idéal d’une relation un rêve de ne faire qu’un ; aucun couple adulte ne peut encore avoir ce placement, car les paires qui le partageront sont nées entre 2011 et 2026.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

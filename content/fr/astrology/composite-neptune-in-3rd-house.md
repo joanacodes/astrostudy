@@ -31,7 +31,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, et la maison 3 comme la Déesse" }
 ---
-Certaines paires finissent les phrases l’une de l’autre ; d’autres n’ont même pas besoin de les commencer. Neptune composite en maison 3 met le rêve de la relation dans sa parole de tous les jours.
+Finir les phrases de l’autre, c’est une chose ; n’avoir même pas besoin de les commencer en est une autre. Neptune composite en maison 3 met le rêve de la relation dans sa parole de tous les jours.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
@@ -39,7 +39,7 @@ Deux personnes qui se parlent chaque jour finissent par avoir une langue à elle
 
 Dans l’ancien schéma des [joies des planètes](/astrology/planetary-joys/), la Lune se réjouissait ici, et la maison s’appelait la Déesse. Dans un composite, Neptune peut changer ses petites routines en quelque chose comme des rituels qui tiennent la paire ensemble : l’appel à la même heure, un carnet qui passe de main en main, une histoire racontée chaque fois de la même façon.
 
-La maison 3 tient aussi les voisins et les frères et sœurs de chaque côté, et avec Neptune ici, le rêve du lien tend à s’étendre jusqu’à eux : une sœur qui devient la confidente de la paire, une rue où les voisins passent sans prévenir, un cousin ou une cousine entraînés dans la passion commune. C’est une générosité qui va loin, tant que chaque famille garde son mot à dire.
+La maison 3 tient aussi les voisins et les frères et sœurs de chaque côté, et ici le rêve du lien tend à s’étendre jusqu’à eux : une sœur qui devient la confidente de la paire, une rue où les voisins passent sans prévenir, un cousin ou une cousine entraînés dans la passion commune. C’est une générosité qui va loin, tant que chaque famille garde son mot à dire.
 
 La difficulté, c’est le non-dit. Un lien qui comprend tant de choses sans mots peut cesser de vérifier qu’il a été compris : les projets faits d’un regard s’égarent, l’heure du train n’appartient à personne, et un malentendu grandit en silence parce que chacune des deux personnes croyait que l’autre savait. Neptune n’est pas la confusion, mais ici ce placement peut laisser glisser des détails qui vous semblaient évidents à deux. Dire à voix haute les choses pratiques, et noter les importantes, protège la poésie au lieu de la gâcher.
 

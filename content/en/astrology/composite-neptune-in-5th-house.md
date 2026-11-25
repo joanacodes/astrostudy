@@ -31,7 +31,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, and the 5th as Good Fortune" }
 ---
-Some couples never quite stop courting. A composite Neptune in the 5th house gives the relationship's pleasures a touch of enchantment: romance that feels like a film, play that steps outside time, art that seems to make itself.
+Courtship that never quite ends is the mark of a composite Neptune in the 5th house, which gives the relationship's pleasures a touch of enchantment: romance that feels like a film, play that steps outside time, art that seems to make itself.
 
 ## What it says about the two of you {#what-it-says}
 

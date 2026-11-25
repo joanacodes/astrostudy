@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009, et les séjours de Neptune en Taureau, 1700–2300" }
 ---
-Le Taureau demande comment faire durer les choses. Neptune composite dans ce signe donnerait à une relation un rêve de permanence, et en pratique aucun couple vivant ne porte ce rêve : Neptune a quitté le Taureau en 1889 et n’y revient qu’en 2038.
+Le Taureau demande comment faire durer les choses. Un composite qui y placerait Neptune donnerait à la relation un rêve de permanence, et en pratique aucun couple vivant ne porte ce rêve : Neptune a quitté le Taureau en 1889 et n’y revient qu’en 2038.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

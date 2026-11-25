@@ -32,7 +32,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, et la maison 5 comme la Fortune favorable" }
 ---
-Certains couples ne cessent jamais tout à fait de se faire la cour. Neptune composite en maison 5 donne aux plaisirs de la relation une touche d’enchantement : un amour qui ressemble à un film, un jeu qui fait sortir du temps, un art qui semble se faire tout seul.
+Une cour qui ne finit jamais tout à fait, c’est la marque de Neptune composite en maison 5, qui donne aux plaisirs de la relation une touche d’enchantement : un amour qui ressemble à un film, un jeu qui fait sortir du temps, un art qui semble se faire tout seul.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

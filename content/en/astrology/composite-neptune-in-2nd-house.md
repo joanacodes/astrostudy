@@ -1,7 +1,7 @@
 ---
 title: "Composite Neptune in the 2nd house"
 h1: "Composite Neptune in the 2nd house: the relationship’s chart"
-description: "Composite Neptune in the 2nd house: a couple that values meaning over price and shares without counting. What it says, where money blurs, what it can't predict."
+description: "Composite Neptune in the 2nd house: a couple that values meaning over price and shares without counting. What it says, where money blurs, what it can’t predict."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

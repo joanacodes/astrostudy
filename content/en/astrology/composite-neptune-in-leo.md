@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009, and Neptune’s stays in Leo, 1700–2300" }
 ---
-Leo is the sign of the heart that wants to be seen. A composite Neptune there would make the relationship's dream a love story told in public, and only the very oldest couples alive could have it: at least one partner would need to be born before July 1929.
+Leo's heart wants to be seen. In a composite chart, Neptune there would turn the relationship's dream into a love story told in public, and only the very oldest couples alive could have it: at least one partner would need to be born before July 1929.
 
 ## What it says about the two of you {#what-it-says}
 
