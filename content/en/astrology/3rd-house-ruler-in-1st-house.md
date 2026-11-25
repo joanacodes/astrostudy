@@ -29,7 +29,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the planet ruling the sign on a house’s cusp signifies its matters; the 3rd for siblings, neighbours and letters" }
 ---
-Some people are first met through their looks, others through their silence. With the ruler of the 3rd in the 1st house, you're usually met through your mind: the question you ask, the remark that lands, the way you take the measure of a room by talking to it.
+Some people are first met through their looks, others through their silence. When your 3rd house is ruled from the 1st, you're usually met through your mind: the question you ask, the remark that lands, the way you take the measure of a room by talking to it.
 
 ## What it means {#what-it-means}
 

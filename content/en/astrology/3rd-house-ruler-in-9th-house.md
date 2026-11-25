@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; short journeys in the 3rd, long journeys, universities and books in the 9th" }
 ---
-With the ruler of the 3rd in the 9th house, the next street leads to the next country. The planet that governs your everyday words and learning sits in the house of the far horizon, so small questions keep growing into large ones.
+The next street leads to the next country. Once the planet of everyday learning stands in the house of the far horizon, small questions keep growing into large ones.
 
 ## What it means {#what-it-means}
 

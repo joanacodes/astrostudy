@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et les affaires que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "les affaires d’une maison signifiées par le maître de sa cuspide ; une voiture en maison 2 ou en maison 3, selon la question" }
 ---
-Certains esprits collectionnent les idées ; celui-ci demande aussi ce qu’elles valent. Avec le maître de la maison 3 en maison 2, les affaires de tous les jours, parler, apprendre, se déplacer, sont liées à l’argent, aux biens et au sentiment de votre propre valeur.
+Certains esprits collectionnent les idées ; celui-ci demande aussi ce qu’elles valent. Parler, apprendre, se déplacer : tout cela se lie ici à l’argent, aux biens et au sentiment de votre propre valeur.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

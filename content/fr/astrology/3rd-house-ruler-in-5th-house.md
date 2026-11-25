@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; la maison 5 pour le plaisir, les jeux et les amours" }
 ---
-Certaines personnes parlent pour faire avancer les choses. Avec le maître de la maison 3 en maison 5, parler est aussi votre façon de jouer : la plaisanterie qui dure toute la soirée, l’histoire qui s’améliore chaque fois qu’on la raconte, la lettre écrite pour le plaisir des phrases.
+Certaines personnes parlent pour faire avancer les choses. Pour vous, parler est aussi une façon de jouer : la plaisanterie qui dure toute la soirée, l’histoire qui s’améliore chaque fois qu’on la raconte, la lettre écrite pour le plaisir des phrases.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
@@ -40,7 +40,7 @@ Vénus a sa joie en maison 5, la maison que la tradition appelait la Fortune fav
 
 Frères, sœurs, cousins et cousines peuvent faire partie de la fête : les plaisanteries qui marchent encore, les jeux de vos retrouvailles, des goûts partagés en livres ou en musique. C’est votre mémoire de ces liens et le plaisir que vous y prenez à l’âge adulte ; cela ne dit rien de qui ils sont.
 
-La tradition donnait les enfants à la maison 5, et certains livres lisent un maître de la maison 3 ici comme une nouvelle à leur sujet. Pas moi. Savoir si quelqu’un aura un enfant, et quand, n’est écrit dans aucun thème ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis pas [le thème des enfants](/astrology/childrens-charts/). Ce que je lis en maison 5, c’est votre propre jeu, votre propre créativité et votre façon d’aimer.
+La tradition donnait les enfants à la maison 5, et certains livres lisent un maître de la maison 3 ici comme une nouvelle à leur sujet. Pas moi. Les enfants sont une question pour la vie, pas pour un thème : je ne lis pas pour une grossesse ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je laisse de côté [le thème des enfants](/astrology/childrens-charts/). Ce que je lis en maison 5, c’est votre propre jeu, votre propre créativité et votre façon d’aimer.
 
 Sous une cuspide en Verseau, la maison 3 répond à Saturne et à Uranus, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)) : Saturne en maison 5 fait du jeu un métier, le calembour repris jusqu’à ce qu’il tombe juste, tandis qu’Uranus, depuis sa propre maison, apporte l’idée soudaine.
 

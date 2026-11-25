@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/1st-house", "/astrology/house-rulers", "/astrology/imum-coeli", "/astrology/charts-for-friends-colleagues-and-family"]
 faq:
   - q: "Que veut dire le maître de la maison 4 en maison 1 ?"
-    a: "La planète qui gouverne votre maison 4, celle du foyer et des racines, se trouve dans votre maison 1, celle du moi et du corps. Votre origine se voit dans votre allure, et vous portez un sentiment du foyer avec vous au lieu de le laisser à une adresse. J’y lis une appartenance qui vous suit partout."
+    a: "Le foyer et les racines, votre maison 4, sont gouvernés depuis la maison 1, celle du moi et du corps. Votre origine se voit dans votre allure, et vous portez un sentiment du foyer avec vous au lieu de le laisser à une adresse. J’y lis une appartenance qui vous suit partout."
   - q: "Le maître de la maison 4 en maison 1 veut-il dire que je ressemble à ma famille ?"
     a: "Certaines personnes qui l’ont s’entendent dire qu’elles sont le portrait de leur famille, dans le visage, les gestes ou les tournures ; d’autres sentent simplement que leur origine fait partie de leur façon de se présenter. Cela décrit votre expérience de cette ressemblance, jamais ce qu’est votre famille."
   - q: "Est-ce bien d’avoir le maître de la maison 4 en maison 1 ?"
@@ -28,11 +28,11 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons, de l’ascendant jusqu’au Fond du Ciel" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; la maison 4 pour les parents, les maisons et les terres" }
 ---
-Avec le maître de la maison 4 en maison 1, le foyer voyage avec vous. La planète qui gouverne vos racines se trouve dans la maison du moi : l’endroit d’où vous venez se voit souvent dans votre façon d’entrer dans une pièce.
+Le foyer voyage avec vous. L’endroit d’où vous venez se voit dans votre façon d’entrer dans une pièce : la planète de vos racines se tient dans la maison du moi.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
-La [maison 4](/astrology/4th-house/) commence au Fond du Ciel, tout en bas du thème, et contient le foyer, la famille, l’appartenance et le moi intime. La planète qui gouverne le signe de cette cuspide ([maîtres des maisons](/astrology/house-rulers/)) se tient juste sous l’horizon est, en [maison 1](/astrology/1st-house/) : votre corps, votre allure, votre façon de commencer les choses.
+La [maison 4](/astrology/4th-house/) est le sol sous le thème, le foyer, la famille, l’appartenance et le moi intime, et elle commence au Fond du Ciel. La planète qui gouverne le signe de cette cuspide ([maîtres des maisons](/astrology/house-rulers/)) se tient juste sous l’horizon est, en [maison 1](/astrology/1st-house/) : votre corps, votre allure, votre façon de commencer les choses.
 
 J’y lis des racines que vous portez au grand jour. Votre accent, vos habitudes, votre façon de mettre la table ou de saluer quelqu’un que vous ne connaissez pas peuvent dire votre origine plus clairement que chez la plupart des gens, et l’on devine souvent d’où vous venez avant que vous le disiez. Le foyer est moins une adresse que quelque chose que vous emportez : vous vous installez vite dans un nouveau lieu, parce que vous apportez l’essentiel. Le revers, c’est que les habitudes de famille peuvent passer pour votre propre caractère, et une part de la vie adulte consiste à faire la part des choses entre les deux.
 

@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; les petits trajets en maison 3, les longs voyages, les universités et les livres en maison 9" }
 ---
-Avec le maître de la maison 3 en maison 9, la rue d’à côté mène au pays d’à côté. La planète qui gouverne vos mots et votre apprentissage de tous les jours se trouve dans la maison de l’horizon lointain : les petites questions ne cessent de grandir.
+La rue d’à côté mène au pays d’à côté. Dès que la planète de l’apprentissage quotidien se tient dans la maison de l’horizon lointain, les petites questions ne cessent de grandir.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

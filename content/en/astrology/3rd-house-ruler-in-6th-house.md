@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses, the 6th among them, and what tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 6th for work, employees and small animals" }
 ---
-With the ruler of the 3rd in the 6th house, the everyday mind clocks in. The planet that governs your words and learning sits in the house of daily work and routine, so thinking tends to come with a task attached.
+The everyday mind clocks in every morning. Ruled from the house of daily work and routine, your words and learning tend to come with a task attached.
 
 ## What it means {#what-it-means}
 

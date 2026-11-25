@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; la maison 10 pour la carrière et les personnes d’autorité" }
 ---
-Avec le maître de la maison 3 en maison 10, votre façon de parler devient une part de ce pour quoi on vous connaît. La planète qui gouverne vos mots de tous les jours se trouve dans la maison de la vie publique : ce que vous dites, écrivez ou enseignez construit souvent votre réputation.
+Votre façon de parler devient une part de ce pour quoi on vous connaît. Les mots sont gouvernés ici depuis la maison de la vie publique, et ce que vous dites, écrivez ou enseignez construit souvent votre réputation.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
@@ -44,4 +44,4 @@ Les personnes de la maison 3 peuvent vous suivre dans la vie publique : un frè
 
 Les Poissons sur la cuspide de la maison 3 lui donnent à la fois Jupiter et Neptune, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)) : Jupiter en maison 10 peut faire de l’enseignement, de l’édition ou du conseil une vocation publique, tandis que Neptune prête son imagination à votre voix depuis une autre maison.
 
-Ses voisines racontent autre chose avec le même maître : en maison 9, les études et les convictions ([Maître de la maison 3 en maison 9](/astrology/3rd-house-ruler-in-9th-house/)) ; en maison 11, les amis et les réseaux ([Maître de la maison 3 en maison 11](/astrology/3rd-house-ruler-in-11th-house/)). Laquelle est la vôtre dépend du degré du Milieu du Ciel, qui tourne avec l’horloge ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Ses voisines racontent autre chose avec le même maître : en maison 9, les études et les convictions ([Maître de la maison 3 en maison 9](/astrology/3rd-house-ruler-in-9th-house/)) ; en maison 11, les amis et les réseaux ([Maître de la maison 3 en maison 11](/astrology/3rd-house-ruler-in-11th-house/)). Laquelle est la vôtre dépend du degré exact du Milieu du Ciel, qu’une heure de naissance arrondie ne peut pas donner ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).

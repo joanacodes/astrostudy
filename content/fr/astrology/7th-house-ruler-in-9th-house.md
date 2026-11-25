@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire le maître de la maison 7 en maison 9 ?"
     a: "Il relie le couple à la maison des voyages, des études et des convictions. Les personnes d’un autre pays, d’une autre culture ou d’une autre façon de penser vous attirent souvent, ou vous rencontrez vos partenaires en apprenant et en voyageant. Le lien fonctionne comme une longue conversation sur le sens, et change ce que vous croyez."
   - q: "Est-ce que le maître de la maison 7 en maison 9 annonce un mariage avec une personne étrangère ?"
-    a: "Il peut décrire une attirance pour les gens venus d’ailleurs, mais il ne dit ni d’où viendra la personne aimée ni si vous vous marierez. Beaucoup de personnes qui ont ce placement choisissent simplement des partenaires dont le regard est loin de celui de leur enfance."
+    a: "Il peut décrire une attirance pour les gens venus d’ailleurs, mais il ne dit ni d’où viendra la personne aimée ni si vous vous marierez. Souvent, cela veut simplement dire choisir des partenaires dont le regard est loin de celui de votre enfance."
   - q: "Est-ce que le maître de la maison 7 en maison 9 convient aux relations à distance ?"
     a: "La distance effraie ce placement moins que d’autres, et certains liens y prospèrent même. La réussite d’une relation précise dépend des deux personnes qui la vivent. Ce que montre ce placement, c’est le besoin de quelqu’un qui agrandit votre monde au lieu de le rétrécir."
 sources:

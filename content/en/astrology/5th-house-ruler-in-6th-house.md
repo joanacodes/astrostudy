@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 5th in the 6th house"
 h1: "Ruler of the 5th in the 6th house in a birth chart"
-description: "Ruler of the 5th in the 6th house: Good Fortune working for Bad Fortune. Pleasure that becomes daily practice, a craft you love, and Mars in its joy."
+description: "Ruler of the 5th in the 6th house: Good Fortune working for Bad Fortune. Pleasure that becomes daily practice, and a craft you love more each year."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/5th-house", "/astrology/6th-house", "/astrology/house-rulers", "/astrology/duplicated-signs", "/astrology/mars-in-6th-house"]
 faq:
   - q: "What does the ruler of the 5th in the 6th house mean for creativity?"
-    a: "That it grows through practice. The planet of your pleasures works in the house of daily routine, so creativity tends to become a craft you return to every day: drawing, playing, cooking, building. You may enjoy the method as much as the result, and the repetition as much as the reward."
+    a: "That it grows through practice. With your 5th's ruler in the house of daily routine, creativity tends to become a craft you return to every day: drawing, playing, cooking, building. You may enjoy the method as much as the result, and the repetition as much as the reward."
   - q: "Can the 5th house ruler in the 6th house turn a hobby into a job?"
     a: "It often links the two. What you love doing and what you do daily sit close together, so a hobby can become work, or work can carry the pleasure of a hobby. It doesn’t promise that a pastime will pay; it shows how easily joy and routine mix in your life."
   - q: "What if Mars rules my 5th house and sits in the 6th?"
@@ -36,7 +36,7 @@ The planet ruling the sign on your [5th house](/astrology/5th-house/) cusp speak
 
 Love can come through work too, someone met over a shared project or across the office, and affection often shows as service: the tea made without asking, the bike mended, the form filled in for them. The risk runs the other way. A pleasure can feel allowed only once it's useful, and a hobby can harden into one more obligation on the list. Rest, for you, may need to go in the diary like everything else, and that's fine as long as it stays there.
 
-With Aries or Scorpio on the 5th cusp, Mars rules the house, and [Mars in the 6th house](/astrology/mars-in-6th-house/) is in its joy ([planetary joys](/astrology/planetary-joys/)): the planet of exertion takes pleasure in the house of labour. Your pleasures lean towards training and competition, the run you time, the craft that needs strength. With Venus as the ruler, on a Taurus or Libra cusp, the workplace itself turns pleasant and ordinary tasks gain some beauty.
+Mars, ruler of an Aries 5th, has its joy in the 6th ([planetary joys](/astrology/planetary-joys/)): [Mars in the 6th house](/astrology/mars-in-6th-house/) is the planet of exertion taking pleasure in the house of labour. Your pleasures lean towards training and competition, the run you time, the craft that needs strength. With Venus as the ruler, on a Taurus or Libra cusp, the workplace itself turns pleasant and ordinary tasks gain some beauty.
 
 Joy works out of its own sight here. The 6th follows straight on from the 5th, and next-door houses have no aspect between them ([aversion](/astrology/aversion/)), so you may not even call what you do fun, though it's plainly what keeps you going. Placidus adds a twist. Its houses vary in size, and the 5th and 6th cusps sometimes fall in the same sign ([duplicated signs](/astrology/duplicated-signs/)); in that case a single planet governs the pair, and from the 6th it rules the second from inside.
 

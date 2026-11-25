@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and the matters tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "a house’s matters signified by the ruler of its cusp; a car in the 2nd or the 3rd, depending on the question" }
 ---
-Some minds collect ideas; this one also asks what they're worth. With the ruler of the 3rd in the 2nd house, the everyday business of talking, learning and getting about is tied to money, belongings and your sense of your own value.
+Some minds collect ideas; this one also asks what they're worth. Talking, learning and getting about are tied here to money, belongings and your sense of your own value.
 
 ## What it means {#what-it-means}
 

@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and the names tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the 2nd as finances; the 5th as games, pleasure, gambling and speculation" }
 ---
-Pleasure and money keep meeting here. With the ruler of the 2nd in the 5th house, what you earn and what you value are tied to play, creativity, romance and the things you make for the joy of it.
+Pleasure and money keep meeting here: a ruler of the 2nd in the 5th ties what you earn and what you value to play, creativity, romance and the things you make for the joy of it.
 
 ## What it means {#what-it-means}
 
@@ -39,8 +39,8 @@ With Taurus or Libra on the 2nd cusp, Venus rules your money from its joy, the 5
 
 The 5th was also the old house of children. Whether children come into your life is not something a chart can say ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I read this placement in an adult's life, for your own pleasures and creations.
 
-By the time you were born, the planet ruling your money had set in the west hours earlier and was still sinking, which is the 5th in Placidus, the house system I use. Its cusps depend on the minute of birth ([what changes without a birth time](/blog/unknown-birth-time/)): further down, in the 4th, your money would turn towards home and family ([Ruler of the 2nd in the 4th house](/astrology/2nd-house-ruler-in-4th-house/)); a little higher, towards the Descendant, in the 6th, it would come from the daily round of work ([Ruler of the 2nd in the 6th house](/astrology/2nd-house-ruler-in-6th-house/)).
+Sunk a few hours past its setting, the ruler of your money was below the western horizon and still going down when you were born; Placidus, the house system I use, files that part of the sky under the 5th. Its cusps depend on the minute of birth ([what changes without a birth time](/blog/unknown-birth-time/)): further down, in the 4th, your money would turn towards home and family ([Ruler of the 2nd in the 4th house](/astrology/2nd-house-ruler-in-4th-house/)); a little higher, towards the Descendant, in the 6th, it would come from the daily round of work ([Ruler of the 2nd in the 6th house](/astrology/2nd-house-ruler-in-6th-house/)).
 
-With Pisces on the 2nd cusp, Jupiter and Neptune rule your money together, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Jupiter in the 5th spends generously on joy and on other people, while Neptune, from its own house, can make art, music or a cause the thing you value most.
+Pisces on the cusp splits the rule between Jupiter and Neptune, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Jupiter in the 5th spends generously on joy and on other people, while Neptune, from its own spot in the chart, can make art, music or a cause the thing you value most.
 
 What this placement describes is a way of valuing: money, for you, is worth having for what it lets you enjoy and make.

@@ -28,7 +28,7 @@ sources:
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the 2nd as finances; the 6th as employees, contractors and the place of work" }
   - { title: "Wikipedia — House (astrology)", url: "https://en.wikipedia.org/wiki/House_(astrology)", note: "the houses grouped by element: the 2nd, 6th and 10th as the earth houses" }
 ---
-A wage, a craft, a well-run week: with the ruler of the 2nd in the 6th house, your money and your sense of worth come out of daily work and the skills you put to use.
+A wage, a craft, a well-run week: when the ruler of the 2nd sits in the 6th house, money and self-worth grow out of daily work and the skills you put to use.
 
 ## What it means {#what-it-means}
 
@@ -38,9 +38,9 @@ Money, for you, tends to be earned the steady way: hours worked, jobs done, a sk
 
 Counted by sign, the 6th lies a trine from the 2nd, and astrologers who group the houses by element put the 2nd, 6th and 10th together as the earth houses: what you have, the work you do day to day, and your public role. Horary astrology gave the 6th employees, contractors and the place where you work. Mars, ruling your money whenever Aries or Scorpio sits on the 2nd cusp, has its joy in the 6th ([planetary joys](/astrology/planetary-joys/)), and earns by getting stuck in.
 
-Illness, too, was filed under the 6th in the old books. Nothing here forecasts your health or what it might cost you; a chart can't diagnose, and your health is a matter for a doctor ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). What I read is the way you look after the body that does the work.
+Illness, too, was filed under the 6th in the old books. No forecast of your health, or of what it might cost you, can come from this placement; a chart can't diagnose, and your health is a matter for a doctor ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). I read only the way you look after the body that does the work.
 
-Scorpio on the 2nd cusp gives your money two rulers, Mars and Pluto, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Mars in the 6th works hard for its money, while Pluto, from its own house, wants the work to mean something and not only to pay.
+Scorpio on the 2nd cusp gives your money two rulers, Mars and Pluto, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Mars in the 6th works hard for its money, and Pluto, wherever your chart puts it, wants the work to mean something and not only to pay.
 
 The planet that rules your money had only just set when you were born, which puts it in the 6th in Placidus, the house system I use. A few minutes either way can move it ([what changes without a birth time](/blog/unknown-birth-time/)): with an earlier time it would still be above the horizon, in the 7th, with money passing through the people you deal with one to one ([Ruler of the 2nd in the 7th house](/astrology/2nd-house-ruler-in-7th-house/)); further from the Descendant, in the 5th, it would follow your pleasures and what you create ([Ruler of the 2nd in the 5th house](/astrology/2nd-house-ruler-in-5th-house/)).
 

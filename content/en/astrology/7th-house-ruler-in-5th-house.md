@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/7th-house", "/astrology/5th-house", "/astrology/house-rulers", "/astrology/planetary-joys", "/astrology/can-astrology-predict-pregnancy"]
 faq:
   - q: "What does the 7th house ruler in the 5th house mean?"
-    a: "The ruler of your partnerships stands in the house of romance, play and creativity. You tend to want a partner who is also a lover and a playmate, and you often meet people through what you love doing. Creative partnerships suit you: two people making something neither would make alone."
+    a: "Here commitment answers to the house of romance, play and creativity. You tend to want a partner who is also a lover and a playmate, and you often meet people through what you love doing. Creative partnerships suit you: two people making something neither would make alone."
   - q: "Does the 7th house ruler in the 5th mean having children with a partner?"
     a: "No. Tradition gave the 5th children, but a chart can’t say whether a couple will have them, or when. I read the 5th in an adult’s life, as what you create and enjoy, and this placement as romance and play carried into your committed bonds."
   - q: "Is the 7th house ruler in the 5th good for love?"

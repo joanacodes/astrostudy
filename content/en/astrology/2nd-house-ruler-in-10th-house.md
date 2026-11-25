@@ -28,7 +28,7 @@ sources:
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the 2nd as finances; the 10th as career and persons of authority" }
   - { title: "Wikipedia — House (astrology)", url: "https://en.wikipedia.org/wiki/House_(astrology)", note: "the 2nd, 6th and 10th grouped as the earth houses" }
 ---
-Your living and your standing tend to be the same story. With the ruler of the 2nd in the 10th house, the planet of your money and self-worth sits near the top of the chart, in the house of career and reputation.
+Your living and your standing tend to be the same story, since the planet of your money and self-worth stands near the top of the chart, in the 10th house of career and reputation.
 
 ## What it means {#what-it-means}
 
@@ -36,10 +36,12 @@ In the [10th house](/astrology/10th-house/), the ruler of your [2nd house](/astr
 
 Career is usually the main source. You tend to earn through your work in the world, its titles, responsibilities and long climbs, and your sense of worth grows with what you build in public. Being able to provide can be part of how you see your role. You may weigh every career choice in two currencies, pay and standing, and they don't always agree. Worth and status need keeping apart: a good name is a resource, but your value doesn't fall with a job title or rise with a promotion.
 
-The 10th completes the trio of earth houses the 2nd belongs to, the 2nd, 6th and 10th, a trine apart by sign: what you have, the work of your days, and the work you're known for. Horary astrology gave the 10th career and the people in authority, employers and institutions among them. With Capricorn on the 2nd cusp, Saturn rules your money from Capricorn's own house in the natural zodiac, building security the slow way, through a career built over decades; it's also one of the three placements my notebook found holding 75 to 90% of the time ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)).
+The 10th completes the trio of earth houses the 2nd belongs to, the 2nd, 6th and 10th, a trine apart by sign: what you have, the work of your days, and the work you're known for. Horary astrology gave the 10th career and the people in authority, employers and institutions among them. A Capricorn 2nd puts Saturn here, in Capricorn's own house in the natural zodiac, building security the slow way, through a career built over decades; it's also one of the three placements my notebook found holding 75 to 90% of the time ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)).
 
 At your birth the planet of your money was still climbing towards the [Midheaven](/astrology/midheaven/), the point where Placidus, the house system I use, opens the 10th. The Midheaven moves about a degree every four minutes, so the birth time decides which side of it your ruler is on ([what changes without a birth time](/blog/unknown-birth-time/)): with a later time, past the Midheaven in the 9th, your money would lean towards teaching, travel and belief ([Ruler of the 2nd in the 9th house](/astrology/2nd-house-ruler-in-9th-house/)); further from it, in the 11th, towards friends, networks and groups ([Ruler of the 2nd in the 11th house](/astrology/2nd-house-ruler-in-11th-house/)).
 
-If it's Scorpio on the 2nd cusp, Mars and Pluto both have a say, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Mars in the 10th earns by taking charge and competing in the open, while Pluto, from its own house, wants your work to give you real control over your resources.
+If it's Scorpio on the 2nd cusp, Mars and Pluto both have a say, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Mars in the 10th earns by taking charge and competing in the open, while Pluto, whichever house it's in, wants your work to give you real control over your resources. Jupiter, ruling a Sagittarius 2nd from the 10th, tends to be paid for its judgement or its teaching.
+
+Opposite, at the foot of the chart, is the 4th: home and roots. With the ruler of your money at the top of the chart, what you earn in public often pays for the private life underneath it, and the two can compete for your hours: a career that funds a home you rarely see is worth noticing in time.
 
 Promotion, salary and success stay outside the chart, and so does any advice on investing what you earn ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). What the placement says is that, for you, what you're worth and what you do in the world are closely tied, and that both deserve care.

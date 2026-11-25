@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 5th in the 7th house"
 h1: "Ruler of the 5th in the 7th house in a birth chart"
-description: "Ruler of the 5th in the 7th house: romance that looks for a partner, fun best shared with one person, creative duos, and why it never forecasts a marriage."
+description: "Ruler of the 5th in the 7th house: romance that looks for a partner, fun best shared with one person, creative duos, and no wedding foretold."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"

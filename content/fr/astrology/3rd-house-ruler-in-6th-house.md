@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons, dont la maison 6, et ce que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; la maison 6 pour le travail, les employés et les petits animaux" }
 ---
-Avec le maître de la maison 3 en maison 6, l’esprit de tous les jours pointe au travail. La planète qui gouverne vos mots et votre apprentissage se trouve dans la maison du travail quotidien et des routines : votre pensée arrive le plus souvent avec une tâche.
+L’esprit de tous les jours pointe au travail chaque matin. Gouvernés depuis la maison du travail quotidien et des routines, vos mots et vos apprentissages arrivent le plus souvent avec une tâche.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

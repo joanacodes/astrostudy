@@ -29,7 +29,7 @@ sources:
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "la maison 2, les finances ; la maison 6, les employés, les prestataires et le lieu de travail" }
   - { title: "Wikipedia — House (astrology)", url: "https://en.wikipedia.org/wiki/House_(astrology)", note: "les maisons groupées par élément : les maisons 2, 6 et 10, maisons de terre" }
 ---
-Un salaire, un savoir-faire, une semaine bien menée : avec le maître de la maison 2 en maison 6, votre argent et votre sentiment de valeur sortent du travail quotidien et des compétences que vous mettez en pratique.
+Un salaire, un savoir-faire, une semaine bien menée : quand le maître de la maison 2 se trouve en maison 6, l’argent et l’estime de soi naissent du travail quotidien et des compétences que vous mettez en pratique.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
@@ -39,9 +39,9 @@ L’argent, pour vous, se gagne volontiers de façon régulière : des heures t
 
 En comptant par signe, la maison 6 est à un trigone de la maison 2, et les astrologues qui groupent les maisons par élément réunissent les maisons 2, 6 et 10 en maisons de terre : ce que vous avez, le travail de tous les jours et votre rôle public. L’astrologie horaire donnait à la maison 6 les employés, les prestataires et le lieu de travail. Mars, qui gouverne votre argent dès que le Bélier ou le Scorpion occupe la cuspide de la maison 2, a sa joie en maison 6 ([joies des planètes](/astrology/planetary-joys/)), et gagne en retroussant ses manches.
 
-Les anciens livres rangeaient aussi la maladie sous la maison 6. Rien ici ne prédit votre santé ni ce qu’elle pourrait vous coûter ; un thème ne peut rien diagnostiquer, et votre santé est l’affaire d’un médecin ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Ce que je lis, c’est votre façon de prendre soin du corps qui fait le travail.
+La maladie, elle aussi, était rangée sous la maison 6 dans les anciens livres. Aucune prévision sur votre santé, ni sur ce qu’elle pourrait vous coûter, ne peut sortir de ce placement ; un thème ne peut rien diagnostiquer, et votre santé est l’affaire d’un médecin ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Je ne lis que votre façon de prendre soin du corps qui fait le travail.
 
-Le Scorpion sur la cuspide de la maison 2 donne à votre argent deux maîtres, Mars et Pluton, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)) : Mars en maison 6 travaille dur pour son argent, tandis que Pluton, depuis sa propre maison, veut que le travail ait un sens, et pas seulement qu’il paie.
+Le Scorpion sur la cuspide de la maison 2 donne à votre argent deux maîtres, Mars et Pluton, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)) : Mars en maison 6 travaille dur pour son argent, et Pluton, là où votre thème le place, veut que le travail ait un sens, et pas seulement qu’il paie.
 
 Le maître de votre argent venait tout juste de se coucher à votre naissance, ce qui le place en maison 6 en Placidus, le système de maisons que j’utilise. Quelques minutes peuvent le déplacer ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)) : avec une heure plus précoce, il serait encore au-dessus de l’horizon, en maison 7, et l’argent passerait par les personnes avec qui vous traitez en tête-à-tête ([Maître de la maison 2 en maison 7](/astrology/2nd-house-ruler-in-7th-house/)) ; plus loin du descendant, en maison 5, il suivrait vos plaisirs et ce que vous créez ([Maître de la maison 2 en maison 5](/astrology/2nd-house-ruler-in-5th-house/)).
 

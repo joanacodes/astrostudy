@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses, from the Ascendant down to the IC and round" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 3rd for siblings and neighbours, the 4th for houses and land" }
 ---
-With the ruler of the 3rd in the 4th house, conversations find their way home. The planet that governs your everyday words and learning sits in the house of roots, so the way you think carries an accent from where you come from.
+Conversations find their way home. The planet of your everyday words lives in the house of roots, and the way you think carries an accent from where you come from.
 
 ## What it means {#what-it-means}
 

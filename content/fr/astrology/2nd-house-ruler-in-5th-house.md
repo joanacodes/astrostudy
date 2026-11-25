@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et les noms que leur donnait la tradition" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "la maison 2, les finances ; la maison 5, les jeux, le plaisir, les paris et la spéculation" }
 ---
-Le plaisir et l’argent ne cessent de se croiser ici. Avec le maître de la maison 2 en maison 5, ce que vous gagnez et ce qui compte pour vous se lient au jeu, à la création, à l’amour et à ce que vous fabriquez pour la joie de le faire.
+Le plaisir et l’argent ne cessent de se croiser ici : un maître de la maison 2 en maison 5 lie ce que vous gagnez et ce qui compte pour vous au jeu, à la création, à l’amour et à ce que vous fabriquez pour la joie de le faire.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
@@ -40,8 +40,8 @@ Avec le Taureau ou la Balance sur la cuspide de la maison 2, Vénus gouverne vot
 
 La maison 5 était aussi l’ancienne maison des enfants. Qu’il y ait ou non des enfants dans votre vie, aucun thème ne peut le dire ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je lis ce placement dans une vie d’adulte, pour vos propres plaisirs et vos propres créations.
 
-À votre naissance, le maître de votre argent s’était couché à l’ouest depuis quelques heures et continuait de descendre : c’est la maison 5 en Placidus, le système de maisons que j’utilise. Ses cuspides dépendent de la minute de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)) : plus bas, en maison 4, votre argent se tournerait vers le foyer et la famille ([Maître de la maison 2 en maison 4](/astrology/2nd-house-ruler-in-4th-house/)) ; un peu plus haut, vers le descendant, en maison 6, il viendrait du travail de tous les jours ([Maître de la maison 2 en maison 6](/astrology/2nd-house-ruler-in-6th-house/)).
+Couché depuis quelques heures, le maître de votre argent était sous l’horizon ouest et descendait encore à votre naissance ; Placidus, le système de maisons que j’utilise, range cette portion du ciel dans la maison 5. Ses cuspides dépendent de la minute de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)) : plus bas, en maison 4, votre argent se tournerait vers le foyer et la famille ([Maître de la maison 2 en maison 4](/astrology/2nd-house-ruler-in-4th-house/)) ; un peu plus haut, vers le descendant, en maison 6, il viendrait du travail de tous les jours ([Maître de la maison 2 en maison 6](/astrology/2nd-house-ruler-in-6th-house/)).
 
-Avec les Poissons sur la cuspide de la maison 2, Jupiter et Neptune gouvernent ensemble votre argent, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)) : Jupiter en maison 5 dépense généreusement pour la joie et pour les autres, tandis que Neptune, depuis sa propre maison, peut faire de l’art, de la musique ou d’une cause ce qui compte le plus pour vous.
+Les Poissons sur la cuspide partagent la maîtrise entre Jupiter et Neptune, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)) : Jupiter en maison 5 dépense généreusement pour la joie et pour les autres, tandis que Neptune, depuis sa place dans le thème, peut faire de l’art, de la musique ou d’une cause ce qui compte le plus pour vous.
 
 Ce placement décrit une façon d’estimer les choses : l’argent, pour vous, vaut pour ce qu’il permet de savourer et de créer.

@@ -30,7 +30,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "la planète qui gouverne le signe d’une cuspide signifie les affaires de la maison ; la maison 3 pour la fratrie, les voisins et les lettres" }
 ---
-On rencontre certaines personnes par leur allure, d’autres par leur silence. Avec le maître de la maison 3 en maison 1, on vous rencontre d’abord par votre esprit : la question que vous posez, la remarque qui fait mouche, votre façon de prendre la mesure d’une pièce en lui parlant.
+On rencontre certaines personnes par leur allure, d’autres par leur silence. Quand votre maison 3 est gouvernée depuis la maison 1, on vous rencontre d’abord par votre esprit : la question que vous posez, la remarque qui fait mouche, votre façon de prendre la mesure d’une pièce en lui parlant.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

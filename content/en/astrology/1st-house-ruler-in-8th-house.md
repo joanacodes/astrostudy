@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the 8th as other people’s money by turning the chart; a planet in the 6th, 8th or 12th accidentally debilitated" }
 ---
-The 8th house is where a chart goes deep, and yours has sent its ruler there: the planet of your rising sign sits among intimacy, trust and what you share with other people or owe them. The self you lead with keeps being drawn into the bonds that change you, and into what it costs to let someone close.
+The 8th house is where a chart goes deep, and yours has sent its ruler there, among intimacy, trust and what you share with other people or owe them. The self you lead with keeps being drawn into the bonds that change you, and into what it costs to let someone close.
 
 ## What it means {#what-it-means}
 

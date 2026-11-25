@@ -28,7 +28,7 @@ sources:
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 12th for secrets and things not yet known" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Saturn among the three placements that held 75 to 90% of the time" }
 ---
-With the ruler of the 3rd in the 12th house, the most important conversations are often the ones in your own head. The planet that rules your everyday words sits in the house of solitude and quiet work, so thinking tends to happen out of sight before it reaches anyone else.
+Often the most important conversations are the ones in your own head. Thinking happens out of sight, in the house of solitude and quiet work, before it reaches anyone else.
 
 ## What it means {#what-it-means}
 
@@ -36,7 +36,7 @@ With the ruler of the 3rd in the 12th house, the most important conversations ar
 
 So the everyday mind turns inward. You may think best alone, late at night or on a long walk, and keep a notebook nobody reads. Words can come more easily on paper than aloud, and what you leave unsaid can matter as much as what you say. Many people with it are good listeners and good keepers of confidences, and some find their voice in work done behind the scenes: research, editing, translation, writing under someone else's name. The difficulty is the gap between what you think and what you get round to saying, so that others may not guess how much is going on.
 
-Tradition called the 12th the Bad Spirit and gave Saturn its joy there ([planetary joys](/astrology/planetary-joys/)). With Capricorn or Aquarius on your 3rd house cusp, Saturn rules the 3rd and is at ease in the 12th: a disciplined private mind, content with solitude and long study. Saturn is also one of the three placements that held 75 to 90% of the time in my notebook ([the three that held](/blog/saturn-chiron-lilith/)), so it's the ruler I'd read most slowly here. Mercury, ruling Gemini or Virgo from the 12th, gives a quick inner voice that can run well ahead of the spoken one.
+The 12th, which the old books called the Bad Spirit, was Saturn's joy ([planetary joys](/astrology/planetary-joys/)). With Capricorn or Aquarius on your 3rd house cusp, Saturn rules the 3rd and is at ease in the 12th: a disciplined private mind, content with solitude and long study. Saturn is also one of the three placements that held 75 to 90% of the time in my notebook ([the three that held](/blog/saturn-chiron-lilith/)), so it's the ruler I'd read most slowly here. Mercury, ruling Gemini or Virgo from the 12th, gives a quick inner voice that can run well ahead of the spoken one.
 
 Tradition was hard on this house, giving it confinement and hidden enemies, and some books read a 3rd-house ruler there as secrets, or a sibling kept at a distance. I read it more gently. What can't be said aloud still gets thought, and a 12th-house ruler asks for the right setting: a page, a trusted person, a quiet hour. And a chart can't diagnose a worried mind; [astrology and mental health](/astrology/astrology-and-mental-health/) is where I say what it can and can't do.
 

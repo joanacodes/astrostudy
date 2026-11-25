@@ -20,7 +20,7 @@ faq:
   - q: "What does the 7th house ruler in the 9th house mean?"
     a: "It joins partnership to the house of travel, study and belief. You’re often drawn to people from another country, culture or way of thinking, or meet partners through learning and travel. The bond tends to work as a long conversation about meaning, and to change what you believe."
   - q: "Does the 7th house ruler in the 9th mean marrying a foreigner?"
-    a: "It can describe an attraction to people from elsewhere, but it doesn’t predict where a partner will come from or whether you’ll marry. Many people with this placement simply choose partners whose outlook is far from the one they grew up with."
+    a: "It can describe an attraction to people from elsewhere, but it doesn’t predict where a partner will come from or whether you’ll marry. Often it simply means choosing partners whose outlook is far from the one you grew up with."
   - q: "Is the 7th house ruler in the 9th good for long-distance relationships?"
     a: "Distance tends to frighten this placement less than most, and some bonds here even thrive across it. Whether a particular relationship works depends on the two people in it. What the placement shows is a need for a partner who widens your world rather than shrinks it."
 sources:

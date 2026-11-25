@@ -22,12 +22,12 @@ faq:
   - q: "Will I meet my partner through siblings or neighbours with the 3rd house ruler in the 7th?"
     a: "No chart can say whom you’ll meet or how. The placement links the people close by with the house of partners, and for some a partner does come through that circle, but I read it as a quality, not a forecast: a partner tends to be someone you can talk with as an equal."
   - q: "Is the ruler of the 3rd in the 7th good for communication in relationships?"
-    a: "It makes communication central to them, which helps when it’s honest and costs more when it breaks down. You may need a partner who answers back, likes ideas and keeps you talking; silence can feel like distance. The planet and its sign show your style."
+    a: "It makes communication central to them, which helps when it’s honest and costs more when it breaks down. You may need a partner who answers back, likes ideas and keeps you talking; silence can feel like distance. Its planet and sign describe how you talk things through."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; contracts and paperwork in the 3rd, partners of every kind in the 7th" }
 ---
-With the ruler of the 3rd in the 7th house, your thinking needs a second voice. The planet that governs your everyday words sits in the house of partners, so ideas tend to take shape between you and the person across the table.
+Your thinking needs a second voice. Ideas take shape between you and the person across the table, the planet of your everyday words having its seat in the house of partners.
 
 ## What it means {#what-it-means}
 

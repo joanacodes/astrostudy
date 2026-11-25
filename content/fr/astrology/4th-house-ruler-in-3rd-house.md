@@ -19,22 +19,24 @@ facts:
 related: ["/astrology/4th-house", "/astrology/3rd-house", "/astrology/house-rulers", "/astrology/aversion", "/astrology/planetary-joys"]
 faq:
   - q: "Que veut dire le maître de la maison 4 en maison 3 ?"
-    a: "Cela veut dire que le foyer est gouverné depuis la maison de la parole, de l’apprentissage, de la fratrie et des voisins. L’appartenance s’entretient par la conversation et par le quartier : les appels, les visites, les rues familières. J’y lis des racines qui ont besoin d’être dites."
+    a: "Cela veut dire que le foyer est gouverné depuis la maison de la parole, de l’apprentissage, de la fratrie et des voisins. L’appartenance s’entretient par la conversation et par le quartier : les appels, les visites, les rues familières. L’appartenance, pour vous, a besoin d’être dite à voix haute."
   - q: "Le maître de la maison 4 en maison 3 veut-il dire déménager souvent ?"
     a: "Pas comme une prédiction. La maison 3 est celle des petits trajets et des allées et venues : avec le maître du foyer ici, certaines personnes déménagent dans un même secteur, gardent plusieurs points d’attache ou se sentent chez elles en mouvement. Où vous vivrez, aucun thème ne peut le dire."
   - q: "Que dit le maître de la maison 4 en maison 3 sur les frères et sœurs ?"
-    a: "Il relie la maison du foyer à celle des frères et sœurs : la fratrie, les cousins ou les voisins font souvent partie de ce que « chez soi » veut dire pour vous à l’âge adulte. Cela décrit la place de ces liens dans votre vie, pas ce que ressentent les autres ni ce qu’ils feront."
+    a: "Il relie la maison du foyer à celle des frères et sœurs : la fratrie, les cousins ou les voisins font souvent partie de ce que « chez soi » veut dire pour vous à l’âge adulte. Le placement parle de leur place dans votre vie ; ce que les autres ressentent ou feront lui échappe."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; la fratrie et les voisins en maison 3, les parents et les maisons en maison 4" }
 ---
-Avec le maître de la maison 4 en maison 3, le foyer n’est pas seulement derrière la porte : il est au téléphone, dans la discussion de famille, à l’épicerie du coin. La planète qui gouverne vos racines se trouve dans la maison des mots de tous les jours et du quartier.
+Le foyer n’est pas seulement derrière la porte. Il est au téléphone, dans la discussion de famille, à l’épicerie du coin : dans la maison des mots de tous les jours et du quartier, où se tient son maître.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
 La [maison 4](/astrology/4th-house/) contient le foyer, les racines et la famille. Son maître, la planète du signe du Fond du Ciel ([maîtres des maisons](/astrology/house-rulers/)), se tient dans la maison juste avant, la [maison 3](/astrology/3rd-house/) : les mots de tous les jours, l’apprentissage, les frères et sœurs, les cousins, les voisins et les petits trajets.
 
 L’appartenance s’entretient donc en parlant. Les liens de famille vivent souvent dans la conversation : les appels, les messages, les histoires racontées tant de fois qu’elles appartiennent à tout le monde. Frères, sœurs, cousins et cousines sont peut-être votre lien principal avec le foyer à l’âge adulte, ou des voisins deviennent une sorte de famille. Le quartier compte aussi : une rue, un marché, une ligne de bus peuvent ressembler autant au foyer qu’une maison, et vos racines sont peut-être dans un quartier plus que dans un bâtiment. La difficulté peut être l’agitation : un foyer toujours en mouvement, un sac à moitié prêt, ou une famille présente surtout au téléphone.
+
+La maison 3 est aussi celle des premiers apprentissages, et le foyer est souvent l’endroit où vos habitudes d’apprendre ont commencé : la langue parlée à table, les questions qui y étaient bienvenues. À l’âge adulte, vous continuez peut-être à apprendre près de chez vous, dans les cours du quartier, dans une bibliothèque que vous connaissez par cœur, ou en transmettant ce que vous savez aux gens d’à côté.
 
 Avec le Cancer au Fond du Ciel, la [Lune](/astrology/moon/) gouverne la maison 4 et, en maison 3, se trouve dans sa joie ([joies des planètes](/astrology/planetary-joys/)) : les sentiments sur le foyer se disent à voix haute, souvent avec les mêmes quelques personnes, semaine après semaine. Avec les Gémeaux ou la Vierge au Fond du Ciel, Mercure travaille depuis la maison 3, celle du signe naturel de Mercure, et le foyer se mène par messages et par listes.
 

@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 10th for career and persons of authority" }
 ---
-With the ruler of the 3rd in the 10th house, the way you talk becomes part of the way you're known. The planet that governs your everyday words sits in the house of public life, so what you say, write or teach tends to build your reputation.
+The way you talk becomes part of the way you're known. Words are ruled from the house of public life here, and what you say, write or teach tends to build your reputation.
 
 ## What it means {#what-it-means}
 
@@ -43,4 +43,4 @@ The people of the 3rd can follow you into public life: a sibling in the same fie
 
 Pisces on the 3rd cusp gives it Jupiter and Neptune at once, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Jupiter in the 10th can make teaching, publishing or advice a public calling, while Neptune lends the voice its imagination from another house.
 
-Its neighbours tell other stories with the same ruler: in the 9th, study and belief ([Ruler of the 3rd in the 9th house](/astrology/3rd-house-ruler-in-9th-house/)); in the 11th, friends and networks ([Ruler of the 3rd in the 11th house](/astrology/3rd-house-ruler-in-11th-house/)). Which one is yours turns on the degree of the Midheaven, and that turns with the clock ([what changes without a birth time](/blog/unknown-birth-time/)).
+Its neighbours tell other stories with the same ruler: in the 9th, study and belief ([Ruler of the 3rd in the 9th house](/astrology/3rd-house-ruler-in-9th-house/)); in the 11th, friends and networks ([Ruler of the 3rd in the 11th house](/astrology/3rd-house-ruler-in-11th-house/)). Which one is yours depends on the Midheaven's exact degree, which a birth time rounded to the hour can't give ([what changes without a birth time](/blog/unknown-birth-time/)).

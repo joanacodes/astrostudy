@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 11th for friendships, groups and hopes" }
 ---
-With the ruler of the 3rd in the 11th house, a thought isn't finished until it's been shared with the group. The planet that rules your everyday words sits in the house of friends and networks, so your mind tends to work in company.
+A thought isn't finished until it's been shared with the group. Your mind works best in company, its ruler placed among friends and networks.
 
 ## What it means {#what-it-means}
 

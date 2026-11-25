@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 9", "maison 4", "maîtres des maisons"]
 weight: 2388
 glyph: "✦"
-definition: "Le maître de la maison 9 en maison 4, c’est la planète de vos études, voyages et convictions placée dans votre maison 4, celle du foyer, de la famille et des racines. Ce que vous croyez pousse là d’où vous venez, ou un pays lointain devient chez vous. J’y lis des convictions enracinées, jamais un verdict familial."
+definition: "Le maître de la maison 9 en maison 4 se tient en bas du thème, parmi le foyer, la famille et les racines, et y emporte études, voyages et convictions. Ce que vous croyez pousse là d’où vous venez, ou un pays lointain devient chez vous. J’y lis des convictions enracinées, jamais un verdict familial."
 facts:
   - { k: "Maître de", v: "La maison 9 : les études, les voyages, les convictions, les autres cultures" }
   - { k: "Placé en", v: "Maison 4 : le foyer, la famille, les racines, la vie privée" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/9th-house", "/astrology/4th-house", "/astrology/house-rulers", "/astrology/imum-coeli", "/astrology/sun-in-4th-house"]
 faq:
   - q: "Que signifie le maître de la maison 9 en maison 4 ?"
-    a: "La planète de vos convictions, de vos études et de vos voyages se trouve dans la maison du foyer, de la famille et des racines. Votre quête de sens part souvent de vos origines : la foi ou la culture de votre enfance, ou un foyer bâti loin de votre lieu de naissance. Cela décrit des racines, pas un verdict."
+    a: "Il enracine vos convictions à la maison : placé dans la maison de la famille et des origines, le maître de votre maison 9 fait partir le sens de là d’où vous venez, la foi ou la culture de votre enfance, ou un foyer bâti loin de votre lieu de naissance. Cela décrit des racines, pas un verdict familial."
   - q: "Le maître de la maison 9 en maison 4 veut-il dire vivre à l’étranger ?"
     a: "Il peut décrire un foyer dans un autre pays, mais il ne décide pas de l’endroit où vous vivrez. Souvent, c’est l’inverse : une maison marquée par une autre culture, une langue parlée seulement en famille, des idées débattues à table. Partir ou rester dépend de votre vie, pas de votre thème."
   - q: "Et si le Soleil gouverne ma maison 9 et se trouve en maison 4 ?"
@@ -28,13 +28,13 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia (en anglais), « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison en représente les affaires ; les étrangers et les pays étrangers en maison 9, les parents, les maisons et la terre en maison 4" }
 ---
-La planète qui gouverne votre maison 9 se trouve dans votre maison 4, tout en bas du thème. La quête de sens commence à la maison, et il arrive que le pays lointain devienne la maison.
+Le maître de votre maison 9 s’est installé au foyer, en maison 4, tout en bas du thème. La quête de sens commence à la table de la cuisine, et il arrive que le pays lointain devienne la maison.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
 Par le signe placé sur sa cuspide, la [maison 9](/astrology/9th-house/) a un maître, et la maison où se tient ce maître est celle où se vivent les voyages, les études et les convictions ([maîtres des maisons](/astrology/house-rulers/)). Ici, c’est la [maison 4](/astrology/4th-house/), qui commence au [Fond du Ciel](/astrology/imum-coeli/) : le foyer, la famille, les racines, le passé que vous portez et la part de vous que seuls vos proches connaissent. Les listes de l’astrologie horaire donnent à la maison 9 les étrangers et les pays étrangers, à la maison 4 les parents, les maisons et la terre, ce qui ressemble beaucoup à l’histoire que raconte souvent ce placement.
 
-J’y lis des convictions qui ont des racines. Certaines personnes qui ont ce placement grandissent dans une foi, une langue ou une culture venue d’ailleurs, et passent des années à démêler la part qui leur appartient. D’autres font le chemin inverse et bâtissent un foyer dans un pays qu’elles n’avaient d’abord fait que visiter, jusqu’à ce que l’étranger devienne familier. L’étude peut aussi habiter la maison : un long projet sur la table de la cuisine, un parent qui vous a appris à poser des questions, une famille où l’on débattait d’idées au dîner. La maison 4 décrit le foyer tel que vous l’avez vécu de l’intérieur : ce placement ne dit donc rien de sûr sur les croyances de vos parents, mais décrit ce que vous en avez fait.
+Ces convictions poussent quelque part. Certaines personnes qui ont ce placement grandissent dans une foi, une langue ou une culture venue d’ailleurs, et passent des années à démêler la part qui leur appartient. D’autres font le chemin inverse et bâtissent un foyer dans un pays qu’elles n’avaient d’abord fait que visiter, jusqu’à ce que l’étranger devienne familier. L’étude peut aussi habiter la maison : un long projet sur la table de la cuisine, un parent qui vous a appris à poser des questions, une famille où l’on débattait d’idées au dîner. La maison 4 décrit le foyer tel que vous l’avez vécu de l’intérieur : ce placement ne dit donc rien de sûr sur les croyances de vos parents, mais décrit ce que vous en avez fait.
 
 C’est sur la loyauté que le bât blesse. Quand les convictions viennent avec la famille, les questionner peut ressembler à un départ, et les garder sans examen à une enfance qui ne finit pas. La plupart des personnes qui ont ce placement finissent par faire un peu des deux : garder la table, changer la conversation.
 

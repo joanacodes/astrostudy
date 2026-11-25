@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 5th in the 9th house"
 h1: "Ruler of the 5th in the 9th house in a birth chart"
-description: "Ruler of the 5th in the 9th house: pleasure that wants a horizon. Travel, study and ideas as fun, romance across borders, and the Sun in its joy."
+description: "Ruler of the 5th in the 9th house: fun with a wider view. Journeys, study and ideas as play, and romance that crosses borders."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -21,8 +21,8 @@ faq:
     a: "That difference attracts you. Romance often starts on a journey, on a course or across a border, and you’re drawn to people who make your world larger. It describes what makes you fall for someone, not where you’ll meet them or whether a long-distance love will last."
   - q: "Is the 5th house ruler in the 9th house good for travel?"
     a: "It makes travel one of your pleasures: trips planned around a museum, a language or a festival rather than a beach alone. Whether and where you travel depends on your life, not on a ruler. The placement shows that widening your world is how you have fun."
-  - q: "What if the Sun rules my 5th house and sits in the 9th?"
-    a: "Then the Sun rejoices: the 9th was the God among the old house names, and you were born after the Sun had crossed its highest point in the sky. Your pleasures shine brightest when they’re shared as ideas, journeys or teaching, and your creativity grows from what you believe."
+  - q: "Is it special when the Sun rules my 5th house from the 9th?"
+    a: "In the old scheme, yes: the 9th was the God among the house names and the Sun’s place of joy, and you were born after the Sun had crossed its highest point in the sky. Ideas, journeys and teaching become your best pleasures, and creativity grows from what you believe."
 sources:
   - { title: "Vettius Valens, Anthology, book II, trans. Robert Schmidt (1994), via Wikipedia, “Cadent house”", url: "https://en.wikipedia.org/wiki/Cadent_house", note: "the 9th as the place of the God, where the Sun rejoices" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 9th with long journeys, foreign lands, higher learning and books" }

@@ -18,22 +18,24 @@ facts:
 related: ["/astrology/4th-house", "/astrology/3rd-house", "/astrology/house-rulers", "/astrology/aversion", "/astrology/planetary-joys"]
 faq:
   - q: "What does the ruler of the 4th house in the 3rd house mean?"
-    a: "It means home is ruled from the house of talk, learning, siblings and neighbours. Belonging tends to be kept alive by conversation and by the local area: the calls, the visits, the familiar streets. I read it as roots that need to be spoken."
+    a: "It means home is ruled from the house of talk, learning, siblings and neighbours. Belonging tends to be kept alive by conversation and by the local area: the calls, the visits, the familiar streets. Belonging, for you, needs saying out loud."
   - q: "Does the 4th house ruler in the 3rd mean moving house often?"
     a: "Not as a forecast. The 3rd is the house of short trips and comings and goings, so with the ruler of home there, some people do move within an area, keep more than one base or feel at home on the move. Where you’ll live is not something a chart can tell."
   - q: "What does the ruler of the 4th in the 3rd say about siblings?"
-    a: "It ties the house of home to the house of brothers and sisters, so siblings, cousins or neighbours often feel like part of what home means to you as an adult. It describes the place those ties have in your life, not how anyone else feels or what they’ll do."
+    a: "It ties the house of home to the house of brothers and sisters, so siblings, cousins or neighbours often feel like part of what home means to you as an adult. The placement speaks to their place in your life; what anyone else feels or does is beyond it."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; siblings and neighbours in the 3rd, parents and houses in the 4th" }
 ---
-With the ruler of the 4th in the 3rd house, home isn't only behind the front door: it's on the phone, in the family group chat, at the corner shop. The planet that rules your roots sits in the house of everyday talk and the local area.
+Home isn't only behind the front door. It's on the phone, in the family group chat, at the corner shop: in the house of everyday talk and the local area, where its ruler stands.
 
 ## What it means {#what-it-means}
 
 [The 4th house](/astrology/4th-house/) holds home, roots and family. Its ruler, the planet of the IC's sign ([house rulers](/astrology/house-rulers/)), stands in the house just before it, [the 3rd house](/astrology/3rd-house/): everyday words, learning, siblings, cousins, neighbours and short journeys.
 
 So belonging is kept up by talk. Family ties tend to live in conversation: the calls, the messages, the stories retold until they belong to everyone. Siblings and cousins may be your main link to home as an adult, or neighbours may become a kind of family. The local area matters too: a street, a market, a bus route can feel as much like home as any house, and your roots may be in a neighbourhood more than in a building. The difficulty can be restlessness: home always on the move, a bag half-packed, or a family that's present mostly by phone.
+
+The 3rd is also the house of early learning, and home is often where your habits of learning began: the language spoken at the table, the questions that were welcome. As an adult you may keep learning close to home, in local classes, in a library you know by heart, or by passing on what you know to the people around you.
 
 With Cancer on the IC, the [Moon](/astrology/moon/) rules the 4th, and in the 3rd it's in its joy ([planetary joys](/astrology/planetary-joys/)): feelings about home get talked through, often with the same few people, week after week. Mercury, ruling a Gemini or Virgo IC from the 3rd, works in the house of its own natural sign, and home gets run by message and list.
 

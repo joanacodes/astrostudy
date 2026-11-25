@@ -2,7 +2,7 @@
 title: "Maître de la maison 5 en maison 3"
 slug: "maitre-maison-5-en-maison-3"
 h1: "Maître de la maison 5 en maison 3 dans un thème natal"
-description: "Maître de la maison 5 en maison 3 : un plaisir qui passe par les mots, les jeux et les sorties. L’esprit, la séduction par messages, la Lune dans sa joie."
+description: "Maître de la maison 5 en maison 3 : un plaisir qui passe par les mots, les jeux et les sorties. L’esprit, la séduction par messages, le plaisir de proximité."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -21,9 +21,9 @@ faq:
   - q: "Que dit un maître de la maison 5 en maison 3 sur la créativité ?"
     a: "Qu’elle passe par les mots et l’échange. L’écriture pour le plaisir, les jeux de mots, les quiz, les jeux et les bonnes conversations sont souvent le lieu de votre créativité, et une idée prend vie une fois dite à quelqu’un. La planète et son signe disent si c’est vif et léger, ou lent et soigné."
   - q: "Comment le maître de la maison 5 en maison 3 se vit-il en amour ?"
-    a: "Par la parole. L’attirance commence volontiers dans une conversation, des messages, une blague partagée ou un jeu, et vous pouvez vous éprendre d’un esprit avant tout le reste. Ce placement décrit votre façon de séduire et ce qui retient votre intérêt, pas la personne que vous rencontrerez ni la durée de l’histoire."
+    a: "Par la parole. L’attirance commence volontiers dans une conversation, des messages, une blague partagée ou un jeu, et vous pouvez vous éprendre d’un esprit avant tout le reste. Qui vous rencontrerez, et combien de temps cela durera, c’est une autre affaire : ce placement parle de votre façon de séduire et de ce qui retient votre intérêt."
   - q: "Et si le Cancer est sur ma cuspide 5 et la Lune en maison 3 ?"
-    a: "Alors la Lune gouverne votre maison 5 depuis la maison nommée la Déesse par la tradition, celle où la Lune a sa joie. Vos humeurs et vos plaisirs avancent ensemble, portés par la conversation, les petites sorties et le changement de décor. J’y lis une lumière qui aime circuler, heureuse quand les journées sont pleines de petits trajets."
+    a: "Le maître de votre maison 5 se trouve alors dans la maison que la tradition nommait la Déesse, là où la Lune a sa joie. Vos humeurs et vos plaisirs avancent ensemble, portés par la conversation, les petites sorties et le changement de décor. J’y lis une lumière qui aime circuler, heureuse quand les journées sont pleines de petits trajets."
 sources:
   - { title: "Vettius Valens, Anthologies, livre II, trad. Robert Schmidt (1994), via Wikipédia (en anglais), « Cadent house »", url: "https://en.wikipedia.org/wiki/Cadent_house", note: "la maison 3 comme lieu de la Déesse, où la Lune se réjouit" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia (en anglais), « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison en représente les affaires ; la maison 3 avec les frères et sœurs, les lettres et les petits voyages" }
@@ -36,7 +36,7 @@ J’y lis de l’esprit qui s’amuse. La [maison 3](/astrology/3rd-house/) couv
 
 Les amours suivent le même chemin. L’attirance naît souvent dans les mots, un fil de messages, une plaisanterie qui revient, une dispute savourée de part et d’autre, et vous pouvez vous éprendre d’un esprit bien avant le reste. La vie de quartier fait aussi partie du plaisir : le café où l’on connaît votre commande, la promenade le long du canal, le frère ou la cousine avec qui vous inventiez des jeux. C’est votre souvenir de ces liens qui parle, pas un portrait de vos proches. Le seul risque, c’est la dispersion : beaucoup de petits plaisirs peuvent étouffer le long projet qui demanderait que vous vous y teniez.
 
-Si c’est le [Cancer sur la cuspide de la maison 5](/astrology/cancer-on-5th-house-cusp/), la Lune gouverne la maison, et la [Lune en maison 3](/astrology/moon-in-3rd-house/) est dans sa joie, dans le lieu que la tradition appelait la Déesse ([joies des planètes](/astrology/planetary-joys/)). Humeurs et plaisirs voyagent ensemble, et un changement de décor ou un long coup de téléphone relève les deux. Quand les Gémeaux ou la Vierge ouvrent la maison 5, c’est Mercure qui la gouverne, et le jeu devient un langage à part entière : les jeux de mots, les lettres, les histoires bien racontées à la table de la cuisine.
+La tradition appelait la maison 3 la Déesse et en faisait la joie de la Lune ([joies des planètes](/astrology/planetary-joys/)) : avec le [Cancer sur la cuspide de la maison 5](/astrology/cancer-on-5th-house-cusp/), votre maison 5 a pour maître la Lune, et la [Lune en maison 3](/astrology/moon-in-3rd-house/) se trouve là où elle est le plus heureuse. Humeurs et plaisirs voyagent ensemble, et un changement de décor ou un long coup de téléphone relève les deux. Quand les Gémeaux ou la Vierge ouvrent la maison 5, c’est Mercure qui la gouverne, et le jeu devient un langage à part entière : les jeux de mots, les lettres, les histoires bien racontées à la table de la cuisine.
 
 La maison du jeu et celle de la parole peuvent se prêter main-forte : à deux signes l’une de l’autre, elles forment un sextile, l’un des aspects que la tradition rangeait parmi les harmonieux. Comme la maison 3 est cadente, elle offre au maître une estrade modeste plutôt qu’une scène : ses plaisirs se glissent dans les interstices d’une journée, entre deux courses, en chemin.
 

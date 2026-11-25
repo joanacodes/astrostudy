@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; la maison 11 pour les amitiés, les groupes et les espoirs" }
 ---
-Avec le maître de la maison 3 en maison 11, une pensée n’est pas finie tant qu’elle n’a pas été partagée avec le groupe. La planète qui gouverne vos mots de tous les jours se trouve dans la maison des amis et des réseaux : votre esprit travaille volontiers en compagnie.
+Une pensée n’est pas finie tant qu’elle n’a pas été partagée avec le groupe. Votre esprit travaille mieux en compagnie, son maître placé parmi les amis et les réseaux.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

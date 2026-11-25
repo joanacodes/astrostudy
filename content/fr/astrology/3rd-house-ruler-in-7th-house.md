@@ -23,12 +23,12 @@ faq:
   - q: "Vais-je rencontrer mon partenaire par ma fratrie ou mes voisins avec ce placement ?"
     a: "Aucun thème ne peut dire qui vous rencontrerez, ni comment. Le placement relie les proches à la maison des partenaires, et chez certaines personnes un partenaire arrive bien par ce cercle, mais je le lis comme une qualité, pas comme une prédiction : un partenaire est souvent quelqu’un avec qui vous parlez d’égal à égal."
   - q: "Le maître de la maison 3 en maison 7 aide-t-il à communiquer dans le couple ?"
-    a: "Il met la communication au centre, ce qui aide quand elle est honnête et coûte plus cher quand elle se brise. Il vous faut peut-être un partenaire qui répond, aime les idées et vous fait parler ; le silence peut ressembler à de la distance. La planète et son signe disent votre style."
+    a: "Il met la communication au centre, ce qui aide quand elle est honnête et coûte plus cher quand elle se brise. Il vous faut peut-être un partenaire qui répond, aime les idées et vous fait parler ; le silence peut ressembler à de la distance. Sa planète et son signe décrivent votre façon d’en parler."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; les contrats et les papiers en maison 3, les associations de toute sorte en maison 7" }
 ---
-Avec le maître de la maison 3 en maison 7, votre pensée a besoin d’une deuxième voix. La planète qui gouverne vos mots de tous les jours se trouve dans la maison des partenaires : les idées prennent forme entre vous et la personne assise en face.
+Votre pensée a besoin d’une deuxième voix. Les idées prennent forme entre vous et la personne assise en face, la planète de vos mots de tous les jours ayant son siège dans la maison des partenaires.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

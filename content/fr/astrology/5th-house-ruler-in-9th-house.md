@@ -2,7 +2,7 @@
 title: "Maître de la maison 5 en maison 9"
 slug: "maitre-maison-5-en-maison-9"
 h1: "Maître de la maison 5 en maison 9 dans un thème natal"
-description: "Maître de la maison 5 en maison 9 : un plaisir qui veut un horizon. Voyages, études et idées pour s’amuser, des amours sans frontières, le Soleil dans sa joie."
+description: "Maître de la maison 5 en maison 9 : un plaisir qui voit large. Voyages, études et idées pour s’amuser, et des amours sans frontières."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -22,8 +22,8 @@ faq:
     a: "Que la différence vous attire. Les amours commencent souvent en voyage, pendant une formation ou de l’autre côté d’une frontière, et les personnes qui agrandissent votre monde vous plaisent. Ce placement décrit ce qui vous séduit, pas le lieu de la rencontre ni la durée d’un amour à distance."
   - q: "Le maître de la maison 5 en maison 9 est-il bon pour les voyages ?"
     a: "Il fait du voyage l’un de vos plaisirs : des séjours organisés autour d’un musée, d’une langue ou d’un festival plutôt que d’une simple plage. Si vous voyagerez, et où, dépend de votre vie, pas d’un maître de maison. Ce placement montre qu’élargir votre monde est votre façon de vous amuser."
-  - q: "Et si le Soleil gouverne ma maison 5 et se trouve en maison 9 ?"
-    a: "Alors le Soleil se réjouit : la maison 9 était le Dieu des anciens noms de maisons, et votre naissance a eu lieu après que le Soleil a franchi son point le plus haut. Vos plaisirs brillent le plus quand ils se partagent en idées, en voyages ou en leçons, et votre créativité naît de ce que vous croyez."
+  - q: "Est-ce particulier quand le Soleil gouverne ma maison 5 depuis la maison 9 ?"
+    a: "Dans l’ancien système, oui : la maison 9 était le Dieu parmi les noms de maisons, et la joie du Soleil, et votre naissance a eu lieu après que le Soleil a franchi son point le plus haut. Les idées, les voyages et l’enseignement deviennent vos plus grands plaisirs, et votre créativité naît de ce que vous croyez."
 sources:
   - { title: "Vettius Valens, Anthologies, livre II, trad. Robert Schmidt (1994), via Wikipédia (en anglais), « Cadent house »", url: "https://en.wikipedia.org/wiki/Cadent_house", note: "la maison 9 comme lieu du Dieu, où le Soleil se réjouit" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia (en anglais), « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison en représente les affaires ; la maison 9 avec les longs voyages, l’étranger, les études supérieures et les livres" }

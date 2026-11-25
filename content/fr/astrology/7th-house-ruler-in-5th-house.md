@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/7th-house", "/astrology/5th-house", "/astrology/house-rulers", "/astrology/planetary-joys", "/astrology/can-astrology-predict-pregnancy"]
 faq:
   - q: "Que veut dire le maître de la maison 7 en maison 5 ?"
-    a: "Le maître de vos relations se tient dans la maison des amours, du jeu et de la création. Vous voulez souvent que la personne avec qui vous vous engagez reste aussi celle avec qui l’on flirte et l’on joue, et vous rencontrez volontiers les gens par ce que vous aimez faire. Les collaborations créatives vous vont bien."
+    a: "Ici, l’engagement répond à la maison des amours, du jeu et de la création. Vous voulez souvent que la personne avec qui vous vous engagez reste aussi celle avec qui l’on flirte et l’on joue, et vous rencontrez volontiers les gens par ce que vous aimez faire. Les collaborations créatives vous vont bien."
   - q: "Est-ce que le maître de la maison 7 en maison 5 annonce des enfants ?"
     a: "Non. La tradition donnait les enfants à la maison 5, mais un thème ne peut pas dire si un couple en aura, ni quand. Je lis la maison 5 dans une vie d’adulte, comme ce que vous créez et ce qui vous réjouit, et ce placement comme la romance et le jeu portés dans vos liens d’engagement."
   - q: "Est-ce que le maître de la maison 7 en maison 5 est bon pour l’amour ?"

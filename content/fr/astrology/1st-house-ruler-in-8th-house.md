@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que leur donnait la tradition" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "la maison 8, argent d’autrui en tournant le thème ; une planète en maison 6, 8 ou 12 en débilité accidentelle" }
 ---
-La maison 8 est l’endroit où un thème va en profondeur, et le vôtre y a envoyé son maître : la planète de votre ascendant se trouve parmi l’intimité, la confiance et ce que vous partagez avec les autres ou leur devez. Le moi que vous montrez est sans cesse attiré vers les liens qui vous transforment, et vers ce qu’il en coûte de laisser quelqu’un s’approcher.
+La maison 8 est l’endroit où un thème va en profondeur, et le vôtre y a envoyé son maître, parmi l’intimité, la confiance et ce que vous partagez avec les autres ou leur devez. Le moi que vous montrez est sans cesse attiré vers les liens qui vous transforment, et vers ce qu’il en coûte de laisser quelqu’un s’approcher.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

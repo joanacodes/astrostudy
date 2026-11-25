@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them, the 8th included" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 8th read for other people’s money" }
 ---
-With the ruler of the 3rd in the 8th house, small talk rarely stays small. The planet that rules your everyday words sits in the house of intimacy and trust, so your mind tends to go where conversations get serious.
+Small talk rarely stays small. Your mind heads where conversations get serious, with the ruler of your everyday words in the house of intimacy and trust.
 
 ## What it means {#what-it-means}
 

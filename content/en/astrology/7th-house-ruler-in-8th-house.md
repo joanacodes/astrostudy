@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/7th-house", "/astrology/8th-house", "/astrology/house-rulers", "/astrology/derived-houses", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "What does the 7th house ruler in the 8th house mean?"
-    a: "Your partnerships are carried into the house of intimacy, trust and joint resources. Casual arrangements rarely hold you; you want to know someone, and be known, at real depth. Money, decisions and vulnerabilities tend to be shared in your closest bonds, which asks for trust and clear agreements."
+    a: "Partnership is carried into the house of intimacy, trust and joint resources. Casual arrangements rarely hold you; you want to know someone, and be known, at real depth. Money, decisions and vulnerabilities tend to be shared in your closest bonds, which asks for trust and clear agreements."
   - q: "Does the 7th house ruler in the 8th mean marrying someone wealthy?"
     a: "No chart can say what a partner will own or bring. Tradition read the 8th, counted from the 7th, as a partner’s resources, so this placement often puts shared money at the centre of a bond. It describes how you share, never how much there will be."
   - q: "Is the 7th house ruler in the 8th a sign of intense relationships?"
@@ -31,9 +31,9 @@ A partnership, with this ruler, isn't complete until something real is held in c
 
 ## What it means {#what-it-means}
 
-The [7th house](/astrology/7th-house/) is the meeting of equals; the [8th house](/astrology/8th-house/) holds what that meeting comes to contain: intimacy, trust, joint money and debts, the closeness that leaves people changed. Once the 7th's ruler settles there, partnership is lived at that depth ([house rulers](/astrology/house-rulers/)).
+Where the [7th house](/astrology/7th-house/) brings two people face to face, the [8th house](/astrology/8th-house/) holds what their meeting comes to contain: intimacy, trust, joint money and debts, the closeness that leaves people changed. Once the 7th's ruler settles there, partnership is lived at that depth ([house rulers](/astrology/house-rulers/)).
 
-I read it as a preference for relationships with weight. Casual arrangements rarely hold your interest; you want to know someone, and be known, at a level that takes time and nerve. Partners may bring change with them, or arrive when you're already changing, and the bonds that matter tend to leave both people different. In business, the placement often shows as shared capital, joint ventures, contracts that bind money as well as people. The questions it raises are about power and trust: who holds what, who decides, and whether closeness ever slides into control. Intimacy isn't ownership, and the healthiest version of this placement keeps both people's keys on their own rings.
+Relationships with weight are the ones that hold you. Casual arrangements rarely hold your interest; you want to know someone, and be known, at a level that takes time and nerve. Partners may bring change with them, or arrive when you're already changing, and the bonds that matter tend to leave both people different. In business, the placement often shows as shared capital, joint ventures, contracts that bind money as well as people. The questions it raises are about power and trust: who holds what, who decides, and whether closeness ever slides into control. Intimacy isn't ownership, and the healthiest version of this placement keeps both people's keys on their own rings.
 
 Counted from the 7th, the 8th is the second house, the one tradition read as a partner's resources ([derived houses](/astrology/derived-houses/)). So the ruler of your partners sits in what, from their side, is their money and what they hold. I use that only to describe how sharing works in your life, what you build and agree to hold with someone; a partner's own finances belong to their chart.
 

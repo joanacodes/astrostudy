@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/1st-house", "/astrology/house-rulers", "/astrology/imum-coeli", "/astrology/charts-for-friends-colleagues-and-family"]
 faq:
   - q: "What does the ruler of the 4th house in the 1st house mean?"
-    a: "The planet that rules your 4th house, home and roots, sits in your 1st, the house of the self and the body. Your background tends to show in your manner, and you carry a sense of home with you rather than leaving it at an address. I read it as belonging you take everywhere."
+    a: "Home and roots, the 4th house, are ruled from your 1st, the house of the self and the body. Your background tends to show in your manner, and you carry a sense of home with you rather than leaving it at an address. I read it as belonging you take everywhere."
   - q: "Does the 4th house ruler in the 1st mean I’m like my family?"
     a: "Some people with it do hear that they’re their family’s double, in face, gesture or turn of phrase; others simply feel that where they come from is part of how they present themselves. It describes your experience of that likeness, never what your family is."
   - q: "Is it good to have the ruler of the 4th in the 1st house?"
@@ -27,11 +27,11 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses, from the Ascendant round to the IC" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 4th for parents, houses and land" }
 ---
-With the ruler of the 4th in the 1st house, home travels with you. The planet that rules your roots sits in the house of the self, so where you come from tends to show in the way you walk into a room.
+Home travels with you. Where you come from shows in the way you walk into a room: the planet of your roots stands in the house of the self.
 
 ## What it means {#what-it-means}
 
-[The 4th house](/astrology/4th-house/) starts at the IC, the bottom of the chart, and holds home, family, belonging and the private self. The planet ruling the sign on that cusp ([house rulers](/astrology/house-rulers/)) sits just below the eastern horizon, in [the 1st house](/astrology/1st-house/): your body, your manner, the way you start things.
+[The 4th house](/astrology/4th-house/) is the ground under a chart, home, family, belonging and the private self, and it starts at the IC. The planet ruling the sign on that cusp ([house rulers](/astrology/house-rulers/)) sits just below the eastern horizon, in [the 1st house](/astrology/1st-house/): your body, your manner, the way you start things.
 
 I read it as roots you carry in plain sight. Your accent, your habits, the way you lay a table or greet a stranger may carry your background more plainly than most people's, and others often sense where you come from before you say. Home is less an address than something you take with you: you can settle quickly in a new place because you bring the essentials. The other side is that family habits can pass for your own personality, and part of adult life is telling the two apart.
 

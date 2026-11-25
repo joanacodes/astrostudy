@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons, de l’ascendant jusqu’au Fond du Ciel et au-delà" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; la maison 3 pour la fratrie et les voisins, la maison 4 pour les maisons et les terres" }
 ---
-Avec le maître de la maison 3 en maison 4, les conversations retrouvent le chemin de la maison. La planète qui gouverne vos mots et votre apprentissage de tous les jours se trouve dans la maison des racines : votre façon de penser garde l’accent de l’endroit d’où vous venez.
+Les conversations retrouvent le chemin de la maison. La planète de vos mots de tous les jours vit dans la maison des racines, et votre façon de penser garde l’accent de l’endroit d’où vous venez.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

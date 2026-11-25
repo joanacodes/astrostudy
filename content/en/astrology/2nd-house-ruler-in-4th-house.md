@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what they cover" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the 2nd as moveable possessions, the 4th as immovable ones: houses, gardens, land" }
 ---
-For you, security tends to mean a roof. With the ruler of the 2nd in the 4th house, the planet of your money and self-worth sits in the house of home, family and roots, close to the bottom of the chart.
+For you, security tends to mean a roof. The planet of your money and self-worth sits in the 4th house of home, family and roots, close to the bottom of the chart, and what you earn tends to come home.
 
 ## What it means {#what-it-means}
 
@@ -37,7 +37,7 @@ Horary astrology drew the line neatly. The 2nd was the house of moveable possess
 
 Home is often where your money goes, and sometimes where it comes from: a family business, work done from home, a house that is also a workplace. What you value was shaped early, around the family table, by what was said about money and what was left unsaid, and much of the adult work is sorting which of those values are really yours. I read that gently. The 4th describes your experience of home, not your parents' finances, and nothing here says what anyone will leave you.
 
-The planet colours the home. With Cancer on the 2nd cusp, the Moon, at home in the house the natural zodiac gives its sign, turns money into a way of keeping your people fed and safe. Saturn, ruling a Capricorn 2nd, builds a home the slow way and pays it down year by year. Venus here puts what you earn into making a place beautiful.
+Each planet furnishes this home in its own way. Where Cancer occupies the 2nd cusp, the Moon is at home in the house the natural zodiac gives its sign, and money becomes a way of keeping your people fed and safe. Saturn, ruling a Capricorn 2nd, builds a home the slow way and pays it down year by year. Venus here puts what you earn into making a place beautiful.
 
 The 4th is an angular house, so this ruler carries weight even out of sight. The planet of your money was nearing the [Imum Coeli](/astrology/imum-coeli/), the lowest point of the chart, when you were born; Placidus, the house system I use, opens the 4th there, and the IC moves with the minutes ([what changes without a birth time](/blog/unknown-birth-time/)). Just before that cusp, in the 3rd, your money would run through words and trade ([Ruler of the 2nd in the 3rd house](/astrology/2nd-house-ruler-in-3rd-house/)); further round, in the 5th, through what you create and enjoy ([Ruler of the 2nd in the 5th house](/astrology/2nd-house-ruler-in-5th-house/)).
 
