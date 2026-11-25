@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/north-node", "/astrology/mars", "/astrology/sextile", "/astrology/mars-sextile-north-node", "/astrology/mars-in-3rd-house"]
 faq:
   - q: "What does transiting North Node sextile natal Mars mean?"
-    a: "The node stands about 60° from your birth Mars and the South Node trines it. For about a month, a first step in a less familiar direction costs less effort than usual: a training, a role that needs initiative, a moment to speak up. The opening is real, and it waits for you to move."
+    a: "Think of it as a month of cheaper first steps. With the node 60° from your birth Mars and the South Node trine it, moving in a less familiar direction costs less effort than usual: a training, a role that needs initiative, a moment to speak up. The opening is real, and it waits for you to move."
   - q: "Is North Node sextile Mars a good time to start something?"
     a: "Often, yes, if it’s something you have been meaning to begin. A sextile from the node lends a little ease to effort aimed at growth, and your established skills stay within reach. It guarantees no result, but it lowers the cost of beginning."
   - q: "How often does the North Node sextile my Mars?"

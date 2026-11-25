@@ -25,7 +25,7 @@ faq:
   - q: "Le Nœud Nord carré Vénus, est-ce mauvais pour mon couple ?"
     a: "Non. Un transit ne peut pas dire comment ira une relation, et je n’en lis jamais un pour une rupture. Ce carré décrit une friction entre ce que vous aimez et votre croissance, qu’une relation peut ressentir. En parler, plutôt que d’y voir un signe, est ce qui aide en général."
   - q: "Combien de temps dure le Nœud Nord carré Vénus ?"
-    a: "Un mois environ dans le cas habituel, de 1,5° avant l’exactitude à 1° après ; les plus rapides se terminent en trois semaines et demie, les plus lents durent trois mois et demi ou plus, un dixième chacun. Il vient deux fois par tour de 18,6 ans, huit ou neuf fois avant 80 ans."
+    a: "Un mois environ dans le cas habituel, de 1,5° avant l’exactitude à 1° après ; les plus rapides se terminent en trois semaines et demie, les plus lents trois mois et demi ou plus ; chacun représente environ un passage sur dix. Il vient deux fois par tour de 18,6 ans, huit ou neuf fois avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le nœud vrai tient le carré dans mes orbes, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits sur Vénus dans le thème natal" }

@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/north-node", "/astrology/mars", "/astrology/sextile", "/astrology/mars-sextile-north-node", "/astrology/mars-in-3rd-house"]
 faq:
   - q: "Que veut dire le Nœud Nord en transit sextile Mars natal ?"
-    a: "Le nœud se tient à 60° environ de Mars dans votre thème de naissance, et le Nœud Sud en trigone. Pendant un mois environ, un premier pas dans une direction moins familière coûte moins d’effort que d’habitude : un entraînement, un rôle qui demande de l’initiative, un moment pour prendre la parole. L’ouverture est réelle, et elle attend que vous bougiez."
+    a: "Voyez-y un mois de premiers pas moins chers. Avec le nœud à 60° de Mars dans votre thème de naissance et le Nœud Sud en trigone, aller dans une direction moins familière coûte moins d’effort que d’habitude : un entraînement, un rôle qui demande de l’initiative, un moment pour prendre la parole. L’ouverture est réelle, et elle attend que vous bougiez."
   - q: "Le Nœud Nord sextile Mars, est-ce le moment de commencer quelque chose ?"
     a: "Souvent, oui, s’il s’agit d’une chose que vous comptiez commencer. Un sextile du nœud donne un peu d’aisance à l’effort tourné vers la croissance, et vos savoir-faire établis restent à portée de main. Il ne garantit aucun résultat, mais il abaisse le prix du commencement."
   - q: "Combien de fois le Nœud Nord fait-il un sextile à Mars ?"

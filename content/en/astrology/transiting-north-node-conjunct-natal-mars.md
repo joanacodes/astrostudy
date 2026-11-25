@@ -1,7 +1,7 @@
 ---
 title: "Transiting North Node conjunct natal Mars"
 h1: "Transiting North Node conjunct your natal Mars"
-description: "Transiting North Node conjunct natal Mars: once in 18.6 years, a month for aiming your effort somewhere new. Not an accident forecast. What helps."
+description: "Transiting North Node conjunct natal Mars: a month, every 18.6 years, for aiming your effort somewhere new, with no accident foretold. What helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Mars", "conjunction", "transits"]
 weight: 1937
 glyph: "☊☌♂"
-definition: "Transiting North Node conjunct natal Mars joins effort to growth. For about a month, once every 18.6 years, the node crosses your birth Mars and the South Node holds the degree opposite, on your oldest ways of pushing. I read it as a season for aiming effort somewhere new, never as a fight."
+definition: "Transiting North Node conjunct natal Mars joins effort to growth. Every 18.6 years, for about a month, the node crosses your birth Mars and the South Node holds the degree opposite, on your oldest ways of pushing. I read it as a season for aiming effort somewhere new, never as a fight."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node: a capacity built by practice" }
   - { k: "Natal point", v: "Mars ♂: initiative, effort and the boundaries you defend" }
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/north-node", "/astrology/mars", "/astrology/mars-conjunct-north-node", "/astrology/can-astrology-predict-health-problems", "/astrology/transits"]
 faq:
   - q: "What does transiting North Node conjunct natal Mars mean?"
-    a: "For about a month, effort and initiative line up with the less practised direction of your chart: the North Node is crossing your birth Mars, with the South Node opposite on your oldest ways of pushing. I read it as a season for aiming effort somewhere new, never as a fight on its way."
+    a: "For about a month, effort and initiative line up with the less practised direction of your chart: the North Node has reached your birth Mars, the South Node facing it on your oldest ways of pushing. I read it as a season for aiming effort somewhere new, never as a fight on its way."
   - q: "Can North Node conjunct Mars cause an accident?"
     a: "No. I never read a transit for accidents, injuries or illness, and none can foretell them. Mars here describes how you start things and spend effort, and the node where that effort could grow. If something about your health worries you, that is a question for a doctor."
   - q: "How long does North Node conjunct Mars last?"
-    a: "About a month, with one exact crossing nearly every time, counted from 1½° before exact to 1° after. In an eclipse season the true node almost stops, and the pass can stretch to three and a half months or more. It comes back about every 18.6 years."
+    a: "About a month, with one exact crossing nearly every time, counted from 1½° before exact to 1° after. In an eclipse season the true node almost stops, and the pass may last three and a half months or more. It comes back with each round of the nodes."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node stays within my orbs, and how often the conjunction comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "how a transit to natal Mars is read" }
@@ -42,7 +42,7 @@ With [Mars in the 6th house](/astrology/mars-in-6th-house/), where tradition gav
 
 ## How long it lasts {#how-long-it-lasts}
 
-Counted my way, from 1½° before exact to 1° after, the node's month on your Mars is usually just that, a month, with one exact crossing nearly every time. Its speed is the Sun's doing. Between eclipse seasons the true node hurries and can be gone in three and a half weeks; during a season it hardly moves, so a tenth of these conjunctions last three and a half months or more, about one in twenty-five with three exact hits. Those long passes are also the ones in which an eclipse can land on or opposite your Mars ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
+Counted my way, from 1½° before exact to 1° after, the node's month on your Mars is usually just that, a month, with one exact crossing nearly every time. Its speed is the Sun's doing. Between eclipse seasons the true node hurries and can be gone in three and a half weeks; during a season it hardly moves, so a tenth of these conjunctions last three and a half months or more, and three exact hits turn up about once in twenty-five passes. Those long passes are also the ones in which an eclipse can land on or opposite your Mars ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
 
 It comes once a round: four times by 80 for most people and five for some, with nobody left out. In between, the node makes each of the other four aspects to Mars: [Transiting North Node sextile natal Mars](/astrology/transiting-north-node-sextile-natal-mars/) first, then [Transiting North Node square natal Mars](/astrology/transiting-north-node-square-natal-mars/) and [Transiting North Node trine natal Mars](/astrology/transiting-north-node-trine-natal-mars/), and [Transiting North Node opposite natal Mars](/astrology/transiting-north-node-opposite-natal-mars/) at the halfway mark, before the sequence runs back the other way. With [Mars conjunct North Node](/astrology/mars-conjunct-north-node/) in your chart, it's your nodal returns that bring it.
 

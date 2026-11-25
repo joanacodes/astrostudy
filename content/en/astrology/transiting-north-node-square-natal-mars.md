@@ -24,7 +24,7 @@ faq:
   - q: "Does North Node square Mars mean conflict?"
     a: "Not as I read it. Mars is effort and assertion, not anger, and a square is friction that asks for adjustment. It can make you notice where you push too hard or not at all. It doesn’t forecast quarrels, accidents or disputes, and none of those can be read from a transit."
   - q: "How long does North Node square Mars last?"
-    a: "Usually about a month, with my orbs of 1½° before exact and 1° after; a slow pass in an eclipse season can last three and a half months or more. It returns every nine years or so, from one side and then the other, eight or nine times by 80."
+    a: "Usually about a month, with my orbs of 1½° before exact and 1° after; a slow pass, when an eclipse season holds the node back, can run three and a half months or more. It returns every nine years or so, from one side and then the other, eight or nine times by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the square within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Mars" }
@@ -33,7 +33,7 @@ Of the node's contacts with Mars, the square is the one that asks for a decision
 
 ## What changes {#what-changes}
 
-[Mars](/astrology/mars/) is effort and its direction: drive, courage, competition, the boundaries you hold. The [North Node](/astrology/north-node/) and the [South Node](/astrology/south-node/) mark the road you are learning and the road you know, and a [square](/astrology/square/) brings in the friction that makes you adjust. Under this [transit](/astrology/transits/), Mars sits at the crossroads: the question isn't whether to act, but where the effort should go.
+[Mars](/astrology/mars/) is effort and its direction: drive, courage, competition, the boundaries you hold. The two nodes mark the road you are learning ([North Node](/astrology/north-node/)) and the road you know ([South Node](/astrology/south-node/)), and a [square](/astrology/square/) brings in the friction that makes you adjust. Under this [transit](/astrology/transits/), Mars sits at the crossroads: the question isn't whether to act, but where the effort should go.
 
 It tends to show as too many claims on the same energy, a habit of pushing in one direction that has stopped paying off, or a boundary that needs redrawing because your life has moved on. Competition isn't hostility, and none of this forecasts a quarrel; what the square usually wants is a better allocation of effort, decided rather than drifted into.
 
@@ -43,7 +43,7 @@ With your [Mars in the 7th house](/astrology/mars-in-7th-house/), the friction t
 
 ## How long it lasts {#how-long-it-lasts}
 
-My orbs for it are 1½° before exact and 1° after, and the node's crossing usually takes about a month. The quickest tenth, between eclipse seasons, are done in three and a half weeks; the slowest tenth, inside a season, stretch past three and a half months, sometimes touching the exact square three times, as about one pass in twenty-five does.
+My orbs for it are 1½° before exact and 1° after, and the node's crossing usually takes about a month. Between eclipse seasons the node can clear the square in three and a half weeks; inside a season it lingers past three and a half months, as a tenth of passes do, sometimes touching the exact square three times, about once in twenty-five passes.
 
 A square from one side or the other comes round every nine years or so. Each stands between a sextile and a trine ([Transiting North Node sextile natal Mars](/astrology/transiting-north-node-sextile-natal-mars/), [Transiting North Node trine natal Mars](/astrology/transiting-north-node-trine-natal-mars/)), and between two squares lies either the conjunction ([Transiting North Node conjunct natal Mars](/astrology/transiting-north-node-conjunct-natal-mars/)) or the opposition ([Transiting North Node opposite natal Mars](/astrology/transiting-north-node-opposite-natal-mars/)). Eight or nine by 80. With [Mars square North Node](/astrology/mars-square-north-node/) at birth, you need no ephemeris: your [nodal return](/astrology/nodal-return/) and your [nodal reversal](/astrology/nodal-reversal/) are this square.
 

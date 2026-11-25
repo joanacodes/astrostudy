@@ -25,7 +25,7 @@ faq:
   - q: "Le Nœud Nord carré Mars, est-ce un conflit ?"
     a: "Pas tel que je le lis. Mars est l’effort et l’affirmation, pas la colère, et un carré est une friction qui demande un ajustement. Il peut vous faire remarquer où vous poussez trop, ou pas du tout. Il n’annonce ni dispute, ni accident, ni litige, et rien de cela ne se lit dans un transit."
   - q: "Combien de temps dure le Nœud Nord carré Mars ?"
-    a: "En général un mois environ, avec mes orbes de 1,5° avant l’exactitude et 1° après ; un passage lent pendant une saison d’éclipses peut durer trois mois et demi ou plus. Il revient tous les neuf ans environ, d’un côté puis de l’autre, huit ou neuf fois avant 80 ans."
+    a: "En général un mois environ, avec mes orbes de 1,5° avant l’exactitude et 1° après ; un passage lent, quand une saison d’éclipses retient le nœud, peut durer trois mois et demi ou plus. Il revient tous les neuf ans environ, d’un côté puis de l’autre, huit ou neuf fois avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le nœud vrai tient le carré dans mes orbes, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits sur Mars dans le thème natal" }
@@ -34,7 +34,7 @@ Parmi les contacts du nœud avec Mars, le carré est celui qui demande une déci
 
 ## Ce qui change {#ce-qui-change}
 
-[Mars](/astrology/mars/), c’est l’effort et sa direction : l’élan, le courage, la compétition, les limites que vous tenez. Le [Nœud Nord](/astrology/north-node/) et le [Nœud Sud](/astrology/south-node/) marquent la route que vous apprenez et celle que vous connaissez, et un [carré](/astrology/square/) apporte la friction qui oblige à s’ajuster. Sous ce [transit](/astrology/transits/), Mars se tient au carrefour : la question n’est pas de savoir s’il faut agir, mais où doit aller l’effort.
+[Mars](/astrology/mars/), c’est l’effort et sa direction : l’élan, le courage, la compétition, les limites que vous tenez. Les deux nœuds marquent la route que vous apprenez ([Nœud Nord](/astrology/north-node/)) et celle que vous connaissez ([Nœud Sud](/astrology/south-node/)), et un [carré](/astrology/square/) apporte la friction qui oblige à s’ajuster. Sous ce [transit](/astrology/transits/), Mars se tient au carrefour : la question n’est pas de savoir s’il faut agir, mais où doit aller l’effort.
 
 Cela se montre souvent par trop de demandes sur la même énergie, par une habitude de pousser dans un sens qui ne rapporte plus, ou par une limite à redessiner parce que votre vie a changé. La compétition n’est pas l’hostilité, et rien de tout cela n’annonce une dispute ; ce que le carré veut d’ordinaire, c’est une meilleure répartition de l’effort, décidée plutôt que subie.
 
@@ -44,7 +44,7 @@ Avec [Mars en maison 7](/astrology/mars-in-7th-house/), la friction concerne sou
 
 ## Combien de temps {#combien-de-temps}
 
-Mes orbes pour ce carré sont de 1,5° avant l’exactitude et 1° après, et le passage du nœud prend en général un mois environ. Le dixième le plus rapide, entre deux saisons d’éclipses, se termine en trois semaines et demie ; le dixième le plus lent, pendant une saison, dépasse trois mois et demi, touchant parfois trois fois le carré exact, comme un passage sur vingt-cinq environ.
+Mes orbes pour ce carré sont de 1,5° avant l’exactitude et 1° après, et le passage du nœud prend en général un mois environ. Entre deux saisons d’éclipses, le nœud peut franchir le carré en trois semaines et demie ; pendant une saison, il s’attarde au-delà de trois mois et demi, comme un dixième des passages, touchant parfois trois fois le carré exact, environ une fois sur vingt-cinq.
 
 Un carré, d’un côté ou de l’autre, revient tous les neuf ans environ. Chacun se tient entre un sextile et un trigone ([Nœud Nord en transit sextile Mars du thème natal](/astrology/transiting-north-node-sextile-natal-mars/), [Nœud Nord en transit trigone Mars du thème natal](/astrology/transiting-north-node-trine-natal-mars/)), et entre deux carrés se trouve soit la conjonction ([Nœud Nord en transit conjonction Mars du thème natal](/astrology/transiting-north-node-conjunct-natal-mars/)), soit l’opposition ([Nœud Nord en transit opposition Mars du thème natal](/astrology/transiting-north-node-opposite-natal-mars/)). Huit ou neuf avant 80 ans. Si votre thème porte [Mars carré Nœud Nord](/astrology/mars-square-north-node/), pas besoin d’éphéméride : votre [retour nodal](/astrology/nodal-return/) et votre [inversion nodale](/astrology/nodal-reversal/) sont ce carré.
 

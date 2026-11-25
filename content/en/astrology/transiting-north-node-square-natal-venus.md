@@ -24,7 +24,7 @@ faq:
   - q: "Is North Node square Venus bad for my relationship?"
     a: "No. A transit can’t tell how a relationship will go, and I never read one for a break-up. This square describes friction between what you enjoy and where you’re growing, which a relationship can feel. Talking about it, rather than reading it as a sign, is what tends to help."
   - q: "How long does North Node square Venus last?"
-    a: "About a month in the usual case, from 1½° before exact to 1° after; the quickest are over in three and a half weeks, the slowest last three and a half months or more, a tenth of passes each. It comes twice in each 18.6-year round, eight or nine times by 80."
+    a: "About a month in the usual case, from 1½° before exact to 1° after; the quickest are over in three and a half weeks, the slowest three and a half months or more; each is about one pass in ten. It comes twice in each 18.6-year round, eight or nine times by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the square within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Venus" }

@@ -25,7 +25,7 @@ faq:
   - q: "Le Nœud Nord trigone Mars, est-ce bon pour ma carrière ?"
     a: "Il peut soutenir l’effort au travail, surtout avec Mars en maison 10 ou 6, en rendant l’élan plus facile à trouver. Il ne promet ni promotion ni succès, et je ne lis pas les transits pour leurs issues. Ce qu’il offre, c’est un mois où un effort bien dirigé rencontre moins de résistance."
   - q: "Combien de temps dure le Nœud Nord trigone Mars ?"
-    a: "Un mois environ en règle générale, en comptant 1,5° avant l’exactitude et 1° après ; un passage pris dans une saison d’éclipses peut durer trois mois et demi ou plus. Chaque tour de 18,6 ans compte deux trigones, huit ou neuf avant 80 ans."
+    a: "Un mois environ en règle générale, en comptant 1,5° avant l’exactitude et 1° après ; même si une saison d’éclipses peut étirer un passage à trois mois et demi ou plus. Chaque tour de 18,6 ans compte deux trigones, huit ou neuf avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le nœud vrai tient le trigone dans mes orbes, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits sur Mars dans le thème natal" }
@@ -35,7 +35,7 @@ Quand le nœud forme un trigone avec Mars, l’effort et la croissance marchent 
 
 ## Ce qui change {#ce-qui-change}
 
-[Mars](/astrology/mars/), c’est l’effort mis en œuvre : l’initiative, l’élan, l’exécution qui change les projets en faits. Le [Nœud Nord](/astrology/north-node/) marque la direction que vous construisez encore, et un [trigone](/astrology/trine/) donne à deux fonctions un courant qui les porte ensemble. Sous ce [transit](/astrology/transits/), l’effort consacré à quelque chose de nouveau est souvent vite récompensé : l’élan se trouve et se garde plus facilement.
+[Mars](/astrology/mars/), c’est l’effort mis en œuvre : l’initiative, l’élan, l’exécution qui change les projets en faits. Le [Nœud Nord](/astrology/north-node/) marque la direction encore en chantier, et un [trigone](/astrology/trine/) donne à deux fonctions un courant qui les porte ensemble. Sous ce [transit](/astrology/transits/), l’effort consacré à quelque chose de nouveau est souvent vite récompensé : l’élan se trouve et se garde plus facilement.
 
 Avec Mars, le risque du trigone, c’est de se laisser porter. Faute de résistance, vous pourriez pousser moins que le moment ne le mériterait, ou dépenser l’élan pour ce que vous faisiez de toute façon. Le courant n’est pas la passivité. Le [Nœud Sud](/astrology/south-node/), en sextile à Mars pendant ces semaines, rend les forces anciennes disponibles comme un tremplin plutôt que comme un lieu où rester.
 
@@ -45,7 +45,7 @@ Pour trouver vos propres trigones, comptez quatre signes de part et d’autre de
 
 ## Combien de temps {#combien-de-temps}
 
-En accordant 1,5° avant l’exactitude et 1° après, comme pour chaque transit d’une prévision, le trigone dure en général un mois environ. L’allure du nœud vrai fait l’écart : des passages rapides de trois semaines et demie quand le Soleil est loin des nœuds, des lents de trois mois et demi ou plus pendant une saison d’éclipses, et trois contacts exacts environ une fois sur vingt-cinq.
+En accordant 1,5° avant l’exactitude et 1° après, comme pour chaque transit d’une prévision, le trigone dure en général un mois environ. L’allure du nœud vrai fait l’écart : des passages rapides de trois semaines et demie quand le Soleil est loin des nœuds, des lents, pendant une saison d’éclipses, de trois mois et demi et davantage, et trois contacts exacts environ une fois sur vingt-cinq.
 
 Avec neuf trigones avant 80 ans pour la plupart des gens, huit au moins, c’est l’un des contacts les plus fréquents du nœud avec Mars, comme [Nœud Nord en transit sextile Mars du thème natal](/astrology/transiting-north-node-sextile-natal-mars/) et [Nœud Nord en transit carré Mars du thème natal](/astrology/transiting-north-node-square-natal-mars/) ; la conjonction ([Nœud Nord en transit conjonction Mars du thème natal](/astrology/transiting-north-node-conjunct-natal-mars/)) et l’opposition ([Nœud Nord en transit opposition Mars du thème natal](/astrology/transiting-north-node-opposite-natal-mars/)) viennent deux fois moins souvent. Si votre thème porte [Mars trigone Nœud Nord](/astrology/mars-trine-north-node/), vos retours nodaux sont des trigones de ce genre, vers 18 ans et demi, 37 et 56 ans.
 

@@ -24,7 +24,7 @@ faq:
   - q: "Is North Node trine Mars good for my career?"
     a: "It can support effort at work, especially with Mars in your 10th or 6th house, by making momentum easier to find. It doesn’t promise a promotion or any success, and I don’t read transits for outcomes. What it offers is a month when well-aimed effort meets less resistance."
   - q: "How long does North Node trine Mars last?"
-    a: "About a month as a rule, counting 1½° before exact and 1° after; a pass caught in an eclipse season can last three and a half months or more. Two trines come in each 18.6-year round, eight or nine by the age of 80."
+    a: "About a month as a rule, counting 1½° before exact and 1° after; though an eclipse season can stretch a pass to three and a half months or more. Two trines come in each 18.6-year round, eight or nine by the age of 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the trine within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Mars" }
@@ -34,7 +34,7 @@ When the node trines Mars, effort and growth fall into step for about a month. T
 
 ## What changes {#what-changes}
 
-[Mars](/astrology/mars/) is effort put to use: initiative, drive, the execution that turns plans into facts. The [North Node](/astrology/north-node/) marks the direction you are still building, and a [trine](/astrology/trine/) gives two functions a current that carries them together. Under this [transit](/astrology/transits/), effort spent on something new tends to be repaid quickly: momentum is easier to find and easier to keep.
+[Mars](/astrology/mars/) is effort put to use: initiative, drive, the execution that turns plans into facts. The [North Node](/astrology/north-node/) marks the direction still under construction, and a [trine](/astrology/trine/) gives two functions a current that carries them together. Under this [transit](/astrology/transits/), effort spent on something new tends to be repaid quickly: momentum is easier to find and easier to keep.
 
 The trine's risk, with Mars, is coasting. With little resistance you may push less than the moment would reward, or spend the momentum on what you were doing anyway. Flow isn't passivity. The [South Node](/astrology/south-node/), sextile your Mars in the same weeks, makes old strengths available as a springboard rather than a place to stay.
 
@@ -44,7 +44,7 @@ To find your own trines, count four signs either way from your Mars: those are t
 
 ## How long it lasts {#how-long-it-lasts}
 
-Allowing 1½° before exact and 1° after, as I do for every transit in a forecast, the trine usually lasts about a month. The true node's pace sets the spread: quick passes of three and a half weeks when the Sun is far from the nodes, slow ones of three and a half months or more in an eclipse season, and three exact contacts about once in twenty-five passes.
+Allowing 1½° before exact and 1° after, as I do for every transit in a forecast, the trine usually lasts about a month. The true node's pace sets the spread: quick passes of three and a half weeks when the Sun is far from the nodes, slow ones, in an eclipse season, of three and a half months and more, and three exact contacts about once in twenty-five passes.
 
 With nine trines by 80 for most people, eight at the fewest, this is one of the node's commoner contacts with Mars, along with [Transiting North Node sextile natal Mars](/astrology/transiting-north-node-sextile-natal-mars/) and [Transiting North Node square natal Mars](/astrology/transiting-north-node-square-natal-mars/); the conjunction ([Transiting North Node conjunct natal Mars](/astrology/transiting-north-node-conjunct-natal-mars/)) and the opposition ([Transiting North Node opposite natal Mars](/astrology/transiting-north-node-opposite-natal-mars/)) come half as often. If you were born with [Mars trine North Node](/astrology/mars-trine-north-node/), your nodal returns are trines of this kind, at about 18½, 37 and 56.
 

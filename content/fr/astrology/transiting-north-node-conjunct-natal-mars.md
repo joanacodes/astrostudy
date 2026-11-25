@@ -2,7 +2,7 @@
 title: "Nœud Nord en transit conjonction Mars du thème natal"
 slug: "noeud-nord-transit-conjonction-mars-natal"
 h1: "Nœud Nord en transit conjonction Mars de votre thème natal"
-description: "Nœud Nord en transit conjonction Mars du thème natal : tous les 18,6 ans, un mois pour diriger votre effort ailleurs. Aucun accident annoncé. Ce qui aide."
+description: "Nœud Nord en transit conjonction Mars du thème natal : un mois, tous les 18,6 ans, pour diriger votre effort ailleurs, sans accident annoncé. Ce qui aide."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Nœud Nord", "Mars", "conjonction", "transits"]
 weight: 1937
 glyph: "☊☌♂"
-definition: "Le Nœud Nord en transit conjonction Mars du thème natal unit l’effort à la croissance. Pendant un mois environ, tous les 18,6 ans, le nœud franchit Mars dans votre thème et le Nœud Sud tient le degré opposé, sur vos plus vieilles façons de forcer. J’y lis une saison pour diriger l’effort ailleurs, jamais un combat."
+definition: "Le Nœud Nord en transit conjonction Mars du thème natal unit l’effort à la croissance. Tous les 18,6 ans, pendant un mois environ, le nœud franchit Mars dans votre thème et le Nœud Sud tient le degré opposé, sur vos plus vieilles façons de forcer. J’y lis une saison pour diriger l’effort ailleurs, jamais un combat."
 facts:
   - { k: "En transit", v: "Le Nœud Nord ☊, le nœud vrai : une capacité qui se construit par la pratique" }
   - { k: "Point natal", v: "Mars ♂ : l’initiative, l’effort et les limites que vous défendez" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/north-node", "/astrology/mars", "/astrology/mars-conjunct-north-node", "/astrology/can-astrology-predict-health-problems", "/astrology/transits"]
 faq:
   - q: "Que veut dire le Nœud Nord en transit conjonction Mars natal ?"
-    a: "Pendant un mois environ, l’effort et l’initiative s’alignent sur la direction moins pratiquée de votre thème : le Nœud Nord franchit Mars dans votre thème de naissance, le Nœud Sud en face, sur vos plus vieilles façons de forcer. J’y lis une saison pour diriger l’effort ailleurs, jamais un combat en route."
+    a: "Pendant un mois environ, l’effort et l’initiative s’alignent sur la direction moins pratiquée de votre thème : le Nœud Nord a atteint Mars dans votre thème de naissance, le Nœud Sud lui faisant face sur vos plus vieilles façons de forcer. J’y lis une saison pour diriger l’effort ailleurs, jamais un combat en route."
   - q: "Le Nœud Nord conjonction Mars peut-il provoquer un accident ?"
     a: "Non. Je ne lis jamais un transit pour des accidents, des blessures ou des maladies, et aucun ne peut les prédire. Mars décrit ici votre façon de commencer et de dépenser votre énergie, et le nœud l’endroit où cet effort pourrait grandir. Une inquiétude pour votre santé relève d’un cabinet médical."
   - q: "Combien de temps dure le Nœud Nord conjonction Mars ?"
-    a: "Un mois environ, avec un seul passage exact presque à chaque fois, compté de 1,5° avant l’exactitude à 1° après. Pendant une saison d’éclipses, le nœud vrai s’arrête presque, et le passage peut s’étirer à trois mois et demi ou plus. Il revient tous les 18,6 ans environ."
+    a: "Un mois environ, avec un seul passage exact presque à chaque fois, compté de 1,5° avant l’exactitude à 1° après. Pendant une saison d’éclipses, le nœud vrai s’arrête presque, et le passage peut durer trois mois et demi ou plus. Il revient à chaque tour des nœuds."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le nœud vrai reste dans mes orbes, et combien de conjonctions viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "comment se lit un transit sur Mars dans le thème natal" }
@@ -43,7 +43,7 @@ Avec [Mars en maison 6](/astrology/mars-in-6th-house/), où la tradition plaçai
 
 ## Combien de temps {#combien-de-temps}
 
-Compté à ma façon, de 1,5° avant l’exactitude à 1° après, le mois du nœud sur Mars dure en général exactement cela, un mois, avec un seul passage exact presque à chaque fois. Sa vitesse dépend du Soleil. Entre deux saisons d’éclipses, le nœud vrai se hâte et peut être reparti en trois semaines et demie ; pendant une saison, il bouge à peine, si bien qu’un dixième de ces conjonctions durent trois mois et demi ou plus, une sur vingt-cinq environ avec trois passages exacts. Ces longs passages sont aussi ceux où une éclipse peut tomber sur Mars ou en face ([Éclipses sur vos planètes natales](/astrology/eclipses-on-your-natal-planets/)).
+Compté à ma façon, de 1,5° avant l’exactitude à 1° après, le mois du nœud sur Mars dure en général exactement cela, un mois, avec un seul passage exact presque à chaque fois. Sa vitesse dépend du Soleil. Entre deux saisons d’éclipses, le nœud vrai se hâte et peut être reparti en trois semaines et demie ; pendant une saison, il bouge à peine, si bien qu’un dixième de ces conjonctions durent trois mois et demi ou plus, et trois passages exacts se présentent environ une fois sur vingt-cinq. Ces longs passages sont aussi ceux où une éclipse peut tomber sur Mars ou en face ([Éclipses sur vos planètes natales](/astrology/eclipses-on-your-natal-planets/)).
 
 Cette conjonction revient à chaque tour : quatre fois avant 80 ans pour la plupart des gens, cinq pour certaines personnes, et personne n’est oublié. Entre deux, le nœud forme avec Mars chacun des quatre autres aspects : [Nœud Nord en transit sextile Mars du thème natal](/astrology/transiting-north-node-sextile-natal-mars/) d’abord, puis [Nœud Nord en transit carré Mars du thème natal](/astrology/transiting-north-node-square-natal-mars/) et [Nœud Nord en transit trigone Mars du thème natal](/astrology/transiting-north-node-trine-natal-mars/), et [Nœud Nord en transit opposition Mars du thème natal](/astrology/transiting-north-node-opposite-natal-mars/) à mi-parcours, avant que la série ne reparte en sens inverse. Si votre thème porte [Mars conjonction Nœud Nord](/astrology/mars-conjunct-north-node/), ce sont vos retours nodaux qui l’amènent.
 
