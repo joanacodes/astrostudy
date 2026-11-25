@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Neptune", "Saturn", "trine", "transits"]
 weight: 1772
 glyph: "♆△♄"
-definition: "Transiting Neptune trine natal Saturn is ideals and discipline in harmony: with Neptune 120° from your birth Saturn, for about two and a half years, the two work together. Ideals gain patience and structures gain meaning: a craft, a vocation, care that lasts. I read it as quiet help for building something that matters."
+definition: "Transiting Neptune trine natal Saturn is ideals and discipline in harmony: Neptune and the Saturn of your birth chart, a trine apart, work together for some two and a half years. Ideals gain patience and structures gain meaning: a craft, a vocation, care that lasts. I read it as quiet help for building something that matters."
 facts:
   - { k: "Transiting", v: "Neptune ♆, the planet of imagination, compassion and longing" }
   - { k: "Natal point", v: "Saturn ♄: structure, duty and the long view" }

@@ -50,7 +50,7 @@ Counted from 1½° before exact to 1° after, the orbs of my timing, the opposit
 
 Across Pluto's circle from the conjunction ([Transiting Pluto conjunct natal Moon](/astrology/transiting-pluto-conjunct-natal-moon/)), the opposition is just as rare: more than half of people born between 1930 and 2009 never meet it by 80, and nobody meets it twice, since Pluto would have to go all the way round. The squares ([Transiting Pluto square natal Moon](/astrology/transiting-pluto-square-natal-moon/)) sit halfway between the two, the trines ([Transiting Pluto trine natal Moon](/astrology/transiting-pluto-trine-natal-moon/)) 60° either side of the opposition, and the sextiles ([Transiting Pluto sextile natal Moon](/astrology/transiting-pluto-sextile-natal-moon/)) 60° either side of the conjunction.
 
-While Pluto is in Aquarius, until early 2044, it opposes Moons in Leo.
+While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it opposes Moons in Leo.
 
 ## What helps {#what-helps}
 

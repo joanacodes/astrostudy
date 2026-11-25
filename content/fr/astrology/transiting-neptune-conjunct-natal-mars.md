@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce que Neptune conjonction Mars épuise l’énergie ?"
     a: "Je ne le lis pas pour le corps. Ce que ce transit change d’ordinaire, c’est la motivation : pousser pour pousser paraît vain, et l’effort qui a un sens vient facilement. Si vous vous sentez physiquement à bout pendant des semaines, c’est une question pour un médecin, pas pour un thème."
   - q: "Est-ce que j’aurai Neptune conjonction Mars dans ma vie ?"
-    a: "La moitié des gens environ, une fois. Neptune parcourt moins de la moitié du zodiaque en quatre-vingts ans et n’atteint donc Mars que si Mars se trouvait à moins d’un demi-cercle devant Neptune à votre naissance ; un peu plus de la moitié des personnes nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans."
+    a: "La moitié des gens environ, une fois. Neptune parcourt moins de la moitié du zodiaque en quatre-vingts ans et n’atteint donc Mars que si Mars se trouvait à moins d’un demi-cercle devant Neptune à votre naissance ; un peu plus de la moitié des personnes nées entre 1930 et 2009 ne rencontrent jamais cette conjonction avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Neptune reste dans mes orbes de Mars, et combien de personnes la rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les aspects de Neptune en transit à Mars dans le thème natal" }
@@ -50,7 +50,7 @@ Un thème natal qui porte [Mars conjonction Neptune](/astrology/mars-conjunct-ne
 
 Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Neptune passe environ deux ans et sept mois sur Mars, rarement moins de vingt-deux mois. Trois fois dans la plupart des passages, et cinq fois dans un sur quatre environ, Neptune franchit le degré exact : le thème revient par vagues plutôt que d’un seul coup.
 
-Un peu plus de la moitié des personnes nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans, car Neptune parcourt moins de la moitié du zodiaque en ce temps-là ; les autres la rencontrent une fois.
+Un peu plus de la moitié des personnes nées entre 1930 et 2009 ne rencontrent jamais cette conjonction avant 80 ans, car Neptune parcourt moins de la moitié du zodiaque en ce temps-là ; les autres la rencontrent une fois.
 
 Mars gouverne le Bélier, et Neptune se trouve en Bélier de 2026 à 2039 : ces années apportent la conjonction à toutes les personnes nées avec Mars dans son propre signe ([Mars en Bélier](/astrology/mars-in-aries/)), nées à quelques semaines ou quelques mois d’écart, environ tous les deux ans, puisque Mars met à peu près ce temps-là à faire le tour du zodiaque.
 

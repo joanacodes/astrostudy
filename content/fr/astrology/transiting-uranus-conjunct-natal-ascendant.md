@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/ascendant", "/astrology/uranus", "/astrology/uranus-transit-1st-house", "/astrology/uranus-transit-12th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Uranus en transit conjonction Ascendant du thème natal ?"
-    a: "Uranus passe sur le degré qui se levait à votre naissance, une fois au plus dans une vie. J’y lis un changement d’orientation : votre façon de commencer, de vous présenter et de réagir au premier contact se met à correspondre à une version plus récente de vous. Le transit change votre abord, pas votre caractère, et ne prédit aucun événement."
+    a: "Uranus franchit votre degré ascendant, l’horizon est du moment de votre naissance. J’y lis un changement d’orientation : votre façon de commencer, de vous présenter et de réagir au premier contact se met à correspondre à une version plus récente de vous. Le transit change votre abord, pas votre caractère, et ne prédit aucun événement."
   - q: "Combien de temps dure Uranus sur l’Ascendant ?"
-    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant le degré exact à 1° après, et onze environ quand le passage est rapide. Dans plus de neuf cas sur dix, Uranus franchit trois fois l’Ascendant, en reculant puis en reprenant sa marche, avant de s’installer dans la maison 1."
+    a: "Le passage dure une vingtaine de mois, de 1,5° avant votre degré ascendant à 1° au-delà, et onze environ quand il est rapide. Dans plus de neuf cas sur dix, Uranus franchit trois fois l’Ascendant, en reculant puis en avançant de nouveau, avant de s’installer dans la maison 1."
   - q: "Faut-il l’heure de naissance pour Uranus conjonction Ascendant ?"
     a: "Oui, entièrement. L’Ascendant est le degré qui se levait à la minute de votre naissance : sans l’heure, Uranus n’a rien à franchir. Même une heure notée, arrondie au quart d’heure, laisse un degré ou deux de doute, donc des mois de doute sur ce transit. Sans heure, je ne le lis pas, ni rien d’autre."
   - q: "Est-ce que je rencontrerai Uranus conjonction mon Ascendant ?"
@@ -36,7 +36,7 @@ Une fois dans une vie au plus, Uranus atteint le degré qui se levait à votre n
 
 ## Ce qui change {#ce-qui-change}
 
-L'[Ascendant](/astrology/ascendant/), c’est votre orientation : l’angle sous lequel vous abordez la vie, le premier geste que vous faites avant d’avoir eu le temps de penser. [Uranus](/astrology/uranus/) différencie et libère. Une [conjonction](/astrology/conjunction/) active deux fonctions en une seule : sous ce [transit](/astrology/transits/), votre façon de commencer et de vous présenter prend le besoin de se distinguer propre à Uranus.
+L’[Ascendant](/astrology/ascendant/), c’est votre orientation : l’angle sous lequel vous abordez la vie, le premier geste que vous faites avant d’avoir eu le temps de penser. [Uranus](/astrology/uranus/) différencie et libère. Une [conjonction](/astrology/conjunction/) active deux fonctions en une seule : sous ce [transit](/astrology/transits/), votre façon de commencer et de vous présenter prend le besoin de se distinguer propre à Uranus.
 
 Cela se voit souvent dans des changements visibles et quotidiens : une autre façon de vous présenter, de vous habiller, de commencer la journée ou un projet ; moins de patience pour un rôle appris à jouer en arrivant ; plus d’envie qu’on vous rencontre comme vous êtes. Cela peut libérer, ou exposer, ou les deux. Dans tous les cas, la première impression que vous donnez se met à correspondre à une version plus récente de vous.
 

@@ -30,10 +30,10 @@ faq:
   - q: "Quand vient le carré de Pluton à ma Lune ?"
     a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, le carré touche les Lunes en Taureau et en Scorpion. Environ sept personnes sur huit nées entre 1930 et 2009 rencontrent l’un des deux carrés à la Lune avant 80 ans. Les années de la vôtre dépendent du degré de la Lune, donc de votre heure de naissance."
 sources:
-  - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le carré dans mes orbes, et combien de personnes le rencontrent avant 80 ans" }
+  - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le carré dans mes orbes, et combien de personnes rencontrent ce carré avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à la Lune, un par un" }
 ---
-Parmi les contacts de Pluton avec la Lune, le carré est celui que la plupart des gens rencontrent : environ sept personnes sur huit avant 80 ans. Pendant deux à trois ans, il place la planète du renouveau à angle droit des habitudes qui vous servent à vous sentir en sécurité, et celles qui ne fonctionnent plus finissent par céder.
+Parmi les contacts de Pluton avec la Lune, le carré est celui que la plupart des gens rencontrent : environ sept personnes sur huit avant 80 ans. Pendant deux à trois ans, ce carré place la planète du renouveau à angle droit des habitudes qui vous servent à vous sentir en sécurité, et celles qui ne fonctionnent plus finissent par céder.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -49,9 +49,9 @@ Avec la Lune en maison 2 et Pluton qui traverse la maison 11 ([Pluton en transit
 
 Avec les orbes que j’utilise pour dater, de 1,5° avant l’exactitude à 1° après, le carré dure environ deux ans et huit mois, et près de quatre ans pour les passages les plus longs. Dans environ trois passages sur cinq, Pluton franchit le carré exact trois fois ; dans les autres, cinq fois, sur environ trois ans et sept mois.
 
-Le cercle de votre Lune porte deux carrés, à un quart de tour de chaque côté. Pour atteindre les deux, Pluton devrait parcourir la moitié du zodiaque, et une vie lui en laisse moins ; mais presque chaque Lune a l’un des deux à portée : environ une personne sur huit née entre 1930 et 2009 n’en rencontre aucun avant 80 ans. L’un des carrés vient après la conjonction ([Pluton en transit conjonction Lune du thème natal](/astrology/transiting-pluto-conjunct-natal-moon/)) et le sextile ([Pluton en transit sextile Lune du thème natal](/astrology/transiting-pluto-sextile-natal-moon/)), sur le chemin du trigone ([Pluton en transit trigone Lune du thème natal](/astrology/transiting-pluto-trine-natal-moon/)) ; l’autre vient après l’opposition ([Pluton en transit opposition Lune du thème natal](/astrology/transiting-pluto-opposite-natal-moon/)), sur le chemin du retour.
+Le cercle de votre Lune porte deux carrés, à un quart de tour de chaque côté. Pour atteindre les deux, Pluton devrait parcourir la moitié du zodiaque, et une vie n’y suffit pas ; mais presque chaque Lune a l’un des deux à portée : environ une personne sur huit née entre 1930 et 2009 n’en rencontre aucun avant 80 ans. L’un des carrés vient après la conjonction ([Pluton en transit conjonction Lune du thème natal](/astrology/transiting-pluto-conjunct-natal-moon/)) et le sextile ([Pluton en transit sextile Lune du thème natal](/astrology/transiting-pluto-sextile-natal-moon/)), sur le chemin du trigone ([Pluton en transit trigone Lune du thème natal](/astrology/transiting-pluto-trine-natal-moon/)) ; l’autre vient après l’opposition ([Pluton en transit opposition Lune du thème natal](/astrology/transiting-pluto-opposite-natal-moon/)), sur le chemin du retour.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044, le carré touche les Lunes en Taureau et en Scorpion.
+Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), le carré touche les Lunes en Taureau et en Scorpion.
 
 ## Ce qui aide {#ce-qui-aide}
 

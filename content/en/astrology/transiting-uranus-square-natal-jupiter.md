@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Jupiter", "square", "transits"]
 weight: 1707
 glyph: "♅□♃"
-definition: "Transiting Uranus square natal Jupiter is Uranus 90° from the degree Jupiter held at your birth, for about twenty months, twice in most lives and some forty years apart. Your principles meet an idea they didn’t plan for, and the friction asks you to revise them. I read it as an update to your outlook, never a loss of faith."
+definition: "Transiting Uranus square natal Jupiter is Uranus at 90° to the degree Jupiter held at your birth, often once in youth and again in middle age. Your principles meet an idea they didn’t plan for, asking you to revise them. I read it as an update to your outlook, never a loss of faith."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Jupiter ♃: growth, meaning and what you believe" }
@@ -20,13 +20,13 @@ facts:
 related: ["/astrology/uranus", "/astrology/jupiter", "/astrology/square", "/astrology/jupiter-square-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus square natal Jupiter mean?"
-    a: "Uranus stands 90° from your natal Jupiter, the part of your chart that builds meaning and belief. I read it as constructive friction: a framework you grew by stops explaining enough, and a new idea pushes for room. The square asks you to revise your principles, not to throw them all out."
+    a: "Uranus sits a quarter of the zodiac away from your natal Jupiter, where your beliefs and sense of meaning grow. I read it as constructive friction: a framework you grew by stops explaining enough, and a new idea pushes for room. The square asks you to revise your principles, not to throw them all out."
   - q: "How long does Uranus square Jupiter last?"
-    a: "Long enough to revise a framework of belief rather than drop it: about twenty months within my orbs, from 1½° before the exact square to 1° after, and about eleven for the quickest passes. In more than nine cases out of ten Uranus makes the exact square three times, forward, backward while retrograde, then forward again."
+    a: "Long enough to revise a framework of belief rather than drop it. Uranus enters my orb 1½° before the exact square and leaves it 1° after, about twenty months later, or eleven in the quickest passes, and in more than nine cases out of ten it is exact three times on the way."
   - q: "Is Uranus square Jupiter bad?"
     a: "No. A square is friction, and friction is how a set of beliefs gets tested and updated. The season can feel unsettling while an outlook you relied on stops fitting, but it isn’t a verdict on your choices, and nothing about it predicts a loss, a failure or any other event."
   - q: "At what age does Uranus square Jupiter?"
-    a: "It depends on where Jupiter stood in relation to Uranus at your birth. The two squares come about forty years apart; in the site’s count, someone born at the start of 1945 met the first before the age of 3, and someone born at the start of 1985 at about 30."
+    a: "Jupiter moves through a sign a year, so a single year’s difference in birth can move this transit by several years. In the site’s count, the first square came at about 19 for someone born at the start of 1955 and at about 9 for the start of 1975."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the square stays within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to natal Jupiter" }
@@ -41,7 +41,7 @@ The friction usually starts in the frame rather than in the facts. A school of t
 
 I read this square as an update, not a conversion. Uranus can mistake difference for accuracy, and Jupiter can take size for wisdom; together they make a leap look like growth. The useful work is slower: keep the principles that still hold, and revise the ones that have stopped describing your life.
 
-With Jupiter in your 6th and Uranus crossing your 9th ([Uranus transiting the 9th house](/astrology/uranus-transit-9th-house/)), a new outlook, from study, travel or another culture, rubs against the way your days and your work are organised. Those houses rest on your birth time, and a chart without one is a chart I don't read ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Jupiter in your 6th and Uranus crossing your 9th ([Uranus transiting the 9th house](/astrology/uranus-transit-9th-house/)), a new outlook, from study, travel or another culture, rubs against the way your days and your work are organised. Finding your 6th and your 9th takes your birth time, and without one I don't read a chart at all ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

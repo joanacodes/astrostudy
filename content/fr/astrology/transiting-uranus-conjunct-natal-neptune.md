@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Neptune", "conjonction", "transits"]
 weight: 1719
 glyph: "♅☌♆"
-definition: "Uranus en transit conjonction Neptune du thème natal, c’est Uranus qui passe sur le degré qu’occupait Neptune à votre naissance, une vingtaine de mois, une fois au plus. Invention et imagination agissent ensemble : un idéal se renouvelle, un rêve trouve une forme neuve. L’âge dépend de l’année de naissance, et certaines personnes ne la vivent jamais."
+definition: "Uranus en transit conjonction Neptune du thème natal, c’est Uranus qui rattrape le degré qu’occupait Neptune à votre naissance, une fois au plus, à un âge qui baisse à chaque décennie de naissance jusqu’à la rencontre des deux planètes en 1993. Invention et imagination agissent ensemble : un idéal se renouvelle, un rêve trouve une forme neuve."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Neptune ♆ : imagination, idéaux et compassion" }
@@ -21,13 +21,13 @@ facts:
 related: ["/astrology/uranus", "/astrology/neptune", "/astrology/conjunction", "/astrology/uranus-conjunct-neptune", "/astrology/generational-placements-by-birth-year"]
 faq:
   - q: "Que veut dire Uranus en transit conjonction Neptune du thème natal ?"
-    a: "Uranus passe sur le degré qu’occupait Neptune à votre naissance, une fois au plus. Imagination et invention agissent ensemble : un rêve trouve une forme neuve, un idéal se rafraîchit ou se remplace, l’inspiration arrive par de nouveaux outils ou de nouvelles idées. J’y lis un renouveau de ce que vous imaginez et croyez, à éprouver lentement."
+    a: "Une fois dans une vie au plus, Uranus rejoint Neptune de votre thème sur le même degré. Imagination et invention agissent ensemble : un rêve trouve une forme neuve, un idéal se rafraîchit ou se remplace, l’inspiration arrive par de nouveaux outils ou de nouvelles idées. J’y lis un renouveau de ce que vous imaginez et croyez, à éprouver lentement."
   - q: "Combien de temps dure Uranus conjonction Neptune ?"
-    a: "Une vingtaine de mois, avec mes orbes de 1,5° avant la conjonction exacte à 1° après, et onze environ quand le passage est court. Dans plus de neuf cas sur dix, Uranus passe trois fois sur Neptune, à cause de la boucle rétrograde qu’Uranus décrit chaque année : le temps d’éprouver une vision neuve, pas seulement de l’entrevoir."
+    a: "Une vision neuve a le temps d’être entrevue, puis mise à l’épreuve : une vingtaine de mois, avec mes orbes de 1,5° avant la conjonction exacte à 1° après, et onze environ quand le passage est court. Dans plus de neuf cas sur dix, Uranus atteint Neptune, repasse sur ce degré en rétrogradant, puis le franchit une troisième fois."
   - q: "À quel âge Uranus passe sur Neptune ?"
-    a: "Cela dépend de l’année de naissance. Avant la rencontre des deux planètes en 1993, Uranus rattrapait Neptune, si bien que le transit venait plus tôt pour les naissances plus récentes : vers 30 ans pour une naissance début 1935, vers 8 ans pour une naissance début 1975. Pour une naissance juste après 1993, il ne vient pas avant 80 ans."
+    a: "Cela dépend de l’année de naissance. Avant la rencontre des deux planètes en 1993, Uranus rattrapait Neptune, si bien que le transit venait plus tôt pour les naissances plus récentes : vers 30 ans pour une naissance début 1935, vers 8 ans pour début 1975. De 1994 à 1999, il ne vient le plus souvent pas avant 80 ans."
   - q: "Pourquoi certaines personnes ne vivent-elles jamais Uranus conjonction Neptune ?"
-    a: "Parce qu’Uranus venait de dépasser Neptune à leur naissance. Pour la plupart des naissances du milieu et de la fin des années 1990, Uranus doit parcourir presque tout son tour de 84 ans pour revenir sur Neptune, et le transit tombe après 80 ans. Environ 1 personne sur 17 née entre 1930 et 2009 ne le rencontre jamais."
+    a: "Parce qu’Uranus venait de dépasser Neptune à leur naissance. Pour la plupart des naissances du milieu et de la fin des années 1990, Uranus doit parcourir presque tout son tour de 84 ans pour revenir sur Neptune, et le transit tombe après 80 ans. Parmi toutes les naissances de 1930 à 2009, cela fait environ 1 personne sur 17."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "l’âge de la conjonction selon l’année de naissance, et combien ne la rencontrent pas avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à Neptune dans le thème natal" }

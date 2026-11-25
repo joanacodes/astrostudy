@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Saturne", "sextile", "transits"]
 weight: 1711
 glyph: "♅⚹♄"
-definition: "Uranus en transit sextile Saturne du thème natal, c’est Uranus à 60° du degré qu’occupait Saturne à votre naissance, une vingtaine de mois, deux fois le plus souvent, parfois à plus de cinquante ans d’écart. Structure et changement coopèrent : une routine, une méthode ou un engagement peut se moderniser sans être démoli. J’y lis une réforme par la proposition."
+definition: "Uranus en transit sextile Saturne du thème natal, c’est Uranus à 60° du degré qu’occupait Saturne à votre naissance, vingt mois d’ouverture pour mettre à jour les devoirs que vous portez. Structure et changement coopèrent : une routine, une méthode ou un engagement peut se moderniser sans être démoli. J’y lis une réforme par la proposition."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Saturne ♄ : structure, responsabilité et temps" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/saturn", "/astrology/sextile", "/astrology/saturn-sextile-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit sextile Saturne du thème natal ?"
-    a: "Pendant une vingtaine de mois, Uranus se trouve à 60° de Saturne dans votre thème, la planète des devoirs que vous portez. J’y lis une ouverture pour mettre à jour quelque chose dont vous avez la charge, une routine, une méthode, un long engagement, par la proposition plutôt que par la protestation. La structure reste, une partie se modernise, si vous saisissez l’occasion."
+    a: "Pendant une vingtaine de mois, Uranus se trouve à 60° de Saturne dans votre thème, la planète du devoir. J’y lis une ouverture pour mettre à jour quelque chose dont vous avez la charge, une routine, une méthode, un long engagement, par la proposition plutôt que par la protestation. La structure reste, une partie se modernise, si vous saisissez l’occasion."
   - q: "Combien de temps dure Uranus sextile Saturne ?"
-    a: "Assez pour que la prudence de Saturne se rallie au changement : une vingtaine de mois, de 1,5° avant le sextile exact à 1° après, et onze environ pour les passages les plus courts. Dans plus de neuf cas sur dix, la boucle rétrograde annuelle donne trois contacts exacts."
+    a: "La prudence de Saturne a le temps de se rallier au changement : le sextile tient une vingtaine de mois, de 1,5° avant l’exactitude à 1° après, et onze environ pour les passages les plus courts. Dans plus de neuf cas sur dix, la boucle rétrograde annuelle donne trois contacts exacts."
   - q: "À quel âge arrive le sextile d’Uranus à Saturne ?"
-    a: "Quand Uranus atteint l’un des deux points situés à 60° de Saturne : l’âge suit donc l’angle entre les deux planètes à votre naissance, vers 9 ans pour une naissance début 1985 et vers 46 ans pour début 1975 dans le décompte du site. La plupart des gens en rencontrent deux avant 80 ans."
+    a: "Quand Uranus atteint l’un des deux points situés à 60° de Saturne : l’âge suit donc l’angle entre les deux planètes à votre naissance, vers 9 ans pour une naissance début 1985 et vers 46 ans pour début 1975 dans le décompte du site. Avant 80 ans, la plupart des gens en ont connu deux."
   - q: "Est-ce qu’Uranus sextile Saturne est un bon transit ?"
     a: "C’est l’un des transits d’Uranus à Saturne les plus faciles, parce que changement et structure coopèrent. Mais un sextile est une occasion, pas un résultat : rien ne se passe si vous n’agissez pas. Il ne promet rien pour le travail, l’argent ou quoi que ce soit ; il rend la réforme plus facile pour un temps."
 sources:

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Jupiter", "sextile", "transits"]
 weight: 1706
 glyph: "♅⚹♃"
-definition: "Uranus en transit sextile Jupiter du thème natal, c’est Uranus à 60° du degré qu’occupait Jupiter à votre naissance, une vingtaine de mois, deux fois le plus souvent, à 28 ou 56 ans d’écart. Une idée, une méthode ou un domaine neuf peut élargir votre compréhension de votre vie, à condition de vous en saisir. J’y lis une invitation, pas un cadeau."
+definition: "Uranus en transit sextile Jupiter du thème natal, c’est Uranus à 60° du degré qu’occupait Jupiter à votre naissance, une vingtaine de mois, deux fois le plus souvent, à 27 ou 56 ans d’écart. Une idée, une méthode ou un domaine neuf peut élargir votre vision, à condition de vous en saisir. J’y lis une invitation, pas un cadeau."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Jupiter ♃ : croissance, sens et convictions" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/jupiter", "/astrology/sextile", "/astrology/jupiter-sextile-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit sextile Jupiter du thème natal ?"
-    a: "Uranus se trouve à 60° du degré de Jupiter dans votre thème natal. J’y lis une ouverture dans votre vision des choses : un sujet, une méthode ou une façon de penser encore jamais essayée commence à éclairer ce que vous saviez déjà. Rien n’arrive tout seul ; le sextile récompense qui suit la piste."
+    a: "Un sextile relie Uranus à votre Jupiter, planète du sens et de la croissance. J’y lis une ouverture dans votre vision des choses : un sujet, une méthode ou une façon de penser encore jamais essayée commence à éclairer ce que vous saviez déjà. Rien n’arrive tout seul ; le sextile récompense qui suit la piste."
   - q: "Combien de temps dure Uranus sextile Jupiter ?"
     a: "Une vingtaine de mois, de 1,5° avant le sextile exact à 1° après, et onze mois environ pour les passages les plus courts : plus long que n’importe quel transit que forme Jupiter. Le plus souvent, Uranus franchit trois fois l’angle exact en chemin, la boucle rétrograde de chaque année repassant sur les mêmes degrés."
   - q: "À quel âge arrive le sextile d’Uranus à Jupiter ?"

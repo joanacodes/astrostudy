@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce que Neptune carré Jupiter veut dire malchance ou perte d’argent ?"
     a: "Non. Je ne lis pas Jupiter comme la chance, ni aucun transit comme l’annonce d’un gain ou d’une perte. Ce carré décrit des convictions et des projets mis à l’épreuve par les idéaux : les choses peuvent paraître plus grandes ou plus sûres qu’elles ne sont, ce qui invite à vérifier, pas à prévoir un échec."
   - q: "À quel âge vient Neptune carré Jupiter ?"
-    a: "À presque tout âge, selon la distance entre Jupiter et Neptune à votre naissance : dans les premiers mois pour une naissance début 1955, vers 18 ans pour 1995, vers 49 ans pour 1985, vers 70 ans pour 1935. Rares sont les personnes nées entre 1930 et 2009 qui atteignent 80 ans sans l’avoir rencontré."
+    a: "À presque tout âge, selon la distance entre Jupiter et Neptune à votre naissance : dans les premiers mois pour une naissance début 1955, vers 18 ans pour 1995, vers 49 ans pour 1985, vers 70 ans pour 1935. Rares sont les personnes nées entre 1930 et 2009 qui atteignent 80 ans sans avoir rencontré ce carré."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le carré reste dans mes orbes, à quels âges il vient, et combien de personnes le rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les aspects de Neptune en transit à Jupiter dans le thème natal" }
@@ -50,7 +50,7 @@ Avec [Jupiter carré Neptune](/astrology/jupiter-square-neptune/) dans le thème
 
 Neptune garde le carré environ deux ans et sept mois dans mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois dans les passages les plus rapides, en touchant le point exact trois fois en règle générale et cinq fois dans un passage sur quatre environ : assez longtemps pour changer d’avis sur une chose qui compte, et pour en avoir la certitude.
 
-Presque toutes les personnes nées entre 1930 et 2009 le rencontrent avant 80 ans, à un âge que fixe leur thème : dans les premiers mois pour le début de 1955, vers 1 an pour 1975, 18 ans pour 1995, 37 ans pour 1945, 39 ans pour 1965, 49 ans pour 1985, 67 ans et demi pour 2005 et 70 ans pour 1935.
+Presque toutes les personnes nées entre 1930 et 2009 rencontrent ce carré avant 80 ans, à un âge que fixe leur thème : dans les premiers mois pour le début de 1955, vers 1 an pour 1975, 18 ans pour 1995, 37 ans pour 1945, 39 ans pour 1965, 49 ans pour 1985, 67 ans et demi pour 2005 et 70 ans pour 1935.
 
 Une personne née début 1965 rencontre avant 80 ans chacun des contacts de Neptune avec Jupiter, ce qui est rare : [Neptune en transit opposition Jupiter du thème natal](/astrology/transiting-neptune-opposite-natal-jupiter/) dans les premiers mois, [Neptune en transit trigone Jupiter du thème natal](/astrology/transiting-neptune-trine-natal-jupiter/) vers 26 ans, ce carré vers 39 ans, [Neptune en transit sextile Jupiter du thème natal](/astrology/transiting-neptune-sextile-natal-jupiter/) vers 53 ans et [Neptune en transit conjonction Jupiter du thème natal](/astrology/transiting-neptune-conjunct-natal-jupiter/) à presque 80 ans.
 

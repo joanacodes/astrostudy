@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Neptune", "square", "transits"]
 weight: 1721
 glyph: "♅□♆"
-definition: "Transiting Uranus square natal Neptune is Uranus 90° from the degree Neptune held at your birth, for about twenty months, usually twice in a life. An ideal meets the urge to change it: a dream or a belief stops matching what you see. I read it as friction that keeps the longing and updates its object."
+definition: "Transiting Uranus square natal Neptune is Uranus at a right angle to your natal Neptune, its first pass coming about five years earlier with each decade of birth since the late 1950s. An ideal meets the urge to change it. I read it as friction that renews a longing rather than ending it."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Neptune ♆: imagination, ideals and compassion" }
@@ -20,13 +20,13 @@ facts:
 related: ["/astrology/uranus", "/astrology/neptune", "/astrology/square", "/astrology/uranus-square-neptune", "/astrology/neptune-square"]
 faq:
   - q: "What does transiting Uranus square natal Neptune mean?"
-    a: "Uranus stands 90° from the degree your Neptune held at birth. I read it as friction between an ideal and the urge to change it: a dream, a cause or a belief stops matching what you see, and something new pushes in. The work is to keep the longing and change what it is attached to."
+    a: "Uranus squares your natal Neptune before 40, and often again some forty years later. I read it as friction between an ideal and the urge to change it: a dream, a cause or a belief stops matching what you see. The work is to keep the longing and change what it is attached to."
   - q: "How long does Uranus square Neptune last?"
-    a: "About twenty months within my orbs, from 1½° before the exact square to 1° after, and about eleven when the pass is short. In more than nine passes out of ten Uranus crosses the exact square three times, as it loops back and forth over the same degrees, so disappointment and re-imagining tend to come in rounds."
+    a: "Disappointment and re-imagining tend to come in rounds: more than nine passes in ten take Uranus over the exact square three times, back and forth over the same degrees. From 1½° before exact to 1° after, a pass lasts about twenty months, and about eleven when it is short."
   - q: "Is Uranus square Neptune the same as the Neptune square?"
     a: "No. The Neptune square is transiting Neptune squaring its own birth place, at about 41 for everyone. This transit is Uranus squaring your Neptune, twice in most lives, at ages set by your birth year. For people born in the 1950s the second one came in the same years as their Neptune square."
   - q: "At what age does Uranus square Neptune?"
-    a: "It depends on the birth year. In the site’s count, about 35 for someone born at the start of 1965 and about 16 for someone born at the start of 2005, the first square coming about five years earlier with each decade of birth. The second follows some forty years after the first."
+    a: "Someone born at the start of 1965 met the first at about 35, in the site’s count; for 1985 the age is about 25, and for 2005 about 16. The second follows the first by some forty years."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the age at the first square by birth year, and how long it stays within my orbs" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to natal Neptune" }

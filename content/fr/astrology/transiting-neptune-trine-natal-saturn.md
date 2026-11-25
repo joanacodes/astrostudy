@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce que Neptune trigone Saturne est un bon moment pour bâtir quelque chose ?"
     a: "C’est l’une des meilleures saisons pour un travail patient et qui a du sens : un métier, une pratique, un long projet ou un engagement envers les autres. Le trigone fait coopérer la discipline et l’imaginaire, mais il ne garantit aucun résultat ; ce que vous bâtissez pendant ces années dépend de ce que vous y mettez."
   - q: "Quand vient Neptune trigone Saturne ?"
-    a: "Cela dépend de votre Saturne. Dans le décompte du site, il vient vers 14 ans pour une naissance début 1945, 37 ans pour 1985, 42 ans pour 1975 et 64 ans pour 1955 ; pour une naissance début 1965, pas avant 80 ans. Environ 1 personne sur 7 arrive à 80 ans sans l’avoir connu."
+    a: "Cela dépend de votre Saturne. Dans le décompte du site, ce trigone vient vers 14 ans pour une naissance début 1945, 37 ans pour 1985, 42 ans pour 1975 et 64 ans pour 1955 ; pour une naissance début 1965, pas avant 80 ans. Environ 1 personne sur 7 arrive à 80 ans sans l’avoir connu."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le trigone reste dans mes orbes, à quels âges il vient, et combien de personnes le rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les aspects de Neptune en transit à Saturne dans le thème natal" }
@@ -48,7 +48,7 @@ Avec Saturne en maison 10, le trigone vient souvent pendant que Neptune traverse
 
 Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le trigone tient environ deux ans et sept mois, et au moins vingt-deux, assez longtemps pour qu’une habitude nouvelle fasse partie de vous. La plupart des passages rendent le trigone exact trois fois ; un sur quatre environ, cinq fois.
 
-Avant 80 ans, il vient à environ 6 personnes sur 7 nées entre 1930 et 2009, et à certaines deux fois. Le décompte du site le place vers 14 ans pour une naissance début 1945, 17 ans pour 2005, 19 ans pour 1935, 37 ans pour 1985, 42 ans pour 1975, 64 ans pour 1955 et 73 ans et demi pour 1995. Pour une naissance début 1965, il ne vient pas avant 80 ans, alors que [Neptune en transit conjonction Saturne du thème natal](/astrology/transiting-neptune-conjunct-natal-saturn/) vient, vers 46 ans.
+Avant 80 ans, ce trigone vient à environ 6 personnes sur 7 nées entre 1930 et 2009, et à certaines deux fois. Le décompte du site place ce trigone vers 14 ans pour une naissance début 1945, 17 ans pour 2005, 19 ans pour 1935, 37 ans pour 1985, 42 ans pour 1975, 64 ans pour 1955 et 73 ans et demi pour 1995. Pour une naissance début 1965, il ne vient pas avant 80 ans, alors que [Neptune en transit conjonction Saturne du thème natal](/astrology/transiting-neptune-conjunct-natal-saturn/) vient, vers 46 ans.
 
 Une personne née début 1975 rencontre [Neptune en transit opposition Saturne du thème natal](/astrology/transiting-neptune-opposite-natal-saturn/) vers 15 ans, ce trigone vers 42 ans, [Neptune en transit carré Saturne du thème natal](/astrology/transiting-neptune-square-natal-saturn/) vers 56 ans et [Neptune en transit sextile Saturne du thème natal](/astrology/transiting-neptune-sextile-natal-saturn/) vers 69 ans et demi ; la conjonction ne vient pas pour elle avant 80 ans.
 

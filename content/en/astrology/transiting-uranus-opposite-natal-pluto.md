@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Pluto", "opposition", "transits"]
 weight: 1728
 glyph: "♅☍♇"
-definition: "Transiting Uranus opposite natal Pluto is Uranus 180° from the degree Pluto held at your birth, for about twenty months, once in a life. The urge to break free faces deep attachments and patterns of power, often through others. I read it as a call to rebalance seen from both sides, never as an ending."
+definition: "Transiting Uranus opposite natal Pluto is Uranus facing your natal Pluto from the far side of the zodiac, once for everyone: at about 62 for births of 1930, at about 23 for births of 2009. The urge to break free faces deep attachments and power, often through others, and asks for balance."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Pluto ♇: depth, power and renewal" }
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/pluto", "/astrology/opposition", "/astrology/uranus-opposite-pluto", "/astrology/pluto-in-sagittarius"]
 faq:
   - q: "What does transiting Uranus opposite natal Pluto mean?"
-    a: "Uranus stands 180° from the degree your Pluto held at birth, once in a life. I read it as the urge to break free facing deep attachments and patterns of power, often through someone else: a family system, an institution, an unequal relationship. It asks for a rebalancing seen from both sides, and predicts no ending."
+    a: "Once in a life, Uranus reaches the sign and degree opposite your natal Pluto. I read it as the urge to break free facing deep attachments and patterns of power, often through someone else: a family system, an institution, an unequal relationship. It asks for a rebalancing seen from both sides, and predicts no ending."
   - q: "How long does Uranus opposite Pluto last?"
-    a: "About twenty months within my orbs, which run from 1½° before the exact opposition to 1° after, and about eleven for the briefest passes. In more than nine passes out of ten Uranus stands exactly opposite your Pluto three times, once while it moves backwards, which gives a power arrangement time to be seen, questioned and rebalanced."
+    a: "A power arrangement has time to be seen, questioned and rebalanced, because the opposition is usually exact three times, once with Uranus moving backwards. The pass runs from 1½° before exact to 1° after, about twenty months, and about eleven at its briefest."
   - q: "Who has Uranus opposite Pluto now?"
-    a: "People born from January 1995 to November 2008, with Pluto in Sagittarius. Uranus is in Gemini until 2033, opposite that Pluto, so they meet the transit in these years, at about 24 to 30. Everyone born between 1930 and 2009 meets it once, at an age set by the birth year."
+    a: "The Sagittarius Pluto generation, born from January 1995 to November 2008: from Gemini, until 2033, Uranus stands opposite their Pluto, and they meet it at about 24 to 30. For someone born at the start of 1965 it came at about 42."
   - q: "At what age does Uranus oppose Pluto?"
     a: "Younger with every decade of birth: in the site’s count, about 59 for someone born at the start of 1935, about 42 for 1965, about 34 for 1985 and about 26 for 2005. Nobody born in those years has the opposition in the birth chart; everyone meets it once by transit."
 sources:
@@ -47,11 +47,11 @@ With Pluto in your 6th and Uranus crossing your 12th ([Uranus transiting the 12t
 
 Within my orbs, 1½° before exact to 1° after, the opposition lasts about twenty months, eleven when the pass is short, and its three exact hits, in more than nine passes out of ten, each show the pattern of power from a slightly different side. Every birth from 1930 to 2009 meets it once before 80: no generation escapes it, and none gets a second.
 
-Uranus in Gemini, until 2033, faces every natal Pluto in Sagittarius ([Pluto in Sagittarius](/astrology/pluto-in-sagittarius/)), the Pluto of births from January 1995 to November 2008: they meet this opposition now, at about 24 to 30, younger than any generation born before them.
+This opposition belongs now to the people born with [Pluto in Sagittarius](/astrology/pluto-in-sagittarius/), from January 1995 to November 2008: Uranus, in Gemini until 2033, reaches the point opposite their Pluto when they are about 24 to 30, younger than any generation born before them.
 
-The age has fallen with every decade of birth: in the site's count, about 59 for someone born at the start of 1935, about 47 for 1955, about 37 for 1975 and about 26 for 2005. No one born in those years has [Uranus opposite Pluto](/astrology/uranus-opposite-pluto/) in the birth chart, so the pair's polarity reaches all of them by transit only.
+The age has fallen with every decade of birth: in the site's count, about 59 for someone born at the start of 1935, about 47 for 1955, about 37 for 1975 and about 26 for 2005. The two planets last stood opposite each other in the sky in 1901 and 1902, so no one born from 1930 to 2009 has [Uranus opposite Pluto](/astrology/uranus-opposite-pluto/) in the birth chart, and the pair's polarity reaches all of them by transit only.
 
-[Transiting Uranus trine natal Pluto](/astrology/transiting-uranus-trine-natal-pluto/) comes about fourteen years before and after the opposition, [transiting Uranus square natal Pluto](/astrology/transiting-uranus-square-natal-pluto/) about twenty-one, and [transiting Uranus sextile natal Pluto](/astrology/transiting-uranus-sextile-natal-pluto/) and [transiting Uranus conjunct natal Pluto](/astrology/transiting-uranus-conjunct-natal-pluto/) lie on the far side of the round.
+For the generation meeting it now, born from 1995 to 2008, [transiting Uranus trine natal Pluto](/astrology/transiting-uranus-trine-natal-pluto/) came about fourteen years earlier, in childhood or the teens, and comes again about fourteen years later; [transiting Uranus square natal Pluto](/astrology/transiting-uranus-square-natal-pluto/) stands some twenty-one years off on either side, and [transiting Uranus sextile natal Pluto](/astrology/transiting-uranus-sextile-natal-pluto/) and [transiting Uranus conjunct natal Pluto](/astrology/transiting-uranus-conjunct-natal-pluto/) lie on the far side of the round.
 
 ## What helps {#what-helps}
 

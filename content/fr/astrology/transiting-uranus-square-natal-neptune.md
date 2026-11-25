@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Neptune", "carré", "transits"]
 weight: 1721
 glyph: "♅□♆"
-definition: "Uranus en transit carré Neptune du thème natal, c’est Uranus à 90° du degré qu’occupait Neptune à votre naissance, une vingtaine de mois, deux fois dans la plupart des vies. Un idéal rencontre l’envie de le changer : un rêve ne correspond plus à ce que vous voyez. J’y lis une friction qui garde l’élan et change son objet."
+definition: "Uranus en transit carré Neptune du thème natal, c’est Uranus à angle droit de votre Neptune, le premier passage venant environ cinq ans plus tôt à chaque décennie de naissance depuis la fin des années 1950. Un idéal rencontre l’envie de le changer. J’y lis une friction qui renouvelle une aspiration au lieu d’y mettre fin."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Neptune ♆ : imagination, idéaux et compassion" }
@@ -21,13 +21,13 @@ facts:
 related: ["/astrology/uranus", "/astrology/neptune", "/astrology/square", "/astrology/uranus-square-neptune", "/astrology/neptune-square"]
 faq:
   - q: "Que veut dire Uranus en transit carré Neptune du thème natal ?"
-    a: "Uranus se trouve à 90° du degré qu’occupait Neptune à votre naissance. J’y lis une friction entre un idéal et l’envie de le changer : un rêve, une cause ou une croyance ne correspond plus à ce que vous voyez, et quelque chose de neuf pousse. Le travail consiste à garder l’élan et à changer ce à quoi il s’attache."
+    a: "Uranus forme un carré avec votre Neptune avant 40 ans, puis souvent une quarantaine d’années plus tard. J’y lis une friction entre un idéal et l’envie de le changer : un rêve, une cause ou une croyance ne correspond plus à ce que vous voyez. Le travail consiste à garder l’élan et à changer ce à quoi il s’attache."
   - q: "Combien de temps dure Uranus carré Neptune ?"
-    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant le carré exact à 1° après, et onze environ quand le passage est court. Dans plus de neuf cas sur dix, Uranus franchit trois fois le carré exact, en faisant des allers-retours sur les mêmes degrés : déception et réinvention viennent souvent par étapes."
+    a: "Déception et réinvention viennent souvent par vagues : dans plus de neuf cas sur dix, Uranus repasse trois fois par le carré exact, en allers-retours sur les mêmes degrés. De 1,5° avant l’exactitude à 1° après, un passage dure une vingtaine de mois, et onze environ quand il est court."
   - q: "Uranus carré Neptune, est-ce la même chose que le carré de Neptune ?"
     a: "Non. Le carré de Neptune, c’est Neptune en transit en carré à sa position de naissance, vers 41 ans. Ici, c’est Uranus en carré à Neptune de votre thème, deux fois le plus souvent, à des âges que fixe l’année de naissance. Pour les naissances des années 1950, le second est tombé les mêmes années que le carré de Neptune."
   - q: "À quel âge arrive le carré d’Uranus à Neptune ?"
-    a: "Cela dépend de l’année de naissance. Dans le décompte du site, vers 35 ans pour une naissance début 1965 et vers 16 ans pour une naissance début 2005, le premier carré venant environ cinq ans plus tôt à chaque décennie de naissance. Le second suit le premier d’une quarantaine d’années."
+    a: "Dans le décompte du site, une naissance début 1965 a connu le premier vers 35 ans ; pour 1985, l’âge est d’environ 25 ans, et pour 2005 d’environ 16 ans. Le second suit le premier d’une quarantaine d’années."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "l’âge du premier carré selon l’année de naissance, et combien de temps il reste dans mes orbes" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à Neptune dans le thème natal" }
@@ -52,7 +52,7 @@ Pour les naissances à partir du milieu des années 1960, le premier carré vien
 
 Avec [Uranus carré Neptune](/astrology/uranus-square-neptune/) dans votre thème, pour une naissance entre 1951 et 1958, le premier carré était là à la naissance ou peu après, et le second est venu vers 40 ans, au milieu des années 1990, près de votre [carré de Neptune](/astrology/neptune-square/), Neptune en transit formant un carré à sa propre position. Une naissance début 1965 rencontre le second vers 79 ans, et quelques naissances n’en connaissent qu’un avant 80 ans, mais chacune en connaît au moins un.
 
-Les deux carrés se tiennent à vingt et un ans environ de part et d’autre d'[Uranus en transit conjonction Neptune du thème natal](/astrology/transiting-uranus-conjunct-natal-neptune/) et d'[Uranus en transit opposition Neptune du thème natal](/astrology/transiting-uranus-opposite-natal-neptune/) ; [Uranus en transit sextile Neptune du thème natal](/astrology/transiting-uranus-sextile-natal-neptune/) et [Uranus en transit trigone Neptune du thème natal](/astrology/transiting-uranus-trine-natal-neptune/) se trouvent à sept ans environ de chaque carré.
+Les deux carrés se tiennent à vingt et un ans environ de part et d’autre d’[Uranus en transit conjonction Neptune du thème natal](/astrology/transiting-uranus-conjunct-natal-neptune/) et d’[Uranus en transit opposition Neptune du thème natal](/astrology/transiting-uranus-opposite-natal-neptune/) ; [Uranus en transit sextile Neptune du thème natal](/astrology/transiting-uranus-sextile-natal-neptune/) et [Uranus en transit trigone Neptune du thème natal](/astrology/transiting-uranus-trine-natal-neptune/) se trouvent à sept ans environ de chaque carré.
 
 ## Ce qui aide {#ce-qui-aide}
 

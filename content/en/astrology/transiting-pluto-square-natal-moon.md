@@ -50,7 +50,7 @@ With the orbs I use for timing, from 1½° before exact to 1° after, the square
 
 There are two squares on your Moon's circle, a quarter-turn either side of it. To reach both, Pluto would have to travel half the zodiac, and a lifetime gives it less, but almost every Moon has one of them within reach: about one person in eight born between 1930 and 2009 meets neither by 80. One square comes after the conjunction ([Transiting Pluto conjunct natal Moon](/astrology/transiting-pluto-conjunct-natal-moon/)) and the sextile ([Transiting Pluto sextile natal Moon](/astrology/transiting-pluto-sextile-natal-moon/)), as Pluto heads for the trine ([Transiting Pluto trine natal Moon](/astrology/transiting-pluto-trine-natal-moon/)); the other comes after the opposition ([Transiting Pluto opposite natal Moon](/astrology/transiting-pluto-opposite-natal-moon/)), on the way back round.
 
-While Pluto is in Aquarius, until early 2044, it squares Moons in Taurus and Scorpio.
+While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it squares Moons in Taurus and Scorpio.
 
 ## What helps {#what-helps}
 

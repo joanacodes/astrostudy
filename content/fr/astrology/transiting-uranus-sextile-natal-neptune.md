@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Neptune", "sextile", "transits"]
 weight: 1720
 glyph: "♅⚹♆"
-definition: "Uranus en transit sextile Neptune du thème natal, c’est Uranus à 60° du degré qu’occupait Neptune à votre naissance, une vingtaine de mois, deux fois dans la plupart des vies. Invention et imagination coopèrent : un outil, un groupe ou une méthode donne un débouché concret à ce que vous rêviez. J’y lis une ouverture à saisir."
+definition: "Uranus en transit sextile Neptune du thème natal, c’est Uranus qui forme un sextile, 60°, avec Neptune de votre thème, une première fois avant 27 ans pour toute naissance de 1930 à 2009. Invention et imagination coopèrent : un outil ou une méthode donne à un rêve un débouché pratique, si vous vous en servez."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Neptune ♆ : imagination, idéaux et compassion" }
@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/uranus", "/astrology/neptune", "/astrology/sextile", "/astrology/uranus-sextile-neptune", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit sextile Neptune du thème natal ?"
-    a: "Uranus se trouve à 60° du degré qu’occupait Neptune à votre naissance, pendant une vingtaine de mois. J’y lis une ouverture entre invention et imagination : un outil, un groupe ou une méthode qui donne un débouché concret à ce que vous rêviez. Comme tout sextile, il faut s’en saisir ; rien ne se fait tout seul."
+    a: "Deux fois dans la plupart des vies, Uranus forme un sextile avec votre Neptune, planète de l’aspiration. J’y lis une ouverture entre invention et imagination : un outil, un groupe ou une méthode qui donne un débouché concret à ce que vous rêviez. Comme tout sextile, il faut s’en saisir ; rien ne se fait tout seul."
   - q: "Combien de temps dure Uranus sextile Neptune ?"
-    a: "Une vingtaine de mois, comptés de 1,5° avant le sextile exact à 1° après, et onze environ quand le passage est court. Dans plus de neuf cas sur dix, Uranus franchit trois fois le sextile exact, parce que cette planète recule environ cinq mois chaque année : assez pour apprendre l’outil dont un rêve a besoin."
+    a: "Le temps d’apprendre l’outil dont un rêve a besoin : une vingtaine de mois de 1,5° avant le sextile exact à 1° après, et onze environ pour un passage court. Uranus touche trois fois le sextile exact dans plus de neuf cas sur dix, parce que cette planète recule quelques mois chaque année."
   - q: "À quel âge arrive le sextile d’Uranus à Neptune ?"
     a: "Le premier vient tôt pour tout le monde : dans le décompte du site, au plus tard à 26 ans, de 1930 à 2009, vers 13 ans au milieu. Le second dépend de l’année de naissance : au plus tard au début de la quarantaine pour les naissances jusqu’au milieu des années 1960, après 60 ans pour les suivantes."
   - q: "Uranus sextile Neptune, est-ce un transit spirituel ?"
@@ -48,7 +48,7 @@ Avec Neptune en maison 5 et Uranus qui traverse votre maison 7 ([Uranus en trans
 
 Chaque sextile à Neptune donne une vingtaine de mois dans mes orbes, de 1,5° avant l’exactitude à 1° après, pour qu’un rêve trouve son outil : onze quand le passage est court, avec trois contacts exacts dans plus de neuf cas sur dix.
 
-Dans le décompte du site, le premier sextile est venu à 26 ans au plus tard pour toutes les naissances de 1930 à 2009, vers 13 ans au milieu : vers 7 ans pour une naissance début 1955, vers 23 ans pour une naissance début 1975. Pour beaucoup, il est tombé dans l’enfance, que je ne lis qu’après coup. La suite dépend de la position d’Uranus par rapport à Neptune à la naissance. Jusqu’au milieu des années 1960, Uranus se trouvait à plus de 60° derrière Neptune : les deux points de sextile restaient devant, et le second est venu au plus tard au début de la quarantaine, vers 32 ans pour une naissance début 1955. À partir des années 1970, Uranus avait déjà dépassé l’un des deux, et le second attend 60 ans passés, parfois 70, vers 74 ans pour une naissance début 1985.
+Dans le décompte du site, toutes les naissances de 1930 à 2009 rencontrent le premier sextile avant 27 ans, la moitié avant 13 ans environ : vers 7 ans pour une naissance début 1955, vers 23 ans pour une naissance début 1975. Pour beaucoup, il est tombé dans l’enfance, que je ne lis qu’après coup. La suite dépend de la position d’Uranus par rapport à Neptune à la naissance. Jusqu’au milieu des années 1960, Uranus se trouvait à plus de 60° derrière Neptune : les deux points de sextile restaient devant, et le second est venu au plus tard au début de la quarantaine, vers 32 ans pour une naissance début 1955. À partir des années 1970, Uranus avait déjà dépassé l’un des deux, et le second attend 60 ans passés, parfois 70, vers 74 ans pour une naissance début 1985.
 
 Avec [Uranus sextile Neptune](/astrology/uranus-sextile-neptune/) dans votre thème, pour une naissance entre 1963 et 1970, l’un des sextiles est venu dans votre première année environ, et l’autre à la fin de la vingtaine. Les naissances dont le second attend après 80 ans n’en connaissent qu’un, et aucune n’en est privée.
 

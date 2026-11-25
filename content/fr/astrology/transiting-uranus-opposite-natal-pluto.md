@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Pluton", "opposition", "transits"]
 weight: 1728
 glyph: "♅☍♇"
-definition: "Uranus en transit opposition Pluton du thème natal, c’est Uranus à 180° du degré qu’occupait Pluton à votre naissance, une vingtaine de mois, une fois dans une vie. L’envie de se libérer fait face aux attachements profonds et aux rapports de pouvoir, souvent à travers d’autres. J’y lis un appel à rééquilibrer, vu des deux côtés, jamais une fin."
+definition: "Uranus en transit opposition Pluton du thème natal, c’est Uranus face à votre Pluton, une fois pour tout le monde, vers 62 ans pour les naissances de 1930 et vers 23 ans pour celles de 2009. L’envie de se libérer fait face aux attachements profonds et au pouvoir, souvent à travers d’autres, et demande un équilibre."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Pluton ♇ : profondeur, pouvoir et renouveau" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/pluto", "/astrology/opposition", "/astrology/uranus-opposite-pluto", "/astrology/pluto-in-sagittarius"]
 faq:
   - q: "Que veut dire Uranus en transit opposition Pluton du thème natal ?"
-    a: "Uranus se trouve à 180° du degré qu’occupait Pluton à votre naissance, une fois dans une vie. J’y lis l’envie de se libérer face aux attachements profonds et aux rapports de pouvoir, souvent à travers quelqu’un : un système familial, une institution, une relation inégale. L’opposition demande un rééquilibrage vu des deux côtés, et ne prédit aucune fin."
+    a: "Une fois dans une vie, Uranus atteint le signe et le degré opposés à votre Pluton. J’y lis l’envie de se libérer face aux attachements profonds et aux rapports de pouvoir, souvent à travers quelqu’un : un système familial, une institution, une relation inégale. L’opposition demande un rééquilibrage vu des deux côtés, et ne prédit aucune fin."
   - q: "Combien de temps dure Uranus opposition Pluton ?"
-    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant l’opposition exacte à 1° après, et onze environ au plus bref. Dans plus de neuf cas sur dix, Uranus se trouve trois fois exactement en face de Pluton, dont une fois en reculant : le temps de voir un rapport de pouvoir, de le questionner et de le rééquilibrer."
+    a: "Un rapport de pouvoir a le temps d’être vu, questionné et rééquilibré, car l’opposition est le plus souvent exacte trois fois, dont une avec Uranus en marche arrière. Le passage va de 1,5° avant l’exactitude à 1° après : une vingtaine de mois, et onze environ au plus bref."
   - q: "Qui vit Uranus opposition Pluton en ce moment ?"
-    a: "Les personnes nées de janvier 1995 à novembre 2008, avec Pluton en Sagittaire. Uranus est en Gémeaux jusqu’en 2033, en face de cette position : elles rencontrent le transit ces années-ci, vers 24 à 30 ans. Toutes les personnes nées entre 1930 et 2009 le rencontrent une fois, à un âge que fixe l’année de naissance."
+    a: "La génération de Pluton en Sagittaire, née de janvier 1995 à novembre 2008 : depuis les Gémeaux, jusqu’en 2033, Uranus fait face à cette position, et elle rencontre le transit vers 24 à 30 ans. Pour une naissance début 1965, il est venu vers 42 ans."
   - q: "À quel âge arrive l’opposition d’Uranus à Pluton ?"
     a: "Plus tôt à chaque décennie de naissance : dans le décompte du site, vers 59 ans pour une naissance début 1935, vers 42 ans pour 1965, vers 34 ans pour 1985 et vers 26 ans pour 2005. Aucune naissance de ces années n’a l’opposition dans son thème natal ; toutes la rencontrent une fois par transit."
 sources:
@@ -48,11 +48,11 @@ Avec Pluton en maison 6 et Uranus qui traverse votre maison 12 ([Uranus en trans
 
 Dans mes orbes, de 1,5° avant l’exactitude à 1° après, l’opposition dure une vingtaine de mois, onze quand le passage est court, et ses trois contacts exacts, dans plus de neuf cas sur dix, montrent chacun le schéma de pouvoir sous un angle un peu différent. Chaque naissance de 1930 à 2009 la rencontre une fois avant 80 ans : aucune génération n’y échappe, aucune n’en a une seconde.
 
-Uranus en Gémeaux, jusqu’en 2033, fait face à toute position natale de Pluton en Sagittaire ([Pluton en Sagittaire](/astrology/pluto-in-sagittarius/)), celle des naissances de janvier 1995 à novembre 2008 : elles rencontrent cette opposition maintenant, vers 24 à 30 ans, plus jeunes que toutes les générations nées avant elles.
+Cette opposition concerne aujourd’hui les personnes nées avec [Pluton en Sagittaire](/astrology/pluto-in-sagittarius/), de janvier 1995 à novembre 2008 : Uranus, en Gémeaux jusqu’en 2033, atteint le point opposé à leur Pluton quand elles ont 24 à 30 ans environ, plus jeunes que toutes les générations nées avant elles.
 
-L’âge baisse à chaque décennie de naissance : dans le décompte du site, vers 59 ans pour une naissance début 1935, vers 47 ans pour 1955, vers 37 ans pour 1975 et vers 26 ans pour 2005. Aucune personne née ces années-là n’a [Uranus opposition Pluton](/astrology/uranus-opposite-pluto/) dans son thème natal : la polarité de ce couple ne leur arrive que par transit.
+L’âge baisse à chaque décennie de naissance : dans le décompte du site, vers 59 ans pour une naissance début 1935, vers 47 ans pour 1955, vers 37 ans pour 1975 et vers 26 ans pour 2005. La dernière opposition des deux planètes dans le ciel date de 1901 et 1902 : aucune personne née entre 1930 et 2009 n’a [Uranus opposition Pluton](/astrology/uranus-opposite-pluto/) dans son thème natal, et la polarité de ce couple ne lui arrive que par transit.
 
-[Uranus en transit trigone Pluton du thème natal](/astrology/transiting-uranus-trine-natal-pluto/) vient environ quatorze ans avant et après l’opposition, [Uranus en transit carré Pluton du thème natal](/astrology/transiting-uranus-square-natal-pluto/) vingt et un ans, et [Uranus en transit sextile Pluton du thème natal](/astrology/transiting-uranus-sextile-natal-pluto/) et [Uranus en transit conjonction Pluton du thème natal](/astrology/transiting-uranus-conjunct-natal-pluto/) se trouvent de l’autre côté du tour.
+Pour la génération qui la vit maintenant, née de 1995 à 2008, [Uranus en transit trigone Pluton du thème natal](/astrology/transiting-uranus-trine-natal-pluto/) a eu lieu environ quatorze ans plus tôt, dans l’enfance ou l’adolescence, et revient environ quatorze ans plus tard ; [Uranus en transit carré Pluton du thème natal](/astrology/transiting-uranus-square-natal-pluto/) se tient à une vingtaine d’années de chaque côté, et [Uranus en transit sextile Pluton du thème natal](/astrology/transiting-uranus-sextile-natal-pluto/) et [Uranus en transit conjonction Pluton du thème natal](/astrology/transiting-uranus-conjunct-natal-pluto/) se trouvent de l’autre côté du tour.
 
 ## Ce qui aide {#ce-qui-aide}
 

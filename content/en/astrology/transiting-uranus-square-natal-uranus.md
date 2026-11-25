@@ -24,7 +24,7 @@ faq:
   - q: "At what age is the Uranus square?"
     a: "The first comes around 20: in the site’s count of births from 1930 to 2009, its first exact hit fell between 18.4 and 22.9, depending on the birth year. The second comes in the sixties, between about 59 and 65. A whole year group meets the first together, often in the same years as a Saturn square."
   - q: "How long does the Uranus square last?"
-    a: "About twenty months each time, around 20 and again in the sixties, from 1½° before the exact square to 1° after; the shortest passes take about eleven. In more than nine passes out of ten Uranus crosses the exact square three times, its yearly retrograde loop taking it back over the degree before it moves on."
+    a: "About twenty months each time, around 20 and again in the sixties, from 1½° before the exact square to 1° after; the shortest passes take about eleven. In more than nine passes out of ten the square is exact three times, Uranus’s yearly retrograde loop taking it back over the degree before it moves on."
   - q: "Is the Uranus square a crisis?"
     a: "Not as I read it. A square is friction, and this one is a step of a cycle everyone goes through, so its timing says nothing about you as a person. It describes restlessness with what fits badly, not what you will do about it; no transit predicts a break, a loss or any other event."
 sources:
@@ -47,11 +47,11 @@ With your natal Uranus in the 3rd, the first square reaches it from your 6th ([U
 
 Each square lasts about twenty months within my orbs, from 1½° before exact to 1° after, or about eleven at the shortest, and is usually exact three times: long enough, at 20, to try a different path for a year and more.
 
-Everyone born within a year or two of you meets it at about the same age. In the site's count the first square came within orb between about 17½ and 23: at 18.8 for someone born at the start of 1945, at 21.3 for the start of 1985. Its first exact hit fell between 18.4 and 22.9, and the second square, three quarters round, comes between about 59 and 65. By 80, everyone has met both.
+Everyone born within a year or two of you meets it at about the same age. Its first pass entered my orb between about 17½ and 23 for births from 1930 to 2009, in the site's count: at 18.8 for someone born at the start of 1945, at 21.3 for the start of 1985. Its first exact hit fell between 18.4 and 22.9, and the second square, three quarters round, comes between about 59 and 65. By 80, everyone has met both.
 
 Uranus in Gemini, until 2033, squares two generations at once ([Uranus in Gemini, 2026–2033](/astrology/uranus-in-gemini-2026-2033/)). People born from March 2003 to March 2011, mostly with Uranus in Pisces, are meeting their first square in their early twenties; those born from November 1961 to June 1969, with Uranus in Virgo, their second in their early sixties.
 
-[Transiting Uranus sextile natal Uranus](/astrology/transiting-uranus-sextile-natal-uranus/) comes about seven years before the first square and [transiting Uranus trine natal Uranus](/astrology/transiting-uranus-trine-natal-uranus/) about seven after it. Halfway between the two squares stands [transiting Uranus opposite natal Uranus](/astrology/transiting-uranus-opposite-natal-uranus/), the [Uranus opposition](/astrology/uranus-opposition/) at about 42, and the cycle closes with the [Uranus return](/astrology/uranus-return/) at about 84. Around 21, Saturn squares its own place as well ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), so the first Uranus square often shares its years with a Saturn one.
+Seven years or so separate each step: [transiting Uranus sextile natal Uranus](/astrology/transiting-uranus-sextile-natal-uranus/) at about 13 leads to the first square, and [transiting Uranus trine natal Uranus](/astrology/transiting-uranus-trine-natal-uranus/) follows at about 27. Halfway between the two squares stands [transiting Uranus opposite natal Uranus](/astrology/transiting-uranus-opposite-natal-uranus/), the [Uranus opposition](/astrology/uranus-opposition/) at about 42, and the cycle closes with the [Uranus return](/astrology/uranus-return/) at about 84. Around 21, Saturn squares its own place as well ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), so the first Uranus square often shares its years with a Saturn one.
 
 ## What helps {#what-helps}
 

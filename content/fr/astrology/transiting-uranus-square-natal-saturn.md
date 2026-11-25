@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Saturne", "carré", "transits"]
 weight: 1712
 glyph: "♅□♄"
-definition: "Uranus en transit carré Saturne du thème natal, c’est Uranus à 90° du degré qu’occupait Saturne à votre naissance, une vingtaine de mois, deux fois pour la plupart des gens, et parfois une première fois avant 5 ans. Ce que vous avez bâti rencontre l’envie de le changer. J’y lis un ajustement sous charge, jamais un effondrement."
+definition: "Uranus en transit carré Saturne du thème natal, c’est Uranus qui appuie sur votre Saturne depuis 90°, une vingtaine de mois, deux fois pour la plupart des gens, et parfois une première fois avant 5 ans. Ce que vous avez bâti rencontre l’envie de le changer. J’y lis un ajustement sous charge, jamais un effondrement."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Saturne ♄ : structure, responsabilité et temps" }
@@ -21,13 +21,13 @@ facts:
 related: ["/astrology/uranus", "/astrology/saturn", "/astrology/square", "/astrology/saturn-square-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit carré Saturne du thème natal ?"
-    a: "Uranus se trouve à 90° de Saturne dans votre thème, la part qui porte la structure et le devoir. J’y lis une friction entre ce que vous avez bâti et ce qui veut changer : un rôle, une règle ou une routine qui ne va plus mais porte encore du poids. Le carré demande une réforme pas à pas, ni tour de vis ni table rase."
+    a: "Saturne, qui porte vos structures, subit une tension à 90° venue d’Uranus. J’y lis une friction entre ce que vous avez bâti et ce qui veut changer : un rôle, une règle ou une routine qui ne va plus mais porte encore du poids. Le carré demande une réforme pas à pas, ni tour de vis ni table rase."
   - q: "Combien de temps dure Uranus carré Saturne ?"
-    a: "La pression sur ce que vous avez bâti dure une vingtaine de mois, avec mes orbes de 1,5° avant le carré exact à 1° après, et onze environ au plus rapide. Dans plus de neuf cas sur dix, Uranus franchit trois fois le carré exact : la même structure est mise à l’épreuve plus d’une fois."
+    a: "La pression sur ce que vous avez bâti dure une vingtaine de mois, avec mes orbes de 1,5° avant le carré exact à 1° après, et onze environ au plus rapide. Dans plus de neuf cas sur dix, Uranus franchit trois fois le carré exact : la même structure est mise à l’épreuve plus d’une fois."
   - q: "Est-ce qu’Uranus carré Saturne est un mauvais transit ?"
     a: "C’est un transit exigeant, pas mauvais. Un carré est une friction qui pousse une structure à s’adapter, et les structures de Saturne sont celles sur lesquelles vous vous appuyez : la saison peut peser. Mais elle ne prédit aucun événement, aucune perte de travail, de logement ou de relation : elle décrit une pression pour changer la façon dont quelque chose fonctionne."
   - q: "À quel âge arrive le carré d’Uranus à Saturne ?"
-    a: "À des âges différents selon l’année de naissance, puisque l’âge dépend de l’angle entre Saturne et Uranus à la naissance. Les deux carrés tombent à une quarantaine d’années d’écart ; dans le décompte du site, avant 5 ans pour une naissance début 1955, vers 39 ans pour une naissance début 1975."
+    a: "L’angle entre Saturne et Uranus à votre naissance en décide, et cet angle change d’environ huit degrés à chaque année de naissance, Saturne avançant plus vite qu’Uranus. Dans le décompte du site, le premier carré est venu vers 25 ans pour une naissance début 1945 et vers 16 ans pour une naissance début 1985."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le carré reste dans mes orbes, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à Saturne dans le thème natal" }
@@ -48,7 +48,7 @@ Avec Saturne en maison 1 et Uranus qui traverse votre maison 10 ([Uranus en tran
 
 Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le carré dure une vingtaine de mois, et ses passages les plus rapides onze environ. Dans plus de neuf cas sur dix, Uranus franchit trois fois le carré exact, et chaque passage remet la même poutre à l’épreuve.
 
-Les deux carrés à Saturne se font face à travers le thème : ils tombent à une quarantaine d’années d’écart, à quelques années près selon la vitesse changeante d’Uranus. Dans le décompte du site, une naissance début 1955 a connu le premier avant 5 ans, une naissance début 1975 vers 39 ans, ce qui place son second vers 80 ans. Personne ne manque les deux.
+D’un point de carré à l’autre, il y a la moitié du zodiaque : le second carré suit donc le premier d’une quarantaine d’années, l’écart exact dépendant de la vitesse d’Uranus dans ces signes. Dans le décompte du site, une naissance début 1955 a connu le premier avant 5 ans, une naissance début 1975 vers 39 ans, ce qui place son second vers 80 ans. Personne ne manque les deux.
 
 Pour une naissance entre mars 1964 et mars 1967, avec Saturne en Poissons à l’opposé d’Uranus ([Saturne opposition Uranus](/astrology/saturn-opposite-uranus/)), ces carrés arrivent à quelques années de vos propres carrés d’Uranus ([Uranus en transit carré Uranus du thème natal](/astrology/transiting-uranus-square-natal-uranus/)) : le premier entre 16 et 22 ans environ, le second au début ou au milieu de la soixantaine, pendant qu’Uranus traverse les Gémeaux, jusqu’en 2033.
 

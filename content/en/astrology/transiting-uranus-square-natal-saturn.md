@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Saturn", "square", "transits"]
 weight: 1712
 glyph: "♅□♄"
-definition: "Transiting Uranus square natal Saturn is Uranus 90° from the degree Saturn held at your birth, for about twenty months, twice for most people and, for some, first before the age of five. What you have built meets the urge to change it. I read it as an adjustment under load, never a collapse."
+definition: "Transiting Uranus square natal Saturn is Uranus pressing on your natal Saturn from 90° away, for about twenty months, twice for most people and, for some, first before the age of five. What you have built meets the urge to change it. I read it as an adjustment under load, never a collapse."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Saturn ♄: structure, responsibility and time" }
@@ -20,13 +20,13 @@ facts:
 related: ["/astrology/uranus", "/astrology/saturn", "/astrology/square", "/astrology/saturn-square-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus square natal Saturn mean?"
-    a: "Uranus stands 90° from your natal Saturn, the part of your chart that holds structure and duty. I read it as friction between what you’ve built and what wants to change: a role, a rule or a routine that no longer fits but still carries weight. The square asks for reform made one step at a time, not a clampdown or a clean sweep."
+    a: "Your natal Saturn, which holds your structures, comes under a 90° pull from Uranus. I read it as friction between what you’ve built and what wants to change: a role, a rule or a routine that no longer fits but still carries weight. The square asks for reform step by step, not a clampdown or a clean sweep."
   - q: "How long does Uranus square Saturn last?"
     a: "The pressure on what you’ve built lasts about twenty months, with my orbs running from 1½° before the exact square to 1° after, and about eleven at the quickest. In more than nine passes out of ten Uranus crosses the exact square three times, so the same structure is tested more than once."
   - q: "Is Uranus square Saturn bad?"
     a: "It is demanding, not bad. A square is friction that pushes a structure to adapt, and Saturn’s structures are the ones you lean on, so the season can feel heavy. But it predicts no event, no loss of work, home or relationship: it describes pressure to change how something is run."
   - q: "At what age does Uranus square Saturn?"
-    a: "At different ages for different birth years, since it depends on the angle between Saturn and Uranus when you were born. The two squares come about forty years apart; in the site’s count, before 5 for someone born at the start of 1955 and at about 39 for someone born at the start of 1975."
+    a: "The angle between Saturn and Uranus at your birth decides it, and that angle changes by about eight degrees with each year of birth, as Saturn gains on Uranus. In the site’s count, the first square came at about 25 for someone born at the start of 1945 and at about 16 for the start of 1985."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the square stays within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to natal Saturn" }
@@ -47,7 +47,7 @@ With Saturn in your 1st and Uranus crossing your 10th ([Uranus transiting the 10
 
 Within my orbs, from 1½° before exact to 1° after, the square lasts about twenty months, and its quickest passes about eleven. In more than nine passes out of ten Uranus crosses the exact square three times, and each crossing tests the same beam again.
 
-The two squares to Saturn face each other across the chart, so they come about forty years apart, a few more or less with Uranus's changing speed. In the site's count, someone born at the start of 1955 met the first before the age of 5, someone born at the start of 1975 at about 39, which puts their second at about 80. Nobody misses both.
+From one square point to the other is half the zodiac, so the second square follows the first by about forty years, the exact gap set by how fast Uranus moves through those signs. In the site's count, someone born at the start of 1955 met the first before the age of 5, someone born at the start of 1975 at about 39, which puts their second at about 80. Nobody misses both.
 
 Born between March 1964 and March 1967, with Saturn in Pisces opposite Uranus ([Saturn opposite Uranus](/astrology/saturn-opposite-uranus/)), you meet these squares within a few years of your own Uranus squares ([transiting Uranus square natal Uranus](/astrology/transiting-uranus-square-natal-uranus/)): the first between about 16 and 22, the second in your early or mid sixties, while Uranus crosses Gemini, until 2033.
 

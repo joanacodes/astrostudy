@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Uranus conjunct natal Saturn mean?"
     a: "Uranus passes over your natal Saturn once in a life at most, and the two rulers of Aquarius share a degree. I read it as the rules and duties you live by being rewritten from the inside: the structure in Saturn’s house stays, but its reasons and its shape change. It is reform by the person responsible, not a collapse."
   - q: "How long does Uranus conjunct Saturn last?"
-    a: "Long enough for a rule to be rewritten and then tested twice: about twenty months within my orbs, from 1½° before the exact conjunction to 1° after, and about eleven for the quickest passes. More than nine times in ten Uranus crosses your Saturn three times, because of its yearly retrograde loop."
+    a: "A rule can be rewritten and then tested twice before the transit ends. Uranus usually crosses your Saturn three times, in more than nine passes out of ten, because of its yearly retrograde loop, and the whole pass, from 1½° before the exact conjunction to 1° after, lasts about twenty months, or eleven at the quickest."
   - q: "When does Uranus conjunct my Saturn?"
     a: "It depends on how far Saturn stood ahead of Uranus when you were born. Born soon after Saturn and Uranus met in the sky in 1942 or 1988, you meet it young; born soon before one of those meetings, near 80 or not at all, which is the case for about 1 person in 25 born between 1930 and 2009."
   - q: "Is Uranus conjunct Saturn the same as a Saturn return?"

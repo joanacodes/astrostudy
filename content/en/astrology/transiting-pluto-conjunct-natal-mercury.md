@@ -5,6 +5,8 @@ description: "Transiting Pluto conjunct natal Mercury: two to three years when t
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "Mercury", "conjunction", "transits"]
 weight: 1808
 glyph: "♇☌☿"
 definition: "Transiting Pluto conjunct natal Mercury is Pluto crossing the degree of your birth Mercury, for about two years and eight months, a transit fewer than half of people meet. Thinking and transformation work as one: a subject takes hold, words carry more weight, old opinions are dug up. I read it as depth of mind, never as obsession."
@@ -48,7 +50,7 @@ My timing allows from 1½° before exact to 1° after. Within that window Pluto 
 
 Fewer than half of people born between 1930 and 2009 meet this conjunction by 80, and slightly fewer still meet the opposition ([Transiting Pluto opposite natal Mercury](/astrology/transiting-pluto-opposite-natal-mercury/)). Most meet a square ([Transiting Pluto square natal Mercury](/astrology/transiting-pluto-square-natal-mercury/)) instead, and many the sextile ([Transiting Pluto sextile natal Mercury](/astrology/transiting-pluto-sextile-natal-mercury/)) or the trine ([Transiting Pluto trine natal Mercury](/astrology/transiting-pluto-trine-natal-mercury/)).
 
-While Pluto is in Aquarius, until early 2044, it reaches Mercurys in Aquarius. Mercury is never more than about 28° from the Sun, so a Mercury in Aquarius belongs to a birthday between about late December and mid-March.
+While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it reaches Mercurys in Aquarius. Mercury is never more than about 28° from the Sun, so a Mercury in Aquarius belongs to a birthday between about late December and mid-March.
 
 ## What helps {#what-helps}
 

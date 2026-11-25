@@ -50,7 +50,7 @@ Within the orbs I use for timing, from 1½° before exact to 1° after, the sext
 
 Pluto makes this sextile from two sides. One comes 60° before it would reach your Moon, on the way to the conjunction ([Transiting Pluto conjunct natal Moon](/astrology/transiting-pluto-conjunct-natal-moon/)); the other comes 60° after it has passed, on the way to the square ([Transiting Pluto square natal Moon](/astrology/transiting-pluto-square-natal-moon/)), the trine ([Transiting Pluto trine natal Moon](/astrology/transiting-pluto-trine-natal-moon/)) and the opposition ([Transiting Pluto opposite natal Moon](/astrology/transiting-pluto-opposite-natal-moon/)). A lifetime covers less than half of Pluto's circle, so nearly one person in four born between 1930 and 2009 meets neither sextile by 80, and only a few meet both.
 
-While Pluto is in Aquarius, until early 2044, it sextiles Moons in Aries and Sagittarius, the early degrees of both signs first.
+While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it sextiles Moons in Aries and Sagittarius, the early degrees of both signs first.
 
 ## What helps {#what-helps}
 

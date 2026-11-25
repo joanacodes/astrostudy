@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Neptune", "opposition", "transits"]
 weight: 1723
 glyph: "♅☍♆"
-definition: "Transiting Uranus opposite natal Neptune is Uranus 180° from the degree Neptune held at your birth, for about twenty months, once in a life. Your ideals and the urge to change face each other, often through other people. I read it as a season for clear sight and compassion together, not a verdict."
+definition: "Transiting Uranus opposite natal Neptune is Uranus directly across the zodiac from your natal Neptune, once for everyone, between about 35 and 73 depending on the birth year. Your ideals and the urge to change face each other, often through other people. I read it as a season for clear sight and compassion together."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Neptune ♆: imagination, ideals and compassion" }
@@ -20,9 +20,9 @@ facts:
 related: ["/astrology/uranus", "/astrology/neptune", "/astrology/opposition", "/astrology/uranus-opposite-neptune", "/astrology/neptune-in-sagittarius"]
 faq:
   - q: "What does transiting Uranus opposite natal Neptune mean?"
-    a: "Uranus stands 180° from the degree your Neptune held at birth, once in a life. I read it as your ideals and the urge to change facing each other, often through other people: a dream you lived inside becomes visible as a dream. It asks for clear sight and compassion together, not a verdict."
+    a: "Uranus faces your natal Neptune across the chart, once in a life. I read it as your ideals and the urge to change facing each other, often through other people: a dream you lived inside becomes visible as a dream. It asks for clear sight and compassion together, not a verdict."
   - q: "How long does Uranus opposite Neptune last?"
-    a: "About twenty months within my orbs, from 1½° before the exact opposition to 1° after, and about eleven when the pass is short. More than nine times in ten Uranus reaches the exact point three times: going forward, back while retrograde, and forward again, each pass another look at the same dream from outside."
+    a: "Three looks at the same dream from outside, in more than nine cases out of ten: Uranus reaches the exact opposition going forward, again while retrograde, and once more going forward. The three looks fit into about twenty months, from 1½° before exact to 1° after, or eleven or so when the pass is short."
   - q: "Who has Uranus opposite Neptune now?"
     a: "People born from January 1970 to November 1984, with Neptune in Sagittarius. Uranus is in Gemini until 2033, opposite that Neptune, so they meet the transit in these years, at about 48 to 55. For those born in 1995 it comes at about 43, close to their own Uranus opposition."
   - q: "At what age does Uranus oppose Neptune?"
@@ -41,7 +41,7 @@ The other end tends to appear outside you: a movement you believed in seen from 
 
 Both planets bring a blind spot. Uranus can confuse distance with objectivity, and Neptune empathy with knowing another person; under the opposition you can feel sure, too soon, that you've seen the truth of someone or of something. The polarity asks you to keep the compassion and the clear sight both.
 
-With Neptune in your 7th and Uranus crossing your 1st ([Uranus transiting the 1st house](/astrology/uranus-transit-1st-house/)), ideals you placed in partners meet your own wish to be yourself, plainly. Your birth time places that axis; without it, I don't give the reading ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Neptune in your 7th and Uranus crossing your 1st ([Uranus transiting the 1st house](/astrology/uranus-transit-1st-house/)), ideals you placed in partners meet your own wish to be yourself, plainly. The 1st and the 7th start at your Ascendant and Descendant, which a quarter of an hour of birth time can move by several degrees; without the time, I don't give the reading ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
@@ -49,7 +49,7 @@ Within my orbs, from 1½° before exact to 1° after, the opposition lasts about
 
 Uranus in Gemini, until 2033, stands opposite every natal Neptune in Sagittarius ([Neptune in Sagittarius](/astrology/neptune-in-sagittarius/)), the Neptune of births from January 1970 to November 1984: they are meeting this opposition now, at about 48 to 55.
 
-In the site's count it came at about 71 for someone born at the start of 1935, about 62 for 1955, about 53 for 1975 and about 37 for 2005: roughly five years earlier with each decade of birth, because Uranus, the faster planet, keeps gaining on Neptune. No one born in those eighty years has [Uranus opposite Neptune](/astrology/uranus-opposite-neptune/) in the birth chart, so for all of them this polarity comes only by transit.
+In the site's count it comes at about 71 for someone born at the start of 1935, about 62 for 1955, about 53 for 1975 and about 37 for 2005: roughly five years earlier with each decade of birth, because Uranus, the faster planet, keeps gaining on Neptune. No one born in those eighty years has [Uranus opposite Neptune](/astrology/uranus-opposite-neptune/) in the birth chart, so for all of them this polarity comes only by transit.
 
 [Transiting Uranus trine natal Neptune](/astrology/transiting-uranus-trine-natal-neptune/) falls about fourteen years either side of it and [transiting Uranus square natal Neptune](/astrology/transiting-uranus-square-natal-neptune/) about twenty-one; [transiting Uranus sextile natal Neptune](/astrology/transiting-uranus-sextile-natal-neptune/) and [transiting Uranus conjunct natal Neptune](/astrology/transiting-uranus-conjunct-natal-neptune/) lie on the far side of the round.
 

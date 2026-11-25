@@ -20,9 +20,9 @@ facts:
 related: ["/astrology/uranus", "/astrology/jupiter", "/astrology/opposition", "/astrology/jupiter-opposite-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus opposite natal Jupiter mean?"
-    a: "Uranus stands 180° from your natal Jupiter, the part of your chart that holds your beliefs and your sense of meaning. I read it as a meeting with another outlook, often through someone else: your framework seen beside its alternative. It asks for a wider view that keeps the best of both, not a conversion."
+    a: "Uranus crosses to the far side of the chart from your natal Jupiter, the planet of what you believe. I read it as a meeting with another outlook, often through someone else: your framework seen beside its alternative. It asks for a wider view that keeps the best of both, not a conversion."
   - q: "How long does Uranus opposite Jupiter last?"
-    a: "Long enough for a belief to meet its opposite more than once: about twenty months within my orbs, 1½° before the exact opposition to 1° after, or about eleven in the shortest passes. In more than nine passes out of ten Uranus stands exactly opposite your Jupiter three times, the middle time while it is retrograde."
+    a: "A belief can meet its opposite again and again: in more than nine passes out of ten Uranus stands exactly opposite your Jupiter three times, the middle time while it is retrograde. The whole stretch, 1½° before the exact opposition to 1° after, takes about twenty months, or about eleven at its shortest."
   - q: "Does everyone have Uranus opposite Jupiter?"
     a: "Almost everyone who reaches 80 has had it once, and nobody has had it twice by then. About 1 person in 33 born between 1930 and 2009 never meets it by 80: those born just after Jupiter and Uranus stood exactly opposite, for whom Uranus has almost a full round to travel."
   - q: "At what age does Uranus oppose Jupiter?"

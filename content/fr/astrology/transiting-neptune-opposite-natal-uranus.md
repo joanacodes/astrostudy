@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/uranus", "/astrology/opposition", "/astrology/uranus-opposite-neptune", "/astrology/neptune-in-aries-2026-2039"]
 faq:
   - q: "Que veut dire Neptune en transit opposition Uranus du thème natal ?"
-    a: "Neptune se tient de l’autre côté du zodiaque par rapport à votre Uranus de naissance. J’y lis une saison où votre besoin d’indépendance et de faire à votre façon rencontre un appel vers l’appartenance, un idéal partagé ou un sens plus large. Elle demande quelles libertés servent ce qui compte pour vous, et décrit un climat, jamais un événement."
+    a: "Neptune se tient de l’autre côté du zodiaque par rapport à votre Uranus de naissance. J’y lis une saison où votre besoin d’indépendance et de faire à votre façon rencontre un appel vers l’appartenance, un idéal partagé ou un sens plus large. Cette saison demande quelles libertés servent ce qui compte pour vous, et décrit un climat, jamais un événement."
   - q: "À quel âge arrive l’opposition de Neptune à Uranus de naissance ?"
     a: "Cela dépend de l’année de naissance, plus que pour presque tout autre transit. Pour les naissances de 1930 à 2009, l’orbe commençait à 19 ans pour le début de 1935, 40 pour 1955, 63 pour 1975. Dès le milieu des années 1990, il vient après 80 ans : environ 1 personne sur 5 ne le rencontre jamais."
   - q: "Combien de temps dure Neptune opposition Uranus ?"

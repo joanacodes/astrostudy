@@ -48,7 +48,7 @@ The orbs I use for timing run from 1½° before exact to 1° after. Within them 
 
 There are two trines on your Moon's circle, and either one falls between a square ([Transiting Pluto square natal Moon](/astrology/transiting-pluto-square-natal-moon/)) and the opposition ([Transiting Pluto opposite natal Moon](/astrology/transiting-pluto-opposite-natal-moon/)), while the sextile ([Transiting Pluto sextile natal Moon](/astrology/transiting-pluto-sextile-natal-moon/)) and the conjunction ([Transiting Pluto conjunct natal Moon](/astrology/transiting-pluto-conjunct-natal-moon/)) lie on the other half. Whether you meet one trine, both or neither depends on where your Moon sat relative to Pluto at birth. The Moon's place is the part of a chart most sensitive to the birth time, which is one more reason I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)). Across everyone born between 1930 and 2009, more than one in five never meets a Pluto trine to the Moon by 80, and some meet both.
 
-While Pluto is in Aquarius, until early 2044, it trines Moons in Gemini and Libra.
+While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it trines Moons in Gemini and Libra.
 
 ## What helps {#what-helps}
 

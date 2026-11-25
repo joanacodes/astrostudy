@@ -30,7 +30,7 @@ faq:
   - q: "Quand vient le trigone de Pluton à ma Lune ?"
     a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, le trigone touche les Lunes en Gémeaux et en Balance. Vos années dépendent du degré exact de votre Lune, qui demande votre heure de naissance. Plus d’une personne sur cinq née entre 1930 et 2009 ne rencontre jamais de trigone de Pluton à la Lune avant 80 ans."
 sources:
-  - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le trigone dans mes orbes, et combien de fois il revient avant 80 ans" }
+  - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le trigone dans mes orbes, et combien de fois ce trigone revient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à la Lune, un par un" }
 ---
 Un trigone de Pluton à votre Lune, c’est le renouveau sans la lutte. Pendant deux à trois ans, la planète de la profondeur se tient à 120° de la part de vous qui ressent et qui s’attache, et un changement affectif profond rencontre moins de résistance que d’habitude.
@@ -49,7 +49,7 @@ Les orbes que j’utilise pour dater vont de 1,5° avant l’exactitude à 1° a
 
 Le cercle de votre Lune porte deux trigones, et chacun tombe entre un carré ([Pluton en transit carré Lune du thème natal](/astrology/transiting-pluto-square-natal-moon/)) et l’opposition ([Pluton en transit opposition Lune du thème natal](/astrology/transiting-pluto-opposite-natal-moon/)), tandis que le sextile ([Pluton en transit sextile Lune du thème natal](/astrology/transiting-pluto-sextile-natal-moon/)) et la conjonction ([Pluton en transit conjonction Lune du thème natal](/astrology/transiting-pluto-conjunct-natal-moon/)) se trouvent sur l’autre moitié. Rencontrer un trigone, les deux ou aucun dépend de la place de votre Lune par rapport à Pluton à votre naissance. Or la place de la Lune est la partie du thème la plus sensible à l’heure de naissance, une raison de plus pour laquelle je ne lis pas un thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Parmi les personnes nées entre 1930 et 2009, plus d’une sur cinq ne rencontre jamais de trigone de Pluton à la Lune avant 80 ans, et certaines rencontrent les deux.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044, le trigone touche les Lunes en Gémeaux et en Balance.
+Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), le trigone touche les Lunes en Gémeaux et en Balance.
 
 ## Ce qui aide {#ce-qui-aide}
 

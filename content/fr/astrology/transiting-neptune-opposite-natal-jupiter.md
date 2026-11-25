@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce que Neptune opposition Jupiter annonce un gourou trompeur ?"
     a: "Non. Je ne lis aucun transit comme une mise en garde contre une personne. Cette opposition rend les visions des autres vives et persuasives, ce qui peut inspirer ; elle demande de peser ce qu’on vous offre, comme en tout temps, et de garder le droit de ne pas être d’accord."
   - q: "À quel âge vient Neptune opposition Jupiter ?"
-    a: "À des âges très différents : dans les premiers mois pour une naissance début 1965, vers 27 ans pour 2005, vers 40 ans pour 1955, vers 58 ans pour 1995. Pour les naissances du début de 1935, 1975 ou 1985, elle ne vient pas avant 80 ans, et un peu moins de la moitié des gens ne la rencontrent jamais."
+    a: "À des âges très différents : dans les premiers mois pour une naissance début 1965, vers 27 ans pour 2005, vers 40 ans pour 1955, vers 58 ans pour 1995. Pour les naissances du début de 1935, 1975 ou 1985, cette opposition ne vient pas avant 80 ans, et un peu moins de la moitié des gens ne la rencontrent jamais."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps l’opposition reste dans mes orbes, à quels âges elle vient, et combien de personnes la rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les aspects de Neptune en transit à Jupiter dans le thème natal" }
@@ -50,7 +50,7 @@ Avec [Jupiter opposition Neptune](/astrology/jupiter-opposite-neptune/) dans le 
 
 Avec mes orbes, 1,5° avant l’exactitude et 1° après, l’opposition occupe environ deux ans et sept mois, vingt-deux au moins, et devient exacte trois fois dans la plupart des passages, cinq fois dans un sur quatre environ.
 
-Un peu moins de la moitié des naissances entre 1930 et 2009 ne l’amènent jamais avant 80 ans ; pour les autres, elle vient une fois, à des âges aussi variés que la position de Jupiter : dans les premiers mois pour le début de 1965, vers 27 ans pour 2005, 40 ans pour 1955, 58 ans et demi pour 1995 et 78 ans pour 1945, et pas avant 80 ans pour 1935, 1975 ou 1985.
+Un peu moins de la moitié des naissances entre 1930 et 2009 n’amènent jamais cette opposition avant 80 ans ; pour les autres, elle vient une fois, à des âges aussi variés que la position de Jupiter : dans les premiers mois pour le début de 1965, vers 27 ans pour 2005, 40 ans pour 1955, 58 ans et demi pour 1995 et 78 ans pour 1945, et pas avant 80 ans pour 1935, 1975 ou 1985.
 
 Pour une personne née début 2005, [Neptune en transit trigone Jupiter du thème natal](/astrology/transiting-neptune-trine-natal-jupiter/) est venu dans les premiers mois, cette opposition vient vers 27 ans et [Neptune en transit carré Jupiter du thème natal](/astrology/transiting-neptune-square-natal-jupiter/) vers 67 ans et demi. Pour elle, [Neptune en transit sextile Jupiter du thème natal](/astrology/transiting-neptune-sextile-natal-jupiter/) et [Neptune en transit conjonction Jupiter du thème natal](/astrology/transiting-neptune-conjunct-natal-jupiter/) se trouvent au-delà de 80 ans.
 

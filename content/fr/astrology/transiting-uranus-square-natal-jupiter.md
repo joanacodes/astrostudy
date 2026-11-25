@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Jupiter", "carré", "transits"]
 weight: 1707
 glyph: "♅□♃"
-definition: "Uranus en transit carré Jupiter du thème natal, c’est Uranus à 90° du degré qu’occupait Jupiter à votre naissance, une vingtaine de mois, deux fois dans la plupart des vies, à une quarantaine d’années d’écart. Vos principes rencontrent une idée qu’ils n’avaient pas prévue, et la friction demande de les réviser. J’y lis une mise à jour, jamais une perte de foi."
+definition: "Uranus en transit carré Jupiter du thème natal, c’est Uranus à 90° du degré qu’occupait Jupiter à votre naissance, souvent une fois dans la jeunesse et une autre à l’âge mûr. Vos principes rencontrent une idée qu’ils n’avaient pas prévue, qui vous demande de les réviser. J’y lis une mise à jour, jamais une perte de foi."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Jupiter ♃ : croissance, sens et convictions" }
@@ -21,13 +21,13 @@ facts:
 related: ["/astrology/uranus", "/astrology/jupiter", "/astrology/square", "/astrology/jupiter-square-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit carré Jupiter du thème natal ?"
-    a: "Uranus se trouve à 90° de Jupiter dans votre thème natal, la part du thème qui construit le sens et les convictions. J’y lis une friction constructive : un cadre qui vous a fait grandir n’explique plus assez, et une idée neuve réclame sa place. Le carré demande de réviser vos principes, pas de tous les jeter."
+    a: "Uranus se tient à un quart du zodiaque de votre Jupiter, là où grandissent vos convictions et votre sens des choses. J’y lis une friction constructive : un cadre qui vous a fait grandir n’explique plus assez, et une idée neuve réclame sa place. Le carré demande de réviser vos principes, pas de tous les jeter."
   - q: "Combien de temps dure Uranus carré Jupiter ?"
-    a: "Assez longtemps pour réviser un cadre de convictions plutôt que l’abandonner : une vingtaine de mois dans mes orbes, de 1,5° avant le carré exact à 1° après, et onze environ pour les plus rapides. Dans plus de neuf cas sur dix, Uranus forme trois fois le carré exact, en avançant, en reculant puis en avançant de nouveau."
+    a: "Assez longtemps pour réviser un cadre de convictions plutôt que l’abandonner. Uranus entre dans mon orbe 1,5° avant le carré exact et en sort 1° après, une vingtaine de mois plus tard, ou onze pour les passages les plus rapides, et dans plus de neuf cas sur dix le carré est exact trois fois en chemin."
   - q: "Est-ce qu’Uranus carré Jupiter est un mauvais transit ?"
     a: "Non. Un carré est une friction, et c’est par la friction qu’un ensemble de convictions se met à l’épreuve et se met à jour. La saison peut déstabiliser quand une vision sur laquelle vous comptiez cesse d’aller, mais elle ne juge pas vos choix et ne prédit ni perte, ni échec, ni aucun événement."
   - q: "À quel âge arrive le carré d’Uranus à Jupiter ?"
-    a: "Cela dépend de la position de Jupiter par rapport à Uranus à votre naissance. Les deux carrés tombent à une quarantaine d’années d’écart ; dans le décompte du site, une naissance début 1945 a connu le premier avant 3 ans, une naissance début 1985 vers 30 ans."
+    a: "Jupiter traverse un signe par an : une seule année d’écart à la naissance peut décaler ce transit de plusieurs années. Dans le décompte du site, le premier carré est venu vers 19 ans pour une naissance début 1955 et vers 9 ans pour une naissance début 1975."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le carré reste dans mes orbes, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à Jupiter dans le thème natal" }
@@ -42,7 +42,7 @@ La friction commence d’ordinaire dans le cadre plutôt que dans les faits. Une
 
 Je lis ce carré comme une mise à jour, pas une conversion. Uranus peut confondre différence et justesse, Jupiter prendre la taille pour la sagesse : réunies, ces deux tendances font passer un saut pour une croissance. Le travail utile est plus lent : garder les principes qui tiennent encore, réviser ceux qui ne décrivent plus votre vie.
 
-Avec Jupiter en maison 6 et Uranus qui traverse votre maison 9 ([Uranus en transit en maison 9](/astrology/uranus-transit-9th-house/)), une vision neuve, venue d’études, d’un voyage ou d’une autre culture, frotte contre l’organisation de vos journées et de votre travail. Ces maisons reposent sur votre heure de naissance, et un thème sans heure est un thème que je ne lis pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Jupiter en maison 6 et Uranus qui traverse votre maison 9 ([Uranus en transit en maison 9](/astrology/uranus-transit-9th-house/)), une vision neuve, venue d’études, d’un voyage ou d’une autre culture, frotte contre l’organisation de vos journées et de votre travail. Trouver vos maisons 6 et 9 demande votre heure de naissance ; sans elle, je ne lis aucun thème ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

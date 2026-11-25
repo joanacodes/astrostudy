@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Pluton", "sextile", "transits"]
 weight: 1725
 glyph: "♅⚹♇"
-definition: "Uranus en transit sextile Pluton du thème natal, c’est Uranus à 60° du degré qu’occupait Pluton à votre naissance, une vingtaine de mois, deux fois dans la plupart des vies. Libération et renouveau profond coopèrent : un schéma ancien peut bouger par accord plutôt que par force. Pour la plupart, le premier est venu dans l’enfance, le second bien plus tard."
+definition: "Uranus en transit sextile Pluton du thème natal, c’est Uranus à 60° de la place de Pluton dans votre thème, une vingtaine de mois, dans l’enfance ou la jeunesse pour la plupart des personnes nées avant 1995, puis des décennies plus tard. Libération et renouveau profond coopèrent : un schéma ancien peut bouger par accord plutôt que par force."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Pluton ♇ : profondeur, pouvoir et renouveau" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/pluto", "/astrology/sextile", "/astrology/uranus-sextile-pluto", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit sextile Pluton du thème natal ?"
-    a: "Uranus se trouve à 60° du degré qu’occupait Pluton à votre naissance, pendant une vingtaine de mois. J’y lis une ouverture pour changer quelque chose de profond sans combat : un schéma, une peur ou un équilibre de pouvoir peut bouger par accord, vu sous un angle neuf. Comme tout sextile, il faut s’en saisir."
+    a: "Uranus se tient à 60° de votre Pluton, et relie l’envie de liberté à ce que vous gardez au plus profond. J’y lis une ouverture pour changer quelque chose d’ancré sans combat : un schéma, une peur ou un équilibre de pouvoir peut bouger par accord, vu sous un angle neuf. Comme tout sextile, il attend votre geste."
   - q: "Combien de temps dure Uranus sextile Pluton ?"
-    a: "Une vingtaine de mois, comptés de 1,5° avant le sextile exact à 1° après, et onze environ pour les passages les plus brefs. Uranus franchit le plus souvent trois fois l’angle exact pendant ce temps : il y a donc plus d’un moment pour agir sur ce qui s’ouvre."
+    a: "Il y a plus d’un moment pour agir sur ce que ce transit ouvre, puisque le sextile exact revient le plus souvent trois fois. Des premiers 1,5° d’approche à 1° après l’exactitude, un passage prend une vingtaine de mois, et onze environ pour les plus brefs."
   - q: "À quel âge arrive le sextile d’Uranus à Pluton ?"
-    a: "Pour la plupart des gens, le premier est venu dans l’enfance : dans le décompte du site, vers 8 ans pour une naissance début 1975, vers 4 ans pour 1985. Pour les naissances à partir des années 1950, le second vient bien plus tard, après 60 ans. Avec le sextile dans votre thème natal, l’un était là dès la naissance."
+    a: "Le plus souvent dans l’enfance la première fois : dans le décompte du site, vers 8 ans pour une naissance début 1975, vers 4 ans pour 1985. Pour les naissances à partir des années 1950, le second vient bien plus tard, après 60 ans. Avec le sextile dans votre thème natal, l’un était là dès la naissance."
   - q: "Est-ce qu’Uranus sextile Pluton est un bon transit ?"
     a: "C’est l’un des contacts les plus faciles entre les deux planètes, parce que libération et renouveau profond coopèrent. Il rend un changement difficile plus abordable pour un temps ; il ne le fait pas à votre place, et ne prédit aucun événement. Ce que vous faites de l’ouverture vous appartient."
 sources:
@@ -48,11 +48,11 @@ Avec Pluton en maison 9 et Uranus qui traverse votre maison 11 ([Uranus en trans
 
 Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le sextile dure une vingtaine de mois, onze environ pour les passages les plus courts, et ses trois contacts exacts, dans plus de neuf cas sur dix, sont trois occasions de dire la chose vraie.
 
-Dans le décompte du site, le premier sextile est venu tôt pour la plupart des naissances : vers 5 ans pour une naissance début 1935, vers 8 ans pour 1975 et vers 4 ans pour 1985, mais pas avant 52 ans environ pour une naissance début 2005. Le second, d’après la position des planètes, est venu vers 32 ans pour une naissance début 1935, et attend 60 ans passés, voire 70, pour les naissances à partir des années 1950 : vers 66 ans pour début 1975, vers 62 ans pour 1985.
+Dans le décompte du site, le premier sextile est venu tôt pour la plupart des naissances : vers 5 ans pour une naissance début 1935, vers 8 ans pour 1975 et vers 4 ans pour 1985. Le second, d’après la position des planètes, est venu vers 32 ans pour une naissance début 1935, et attend 60 ans passés, voire 70, pour les naissances à partir des années 1950 : vers 66 ans pour début 1975, vers 62 ans pour 1985.
 
 Avec [Uranus sextile Pluton](/astrology/uranus-sextile-pluto/) dans votre thème, pour une naissance de 1941 à 1947 ou de 1991 à 2001, l’un des sextiles était là dès la naissance. L’autre est venu vers 25 ans pour la génération des années 1940, dont Uranus suivait Pluton à 60°, et vient vers 57 ans pour celle des années 1990, dont Uranus précédait Pluton de 60°. Même une naissance début 2005, qui attend le premier jusqu’à 52 ans environ, rencontre le second vers 79 ans : avant 80 ans, chaque naissance du décompte a connu au moins un sextile à Pluton, la plupart deux.
 
-Les sextiles se tiennent à quatorze ans environ de part et d’autre d'[Uranus en transit conjonction Pluton du thème natal](/astrology/transiting-uranus-conjunct-natal-pluto/). [Uranus en transit carré Pluton du thème natal](/astrology/transiting-uranus-square-natal-pluto/) et [Uranus en transit trigone Pluton du thème natal](/astrology/transiting-uranus-trine-natal-pluto/) viennent environ sept et quatorze ans après le premier, et [Uranus en transit opposition Pluton du thème natal](/astrology/transiting-uranus-opposite-natal-pluto/) à mi-tour.
+Dans le tour de 84 ans, les deux sextiles se trouvent à quatorze ans environ avant et après [Uranus en transit conjonction Pluton du thème natal](/astrology/transiting-uranus-conjunct-natal-pluto/), l’étape qui vient en dernier, ou jamais, pour toutes les naissances à partir de mi-1967. [Uranus en transit carré Pluton du thème natal](/astrology/transiting-uranus-square-natal-pluto/) et [Uranus en transit trigone Pluton du thème natal](/astrology/transiting-uranus-trine-natal-pluto/) viennent environ sept et quatorze ans après le sextile qui suit la conjonction, et [Uranus en transit opposition Pluton du thème natal](/astrology/transiting-uranus-opposite-natal-pluto/) à mi-tour.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -20,9 +20,9 @@ facts:
 related: ["/astrology/ascendant", "/astrology/uranus", "/astrology/uranus-transit-1st-house", "/astrology/uranus-transit-12th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "What does transiting Uranus conjunct natal Ascendant mean?"
-    a: "Uranus passes over the degree that was rising when you were born, once in a life at most. I read it as a change in your orientation: how you begin things, present yourself and react on first contact starts to fit a newer version of you. It changes your approach, not your character, and predicts no event."
+    a: "Uranus crosses your rising degree, the eastern horizon of the moment you were born. I read it as a change in your orientation: how you begin things, present yourself and react on first contact starts to fit a newer version of you. It changes your approach, not your character, and predicts no event."
   - q: "How long does Uranus on the Ascendant last?"
-    a: "About twenty months within my orbs, from 1½° before the exact degree to 1° after, and about eleven when the crossing is quick. In more than nine cases out of ten Uranus crosses the Ascendant three times, turning retrograde and direct again, before it settles into the 1st house."
+    a: "The crossing takes about twenty months, from 1½° before your rising degree to 1° past it, and about eleven when it is quick. In more than nine cases out of ten Uranus crosses the Ascendant three times, turning retrograde and direct again, before it settles into the 1st house."
   - q: "Do I need my birth time for Uranus conjunct the Ascendant?"
     a: "Yes, entirely. The Ascendant is the degree rising at the minute of your birth, so without the time there is nothing for Uranus to cross. Even a recorded time rounded to the quarter hour leaves a degree or two of doubt, and months of doubt about this transit. Without a time I don’t read it, or anything else."
   - q: "Will I meet Uranus conjunct my Ascendant?"

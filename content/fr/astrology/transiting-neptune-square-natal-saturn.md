@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce que Neptune carré Saturne provoque une dépression ?"
     a: "Aucun transit ne provoque ni ne prédit une dépression, et je ne lis aucun thème pour la maladie. Ce carré peut apporter du doute sur les projets et les devoirs, ce qui fait partie de la vie. Si le moral reste bas pendant des semaines, c’est l’affaire d’un médecin ou d’un thérapeute, et une lecture peut attendre."
   - q: "Est-ce que tout le monde a Neptune carré Saturne ?"
-    a: "Oui. Parmi les personnes nées entre 1930 et 2009, aucune n’atteint 80 ans sans l’avoir rencontré, et une poignée le rencontre deux fois. L’âge varie avec votre Saturne : dans les premières semaines pour une naissance début 1945, vers 23 ans pour 1985, vers 56 ans pour 1975."
+    a: "Oui. Parmi les personnes nées entre 1930 et 2009, aucune n’atteint 80 ans sans avoir rencontré ce carré, et une poignée le rencontre deux fois. L’âge varie avec votre Saturne : dans les premières semaines pour une naissance début 1945, vers 23 ans pour 1985, vers 56 ans pour 1975."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le carré reste dans mes orbes, à quels âges il vient, et combien de personnes le rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les aspects de Neptune en transit à Saturne dans le thème natal" }

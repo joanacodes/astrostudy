@@ -39,7 +39,7 @@ De toutes les façons dont Pluton peut rencontrer votre Lune, le sextile est la 
 
 [Pluton](/astrology/pluto/) renouvelle en laissant partir ce qui ne fonctionne plus. Votre [Lune](/astrology/moon/) porte vos besoins, vos attachements et vos habitudes de réconfort. Un [sextile](/astrology/sextile/), à 60°, les relie par l’occasion et la coopération : sous ce [transit](/astrology/transits/), il devient plus facile que d’habitude de changer une habitude affective, de réparer un lien familial ou de rebâtir une part de votre vie au foyer sur un terrain plus solide. Un sextile n’agit pas à votre place, cependant : une porte ouverte attend qu’on la franchisse.
 
-Le risque serait de l’ignorer parce qu’il est discret. Le travail de Pluton se fait ici à petits pas : aller vous coucher avant que les soucis commencent, dire un besoin une fois au lieu de le laisser deviner, un appel du dimanche qui devient une vraie conversation. Chaque pas paraît mince. Deux ans de petits pas peuvent changer votre sentiment de sécurité, et un changement venu peu à peu a tendance à durer.
+Le risque serait d’ignorer ce sextile parce qu’il est discret. Le travail de Pluton se fait ici à petits pas : aller vous coucher avant que les soucis commencent, dire un besoin une fois au lieu de le laisser deviner, un appel du dimanche qui devient une vraie conversation. Chaque pas paraît mince. Deux ans de petits pas peuvent changer votre sentiment de sécurité, et un changement venu peu à peu a tendance à durer.
 
 Avec la Lune en maison 6 et Pluton qui traverse la maison 8 ([Pluton en transit en maison 8](/astrology/pluto-transit-8th-house/)), un lien plus proche, où la confiance doit se partager, peut vous montrer d’autres façons de prendre soin de vous au quotidien. Les maisons viennent de votre heure de naissance, le degré de la Lune aussi : deux personnes nées le même jour, à douze heures d’écart, ont des Lunes séparées de six ou sept degrés, ce qui, au rythme actuel de Pluton, met environ quatre ans entre leurs sextiles. C’est le genre de raison pour laquelle je ne lis pas un thème sans l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
@@ -51,7 +51,7 @@ Dans les orbes que j’utilise pour dater, de 1,5° avant l’exactitude à 1° 
 
 Pluton forme ce sextile des deux côtés. L’un vient 60° avant d’atteindre votre Lune, sur le chemin de la conjonction ([Pluton en transit conjonction Lune du thème natal](/astrology/transiting-pluto-conjunct-natal-moon/)) ; l’autre 60° après l’avoir dépassée, sur le chemin du carré ([Pluton en transit carré Lune du thème natal](/astrology/transiting-pluto-square-natal-moon/)), du trigone ([Pluton en transit trigone Lune du thème natal](/astrology/transiting-pluto-trine-natal-moon/)) et de l’opposition ([Pluton en transit opposition Lune du thème natal](/astrology/transiting-pluto-opposite-natal-moon/)). Une vie couvre moins de la moitié du cercle de Pluton : près d’une personne sur quatre née entre 1930 et 2009 ne rencontre aucun des deux sextiles avant 80 ans, et seules quelques-unes rencontrent les deux.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044, le sextile touche les Lunes en Bélier et en Sagittaire, les premiers degrés des deux signes d’abord.
+Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), le sextile touche les Lunes en Bélier et en Sagittaire, les premiers degrés des deux signes d’abord.
 
 ## Ce qui aide {#ce-qui-aide}
 

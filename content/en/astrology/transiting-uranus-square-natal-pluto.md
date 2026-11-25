@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Pluto", "square", "transits"]
 weight: 1726
 glyph: "♅□♇"
-definition: "Transiting Uranus square natal Pluto is Uranus 90° from the degree Pluto held at your birth, for about twenty months, usually twice in a life. The urge to break free presses on what you hold most tightly. I read it as pressure to renegotiate a deep arrangement, one term at a time, never as an ending."
+definition: "Transiting Uranus square natal Pluto is Uranus 90° away from your birth chart’s Pluto, twice for most people, the first at about 39 for births of 1935 and at about 3 for births of 2005. The urge to break free presses on what you hold most tightly, asking for a renegotiation, never an ending."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Pluto ♇: depth, power and renewal" }
@@ -20,13 +20,13 @@ facts:
 related: ["/astrology/uranus", "/astrology/pluto", "/astrology/square", "/astrology/uranus-square-pluto", "/astrology/pluto-square"]
 faq:
   - q: "What does transiting Uranus square natal Pluto mean?"
-    a: "Uranus stands 90° from the degree your Pluto held at birth. I read it as friction between the urge to break free and what you hold most tightly: a loyalty, a need for control, a power arrangement nobody questions. The square asks you to renegotiate it before pressure does, and it predicts no ending."
+    a: "Uranus forms a square with your natal Pluto, the deepest-rooted part of your chart. I read it as friction between the urge to break free and what you hold most tightly: a loyalty, a need for control, a power arrangement nobody questions. The square asks you to renegotiate it before pressure does, and it predicts no ending."
   - q: "How long does Uranus square Pluto last?"
-    a: "About twenty months within my orbs, which run from 1½° before the exact square to 1° after, and about eleven at the shortest. Three exact hits are the rule, in more than nine passes out of ten, with the middle one made while Uranus is retrograde, so the pressure builds and eases more than once."
+    a: "Pressure that builds and eases more than once: Uranus hits the exact square, backs over it while retrograde, then hits it again, in more than nine passes out of ten. A pass lasts about twenty months, with my orbs at 1½° before the exact square and 1° after, and about eleven at the shortest."
   - q: "Who has Uranus square Pluto now?"
     a: "People born from late 1956 to mid-1972, with Pluto in Virgo. Uranus is in Gemini until 2033, square to that Pluto, so they are meeting their second square at about 60 to 68. Their first came at about 16 to 24, in the 1980s, while Uranus crossed Sagittarius."
   - q: "Is Uranus square Pluto the same as the Pluto square?"
-    a: "No. The Pluto square is transiting Pluto squaring its own birth place, at an age that varies widely by generation. This transit is Uranus squaring your Pluto, twice in most lives: in the site’s count, the first at about 39 for someone born at the start of 1935 and about 3 for 2005."
+    a: "No. The Pluto square is transiting Pluto squaring its own birth place, at an age that varies widely by generation. This transit is Uranus squaring your Pluto, twice in most lives: in the site’s count, the first at about 32 for someone born at the start of 1945 and about 15 for 1975."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the age at the first square by birth year, and how long it stays within my orbs" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to natal Pluto" }
@@ -41,7 +41,7 @@ The friction gathers where something has been held for a long time: a loyalty th
 
 Pluto can confuse control with safety, and Uranus disruption with progress, so under the square a standoff can look like the only choice: hold everything or break everything. I read it as pressure to renegotiate a deep arrangement, one term at a time. Transformation isn't destruction, and the transit predicts no ending.
 
-With Pluto in your 1st and Uranus crossing your 4th ([Uranus transiting the 4th house](/astrology/uranus-transit-4th-house/)), the intensity you carry into the world meets change in your home life and your roots. The houses come from your birth time, and a chart without one is a chart I don't read ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Pluto in your 1st and Uranus crossing your 4th ([Uranus transiting the 4th house](/astrology/uranus-transit-4th-house/)), the intensity you carry into the world meets change in your home life and your roots. The 4th begins at the IC, the lowest point of the chart, and only a birth time can find it; I don't read a chart without one ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Pluto", "conjunction", "transits"]
 weight: 1724
 glyph: "♅☌♇"
-definition: "Transiting Uranus conjunct natal Pluto is Uranus passing over the degree Pluto held at your birth, for about twenty months, once at most. Liberation and deep renewal work as one: a long-held pattern comes into view and loosens. Whether you meet it young, late or never depends on your birth year."
+definition: "Transiting Uranus conjunct natal Pluto is Uranus crossing the degree Pluto held at your birth, once at most: by 25 for births up to 1966, after 60 or not by 80 for births from mid-1967 on. Liberation and deep renewal work as one, and a long-held pattern loosens."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Pluto ♇: depth, power and renewal" }
@@ -20,18 +20,18 @@ facts:
 related: ["/astrology/uranus", "/astrology/pluto", "/astrology/conjunction", "/astrology/uranus-conjunct-pluto", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "What does transiting Uranus conjunct natal Pluto mean?"
-    a: "Uranus passes over the degree your Pluto held at birth, once at most. I read it as liberation and deep renewal working as one: a pattern you’ve lived inside for years comes into view and loosens. Pluto here is transformation, not destruction, and the transit predicts no ending; it describes change at the roots."
+    a: "Uranus crosses your natal Pluto once at most, in youth or late in life depending on your birth year. I read it as liberation and deep renewal working as one: a pattern you’ve lived inside for years comes into view and loosens. Pluto here is transformation, not destruction, and the transit predicts no ending."
   - q: "How long does Uranus conjunct Pluto last?"
-    a: "About twenty months within my orbs, from 1½° before the exact conjunction to 1° after, and about eleven for the shortest passes. More than nine times in ten there are three exact hits, as Uranus loops back over your Pluto and then crosses it for good: change at the roots in stages rather than all at once."
+    a: "Change at the roots takes its time: about twenty months from 1½° before the exact conjunction to 1° after, eleven or so at the shortest. More than nine times in ten there are three exact hits, as Uranus loops back over your Pluto’s degree and then passes it for good."
   - q: "When does Uranus conjunct my Pluto?"
-    a: "It depends on your birth year. Uranus and Pluto met in the sky in 1965–66: born before, you met the transit young, at about 20 if born at the start of 1935; born after, you wait most of a lifetime, about 79 years for the start of 1975. Births from 1966 to about 1972 don’t meet it before 80."
+    a: "Uranus and Pluto met in the sky in 1965–66: born before, you met the transit young, at about 20 if born at the start of 1935; born after, you wait most of a lifetime, about 79 years for the start of 1975. Most births from mid-1967 to early 1972 don’t meet it before 80."
   - q: "Does Uranus conjunct Pluto mean death?"
     a: "No. Pluto is the planet of transformation and renewal, not of death, and no transit predicts one; I never read a chart for it. The old link between Pluto, the 8th house and endings describes change and letting go, which this transit can bring to the surface."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the age at the conjunction by birth year, and how many never meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to natal Pluto" }
 ---
-Uranus and Pluto met in the sky in 1965 and 1966, in Virgo. Whether transiting Uranus reaches your natal Pluto in your youth, late in life or not at all depends on which side of that meeting you were born, and when it does, the urge to break free and the pressure to renew at the root share one degree for about twenty months.
+Which side of 1965–66 you were born on, the years Uranus and Pluto stood together in Virgo, decides whether transiting Uranus reaches your natal Pluto in your youth, late in life or not at all. When it does, the urge to break free and the pressure to renew at the root share one degree for about twenty months.
 
 ## What changes {#what-changes}
 
@@ -49,9 +49,9 @@ Change at the roots rarely finishes in one pass, and this transit has three: Ura
 
 Born before the mid-1960s, you had Uranus trailing your Pluto, and it caught up early: in the site's count at about 20 for someone born at the start of 1935, about 13 for 1945 and about 6 for 1955, which for most of that generation means a transit of youth, read only in hindsight. Born in 1963–68 with [Uranus conjunct Pluto](/astrology/uranus-conjunct-pluto/), you had it at birth or in your first year.
 
-Born after the meeting, you started life with Uranus already past Pluto, and it needs most of its round to come back: about 79 years for someone born at the start of 1975, about 74 for 1985, about 70 for 1995 and about 65 for 2005. For births from 1966 to about 1972 it falls after 80, which is why about 1 person in 17 born between 1930 and 2009 never meets it ([generational placements by birth year](/astrology/generational-placements-by-birth-year/)).
+Born after the meeting, you started life with Uranus already past Pluto, and it needs most of its round to come back: about 79 years for someone born at the start of 1975, about 74 for 1985, about 70 for 1995 and about 65 for 2005. For most births from mid-1967 to early 1972 it falls after 80, which is why about 1 person in 17 of the births from 1930 to 2009 never meets it ([generational placements by birth year](/astrology/generational-placements-by-birth-year/)).
 
-Away from the conjunction, [transiting Uranus sextile natal Pluto](/astrology/transiting-uranus-sextile-natal-pluto/) stands about fourteen years off on either side, [transiting Uranus square natal Pluto](/astrology/transiting-uranus-square-natal-pluto/) about twenty-one, [transiting Uranus trine natal Pluto](/astrology/transiting-uranus-trine-natal-pluto/) about twenty-eight, and [transiting Uranus opposite natal Pluto](/astrology/transiting-uranus-opposite-natal-pluto/) halfway round.
+For births before 1965 the conjunction opened the round and the other steps followed it; for births after 1966, [transiting Uranus sextile natal Pluto](/astrology/transiting-uranus-sextile-natal-pluto/), [transiting Uranus square natal Pluto](/astrology/transiting-uranus-square-natal-pluto/), [transiting Uranus trine natal Pluto](/astrology/transiting-uranus-trine-natal-pluto/) and [transiting Uranus opposite natal Pluto](/astrology/transiting-uranus-opposite-natal-pluto/) all come before it, the opposition in the twenties, thirties or early forties.
 
 ## What helps {#what-helps}
 

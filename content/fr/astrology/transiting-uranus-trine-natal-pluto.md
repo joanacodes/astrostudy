@@ -21,13 +21,13 @@ facts:
 related: ["/astrology/uranus", "/astrology/pluto", "/astrology/trine", "/astrology/uranus-trine-pluto", "/astrology/pluto-in-libra"]
 faq:
   - q: "Que veut dire Uranus en transit trigone Pluton du thème natal ?"
-    a: "Uranus se trouve à 120° du degré qu’occupait Pluton à votre naissance. J’y lis changement profond et envie de renouveau allant dans le même sens : une vieille peur se desserre, un arrangement ancien se réorganise, une force durement acquise s’exerce plus librement. C’est une facilité en profondeur, qui demande encore un but pour prendre forme."
+    a: "Uranus forme un trigone avec votre Pluton, qui renouvelle ce qui a fait son temps. J’y lis changement profond et envie de renouveau allant dans le même sens : une vieille peur se desserre, un arrangement ancien se réorganise, une force durement acquise s’exerce plus librement. C’est une facilité en profondeur, qui demande encore un but pour prendre forme."
   - q: "Combien de temps dure Uranus trigone Pluton ?"
-    a: "Une vingtaine de mois chaque fois, de 1,5° avant le trigone exact à 1° après, et onze environ pour un passage court. Dans plus de neuf cas sur dix, Uranus forme trois fois le trigone exact : un travail soutenu par ce transit peut être commencé, repris et terminé dans la même saison."
+    a: "Une vingtaine de mois à chacune de ses deux visites, de 1,5° avant le trigone exact à 1° après, ou onze environ pour un passage court. Un travail ainsi soutenu peut être commencé, repris et terminé dans la même saison : dans plus de neuf cas sur dix, Uranus se trouve exactement à 120° de Pluton à trois reprises."
   - q: "Est-ce que tout le monde a Uranus trigone Pluton ?"
     a: "En transit, oui : toutes les personnes nées entre 1930 et 2009 le rencontrent deux fois avant 80 ans, seul contact entre les deux planètes qui leur vient à toutes deux fois. Dans un thème natal, non : pendant ces quatre-vingts ans, les deux planètes ne se sont jamais approchées à moins de 6° d’un trigone."
   - q: "Qui vit Uranus trigone Pluton en ce moment ?"
-    a: "Les personnes nées de fin 1971 à l’été 1984, avec Pluton en Balance. Uranus est en Gémeaux jusqu’en 2033, à 120° de cette position : leur second trigone tombe ces années-ci, vers 48 à 53 ans. Le premier est venu entre 1995 et 2004, pendant la traversée du Verseau par Uranus."
+    a: "Les personnes nées de fin 1971 à l’été 1984, dont Pluton est en Balance, vers 48 à 53 ans : depuis les Gémeaux, jusqu’en 2033, Uranus se trouve à 120° de cette position. C’est leur second trigone ; le premier est venu pendant les années d’Uranus en Verseau, de 1995 à 2004."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "l’âge du premier trigone selon l’année de naissance, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à Pluton dans le thème natal" }
@@ -42,7 +42,7 @@ Sous le trigone, un changement qui demanderait d’ordinaire une crise peut se f
 
 Le risque du trigone, c’est que le changement profond passe inaperçu. Pluton travaille hors de vue, un trigone n’insiste pas, et la saison peut finir sans que son meilleur usage ait été essayé. Je lui confierais exprès un travail de fond.
 
-Avec Pluton en maison 10 et Uranus qui traverse votre maison 2 ([Uranus en transit en maison 2](/astrology/uranus-transit-2nd-house/)), le travail que vous avez transformé au fil des années trouve un appui dans ce que vous estimez et ce sur quoi vous savez pouvoir compter. Votre heure de naissance trace les deux maisons, et sans elle il n’y a pas de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Pluton en maison 10 et Uranus qui traverse votre maison 2 ([Uranus en transit en maison 2](/astrology/uranus-transit-2nd-house/)), le travail que vous avez transformé au fil des années trouve un appui dans ce que vous estimez et ce sur quoi vous savez pouvoir compter. Tracer les maisons 2 et 10 demande votre heure de naissance, et sans heure, pas de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
@@ -50,9 +50,9 @@ Chaque trigone reste dans mes orbes, de 1,5° avant l’exactitude à 1° après
 
 Dans le décompte du site, le premier trigone est venu vers 45 ans pour une naissance début 1935, vers 32 ans pour 1955, vers 22 ans pour 1975 et vers 11 ans pour 2005, et le second vingt-sept à trente ans plus tard : avant 80 ans, toutes les naissances de 1930 à 2009 ont connu les deux.
 
-Uranus en Gémeaux, jusqu’en 2033, se tient à 120° de toute position natale de Pluton en Balance ([Pluton en Balance](/astrology/pluto-in-libra/)), celle des naissances de fin 1971 à l’été 1984. Leur second trigone tombe ces années-ci, vers 48 à 53 ans ; le premier est venu à la fin de l’adolescence ou au début de la vingtaine, entre 1995 et 2004, pendant la traversée du Verseau par Uranus.
+Pour les personnes nées de fin 1971 à l’été 1984, avec [Pluton en Balance](/astrology/pluto-in-libra/), le second trigone vient ces années-ci, vers 48 à 53 ans, pendant la traversée des Gémeaux par Uranus, jusqu’en 2033 ; le premier est venu à la fin de l’adolescence ou au début de la vingtaine, entre 1995 et 2004, pendant le passage d’Uranus en Verseau.
 
-Aucune personne née entre 1930 et 2009 n’a [Uranus trigone Pluton](/astrology/uranus-trine-pluto/) dans son thème natal : la facilité de ce couple ne se connaît que par transit. [Uranus en transit carré Pluton du thème natal](/astrology/transiting-uranus-square-natal-pluto/) vient environ sept ans avant le premier trigone et [Uranus en transit opposition Pluton du thème natal](/astrology/transiting-uranus-opposite-natal-pluto/) quatorze ans après ; [Uranus en transit sextile Pluton du thème natal](/astrology/transiting-uranus-sextile-natal-pluto/) et [Uranus en transit conjonction Pluton du thème natal](/astrology/transiting-uranus-conjunct-natal-pluto/) se trouvent plus loin en arrière dans le tour.
+Entre 1930 et 2009, le ciel n’a jamais approché les deux planètes à moins de 6° d’un trigone : [Uranus trigone Pluton](/astrology/uranus-trine-pluto/) ne figure dans aucun thème natal de ces années, et la facilité de ce couple ne se connaît que par transit. [Uranus en transit carré Pluton du thème natal](/astrology/transiting-uranus-square-natal-pluto/) précède le premier trigone d’environ sept ans et [Uranus en transit opposition Pluton du thème natal](/astrology/transiting-uranus-opposite-natal-pluto/) le suit d’environ quatorze ; [Uranus en transit sextile Pluton du thème natal](/astrology/transiting-uranus-sextile-natal-pluto/) et [Uranus en transit conjonction Pluton du thème natal](/astrology/transiting-uranus-conjunct-natal-pluto/) se trouvent plus loin en arrière dans le tour.
 
 ## Ce qui aide {#ce-qui-aide}
 

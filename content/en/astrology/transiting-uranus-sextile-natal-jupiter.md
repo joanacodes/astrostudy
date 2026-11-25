@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Jupiter", "sextile", "transits"]
 weight: 1706
 glyph: "♅⚹♃"
-definition: "Transiting Uranus sextile natal Jupiter is Uranus 60° from the degree Jupiter held at your birth, for about twenty months, usually twice in a life and about 28 or 56 years apart. A new idea, method or field can widen how you understand your life, provided you take it up. I read it as an invitation, not a gift."
+definition: "Transiting Uranus sextile natal Jupiter is Uranus 60° from the degree Jupiter held at your birth, for about twenty months, usually twice in a life and some 27 or 56 years apart. A new idea, method or field can widen how you understand your life, provided you take it up. I read it as an invitation, not a gift."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Jupiter ♃: growth, meaning and what you believe" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/jupiter", "/astrology/sextile", "/astrology/jupiter-sextile-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus sextile natal Jupiter mean?"
-    a: "Uranus stands 60° from the degree of your natal Jupiter. I read it as an opening in your outlook: a subject, a method or a way of thinking you hadn’t tried starts to make sense of what you already knew. Nothing arrives by itself; the sextile rewards whoever follows the lead."
+    a: "A sextile links Uranus to your natal Jupiter, the planet of meaning and growth. I read it as an opening in your outlook: a subject, a method or a way of thinking you hadn’t tried starts to make sense of what you already knew. Nothing arrives by itself; the sextile rewards whoever follows the lead."
   - q: "How long does Uranus sextile Jupiter last?"
     a: "About twenty months, counted from 1½° before the exact sextile to 1° after it, and about eleven for the shortest passes: longer than any transit Jupiter makes itself. Uranus usually crosses the exact angle three times on the way, because its yearly retrograde loop takes it back over the same degrees."
   - q: "When will Uranus sextile my Jupiter?"

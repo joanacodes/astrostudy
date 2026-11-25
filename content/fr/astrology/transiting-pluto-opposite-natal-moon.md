@@ -51,7 +51,7 @@ Si on la compte de 1,5° avant l’exactitude à 1° après, comme je le fais po
 
 À l’opposé de la conjonction sur le cercle de Pluton ([Pluton en transit conjonction Lune du thème natal](/astrology/transiting-pluto-conjunct-natal-moon/)), l’opposition est tout aussi rare : plus de la moitié des personnes nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans, et personne ne la rencontre deux fois, puisque Pluton devrait faire le tour complet. Les carrés ([Pluton en transit carré Lune du thème natal](/astrology/transiting-pluto-square-natal-moon/)) se trouvent à mi-chemin entre les deux, les trigones ([Pluton en transit trigone Lune du thème natal](/astrology/transiting-pluto-trine-natal-moon/)) à 60° de part et d’autre de l’opposition, et les sextiles ([Pluton en transit sextile Lune du thème natal](/astrology/transiting-pluto-sextile-natal-moon/)) à 60° de part et d’autre de la conjonction.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044, l’opposition touche les Lunes en Lion.
+Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), l’opposition touche les Lunes en Lion.
 
 ## Ce qui aide {#ce-qui-aide}
 

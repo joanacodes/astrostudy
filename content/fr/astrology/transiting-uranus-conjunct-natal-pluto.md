@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Pluton", "conjonction", "transits"]
 weight: 1724
 glyph: "♅☌♇"
-definition: "Uranus en transit conjonction Pluton du thème natal, c’est Uranus qui passe sur le degré qu’occupait Pluton à votre naissance, une vingtaine de mois, une fois au plus. Libération et renouveau profond agissent ensemble : un schéma ancien apparaît et se desserre. La rencontrer jeune, tard ou jamais dépend de l’année de naissance."
+definition: "Uranus en transit conjonction Pluton du thème natal, c’est Uranus qui franchit le degré qu’occupait Pluton à votre naissance, une fois au plus : avant 25 ans pour les naissances jusqu’en 1966, après 60 ans ou jamais avant 80 ans pour les naissances à partir de mi-1967. Libération et renouveau profond agissent ensemble, et un schéma ancien se desserre."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Pluton ♇ : profondeur, pouvoir et renouveau" }
@@ -21,18 +21,18 @@ facts:
 related: ["/astrology/uranus", "/astrology/pluto", "/astrology/conjunction", "/astrology/uranus-conjunct-pluto", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "Que veut dire Uranus en transit conjonction Pluton du thème natal ?"
-    a: "Uranus passe sur le degré qu’occupait Pluton à votre naissance, une fois au plus. J’y lis libération et renouveau profond à l’œuvre ensemble : un schéma dans lequel vous viviez depuis des années apparaît et se desserre. Pluton, ici, c’est la transformation, pas la destruction, et le transit ne prédit aucune fin ; il décrit un changement à la racine."
+    a: "Uranus franchit Pluton dans votre thème une fois au plus, dans la jeunesse ou tard dans la vie selon votre année de naissance. J’y lis libération et renouveau profond à l’œuvre ensemble : un schéma dans lequel vous viviez depuis des années apparaît et se desserre. Pluton, ici, c’est la transformation, pas la destruction, et le transit ne prédit aucune fin."
   - q: "Combien de temps dure Uranus conjonction Pluton ?"
-    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant la conjonction exacte à 1° après, et onze environ pour les passages les plus courts. Plus de neuf fois sur dix, on compte trois contacts exacts, Uranus repassant sur Pluton avant de s’en éloigner pour de bon : un changement à la racine se fait par étapes."
+    a: "Le changement à la racine prend son temps : une vingtaine de mois de 1,5° avant la conjonction exacte à 1° après, onze environ au plus court. Plus de neuf fois sur dix, il y a trois contacts exacts : Uranus revient en arrière sur le degré de Pluton, puis le dépasse pour de bon."
   - q: "À quel âge Uranus passe sur Pluton ?"
-    a: "La rencontre d’Uranus et de Pluton dans le ciel date de 1965-1966 : pour une naissance avant, le transit est venu tôt, vers 20 ans pour une naissance début 1935 ; pour une naissance après, il faut attendre presque toute une vie, environ 79 ans pour début 1975. Les naissances de 1966 à 1972 environ ne le rencontrent pas avant 80 ans."
+    a: "La rencontre d’Uranus et de Pluton date de 1965-1966 : pour une naissance avant, le transit est venu tôt, vers 20 ans pour début 1935 ; pour une naissance après, il faut attendre presque toute une vie, environ 79 ans pour début 1975. La plupart des naissances de mi-1967 à début 1972 ne le rencontrent pas avant 80 ans."
   - q: "Uranus conjonction Pluton, est-ce l’annonce d’une mort ?"
     a: "Non. Pluton est la planète de la transformation et du renouveau, pas de la mort, et aucun transit n’en prédit une ; je ne lis jamais un thème pour cela. Le vieux lien entre Pluton, la maison 8 et les fins décrit le changement et le lâcher-prise, que ce transit peut faire remonter."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "l’âge de la conjonction selon l’année de naissance, et combien ne la rencontrent pas avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à Pluton dans le thème natal" }
 ---
-La rencontre d’Uranus et de Pluton dans le ciel date de 1965 et 1966, en Vierge. Qu’Uranus en transit atteigne Pluton de votre thème natal dans votre jeunesse, tard dans la vie ou jamais dépend du côté de cette rencontre où tombe votre naissance, et quand cela arrive, l’envie de se libérer et la pression de se renouveler à la racine partagent un degré pendant une vingtaine de mois.
+Le côté de 1965-1966 où tombe votre naissance, les années où Uranus et Pluton se trouvaient ensemble en Vierge, décide si Uranus en transit atteint Pluton de votre thème dans votre jeunesse, tard dans la vie, ou jamais. Quand cela arrive, l’envie de se libérer et la pression de se renouveler à la racine partagent un degré pendant une vingtaine de mois.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -50,9 +50,9 @@ Un changement à la racine se fait rarement en un seul passage, et ce transit en
 
 Pour une naissance avant le milieu des années 1960, Uranus suivait Pluton et comblait vite l’écart : dans le décompte du site, vers 20 ans pour une naissance début 1935, vers 13 ans pour 1945 et vers 6 ans pour 1955, ce qui fait pour la plupart de cette génération un transit de jeunesse, lu seulement après coup. Avec [Uranus conjonction Pluton](/astrology/uranus-conjunct-pluto/) dans votre thème, pour une naissance de 1963 à 1968, le transit était là à la naissance ou dans la première année.
 
-Après la rencontre, la vie commence avec Uranus déjà au-delà de Pluton, et il faut presque tout un tour pour y revenir : environ 79 ans pour une naissance début 1975, 74 pour 1985, 70 pour 1995 et 65 pour 2005. Pour les naissances de 1966 à 1972 environ, le transit tombe après 80 ans : c’est pourquoi environ 1 personne sur 17 née entre 1930 et 2009 ne le rencontre jamais ([placements générationnels par année de naissance](/astrology/generational-placements-by-birth-year/)).
+Après la rencontre, la vie commence avec Uranus déjà au-delà de Pluton, et il faut presque tout un tour pour y revenir : environ 79 ans pour une naissance début 1975, 74 pour 1985, 70 pour 1995 et 65 pour 2005. Pour la plupart des naissances de mi-1967 à début 1972, le transit tombe après 80 ans : c’est pourquoi environ 1 personne sur 17 parmi les naissances de 1930 à 2009 ne le rencontre jamais ([placements générationnels par année de naissance](/astrology/generational-placements-by-birth-year/)).
 
-Loin de la conjonction, [Uranus en transit sextile Pluton du thème natal](/astrology/transiting-uranus-sextile-natal-pluto/) se tient à quatorze ans environ de chaque côté, [Uranus en transit carré Pluton du thème natal](/astrology/transiting-uranus-square-natal-pluto/) à vingt et un, [Uranus en transit trigone Pluton du thème natal](/astrology/transiting-uranus-trine-natal-pluto/) à vingt-huit, et [Uranus en transit opposition Pluton du thème natal](/astrology/transiting-uranus-opposite-natal-pluto/) à mi-tour.
+Pour les naissances d’avant 1965, la conjonction a ouvert le tour et les autres étapes ont suivi ; pour les naissances d’après 1966, [Uranus en transit sextile Pluton du thème natal](/astrology/transiting-uranus-sextile-natal-pluto/), [Uranus en transit carré Pluton du thème natal](/astrology/transiting-uranus-square-natal-pluto/), [Uranus en transit trigone Pluton du thème natal](/astrology/transiting-uranus-trine-natal-pluto/) et [Uranus en transit opposition Pluton du thème natal](/astrology/transiting-uranus-opposite-natal-pluto/) viennent avant elle, l’opposition dans la vingtaine, la trentaine ou au début de la quarantaine.
 
 ## Ce qui aide {#ce-qui-aide}
 

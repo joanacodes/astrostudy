@@ -25,9 +25,9 @@ faq:
   - q: "Combien de temps dure Neptune trigone Jupiter ?"
     a: "Deux ans et sept mois, c’est la durée habituelle dans mes orbes de 1,5° avant l’exactitude et 1° après, vingt-deux mois le minimum. Dans la plupart des passages, le trigone est exact trois fois, et dans un sur quatre environ cinq fois, au fil des allers et retours de Neptune."
   - q: "Est-ce que Neptune trigone Jupiter est un transit spirituel ?"
-    a: "Il peut l’être, pour les personnes dont le sens des choses est spirituel : la pratique, la foi ou un sentiment de lien viennent plus facilement. Pour d’autres, il prend la forme des études, de l’art ou de la générosité. Dans tous les cas, c’est un élargissement doux, pas une révélation, et il demande une forme pratique."
+    a: "Ce transit peut l’être, pour les personnes dont le sens des choses est spirituel : la pratique, la foi ou un sentiment de lien viennent plus facilement. Pour d’autres, il prend la forme des études, de l’art ou de la générosité. Dans tous les cas, c’est un élargissement doux, pas une révélation, et il demande une forme pratique."
   - q: "Quand vient Neptune trigone Jupiter ?"
-    a: "Cela dépend de votre Jupiter. De 2026 à 2039, il atteint les personnes nées avec Jupiter en Sagittaire, en 1983 ou en 1995 par exemple ; pour une naissance début 1955, il est venu vers 13 ans, et pour 1985 il vient vers 62 ans. Environ 1 personne sur 7 ne le rencontre jamais avant 80 ans."
+    a: "Cela dépend de votre Jupiter. De 2026 à 2039, ce trigone atteint les personnes nées avec Jupiter en Sagittaire, en 1983 ou en 1995 par exemple ; pour une naissance début 1955, il est venu vers 13 ans, et pour 1985 il vient vers 62 ans. Environ 1 personne sur 7 ne le rencontre jamais avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le trigone reste dans mes orbes, à quels âges il vient, et combien de personnes le rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les aspects de Neptune en transit à Jupiter dans le thème natal" }
@@ -48,7 +48,7 @@ Avec [Jupiter trigone Neptune](/astrology/jupiter-trine-neptune/) dans le thème
 
 Neptune garde le trigone dans mes orbes, de 1,5° avant l’exactitude à 1° après, environ deux ans et sept mois, vingt-deux au plus court. Dans la plupart des passages, le trigone est exact trois fois, et dans un sur quatre environ cinq fois : il y a le temps de commencer quelque chose et de le mener au bout.
 
-De 2026 à 2039, avec Neptune en Bélier, le trigone atteint les personnes nées avec Jupiter en Sagittaire, le propre signe de Jupiter : les naissances de 1983 le rencontrent entre 41 et 52 ans environ, celles de 1995 entre 30 et 36 ans environ. Environ 6 personnes sur 7 nées entre 1930 et 2009 le rencontrent à un moment avant 80 ans, certaines deux fois ; pour les naissances du début de 1935 ou de 1975, il ne vient pas.
+De 2026 à 2039, avec Neptune en Bélier, le trigone atteint les personnes nées avec Jupiter en Sagittaire, le propre signe de Jupiter : les naissances de 1983 le rencontrent entre 41 et 52 ans environ, celles de 1995 entre 30 et 36 ans environ. Environ 6 personnes sur 7 nées entre 1930 et 2009 rencontrent ce trigone à un moment avant 80 ans, certaines deux fois ; pour les naissances du début de 1935 ou de 1975, il ne vient pas.
 
 Pour une personne née début 1995, la suite est la suivante : [Neptune en transit sextile Jupiter du thème natal](/astrology/transiting-neptune-sextile-natal-jupiter/) vers 4 ans, [Neptune en transit carré Jupiter du thème natal](/astrology/transiting-neptune-square-natal-jupiter/) vers 18 ans, ce trigone vers 31 ans et [Neptune en transit opposition Jupiter du thème natal](/astrology/transiting-neptune-opposite-natal-jupiter/) vers 58 ans et demi. Pour elle, [Neptune en transit conjonction Jupiter du thème natal](/astrology/transiting-neptune-conjunct-natal-jupiter/) reste au-delà de 80 ans.
 

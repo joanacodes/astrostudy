@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Saturn", "opposition", "transits"]
 weight: 1714
 glyph: "♅☍♄"
-definition: "Transiting Uranus opposite natal Saturn is Uranus 180° from the degree Saturn held at your birth, for about twenty months, once at most, and never for about 1 person in 25. The order you keep faces change that seems to come from outside. I read it as a rebalancing between what should last and what has run its course."
+definition: "Transiting Uranus opposite natal Saturn is Uranus at the point opposite your natal Saturn, once at most, and never for about 1 person in 25. The order you keep faces change that seems to come from outside. I read it as a rebalancing between what should last and what has run its course."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Saturn ♄: structure, responsibility and time" }
@@ -20,9 +20,9 @@ facts:
 related: ["/astrology/uranus", "/astrology/saturn", "/astrology/opposition", "/astrology/saturn-opposite-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus opposite natal Saturn mean?"
-    a: "Uranus stands 180° from your natal Saturn once in a life at most, facing the structures you keep. I read it as the order you keep facing change that seems to come from outside, or your own wish for change facing someone else’s rules. It asks for a balance between what should last and what has outlived its use."
+    a: "Saturn’s structures in your chart face Uranus from the opposite side, once in a life at most. I read it as the order you keep facing change that seems to come from outside, or your own wish for change facing someone else’s rules. It asks for a balance between what should last and what has outlived its use."
   - q: "How long does Uranus opposite Saturn last?"
-    a: "About twenty months, enough for a rule to be challenged, defended and renegotiated: my orbs run from 1½° before the exact opposition to 1° after, and the short passes take about eleven. In more than nine cases out of ten Uranus stands exactly opposite your Saturn three times, once while it moves backwards."
+    a: "About twenty months, enough for a rule to be challenged, defended and renegotiated: my orbs run from 1½° before the exact opposition to 1° after, and the short passes take about eleven. More than nine times in ten, Uranus reaches the point facing your Saturn three times, once while moving backwards."
   - q: "Is Uranus opposite Saturn the same as the Saturn opposition?"
     a: "No. Saturn’s own opposition is Saturn facing its birth degree, at about 14 to 15 and again at about 44. This transit is Uranus facing your Saturn, once at most, at an age set by the angle between the two planets at your birth; about 1 person in 25 never meets it by 80."
   - q: "When will Uranus oppose my Saturn?"

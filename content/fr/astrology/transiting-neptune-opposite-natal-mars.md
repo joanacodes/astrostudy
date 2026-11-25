@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce que Neptune opposition Mars annonce un conflit ?"
     a: "Je ne le lis pas ainsi. Une opposition fait apparaître les choses à travers les autres, et avec Neptune l’autre côté est d’ordinaire flou plutôt qu’hostile : difficile à saisir, facile à prendre en pitié. Je ne lis dans aucun transit des disputes, une trahison ou une rupture."
   - q: "Est-ce que Neptune opposition Mars est rare ?"
-    a: "Avant 80 ans, elle manque un peu moins de la moitié des personnes nées entre 1930 et 2009, et ne vient qu’une fois aux autres. Tout dépend de l’avance qu’avait sur Neptune, à votre naissance, le point opposé à votre Mars, et cette avance peut beaucoup changer entre deux naissances à quelques mois d’écart."
+    a: "Avant 80 ans, cette opposition manque un peu moins de la moitié des personnes nées entre 1930 et 2009, et ne vient qu’une fois aux autres. Tout dépend de l’avance qu’avait sur Neptune, à votre naissance, le point opposé à votre Mars, et cette avance peut beaucoup changer entre deux naissances à quelques mois d’écart."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps l’opposition reste dans mes orbes, et combien de personnes la rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les aspects de Neptune en transit à Mars dans le thème natal" }
@@ -50,7 +50,7 @@ Dans un thème natal, [Mars opposition Neptune](/astrology/mars-opposite-neptune
 
 Neptune reste dans mes orbes de l’opposition, 1,5° avant l’exactitude et 1° après, environ deux ans et sept mois, rarement moins de vingt-deux. Mars revient sur son degré de naissance tous les deux ans environ : votre retour de Mars tombe donc au moins une fois pendant le passage, et pendant ces quelques jours, Mars dans le ciel fait face à Neptune à travers votre thème, tout le transit en miniature. Neptune franchit le point exact trois fois dans la plupart des passages, cinq fois dans un sur quatre environ.
 
-Avant 80 ans, elle atteint un peu plus de la moitié des personnes nées entre 1930 et 2009, et aucune deux fois.
+Avant 80 ans, cette opposition atteint un peu plus de la moitié des personnes nées entre 1930 et 2009, et aucune deux fois.
 
 Si vous rencontrez l’opposition jeune, [Neptune en transit trigone Mars du thème natal](/astrology/transiting-neptune-trine-natal-mars/) suit vingt-sept ans plus tard environ, et [Neptune en transit carré Mars du thème natal](/astrology/transiting-neptune-square-natal-mars/) quarante et un ans plus tard ; rencontrée tard, ces deux transits sont venus avant. [Neptune en transit sextile Mars du thème natal](/astrology/transiting-neptune-sextile-natal-mars/) se trouve à cinquante-cinq ans environ de part et d’autre, et [Neptune en transit conjonction Mars du thème natal](/astrology/transiting-neptune-conjunct-natal-mars/) à l’autre bout du cercle.
 

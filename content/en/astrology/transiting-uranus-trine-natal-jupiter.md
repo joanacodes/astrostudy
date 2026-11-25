@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/jupiter", "/astrology/trine", "/astrology/jupiter-trine-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus trine natal Jupiter mean?"
-    a: "Uranus stands 120° from your natal Jupiter, usually in a sign of the same element. For about twenty months, change and growth pull the same way: a new idea, method or direction widens your outlook without having to overturn it. I read it as an easy season for learning and rethinking, one that still needs you to choose where to go."
+    a: "Learning comes easily while Uranus is 120° from your natal Jupiter: a new idea, method or direction widens your horizon without having to overturn it. I read it as an easy season for study and rethinking, one that still needs you to choose where to go."
   - q: "How long does Uranus trine Jupiter last?"
     a: "About twenty months, from 1½° before the exact trine to 1° after, and about eleven when the pass is short, even when Uranus touches the exact degree only once, as it does in about one pass in fourteen. Most passes bring three exact hits, because of Uranus’s yearly retrograde loop."
   - q: "Does Uranus trine Jupiter bring money or luck?"

@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce que Neptune trigone Mars est bon pour le travail créatif ?"
     a: "C’est l’un des transits les plus bienveillants pour cela : l’inspiration et l’effort coopèrent, si bien que les longs projets d’art, de musique, de construction ou de soin peuvent paraître tenables. Le trigone ne fait pas le travail et ne promet aucun résultat ; il rend plus naturel le travail que vous choisissez, tant qu’il dure."
   - q: "Est-ce que Neptune trigone Mars est fréquent ?"
-    a: "Environ 6 personnes sur 7 nées entre 1930 et 2009 le rencontrent avant 80 ans, certaines deux fois, à cinquante-cinq ans d’écart environ. Pour les autres, les deux points de trigone restent hors de portée de Neptune pendant ces quatre-vingts ans, et ce sont le carré, le sextile et la conjonction qui viennent à la place."
+    a: "Environ 6 personnes sur 7 nées entre 1930 et 2009 rencontrent ce trigone avant 80 ans, certaines deux fois, à cinquante-cinq ans d’écart environ. Pour les autres, les deux points de trigone restent hors de portée de Neptune pendant ces quatre-vingts ans, et ce sont le carré, le sextile et la conjonction qui viennent à la place."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le trigone reste dans mes orbes, et combien de personnes le rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les aspects de Neptune en transit à Mars dans le thème natal" }

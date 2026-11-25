@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Neptune", "conjunction", "transits"]
 weight: 1719
 glyph: "♅☌♆"
-definition: "Transiting Uranus conjunct natal Neptune is Uranus passing over the degree Neptune held at your birth, for about twenty months, once at most. Invention and imagination work as one: an ideal is renewed, a dream finds a new form. Its age depends on your birth year, and some people never meet it."
+definition: "Transiting Uranus conjunct natal Neptune is Uranus catching up with the degree Neptune held at your birth, once at most, at an age that falls with each decade of birth until the two planets met in 1993. Invention and imagination work as one: an ideal is renewed, a dream finds a new form."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Neptune ♆: imagination, ideals and compassion" }
@@ -20,13 +20,13 @@ facts:
 related: ["/astrology/uranus", "/astrology/neptune", "/astrology/conjunction", "/astrology/uranus-conjunct-neptune", "/astrology/generational-placements-by-birth-year"]
 faq:
   - q: "What does transiting Uranus conjunct natal Neptune mean?"
-    a: "Uranus passes over the degree your Neptune held at birth, once at most. Imagination and invention work as one: a dream finds a new form, an ideal is refreshed or replaced, inspiration arrives through new tools or ideas. I read it as a renewal of what you imagine and believe, one worth testing slowly."
+    a: "Once in a life at most, Uranus meets your natal Neptune on the same degree. Imagination and invention work as one: a dream finds a new form, an ideal is refreshed or replaced, inspiration arrives through new tools or ideas. I read it as a renewal of what you imagine and believe, one worth testing slowly."
   - q: "How long does Uranus conjunct Neptune last?"
-    a: "About twenty months, with my orbs from 1½° before the exact conjunction to 1° after, and about eleven when the pass is short. In more than nine passes out of ten Uranus crosses your Neptune three times, because of the retrograde loop it makes every year: time to test a new vision as well as glimpse it."
+    a: "A new vision has time to be glimpsed and then tested: about twenty months, with my orbs from 1½° before the exact conjunction to 1° after, and about eleven when the pass is short. In more than nine passes out of ten Uranus reaches your Neptune, slips back over it while retrograde and crosses it a third time."
   - q: "When does Uranus conjunct my Neptune?"
-    a: "It depends on your birth year. Before the two planets met in 1993, Uranus was catching up with Neptune, so the transit came earlier for later births: at about 30 for someone born at the start of 1935, about 8 for someone born at the start of 1975. Born just after 1993, you won’t meet it before 80."
+    a: "It depends on your birth year. Before the two planets met in 1993, Uranus was catching up with Neptune, so the transit came earlier for later births: at about 30 for someone born at the start of 1935, about 8 for someone born at the start of 1975. Born from 1994 to 1999, you mostly won’t meet it before 80."
   - q: "Why do some people never have Uranus conjunct Neptune?"
-    a: "Because Uranus had just passed Neptune when they were born. For most births of the mid and late 1990s, Uranus has to travel almost its whole 84-year round to come back to natal Neptune, so the transit falls after 80. About 1 person in 17 born between 1930 and 2009 never meets it."
+    a: "Because Uranus had just passed Neptune when they were born. For most births of the mid and late 1990s, Uranus has to travel almost its whole 84-year round to come back to natal Neptune, so the transit falls after 80. Of everyone born from 1930 to 2009, that is about 1 person in 17."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the age at the conjunction by birth year, and how many never meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to natal Neptune" }

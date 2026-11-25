@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Saturn", "sextile", "transits"]
 weight: 1711
 glyph: "♅⚹♄"
-definition: "Transiting Uranus sextile natal Saturn is Uranus 60° from the degree Saturn held at your birth, for about twenty months, usually twice in a life and sometimes more than fifty years apart. Structure and change cooperate: a routine, a method or a commitment can be modernised without being torn down. I read it as reform by proposal."
+definition: "Transiting Uranus sextile natal Saturn is Uranus 60° from the degree Saturn held at your birth, a twenty-month opening to update the duties you carry. Structure and change cooperate: a routine, a method or a commitment can be updated without being torn down. I read it as reform by proposal."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Saturn ♄: structure, responsibility and time" }
@@ -20,9 +20,9 @@ facts:
 related: ["/astrology/uranus", "/astrology/saturn", "/astrology/sextile", "/astrology/saturn-sextile-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus sextile natal Saturn mean?"
-    a: "For about twenty months, Uranus stands 60° from your natal Saturn, the planet of the duties you carry. I read it as an opening to update something you’re responsible for, a routine, a method, a long commitment, by proposal rather than protest. The structure stays and one part of it gets modernised, if you take the chance."
+    a: "For about twenty months, Uranus stands 60° from your natal Saturn, the planet of duty. I read it as an opening to update something you’re responsible for, a routine, a method, a long commitment, by proposal rather than protest. The structure stays and one part of it gets modernised, if you take the chance."
   - q: "How long does Uranus sextile Saturn last?"
-    a: "Long enough for a careful Saturn to come round to a change: about twenty months, from 1½° before the exact sextile to 1° after, and about eleven for the shortest passes. In more than nine passes in ten, the yearly retrograde loop brings three exact contacts."
+    a: "A careful Saturn has time to come round to a change: the sextile holds for about twenty months, from 1½° before exact to 1° after, and about eleven in the shortest passes. In more than nine passes in ten, the yearly retrograde loop brings three exact contacts."
   - q: "When will Uranus sextile my Saturn?"
     a: "When Uranus reaches one of the two points 60° from your Saturn, so the age follows the angle between the two planets at your birth: in the site’s count, about 9 for someone born at the start of 1985 and about 46 for the start of 1975. Most people meet two by 80."
   - q: "Is Uranus sextile Saturn a good transit?"

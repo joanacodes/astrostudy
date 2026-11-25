@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/sextile", "/astrology/uranus-opposition", "/astrology/uranus-return", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit sextile Uranus du thème natal ?"
-    a: "Uranus se trouve à 60° de sa position de naissance, une étape de son propre cycle de 84 ans. Ce sextile vient deux fois, vers 13 ans et vers 70 ans. J’y lis, la seconde fois, une ouverture vers des libertés concrètes et de petites expériences, une saison où essayer du neuf coûte peu, à condition de s’en saisir."
+    a: "Vers 13 ans, puis vers 70 ans, Uranus se trouve à 60° de sa place au moment de votre naissance. J’y lis, la seconde fois, une ouverture vers des libertés concrètes et de petites expériences, une saison où essayer du neuf coûte peu, à condition de s’en saisir."
   - q: "À quel âge arrive le sextile d’Uranus ?"
     a: "Le premier vient vers 13 ans : entre 11 ans et demi et 15 ans environ pour toutes les naissances de 1930 à 2009, dans le décompte du site. Le second vient sur le chemin du retour, entre 67 et 71 ans environ. Le second est donc celui qu’une personne adulte vit au moment où il arrive."
   - q: "Combien de temps dure le sextile d’Uranus ?"
-    a: "Une vingtaine de mois chaque fois, à 13 ans comme à 70, de 1,5° avant le sextile exact à 1° après, et onze environ quand le passage est court. Le plus souvent, Uranus franchit trois fois l’angle exact pendant ce temps, parce que cette planète passe environ cinq mois par an en rétrograde."
+    a: "À 13 ans comme à 70, un sextile reste dans mes orbes, de 1,5° avant l’exactitude à 1° après, une vingtaine de mois, ou onze environ quand le passage est court. Dans plus de neuf cas sur dix, Uranus franchit trois fois cet angle à sa propre position de naissance, en passant environ cinq mois par an en rétrograde."
   - q: "Que veut dire le sextile d’Uranus à 13 ans ?"
     a: "C’est le premier pas du cycle d’Uranus après la naissance. Je ne lis pas le thème des enfants, donc je ne le lis pas au moment où il se produit. Une personne adulte peut y revenir, dans la lecture de son propre thème, comme le début du cycle qui amène ensuite les carrés, les trigones et l’opposition."
 sources:
@@ -52,7 +52,7 @@ Comme la planète en transit et la planète natale ne font qu’une, l’âge es
 
 Les personnes nées entre août 1955 et août 1962, avec Uranus en Lion, vivent le second en ce moment : Uranus en Gémeaux, jusqu’en 2033, se tient à 60° de leur position natale, presque au bout du tour ([Uranus en Gémeaux, 2026-2033](/astrology/uranus-in-gemini-2026-2033/)).
 
-Entre les deux sextiles s’étend tout le cycle : [Uranus en transit carré Uranus du thème natal](/astrology/transiting-uranus-square-natal-uranus/) vers 20 ans puis dans la soixantaine, [Uranus en transit trigone Uranus du thème natal](/astrology/transiting-uranus-trine-natal-uranus/) à la fin de la vingtaine et au milieu de la cinquantaine, et [Uranus en transit opposition Uranus du thème natal](/astrology/transiting-uranus-opposite-natal-uranus/), l'[opposition d’Uranus](/astrology/uranus-opposition/), vers 42 ans. Après le second sextile ne reste que le [retour d’Uranus](/astrology/uranus-return/), vers 84 ans.
+Entre les deux sextiles s’étend tout le cycle : [Uranus en transit carré Uranus du thème natal](/astrology/transiting-uranus-square-natal-uranus/) vers 20 ans puis dans la soixantaine, [Uranus en transit trigone Uranus du thème natal](/astrology/transiting-uranus-trine-natal-uranus/) à la fin de la vingtaine et au milieu de la cinquantaine, et [Uranus en transit opposition Uranus du thème natal](/astrology/transiting-uranus-opposite-natal-uranus/), l’[opposition d’Uranus](/astrology/uranus-opposition/), vers 42 ans. Après le second sextile ne reste que le [retour d’Uranus](/astrology/uranus-return/), vers 84 ans.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -20,13 +20,13 @@ facts:
 related: ["/astrology/uranus", "/astrology/pluto", "/astrology/trine", "/astrology/uranus-trine-pluto", "/astrology/pluto-in-libra"]
 faq:
   - q: "What does transiting Uranus trine natal Pluto mean?"
-    a: "Uranus stands 120° from the degree your Pluto held at birth. I read it as deep change and the urge to renew running the same way: an old fear loosens, a long arrangement is reorganised, a hard-won strength is used more freely. It is ease at depth, which still needs a purpose to give it shape."
+    a: "Uranus trines your natal Pluto, which renews what has run its course. I read it as deep change and the urge to renew running the same way: an old fear loosens, a long arrangement is reorganised, a hard-won strength is used more freely. It is ease at depth, which still needs a purpose to give it shape."
   - q: "How long does Uranus trine Pluto last?"
-    a: "About twenty months each time, from 1½° before the exact trine to 1° after, and about eleven for a short pass. In more than nine passes out of ten Uranus makes the exact trine three times, so work it supports can be begun, reviewed and finished within the same season."
+    a: "About twenty months on each of its two visits, from 1½° before the exact trine to 1° after, or about eleven when a pass is short. Work it supports can be begun, reviewed and finished within the same season: in more than nine passes out of ten, Uranus is exactly 120° from your Pluto on three separate occasions."
   - q: "Does everyone have Uranus trine Pluto?"
     a: "By transit, yes: everyone born between 1930 and 2009 meets it twice by 80, the only contact between the two planets that comes twice to all of them. In a birth chart, no: in those eighty years the two planets never came within 6° of a trine."
   - q: "Who has Uranus trine Pluto now?"
-    a: "People born from late 1971 to the summer of 1984, with Pluto in Libra. Uranus is in Gemini until 2033, 120° from that Pluto, so their second trine falls in these years, at about 48 to 53. Their first came between 1995 and 2004, while Uranus crossed Aquarius."
+    a: "Those born from late 1971 to the summer of 1984, whose Pluto is in Libra, at about 48 to 53: Uranus is 120° from that Pluto while it crosses Gemini, until 2033. It is their second trine; the first came in the years Uranus spent in Aquarius, 1995 to 2004."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the age at the first trine by birth year, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to natal Pluto" }
@@ -41,7 +41,7 @@ Under the trine, change that would usually take a crisis can happen with far les
 
 The trine's risk is that deep change passes unnoticed. Pluto works out of sight, a trine doesn't insist, and the season can end with its best use untried. I'd give it one piece of deep work on purpose.
 
-With Pluto in your 10th and Uranus crossing your 2nd ([Uranus transiting the 2nd house](/astrology/uranus-transit-2nd-house/)), the work you've transformed over the years finds support in what you value and know you can rely on. Your birth time draws both houses, and without it there's no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Pluto in your 10th and Uranus crossing your 2nd ([Uranus transiting the 2nd house](/astrology/uranus-transit-2nd-house/)), the work you've transformed over the years finds support in what you value and know you can rely on. Drawing the 2nd and the 10th takes your birth time, and with no time there's no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
@@ -49,9 +49,9 @@ Each trine stays within my orbs, 1½° before exact to 1° after, for about twen
 
 In the site's count the first trine came at about 45 for someone born at the start of 1935, about 32 for 1955, about 22 for 1975 and about 11 for 2005, and the second some twenty-seven to thirty years after it: by 80, every birth from 1930 to 2009 has met both.
 
-Uranus in Gemini, until 2033, reaches 120° from every natal Pluto in Libra ([Pluto in Libra](/astrology/pluto-in-libra/)), the Pluto of births from late 1971 to the summer of 1984. Their second trine falls in these years, at about 48 to 53; their first came in their late teens or early twenties, between 1995 and 2004, while Uranus crossed Aquarius.
+For people born from late 1971 to the summer of 1984, with [Pluto in Libra](/astrology/pluto-in-libra/), the second trine comes in these years, at about 48 to 53, while Uranus crosses Gemini until 2033; the first came in their late teens or early twenties, between 1995 and 2004, while it crossed Aquarius.
 
-No one born between 1930 and 2009 has [Uranus trine Pluto](/astrology/uranus-trine-pluto/) in the birth chart, so this pair's ease is known only by transit. [Transiting Uranus square natal Pluto](/astrology/transiting-uranus-square-natal-pluto/) comes about seven years before the first trine and [transiting Uranus opposite natal Pluto](/astrology/transiting-uranus-opposite-natal-pluto/) about fourteen after it; [transiting Uranus sextile natal Pluto](/astrology/transiting-uranus-sextile-natal-pluto/) and [transiting Uranus conjunct natal Pluto](/astrology/transiting-uranus-conjunct-natal-pluto/) lie further back in the round.
+The sky never brought the two planets within 6° of a trine between 1930 and 2009, so [Uranus trine Pluto](/astrology/uranus-trine-pluto/) is in no birth chart of those years, and the pair's ease is known only by transit. [Transiting Uranus square natal Pluto](/astrology/transiting-uranus-square-natal-pluto/) leads into the first trine by about seven years and [transiting Uranus opposite natal Pluto](/astrology/transiting-uranus-opposite-natal-pluto/) follows it by about fourteen; [transiting Uranus sextile natal Pluto](/astrology/transiting-uranus-sextile-natal-pluto/) and [transiting Uranus conjunct natal Pluto](/astrology/transiting-uranus-conjunct-natal-pluto/) lie further back in the round.
 
 ## What helps {#what-helps}
 

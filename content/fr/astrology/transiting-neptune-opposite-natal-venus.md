@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce que Neptune opposition Vénus annonce une rupture ?"
     a: "Non. Je ne lis jamais dans un transit une séparation, une tromperie ou un nouveau partenaire. Cette opposition décrit la tension entre vos propres valeurs et les rêves des autres pendant ces années ; ce qui arrive dans vos relations dépend des personnes qui les vivent, pas de la position de Neptune."
   - q: "Est-ce que Neptune opposition Vénus est rare ?"
-    a: "Elle vient, une seule fois, à la moitié environ des personnes nées entre 1930 et 2009 avant 80 ans. Presque toutes les autres rencontrent la conjonction à la place : les deux points sont à un demi-cercle l’un de l’autre, et Neptune parcourt un peu moins d’un demi-cercle en quatre-vingts ans."
+    a: "Cette opposition vient, une seule fois, à la moitié environ des personnes nées entre 1930 et 2009 avant 80 ans. Presque toutes les autres rencontrent la conjonction à la place : les deux points sont à un demi-cercle l’un de l’autre, et Neptune parcourt un peu moins d’un demi-cercle en quatre-vingts ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps l’opposition reste dans mes orbes, et combien de personnes la rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les aspects de Neptune en transit à Vénus dans le thème natal" }
