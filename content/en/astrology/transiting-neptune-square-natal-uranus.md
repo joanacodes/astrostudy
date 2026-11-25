@@ -5,6 +5,8 @@ description: "Transiting Neptune square natal Uranus: two and a half years when 
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Neptune", "Uranus", "square", "transits"]
 weight: 1776
 glyph: "♆□♅"
 definition: "Transiting Neptune square natal Uranus is a 90° friction between Neptune and your birth Uranus, about two and a half years long, that nearly everyone born between 1930 and 2009 meets at an age set by the birth year. Reform and longing rub until a workable change emerges. I read it as utopias meeting practice."
