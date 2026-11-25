@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Cancer", "maison 6", "cuspides des maisons"]
 weight: 2470
 glyph: "♋"
-definition: "Le Cancer sur la cuspide de la maison 6 signifie que le signe de la Lune ouvre la maison du travail quotidien, des routines et du soin de soi : vos journées vivent de rythmes familiers et de l’attention aux autres. Vous travaillez mieux là où vous vous sentez chez vous. Ce que servent vos journées se lit dans la maison qu’occupe la Lune, maîtresse de la maison 6."
+definition: "Le Cancer sur la cuspide de la maison 6 met le travail quotidien, les routines et le soin de soi sous le signe de la Lune : vos journées vivent de rythmes familiers et d’attention aux autres. Le travail va mieux là où vous êtes à votre place. La maison qu’occupe la Lune dit ce que servent vos journées."
 facts:
   - { k: "Signe", v: "Cancer ♋, eau cardinale" }
   - { k: "Cuspide", v: "Maison 6 : le travail quotidien, les routines, le soin de soi" }

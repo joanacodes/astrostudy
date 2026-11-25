@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Cancer", "maison 10", "cuspides des maisons"]
 weight: 2474
 glyph: "♋"
-definition: "Le Cancer sur la cuspide de la maison 10 place au sommet du thème le signe qui revient par nature à sa base : votre Milieu du Ciel est en Cancer. On vous connaît pour prendre soin de gens ou d’équipes. Avec l’ascendant Balance, à Londres comme à New York, Vénus gouverne l’avant de votre thème et la Lune son sommet."
+definition: "Le Cancer sur la cuspide de la maison 10 place au sommet du thème le signe qui revient par nature à sa base : votre Milieu du Ciel est en Cancer. On vous connaît pour prendre soin de gens ou d’équipes. Avec l’ascendant Balance, Vénus gouverne l’avant du thème et la Lune son sommet."
 facts:
   - { k: "Signe", v: "Cancer ♋, eau cardinale" }
   - { k: "Cuspide", v: "Maison 10, ouverte par le Milieu du Ciel" }
@@ -25,7 +25,7 @@ faq:
   - q: "Quels métiers pour un Milieu du Ciel en Cancer ?"
     a: "Aucun Milieu du Ciel ne choisit une carrière. Un Milieu du Ciel en Cancer décrit un rôle public où vous prenez soin de quelque chose : des gens, un lieu, une tradition, une équipe. Beaucoup de métiers peuvent l’accueillir. La maison et le signe de la Lune montrent ensuite où ce soin se dépense."
   - q: "La Lune est-elle maîtresse de mon thème avec un Milieu du Ciel en Cancer ?"
-    a: "Non : avec le Cancer au Milieu du Ciel, la Balance se lève aux latitudes de Londres et de New York, et c’est Vénus qui gouverne votre thème. La Lune gouverne votre maison 10, et Saturne votre maison 4 : le soin en public, la structure à la maison."
+    a: "Non : avec le Cancer au Milieu du Ciel, la Balance se lève aux latitudes de Londres et de New York, et c’est Vénus qui gouverne votre thème. La Lune a la maison 10, Saturne la maison 4 : le soin en public, la structure à la maison."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les cuspides de Placidus pour des naissances réparties sur toute une journée, à Londres et à New York, et les signes qui se lèvent avec elles" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "la Lune, maîtresse du Cancer ; Saturne, du Capricorne ; Vénus, de la Balance" }

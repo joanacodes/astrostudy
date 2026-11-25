@@ -2,7 +2,7 @@
 title: "Gémeaux sur la cuspide de la maison 4"
 slug: "gemeaux-cuspide-maison-4"
 h1: "Gémeaux sur la cuspide de la maison 4 dans un thème natal"
-description: "Gémeaux sur la cuspide de la maison 4, ou Fond du Ciel en Gémeaux : un foyer de paroles et de passages, Mercure maître de vos racines, le Sagittaire en haut."
+description: "Gémeaux sur la cuspide de la maison 4 : un foyer de paroles et de passages au Fond du Ciel, Mercure maître de vos racines, le Sagittaire en haut."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Gémeaux", "maison 4", "cuspides des maisons"]
 weight: 2457
 glyph: "♊"
-definition: "Avec les Gémeaux sur la cuspide de la maison 4, votre Fond du Ciel tombe dans le signe de la parole et de la curiosité, et la maison 4, celle du foyer et des racines, en prend le ton. Vous vous sentez chez vous là où idées et gens circulent. Le Sagittaire est toujours en face, au sommet du thème."
+definition: "Avec les Gémeaux sur la cuspide de la maison 4, votre Fond du Ciel tombe dans le signe de la parole, et la maison 4, celle du foyer et des racines, en prend le ton. Vous vous sentez chez vous là où idées et gens circulent. Le Sagittaire est toujours en face, au sommet du thème."
 facts:
   - { k: "Signe", v: "Gémeaux ♊, air mutable" }
   - { k: "Cuspide", v: "Maison 4, ouverte par le Fond du Ciel" }
@@ -25,7 +25,7 @@ faq:
   - q: "Un Fond du Ciel en Gémeaux veut-il dire déménager souvent ?"
     a: "Pas sous forme de prédiction. Un Fond du Ciel en Gémeaux décrit un besoin de mouvement et de variété dans la vie privée, que certaines personnes satisfont en déménageant, et beaucoup d’autres avec des visites, des livres, une autre pièce ou un second point d’attache. Combien de fois vous déménagerez dépend de votre vie, qu’aucun thème ne décide."
   - q: "Pourquoi ai-je toujours le Sagittaire au Milieu du Ciel avec un Fond du Ciel en Gémeaux ?"
-    a: "Parce que le Fond du Ciel et le Milieu du Ciel sont les deux bouts d’une même ligne qui traverse le thème, toujours exactement opposés. Avec les Gémeaux en bas, le Sagittaire est en haut : Jupiter gouverne votre maison 10 et Mercure votre maison 4, et je lis les deux bouts ensemble."
+    a: "Parce que le Milieu du Ciel est toujours le degré exactement opposé au Fond du Ciel : quand les Gémeaux sont à la base du thème, le Sagittaire en occupe le sommet, et Jupiter gouverne votre maison 10 et Mercure votre maison 4, et je lis les deux bouts ensemble."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les cuspides de Placidus pour des naissances réparties sur toute une journée, à Londres et à New York, et les signes qui se lèvent avec elles" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure, maître des Gémeaux et de la Vierge ; Jupiter, du Sagittaire et des Poissons" }

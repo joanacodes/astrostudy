@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Cancer", "maison 9", "cuspides des maisons"]
 weight: 2473
 glyph: "♋"
-definition: "Le Cancer sur la cuspide de la maison 9 réunit deux vieilles dignités : la maison des convictions, des études et des longs voyages, celle de Jupiter par nature, s’ouvre dans le signe d’exaltation de Jupiter. Vous croyez par l’appartenance et voyagez vers des gens et des lieux qui vous tiennent à cœur. La Lune, sa maîtresse, oriente votre quête de sens vers la maison qu’elle occupe."
+definition: "Le Cancer sur la cuspide de la maison 9 réunit deux vieilles dignités : la maison des convictions et des longs voyages, celle de Jupiter, s’ouvre dans son signe d’exaltation. Vous croyez par l’appartenance et voyagez vers des lieux qui vous tiennent à cœur. La Lune, sa maîtresse, oriente votre quête de sens vers sa propre maison."
 facts:
   - { k: "Signe", v: "Cancer ♋, eau cardinale" }
   - { k: "Cuspide", v: "Maison 9 : les convictions, les études supérieures, les longs voyages" }

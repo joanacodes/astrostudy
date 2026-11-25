@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Cancer", "maison 11", "cuspides des maisons"]
 weight: 2475
 glyph: "♋"
-definition: "Le Cancer sur la cuspide de la maison 11 place l’amitié et la communauté dans le signe du soin, celui où Jupiter, qui a sa joie dans cette maison, trouve son exaltation. Vous gardez vos amis des années et prenez soin des groupes que vous rejoignez. La Lune, maîtresse de la maison, montre par sa place où vous trouvez les vôtres."
+definition: "Le Cancer sur la cuspide de la maison 11 place l’amitié et la communauté dans le signe du soin, où Jupiter, qui a sa joie dans cette maison, trouve son exaltation. Vous gardez vos amis des années et prenez soin des groupes que vous rejoignez. La place de la Lune, sa maîtresse, montre où vous trouvez les vôtres."
 facts:
   - { k: "Signe", v: "Cancer ♋, eau cardinale" }
   - { k: "Cuspide", v: "Maison 11 : l’amitié, la communauté, les espoirs partagés" }

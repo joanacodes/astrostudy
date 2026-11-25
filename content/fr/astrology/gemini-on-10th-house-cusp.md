@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Gémeaux", "maison 10", "cuspides des maisons"]
 weight: 2463
 glyph: "♊"
-definition: "Les Gémeaux sur la cuspide de la maison 10, c’est un Milieu du Ciel en Gémeaux : votre vie publique, votre carrière et votre réputation commencent dans le signe de l’échange. On vous connaît pour expliquer, relier et vous adapter, souvent dans plus d’un rôle. Aux latitudes de Londres et de New York, l’ascendant est toujours Vierge : Mercure gouverne aussi votre thème."
+definition: "Les Gémeaux sur la cuspide de la maison 10 font commencer votre vie publique et votre réputation dans le signe de l’échange, au Milieu du Ciel. On vous connaît pour expliquer, relier et vous adapter, souvent dans plus d’un rôle. Aux latitudes de Londres et de New York, l’ascendant est toujours en Vierge : Mercure gouverne aussi votre thème."
 facts:
   - { k: "Signe", v: "Gémeaux ♊, air mutable" }
   - { k: "Cuspide", v: "Maison 10, ouverte par le Milieu du Ciel" }

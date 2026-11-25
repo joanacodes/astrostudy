@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Cancer", "maison 4", "cuspides des maisons"]
 weight: 2468
 glyph: "♋"
-definition: "Avec le Cancer sur la cuspide de la maison 4, le foyer, la famille et les racines commencent au Fond du Ciel dans leur propre signe naturel. Le foyer est souvent un refuge que vous entretenez et où vous revenez. La Lune, maîtresse naturelle de la maison 4, la gouverne ici aussi, et sa place montre où vous vous sentez chez vous."
+definition: "Avec le Cancer sur la cuspide de la maison 4, le foyer, la famille et les racines commencent au Fond du Ciel dans leur propre signe. Le foyer est souvent un refuge que vous entretenez. La Lune, sa maîtresse naturelle, la gouverne ici aussi, et sa place montre où vous vous sentez chez vous."
 facts:
   - { k: "Signe", v: "Cancer ♋, eau cardinale" }
   - { k: "Cuspide", v: "Maison 4, ouverte par le Fond du Ciel" }

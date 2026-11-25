@@ -24,7 +24,7 @@ faq:
   - q: "Does a Gemini IC mean moving house a lot?"
     a: "Not as a forecast. A Gemini IC describes a need for movement and variety in private life, which some people meet by moving and many meet with visitors, books, a change of room or a second base. How often you move depends on your life, which no chart decides."
   - q: "Why is Sagittarius always on my Midheaven with a Gemini IC?"
-    a: "Because the IC and the Midheaven are the two ends of one line through the chart, always exactly opposite. With Gemini at the bottom, Sagittarius is at the top, so Jupiter rules your 10th house while Mercury rules your 4th, and I read the two ends together."
+    a: "Because the Midheaven is always the degree exactly opposite the IC, so whenever Gemini sits at the base of the chart, Sagittarius crowns it, and Jupiter rules your 10th house while Mercury rules your 4th, and I read the two ends together."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "Placidus cusps for births spread evenly over a day at London and New York, with the signs that rise alongside" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury as the ruler of Gemini and Virgo, Jupiter of Sagittarius and Pisces" }
