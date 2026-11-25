@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Neptune reste dans mes orbes, et combien de fois le sextile revient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Neptune, un par un" }
 ---
-De tous les contacts de Neptune avec votre Soleil, le sextile est le plus discret : il exige peu et donne sans bruit. Pendant environ deux ans et demi, une version plus imaginative ou plus généreuse de votre direction est à portée de main, et rien ne vous la tendra.
+De tous les contacts de Neptune avec votre Soleil, aucun n’est plus discret que le sextile : il exige peu et donne sans bruit. Pendant environ deux ans et demi, une version plus imaginative ou plus généreuse de votre direction est à portée de main, et rien ne vous la tendra.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -39,7 +39,7 @@ De tous les contacts de Neptune avec votre Soleil, le sextile est le plus discre
 
 La maison de votre Soleil et celle que traverse Neptune montrent où se trouve l’ouverture. Avec le Soleil en maison 5 et Neptune en maison 3, ce que vous écrivez, apprenez ou dites ([Neptune en transit en maison 3](/astrology/neptune-transit-3rd-house/)) peut porter ce que vous aimez faire ; avec le Soleil en maison 11 et Neptune en maison 9, un idéal partagé et une croyance plus large se rejoignent. Les deux maisons découlent de votre heure de naissance : c’est par elle que je commence ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-L’angle mort de Neptune, ici, est de croire que l’idéal se débrouillera seul. Un sextile fonctionne quand le rêve reçoit un rendez-vous dans l’agenda.
+Ici, l’angle mort de Neptune consiste à croire que l’idéal se débrouillera seul. Un sextile fonctionne quand le rêve reçoit un rendez-vous dans l’agenda.
 
 ## Combien de temps {#combien-de-temps}
 

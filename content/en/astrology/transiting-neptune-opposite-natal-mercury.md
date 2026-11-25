@@ -34,7 +34,7 @@ An opposition works through what stands across from you, and for Mercury that me
 
 ## What changes {#what-changes}
 
-[Neptune](/astrology/neptune/) carries ideals, images and the moods of a crowd; [Mercury](/astrology/mercury/) is how you take things in, weigh them and answer. An [opposition](/astrology/opposition/), 180°, sets the two functions at either end of one line, each clearer for the other. Under this [transit](/astrology/transits/), a teacher, a partner, a movement or a well-told story can be very convincing, and empathy makes it easy to adopt someone else's way of seeing. That isn't a weakness; it's the opposition doing its work, showing your thinking by contrast.
+[Neptune](/astrology/neptune/) carries ideals, images and the moods of a crowd; [Mercury](/astrology/mercury/) is how you take things in, weigh them and answer. An [opposition](/astrology/opposition/), 180°, sets the two functions at either end of one line, and each shows up better against the other. Under this [transit](/astrology/transits/), a teacher, a partner, a movement or a well-told story can be very convincing, and empathy makes it easy to adopt someone else's way of seeing. That isn't a weakness; it's the opposition doing its work, showing your thinking by contrast.
 
 Neptune's blind spot is confusing empathy with accurate knowledge of another person, and its partner here is confusing resonance with truth. Listening fully and agreeing are two different acts, and this transit gives practice in keeping them apart. If someone's certainty sounds lovelier than their evidence, that's worth noticing, gently, without assuming bad faith. I don't read deception from it, or any legal or financial outcome ([how I read](/how-i-read/)).
 

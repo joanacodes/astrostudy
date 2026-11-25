@@ -43,7 +43,7 @@ Avec la Lune en maison 5 et Neptune en maison 9, le plaisir créatif et une quê
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, ce [transit](/astrology/transits/) se prolonge environ deux ans et demi, vingt-deux mois environ dans les cas les plus serrés ; trois contacts exacts sont la norme, et cinq arrivent environ une fois sur quatre, quand les boucles rétrogrades de Neptune se chevauchent. Chaque année, Neptune est rétrograde environ cinq mois : un passage du milieu se fait donc pendant le recul, une pause naturelle pour revoir ce que le premier a remué.
+Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Neptune fait durer ce [transit](/astrology/transits/) environ deux ans et demi, vingt-deux mois environ dans les cas les plus serrés ; trois contacts exacts sont la norme, et il y en a cinq dans un quart des cas environ, quand les boucles rétrogrades de Neptune se chevauchent. Chaque année, Neptune est rétrograde environ cinq mois : un passage du milieu se fait donc pendant le recul, une pause naturelle pour revoir ce que le premier a remué.
 
 Avant 80 ans, environ 1 personne sur 6 née entre 1930 et 2009 ne l’a jamais connu ; la plupart l’ont connu une fois, quelques-unes deux fois. Des deux contacts faciles de Neptune avec votre Lune, le trigone est le plus proche de l’opposition ([Neptune en transit opposition Lune du thème natal](/astrology/transiting-neptune-opposite-natal-moon/)), le sextile ([Neptune en transit sextile Lune du thème natal](/astrology/transiting-neptune-sextile-natal-moon/)) le plus proche de la conjonction ([Neptune en transit conjonction Lune du thème natal](/astrology/transiting-neptune-conjunct-natal-moon/)) ; le carré ([Neptune en transit carré Lune du thème natal](/astrology/transiting-neptune-square-natal-moon/)) se tient entre les deux.
 
@@ -53,6 +53,6 @@ Jusqu’en 2039, ce sont les Lunes en Lion et en Sagittaire qui se trouvent sur 
 
 Revisiter quelque chose que vous évitiez de vous rappeler, doucement, et avec quelqu’un si vous le souhaitez : un lieu, une photo, une chanson.
 
-Faire quelque chose de ce que vous ressentez : un repas, un jardin, une lettre que vous n’enverrez peut-être jamais.
+Donner une forme à ce que vous ressentez : un repas, un jardin, une lettre que vous n’enverrez peut-être jamais.
 
 Profiter de l’aisance pour changer une petite habitude de soin envers vous-même : un trigone abaisse l’effort qu’il faut.

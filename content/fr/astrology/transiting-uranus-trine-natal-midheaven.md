@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de fois le trigone revient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus aux angles" }
 ---
-Quand Uranus forme un trigone à votre Milieu du Ciel, la direction que vous avez prise dans le monde peut changer sans lutte. Cela arrive deux fois dans la plupart des vies, chaque fois pendant une vingtaine de mois, et chaque fois l’élan vient d’un coin privé du thème : ce à quoi vous tenez, ou le déroulement de vos journées.
+Quand Uranus forme un trigone à votre Milieu du Ciel, la direction que vous avez prise dans le monde peut changer sans lutte. La plupart des vies en comptent deux, d’une vingtaine de mois chacun, et chaque fois l’élan vient d’un coin privé du thème : ce à quoi vous tenez, ou le déroulement de vos journées.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -43,15 +43,15 @@ Le trigone qui suit le passage d’Uranus sur votre Milieu du Ciel vient en gén
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le trigone tient une vingtaine de mois, onze pour les passages les plus rapides, avec trois passages exacts environ treize fois sur quatorze. Comme tout [transit](/astrology/transits/), il décrit la saison, pas ce que vous en faites.
+Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le trigone tient une vingtaine de mois, à peine onze dans les cas les plus rapides, avec trois passages exacts environ treize fois sur quatorze. Comme tout [transit](/astrology/transits/), il décrit la saison, pas ce que vous en faites.
 
-Avant 80 ans, la plupart des personnes nées entre 1930 et 2009 ont connu les deux trigones, et toutes au moins un. Ils tombent à environ vingt-huit ans de chaque côté d’[Uranus en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-uranus-conjunct-natal-midheaven/), à quatorze ans environ de part et d’autre d’[Uranus en transit opposition Milieu du Ciel du thème natal](/astrology/transiting-uranus-opposite-natal-midheaven/) ; [Uranus en transit carré Milieu du Ciel du thème natal](/astrology/transiting-uranus-square-natal-midheaven/) se trouve environ sept ans plus près du passage au sommet, et [Uranus en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-uranus-sextile-natal-midheaven/) quatorze.
+Les deux trigones viennent avant 80 ans pour la plupart des personnes nées entre 1930 et 2009, et au moins un pour chacune. Ils tombent à environ vingt-huit ans de chaque côté d’[Uranus en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-uranus-conjunct-natal-midheaven/), à quatorze ans environ, l’un avant et l’autre après [Uranus en transit opposition Milieu du Ciel du thème natal](/astrology/transiting-uranus-opposite-natal-midheaven/) ; [Uranus en transit carré Milieu du Ciel du thème natal](/astrology/transiting-uranus-square-natal-midheaven/) le précède ou le suit de sept ans environ, du côté du passage au sommet, et [Uranus en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-uranus-sextile-natal-midheaven/) quatorze.
 
-Jusqu’en mai 2033, Uranus en Gémeaux forme un trigone aux Milieux du Ciel en Balance, en général depuis les abords de votre Descendant, et en Verseau, depuis ceux de votre Ascendant ; en Cancer, de 2032 à 2039, aux Milieux du Ciel en Scorpion et en Poissons. Votre Milieu du Ciel ne se déduit pas d’une date d’anniversaire : il lui faut l’heure, et je ne lis pas un thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Jusqu’en mai 2033, Uranus en Gémeaux forme un trigone aux Milieux du Ciel en Balance, en général depuis les abords de votre Descendant, et en Verseau, depuis ceux de votre Ascendant ; en Cancer, de 2032 à 2039, aux Milieux du Ciel en Scorpion et en Poissons. Votre Milieu du Ciel ne se déduit pas d’une date d’anniversaire : il lui faut l’heure, et sans elle je m’arrête là ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Ce qui aide {#ce-qui-aide}
 
-Employer l’aisance pour un changement remis à plus tard. Noter ce que vous changeriez dans votre travail ou votre rôle si c’était facile, et le faire pendant que ça l’est.
+Choisir un changement de votre rôle public que vous auriez d’habitude refusé, et le faire pendant que la résistance est faible. Noter ce que vous changeriez dans votre travail ou votre rôle si c’était facile, et le faire pendant que ça l’est.
 
 Partir du côté privé. Avec Uranus en maison 2 ou 6, le changement de rôle commence souvent par un changement dans vos journées ou dans ce à quoi vous tenez : le laisser faire.
 

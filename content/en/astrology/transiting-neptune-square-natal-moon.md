@@ -40,7 +40,7 @@ Almost everyone meets a Neptune square to the Moon by 80, and of the two bodies'
 
 Neptune's blind spot under this square is confusing empathy with knowing what someone needs, yourself included. Saying a need aloud, plainly, does more than guessing at it. If what you feel settles into a low mood that lasts, a doctor or a therapist can help, and nothing in a chart should stop you asking ([Astrology and mental health](/astrology/astrology-and-mental-health/)). I read the transit itself as weather, not a forecast.
 
-With your Moon in the 4th and Neptune crossing your 7th ([Neptune transiting the 7th house](/astrology/neptune-transit-7th-house/)), what you need at home and a partner's ideals pull different ways; with the Moon in the 10th and Neptune in the 1st, the feelings you carry at work rub against a softer sense of yourself. The houses come from the birth time, and so does the Moon's exact degree; I don't read either without it ([what changes without a birth time](/blog/unknown-birth-time/)).
+With your Moon in the 4th and Neptune crossing your 7th ([Neptune transiting the 7th house](/astrology/neptune-transit-7th-house/)), what you need at home and a partner's ideals pull different ways; with the Moon in the 10th and Neptune in the 1st, the feelings you carry at work rub against a softer sense of yourself. The houses come from the birth time, as does the Moon's exact degree; without it I'd be guessing at both ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

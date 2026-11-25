@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the trine comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to the angles" }
 ---
-When Uranus trines your Midheaven, the direction you've taken in the wider world can change without a struggle. It happens twice in most lives, each time for about twenty months, and both times the push comes from a private corner of the chart: what you value, or how your days run.
+When Uranus trines your Midheaven, the direction you've taken in the wider world can change without a struggle. Most lives hold two of these trines, about twenty months each, and both times the push comes from a private corner of the chart: what you value, or how your days run.
 
 ## What changes {#what-changes}
 
@@ -44,13 +44,13 @@ Visibility isn't the same as value, and this trine helps both kinds of work: the
 
 Within my orbs, from 1½° before exact to 1° after, the trine holds for about twenty months, eleven in the quickest passes, with three exact passes in about thirteen out of fourteen. Like every [transit](/astrology/transits/), it describes the season, not what you do in it.
 
-By 80, most people born between 1930 and 2009 have met both trines, and everyone one. They come about twenty-eight years either side of [transiting Uranus conjunct natal Midheaven](/astrology/transiting-uranus-conjunct-natal-midheaven/), fourteen years or so either side of [transiting Uranus opposite natal Midheaven](/astrology/transiting-uranus-opposite-natal-midheaven/); [transiting Uranus square natal Midheaven](/astrology/transiting-uranus-square-natal-midheaven/) is about seven years nearer the crossing, and [transiting Uranus sextile natal Midheaven](/astrology/transiting-uranus-sextile-natal-midheaven/) fourteen.
+Both trines come before 80 for most people born between 1930 and 2009, and at least one comes for everyone. They come about twenty-eight years either side of [transiting Uranus conjunct natal Midheaven](/astrology/transiting-uranus-conjunct-natal-midheaven/), fourteen years or so either side of [transiting Uranus opposite natal Midheaven](/astrology/transiting-uranus-opposite-natal-midheaven/); [transiting Uranus square natal Midheaven](/astrology/transiting-uranus-square-natal-midheaven/) is about seven years nearer the crossing, and [transiting Uranus sextile natal Midheaven](/astrology/transiting-uranus-sextile-natal-midheaven/) fourteen.
 
-Until May 2033, Uranus in Gemini trines Libra Midheavens, usually from near your Descendant, and Aquarius ones, from near your Ascendant; in Cancer, from 2032 to 2039, Scorpio and Pisces Midheavens. Your Midheaven can't be worked out from a birthday: it needs the time, and I don't read a chart without one ([what changes without a birth time](/blog/unknown-birth-time/)).
+Until May 2033, Uranus in Gemini trines Libra Midheavens, usually from near your Descendant, and Aquarius ones, from near your Ascendant; in Cancer, from 2032 to 2039, Scorpio and Pisces Midheavens. Your Midheaven can't be worked out from a birthday: it needs the time, and without one I stop there ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## What helps {#what-helps}
 
-Use the ease on a change you've put off. Write down the shift you'd make in your work or role if it were easy, and make it while it is.
+Pick one change to your public role that you'd normally resist, and make it while resistance is low. Write down the shift you'd make in your work or role if it were easy, and make it while it is.
 
 Start from the private end. With Uranus in your 2nd or your 6th, the change in your role often begins with a change in your days or in what you value; let it.
 

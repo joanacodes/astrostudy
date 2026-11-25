@@ -42,7 +42,7 @@ The Moon enters a new sign roughly every sixty hours, so if you were born on suc
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the sextile stays active for about two and a half years, or not quite two in the quickest passes. Neptune usually touches the exact degree three times, and in about one pass in four, five. It isn't a dramatic transit, and its work is easiest to see afterwards, in what you no longer reach for.
+Within my orbs, from 1½° before exact to 1° after, the sextile stays active for about two and a half years, or a shade under two in the quickest passes. Neptune usually touches the exact degree three times, and in about one pass in four, five. It isn't a dramatic transit, and its work is easiest to see afterwards, in what you no longer reach for.
 
 Most Moons get this sextile at least once in 80 years, some twice; it never comes for roughly one person in six born between 1930 and 2009. On Neptune's round it sits between the conjunction ([transiting Neptune conjunct natal Moon](/astrology/transiting-neptune-conjunct-natal-moon/)) and the square ([transiting Neptune square natal Moon](/astrology/transiting-neptune-square-natal-moon/)); the trine ([transiting Neptune trine natal Moon](/astrology/transiting-neptune-trine-natal-moon/)) and the opposition ([transiting Neptune opposite natal Moon](/astrology/transiting-neptune-opposite-natal-moon/)) lie further on.
 
