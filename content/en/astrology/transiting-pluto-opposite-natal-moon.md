@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Moon", "opposition", "transits"]
 weight: 1807
 glyph: "♇☍☽"
-definition: "Transiting Pluto opposite natal Moon is Pluto facing your Moon from 180° away for about two years and eight months, once in a lifetime at most; more than half of people never meet it. Your needs and attachments are mirrored, intensely, in close bonds. I read it as learning to share closeness without losing yourself, never as a fated struggle."
+definition: "Transiting Pluto opposite natal Moon is Pluto facing your Moon from 180° away for about two years and eight months, never more than once, and not at all for more than half of people. Your needs and attachments are mirrored, intensely, in close bonds. I read it as learning to share closeness without losing yourself."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation and power" }
   - { k: "Natal point", v: "The Moon ☽: needs, attachment and felt security" }

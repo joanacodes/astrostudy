@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Vénus", "conjonction", "transits"]
 weight: 1813
 glyph: "♇☌♀"
-definition: "Pluton en transit conjonction Vénus du thème natal, c’est Pluton sur le degré de votre Vénus pendant environ deux ans et huit mois, un transit que plus de la moitié des gens ne vivent jamais. Ce que vous estimez, trouvez beau et désirez s’approfondit, et certains goûts s’en vont. J’y lis un renouveau de vos valeurs, jamais une prédiction amoureuse."
+definition: "Pluton en transit conjonction Vénus du thème natal réunit Pluton et votre Vénus pendant environ deux ans et huit mois ; ce transit passe à côté de plus de la moitié des gens. Ce que vous chérissez, trouvez beau et désirez s’approfondit, et certains goûts s’en vont. J’y lis un renouveau de vos valeurs, sans rien prédire de vos amours."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et du renouveau" }
   - { k: "Point natal", v: "Vénus ♀ : les valeurs, l’attirance et le goût" }

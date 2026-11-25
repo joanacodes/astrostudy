@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mars", "sextile", "transits"]
 weight: 1819
 glyph: "♇⚹♂"
-definition: "Pluton en transit sextile Mars du thème natal est un lien de 60° entre Pluton et votre Mars, d’environ deux ans et huit mois, que trois personnes sur quatre connaissent avant 80 ans. L’effort mis dans ce qui compte se cumule : un entraînement, une reconstruction, un long projet enfin lancé. J’y lis une endurance offerte."
+definition: "Pluton en transit sextile Mars du thème natal prête à votre Mars l’appui de Pluton, à 60°, pendant environ deux ans et huit mois. L’effort mis dans ce qui compte se cumule : un entraînement, une reconstruction, un chantier longtemps repoussé. J’y lis une endurance sur laquelle bâtir."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la force retrouvée et du renouveau" }
   - { k: "Point natal", v: "Mars ♂ : l’initiative, l’effort et l’élan" }

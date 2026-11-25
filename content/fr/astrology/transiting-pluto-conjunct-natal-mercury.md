@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mercure", "conjonction", "transits"]
 weight: 1808
 glyph: "♇☌☿"
-definition: "Pluton en transit conjonction Mercure du thème natal, c’est Pluton sur le degré de votre Mercure pendant environ deux ans et huit mois, un transit que moins de la moitié des gens rencontrent. Pensée et transformation ne font qu’un : un sujet s’empare de vous, les mots pèsent, de vieilles opinions sont déterrées. J’y lis une pensée profonde, jamais une obsession."
+definition: "Pluton en transit conjonction Mercure du thème natal, c’est un passage d’environ deux ans et huit mois où Pluton couvre votre Mercure ; une personne sur deux environ ne croise jamais cette conjonction. Votre pensée emprunte la profondeur de Pluton : un sujet vous prend, les mots pèsent, de vieilles opinions ressortent. J’y lis une attention soutenue, jamais une obsession."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et de la transformation" }
   - { k: "Point natal", v: "Mercure ☿ : la pensée, l’apprentissage et les mots" }

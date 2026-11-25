@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Jupiter", "square", "transits"]
 weight: 1825
 glyph: "♇□♃"
-definition: "Transiting Pluto square natal Jupiter puts your birth Jupiter under a 90° pressure from Pluto for about two years and eight months, at an age your birth date sets; seven people in eight meet it by 80. Plans that outgrew their foundations and beliefs that stopped explaining things come under pressure. I read it as convictions tested, never as failure."
+definition: "Transiting Pluto square natal Jupiter puts your birth Jupiter under a 90° pressure from Pluto for about two years and eight months. Plans that outgrew their foundations and beliefs that stopped explaining things meet resistance. I read it as convictions tested and pruned."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Jupiter ♃: beliefs, plans and growth" }
@@ -53,7 +53,7 @@ Because Jupiter moves on by about a sign a year, the ages spread widely. The fir
 
 Each birth date meets Pluto's contacts with Jupiter in its own order. Someone born on 1 January 1955 met the sextile ([Transiting Pluto sextile natal Jupiter](/astrology/transiting-pluto-sextile-natal-jupiter/)) at about 14, this square at about 27, the trine ([Transiting Pluto trine natal Jupiter](/astrology/transiting-pluto-trine-natal-jupiter/)) at 38 and the opposition ([Transiting Pluto opposite natal Jupiter](/astrology/transiting-pluto-opposite-natal-jupiter/)) at 65, and never the conjunction ([Transiting Pluto conjunct natal Jupiter](/astrology/transiting-pluto-conjunct-natal-jupiter/)); someone born on 1 January 1985 met the sextile at about 6 and the conjunction at 33, and never this square.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it squares Jupiters in Taurus and Scorpio: births from March 1976 to April 1977, March 1988 to March 1989 or June 1999 to June 2000, and from November 1981 to December 1982, November 1993 to December 1994 or October 2005 to November 2006, among others.
+While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it squares Jupiters in Taurus and Scorpio: most births from March 1976 to April 1977, March 1988 to March 1989 or June 1999 to June 2000, and births from November 1981 to December 1982, November 1993 to December 1994 or October 2005 to November 2006, among others.
 
 ## What helps {#what-helps}
 

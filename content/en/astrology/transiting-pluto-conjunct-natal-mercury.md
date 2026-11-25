@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mercury", "conjunction", "transits"]
 weight: 1808
 glyph: "♇☌☿"
-definition: "Transiting Pluto conjunct natal Mercury is Pluto crossing the degree of your birth Mercury, for about two years and eight months, a transit fewer than half of people meet. Thinking and transformation work as one: a subject takes hold, words carry more weight, old opinions are dug up. I read it as depth of mind, never as obsession."
+definition: "Transiting Pluto conjunct natal Mercury is a pass of about two years and eight months with Pluto on your birth Mercury; just over half of people never see it. Your thinking borrows Pluto’s depth: a subject takes hold, words carry more weight, old opinions are dug up. I read it as focus, never as obsession."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and transformation" }
   - { k: "Natal point", v: "Mercury ☿: thinking, learning and words" }

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Lune", "conjonction", "transits"]
 weight: 1803
 glyph: "♇☌☽"
-definition: "Pluton en transit conjonction Lune du thème natal, c’est Pluton qui franchit le degré de votre Lune, un passage de deux à trois ans que plus de la moitié des gens ne vivent jamais. Émotion et renouveau ne font qu’un : attachements, habitudes de réconfort et vieux souvenirs remontent. J’y lis une sécurité refaite à la racine, jamais un effondrement."
+definition: "Pluton en transit conjonction Lune du thème natal superpose Pluton à votre Lune pendant deux à trois ans, un contact que plus de la moitié des gens ne vivent jamais. Émotion et renouveau ne font qu’un : attachements, habitudes de réconfort et vieux souvenirs remontent. J’y lis une sécurité refaite à la racine, si intense que ce soit."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète du renouveau et de la profondeur" }
   - { k: "Point natal", v: "La Lune ☽ : besoins, attachement et sentiment de sécurité" }

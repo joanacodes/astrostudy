@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Lune", "trigone", "transits"]
 weight: 1806
 glyph: "♇△☽"
-definition: "Pluton en transit trigone Lune du thème natal, c’est Pluton à 120° de votre Lune pendant environ deux ans et huit mois ; près de quatre personnes sur cinq connaissent ce transit avant 80 ans. Des schémas affectifs se desserrent sans crise, un lien familial ou un foyer se renouvelle. J’y lis une profondeur qui coule, à saisir tant qu’elle dure."
+definition: "Pluton en transit trigone Lune du thème natal est la façon la plus douce dont Pluton puisse toucher votre Lune : 120° d’écart, pendant environ deux ans et huit mois. Des schémas affectifs se desserrent sans crise, un lien familial ou un foyer se renouvelle. J’y lis une profondeur qui coule, à saisir tant qu’elle dure."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et de la régénération" }
   - { k: "Point natal", v: "La Lune ☽ : émotions, attachement et mémoire" }

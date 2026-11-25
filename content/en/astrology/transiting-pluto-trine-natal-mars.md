@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mars", "trine", "transits"]
 weight: 1821
 glyph: "♇△♂"
-definition: "Transiting Pluto trine natal Mars puts Pluto four signs from your birth Mars for about two years and eight months, a transit about four people in five meet by 80. Stamina returns faster, setbacks cost less, and changing how you work takes less struggle. I read it as regenerating effort, best spent on something that deserves it."
+definition: "Transiting Pluto trine natal Mars links your drive to Pluto’s depth through an easy 120°, for about two years and eight months. Stamina returns faster, setbacks cost less, and changing how you work takes less struggle. I read it as effort that renews itself, so aim it well."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of regeneration" }
   - { k: "Natal point", v: "Mars ♂: drive, execution and courage" }

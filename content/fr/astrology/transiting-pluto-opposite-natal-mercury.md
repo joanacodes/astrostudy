@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mercure", "opposition", "transits"]
 weight: 1812
 glyph: "♇☍☿"
-definition: "Pluton en transit opposition Mercure du thème natal, c’est Pluton à 180° de votre Mercure pendant environ deux ans et huit mois ; près de trois personnes sur cinq ne connaissent jamais ce transit. Les convictions d’autrui, ou une conversation à enjeux, pèsent sur votre pensée jusqu’à l’approfondir ou la changer. J’y lis une leçon sur le pouvoir des mots."
+definition: "Pluton en transit opposition Mercure du thème natal installe Pluton en vis-à-vis de votre Mercure, comme pour une discussion, pendant environ deux ans et huit mois ; près de trois personnes sur cinq ne connaissent jamais cette opposition. Les convictions d’autrui pèsent sur votre pensée jusqu’à l’approfondir ou la changer. J’y lis une leçon sur le pouvoir des mots."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et du pouvoir" }
   - { k: "Point natal", v: "Mercure ☿ : l’échange, le raisonnement et les mots" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/mercury", "/astrology/opposition", "/astrology/mercury-opposite-pluto", "/astrology/pluto-transit-10th-house"]
 faq:
   - q: "Que veut dire Pluton en transit opposition Mercure ?"
-    a: "Pluton se tient désormais à l’opposé exact de votre Mercure. J’y lis une longue saison où la pression sur votre pensée passe par les autres : une conviction forte en face de vous, une négociation qui compte, une conversation qui montre le poids que peuvent avoir les mots. Ce transit change votre façon de penser, pas l’issue d’un débat."
+    a: "Pluton se tient désormais à l’opposé exact de votre Mercure. J’y lis une longue saison où la certitude des autres met la vôtre à l’épreuve : vous entendez des avis impossibles à écarter, et les mots prennent un vrai poids. Ce transit change votre façon de penser, pas l’issue d’un débat."
   - q: "Combien de temps dure Pluton opposition Mercure ?"
     a: "En accordant 1,5° avant l’exactitude et 1° après, comme je le fais pour dater, environ deux ans et huit mois, et vingt-deux mois environ pour les passages les plus courts. Dans environ trois passages sur cinq, Pluton franchit l’opposition exacte trois fois ; dans les autres, cinq fois, sur trois ans et sept mois environ."
   - q: "Est-ce que Pluton opposition Mercure annonce des disputes ?"

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Soleil", "opposition", "transits"]
 weight: 1802
 glyph: "♇☍☉"
-definition: "Pluton en transit opposition Soleil du thème natal, c’est Pluton face au degré de votre Soleil pendant environ deux ans et huit mois ; plus de la moitié des gens ne connaissent jamais ce transit. Votre identité rencontre une intensité qui passe par les autres. J’y lis une saison pour apprendre quelle force est la vôtre, jamais un duel."
+definition: "Pluton en transit opposition Soleil du thème natal met toute la largeur du zodiaque entre Pluton et votre Soleil pendant environ deux ans et huit mois ; plus de la moitié des gens ne connaissent jamais ce transit. Votre identité rencontre une intensité qui passe par les autres. J’y lis l’apprentissage de votre propre force, sans que personne ait à perdre."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et de la transformation" }
   - { k: "Point natal", v: "Le Soleil ☉ : identité, vitalité et direction" }

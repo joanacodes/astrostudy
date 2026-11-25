@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mercure", "carré", "transits"]
 weight: 1810
 glyph: "♇□☿"
-definition: "Pluton en transit carré Mercure du thème natal place Pluton à angle droit de votre Mercure pendant environ deux ans et huit mois ; sept personnes sur huit rencontrent l’un de ses deux carrés avant 80 ans. Un raisonnement familier bute sur une question qu’il ne sait pas régler, et se rebâtit. J’y lis une friction qui aiguise la pensée."
+definition: "Pluton en transit carré Mercure du thème natal met votre façon de penser à l’épreuve de Pluton, à 90°, pendant environ deux ans et huit mois ; sept personnes sur huit rencontrent l’un de ses deux carrés avant 80 ans. Un raisonnement familier bute sur une question insoluble, et se rebâtit. J’y lis une pensée aiguisée par la résistance."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "Mercure ☿ : le raisonnement, l’interprétation et la parole" }

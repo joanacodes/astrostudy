@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Venus", "trine", "transits"]
 weight: 1816
 glyph: "♇△♀"
-definition: "Transiting Pluto trine natal Venus joins Pluto and your birth Venus by a flowing 120° for about two years and eight months, a transit nearly four people in five meet by 80. Attachments, tastes and the things you care for deepen with time, without the strain of the harder contacts. I read it as a steady deepening of what you value."
+definition: "Transiting Pluto trine natal Venus joins Pluto and your birth Venus by a flowing 120° for about two years and eight months. Attachments, tastes and the things you care for grow roots, without the strain of the harder contacts. I read it as a slow, untroubled deepening."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and regeneration" }
   - { k: "Natal point", v: "Venus ♀: appreciation, affinity and relating" }

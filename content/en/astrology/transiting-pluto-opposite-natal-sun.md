@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Sun", "opposition", "transits"]
 weight: 1802
 glyph: "♇☍☉"
-definition: "Transiting Pluto opposite natal Sun is Pluto standing across the zodiac from your birth Sun, for about two years and eight months; more than half of people never meet it. Your sense of who you are meets intensity that arrives through others. I read it as a season for learning which strength is yours, never as a contest."
+definition: "Transiting Pluto opposite natal Sun puts the width of the zodiac between Pluto and your birth Sun for about two years and eight months; more than half of people reach 80 without it. Your sense of who you are meets intensity that arrives through others. I read it as learning which strength is yours, and nobody has to lose."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and transformation" }
   - { k: "Natal point", v: "The Sun ☉: identity, vitality and purpose" }

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mars", "conjonction", "transits"]
 weight: 1818
 glyph: "♇☌♂"
-definition: "Pluton en transit conjonction Mars du thème natal, c’est la rencontre de Pluton avec le degré de votre Mars, longue d’environ deux ans et huit mois et qui ne vient qu’une fois au plus ; plus de la moitié des gens ne connaissent jamais ce transit. L’effort et la transformation fusionnent. J’y lis une volonté concentrée, jamais une violence ni un danger."
+definition: "Pluton en transit conjonction Mars du thème natal, c’est la rencontre de Pluton avec le degré de votre Mars, environ deux ans et huit mois qui ne se répètent jamais ; plus de la moitié des gens ne la vivent pas. L’effort prend l’intensité de Pluton. J’y lis une volonté concentrée, jamais une violence ni un danger."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et de la force retrouvée" }
   - { k: "Point natal", v: "Mars ♂ : l’élan, l’effort et le courage" }

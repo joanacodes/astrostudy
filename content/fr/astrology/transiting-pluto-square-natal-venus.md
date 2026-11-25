@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Vénus", "carré", "transits"]
 weight: 1815
 glyph: "♇□♀"
-definition: "Pluton en transit carré Vénus du thème natal, c’est Pluton à un quart de zodiaque de votre Vénus, environ deux ans et huit mois, le contact que sept personnes sur huit rencontrent avant 80 ans. Les termes de vos attachements passent à un examen honnête. J’y lis une friction qui renouvelle vos valeurs, jamais une prédiction sur un lien."
+definition: "Pluton en transit carré Vénus du thème natal, c’est Pluton à un quart de zodiaque de votre Vénus, environ deux ans et huit mois, le contact que sept personnes sur huit rencontrent avant 80 ans. Les termes de vos attachements passent à un examen honnête. J’y lis des valeurs renouvelées sous la pression ; aucun lien n’y est jugé d’avance."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "Vénus ♀ : les valeurs, l’attachement et l’échange juste" }

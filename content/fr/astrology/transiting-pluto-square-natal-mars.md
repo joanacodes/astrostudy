@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mars", "carré", "transits"]
 weight: 1820
 glyph: "♇□♂"
-definition: "Pluton en transit carré Mars du thème natal signifie que Pluton forme un angle de 90° avec votre Mars, pendant environ deux ans et huit mois ; sept personnes sur huit connaissent ce transit avant 80 ans. Votre façon d’avancer bute sur une résistance que forcer n’entame pas. J’y lis une friction qui apprend la mesure, jamais un conflit annoncé."
+definition: "Pluton en transit carré Mars du thème natal signifie que Pluton forme un angle de 90° avec votre Mars, pendant environ deux ans et huit mois ; avant 80 ans, environ sept personnes sur huit ont connu ce carré. Votre façon d’avancer bute sur une résistance que forcer n’entame pas. J’y lis un appel à la mesure, sans conflit annoncé."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation et du pouvoir" }
   - { k: "Point natal", v: "Mars ♂ : l’affirmation, l’effort et les limites" }

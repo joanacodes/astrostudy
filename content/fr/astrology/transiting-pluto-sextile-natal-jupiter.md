@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Jupiter", "sextile", "transits"]
 weight: 1824
 glyph: "♇⚹♃"
-definition: "Pluton en transit sextile Jupiter du thème natal vient quand Pluton atteint 60° de votre Jupiter, et dure environ deux ans et huit mois ; près de quatre personnes sur cinq connaissent ce sextile avant 80 ans. Une formation, un mentor ou une pensée peuvent mener votre compréhension plus loin, si vous les cherchez. J’y lis une profondeur offerte à vos convictions."
+definition: "Pluton en transit sextile Jupiter du thème natal vient quand Pluton atteint 60° de votre Jupiter, pour environ deux ans et huit mois ; près de quatre personnes sur cinq en connaissent un avant 80 ans. Une formation, un mentor ou une pensée peuvent vous mener plus loin, si vous allez vers eux. J’y lis une profondeur offerte à vos convictions."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et de la transformation" }
   - { k: "Point natal", v: "Jupiter ♃ : l’apprentissage, le sens et les principes" }
@@ -52,7 +52,7 @@ Pour dater, je compte le sextile de 1,5° avant l’exactitude à 1° après. À
 
 Le moment dépend de votre date de naissance, par l’angle que formaient Jupiter et Pluton à votre naissance. Une personne née le 1er janvier 1995 le vit en ce moment, à 31 ans. Pour le 1er janvier 1985, il est venu vers 6 ans, pour le 1er janvier 1955 vers 14 ans, pour le 1er janvier 1935 vers 30 ans, pour le 1er janvier 1975 vers 39 ans et pour le 1er janvier 1945 vers 49 ans ; les naissances du 1er janvier 1965 et 2005 ne le rencontrent pas avant 80 ans. Parmi toutes les personnes nées de 1930 à 2009 qui le rencontrent, le premier passage entre dans l’orbe entre quelques semaines de vie et 80 ans, vers 30 ans au milieu, et près de quatre sur cinq rencontrent l’un des deux sextiles avant 80 ans, certaines les deux.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), le sextile touche Jupiter en Bélier ou en Sagittaire : entre autres, les naissances de décembre 1982 à janvier 1984, de décembre 1994 à janvier 1996, de mars 1987 à mars 1988 et de février 1999 à février 2000.
+Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), le sextile touche Jupiter en Bélier ou en Sagittaire : entre autres, les naissances de décembre 1982 à janvier 1984, de décembre 1994 à janvier 1996 et de mars 1987 à mars 1988, et la plupart de celles de février 1999 à février 2000.
 
 ## Ce qui aide {#ce-qui-aide}
 

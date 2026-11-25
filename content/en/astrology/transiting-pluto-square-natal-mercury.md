@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mercury", "square", "transits"]
 weight: 1810
 glyph: "♇□☿"
-definition: "Transiting Pluto square natal Mercury sets Pluto at right angles to your birth Mercury for about two years and eight months; about seven people in eight meet it by 80. A way of reasoning you relied on meets a question it can’t settle, and is rebuilt. I read it as friction that sharpens thinking, never as a mind under attack."
+definition: "Transiting Pluto square natal Mercury tests the way you think from 90° away for about two years and eight months; about seven people in eight meet one of the two squares by 80. A way of reasoning you relied on meets a question it can’t settle, and is rebuilt. I read it as a mind made sharper by resistance."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Mercury ☿: reasoning, interpretation and speech" }

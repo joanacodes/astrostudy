@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Moon", "trine", "transits"]
 weight: 1806
 glyph: "♇△☽"
-definition: "Transiting Pluto trine natal Moon is Pluto 120° from your Moon for about two years and eight months, a transit roughly four people in five meet by 80. Old emotional patterns loosen without a crisis, and a family bond or a home can be renewed. I read it as depth that flows, worth using while it lasts."
+definition: "Transiting Pluto trine natal Moon is the gentlest way Pluto can touch your Moon: 120° apart, for about two years and eight months. Old emotional patterns loosen without a crisis, and a family bond or home can be renewed. I read it as depth that flows, worth using while it lasts."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and regeneration" }
   - { k: "Natal point", v: "The Moon ☽: feelings, attachment and memory" }

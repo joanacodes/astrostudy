@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mercure", "sextile", "transits"]
 weight: 1809
 glyph: "♇⚹☿"
-definition: "Pluton en transit sextile Mercure du thème natal, c’est Pluton à 60° de votre Mercure pendant environ deux ans et huit mois, une ouverture que quatre personnes sur cinq environ rencontrent avant 80 ans. L’étude, la recherche et la parole franche vont plus loin, si vous vous y mettez. J’y lis une longue invitation à penser plus profond."
+definition: "Pluton en transit sextile Mercure du thème natal dure environ deux ans et huit mois, avec 60° entre Pluton et votre Mercure : un sextile que quatre personnes sur cinq environ rencontrent avant 80 ans. L’étude, la recherche et la parole franche vont plus loin, pour peu que vous vous y mettiez. J’y lis une longue invitation à penser plus profond."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et de la transformation" }
   - { k: "Point natal", v: "Mercure ☿ : l’apprentissage, l’analyse et l’échange" }

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mars", "square", "transits"]
 weight: 1820
 glyph: "♇□♂"
-definition: "Transiting Pluto square natal Mars means Pluto has reached a 90° angle to your birth Mars, for about two years and eight months; seven people in eight meet it by 80. Your usual way of getting things done meets resistance that pushing harder won’t move. I read it as friction that teaches proportion, never as a forecast of conflict."
+definition: "Transiting Pluto square natal Mars means Pluto has reached a 90° angle to your birth Mars, for about two years and eight months; by 80, about seven people in eight have known it. Your usual way of getting things done meets resistance that pushing harder won’t move. I read it as a call for proportion; no conflict is foretold."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation and power" }
   - { k: "Natal point", v: "Mars ♂: assertion, effort and boundaries" }

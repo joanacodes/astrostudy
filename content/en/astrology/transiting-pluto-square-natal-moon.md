@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Moon", "square", "transits"]
 weight: 1805
 glyph: "♇□☽"
-definition: "Transiting Pluto square natal Moon is a 90° angle between Pluto and your Moon’s degree, held for about two years and eight months; of Pluto’s contacts with the Moon, it is the one most people meet. Habits that once kept you safe rub against the need to renew them. I read it as friction that builds a sturdier kind of comfort, never as a punishment."
+definition: "Transiting Pluto square natal Moon is a 90° angle between Pluto and your Moon’s degree, held for about two years and eight months, the commonest of Pluto’s contacts with the Moon. Habits that once protected you rub against the need to renew them. I read it as comfort rebuilt on firmer ground, never as punishment."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "The Moon ☽: needs, habits and emotional memory" }

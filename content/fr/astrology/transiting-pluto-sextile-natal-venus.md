@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Vénus", "sextile", "transits"]
 weight: 1814
 glyph: "♇⚹♀"
-definition: "Pluton en transit sextile Vénus du thème natal donne à votre Vénus un contact de 60° avec Pluton pendant environ deux ans et huit mois, que trois personnes sur quatre connaissent avant 80 ans. Approfondir un lien, alléger ce que vous possédez ou retrouver vos propres goûts devient plus facile, si vous le choisissez. J’y lis un tri en douceur."
+definition: "Pluton en transit sextile Vénus du thème natal donne à votre Vénus un contact de 60° avec Pluton pendant environ deux ans et huit mois, que trois personnes sur quatre connaissent avant 80 ans. Approfondir un lien, alléger ce que vous possédez ou retrouver vos propres goûts devient plus facile, si vous le voulez. J’y lis un tri en douceur."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et du renouveau" }
   - { k: "Point natal", v: "Vénus ♀ : les valeurs, les préférences et la réciprocité" }

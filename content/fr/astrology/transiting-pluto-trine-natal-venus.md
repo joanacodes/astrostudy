@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Vénus", "trigone", "transits"]
 weight: 1816
 glyph: "♇△♀"
-definition: "Pluton en transit trigone Vénus du thème natal relie Pluton et votre Vénus par un angle fluide de 120° pendant environ deux ans et huit mois, un transit que près de quatre personnes sur cinq rencontrent avant 80 ans. Attachements, goûts et choses aimées s’approfondissent avec le temps, sans la tension des contacts plus durs. J’y lis un approfondissement paisible."
+definition: "Pluton en transit trigone Vénus du thème natal relie Pluton et votre Vénus par un angle fluide de 120° pendant environ deux ans et huit mois. Attachements, goûts et choses aimées s’enracinent, sans la tension des aspects plus durs. J’y lis un approfondissement lent et sans heurt."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et de la régénération" }
   - { k: "Point natal", v: "Vénus ♀ : l’appréciation, les affinités et la relation" }

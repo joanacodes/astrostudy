@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Moon", "sextile", "transits"]
 weight: 1804
 glyph: "♇⚹☽"
-definition: "Transiting Pluto sextile natal Moon is Pluto 60° from the degree of your Moon, an opening of about two years and eight months that about three people in four meet by 80. Changing an emotional habit, or mending a bond at home, gets easier if you take it up. I read it as quiet renewal, chosen rather than forced."
+definition: "Transiting Pluto sextile natal Moon opens a 60° channel from Pluto to your Moon for about two years and eight months, on dates only a birth time can pin down. Changing an emotional habit, or mending a bond at home, gets easier if you take it up. I read it as quiet renewal, chosen rather than forced."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of renewal and depth" }
   - { k: "Natal point", v: "The Moon ☽: feelings, needs and habits of comfort" }

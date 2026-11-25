@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Vénus", "opposition", "transits"]
 weight: 1817
 glyph: "♇☍♀"
-definition: "Pluton en transit opposition Vénus du thème natal place Pluton et votre Vénus aux deux bouts du zodiaque pendant environ deux ans et huit mois ; plus de la moitié des gens ne connaissent jamais ce transit. L’intensité d’autrui vous montre ce que vous estimez et ce que vous attendez en retour. J’y lis un échange plus juste, jamais un contrôle écrit d’avance."
+definition: "Pluton en transit opposition Vénus du thème natal place Pluton et votre Vénus aux deux bouts du zodiaque pendant environ deux ans et huit mois ; pour plus de la moitié des gens, ce transit ne vient jamais. Un lien à enjeux montre ce que vous estimez et attendez en retour. J’y lis un échange plus juste, jamais une emprise inévitable."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et du pouvoir" }
   - { k: "Point natal", v: "Vénus ♀ : les valeurs, l’attirance et la réciprocité" }

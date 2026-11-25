@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mars", "conjunction", "transits"]
 weight: 1818
 glyph: "♇☌♂"
-definition: "Transiting Pluto conjunct natal Mars is the meeting of Pluto with the degree of your birth Mars, about two years and eight months long and once in a lifetime at most; more than half of people never meet it. Effort and transformation fuse: you commit harder and aim deeper. I read it as concentrated willpower, never as violence or danger."
+definition: "Transiting Pluto conjunct natal Mars is the meeting of Pluto with the degree of your birth Mars, about two years and eight months long; fewer than half of people ever meet it, and none more than once. Effort takes on Pluto’s intensity: you commit harder and aim deeper. I read it as concentrated willpower, never as violence or danger."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and empowerment" }
   - { k: "Natal point", v: "Mars ♂: drive, effort and courage" }

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mars", "opposition", "transits"]
 weight: 1822
 glyph: "♇☍♂"
-definition: "Pluton en transit opposition Mars du thème natal amène Pluton de l’autre côté du zodiaque par rapport à votre Mars, pendant environ deux ans et huit mois ; plus de la moitié des gens n’en font jamais l’expérience. L’élan ou la colère des autres deviennent la mesure du vôtre. J’y lis une force partagée et mesurée, jamais un destin de conflit."
+definition: "Pluton en transit opposition Mars du thème natal amène Pluton de l’autre côté du zodiaque par rapport à votre Mars, pendant environ deux ans et huit mois ; plus de la moitié des gens n’en font jamais l’expérience. L’élan ou la colère des autres deviennent la mesure du vôtre. J’y lis deux forces qui trouvent leur équilibre."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète du pouvoir et de la transformation" }
   - { k: "Point natal", v: "Mars ♂ : la volonté, la compétition et la défense" }

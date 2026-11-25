@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Lune", "sextile", "transits"]
 weight: 1804
 glyph: "♇⚹☽"
-definition: "Pluton en transit sextile Lune du thème natal, c’est Pluton à 60° du degré de votre Lune, une ouverture d’environ deux ans et huit mois que trois personnes sur quatre environ rencontrent avant 80 ans. Changer une habitude affective ou réparer un lien familial devient plus facile, si vous saisissez l’occasion. J’y lis un renouveau discret, choisi plutôt que subi."
+definition: "Pluton en transit sextile Lune du thème natal ouvre un canal de 60° entre Pluton et votre Lune pendant environ deux ans et huit mois, à des dates que seule l’heure de naissance fixe. Changer une habitude affective ou réparer un lien familial devient plus facile, si vous en prenez l’initiative. J’y lis un renouveau discret, choisi plutôt que subi."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète du renouveau et de la profondeur" }
   - { k: "Point natal", v: "La Lune ☽ : émotions, besoins et habitudes de réconfort" }

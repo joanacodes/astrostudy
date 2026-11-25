@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Jupiter", "sextile", "transits"]
 weight: 1824
 glyph: "♇⚹♃"
-definition: "Transiting Pluto sextile natal Jupiter comes when Pluto reaches 60° from your birth Jupiter and lasts about two years and eight months; nearly four people in five meet it by 80. A course, a mentor or a body of thought can take your understanding further, if you go looking. I read it as depth offered to your beliefs."
+definition: "Transiting Pluto sextile natal Jupiter comes when Pluto reaches 60° from your birth Jupiter and lasts about two years and eight months; by 80, nearly four people in five have had one. A course, a mentor or a body of thought can take your understanding further, if you go looking. I read it as depth offered to your beliefs."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and transformation" }
   - { k: "Natal point", v: "Jupiter ♃: learning, meaning and principles" }
@@ -51,7 +51,7 @@ My timing counts the sextile from 1½° before exact to 1° after. On that count
 
 When it comes follows your birth date, through the angle Jupiter and Pluto made when you were born. Someone born on 1 January 1995 is meeting it now, at 31. For 1 January 1985 it came at about 6, for 1 January 1955 at about 14, for 1 January 1935 at about 30, for 1 January 1975 at about 39 and for 1 January 1945 at about 49; births on 1 January 1965 and 2005 don't meet it by 80. Across everyone born from 1930 to 2009 who meets it, the first pass came within orb at anything from a few weeks old to 80, at about 30 in the middle, and nearly four in five meet one of the two sextiles by 80, some of them both.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it sextiles Jupiters in Aries and Sagittarius: among others, births from December 1982 to January 1984, December 1994 to January 1996, March 1987 to March 1988 and February 1999 to February 2000.
+While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it sextiles Jupiters in Aries and Sagittarius: among others, births from December 1982 to January 1984, December 1994 to January 1996 and March 1987 to March 1988, and most births from February 1999 to February 2000.
 
 ## What helps {#what-helps}
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Lune", "carré", "transits"]
 weight: 1805
 glyph: "♇□☽"
-definition: "Pluton en transit carré Lune du thème natal, c’est un angle de 90° entre Pluton et le degré de votre Lune, tenu environ deux ans et huit mois ; c’est le contact avec la Lune que la plupart des gens rencontrent. Les habitudes qui vous protégeaient frottent contre le besoin de les renouveler. J’y lis une friction qui rend le réconfort plus solide, jamais une punition."
+definition: "Pluton en transit carré Lune du thème natal met vos besoins affectifs en friction avec Pluton, à 90°, pendant environ deux ans et huit mois : le plus fréquent des contacts de Pluton avec la Lune. Les habitudes qui vous protégeaient demandent à être renouvelées. J’y lis un réconfort rebâti sur un sol plus ferme, jamais une punition."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "La Lune ☽ : besoins, habitudes et mémoire affective" }

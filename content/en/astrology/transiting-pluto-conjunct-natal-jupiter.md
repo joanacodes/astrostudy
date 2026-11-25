@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Jupiter", "conjunction", "transits"]
 weight: 1823
 glyph: "♇☌♃"
-definition: "Transiting Pluto conjunct natal Jupiter puts Pluto on your birth Jupiter, at an age your birth date sets, for about two years and eight months; fewer than half of people meet it by 80. Beliefs, principles and plans for growth are examined to the root, and what survives is held more deeply. I read it as growth that goes down, never as luck."
+definition: "Transiting Pluto conjunct natal Jupiter comes at an age your birth date decides, and before 80 for fewer than half of people; Pluto then sits on your Jupiter for about two years and eight months. Beliefs and plans are examined to the root, and what survives holds. I read it as growth in depth rather than in size."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and transformation" }
   - { k: "Natal point", v: "Jupiter ♃: meaning, beliefs and growth" }

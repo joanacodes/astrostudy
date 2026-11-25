@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mars", "opposition", "transits"]
 weight: 1822
 glyph: "♇☍♂"
-definition: "Transiting Pluto opposite natal Mars brings Pluto to the far side of the zodiac from your birth Mars for about two years and eight months; more than half of people never meet it. Other people’s drive, ambition or anger becomes the measure of your own. I read it as learning to share strength, never as a destiny of conflict."
+definition: "Transiting Pluto opposite natal Mars pairs your birth Mars with Pluto across a 180° divide for about two years and eight months; it misses more than half of people altogether. Others’ drive, ambition or anger becomes the measure of your own. I read it as two strengths finding their balance."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of power and transformation" }
   - { k: "Natal point", v: "Mars ♂: will, competition and defence" }

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mercury", "trine", "transits"]
 weight: 1811
 glyph: "♇△☿"
-definition: "Transiting Pluto trine natal Mercury is Pluto 120° from your birth Mercury for about two years and eight months, a transit about three people in four meet by 80. Study, research and honest words go deeper without a fight, and understanding builds steadily. I read it as an easy depth of mind, worth putting to work."
+definition: "Transiting Pluto trine natal Mercury brings about two years and eight months of easy traffic between Pluto and your mind, 120° apart; nearly one person in four misses it. Hard subjects open up without strain, and understanding builds steadily. I read it as a mind at ease with depth."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and integration" }
   - { k: "Natal point", v: "Mercury ☿: learning, interpretation and language" }

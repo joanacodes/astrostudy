@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mercury", "sextile", "transits"]
 weight: 1809
 glyph: "♇⚹☿"
-definition: "Transiting Pluto sextile natal Mercury is Pluto 60° from your birth Mercury for about two years and eight months, an opening about four people in five meet by 80. Study, research and honest conversation can go further than usual, if you take them up. I read it as a long invitation to think more deeply."
+definition: "Transiting Pluto sextile natal Mercury lasts about two years and eight months, with Pluto and your birth Mercury 60° apart; only about one person in five never meets it. Study, research and honest conversation can go further than usual, once you begin. I read it as a long invitation to think more deeply."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and transformation" }
   - { k: "Natal point", v: "Mercury ☿: learning, analysis and exchange" }

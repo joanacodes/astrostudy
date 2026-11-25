@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mars", "trigone", "transits"]
 weight: 1821
 glyph: "♇△♂"
-definition: "Pluton en transit trigone Mars du thème natal place Pluton à quatre signes de votre Mars pendant environ deux ans et huit mois, un transit que quatre personnes sur cinq rencontrent avant 80 ans. L’endurance revient plus vite, les revers coûtent moins, et changer votre façon de travailler demande moins de lutte. J’y lis un effort qui se régénère."
+definition: "Pluton en transit trigone Mars du thème natal accorde votre élan à la profondeur de Pluton, à 120°, pendant environ deux ans et huit mois. L’endurance revient plus vite, les revers coûtent moins, et changer votre façon de travailler demande moins de lutte. J’y lis un effort qui se régénère, à bien diriger."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la régénération" }
   - { k: "Point natal", v: "Mars ♂ : l’élan, la réalisation et le courage" }

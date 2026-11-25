@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mercury", "opposition", "transits"]
 weight: 1812
 glyph: "♇☍☿"
-definition: "Transiting Pluto opposite natal Mercury is Pluto 180° from your birth Mercury for about two years and eight months; nearly three people in five never meet it. Someone else’s convictions, or a conversation with real stakes, press on how you think until your view deepens or changes. I read it as a lesson in the power of words."
+definition: "Transiting Pluto opposite natal Mercury holds Pluto on the other side of the conversation from your Mercury, 180° away, for about two years and eight months; nearly three people in five never meet it. Someone else’s convictions press on how you think until your view deepens or changes. I read it as a lesson in the power of words."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and power" }
   - { k: "Natal point", v: "Mercury ☿: exchange, reasoning and words" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/mercury", "/astrology/opposition", "/astrology/mercury-opposite-pluto", "/astrology/pluto-transit-10th-house"]
 faq:
   - q: "What does transiting Pluto opposite natal Mercury mean?"
-    a: "Pluto is now on the point directly across from your Mercury. I read it as a long season when the pressure on your thinking comes through other people: a strong conviction across the table, a negotiation that matters, a conversation that shows how much weight words can carry. It changes how you think, not who wins."
+    a: "Pluto is now on the point directly across from your Mercury. I read it as a long season in which other people’s certainty tests your own: you hear views you can’t wave away, and words start to carry real weight. It changes how you think, not who wins an argument."
   - q: "How long does Pluto opposite Mercury last?"
     a: "Allowing 1½° before exact and 1° after, as my timing does, about two years and eight months, and around twenty-two months in the shortest passes. In about three passes out of five Pluto crosses the exact opposition three times; in the rest, five times, over about three years and seven months."
   - q: "Will Pluto opposite Mercury bring arguments?"

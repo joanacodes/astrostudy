@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Jupiter", "conjonction", "transits"]
 weight: 1823
 glyph: "♇☌♃"
-definition: "Pluton en transit conjonction Jupiter du thème natal amène Pluton sur votre Jupiter, à un âge fixé par votre date de naissance, pendant environ deux ans et huit mois ; moins de la moitié des gens connaissent ce transit avant 80 ans. Croyances, principes et projets de croissance sont examinés jusqu’à la racine. J’y lis une croissance qui va en profondeur, jamais de la chance."
+definition: "Pluton en transit conjonction Jupiter du thème natal vient à un âge que décide votre date de naissance, et avant 80 ans pour moins de la moitié des gens ; Pluton reste alors sur votre Jupiter pendant environ deux ans et huit mois. Croyances et projets sont examinés jusqu’à la racine. J’y lis une croissance en profondeur plutôt qu’en taille."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et de la transformation" }
   - { k: "Point natal", v: "Jupiter ♃ : le sens, les croyances et la croissance" }

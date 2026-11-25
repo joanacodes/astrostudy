@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Lune", "opposition", "transits"]
 weight: 1807
 glyph: "♇☍☽"
-definition: "Pluton en transit opposition Lune du thème natal, c’est Pluton face à votre Lune, à 180°, pendant environ deux ans et huit mois ; plus de la moitié des gens ne connaissent jamais ce transit. Vos besoins et vos attachements se reflètent, intensément, dans vos liens proches. J’y lis l’apprentissage d’une proximité partagée, jamais une lutte écrite d’avance."
+definition: "Pluton en transit opposition Lune du thème natal met votre Lune en regard de Pluton, à 180°, pendant environ deux ans et huit mois ; moins de la moitié des gens connaissent ce transit, et jamais deux fois. Vos besoins et vos attachements se reflètent, intensément, dans vos liens proches. J’y lis l’apprentissage d’une proximité partagée, sans vous y perdre."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation et du pouvoir" }
   - { k: "Point natal", v: "La Lune ☽ : besoins, attachement et sentiment de sécurité" }

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Jupiter", "carré", "transits"]
 weight: 1825
 glyph: "♇□♃"
-definition: "Pluton en transit carré Jupiter du thème natal soumet votre Jupiter à la pression de Pluton, à 90°, pendant environ deux ans et huit mois, à un âge fixé par votre date de naissance. Les projets trop grands pour leurs fondations et les croyances qui n’expliquent plus rien sont éprouvés. J’y lis des convictions mises à l’épreuve, jamais un échec."
+definition: "Pluton en transit carré Jupiter du thème natal soumet votre Jupiter à une pression de Pluton à 90°, pendant environ deux ans et huit mois. Les projets trop grands pour leurs fondations et les croyances usées rencontrent une résistance. J’y lis des convictions éprouvées et taillées."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "Jupiter ♃ : les croyances, les projets et la croissance" }
@@ -54,7 +54,7 @@ Comme Jupiter avance d’environ un signe par an, les âges s’étalent largeme
 
 Chaque date de naissance rencontre les contacts de Pluton avec Jupiter dans son propre ordre. Une personne née le 1er janvier 1955 a rencontré le sextile ([Pluton en transit sextile Jupiter du thème natal](/astrology/transiting-pluto-sextile-natal-jupiter/)) vers 14 ans, ce carré vers 27 ans, le trigone ([Pluton en transit trigone Jupiter du thème natal](/astrology/transiting-pluto-trine-natal-jupiter/)) à 38 ans et l’opposition ([Pluton en transit opposition Jupiter du thème natal](/astrology/transiting-pluto-opposite-natal-jupiter/)) à 65 ans, et jamais la conjonction ([Pluton en transit conjonction Jupiter du thème natal](/astrology/transiting-pluto-conjunct-natal-jupiter/)) ; une personne née le 1er janvier 1985 a rencontré le sextile vers 6 ans et la conjonction à 33 ans, et jamais ce carré.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), le carré touche Jupiter en Taureau ou en Scorpion : les naissances de mars 1976 à avril 1977, de mars 1988 à mars 1989 ou de juin 1999 à juin 2000, et de novembre 1981 à décembre 1982, de novembre 1993 à décembre 1994 ou d’octobre 2005 à novembre 2006, entre autres.
+Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), le carré touche Jupiter en Taureau ou en Scorpion : la plupart des naissances de mars 1976 à avril 1977, de mars 1988 à mars 1989 ou de juin 1999 à juin 2000, et les naissances de novembre 1981 à décembre 1982, de novembre 1993 à décembre 1994 ou d’octobre 2005 à novembre 2006, entre autres.
 
 ## Ce qui aide {#ce-qui-aide}
 

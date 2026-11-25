@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Moon", "conjunction", "transits"]
 weight: 1803
 glyph: "♇☌☽"
-definition: "Transiting Pluto conjunct natal Moon means Pluto crossing the degree your Moon held at birth, a pass of two to three years that more than half of people never see. Feeling and renewal work as one: attachments, habits of comfort and memories come up for review. I read it as security rebuilt from the root, never as a breakdown."
+definition: "Transiting Pluto conjunct natal Moon is two to three years with Pluto on top of your Moon, a contact more than half of people never have. Feeling and renewal work as one: attachments, habits of comfort and memories come up for review. I read it as security rebuilt from the root, however intense it feels."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of renewal and depth" }
   - { k: "Natal point", v: "The Moon ☽: needs, attachment and felt security" }

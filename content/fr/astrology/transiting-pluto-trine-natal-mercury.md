@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mercure", "trigone", "transits"]
 weight: 1811
 glyph: "♇△☿"
-definition: "Pluton en transit trigone Mercure du thème natal, c’est Pluton à 120° de votre Mercure pendant environ deux ans et huit mois, un transit que trois personnes sur quatre rencontrent avant 80 ans. L’étude, la recherche et les mots justes vont plus loin sans combat. J’y lis une profondeur d’esprit facile, à mettre au travail."
+definition: "Pluton en transit trigone Mercure du thème natal apporte environ deux ans et huit mois de circulation facile entre Pluton et votre esprit, à 120° ; près d’une personne sur quatre ne connaît jamais ce trigone. Les sujets difficiles s’ouvrent sans effort, et la compréhension s’affermit. J’y lis un esprit à l’aise dans la profondeur."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et de l’intégration" }
   - { k: "Point natal", v: "Mercure ☿ : l’apprentissage, l’interprétation et le langage" }

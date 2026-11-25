@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Venus", "sextile", "transits"]
 weight: 1814
 glyph: "♇⚹♀"
-definition: "Transiting Pluto sextile natal Venus gives your birth Venus a 60° contact with Pluto for about two years and eight months, one that about three people in four meet by 80. Deepening a bond, simplifying what you own or finding your own tastes gets easier, when you choose to. I read it as a gentle sorting of what you value."
+definition: "Transiting Pluto sextile natal Venus gives your birth Venus a 60° contact with Pluto for about two years and eight months, one that about three people in four meet by 80. Deepening a bond, simplifying what you own or finding your own tastes gets easier, once you decide to. I read it as a gentle sorting of what you value."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and renewal" }
   - { k: "Natal point", v: "Venus ♀: values, preferences and reciprocity" }

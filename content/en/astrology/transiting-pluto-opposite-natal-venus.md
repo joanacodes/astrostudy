@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Venus", "opposition", "transits"]
 weight: 1817
 glyph: "♇☍♀"
-definition: "Transiting Pluto opposite natal Venus sets Pluto and your birth Venus at the two ends of the zodiac for about two years and eight months; more than half of people never meet it. Someone else’s intensity, or a bond with real stakes, shows you what you value and what you expect back. I read it as learning a fairer give and take, never as fated control."
+definition: "Transiting Pluto opposite natal Venus sets Pluto and your birth Venus at the two ends of the zodiac for about two years and eight months; for more than half of people, it never comes. A bond with real stakes shows what you value and expect back. I read it as a fairer give and take, never as fated control."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and power" }
   - { k: "Natal point", v: "Venus ♀: values, attraction and reciprocity" }

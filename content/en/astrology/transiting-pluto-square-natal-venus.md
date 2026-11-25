@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Venus", "square", "transits"]
 weight: 1815
 glyph: "♇□♀"
-definition: "Transiting Pluto square natal Venus is the planet of depth a quarter of the zodiac from your birth Venus, for about two years and eight months, the Venus contact most people meet by 80. The terms of your attachments come up for honest review. I read it as friction that renews what you value, never a forecast for a bond."
+definition: "Transiting Pluto square natal Venus is the planet of depth a quarter of the zodiac from your birth Venus, for about two years and eight months, the Venus contact most people meet by 80. The terms of your attachments come up for honest review. I read it as values renewed under pressure; no bond is judged in advance."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Venus ♀: values, attachment and fair exchange" }

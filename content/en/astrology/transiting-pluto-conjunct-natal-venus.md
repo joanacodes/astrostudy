@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Venus", "conjunction", "transits"]
 weight: 1813
 glyph: "♇☌♀"
-definition: "Transiting Pluto conjunct natal Venus is Pluto on the degree of your birth Venus for about two years and eight months, a transit more than half of people never meet. What you value, find beautiful and are drawn to deepens, and some tastes fall away. I read it as renewal of your values, never as a forecast about love."
+definition: "Transiting Pluto conjunct natal Venus brings Pluto and your birth Venus together for about two years and eight months; it passes more than half of people by. What you prize, find beautiful and are drawn to deepens, and some tastes fall away. I read it as renewal of your values; it predicts nothing about love."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and renewal" }
   - { k: "Natal point", v: "Venus ♀: values, attraction and taste" }

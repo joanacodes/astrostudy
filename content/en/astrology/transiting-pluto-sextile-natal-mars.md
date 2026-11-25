@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mars", "sextile", "transits"]
 weight: 1819
 glyph: "♇⚹♂"
-definition: "Transiting Pluto sextile natal Mars is a 60° link between Pluto and your birth Mars lasting about two years and eight months, which about three people in four meet by 80. Effort put into something that matters tends to compound: training, rebuilding, a long project taken up at last. I read it as staying power on offer."
+definition: "Transiting Pluto sextile natal Mars lends your birth Mars Pluto’s support from 60° away for about two years and eight months. Effort put into something that matters tends to compound: training, rebuilding, a long project taken up at last. I read it as stamina you can build on."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of empowerment and renewal" }
   - { k: "Natal point", v: "Mars ♂: initiative, effort and drive" }
