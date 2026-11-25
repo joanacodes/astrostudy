@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 3rd in the 5th house"
 h1: "Ruler of the 3rd in the 5th house in a birth chart"
-description: "Ruler of the 3rd in the 5th house: words as play, writing for pleasure, flirting and games. What it joins, read for grown-ups and never as news about children."
+description: "Ruler of the 3rd in the 5th house: talk as a game, writing for the fun of it, wit in love. What it joins, read for grown-ups and never as news about children."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -22,7 +22,7 @@ faq:
   - q: "Is the ruler of the 3rd in the 5th good for writers?"
     a: "It ties everyday words to the house of creative pleasure, so writing, storytelling and wordplay often feel like play rather than work. Whether that becomes a craft or stays a pastime depends on the rest of the chart, and on what you choose to do with it."
   - q: "Does the ruler of the 3rd in the 5th say anything about children?"
-    a: "Tradition gave the 5th house children, but I don’t read a chart for whether or when anyone will have them, and I don’t read children’s charts. In an adult’s life, this placement describes your own playfulness with words and ideas, and the pleasure you take in learning."
+    a: "Children are a 5th-house matter in tradition, but whether or when anyone has them isn’t something I look for, and I never read for a child. In an adult’s life, this placement describes your own playfulness with words and ideas, and the pleasure you take in learning."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 5th for pleasure, games and love affairs" }

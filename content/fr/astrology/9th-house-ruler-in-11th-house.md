@@ -23,7 +23,7 @@ faq:
   - q: "Le maître de la maison 9 en maison 11 veut-il dire des amis à l’étranger ?"
     a: "Souvent, sans pour autant choisir vos amis à votre place. Il décrit des amitiés qui élargissent votre monde, que ces personnes viennent de loin ou pensent simplement loin de votre point de départ. Un groupe d’étude, une communauté de foi ou une cause en font autant partie que la distance."
   - q: "Jupiter maître de la maison 9 en maison 11, est-ce sa joie ?"
-    a: "Oui. Avec le Sagittaire ou les Poissons sur la cuspide de la maison 9, Jupiter gouverne la maison, et la tradition plaçait la joie de Jupiter en maison 11, qu’elle appelait le Génie favorable. Je lis la joie comme une aisance : l’amitié et la générosité viennent naturellement à votre quête."
+    a: "Oui. Le Sagittaire ou les Poissons sur la cuspide de la maison 9 la confient à Jupiter, et la maison 11, le Génie favorable des anciens, est celle où Jupiter se réjouissait. Vos convictions trouvent alors volontiers une compagnie généreuse : des amis qui vous prêtent des livres, partagent vos causes et préparent le voyage avec vous."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, la maison 11 appelée le Génie favorable, la joie de Jupiter" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia (en anglais), « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison en représente les affaires ; les amitiés, les groupes et les espoirs en maison 11, les pays étrangers et la religion en maison 9" }

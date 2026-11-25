@@ -2,7 +2,7 @@
 title: "Maître de la maison 3 en maison 4"
 slug: "maitre-maison-3-en-maison-4"
 h1: "Maître de la maison 3 en maison 4 dans un thème natal"
-description: "Maître de la maison 3 en maison 4 : la parole et l’apprentissage commencent au foyer. Comment les histoires de famille façonnent votre pensée, à l’âge adulte."
+description: "Maître de la maison 3 en maison 4 : la parole et l’apprentissage commencent au foyer, et les récits de famille guident votre pensée. Lu pour la vie d’adulte."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"

@@ -2,7 +2,7 @@
 title: "Maître de la maison 4 en maison 3"
 slug: "maitre-maison-4-en-maison-3"
 h1: "Maître de la maison 4 en maison 3 dans un thème natal"
-description: "Maître de la maison 4 en maison 3 : une vie de famille liée à la fratrie, aux voisins et au quartier. Un sentiment d’appartenance entretenu par la parole."
+description: "Maître de la maison 4 en maison 3 : une appartenance entretenue par la parole, la fratrie et les gens du coin. Le foyer dans une vie d’adulte, comme je le lis."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire le maître de la maison 4 en maison 3 ?"
     a: "Cela veut dire que le foyer est gouverné depuis la maison de la parole, de l’apprentissage, de la fratrie et des voisins. L’appartenance s’entretient par la conversation et par le quartier : les appels, les visites, les rues familières. L’appartenance, pour vous, a besoin d’être dite à voix haute."
   - q: "Le maître de la maison 4 en maison 3 veut-il dire déménager souvent ?"
-    a: "Pas comme une prédiction. La maison 3 est celle des petits trajets et des allées et venues : avec le maître du foyer ici, certaines personnes déménagent dans un même secteur, gardent plusieurs points d’attache ou se sentent chez elles en mouvement. Où vous vivrez, aucun thème ne peut le dire."
+    a: "Pas comme une prédiction. La maison 3 est celle des petits trajets et des allées et venues : avec le maître du foyer ici, certaines personnes déménagent dans un même secteur, gardent plusieurs points d’attache ou se sentent chez elles en mouvement. Votre prochaine adresse ne figure dans aucun thème."
   - q: "Que dit le maître de la maison 4 en maison 3 sur les frères et sœurs ?"
     a: "Il relie la maison du foyer à celle des frères et sœurs : la fratrie, les cousins ou les voisins font souvent partie de ce que « chez soi » veut dire pour vous à l’âge adulte. Le placement parle de leur place dans votre vie ; ce que les autres ressentent ou feront lui échappe."
 sources:

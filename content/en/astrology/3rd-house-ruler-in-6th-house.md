@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 3rd in the 6th house"
 h1: "Ruler of the 3rd in the 6th house in a birth chart"
-description: "Ruler of the 3rd in the 6th house: a practical mind put to work every day. Lists, skills, messages and colleagues, read with no health predictions."
+description: "Ruler of the 3rd in the 6th house: a mind that likes a task, from lists and rotas to skills learned on the job. Read for work, never for health."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -22,7 +22,7 @@ faq:
   - q: "Does the 3rd house ruler in the 6th house mean nervous health problems?"
     a: "No. Some older books link the 6th with illness and read a 3rd-house ruler there as nerves, but no chart can diagnose or predict a health problem, and I don’t read health. What I read is how your mind organises your days, and how you look after yourself when it’s busy."
   - q: "Is the 3rd house ruler in the 6th house good for work?"
-    a: "It puts communication and learning into the house of daily work, so many people with it work with information: writing, admin, teaching, coordinating, fixing. Whether a job suits you depends on far more than one ruler. It shows the kind of everyday task your mind enjoys."
+    a: "It puts communication and learning into the house of daily work, so many people with it work with information: writing, admin, teaching, coordinating, fixing. A single ruler can’t choose a job for you. It shows the kind of everyday task your mind enjoys."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses, the 6th among them, and what tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 6th for work, employees and small animals" }

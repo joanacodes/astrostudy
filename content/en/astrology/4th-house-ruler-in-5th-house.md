@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 4th in the 5th house"
 h1: "Ruler of the 4th in the 5th house in a birth chart"
-description: "Ruler of the 4th in the 5th house: a home made for pleasure, play and making things. What it means for belonging, read for adults, with no forecast of children."
+description: "Ruler of the 4th in the 5th house: a home with the music on, full of projects, guests and long evenings. No forecast of children."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"

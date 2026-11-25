@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 5", "maison 11", "maîtres des maisons"]
 weight: 2347
 glyph: "✦"
-definition: "Le maître de la maison 5 en maison 11 place la planète de votre créativité, de vos plaisirs et de vos amours de l’autre côté du thème, parmi les amis, les groupes et les espoirs partagés. La création aime le collectif, l’amour naît de l’amitié. Rien de cela ne mesure la popularité ; c’est une joie qui veut de la compagnie."
+definition: "Le maître de la maison 5 en maison 11 place la planète de vos joies et de vos amours de l’autre côté du thème, parmi les amis, les groupes et les espoirs partagés. La création aime le collectif, l’amour naît de l’amitié. Rien de cela ne mesure la popularité ; c’est une joie qui veut de la compagnie."
 facts:
   - { k: "Maître de", v: "La maison 5 : la créativité, le plaisir, les amours" }
   - { k: "Placé en", v: "Maison 11 : les amis, les groupes, les espoirs" }

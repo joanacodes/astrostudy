@@ -20,7 +20,7 @@ faq:
   - q: "What does it mean when the Midheaven ruler is in the 10th house?"
     a: "Your Midheaven’s ruler is at home in the 10th, so your public direction doesn’t depend on another part of life to get going. You tend to know what you want to be known for, and to pursue it on your own terms. That’s a direction, with no result guaranteed."
   - q: "Does the ruler of the 10th in the 10th house mean a strong career?"
-    a: "It sits in an angular house, the most visible kind, in a house of its own, and often in its own sign too, which tradition would call well placed. I read that as clarity of direction. How far it takes you depends on your choices, your circumstances and the rest of the chart."
+    a: "It sits in an angular house, the most visible kind, in a house of its own, and often in its own sign too, which tradition would call well placed. I read that as clarity of direction. It sets no ceiling and promises no summit: what you do with it decides the rest."
   - q: "What if Mercury rules my Virgo Midheaven from the 10th?"
     a: "Then Mercury may well stand in Virgo, the one sign where a planet is both at home and exalted. Tradition saw that as Mercury at its most skilful. In the 10th it tends to build a public life on expertise: the person whose judgement others check their own against."
 sources:

@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 4th in the 3rd house"
 h1: "Ruler of the 4th in the 3rd house in a birth chart"
-description: "Ruler of the 4th in the 3rd house: home life tied to siblings, neighbours and the local area. A sense of belonging kept alive by talk, read for adult life."
+description: "Ruler of the 4th in the 3rd house: belonging kept alive by talk, by siblings and by the people down the road. Home in an adult’s life, as I read it."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -20,7 +20,7 @@ faq:
   - q: "What does the ruler of the 4th house in the 3rd house mean?"
     a: "It means home is ruled from the house of talk, learning, siblings and neighbours. Belonging tends to be kept alive by conversation and by the local area: the calls, the visits, the familiar streets. Belonging, for you, needs saying out loud."
   - q: "Does the 4th house ruler in the 3rd mean moving house often?"
-    a: "Not as a forecast. The 3rd is the house of short trips and comings and goings, so with the ruler of home there, some people do move within an area, keep more than one base or feel at home on the move. Where you’ll live is not something a chart can tell."
+    a: "Not as a forecast. The 3rd is the house of short trips and comings and goings, so with the ruler of home there, some people do move within an area, keep more than one base or feel at home on the move. Your next address isn’t in the chart."
   - q: "What does the ruler of the 4th in the 3rd say about siblings?"
     a: "It ties the house of home to the house of brothers and sisters, so siblings, cousins or neighbours often feel like part of what home means to you as an adult. The placement speaks to their place in your life; what anyone else feels or does is beyond it."
 sources:

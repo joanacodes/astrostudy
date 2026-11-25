@@ -21,7 +21,7 @@ faq:
   - q: "Que signifie le maître du Milieu du Ciel en maison 10 ?"
     a: "Votre Milieu du Ciel a son maître chez lui, dans la maison 10 : votre direction publique n’a besoin d’aucune autre part de la vie pour se mettre en route. Vous savez souvent ce qui doit vous faire connaître, et vous le poursuivez à votre façon. C’est une direction, sans garantie de résultat."
   - q: "Le maître de la maison 10 en maison 10 promet-il une carrière solide ?"
-    a: "Il se tient dans une maison angulaire, la plus visible des espèces, dans une maison qui est la sienne, et souvent dans son propre signe : la tradition dirait qu’il est bien placé. J’y lis une direction claire. Jusqu’où elle vous mène dépend de vos choix, de votre situation et du reste du thème."
+    a: "Il se tient dans une maison angulaire, la plus visible des espèces, dans une maison qui est la sienne, et souvent dans son propre signe : la tradition dirait qu’il est bien placé. J’y lis une direction claire. Ce placement ne fixe aucun plafond et ne promet aucun sommet : ce que vous en faites décide du reste."
   - q: "Et si Mercure gouverne mon Milieu du Ciel en Vierge depuis la maison 10 ?"
     a: "Alors Mercure se trouve peut-être en Vierge, le seul signe où une planète est à la fois en domicile et en exaltation. La tradition y voyait Mercure au sommet de son habileté. En maison 10, cela bâtit volontiers une vie publique sur l’expertise : la personne dont on vérifie le jugement avant le sien."
 sources:

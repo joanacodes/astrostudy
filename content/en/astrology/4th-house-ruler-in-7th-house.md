@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 4th in the 7th house"
 h1: "Ruler of the 4th in the 7th house in a birth chart"
-description: "Ruler of the 4th in the 7th house: belonging built with another person, and a partner who comes to feel like kin. Read without forecasts of marriage."
+description: "Ruler of the 4th in the 7th house: belonging built with another person, and a partner who comes to feel like kin. Read with no wedding forecast."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["4th house", "7th house", "house rulers"]
 weight: 2331
 glyph: "✦"
-definition: "The ruler of the 4th in the 7th house means the planet ruling the sign at the bottom of your chart, the IC, where home and family begin, sits in your 7th, the house of partners and one-to-one bonds. Home is something you make with someone. I read it as a way of belonging through partnership, never as a promise of marriage."
+definition: "The ruler of the 4th in the 7th house means the planet ruling the sign at the bottom of your chart, the IC, where home and family begin, sits in your 7th, the house of partners and one-to-one bonds. Home is something you make with someone. I read it as belonging through partnership, never as a promise of marriage."
 facts:
   - { k: "Ruler of", v: "The 4th house: home, roots, family, the private self" }
   - { k: "Placed in", v: "The 7th house: partners, one-to-one bonds" }

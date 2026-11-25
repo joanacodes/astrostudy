@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 3rd in the 9th house"
 h1: "Ruler of the 3rd in the 9th house in a birth chart"
-description: "Ruler of the 3rd in the 9th house: everyday learning that grows into study, travel and big questions. The near and the far of your mind, joined in one chart."
+description: "Ruler of the 3rd in the 9th house: a curiosity that turns into degrees, journeys and convictions. The near and the far of your mind, joined in one chart."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -37,6 +37,6 @@ In practice, curiosity rarely stays local. A chat becomes a reading list, a read
 
 Opposite houses see each other, so the ruler looks straight back at the house it rules: in the old geometry, an opposition is an aspect, a clear line of sight, if a tense one. I read it as a back-and-forth between the two ranges of the mind: the big idea that has to be tested against daily life, and the small fact that keeps raising a big question. Siblings and neighbours can belong to that wider world, a brother abroad, a cousin who opened another language or faith to you, a neighbour from far away. Their journeys are their own; the placement describes what those ties opened up for you.
 
-[Jupiter](/astrology/jupiter/), the 9th's natural ruler, ruling a Sagittarius or Pisces 3rd from here, sits in the house of its own natural sign: knowledge given away freely, and the pleasure of teaching what it has learned. Mercury, ruling Gemini or Virgo on the cusp, carries its quickness into philosophy or languages. An Aquarius cusp gives the 3rd both Saturn and Uranus, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Saturn in the 9th makes the long study patient and exacting, while Uranus, wherever it stands, keeps slipping in the unexpected question.
+[Jupiter](/astrology/jupiter/), the 9th's natural ruler, ruling a Sagittarius 3rd from here, or a Pisces one alongside Neptune, sits in the house of its own natural sign: knowledge given away freely, and the pleasure of teaching what it has learned. Mercury, ruling Gemini or Virgo on the cusp, carries its quickness into philosophy or languages. An Aquarius cusp gives the 3rd both Saturn and Uranus, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Saturn in the 9th makes the long study patient and exacting, while Uranus, wherever it stands, keeps slipping in the unexpected question.
 
 The 9th lies just west of the Midheaven: a planet there had crossed the top of the sky a little before your birth. Born a little earlier, the ruler would not yet have culminated and would sit in the 10th, where your words go public ([Ruler of the 3rd in the 10th house](/astrology/3rd-house-ruler-in-10th-house/)); a little later, lower in the west, it would reach the 8th, where they turn to research and to what people leave unsaid ([Ruler of the 3rd in the 8th house](/astrology/3rd-house-ruler-in-8th-house/)). Those are minutes, and without the birth time I can't tell them apart ([what changes without a birth time](/blog/unknown-birth-time/)).

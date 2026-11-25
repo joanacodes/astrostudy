@@ -2,7 +2,7 @@
 title: "Maître de la maison 3 en maison 5"
 slug: "maitre-maison-3-en-maison-5"
 h1: "Maître de la maison 3 en maison 5 dans un thème natal"
-description: "Maître de la maison 3 en maison 5 : les mots comme un jeu, l’écriture pour le plaisir, la séduction par la parole. Lu pour l’adulte, sans prédire d’enfants."
+description: "Maître de la maison 3 en maison 5 : parler pour jouer, écrire pour le plaisir, séduire avec esprit. Lu pour l’adulte, jamais comme une annonce d’enfants."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -23,7 +23,7 @@ faq:
   - q: "Le maître de la maison 3 en maison 5 est-il bon pour écrire ?"
     a: "Il relie les mots du quotidien à la maison du plaisir créatif : écrire, raconter, jouer avec la langue ressemblent souvent à un jeu plus qu’à un travail. Que cela devienne un métier ou reste un passe-temps dépend du reste du thème, et de ce que vous choisissez d’en faire."
   - q: "Le maître de la maison 3 en maison 5 dit-il quelque chose des enfants ?"
-    a: "La tradition donnait les enfants à la maison 5, mais je ne lis pas un thème pour savoir si ou quand quelqu’un en aura, et je ne lis pas le thème des enfants. Dans une vie d’adulte, ce placement décrit votre propre goût du jeu avec les mots et les idées, et le plaisir que vous prenez à apprendre."
+    a: "Les enfants sont une affaire de maison 5 dans la tradition, mais je ne cherche pas si ou quand quelqu’un en aura, et je ne lis jamais pour un enfant. Dans une vie d’adulte, ce placement décrit votre propre goût du jeu avec les mots et les idées, et le plaisir que vous prenez à apprendre."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; la maison 5 pour le plaisir, les jeux et les amours" }

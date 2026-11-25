@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 3rd in the 4th house"
 h1: "Ruler of the 3rd in the 4th house in a birth chart"
-description: "Ruler of the 3rd in the 4th house: talk and learning that start at home. How family stories shape the way you think, read for adult life, not childhood."
+description: "Ruler of the 3rd in the 4th house: talk and learning that start at home, and family stories that still steer your thinking. Read for adult life, not childhood."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"

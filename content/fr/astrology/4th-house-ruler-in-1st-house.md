@@ -2,7 +2,7 @@
 title: "Maître de la maison 4 en maison 1"
 slug: "maitre-maison-4-en-maison-1"
 h1: "Maître de la maison 4 en maison 1 dans un thème natal"
-description: "Maître de la maison 4 en maison 1 : vous emportez votre foyer avec vous, et vos racines se voient dans qui vous êtes. Lu pour l’adulte, jamais comme un destin."
+description: "Maître de la maison 4 en maison 1 : un foyer qui voyage avec vous, et des origines qui se voient dans vos manières. Une appartenance, jamais un destin."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"

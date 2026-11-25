@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 3rd in the 8th house"
 h1: "Ruler of the 3rd in the 8th house in a birth chart"
-description: "Ruler of the 3rd in the 8th house: a mind drawn to research, secrets and the conversations people avoid. What it means, read without predicting death."
+description: "Ruler of the 3rd in the 8th house: a mind that goes looking under things, at ease with hard conversations and shared paperwork. Read without predicting death."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -41,6 +41,6 @@ There's an old wrinkle in the geometry. Counted from the 3rd, the 8th is the six
 
 Tradition gave the 8th death, and some old books read a 3rd-house ruler here as danger to brothers and sisters. I don't read death in any chart, for anyone ([Can astrology predict death?](/astrology/can-astrology-predict-death/)), and a sibling's life belongs to their own chart. What I read is your side: the depth of the ties you grew up in, and perhaps the conversations about the past, or about what's shared and owed among you, that you were the one to start.
 
-Scorpio on the 3rd cusp hands it to Mars and Pluto together, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Mars in the 8th, the house that answers to Scorpio in the natural zodiac, digs with nerve, while Pluto works from another house. Mercury, ruling a Gemini or Virgo 3rd from here, gives the digging a quick, curious edge; Saturn, ruling Capricorn or Aquarius on the cusp, a slow, methodical one.
+Scorpio on the 3rd cusp hands it to Mars and Pluto together, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Mars in the 8th, the house that answers to Scorpio in the natural zodiac, digs with nerve, while Pluto works from another house. Mercury, ruling a Gemini or Virgo 3rd from here, gives the digging a quick, curious edge; Saturn, ruling Capricorn on the cusp or sharing Aquarius with Uranus, a slow, methodical one.
 
 On either side, the same ruler would read differently: in the 7th, the mind needs a partner to talk with ([Ruler of the 3rd in the 7th house](/astrology/3rd-house-ruler-in-7th-house/)); in the 9th, it heads for big questions and long study ([Ruler of the 3rd in the 9th house](/astrology/3rd-house-ruler-in-9th-house/)). The 8th sits between dialogue and meaning, where talk turns into trust. Telling the three apart needs the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).

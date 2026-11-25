@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 4th in the 1st house"
 h1: "Ruler of the 4th in the 1st house in a birth chart"
-description: "Ruler of the 4th in the 1st house: you carry home with you, and your roots show in who you are. What it means for belonging, read for adults, never as fate."
+description: "Ruler of the 4th in the 1st house: a home that travels with you, and a background that shows in your manner. Read as belonging, never as fate."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"

@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/10th-house", "/astrology/house-rulers", "/astrology/meridian-axis", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que veut dire le maître de la maison 4 en maison 10 ?"
-    a: "Votre foyer et vos racines sont gouvernés depuis la maison de la carrière et de la position sociale. Le foyer et le travail s’empruntent souvent l’un à l’autre : un métier ou un nom de famille, un travail lié aux maisons ou à l’appartenance, une carrière née de l’endroit d’où vous venez. Le foyer, chez vous, se voit dans le travail."
+    a: "La maison de la carrière et de la position sociale abrite le maître de votre foyer et de vos racines. Le foyer et le travail s’empruntent souvent l’un à l’autre : un métier ou un nom de famille, un travail lié aux maisons ou à l’appartenance, une carrière née de l’endroit d’où vous venez. Le foyer, chez vous, se voit dans le travail."
   - q: "Le maître de la maison 4 en maison 10 veut-il dire une affaire familiale ?"
     a: "Chez certaines personnes, oui : travailler en famille, reprendre un métier, bâtir quelque chose qui porte le nom de la famille. Chez d’autres, cela se voit dans un travail lié aux maisons, à la terre, au soin ou au patrimoine. Le thème ne décide pas de votre carrière ; il montre que foyer et travail se parlent dans la vôtre."
   - q: "Comment équilibrer foyer et carrière avec le maître de la maison 4 en maison 10 ?"
@@ -43,7 +43,7 @@ Depuis le haut du thème, le maître fait face au foyer, de toute la largeur de 
 
 Les livres anciens partagent les parents entre la maison 4 et la maison 10, sans jamais trancher qui va où. Avec le maître de l’une dans l’autre, certains astrologues lisent la carrière d’un parent qui façonne la vôtre. Je m’en tiens à ce qui est à vous : la façon dont la famille et l’ambition se rencontrent dans votre propre vie. La vie professionnelle d’un parent relève de son propre thème.
 
-Avec le Capricorne au Fond du Ciel, Saturne, maître naturel de la maison 10, y bâtit une carrière lentement, en portant peut-être une responsabilité familiale dans la vie publique. Dans mon carnet, Saturne fait partie des trois placements qui ont tenu 75 à 90 % du temps ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)) : c’est pourquoi je prends mon temps avec un maître Saturne.
+Avec le Capricorne au Fond du Ciel, Saturne, maître naturel de la maison 10, y bâtit une carrière lentement, en portant peut-être une responsabilité familiale dans la vie publique. Le bilan de Saturne dans mon carnet explique en partie pourquoi je prends mon temps avec un maître Saturne : avec Chiron et Lilith, Saturne a tenu 75 à 90 % du temps ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)).
 
 Un Fond du Ciel en Verseau fait entrer Uranus aux côtés de Saturne, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)) : Uranus en maison 10 peut faire d’une vie de famille hors norme une carrière hors norme, tandis que Saturne tient les fondations.
 

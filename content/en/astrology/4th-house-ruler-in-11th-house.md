@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/11th-house", "/astrology/house-rulers", "/astrology/planetary-joys", "/astrology/uranus"]
 faq:
   - q: "What does the ruler of the 4th house in the 11th house mean?"
-    a: "The ruler of your home and roots sits in the house of friends, groups and shared hopes. Belonging tends to come through chosen people: friends who become family, a community, a shared house or a cause. I read it as home found in a circle."
+    a: "Friends, groups and shared hopes belong to the house where your IC’s ruler stands. Belonging tends to come through chosen people: friends who become family, a community, a shared house or a cause. I read it as home found in a circle."
   - q: "Does the ruler of the 4th in the 11th mean I’m not close to my family?"
     a: "Not necessarily. It shows that friendship and community are part of what home means to you, which can sit beside close family ties or stand in for them. How you get on with relatives is described by far more than one ruler, and their side is theirs."
   - q: "Is the 4th house ruler in the 11th house good for shared living?"
@@ -37,7 +37,7 @@ I read it as a chosen family. Friends tend to become kin over the years, and hom
 
 Friends often step in where family can't: the ones who help you move, the ones you spend the holidays with when going home isn't possible or isn't wanted. With this ruler those occasions carry weight, and the people who turn up for them tend to become part of how you define home.
 
-With Sagittarius or Pisces on the IC, the ruler of home is Jupiter, and the 11th was its joy ([planetary joys](/astrology/planetary-joys/)): the house fills easily, and generosity at home is the rule rather than the exception.
+With Sagittarius on the IC, or Pisces, where Neptune joins it, the ruler of home is Jupiter, and the 11th was its joy ([planetary joys](/astrology/planetary-joys/)): the house fills easily, and generosity at home is the rule rather than the exception.
 
 Aquarius on the IC gives home two rulers, Saturn and Uranus, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). [Uranus](/astrology/uranus/), the 11th's modern natural ruler, makes home unconventional from there, more open house than fortress, while Saturn keeps a few walls standing for when you need them.
 
@@ -45,4 +45,4 @@ The 11th also holds hopes, the future you'd like to live in, and with the ruler 
 
 None of this says you're distant from relatives. It describes friendship as part of what home means to you; how you get on with your family is a larger question than one ruler, and their side of it is theirs.
 
-In the sky, the 11th lies high in the east: a ruler here was still climbing towards the Midheaven at your birth. A little higher, it would be in the 10th, with home and career on one axis ([Ruler of the 4th in the 10th house](/astrology/4th-house-ruler-in-10th-house/)); a little lower, near the horizon, in the 12th, home would become a retreat ([Ruler of the 4th in the 12th house](/astrology/4th-house-ruler-in-12th-house/)). Minutes of birth time make the difference ([what changes without a birth time](/blog/unknown-birth-time/)).
+In the sky, the 11th lies high in the east: a ruler here was still climbing towards the Midheaven at your birth. A little higher, it would be in the 10th, with home and career on one axis ([Ruler of the 4th in the 10th house](/astrology/4th-house-ruler-in-10th-house/)); a little lower, near the horizon, in the 12th, home would become a retreat ([Ruler of the 4th in the 12th house](/astrology/4th-house-ruler-in-12th-house/)). Those few degrees are minutes of birth time ([what changes without a birth time](/blog/unknown-birth-time/)).

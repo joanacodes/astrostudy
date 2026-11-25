@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/12th-house", "/astrology/house-rulers", "/astrology/astrology-and-mental-health", "/astrology/neptune"]
 faq:
   - q: "What does the ruler of the 4th house in the 12th house mean?"
-    a: "Your home and roots are ruled from the house of solitude, rest and what happens out of sight. Home tends to be a retreat, kept private, and family history may hold things rarely spoken of. I read it as a sanctuary you need, not a hiding place."
+    a: "The planet ruling your IC has withdrawn to the house of solitude, rest and what happens out of sight. Home tends to be a retreat, kept private, and family history may hold things rarely spoken of. I read it as a sanctuary you need, not a hiding place."
   - q: "Does the 4th house ruler in the 12th mean family secrets?"
     a: "Sometimes it shows as stories that weren’t told, or a part of the family’s past that’s hard to see. It doesn’t mean anything shameful is hidden, and no chart can reveal what happened in a family. It describes how hidden or quiet that ground feels to you."
   - q: "Is the ruler of the 4th in the 12th house a sign of loneliness?"
@@ -35,11 +35,11 @@ Home is the place where no one sees you. Its ruler has gone into the house of so
 
 I read it as home as sanctuary. You may need a home that shuts the world out, a room of your own, a quiet hour, a place few people are invited into, and you may recover there from things you don't talk about elsewhere. Some people with this ruler keep a private life their friends know little about. Family can have a hidden side too: stories that weren't told, a past that's hard to see clearly, care given at home without anyone noticing. The difficulty is when retreat becomes the only way of being at home, and the door stays shut longer than you'd like.
 
-The old books gave the 12th hospitals, confinement and hidden enemies, and a ruler of home there could read as a house that hems you in. That's not how I see it. The 12th is where people go to rest and recover, and a ruler of home here asks for that kind of shelter. Nothing in it is a symptom; for what a chart can and can't say about the mind, see [astrology and mental health](/astrology/astrology-and-mental-health/).
+The old books gave the 12th hospitals, confinement and hidden enemies, and a ruler of home there could read as a house that hems you in. I don't see a prison in it. The 12th is where people go to rest and recover, and a ruler of home here asks for that kind of shelter. Nothing in it is a symptom; for what a chart can and can't say about the mind, see [astrology and mental health](/astrology/astrology-and-mental-health/).
 
 If Pisces sits on the IC, Jupiter and Neptune share the 4th, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): [Neptune](/astrology/neptune/), the 12th's modern natural ruler, can make home a place of dreaming, music, prayer or simply rest, while Jupiter, elsewhere, opens the door when you're ready.
 
-The Moon, ruling a Cancer IC from the 12th, needs time alone to feel what it feels before it can share it. Saturn, ruling Capricorn or Aquarius on the IC, rejoices in the 12th by the old reckoning ([planetary joys](/astrology/planetary-joys/)), and builds a home with walls thick enough for real solitude.
+The Moon, ruling a Cancer IC from the 12th, needs time alone to feel what it feels before it can share it. Saturn, ruling Capricorn on the IC, or Aquarius, where Uranus has its share, rejoices in the 12th by the old reckoning ([planetary joys](/astrology/planetary-joys/)), and builds a home with walls thick enough for real solitude.
 
 A private home isn't a hidden one. The people who are let in tend to matter a great deal, and for them you may be the steadiest refuge they know. What this placement asks for is a balance: enough shelter to recover, and enough openness that home never turns into a hiding place.
 

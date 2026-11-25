@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 6th in the 11th house"
 h1: "Ruler of the 6th in the 11th house in a birth chart"
-description: "Ruler of the 6th in the 11th house: the working day as a team effort. Colleagues who become friends, work for causes, and groups that run on you."
+description: "Ruler of the 6th in the 11th house: a team effort, every working day. Colleagues who become friends, work for causes, and groups that run on you."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/6th-house", "/astrology/11th-house", "/astrology/house-rulers", "/astrology/jupiter-in-11th-house", "/astrology/aversion"]
 faq:
   - q: "What does the 6th house ruler in the 11th house say about working with others?"
-    a: "That daily work happens in and for groups: teams, associations, charities, unions, networks, communities. Colleagues often become friends, and organising the group may become part of your working week. It describes how you like to work, not which job you’ll have."
+    a: "That daily work happens in and for groups: teams, associations, charities, unions, networks, communities. Colleagues often become friends, and organising the group may become part of your working week. That’s a way of working, never a job title."
   - q: "Is the ruler of the 6th in the 11th house good for volunteering?"
     a: "It often suits it. Service offered to a group or a cause can feel as natural as paid work, and sometimes more satisfying. Whether you volunteer, and for whom, is your choice; the placement shows that shared aims give daily effort its point."
   - q: "Why do I end up doing the chores in every group I join?"
@@ -27,11 +27,11 @@ sources:
   - { title: "Vettius Valens, Anthology, book II, trans. Robert Schmidt (1994), via Wikipedia, “Succedent house”", url: "https://en.wikipedia.org/wiki/Succedent_house", note: "the 11th as the house of Good Spirit, where Jupiter rejoices" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 11th with friendships, groups, wishes and hopes" }
 ---
-With the 6th's ruler in the 11th, the working day is a team effort. Colleagues turn into friends, groups need organising, and service often goes to a cause you share with others.
+In the 11th, the 6th's ruler turns the working day into a team effort. Colleagues turn into friends, groups need organising, and service often goes to a cause you share with others.
 
 ## What it means {#what-it-means}
 
-Your friends, your circles and networks, the future you're planning together: that is the [11th house](/astrology/11th-house/). Put the ruler of your [6th house](/astrology/6th-house/) cusp there ([house rulers](/astrology/house-rulers/)) and the ordinary working day stops being a solo affair: chores, schedules and routines happen with a group, and often for one.
+Your friends, your circles and networks, the future you're planning together: that is the [11th house](/astrology/11th-house/). Put your [6th house](/astrology/6th-house/) ruler there ([house rulers](/astrology/house-rulers/)) and the ordinary working day stops being a solo affair: chores, schedules and routines happen with a group, and often for one.
 
 I read it as work that belongs to a collective: the association you help run, the union branch, the open-source project, the volunteer rota, the team that becomes a second circle of friends. Perhaps you hold a group's practical side together: the minutes, the bookings, the spreadsheet everyone relies on. The risk is carrying a group's chores unthanked, or finding that your friendships live only at work and fade when the job changes.
 

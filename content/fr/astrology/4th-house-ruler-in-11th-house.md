@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/11th-house", "/astrology/house-rulers", "/astrology/planetary-joys", "/astrology/uranus"]
 faq:
   - q: "Que veut dire le maître de la maison 4 en maison 11 ?"
-    a: "Le maître de votre foyer et de vos racines se trouve dans la maison des amis, des groupes et des espoirs partagés. L’appartenance passe souvent par des personnes choisies : des amis qui deviennent une famille, une communauté, une maison partagée ou une cause. J’y lis un foyer trouvé dans un cercle."
+    a: "Les amis, les groupes et les espoirs partagés appartiennent à la maison où se tient le maître de votre Fond du Ciel. L’appartenance passe souvent par des personnes choisies : des amis qui deviennent une famille, une communauté, une maison partagée ou une cause. J’y lis un foyer trouvé dans un cercle."
   - q: "Le maître de la maison 4 en maison 11 veut-il dire que je ne suis pas proche de ma famille ?"
     a: "Pas forcément. Il montre que l’amitié et la communauté font partie de ce que « chez soi » veut dire pour vous, ce qui peut aller avec des liens de famille étroits ou en tenir lieu. Vos relations avec vos proches dépendent de bien plus qu’un maître, et leur côté leur appartient."
   - q: "Le maître de la maison 4 en maison 11 convient-il à la vie en colocation ?"
@@ -38,7 +38,7 @@ J’y lis une famille choisie. Les amis deviennent des proches au fil des ans, e
 
 Les amis prennent souvent le relais là où la famille ne le peut pas : ceux qui vous aident à déménager, ceux avec qui vous passez les fêtes quand rentrer n’est pas possible ou pas souhaité. Avec ce maître, ces moments pèsent, et les personnes qui répondent présentes finissent par faire partie de ce que « chez soi » veut dire.
 
-Avec le Sagittaire ou les Poissons au Fond du Ciel, le maître du foyer est Jupiter, et la maison 11 était sa joie ([joies des planètes](/astrology/planetary-joys/)) : la maison se remplit facilement, et la générosité y est la règle plutôt que l’exception.
+Avec le Sagittaire au Fond du Ciel, ou les Poissons, que Neptune gouverne aussi, le maître du foyer est Jupiter, et la maison 11 était sa joie ([joies des planètes](/astrology/planetary-joys/)) : la maison se remplit facilement, et la générosité y est la règle plutôt que l’exception.
 
 Un Fond du Ciel en Verseau donne au foyer deux maîtres, Saturne et Uranus, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). [Uranus](/astrology/uranus/), maître naturel moderne de la maison 11, rend depuis là le foyer peu conventionnel, plus maison ouverte que forteresse, tandis que Saturne garde quelques murs debout pour les jours où vous en avez besoin.
 
@@ -46,4 +46,4 @@ La maison 11 contient aussi les espoirs, l’avenir dans lequel vous aimeriez vi
 
 Rien de tout cela ne dit que vous êtes loin de votre famille. Cela décrit l’amitié comme une part de ce que « chez soi » veut dire pour vous ; vos relations avec votre famille sont une question plus vaste qu’un seul maître, et leur côté leur appartient.
 
-Dans le ciel, la maison 11 se trouve haut à l’est : un maître qui s’y trouve montait encore vers le Milieu du Ciel à votre naissance. Un peu plus haut, il serait en maison 10, avec le foyer et la carrière sur un même axe ([Maître de la maison 4 en maison 10](/astrology/4th-house-ruler-in-10th-house/)) ; un peu plus bas, près de l’horizon, en maison 12, le foyer deviendrait une retraite ([Maître de la maison 4 en maison 12](/astrology/4th-house-ruler-in-12th-house/)). Quelques minutes d’heure de naissance font la différence ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Dans le ciel, la maison 11 se trouve haut à l’est : un maître qui s’y trouve montait encore vers le Milieu du Ciel à votre naissance. Un peu plus haut, il serait en maison 10, avec le foyer et la carrière sur un même axe ([Maître de la maison 4 en maison 10](/astrology/4th-house-ruler-in-10th-house/)) ; un peu plus bas, près de l’horizon, en maison 12, le foyer deviendrait une retraite ([Maître de la maison 4 en maison 12](/astrology/4th-house-ruler-in-12th-house/)). Ces quelques degrés tiennent à quelques minutes d’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).

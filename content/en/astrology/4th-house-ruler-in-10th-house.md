@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/10th-house", "/astrology/house-rulers", "/astrology/meridian-axis", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does the ruler of the 4th house in the 10th house mean?"
-    a: "Your home and roots are ruled from the house of career and public standing. Home and work tend to borrow from each other: a family trade or name, work that’s about homes or belonging, or a career that grew out of where you come from. Home, for you, shows in your work."
+    a: "The house of career and public standing holds the ruler of your home and roots. Home and work tend to borrow from each other: a family trade or name, work that’s about homes or belonging, or a career that grew out of where you come from. Home, for you, shows in your work."
   - q: "Does the 4th house ruler in the 10th house mean a family business?"
     a: "For some people it does: working with family, carrying on a trade, or building something with the family name on it. For others it shows as work with homes, land, care or heritage. The chart doesn’t decide your career; it shows that home and work speak to each other in yours."
   - q: "How do I balance home and career with the ruler of the 4th in the 10th?"
@@ -42,7 +42,7 @@ From the top of the chart the ruler faces home directly, across the full width o
 
 The old books split the parents between the 4th and the 10th, without ever settling who goes where. With the ruler of one in the other, some astrologers read a parent's career shaping yours. I keep to what's yours: the way family and ambition meet in your own life. A parent's working life belongs to their own chart.
 
-Saturn, ruling a Capricorn IC, is the 10th's own natural ruler, and from there it builds a career slowly, perhaps carrying a family responsibility into public life. In my notebook, Saturn was one of the three placements that held 75 to 90% of the time ([the three that held](/blog/saturn-chiron-lilith/)), which is why I take a Saturn ruler slowly.
+Saturn, ruling a Capricorn IC, is the 10th's own natural ruler, and from there it builds a career slowly, perhaps carrying a family responsibility into public life. Saturn's record in my notebook is part of why I take a Saturn ruler slowly: with Chiron and Lilith, it held 75 to 90% of the time ([the three that held](/blog/saturn-chiron-lilith/)).
 
 An Aquarius IC brings Uranus in beside Saturn, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Uranus in the 10th can turn an unconventional home life into an unconventional career, while Saturn keeps the foundations.
 

@@ -22,7 +22,7 @@ faq:
   - q: "How does the ruler of the 5th in the 3rd house show in love?"
     a: "Through talk. Attraction tends to start in conversation, in messages, in a shared joke or a game, and you may fall for someone’s mind before anything else. Who you’ll meet, and whether it lasts, is another matter; the placement covers how you flirt and what keeps you interested."
   - q: "What if Cancer is on my 5th house cusp and the Moon is in the 3rd?"
-    a: "That puts your 5th's ruler in the house tradition called the Goddess, the Moon's own place of joy. Your moods and your pleasures move together, lifted by talk, short outings and a change of scene. I read it as a light that likes to circulate, happiest when the days are full of small journeys."
+    a: "That puts your 5th's ruler in the house tradition called the Goddess, the Moon's own place of joy. Talk and short outings lift your spirits, and your pleasures follow. I read it as a light that likes to circulate, happiest when the days are full of small journeys."
 sources:
   - { title: "Vettius Valens, Anthology, book II, trans. Robert Schmidt (1994), via Wikipedia, “Cadent house”", url: "https://en.wikipedia.org/wiki/Cadent_house", note: "the 3rd as the place of the Goddess, where the Moon rejoices" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 3rd with siblings, letters and short journeys" }

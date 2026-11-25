@@ -2,7 +2,7 @@
 title: "Maître de la maison 3 en maison 6"
 slug: "maitre-maison-3-en-maison-6"
 h1: "Maître de la maison 3 en maison 6 dans un thème natal"
-description: "Maître de la maison 3 en maison 6 : un esprit pratique, mis au travail chaque jour. Listes, savoir-faire, messages et collègues, sans prédiction de santé."
+description: "Maître de la maison 3 en maison 6 : un esprit qui aime avoir une tâche, des listes aux savoir-faire appris sur le tas. Lu pour le travail, jamais pour la santé."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -23,7 +23,7 @@ faq:
   - q: "Le maître de la maison 3 en maison 6 annonce-t-il des problèmes nerveux ?"
     a: "Non. Des livres lient la maison 6 à la maladie et y voient les nerfs pour un maître de la maison 3, mais aucun thème ne peut diagnostiquer ni prédire un problème de santé ; je ne lis pas la santé. Je lis la façon dont votre esprit organise vos journées, et dont vous prenez soin de vous quand il s’emballe."
   - q: "Le maître de la maison 3 en maison 6 est-il bon pour le travail ?"
-    a: "Il place la communication et l’apprentissage dans la maison du travail quotidien : beaucoup de personnes qui l’ont travaillent avec l’information, en écrivant, en administrant, en enseignant, en coordonnant, en réparant. Qu’un emploi vous convienne dépend de bien plus qu’un maître. Il montre le genre de tâche quotidienne qui plaît à votre esprit."
+    a: "Il place la communication et l’apprentissage dans la maison du travail quotidien : beaucoup de personnes qui l’ont travaillent avec l’information, en écrivant, en administrant, en enseignant, en coordonnant, en réparant. Un seul maître ne choisit pas un métier à votre place. Il montre le genre de tâche quotidienne qui plaît à votre esprit."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons, dont la maison 6, et ce que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; la maison 6 pour le travail, les employés et les petits animaux" }

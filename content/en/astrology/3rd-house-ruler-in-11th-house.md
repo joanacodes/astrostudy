@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 3rd in the 11th house"
 h1: "Ruler of the 3rd in the 11th house in a birth chart"
-description: "Ruler of the 3rd in the 11th house: ideas shared with friends, groups and networks. What it says about the circles you think in and the hopes you talk about."
+description: "Ruler of the 3rd in the 11th house: ideas passed from friend to friend, and thinking out loud in groups. The circles you think in, and the hopes you talk about."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -37,7 +37,7 @@ I read it as a mind that thinks in networks. You probably learn a great deal fro
 
 The 11th also holds hopes, the future you're working towards with other people. With this ruler, plans tend to become real once they've been said aloud to a friend, and a group's encouragement can carry an idea a long way; its silence can stall one just as easily. Learning often happens the same way: an evening class with the same faces each week, a reading group, a language exchange, a team that teaches itself as it goes.
 
-Jupiter, tradition said, rejoices in the 11th, the house it called the Good Spirit ([planetary joys](/astrology/planetary-joys/)). With Sagittarius or Pisces on your 3rd house cusp, Jupiter rules the 3rd and rejoices here: a generous talker in a wide circle, the friend who teaches without meaning to. Counted round the wheel, the 11th also sees the 3rd by trine, so the ruler keeps its own house in view, and the people close by and the wider circle feed each other easily.
+Jupiter, tradition said, rejoices in the 11th, the house it called the Good Spirit ([planetary joys](/astrology/planetary-joys/)). With Sagittarius on your 3rd house cusp, or Pisces, where Neptune shares the rule, Jupiter rules the 3rd and rejoices here: a generous talker in a wide circle, the friend who teaches without meaning to. Counted round the wheel, the 11th also sees the 3rd by trine, so the ruler keeps its own house in view, and the people close by and the wider circle feed each other easily.
 
 Siblings and friends tend to blur here. A brother, sister or cousin may become one of your closest friends as adults, or a group of friends may come to feel like the siblings you chose; neighbours can turn into a community. The chart describes the warmth or the distance you feel, never what anyone owes you.
 

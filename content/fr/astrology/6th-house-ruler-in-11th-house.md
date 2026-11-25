@@ -2,7 +2,7 @@
 title: "Maître de la maison 6 en maison 11"
 slug: "maitre-maison-6-en-maison-11"
 h1: "Maître de la maison 6 en maison 11 dans un thème natal"
-description: "Maître de la maison 6 en maison 11 : la journée de travail comme effort d’équipe. Des collègues devenus amis, des causes, des groupes qui tournent grâce à vous."
+description: "Maître de la maison 6 en maison 11 : un effort d’équipe, chaque jour de travail. Des collègues devenus amis, des causes, des groupes qui tournent grâce à vous."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/6th-house", "/astrology/11th-house", "/astrology/house-rulers", "/astrology/jupiter-in-11th-house", "/astrology/aversion"]
 faq:
   - q: "Que dit le maître de la maison 6 en maison 11 du travail avec les autres ?"
-    a: "Le travail quotidien se fait en groupe et pour des groupes : équipes, associations, organismes caritatifs, syndicats, réseaux, communautés. Les collègues deviennent souvent des amis, et organiser le groupe peut entrer dans votre semaine de travail. Ce placement décrit votre façon d’aimer travailler, pas votre emploi."
+    a: "Le travail quotidien se fait en groupe et pour des groupes : équipes, associations, organismes caritatifs, syndicats, réseaux, communautés. Les collègues deviennent souvent des amis, et organiser le groupe peut entrer dans votre semaine de travail. C’est une façon de travailler, jamais un intitulé de poste."
   - q: "Le maître de la maison 6 en maison 11 est-il bon pour le bénévolat ?"
     a: "Il lui convient souvent. Rendre service à un groupe ou à une cause peut sembler aussi naturel qu’un travail payé, et parfois plus satisfaisant. Faire du bénévolat, et pour qui, reste votre choix ; ce placement montre que des buts partagés donnent son sens à l’effort quotidien."
   - q: "Pourquoi est-ce toujours moi qui fais les corvées dans les groupes ?"
@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies, livre II, trad. Robert Schmidt (1994), via Wikipédia (en anglais), « Succedent house »", url: "https://en.wikipedia.org/wiki/Succedent_house", note: "la maison 11 comme Génie favorable, où Jupiter se réjouit" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia (en anglais), « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison en représente les affaires ; la maison 11 avec les amitiés, les groupes, les souhaits et les espoirs" }
 ---
-Avec le maître de la maison 6 en maison 11, la journée de travail devient un effort d’équipe. Les collègues deviennent des amis, les groupes ont besoin d’être organisés, et le service va souvent à une cause que vous partagez avec d’autres.
+En maison 11, le maître de la maison 6 fait de la journée de travail un effort d’équipe. Les collègues deviennent des amis, les groupes ont besoin d’être organisés, et le service va souvent à une cause que vous partagez avec d’autres.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

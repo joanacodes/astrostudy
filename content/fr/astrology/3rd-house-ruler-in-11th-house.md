@@ -2,7 +2,7 @@
 title: "Maître de la maison 3 en maison 11"
 slug: "maitre-maison-3-en-maison-11"
 h1: "Maître de la maison 3 en maison 11 dans un thème natal"
-description: "Maître de la maison 3 en maison 11 : des idées partagées avec les amis, les groupes et les réseaux. Les cercles où vous pensez, les espoirs dont vous parlez."
+description: "Maître de la maison 3 en maison 11 : des idées qui passent d’ami en ami, une pensée à voix haute en groupe. Vos cercles, et les espoirs dont vous parlez."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -38,7 +38,7 @@ J’y lis un esprit qui pense en réseau. Vous apprenez sans doute beaucoup de v
 
 La maison 11 contient aussi les espoirs, l’avenir que vous préparez avec d’autres. Avec ce maître, un projet devient réel une fois dit à voix haute à quelqu’un de proche, et l’encouragement d’un groupe peut porter une idée très loin ; son silence peut tout aussi bien la freiner. L’apprentissage suit souvent le même chemin : un cours du soir avec les mêmes visages chaque semaine, un club de lecture, un échange linguistique, une équipe qui apprend en avançant.
 
-Jupiter, disait la tradition, se réjouit en maison 11, la maison qu’elle appelait le Génie favorable ([joies des planètes](/astrology/planetary-joys/)). Avec le Sagittaire ou les Poissons sur la cuspide de la maison 3, Jupiter gouverne cette maison et se réjouit ici : une parole généreuse dans un cercle large, la personne qui enseigne sans le vouloir. Comptée autour de la roue, la maison 11 voit aussi la maison 3 par trigone : le maître garde sa propre maison en vue, et les proches et le cercle plus large se nourrissent l’un l’autre sans peine.
+Jupiter, disait la tradition, se réjouit en maison 11, la maison qu’elle appelait le Génie favorable ([joies des planètes](/astrology/planetary-joys/)). Avec le Sagittaire sur la cuspide de la maison 3, ou les Poissons, dont Neptune partage la maîtrise, Jupiter gouverne cette maison et se réjouit ici : une parole généreuse dans un cercle large, la personne qui enseigne sans le vouloir. Comptée autour de la roue, la maison 11 voit aussi la maison 3 par trigone : le maître garde sa propre maison en vue, et les proches et le cercle plus large se nourrissent l’un l’autre sans peine.
 
 Fratrie et amitié se confondent volontiers ici. Un frère, une sœur ou un cousin peut devenir l’un de vos amis les plus proches à l’âge adulte, ou un groupe d’amis finir par ressembler à la fratrie que vous avez choisie ; des voisins peuvent devenir une communauté. Le thème décrit la chaleur ou la distance que vous ressentez, jamais ce que quelqu’un vous doit.
 

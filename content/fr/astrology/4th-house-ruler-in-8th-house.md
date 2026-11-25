@@ -2,7 +2,7 @@
 title: "Maître de la maison 4 en maison 8"
 slug: "maitre-maison-4-en-maison-8"
 h1: "Maître de la maison 4 en maison 8 dans un thème natal"
-description: "Maître de la maison 4 en maison 8 : des liens de famille profonds, des biens partagés et ce qui se transmet. Lu sans prédire de mort ni d’héritage."
+description: "Maître de la maison 4 en maison 8 : des liens de famille lourds d’histoire, des biens en commun, des récits encore tus. Je n’y lis ni décès ni héritage."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -34,7 +34,7 @@ L’histoire de la famille a un sous-sol. Placé dans la maison de l’intimité
 
 La [maison 4](/astrology/4th-house/) couvre le foyer, la famille et le sol sur lequel vous vous tenez ; la [maison 8](/astrology/8th-house/), l’intimité, la confiance, ce que vous partagez avec les autres et ce que vous leur devez. Quand la maison 4 est gouvernée depuis la maison 8 ([maîtres des maisons](/astrology/house-rulers/)), la vie de famille prend un courant souterrain.
 
-J’y lis des racines qui ont de la profondeur. Les liens de famille pèsent souvent : la loyauté, les vieilles dettes dans les deux sens du mot, le sentiment que ce qui s’est passé avant vous façonne encore la maison où vous vivez. Le foyer peut se mêler aux ressources partagées, un bien détenu à plusieurs, un prêt familial, des objets transmis avec leurs histoires. Certaines personnes qui ont ce maître deviennent gardiennes des souvenirs les plus durs de la famille, celles à qui l’on se confie. À l’âge adulte, une part du travail consiste à décider ce que vous portez plus loin et ce que vous déposez.
+Ce que je vois d’abord, c’est la profondeur. Les liens de famille pèsent souvent : la loyauté, les vieilles dettes dans les deux sens du mot, le sentiment que ce qui s’est passé avant vous façonne encore la maison où vous vivez. Le foyer peut se mêler aux ressources partagées, un bien détenu à plusieurs, un prêt familial, des objets transmis avec leurs histoires. Certaines personnes qui ont ce maître deviennent gardiennes des souvenirs les plus durs de la famille, celles à qui l’on se confie. À l’âge adulte, une part du travail consiste à décider ce que vous portez plus loin et ce que vous déposez.
 
 Comptée autour de la roue, la maison 8 est la cinquième depuis la maison 4, un trigone dans la géométrie ancienne : le maître garde le foyer en vue depuis là où il se tient, et la profondeur soutient les fondations au lieu de les miner. L’intimité et le foyer vont souvent ensemble pour vous, et la confiance, une fois donnée, est ce qui fait d’un lieu le vôtre.
 
@@ -44,4 +44,4 @@ La mort et l’héritage étaient l’affaire de la maison 8 dans les livres anc
 
 Quand le Scorpion est au Fond du Ciel, la maison 4 a pour maîtres Mars et Pluton, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)) : Mars en maison 8, la maison de son propre signe traditionnel, prend les affaires de famille de front, tandis que Pluton travaille les racines depuis une autre maison. La Lune, avec le Cancer au Fond du Ciel, ressent vivement les humeurs de la famille depuis la maison 8, et il vous faut peut-être du temps à l’écart pour démêler les sentiments qui sont les vôtres de ceux qu’on vous a transmis.
 
-La maison 8 se trouve au-dessus de l’horizon ouest, passé le haut du ciel. Avec une naissance un peu plus précoce, le maître aurait encore été plus haut, en maison 9, où le foyer se trouve au loin ou dans une conviction ([Maître de la maison 4 en maison 9](/astrology/4th-house-ruler-in-9th-house/)) ; un peu plus tard, il serait descendu en maison 7, où le foyer se construit avec un partenaire ([Maître de la maison 4 en maison 7](/astrology/4th-house-ruler-in-7th-house/)). C’est une question pour l’acte de naissance, pas pour la devinette ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison 8 se trouve au-dessus de l’horizon ouest, passé le haut du ciel. Avec une naissance un peu plus précoce, le maître aurait encore été plus haut, en maison 9, où le foyer se trouve au loin ou dans une conviction ([Maître de la maison 4 en maison 9](/astrology/4th-house-ruler-in-9th-house/)) ; un peu plus tard, il serait descendu en maison 7, où le foyer se construit avec un partenaire ([Maître de la maison 4 en maison 7](/astrology/4th-house-ruler-in-7th-house/)). Laquelle des trois est la vôtre dépend de l’endroit où tombent les cuspides de la maison 8 à l’heure inscrite ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/6th-house", "/astrology/12th-house", "/astrology/house-rulers", "/astrology/saturn-in-12th-house", "/astrology/can-astrology-predict-health-problems"]
 faq:
   - q: "Does the 6th house ruler in the 12th house mean working behind the scenes?"
-    a: "Often. Daily work tends to happen away from the public: back offices, archives, laboratories, night shifts, support roles, or staff posts inside hospitals, prisons and other large institutions. It describes the setting you work well in; the job itself is yours to choose."
+    a: "Often. Daily work tends to happen away from the public: back offices, archives, laboratories, night shifts, support roles, or staff posts inside hospitals, prisons and other large institutions. That’s the setting you work well in; the job itself is yours to choose."
   - q: "Does the ruler of the 6th in the 12th house point to health problems?"
     a: "No. The old books did put illness in the 6th and captivity in the 12th, which is why this pairing worries people. But no chart foresees an illness or a stay in any institution, and I don’t read health. I read how you work: quietly, often unseen, sometimes in places of care."
   - q: "Why does my work go unnoticed with this placement?"

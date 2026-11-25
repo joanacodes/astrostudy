@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 6th in the 6th house"
 h1: "Ruler of the 6th in the 6th house in a birth chart"
-description: "Ruler of the 6th in the 6th house: your work planet at home in its own house. Craft, method and the well-run day, and why rest needs a place too."
+description: "Ruler of the 6th in the 6th house: the house of work keeps its own ruler. Craft, method and the well-run day, and why rest needs a place too."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -42,6 +42,6 @@ The planet shapes the routine. With Aries or Scorpio on the cusp, Mars is both r
 
 [Scorpio on the 6th house cusp](/astrology/scorpio-on-6th-house-cusp/) gives Pluto a share of the house alongside Mars ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). If Mars is the one at home here, Pluto, from another house, can bring a need to overhaul how things are done every few years. Both are part of the reading.
 
-On one side of the 6th lies the Descendant. A ruler close to it would, with a slightly earlier birth, still have been above the horizon, in the 7th, working one to one with clients or partners ([Ruler of the 6th in the 7th house](/astrology/6th-house-ruler-in-7th-house/)). On the other side, a slightly later birth would push a ruler near the 6th cusp back into the 5th, where work feels like play ([Ruler of the 6th in the 5th house](/astrology/6th-house-ruler-in-5th-house/)). The recorded minute decides ([what changes without a birth time](/blog/unknown-birth-time/)).
+The Descendant borders the 6th on one side. A ruler close to it would, with a slightly earlier birth, still have been above the horizon, in the 7th, working one to one with clients or partners ([Ruler of the 6th in the 7th house](/astrology/6th-house-ruler-in-7th-house/)). On the other side, a slightly later birth would push a ruler near the 6th cusp back into the 5th, where enjoyment drives the work ([Ruler of the 6th in the 5th house](/astrology/6th-house-ruler-in-5th-house/)). The recorded minute decides ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-The 6th was tradition's house of illness, and a ruler at home there doesn't double anything of the kind. Routines include sleep, food, movement and rest, and a chart can describe the rhythm that suits you; it can't name or foresee an illness ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). If the routine turns into a cage, or worry takes over the day, talk to a doctor or a therapist ([astrology and mental health](/astrology/astrology-and-mental-health/)).
+The 6th was tradition's house of illness, and a ruler at home there doesn't double anything of the kind. Routines include sleep, food, movement and rest, and a chart can describe the rhythm that suits you; it can't name or foresee an illness ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). If the routine turns into a cage, or worry takes over the day, talk to a doctor or a counsellor ([astrology and mental health](/astrology/astrology-and-mental-health/)).

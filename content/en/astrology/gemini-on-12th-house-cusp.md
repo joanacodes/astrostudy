@@ -1,10 +1,12 @@
 ---
 title: "Gemini on the 12th house cusp"
 h1: "Gemini on the 12th house cusp in a birth chart"
-description: "Gemini on the 12th house cusp: a busy mind that needs quiet, thoughts worked out in private, Mercury as ruler of your retreat, and the Cancer Ascendant it brings."
+description: "Gemini on the 12th house cusp: a busy mind that needs quiet, thoughts worked out alone, Mercury as ruler of your retreat, and the Cancer Ascendant it brings."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Placements"]
+tags: ["Gemini", "12th house", "house cusps"]
 weight: 2465
 glyph: "♊"
 definition: "Gemini on the 12th house cusp means the house of solitude, rest and inner life opens in Gemini, just above your Ascendant. You tend to think things through in private before you say them, and to quieten a busy mind by writing, reading or walking alone. Mercury rules the house: its position shows where your thinking retreats."

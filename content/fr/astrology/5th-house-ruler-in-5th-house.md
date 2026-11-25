@@ -22,7 +22,7 @@ faq:
     a: "La planète qui gouverne vos plaisirs reste dans la maison qu’elle gouverne : la créativité, le jeu et les amours n’ont pas à servir un autre domaine de la vie pour compter. Vous aimez les choses pour elles-mêmes, et un projet en appelle un autre. La planète et son signe donnent le style de cette joie."
   - q: "Le maître de la maison 5 en maison 5, est-ce une position forte ?"
     a: "C’est une position autonome. La maison a son porte-parole sur place, et si la planète est dans son propre signe ou, pour Vénus, dans sa joie, elle travaille avec aisance. Être autonome n’est pas avoir de la chance : vos plaisirs se reconnaissent simplement plus facilement, quels qu’ils soient."
-  - q: "Le maître de la maison 5 en maison 5 annonce-t-il des enfants ?"
+  - q: "Un maître de la maison 5 resté en maison 5 rend-il les enfants plus probables ?"
     a: "Non. La tradition voyait les enfants dans la maison 5, et comme la maison garde son propre maître, la tentation d’y lire une famille est forte. Je ne le fais pas : savoir si et quand un enfant viendra échappe à tout thème. Je lis la maison 5 comme votre créativité, vos plaisirs et vos amours d’adulte."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 5, la Fortune favorable" }

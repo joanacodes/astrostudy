@@ -23,7 +23,7 @@ faq:
   - q: "Comment le maître de la maison 5 en maison 3 se vit-il en amour ?"
     a: "Par la parole. L’attirance commence volontiers dans une conversation, des messages, une blague partagée ou un jeu, et vous pouvez vous éprendre d’un esprit avant tout le reste. Qui vous rencontrerez, et combien de temps cela durera, c’est une autre affaire : ce placement parle de votre façon de séduire et de ce qui retient votre intérêt."
   - q: "Et si le Cancer est sur ma cuspide 5 et la Lune en maison 3 ?"
-    a: "Le maître de votre maison 5 se trouve alors dans la maison que la tradition nommait la Déesse, là où la Lune a sa joie. Vos humeurs et vos plaisirs avancent ensemble, portés par la conversation, les petites sorties et le changement de décor. J’y lis une lumière qui aime circuler, heureuse quand les journées sont pleines de petits trajets."
+    a: "Le maître de votre maison 5 se trouve alors dans la maison que la tradition nommait la Déesse, là où la Lune a sa joie. La conversation et les petites sorties relèvent votre moral, et vos plaisirs suivent. J’y lis une lumière qui aime circuler, heureuse quand les journées sont pleines de petits trajets."
 sources:
   - { title: "Vettius Valens, Anthologies, livre II, trad. Robert Schmidt (1994), via Wikipédia (en anglais), « Cadent house »", url: "https://en.wikipedia.org/wiki/Cadent_house", note: "la maison 3 comme lieu de la Déesse, où la Lune se réjouit" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia (en anglais), « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison en représente les affaires ; la maison 3 avec les frères et sœurs, les lettres et les petits voyages" }

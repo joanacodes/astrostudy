@@ -5,6 +5,8 @@ description: "Cancer on the 2nd house cusp: money as safety for the people you l
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Placements"]
+tags: ["Cancer", "2nd house", "house cusps"]
 weight: 2466
 glyph: "♋"
 definition: "Cancer on the 2nd house cusp means your 2nd house, the house of money, possessions and self-worth, starts in Cancer. Security tends to mean being able to look after the people you love, and things are kept for what they remember. The Moon rules the house: its sign and house show where you look for that safety."

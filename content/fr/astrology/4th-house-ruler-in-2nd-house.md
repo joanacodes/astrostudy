@@ -2,7 +2,7 @@
 title: "Maître de la maison 4 en maison 2"
 slug: "maitre-maison-4-en-maison-2"
 h1: "Maître de la maison 4 en maison 2 dans un thème natal"
-description: "Maître de la maison 4 en maison 2 : le foyer et l’argent liés, par un bien, des objets de famille et le besoin de sécurité. Lu sans prédire de fortune."
+description: "Maître de la maison 4 en maison 2 : un foyer bâti et payé par vous, des racines qu’on peut toucher : meubles, souvenirs, un toit. Aucune promesse de fortune."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/4th-house", "/astrology/2nd-house", "/astrology/house-rulers", "/astrology/horary-astrology", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire le maître de la maison 4 en maison 2 ?"
-    a: "Votre maison 4, celle du foyer et des racines, est gouvernée depuis la maison 2, celle de l’argent, des biens et de la valeur. La sécurité et l’appartenance arrivent souvent ensemble : un toit payé, des objets chargés d’histoire familiale, des économies qui permettent de souffler. J’y lis un besoin de sol ferme."
+    a: "Le maître du foyer passe en maison 2, celle de l’argent, des biens et de la valeur. La sécurité et l’appartenance arrivent souvent ensemble : un toit payé, des objets chargés d’histoire familiale, des économies qui permettent de souffler. J’y lis un besoin de sol ferme."
   - q: "Le maître de la maison 4 en maison 2 veut-il dire que je serai propriétaire ou que j’hériterai ?"
-    a: "Aucun thème ne peut le dire. La tradition donnait à la maison 4 les terres et les maisons, à la maison 2 l’argent : ce maître relie le foyer à vos ressources, et chez beaucoup de personnes un bien ou des objets de famille comptent beaucoup. Je ne lis pas si vous achèterez, posséderez ou recevrez quoi que ce soit."
+    a: "Un thème n’en sait rien. La tradition donnait à la maison 4 les terres et les maisons, à la maison 2 l’argent : ce maître relie le foyer à vos ressources, et chez beaucoup de personnes un bien ou des objets de famille comptent beaucoup. Je ne lis pas si vous achèterez, posséderez ou recevrez quoi que ce soit."
   - q: "Que dit le maître de la maison 4 en maison 2 sur les valeurs familiales ?"
     a: "La maison 2 est celle des valeurs autant que de l’argent : ce que votre famille estimait, l’économie ou la générosité, posséder ou partager, traverse souvent votre propre sens de la valeur. À l’âge adulte, vous choisissez lesquelles garder. La façon dont vous les portez dépend du signe du maître."
 sources:

@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["4th house", "9th house", "house rulers"]
 weight: 2333
 glyph: "✦"
-definition: "The ruler of the 4th in the 9th house means the planet ruling the sign on your IC, where home and roots begin, sits in your 9th, the house of long journeys, belief and higher study. Home may lie far away, or in an idea. I read it as roots that travel, never as a forecast of emigration."
+definition: "The ruler of the 4th in the 9th house means the planet ruling the sign on your IC, where home and roots begin, sits in your 9th, the house of long journeys, belief and higher study. Home may lie far away, or in an idea. I read it as roots that travel, not as a forecast that you’ll move abroad."
 facts:
   - { k: "Ruler of", v: "The 4th house: home, roots, family, the private self" }
   - { k: "Placed in", v: "The 9th house: long journeys, belief, higher study" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/9th-house", "/astrology/house-rulers", "/astrology/aversion", "/astrology/planetary-joys"]
 faq:
   - q: "What does the ruler of the 4th house in the 9th house mean?"
-    a: "The ruler of your home and roots sits in the house of long journeys, other cultures, study and belief. Home tends to be found far from where you began, or in a faith, a language or a philosophy. I read it as belonging that has to be travelled to."
+    a: "Your roots are ruled from far off: from the house of long journeys, other cultures, study and belief. Home tends to be found far from where you began, or in a faith, a language or a philosophy. I read it as belonging that has to be travelled to."
   - q: "Does the 4th house ruler in the 9th mean I will live abroad?"
     a: "Where you’ll live is beyond what any chart can say. Many people with this placement do feel drawn to other countries, have family from elsewhere or make a home abroad, but others find their far-off place in study or belief. It describes a pull, not a move."
   - q: "What does the ruler of the 4th in the 9th say about family beliefs?"

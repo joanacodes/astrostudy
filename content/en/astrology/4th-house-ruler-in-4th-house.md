@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 4th in the 4th house"
 h1: "Ruler of the 4th in the 4th house in a birth chart"
-description: "Ruler of the 4th in the 4th house: home, family and belonging answer to themselves. Roots that go deep, a full private life, and what that asks of you."
+description: "Ruler of the 4th in the 4th house: home, family and belonging answer to themselves. Roots that go deep, a full private life, and the upkeep they ask for."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -22,7 +22,7 @@ faq:
   - q: "Is the Moon ruling the 4th house from the 4th house strong?"
     a: "With Cancer on the IC, the Moon rules the 4th, and in the 4th it stands in the house of its own natural sign. I read that as needs and home bound tightly together: a nest matters, and so does the past it holds. Strength here means the Moon’s needs are felt plainly, not that home life will be easy."
   - q: "Can the 4th house have two rulers?"
-    a: "Yes, when Scorpio, Aquarius or Pisces is on the IC, which happens in about 1 birth in 4. Each of those signs has a traditional ruler and a modern one, and I read both. One may stand in the 4th while the other carries part of the family story into another house."
+    a: "Yes, when Scorpio, Aquarius or Pisces is on the IC, which happens in about 1 birth in 4. Each brings a traditional ruler and a modern one, and I read the pair. One may stand in the 4th while the other carries part of the family story into another house."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 4th for parents and immovable possessions" }
@@ -46,4 +46,4 @@ Scorpio on the IC hands the 4th to Mars and Pluto, Aquarius to Saturn and Uranus
 
 A 4th-house ruler at home says nothing about what anyone in your family is like. It says how large home looms in your own life, and the planet's sign and aspects say what that home asks of you.
 
-Near the IC, a slightly later birth would carry the ruler across into the 3rd, where home is kept up by talk and neighbours ([Ruler of the 4th in the 3rd house](/astrology/4th-house-ruler-in-3rd-house/)); near the far edge, a slightly earlier one would leave it in the 5th, where home is for play ([Ruler of the 4th in the 5th house](/astrology/4th-house-ruler-in-5th-house/)). That's why a time rounded to the hour won't do ([what changes without a birth time](/blog/unknown-birth-time/)).
+Near the IC, a slightly later birth would carry the ruler across into the 3rd, where home is kept up by talk and neighbours ([Ruler of the 4th in the 3rd house](/astrology/4th-house-ruler-in-3rd-house/)); near the far edge, a slightly earlier one would leave it in the 5th, where home is for play ([Ruler of the 4th in the 5th house](/astrology/4th-house-ruler-in-5th-house/)). Both edges move with the birth time, so I check the record before reading anything ([what changes without a birth time](/blog/unknown-birth-time/)).

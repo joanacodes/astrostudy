@@ -2,7 +2,7 @@
 title: "Maître de la maison 4 en maison 5"
 slug: "maitre-maison-4-en-maison-5"
 h1: "Maître de la maison 4 en maison 5 dans un thème natal"
-description: "Maître de la maison 4 en maison 5 : un foyer fait pour le plaisir, le jeu et la création. Ce qu’il dit de l’appartenance, sans rien prédire des enfants."
+description: "Maître de la maison 4 en maison 5 : un foyer où la musique joue, plein de projets, d’invités et de longues soirées. Sans rien prédire des enfants."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"

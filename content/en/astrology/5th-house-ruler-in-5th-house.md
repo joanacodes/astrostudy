@@ -21,7 +21,7 @@ faq:
     a: "The planet that rules your pleasures stays in the house it rules, so creativity, play and romance don’t have to serve another part of life to count. You tend to enjoy things for their own sake, and one project leads to the next. The planet and its sign show the style of that joy."
   - q: "Is the ruler of the 5th in the 5th house a strong placement?"
     a: "It’s a self-contained one. The house has its speaker on the spot, and if the planet is in its own sign or, for Venus, in its joy, it works with ease. Being self-contained isn’t the same as being lucky: your pleasures are simply easy to recognise, whatever they turn out to be."
-  - q: "Does the ruler of the 5th house in the 5th say I’ll have children?"
+  - q: "Does the 5th ruler staying in the 5th make children more likely?"
     a: "No. Tradition gave the 5th children, and with the house keeping its own ruler, the pull to read a family into it is strong. I don’t: whether or when a child comes is not something a chart can tell. What I read there is the creativity, pleasure and romance of your adult life."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 5th house, Good Fortune" }

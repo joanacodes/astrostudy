@@ -21,8 +21,8 @@ faq:
     a: "Your search for meaning tends to be shared. Friends, groups and hopes are where your 9th’s ruler lives: friends from other countries, circles that formed around ideas or causes, and hopes that reach beyond your own life."
   - q: "Does the 9th house ruler in the 11th house mean friends from abroad?"
     a: "Often, though your friends are still yours to choose. It describes friendships that widen your world, whether the people come from far away or simply think far from where you started. A study group, a congregation or a cause can be as much a part of it as distance."
-  - q: "Is Jupiter ruling the 9th house in the 11th house in its joy?"
-    a: "Yes. With Sagittarius or Pisces on your 9th cusp, Jupiter rules the house, and tradition gave Jupiter its joy in the 11th, the house it called the Good Spirit. I read the joy as ease: friendship and generosity come naturally to your search."
+  - q: "Is Jupiter in its joy when it rules my 9th from the 11th?"
+    a: "Yes. Sagittarius or Pisces on your 9th cusp gives the house to Jupiter, and the 11th, the Good Spirit of the old names, is where Jupiter was said to rejoice. Your beliefs and studies then tend to find generous company: friends who lend you books, share your causes and plan the trip with you."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, the 11th called the Good Spirit, Jupiter’s joy" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; friendships, groups and hopes in the 11th, foreign lands and religion in the 9th" }

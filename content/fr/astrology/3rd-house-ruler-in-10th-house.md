@@ -2,7 +2,7 @@
 title: "Maître de la maison 3 en maison 10"
 slug: "maitre-maison-3-en-maison-10"
 h1: "Maître de la maison 3 en maison 10 dans un thème natal"
-description: "Maître de la maison 3 en maison 10 : la parole en public, un travail bâti sur la communication. Ce qu’il dit de votre voix et de votre réputation."
+description: "Maître de la maison 3 en maison 10 : une voix que le public entend, une réputation gagnée par les mots, un travail qui vit de la parole et de l’écrit."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 3", "maison 10", "maîtres des maisons"]
 weight: 2322
 glyph: "✦"
-definition: "Le maître de la maison 3 en maison 10, c’est la planète qui gouverne votre maison 3, celle des mots, des savoir-faire et des proches, placée dans votre maison 10, celle de la carrière et de la vie publique. Votre esprit de tous les jours se montre. J’y lis une vie de travail bâtie sur la communication."
+definition: "Le maître de la maison 3 en maison 10, c’est la planète qui gouverne votre maison 3, celle des mots, des savoir-faire et des proches, placée dans votre maison 10, celle de la carrière et de la vie publique. On voit comment vous pensez. J’y lis une vie de travail bâtie sur la communication."
 facts:
   - { k: "Maître de", v: "La maison 3 : les mots du quotidien, l’apprentissage, la fratrie, les voisins" }
   - { k: "Placé en", v: "Maison 10 : la carrière, la position, la vie publique" }
@@ -38,7 +38,7 @@ La communication fait donc souvent partie du métier, ou en est le métier lui-m
 
 En Placidus, le système de maisons que j’utilise, la maison 10 commence au [Milieu du Ciel](/astrology/midheaven/), et une planète qui s’y trouve montait vers le haut du ciel à votre naissance, à l’est du méridien. Le maître d’une maison cadente, parmi les plus discrètes, est porté dans la maison où les choses se voient ([angularité](/astrology/angularity/)) : des savoir-faire ordinaires, le don d’expliquer, l’aisance au téléphone ou sur la page, deviennent des atouts publics.
 
-L’apprentissage suit le même chemin. Vous apprenez peut-être surtout sur le terrain et devant les autres, par les formations, les mentors et les cours qu’exige une carrière, et un métier peut naître de ce qui était d’abord un goût pour la lecture ou l’écriture. Mercure, avec les Gémeaux ou la Vierge sur la cuspide de la maison 3, rend la voie de la communication presque littérale ; Vénus, avec le Taureau ou la Balance, l’adoucit de charme et de diplomatie ; Saturne, avec le Capricorne ou le Verseau, se trouve dans la maison de son propre signe naturel et bâtit au fil des ans une voix qui fait autorité.
+L’apprentissage suit le même chemin. Vous apprenez peut-être surtout sur le terrain et devant les autres, par les formations, les mentors et les cours qu’exige une carrière, et un métier peut naître de ce qui était d’abord un goût pour la lecture ou l’écriture. Mercure, avec les Gémeaux ou la Vierge sur la cuspide de la maison 3, rend la voie de la communication presque littérale ; Vénus, avec le Taureau ou la Balance, l’adoucit de charme et de diplomatie ; Saturne, avec le Capricorne, ou avec le Verseau, dont Uranus est l’autre maître, se trouve dans la maison de son propre signe naturel et bâtit au fil des ans une voix qui fait autorité.
 
 Les personnes de la maison 3 peuvent vous suivre dans la vie publique : un frère ou une sœur dans le même domaine, une affaire familiale menée en fratrie, un nom fait d’abord dans le quartier avant de voyager. C’est la place de ces liens dans votre vie de travail telle que vous la vivez, jamais une prédiction pour la leur.
 

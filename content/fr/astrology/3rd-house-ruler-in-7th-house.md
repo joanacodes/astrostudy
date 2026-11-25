@@ -2,7 +2,7 @@
 title: "Maître de la maison 3 en maison 7"
 slug: "maitre-maison-3-en-maison-7"
 h1: "Maître de la maison 3 en maison 7 dans un thème natal"
-description: "Maître de la maison 3 en maison 7 : vous pensez mieux en dialogue. Partenaires, accords et négociations, quand vos mots du quotidien vont vers l’autre."
+description: "Maître de la maison 3 en maison 7 : des idées qui prennent forme face à quelqu’un, un partenaire ou l’autre partie d’un accord. Comment ce lien fonctionne."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire le maître de la maison 3 en maison 7 ?"
     a: "Le maître de votre maison 3, celle de la parole et de l’apprentissage, se trouve en maison 7, celle des partenaires et des liens en tête-à-tête. Vous pensez mieux à voix haute avec quelqu’un en face, et vos relations vivent de conversation. Les accords, les contrats et les négociations prennent souvent une grande place dans votre vie d’adulte."
   - q: "Vais-je rencontrer mon partenaire par ma fratrie ou mes voisins avec ce placement ?"
-    a: "Aucun thème ne peut dire qui vous rencontrerez, ni comment. Le placement relie les proches à la maison des partenaires, et chez certaines personnes un partenaire arrive bien par ce cercle, mais je le lis comme une qualité, pas comme une prédiction : un partenaire est souvent quelqu’un avec qui vous parlez d’égal à égal."
+    a: "Je ne peux pas vous le dire d’après un thème. Le placement relie les proches à la maison des partenaires, et chez certaines personnes un partenaire arrive bien par ce cercle, mais je le lis comme une qualité, pas comme une prédiction : un partenaire est souvent quelqu’un avec qui vous parlez d’égal à égal."
   - q: "Le maître de la maison 3 en maison 7 aide-t-il à communiquer dans le couple ?"
     a: "Il met la communication au centre, ce qui aide quand elle est honnête et coûte plus cher quand elle se brise. Il vous faut peut-être un partenaire qui répond, aime les idées et vous fait parler ; le silence peut ressembler à de la distance. Sa planète et son signe décrivent votre façon d’en parler."
 sources:

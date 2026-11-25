@@ -2,7 +2,7 @@
 title: "Maître de la maison 4 en maison 7"
 slug: "maitre-maison-4-en-maison-7"
 h1: "Maître de la maison 4 en maison 7 dans un thème natal"
-description: "Maître de la maison 4 en maison 7 : l’appartenance construite avec une autre personne, un partenaire qui devient de la famille. Lu sans prédire de mariage."
+description: "Maître de la maison 4 en maison 7 : l’appartenance construite avec une autre personne, un partenaire qui devient de la famille. Sans annonce de mariage."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"

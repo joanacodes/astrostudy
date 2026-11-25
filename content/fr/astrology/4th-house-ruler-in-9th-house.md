@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 4", "maison 9", "maîtres des maisons"]
 weight: 2333
 glyph: "✦"
-definition: "Le maître de la maison 4 en maison 9, c’est la planète qui gouverne le signe de votre Fond du Ciel, seuil du foyer, placée dans votre maison 9, celle des longs voyages, des convictions et des études. Le foyer est peut-être loin, ou dans une idée. J’y lis des racines qui voyagent, jamais un exil annoncé."
+definition: "Le maître de la maison 4 en maison 9, c’est la planète qui gouverne le signe de votre Fond du Ciel, seuil du foyer, placée dans votre maison 9, celle des longs voyages, des convictions et des études. Le foyer est peut-être loin, ou dans une idée. J’y lis des racines qui voyagent, pas l’annonce d’un départ à l’étranger."
 facts:
   - { k: "Maître de", v: "La maison 4 : le foyer, les racines, la famille, le moi intime" }
   - { k: "Placé en", v: "Maison 9 : les longs voyages, les convictions, les études supérieures" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/9th-house", "/astrology/house-rulers", "/astrology/aversion", "/astrology/planetary-joys"]
 faq:
   - q: "Que veut dire le maître de la maison 4 en maison 9 ?"
-    a: "Le maître de votre foyer et de vos racines se trouve dans la maison des longs voyages, des autres cultures, des études et des convictions. Le foyer se trouve souvent loin de votre point de départ, ou dans une foi, une langue, une philosophie. J’y lis une appartenance qu’il faut rejoindre en voyageant."
+    a: "Vos racines sont gouvernées de loin, depuis la maison des longs voyages, des autres cultures, des études et des convictions. Le foyer se trouve souvent loin de votre point de départ, ou dans une foi, une langue, une philosophie. J’y lis une appartenance qu’il faut rejoindre en voyageant."
   - q: "Le maître de la maison 4 en maison 9 veut-il dire que je vivrai à l’étranger ?"
     a: "Où vous vivrez dépasse ce qu’un thème peut dire. Beaucoup de personnes qui ont ce placement se sentent attirées par d’autres pays, ont une famille venue d’ailleurs ou s’installent à l’étranger, mais d’autres trouvent leur ailleurs dans l’étude ou la conviction. Il décrit un appel, pas un déménagement."
   - q: "Que dit le maître de la maison 4 en maison 9 sur les convictions familiales ?"

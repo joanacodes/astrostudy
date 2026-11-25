@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["5th house", "12th house", "house rulers"]
 weight: 2348
 glyph: "✦"
-definition: "The ruler of the 5th in the 12th house takes the planet of your creativity, pleasure and romance out of sight, into the house of solitude, rest and retreat. You tend to create best unobserved, and some of your loves stay private. I read it as joy that restores you, never as pleasure you should hide."
+definition: "The ruler of the 5th in the 12th house takes the planet of your creative and romantic pleasures out of sight, into the house of solitude, rest and retreat. You tend to create best unobserved, and some of your loves stay private. I read it as joy that restores you, never as pleasure you should hide."
 facts:
   - { k: "Ruler of", v: "The 5th house: creativity, pleasure, romance" }
   - { k: "Placed in", v: "The 12th house: solitude, rest, what goes on out of sight" }
@@ -40,6 +40,6 @@ Seen from the 12th, the 5th is out of view: tradition called the gap aversion ([
 
 Neptune's pleasures are music, the sea, film and dreams, and in the 12th they're at their purest. Neptune rules your 5th only if Pisces is on its cusp ([Pisces on the 5th house cusp](/astrology/pisces-on-5th-house-cusp/)), and then it shares the job with Jupiter ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)); I read the two, and Jupiter, standing elsewhere, carries a more sociable kind of fun into another part of your life.
 
-Near the Ascendant, the 12th and the 1st differ as a planet that has just risen differs from one about to rise. A few minutes earlier, a ruler close to that line would still have been below it, in the 1st, where pleasure shows in your manner ([Ruler of the 5th in the 1st house](/astrology/5th-house-ruler-in-1st-house/)). At the 12th's upper edge, a few minutes later would have lifted it into the 11th, where fun is shared with friends ([Ruler of the 5th in the 11th house](/astrology/5th-house-ruler-in-11th-house/)). That's why I need the minute, not the hour ([what changes without a birth time](/blog/unknown-birth-time/)).
+Near the Ascendant, the 12th and the 1st differ as a planet that has just risen differs from one about to rise. A few minutes earlier, a ruler close to that line would still have been below it, in the 1st, where pleasure shows in your manner ([Ruler of the 5th in the 1st house](/astrology/5th-house-ruler-in-1st-house/)). At the 12th's upper edge, a few minutes later would have lifted it into the 11th, where play turns social ([Ruler of the 5th in the 11th house](/astrology/5th-house-ruler-in-11th-house/)). That's why I need the minute, not the hour ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Tradition gave the 12th confinement, hospitals and hidden enemies, and the 5th children. None of that becomes a forecast here. A placement isn't a symptom, and if solitude stops feeling restful, a doctor or a therapist is the right door ([astrology and mental health](/astrology/astrology-and-mental-health/)). No placement, here or anywhere, can tell you if you'll be a parent ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I don't open [children's charts](/astrology/childrens-charts/).

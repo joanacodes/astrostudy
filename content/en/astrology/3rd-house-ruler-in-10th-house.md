@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 3rd in the 10th house"
 h1: "Ruler of the 3rd in the 10th house in a birth chart"
-description: "Ruler of the 3rd in the 10th house: words in public and work built on communication. What it says about your voice, your reputation and the way you learn."
+description: "Ruler of the 3rd in the 10th house: a voice the public hears, a reputation earned with words, and work that runs on talk and writing."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["3rd house", "10th house", "house rulers"]
 weight: 2322
 glyph: "✦"
-definition: "The ruler of the 3rd in the 10th house means the planet ruling your 3rd house, the house of words, skills and the people near you, sits in your 10th, the house of career and public life. Your everyday mind goes on show. I read it as a working life built around communication, and a name made by your words."
+definition: "The ruler of the 3rd in the 10th house means the planet ruling your 3rd house, the house of words, skills and the people near you, sits in your 10th, the house of career and public life. People see how you think. I read it as a working life built around communication, and a name made by your words."
 facts:
   - { k: "Ruler of", v: "The 3rd house: everyday words, learning, siblings, neighbours" }
   - { k: "Placed in", v: "The 10th house: career, standing, public life" }
@@ -37,7 +37,7 @@ So communication tends to be part of the job, or the job itself. Writing, teachi
 
 In Placidus, the house system I use, the 10th begins at the [Midheaven](/astrology/midheaven/), and a planet in it was climbing towards the top of the sky when you were born, east of the meridian. The ruler of a cadent house, one of the quietest, is lifted into the house where things are seen ([angularity](/astrology/angularity/)): ordinary skills, the knack of explaining, an ease with the phone or the page, become public assets.
 
-Learning follows the same route. You may learn most on the job and in front of others, through training, mentors and the courses a career asks for, and a profession can grow out of what began as a love of reading or writing. Mercury, ruling a Gemini or Virgo 3rd from the 10th, makes the communicator's path almost literal; Venus, ruling Taurus or Libra, smooths it with charm and diplomacy; Saturn, ruling Capricorn or Aquarius on the cusp, sits in the house of its own natural sign and builds an expert's voice over years.
+Learning follows the same route. You may learn most on the job and in front of others, through training, mentors and the courses a career asks for, and a profession can grow out of what began as a love of reading or writing. Mercury, ruling a Gemini or Virgo 3rd from the 10th, makes the communicator's path almost literal; Venus, ruling Taurus or Libra, smooths it with charm and diplomacy; Saturn, ruling Capricorn on the cusp, or Aquarius, where Uranus is the other ruler, sits in the house of its own natural sign and builds an expert's voice over years.
 
 The people of the 3rd can follow you into public life: a sibling in the same field, a family business run with brothers or sisters, a name made locally among neighbours before it travelled. That's how those ties figure in your working life as you live it, never a forecast for theirs.
 

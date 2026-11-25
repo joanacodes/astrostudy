@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["5th house", "11th house", "house rulers"]
 weight: 2347
 glyph: "✦"
-definition: "The ruler of the 5th in the 11th house places the planet of your creativity, pleasure and romance across the chart, among friends, groups and shared hopes. Fun is best shared with many, creativity likes a collective, and love often grows from friendship. None of it measures popularity; it shows joy that wants company."
+definition: "The ruler of the 5th in the 11th house places the planet of your fun and romance across the chart, among friends, groups and shared hopes. Fun is best shared with many, creativity likes a collective, and love often grows from friendship. None of it measures popularity; it shows joy that wants company."
 facts:
   - { k: "Ruler of", v: "The 5th house: creativity, pleasure, romance" }
   - { k: "Placed in", v: "The 11th house: friends, groups, hopes" }
