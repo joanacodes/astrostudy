@@ -23,7 +23,7 @@ faq:
   - q: "What does an Aquarius Descendant mean?"
     a: "That the 7th house, partners and close one-to-one bonds, opens in Aquarius, with Leo rising opposite. You tend to look for an equal with a mind and a life of their own, and a bond that feels like an alliance between free people. Both of your 7th’s rulers, Uranus and Saturn, count in my reading."
   - q: "Is Leo always rising when Aquarius is on the 7th house cusp?"
-    a: "Yes. The Descendant is exactly opposite the Ascendant, so an Aquarius Descendant always means Leo rising. The Sun rules your chart while Uranus and Saturn rule your partnerships: the warmth and visibility are yours, and the people you choose tend to bring independence and a longer view."
+    a: "Yes. The Descendant is exactly opposite the Ascendant, so an Aquarius Descendant always means Leo rising. Your chart belongs to the Sun, your partnerships to Uranus and Saturn: the warmth and visibility are yours, and the people you choose tend to bring independence and a longer view."
   - q: "Does an Aquarius 7th house mean an unconventional marriage?"
     a: "Not necessarily, and no chart says whether or whom you’ll marry. This cusp describes what you need in a partnership: friendship, equality and room for two separate lives. Some couples with it arrange things unusually and many don’t; what matters is that both people chose the arrangement."
 sources:

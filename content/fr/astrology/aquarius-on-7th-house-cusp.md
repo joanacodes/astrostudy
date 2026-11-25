@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire un descendant en Verseau ?"
     a: "Que la maison 7, celle des partenaires et des liens en tête-à-tête, s’ouvre en Verseau, avec l’ascendant Lion en face. Vous cherchez volontiers un égal qui a sa tête et sa vie, et un lien qui ressemble à une alliance entre deux personnes libres. Les deux maîtres de votre maison 7, Uranus et Saturne, comptent dans ma lecture."
   - q: "L’ascendant est-il toujours Lion avec le Verseau sur la cuspide de la maison 7 ?"
-    a: "Oui. Le descendant est exactement opposé à l’ascendant : un descendant en Verseau veut toujours dire un ascendant Lion. Le Soleil gouverne votre thème, Uranus et Saturne vos relations : la chaleur et la visibilité viennent de vous, et les personnes que vous choisissez apportent l’indépendance et le long terme."
+    a: "Oui. Le descendant est exactement opposé à l’ascendant : un descendant en Verseau veut toujours dire un ascendant Lion. Votre thème appartient au Soleil, vos relations à Uranus et à Saturne : la chaleur et la visibilité viennent de vous, et les personnes que vous choisissez apportent l’indépendance et le long terme."
   - q: "Une maison 7 en Verseau annonce-t-elle un couple hors norme ?"
     a: "Pas forcément, et aucun thème ne dit si ni avec qui vous vous marierez. Cette cuspide décrit ce qu’il vous faut dans un lien : de l’amitié, de l’égalité et de la place pour deux vies distinctes. Certains couples qui l’ont s’organisent autrement, beaucoup non ; l’important est que l’arrangement soit choisi à deux."
 sources:

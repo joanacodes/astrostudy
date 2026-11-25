@@ -26,7 +26,7 @@ faq:
   - q: "Le Verseau en maison 8 dit-il quelque chose de l’héritage ou de la mort ?"
     a: "Non. La tradition donnait la mort et l’héritage à la maison 8, mais aucun thème ne peut prédire l’un ou l’autre, et je n’en lis jamais un pour cela. Cette cuspide décrit votre façon de vivre la confiance, l’intimité et l’argent en commun : avec équité, franchise et de la place pour chacun."
   - q: "Pourquoi le Verseau est-il souvent sur deux cuspides quand il ouvre la maison 8 ?"
-    a: "Parce que la maison 8 ne mesure qu’entre 18° et 23° environ à Londres dans ces thèmes : un signe de 30° atteint facilement la cuspide suivante ou la précédente. Le Verseau ouvre aussi la maison 7 dans près de la moitié des thèmes londoniens, la maison 9 dans environ un tiers, et ses deux maîtres gouvernent alors les deux maisons."
+    a: "Parce qu’un signe de 30° tient mal dans une maison 8 de 18° à 23°, sa largeur à Londres dans ces thèmes, et déborde sur la cuspide voisine. Le Verseau ouvre aussi la maison 7 dans près de la moitié des thèmes londoniens, la maison 9 dans environ un tiers, et ses deux maîtres gouvernent alors les deux maisons."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les cuspides de Placidus pour une journée de naissances à Londres et à New York, la largeur de la maison 8 et les signes du descendant qui vont avec" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Saturne, maître du Verseau et du Capricorne" }

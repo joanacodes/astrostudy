@@ -26,13 +26,13 @@ faq:
   - q: "Le Verseau en maison 12, est-ce la solitude ?"
     a: "Pas comme je le lis. La cuspide décrit un besoin de temps à soi pour penser clairement, et l’habitude de faire le bien sans bruit, pas l’isolement. Beaucoup de personnes qui l’ont ont un large cercle d’amis et ont simplement besoin de s’en éloigner de temps en temps pour se retrouver."
   - q: "Pourquoi les Poissons n’ont-ils souvent pas de cuspide avec le Verseau en maison 12 ?"
-    a: "Parce qu’aux latitudes du Nord, la maison 12 prend dans ces thèmes entre 38° et 57° environ à Londres : elle peut contenir les Poissons tout entiers. C’est le cas dans plus de la moitié des thèmes londoniens, avec l’ascendant Bélier ; Neptune et Jupiter partagent alors votre maison 12 avec Uranus et Saturne."
+    a: "Parce qu’à Londres, ces thèmes donnent à la maison 12 entre 38° et 57° environ : elle peut contenir les Poissons tout entiers. C’est le cas dans plus de la moitié des thèmes londoniens, avec l’ascendant Bélier ; votre maison 12 répond alors à quatre planètes : Uranus et Saturne pour la cuspide, Neptune et Jupiter pour le signe à l’intérieur."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les cuspides de Placidus pour une journée entière de naissances à Londres et à New York, la largeur de la maison 12 et les interceptions qu’elle contient" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Saturne, maître du Verseau et du Capricorne" }
   - { title: "Vettius Valens, Anthologies", note: "la maison 12, le Génie défavorable" }
 ---
-Le Verseau sur la cuspide de la maison 12 place le signe de l’indépendance dans la maison de ce qui se passe hors de la vue. Votre repos, vos convictions intimes et le travail qu’on ne vous voit pas faire fonctionnent sur le mode de l’air fixe, et la solitude ressemble plutôt à de la place pour penser qu’à une mise à l’écart.
+Avec le Verseau sur la cuspide de la maison 12, la part de la vie qui se passe hors de la vue revient au signe de l’indépendance. Votre repos, vos convictions intimes et le travail qu’on ne vous voit pas faire fonctionnent sur le mode de l’air fixe, et la solitude ressemble plutôt à de la place pour penser qu’à une mise à l’écart.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

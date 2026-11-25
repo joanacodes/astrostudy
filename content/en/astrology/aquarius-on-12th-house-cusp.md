@@ -25,13 +25,13 @@ faq:
   - q: "Is Aquarius on the 12th house cusp lonely?"
     a: "Not as I read it. The cusp describes a need for time alone to think clearly, and a habit of doing good quietly, not isolation. Many people with it have wide circles of friends and simply need to step away from them now and then to come back to themselves."
   - q: "Why does Pisces often have no cusp when Aquarius is on the 12th?"
-    a: "Because the 12th is very wide in these charts at northern latitudes, between about 38° and 57° at London, so it can hold all of Pisces. That happens in more than half the London charts, with Aries rising; Neptune and Jupiter then share your 12th with Uranus and Saturn."
+    a: "Because the 12th is very wide in these charts at northern latitudes, between about 38° and 57° at London, so it can hold all of Pisces. That happens in more than half the London charts, with Aries rising; your 12th then answers to four planets: Uranus and Saturn for the cusp, Neptune and Jupiter for the sign inside."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "Placidus cusps for a whole day of births at London and New York, the width of the 12th and the interceptions inside it" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Saturn as the ruler of Aquarius and Capricorn" }
   - { title: "Vettius Valens, Anthology", note: "the 12th house, the Bad Spirit" }
 ---
-Aquarius on the 12th house cusp puts the sign of independence in the house of what happens out of sight. Your rest, your private convictions and the work nobody sees you do all run on fixed air, and solitude tends to feel like room to think rather than like being left out.
+With Aquarius on the 12th house cusp, the part of life that goes on out of sight belongs to the sign of independence. Your rest, your private convictions and the work nobody sees you do all run on fixed air, and solitude tends to feel like room to think rather than like being left out.
 
 ## What it means {#what-it-means}
 

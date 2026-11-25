@@ -18,8 +18,8 @@ facts:
   - { k: "Needs", v: "Both birth times, and a choice of house method" }
 related: ["/astrology/composite-chart", "/astrology/mercury-in-4th-house", "/astrology/4th-house", "/astrology/imum-coeli", "/blog/unknown-birth-time"]
 faq:
-  - q: "What does composite Mercury in the 4th house mean for a home?"
-    a: "That the relationship’s shared mind is most itself in private. With composite Mercury in the house of home and roots, astrologers read a bond whose real conversations happen at the kitchen table: plans for the household, family stories, things said only behind a closed door. It describes the pair, not either person."
+  - q: "Is composite Mercury in the 4th house about home life?"
+    a: "Largely: the relationship’s shared mind is most itself in private. With composite Mercury in the house of home and roots, astrologers read a bond whose real conversations happen at the kitchen table: plans for the household, family stories, things said only behind a closed door. It describes the pair, not either person."
   - q: "Does composite Mercury in the 4th house mean we will live together?"
     a: "No. A composite can’t predict a move, a shared address or a family, and it doesn’t need one to apply: friends, colleagues and adult relatives can have this placement too. It describes where the relationship thinks best, in private and familiar places, whatever kind of home the two of you have."
   - q: "How does the composite Imum Coeli affect Mercury in the 4th house?"

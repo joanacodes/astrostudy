@@ -38,7 +38,7 @@ With the bond's thinking here, the hard subjects are the ones it handles best. I
 
 The 8th was the house of death in the old books, and of inheritance. I never read it as either, in any chart: no chart can predict a death ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and none can predict a debt or a legacy. Between adults, it describes what you hold in common, and how far you trust each other with it.
 
-Composite Mercury usually stays within about 28° of the composite Sun, so the two often share a house or neighbour each other. About 1 pair in 26 has the composite Sun near the opposite point instead, around the 2nd: what's mine and what's ours facing each other across the chart, by an accident of midpoints.
+Composite Mercury usually stays within about 28° of the composite Sun, so the two often share a house or neighbour each other. Across the chart, around the 2nd, is where the composite Sun lands for about 1 pair in 26: what's mine and what's ours facing each other across the chart, by an accident of midpoints.
 
 In quadrant house systems the 8th's cusp always lies exactly opposite the 2nd's, so the two move together. Where they fall depends on your two birth times and on the method: midpoints of your natal cusps, or houses built from the composite Midheaven for the place where you live. A Mercury near the line can be in the 7th by one method and the 8th by the other, so it's worth asking which a chart uses before reading anything into the house ([what changes without a birth time](/blog/unknown-birth-time/)).
 

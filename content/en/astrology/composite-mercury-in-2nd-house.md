@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/mercury-in-2nd-house", "/astrology/2nd-house", "/astrology/can-astrology-pick-investments", "/blog/unknown-birth-time"]
 faq:
   - q: "What is composite Mercury in the 2nd house about?"
-    a: "Resources and values. The relationship’s shared mind works in the 2nd house, and astrologers read it as a bond that talks practically about what it owns, what things are worth and what the two of you can do together. It describes the pair’s priorities in conversation, not either person’s."
+    a: "Resources and values. The relationship’s shared mind works in the 2nd house, and astrologers read it as a bond that talks practically about what it owns, what things are worth and what the two of you can do together. Those priorities are the pair’s, not those of either person."
   - q: "Does composite Mercury in the 2nd house mean we’ll make money together?"
     a: "No. The 2nd house describes resources and values, not wealth, and no chart, composite or natal, can say what a pair will earn. This placement describes how the relationship thinks and talks about what it holds, which can be a skill, a home, a shared library or a set of principles."
   - q: "Why is our composite Sun in the 8th house when Mercury is in the 2nd?"
