@@ -24,7 +24,7 @@ faq:
   - q: "What does transiting Pluto square natal Sun mean?"
     a: "Pluto and your birth Sun are 90° apart. I read it as a long stretch in which the direction you have set meets resistance it can’t simply push through: at work, at home or in yourself. The direction comes out changed or stronger, often both. It describes pressure that can be worked with, never a sentence."
   - q: "Does everyone get Pluto square the Sun?"
-    a: "Nearly everyone born before 1970: fewer than 1 in 25 miss it. Later births have a shorter stretch of Pluto’s road, so a quarter of those born in the 1990s and a third of those born in the 2000s never meet it. Nobody meets both squares: they are 180° apart, and Pluto never covers that much in 80 years."
+    a: "Nearly everyone born before 1970: fewer than 1 in 20 miss it. Later births have a shorter stretch of Pluto’s road, so a quarter of those born in the 1990s and a third of those born in the 2000s never meet it. Nobody meets both squares: they are 180° apart, and Pluto never covers that much in 80 years."
   - q: "How long does Pluto square the Sun last?"
     a: "In my orbs a pass usually lasts about two years and eight months. The pressure peaks more than once: most passes bring three exact hits, about two in five bring five, and those run past three and a half years."
   - q: "Is Pluto square the Sun a crisis?"
@@ -49,7 +49,7 @@ The square joins your Sun's house to one about three houses away. A Sun in the 1
 
 A pass takes about two years and eight months from the day Pluto comes within 1½° of the exact square to the day it is 1° past, and about twenty-two months at the quickest. Every pass has three exact hits or, in about two out of five, five, and those longer passes take some three years and seven months.
 
-Most people meet a square because its two points sit half a circle apart, and almost any long stretch of Pluto's road crosses one of them. Fewer than 1 in 25 people born from the 1930s to the 1960s miss both. For later births the road is shorter and the share who never meet a square grows: 1 in 10 for the 1970s, 1 in 4 for the 1990s, 1 in 3 for the 2000s. Born in 1990, birthdays from New Year to early February, and from late June to early August, missed it, about one birthday in five.
+Most people meet a square because its two points sit half a circle apart, and almost any long stretch of Pluto's road crosses one of them. Fewer than 1 in 20 people born from the 1930s to the 1960s miss both. For later births the road is shorter and the share who never meet a square grows: 1 in 10 for the 1970s, 1 in 4 for the 1990s, 1 in 3 for the 2000s. Born in 1990, birthdays from New Year to early February, and from late June to early August, missed it, about one birthday in five.
 
 Squares come on both sides of the conjunction ([transiting Pluto conjunct natal Sun](/astrology/transiting-pluto-conjunct-natal-sun/)), 90° before and 90° after it, with the sextiles ([transiting Pluto sextile natal Sun](/astrology/transiting-pluto-sextile-natal-sun/)) between them and the conjunction and the trines ([transiting Pluto trine natal Sun](/astrology/transiting-pluto-trine-natal-sun/)) beyond; the opposition ([transiting Pluto opposite natal Sun](/astrology/transiting-pluto-opposite-natal-sun/)) lies another 90° past the later square.
 
