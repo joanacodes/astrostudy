@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Capricorne", "maison 9", "cuspides des maisons"]
 weight: 2539
 glyph: "♑"
-definition: "Le Capricorne sur la cuspide de la maison 9 ancre la maison des croyances, des longs voyages et des études supérieures dans le signe qui bâtit avec patience. Vos convictions sont éprouvées avant d’être tenues, l’étude a un but et le voyage une raison. Saturne montre par sa maison où votre quête de sens se met au travail."
+definition: "Le Capricorne sur la cuspide de la maison 9 ancre vos croyances, vos voyages lointains et vos études supérieures dans le signe qui bâtit avec patience. Vos convictions sont éprouvées avant d’être tenues, l’étude a un but et le voyage une raison. Saturne montre par sa maison où votre quête de sens se met au travail."
 facts:
   - { k: "Signe", v: "Capricorne ♑, terre cardinale" }
   - { k: "Cuspide", v: "Maison 9 : les croyances, les longs voyages, les études supérieures" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/capricorn", "/astrology/9th-house", "/astrology/saturn", "/astrology/gemini-rising", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Comment fonctionnent les croyances avec le Capricorne sur la cuspide de la maison 9 ?"
-    a: "Elles se construisent, s’éprouvent et se gardent. Avec la maison des croyances, des longs voyages et des études supérieures en Capricorne, vous faites confiance à ce qui a marché en pratique, étudiez vers un but et respectez les maîtres qui ont gagné leur place. Saturne gouverne la maison : son signe et sa maison décrivent la forme que prennent vos convictions."
+    a: "Elles se construisent, s’éprouvent et se gardent. Avec le Capricorne pour les façonner, vous faites confiance à ce qui a marché en pratique, étudiez vers un but et respectez les maîtres qui ont gagné leur place. Saturne gouverne la maison : son signe et sa maison décrivent la forme que prennent vos convictions."
   - q: "Le Capricorne en maison 9 rend-il sceptique ?"
     a: "Plus souvent une foi prudente que du scepticisme. Le Capricorne en maison 9 veut qu’une croyance résiste à l’usage : vous mettez en doute les grandes promesses, puis vous vous engagez profondément envers ce qui survit aux questions. Jupiter, maître naturel de la maison 9, a sa chute en Capricorne, et j’y lis une foi qui doit gagner sa place."
   - q: "Que fait le Capricorne sur la cuspide de la maison 9 au Milieu du Ciel ?"

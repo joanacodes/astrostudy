@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Capricorn", "9th house", "house cusps"]
 weight: 2539
 glyph: "♑"
-definition: "Capricorn on the 9th house cusp grounds the house of beliefs, long journeys and higher study in the sign of patient building. Your convictions tend to be tested before they’re held, study has a goal, and travel a purpose. Saturn, the sign’s ruler, shows by its house where your search for meaning is put to work."
+definition: "Capricorn on the 9th house cusp grounds your beliefs, far travels and higher learning in the sign of patient building. Your convictions tend to be tested before they’re held, study has a goal, and travel a purpose. Saturn, the sign’s ruler, shows by its house where your search for meaning is put to work."
 facts:
   - { k: "Sign", v: "Capricorn ♑, cardinal earth" }
   - { k: "Cusp", v: "The 9th house: belief, long journeys, higher study" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/capricorn", "/astrology/9th-house", "/astrology/saturn", "/astrology/gemini-rising", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "How do beliefs work with Capricorn on the 9th house cusp?"
-    a: "They are built, tested and kept. With the house of beliefs, long journeys and higher study in Capricorn, you tend to trust what has worked in practice, study towards a goal and respect teachers who earned their place. Saturn rules the house; its sign and house describe the shape your convictions take."
+    a: "They are built, tested and kept. With Capricorn shaping them, you tend to trust what has worked in practice, study towards a goal and respect teachers who earned their place. Saturn rules the house; its sign and house describe the shape your convictions take."
   - q: "Does Capricorn on the 9th house cusp make you a sceptic?"
     a: "More often a careful believer than a sceptic. Capricorn on the 9th wants a belief to stand up to use, so you may question grand claims and then commit deeply to what survives the questions. Jupiter, the 9th’s natural ruler, has its fall in Capricorn, and I read that as faith that has to earn its place."
   - q: "What does Capricorn on the 9th house cusp do to the Midheaven?"

@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Sagittarius", "12th house", "house cusps"]
 weight: 2531
 glyph: "♐"
-definition: "Sagittarius on the 12th house cusp means the house of solitude, rest and what happens out of sight begins in Sagittarius. Hope works quietly in you; you recover with space and air, and give without being seen. Jupiter, ruler of the sign and traditional ruler of Pisces, shows by its house where that inner life finds room."
+definition: "Sagittarius on the 12th house cusp brings the archer into the house just above your Ascendant, the one of solitude, rest and what happens out of sight. Hope works quietly in you; you recover with space and air, and give without being seen. Jupiter, also Pisces’s traditional ruler, shows by its house where that inner life finds room."
 facts:
   - { k: "Sign", v: "Sagittarius ♐, mutable fire" }
   - { k: "Cusp", v: "The 12th house: solitude, rest, what happens out of sight" }

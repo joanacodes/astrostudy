@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Sagittarius", "10th house", "house cusps"]
 weight: 2529
 glyph: "♐"
-definition: "Sagittarius on the 10th house cusp means your Midheaven, where the house of career, reputation and public direction begins, is in Sagittarius. You tend to want work that stands for something, and to be known for your convictions and your breadth of view. The house holding Jupiter is where your public life tends to centre."
+definition: "Sagittarius on the 10th house cusp means a Sagittarius Midheaven, the sign of meaning and long views at the top of your chart. You tend to want a career that stands for something, and to be known for your convictions. The house holding Jupiter is where your public life tends to centre."
 facts:
   - { k: "Sign", v: "Sagittarius ♐, mutable fire" }
   - { k: "Cusp", v: "The 10th house, opened by the Midheaven" }
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/sagittarius", "/astrology/10th-house", "/astrology/midheaven", "/astrology/jupiter", "/astrology/gemini-on-4th-house-cusp"]
 faq:
   - q: "What does it mean to have the Midheaven in Sagittarius?"
-    a: "That Sagittarius is on your Midheaven, the cusp of the 10th house of public life and direction. You tend to want work that stands for something, to be known for your convictions, frankness or breadth of view, and to change course when a belief does. Your public life tends to gather in the house Jupiter occupies."
+    a: "Your career and public direction start from a Sagittarius point: the Midheaven, top of the chart and cusp of the 10th. You tend to want work that stands for something, to be known for your convictions, frankness or breadth of view, and to change course when a belief does. Your public life tends to gather in the house Jupiter occupies."
   - q: "What careers suit Sagittarius on the 10th house cusp?"
     a: "No Midheaven picks a profession. This one describes a public role built on meaning, explaining, persuading, opening doors between places or ideas, and it can take shape in almost any trade. The house and sign of Jupiter, the Midheaven’s ruler, say more about where your working life centres than the sign alone."
   - q: "Which rising signs go with a Sagittarius Midheaven?"
-    a: "Aquarius or Pisces at London and New York, now and then Capricorn at London. With Pisces rising, Jupiter, alongside Neptune, rules both your Ascendant and your Midheaven; with Aquarius rising, Saturn and Uranus rule your chart while Jupiter takes charge of your public life."
+    a: "Aquarius or Pisces at London and New York, now and then Capricorn at London. With Pisces rising, Jupiter rules your Midheaven and, with Neptune, your Ascendant; with Aquarius rising, Saturn and Uranus rule your chart while Jupiter takes charge of your public life."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "here, the Placidus cusps of a day of births at London and New York, with the rising signs and interceptions" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Jupiter as the ruler of Sagittarius and Pisces, and its fall in Capricorn" }

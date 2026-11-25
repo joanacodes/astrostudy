@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Capricorn", "12th house", "house cusps"]
 weight: 2542
 glyph: "♑"
-definition: "Capricorn on the 12th house cusp puts the sign of duty in charge of what happens out of sight: retreat, recovery, unseen work. You tend to carry responsibilities quietly, work hardest where nobody is watching and treat rest as something to earn. Saturn rules the house and, in most of these charts, your Ascendant too."
+definition: "Capricorn on the 12th house cusp means duty follows you out of sight, into retreat, recovery and the work nobody watches. You tend to carry responsibilities quietly, do your best work unobserved and treat rest as something to earn. Saturn rules the house and, in most of these charts, your Ascendant too."
 facts:
   - { k: "Sign", v: "Capricorn ♑, cardinal earth" }
   - { k: "Cusp", v: "The 12th house: retreat, recovery, unseen work" }

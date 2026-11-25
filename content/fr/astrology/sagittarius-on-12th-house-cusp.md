@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Sagittaire", "maison 12", "cuspides des maisons"]
 weight: 2531
 glyph: "♐"
-definition: "Le Sagittaire sur la cuspide de la maison 12 signifie que la maison de la solitude, du repos et de ce qui reste caché commence en Sagittaire. L’espoir agit en vous sans bruit ; l’espace vous répare, et vous donnez sans vous montrer. Jupiter, maître du signe, montre où cette vie intérieure trouve sa place."
+definition: "Le Sagittaire sur la cuspide de la maison 12 fait entrer l’archer dans la maison juste au-dessus de votre ascendant, celle de la solitude, du repos et de ce qui reste caché. L’espoir agit en vous sans bruit ; l’espace vous répare, et vous donnez sans vous montrer. Jupiter, maître du signe, montre où cette vie intérieure trouve sa place."
 facts:
   - { k: "Signe", v: "Sagittaire ♐, feu mutable" }
   - { k: "Cuspide", v: "Maison 12 : la solitude, le repos, ce qui se passe à l’abri des regards" }

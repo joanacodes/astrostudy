@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/capricorn", "/astrology/2nd-house", "/astrology/saturn", "/astrology/sagittarius-rising", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "What does Capricorn on the 2nd house cusp say about money?"
-    a: "That you treat it as a structure. With Capricorn opening the house of money, possessions and self-worth, you tend to earn through competence, keep with care and feel worth what you can do. Saturn’s position in your chart shows where the earning and the saving happen."
+    a: "That you treat it as a structure. With Capricorn in charge of your finances, you tend to earn through competence, keep with care and feel worth what you can do. Saturn’s position in your chart shows where the earning and the saving happen."
   - q: "Will Capricorn on the 2nd house cusp make me wealthy?"
     a: "A chart can’t tell you that, and I never read one for sums. This cusp describes a manner: caution, patience and a preference for what lasts. It can make you a careful saver and a reliable earner, and it can make spending on pleasure feel harder than it needs to."
   - q: "Why is Sagittarius usually rising when Capricorn is on the 2nd house cusp?"

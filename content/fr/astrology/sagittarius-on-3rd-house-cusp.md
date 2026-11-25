@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/sagittarius", "/astrology/3rd-house", "/astrology/jupiter", "/astrology/libra-rising", "/astrology/mercury"]
 faq:
   - q: "Qu’est-ce que cela veut dire d’avoir le Sagittaire sur la cuspide de la maison 3 ?"
-    a: "La pensée de tous les jours, la parole, la fratrie et les petits trajets prennent la manière du Sagittaire. Vous pensez en grandes lignes, parlez franchement et apprenez au mieux en bougeant. Jupiter devient le maître de votre maison 3, et c’est vers la maison de Jupiter que mènent vos conversations et vos études du quotidien."
+    a: "La pensée de tous les jours, la parole, la fratrie et les petits trajets prennent la manière du Sagittaire. Vous pensez en grandes lignes, parlez franchement et apprenez au mieux en bougeant. Jupiter devient maître de votre maison 3, et c’est vers la maison de Jupiter que mènent vos conversations et vos études du quotidien."
   - q: "Comment communique une maison 3 en Sagittaire ?"
     a: "Largement et franchement. Vous allez droit au sens, racontez une histoire là où d’autres feraient une liste, et discutez pour le plaisir de découvrir. Les faits et les dates reçoivent parfois moins de soin que les idées : les vérifier devient une habitude que vous prenez exprès, pas une qui vient toute seule."
   - q: "L’ascendant est-il toujours Balance avec le Sagittaire sur la cuspide de la maison 3 ?"

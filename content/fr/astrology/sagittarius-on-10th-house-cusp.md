@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Sagittaire", "maison 10", "cuspides des maisons"]
 weight: 2529
 glyph: "♐"
-definition: "Le Sagittaire sur la cuspide de la maison 10 met en Sagittaire votre Milieu du Ciel, là où commence la maison de la carrière et de la réputation. Vous voulez un travail qui défende quelque chose, et l’on vous connaît pour vos convictions et la largeur de votre regard. Jupiter montre où se concentre votre vie publique."
+definition: "Le Sagittaire sur la cuspide de la maison 10 vous donne un Milieu du Ciel en Sagittaire : au sommet du thème, le signe des longues vues. Vous voulez une carrière qui défende quelque chose, et l’on vous connaît pour vos convictions. Jupiter montre où se concentre votre vie publique."
 facts:
   - { k: "Signe", v: "Sagittaire ♐, feu mutable" }
   - { k: "Cuspide", v: "Maison 10, ouverte par le Milieu du Ciel" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/sagittarius", "/astrology/10th-house", "/astrology/midheaven", "/astrology/jupiter", "/astrology/gemini-on-4th-house-cusp"]
 faq:
   - q: "Que dit un Milieu du Ciel en Sagittaire de votre vie publique ?"
-    a: "Que le Sagittaire occupe votre Milieu du Ciel, la cuspide de la maison 10 de la vie publique. Vous voulez un travail qui défende quelque chose, on vous connaît pour vos convictions ou votre franchise, et vous changez de cap quand une conviction change. Jupiter gouverne la maison : sa place montre où se concentre votre vie publique."
+    a: "Votre carrière et votre direction publique partent d’un point en Sagittaire : le Milieu du Ciel, sommet du thème et cuspide de la maison 10. Vous voulez un travail qui défende quelque chose, on vous connaît pour vos convictions ou votre franchise, et vous changez de cap quand une conviction change. Votre vie publique se rassemble dans la maison qu’occupe Jupiter."
   - q: "Quel métier pour le Sagittaire sur la cuspide de la maison 10 ?"
     a: "Aucun Milieu du Ciel ne choisit une profession. Celui-ci décrit un rôle public fondé sur le sens, expliquer, convaincre, ouvrir des portes entre des lieux ou des idées, qui peut prendre forme dans presque tous les métiers. La maison et le signe de Jupiter, maître du Milieu du Ciel, en disent plus que le signe seul."
   - q: "Quels ascendants vont avec un Milieu du Ciel en Sagittaire ?"
-    a: "Le Verseau ou les Poissons à Londres et à New York, parfois le Capricorne à Londres. Avec l’ascendant Poissons, Jupiter, aux côtés de Neptune, gouverne votre ascendant comme votre Milieu du Ciel ; avec l’ascendant Verseau, Saturne et Uranus gouvernent votre thème, et Jupiter prend en charge votre vie publique."
+    a: "Le Verseau ou les Poissons à Londres et à New York, parfois le Capricorne à Londres. Avec l’ascendant Poissons, Jupiter gouverne votre Milieu du Ciel et, avec Neptune, votre ascendant ; avec l’ascendant Verseau, Saturne et Uranus gouvernent votre thème, et Jupiter prend en charge votre vie publique."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "ici, les cuspides de Placidus d’une journée de naissances à Londres et à New York, avec les ascendants et les interceptions" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Jupiter, maître du Sagittaire et des Poissons, et sa chute en Capricorne" }

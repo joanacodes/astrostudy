@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/capricorn", "/astrology/4th-house", "/astrology/imum-coeli", "/astrology/saturn", "/astrology/cancer-on-10th-house-cusp"]
 faq:
   - q: "What does a Capricorn IC say about home?"
-    a: "That home is something you hold up. Capricorn on the IC, where the 4th house of home, family and roots begins, tends to make belonging a matter of responsibility, shared or carried. Saturn, from its house, shows where your sense of home gets built."
+    a: "That home is something you hold up. Capricorn on the IC, at the door of the 4th house, tends to make belonging a matter of responsibility, shared or carried. Saturn, from its house, shows where your sense of home gets built."
   - q: "Is a Capricorn IC a sign of a strict family?"
     a: "Not necessarily. The 4th describes how home felt to you from the inside, not what your family was like or who your parents are. With Capricorn here, home often came with duties or a sense of having to be grown-up, and as an adult you may build the steady base you needed."
   - q: "What are the other angles when the IC is in Capricorn?"

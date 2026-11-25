@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/capricorn", "/astrology/5th-house", "/astrology/saturn", "/astrology/virgo-rising", "/astrology/childrens-charts"]
 faq:
   - q: "Que veut dire le Capricorne sur la cuspide de la maison 5 pour le jeu et l’amour ?"
-    a: "Que les deux prennent du temps. Avec la maison du plaisir, du jeu, de la création et des amours en Capricorne, l’amusement a un long horizon, un savoir-faire pratiqué des années, un jardin prévu saison par saison, et l’amour commence lentement et sérieusement. La maison de Saturne est celle où vous faites, ou devez faire, place à la joie."
+    a: "Que les deux prennent du temps. Avec la maison du plaisir, du jeu, de la création et des amours en Capricorne, l’amusement a un long horizon, un savoir-faire pratiqué des années, un jardin prévu saison par saison, et l’amour commence lentement et sérieusement. Là où se trouve Saturne, vous faites, ou devez faire, place à la joie."
   - q: "Le Capricorne en maison 5 est-il lent en amour ?"
     a: "Lentement au départ, sérieusement ensuite. Vous faites la cour avec une intention, montrez votre affection par la fiabilité, et faites davantage confiance à une histoire quand elle a duré. Le travail consiste à vous laisser en profiter avant qu’elle ait fait ses preuves, et à jouer autant qu’à tenir parole."
   - q: "Le Capricorne en maison 5 parle-t-il des enfants ?"

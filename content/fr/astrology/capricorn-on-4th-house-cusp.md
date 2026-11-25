@@ -2,7 +2,7 @@
 title: "Capricorne sur la cuspide de la maison 4"
 slug: "capricorne-cuspide-maison-4"
 h1: "Capricorne sur la cuspide de la maison 4 dans un thème natal"
-description: "Capricorne sur la cuspide de la maison 4, Fond du Ciel en Capricorne : un foyer que vous tenez debout, Saturne maître de vos racines, quatre angles cardinaux."
+description: "Capricorne sur la cuspide de la maison 4 : un foyer tenu par le devoir et les rituels, Saturne à la racine du thème, et quatre angles cardinaux."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/capricorn", "/astrology/4th-house", "/astrology/imum-coeli", "/astrology/saturn", "/astrology/cancer-on-10th-house-cusp"]
 faq:
   - q: "Que dit un Fond du Ciel en Capricorne sur le foyer ?"
-    a: "Que le foyer est une chose que vous tenez debout. Le Capricorne au Fond du Ciel, là où commence la maison 4 du foyer, de la famille et des racines, fait souvent de l’appartenance une affaire de responsabilité, partagée ou portée seule. Saturne, depuis sa maison, montre où se bâtit votre sentiment d’être chez vous."
+    a: "Que le foyer est une chose que vous tenez debout. Le Capricorne au Fond du Ciel, à l’entrée de la maison 4, fait souvent de l’appartenance une affaire de responsabilité, partagée ou portée seule. Saturne, depuis sa maison, montre où se bâtit votre sentiment d’être chez vous."
   - q: "Un Fond du Ciel en Capricorne est-il le signe d’une famille sévère ?"
     a: "Pas forcément. La maison 4 décrit le foyer tel que vous l’avez vécu de l’intérieur, pas ce qu’était votre famille ni qui sont vos parents. Avec le Capricorne, la maison venait souvent avec des devoirs ou le sentiment de devoir être une grande personne, et à l’âge adulte vous bâtissez parfois la base stable qui vous manquait."
   - q: "Quels sont les autres angles quand le Fond du Ciel est en Capricorne ?"
@@ -41,4 +41,4 @@ Le Fond du Ciel revient à [Saturne](/astrology/saturn/) : sa maison montre où
 
 Tout thème qui a un Fond du Ciel en Capricorne à Londres ou à New York a l'[ascendant Balance](/astrology/libra-rising/) et le Cancer au Milieu du Ciel ([Cancer sur la cuspide de la maison 10](/astrology/cancer-on-10th-house-cusp/)) : le Bélier se couche donc au descendant. Les quatre angles tombent en signes cardinaux, ceux qui lancent les choses : Vénus gouverne votre façon d’aborder les gens, Mars les personnes que vous avez en face, la Lune votre vie publique et Saturne votre vie privée. On rencontre d’abord votre charme de Balance, et l’on découvre plus tard toute la structure qui se tient derrière. Environ 1 naissance sur 11 a ce Fond du Ciel, et Londres et New York donnent le même chiffre, puisque le bas du thème suit l’heure plutôt que la latitude : le Capricorne commence au solstice de décembre, et le méridien passe environ deux heures et huit minutes à le traverser. La maison 4 mesure environ 35° à Londres, ce qui laisse au Capricorne une seule cuspide, et à peu près un thème londonien sur six loge le Verseau entier dans cette maison ([signes interceptés](/astrology/intercepted-signs/)).
 
-Une naissance plus précoce aurait mis le Capricorne sur la cuspide de la maison 5 ([Capricorne sur la cuspide de la maison 5](/astrology/capricorn-on-5th-house-cusp/)), une naissance plus tardive sur celle de la maison 3 ([Capricorne sur la cuspide de la maison 3](/astrology/capricorn-on-3rd-house-cusp/)). Le Fond du Ciel change de signe toutes les deux heures environ : il me faut donc l’heure exacte avant que vos racines entrent dans une lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le Fond du Ciel change de signe toutes les deux heures environ : un peu avant votre naissance, il était encore en Sagittaire, avec le Capricorne sur la cuspide de la maison 5 ([Capricorne sur la cuspide de la maison 5](/astrology/capricorn-on-5th-house-cusp/)), et un peu après, il passait en Verseau, le Capricorne montant sur celle de la maison 3 ([Capricorne sur la cuspide de la maison 3](/astrology/capricorn-on-3rd-house-cusp/)). Il me faut donc l’heure exacte avant que vos racines entrent dans une lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).

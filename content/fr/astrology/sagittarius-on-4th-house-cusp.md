@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/sagittarius", "/astrology/4th-house", "/astrology/imum-coeli", "/astrology/jupiter", "/astrology/gemini-on-10th-house-cusp"]
 faq:
   - q: "Que signifie le Sagittaire au Fond du Ciel ?"
-    a: "Que le Sagittaire occupe votre Fond du Ciel, où commence la maison 4 du foyer, de la famille et des racines. Le foyer est souvent une base d’où vous partez et où vous revenez, et l’appartenance peut venir d’une façon de voir partagée autant que d’une rue. Jupiter gouverne la maison : sa place montre où se fait le foyer."
+    a: "Que le Sagittaire occupe votre Fond du Ciel, où commence la maison 4 du foyer, de la famille et des racines. Le foyer est souvent une base d’où vous partez et où vous revenez, et l’appartenance peut venir d’une façon de voir partagée autant que d’une rue. Regardez la maison de Jupiter pour voir où le foyer se fait."
   - q: "Le Sagittaire en maison 4 veut-il dire déménager souvent ?"
     a: "Pas forcément. Certaines personnes qui ont cette cuspide déménagent souvent ou gardent un pied dans deux pays ; d’autres restent au même endroit et en laissent la porte ouverte aux visiteurs, aux idées et aux longues conversations. Elle décrit un besoin d’espace et un foyer tourné vers le dehors, pas un nombre de déménagements."
   - q: "Quels signes occupent les autres angles avec un Fond du Ciel en Sagittaire ?"

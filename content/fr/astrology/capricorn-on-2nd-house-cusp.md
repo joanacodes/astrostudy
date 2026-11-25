@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/capricorn", "/astrology/2nd-house", "/astrology/saturn", "/astrology/sagittarius-rising", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que dit le Capricorne en maison 2 sur l’argent ?"
-    a: "Que vous le traitez comme une structure. Avec le Capricorne à l’entrée de la maison de l’argent, des biens et de l’estime de soi, vous gagnez par la compétence, gardez avec soin et vous sentez valoir ce que vous savez faire. La position de Saturne dans votre thème montre où se font les gains et l’épargne."
+    a: "Que vous le traitez comme une structure. Avec le Capricorne aux commandes de vos finances, vous gagnez par la compétence, gardez avec soin et vous sentez valoir ce que vous savez faire. La position de Saturne dans votre thème montre où se font les gains et l’épargne."
   - q: "Le Capricorne sur la cuspide de la maison 2 rend-il riche ?"
     a: "Un thème ne peut pas le dire, et je n’en lis jamais un pour des sommes. Cette cuspide décrit une manière : prudence, patience et goût de ce qui dure. Elle peut faire de vous une personne qui épargne avec soin et gagne avec régularité, et rendre la dépense pour le plaisir plus difficile qu’il ne faudrait."
   - q: "Pourquoi l’ascendant est-il souvent Sagittaire avec le Capricorne sur la cuspide de la maison 2 ?"
@@ -31,7 +31,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "Saturne, maître du Capricorne et du Verseau ; la chute de Jupiter en Capricorne" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne parmi les trois placements qui ont tenu 75 à 90 % du temps" }
 ---
-Avec le Capricorne sur la cuspide de la maison 2, la maison de ce que vous avez s’ouvre dans le signe qui bâtit pour durer. L’argent devient une chose que l’on construit, et l’estime de soi grandit avec ce que vous avez appris à faire.
+Le Capricorne sur la cuspide de la maison 2 fait de l’argent une affaire de construction. L’argent devient une chose que l’on construit, et l’estime de soi grandit avec ce que vous avez appris à faire.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

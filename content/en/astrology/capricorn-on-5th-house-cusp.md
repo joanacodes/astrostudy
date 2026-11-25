@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/capricorn", "/astrology/5th-house", "/astrology/saturn", "/astrology/virgo-rising", "/astrology/childrens-charts"]
 faq:
   - q: "What does Capricorn on the 5th house cusp mean for fun and love?"
-    a: "That both take time. With the house of pleasure, play, creativity and romance in Capricorn, fun tends to have a long horizon, a skill practised for years, a garden planned by the season, and love starts slowly and seriously. Saturn’s house is where you make, or have to make, room for joy."
+    a: "That both take time. With the house of pleasure, play, creativity and romance in Capricorn, fun tends to have a long horizon, a skill practised for years, a garden planned by the season, and love starts slowly and seriously. Wherever Saturn stands is where you make, or have to make, room for joy."
   - q: "Is Capricorn on the 5th house cusp slow in romance?"
     a: "Slow to start and serious once begun. You tend to court with intent, show affection through reliability, and trust a romance more once it has lasted a while. The work is in letting yourself enjoy it before it’s proven, and in being playful as well as dependable."
   - q: "Is Capricorn in the 5th house about children?"
