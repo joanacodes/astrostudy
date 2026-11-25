@@ -43,11 +43,11 @@ In Placidus, the house system I use, one sextile usually comes while the node is
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, the true node usually needs about a month. In an eclipse season, while the Sun is near the nodes, it barely moves, and the sextile lasts three months or more; about one pass in 25 brings three exact hits, and the season's eclipses fall two or four signs from your Ascendant. My forecast lists the node only when an end of the axis sits on a point of your chart, so this sextile isn't in it; I mention it when someone asks about those weeks.
+A sextile to the rising degree usually lasts about a month, counted from 1½° before exact to 1° after. In an eclipse season, while the Sun is near the nodes, it barely moves, and the sextile lasts three months or more; about one pass in 25 brings three exact hits, and the season's eclipses fall two or four signs from your Ascendant. My forecast lists the node only when an end of the axis sits on a point of your chart, so this sextile isn't in it; I mention it when someone asks about those weeks.
 
 An uncertain time spoils the dates quickly. Half an hour of doubt about your birth leaves the Ascendant uncertain by about seven and a half degrees on average, and the node takes some four and a half months to cover that much ground.
 
-It comes twice a round, eight or nine times by 80. The sextile before the crossing leads to [Transiting North Node conjunct natal Ascendant](/astrology/transiting-north-node-conjunct-natal-ascendant/); the one after leads on to [Transiting North Node square natal Ascendant](/astrology/transiting-north-node-square-natal-ascendant/), [Transiting North Node trine natal Ascendant](/astrology/transiting-north-node-trine-natal-ascendant/) and, nine years from the crossing, [Transiting North Node opposite natal Ascendant](/astrology/transiting-north-node-opposite-natal-ascendant/).
+Two sextiles a round make eight or nine by 80. The sextile before the crossing leads to [Transiting North Node conjunct natal Ascendant](/astrology/transiting-north-node-conjunct-natal-ascendant/); the one after leads on to [Transiting North Node square natal Ascendant](/astrology/transiting-north-node-square-natal-ascendant/), [Transiting North Node trine natal Ascendant](/astrology/transiting-north-node-trine-natal-ascendant/) and, nine years from the crossing, [Transiting North Node opposite natal Ascendant](/astrology/transiting-north-node-opposite-natal-ascendant/).
 
 ## What helps {#what-helps}
 

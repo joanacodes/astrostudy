@@ -48,7 +48,7 @@ De 1,5° avant l’exactitude à 1° après, le nœud vrai met en général un m
 
 Ces dates ne valent que ce que vaut l’heure dont elles viennent. Une heure de naissance arrondie au quart d’heure peut être fausse de sept minutes et demie : cela déplace l’ascendant de deux degrés environ en moyenne, et ce transit de cinq semaines environ.
 
-Il vient une fois par tour, quatre ou cinq fois avant 80 ans. Trois ans environ plus tard, le nœud forme un sextile à votre ascendant ([Nœud Nord en transit sextile Ascendant du thème natal](/astrology/transiting-north-node-sextile-natal-ascendant/)), puis un carré ([Nœud Nord en transit carré Ascendant du thème natal](/astrology/transiting-north-node-square-natal-ascendant/)) et un trigone ([Nœud Nord en transit trigone Ascendant du thème natal](/astrology/transiting-north-node-trine-natal-ascendant/)) ; neuf ans après environ, il atteint votre descendant ([Nœud Nord en transit opposition Ascendant du thème natal](/astrology/transiting-north-node-opposite-natal-ascendant/)).
+Votre degré ascendant est franchi une fois par tour, quatre ou cinq fois en quatre-vingts ans. Trois ans environ plus tard, le nœud forme un sextile à votre ascendant ([Nœud Nord en transit sextile Ascendant du thème natal](/astrology/transiting-north-node-sextile-natal-ascendant/)), puis un carré ([Nœud Nord en transit carré Ascendant du thème natal](/astrology/transiting-north-node-square-natal-ascendant/)) et un trigone ([Nœud Nord en transit trigone Ascendant du thème natal](/astrology/transiting-north-node-trine-natal-ascendant/)) ; neuf ans après environ, il atteint votre descendant ([Nœud Nord en transit opposition Ascendant du thème natal](/astrology/transiting-north-node-opposite-natal-ascendant/)).
 
 ## Ce qui aide {#ce-qui-aide}
 

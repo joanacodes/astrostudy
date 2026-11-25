@@ -43,9 +43,9 @@ For a generation, the dates are shared. From July 2026 to March 2028 the South N
 
 ## How long it lasts {#how-long-it-lasts}
 
-My orbs open 1½° before exact and close 1° after, and the true node usually takes about a month to pass between them. When an eclipse season falls on the transit, the node hovers near your Uranus while the Sun is close, and the pass lasts three months or more; about one pass in 25 crosses the degree three times. Eclipses that land within about 3° count as contacts of their own ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
+The South Node usually needs about a month to travel from 1½° before your Uranus to 1° past it. When an eclipse season falls on the transit, the node hovers near your Uranus while the Sun is close, and the pass lasts three months or more; about one pass in 25 crosses the degree three times. Eclipses that land within about 3° count as contacts of their own ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
 
-Once a round makes four or five by 80. The first came at 11.1 for someone born on 1 January 1975 and at 17.6 for 1 January 1985. With [Uranus opposite North Node](/astrology/uranus-opposite-north-node/) in your chart, Uranus sits on your natal South Node, and the transit comes back at each nodal return.
+Once a round makes four or five by 80. The first came late for a birth on 1 January 1985, at 17.6, and earlier for 1 January 1975, at 11.1. With [Uranus opposite North Node](/astrology/uranus-opposite-north-node/) in your chart, Uranus sits on your natal South Node, and the transit comes back at each nodal return.
 
 On either side, about three years away, lie [Transiting North Node trine natal Uranus](/astrology/transiting-north-node-trine-natal-uranus/), then [Transiting North Node square natal Uranus](/astrology/transiting-north-node-square-natal-uranus/) and [Transiting North Node sextile natal Uranus](/astrology/transiting-north-node-sextile-natal-uranus/), and nine years away [Transiting North Node conjunct natal Uranus](/astrology/transiting-north-node-conjunct-natal-uranus/).
 

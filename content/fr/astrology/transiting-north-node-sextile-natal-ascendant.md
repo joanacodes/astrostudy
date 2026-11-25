@@ -44,11 +44,11 @@ En Placidus, le système de maisons que j’utilise, l’un des sextiles vient e
 
 ## Combien de temps {#combien-de-temps}
 
-De 1,5° avant l’exactitude à 1° après, le nœud vrai a besoin d’un mois environ. Dans une saison d’éclipses, tant que le Soleil est près des nœuds, il bouge à peine, et le sextile dure trois mois ou plus ; environ un passage sur 25 donne trois contacts exacts, et les éclipses de la saison tombent à deux ou à quatre signes de votre ascendant. Ma prévision ne retient le nœud que lorsqu’un bout de l’axe se pose sur un point de votre thème : ce sextile n’y figure donc pas, et je le mentionne quand on m’interroge sur ces semaines-là.
+Un sextile au degré ascendant dure en général un mois environ, compté de 1,5° avant l’exactitude à 1° après. Dans une saison d’éclipses, tant que le Soleil est près des nœuds, il bouge à peine, et le sextile dure trois mois ou plus ; environ un passage sur 25 donne trois contacts exacts, et les éclipses de la saison tombent à deux ou à quatre signes de votre ascendant. Ma prévision ne retient le nœud que lorsqu’un bout de l’axe se pose sur un point de votre thème : ce sextile n’y figure donc pas, et je le mentionne quand on m’interroge sur ces semaines-là.
 
 Une heure incertaine gâte vite les dates. Une demi-heure de doute sur votre naissance laisse l’ascendant incertain de sept degrés et demi environ en moyenne, et le nœud met quelque quatre mois et demi à parcourir autant de terrain.
 
-Il vient deux fois par tour, huit ou neuf fois avant 80 ans. Le sextile d’avant le passage mène au [Nœud Nord en transit conjonction Ascendant du thème natal](/astrology/transiting-north-node-conjunct-natal-ascendant/) ; celui d’après mène au [Nœud Nord en transit carré Ascendant du thème natal](/astrology/transiting-north-node-square-natal-ascendant/), au [Nœud Nord en transit trigone Ascendant du thème natal](/astrology/transiting-north-node-trine-natal-ascendant/) puis, neuf ans après le passage, au [Nœud Nord en transit opposition Ascendant du thème natal](/astrology/transiting-north-node-opposite-natal-ascendant/).
+Deux sextiles par tour, cela fait huit ou neuf avant 80 ans. Le sextile d’avant le passage mène au [Nœud Nord en transit conjonction Ascendant du thème natal](/astrology/transiting-north-node-conjunct-natal-ascendant/) ; celui d’après mène au [Nœud Nord en transit carré Ascendant du thème natal](/astrology/transiting-north-node-square-natal-ascendant/), au [Nœud Nord en transit trigone Ascendant du thème natal](/astrology/transiting-north-node-trine-natal-ascendant/) puis, neuf ans après le passage, au [Nœud Nord en transit opposition Ascendant du thème natal](/astrology/transiting-north-node-opposite-natal-ascendant/).
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -47,7 +47,7 @@ From 1½° before exact to 1° after, the true node usually takes about a month 
 
 Those dates are only as good as the time they come from. A birth time rounded to the nearest quarter of an hour can be up to seven and a half minutes out, which moves the Ascendant by about two degrees on average and this transit by about five weeks.
 
-It comes once a round, four or five times by 80. About three years later the node sextiles your Ascendant ([Transiting North Node sextile natal Ascendant](/astrology/transiting-north-node-sextile-natal-ascendant/)), then squares it ([Transiting North Node square natal Ascendant](/astrology/transiting-north-node-square-natal-ascendant/)) and trines it ([Transiting North Node trine natal Ascendant](/astrology/transiting-north-node-trine-natal-ascendant/)); about nine years on it reaches your Descendant ([Transiting North Node opposite natal Ascendant](/astrology/transiting-north-node-opposite-natal-ascendant/)).
+Your rising degree is crossed once a round, four or five times in eighty years. About three years later the node sextiles your Ascendant ([Transiting North Node sextile natal Ascendant](/astrology/transiting-north-node-sextile-natal-ascendant/)), then squares it ([Transiting North Node square natal Ascendant](/astrology/transiting-north-node-square-natal-ascendant/)) and trines it ([Transiting North Node trine natal Ascendant](/astrology/transiting-north-node-trine-natal-ascendant/)); about nine years on it reaches your Descendant ([Transiting North Node opposite natal Ascendant](/astrology/transiting-north-node-opposite-natal-ascendant/)).
 
 ## What helps {#what-helps}
 

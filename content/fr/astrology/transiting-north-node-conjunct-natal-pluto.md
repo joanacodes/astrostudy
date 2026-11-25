@@ -44,9 +44,9 @@ La génération fixe le calendrier. Les personnes nées avec [Pluton en Scorpion
 
 ## Combien de temps {#combien-de-temps}
 
-De 1,5° avant l’exactitude à 1° après, le nœud vrai met en général un mois environ à franchir votre Pluton. Si le passage tombe dans une saison d’éclipses, le nœud cale pendant que le Soleil passe, et il dure trois mois ou plus ; environ un passage sur 25 donne trois contacts exacts. L’année qui entoure ce transit, et celle qui entoure l’opposition neuf ans plus tard, sont les moments où une éclipse peut tomber sur votre Pluton.
+Un mois environ, c’est le séjour habituel : le nœud vrai entre dans mon orbe 1,5° avant votre Pluton et en sort 1° après. Si le passage tombe dans une saison d’éclipses, le nœud cale pendant que le Soleil passe, et il dure trois mois ou plus ; environ un passage sur 25 donne trois contacts exacts. L’année qui entoure ce transit, et celle qui entoure l’opposition neuf ans plus tard, sont les moments où une éclipse peut tomber sur votre Pluton.
 
-La première fois est venue à 4,7 ans pour une naissance le 1er janvier 1990 et à 17,7 ans pour le 1er janvier 1995 ; ensuite tous les 18,6 ans, quatre ou cinq fois avant 80 ans. Avec [Pluton conjonction Nœud Nord](/astrology/pluto-conjunct-north-node/) dans votre thème, chaque retour nodal repose le nœud sur votre Pluton.
+Deux personnes nées avec Pluton en Scorpion, le 1er janvier 1990 et le 1er janvier 1995, ont connu la première conjonction à 4,7 ans et à 17,7 ans ; le nœud revient ensuite sur votre Pluton tous les 18,6 ans, soit quatre ou cinq rencontres avant 80 ans. Avec [Pluton conjonction Nœud Nord](/astrology/pluto-conjunct-north-node/) dans votre thème, chaque retour nodal repose le nœud sur votre Pluton.
 
 Trois ans environ plus tard, le nœud forme un sextile à votre Pluton ([Nœud Nord en transit sextile Pluton du thème natal](/astrology/transiting-north-node-sextile-natal-pluto/)), puis un carré ([Nœud Nord en transit carré Pluton du thème natal](/astrology/transiting-north-node-square-natal-pluto/)) et un trigone ([Nœud Nord en transit trigone Pluton du thème natal](/astrology/transiting-north-node-trine-natal-pluto/)), jusqu’à l’arrivée du Nœud Sud ([Nœud Nord en transit opposition Pluton du thème natal](/astrology/transiting-north-node-opposite-natal-pluto/)).
 

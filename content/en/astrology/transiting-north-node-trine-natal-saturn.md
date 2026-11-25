@@ -35,7 +35,7 @@ Three years or so before the South Node reaches your Saturn, and again three yea
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) is a chart's capacity for structure: routines, reliability, patience, the long run. The [North Node](/astrology/north-node/) is the less practised capacity your chart grows towards. A [trine](/astrology/trine/) relates two functions through flow, each supporting the other while staying itself, so under this [transit](/astrology/transits/) your discipline works for your growth without being summoned.
+[Saturn](/astrology/saturn/) is a chart's capacity for structure: routines, reliability, patience, the long run. The [North Node](/astrology/north-node/) is the direction your chart is learning, slowly, by doing. A [trine](/astrology/trine/) relates two functions through flow, each supporting the other while staying itself, so under this [transit](/astrology/transits/) your discipline works for your growth without being summoned.
 
 It tends to show as things that hold. A new habit that sticks in the first week. A commitment that turns out lighter than you feared. Advice from someone older that lands at the right moment. At the other end of the axis the [South Node](/astrology/south-node/) sextiles your Saturn, so the reliable ways you already have keep offering a hand. The catch belongs to every trine: ease isn't inevitability, and a month that asks nothing can pass without anything being built.
 
@@ -47,7 +47,7 @@ A trine from the node usually lasts about a month in my orbs, from 1½° before 
 
 The forecast I build readings from leaves the node's trines out; it counts the node only where an end of the axis falls on a point. So this transit is a quiet one in my readings, worth noticing when it accompanies a slower transit to your Saturn, not worth waiting for on its own.
 
-Two trines come in each round, about six years after the North Node crosses your Saturn ([Transiting North Node conjunct natal Saturn](/astrology/transiting-north-node-conjunct-natal-saturn/)) and about six years before it comes back, with [Transiting North Node opposite natal Saturn](/astrology/transiting-north-node-opposite-natal-saturn/) between them. Between each trine and the conjunction come [Transiting North Node square natal Saturn](/astrology/transiting-north-node-square-natal-saturn/) and [Transiting North Node sextile natal Saturn](/astrology/transiting-north-node-sextile-natal-saturn/). The first came at 8.7 for someone born on 1 January 1955 and at 1.1 for 1 January 1975; by 80, eight or nine. [Saturn trine North Node](/astrology/saturn-trine-north-node/) is this angle as a birth placement.
+Two trines come in each round, about six years after the North Node crosses your Saturn ([Transiting North Node conjunct natal Saturn](/astrology/transiting-north-node-conjunct-natal-saturn/)) and about six years before it comes back, with [Transiting North Node opposite natal Saturn](/astrology/transiting-north-node-opposite-natal-saturn/) between them. Between each trine and the conjunction come [Transiting North Node square natal Saturn](/astrology/transiting-north-node-square-natal-saturn/) and [Transiting North Node sextile natal Saturn](/astrology/transiting-north-node-sextile-natal-saturn/). A 1 January 1955 birth met the first trine at 8.7, a 1 January 1975 birth at 1.1; by 80, eight or nine. [Saturn trine North Node](/astrology/saturn-trine-north-node/) is this angle as a birth placement.
 
 ## What helps {#what-helps}
 

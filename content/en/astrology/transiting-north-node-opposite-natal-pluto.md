@@ -43,9 +43,9 @@ A large generation meets it in these months. From July 2026 to March 2028 the So
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, the South Node usually takes about a month over your Pluto. Caught by an eclipse season, the node lingers near the degree while the Sun is close, and the pass lasts three months or more; about one pass in 25 brings three exact hits. In the year or so around it, an eclipse at the South Node end may fall on your Pluto and count as a contact of its own ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
+From the day the South Node comes within 1½° of your Pluto to the day it is 1° past, about a month usually goes by. Caught by an eclipse season, the node lingers near the degree while the Sun is close, and the pass lasts three months or more; about one pass in 25 brings three exact hits. In the year or so around it, an eclipse at the South Node end may fall on your Pluto and count as a contact of its own ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
 
-It comes once a round, four or five times by 80. The first came at 8.3 for someone born on 1 January 1945 and at 15.9 for 1 January 1955. With [Pluto opposite North Node](/astrology/pluto-opposite-north-node/) in your chart, your Pluto sits on your natal South Node, and the nodal return brings this transit back each time.
+The South Node reaches your Pluto once a round, so four or five times by 80. Born on 1 January 1945, you would have met the first at 8.3; born on 1 January 1955, at 15.9. With [Pluto opposite North Node](/astrology/pluto-opposite-north-node/) in your chart, your Pluto sits on your natal South Node, and the nodal return brings this transit back each time.
 
 Three years or so either side come [Transiting North Node trine natal Pluto](/astrology/transiting-north-node-trine-natal-pluto/); beyond them, [Transiting North Node square natal Pluto](/astrology/transiting-north-node-square-natal-pluto/) and [Transiting North Node sextile natal Pluto](/astrology/transiting-north-node-sextile-natal-pluto/); and nine years away, [Transiting North Node conjunct natal Pluto](/astrology/transiting-north-node-conjunct-natal-pluto/).
 

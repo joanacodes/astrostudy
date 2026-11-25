@@ -35,7 +35,7 @@ Uranus takes about seven years to cross a sign, so the degree it held when you w
 
 ## What changes {#what-changes}
 
-[Uranus](/astrology/uranus/) is where a chart differentiates: autonomy, reform, the refusal to repeat what was handed down. The [North Node](/astrology/north-node/) is the less practised capacity your chart grows towards. A [conjunction](/astrology/conjunction/) fuses them, so under this [transit](/astrology/transits/) growing and doing things your own way become a single movement: you learn by trying the alternative.
+[Uranus](/astrology/uranus/) is where a chart differentiates: autonomy, reform, the refusal to repeat what was handed down. The [North Node](/astrology/north-node/) marks where your chart is learning something new. A [conjunction](/astrology/conjunction/) fuses them, so under this [transit](/astrology/transits/) growing and doing things your own way become a single movement: you learn by trying the alternative.
 
 It often shows as one experiment you have been putting off. A new way of working, a group you want to join or leave, a rule of your own you decide to keep. Uranus's blind spots come along too: mistaking novelty for progress, changing a system before finding out what still works in it. Across the chart the [South Node](/astrology/south-node/) sits opposite your Uranus, on the familiar habits that keep things steady; they are worth keeping, as the ground the experiment stands on.
 

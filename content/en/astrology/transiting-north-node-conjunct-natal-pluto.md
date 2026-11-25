@@ -43,9 +43,9 @@ The generation sets the calendar. Those born with [Pluto in Scorpio](/astrology/
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, the true node usually takes a month or so to cross your Pluto. If the crossing falls in an eclipse season, the node stalls while the Sun goes by and the pass runs three months or more; about one pass in 25 makes three exact hits. The year or so around this transit, and around the opposition nine years later, is when an eclipse can fall on your Pluto.
+A month or so is the usual stay: the true node enters my orb 1½° before your Pluto and leaves it 1° past. If the crossing falls in an eclipse season, the node stalls while the Sun goes by and the pass runs three months or more; about one pass in 25 makes three exact hits. The year or so around this transit, and around the opposition nine years later, is when an eclipse can fall on your Pluto.
 
-The first came at 4.7 for someone born on 1 January 1990 and at 17.7 for 1 January 1995; then every 18.6 years, four or five times by 80. With [Pluto conjunct North Node](/astrology/pluto-conjunct-north-node/) in your chart, each nodal return lays the node on your Pluto again.
+Two people born with Pluto in Scorpio, on 1 January 1990 and 1 January 1995, met the first conjunction at 4.7 and at 17.7; the node then returns to your Pluto every 18.6 years, which makes four or five meetings by 80. With [Pluto conjunct North Node](/astrology/pluto-conjunct-north-node/) in your chart, each nodal return lays the node on your Pluto again.
 
 About three years later the node sextiles your Pluto ([Transiting North Node sextile natal Pluto](/astrology/transiting-north-node-sextile-natal-pluto/)), then squares it ([Transiting North Node square natal Pluto](/astrology/transiting-north-node-square-natal-pluto/)) and trines it ([Transiting North Node trine natal Pluto](/astrology/transiting-north-node-trine-natal-pluto/)), until the South Node arrives ([Transiting North Node opposite natal Pluto](/astrology/transiting-north-node-opposite-natal-pluto/)).
 

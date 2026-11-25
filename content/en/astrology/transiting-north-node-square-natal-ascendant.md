@@ -43,11 +43,11 @@ In Placidus, the house system I use, one square usually comes while the node cro
 
 ## How long it lasts {#how-long-it-lasts}
 
-The true node usually needs about a month over the square, counted from 1½° before exact to 1° after. An eclipse season in the same weeks slows it almost to a halt while the Sun is near the nodes, and the square lasts three months or more; about one pass in 25 brings three exact hits, and the season's eclipses fall at right angles to your horizon. With your rising degree midway along the axis, neither node touches it, so this square isn't among my forecast's seasons; I read it as background to the transits that do touch your angles.
+Counted in my orbs, 1½° before exact to 1° after, the node spends about a month at right angles to your horizon. An eclipse season in the same weeks slows it almost to a halt while the Sun is near the nodes, and the square lasts three months or more; about one pass in 25 brings three exact hits, and the season's eclipses fall at right angles to your horizon. With your rising degree midway along the axis, neither node touches it, so this square isn't among my forecast's seasons; I read it as background to the transits that do touch your angles.
 
 A few minutes of birth time make a real difference. Twins born ten minutes apart have Ascendants about two and a half degrees apart on average, and the node squares one of them about seven weeks after the other.
 
-It comes twice a round, eight or nine times by 80, about four and a half years either side of [Transiting North Node opposite natal Ascendant](/astrology/transiting-north-node-opposite-natal-ascendant/). Between each square and [Transiting North Node conjunct natal Ascendant](/astrology/transiting-north-node-conjunct-natal-ascendant/) comes [Transiting North Node sextile natal Ascendant](/astrology/transiting-north-node-sextile-natal-ascendant/); on the side of the opposition, [Transiting North Node trine natal Ascendant](/astrology/transiting-north-node-trine-natal-ascendant/).
+Eight or nine of these squares come by 80, two a round, about four and a half years either side of [Transiting North Node opposite natal Ascendant](/astrology/transiting-north-node-opposite-natal-ascendant/). Between each square and [Transiting North Node conjunct natal Ascendant](/astrology/transiting-north-node-conjunct-natal-ascendant/) comes [Transiting North Node sextile natal Ascendant](/astrology/transiting-north-node-sextile-natal-ascendant/); on the side of the opposition, [Transiting North Node trine natal Ascendant](/astrology/transiting-north-node-trine-natal-ascendant/).
 
 ## What helps {#what-helps}
 
