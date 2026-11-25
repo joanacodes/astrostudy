@@ -5,6 +5,8 @@ description: "Taurus on the 11th house cusp: friendships tended for decades, gro
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Placements"]
+tags: ["Taurus", "11th house", "house cusps"]
 weight: 2453
 glyph: "♉"
 definition: "Taurus on the 11th house cusp means the house of belonging, community and shared plans opens in Taurus. You tend to keep friendships going for decades, and to stay with a group long enough to help run it. Venus, by its house, shows what your circle gathers around, and through Libra it rules your home as well."
