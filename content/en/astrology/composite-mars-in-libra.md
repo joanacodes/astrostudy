@@ -5,6 +5,8 @@ description: "Composite Mars in Libra: a relationship that acts by agreement, fi
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Libra", "composite chart"]
 weight: 2079
 glyph: "♂♎"
 definition: "Composite Mars in Libra, the midpoint of two people’s natal Marses falling in Venus’s cardinal air sign, puts a relationship’s drive opposite Mars’s own Aries, where tradition calls it in detriment. Astrologers read a bond that acts by agreement, fights for fairness, desires through courtship and attention, and negotiates its disagreements, sometimes for too long."
@@ -35,12 +37,12 @@ Who chose the restaurant last time? A pair with composite Mars in Libra usually 
 
 Such a pair acts as a committee of two. Plans are proposed, weighed and agreed; neither of you likes to steamroll the other, and the bond is often good at working for others as well, mediating a family dispute, standing up for a colleague treated unfairly. Competition takes the form of balance: whose turn it is, whose family gets Christmas, whether the effort is even. Desire is courtly and mutual, and beauty, attention and being chosen in return matter more than conquest. A single chart's [Mars in Libra](/astrology/mars-in-libra/) belongs to someone who fights for fairness; here fairness is the pair's own standard, and it can hold even two strong-willed people to a gentler pace.
 
-Disagreements are negotiated, sometimes for too long. The scales can stay level by never being tested: each of you defers, nothing gets decided, and irritation builds politely until it tips all at once. Harmony isn't the same as avoiding conflict. What helps is a rule that someone decides, in turn, when agreement stalls, and the nerve to say *I disagree* early, while it's still small. Keeping score of fairness helps no one; agreeing on what fair means does.
+Disagreements are negotiated, sometimes for too long. The scales can stay level by never being tested: each of you defers, nothing gets decided, and irritation builds politely until it tips all at once. Harmony and avoidance are different things. What helps is a rule that someone decides, in turn, when agreement stalls, and the nerve to say *I disagree* early, while it's still small. Keeping score of fairness helps no one; agreeing on what fair means does.
 
 A polite surface can hide fear, too. If the peace in your relationship is kept because one of you is afraid of the other, that isn't a question for the stars: talk to Samaritans on 116 123, free in the UK and Ireland, and call 999 in an emergency.
 
-Next to it, [composite Mars in Virgo](/astrology/composite-mars-in-virgo/) puts its effort into doing things properly, and [composite Mars in Scorpio](/astrology/composite-mars-in-scorpio/) commits all the way or not at all. Libra checks that both of you agree first.
+Next to it, [composite Mars in Virgo](/astrology/composite-mars-in-virgo/) mends and perfects, and [composite Mars in Scorpio](/astrology/composite-mars-in-scorpio/) commits all the way or not at all. Libra checks that both of you agree first.
 
-This is a method I describe and don't use. Those who do would turn to the composite [Venus](/astrology/venus/), Libra's ruler, and to the [synastry](/astrology/synastry/), where [Venus opposite Mars in synastry](/astrology/venus-opposite-mars-synastry/) can be the very attraction that started things. A composite never says whether a relationship will last or lead to marriage, and it should be drawn only with both people's consent ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+This is a method I describe and don't use. Those who do would turn to the composite [Venus](/astrology/venus/), Libra's ruler, and to the [synastry](/astrology/synastry/), where [Venus opposite Mars in synastry](/astrology/venus-opposite-mars-synastry/) can be the very attraction that started things. No composite can tell whether the two of you will last or marry, and it should be drawn only with both people's consent ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
-Libra also shows the arithmetic's odd edge. The composite takes the nearer of two [midpoints](/astrology/midpoints/), so when two Marses are nearly opposite it can jump across the circle: Marses at 10° Cancer and 8° Capricorn give a composite Mars at 9° Libra, but move the second to 12° Capricorn and it lands at 11° Aries. With Marses that close to opposite, even the birth times can decide the side. That's a property of averages, not a message about the two of you.
+Libra also shows the arithmetic's odd edge. The composite takes the nearer of two [midpoints](/astrology/midpoints/), so when two Marses are nearly opposite it can jump across the circle: Marses at 10° Cancer and 8° Capricorn give a composite Mars at 9° Libra, but move the second to 12° Capricorn and it lands at 11° Aries. With Marses that close to opposite, the two birth times may settle which side it falls. That's how averages behave; it says nothing about you.
