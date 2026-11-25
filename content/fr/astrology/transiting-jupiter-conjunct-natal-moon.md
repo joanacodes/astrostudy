@@ -31,7 +31,7 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’exaltation de Jupiter en Cancer, le signe de la Lune" }
 ---
-Une fois tous les douze ans environ, Jupiter passe sur l’endroit qu’occupait votre Lune à votre naissance. La planète qui élargit rencontre la part de vous qui veille sur vos émotions et vos besoins, et pendant un temps il y a plus de place à l’intérieur, et souvent à la maison aussi.
+Une fois tous les douze ans environ, Jupiter passe sur l’endroit qu’occupait votre Lune à votre naissance. La planète de l’ampleur touche la part de vous qui veille sur vos émotions et vos besoins, et pendant un temps il y a plus de place à l’intérieur, et souvent à la maison aussi.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -41,7 +41,7 @@ On décrit souvent un adoucissement : plus de patience avec ses propres humeurs
 
 La tradition plaçait l’[exaltation](/astrology/exaltation/) de Jupiter en Cancer, le signe même de la Lune : de toutes les places possibles, les anciens auteurs voyaient Jupiter au mieux là où la Lune règne. Je le prends comme une image plutôt qu’une règle : une croissance qui part du sentiment qu’on prend soin de vous.
 
-Le passage tombe pendant l’année de Jupiter dans la maison de votre Lune. Avec une Lune en maison 4, c’est [Jupiter en transit en maison 4](/astrology/jupiter-transit-4th-house/), et le foyer et la famille forment le décor. Avec [Lune conjonction Jupiter](/astrology/moon-conjunct-jupiter/) dans votre thème, ce passage revient chaque fois que Jupiter retrouve sa place de naissance, à chaque [retour de Jupiter](/astrology/jupiter-return/).
+Le passage tombe pendant l’année de Jupiter dans la maison de votre Lune. Avec une Lune en maison 4, c’est [Jupiter en transit en maison 4](/astrology/jupiter-transit-4th-house/), et le foyer et la famille forment le décor. Avec [Lune conjonction Jupiter](/astrology/moon-conjunct-jupiter/) dans votre thème, ce passage revient à chaque [retour de Jupiter](/astrology/jupiter-return/), et la chaleur inscrite dans votre naissance reçoit encore un peu plus de place.
 
 ## Combien de temps {#combien-de-temps}
 

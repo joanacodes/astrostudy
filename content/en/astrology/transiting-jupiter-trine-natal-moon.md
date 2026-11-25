@@ -36,11 +36,11 @@ Twice in every twelve years, Jupiter stands in a sign of your Moon's element, a 
 
 [Jupiter](/astrology/jupiter/) widens and gives experience a meaning; the [Moon](/astrology/moon/) processes feeling and keeps you feeling safe. At 120°, a [trine](/astrology/trine/) lets the two work together without either giving way: for a while, what you need and what life offers line up with little friction, and moods tend to recover faster than usual.
 
-It often shows as ease at home, warmth that goes both ways, a lighter hold on old worries, some perspective on a feeling that once took all your room. Flow isn't passivity, though. The trine helps what you do with it: a conversation you'd been putting off goes better, a gathering comes together, rest actually rests you. Responding comes more easily too: you notice what other people need without losing track of what you need yourself.
+Usually it feels like ease at home, warmth that goes both ways, a lighter hold on old worries, some perspective on a feeling that once took all your room. You still have to use it. The trine helps what you do with it: a conversation you'd been putting off goes better, a gathering comes together, rest actually rests you. Responding comes more easily too: you notice what other people need without losing track of what you need yourself.
 
 There's an old symmetry behind it. Cancer belongs to the Moon, and tradition placed Jupiter's exaltation there; Pisces, Jupiter's traditional home (Neptune is its modern ruler, and I read both), stands a trine away in the same element, water. The trine between the two planets echoes the trine between the signs where tradition placed them at their best.
 
-The ease takes its subject from the house Jupiter is crossing. From your 12th ([Jupiter transiting the 12th house](/astrology/jupiter-transit-12th-house/)), it tends to come through quiet: time alone, sleep, a private faith, care given without anyone needing to know. If [Moon trine Jupiter](/astrology/moon-trine-jupiter/) is in your own chart, each Jupiter return repeats one of these trines.
+The ease takes its subject from the house Jupiter is crossing. From your 12th ([Jupiter transiting the 12th house](/astrology/jupiter-transit-12th-house/)), it tends to come through quiet: time alone, sleep, a private faith, care given without anyone needing to know. If [Moon trine Jupiter](/astrology/moon-trine-jupiter/) is in your own chart, each Jupiter return repeats one of these trines, and the ease with feeling you were born with has its season in the sky again.
 
 ## How long it lasts {#how-long-it-lasts}
 

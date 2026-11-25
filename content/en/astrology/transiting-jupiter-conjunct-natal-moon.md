@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits read one by one" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Jupiter’s exaltation in Cancer, the Moon’s sign" }
 ---
-Once every twelve years or so, Jupiter passes over the place your Moon held when you were born. The planet that widens meets the part of you that tends your feelings and needs, and for a while there is more room inside, and often at home too.
+Once every twelve years or so, Jupiter passes over the place your Moon held when you were born. The planet of scope touches the part of you that tends your feelings and needs, and for a while there is more room inside, and often at home too.
 
 ## What changes {#what-changes}
 
@@ -40,7 +40,7 @@ People often describe a softening: more patience with their own moods, more warm
 
 Tradition gave Jupiter its [exaltation](/astrology/exaltation/) in Cancer, the Moon's own sign: of all the places Jupiter can stand, the old authors thought it at its best where the Moon rules. I take that as a picture rather than a rule: growth that starts from feeling looked after.
 
-The crossing falls inside Jupiter's year in your Moon's house. With your Moon in the 4th, that's [Jupiter transiting the 4th house](/astrology/jupiter-transit-4th-house/), and home and family are the setting. Born with [Moon conjunct Jupiter](/astrology/moon-conjunct-jupiter/), you have this crossing every time Jupiter comes home, at each [Jupiter return](/astrology/jupiter-return/).
+The crossing falls inside Jupiter's year in your Moon's house. With your Moon in the 4th, that's [Jupiter transiting the 4th house](/astrology/jupiter-transit-4th-house/), and home and family are the setting. Born with [Moon conjunct Jupiter](/astrology/moon-conjunct-jupiter/), you have this crossing at each [Jupiter return](/astrology/jupiter-return/), and the warmth you were born with gets a little more room again.
 
 ## How long it lasts {#how-long-it-lasts}
 

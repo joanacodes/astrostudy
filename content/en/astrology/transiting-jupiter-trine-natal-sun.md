@@ -38,9 +38,9 @@ Twice in each round of twelve years, a third of the zodiac separates Jupiter fro
 
 The pairing has an old logic. Leo, the Sun's sign, and Sagittarius, Jupiter's, are both fire signs, four signs apart: in the natural zodiac, the trine is the angle between the Sun's home and Jupiter's, and astrologers have long read the two as easy company.
 
-Day to day, it tends to feel like confidence that doesn't need to prove itself, plans that grow without being forced, people who seem readier to say yes. The trap is the trine's usual one: ease isn't inevitability, and flow isn't drifting. A season like this pays whoever uses it on purpose, for learning, teaching, making something, or being generous with what you know.
+Day to day, it tends to feel like confidence that doesn't need to prove itself, plans that grow without being forced, people who seem readier to say yes. The trap is the trine's usual one: an easy season does nothing by itself, and flow can turn into drift. A season like this pays whoever uses it on purpose, for learning, teaching, making something, or being generous with what you know.
 
-Which house Jupiter is crossing gives the ease its subject. From your 5th, the house tradition called Good Fortune ([Jupiter transiting the 5th house](/astrology/jupiter-transit-5th-house/)), it often runs into creative work and play; your Sun's house says what that ease is for. For both, I need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)): it is what turns this [transit](/astrology/transits/) from a date into a reading. Born with [Sun trine Jupiter](/astrology/sun-trine-jupiter/), you'll meet one of these trines at each Jupiter return.
+Which house Jupiter is crossing gives the ease its subject. From your 5th, the house tradition called Good Fortune ([Jupiter transiting the 5th house](/astrology/jupiter-transit-5th-house/)), it often runs into creative work and play; your Sun's house says what that ease is for. For both, I need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)): it is what turns this [transit](/astrology/transits/) from a date into a reading. Born with [Sun trine Jupiter](/astrology/sun-trine-jupiter/), you'll meet one of these trines at each Jupiter return, a reminder of the quiet confidence you were born with.
 
 ## How long it lasts {#how-long-it-lasts}
 

@@ -5,6 +5,8 @@ description: "Transiting Jupiter sextile natal Venus: twice every twelve years, 
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Venus", "sextile", "transits"]
 weight: 1578
 glyph: "♃⚹♀"
 definition: "Transiting Jupiter sextile natal Venus is a 60° link between Jupiter in the sky and your birth Venus, made twice every twelve years. Small openings for what you enjoy appear: an invitation, a friendship, a chance to make or learn something beautiful. I read it as an offer of pleasure that you still have to choose."
@@ -20,7 +22,7 @@ faq:
   - q: "What does transiting Jupiter sextile natal Venus mean?"
     a: "This is the 60° contact between Jupiter and your birth Venus, which Jupiter forms twice in each round. I read it as a modest opening for what you enjoy and value: an invitation, a friendship, a creative chance. It needs you to accept it, and it promises nothing about love or money."
   - q: "How long does Jupiter sextile Venus last?"
-    a: "Eleven days or so, counted with my orbs. About three times in ten Jupiter stations near the point and the sextile lasts about eight months, exact three times. It comes once about two years after Jupiter crosses your Venus, and again about two years before the next crossing."
+    a: "Eleven days or so, counted with my orbs. About three times in ten Jupiter stations near the point and the sextile lasts about eight months, exact three times. The two sextiles of a round frame Jupiter’s crossings of your Venus: about two years after one, about two years before the next."
   - q: "Is Jupiter sextile Venus good for relationships?"
     a: "It’s one of the gentler seasons for them, as I read it: appreciation flows more easily and a shared pleasure is easier to find. But it describes ease, not outcomes, and it can’t tell you what another person will do. Use it for kindness and company rather than for answers."
 sources:
@@ -36,13 +38,13 @@ Of all the ways Jupiter meets your Venus, the sextile is the most modest: two si
 
 The openings are usually pleasant and specific: someone you like suggests a plan, a creative project finds a willing partner, a place or a piece of music turns into a lasting pleasure. Preference is the part of Venus this [transit](/astrology/transits/) sharpens most, and it's worth noticing what you choose when choosing is easy. Venus also governs affinity, the people you simply get on with, and this sextile is good at bringing you more of them, if you accept the invitations.
 
-Tradition lines this angle up with the planets' own signs. Venus rules Taurus and Libra, Jupiter Sagittarius and, in the old scheme, Pisces, which modern astrologers give to Neptune (I read both); each of Venus's signs lies a sextile from one of Jupiter's: Taurus from Pisces, the sign of Venus's [exaltation](/astrology/exaltation/), and Libra from Sagittarius.
+Tradition lines this angle up with the planets' own signs. Taurus and Libra belong to Venus, Sagittarius to Jupiter, and Pisces too in the old scheme, now given to Neptune (I read both rulers); each of Venus's signs lies a sextile from one of Jupiter's: Taurus from Pisces, the sign of Venus's [exaltation](/astrology/exaltation/), and Libra from Sagittarius.
 
-Look at the house Jupiter is in at the time to see where the opening appears. From your 5th, which tradition called Good Fortune and gave to Venus's joy ([Jupiter transiting the 5th house](/astrology/jupiter-transit-5th-house/)), it often comes through play, creative work and things done for love of them. If your chart has [Venus sextile Jupiter](/astrology/venus-sextile-jupiter/), every Jupiter return repeats that angle in the sky.
+Look at the house Jupiter is in at the time to see where the opening appears. From your 5th, which tradition called Good Fortune and gave to Venus's joy ([Jupiter transiting the 5th house](/astrology/jupiter-transit-5th-house/)), it often comes through play, creative work and things done for love of them. With [Venus sextile Jupiter](/astrology/venus-sextile-jupiter/) among your birth aspects, every Jupiter return repeats that angle, and pleasures shared with friends have their season again.
 
 ## How long it lasts {#how-long-it-lasts}
 
-Inside my orbs, from 1½° before exact to 1° after, the sextile usually lasts about eleven days. Now and then, about three times in ten, Jupiter stations near the point and the sextile becomes a season: three exact hits over about eight months.
+Within my orbs, from 1½° before exact to 1° after, your Venus has the sextile for about eleven days, roughly the time an invitation and its sequel take. Now and then, about three times in ten, Jupiter stations near the point and the sextile becomes a season: three exact hits over about eight months.
 
 The houses that give it a subject, your Venus's and the one Jupiter is crossing, come from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)), and I don't read a chart without it.
 

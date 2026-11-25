@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Lune", "trigone", "transits"]
 weight: 1570
 glyph: "♃△☽"
-definition: "Jupiter en transit trigone Lune du thème natal, c’est Jupiter à 120° de votre Lune de naissance, dans un signe du même élément. Les émotions se posent plus facilement, le soin circule dans les deux sens, et le foyer paraît plus vaste. J’y lis une saison facile pour la vie intérieure, assez discrète pour passer inaperçue."
+definition: "Jupiter en transit trigone Lune du thème natal, c’est l’angle de 120° que Jupiter forme avec votre Lune de naissance depuis un signe du même élément. Les émotions se posent plus facilement, le soin circule dans les deux sens, et le foyer paraît plus vaste. J’y lis une saison facile pour la vie intérieure, assez discrète pour passer inaperçue."
 facts:
   - { k: "En transit", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Point natal", v: "La Lune ☽, vos besoins et vos émotions" }
@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Jupiter en transit trigone Lune natale ?"
     a: "Jupiter se trouve à 120° de votre Lune de naissance, dans un signe du même élément. J’y lis une saison facile pour les émotions et le foyer : l’humeur se remet plus vite, le soin circule dans les deux sens, les soucis se desserrent. Ce trigone aide ce que vous lui apportez et demande très peu, d’où sa discrétion."
   - q: "Combien de temps dure Jupiter trigone Lune ?"
-    a: "Onze jours environ dans mes orbes, ou huit mois environ, avec trois passages exacts, quand l’une des boucles rétrogrades de Jupiter tombe sur le trigone. Il revient deux fois par tour, environ quatre et huit ans après le passage de Jupiter sur votre Lune, et votre heure de naissance en donne les dates exactes."
+    a: "Onze jours environ dans mes orbes, ou huit mois environ, avec trois passages exacts, quand l’une des boucles rétrogrades de Jupiter tombe sur le trigone. On le rencontre quatre ans après chaque passage de Jupiter sur votre Lune, puis huit ans après ; votre heure de naissance en donne les dates exactes."
   - q: "Est-ce que Jupiter trigone Lune natale annonce de bonnes nouvelles à la maison ?"
     a: "Je ne lis pas les transits pour les nouvelles. Ce trigone décrit une météo intérieure : plus de stabilité, plus de générosité, moins de solitude face à un souci. Le foyer devient souvent plus facile à vivre et la famille plus facile à aborder, mais ce trigone ne décide ni de ce que font les autres, ni de ce qui arrive."
 sources:
@@ -37,11 +37,11 @@ Deux fois tous les douze ans, Jupiter se tient dans un signe de l’élément de
 
 [Jupiter](/astrology/jupiter/) élargit et donne un sens à l’expérience ; la [Lune](/astrology/moon/) traite les émotions et vous garde en sécurité. À 120°, un [trigone](/astrology/trine/) les fait travailler ensemble sans rien céder de leurs natures : pendant un temps, ce dont vous avez besoin et ce que la vie offre s’accordent sans grande friction, et l’humeur se remet plus vite que d’habitude.
 
-Cela se voit souvent dans l’aisance à la maison, une chaleur qui va dans les deux sens, une prise plus légère des vieux soucis, du recul sur une émotion qui prenait autrefois toute la place. La fluidité n’est pas de la passivité, pourtant. Le trigone aide ce que vous en faites : une conversation repoussée se passe mieux, une réunion de famille prend forme, le repos repose vraiment. Répondre aux autres devient plus facile aussi : vous voyez ce dont ils ont besoin sans perdre de vue ce dont vous avez besoin.
+Cela se voit souvent dans l’aisance à la maison, une chaleur qui va dans les deux sens, une prise plus légère des vieux soucis, du recul sur une émotion qui prenait autrefois toute la place. Encore faut-il s’en servir. Le trigone aide ce que vous en faites : une conversation repoussée se passe mieux, une réunion de famille prend forme, le repos repose vraiment. Répondre aux autres devient plus facile aussi : vous voyez ce dont ils ont besoin sans perdre de vue ce dont vous avez besoin.
 
 Il y a là une vieille symétrie. Le Cancer appartient à la Lune, et la tradition y plaçait l’exaltation de Jupiter ; les Poissons, signe traditionnel de Jupiter (Neptune en est le maître moderne, et je lis les deux), se trouvent à un trigone de là, dans le même élément, l’eau. Le trigone entre les deux planètes fait écho au trigone entre les signes où la tradition les plaçait au mieux de leur forme.
 
-L’aisance prend son sujet dans la maison que traverse Jupiter. Depuis votre maison 12 ([Jupiter en transit en maison 12](/astrology/jupiter-transit-12th-house/)), elle passe souvent par le calme : du temps pour soi, le sommeil, une foi intime, un soin donné sans que personne ait besoin de le savoir. Si [Lune trigone Jupiter](/astrology/moon-trine-jupiter/) figure dans votre thème, chaque retour de Jupiter répète l’un de ces trigones.
+L’aisance prend son sujet dans la maison que traverse Jupiter. Depuis votre maison 12 ([Jupiter en transit en maison 12](/astrology/jupiter-transit-12th-house/)), elle passe souvent par le calme : du temps pour soi, le sommeil, une foi intime, un soin donné sans que personne ait besoin de le savoir. Votre thème porte-t-il [Lune trigone Jupiter](/astrology/moon-trine-jupiter/) ? Alors chaque retour de Jupiter répète l’un de ces trigones, et l’aisance avec les émotions inscrite dans votre naissance retrouve sa saison dans le ciel.
 
 ## Combien de temps {#combien-de-temps}
 

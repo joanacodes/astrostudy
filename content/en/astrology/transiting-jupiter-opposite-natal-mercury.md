@@ -1,13 +1,15 @@
 ---
 title: "Transiting Jupiter opposite natal Mercury"
 h1: "Transiting Jupiter opposite your natal Mercury"
-description: "Transiting Jupiter opposite natal Mercury: once every twelve years, other people’s big ideas meet yours. How long it lasts, when it falls, and what helps."
+description: "Transiting Jupiter opposite natal Mercury: once every twelve years, other people’s big ideas meet yours. Its length, its timing, and what helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Mercury", "opposition", "transits"]
 weight: 1576
 glyph: "♃☍☿"
-definition: "Transiting Jupiter opposite natal Mercury is Jupiter facing your birth Mercury across the zodiac, halfway through its twelve-year round. Your thinking meets other people’s beliefs, plans and objections: a teacher, a critic, a debate worth having. I read it as learning through contrast, never a forecast of quarrels."
+definition: "Transiting Jupiter opposite natal Mercury marks the middle of Jupiter’s round with your Mercury, from the far side of the zodiac. Your thinking meets other people’s beliefs, plans and objections: a teacher, a critic, a debate worth having. I read it as learning through contrast, never a forecast of quarrels."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "Natal point", v: "Mercury ☿, how you think, learn and speak" }

@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Jupiter sextile natal Moon mean?"
     a: "Jupiter is two signs from your birth Moon, a 60° angle it makes twice every twelve years. I read it as an easy opening for your inner life and your home: support you could accept, a warmer circle, a routine that suits you better. It offers rather than pushes, so it is easy to miss."
   - q: "How long does Jupiter sextile the Moon last?"
-    a: "About eleven days within my orbs, or about eight months when Jupiter's retrograde loop puts three exact passes on the point. When it falls depends on your Moon’s exact degree: people born on the same day can meet it months apart, so here the birth time sets the calendar as well as the houses."
+    a: "About eleven days within my orbs, or about eight months when Jupiter’s retrograde loop puts three exact passes on the point. When it falls depends on your Moon’s exact degree: people born on the same day can meet it months apart, so here the birth time sets the calendar as well as the houses."
   - q: "Is Jupiter sextile natal Moon a positive transit?"
     a: "It’s one of the gentlest there is, and I’d call it kind rather than lucky. A sextile describes cooperation and opportunity, which still need you to engage, and Jupiter describes growth, not luck. On the Moon that kindness is mostly felt inside, in a steadier mood and a readier yes to support."
 sources:
@@ -37,7 +37,7 @@ The sextile is the lightest touch Jupiter makes to your Moon, and it comes twice
 
 They tend to arrive close to home. Someone offers help you'd usually refuse; a circle of people makes room for you; a routine or a ritual becomes more yours; a conversation settles a worry you'd been carrying alone. Saying yes costs little, and it's often the start of a steadier way of looking after yourself. The Moon also keeps memory, and a sextile from Jupiter can bring something good from earlier years back into use: a recipe, a song, a friendship you'd let drift.
 
-The house Jupiter is crossing says where the opening comes from. From your 3rd, where the Moon has its joy in the old scheme of houses, it tends to come through words, siblings, neighbours and the short trips of ordinary weeks ([Jupiter transiting the 3rd house](/astrology/jupiter-transit-3rd-house/)). Born with [Moon sextile Jupiter](/astrology/moon-sextile-jupiter/), you'll know this rhythm already: one of the two sextiles comes back with each Jupiter return.
+The house Jupiter is crossing says where the opening comes from. From your 3rd, where the Moon has its joy in the old scheme of houses, it tends to come through words, siblings, neighbours and the short trips of ordinary weeks ([Jupiter transiting the 3rd house](/astrology/jupiter-transit-3rd-house/)). Born with [Moon sextile Jupiter](/astrology/moon-sextile-jupiter/), you'll know this rhythm already: one of the two sextiles comes back with each Jupiter return, and with it an offer of support you already know how to accept.
 
 ## How long it lasts {#how-long-it-lasts}
 

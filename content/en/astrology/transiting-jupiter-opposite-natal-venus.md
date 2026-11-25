@@ -5,9 +5,11 @@ description: "Transiting Jupiter opposite natal Venus: once every twelve years, 
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Venus", "opposition", "transits"]
 weight: 1581
 glyph: "♃☍♀"
-definition: "Transiting Jupiter opposite natal Venus is Jupiter across the zodiac from your birth Venus, the halfway point of its twelve-year round. What you value and enjoy meets someone else’s tastes, plans and terms. I read it as a season of balancing give and take, never a forecast of a relationship’s fate."
+definition: "Transiting Jupiter opposite natal Venus comes once every twelve years, when Jupiter reaches the point of the sky opposite your birth Venus. What you value and enjoy meets someone else’s tastes, plans and terms. I read it as a season of balancing give and take, never a forecast of a relationship’s fate."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "Natal point", v: "Venus ♀, what you value and how you relate" }
@@ -27,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the transit lasts with my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits read one by one" }
 ---
-About six years after it crosses your Venus, Jupiter reaches the far end of the line. What you like, love and value now has company across the room: another person's tastes, another way of living, a larger offer with its own terms.
+For a few days every twelve years, or a few months when Jupiter loops, what you like, love and value has company across the room: another person's tastes, another way of living, a larger offer with its own terms. Jupiter has reached the point opposite your Venus.
 
 ## What changes {#what-changes}
 
@@ -39,7 +41,7 @@ Jupiter will be crossing the house across from your Venus's, since opposite cusp
 
 ## How long it lasts {#how-long-it-lasts}
 
-In my orbs, from 1½° before exact to 1° after, the opposition to your Venus lasts about eleven days in most rounds. In about three in ten, a retrograde loop crosses the point three times and keeps it there for about eight months.
+Opposite your Venus, Jupiter usually stays inside my orbs, from 1½° before exact to 1° after, for only about eleven days. In about three in ten, a retrograde loop crosses the point three times and keeps it there for about eight months.
 
 By 80, everyone born between 1930 and 2009 has met it six or seven times, each a chance to see their own tastes through someone else's eyes. [Transiting Jupiter sextile natal Venus](/astrology/transiting-jupiter-sextile-natal-venus/) and [transiting Jupiter trine natal Venus](/astrology/transiting-jupiter-trine-natal-venus/) bring pleasures to you, and [transiting Jupiter square natal Venus](/astrology/transiting-jupiter-square-natal-venus/) makes you count them; here, at the far point six years after [transiting Jupiter conjunct natal Venus](/astrology/transiting-jupiter-conjunct-natal-venus/), they are held up beside someone else's.
 

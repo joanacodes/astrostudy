@@ -5,6 +5,8 @@ description: "Transiting Jupiter conjunct natal Mars: every twelve years, your d
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Mars", "conjunction", "transits"]
 weight: 1582
 glyph: "♃☌♂"
 definition: "Transiting Jupiter conjunct natal Mars is the twelve-yearly crossing of Jupiter over the degree of your birth Mars. Effort finds a reason and initiative a larger aim: you start things, take a stand, push for what you believe in. I read it as fuel for a purpose you choose, never as a forecast of conflict."
@@ -38,11 +40,11 @@ People often take something on: a cause, a training, a venture, a stand at work,
 
 Tradition called Jupiter the greater benefic and Mars the lesser malefic ([benefics and malefics](/astrology/benefics-and-malefics/)), and the old astrologers liked to see the first temper the second. I don't read Mars as harmful; I read it as the part of you that can act. The picture still holds, though: with Jupiter on it, your drive goes looking for a reason worth the push.
 
-With Mars in your 1st house, the crossing comes during [Jupiter transiting the 1st house](/astrology/jupiter-transit-1st-house/), and the push is personal, in how you start things and meet the world. Your Mars's house matters this much because Jupiter shares it while the conjunction lasts. Born with [Mars conjunct Jupiter](/astrology/mars-conjunct-jupiter/), you'll have this season at each [Jupiter return](/astrology/jupiter-return/).
+With Mars in your 1st house, the crossing comes during [Jupiter transiting the 1st house](/astrology/jupiter-transit-1st-house/), and the push is personal, in how you start things and meet the world. Your Mars's house matters this much because Jupiter shares it while the conjunction lasts. Born with [Mars conjunct Jupiter](/astrology/mars-conjunct-jupiter/), you'll have this season at each [Jupiter return](/astrology/jupiter-return/), when the drive you were born with looks for a new cause.
 
 ## How long it lasts {#how-long-it-lasts}
 
-Counted from 1½° before exact to 1° after, the crossing usually lasts about eleven days. Roughly three crossings in ten are slower: Jupiter turns back over your Mars, then forward again, and the season runs to about eight months with three exact hits.
+The crossing over your Mars usually lasts about eleven days, from 1½° before exact to 1° after: long enough to start something, not to finish it. Roughly three crossings in ten are slower: Jupiter turns back over your Mars, then forward again, and the season runs to about eight months with three exact hits.
 
 The date comes from your birth date alone, because Mars shifts so little in a day. The meaning comes from the house, and the house from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)): no birth time, no reading.
 

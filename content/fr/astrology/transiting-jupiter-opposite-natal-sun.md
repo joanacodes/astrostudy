@@ -25,7 +25,7 @@ faq:
   - q: "Combien de temps dure Jupiter opposition Soleil ?"
     a: "Onze jours environ quand Jupiter passe une seule fois, dans mes orbes. Trois fois sur dix à peu près, Jupiter repasse sur le point et l’opposition dure huit mois environ, avec un passage du milieu proche de votre anniversaire, quand Jupiter brille le plus. Un passage simple arrive plutôt autour de votre demi-anniversaire."
   - q: "Est-ce que Jupiter opposition Soleil natal est un transit difficile ?"
-    a: "Je ne le lis pas ainsi. Une opposition montre une polarité plutôt qu’un conflit : quelque chose hors de vous reflète ce que vous cherchez à devenir. La difficulté, quand il y en a une, vient du trop : les projets des autres qui envahissent les vôtres, ou des promesses faites pour plaire. Tenue en équilibre, l’opposition élargit vos buts."
+    a: "Ce n’est pas ma lecture. Une opposition montre une polarité plutôt qu’un conflit : quelque chose hors de vous reflète ce que vous cherchez à devenir. La difficulté, quand il y en a une, vient du trop : les projets des autres qui envahissent les vôtres, ou des promesses faites pour plaire. Tenue en équilibre, l’opposition élargit vos buts."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du transit avec mes orbes, sa fréquence avant 80 ans, et le moment de ses passages" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
@@ -43,7 +43,7 @@ En Placidus, le système de maisons que j’utilise, les maisons opposées se r�
 
 ## Combien de temps {#combien-de-temps}
 
-Mes orbes vont de 1,5° avant l’exactitude à 1° après. Dans ces limites, environ sept oppositions sur dix vont et viennent en onze jours environ ; les trois autres sont des boucles rétrogrades, trois passages exacts étalés sur huit mois environ.
+Mes orbes vont de 1,5° avant l’exactitude à 1° après. Dans ces limites, environ sept oppositions sur dix vont et viennent en onze jours environ ; les trois autres sont des boucles rétrogrades, trois passages exacts répartis sur huit mois environ.
 
 Votre anniversaire joue ici à l’inverse de la conjonction. Jupiter rétrograde pendant les mois où le Soleil et Jupiter se font face, et le jour de votre anniversaire, le Soleil revient sur votre Soleil natal : une opposition en trois passages a donc son passage du milieu près de votre anniversaire, à un mois et demi au plus neuf fois sur dix. Jupiter brille alors plus qu’à aucun autre moment de l’année, et se lève quand le Soleil se couche. Un passage simple et rapide tombe plutôt autour de votre demi-anniversaire.
 

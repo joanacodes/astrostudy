@@ -38,7 +38,7 @@ Le sextile est la touche la plus légère de Jupiter sur votre Lune, et il revie
 
 Elles arrivent souvent près de chez vous. Quelqu’un propose une aide que vous refuseriez d’habitude ; un cercle de personnes vous fait une place ; une routine ou un rituel devient davantage le vôtre ; une conversation dissipe une inquiétude que vous portiez sans rien dire. Dire oui coûte peu, et c’est souvent le début d’une façon plus stable de prendre soin de vous. La Lune garde aussi la mémoire, et un sextile de Jupiter peut remettre en usage quelque chose de bon venu d’autrefois : une recette, une chanson, une amitié laissée en sommeil.
 
-La maison que traverse Jupiter dit d’où vient l’ouverture. Depuis votre maison 3, où la Lune a sa joie dans l’ancien système des maisons, elle passe souvent par les mots, les frères et sœurs, le voisinage et les petits trajets des semaines ordinaires ([Jupiter en transit en maison 3](/astrology/jupiter-transit-3rd-house/)). Avec [Lune sextile Jupiter](/astrology/moon-sextile-jupiter/) dans votre thème, vous connaissez déjà ce rythme : l’un des deux sextiles revient à chaque retour de Jupiter.
+La maison que traverse Jupiter dit d’où vient l’ouverture. Depuis votre maison 3, où la Lune a sa joie dans l’ancien système des maisons, elle passe souvent par les mots, les frères et sœurs, le voisinage et les petits trajets des semaines ordinaires ([Jupiter en transit en maison 3](/astrology/jupiter-transit-3rd-house/)). Si votre thème contient [Lune sextile Jupiter](/astrology/moon-sextile-jupiter/), ce rythme vous est familier : chaque retour de Jupiter refait l’un des deux sextiles, ramenant une offre de soutien que vous savez déjà accepter.
 
 ## Combien de temps {#combien-de-temps}
 

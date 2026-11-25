@@ -5,6 +5,8 @@ description: "Transiting Jupiter trine natal Mars: twice every twelve years, eff
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Mars", "trine", "transits"]
 weight: 1585
 glyph: "♃△♂"
 definition: "Transiting Jupiter trine natal Mars is a 120° contact between Jupiter in today’s sky and your birth Mars, the angle at which effort and purpose cooperate most easily. Drive comes with a reason, starts cost less courage, and work feels worth the push. I read it as momentum to use on purpose, never a promise of winning."
@@ -34,11 +36,11 @@ Some weeks, the work and the reason for it line up without much effort on your p
 
 [Mars](/astrology/mars/) acts: it starts, pushes, competes, defends. [Jupiter](/astrology/jupiter/) supplies the why, the larger aim that makes effort worth it. Set 120° apart in a [trine](/astrology/trine/), they flow into each other and stay themselves, so for a while the energy you have and the purpose you care about pull the same way.
 
-It tends to show as momentum. A project moves after months of stalling, training feels good rather than dutiful, a hard conversation goes well because you knew why you were having it. Flow isn't passivity, though: the trine helps what you set in motion, and a season of easy drive can slip away in small busyness if nothing large is chosen.
+It tends to show as momentum. A project moves after months of stalling, training feels good rather than dutiful, a hard conversation goes well because you knew why you were having it. But flowing isn't being carried along: the trine helps what you set in motion, and a season of easy drive can slip away in small busyness if nothing large is chosen.
 
 In the old scheme the two planets share elements. Mars rules Aries and, traditionally, Scorpio; Jupiter rules Sagittarius and, traditionally, Pisces. Modern astrologers give Scorpio to Pluto and Pisces to Neptune, and I read both rulers. Either way, Aries and Sagittarius lie a trine apart in fire, Scorpio and Pisces a trine apart in water: the angle of this transit is built into their signs.
 
-If Jupiter is crossing your 5th ([Jupiter transiting the 5th house](/astrology/jupiter-transit-5th-house/)), Good Fortune in the old names of the houses, the momentum often goes into play, sport and the kind of risk you take for fun. Your birth time places that house and your Mars's ([what changes without a birth time](/blog/unknown-birth-time/)); without it, the [transit](/astrology/transits/) stays unread. Born with [Mars trine Jupiter](/astrology/mars-trine-jupiter/), you get one of these at every Jupiter return, a regular reminder of what your drive is for.
+If Jupiter is crossing your 5th ([Jupiter transiting the 5th house](/astrology/jupiter-transit-5th-house/)), Good Fortune in the old names of the houses, the momentum often goes into play, sport and the kind of risk you take for fun. Your birth time places that house and your Mars's ([what changes without a birth time](/blog/unknown-birth-time/)); without it, I have nothing to read in this [transit](/astrology/transits/). Born with [Mars trine Jupiter](/astrology/mars-trine-jupiter/), you get one of these at every Jupiter return, a regular reminder of what your drive is for.
 
 ## How long it lasts {#how-long-it-lasts}
 

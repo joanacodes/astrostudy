@@ -37,7 +37,7 @@ Some seasons ask for more room than a life has spare. When Jupiter squares your 
 
 That can feel like restlessness at home, a sense that your space or your routines have grown too small, or a pull to take on other people's needs on top of your own. Comfort can tip into excess, generosity into overcommitment. None of it is a warning. The square asks you to change a habit rather than add another, and many people come out of it with a home life that fits them better. It's also when your old ways of comforting yourself show most clearly, the ones you reach for when a week gets full; seeing them is half the adjustment.
 
-Where Jupiter is crossing at the time sets the source of the pressure. From your 10th house ([Jupiter transiting the 10th house](/astrology/jupiter-transit-10th-house/)), work that is growing can press on the hours you need at home; your Moon's own house says which need feels the squeeze. Born with [Moon square Jupiter](/astrology/moon-square-jupiter/), you'll find each Jupiter return re-forms your square from the same side.
+Where Jupiter is crossing at the time sets the source of the pressure. From your 10th house ([Jupiter transiting the 10th house](/astrology/jupiter-transit-10th-house/)), work that is growing can press on the hours you need at home; your Moon's own house says which need feels the squeeze. Born with [Moon square Jupiter](/astrology/moon-square-jupiter/), you'll find each Jupiter return re-forms your square from the same side, and with it the old pull between wanting more and having enough.
 
 ## How long it lasts {#how-long-it-lasts}
 

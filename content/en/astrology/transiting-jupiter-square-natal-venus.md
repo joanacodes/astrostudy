@@ -5,6 +5,8 @@ description: "Transiting Jupiter square natal Venus: twice every twelve years, w
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Venus", "square", "transits"]
 weight: 1579
 glyph: "♃□♀"
 definition: "Transiting Jupiter square natal Venus is Jupiter pressing on your birth Venus from 90° away, a strain between wanting and valuing that comes twice every twelve years. More pleasure, more promises, more of what you like than you need. I read it as friction that teaches the difference between liking and valuing, never a loss foretold."
@@ -38,7 +40,7 @@ It tends to show as too much of good things: one more evening out, one more thin
 
 Tradition has a sign where both planets struggle: Virgo, where Venus has its [fall](/astrology/fall/) and Jupiter is in detriment. The old picture fits this square well, with pleasure and abundance both asked to count carefully.
 
-The strain shows in the affairs of whichever house Jupiter is crossing. From your 2nd ([Jupiter transiting the 2nd house](/astrology/jupiter-transit-2nd-house/)), it tends to sit in what you own, spend on and keep; your Venus's house says what the appetite is really for. Both houses come from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)), so I read neither without it. If [Venus square Jupiter](/astrology/venus-square-jupiter/) is in your chart, this [transit](/astrology/transits/) is an old acquaintance: one of its two squares arrives with every Jupiter return.
+The strain shows in the affairs of whichever house Jupiter is crossing. From your 2nd ([Jupiter transiting the 2nd house](/astrology/jupiter-transit-2nd-house/)), it tends to sit in what you own, spend on and keep; your Venus's house says what the appetite is really for. Both houses come from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)), so I read neither without it. If [Venus square Jupiter](/astrology/venus-square-jupiter/) is in your chart, this [transit](/astrology/transits/) is an old acquaintance, the same appetite for a little more: one of its two squares arrives with every Jupiter return.
 
 ## How long it lasts {#how-long-it-lasts}
 

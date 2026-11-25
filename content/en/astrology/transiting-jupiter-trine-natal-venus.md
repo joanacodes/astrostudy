@@ -5,6 +5,8 @@ description: "Transiting Jupiter trine natal Venus: twice every twelve years, wa
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Venus", "trine", "transits"]
 weight: 1580
 glyph: "♃△♀"
 definition: "Transiting Jupiter trine natal Venus is tradition’s two benefics at their easiest angle: Jupiter in the sky 120° from your birth Venus, twice every twelve years. Pleasure, generosity and appreciation flow with little effort, and people are easier to enjoy. I read it as a warm season to use well, not a promise of love or luck."
@@ -18,7 +20,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/venus", "/astrology/trine", "/astrology/venus-trine-jupiter", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter trine natal Venus mean?"
-    a: "Jupiter makes a 120° angle to your birth Venus, an easy contact between the two planets tradition called benefics. I read it as a warm season: appreciation, generosity and pleasure flow with little effort, and people are easier to enjoy. It helps what you bring to it; it doesn’t bring love or luck by itself."
+    a: "Jupiter makes a 120° angle to your birth Venus, an easy contact between the two planets tradition called benefics. I read it as a warm season: appreciation, generosity and pleasure flow with little effort, and people are easier to enjoy. This trine supports what you set going, without bringing love or luck of its own accord."
   - q: "Is Jupiter trine Venus the luckiest transit?"
     a: "It’s often called that, because both planets were tradition’s benefics and the trine is the easiest angle. I don’t read it as luck. It describes ease in valuing, enjoying and relating, which is pleasant and useful, but it predicts nothing about money, romance or winning."
   - q: "How long does Jupiter trine Venus last?"
@@ -38,7 +40,7 @@ People are easier to like and to be liked by, art and beauty feel closer, a gift
 
 Tradition placed each of the two at its best in a water sign: Venus has its [exaltation](/astrology/exaltation/) in Pisces, Jupiter in Cancer, and those signs stand a trine apart. The angle of this transit is also the angle between the signs where the old authors thought each planet strongest.
 
-The house Jupiter is crossing gives the warmth an address. From your 9th ([Jupiter transiting the 9th house](/astrology/jupiter-transit-9th-house/)), it often comes through travel, study and people whose world differs from yours; your Venus's house says what it warms. Only your birth time can place them ([what changes without a birth time](/blog/unknown-birth-time/)), which is why I never read without it. If [Venus trine Jupiter](/astrology/venus-trine-jupiter/) is part of your birth chart, the sky repeats it whenever Jupiter comes home.
+The house Jupiter is crossing gives the warmth an address. From your 9th ([Jupiter transiting the 9th house](/astrology/jupiter-transit-9th-house/)), the warmth tends to travel by way of journeys, study and people whose world differs from yours; your Venus's house says what it warms. Only your birth time can place them ([what changes without a birth time](/blog/unknown-birth-time/)), which is why I never read without it. If [Venus trine Jupiter](/astrology/venus-trine-jupiter/) is part of your birth chart, the sky repeats it whenever Jupiter comes home, a season for the warmth that comes naturally to you.
 
 ## How long it lasts {#how-long-it-lasts}
 

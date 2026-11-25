@@ -24,7 +24,7 @@ faq:
   - q: "How long does Jupiter conjunct the Sun last?"
     a: "Within my orbs, a straight pass of Jupiter over your Sun takes about eleven days, and it can only happen within about two months of your birthday. About three times in ten it loops back and crosses three times over about eight months, with the middle crossing four to six months from your birthday."
   - q: "Is Jupiter conjunct my Sun a lucky transit?"
-    a: "Tradition called Jupiter the greater benefic, and this transit is often sold as a lucky year. I don’t read it that way. Jupiter describes growth and meaning, not luck, money or success; on your Sun it gives you more room to become yourself, and what fills that room depends on you."
+    a: "Jupiter was tradition’s greater benefic, and this transit is often sold as a lucky year. I don’t read it that way. Jupiter describes growth and meaning, not luck, money or success; on your Sun it gives you more room to become yourself, and what fills that room depends on you."
   - q: "How often does Jupiter cross your Sun?"
     a: "Roughly every twelve years, once per circuit of the zodiac: six or seven times by 80 for everyone born between 1930 and 2009. If you were born with Jupiter beside your Sun, each of those crossings is also your Jupiter return."
 sources:
@@ -32,19 +32,19 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits read one by one" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "Jupiter’s retrograde months around its opposition to the Sun" }
 ---
-About once every twelve years, Jupiter comes back round to the degree your Sun held on the day you were born. That crossing opens a new round between the two: the planet that widens things meets the part of you that is busy becoming someone.
+About once every twelve years, Jupiter comes back round to the degree your Sun held on the day you were born. That crossing opens a new round between the two: Jupiter, which enlarges, joins the part of you that is busy becoming someone.
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) widens what it meets: it learns, looks for what things mean and helps them grow. The [Sun](/astrology/sun/) organises identity, vitality and direction. A [conjunction](/astrology/conjunction/) makes them act as one, so while it lasts, who you are and how far you'd like to reach become a single question. As with every [transit](/astrology/transits/), nothing new is put into your chart: what it already says about your purpose is given more room.
+[Jupiter](/astrology/jupiter/) widens what it meets: it learns, looks for what things mean and helps them grow. The [Sun](/astrology/sun/) gathers identity, vitality and the direction you take. A [conjunction](/astrology/conjunction/) makes them act as one, so while it lasts, who you are and how far you'd like to reach become a single question. A [transit](/astrology/transits/) puts nothing new into your chart: what it already says about your purpose is given more room.
 
 Many people feel larger in these weeks. Confidence comes more easily, a bigger idea of yourself starts to look reasonable, and the pull is towards learning, teaching, travelling or a wider role. The catch comes with the planet: Jupiter enlarges whatever it touches, including the parts of a plan that never needed enlarging. A crossing of your Sun is a good moment to tell growing from merely adding.
 
-Your Sun's house says where in life this happens, and the crossing always falls inside Jupiter's year in that house. With your Sun in the 9th, the house where tradition gave the Sun its joy, it comes during [Jupiter transiting the 9th house](/astrology/jupiter-transit-9th-house/), and study, belief and distance colour the season. The house depends on your birth time, so a chart without one stays unread ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Sun conjunct Jupiter](/astrology/sun-conjunct-jupiter/), you meet this crossing at every [Jupiter return](/astrology/jupiter-return/).
+Your Sun's house says where in life this happens, and the crossing always falls inside Jupiter's year in that house. With your Sun in the 9th, the house where tradition gave the Sun its joy, it comes during [Jupiter transiting the 9th house](/astrology/jupiter-transit-9th-house/), and study, belief and distance colour the season. The house depends on your birth time, so a chart without one stays unread ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Sun conjunct Jupiter](/astrology/sun-conjunct-jupiter/), you meet this crossing inside every [Jupiter return](/astrology/jupiter-return/), so the year that renews your beliefs renews your sense of yourself as well.
 
 ## How long it lasts {#how-long-it-lasts}
 
-With the orbs I use, from 1½° before exact to 1° after, about seven crossings in ten are a single pass of about eleven days. The other three are loops, in which Jupiter crosses your Sun's degree, backs over it and crosses it again: three exact hits, spread over about eight months.
+With the orbs I use, from 1½° before exact to 1° after, about seven crossings in ten are a single pass of about eleven days. The other three are loops, in which Jupiter crosses your Sun's degree, backs over it and crosses it again: three exact hits across a season of about eight months.
 
 Your birthday tells you which kind is coming. Jupiter travels backwards only in the four months or so around its opposition, when it faces the Sun across the sky, so a quick single crossing of your Sun can come only within about two months of your birthday, while Jupiter sits near the Sun from where we stand, low in the twilight or lost in its glare. A crossing further from your birthday belongs to a loop, and its middle pass, during [Jupiter retrograde](/astrology/jupiter-retrograde/), lands four to six months from it, with Jupiter up for most of the night.
 

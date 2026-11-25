@@ -5,6 +5,8 @@ description: "Transiting Jupiter sextile natal Mercury: twice every twelve years
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Mercury", "sextile", "transits"]
 weight: 1573
 glyph: "♃⚹☿"
 definition: "Transiting Jupiter sextile natal Mercury is Jupiter forming a 60° angle with your birth Mercury, two signs away, once on each side of its twelve-year circuit. It offers your mind an opening: a class with a free place, a conversation that leads somewhere, a chance to write or speak. I read it as an invitation that needs your reply."
@@ -35,11 +37,11 @@ Some of the most useful weeks for the mind are the least dramatic. Twice in each
 
 The openings tend to be practical and specific: a course with a place still free, someone who needs exactly the thing you can explain, a colleague asking the question you'd been hoping someone would ask. Curiosity isn't distraction, and under this sextile it's often the most efficient thing to follow, because one good question leads to the next.
 
-The house Jupiter happens to be crossing tells you where it comes from. In your 1st, the house where tradition gave Mercury its joy ([Jupiter transiting the 1st house](/astrology/jupiter-transit-1st-house/)), it tends to come through the way you present yourself: a talk, an interview, a first meeting where you say what you think. Your Mercury's own house tells you what the opening serves. It favours exchange above all: Mercury's part of any bargain is to pass things on, and this sextile tends to reward whatever you send out. If your chart has [Mercury sextile Jupiter](/astrology/mercury-sextile-jupiter/), each Jupiter return reproduces it in the sky.
+The house Jupiter happens to be crossing tells you where it comes from. In your 1st, the house where tradition gave Mercury its joy ([Jupiter transiting the 1st house](/astrology/jupiter-transit-1st-house/)), it tends to come through the way you present yourself: a talk, an interview, a first meeting where you say what you think. Your Mercury's own house tells you what the opening serves. It favours exchange above all: Mercury's part of any bargain is to pass things on, and this sextile tends to reward whatever you send out. If your chart already has [Mercury sextile Jupiter](/astrology/mercury-sextile-jupiter/), each Jupiter return reproduces it in the sky, and the conversations that open doors for you come back with it.
 
 ## How long it lasts {#how-long-it-lasts}
 
-Inside my orbs, 1½° before exact to 1° after, a sextile to your Mercury lasts about eleven days. Three passes in ten or so are caught in one of Jupiter's retrograde loops, and then the sextile is exact three times over about eight months.
+A sextile to your Mercury holds for about eleven days between 1½° before exact and 1° after, time enough for a few exchanges. Three passes in ten or so are caught in one of Jupiter's retrograde loops, and then the sextile is exact three times over about eight months.
 
 If your Mercury and Sun share a sign, Jupiter's sextiles to the two usually fall in the same year, since during its year in one sign Jupiter sextiles every degree of the two signs two away from it. With Mercury in the next sign along, they come about a year apart. What the opening is about, though, comes from the houses, and the houses need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)), so a chart without one gets no reading from me.
 

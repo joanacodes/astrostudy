@@ -5,6 +5,8 @@ description: "Transiting Jupiter square natal Mercury: twice every twelve years,
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Mercury", "square", "transits"]
 weight: 1574
 glyph: "♃□☿"
 definition: "Transiting Jupiter square natal Mercury is the 90° angle Jupiter makes to your birth Mercury on its way out to the opposition and back. Big ideas run ahead of the facts: too many projects, promises made in words, more reading than deciding. I read it as friction that sharpens judgement, once you let the details catch up."
@@ -38,7 +40,7 @@ It tends to look like overload: more projects than attention, more tabs open tha
 
 Tradition set these two at right angles long before anyone read transits. Mercury rules Gemini and Virgo, Jupiter Sagittarius and, in the old scheme, Pisces, which modern astrologers give to Neptune (I read both): the four mutable signs between them, and each of Mercury's squares one of Jupiter's, Gemini to Pisces and Virgo to Sagittarius.
 
-Where the overload lands depends on the house Jupiter is crossing. From your 6th, Virgo's house in the natural order ([Jupiter transiting the 6th house](/astrology/jupiter-transit-6th-house/)), it usually lands in daily work: lists, messages, the small print of tasks. Born with [Mercury square Jupiter](/astrology/mercury-square-jupiter/), you know this rub already, and each Jupiter return brings it back from the side it held at your birth.
+Where the overload lands depends on the house Jupiter is crossing. From your 6th, Virgo's house in the natural order ([Jupiter transiting the 6th house](/astrology/jupiter-transit-6th-house/)), it usually lands in daily work: lists, messages, the small print of tasks. Born with [Mercury square Jupiter](/astrology/mercury-square-jupiter/), you already know this tug between detail and big picture, and each Jupiter return brings it back from the side it held at your birth.
 
 ## How long it lasts {#how-long-it-lasts}
 
@@ -46,7 +48,7 @@ My orbs open 1½° before exact and close 1° after. Within them, this square us
 
 Your birth date places Mercury closely enough to know when the square is exact. What it is about is another matter: that comes from the houses, which only a birth time can draw ([what changes without a birth time](/blog/unknown-birth-time/)). Without one there'd be nothing but guesswork, so I leave this [transit](/astrology/transits/) unread.
 
-Jupiter squares your Mercury on its way out, three years after [transiting Jupiter conjunct natal Mercury](/astrology/transiting-jupiter-conjunct-natal-mercury/), when the subject that opened then has grown more branches than you can follow; and again on its way home, three years after [transiting Jupiter opposite natal Mercury](/astrology/transiting-jupiter-opposite-natal-mercury/), when other people's ideas have joined your own. Around them, [transiting Jupiter sextile natal Mercury](/astrology/transiting-jupiter-sextile-natal-mercury/) and [transiting Jupiter trine natal Mercury](/astrology/transiting-jupiter-trine-natal-mercury/) offer the same widening without the overload. Everyone born between 1930 and 2009 meets this one thirteen or fourteen times by 80: plenty of practice at cutting a big idea down to what can be done.
+Jupiter squares your Mercury on its way out, three years after [transiting Jupiter conjunct natal Mercury](/astrology/transiting-jupiter-conjunct-natal-mercury/), when the subject that opened then has grown more branches than you can follow; and again on its way home, three years after [transiting Jupiter opposite natal Mercury](/astrology/transiting-jupiter-opposite-natal-mercury/), when other people's ideas have joined your own. Around them, [transiting Jupiter sextile natal Mercury](/astrology/transiting-jupiter-sextile-natal-mercury/) and [transiting Jupiter trine natal Mercury](/astrology/transiting-jupiter-trine-natal-mercury/) offer the same widening without the overload. By 80, each person born between 1930 and 2009 will have crossed this square thirteen or fourteen times: plenty of practice at cutting a big idea down to what can be done.
 
 ## What helps {#what-helps}
 

@@ -5,6 +5,8 @@ description: "Transiting Jupiter sextile natal Mars: twice every twelve years, a
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Mars", "sextile", "transits"]
 weight: 1583
 glyph: "♃⚹♂"
 definition: "Transiting Jupiter sextile natal Mars puts Jupiter at 60° from your birth Mars, an easy angle for effort that comes twice in each twelve-year round. Your drive is offered a worthwhile outlet: a project, a team, a challenge you choose. I read it as a chance to spend your drive well, which works only once you move."
@@ -35,7 +37,7 @@ Mars likes something to do, and a sextile from Jupiter supplies something worth 
 
 The forms are practical. A colleague invites you onto a project with a real purpose; a training becomes possible again; a cause you believe in needs exactly your kind of push; a contest looks worth entering. It suits shared effort particularly: a team, a crew, a campaign, anything where your push joins other people's. Competition isn't hostility, and under this sextile a challenge can feel like an invitation. Mars is also the part of you that sets limits, and the angle makes a clean no easier as well, the kind that protects the effort you do choose.
 
-From your 6th house, where tradition gave Mars its joy ([Jupiter transiting the 6th house](/astrology/jupiter-transit-6th-house/)), the opening tends to show in daily work and practice: a skill you can train, a routine that gives your energy somewhere to go. Your Mars's own house says what the effort is for. Both houses depend on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)), and I don't read this [transit](/astrology/transits/) without them. Born with [Mars sextile Jupiter](/astrology/mars-sextile-jupiter/), you'll find each Jupiter return lays the same angle across your chart.
+From your 6th house, where tradition gave Mars its joy ([Jupiter transiting the 6th house](/astrology/jupiter-transit-6th-house/)), the opening tends to show in daily work and practice: a skill you can train, a routine that gives your energy somewhere to go. Your Mars's own house says what the effort is for. Both houses are worked out from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)), and this [transit](/astrology/transits/) waits for that hour before I read it. Born with [Mars sextile Jupiter](/astrology/mars-sextile-jupiter/), you'll find each Jupiter return lays the same angle across your chart, and your knack for joining the right effort at the right time comes back into play.
 
 ## How long it lasts {#how-long-it-lasts}
 
