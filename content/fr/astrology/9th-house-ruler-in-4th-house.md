@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 9", "maison 4", "maîtres des maisons"]
 weight: 2388
 glyph: "✦"
-definition: "Le maître de la maison 9 en maison 4 se tient en bas du thème, parmi le foyer, la famille et les racines, et y emporte études, voyages et convictions. Ce que vous croyez pousse là d’où vous venez, ou un pays lointain devient chez vous. J’y lis des convictions enracinées, jamais un verdict familial."
+definition: "Le maître de la maison 9 en maison 4 se tient en bas du thème, parmi le foyer, la famille et les racines, et y emporte études, voyages et convictions. Ce que vous croyez pousse là d’où vous venez, ou un pays lointain devient chez vous. La foi familiale est un point de départ, pas un verdict."
 facts:
   - { k: "Maître de", v: "La maison 9 : les études, les voyages, les convictions, les autres cultures" }
   - { k: "Placé en", v: "Maison 4 : le foyer, la famille, les racines, la vie privée" }

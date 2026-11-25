@@ -2,7 +2,7 @@
 title: "Maître de la maison 10 en maison 8"
 slug: "maitre-maison-10-en-maison-8"
 h1: "Maître de la maison 10 en maison 8 dans un thème natal"
-description: "Maître de la maison 10 en maison 8 : une vocation bâtie sur ce que les autres vous confient. L’argent, les confidences, les crises, sans prévision."
+description: "Maître de la maison 10 en maison 8 : une vocation bâtie sur ce que les autres vous confient. L’argent, les confidences, les crises, l’audace de Mars."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 10", "maison 8", "maîtres des maisons"]
 weight: 2404
 glyph: "✦"
-definition: "Le maître de la maison 10 en maison 8 emmène votre Milieu du Ciel vers l’intimité, la confiance, l’argent commun et les passages qui changent une personne. Votre vocation manie ce que les autres vous remettent : leur épargne, leurs confidences, leurs crises. Il décrit une carrière en profondeur ; l’argent et la perte ne sont pas à prévoir ici."
+definition: "Le maître de la maison 10 en maison 8 emmène votre Milieu du Ciel vers l’intimité, la confiance, l’argent commun et les passages qui changent une personne. Votre vocation manie ce que les autres vous remettent : leur épargne, leurs confidences, leurs crises. La confiance fait tourner ce travail ; ni aubaine ni perte n’y est annoncée."
 facts:
   - { k: "Maître de", v: "La maison 10 : la vocation, le rang, la réputation" }
   - { k: "Placé en", v: "Maison 8 : la confiance, l’intimité, l’argent commun, les dettes" }

@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Gemini", "8th house", "house cusps"]
 weight: 2461
 glyph: "♊"
-definition: "Gemini on the 8th house cusp means the house of trust, intimacy and shared resources opens in Gemini in your birth chart. You tend to need to understand before you let someone close, and to talk openly about what is shared. Mercury rules the house, and its position shows where those questions of trust come up."
+definition: "Gemini on the 8th house cusp means the house of trust, intimacy and shared resources opens in the sign that asks questions. You tend to need to understand before you let someone close, and to talk openly about what is shared. Mercury rules the house, and its position shows where those questions of trust come up."
 facts:
   - { k: "Sign", v: "Gemini ♊, mutable air" }
   - { k: "Cusp", v: "The 8th house: trust, intimacy, shared resources" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/gemini", "/astrology/8th-house", "/astrology/mercury", "/astrology/scorpio-rising", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "What does Gemini on the 8th house cusp mean?"
-    a: "That the house of trust, intimacy and shared resources opens in Gemini. You tend to trust what you understand, ask the questions others avoid, and talk openly about money in common and what each person owes. Mercury rules the house, and its position shows where questions of trust come up."
+    a: "That the house of trust, intimacy and shared resources opens in the sign that asks questions. You tend to trust what you understand, ask the questions others avoid, and talk openly about money in common and what each person owes. Mercury rules the house, and its position shows where questions of trust come up."
   - q: "What does Gemini on the 8th house cusp mean for intimacy?"
     a: "Closeness tends to grow through conversation: you want to understand someone before you let them in, and to be able to say what you feel and want. Talking is how trust gets built here, not a way of keeping distance. Mercury’s house shows where those bonds are tested and strengthened."
   - q: "Does the 8th house cusp say anything about death or inheritance?"

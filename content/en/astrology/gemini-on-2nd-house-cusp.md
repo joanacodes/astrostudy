@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Gemini", "2nd house", "house cusps"]
 weight: 2455
 glyph: "♊"
-definition: "Gemini on the 2nd house cusp means the line where your house of money, possessions and self-worth begins falls in Gemini. Knowledge, skills and contacts tend to count as resources, and money rarely sits still for long. Mercury, Gemini’s ruler, rules the house: its own house shows where you earn and spend."
+definition: "Gemini on the 2nd house cusp means the line where your house of money, possessions and self-worth begins falls in Gemini, the sign of exchange. Knowledge, skills and contacts tend to count as resources, and money rarely sits still for long. Mercury, Gemini’s ruler, rules the house: its own house shows where you earn and spend."
 facts:
   - { k: "Sign", v: "Gemini ♊, mutable air" }
   - { k: "Cusp", v: "The 2nd house: money, possessions, self-worth" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/gemini", "/astrology/2nd-house", "/astrology/mercury", "/astrology/taurus-rising", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "What does Gemini on the 2nd house cusp mean?"
-    a: "It means the house of money, possessions and self-worth opens in Gemini. You tend to treat what you know and who you know as resources, compare before you buy and earn in more than one way. Mercury rules the house, and the house Mercury sits in shows where your money comes from and goes."
+    a: "It means the house of money, possessions and self-worth opens in the sign of exchange. You tend to treat what you know and who you know as resources, compare before you buy and earn in more than one way. Mercury rules the house, and the house Mercury sits in shows where your money comes from and goes."
   - q: "Is Gemini on the 2nd house cusp good for money?"
     a: "No cusp is good or bad for money, and I never read a chart for amounts. Gemini here describes a way of handling resources: curious, quick to compare, comfortable with several sources at once. What that brings in depends on your life and your choices, which no chart decides."
   - q: "What does it mean when Mercury rules the 2nd house?"

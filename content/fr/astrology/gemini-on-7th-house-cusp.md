@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Gémeaux", "maison 7", "cuspides des maisons"]
 weight: 2460
 glyph: "♊"
-definition: "Les Gémeaux sur la cuspide de la maison 7 mettent en Gémeaux votre descendant, là où commence la maison des partenaires et des relations en tête-à-tête, avec l’ascendant Sagittaire en face. Vous cherchez volontiers quelqu’un qui parle, questionne et entretient votre curiosité. Mercure gouverne la maison : sa place montre où naissent vos relations."
+definition: "Les Gémeaux sur la cuspide de la maison 7 mettent votre descendant, là où commence la maison des partenaires et des relations en tête-à-tête, dans le signe de la conversation, avec l’ascendant Sagittaire en face. Vous cherchez volontiers quelqu’un qui parle, questionne et entretient votre curiosité. Mercure gouverne la maison : sa place montre où naissent vos relations."
 facts:
   - { k: "Signe", v: "Gémeaux ♊, air mutable" }
   - { k: "Cuspide", v: "Maison 7, ouverte par le descendant" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/gemini", "/astrology/7th-house", "/astrology/descendant", "/astrology/mercury", "/astrology/sagittarius-rising"]
 faq:
   - q: "Que veut dire avoir les Gémeaux sur la cuspide de la maison 7 ?"
-    a: "Que votre descendant, le début de la maison des partenaires, est en Gémeaux, avec l’ascendant Sagittaire. Vous cherchez volontiers quelqu’un qui parle, questionne et entretient votre curiosité, et vous aimez que les accords soient dits clairement. Mercure gouverne la maison : la maison où se trouve Mercure montre où les partenariats commencent."
+    a: "Que votre descendant, le début de la maison des partenaires, est en Gémeaux, le signe de la conversation, avec l’ascendant Sagittaire. Vous cherchez volontiers quelqu’un qui parle, questionne et entretient votre curiosité, et vous aimez que les accords soient dits clairement. Mercure gouverne la maison : la maison où se trouve Mercure montre où les partenariats commencent."
   - q: "Que veut dire un descendant Gémeaux en amour ?"
     a: "Qu’un esprit vif vous séduit souvent : quelqu’un qui vous répond, remarque ce qui vous a échappé et rit des mêmes choses que vous. Un lien dure tant que dure la conversation. Cela décrit ce que vous cherchez et reconnaissez chez l’autre, jamais qui vous rencontrerez ni quand."
   - q: "Pourquoi ai-je l’ascendant Sagittaire avec les Gémeaux sur la cuspide de la maison 7 ?"

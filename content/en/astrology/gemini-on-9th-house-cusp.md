@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/gemini", "/astrology/9th-house", "/astrology/mercury", "/astrology/libra-rising", "/astrology/sagittarius-on-3rd-house-cusp"]
 faq:
   - q: "What does Gemini on the 9th house cusp mean?"
-    a: "That the house of beliefs, higher study, travel and the search for meaning opens in Gemini. You tend to form views by comparing many, to study and travel widely, and to keep even firm beliefs open to questions. Mercury rules the house, and the house it occupies shows where that search plays out."
+    a: "That the house of beliefs, higher study, travel and the search for meaning opens in Gemini, the sign of questions rather than answers. You tend to form views by comparing many, to study and travel widely, and to keep even firm beliefs open to questions. Mercury rules the house, and the house it occupies shows where that search plays out."
   - q: "What does Gemini on the 9th house cusp say about beliefs and religion?"
     a: "That belief comes to you through questions: several teachers, several books, a habit of asking what the other side thinks. A creed that forbids doubt rarely holds you; one that welcomes it can. It describes how you come to believe, never what you should believe."
   - q: "Is Libra always rising with Gemini on the 9th house cusp?"
-    a: "At the latitudes of London and New York, yes: in Placidus, every chart with Gemini on the 9th cusp has a Libra Ascendant there. Venus rules the chart and Mercury the 9th house, so the way you meet people and the way you look for meaning are read side by side."
+    a: "Yes, at the latitudes of London and New York: every Placidus chart there with Gemini on the 9th cusp has a Libra Ascendant. Venus rules the chart and Mercury the 9th house, so the way you meet people and the way you look for meaning are read side by side."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "Placidus cusps for births spread evenly over a day at London and New York, with the signs that rise alongside" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury as the ruler of Gemini and Virgo, Jupiter of Sagittarius, Venus of Libra" }

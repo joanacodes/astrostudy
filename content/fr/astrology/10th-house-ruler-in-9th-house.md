@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 10", "maison 9", "maîtres des maisons"]
 weight: 2405
 glyph: "✦"
-definition: "Le maître de la maison 10 en maison 9 a franchi le Milieu du Ciel pour entrer dans la maison des études, des voyages et des convictions : votre vocation puise dans les idées, les autres pays et ce qui compte à vos yeux. J’y lis une carrière qui a une philosophie, jamais une prévision du lieu où vous travaillerez."
+definition: "Le maître de la maison 10 en maison 9 a franchi le Milieu du Ciel pour entrer dans la maison des études, des voyages et des convictions : votre vocation puise dans les idées, les autres pays et ce qui compte à vos yeux. Vous cherchez un travail qui ait du sens, où qu’il vous mène."
 facts:
   - { k: "Maître de", v: "La maison 10 : la vocation, le rang, la réputation" }
   - { k: "Placé en", v: "Maison 9 : les études, les voyages, les convictions, l’enseignement" }

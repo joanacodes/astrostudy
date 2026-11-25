@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 9", "maison 1", "maîtres des maisons"]
 weight: 2385
 glyph: "✦"
-definition: "Le maître de la maison 9 en maison 1 place la planète des voyages, des études et des convictions dans la maison du moi : vos horizons lointains se voient dans votre corps, votre voix et votre allure. J’y vois quelqu’un qui cherche, jamais un prêche."
+definition: "Le maître de la maison 9 en maison 1 place la planète des voyages, des études et des convictions dans la maison du moi : vos horizons lointains se voient dans votre corps, votre voix et votre allure. On rencontre vos convictions avant même que vous les disiez."
 facts:
   - { k: "Maître de", v: "La maison 9 : les voyages, les études, les convictions, la quête de sens" }
   - { k: "Placé en", v: "Maison 1 : le corps, l’allure, la première impression" }

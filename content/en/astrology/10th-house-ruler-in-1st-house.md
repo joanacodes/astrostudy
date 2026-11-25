@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 10th in the 1st house"
 h1: "Ruler of the 10th in the 1st house in a birth chart"
-description: "Ruler of the 10th in the 1st house: your Midheaven’s ruler in the house of the self. A vocation carried in person, two angles tied, and no career forecasts."
+description: "Ruler of the 10th in the 1st house: your Midheaven’s ruler in the house of the self. A vocation carried in person, and two angles tied by one planet."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["10th house", "1st house", "house rulers"]
 weight: 2397
 glyph: "✦"
-definition: "The ruler of the 10th in the 1st house is the planet of your Midheaven sitting in the house of the self: vocation and standing are carried in your body, manner and first impressions. Your work looks like you because, in a sense, it is you. I read it as a self-made direction, never as guaranteed success."
+definition: "The ruler of the 10th in the 1st house is the planet of your Midheaven sitting in the house of the self: vocation and standing are carried in your body, manner and first impressions. Your work looks like you because, in a sense, it is you. No outcome comes guaranteed with it."
 facts:
   - { k: "Ruler of", v: "The 10th house: vocation, standing, reputation, public life" }
   - { k: "Placed in", v: "The 1st house: body, manner, first impressions" }

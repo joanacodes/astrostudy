@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Cancer", "maison 3", "cuspides des maisons"]
 weight: 2467
 glyph: "♋"
-definition: "Le Cancer sur la cuspide de la maison 3 fait commencer en Cancer la maison de la pensée quotidienne, de la parole, de l’apprentissage et des proches. Vous écoutez le ton avant les mots et apprenez mieux là où vous vous sentez en sécurité. La Lune gouverne la maison, celle de sa joie."
+definition: "Le Cancer sur la cuspide de la maison 3 donne au signe du soin la maison de la pensée quotidienne, de la parole, de l’apprentissage et des proches. Vous écoutez le ton avant les mots et apprenez mieux là où vous vous sentez en sécurité. La Lune gouverne la maison, celle de sa joie."
 facts:
   - { k: "Signe", v: "Cancer ♋, eau cardinale" }
   - { k: "Cuspide", v: "Maison 3 : la pensée quotidienne, la parole, les frères et sœurs, les petits trajets" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/cancer", "/astrology/3rd-house", "/astrology/moon", "/astrology/planetary-joys", "/astrology/gemini-rising"]
 faq:
   - q: "Que veut dire avoir le Cancer sur la cuspide de la maison 3 ?"
-    a: "Que la maison de la pensée quotidienne, de la parole et de l’apprentissage s’ouvre en Cancer. Vous écoutez le ton, retenez la façon dont les choses ont été dites et apprenez mieux en confiance ; vos messages sont souvent de petits gestes de soin. La Lune gouverne la maison, et sa place montre au service de quoi travaille votre esprit."
+    a: "Que votre pensée de tous les jours, votre parole et vos apprentissages vivent dans le signe du soin. Vous écoutez le ton, retenez la façon dont les choses ont été dites et apprenez mieux en confiance ; vos messages sont souvent de petits gestes de soin. La place de la Lune montre au service de quoi travaille votre esprit."
   - q: "Que dit le Cancer en maison 3 des frères et sœurs ?"
     a: "Il décrit ce que ces liens ont été pour vous : souvent proches et protecteurs, parfois avec vous dans le rôle de celle ou celui qui veillait sur les autres. Il ne peut pas dire qui sont vos frères et sœurs ni ce qu’ils ont ressenti : cela appartient à leur propre thème."
   - q: "Que veut dire la Lune maîtresse de la maison 3 ?"

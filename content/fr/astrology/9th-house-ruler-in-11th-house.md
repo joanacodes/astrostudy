@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 9", "maison 11", "maîtres des maisons"]
 weight: 2395
 glyph: "✦"
-definition: "Le maître de la maison 9 en maison 11 mêle vos études, vos voyages et vos convictions à la vie des amis, des groupes et des espoirs : votre quête de sens rassemble, amitiés à l’étranger, cercles nés autour d’idées et de causes. J’y lis des convictions qui font des amis, jamais le verdict d’un groupe."
+definition: "Le maître de la maison 9 en maison 11 mêle vos études, vos voyages et vos convictions à la vie des amis, des groupes et des espoirs : votre quête de sens rassemble, amitiés à l’étranger, cercles nés autour d’idées et de causes. Vos convictions se font des amis sans cesser d’être les vôtres."
 facts:
   - { k: "Maître de", v: "La maison 9 : les études, les voyages, la philosophie, la foi" }
   - { k: "Placé en", v: "Maison 11 : les amis, les groupes, les réseaux, les espoirs" }
@@ -42,4 +42,4 @@ La tradition plaçait la joie de Jupiter en maison 11 ([joies des planètes](/as
 
 Les Poissons sur la cuspide ([Poissons sur la cuspide de la maison 9](/astrology/pisces-on-9th-house-cusp/)) ajoutent Neptune à Jupiter, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). En maison 11, Neptune rassemble les gens autour d’un idéal commun, une communauté spirituelle ou artistique, et vous demande de garder votre jugement tout en appartenant au groupe. Quand c’est Jupiter qui se trouve ici, l’amitié vient d’abord ; quand c’est Neptune, c’est le rêve.
 
-En Placidus, le système de maisons que j’utilise, la maison 11 occupe le tiers central de la montée du ciel, de l’horizon est au Milieu du Ciel, et les cuspides qui l’encadrent dépendent de la minute et du lieu de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec une heure plus tardive, le maître serait monté en maison 10, et vos convictions passeraient dans la vie publique ([Maître de la maison 9 en maison 10](/astrology/9th-house-ruler-in-10th-house/)). Avec une heure plus précoce, il serait encore en maison 12, où les convictions se vivent dans la solitude ([Maître de la maison 9 en maison 12](/astrology/9th-house-ruler-in-12th-house/)).
+En Placidus, le système de maisons que j’utilise, la maison 11 occupe le tiers central de la montée du ciel, de l’horizon est au Milieu du Ciel, et les cuspides qui l’encadrent dépendent de la minute et du lieu de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec une heure plus tardive, le maître serait monté en maison 10, et vos convictions passeraient dans la vie publique ([Maître de la maison 9 en maison 10](/astrology/9th-house-ruler-in-10th-house/)). Plus tôt, il n’aurait pas encore quitté la maison 12, où les convictions se vivent dans la solitude ([Maître de la maison 9 en maison 12](/astrology/9th-house-ruler-in-12th-house/)).

@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["10th house", "9th house", "house rulers"]
 weight: 2405
 glyph: "✦"
-definition: "The ruler of the 10th in the 9th house has crossed the Midheaven into the house of study, travel and belief, so your vocation draws on ideas, other countries and what you think matters. Teaching, publishing, law and work abroad are common paths. I read it as a career with a philosophy, not a forecast."
+definition: "The ruler of the 10th in the 9th house has crossed the Midheaven into the house of study, travel and belief, so your vocation draws on ideas, other countries and what you think matters. You tend to want work that means something, wherever it takes you."
 facts:
   - { k: "Ruler of", v: "The 10th house: vocation, standing, reputation" }
   - { k: "Placed in", v: "The 9th house: study, travel, belief, teaching" }

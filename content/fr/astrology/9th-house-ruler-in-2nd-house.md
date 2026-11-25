@@ -2,7 +2,7 @@
 title: "Maître de la maison 9 en maison 2"
 slug: "maitre-maison-9-en-maison-2"
 h1: "Maître de la maison 9 en maison 2 dans un thème natal"
-description: "Maître de la maison 9 en maison 2 : votre savoir devient une ressource. Vivre de ce qu’on a appris, les livres comme biens, et aucune prévision d’argent."
+description: "Maître de la maison 9 en maison 2 : votre savoir devient une ressource. Vivre de ce qu’on a appris, les livres comme biens, des idées qui valent leur prix."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 9", "maison 2", "maîtres des maisons"]
 weight: 2386
 glyph: "✦"
-definition: "Avec le maître de la maison 9 en maison 2, ce que vous savez, croyez et avez vu du monde devient une ressource : la planète de vos horizons lointains habite la maison de l’argent, des biens et des valeurs. J’y lis un savoir qui a du prix, jamais une prévision de revenus."
+definition: "Avec le maître de la maison 9 en maison 2, ce que vous savez, croyez et avez vu du monde devient une ressource : la planète de vos horizons lointains habite la maison de l’argent, des biens et des valeurs. Le thème, lui, n’en donne jamais le montant."
 facts:
   - { k: "Maître de", v: "La maison 9 : les études, les voyages, les convictions, l’enseignement" }
   - { k: "Placé en", v: "Maison 2 : l’argent, les biens, les valeurs, l’estime de soi" }

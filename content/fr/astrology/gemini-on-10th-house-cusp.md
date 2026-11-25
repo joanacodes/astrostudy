@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Gémeaux", "maison 10", "cuspides des maisons"]
 weight: 2463
 glyph: "♊"
-definition: "Les Gémeaux sur la cuspide de la maison 10 mettent en Gémeaux votre Milieu du Ciel, là où commence la maison de la vie publique. On vous connaît pour expliquer, relier et vous adapter, souvent dans plus d’un rôle. Aux latitudes de Londres et de New York, l’ascendant est toujours Vierge : Mercure gouverne aussi votre thème."
+definition: "Les Gémeaux sur la cuspide de la maison 10 mettent votre Milieu du Ciel, là où commence la maison de la vie publique, dans le signe de l’échange. On vous connaît pour expliquer, relier et vous adapter, souvent dans plus d’un rôle. Aux latitudes de Londres et de New York, l’ascendant est toujours Vierge : Mercure gouverne aussi votre thème."
 facts:
   - { k: "Signe", v: "Gémeaux ♊, air mutable" }
   - { k: "Cuspide", v: "Maison 10, ouverte par le Milieu du Ciel" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/gemini", "/astrology/10th-house", "/astrology/midheaven", "/astrology/mercury", "/astrology/virgo-rising"]
 faq:
   - q: "Que veut dire avoir les Gémeaux sur la cuspide de la maison 10 ?"
-    a: "Que votre Milieu du Ciel, le début de la maison de la vie publique, est en Gémeaux. On vous connaît volontiers pour expliquer, relier et vous adapter, souvent avec plus d’un rôle en cours. L’ascendant Vierge l’accompagne aux latitudes de Londres et de New York : Mercure gouverne à la fois votre Milieu du Ciel et votre thème."
+    a: "Que votre Milieu du Ciel, le début de la maison de la vie publique, est en Gémeaux, le signe de l’échange. On vous connaît volontiers pour expliquer, relier et vous adapter, souvent dans plus d’un rôle. L’ascendant Vierge l’accompagne aux latitudes de Londres et de New York : Mercure gouverne à la fois votre Milieu du Ciel et votre thème."
   - q: "Quels métiers pour un Milieu du Ciel en Gémeaux ?"
     a: "Aucun Milieu du Ciel ne choisit une profession. Un Milieu du Ciel en Gémeaux décrit un rôle public fait d’échanges, expliquer, relier, informer, s’adapter, qui peut prendre forme dans beaucoup de métiers. Mercure, qui gouverne aussi votre ascendant Vierge, montre par sa maison et son signe où se concentre votre vie de travail."
   - q: "Est-ce que Mercure est le maître de mon thème si mon Milieu du Ciel est en Gémeaux ?"
-    a: "Aux latitudes de Londres et de New York, oui : en Placidus, un Milieu du Ciel en Gémeaux s’accompagne toujours de l’ascendant Vierge, et la Vierge appartient à Mercure. La même planète gouverne alors votre ascendant et votre Milieu du Ciel : votre façon d’aborder les gens et ce pour quoi l’on vous connaît se lisent tous deux à travers Mercure."
+    a: "À Londres et à New York, toujours : à ces latitudes, un Milieu du Ciel en Gémeaux va avec l’ascendant Vierge, et la Vierge appartient à Mercure. La même planète gouverne alors votre ascendant et votre Milieu du Ciel : votre façon d’aborder les gens et ce pour quoi l’on vous connaît se lisent tous deux à travers Mercure."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les cuspides de Placidus pour des naissances réparties sur toute une journée, à Londres et à New York, et les signes qui se lèvent avec elles" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure, maître des Gémeaux et de la Vierge, et son exaltation en Vierge" }

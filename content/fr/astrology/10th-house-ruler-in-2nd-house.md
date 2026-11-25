@@ -2,7 +2,7 @@
 title: "Maître de la maison 10 en maison 2"
 slug: "maitre-maison-10-en-maison-2"
 h1: "Maître de la maison 10 en maison 2 dans un thème natal"
-description: "Maître de la maison 10 en maison 2 : une carrière qui doit reposer sur du solide. Travail, argent et valeurs liés, les maisons de terre, sans prévision."
+description: "Maître de la maison 10 en maison 2 : une carrière qui doit reposer sur du solide. Travail, argent et valeurs liés, et les maisons de terre."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 10", "maison 2", "maîtres des maisons"]
 weight: 2398
 glyph: "✦"
-definition: "Le maître de la maison 10 en maison 2 enracine la planète de votre Milieu du Ciel parmi l’argent, les biens et les valeurs : la vocation et la sécurité se construisent ensemble. Vous voulez un travail qui rapporte quelque chose qui compte pour vous. J’y lis une carrière fondée sur la valeur, jamais une prévision de revenus."
+definition: "Le maître de la maison 10 en maison 2 enracine la planète de votre Milieu du Ciel parmi l’argent, les biens et les valeurs : la vocation et la sécurité se construisent ensemble. Vous voulez un travail qui rapporte quelque chose qui compte pour vous. La valeur passe d’abord ; aucun salaire n’est inscrit dans le thème."
 facts:
   - { k: "Maître de", v: "La maison 10 : la vocation, le rang, la réputation" }
   - { k: "Placé en", v: "Maison 2 : l’argent, les biens, les valeurs, les savoir-faire" }
@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire le maître de la maison 10 en maison 2 ?"
     a: "Votre direction publique est liée à ce que vous gagnez, possédez et estimez. La planète qui gouverne votre Milieu du Ciel se trouve dans la maison de l’argent et des biens : vous bâtissez volontiers une carrière qui construit une sécurité, et vous jugez un travail à sa valeur pour vous autant qu’à ce qu’il rapporte."
   - q: "Le maître de la maison 10 en maison 2 annonce-t-il un gros salaire ?"
-    a: "Aucun thème ne peut dire ce que vous gagnerez. Ce placement décrit le lien entre le travail et l’argent dans votre vie : une vocation qui a besoin d’une base solide, ou des savoir-faire dont on peut vivre. Les chiffres dépendent de vos choix, de votre métier et de votre situation, pas du thème."
+    a: "Aucun thème ne peut dire ce que vous gagnerez. Ce que montre ce placement, c’est le lien qui unit votre travail et votre argent : une vocation qui a besoin d’une base solide, ou des savoir-faire dont on peut vivre. Les sommes viennent de votre métier, de vos choix et de votre situation ; le thème n’en contient aucune."
   - q: "Pourquoi les maisons 2 et 10 sont-elles liées ?"
     a: "Dans le zodiaque naturel, la maison 2 revient au Taureau et la maison 10 au Capricorne, deux signes de terre, et la maison 6, avec la Vierge, complète le trio. Quand le maître de l’une se trouve dans l’autre, ce que vous bâtissez en public et ce sur quoi vous comptez grandissent ensemble."
 sources:
@@ -40,6 +40,6 @@ Le zodiaque naturel donne la maison 2 au Taureau et la maison 10 au Capricorne, 
 
 Ce qu’il ne peut pas dire, c’est combien vous gagnerez, ni quoi en faire : aucun thème ne choisit un placement ni ne prévoit un revenu ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)). Il montre le lien entre votre travail et votre idée de ce qui vaut la peine d’être possédé.
 
-En Placidus, ni la cuspide de la maison 2 ni le Milieu du Ciel ne restent longtemps en place, et un maître proche du bord de la maison 2 peut changer de maison pour une petite correction d’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Plus tard, il pourrait passer en maison 1, où votre travail fait partie de votre personne ([Maître de la maison 10 en maison 1](/astrology/10th-house-ruler-in-1st-house/)). Une heure plus précoce le laisse en maison 3, où le travail bouge et parle ([Maître de la maison 10 en maison 3](/astrology/10th-house-ruler-in-3rd-house/)).
+En Placidus, ni la cuspide de la maison 2 ni le Milieu du Ciel ne restent longtemps en place, et un maître proche du bord de la maison 2 peut changer de maison pour une petite correction d’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Plus tard, il pourrait passer en maison 1, où votre travail fait partie de votre personne ([Maître de la maison 10 en maison 1](/astrology/10th-house-ruler-in-1st-house/)). Plus tôt, il serait resté en maison 3, où le travail bouge et parle ([Maître de la maison 10 en maison 3](/astrology/10th-house-ruler-in-3rd-house/)).
 
 Un Milieu du Ciel en Poissons a deux maîtres, Jupiter et Neptune ([Poissons sur la cuspide de la maison 10](/astrology/pisces-on-10th-house-cusp/)), et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Jupiter en maison 2 partage volontiers ce que le travail rapporte, et préfère la croissance à l’accumulation. Neptune en maison 2 peut brouiller la frontière entre une vocation et un gagne-pain : mieux vaut savoir lequel des deux on paie.

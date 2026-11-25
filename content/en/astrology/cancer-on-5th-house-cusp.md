@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Cancer", "5th house", "house cusps"]
 weight: 2469
 glyph: "♋"
-definition: "Cancer on the 5th house cusp means the house of creativity, pleasure, play and romance opens in Cancer in your birth chart. Joy tends to come from feeling at ease: fun at home, love that grows slowly, things made from memory. The Moon rules the house, and its position shows where your pleasures and loves lead."
+definition: "Cancer on the 5th house cusp means the house of creativity, pleasure, play and romance opens in the sign of home. Joy tends to come from feeling at ease: fun at home, love that grows slowly, things made from memory. The Moon rules the house, and its position shows where your pleasures and loves lead."
 facts:
   - { k: "Sign", v: "Cancer ♋, cardinal water" }
   - { k: "Cusp", v: "The 5th house: creativity, pleasure, play, romance" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/cancer", "/astrology/5th-house", "/astrology/moon", "/astrology/childrens-charts", "/astrology/can-astrology-predict-pregnancy"]
 faq:
   - q: "What does Cancer on the 5th house cusp mean?"
-    a: "That the house of creativity, pleasure, play and romance opens in Cancer. You tend to enjoy what’s shared and familiar, create from memory, and open up in love once you feel safe. The Moon rules the house, and the house it occupies shows where your pleasures and loves tend to lead."
+    a: "That play, pleasure, creativity and romance begin in the sign of home. You tend to enjoy what’s shared and familiar, create from memory, and open up in love once you feel safe. The Moon rules the house, and the house it occupies shows where your pleasures and loves tend to lead."
   - q: "Does Cancer on the 5th house cusp mean I’ll have children?"
     a: "No chart can say that, and I don’t read one for it. Tradition linked the 5th with children and Cancer with nurture, so the question comes up often. What I read here is your own way of playing, creating and loving as an adult: tender, protective and close to home."
   - q: "What does Cancer on the 5th house cusp say about romance?"

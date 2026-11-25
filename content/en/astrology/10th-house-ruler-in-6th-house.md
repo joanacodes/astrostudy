@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["10th house", "6th house", "house rulers"]
 weight: 2402
 glyph: "✦"
-definition: "The ruler of the 10th in the 6th house carries your Midheaven into the working week, so your standing is earned through craft, method and service rather than titles. You’re known for how well the work is done. I read it as a vocation built by practice; health is a doctor’s matter, not this placement’s."
+definition: "The ruler of the 10th in the 6th house carries your Midheaven into the working week, so your standing is earned through craft, method and service rather than titles. You’re known for how well the work is done. Health questions belong with a doctor, not with this placement."
 facts:
   - { k: "Ruler of", v: "The 10th house: vocation, standing, reputation" }
   - { k: "Placed in", v: "The 6th house: daily work, craft, routines, colleagues" }

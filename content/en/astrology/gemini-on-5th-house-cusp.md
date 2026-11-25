@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Gemini", "5th house", "house cusps"]
 weight: 2458
 glyph: "♊"
-definition: "Gemini on the 5th house cusp means your 5th house, where creativity, pleasure, play and romance are read, begins in Gemini. Fun tends to involve words, games and learning for its own sake, and attraction often starts in conversation. Mercury rules the house, and its position shows where your pleasures lead."
+definition: "Gemini on the 5th house cusp means your 5th house, where creativity, pleasure, play and romance are read, begins in Gemini, the sign of wit and questions. Fun tends to involve words, games and learning for its own sake, and attraction often starts in conversation. Mercury rules the house, and its position shows where your pleasures lead."
 facts:
   - { k: "Sign", v: "Gemini ♊, mutable air" }
   - { k: "Cusp", v: "The 5th house: creativity, pleasure, play, romance" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/gemini", "/astrology/5th-house", "/astrology/mercury", "/astrology/capricorn-rising", "/astrology/can-astrology-predict-pregnancy"]
 faq:
   - q: "What does Gemini on the 5th house cusp mean?"
-    a: "That the house of creativity, pleasure, play and romance opens in Gemini. You tend to enjoy what keeps your mind moving: games, puzzles, conversation, several projects at once. Attraction often starts with wit or a long exchange of messages. Mercury rules the house, and its place in your chart shows where your pleasures lead."
+    a: "That your 5th house, the house of creativity, pleasure, play and romance, opens in the sign of wit. You tend to enjoy what keeps your mind moving: games, puzzles, conversation, several projects at once. Attraction often starts with wit or a long exchange of messages. Mercury rules the house, and its place in your chart shows where your pleasures lead."
   - q: "What does Gemini on the 5th house cusp say about love?"
     a: "That romance usually begins in the head: a conversation you don’t want to end, a sense of humour that matches yours. You need a partner you can play with in words, and a love that stays curious. It describes what delights you, not who you’ll meet or when."
   - q: "Does Gemini on the 5th house cusp mean twins?"

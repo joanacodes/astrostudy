@@ -5,6 +5,8 @@ description: "Cancer on the 6th house cusp: a working day run on care and famili
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Placements"]
+tags: ["Cancer", "6th house", "house cusps"]
 weight: 2470
 glyph: "♋"
 definition: "Cancer on the 6th house cusp means the Moon’s sign opens the house of daily work, routines and self-care, so your days run on familiar rhythms and on caring for the people around you. Work goes best where you feel you belong. The Moon rules the house: its position shows what your days serve."
@@ -38,4 +40,4 @@ The [Moon](/astrology/moon/) rules your 6th, and its house shows what your daily
 
 Counting Placidus cusps, the house system I use, about 1 birth in 13 has Cancer on the 6th at London and 1 in 12 at New York: a little under two hours of each day. Here Cancer moves at nearly the pace Capricorn rises on the other side of the chart, which is quick in the north, so this is one of Cancer's rarer cusps. In about 1 London chart in 8, the whole of Leo lies inside the 6th as well, and the Sun adds its warmth to your working days ([intercepted signs](/astrology/intercepted-signs/)).
 
-Tradition gave the 6th illness and called it Bad Fortune. No chart can diagnose or predict a health problem, and questions about your health are for a doctor ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)); I read the 6th for how you work and how you look after yourself, and neither can be placed without the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Illness belonged to the 6th in the old books, which named it Bad Fortune. No chart can diagnose or predict a health problem, and questions about your health are for a doctor ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)); I read the 6th for how you work and how you look after yourself, and neither can be placed without the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).

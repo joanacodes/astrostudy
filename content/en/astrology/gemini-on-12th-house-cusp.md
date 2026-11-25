@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Gemini", "12th house", "house cusps"]
 weight: 2465
 glyph: "♊"
-definition: "Gemini on the 12th house cusp means the house of solitude, rest and inner life opens in Gemini, just above your Ascendant. You tend to think things through in private before you say them, and to quieten a busy mind by writing, reading or walking alone. Mercury rules the house: its position shows where your thinking retreats."
+definition: "Gemini on the 12th house cusp means the house of solitude, rest and inner life opens in Gemini, the sign of talk, just above your Ascendant. You tend to think in private before you speak, and to quieten a busy mind by writing, reading or walking alone. Mercury rules the house: its position shows where your thinking retreats."
 facts:
   - { k: "Sign", v: "Gemini ♊, mutable air" }
   - { k: "Cusp", v: "The 12th house: solitude, rest, inner life" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/gemini", "/astrology/12th-house", "/astrology/mercury", "/astrology/cancer-rising", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "What does Gemini on the 12th house cusp mean?"
-    a: "That the house of solitude, rest and inner life opens in Gemini. Your private life tends to be a mental one: conversations rehearsed, notebooks kept, worries worked out by naming them. Cancer usually rises with it, so the Moon rules your chart while Mercury rules the 12th and shows where you go to think."
+    a: "That the house of solitude, rest and inner life opens in Gemini, the sign of talk. Your private life tends to be a mental one: conversations rehearsed, notebooks kept, worries worked out by naming them. Cancer usually rises with it, so the Moon rules your chart while Mercury rules the 12th and shows where you go to think."
   - q: "Is Gemini on the 12th house cusp a sign of anxiety or overthinking?"
     a: "No placement is a diagnosis, and I don’t read a chart for mental health. Gemini here describes a private mind that’s busy and needs quiet time to sort itself out. If worries grow heavy, a doctor or a therapist is the right person to see, not an astrologer."
   - q: "What does it mean when Mercury rules the 12th house?"
@@ -40,4 +40,4 @@ The [12th house](/astrology/12th-house/) covers what happens out of sight: solit
 
 Gemini opens the 12th for about 1 birth in 13 at London and 1 in 12 at New York, counting Placidus cusps, the house system I use: a little under two hours of each day, because the cusps near the eastern horizon pass through Gemini at almost the speed it rises. The 12th is wide in these charts, about 32° to 41° at London, so Gemini never opens the 11th or the 1st as well, and in about 1 London chart in 9 the whole of Cancer sits inside the 12th too ([intercepted signs](/astrology/intercepted-signs/)). Neither neighbour is yours, then: [Gemini on the 11th house cusp](/astrology/gemini-on-11th-house-cusp/) comes with Leo rising, and [Gemini rising](/astrology/gemini-rising/) would put the sign on the Ascendant itself, a little earlier in the day.
 
-Tradition gave the 12th confinement and hidden enemies. A chart can't diagnose anything, and a busy mind isn't a symptom; what I read and don't read in this house is set out in [astrology and mental health](/astrology/astrology-and-mental-health/). Near the Ascendant, ten minutes either way can decide whether a planet belongs to this house or to the 1st, which is why every reading I give starts from a checked birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The old books filled the 12th with confinement and hidden enemies. A chart can't diagnose anything, and a busy mind isn't a symptom; what I read and don't read in this house is set out in [astrology and mental health](/astrology/astrology-and-mental-health/). Near the Ascendant, ten minutes either way can decide whether a planet belongs to this house or to the 1st, which is why every reading I give starts from a checked birth time ([what changes without a birth time](/blog/unknown-birth-time/)).

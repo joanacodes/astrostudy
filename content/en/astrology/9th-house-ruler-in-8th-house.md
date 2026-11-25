@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["9th house", "8th house", "house rulers"]
 weight: 2392
 glyph: "✦"
-definition: "The ruler of the 9th in the 8th house plunges your search for meaning into intimacy, trust and what you share, so your convictions come out of what you’ve lived through with others. They hold because they were tested. I read it as belief forged in depth, never as a forecast of loss."
+definition: "The ruler of the 9th in the 8th house plunges your search for meaning into intimacy, trust and what you share, so your convictions come out of what you’ve lived through with others. They hold because they were tested. The placement predicts neither loss nor death."
 facts:
   - { k: "Ruler of", v: "The 9th house: study, travel, philosophy, faith" }
   - { k: "Placed in", v: "The 8th house: intimacy, trust, joint money and debts" }

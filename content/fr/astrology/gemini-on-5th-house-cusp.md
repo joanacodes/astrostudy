@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Gémeaux", "maison 5", "cuspides des maisons"]
 weight: 2458
 glyph: "♊"
-definition: "Les Gémeaux sur la cuspide de la maison 5 font commencer en Gémeaux votre maison de la créativité, du plaisir, du jeu et de la romance. Le plaisir passe volontiers par les mots, les jeux et l’envie d’apprendre pour rien, et l’attirance naît souvent d’une conversation. Mercure gouverne la maison : sa place montre où mènent vos plaisirs."
+definition: "Les Gémeaux sur la cuspide de la maison 5 font commencer votre maison de la créativité, du plaisir, du jeu et de la romance dans le signe de l’esprit et des questions. Le plaisir passe par les mots, les jeux et l’envie d’apprendre, et l’attirance naît souvent d’une conversation. Mercure gouverne la maison : sa place montre où mènent vos plaisirs."
 facts:
   - { k: "Signe", v: "Gémeaux ♊, air mutable" }
   - { k: "Cuspide", v: "Maison 5 : la créativité, le plaisir, le jeu, la romance" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/gemini", "/astrology/5th-house", "/astrology/mercury", "/astrology/capricorn-rising", "/astrology/can-astrology-predict-pregnancy"]
 faq:
   - q: "Que veut dire avoir les Gémeaux sur la cuspide de la maison 5 ?"
-    a: "Que la maison de la créativité, du plaisir, du jeu et de la romance s’ouvre en Gémeaux. Vous aimez ce qui fait bouger l’esprit : les jeux, les énigmes, la conversation, plusieurs projets à la fois. L’attirance commence souvent par l’humour ou un long échange de messages. Mercure gouverne la maison, et sa place montre où mènent vos plaisirs."
+    a: "Que votre maison 5, celle de la créativité, du plaisir, du jeu et de la romance, s’ouvre dans le signe de l’esprit. Vous aimez ce qui fait bouger l’esprit : les jeux, les énigmes, la conversation, plusieurs projets à la fois. L’attirance naît souvent de l’humour. Mercure gouverne la maison, et sa place montre où mènent vos plaisirs."
   - q: "Que disent les Gémeaux en maison 5 de la vie amoureuse ?"
     a: "Que la romance commence le plus souvent par la tête : une conversation que vous n’avez pas envie de finir, un humour qui répond au vôtre. Il vous faut quelqu’un avec qui jouer avec les mots, et un amour qui reste curieux. Cela décrit ce qui vous enchante, pas qui vous rencontrerez ni quand."
   - q: "Les Gémeaux en maison 5 annoncent-ils des jumeaux ?"

@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["10th house", "house rulers"]
 weight: 2406
 glyph: "✦"
-definition: "The ruler of the 10th in the 10th house keeps the planet of your Midheaven in its own house, so your vocation takes orders from no other part of the chart. You tend to steer your public life yourself, and to keep steering. I read it as a strong sense of direction, never as a promise of rank."
+definition: "The ruler of the 10th in the 10th house keeps the planet of your Midheaven in its own house, so your vocation takes orders from no other part of the chart. You tend to steer your public life yourself, and to keep steering. Rank is not promised, only a clear sense of where you’re heading."
 facts:
   - { k: "Ruler of", v: "The 10th house: vocation, standing, reputation" }
   - { k: "Placed in", v: "The 10th house, its own, near the Midheaven" }
@@ -36,7 +36,7 @@ Every house has a ruler, and the 10th takes its ruler from the sign on the [Midh
 
 Direction is the gift here. People with this placement tend to know early what they want to be known for, or to find out by doing it, and they prefer to climb their own hill rather than someone else's ladder. A ruler here is close to the Midheaven, among the most visible places in a chart, so what it describes is often what people see first ([angular planets](/astrology/angular-planets/)). Changes of direction tend to come from inside rather than from circumstance: when you change course, it’s usually because you decided to. What it can crowd out is the rest of a life. When the public self has its own ruler at home, the private self can go short of attention, and a career that answers to nothing else can forget to ask what it's for.
 
-A ruler in its own house often stands in its own sign too. Mercury, ruling a Virgo Midheaven from the 10th, may be in Virgo, the only sign where a planet is both at home and exalted ([domicile](/astrology/domicile/)): a public life built on skill, precision and usefulness. But Placidus houses don't follow the signs exactly, and Mars, ruling an Aries Midheaven, can sit later in the 10th in Taurus, its detriment: ambition pursued slowly and stubbornly, in a manner Mars has to learn.
+Lying in the degrees just after the Midheaven’s, the ruler is often in the Midheaven’s own sign as well, and so in a sign it rules. Mercury, ruling a Virgo Midheaven from the 10th, may be in Virgo, the only sign where a planet is both at home and exalted ([domicile](/astrology/domicile/)): a public life built on skill, precision and usefulness. But Placidus houses don't follow the signs exactly, and Mars, ruling an Aries Midheaven, can sit later in the 10th in Taurus, its detriment: ambition pursued slowly and stubbornly, in a manner Mars has to learn.
 
 The Midheaven turns through the whole zodiac in a day, so a ruler near it can cross with a small change in the time ([what changes without a birth time](/blog/unknown-birth-time/)). Over the top, it would sit in the 9th, where the work leans on ideas, study and other countries ([Ruler of the 10th in the 9th house](/astrology/10th-house-ruler-in-9th-house/)). Further from the top, earlier in its climb, it would be in the 11th, among the networks and causes your work is built with ([Ruler of the 10th in the 11th house](/astrology/10th-house-ruler-in-11th-house/)).
 

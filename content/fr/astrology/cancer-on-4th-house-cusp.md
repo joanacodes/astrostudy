@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/cancer", "/astrology/4th-house", "/astrology/imum-coeli", "/astrology/moon", "/astrology/capricorn-on-10th-house-cusp"]
 faq:
   - q: "Que veut dire avoir le Cancer sur la cuspide de la maison 4 ?"
-    a: "Que votre Fond du Ciel, où commence la maison du foyer et des racines, est en Cancer, le signe propre de cette maison. Le foyer est souvent un refuge que vous entretenez, plein de souvenirs, et vous vous ressourcez parmi des gens et des choses familiers. La Lune gouverne la maison : sa place montre où mène votre besoin d’appartenance."
+    a: "Que la base de votre thème, le Fond du Ciel, se trouve dans le signe propre de la maison 4. Le foyer est souvent un refuge que vous entretenez, plein de souvenirs, et vous vous ressourcez parmi des gens et des choses familiers. La Lune gouverne la maison : sa place montre où mène votre besoin d’appartenance."
   - q: "Un Fond du Ciel en Cancer, est-ce bien ?"
     a: "Ce n’est ni bien ni mal : c’est la maison 4 dans son propre signe, et le foyer, l’appartenance et la mémoire pèsent beaucoup dans votre vie privée. Cela peut être une source de force profonde, et cela peut rendre plus difficiles les changements à la maison. Tout dépend du signe, de la maison et des aspects de la Lune."
   - q: "Que dit un Fond du Ciel en Cancer de ma mère ?"

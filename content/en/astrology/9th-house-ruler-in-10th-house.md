@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 9th in the 10th house"
 h1: "Ruler of the 9th in the 10th house in a birth chart"
-description: "Ruler of the 9th in the 10th house: beliefs that become a vocation, near the Midheaven. Teaching, law, one sign on two cusps, and no career forecasts."
+description: "Ruler of the 9th in the 10th house: beliefs that become a vocation, near the Midheaven. Teaching, law, publishing, and one sign spanning two cusps."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"

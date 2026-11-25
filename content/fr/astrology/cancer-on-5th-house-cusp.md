@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Cancer", "maison 5", "cuspides des maisons"]
 weight: 2469
 glyph: "♋"
-definition: "Le Cancer sur la cuspide de la maison 5 ouvre en Cancer la maison de la créativité, du plaisir, du jeu et de la romance. La joie vient quand vous vous sentez à l’aise : le plaisir chez soi, l’amour qui grandit lentement, ce que l’on crée de mémoire. La Lune gouverne la maison : sa place montre où mènent vos plaisirs."
+definition: "Le Cancer sur la cuspide de la maison 5 ouvre la maison de la créativité, du plaisir, du jeu et de la romance dans le signe du foyer. La joie vient quand vous vous sentez à l’aise : le plaisir chez soi, l’amour qui grandit lentement. La Lune gouverne la maison : sa place montre où mènent vos plaisirs."
 facts:
   - { k: "Signe", v: "Cancer ♋, eau cardinale" }
   - { k: "Cuspide", v: "Maison 5 : la créativité, le plaisir, le jeu, la romance" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/cancer", "/astrology/5th-house", "/astrology/moon", "/astrology/childrens-charts", "/astrology/can-astrology-predict-pregnancy"]
 faq:
   - q: "Que veut dire avoir le Cancer sur la cuspide de la maison 5 ?"
-    a: "Que la maison de la créativité, du plaisir, du jeu et de la romance s’ouvre en Cancer. Vous aimez ce qui se partage et se retrouve, créez à partir de vos souvenirs et vous ouvrez en amour une fois en confiance. La Lune gouverne la maison, et sa place montre où mènent vos plaisirs et vos amours."
+    a: "Que le jeu, le plaisir, la créativité et la romance commencent dans le signe du foyer. Vous aimez ce qui se partage et se retrouve, créez à partir de vos souvenirs et vous ouvrez en amour une fois en confiance. La Lune gouverne la maison, et sa place montre où mènent vos plaisirs et vos amours."
   - q: "Le Cancer en maison 5 veut-il dire que j’aurai des enfants ?"
     a: "Aucun thème ne peut le dire, et je n’en lis aucun pour cela. La tradition reliait la maison 5 aux enfants et le Cancer au soin, d’où la question fréquente. Ce que je lis ici, c’est votre façon de jouer, de créer et d’aimer en adulte : tendre, protectrice, proche du foyer."
   - q: "Que dit le Cancer en maison 5 de la vie amoureuse ?"

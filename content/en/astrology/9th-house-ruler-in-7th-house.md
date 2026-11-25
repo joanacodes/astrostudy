@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 9th in the 7th house"
 h1: "Ruler of the 9th in the 7th house in a birth chart"
-description: "Ruler of the 9th in the 7th house: meaning found through a partner, a teacher or a rival. Love across borders, contracts, and what no chart can predict."
+description: "Ruler of the 9th in the 7th house: meaning found through a partner, a teacher or a rival. Love across borders, contracts, and the courts."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["9th house", "7th house", "house rulers"]
 weight: 2391
 glyph: "✦"
-definition: "The ruler of the 9th in the 7th house sets your far horizons opposite the Ascendant, on the side of partners and one-to-one bonds. Meaning tends to come through another person: a partner from elsewhere, a teacher, a rival. I read it as a search shared, never as a marriage forecast."
+definition: "The ruler of the 9th in the 7th house sets your far horizons opposite the Ascendant, on the side of partners and one-to-one bonds. Meaning tends to come through another person: a partner from elsewhere, a teacher, a rival. Whether or whom you marry is not written here."
 facts:
   - { k: "Ruler of", v: "The 9th house: study, travel, philosophy, belief" }
   - { k: "Placed in", v: "The 7th house: partners, contracts, open rivals" }

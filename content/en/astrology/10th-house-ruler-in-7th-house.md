@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 10th in the 7th house"
 h1: "Ruler of the 10th in the 7th house in a birth chart"
-description: "Ruler of the 10th in the 7th house: a public life built with partners and clients. Working as a pair, one-to-one work, and what no chart can forecast."
+description: "Ruler of the 10th in the 7th house: a public life built with partners and clients. Working as a pair, open rivals, and the public met one at a time."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["10th house", "7th house", "house rulers"]
 weight: 2403
 glyph: "✦"
-definition: "The ruler of the 10th in the 7th house lodges the planet of your Midheaven in the Descendant’s house, among partners, clients and open rivals. Your vocation is built with or through other people: a business partner, the public met one person at a time. I read it as a career made in company, not a forecast."
+definition: "The ruler of the 10th in the 7th house lodges the planet of your Midheaven in the Descendant’s house, among partners, clients and open rivals. Your vocation is built with or through other people: a business partner, the public met one person at a time. The partners themselves are yours to choose."
 facts:
   - { k: "Ruler of", v: "The 10th house: vocation, standing, reputation" }
   - { k: "Placed in", v: "The 7th house: partners, clients, contracts, open rivals" }

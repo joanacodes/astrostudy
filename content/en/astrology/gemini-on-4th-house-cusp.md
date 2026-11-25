@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/gemini", "/astrology/4th-house", "/astrology/imum-coeli", "/astrology/mercury", "/astrology/sagittarius-on-10th-house-cusp"]
 faq:
   - q: "What does Gemini on the 4th house cusp mean?"
-    a: "It means your IC, the base of the chart and the start of the house of home and roots, is in Gemini. Home tends to be a place of talk, reading and coming and going, and you rest by changing what you think about rather than by stopping. Mercury rules the house, and its position shows where home life leads."
+    a: "It means your IC, the start of the house of home and roots, is in Gemini, the sign of talk. Home tends to be a place of talk, reading and coming and going, and you rest by changing what you think about rather than by stopping. Mercury rules the house, and its position shows where home life leads."
   - q: "Does a Gemini IC mean moving house a lot?"
     a: "Not as a forecast. A Gemini IC describes a need for movement and variety in private life, which some people meet by moving and many meet with visitors, books, a change of room or a second base. How often you move depends on your life, which no chart decides."
   - q: "Why is Sagittarius always on my Midheaven with a Gemini IC?"

@@ -2,7 +2,7 @@
 title: "Maître de la maison 10 en maison 5"
 slug: "maitre-maison-10-en-maison-5"
 h1: "Maître de la maison 10 en maison 5 dans un thème natal"
-description: "Maître de la maison 10 en maison 5 : quand le travail qui vous fait connaître doit réjouir. Créer, se produire, la joie de Vénus, rien sur les enfants."
+description: "Maître de la maison 10 en maison 5 : quand le travail qui vous fait connaître doit réjouir. Créer, se produire, la joie de Vénus, le Soleil chez lui."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 10", "maison 5", "maîtres des maisons"]
 weight: 2401
 glyph: "✦"
-definition: "Le maître de la maison 10 en maison 5 confie les affaires de votre Milieu du Ciel à la maison de la création, du jeu et des amours : le travail pour lequel on vous connaît doit apporter de la joie. Se produire, fabriquer, jouer. J’y lis une vocation qui a besoin de plaisir, sans rien dire des enfants."
+definition: "Le maître de la maison 10 en maison 5 confie les affaires de votre Milieu du Ciel à la maison de la création, du jeu et des amours : le travail pour lequel on vous connaît doit apporter de la joie. Se produire, fabriquer, jouer. Les enfants, eux, sont une autre question."
 facts:
   - { k: "Maître de", v: "La maison 10 : la vocation, le rang, la réputation" }
   - { k: "Placé en", v: "Maison 5 : la création, le jeu, le plaisir, les amours" }
@@ -38,7 +38,7 @@ Le travail doit vous réjouir, sinon il ne dure pas. Beaucoup de personnes qui o
 
 Des sept planètes traditionnelles, c’est Vénus qui trouve sa joie en maison 5 ([joies des planètes](/astrology/planetary-joys/)). Avec le Taureau ou la Balance au Milieu du Ciel, Vénus gouverne la maison 10, et en maison 5 elle se tient là où, selon la tradition, la planète du plaisir était heureuse d’être : une vie publique bâtie sur le goût, le charme et l’art de faire passer un bon moment ([Vénus en maison 5](/astrology/venus-in-5th-house/)). Le Soleil, maître d’un Milieu du Ciel en Lion, occupe ici la maison du Lion dans le zodiaque naturel, et veut qu’on le voie faire ce qu’il aime.
 
-Les anciennes listes de maisons rangeaient aussi les enfants en maison 5. Ce placement ne dit pas si vous en aurez, et aucun thème ne le peut ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)) ; si vous travaillez un jour avec des jeunes, c’est que vous l’avez choisi. Je lis la maison 5 dans une vie d’adulte, et je ne lis pas [le thème des enfants](/astrology/childrens-charts/).
+Les anciennes listes de maisons rangeaient aussi les enfants en maison 5. Ce placement ne dit pas si vous en aurez, et aucun thème ne le peut ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)) ; si vous travaillez un jour avec des jeunes, c’est que vous l’avez choisi. C’est la maison 5 d’une vie d’adulte que je lis ici ; [le thème des enfants](/astrology/childrens-charts/), je n’y touche pas.
 
 Placidus range la maison 5 dans la moitié sombre du thème, sous l’horizon ouest, et la minute de naissance en fixe les bords ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Quelques minutes plus tard, la maison 4 accueillerait ce maître, et le travail prendrait racine au foyer ([Maître de la maison 10 en maison 4](/astrology/10th-house-ruler-in-4th-house/)). Quelques minutes plus tôt, il serait en maison 6, où une vocation se bâtit par le savoir-faire de chaque jour ([Maître de la maison 10 en maison 6](/astrology/10th-house-ruler-in-6th-house/)).
 

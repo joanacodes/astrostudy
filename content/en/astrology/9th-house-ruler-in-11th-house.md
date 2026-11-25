@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["9th house", "11th house", "house rulers"]
 weight: 2395
 glyph: "✦"
-definition: "The ruler of the 9th in the 11th house mixes your studies, travels and beliefs into the life of friends, groups and hopes, so your search for meaning gathers people: friends from abroad, circles built around ideas and causes. I read it as belief that makes friends, never as a crowd’s verdict."
+definition: "The ruler of the 9th in the 11th house mixes your studies, travels and beliefs into the life of friends, groups and hopes, so your search for meaning gathers people: friends from abroad, circles built around ideas and causes. Your convictions make friends and still stay your own when the group disagrees."
 facts:
   - { k: "Ruler of", v: "The 9th house: study, travel, philosophy, faith" }
   - { k: "Placed in", v: "The 11th house: friends, groups, networks, hopes" }

@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 10", "maison 3", "maîtres des maisons"]
 weight: 2399
 glyph: "✦"
-definition: "Le maître de la maison 10 en maison 3 ramène les affaires de votre Milieu du Ciel aux conversations, aux petits trajets, à l’écrit et aux premières leçons : votre vocation se bâtit avec des mots et des liens proches. Mille petits échanges font la réputation. J’y lis un rôle public fait de conversations, jamais un intitulé de poste figé."
+definition: "Le maître de la maison 10 en maison 3 ramène les affaires de votre Milieu du Ciel aux conversations, aux petits trajets, à l’écrit et aux premières leçons : votre vocation se bâtit avec des mots et des liens proches. Mille petits échanges font la réputation, et l’intitulé du poste compte moins que vos interlocuteurs."
 facts:
   - { k: "Maître de", v: "La maison 10 : la vocation, le rang, la réputation" }
   - { k: "Placé en", v: "Maison 3 : la parole, l’écrit, les petits trajets, la fratrie, le voisinage" }

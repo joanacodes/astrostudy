@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 9", "maîtres des maisons"]
 weight: 2393
 glyph: "✦"
-definition: "Le maître de la maison 9 en maison 9 se tient dans sa propre maison : la planète des études, des voyages et des convictions ne répond à aucune autre partie du thème. Vous choisissez vous-même vos professeurs, vos livres et vos destinations. J’y lis une quête indépendante, jamais un esprit fermé, même si elle a besoin de contradicteurs."
+definition: "Le maître de la maison 9 en maison 9 se tient dans sa propre maison : la planète des études, des voyages et des convictions ne répond à aucune autre partie du thème. Vous choisissez vous-même vos professeurs, vos livres et vos destinations. L’indépendance est le don ; quelques voix contraires la gardent honnête."
 facts:
   - { k: "Maître de", v: "La maison 9 : les études, les voyages, la philosophie, la foi" }
   - { k: "Placé en", v: "Maison 9, la sienne" }

@@ -2,7 +2,7 @@
 title: "Maître de la maison 9 en maison 10"
 slug: "maitre-maison-9-en-maison-10"
 h1: "Maître de la maison 9 en maison 10 dans un thème natal"
-description: "Maître de la maison 9 en maison 10 : des convictions devenues vocation, près du Milieu du Ciel. Un signe sur deux cuspides, et aucune prévision de carrière."
+description: "Maître de la maison 9 en maison 10 : des convictions devenues vocation, près du Milieu du Ciel. Enseigner, plaider, publier, et un signe sur deux cuspides."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"

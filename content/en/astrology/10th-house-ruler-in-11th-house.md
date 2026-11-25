@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 10th in the 11th house"
 h1: "Ruler of the 10th in the 11th house in a birth chart"
-description: "Ruler of the 10th in the 11th house: a career built with friends, networks and causes. Colleagues as allies, Saturn’s two signs, and no forecasts."
+description: "Ruler of the 10th in the 11th house: a career built with friends, networks and causes. Colleagues as allies, Saturn’s two signs, Uranus at home."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["10th house", "11th house", "house rulers"]
 weight: 2407
 glyph: "✦"
-definition: "The ruler of the 10th in the 11th house ties your Midheaven to friends, networks and shared hopes, so the work you’re known for is built with others and often for a cause. Your colleagues become allies. I read it as a vocation in good company, never as a promise that connections bring success."
+definition: "The ruler of the 10th in the 11th house ties your Midheaven to friends, networks and shared hopes, so the work you’re known for is built with others and often for a cause. Your colleagues become allies. No network can promise success, but yours tends to share the work and its purpose."
 facts:
   - { k: "Ruler of", v: "The 10th house: vocation, standing, reputation" }
   - { k: "Placed in", v: "The 11th house: friends, groups, networks, hopes" }
@@ -37,7 +37,7 @@ Your vocation keeps good company. Careers here tend to run on networks: the job 
 
 The 11th follows the 10th the way a team follows a decision: what you start in public, the 11th carries on with other people. Many people with this placement find that their most lasting work is the network itself, the group still meeting long after the project that brought it together.
 
-Saturn makes a particular link here. With Capricorn on the Midheaven and Aquarius on the 11th cusp, Saturn rules both houses by tradition, those being its two signs, and a Saturn in the 11th sits in a house it rules: career and community answer to one patient planet ([Saturn](/astrology/saturn/)). Venus, ruling a Taurus or Libra Midheaven from here, makes work out of friendship and shared taste. The Moon, ruling a Cancer Midheaven, makes a community feel like family.
+Saturn makes a particular link here. With Capricorn on the Midheaven and Aquarius on the 11th cusp, Saturn rules both houses by tradition, those being its two signs, and a Saturn in the 11th sits in a house it rules: career and community answer to one patient planet ([Saturn](/astrology/saturn/)). Venus, ruling a Taurus or Libra Midheaven from here, makes work out of friendship and shared taste. The Moon, ruling a Cancer Midheaven, gives colleagues something of a household’s warmth.
 
 Like everything between the eastern horizon and the Midheaven, this ruler was still rising through the sky at your birth, and the minute decides how far it had got ([what changes without a birth time](/blog/unknown-birth-time/)). Had it got further, it would sit in the 10th, its own house, at the helm of your public life ([Ruler of the 10th in the 10th house](/astrology/10th-house-ruler-in-10th-house/)). Not so far, and it would be in the 12th, where your work happens out of sight ([Ruler of the 10th in the 12th house](/astrology/10th-house-ruler-in-12th-house/)).
 

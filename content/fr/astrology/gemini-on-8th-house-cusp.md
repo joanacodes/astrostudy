@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Gémeaux", "maison 8", "cuspides des maisons"]
 weight: 2461
 glyph: "♊"
-definition: "Les Gémeaux sur la cuspide de la maison 8 font s’ouvrir en Gémeaux la maison de la confiance, de l’intimité et des ressources partagées. Vous avez besoin de comprendre avant de laisser quelqu’un approcher, et de parler de ce qui est mis en commun. Mercure gouverne la maison : sa place montre où se posent ces questions de confiance."
+definition: "Les Gémeaux sur la cuspide de la maison 8 font s’ouvrir la maison de la confiance, de l’intimité et des ressources partagées dans le signe des questions. Vous avez besoin de comprendre avant de laisser quelqu’un approcher, et de parler de ce qui se partage. Mercure gouverne la maison : sa place montre où se posent ces questions de confiance."
 facts:
   - { k: "Signe", v: "Gémeaux ♊, air mutable" }
   - { k: "Cuspide", v: "Maison 8 : la confiance, l’intimité, les ressources partagées" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/gemini", "/astrology/8th-house", "/astrology/mercury", "/astrology/scorpio-rising", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "Que veut dire avoir les Gémeaux sur la cuspide de la maison 8 ?"
-    a: "Que la maison de la confiance, de l’intimité et des ressources partagées s’ouvre en Gémeaux. Vous faites confiance à ce que vous comprenez, posez les questions que d’autres évitent, et parlez ouvertement de l’argent commun et de ce que chacun doit. Mercure gouverne la maison : sa place montre où se posent les questions de confiance."
+    a: "Que la maison de la confiance, de l’intimité et des ressources partagées s’ouvre dans le signe des questions. Vous faites confiance à ce que vous comprenez, posez les questions que d’autres évitent, et parlez ouvertement de l’argent commun et de ce que chacun doit. Mercure gouverne la maison : sa place montre où se posent les questions de confiance."
   - q: "Que disent les Gémeaux en maison 8 de l’intimité ?"
     a: "Que la proximité grandit par la conversation : vous voulez comprendre une personne avant de la laisser entrer dans votre vie, et pouvoir dire ce que vous ressentez et désirez. Parler est ici la façon de bâtir la confiance, pas de garder ses distances. La maison de Mercure montre où ces liens sont mis à l’épreuve et se renforcent."
   - q: "La cuspide de la maison 8 dit-elle quelque chose de la mort ou d’un héritage ?"

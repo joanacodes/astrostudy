@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["9th house", "house rulers"]
 weight: 2393
 glyph: "✦"
-definition: "The ruler of the 9th in the 9th house stands in its own house, so the planet of study, travel and belief answers to no other house. The search for meaning is self-led: you choose your teachers, books and destinations. I read it as an independent seeker, never a closed mind, though it needs people who disagree."
+definition: "The ruler of the 9th in the 9th house stands in its own house, so the planet of study, travel and belief answers to no other house. The search for meaning is self-led: you choose your teachers, books and destinations. Independence is the gift; a few people who disagree with you keep it honest."
 facts:
   - { k: "Ruler of", v: "The 9th house: study, travel, philosophy, faith" }
   - { k: "Placed in", v: "The 9th house, its own" }

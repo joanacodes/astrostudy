@@ -5,6 +5,8 @@ description: "Cancer on the 8th house cusp: trust that needs safety first, money
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Placements"]
+tags: ["Cancer", "8th house", "house cusps"]
 weight: 2472
 glyph: "♋"
 definition: "With Cancer on the 8th house cusp, the part of your chart that deals with trust, intimacy and money held in common begins in the sign of protection. You let people close once you feel safe, and then you defend what you hold together. The Moon rules the house, and its position shows where trust is built."
@@ -18,7 +20,7 @@ facts:
 related: ["/astrology/cancer", "/astrology/8th-house", "/astrology/moon", "/astrology/sagittarius-rising", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "What does Cancer on the 8th house cusp mean?"
-    a: "That the house of trust, intimacy and money in common opens in the sign that guards its own. You let people close once you feel safe, then hold the bond like a household and remember both kindness and betrayal. The Moon rules the house, and its position shows where questions of trust arise."
+    a: "That trust, intimacy and money in common are handled in the sign that guards its own. You let people close once you feel safe, then hold the bond like a household and remember both kindness and betrayal. The Moon’s position shows where questions of trust arise."
   - q: "What does Cancer on the 8th house cusp say about shared money?"
     a: "That shared resources tend to feel like family matters: you want the household to be safe, and you protect what’s held in common. It describes how you handle joint money, debts and trust, never what you’ll gain or lose. The Moon’s house shows where those questions come up."
   - q: "Does Cancer on the 8th house cusp mean an inheritance from family?"

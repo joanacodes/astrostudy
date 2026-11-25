@@ -2,7 +2,7 @@
 title: "Maître de la maison 9 en maison 7"
 slug: "maitre-maison-9-en-maison-7"
 h1: "Maître de la maison 9 en maison 7 dans un thème natal"
-description: "Maître de la maison 9 en maison 7 : le sens trouvé par un partenaire, un maître ou un rival. Aimer au-delà des frontières, les contrats, et leurs limites."
+description: "Maître de la maison 9 en maison 7 : le sens trouvé par un partenaire, un maître ou un rival. Aimer au-delà des frontières, les contrats, les tribunaux."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 9", "maison 7", "maîtres des maisons"]
 weight: 2391
 glyph: "✦"
-definition: "Le maître de la maison 9 en maison 7 installe vos horizons lointains face à l’ascendant, du côté des partenaires et des liens en tête-à-tête. Le sens passe souvent par une autre personne : un partenaire venu d’ailleurs, une enseignante, un rival. J’y lis une quête partagée, jamais une prévision de mariage."
+definition: "Le maître de la maison 9 en maison 7 installe vos horizons lointains face à l’ascendant, du côté des partenaires et des liens en tête-à-tête. Le sens passe souvent par une autre personne : un partenaire venu d’ailleurs, une enseignante, un rival. Le thème ne dit ni si ni avec qui vous vous marierez."
 facts:
   - { k: "Maître de", v: "La maison 9 : les études, les voyages, la philosophie, les convictions" }
   - { k: "Placé en", v: "Maison 7 : les partenaires, les contrats, les adversaires déclarés" }
@@ -38,6 +38,6 @@ Le sens, ici, se cherche à deux. Les personnes qui ont ce placement s’éprenn
 
 La maison 7 est aussi celle des contrats et de l’adversaire que l’on voit venir, et les anciennes listes de l’astrologie horaire plaçaient les juristes, avec les autres professions savantes, en maison 9. Avec ce maître, les accords, les négociations et les différends tournent souvent autour de principes, et certaines personnes trouvent leur voie dans le droit, la médiation ou la diplomatie. Un thème ne peut pas dire comment finira un procès, ni si une association durera ([L’astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)) ; il décrit ce que vous apportez à la table.
 
-En Placidus, le système de maisons que j’utilise, la maison 7 s’ouvre au descendant, le degré qui se couchait à l’ouest, et un maître placé dans cette maison se trouvait encore au-dessus de l’horizon à votre naissance, en route vers le point où il allait se coucher. Une heure exacte décide s’il l’avait déjà franchi ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Un peu plus tard, sous le descendant, en maison 6, vos convictions se mettraient au travail, jour après jour ([Maître de la maison 9 en maison 6](/astrology/9th-house-ruler-in-6th-house/)). Un peu plus tôt, plus haut, en maison 8, elles seraient mises à l’épreuve dans l’intimité et dans ce que vous partagez ([Maître de la maison 9 en maison 8](/astrology/9th-house-ruler-in-8th-house/)).
+En Placidus, le système de maisons que j’utilise, la maison 7 s’ouvre au descendant, le degré qui se couchait à l’ouest, et un maître placé dans cette maison se trouvait encore au-dessus de l’horizon à votre naissance, en route vers le point où il allait se coucher. Une heure exacte décide s’il l’avait déjà franchi ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Plus tard, le maître aurait déjà plongé sous le descendant, dans la maison 6, et vos convictions se mettraient au travail, jour après jour ([Maître de la maison 9 en maison 6](/astrology/9th-house-ruler-in-6th-house/)). Un peu plus tôt, plus haut, en maison 8, elles seraient mises à l’épreuve dans l’intimité et dans ce que vous partagez ([Maître de la maison 9 en maison 8](/astrology/9th-house-ruler-in-8th-house/)).
 
 Saturne est l’un des deux maîtres d’une maison 9 en Verseau, avec Uranus ([Verseau sur la cuspide de la maison 9](/astrology/aquarius-on-9th-house-cusp/)), et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). En maison 7, Saturne se tient dans la maison que le zodiaque naturel donne à la Balance, son signe d’exaltation, et prend les engagements au sérieux : le partenaire choisi lentement, la promesse tenue, l’enseignante dont vous entendez encore les exigences ([Saturne en maison 7](/astrology/saturn-in-7th-house/)). Uranus en maison 7 veut une relation où l’on respire, et souvent un partenaire qui pense très différemment de vous.

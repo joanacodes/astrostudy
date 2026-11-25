@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 9", "maison 3", "maîtres des maisons"]
 weight: 2387
 glyph: "✦"
-definition: "Le maître de la maison 9 en maison 3 envoie la planète de l’horizon lointain dans la maison de l’horizon proche : études supérieures, voyages et convictions se travaillent dans les conversations, les petits trajets et les premières leçons. J’y lis un don pour traduire les idées, pas un esprit à l’étroit."
+definition: "Le maître de la maison 9 en maison 3 envoie la planète de l’horizon lointain dans la maison de l’horizon proche : études supérieures, voyages et convictions se travaillent dans les conversations, les petits trajets et les premières leçons. C’est souvent vous qui expliquez les grandes idées à votre entourage."
 facts:
   - { k: "Maître de", v: "La maison 9 : les études supérieures, les longs voyages, les convictions" }
   - { k: "Placé en", v: "Maison 3 : les conversations, les petits trajets, la fratrie, les premières leçons" }
@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, la maison 9 appelée le Dieu et la maison 3 la Déesse" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia (en anglais), « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison en représente les affaires ; la fratrie, les petits trajets et le courrier en maison 3, les longs voyages et la religion en maison 9" }
 ---
-En face de la maison 9, de l’autre côté de la roue, se trouve la maison 3, et le maître de votre maison 9 y a élu domicile. L’horizon lointain se gouverne depuis l’horizon proche, et les grandes questions se posent avec les mots de tous les jours.
+Le maître de votre maison 9 est passé de l’autre côté de la roue, en maison 3. L’horizon lointain se gouverne depuis l’horizon proche, et les grandes questions se posent avec les mots de tous les jours.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

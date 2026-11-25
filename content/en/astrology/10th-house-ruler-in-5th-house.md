@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 10th in the 5th house"
 h1: "Ruler of the 10th in the 5th house in a birth chart"
-description: "Ruler of the 10th in the 5th house: when the work you’re known for has to bring joy. Creative and performing careers, Venus’s joy, nothing about children."
+description: "Ruler of the 10th in the 5th house: when the work you’re known for has to bring joy. Creative and performing careers, Venus’s joy, the Sun on home ground."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["10th house", "5th house", "house rulers"]
 weight: 2401
 glyph: "✦"
-definition: "The ruler of the 10th in the 5th house hands your Midheaven’s business to the house of creativity, play and romance, so the work you’re known for has to bring joy. Performance, making, teaching through play. I read it as a vocation that needs delight; it says nothing about children."
+definition: "The ruler of the 10th in the 5th house hands your Midheaven’s business to the house of creativity, play and romance, so the work you’re known for has to bring joy. Performance, making, teaching through play. Whether you have children is a separate question, and not one this placement answers."
 facts:
   - { k: "Ruler of", v: "The 10th house: vocation, standing, reputation" }
   - { k: "Placed in", v: "The 5th house: creativity, play, pleasure, romance" }
@@ -37,7 +37,7 @@ The work has to delight you, or it doesn't last. Many people with this placement
 
 Of the seven traditional planets, Venus is the one whose joy falls in the 5th ([planetary joys](/astrology/planetary-joys/)). With Taurus or Libra on your Midheaven, Venus rules the 10th, and in the 5th it stands where tradition said the planet of pleasure was glad to be: a public life built on taste, charm and the art of giving people a good time ([Venus in the 5th house](/astrology/venus-in-5th-house/)). The Sun, ruling a Leo Midheaven, is in Leo’s own house of the natural zodiac here, and wants to be seen doing what it loves.
 
-The old house lists put children in the 5th as well. This placement doesn't say whether you'll have any, and no chart can ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)); if you end up working with young people, it's because you chose to. I read the 5th in an adult's life, and I don't read [children's charts](/astrology/childrens-charts/).
+The old house lists put children in the 5th as well. This placement doesn't say whether you'll have any, and no chart can ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)); if you end up working with young people, it's because you chose to. This is the 5th as an adult lives it; I leave [children's charts](/astrology/childrens-charts/) alone.
 
 Placidus puts the 5th in the dark half of the chart, below the western horizon, and the minute of birth decides its borders ([what changes without a birth time](/blog/unknown-birth-time/)). A few minutes on, the 4th would hold this ruler, and the work would be rooted at home ([Ruler of the 10th in the 4th house](/astrology/10th-house-ruler-in-4th-house/)). A few minutes back, it would be in the 6th, where a vocation is built through daily craft ([Ruler of the 10th in the 6th house](/astrology/10th-house-ruler-in-6th-house/)).
 

@@ -2,7 +2,7 @@
 title: "Maître de la maison 9 en maison 6"
 slug: "maitre-maison-9-en-maison-6"
 h1: "Maître de la maison 9 en maison 6 dans un thème natal"
-description: "Maître de la maison 9 en maison 6 : la foi pratiquée chaque jour, l’étude devenue savoir-faire. Apprendre sur le tas, et aucune prévision de santé."
+description: "Maître de la maison 9 en maison 6 : la foi pratiquée chaque jour, l’étude devenue savoir-faire. Apprendre sur le tas, et la foi dans les détails."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 9", "maison 6", "maîtres des maisons"]
 weight: 2390
 glyph: "✦"
-definition: "Le maître de la maison 9 en maison 6 fait descendre la planète des études, des voyages et des convictions dans la journée de travail, ses tâches, ses habitudes, ses routines. Ce que vous croyez se pratique, et ce que vous étudiez devient un savoir-faire. J’y lis une foi en actes, jamais une prévision de santé."
+definition: "Le maître de la maison 9 en maison 6 fait descendre la planète des études, des voyages et des convictions dans la journée de travail, ses tâches, ses habitudes, ses routines. Ce que vous croyez se pratique, et ce que vous étudiez devient un savoir-faire. La routine porte le sens, et rien ici ne prévoit votre santé."
 facts:
   - { k: "Maître de", v: "La maison 9 : les études supérieures, les voyages, les convictions, l’enseignement" }
   - { k: "Placé en", v: "Maison 6 : le travail quotidien, les routines, les collègues, le soin du corps" }

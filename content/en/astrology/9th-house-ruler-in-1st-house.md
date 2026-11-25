@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["9th house", "1st house", "house rulers"]
 weight: 2385
 glyph: "✦"
-definition: "The ruler of the 9th in the 1st house puts the planet of travel, study and belief in the house of the self, so your far horizons show in your body, voice and manner. Where you’ve been and what you think travel with you everywhere. I read it as a seeker’s bearing, never as a licence to preach."
+definition: "The ruler of the 9th in the 1st house puts the planet of travel, study and belief in the house of the self, so your far horizons show in your body, voice and manner. Where you’ve been and what you think travel with you everywhere. People meet your convictions before you voice them."
 facts:
   - { k: "Ruler of", v: "The 9th house: travel, study, belief, the search for meaning" }
   - { k: "Placed in", v: "The 1st house: body, manner, first impressions" }

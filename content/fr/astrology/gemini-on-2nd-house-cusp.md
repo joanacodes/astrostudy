@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Gémeaux", "maison 2", "cuspides des maisons"]
 weight: 2455
 glyph: "♊"
-definition: "Avoir les Gémeaux sur la cuspide de la maison 2, c’est voir commencer en Gémeaux votre maison de l’argent, des biens et de l’estime de soi. Savoirs, compétences et contacts y comptent comme des ressources, et l’argent reste rarement immobile. Mercure, maître du signe, gouverne cette maison : sa place montre où vous gagnez et dépensez."
+definition: "Avoir les Gémeaux sur la cuspide de la maison 2, c’est voir commencer dans les Gémeaux, signe de l’échange, votre maison de l’argent, des biens et de l’estime de soi. Savoirs, compétences et contacts y comptent comme des ressources, et l’argent reste rarement immobile. Mercure, maître du signe, gouverne cette maison : sa place montre où vous gagnez et dépensez."
 facts:
   - { k: "Signe", v: "Gémeaux ♊, air mutable" }
   - { k: "Cuspide", v: "Maison 2 : l’argent, les biens, l’estime de soi" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/gemini", "/astrology/2nd-house", "/astrology/mercury", "/astrology/taurus-rising", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire avoir les Gémeaux sur la cuspide de la maison 2 ?"
-    a: "Que la maison de l’argent, des biens et de l’estime de soi s’ouvre en Gémeaux. Vous traitez volontiers ce que vous savez et les gens que vous connaissez comme des ressources, vous comparez avant d’acheter et gagnez souvent de plus d’une façon. Mercure gouverne la maison : sa place montre d’où vient votre argent et où il va."
+    a: "Que la maison de l’argent, des biens et de l’estime de soi s’ouvre dans le signe de l’échange. Vous traitez volontiers ce que vous savez et les gens que vous connaissez comme des ressources, vous comparez avant d’acheter et gagnez souvent de plus d’une façon. Mercure gouverne la maison : sa place montre d’où vient votre argent et où il va."
   - q: "Les Gémeaux en maison 2, est-ce bon pour l’argent ?"
     a: "Aucune cuspide n’est bonne ou mauvaise pour l’argent, et je ne lis jamais un thème pour des montants. Les Gémeaux décrivent ici une façon de gérer vos ressources : curieuse, prompte à comparer, à l’aise avec plusieurs sources à la fois. Ce qu’elle rapporte dépend de votre vie et de vos choix, qu’aucun thème ne décide."
   - q: "Que veut dire Mercure maître de la maison 2 ?"

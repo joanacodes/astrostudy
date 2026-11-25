@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Cancer", "2nd house", "house cusps"]
 weight: 2466
 glyph: "♋"
-definition: "Cancer on the 2nd house cusp means your 2nd house, the house of money, possessions and self-worth, starts in Cancer. Security tends to mean being able to look after the people you love, and things are kept for what they remember. The Moon rules the house: its sign and house show where you look for that safety."
+definition: "Cancer on the 2nd house cusp means your 2nd house, the house of money, possessions and self-worth, starts in Cancer, the sign that keeps and protects. Security means being able to look after the people you love, and things are kept for their memories. The Moon rules the house: its sign and house show where you look for that safety."
 facts:
   - { k: "Sign", v: "Cancer ♋, cardinal water" }
   - { k: "Cusp", v: "The 2nd house: money, possessions, self-worth" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/cancer", "/astrology/2nd-house", "/astrology/moon", "/astrology/cancer-rising", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "What does Cancer on the 2nd house cusp mean?"
-    a: "That the house of money, possessions and self-worth begins in Cancer. Security tends to mean being able to look after the people you love; you keep things for their memories and like a reserve put by. The Moon rules the house, and its position shows where your sense of safety comes from."
+    a: "That money, possessions and self-worth are handled in the sign that keeps and protects. Security tends to mean being able to look after the people you love; you keep things for their memories and like a reserve put by. The Moon rules the house, and its position shows where your sense of safety comes from."
   - q: "Is Cancer on the 2nd house cusp good for saving money?"
     a: "No cusp can say how much you’ll save or have, and I never read a chart for amounts. With Cancer here, the instinct is to keep something back for the people you care for and to spend on home and comfort. Whether that becomes savings depends on your life, not on the sign."
   - q: "What does it mean when the Moon rules the 2nd house?"

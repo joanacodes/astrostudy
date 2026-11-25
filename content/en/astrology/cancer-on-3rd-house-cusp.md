@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Cancer", "3rd house", "house cusps"]
 weight: 2467
 glyph: "♋"
-definition: "Cancer on the 3rd house cusp means the house of everyday thinking, talk, learning and the people nearby begins in Cancer in your birth chart. You tend to listen for feeling, remember how things were said and learn best where you feel safe. The Moon rules the house, the one where tradition gives it its joy."
+definition: "Cancer on the 3rd house cusp gives the house of everyday thinking, talk, learning and the people nearby to the sign of care. You tend to listen for feeling, remember how things were said and learn best where you feel safe. The Moon rules the house, the one where tradition gives it its joy."
 facts:
   - { k: "Sign", v: "Cancer ♋, cardinal water" }
   - { k: "Cusp", v: "The 3rd house: everyday mind, talk, siblings, short trips" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/cancer", "/astrology/3rd-house", "/astrology/moon", "/astrology/planetary-joys", "/astrology/gemini-rising"]
 faq:
   - q: "What does Cancer on the 3rd house cusp mean?"
-    a: "That the house of everyday thinking, talk and learning opens in Cancer. You tend to listen for feeling, remember how things were said, and learn best where you feel safe; messages are often small acts of care. The Moon rules the house, and its position shows what your everyday mind is working for."
+    a: "That your everyday thinking, talk and learning run in the sign of care. You tend to listen for feeling, remember how things were said, and learn best where you feel safe; messages are often small acts of care. The Moon rules the house, and its position shows what your everyday mind is working for."
   - q: "What does Cancer on the 3rd house cusp say about siblings?"
     a: "It describes how those ties felt to you: often close and protective, sometimes with you as the one who looked after the others. It can’t say who your brothers or sisters are, or what they felt; that belongs to their own charts."
   - q: "What does it mean when the Moon rules the 3rd house?"

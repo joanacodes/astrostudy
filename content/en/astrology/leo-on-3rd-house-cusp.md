@@ -5,6 +5,8 @@ description: "Leo on the 3rd house cusp: a storyteller’s way with words, learn
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Placements"]
+tags: ["Leo", "3rd house", "house cusps"]
 weight: 2478
 glyph: "♌"
 definition: "With Leo on the 3rd house cusp, the house of everyday talk, learning, siblings and neighbours begins in the Sun’s sign. You tend to speak with warmth and a recognisable voice, to learn by explaining things aloud, and to stand up for the people close at hand. The Sun’s house shows what your words are for."
@@ -22,7 +24,7 @@ faq:
   - q: "How does Leo on the 3rd house cusp affect communication?"
     a: "It gives your words presence. Messages tend to sound like you, stories come out well told, and you like what you say to land. Leo is a fixed sign, so opinions formed in conversation often stay formed. Being corrected in public can sting; being properly heard, even once, usually settles it."
   - q: "Why do I have Cancer rising with Leo on the 3rd house cusp?"
-    a: "Because the 3rd cusp lies only a sign or so below the Ascendant in these charts: at London about 9 in 10 have Cancer rising, the rest Gemini. With Cancer rising, the Moon rules your chart and the Sun your 3rd house, so feeling and speech are read together."
+    a: "Because in these charts the 3rd cusp falls only about 35° past the Ascendant at London, so the rising sign is nearly always the one before Leo: Cancer in about 9 London charts in 10, Gemini in the rest. With Cancer rising, the Moon rules your chart and the Sun your 3rd house, so feeling and speech are read together."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "here, Placidus cusps for births spread over a whole day at London and New York, and the width of the 3rd house" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Sun as the ruler of Leo, the Moon of Cancer" }
@@ -35,7 +37,7 @@ The sign on a cusp sets the manner of its house ([house cusps](/astrology/house-
 
 The [Sun](/astrology/sun/) rules your 3rd house, and wherever it sits is where your words and lessons go to work. As ruler of the 3rd, it can be found in the [1st](/astrology/3rd-house-ruler-in-1st-house/), [2nd](/astrology/3rd-house-ruler-in-2nd-house/), [3rd](/astrology/3rd-house-ruler-in-3rd-house/), [4th](/astrology/3rd-house-ruler-in-4th-house/), [5th](/astrology/3rd-house-ruler-in-5th-house/), [6th](/astrology/3rd-house-ruler-in-6th-house/), [7th](/astrology/3rd-house-ruler-in-7th-house/), [8th](/astrology/3rd-house-ruler-in-8th-house/), [9th](/astrology/3rd-house-ruler-in-9th-house/), [10th](/astrology/3rd-house-ruler-in-10th-house/), [11th](/astrology/3rd-house-ruler-in-11th-house/) or [12th](/astrology/3rd-house-ruler-in-12th-house/). At London, about 9 charts in 10 with this cusp have [Cancer rising](/astrology/cancer-rising/), so the Moon rules the chart while the Sun rules the everyday mind. The two lights meet here a second time: tradition called the 3rd the Goddess and gave the Moon its joy there ([planetary joys](/astrology/planetary-joys/)). In a chart ruled by the Moon, I read that as feeling and speech travelling together: you talk most freely where you already feel at home.
 
-About 1 birth in 11 has Leo on the 3rd house cusp, at London as at New York, counting Placidus cusps, the house system I use. That's close to the average of 1 in 12, and the two cities agree because the 3rd lies between the horizon, where the north slows Leo down, and the IC, where latitude counts for nothing. The house itself is narrow at London, about 21° to 27°, so Leo often opens a neighbour as well: the 2nd in about 2 London charts in 5, tying your words to your earnings, or the 4th in about 1 in 4, tying them to home ([duplicated signs](/astrology/duplicated-signs/)). And in some charts Leo has no cusp anywhere: it's [intercepted](/astrology/intercepted-signs/) in about 1 London birth in 7 and 1 New York birth in 11.
+About 1 birth in 11 has Leo on the 3rd house cusp, at London as at New York, counting Placidus cusps, the house system I use. That's close to the average of 1 in 12, and the two cities agree because the 3rd lies between the horizon, where the north slows Leo down, and the IC, where latitude counts for nothing. The house itself is narrow at London, about 21° to 27°, so Leo often opens a neighbour as well: the 2nd in about 2 London charts in 5, tying your words to your earnings, or the 4th in about 1 in 4, tying them to home ([duplicated signs](/astrology/duplicated-signs/)). And in some charts Leo has no cusp anywhere: it's [intercepted](/astrology/intercepted-signs/) about once in 7 London births, and once in 11 at New York.
 
 Which of those neighbours Leo opens, if any, comes down to a few minutes either way, since all three cusps turn with the sky. [Leo on the 2nd house cusp](/astrology/leo-on-2nd-house-cusp/) and [Leo on the 4th house cusp](/astrology/leo-on-4th-house-cusp/) describe the charts drawn a little later and a little earlier than yours, and only the recorded time tells me which is yours ([what changes without a birth time](/blog/unknown-birth-time/)).
 

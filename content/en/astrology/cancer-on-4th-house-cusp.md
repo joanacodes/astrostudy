@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/cancer", "/astrology/4th-house", "/astrology/imum-coeli", "/astrology/moon", "/astrology/capricorn-on-10th-house-cusp"]
 faq:
   - q: "What does Cancer on the 4th house cusp mean?"
-    a: "That your IC, where the house of home and roots begins, is in Cancer, the 4th house’s own sign. Home tends to be a refuge you look after, full of memory, and you recharge among familiar people and things. The Moon rules the house, and its position shows where your sense of belonging leads."
+    a: "That the base of your chart, the IC, sits in the 4th house’s own sign. Home tends to be a refuge you look after, full of memory, and you recharge among familiar people and things. The Moon rules the house, and its position shows where your sense of belonging leads."
   - q: "Is a Cancer IC good?"
     a: "It isn’t good or bad: it’s the 4th house in its own sign, so home, belonging and memory weigh a great deal in your private life. That can be a deep source of strength, and it can make change at home harder. How it plays out depends on the Moon’s sign, house and aspects."
   - q: "What does a Cancer IC say about my mother?"

@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 10", "maison 6", "maîtres des maisons"]
 weight: 2402
 glyph: "✦"
-definition: "Le maître de la maison 10 en maison 6 fait entrer votre Milieu du Ciel dans la semaine de travail : votre rang se gagne par le savoir-faire, la méthode et le service plutôt que par les titres. On vous connaît au travail bien fait. J’y lis une vocation bâtie par la pratique ; la santé, elle, relève d’un médecin."
+definition: "Le maître de la maison 10 en maison 6 fait entrer votre Milieu du Ciel dans la semaine de travail : votre rang se gagne par le savoir-faire, la méthode et le service plutôt que par les titres. On vous connaît au travail bien fait. Les questions de santé relèvent d’un médecin, pas de ce placement."
 facts:
   - { k: "Maître de", v: "La maison 10 : la vocation, le rang, la réputation" }
   - { k: "Placé en", v: "Maison 6 : le travail quotidien, le savoir-faire, les routines, les collègues" }

@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["9th house", "3rd house", "house rulers"]
 weight: 2387
 glyph: "✦"
-definition: "The ruler of the 9th in the 3rd house sends the planet of the far horizon into the house of the near one: higher study, travel and belief get worked out in everyday talk, short trips and first lessons. Big questions come in plain words. I read it as a gift for translating ideas, not a mind kept small."
+definition: "The ruler of the 9th in the 3rd house sends the planet of the far horizon into the house of the near one: higher study, travel and belief get worked out in everyday talk, short trips and first lessons. You’re often the one who explains big ideas to the people around you."
 facts:
   - { k: "Ruler of", v: "The 9th house: higher study, long travel, belief" }
   - { k: "Placed in", v: "The 3rd house: everyday talk, short trips, siblings, first lessons" }
@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, the 9th called the God and the 3rd the Goddess" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; siblings, short journeys and letters in the 3rd, long travel and religion in the 9th" }
 ---
-Across the wheel from the 9th house lies the 3rd, and that's where the ruler of your 9th has gone to live. The far horizon is run from the near one, so the big questions get asked in everyday language.
+The ruler of your 9th has moved to the opposite side of the wheel, into the 3rd. The far horizon is run from the near one, so the big questions get asked in everyday language.
 
 ## What it means {#what-it-means}
 

@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 10th in the 8th house"
 h1: "Ruler of the 10th in the 8th house in a birth chart"
-description: "Ruler of the 10th in the 8th house: a vocation built on what others entrust to you. Money, confidences and crises as work, and no forecasts of gain or loss."
+description: "Ruler of the 10th in the 8th house: a vocation built on what others entrust to you. Money, confidences and crises as work, and Mars’s nerve for high stakes."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["10th house", "8th house", "house rulers"]
 weight: 2404
 glyph: "✦"
-definition: "The ruler of the 10th in the 8th house takes your Midheaven into intimacy, trust, joint money and the passages that change people. Your vocation tends to handle what others hand over: their savings, their confidences, their crises. It describes a career in depth; money and loss are not its to forecast."
+definition: "The ruler of the 10th in the 8th house takes your Midheaven into intimacy, trust, joint money and the passages that change people. Your vocation tends to handle what others hand over: their savings, their confidences, their crises. Trust is what the work runs on; no windfall or loss is forecast."
 facts:
   - { k: "Ruler of", v: "The 10th house: vocation, standing, reputation" }
   - { k: "Placed in", v: "The 8th house: trust, intimacy, joint money, debts" }

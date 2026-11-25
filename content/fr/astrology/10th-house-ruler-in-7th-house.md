@@ -2,7 +2,7 @@
 title: "Maître de la maison 10 en maison 7"
 slug: "maitre-maison-10-en-maison-7"
 h1: "Maître de la maison 10 en maison 7 dans un thème natal"
-description: "Maître de la maison 10 en maison 7 : une vie publique bâtie avec des partenaires et une clientèle. Travailler à deux ou en tête-à-tête, sans prévision."
+description: "Maître de la maison 10 en maison 7 : une vie publique bâtie avec des partenaires et une clientèle. Travailler à deux, les rivaux déclarés, le tête-à-tête."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 10", "maison 7", "maîtres des maisons"]
 weight: 2403
 glyph: "✦"
-definition: "Le maître de la maison 10 en maison 7 loge la planète de votre Milieu du Ciel dans la maison du descendant, celle des partenaires. Votre vocation se bâtit avec d’autres personnes ou grâce à elles : un associé, le public rencontré une personne à la fois. J’y lis une carrière menée en compagnie, pas une prévision."
+definition: "Le maître de la maison 10 en maison 7 loge la planète de votre Milieu du Ciel dans la maison du descendant, celle des partenaires. Votre vocation se bâtit avec d’autres personnes ou grâce à elles : un associé, le public rencontré une personne à la fois. Les partenaires, c’est vous qui les choisissez."
 facts:
   - { k: "Maître de", v: "La maison 10 : la vocation, le rang, la réputation" }
   - { k: "Placé en", v: "Maison 7 : les partenaires, la clientèle, les contrats, les adversaires déclarés" }

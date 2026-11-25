@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/gemini", "/astrology/4th-house", "/astrology/imum-coeli", "/astrology/mercury", "/astrology/sagittarius-on-10th-house-cusp"]
 faq:
   - q: "Que veut dire avoir les Gémeaux sur la cuspide de la maison 4 ?"
-    a: "Que votre Fond du Ciel, où commence la maison du foyer et des racines, est en Gémeaux. Le foyer est souvent un lieu de conversations, de lectures et d’allées et venues, et vous vous reposez en changeant d’objet de pensée plutôt qu’en vous arrêtant. Mercure gouverne la maison : sa place montre où mène la vie du foyer."
+    a: "Que votre Fond du Ciel, où commence la maison du foyer et des racines, est en Gémeaux, le signe de la parole. Le foyer est souvent un lieu de conversations et d’allées et venues, et vous vous reposez en changeant d’objet de pensée plutôt qu’en vous arrêtant. Mercure gouverne la maison : sa place montre où mène la vie du foyer."
   - q: "Un Fond du Ciel en Gémeaux veut-il dire déménager souvent ?"
     a: "Pas sous forme de prédiction. Un Fond du Ciel en Gémeaux décrit un besoin de mouvement et de variété dans la vie privée, que certaines personnes satisfont en déménageant, et beaucoup d’autres avec des visites, des livres, une autre pièce ou un second point d’attache. Combien de fois vous déménagerez dépend de votre vie, qu’aucun thème ne décide."
   - q: "Pourquoi ai-je toujours le Sagittaire au Milieu du Ciel avec un Fond du Ciel en Gémeaux ?"

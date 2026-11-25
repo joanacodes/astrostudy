@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["9th house", "4th house", "house rulers"]
 weight: 2388
 glyph: "✦"
-definition: "The ruler of the 9th in the 4th house sits at the bottom of the chart, among home, family and roots, and carries your studies, travels and beliefs down there with it. Belief grows from where you come from, or a far place becomes home. I read it as convictions with roots, never as a family verdict."
+definition: "The ruler of the 9th in the 4th house sits at the bottom of the chart, among home, family and roots, and carries your studies, travels and beliefs down there with it. Belief grows from where you come from, or a far place becomes home. Your family’s beliefs are a starting point, not a verdict."
 facts:
   - { k: "Ruler of", v: "The 9th house: study, travel, belief, other cultures" }
   - { k: "Placed in", v: "The 4th house: home, family, roots, the private self" }

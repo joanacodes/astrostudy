@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Gemini", "7th house", "house cusps"]
 weight: 2460
 glyph: "♊"
-definition: "Gemini on the 7th house cusp means your Descendant, where the house of partners and one-to-one relationships begins, is in Gemini, with Sagittarius rising opposite. You tend to look for a partner who talks, questions and keeps you curious. Mercury rules the house: its position shows where your relationships tend to start."
+definition: "Gemini on the 7th house cusp means your Descendant, where the house of partners and one-to-one relationships begins, is in Gemini, the sign of conversation, with Sagittarius rising opposite. You tend to look for a partner who talks, questions and keeps you curious. Mercury rules the house: its position shows where your relationships tend to start."
 facts:
   - { k: "Sign", v: "Gemini ♊, mutable air" }
   - { k: "Cusp", v: "The 7th house, opened by the Descendant" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/gemini", "/astrology/7th-house", "/astrology/descendant", "/astrology/mercury", "/astrology/sagittarius-rising"]
 faq:
   - q: "What does Gemini on the 7th house cusp mean?"
-    a: "That your Descendant, the start of the house of partners, is in Gemini, with Sagittarius rising. You tend to look for someone who talks, questions and keeps you curious, and to want agreements spelled out. Mercury rules the house, and the house it occupies shows where partnerships tend to begin."
+    a: "That your Descendant, the start of the house of partners, is in Gemini, the sign of conversation, with Sagittarius rising. You tend to look for someone who talks, questions and keeps you curious, and to want agreements spelled out. Mercury rules the house, and the house it occupies shows where partnerships tend to begin."
   - q: "What does a Gemini Descendant mean in love?"
     a: "You tend to fall for a quick mind: someone who answers back, notices what you missed and laughs at the same things. A bond lasts as long as the conversation does. It describes what you look for and recognise in another person, never who you’ll meet or when."
   - q: "Why do I have Sagittarius rising with Gemini on the 7th house cusp?"

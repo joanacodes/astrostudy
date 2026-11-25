@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 9th in the 6th house"
 h1: "Ruler of the 9th in the 6th house in a birth chart"
-description: "Ruler of the 9th in the 6th house: belief practised daily and study turned into skill. Apprenticeships, work with a philosophy, and no health forecasts."
+description: "Ruler of the 9th in the 6th house: belief practised daily and study turned into skill. Apprenticeships, work with a philosophy, and faith in details."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["9th house", "6th house", "house rulers"]
 weight: 2390
 glyph: "✦"
-definition: "The ruler of the 9th in the 6th house brings the planet of study, travel and belief down to the working day, its tasks, habits and routines. What you believe gets practised, and what you study becomes a skill. I read it as faith in the form of practice, never as a health forecast."
+definition: "The ruler of the 9th in the 6th house brings the planet of study, travel and belief down to the working day, its tasks, habits and routines. What you believe gets practised, and what you study becomes a skill. The routine carries the meaning, and nothing here forecasts your health."
 facts:
   - { k: "Ruler of", v: "The 9th house: higher study, travel, belief, teaching" }
   - { k: "Placed in", v: "The 6th house: daily work, routines, colleagues, care of the body" }

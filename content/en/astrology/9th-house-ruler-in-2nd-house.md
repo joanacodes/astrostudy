@@ -1,7 +1,7 @@
 ---
 title: "Ruler of the 9th in the 2nd house"
 h1: "Ruler of the 9th in the 2nd house in a birth chart"
-description: "Ruler of the 9th in the 2nd house: what you know, believe and have seen becomes a resource. Living from learning, books as belongings, and no money forecasts."
+description: "Ruler of the 9th in the 2nd house: what you know, believe and have seen becomes a resource. Living from learning, books as belongings, ideas worth paying for."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["9th house", "2nd house", "house rulers"]
 weight: 2386
 glyph: "✦"
-definition: "With the ruler of the 9th in the 2nd house, what you know, believe and have seen of the world becomes a resource: the planet of your far horizons lives in the house of money, belongings and values. Learning is something you keep, spend or live from. I read it as knowledge valued, never as a forecast of income."
+definition: "With the ruler of the 9th in the 2nd house, what you know, believe and have seen of the world becomes a resource: the planet of your far horizons lives in the house of money, belongings and values. Learning is something you keep, spend or live from. The chart never names the figure."
 facts:
   - { k: "Ruler of", v: "The 9th house: study, travel, belief, teaching" }
   - { k: "Placed in", v: "The 2nd house: money, belongings, values, self-worth" }

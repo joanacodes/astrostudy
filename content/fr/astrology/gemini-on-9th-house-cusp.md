@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/gemini", "/astrology/9th-house", "/astrology/mercury", "/astrology/libra-rising", "/astrology/sagittarius-on-3rd-house-cusp"]
 faq:
   - q: "Que veut dire avoir les Gémeaux sur la cuspide de la maison 9 ?"
-    a: "Que la maison des convictions, des études supérieures, des voyages et de la quête de sens s’ouvre en Gémeaux. Vous vous faites une opinion en comparant, étudiez et voyagez largement, et gardez même vos convictions fermes ouvertes aux questions. Mercure gouverne la maison : la maison où se trouve Mercure montre où se joue cette recherche."
+    a: "Que la maison des convictions, des études supérieures, des voyages et de la quête de sens s’ouvre en Gémeaux, le signe des questions plutôt que des réponses. Vous vous faites une opinion en comparant, étudiez et voyagez largement, et gardez vos convictions ouvertes. Mercure gouverne la maison : la maison où se trouve Mercure montre où se joue cette recherche."
   - q: "Que disent les Gémeaux en maison 9 des croyances et de la religion ?"
     a: "Que la croyance vous vient par les questions : plusieurs maîtres, plusieurs livres, l’habitude de demander ce que pense l’autre camp. Une doctrine qui interdit le doute vous retient rarement ; une qui l’accueille le peut. Cela décrit votre façon d’en venir à croire, jamais ce que vous devriez croire."
   - q: "L’ascendant est-il toujours Balance avec les Gémeaux sur la cuspide de la maison 9 ?"
-    a: "Aux latitudes de Londres et de New York, oui : en Placidus, chaque thème qui a les Gémeaux sur la cuspide de la maison 9 y a l’ascendant Balance. Vénus gouverne le thème et Mercure la maison 9 : votre façon d’aborder les gens et votre façon de chercher du sens se lisent côte à côte."
+    a: "Oui, aux latitudes de Londres et de New York : là-bas, tout thème en Placidus qui a les Gémeaux sur la cuspide de la maison 9 a l’ascendant Balance. Vénus gouverne le thème et Mercure la maison 9 : votre façon d’aborder les gens et votre façon de chercher du sens se lisent côte à côte."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les cuspides de Placidus pour des naissances réparties sur toute une journée, à Londres et à New York, et les signes qui se lèvent avec elles" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure, maître des Gémeaux et de la Vierge ; Jupiter, du Sagittaire ; Vénus, de la Balance" }

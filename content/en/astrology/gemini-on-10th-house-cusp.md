@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Gemini", "10th house", "house cusps"]
 weight: 2463
 glyph: "♊"
-definition: "Gemini on the 10th house cusp means your Midheaven, where the house of public life and vocation begins, is in Gemini. You tend to be known for explaining, connecting and adapting, often in more than one role. At London’s and New York’s latitudes Virgo always rises with it, so Mercury rules both your Midheaven and your chart."
+definition: "Gemini on the 10th house cusp means your Midheaven, where the house of public life begins, is in Gemini, the sign of exchange. You tend to be known for explaining, connecting and adapting, often in more than one role. At London’s and New York’s latitudes Virgo always rises with it, so Mercury rules both your Midheaven and your chart."
 facts:
   - { k: "Sign", v: "Gemini ♊, mutable air" }
   - { k: "Cusp", v: "The 10th house, opened by the Midheaven" }
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/gemini", "/astrology/10th-house", "/astrology/midheaven", "/astrology/mercury", "/astrology/virgo-rising"]
 faq:
   - q: "What does Gemini on the 10th house cusp mean?"
-    a: "It means your Midheaven, the start of the house of public life, is in Gemini. You tend to be known for explaining, connecting and adapting, often with more than one role on the go. Virgo rises with it at the latitudes of London and New York, so Mercury rules both your Midheaven and your chart."
+    a: "It means your Midheaven, the start of the house of public life, is in Gemini, the sign of exchange. You tend to be known for explaining, connecting and adapting, often with more than one role on the go. Virgo rises with it at the latitudes of London and New York, so Mercury rules both your Midheaven and your chart."
   - q: "What careers suit a Gemini Midheaven?"
     a: "No Midheaven picks a profession. A Gemini Midheaven describes a public role built on exchange, explaining, connecting, informing, adapting, and that can take shape in many trades. Mercury, which also rules your Virgo Ascendant, shows by its house and sign where your working life tends to centre."
   - q: "Is Mercury my chart ruler if my Midheaven is in Gemini?"
-    a: "At the latitudes of London and New York, yes: in Placidus, a Gemini Midheaven always comes with Virgo rising there, and Virgo belongs to Mercury. The same planet then rules your Ascendant and your Midheaven, so how you meet people and what you’re known for are both read through Mercury."
+    a: "In London and New York, always: at those latitudes a Gemini Midheaven comes with Virgo rising, and Virgo belongs to Mercury. The same planet then rules your Ascendant and your Midheaven, so how you meet people and what you’re known for are both read through Mercury."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "Placidus cusps for births spread evenly over a day at London and New York, with the signs that rise alongside" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury as the ruler of Gemini and Virgo, and exalted in Virgo" }

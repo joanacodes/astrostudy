@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/cancer", "/astrology/2nd-house", "/astrology/moon", "/astrology/cancer-rising", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire avoir le Cancer sur la cuspide de la maison 2 ?"
-    a: "Que la maison de l’argent, des biens et de l’estime de soi commence en Cancer. La sécurité, c’est pouvoir prendre soin de celles et ceux que vous aimez ; vous gardez les objets pour leurs souvenirs et aimez avoir une réserve. La Lune gouverne la maison, et sa place montre d’où vient votre sentiment de sécurité."
+    a: "Que l’argent, les biens et l’estime de soi se vivent dans le signe qui garde et protège. La sécurité, c’est pouvoir prendre soin de celles et ceux que vous aimez ; vous gardez les objets pour leurs souvenirs et aimez avoir une réserve. La Lune gouverne la maison, et sa place montre d’où vient votre sentiment de sécurité."
   - q: "Le Cancer en maison 2 aide-t-il à épargner ?"
     a: "Aucune cuspide ne peut dire combien vous épargnerez ou posséderez, et je ne lis jamais un thème pour des montants. Avec le Cancer, l’instinct est de garder quelque chose pour les personnes dont vous prenez soin et de dépenser pour le foyer et le confort. Que cela devienne une épargne dépend de votre vie, pas du signe."
   - q: "Que veut dire la Lune maîtresse de la maison 2 ?"

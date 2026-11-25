@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["10th house", "3rd house", "house rulers"]
 weight: 2399
 glyph: "✦"
-definition: "The ruler of the 10th in the 3rd house brings your Midheaven’s business down to everyday talk, short trips, writing and first lessons, so your vocation is built from words and connections close to home. Many small exchanges make the reputation. I read it as a public role made of conversation, never a fixed job title."
+definition: "The ruler of the 10th in the 3rd house brings your Midheaven’s business down to everyday talk, short trips, writing and first lessons, so your vocation is built from words and connections close to home. Many small exchanges make the reputation, and the job title matters less than the people you talk to."
 facts:
   - { k: "Ruler of", v: "The 10th house: vocation, standing, reputation" }
   - { k: "Placed in", v: "The 3rd house: talk, writing, short trips, siblings, neighbours" }
