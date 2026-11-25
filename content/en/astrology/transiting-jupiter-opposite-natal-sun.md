@@ -46,7 +46,7 @@ Your birthday works the other way round from the crossing. Jupiter is retrograde
 
 This winter shows it. Jupiter is retrograde in Leo from 13 December 2026 to 13 April 2027; for a Sun at 22° Aquarius, a birthday around 11 February, the three oppositions fall in mid-October 2026, mid-February 2027 and mid-June 2027, the middle one in the birthday week.
 
-By 80, people born between 1930 and 2009 meet it six or seven times, once a round, halfway between two passes of [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/). On the way out Jupiter has already made [transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/), [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/) and [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/); on the way home it makes them again, in reverse.
+By 80, people born between 1930 and 2009 meet it six or seven times, once a round, halfway between two passes of [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/). On the way out, Jupiter has already offered your direction an opening, a test and a tailwind ([transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/), [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/), [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/)); on the way home it offers them again, in reverse.
 
 ## What helps {#what-helps}
 

@@ -2,7 +2,7 @@
 title: "Chiron composite en maison 3"
 slug: "chiron-composite-en-maison-3"
 h1: "Chiron composite en maison 3 : le thème de la relation"
-description: "Chiron composite en maison 3 : une relation sensible dans ses échanges quotidiens et ses liens proches, le rythme qu’elle se donne, et les heures de naissance qu’il faut."
+description: "Chiron composite en maison 3 : une relation sensible dans ses échanges de tous les jours, le rythme qu’elle se donne, et les heures de naissance qu’il faut."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

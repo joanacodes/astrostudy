@@ -42,7 +42,7 @@ Which house Jupiter is crossing gives the ease its subject. From your 5th, the h
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the trine lasts about eleven days when Jupiter passes straight through, and about eight months, with three exact hits, when a retrograde loop falls on it, about three times in ten.
+Within my orbs, from 1½° before exact to 1° after, the trine lasts about eleven days when Jupiter passes straight through, and about eight months in the three cases out of ten where Jupiter's loop lands on it and makes three exact hits.
 
 Jupiter turns round when it stands about 115° from the Sun, close to a trine. So if one of Jupiter's [stations](/astrology/stations/) lands on the trine to your Sun, it lands within about a week of your birthday: a trine that barely moves, in the days the Sun comes back to its birth place.
 

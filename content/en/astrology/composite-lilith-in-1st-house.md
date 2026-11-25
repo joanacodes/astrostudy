@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Lilith", "1st house", "composite chart"]
 weight: 2253
 glyph: "⚸"
-definition: "Composite Lilith in the 1st house puts the relationship chart’s Black Moon Lilith in the house that begins at the composite Ascendant: how the bond comes across. Astrologers read a pair whose untamed side shows before anyone knows either person, and which refuses to present itself as others expect. It needs both birth times."
+definition: "Composite Lilith in the 1st house means a relationship chart’s Black Moon Lilith, averaged from two birth charts, falls in the house of how the bond looks and comes across, just after the composite Ascendant. Astrologers read a pair whose untamed side shows on its surface, and which won’t present itself as others expect."
 facts:
   - { k: "Body", v: "Composite Lilith ⚸" }
   - { k: "House", v: "The 1st house, which begins at the composite Ascendant" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/lilith-in-1st-house", "/astrology/1st-house", "/astrology/ascendant", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Lilith in the 1st house mean?"
-    a: "The relationship chart has Lilith in the house of its surface, how the bond looks and comes across. Astrologers read a pair whose untamed side is visible, sensed by others before they know either person, and which won’t perform the version of a couple people expect. It predicts nothing about the relationship’s course."
+    a: "It places the bond’s untamed side on its surface, in how the two of you look and come across together. Astrologers read a pair whose untamed side is visible, sensed by others before they know either person, and which won’t perform the version of a couple people expect. It predicts nothing about the relationship’s course."
   - q: "Does composite Lilith in the 1st house make a couple stand out?"
     a: "Often it does: others notice something unconventional, intense or hard to place about the two of you together, even when neither of you stands out alone. That attention can feel flattering or intrusive. It describes how the bond comes across, not whether people will approve of it."
   - q: "How exact must our birth times be for composite Lilith in the 1st house?"
@@ -28,11 +28,11 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart, its houses and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the 1st house and what tradition gave it" }
 ---
-Some couples are noticed as a pair before anyone has learned their names: something about the two of them together seems unusual, intense, hard to place. Composite Lilith in the 1st house puts a relationship's untamed side on its surface, where other people meet it first.
+Some couples are noticed as a pair before anyone has learned their names: something about the two of them together seems unusual, intense, hard to place. That is composite Lilith in the 1st house: a relationship's untamed side worn on its surface, where other people meet it first.
 
 ## What it says about the two of you {#what-it-says}
 
-[The 1st house](/astrology/1st-house/) is the house of appearance and approach: the body, the manner, the way something comes into a room. It is angular, Aries is its natural sign, and it begins at the [Ascendant](/astrology/ascendant/). In [the composite chart](/astrology/composite-chart/), drawn from the midpoints of two birth charts, it describes how the relationship itself comes across. With [Black Moon Lilith](/astrology/black-moon-lilith/) here, the part I read as untamed or hidden doesn't stay hidden: people sense it in the way you are together, in a frankness, a closeness or an oddness they can't name, and some are drawn to it while others are put out.
+In a birth chart, [the 1st house](/astrology/1st-house/) belongs to the body and the manner, the self a person leads with. An angular house, with Aries as its natural sign, it opens at the [Ascendant](/astrology/ascendant/). Carried over into [the composite chart](/astrology/composite-chart/), built from the midpoints of two birth charts, it becomes the relationship's bearing: the impression the two of you make together. With [Black Moon Lilith](/astrology/black-moon-lilith/) here, the part I read as untamed or hidden doesn't stay hidden: people sense it in the way you are together, in a frankness, a closeness or an oddness they can't name, and some are drawn to it while others are put out.
 
 It needn't come from either person. A pair made of two quiet people can still be the most conspicuous one in the room, and each may be startled by the reactions the two of you provoke together. What this Lilith refuses is the performance: holding hands at the right moments, explaining yourselves, being the kind of couple, or the kind of friends, that a family or a workplace finds easy to file.
 

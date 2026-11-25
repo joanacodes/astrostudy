@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Lilith", "maison 4", "thème composite"]
 weight: 2256
 glyph: "⚸"
-definition: "Lilith composite en maison 4 place la Lilith du thème de la relation dans la maison du foyer, de la famille et de la vie privée, ouverte par le fond du ciel composite. On y lit un lien dont la vie derrière la porte n’appartient qu’à lui, et qui refuse d’hériter de tout ce que lui transmettent les deux familles."
+definition: "Lilith composite en maison 4 décrit un thème de relation dont la Lune noire Lilith se tient sous tout le reste, dans la maison du foyer qui s’ouvre au fond du ciel composite. On y lit un lien dont la vie derrière la porte n’appartient qu’à lui, et qui n’hérite pas de tout ce que donnent les familles."
 facts:
   - { k: "Corps", v: "Lilith composite ⚸" }
   - { k: "Maison", v: "La maison 4, qui commence au fond du ciel composite" }
@@ -29,11 +29,11 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite, ses maisons et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "la maison 4 et ce que la tradition lui donnait" }
 ---
-Des fêtes chez aucun des deux parents, une cuisine menée selon des règles que personne ne leur a apprises, un intérieur dont les amis disent qu’il « vous ressemble tellement » : certaines paires bâtissent un monde privé qui n’appartient à aucun arbre généalogique. Lilith composite en maison 4 place la part indomptée d’une relation à sa racine, derrière sa propre porte d’entrée.
+Certaines paires bâtissent un monde privé qui n’appartient à aucun arbre généalogique, et ne passent les fêtes chez aucun des deux parents. Lilith composite en maison 4 place la part indomptée d’une relation à sa racine, derrière sa propre porte d’entrée.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-La [maison 4](/astrology/4th-house/) se trouve tout en bas de la roue : le foyer, la famille, les racines, et le soi privé sous le soi public. Elle est angulaire, a le Cancer pour signe naturel, et sa cuspide est le [Fond du Ciel](/astrology/imum-coeli/), le point opposé au Milieu du Ciel. Dans [le thème composite](/astrology/composite-chart/), la maison 4 décrit la vie domestique de la relation et le sol sur lequel elle se tient. Avec la [Lune noire Lilith](/astrology/black-moon-lilith/), le point que je lis comme indompté et caché, ce sol est défendu. Le lien garde son monde domestique pour lui et refuse d’hériter de tout ce qu’on lui transmet : les rôles qu’attend chaque famille, les traditions qui accompagnent un mariage, la façon dont une maison est censée se tenir.
+À la base de tout thème se trouve la [maison 4](/astrology/4th-house/), où les astrologues cherchent le foyer, la famille et l’endroit d’où l’on vient. Angulaire, de signe naturel Cancer, elle commence au [Fond du Ciel](/astrology/imum-coeli/), à l’opposé du Milieu du Ciel. Dans [le thème composite](/astrology/composite-chart/), la maison 4 décrit la vie domestique de la relation et le sol sur lequel elle se tient. Avec la [Lune noire Lilith](/astrology/black-moon-lilith/), le point que je lis comme indompté et caché, ce sol est défendu. Le lien garde son monde domestique pour lui et refuse d’hériter de tout ce qu’on lui transmet : les rôles qu’attend chaque famille, les traditions qui accompagnent un mariage, la façon dont une maison est censée se tenir.
 
 Chacune des deux personnes a peut-être quitté le nid sans peine ; c’est le lien qui veut un terrier, et le veut à ses conditions. Deux personnes issues de familles très unies peuvent former une relation qui tient la parenté à distance, et deux personnes sans racines, une relation farouchement discrète sur son nid. Le foyer qu’elle bâtit peut surprendre les deux familles, et elle en dit peut-être peu.
 

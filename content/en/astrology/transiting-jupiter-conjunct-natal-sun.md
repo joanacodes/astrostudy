@@ -24,7 +24,7 @@ faq:
   - q: "Is Jupiter conjunct my Sun a lucky transit?"
     a: "Tradition called Jupiter the greater benefic, and this transit is often sold as a lucky year. I don’t read it that way. Jupiter describes growth and meaning, not luck, money or success; on your Sun it gives you more room to become yourself, and what fills that room depends on you."
   - q: "How often does Jupiter cross your Sun?"
-    a: "About every twelve years, the time Jupiter takes to go round the zodiac: six or seven times by 80 for everyone born between 1930 and 2009. If you were born with Jupiter beside your Sun, each of those crossings is also your Jupiter return."
+    a: "Roughly every twelve years, once per circuit of the zodiac: six or seven times by 80 for everyone born between 1930 and 2009. If you were born with Jupiter beside your Sun, each of those crossings is also your Jupiter return."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the transit lasts with my orbs, how often it comes by 80, and when the single passes fall" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits read one by one" }
@@ -38,7 +38,7 @@ About once every twelve years, Jupiter comes back round to the degree your Sun h
 
 Many people feel larger in these weeks. Confidence comes more easily, a bigger idea of yourself starts to look reasonable, and the pull is towards learning, teaching, travelling or a wider role. The catch comes with the planet: Jupiter enlarges whatever it touches, including the parts of a plan that never needed enlarging. A crossing of your Sun is a good moment to tell growing from merely adding.
 
-Your Sun's house says where in life this happens, and the crossing always falls inside Jupiter's year in that house. With your Sun in the 9th, the house where tradition gave the Sun its joy, it comes during [Jupiter transiting the 9th house](/astrology/jupiter-transit-9th-house/), and study, belief and distance colour the season. The house depends on your birth time, which is one reason I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Sun conjunct Jupiter](/astrology/sun-conjunct-jupiter/), you meet this crossing at every [Jupiter return](/astrology/jupiter-return/).
+Your Sun's house says where in life this happens, and the crossing always falls inside Jupiter's year in that house. With your Sun in the 9th, the house where tradition gave the Sun its joy, it comes during [Jupiter transiting the 9th house](/astrology/jupiter-transit-9th-house/), and study, belief and distance colour the season. The house depends on your birth time, so a chart without one stays unread ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Sun conjunct Jupiter](/astrology/sun-conjunct-jupiter/), you meet this crossing at every [Jupiter return](/astrology/jupiter-return/).
 
 ## How long it lasts {#how-long-it-lasts}
 
@@ -46,7 +46,7 @@ With the orbs I use, from 1½° before exact to 1° after, about seven crossings
 
 Your birthday tells you which kind is coming. Jupiter travels backwards only in the four months or so around its opposition, when it faces the Sun across the sky, so a quick single crossing of your Sun can come only within about two months of your birthday, while Jupiter sits near the Sun from where we stand, low in the twilight or lost in its glare. A crossing further from your birthday belongs to a loop, and its middle pass, during [Jupiter retrograde](/astrology/jupiter-retrograde/), lands four to six months from it, with Jupiter up for most of the night.
 
-By 80, people born between 1930 and 2009 meet this transit six or seven times, and none of them misses it. Each crossing starts a round that the next twelve years complete: [transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/) about two years on, [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/) at three, [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/) at four and [transiting Jupiter opposite natal Sun](/astrology/transiting-jupiter-opposite-natal-sun/) halfway, at six, before the same angles come back in reverse order.
+Everyone born between 1930 and 2009 has six or seven of these crossings by 80, at intervals of about twelve years. Each crossing starts a round that the next twelve years complete: [transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/) about two years on, [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/) at three, [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/) at four and [transiting Jupiter opposite natal Sun](/astrology/transiting-jupiter-opposite-natal-sun/) halfway, at six, before the same angles come back in reverse order.
 
 ## What helps {#what-helps}
 

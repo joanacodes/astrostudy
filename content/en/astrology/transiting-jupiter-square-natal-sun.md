@@ -22,7 +22,7 @@ faq:
   - q: "Is Jupiter square Sun a bad transit?"
     a: "No. Astrologers call the square hard, and with Jupiter the difficulty is excess rather than lack: overconfidence, overcommitment, plans bigger than the hours behind them. Met with some measure, it is often when people outgrow a role, or a story about themselves, that had become too small."
   - q: "How long does Jupiter square the Sun last?"
-    a: "About eleven days within my orbs, from 1½° before exact to 1° after. About three times in ten, Jupiter turns retrograde near the square and crosses it three times over about eight months. It comes twice per round, about three and nine years after Jupiter crosses your Sun."
+    a: "About eleven days within my orbs, from 1½° before exact to 1° after. In about three cases out of ten, Jupiter's retrograde loop sits on the square, which is then crossed three times in about eight months. It comes twice per round, about three and nine years after Jupiter crosses your Sun."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the transit lasts with my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits read one by one" }

@@ -31,7 +31,7 @@ Twice in every twelve years, Jupiter stands two signs from your Sun: once about 
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) widens whatever it touches and looks for what things mean; your [Sun](/astrology/sun/) is the part of you that settles on a direction and puts yourself into it. A [sextile](/astrology/sextile/), 60°, relates the two through cooperation: Jupiter offers, and the Sun has to answer. Nothing is pushed on you, which is why this [transit](/astrology/transits/) slips by unnoticed in so many lives.
+[Jupiter](/astrology/jupiter/) widens whatever it touches and looks for what things mean; your [Sun](/astrology/sun/) is the part of you that settles on a direction and puts yourself into it. A [sextile](/astrology/sextile/), 60°, relates the two through cooperation: Jupiter offers, and the Sun has to answer. It forces nothing on you, so this [transit](/astrology/transits/) slips by unnoticed in a great many lives.
 
 What it offers tends to suit who you already are. It can be an invitation that uses a skill you'd stopped counting, a class that starts at the right moment, a project where your confidence meets somebody else's need. A sextile links signs whose elements get on, so the opening usually comes from a part of life that speaks your Sun's language rather than one that asks you to become someone else.
 
@@ -39,7 +39,7 @@ Which house Jupiter is crossing says what kind of door it is. From your 11th, th
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, a sextile from Jupiter usually holds your Sun for about eleven days. About three times in ten, a retrograde loop stretches it to about eight months and three exact hits.
+Within my orbs, from 1½° before exact to 1° after, a sextile from Jupiter usually holds your Sun for about eleven days. Roughly three passes in ten are stretched by a retrograde loop to about eight months and three exact hits.
 
 Your Sun sign is enough to see this one coming, and everyone knows their Sun sign. Jupiter makes the sextile from the sign two before yours and the sign two after, spending about a year in each. It is in Leo from June 2026 to July 2027, and in that time it sextiles every Sun in Gemini and in Libra; your Sun's degree gives the day.
 

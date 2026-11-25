@@ -22,7 +22,7 @@ faq:
   - q: "Que veut dire Chiron composite en Balance ?"
     a: "Le thème propre de la relation place Chiron dans le signe du couple et de l’équilibre : le point sensible du lien, c’est l’égalité, savoir si les deux personnes s’y tiennent au même niveau et si l’échange y est juste. Les astrologues y lisent une paire qui s’adapte en négociant, accords dits tout haut et tours respectés, plutôt qu’en supposant l’équité."
   - q: "Pourquoi Chiron composite en Balance est-il le plus rare ?"
-    a: "C’est en Balance que Chiron va le plus vite, près du point de son orbite le plus proche du Soleil : il n’y reste qu’environ deux ans, et peu de naissances, ou de mi-points, y tombent. Sur deux millions de paires de naissances de 1930 à 2009 tirées au hasard, il revient pour environ 1 paire sur 26, moins souvent que tout autre signe."
+    a: "C’est en Balance que Chiron va le plus vite, près du point de son orbite le plus proche du Soleil : il n’y reste qu’environ deux ans, et peu de mi-points y tombent. Sur deux millions de paires tirées au hasard parmi les naissances de 1930 à 2009, environ 1 sur 26 l’avait, moins que pour tout autre signe."
   - q: "Chiron composite peut-il basculer entre la Balance et le Bélier ?"
     a: "Oui, quand les deux positions natales de Chiron sont presque exactement opposées, l’une en Cancer, l’autre en Capricorne. Le composite prend le plus proche des deux mi-points, et une fraction de degré décide de quel côté il se trouve : une paire peut alors se tenir pile sur la ligne entre Balance et Bélier."
 sources:

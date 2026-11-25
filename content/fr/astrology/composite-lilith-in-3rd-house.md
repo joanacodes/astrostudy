@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Lilith", "maison 3", "thème composite"]
 weight: 2255
 glyph: "⚸"
-definition: "Lilith composite en maison 3 place la Lilith du thème de la relation dans la maison de la parole quotidienne, des messages, de la fratrie et du monde proche, l’ancienne Déesse. Les astrologues y lisent une paire dont la conversation de tous les jours garde son quant-à-soi : franche en privé, prudente sur le pas de la porte."
+definition: "Lilith composite en maison 3 : la Lune noire Lilith d’un thème de relation se trouve dans la maison des échanges quotidiens, la Déesse de la tradition : conversations, messages, courses, fratrie, voisins. Les astrologues y lisent une paire dont la parole de tous les jours garde son quant-à-soi, franche en privé, prudente sur le pas de la porte."
 facts:
   - { k: "Corps", v: "Lilith composite ⚸" }
   - { k: "Maison", v: "La maison 3, de la parole quotidienne et du monde proche" }
@@ -34,7 +34,7 @@ Certaines des conversations les plus franches d’un couple ont lieu en voiture,
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-La [maison 3](/astrology/3rd-house/) est le monde proche : la conversation quotidienne, les messages, les courses et les petits trajets, l’apprentissage, les frères et sœurs, les voisins. Elle est cadente, a les Gémeaux pour signe naturel, et la tradition l’appelait la Déesse et y plaçait la joie de la Lune. Lilith est un point de l’orbite même de la Lune, mais c’est une coïncidence de noms, pas une règle : les joies ont été réparties entre les sept planètes traditionnelles, et la [Lune noire Lilith](/astrology/black-moon-lilith/) n’en a aucune. Dans [le thème composite](/astrology/composite-chart/), la maison 3 décrit la façon dont la relation parle et traverse ses journées ordinaires. Avec Lilith à cet endroit, cette parole a un canal caché : franche, drôle, parfois frondeuse en privé, prudente sur le pas de la porte, à la sortie de l’école, avec les frères et sœurs de chaque côté.
+Tout ce qui se trouve à quelques pas ou à un message de distance relève de la [maison 3](/astrology/3rd-house/) : la conversation du petit-déjeuner, les courses, ce qu’on apprend en chemin, les frères, les sœurs et les voisins. Maison cadente, de signe naturel Gémeaux, elle était appelée la Déesse par la tradition, qui y plaçait la joie de la Lune. Lilith est un point de l’orbite même de la Lune, mais c’est une coïncidence de noms, pas une règle : les joies ont été réparties entre les sept planètes traditionnelles, et la [Lune noire Lilith](/astrology/black-moon-lilith/) n’en a aucune. Dans [le thème composite](/astrology/composite-chart/), la maison 3 décrit la façon dont la relation parle et traverse ses journées ordinaires. Avec Lilith à cet endroit, cette parole a un canal caché : franche, drôle, parfois frondeuse en privé, prudente sur le pas de la porte, à la sortie de l’école, avec les frères et sœurs de chaque côté.
 
 Ce canal ne reflète pas forcément la façon dont l’une ou l’autre personne parle avec le reste du monde. Deux personnes discrètes peuvent partager une conversation qui étonnerait leurs amis, et deux personnes bavardes, un lien qui se ferme dès qu’un parent entre dans la pièce. Ce qu’il refuse, c’est la répétition : le discours de la famille, l’avis du quartier, l’opinion que tout le groupe de discussion partage. Le lien vérifie par lui-même, ou se tait.
 

@@ -41,7 +41,7 @@ In practice that tends to look like an invitation to do more, or to do it bigger
 
 Where it lands depends on the house of your Mars, and Jupiter is then crossing the house opposite. With Mars in your 10th, for instance, the opposition comes during [Jupiter transiting the 4th house](/astrology/jupiter-transit-4th-house/): home asks for room while your drive is pointed at work. Mars moves less than a degree a day, so your birth date places it well enough; the house needs your birth time, and without it I don't read the chart at all ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Hard transits to Mars have a reputation for accidents and quarrels. I don't read them for either: a [transit](/astrology/transits/) can't tell you whether you'll be hurt ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)) or how a disagreement will end. If your chart has [Mars opposite Jupiter](/astrology/mars-opposite-jupiter/), this one isn't a visitor: each [Jupiter return](/astrology/jupiter-return/) brings it, because Jupiter coming home also faces your Mars.
+Hard transits to Mars have a reputation for accidents and quarrels. I don't read them for either: a [transit](/astrology/transits/) can't tell you whether you'll be hurt ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)) or how a disagreement will end. If your chart has [Mars opposite Jupiter](/astrology/mars-opposite-jupiter/), this one isn't a visitor: it falls close to each [Jupiter return](/astrology/jupiter-return/), because Jupiter coming home also faces your Mars.
 
 ## How long it lasts {#how-long-it-lasts}
 

@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Lilith", "maison 1", "thème composite"]
 weight: 2253
 glyph: "⚸"
-definition: "Lilith composite en maison 1 place la Lilith du thème de la relation dans la maison qui commence à l’ascendant composite : l’allure du lien. Les astrologues y lisent une paire dont la part indomptée se voit avant qu’on connaisse l’une ou l’autre personne, et qui refuse de se montrer comme on l’attend. Elle demande les deux heures de naissance."
+definition: "Lilith composite en maison 1 : la Lune noire Lilith d’un thème de relation, moyenne de deux thèmes natals, tombe dans la maison de l’allure du lien, juste après l’ascendant composite. Les astrologues y lisent une paire dont la part indomptée se voit en surface, et qui refuse de se présenter comme on l’attend."
 facts:
   - { k: "Corps", v: "Lilith composite ⚸" }
   - { k: "Maison", v: "La maison 1, qui commence à l’ascendant composite" }
@@ -33,7 +33,7 @@ Certains couples se remarquent en tant que paire avant que quiconque ait appris 
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-La [maison 1](/astrology/1st-house/) est la maison de l’apparence et de l’abord : le corps, la manière, la façon d’entrer dans une pièce. Elle est angulaire, a le Bélier pour signe naturel, et commence à l’[ascendant](/astrology/ascendant/). Dans [le thème composite](/astrology/composite-chart/), tiré des mi-points de deux thèmes natals, elle décrit la manière dont la relation elle-même apparaît. Avec la [Lune noire Lilith](/astrology/black-moon-lilith/) à cet endroit, la part que je lis comme indomptée ou cachée ne reste pas cachée : les gens la perçoivent dans votre façon d’être ensemble, une franchise, une proximité ou une étrangeté qu’ils ne savent pas nommer, et certains en sont attirés quand d’autres s’en offusquent.
+Dans un thème natal, la [maison 1](/astrology/1st-house/) appartient au corps et à la manière, au soi qu’une personne met en avant. Maison angulaire, de signe naturel Bélier, elle s’ouvre à l’[ascendant](/astrology/ascendant/). Transposée dans [le thème composite](/astrology/composite-chart/), construit avec les mi-points de deux thèmes natals, elle devient l’allure de la relation : l’impression que vous faites ensemble. Avec la [Lune noire Lilith](/astrology/black-moon-lilith/) à cet endroit, la part que je lis comme indomptée ou cachée ne reste pas cachée : les gens la perçoivent dans votre façon d’être ensemble, une franchise, une proximité ou une étrangeté qu’ils ne savent pas nommer, et certains en sont attirés quand d’autres s’en offusquent.
 
 Elle n’a pas besoin de venir de l’une ou l’autre personne. Une paire formée de deux personnes discrètes peut tout de même être la plus remarquée de la pièce, et chacune peut s’étonner des réactions que vous provoquez à deux. Ce que cette Lilith refuse, c’est la représentation : se tenir la main aux bons moments, s’expliquer, être le genre de couple, ou d’amitié, qu’une famille ou un bureau classe facilement.
 
