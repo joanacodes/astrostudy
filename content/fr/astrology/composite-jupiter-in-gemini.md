@@ -2,7 +2,7 @@
 title: "Jupiter composite en Gémeaux"
 slug: "jupiter-composite-en-gemeaux"
 h1: "Jupiter composite en Gémeaux : le thème de la relation"
-description: "Jupiter composite en Gémeaux : une relation qui grandit par la conversation, les questions et l’apprentissage à deux. Son exil, quelles paires l’ont, son piège."
+description: "Jupiter composite en Gémeaux : une relation qui apprend à voix haute, par la conversation et l’étude à deux. Pourquoi c’est un exil, et son piège."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "Gémeaux", "thème composite"]
 weight: 2099
 glyph: "♃♊"
-definition: "Jupiter composite en Gémeaux tombe dans le signe des questions et de l’échange, où la tradition place l’exil de Jupiter : c’est le mi-point de deux positions natales. Les astrologues y lisent un lien qui grandit par la conversation : idées échangées, sujets appris côte à côte, convictions revues à l’usage. Ce placement décrit une curiosité, pas un destin."
+definition: "Jupiter composite en Gémeaux tombe dans le signe des questions et de l’échange, où la tradition place l’exil de Jupiter : c’est le mi-point de deux positions natales. Les astrologues y lisent un lien qui grandit par la conversation : idées échangées, sujets appris côte à côte, convictions revues à l’usage. Sa matière est la curiosité, non le destin."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃, à mi-chemin de vos deux positions natales de Jupiter, par l’arc le plus court" }
   - { k: "Signe", v: "Gémeaux ♊, air mutable, gouvernés par Mercure" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-gemini", "/astrology/gemini", "/astrology/detriment", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Jupiter composite en Gémeaux ?"
-    a: "Qu’à mi-chemin entre vos deux positions natales de Jupiter se trouvent les Gémeaux : la relation grandit en questionnant et en échangeant. Les astrologues y lisent un lien qui apprend côte à côte, révise ses convictions en conversation et se montre généreux en idées et en présentations. Ce placement décrit votre façon de grandir à deux, pas votre avenir."
+    a: "Les Gémeaux accueillent le mi-point de vos deux positions natales de Jupiter : la relation grandit en questionnant et en échangeant. Le lien décrit apprend côte à côte, révise ses convictions en conversation et se montre généreux en idées et en présentations. Dire si votre couple est bien assorti n’est pas de son ressort."
   - q: "Est-ce un mauvais signe d’avoir Jupiter composite en Gémeaux, en exil ?"
     a: "Non. La tradition appelle les Gémeaux l’exil de Jupiter parce qu’ils font face au Sagittaire, son propre signe. Un exil change la manière, pas la valeur : ici, la croissance naît de nombreuses questions plutôt que d’une grande réponse. Cet exil ne rend aucune relation plus faible, moins heureuse ou plus courte, et ne prédit rien."
   - q: "Pourquoi est-ce que Jupiter composite saute parfois des Gémeaux au Sagittaire ?"
@@ -35,13 +35,13 @@ Certaines relations pensent à voix haute. Jupiter composite en Gémeaux place l
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-Dans [le thème composite](/astrology/composite-chart/), chaque planète se place au mi-point de ses deux positions natales, et [Jupiter](/astrology/jupiter/) y figure la compréhension propre du lien : ce qu’il apprend, ce à quoi il tient, jusqu’où il se laisse grandir. Les [Gémeaux](/astrology/gemini/), air mutable gouverné par [Mercure](/astrology/mercury/), donnent à cette croissance une manière de questionner, de comparer et de relier. La tradition place ici Jupiter en [exil](/astrology/detriment/), dans le signe opposé à son propre Sagittaire. Je lis l’exil comme un changement de méthode plutôt qu’une perte de valeur : une relation qui aime mieux assembler son sens à partir de mille conversations que le recevoir tout fait d’une seule doctrine. Mercure composite, qui gouverne le signe, montre comment ces conversations se déroulent.
+[Jupiter](/astrology/jupiter/), dans [le thème composite](/astrology/composite-chart/), figure la compréhension propre du lien : ce que le lien apprend, ce à quoi il tient, jusqu’où il se laisse grandir. Les [Gémeaux](/astrology/gemini/), air mutable gouverné par [Mercure](/astrology/mercury/), la tournent vers le questionnement, la comparaison et la mise en relation. La tradition place ici Jupiter en [exil](/astrology/detriment/), dans le signe opposé à son propre Sagittaire. Je lis l’exil comme un changement de méthode plutôt qu’une perte de valeur : une relation qui aime mieux assembler son sens à partir de mille conversations que le recevoir tout fait d’une seule doctrine. Mercure composite, qui gouverne le signe, montre comment ces conversations se déroulent.
 
-Environ 1 paire sur 14 l’a, parmi deux millions de paires nées de 1930 à 2009 et tirées au hasard. Deux personnes nées pendant la même année de Jupiter en Gémeaux le partagent : de fin mai 1941 à début juin 1942, de mai 1953 à mai 1954, ou de fin juin 2000 à juillet 2001.
+Dans le décompte de deux millions de paires nées de 1930 à 2009 et tirées au hasard, ce placement revient à peu près aussi souvent que le Taureau et le Verseau : environ 1 paire sur 14. Deux personnes nées pendant la même année de Jupiter en Gémeaux le partagent : de fin mai 1941 à début juin 1942, de mai 1953 à mai 1954, ou de fin juin 2000 à juillet 2001.
 
 Les Gémeaux font aussi face au Sagittaire, le signe de Jupiter, et quand deux positions natales de Jupiter sont presque opposées, comme chez deux personnes nées à environ six ans d’écart, le composite peut tomber d’un côté comme de l’autre. Si l’une des deux personnes a Jupiter à 10° Poissons et l’autre à 9° Vierge, le mi-point le plus proche est à 9,5° Gémeaux ; placez la seconde position à 11° Vierge, et il saute à 10,5° Sagittaire. Deux degrés décident entre l’exil de Jupiter et son domicile : quand vos positions natales de Jupiter se font face, mieux vaut tenir Jupiter composite en Gémeaux d’une main légère.
 
-Quelle que soit la route, la curiosité appartient au lien. Deux personnes qui aiment chacune trancher vite une question peuvent découvrir qu’ensemble, elles la laissent ouverte : une langue apprise pour des vacances et gardée des années, un quartier où vous connaissez le prénom de tout le monde, l’habitude de vous envoyer des articles avec une seule ligne, *qu’en penses-tu ?* [Jupiter en Gémeaux](/astrology/jupiter-in-gemini/) décrit une personne qui apprend en questionnant. Dans un composite, les questions sont partagées, et la générosité aussi : des présentations faites, des livres prêtés, le souci d’un proche examiné sous trois angles.
+Quelle que soit la route, les questions viennent de la relation, pas de l’une ou l’autre personne. Deux personnes qui aiment chacune trancher vite une question peuvent découvrir qu’ensemble, elles la laissent ouverte : une langue apprise pour des vacances et gardée des années, un quartier où vous connaissez le prénom de tout le monde, l’habitude de vous envoyer des articles avec une seule ligne, *qu’en penses-tu ?* Questionner pour apprendre : c’est ce que fait une personne qui a [Jupiter en Gémeaux](/astrology/jupiter-in-gemini/). Ici, les questions sont partagées, et la générosité aussi : des présentations faites, des livres prêtés, le souci d’un proche examiné sous trois angles.
 
 Le risque, c’est l’étendue sans la profondeur : des projets qui se multiplient au lieu d’être choisis, une vision commune jamais vraiment formulée, tant d’échanges que rien ne se dépose en compréhension. Ce qui aide : choisir chaque année un sujet à creuser ensemble, et dire de temps en temps, à voix haute, ce à quoi vous croyez désormais, à deux.
 

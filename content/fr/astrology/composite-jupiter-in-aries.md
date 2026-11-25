@@ -2,7 +2,7 @@
 title: "Jupiter composite en Bélier"
 slug: "jupiter-composite-en-belier"
 h1: "Jupiter composite en Bélier : le thème de la relation"
-description: "Jupiter composite en Bélier : une relation qui grandit en lançant des choses à deux et se fie à ce qu’elle a essayé. Quelles paires l’ont, et son piège."
+description: "Jupiter composite en Bélier : un lien qui grandit en lançant des choses à deux et se fie à ce qu’il a essayé. Le signe le plus rare, et l’attrait du neuf."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -23,8 +23,8 @@ faq:
   - q: "Que veut dire Jupiter composite en Bélier ?"
     a: "Que le mi-point entre vos deux positions natales de Jupiter tombe en Bélier : le thème dressé pour la relation grandit en commençant. Les astrologues y lisent un lien qui apprend en essayant, encourage les premiers pas et tire ses convictions de l’expérience. Ce placement décrit l’élargissement de la relation, pas sa chance, sa réussite ni sa durée."
   - q: "Quels couples ont Jupiter composite en Bélier ?"
-    a: "Environ 1 paire sur 15, parmi les paires nées de 1930 à 2009. Deux personnes nées pendant le passage de Jupiter en Bélier le partagent, par exemple entre mars 1987 et mars 1988. Un écart d’âge peut aussi le produire : deux positions natales de Jupiter en Verseau et en Gémeaux, à environ quatre ans d’écart, peuvent se rejoindre en Bélier."
-  - q: "Est-ce que Jupiter composite en Bélier porte chance à une relation ?"
+    a: "Peu : environ 1 paire sur 15 parmi les paires nées de 1930 à 2009, la part la plus faible avec les Poissons. Deux personnes nées pendant le passage de Jupiter en Bélier le partagent, par exemple entre mars 1987 et mars 1988 ; un écart d’âge peut aussi le produire, avec Jupiter en Verseau d’un côté et en Gémeaux de l’autre."
+  - q: "Jupiter composite en Bélier, est-ce une chance pour le couple ?"
     a: "La tradition voyait en Jupiter une planète bénéfique, mais un placement composite ne promet rien : ni chance, ni argent, ni avenir commun. En Bélier, Jupiter décrit une paire qui trouve des ouvertures en bougeant la première. Qu’une porte ouverte à deux mène quelque part dépend de vous, de vos choix et de votre situation, pas d’un mi-point."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
@@ -35,7 +35,7 @@ Un cours de langue réservé le soir même où l’idée est venue, un déménag
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-Dans [le thème composite](/astrology/composite-chart/), chaque planète se place à mi-chemin entre ses positions dans deux thèmes natals, et [Jupiter](/astrology/jupiter/) y représente la capacité de la relation elle-même à grandir : ce que vous apprenez ensemble, ce en quoi vous finissez par croire, ce à quoi vous faites de la place. Le [Bélier](/astrology/aries/), feu cardinal, donne à cette croissance la manière d’un commencement : rapide, directe, attirée par ce qui n’a pas encore été tenté. Le Bélier n’est ni un signe de Jupiter, ni son exaltation, ni son exil, ni sa chute : le maître du signe a donc son mot à dire, et la place de [Mars](/astrology/mars/) dans le composite montre d’où vient l’élan des nouveaux départs de la paire.
+[Jupiter](/astrology/jupiter/) est la part du [thème composite](/astrology/composite-chart/) qui décrit comment une relation grandit : ce que vous apprenez ensemble, ce en quoi vous finissez par croire, ce à quoi vous faites de la place. Le [Bélier](/astrology/aries/), feu cardinal, donne à cette croissance la manière d’un commencement : rapide, directe, attirée par ce qui n’a pas encore été tenté. Le Bélier n’est ni un signe de Jupiter, ni son exaltation, ni son exil, ni sa chute : le maître du signe a donc son mot à dire, et la place de [Mars](/astrology/mars/) dans le composite montre d’où vient l’élan des nouveaux départs de la paire.
 
 C’est, avec les Poissons, le signe le plus rare pour Jupiter composite : environ 1 paire sur 15, sur deux millions de paires de dates de naissance tirées au hasard entre 1930 et 2009. Jupiter passe environ un an dans chaque signe, et l’âge y est donc pour quelque chose. Toute personne née pendant le passage de Jupiter en Bélier, d’avril 1963 à avril 1964, de mars 1975 à mars 1976 ou de mars 1987 à mars 1988, partage ce placement avec toutes celles nées dans les mêmes mois : bien des couples du même âge le portent sans qu’il dise grand-chose d’eux en particulier. Un écart d’âge déplace le composite au mi-point, et c’est là qu’il devient propre à la relation. Une personne née le 1er mai 1985, avec Jupiter vers 15° Verseau, et une autre née le 1er mai 1989, avec Jupiter vers 10° Gémeaux, se rejoignent vers 12° Bélier : un signe qu’aucune des deux n’a.
 

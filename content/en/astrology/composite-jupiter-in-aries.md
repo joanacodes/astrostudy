@@ -1,7 +1,7 @@
 ---
 title: "Composite Jupiter in Aries"
 h1: "Composite Jupiter in Aries: the relationship’s chart"
-description: "Composite Jupiter in Aries: a relationship that grows by starting things together and trusts what it has tried. Which pairs have it, and its trap."
+description: "Composite Jupiter in Aries: a relationship that grows by starting things together and trusts what it has tried. The rarest sign for it, and the pull of novelty."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -22,8 +22,8 @@ faq:
   - q: "What does composite Jupiter in Aries mean?"
     a: "That the midpoint of your two natal Jupiters lies in Aries, so the chart drawn for the relationship grows the Aries way: by starting. Astrologers read a bond that learns by trying, encourages first steps and forms its beliefs from experience. It describes how the relationship widens, not its luck, its success or its length."
   - q: "Which couples have composite Jupiter in Aries?"
-    a: "About 1 pair in 15, among pairs born from 1930 to 2009. Two people born while Jupiter was in Aries share it, for instance both born between March 1987 and March 1988. An age gap can produce it too: natal Jupiters in Aquarius and Gemini, about four years apart, can meet halfway in Aries."
-  - q: "Is composite Jupiter in Aries lucky for a relationship?"
+    a: "Few do: about 1 pair in 15 among pairs born from 1930 to 2009, the lowest share with Pisces. Two people born while Jupiter was in Aries share it, for instance between March 1987 and March 1988, and an age gap can produce it too, with one natal Jupiter in Aquarius and the other in Gemini."
+  - q: "Does composite Jupiter in Aries make a relationship lucky?"
     a: "Tradition called Jupiter a benefic, but a composite placement promises nothing: not luck, not money, not a future together. In Aries, Jupiter describes a pair that finds openings by moving first. Whether a door you open together leads anywhere depends on the two of you, your choices and your circumstances, not on a midpoint."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
@@ -34,7 +34,7 @@ A language course booked the evening it was first mentioned, a move to another c
 
 ## What it says about the two of you {#what-it-says}
 
-In [the composite chart](/astrology/composite-chart/), every planet stands halfway between its places in two birth charts, and [Jupiter](/astrology/jupiter/) there is the relationship's own capacity to grow: what you learn together, what you come to believe in, what you make room for. [Aries](/astrology/aries/), cardinal fire, gives that growth the manner of a beginning: quick, direct, drawn to the untried. Aries is none of Jupiter's signs, and neither its exaltation, detriment nor fall, so the sign's ruler has a say: where the composite [Mars](/astrology/mars/) falls shows what supplies the push behind this pair's fresh starts.
+[Jupiter](/astrology/jupiter/) is the part of [the composite chart](/astrology/composite-chart/) that describes how a relationship grows: what you learn together, what you come to believe in, what you make room for. [Aries](/astrology/aries/), cardinal fire, gives that growth the manner of a beginning: quick, direct, drawn to the untried. Aries is none of Jupiter's signs, and neither its exaltation, detriment nor fall, so the sign's ruler has a say: where the composite [Mars](/astrology/mars/) falls shows what supplies the push behind this pair's fresh starts.
 
 It is the rarest composite Jupiter, with Pisces: about 1 pair in 15, in two million pairs of birth dates drawn at random from 1930 to 2009. Jupiter spends about a year in a sign, so age plays its part. Anyone born while Jupiter crossed Aries, from April 1963 to April 1964, from March 1975 to March 1976 or from March 1987 to March 1988, shares it with everyone born in the same months, and many couples of the same age carry it without it saying much about them in particular. A gap in age moves the composite to the midpoint, and that is where it becomes the relationship's own. Someone born on 1 May 1985, with Jupiter at about 15° Aquarius, and someone born on 1 May 1989, with Jupiter at about 10° Gemini, meet at about 12° Aries, a sign neither of them has.
 
