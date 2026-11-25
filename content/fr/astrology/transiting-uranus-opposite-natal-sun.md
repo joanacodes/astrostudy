@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Soleil", "opposition", "transits"]
 weight: 1684
 glyph: "♅☍☉"
-definition: "Uranus en transit opposition Soleil du thème natal signifie qu’Uranus a atteint l’autre côté du zodiaque par rapport à votre Soleil de naissance : un séjour d’une vingtaine de mois qu’une vie connaît une fois au plus. L’élan du changement passe souvent par les autres, et demande ce qui, dans votre direction, vous appartient. J’y lis un miroir, jamais un verdict."
+definition: "Uranus en transit opposition Soleil du thème natal signifie qu’Uranus se trouve à 180° de votre Soleil de naissance : un séjour d’une vingtaine de mois qu’une vie connaît une fois au plus. L’élan du changement passe souvent par les autres, et demande ce qui, dans votre direction, vous appartient. J’y lis un miroir, jamais un verdict."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Le Soleil ☉ : identité, direction et vitalité" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/sun", "/astrology/opposition", "/astrology/sun-opposite-uranus", "/astrology/uranus-opposition"]
 faq:
   - q: "Que veut dire Uranus en transit opposition Soleil du thème natal ?"
-    a: "Dans le ciel, Uranus a atteint le point exactement opposé à votre Soleil de naissance. J’y lis une saison où le changement vous arrive de l’autre côté, souvent par une personne proche qui veut autre chose, et vous demande quelle part de votre direction vous appartient, et quelle part tenait seulement à l’arrangement autour de vous."
+    a: "Uranus est maintenant aussi loin que possible de votre Soleil de naissance, à la moitié du zodiaque. J’y lis une saison où le changement vous arrive de l’autre côté, souvent par une personne proche qui veut autre chose, et vous demande quelle part de votre direction vous appartient, et quelle part tenait seulement à l’arrangement autour de vous."
   - q: "Uranus en opposition au Soleil, c’est tous les combien ?"
     a: "Une fois par tour d’Uranus, soit tous les 84 ans environ : une fois au plus dans une longue vie. Parmi les naissances de 1930 à 2009, environ 1 personne sur 50 fête ses 80 ans sans l’avoir connue. Quand elle vient, elle dure une vingtaine de mois avec mes orbes, et le point exact est en général franchi trois fois."
   - q: "Uranus opposition Soleil, est-ce la même chose que l’opposition d’Uranus ?"
@@ -38,13 +38,13 @@ Une fois dans son tour de 84 ans, Uranus atteint le point exactement en face de 
 
 L’inverse est tout aussi fréquent : vous rencontrez chez une autre personne la liberté que vous ne vous êtes jamais accordée, et vous l’admirez, ou vous lui en voulez, avant de voir que la question vous concerne. Aucune de ces réactions n’est fausse. L’opposition demande un équilibre plutôt qu’un vainqueur : de la place pour le changement de l’autre, et une direction qui n’exige pas que tout le monde autour reste immobile. Je ne la lis ni pour une séparation, ni pour un licenciement, ni pour aucune autre fin ; ce que chaque personne fait de ces mois lui appartient ([ma méthode](/how-i-read/)).
 
-L’axe décide où. Avec votre Soleil en maison 1 et Uranus qui traverse la maison 7 ([Uranus en transit en maison 7](/astrology/uranus-transit-7th-house/)), votre sentiment de vous-même rencontre, en tête-à-tête, le besoin d’air d’une ou d’un partenaire, d’une associée ou d’un associé. Cet axe se tire de la minute de votre naissance : pas d’heure de naissance, pas de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+L’axe décide où. Avec votre Soleil en maison 1 et Uranus qui traverse la maison 7 ([Uranus en transit en maison 7](/astrology/uranus-transit-7th-house/)), votre sentiment de vous-même rencontre, en tête-à-tête, le besoin d’air d’une ou d’un partenaire, d’une associée ou d’un associé. Cet axe se tire de la minute de votre naissance ; sans l’heure, je le laisse sans lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
-Dans les orbes de mes prévisions, de 1,5° avant l’exactitude à 1° après, l’opposition dure une vingtaine de mois, parfois onze seulement. Plus de neuf fois sur dix, Uranus franchit trois fois le point exact, le passage du milieu se faisant en rétrograde.
+L’opposition dure une vingtaine de mois, parfois onze seulement, de 1,5° avant l’exactitude à 1° après. Plus de neuf fois sur dix, Uranus franchit trois fois le point exact, le passage du milieu se faisant en rétrograde.
 
-De toutes les étapes qu’Uranus parcourt avec votre Soleil, c’est la plus lointaine : environ 42 ans après [Uranus en transit conjonction Soleil du thème natal](/astrology/transiting-uranus-conjunct-natal-sun/), quatorze ans environ après le premier trigone ([Uranus en transit trigone Soleil du thème natal](/astrology/transiting-uranus-trine-natal-sun/)) et quatorze ans avant le second. [Uranus en transit carré Soleil du thème natal](/astrology/transiting-uranus-square-natal-sun/) l’encadre à une vingtaine d’années de chaque côté, et [Uranus en transit sextile Soleil du thème natal](/astrology/transiting-uranus-sextile-natal-sun/) se trouve plus loin, près de la conjonction. Avant 80 ans, ce [transit](/astrology/transits/) touche tout le monde, sauf environ 1 personne sur 50 née entre 1930 et 2009.
+De toutes les étapes qu’Uranus parcourt avec votre Soleil, c’est la plus lointaine : environ 42 ans après [Uranus en transit conjonction Soleil du thème natal](/astrology/transiting-uranus-conjunct-natal-sun/), quatorze ans environ après le premier trigone ([Uranus en transit trigone Soleil du thème natal](/astrology/transiting-uranus-trine-natal-sun/)) et quatorze ans avant le second. [Uranus en transit carré Soleil du thème natal](/astrology/transiting-uranus-square-natal-sun/) l’encadre à une vingtaine d’années de chaque côté, et [Uranus en transit sextile Soleil du thème natal](/astrology/transiting-uranus-sextile-natal-sun/) se trouve plus loin, près de la conjonction. Seule environ 1 personne sur 50 née entre 1930 et 2009 est privée de ce [transit](/astrology/transits/) avant 80 ans.
 
 Deux sortes de naissances ont un calendrier fixé. Avec [Soleil opposition Uranus](/astrology/sun-opposite-uranus/) dans votre thème natal, vous l’avez rencontré à la naissance, et Uranus n’y reviendra pas avant 84 ans environ. Avec les deux planètes ensemble ([Soleil conjonction Uranus](/astrology/sun-conjunct-uranus/)), vous le rencontrez à votre [opposition d’Uranus](/astrology/uranus-opposition/), entre 39 et 44 ans et demi environ.
 

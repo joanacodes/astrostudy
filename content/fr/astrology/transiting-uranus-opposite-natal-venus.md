@@ -23,14 +23,14 @@ faq:
   - q: "Que veut dire Uranus en transit opposition Vénus du thème natal ?"
     a: "Uranus et votre Vénus de naissance se font maintenant face, à 180°. J’y lis une saison où l’amour, l’amitié et ce qui compte rencontrent le changement par l’autre bord : une personne proche veut plus de liberté, une personne très différente vous attire, et vous découvrez ce dont vous avez besoin en voyant ce que vous pouvez donner."
   - q: "Est-ce qu’Uranus opposition Vénus va mettre fin à ma relation ?"
-    a: "Aucun transit ne met fin à une relation, comme je les lis, et celui-ci ne décide de rien. Il rend souvent visible l’équilibre entre proximité et liberté, à travers les besoins de l’une des deux personnes. Un lien peut en sortir avec des termes plus justes ; ce qui arrive appartient aux personnes concernées."
+    a: "Je ne lis aucun transit comme la fin d’une relation, et celui-ci ne décide de rien. Il rend souvent visible l’équilibre entre proximité et liberté, à travers les besoins de l’une des deux personnes. Un lien peut en sortir avec des termes plus justes ; ce qui arrive appartient aux personnes concernées."
   - q: "Quand arrive Uranus opposition Vénus ?"
     a: "Elle marque la moitié des 84 ans qu’il faut à Uranus pour revenir à votre Vénus, environ 42 ans après son passage dessus : une fois dans une vie au plus. Avant 80 ans, les personnes nées entre 1930 et 2009 l’ont toutes connue, à l’exception d’environ 1 personne sur 50. Ses vingt mois environ comptent en général trois passages exacts."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent l’opposition avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "l’opposition d’Uranus à Vénus, parmi ses transits" }
 ---
-Quelque 42 ans après son passage sur votre Vénus, Uranus atteint l’autre côté du zodiaque. Pendant une vingtaine de mois, l’amour et la liberté se font face, et la liberté arrive le plus souvent sous les traits de quelqu’un d’autre.
+Quelque 42 ans après avoir franchi votre Vénus, Uranus arrive au point opposé. Pendant une vingtaine de mois, l’amour et la liberté se font face, et la liberté arrive le plus souvent sous les traits de quelqu’un d’autre.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -38,13 +38,13 @@ Quelque 42 ans après son passage sur votre Vénus, Uranus atteint l’autre cô
 
 Souvent, c’est une ou un partenaire, une amie ou un parent qui change en premier : de nouveaux intérêts, de nouvelles personnes, le désir d’avoir du temps à soi. Parfois, c’est l’attirance elle-même qui change : une personne très loin de vos goûts habituels vous tourne la tête, et la question devient ce que cela dit de ce qui vous manquait. Dans les deux cas, l’opposition montre ce dont vous avez besoin dans la proximité en vous montrant ce que vous pouvez donner.
 
-Aucun transit ne met fin à une relation, et je n’en lis aucun dans ce sens. Si l’envie vous prend de consulter le thème de la personne avec qui vous vivez pour deviner ses intentions, parlez-lui plutôt ; je ne lis le thème de personne sans son accord ([Synastrie et consentement](/blog/synastry-behind-their-back/)).
+Les relations finissent ou continuent pour des raisons qui leur appartiennent ; un transit n’en décide pas. Si l’envie vous prend de consulter le thème de la personne avec qui vous vivez pour deviner ses intentions, parlez-lui plutôt ; je ne lis le thème de personne sans son accord ([Synastrie et consentement](/blog/synastry-behind-their-back/)).
 
 Avec Vénus en maison 5 et Uranus qui traverse votre maison 11 ([Uranus en transit en maison 11](/astrology/uranus-transit-11th-house/)), les amitiés, les groupes et les causes tirent sur le temps que vous donneriez à l’amour et au jeu, et il faut trouver un équilibre entre les deux. C’est votre heure de naissance qui dit si cet axe est le vôtre, et sans elle je ne lis pas du tout l’opposition ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec [Vénus opposition Uranus](/astrology/venus-opposite-uranus/) dans votre thème natal, vous connaissez bien ce schéma : la liberté se montre souvent d’abord chez quelqu’un d’autre.
 
 ## Combien de temps {#combien-de-temps}
 
-L’opposition reste dans mes orbes, de 1,5° avant l’exactitude à 1° après, pendant une vingtaine de mois ; quelques passages se font en onze mois environ. Uranus franchit trois fois le point exact dans plus de neuf cas sur dix : une conversation commencée au premier passage est rarement le dernier mot.
+L’opposition tient une vingtaine de mois dans l’orbe, de 1,5° avant l’exactitude à 1° après ; quelques passages se font en onze mois environ. Uranus franchit trois fois le point exact dans plus de neuf cas sur dix : une conversation commencée au premier passage est rarement le dernier mot.
 
 Elle tombe environ 42 ans après [Uranus en transit conjonction Vénus du thème natal](/astrology/transiting-uranus-conjunct-natal-venus/) : si Uranus a franchi votre Vénus à 10 ans, l’opposition vient vers 52 ans, et si ce passage arrive à 50 ans, l’opposition a eu lieu vers 8 ans. [Uranus en transit sextile Vénus du thème natal](/astrology/transiting-uranus-sextile-natal-venus/), [Uranus en transit carré Vénus du thème natal](/astrology/transiting-uranus-square-natal-venus/) et [Uranus en transit trigone Vénus du thème natal](/astrology/transiting-uranus-trine-natal-venus/) viennent chacun deux fois dans le même tour, ce qui explique qu’on les rencontre plus souvent que celle-ci. Avant 80 ans, presque tout le monde l’a connue : il ne manque qu’environ 1 personne sur 50.
 

@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the conjunction by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus conjunct Mars, among his transits" }
 ---
-Once in its 84-year round, Uranus reaches the degree of your Mars, and for about twenty months the planet of change sits on the planet of drive. What you do, and how you go about it, wants doing your own way.
+The planet of change sits on the planet of drive when Uranus reaches the degree of your Mars, and it stays about twenty months. What you do, and how you go about it, wants doing your own way.
 
 ## What changes {#what-changes}
 

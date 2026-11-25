@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Lune", "sextile", "transits"]
 weight: 1686
 glyph: "♅⚹☽"
-definition: "Uranus en transit sextile Lune du thème natal, c’est Uranus en sextile, à 60°, avec la Lune de votre thème : une vingtaine de mois de changements plus faciles chez vous, deux fois dans la plupart des vies. Vos habitudes se renouvellent sans lutte, si vous faites le premier pas. J’y lis une invitation à renouveler vos conforts."
+definition: "Uranus en transit sextile Lune du thème natal, c’est Uranus en sextile, à 60°, avec la Lune de votre thème : une vingtaine de mois de changements plus faciles chez vous, deux fois dans la plupart des vies. Vos habitudes se renouvellent sans lutte, si vous faites le premier pas. Pour moi, c’est l’occasion de renouveler vos conforts."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "La Lune ☽ : besoins, habitudes, sentiment de sécurité" }

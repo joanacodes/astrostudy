@@ -25,7 +25,7 @@ faq:
   - q: "Uranus sextile Mars, est-ce bon pour créer une entreprise ?"
     a: "Comme je le lis, c’est un climat favorable pour lancer quelque chose selon vos propres termes, parce que l’élan et l’originalité coopèrent. Je ne prédis pas la réussite d’un projet, et le transit non plus. Il décrit une saison où les premiers pas demandent moins d’effort que d’habitude."
   - q: "Uranus sextile Mars, c’est tous les combien ?"
-    a: "Deux fois par tour de 84 ans : avant 80 ans, la plupart des personnes nées entre 1930 et 2009 se sont vu offrir les deux, et toutes au moins un. Chacun reste dans mes orbes une vingtaine de mois, en général avec trois passages exacts."
+    a: "Deux fois par tour de 84 ans : avant 80 ans, la plupart des personnes nées entre 1930 et 2009 se sont vu offrir les deux, et toutes au moins un. L’un comme l’autre dure une vingtaine de mois dans mes orbes."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de sextiles viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le sextile d’Uranus à Mars, parmi ses transits" }
@@ -46,7 +46,7 @@ Deux aspects natals changent le calendrier. Avec [Mars trigone Uranus](/astrolog
 
 ## Combien de temps {#combien-de-temps}
 
-Chaque sextile dure une vingtaine de mois dans mes orbes, de 1,5° avant l’exactitude à 1° après, et un passage sur dix environ prend onze mois ou moins. Plus de neuf sur dix comptent trois passages exacts : il y a donc le temps de commencer, de faire une pause et de recommencer.
+Un sextile à Mars dure une vingtaine de mois, de 1,5° avant l’exactitude à 1° après, et un passage sur dix environ prend onze mois ou moins. Plus de neuf sur dix comptent trois passages exacts : il y a donc le temps de commencer, de faire une pause et de recommencer.
 
 Les deux sextiles encadrent [Uranus en transit conjonction Mars du thème natal](/astrology/transiting-uranus-conjunct-natal-mars/), à quatorze ans environ de chaque côté. Au-delà, plus loin dans le tour, se trouvent [Uranus en transit carré Mars du thème natal](/astrology/transiting-uranus-square-natal-mars/) et [Uranus en transit trigone Mars du thème natal](/astrology/transiting-uranus-trine-natal-mars/), deux fois chacun, et [Uranus en transit opposition Mars du thème natal](/astrology/transiting-uranus-opposite-natal-mars/), une fois. Quatre-vingts ans suffisent pour les deux sextiles dans la plupart des vies, et pour au moins un dans toutes : ce [transit](/astrology/transits/) est une saison que presque tout le monde peut préparer.
 

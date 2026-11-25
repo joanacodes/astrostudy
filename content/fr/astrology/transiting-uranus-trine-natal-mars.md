@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/mars", "/astrology/trine", "/astrology/mars-trine-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit trigone Mars du thème natal ?"
-    a: "Uranus forme un trigone avec votre Mars de naissance, à 120°, et tient cet angle une vingtaine de mois. J’y lis une période où l’élan et l’originalité travaillent ensemble : changer votre façon de travailler, lancer quelque chose d’indépendant ou apprendre un savoir-faire se fait avec moins de friction que d’habitude."
+    a: "L’angle entre Uranus et votre Mars de naissance est maintenant de 120°, et il tiendra une vingtaine de mois. J’y lis une période où l’élan et l’originalité travaillent ensemble : changer votre façon de travailler, lancer quelque chose d’indépendant ou apprendre un savoir-faire se fait avec moins de friction que d’habitude."
   - q: "Uranus trigone Mars, est-ce un bon moment pour commencer quelque chose ?"
     a: "C’est l’un des climats les plus faciles pour cela, comme je le lis, parce que l’effort et l’innovation coopèrent. Il ne choisit pas le projet et ne garantit pas son déroulement. Il offre de l’élan : les premiers pas coûtent moins, et un changement de méthode rencontre moins de résistance."
   - q: "Uranus trigone Mars, c’est tous les combien ?"
@@ -46,7 +46,7 @@ Avec Mars en maison 6 et Uranus qui traverse votre maison 2 ([Uranus en transit 
 
 ## Combien de temps {#combien-de-temps}
 
-De 1,5° avant l’exactitude à 1° après, les orbes de mes prévisions, le trigone reste une vingtaine de mois, et seul le dixième des passages le plus bref dure moins d’un an. Dans plus de neuf cas sur dix, il y a trois passages exacts, ce qui donne à l’élan trois poussées plutôt qu’une.
+Votre Mars reste en trigone avec Uranus une vingtaine de mois, de 1,5° avant l’exactitude à 1° après, et seul le dixième des passages le plus bref dure moins d’un an. Dans plus de neuf cas sur dix, il y a trois passages exacts, ce qui donne à l’élan trois poussées plutôt qu’une.
 
 Le premier trigone vient à un tiers du tour depuis [Uranus en transit conjonction Mars du thème natal](/astrology/transiting-uranus-conjunct-natal-mars/), après [Uranus en transit sextile Mars du thème natal](/astrology/transiting-uranus-sextile-natal-mars/) et [Uranus en transit carré Mars du thème natal](/astrology/transiting-uranus-square-natal-mars/) ; [Uranus en transit opposition Mars du thème natal](/astrology/transiting-uranus-opposite-natal-mars/) suit quelque quatorze ans plus tard, et le second trigone quatorze ans après encore. Avant 80 ans, les deux trigones sont en général venus, et l’un d’eux toujours.
 

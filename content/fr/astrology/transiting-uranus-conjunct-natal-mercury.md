@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/mercury", "/astrology/conjunction", "/astrology/mercury-conjunct-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit conjonction Mercure du thème natal ?"
-    a: "Uranus a atteint votre Mercure de naissance, et franchira ce degré, en général trois fois, en une vingtaine de mois. J’y lis une longue saison de pensée neuve : des sujets qui vous saisissent sans prévenir, des méthodes et des outils adoptés vite, des opinions que vous vous surprenez à réviser, et une façon de parler qui vous ressemble davantage."
+    a: "Uranus arrive sur le degré qu’occupait votre Mercure à la naissance et restera tout près une vingtaine de mois. J’y lis une longue saison de pensée neuve : des sujets qui vous saisissent sans prévenir, des méthodes et des outils adoptés vite, des opinions que vous vous surprenez à réviser, et une façon de parler qui vous ressemble davantage."
   - q: "Uranus conjonction Mercure, est-ce bon pour apprendre ?"
     a: "Souvent, comme je le lis : la curiosité est vive et les idées se relient vite, ce qui convient à une formation, à un nouveau domaine ou à un nouvel outil. Le piège, c’est le suivi. Les idées arrivent plus vite qu’on ne peut les vérifier, et ce qu’on apprend pour de bon, c’est ce qu’on note, vérifie et termine."
   - q: "Quand arrive Uranus conjonction Mercure ?"
@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent la conjonction avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "la conjonction d’Uranus à Mercure, parmi ses transits" }
 ---
-Une fois dans son tour de 84 ans, Uranus franchit le degré de votre Mercure, en général trois fois en une vingtaine de mois. Votre façon de recevoir les choses et de les mettre en mots se fait sans cesse interrompre, au bon sens du terme : l’information nouvelle s’invite, et vous la laissez entrer.
+Une vie connaît ce passage une fois au plus : Uranus sur le degré de votre Mercure, en général trois fois en une vingtaine de mois. Votre façon de recevoir les choses et de les mettre en mots se fait sans cesse interrompre, au bon sens du terme : l’information nouvelle s’invite, et vous la laissez entrer.
 
 ## Ce qui change {#ce-qui-change}
 

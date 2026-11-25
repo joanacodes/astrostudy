@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/moon", "/astrology/trine", "/astrology/moon-trine-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus trine natal Moon mean?"
-    a: "Uranus, moving through the sky, is a third of the zodiac away from your birth Moon, most often in a sign that shares its element. I read it as a time when needs and freedom cooperate: habits loosen without upheaval, home can be rearranged without a row, and you recover from change faster than usual."
+    a: "A trine, 120°, now links Uranus in the sky with your birth Moon, most often through two signs of the same element. I read it as a time when needs and freedom cooperate: habits loosen without upheaval, home can be rearranged without a row, and you recover from change faster than usual."
   - q: "Is Uranus trine Moon a good time for change at home?"
     a: "It’s one of the gentlest backgrounds for it, as I read the trine: change and comfort get on, so a new arrangement tends to settle quickly. The trine doesn’t choose the change or bring it. It makes the one you choose easier to live with, for about twenty months."
   - q: "Why does the timing of Uranus trine Moon depend on my birth time?"

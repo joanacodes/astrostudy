@@ -47,7 +47,7 @@ Measured from 1½° before exact to 1° after, my orbs for timing, this conjunct
 
 Uranus’s other contacts with your Moon fall at set distances from this one. Fourteen years or so either side lie the sextiles ([transiting Uranus sextile natal Moon](/astrology/transiting-uranus-sextile-natal-moon/)); about twenty years either side, the squares ([transiting Uranus square natal Moon](/astrology/transiting-uranus-square-natal-moon/)); about 28, the trines ([transiting Uranus trine natal Moon](/astrology/transiting-uranus-trine-natal-moon/)). The opposition ([transiting Uranus opposite natal Moon](/astrology/transiting-uranus-opposite-natal-moon/)) is the farthest point, some 42 years away.
 
-To find your age for it, count forwards through the zodiac from your natal Uranus to your Moon, allowing about seven years per sign. About 1 person in 33 born between 1930 and 2009 never meets it before 80, mostly people whose Moon sat a little behind Uranus at birth, so that Uranus had only just passed it. Born with [Moon conjunct Uranus](/astrology/moon-conjunct-uranus/) and the Moon slightly ahead, you met this transit in your first years instead.
+To find your age for it, count forwards through the zodiac from your natal Uranus to your Moon, allowing about seven years per sign. About 1 person in 33 born between 1930 and 2009 reaches 80 without it, mostly people whose Moon sat a little behind Uranus at birth, so that Uranus had only just passed it. Born with [Moon conjunct Uranus](/astrology/moon-conjunct-uranus/) and the Moon slightly ahead, you met this transit in your first years instead.
 
 ## What helps {#what-helps}
 

@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/moon", "/astrology/trine", "/astrology/moon-trine-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit trigone Lune du thème natal ?"
-    a: "Uranus, dans sa course, se trouve à un tiers de zodiaque de votre Lune de naissance, le plus souvent dans un signe qui partage son élément. J’y lis un moment où besoins et liberté coopèrent : les habitudes se desserrent sans bouleversement, la maison se réorganise sans dispute, et vous vous remettez d’un changement plus vite que d’habitude."
+    a: "Un trigone, 120°, relie maintenant Uranus, dans le ciel, à votre Lune de naissance, le plus souvent par deux signes du même élément. J’y lis un moment où besoins et liberté coopèrent : les habitudes se desserrent sans bouleversement, la maison se réorganise sans dispute, et vous vous remettez d’un changement plus vite que d’habitude."
   - q: "Uranus trigone Lune, est-ce un bon moment pour changer quelque chose chez soi ?"
     a: "C’est l’un des climats les plus doux pour cela, comme je lis le trigone : changement et réconfort s’entendent, alors un nouvel arrangement s’installe vite. Le trigone ne choisit pas le changement et ne l’apporte pas. Il rend celui que vous choisissez plus facile à vivre, pendant une vingtaine de mois."
   - q: "Pourquoi la date d’Uranus trigone Lune dépend-elle de mon heure de naissance ?"

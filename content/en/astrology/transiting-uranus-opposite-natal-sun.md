@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Sun", "opposition", "transits"]
 weight: 1684
 glyph: "♅☍☉"
-definition: "Transiting Uranus opposite natal Sun means Uranus has reached the far side of the zodiac from your birth Sun, a stay of about twenty months that a life sees once at most. The push for change tends to arrive through other people, and asks which parts of your direction are yours. I read it as a mirror, never a verdict."
+definition: "Transiting Uranus opposite natal Sun means Uranus stands 180° from your birth Sun, a stay of about twenty months that a life sees once at most. The push for change tends to arrive through other people, and asks which parts of your direction are yours. I read it as a mirror, never a verdict."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "The Sun ☉: identity, purpose and vitality" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/sun", "/astrology/opposition", "/astrology/sun-opposite-uranus", "/astrology/uranus-opposition"]
 faq:
   - q: "What does transiting Uranus opposite natal Sun mean?"
-    a: "In the sky, Uranus has reached the point directly across the zodiac from your birth Sun. I read it as a season when change reaches you from the other side, often through someone close who wants something different, and asks how much of your direction is yours and how much was only the arrangement around you."
+    a: "Uranus is now as far from your birth Sun as it can get, half the zodiac away. I read it as a season when change reaches you from the other side, often through someone close who wants something different, and asks how much of your direction is yours and how much was only the arrangement around you."
   - q: "How often does Uranus oppose the Sun?"
     a: "Once in Uranus’s round of about 84 years, so once in a long life at most: about 1 person in 50 born between 1930 and 2009 turns 80 without having met it. When it comes, it lasts about twenty months with my orbs, and Uranus usually crosses the exact point three times."
   - q: "Is Uranus opposite Sun the same as the Uranus opposition?"
@@ -37,13 +37,13 @@ Once in its 84-year round, Uranus reaches the point straight across from your Su
 
 The reverse is just as common: you meet in another person the freedom you never claimed for yourself, and admire it, or resent it, before you see that it's a question about you. Neither reaction is wrong. The opposition asks for a balance rather than a winner: room for the other person's change, and a direction that doesn't depend on everyone around you staying still. I don't read it for a separation, a dismissal or any other ending; what people do in these months is theirs ([how I read](/how-i-read/)).
 
-The axis decides where. With your Sun in the 1st and Uranus crossing the 7th ([Uranus transiting the 7th house](/astrology/uranus-transit-7th-house/)), your sense of self meets a partner's or a collaborator's need for room, one to one. That axis is drawn from the minute you were born: no birth time, no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
+The axis decides where. With your Sun in the 1st and Uranus crossing the 7th ([Uranus transiting the 7th house](/astrology/uranus-transit-7th-house/)), your sense of self meets a partner's or a collaborator's need for room, one to one. That axis is drawn from the minute you were born, so without a birth time I leave it unread ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within the orbs I use for timing, 1½° before exact to 1° after, the opposition lasts about twenty months, sometimes as little as eleven. More than nine times in ten, Uranus crosses the exact point three times, the middle crossing made while it's retrograde.
+The opposition lasts about twenty months, sometimes as little as eleven, from 1½° before exact to 1° after. More than nine times in ten, Uranus crosses the exact point three times, the middle crossing made while it's retrograde.
 
-Of all the steps Uranus takes with your Sun, this is the farthest: about 42 years after [transiting Uranus conjunct natal Sun](/astrology/transiting-uranus-conjunct-natal-sun/), roughly fourteen years after the first [transiting Uranus trine natal Sun](/astrology/transiting-uranus-trine-natal-sun/) and fourteen before the second. [Transiting Uranus square natal Sun](/astrology/transiting-uranus-square-natal-sun/) brackets it about twenty years either side, and [transiting Uranus sextile natal Sun](/astrology/transiting-uranus-sextile-natal-sun/) lies further off, near the conjunction. Before 80, this [transit](/astrology/transits/) reaches everyone except about 1 person in 50 born between 1930 and 2009.
+Of all the steps Uranus takes with your Sun, this is the farthest: about 42 years after [transiting Uranus conjunct natal Sun](/astrology/transiting-uranus-conjunct-natal-sun/), roughly fourteen years after the first [transiting Uranus trine natal Sun](/astrology/transiting-uranus-trine-natal-sun/) and fourteen before the second. [Transiting Uranus square natal Sun](/astrology/transiting-uranus-square-natal-sun/) brackets it about twenty years either side, and [transiting Uranus sextile natal Sun](/astrology/transiting-uranus-sextile-natal-sun/) lies further off, near the conjunction. Only about 1 person in 50 born between 1930 and 2009 goes without this [transit](/astrology/transits/) before 80.
 
 Two kinds of birth have a fixed timetable. Born with [Sun opposite Uranus](/astrology/sun-opposite-uranus/), you met it at birth, and Uranus won't stand there again until about 84. Born with the two together ([Sun conjunct Uranus](/astrology/sun-conjunct-uranus/)), you meet it at your [Uranus opposition](/astrology/uranus-opposition/), between about 39 and 44½.
 

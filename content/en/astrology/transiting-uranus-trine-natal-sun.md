@@ -43,7 +43,7 @@ In a birth chart, [Sun trine Uranus](/astrology/sun-trine-uranus/) comes from th
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, the orbs I use for timing, a trine from Uranus usually lasts about twenty months, and seldom less than eleven. In more than nine passes out of ten Uranus touches the exact degree three times as its yearly retrograde loop carries it back and forward. In the rest it touches it once, turning round within orb before it can cross again, and still stays about twenty months.
+A trine from Uranus usually lasts about twenty months between 1½° before exact and 1° after, and seldom less than eleven. In more than nine passes out of ten Uranus touches the exact degree three times as its yearly retrograde loop carries it back and forward. In the rest it touches it once, turning round within orb before it can cross again, and still stays about twenty months.
 
 In the round Uranus makes with your Sun, the two trines sit about 28 years before and 28 years after [transiting Uranus conjunct natal Sun](/astrology/transiting-uranus-conjunct-natal-sun/). Between them, about fourteen years from each, comes [transiting Uranus opposite natal Sun](/astrology/transiting-uranus-opposite-natal-sun/); nearer the conjunction come [transiting Uranus sextile natal Sun](/astrology/transiting-uranus-sextile-natal-sun/) and [transiting Uranus square natal Sun](/astrology/transiting-uranus-square-natal-sun/). The count for births from 1930 to 2009 puts both trines inside most lives of 80 years, and at least one inside every one of them.
 

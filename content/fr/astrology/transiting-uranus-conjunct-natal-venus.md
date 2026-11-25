@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent la conjonction avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "la conjonction d’Uranus à Vénus, parmi ses transits" }
 ---
-Une fois dans son tour de 84 ans, Uranus atteint votre Vénus et reste dessus ou tout près pendant une vingtaine de mois. Le goût, l’attirance et le sentiment de ce qui vaut la peine sont les parts de vous que ce passage réveille, souvent toutes à la fois.
+Une fois au plus dans une vie, votre Vénus reçoit la visite d’Uranus pendant une vingtaine de mois. Le goût, l’attirance et le sentiment de ce qui vaut la peine sont les parts de vous que ce passage réveille, souvent toutes à la fois.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -40,13 +40,13 @@ Cela peut prendre la forme d’un changement de goût en musique, en vêtements 
 
 Je ne le lis ni pour une nouvelle relation ni pour une fin, pas plus que n’importe quel autre [transit](/astrology/transits/#ses-limites). Il décrit ce que vous désirez, pas ce qui arrive.
 
-La maison de votre Vénus dit où le goût nouveau se montre. En maison 5, c’est dans le jeu, la création et l’amour, quelque part pendant les années qu’Uranus passe dans cette maison ([Uranus en transit en maison 5](/astrology/uranus-transit-5th-house/)). La maison de votre Vénus est fixée par votre heure de naissance, et sans cette heure, ce transit reste sans lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le goût nouveau se montre d’abord dans la maison qu’occupe votre Vénus. En maison 5, c’est dans le jeu, la création et l’amour, quelque part pendant les années qu’Uranus passe dans cette maison ([Uranus en transit en maison 5](/astrology/uranus-transit-5th-house/)). La maison de votre Vénus est fixée par votre heure de naissance, et sans cette heure, ce transit reste sans lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 On décrit souvent [Vénus conjonction Uranus](/astrology/venus-conjunct-uranus/), dans un thème natal, avec les mots employés ici : des goûts inhabituels, des attirances soudaines, un amour qui laisse de l’air. La différence tient à la durée.
 
 ## Combien de temps {#combien-de-temps}
 
-Uranus passe une vingtaine de mois dans mes orbes de votre Vénus, de 1,5° avant l’exactitude à 1° après, assez longtemps pour que Vénus, dans le ciel, devienne rétrograde une fois ; les passages les plus brefs prennent onze mois environ. Uranus touche trois fois le degré exact, sauf dans un passage sur quatorze environ.
+Le séjour d’Uranus sur votre Vénus, de 1,5° avant l’exactitude à 1° après, dure une vingtaine de mois, assez pour que la planète elle-même devienne rétrograde au moins une fois dans le ciel ; les passages les plus brefs prennent onze mois environ. Uranus touche trois fois le degré exact, sauf dans un passage sur quatorze environ.
 
 Des cinq étapes qu’Uranus parcourt avec votre Vénus, seules celle-ci et [Uranus en transit opposition Vénus du thème natal](/astrology/transiting-uranus-opposite-natal-venus/) viennent une fois au plus. [Uranus en transit sextile Vénus du thème natal](/astrology/transiting-uranus-sextile-natal-venus/), [Uranus en transit carré Vénus du thème natal](/astrology/transiting-uranus-square-natal-venus/) et [Uranus en transit trigone Vénus du thème natal](/astrology/transiting-uranus-trine-natal-venus/) viennent deux fois, à quatorze, vingt et 28 ans environ de part et d’autre de ce passage. En 80 ans, Uranus atteint la Vénus de presque toutes les personnes nées entre 1930 et 2009, mais environ 1 personne sur 25 reste à l’écart.
 

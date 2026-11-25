@@ -25,7 +25,7 @@ faq:
   - q: "Uranus trigone Mercure, est-ce bon pour écrire ?"
     a: "Comme je le lis, c’est l’un des climats les plus favorables à l’écriture, à l’étude ou à tout travail d’idées, parce que l’invention et l’expression vont ensemble. Le risque est celui de tout trigone : des idées faciles laissées en plan. Un projet avec une échéance tire bien mieux parti de ce transit qu’un carnet de débuts."
   - q: "Uranus trigone Mercure, c’est tous les combien ?"
-    a: "Il y en a deux par tour de 84 ans. Avant 80 ans, la majorité des personnes nées entre 1930 et 2009 ont connu les deux. Chaque visite dure une vingtaine de mois, en général avec trois passages exacts."
+    a: "Il y en a deux par tour de 84 ans, et les personnes nées entre 1930 et 2009 les ont le plus souvent connus tous les deux en arrivant à 80 ans. Chaque visite dure une vingtaine de mois, assez pour qu’Uranus touche trois fois le trigone exact."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de trigones viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le trigone d’Uranus à Mercure, parmi ses transits" }
@@ -34,7 +34,7 @@ Chacun des deux trigones d’Uranus à votre Mercure tombe entre un carré et l�
 
 ## Ce qui change {#ce-qui-change}
 
-[Mercure](/astrology/mercury/), c’est la part de vous qui apprend, raisonne et explique. [Uranus](/astrology/uranus/) apporte l’originalité et l’arrivée rapide d’une solution neuve. Dans un [trigone](/astrology/trine/), 120°, deux fonctions s’aident sans que l’une cède du terrain à l’autre : l’inventif et l’articulé travaillent ensemble, une idée bizarre arrive avec les mots pour l’expliquer, et une méthode nouvelle prend sens dès le premier essai.
+Par [Mercure](/astrology/mercury/), vous apprenez, raisonnez et expliquez. [Uranus](/astrology/uranus/) apporte l’originalité et l’arrivée rapide d’une solution neuve. Dans un [trigone](/astrology/trine/), 120°, deux fonctions s’aident sans que l’une cède du terrain à l’autre : l’inventif et l’articulé travaillent ensemble, une idée bizarre arrive avec les mots pour l’expliquer, et une méthode nouvelle prend sens dès le premier essai.
 
 L’aisance apparaît justement là où penser demande d’ordinaire un vrai travail. L’étude avance vite. Un texte en panne trouve sa forme. Une compétence technique que vous évitiez se révèle accessible, et une conversation redoutée se passe bien parce que vous trouvez une autre façon de la poser. [Mercure trigone Uranus](/astrology/mercury-trine-uranus/), dans un thème natal, décrit cette aisance comme un trait ; le transit la met sur un calendrier, et c’est là son intérêt : vous savez quand elle est là.
 
@@ -44,7 +44,7 @@ Avec Mercure en maison 12 et Uranus qui traverse votre maison 8 ([Uranus en tran
 
 ## Combien de temps {#combien-de-temps}
 
-De 1,5° avant l’exactitude à 1° après, les orbes de mes prévisions, le trigone tient une vingtaine de mois ; onze mois, c’est à peu près le plus court. Dans plus de neuf cas sur dix, Uranus atteint trois fois le trigone exact, ce qui convient aux travaux qui demandent des brouillons : une première version, une reprise, une fin.
+Le trigone tient une vingtaine de mois, dès qu’Uranus arrive à 1,5° de l’exactitude et jusqu’à 1° au-delà ; onze mois, c’est à peu près le plus court. Dans plus de neuf cas sur dix, Uranus atteint trois fois le trigone exact, ce qui convient aux travaux qui demandent des brouillons : une première version, une reprise, une fin.
 
 Les deux trigones viennent environ 28 ans de part et d’autre de [Uranus en transit conjonction Mercure du thème natal](/astrology/transiting-uranus-conjunct-natal-mercury/). Le premier suit [Uranus en transit carré Mercure du thème natal](/astrology/transiting-uranus-square-natal-mercury/) de sept ans environ et précède [Uranus en transit opposition Mercure du thème natal](/astrology/transiting-uranus-opposite-natal-mercury/) d’environ quatorze ans ; [Uranus en transit sextile Mercure du thème natal](/astrology/transiting-uranus-sextile-natal-mercury/) se place plus près de la conjonction, de chaque côté. Tout le monde connaît au moins l’un des deux trigones avant 80 ans, et la plupart des gens les deux : ce [transit](/astrology/transits/) compte parmi les saisons d’Uranus les plus répandues.
 

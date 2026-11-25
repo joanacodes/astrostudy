@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Venus", "sextile", "transits"]
 weight: 1696
 glyph: "♅⚹♀"
-definition: "Transiting Uranus sextile natal Venus opens about twenty months, twice in most lives, when Uranus stands 60° from the planet of your affections and taste. New friends, new pleasures and a fresher way of being together come within reach, if you say yes to them. I read it as an invitation to enjoy differently."
+definition: "Transiting Uranus sextile natal Venus opens about twenty months, twice in most lives, when Uranus stands 60° from the planet of your affections and taste. New friends, new pleasures and a fresher way of being together come within reach, if you say yes to them. What it offers is a different way to enjoy."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Venus ♀: attraction, taste and what you value" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/venus", "/astrology/sextile", "/astrology/venus-sextile-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus sextile natal Venus mean?"
-    a: "It’s a stretch of about twenty months when Uranus sits 60° from your birth Venus. I read it as an easy opening in love, friendship and taste: an invitation to something new, a way of spending time together that feels fresher, a pleasure you hadn’t thought was for you. It needs you to accept."
+    a: "It’s a stretch of about twenty months when Uranus sits 60° from your birth Venus. I read it as a light opening in love, friendship and taste: an invitation to something new, a way of spending time together that feels fresher, a pleasure you hadn’t thought was for you. It needs you to accept."
   - q: "Is Uranus sextile Venus good for relationships?"
     a: "It’s one of the friendlier backgrounds for them, as I read it, because it brings novelty without strain: a bond can take in something new without being shaken. It doesn’t bring anyone or end anything, though. Whatever freshness it offers comes through what the two of you choose to try."
   - q: "When does Uranus sextile Venus happen?"
@@ -43,7 +43,7 @@ With Venus in your 2nd and Uranus crossing your 4th ([Uranus transiting the 4th 
 
 ## How long it lasts {#how-long-it-lasts}
 
-About twenty months is the usual length within my orbs, which run from 1½° before exact to 1° after; some passes are over in eleven. Uranus makes three exact contacts in more than nine passes out of ten, so an invitation turned down at the first can come round again.
+Each of the two runs about twenty months from 1½° before exact to 1° after, and some passes are over in eleven. Uranus makes three exact contacts in more than nine passes out of ten, so an invitation turned down at the first can come round again.
 
 One sextile comes in the run-up to [transiting Uranus conjunct natal Venus](/astrology/transiting-uranus-conjunct-natal-venus/) and one in its wake. Further from the conjunction lie [transiting Uranus square natal Venus](/astrology/transiting-uranus-square-natal-venus/), about twenty years from it, [transiting Uranus trine natal Venus](/astrology/transiting-uranus-trine-natal-venus/), about 28, and [transiting Uranus opposite natal Venus](/astrology/transiting-uranus-opposite-natal-venus/), at the far end of the round. If you reach 80, you'll have had one of these sextiles at the very least, and most likely both: of all the Uranus [transits](/astrology/transits/) to Venus, they're among the easiest to use.
 

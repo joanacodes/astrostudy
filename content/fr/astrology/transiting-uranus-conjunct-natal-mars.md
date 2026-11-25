@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent la conjonction avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "la conjonction d’Uranus à Mars, parmi ses transits" }
 ---
-Une fois dans son tour de 84 ans, Uranus atteint le degré de votre Mars, et pendant une vingtaine de mois la planète du changement se tient sur celle de l’élan. Ce que vous faites, et votre façon de le faire, demande à suivre votre propre voie.
+La planète du changement se pose sur celle de l’élan quand Uranus atteint le degré de votre Mars, et y reste une vingtaine de mois. Ce que vous faites, et votre façon de le faire, demande à suivre votre propre voie.
 
 ## Ce qui change {#ce-qui-change}
 

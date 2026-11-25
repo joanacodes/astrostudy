@@ -25,7 +25,7 @@ faq:
   - q: "Uranus carré Vénus, est-ce une rupture ?"
     a: "Pas comme je le lis : aucun transit ne décide de la durée d’une relation. Ce carré décrit une agitation et un désir de plus d’espace à l’intérieur de vos liens. Certaines personnes renégocient, d’autres se réengagent sur de nouvelles bases ; ce qui arrive appartient aux personnes concernées, jamais au ciel."
   - q: "Combien de temps dure Uranus carré Vénus ?"
-    a: "Une vingtaine de mois chacun, de 1,5° avant l’exactitude à 1° après, et dans plus de neuf cas sur dix Uranus franchit trois fois le carré exact. Uranus en forme deux tous les 84 ans, à quelque 42 ans d’intervalle : le second trouve vos relations à un tout autre moment de votre vie."
+    a: "Une vingtaine de mois chacun, de 1,5° avant l’exactitude à 1° après, avec trois passages exacts dans plus de neuf cas sur dix. Uranus en forme deux tous les 84 ans, à quelque 42 ans d’intervalle : le second trouve vos relations à un tout autre moment de votre vie."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de carrés viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le carré d’Uranus à Vénus, parmi ses transits" }

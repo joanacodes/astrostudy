@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the conjunction by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus conjunct Venus, among his transits" }
 ---
-Once in its 84-year round, Uranus reaches your Venus and stays on or near it for about twenty months. Taste, attraction and the sense of what's worth having are the parts of you it wakes up, often all at once.
+Once at most in a life, your Venus gets Uranus's company for about twenty months. Taste, attraction and the sense of what's worth having are the parts of you it wakes up, often all at once.
 
 ## What changes {#what-changes}
 
@@ -39,13 +39,13 @@ It can show as a change of taste in music, clothes or the look of your home; as 
 
 I don't read it for a new partner or for an ending, any more than any other [transit](/astrology/transits/#its-limits). It describes what you want, not what happens.
 
-Where your Venus sits by house is where the new taste shows. In the 5th, it shows in play, creative work and romance, somewhere inside Uranus's years in that house ([Uranus transiting the 5th house](/astrology/uranus-transit-5th-house/)). The house of your Venus is fixed by your birth time, and without the time this transit goes unread ([what changes without a birth time](/blog/unknown-birth-time/)).
+The new taste shows first in the house your Venus occupies. In the 5th, it shows in play, creative work and romance, somewhere inside Uranus's years in that house ([Uranus transiting the 5th house](/astrology/uranus-transit-5th-house/)). The house of your Venus is fixed by your birth time, and without the time this transit goes unread ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The natal pairing, [Venus conjunct Uranus](/astrology/venus-conjunct-uranus/), is often described in the same words used here: unusual tastes, sudden attractions, love with room in it. The difference is duration.
 
 ## How long it lasts {#how-long-it-lasts}
 
-Uranus spends about twenty months within my orbs of your Venus, from 1½° before exact to 1° after, long enough for Venus in the sky to turn retrograde once; the briefest passes take about eleven months. Uranus touches the exact degree three times in all but about one pass in fourteen.
+Uranus's stay on your Venus, from 1½° before exact to 1° after, lasts about twenty months, long enough for the planet itself to turn retrograde in the sky at least once; the briefest passes take about eleven months. Uranus touches the exact degree three times in all but about one pass in fourteen.
 
 Of the five steps Uranus takes with your Venus, only this one and [transiting Uranus opposite natal Venus](/astrology/transiting-uranus-opposite-natal-venus/) come once at most. [Transiting Uranus sextile natal Venus](/astrology/transiting-uranus-sextile-natal-venus/), [transiting Uranus square natal Venus](/astrology/transiting-uranus-square-natal-venus/) and [transiting Uranus trine natal Venus](/astrology/transiting-uranus-trine-natal-venus/) come twice, about fourteen, twenty and 28 years either side of this crossing. In 80 years Uranus reaches the Venus of nearly everyone born between 1930 and 2009, though about 1 person in 25 is left out.
 

@@ -25,7 +25,7 @@ faq:
   - q: "Uranus opposition Lune, est-ce un changement dans la famille ?"
     a: "Ce transit peut décrire une période où l’équilibre d’un foyer se déplace, comme je le lis, mais il ne décide pas de qui s’en va, reste ou arrive. Il décrit un climat : la proximité et l’indépendance qui demandent à être rééquilibrées. Ce qu’en font les personnes concernées leur appartient."
   - q: "Uranus opposition Lune, est-ce rare ?"
-    a: "C’est un transit qui vient une fois dans une vie au plus, quelque 42 ans après le passage d’Uranus sur votre Lune. Environ 1 personne sur 33 née entre 1930 et 2009 a passé 80 ans avant qu’Uranus n’arrive jusque-là. Avec mes orbes, il dure une vingtaine de mois, souvent en trois passages exacts."
+    a: "C’est un transit qui vient une fois dans une vie au plus, quelque 42 ans après le passage d’Uranus sur votre Lune. Environ 1 personne sur 33 née entre 1930 et 2009 a passé 80 ans avant qu’Uranus n’arrive jusque-là. Avec mes orbes, il dure une vingtaine de mois, et Uranus touche en général trois fois le point exact."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent l’opposition avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "l’opposition d’Uranus à la Lune, parmi ses transits" }
@@ -46,7 +46,7 @@ Avec la Lune en maison 4 et Uranus qui traverse votre maison 10 ([Uranus en tran
 
 ## Combien de temps {#combien-de-temps}
 
-De 1,5° avant l’exactitude à 1° après, les orbes de mes prévisions, Uranus tient en général l’opposition une vingtaine de mois ; seuls les passages les plus rapides, onze mois environ, sont nettement plus courts. Plus de neuf passages sur dix franchissent trois fois le point exact : la même question a donc tendance à se poser trois fois, à quelques mois d’intervalle.
+Une vingtaine de mois, c’est le séjour habituel de l’opposition, de 1,5° avant l’exactitude à 1° après ; seuls les passages les plus rapides, onze mois environ, sont nettement plus courts. Plus de neuf passages sur dix franchissent trois fois le point exact : la même question a donc tendance à se poser trois fois, à quelques mois d’intervalle.
 
 Compté depuis [Uranus en transit conjonction Lune du thème natal](/astrology/transiting-uranus-conjunct-natal-moon/), ce transit vient environ 42 ans plus tard. Il se place ainsi entre les deux trigones ([Uranus en transit trigone Lune du thème natal](/astrology/transiting-uranus-trine-natal-moon/)), à quatorze ans de chacun, et loin des carrés ([Uranus en transit carré Lune du thème natal](/astrology/transiting-uranus-square-natal-moon/)) et des sextiles ([Uranus en transit sextile Lune du thème natal](/astrology/transiting-uranus-sextile-natal-moon/)), plus proches de la conjonction. Uranus ne boucle pas tout à fait son tour en 80 ans, et pour environ 1 personne sur 33 née entre 1930 et 2009, le point opposé à la Lune se trouve dans la portion de zodiaque qu’Uranus n’a pas encore atteinte.
 

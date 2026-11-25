@@ -24,7 +24,7 @@ faq:
   - q: "Is Uranus trine Mercury good for writing?"
     a: "As I read it, it’s one of the kindest backgrounds for writing, study or any work with ideas, because invention and expression flow together. The risk is the trine’s usual one: easy ideas left unfinished. A project with a deadline uses this transit far better than a notebook of beginnings."
   - q: "How often does Uranus trine Mercury?"
-    a: "There are two in each 84-year round. By 80, the majority of people born between 1930 and 2009 have had both. Each visit runs to about twenty months, usually with three exact hits."
+    a: "There are two in each 84-year round, and people born between 1930 and 2009 have mostly met both by their eighties. Each visit runs to about twenty months, long enough for Uranus to touch the exact trine three times."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the trine comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus trine Mercury, among his transits" }
@@ -33,7 +33,7 @@ Each of Uranus's two trines to your Mercury falls between a square and the oppos
 
 ## What changes {#what-changes}
 
-[Mercury](/astrology/mercury/) is the part of you that learns, reasons and explains. [Uranus](/astrology/uranus/) brings originality and the quick arrival of a new solution. In a [trine](/astrology/trine/), 120°, two functions help each other without either giving ground, so the inventive and the articulate work together: an odd idea comes with the words to explain it, and a new method makes sense the first time you try it.
+Through [Mercury](/astrology/mercury/) you learn, reason and explain. [Uranus](/astrology/uranus/) brings originality and the quick arrival of a new solution. In a [trine](/astrology/trine/), 120°, two functions help each other without either giving ground, so the inventive and the articulate work together: an odd idea comes with the words to explain it, and a new method makes sense the first time you try it.
 
 The ease turns up exactly where thinking is usually hard work. Study goes quickly. Writing that stalled finds its form. A technical skill you'd avoided turns out to be learnable, and a conversation you'd dreaded goes well because you find a new way to frame it. The natal [Mercury trine Uranus](/astrology/mercury-trine-uranus/) describes this fluency as a trait; the transit puts it on a timetable, which is the useful part, since you know when it's there.
 
@@ -43,7 +43,7 @@ With Mercury in your 12th and Uranus crossing your 8th ([Uranus transiting the 8
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, the orbs I use for timing, the trine holds for about twenty months; eleven is about as short as it gets. In more than nine passes out of ten Uranus reaches the exact trine three times, which suits work that needs drafts: a first version, a revision, a finish.
+The trine holds for about twenty months once Uranus is within 1½° of exact, until it is 1° past; eleven is about as short as it gets. In more than nine passes out of ten Uranus reaches the exact trine three times, which suits work that needs drafts: a first version, a revision, a finish.
 
 The two trines come about 28 years either side of [transiting Uranus conjunct natal Mercury](/astrology/transiting-uranus-conjunct-natal-mercury/). The first follows [transiting Uranus square natal Mercury](/astrology/transiting-uranus-square-natal-mercury/) by about seven years and comes about fourteen before [transiting Uranus opposite natal Mercury](/astrology/transiting-uranus-opposite-natal-mercury/); [transiting Uranus sextile natal Mercury](/astrology/transiting-uranus-sextile-natal-mercury/) sits closer to the conjunction on each side. Everyone gets at least one of the two trines before 80, and most people get both, which makes this [transit](/astrology/transits/) one of the commoner Uranus seasons.
 

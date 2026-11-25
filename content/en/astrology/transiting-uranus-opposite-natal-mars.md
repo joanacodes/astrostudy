@@ -24,7 +24,7 @@ faq:
   - q: "Does Uranus opposite Mars mean conflict?"
     a: "It can bring more friction with others, because two people’s need to act freely is harder to fit together. I don’t predict fights or their outcomes, though. The opposition describes a balance between your drive and someone else’s, and negotiation usually serves it better than force."
   - q: "How often does Uranus oppose Mars?"
-    a: "At most once, since Uranus takes about 84 years to go round and the opposition marks its halfway point, some 42 years after it passes your Mars. About 1 person in 33 born between 1930 and 2009 hasn’t met it by 80; for everyone else it comes once, lasting about twenty months with my orbs."
+    a: "At most once: a full round of Uranus needs about 84 years, and the opposition is its halfway point, some 42 years after it passes your Mars. About 1 person in 33 born between 1930 and 2009 hasn’t met it by 80; for everyone else it comes once, lasting about twenty months with my orbs."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the opposition by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus opposite Mars, among his transits" }
@@ -39,13 +39,13 @@ It often shows in shared plans. A partner changes direction; a colleague or a ri
 
 Disputes can flare when two people want to act freely at once, and I don't read how any of them will end, in court or out of it, from this [transit](/astrology/transits/) or any other ([can astrology predict a court case?](/astrology/can-astrology-predict-a-court-case/)).
 
-With Mars in your 2nd and Uranus crossing your 8th ([Uranus transiting the 8th house](/astrology/uranus-transit-8th-house/)), something you share with others, a joint project, a household arrangement, the terms of a partnership, changes and presses on what you build by your own effort. Without your birth time there's no 2nd and no 8th to speak of, so there's no reading of this opposition either ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Mars in your 2nd and Uranus crossing your 8th ([Uranus transiting the 8th house](/astrology/uranus-transit-8th-house/)), something you share with others, a joint project, a household arrangement, the terms of a partnership, changes and presses on what you build by your own effort. Take away the birth time and both houses go, and with them any reading of this opposition ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Born with [Mars opposite Uranus](/astrology/mars-opposite-uranus/), you'll find your [Uranus opposition](/astrology/uranus-opposition/), around 40, lands on Mars rather than across from it: for you, the midlife transit is the conjunction.
 
 ## How long it lasts {#how-long-it-lasts}
 
-Uranus spends about twenty months on this opposition, from 1½° before exact to 1° after, the orbs I use for timing; a tenth of passes are over in eleven months or less. In more than nine passes out of ten Uranus crosses the exact point three times, so a standoff has time to turn into an agreement.
+Uranus spends about twenty months on this opposition, from 1½° before exact to 1° after; a tenth of passes are over in eleven months or less. In more than nine passes out of ten Uranus crosses the exact point three times, so a standoff has time to turn into an agreement.
 
 Uranus needs about 42 years to get here from [transiting Uranus conjunct natal Mars](/astrology/transiting-uranus-conjunct-natal-mars/), and passes [transiting Uranus sextile natal Mars](/astrology/transiting-uranus-sextile-natal-mars/), [transiting Uranus square natal Mars](/astrology/transiting-uranus-square-natal-mars/) and [transiting Uranus trine natal Mars](/astrology/transiting-uranus-trine-natal-mars/) on the way, each of which it meets again on the other side. The opposition is missed by about 1 person in 33 before 80, and met once by everyone else, since one round of Uranus holds only one.
 

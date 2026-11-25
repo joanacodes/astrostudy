@@ -22,14 +22,14 @@ faq:
   - q: "What does transiting Uranus opposite natal Venus mean?"
     a: "Uranus and your birth Venus now face each other, 180° apart. I read it as a season when love, friendship and what you value meet change from the other side: a partner or friend wants more freedom, someone very unlike you attracts you, and you find out what you need from closeness by seeing what you can give."
   - q: "Will Uranus opposite Venus end my relationship?"
-    a: "No transit ends a relationship, as I read them, and this one decides nothing. It tends to make the balance between closeness and freedom visible, often through what one person needs. A bond can come through it on fairer terms; what happens is up to the people in it."
+    a: "I don’t read any transit as the end of a relationship, and this one decides nothing. It tends to make the balance between closeness and freedom visible, often through what one person needs. A bond can come through it on fairer terms; what happens is up to the people in it."
   - q: "When does Uranus oppose Venus?"
-    a: "It marks the halfway point of the 84 years Uranus needs to come back to your Venus, about 42 years after crossing it, so it comes once in a life at most. By 80, all but about 1 person in 50 born between 1930 and 2009 have had it. Its twenty months or so usually hold three exact crossings."
+    a: "It marks the halfway point of the 84 years Uranus needs to come back to your Venus, about 42 years after crossing it, so once in a life at most. By 80 nearly everyone born between 1930 and 2009 has had it, about 1 person in 50 excepted. Its twenty months or so usually hold three exact crossings."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the opposition by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus opposite Venus, among his transits" }
 ---
-Some 42 years after Uranus crosses your Venus, it reaches the far side of the zodiac from it. For about twenty months love and freedom face each other, and freedom usually arrives wearing someone else's face.
+Some 42 years after crossing your Venus, Uranus arrives at the point opposite. For about twenty months love and freedom face each other, and freedom usually arrives wearing someone else's face.
 
 ## What changes {#what-changes}
 
@@ -37,7 +37,7 @@ Some 42 years after Uranus crosses your Venus, it reaches the far side of the zo
 
 Often it's a partner, a friend or a relative who changes first: new interests, new people, a wish for time of their own. Sometimes the attraction is the change: someone quite unlike your usual taste turns your head, and the question is what that says about what you've been missing. Either way, the opposition shows what you need from closeness by showing you what you can give.
 
-No transit ends a relationship, and I don't read one for it. If you're tempted to look up a partner's chart to see what they'll do, talk to them instead; I don't read anyone's chart without their consent ([synastry and consent](/blog/synastry-behind-their-back/)).
+Relationships end or carry on for their own reasons; a transit decides neither. If you're tempted to look up a partner's chart to see what they'll do, talk to them instead; I don't read anyone's chart without their consent ([synastry and consent](/blog/synastry-behind-their-back/)).
 
 With Venus in your 5th and Uranus crossing your 11th ([Uranus transiting the 11th house](/astrology/uranus-transit-11th-house/)), friends, groups and causes pull on the time you'd give to romance and play, and a balance between the two has to be found. Your birth time decides whether this is the axis you have, and without it I don't read the opposition at all ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Venus opposite Uranus](/astrology/venus-opposite-uranus/), you'll know the pattern well: freedom tends to show up first in someone else.
 

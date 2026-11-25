@@ -2,7 +2,7 @@
 title: "Uranus en transit conjonction Jupiter du thème natal"
 slug: "uranus-transit-conjonction-jupiter-natal"
 h1: "Uranus en transit conjonction Jupiter de votre thème natal"
-description: "Uranus en transit conjonction Jupiter du thème natal : une fois au plus, vingt mois d’horizons ouverts par surprise, à un âge fixé par l’année. Pas une aubaine."
+description: "Uranus en transit conjonction Jupiter du thème natal : vingt mois d’horizons ouverts là où vous ne l’attendiez pas, à un âge fixé par l’année. Pas une aubaine."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Jupiter", "conjonction", "transits"]
 weight: 1705
 glyph: "♅☌♃"
-definition: "Uranus en transit conjonction Jupiter du thème natal, c’est Uranus qui traverse la planète de la croissance et des convictions, une vingtaine de mois, une fois dans une vie au plus, à un âge que fixe surtout l’année de naissance. Les horizons s’ouvrent là où vous ne l’aviez pas prévu. J’y lis une croissance par surprise, jamais de la chance."
+definition: "Uranus en transit conjonction Jupiter du thème natal, c’est Uranus qui traverse la planète de la croissance et des convictions : une vingtaine de mois, une seule visite au plus, à un âge que fixe surtout l’année de naissance. Les horizons s’ouvrent là où vous ne l’aviez pas prévu. J’y lis une croissance par surprise, jamais de la chance."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Jupiter ♃ : la croissance, les convictions, le désir de comprendre" }
@@ -26,7 +26,7 @@ faq:
   - q: "Uranus conjonction Jupiter, est-ce que cela porte chance ?"
     a: "Pas comme je le lis. Cette conjonction décrit une compréhension qui s’élargit dans une direction imprévue, pas de l’argent qui arrive, et je ne lis ni la chance ni les gains dans aucun transit. Une ouverture, quand elle se présente, demande encore votre jugement et votre travail."
   - q: "À quel âge arrive Uranus conjonction Jupiter ?"
-    a: "Cela dépend beaucoup de l’année de naissance, parce que Jupiter rattrape Uranus tous les quatorze ans environ. D’après le décompte du site, elle est venue vers cinq mois pour une naissance au début de 1955, vers 23 ans pour 1945 et vers 57 ans pour 1965 ; environ 1 personne sur 50 ne la rencontre pas avant 80 ans."
+    a: "Cela dépend beaucoup de l’année de naissance, parce que Jupiter rattrape Uranus tous les quatorze ans environ. Pour une naissance au début de 1955, c’était vers cinq mois ; pour 1945, vers 23 ans ; pour 1965, vers 57 ans, selon le décompte du site. Environ 1 personne sur 50 ne la rencontre pas avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, l’âge de la première conjonction selon l’année de naissance, et combien de personnes la rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "la conjonction d’Uranus à Jupiter, parmi ses transits" }
@@ -47,7 +47,7 @@ Jupiter en maison 9 rencontre Uranus pendant les années que la planète du chan
 
 Comptée de 1,5° avant l’exactitude à 1° après, la conjonction tient une vingtaine de mois, et le dixième le plus vif des passages en prend onze ou moins. La rétrogradation annuelle ramène Uranus sur le degré exact de votre Jupiter, si bien que trois franchissements sont la règle, dans plus de neuf passages sur dix.
 
-Jupiter fait le tour du zodiaque en douze ans environ et rattrape Uranus tous les quatorze ans environ : la position de Jupiter par rapport à Uranus à votre naissance, et donc votre âge pour ce transit, dépend surtout de votre année de naissance. D’après le décompte du site, une naissance au début de 1955 l’a connu vers cinq mois ; 1985, vers 8 ans ; 1945, vers 23 ans ; 1975, vers 31 ans ; 1935, vers 43 ans ; 2005, vers 51 ans ; 1965, vers 57 ans ; et 1995, vers 71 ans. Sur toutes les naissances comptées, l’âge médian est d’environ 40 ans, et pour environ 1 personne sur 50, il vient après 80 ans.
+Jupiter fait le tour du zodiaque en douze ans environ et rattrape Uranus tous les quatorze ans environ : l’écart entre Jupiter et Uranus à votre naissance, et donc votre âge pour ce transit, dépend surtout de votre année de naissance. D’après le décompte du site, une naissance au début de 1955 l’a connu vers cinq mois ; 1985, vers 8 ans ; 1945, vers 23 ans ; 1975, vers 31 ans ; 1935, vers 43 ans ; 2005, vers 51 ans ; 1965, vers 57 ans ; et 1995, vers 71 ans. Sur toutes les naissances comptées, l’âge médian est d’environ 40 ans, et pour environ 1 personne sur 50, il vient après 80 ans.
 
 Les cas extrêmes appartiennent aux personnes nées avec [Jupiter conjonction Uranus](/astrology/jupiter-conjunct-uranus/) : Jupiter juste en avance, et le transit vient dès la petite enfance, comme pour la naissance de 1955 ; Jupiter juste en retard, et il faut attendre 84 ans environ. Les autres contacts d’Uranus avec votre Jupiter, [Uranus en transit sextile Jupiter du thème natal](/astrology/transiting-uranus-sextile-natal-jupiter/), [Uranus en transit carré Jupiter du thème natal](/astrology/transiting-uranus-square-natal-jupiter/), [Uranus en transit trigone Jupiter du thème natal](/astrology/transiting-uranus-trine-natal-jupiter/) et [Uranus en transit opposition Jupiter du thème natal](/astrology/transiting-uranus-opposite-natal-jupiter/), se placent à quatorze, vingt, 28 et 42 ans de celui-ci : leurs âges dépendent donc eux aussi de votre année de naissance.
 

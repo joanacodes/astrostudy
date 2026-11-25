@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Vénus", "trigone", "transits"]
 weight: 1698
 glyph: "♅△♀"
-definition: "Uranus en transit trigone Vénus du thème natal, ce sont vingt mois, deux fois dans la plupart des vies, où 120° séparent Uranus de la planète de l’amour et du goût. Amour et liberté s’entendent : les liens se renouvellent sans tension. J’y lis une saison facile pour l’amour et l’art, sans promesse."
+definition: "Uranus en transit trigone Vénus du thème natal, ce sont vingt mois, deux fois dans la plupart des vies, où 120° séparent Uranus de la planète de l’amour et du goût. Amour et liberté s’entendent : les liens se renouvellent sans tension. C’est une saison douce pour l’amour et l’art, comme je la lis, sans promesse."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Vénus ♀ : l’attirance, le goût et ce qui compte pour vous" }
@@ -46,7 +46,7 @@ Avec Vénus en maison 3 et Uranus qui traverse votre maison 7 ([Uranus en transi
 
 ## Combien de temps {#combien-de-temps}
 
-Mes orbes donnent à ce trigone une vingtaine de mois, de 1,5° avant l’exactitude à 1° après ; environ un passage sur dix est plus court, onze mois ou moins. Trois passages exacts viennent dans plus de neuf cas sur dix.
+Uranus garde ce trigone une vingtaine de mois entre 1,5° avant l’exactitude et 1° après ; environ un passage sur dix est plus court, onze mois ou moins. Uranus touche en général trois fois le trigone exact, comme dans plus de neuf cas sur dix, et chaque contact peut renouveler l’aisance.
 
 Uranus atteint le premier trigone environ 28 ans après son passage sur votre Vénus ([Uranus en transit conjonction Vénus du thème natal](/astrology/transiting-uranus-conjunct-natal-venus/)), et le second environ 28 ans avant d’y repasser. Entre les deux se trouve [Uranus en transit opposition Vénus du thème natal](/astrology/transiting-uranus-opposite-natal-venus/) ; plus près du passage viennent [Uranus en transit sextile Vénus du thème natal](/astrology/transiting-uranus-sextile-natal-venus/) et [Uranus en transit carré Vénus du thème natal](/astrology/transiting-uranus-square-natal-venus/). Les deux trigones tiennent dans la plupart des vies qui atteignent 80 ans, et chacune d’elles en contient au moins un : c’est l’un des [transits](/astrology/transits/) d’Uranus à Vénus dont presque tout le monde peut se servir.
 

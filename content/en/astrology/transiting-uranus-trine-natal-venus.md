@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Venus", "trine", "transits"]
 weight: 1698
 glyph: "♅△♀"
-definition: "Transiting Uranus trine natal Venus is a twenty-month season, twice in most lives, with 120° between Uranus and the planet of love and taste in your chart. Love and freedom get on: bonds refresh without strain and new tastes settle in. I read it as an easy season for love and art, not a promise of either."
+definition: "Transiting Uranus trine natal Venus is a twenty-month season, twice in most lives, with 120° between Uranus and the planet of love and taste in your chart. Love and freedom get on: bonds refresh without strain and new tastes settle in. It's a kind season for love and art, as I read it, not a promise of either."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Venus ♀: attraction, taste and what you value" }
@@ -45,7 +45,7 @@ With Venus in your 3rd and Uranus crossing your 7th ([Uranus transiting the 7th 
 
 ## How long it lasts {#how-long-it-lasts}
 
-My orbs give this trine about twenty months, from 1½° before exact to 1° after; about one pass in ten is shorter, at eleven months or less. Three exact hits come in more than nine passes out of ten.
+Uranus keeps this trine for about twenty months between 1½° before exact and 1° after; about one pass in ten is shorter, at eleven months or less. Uranus usually touches the exact trine three times, as it does in more than nine passes out of ten, and each touch can renew the ease.
 
 Uranus reaches the first trine about 28 years after crossing your Venus ([transiting Uranus conjunct natal Venus](/astrology/transiting-uranus-conjunct-natal-venus/)) and the second about 28 years before crossing it again. Between the two lies [transiting Uranus opposite natal Venus](/astrology/transiting-uranus-opposite-natal-venus/); nearer the crossing come [transiting Uranus sextile natal Venus](/astrology/transiting-uranus-sextile-natal-venus/) and [transiting Uranus square natal Venus](/astrology/transiting-uranus-square-natal-venus/). Both trines fit into most lives that reach 80, and every such life has at least one, which makes this one of the Uranus [transits](/astrology/transits/) to Venus that nearly everyone gets to use.
 

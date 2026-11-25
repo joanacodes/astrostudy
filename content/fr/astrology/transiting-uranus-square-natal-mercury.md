@@ -44,7 +44,7 @@ Avec Mercure en maison 3 et Uranus qui traverse votre maison 6 ([Uranus en trans
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, qui s’ouvrent à 1,5° avant l’exactitude et se ferment à 1° après, le carré dure une vingtaine de mois ; les passages les plus rapides prennent onze mois environ. Uranus franchit trois fois le carré exact dans plus de neuf cas sur dix : une première solution trouvée vite a donc en général droit à un second examen avant la fin du carré.
+Le carré prend une vingtaine de mois, de 1,5° avant l’exactitude à 1° après, même si les passages les plus rapides n’en demandent que onze. La plupart des passages comptent trois contacts exacts : une première solution trouvée vite a donc en général droit à un second examen avant la fin du carré.
 
 Mercure ne s’écarte jamais de plus de 28° environ du Soleil : chacun de ces carrés vient donc à six ou sept ans au plus du carré d’Uranus à votre Soleil ([Uranus en transit carré Soleil du thème natal](/astrology/transiting-uranus-square-natal-sun/)), et pendant la même saison si votre Mercure se tient près de votre Soleil. L’ordre autour d’eux ne change jamais : un sextile ([Uranus en transit sextile Mercure du thème natal](/astrology/transiting-uranus-sextile-natal-mercury/)) entre [Uranus en transit conjonction Mercure du thème natal](/astrology/transiting-uranus-conjunct-natal-mercury/) et chaque carré, et le premier trigone ([Uranus en transit trigone Mercure du thème natal](/astrology/transiting-uranus-trine-natal-mercury/)) entre le premier carré et [Uranus en transit opposition Mercure du thème natal](/astrology/transiting-uranus-opposite-natal-mercury/). Sur une vie de 80 ans, le compte habituel est de deux carrés, et jamais moins d’un.
 

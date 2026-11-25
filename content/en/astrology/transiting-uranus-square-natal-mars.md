@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Mars", "square", "transits"]
 weight: 1702
 glyph: "♅□♂"
-definition: "Transiting Uranus square natal Mars is the planet of change rubbing at a right angle against your drive, for about twenty months, twice in most lives. Impatience with limits rises, effort wants to break out of old channels, and how you assert yourself is up for revision. I read it as energy looking for a better outlet, not a threat."
+definition: "Transiting Uranus square natal Mars pits your drive against the planet of change at a right angle, a twenty-month rub that comes twice in most lives. Impatience with limits rises, effort wants to break out of old channels, and how you assert yourself is up for revision. I read it as energy looking for a better outlet, not a threat."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Mars ♂: drive, effort and the way you act" }
@@ -37,7 +37,7 @@ A right angle between Uranus and your Mars comes round twice in 84 years. Each t
 
 It often shows as impatience with limits: a rule that suddenly seems absurd, a boss or a system you can't work around, a plan that stalls while you're ready to go. Energy comes in surges, and competition sharpens along with the wish to win by a method of your own. Some people change how they work or train, some take on a challenge they'd have avoided before, and some simply notice how much of their effort went into waiting.
 
-If you've read that this square brings accidents, put that down: I don't read transits for injuries ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)), and haste is something you can choose against. Assertion isn't aggression, and courage isn't recklessness; the square asks you to tell them apart.
+If you've read that this square brings accidents, put that down: injuries aren't something I read from any transit ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)), and haste is something you can choose against. Assertion isn't aggression, and courage isn't recklessness; the square asks you to tell them apart.
 
 With Mars in your 7th and Uranus crossing your 4th ([Uranus transiting the 4th house](/astrology/uranus-transit-4th-house/)), changes at home press on the way you stand your ground with the people closest to you: who decides, who moves, who gives way. The 7th and the 4th are drawn from your birth time; without it the square has no setting, and I don't read it ([what changes without a birth time](/blog/unknown-birth-time/)). If [Mars square Uranus](/astrology/mars-square-uranus/) is in your birth chart, the friction will feel familiar, and so may the remedy you've already learned for it.
 

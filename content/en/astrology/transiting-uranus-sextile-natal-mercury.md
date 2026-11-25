@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/mercury", "/astrology/sextile", "/astrology/mercury-sextile-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus sextile natal Mercury mean?"
-    a: "For about twenty months, Uranus is 60° from where Mercury was when you were born. I read it as an opening for the mind: a course, a new field, a new tool or a new circle of people to think with comes within reach, and the ideas that follow tend to be usable rather than merely clever."
+    a: "Uranus is now 60° from where Mercury was when you were born, an angle that holds for about twenty months. I read it as fresh air for the mind: a course, a field, a tool or a circle of people to think with comes within reach, and the ideas that follow tend to be usable rather than merely clever."
   - q: "Is Uranus sextile Mercury a good time to study?"
     a: "It’s one of the better ones, as I read it, because the sextile links curiosity and invention without friction. It won’t enrol you, though. Opportunity under a sextile needs engagement: the subject you sign up for, the question you ask, the person you write to."
   - q: "How often does Uranus sextile Mercury?"
-    a: "Each round of about 84 years holds two, and two is also the usual tally by 80 for people born between 1930 and 2009. With my orbs, each one holds for some twenty months, usually with three exact hits."
+    a: "Each round of about 84 years holds two, and two is also the usual tally by 80 for people born between 1930 and 2009. With my orbs, each one holds for some twenty months."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the sextile comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus sextile Mercury, among his transits" }
@@ -43,7 +43,7 @@ With Mercury in your 9th and Uranus crossing your 11th ([Uranus transiting the 1
 
 ## How long it lasts {#how-long-it-lasts}
 
-Twenty months is the usual stretch within my orbs, which open 1½° before exact and close 1° after; eleven is about the shortest. In more than nine passes out of ten Uranus crosses the exact sextile three times, so a course started at the first hit can be well under way by the last.
+Each sextile gives the mind about twenty months, from 1½° before exact to 1° after; eleven is about the shortest. With three exact hits in more than nine passes out of ten, a course started at the first can be well under way by the last.
 
 The two sextiles are the closest pair in Uranus's round with your Mercury: 28 years apart, with [transiting Uranus conjunct natal Mercury](/astrology/transiting-uranus-conjunct-natal-mercury/) halfway between them. Further round come [transiting Uranus square natal Mercury](/astrology/transiting-uranus-square-natal-mercury/) and [transiting Uranus trine natal Mercury](/astrology/transiting-uranus-trine-natal-mercury/), each twice, and [transiting Uranus opposite natal Mercury](/astrology/transiting-uranus-opposite-natal-mercury/), once, at the far point. Most people meet the pair of sextiles by 80; for the rest, the second arrives later than that.
 

@@ -24,7 +24,7 @@ faq:
   - q: "Does Uranus opposite Moon mean family changes?"
     a: "It can describe a stretch when a household’s balance shifts, as I read it, but a transit doesn’t decide who moves, leaves or arrives. It describes a climate: closeness and independence asking to be rebalanced. What the people involved do with that is theirs to decide."
   - q: "How rare is Uranus opposite the Moon?"
-    a: "It’s a once-in-a-life transit at most, coming roughly 42 years after Uranus crosses your Moon. About 1 person in 33 born between 1930 and 2009 is past 80 before Uranus gets that far. With my orbs it lasts about twenty months, usually with three exact hits."
+    a: "It’s a once-in-a-life transit at most, coming roughly 42 years after Uranus crosses your Moon. About 1 person in 33 born between 1930 and 2009 is past 80 before Uranus gets that far. With my orbs it runs about twenty months, and Uranus usually touches the exact point three times."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the opposition by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus opposite the Moon, among his transits" }
@@ -45,7 +45,7 @@ The natal [Moon opposite Uranus](/astrology/moon-opposite-uranus/) sets closenes
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, the orbs I use for timing, Uranus usually holds the opposition for about twenty months; only the quickest passes, around eleven months, are much shorter. More than nine passes in ten cross the exact point three times, so the same question tends to be asked three times, a few months apart.
+Twenty months or so is the usual stay for the opposition, from 1½° before exact to 1° after; only the quickest passes, around eleven months, are much shorter. More than nine passes in ten cross the exact point three times, so the same question tends to be asked three times, a few months apart.
 
 Counted from [transiting Uranus conjunct natal Moon](/astrology/transiting-uranus-conjunct-natal-moon/), it comes about 42 years on. That puts it between the two trines ([transiting Uranus trine natal Moon](/astrology/transiting-uranus-trine-natal-moon/)), fourteen years from each, and well away from the squares ([transiting Uranus square natal Moon](/astrology/transiting-uranus-square-natal-moon/)) and the sextiles ([transiting Uranus sextile natal Moon](/astrology/transiting-uranus-sextile-natal-moon/)), which lie nearer the conjunction. Uranus doesn't quite finish its round in 80 years, and for about 1 person in 33 born between 1930 and 2009, the point opposite the Moon lies in the stretch it hasn't reached.
 

@@ -24,7 +24,7 @@ faq:
   - q: "Does Uranus square Venus mean a break-up?"
     a: "Not as I read it: no transit decides whether a relationship lasts. This square describes restlessness and a wish for more room inside your bonds. Some people renegotiate, some recommit on new terms, and what happens belongs to the people involved, never to the sky."
   - q: "How long does Uranus square Venus last?"
-    a: "About twenty months each, measured from 1½° before exact to 1° after, and in more than nine passes out of ten Uranus crosses the exact square three times. Uranus forms two in every 84 years, some 42 years apart, so the second meets a later version of your relationships."
+    a: "About twenty months each, measured from 1½° before exact to 1° after, with three exact hits in more than nine passes out of ten. Uranus forms two in every 84 years, some 42 years apart, so the second meets a later version of your relationships."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the square comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus square Venus, among his transits" }

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Mars", "carré", "transits"]
 weight: 1702
 glyph: "♅□♂"
-definition: "Uranus en transit carré Mars du thème natal, c’est la planète du changement qui frotte à angle droit contre votre élan, pendant une vingtaine de mois, deux fois dans la plupart des vies. L’impatience face aux limites monte, et votre façon de vous affirmer se révise. J’y lis une énergie qui cherche un meilleur exutoire, pas une menace."
+definition: "Uranus en transit carré Mars du thème natal met votre élan aux prises avec la planète du changement, à angle droit : un frottement d’une vingtaine de mois que la plupart des vies connaissent deux fois. L’impatience face aux limites monte, et votre façon de vous affirmer se révise. J’y lis une énergie qui cherche un meilleur exutoire, pas une menace."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Mars ♂ : l’élan, l’effort et la façon d’agir" }
@@ -38,7 +38,7 @@ Un angle droit entre Uranus et votre Mars revient deux fois en 84 ans. À chaque
 
 Cela se voit souvent dans l’impatience face aux limites : une règle qui paraît soudain absurde, une hiérarchie ou un système qu’on ne peut pas contourner, un projet qui cale alors que vous voudriez déjà partir. L’énergie vient par vagues, et la compétition s’aiguise, comme l’envie de gagner avec une méthode à vous. Certaines personnes changent leur façon de travailler ou de s’entraîner, d’autres relèvent un défi qu’elles auraient évité avant, d’autres encore remarquent simplement combien de leur effort passait à attendre.
 
-Si vous avez lu que ce carré amène des accidents, laissez cela de côté : je ne lis pas les transits pour les blessures ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)), et la précipitation est une chose contre laquelle on peut choisir. S’affirmer n’est pas agresser, et le courage n’est pas l’imprudence ; le carré demande de faire la différence.
+Si vous avez lu que ce carré amène des accidents, laissez cela de côté : je ne cherche de blessures dans aucun transit ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)), et la précipitation est une chose contre laquelle on peut choisir. S’affirmer n’est pas agresser, et le courage n’est pas l’imprudence ; le carré demande de faire la différence.
 
 Avec Mars en maison 7 et Uranus qui traverse votre maison 4 ([Uranus en transit en maison 4](/astrology/uranus-transit-4th-house/)), les changements à la maison pèsent sur votre façon de tenir bon face aux personnes les plus proches : qui décide, qui bouge, qui cède. La maison 7 et la maison 4 se tirent de votre heure de naissance ; sans elle, le carré n’a pas de décor, et je ne le lis pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si [Mars carré Uranus](/astrology/mars-square-uranus/) figure dans votre thème natal, cette friction vous semblera familière, tout comme peut-être le remède que vous avez déjà appris.
 

@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/mercury", "/astrology/sextile", "/astrology/mercury-sextile-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit sextile Mercure du thème natal ?"
-    a: "Pendant une vingtaine de mois, Uranus se trouve à 60° de la place qu’occupait Mercure à votre naissance. J’y lis une ouverture pour l’esprit : une formation, un domaine, un outil ou un cercle de personnes avec qui réfléchir devient accessible, et les idées qui suivent sont souvent utilisables plutôt que seulement brillantes."
+    a: "Uranus se trouve maintenant à 60° de l’endroit où était Mercure à votre naissance, un angle qui tient une vingtaine de mois. J’y lis de l’air frais pour l’esprit : une formation, un domaine, un outil ou un cercle de personnes avec qui réfléchir devient accessible, et les idées qui suivent sont souvent utilisables plutôt que seulement brillantes."
   - q: "Uranus sextile Mercure, est-ce un bon moment pour étudier ?"
     a: "L’un des meilleurs, comme je le lis, parce que le sextile relie la curiosité et l’invention sans friction. Il ne fera pas l’inscription à votre place. L’occasion, sous un sextile, demande de l’engagement : le sujet que vous choisissez, la question que vous posez, la personne à qui vous écrivez."
   - q: "Uranus sextile Mercure, c’est tous les combien ?"
-    a: "Chaque tour d’environ 84 ans en contient deux, et deux, c’est aussi le compte habituel avant 80 ans pour les personnes nées entre 1930 et 2009. Avec mes orbes, chacun dure une vingtaine de mois, en général avec trois passages exacts."
+    a: "Chaque tour d’environ 84 ans en contient deux, et deux, c’est aussi le compte habituel avant 80 ans pour les personnes nées entre 1930 et 2009. Avec mes orbes, chacun dure une vingtaine de mois."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de sextiles viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le sextile d’Uranus à Mercure, parmi ses transits" }
@@ -44,7 +44,7 @@ Avec Mercure en maison 9 et Uranus qui traverse votre maison 11 ([Uranus en tran
 
 ## Combien de temps {#combien-de-temps}
 
-Vingt mois, c’est la durée habituelle dans mes orbes, qui s’ouvrent 1,5° avant l’exactitude et se ferment 1° après ; onze mois, c’est à peu près le plus court. Dans plus de neuf cas sur dix, Uranus franchit trois fois le sextile exact : une formation commencée au premier passage peut être bien avancée au dernier.
+Chaque sextile donne à l’esprit une vingtaine de mois, de 1,5° avant l’exactitude à 1° après ; onze mois, c’est à peu près le plus court. Dans plus de neuf cas sur dix, Uranus franchit trois fois le sextile exact : une formation commencée au premier passage peut être bien avancée au dernier.
 
 Les deux sextiles forment la paire la plus rapprochée du tour qu’Uranus fait avec votre Mercure : 28 ans d’écart, avec [Uranus en transit conjonction Mercure du thème natal](/astrology/transiting-uranus-conjunct-natal-mercury/) à mi-chemin. Plus loin dans le tour viennent [Uranus en transit carré Mercure du thème natal](/astrology/transiting-uranus-square-natal-mercury/) et [Uranus en transit trigone Mercure du thème natal](/astrology/transiting-uranus-trine-natal-mercury/), chacun deux fois, et [Uranus en transit opposition Mercure du thème natal](/astrology/transiting-uranus-opposite-natal-mercury/), une fois, au point le plus éloigné. La plupart des gens rencontrent les deux sextiles avant 80 ans ; pour les autres, le second arrive plus tard.
 

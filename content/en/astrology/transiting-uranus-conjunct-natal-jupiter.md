@@ -1,7 +1,7 @@
 ---
 title: "Transiting Uranus conjunct natal Jupiter"
 h1: "Transiting Uranus conjunct your natal Jupiter"
-description: "Transiting Uranus conjunct natal Jupiter: once at most, twenty months when your horizons widen unexpectedly, at an age your birth year sets. Not a windfall."
+description: "Transiting Uranus conjunct natal Jupiter: horizons widen where you didn’t plan for about twenty months, at an age your birth year sets. Not a windfall."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Jupiter", "conjunction", "transits"]
 weight: 1705
 glyph: "♅☌♃"
-definition: "Transiting Uranus conjunct natal Jupiter is Uranus crossing the planet of growth and belief in your chart, for about twenty months, once in a life at most, at an age your birth year largely sets. Horizons widen in directions you didn’t plan: a new field, a new philosophy. I read it as growth by surprise, never as luck."
+definition: "Transiting Uranus conjunct natal Jupiter is Uranus crossing the planet of growth and belief in your chart: about twenty months, one visit at most, at an age your birth year largely sets. Horizons widen in directions you didn’t plan: a new field, a new philosophy. I read it as growth by surprise, never as luck."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Jupiter ♃: growth, belief and the wish to understand" }
@@ -25,7 +25,7 @@ faq:
   - q: "Does Uranus conjunct Jupiter bring luck?"
     a: "Not as I read it. This conjunction describes understanding that widens in a direction you didn’t plan, not money arriving, and I read luck and wins from no transit at all. A new opening, when one appears, still asks for your judgement and your work."
   - q: "At what age does Uranus conjunct Jupiter?"
-    a: "It depends heavily on your birth year, because Jupiter laps Uranus about every fourteen years. In the site’s count it came at about five months for someone born at the start of 1955, about 23 for 1945 and about 57 for 1965; about 1 person in 50 doesn’t meet it before 80."
+    a: "It depends heavily on your birth year, because Jupiter laps Uranus about every fourteen years. Born at the start of 1955, you’d have met it at about five months; in 1945, at about 23; in 1965, at about 57, by the site’s count. About 1 person in 50 doesn’t meet it before 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, the age of the first conjunction by birth year, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus conjunct Jupiter, among his transits" }
@@ -46,7 +46,7 @@ A Jupiter in the 9th meets Uranus during the years the planet of change spends i
 
 Counted from 1½° before exact to 1° after, the conjunction holds for about twenty months, and the briskest tenth of passes take eleven or fewer. Uranus's yearly retrograde carries it back over your Jupiter's exact degree, which makes three crossings the rule, in more than nine passes out of ten.
 
-Jupiter goes round in about twelve years and laps Uranus about every fourteen, so where it stood relative to Uranus at your birth, and therefore your age for this transit, depends mostly on your birth year. In the site's count, someone born at the start of 1955 met it at about five months; 1985, at about 8; 1945, at about 23; 1975, at about 31; 1935, at about 43; 2005, at about 51; 1965, at about 57; and 1995, at about 71. Across every birth counted, the middle age is about 40, and for about 1 person in 50 it comes after 80.
+Jupiter goes round in about twelve years and laps Uranus about every fourteen, so the gap between Jupiter and Uranus at your birth, and therefore your age for this transit, depends mostly on your birth year. The site's count has someone born at the start of 1955 meeting it at about five months; 1985, at about 8; 1945, at about 23; 1975, at about 31; 1935, at about 43; 2005, at about 51; 1965, at about 57; and 1995, at about 71. Across every birth counted, the middle age is about 40, and for about 1 person in 50 it comes after 80.
 
 The extremes belong to people born with [Jupiter conjunct Uranus](/astrology/jupiter-conjunct-uranus/): Jupiter just ahead means the transit comes in infancy, as for the 1955 birth above, and Jupiter just behind puts it out of reach until about 84. Uranus's other contacts with your Jupiter, [transiting Uranus sextile natal Jupiter](/astrology/transiting-uranus-sextile-natal-jupiter/), [transiting Uranus square natal Jupiter](/astrology/transiting-uranus-square-natal-jupiter/), [transiting Uranus trine natal Jupiter](/astrology/transiting-uranus-trine-natal-jupiter/) and [transiting Uranus opposite natal Jupiter](/astrology/transiting-uranus-opposite-natal-jupiter/), sit fourteen, twenty, 28 and 42 years from this one, so their ages are set by your birth year too.
 

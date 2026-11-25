@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Vénus", "sextile", "transits"]
 weight: 1696
 glyph: "♅⚹♀"
-definition: "Uranus en transit sextile Vénus du thème natal ouvre une vingtaine de mois, deux fois dans la plupart des vies, où Uranus se tient à 60° de la planète de vos affections et de vos goûts. Amitiés, plaisirs, façon d’être ensemble : tout peut se renouveler, si vous dites oui. J’y lis une invitation à aimer autrement."
+definition: "Uranus en transit sextile Vénus du thème natal ouvre une vingtaine de mois, deux fois dans la plupart des vies, où Uranus se tient à 60° de la planète de vos affections et de vos goûts. Amitiés, plaisirs, façon d’être ensemble : tout peut se renouveler, si vous dites oui. Ce qu’il offre, c’est une autre façon d’aimer."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Vénus ♀ : l’attirance, le goût et ce qui compte pour vous" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/venus", "/astrology/sextile", "/astrology/venus-sextile-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit sextile Vénus du thème natal ?"
-    a: "C’est une période d’une vingtaine de mois où Uranus se tient à 60° de votre Vénus de naissance. J’y lis une ouverture facile en amour, en amitié et dans les goûts : une invitation vers quelque chose de neuf, une façon plus fraîche de passer du temps ensemble, un plaisir que vous ne pensiez pas pour vous. Encore faut-il accepter."
+    a: "C’est une période d’une vingtaine de mois où Uranus se tient à 60° de votre Vénus de naissance. J’y lis une ouverture légère en amour, en amitié et dans les goûts : une invitation vers quelque chose de neuf, une façon plus fraîche de passer du temps ensemble, un plaisir que vous ne pensiez pas pour vous. Encore faut-il accepter."
   - q: "Uranus sextile Vénus, est-ce bon pour les relations ?"
     a: "C’est l’un des climats les plus amicaux pour elles, comme je le lis, parce qu’il apporte de la nouveauté sans tension : un lien peut accueillir quelque chose de neuf sans être secoué. Il n’amène personne et ne met fin à rien, pour autant. La fraîcheur qu’il offre passe par ce que vous choisissez d’essayer à deux."
   - q: "Quand arrive Uranus sextile Vénus ?"
@@ -44,7 +44,7 @@ Avec Vénus en maison 2 et Uranus qui traverse votre maison 4 ([Uranus en transi
 
 ## Combien de temps {#combien-de-temps}
 
-Une vingtaine de mois, c’est la durée habituelle dans mes orbes, qui vont de 1,5° avant l’exactitude à 1° après ; certains passages se terminent en onze. Uranus forme trois contacts exacts dans plus de neuf cas sur dix : une invitation déclinée au premier peut donc se représenter.
+Chacun des deux dure une vingtaine de mois, de 1,5° avant l’exactitude à 1° après, et certains passages se terminent en onze. Uranus forme trois contacts exacts dans plus de neuf cas sur dix : une invitation déclinée au premier peut donc se représenter.
 
 Un sextile vient à l’approche de [Uranus en transit conjonction Vénus du thème natal](/astrology/transiting-uranus-conjunct-natal-venus/) et un autre dans son sillage. Plus loin de la conjonction se trouvent [Uranus en transit carré Vénus du thème natal](/astrology/transiting-uranus-square-natal-venus/), à une vingtaine d’années, [Uranus en transit trigone Vénus du thème natal](/astrology/transiting-uranus-trine-natal-venus/), vers 28 ans, et [Uranus en transit opposition Vénus du thème natal](/astrology/transiting-uranus-opposite-natal-venus/), au bout du tour. Si vous atteignez 80 ans, vous aurez connu au moins l’un de ces sextiles, et très probablement les deux : de tous les [transits](/astrology/transits/) d’Uranus à Vénus, ce sont parmi les plus faciles à utiliser.
 

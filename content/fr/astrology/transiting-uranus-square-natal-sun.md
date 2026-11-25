@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Soleil", "carré", "transits"]
 weight: 1682
 glyph: "♅□☉"
-definition: "Uranus en transit carré Soleil du thème natal, c’est une vingtaine de mois pendant lesquels Uranus, dans le ciel, forme un angle droit avec votre Soleil de naissance. La vie organisée autour de vous commence à serrer, et la friction demande une réforme : d’autres conditions, de la place pour vous distinguer. J’y lis une rénovation, jamais une démolition."
+definition: "Uranus en transit carré Soleil du thème natal, c’est une vingtaine de mois pendant lesquels Uranus, dans le ciel, forme un angle droit avec votre Soleil de naissance. La vie organisée autour de vous commence à serrer, et la friction demande une réforme : d’autres conditions, de la place pour vous distinguer. J’y lis une reconstruction, pas une démolition."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Le Soleil ☉ : identité, direction et vitalité" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/sun", "/astrology/square", "/astrology/sun-square-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit carré Soleil du thème natal ?"
-    a: "Uranus a atteint un angle droit avec votre Soleil de naissance. J’y lis une friction entre la vie bâtie autour de vous et la part de vous qui veut se distinguer : un rôle, un rythme ou un projet qui allait bien commence à serrer, et vous avez une longue saison pour le retravailler plutôt qu’un jour pour le fuir."
+    a: "Uranus forme maintenant un angle droit avec votre Soleil de naissance. J’y lis une friction entre la vie bâtie autour de vous et la part de vous qui veut se distinguer : un rôle, un rythme ou un projet qui allait bien commence à serrer, et vous avez une longue saison pour le retravailler plutôt qu’un jour pour le fuir."
   - q: "Combien de temps dure Uranus carré Soleil ?"
     a: "Chaque carré tient une vingtaine de mois entre 1,5° avant l’exactitude et 1° après, les orbes avec lesquels je le date ; les plus rapides s’achèvent en onze mois environ. Dans plus de neuf cas sur dix, ce temps contient trois passages exacts, et non un seul."
   - q: "À quel âge arrive le carré d’Uranus au Soleil ?"
@@ -44,7 +44,7 @@ Les maisons disent où. Avec votre Soleil en maison 10 et Uranus qui traverse vo
 
 ## Combien de temps {#combien-de-temps}
 
-Avec les orbes de mes prévisions, de 1,5° avant l’exactitude à 1° après, le carré dure une vingtaine de mois, assez pour qu’un anniversaire ou deux passent dedans ; les passages les plus rapides prennent onze mois environ. Uranus passe environ cinq mois par an en rétrograde : dans plus de neuf cas sur dix, le carré exact est franchi trois fois, en avançant, en reculant, puis en avançant pour de bon.
+De 1,5° avant l’exactitude à 1° après, le carré dure une vingtaine de mois, assez pour qu’un anniversaire ou deux passent dedans ; les passages les plus rapides prennent onze mois environ. Uranus passe environ cinq mois par an en rétrograde : dans plus de neuf cas sur dix, le carré exact est franchi trois fois, en avançant, en reculant, puis en avançant pour de bon.
 
 Dans l’ordre, le tour va de [Uranus en transit conjonction Soleil du thème natal](/astrology/transiting-uranus-conjunct-natal-sun/) à [Uranus en transit opposition Soleil du thème natal](/astrology/transiting-uranus-opposite-natal-sun/) en passant par [Uranus en transit sextile Soleil du thème natal](/astrology/transiting-uranus-sextile-natal-sun/), le premier carré et [Uranus en transit trigone Soleil du thème natal](/astrology/transiting-uranus-trine-natal-sun/), puis repasse par les mêmes étapes : chaque carré se trouve donc entre un sextile et un trigone. Contrairement à la conjonction et à l’opposition, qui viennent une fois au plus et, pour certaines personnes, pas du tout avant 80 ans, les carrés viennent deux fois dans la plupart des vies, et au moins une fois dans toutes.
 
@@ -52,7 +52,7 @@ Avec [Soleil carré Uranus](/astrology/sun-square-uranus/) dans votre thème nat
 
 ## Ce qui aide {#ce-qui-aide}
 
-Faire la liste de ce qui marche encore avant de changer quoi que ce soit. Un carré au Soleil peut faire paraître toute une vie de travers quand une seule partie l’est.
+Dresser la liste de ce qui marche encore. Un carré au Soleil peut faire paraître toute une vie de travers quand une seule partie l’est.
 
 Changer une structure à la fois. Un nouveau rôle, un nouvel emploi du temps ou un nouveau lieu demandent chacun du temps pour se poser, et vingt mois suffisent pour les faire l’un après l’autre.
 

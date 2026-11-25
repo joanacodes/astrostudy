@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/mercury", "/astrology/conjunction", "/astrology/mercury-conjunct-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus conjunct natal Mercury mean?"
-    a: "Uranus has reached your birth Mercury and will cross it, usually three times, over about twenty months. I read it as a long season of new thinking: subjects that grab you without warning, methods and tools you take up fast, opinions you find yourself revising, and a way of speaking that sounds more like you."
+    a: "Uranus is moving over the degree your Mercury held at birth, and will stay close for about twenty months. I read it as a long season of new thinking: subjects that grab you without warning, methods and tools you take up fast, opinions you find yourself revising, and a way of speaking that sounds more like you."
   - q: "Is Uranus conjunct Mercury good for learning?"
     a: "Often, as I read it: curiosity runs high and new ideas connect quickly, which suits a course, a new field or a new tool. The catch is follow-through. Ideas arrive faster than they can be tested, so the learning that lasts is the kind you write down, check and finish."
   - q: "When does Uranus conjunct Mercury happen?"
@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the conjunction by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus conjunct Mercury, among his transits" }
 ---
-Once in its 84-year round, Uranus crosses the degree of your Mercury, usually three times over about twenty months. The way you take things in and put them into words keeps being interrupted, in the useful sense: new information cuts in, and you let it.
+A life holds this crossing once at most: Uranus on the degree of your Mercury, usually three times over about twenty months. The way you take things in and put them into words keeps being interrupted, in the useful sense: new information cuts in, and you let it.
 
 ## What changes {#what-changes}
 

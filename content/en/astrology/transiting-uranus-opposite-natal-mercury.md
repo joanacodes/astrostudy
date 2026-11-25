@@ -24,7 +24,7 @@ faq:
   - q: "Does Uranus opposite Mercury bring unexpected news?"
     a: "Surprising information is part of how it’s often described, and it can feel that way. I don’t predict news, though, good or bad. What the transit describes is a mind meeting views from outside its usual range for about twenty months, and what you decide is still yours."
   - q: "How often does Uranus oppose Mercury?"
-    a: "Uranus reaches the point opposite your Mercury once per 84-year circuit, about 42 years after passing over Mercury itself, so a life sees it once at most. About 1 person in 33 born between 1930 and 2009 doesn’t see it come until after 80. Twenty months is its usual length, three exact hits its usual count."
+    a: "Uranus comes round to face your Mercury once per 84-year circuit, about 42 years after passing over Mercury itself, so a life sees it once at most. About 1 person in 33 born between 1930 and 2009 doesn’t see it come until after 80. Twenty months is its usual length, three exact hits its usual count."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the opposition by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus opposite Mercury, among his transits" }
@@ -45,7 +45,7 @@ With Mercury in your 9th and Uranus crossing your 3rd ([Uranus transiting the 3r
 
 ## How long it lasts {#how-long-it-lasts}
 
-Uranus holds the opposition for about twenty months within my orbs, from 1½° before exact to 1° after; eleven months is enough for the briefest passes. In more than nine passes in ten it crosses the exact point three times, which leaves room to change your mind, and to change it back.
+The opposition holds your Mercury for about twenty months between 1½° before exact and 1° after; eleven months is enough for the briefest passes. In more than nine passes in ten it crosses the exact point three times, which leaves room to change your mind, and to change it back.
 
 This is the far end of Uranus's round with your Mercury, about 42 years after [transiting Uranus conjunct natal Mercury](/astrology/transiting-uranus-conjunct-natal-mercury/). Before it come the first [transiting Uranus sextile natal Mercury](/astrology/transiting-uranus-sextile-natal-mercury/), [transiting Uranus square natal Mercury](/astrology/transiting-uranus-square-natal-mercury/) and [transiting Uranus trine natal Mercury](/astrology/transiting-uranus-trine-natal-mercury/); after it, the same three again in reverse order, the trine first. Leaving aside about 1 person in 33 born between 1930 and 2009, everyone gets to this [transit](/astrology/transits/) before 80, and gets to it once.
 

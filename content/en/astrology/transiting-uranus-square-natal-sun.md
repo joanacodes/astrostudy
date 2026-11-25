@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Sun", "square", "transits"]
 weight: 1682
 glyph: "♅□☉"
-definition: "Transiting Uranus square natal Sun is the stretch of about twenty months when Uranus in the sky makes a right angle to your birth Sun. The life you have organised around yourself starts to pinch, and the friction asks for reform: new terms, room to differ. I read it as a renovation, never a demolition."
+definition: "Transiting Uranus square natal Sun is the stretch of about twenty months when Uranus in the sky makes a right angle to your birth Sun. The life you have organised around yourself starts to pinch, and the friction asks for reform: new terms, room to differ. I read it as a rebuild, not a demolition."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "The Sun ☉: identity, purpose and vitality" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/sun", "/astrology/square", "/astrology/sun-square-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus square natal Sun mean?"
-    a: "Uranus has reached a right angle to your birth Sun. I read it as friction between the life you’ve built and the part of you that wants to differ: a role, a routine or a plan that fitted starts to pinch, and you get a long season to rework it rather than a day to escape it."
+    a: "Uranus now makes a right angle with your birth Sun. I read it as friction between the life you’ve built and the part of you that wants to differ: a role, a routine or a plan that fitted starts to pinch, and you get a long season to rework it rather than a day to escape it."
   - q: "How long does Uranus square Sun last?"
     a: "Each square holds for about twenty months between 1½° before exact and 1° after, the orbs I time it with, and the quickest are over in about eleven. In more than nine passes out of ten that time holds three exact hits, not one."
   - q: "At what age does Uranus square your Sun?"
@@ -43,7 +43,7 @@ The houses show where. With your Sun in the 10th and Uranus crossing your 1st ([
 
 ## How long it lasts {#how-long-it-lasts}
 
-With the orbs I use for timing, from 1½° before exact to 1° after, Uranus holds the square for about twenty months, long enough for a birthday or two to pass inside it; the quickest passes take about eleven. Uranus spends about five months of each year retrograde, so in more than nine passes out of ten it crosses the exact square three times: forward, back, then forward again for good.
+From 1½° before exact to 1° after, Uranus holds the square for about twenty months, long enough for a birthday or two to pass inside it; the quickest passes take about eleven. Uranus spends about five months of each year retrograde, so more than nine passes out of ten have three exact hits: forward, back, then forward again for good.
 
 Read in order, the round runs from [transiting Uranus conjunct natal Sun](/astrology/transiting-uranus-conjunct-natal-sun/) through [transiting Uranus sextile natal Sun](/astrology/transiting-uranus-sextile-natal-sun/), the first square and [transiting Uranus trine natal Sun](/astrology/transiting-uranus-trine-natal-sun/) to [transiting Uranus opposite natal Sun](/astrology/transiting-uranus-opposite-natal-sun/), then back through the same steps, so each square sits between a sextile and a trine. Unlike the conjunction and the opposition, which come once at most and to some people not at all before 80, the squares come twice in most lives and once at the least.
 
@@ -51,7 +51,7 @@ Born with [Sun square Uranus](/astrology/sun-square-uranus/), your timetable was
 
 ## What helps {#what-helps}
 
-List what still works before you change anything. A square to the Sun can make a whole life look wrong when only one part of it is.
+Make a list of what still works. A square to the Sun can make a whole life look wrong when only one part of it is.
 
 Change one structure at a time. A new role, a new schedule or a new place each takes a while to settle, and twenty months is long enough to do them in sequence.
 

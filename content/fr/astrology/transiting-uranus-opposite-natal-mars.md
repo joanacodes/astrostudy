@@ -40,13 +40,13 @@ Cela se voit souvent dans les projets partagés. Une ou un partenaire change de 
 
 Les disputes peuvent s’enflammer quand deux personnes veulent agir librement en même temps, et je ne lis l’issue d’aucune, au tribunal ou ailleurs, dans ce [transit](/astrology/transits/) ni dans un autre ([L’astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)).
 
-Avec Mars en maison 2 et Uranus qui traverse votre maison 8 ([Uranus en transit en maison 8](/astrology/uranus-transit-8th-house/)), quelque chose que vous partagez avec d’autres, un projet commun, un arrangement de foyer, les termes d’une association, change et pèse sur ce que vous bâtissez par votre propre effort. Sans votre heure de naissance, il n’y a ni maison 2 ni maison 8 dont parler, et donc pas de lecture de cette opposition ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Mars en maison 2 et Uranus qui traverse votre maison 8 ([Uranus en transit en maison 8](/astrology/uranus-transit-8th-house/)), quelque chose que vous partagez avec d’autres, un projet commun, un arrangement de foyer, les termes d’une association, change et pèse sur ce que vous bâtissez par votre propre effort. Sans l’heure de naissance, les deux maisons disparaissent, et avec elles toute lecture de cette opposition ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Avec [Mars opposition Uranus](/astrology/mars-opposite-uranus/) dans votre thème natal, vous constaterez que votre [opposition d’Uranus](/astrology/uranus-opposition/), vers 40 ans, tombe sur Mars plutôt qu’en face : pour vous, le transit du milieu de vie est la conjonction.
 
 ## Combien de temps {#combien-de-temps}
 
-Uranus passe une vingtaine de mois sur cette opposition, de 1,5° avant l’exactitude à 1° après, les orbes de mes prévisions ; un dixième des passages se termine en onze mois ou moins. Dans plus de neuf cas sur dix, Uranus franchit trois fois le point exact : un face-à-face a donc le temps de devenir un accord.
+Uranus passe une vingtaine de mois sur cette opposition, de 1,5° avant l’exactitude à 1° après ; un dixième des passages se termine en onze mois ou moins. Dans plus de neuf cas sur dix, Uranus franchit trois fois le point exact : un face-à-face a donc le temps de devenir un accord.
 
 Uranus met environ 42 ans à venir ici depuis [Uranus en transit conjonction Mars du thème natal](/astrology/transiting-uranus-conjunct-natal-mars/), et passe en chemin par [Uranus en transit sextile Mars du thème natal](/astrology/transiting-uranus-sextile-natal-mars/), [Uranus en transit carré Mars du thème natal](/astrology/transiting-uranus-square-natal-mars/) et [Uranus en transit trigone Mars du thème natal](/astrology/transiting-uranus-trine-natal-mars/), trois étapes qu’Uranus retrouve chacune de l’autre côté. Environ 1 personne sur 33 manque l’opposition avant 80 ans, et toutes les autres la rencontrent une fois, puisqu’un tour d’Uranus n’en contient qu’une.
 

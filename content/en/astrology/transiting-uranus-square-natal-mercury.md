@@ -24,7 +24,7 @@ faq:
   - q: "Is Uranus square Mercury bad for communication?"
     a: "It can make conversations quicker and blunter, and misunderstandings easier, because your mind runs ahead of your words. That’s friction, not damage. Slowing the reply down, putting important things in writing and listening for the point behind an objection usually turn the square into better ideas."
   - q: "How long does Uranus square Mercury last?"
-    a: "About twenty months with my orbs, sometimes as little as eleven, and in more than nine passes out of ten Uranus crosses the exact square three times. A long life usually holds two such squares, decades apart."
+    a: "About twenty months with my orbs, sometimes as little as eleven, and more than nine passes in ten touch the exact square three times. A long life usually holds two such squares, decades apart."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the square comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus square Mercury, among his transits" }
@@ -43,7 +43,7 @@ With Mercury in your 3rd and Uranus crossing your 6th ([Uranus transiting the 6t
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, which open at 1½° before exact and close at 1° after, the square lasts about twenty months; the quickest passes take about eleven. Uranus crosses the exact square three times in more than nine passes out of ten, so a quick first solution usually gets a second look before the square is over.
+The square takes about twenty months from 1½° before exact to 1° after, though the quickest passes need only eleven. Most passes bring three exact hits, so a quick first solution usually gets a second look before the square is over.
 
 Mercury is never more than about 28° from the Sun, so each of these squares comes within six or seven years of the matching square to your Sun ([transiting Uranus square natal Sun](/astrology/transiting-uranus-square-natal-sun/)), and in the same season if your Mercury sits close to your Sun. The order around them never changes: a [transiting Uranus sextile natal Mercury](/astrology/transiting-uranus-sextile-natal-mercury/) between [transiting Uranus conjunct natal Mercury](/astrology/transiting-uranus-conjunct-natal-mercury/) and each square, and the first [transiting Uranus trine natal Mercury](/astrology/transiting-uranus-trine-natal-mercury/) between the first square and [transiting Uranus opposite natal Mercury](/astrology/transiting-uranus-opposite-natal-mercury/). In a life of 80 years the usual count of squares is two, and never fewer than one.
 

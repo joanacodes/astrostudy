@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Moon", "sextile", "transits"]
 weight: 1686
 glyph: "♅⚹☽"
-definition: "Transiting Uranus sextile natal Moon is Uranus in a sextile, 60°, to the Moon of your birth chart: about twenty months of easier change at home, twice in most lives. Your habits can be updated without a fight, if you make the first move. I read it as an invitation to update your comforts."
+definition: "Transiting Uranus sextile natal Moon is Uranus in a sextile, 60°, to the Moon of your birth chart: about twenty months of easier change at home, twice in most lives. Your habits can be updated without a fight, if you make the first move. To me it's a chance to update your comforts."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "The Moon ☽: needs, habits and feeling safe" }

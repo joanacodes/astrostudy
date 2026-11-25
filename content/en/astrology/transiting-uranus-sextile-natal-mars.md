@@ -24,7 +24,7 @@ faq:
   - q: "Is Uranus sextile Mars good for starting a business?"
     a: "As I read it, it’s a supportive background for starting things on your own terms, because drive and originality cooperate. I don’t predict whether a venture will succeed, and the transit doesn’t either. It describes a season when the first steps cost less effort than usual."
   - q: "How often does Uranus sextile Mars?"
-    a: "Twice in each 84-year round, so most people born between 1930 and 2009 have been offered both by 80, and everyone at least one. Each stays within my orbs for about twenty months, usually with three exact hits."
+    a: "Twice in each 84-year round, so most people born between 1930 and 2009 have been offered both by 80, and everyone at least one. Either one lasts some twenty months within my orbs."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the sextile comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus sextile Mars, among his transits" }
@@ -45,7 +45,7 @@ Two natal aspects change the timetable. With [Mars trine Uranus](/astrology/mars
 
 ## How long it lasts {#how-long-it-lasts}
 
-Each sextile lasts about twenty months within my orbs, from 1½° before exact to 1° after, and one pass in ten or so is eleven months or shorter. More than nine in ten bring three exact hits, so there's time to start, pause and start again.
+A sextile to Mars lasts about twenty months, counted from 1½° before exact to 1° after, and one pass in ten or so is eleven months or shorter. More than nine in ten bring three exact hits, so there's time to start, pause and start again.
 
 The two sextiles bracket [transiting Uranus conjunct natal Mars](/astrology/transiting-uranus-conjunct-natal-mars/), fourteen years or so either side. Beyond them, further round, lie [transiting Uranus square natal Mars](/astrology/transiting-uranus-square-natal-mars/) and [transiting Uranus trine natal Mars](/astrology/transiting-uranus-trine-natal-mars/), twice each, and [transiting Uranus opposite natal Mars](/astrology/transiting-uranus-opposite-natal-mars/), once. Eighty years is enough for both sextiles in most lives, and for one in all of them, which makes this [transit](/astrology/transits/) a season almost everyone can plan for.
 
