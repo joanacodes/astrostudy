@@ -39,8 +39,9 @@ until 3:50 am Paris Friday 20th November" (= 02:50 UTC).
 - Set aside by the owner (25 November): the 360 Sabian symbols. Still held: 6 sky calendars (this-week, year-ahead,
   mercury-retrograde-dates, eclipse-dates, moon-calendar, ingress-calendar: they must stay current, so they need building
   as pages that update themselves) and 4 pages about the owner's practice (her words).
-- Transit pages fact-checked against the ephemeris (astronomy-engine, geocentric, true ecliptic of date): 26 figures
-  corrected, mostly ages of later hits, a few sign stays and birth spans the writers had worked out themselves.
+- Transit pages fact-checked against the ephemeris (astronomy-engine, geocentric, true ecliptic of date): 25 figures
+  corrected (mostly ages of later hits, a few sign stays and birth spans the writers had worked out themselves) and three
+  statements made exact ("most births from …" twice, the type of the 2031 eclipse).
 - Repeated sentences: overlap.py found 92 (EN) and 109 (FR) sentences on two pages or more (679 rewrites); reworded on
   25 November.
 
