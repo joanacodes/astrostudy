@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/pisces", "/astrology/7th-house", "/astrology/descendant", "/astrology/virgo-rising", "/astrology/neptune"]
 faq:
   - q: "Quel partenaire pour un descendant en Poissons ?"
-    a: "Souvent une personne douce, imaginative, qui comprend sans qu’on lui explique et qui ne tient pas les comptes. Avec l’ascendant Vierge, vous apportez la précision et l’autre apporte le pardon. Le travail consiste à garder deux contours nets dans le lien ; Neptune et Jupiter, maîtres de la maison 7, montrent où il se joue."
+    a: "Souvent une personne douce, imaginative, qui comprend sans qu’on lui explique et qui ne tient pas les comptes. Avec l’ascendant Vierge, vous apportez la précision et l’autre apporte le pardon. Le travail consiste à garder deux contours nets dans le lien ; Neptune et Jupiter, maîtres de la maison 7, montrent où ce travail se joue."
   - q: "Quel rôle joue Mercure avec les Poissons sur la cuspide de la maison 7 ?"
     a: "Celui de maître du thème : la Vierge se lève toujours en face, et Mercure gouverne votre thème et, le plus souvent, votre Milieu du Ciel. Mercure est en exil et en chute dans les Poissons, le signe de vos partenaires : les personnes que vous choisissez avancent au sentiment là où vous avancez à l’analyse."
   - q: "Une maison 7 en Poissons annonce-t-elle une tromperie en amour ?"
