@@ -2,7 +2,7 @@
 title: "Pluton en transit trigone Milieu du Ciel du thème natal"
 slug: "pluton-transit-trigone-milieu-du-ciel-natal"
 h1: "Pluton en transit trigone votre Milieu du Ciel natal"
-description: "Pluton en transit trigone Milieu du Ciel du thème natal : deux à trois ans où votre direction s’approfondit sans heurt, depuis la moitié privée du thème. Dates, aide."
+description: "Pluton en transit trigone Milieu du Ciel du thème natal : deux à trois ans où votre direction s’approfondit sans heurt, à partir de la vie privée. Dates, aide."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Milieu du Ciel", "trigone", "transits"]
 weight: 1855
 glyph: "♇△MC"
-definition: "Pluton en transit trigone Milieu du Ciel du thème natal, c’est Pluton à 120° du sommet de votre thème pendant environ deux ans et huit mois ; plus de trois personnes sur quatre le rencontrent avant 80 ans. Votre direction peut s’approfondir sans crise : une autorité plus calme, un travail qui repose sur le fond. J’y lis une aisance à saisir, jamais un succès garanti."
+definition: "Pluton en transit trigone Milieu du Ciel du thème natal, c’est Pluton à 120° du sommet de votre thème pendant environ deux ans et huit mois ; plus de trois personnes sur quatre le rencontrent avant 80 ans. Votre direction s’approfondit sans crise, sur le fond plus que sur le titre. J’y lis une aisance à saisir, jamais un succès garanti."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et de la régénération" }
   - { k: "Point natal", v: "Le Milieu du Ciel MC : votre direction et votre place publique" }
@@ -29,7 +29,7 @@ faq:
   - q: "Pluton trigone Milieu du Ciel, est-ce un transit de chance ?"
     a: "Aucun transit n’apporte la chance, et un trigone ne garantit aucun succès. Il offre une fluidité : un changement profond dans votre façon de prendre part au monde rencontre moins de résistance que d’habitude. L’aisance est réelle, et elle demande quand même à être utilisée ; un trigone sur lequel personne ne s’appuie passe sans laisser grand-chose."
   - q: "Quand vient le trigone de Pluton à mon Milieu du Ciel ?"
-    a: "Tant que Pluton est en Verseau, jusqu’en janvier 2044, le trigone touche les Milieux du Ciel en Gémeaux et en Balance, les premiers degrés à la fin des années 2020. Pour la Balance, c’est le trigone qui suit le passage de Pluton sur le Milieu du Ciel, entre 1971 et 1984. Vos années exactes demandent le degré de votre Milieu du Ciel, donc votre heure de naissance."
+    a: "Tant que Pluton est en Verseau, jusqu’en janvier 2044, le trigone touche les Milieux du Ciel en Gémeaux et en Balance. Pour la Balance, c’est le trigone qui suit le passage de Pluton sur ce point, entre 1971 et 1984. Vos années exactes dépendent du degré de votre Milieu du Ciel, donc de votre heure de naissance."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le trigone au Milieu du Ciel dans mes orbes, et qui le rencontre avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton au Milieu du Ciel" }

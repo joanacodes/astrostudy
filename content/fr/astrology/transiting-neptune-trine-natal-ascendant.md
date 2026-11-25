@@ -46,7 +46,7 @@ Depuis le dessus de l’horizon, Neptune traverse en général votre maison 9, e
 
 ## Combien de temps {#combien-de-temps}
 
-Un passage dure environ deux ans et demi dans mes orbes, de 1,5° avant l’exactitude à 1° après, le plus court vingt-deux mois environ, avec trois passages exacts dans la plupart des cas et cinq dans un quart environ. Comme le degré levant avance vite au fil de la journée, deux personnes nées le même jour à quelques heures d’écart peuvent rencontrer ce trigone à des années de distance, ou l’une des deux pas du tout.
+Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le trigone tient environ deux ans et demi ; même les passages les plus brefs prennent quelque vingt-deux mois, la plupart apportent trois passages exacts et un quart environ en apportent cinq. Comme le degré levant avance vite au fil de la journée, deux personnes nées le même jour à quelques heures d’écart peuvent rencontrer ce trigone à des années de distance, ou l’une des deux pas du tout.
 
 Les deux trigones sont à 120° l’un de l’autre. Dans le décompte des naissances de 1930 à 2009, la plupart des gens en rencontrent un avant 80 ans, certaines personnes les deux, et environ 1 sur 6 aucun. Avec Neptune près du bas du thème à la naissance, vers la maison 4, vous rencontrez les deux, et [Neptune en transit opposition Ascendant du thème natal](/astrology/transiting-neptune-opposite-natal-ascendant/) entre eux. Avec Neptune près du haut, vers la maison 10, vous faites partie de ces 1 sur 6 : Neptune vient de quitter un trigone et n’atteindra pas l’autre à temps.
 

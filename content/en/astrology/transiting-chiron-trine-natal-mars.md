@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Chiron", "Mars", "trine", "transits"]
 weight: 1880
 glyph: "⚷△♂"
-definition: "Transiting Chiron trine natal Mars is Chiron 120° from the degree Mars held at your birth, an easy angle most people meet three times by 80. Effort and the know-how of living with an old difficulty pull the same way, so acting around it, or teaching others to, comes more naturally than usual. Flow still needs a hand on the wheel."
+definition: "Transiting Chiron trine natal Mars is Chiron 120° from the degree Mars held at your birth, an easy angle most people meet three times by 80. Effort and the know-how of living with an old difficulty pull the same way, so acting around it, or teaching others to, comes more naturally. Flow still needs a hand on the wheel."
 facts:
   - { k: "Transiting", v: "Chiron ⚷: an old sore spot, and what you learn to do with it" }
   - { k: "Natal point", v: "Mars ♂: how you act, assert yourself and make an effort" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/chiron", "/astrology/mars", "/astrology/trine", "/astrology/mars-trine-chiron", "/astrology/transits"]
 faq:
   - q: "What does transiting Chiron trine natal Mars mean?"
-    a: "Chiron stands 120° from your birth Mars, an easy angle. The way you act and the way you’ve learned to manage an old difficulty stop pulling against each other, so effort feels better aimed. Many people use it to teach, coach or finish something. I read it as a season that makes good work easier, not one that does it for you."
+    a: "Chiron stands 120° from your birth Mars, an easy angle. The way you act and the way you’ve learned to manage an old difficulty stop pulling against each other, so effort feels better aimed. Many people use it to teach, coach or finish something. I read it as a season that eases good work without doing it."
   - q: "Is Chiron trine Mars a lucky transit?"
     a: "Not in the sense of luck. A trine describes ease between two functions, and here the ease is practical: your effort and your workaround cooperate. No win, prize or result is promised. People who notice the ease and put it to work tend to come out with a skill they keep."
   - q: "How long does Chiron trine Mars last?"

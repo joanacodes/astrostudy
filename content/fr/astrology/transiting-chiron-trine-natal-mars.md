@@ -2,7 +2,7 @@
 title: "Chiron en transit trigone Mars du thème natal"
 slug: "chiron-transit-trigone-mars-natal"
 h1: "Chiron en transit trigone Mars de votre thème natal"
-description: "Chiron en transit trigone Mars du thème natal : l’effort et une vieille difficulté tirent enfin dans le même sens, trois fois environ dans une vie. Durée, usage."
+description: "Chiron en transit trigone Mars du thème natal : l’effort et une vieille difficulté tirent enfin ensemble, trois fois environ dans une vie. Durée, usage."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
