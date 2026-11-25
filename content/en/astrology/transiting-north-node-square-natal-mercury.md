@@ -25,12 +25,12 @@ faq:
   - q: "Does North Node square Mercury bring problems with papers or contracts?"
     a: "Not as I read it. No transit can tell how a contract, an exam or a dispute will end. This square describes a month of friction in the way you think and communicate, which can make you more careful with words. The outcome of any agreement depends on its content and the people involved."
   - q: "How often does the North Node square my Mercury?"
-    a: "About every nine years and four months, from alternate sides, for about a month each time with my orbs. Most people meet nine of these squares by 80, and nobody fewer than eight."
+    a: "About every nine years and four months, from alternate sides, for about a month each time with my orbs. Most people have met nine by 80; no one has met fewer than eight."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the square within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Mercury" }
 ---
-With the node square your Mercury, the line between where you come from and where you're heading crosses the way you think at right angles. For about a month, the familiar end and the new end each make a claim on your attention, and Mercury, standing between them, has to work out what to make of both.
+With the node square your Mercury, the line between where you come from and where you're heading crosses the way you think at right angles. For about a month, the old end of the axis and the new one both claim your attention, and Mercury, standing between them, has to work out what to make of both.
 
 ## What changes {#what-changes}
 
@@ -42,7 +42,7 @@ With your [Mercury in the 10th house](/astrology/mercury-in-10th-house/), the fr
 
 ## How long it lasts {#how-long-it-lasts}
 
-Every transit I follow gets the same orbs, 1½° before exact and 1° after, and the node clears them, in the middle case, in about a month. A tenth of passes need no more than three and a half weeks; another tenth need three and a half months or more: that's the true node lingering because the Sun has reached the nodes and an eclipse season has begun. About one pass in twenty-five touches the exact square three times.
+Every transit I follow gets the same orbs, 1½° before exact and 1° after, and the node clears them, in the middle case, in about a month. One tenth of passes need no more than three and a half weeks; a further tenth need three and a half months or more: that's the true node lingering because the Sun has reached the nodes and an eclipse season has begun. About one pass in twenty-five touches the exact square three times.
 
 Squares are the evenly spaced pair: nine years and four months apart every time, one from each side of your Mercury, and my forecast has neither, since the node enters it only at the conjunction and the opposition. The node passes [Transiting North Node sextile natal Mercury](/astrology/transiting-north-node-sextile-natal-mercury/) before the first and [Transiting North Node trine natal Mercury](/astrology/transiting-north-node-trine-natal-mercury/) after it, reaches [Transiting North Node opposite natal Mercury](/astrology/transiting-north-node-opposite-natal-mercury/) halfway, and makes the same angles again in reverse on its way back to [Transiting North Node conjunct natal Mercury](/astrology/transiting-north-node-conjunct-natal-mercury/). By 80, most people have met nine squares, eight at the fewest. Born with [Mercury square North Node](/astrology/mercury-square-north-node/), you meet this one at every [nodal return](/astrology/nodal-return/) and every [nodal reversal](/astrology/nodal-reversal/), since your Mercury already sits at right angles to the axis you were born with.
 

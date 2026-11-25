@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Venus", "trine", "transits"]
 weight: 1935
 glyph: "☊△♀"
-definition: "Transiting North Node trine natal Venus lets what you enjoy and what you are learning point the same way for about a month, twice in each 18.6-year round, as the node stands 120° from your birth Venus. Meanwhile the South Node sextiles it. I read it as growth that can feel like pleasure, still asking to be used."
+definition: "Transiting North Node trine natal Venus lets what you enjoy and what you are learning point the same way for about a month at a time, twice each 18.6-year round, as the node stands 120° from your birth Venus. Meanwhile the South Node sextiles it. I read it as growth that can feel like pleasure, still asking to be used."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node sextile your Venus" }
   - { k: "Natal point", v: "Venus ♀: how you value, enjoy and relate" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/north-node", "/astrology/venus", "/astrology/trine", "/astrology/venus-trine-north-node", "/astrology/venus-in-5th-house"]
 faq:
   - q: "What does transiting North Node trine natal Venus mean?"
-    a: "For about a month, what you enjoy and what you’re learning point the same way, with the node 120° from the Venus in your birth chart and the South Node 60°. Growth can feel like pleasure: a hobby becoming a craft, a friendship deepening, a new habit that sticks because you like it."
+    a: "For about a month, what you enjoy and what you’re learning point the same way, with the node 120° from your natal Venus and the South Node 60°. Growth can feel like pleasure: a hobby becoming a craft, a friendship deepening, a new habit that sticks because you like it."
   - q: "Is North Node trine Venus good for love?"
     a: "It describes ease between what you value and where you’re growing, which can make relating feel lighter. It doesn’t bring a partner or decide a relationship, and I don’t read transits for love’s outcome. What it offers is a month in which warmth and growth help each other."
   - q: "When does the North Node trine my Venus?"
@@ -35,11 +35,11 @@ A trine from the node to Venus is the rare transit in which growing and enjoying
 
 ## What changes {#what-changes}
 
-[Venus](/astrology/venus/) is how you value and enjoy, and how you relate when things are going well. The [North Node](/astrology/north-node/) marks a capacity you are still building, and a [trine](/astrology/trine/) lets the two help each other without either losing its character. Under this [transit](/astrology/transits/), what you enjoy and what you're learning point the same way, so growth can feel like pleasure for once.
+[Venus](/astrology/venus/) is how you value and enjoy, and how you relate when things are going well. The [North Node](/astrology/north-node/) stands for a capacity you are still building, and a [trine](/astrology/trine/) lets the two help each other without either losing its character. Under this [transit](/astrology/transits/), what you enjoy and what you're learning point the same way, so growth can feel like pleasure for once.
 
 It's the kind of month in which a hobby becomes a craft, a friendship deepens without effort, or a new way of spending time simply sticks because it's enjoyable. The risk is only the trine's usual one: that ease passes for luck and goes unused. The [South Node](/astrology/south-node/), sextile your Venus in the same weeks, adds an old talent to the new pleasure.
 
-With your [Venus in the 5th house](/astrology/venus-in-5th-house/), where tradition gave Venus its joy, the trine is likely to show in play, romance and the things you make for the pleasure of making them. Tradition also gave the 5th to children; I read it in an adult's life as joy and creativity, and no transit forecasts a pregnancy ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)). The 5th, like every house, can only be drawn from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+With your [Venus in the 5th house](/astrology/venus-in-5th-house/), the house of Venus's joy in tradition, the trine is likely to show in play, romance and the things you make for the pleasure of making them. Tradition also gave the 5th to children; for an adult I read it as joy and creativity, and no transit forecasts a pregnancy ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)). The 5th, like every house, can only be drawn from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

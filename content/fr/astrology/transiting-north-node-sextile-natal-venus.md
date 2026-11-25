@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/north-node", "/astrology/venus", "/astrology/sextile", "/astrology/venus-sextile-north-node", "/astrology/venus-in-10th-house"]
 faq:
   - q: "Que veut dire le Nœud Nord en transit sextile Vénus natale ?"
-    a: "Pendant un mois environ, une relation, une collaboration ou un plaisir qui soutient votre croissance se prend facilement : le nœud se tient à 60° de votre Vénus de naissance, le Nœud Sud en trigone. C'est une invitation discrète, facile à manquer, et l'accepter vous revient."
+    a: "Pendant un mois environ, une relation, une collaboration ou un plaisir qui soutient votre croissance se prend facilement : le nœud se tient à 60° de votre Vénus de naissance, que le Nœud Sud regarde en trigone. C'est une invitation discrète, facile à manquer, et l'accepter vous revient."
   - q: "Le Nœud Nord sextile Vénus, est-ce bon pour les relations ?"
     a: "Il décrit un mois plus facile pour entrer en lien d'une façon qui vous fait grandir : une amitié qui vous étire avec douceur, un partenariat d'égal à égal, un projet partagé. Il ne promet aucune relation et n'en décide aucune. Ce qu'il offre, c'est un bon moment pour un pas que vous choisissez."
   - q: "Combien de fois le Nœud Nord fait-il un sextile à ma Vénus ?"
@@ -36,7 +36,7 @@ Le sextile est le contact le plus sociable que le nœud forme avec Vénus. Penda
 
 ## Ce qui change {#ce-qui-change}
 
-[Vénus](/astrology/venus/), c'est votre sens de la valeur et des affinités : ce que vous aimez, qui vous aimez, la justesse d'un partage. Le [Nœud Nord](/astrology/north-node/) montre ce que vous apprenez encore, et un [sextile](/astrology/sextile/) relie deux fonctions par une coopération qui demande une réponse. Sous ce [transit](/astrology/transits/), entrer en lien d'une façon moins familière devient plus facile, à condition de faire le premier pas.
+[Vénus](/astrology/venus/), c'est votre sens de la valeur et des affinités : ce que vous aimez, qui vous aimez, la justesse d'un partage. Le [Nœud Nord](/astrology/north-node/) désigne ce que vous apprenez encore, et un [sextile](/astrology/sextile/) relie deux fonctions par une coopération qui demande une réponse. Sous ce [transit](/astrology/transits/), entrer en lien d'une façon moins familière devient plus facile, à condition de faire le premier pas.
 
 Les ouvertures habituelles : une amitié avec quelqu'un qui fonctionne autrement que vous, l'invitation à partager un projet, un plaisir pris à plusieurs plutôt que seule ou seul, l'occasion de dire ce que vous aimeriez dans une relation et d'être rejointe ou rejoint à mi-chemin. Le [Nœud Sud](/astrology/south-node/), en trigone à votre Vénus pendant ces semaines, garde vos vieilles affections proches et faciles : le nouveau n'a pas à coûter l'ancien.
 
@@ -46,7 +46,7 @@ Dans une fenêtre comme celle-ci, je regarde les nouvelles et les pleines lunes.
 
 ## Combien de temps {#combien-de-temps}
 
-Ce sextile met en général un mois environ à traverser ma fenêtre de 1,5° avant l'exactitude et 1° après. Suivi avec le nœud moyen, chaque passage durerait les mêmes sept semaines environ ; je suis le nœud vrai, plus rapide entre les saisons d'éclipses et bien plus lent pendant. Un dixième des passages est donc fini en trois semaines et demie, un dixième s'étire à trois mois et demi ou plus ; trois contacts exacts restent rares, un passage sur vingt-cinq environ. Avec l'un comme avec l'autre nœud, le sextile resterait hors de ma prévision, qui ne retient le nœud qu'en conjonction ou en opposition.
+Ce sextile met en général un mois environ à traverser ma fenêtre, qui s'ouvre 1,5° avant l'exactitude et se ferme 1° après. Suivi avec le nœud moyen, chaque passage durerait les mêmes sept semaines environ ; je suis le nœud vrai, plus rapide entre les saisons d'éclipses et bien plus lent pendant. Un dixième des passages est donc fini en trois semaines et demie, un dixième s'étire à trois mois et demi ou plus ; trois contacts exacts restent rares, un passage sur vingt-cinq environ. Avec l'un comme avec l'autre nœud, le sextile resterait hors de ma prévision, qui ne retient le nœud qu'en conjonction ou en opposition.
 
 Avec Vénus en Balance ou en Verseau, il faut attendre les années Sagittaire du nœud, de septembre 2029 à mars 2031, et le degré de Vénus choisit le mois. Chaque sextile se tient entre la conjonction ([Nœud Nord en transit conjonction Vénus du thème natal](/astrology/transiting-north-node-conjunct-natal-venus/)) et un carré ([Nœud Nord en transit carré Vénus du thème natal](/astrology/transiting-north-node-square-natal-venus/)), avec [Nœud Nord en transit trigone Vénus du thème natal](/astrology/transiting-north-node-trine-natal-venus/) et [Nœud Nord en transit opposition Vénus du thème natal](/astrology/transiting-north-node-opposite-natal-venus/) plus loin sur le tour. La plupart des gens rencontrent neuf de ces sextiles avant 80 ans, et personne moins de huit. Si votre thème porte [Vénus sextile Nœud Nord](/astrology/venus-sextile-north-node/), vous pouvez dater un sextile de chaque tour sans éphéméride : c'est votre retour nodal, vers 18 ans et demi, 37 et 56 ans.
 

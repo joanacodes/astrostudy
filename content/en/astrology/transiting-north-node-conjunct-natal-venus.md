@@ -23,15 +23,15 @@ faq:
   - q: "What does transiting North Node conjunct natal Venus mean?"
     a: "It means your sense of value is asked to widen for about a month: a new taste, a fairer exchange, a pleasure you hadn’t allowed yourself. The North Node is crossing your birth Venus, with the South Node opposite on your familiar preferences. I read it as values growing, not as a meeting or an event."
   - q: "Will I meet someone when the North Node conjuncts my Venus?"
-    a: "That isn’t something a transit can tell, and I don’t date meetings, marriages or partings. Venus describes how you value and relate, not who will arrive. This month may change what you look for in people, which is real enough; who you meet depends on far more than a chart."
+    a: "That isn’t something a transit can tell, and I don’t date meetings, marriages or partings. Venus describes how you value and relate, not who will arrive. This month may change what you look for in people, which is real enough; who you meet is not something a chart decides."
   - q: "How long does North Node conjunct Venus last?"
-    a: "About a month with my orbs, roughly the time Venus itself takes to cross a sign. When an eclipse season falls during the transit, the true node nearly stops and the pass can run three and a half months or more, which happens to one pass in ten. It returns about every 18.6 years."
+    a: "About a month with my orbs, roughly the time Venus itself takes to cross a sign. When an eclipse season falls during the transit, the true node nearly stops and the pass can run three and a half months or more; that happens to one pass in ten. It returns about every 18.6 years."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node stays within my orbs, and how often the conjunction comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "how a transit to natal Venus is read" }
   - { title: "The Astro Study’s dates from the planets’ positions", note: "the eclipses from 2027 to 2030, with their degrees" }
 ---
-Once in each round of the nodes, the point of growth passes over the degree of your Venus: what you value, what you enjoy, the way you draw close to people and things. For a month or so, the South Node holds the degree opposite, where your familiar tastes live.
+Once in each round of the nodes, the point of growth passes over the degree of your Venus: what you value, what you enjoy, the way you draw close to people and things. For a month or so, the South Node sits on the opposite degree, where your familiar tastes live.
 
 ## What changes {#what-changes}
 

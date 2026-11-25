@@ -1,7 +1,7 @@
 ---
 title: "Transiting North Node sextile natal Mercury"
 h1: "Transiting North Node sextile your natal Mercury"
-description: "Transiting North Node sextile natal Mercury: a month when a new subject or skill is easy to start, with what you know to build on. When, and what helps."
+description: "Transiting North Node sextile natal Mercury: a month when a new subject or skill is easy to start, with what you know to build on. Timing, and what helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Mercury", "sextile", "transits"]
 weight: 1928
 glyph: "☊⚹☿"
-definition: "Transiting North Node sextile natal Mercury opens a month, twice in every round of the nodes, when the node is 60° from your birth Mercury and the South Node trines it. Learning that builds on what you already know comes easily. I read it as an invitation to learn, worth accepting on purpose."
+definition: "Transiting North Node sextile natal Mercury opens a month, twice in every nodal round, when the node is a sixth of the zodiac from your natal Mercury and the South Node a third. Learning that builds on what you already know comes easily. I read it as an invitation to learn, worth accepting on purpose."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node trine your Mercury" }
   - { k: "Natal point", v: "Mercury ☿: curiosity, reasoning and the words you reach for" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/north-node", "/astrology/mercury", "/astrology/sextile", "/astrology/mercury-sextile-north-node", "/astrology/mercury-in-9th-house"]
 faq:
   - q: "What does transiting North Node sextile natal Mercury mean?"
-    a: "It’s the month or so when a new subject or skill is easiest to begin. The node stands 60° from your birth Mercury while the South Node trines it, so what you already know supports what you’re learning. Nothing starts by itself; the sextile rewards a first step."
+    a: "It’s the month or so when a new subject or skill is easiest to begin. The node sits 60° from the Mercury you were born with while the South Node trines it, so what you already know supports what you’re learning. Nothing starts by itself; the sextile rewards a first step."
   - q: "When does the North Node sextile my Mercury?"
     a: "Look at the node’s sign: it sextiles Mercury two signs ahead of it and two signs behind. While it crosses Aquarius, from July 2026 to March 2028, that means Mercury in Aries or in Sagittarius. Each sextile lasts about a month, and a life to 80 holds eight or nine."
   - q: "Is North Node sextile Mercury good for signing a contract?"
@@ -34,7 +34,7 @@ A sextile from the node rarely announces itself. For about a month the node stan
 
 ## What changes {#what-changes}
 
-[Mercury](/astrology/mercury/) is how you think things through and pass them on: curiosity, analysis, the words you reach for. The [North Node](/astrology/north-node/) is where practice builds something new, and a [sextile](/astrology/sextile/) relates the two through opportunity that has to be engaged with. Under this [transit](/astrology/transits/), a new subject or way of working is easy to begin, and just as easy to leave unbegun.
+[Mercury](/astrology/mercury/) is how you think things through and pass them on: curiosity, analysis, the words you reach for. The [North Node](/astrology/north-node/) is the side of you that practice builds, and a [sextile](/astrology/sextile/) relates the two through opportunity that has to be engaged with. Under this [transit](/astrology/transits/), a new subject or way of working is easy to begin, and just as easy to leave unbegun.
 
 The [South Node](/astrology/south-node/), trine your Mercury in the same weeks, gives the new thing an old foundation: what you already know makes the next step shorter. A second language learned through a first, a new tool picked up through an old trade, a field entered sideways from one you know well: that is the sextile's kind of growth, built on rather than started from nothing.
 

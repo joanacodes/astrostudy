@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Mars", "sextile", "transits"]
 weight: 1938
 glyph: "☊⚹♂"
-definition: "Transiting North Node sextile natal Mars makes a first step in a new direction cheaper for about a month: the node is 60° from your birth Mars and the South Node trines it, twice in each 18.6-year round. I read it as an opening for effort, which waits for you to move."
+definition: "Transiting North Node sextile natal Mars makes a first step in a new direction cheaper for about a month: the node is 60° from your natal Mars while the South Node trines it, twice in each 18.6-year round. I read it as an opening for effort, which waits for you to move."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node trine your Mars" }
   - { k: "Natal point", v: "Mars ♂: motivation, initiative and the effort that gets things done" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/north-node", "/astrology/mars", "/astrology/sextile", "/astrology/mars-sextile-north-node", "/astrology/mars-in-3rd-house"]
 faq:
   - q: "What does transiting North Node sextile natal Mars mean?"
-    a: "Think of it as a month of cheaper first steps. With the node 60° from your birth Mars and the South Node trine it, moving in a less familiar direction costs less effort than usual: a training, a role that needs initiative, a moment to speak up. The opening is real, and it waits for you to move."
+    a: "Think of it as a month of cheaper first steps. With the node sextile your natal Mars and the South Node trine it, moving in a less familiar direction costs less effort than usual: a training, a role that needs initiative, a moment to speak up. The opening is real, and it waits for you to move."
   - q: "Is North Node sextile Mars a good time to start something?"
     a: "Often, yes, if it’s something you have been meaning to begin. A sextile from the node lends a little ease to effort aimed at growth, and your established skills stay within reach. It guarantees no result, but it lowers the cost of beginning."
   - q: "How often does the North Node sextile my Mars?"
@@ -46,7 +46,7 @@ Mars in Virgo or Capricorn, for example, gets its next sextile in the node's Sco
 
 ## How long it lasts {#how-long-it-lasts}
 
-Usually the sextile holds for about a month, counting 1½° before exact and 1° after. The true node moves at the Sun's bidding, fastest when the Sun is 90° from the nodes and almost still when the Sun lines up with them, so the quickest passes are done in three and a half weeks and the slowest, in an eclipse season, take three and a half months or more. About one in twenty-five has three exact contacts.
+Usually the sextile holds for about a month, counting 1½° before exact and 1° after. The true node moves at the Sun's bidding, fastest when the Sun is 90° from the nodes and almost still when the Sun lines up with them, so the quickest passes are done in three and a half weeks and the slowest, in an eclipse season, take three and a half months or more. Roughly one pass in twenty-five hits exact three times.
 
 Two sextiles fall in each round, one either side of the conjunction ([Transiting North Node conjunct natal Mars](/astrology/transiting-north-node-conjunct-natal-mars/)), so by 80 the count is nine for most people and never below eight; [Transiting North Node square natal Mars](/astrology/transiting-north-node-square-natal-mars/), [Transiting North Node trine natal Mars](/astrology/transiting-north-node-trine-natal-mars/) and [Transiting North Node opposite natal Mars](/astrology/transiting-north-node-opposite-natal-mars/) fill the rest of the round. If you were born with [Mars sextile North Node](/astrology/mars-sextile-north-node/), add your nodal returns, in your late teens, your late thirties and your mid-fifties, to the list.
 

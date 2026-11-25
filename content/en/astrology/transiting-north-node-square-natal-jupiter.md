@@ -1,7 +1,7 @@
 ---
 title: "Transiting North Node square natal Jupiter"
 h1: "Transiting North Node square your natal Jupiter"
-description: "Transiting North Node square natal Jupiter: every nine years or so, a month when belief meets practice and has to adjust. First ages, what helps."
+description: "Transiting North Node square natal Jupiter: roughly every nine years, a month when belief meets practice and has to adjust. First ages, what helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -46,7 +46,7 @@ With [Jupiter in the 4th house](/astrology/jupiter-in-4th-house/), whose natural
 
 Inside my orbs, from 1½° before exact to 1° after, the node takes about a month over the square. Eclipse seasons slow it almost to a halt, which is when a tenth of passes run three and a half months or more; between seasons it can be through in three and a half weeks; and about one in twenty-five crosses the exact square three times.
 
-One square follows another every nine years or so, so the first sets the rhythm for life. With birth years from 1930 to 2009 it never came later than about 9½, and 4½ was the middle case. Born at the start of 1945, a child met it at about 1, and then at roughly 10, 20, 29, 38, 48, 57, 66 and 76, nine in all; born at the start of 1975, first at about 9, and eight by 80. The first square always comes in childhood, so it's for an adult to look back on rather than for me to read ([children's charts](/astrology/childrens-charts/)). None of the later ones would show in my forecast, which leaves the node's squares out and counts only its conjunctions and oppositions.
+One square follows another every nine years or so, so the first sets the rhythm for life. With birth years from 1930 to 2009 the first was always over by about 9½, with 4½ as the middle case. Born at the start of 1945, a child met it at about 1, and then at roughly 10, 20, 29, 38, 48, 57, 66 and 76, nine in all; born at the start of 1975, first at about 9, and eight by 80. The first square always comes in childhood, so it's for an adult to look back on rather than for me to read ([children's charts](/astrology/childrens-charts/)). None of the later ones would show in my forecast, which leaves the node's squares out and counts only its conjunctions and oppositions.
 
 Each square sits between [Transiting North Node sextile natal Jupiter](/astrology/transiting-north-node-sextile-natal-jupiter/) and [Transiting North Node trine natal Jupiter](/astrology/transiting-north-node-trine-natal-jupiter/), with [Transiting North Node conjunct natal Jupiter](/astrology/transiting-north-node-conjunct-natal-jupiter/) and [Transiting North Node opposite natal Jupiter](/astrology/transiting-north-node-opposite-natal-jupiter/) at the round's two poles. With [Jupiter square North Node](/astrology/jupiter-square-north-node/) at birth, keep an eye on the ages of 9, 18½, 28, 37, 46 and 56: the [nodal return](/astrology/nodal-return/) and the [nodal reversal](/astrology/nodal-reversal/) both renew this square.
 

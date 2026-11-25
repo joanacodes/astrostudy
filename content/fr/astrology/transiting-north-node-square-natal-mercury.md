@@ -26,7 +26,7 @@ faq:
   - q: "Le Nœud Nord carré Mercure apporte-t-il des ennuis de papiers ou de contrats ?"
     a: "Pas tel que je le lis. Aucun transit ne peut dire comment finira un contrat, un examen ou un litige. Ce carré décrit un mois de friction dans votre façon de penser et de communiquer, qui peut vous rendre plus attentive ou attentif aux mots. L'issue d'un accord dépend de son contenu et des personnes en cause."
   - q: "Combien de fois le Nœud Nord fait-il un carré à Mercure ?"
-    a: "Tous les neuf ans et quatre mois environ, d'un côté puis de l'autre, pendant un mois environ chaque fois avec mes orbes. La plupart des gens rencontrent neuf de ces carrés avant 80 ans, et personne moins de huit."
+    a: "Tous les neuf ans et quatre mois environ, d'un côté puis de l'autre, pendant un mois environ chaque fois avec mes orbes. Le compte, avant 80 ans, est de neuf dans la plupart des vies, de huit au moins."
 sources:
   - { title: "Le décompte de The Astro Study d'après la position des planètes", note: "combien de temps le nœud vrai tient le carré dans mes orbes, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits sur Mercure dans le thème natal" }
@@ -39,7 +39,7 @@ Quand le nœud forme un carré avec Mercure dans votre thème, la ligne qui va d
 
 Concrètement, cela ressemble souvent à une dispute avec vous-même. L'ancienne explication ne convainc plus tout à fait, la nouvelle n'a pas encore gagné votre confiance, et vous répétez les deux. Un projet demande peut-être à être repensé, un savoir-faire réappris, une histoire que vous vous racontez sur vous-même racontée autrement. Cette friction est utile : c'est ainsi qu'un carré change l'information en décision, et il est rare qu'elle doive être réglée d'un coup.
 
-Avec [Mercure en maison 10](/astrology/mercury-in-10th-house/), la friction se montre souvent au travail : dans ce que vous dites en public, dans la façon de présenter une idée, dans la réputation que vos mots ont construite. Rien de tout cela n'annonce l'issue d'un contrat, d'un examen ou d'un litige, qu'aucun thème ne peut dire ([L'astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)). La maison 10, comme toutes les maisons, se trace à partir de votre heure de naissance ; sans elle, je ne saurais pas où ce carré tombe dans votre vie ([ce qui change sans l'heure de naissance](/blog/unknown-birth-time/)).
+Avec [Mercure en maison 10](/astrology/mercury-in-10th-house/), la friction se montre souvent au travail : dans ce que vous dites en public, dans la façon de présenter une idée, dans la réputation que vos mots ont construite. Rien de tout cela n'annonce l'issue d'un contrat, d'un examen ou d'un litige, qu'aucun thème ne peut dire ([L'astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)). La maison 10, comme toutes les maisons, se calcule avec votre heure de naissance ; sans elle, je ne saurais pas où ce carré tombe dans votre vie ([ce qui change sans l'heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

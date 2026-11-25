@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Moon", "square", "transits"]
 weight: 1924
 glyph: "☊□☽"
-definition: "Transiting North Node square natal Moon is the nodal axis crossing your birth Moon at right angles, about every nine years, for a month or so. Your needs sit across the path between the familiar South Node and the less practised North Node. I read it as friction that teaches a plan what you need."
+definition: "Transiting North Node square natal Moon is the nodal axis crossing your birth Moon at right angles, about every nine years, for a month or so. Your needs sit across the path between the familiar South Node and the less practised North Node. I read it as friction from which a plan learns what you need."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node square your Moon from the other side" }
   - { k: "Natal point", v: "The Moon ☽: your needs, and what keeps you steady" }
@@ -25,7 +25,7 @@ faq:
   - q: "Is North Node square Moon a bad transit?"
     a: "No. A square is friction, and friction asks for adjustment, not punishment. Here it tends to show where a plan has no room for what you need. The month passes either way; what it can leave behind is a plan that knows a little more about you."
   - q: "How long does the North Node square my Moon?"
-    a: "With my orbs, which open 1½° before exact and close 1° after, about a month. An eclipse season can slow the node so much that the square lasts three and a half months or more, as happens in one pass out of ten. The square comes back about every nine years, from alternate sides, eight or nine times by 80."
+    a: "With my orbs, which open 1½° before exact and close 1° after, about a month. An eclipse season can slow the node so much that the square holds for three and a half months or more, as happens in one pass out of ten. The square comes back about every nine years, from alternate sides, eight or nine times by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the square within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to the natal Moon" }
@@ -39,15 +39,15 @@ The [Moon](/astrology/moon/) holds your needs: comfort, attachment, the rhythm o
 
 In plain words, a need that doesn't fit the plan asks to be fitted in. You may notice it as tiredness at the wrong moment, as a pull towards home just when the next step wants you out, or as an old routine that no longer settles you while the new one doesn't yet. Friction here isn't failure: it's the moment a plan learns what your Moon requires, and a direction that leaves out what you need doesn't hold for long.
 
-The sky shows the geometry plainly. A quarter of the way round from its nodes, the Moon's path is as far from the Sun's as it ever gets, a little over 5°, so in these weeks the Moon reaches your Moon's degree well north or well south of the Sun's path, never on it. With no crossing near your Moon, my forecast has nothing to list: it counts the node only when a crossing sits on your Moon or opposite it.
+The sky shows the geometry plainly. A quarter of a circle from its nodes, the Moon's path is as far from the Sun's as it ever gets, a little over 5°, so in these weeks the Moon reaches your Moon's degree well north or well south of the Sun's path, never on it. With no crossing near your Moon, my forecast has nothing to list: it counts the node only when a crossing sits on your Moon or opposite it.
 
-With your [Moon in the 10th house](/astrology/moon-in-10th-house/), the friction often runs between what keeps you feeling safe and what your work or public role expects. The Moon's house, and its exact degree, come from your birth time, which is why I don't read this square without it ([what changes without a birth time](/blog/unknown-birth-time/)). And if the friction turns into a low mood or an anxiety that doesn't lift, that is a matter for someone trained to help, not for a chart ([astrology and mental health](/astrology/astrology-and-mental-health/)).
+With your [Moon in the 10th house](/astrology/moon-in-10th-house/), the friction often runs between what keeps you feeling safe and what your work or public role expects. The Moon's house, and its exact degree, come from your birth time, which is why I don't read this square without it ([what changes without a birth time](/blog/unknown-birth-time/)). And if the friction turns into a low mood or an anxiety that doesn't lift, that is for a trained professional to help with, not a chart ([astrology and mental health](/astrology/astrology-and-mental-health/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
 I give every transit the same window, opening 1½° before exact and closing 1° after, and the node usually crosses it in about a month. The quickest tenth are done within three and a half weeks; the slowest tenth take three and a half months or more, because an eclipse season has all but stopped the node near the square, and about one pass in twenty-five brings three exact contacts. The eclipses of such a season fall roughly a quarter of the zodiac from your Moon, a square, which I don't count as an eclipse on your chart.
 
-The square returns every nine years or so, from each side in turn: about four and a half years after the node crosses your Moon ([Transiting North Node conjunct natal Moon](/astrology/transiting-north-node-conjunct-natal-moon/)), and again about four and a half years after it stands opposite ([Transiting North Node opposite natal Moon](/astrology/transiting-north-node-opposite-natal-moon/)). Each time it falls between [Transiting North Node sextile natal Moon](/astrology/transiting-north-node-sextile-natal-moon/) and [Transiting North Node trine natal Moon](/astrology/transiting-north-node-trine-natal-moon/). By 80, most people have met it nine times, nobody fewer than eight. With [Moon square North Node](/astrology/moon-square-north-node/) in your chart, the nodes recreate the square whenever they line up with your natal axis, at the [nodal return](/astrology/nodal-return/) and at the [nodal reversal](/astrology/nodal-reversal/) alike.
+The square returns every nine years or so, from each side in turn: some four and a half years after the node crosses your Moon ([Transiting North Node conjunct natal Moon](/astrology/transiting-north-node-conjunct-natal-moon/)), and again about four and a half years after it stands opposite ([Transiting North Node opposite natal Moon](/astrology/transiting-north-node-opposite-natal-moon/)). Each time it falls between [Transiting North Node sextile natal Moon](/astrology/transiting-north-node-sextile-natal-moon/) and [Transiting North Node trine natal Moon](/astrology/transiting-north-node-trine-natal-moon/). By 80, most people have met it nine times, nobody fewer than eight. With [Moon square North Node](/astrology/moon-square-north-node/) in your chart, the nodes recreate the square whenever they line up with your natal axis, at the [nodal return](/astrology/nodal-return/) and at the [nodal reversal](/astrology/nodal-reversal/) alike.
 
 ## What helps {#what-helps}
 

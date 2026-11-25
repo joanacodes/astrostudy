@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/north-node", "/astrology/venus", "/astrology/square", "/astrology/venus-square-north-node", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does transiting North Node square natal Venus mean?"
-    a: "With the axis of the nodes crossing your birth Venus at 90°, a pleasure, a relationship or a habit of comfort sits awkwardly between old and new for about a month. The square asks what each would need to make room for the other. I read it as an adjustment, never as a parting."
+    a: "With the axis of the nodes crossing your birth Venus at 90°, a pleasure, a relationship or a habit of comfort sits awkwardly between old and new for about a month. The square asks what each would need so that both fit. I read it as an adjustment, never as a parting."
   - q: "Is North Node square Venus bad for my relationship?"
-    a: "No. A transit can’t tell how a relationship will go, and I never read one for a break-up. This square describes friction between what you enjoy and where you’re growing, which a relationship can feel. Talking about it, rather than reading it as a sign, is what tends to help."
+    a: "No. A transit can’t tell how a relationship will go, and I don’t look for break-ups in one. This square describes friction between what you enjoy and where you’re growing, which a relationship can feel. Talking about it, rather than reading it as a sign, is what tends to help."
   - q: "How long does North Node square Venus last?"
     a: "About a month in the usual case, from 1½° before exact to 1° after; the brisk ones take three and a half weeks, the slow ones three and a half months or more, about one pass in ten each. Two come in every 18.6-year round, making eight or nine by 80."
 sources:
@@ -43,7 +43,7 @@ With your [Venus in the 4th house](/astrology/venus-in-4th-house/), the friction
 
 ## How long it lasts {#how-long-it-lasts}
 
-A transit lives, for me, inside 1½° before exact and 1° after; the true node usually crosses that span in about a month. The Sun sets the pace. Midway between eclipse seasons, with the Sun 90° from the nodes, the node runs backwards at about twice its average speed, and the square may be done within three and a half weeks, as a tenth of passes are. Inside a season it nearly stops, and a tenth run to three and a half months or more, about one in twenty-five with three exact contacts.
+For me a transit lives inside 1½° before exact and 1° after, a span the true node usually crosses in about a month. The Sun sets the pace. Midway between eclipse seasons, with the Sun 90° from the nodes, the node runs backwards at about twice its average speed, and the square may be finished in three and a half weeks, as a tenth of passes are. Inside a season it nearly stops, and a tenth run to three and a half months or more, one in twenty-five or so with three exact contacts.
 
 The node needs about four years and eight months to turn a quarter of the zodiac, so the two squares of a round sit on either side of [Transiting North Node opposite natal Venus](/astrology/transiting-north-node-opposite-natal-venus/), each flanked by [Transiting North Node sextile natal Venus](/astrology/transiting-north-node-sextile-natal-venus/) and [Transiting North Node trine natal Venus](/astrology/transiting-north-node-trine-natal-venus/), with [Transiting North Node conjunct natal Venus](/astrology/transiting-north-node-conjunct-natal-venus/) at the round's start and end. Nine squares by 80 for most people, eight for the rest. With [Venus square North Node](/astrology/venus-square-north-node/) at birth, this square is guaranteed at each [nodal return](/astrology/nodal-return/) and each [nodal reversal](/astrology/nodal-reversal/).
 

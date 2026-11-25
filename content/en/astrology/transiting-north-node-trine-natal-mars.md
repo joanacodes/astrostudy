@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/north-node", "/astrology/mars", "/astrology/trine", "/astrology/mars-trine-north-node", "/astrology/mars-in-10th-house"]
 faq:
   - q: "What does transiting North Node trine natal Mars mean?"
-    a: "The node trines your birth Mars and the South Node sextiles it, so for about a month effort and growth fall into step. Things you would normally have to force tend to move, and momentum is easier to keep. The ease is real; using it still takes a decision."
+    a: "For about a month the node trines the Mars you were born with, the South Node sextiles it, and effort and growth fall into step. Things you would normally have to force tend to move, and momentum is easier to keep. The ease is real; using it still takes a decision."
   - q: "Is North Node trine Mars good for my career?"
-    a: "It can support effort at work, especially with Mars in your 10th or 6th house, by making momentum easier to find. It doesn’t promise a promotion or any success, and I don’t read transits for outcomes. What it offers is a month when well-aimed effort meets less resistance."
+    a: "It can support effort at work, especially with Mars in your 10th or 6th house, by making momentum easier to find. It doesn’t promise a promotion or any success, and outcomes aren’t something I read from a transit. What it offers is a month when well-aimed effort meets less resistance."
   - q: "How long does North Node trine Mars last?"
     a: "About a month as a rule, counting 1½° before exact and 1° after, though an eclipse season can stretch a pass to three and a half months or more. Two trines come in each 18.6-year round, eight or nine by the age of 80."
 sources:

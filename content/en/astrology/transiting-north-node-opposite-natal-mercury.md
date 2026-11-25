@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Mercury", "opposition", "transits"]
 weight: 1931
 glyph: "☊☍☿"
-definition: "Transiting North Node opposite natal Mercury brings the South Node onto your birth Mercury for a month or so, nine years or so after the North Node’s own pass. The ways of thinking and speaking you rely on most come into view, with a less familiar one across the chart: a good month for hearing the other side."
+definition: "Transiting North Node opposite natal Mercury brings the South Node onto your birth Mercury for a month or so, about nine years after the North Node’s own pass. The ways of thinking and speaking you rely on most come into view, with a less familiar one across the chart: a good month for hearing the other side."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node on your Mercury" }
   - { k: "Natal point", v: "Mercury ☿: what you notice, how you reason, how you explain" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/south-node", "/astrology/mercury", "/astrology/opposition", "/astrology/mercury-opposite-north-node", "/astrology/north-node-transit-10th-house"]
 faq:
   - q: "What does transiting North Node opposite natal Mercury mean?"
-    a: "For about a month, the ways of thinking and speaking you’ve practised most come into view, because the South Node is passing over your birth Mercury and the North Node faces it. A less familiar view stands across the chart, often in someone else’s voice. It’s a season for hearing the other side, never news."
+    a: "For about a month, the ways of thinking and speaking you’ve practised most come into view, because the South Node is crossing your birth Mercury with the North Node opposite. A less familiar view stands across the chart, often in someone else’s voice. It’s a season for hearing the other side, never news."
   - q: "Is the South Node on Mercury a bad time to communicate?"
     a: "No. The South Node describes skills already built, so your words come easily, sometimes too easily, out of habit. What it asks is that you notice where habit is doing the talking. It doesn’t spoil conversations, documents or plans, and it predicts nothing about them."
   - q: "How often does the North Node oppose my Mercury?"

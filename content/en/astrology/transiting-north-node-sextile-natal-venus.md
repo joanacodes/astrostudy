@@ -35,7 +35,7 @@ The sextile is the most sociable contact the node makes with Venus. For a month 
 
 ## What changes {#what-changes}
 
-[Venus](/astrology/venus/) is your sense of value and of affinity: what you like, whom you like, how fairly things are shared. The [North Node](/astrology/north-node/) points to what you are still learning, and a [sextile](/astrology/sextile/) links two functions through cooperation that needs a response. Under this [transit](/astrology/transits/), relating in a less familiar way gets easier, provided you take the first step.
+[Venus](/astrology/venus/) is your sense of value and of affinity: what you like, whom you like, how fairly things are shared. The [North Node](/astrology/north-node/) shows what you are still learning, and a [sextile](/astrology/sextile/) links two functions through cooperation that needs a response. Under this [transit](/astrology/transits/), relating in a less familiar way gets easier, provided you take the first step.
 
 Typical openings: a friendship with someone who works differently from you, an invitation to share a project, a pleasure taken with others rather than alone, a chance to say what you'd like in a relationship and be met halfway. The [South Node](/astrology/south-node/), trine your Venus in those weeks, keeps your old affections easy and near, so the new needn't cost the old.
 
@@ -45,7 +45,7 @@ Inside a window like this I watch the new and full moons. One that falls within 
 
 ## How long it lasts {#how-long-it-lasts}
 
-This sextile usually takes about a month to cross my window, which opens 1½° before exact and closes 1° after. Followed with the mean node, every pass would take the same seven weeks or so; I follow the true node, which is quicker between eclipse seasons and far slower inside them. A tenth of passes are therefore over in three and a half weeks, a tenth drag on for three and a half months or more, and one pass in twenty-five or so has three exact contacts. With either node, the sextile would stay out of my forecast, which counts the node only at a conjunction or an opposition.
+This sextile usually takes about a month to cross my window, which opens 1½° before exact and closes 1° after. Followed with the mean node, every pass would take the same seven weeks or so; I follow the true node, which is quicker between eclipse seasons and far slower inside them. A tenth of passes are therefore over in three and a half weeks, a tenth stretch out to three and a half months or more, and one pass in twenty-five or so has three exact contacts. With either node, the sextile would stay out of my forecast, which counts the node only at a conjunction or an opposition.
 
 People with Venus in Libra or Aquarius wait for the node's Sagittarius years, September 2029 to March 2031, and the degree of their Venus picks the month. Each sextile stands between the conjunction ([Transiting North Node conjunct natal Venus](/astrology/transiting-north-node-conjunct-natal-venus/)) and a square ([Transiting North Node square natal Venus](/astrology/transiting-north-node-square-natal-venus/)), with [Transiting North Node trine natal Venus](/astrology/transiting-north-node-trine-natal-venus/) and [Transiting North Node opposite natal Venus](/astrology/transiting-north-node-opposite-natal-venus/) further round. Most people meet nine of these sextiles by 80, and nobody fewer than eight. Born with [Venus sextile North Node](/astrology/venus-sextile-north-node/), you can date one sextile of each round without an ephemeris: it is your nodal return, at about 18½, 37 and 56.
 

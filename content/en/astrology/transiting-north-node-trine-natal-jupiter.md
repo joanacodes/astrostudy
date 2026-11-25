@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/north-node", "/astrology/jupiter", "/astrology/trine", "/astrology/jupiter-trine-north-node", "/astrology/jupiter-in-12th-house"]
 faq:
   - q: "What does transiting North Node trine natal Jupiter mean?"
-    a: "With the node trine your birth Jupiter and the South Node sextile it, understanding and practice run the same way for about a month: a subject becomes a skill, a principle a habit. It’s an easy current, and the only risk is letting it pass without starting anything."
+    a: "With the node trine your birth Jupiter and the South Node sextile it, understanding and practice run the same way for a month or so: a subject becomes a skill, a principle a habit. It’s an easy current, and the only risk is letting it pass without starting anything."
   - q: "When does the North Node first trine Jupiter?"
     a: "At some point between birth and about 12½, if you were born from 1930 to 2009, with about 4½ as the middle case: a baby born at the start of 1985 had it within weeks, a child born at the start of 1935 at about 10. Two come in each round after that."
   - q: "Is North Node trine Jupiter a lucky transit?"

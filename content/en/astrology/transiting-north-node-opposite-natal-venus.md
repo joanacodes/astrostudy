@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Venus", "opposition", "transits"]
 weight: 1936
 glyph: "☊☍♀"
-definition: "Transiting North Node opposite natal Venus places the South Node on your birth Venus for about a month, halfway through each round of the nodes. Long-practised ways of relating and valuing come into the light, with a less familiar way across the chart. I read it as a review, never an ending."
+definition: "Transiting North Node opposite natal Venus places the South Node on your birth Venus for a month or so, halfway through each round of the nodes. Long-practised ways of relating and valuing come into the light, with a less familiar way across the chart. I read it as a review, never an ending."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node on your Venus" }
   - { k: "Natal point", v: "Venus ♀: your tastes, loyalties and ways of pleasing" }
@@ -25,13 +25,13 @@ faq:
   - q: "Does the South Node on my Venus mean a break-up?"
     a: "No. I don’t read transits for partings, and no chart can predict one. The South Node describes what is familiar, and on Venus that means long-practised ways of relating. The month asks which still serve you; whatever you decide is yours, not the transit’s."
   - q: "How often does the North Node oppose my Venus?"
-    a: "Once in each 18.6-year round, about nine years after the North Node has crossed your Venus, for about a month with my orbs. Everyone meets it four or five times by 80."
+    a: "Once in each 18.6-year round, roughly nine years after the North Node has crossed your Venus, for about a month with my orbs. Everyone has it four or five times by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the opposition within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Venus" }
   - { title: "The Astro Study’s dates from the planets’ positions", note: "the eclipses from 2027 to 2030, with their degrees" }
 ---
-Nine years after the North Node crosses your Venus, the South Node takes its place there. For about a month the tastes, loyalties and ways of pleasing you learned long ago step into the light, and a less familiar way of relating faces them from across the chart.
+Halfway between two North Node crossings of your Venus, the South Node takes its place there. For about a month the tastes, loyalties and ways of pleasing you learned long ago step into the light, and a less familiar way of relating faces them from across the chart.
 
 ## What changes {#what-changes}
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Mars", "conjunction", "transits"]
 weight: 1937
 glyph: "☊☌♂"
-definition: "Transiting North Node conjunct natal Mars joins effort to growth. Once a nodal round, for a month or so, the node crosses your birth Mars and the South Node holds the degree opposite, on your oldest ways of pushing. I read it as a season for aiming effort somewhere new, never as a fight."
+definition: "Transiting North Node conjunct natal Mars joins effort to growth. Once a nodal round, for a month or so, the node crosses your birth Mars and the South Node holds the degree opposite, on your oldest ways of pushing. I read it as a time to aim effort somewhere new, never as a fight."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node: a capacity built by practice" }
   - { k: "Natal point", v: "Mars ♂: initiative, effort and the boundaries you defend" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/north-node", "/astrology/mars", "/astrology/mars-conjunct-north-node", "/astrology/can-astrology-predict-health-problems", "/astrology/transits"]
 faq:
   - q: "What does transiting North Node conjunct natal Mars mean?"
-    a: "For about a month, effort and initiative line up with the less practised direction of your chart: the North Node has reached your birth Mars, the South Node facing it on your oldest ways of pushing. I read it as a season for aiming effort somewhere new, never as a fight on its way."
+    a: "For about a month, effort and initiative line up with the less practised direction of your chart: the North Node has reached your birth Mars, the South Node facing it on your oldest ways of pushing. To me it's a month for aiming effort somewhere new, never a fight on its way."
   - q: "Can North Node conjunct Mars cause an accident?"
     a: "No. I never read a transit for accidents, injuries or illness, and none can foretell them. Mars here describes how you start things and spend effort, and the node where that effort could grow. If something about your health worries you, that is a question for a doctor."
   - q: "How long does North Node conjunct Mars last?"
@@ -31,7 +31,7 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "how a transit to natal Mars is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, the 6th’s old name, and Mars’s joy there" }
 ---
-Mars is the part of a chart that starts things. When the North Node, travelling backwards, reaches it, the less familiar direction gets an engine for a month or so, and the South Node, opposite, sits on your oldest ways of pushing.
+Mars is whatever in you gets things started. When the North Node, travelling backwards, reaches it, the less familiar direction gets an engine for a month or so, and the South Node, opposite, sits on your oldest ways of pushing.
 
 ## What changes {#what-changes}
 

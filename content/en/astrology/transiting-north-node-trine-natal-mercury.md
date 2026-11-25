@@ -25,13 +25,13 @@ faq:
   - q: "Is North Node trine Mercury a good time to learn something new?"
     a: "Usually, yes: a trine coordinates two functions without friction, and here those are your thinking and your growth. It won’t make a hard subject easy on its own. It makes the beginning smoother, which is often the part people give up on."
   - q: "How long does North Node trine Mercury last?"
-    a: "Usually about a month. The true node nearly stops when the Sun reaches the nodes, so a trine that falls in an eclipse season can last three and a half months or more, as one in ten does. Every 18.6-year round holds two of them."
+    a: "Usually about a month. The true node nearly stops once the Sun is at the nodes, and a trine caught in that eclipse season can last three and a half months or more, as one in ten does. Every 18.6-year round holds two of them."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the trine within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Mercury" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the true node, whose speed follows the Sun’s angle to it" }
 ---
-Some transits of the node feel like effort; the trine to Mercury tends to feel like understanding. For a month or so the node is 120° from your Mercury, most often from a sign of the same element, and the South Node sextiles it, so new ideas and old knowledge are both on your side.
+Some transits of the node feel like effort; the trine to Mercury tends to feel like understanding. For a month or so the node is 120° from your Mercury, most often from a sign of the same element, and the South Node sextiles it: new ideas and old knowledge are both on your side.
 
 ## What changes {#what-changes}
 
@@ -41,7 +41,7 @@ The catch is the one every trine carries: ease is not the same as doing. A subje
 
 With your [Mercury in the 1st house](/astrology/mercury-in-1st-house/), where tradition gave Mercury its joy, the trine tends to show in how you speak for yourself: putting an idea forward as yours, explaining who you are without rehearsing it. Whether Mercury is in your 1st depends on your Ascendant, which needs the exact birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Born with Mercury retrograde, you may notice the trine first as thinking that falls into place privately, well before it reaches words; I wrote about that inward rhythm in [natal retrograde planets](/blog/retrograde-planets/).
+Born with Mercury retrograde, you may notice the trine first as thinking that falls into place privately, well before it reaches words; that inward rhythm is the subject of [natal retrograde planets](/blog/retrograde-planets/).
 
 ## How long it lasts {#how-long-it-lasts}
 

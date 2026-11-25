@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Nœud Nord", "Lune", "carré", "transits"]
 weight: 1924
 glyph: "☊□☽"
-definition: "Le Nœud Nord en transit carré Lune du thème natal, c'est l'axe des nœuds à angle droit sur votre Lune de naissance, tous les neuf ans environ, pendant un mois. Vos besoins se tiennent en travers, entre le Nœud Sud familier et le Nœud Nord moins pratiqué. J'y lis une friction qui apprend à un projet ce qu'il vous faut."
+definition: "Le Nœud Nord en transit carré Lune du thème natal, c'est l'axe des nœuds à angle droit sur votre Lune de naissance, tous les neuf ans environ, pendant un mois. Vos besoins se trouvent en travers, entre le Nœud Sud familier et le Nœud Nord moins pratiqué. J'y lis une friction qui apprend à un projet ce qu'il vous faut."
 facts:
   - { k: "En transit", v: "Le Nœud Nord ☊, le nœud vrai, avec le Nœud Sud en carré à votre Lune de l'autre côté" }
   - { k: "Point natal", v: "La Lune ☽ : vos besoins, et ce qui vous tient stable" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/north-node", "/astrology/moon", "/astrology/square", "/astrology/moon-square-north-node", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "Que veut dire le Nœud Nord en transit carré Lune natale ?"
-    a: "L'axe des nœuds croise votre Lune de naissance à angle droit, le Nœud Nord à un quart de zodiaque d'un côté, le Nœud Sud de l'autre. Pendant un mois environ, vos besoins se tiennent entre le familier et le nouveau, et demandent une place dans les deux. J'y lis une friction qui ajuste un projet."
+    a: "L'axe des nœuds croise votre Lune de naissance à angle droit, le Nœud Nord à un quart de zodiaque d'un côté, le Nœud Sud de l'autre. Pendant un mois environ, vos besoins restent coincés entre le familier et le nouveau, et demandent une place dans les deux. J'y lis une friction qui ajuste un projet."
   - q: "Le Nœud Nord carré Lune, est-ce un mauvais transit ?"
     a: "Non. Un carré est une friction, et une friction demande un ajustement, pas une punition. Ici, elle montre souvent où un projet n'a pas de place pour ce dont vous avez besoin. Le mois passe de toute façon ; il peut laisser derrière lui un projet qui vous connaît un peu mieux."
   - q: "Combien de temps dure le Nœud Nord carré ma Lune ?"
-    a: "Avec mes orbes, ouvertes 1,5° avant l'exactitude et fermées 1° après, un mois environ. Une saison d'éclipses peut ralentir le nœud au point de l'étirer à trois mois et demi ou plus, ce qui arrive une fois sur dix. Le carré revient tous les neuf ans environ, d'un côté puis de l'autre, huit ou neuf fois avant 80 ans."
+    a: "Avec mes orbes, ouvertes 1,5° avant l'exactitude et fermées 1° après, un mois environ. Une saison d'éclipses peut ralentir le nœud au point que le carré tienne trois mois et demi ou plus, le sort d'un passage sur dix. Le carré revient tous les neuf ans environ, d'un côté puis de l'autre, huit ou neuf fois avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d'après la position des planètes", note: "combien de temps le nœud vrai tient le carré dans mes orbes, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits sur la Lune du thème natal" }

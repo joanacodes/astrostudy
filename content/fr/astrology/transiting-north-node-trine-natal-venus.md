@@ -24,23 +24,23 @@ faq:
   - q: "Que veut dire le Nœud Nord en transit trigone Vénus natale ?"
     a: "Pendant un mois environ, ce qui vous plaît et ce que vous apprenez vont dans le même sens, le nœud à 120° de votre Vénus de naissance et le Nœud Sud à 60°. Grandir peut ressembler à un plaisir : un loisir qui devient un art, une amitié qui s'approfondit, une habitude qui tient parce qu'elle vous plaît."
   - q: "Le Nœud Nord trigone Vénus, est-ce bon pour l'amour ?"
-    a: "Il décrit une aisance entre ce que vous appréciez et votre croissance, qui peut rendre les liens plus légers. Il n'amène pas de partenaire et ne tranche aucune relation, et je ne lis pas les transits pour l'issue d'un amour. Ce qu'il offre, c'est un mois où la tendresse et la croissance s'entraident."
+    a: "Il décrit une aisance entre ce que vous appréciez et votre croissance, qui peut rendre les liens plus légers. Il n'amène pas de partenaire et ne tranche aucune relation ; l'issue d'un amour n'est pas ce que je cherche dans un transit. Il offre un mois où la tendresse et la croissance s'entraident."
   - q: "Quand le Nœud Nord fait-il un trigone à ma Vénus ?"
-    a: "Deux fois par tour de 18,6 ans, depuis les signes de l'élément de votre Vénus. Avec Vénus en Taureau, le nœud forme ce trigone depuis le Capricorne entre mars 2028 et septembre 2029, puis depuis la Vierge avant novembre 2035. Chacun dure un mois environ avec mes orbes."
+    a: "Deux fois par tour de 18,6 ans, depuis les signes de l'élément de votre Vénus. Avec Vénus en Taureau, le nœud forme ce trigone depuis le Capricorne entre mars 2028 et septembre 2029, puis depuis la Vierge avant novembre 2035. Chacun tient un mois environ."
 sources:
   - { title: "Le décompte de The Astro Study d'après la position des planètes", note: "combien de temps le nœud vrai tient le trigone dans mes orbes, combien de fois il vient avant 80 ans, et ses signes jusqu'en 2035" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits sur Vénus dans le thème natal" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, et la joie de Vénus en maison 5" }
 ---
-Un trigone du nœud à Vénus est ce transit rare où grandir et apprécier demandent la même chose. Le nœud se tient à un tiers de zodiaque de votre Vénus, son partenaire à un sixième de l'autre côté, et pendant un mois environ la direction moins pratiquée se présente sous les traits d'un plaisir.
+Un trigone du nœud à Vénus est ce transit rare où grandir et apprécier demandent la même chose. Le nœud est à un tiers du zodiaque de votre Vénus, son partenaire à un sixième du côté opposé, et pendant un mois environ la direction moins pratiquée se présente sous les traits d'un plaisir.
 
 ## Ce qui change {#ce-qui-change}
 
 [Vénus](/astrology/venus/), c'est votre façon d'apprécier et d'aimer, et d'entrer en lien quand tout va bien. Le [Nœud Nord](/astrology/north-node/) marque une capacité que vous construisez encore, et un [trigone](/astrology/trine/) laisse les deux s'entraider sans que l'une perde son caractère. Sous ce [transit](/astrology/transits/), ce qui vous plaît et ce que vous apprenez vont dans le même sens : pour une fois, grandir peut ressembler à un plaisir.
 
-C'est le genre de mois où un loisir devient un art, où une amitié s'approfondit sans effort, où une nouvelle façon de passer le temps s'installe simplement parce qu'elle plaît. Le seul risque est celui de tout trigone : que l'aisance passe pour de la chance et reste inemployée. Le [Nœud Sud](/astrology/south-node/), en sextile à votre Vénus pendant ces semaines, ajoute un vieux talent au plaisir nouveau.
+C'est le genre de mois où un loisir devient un art, où une amitié s'approfondit sans effort, où une nouvelle façon de passer le temps s'installe simplement parce qu'elle plaît. Le seul risque est celui de tout trigone : que l'aisance passe pour de la chance et reste inemployée. Pendant ces semaines, le [Nœud Sud](/astrology/south-node/), à 60° de votre Vénus, ajoute un vieux talent au plaisir nouveau.
 
-Avec votre [Vénus en maison 5](/astrology/venus-in-5th-house/), où la tradition plaçait la joie de Vénus, le trigone se montre souvent dans le jeu, la romance et ce que vous fabriquez pour le plaisir de fabriquer. La tradition donnait aussi la maison 5 aux enfants ; je la lis dans une vie d'adulte comme la joie et la création, et aucun transit n'annonce une grossesse ([L'astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)). La maison 5, comme toutes les maisons, ne peut se tracer qu'à partir de votre heure de naissance ([ce qui change sans l'heure de naissance](/blog/unknown-birth-time/)).
+Avec votre [Vénus en maison 5](/astrology/venus-in-5th-house/), maison de la joie de Vénus pour la tradition, le trigone a des chances de se montrer dans le jeu, la romance et ce que vous fabriquez pour le plaisir de fabriquer. La tradition donnait aussi la maison 5 aux enfants ; pour une personne adulte, j'y lis la joie et la création, et aucun transit n'annonce une grossesse ([L'astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)). La maison 5, comme toutes les maisons, ne peut se tracer qu'à partir de votre heure de naissance ([ce qui change sans l'heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
