@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/9th-house", "/astrology/5th-house", "/astrology/house-rulers", "/astrology/natural-zodiac", "/astrology/can-astrology-predict-pregnancy"]
 faq:
   - q: "Que veut dire le maître de la maison 9 en maison 5 ?"
-    a: "La curiosité devient un plaisir. Avec la planète des études, des voyages et des convictions dans la maison de la création, du jeu et des amours, vous apprenez volontiers pour le plaisir, voyagez par goût et créez des choses qui portent une idée."
+    a: "La curiosité devient un plaisir. Quand la planète de vos études, de vos voyages et de vos convictions habite la maison de la création, du jeu et des amours, vous apprenez volontiers pour le plaisir, voyagez par goût et créez des choses qui portent une idée."
   - q: "Le maître de la maison 9 en maison 5 annonce-t-il une histoire d’amour à l’étranger ?"
     a: "Il peut décrire une attirance pour des personnes venues d’ailleurs, ou pour celles qui vous font réfléchir, mais il n’arrange aucune rencontre. Il montre que la curiosité et les amours vont ensemble chez vous : une conversation d’idées est souvent l’endroit où l’étincelle naît, où que vous soyez."
   - q: "Le maître de la maison 9 en maison 5 dit-il quelque chose des enfants ?"
@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, la maison 5 appelée la Fortune favorable" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia (en anglais), « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison en représente les affaires ; les amours, les jeux et le plaisir en maison 5, les longs voyages et la philosophie en maison 9" }
 ---
-Apprendre, voyager et croire cessent d’être des devoirs quand le maître de votre maison 9 se trouve en maison 5, celle de ce que l’on fait par plaisir. Ils deviennent des joies, et ce que vous créez porte volontiers une idée.
+Dès que le maître de votre maison 9 s’installe en maison 5, celle de ce que l’on fait par plaisir, apprendre, voyager et croire cessent d’être des devoirs. Ils deviennent des joies, et ce que vous créez porte volontiers une idée.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
@@ -36,7 +36,7 @@ La [maison 9](/astrology/9th-house/), ce sont les études, les longs voyages, la
 
 Apprendre, pour vous, marche mieux comme un jeu. Vous apprenez peut-être mieux quand personne ne vous note, et vous vous souvenez d’une ville par la nuit où vous y avez perdu votre chemin plutôt que par ses monuments. Les voyages se font par goût : le festival, la cuisine, la langue apprise pour le plaisir de ses sons. Ce que vous créez, roman, chanson, jardin ou soirée de jeux, a souvent quelque chose à dire, et les amours commencent volontiers par une discussion d’idées, ou avec quelqu’un venu de loin. La légèreté a ici son propre piège. Une conviction adoptée parce qu’elle est excitante peut être lâchée dès qu’elle cesse d’amuser, et la maison 9 demande un peu de constance.
 
-Le zodiaque naturel associe la maison 5 au Lion et la maison 9 au Sagittaire, deux signes de feu ([le zodiaque naturel](/astrology/natural-zodiac/)), et je lis le lien entre ces deux maisons comme chaleureux : l’enthousiasme passe facilement de l’une à l’autre. Jupiter, qui gouverne une maison 9 en Sagittaire depuis la maison 5, donne le goût de recevoir largement et d’enseigner en faisant rire la salle ([Jupiter en maison 5](/astrology/jupiter-in-5th-house/)). Avec les Gémeaux ou la Vierge sur la cuspide de la maison 9, Mercure joue avec les mots, les énigmes et les quiz. Mars, qui gouverne une maison 9 en Bélier, aime que les idées s’affrontent : le débat, le sport appris à l’étranger, le défi.
+Le zodiaque naturel associe la maison 5 au Lion et la maison 9 au Sagittaire, deux signes de feu ([le zodiaque naturel](/astrology/natural-zodiac/)), et je lis le lien entre ces deux maisons comme chaleureux : l’enthousiasme passe facilement de l’une à l’autre. Si votre maison 9 est en Sagittaire, Jupiter, depuis la maison 5, donne le goût de recevoir largement et d’enseigner en faisant rire la salle ([Jupiter en maison 5](/astrology/jupiter-in-5th-house/)). Quand la maison 9 est en Gémeaux ou en Vierge, Mercure joue avec les mots, les énigmes et les quiz. Mars, qui gouverne une maison 9 en Bélier, aime que les idées s’affrontent : le débat, le sport appris à l’étranger, le défi.
 
 La tradition rangeait les enfants dans la maison 5, et je m’arrête là pour ce versant de la maison. Qu’un enfant vienne ou non, et à quel moment, aucun thème ne le dit ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis pas [le thème des enfants](/astrology/childrens-charts/). Ce que je lis, c’est votre propre créativité, votre propre plaisir, et la part de votre quête de sens qui s’y joue.
 

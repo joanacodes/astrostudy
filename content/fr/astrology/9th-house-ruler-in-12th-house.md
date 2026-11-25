@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 9", "maison 12", "maîtres des maisons"]
 weight: 2396
 glyph: "✦"
-definition: "Le maître de la maison 9 en maison 12 met vos études, vos voyages et vos convictions à l’abri des regards, dans la maison de la solitude et de la vie intérieure. Votre quête de sens se vit en privé, loin du débat. J’y lis une solitude voulue ; elle n’annonce aucun enfermement."
+definition: "Le maître de la maison 9 en maison 12 garde vos études, vos voyages et vos convictions à l’abri des regards, dans la maison de la solitude et de la vie intérieure. Votre quête de sens se vit en privé, loin du débat. J’y lis une solitude voulue ; elle n’annonce aucun enfermement."
 facts:
   - { k: "Maître de", v: "La maison 9 : les études, les voyages, la philosophie, la foi" }
   - { k: "Placé en", v: "Maison 12 : la solitude, la retraite, la vie intérieure" }
@@ -32,13 +32,13 @@ sources:
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
-Les études, les voyages, la philosophie et la foi, affaires de la [maison 9](/astrology/9th-house/), vont là où va son maître ([maîtres des maisons](/astrology/house-rulers/)). Ici, c’est la [maison 12](/astrology/12th-house/), la dernière avant l’ascendant : la solitude et le repos, la retraite et le rétablissement, le travail discret en coulisses, le soin donné ou reçu sans être vu, et la vie intérieure.
+Le savoir, les voyages au long cours, la philosophie et la foi relèvent de la [maison 9](/astrology/9th-house/), et vont là où va son maître ([maîtres des maisons](/astrology/house-rulers/)). Ici, c’est la [maison 12](/astrology/12th-house/), la dernière avant l’ascendant : la solitude et le repos, la retraite et le rétablissement, le travail discret en coulisses, le soin donné ou reçu sans être vu, et la vie intérieure.
 
-Les listes de l’astrologie horaire tracent une frontière qui convient bien à ce placement. Elles donnaient à la maison 12 la captivité et tout enfermement imposé, et à la maison 9 le monastère, parce qu’une retraite religieuse se choisit. Avec le maître de la maison 9 en maison 12, les deux se rejoignent dans la retraite que l’on choisit : la semaine de silence, la longue marche en solitaire, l’année passée à étudier dans des archives ou une bibliothèque où personne ne connaît votre nom.
+Les listes de l’astrologie horaire tracent une frontière qui convient bien à ce placement. Elles donnaient à la maison 12 la captivité et tout enfermement imposé, et à la maison 9 le monastère, parce qu’une retraite religieuse se choisit. Quand le maître de la maison 9 occupe la maison 12, les deux se rejoignent dans la retraite que l’on choisit : la semaine de silence, la longue marche en solitaire, l’année passée à étudier dans des archives ou une bibliothèque où personne ne connaît votre nom.
 
 Avec ce placement, la foi est une affaire intime. Ce que vous croyez se laisse mal dire, et vous n’en avez peut-être pas envie : cela vit dans la pratique, dans la prière ou la méditation, dans des rêves que vous prenez au sérieux, dans un sentiment du sens qui n’a pas besoin de public. Le voyage peut être une manière de disparaître, vers des lieux où l’on est anonyme et où l’on peut penser. Certaines personnes qui ont ce placement travaillent discrètement pour une cause, dans le soin, la recherche ou la traduction, sans jamais signer. L’écueil, c’est l’isolement. Une conviction que personne n’entend jamais ne peut pas s’éprouver, et la solitude fait du bien tant qu’elle reste une pièce dont on peut sortir.
 
-La tradition était dure avec la maison 12 et lui donnait les hôpitaux, les prisons et les ennemis cachés. Rien ici ne prédit un enfermement ni une maladie, et aucun placement en maison 12 n’est un diagnostic ([Astrologie et santé mentale](/astrology/astrology-and-mental-health/) explique pourquoi, et où s’arrête l’utilité d’un thème).
+Les lectures anciennes rattachaient à la maison 12 les hôpitaux, les prisons et les ennemis cachés. Rien ici ne prédit un enfermement ni une maladie, et aucun placement en maison 12 n’est un diagnostic ([Astrologie et santé mentale](/astrology/astrology-and-mental-health/) explique pourquoi, et où s’arrête l’utilité d’un thème).
 
 Dans le zodiaque naturel, les Poissons appartiennent à la maison 12. Quand ils sont sur la cuspide de votre maison 9 ([Poissons sur la cuspide de la maison 9](/astrology/pisces-on-9th-house-cusp/)), celle-ci a deux maîtres, Jupiter et Neptune ; je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)), et chacune de ces planètes, en maison 12, se tient sur le terrain de son propre signe. Neptune y rend la vie intérieure vaste et poreuse, la foi d’une mystique ou d’un artiste ([Neptune en maison 12](/astrology/neptune-in-12th-house/)). Jupiter y donne volontiers en secret, avec une aide qu’on n’annonce jamais.
 

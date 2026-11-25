@@ -21,7 +21,7 @@ faq:
   - q: "Que signifie le maître de la maison 10 en maison 12 ?"
     a: "Votre vocation est souvent discrète, parce que le maître de votre Milieu du Ciel est placé dans la maison de la solitude et de ce qui se passe à l’abri des regards : un travail en coulisses, dans le soin, la recherche ou les grandes institutions, ou une réputation qui grandit lentement parce que le travail ne se montre pas."
   - q: "Le maître de la maison 10 en maison 12 freine-t-il une carrière ?"
-    a: "Pas dans ma lecture. Il décrit un rôle public joué depuis les coulisses, pas un rôle empêché. La tradition était dure avec la maison 12, et pourtant beaucoup de travail important se fait hors de vue ; ce placement ne prédit ni échec, ni maladie, ni enfermement."
+    a: "Pas dans ma lecture. Il décrit un rôle public joué depuis les coulisses, pas un rôle empêché. Les anciens livres redoutaient la maison 12, et pourtant beaucoup de travail important se fait hors de vue ; ce placement ne prédit ni échec, ni maladie, ni enfermement."
   - q: "Et si Saturne gouverne mon Milieu du Ciel depuis la maison 12 ?"
     a: "Alors le Capricorne ou le Verseau occupe votre Milieu du Ciel, et Saturne se tient dans la maison de sa joie, là où, selon la tradition, la planète du temps et des limites était à son aise. Votre vocation grandit souvent lentement et en privé : une discipline que personne ne voit, une autorité qui arrive tard et qui dure."
 sources:

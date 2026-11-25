@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/10th-house", "/astrology/7th-house", "/astrology/house-rulers", "/astrology/descendant", "/astrology/derived-houses"]
 faq:
   - q: "Que signifie le maître du Milieu du Ciel en maison 7 ?"
-    a: "Il lie votre vie publique aux autres. Avec le maître de votre Milieu du Ciel dans la maison des partenaires et des liens en tête-à-tête, le travail se bâtit souvent avec quelqu’un : un associé, un conjoint qui partage le travail, ou une clientèle reçue une personne à la fois, comme en conseil, en thérapie ou au barreau."
+    a: "Il lie votre vie publique aux autres. Avec le maître de votre Milieu du Ciel dans la maison des associations et des contrats, le travail se bâtit souvent avec quelqu’un : un associé, un conjoint qui partage le travail, ou une clientèle reçue une personne à la fois, comme en conseil, en thérapie ou au barreau."
   - q: "Le maître de la maison 10 en maison 7 veut-il dire travailler avec son conjoint ?"
     a: "Il peut le décrire, et certains couples qui l’ont dirigent une entreprise ou un cabinet ensemble. Mais il ne décide pas avec qui vous travaillez. Il décrit une vocation qui passe par le partenariat en général : alliés, associés, clientèle, et même rivaux bien assortis."
   - q: "Le maître de la maison 10 en maison 7 peut-il prédire la réussite d’une association ?"
@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, la maison 7 et la maison 10 parmi les angles" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia (en anglais), « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison en représente les affaires ; les partenaires et les ennemis déclarés en maison 7 ; la maison 10, comptée depuis la maison 7, comme les biens d’un partenaire" }
 ---
-Votre vie publique se joue rarement en solo. En maison 7, celle de la personne assise en face de vous, le maître de votre maison 10 bâtit votre vocation avec quelqu’un, ou pour quelqu’un, une personne à la fois.
+Votre vie publique se joue rarement en solo. Depuis la maison 7, là où se tient la personne d’en face, le maître de votre maison 10 bâtit votre vocation avec quelqu’un, ou pour quelqu’un, une personne à la fois.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
@@ -38,6 +38,6 @@ Votre carrière se mène en compagnie. Certaines personnes qui ont ce placement 
 
 Retournez le thème, et le lien va dans l’autre sens. Comptée depuis la maison 7, la maison 10 est la maison 4, et l’astrologie horaire y lit les biens d’un partenaire ou d’un adversaire ([maisons dérivées](/astrology/derived-houses/)). J’en use avec parcimonie. Cela peut décrire la façon dont le terrain d’un partenaire et votre propre vocation se recouvrent, l’entreprise rejointe par le mariage ou la maison de famille devenue bureau, jamais le détail de ses affaires, qui appartient à son propre thème.
 
-Le Milieu du Ciel et le descendant bougent tous les deux avec l’horloge, et un maître proche du descendant peut se trouver d’un côté ou de l’autre en quelques minutes ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). S’il s’était déjà couché, il serait en maison 6, où le métier s’apprend et se fait jour après jour ([Maître de la maison 10 en maison 6](/astrology/10th-house-ruler-in-6th-house/)). Avec une heure plus précoce, plus haut dans le ciel, il serait en maison 8, où le travail porte sur ce que les autres vous confient ([Maître de la maison 10 en maison 8](/astrology/10th-house-ruler-in-8th-house/)). Sous l’horizon ou au-dessus, le travail passe toujours par des personnes ; ce qui change, c’est lesquelles.
+Le Milieu du Ciel et le descendant bougent tous les deux avec l’horloge, et un maître proche du descendant peut se trouver d’un côté ou de l’autre en quelques minutes ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). S’il s’était déjà couché, il serait en maison 6, où le métier s’apprend et se fait jour après jour ([Maître de la maison 10 en maison 6](/astrology/10th-house-ruler-in-6th-house/)). Avec une heure plus précoce, plus haut dans le ciel, il serait en maison 8, où le travail porte sur l’argent, les secrets et les crises des autres ([Maître de la maison 10 en maison 8](/astrology/10th-house-ruler-in-8th-house/)). Sous l’horizon ou au-dessus, le travail passe toujours par des personnes ; ce qui change, c’est lesquelles.
 
 Les Poissons au Milieu du Ciel placent la maison 10 sous Jupiter et Neptune à la fois ([Poissons sur la cuspide de la maison 10](/astrology/pisces-on-10th-house-cusp/)), et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Jupiter en maison 7 attire volontiers des partenaires généreux et une clientèle qui ouvre des portes ([Jupiter en maison 7](/astrology/jupiter-in-7th-house/)). Neptune en maison 7 porte vers des associations fondées sur un idéal commun, et demande de lire le contrat aussi attentivement que le rêve.

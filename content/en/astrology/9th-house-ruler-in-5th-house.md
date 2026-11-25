@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, the 5th called Good Fortune" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; love affairs, games and pleasure in the 5th, long travel and philosophy in the 9th" }
 ---
-Learning, travel and belief stop being duties when the ruler of your 9th house sits in the 5th, the house of what you do for joy. They become pleasures, and the things you make tend to carry an idea.
+Once your 9th house's ruler settles in the 5th, the house of what you do for joy, learning, travel and belief stop being duties. They become pleasures, and the things you make tend to carry an idea.
 
 ## What it means {#what-it-means}
 
@@ -35,7 +35,7 @@ The [9th house](/astrology/9th-house/) is study, long travel, philosophy and fai
 
 Learning, for you, works best as a game. You may learn best when nobody is grading you, and remember a city by the night you got lost in it rather than by its monuments. Travel tends to be for delight: the festival, the food, the language picked up for the pleasure of its sounds. What you make, whether a novel, a song, a garden or a game night, usually has something to say, and romance often begins with an argument about ideas, or with someone from far away. Lightness has its own trap here. A belief taken up because it's exciting can be dropped the moment it stops being fun, and the 9th asks for some staying power.
 
-The natural zodiac pairs the 5th with Leo and the 9th with Sagittarius, two fire signs ([the natural zodiac](/astrology/natural-zodiac/)), and I read the link between the two houses as a warm one: enthusiasm passes easily from one to the other. Jupiter, ruling a Sagittarius 9th from the 5th, makes a generous host and a teacher who gets the room laughing ([Jupiter in the 5th house](/astrology/jupiter-in-5th-house/)). Mercury, ruling a Gemini or Virgo 9th, plays with words, puzzles and quizzes. Mars, ruling an Aries 9th, likes its ideas competitive: the debate, the sport learned abroad, the dare.
+The natural zodiac pairs the 5th with Leo and the 9th with Sagittarius, two fire signs ([the natural zodiac](/astrology/natural-zodiac/)), and I read the link between the two houses as a warm one: enthusiasm passes easily from one to the other. If Sagittarius is on your 9th cusp, Jupiter in the 5th makes a generous host and a teacher who gets the room laughing ([Jupiter in the 5th house](/astrology/jupiter-in-5th-house/)). Mercury, ruling a Gemini or Virgo 9th, plays with words, puzzles and quizzes. Mars, ruling an Aries 9th, likes its ideas competitive: the debate, the sport learned abroad, the dare.
 
 Tradition gave the 5th children, and that's as far as I take that side of the house. No chart can say whether or when a child will come ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I don't read [children's charts](/astrology/childrens-charts/). What I read is your own creativity and pleasure, and how much of your search for meaning happens there.
 

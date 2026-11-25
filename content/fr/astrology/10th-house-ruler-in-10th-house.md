@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 10", "maîtres des maisons"]
 weight: 2406
 glyph: "✦"
-definition: "Avec le maître de la maison 10 en maison 10, la planète de votre Milieu du Ciel ne quitte pas sa propre maison : votre vocation ne reçoit d’ordres d’aucune autre partie du thème. Vous pilotez vous-même votre vie publique, et vous continuez à la piloter. Aucun rang n’est promis, seulement un cap clair."
+definition: "Avec le maître de la maison 10 en maison 10, la planète qui gouverne votre Milieu du Ciel ne sort jamais de sa propre maison : votre vocation ne prend ses ordres nulle part ailleurs dans le thème. Vous pilotez vous-même votre vie publique, et vous continuez à la piloter. Aucun rang n’est promis, seulement un cap clair."
 facts:
   - { k: "Maître de", v: "La maison 10 : la vocation, le rang, la réputation" }
   - { k: "Placé en", v: "Maison 10, la sienne, près du Milieu du Ciel" }
@@ -21,7 +21,7 @@ faq:
   - q: "Que signifie le maître du Milieu du Ciel en maison 10 ?"
     a: "Votre Milieu du Ciel a son maître chez lui, dans la maison 10 : votre direction publique n’a besoin d’aucune autre part de la vie pour se mettre en route. Vous savez souvent ce qui doit vous faire connaître, et vous le poursuivez à votre façon. C’est une direction, sans garantie de résultat."
   - q: "Le maître de la maison 10 en maison 10 promet-il une carrière solide ?"
-    a: "Il se tient dans une maison angulaire, la plus visible des espèces, dans une maison qui est la sienne, et souvent dans son propre signe : la tradition dirait qu’il est bien placé. J’y lis une direction claire. Ce placement ne fixe aucun plafond et ne promet aucun sommet : ce que vous en faites décide du reste."
+    a: "Il se tient dans une maison angulaire, la plus visible des espèces, dans la maison qu’il gouverne lui-même, et souvent dans son propre signe : la tradition dirait qu’il est bien placé. J’y lis une direction claire. Ce placement ne fixe aucun plafond et ne promet aucun sommet : ce que vous en faites décide du reste."
   - q: "Et si Mercure gouverne mon Milieu du Ciel en Vierge depuis la maison 10 ?"
     a: "Alors Mercure se trouve peut-être en Vierge, le seul signe où une planète est à la fois en domicile et en exaltation. La tradition y voyait Mercure au sommet de son habileté. En maison 10, cela bâtit volontiers une vie publique sur l’expertise : la personne dont on vérifie le jugement avant le sien."
 sources:
@@ -33,7 +33,7 @@ Ici, la maison 10 se gouverne elle-même. Son maître se tient à l’intérieur
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
-Chaque maison a un maître, et la [maison 10](/astrology/10th-house/) tire le sien du signe du [Milieu du Ciel](/astrology/midheaven/), qui marque son début en Placidus, le système de maisons que j’utilise ([maîtres des maisons](/astrology/house-rulers/)). D’ordinaire, cette planète emporte les affaires de la maison 10 ailleurs dans le thème. Ici, elle reste sur place : la vocation, le rang, la réputation et le rôle que vous tenez dans le monde répondent à un maître qui vit parmi eux. Les anciennes listes horaires remplissaient la maison 10 de rois, de juges et de gouvernements : la vieille affaire de la maison, l’autorité, est tout près. Vous l’exercez peut-être, ou vous passez une vie de travail à négocier avec elle.
+Le signe du [Milieu du Ciel](/astrology/midheaven/) désigne le maître de la [maison 10](/astrology/10th-house/), qui commence à ce point en Placidus, le système de maisons que j’utilise ([maîtres des maisons](/astrology/house-rulers/)). D’ordinaire, ce maître entraîne les affaires de la maison 10 ailleurs dans le thème. Ici, il reste sur place : la vocation, le rang, la réputation et votre rôle public répondent à un maître qui vit parmi eux. Les anciennes listes horaires remplissaient la maison 10 de rois, de juges et de gouvernements : la vieille affaire de la maison, l’autorité, est tout près. Vous l’exercez peut-être, ou vous passez une vie de travail à négocier avec elle.
 
 La direction est le don de ce placement. Les personnes qui ont ce placement savent souvent tôt ce pour quoi elles veulent être connues, ou le découvrent en le faisant, et préfèrent gravir leur propre montagne plutôt que l’échelle de quelqu’un d’autre. Un maître placé ici est proche du Milieu du Ciel, parmi les endroits les plus visibles d’un thème : ce qu’il décrit est souvent ce que l’on voit en premier ([planètes angulaires](/astrology/angular-planets/)). Les changements de cap viennent plutôt de l’intérieur que des circonstances : quand vous changez de route, c’est le plus souvent parce que vous l’avez décidé. Ce qu’il peut étouffer, c’est le reste de la vie. Quand le moi public a son propre maître à la maison, le moi privé peut manquer d’attention, et une carrière qui ne répond à rien d’autre peut oublier de se demander à quoi elle sert.
 

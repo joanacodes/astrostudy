@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["10th house", "5th house", "house rulers"]
 weight: 2401
 glyph: "✦"
-definition: "The ruler of the 10th in the 5th house hands your Midheaven’s business to the house of creativity, play and romance, so the work you’re known for has to bring joy. Performance, making, teaching through play. Whether you have children is a separate question, and not one this placement answers."
+definition: "The ruler of the 10th in the 5th house hands your Midheaven’s business to the house of making, play and romance, so the work you’re known for has to bring joy. Performance, making, teaching through play. Whether you have children is a separate question, and not one this placement answers."
 facts:
   - { k: "Ruler of", v: "The 10th house: vocation, standing, reputation" }
   - { k: "Placed in", v: "The 5th house: creativity, play, pleasure, romance" }
@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/10th-house", "/astrology/5th-house", "/astrology/house-rulers", "/astrology/planetary-joys", "/astrology/childrens-charts"]
 faq:
   - q: "What does the 10th house ruler in the 5th house mean?"
-    a: "Creativity, play and pleasure carry your public direction. With the planet ruling your Midheaven in the house of what you do for joy, you tend to want work that feels like making, performing or playing, and a reputation for what you create rather than for the post you hold."
+    a: "Creativity, play and pleasure carry your public direction. With the planet ruling your Midheaven in the house of things done for their own sake, you tend to want work that feels like making, performing or playing, and a reputation for what you create rather than for the post you hold."
   - q: "Is the ruler of the 10th in the 5th house a sign of a creative career?"
     a: "It often points that way: the arts, performance, design, sport, entertainment, or any work done with visible enjoyment. But it doesn’t pick a field, and plenty of people with it bring play to an ordinary job. What it asks is that the work you’re known for keeps some delight in it."
   - q: "Does the 10th house ruler in the 5th house mean working with children?"
-    a: "It can’t say that, and it says nothing about children of your own. Some people with it teach, coach or perform for young audiences, by choice. I read the 5th as an adult’s creativity and pleasure, and I don’t read children’s charts at all."
+    a: "It can’t say that, and it says nothing about children of your own. Some people with it teach, coach or perform for young audiences, by choice. The placement describes creativity and pleasure in adult life; children’s charts are not something I read."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, the 5th called Good Fortune, Venus’s joy" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; career in the 10th, games, pleasure and places of entertainment in the 5th" }
@@ -31,9 +31,9 @@ Some people work so that they can play at the weekend. With the ruler of your 10
 
 ## What it means {#what-it-means}
 
-The [10th house](/astrology/10th-house/), which in Placidus, the house system I use, begins at the [Midheaven](/astrology/midheaven/), is your vocation and standing, what you'd like to be known for. Its ruler takes that direction into its own house ([house rulers](/astrology/house-rulers/)), here the [5th house](/astrology/5th-house/), which tradition called Good Fortune: creativity, play, romance, performance, and the risks you take for the pleasure of it.
+The [10th house](/astrology/10th-house/), which in Placidus, the house system I use, begins at the [Midheaven](/astrology/midheaven/), is your vocation and standing, the name you hope to make. Its ruler takes that direction into its own house ([house rulers](/astrology/house-rulers/)), here the [5th house](/astrology/5th-house/), which tradition called Good Fortune: creativity, play, romance, performance, and the risks you take for the pleasure of it.
 
-The work has to delight you, or it doesn't last. Many people with this placement are known for something they make or perform: the musician, the designer, the cook whose restaurant is really a stage, the coach who turned a sport into a living. Others bring play into a serious field, like the surgeon who sketches between operations or the lawyer famous for her closing speeches. Horary astrology’s lists put restaurants, clubs, bars and music venues in the 5th, and the place where people come to enjoy themselves can be where you make your name. A role with no joy in it wears you out quickly, and a hobby can quietly turn into a reputation. The pressure comes when pleasure becomes a living: what you did for love now has to pay and to please, so it helps to keep one thing you make for nobody.
+The work has to delight you, or it doesn't last. You may well be known for something you make or perform: the musician, the designer, the cook whose restaurant is really a stage, the coach who turned a sport into a living. Others bring play into a serious field, like the surgeon who sketches between operations or the lawyer famous for her closing speeches. Horary astrology’s lists put restaurants, clubs, bars and music venues in the 5th, and the place where people come to enjoy themselves can be where you make your name. A role with no joy in it wears you out quickly, and a hobby can quietly turn into a reputation. The pressure comes when pleasure becomes a living: what you did for love now has to pay and to please, so it helps to keep one thing you make for nobody.
 
 Of the seven traditional planets, Venus is the one whose joy falls in the 5th ([planetary joys](/astrology/planetary-joys/)). With Taurus or Libra on your Midheaven, Venus rules the 10th, and in the 5th it stands where tradition said the planet of pleasure was glad to be: a public life built on taste, charm and the art of giving people a good time ([Venus in the 5th house](/astrology/venus-in-5th-house/)). The Sun, ruling a Leo Midheaven, is in Leo’s own house of the natural zodiac here, and wants to be seen doing what it loves.
 

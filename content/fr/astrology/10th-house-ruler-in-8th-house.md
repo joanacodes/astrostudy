@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 10", "maison 8", "maîtres des maisons"]
 weight: 2404
 glyph: "✦"
-definition: "Le maître de la maison 10 en maison 8 emmène votre Milieu du Ciel vers l’intimité, la confiance, l’argent commun et les passages qui changent une personne. Votre vocation manie ce que les autres vous remettent : leur épargne, leurs confidences, leurs crises. La confiance fait tourner ce travail ; ni aubaine ni perte n’y est annoncée."
+definition: "Le maître de la maison 10 en maison 8 emmène votre Milieu du Ciel vers l’intimité, la confiance, l’argent commun et les passages qui transforment une vie. Votre vocation manie ce que les autres vous remettent : leur épargne, leurs confidences, leurs crises. La confiance fait tourner ce travail ; ni aubaine ni perte n’y est annoncée."
 facts:
   - { k: "Maître de", v: "La maison 10 : la vocation, le rang, la réputation" }
   - { k: "Placé en", v: "Maison 8 : la confiance, l’intimité, l’argent commun, les dettes" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/10th-house", "/astrology/8th-house", "/astrology/house-rulers", "/astrology/can-astrology-pick-investments", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "Que veut dire le maître de la maison 10 en maison 8 ?"
-    a: "On vous connaît pour la confiance que l’on vous fait. Le maître de votre Milieu du Ciel se trouve dans la maison de la confiance, de l’intimité et des ressources partagées : votre rôle public touche souvent à ce que les autres remettent entre vos mains, l’argent, les secrets, les crises, la recherche de ce qui se cache dessous."
+    a: "On vous connaît pour la confiance que l’on vous fait. Le maître de votre Milieu du Ciel s’installe là où se jouent la confiance, l’intimité et les ressources partagées : votre rôle public touche souvent à ce que les autres remettent entre vos mains, l’argent, les secrets, les crises, la recherche de ce qui se cache dessous."
   - q: "Le maître de la maison 10 en maison 8 veut-il dire une carrière dans la finance ?"
-    a: "Il convient souvent au travail avec l’argent partagé ou emprunté, la banque, l’assurance, la comptabilité, les successions, mais aussi à la thérapie, à l’enquête, à la recherche ou aux métiers de crise. Il ne choisit pas votre domaine et ne dit rien de ce que vous gagnerez. Il décrit une vocation fondée sur la confiance et la profondeur."
+    a: "Il convient souvent au travail avec l’argent partagé ou emprunté, la banque, l’assurance, la comptabilité, les successions, mais aussi à la thérapie, à l’enquête, à la recherche ou aux métiers de crise. Il ne choisit pas votre domaine, et votre revenu n’y est pas écrit. Il décrit une vocation fondée sur la confiance et la profondeur."
   - q: "Le maître de la maison 10 en maison 8 peut-il mener vers les métiers de crise ?"
     a: "Il peut décrire un travail aux bords les plus durs de la vie, dans les secours, les soins palliatifs ou l’écoute en urgence, choisi par des personnes qui ont la constance qu’il faut. C’est une vocation, pas une prévision : ce placement n’annonce ni mort, ni perte, ni héritage, pour vous ni pour personne."
 sources:
@@ -29,7 +29,7 @@ sources:
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia (en anglais), « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître de la cuspide d’une maison en représente les affaires ; la carrière en maison 10, l’argent des autres en maison 8" }
   - { title: "Wikipédia (en anglais) — Astrological aspect", url: "https://en.wikipedia.org/wiki/Astrological_aspect", note: "le sextile, lu par la tradition comme un aspect facilitant et utile" }
 ---
-Ce que l’on vous confie devient votre travail : en maison 8, parmi l’argent partagé, les confidences et les passages qui changent une personne, le maître de votre maison 10 installe votre vocation là où les autres remettent quelque chose entre vos mains.
+Ce que l’on vous confie devient votre travail : en maison 8, parmi l’argent partagé, les confidences et les grands passages de la vie, le maître de votre maison 10 installe votre vocation là où les autres remettent quelque chose entre vos mains.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

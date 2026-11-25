@@ -20,7 +20,7 @@ faq:
   - q: "What does the 9th house ruler in the 3rd house mean?"
     a: "It puts the far horizon inside the near one. The planet of your higher studies and beliefs sits across the chart, in the house of everyday talk, short trips and first lessons, so big ideas reach you, and leave you, in plain words: you explain, translate, write or teach what others keep abstract."
   - q: "Is the 9th house ruler in the 3rd house in detriment?"
-    a: "Often, though not always. The 3rd cusp is exactly opposite the 9th, so a ruler early in the 3rd usually stands in the sign opposite its own, its detriment. If the house runs on into the next sign, it may not. Either way, detriment describes a planet working in an unfamiliar manner, not a fault."
+    a: "Often, though not always. The 3rd and 9th cusps are exactly opposite, so a ruler near the start of the 3rd tends to be in the sign facing its own; further into the house it may have reached the next sign. Detriment here usually means big ideas worked out in small, practical words."
   - q: "Does the ruler of the 9th in the 3rd house say anything about my siblings?"
     a: "Your experience of them, yes; their lives, no. A brother, sister or cousin may have been your first partner in arguing about belief, or the one who first took you somewhere new. Their own beliefs and choices belong to their charts, which I’d only read with their agreement."
 sources:

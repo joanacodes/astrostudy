@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/10th-house", "/astrology/1st-house", "/astrology/house-rulers", "/astrology/midheaven", "/astrology/chart-ruler"]
 faq:
   - q: "What does the Midheaven ruler in the 1st house mean?"
-    a: "In Placidus the Midheaven opens the 10th house, so its ruler is the 10th’s ruler, and here it sits in the house of body and manner. Your vocation shows in your person: people meet the work through you, and the way you carry yourself becomes part of your reputation."
+    a: "In Placidus the Midheaven opens the 10th house, so its ruler is the 10th’s ruler, and here it sits in the house of your body, looks and bearing. Your vocation shows in your person: people meet the work through you, and the way you carry yourself becomes part of your reputation."
   - q: "Does the 10th house ruler in the 1st house mean being self-employed?"
     a: "It often describes someone who prefers to make their own way, and many people with it work for themselves at some point. But it doesn’t decide how you’re employed. It describes a public life led from the self, whatever the contract says."
   - q: "What if Jupiter rules both my Midheaven and my Ascendant?"

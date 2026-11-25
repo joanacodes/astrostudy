@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/10th-house", "/astrology/7th-house", "/astrology/house-rulers", "/astrology/descendant", "/astrology/derived-houses"]
 faq:
   - q: "What does the Midheaven ruler in the 7th house mean?"
-    a: "It ties your public life to other people. With the ruler of your Midheaven in the house of partners and one-to-one bonds, the work tends to be built with someone: a business partner, a spouse who shares the work, or clients met one at a time, the way a consultant, therapist, agent or lawyer works."
+    a: "It ties your public life to other people. With the ruler of your Midheaven in the house of partnership and contracts, the work tends to be built with someone: a business partner, a spouse who shares the work, or clients met one at a time, the way a consultant, therapist, agent or lawyer works."
   - q: "Does the ruler of the 10th in the 7th house mean working with my spouse?"
     a: "It can describe that, and some couples with it run a business or a practice together. But it doesn’t decide whom you work with. It describes a vocation that runs through partnership in general: allies, associates, clients, even well-matched rivals."
   - q: "Can the 10th house ruler in the 7th house predict a business partnership’s success?"
@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, the 7th and the 10th among the angles" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; partners and open enemies in the 7th; the 10th, counted from the 7th, as a partner’s property" }
 ---
-Your public life is rarely a solo act. From the 7th, the house of the person across the table, the ruler of your 10th house builds your vocation with someone, or for someone, one person at a time.
+Your public life is rarely a solo act. From the 7th, where the person opposite you sits, the ruler of your 10th house builds your vocation with someone, or for someone, one person at a time.
 
 ## What it means {#what-it-means}
 

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/10th-house", "/astrology/8th-house", "/astrology/house-rulers", "/astrology/can-astrology-pick-investments", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "What does the 10th house ruler in the 8th house mean?"
-    a: "You become known for being trusted. The ruler of your Midheaven sits in the house of trust, intimacy and shared resources, so your public role tends to involve what other people place in your hands: money, secrets, crises, research into what lies beneath."
+    a: "You become known for being trusted. The ruler of your Midheaven lives among trust, intimacy and shared resources, so your public role tends to involve what other people place in your hands: money, secrets, crises, research into what lies beneath."
   - q: "Does the ruler of the 10th in the 8th house mean a career in finance?"
     a: "It often fits work with shared or borrowed money, in banking, insurance, accounting or estates, but also therapy, investigation, research or crisis work. It doesn’t choose your field, and it says nothing about what you’ll earn. It describes a vocation built on trust and depth."
   - q: "Can the 10th house ruler in the 8th house mean working with crisis?"

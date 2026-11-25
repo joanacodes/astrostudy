@@ -20,7 +20,7 @@ faq:
   - q: "What does the 10th house ruler in the 12th house mean?"
     a: "Your vocation tends to be quiet or hidden, because the ruler of your Midheaven is placed in the house of solitude and of what happens out of sight: work behind the scenes, in care, research, archives or large institutions, or a reputation that grows slowly because the work isn’t on show."
   - q: "Does the 10th house ruler in the 12th house hold a career back?"
-    a: "Not in my reading. It describes a public role played from the wings rather than a blocked one. Tradition was hard on the 12th, yet much important work is done out of sight, and this placement predicts no failure, illness or confinement."
+    a: "Not in my reading. It describes a public role played from the wings rather than a blocked one. The old books feared the 12th, yet much important work is done out of sight, and this placement predicts no failure, illness or confinement."
   - q: "What if Saturn rules my Midheaven from the 12th?"
     a: "Then Capricorn or Aquarius is on your Midheaven, and Saturn sits in the house of its joy, where tradition said the planet of time and limits was content. Your vocation tends to grow slowly and privately: long work behind the scenes, discipline nobody sees, and authority that arrives late and lasts."
 sources:

@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/10th-house", "/astrology/1st-house", "/astrology/house-rulers", "/astrology/midheaven", "/astrology/chart-ruler"]
 faq:
   - q: "Que signifie le maître du Milieu du Ciel en maison 1 ?"
-    a: "En Placidus, le Milieu du Ciel ouvre la maison 10 : son maître est donc celui de la maison 10, et il se trouve ici dans la maison du corps et de l’allure. Votre vocation se voit en personne : on rencontre votre travail à travers vous, et votre façon d’être entre dans votre réputation."
+    a: "En Placidus, le Milieu du Ciel ouvre la maison 10 : son maître est donc celui de la maison 10, et il se trouve ici dans la maison de votre corps, de votre apparence et de votre maintien. Votre vocation se voit en personne : on rencontre votre travail à travers vous, et votre façon d’être entre dans votre réputation."
   - q: "Le maître de la maison 10 en maison 1 veut-il dire travailler à son compte ?"
     a: "Il décrit souvent quelqu’un qui préfère tracer sa propre route, et beaucoup de personnes qui l’ont travaillent un jour à leur compte. Mais il ne décide pas de votre statut : il décrit une vie publique menée depuis le moi, quel que soit le contrat."
   - q: "Et si Jupiter gouverne à la fois mon Milieu du Ciel et mon ascendant ?"
@@ -32,7 +32,7 @@ Votre travail ne vous attend pas derrière un bureau. Avec le maître de votre m
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
-En Placidus, le système de maisons que j’utilise, c’est au [Milieu du Ciel](/astrology/midheaven/) que s’ouvre la [maison 10](/astrology/10th-house/) : la planète qui gouverne le signe de votre Milieu du Ciel gouverne donc aussi la maison 10 ([maîtres des maisons](/astrology/house-rulers/)), c’est-à-dire votre vocation, votre rang, la réputation que vous bâtissez et ce pour quoi vous aimeriez qu’on vous connaisse. Cette planète se tient ici en [maison 1](/astrology/1st-house/), qui réunit votre corps, votre allure et la première impression que vous laissez.
+En Placidus, le système de maisons que j’utilise, c’est au [Milieu du Ciel](/astrology/midheaven/) que s’ouvre la [maison 10](/astrology/10th-house/), et la planète qui gouverne le signe de votre Milieu du Ciel gouverne donc aussi la maison 10 ([maîtres des maisons](/astrology/house-rulers/)), c’est-à-dire votre vocation, votre rang, la réputation que vous bâtissez et ce pour quoi vous aimeriez qu’on vous connaisse. Cette planète se tient ici en [maison 1](/astrology/1st-house/), qui réunit votre corps, votre allure et la première impression que vous laissez.
 
 J’y lis une vocation portée en personne. Les collègues vous rencontrent avant de rencontrer le poste, et le poste finit par prendre votre forme : la cheffe dont la cuisine tourne au rythme de son tempérament, le consultant engagé pour sa manière autant que pour sa méthode. Beaucoup de personnes qui ont ce placement tracent leur propre route, seules ou à la tête de quelque chose, parce qu’un rôle qui ne leur ressemble pas leur va mal. L’ambition est personnelle ici. L’envers de cette proximité : quand votre rang semble faire partie de votre visage, la critique du travail touche la personne, et une saison calme au travail peut ressembler à une disparition. Vous êtes plus que votre rôle, même quand il a vos traits.
 
