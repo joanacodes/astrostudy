@@ -26,7 +26,7 @@ faq:
   - q: "Is Uranus square Saturn bad?"
     a: "It is demanding, not bad. A square is friction that pushes a structure to adapt, and Saturn’s structures are the ones you lean on, so the season can feel heavy. But it predicts no event, no loss of work, home or relationship: it describes pressure to change how something is run."
   - q: "At what age does Uranus square Saturn?"
-    a: "The angle between Saturn and Uranus at your birth decides it, and that angle changes by about eight degrees with each year of birth, as Saturn gains on Uranus. In the site’s count, the first square came at about 25 for someone born at the start of 1945 and at about 16 for the start of 1985."
+    a: "The angle between Saturn and Uranus at your birth decides it, and that angle changes by about eight degrees with each year of birth, as Saturn gains on Uranus. The site’s count puts the first square at about 25 for someone born at the start of 1945 and at about 16 for someone born at the start of 1985."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the square stays within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to natal Saturn" }

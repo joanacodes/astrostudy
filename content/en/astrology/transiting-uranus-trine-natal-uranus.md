@@ -47,7 +47,7 @@ With your natal Uranus in the 10th, the first trine reaches it from your 2nd ([U
 
 With the orbs I use for timing, 1½° before exact to 1° after, each trine lasts about twenty months, eleven at the shortest, with three exact hits in more than nine passes out of ten: in the late twenties, a stretch long enough to give a way of living its first lasting shape.
 
-Depending on the birth year, the first trine came within orb between about 24½ and 30 in the site's count: at 25 for someone born at the start of 1945, at 29.4 for the start of 1995. For births from the mid-1970s on, it shares its years with the first Saturn return, which falls between 28.4 and 29.9; for earlier births it came a few years before. The second trine, in the planets' positions, falls between about 52 and 58, well before 80 for everyone.
+From one birth year to another, the age of the first trine varies from about 24½ to 30 in the site's count: at 25 for someone born at the start of 1945, at 29.4 for the start of 1995. For births from the mid-1970s on, it shares its years with the first Saturn return, which falls between 28.4 and 29.9; for earlier births it came a few years before. The second trine, in the planets' positions, falls between about 52 and 58, well before 80 for everyone.
 
 Air signs trine one another, so Uranus's stay in Gemini, until 2033, reaches natal Uranus in Aquarius and in Libra alike ([Uranus in Gemini, 2026–2033](/astrology/uranus-in-gemini-2026-2033/)). People born from April 1995 to December 2003 are meeting their first trine at about 28 to 30; people born from September 1968 to September 1975, their second, at about 56 or 57.
 

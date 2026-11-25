@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce qu’Uranus carré Jupiter est un mauvais transit ?"
     a: "Non. Un carré est une friction, et c’est par la friction qu’un ensemble de convictions se met à l’épreuve et se met à jour. La saison peut déstabiliser quand une vision sur laquelle vous comptiez cesse d’aller, mais elle ne juge pas vos choix et ne prédit ni perte, ni échec, ni aucun événement."
   - q: "À quel âge arrive le carré d’Uranus à Jupiter ?"
-    a: "Jupiter traverse un signe par an : une seule année d’écart à la naissance peut décaler ce transit de plusieurs années. Dans le décompte du site, le premier carré est venu vers 19 ans pour une naissance début 1955 et vers 9 ans pour une naissance début 1975."
+    a: "Jupiter traverse un signe par an : une seule année d’écart à la naissance peut décaler ce transit de plusieurs années. Pour une naissance début 1955, le premier carré est venu vers 19 ans dans le décompte du site ; pour une naissance début 1975, vers 9 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le carré reste dans mes orbes, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à Jupiter dans le thème natal" }

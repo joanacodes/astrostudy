@@ -26,7 +26,7 @@ faq:
   - q: "Is Uranus square Jupiter bad?"
     a: "No. A square is friction, and friction is how a set of beliefs gets tested and updated. The season can feel unsettling while an outlook you relied on stops fitting, but it isn’t a verdict on your choices, and nothing about it predicts a loss, a failure or any other event."
   - q: "At what age does Uranus square Jupiter?"
-    a: "Jupiter moves through a sign a year, so a single year’s difference in birth can move this transit by several years. In the site’s count, the first square came at about 19 for someone born at the start of 1955 and at about 9 for the start of 1975."
+    a: "Jupiter moves through a sign a year, so a single year’s difference in birth can move this transit by several years. Born at the start of 1955, you met the first square at about 19 in the site’s count; born at the start of 1975, at about 9."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the square stays within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to natal Jupiter" }

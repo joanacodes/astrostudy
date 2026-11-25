@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce qu’Uranus carré Saturne est un mauvais transit ?"
     a: "C’est un transit exigeant, pas mauvais. Un carré est une friction qui pousse une structure à s’adapter, et les structures de Saturne sont celles sur lesquelles vous vous appuyez : la saison peut peser. Mais elle ne prédit aucun événement, aucune perte de travail, de logement ou de relation : elle décrit une pression pour changer la façon dont quelque chose fonctionne."
   - q: "À quel âge arrive le carré d’Uranus à Saturne ?"
-    a: "L’angle entre Saturne et Uranus à votre naissance en décide, et cet angle change d’environ huit degrés à chaque année de naissance, Saturne avançant plus vite qu’Uranus. Dans le décompte du site, le premier carré est venu vers 25 ans pour une naissance début 1945 et vers 16 ans pour une naissance début 1985."
+    a: "L’angle entre Saturne et Uranus à votre naissance en décide, et cet angle change d’environ huit degrés à chaque année de naissance, Saturne avançant plus vite qu’Uranus. Le décompte du site place le premier carré vers 25 ans pour une naissance début 1945 et vers 16 ans pour une naissance début 1985."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le carré reste dans mes orbes, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à Saturne dans le thème natal" }

@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Uranus en transit opposition Jupiter du thème natal ?"
     a: "Uranus passe de l’autre côté du thème, face à votre Jupiter, planète de ce que vous croyez. J’y lis la rencontre d’une autre vision, souvent à travers quelqu’un : votre cadre vu à côté de son contraire. L’opposition demande un regard plus large, qui garde le meilleur des deux, pas une conversion."
   - q: "Combien de temps dure Uranus opposition Jupiter ?"
-    a: "Une conviction peut rencontrer son contraire à plusieurs reprises : dans plus de neuf cas sur dix, Uranus se trouve trois fois exactement en face de Jupiter, la deuxième fois en reculant. L’ensemble, de 1,5° avant l’opposition exacte à 1° après, prend une vingtaine de mois, ou onze environ au plus court."
+    a: "Une conviction peut rencontrer son contraire à plusieurs reprises : dans plus de neuf cas sur dix, Uranus se trouve trois fois exactement en face de Jupiter, la deuxième fois en reculant. De 1,5° avant l’opposition exacte à 1° après, il faut une vingtaine de mois, onze environ pour les passages les plus courts."
   - q: "Est-ce que tout le monde connaît Uranus opposition Jupiter ?"
     a: "Presque toutes les personnes qui atteignent 80 ans l’ont connue une fois, et personne deux fois. Environ 1 personne sur 33 née entre 1930 et 2009 ne la rencontre jamais avant 80 ans : celles nées juste après l’opposition exacte de Jupiter et d’Uranus, pour qui Uranus doit faire presque un tour complet."
   - q: "À quel âge arrive l’opposition d’Uranus à Jupiter ?"
