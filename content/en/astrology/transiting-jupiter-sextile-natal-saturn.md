@@ -43,7 +43,7 @@ Which part of life it concerns depends on two houses: the one your Saturn occupi
 
 Measured between 1½° before exact and 1° after, the orbs I time [transits](/astrology/transits/) with, a sextile to your Saturn that Jupiter crosses once is over within about eleven days. Roughly three times in ten Jupiter is near one of its stations, and the window opens three times over some eight months. With two sextiles in every round, people born between 1930 and 2009 meet thirteen or fourteen by 80.
 
-The first can come within weeks of birth or not until nearly eight: at about 1.1 for a birth on 1 January 1995, at about 7.7 for 1 January 1985. The difference is where Jupiter stood at birth, and how far it had to travel to reach a point 60° from your Saturn.
+The first can come within weeks of birth or not until nearly eight: at about 1.1 for a birth on 1 January 1995, at about 7.1 for 1 January 1965. The difference is where Jupiter stood at birth, and how far it had to travel to reach a point 60° from your Saturn.
 
 The sextile is the lightest of Jupiter's contacts with your Saturn. [Transiting Jupiter conjunct natal Saturn](/astrology/transiting-jupiter-conjunct-natal-saturn/) widens the structure itself, [transiting Jupiter square natal Saturn](/astrology/transiting-jupiter-square-natal-saturn/) tests it, [transiting Jupiter opposite natal Saturn](/astrology/transiting-jupiter-opposite-natal-saturn/) weighs it against other people's plans and [transiting Jupiter trine natal Saturn](/astrology/transiting-jupiter-trine-natal-saturn/) lets it run with little effort. This one only offers. [Transiting Saturn sextile natal Jupiter](/astrology/transiting-saturn-sextile-natal-jupiter/) offers the same cooperation from the other side, and much more slowly.
 

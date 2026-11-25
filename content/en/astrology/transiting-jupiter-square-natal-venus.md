@@ -22,7 +22,7 @@ faq:
   - q: "Is Jupiter square Venus bad for love?"
     a: "No. It can make a relationship feel unbalanced for a while, with more given than asked for or more wanted than offered, but a square describes friction that leads to adjustment, not a break-up. I don’t predict break-ups from transits. Talking openly about what each of you values usually helps."
   - q: "How long does Jupiter square Venus last?"
-    a: "About eleven days within my orbs, or about eight months when one of Jupiter’s retrograde loops sits on the square, which happens about three times in ten. Jupiter squares your Venus twice a round, about three years after crossing it and about three years before crossing it again."
+    a: "A single pass holds your Venus for about eleven days within my orbs. If Jupiter’s retrograde loop falls on the square, as it does about three times in ten, it lasts about eight months and is exact three times. The two squares of a round fall about three years either side of the opposition."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the transit lasts with my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits read one by one" }
@@ -34,7 +34,7 @@ Two planets that like a yes don't always agree on how much. When Jupiter squares
 
 [Venus](/astrology/venus/) decides what you value and enjoy, and keeps the give and take of a bond fair. [Jupiter](/astrology/jupiter/) wants more of whatever it touches. At 90°, a [square](/astrology/square/) makes them push on each other, and the push here is between liking and valuing: all you could have, and the part of it that's worth having.
 
-It tends to show as too much of good things: one more evening out, one more thing bought because it pleased you for a moment, generosity in a relationship that leaves the other person owing more than they wanted to. Reciprocity can tilt. None of this foretells a loss, of money or of love. The square's work is discernment, which is Venus at its best: choosing what you'll say yes to, and meaning it.
+It tends to show as too much of good things: one more evening out, one more thing bought because it pleased you for a moment, generosity in a relationship that leaves the other person owing more than they wanted to. Taste can inflate too: the bigger version, the finer one, the one you'd have to stretch for. Beauty isn't vanity, and wanting lovely things is fine; the square only asks whether this one is really yours. Reciprocity can tilt as well. None of this foretells a loss, of money or of love. The square's work is discernment, which is Venus at its best: choosing what you'll say yes to, and meaning it.
 
 Tradition has a sign where both planets struggle: Virgo, where Venus has its [fall](/astrology/fall/) and Jupiter is in detriment. The old picture fits this square well, with pleasure and abundance both asked to count carefully.
 

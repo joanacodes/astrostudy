@@ -7,7 +7,7 @@ reviewed: 2026-11-25
 family: "combinations"
 weight: 1562
 glyph: "♃☌☉"
-definition: "Transiting Jupiter conjunct natal Sun is Jupiter, in today’s sky, crossing the degree your Sun held at birth, about once every twelve years. For eleven days, or eight months when it loops back, your sense of self gets more room: confidence, a wider purpose, an appetite to learn. I read it as growth on offer, not a guarantee."
+definition: "Transiting Jupiter conjunct natal Sun is Jupiter’s arrival at the exact degree of your birth Sun, about once every twelve years. For eleven days, or eight months when it loops back, your sense of self gets more room: confidence, a wider purpose, an appetite to learn. I read it as growth on offer, not a guarantee."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "Natal point", v: "The Sun ☉, your identity and direction" }
@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/jupiter", "/astrology/sun", "/astrology/sun-conjunct-jupiter", "/astrology/jupiter-return", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter conjunct natal Sun mean?"
-    a: "Jupiter in the sky is crossing the degree of your birth Sun, as it does about every twelve years. I read it as a season when your sense of self and direction get more room: confidence, a wider purpose, a wish to learn or teach. It describes growth on offer, not a result already decided."
+    a: "Jupiter, on its twelve-year circuit, has come back to the degree of your birth Sun. I read it as a season when your sense of self and direction get more room: confidence, a wider purpose, a wish to learn or teach. It describes growth on offer, not a result already decided."
   - q: "How long does Jupiter conjunct the Sun last?"
-    a: "About eleven days within my orbs when Jupiter passes straight over, which can only happen within about two months of your birthday. About three times in ten it loops back and crosses three times over about eight months, with the middle crossing four to six months from your birthday."
+    a: "Within my orbs, a straight pass of Jupiter over your Sun takes about eleven days, and it can only happen within about two months of your birthday. About three times in ten it loops back and crosses three times over about eight months, with the middle crossing four to six months from your birthday."
   - q: "Is Jupiter conjunct my Sun a lucky transit?"
     a: "Tradition called Jupiter the greater benefic, and this transit is often sold as a lucky year. I don’t read it that way. Jupiter describes growth and meaning, not luck, money or success; on your Sun it gives you more room to become yourself, and what fills that room depends on you."
   - q: "How often does Jupiter cross your Sun?"
@@ -42,7 +42,7 @@ Your Sun's house says where in life this happens, and the crossing always falls 
 
 ## How long it lasts {#how-long-it-lasts}
 
-With the orbs I use, from 1½° before exact to 1° after, about seven crossings in ten are a single pass of about eleven days. The other three are loops: Jupiter crosses your Sun's degree, backs over it and crosses it again, three exact hits in about eight months.
+With the orbs I use, from 1½° before exact to 1° after, about seven crossings in ten are a single pass of about eleven days. The other three are loops: Jupiter crosses your Sun's degree, backs over it and crosses it again: three exact hits, spread over about eight months.
 
 Your birthday tells you which kind is coming. Jupiter travels backwards only in the four months or so around its opposition, when it faces the Sun across the sky, so a quick single crossing of your Sun can come only within about two months of your birthday, while Jupiter sits near the Sun from where we stand, low in the twilight or lost in its glare. A crossing further from your birthday belongs to a loop, and its middle pass, during [Jupiter retrograde](/astrology/jupiter-retrograde/), lands four to six months from it, with Jupiter up for most of the night.
 

@@ -1,13 +1,13 @@
 ---
 title: "Transiting Jupiter conjunct natal Venus"
 h1: "Transiting Jupiter conjunct your natal Venus"
-description: "Transiting Jupiter conjunct natal Venus: every twelve years, the two benefics meet in your chart. What it widens, how long it lasts, why it isn’t a love forecast."
+description: "Transiting Jupiter conjunct natal Venus: every twelve years, tradition’s two benefics meet. What it widens, how long it lasts, why it isn’t a love forecast."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
 weight: 1577
 glyph: "♃☌♀"
-definition: "Transiting Jupiter conjunct natal Venus is Jupiter crossing the degree Venus held at your birth, once every twelve years or so. What you value, enjoy and share gets more room: appreciation, generosity, pleasure in people and things. I read it as a widening of taste and warmth, never a forecast of love or money."
+definition: "Transiting Jupiter conjunct natal Venus is the twelve-yearly meeting between Jupiter, in the sky, and the degree your Venus occupied at birth. What you value, enjoy and share gets more room: appreciation, generosity, pleasure in people and things. I read it as a widening of taste and warmth, never a forecast of love or money."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "Natal point", v: "Venus ♀, what you value and how you relate" }

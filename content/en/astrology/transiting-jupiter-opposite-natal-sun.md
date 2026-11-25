@@ -40,13 +40,13 @@ In Placidus, the house system I use, opposite houses mirror each other exactly, 
 
 ## How long it lasts {#how-long-it-lasts}
 
-My orbs run from 1½° before exact to 1° after. Within them, about seven oppositions in ten come and go in some eleven days; the other three are retrograde loops, with three exact hits over about eight months.
+My orbs run from 1½° before exact to 1° after. Within them, about seven oppositions in ten come and go in some eleven days; the other three are retrograde loops, three exact hits spread across about eight months.
 
 Your birthday works the other way round from the crossing. Jupiter is retrograde in the months it faces the Sun, and on your birthday the Sun is back on your natal Sun, so a three-pass opposition has its middle pass close to your birthday, within about six weeks of it nine times in ten. Around then Jupiter is at its brightest of the year, rising as the Sun sets. A quick single pass comes around your half-birthday instead.
 
 This winter shows it. Jupiter is retrograde in Leo from 13 December 2026 to 13 April 2027; for a Sun at 22° Aquarius, a birthday around 11 February, the three oppositions fall in mid-October 2026, mid-February 2027 and mid-June 2027, the middle one in the birthday week.
 
-By 80, people born between 1930 and 2009 meet it six or seven times, once a round, halfway between two passes of [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/). On the way out, Jupiter has already offered your direction an opening, a test and a tailwind ([transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/), [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/), [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/)); on the way home it offers them again, in reverse.
+Counted for births between 1930 and 2009, it comes six or seven times by 80, once a round, halfway between two passes of [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/). On the way out, Jupiter has already offered your direction an opening, a test and a tailwind ([transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/), [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/), [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/)); on the way home it offers them again, in reverse.
 
 ## What helps {#what-helps}
 

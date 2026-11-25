@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Jupiter en transit opposition Mars du thème natal ?"
     a: "Jupiter, dans le ciel, fait face au degré que Mars occupait à votre naissance, comme tous les douze ans environ. J’y lis une période où votre élan rencontre un but plus vaste venu du dehors, souvent le projet d’une autre personne, et doit décider à quoi il veut se dépenser."
   - q: "Combien de temps dure l’opposition de Jupiter à votre Mars ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, onze jours environ quand Jupiter traverse le point d’une seule traite. Environ trois fois sur dix, Jupiter rétrograde tout près et passe trois fois, sur huit mois à peu près. C’est la maison de Mars dans votre thème qui dit où vous le sentez."
+    a: "Avec les orbes que j’utilise pour situer les transits, onze jours environ quand Jupiter traverse le point d’une seule traite. Environ trois fois sur dix, Jupiter rétrograde tout près et passe trois fois, sur huit mois à peu près. C’est la maison de Mars dans votre thème qui dit où vous le sentez."
   - q: "Jupiter en transit opposition Mars, est-ce un mauvais transit ?"
     a: "Aucun transit n’est mauvais en soi. On range l’opposition parmi les aspects durs, et avec Mars elle peut pousser à prendre plus que votre énergie ne peut porter. Elle peut aussi donner à l’effort une raison plus grande que lui. Elle ne prédit ni accident, ni blessure, ni dispute, et je ne la lis jamais pour cela."
   - q: "Combien de fois dans une vie revient l’opposition de Jupiter à votre Mars ?"

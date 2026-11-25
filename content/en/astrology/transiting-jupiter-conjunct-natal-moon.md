@@ -20,7 +20,7 @@ faq:
   - q: "What does transiting Jupiter conjunct natal Moon mean?"
     a: "Your birth Moon is being crossed by Jupiter, which comes back to it roughly every twelve years. I read it as more room for feeling and need: warmth, generosity, a wish to make home or family life bigger in spirit. It describes a season of the inner life, and it doesn’t arrange events."
   - q: "How long does Jupiter conjunct the Moon last?"
-    a: "About eleven days within my orbs when Jupiter passes once, and about eight months when Jupiter loops back and crosses your Moon three times, as it does about three times in ten. The exact dates hang on your Moon’s degree, and so on your birth time: an hour’s doubt shifts them by about a week."
+    a: "Some eleven days, within my orbs, if Jupiter passes once, and about eight months when Jupiter loops back and crosses your Moon three times, as it does about three times in ten. The exact dates hang on your Moon’s degree, and so on your birth time: an hour’s doubt shifts them by about a week."
   - q: "Does Jupiter conjunct the Moon mean pregnancy or moving house?"
     a: "No. I never read a transit for pregnancy, and the Moon stands for the way you tend your needs, not for an event in your family. Jupiter on your Moon can make home feel too small or family matter more, but what you do with that, and what life brings, isn’t written in the sky."
 sources:
@@ -46,7 +46,7 @@ From 1½° before exact to 1° after, my orbs give this crossing about eleven da
 
 Here the birth time matters twice. It places your Moon's house, and it places the Moon itself: your Moon advances about half a degree every hour, and Jupiter needs about six days on average to cover half a degree, so each hour of doubt about your birth time moves these dates by about a week. Without the time, there is nothing I can responsibly read ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-By 80, everyone born between 1930 and 2009 has had Jupiter cross their Moon six or seven times, so most people know several versions of this softening. What it opens gets revisited from other angles in the years between: as help worth accepting at [transiting Jupiter sextile natal Moon](/astrology/transiting-jupiter-sextile-natal-moon/), as a squeeze on habits and space at [transiting Jupiter square natal Moon](/astrology/transiting-jupiter-square-natal-moon/), as unforced warmth at [transiting Jupiter trine natal Moon](/astrology/transiting-jupiter-trine-natal-moon/), and as home weighed against the wider world at [transiting Jupiter opposite natal Moon](/astrology/transiting-jupiter-opposite-natal-moon/).
+By the age of 80, people born from 1930 to 2009 have had Jupiter cross their Moon six or seven times, so most know several versions of this softening. What it opens gets revisited from other angles in the years between: as help worth accepting at [transiting Jupiter sextile natal Moon](/astrology/transiting-jupiter-sextile-natal-moon/), as a squeeze on habits and space at [transiting Jupiter square natal Moon](/astrology/transiting-jupiter-square-natal-moon/), as unforced warmth at [transiting Jupiter trine natal Moon](/astrology/transiting-jupiter-trine-natal-moon/), and as home weighed against the wider world at [transiting Jupiter opposite natal Moon](/astrology/transiting-jupiter-opposite-natal-moon/).
 
 ## What helps {#what-helps}
 

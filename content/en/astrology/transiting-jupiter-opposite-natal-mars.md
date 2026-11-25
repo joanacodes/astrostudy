@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Jupiter opposite natal Mars mean?"
     a: "Jupiter in the sky is facing the degree Mars held when you were born, as it does about once every twelve years. I read it as a stretch when your drive meets a larger aim from outside, often another person’s plan, and has to decide what it wants to spend itself on."
   - q: "How long does Jupiter opposite natal Mars last?"
-    a: "With my orbs, from 1½° before exact to 1° after, about eleven days when Jupiter passes straight across the point. About three times in ten it turns retrograde nearby and crosses three times, over roughly eight months. The house your Mars sits in says where you feel it."
+    a: "With the orbs I use for timing, about eleven days when Jupiter passes straight across the point. About three times in ten it turns retrograde nearby and crosses three times, over roughly eight months. The house your Mars sits in says where you feel it."
   - q: "Is transiting Jupiter opposite Mars a bad transit?"
     a: "No transit is bad in itself. The opposition is counted among the hard aspects, and with Mars it can mean taking on more than your energy can carry. It can also give effort a reason bigger than itself. It predicts no accident, injury or quarrel, and I never read it for those."
   - q: "How often does Jupiter oppose natal Mars?"

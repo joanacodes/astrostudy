@@ -20,14 +20,14 @@ faq:
   - q: "What does transiting Jupiter sextile natal Sun mean?"
     a: "It’s the 60° angle Jupiter makes to your birth Sun about two years after crossing it, and again about two years before crossing it next. I read it as an opening for your purpose: an offer, a course, a chance to step forward. It asks you to act on it; left alone, it passes without leaving a trace."
   - q: "When is Jupiter sextile my Sun?"
-    a: "When Jupiter is two signs away from your Sun sign, on either side. Jupiter spends June 2026 to July 2027 in Leo, so in that year it sextiles every Sun in Gemini and in Libra, and your Sun’s degree sets the day. Each sextile lasts about eleven days, or about eight months in a retrograde loop."
+    a: "When Jupiter is two signs away from your Sun sign, on either side. Jupiter spends June 2026 to July 2027 in Leo, so in that year it sextiles every Sun in Gemini and in Libra, and your Sun’s degree sets the day. A single sextile holds for some eleven days, or eight months or so when Jupiter loops back."
   - q: "Why didn’t anything happen during my Jupiter sextile?"
     a: "Because the sextile doesn’t push. It’s the gentlest angle Jupiter makes to your Sun, a door left open rather than a wind at your back, and it describes what is easier to start, not what starts by itself. Many people only see it afterwards, in a step they took almost without thinking."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the transit lasts with my orbs, how often it comes by 80, and Jupiter’s signs from 2026" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits read one by one" }
 ---
-Twice in every twelve years, Jupiter stands two signs from your Sun: once about two years after crossing it, and once about two years before crossing it again. Of everything Jupiter does to your Sun, the sextile is the quietest, and the one that most depends on your noticing.
+Twice in every twelve years, Jupiter stands two signs from your Sun: two years after it has crossed your Sun, and two years before it crosses again. Of everything Jupiter does to your Sun, the sextile is the quietest, and the one that most depends on your noticing.
 
 ## What changes {#what-changes}
 
@@ -41,7 +41,7 @@ Which house Jupiter is crossing says what kind of door it is. From your 11th, th
 
 Within my orbs, from 1½° before exact to 1° after, a sextile from Jupiter usually holds your Sun for about eleven days. Roughly three passes in ten are stretched by a retrograde loop to about eight months and three exact hits.
 
-Your Sun sign is enough to see this one coming, and everyone knows their Sun sign. Jupiter makes the sextile from the sign two before yours and the sign two after, spending about a year in each. It is in Leo from June 2026 to July 2027, and in that time it sextiles every Sun in Gemini and in Libra; your Sun's degree gives the day.
+Your Sun sign is enough to see this one coming, and everyone knows their Sun sign. The sextile comes from the signs two places either side of yours, and Jupiter spends about a year in each. It is in Leo from June 2026 to July 2027, and in that time it sextiles every Sun in Gemini and in Libra; your Sun's degree gives the day.
 
 Everyone born between 1930 and 2009 has thirteen or fourteen of these small doors by 80, two in every round. The first comes about two years after [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/), when what began at the crossing is ready for a practical first step; the second about two years before the next crossing, when what you've grown into can be put to use. Between them, Jupiter presses on your direction at [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/), lets it run at [transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/) and holds it up to other people at [transiting Jupiter opposite natal Sun](/astrology/transiting-jupiter-opposite-natal-sun/).
 

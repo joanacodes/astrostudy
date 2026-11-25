@@ -22,7 +22,7 @@ faq:
   - q: "Is Jupiter trine Venus the luckiest transit?"
     a: "It’s often called that, because both planets were tradition’s benefics and the trine is the easiest angle. I don’t read it as luck. It describes ease in valuing, enjoying and relating, which is pleasant and useful, but it predicts nothing about money, romance or winning."
   - q: "How long does Jupiter trine Venus last?"
-    a: "About eleven days within my orbs, or about eight months, exact three times, when one of Jupiter’s retrograde loops falls on the trine, as about three in ten do. It comes twice in each twelve-year round, from the two other signs of your Venus’s element."
+    a: "Eleven days or so in a straight pass; about eight months, exact three times, when Jupiter’s yearly retrograde happens to fall on the trine, as in about three cases out of ten. It comes twice per round, once on Jupiter’s way to the opposition and once on the way back."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the transit lasts with my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits read one by one" }
@@ -34,11 +34,11 @@ When the two planets astrologers once called the benefics stand a trine apart, o
 
 [Venus](/astrology/venus/) is valuing, attraction and the give and take of relating; [Jupiter](/astrology/jupiter/) widens and finds meaning. A [trine](/astrology/trine/), 120°, lets them flow together while each stays itself. For the length of this [transit](/astrology/transits/), what you enjoy and what helps you grow tend to be the same things, and generosity costs less than usual.
 
-People are easier to like and to be liked by, art and beauty feel closer, a gift lands well, a friendship deepens without effort. Harmony isn't the same as avoiding conflict, though, and a trine can make it tempting to smooth over what needed saying. The ease is best spent on things that matter: a reconciliation, a creative project, a thank-you postponed for too long.
+People are easier to like and to be liked by, art and beauty feel closer, a gift lands well, a friendship deepens without effort. Harmony isn't the same as avoiding conflict, though, and a trine can make it tempting to smooth over what needed saying. The ease is best spent on things that matter: a reconciliation, a creative project, a thank-you postponed for too long. Venus weighs fairness too, and under this trine fair arrangements are easier to reach: a shared plan, a balanced deal at home, a compromise that pleases both sides.
 
 Tradition placed each of the two at its best in a water sign: Venus has its [exaltation](/astrology/exaltation/) in Pisces, Jupiter in Cancer, and those signs stand a trine apart. The angle of this transit is also the angle between the signs where the old authors thought each planet strongest.
 
-The house Jupiter is crossing gives the warmth an address. From your 9th ([Jupiter transiting the 9th house](/astrology/jupiter-transit-9th-house/)), it often comes through travel, study and people whose world differs from yours; your Venus's house says what it warms. The houses need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)), and so does my reading. If [Venus trine Jupiter](/astrology/venus-trine-jupiter/) is part of your birth chart, the sky repeats it whenever Jupiter comes home.
+The house Jupiter is crossing gives the warmth an address. From your 9th ([Jupiter transiting the 9th house](/astrology/jupiter-transit-9th-house/)), it often comes through travel, study and people whose world differs from yours; your Venus's house says what it warms. Only your birth time can place them ([what changes without a birth time](/blog/unknown-birth-time/)), which is why I never read without it. If [Venus trine Jupiter](/astrology/venus-trine-jupiter/) is part of your birth chart, the sky repeats it whenever Jupiter comes home.
 
 ## How long it lasts {#how-long-it-lasts}
 

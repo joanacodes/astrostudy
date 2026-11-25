@@ -1,7 +1,7 @@
 ---
 title: "Transiting Jupiter sextile natal Venus"
 h1: "Transiting Jupiter sextile your natal Venus"
-description: "Transiting Jupiter sextile natal Venus: twice every twelve years, an easy opening for pleasure, friendship and art. How long it lasts, and what helps."
+description: "Transiting Jupiter sextile natal Venus: twice every twelve years, an opening for pleasure, friendship and art. How long, where it comes from, what helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/jupiter", "/astrology/venus", "/astrology/sextile", "/astrology/venus-sextile-jupiter", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter sextile natal Venus mean?"
-    a: "Jupiter is two signs from your birth Venus, a 60° angle it forms twice every twelve years. I read it as a modest opening for what you enjoy and value: an invitation, a friendship, a creative chance. It needs you to accept it, and it promises nothing about love or money."
+    a: "This is the 60° contact between Jupiter and your birth Venus, which Jupiter forms twice in each round. I read it as a modest opening for what you enjoy and value: an invitation, a friendship, a creative chance. It needs you to accept it, and it promises nothing about love or money."
   - q: "How long does Jupiter sextile Venus last?"
-    a: "Usually about eleven days within my orbs. About three times in ten Jupiter stations near the point and the sextile lasts about eight months, exact three times. It comes once about two years after Jupiter crosses your Venus, and again about two years before the next crossing."
+    a: "Eleven days or so, counted with my orbs. About three times in ten Jupiter stations near the point and the sextile lasts about eight months, exact three times. It comes once about two years after Jupiter crosses your Venus, and again about two years before the next crossing."
   - q: "Is Jupiter sextile Venus good for relationships?"
     a: "It’s one of the gentler seasons for them, as I read it: appreciation flows more easily and a shared pleasure is easier to find. But it describes ease, not outcomes, and it can’t tell you what another person will do. Use it for kindness and company rather than for answers."
 sources:
@@ -34,7 +34,7 @@ Of all the ways Jupiter meets your Venus, the sextile is the most modest: two si
 
 [Venus](/astrology/venus/) weighs and chooses: what attracts you, what you prefer, how you give and receive. [Jupiter](/astrology/jupiter/) widens what it touches. A [sextile](/astrology/sextile/) links them through opportunity and cooperation, and like every sextile it has to be taken up: an invitation accepted, a class booked, a friendship given an evening.
 
-The openings are usually pleasant and specific: someone you like suggests a plan, a creative project finds a willing partner, a place or a piece of music turns into a lasting pleasure. Preference is the part of Venus this [transit](/astrology/transits/) sharpens most, and it's worth noticing what you choose when choosing is easy.
+The openings are usually pleasant and specific: someone you like suggests a plan, a creative project finds a willing partner, a place or a piece of music turns into a lasting pleasure. Preference is the part of Venus this [transit](/astrology/transits/) sharpens most, and it's worth noticing what you choose when choosing is easy. Venus also governs affinity, the people you simply get on with, and this sextile is good at bringing you more of them, if you accept the invitations.
 
 Tradition lines this angle up with the planets' own signs. Venus rules Taurus and Libra, Jupiter Sagittarius and, in the old scheme, Pisces, and each of Venus's signs lies a sextile from one of Jupiter's: Taurus from Pisces, the sign of Venus's [exaltation](/astrology/exaltation/), and Libra from Sagittarius.
 
@@ -50,7 +50,7 @@ Thirteen or fourteen of these come by 80 in the count for births from 1930 to 20
 
 ## What helps {#what-helps}
 
-Accept the invitation you'd normally turn down out of habit.
+Accept the invitation you'd normally turn down out of habit. Introduce two people you like to each other while you're at it: Venus enjoys a good match of any kind, and Jupiter a wider circle.
 
 Make something, or take a first lesson in an art you've admired from the outside. A sextile from Jupiter suits beginnings that are small enough to enjoy.
 
