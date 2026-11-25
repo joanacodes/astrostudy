@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Jupiter falls in Leo; the months Jupiter spent in Leo" }
 ---
-The birthday party is at their place, the toast at the wedding is theirs, and a friend's first exhibition gets two loud fans in the front row. Composite Jupiter in Leo describes a relationship that grows by celebrating, and is generous where it can be seen.
+The birthday party is at their place, the toast at the wedding is theirs, and a friend's first exhibition gets two loud fans in the front row. A relationship with composite Jupiter in Leo grows by celebrating, and is generous where it can be seen.
 
 ## What it says about the two of you {#what-it-says}
 

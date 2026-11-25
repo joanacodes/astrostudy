@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Jupiter falls in Virgo; the months Jupiter spent in Virgo" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Pisces as one of Jupiter’s houses, and Virgo as Mercury’s" }
 ---
-Their recipes are annotated in two hands, the bookshelf has a system, and their best evenings are spent fixing something together. Composite Jupiter in Virgo describes a relationship that grows by improving things, a little at a time.
+Their recipes are annotated in two hands, the bookshelf has a system, and their best evenings are spent fixing something together. Improvement, a little at a time, is how composite Jupiter in Virgo grows a relationship.
 
 ## What it says about the two of you {#what-it-says}
 

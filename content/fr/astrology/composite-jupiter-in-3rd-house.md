@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite, ses maisons et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, leurs noms anciens et ce que la tradition leur attribuait" }
 ---
-Le couple qui connaît tous les patrons de café de la rue, échange des livres avec les voisins et s’envoie trois articles avant midi. Jupiter composite en maison 3 décrit une relation qui grandit par la parole, l’apprentissage et la vie de son quartier.
+Le couple qui connaît tous les patrons de café de la rue, échange des livres avec les voisins et s’envoie trois articles avant midi. La parole, l’apprentissage et la vie du quartier : c’est là que Jupiter composite en maison 3 place la croissance d’une relation.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
@@ -38,7 +38,7 @@ La [maison 3](/astrology/3rd-house/) est celle de la communication, de l’appre
 
 Au quotidien, cela ressemble à apprendre côte à côte : un cours du soir suivi ensemble, une langue pratiquée au petit déjeuner, un club de lecture né sur la table de votre cuisine. Frères, sœurs, cousins et voisins entrent dans le lien plutôt que de rester à sa marge, et les petits trajets, le week-end dans la ville voisine, la marche jusqu’au marché, comptent plus que leur taille ne le laisse croire. Sa générosité passe par les mots et le temps : une explication donnée avec patience, un trajet jusqu’à la gare, le message envoyé pour prendre des nouvelles.
 
-Dans un thème natal, [Jupiter en maison 3](/astrology/jupiter-in-3rd-house/) décrit une curiosité sans fin ; en synastrie, [Jupiter de l’autre dans votre maison 3](/astrology/jupiter-in-3rd-house-synastry/) décrit une personne qui élargit la façon dont l’autre pense et parle. Le composite place cette curiosité entre vous, et deux personnes discrètes peuvent découvrir qu’ensemble, elles ne sont jamais à court de sujets.
+La curiosité est la marque de [Jupiter en maison 3](/astrology/jupiter-in-3rd-house/) dans un thème natal ; en synastrie, [Jupiter de l’autre dans votre maison 3](/astrology/jupiter-in-3rd-house-synastry/) élargit la façon dont l’autre pense et parle. Ici, la curiosité vit entre vous, et deux personnes discrètes peuvent découvrir qu’ensemble, elles ne sont jamais à court de sujets.
 
 Comme toute maison composite, celle-ci repose sur deux heures de naissance, rarement aussi sûres l’une que l’autre. L’une peut venir d’un acte qui note la minute ; l’autre du souvenir d’un parent, *juste après le déjeuner*. Le composite hérite du doute de la moins sûre, et la méthode ajoute un choix qui lui est propre : mi-points des cuspides des deux thèmes, ou maisons reconstruites à partir du Milieu du Ciel composite pour le lieu où vous vivez. Avant de lire Jupiter en maison 3, mieux vaut donc savoir d’où vient chaque heure ([retrouver votre heure](/blog/unknown-birth-time/#retrouver-votre-heure)).
 

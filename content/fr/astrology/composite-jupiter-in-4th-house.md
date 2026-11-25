@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite, ses maisons et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
 ---
-La maison où tout le monde se retrouve à Noël, la table où il y a toujours une place de plus, le jardin que les grands-parents et les enfants des voisins traitent comme le leur. Jupiter composite en maison 4 décrit une relation qui grandit de son foyer vers l’extérieur.
+La maison où tout le monde se retrouve à Noël, la table où il y a toujours une place de plus, le jardin que les grands-parents et les enfants des voisins traitent comme le leur. Pour une relation avec Jupiter composite en maison 4, la croissance part du foyer et va vers l’extérieur.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
@@ -39,7 +39,7 @@ L’endroit où se trouve ce foyer compte pour le thème lui-même. Une façon d
 
 Concrètement, le lien grandit par ce qu’il bâtit en dessous : un lieu auquel il appartient, une vie privée qui le ressource, le sens de l’endroit d’où viennent les deux familles. Certaines paires avec ce placement remontent ensemble la trace de leurs ancêtres, restaurent une vieille maison pendant dix ans ou prennent racine dans une ville où aucune des deux personnes n’a grandi ; d’autres découvrent simplement que leurs meilleures conversations ont lieu à la maison, tard, porte fermée. Sa générosité est une fondation : la base stable sur laquelle proches et amis s’appuient quand leur propre sol bouge.
 
-Dans un thème natal, [Jupiter en maison 4](/astrology/jupiter-in-4th-house/) décrit quelqu’un qui puise sa confiance dans le foyer et la famille ; en synastrie, [Jupiter de l’autre dans votre maison 4](/astrology/jupiter-in-4th-house-synastry/) décrit une personne auprès de qui l’autre se sent chez soi. Dans le composite, le foyer est une création de la relation, et deux personnes qui ne se sont jamais senties enracinées peuvent y trouver leurs racines.
+Là où [Jupiter en maison 4](/astrology/jupiter-in-4th-house/) puise, dans un thème natal, sa confiance dans le foyer et la famille, et où [Jupiter de l’autre dans votre maison 4](/astrology/jupiter-in-4th-house-synastry/) aide l’autre à se sentir chez soi, le composite fait du foyer une création de la relation, et deux personnes qui ne se sont jamais senties enracinées peuvent y trouver leurs racines.
 
 La difficulté, c’est que le foyer peut tout absorber. Un lien aussi enraciné peut laisser les attentes familiales fixer son cap, faire de la vie privée une forteresse, ou laisser à la porte la croissance qui l’emmènerait vers l’extérieur. Les racines ne sont pas des limites, et l’intimité n’est pas l’isolement. Ce placement n’annonce pas non plus l’achat d’une maison, une famille qui s’agrandit ou une naissance : il décrit la façon dont la relation grandit, pas ce qu’elle possédera ni qui la rejoindra. Ce qui aide : ouvrir la porte vers le dehors aussi souvent que vers le dedans.
 

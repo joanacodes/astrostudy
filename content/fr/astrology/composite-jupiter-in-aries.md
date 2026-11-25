@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Jupiter composite en Bélier ; les mois du passage de Jupiter dans ce signe" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "les maisons et l’exaltation de Jupiter, et le Bélier, maison de Mars" }
 ---
-Un cours de langue réservé le soir même où l’idée est venue, un déménagement décidé en un week-end, deux vélos achetés la veille d’une première grande sortie. Jupiter composite en Bélier décrit une relation qui s’élargit par les premières fois, et qui se fie davantage à ce que vous avez essayé à deux qu’à tout ce qu’on vous a dit.
+Un cours de langue réservé le soir même où l’idée est venue, un déménagement décidé en un week-end, deux vélos achetés la veille d’une première grande sortie. Avec Jupiter composite en Bélier, une relation s’élargit par les premières fois, et se fie davantage à ce que vous avez essayé à deux qu’à tout ce qu’on vous a dit.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Jupiter composite en Vierge ; les mois du passage de Jupiter dans ce signe" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "les Poissons, l’une des maisons de Jupiter, et la Vierge, maison de Mercure" }
 ---
-Leurs recettes sont annotées de deux écritures, la bibliothèque a son système, et leurs meilleures soirées se passent à réparer quelque chose ensemble. Jupiter composite en Vierge décrit une relation qui grandit en améliorant les choses, un peu à la fois.
+Leurs recettes sont annotées de deux écritures, la bibliothèque a son système, et leurs meilleures soirées se passent à réparer quelque chose ensemble. Jupiter composite en Vierge fait grandir une relation par petites améliorations, un peu à la fois.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

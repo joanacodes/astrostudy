@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart, its houses and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, their old names and what tradition gave them" }
 ---
-The pair who know every café owner on the street, swap books with the neighbours and send each other three articles before lunch. Composite Jupiter in the 3rd house describes a relationship that grows through talk, learning and the life of its own neighbourhood.
+The pair who know every café owner on the street, swap books with the neighbours and send each other three articles before lunch. Talk, learning and the life of the neighbourhood are where composite Jupiter in the 3rd house puts a relationship's growth.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -37,7 +37,7 @@ The pair who know every café owner on the street, swap books with the neighbour
 
 In daily life that looks like learning side by side: an evening class taken together, a language practised over breakfast, a book group that began at your kitchen table. Brothers, sisters, cousins and neighbours tend to be folded into the bond rather than kept at its edge, and short trips, the weekend in the next town, the walk to the market, matter more than their size suggests. Its generosity comes in words and time: an explanation given patiently, a lift to the station, the message sent to check on someone.
 
-[Jupiter in the 3rd house](/astrology/jupiter-in-3rd-house/) of one birth chart describes someone endlessly curious; [their Jupiter in your 3rd house](/astrology/jupiter-in-3rd-house-synastry/) describes a person who widens the way the other thinks and talks. The composite puts the curiosity between you, and two quiet people can find that, together, they never run out of things to say.
+Curiosity is the mark of [Jupiter in the 3rd house](/astrology/jupiter-in-3rd-house/) in a birth chart; in synastry, [their Jupiter in your 3rd house](/astrology/jupiter-in-3rd-house-synastry/) widens the way the other thinks and talks. Here the curiosity lives between you, and two quiet people can find that, together, they never run out of things to say.
 
 Like every composite house, this one stands on two birth times, and the two are rarely equally sure. One may come from a certificate that records the minute; the other from a parent's memory of *just after lunch*. The composite inherits the doubt of the less certain time, and the house method adds a choice of its own: midpoints of the two charts' cusps, or houses rebuilt from the composite Midheaven for the place where you live. Before reading a 3rd-house Jupiter, then, it's worth knowing where each time came from ([finding your time](/blog/unknown-birth-time/#finding-your-time)).
 

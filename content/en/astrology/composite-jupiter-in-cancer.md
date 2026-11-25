@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Jupiter falls in Cancer; the months Jupiter spent in Cancer" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Jupiter’s exaltation in Cancer, and Cancer as the Moon’s house" }
 ---
-The spare room is rarely empty: a friend between flats, a cousin new to the city, a neighbour's cat for the summer. Composite Jupiter in Cancer describes a relationship that grows by sheltering, first the two people in it and then whoever comes to the door.
+The spare room is rarely empty: a friend between flats, a cousin new to the city, a neighbour's cat for the summer. Sheltering is how a bond with composite Jupiter in Cancer grows: first the two people in it, then whoever comes to the door.
 
 ## What it says about the two of you {#what-it-says}
 

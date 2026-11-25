@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Jupiter falls in Aquarius; the months Jupiter spent in Aquarius" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Aquarius as a house of Saturn" }
 ---
-Their table seats eight, and half the guests met each other through them. Composite Jupiter in Aquarius describes a relationship that grows by connecting people and ideas, and believes in what a group can do that two people can't.
+Their table seats eight, and half the guests met each other through them. Composite Jupiter in Aquarius widens a relationship by connecting people and ideas, and gives it faith in what a group can do that two people can't.
 
 ## What it says about the two of you {#what-it-says}
 

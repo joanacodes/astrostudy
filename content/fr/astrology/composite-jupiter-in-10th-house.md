@@ -22,7 +22,7 @@ related: ["/astrology/composite-chart", "/astrology/jupiter-in-10th-house", "/as
 faq:
   - q: "Que veut dire Jupiter composite en maison 10 ?"
     a: "Que Jupiter, dans le thème de la relation, se trouve dans la maison de la carrière, de la réputation et du rôle public. Le lien grandit au grand jour, par le travail fait à deux et les responsabilités qu’il prend dans le monde. Il faut les deux heures, et ce placement décrit un esprit public, pas une carrière annoncée."
-  - q: "Est-ce que Jupiter composite en maison 10 annonce un couple qui réussit ?"
+  - q: "Avec Jupiter composite en maison 10, est-ce que nous allons réussir ?"
     a: "Pas comme une promesse. La maison 10 décrit la contribution publique et la responsabilité, et Jupiter la croissance : les astrologues y lisent une paire qui assume un rôle dans le monde avec générosité. Que ce rôle apporte réussite, argent ou reconnaissance dépend de bien plus qu’un mi-point, et aucun thème ne peut le prévoir."
   - q: "Est-ce que le Milieu du Ciel composite est le même avec les deux méthodes ?"
     a: "Oui, dans les systèmes de maisons par quadrants comme Placidus. Que les maisons composites viennent des mi-points des cuspides des deux thèmes ou soient construites à partir du Milieu du Ciel composite, celui-ci est le mi-point de vos deux Milieux du Ciel natals. Les méthodes diffèrent aux autres cuspides, le Fond du Ciel excepté."
@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite, ses maisons et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
 ---
-Les collègues les connaissent comme un duo, le journal local a un jour publié la photo de leur boutique, et l’association qu’ils ont fondée a survécu à plusieurs bureaux. Jupiter composite en maison 10 décrit une relation qui grandit en public, par son travail commun et le rôle qu’elle tient dans le monde.
+Les collègues les connaissent comme un duo, le journal local a un jour publié la photo de leur boutique, et l’association qu’ils ont fondée a survécu à plusieurs bureaux. Quand Jupiter composite tombe en maison 10, une relation grandit en public, par son travail commun et le rôle qu’elle tient dans le monde.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
@@ -38,7 +38,7 @@ La [maison 10](/astrology/10th-house/) commence au [Milieu du Ciel](/astrology/m
 
 Avec le Fond du Ciel qui lui fait face, c’est la cuspide la moins discutée d’un composite. Dans les systèmes de maisons par quadrants comme Placidus, les deux façons de calculer les maisons composites s’accordent sur le Milieu du Ciel composite : c’est le mi-point de vos deux Milieux du Ciel natals, que les autres cuspides viennent elles aussi de mi-points ou soient construites à partir de lui pour le lieu où vous vivez. Les méthodes divergent aux autres cuspides, celle de la maison 11 comprise : Jupiter juste après le Milieu du Ciel composite est en maison 10 dans les deux cas, alors que près de la cuspide de la maison 11, ce n’est plus certain. Les deux Milieux du Ciel demandent eux-mêmes les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Concrètement, c’est le couple connu pour quelque chose qu’il fait ensemble : une entreprise, un cabinet, un groupe de musique, une cause, une réputation de générosité dans son domaine. Dans un thème natal, [Jupiter en maison 10](/astrology/jupiter-in-10th-house/) décrit quelqu’un qui met sa confiance dans sa vocation ; en synastrie, [Jupiter de l’autre dans votre maison 10](/astrology/jupiter-in-10th-house-synastry/) décrit une personne qui encourage les ambitions de l’autre. Dans le composite, le rôle public appartient à la paire. Deux personnes discrètes peuvent découvrir qu’ensemble, on leur demande de diriger, de transmettre, de représenter.
+Concrètement, c’est le couple connu pour quelque chose qu’il fait ensemble : une entreprise, un cabinet, un groupe de musique, une cause, une réputation de générosité dans son domaine. Une personne née avec [Jupiter en maison 10](/astrology/jupiter-in-10th-house/) met sa confiance dans sa vocation ; avec [Jupiter de l’autre dans votre maison 10](/astrology/jupiter-in-10th-house-synastry/), une personne encourage les ambitions de l’autre. Dans le composite, le rôle public appartient à la paire. Deux personnes discrètes peuvent découvrir qu’ensemble, on leur demande de diriger, de transmettre, de représenter.
 
 Rien de tout cela n’annonce réussite, promotion ou célébrité. La maison 10 décrit la responsabilité et la contribution publique, et Jupiter la croissance ; qu’une aventure commune prospère dépend du travail, du hasard ordinaire et de bien des choses qu’aucun thème ne montre. Ce qu’un composite peut décrire, c’est l’esprit dans lequel une paire assume un rôle public : avec générosité, en pensant à ce qu’elle laisse aux autres.
 

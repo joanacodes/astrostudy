@@ -24,7 +24,7 @@ faq:
     a: "Le Capricorne, signe de Saturne, accueille le mi-point de vos deux positions natales d’Uranus : la relation change de l’intérieur de ses propres structures. Les astrologues y lisent un lien qui réécrit ses engagements au lieu de les abandonner, réforme les règles qu’il suit et bâtit ses libertés pour durer. Rien n’y garantit ce qui sera bâti."
   - q: "Quels couples ont Uranus composite en Capricorne ?"
     a: "Des couples de trentenaires, si les deux personnes sont nées entre février 1988 et janvier 1996. Un écart d’âge y mène aussi : une personne née en 1985 et une autre née en 2000 l’ont vers 18° Capricorne, sans qu’aucune des deux ait Uranus dans ce signe à la naissance."
-  - q: "Est-ce qu’Uranus composite en Capricorne aide à travailler ensemble ?"
+  - q: "Est-ce qu’Uranus composite en Capricorne convient à une association d’affaires ?"
     a: "Ce placement décrit une paire qui aime remodeler les structures dans lesquelles elle travaille, les siennes comme celles des autres, et tirer des arrangements durables d’idées nouvelles. Qu’une entreprise commune réussisse dépend du travail, des personnes et des circonstances, et aucun composite ne peut le dire. C’est un style, pas un résultat."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }

@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Jupiter composite en Lion ; les mois du passage de Jupiter dans ce signe" }
 ---
-La fête d’anniversaire se fait chez ce couple-là, le toast au mariage aussi, et le premier vernissage d’une amie compte deux fans enthousiastes au premier rang. Jupiter composite en Lion décrit une relation qui grandit en célébrant, et dont la générosité se voit.
+La fête d’anniversaire se fait chez ce couple-là, le toast au mariage aussi, et le premier vernissage d’une amie compte deux fans enthousiastes au premier rang. Une relation avec Jupiter composite en Lion grandit en célébrant, et sa générosité se voit.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

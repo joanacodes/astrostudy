@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite, ses maisons et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
 ---
-Ce que deux personnes ont en commun va plus loin qu’un compte joint : des secrets gardés, des charges partagées, la version de chacune que personne d’autre n’a vue. Jupiter composite en maison 8 décrit une relation qui grandit par la confiance, et par ce qu’elle accepte de partager.
+Ce que deux personnes ont en commun va plus loin qu’un compte joint : des secrets gardés, des charges partagées, la version de chacune que personne d’autre n’a vue. Jupiter composite en maison 8 trouve la croissance d’une relation dans la confiance que tout cela demande, et dans ce qu’elle accepte de partager.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
@@ -39,7 +39,7 @@ La tradition donnait à la maison 8 la mort et l’héritage, et je ne lis ni l�
 
 Les maisons composites héritent aussi d’un système de maisons. Que les cuspides viennent des mi-points des cuspides des deux thèmes ou du Milieu du Ciel composite, quelqu’un a choisi comment découper le ciel : en [Placidus](/astrology/placidus/), le système que j’utilise pour les thèmes natals, les maisons sont de tailles inégales, alors qu’en maisons égales chacune mesure exactement 30°. Jupiter près du bord de la maison 8 peut changer de maison par ce seul choix, et dans tous les cas il faut les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/) ; [quel système de maisons choisir ?](/astrology/which-house-system-should-i-use/)).
 
-Dans un thème natal, [Jupiter en maison 8](/astrology/jupiter-in-8th-house/) décrit quelqu’un qui s’élargit par l’intimité et la franchise ; en synastrie, [Jupiter de l’autre dans votre maison 8](/astrology/jupiter-in-8th-house-synastry/) décrit une personne auprès de qui l’autre a moins de mal à faire confiance. Le composite place cette confiance entre vous. Deux personnes sur leurs gardes peuvent découvrir qu’ensemble, elles parlent d’argent, de peur et de désir sans se dérober, et sortent d’une conversation difficile plus proches qu’en y entrant.
+L’intimité et la franchise élargissent la vie de qui a [Jupiter en maison 8](/astrology/jupiter-in-8th-house/) ; en synastrie, [Jupiter de l’autre dans votre maison 8](/astrology/jupiter-in-8th-house-synastry/) rend la confiance plus facile à l’autre. Dans le composite, cette confiance devient un bien commun. Deux personnes sur leurs gardes peuvent découvrir qu’ensemble, elles parlent d’argent, de peur et de désir sans se dérober, et sortent d’une conversation difficile plus proches qu’en y entrant.
 
 La difficulté, c’est de fusionner au point que plus personne ne soit tout à fait distinct. Un lien aussi confiant peut tout mettre en commun, argent, amis, décisions, et perdre de vue ce qui appartient à chacune des deux personnes ; il peut aussi faire de l’intensité la mesure de la proximité. Partager n’est pas perdre, et la profondeur n’est pas l’obsession. Ce qui aide : garder quelque chose qui n’appartient qu’à chacune, un peu de temps, un peu d’argent, une amitié, et mettre par écrit ce que vous partagez, pour que la générosité repose sur des accords clairs.
 

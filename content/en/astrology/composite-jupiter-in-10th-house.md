@@ -21,7 +21,7 @@ related: ["/astrology/composite-chart", "/astrology/jupiter-in-10th-house", "/as
 faq:
   - q: "What does composite Jupiter in the 10th house mean?"
     a: "That the relationship chart’s Jupiter sits in the house of career, reputation and public role. The bond grows in the open, through work done together and the responsibilities it takes on in the world. It needs both birth times, and it describes a public spirit, not a career forecast."
-  - q: "Does composite Jupiter in the 10th house mean a successful couple?"
+  - q: "Will composite Jupiter in the 10th house make us successful?"
     a: "Not as a promise. The 10th house describes public contribution and responsibility, and Jupiter growth, so astrologers read a pair that takes on a role in the world generously. Whether that role brings success, money or recognition depends on far more than a midpoint, and no chart can forecast it."
   - q: "Is the composite Midheaven the same in both methods?"
     a: "Yes, in quadrant house systems such as Placidus. Whether the composite houses come from the midpoints of the two charts’ cusps or are built from the composite Midheaven, that Midheaven is the midpoint of your two natal Midheavens. The methods differ at the other cusps, the IC excepted."
@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart, its houses and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
 ---
-Colleagues know them as a pair, the local paper once ran a photo of their shop, and the charity they set up has outlived several committees. Composite Jupiter in the 10th house describes a relationship that grows in public, through its shared work and the role it plays in the wider world.
+Colleagues know them as a pair, the local paper once ran a photo of their shop, and the charity they set up has outlived several committees. When composite Jupiter falls in the 10th house, a relationship grows in public, through its shared work and the role it plays in the world.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -37,7 +37,7 @@ Colleagues know them as a pair, the local paper once ran a photo of their shop, 
 
 This cusp, with the IC opposite it, is the least disputed in a composite. In quadrant house systems like Placidus, both ways of drawing composite houses agree on the composite Midheaven: it is the midpoint of your two natal Midheavens, whether the other cusps come from midpoints too or are built from it for the place where you live. The methods differ at the other cusps, the 11th included, so a Jupiter just past the composite Midheaven is in the 10th by either reckoning, while one near the 11th cusp may not be. The two Midheavens themselves still need both birth times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-In practice, this is the couple known for something they do together: a business, a practice, a band, a cause, a reputation for generosity in their field. [Jupiter in the 10th house](/astrology/jupiter-in-10th-house/) of one birth chart describes someone whose faith goes into their vocation; [their Jupiter in your 10th house](/astrology/jupiter-in-10th-house-synastry/) describes a person who encourages the other's ambitions. In the composite, the public role belongs to the pair. Two private people can find that, together, they are asked to lead, to mentor, to represent.
+In practice, this is the couple known for something they do together: a business, a practice, a band, a cause, a reputation for generosity in their field. Someone born with [Jupiter in the 10th house](/astrology/jupiter-in-10th-house/) puts their faith into a vocation; with [their Jupiter in your 10th house](/astrology/jupiter-in-10th-house-synastry/), one person encourages the other's ambitions. In the composite, the public role belongs to the pair. Two private people can find that, together, they are asked to lead, to mentor, to represent.
 
 None of this forecasts success, promotion or fame. The 10th describes responsibility and public contribution, and Jupiter growth; whether a shared venture thrives depends on work, ordinary chance and many things no chart shows. What a composite can describe is the spirit in which a pair takes on a public role: generously, with an eye to what it leaves for others.
 

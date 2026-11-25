@@ -31,7 +31,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Jupiter falls in Taurus; the months Jupiter spent in Taurus" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Venus as the ruler of Taurus, and Jupiter’s own signs" }
 ---
-A vegetable patch in its tenth summer, a recipe improved a little every winter, a walk taken on the same evening of the week for years. Composite Jupiter in Taurus describes a relationship that grows by keeping what works and adding to it slowly.
+A vegetable patch in its tenth summer, a recipe improved a little every winter, a walk taken on the same evening of the week for years. That is composite Jupiter in Taurus: growth by keeping what works and adding to it slowly.
 
 ## What it says about the two of you {#what-it-says}
 

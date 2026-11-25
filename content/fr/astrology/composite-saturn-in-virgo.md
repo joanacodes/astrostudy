@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/saturn-in-virgo", "/astrology/virgo", "/astrology/house-overlays", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Saturne composite en Vierge ?"
-    a: "Dans le thème dressé pour la relation, Saturne, planète de l’engagement et de la structure, se trouve dans le signe de l’affinage. Les astrologues y lisent un lien qui s’engage en se rendant utile : aide concrète, routines qui fonctionnent, petites améliorations tenues des années. Ce placement décrit comment vous construisez ensemble, pas si vous resterez ensemble."
+    a: "Dans le thème dressé pour la relation, Saturne, planète de l’engagement et de la structure, se trouve dans le signe de l’affinage. Les astrologues y lisent un lien qui s’engage en se rendant utile : aide concrète, routines qui fonctionnent, petites améliorations tenues des années. Construire ensemble est son sujet ; rester ensemble vous appartient."
   - q: "Est-ce que Saturne composite en Vierge rend une relation critique ou contrôlante ?"
     a: "Pas par nature. La Vierge apporte la précision et le soin du bon fonctionnement, pas la critique. Le risque vient de Saturne : un désir de contrôle qui peut changer l’amélioration en inspection. Nommer ce qui marche déjà, autant que ce qui reste à réparer, garde la méthode du lien utile plutôt qu’exigeante."
   - q: "Saturne composite en Vierge, est-ce rare ?"

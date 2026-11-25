@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Jupiter falls in Scorpio; the months Jupiter spent in Scorpio" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Scorpio as a house of Mars" }
 ---
-Some couples are at their best at two in the morning, when the conversation finally reaches the thing that matters. Composite Jupiter in Scorpio describes a relationship that grows by going deep: into trust, into hard truths, into what the two of you have come through.
+Some couples are at their best at two in the morning, when the conversation finally reaches the thing that matters. Composite Jupiter in Scorpio takes a relationship deep: into trust, into hard truths, into what the two of you have come through.
 
 ## What it says about the two of you {#what-it-says}
 

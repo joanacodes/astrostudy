@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "maison 5", "thème composite"]
 weight: 2113
 glyph: "♃"
-definition: "Jupiter composite en maison 5 : dans le thème de la relation, Jupiter tombe dans la maison du jeu, de la création et de l’amour, que la tradition appelait la Fortune favorable. Les astrologues y lisent un lien qui grandit par le plaisir : créer, fêter, garder l’amour vivant. Aucun enfant prédit ; il faut les deux heures."
+definition: "Jupiter composite en maison 5 : dans le thème de la relation, Jupiter tombe dans la maison du jeu, de la création et de l’amour, que la tradition appelait la Fortune favorable. Les astrologues y lisent un lien qui grandit par le plaisir : créer, fêter, garder l’amour vivant. Aucun enfant n’y est prédit, et la maison dépend des deux heures."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃" }
   - { k: "Maison", v: "Maison 5, du jeu, de la création et de l’amour" }
@@ -30,15 +30,15 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite, ses maisons et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, leurs noms anciens et ce que la tradition leur attribuait" }
 ---
-Des samedis après-midi qui tournent au grand spectacle : une pièce montée pour les amis, un concours de gâteaux avec règlement écrit, des vacances organisées autour d’un festival de musique. Jupiter composite en maison 5 décrit une relation qui grandit par le jeu, la création et l’amour.
+Des samedis après-midi qui tournent au grand spectacle : une pièce montée pour les amis, un concours de gâteaux avec règlement écrit, des vacances organisées autour d’un festival de musique. Jupiter composite en maison 5 laisse une relation grandir par le jeu, la création et l’amour.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
 La [maison 5](/astrology/5th-house/) couvre la créativité, le jeu, la joie, l’amour, l’art et ce qu’une vie fabrique pour le plaisir de fabriquer. Elle est succédente, son signe naturel est le Lion, et la tradition l’appelait la Fortune favorable ; c’est Vénus, non Jupiter, qui y a sa joie. Avec [Jupiter](/astrology/jupiter/) dans cette maison du [thème composite](/astrology/composite-chart/), le plaisir devient la façon dont le lien s’élargit : il grandit quand il crée, célèbre et prend de petits risques pour le plaisir.
 
-La tradition donnait aussi les enfants à la maison 5. Un composite ne prédit ni grossesse ni enfant, et aucun thème ne le peut ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)) ; ce site ne lit pas non plus le thème des enfants ([le thème des enfants](/astrology/childrens-charts/)). Dans une relation d’adultes, je lis la maison 5 comme ce que vous faites naître ensemble pour la joie : un projet, un spectacle, un jardin, une façon de vous amuser qui n’appartient qu’à vous, et, pour certaines paires, l’accompagnement de plus jeunes à qui elles choisissent de faire une place.
+Les enfants figuraient aussi parmi les sujets que la tradition prêtait à la maison 5. Un composite ne prédit ni grossesse ni enfant, et aucun thème ne le peut ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)) ; ce site ne lit pas non plus le thème des enfants ([le thème des enfants](/astrology/childrens-charts/)). Dans une relation d’adultes, je lis la maison 5 comme ce que vous faites naître ensemble pour la joie : un projet, un spectacle, un jardin, une façon de vous amuser qui n’appartient qu’à vous, et, pour certaines paires, l’accompagnement de plus jeunes à qui elles choisissent de faire une place.
 
-Dans un thème natal, [Jupiter en maison 5](/astrology/jupiter-in-5th-house/) décrit quelqu’un qui grandit par la joie et le risque créatif ; en synastrie, [Jupiter de l’autre dans votre maison 5](/astrology/jupiter-in-5th-house-synastry/) décrit une personne auprès de qui l’autre retrouve le goût du jeu et de la séduction. Dans le composite, l’envie de jouer appartient à la relation. Deux personnes sérieuses peuvent découvrir qu’ensemble, elles dansent mal dans la cuisine, s’inscrivent au quiz du bar du coin et écrivent la chanson idiote, et que leur amour continue de grandir au lieu de se tasser.
+La joie et le risque créatif font grandir une personne qui a [Jupiter en maison 5](/astrology/jupiter-in-5th-house/) ; en synastrie, [Jupiter de l’autre dans votre maison 5](/astrology/jupiter-in-5th-house-synastry/) désigne la personne auprès de qui l’autre retrouve le goût du jeu et de la séduction. Dans le composite, l’envie de jouer appartient à la relation. Deux personnes sérieuses peuvent découvrir qu’ensemble, elles dansent mal dans la cuisine, s’inscrivent au quiz du bar du coin et écrivent la chanson idiote, et que leur amour continue de grandir au lieu de se tasser.
 
 Quelle confiance accorder à la maison ? Moins qu’au signe. Les deux façons de calculer les maisons composites, à partir des mi-points des cuspides des deux thèmes ou du Milieu du Ciel composite pour le lieu où vous vivez, peuvent différer d’une maison entière : Jupiter en maison 5 avec l’une peut se retrouver en maison 4 ou 6 avec l’autre. Chacune demande en outre les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Quand les méthodes s’accordent, le placement est plus solide ; quand elles divergent, mieux vaut le lire d’une main légère.
 

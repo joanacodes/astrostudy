@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "maison 1", "thème composite"]
 weight: 2109
 glyph: "♃"
-definition: "Jupiter composite en maison 1 place le mi-point de deux positions natales de Jupiter dans la maison de l’identité et de la présence, juste sous l’Ascendant composite. Les astrologues y lisent un lien qui va vers le monde avec ouverture et grandit par sa façon de se montrer. Il y faut les deux heures et une méthode."
+definition: "Jupiter composite en maison 1 place le mi-point de deux positions natales de Jupiter dans la maison de l’identité et de la présence, juste sous l’Ascendant composite. Les astrologues y lisent un lien qui va vers le monde avec ouverture et grandit par sa façon de se montrer. Situer cette maison demande les deux heures et une méthode."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃" }
   - { k: "Maison", v: "Maison 1, de l’identité et de la présence" }

@@ -1,7 +1,7 @@
 ---
 title: "Composite Saturn in Leo"
 h1: "Composite Saturn in Leo: the relationship’s chart"
-description: "Composite Saturn in Leo: a relationship that takes its joy, loyalty and pride seriously, sometimes too much. Saturn’s detriment, its birth years, what helps."
+description: "Composite Saturn in Leo: a relationship that takes its joy, loyalty and pride seriously, sometimes too much. A sign of detriment, and the years that give it."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

@@ -32,7 +32,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Jupiter composite en Taureau ; les mois du passage de Jupiter dans ce signe" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Vénus, maîtresse du Taureau, et les signes de Jupiter" }
 ---
-Un potager à son dixième été, une recette améliorée un peu chaque hiver, une promenade faite le même soir de la semaine depuis des années. Jupiter composite en Taureau décrit une relation qui grandit en gardant ce qui fonctionne, et en y ajoutant peu à peu.
+Un potager à son dixième été, une recette améliorée un peu chaque hiver, une promenade faite le même soir de la semaine depuis des années. Voilà Jupiter composite en Taureau : une croissance qui garde ce qui fonctionne et y ajoute peu à peu.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

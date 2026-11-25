@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/saturn-in-virgo", "/astrology/virgo", "/astrology/house-overlays", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Saturn in Virgo mean?"
-    a: "Saturn, the planet of commitment and structure, sits in the sign of refinement in the chart drawn for the relationship. Astrologers read a bond that commits through usefulness: practical help, routines that work, small improvements kept up over years. It describes how the two of you build together, not whether you will stay together."
+    a: "Saturn, the planet of commitment and structure, sits in the sign of refinement in the chart drawn for the relationship. Astrologers read a bond that commits through usefulness: practical help, routines that work, small improvements kept up over years. Building together is its subject; staying together is up to you."
   - q: "Is composite Saturn in Virgo critical or controlling?"
     a: "Not by nature. Virgo brings precision and care for how things work, not criticism. The risk comes from Saturn’s side: a wish for control that can turn improvement into inspection. Naming what already works, as well as what still needs fixing, keeps the bond’s method helpful rather than exacting."
   - q: "How rare is composite Saturn in Virgo?"

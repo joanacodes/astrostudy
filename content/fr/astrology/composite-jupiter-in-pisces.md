@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Jupiter composite en Poissons ; les mois du passage de Jupiter dans ce signe" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "les Poissons, l’une des maisons de Jupiter" }
 ---
-Certaines relations sont un endroit doux où atterrir : pour une amie après une rupture, un voisin qui avait besoin de compagnie, une inconnue de la gare à qui l’on indique le chemin avant de la raccompagner. Jupiter composite en Poissons décrit un lien qui grandit par la compassion et l’imagination.
+Certaines relations sont un endroit doux où atterrir : pour une amie après une rupture, un voisin qui avait besoin de compagnie, une inconnue de la gare à qui l’on indique le chemin avant de la raccompagner. Dans une relation avec Jupiter composite en Poissons, la compassion et l’imagination font grandir le lien.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

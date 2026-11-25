@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Jupiter falls in Capricorn; the months Jupiter spent in Capricorn" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Saturn among the three placements that held 75 to 90% of the time" }
 ---
-A five-year plan stuck to the fridge and revised every January, a business started on evenings and weekends, a house restored one room a year. Composite Jupiter in Capricorn describes a relationship that grows by building, in stages and on purpose, and trusts what it has earned.
+A five-year plan stuck to the fridge and revised every January, a business started on evenings and weekends, a house restored one room a year. Composite Jupiter in Capricorn builds a relationship's growth in stages and on purpose, and trusts what has been earned.
 
 ## What it says about the two of you {#what-it-says}
 

@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Jupiter falls in Libra; the months Jupiter spent in Libra; composite and Davison Jupiter compared for 20,000 random pairs" }
 ---
-Whose turn it is to choose the film, whether the favour has been returned, what's fair to the friend who always hosts: in some relationships, every decision gets weighed by two. Composite Jupiter in Libra describes a bond that grows through fairness, and believes most in what it has agreed.
+Whose turn it is to choose the film, whether the favour has been returned, what's fair to the friend who always hosts: in some relationships, every decision gets weighed by two. Under composite Jupiter in Libra, a bond grows through fairness, and believes most in what it has agreed.
 
 ## What it says about the two of you {#what-it-says}
 

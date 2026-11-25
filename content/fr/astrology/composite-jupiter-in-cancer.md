@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Jupiter composite en Cancer ; les mois du passage de Jupiter dans ce signe" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’exaltation de Jupiter en Cancer, et le Cancer, maison de la Lune" }
 ---
-La chambre d’amis est rarement vide : une amie entre deux appartements, un cousin qui débarque en ville, le chat des voisins pour l’été. Jupiter composite en Cancer décrit une relation qui grandit en abritant, d’abord les deux personnes qui la forment, puis quiconque frappe à la porte.
+La chambre d’amis est rarement vide : une amie entre deux appartements, un cousin qui débarque en ville, le chat des voisins pour l’été. Abriter, c’est ainsi que grandit un lien avec Jupiter composite en Cancer : d’abord les deux personnes qui le forment, puis quiconque frappe à la porte.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

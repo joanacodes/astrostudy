@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Jupiter composite en Scorpion ; les mois du passage de Jupiter dans ce signe" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "le Scorpion, maison de Mars" }
 ---
-Certains couples sont à leur meilleur à deux heures du matin, quand la conversation atteint enfin ce qui compte. Jupiter composite en Scorpion décrit une relation qui grandit en allant au fond : dans la confiance, dans les vérités difficiles, dans ce que vous avez traversé à deux.
+Certains couples sont à leur meilleur à deux heures du matin, quand la conversation atteint enfin ce qui compte. Jupiter composite en Scorpion emmène une relation au fond des choses : dans la confiance, dans les vérités difficiles, dans ce que vous avez traversé à deux.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

@@ -31,7 +31,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Jupiter composite en Balance ; les mois du passage de Jupiter dans ce signe ; Jupiter composite et Jupiter du thème de Davison comparés pour 20 000 paires tirées au hasard" }
 ---
-À qui le tour de choisir le film, si le service a bien été rendu, ce qui est juste pour l’amie qui reçoit toujours : dans certaines relations, chaque décision se pèse à deux. Jupiter composite en Balance décrit un lien qui grandit par l’équité, et qui croit surtout à ce qu’il a convenu.
+À qui le tour de choisir le film, si le service a bien été rendu, ce qui est juste pour l’amie qui reçoit toujours : dans certaines relations, chaque décision se pèse à deux. Sous Jupiter composite en Balance, un lien grandit par l’équité, et croit surtout à ce qu’il a convenu.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

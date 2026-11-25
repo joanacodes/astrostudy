@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Jupiter", "5th house", "composite chart"]
 weight: 2113
 glyph: "♃"
-definition: "Composite Jupiter in the 5th house: the relationship chart’s Jupiter lands in the house of play, creativity and romance, which tradition called Good Fortune. Astrologers read a bond that grows through delight: making things, celebrating, keeping romance alive. It predicts no children, and its house needs both birth times."
+definition: "Composite Jupiter in the 5th house: the relationship chart’s Jupiter lands in the house of play, creativity and romance, which tradition called Good Fortune. Astrologers read a bond that grows through delight: making things, celebrating, keeping romance alive. Children are not predicted, and the house depends on both birth times."
 facts:
   - { k: "Body", v: "Composite Jupiter ♃" }
   - { k: "House", v: "The 5th house, of play, creativity and romance" }
@@ -23,13 +23,13 @@ faq:
     a: "The relationship’s Jupiter falls in the house of play, creativity and romance, so the bond grows through delight: making things together, celebrating, taking small risks for the fun of it. It is placed from both birth times, and it predicts no children and no events."
   - q: "Does composite Jupiter in the 5th house mean we will have children?"
     a: "No. Tradition gave the 5th house children, but a composite can’t predict a pregnancy or a birth, and no chart can. Read for two adults, the 5th describes what the relationship creates for joy: projects, play, romance, and sometimes the younger people it chooses to mentor."
-  - q: "Is composite Jupiter in the 5th house good for romance?"
+  - q: "Does composite Jupiter in the 5th house help romance?"
     a: "It describes a bond that grows through romance and play, so astrologers read warmth and delight here. Good for romance in the sense of a shared taste for it, yes; a guarantee of lasting love, no. What two people do with that warmth is up to them, not to a midpoint."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart, its houses and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, their old names and what tradition gave them" }
 ---
-Saturday afternoons that turn into whole productions: a play put on for friends, a cake competition with written rules, a holiday planned around a music festival. Composite Jupiter in the 5th house describes a relationship that grows through play, creativity and romance.
+Saturday afternoons that turn into whole productions: a play put on for friends, a cake competition with written rules, a holiday planned around a music festival. Composite Jupiter in the 5th house lets a relationship grow through play, creativity and romance.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -37,7 +37,7 @@ Saturday afternoons that turn into whole productions: a play put on for friends,
 
 Tradition also gave the 5th children. A composite predicts no pregnancy and no child, and neither does any chart ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)); nor does this site read children's charts ([children's charts](/astrology/childrens-charts/)). In an adult relationship, I read the 5th as what the two of you bring into being for joy: a project, a performance, a garden, a way of having fun that's yours alone, and, for some pairs, the mentoring of younger people they choose to make room for.
 
-[Jupiter in the 5th house](/astrology/jupiter-in-5th-house/) of one birth chart describes someone who grows through joy and creative risk; [their Jupiter in your 5th house](/astrology/jupiter-in-5th-house-synastry/) describes a person around whom the other feels playful and admired. In the composite, the playfulness is the relationship's. Two serious people can find that together they dance badly in the kitchen, enter the pub quiz and write the silly song, and that their romance keeps growing rather than settling.
+Joy and creative risk are how one person with [Jupiter in the 5th house](/astrology/jupiter-in-5th-house/) grows; in synastry, [their Jupiter in your 5th house](/astrology/jupiter-in-5th-house-synastry/) is the person around whom the other feels playful and admired. In the composite, the playfulness is the relationship's. Two serious people can find that together they dance badly in the kitchen, enter the pub quiz and write the silly song, and that their romance keeps growing rather than settling.
 
 How sure is the house? Less sure than the sign. The two ways of drawing composite houses, from the midpoints of the two charts' cusps or from the composite Midheaven for the place where you live, can disagree by a whole house, so a 5th-house Jupiter by one method can be a 4th or a 6th by the other. Each also needs both birth times ([what changes without a birth time](/blog/unknown-birth-time/)). When the methods agree, the placement is firmer; when they don't, it is best read lightly.
 

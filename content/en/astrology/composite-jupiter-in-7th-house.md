@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Jupiter", "7th house", "composite chart"]
 weight: 2115
 glyph: "♃"
-definition: "Composite Jupiter in the 7th house points a relationship outwards: the midpoint of two natal Jupiters lies in the house of partnership and agreements, which begins at the composite Descendant. Astrologers read a bond that widens through its alliances. It predicts no marriage, and needs both birth times."
+definition: "Composite Jupiter in the 7th house points a relationship outwards: the midpoint of two natal Jupiters lies in the house of partnership and agreements, which begins at the composite Descendant. Astrologers read a bond that widens through its alliances. Marriage is not foretold, and two birth times are needed."
 facts:
   - { k: "Body", v: "Composite Jupiter ♃" }
   - { k: "House", v: "The 7th house, of partnership and agreements" }
@@ -28,7 +28,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart, its houses and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
 ---
-Some couples are good at being partners to other people too: the friends they go on holiday with, the business they run with another pair, the neighbours they swap keys with. Composite Jupiter in the 7th house describes a relationship that grows through its alliances and agreements.
+Some couples are good at being partners to other people too: the friends they go on holiday with, the business they run with another pair, the neighbours they swap keys with. Composite Jupiter in the 7th house makes such alliances, and the agreements behind them, part of how a relationship grows.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -36,9 +36,9 @@ Some couples are good at being partners to other people too: the friends they go
 
 It doesn't promise a wedding. Tradition gave the 7th marriage, among other things, but a composite can't say whether two people will marry or stay married, and I don't read any chart that way. What I'd describe is a relationship that is generous in its dealings: fair contracts, good-faith negotiation, a habit of treating others as partners rather than rivals.
 
-The house's cusp, the composite Descendant, sits opposite the composite Ascendant, and that is where the methods part. Built from the midpoints of the two charts' cusps, it lies halfway between your two natal Descendants. Built from the composite Midheaven, it depends on a place, usually where the pair lives, and a couple who live in two cities, or split their year between countries, first have to choose which place to use. Either way, both birth times are needed ([what changes without a birth time](/blog/unknown-birth-time/)).
+The house's cusp, the composite Descendant, sits opposite the composite Ascendant, and that is where the methods part. The cusp-midpoint method puts it halfway between your two natal Descendants. The composite-Midheaven method needs a place, usually where the pair lives, and a couple who live in two cities, or split their year between countries, first have to choose which place to use. Both versions rest on two birth times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-[Jupiter in the 7th house](/astrology/jupiter-in-7th-house/) of one birth chart describes a person who learns most through the people they team up with; [their Jupiter in your 7th house](/astrology/jupiter-in-7th-house-synastry/) describes one person making partnership feel more possible for the other. In the composite, that openness faces outwards: the pair becomes a good ally to others, and grows through the people it works with. Two people who each prefer to work alone can find that, as a couple, they collaborate easily. Business partnerships, shared houses and long friendships between couples can grow out of a bond like this, and so can a mediator's knack: the pair can sit both sides down at the same table.
+People with [Jupiter in the 7th house](/astrology/jupiter-in-7th-house/) in their own chart tend to learn most through the people they team up with; in synastry, [their Jupiter in your 7th house](/astrology/jupiter-in-7th-house-synastry/) makes partnership feel more possible for the other. In the composite, that openness faces outwards: the pair becomes a good ally to others, and grows through the people it works with. Two people who each prefer to work alone can find that, as a couple, they collaborate easily. Business partnerships, shared houses and long friendships between couples can grow out of a bond like this, and so can a mediator's knack: the pair can sit both sides down at the same table.
 
 The difficulty is over-commitment. A bond that grows through alliances can sign up for too many joint ventures, promise other people more than it has, or let its identity drift into the couples and partners around it. Cooperation isn't submission, and balance includes the balance between the two of you and everyone else. What helps is reading the small print together, saying no as a pair, and keeping one alliance, your own, first.
 

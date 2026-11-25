@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Jupiter composite en Capricorne ; les mois du passage de Jupiter dans ce signe" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne parmi les trois placements qui ont tenu de 75 à 90 % du temps" }
 ---
-Un plan à cinq ans aimanté sur le frigo et revu chaque janvier, une entreprise lancée les soirs et les week-ends, une maison restaurée à raison d’une pièce par an. Jupiter composite en Capricorne décrit une relation qui grandit en bâtissant, par étapes et à dessein, et qui se fie à ce qu’elle a gagné.
+Un plan à cinq ans aimanté sur le frigo et revu chaque janvier, une entreprise lancée les soirs et les week-ends, une maison restaurée à raison d’une pièce par an. Jupiter composite en Capricorne construit la croissance d’une relation par étapes et à dessein, et lui apprend à se fier à ce qu’elle a gagné.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

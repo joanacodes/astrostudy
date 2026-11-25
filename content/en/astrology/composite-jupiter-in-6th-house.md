@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Jupiter", "6th house", "composite chart"]
 weight: 2114
 glyph: "♃"
-definition: "Composite Jupiter in the 6th house places the bond’s growth in its everyday life: the midpoint of two natal Jupiters sits in the house of routines, useful work and service, once called Bad Fortune. Astrologers read a relationship that improves both lives through shared habits and practical help. It predicts no illness; it needs both birth times."
+definition: "Composite Jupiter in the 6th house places the bond’s growth in its everyday life: the midpoint of two natal Jupiters sits in the house of routines, useful work and service, once called Bad Fortune. Astrologers read a relationship that improves both lives through shared habits and practical help. Illness is never predicted here; both birth times fix the house."
 facts:
   - { k: "Body", v: "Composite Jupiter ♃" }
   - { k: "House", v: "The 6th house, of routines, work and service" }
@@ -29,17 +29,17 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart, its houses and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, their old names and what tradition gave them" }
 ---
-Some couples are at their best on an ordinary Tuesday: the run before work, the meals planned for the week, a neighbour's shopping picked up on the way home. Composite Jupiter in the 6th house describes a relationship that grows through daily routine, useful work and service.
+Some couples are at their best on an ordinary Tuesday: the run before work, the meals planned for the week, a neighbour's shopping picked up on the way home. The growth of a couple with composite Jupiter in the 6th house happens in daily routine, useful work and service.
 
 ## What it says about the two of you {#what-it-says}
 
-[The 6th house](/astrology/6th-house/) covers daily work, routines, service, craft and the upkeep of body and life. It is cadent, its natural sign is Virgo, a sign tradition calls Jupiter's detriment, and its old name, Bad Fortune, is far gloomier than its subject; Mars, not Jupiter, has its joy there. In [the composite chart](/astrology/composite-chart/), [Jupiter](/astrology/jupiter/) in this house makes the everyday the place where the bond grows: habits that improve both lives, work done side by side, help given without ceremony.
+[The 6th house](/astrology/6th-house/) covers daily work, routines, service, craft and the upkeep of body and life. Cadent, and naturally Virgo's, a sign tradition counts as Jupiter's detriment, the 6th was called Bad Fortune, a name far gloomier than its subject; Mars has its joy there. In [the composite chart](/astrology/composite-chart/), [Jupiter](/astrology/jupiter/) in this house makes the everyday the place where the bond grows: habits that improve both lives, work done side by side, help given without ceremony.
 
 Tradition also gave the 6th illness, and that is why the house frightens people. A composite Jupiter here predicts no illness and no recovery, and no chart can forecast anyone's health ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). What I'd describe instead is how a pair looks after its days: the routines that keep you both well, the care you take of each other's energy, the work you share.
 
 This is also where a composite becomes yours rather than your generation's. The sign of composite Jupiter is shared by many couples of the same age, since Jupiter spends about a year in each sign. The house isn't: it depends on both birth times, to the minute, and on the method used to draw composite houses, from the midpoints of the two charts' cusps or from the composite Midheaven for the place where you live ([what changes without a birth time](/blog/unknown-birth-time/)). Two couples born in the same months can share the sign and still land in different houses.
 
-[Jupiter in the 6th house](/astrology/jupiter-in-6th-house/) of one birth chart describes someone who widens their life through work and routine; [their Jupiter in your 6th house](/astrology/jupiter-in-6th-house-synastry/) describes a person who improves the other's daily life. In the composite, the improvement is mutual and practical: a small business run from the kitchen table, a shared allotment, an evening a week of volunteering, or simply a household that runs well enough to leave room for the two of you.
+In a single chart, [Jupiter in the 6th house](/astrology/jupiter-in-6th-house/) widens a life through work and routine; across two, [their Jupiter in your 6th house](/astrology/jupiter-in-6th-house-synastry/) improves the other's days. In the composite, the improvement is mutual and practical: a small business run from the kitchen table, a shared allotment, an evening a week of volunteering, or simply a household that runs well enough to leave room for the two of you.
 
 The difficulty is saying yes to too much. A bond that grows by being useful can fill every evening with tasks, take on every favour asked of it, and become a well-run service with no time left for pleasure. Service isn't servitude, and a routine is there to support the two of you, not to replace you. What helps is protecting one unproductive day a week, and checking now and then that your habits still serve the people who keep them.
 

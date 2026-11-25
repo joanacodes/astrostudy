@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Saturne composite en Verseau ?"
     a: "Une relation aux règles faites maison. Dans le thème tiré de deux thèmes natals, Saturne se trouve en Verseau : les astrologues y lisent un lien qui s’engage par des principes partagés, laisse de la place à l’individualité de chaque personne et prend au sérieux ses amitiés et ses causes. Rien de tout cela ne prédit ce que deviendra le lien."
   - q: "Est-ce que Saturne composite en Verseau veut dire une relation distante ?"
-    a: "Pas par nature. Le Verseau apporte l’objectivité et de la place pour l’individualité, pas la froideur. Le risque vient de Saturne : des règles sur la liberté peuvent durcir jusqu’à rationner la proximité. Laisser une part d’intimité sans programme, et confronter les principes du lien à ce que vous ressentez vraiment, évite que le cadre devienne distance."
+    a: "Pas par nature. Le Verseau apporte l’objectivité et de la place pour l’individualité, pas la froideur. C’est du côté de Saturne que vient le risque : des règles sur la liberté peuvent durcir jusqu’à rationner la proximité. Laisser une part d’intimité sans programme, et confronter les principes du lien à ce que vous ressentez vraiment, évite que le cadre devienne distance."
   - q: "Est-ce que Saturne est en domicile en Verseau ?"
     a: "Dans la tradition, oui : le Verseau est l’un des deux signes de Saturne, avec le Capricorne. L’astrologie tropicale moderne l’a aussi donné à Uranus, et je lis les deux maîtres. Les astrologues qui se servent des composites regarderaient aussi Uranus composite, qui montre comment et quand le lien réécrit ses règles."
 sources:

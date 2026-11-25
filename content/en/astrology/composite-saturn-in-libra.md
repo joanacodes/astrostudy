@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/saturn-in-libra", "/astrology/libra", "/astrology/exaltation", "/astrology/midpoints"]
 faq:
   - q: "What does composite Saturn in Libra mean?"
-    a: "Fairness as the bond’s backbone. With Saturn exalted in Libra in the composite, astrologers read a relationship held together by duties shared out, decisions taken jointly and agreements honoured on both sides. It describes how the bond builds, not whether it lasts."
+    a: "Fairness as the bond’s backbone. With Saturn exalted in Libra in the composite, astrologers read a relationship held together by duties shared out, decisions taken jointly and agreements honoured on both sides. How the bond builds is the subject; whether it lasts is not."
   - q: "Is composite Saturn in Libra good for a marriage?"
     a: "It describes a relationship that takes agreements seriously, which many people value in a partnership, but it predicts no marriage, and no outcome of one. Exaltation means a good fit between Saturn and the sign, not a guarantee. Whether two people marry, or stay married, is theirs to decide."
   - q: "Why can a pair born fifteen years apart get composite Saturn in Libra or in Aries?"
@@ -44,4 +44,4 @@ For one person, [Saturn in Libra](/astrology/saturn-in-libra/) means treating co
 
 What rubs is score-keeping. A bond that counts fairness carefully can start counting everything, and a disagreement can feel like a breach of contract rather than two people wanting different things. Negotiating every choice also costs energy, and some pairs with this Saturn end up with excellent procedures and very little spontaneity. It helps to measure fairness over a season rather than an evening, to rewrite the agreements as your lives change, and to let some things go unbalanced on purpose, as gifts.
 
-Composites aren't something I draw. What you're reading is the method as its practitioners use it, next to both natal charts and the [synastry](/astrology/synastry/), and none of it says how long two people will last. Like every reading of two people, it rests on an agreement of its own: both of you know, and both said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Other astrologers draw composites; I don't. What you're reading is the method as its practitioners use it, next to both natal charts and the [synastry](/astrology/synastry/), and none of it says how long two people will last. Like every reading of two people, it rests on an agreement of its own: both of you know, and both said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

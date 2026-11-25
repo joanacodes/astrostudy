@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Neptune falls in Virgo, and Neptune’s stays in the sign" }
 ---
-Virgo is the sign that notices what needs doing, and does it. A composite Neptune there gives a relationship an ideal of usefulness, and it belongs mostly to the oldest couples alive: two people born between 1928 and 1943 share it almost by default.
+Virgo is the sign that notices what needs doing, and does it. With a composite Neptune there, a relationship's ideal is usefulness, and the couples who have it are mostly the oldest alive: two people born between 1928 and 1943 share it almost by default.
 
 ## What it says about the two of you {#what-it-says}
 
@@ -37,7 +37,7 @@ Virgo is the sign that notices what needs doing, and does it. A composite Neptun
 
 Modern tropical astrology places Neptune in [detriment](/astrology/detriment/) in Virgo, the sign opposite Pisces. I don't take that as a flaw: a planet in detriment simply works far from its own sign. What Neptune needs is openness that keeps the ability to tell things apart, and Virgo is the sign that tells things apart. In this composite, the bond's compassion comes with a method, and its imagination with a list.
 
-Two people born between September 1928 and August 1943 were both born with [Neptune in Virgo](/astrology/neptune-in-virgo/), and their composite Neptune falls there too. A pair can also have it without either partner being born with it: one born in June 1927, with Neptune in late Leo, and one born in June 1946, with Neptune in early Libra, meet halfway, at about 15° Virgo. In two million pairs drawn at random from the births of 1930 to 2009, about 1 pair in 19 had it, a low figure only because Virgo sits at the oldest edge of that sample. For these couples, Virgo says more about their decade than about them; the house tells them apart, and it needs both birth times.
+Two people born between September 1928 and August 1943 were both born with [Neptune in Virgo](/astrology/neptune-in-virgo/), and their composite Neptune falls there too. A pair can also have it without either partner being born with it: one born in June 1927, with Neptune in late Leo, and one born in June 1946, with Neptune in early Libra, meet halfway, at about 15° Virgo. Counted over two million random pairs born from 1930 to 2009, it comes to about 1 pair in 19, a low figure only because Virgo sits at the oldest edge of that sample. For these couples, Virgo says more about their decade than about them; the house tells them apart, and it needs both birth times.
 
 On one side, [composite Neptune in Leo](/astrology/composite-neptune-in-leo/) needs a partner born before July 1929; on the other, [composite Neptune in Libra](/astrology/composite-neptune-in-libra/) belongs to the generation born from 1942 to 1957 and to many pairs that straddle the two.
 

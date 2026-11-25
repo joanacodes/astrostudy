@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Jupiter composite en Verseau ; les mois du passage de Jupiter dans ce signe" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "le Verseau, maison de Saturne" }
 ---
-Leur table compte huit couverts, et la moitié des convives doivent leur rencontre à ce couple. Jupiter composite en Verseau décrit une relation qui grandit en reliant les gens et les idées, et qui croit à ce qu’un groupe peut faire et que deux personnes ne peuvent pas.
+Leur table compte huit couverts, et la moitié des convives doivent leur rencontre à ce couple. Jupiter composite en Verseau élargit une relation en reliant les gens et les idées, et lui donne foi en ce qu’un groupe peut faire et que deux personnes ne peuvent pas.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

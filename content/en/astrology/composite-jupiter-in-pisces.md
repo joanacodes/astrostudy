@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Jupiter falls in Pisces; the months Jupiter spent in Pisces" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Pisces as one of Jupiter’s houses" }
 ---
-Some relationships are a soft place for other people to land: a friend after a break-up, a neighbour who needed company, a stranger at the station given directions and then a lift. Composite Jupiter in Pisces describes a bond that grows through compassion and imagination.
+Some relationships are a soft place for other people to land: a friend after a break-up, a neighbour who needed company, a stranger at the station given directions and then a lift. In a relationship with composite Jupiter in Pisces, compassion and imagination are how the bond grows.
 
 ## What it says about the two of you {#what-it-says}
 

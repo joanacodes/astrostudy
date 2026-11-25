@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Jupiter falls in Sagittarius; the months Jupiter spent in Sagittarius" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Sagittarius as Jupiter’s house, and Jupiter as a benefic" }
 ---
-A map on the kitchen wall with pins in it, books in three languages on one shelf, and a long-running argument about what it all means. Composite Jupiter in Sagittarius describes a relationship whose growth is a shared search: for meaning, for perspective, for the next horizon.
+A map on the kitchen wall with pins in it, books in three languages on one shelf, and a long-running argument about what it all means. Here composite Jupiter in Sagittarius makes growth a shared search: for meaning, for perspective, for the next horizon.
 
 ## What it says about the two of you {#what-it-says}
 

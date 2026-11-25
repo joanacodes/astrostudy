@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Jupiter", "1st house", "composite chart"]
 weight: 2109
 glyph: "♃"
-definition: "Composite Jupiter in the 1st house puts the relationship chart’s Jupiter, the midpoint of two natal Jupiters, in the house of identity and presence, just below the composite Ascendant. Astrologers read a bond that meets the world openly and widens through how it shows itself. It needs both birth times and a house method."
+definition: "Composite Jupiter in the 1st house puts the relationship chart’s Jupiter, the midpoint of two natal Jupiters, in the house of identity and presence, just below the composite Ascendant. Astrologers read a bond that meets the world openly and widens through how it shows itself. Placing it takes both birth times and a house method."
 facts:
   - { k: "Body", v: "Composite Jupiter ♃" }
   - { k: "House", v: "The 1st house, of identity and presence" }

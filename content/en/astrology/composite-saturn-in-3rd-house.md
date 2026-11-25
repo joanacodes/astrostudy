@@ -12,7 +12,7 @@ glyph: "♄"
 definition: "Composite Saturn in the 3rd house puts the relationship chart’s Saturn in the cadent house of everyday talk, learning, siblings and neighbours. Astrologers read a pair whose commitment shows in daily contact: words chosen carefully, skills learned slowly together, duties close to home. The house needs both birth times and a choice of method."
 facts:
   - { k: "Body", v: "Composite Saturn ♄" }
-  - { k: "House", v: "The 3rd house: daily talk, learning, siblings, neighbours, short journeys" }
+  - { k: "House", v: "The 3rd house: daily talk, learning, siblings, neighbours, short trips" }
   - { k: "Type", v: "Cadent" }
   - { k: "Natural sign", v: "Gemini" }
   - { k: "Old name", v: "The Goddess, where the Moon has its joy" }
@@ -29,13 +29,13 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart, its houses and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, their old names and the planets’ joys" }
 ---
-The same phone call at six every evening, the walk to the shops together on a Saturday, the neighbour whose bins you've put out for fifteen years. Composite Saturn in the 3rd house finds a relationship's commitments in everyday words and the small journeys around them.
+The same phone call at six every evening, the walk to the shops together on a Saturday, the neighbour whose bins you've put out for fifteen years. Composite Saturn in the 3rd house finds a relationship's commitments in everyday words and the short trips around them.
 
 ## What it says about the two of you {#what-it-says}
 
 In [the composite chart](/astrology/composite-chart/), [the 3rd house](/astrology/3rd-house/) is the relationship's everyday traffic: how the two of you talk, what you learn together, the streets you walk, and the people nearby, brothers and sisters, neighbours, the regulars at the corner shop. [Saturn](/astrology/saturn/) makes that traffic a matter of commitment. The pair keeps in touch with a steady rhythm, chooses its words with care and means what it says; promises made in passing get kept. Learning tends to be slow and thorough, a language or an instrument taken up together and still going years later.
 
-Opposite, the 9th house holds long journeys and large ideas; the 3rd keeps to the near world. That's where this Saturn puts the relationship's discipline: not into grand plans but into the habit of turning up, calling back, finishing the evening class, driving the same route to the same people for years.
+Opposite, the 9th house holds long-distance travel and large ideas; the 3rd keeps to the near world. That's where this Saturn puts the relationship's discipline: not into grand plans but into the habit of turning up, calling back, finishing the evening class, driving the same route to the same people for years.
 
 It's a cadent house, with Gemini as its natural sign; tradition called it the Goddess and gave the Moon its joy here, not Saturn. Its first cusp lies between the angles and its last is the composite IC, and both come from both birth times whichever method draws them: the midpoints of your two charts' cusps, or a set of houses rebuilt from the composite Midheaven for the place where you live ([what changes without a birth time](/blog/unknown-birth-time/)). A Saturn near either edge can move house when a time or the method changes.
 
@@ -43,6 +43,6 @@ The composite's 3rd belongs to neither of you. [Saturn in the 3rd house](/astrol
 
 Between [composite Saturn in the 2nd house](/astrology/composite-saturn-in-2nd-house/), which looks after what the bond owns, and [composite Saturn in the 4th house](/astrology/composite-saturn-in-4th-house/), which looks after its home, the 3rd is the street outside: errands, visits, the daily commute, the parcel taken in for next door.
 
-The hard part is silence. A bond that weighs every word can stop saying the small things, and then the serious ones arrive carrying too much weight. Duties to siblings or neighbours can also take more of the pair's time than either would choose, because saying no feels like breaking a promise. It helps to keep the small talk going, the trivial news, the joke, the passing remark; to share family and neighbourly duties out with other people; and to keep learning something together that has nothing to do with obligation.
+Silence is the risk. A bond that weighs every word can stop saying the small things, and then the serious ones arrive carrying too much weight. Duties to siblings or neighbours can also take more of the pair's time than either would choose, because saying no feels like breaking a promise. It helps to keep the small talk going, the trivial news, the joke, the passing remark; to share family and neighbourly duties out with other people; and to keep learning something together that has nothing to do with obligation.
 
 I write about composites without using them in my readings. The astrologers who do use them read a 3rd-house Saturn next to both birth charts and the [synastry](/astrology/synastry/), and take no prediction from it.

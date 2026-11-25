@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Neptune composite en Vierge, et les séjours de Neptune dans ce signe" }
 ---
-La Vierge est le signe qui remarque ce qu’il faut faire, et qui le fait. Neptune composite dans ce signe donne à une relation un idéal d’utilité, et ce placement appartient surtout aux couples les plus âgés : deux personnes nées entre 1928 et 1943 l’ont presque d’office.
+La Vierge est le signe qui remarque ce qu’il faut faire, et qui le fait. Avec Neptune composite dans ce signe, l’idéal d’une relation, c’est l’utilité, et les couples qui l’ont sont surtout les plus âgés : deux personnes nées entre 1928 et 1943 l’ont presque d’office.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
@@ -38,7 +38,7 @@ La Vierge est le signe qui remarque ce qu’il faut faire, et qui le fait. Neptu
 
 L’astrologie tropicale moderne place Neptune en [exil](/astrology/detriment/) en Vierge, le signe opposé aux Poissons. Je n’y vois pas un défaut : une planète en exil travaille simplement loin de son propre signe. Ce dont Neptune a besoin, c’est d’une ouverture qui garde la capacité de distinguer les choses, et la Vierge est justement le signe qui distingue. Dans ce composite, la compassion du lien vient avec une méthode, et son imagination avec une liste.
 
-Deux personnes nées entre septembre 1928 et août 1943 sont toutes deux nées avec [Neptune en Vierge](/astrology/neptune-in-virgo/), et leur Neptune composite tombe aussi dans ce signe. Une paire peut également avoir ce placement sans qu’aucune des deux personnes soit née avec : avec une naissance en juin 1927, Neptune se trouve en fin de Lion, avec une autre en juin 1946, en début de Balance, et les deux positions se rejoignent à mi-chemin, vers 15° Vierge. Sur deux millions de paires tirées au hasard parmi les naissances de 1930 à 2009, environ 1 paire sur 19 l’avait : un chiffre faible seulement parce que la Vierge se trouve au bord le plus ancien de cet échantillon. Pour ces couples, la Vierge parle davantage de leur décennie que d’eux ; c’est la maison qui les distingue, et elle demande les deux heures de naissance.
+Deux personnes nées entre septembre 1928 et août 1943 sont toutes deux nées avec [Neptune en Vierge](/astrology/neptune-in-virgo/), et leur Neptune composite tombe aussi dans ce signe. Une paire peut également avoir ce placement sans qu’aucune des deux personnes soit née avec : avec une naissance en juin 1927, Neptune se trouve en fin de Lion, avec une autre en juin 1946, en début de Balance, et les deux positions se rejoignent à mi-chemin, vers 15° Vierge. Comptée sur deux millions de paires tirées au hasard parmi les naissances de 1930 à 2009, sa part est d’environ 1 paire sur 19 : un chiffre faible seulement parce que la Vierge se trouve au bord le plus ancien de cet échantillon. Pour ces couples, la Vierge parle davantage de leur décennie que d’eux ; c’est la maison qui les distingue, et elle demande les deux heures de naissance.
 
 D’un côté, [Neptune composite en Lion](/astrology/composite-neptune-in-leo/) demande une personne née avant juillet 1929 ; de l’autre, [Neptune composite en Balance](/astrology/composite-neptune-in-libra/) appartient à la génération née de 1942 à 1957 et à beaucoup de paires à cheval sur les deux.
 

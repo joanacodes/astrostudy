@@ -23,7 +23,7 @@ faq:
     a: "Capricorn, Saturn’s sign, holds the midpoint of your two natal Uranus positions, so the relationship changes from inside its own structures. Astrologers read a bond that rewrites commitments rather than dropping them, reforms the rules it lives by and builds its freedoms to last. It sets out a way of building, with no promise about what gets built."
   - q: "Which couples have composite Uranus in Capricorn?"
     a: "Couples in their thirties, if both partners were born between February 1988 and January 1996. An age gap reaches it as well: someone born in 1985 and someone born in 2000 have it at about 18° Capricorn, though neither has Uranus there natally."
-  - q: "Is composite Uranus in Capricorn good for working together?"
+  - q: "Does composite Uranus in Capricorn suit a business partnership?"
     a: "It describes a pair that likes to reshape the structures it works within, its own and other people’s, and to make lasting arrangements out of new ideas. Whether a joint venture succeeds depends on the work, the people and the circumstances, and no composite can say. It shows a style, not an outcome."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }

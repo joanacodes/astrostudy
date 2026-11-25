@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Jupiter composite en Sagittaire ; les mois du passage de Jupiter dans ce signe" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "le Sagittaire, maison de Jupiter, et Jupiter parmi les bénéfiques" }
 ---
-Une carte punaisée au mur de la cuisine, des livres en trois langues sur la même étagère, et une discussion au long cours sur le sens de tout cela. Jupiter composite en Sagittaire décrit une relation dont la croissance est une quête partagée : de sens, de recul, du prochain horizon.
+Une carte punaisée au mur de la cuisine, des livres en trois langues sur la même étagère, et une discussion au long cours sur le sens de tout cela. Ici, Jupiter composite en Sagittaire fait de la croissance une quête partagée : de sens, de recul, du prochain horizon.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

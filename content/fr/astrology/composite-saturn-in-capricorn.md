@@ -2,7 +2,7 @@
 title: "Saturne composite en Capricorne"
 slug: "saturne-composite-en-capricorne"
 h1: "Saturne composite en Capricorne : le thème de la relation"
-description: "Saturne composite en Capricorne : Saturne en domicile, une relation bâtie comme un long projet, avec plans, étapes et devoirs partagés. Ses années, ce qui aide."
+description: "Saturne composite en Capricorne : Saturne en domicile, une relation bâtie comme un long projet, avec plans, étapes et devoirs partagés. Les années concernées."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

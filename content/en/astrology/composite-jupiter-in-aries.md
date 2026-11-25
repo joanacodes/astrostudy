@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Jupiter falls in Aries; the months Jupiter spent in Aries" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Jupiter’s houses and exaltation, and Aries as the house of Mars" }
 ---
-A language course booked the evening it was first mentioned, a move to another city settled in one weekend, two bikes bought the day before a first long ride. Composite Jupiter in Aries describes a relationship that widens through first times, and trusts what the two of you have tried more than anything you were told.
+A language course booked the evening it was first mentioned, a move to another city settled in one weekend, two bikes bought the day before a first long ride. With composite Jupiter in Aries, a relationship widens through first times, and trusts what the two of you have tried more than anything you were told.
 
 ## What it says about the two of you {#what-it-says}
 
