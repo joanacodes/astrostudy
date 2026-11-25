@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Mercure composite en Sagittaire, et la fréquence de son opposition au Soleil composite" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "le Sagittaire, gouverné par Jupiter, et l’exil de Mercure" }
 ---
-Certaines paires ne peuvent pas réserver un week-end sans débattre de ce à quoi sert le voyage. Mercure composite en Sagittaire donne à une relation ce genre d’esprit : grand angle, franc, et heureux quand une conversation finit plus loin qu’elle n’a commencé.
+Certaines paires ne peuvent pas réserver un week-end sans débattre de ce à quoi sert le voyage. C’est ce genre d’esprit que décrit Mercure composite en Sagittaire : grand angle, franc, et heureux quand une conversation finit plus loin qu’elle n’a commencé.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
@@ -37,7 +37,7 @@ Dans [le thème composite](/astrology/composite-chart/), chaque planète se plac
 
 Ce lien pense en grandes images. Ses conversations dérivent vers les convictions, la politique, le sens d’un livre, le projet d’une année à l’étranger ; il aime apprendre à deux, une langue, une formation, un long voyage en voiture avec une pile de podcasts. L’enseignement en fait partie aussi : chacune des deux personnes explique volontiers le monde à l’autre, et toutes deux en ressortent plus savantes. Ce lien est franc, et drôle avec ça : les choses se disent simplement, et un désaccord d’idées peut faire la meilleure soirée du mois. Le goût du large appartient à la paire : une personne très casanière peut découvrir que, dans cette relation, l’atlas finit par sortir. La page sur [Mercure en Sagittaire](/astrology/mercury-in-sagittarius/) décrit un seul esprit grand angle ; ce placement-ci n’appartient à aucune des deux personnes, et aux deux à la fois.
 
-La tradition place ici Mercure en [exil](/astrology/detriment/), face aux Gémeaux, l’un de ses propres signes : un esprit fait pour le détail travaille dans un signe de la vue d’ensemble. Pour une relation, cela décrit où va l’effort, pas ce que vaut le lien. Penser à deux vient facilement dans les grandes lignes, moins dans le détail. [Jupiter](/astrology/jupiter/) gouverne le signe, et dans le composite Jupiter est aussi un mi-point : le signe et la maison de Jupiter composite montrent où le lien va chercher du sens.
+La tradition place ici Mercure en [exil](/astrology/detriment/), face aux Gémeaux, l’un de ses propres signes : un esprit fait pour le détail travaille dans un signe de la vue d’ensemble. Pour une relation, cela décrit où va l’effort, pas ce que vaut le lien. Penser à deux vient facilement dans les grandes lignes, moins dans le détail. Le signe appartient à [Jupiter](/astrology/jupiter/) ; dans le composite, le signe et la maison de Jupiter, mi-point comme le reste, montrent où le lien va chercher du sens.
 
 Le Soleil composite est en général proche de Mercure composite, en Scorpion, en Sagittaire ou en Capricorne, puisque l’écart entre les deux reste sous 28° environ pour environ 17 paires sur 18. L’exception a ici un clin d’œil : pour environ 1 paire sur 26, le Soleil composite tombe près du point opposé, vers les Gémeaux, le signe même de Mercure. Un lien sagittarien pourrait goûter l’ironie, mais c’est l’arithmétique des mi-points, pas un message.
 
@@ -45,4 +45,4 @@ Le détail que personne n’a pris en charge, voilà où ça glisse. Les grands 
 
 [Mercure composite en Scorpion](/astrology/composite-mercury-in-scorpio/) creuse une seule question ; [Mercure composite en Capricorne](/astrology/composite-mercury-in-capricorn/) transforme le projet en étapes. Le Sagittaire demande à quoi sert le tout.
 
-Franchement, les composites ne sont pas ma méthode : je les décris tels que les astrologues les emploient, avec les deux thèmes natals et la [synastrie](/astrology/synastry/). La question franche vient avant tout thème, et c’est de savoir si l’autre personne est au courant et d’accord ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Franchement, les composites ne sont pas ma méthode : cette page en décrit l’usage, toujours aux côtés des deux thèmes natals et de la [synastrie](/astrology/synastry/). La question franche vient avant tout thème, et c’est de savoir si l’autre personne est au courant et d’accord ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

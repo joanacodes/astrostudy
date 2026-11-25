@@ -14,7 +14,7 @@ definition: "Les Poissons sur la cuspide de la maison 8 placent l’intimité, l
 facts:
   - { k: "Signe", v: "Poissons ♓, eau mutable" }
   - { k: "Cuspide", v: "Maison 8 : l’intimité, la confiance, l’argent en commun" }
-  - { k: "Maître", v: "Neptune ♆ (astrologie moderne) et Jupiter ♃ (tradition)" }
+  - { k: "Maître", v: "Neptune ♆ (astrologie tropicale moderne) et Jupiter ♃ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 10 à Londres et à New York" }
   - { k: "Ascendant", v: "Lion, parfois Vierge" }
   - { k: "Cuspide opposée", v: "Vierge, en maison 2" }

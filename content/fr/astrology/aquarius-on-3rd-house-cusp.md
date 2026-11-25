@@ -14,7 +14,7 @@ definition: "Le Verseau sur la cuspide de la maison 3 donne l’allure de l’ai
 facts:
   - { k: "Signe", v: "Verseau ♒, air fixe" }
   - { k: "Cuspide", v: "Maison 3 : la parole, l’apprentissage, le monde proche" }
-  - { k: "Maître", v: "Uranus ♅ (astrologie moderne) et Saturne ♄ (tradition)" }
+  - { k: "Maître", v: "Uranus ♅ (astrologie tropicale moderne) et Saturne ♄ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 14 à Londres, 1 sur 13 à New York" }
   - { k: "Ascendant", v: "Scorpion ou Sagittaire" }
   - { k: "Cuspide opposée", v: "Lion, en maison 9" }

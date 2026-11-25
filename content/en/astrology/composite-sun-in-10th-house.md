@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Sun", "10th house", "composite chart"]
 weight: 1998
 glyph: "☉"
-definition: "Composite Sun in the 10th house means the relationship chart’s Sun, the midpoint of two people’s Suns, falls in the angular house that begins at the composite Midheaven. Astrologers read it as a bond centred on its place in the world: shared work, a public role, a reputation. It predicts no success, and it needs both birth times."
+definition: "A composite Sun in the 10th house is the midpoint of two people’s Suns sitting at the top of their relationship chart, in the angular house the composite Midheaven opens. Its centre is the bond’s place in the world: shared work, a public role, a reputation. It predicts no success; it needs both birth times."
 facts:
   - { k: "Body", v: "The composite Sun ☉" }
   - { k: "House", v: "The 10th house, from the composite Midheaven" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/sun-in-10th-house", "/astrology/10th-house", "/astrology/midheaven", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Sun in the 10th house mean?"
-    a: "That your relationship’s Sun sits in the house beginning at the composite Midheaven, the most public part of the chart. Astrologers read it as a bond centred on its place in the world: work you do together, a role you hold, what the two of you are known for. It describes the relationship, not either career."
+    a: "It puts your relationship’s Sun in the most public part of its chart, the house opened by the composite Midheaven. The bond’s centre is then its place in the world: work you do together, a role you hold, what the two of you are known for. It describes the relationship, not either career."
   - q: "Does a composite Sun in the 10th house mean success together?"
     a: "No. The 10th describes ambition, responsibility and a public role, not success or fame, and a composite never predicts either. A pair with this placement tends to organise itself around shared aims in the world; how those turn out depends on the two people, their work and their choices."
   - q: "How is the composite Midheaven worked out?"
@@ -34,9 +34,9 @@ The 10th is the most public house of a chart, the one that begins at the Midheav
 
 In a birth chart the Midheaven is where the zodiac crosses the meridian, not the point overhead; the composite [Midheaven](/astrology/midheaven/) is simply the midpoint of your two natal ones, and both ways of drawing composite houses keep it: one takes every cusp as a midpoint of your natal cusps, the other rebuilds the cusps from this Midheaven for the place where you live. So [the 10th house](/astrology/10th-house/) of [the composite chart](/astrology/composite-chart/) begins at the same degree either way, while where it ends, at the 11th cusp, depends on the method. The Midheaven itself needs both birth times ([what changes without a birth time](/blog/unknown-birth-time/)), and a [Sun](/astrology/sun/) close to it can fall on either side, in the 10th or the 9th, depending on those times.
 
-As the setting for the bond's Sun, the 10th is about what the relationship does in public. Such a pair is often known for something: the restaurant you run, the cause you're associated with, the professional partnership people mention in one breath. It's revived by progress others can see, and its purpose tends to involve responsibility, a role it holds for other people, sometimes a legacy. It needn't be a career: two friends who have kept a local choir going for twenty years have this kind of public centre too. Achievement isn't status, though, and the bond's sense of worth doesn't have to wait for recognition.
+What a relationship does in public is 10th-house business. Such a pair is often known for something: the restaurant you run, the cause you're associated with, the professional partnership people mention in one breath. It's revived by progress others can see, and its purpose tends to involve responsibility, a role it holds for other people, sometimes a legacy. It needn't be a career: two friends who have kept a local choir going for twenty years have this kind of public centre too. Achievement isn't status, though, and the bond's sense of worth doesn't have to wait for recognition.
 
-The 10th is angular, with Capricorn as its natural sign, and no planet has its joy here. In a birth chart, the [Sun in the 10th house](/astrology/sun-in-10th-house/) describes one person's ambitions and public role; in synastry, [their Sun in your 10th house](/astrology/sun-in-10th-house-synastry/) is about someone who lights up your standing. In a composite, the standing belongs to the pair, and two private people can find, with each other, a public life neither would have chosen alone.
+The 10th is the last of the four angular houses, with Capricorn as its natural sign and no planet's joy. Where the [Sun in the 10th house](/astrology/sun-in-10th-house/) of a birth chart describes one person's ambitions and public role, and [their Sun in your 10th house](/astrology/sun-in-10th-house-synastry/) someone who lights up your standing, the composite's standing is held jointly, and it can give two private people a public life neither would have chosen alone.
 
 A public centre can crowd out a private one. The relationship may become more of an institution than a bond, managed rather than lived, and reputation can start to decide what the two of you allow yourselves. Keeping something between you that isn't for show helps; a rule as simple as no talk of work at the table can protect the bond's private life. Nothing here forecasts success, fame or failure: the 10th describes the pair's aims in the world, never how they turn out.
 

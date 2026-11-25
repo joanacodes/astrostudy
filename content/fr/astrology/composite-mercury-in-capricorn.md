@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Mercure", "Capricorne", "thème composite"]
 weight: 2034
 glyph: "☿♑"
-definition: "Mercure composite en Capricorne décrit le mi-point de deux positions natales de Mercure tombant en terre cardinale, le signe que gouverne Saturne. Les astrologues y lisent une relation qui pense en plans et en étapes : elle décide en regardant loin et tient parole. Ce placement décrit le raisonnement du lien, jamais ce qu’il deviendra."
+definition: "Mercure composite en Capricorne, c’est la pensée d’une relation logée en terre cardinale, sous la maîtrise de Saturne. Les astrologues y lisent une relation qui pense en plans et en étapes : elle décide en regardant loin et tient parole. Ce placement décrit le raisonnement du lien, jamais ce qu’il deviendra."
 facts:
   - { k: "Corps", v: "Mercure composite ☿, mi-point le plus proche des positions de Mercure dans vos deux thèmes natals" }
   - { k: "Signe", v: "Capricorne ♑, terre cardinale, gouverné par Saturne ; aucune dignité pour Mercure" }
@@ -29,11 +29,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Mercure composite en Capricorne, et son écart au Soleil composite" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne parmi les placements qui ont le mieux tenu, dans les thèmes natals" }
 ---
-Certaines paires tiennent un agenda commun comme d’autres tiennent un journal. Mercure composite en Capricorne décrit une relation qui fonctionne ainsi : elle planifie, elle ordonne, et elle aime savoir ce qui vient ensuite et qui s’en charge.
+Certaines paires tiennent un agenda commun comme d’autres tiennent un journal, et Mercure composite en Capricorne en fait le tempérament de la relation elle-même : elle planifie, elle ordonne, et elle aime savoir ce qui vient ensuite et qui s’en charge.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-[Le thème composite](/astrology/composite-chart/) donne à chaque planète le mi-point de ses deux positions natales, et [Mercure](/astrology/mercury/) composite décrit la pensée de la relation : sa façon de prendre des décisions, d’organiser l’information et de parler en son nom. Le [Capricorne](/astrology/capricorn/), terre cardinale, donne un but à cette pensée. Il ferme aussi la série de quatre signes, à partir de la Balance, où Mercure composite se rencontre le plus souvent : environ 1 paire sur 11.
+[Mercure](/astrology/mercury/) composite, mi-point de vos deux positions natales dans [le thème composite](/astrology/composite-chart/), décrit la pensée de la relation : sa façon de prendre des décisions, d’organiser l’information et de parler en son nom. Le [Capricorne](/astrology/capricorn/), terre cardinale, donne un but à cette pensée. Il ferme aussi la série de quatre signes, à partir de la Balance, où Mercure composite se rencontre le plus souvent : environ 1 paire sur 11.
 
 Ce lien pense en plans et en étapes. Une conversation finit en général par une décision et une date, et la date est tenue. Il pèse le long terme : le déménagement envisagé sur cinq ans plutôt que sur cinq semaines, le projet découpé en phases. Ses mots sont mesurés, ses promesses assez petites pour être tenues, et son humour souvent pince-sans-rire. L’information est rangée, elle aussi : c’est la paire qui retrouve la garantie, l’ancienne adresse ou la date du dernier entretien de la chaudière au moment voulu. L’organisation appartient au lien : dans vos vies séparées, les papiers peuvent s’empiler, alors que ce que vous partagez arrive à l’heure. Là où [Mercure en Capricorne](/astrology/mercury-in-capricorn/), dans un thème natal, organise une vie, le composite en organise une commune, et les deux n’ont pas à se ressembler.
 

@@ -14,7 +14,7 @@ definition: "Avec le Verseau sur la cuspide de la maison 10, votre Milieu du Cie
 facts:
   - { k: "Signe", v: "Verseau ♒, air fixe" }
   - { k: "Cuspide", v: "Maison 10, à partir du Milieu du Ciel : la carrière, la position, la réputation" }
-  - { k: "Maître", v: "Saturne ♄ (tradition, et maître naturel de la maison 10) et Uranus ♅ (astrologie moderne)" }
+  - { k: "Maître", v: "Saturne ♄ (tradition, et maître naturel de la maison 10) et Uranus ♅ (astrologie tropicale moderne)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 12, à Londres et à New York" }
   - { k: "Ascendant", v: "Gémeaux, parfois Cancer ou Taureau" }
   - { k: "Cuspide opposée", v: "Lion, au Fond du Ciel" }

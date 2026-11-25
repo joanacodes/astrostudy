@@ -9,10 +9,10 @@ categories: ["Placements"]
 tags: ["Pisces", "9th house", "house cusps"]
 weight: 2561
 glyph: "♓"
-definition: "Pisces on the 9th house cusp puts belief, higher learning and long journeys in mutable water. You tend to feel meaning before you can argue it, learn by immersion and keep room for doubt in your faith. Jupiter, the 9th’s planet by nature, shares its rule here with Neptune, and Leo usually rises, giving the chart to the Sun."
+definition: "Pisces on the 9th house cusp puts belief, higher learning and far travel in mutable water. You tend to feel meaning before you can argue it, learn by immersion and keep room for doubt in your faith. Jupiter, the 9th’s planet by nature, shares its rule here with Neptune, and Leo usually rises, giving the chart to the Sun."
 facts:
   - { k: "Sign", v: "Pisces ♓, mutable water" }
-  - { k: "Cusp", v: "The 9th house: belief, study, long journeys" }
+  - { k: "Cusp", v: "The 9th house: belief, study, travel abroad" }
   - { k: "Ruler", v: "Neptune ♆ (modern) and Jupiter ♃ (traditional, and the 9th’s natural ruler)" }
   - { k: "How common", v: "About 1 birth in 11 at London, 1 in 12 at New York" }
   - { k: "Rising with it", v: "Leo or Cancer" }
@@ -31,11 +31,11 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Jupiter as the ruler of Sagittarius and Pisces, the Sun of Leo" }
   - { title: "Vettius Valens, Anthology", note: "the 9th house, the God" }
 ---
-Pisces on the 9th house cusp gives the house of belief, study and long journeys to the sign that dissolves edges. Meaning tends to arrive as a feeling before it becomes an idea, and your faith, whatever shape it takes, has room for doubt.
+Pisces on the 9th house cusp gives the house of belief, study and far travel to the sign that dissolves edges. Meaning tends to arrive as a feeling before it becomes an idea, and your faith, whatever shape it takes, has room for doubt.
 
 ## What it means {#what-it-means}
 
-The [9th house](/astrology/9th-house/) is where you go to understand more, and tradition called it the God and gave the Sun its joy there ([house cusps](/astrology/house-cusps/)). With [Pisces](/astrology/pisces/) on its cusp, you may find you can hold two truths at once, and that what you believe most deeply is hard to put into a sentence. Learning works best by immersion: living in a language rather than studying it, reading poetry, music or scripture slowly, finding a teacher who opens a door rather than one who hands out answers. Journeys matter for what they dissolve, the edges of the person who set out. The care this cusp asks for is discernment: an inspiring teacher is still a person, and your own experience is a fair test of anything you're asked to believe. Opposite, on the 3rd cusp, sits Virgo: in everyday talk you can be exact and practical, and it's in the big questions that you put the map away.
+The [9th house](/astrology/9th-house/) is where you go to understand more, and tradition called it the God and gave the Sun its joy there ([house cusps](/astrology/house-cusps/)). With [Pisces](/astrology/pisces/) on its cusp, you may find you can hold two truths at once, and that what you believe most deeply is hard to put into a sentence. Learning works best by immersion: living in a language rather than studying it, reading poetry, music or scripture slowly, finding a teacher who opens a door rather than one who hands out answers. Travel matters for what it dissolves, the edges of the person who set out. The care this cusp asks for is discernment: an inspiring teacher is still a person, and your own experience is a fair test of anything you're asked to believe. Opposite, on the 3rd cusp, sits Virgo: in everyday talk you can be exact and practical, and it's in the big questions that you put the map away.
 
 Jupiter, ruler of the 9th by nature, is one of its two rulers by sign here as well, beside Neptune, and I read both. [Jupiter](/astrology/jupiter/) shows where your beliefs grow, through teaching, travel or generosity of mind; [Neptune](/astrology/neptune/) shows where faith turns mystical or artistic, and where an ideal can blur the facts. [Leo rising](/astrology/leo-rising/) comes with this cusp in about 3 London charts in 4 and half the New York ones, giving the chart to the Sun, the planet tradition said rejoices in the 9th: who you are and what you believe tend to light each other up. Faith finds its material in the houses where the two rulers sit, as ruler of the 9th in the [1st](/astrology/9th-house-ruler-in-1st-house/), [2nd](/astrology/9th-house-ruler-in-2nd-house/), [3rd](/astrology/9th-house-ruler-in-3rd-house/), [4th](/astrology/9th-house-ruler-in-4th-house/), [5th](/astrology/9th-house-ruler-in-5th-house/), [6th](/astrology/9th-house-ruler-in-6th-house/), [7th](/astrology/9th-house-ruler-in-7th-house/), [8th](/astrology/9th-house-ruler-in-8th-house/), [9th](/astrology/9th-house-ruler-in-9th-house/), [10th](/astrology/9th-house-ruler-in-10th-house/), [11th](/astrology/9th-house-ruler-in-11th-house/) or [12th](/astrology/9th-house-ruler-in-12th-house/).
 

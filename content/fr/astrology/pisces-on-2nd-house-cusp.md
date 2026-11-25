@@ -14,7 +14,7 @@ definition: "Les Poissons sur la cuspide de la maison 2 confient à l’eau muta
 facts:
   - { k: "Signe", v: "Poissons ♓, eau mutable" }
   - { k: "Cuspide", v: "Maison 2 : les gains, les biens, l’estime de soi" }
-  - { k: "Maître", v: "Neptune ♆ (astrologie moderne) et Jupiter ♃ (tradition)" }
+  - { k: "Maître", v: "Neptune ♆ (astrologie tropicale moderne) et Jupiter ♃ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 20 à Londres, 1 sur 17 à New York" }
   - { k: "Ascendant", v: "Capricorne, ou Verseau à New York" }
   - { k: "Cuspide opposée", v: "Vierge, en maison 8" }

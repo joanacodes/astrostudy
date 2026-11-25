@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Mercury", "Libra", "composite chart"]
 weight: 2031
 glyph: "☿♎"
-definition: "Composite Mercury in Libra is what you get when two natal Mercurys meet halfway in cardinal air, the sign of Venus. Astrologers read it as a relationship that thinks in pairs of views: it consults before deciding, looks for the fair answer and says hard things tactfully. It describes the bond’s way of reasoning, not its future."
+definition: "Composite Mercury in Libra is what you get when two natal Mercurys meet halfway in cardinal air, the sign of Venus. Astrologers read it as a relationship that thinks in pairs of views: it consults before deciding, looks for the fair answer and says hard things tactfully. Its subject is the bond’s reasoning, not its future."
 facts:
   - { k: "Body", v: "Composite Mercury ☿, the midpoint of your two natal Mercurys, the short way round" }
   - { k: "Sign", v: "Libra ♎, cardinal air, ruled by Venus; no dignity for Mercury" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/mercury-in-libra", "/astrology/libra", "/astrology/davison-chart", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What is composite Mercury in Libra like?"
-    a: "Halfway between your two natal Mercurys lies Libra, so the relationship’s chart reasons in cardinal air. Astrologers read it as a bond that consults before it decides, hears both sides and finds tactful words, often for other people as well as for itself. It describes the pair, and can be more diplomatic than either of you."
+    a: "Libra holds the midpoint of your two natal Mercurys, and astrologers read the result as a relationship that consults before it decides, hears both sides and finds tactful words, often for other people as well as for itself. It can be more diplomatic than either of you."
   - q: "Does composite Mercury in Libra make a couple indecisive?"
     a: "Not by itself. Weighing both sides is how this relationship reaches a decision, and what it decides tends to feel fair to both people. The risk is waiting for a consensus so complete that the moment passes. Balance isn’t indecision, and a date set in advance usually settles it."
   - q: "Why is our composite Sun in Aries when composite Mercury is in Libra?"
@@ -32,7 +32,7 @@ A relationship with composite Mercury in Libra asks *what do you think?* and wai
 
 ## What it says about the two of you {#what-it-says}
 
-[The composite chart](/astrology/composite-chart/) gives every planet the halfway point of its two natal positions, and composite [Mercury](/astrology/mercury/) is the relationship's reasoning: how it weighs things up, decides and speaks for itself. [Libra](/astrology/libra/), cardinal air, gives it a mind built for two. Libra also opens the stretch of the zodiac where composite Mercury turns up most often: about 1 pair in 11 has it here, as in Scorpio, Sagittarius and Capricorn.
+Every planet of [the composite chart](/astrology/composite-chart/) is a halfway point, and its [Mercury](/astrology/mercury/) is the relationship's reasoning: how it weighs things up, decides and speaks for itself. [Libra](/astrology/libra/), cardinal air, gives it a mind built for two. Libra also opens the stretch of the zodiac where composite Mercury turns up most often: about 1 pair in 11 has it here, as in Scorpio, Sagittarius and Capricorn.
 
 This bond decides by consulting. Neither of you simply announces a plan; it's proposed, turned over and adjusted until it suits you both. It enjoys a good argument for the pleasure of hearing the other case well made. Fairness matters to it more than speed, and it has a gift for the tactful sentence, the one that says something difficult without making anyone lose face. Others often notice: friends bring their quarrels to the pair, colleagues ask the two of you to settle a disagreement. Diplomacy, here, is a property of the pair: either of you might be blunt in a meeting alone, and together you find the tactful word. [Mercury in Libra](/astrology/mercury-in-libra/) in a birth chart weighs things for one person; in the composite, the weighing is done by two.
 

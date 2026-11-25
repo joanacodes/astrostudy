@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Aquarius", "3rd house", "house cusps"]
 weight: 2544
 glyph: "♒"
-definition: "Aquarius on the 3rd house cusp gives fixed air to the house of everyday thinking, talk, siblings and short journeys. You tend to speak with everyone as an equal, ask how things work and keep a conclusion once you’ve reached it. Uranus and Saturn, its rulers, show what your words are for."
+definition: "Aquarius on the 3rd house cusp gives fixed air to the house of everyday thinking, talk, siblings and short trips. You tend to speak with everyone as an equal, ask how things work and keep a conclusion once you’ve reached it. Uranus and Saturn, its rulers, show what your words are for."
 facts:
   - { k: "Sign", v: "Aquarius ♒, fixed air" }
   - { k: "Cusp", v: "The 3rd house: talk, learning, the near world" }

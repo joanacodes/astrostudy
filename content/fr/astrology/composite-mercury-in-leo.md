@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Mercure", "Lion", "thème composite"]
 weight: 2029
 glyph: "☿♌"
-definition: "Mercure composite en Lion place le mi-point de deux positions natales de Mercure en feu fixe, le signe que gouverne le Soleil. Les astrologues y lisent une relation dotée d’une voix chaleureuse et assurée : elle raconte bien ses histoires, complimente volontiers et tient à ce qu’elle pense. Ce placement décrit la façon de parler du lien, pas son avenir."
+definition: "Mercure composite en Lion fait parler la relation depuis le feu fixe, signe du Soleil. Les astrologues y lisent une relation dotée d’une voix chaleureuse et assurée : elle raconte bien ses histoires, complimente volontiers et tient à ce qu’elle pense. Ce placement décrit la façon de parler du lien, pas son avenir."
 facts:
   - { k: "Corps", v: "Mercure composite ☿, mi-point le plus proche des positions de Mercure dans vos deux thèmes natals" }
   - { k: "Signe", v: "Lion ♌, feu fixe, gouverné par le Soleil ; aucune dignité pour Mercure" }
@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/mercury-in-leo", "/astrology/leo", "/astrology/sun", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Mercure composite en Lion : qu’est-ce que cela signifie ?"
-    a: "Cela signifie qu’à mi-chemin entre les positions de Mercure dans vos deux thèmes natals se trouve le Lion : le thème de la relation parle en feu fixe. Les astrologues y lisent un lien doté d’une voix à lui, chaleureuse et sûre d’elle, doué pour raconter son histoire, généreux en compliments, fidèle à ses idées. Cette voix appartient à la paire, et peut oser davantage que chacune des deux personnes."
+    a: "Que la relation a une voix bien à elle, chaleureuse et sûre d’elle. Avec Mercure composite en Lion, les astrologues lisent un lien qui raconte bien son histoire, complimente volontiers et reste fidèle à ses idées, quelle que soit la place de Mercure dans vos thèmes natals. Cette voix appartient à la paire, et peut oser davantage que chacune des deux personnes."
   - q: "Est-ce que Mercure composite en Lion a besoin d’un public ?"
     a: "De reconnaissance, plutôt que de public. Ce placement aime que ses idées soient entendues et son histoire bien racontée, ce que les autres apprécient souvent aussi. La relation peut aussi finir par préférer la version publique des faits à la version privée. La visibilité n’est pas la vanité, et une parole simple à la maison, sans personne pour écouter, garde l’équilibre."
   - q: "Où est le Soleil composite quand Mercure composite est en Lion ?"
-    a: "En général tout près, en Cancer, en Lion ou en Vierge : Mercure composite reste à moins de 28° environ du Soleil composite pour environ 17 paires sur 18. Comme le Soleil gouverne le Lion, ce placement a d’ordinaire son maître à portée de main. Pour environ 1 paire sur 26, pourtant, le Soleil composite se trouve en face, vers le Verseau."
+    a: "En général tout près, en Cancer, en Lion ou en Vierge : Mercure composite reste à moins de 28° environ du Soleil composite pour environ 17 paires sur 18. Comme le Soleil gouverne le Lion, ce placement a d’ordinaire son maître à portée de main. Une paire sur 26 environ fait pourtant exception : son Soleil composite se trouve en face, vers le Verseau."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Mercure composite en Lion, et son écart au Soleil composite" }
@@ -43,4 +43,4 @@ Le piège, c’est l’histoire qui devient la seule version. Une relation qui r
 
 D’un côté, [Mercure composite en Cancer](/astrology/composite-mercury-in-cancer/) pense par la mémoire et garde ses histoires à la maison ; de l’autre, [Mercure composite en Vierge](/astrology/composite-mercury-in-virgo/) vérifie les faits avant de dire quoi que ce soit. Le Lion raconte l’histoire, et la raconte bien.
 
-Aucun composite ne figure dans mes propres lectures : cette page décrit la technique, que les astrologues placent à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/). Avant qu’un thème de relation soit dressé, le public du lien se réduit à vous deux, et il faut le oui des deux ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Aucun composite ne figure dans mes propres lectures ; la technique se lit toujours en compagnie des deux thèmes natals et de la [synastrie](/astrology/synastry/). Avant qu’un thème de relation soit dressé, le public du lien se réduit à vous deux, et il faut le oui des deux ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

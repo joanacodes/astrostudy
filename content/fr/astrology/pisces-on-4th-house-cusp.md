@@ -14,7 +14,7 @@ definition: "Avec les Poissons sur la cuspide de la maison 4, le Fond du Ciel se
 facts:
   - { k: "Signe", v: "Poissons ♓, eau mutable" }
   - { k: "Cuspide", v: "Maison 4 : le foyer et les racines, à partir d’un Fond du Ciel en Poissons" }
-  - { k: "Maître", v: "Neptune ♆ (astrologie moderne) et Jupiter ♃ (tradition)" }
+  - { k: "Maître", v: "Neptune ♆ (astrologie tropicale moderne) et Jupiter ♃ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 13 à Londres et à New York" }
   - { k: "Milieu du Ciel", v: "Toujours la Vierge, gouvernée par Mercure" }
   - { k: "Ascendant", v: "Scorpion ou Sagittaire" }

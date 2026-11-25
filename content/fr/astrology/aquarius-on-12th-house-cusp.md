@@ -14,7 +14,7 @@ definition: "Le Verseau sur la cuspide de la maison 12 donne l’air fixe à la 
 facts:
   - { k: "Signe", v: "Verseau ♒, air fixe" }
   - { k: "Cuspide", v: "Maison 12 : le retrait, le repos, ce qui se passe hors de la vue" }
-  - { k: "Maître", v: "Uranus ♅ (astrologie moderne) et Saturne ♄ (tradition), qui a sa joie en maison 12" }
+  - { k: "Maître", v: "Uranus ♅ (astrologie tropicale moderne) et Saturne ♄ (tradition), qui a sa joie en maison 12" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 17 à Londres, 1 sur 15 à New York" }
   - { k: "Ascendant", v: "Bélier ou Poissons" }
   - { k: "Cuspide opposée", v: "Lion, en maison 6" }

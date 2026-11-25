@@ -14,7 +14,7 @@ definition: "Avec les Poissons sur la cuspide de la maison 7, le descendant tomb
 facts:
   - { k: "Signe", v: "Poissons ♓, eau mutable" }
   - { k: "Cuspide", v: "Maison 7, à partir d’un descendant en Poissons : les partenaires, les collaborateurs" }
-  - { k: "Maître", v: "Neptune ♆ (astrologie moderne) et Jupiter ♃ (tradition)" }
+  - { k: "Maître", v: "Neptune ♆ (astrologie tropicale moderne) et Jupiter ♃ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 8 à Londres, 1 sur 9 à New York" }
   - { k: "Ascendant", v: "Vierge, toujours" }
   - { k: "Milieu du Ciel", v: "Le plus souvent les Gémeaux" }

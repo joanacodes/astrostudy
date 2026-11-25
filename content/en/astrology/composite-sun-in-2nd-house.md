@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Sun", "2nd house", "composite chart"]
 weight: 1990
 glyph: "☉"
-definition: "Composite Sun in the 2nd house places the relationship chart’s Sun, halfway between two people’s natal Suns, in the house of resources and values. Astrologers read it as a bond organised around what the two people build, hold and care for together. It predicts no income, and its houses need both birth times."
+definition: "With a composite Sun in the 2nd house, the point halfway between two people’s natal Suns lies in the house of resources and values. What the two people build, hold and care for together becomes, in this reading, the bond’s centre. It predicts no income, and its houses need both birth times."
 facts:
   - { k: "Body", v: "The composite Sun ☉" }
   - { k: "House", v: "The 2nd house, of resources and values" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/sun-in-2nd-house", "/astrology/2nd-house", "/astrology/placidus", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Sun in the 2nd house mean?"
-    a: "That your relationship’s Sun falls in the house of resources and values. Astrologers read it as a bond organised around what the two of you value, build and look after together: a home, a skill, a store of time and trust. It describes the relationship’s priorities, not either person’s, and not its finances."
+    a: "Your composite Sun lands among resources and values, the stuff of the 2nd house. In composite reading, that makes what you value, build and look after together the bond’s centre: a home, a skill, a store of time and trust. It describes the relationship’s priorities, not either person’s, and not its finances."
   - q: "Does a composite Sun in the 2nd house mean we will be rich together?"
     a: "No. The 2nd house describes values, resources and security, not wealth, and a composite never predicts money. A pair with this placement tends to organise itself around what it holds and cares for, which can be a garden, a business, a set of shared principles or simply each other’s time."
   - q: "Do composite houses use Placidus?"
@@ -34,9 +34,9 @@ A composite Sun in the 2nd house sets the relationship's centre among the things
 
 In [Placidus](/astrology/placidus/), the house system I use for birth charts, the cusps between the angles take the most calculating, and [the composite chart](/astrology/composite-chart/) adds a second choice on top: each cusp can be the midpoint of your two natal cusps, or all of them can be rebuilt from the composite Midheaven for the place where you live. [The 2nd house](/astrology/2nd-house/) can start at different degrees in the two, and both depend on both birth times ([what changes without a birth time](/blog/unknown-birth-time/)), so a [Sun](/astrology/sun/) near its edges may be in it by one method and in a neighbouring house by the other.
 
-Read as the setting for the bond's Sun, the 2nd is about resources in the widest sense: skills, time, a home, a store of trust, the principles you'd both defend. A relationship with its composite Sun here tends to know itself by what it has gathered and how carefully it keeps it. It's steadied by security, and its purpose often involves stewardship: looking after something so that it lasts, for the two of you or for others. Values aren't prices, though, and the bond's sense of its worth needn't depend on what it owns.
+Resources, in the 2nd house, means more than money: skills, time, a home, a store of trust, the principles you'd both defend. A relationship with its composite Sun here tends to know itself by what it has gathered and how carefully it keeps it. It's steadied by security, and its purpose often involves stewardship: looking after something so that it lasts, for the two of you or for others. Values aren't prices, though, and the bond's sense of its worth needn't depend on what it owns.
 
-The 2nd is a succedent house, following the angular 1st, with Taurus as its natural sign, and tradition gave no planet its joy here. In one person's chart, the [Sun in the 2nd house](/astrology/sun-in-2nd-house/) is about self-worth; in synastry, [their Sun in your 2nd house](/astrology/sun-in-2nd-house-synastry/) is about what one person helps the other to value. A composite moves the question to the pair: what is this relationship worth to itself? Two people who were careless with their own things can become careful together, because what's at stake is shared.
+Succedent, following the angular 1st, the 2nd has Taurus for its natural sign and, in the old scheme of joys, no planet of its own. Self-worth is the theme of the [Sun in the 2nd house](/astrology/sun-in-2nd-house/) in one person's chart, and what one person helps the other to value is the theme of [their Sun in your 2nd house](/astrology/sun-in-2nd-house-synastry/) in synastry. A composite moves the question to the pair: what is this relationship worth to itself? Possessions neither of you cared much about alone can matter a great deal once they're shared.
 
 Security can become the whole story. Disagreements about spending or saving can feel like disagreements about who the two of you are, and a bond organised around keeping can find it hard to let anything go. Naming what each of you values on your own, apart from what you value together, takes some pressure off, and so does a yearly talk about what the two of you want to keep and what you could let go. None of it forecasts income or wealth: I never predict money, and no composite can say how much a pair will have. Either side of it, the [composite Sun in the 1st house](/astrology/composite-sun-in-1st-house/) gathers a bond around its presence and the [composite Sun in the 3rd house](/astrology/composite-sun-in-3rd-house/) around its daily conversation.
 

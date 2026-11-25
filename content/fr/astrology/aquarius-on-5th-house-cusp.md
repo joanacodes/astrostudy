@@ -14,7 +14,7 @@ definition: "Le Verseau sur la cuspide de la maison 5 place le plaisir, le jeu e
 facts:
   - { k: "Signe", v: "Verseau ♒, air fixe" }
   - { k: "Cuspide", v: "Maison 5 : le jeu, le plaisir, l’amour, la création" }
-  - { k: "Maître", v: "Uranus ♅ (astrologie moderne) et Saturne ♄ (tradition)" }
+  - { k: "Maître", v: "Uranus ♅ (astrologie tropicale moderne) et Saturne ♄ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 11, à Londres comme à New York" }
   - { k: "Ascendant", v: "Balance, parfois Vierge" }
   - { k: "Cuspide opposée", v: "Lion, en maison 11" }

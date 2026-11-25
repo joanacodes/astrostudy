@@ -14,7 +14,7 @@ definition: "Le Verseau sur la cuspide de la maison 7, c’est un descendant en 
 facts:
   - { k: "Signe", v: "Verseau ♒, air fixe" }
   - { k: "Cuspide", v: "Maison 7, à partir du descendant : les partenaires et les proches collaborateurs" }
-  - { k: "Maître", v: "Uranus ♅ (astrologie moderne) et Saturne ♄ (tradition)" }
+  - { k: "Maître", v: "Uranus ♅ (astrologie tropicale moderne) et Saturne ♄ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 8 à Londres, 1 sur 9 à New York" }
   - { k: "Ascendant", v: "Lion, toujours" }
   - { k: "Milieu du Ciel", v: "Bélier ou Taureau" }

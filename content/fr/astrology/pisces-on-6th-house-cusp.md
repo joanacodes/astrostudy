@@ -14,7 +14,7 @@ definition: "Les Poissons sur la cuspide de la maison 6 mettent l’eau mutable 
 facts:
   - { k: "Signe", v: "Poissons ♓, eau mutable" }
   - { k: "Cuspide", v: "Maison 6 : le travail, les routines, les collègues, le soin de soi" }
-  - { k: "Maître", v: "Neptune ♆ (astrologie moderne) et Jupiter ♃ (tradition)" }
+  - { k: "Maître", v: "Neptune ♆ (astrologie tropicale moderne) et Jupiter ♃ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 10, à Londres comme à New York" }
   - { k: "Ascendant", v: "Balance, parfois Vierge" }
   - { k: "Cuspide opposée", v: "Vierge, en maison 12" }

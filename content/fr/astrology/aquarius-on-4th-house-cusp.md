@@ -14,7 +14,7 @@ definition: "Avec le Verseau sur la cuspide de la maison 4, votre Fond du Ciel s
 facts:
   - { k: "Signe", v: "Verseau ♒, air fixe" }
   - { k: "Cuspide", v: "Maison 4 : le foyer et les racines, à partir du Fond du Ciel" }
-  - { k: "Maître", v: "Uranus ♅ (astrologie moderne) et Saturne ♄ (tradition)" }
+  - { k: "Maître", v: "Uranus ♅ (astrologie tropicale moderne) et Saturne ♄ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 12, à Londres comme à New York" }
   - { k: "Milieu du Ciel", v: "Toujours le Lion, gouverné par le Soleil" }
   - { k: "Ascendant", v: "Scorpion, parfois Balance" }

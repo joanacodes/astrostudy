@@ -14,7 +14,7 @@ definition: "Le Verseau sur la cuspide de la maison 11 place le signe dans sa ma
 facts:
   - { k: "Signe", v: "Verseau ♒, air fixe" }
   - { k: "Cuspide", v: "Maison 11 : les alliés, les cercles, les projets partagés" }
-  - { k: "Maître", v: "Uranus ♅ (astrologie moderne) et Saturne ♄ (tradition), maîtres naturels de la maison 11" }
+  - { k: "Maître", v: "Uranus ♅ (astrologie tropicale moderne) et Saturne ♄ (tradition), maîtres naturels de la maison 11" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 14 à Londres, 1 sur 13 à New York" }
   - { k: "Ascendant", v: "Taureau, parfois Gémeaux ou Bélier" }
   - { k: "Milieu du Ciel", v: "Le plus souvent le Capricorne" }

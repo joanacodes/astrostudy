@@ -14,7 +14,7 @@ definition: "Les Poissons sur la cuspide de la maison 9 placent les convictions,
 facts:
   - { k: "Signe", v: "Poissons ♓, eau mutable" }
   - { k: "Cuspide", v: "Maison 9 : les convictions, les études, les longs voyages" }
-  - { k: "Maître", v: "Neptune ♆ (astrologie moderne) et Jupiter ♃ (tradition, et maître naturel de la maison 9)" }
+  - { k: "Maître", v: "Neptune ♆ (astrologie tropicale moderne) et Jupiter ♃ (tradition, et maître naturel de la maison 9)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 11 à Londres, 1 sur 12 à New York" }
   - { k: "Ascendant", v: "Lion ou Cancer" }
   - { k: "Milieu du Ciel", v: "Le plus souvent le Bélier" }

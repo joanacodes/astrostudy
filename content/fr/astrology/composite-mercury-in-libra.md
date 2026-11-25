@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/mercury-in-libra", "/astrology/libra", "/astrology/davison-chart", "/blog/synastry-behind-their-back"]
 faq:
   - q: "À quoi ressemble Mercure composite en Balance ?"
-    a: "À mi-chemin entre les positions de Mercure dans vos deux thèmes natals se trouve la Balance : le thème de la relation raisonne en air cardinal. Les astrologues y lisent un lien qui consulte avant de décider, entend les deux côtés et trouve des mots pleins de tact, souvent pour d’autres autant que pour lui-même. Cela décrit la paire, parfois plus diplomate que chacune des deux personnes."
+    a: "Le mi-point de vos deux positions natales de Mercure tombe en Balance, et les astrologues y lisent une relation qui consulte avant de décider, entend les deux côtés et trouve des mots pleins de tact, souvent pour d’autres autant que pour elle-même. Ce lien peut se montrer plus diplomate que chacune des deux personnes."
   - q: "Est-ce que Mercure composite en Balance rend un couple indécis ?"
     a: "Pas en soi. Peser les deux côtés est la façon dont cette relation arrive à une décision, et ce qu’elle décide paraît en général équitable aux deux personnes. Le risque, c’est d’attendre un consensus si complet que le moment passe. L’équilibre n’est pas l’indécision, et une date fixée d’avance règle en général la question."
   - q: "Pourquoi notre Soleil composite est-il en Bélier quand Mercure composite est en Balance ?"
@@ -33,7 +33,7 @@ Une relation avec Mercure composite en Balance demande *qu’en penses-tu ?* e
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-[Le thème composite](/astrology/composite-chart/) donne à chaque planète le mi-point de ses deux positions natales, et [Mercure](/astrology/mercury/) composite décrit le raisonnement de la relation : sa façon de peser, de décider et de parler en son nom. La [Balance](/astrology/libra/), air cardinal, en fait un esprit fait pour deux. Elle ouvre aussi la portion du zodiaque où Mercure composite se rencontre le plus souvent : environ 1 paire sur 11 a Mercure composite ici, autant qu’en Scorpion, en Sagittaire et en Capricorne.
+Un [thème composite](/astrology/composite-chart/) se calcule planète par planète, à mi-chemin, et [Mercure](/astrology/mercury/) composite y décrit le raisonnement de la relation : sa façon de peser, de décider et de parler en son nom. La [Balance](/astrology/libra/), air cardinal, en fait un esprit fait pour deux. Elle ouvre aussi la portion du zodiaque où Mercure composite se rencontre le plus souvent : environ 1 paire sur 11 a Mercure composite ici, autant qu’en Scorpion, en Sagittaire et en Capricorne.
 
 Ce lien décide en consultant. Aucune des deux personnes n’annonce simplement un projet : il est proposé, retourné, ajusté jusqu’à convenir aux deux. Il aime une bonne discussion pour le plaisir d’entendre l’autre point de vue bien défendu. L’équité compte plus pour ce lien que la vitesse, et il a le don de la phrase pleine de tact, celle qui dit une chose difficile sans faire perdre la face à personne. Les autres le remarquent souvent : des amis viennent soumettre leurs disputes à la paire, des collègues vous demandent de trancher un désaccord. La diplomatie est ici une qualité de la paire : chacune des deux personnes peut se montrer abrupte en réunion, et ensemble vous trouvez le mot plein de tact. Dans un thème natal, [Mercure en Balance](/astrology/mercury-in-libra/) pèse les choses pour une personne ; dans le composite, la pesée se fait à deux.
 

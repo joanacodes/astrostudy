@@ -14,7 +14,7 @@ definition: "Les Poissons sur la cuspide de la maison 5 placent la créativité,
 facts:
   - { k: "Signe", v: "Poissons ♓, eau mutable" }
   - { k: "Cuspide", v: "Maison 5 : le plaisir, le jeu, l’amour, la création" }
-  - { k: "Maître", v: "Neptune ♆ (astrologie moderne) et Jupiter ♃ (tradition)" }
+  - { k: "Maître", v: "Neptune ♆ (astrologie tropicale moderne) et Jupiter ♃ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 11 à Londres, 1 sur 12 à New York" }
   - { k: "Ascendant", v: "Scorpion ou Balance" }
   - { k: "Milieu du Ciel", v: "Le plus souvent le Lion" }

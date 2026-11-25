@@ -14,7 +14,7 @@ definition: "Le Verseau sur la cuspide de la maison 9 place les convictions, les
 facts:
   - { k: "Signe", v: "Verseau ♒, air fixe" }
   - { k: "Cuspide", v: "Maison 9 : les convictions, les études, l’horizon lointain" }
-  - { k: "Maître", v: "Uranus ♅ (astrologie moderne) et Saturne ♄ (tradition)" }
+  - { k: "Maître", v: "Uranus ♅ (astrologie tropicale moderne) et Saturne ♄ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 11 à Londres et à New York" }
   - { k: "Ascendant", v: "Cancer, parfois Gémeaux" }
   - { k: "Milieu du Ciel", v: "Le plus souvent les Poissons" }

@@ -14,7 +14,7 @@ definition: "Avec les Poissons sur la cuspide de la maison 3, votre esprit de to
 facts:
   - { k: "Signe", v: "Poissons ♓, eau mutable" }
   - { k: "Cuspide", v: "Maison 3 : la pensée quotidienne, la parole, la fratrie, le voisinage" }
-  - { k: "Maître", v: "Neptune ♆ (astrologie moderne) et Jupiter ♃ (tradition)" }
+  - { k: "Maître", v: "Neptune ♆ (astrologie tropicale moderne) et Jupiter ♃ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 16 à Londres, 1 sur 15 à New York" }
   - { k: "Ascendant", v: "Sagittaire (toujours, à Londres)" }
   - { k: "Cuspide opposée", v: "Vierge, en maison 9" }

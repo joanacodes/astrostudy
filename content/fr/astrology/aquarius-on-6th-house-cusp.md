@@ -14,7 +14,7 @@ definition: "Le Verseau sur la cuspide de la maison 6 met l’air fixe dans le t
 facts:
   - { k: "Signe", v: "Verseau ♒, air fixe" }
   - { k: "Cuspide", v: "Maison 6 : le travail quotidien, les routines, les collègues" }
-  - { k: "Maître", v: "Uranus ♅ (astrologie moderne) et Saturne ♄ (tradition)" }
+  - { k: "Maître", v: "Uranus ♅ (astrologie tropicale moderne) et Saturne ♄ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 9 à Londres, 1 sur 10 à New York" }
   - { k: "Ascendant", v: "Vierge, dans plus de 9 thèmes sur 10" }
   - { k: "Cuspide opposée", v: "Lion, en maison 12" }

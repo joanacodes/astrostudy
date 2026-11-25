@@ -14,7 +14,7 @@ definition: "Les Poissons sur la cuspide de la maison 11 mettent l’eau mutable
 facts:
   - { k: "Signe", v: "Poissons ♓, eau mutable" }
   - { k: "Cuspide", v: "Maison 11 : les alliés, les cercles, les causes partagées" }
-  - { k: "Maître", v: "Neptune ♆ (astrologie moderne) et Jupiter ♃ (tradition)" }
+  - { k: "Maître", v: "Neptune ♆ (astrologie tropicale moderne) et Jupiter ♃ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 16 à Londres, 1 sur 15 à New York" }
   - { k: "Milieu du Ciel", v: "Toujours le Verseau" }
   - { k: "Ascendant", v: "Gémeaux, parfois Cancer ou Taureau" }

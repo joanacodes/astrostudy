@@ -17,12 +17,12 @@ facts:
   - { k: "Needs", v: "Both birth dates, and both times when the midpoint lies near 0° Scorpio or 0° Sagittarius" }
 related: ["/astrology/composite-chart", "/astrology/mercury-in-scorpio", "/astrology/scorpio", "/astrology/traditional-and-modern-rulers", "/blog/synastry-behind-their-back"]
 faq:
-  - q: "What does composite Mercury in Scorpio reveal about a relationship?"
-    a: "That the relationship’s shared mind works in depth. Composite Mercury, the midpoint of your two natal Mercurys, falls in Scorpio, and astrologers read the bond as one that reads subtext, keeps confidences and asks the questions other pairs leave alone. That mind may run deeper than either of yours."
+  - q: "What does a relationship with composite Mercury in Scorpio talk about?"
+    a: "What lies under the surface. Composite Mercury, the midpoint of your two natal Mercurys, falls in Scorpio, and astrologers read the bond as one that reads subtext, keeps confidences and asks the questions other pairs leave alone. Its mind may run deeper than either of yours."
   - q: "Does composite Mercury in Scorpio mean secrets?"
     a: "Privacy, more than secrets. This relationship tends to keep what is said between the two people in it, and to choose carefully what it shares with others. Depth isn’t secrecy. Where it can go wrong is silence used instead of words, and that is a habit two people can change."
   - q: "Who rules composite Mercury in Scorpio?"
-    a: "Scorpio has two rulers, Mars in the tradition and Pluto in modern tropical astrology, and in a birth chart I read both. In a composite each is a midpoint too: composite Mars shows where the bond acts on what it learns, while composite Pluto mostly reflects the generations you were born into."
+    a: "Two planets share the job: Mars, Scorpio’s ruler in the tradition, and Pluto, its modern one, and in a birth chart I read both. In a composite each is a midpoint too: composite Mars shows where the bond acts on what it learns, while composite Pluto mostly reflects the generations you were born into."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Mercury falls in Scorpio, and how far it strays from the composite Sun" }

@@ -23,7 +23,7 @@ faq:
   - q: "Est-ce que Mercure composite en Scorpion veut dire des secrets ?"
     a: "De la discrétion, plus que des secrets. Cette relation garde en général pour elle ce qui se dit entre les deux personnes qui la forment, et choisit avec soin ce qu’elle partage. La profondeur n’est pas le secret. Le risque, c’est le silence employé à la place des mots, une habitude que deux personnes peuvent changer."
   - q: "Quel est le maître de Mercure composite en Scorpion ?"
-    a: "Le Scorpion a deux maîtres, Mars pour la tradition et Pluton pour l’astrologie tropicale moderne, et dans un thème natal je lis les deux. Dans un composite, ces deux maîtres sont aussi des mi-points : Mars composite montre où le lien agit sur ce qu’il apprend, tandis que Pluton composite reflète surtout les générations dont vous venez."
+    a: "Deux planètes se partagent ce rôle : Mars, maître du Scorpion dans la tradition, et Pluton, son maître moderne, et je lis les deux dans un thème natal. Dans un composite, ces deux maîtres sont aussi des mi-points : Mars composite montre où le lien agit sur ce qu’il apprend, tandis que Pluton composite reflète surtout les générations dont vous venez."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Mercure composite en Scorpion, et son écart au Soleil composite" }

@@ -14,7 +14,7 @@ definition: "Les Poissons sur la cuspide de la maison 10 donnent à votre vie pu
 facts:
   - { k: "Signe", v: "Poissons ♓, eau mutable" }
   - { k: "Cuspide", v: "Maison 10, à partir d’un Milieu du Ciel en Poissons : la vocation, la position, la réputation" }
-  - { k: "Maître", v: "Neptune ♆ (astrologie moderne) et Jupiter ♃ (tradition)" }
+  - { k: "Maître", v: "Neptune ♆ (astrologie tropicale moderne) et Jupiter ♃ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 13, à Londres comme à New York" }
   - { k: "Ascendant", v: "Cancer (toujours, à Londres)" }
   - { k: "Cuspide opposée", v: "Vierge, au Fond du Ciel" }

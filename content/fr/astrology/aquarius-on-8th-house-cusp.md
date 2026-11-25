@@ -14,7 +14,7 @@ definition: "Le Verseau sur la cuspide de la maison 8 donne l’air fixe à la m
 facts:
   - { k: "Signe", v: "Verseau ♒, air fixe" }
   - { k: "Cuspide", v: "Maison 8 : l’intimité, la confiance, ce que vous partagez ou devez" }
-  - { k: "Maître", v: "Uranus ♅ (astrologie moderne) et Saturne ♄ (tradition)" }
+  - { k: "Maître", v: "Uranus ♅ (astrologie tropicale moderne) et Saturne ♄ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 9 à Londres, 1 sur 10 à New York" }
   - { k: "Ascendant", v: "Cancer ou Lion" }
   - { k: "Cuspide opposée", v: "Lion, en maison 2" }

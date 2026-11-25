@@ -14,7 +14,7 @@ definition: "Avec le Verseau sur la cuspide de la maison 2, votre argent, vos bi
 facts:
   - { k: "Signe", v: "Verseau ♒, air fixe" }
   - { k: "Cuspide", v: "Maison 2 : ce que vous gagnez, possédez et estimez" }
-  - { k: "Maître", v: "Uranus ♅ (astrologie moderne) et Saturne ♄ (tradition)" }
+  - { k: "Maître", v: "Uranus ♅ (astrologie tropicale moderne) et Saturne ♄ (tradition)" }
   - { k: "Fréquence", v: "Environ 1 naissance sur 17 à Londres, 1 sur 15 à New York" }
   - { k: "Ascendant", v: "Capricorne ou Sagittaire" }
   - { k: "Cuspide opposée", v: "Lion, en maison 8" }

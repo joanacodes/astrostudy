@@ -17,8 +17,8 @@ facts:
   - { k: "Needs", v: "Both birth dates, and both times when the midpoint lies near 0° Leo or 0° Virgo" }
 related: ["/astrology/composite-chart", "/astrology/mercury-in-leo", "/astrology/leo", "/astrology/sun", "/blog/synastry-behind-their-back"]
 faq:
-  - q: "What does a composite Mercury in Leo say about two people?"
-    a: "That halfway between your two natal Mercurys lies Leo, so the relationship’s chart speaks in fixed fire. Astrologers read it as a bond with a voice of its own, warm and sure of itself: good at telling its story, generous with praise, loyal to its views. It belongs to the pair, and can be bolder than either of you."
+  - q: "Composite Mercury in Leo: what kind of voice does the relationship have?"
+    a: "A voice of its own, warm and sure of itself. With composite Mercury in Leo, astrologers read a bond that tells its story well, praises generously and stays loyal to its views, whatever the two natal Mercurys are like. That voice belongs to the pair, and can be bolder than either of you."
   - q: "Does composite Mercury in Leo mean the relationship needs an audience?"
     a: "Recognition, more than an audience. This Mercury likes its ideas heard and its story told well, which other people often enjoy too. It can also come to prefer the public version of events to the private one. Visibility isn’t vanity, and plain talk at home, with nobody listening, keeps the two in balance."
   - q: "Where is the composite Sun when composite Mercury is in Leo?"
@@ -42,4 +42,4 @@ The trap is the story that becomes the only version. A relationship that tells i
 
 On one side, [composite Mercury in Cancer](/astrology/composite-mercury-in-cancer/) thinks through memory and keeps its stories at home; on the other, [composite Mercury in Virgo](/astrology/composite-mercury-in-virgo/) checks the facts before it says anything. Leo tells the story, and tells it well.
 
-No composite appears in my own readings: this page describes the technique, which astrologers set beside both birth charts and the [synastry](/astrology/synastry/). Before any relationship chart is drawn, the bond's audience is just the two of you, and both have to say yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+No composite appears in my own readings, and those who use the technique never read it without both birth charts and the [synastry](/astrology/synastry/). Before any relationship chart is drawn, the bond's audience is just the two of you, and both have to say yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

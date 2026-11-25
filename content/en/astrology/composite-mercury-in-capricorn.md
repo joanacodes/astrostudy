@@ -28,11 +28,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Mercury falls in Capricorn, and how far it strays from the composite Sun" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Saturn among the placements that held best, in birth charts" }
 ---
-Some pairs keep a shared calendar the way other people keep a diary. Composite Mercury in Capricorn describes a relationship whose shared mind works like that: it plans, it sequences, and it likes to know what happens next and who is doing it.
+Some pairs keep a shared calendar the way other people keep a diary, and composite Mercury in Capricorn is that habit of mind in the relationship's own chart: it plans, it sequences, and it likes to know what happens next and who is doing it.
 
 ## What it says about the two of you {#what-it-says}
 
-[The composite chart](/astrology/composite-chart/) gives each planet the midpoint of its two natal positions, and composite [Mercury](/astrology/mercury/) is the relationship's thinking: how it takes decisions, organises information and speaks for itself. [Capricorn](/astrology/capricorn/), cardinal earth, makes that thinking purposeful. Capricorn also closes the run of four signs, from Libra on, where composite Mercury turns up most often: about 1 pair in 11.
+In [the composite chart](/astrology/composite-chart/), the midpoint of your two natal Mercurys becomes the relationship's own [Mercury](/astrology/mercury/), its thinking: how it takes decisions, organises information and speaks for itself. [Capricorn](/astrology/capricorn/), cardinal earth, makes that thinking purposeful. Capricorn also closes the run of four signs, from Libra on, where composite Mercury turns up most often: about 1 pair in 11.
 
 This bond thinks in plans and steps. A conversation tends to end with a decision and a date, and the date is kept. It weighs the long term: the move considered over five years rather than five weeks, the project broken into stages. Its words are measured, its promises small enough to keep, and its humour often dry. Information gets filed, too: this is the pair that can find the warranty, the old address or the date of the last boiler service the moment they're needed. The organising belongs to the bond: in your separate lives the paperwork may pile up, while the things you share run on time. Where a natal [Mercury in Capricorn](/astrology/mercury-in-capricorn/) plans one life, the composite plans a shared one, and the two needn't agree.
 

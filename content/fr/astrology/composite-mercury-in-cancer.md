@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Mercure", "Cancer", "thème composite"]
 weight: 2028
 glyph: "☿♋"
-definition: "Mercure composite en Cancer place la pensée du lien, mi-point de deux positions natales de Mercure, en eau cardinale, le signe de la Lune. Les astrologues y lisent une relation qui pense par la mémoire et le ressenti : elle se rappelle comment les choses ont été dites et garde un vocabulaire privé. Ce placement décrit la paire, pas son avenir."
+definition: "Mercure composite en Cancer : la pensée du lien, mi-point de deux positions natales de Mercure, loge en eau cardinale, signe de la Lune. Les astrologues y lisent une relation qui pense par la mémoire et le ressenti : elle se rappelle comment les choses ont été dites et garde un vocabulaire privé. Ce placement décrit la paire, pas son avenir."
 facts:
   - { k: "Corps", v: "Mercure composite ☿, mi-point le plus proche des positions de Mercure dans vos deux thèmes natals" }
   - { k: "Signe", v: "Cancer ♋, eau cardinale, gouverné par la Lune ; aucune dignité pour Mercure" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/mercury-in-cancer", "/astrology/cancer", "/astrology/moon", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Mercure composite en Cancer pour un couple ?"
-    a: "Qu’à mi-chemin entre les positions de Mercure dans vos deux thèmes natals se trouve le Cancer, le signe de la Lune. Les astrologues lisent l’esprit de la relation comme passant par la mémoire et le ressenti : il se rappelle comment les choses ont été dites, perçoit le ton avant les mots et garde un vocabulaire à lui. Cela décrit la paire, pas chacune des deux personnes."
+    a: "Que la relation pense par la mémoire et le ressenti : Mercure composite tombe dans le Cancer, signe de la Lune. Les astrologues y lisent un esprit commun qui se rappelle comment les choses ont été dites, perçoit le ton avant les mots et garde un vocabulaire à lui. Cela décrit la paire, pas chacune des deux personnes."
   - q: "Mercure composite en Cancer, est-ce bon pour la communication ?"
     a: "Ce placement donne à une relation le sens de ce qui est voulu autant que de ce qui est dit, ce qui peut en faire un lieu tendre pour parler. L’envers, c’est le détour : une blessure montrée par une humeur plutôt que par une phrase. Bien communiquer dépend des deux personnes, de leurs thèmes et de leurs choix."
   - q: "Est-ce que Mercure composite en Cancer peut être loin du Soleil composite ?"

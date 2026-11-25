@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Sun", "11th house", "composite chart"]
 weight: 1999
 glyph: "☉"
-definition: "Composite Sun in the 11th house means the relationship chart’s Sun, the midpoint of two people’s Suns, falls in the house of friends, groups and hopes, which tradition called the Good Spirit. Astrologers read it as a bond centred on friendship and a shared future. Its houses need both birth times."
+definition: "In a composite Sun in the 11th house, the midpoint of two people’s Suns falls among friends, groups and hopes, in the house tradition called the Good Spirit. Friendship and a shared future sit at the centre of the bond it describes. Its houses need both birth times."
 facts:
   - { k: "Body", v: "The composite Sun ☉" }
   - { k: "House", v: "The 11th house, of friends and shared hopes" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/sun-in-11th-house", "/astrology/11th-house", "/astrology/planetary-joys", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Sun in the 11th house mean?"
-    a: "That your relationship’s Sun falls in the house of friends, groups and hopes. Astrologers read it as a bond centred on friendship and a shared future: the circle you gather, the causes you join, the plans you make for years ahead. It describes the relationship, couple or not, and not either person."
+    a: "The Sun of your relationship chart is in the 11th, among friends, groups and hopes. Friendship and a shared future are its centre: the circle you gather, the causes you join, the plans you make for years ahead. Couple or not, the chart is the pair’s."
   - q: "Does a composite Sun in the 11th house mean friendship rather than romance?"
     a: "Not exactly. It describes a bond whose centre is friendship and shared hopes, which can be a romance in which the two people are also good friends as easily as a friendship. A composite doesn’t decide what kind of relationship two people have, or how long it lasts."
   - q: "Why can the two methods of composite houses disagree about the 11th?"
@@ -34,9 +34,9 @@ Friends, groups and the future you're working towards belong to the 11th house. 
 
 [The 11th house](/astrology/11th-house/) of [the composite chart](/astrology/composite-chart/) begins at the first cusp after the composite Midheaven, and that's where the two ways of drawing composite houses part company. By one, the 11th cusp is the midpoint of your two natal 11th cusps; by the other, it's rebuilt from the composite Midheaven for the place where you live. Both rest on your two birth times ([what changes without a birth time](/blog/unknown-birth-time/)), so the 11th's borders, and a [Sun](/astrology/sun/) near them, can shift with the method as well as with the times.
 
-As the setting for the bond's Sun, the 11th is about friendship and the future. A relationship like this is often a friendship at heart, whatever else it is, and it tends to sit at the centre of a circle: the house where people drop in, the group chat that started with the two of you, the projects friends join because you asked. For a couple, it often means being each other's closest friend first; for two colleagues, the kind of alliance that outlasts the job. It's revived by shared hopes, and its purpose often points ahead, towards something you're building for later, or for more people than yourselves.
+Friendship and the future are the 11th house's concerns. A relationship like this is often a friendship at heart, whatever else it is, and it tends to sit at the centre of a circle: the house where people drop in, the group chat that started with the two of you, the projects friends join because you asked. For a couple, it often means being each other's closest friend first; for two colleagues, the kind of alliance that outlasts the job. It's revived by shared hopes, and its purpose often points ahead, towards something you're building for later, or for more people than yourselves.
 
-The 11th is succedent, with Aquarius as its natural sign; tradition called it the Good Spirit and gave Jupiter its joy here ([planetary joys](/astrology/planetary-joys/)). In a birth chart, the [Sun in the 11th house](/astrology/sun-in-11th-house/) describes one person among friends and causes; in synastry, [their Sun in your 11th house](/astrology/sun-in-11th-house-synastry/) is about someone who brightens your hopes and your circle. In a composite, the circle forms around the pair, and two people who've each had few friends can find a crowd gathering round them together.
+Jupiter had its joy in the 11th, which tradition called the Good Spirit ([planetary joys](/astrology/planetary-joys/)); the house is succedent, and its natural sign is Aquarius. A birth chart's [Sun in the 11th house](/astrology/sun-in-11th-house/) shows one person among friends and causes; the overlay [their Sun in your 11th house](/astrology/sun-in-11th-house-synastry/) shows someone brightening another's hopes and circle. The composite's circle forms around the pair itself, and people who each had few friends can find a small crowd gathering once they're together.
 
 A bond centred on the circle can rarely be alone. The calendar fills with other people, the relationship becomes a hub, and the two of you can end up catching up with each other last. Friendship isn't popularity, and the bond doesn't have to host everyone to stay itself. A hope that belongs only to the two of you, said out loud now and then, keeps the centre where it is, and so does knowing which friendships are the bond's and which are each person's own, and keeping both. None of this forecasts how long the relationship will last or what it will become.
 

@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Mercury", "Sagittarius", "composite chart"]
 weight: 2033
 glyph: "☿♐"
-definition: "Composite Mercury in Sagittarius sets a relationship’s mind in mutable fire, the sign of Jupiter and Mercury’s detriment. Astrologers read it as a bond that thinks big and speaks frankly: it argues about ideas, plans journeys and courses, and looks for meaning, sometimes at the expense of detail. It describes the pair’s outlook, not its future."
+definition: "Composite Mercury in Sagittarius sets a relationship’s mind in mutable fire, the sign of Jupiter and Mercury’s detriment. Astrologers read it as a bond that thinks big and speaks frankly: it argues about ideas, plans journeys and courses, and looks for meaning, sometimes at the expense of detail. That is the pair’s outlook, not a forecast."
 facts:
   - { k: "Body", v: "Composite Mercury ☿, the nearer midpoint of your two natal Mercurys" }
   - { k: "Sign", v: "Sagittarius ♐, mutable fire, ruled by Jupiter; Mercury’s detriment" }
@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Mercury falls in Sagittarius, and how often it lies opposite the composite Sun" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Jupiter as the ruler of Sagittarius, and Mercury’s detriment" }
 ---
-Some pairs can't book a weekend away without debating what travel is for. Composite Mercury in Sagittarius gives a relationship that kind of mind: wide-angled, frank, and happiest when a conversation ends somewhere bigger than where it began.
+Some pairs can't book a weekend away without debating what travel is for. That's the mind composite Mercury in Sagittarius describes: wide-angled, frank, and happiest when a conversation ends somewhere bigger than where it began.
 
 ## What it says about the two of you {#what-it-says}
 
