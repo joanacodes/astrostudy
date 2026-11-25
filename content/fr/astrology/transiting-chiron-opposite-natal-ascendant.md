@@ -43,7 +43,7 @@ Cela peut aller dans plusieurs sens. Vous pouvez rencontrer quelqu’un qui port
 
 Rien ici ne prédit qu’une relation commence, tienne ou finisse. Et si l’envie vous prend de regarder le thème d’une ou d’un partenaire pour comprendre le point sensible entre vous, demandez-le-lui d’abord : je ne lis jamais le thème de quelqu’un dans son dos ([Synastrie et consentement](/blog/synastry-behind-their-back/)).
 
-En Placidus, le système de maisons que j’utilise, le Descendant est la cuspide de la maison 7 : ce passage clôt le séjour de Chiron dans votre maison 6, celle du travail quotidien et des habitudes ([Chiron en transit en maison 6](/astrology/chiron-transit-6th-house/)), et ouvre son séjour dans votre maison 7 ([Chiron en transit en maison 7](/astrology/chiron-transit-7th-house/)). Ces maisons, et la date du passage, viennent de votre heure de naissance ; sans elle, je ne lis pas le thème, couple compris ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+En Placidus, le système de maisons que j’utilise, le Descendant est la cuspide de la maison 7 : ce passage clôt le séjour de Chiron dans votre maison 6, celle du travail quotidien et des habitudes ([Chiron en transit en maison 6](/astrology/chiron-transit-6th-house/)), et ouvre son séjour dans votre maison 7 ([Chiron en transit en maison 7](/astrology/chiron-transit-7th-house/)). Ces maisons, et la date du passage, dépendent d’une heure de naissance notée ; si elle manque, je ne lis pas le thème, couple compris ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

@@ -52,7 +52,7 @@ Chiron's round of about 50 years brings this crossing twice by 80 for most peopl
 
 A crossing of the Ascendant is only as precise as the clock time on your birth record. The rising degree moves about a degree every four minutes, and Chiron in its slow signs can take months over a degree, so a time out by ten minutes can shift this transit by months. Without a recorded time there is no rising degree, and I don't read the chart ([what changes without a birth time](/blog/unknown-birth-time/)); [how to find your birth time](/astrology/how-to-find-your-birth-time/) lists the records worth asking for.
 
-The crossing opens Chiron's round with your Ascendant. [Transiting Chiron sextile natal Ascendant](/astrology/transiting-chiron-sextile-natal-ascendant/), [transiting Chiron square natal Ascendant](/astrology/transiting-chiron-square-natal-ascendant/), [transiting Chiron trine natal Ascendant](/astrology/transiting-chiron-trine-natal-ascendant/) and [transiting Chiron opposite natal Ascendant](/astrology/transiting-chiron-opposite-natal-ascendant/) follow in turn, and the first three come back in reverse before the next crossing.
+After the crossing, Chiron works through the lower half of your chart, making [transiting Chiron sextile natal Ascendant](/astrology/transiting-chiron-sextile-natal-ascendant/), [transiting Chiron square natal Ascendant](/astrology/transiting-chiron-square-natal-ascendant/) and [transiting Chiron trine natal Ascendant](/astrology/transiting-chiron-trine-natal-ascendant/) on its way to your Descendant, where [transiting Chiron opposite natal Ascendant](/astrology/transiting-chiron-opposite-natal-ascendant/) falls; the same three come again, in reverse order, across the upper half.
 
 ## What helps {#what-helps}
 

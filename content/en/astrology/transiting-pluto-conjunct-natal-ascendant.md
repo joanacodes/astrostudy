@@ -33,11 +33,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the Ascendant within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to the Ascendant" }
 ---
-When Pluto reaches the degree that was rising at your birth, the planet of depth stands on the threshold of your chart. Only your birth time can place that degree, so without it this transit has no date, which is one reason I don't read a chart without the time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The degree that was rising at your birth is the threshold of your chart, and this transit puts the planet of depth on it. Only your birth time can place that degree, so without it this transit has no date, which is one reason I don't read a chart without the time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## What changes {#what-changes}
 
-The [Ascendant](/astrology/ascendant/) is your orientation: the stance you take before you've had time to think, the way you start a day, a job, a conversation. [Pluto](/astrology/pluto/) transforms and empowers, bringing up what lies underneath. In a [conjunction](/astrology/conjunction/) the two act as one process, so under this [transit](/astrology/transits/) the way you begin is reworked from below. A manner adopted to be acceptable can start to feel like a costume; a habit of guarding yourself on arrival can ease, or harden for a while before it eases. Other people may notice before you do that you arrive with more weight than you used to.
+The [Ascendant](/astrology/ascendant/) is your orientation: the stance you take before you've had time to think, the way you start a day, a job, a conversation. [Pluto](/astrology/pluto/) transforms and empowers, bringing up what lies underneath. At the [conjunction](/astrology/conjunction/), Pluto and your rising degree become one process, so under this [transit](/astrology/transits/) the way you begin is reworked from below. A manner adopted to be acceptable can start to feel like a costume; a habit of guarding yourself on arrival can ease, or harden for a while before it eases. Other people may notice before you do that you arrive with more weight than you used to.
 
 The Ascendant's blind spot is confusing a first response with a permanent identity, and Pluto's is confusing intensity with truth: a stronger manner can feel like the real you simply because it is stronger. What changes is your way in, not who you are. No transit to the Ascendant forecasts an illness, an accident or a change in your looks ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)).
 

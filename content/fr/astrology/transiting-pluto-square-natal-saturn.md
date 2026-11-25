@@ -34,11 +34,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le carré dans mes orbes, et qui le vit avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Saturne, un par un" }
 ---
-À un quart de zodiaque de Saturne dans votre thème natal, Pluton appuie à angle droit sur les structures sur lesquelles vous comptez. Pendant deux ans ou plus, ce que vous avez bâti doit plier, changer de forme ou prouver qu’il porte encore.
+À un quart de zodiaque de Saturne dans votre thème natal, Pluton appuie à angle droit sur les structures sur lesquelles vous comptez. Ce que vous avez bâti doit, sur deux ans ou plus, plier, changer de forme ou prouver qu’il porte encore.
 
 ## Ce qui change {#ce-qui-change}
 
-[Saturne](/astrology/saturn/) établit la structure : les règles, les rôles, les engagements, les limites qui rendent possible le travail de longue haleine. [Pluton](/astrology/pluto/) retire ce qui est devenu obsolète, pour que quelque chose de plus viable puisse pousser. Un [carré](/astrology/square/), à 90°, relie les deux fonctions par une friction constructive : aucune ne remplace l’autre, et chacune accroche sans cesse l’autre. Sous ce [transit](/astrology/transits/), une charge de travail peut devenir impossible à porter telle quelle, une règle de vie peut perdre son sens, et une structure qui vous a servi des années peut demander à être repensée avant de servir à nouveau.
+[Saturne](/astrology/saturn/) établit la structure : les règles, les rôles, les engagements, les limites qui rendent possible le travail de longue haleine. [Pluton](/astrology/pluto/) retire ce qui est devenu obsolète, pour que quelque chose de plus viable puisse pousser. Un [carré](/astrology/square/), à 90°, rend la friction constructive mais constante : Pluton ne peut pas simplement remplacer les règles de Saturne, et Saturne ne peut pas tenir Pluton à l’écart. Sous ce [transit](/astrology/transits/), une charge de travail peut devenir impossible à porter telle quelle, une règle de vie peut perdre son sens, et une structure qui vous a servi des années peut demander à être repensée avant de servir à nouveau.
 
 La tension centrale de Saturne se situe entre la structure nécessaire et le contrôle excessif, et ce carré se pose exactement dessus. Le réflexe est de tenir plus fort : plus d’heures, des règles plus strictes, moins d’exceptions. Ce qui marche mieux, en général, c’est la question inverse : quelles parties peuvent changer sans que le reste s’écroule ? Un défi n’est pas une punition, et la pression vous montre où une structure ne correspond plus à votre vie.
 

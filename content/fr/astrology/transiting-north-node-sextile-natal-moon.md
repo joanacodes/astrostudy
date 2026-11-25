@@ -2,7 +2,7 @@
 title: "Nœud Nord en transit sextile Lune du thème natal"
 slug: "noeud-nord-transit-sextile-lune-natal"
 h1: "Nœud Nord en transit sextile votre Lune natale"
-description: "Nœud Nord en transit sextile Lune du thème natal : une ouverture pour prendre soin de vous autrement, deux fois par tour de 18,6 ans. Quand, et ce qui aide."
+description: "Nœud Nord en transit sextile Lune du thème natal : une ouverture pour prendre soin de vous autrement, deux fois par tour nodal. Quand, et ce qui aide."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire le Nœud Nord en transit sextile Lune natale ?"
     a: "Le nœud se tient à 60° environ de votre Lune de naissance, et le Nœud Sud forme un trigone avec elle. Pendant un mois environ, une autre façon de répondre à vos besoins est à portée de main : une habitude, un groupe, une conversation. C’est une ouverture plutôt qu’une poussée : elle se voit surtout si vous agissez."
   - q: "Combien de fois le Nœud Nord fait-il un sextile à ma Lune ?"
-    a: "Deux fois par tour des nœuds, qui dure 18,6 ans : trois ans environ après le passage du nœud sur votre Lune, et trois ans environ avant le suivant. La plupart des gens rencontrent ce sextile huit ou neuf fois avant 80 ans, chaque fois pendant un mois environ avec mes orbes."
+    a: "Deux fois par tour nodal, long de 18,6 ans : trois ans environ après que le nœud a franchi votre Lune, et autant avant qu’il ne la franchisse de nouveau. La plupart des gens rencontrent ce sextile huit ou neuf fois avant 80 ans, chaque fois pendant un mois environ avec mes orbes."
   - q: "Peut-on passer à côté du Nœud Nord sextile Lune ?"
     a: "Facilement, et rien n’est perdu. Un sextile demande qu’on s’en mêle : il facilite un pas sans le faire à votre place. Si vous connaissez les dates, choisissez une petite chose à commencer ce mois-là et laissez la facilité la porter."
 sources:
@@ -31,7 +31,7 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits aux planètes natales, lus un par un" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, et la joie de la Lune en maison 3" }
 ---
-De tous les angles que le nœud forme avec votre Lune, le sextile est le plus léger, et le plus facile à laisser filer. Pendant un mois environ, le point de croissance se tient à deux signes de votre Lune, tandis que le Nœud Sud, à l’autre bout de l’axe, forme un trigone avec elle.
+De tous les angles que le nœud forme avec votre Lune, le sextile est le plus léger, et le plus facile à laisser filer. Pendant un mois environ, le point de croissance se tient à deux signes de votre Lune, tandis qu’à l’autre bout le Nœud Sud est en trigone avec elle.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -39,7 +39,7 @@ La [Lune](/astrology/moon/) décrit ce dont vous avez besoin et ce qui vous apai
 
 Elle arrive en général en petit. Une invitation dans un groupe que vous évitez d’habitude ; une routine qui paraît soudain possible ; une conversation où vous dites ce dont vous avez besoin, et où on l’entend. Comme le Nœud Sud forme un trigone avec votre Lune pendant ces mêmes semaines, les vieux réconforts restent proches et faciles, ce qui aide : vous pouvez essayer du nouveau sans renoncer à ce qui vous stabilise. Le seul risque, c’est que le confort l’emporte par défaut, et que le mois passe comme passent les mois.
 
-Avec votre [Lune en maison 3](/astrology/moon-in-3rd-house/), la maison que la tradition appelait la Déesse et où elle plaçait la joie de la Lune, l’ouverture passe sans doute par les mots de tous les jours et les personnes proches : un voisin, une sœur ou un frère, un message auquel vous répondez enfin. Vos maisons se dessinent à partir de votre heure de naissance, et le degré de la Lune en dépend aussi : chaque heure déplace votre Lune d’un demi-degré environ, et ce transit d’une dizaine de jours. C’est en partie pour cela que je ne lis pas un thème sans l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec votre [Lune en maison 3](/astrology/moon-in-3rd-house/), la maison que la tradition appelait la Déesse et où elle plaçait la joie de la Lune, l’ouverture passe sans doute par les mots de tous les jours et les personnes proches : un voisin, une sœur ou un frère, un message auquel vous répondez enfin. Vos maisons se dessinent à partir de votre heure de naissance, et le degré de la Lune en dépend aussi : chaque heure déplace votre Lune d’un demi-degré environ, et ce transit d’une dizaine de jours. C’est l’une des raisons pour lesquelles l’heure m’est indispensable ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

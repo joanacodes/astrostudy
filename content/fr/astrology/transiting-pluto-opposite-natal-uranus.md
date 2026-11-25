@@ -38,7 +38,7 @@ L’opposition de Pluton à Uranus dans votre thème natal vient tard dans la vi
 
 ## Ce qui change {#ce-qui-change}
 
-[Uranus](/astrology/uranus/), c’est votre besoin d’autonomie et de réforme : la place pour être autrement, pour interroger, pour organiser votre vie selon vos propres termes. [Pluton](/astrology/pluto/) transforme ce qui ne tient plus et rend le pouvoir là où il était retenu. Une [opposition](/astrology/opposition/), à 180°, relie les deux fonctions par la polarité : sous ce [transit](/astrology/transits/), votre indépendance rencontre son pendant chez quelqu’un d’autre. Une ou un partenaire qui veut une autre vie, une famille ou un lieu de travail qui change autour de vous, une communauté dont les besoins pèsent sur votre liberté.
+[Uranus](/astrology/uranus/), c’est votre besoin d’autonomie et de réforme : la place pour être autrement, pour interroger, pour organiser votre vie selon vos propres termes. [Pluton](/astrology/pluto/) transforme ce qui ne tient plus et rend le pouvoir là où il était retenu. Dans une [opposition](/astrology/opposition/), à 180°, chaque fonction se voit dans l’autre : sous ce [transit](/astrology/transits/), votre indépendance reçoit sa réponse du dehors. Une ou un partenaire qui veut une autre vie, une famille ou un lieu de travail qui change autour de vous, une communauté dont les besoins pèsent sur votre liberté.
 
 L’angle mort d’Uranus, sous une opposition, c’est de confondre la distance avec l’objectivité : prendre du recul peut sembler la réponse lucide quand ce n’est que la réponse habituelle. L’autonomie n’est pas l’isolement, et se différencier n’est pas s’aliéner. Ce que ce transit demande en général, c’est comment votre façon de vivre peut rester la vôtre pendant que les gens autour de vous changent la leur.
 
@@ -62,4 +62,4 @@ Demander la liberté dont vous avez besoin en termes concrets : le temps, l’e
 
 Laisser aux autres leurs propres changements. Tout ce qui bouge autour de vous ne vise pas votre indépendance.
 
-Garder en cours une expérience qui n’appartient qu’à vous : une étude, une pratique, une façon de passer un jour par semaine.
+Regarder ce que l’autre bout de l’axe réclame. C’est souvent une liberté que vous avez voulue vous aussi, vécue d’abord par quelqu’un d’autre.

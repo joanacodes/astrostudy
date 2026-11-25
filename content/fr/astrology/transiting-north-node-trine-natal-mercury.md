@@ -35,7 +35,7 @@ Certains transits du nœud ressemblent à un effort ; le trigone à Mercure re
 
 ## Ce qui change {#ce-qui-change}
 
-[Mercure](/astrology/mercury/), c’est votre façon d’apprendre, de relier et de dire : remarquer, analyser, et changer ce qu’on trouve en langage. Le [Nœud Nord](/astrology/north-node/) est la capacité moins familière que vous construisez en pratiquant, et un [trigone](/astrology/trine/) laisse deux fonctions se coordonner facilement, chacune gardant sa nature. Sous ce [transit](/astrology/transits/), les idées tournées vers la croissance se comprennent vite, et les dire à voix haute coûte moins que d’habitude.
+[Mercure](/astrology/mercury/), c’est votre façon d’apprendre, de relier et de dire : remarquer, analyser, et changer ce qu’on trouve en langage. Le [Nœud Nord](/astrology/north-node/) montre ce que vous avez le moins pratiqué, et un [trigone](/astrology/trine/) laisse deux fonctions se coordonner facilement, chacune gardant sa nature. Sous ce [transit](/astrology/transits/), les idées tournées vers la croissance se comprennent vite, et les dire à voix haute coûte moins que d’habitude.
 
 Le piège est celui de tout trigone : l’aisance n’est pas l’action. Un sujet peut se débloquer en une semaine et demander encore le mois de pratique qui change la compréhension en savoir-faire. Le [Nœud Sud](/astrology/south-node/), en sextile à Mercure pendant ces mêmes semaines, propose les vieux raccourcis, utiles tant qu’ils ne remplacent pas le nouveau chemin.
 

@@ -43,7 +43,7 @@ L’endroit où se tient Chiron quand il forme le carré à l’horizon change l
 
 L’un des angles morts de l’Ascendant, c’est d’utiliser partout la même orientation, et un carré trouve souvent le cadre où elle ne convient plus. Une friction n’est pas un échec. Ce qui en sort, le plus souvent, c’est une seconde façon d’arriver, gardée pour les pièces qui la demandent. Les partenaires et les proches sentent l’ajustement, puisque le Descendant reçoit aussi le carré, et ce sont parfois eux qui le réclament.
 
-Ici, l’heure de naissance compte deux fois : elle fixe votre degré ascendant, et elle décide de la maison où se trouve Chiron quand le carré se forme. Sans elle, je ne peux dire ni l’un ni l’autre, et je ne lis pas le thème ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Ici, l’heure de naissance compte deux fois : elle fixe votre degré ascendant, et elle décide de la maison où se trouve Chiron quand le carré se forme. Sans elle, ni l’un ni l’autre ne se situe, et c’est pourquoi un thème qui en manque reste sans lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

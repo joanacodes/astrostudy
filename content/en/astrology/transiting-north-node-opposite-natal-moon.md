@@ -30,7 +30,7 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to the natal Moon" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes and the eclipses of the Moon" }
 ---
-The opposition is the South Node's conjunction: the transiting South Node crosses your Moon while the North Node stands across the chart. For a month or so the ways you have always looked after yourself are lit up, and the less familiar direction faces them from the other side.
+The opposition is the South Node's conjunction: the transiting South Node crosses your Moon and the North Node faces it from the far side. For a month or so the ways you have always looked after yourself are lit up, and the less familiar direction faces them from the other side.
 
 ## What changes {#what-changes}
 

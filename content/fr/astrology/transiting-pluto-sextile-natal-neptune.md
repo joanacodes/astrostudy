@@ -38,7 +38,7 @@ Le sextile de Pluton à Neptune dans votre thème natal est le transit de Pluton
 
 ## Ce qui change {#ce-qui-change}
 
-[Neptune](/astrology/neptune/) imagine et relie : cette fonction porte vos idéaux, votre compassion, votre sens d’une signification plus vaste que vous. [Pluton](/astrology/pluto/) renouvelle en allant à la racine. Un [sextile](/astrology/sextile/), à 60°, relie les deux fonctions par l’occasion, et une occasion demande de s’engager. Sous ce [transit](/astrology/transits/), un idéal peut trouver une forme concrète et durable : un projet créatif reçoit sa discipline, un intérêt spirituel devient une pratique, l’envie d’aider les autres devient un travail que vous pouvez tenir.
+[Neptune](/astrology/neptune/) imagine et relie : cette fonction porte vos idéaux, votre compassion, votre sens d’une signification plus vaste que vous. [Pluton](/astrology/pluto/) renouvelle en allant à la racine. Un [sextile](/astrology/sextile/), à 60°, offre à vos idéaux un moyen plutôt qu’un ordre, et ce moyen demande à être saisi. Sous ce [transit](/astrology/transits/), un idéal peut trouver une forme concrète et durable : un projet créatif reçoit sa discipline, un intérêt spirituel devient une pratique, l’envie d’aider les autres devient un travail que vous pouvez tenir.
 
 Le cadeau du sextile, c’est qu’il ne demande aucun sacrifice. Les limites de Neptune comptent tout de même : la compassion n’est pas l’effacement de soi, et la transcendance n’est pas une fuite. L’ouverture vaut pour le rêve qui peut se vivre, pas pour celui qui vous demande de disparaître en lui.
 
@@ -54,7 +54,7 @@ Presque toutes les personnes nées entre 1930 et 2009 le vivent avant 80 ans, et
 
 Depuis le Verseau, jusqu’au début de 2044, Pluton donne le second sextile à la génération née de 1970 à 1984 avec Neptune en Sagittaire, entre 51 et 58 ans environ.
 
-Seule la conjonction touche tout le monde aussi sûrement, dans la vingtaine. Le carré ([Pluton en transit carré Neptune du thème natal](/astrology/transiting-pluto-square-natal-neptune/)) manque environ 1 personne sur 3, le trigone ([Pluton en transit trigone Neptune du thème natal](/astrology/transiting-pluto-trine-natal-neptune/)) environ 5 sur 6, et l’opposition ([Pluton en transit opposition Neptune du thème natal](/astrology/transiting-pluto-opposite-natal-neptune/)) tout le monde.
+Seule la conjonction touche tout le monde aussi sûrement, dans la vingtaine. Au-delà du sextile, plus l’angle s’ouvre, plus le transit se fait rare : environ 1 personne sur 3 ne vit jamais le carré ([Pluton en transit carré Neptune du thème natal](/astrology/transiting-pluto-square-natal-neptune/)), environ 5 sur 6 jamais le trigone ([Pluton en transit trigone Neptune du thème natal](/astrology/transiting-pluto-trine-natal-neptune/)), et personne ne vit l’opposition ([Pluton en transit opposition Neptune du thème natal](/astrology/transiting-pluto-opposite-natal-neptune/)).
 
 ## Ce qui aide {#ce-qui-aide}
 

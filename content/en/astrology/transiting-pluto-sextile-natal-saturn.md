@@ -33,25 +33,25 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the sextile within my orbs, and how often people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Saturn, one at a time" }
 ---
-Two signs apart, at 60°, Pluto and your natal Saturn can work together. For two years or more, part of your life's structure can be rebuilt without the pressure that usually forces the job.
+Two signs apart, at 60°, Pluto and your natal Saturn can work together. While this sextile lasts, two years or more, part of your life's structure can be rebuilt without the pressure that usually forces the job.
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) builds and maintains: commitments, boundaries, the patient work that makes something last. [Pluto](/astrology/pluto/) renews by removing what has become unsustainable. A [sextile](/astrology/sextile/), 60°, relates them through opportunity and cooperation, and its rule is plain: opportunity requires engagement. Under this [transit](/astrology/transits/), Pluto's depth is available to Saturn's work, but only if you ask for it. A job can be redesigned rather than endured, a long obligation renegotiated, an old discipline rebuilt around who you are now.
+[Saturn](/astrology/saturn/) builds and maintains: commitments, boundaries, the patient work that makes something last. [Pluto](/astrology/pluto/) renews by removing what has become unsustainable. A [sextile](/astrology/sextile/), 60°, cooperates without pushing, so under this [transit](/astrology/transits/) Pluto's depth is available to Saturn's work only if you ask for it. A job can be redesigned rather than endured, a long obligation renegotiated, an old discipline rebuilt around who you are now.
 
 Because nothing forces it, this is the Pluto contact to Saturn people most often miss. It tends to arrive as an offer: a role with more real responsibility, a chance to restructure a team or a household, someone with authority willing to help. Saturn's fear is wasted effort, and this is the season when effort is least likely to be wasted, because the ground is on your side.
 
-The two signs are usually compatible, fire with air or earth with water, so the functions speak each other's language. The houses say where. With Saturn in your 6th and Pluto crossing your 4th ([Pluto transiting the 4th house](/astrology/pluto-transit-4th-house/)), changes at home make room to rebuild the way you work; with Saturn in the 10th and Pluto in the 12th, quiet inner work prepares a more honest public role. Both need your birth time, which is why I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
+The two signs are usually compatible, fire with air or earth with water, so the functions speak each other's language. The houses say where. With Saturn in your 6th and Pluto crossing your 4th ([Pluto transiting the 4th house](/astrology/pluto-transit-4th-house/)), changes at home make room to rebuild the way you work; with Saturn in the 10th and Pluto in the 12th, quiet inner work prepares a more honest public role. Neither house can be placed without the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Born with [Saturn sextile Pluto](/astrology/saturn-sextile-pluto/), you began life near this transit. If your Saturn stood ahead of Pluto, as for births in 1952–53 and 1989–90, it comes back once Pluto has moved 120° on, in the same years as Pluto's trine to its own place ([Transiting Pluto trine natal Pluto](/astrology/transiting-pluto-trine-natal-pluto/)): in the early fifties for the first group, the sixties for the second.
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, the orbs I use for timing, the sextile lasts about two years and eight months. In about three passes out of five, Pluto crosses the exact sextile three times, over about two years and seven months; the rest bring five exact hits over about three years and seven months, when one of Pluto's stations falls close to the degree.
+I give the sextile 1½° before exact and 1° after, the orbs I use for timing, and within them it lasts about two years and eight months. In about three passes out of five, Pluto crosses the exact sextile three times, over about two years and seven months; the rest bring five exact hits over about three years and seven months, when one of Pluto's stations falls close to the degree.
 
 About three people in four born between 1930 and 2009 meet it by 80, and about one in ten meet both of Saturn's sextile points, one on each side. Saturn is too quick for a generation to share one age: a birth on 1 January 1955 came within orb at 10.8, one in 1945 at 14.8, 1995 at 16.1, 1985 at 35.1, 1965 at 43.1 and 1935 at 70.1, while 1975 and 2005 don't meet it by 80.
 
-Until early 2044, Pluto in Aquarius sextiles Saturns in Aries and Sagittarius. Born from 1996 to 1999, with Saturn in Aries, you meet it between about 26 and 45; from 1985 to 1988, with Saturn in Sagittarius, between about 37 and 55; from 1967 to 1969, with Saturn in Aries again, between about 56 and 74.
+Aries and Sagittarius lie 60° from Aquarius, so until early 2044 Pluto sextiles Saturn in either of those signs. Born from 1996 to 1999, with Saturn in Aries, you meet it between about 26 and 45; from 1985 to 1988, with Saturn in Sagittarius, between about 37 and 55; from 1967 to 1969, with Saturn in Aries again, between about 56 and 74.
 
 It is the mildest of Pluto's five contacts with Saturn. The square ([Transiting Pluto square natal Saturn](/astrology/transiting-pluto-square-natal-saturn/)) and the opposition ([Transiting Pluto opposite natal Saturn](/astrology/transiting-pluto-opposite-natal-saturn/)) press where this one invites, the trine ([Transiting Pluto trine natal Saturn](/astrology/transiting-pluto-trine-natal-saturn/)) flows without being asked, and the conjunction ([Transiting Pluto conjunct natal Saturn](/astrology/transiting-pluto-conjunct-natal-saturn/)), which 3 people in 5 never meet, goes straight to the foundations.
 

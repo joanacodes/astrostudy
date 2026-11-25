@@ -42,7 +42,7 @@ Where Chiron stands when it squares the horizon changes the story. From below, a
 
 One of the Ascendant's blind spots is using the same orientation everywhere, and a square tends to find the setting where it no longer fits. Friction isn't failure. What usually comes of it is a second way of arriving, kept for the rooms that need it. Partners and close friends feel the adjustment, since the Descendant is squared as well, and sometimes they are the ones who ask for it.
 
-Here the birth time matters twice: it fixes your rising degree, and it decides which house Chiron occupies when the square forms. Without it I can say neither, and I don't read the chart ([what changes without a birth time](/blog/unknown-birth-time/)).
+Here the birth time matters twice: it fixes your rising degree, and it decides which house Chiron occupies when the square forms. Without it neither can be placed, which is why a chart that lacks one stays unread ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

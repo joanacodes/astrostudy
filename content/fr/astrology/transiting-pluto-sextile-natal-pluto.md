@@ -46,9 +46,9 @@ Comme toutes les personnes nées à un an ou deux de vous le vivent presque au m
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, le sextile dure environ deux ans et huit mois, vingt-deux mois au plus rapide, avec trois passages exacts dans environ trois cas sur cinq et cinq dans les autres.
+Le sextile de Pluton à sa place natale dure environ deux ans et huit mois, ou vingt-deux mois au plus rapide, en comptant de 1,5° avant l’exactitude à 1° après, les orbes que j’utilise ; environ trois passages sur cinq sont exacts trois fois, les autres cinq fois.
 
-Toutes les personnes nées entre 1930 et 2009 le vivent une fois, entre 21,5 et 36,1 ans, et les âges suivent le pas inégal de Pluton. Les âges baissent, puis remontent : 33,8 ans pour une naissance le 1er janvier 1935, 29,9 ans pour 1945, 26,8 ans pour 1955, 24 ans pour 1965 et 23,1 ans pour 1975, puis 24,1 ans pour 1985, 27,2 ans pour 1995 et 31,3 ans pour 2005. L’orbite de Pluton est si allongée que Pluton passe environ 12 ans dans certains signes et environ 31 dans d’autres, avec une vitesse maximale autour de son passage au plus près du Soleil, en 1989. Pour une naissance des années 1970, les 60° suivants ont traversé ces années rapides ; pour une naissance des années 1930, des années lentes ([Placements générationnels par année de naissance](/astrology/generational-placements-by-birth-year/)).
+Toutes les personnes nées entre 1930 et 2009 le vivent une fois, entre 21,5 et 36,1 ans, et les âges suivent le pas inégal de Pluton. Les naissances du 1er janvier montrent le creux : 33,8 ans en 1935, 29,9 ans en 1945, 26,8 ans en 1955, 24 ans en 1965 et 23,1 ans en 1975, puis de nouveau 24,1 ans en 1985, 27,2 ans en 1995 et 31,3 ans en 2005. Pluton passe environ 12 ans dans certains signes et environ 31 dans d’autres, tant son orbite est allongée, avec une vitesse maximale autour de son passage au plus près du Soleil, en 1989. Pour une naissance des années 1970, les 60° suivants ont traversé ces années rapides ; pour une naissance des années 1930, des années lentes ([Placements générationnels par année de naissance](/astrology/generational-placements-by-birth-year/)).
 
 Le sextile d’aujourd’hui revient à la génération de [Pluton en Sagittaire](/astrology/pluto-in-sagittarius/), née de 1995 à 2008, qui le vit entre 26 et 34 ans environ pendant que Pluton traverse le Verseau, jusqu’au début de 2044.
 
@@ -60,4 +60,4 @@ Choisir un schéma à changer, et le changer délibérément : une façon de r�
 
 Commencer là où se trouve Pluton dans votre thème. La maison est l’endroit où l’ouverture est la plus large.
 
-En parler avec des personnes de votre âge. Toute votre génération partage ce sextile, et comparer vos expériences le rend moins solitaire et moins lourd.
+Échanger avec celles et ceux de votre classe d’âge. Toute votre génération partage ce sextile, et comparer vos expériences le rend moins solitaire et moins lourd.

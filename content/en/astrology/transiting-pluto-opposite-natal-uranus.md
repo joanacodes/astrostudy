@@ -37,7 +37,7 @@ Pluto opposite your natal Uranus comes late in life, if at all: from the mid-for
 
 ## What changes {#what-changes}
 
-[Uranus](/astrology/uranus/) is your need for autonomy and reform: room to differ, to question, to arrange your life on your own terms. [Pluto](/astrology/pluto/) transforms what has become unsustainable and returns power where it has been held back. An [opposition](/astrology/opposition/), 180°, relates them through polarity, so under this [transit](/astrology/transits/) your independence meets its counterpart in someone else: a partner who wants a different life, a family or a workplace changing around you, a community whose needs press on your freedom.
+[Uranus](/astrology/uranus/) is your need for autonomy and reform: room to differ, to question, to arrange your life on your own terms. [Pluto](/astrology/pluto/) transforms what has become unsustainable and returns power where it has been held back. In an [opposition](/astrology/opposition/), 180°, each function sees itself in the other, so under this [transit](/astrology/transits/) your independence is answered from outside: a partner who wants a different life, a family or a workplace changing around you, a community whose needs press on your freedom.
 
 Uranus's blind spot under an opposition is confusing distance with objectivity: stepping back can feel like the clear-headed answer when it is only the familiar one. Autonomy isn't isolation, and differentiation isn't alienation. What this transit tends to ask is how your way of living can stay yours while the people around you change theirs.
 
@@ -61,4 +61,4 @@ Ask for the freedom you need in concrete terms: the time, the space, the decisio
 
 Let other people's changes be theirs. Not everything that shifts around you is aimed at your independence.
 
-Keep one experiment going that belongs to you alone: a study, a practice, a way of spending one day a week.
+Look at what the other end of the axis is asking for. Often it is a freedom you have wanted too, lived first by someone else.

@@ -42,7 +42,7 @@ Two sextiles come in each round, from different parts of the chart. The earlier,
 
 The sextile to your Ascendant is also a trine to your Descendant, the point opposite, so the people closest to you tend to make the opening easier rather than harder: a partner who backs the new manner, a friend who stopped needing the old joke long ago.
 
-Every date here hangs on your rising degree. A birth time rounded to the half hour can leave the Ascendant several degrees out, and while Chiron is slow, as it is in Aries and Taurus, that can move this sextile by a year or so. No time, no rising degree, and no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
+Every date here hangs on your rising degree. A birth time rounded to the half hour can leave the Ascendant several degrees out, and while Chiron is slow, as it is in Aries and Taurus, that can move this sextile by a year or so. If the time was never recorded, I give no reading, for want of a rising degree to measure from ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

@@ -1,7 +1,7 @@
 ---
 title: "Transiting North Node sextile natal Moon"
 h1: "Transiting North Node sextile your natal Moon"
-description: "Transiting North Node sextile natal Moon: an opening for a new habit of care, twice in each 18.6-year round, a month or so each time. When, and what helps."
+description: "Transiting North Node sextile natal Moon: an opening for a new habit of care, twice a nodal round, a month or so each time. When, and what helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting North Node sextile natal Moon mean?"
     a: "The node stands about 60° from your birth Moon, and the South Node trines it. For a month or so, a new way of meeting your needs is within easy reach: a habit, a group, a conversation. It’s an opening rather than a push, so it shows mainly when you act on it."
   - q: "How often does the North Node sextile my Moon?"
-    a: "Twice in each 18.6-year round of the nodes: about three years after the node crosses your Moon, and about three years before it crosses it again. Most people meet the sextile eight or nine times by 80, each time for about a month with the orbs I use."
+    a: "Twice per nodal round, which lasts 18.6 years: about three years after the node crosses your Moon, and about three years before it crosses it again. Most people meet the sextile eight or nine times by 80, each time for about a month with the orbs I use."
   - q: "Can I miss a North Node sextile Moon transit?"
     a: "Easily, and nothing is lost if you do. A sextile asks for engagement: it makes a step easier without taking it for you. If you know the dates, choose one small thing to begin in that month and let the ease carry it."
 sources:

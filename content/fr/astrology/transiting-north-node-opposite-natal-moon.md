@@ -25,13 +25,13 @@ faq:
   - q: "Le Nœud Sud sur ma Lune, est-ce mauvais ?"
     a: "Non. Le Nœud Sud décrit une capacité construite il y a longtemps : sur votre Lune, des savoir-faire de réconfort familiers. Ils restent les vôtres. Le transit vous demande de remarquer où ils sont devenus automatiques et vous laisse le choix ; il n’enlève rien et ne prédit rien."
   - q: "Quelle différence entre le Nœud Nord conjoint et opposé à ma Lune ?"
-    a: "À la conjonction, le Nœud Nord, le pôle de la pratique, se tient sur votre Lune : de nouvelles façons de prendre soin de vous se présentent. À l’opposition, neuf ans plus tard environ, c’est le Nœud Sud, et les façons familières apparaissent. Chacune dure un mois environ et vient une fois par tour de 18,6 ans."
+    a: "À la conjonction, le Nœud Nord, le pôle de la pratique, se tient sur votre Lune : de nouvelles façons de prendre soin de vous se présentent. À l’opposition, neuf ans plus tard environ, c’est le Nœud Sud, et les façons familières apparaissent. Chacune dure un mois environ et revient tous les 18,6 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le nœud vrai tient l’opposition dans mes orbes, et combien de fois elle vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits sur la Lune du thème natal" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "les nœuds de la Lune et les éclipses de Lune" }
 ---
-L’opposition, c’est la conjonction du Nœud Sud : le Nœud Sud en transit franchit votre Lune pendant que le Nœud Nord se tient de l’autre côté du thème. Pendant un mois environ, vos façons de toujours prendre soin de vous passent en pleine lumière, et la direction moins familière leur fait face.
+L’opposition, c’est la conjonction du Nœud Sud : le Nœud Sud en transit franchit votre Lune et le Nœud Nord lui fait face depuis l’autre bord. Pendant un mois environ, vos façons de toujours prendre soin de vous passent en pleine lumière, et la direction moins familière leur fait face.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -45,7 +45,7 @@ Avec votre [Lune en maison 1](/astrology/moon-in-1st-house/), le Nœud Sud trave
 
 ## Combien de temps {#combien-de-temps}
 
-De 1,5° avant l’exactitude à 1° après, un seul franchissement par le Nœud Sud, le cas habituel, prend un mois environ. Un dixième des passages est plus rapide, trois semaines et demie ou moins, et un dixième bien plus lent, trois mois et demi ou plus : c’est ce qui arrive quand une saison d’éclipses retient le nœud immobile sur votre Lune, et toute éclipse de cette saison tombe près du degré de votre Lune ou de celui qui lui fait face ([Éclipses sur vos planètes natales](/astrology/eclipses-on-your-natal-planets/)). Une fois sur vingt-cinq environ, le nœud touche votre Lune trois fois.
+Entre 1,5° avant l’exactitude et 1° après, un seul franchissement par le Nœud Sud, le cas habituel, prend un mois environ. Un dixième des passages est plus rapide, trois semaines et demie ou moins, et un dixième bien plus lent, trois mois et demi ou plus : c’est ce qui arrive quand une saison d’éclipses retient le nœud immobile sur votre Lune, et toute éclipse de cette saison tombe près du degré de votre Lune ou de celui qui lui fait face ([Éclipses sur vos planètes natales](/astrology/eclipses-on-your-natal-planets/)). Une fois sur vingt-cinq environ, le nœud touche votre Lune trois fois.
 
 Il vient une fois par tour, neuf ans environ après la conjonction du Nœud Nord lui-même avec votre Lune ([Nœud Nord en transit conjonction Lune du thème natal](/astrology/transiting-north-node-conjunct-natal-moon/)) et neuf ans avant la suivante ; personne n’arrive à 80 ans sans en avoir connu quatre, et certaines personnes en ont cinq. De part et d’autre viennent les trigones ([Nœud Nord en transit trigone Lune du thème natal](/astrology/transiting-north-node-trine-natal-moon/)), puis les carrés ([Nœud Nord en transit carré Lune du thème natal](/astrology/transiting-north-node-square-natal-moon/)) et les sextiles ([Nœud Nord en transit sextile Lune du thème natal](/astrology/transiting-north-node-sextile-natal-moon/)). Si votre thème porte [Lune opposition Nœud Nord](/astrology/moon-opposite-north-node/), votre Lune est sur votre Nœud Sud natal, et le calendrier fait le reste : ce transit tombe à vos retours nodaux, la conjonction du Nœud Nord à chaque [inversion nodale](/astrology/nodal-reversal/).
 

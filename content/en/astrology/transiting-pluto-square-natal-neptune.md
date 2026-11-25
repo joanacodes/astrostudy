@@ -37,7 +37,7 @@ Decades after it crossed your natal Neptune in your twenties, Pluto reaches a qu
 
 ## What changes {#what-changes}
 
-[Neptune](/astrology/neptune/) holds your ideals and your compassion: what you hope for, what you give yourself to, the meaning you sense beyond the everyday. [Pluto](/astrology/pluto/) transforms, removing what has become unsustainable so that something truer can remain. A [square](/astrology/square/), 90°, relates them through constructive friction, so under this [transit](/astrology/transits/) a dream you have lived by can start to rub against the life you actually have. A vocation can change its meaning, a faith can ask for a plainer form, a long habit of giving can ask where its limits are.
+[Neptune](/astrology/neptune/) holds your ideals and your compassion: what you hope for, what you give yourself to, the meaning you sense beyond the everyday. [Pluto](/astrology/pluto/) transforms, removing what has become unsustainable so that something truer can remain. A [square](/astrology/square/), 90°, works by friction, and under this [transit](/astrology/transits/) the friction is between a dream you have lived by and the life you actually have. A vocation can change its meaning, a faith can ask for a plainer form, a long habit of giving can ask where its limits are.
 
 Neptune's blind spots are the ones to watch: confusing compassion with unlimited availability, and surrender with helplessness. Letting a dream go is a choice, not a defeat, and so is keeping one on purpose. Pluto adds that change is often gradual: this square usually settles over its whole stay rather than in a single moment. And Neptune's vagueness is a way of speaking about ideals, not about memory, mood or health, which no transit can foretell ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)).
 
@@ -47,11 +47,11 @@ With Neptune in your 9th, the square comes from around your 12th ([Pluto transit
 
 ## How long it lasts {#how-long-it-lasts}
 
-At this age the square is no shorter than at any other: about two years and eight months from 1½° before exact to 1° after, my orbs, and nearly four years in the longest passes. In about three passes out of five there are three exact hits, and five in the others.
+At this age the square is no shorter than at any other: about two years and eight months from 1½° before exact to 1° after, my orbs, and nearly four years in the longest passes. Three exact hits mark about three passes in five, five the others.
 
 Two people in three born between 1930 and 2009 meet it before 80, once; the other third don't. On the 1 January birthdays counted, the orb opened at 65.9 for 1935, 65.1 for 1945 and 66.2 for 1955, and opens at 69.3 for 1965 and 74.3 for 1975. Nobody meets it before about 63, and for births from about 1982 on it lies beyond 80.
 
-The people meeting it in these years were born from 1957 to 1970, with Neptune in Scorpio, which Pluto squares from Aquarius until early 2044: they are between about 65 and 72 when it comes.
+Neptune in Scorpio is the placement of births from 1957 to 1970, and Pluto in Aquarius squares that placement until early 2044, when those people are between about 65 and 72.
 
 The conjunction came to everyone in their twenties and the sextile ([Transiting Pluto sextile natal Neptune](/astrology/transiting-pluto-sextile-natal-neptune/)) reaches almost everyone, while the trine ([Transiting Pluto trine natal Neptune](/astrology/transiting-pluto-trine-natal-neptune/)) reaches about 1 in 6 and the opposition ([Transiting Pluto opposite natal Neptune](/astrology/transiting-pluto-opposite-natal-neptune/)) no one.
 

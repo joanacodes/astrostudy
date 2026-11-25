@@ -33,11 +33,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the square within my orbs, and who meets it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Saturn, read singly" }
 ---
-A quarter of the zodiac from your natal Saturn, Pluto presses at right angles on the structures you rely on. For two years or more, what you've built is asked to bend, change shape or prove that it still bears weight.
+A quarter of the zodiac from your natal Saturn, Pluto presses at right angles on the structures you rely on. What you've built is asked, over two years or more, to bend, change shape or prove that it still bears weight.
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) establishes structure: rules, roles, commitments, the boundaries that make long work possible. [Pluto](/astrology/pluto/) removes what has become obsolete, so that something more viable can grow. A [square](/astrology/square/), 90°, relates them through constructive friction: neither replaces the other, and each keeps catching on the other. Under this [transit](/astrology/transits/), a workload can become impossible to carry as it is, a rule you live by can stop making sense, and a structure that served you for years can need redesigning before it will serve again.
+[Saturn](/astrology/saturn/) establishes structure: rules, roles, commitments, the boundaries that make long work possible. [Pluto](/astrology/pluto/) removes what has become obsolete, so that something more viable can grow. A [square](/astrology/square/), 90°, makes the friction constructive but constant: Pluto cannot simply replace Saturn's rules, and Saturn cannot keep Pluto out. Under this [transit](/astrology/transits/), a workload can become impossible to carry as it is, a rule you live by can stop making sense, and a structure that served you for years can need redesigning before it will serve again.
 
 Saturn's core tension lies between necessary structure and excessive control, and the square sits right on it. The reflex is to hold harder: more hours, stricter rules, fewer exceptions. What tends to work better is the opposite question: which parts of this can change without the rest falling down? Challenge isn't punishment, and the pressure tells you where a structure no longer fits your life.
 
@@ -51,7 +51,7 @@ A square from Pluto to Saturn is no brief affair: allowing my orbs of 1½° befo
 
 About 6 people in 7 born between 1930 and 2009 meet it by 80, and none twice: the two square points face each other across the zodiac, and Pluto needs more than 80 years to cover the half-circle between them. The ages scatter: 28.8 for a birth on 1 January 1945, 30 for 1965, 53.2 for 1985 and 57.9 for 1935, and none by 80 for 1 January 2005.
 
-Until early 2044, Pluto in Aquarius squares Saturns in Taurus and Scorpio. Born from 1998 to 2001, with Saturn in Taurus, you meet it between about 24 and 42; from 1982 to 1985, with Saturn in Scorpio, between about 39 and 57; from 1969 to 1972, with Saturn in Taurus, between about 54 and 72.
+Pluto's stay in Aquarius, until early 2044, puts Saturn in Taurus and in Scorpio under this square. The ages run like this: for births from 1998 to 2001 (Saturn in Taurus), from about 24 to 42; from 1982 to 1985 (Saturn in Scorpio), from 39 to 57; from 1969 to 1972 (Saturn in Taurus), from 54 to 72.
 
 The other contacts are rarer. About 3 people in 4 meet the sextile ([Transiting Pluto sextile natal Saturn](/astrology/transiting-pluto-sextile-natal-saturn/)), nearly 4 in 5 the trine ([Transiting Pluto trine natal Saturn](/astrology/transiting-pluto-trine-natal-saturn/)), just under half the opposition ([Transiting Pluto opposite natal Saturn](/astrology/transiting-pluto-opposite-natal-saturn/)) and 2 in 5 the conjunction ([Transiting Pluto conjunct natal Saturn](/astrology/transiting-pluto-conjunct-natal-saturn/)).
 

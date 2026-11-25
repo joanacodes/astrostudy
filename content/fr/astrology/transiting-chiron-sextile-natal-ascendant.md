@@ -43,7 +43,7 @@ Deux sextiles viennent à chaque tour, de deux parties différentes du thème. L
 
 Le sextile à votre Ascendant est aussi un trigone à votre Descendant, le point d’en face : les personnes les plus proches de vous rendent souvent l’ouverture plus facile, pas plus difficile, une ou un partenaire qui soutient la nouvelle allure, une amie ou un ami qui n’a plus besoin depuis longtemps de la vieille plaisanterie.
 
-Toutes les dates dépendent ici de votre degré ascendant. Une heure arrondie à la demi-heure peut fausser l’Ascendant de plusieurs degrés, et quand Chiron est lent, comme en Bélier et en Taureau, cela peut déplacer ce sextile d’un an environ. Pas d’heure, pas de degré ascendant, et pas de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Toutes les dates dépendent ici de votre degré ascendant. Une heure arrondie à la demi-heure peut fausser l’Ascendant de plusieurs degrés, et quand Chiron est lent, comme en Bélier et en Taureau, cela peut déplacer ce sextile d’un an environ. Si l’heure n’a jamais été notée, je ne donne pas de lecture, faute de degré ascendant d’où mesurer ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

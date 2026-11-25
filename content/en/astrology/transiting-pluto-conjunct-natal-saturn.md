@@ -33,7 +33,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto stays on Saturn within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Saturn" }
 ---
-When Pluto reaches the degree of your natal Saturn, the planet of transformation settles on the part of you that builds, carries and endures. For two years or more, the structures your life rests on are examined from underneath.
+Pluto settles for two years or more on the degree of your natal Saturn, the part of you that builds, carries and endures, and the structures your life rests on are examined from underneath.
 
 ## What changes {#what-changes}
 

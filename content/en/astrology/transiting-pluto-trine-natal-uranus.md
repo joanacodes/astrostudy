@@ -33,15 +33,15 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the trine within my orbs, and who meets it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Uranus, taken singly" }
 ---
-At 120° from your natal Uranus, Pluto stops pressing and starts helping. For two years or more, the change you want and the deeper renewal under way point in the same direction.
+Pluto stops pressing and starts helping when it trines your natal Uranus. The change you want and the deeper renewal under way point the same way for two years or more.
 
 ## What changes {#what-changes}
 
-[Uranus](/astrology/uranus/) innovates and reforms: it questions inherited arrangements and tests alternatives. [Pluto](/astrology/pluto/) regenerates, letting what's finished end so that something truer can grow. A [trine](/astrology/trine/), 120°, relates them through facilitative flow, so under this [transit](/astrology/transits/) reform comes with the grain of your life rather than against it. Experiments you once had to fight for become ordinary; a way of working that was new to you settles into a method; a freedom you claimed under strain can now be lived without having to defend it.
+[Uranus](/astrology/uranus/) innovates and reforms: it questions inherited arrangements and tests alternatives. [Pluto](/astrology/pluto/) regenerates, letting what's finished end so that something truer can grow. A [trine](/astrology/trine/), 120°, is an angle of ease, so under this [transit](/astrology/transits/) reform arrives as an improvement your life can absorb rather than an upheaval. Experiments you once had to fight for become ordinary; a way of working that was new to you settles into a method; a freedom you claimed under strain can now be lived without having to defend it.
 
 Uranus's blind spot here is underestimating the value of continuity. When change is this easy, it is tempting to change everything, and Pluto's renewal works best on a few things done thoroughly. Flow isn't passivity either: what the trine makes easy still has to be chosen.
 
-Nobody born between 1930 and 2009 has [Uranus trine Pluto](/astrology/uranus-trine-pluto/) in the birth chart, so for everyone counted here this trine arrives from outside, and it marks the generations very differently. Born from 1930 to 1940, with [Uranus square Pluto](/astrology/uranus-square-pluto/), you met it twice: in youth, while Pluto crossed Leo, and again around 70, from Pluto in Sagittarius or Capricorn. Born in the mid-1960s, with Uranus and Pluto together in Virgo, you met it at about 49, during Pluto's years in Capricorn and alongside Pluto's trine to its own place ([Transiting Pluto trine natal Pluto](/astrology/transiting-pluto-trine-natal-pluto/)).
+Nobody born between 1930 and 2009 has [Uranus trine Pluto](/astrology/uranus-trine-pluto/) in the birth chart, so for everyone counted here this trine arrives from outside, and it marks the generations very differently. Born from 1930 to 1940, with [Uranus square Pluto](/astrology/uranus-square-pluto/), you met it twice: in youth, while Pluto crossed Leo, and again around 70, from Pluto in Sagittarius or Capricorn. In the charts of the mid-1960s, Uranus and Pluto sat together in Virgo, so this trine arrived at about 49, in step with Pluto's trine to its own place ([Transiting Pluto trine natal Pluto](/astrology/transiting-pluto-trine-natal-pluto/)), during Pluto's years in Capricorn.
 
 With Uranus in your 8th, the trine comes from around your 12th ([Pluto transiting the 12th house](/astrology/pluto-transit-12th-house/)) or your 4th: work done privately, or at home, makes a deep change in what you share with others easier to carry out. With Uranus in the 3rd, it comes from near the 7th or the 11th, and a partner or a group helps a new way of thinking take hold. Both houses come from the minute you were born ([what changes without a birth time](/blog/unknown-birth-time/)).
 
@@ -53,7 +53,7 @@ A little under 2 people in 3 born between 1930 and 2009 meet it by 80, and more 
 
 Those meeting it in the 2020s and 2030s were born from 1968 to 1975, with Uranus in Libra: Pluto in Aquarius trines it until early 2044, when they are between about 54 and 70.
 
-Pluto's sextile to Uranus ([Transiting Pluto sextile natal Uranus](/astrology/transiting-pluto-sextile-natal-uranus/)) reaches more people, about 5 in 6, and so does the square ([Transiting Pluto square natal Uranus](/astrology/transiting-pluto-square-natal-uranus/)), about 5 in 7. The conjunction ([Transiting Pluto conjunct natal Uranus](/astrology/transiting-pluto-conjunct-natal-uranus/)) and the opposition ([Transiting Pluto opposite natal Uranus](/astrology/transiting-pluto-opposite-natal-uranus/)) are rarer, each missing nearly half of people or more.
+Ranked by how many people meet them by 80, Pluto's contacts with Uranus run: the sextile ([Transiting Pluto sextile natal Uranus](/astrology/transiting-pluto-sextile-natal-uranus/)), about 5 in 6; the square ([Transiting Pluto square natal Uranus](/astrology/transiting-pluto-square-natal-uranus/)), about 5 in 7; this trine, a little under 2 in 3; then the conjunction ([Transiting Pluto conjunct natal Uranus](/astrology/transiting-pluto-conjunct-natal-uranus/)) and the opposition ([Transiting Pluto opposite natal Uranus](/astrology/transiting-pluto-opposite-natal-uranus/)), each missing nearly half of people or more.
 
 ## What helps {#what-helps}
 
@@ -61,4 +61,4 @@ Pick the reform you've been postponing because it seemed like too much work. Und
 
 Keep one thing steady while you change the rest. Continuity is what lets you tell whether a change has worked.
 
-Share what you've learnt about changing well. Uranus thrives in networks, and a trine is a good time to teach.
+Invite others to try the new way before you call it finished. Uranus does its best reforming in company, and under a trine people are readier to join in.

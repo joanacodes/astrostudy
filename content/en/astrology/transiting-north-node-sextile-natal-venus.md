@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Venus", "sextile", "transits"]
 weight: 1933
 glyph: "☊⚹♀"
-definition: "In transiting North Node sextile natal Venus, the node sits two signs from your birth Venus and the South Node trines it, for a month or so, twice in each 18.6-year round. Relating, sharing and enjoying in a new way become easy to try. I read it as a quiet invitation; accepting it is your part."
+definition: "In transiting North Node sextile natal Venus, a month or so of easy openings arrives, twice in each 18.6-year round: the node is two signs from your birth Venus, the South Node trine it. Relating, sharing and enjoying in a new way become easy to try. I read it as a quiet invitation; accepting it is your part."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node trine your Venus" }
   - { k: "Natal point", v: "Venus ♀: your sense of value and of affinity" }
@@ -24,13 +24,13 @@ faq:
   - q: "Is North Node sextile Venus good for relationships?"
     a: "It describes an easier month for relating in a way that helps you grow: a friendship that stretches you kindly, a partnership of equals, a shared project. It doesn’t promise a relationship or decide one. What it offers is good timing for a step you choose."
   - q: "How often does the North Node sextile my Venus?"
-    a: "Twice in each round of the nodes, which lasts 18.6 years, for about a month each time; most people meet nine by 80, and nobody fewer than eight. The node’s sign gives the years: in Sagittarius, from September 2029 to March 2031, it sextiles Venus in Libra and Aquarius."
+    a: "Twice every 18.6 years, for about a month each time; most people meet nine by 80, and nobody fewer than eight. The node’s sign gives the years: in Sagittarius, from September 2029 to March 2031, it sextiles Venus in Libra and Aquarius."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the sextile within my orbs, how often it comes by 80, and its signs to 2031" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Venus" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
 ---
-The sextile is the most sociable contact the node makes with Venus. For a month or so the point of growth sits two signs from your Venus and the South Node trines it, so new ways of relating and old affections both come easily.
+The sextile is the most sociable contact the node makes with Venus. For a month or so, with the node 60° from your Venus and the South Node trine it, new ways of relating and old affections both come easily.
 
 ## What changes {#what-changes}
 
@@ -44,7 +44,7 @@ Inside a window like this I watch the new and full moons. One that falls within 
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within 1½° before exact and 1° after, the sextile usually takes about a month. Followed with the mean node, every pass would take the same seven weeks or so; my forecast uses the true node, which is quicker between eclipse seasons and far slower inside them. A tenth of passes are therefore over in three and a half weeks, a tenth stretch to three and a half months or more, and about one in twenty-five has three exact contacts.
+This sextile usually takes about a month to cross my window of 1½° before exact and 1° after. Followed with the mean node, every pass would take the same seven weeks or so; my forecast uses the true node, which is quicker between eclipse seasons and far slower inside them. A tenth of passes are therefore over in three and a half weeks, a tenth stretch to three and a half months or more, and about one in twenty-five has three exact contacts.
 
 People with Venus in Libra or Aquarius wait for the node's Sagittarius years, September 2029 to March 2031, and the degree of their Venus picks the month. Each sextile stands between the conjunction ([Transiting North Node conjunct natal Venus](/astrology/transiting-north-node-conjunct-natal-venus/)) and a square ([Transiting North Node square natal Venus](/astrology/transiting-north-node-square-natal-venus/)), with [Transiting North Node trine natal Venus](/astrology/transiting-north-node-trine-natal-venus/) and [Transiting North Node opposite natal Venus](/astrology/transiting-north-node-opposite-natal-venus/) further round. Most people meet nine of these sextiles by 80, and nobody fewer than eight. Born with [Venus sextile North Node](/astrology/venus-sextile-north-node/), you can date one sextile of each round without an ephemeris: it is your nodal return, at about 18½, 37 and 56.
 

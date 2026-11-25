@@ -37,7 +37,7 @@ Pluto sextile your natal Neptune is the Pluto transit almost everyone meets, and
 
 ## What changes {#what-changes}
 
-[Neptune](/astrology/neptune/) imagines and connects: it holds your ideals, your compassion, your sense of a meaning larger than yourself. [Pluto](/astrology/pluto/) renews by taking things to the root. A [sextile](/astrology/sextile/), 60°, relates them through opportunity, and opportunity requires engagement. Under this [transit](/astrology/transits/), an ideal can find a practical, lasting shape: a creative project gets its discipline, a spiritual interest becomes a practice, a wish to help others becomes work you can sustain.
+[Neptune](/astrology/neptune/) imagines and connects: it holds your ideals, your compassion, your sense of a meaning larger than yourself. [Pluto](/astrology/pluto/) renews by taking things to the root. A [sextile](/astrology/sextile/), 60°, offers your ideals a means rather than an order, and the means has to be taken up. Under this [transit](/astrology/transits/), an ideal can find a practical, lasting shape: a creative project gets its discipline, a spiritual interest becomes a practice, a wish to help others becomes work you can sustain.
 
 The sextile's gift is that it asks for no sacrifice. Neptune's boundaries matter here all the same: compassion isn't self-erasure, and transcendence isn't escape. The opening is for the dream that can be lived, not the one that asks you to disappear into it.
 
@@ -53,7 +53,7 @@ Almost everyone born between 1930 and 2009 meets it by 80, and about half meet i
 
 From Aquarius, until early 2044, Pluto gives the later sextile to the generation born from 1970 to 1984 with Neptune in Sagittarius, in their early to late fifties.
 
-Only the conjunction reaches everyone as surely, in the twenties. The square ([Transiting Pluto square natal Neptune](/astrology/transiting-pluto-square-natal-neptune/)) misses about 1 in 3, the trine ([Transiting Pluto trine natal Neptune](/astrology/transiting-pluto-trine-natal-neptune/)) about 5 in 6, and the opposition ([Transiting Pluto opposite natal Neptune](/astrology/transiting-pluto-opposite-natal-neptune/)) everyone.
+Only the conjunction reaches everyone as surely, in the twenties. Beyond the sextile, the wider the angle, the rarer the transit: about 1 person in 3 never meets the square ([Transiting Pluto square natal Neptune](/astrology/transiting-pluto-square-natal-neptune/)), about 5 in 6 never meet the trine ([Transiting Pluto trine natal Neptune](/astrology/transiting-pluto-trine-natal-neptune/)), and no one meets the opposition ([Transiting Pluto opposite natal Neptune](/astrology/transiting-pluto-opposite-natal-neptune/)).
 
 ## What helps {#what-helps}
 

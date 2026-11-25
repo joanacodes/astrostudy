@@ -34,7 +34,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton reste sur Uranus dans mes orbes, et qui la vit avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Uranus" }
 ---
-Quand Pluton atteint le degré d’Uranus dans votre thème natal, la planète du renouveau se confond avec la part de vous qui veut être libre et différente. Seules les personnes nées après le milieu des années 1960 la connaissent, et plus la naissance est tardive, plus elle vient tard.
+L’arrivée de Pluton sur la place d’Uranus dans votre thème natal réunit la planète du renouveau et la part de vous qui veut être libre et différente. Seules les personnes nées après le milieu des années 1960 la connaissent, et plus la naissance est tardive, plus elle vient tard.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -54,7 +54,7 @@ Qui la vit dépend de cette rencontre en Vierge. Uranus, qui fait le tour du zod
 
 En ce moment, elle revient aux personnes nées avec Uranus en Verseau, de 1996 à 2004 : Pluton, en Verseau jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), les atteint entre 26 et 40 ans environ.
 
-La même géométrie règle les autres contacts. Pour les naissances du milieu des années 1960, le carré de Pluton à Uranus ([Pluton en transit carré Uranus du thème natal](/astrology/transiting-pluto-square-natal-uranus/)) est venu vers 36 ans, en même temps que leur [carré de Pluton](/astrology/pluto-square/), et le trigone ([Pluton en transit trigone Uranus du thème natal](/astrology/transiting-pluto-trine-natal-uranus/)) vers 49 ans. Quant au sextile ([Pluton en transit sextile Uranus du thème natal](/astrology/transiting-pluto-sextile-natal-uranus/)), il atteint environ 5 personnes sur 6, et l’opposition ([Pluton en transit opposition Uranus du thème natal](/astrology/transiting-pluto-opposite-natal-uranus/)) environ 2 sur 5.
+La même géométrie règle les autres contacts. Le carré de Pluton à Uranus ([Pluton en transit carré Uranus du thème natal](/astrology/transiting-pluto-square-natal-uranus/)) est arrivé vers 36 ans pour les naissances du milieu des années 1960, avec le [carré de Pluton](/astrology/pluto-square/), et le trigone ([Pluton en transit trigone Uranus du thème natal](/astrology/transiting-pluto-trine-natal-uranus/)) vers 49 ans. Quant au sextile ([Pluton en transit sextile Uranus du thème natal](/astrology/transiting-pluto-sextile-natal-uranus/)), il atteint environ 5 personnes sur 6, et l’opposition ([Pluton en transit opposition Uranus du thème natal](/astrology/transiting-pluto-opposite-natal-uranus/)) environ 2 sur 5.
 
 ## Ce qui aide {#ce-qui-aide}
 

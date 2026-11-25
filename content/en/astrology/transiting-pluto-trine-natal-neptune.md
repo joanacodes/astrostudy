@@ -33,25 +33,25 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "who meets the trine by 80, and how long Pluto holds it within my orbs" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Neptune, taken one at a time" }
 ---
-Pluto trine your natal Neptune is one of the rarest Pluto transits a life can hold. About 5 people in 6 never meet it by 80, and those who do meet it near the end of a long life, when imagination and renewal can at last move together without strain.
+Few Pluto transits are as rare as the trine to your natal Neptune. About 5 people in 6 never meet it by 80, and those who do meet it near the end of a long life, when imagination and renewal can at last move together without strain.
 
 ## What changes {#what-changes}
 
-[Neptune](/astrology/neptune/) imagines, idealises and feels with others; it holds your faith and your sense of a larger meaning. [Pluto](/astrology/pluto/) renews by letting what is finished end. A [trine](/astrology/trine/), 120°, relates them through flow, so under this [transit](/astrology/transits/) the ideals of a long life can be looked at without pressure: kept, released or handed on. It tends to be a quiet transit, and a generous one, a time for memories to find their meaning and for compassion to reach people once held at a distance.
+[Neptune](/astrology/neptune/) imagines, idealises and feels with others; it holds your faith and your sense of a larger meaning. [Pluto](/astrology/pluto/) renews by letting what is finished end. With a [trine](/astrology/trine/), 120°, nothing has to be forced, so under this [transit](/astrology/transits/) the ideals of a long life can be looked at without pressure: kept, released or handed on. It tends to be a quiet transit, and a generous one, a time for memories to find their meaning and for compassion to reach people once held at a distance.
 
 The trine's caution is the usual one: ease isn't passivity. What this flow offers still has to be taken up, in a conversation, a piece of writing, a gift made while it can be made. Neptune's blind spot of confusing symbolic meaning with literal prediction matters too, because the trine speaks about meaning, never about how long anyone lives ([Can astrology predict death?](/astrology/can-astrology-predict-death/)).
 
 Many people read about this transit for a parent. Their chart is theirs: share what you find with them, not about them ([Synastry and consent](/blog/synastry-behind-their-back/)).
 
-It comes last in a long sequence. Pluto crossed your Neptune in your twenties ([Transiting Pluto conjunct natal Neptune](/astrology/transiting-pluto-conjunct-natal-neptune/)) and squared it in your sixties or seventies, if at all ([Transiting Pluto square natal Neptune](/astrology/transiting-pluto-square-natal-neptune/)), before it reaches the trine. Nobody born from 1930 to 2009 has [Neptune trine Pluto](/astrology/neptune-trine-pluto/) at birth. With Neptune in your 5th, the trine comes from around your 9th ([Pluto transiting the 9th house](/astrology/pluto-transit-9th-house/)) or your 1st: what you have loved and made can be seen in the light of what you came to believe. You still need the birth time to know which house the trine comes from ([what changes without a birth time](/blog/unknown-birth-time/)).
+It comes last in a long sequence. Pluto crossed your Neptune in your twenties ([Transiting Pluto conjunct natal Neptune](/astrology/transiting-pluto-conjunct-natal-neptune/)) and squared it in your sixties or seventies, if at all ([Transiting Pluto square natal Neptune](/astrology/transiting-pluto-square-natal-neptune/)), before it reaches the trine. No birth chart from 1930 to 2009 shows [Neptune trine Pluto](/astrology/neptune-trine-pluto/). With Neptune in your 5th, the trine comes from around your 9th ([Pluto transiting the 9th house](/astrology/pluto-transit-9th-house/)) or your 1st: what you have loved and made can be seen in the light of what you came to believe. You still need the birth time to know which house the trine comes from ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-For those who meet it, the trine lasts about two years and eight months within my orbs, from 1½° before exact to 1° after, and about twenty-two months in the quickest passes. Three passes in five or so bring three exact hits; the rest bring five.
+For those who meet it, the trine stays about two years and eight months, measured with my orbs of 1½° before exact and 1° after; a quick pass is done in twenty-two months or so. Three passes in five or so bring three exact hits; the rest bring five.
 
 By 80, it has passed by about 5 people in 6 born between 1930 and 2009, and it never comes twice. The reason is distance. In every chart of those years Pluto began some 45° to 65° behind Neptune, so it must travel that gap and then 120° more, which at Pluto's pace takes close to 80 years or longer. Births from 1930 to about 1943, with Neptune in Virgo, met it between about 78 and 81 while Pluto crossed Capricorn: at 79.1 for 1 January 1935. Births from 1943 to 1957, with Neptune in Libra, meet it between about 79 and 86 as Pluto crosses Aquarius, until early 2044. For later births it comes after 85, if at all.
 
-The sextile ([Transiting Pluto sextile natal Neptune](/astrology/transiting-pluto-sextile-natal-neptune/)) reaches almost everyone, often twice, and the opposition ([Transiting Pluto opposite natal Neptune](/astrology/transiting-pluto-opposite-natal-neptune/)) no one at all.
+At the two extremes stand the sextile ([Transiting Pluto sextile natal Neptune](/astrology/transiting-pluto-sextile-natal-neptune/)), which almost everyone meets, often twice, and the opposition ([Transiting Pluto opposite natal Neptune](/astrology/transiting-pluto-opposite-natal-neptune/)), which no one does.
 
 ## What helps {#what-helps}
 

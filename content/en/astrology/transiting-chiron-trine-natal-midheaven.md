@@ -34,19 +34,19 @@ A trine to the Midheaven tends to make a public direction feel more like your ow
 
 ## What changes {#what-changes}
 
-The [Midheaven](/astrology/midheaven/) is where your capacities enter the wider world as a role, a responsibility, a contribution. [Chiron](/astrology/chiron/) turns long practice with a limit into knowledge you can share. A [trine](/astrology/trine/) relates them through flow, so in this [transit](/astrology/transits/) what you have learned from an old sore spot fits into your public life without a struggle: the experience simply becomes part of how you work.
+The [Midheaven](/astrology/midheaven/) is where your capacities enter the wider world as a role, a responsibility, a contribution. [Chiron](/astrology/chiron/) turns long practice with a limit into knowledge you can share. Joined by a [trine](/astrology/trine/), they cooperate: in this [transit](/astrology/transits/) what you have learned from an old sore spot fits into your public life without a struggle: the experience simply becomes part of how you work.
 
 From outside it often looks unremarkable; from inside it feels steadying. You might find yourself the person people consult about the very difficulty you once kept quiet, or settle into a way of working that respects your limits without apology. The Midheaven's blind spot is underestimating invisible forms of contribution, and the trine tends to show their worth: the mentoring nobody asked you to log, the patience that held a team together.
 
 Both trines of a round come with Chiron below the horizon, in the private half of the chart. One comes as it moves on from your Ascendant through your 1st and 2nd houses, where your own resources and values are ([Chiron transiting the 2nd house](/astrology/chiron-transit-2nd-house/)); the other as it climbs from your IC through your 5th and 6th, the houses of what you make and of daily work. Public direction draws, for once, on private strength, and the sextile to your [IC](/astrology/imum-coeli/) that comes with the trine keeps home on its side. None of it foretells a new job or a title: a trine describes ease, and what you do with it is yours.
 
-A birth time remembered only as "mid-morning" can leave the Midheaven a whole sign out, and with it the years of this trine. I read a chart only from a recorded time ([what changes without a birth time](/blog/unknown-birth-time/)).
+A birth time remembered only as "mid-morning" can leave the Midheaven a whole sign out, and with it the years of this trine. Memory isn't enough here: I work from a time written down when you were born ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, a typical trine lasts about ten months and touches exact three times, the shape of nearly two passes in three. About one pass in three is a single touch of some three weeks, and one in twenty extends to about twenty-one months with five touches.
+Within my orbs, from 1½° before exact to 1° after, a typical trine lasts about ten months and touches exact three times, the shape of nearly two passes in three. Single touches, about one pass in three, are over in some three weeks; at the other end, one pass in twenty stretches across about twenty-one months.
 
-Most people meet three by 80. Midheavens in the fire signs, Leo and Sagittarius, have their trine from Chiron in Aries until April 2027; earth Midheavens, in Virgo and Capricorn, from Chiron in Taurus between 2026 and 2034; air Midheavens, in Libra and Aquarius, from Chiron in Gemini from 2033.
+Three of these trines by 80 is usual, and your Midheaven's element says whose turn it is now. Fire Midheavens, in Leo and Sagittarius, have theirs from Chiron in Aries until April 2027; earth Midheavens, in Virgo and Capricorn, from Chiron in Taurus between 2026 and 2034; air Midheavens, in Libra and Aquarius, from Chiron in Gemini from 2033.
 
 The first trine comes after [transiting Chiron conjunct natal Midheaven](/astrology/transiting-chiron-conjunct-natal-midheaven/), [transiting Chiron sextile natal Midheaven](/astrology/transiting-chiron-sextile-natal-midheaven/) and [transiting Chiron square natal Midheaven](/astrology/transiting-chiron-square-natal-midheaven/), on the way down from the top; the second follows the crossing of your IC ([transiting Chiron opposite natal Midheaven](/astrology/transiting-chiron-opposite-natal-midheaven/)), on the climb back.
 

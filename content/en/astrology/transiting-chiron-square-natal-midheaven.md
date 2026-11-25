@@ -48,7 +48,7 @@ In Placidus, the quadrant system I use, the Midheaven and the Ascendant are seld
 
 Most of these squares last about ten months within my orbs, from 1½° before exact to 1° after, with Chiron touching the exact angle three times; that is the pattern of nearly two passes in three. A third are over in about three weeks with a single touch, and one in twenty runs to five touches over some twenty-one months.
 
-By 80, most people have been through three. With a Capricorn Midheaven, Chiron in Aries squares it from near your Ascendant until April 2027; with a Cancer Midheaven, from near your Descendant. Chiron in Taurus does the same for Aquarius and Leo Midheavens between 2026 and 2034, and Chiron in Gemini, from 2033, for Pisces and Virgo.
+Three is the count most people reach by 80, and two the fewest. With a Capricorn Midheaven, Chiron in Aries squares it from near your Ascendant until April 2027; with a Cancer Midheaven, from near your Descendant. Chiron in Taurus does the same for Aquarius and Leo Midheavens between 2026 and 2034, and Chiron in Gemini, from 2033, for Pisces and Virgo.
 
 The first square follows [transiting Chiron sextile natal Midheaven](/astrology/transiting-chiron-sextile-natal-midheaven/) on Chiron's way down from the top. Between it and the second come [transiting Chiron trine natal Midheaven](/astrology/transiting-chiron-trine-natal-midheaven/), the crossing of your IC ([transiting Chiron opposite natal Midheaven](/astrology/transiting-chiron-opposite-natal-midheaven/)) and the second trine, and the round closes at [transiting Chiron conjunct natal Midheaven](/astrology/transiting-chiron-conjunct-natal-midheaven/).
 

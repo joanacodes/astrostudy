@@ -40,7 +40,7 @@ Some stretches of life make gentleness easy. When Chiron trines your Neptune, im
 
 People often describe it in quiet terms: a meditation or prayer practice that finally sits right; a page written about an old hurt that comes out kinder than expected; being able to stay with a friend's distress without rushing to fix it or being swept away by it. What Neptune needs is openness that still tells self from other, and the trine tends to make that balance easier to find.
 
-Ease has its own catch. A trine doesn't push, so this one can pass unnoticed, or settle into a comfortable story about the hurt that asks nothing more of you. Flow isn't passivity: the trine does most for the people who act on it.
+Ease has its own catch. A trine doesn't push, so this one can pass unnoticed, or settle into a comfortable story about the hurt that asks nothing more of you. Neptune's soft focus adds to the risk: the relief can stay a mood and never become a habit.
 
 Trines usually join signs of the same element, and the element colours the season. From 2026 to 2034, Chiron in Taurus trines the Capricorn Neptune of everyone born between 1984 and 1998: an earth trine, practical and unhurried, suited to care that shows in routines. Your Neptune's house and the one Chiron crosses, about four houses apart, say where in your life it happens, and both need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). A planet trine your Neptune on Chiron's side may find Chiron sitting on it, while one sextile your Neptune from the other side finds Chiron opposite. Born with [Neptune trine Chiron](/astrology/neptune-trine-chiron/), as many people of the 1960s were, you know this flow from the inside.
 

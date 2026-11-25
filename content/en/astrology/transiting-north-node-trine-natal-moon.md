@@ -22,14 +22,14 @@ faq:
   - q: "What does transiting North Node trine natal Moon mean?"
     a: "The node stands about 120° from your birth Moon, usually in a sign of the same element, while the South Node sextiles it. For about a month, what you need and where you’re growing keep the same pace, and new habits of care settle easily. The ease helps; it doesn’t act for you."
   - q: "When does the North Node trine my Moon?"
-    a: "Twice in each round of the nodes, each trine a third of the zodiac from your Moon on either side. The node’s sign tells you when: in Aquarius, from July 2026 to March 2028, it trines Moons in Gemini and Libra. Your Moon’s exact degree, which needs the birth time, sets the month."
+    a: "Twice in each round of the nodes, each trine a third of the zodiac from your Moon on either side. The node’s sign tells you when: while it crosses Aquarius (July 2026 to March 2028), Moons in Gemini and Libra have theirs. Your Moon’s exact degree, which needs the birth time, sets the month."
   - q: "Is a North Node trine Moon transit lucky?"
     a: "I don’t read luck in a chart. A trine describes ease between two functions, and here that means your needs and your growth helping each other for a while. What you do with good conditions is yours; the transit makes nothing happen on its own."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the trine within my orbs, how often it comes by 80, and its signs from 2026" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal planets, read one by one" }
 ---
-When the node trines your Moon, the way you look after yourself and the way your chart is growing keep the same pace. Its partner, the South Node, makes a sextile to your Moon from the opposite side, so you can lean on what you know while you try what you don't.
+When the node trines your Moon, how you look after yourself and how your chart is growing keep the same pace. Its partner, the South Node, makes a sextile to your Moon from the opposite side, so you can lean on what you know while you try what you don't.
 
 ## What changes {#what-changes}
 
@@ -37,7 +37,7 @@ The [Moon](/astrology/moon/) is your regulation: needs, attachment, the memory o
 
 That is the gift and the catch. Ease isn't inevitability, and a trine can pass unnoticed precisely because nothing pushes. What it offers is good conditions: a new routine that settles quickly, a place that feels like home sooner than you expected, care that is easy to give and to accept. The [South Node](/astrology/south-node/), sextile your Moon, lends its old skills of comfort without pulling you back to them.
 
-A trine usually joins two signs of one element, so the node trines your Moon from a sign of your Moon's own element, and its sign tells you when. Between July 2026 and March 2028 the node crosses Aquarius and trines Moons in Gemini and Libra; between March 2028 and September 2029, in Capricorn, it trines Moons in Taurus and Virgo; and until March 2031 Sagittarius has its turn, with Moons in Aries and Leo.
+Trines tend to link signs that share an element, so the node trines your Moon from a sign of your Moon's own element, and its sign tells you when. Between July 2026 and March 2028 the node crosses Aquarius and trines Moons in Gemini and Libra; between March 2028 and September 2029, in Capricorn, it trines Moons in Taurus and Virgo; and until March 2031 Sagittarius has its turn, with Moons in Aries and Leo.
 
 With your [Moon in the 11th house](/astrology/moon-in-11th-house/), the house of friends and shared hopes, the trine tends to show among people: a circle in which you feel at ease while trying something new. Both that house and the degree that sets the month are fixed by your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 

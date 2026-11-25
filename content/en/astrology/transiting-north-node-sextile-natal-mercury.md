@@ -33,7 +33,7 @@ A sextile from the node rarely announces itself. For about a month the node stan
 
 ## What changes {#what-changes}
 
-[Mercury](/astrology/mercury/) is how you think things through and pass them on: curiosity, analysis, the words you reach for. The [North Node](/astrology/north-node/) is the capacity you are building by practice, and a [sextile](/astrology/sextile/) relates the two through opportunity that has to be engaged with. Under this [transit](/astrology/transits/), a new subject or way of working is easy to begin, and just as easy to leave unbegun.
+[Mercury](/astrology/mercury/) is how you think things through and pass them on: curiosity, analysis, the words you reach for. The [North Node](/astrology/north-node/) is where practice builds something new, and a [sextile](/astrology/sextile/) relates the two through opportunity that has to be engaged with. Under this [transit](/astrology/transits/), a new subject or way of working is easy to begin, and just as easy to leave unbegun.
 
 The [South Node](/astrology/south-node/), trine your Mercury in the same weeks, gives the new thing an old foundation: what you already know makes the next step shorter. A second language learned through a first, a new tool picked up through an old trade, a field entered sideways from one you know well: that is the sextile's kind of growth, built on rather than started from nothing.
 
@@ -43,7 +43,7 @@ With your [Mercury in the 9th house](/astrology/mercury-in-9th-house/), the hous
 
 ## How long it lasts {#how-long-it-lasts}
 
-The window runs from 1½° before the exact sextile to 1° after it; most passes take about a month to get through. A tenth of passes are over within three and a half weeks. Another tenth stretch past three and a half months: when the Sun comes round to the nodes, the true node stalls, and a sextile caught in that eclipse season lingers, now and then with three exact contacts, as in about one pass in twenty-five.
+The window opens 1½° before the exact sextile and shuts 1° after it; most passes take about a month to get through. A tenth of passes are over within three and a half weeks. Another tenth stretch past three and a half months: when the Sun comes round to the nodes, the true node stalls, and a sextile caught in that eclipse season lingers, now and then with three exact contacts, as in about one pass in twenty-five.
 
 The sextile is the first aspect the node makes after leaving your Mercury ([Transiting North Node conjunct natal Mercury](/astrology/transiting-north-node-conjunct-natal-mercury/)) and the last before it returns, a little over three years each way, since a sixth of the zodiac takes the node that long. In between come [Transiting North Node square natal Mercury](/astrology/transiting-north-node-square-natal-mercury/), [Transiting North Node trine natal Mercury](/astrology/transiting-north-node-trine-natal-mercury/) and [Transiting North Node opposite natal Mercury](/astrology/transiting-north-node-opposite-natal-mercury/). If [Mercury sextile North Node](/astrology/mercury-sextile-north-node/) is in your chart, each return of the nodes recreates this transit, and at your [nodal reversal](/astrology/nodal-reversal/) it is a trine that the North Node makes to your Mercury.
 

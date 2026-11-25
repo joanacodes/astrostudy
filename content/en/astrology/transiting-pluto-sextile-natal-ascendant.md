@@ -37,7 +37,7 @@ Pluto 60° from your natal Ascendant opens a window rather than forcing a door. 
 
 ## What changes {#what-changes}
 
-The [Ascendant](/astrology/ascendant/) is the stance you begin from: how you enter a room, start a project, meet someone new. [Pluto](/astrology/pluto/) makes room for the new by clearing away what no longer holds. A [sextile](/astrology/sextile/), 60°, relates them through opportunity, and opportunity requires engagement, so under this [transit](/astrology/transits/) a change in the way you present yourself becomes possible without a crisis forcing it: a new way of introducing yourself, a different pace in the mornings, a readiness to be known as more than your first impression.
+The [Ascendant](/astrology/ascendant/) is the stance you begin from: how you enter a room, start a project, meet someone new. [Pluto](/astrology/pluto/) makes room for the new by clearing away what no longer holds. A [sextile](/astrology/sextile/), 60°, makes change available rather than compulsory, so under this [transit](/astrology/transits/) a change in the way you present yourself becomes possible without a crisis forcing it: a new way of introducing yourself, a different pace in the mornings, a readiness to be known as more than your first impression.
 
 The Ascendant's blind spots include using one orientation in every context and overestimating first impressions. The sextile is a good season to try others: to arrive at work differently from the way you arrive among friends, and to see which version you prefer.
 
@@ -51,9 +51,9 @@ With 1½° allowed before exact and 1° after, my orbs, the sextile lasts about 
 
 By 80, about 3 people in 4 born between 1930 and 2009 meet it, and some twice: the two sextile points lie a third of the zodiac apart, and Pluto covers about 110° to 170° in 80 years. Nearly 1 person in 4 meets neither.
 
-Until early 2044, Pluto in Aquarius sextiles [Sagittarius rising](/astrology/sagittarius-rising/), from around the 3rd house, and [Aries rising](/astrology/aries-rising/), from around the 11th, early degrees first.
+The rising signs this sextile reaches now are [Sagittarius rising](/astrology/sagittarius-rising/), from around the 3rd house, and [Aries rising](/astrology/aries-rising/), from around the 11th; early degrees come first, and Pluto leaves Aquarius in early 2044.
 
-Pluto's square to the Ascendant ([Transiting Pluto square natal Ascendant](/astrology/transiting-pluto-square-natal-ascendant/)) is the only one of its contacts that reaches more people, about 7 in 8. The trine ([Transiting Pluto trine natal Ascendant](/astrology/transiting-pluto-trine-natal-ascendant/)) reaches as many as this sextile, and the conjunction ([Transiting Pluto conjunct natal Ascendant](/astrology/transiting-pluto-conjunct-natal-ascendant/)) and the opposition ([Transiting Pluto opposite natal Ascendant](/astrology/transiting-pluto-opposite-natal-ascendant/)) fewer than half.
+The square ([Transiting Pluto square natal Ascendant](/astrology/transiting-pluto-square-natal-ascendant/)) is more common still, at about 7 people in 8. The trine ([Transiting Pluto trine natal Ascendant](/astrology/transiting-pluto-trine-natal-ascendant/)) reaches as many as this sextile, and the conjunction ([Transiting Pluto conjunct natal Ascendant](/astrology/transiting-pluto-conjunct-natal-ascendant/)) and the opposition ([Transiting Pluto opposite natal Ascendant](/astrology/transiting-pluto-opposite-natal-ascendant/)) fewer than half.
 
 ## What helps {#what-helps}
 

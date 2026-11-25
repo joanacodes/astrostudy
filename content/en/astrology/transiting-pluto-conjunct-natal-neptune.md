@@ -37,9 +37,9 @@ Everyone born between 1930 and 2009 meets this transit, and meets it young: Plut
 
 ## What changes {#what-changes}
 
-[Neptune](/astrology/neptune/) enables imagination and compassion: it is what you idealise, what you long for, the larger meaning you sense behind ordinary life. [Pluto](/astrology/pluto/) transforms, taking things to the root and clearing out what no longer holds. In a [conjunction](/astrology/conjunction/) the two act as one process, so under this [transit](/astrology/transits/) your ideals are not only questioned; they are reworked from the bottom. A vocation you dreamt of meets the real work. A faith, a cause or a picture of love you inherited is tested until you know whether it is yours.
+[Neptune](/astrology/neptune/) enables imagination and compassion: it is what you idealise, what you long for, the larger meaning you sense behind ordinary life. [Pluto](/astrology/pluto/) transforms, taking things to the root and clearing out what no longer holds. Joined in a [conjunction](/astrology/conjunction/), depth and imagination work as a single process, so under this [transit](/astrology/transits/) your ideals are not only questioned; they are reworked from the bottom. A vocation you dreamt of meets the real work. A faith, a cause or a picture of love you inherited is tested until you know whether it is yours.
 
-Both planets have a blind spot about truth. Neptune confuses resonance with truth, and Pluto confuses intensity with truth, so in these years a powerful feeling can pass for a revelation. Idealisation isn't delusion, and many people leave their twenties with fewer ideals and more of their own: what tends to dissolve is the borrowed part.
+Neptune and Pluto share a blind spot, and it concerns truth. Neptune confuses resonance with truth, and Pluto confuses intensity with truth, so in these years a powerful feeling can pass for a revelation. Idealisation isn't delusion, and many people leave their twenties with fewer ideals and more of their own: what tends to dissolve is the borrowed part.
 
 Neptune's fog is an image, not a diagnosis, and no transit causes or explains a crisis. If what you feel at this age stays heavy or confusing for weeks, talk to a doctor or a therapist; the numbers to call are on my [disclaimers](/disclaimers/#help) page, and [Astrology and mental health](/astrology/astrology-and-mental-health/) explains why a chart can't stand in for that help.
 
@@ -51,7 +51,7 @@ Two years and eight months is the usual stay, counted from 1½° before exact to
 
 The age is so regular because of how these births were placed. In every chart from 1930 to 2009, Neptune stood some 45° to 65° ahead of Pluto, close to the long sextile between them ([Neptune sextile Pluto](/astrology/neptune-sextile-pluto/)), and Pluto covers that distance in 22 to 30 years. Born on 1 January 1935 or 1945, you met it at 28.8; in 1955, at 27; in 1965, at 25.9; in 1975, at 24; in 1985 and 1995, at about 23; in 2005, you will at 26.1. It came soonest for births of the 1980s and 1990s, while Pluto crossed Scorpio and Sagittarius near its fastest; for births of the 1930s and 1940s, within a year or so of the first [Saturn return](/astrology/saturn-return/).
 
-Those meeting it now were born with Neptune in Aquarius, from 1998 on; Pluto, in that sign until early 2044, reaches the births up to 2009 between about 23 and 30.
+Births from 1998 on have Neptune in Aquarius, the sign Pluto crosses until early 2044, so those born up to 2009 meet this conjunction between about 23 and 30.
 
 No other Pluto contact with Neptune is so universal. The sextile ([Transiting Pluto sextile natal Neptune](/astrology/transiting-pluto-sextile-natal-neptune/)) reaches almost everyone too, many of them as babies; the square ([Transiting Pluto square natal Neptune](/astrology/transiting-pluto-square-natal-neptune/)) about 2 in 3, in their sixties or seventies; the trine ([Transiting Pluto trine natal Neptune](/astrology/transiting-pluto-trine-natal-neptune/)) about 1 in 6, near 80; the opposition ([Transiting Pluto opposite natal Neptune](/astrology/transiting-pluto-opposite-natal-neptune/)) nobody.
 

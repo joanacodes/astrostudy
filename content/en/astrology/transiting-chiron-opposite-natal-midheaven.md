@@ -36,7 +36,7 @@ Halfway through its round with your Midheaven, Chiron reaches the opposite point
 
 ## What changes {#what-changes}
 
-The [IC](/astrology/imum-coeli/), the point opposite your [Midheaven](/astrology/midheaven/), is the ground under your public life: roots, continuity, belonging, the private routines that refill you. I don't read it as family alone. [Chiron](/astrology/chiron/) is a sore spot that stays, and the slow know-how of living with it. An [opposition](/astrology/opposition/) relates the two ends of one line, so in this [transit](/astrology/transits/), with Chiron at the bottom of your chart, your direction in the world is seen from its foundations.
+The [IC](/astrology/imum-coeli/), the point opposite your [Midheaven](/astrology/midheaven/), is the ground under your public life: roots, continuity, belonging, the private routines that refill you. I don't read it as family alone. [Chiron](/astrology/chiron/) is where a limit has been lived with long enough to become knowledge. With an [opposition](/astrology/opposition/), the two ends of one line are read together: in this [transit](/astrology/transits/), with Chiron at the bottom of your chart, your direction in the world is seen from its foundations.
 
 The question tends to be what your public life rests on. Some people find their sense of belonging was always a little provisional, in a family, a town, a language or a culture, and that much of their effort in the world was a way of making up for it. Others notice that the private side, sleep, friendships, a place to come back to, has been run down to keep the public side going. The IC's blind spot is confusing roots with rigidity. Foundations can be rebuilt, and Chiron's way is to build them around what is tender rather than over it.
 
@@ -46,9 +46,9 @@ In Placidus, the house system I use, the IC is the cusp of the 4th, so this cros
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, Chiron spends about ten months over your IC in most cases, crossing it three times in nearly two passes out of three. A single crossing of some three weeks is about one pass in three; five crossings over roughly twenty-one months, about one in twenty.
+Chiron's loops decide the length here as everywhere. Counted from 1½° before exact to 1° after, a typical stay on your IC lasts some ten months and touches it three times, the shape of nearly two passes in three; a third of passes cross once and are gone in three weeks, and one in twenty lingers for about twenty-one months.
 
-The crossing at the top of your chart and this one at the bottom are unequal partners. When one falls in a sign Chiron crosses slowly, the other lies in the opposite sign, which it crosses faster: a long, looping crossing of the Midheaven tends to be answered by a brisk one of the IC, or the other way round. Most people meet this crossing twice by 80 and some once.
+The crossing at the top of your chart and this one at the bottom are unequal partners. When one falls in a sign Chiron crosses slowly, the other lies in the opposite sign, which it crosses faster: a long, looping crossing of the Midheaven tends to be answered by a brisk one of the IC, or the other way round. Two of these crossings by 80 is the common count, one for those whose first came late.
 
 It falls halfway through the round that starts at [transiting Chiron conjunct natal Midheaven](/astrology/transiting-chiron-conjunct-natal-midheaven/): after [transiting Chiron sextile natal Midheaven](/astrology/transiting-chiron-sextile-natal-midheaven/), [transiting Chiron square natal Midheaven](/astrology/transiting-chiron-square-natal-midheaven/) and [transiting Chiron trine natal Midheaven](/astrology/transiting-chiron-trine-natal-midheaven/) on the way down, and before the same three on the way back up.
 

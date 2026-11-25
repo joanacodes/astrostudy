@@ -34,7 +34,7 @@ Un sextile du nœud s’annonce rarement. Pendant un mois environ, le nœud se t
 
 ## Ce qui change {#ce-qui-change}
 
-[Mercure](/astrology/mercury/), c’est votre façon de réfléchir aux choses et de les transmettre : la curiosité, l’analyse, les mots que vous choisissez. Le [Nœud Nord](/astrology/north-node/) est la capacité que vous construisez par la pratique, et un [sextile](/astrology/sextile/) relie les deux par une occasion dont il faut se saisir. Sous ce [transit](/astrology/transits/), un sujet ou une méthode nouvelle se commence facilement, et se laisse tout aussi facilement de côté.
+[Mercure](/astrology/mercury/), c’est votre façon de réfléchir aux choses et de les transmettre : la curiosité, l’analyse, les mots que vous choisissez. Le [Nœud Nord](/astrology/north-node/), c’est là que la pratique construit du nouveau, et un [sextile](/astrology/sextile/) relie les deux par une occasion dont il faut se saisir. Sous ce [transit](/astrology/transits/), un sujet ou une méthode nouvelle se commence facilement, et se laisse tout aussi facilement de côté.
 
 Le [Nœud Sud](/astrology/south-node/), en trigone à Mercure pendant ces mêmes semaines, donne à la nouveauté une vieille fondation : ce que vous savez déjà raccourcit le pas suivant. Une deuxième langue apprise à travers la première, un nouvel outil adopté grâce à un ancien métier, un domaine abordé de biais depuis un autre que vous connaissez bien : voilà la croissance du sextile, bâtie sur l’existant plutôt que partie de rien.
 
@@ -44,7 +44,7 @@ Avec [Mercure en maison 9](/astrology/mercury-in-9th-house/), la maison des étu
 
 ## Combien de temps {#combien-de-temps}
 
-La fenêtre va de 1,5° avant le sextile exact à 1° après ; il faut au nœud un mois environ, en général, pour la franchir. Un dixième des passages est fini en trois semaines et demie. Un autre dixième dépasse trois mois et demi : quand le Soleil rejoint les nœuds, le nœud vrai cale, et un sextile pris dans cette saison d’éclipses s’attarde, parfois avec trois contacts exacts, comme une fois sur vingt-cinq environ.
+La fenêtre s’ouvre 1,5° avant le sextile exact et se ferme 1° après ; il faut au nœud un mois environ, en général, pour la franchir. Un dixième des passages est fini en trois semaines et demie. Un autre dixième dépasse trois mois et demi : quand le Soleil rejoint les nœuds, le nœud vrai cale, et un sextile pris dans cette saison d’éclipses s’attarde, parfois avec trois contacts exacts, comme une fois sur vingt-cinq environ.
 
 Le sextile est le premier aspect que forme le nœud après avoir quitté Mercure ([Nœud Nord en transit conjonction Mercure du thème natal](/astrology/transiting-north-node-conjunct-natal-mercury/)) et le dernier avant d’y revenir, à un peu plus de trois ans chaque fois, car un sixième du zodiaque lui prend ce temps. Entre les deux viennent [Nœud Nord en transit carré Mercure du thème natal](/astrology/transiting-north-node-square-natal-mercury/), [Nœud Nord en transit trigone Mercure du thème natal](/astrology/transiting-north-node-trine-natal-mercury/) et [Nœud Nord en transit opposition Mercure du thème natal](/astrology/transiting-north-node-opposite-natal-mercury/). Si votre thème porte [Mercure sextile Nœud Nord](/astrology/mercury-sextile-north-node/), chaque retour des nœuds recrée ce transit, et à votre [inversion nodale](/astrology/nodal-reversal/), c’est un trigone que le Nœud Nord forme avec Mercure.
 

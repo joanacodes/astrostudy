@@ -33,11 +33,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the opposition within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Saturn, taken one at a time" }
 ---
-When Pluto stands across the zodiac from your natal Saturn, the planet of power faces the part of you that carries responsibility and keeps the rules. What you've built tends to meet someone else's pressure first, and the boundary between their power and your duty has to be found again.
+Power measured against duty: that is Pluto opposite your natal Saturn. What Pluto brings to light meets the part of you that carries responsibility and keeps the rules. What you've built tends to meet someone else's pressure first, and the boundary between their power and your duty has to be found again.
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) holds structure and responsibility: the commitments you keep, the authority you carry, the lines you draw. [Pluto](/astrology/pluto/) brings power and hidden motives to the surface so that what is unsustainable can be reorganised. An [opposition](/astrology/opposition/), 180°, relates them through polarity, so this [transit](/astrology/transits/) usually works from the outside in: an employer's restructuring, an institution's rules, a partner's needs, a parent who now depends on you. Each asks what you are responsible for, and what you are not.
+[Saturn](/astrology/saturn/) holds structure and responsibility: the commitments you keep, the authority you carry, the lines you draw. [Pluto](/astrology/pluto/) brings power and hidden motives to the surface so that what is unsustainable can be reorganised. Facing each other across an [opposition](/astrology/opposition/), 180°, the two meet through other people more often than within you, so this [transit](/astrology/transits/) usually works from the outside in: an employer's restructuring, an institution's rules, a partner's needs, a parent who now depends on you. Each asks what you are responsible for, and what you are not.
 
 Saturn's fear is chaos and wasted effort; Pluto's blind spot is assuming every unequal exchange is deliberate domination. Together they can turn a hard negotiation into a siege. Empowerment isn't domination, on either side of the axis, and what tends to come out of this opposition is a cleaner boundary: duties you choose, authority you can hold without strain, and a clear no where one was needed.
 
@@ -51,7 +51,7 @@ Expect a long stay: with my orbs, 1½° before exact and 1° after, the oppositi
 
 It misses just over half of the people born between 1930 and 2009 by 80; the rest meet it once. On the first day of the year, a birth in 2005 meets it at 15.1; in 1935 it came at 18.7, in 1975 at 40.1 and in 1945 at 66, while births on 1 January 1955, 1965, 1985 and 1995 never do by 80.
 
-Until early 2044, Pluto in Aquarius opposes Saturns in Leo: born from 2005 to 2007, you meet it between about 18 and 36; from 1975 to 1978, between about 47 and 65 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
+It is Saturn in Leo that faces Pluto in Aquarius until early 2044: the opposition comes between about 18 and 36 for a birth from 2005 to 2007, and between about 47 and 65 for one from 1975 to 1978 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
 
 With the conjunction ([Transiting Pluto conjunct natal Saturn](/astrology/transiting-pluto-conjunct-natal-saturn/)), which misses 3 people in 5, it is one of the two rarer Pluto contacts with Saturn. The square ([Transiting Pluto square natal Saturn](/astrology/transiting-pluto-square-natal-saturn/)) comes to about 6 in 7, the trine ([Transiting Pluto trine natal Saturn](/astrology/transiting-pluto-trine-natal-saturn/)) to nearly 4 in 5 and the sextile ([Transiting Pluto sextile natal Saturn](/astrology/transiting-pluto-sextile-natal-saturn/)) to about 3 in 4.
 

@@ -43,13 +43,13 @@ The hope comes in many shapes: the practitioner who was going to fix it, the rel
 
 If the disappointment turns into a low that doesn't lift, or the fog thickens, that is for a doctor or a therapist rather than a chart ([astrology and mental health](/astrology/astrology-and-mental-health/)).
 
-A square links two quarters of your chart. Your Neptune's house shows what you idealise; Chiron's, about three houses on, shows where the sore spot gets pressed. With [Neptune in the 7th house](/astrology/neptune-in-7th-house/) and Chiron crossing your 10th, a hope invested in a partner can meet an old ache about being seen at work. Placing both needs your birth time, and without it I don't read the square ([what changes without a birth time](/blog/unknown-birth-time/)). Planets conjunct or opposite your Neptune are squared by Chiron at the same time, and a planet square your Neptune finds Chiron on it or across from it. If your chart holds [Neptune square Chiron](/astrology/neptune-square-chiron/), this friction is an old acquaintance.
+A square links two quarters of your chart. Your Neptune's house shows what you idealise; Chiron's, about three houses on, shows where the sore spot gets pressed. With [Neptune in the 7th house](/astrology/neptune-in-7th-house/) and Chiron crossing your 10th, a hope invested in a partner can meet an old ache about being seen at work. Both houses hang on the birth time, so a chart without one gets no reading of this square from me ([what changes without a birth time](/blog/unknown-birth-time/)). Planets conjunct or opposite your Neptune are squared by Chiron at the same time, and a planet square your Neptune finds Chiron on it or across from it. If your chart holds [Neptune square Chiron](/astrology/neptune-square-chiron/), this friction is an old acquaintance.
 
 ## How long it lasts {#how-long-it-lasts}
 
 Chiron's speed sets the length, and the Capricorn-Neptune generation, born between 1984 and 1998, shows the range: their first square came in the mid-1990s, while Chiron hurried through Libra, and their second while it lingered in Aries, between 2018 and 2027. Within my orbs, from 1½° before exact to 1° after, most squares last about ten months and cross the exact angle three times. The quickest, single crossings, take about three weeks; the slowest, with five exact hits, about twenty-one months.
 
-Everyone has met the first square by about 36, at an age the birth year sets: about half a year for people born in 1935, about 7 for 1945, about 36 for 1955, about 28 for 1965, about 19 for 1975, about 11 for 1985, under 2 for 1995 and about 24½ for 2005. Most people meet three by 80, some two and some four. Next in line are those born between 1998 and 2012, whose first square comes from Chiron in Taurus, between 2026 and 2034.
+Everyone has met the first square by about 36, at an age the birth year sets: about half a year for people born in 1935, about 7 for 1945, about 36 for 1955, about 28 for 1965, about 19 for 1975, about 11 for 1985, under 2 for 1995 and about 24½ for 2005. Three of them by 80 is typical, four for some, two for a few. Next in line are those born between 1998 and 2012, whose first square comes from Chiron in Taurus, between 2026 and 2034.
 
 Each square sits between [transiting Chiron sextile natal Neptune](/astrology/transiting-chiron-sextile-natal-neptune/) and [transiting Chiron trine natal Neptune](/astrology/transiting-chiron-trine-natal-neptune/); [transiting Chiron conjunct natal Neptune](/astrology/transiting-chiron-conjunct-natal-neptune/) and [transiting Chiron opposite natal Neptune](/astrology/transiting-chiron-opposite-natal-neptune/) mark the two ends of the round.
 
@@ -57,6 +57,6 @@ Each square sits between [transiting Chiron sextile natal Neptune](/astrology/tr
 
 Write down what you hoped the cure would be, and next to it what has actually helped, however small. The second list is the one to build on.
 
-Say one limit out loud: an hour you won't give, a role you won't play. Compassion lasts longer with edges.
+Say one limit out loud: an hour you won't give, a role you won't play. Kindness that knows where it stops holds out longer than kindness given without counting.
 
 Keep one source of meaning that has nothing to do with the sore spot, a piece of music, a walk, a place. Neptune needs somewhere to go that isn't a rescue.

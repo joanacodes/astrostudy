@@ -5,6 +5,8 @@ description: "Transiting North Node square natal Neptune: an ideal crosses the p
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["North Node", "Neptune", "square", "transits"]
 weight: 1959
 glyph: "☊□♆"
 definition: "Transiting North Node square natal Neptune is the true node 90° from your birth Neptune, the South Node squaring it from the other side, twice in each 18.6-year round, for about a month. A longing or an ideal cuts across both old habits and new growth. I read it as friction that sizes a dream, never as confusion foretold."
@@ -29,7 +31,7 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits read one by one" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the true node" }
 ---
-Halfway between the North Node's crossing of your Neptune and the South Node's, the axis lies across your Neptune at a right angle. For about a month, a longing you carry stands in the road between the way you have always lived and the way you are learning to.
+A square from the nodes doesn't land on your Neptune; it sets the whole axis across it. For about a month, twice a round, a longing you carry stands in the road between the way you have always lived and the way you are learning to.
 
 ## What changes {#what-changes}
 

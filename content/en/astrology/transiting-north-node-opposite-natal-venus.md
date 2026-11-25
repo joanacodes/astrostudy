@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Venus", "opposition", "transits"]
 weight: 1936
 glyph: "☊☍♀"
-definition: "Transiting North Node opposite natal Venus places the South Node on your birth Venus for about a month, nine years after the North Node's own pass and once in every round. Long-practised ways of relating and valuing come into the light, with a less familiar way across the chart. I read it as a review, never an ending."
+definition: "Transiting North Node opposite natal Venus places the South Node on your birth Venus for about a month, halfway through each round of the nodes. Long-practised ways of relating and valuing come into the light, with a less familiar way across the chart. I read it as a review, never an ending."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node on your Venus" }
   - { k: "Natal point", v: "Venus ♀: your tastes, loyalties and ways of pleasing" }
@@ -20,17 +20,17 @@ facts:
 related: ["/astrology/south-node", "/astrology/venus", "/astrology/opposition", "/astrology/venus-opposite-north-node", "/astrology/venus-in-7th-house"]
 faq:
   - q: "What does transiting North Node opposite natal Venus mean?"
-    a: "The South Node crosses your birth Venus, with the North Node opposite, for about a month. Your familiar ways of relating and valuing come into the light: the yes you say first, the kind of person you always choose. I read it as a review of habits of the heart, never as an ending."
+    a: "Your familiar ways of relating and valuing come into the light for about a month: the yes you say first, the kind of person you always choose. That’s the South Node crossing your birth Venus, with the North Node opposite. It’s a review of how you love, never an ending."
   - q: "Does the South Node on my Venus mean a break-up?"
     a: "No. I don’t read transits for partings, and no chart can predict one. The South Node describes what is familiar, and on Venus that means long-practised ways of relating. The month asks which still serve you; whatever you decide is yours, not the transit’s."
   - q: "How often does the North Node oppose my Venus?"
-    a: "Once in each 18.6-year round, about nine years after the North Node crosses your Venus, for about a month with my orbs. Everyone meets it four or five times by 80."
+    a: "Once in each 18.6-year round, nine years or so after the North Node has crossed your Venus, for about a month with my orbs. Everyone meets it four or five times by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the opposition within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Venus" }
   - { title: "The Astro Study’s dates from the planets’ positions", note: "the eclipses from 2027 to 2030, with their degrees" }
 ---
-Nine years after the North Node crosses your Venus, the South Node takes its place there. For about a month the tastes, loyalties and ways of pleasing you learned long ago are the ones in the light, and a less familiar way of relating faces them from across the chart.
+Nine years after the North Node crosses your Venus, the South Node takes its place there. For about a month the tastes, loyalties and ways of pleasing you learned long ago step into the light, and a less familiar way of relating faces them from across the chart.
 
 ## What changes {#what-changes}
 
@@ -42,7 +42,7 @@ With your [Venus in the 7th house](/astrology/venus-in-7th-house/), the South No
 
 ## How long it lasts {#how-long-it-lasts}
 
-A window of 1½° before exact and 1° after holds the South Node on your Venus for about a month as a rule. Some passes are brisk, about three and a half weeks, others slow, three and a half months or more, a tenth of each; about one in twenty-five crosses three times. The slow ones come in eclipse seasons. A Venus near 12° or 13° Cancer, for instance, has the South Node on it through the winter of 2028 to 2029, and at the total lunar eclipse of 31 December 2028 the eclipsed Moon stands at 10°34′ Cancer, within the three degrees I count ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
+Between 1½° before exact and 1° after, the South Node holds your Venus for about a month as a rule. Some passes are brisk, about three and a half weeks, others slow, three and a half months or more, a tenth of each; about one in twenty-five crosses three times. The slow ones come in eclipse seasons. A Venus near 12° or 13° Cancer, for instance, has the South Node on it through the winter of 2028 to 2029, and the total lunar eclipse of 31 December 2028 sets the eclipsed Moon at 10°34′ Cancer, within the three degrees I count ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
 
 This is the far point of the node's round over your Venus, about nine years from the conjunction ([Transiting North Node conjunct natal Venus](/astrology/transiting-north-node-conjunct-natal-venus/)) on either side, with [Transiting North Node trine natal Venus](/astrology/transiting-north-node-trine-natal-venus/), [Transiting North Node square natal Venus](/astrology/transiting-north-node-square-natal-venus/) and [Transiting North Node sextile natal Venus](/astrology/transiting-north-node-sextile-natal-venus/) in between. Four or five times by 80, and nobody misses it. For anyone born with [Venus opposite North Node](/astrology/venus-opposite-north-node/), this is the picture of each nodal return, and the [nodal reversal](/astrology/nodal-reversal/) brings the North Node onto Venus instead.
 

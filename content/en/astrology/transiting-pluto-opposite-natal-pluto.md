@@ -37,7 +37,7 @@ Halfway round its 248-year orbit from your birth, Pluto faces the place it start
 
 ## What changes {#what-changes}
 
-Natal [Pluto](/astrology/pluto/) is where you have gone deepest all your life: what you held on to, what you lost and came through, where you found strength you didn't know you had. An [opposition](/astrology/opposition/), 180°, relates two functions through polarity and awareness, so under this [transit](/astrology/transits/) the same function, at the far side of its cycle, faces its starting point. What a long life has done with power, attachment and renewal can be seen whole, from the outside, and set beside what still asks to be done.
+Natal [Pluto](/astrology/pluto/) is where you have gone deepest all your life: what you held on to, what you lost and came through, where you found strength you didn't know you had. An [opposition](/astrology/opposition/), 180°, brings awareness through polarity, and under this [transit](/astrology/transits/) one function, at the far side of its cycle, faces its own starting point. What a long life has done with power, attachment and renewal can be seen whole, from the outside, and set beside what still asks to be done.
 
 Pluto's own word for it is integration: taking in what lies deepest. At this age that often means making peace with old losses, naming what you still want to change, and deciding what to hand on, and to whom. An opposition also works through other people, so the conversation tends to include the generations after you.
 
@@ -51,7 +51,7 @@ Those who meet it have it for about two years and eight months, counted from 1½
 
 The age is set by Pluto's stretched orbit. A half-circle takes at least about 82 years, and only for births whose half-circle runs through Pluto's quickest years, around its closest approach to the Sun in 1989: births of the 1940s and early 1950s. For births from 1930 to about 1960 it comes between about 82 and 86; after that it moves steadily away, to about 88 for a birth in 1965, 98 for 1975, 113 for 1985 and 130 for 1995. By 80, no one born from 1930 to 2009 has met it, and for everyone born from the 1980s on it lies beyond a human life.
 
-These years it is reaching the [Pluto in Leo](/astrology/pluto-in-leo/) generation, born from the late 1930s to 1958, between about 82 and 85½, and it will go on doing so until Pluto leaves Aquarius in early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
+In these years the opposition is reaching people of about 82 to 85½ born with [Pluto in Leo](/astrology/pluto-in-leo/), from the late 1930s to 1958, and it goes on doing so until Pluto leaves Aquarius in early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
 
 It closes a sequence of which most lives hold three steps: the sextile ([Transiting Pluto sextile natal Pluto](/astrology/transiting-pluto-sextile-natal-pluto/)) between about 21 and 36, the square ([Transiting Pluto square natal Pluto](/astrology/transiting-pluto-square-natal-pluto/)), the [Pluto square](/astrology/pluto-square/), between about 34½ and 59, and the trine ([Transiting Pluto trine natal Pluto](/astrology/transiting-pluto-trine-natal-pluto/)) from about 48½.
 

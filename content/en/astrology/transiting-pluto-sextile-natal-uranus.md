@@ -33,11 +33,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the sextile within my orbs, and the ages it comes at by birth year" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Uranus, one by one" }
 ---
-With Pluto 60° from your natal Uranus, two signs away, the planet of renewal lends depth to your wish for change. For two years or more, a reform you've been turning over can find a workable route, if you take it.
+With Pluto 60° from your natal Uranus, two signs away, the planet of renewal lends depth to your wish for change. A reform you've been turning over can find a workable route in the two years or more this sextile lasts, if you take it.
 
 ## What changes {#what-changes}
 
-[Uranus](/astrology/uranus/) enables innovation and reform: the constructive revision of a system, the experiment, the room to be different. The part [Pluto](/astrology/pluto/) plays is renewal: what can no longer last is cleared away. A [sextile](/astrology/sextile/), 60°, relates them through opportunity and cooperation, and opportunity requires engagement: under this [transit](/astrology/transits/), nothing changes on its own, but a change you choose tends to meet less resistance and more support than usual. A team can adopt the method you've been arguing for, a household can settle into a new arrangement, a group you belong to can make room for a newer way.
+[Uranus](/astrology/uranus/) enables innovation and reform: the constructive revision of a system, the experiment, the room to be different. The part [Pluto](/astrology/pluto/) plays is renewal: what can no longer last is cleared away. A [sextile](/astrology/sextile/), 60°, gives reform an ally rather than a push: under this [transit](/astrology/transits/), nothing changes on its own, but a reform you choose tends to meet less resistance and more support than usual. A team can adopt the method you've been arguing for, a household can settle into a new arrangement, a group you belong to can make room for a newer way.
 
 The sextile works through other people as well as through you, which makes one of Uranus's blind spots worth watching: treating other people's speed of adaptation as resistance. Allies move at their own pace, and a reform that brings them along usually outlasts one imposed at yours.
 
@@ -49,7 +49,7 @@ The houses tell you which system is ready. With Uranus in your 4th, the sextile 
 
 Taken from 1½° before exact to 1° after, the span I allow, this sextile lasts about two years and eight months, and the briefest passes about twenty-two months. Three exact hits are the rule, in about three passes out of five; the other passes bring five and stretch to about three years and seven months.
 
-About 5 people in 6 born between 1930 and 2009 meet it by 80, and about 1 in 16 twice. The age climbs with the birth year, roughly ten years for each decade of births, because Uranus keeps pulling away from Pluto and the distance Pluto must cover keeps growing. Read down the decades for births on 1 January: 13.9 for 1955, 23.9 for 1965, 33.1 for 1975, 47.2 for 1985 and 66.4 for 1995. On 1 January 1945, inside the Uranus–Pluto sextile of the 1940s, it was there at 0.1; on 1 January 2005, it came at 4.1, from Uranus's other side; on 1 January 1935, not by 80.
+Before turning 80, about five in six of the people born between 1930 and 2009 have met it, and about one in sixteen twice. The age climbs with the birth year, roughly ten years for each decade of births, because Uranus keeps pulling away from Pluto and the distance Pluto must cover keeps growing. Read down the decades for births on 1 January: 13.9 for 1955, 23.9 for 1965, 33.1 for 1975, 47.2 for 1985 and 66.4 for 1995. On 1 January 1945, inside the Uranus–Pluto sextile of the 1940s, it was there at 0.1; on 1 January 2005, it came at 4.1, from Uranus's other side; on 1 January 1935, not by 80.
 
 In the sky now, the sextile is with Uranus in Sagittarius: people born from 1981 to 1989 meet it between about 40 and 54, before Pluto leaves Aquarius in early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
 

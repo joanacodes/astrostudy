@@ -33,11 +33,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the square within my orbs, and the ages it comes at by birth year" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Uranus, read singly" }
 ---
-With Pluto a quarter of the zodiac from your natal Uranus, two drives for change meet at right angles: your need to live your own way, and a slower pressure to transform something from the root. For two years or more, they keep catching on each other.
+Pluto 90° from your natal Uranus sets two drives for change at right angles: your need to live your own way, and a slower pressure to transform something from the root. The two keep catching on each other for as long as the square lasts, two years or more.
 
 ## What changes {#what-changes}
 
-[Uranus](/astrology/uranus/) differentiates and frees: it needs room to question, to experiment, to arrange life its own way. [Pluto](/astrology/pluto/) transforms, slowly and from underneath. A [square](/astrology/square/), 90°, relates them through constructive friction, so under this [transit](/astrology/transits/) the speed of one rubs against the depth of the other. Uranus wants the change now; Pluto wants it to be real. A job, a household or a set of loyalties can start to feel too tight, while the way out turns out to need more than a clean break.
+[Uranus](/astrology/uranus/) differentiates and frees: it needs room to question, to experiment, to arrange life its own way. [Pluto](/astrology/pluto/) transforms, slowly and from underneath. At 90°, a [square](/astrology/square/) turns their meeting into friction that builds, so under this [transit](/astrology/transits/) the speed of one rubs against the depth of the other. Uranus wants the change now; Pluto wants it to be real. A job, a household or a set of loyalties can start to feel too tight, while the way out turns out to need more than a clean break.
 
 Both planets have a blind spot about change itself. Uranus can assume that disruption automatically produces progress; Pluto can confuse elimination with regeneration. Together they can make throwing everything out feel like freedom. The friction is more useful as a question: what, exactly, has become too small for you, and what would reforming it look like? Innovation isn't chaos, and the answers this square produces tend to be specific.
 

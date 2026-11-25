@@ -48,7 +48,7 @@ Les maisons disent où l’approfondissement se fait. Avec Jupiter en maison 9, 
 
 ## Combien de temps {#combien-de-temps}
 
-Le trigone de Pluton à Jupiter tient environ deux ans et huit mois dans mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois au plus rapide. Pluton passe environ cinq mois par an en rétrogradation : l’angle exact n’est donc jamais franchi une seule fois. Trois passages exacts dans environ trois cas sur cinq, cinq dans les autres, qui durent environ trois ans et sept mois.
+Le trigone de Pluton à Jupiter tient environ deux ans et huit mois ; mes orbes vont de 1,5° avant l’exactitude à 1° après, et les passages les plus rapides se bouclent en vingt-deux mois. Pluton passe environ cinq mois par an en rétrogradation : l’angle exact n’est donc jamais franchi une seule fois. Trois passages exacts dans environ trois cas sur cinq, cinq dans les autres, qui durent environ trois ans et sept mois.
 
 Avant 80 ans, environ 3 personnes sur 4 nées entre 1930 et 2009 l’ont vécu, et environ 1 sur 10 deux fois, une de chaque côté de Jupiter. L’âge ne permet pas de le dater, parce que Jupiter avance d’un signe par an : le trigone est entré dans l’orbe à 38 ans pour une naissance le 1er janvier 1955, à 13,8 ans pour le 1er janvier 1975 et à 28,2 ans pour le 1er janvier 2005, et pas avant 80 ans pour le 1er janvier 1985.
 

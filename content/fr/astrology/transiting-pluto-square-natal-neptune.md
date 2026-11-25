@@ -38,7 +38,7 @@ Des décennies après avoir franchi la place de Neptune dans votre thème natal,
 
 ## Ce qui change {#ce-qui-change}
 
-[Neptune](/astrology/neptune/) porte vos idéaux et votre compassion : ce que vous espérez, ce à quoi vous vous donnez, le sens que vous devinez au-delà du quotidien. [Pluton](/astrology/pluto/) transforme, en retirant ce qui ne tient plus pour que demeure quelque chose de plus juste. Un [carré](/astrology/square/), à 90°, relie les deux fonctions par une friction constructive : sous ce [transit](/astrology/transits/), un rêve qui vous a guidée ou guidé peut se mettre à frotter contre la vie que vous menez réellement. Une vocation peut changer de sens, une foi demander une forme plus simple, une longue habitude de donner chercher ses limites.
+[Neptune](/astrology/neptune/) porte vos idéaux et votre compassion : ce que vous espérez, ce à quoi vous vous donnez, le sens que vous devinez au-delà du quotidien. [Pluton](/astrology/pluto/) transforme, en retirant ce qui ne tient plus pour que demeure quelque chose de plus juste. Un [carré](/astrology/square/), à 90°, agit par friction, et sous ce [transit](/astrology/transits/), la friction oppose un rêve qui vous a guidée ou guidé à la vie que vous menez réellement. Une vocation peut changer de sens, une foi demander une forme plus simple, une longue habitude de donner chercher ses limites.
 
 Les angles morts de Neptune sont ceux à surveiller : confondre la compassion avec une disponibilité sans limite, et l’abandon avec l’impuissance. Laisser partir un rêve est un choix, pas une défaite, et en garder un délibérément aussi. Pluton rappelle que le changement est souvent progressif : ce carré se pose en général sur toute sa durée plutôt qu’en un instant. Et le flou de Neptune est une façon de parler des idéaux, pas de la mémoire, de l’humeur ou de la santé, qu’aucun transit ne peut prédire ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)).
 
@@ -52,7 +52,7 @@ Avec Neptune en maison 9, le carré vient des environs de la maison 12 ([Pluton 
 
 Deux personnes sur trois nées entre 1930 et 2009 le vivent avant 80 ans, une fois ; le dernier tiers, non. Sur les naissances du 1er janvier que j’ai comptées, l’orbe s’est ouvert à 65,9 ans pour 1935, 65,1 ans pour 1945 et 66,2 ans pour 1955, et s’ouvrira à 69,3 ans pour 1965 et 74,3 ans pour 1975. Personne ne le vit avant 63 ans environ, et pour les naissances à partir de 1982 environ, il se situe au-delà de 80 ans.
 
-Ces années-ci, le carré atteint les personnes nées de 1957 à 1970, avec Neptune en Scorpion, entre 65 et 72 ans environ : Pluton le forme depuis le Verseau jusqu’au début de 2044.
+Neptune en Scorpion est la position des naissances de 1957 à 1970, et Pluton en Verseau forme le carré à cette position jusqu’au début de 2044, quand ces personnes ont entre 65 et 72 ans environ.
 
 La conjonction est venue à tout le monde dans la vingtaine et le sextile ([Pluton en transit sextile Neptune du thème natal](/astrology/transiting-pluto-sextile-natal-neptune/)) touche presque tout le monde, tandis que le trigone ([Pluton en transit trigone Neptune du thème natal](/astrology/transiting-pluto-trine-natal-neptune/)) touche environ 1 personne sur 6 et l’opposition ([Pluton en transit opposition Neptune du thème natal](/astrology/transiting-pluto-opposite-natal-neptune/)) personne.
 

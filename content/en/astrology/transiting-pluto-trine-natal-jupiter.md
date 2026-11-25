@@ -47,7 +47,7 @@ The houses show where the deepening happens. With Jupiter in your 9th, the trine
 
 ## How long it lasts {#how-long-it-lasts}
 
-Pluto's trine to Jupiter holds for about two years and eight months inside my orbs, from 1½° before exact to 1° after, and twenty-two months at the quickest. Pluto spends about five months of each year retrograde, so it never crosses the exact trine just once: three times in about three passes out of five, five times in the others, which last about three years and seven months.
+Pluto's trine to Jupiter holds for about two years and eight months; my orbs run from 1½° before exact to 1° after, and the quickest passes are over in twenty-two months. Pluto spends about five months of each year retrograde, so it never crosses the exact trine just once: three times in about three passes out of five, five times in the others, which last about three years and seven months.
 
 By 80, about 3 people in 4 born between 1930 and 2009 have met it, about 1 in 10 of them twice, once from each side of Jupiter. Age can't date it, because Jupiter moves on by a sign a year: the trine came within orb at 38 for a birth on 1 January 1955, at 13.8 for 1 January 1975 and at 28.2 for 1 January 2005, and not by 80 for 1 January 1985.
 

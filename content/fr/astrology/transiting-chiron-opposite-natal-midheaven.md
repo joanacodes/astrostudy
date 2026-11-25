@@ -37,7 +37,7 @@ sources:
 
 ## Ce qui change {#ce-qui-change}
 
-Le [Fond du Ciel](/astrology/imum-coeli/), le point opposé à votre [Milieu du Ciel](/astrology/midheaven/), c’est le sol sous votre vie publique : les racines, la continuité, l’appartenance, les habitudes privées qui vous rechargent. Je ne le lis pas comme la seule famille. [Chiron](/astrology/chiron/), c’est un point sensible qui reste, et le lent savoir-faire de vivre avec. Une [opposition](/astrology/opposition/) relie les deux bouts d’une même ligne : dans ce [transit](/astrology/transits/), avec Chiron au bas de votre thème, votre direction dans le monde est vue depuis ses fondations.
+Le [Fond du Ciel](/astrology/imum-coeli/), le point opposé à votre [Milieu du Ciel](/astrology/midheaven/), c’est le sol sous votre vie publique : les racines, la continuité, l’appartenance, les habitudes privées qui vous rechargent. Je ne le lis pas comme la seule famille. [Chiron](/astrology/chiron/), c’est l’endroit où une limite a été vécue assez longtemps pour devenir un savoir. Avec une [opposition](/astrology/opposition/), les deux bouts d’une même ligne se lisent ensemble : dans ce [transit](/astrology/transits/), avec Chiron au bas de votre thème, votre direction dans le monde est vue depuis ses fondations.
 
 La question est souvent de savoir sur quoi repose votre vie publique. Certaines personnes découvrent que leur sentiment d’appartenance a toujours été un peu provisoire, dans une famille, une ville, une langue ou une culture, et qu’une bonne part de leurs efforts dans le monde servait à compenser. D’autres remarquent que le côté privé, le sommeil, les amitiés, un endroit où revenir, s’est usé pour faire tenir le côté public. L’angle mort du Fond du Ciel, c’est de confondre racines et rigidité. Les fondations se reconstruisent, et la manière de Chiron consiste à les bâtir autour de ce qui est sensible plutôt que par-dessus.
 
@@ -47,9 +47,9 @@ En Placidus, le système de maisons que j’utilise, le Fond du Ciel est la cusp
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Chiron passe en général dix mois environ sur votre Fond du Ciel, et le franchit trois fois près de deux passages sur trois. Un passage unique de trois semaines à peu près représente environ un passage sur trois ; cinq franchissements en vingt et un mois environ, un sur vingt.
+Les boucles de Chiron décident ici de la durée, comme partout. Compté de 1,5° avant l’exactitude à 1° après, un séjour typique sur votre Fond du Ciel dure une dizaine de mois et le touche trois fois, la forme de près de deux passages sur trois ; un tiers des passages ne le franchissent qu’une fois et s’en vont en trois semaines, et un sur vingt s’attarde vingt et un mois environ.
 
-Le passage au sommet de votre thème et celui-ci, au bas, font un couple inégal. Quand l’un tombe dans un signe que Chiron traverse lentement, l’autre se trouve dans le signe opposé, qu’il traverse plus vite : un long passage en boucle sur le Milieu du Ciel répond souvent à un passage vif sur le Fond du Ciel, ou l’inverse. La plupart des gens vivent ce passage deux fois avant 80 ans, certains une fois.
+Le passage au sommet de votre thème et celui-ci, au bas, font un couple inégal. Quand l’un tombe dans un signe que Chiron traverse lentement, l’autre se trouve dans le signe opposé, qu’il traverse plus vite : un long passage en boucle sur le Milieu du Ciel répond souvent à un passage vif sur le Fond du Ciel, ou l’inverse. Deux de ces passages avant 80 ans, c’est le compte courant, un seul quand le premier est venu tard.
 
 Il tombe au milieu du tour qui commence à [Chiron en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-chiron-conjunct-natal-midheaven/) : après [Chiron en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-chiron-sextile-natal-midheaven/), [Chiron en transit carré Milieu du Ciel du thème natal](/astrology/transiting-chiron-square-natal-midheaven/) et [Chiron en transit trigone Milieu du Ciel du thème natal](/astrology/transiting-chiron-trine-natal-midheaven/) à la descente, et avant les trois mêmes à la remontée.
 

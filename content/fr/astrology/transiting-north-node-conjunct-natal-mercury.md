@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Nœud Nord", "Mercure", "conjonction", "transits"]
 weight: 1927
 glyph: "☊☌☿"
-definition: "Le Nœud Nord en transit conjonction Mercure du thème natal, c’est le Nœud Nord sur le degré de Mercure à votre naissance, tous les 18,6 ans, un mois environ. Votre façon de penser, d’apprendre et de parler rejoint la direction que vous pratiquez encore, le Nœud Sud tenant le degré opposé. Une saison pour apprendre autrement."
+definition: "Le Nœud Nord en transit conjonction Mercure du thème natal, c’est le Nœud Nord sur le degré de Mercure à votre naissance pendant un mois, une fois tous les 18,6 ans. Votre façon de penser, d’apprendre et de parler rejoint la direction que vous pratiquez encore, le Nœud Sud tenant le degré opposé. Une saison pour apprendre autrement."
 facts:
   - { k: "En transit", v: "Le Nœud Nord ☊, le nœud vrai : une croissance qui demande de la pratique" }
   - { k: "Point natal", v: "Mercure ☿ : votre façon de recevoir, de trier et d’échanger l’information" }
@@ -41,7 +41,7 @@ Ce qui se présente, c’est souvent une façon de penser moins pratiquée : de
 
 Ce qui vient d’abord dépend de votre thème. Le nœud recule : si Mercure se trouve à un degré plus avancé que votre Soleil, le nœud passe d’abord sur Mercure et [Nœud Nord en transit conjonction Soleil du thème natal](/astrology/transiting-north-node-conjunct-natal-sun/) suit ; dans le cas contraire, le tour du Soleil vient d’abord.
 
-Mercure gouverne les Gémeaux, signe naturel de la maison 3, et avec [Mercure en maison 3](/astrology/mercury-in-3rd-house/) ce transit appartient au séjour du nœud dans cette maison ([Nœud Nord en transit en maison 3](/astrology/north-node-transit-3rd-house/)) : les lettres, les voisins, les frères et sœurs, les cours et les conversations de tous les jours. Mercure bouge si peu en un jour que votre date de naissance fixe presque le moment ; c’est la maison qui demande votre heure de naissance, et je ne lis pas ce transit sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Mercure gouverne les Gémeaux, signe naturel de la maison 3, et avec [Mercure en maison 3](/astrology/mercury-in-3rd-house/) ce transit appartient au séjour du nœud dans cette maison ([Nœud Nord en transit en maison 3](/astrology/north-node-transit-3rd-house/)) : les lettres, les voisins, les frères et sœurs, les cours et les conversations de tous les jours. Mercure bouge si peu en un jour que votre date de naissance fixe presque le moment ; c’est la maison qui a besoin de l’heure de naissance, et je ne lis pas ce transit sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

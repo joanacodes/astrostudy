@@ -48,13 +48,13 @@ Le côté d’où vient le carré change l’histoire. Venu d’en haut, près d
 
 Mes orbes allant de 1,5° avant l’exactitude à 1° après, le carré tient environ deux ans et huit mois, et peut s’étirer jusqu’à trois ans et neuf mois environ. Trois contacts exacts dans environ trois passages sur cinq, cinq dans les autres : c’est l’effet de la boucle rétrograde.
 
-Environ 7 personnes sur 8 nées entre 1930 et 2009 le vivent avant 80 ans, et personne deux fois : les deux points de carré se font face d’un bout à l’autre du zodiaque, et Pluton mettrait plus de 80 ans à aller de l’un à l’autre. Environ 1 personne sur 8 n’en rencontre aucun.
+Avant 80 ans, environ 7 personnes sur 8 nées entre 1930 et 2009 ont vécu l’un des deux carrés, jamais les deux : les deux points sont à 180° l’un de l’autre, et Pluton en parcourt bien moins en une vie. Le dernier huitième n’en rencontre aucun.
 
 Le lieu compte autant que l’heure. L’Ascendant est le point où le zodiaque croisait l’horizon est de la ville où vous êtes venue ou venu au monde : la même heure donne un autre degré ascendant quelques centaines de kilomètres plus loin, et une autre année pour ce carré.
 
-Jusqu’au début de 2044, Pluton en Verseau forme un carré à l’[Ascendant Taureau](/astrology/taurus-rising/), depuis les environs du Milieu du Ciel, et à l’[Ascendant Scorpion](/astrology/scorpio-rising/), depuis les environs du Fond du Ciel, les premiers degrés d’abord.
+Deux Ascendants sont sous ce carré pendant que Pluton traverse le Verseau, jusqu’au début de 2044 : l’[Ascendant Taureau](/astrology/taurus-rising/), depuis les environs du Milieu du Ciel, et l’[Ascendant Scorpion](/astrology/scorpio-rising/), depuis les environs du Fond du Ciel, les premiers degrés d’abord.
 
-Aucun autre contact de Pluton à votre Ascendant n’est aussi fréquent. Le sextile ([Pluton en transit sextile Ascendant du thème natal](/astrology/transiting-pluto-sextile-natal-ascendant/)) et le trigone ([Pluton en transit trigone Ascendant du thème natal](/astrology/transiting-pluto-trine-natal-ascendant/)) touchent environ 3 personnes sur 4, tandis que la conjonction ([Pluton en transit conjonction Ascendant du thème natal](/astrology/transiting-pluto-conjunct-natal-ascendant/)) et l’opposition ([Pluton en transit opposition Ascendant du thème natal](/astrology/transiting-pluto-opposite-natal-ascendant/)) manquent plus de la moitié des gens.
+Ce carré est le plus fréquent des contacts de Pluton à votre Ascendant. Environ 3 personnes sur 4 vivent le sextile ([Pluton en transit sextile Ascendant du thème natal](/astrology/transiting-pluto-sextile-natal-ascendant/)) ou le trigone ([Pluton en transit trigone Ascendant du thème natal](/astrology/transiting-pluto-trine-natal-ascendant/)) ; moins de la moitié, la conjonction ([Pluton en transit conjonction Ascendant du thème natal](/astrology/transiting-pluto-conjunct-natal-ascendant/)) ou l’opposition ([Pluton en transit opposition Ascendant du thème natal](/astrology/transiting-pluto-opposite-natal-ascendant/)).
 
 ## Ce qui aide {#ce-qui-aide}
 

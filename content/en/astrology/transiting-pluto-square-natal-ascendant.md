@@ -47,13 +47,13 @@ Which side the square comes from changes the story. Arriving from above, near yo
 
 In my orbs, which run from 1½° before exact to 1° after, the square holds for about two years and eight months and can stretch to about three and three-quarter years. Three exact hits in about three passes out of five, five in the rest: the retrograde loop sees to that.
 
-About 7 people in 8 born between 1930 and 2009 meet it by 80, and nobody meets it twice: the two square points face each other across the zodiac, and Pluto would need more than 80 years to travel from one to the other. About 1 in 8 meet neither.
+By 80, about 7 people in 8 born between 1930 and 2009 have met one of the two squares, never both: the points lie 180° apart, and Pluto covers well under that in a lifetime. The remaining 1 in 8 meet neither.
 
 The place counts as well as the time. The Ascendant is where the zodiac met the eastern horizon of the town where you were born, so the same clock time gives a different rising degree a few hundred miles away, and a different year for this square.
 
-Until early 2044, Pluto in Aquarius squares [Taurus rising](/astrology/taurus-rising/), from near the Midheaven, and [Scorpio rising](/astrology/scorpio-rising/), from near the IC, early degrees first.
+Two rising signs are under this square while Pluto crosses Aquarius, until early 2044: [Taurus rising](/astrology/taurus-rising/), from near the Midheaven, and [Scorpio rising](/astrology/scorpio-rising/), from near the IC, early degrees first.
 
-No other Pluto contact with your Ascendant is as common. The sextile ([Transiting Pluto sextile natal Ascendant](/astrology/transiting-pluto-sextile-natal-ascendant/)) and the trine ([Transiting Pluto trine natal Ascendant](/astrology/transiting-pluto-trine-natal-ascendant/)) reach about 3 people in 4, while the conjunction ([Transiting Pluto conjunct natal Ascendant](/astrology/transiting-pluto-conjunct-natal-ascendant/)) and the opposition ([Transiting Pluto opposite natal Ascendant](/astrology/transiting-pluto-opposite-natal-ascendant/)) miss more than half of people.
+This square is the commonest of Pluto's contacts with your Ascendant. About 3 people in 4 meet the sextile ([Transiting Pluto sextile natal Ascendant](/astrology/transiting-pluto-sextile-natal-ascendant/)) or the trine ([Transiting Pluto trine natal Ascendant](/astrology/transiting-pluto-trine-natal-ascendant/)); fewer than half meet the conjunction ([Transiting Pluto conjunct natal Ascendant](/astrology/transiting-pluto-conjunct-natal-ascendant/)) or the opposition ([Transiting Pluto opposite natal Ascendant](/astrology/transiting-pluto-opposite-natal-ascendant/)).
 
 ## What helps {#what-helps}
 

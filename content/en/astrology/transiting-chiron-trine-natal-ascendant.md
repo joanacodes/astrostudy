@@ -46,9 +46,9 @@ The ease is gentle; the dating is strict. A quarter of an hour's doubt about you
 
 Most of these trines last about ten months, counted with my orbs from 1½° before exact to 1° after, and touch exact three times as Chiron loops; that is the shape of nearly two passes in three. A third are single crossings of about three weeks, and the longest, one pass in twenty, run to some twenty-one months with five touches.
 
-By 80 most people have met three, and nobody misses them. Chiron in Aries, until April 2027, trines Leo rising from above the horizon and Sagittarius rising from below; Chiron in Taurus, from 2026 to 2034, does the same for Virgo and Capricorn rising; Chiron in Gemini, from 2033, for Libra and Aquarius rising, in that order.
+By 80 the tally is three for most charts and at least two for all. Chiron in Aries, until April 2027, trines Leo rising from above the horizon and Sagittarius rising from below; Chiron in Taurus, from 2026 to 2034, does the same for Virgo and Capricorn rising; Chiron in Gemini, from 2033, for Libra and Aquarius rising, in that order.
 
-On the way out from [transiting Chiron conjunct natal Ascendant](/astrology/transiting-chiron-conjunct-natal-ascendant/), through [transiting Chiron sextile natal Ascendant](/astrology/transiting-chiron-sextile-natal-ascendant/) and [transiting Chiron square natal Ascendant](/astrology/transiting-chiron-square-natal-ascendant/), the first trine comes with Chiron below the horizon; the second comes after [transiting Chiron opposite natal Ascendant](/astrology/transiting-chiron-opposite-natal-ascendant/), above it.
+Counting from [transiting Chiron conjunct natal Ascendant](/astrology/transiting-chiron-conjunct-natal-ascendant/), the first trine is the third stop, after [transiting Chiron sextile natal Ascendant](/astrology/transiting-chiron-sextile-natal-ascendant/) and [transiting Chiron square natal Ascendant](/astrology/transiting-chiron-square-natal-ascendant/), and Chiron is still under the horizon when it comes; the second waits until [transiting Chiron opposite natal Ascendant](/astrology/transiting-chiron-opposite-natal-ascendant/) is behind it and Chiron has crossed into the upper houses.
 
 ## What helps {#what-helps}
 

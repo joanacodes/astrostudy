@@ -35,17 +35,17 @@ Un sextile au Milieu du Ciel est une invitation discrète, une porte vers votre 
 
 ## Ce qui change {#ce-qui-change}
 
-Le [Milieu du Ciel](/astrology/midheaven/) encadre la façon dont vos capacités deviennent visibles : des rôles, des responsabilités, des contributions. [Chiron](/astrology/chiron/), c’est l’expérience de vivre avec une limite, et l’envie de transmettre ce qu’elle a appris. Un [sextile](/astrology/sextile/) les relie par l’occasion : dans ce [transit](/astrology/transits/), des chances viennent d’employer cette expérience en public, une invitation à accompagner quelqu’un, à écrire ou à parler d’une difficulté que vous connaissez bien, à prendre un rôle où votre histoire compte comme un atout plutôt que comme une chose à expliquer.
+Le [Milieu du Ciel](/astrology/midheaven/) encadre la façon dont vos capacités deviennent visibles : des rôles, des responsabilités, des contributions. [Chiron](/astrology/chiron/), c’est l’expérience de vivre avec une limite, et l’envie de transmettre ce qu’elle a appris. Un [sextile](/astrology/sextile/) propose sans imposer : dans ce [transit](/astrology/transits/), des chances viennent d’employer cette expérience en public, une invitation à accompagner quelqu’un, à écrire ou à parler d’une difficulté que vous connaissez bien, à prendre un rôle où votre histoire compte comme un atout plutôt que comme une chose à expliquer.
 
 Chaque tour apporte deux sextiles, à deux maisons environ de part et d’autre du sommet de votre thème. L’un vient quand Chiron monte vers votre Milieu du Ciel, et prépare souvent le terrain du passage lui-même ([Chiron en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-chiron-conjunct-natal-midheaven/)) ; l’autre quand Chiron redescend vers votre Ascendant, au moment où ce que ce passage vous a appris peut servir. Dans les deux cas, le sextile à votre Milieu du Ciel est aussi un trigone à votre [Fond du Ciel](/astrology/imum-coeli/) : le foyer et la vie privée soutiennent souvent le pas au lieu de lui faire concurrence.
 
 Un sextile est une offre, pas une promotion. L’angle mort du Milieu du Ciel, c’est de confondre la reconnaissance avec la légitimité, et ce transit agit que quelqu’un applaudisse ou non. Rien ici ne prédit un emploi, un titre ni un changement de carrière.
 
-Le Milieu du Ciel dépend du lieu de naissance autant que de la minute : le même instant donne des Milieux du Ciel distants de trois degrés environ à Londres et à Édimbourg, assez pour déplacer ce sextile de presque un an quand Chiron est lent. J’ai besoin des deux avant de lire quoi que ce soit ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le Milieu du Ciel dépend du lieu de naissance autant que de la minute : le même instant donne des Milieux du Ciel distants de trois degrés environ à Londres et à Édimbourg, assez pour déplacer ce sextile de presque un an quand Chiron est lent. Sans les deux, pas de Milieu du Ciel d’où mesurer, et donc pas de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, le sextile dure en général dix mois environ, avec trois contacts exacts près de deux passages sur trois. Quand Chiron ne passe qu’une fois, environ un passage sur trois, il dure trois semaines à peu près, et un passage sur vingt s’étire sur vingt et un mois environ avec cinq contacts.
+Mesuré avec mes orbes, 1,5° avant l’exactitude et 1° après, un sextile au Milieu du Ciel dure une dizaine de mois, et près de deux passages sur trois apportent trois contacts exacts. Quand Chiron ne passe qu’une fois, environ un passage sur trois, il dure trois semaines à peu près, et un passage sur vingt s’étire sur vingt et un mois environ avec cinq contacts.
 
 Sur une vie jusqu’à 80 ans, le compte est en général de trois. Avec un Milieu du Ciel en Gémeaux, en Cancer ou en Lion, ces années apportent le sextile pendant la montée de Chiron, depuis le Bélier, le Taureau puis les Gémeaux ; avec un Milieu du Ciel en Verseau, en Poissons ou en Bélier, elles l’apportent quand il redescend du sommet.
 
@@ -57,4 +57,4 @@ Dire oui à une invitation qui s’appuie sur ce que l’expérience vous a appr
 
 Demander le genre de reconnaissance que vous accorderiez volontiers à quelqu’un d’autre à votre place.
 
-Laisser le foyer vous soutenir. Dire aux personnes avec qui vous vivez ce que vous prenez en charge.
+Laisser le foyer vous soutenir : parler du projet aux personnes avec qui vous vivez avant le premier pas, pas après.

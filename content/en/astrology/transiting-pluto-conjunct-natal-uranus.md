@@ -33,7 +33,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto stays on Uranus within my orbs, and who meets it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Uranus" }
 ---
-When Pluto reaches the degree of your natal Uranus, the planet of renewal merges with the part of you that wants to be free and different. Only people born after the mid-1960s ever meet it, and the later the birth, the later it comes.
+Pluto's arrival on your natal Uranus merges the planet of renewal with the part of you that wants to be free and different. Only people born after the mid-1960s ever meet it, and the later the birth, the later it comes.
 
 ## What changes {#what-changes}
 
@@ -53,7 +53,7 @@ Who meets it goes back to that meeting in Virgo. Uranus, round the zodiac in 84 
 
 Right now it belongs to people born with Uranus in Aquarius, from 1996 to 2004: Pluto, in Aquarius until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), reaches them between about 26 and 40.
 
-The same geometry sets the other contacts. For births of the mid-1960s, Pluto's square to natal Uranus ([Transiting Pluto square natal Uranus](/astrology/transiting-pluto-square-natal-uranus/)) came at about 36, alongside their [Pluto square](/astrology/pluto-square/), and its trine ([Transiting Pluto trine natal Uranus](/astrology/transiting-pluto-trine-natal-uranus/)) at about 49. As for the sextile ([Transiting Pluto sextile natal Uranus](/astrology/transiting-pluto-sextile-natal-uranus/)), it reaches about 5 people in 6, and the opposition ([Transiting Pluto opposite natal Uranus](/astrology/transiting-pluto-opposite-natal-uranus/)) about 2 in 5.
+The same geometry sets the other contacts. Pluto's square to natal Uranus ([Transiting Pluto square natal Uranus](/astrology/transiting-pluto-square-natal-uranus/)) arrived at about 36 for births of the mid-1960s, with the [Pluto square](/astrology/pluto-square/), and its trine ([Transiting Pluto trine natal Uranus](/astrology/transiting-pluto-trine-natal-uranus/)) at about 49. As for the sextile ([Transiting Pluto sextile natal Uranus](/astrology/transiting-pluto-sextile-natal-uranus/)), it reaches about 5 people in 6, and the opposition ([Transiting Pluto opposite natal Uranus](/astrology/transiting-pluto-opposite-natal-uranus/)) about 2 in 5.
 
 ## What helps {#what-helps}
 

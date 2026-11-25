@@ -52,7 +52,7 @@ One opposition comes in each of Chiron's rounds of about 50 years, so most peopl
 
 The Scorpio-Neptune generation, born between about 1956 and 1970, meets its second opposition while Chiron crosses Taurus, between 2026 and 2034, mostly in their sixties and early seventies. Their first came the last time Chiron crossed Taurus, in the late 1970s and early 1980s.
 
-The opposition is the far point of the round that [transiting Chiron conjunct natal Neptune](/astrology/transiting-chiron-conjunct-natal-neptune/) begins. On the way to it come [transiting Chiron sextile natal Neptune](/astrology/transiting-chiron-sextile-natal-neptune/), [transiting Chiron square natal Neptune](/astrology/transiting-chiron-square-natal-neptune/) and [transiting Chiron trine natal Neptune](/astrology/transiting-chiron-trine-natal-neptune/), and the same three return in reverse on the way home.
+Seen from [transiting Chiron conjunct natal Neptune](/astrology/transiting-chiron-conjunct-natal-neptune/), where the round begins, this is its far side. On the way to it come [transiting Chiron sextile natal Neptune](/astrology/transiting-chiron-sextile-natal-neptune/), [transiting Chiron square natal Neptune](/astrology/transiting-chiron-square-natal-neptune/) and [transiting Chiron trine natal Neptune](/astrology/transiting-chiron-trine-natal-neptune/), and the same three return in reverse on the way home.
 
 ## What helps {#what-helps}
 

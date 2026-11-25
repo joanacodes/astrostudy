@@ -45,9 +45,9 @@ Because everyone born within a year or two of you shares it at nearly the same a
 
 ## How long it lasts {#how-long-it-lasts}
 
-With my orbs, from 1½° before exact to 1° after, the sextile lasts about two years and eight months, twenty-two months at the quickest, with three exact hits in about three passes out of five and five in the rest.
+The sextile of Pluto to its own birth place lasts about two years and eight months, or twenty-two months at the quickest, counting from 1½° before exact to 1° after, the orbs I use; about three passes in five are exact three times, the rest five times.
 
-Everyone born between 1930 and 2009 meets it once, between 21.5 and 36.1, and the ages trace Pluto's uneven pace. The ages fall and then rise again: 33.8 for a birth on 1 January 1935, 29.9 for 1945, 26.8 for 1955, 24 for 1965 and 23.1 for 1975, then 24.1 for 1985, 27.2 for 1995 and 31.3 for 2005. Pluto's orbit is so stretched that it spends about 12 years in some signs and about 31 in others, and it moved fastest around its closest approach to the Sun, in 1989. Born in the 1970s, your first 60° ran through those quick years; born in the 1930s, through slow ones ([generational placements by birth year](/astrology/generational-placements-by-birth-year/)).
+Everyone born between 1930 and 2009 meets it once, between 21.5 and 36.1, and the ages trace Pluto's uneven pace. Births on 1 January show the dip: 33.8 in 1935, 29.9 in 1945, 26.8 in 1955, 24 in 1965 and 23.1 in 1975, then back up to 24.1 in 1985, 27.2 in 1995 and 31.3 in 2005. Pluto spends about 12 years in some signs and about 31 in others, so stretched is its orbit, and it moved fastest around its closest approach to the Sun, in 1989. Born in the 1970s, your first 60° ran through those quick years; born in the 1930s, through slow ones ([generational placements by birth year](/astrology/generational-placements-by-birth-year/)).
 
 Today's sextile belongs to the [Pluto in Sagittarius](/astrology/pluto-in-sagittarius/) generation, born from 1995 to 2008, who meet it between about 26 and 34 while Pluto crosses Aquarius, until early 2044.
 
@@ -59,4 +59,4 @@ Choose one pattern to change, and change it deliberately: a way of reacting, a d
 
 Start where your Pluto sits. The house is where the opening is widest.
 
-Talk to people your age. Your whole year group shares this sextile, and comparing notes makes it less private and less heavy.
+Talk it over with your own year group. All of them share this sextile, and comparing notes makes it less private and less heavy.

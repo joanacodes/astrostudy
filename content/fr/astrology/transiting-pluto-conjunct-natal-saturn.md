@@ -34,7 +34,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton reste sur Saturne dans mes orbes, et combien de personnes le vivent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Saturne" }
 ---
-Quand Pluton atteint le degré de Saturne dans votre thème natal, la planète de la transformation s’installe sur la part de vous qui bâtit, porte et dure. Pendant deux ans ou plus, les structures sur lesquelles repose votre vie sont examinées par en dessous.
+Pluton s’installe deux ans ou plus sur le degré de Saturne dans votre thème natal, la part de vous qui bâtit, porte et dure, et les structures sur lesquelles repose votre vie sont examinées par en dessous.
 
 ## Ce qui change {#ce-qui-change}
 
