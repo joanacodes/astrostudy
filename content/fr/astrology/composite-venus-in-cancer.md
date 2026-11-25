@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Vénus", "Cancer", "thème composite"]
 weight: 2052
 glyph: "♀♋"
-definition: "Vénus composite en Cancer place la Vénus du thème d’une relation, mi-point de deux Vénus natales, en eau cardinale, dans le signe que gouverne la Lune. Les astrologues y lisent un lien aux plaisirs protecteurs et accueillants : une soirée chez soi, un soin spontané, des objets gardés pour leurs souvenirs. Elle ne prédit rien de son avenir."
+definition: "Vénus composite en Cancer place la Vénus du thème d’une relation, mi-point de deux Vénus natales, en eau cardinale, dans le signe que gouverne la Lune. Pour les astrologues, les plaisirs du lien sont protecteurs et accueillants : une soirée chez soi, un soin spontané, une table toujours mise pour la famille."
 facts:
   - { k: "Corps", v: "Vénus composite ♀, mi-point de vos deux Vénus natales" }
   - { k: "Signe", v: "Cancer ♋, eau cardinale, gouverné par la Lune ; ni dignité ni faiblesse pour Vénus" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-cancer", "/astrology/cancer", "/astrology/moon", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Vénus composite en Cancer ?"
-    a: "Le point situé à mi-chemin entre vos deux Vénus natales se trouve en Cancer : la relation estime l’abri et l’appartenance, le temps passé chez soi, le soin donné sans qu’on le demande, les objets gardés pour leurs souvenirs. Les astrologues y lisent un lien protecteur et accueillant. Elle décrit ce que la paire aime et protège, pas l’une ou l’autre personne, ni son avenir."
+    a: "Le point situé à mi-chemin entre vos deux Vénus natales se trouve en Cancer : la relation estime l’abri et l’appartenance, le temps passé chez soi, le soin donné sans qu’on le demande, les objets gardés pour leurs souvenirs. Si accueillant qu’il soit, le lien peut aussi protéger son intimité de très près."
   - q: "Vénus composite en Cancer veut-elle dire que nous fonderons une famille ?"
     a: "Non. Aucun thème ne peut dire si deux personnes se marieront ou auront des enfants, et le composite ne fait pas exception. Vénus composite en Cancer décrit le soin à l’intérieur d’un lien, que des amis, des frères et sœurs ou des collègues peuvent partager autant qu’un couple. Ce que vous construisez reste votre choix."
   - q: "Vénus composite en Cancer est-elle bonne pour une relation ?"

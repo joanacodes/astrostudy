@@ -2,7 +2,7 @@
 title: "Vénus composite en maison 1"
 slug: "venus-composite-en-maison-1"
 h1: "Vénus composite en maison 1 : le thème de la relation"
-description: "Vénus composite en maison 1 : une relation dont la chaleur se voit d’abord. Ce qu’elle estime, et pourquoi l’ascendant composite dépend de la méthode."
+description: "Vénus composite en maison 1 : une relation dont la chaleur se voit d’abord. Comment elle se présente, et pourquoi son ascendant dépend de la méthode."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Vénus", "maison 1", "thème composite"]
 weight: 2061
 glyph: "♀"
-definition: "Vénus composite en maison 1 place la Vénus du thème de la relation dans la maison de la présence, la première après l’ascendant composite. Les astrologues y lisent un lien dont la chaleur et les goûts se voient d’abord : on s’attache à la paire avant de connaître chaque personne. Elle demande les deux heures de naissance et une méthode."
+definition: "Vénus composite en maison 1 place la Vénus du thème de la relation dans la maison de la présence, qu’ouvre l’ascendant composite. La chaleur et les goûts de la paire se voient d’abord : on s’attache à elle avant de connaître chaque personne. Les deux heures de naissance sont nécessaires, et selon la méthode, Vénus peut changer de maison."
 facts:
   - { k: "Corps", v: "Vénus composite ♀" }
   - { k: "Maison", v: "Maison 1, à partir de l’ascendant composite" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-1st-house", "/astrology/1st-house", "/astrology/ascendant", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Vénus composite en maison 1 ?"
-    a: "Que la Vénus de votre relation tombe dans la maison qui commence à l’ascendant composite : ce que le lien estime et aime se voit, et l’on rencontre la chaleur, les goûts et l’aisance de la paire avant de connaître l’une ou l’autre personne. Les astrologues y lisent une présence gracieuse. Elle décrit la relation, pas son avenir."
+    a: "Que la Vénus de votre relation tombe dans la maison qui commence à l’ascendant composite : ce que le lien estime et aime se voit, et l’on rencontre la chaleur, les goûts et l’aisance de la paire avant de connaître l’une ou l’autre personne. Les astrologues parlent alors d’une présence gracieuse."
   - q: "Faut-il nos deux heures de naissance pour Vénus composite en maison 1 ?"
     a: "Oui. Sans elles, le thème composite n’a ni ascendant ni maisons. Avec elles, il reste à choisir entre deux façons de calculer l’ascendant, qui ne s’accordent pas toujours : une Vénus à quelques degrés de lui peut changer de maison selon la méthode."
   - q: "Vénus composite en maison 1 est-elle le signe d’une bonne relation ?"
@@ -34,7 +34,7 @@ Certaines paires plaisent au premier regard. Une hôtesse qui les reçoit une fo
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-La maison 1 du [thème composite](/astrology/composite-chart/) commence à l'[ascendant](/astrology/ascendant/) composite, et c’est sur ce point que les méthodes divergent le plus. L’une prend le mi-point de vos deux ascendants natals ; l’autre trouve d’abord le Milieu du Ciel composite, puis en tire un ascendant pour le lieu où vous habitez, c’est-à-dire pour sa latitude. Les deux heures de naissance entrent dans l’un comme dans l’autre calcul ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et avec une [Vénus](/astrology/venus/) à quelques degrés de l’ascendant, une méthode peut la placer en maison 1 et l’autre en maison 12, ce qui raconte une autre histoire ([Vénus composite en maison 12](/astrology/composite-venus-in-12th-house/)).
+La maison 1 du [thème composite](/astrology/composite-chart/) commence à l’[ascendant](/astrology/ascendant/) composite, et c’est sur ce point que les méthodes divergent le plus. L’une prend le mi-point de vos deux ascendants natals ; l’autre trouve d’abord le Milieu du Ciel composite, puis en tire un ascendant pour le lieu où vous habitez, c’est-à-dire pour sa latitude. Les deux heures de naissance entrent dans l’un comme dans l’autre calcul ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et avec une [Vénus](/astrology/venus/) à quelques degrés de l’ascendant, une méthode peut la placer en maison 1 et l’autre en maison 12, ce qui raconte une autre histoire ([Vénus composite en maison 12](/astrology/composite-venus-in-12th-house/)).
 
 En [maison 1](/astrology/1st-house/), angulaire et de signe naturel Bélier, Vénus met en surface les goûts et la chaleur du lien. La paire arrive bien : un style commun que les autres remarquent, une façon d’accueillir qui donne à chacun le sentiment d’en être, une aisance qui détend une pièce tendue. Des personnes gauches chacune de leur côté peuvent être charmantes ensemble, et le sont souvent. La tradition donnait cette maison à Mercure comme joie, et son signe naturel, le Bélier, est l’exil de Vénus : ce charme marche le mieux quand il est franc plutôt que simplement lisse. Une [Vénus en maison 1](/astrology/venus-in-1st-house/) natale décrit une grâce visible tout de suite ; en synastrie, [Vénus de l’autre dans votre maison 1](/astrology/venus-in-1st-house-synastry/) parle du charme qu’on trouve à la présence de l’autre. Ici, la grâce appartient à vous deux ensemble.
 

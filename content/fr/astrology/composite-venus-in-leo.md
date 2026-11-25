@@ -2,7 +2,7 @@
 title: "Vénus composite en Lion"
 slug: "venus-composite-en-lion"
 h1: "Vénus composite en Lion : le thème de la relation"
-description: "Vénus composite en Lion : une relation qui fête, crée et montre sa chaleur, avec le Soleil composite pour maître. Ce qu’elle estime, et ce qu’elle ne dit pas."
+description: "Vénus composite en Lion : une relation qui fête, crée et montre sa chaleur, avec le Soleil composite pour maître. Ce qu’elle aime, et ce qu’elle attend."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Vénus", "Lion", "thème composite"]
 weight: 2053
 glyph: "♀♌"
-definition: "Vénus composite en Lion place la Vénus du thème d’une relation, mi-point de deux Vénus natales, en feu fixe, dans le signe que gouverne le Soleil. Les astrologues y lisent un lien qui estime l’expression : des fêtes, des choses créées ensemble, une chaleur montrée franchement et rendue en reconnaissance. Elle décrit la paire, jamais sa durée."
+definition: "Vénus composite en Lion place la Vénus du thème d’une relation, mi-point de deux Vénus natales, en feu fixe, dans le signe que gouverne le Soleil. Les astrologues y voient un lien qui estime l’expression : des fêtes, des choses créées ensemble, une chaleur montrée franchement et rendue en reconnaissance. Son maître, le Soleil composite, est d’ordinaire tout près."
 facts:
   - { k: "Corps", v: "Vénus composite ♀, mi-point de vos deux Vénus natales" }
   - { k: "Signe", v: "Lion ♌, feu fixe, gouverné par le Soleil ; ni dignité ni faiblesse pour Vénus" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-leo", "/astrology/leo", "/astrology/composite-sun-in-leo", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Vénus composite en Lion ?"
-    a: "Que le mi-point de vos deux Vénus natales tombe en Lion : la relation estime l’expression, fêter, créer, montrer sa chaleur franchement et généreusement. Les astrologues y lisent un lien qui aime les grandes occasions et la reconnaissance dans les deux sens. Elle décrit les goûts et les plaisirs de la paire, pas l’une ou l’autre personne, ni la durée de la relation."
+    a: "Que le mi-point de vos deux Vénus natales tombe en Lion : la relation estime l’expression, fêter, créer, montrer sa chaleur franchement et généreusement. Elle aime les grandes occasions, et vit de la reconnaissance donnée dans les deux sens."
   - q: "Pourquoi le Soleil composite compte-t-il pour Vénus composite en Lion ?"
     a: "Parce que le Soleil gouverne le Lion : le Soleil composite est à la fois le maître de cette Vénus et le centre de la relation. Pour environ 9 paires sur 10, les deux sont à moins de 47° l’un de l’autre et travaillent ensemble. Quand le Soleil composite tombe loin, effet des mi-points, les astrologues y rattachent quand même cette Vénus."
   - q: "Vénus composite en Lion parle-t-elle d’amour romantique ?"
@@ -37,7 +37,7 @@ Un thème composite se construit mi-point par mi-point, et celui de Vénus est l
 
 Nul besoin d’une paire extravertie : chacune des deux personnes peut préférer un coin tranquille aux fêtes des autres, et la relation reste celle qui reçoit. Ses goûts vont à l’occasion et à la création : une scène partagée, une chorale, un dîner servi avec un peu de cérémonie, des cadeaux choisis pour être ouverts devant tout le monde. La reconnaissance compte pour lui dans les deux sens : cette relation aime être appréciée, et elle sait apprécier les autres, souvent à voix haute. La chaleur généreuse d’une [Vénus en Lion](/astrology/venus-in-leo/) natale appartient à une personne ; ici, elle appartient à la paire, et l’entourage remarque parfois votre générosité à deux plus que celle de chacune des deux personnes. Environ 1 paire sur 12 a Vénus composite dans ce signe.
 
-Comme le Soleil gouverne le Lion, l’écart entre Vénus composite et Soleil composite compte double sur cette page : c’est aussi l’écart entre cette Vénus et son maître. Dans environ 9 paires sur 10, ils restent dans un rayon de 47°, le Soleil composite entre les Gémeaux et la Balance, souvent en Lion lui-même ([Soleil composite en Lion](/astrology/composite-sun-in-leo/)), et les plaisirs du lien parlent d’une seule voix avec son identité. Pour environ 1 paire sur 22, deux anniversaires très éloignés dans l’année placent plutôt le Soleil composite du côté du Verseau, en vis-à-vis de sa propre Vénus, de l’autre côté du thème. C’est ce que font les mi-points quand chaque planète a le sien ; ce n’est pas le signe d’un lien divisé.
+Comme le Soleil gouverne le Lion, l’écart entre Vénus composite et Soleil composite compte double ici : c’est aussi l’écart entre cette Vénus et son maître. Dans environ 9 paires sur 10, ils restent dans un rayon de 47°, le Soleil composite entre les Gémeaux et la Balance, souvent en Lion lui-même ([Soleil composite en Lion](/astrology/composite-sun-in-leo/)), et les plaisirs du lien parlent d’une seule voix avec son identité. Pour environ 1 paire sur 22, deux anniversaires très éloignés dans l’année placent plutôt le Soleil composite du côté du Verseau, en vis-à-vis de sa propre Vénus, de l’autre côté du thème. C’est ce que font les mi-points quand chaque planète a le sien ; ce n’est pas le signe d’un lien divisé.
 
 Être vu n’est pas avoir besoin d’un public, mais une relation qui aime montrer sa chaleur peut finir par la mesurer à ses gestes. Les semaines calmes peuvent ressembler à un déclin, et une fête peut se mettre en scène pour les invités plus qu’elle ne se vit pour ses hôtes. Ce qui aide, c’est un plaisir sans aucun public : quelque chose que vous faites, fabriquez ou vous dites à deux sans que personne le voie, et une reconnaissance dite simplement un mardi ordinaire.
 

@@ -2,7 +2,7 @@
 title: "Vénus composite en Taureau"
 slug: "venus-composite-en-taureau"
 h1: "Vénus composite en Taureau : le thème de la relation"
-description: "Vénus composite en Taureau : une relation dont les plaisirs durent des années, Vénus dans son propre signe. Ce qu’elle estime, sa fréquence, ses limites."
+description: "Vénus composite en Taureau : une relation dont les plaisirs durent des années, Vénus dans son propre signe. Sa fréquence, et là où elle s’enlise."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Vénus", "Taureau", "thème composite"]
 weight: 2050
 glyph: "♀♉"
-definition: "Vénus composite en Taureau est la Vénus du thème de la relation, mi-point de deux Vénus natales, dans l’un de ses signes, terre fixe. Les astrologues y lisent un lien qui estime ce qui dure : des plaisirs répétés jusqu’à devenir les siens, des choses entretenues, une affection fidèle au rendez-vous. Elle décrit le lien, pas sa durée."
+definition: "Vénus composite en Taureau est la Vénus du thème de la relation, mi-point de deux Vénus natales, dans l’un de ses signes, terre fixe. Les astrologues y lisent un lien qui estime ce qui dure : des plaisirs répétés jusqu’à devenir les siens, des choses entretenues, une affection fidèle au rendez-vous. Aimer ce qui dure ne promet pas de durer."
 facts:
   - { k: "Corps", v: "Vénus composite ♀, mi-point de vos deux Vénus natales" }
   - { k: "Signe", v: "Taureau ♉, terre fixe, gouverné par Vénus elle-même : son domicile" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-taurus", "/astrology/taurus", "/astrology/domicile", "/astrology/composite-sun-in-taurus"]
 faq:
   - q: "Que veut dire Vénus composite en Taureau ?"
-    a: "Que le point situé à mi-chemin entre vos deux Vénus natales se trouve en Taureau, l’un des deux signes que gouverne Vénus. La relation estime la continuité : des habitudes communes entretenues, des choses dont vous prenez soin ensemble, des plaisirs qui s’approfondissent en se répétant. Elle décrit les goûts du lien, pas l’une ou l’autre personne, ni sa durée."
+    a: "Que le point situé à mi-chemin entre vos deux Vénus natales se trouve en Taureau, l’un des deux signes que gouverne Vénus. La relation estime la continuité : des habitudes communes entretenues, des choses dont vous prenez soin ensemble, des plaisirs qui s’approfondissent en se répétant. Cette continuité est un plaisir que la paire choisit, pas une garantie écrite dans le thème."
   - q: "Vénus composite est-elle forte en Taureau ?"
     a: "La tradition fait du Taureau un domicile de Vénus, un signe où la planète agit selon ses propres règles, et Vénus composite gouverne alors le signe qu’elle occupe. La façon dont le lien donne de la valeur est nette et stable. Un placement fort décrit une manière, pas un résultat : il ne promet rien sur l’avenir de la relation."
   - q: "Vénus composite en Taureau est-elle fréquente ?"

@@ -1,7 +1,7 @@
 ---
 title: "Composite Venus in Libra"
 h1: "Composite Venus in Libra: the relationship’s chart"
-description: "Composite Venus in Libra: a relationship that values fairness, balance and good company, Venus in its own sign. What it values, and why its Sun can face it."
+description: "Composite Venus in Libra: a relationship that values fairness, balance and good company, Venus in its own sign. Its give-and-take, and why its Sun can face it."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Venus", "Libra", "composite chart"]
 weight: 2055
 glyph: "♀♎"
-definition: "Composite Venus in Libra places the Venus of a relationship’s chart, the midpoint of two natal Venuses, in cardinal air, one of the two signs Venus rules. Astrologers read it as a bond that values the give-and-take itself: fairness, proportion, courtesy, decisions made together. It describes how the pair weighs and shares, not whether it will last."
+definition: "Composite Venus in Libra places the Venus of a relationship’s chart, the midpoint of two natal Venuses, in cardinal air, one of the two signs Venus rules. What pleases this bond is the give-and-take itself: fairness, proportion, courtesy, decisions made together. Keeping the peace can cost it an honest quarrel."
 facts:
   - { k: "Body", v: "Composite Venus ♀, the midpoint of your two natal Venuses" }
   - { k: "Sign", v: "Libra ♎, cardinal air, ruled by Venus itself: its domicile" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-libra", "/astrology/libra", "/astrology/domicile", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Venus in Libra mean?"
-    a: "That the midpoint of your two natal Venuses lies in Libra, one of the signs Venus rules, so the relationship values balance, fairness and shared decisions. Astrologers read it as a cooperative, courteous bond that enjoys arrangements suiting both people. It describes how the pair gives and takes, not either person, and not whether it lasts."
+    a: "It means the midpoint of your two natal Venuses lies in Libra, one of the signs Venus rules, so the relationship values balance, fairness and shared decisions. Courtesy comes easily to it, and so do arrangements that suit both people."
   - q: "Does composite Venus in Libra mean marriage?"
     a: "No. Libra is the sign of partnership, but no chart, composite or natal, can say whether two people will marry or stay together. This placement describes how a bond values fairness and cooperation, which applies as much to friends, colleagues and family as to a couple."
   - q: "Can composite Venus be opposite the composite Sun?"

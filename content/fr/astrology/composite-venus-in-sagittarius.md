@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Vénus", "Sagittaire", "thème composite"]
 weight: 2057
 glyph: "♀♐"
-definition: "Vénus composite en Sagittaire place la Vénus du thème d’une relation, mi-point de deux Vénus natales, en feu mutable, dans le signe que gouverne Jupiter. Les astrologues y lisent un lien dont les plaisirs élargissent le monde : voyages, études, grandes questions, rires partagés autour d’une longue table. Elle décrit ce que la paire aime, jamais où elle aboutira."
+definition: "Vénus composite en Sagittaire place la Vénus du thème d’une relation, mi-point de deux Vénus natales, en feu mutable, dans le signe que gouverne Jupiter. Ses plaisirs élargissent le monde de la paire : voyages, études, grandes questions, rires partagés autour d’une longue table. La liberté y compte autant que la proximité."
 facts:
   - { k: "Corps", v: "Vénus composite ♀, mi-point de vos deux Vénus natales" }
   - { k: "Signe", v: "Sagittaire ♐, feu mutable, gouverné par Jupiter ; ni dignité ni faiblesse pour Vénus" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-sagittarius", "/astrology/sagittarius", "/astrology/jupiter", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Vénus composite en Sagittaire ?"
-    a: "Que le mi-point de vos deux Vénus natales tombe en Sagittaire : la relation estime la découverte, le voyage, l’étude, les grandes conversations sur le sens des choses, et la liberté de continuer à explorer. Les astrologues y lisent un lien généreux et curieux. Elle décrit ce que la paire aime et partage, pas l’une ou l’autre personne, ni sa durée."
+    a: "Le Sagittaire abrite le mi-point de vos deux Vénus natales : la relation estime la découverte, le voyage, l’étude, les grandes conversations sur le sens des choses, et la liberté de continuer à explorer. Générosité et curiosité la marquent, et un projet de départ la rend heureuse."
   - q: "Vénus composite en Sagittaire est-elle rare ?"
-    a: "Un peu. D’après le décompte du site sur deux millions de paires tirées au hasard parmi les naissances de 1930 à 2009, environ 1 paire sur 13 l’a : le Sagittaire est le signe où Vénus composite tombe le moins souvent, juste derrière la Balance et les Poissons. À la naissance, environ 1 personne sur 14 a Vénus en Sagittaire."
+    a: "Un peu. En comptant deux millions de paires tirées au hasard parmi les naissances de 1930 à 2009, le site le trouve chez environ 1 paire sur 13 : le Sagittaire est le signe où Vénus composite tombe le moins souvent, juste derrière la Balance et les Poissons. À la naissance, environ 1 personne sur 14 a Vénus en Sagittaire."
   - q: "Vénus composite en Sagittaire a-t-elle besoin de beaucoup de liberté ?"
     a: "Elle estime l’espace pour explorer, ensemble et séparément, et montre souvent son affection en encourageant les projets de l’autre. Ce n’est ni de l’instabilité ni un refus de s’engager. Elle demande seulement à la paire de trouver du plaisir aux semaines ordinaires, et de laisser chacune des deux personnes croire autre chose sans en faire un concours."
 sources:

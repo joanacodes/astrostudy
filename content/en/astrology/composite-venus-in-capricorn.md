@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Venus", "Capricorn", "composite chart"]
 weight: 2058
 glyph: "♀♑"
-definition: "Composite Venus in Capricorn sets the Venus of a relationship’s chart, the midpoint of two natal Venuses, in cardinal earth, the sign Saturn rules. Astrologers read it as a bond that values what is built: commitments kept, long projects, pleasures earned. Its affection shows as reliability, and it predicts nothing about the bond’s future."
+definition: "Composite Venus in Capricorn brings the Venus of a relationship’s chart, the midpoint of two natal Venuses, into cardinal earth, the sign Saturn rules. In the astrologers’ reading, this bond values what is built: commitments kept, long projects, pleasures earned. Its affection shows as reliability, and fun often waits until the work is done."
 facts:
   - { k: "Body", v: "Composite Venus ♀, the midpoint of your two natal Venuses" }
   - { k: "Sign", v: "Capricorn ♑, cardinal earth, ruled by Saturn; no dignity or debility for Venus" }
@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-capricorn", "/astrology/capricorn", "/astrology/saturn", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Venus in Capricorn mean?"
-    a: "That the midpoint of your two natal Venuses lies in Capricorn, so the relationship values what it builds and keeps: commitments honoured, long projects, pleasures earned together. Astrologers read it as a steady, serious bond whose affection shows as reliability. It describes the pair’s values, not either person, and nothing about its future."
+    a: "That the midpoint of your two natal Venuses lies in Capricorn, so the relationship values what it builds and keeps: commitments honoured, long projects, pleasures earned together. Being dependable is how it says it cares."
   - q: "Is composite Venus in Capricorn cold?"
     a: "No. Capricorn describes structure, patience and responsibility, not coldness. Its warmth tends to show in actions rather than declarations: keeping promises, planning ahead, looking after what the two of you share. Saying the warm thing aloud as well helps a bond like this feel as loving as it is."
   - q: "How common is composite Venus in Capricorn?"
-    a: "About 1 pair in 12, in the site’s count of two million random pairs born 1930–2009, a little more often than people are born with Venus in Capricorn, about 1 in 13. Taking midpoints evens out the uneven time Venus spends in the different signs."
+    a: "Of two million random pairs born between 1930 and 2009, which the site counted, about 1 in 12 has it: a little more often than people are born with Venus in Capricorn, about 1 in 13. Taking midpoints evens out the uneven time Venus spends in the different signs."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Venus falls in Capricorn, beside natal Venus there, and how far it strays from the composite Sun" }
@@ -36,7 +36,7 @@ Every planet in [the composite chart](/astrology/composite-chart/) stands at the
 
 Spontaneous people, the kind who book nothing in advance, can find that their shared life runs on plans: a calendar filled a year ahead, a long project done in stages, a reunion organised before anyone else thought of it. In one person's chart, [Venus in Capricorn](/astrology/venus-in-capricorn/) is a love that proves itself through commitment over time; the composite makes commitment the pleasure of the pair, and such bonds often grow warmer as they gather history. It appears in about 1 pair in 12. In my notebook, Saturn, the sign's ruler, held 75 to 90% of the time ([The three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)); that count covered birth charts only, so it adds no weight to a composite.
 
-Like Venus in any birth chart, composite Venus mostly stays near the composite Sun: about 9 pairs in 10 keep the two within 47°, and a Capricorn Venus then has its composite Sun in the stretch of the zodiac the real Sun crosses from late October to March, Scorpio through Pisces. In the rest, birthdays several months apart send the two midpoints to different halves of the circle, and for about 1 pair in 22 it is Cancer, opposite this Venus, that holds the composite Sun. Nothing in the two of you made it so; the calculation did.
+Like Venus in any birth chart, composite Venus mostly stays near the composite Sun: about 9 pairs in 10 keep the two within 47°, and a Capricorn Venus then has its composite Sun in the stretch of the zodiac the real Sun crosses from late October to late March, Scorpio through Pisces. In the rest, birthdays several months apart send the two midpoints to different halves of the circle, and for about 1 pair in 22 it is Cancer, opposite this Venus, that holds the composite Sun. Nothing in the two of you made it so; the calculation did.
 
 The hard part is pleasure postponed. A bond that values what's earned can keep deferring enjoyment until the next milestone, and affection expressed only as duty may land, for the other person, like a contract being honoured. Reliability is a form of warmth, but it doesn't always feel like one from inside a long week. It helps to schedule a pleasure that earns nothing, and to say aloud what the reliable gestures mean.
 

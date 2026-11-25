@@ -1,7 +1,7 @@
 ---
 title: "Composite Venus in Aries"
 h1: "Composite Venus in Aries: the relationship’s chart"
-description: "Composite Venus in Aries: a relationship that likes things at first sight and says so, with Venus in detriment. What it values, and what it can’t tell."
+description: "Composite Venus in Aries: a relationship that likes things at first sight and says so, with Venus in detriment. What it likes, and what no chart can tell."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Venus", "Aries", "composite chart"]
 weight: 2049
 glyph: "♀♈"
-definition: "Composite Venus in Aries places the relationship chart’s Venus, halfway between two natal Venuses, in the first sign, where tradition puts its detriment. Astrologers read it as a bond whose taste is quick and frank: it likes things at first sight, says so, and enjoys most what the two people start together. It describes the bond, not its future."
+definition: "Composite Venus in Aries places the relationship chart’s Venus, halfway between two natal Venuses, in the first sign, where tradition puts its detriment. The bond it describes has quick, frank taste: it likes things at first sight, says so, and enjoys most what the pair starts together. Its speed is taste, not a sign of a short bond."
 facts:
   - { k: "Body", v: "Composite Venus ♀, halfway between your two natal Venuses" }
   - { k: "Sign", v: "Aries ♈, cardinal fire, ruled by Mars; Venus’s detriment" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-aries", "/astrology/aries", "/astrology/detriment", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Venus in Aries mean?"
-    a: "That the midpoint of your two natal Venuses falls in Aries, so the relationship’s own sense of what is worth having works in the first sign’s manner: quick to like, frank about it, happiest when the two of you are starting something. It describes the bond’s taste and pleasures, not either person, and not how long it lasts."
+    a: "That the midpoint of your two natal Venuses falls in Aries, so the relationship’s own sense of what is worth having works in the first sign’s manner: quick to like, frank about it, happiest when the two of you are starting something. Either of you may be slower to warm to things alone; the haste belongs to the pair."
   - q: "Is Venus in detriment a problem in a composite chart?"
     a: "No. Detriment means Aries faces Libra, one of Venus’s own signs, so the bond spends little time weighing both sides before it chooses. Its affection is direct rather than diplomatic. That asks for patience with slower decisions; it doesn’t make the relationship weaker, and no dignity decides whether two people do well together."
   - q: "Can we have composite Venus in Aries if neither of us has Venus in Aries?"

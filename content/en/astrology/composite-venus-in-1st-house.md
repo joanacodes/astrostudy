@@ -1,7 +1,7 @@
 ---
 title: "Composite Venus in the 1st house"
 h1: "Composite Venus in the 1st house: the relationship’s chart"
-description: "Composite Venus in the 1st house: a relationship whose warmth is the first thing people meet. What it values, and why the composite Ascendant depends on method."
+description: "Composite Venus in the 1st house: a relationship whose warmth is the first thing people meet. How it comes across, and why its Ascendant depends on method."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Venus", "1st house", "composite chart"]
 weight: 2061
 glyph: "♀"
-definition: "Composite Venus in the 1st house puts the relationship chart’s Venus in the house of presence, the first after the composite Ascendant. Astrologers read it as a bond whose warmth and taste show first: people warm to the pair before they know either person. It needs both birth times, and which house it lands in depends on the method."
+definition: "Composite Venus in the 1st house puts the relationship chart’s Venus in the house of presence, which the composite Ascendant opens. The pair’s warmth and taste show first: people warm to it before they know either person. Both birth times are needed, and the method can change its house."
 facts:
   - { k: "Body", v: "Composite Venus ♀" }
   - { k: "House", v: "The 1st house, from the composite Ascendant" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-1st-house", "/astrology/1st-house", "/astrology/ascendant", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Venus in the 1st house mean?"
-    a: "That your relationship’s Venus falls in the house beginning at the composite Ascendant, so what the bond values and enjoys is on show: people meet the pair’s warmth, taste and ease before they know either of you. Astrologers read it as a gracious presence. It describes the relationship, not its future."
+    a: "That your relationship’s Venus falls in the house beginning at the composite Ascendant, so what the bond values and enjoys is on show: people meet the pair’s warmth, taste and ease before they know either of you. Astrologers call that a gracious presence."
   - q: "Do we need both birth times for composite Venus in the 1st house?"
     a: "Yes. Without both, the composite chart has no Ascendant and so no houses at all. With both, astrologers still choose between two ways of drawing the Ascendant, and the two don’t always agree: a Venus a few degrees from it can change house with the method."
   - q: "Is composite Venus in the 1st house a sign of a good relationship?"

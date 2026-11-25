@@ -2,7 +2,7 @@
 title: "Vénus composite en Scorpion"
 slug: "venus-composite-en-scorpion"
 h1: "Vénus composite en Scorpion : le thème de la relation"
-description: "Vénus composite en Scorpion : une relation qui préfère la profondeur, la confiance et la vérité à la facilité, Vénus en exil. Ses valeurs, ses deux maîtres."
+description: "Vénus composite en Scorpion : une relation qui préfère la profondeur, la confiance et la vérité à la facilité, Vénus en exil. Ses deux maîtres, ses limites."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Vénus", "Scorpion", "thème composite"]
 weight: 2056
 glyph: "♀♏"
-definition: "Vénus composite en Scorpion place la Vénus du thème d’une relation, mi-point de deux Vénus natales, en eau fixe, son exil selon la tradition. Les astrologues y lisent un lien qui préfère la profondeur à la facilité : une confiance bâtie lentement, des conversations sans détour, une fidélité prouvée dans les moments durs. Elle ne dit ni jalousie ni destin."
+definition: "Vénus composite en Scorpion place la Vénus du thème d’une relation, mi-point de deux Vénus natales, en eau fixe, son exil selon la tradition. Les astrologues y trouvent un lien qui veut la profondeur plus que l’aisance : une confiance bâtie lentement, une fidélité prouvée dans les moments durs. La jalousie n’y est jamais une fatalité."
 facts:
   - { k: "Corps", v: "Vénus composite ♀, mi-point de vos deux Vénus natales" }
   - { k: "Signe", v: "Scorpion ♏, eau fixe, gouverné par Pluton et, dans la tradition, par Mars ; exil de Vénus" }
@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-scorpio", "/astrology/scorpio", "/astrology/detriment", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Vénus composite en Scorpion ?"
-    a: "Que le mi-point de vos deux Vénus natales tombe en Scorpion : la relation préfère la profondeur à la facilité, une confiance bâtie lentement, des conversations franches, une fidélité prouvée dans les moments durs. Les astrologues y lisent un lien intense et discret. Elle décrit ce que la paire estime et partage, pas l’une ou l’autre personne, et jamais un destin."
+    a: "Que le mi-point de vos deux Vénus natales tombe en Scorpion : la relation aime mieux aller au fond des choses que rester à l’aise, avec des confidences gardées, des promesses mises à l’épreuve, une fidélité montrée quand tout va mal. Les gens de l’extérieur n’y entrent que lentement, s’ils y entrent."
   - q: "Vénus composite en Scorpion veut-elle dire jalousie ?"
     a: "Non. Le Scorpion décrit la profondeur, l’intensité et la recherche du vrai ; la jalousie, la manipulation et le secret n’y sont pas inscrits. Un lien de ce genre peut se sentir mis à l’épreuve quand la confiance vacille, et dire ses besoins simplement aide bien plus que guetter des signes. Le thème décrit une manière, pas un comportement."
   - q: "Quelles planètes gouvernent Vénus composite en Scorpion ?"
-    a: "Le Scorpion en a deux : Pluton pour l’astrologie moderne, Mars pour la tradition, et dans un composite, ce sont deux mi-points. Pour deux personnes d’âge proche, Pluton composite reste dans le signe de leur génération : Mars composite en dit donc en général davantage sur la paire. Les astrologues regardent où tombent les deux."
+    a: "Pluton en astrologie tropicale moderne et Mars dans la tradition. Pluton avance si lentement que deux personnes d’âge voisin en ont presque la même position, donc presque le même Pluton composite ; Mars composite, qui change d’une paire à l’autre, est souvent plus parlant. Les astrologues regardent où tombent les deux."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part des Vénus composites en Scorpion, à côté de Vénus natale, et leur écart au Soleil composite" }
@@ -33,7 +33,7 @@ Certaines paires sautent les banalités. À deux heures du matin, elles cherchen
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-La [Vénus](/astrology/venus/) composite est la Vénus de la relation dans le [thème composite](/astrology/composite-chart/) : le point à mi-chemin entre les deux Vénus natales, lu pour ce que le lien estime, aime et compte garder. Le [Scorpion](/astrology/scorpio/), eau fixe, est son [exil](/astrology/detriment/), face au Taureau, l’un des signes de Vénus : le Taureau estime ce qui se garde facilement, le Scorpion ce qui a fait ses preuves. Sa maîtrise est partagée : l’astrologie moderne donne le signe à [Pluton](/astrology/pluto/), la tradition à [Mars](/astrology/mars/), et dans les thèmes de naissance, je lis les deux. Pluton composite et Mars composite sont des mi-points comme le reste, et comme deux personnes d’âge proche ont Pluton dans le signe de leur génération, c’est en général Mars composite qui en dit le plus sur cette paire-là.
+La [Vénus](/astrology/venus/) composite est la Vénus de la relation dans le [thème composite](/astrology/composite-chart/) : le point à mi-chemin entre les deux Vénus natales, lu pour ce que le lien estime, aime et compte garder. Le [Scorpion](/astrology/scorpio/), eau fixe, est son [exil](/astrology/detriment/), face au Taureau, l’un des signes de Vénus : le Taureau estime ce qui se garde facilement, le Scorpion ce qui a fait ses preuves. Sa maîtrise est partagée : l’astrologie tropicale moderne donne le signe à [Pluton](/astrology/pluto/), la tradition à [Mars](/astrology/mars/), et dans les thèmes de naissance, je lis les deux. Pluton composite et Mars composite sont des mi-points comme le reste, et comme deux personnes d’âge proche ont Pluton dans le signe de leur génération, c’est en général Mars composite qui en dit le plus sur cette paire-là.
 
 La légèreté ailleurs n’empêche rien. Des personnes connues de leurs amis pour leurs plaisanteries et leur compagnie facile peuvent découvrir que, seules à deux, elles vont droit à l’essentiel. La fidélité entière d’une personne, c’est ce que décrit une [Vénus en Scorpion](/astrology/venus-in-scorpio/) natale ; celle du composite est un pacte à deux, et elle se voit dans ce que vous avez en commun : des confidences gardées, des ressources mises ensemble, une promesse faite à un mauvais moment et tenue. On la trouve dans environ 1 paire sur 12. À la naissance, le Scorpion est l’un des signes les plus fréquents pour Vénus, environ 1 personne sur 10, parce que Vénus peut y passer des mois quand elle rétrograde ; le composite dilue cela.
 

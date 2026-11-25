@@ -2,7 +2,7 @@
 title: "Vénus composite en Gémeaux"
 slug: "venus-composite-en-gemeaux"
 h1: "Vénus composite en Gémeaux : le thème de la relation"
-description: "Vénus composite en Gémeaux : une relation qui aime ce qu’elle peut échanger, discuter, faire circuler. Ce qu’elle estime, et pourquoi son Soleil peut être loin."
+description: "Vénus composite en Gémeaux : une relation qui aime ce qu’elle peut échanger, discuter, faire circuler. Ses plaisirs, et pourquoi son Soleil peut être loin."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Vénus", "Gémeaux", "thème composite"]
 weight: 2051
 glyph: "♀♊"
-definition: "Vénus composite en Gémeaux veut dire que la Vénus du thème d’une relation, mi-point de deux Vénus natales, tombe en air mutable, dans le signe que gouverne Mercure. Les astrologues y lisent un lien dont les plaisirs s’échangent : nouvelles, livres, plaisanteries, présentations, plusieurs centres d’intérêt à la fois. Elle décrit le goût commun de la paire, jamais son avenir."
+definition: "Vénus composite en Gémeaux veut dire que la Vénus du thème d’une relation, mi-point de deux Vénus natales, tombe en air mutable, dans le signe que gouverne Mercure. Tout ce qui s’échange lui plaît : nouvelles, livres, plaisanteries, présentations, la dernière découverte. Elle préfère la variété à la cérémonie."
 facts:
   - { k: "Corps", v: "Vénus composite ♀, mi-point de vos deux Vénus natales" }
   - { k: "Signe", v: "Gémeaux ♊, air mutable, gouverné par Mercure ; ni dignité ni faiblesse pour Vénus" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-gemini", "/astrology/gemini", "/astrology/mercury", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Vénus composite en Gémeaux ?"
-    a: "Que le mi-point de vos deux Vénus natales tombe en Gémeaux : la relation estime et aime ce qu’elle peut échanger, la conversation, les nouvelles, les conseils, les présentations, plusieurs intérêts à la fois. Les astrologues y lisent un lien curieux et sociable. Elle décrit le goût commun de la paire, pas celui de l’une ou l’autre personne, ni sa durée."
+    a: "Vos deux Vénus natales ont leur mi-point en Gémeaux : la relation estime et aime ce qu’elle peut échanger, la conversation, les nouvelles, les conseils, les présentations, plusieurs intérêts à la fois. Les astrologues y lisent un lien curieux et sociable, qui garde rarement une bonne trouvaille pour lui seul."
   - q: "Pourquoi notre Vénus composite est-elle si loin de notre Soleil composite ?"
     a: "Parce que les deux mi-points se calculent séparément. Vénus n’est jamais à plus de 47° environ du Soleil à la naissance, si bien qu’une Vénus composite se trouve soit à moins de 47° du Soleil composite, pour environ 9 paires sur 10, soit à moins de 47° du point opposé. Ce cas lointain vient de la méthode, ce n’est pas un message."
   - q: "Vénus composite en Gémeaux convient-elle à une amitié ?"

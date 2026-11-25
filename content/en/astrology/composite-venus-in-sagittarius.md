@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Venus", "Sagittarius", "composite chart"]
 weight: 2057
 glyph: "♀♐"
-definition: "Composite Venus in Sagittarius places the Venus of a relationship’s chart, the midpoint of two natal Venuses, in mutable fire, the sign Jupiter rules. Astrologers read it as a bond whose pleasures widen its world: journeys, study, big questions, laughter shared across a long table. It describes what the pair enjoys, never where it ends up."
+definition: "Composite Venus in Sagittarius places the Venus of a relationship’s chart, the midpoint of two natal Venuses, in mutable fire, the sign Jupiter rules. Its pleasures widen the pair’s world: travel, study, big questions, laughter shared across a long table. Freedom matters to it as much as closeness."
 facts:
   - { k: "Body", v: "Composite Venus ♀, the midpoint of your two natal Venuses" }
   - { k: "Sign", v: "Sagittarius ♐, mutable fire, ruled by Jupiter; no dignity or debility for Venus" }
@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-sagittarius", "/astrology/sagittarius", "/astrology/jupiter", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Venus in Sagittarius mean?"
-    a: "That the midpoint of your two natal Venuses falls in Sagittarius, so the relationship values discovery: travel, learning, big conversations about meaning, and the freedom to keep exploring. Astrologers read it as a generous, curious bond. It describes what the pair enjoys and shares, not either person, and nothing about how long it lasts."
+    a: "Sagittarius holds the midpoint of your two natal Venuses, so the relationship values discovery: travel, learning, big conversations about meaning, and the freedom to keep exploring. Generosity and curiosity mark it, and a plan for somewhere new makes it happy."
   - q: "Is composite Venus in Sagittarius rare?"
-    a: "A little. In the site’s count of two million random pairs born 1930–2009, about 1 pair in 13 has it, which makes Sagittarius the sign composite Venus reaches least often, just behind Libra and Pisces. At birth, about 1 person in 14 has Venus in Sagittarius."
+    a: "A little. Counting two million random pairs born 1930–2009, the site finds it in about 1 pair in 13, which makes Sagittarius the sign composite Venus reaches least often, just behind Libra and Pisces. At birth, about 1 person in 14 has Venus in Sagittarius."
   - q: "Does composite Venus in Sagittarius need a lot of freedom?"
     a: "It values room to explore, together and apart, and tends to show affection by encouraging the other’s plans. That isn’t restlessness or a reluctance to commit. It does ask the pair to find pleasure in ordinary weeks too, and to let each person believe different things without a contest."
 sources:

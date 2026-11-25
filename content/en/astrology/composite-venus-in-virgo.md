@@ -1,7 +1,7 @@
 ---
 title: "Composite Venus in Virgo"
 h1: "Composite Venus in Virgo: the relationship’s chart"
-description: "Composite Venus in Virgo: a relationship that shows affection through care for detail, with Venus in its fall. What it values, what it overdoes, and how often."
+description: "Composite Venus in Virgo: a relationship that shows affection through care for detail, with Venus in its fall. Its care, what it overdoes, and how often."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Venus", "Virgo", "composite chart"]
 weight: 2054
 glyph: "♀♍"
-definition: "Composite Venus in Virgo is the Venus of a relationship’s chart, the midpoint of two natal Venuses, in mutable earth, where tradition places its fall. Astrologers read it as a bond that loves by attending: small repairs, remembered details, a shared craft done well. Its affection is practical rather than sweeping, and says nothing about how long the bond lasts."
+definition: "Composite Venus in Virgo is the Venus of a relationship’s chart, the midpoint of two natal Venuses, in mutable earth, where tradition places its fall. It suggests a bond that loves by attending: small repairs, remembered details, a shared craft done well. Its affection is practical, shown in deeds more than words."
 facts:
   - { k: "Body", v: "Composite Venus ♀, the midpoint of your two natal Venuses" }
   - { k: "Sign", v: "Virgo ♍, mutable earth, ruled by Mercury; Venus’s fall" }
@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-virgo", "/astrology/virgo", "/astrology/fall", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Venus in Virgo mean?"
-    a: "That the midpoint of your two natal Venuses lies in Virgo, so the relationship values care, usefulness and work done well. Astrologers read it as a bond that shows affection through attention: remembering, fixing, improving the shared life. It describes the pair’s way of valuing, not either person’s, and nothing about the relationship’s future."
+    a: "That the midpoint of your two natal Venuses lies in Virgo, so the relationship values care, usefulness and work done well. Its affection shows through attention: remembering, fixing, improving the shared life. It can also fuss over what needs no fixing."
   - q: "Is composite Venus in its fall bad for a relationship?"
     a: "No. Fall is tradition’s word for Venus in Virgo, the sign opposite its exaltation, Pisces. It describes affection that is careful and practical rather than sweeping. That can look less romantic from outside; it is no weaker, and it says nothing about how long two people stay together."
   - q: "How common is composite Venus in Virgo?"
-    a: "About 1 pair in 11, in the site’s count of two million random pairs born 1930–2009, much as often as people are born with Venus in Virgo. Virgo, Aries and Gemini are the three signs composite Venus reaches most often, though only by a little."
+    a: "It is among the commonest: about 1 pair in 11 when the site counted two million random pairs born 1930–2009, much as often as people are born with Venus in Virgo. Virgo, Aries and Gemini lead, though only by a little."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Venus falls in Virgo, and how far it strays from the composite Sun" }

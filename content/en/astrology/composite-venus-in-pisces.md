@@ -1,7 +1,7 @@
 ---
 title: "Composite Venus in Pisces"
 h1: "Composite Venus in Pisces: the relationship’s chart"
-description: "Composite Venus in Pisces: a relationship that values compassion, imagination and forgiveness, with Venus in its exaltation. What it values, and where it blurs."
+description: "Composite Venus in Pisces: a relationship that values compassion, imagination and forgiveness, with Venus in its exaltation. Its gifts, and where it blurs."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Venus", "Pisces", "composite chart"]
 weight: 2060
 glyph: "♀♓"
-definition: "Composite Venus in Pisces places the Venus of a relationship’s chart, the midpoint of two natal Venuses, in mutable water, the sign of its exaltation. Astrologers read it as a bond that values compassion and imagination: forgiveness given freely, music, art and quiet shared, a tenderness that forgets to count. It describes the pair’s heart, not its fate."
+definition: "Composite Venus in Pisces places the Venus of a relationship’s chart, the midpoint of two natal Venuses, in mutable water, the sign of its exaltation. Astrologers link it with compassion and imagination: forgiveness given freely, music, art and quiet shared, a tenderness that forgets to count. Even its forgiveness needs limits."
 facts:
   - { k: "Body", v: "Composite Venus ♀, the midpoint of your two natal Venuses" }
   - { k: "Sign", v: "Pisces ♓, mutable water, ruled by Neptune and, traditionally, Jupiter; Venus’s exaltation" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-pisces", "/astrology/pisces", "/astrology/exaltation", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Venus in Pisces mean?"
-    a: "That the midpoint of your two natal Venuses lies in Pisces, the sign of Venus’s exaltation, so the relationship values compassion, imagination and forgiveness. Astrologers read it as a tender, generous bond with a gift for quiet and for art. It describes the pair’s way of valuing, not either person, and not its future."
+    a: "That the midpoint of your two natal Venuses lies in Pisces, the sign of Venus’s exaltation, so the relationship values compassion, imagination and forgiveness. There is a gift here for quiet, for art and for kindness to strangers."
   - q: "Is composite Venus exalted in Pisces?"
     a: "Tradition places Venus’s exaltation in Pisces, the sign where it is held to work at its strongest, and that applies to a composite Venus as to a natal one. It describes ease in giving and forgiving. It doesn’t make a relationship last longer or promise that it will go well."
   - q: "What is the downside of composite Venus in Pisces?"
@@ -32,7 +32,7 @@ Some pairs forgive each other before the apology is finished. Under composite Ve
 
 ## What it says about the two of you {#what-it-says}
 
-[Venus](/astrology/venus/) in [the composite chart](/astrology/composite-chart/) is the halfway point between two natal Venuses, and it shows what the bond holds dear and how it gives. [Pisces](/astrology/pisces/), mutable water, is where tradition places Venus's [exaltation](/astrology/exaltation/), the sign where it is said to work at its strongest; Virgo, opposite, is its fall. The sign answers to [Neptune](/astrology/neptune/) in the modern scheme and to [Jupiter](/astrology/jupiter/) in the older one, and both count when I read a birth chart. Neptune takes about fourteen years over a sign, so two people of similar age simply share their generation's; Jupiter moves on about once a year, which makes composite Jupiter the more personal of the two for a pair.
+[Venus](/astrology/venus/) in [the composite chart](/astrology/composite-chart/) is the halfway point between two natal Venuses, and it shows what the bond holds dear and how it gives. [Pisces](/astrology/pisces/), mutable water, is where tradition places Venus's [exaltation](/astrology/exaltation/), the sign where it is said to work at its strongest; Virgo, opposite, is its fall. The sign answers to [Neptune](/astrology/neptune/) in modern tropical astrology and to [Jupiter](/astrology/jupiter/) in the tradition, and both count when I read a birth chart. Neptune takes about fourteen years over a sign, so two people of similar age simply share their generation's Neptune; Jupiter moves on about once a year, which makes composite Jupiter the more personal of the two for a pair.
 
 Practical people can find that between them tenderness is the default. The bond values what can't be measured and gives without a ledger, to each other and often to whoever turns up needing help. Its pleasures run to music, film, the sea, art, a shared spiritual practice or simply quiet: anything the two of you can disappear into together. A forgiving heart is what [Venus in Pisces](/astrology/venus-in-pisces/) gives one person at birth; the composite gives it to the bond, and friends may feel it before either of you notices. As composites go, about 1 pair in 13 has it; among births, about 1 person in 14 has Venus there.
 

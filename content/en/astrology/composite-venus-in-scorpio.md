@@ -1,7 +1,7 @@
 ---
 title: "Composite Venus in Scorpio"
 h1: "Composite Venus in Scorpio: the relationship’s chart"
-description: "Composite Venus in Scorpio: a relationship that values depth, trust and truth over ease, Venus in detriment. What it values, its two rulers, what it isn’t."
+description: "Composite Venus in Scorpio: a relationship that values depth, trust and truth over ease, Venus in detriment. Its two rulers, and what it isn’t."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Venus", "Scorpio", "composite chart"]
 weight: 2056
 glyph: "♀♏"
-definition: "Composite Venus in Scorpio puts the Venus of a relationship’s chart, the midpoint of two natal Venuses, in fixed water, its detriment in tradition. Astrologers read it as a bond that values depth over ease: trust built slowly, conversations that go to the bottom of things, loyalty proved in hard times. It describes intensity, never jealousy or fate."
+definition: "Composite Venus in Scorpio puts the Venus of a relationship’s chart, the midpoint of two natal Venuses, in fixed water, its detriment in tradition. Astrologers find in it a bond that wants depth more than ease: trust built slowly, frank conversations, loyalty proved in hard times. Jealousy, often blamed on it, is never a given."
 facts:
   - { k: "Body", v: "Composite Venus ♀, the midpoint of your two natal Venuses" }
   - { k: "Sign", v: "Scorpio ♏, fixed water, ruled by Pluto and, traditionally, Mars; Venus’s detriment" }
@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-scorpio", "/astrology/scorpio", "/astrology/detriment", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Venus in Scorpio mean?"
-    a: "That the midpoint of your two natal Venuses falls in Scorpio, so the relationship values depth over ease: trust built slowly, honest conversations, loyalty proved in hard times. Astrologers read it as an intense, private bond. It describes what the pair values and how it shares, not either person, and never a fate."
+    a: "That the midpoint of your two natal Venuses falls in Scorpio, so the relationship would rather go deep than stay comfortable: confidences kept, promises tested, loyalty shown when things are hard. Outsiders are let in slowly, if at all."
   - q: "Does composite Venus in Scorpio mean jealousy?"
     a: "No. Scorpio describes depth, intensity and a search for what is true; jealousy, manipulation and secrecy aren’t built into it. A bond like this can feel tested when trust is shaken, and saying needs plainly helps far more than reading signs. The chart describes a manner, not anyone’s behaviour."
   - q: "Which planets rule composite Venus in Scorpio?"
-    a: "Scorpio has two rulers, Pluto for modern astrologers and Mars for tradition, and in a composite both are midpoints. For two people close in age, composite Pluto is simply their generation’s, so composite Mars usually says more about the particular pair. Astrologers look at where both of them fall."
+    a: "Pluto in modern tropical astrology and Mars in tradition. Pluto moves so slowly that two people of similar age have almost the same one, and so almost the same composite Pluto; composite Mars, which differs from pair to pair, usually tells you more. Astrologers look at where both of them fall."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Venus falls in Scorpio, beside natal Venus there, and how far it strays from the composite Sun" }
@@ -32,7 +32,7 @@ Some pairs skip the small talk. At two in the morning they're still working out 
 
 ## What it says about the two of you {#what-it-says}
 
-Composite [Venus](/astrology/venus/) is the relationship's Venus in [the composite chart](/astrology/composite-chart/): the point halfway between the two natal ones, read for what the bond values, enjoys and means to keep. [Scorpio](/astrology/scorpio/), fixed water, is its [detriment](/astrology/detriment/), facing Taurus, one of Venus's own signs: Taurus values what is easy to keep, Scorpio what has been tested. Its rulership is split: modern astrologers give the sign to [Pluto](/astrology/pluto/), tradition to [Mars](/astrology/mars/), and in birth charts I read both. Composite Pluto and composite Mars are midpoints like everything else, and since two people close in age share their generation's Pluto, it's usually composite Mars that has more to say about this particular pair.
+Composite [Venus](/astrology/venus/) is the relationship's Venus in [the composite chart](/astrology/composite-chart/): the point halfway between the two natal ones, read for what the bond values, enjoys and means to keep. [Scorpio](/astrology/scorpio/), fixed water, is its [detriment](/astrology/detriment/), facing Taurus, one of Venus's own signs: Taurus values what is easy to keep, Scorpio what has been tested. Its rulership is split: modern tropical astrology gives the sign to [Pluto](/astrology/pluto/), tradition to [Mars](/astrology/mars/), and in birth charts I read both. Composite Pluto and composite Mars are midpoints like everything else, and since two people close in age share their generation's Pluto, it's usually composite Mars that has more to say about this particular pair.
 
 Lightness elsewhere doesn't prevent any of this. People known among their friends for jokes and easy company can find that, alone together, they go straight to what matters. One person's all-or-nothing loyalty is what [Venus in Scorpio](/astrology/venus-in-scorpio/) describes in a birth chart; the composite's loyalty is a pact between two, and it shows in what you hold in common: confidences kept, resources pooled, a promise made at a bad moment and honoured. It turns up in about 1 pair in 12. At birth Scorpio is one of the commonest Venus signs, about 1 person in 10, because Venus can spend months there when it turns retrograde; the composite thins that out.
 

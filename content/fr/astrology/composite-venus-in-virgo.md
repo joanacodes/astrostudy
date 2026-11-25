@@ -2,7 +2,7 @@
 title: "Vénus composite en Vierge"
 slug: "venus-composite-en-vierge"
 h1: "Vénus composite en Vierge : le thème de la relation"
-description: "Vénus composite en Vierge : une relation qui montre son affection par le soin du détail, Vénus en chute. Ce qu’elle estime, ce qu’elle exagère, sa fréquence."
+description: "Vénus composite en Vierge : une relation qui montre son affection par le soin du détail, Vénus en chute. Son soin, ce qu’elle exagère, sa fréquence."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Vénus", "Vierge", "thème composite"]
 weight: 2054
 glyph: "♀♍"
-definition: "Vénus composite en Vierge est la Vénus du thème d’une relation, mi-point de deux Vénus natales, en terre mutable, là où la tradition place sa chute. Les astrologues y lisent un lien qui aime en prêtant attention : petites réparations, détails retenus, savoir-faire partagé. Son affection est pratique plutôt que spectaculaire, et ne dit rien de sa durée."
+definition: "Vénus composite en Vierge est la Vénus du thème d’une relation, mi-point de deux Vénus natales, en terre mutable, là où la tradition place sa chute. Elle évoque un lien qui aime en prêtant attention : petites réparations, détails retenus, savoir-faire partagé. Son affection est pratique, faite de gestes plus que de mots."
 facts:
   - { k: "Corps", v: "Vénus composite ♀, mi-point de vos deux Vénus natales" }
   - { k: "Signe", v: "Vierge ♍, terre mutable, gouvernée par Mercure ; chute de Vénus" }
@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-virgo", "/astrology/virgo", "/astrology/fall", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Vénus composite en Vierge ?"
-    a: "Que le mi-point de vos deux Vénus natales se trouve en Vierge : la relation estime le soin, l’utile et le travail bien fait. Les astrologues y lisent un lien qui montre son affection par l’attention, en se souvenant, en réparant, en améliorant la vie commune. Elle décrit la façon d’estimer de la paire, pas celle de l’une ou l’autre personne, ni son avenir."
+    a: "Que le mi-point de vos deux Vénus natales se trouve en Vierge : la relation estime le soin, l’utile et le travail bien fait. Son affection passe par l’attention : se souvenir, arranger, améliorer la vie commune. Elle peut aussi vouloir réparer ce qui n’est pas cassé."
   - q: "Vénus composite en chute est-elle mauvaise pour une relation ?"
     a: "Non. La chute est le mot de la tradition pour Vénus en Vierge, le signe opposé à son exaltation, les Poissons. Elle décrit une affection soigneuse et pratique plutôt que spectaculaire. Vue de l’extérieur, elle peut sembler moins romantique ; elle n’est pas plus faible, et elle ne dit rien du temps que deux personnes resteront ensemble."
   - q: "Vénus composite en Vierge est-elle fréquente ?"
-    a: "Environ 1 paire sur 11, d’après le décompte du site sur deux millions de paires tirées au hasard parmi les naissances de 1930 à 2009, à peu près autant que les personnes nées avec Vénus en Vierge. La Vierge, le Bélier et les Gémeaux sont les trois signes où Vénus composite tombe le plus souvent, de peu."
+    a: "C’est l’un des plus fréquents : environ 1 paire sur 11 quand le site a compté deux millions de paires tirées au hasard parmi les naissances de 1930 à 2009, à peu près autant que les personnes nées avec Vénus en Vierge. La Vierge, le Bélier et les Gémeaux viennent en tête, de peu."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part des Vénus composites en Vierge, et leur écart au Soleil composite" }

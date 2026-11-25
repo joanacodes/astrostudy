@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Venus", "Cancer", "composite chart"]
 weight: 2052
 glyph: "♀♋"
-definition: "Composite Venus in Cancer puts the Venus of a relationship’s chart, the midpoint of two natal Venuses, in cardinal water, the sign the Moon rules. Astrologers read it as a bond whose pleasures are protective and hospitable: an evening in, care given unasked, things kept for their memories. It describes how the pair cares, not its future."
+definition: "Composite Venus in Cancer puts the Venus of a relationship’s chart, the midpoint of two natal Venuses, in cardinal water, the sign the Moon rules. Astrologers call its pleasures protective and hospitable: an evening in, care given unasked, a table always laid for family."
 facts:
   - { k: "Body", v: "Composite Venus ♀, the midpoint of your two natal Venuses" }
   - { k: "Sign", v: "Cancer ♋, cardinal water, ruled by the Moon; no dignity or debility for Venus" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/venus-in-cancer", "/astrology/cancer", "/astrology/moon", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Venus in Cancer mean?"
-    a: "The halfway point between your two natal Venuses lies in Cancer, so the relationship values shelter and belonging: time at home, care given without being asked, things kept for their memories. Astrologers read it as a protective, hospitable bond. It describes what the pair enjoys and looks after, not either person, and not its future."
+    a: "The halfway point between your two natal Venuses lies in Cancer, so the relationship values shelter and belonging: time at home, care given without being asked, things kept for their memories. Hospitable as it is, the bond can also guard its privacy closely."
   - q: "Does composite Venus in Cancer mean we will start a family?"
     a: "No. No chart can say whether two people will marry or have children, and a composite is no exception. Composite Venus in Cancer describes the care inside a bond, which friends, siblings or colleagues can share as fully as a couple. What the two of you build is your own choice."
   - q: "Is composite Venus in Cancer good for a relationship?"
