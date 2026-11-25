@@ -23,7 +23,7 @@ faq:
   - q: "Is composite Mercury in the 8th house about secrets?"
     a: "About privacy and trust more than secrets. This relationship tends to know things about each other that nobody else knows, and to protect them. The risk is silence towards the outside world turning into silence between the two of you. Depth isn’t secrecy, and the bond works best when trust is spoken, not assumed."
   - q: "Does composite Mercury in the 8th house predict death or debt?"
-    a: "No. Tradition gave the 8th house death and inheritance, and modern astrologers add shared money, but no chart, composite or natal, can predict a death, a debt or a legacy. Between two adults, this house describes trust, intimacy and what is held in common, and here the way the bond talks about them."
+    a: "No. Tradition gave the 8th house death and inheritance, and today it also covers shared resources, but no chart, composite or natal, can predict a death, a debt or a legacy. Between two adults, this house describes trust, intimacy and what is held in common, and here the way the bond talks about them."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }

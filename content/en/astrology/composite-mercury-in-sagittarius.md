@@ -1,7 +1,7 @@
 ---
 title: "Composite Mercury in Sagittarius"
 h1: "Composite Mercury in Sagittarius: the relationship’s chart"
-description: "Composite Mercury in Sagittarius: a relationship that thinks big, speaks frankly and plans the next journey. What that wide view gives, and what it drops."
+description: "Composite Mercury in Sagittarius: a relationship that thinks big, speaks frankly and plans the next trip. What that wide view gives, and what it drops."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Mercury", "Sagittarius", "composite chart"]
 weight: 2033
 glyph: "☿♐"
-definition: "Composite Mercury in Sagittarius sets a relationship’s mind in mutable fire, the sign of Jupiter and Mercury’s detriment. Astrologers read it as a bond that thinks big and speaks frankly: it argues about ideas, plans journeys and courses, and looks for meaning, sometimes at the expense of detail. That is the pair’s outlook, not a forecast."
+definition: "Composite Mercury in Sagittarius sets a relationship’s mind in mutable fire, the sign of Jupiter and Mercury’s detriment. Astrologers read it as a bond that thinks big and speaks frankly: it argues about ideas, plans trips and courses, and looks for meaning, sometimes at the expense of detail. That is the pair’s outlook, not a forecast."
 facts:
   - { k: "Body", v: "Composite Mercury ☿, the nearer midpoint of your two natal Mercurys" }
   - { k: "Sign", v: "Sagittarius ♐, mutable fire, ruled by Jupiter; Mercury’s detriment" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/mercury-in-sagittarius", "/astrology/sagittarius", "/astrology/detriment", "/blog/synastry-behind-their-back"]
 faq:
   - q: "How does a relationship with composite Mercury in Sagittarius think?"
-    a: "Broadly and frankly. With the midpoint of your two natal Mercurys in Sagittarius, the bond argues about ideas and beliefs, plans journeys and courses, and looks for what things mean. Astrologers read it as the pair’s shared outlook, which can be wider than either of yours."
+    a: "Broadly and frankly. With the midpoint of your two natal Mercurys in Sagittarius, the bond argues about ideas and beliefs, plans trips and courses, and looks for what things mean. Astrologers read it as the pair’s shared outlook, which can be wider than either of yours."
   - q: "Is composite Mercury in Sagittarius in detriment?"
     a: "Yes: tradition puts Mercury in detriment in Sagittarius, opposite Gemini, one of its own signs. A detriment describes a planet working against the grain of its sign, here a mind for detail in a sign of the wide view. It doesn’t make the relationship weaker or less wise; the details simply need deliberate care."
   - q: "Can the composite Sun be in Gemini with composite Mercury in Sagittarius?"

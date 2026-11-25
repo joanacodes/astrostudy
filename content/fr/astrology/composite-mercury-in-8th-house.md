@@ -24,7 +24,7 @@ faq:
   - q: "Est-ce que Mercure composite en maison 8 parle de secrets ?"
     a: "De discrétion et de confiance, plus que de secrets. Cette relation sait souvent des choses que personne d’autre ne sait, et elle les protège. Le risque, c’est que le silence gardé envers le monde devienne un silence entre vous. La profondeur n’est pas le secret, et le lien fonctionne mieux quand la confiance se dit au lieu de se supposer."
   - q: "Est-ce que Mercure composite en maison 8 prédit une mort ou une dette ?"
-    a: "Non. La tradition donnait à la maison 8 la mort et l’héritage, et les astrologues modernes y ajoutent l’argent partagé, mais aucun thème, composite ou natal, ne peut prédire une mort, une dette ou un héritage. Entre deux adultes, cette maison décrit la confiance, l’intimité et ce que l’on possède en commun, et ici la façon dont le lien en parle."
+    a: "Non. La tradition donnait à la maison 8 la mort et l’héritage, et on y range aujourd’hui aussi les ressources partagées, mais aucun thème, composite ou natal, ne peut prédire une mort, une dette ou un héritage. Entre deux adultes, cette maison décrit la confiance, l’intimité et ce que l’on possède en commun, et ici la façon dont le lien en parle."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur a donné" }
