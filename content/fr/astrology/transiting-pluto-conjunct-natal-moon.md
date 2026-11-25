@@ -26,9 +26,9 @@ faq:
   - q: "Est-ce que Pluton conjonction Lune concerne ma mère ?"
     a: "Je ne le lis pas ainsi. La Lune de votre thème décrit votre propre façon de ressentir et de prendre soin, pas votre mère ni personne d’autre, et aucun transit ne dit rien de la santé ou de la vie d’autrui. Ce que ce transit peut remuer, c’est votre lien avec votre passé, et ce lien vous appartient."
   - q: "Combien de temps dure Pluton conjonction Lune ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et entre vingt-deux mois environ et près de quatre ans selon les cas. Pluton franchit le degré exact trois fois dans la plupart des passages, et cinq fois dans environ deux passages sur cinq."
+    a: "Deux ans et huit mois environ dans mes orbes, qui vont de 1,5° avant l’exactitude à 1° après, même si un passage peut durer de vingt-deux mois environ à près de quatre ans. Pluton franchit le degré exact trois fois dans la plupart des passages, et cinq fois dans environ deux passages sur cinq."
   - q: "Quand vient la conjonction de Pluton à ma Lune ?"
-    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, la conjonction touche les Lunes en Verseau, environ un degré et demi plus loin chaque année. Son année dépend du degré de votre Lune, donc de votre heure de naissance. Plus de la moitié des personnes nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans."
+    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, la conjonction touche les Lunes en Verseau, environ un degré et demi plus loin chaque année. Son année dépend du degré de votre Lune, donc de votre heure de naissance. Parmi les personnes nées entre 1930 et 2009, plus de la moitié atteignent 80 ans sans l’avoir connue."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton reste sur la Lune dans mes orbes, et combien de personnes vivent ce transit avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à la Lune, un par un" }

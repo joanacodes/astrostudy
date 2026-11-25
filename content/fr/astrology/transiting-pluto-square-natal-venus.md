@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Vénus", "carré", "transits"]
 weight: 1815
 glyph: "♇□♀"
-definition: "Pluton en transit carré Vénus du thème natal, c’est la planète de la profondeur à un quart de zodiaque de votre Vénus, environ deux ans et huit mois, le contact que sept personnes sur huit rencontrent avant 80 ans. Les termes de vos attachements passent à un examen honnête. J’y lis une friction qui renouvelle vos valeurs, jamais une prédiction sur un lien."
+definition: "Pluton en transit carré Vénus du thème natal, c’est Pluton à un quart de zodiaque de votre Vénus, environ deux ans et huit mois, le contact que sept personnes sur huit rencontrent avant 80 ans. Les termes de vos attachements passent à un examen honnête. J’y lis une friction qui renouvelle vos valeurs, jamais une prédiction sur un lien."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "Vénus ♀ : les valeurs, l’attachement et l’échange juste" }
@@ -28,7 +28,7 @@ faq:
   - q: "Combien de temps dure Pluton carré Vénus ?"
     a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, de vingt-deux mois environ à près de quatre ans. La plupart des passages franchissent le carré exact trois fois ; environ deux sur cinq, cinq fois."
   - q: "Quand vient le carré de Pluton à ma Vénus ?"
-    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, le carré touche Vénus en Taureau ou en Scorpion. Environ sept personnes sur huit nées entre 1930 et 2009 rencontrent l’un des deux carrés de Pluton à Vénus avant 80 ans ; environ une sur huit, jamais. Les années suivent le degré de votre Vénus."
+    a: "Les carrés à Vénus en Taureau et en Scorpion arrivent tant que Pluton est en Verseau, jusqu’au début de 2044. Environ sept personnes sur huit nées entre 1930 et 2009 rencontrent l’un de ces carrés à Vénus avant 80 ans ; environ une sur huit, jamais."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le carré dans mes orbes, et combien de personnes rencontrent ce carré avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Vénus, un par un" }
@@ -53,7 +53,7 @@ Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Pluton met environ 
 
 Environ sept personnes sur huit nées entre 1930 et 2009 rencontrent l’un des deux carrés de Pluton à Vénus avant 80 ans, ce qui en fait le plus partagé des cinq contacts ; environ une sur huit n’en rencontre aucun.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), le carré touche Vénus en Taureau ou en Scorpion.
+Les années de Pluton en Verseau, qui courent jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), forment un carré à Vénus en Taureau, où Vénus est chez elle, et en Scorpion, le signe opposé.
 
 ## Ce qui aide {#ce-qui-aide}
 

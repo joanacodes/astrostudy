@@ -41,13 +41,13 @@ Of the steps Neptune takes away from your natal Pluto, this is the farthest a li
 
 Pluto's blind spot here is confusing a way of surviving with who you are. Many of the defences built in earlier decades did their job; the opposition lets you see them from the other side and keep the ones that still protect something real. Neptune adds the risk of swinging the other way and giving everything up for an ideal. The work of an opposition is balance, not reversal.
 
-The houses show what faces what. With natal Pluto in your 9th, Neptune comes from around your 3rd, and beliefs held with great force meet everyday conversation, a neighbour's view, the way you speak to the people nearby ([Neptune transiting the 3rd house](/astrology/neptune-transit-3rd-house/)). Those houses need the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Heavy feelings that last belong with a doctor or a therapist; a transit is only ever a description ([astrology and mental health](/astrology/astrology-and-mental-health/)).
+The houses show what faces what. With natal Pluto in your 9th, Neptune comes from around your 3rd, and beliefs held with great force meet everyday conversation, a neighbour's view, the way you speak to the people nearby ([Neptune transiting the 3rd house](/astrology/neptune-transit-3rd-house/)). Placing them takes a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Heavy feelings that last belong with a doctor or a therapist; a transit is only ever a description ([astrology and mental health](/astrology/astrology-and-mental-health/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
 Measured in my orbs, from 1½° before exact to 1° after, a pass takes about two and a half years, under two in the tightest, with three exact hits most of the time and five in roughly a quarter of passes ([Neptune retrograde](/astrology/neptune-retrograde/)). Everyone born from 1930 to 2009 meets it once.
 
-In the site's count the orb opened at 60.1 for someone born at the start of 1935, 56.2 for 1945, 54.2 for 1955, 53.2 for 1965 and 53.3 for 1975, then 54.4, 55.6 and 56.5 for 1985, 1995 and 2005: between 51 and 62.4 in all. Born at the start of 1975, you met it exact at 54.3, 54.8 and 55.1.
+In the site's count the orb opened at 60.1 for someone born at the start of 1935, 56.2 for 1945, 54.2 for 1955, 53.2 for 1965 and 53.3 for 1975, then 54.4, 55.6 and 56.5 for 1985, 1995 and 2005: between 51 and 62.4 in all. For someone born at the start of 1975, the opposition is exact at 54.3, 54.8 and 55.1, in 2029 and early 2030.
 
 For most people born between the mid-1940s and the mid-1980s, 180° from Pluto is 120° from Neptune, so this opposition and [transiting Neptune trine natal Neptune](/astrology/transiting-neptune-trine-natal-neptune/) arrive as one season, the release and the ease together. Right now Neptune in Aries faces the [Pluto in Libra](/astrology/pluto-in-libra/) of everyone born from 1971 to 1984, in their early to mid-fifties, until Neptune leaves Aries in March 2039.
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mars", "trigone", "transits"]
 weight: 1821
 glyph: "♇△♂"
-definition: "Pluton en transit trigone Mars du thème natal, c’est Pluton à 120° de votre Mars pendant environ deux ans et huit mois, un transit que quatre personnes sur cinq rencontrent avant 80 ans. L’endurance revient plus vite, les revers coûtent moins, et changer votre façon de travailler demande moins de lutte. J’y lis un effort qui se régénère."
+definition: "Pluton en transit trigone Mars du thème natal place Pluton à quatre signes de votre Mars pendant environ deux ans et huit mois, un transit que quatre personnes sur cinq rencontrent avant 80 ans. L’endurance revient plus vite, les revers coûtent moins, et changer votre façon de travailler demande moins de lutte. J’y lis un effort qui se régénère."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la régénération" }
   - { k: "Point natal", v: "Mars ♂ : l’élan, la réalisation et le courage" }
@@ -28,7 +28,7 @@ faq:
   - q: "Est-ce que Pluton trigone Mars est bon pour le sport ou le travail ?"
     a: "Ce transit convient aux efforts longs de toute sorte, un programme d’entraînement autant qu’un projet exigeant, parce qu’il soutient l’endurance et le renouvellement régulier. Je ne prédis ni résultats ni quoi que ce soit sur la santé ; un trigone facilite le chemin sans choisir la destination. Ce que vous en faites dépend de votre but."
   - q: "Quand vient le trigone de Pluton à mon Mars ?"
-    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, le trigone touche Mars en Gémeaux ou en Balance. Environ quatre personnes sur cinq nées entre 1930 et 2009 rencontrent un trigone de Pluton à Mars avant 80 ans, certaines deux fois, et environ une sur cinq jamais. Les années suivent le degré de votre Mars."
+    a: "Les Gémeaux et la Balance sont les signes où Mars doit se trouver, quel que soit votre anniversaire, pour le trigone de Pluton depuis le Verseau, jusqu’au début de 2044. Environ quatre personnes sur cinq nées entre 1930 et 2009 rencontrent un trigone de Pluton à Mars avant 80 ans, certaines deux fois, et environ une sur cinq jamais."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le trigone dans mes orbes, et combien de fois ce trigone revient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Mars, un par un" }
@@ -39,7 +39,7 @@ Pluton en trigone à votre Mars donne à votre effort un courant profond et rég
 
 [Pluton](/astrology/pluto/) régénère : après l’effort vient le renouveau, et ce qui est renouvelé revient plus fort. [Mars](/astrology/mars/) entraîne, réalise et protège vos limites. Un [trigone](/astrology/trine/), à 120°, laisse les deux agir ensemble en gardant chacun sa nature : sous ce [transit](/astrology/transits/), l’endurance revient plus vite et les revers coûtent moins. Un long effort, qu’il s’agisse d’un projet exigeant, d’un programme d’entraînement ou d’une reconstruction lente, continue sans l’usure qu’apportent les contacts plus durs de Pluton.
 
-Un effort n’a pas besoin d’être intense pour être réel. Sous le trigone, votre travail peut sembler plus facile que ce que vous attendez d’un travail dur, et cette aisance n’est pas un manque d’engagement : c’est le trigone qui fait son travail. Le courant n’est pas la passivité, cependant. Il aide qui avance déjà, et un trigone à Mars dont personne ne se sert n’est que quelques années agréables. Mars garde aussi vos limites, et le trigone aide à les poser calmement : un non dit une fois, sans lutte, et tenu.
+Un effort n’a pas besoin d’être intense pour être réel. Sous le trigone, votre travail peut sembler plus facile que ce que vous attendez d’un travail dur, et cette aisance n’est pas un manque d’engagement : c’est le trigone qui fait son travail. Le courant n’est pas la passivité, cependant. Il aide qui avance déjà, et un trigone à Mars dont personne ne se sert n’est que quelques années agréables. Mars garde aussi vos limites, et le trigone aide à les poser calmement : un non dit une fois, sans lutte, et tenu. Comme tout transit, ce trigone décrit un climat, ici favorable à l’effort, et ne décide rien des résultats.
 
 C’est l’endurance que [Mars trigone Pluton](/astrology/mars-trine-pluto/) décrit dans un thème natal, à votre disposition pendant deux ou trois ans.
 
@@ -51,7 +51,7 @@ Pluton tient ce trigone environ deux ans et huit mois dans mes orbes, de 1,5° a
 
 Parmi les personnes nées entre 1930 et 2009, environ quatre sur cinq rencontrent un trigone de Pluton à Mars avant 80 ans, certaines deux fois. Ce trigone est plus rare que le carré ([Pluton en transit carré Mars du thème natal](/astrology/transiting-pluto-square-natal-mars/)), un peu plus fréquent que le sextile ([Pluton en transit sextile Mars du thème natal](/astrology/transiting-pluto-sextile-natal-mars/)), et presque deux fois plus fréquent que la conjonction ([Pluton en transit conjonction Mars du thème natal](/astrology/transiting-pluto-conjunct-natal-mars/)) ou l’opposition ([Pluton en transit opposition Mars du thème natal](/astrology/transiting-pluto-opposite-natal-mars/)).
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), le trigone touche Mars en Gémeaux ou en Balance. Contrairement à Mercure et à Vénus, Mars peut se trouver n’importe où par rapport au Soleil : ce trigone peut donc venir avec n’importe quel anniversaire, et ce sont le signe et le degré de Mars qui décident.
+Dans les années de Pluton en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), le trigone va à Mars en Gémeaux ou en Balance. Contrairement à Mercure et à Vénus, Mars peut se trouver n’importe où par rapport au Soleil : ce trigone peut donc venir avec n’importe quel anniversaire, et ce sont le signe et le degré de Mars qui décident.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -47,7 +47,7 @@ Where the current runs depends on the house Neptune is crossing, roughly four on
 
 In my orbs, from 1½° before exact to 1° after, the trine stays about two and a half years, under two in the quickest passes, three exact hits being the rule and five turning up in roughly a quarter of them ([Neptune retrograde](/astrology/neptune-retrograde/)). Everyone meets it, and a few people meet it in two separate stretches.
 
-In the site's count it came within orb between 23.8 and 34.3: at 32 for someone born at the start of 1935, 29 for 1945, 27 for 1955, 26 for 1965 and 1975, 27.3 for 1985, then 29.3 and 29.4 for 1995 and 2005. Born at the start of 1975, you met it exact at 27.1, 27.6 and 28.0.
+In the site's count it came within orb between 23.8 and 34.3: at 32 for someone born at the start of 1935, 29 for 1945, 27 for 1955, 26 for 1965 and 1975, 27.3 for 1985, then 29.3 and 29.4 for 1995 and 2005. The start of 1975 gives the exact passes at 27.1, 27.6 and 28.0, in 2002.
 
 For most people born from the mid-1950s to the mid-1980s, this trine and [transiting Neptune sextile natal Neptune](/astrology/transiting-neptune-sextile-natal-neptune/) are one movement of Neptune: their Neptune stood about 60° ahead of their Pluto, so 120° from the one is 60° from the other. For births of the 1990s and 2000s the trine lands at about 29, beside the [Saturn return](/astrology/saturn-return/). Right now it belongs to the generation born with [Pluto in Sagittarius](/astrology/pluto-in-sagittarius/), 1995 to 2008: Neptune's years in Aries, until March 2039, reach their Pluto by trine around their Saturn return.
 

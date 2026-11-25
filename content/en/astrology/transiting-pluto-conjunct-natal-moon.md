@@ -25,9 +25,9 @@ faq:
   - q: "Does Pluto conjunct the Moon affect my mother?"
     a: "Not as I read it. The Moon in your chart describes your own way of feeling and caring, not your mother or anyone else, and no transit says anything about another person’s health or life. What it can stir is your relationship with your past, which is yours to look at."
   - q: "How long does Pluto conjunct Moon last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and anything from about twenty-two months to nearly four years. Pluto crosses the exact degree three times in most passes, and five times in about two passes out of five."
+    a: "Two years and eight months or so within my orbs, which run from 1½° before exact to 1° after, though a pass can take anything from about twenty-two months to nearly four years. Pluto crosses the exact degree three times in most passes, and five times in about two passes out of five."
   - q: "When will Pluto conjunct my Moon?"
-    a: "While Pluto is in Aquarius, until early 2044, it reaches Moons in Aquarius, about a degree and a half further each year. The year for yours depends on your Moon’s exact degree, which depends on your birth time. More than half of people born between 1930 and 2009 never meet this conjunction by 80."
+    a: "While Pluto is in Aquarius, until early 2044, it reaches Moons in Aquarius, about a degree and a half further each year. The year for yours depends on your Moon’s exact degree, which depends on your birth time. Of everyone born between 1930 and 2009, more than half reach 80 without meeting this conjunction."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto stays on the Moon within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to the Moon, read one by one" }

@@ -24,11 +24,11 @@ faq:
   - q: "Que veut dire Pluton en opposition à ma Lune natale ?"
     a: "Pluton a atteint le point du zodiaque opposé à votre Lune. J’y lis une longue saison où ce dont vous avez besoin pour vous sentir en sécurité vous est renvoyé par vos proches, souvent avec intensité, jusqu’à ce que vous puissiez dire ces besoins simplement et partager la proximité à des conditions plus justes."
   - q: "Combien de temps dure Pluton opposition Lune ?"
-    a: "Du moment où Pluton arrive à 1,5° de l’opposition exacte jusqu’à 1° après, mes orbes, environ deux ans et huit mois ; les passages les plus rapides durent vingt-deux mois environ. Les boucles rétrogrades de chaque année font franchir le point exact trois fois, ou cinq fois dans environ deux passages sur cinq."
+    a: "Du moment où Pluton arrive à 1,5° de l’opposition exacte jusqu’à 1° après, mes orbes, environ deux ans et huit mois ; les passages les plus rapides durent vingt-deux mois environ. Les boucles rétrogrades de chaque année font franchir le point exact trois fois, ou cinq fois dans environ deux passages sur cinq."
   - q: "Est-ce que Pluton opposition Lune annonce une rupture ?"
     a: "Non. Je ne lis jamais un transit comme l’annonce d’une rupture, ni de quoi que ce soit qui arrive à une relation. Cette opposition décrit une pression sur votre façon de vous attacher et sur ce que vous attendez de la proximité. Ce que devient un lien dépend des deux personnes qui le vivent, pas du ciel."
   - q: "Quand vient l’opposition de Pluton à ma Lune ?"
-    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, l’opposition touche les Lunes en Lion. Les années exactes dépendent du degré de votre Lune, qui demande votre heure de naissance. Plus de la moitié des personnes nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans, et personne ne la rencontre deux fois."
+    a: "D’ici au début de 2044, Pluton en Verseau fait face aux Lunes en Lion. Vos années dépendent du degré de votre Lune, qui demande votre heure de naissance. Plus de la moitié des personnes nées entre 1930 et 2009 ne rencontrent jamais cette opposition avant 80 ans, et elle ne peut pas venir deux fois."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient l’opposition dans mes orbes, et combien de personnes la rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à la Lune, un par un" }
@@ -51,7 +51,7 @@ Si on la compte de 1,5° avant l’exactitude à 1° après, comme je le fais po
 
 À l’opposé de la conjonction sur le cercle de Pluton ([Pluton en transit conjonction Lune du thème natal](/astrology/transiting-pluto-conjunct-natal-moon/)), l’opposition est tout aussi rare : plus de la moitié des personnes nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans, et personne ne la rencontre deux fois, puisque Pluton devrait faire le tour complet. Les carrés ([Pluton en transit carré Lune du thème natal](/astrology/transiting-pluto-square-natal-moon/)) se trouvent à mi-chemin entre les deux, les trigones ([Pluton en transit trigone Lune du thème natal](/astrology/transiting-pluto-trine-natal-moon/)) à 60° de part et d’autre de l’opposition, et les sextiles ([Pluton en transit sextile Lune du thème natal](/astrology/transiting-pluto-sextile-natal-moon/)) à 60° de part et d’autre de la conjonction.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), l’opposition touche les Lunes en Lion.
+Tant que Pluton reste en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), les Lunes en face de Pluton sont en Lion, le signe opposé.
 
 ## Ce qui aide {#ce-qui-aide}
 

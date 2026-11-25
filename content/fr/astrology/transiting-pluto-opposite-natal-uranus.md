@@ -48,7 +48,7 @@ Vos maisons montrent où se fait la négociation. Avec Uranus en maison 5, l’o
 
 ## Combien de temps {#combien-de-temps}
 
-De 1,5° avant l’exactitude à 1° après, mes orbes, l’opposition dure environ deux ans et huit mois, vingt-deux mois environ au plus court. Pluton recule environ cinq mois par an : trois passages exacts dans environ trois cas sur cinq, cinq dans les autres.
+De 1,5° avant l’exactitude à 1° après, mes orbes, l’opposition dure environ deux ans et huit mois, vingt-deux mois environ au plus court. Chaque année, Pluton recule environ cinq mois, d’où trois passages exacts dans environ trois cas sur cinq, et cinq dans les autres.
 
 Environ 3 personnes sur 5 nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans ; les autres la vivent une fois. L’âge monte avec l’année de naissance, parce que chaque génération plus jeune est née avec Uranus plus près de Pluton, et le point opposé plus loin : pour une naissance un 1er janvier, l’opposition est entrée dans l’orbe à 46,9 ans en 1935, 53,9 ans en 1945 et 65,2 ans en 1955, et l’âge le plus jeune où quelqu’un l’a vécue est d’environ 44 ans.
 

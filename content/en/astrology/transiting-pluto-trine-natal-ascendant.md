@@ -38,7 +38,7 @@ Pluto's trine to your rising degree reaches the part of you that goes first: the
 
 ## What changes {#what-changes}
 
-[Pluto](/astrology/pluto/) regenerates: it clears out what has stopped working so that something sturdier can grow in its place. The [Ascendant](/astrology/ascendant/) is the orientation you start from, the first stance you take towards people and situations before you've decided anything. A [trine](/astrology/trine/), 120°, lets the two work in the same direction while each keeps its nature. Under this [transit](/astrology/transits/), a reflex you built long ago to get through first meetings, guardedness, charm on demand, the joke made before anyone can judge you, can be retired without a fight, and a steadier way of arriving takes its place.
+[Pluto](/astrology/pluto/) regenerates: it clears out what has stopped working so that something sturdier can grow in its place. The [Ascendant](/astrology/ascendant/) is the orientation you start from, the first stance you take towards people and situations before you've decided anything. A [trine](/astrology/trine/), 120°, lets Pluto's depth and your opening stance run the same way without either giving up its nature. Under this [transit](/astrology/transits/), a reflex you built long ago to get through first meetings, guardedness, charm on demand, the joke made before anyone can judge you, can be retired without a fight, and a steadier way of arriving takes its place.
 
 Pluto's harder contacts with the Ascendant change a manner through pressure. The trine changes it through permission: you find you can say what you think sooner, and that letting people know you in depth isn't the same as being exposed.
 

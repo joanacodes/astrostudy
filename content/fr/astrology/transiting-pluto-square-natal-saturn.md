@@ -26,7 +26,7 @@ faq:
     a: "Pluton, dans le ciel, se trouve à 90° de Saturne dans votre thème, la part qui tient la structure et la responsabilité. J’y lis une longue période de friction entre garder les cadres sur lesquels vous comptez et les remanier par en dessous : charges, règles et engagements sont mis à l’épreuve, et ceux qui s’adaptent en sortent renforcés."
   - q: "Combien de temps dure Pluton carré Saturne ?"
     a: "Environ deux ans et huit mois avec les orbes que j’utilise, de 1,5° avant l’exactitude à 1° après, et jusqu’à trois ans et neuf mois environ. Dans environ trois passages sur cinq, Pluton franchit le carré exact trois fois ; dans les autres, cinq fois."
-  - q: "Quand vient le carré de Pluton à mon Saturne ?"
+  - q: "Quand vient le carré de Pluton à Saturne dans mon thème ?"
     a: "À un âge fixé par la position de Saturne à votre naissance : pour une naissance un 1er janvier, à 2 ans en 1975, 28,8 ans en 1945, 30 ans en 1965 et 53,2 ans en 1985. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le carré touche Saturne en Taureau et en Scorpion. Environ 1 personne sur 7 ne le vit jamais avant 80 ans."
   - q: "Est-ce que Pluton carré Saturne est dangereux ?"
     a: "Non. Un carré décrit une friction, et une friction n’est pas un échec : celui-ci demande aux structures de s’adapter. Il n’annonce ni effondrement, ni maladie, ni perte d’emploi, ni aucun autre événement. Si la pression d’une telle période reste lourde des semaines durant, un médecin ou une ou un thérapeute est la bonne aide."

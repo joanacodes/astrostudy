@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mars", "opposition", "transits"]
 weight: 1822
 glyph: "♇☍♂"
-definition: "Transiting Pluto opposite natal Mars brings Pluto to the far side of the zodiac from your birth Mars for about two years and eight months; more than half of people never meet it. Other people’s drive, ambition or anger becomes the measure of your own. I read it as learning to share strength and use it in proportion, never as a destiny of conflict."
+definition: "Transiting Pluto opposite natal Mars brings Pluto to the far side of the zodiac from your birth Mars for about two years and eight months; more than half of people never meet it. Other people’s drive, ambition or anger becomes the measure of your own. I read it as learning to share strength, never as a destiny of conflict."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of power and transformation" }
   - { k: "Natal point", v: "Mars ♂: will, competition and defence" }
@@ -27,7 +27,7 @@ faq:
   - q: "How long does Pluto opposite Mars last?"
     a: "With my orbs, from 1½° before exact to 1° after, about two years and eight months, from about twenty-two months to nearly four years. Three passes in five cross the exact opposition three times; the others cross it five times."
   - q: "When will Pluto oppose my Mars?"
-    a: "While Pluto is in Aquarius, until early 2044, it opposes Mars in Leo. More than half of people born between 1930 and 2009 never meet this opposition by 80. Mars can sit anywhere in relation to the Sun, so any birthday can have it; the years follow your Mars’s degree."
+    a: "Mars in Leo is opposed by Pluto in Aquarius until early 2044. Fewer than half of those born between 1930 and 2009 ever meet it before 80. Mars can sit anywhere in relation to the Sun, so any birthday can have it; Mars’s degree gives the years."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the opposition within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Mars, read one by one" }
@@ -52,7 +52,7 @@ Allowing 1½° before exact and 1° after, as I do in timing, the opposition run
 
 Of Pluto's five contacts with Mars, the square ([Transiting Pluto square natal Mars](/astrology/transiting-pluto-square-natal-mars/)) is the one most people meet, about seven in eight, followed by the trine ([Transiting Pluto trine natal Mars](/astrology/transiting-pluto-trine-natal-mars/)) and the sextile ([Transiting Pluto sextile natal Mars](/astrology/transiting-pluto-sextile-natal-mars/)), each reaching about three in four or more. The conjunction ([Transiting Pluto conjunct natal Mars](/astrology/transiting-pluto-conjunct-natal-mars/)) and this opposition come to fewer than half: more than half of people born between 1930 and 2009 never meet the opposition by 80.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it opposes Mars in Leo.
+Leo, across the zodiac from Aquarius, is where Mars has to be for this opposition until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
 
 ## What helps {#what-helps}
 

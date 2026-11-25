@@ -36,7 +36,7 @@ Some stretches of life make gentleness easy. When Chiron trines your Neptune, im
 
 ## What changes {#what-changes}
 
-[Neptune](/astrology/neptune/) is the capacity to imagine, to feel with others and to sense meaning beyond the literal. [Chiron](/astrology/chiron/) finds ways of taking part in life around a limit that persists. A [trine](/astrology/trine/) relates them through flow while keeping each itself, so in this [transit](/astrology/transits/) compassion reaches the sore spot without drowning it, and the sore spot lends compassion some realism.
+[Neptune](/astrology/neptune/) is the capacity to imagine, to feel with others and to sense meaning beyond the literal. [Chiron](/astrology/chiron/) keeps a sore spot company rather than curing it, and learns what helps. A [trine](/astrology/trine/) relates them through flow while keeping each itself, so in this [transit](/astrology/transits/) compassion reaches the sore spot without drowning it, and the sore spot lends compassion some realism.
 
 People often describe it in quiet terms: a meditation or prayer practice that finally sits right; a page written about an old hurt that comes out kinder than expected; being able to stay with a friend's distress without rushing to fix it or being swept away by it. What Neptune needs is openness that still tells self from other, and the trine tends to make that balance easier to find.
 
@@ -48,7 +48,7 @@ Trines usually join signs of the same element, and the element colours the seaso
 
 Measured from 1½° before exact to 1° after, most of these trines last about ten months, with three exact hits as Chiron turns retrograde and then direct again; nearly two passes in three take that shape. A single crossing, about one pass in three, is over in roughly three weeks, and the longest, one in twenty, runs to some twenty-one months with five hits. Chiron is slow in Taurus, so in these years the looping shapes are the likely ones.
 
-The first trine can come in the first weeks of life or wait until about 37: about 18 for people born in 1935, about 10 for 1945, about 4 for 1955, within weeks of birth for 1965 and for 1995, about 17 for 1975, about 9 for 1985 and about 31 for 2005. By 80 most people have had three, some two and some four. For most of the Capricorn-Neptune generation the trine from Taurus is the second, since the first came in the 1990s, while Chiron crossed Virgo.
+The first trine can come in the first weeks of life or wait until about 37: about 18 for people born in 1935, about 10 for 1945, about 4 for 1955, within weeks of birth for 1965 and for 1995, about 17 for 1975, about 9 for 1985 and about 31 for 2005. Two at the least by 80 and four at the most, with three the usual count. For most of the Capricorn-Neptune generation the trine from Taurus is the second, since the first came in the 1990s, while Chiron crossed Virgo.
 
 The two trines of a round sit either side of [transiting Chiron opposite natal Neptune](/astrology/transiting-chiron-opposite-natal-neptune/), each with [transiting Chiron square natal Neptune](/astrology/transiting-chiron-square-natal-neptune/) just outside it; [transiting Chiron sextile natal Neptune](/astrology/transiting-chiron-sextile-natal-neptune/) and [transiting Chiron conjunct natal Neptune](/astrology/transiting-chiron-conjunct-natal-neptune/) close the circle.
 

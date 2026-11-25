@@ -38,7 +38,7 @@ Both of Pluto's trines to your Midheaven come from below the horizon, from the p
 
 ## What changes {#what-changes}
 
-[Pluto](/astrology/pluto/) regenerates: what has run its course is let go, and what remains grows stronger. The [Midheaven](/astrology/midheaven/) frames how your capacities become visible, through role, responsibility and contribution. A [trine](/astrology/trine/), 120°, lets two functions flow together without either losing its nature. Under this [transit](/astrology/transits/), your work tends to deepen rather than change course: a responsibility you've been ready for comes within reach, people start asking for what you actually know, and an authority grows that rests on substance rather than title.
+[Pluto](/astrology/pluto/) regenerates: what has run its course is let go, and what remains grows stronger. The [Midheaven](/astrology/midheaven/) frames how your capacities become visible, through role, responsibility and contribution. A [trine](/astrology/trine/), 120°, lets Pluto's reworking feed your public direction instead of fighting it. Under this [transit](/astrology/transits/), your work tends to deepen rather than change course: a responsibility you've been ready for comes within reach, people start asking for what you actually know, and an authority grows that rests on substance rather than title.
 
 Visibility isn't value, and the trine tends to favour the second. Work that holds up when looked at closely gains ground; work that was only for show loses interest, sometimes for you before anyone else.
 

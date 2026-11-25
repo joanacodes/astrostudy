@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Venus", "square", "transits"]
 weight: 1815
 glyph: "♇□♀"
-definition: "Transiting Pluto square natal Venus is the planet of depth a quarter of the zodiac from your birth Venus, for about two years and eight months, the Venus contact seven people in eight meet by 80. The terms of your attachments and pleasures come up for honest review. I read it as friction that renews what you value, never as a forecast for a bond."
+definition: "Transiting Pluto square natal Venus is the planet of depth a quarter of the zodiac from your birth Venus, for about two years and eight months, the Venus contact most people meet by 80. The terms of your attachments come up for honest review. I read it as friction that renews what you value, never a forecast for a bond."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Venus ♀: values, attachment and fair exchange" }
@@ -27,7 +27,7 @@ faq:
   - q: "How long does Pluto square Venus last?"
     a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, from about twenty-two months to nearly four years. Most passes cross the exact square three times; about two in five cross it five times."
   - q: "When will Pluto square my Venus?"
-    a: "While Pluto is in Aquarius, until early 2044, it squares Venuses in Taurus and Scorpio. About seven people in eight born between 1930 and 2009 meet one of the two Pluto squares to Venus by 80; about one in eight never does. The years follow your Venus’s degree."
+    a: "Squares to Venus in Taurus and Scorpio come round while Pluto is in Aquarius, until early 2044. About seven in eight people born between 1930 and 2009 meet one of these squares to Venus by 80; about one in eight never does."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the square within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Venus, read one by one" }
@@ -52,7 +52,7 @@ Within my orbs, which run from 1½° before exact to 1° after, Pluto takes abou
 
 About seven people in eight born between 1930 and 2009 meet one of Venus's two Pluto squares by 80, which makes it the most widely shared of the five contacts; about one in eight never does.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it squares Venuses in Taurus and Scorpio.
+Pluto’s Aquarius years, which run to early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), square Venus in Taurus, where Venus is at home, and in Scorpio, across from it.
 
 ## What helps {#what-helps}
 

@@ -27,7 +27,7 @@ faq:
   - q: "Is Pluto sextile Mercury good for studying?"
     a: "It suits study well, especially the long and demanding kind: research, a qualification, learning a craft properly. I wouldn’t promise results, since a sextile is an opportunity rather than a guarantee. What it gives is a mind willing to stay with a hard subject until it opens."
   - q: "When will Pluto sextile my Mercury?"
-    a: "While Pluto is in Aquarius, until early 2044, it sextiles Mercurys in Aries and Sagittarius, the early degrees first. About four people in five born between 1930 and 2009 meet one of the two sextiles to Mercury by 80, and a few meet both."
+    a: "From Aquarius, where Pluto stays until early 2044, the sextile reaches Mercury in the fire signs on either side, Aries and Sagittarius, early degrees first. About four people in five born between 1930 and 2009 meet one of the two sextiles to Mercury by 80, and a few meet both."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the sextile lasts within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Mercury, read one by one" }
@@ -36,7 +36,7 @@ Pluto sextile your Mercury is an invitation, and it waits for an answer. For two
 
 ## What changes {#what-changes}
 
-[Pluto](/astrology/pluto/) seeks access to what is hidden: records, motives, the question under the question. Your [Mercury](/astrology/mercury/) learns, analyses and exchanges. A [sextile](/astrology/sextile/), 60°, relates them through opportunity and cooperation, so under this [transit](/astrology/transits/) the means of going deeper are within reach: a course that finally fits, an archive that opens, someone who knows the answer and is willing to tell you. A sextile only offers. It rewards whoever signs up, asks, or sits down to read.
+[Pluto](/astrology/pluto/) seeks access to what is hidden: records, motives, the question under the question. Your [Mercury](/astrology/mercury/) learns, analyses and exchanges. A [sextile](/astrology/sextile/), 60°, relates them through opportunity and cooperation, so under this [transit](/astrology/transits/) the means of going deeper are within reach: a course that finally fits, an archive that opens, someone who knows the answer and is willing to tell you. A sextile only offers. It rewards whoever signs up, asks, or sits down to read. As with every transit, Pluto here activates what your chart already holds, a mind able to dig; it creates no event and promises no result.
 
 Clearing out an old opinion isn't the same as building a better one. The sextile gives you time for both: let go of the view that no longer holds, then do the slower work of finding out what you think instead. Curiosity isn't distraction, either, and it serves you best here when it follows one thread a long way rather than twenty a little.
 
@@ -50,7 +50,7 @@ Measured from 1½° before exact to 1° after, the span my timing uses, the sext
 
 About four people in five born between 1930 and 2009 meet one of Mercury's two Pluto sextiles by 80, and a few meet both, one on each side of the circle.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it sextiles Mercurys in Aries and Sagittarius, the early degrees first.
+In the years Pluto spends in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), the Mercurys it sextiles are in Aries and Sagittarius.
 
 ## What helps {#what-helps}
 

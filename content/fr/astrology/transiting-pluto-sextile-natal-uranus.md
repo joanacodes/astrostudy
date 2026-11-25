@@ -24,14 +24,14 @@ related: ["/astrology/pluto", "/astrology/uranus", "/astrology/sextile", "/astro
 faq:
   - q: "Que veut dire Pluton en transit sextile Uranus ?"
     a: "Pluton, dans le ciel, se trouve à 60° d’Uranus dans votre thème, à deux signes de distance. J’y lis une longue ouverture où le renouveau soutient votre envie de changement : une réforme que vous souhaitez, au travail, chez vous ou dans un groupe, devient praticable si vous la prenez en main. Ce transit décrit une occasion, pas un résultat."
-  - q: "Quand vient le sextile de Pluton à mon Uranus ?"
+  - q: "Quand vient le sextile de Pluton à Uranus dans mon thème ?"
     a: "Cela dépend de votre année de naissance, car Uranus s’éloigne de Pluton depuis des décennies. Pour une naissance un 1er janvier, le sextile est venu à 13,9 ans pour 1955, 23,9 ans pour 1965, 33,1 ans pour 1975 et 47,2 ans pour 1985. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le sextile touche les personnes nées de 1981 à 1989, avec Uranus en Sagittaire."
   - q: "Combien de temps dure Pluton sextile Uranus ?"
     a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ au plus rapide. Dans environ trois passages sur cinq, Pluton franchit le sextile exact trois fois ; les autres comptent cinq passages exacts et durent environ trois ans et sept mois."
   - q: "Est-ce que Pluton sextile Uranus est un bon moment pour de grands changements ?"
     a: "C’est un bon moment pour des changements choisis et préparés, parce que le sextile favorise la réforme délibérée plutôt que la rupture soudaine. Mais aucun transit ne décide à votre place ni ne garantit un résultat. Je m’en servirais pour un changement que vous souhaitez depuis longtemps, mené avec soin."
 sources:
-  - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le sextile dans mes orbes, et les âges où il vient selon l’année de naissance" }
+  - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le sextile dans mes orbes, et les âges où le sextile vient selon l’année de naissance" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Uranus, un par un" }
 ---
 Avec Pluton à 60° d’Uranus dans votre thème natal, à deux signes de distance, la planète du renouveau donne de la profondeur à votre envie de changement. Pendant deux ans ou plus, une réforme que vous mûrissez peut trouver une voie praticable, si vous la prenez.

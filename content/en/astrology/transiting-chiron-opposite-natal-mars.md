@@ -37,17 +37,17 @@ Half a round can take fourteen years or thirty-six. Chiron crossed the six signs
 
 The other person can be a rival whose insecurity looks uncomfortably like yours, a partner who needs you to slow down, or a colleague who finds your weak point and leans on it. Sometimes you are the one pressing, without noticing, on a hurt someone else carries. Competition is not hostility, and the opposition is not a fight; what it shows is the place where your way of going after things meets a limit you didn't account for. The balance it asks for is between holding your ground and making room, so that you can stand beside people as well as against them.
 
-With [Mars in the 1st house](/astrology/mars-in-1st-house/), the way you go first is yours, while Chiron crosses your 7th ([Chiron transiting the 7th house](/astrology/chiron-transit-7th-house/)) and finds the sore spot in the person facing you, in love, at work or across a table. Both houses hang on your birth time, without which I don't read the opposition ([what changes without a birth time](/blog/unknown-birth-time/)). If [Mars opposite Chiron](/astrology/mars-opposite-chiron/) is already in your chart, the tug between effort and tenderness is familiar, and the transit hands it to the people around you.
+With [Mars in the 1st house](/astrology/mars-in-1st-house/), the way you go first is yours, while Chiron crosses your 7th ([Chiron transiting the 7th house](/astrology/chiron-transit-7th-house/)) and finds the sore spot in the person facing you, in love, at work or across a table. Your 1st and 7th are the two ends of your horizon, fixed by the minute you were born; without that minute I don't read the opposition ([what changes without a birth time](/blog/unknown-birth-time/)). If [Mars opposite Chiron](/astrology/mars-opposite-chiron/) is already in your chart, the tug between effort and tenderness is familiar, and the transit hands it to the people around you.
 
 Nothing here forecasts a quarrel, a lawsuit or a break-up, and I don't read transits for those ([disclaimers](/disclaimers/#help)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, the orbs I use, the opposition typically lasts about ten months. Chiron's retrograde loop brings it over the exact point three times in nearly two passes out of three; about one in three is a single crossing of some three weeks; about one in twenty is a long five-crossing stretch of some twenty-one months.
+A contest that flares and settles within three weeks is the short version, about one pass in three, when Chiron crosses the point opposite your Mars only once. More often, nearly two times in three, its retrograde loop makes three crossings and some ten months of it, counted with my orbs from 1½° before exact to 1° after; about one pass in twenty is a five-crossing stretch of roughly twenty-one months.
 
 There is one opposition in each round of about 50 years, so by 80 most people have met it twice and everyone once. It marks the middle of the round: after [transiting Chiron conjunct natal Mars](/astrology/transiting-chiron-conjunct-natal-mars/), [transiting Chiron sextile natal Mars](/astrology/transiting-chiron-sextile-natal-mars/), the first [transiting Chiron square natal Mars](/astrology/transiting-chiron-square-natal-mars/) and the first [transiting Chiron trine natal Mars](/astrology/transiting-chiron-trine-natal-mars/), and before the same angles return in reverse.
 
-Over the next few years: Chiron in Aries opposes Mars in Libra until April 2027; Chiron in Taurus, from June 2026 to May 2034, Mars in Scorpio; Chiron in Gemini, from July 2033 to April 2039, Mars in Sagittarius.
+The next ones are easy to date: Mars in Libra meets the opposition before April 2027, Mars in Scorpio between June 2026 and May 2034, Mars in Sagittarius between July 2033 and April 2039.
 
 ## What helps {#what-helps}
 

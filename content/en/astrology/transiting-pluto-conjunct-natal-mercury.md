@@ -27,7 +27,7 @@ faq:
   - q: "Can Pluto conjunct Mercury make you obsessive?"
     a: "It can make a question hard to put down, and that is not the same as obsession. Analysis isn’t overthinking, and depth isn’t a disorder. If your thoughts start to circle without rest, or keep you from sleeping, that is worth taking to a doctor, whatever the transit."
   - q: "When will Pluto conjunct my Mercury?"
-    a: "While Pluto is in Aquarius, until early 2044, it reaches Mercurys in Aquarius, which belong to birthdays between about late December and mid-March. The exact years follow your Mercury’s degree. Fewer than half of people born between 1930 and 2009 meet this conjunction by 80."
+    a: "Pluto meets every Mercury in Aquarius before it leaves that sign in early 2044; those Mercurys go with birthdays between about late December and mid-March. Your Mercury’s degree sets the year. Fewer than half of people born between 1930 and 2009 meet this conjunction by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto stays on Mercury within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Mercury, read one by one" }
@@ -50,7 +50,7 @@ My timing allows from 1½° before exact to 1° after. Within that window Pluto 
 
 Fewer than half of people born between 1930 and 2009 meet this conjunction by 80, and slightly fewer still meet the opposition ([Transiting Pluto opposite natal Mercury](/astrology/transiting-pluto-opposite-natal-mercury/)). Most meet a square ([Transiting Pluto square natal Mercury](/astrology/transiting-pluto-square-natal-mercury/)) instead, and many the sextile ([Transiting Pluto sextile natal Mercury](/astrology/transiting-pluto-sextile-natal-mercury/)) or the trine ([Transiting Pluto trine natal Mercury](/astrology/transiting-pluto-trine-natal-mercury/)).
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it reaches Mercurys in Aquarius. Mercury is never more than about 28° from the Sun, so a Mercury in Aquarius belongs to a birthday between about late December and mid-March.
+Pluto’s years in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), bring the conjunction to every Mercury in that sign. Mercury is never more than about 28° from the Sun, so a Mercury in Aquarius belongs to a birthday between about late December and mid-March.
 
 ## What helps {#what-helps}
 

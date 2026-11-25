@@ -48,7 +48,7 @@ Le courant passe par la maison que Neptune traverse, à peu près quatre après 
 
 Dans mes orbes, de 1,5° avant l’exactitude à 1° après, un passage s’étend sur deux ans et demi environ, en moins de deux ans pour les plus rapides ; trois passages exacts sont l’usage, cinq arrivent une fois sur quatre à peu près ([Neptune rétrograde](/astrology/neptune-retrograde/)). Tout le monde le rencontre, et quelques personnes en deux périodes séparées.
 
-Dans le décompte du site, l’orbe s’ouvrait entre 23,8 et 34,3 ans : à 32 ans pour une naissance au début de 1935, 29 pour 1945, 27 pour 1955, 26 pour 1965 et 1975, 27,3 pour 1985, puis 29,3 et 29,4 pour 1995 et 2005. Une naissance au début de 1975 l’a eu exact à 27,1, 27,6 et 28,0 ans.
+Dans le décompte du site, l’orbe s’ouvrait entre 23,8 et 34,3 ans : à 32 ans pour une naissance au début de 1935, 29 pour 1945, 27 pour 1955, 26 pour 1965 et 1975, 27,3 pour 1985, puis 29,3 et 29,4 pour 1995 et 2005. Le début de 1975 donne les passages exacts à 27,1, 27,6 et 28,0 ans, tous en 2002.
 
 Chez la plupart des personnes nées entre 1955 et 1985 environ, ce trigone et [Neptune en transit sextile Neptune du thème natal](/astrology/transiting-neptune-sextile-natal-neptune/) ne font qu’un seul mouvement de Neptune : Neptune avait alors environ 60° d’avance sur Pluton, si bien que 120° de l’un font 60° de l’autre. Pour les naissances des années 1990 et 2000, le trigone tombe vers 29 ans, à côté du [retour de Saturne](/astrology/saturn-return/). En ce moment, il revient à la génération née avec [Pluton en Sagittaire](/astrology/pluto-in-sagittarius/), de 1995 à 2008 : les années de Neptune en Bélier, jusqu’en mars 2039, atteignent leur Pluton par trigone autour de leur retour de Saturne.
 

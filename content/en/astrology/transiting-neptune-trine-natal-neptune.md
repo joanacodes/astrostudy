@@ -49,7 +49,7 @@ The trine opens, in my orbs of 1½° before exact to 1° after, somewhere betwee
 
 Everyone meets it once. Two steps of the cycle lie behind it, the sextile of the mid-twenties ([transiting Neptune sextile natal Neptune](/astrology/transiting-neptune-sextile-natal-neptune/)) and the square of the early forties ([transiting Neptune square natal Neptune](/astrology/transiting-neptune-square-natal-neptune/), the [Neptune square](/astrology/neptune-square/)); one lies ahead, [transiting Neptune opposite natal Neptune](/astrology/transiting-neptune-opposite-natal-neptune/), at about 80. For most births from the mid-1940s to the mid-1980s, when Neptune ran a sixth of the zodiac ahead of Pluto, [transiting Neptune opposite natal Pluto](/astrology/transiting-neptune-opposite-natal-pluto/) lands a year or so before or after this trine: imagination flowing from one side while something long held faces you from the other.
 
-Until March 2039 Neptune crosses Aries, a fire sign like Sagittarius ([Neptune in Aries, 2026–2039](/astrology/neptune-in-aries-2026-2039/)), so the trine belongs to people born with [Neptune in Sagittarius](/astrology/neptune-in-sagittarius/), from 1970 to 1984, at about 54.
+People born with [Neptune in Sagittarius](/astrology/neptune-in-sagittarius/), from 1970 to 1984, are the ones meeting it now, at about 54: Neptune is in Aries, a fire sign like theirs, until March 2039 ([Neptune in Aries, 2026–2039](/astrology/neptune-in-aries-2026-2039/)).
 
 ## What helps {#what-helps}
 

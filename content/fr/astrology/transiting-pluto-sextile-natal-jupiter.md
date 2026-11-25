@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Jupiter", "sextile", "transits"]
 weight: 1824
 glyph: "♇⚹♃"
-definition: "Pluton en transit sextile Jupiter du thème natal, c’est Pluton à 60° de votre Jupiter pendant environ deux ans et huit mois, une ouverture que près de quatre personnes sur cinq rencontrent avant 80 ans. Une formation, un mentor ou une pensée peuvent mener votre compréhension plus loin, si vous les cherchez. J’y lis une profondeur offerte à vos convictions."
+definition: "Pluton en transit sextile Jupiter du thème natal vient quand Pluton atteint 60° de votre Jupiter, et dure environ deux ans et huit mois ; près de quatre personnes sur cinq connaissent ce sextile avant 80 ans. Une formation, un mentor ou une pensée peuvent mener votre compréhension plus loin, si vous les cherchez. J’y lis une profondeur offerte à vos convictions."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et de la transformation" }
   - { k: "Point natal", v: "Jupiter ♃ : l’apprentissage, le sens et les principes" }
@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/jupiter", "/astrology/sextile", "/astrology/jupiter-sextile-pluto", "/astrology/pluto-transit-1st-house"]
 faq:
   - q: "Que veut dire Pluton en transit sextile Jupiter ?"
-    a: "Dans le ciel, Pluton atteint 60° de la place qu’occupait Jupiter à votre naissance. J’y lis une longue ouverture vers une compréhension plus profonde : la formation que vous vouliez suivre depuis toujours, un mentor qui en sait plus que vous, une tradition ou une œuvre dans laquelle vous entrez enfin pour de bon. Rien n’arrive tout seul ; le sextile aide qui commence."
+    a: "Pluton atteint 60° de la place qu’occupait Jupiter à votre naissance. J’y lis une longue ouverture vers une compréhension plus profonde : la formation que vous vouliez suivre depuis toujours, un mentor qui en sait plus que vous, une tradition ou une œuvre dans laquelle vous entrez enfin pour de bon. Rien n’arrive tout seul ; le sextile aide qui commence."
   - q: "À quel âge vient le sextile de Pluton à Jupiter ?"
     a: "Cela dépend de votre date de naissance, par l’angle que formaient Jupiter et Pluton à votre naissance. Une naissance le 1er janvier 1985 l’a rencontré vers 6 ans, le 1er janvier 1955 vers 14 ans, le 1er janvier 1995 à 31 ans ; le 1er janvier 1965 ou 2005, jamais avant 80 ans. L’âge médian est d’environ 30 ans."
   - q: "Est-ce que Pluton sextile Jupiter apporte de la chance ?"
@@ -40,7 +40,7 @@ Pluton en sextile à votre Jupiter ouvre une longue porte vers une compréhensio
 
 [Pluton](/astrology/pluto/) veut accéder à ce qui se trouve dessous, aux ressources et aux motivations que la plupart des gens ne regardent jamais. [Jupiter](/astrology/jupiter/) apprend, rassemble et fait de la place à la croissance. Un [sextile](/astrology/sextile/), à 60°, les relie par l’occasion et la coopération : sous ce [transit](/astrology/transits/), la compréhension peut s’approfondir par choix. La formation que vous vouliez suivre depuis toujours, un mentor qui en sait plus que vous, une œuvre dans laquelle vous entrez enfin pour de bon.
 
-Un enseignement n’a pas besoin d’être caché ou ésotérique pour être profond. Sous ce sextile, les idées les plus simples, suivies assez loin, ouvrent le plus loin ; la profondeur est dans le chemin, pas dans le secret. L’occasion n’est pas la réussite assurée, non plus. Le sextile aide le travail ; il ne le fait pas à votre place.
+Un enseignement n’a pas besoin d’être caché ou ésotérique pour être profond. Sous ce sextile, les idées les plus simples, suivies assez loin, ouvrent le plus loin ; la profondeur est dans le chemin, pas dans le secret. L’occasion n’est pas la réussite assurée, non plus. Le sextile aide le travail ; il ne le fait pas à votre place. Ce transit active ce que Jupiter décrit déjà dans votre thème plutôt que d’apporter du neuf, et ce qui grandit dépend de ce que vous faites de l’ouverture.
 
 Dans un thème natal, [Jupiter sextile Pluton](/astrology/jupiter-sextile-pluto/) est partagé par toute une classe d’âge. Le transit, lui, est personnel : il vient quand Pluton atteint 60° de votre propre Jupiter.
 

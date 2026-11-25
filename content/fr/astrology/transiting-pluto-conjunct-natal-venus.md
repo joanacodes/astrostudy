@@ -28,7 +28,7 @@ faq:
   - q: "Combien de temps dure Pluton conjonction Vénus ?"
     a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, de vingt-deux mois environ pour les passages les plus rapides à près de quatre ans pour les plus lents. La plupart des passages franchissent le degré exact trois fois ; environ deux sur cinq, cinq fois."
   - q: "Quand vient la conjonction de Pluton à ma Vénus ?"
-    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, la conjonction touche Vénus en Verseau, qui correspond aux anniversaires du début décembre au début avril environ. Plus de la moitié des personnes nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans. Les années suivent le degré de votre Vénus."
+    a: "Vénus en Verseau a son tour pendant le séjour de Pluton dans ce signe, qui s’achève au début de 2044 ; elle va avec un anniversaire du début décembre au début avril environ. Parmi les personnes nées entre 1930 et 2009, plus de la moitié arrivent à 80 ans sans cette conjonction."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton reste sur Vénus dans mes orbes, et combien de personnes vivent ce transit avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Vénus, un par un" }
@@ -51,7 +51,7 @@ De 1,5° avant l’exactitude à 1° après, la fenêtre que j’utilise, Pluton
 
 En chemin vers votre Vénus, Pluton passe d’abord par un trigone ([Pluton en transit trigone Vénus du thème natal](/astrology/transiting-pluto-trine-natal-venus/)), un carré ([Pluton en transit carré Vénus du thème natal](/astrology/transiting-pluto-square-natal-venus/)) et un sextile ([Pluton en transit sextile Vénus du thème natal](/astrology/transiting-pluto-sextile-natal-venus/)), tandis que l’opposition ([Pluton en transit opposition Vénus du thème natal](/astrology/transiting-pluto-opposite-natal-venus/)) se trouve à un demi-cercle. Une vie couvre trop peu de ce cercle pour que la plupart des gens arrivent jusqu’au bout : plus de la moitié des personnes nées entre 1930 et 2009 ne rencontrent jamais la conjonction avant 80 ans.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), la conjonction touche Vénus en Verseau. Vénus ne s’éloigne jamais à plus de 47° environ du Soleil : ces thèmes correspondent aux anniversaires du début décembre au début avril environ.
+Toute Vénus en Verseau la rencontre pendant que Pluton traverse ce signe, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)). Vénus ne s’éloigne jamais à plus de 47° environ du Soleil : ces thèmes correspondent aux anniversaires du début décembre au début avril environ.
 
 ## Ce qui aide {#ce-qui-aide}
 

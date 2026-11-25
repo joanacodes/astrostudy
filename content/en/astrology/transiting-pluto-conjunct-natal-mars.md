@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mars", "conjunction", "transits"]
 weight: 1818
 glyph: "♇☌♂"
-definition: "Transiting Pluto conjunct natal Mars is Pluto crossing the degree of your birth Mars, for about two years and eight months, once in a lifetime at most; more than half of people never meet it. Effort and transformation fuse: you commit harder and aim deeper. I read it as concentrated willpower, never as violence or danger."
+definition: "Transiting Pluto conjunct natal Mars is the meeting of Pluto with the degree of your birth Mars, about two years and eight months long and once in a lifetime at most; more than half of people never meet it. Effort and transformation fuse: you commit harder and aim deeper. I read it as concentrated willpower, never as violence or danger."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and empowerment" }
   - { k: "Natal point", v: "Mars ♂: drive, effort and courage" }
@@ -27,7 +27,7 @@ faq:
   - q: "How long does Pluto conjunct Mars last?"
     a: "Measured from 1½° before exact to 1° after, the orbs I time by, about two years and eight months; the longest passes reach nearly four years. Three passes in five cross the exact degree three times, the others five times, Pluto doubling back twice."
   - q: "When will Pluto conjunct my Mars?"
-    a: "While Pluto is in Aquarius, until early 2044, it reaches Mars in Aquarius, which Mars visits for about six or seven weeks every two years or so. More than half of people born between 1930 and 2009 never meet this conjunction by 80, and nobody meets it twice."
+    a: "Mars in Aquarius, where Mars spends about six or seven weeks every two years or so, is the one Pluto conjoins until early 2044. Of everyone born between 1930 and 2009, more than half never meet this conjunction by 80, and those who do meet it once."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto stays on Mars within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Mars, read one by one" }

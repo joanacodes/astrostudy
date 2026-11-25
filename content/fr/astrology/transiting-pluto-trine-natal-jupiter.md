@@ -26,7 +26,7 @@ faq:
     a: "Pluton, dans le ciel, se trouve à 120° du degré qu’occupait Jupiter à votre naissance. J’y lis une longue saison où le renouveau et la croissance s’entraident : vos convictions, vos projets et votre façon de donner un sens aux choses peuvent être repris à la racine, sans la tension d’un carré ou d’une opposition."
   - q: "Combien de temps dure Pluton trigone Jupiter ?"
     a: "Environ deux ans et huit mois avec les orbes que j’utilise pour dater, de 1,5° avant l’exactitude à 1° après ; vingt-deux mois environ pour les passages les plus rapides. Pluton franchit le trigone exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres, qui durent environ trois ans et sept mois."
-  - q: "Quand vient le trigone de Pluton à mon Jupiter ?"
+  - q: "Quand vient le trigone de Pluton à Jupiter dans mon thème ?"
     a: "Cela dépend du signe et du degré de Jupiter dans votre thème, pas de votre âge, car Jupiter change de signe environ une fois par an. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le trigone touche Jupiter en Gémeaux et en Balance, les premiers degrés d’abord. Environ 1 personne sur 4 née entre 1930 et 2009 ne le vit jamais avant 80 ans."
   - q: "Est-ce que Pluton trigone Jupiter apporte de la chance ou de l’argent ?"
     a: "Pas dans ma lecture. Jupiter décrit une croissance de la compréhension, pas la chance ni la richesse, et un trigone décrit une fluidité, pas un succès. Ce transit rend plus facile d’approfondir ce que vous croyez et ce que vous projetez ; il n’annonce ni aubaine, ni victoire, ni aucun événement."
@@ -44,7 +44,7 @@ Le piège est celui de tous les trigones : l’aisance n’est pas une garantie
 
 Si votre thème porte [Jupiter trigone Pluton](/astrology/jupiter-trine-pluto/), ce transit appartient à vos premières années, quand Pluton franchissait encore l’angle exact, ou attend que Pluton ait parcouru un tiers du zodiaque de plus, des décennies plus tard. Pour les autres, c’est une rencontre que le thème ne contient pas.
 
-Les maisons disent où l’approfondissement se fait. Avec Jupiter en maison 9, le trigone vient des environs de la maison 5 ([Pluton en transit en maison 5](/astrology/pluto-transit-5th-house/)) ou de la maison 1, et ce que vous aimez faire se met à changer ce que vous croyez ; avec Jupiter en maison 2, il vient de la maison 6 ou 10, et le travail réorganise ce à quoi vous tenez. Les planètes proches de Jupiter à votre naissance reçoivent le trigone les mêmes années. Tout cela demande votre heure de naissance, et sans elle je ne lis pas le thème ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les maisons disent où l’approfondissement se fait. Avec Jupiter en maison 9, le trigone vient des environs de la maison 5 ([Pluton en transit en maison 5](/astrology/pluto-transit-5th-house/)) ou de la maison 1, et ce que vous aimez faire se met à changer ce que vous croyez ; avec Jupiter en maison 2, le trigone vient de la maison 6 ou 10, et le travail réorganise ce à quoi vous tenez. Les planètes proches de Jupiter à votre naissance reçoivent le trigone les mêmes années. Tout cela demande votre heure de naissance, et sans elle je ne lis pas le thème ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

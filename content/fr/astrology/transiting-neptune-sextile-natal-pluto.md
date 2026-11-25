@@ -38,7 +38,7 @@ Pour la plupart des gens, ce transit est venu avant tout souvenir. Neptune a att
 
 ## Ce qui change {#ce-qui-change}
 
-[Pluton](/astrology/pluto/) marque l’endroit où vous tenez le plus fort et où, avec le temps, vous vous renouvelez. [Neptune](/astrology/neptune/) assouplit et élargit, vers l’imagination et la compassion. Un [sextile](/astrology/sextile/), 60°, relie deux fonctions par une ouverture qui attend une réponse ; sous ce [transit](/astrology/transits/), l’ouverture passe entre imaginer et transformer : la capacité de laisser un idéal changer ce qui ne marche plus.
+[Pluton](/astrology/pluto/) marque l’endroit où vous tenez le plus fort et où, avec le temps, vous vous renouvelez. [Neptune](/astrology/neptune/) apporte l’imagination et la compassion, le don de se figurer les choses autrement. Un [sextile](/astrology/sextile/), 60°, relie deux fonctions par une ouverture qui attend une réponse ; sous ce [transit](/astrology/transits/), l’ouverture passe entre imaginer et transformer : la capacité de laisser un idéal changer ce qui ne marche plus.
 
 Comme il vient si tôt, je ne le lis pas comme une saison vécue. Beaucoup de personnes nées ces années-là portent l’aspect natal [Neptune sextile Pluton](/astrology/neptune-sextile-pluto/) ; pour elles, le transit, c’est le même angle qui devient exact dans le ciel quelques mois ou un ou deux ans après la naissance, parfois déjà dans l’orbe le jour même. Ce dont un adulte peut se servir, c’est la paire natale, lue dans les maisons des deux planètes, qui viennent de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

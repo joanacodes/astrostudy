@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/mercury", "/astrology/opposition", "/astrology/mercury-opposite-pluto", "/astrology/pluto-transit-10th-house"]
 faq:
   - q: "Que veut dire Pluton en transit opposition Mercure ?"
-    a: "Pluton a atteint le point opposé à votre Mercure. J’y lis une longue saison où la pression sur votre pensée passe par les autres : une conviction forte en face de vous, une négociation qui compte, une conversation qui montre le poids que peuvent avoir les mots. Ce transit change votre façon de penser, pas l’issue d’un débat."
+    a: "Pluton se tient désormais à l’opposé exact de votre Mercure. J’y lis une longue saison où la pression sur votre pensée passe par les autres : une conviction forte en face de vous, une négociation qui compte, une conversation qui montre le poids que peuvent avoir les mots. Ce transit change votre façon de penser, pas l’issue d’un débat."
   - q: "Combien de temps dure Pluton opposition Mercure ?"
-    a: "En accordant 1,5° avant l’exactitude et 1° après, comme je le fais pour dater, environ deux ans et huit mois, et vingt-deux mois environ pour les passages les plus courts. Dans environ trois passages sur cinq, Pluton franchit l’opposition exacte trois fois ; dans les autres, cinq fois, sur trois ans et sept mois environ."
+    a: "En accordant 1,5° avant l’exactitude et 1° après, comme je le fais pour dater, environ deux ans et huit mois, et vingt-deux mois environ pour les passages les plus courts. Dans environ trois passages sur cinq, Pluton franchit l’opposition exacte trois fois ; dans les autres, cinq fois, sur trois ans et sept mois environ."
   - q: "Est-ce que Pluton opposition Mercure annonce des disputes ?"
     a: "Ce transit n’annonce ni dispute ni aucun autre événement. Il décrit une saison où les avis des autres pèsent plus fort sur le vôtre, ce qui peut donner de bons débats aussi bien que des frictions. La suite dépend de vous et d’eux. Ce qui reste souvent ensuite, c’est une idée plus nette de ce que vous pensez vraiment."
   - q: "Quand vient l’opposition de Pluton à mon Mercure ?"
-    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, l’opposition touche Mercure en Lion, qui correspond aux anniversaires de la fin juin à la fin septembre environ. Près de trois personnes sur cinq nées entre 1930 et 2009 ne rencontrent jamais cette opposition avant 80 ans. Les années suivent le degré de votre Mercure."
+    a: "Depuis le Verseau, jusqu’au début de 2044, Pluton s’oppose à Mercure en Lion, qui correspond aux anniversaires de la fin juin à la fin septembre environ. Près de trois personnes sur cinq nées entre 1930 et 2009 ne rencontrent jamais cette opposition avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient l’opposition dans mes orbes, et combien de personnes la rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Mercure, un par un" }
@@ -51,7 +51,7 @@ Avec mes orbes, 1,5° à l’approche et 1° en s’éloignant, l’opposition d
 
 C’est le plus rare des cinq contacts de Pluton avec Mercure : près de trois personnes sur cinq nées entre 1930 et 2009 ne rencontrent jamais ce contact avant 80 ans, un peu plus que pour la conjonction ([Pluton en transit conjonction Mercure du thème natal](/astrology/transiting-pluto-conjunct-natal-mercury/)). Le carré ([Pluton en transit carré Mercure du thème natal](/astrology/transiting-pluto-square-natal-mercury/)), le sextile ([Pluton en transit sextile Mercure du thème natal](/astrology/transiting-pluto-sextile-natal-mercury/)) et le trigone ([Pluton en transit trigone Mercure du thème natal](/astrology/transiting-pluto-trine-natal-mercury/)) touchent chacun trois personnes sur quatre ou plus.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), l’opposition touche Mercure en Lion. Mercure reste près du Soleil : ces thèmes correspondent aux anniversaires de la fin juin à la fin septembre environ.
+Pendant la traversée du Verseau par Pluton, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), l’opposition tombe sur Mercure en Lion. Mercure reste près du Soleil : ces thèmes correspondent aux anniversaires de la fin juin à la fin septembre environ.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Jupiter", "sextile", "transits"]
 weight: 1824
 glyph: "♇⚹♃"
-definition: "Transiting Pluto sextile natal Jupiter is Pluto 60° from your birth Jupiter for about two years and eight months, an opening nearly four people in five meet by 80. A course, a mentor or a body of thought can take your understanding further than before, if you go looking. I read it as depth offered to your beliefs."
+definition: "Transiting Pluto sextile natal Jupiter comes when Pluto reaches 60° from your birth Jupiter and lasts about two years and eight months; nearly four people in five meet it by 80. A course, a mentor or a body of thought can take your understanding further, if you go looking. I read it as depth offered to your beliefs."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and transformation" }
   - { k: "Natal point", v: "Jupiter ♃: learning, meaning and principles" }
@@ -39,7 +39,7 @@ Pluto sextile your Jupiter opens a long door into deeper understanding. For two 
 
 [Pluto](/astrology/pluto/) wants access to what lies underneath, the resources and motives most people never look at. Your [Jupiter](/astrology/jupiter/) learns, synthesises and makes room for growth. A [sextile](/astrology/sextile/), 60°, relates them through opportunity and cooperation, so under this [transit](/astrology/transits/) understanding can deepen by choice: the course you always meant to take, a mentor who knows more than you, a body of work you finally go into properly.
 
-A teaching doesn't have to be hidden or esoteric to be deep. Under this sextile the plainest ideas, followed far enough, open furthest; the depth is in the following, not in any secrecy. Opportunity isn't guaranteed success, either. The sextile helps the work along; it doesn't do it for you.
+A teaching doesn't have to be hidden or esoteric to be deep. Under this sextile the plainest ideas, followed far enough, open furthest; the depth is in the following, not in any secrecy. Opportunity isn't guaranteed success, either. The sextile helps the work along; it doesn't do it for you. It activates what your Jupiter already describes rather than bringing anything new, and what grows depends on what you do with the opening.
 
 [Jupiter sextile Pluto](/astrology/jupiter-sextile-pluto/) in a birth chart is shared by a whole year group. The transit is personal by contrast: it comes when Pluto reaches 60° from your own Jupiter.
 

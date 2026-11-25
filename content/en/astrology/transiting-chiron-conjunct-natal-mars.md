@@ -44,7 +44,7 @@ With [Mars in the 6th house](/astrology/mars-in-6th-house/), the conjunction com
 
 ## How long it lasts {#how-long-it-lasts}
 
-My orbs run from 1½° before exact to 1° after. Within them, the conjunction usually lasts about ten months, because in nearly two passes out of three Chiron's retrograde loop brings it over your Mars three times. About one pass in three is a single crossing of some three weeks. About one in twenty is long: five crossings over roughly twenty-one months. The spread comes from Chiron's lopsided orbit, which takes it through Virgo and Libra in about two years each and keeps it eight or nine years in Aries and Pisces.
+The orbs I time it with are 1½° before exact and 1° after. Within them, the conjunction usually lasts about ten months, because in nearly two passes out of three Chiron's retrograde loop brings it over your Mars three times. About one pass in three is a single crossing of some three weeks. About one in twenty is long: five crossings over roughly twenty-one months. The spread comes from Chiron's lopsided orbit, which takes it through Virgo and Libra in about two years each and keeps it eight or nine years in Aries and Pisces.
 
 The conjunction opens Chiron's round over your Mars, once in about 50 years, so by 80 most people have met it twice and everyone at least once. [Transiting Chiron sextile natal Mars](/astrology/transiting-chiron-sextile-natal-mars/) and [transiting Chiron square natal Mars](/astrology/transiting-chiron-square-natal-mars/) come next, then [transiting Chiron trine natal Mars](/astrology/transiting-chiron-trine-natal-mars/) and, at the halfway point, [transiting Chiron opposite natal Mars](/astrology/transiting-chiron-opposite-natal-mars/).
 

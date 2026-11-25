@@ -44,7 +44,7 @@ With [Jupiter in the 9th house](/astrology/jupiter-in-9th-house/), the conjuncti
 
 ## How long it lasts {#how-long-it-lasts}
 
-With my orbs, from 1½° before exact to 1° after, a pass usually lasts about ten months: in nearly two cases out of three Chiron's retrograde loop takes it over your Jupiter three times. About one pass in three is a single crossing of some three weeks, and about one in twenty a five-crossing stretch of some twenty-one months.
+Reviewing a belief rarely takes three weeks, though about one pass in three is that short: a single crossing of your Jupiter. Nearly two in three bring three crossings as Chiron loops back, about ten months within my orbs of 1½° before exact and 1° after, and about one in twenty spreads five crossings over some twenty-one months, long enough to study the question properly.
 
 Jupiter moves about a sign a year, so the age at the first conjunction depends on your birth year as much as your birthday, and it spreads widely. In the site's count of births from 1930 to 2009, it came anywhere from the first months of life to about 50, at 24 in the middle: within months for someone born at the start of 1945, at about 19 for the start of 1985, about 36 for 1955, 38 for 1975 and 42 for 2005. By 80 most people have met it twice and everyone once. It opens the round that continues with [transiting Chiron sextile natal Jupiter](/astrology/transiting-chiron-sextile-natal-jupiter/), [transiting Chiron square natal Jupiter](/astrology/transiting-chiron-square-natal-jupiter/), [transiting Chiron trine natal Jupiter](/astrology/transiting-chiron-trine-natal-jupiter/) and [transiting Chiron opposite natal Jupiter](/astrology/transiting-chiron-opposite-natal-jupiter/).
 

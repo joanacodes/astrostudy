@@ -27,7 +27,7 @@ faq:
   - q: "How long does Pluto conjunct Venus last?"
     a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, from about twenty-two months in the quickest passes to nearly four years in the slowest. Most passes cross the exact degree three times; about two in five cross it five times."
   - q: "When will Pluto conjunct my Venus?"
-    a: "While Pluto is in Aquarius, until early 2044, it reaches Venuses in Aquarius, which belong to birthdays between about early December and early April. More than half of people born between 1930 and 2009 never meet this conjunction by 80. The years follow your Venus’s degree."
+    a: "Venus in Aquarius has its turn during Pluto’s stay in that sign, which ends in early 2044; it goes with birthdays between about early December and early April. Of those born between 1930 and 2009, more than half reach 80 without this conjunction."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto stays on Venus within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Venus, read one by one" }
@@ -50,7 +50,7 @@ From 1½° before exact to 1° after, the window I use, Pluto stays on your Venu
 
 On its way to your Venus, Pluto passes a trine ([Transiting Pluto trine natal Venus](/astrology/transiting-pluto-trine-natal-venus/)), a square ([Transiting Pluto square natal Venus](/astrology/transiting-pluto-square-natal-venus/)) and a sextile ([Transiting Pluto sextile natal Venus](/astrology/transiting-pluto-sextile-natal-venus/)) first, while the opposition ([Transiting Pluto opposite natal Venus](/astrology/transiting-pluto-opposite-natal-venus/)) lies half a circle away. A lifetime covers too little of that circle for most people to arrive: more than half of those born between 1930 and 2009 never meet the conjunction by 80.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it reaches Venuses in Aquarius. Venus is never more than about 47° from the Sun, so these belong to birthdays between about early December and early April.
+Every Venus in Aquarius meets it while Pluto crosses that sign, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)). Venus is never more than about 47° from the Sun, so these belong to birthdays between about early December and early April.
 
 ## What helps {#what-helps}
 

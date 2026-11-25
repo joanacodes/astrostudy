@@ -43,7 +43,7 @@ None of it predicts an injury, an accident or a falling-out. If frustration sett
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the square usually lasts about ten months. In nearly two passes out of three Chiron crosses the exact square three times as its retrograde loop doubles back; about one in three is a single crossing of some three weeks; about one in twenty is a slow five-crossing stretch of some twenty-one months, long for a planet that likes quick results.
+Pushing harder won't shorten it: within my orbs, from 1½° before exact to 1° after, the square to Mars usually lasts about ten months. In nearly two passes out of three Chiron crosses the exact square three times as its retrograde loop doubles back; about one in three is a single crossing of some three weeks; about one in twenty is a slow five-crossing stretch of some twenty-one months, long for a planet that likes quick results.
 
 Two squares fall in each round of about 50 years, so most people meet three by 80, a few two, a few four, and nobody none. The first follows [transiting Chiron conjunct natal Mars](/astrology/transiting-chiron-conjunct-natal-mars/) and [transiting Chiron sextile natal Mars](/astrology/transiting-chiron-sextile-natal-mars/) and tests the way of acting that began then. The second comes after [transiting Chiron opposite natal Mars](/astrology/transiting-chiron-opposite-natal-mars/) and the second [transiting Chiron trine natal Mars](/astrology/transiting-chiron-trine-natal-mars/), and revises it before Chiron returns. Chiron's speed changes so much along its orbit that the two squares are rarely spaced evenly.
 

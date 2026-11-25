@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/jupiter", "/astrology/square", "/astrology/jupiter-square-pluto", "/astrology/pluto-transit-2nd-house"]
 faq:
   - q: "Que veut dire Pluton en transit carré Jupiter ?"
-    a: "Pluton arrive au carré de votre Jupiter, à un quart de cercle. J’y lis une longue saison de friction autour de ce que vous croyez et de votre façon de vouloir grandir : une ambition devenue trop grande pour ses fondations, une conviction qui n’explique plus ce que vous voyez. Ce qui résiste, ce sont moins de croyances, mieux éprouvées, et des projets réalisables."
+    a: "Pluton arrive au carré de votre Jupiter. J’y lis une longue saison de friction autour de ce que vous croyez et de votre façon de vouloir grandir : une ambition devenue trop grande pour ses fondations, une conviction qui n’explique plus ce que vous voyez. Ce qui résiste, ce sont moins de croyances, mieux éprouvées, et des projets réalisables."
   - q: "À quel âge vient le carré de Pluton à Jupiter ?"
     a: "À des âges différents, car Jupiter avance d’environ un signe par an. Le premier carré est venu vers 11 ans pour une naissance le 1er janvier 2005, 25 pour le 1er janvier 1975, 27 pour le 1er janvier 1955 et 61 pour le 1er janvier 1945 ; pour le 1er janvier 1985, pas avant 80 ans. Au milieu, vers 36 ans."
   - q: "Est-ce que Pluton carré Jupiter est mauvais pour l’argent ?"
     a: "Je ne lis ni ce transit ni aucun autre comme une prédiction d’argent, de gain ou de perte. Jupiter est votre façon de grandir et de donner sens aux choses, pas la richesse. Le carré met sous pression des projets et des croyances qui ont dépassé ce qui les soutient, et les tailler rend souvent possible la croissance suivante."
   - q: "Combien de temps dure Pluton carré Jupiter ?"
-    a: "Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le carré dure environ deux ans et huit mois, vingt-deux mois environ au plus court. Trois passages sur cinq le franchissent trois fois ; les autres cinq fois, sur trois ans et sept mois environ."
+    a: "Avec mes orbes, qui vont de 1,5° avant l’exactitude à 1° après, ce carré à Jupiter dure environ deux ans et huit mois, et vingt-deux mois environ au plus court. Trois passages sur cinq le franchissent trois fois ; les autres cinq fois, sur trois ans et sept mois environ."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le carré dans mes orbes, à quels âges il vient, et combien de personnes rencontrent ce carré avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Jupiter, un par un" }

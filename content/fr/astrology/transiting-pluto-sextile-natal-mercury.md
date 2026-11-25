@@ -28,7 +28,7 @@ faq:
   - q: "Est-ce que Pluton sextile Mercure est favorable aux études ?"
     a: "Ce transit convient bien à l’étude, surtout longue et exigeante : une recherche, un diplôme, un métier appris pour de bon. Je ne promets pas de résultats, puisqu’un sextile est une occasion et non une garantie. Ce qu’il donne, c’est un esprit prêt à rester avec un sujet difficile jusqu’à ce qu’il s’ouvre."
   - q: "Quand vient le sextile de Pluton à mon Mercure ?"
-    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, le sextile touche Mercure en Bélier ou en Sagittaire, les premiers degrés d’abord. Environ quatre personnes sur cinq nées entre 1930 et 2009 rencontrent l’un des deux sextiles à Mercure avant 80 ans, et quelques-unes les deux."
+    a: "Depuis le Verseau, où Pluton reste jusqu’au début de 2044, le sextile atteint Mercure dans les signes de feu de part et d’autre, le Bélier et le Sagittaire, les premiers degrés d’abord. Environ quatre personnes sur cinq nées entre 1930 et 2009 rencontrent l’un des deux sextiles à Mercure avant 80 ans, et quelques-unes les deux."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps dure le sextile dans mes orbes, et combien de fois il revient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Mercure, un par un" }
@@ -37,7 +37,7 @@ Pluton en sextile à votre Mercure, c’est une invitation, et elle attend une r
 
 ## Ce qui change {#ce-qui-change}
 
-[Pluton](/astrology/pluto/) cherche l’accès à ce qui est caché : les archives, les motivations, la question sous la question. [Mercure](/astrology/mercury/) apprend, analyse et échange. Un [sextile](/astrology/sextile/), à 60°, relie les deux par l’occasion et la coopération : sous ce [transit](/astrology/transits/), les moyens d’aller plus loin sont à portée de main, une formation qui convient enfin, des archives qui s’ouvrent, une personne qui connaît la réponse et veut bien la donner. Un sextile ne fait qu’offrir. Il récompense qui s’inscrit, qui demande, qui s’assoit pour lire.
+[Pluton](/astrology/pluto/) cherche l’accès à ce qui est caché : les archives, les motivations, la question sous la question. [Mercure](/astrology/mercury/) apprend, analyse et échange. Un [sextile](/astrology/sextile/), à 60°, relie les deux par l’occasion et la coopération : sous ce [transit](/astrology/transits/), les moyens d’aller plus loin sont à portée de main, une formation qui convient enfin, des archives qui s’ouvrent, une personne qui connaît la réponse et veut bien la donner. Un sextile ne fait qu’offrir. Il récompense qui s’inscrit, qui demande, qui s’assoit pour lire. Comme tout transit, celui-ci active ce que votre thème contient déjà, un esprit capable de creuser ; il ne crée aucun événement et ne promet aucun résultat.
 
 Se débarrasser d’une vieille opinion n’est pas en construire une meilleure. Le sextile laisse le temps de faire les deux : lâcher l’idée qui ne tient plus, puis faire le travail plus lent de découvrir ce que vous pensez à la place. La curiosité n’est pas la dispersion non plus, et elle vous sert le mieux ici en suivant un seul fil très loin plutôt que vingt un peu.
 
@@ -51,7 +51,7 @@ Mesuré de 1,5° avant l’exactitude à 1° après, l’intervalle que j’util
 
 Environ quatre personnes sur cinq nées entre 1930 et 2009 rencontrent l’un des deux sextiles de Pluton à Mercure avant 80 ans, et quelques-unes les deux, un de chaque côté du cercle.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), le sextile touche Mercure en Bélier ou en Sagittaire, les premiers degrés d’abord.
+Pendant les années que Pluton passe en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), le sextile touche Mercure en Bélier ou en Sagittaire.
 
 ## Ce qui aide {#ce-qui-aide}
 

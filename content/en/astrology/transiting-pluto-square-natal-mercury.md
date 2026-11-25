@@ -1,7 +1,7 @@
 ---
 title: "Transiting Pluto square natal Mercury"
 h1: "Transiting Pluto square your natal Mercury"
-description: "Transiting Pluto square natal Mercury: two to three years of pressure on how you think and speak, until part of it is rebuilt. Who meets it, when, what helps."
+description: "Transiting Pluto square natal Mercury: two to three years of pressure on how you think and speak, until part of it is rebuilt. Its timing, and what helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mercury", "square", "transits"]
 weight: 1810
 glyph: "♇□☿"
-definition: "Transiting Pluto square natal Mercury sets Pluto at right angles to your birth Mercury for about two years and eight months; about seven people in eight meet one of its two squares by 80. A way of reasoning you relied on meets a question it can’t settle, and is rebuilt. I read it as friction that sharpens thinking, never as a mind under attack."
+definition: "Transiting Pluto square natal Mercury sets Pluto at right angles to your birth Mercury for about two years and eight months; about seven people in eight meet it by 80. A way of reasoning you relied on meets a question it can’t settle, and is rebuilt. I read it as friction that sharpens thinking, never as a mind under attack."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Mercury ☿: reasoning, interpretation and speech" }
@@ -27,7 +27,7 @@ faq:
   - q: "Can Pluto square Mercury cause anxiety?"
     a: "A transit doesn’t cause anxiety, and Mercury isn’t anxiety either: it is how you process what you meet. Under this square some thoughts are hard to put down. If worry runs round for weeks, disturbs your sleep or frightens you, take it to a doctor; that matters more than any chart."
   - q: "When will Pluto square my Mercury?"
-    a: "While Pluto is in Aquarius, until early 2044, it squares Mercurys in Taurus and Scorpio. About seven people in eight born between 1930 and 2009 meet one of the two squares to Mercury by 80, and about one in eight meets neither. The years follow your Mercury’s degree."
+    a: "Until early 2044 the square from Aquarius falls on Mercury in the other fixed signs, Taurus and Scorpio. About seven people in eight born between 1930 and 2009 meet one of the two squares to Mercury by 80, and about one in eight meets neither."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the square within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Mercury, read one by one" }
@@ -38,7 +38,7 @@ Pluto square your Mercury puts pressure on the way you think. For two to three y
 
 [Pluto](/astrology/pluto/) pushes what has become unsustainable towards reorganisation. Your [Mercury](/astrology/mercury/) processes what you meet, interprets it and puts it into words. A [square](/astrology/square/), 90°, relates them through friction that makes you adapt, and here what has to adapt is your reasoning: under this [transit](/astrology/transits/), thinking stops being a tool you use without noticing and becomes a problem in its own right. A belief no longer explains what you see. An argument you thought was finished comes back. A choice refuses to settle however many lists you make.
 
-Changing your mind can feel like being caught out, especially in front of other people. It isn't humiliation. Being able to say "I was wrong about that" is one of the things this square builds, and a mind that can say it is easier to trust.
+Changing your mind can feel like being caught out, especially in front of other people. It isn't humiliation. Being able to say "I was wrong about that" is one of the things this square builds, and a mind that can say it is easier to trust. None of this forecasts what you will decide or say; the square describes the pressure, and the thinking stays yours.
 
 Analysis isn't overthinking, but under this square the two can blur. When the same thought has run round for days, more analysis rarely helps; sleep, a walk or saying it aloud to someone does more. If thoughts loop for weeks, keep you awake or begin to frighten you, a doctor is the person to tell, and no transit is a reason to put that off ([Astrology and mental health](/astrology/astrology-and-mental-health/)).
 
@@ -52,7 +52,7 @@ In my timing a transit counts from 1½° before exact to 1° after. On that meas
 
 About seven people in eight born between 1930 and 2009 meet one of Mercury's two Pluto squares by 80, and about one in eight never does.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it squares Mercurys in Taurus and Scorpio.
+Pluto stays in Aquarius until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), squaring Mercurys in Taurus and Scorpio as it goes.
 
 ## What helps {#what-helps}
 

@@ -24,11 +24,11 @@ faq:
   - q: "Que veut dire Pluton en transit conjonction Mercure ?"
     a: "Pluton, dans le ciel, franchit le degré de votre Mercure. J’y lis une longue saison où la pensée va à la racine : un sujet peut s’emparer de vous, vous voulez les vraies raisons des choses, et certaines opinions de longue date sont déterrées et examinées. Ce transit change votre façon de penser plus que ce qui arrive."
   - q: "Combien de temps dure Pluton conjonction Mercure ?"
-    a: "Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Pluton reste sur Mercure environ deux ans et huit mois, et les passages les plus longs durent près de quatre ans. Trois passages sur cinq franchissent le degré exact trois fois ; les autres cinq fois, Pluton repassant deux fois en arrière."
+    a: "Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Pluton reste sur Mercure environ deux ans et huit mois, et les passages les plus longs durent près de quatre ans. Dans trois passages sur cinq, le degré exact est franchi trois fois ; dans les autres, cinq fois, avec deux retours en arrière de Pluton."
   - q: "Est-ce que Pluton conjonction Mercure peut tourner à l’obsession ?"
     a: "Ce transit peut rendre une question difficile à lâcher, et ce n’est pas une obsession. L’analyse n’est pas la rumination, et la profondeur n’est pas un trouble. Si vos pensées se mettent à tourner sans repos, ou vous empêchent de dormir, parlez-en à un médecin, quel que soit le transit."
   - q: "Quand vient la conjonction de Pluton à mon Mercure ?"
-    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, la conjonction touche Mercure en Verseau, qui correspond aux anniversaires de fin décembre à la mi-mars environ. Les années exactes suivent le degré de votre Mercure. Moins de la moitié des personnes nées entre 1930 et 2009 la rencontrent avant 80 ans."
+    a: "Pluton rencontre chaque Mercure en Verseau avant de quitter ce signe, au début de 2044 ; ces thèmes correspondent aux anniversaires de fin décembre à la mi-mars environ. Le degré de votre Mercure fixe l’année. Moins de la moitié des personnes nées entre 1930 et 2009 la rencontrent avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton reste sur Mercure dans mes orbes, et combien de personnes vivent ce transit avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Mercure, un par un" }
@@ -51,7 +51,7 @@ Pour dater, je compte de 1,5° avant l’exactitude à 1° après. Dans cette fe
 
 Moins de la moitié des personnes nées entre 1930 et 2009 rencontrent cette conjonction avant 80 ans, et un peu moins encore l’opposition ([Pluton en transit opposition Mercure du thème natal](/astrology/transiting-pluto-opposite-natal-mercury/)). La plupart rencontrent plutôt un carré ([Pluton en transit carré Mercure du thème natal](/astrology/transiting-pluto-square-natal-mercury/)), et beaucoup le sextile ([Pluton en transit sextile Mercure du thème natal](/astrology/transiting-pluto-sextile-natal-mercury/)) ou le trigone ([Pluton en transit trigone Mercure du thème natal](/astrology/transiting-pluto-trine-natal-mercury/)).
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), la conjonction touche Mercure en Verseau. Mercure ne s’éloigne jamais à plus de 28° environ du Soleil : Mercure en Verseau correspond donc à un anniversaire entre la fin décembre et la mi-mars environ.
+Les années de Pluton en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), apportent la conjonction à chaque thème où Mercure est en Verseau. Mercure ne s’éloigne jamais à plus de 28° environ du Soleil : Mercure en Verseau correspond donc à un anniversaire entre la fin décembre et la mi-mars environ.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -43,7 +43,7 @@ Both planets have a blind spot about truth. Neptune confuses resonance with trut
 
 Neptune's fog is an image, not a diagnosis, and no transit causes or explains a crisis. If what you feel at this age stays heavy or confusing for weeks, talk to a doctor or a therapist; the numbers to call are on my [disclaimers](/disclaimers/#help) page, and [Astrology and mental health](/astrology/astrology-and-mental-health/) explains why a chart can't stand in for that help.
 
-Your Neptune's house says which ideal is being tested. With Neptune in your 7th, it is the ideal of partnership, during Pluto's long stay in that house ([Pluto transiting the 7th house](/astrology/pluto-transit-7th-house/)); with Neptune in the 10th, the dream of a calling. The house needs your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Your Neptune's house says which ideal is being tested. With Neptune in your 7th, it is the ideal of partnership, during Pluto's long stay in that house ([Pluto transiting the 7th house](/astrology/pluto-transit-7th-house/)); with Neptune in the 10th, the dream of a calling. Only your birth time puts Neptune in a house ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

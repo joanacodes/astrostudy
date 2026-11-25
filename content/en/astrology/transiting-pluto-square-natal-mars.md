@@ -27,7 +27,7 @@ faq:
   - q: "How long does Pluto square Mars last?"
     a: "Within my orbs, 1½° before exact to 1° after, Pluto takes about two years and eight months over this square, or about twenty-two months in the shortest passes. Three passes in five cross it three times, over about two years and seven months; the rest five times, over about three years and seven months."
   - q: "When will Pluto square my Mars?"
-    a: "While Pluto is in Aquarius, until early 2044, it squares Mars in Taurus and Scorpio. About seven people in eight born between 1930 and 2009 meet one of the two Pluto squares to Mars by 80, and about one in eight never does. The years follow your Mars’s degree."
+    a: "Until Pluto leaves Aquarius in early 2044, its square falls on Mars in Taurus or in Scorpio, the sign Mars ruled before Pluto was found. Seven people in eight born between 1930 and 2009 have one of the two squares to Mars by 80; the eighth never does."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the square within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Mars, read one by one" }
@@ -38,7 +38,7 @@ Pluto square your Mars sets your drive against resistance it can't simply push t
 
 [Pluto](/astrology/pluto/) transforms what can't go on as it is. Your [Mars](/astrology/mars/) asserts, competes and pushes towards a goal. A [square](/astrology/square/), 90°, relates them through friction that forces adaptation, so under this [transit](/astrology/transits/) effort meets resistance: a project that won't move however hard you push, a rule you can't argue your way round, someone whose will is as strong as yours. The old answer, pushing harder, tends to make things worse.
 
-When effort meets resistance, the reflex is to take control of everything you can. Control isn't safety, and pressure on pressure rarely gets through. What this square tends to build instead is proportion: knowing which fights are worth the energy, and which ways of using your strength actually work. Assertion isn't aggression, either. A clear no, a limit set and kept, a request made plainly: under this square those are the kinds of strength that move things.
+When effort meets resistance, the reflex is to take control of everything you can. Control isn't safety, and pressure on pressure rarely gets through. What this square tends to build instead is proportion: knowing which fights are worth the energy, and which ways of using your strength actually work. Assertion isn't aggression, either. A clear no, a limit set and kept, a request made plainly: under this square those are the kinds of strength that move things. Weather, not a forecast: the square names the pressure on your drive, never a fight, an accident or an outcome.
 
 Anger that frightens you, or frightens the people around you, deserves help straight away, and no planet is a reason to delay it; a doctor or a therapist is a good first call ([Astrology and mental health](/astrology/astrology-and-mental-health/)).
 
@@ -50,9 +50,9 @@ With Mars in the 8th and Pluto crossing the 11th ([Pluto transiting the 11th hou
 
 Within my orbs, which open 1½° before exact and close 1° after, Pluto takes about two years and eight months to cross this square, and about twenty-two months in the shortest passes. About three passes in five bring three exact hits, over about two years and seven months; the rest bring five, over about three years and seven months.
 
-About seven people in eight born between 1930 and 2009 meet one of the two Pluto squares to Mars by 80; about one in eight never does.
+Of everyone born between 1930 and 2009, about seven in eight meet one of the two Pluto squares to Mars by 80, and the rest never do.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it squares Mars in Taurus and Scorpio.
+Taurus and Scorpio are the signs where Pluto squares Mars between now and early 2044, while it crosses Aquarius ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)).
 
 ## What helps {#what-helps}
 

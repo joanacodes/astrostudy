@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Vénus", "opposition", "transits"]
 weight: 1817
 glyph: "♇☍♀"
-definition: "Pluton en transit opposition Vénus du thème natal, c’est Pluton à 180° de votre Vénus pendant environ deux ans et huit mois ; plus de la moitié des gens ne connaissent jamais ce transit. L’intensité d’autrui vous montre ce que vous estimez et ce que vous attendez en retour. J’y lis un échange plus juste, jamais un contrôle écrit d’avance."
+definition: "Pluton en transit opposition Vénus du thème natal place Pluton et votre Vénus aux deux bouts du zodiaque pendant environ deux ans et huit mois ; plus de la moitié des gens ne connaissent jamais ce transit. L’intensité d’autrui vous montre ce que vous estimez et ce que vous attendez en retour. J’y lis un échange plus juste, jamais un contrôle écrit d’avance."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et du pouvoir" }
   - { k: "Point natal", v: "Vénus ♀ : les valeurs, l’attirance et la réciprocité" }
@@ -26,9 +26,9 @@ faq:
   - q: "Est-ce que Pluton opposition Vénus annonce une relation intense ?"
     a: "Ce transit peut accompagner une attirance forte, ou un lien existant qui gagne en intensité, mais je n’en tire aucune prédiction de rencontre, de liaison ou de rupture. L’opposition décrit votre façon de rencontrer l’intensité chez les autres. L’intensité n’est jamais une raison d’accepter le contrôle, et les choix restent les vôtres."
   - q: "Combien de temps dure Pluton opposition Vénus ?"
-    a: "Dans mes orbes, de 1,5° à l’approche à 1° en s’éloignant, environ deux ans et huit mois, les passages les plus longs approchant quatre ans. Dans environ trois passages sur cinq, Pluton franchit l’opposition exacte trois fois ; dans les autres, cinq fois."
+    a: "Dans mes orbes, de 1,5° à l’approche à 1° en s’éloignant, environ deux ans et huit mois, les passages les plus longs approchant quatre ans. Dans environ trois passages sur cinq, Pluton franchit l’opposition exacte trois fois ; dans les autres, cinq fois."
   - q: "Quand vient l’opposition de Pluton à ma Vénus ?"
-    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, l’opposition touche Vénus en Lion, qui va avec un anniversaire entre le début juin et le début octobre environ. Plus de la moitié des personnes nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans. Les années suivent le degré de votre Vénus."
+    a: "Jusqu’au début de 2044, Pluton en Verseau se tient face à Vénus en Lion, qui va avec un anniversaire entre le début juin et le début octobre environ. Plus de la moitié des personnes nées entre 1930 et 2009 arrivent à 80 ans sans cette opposition."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient l’opposition dans mes orbes, et combien de personnes la rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Vénus, un par un" }
@@ -51,7 +51,7 @@ Avec les orbes que j’utilise pour dater, 1,5° avant l’exactitude et 1° apr
 
 Cette opposition et la conjonction ([Pluton en transit conjonction Vénus du thème natal](/astrology/transiting-pluto-conjunct-natal-venus/)) sont les deux contacts de Pluton avec Vénus que plus de la moitié des personnes nées entre 1930 et 2009 ne rencontrent jamais avant 80 ans. Le carré ([Pluton en transit carré Vénus du thème natal](/astrology/transiting-pluto-square-natal-venus/)) touche environ sept personnes sur huit, le trigone ([Pluton en transit trigone Vénus du thème natal](/astrology/transiting-pluto-trine-natal-venus/)) et le sextile ([Pluton en transit sextile Vénus du thème natal](/astrology/transiting-pluto-sextile-natal-venus/)) environ trois sur quatre.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), l’opposition touche Vénus en Lion, qui va avec un anniversaire entre le début juin et le début octobre environ.
+Le Lion fait face au Verseau : jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), l’opposition tombe donc sur Vénus en Lion.
 
 ## Ce qui aide {#ce-qui-aide}
 

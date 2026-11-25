@@ -39,7 +39,7 @@ Les deux trigones de Pluton à votre Milieu du Ciel viennent d’en dessous de l
 
 ## Ce qui change {#ce-qui-change}
 
-[Pluton](/astrology/pluto/) régénère : ce qui a fait son temps s’en va, et ce qui reste se renforce. Le [Milieu du Ciel](/astrology/midheaven/) encadre la façon dont vos capacités deviennent visibles, par un rôle, des responsabilités, une contribution. Un [trigone](/astrology/trine/), à 120°, laisse deux fonctions couler ensemble sans que l’une ou l’autre perde sa nature. Sous ce [transit](/astrology/transits/), votre travail a tendance à s’approfondir plutôt qu’à changer de cap : une responsabilité à votre mesure arrive à portée, on vient vous chercher pour ce que vous savez vraiment, et une autorité grandit qui repose sur le fond plutôt que sur le titre.
+[Pluton](/astrology/pluto/) régénère : ce qui a fait son temps s’en va, et ce qui reste se renforce. Le [Milieu du Ciel](/astrology/midheaven/) encadre la façon dont vos capacités deviennent visibles, par un rôle, des responsabilités, une contribution. Un [trigone](/astrology/trine/), à 120°, laisse le travail de Pluton nourrir votre direction publique au lieu de la combattre. Sous ce [transit](/astrology/transits/), votre travail a tendance à s’approfondir plutôt qu’à changer de cap : une responsabilité à votre mesure arrive à portée, on vient vous chercher pour ce que vous savez vraiment, et une autorité grandit qui repose sur le fond plutôt que sur le titre.
 
 Se faire voir n’est pas valoir, et le trigone favorise plutôt le second. Un travail qui résiste à un examen attentif gagne du terrain ; un travail fait pour la vitrine perd de son intérêt, parfois pour vous avant tout le monde.
 

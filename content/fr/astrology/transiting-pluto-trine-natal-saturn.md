@@ -26,12 +26,12 @@ faq:
     a: "Pluton, dans le ciel, se trouve à 120° de Saturne dans votre thème, en général dans un signe du même élément. J’y lis une longue saison où le renouveau et la structure coopèrent : ce que vous avez rebâti peut être consolidé, un long projet mené proprement à son terme, et les changements durables demandent moins d’effort que d’habitude."
   - q: "Combien de temps dure Pluton trigone Saturne ?"
     a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après. Quand Pluton franchit le trigone exact trois fois, comme dans environ trois passages sur cinq, il faut environ deux ans et sept mois ; les passages à cinq passages exacts durent environ trois ans et sept mois."
-  - q: "Quand vient le trigone de Pluton à mon Saturne ?"
+  - q: "Quand vient le trigone de Pluton à Saturne dans mon thème ?"
     a: "Cela dépend de la position de Saturne à votre naissance : pour une naissance un 1er janvier, à 13,9 ans en 1975, 18,8 ans en 1965, 40,9 ans en 1945 et 56,3 ans en 2005. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le trigone touche Saturne en Gémeaux et en Balance. Près de 4 personnes sur 5 le vivent avant 80 ans."
   - q: "Est-ce que Pluton trigone Saturne porte chance ?"
     a: "Je n’y lis pas de la chance. Un trigone décrit une aisance, et une aisance n’est pas une garantie : elle aide le travail que vous êtes prête ou prêt à faire. Saturne récompense la patience et Pluton l’honnêteté, si bien que ce trigone convient pour terminer, consolider et faire durer. Il n’annonce ni succès ni événement."
 sources:
-  - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le trigone dans mes orbes, et combien de fois il vient avant 80 ans" }
+  - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le trigone dans mes orbes, et combien de fois le trigone vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Saturne, lus un par un" }
 ---
 À 120° de Saturne dans votre thème natal, Pluton soutient le travail lent au lieu de le bousculer. Des cinq contacts de Pluton à Saturne, c’est celui où le changement et la stabilité sont du même côté.

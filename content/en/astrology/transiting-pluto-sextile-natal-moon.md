@@ -36,7 +36,7 @@ Of the ways Pluto can meet your Moon, the sextile makes the least noise. For two
 
 ## What changes {#what-changes}
 
-[Pluto](/astrology/pluto/) renews by letting go of what has stopped working. Your [Moon](/astrology/moon/) holds your needs, your attachments and your habits of comfort. A [sextile](/astrology/sextile/), 60°, relates them through opportunity and cooperation, so under this [transit](/astrology/transits/) it becomes easier than usual to change an emotional habit, mend a family bond or rebuild part of your home life on firmer ground. A sextile doesn't act for you, though: an opening needs someone to walk through it.
+[Pluto](/astrology/pluto/) renews by letting go of what has stopped working. Your [Moon](/astrology/moon/) holds your needs, your attachments and your habits of comfort. A [sextile](/astrology/sextile/), 60°, relates them through opportunity and cooperation, so under this [transit](/astrology/transits/) it becomes easier than usual to change an emotional habit, mend a family bond or rebuild part of your home life on firmer ground. A sextile doesn't act for you, though: an opening needs someone to walk through it. What the transit stirs is already in your chart, your own ways of needing and caring; it brings no event of its own.
 
 The risk is to dismiss it because it's quiet. Pluto's work here comes in small steps: going to bed before the worrying starts, saying a need once instead of hinting at it, a weekly phone call that turns into a real conversation. Each looks minor. Two years of them can change how safe you feel, and change made gradually tends to stay made.
 

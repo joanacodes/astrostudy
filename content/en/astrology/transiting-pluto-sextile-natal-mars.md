@@ -23,11 +23,11 @@ faq:
   - q: "What does transiting Pluto sextile natal Mars mean?"
     a: "Pluto has come within orb of 60° from your Mars. I read it as a long opening for deep, steady effort: the hard project you have circled for years, training for something long, a plan stripped back and rebuilt. Nothing happens unless you start. When you do, the effort tends to build on itself."
   - q: "How long does Pluto sextile Mars last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after. Three passes in five cross the exact sextile three times; the others five times, and the longest of those run past four and a half years."
+    a: "It lasts about two years and eight months, counting from 1½° before exact to 1° after as my timing does. Three passes in five cross the exact sextile three times; the others five times, and the longest of those run past four and a half years."
   - q: "Is Pluto sextile Mars good for starting something?"
     a: "It suits beginnings that need stamina more than speed: a demanding course, a business you build slowly, a body you train over seasons rather than weeks. I don’t promise success, because a sextile is an opportunity. It rewards the person who keeps turning up."
   - q: "When will Pluto sextile my Mars?"
-    a: "While Pluto is in Aquarius, until early 2044, it sextiles Mars in Aries and Sagittarius. About three people in four born between 1930 and 2009 meet one of the two sextiles to Mars by 80, and some meet both. The years follow your Mars’s degree."
+    a: "Pluto’s sextile from Aquarius reaches Mars in Aries or Sagittarius at some point before early 2044. About three people in four born between 1930 and 2009 meet one of the two sextiles to Mars by 80, and some meet both."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the sextile lasts within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Mars, read one by one" }
@@ -38,7 +38,7 @@ Pluto sextile your Mars is an offer of staying power. For two to three years the
 
 [Pluto](/astrology/pluto/) renews what had gone stale, and the strength that comes out of it is really yours. Your [Mars](/astrology/mars/) starts things, asserts and pushes through. A [sextile](/astrology/sextile/), 60°, relates them through opportunity and cooperation, so under this [transit](/astrology/transits/) the energy for deep, steady change is there to be used: the hard project you have circled for years, training for something long, a plan stripped back to what matters and rebuilt.
 
-The changes it supports are gradual, and that makes them easy to undervalue. A month of steady effort looks like nothing. Two years of it can change how you work, how strong you feel and what you believe you can take on. Competition isn't hostility, either: if the opening comes as a challenge from someone else, it can be met as a contest of effort rather than a fight.
+The changes it supports are gradual, and that makes them easy to undervalue. A month of steady effort looks like nothing. Two years of it can change how you work, how strong you feel and what you believe you can take on. Competition isn't hostility, either: if the opening comes as a challenge from someone else, it can be met as a contest of effort rather than a fight. The transit adds no event to your life; it lends depth to the drive your Mars already has.
 
 Those born with [Mars sextile Pluto](/astrology/mars-sextile-pluto/) use this kind of regenerating effort by habit; for everyone else the transit is a few years' apprenticeship in it. The reverse contact, Mars in the sky sextile your natal Pluto, comes round every year or so for a few days: a small rehearsal of this long one.
 
@@ -50,7 +50,7 @@ Timed with my orbs, from 1½° before exact to 1° after, the sextile lasts abou
 
 About three people in four born between 1930 and 2009 meet one of Mars's two Pluto sextiles by 80, and some meet both. Among Pluto's contacts with Mars only the square ([Transiting Pluto square natal Mars](/astrology/transiting-pluto-square-natal-mars/)) is more widely shared, the trine ([Transiting Pluto trine natal Mars](/astrology/transiting-pluto-trine-natal-mars/)) is about as common, and the conjunction ([Transiting Pluto conjunct natal Mars](/astrology/transiting-pluto-conjunct-natal-mars/)) and the opposition ([Transiting Pluto opposite natal Mars](/astrology/transiting-pluto-opposite-natal-mars/)) come to fewer than half.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it sextiles Mars in Aries and Sagittarius.
+Until early 2044, with Pluto in Aquarius ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), the sextile falls on Mars in Aries, Mars’s own sign, and in Sagittarius.
 
 ## What helps {#what-helps}
 

@@ -43,7 +43,7 @@ No transit can say whether a relationship begins, holds or ends, and I don't rea
 
 ## How long it lasts {#how-long-it-lasts}
 
-Counted with my orbs, from 1½° before exact to 1° after, the opposition usually lasts about ten months, the length it takes when Chiron's retrograde loop carries it across the exact point three times. That happens in nearly two passes out of three. About one pass in three is a single crossing of about three weeks, and about one in twenty crosses five times, over some twenty-one months.
+An opposition to Venus can feel like one long conversation with someone across the table, and its timing allows for that. With my orbs, from 1½° before exact to 1° after, it usually runs about ten months, Chiron's retrograde loop bringing it back over the exact point three times in nearly two passes out of three. In about one pass in three the conversation is short, a single crossing of some three weeks; in about one in twenty it goes on for some twenty-one months, over five crossings.
 
 There is one opposition in each of Chiron's rounds of about 50 years. By 80, most people have met it twice and everyone at least once; the second comes only to those whose first came early enough, before about 30. It is the halfway point of the round: after [transiting Chiron conjunct natal Venus](/astrology/transiting-chiron-conjunct-natal-venus/), [transiting Chiron sextile natal Venus](/astrology/transiting-chiron-sextile-natal-venus/), the first [transiting Chiron square natal Venus](/astrology/transiting-chiron-square-natal-venus/) and the first [transiting Chiron trine natal Venus](/astrology/transiting-chiron-trine-natal-venus/), and before the same aspects in reverse order.
 

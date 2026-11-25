@@ -25,7 +25,7 @@ faq:
     a: "Chiron est à 90° de votre Neptune de naissance : l’espoir qu’une vieille blessure se dissipe, grâce à une personne, une croyance ou une méthode, se heurte au fait qu’elle est toujours là. La friction est utile : elle fait passer de l’attente d’un sauvetage à des façons efficaces de vivre avec ce point sensible. Espérer n’était pas une faute."
   - q: "Combien de temps dure Chiron carré Neptune ?"
     a: "Dix mois environ dans la plupart des cas, comptés de 1,5° avant l’exactitude à 1° après. Près de deux passages sur trois franchissent trois fois le carré exact, Chiron faisant une boucle ; un tiers sont des passages uniques de trois semaines environ ; un sur vingt le franchit cinq fois en vingt et un mois environ."
-  - q: "Chiron carré Neptune peut-il provoquer une dépression ou de la confusion ?"
+  - q: "Est-ce que Chiron carré Neptune peut provoquer une dépression ou de la confusion ?"
     a: "Aucun transit ne provoque ni ne diagnostique quoi que ce soit. Ce carré peut coïncider avec une déception, du doute ou une période de brouillard, quand l’espoir et le réel ne coïncident plus. Si une humeur sombre dure ou vous inquiète, voyez un médecin ou une ou un thérapeute ; le thème ne décrit que la saison."
   - q: "Quand Chiron forme-t-il un carré à Neptune dans mon thème ?"
     a: "Votre année de naissance le fixe. Tout le monde a vécu le premier vers 36 ans au plus tard : vers 11 ans pour une naissance en 1985, vers 28 ans en 1965, vers 36 ans en 1955. Pour la plupart des personnes nées entre 1998 et 2012, le premier vient avec Chiron en Taureau, de 2026 à 2034."

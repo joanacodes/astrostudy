@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Venus", "opposition", "transits"]
 weight: 1817
 glyph: "♇☍♀"
-definition: "Transiting Pluto opposite natal Venus is Pluto 180° from your birth Venus for about two years and eight months; more than half of people never meet it. Someone else’s intensity, or a bond with real stakes, shows you what you value and what you expect back. I read it as learning a fairer give and take, never as fated control."
+definition: "Transiting Pluto opposite natal Venus sets Pluto and your birth Venus at the two ends of the zodiac for about two years and eight months; more than half of people never meet it. Someone else’s intensity, or a bond with real stakes, shows you what you value and what you expect back. I read it as learning a fairer give and take, never as fated control."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and power" }
   - { k: "Natal point", v: "Venus ♀: values, attraction and reciprocity" }
@@ -25,9 +25,9 @@ faq:
   - q: "Does Pluto opposite Venus mean an intense relationship?"
     a: "It can coincide with strong attractions or with an existing bond growing more intense, but I don’t forecast meetings, affairs or break-ups from it. The opposition describes how you meet intensity in others. Intensity is never a reason to accept control, and the choices remain yours."
   - q: "How long does Pluto opposite Venus last?"
-    a: "Within my orbs, from 1½° on the approach to 1° on the way out, about two years and eight months, with the longest passes nearing four years. In about three passes out of five Pluto crosses the exact opposition three times; in the others, five times."
+    a: "Within my orbs, from 1½° on the approach to 1° on the way out, about two years and eight months, with the longest passes nearing four years. About three passes in five bring three exact hits, the others five."
   - q: "When will Pluto oppose my Venus?"
-    a: "While Pluto is in Aquarius, until early 2044, it opposes Venuses in Leo, which go with birthdays between about early June and early October. More than half of people born between 1930 and 2009 never meet this opposition by 80. The years follow your Venus’s degree."
+    a: "Until early 2044, Pluto in Aquarius stands across from Venus in Leo, which goes with birthdays between about early June and early October. More than half of those born between 1930 and 2009 reach 80 without this opposition."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the opposition within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Venus, read one by one" }
@@ -50,7 +50,7 @@ With the orbs I use for timing, 1½° before exact and 1° after, Pluto opposes 
 
 This opposition and the conjunction ([Transiting Pluto conjunct natal Venus](/astrology/transiting-pluto-conjunct-natal-venus/)) are the two Pluto contacts with Venus that more than half of people born between 1930 and 2009 never meet by 80. The square ([Transiting Pluto square natal Venus](/astrology/transiting-pluto-square-natal-venus/)) comes to about seven in eight, the trine ([Transiting Pluto trine natal Venus](/astrology/transiting-pluto-trine-natal-venus/)) and the sextile ([Transiting Pluto sextile natal Venus](/astrology/transiting-pluto-sextile-natal-venus/)) to about three in four.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it opposes Venuses in Leo, which go with birthdays between about early June and early October.
+Across from Aquarius lies Leo, so until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)) the opposition falls on Venus in Leo.
 
 ## What helps {#what-helps}
 

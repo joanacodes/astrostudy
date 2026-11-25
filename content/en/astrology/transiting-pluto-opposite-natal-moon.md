@@ -27,7 +27,7 @@ faq:
   - q: "Does Pluto opposite the Moon mean a break-up?"
     a: "No. I never read a transit as a forecast of a break-up, or of anything else that happens to a relationship. What this opposition describes is pressure on how you attach and what you need from closeness. How a bond changes under it depends on the two people in it, not on the sky."
   - q: "When will Pluto oppose my Moon?"
-    a: "While Pluto is in Aquarius, until early 2044, it opposes Moons in Leo. The exact years depend on your Moon’s degree, which needs your birth time. More than half of people born between 1930 and 2009 never meet this opposition by 80, and nobody meets it twice."
+    a: "From now until early 2044, Pluto in Aquarius faces Moons in Leo. Which years are yours depends on your Moon’s degree, which needs your birth time. More than half of people born between 1930 and 2009 never meet this opposition by 80, and it cannot come twice."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the opposition within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to the Moon, read one by one" }
@@ -50,7 +50,7 @@ Counted from 1½° before exact to 1° after, the orbs of my timing, the opposit
 
 Across Pluto's circle from the conjunction ([Transiting Pluto conjunct natal Moon](/astrology/transiting-pluto-conjunct-natal-moon/)), the opposition is just as rare: more than half of people born between 1930 and 2009 never meet it by 80, and nobody meets it twice, since Pluto would have to go all the way round. The squares ([Transiting Pluto square natal Moon](/astrology/transiting-pluto-square-natal-moon/)) sit halfway between the two, the trines ([Transiting Pluto trine natal Moon](/astrology/transiting-pluto-trine-natal-moon/)) 60° either side of the opposition, and the sextiles ([Transiting Pluto sextile natal Moon](/astrology/transiting-pluto-sextile-natal-moon/)) 60° either side of the conjunction.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it opposes Moons in Leo.
+For as long as Pluto stays in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), the Moons it faces are in Leo, the sign opposite.
 
 ## What helps {#what-helps}
 

@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire Pluton en transit opposition Soleil ?"
     a: "Pluton, dans le ciel, a atteint le point opposé à votre Soleil. J’y lis une longue saison où votre sentiment d’être vous-même rencontre la force ou l’intensité de quelqu’un d’autre, ou d’une situation à vrais enjeux, jusqu’à ce que vous sachiez quelle part de votre force vous appartient. Ce transit décrit un climat, pas un événement."
   - q: "Combien de temps dure Pluton opposition Soleil ?"
-    a: "Mesurée avec mes orbes, qui s’ouvrent à 1,5° avant l’exactitude et se ferment à 1° après, environ deux ans et huit mois ; les passages les plus courts durent vingt-deux mois environ. Pluton franchit toujours l’opposition exacte plus d’une fois : trois fois dans environ trois passages sur cinq, cinq fois dans les autres, qui durent environ trois ans et sept mois."
+    a: "Mesurée avec mes orbes, qui s’ouvrent à 1,5° avant l’exactitude et se ferment à 1° après, environ deux ans et huit mois ; les passages les plus courts durent vingt-deux mois environ. Pluton franchit toujours l’opposition plus d’une fois : trois fois dans environ trois passages sur cinq, cinq fois dans les autres, qui durent environ trois ans et sept mois."
   - q: "Quand vient l’opposition de Pluton à mon Soleil ?"
     a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, l’opposition touche les Soleils en Lion : fin juillet dans les années 2020, mi-août entre 2034 et 2039 environ, les derniers anniversaires du Lion au début des années 2040. Plus de la moitié des personnes nées entre 1930 et 2009 ne la connaissent jamais avant 80 ans."
   - q: "Est-ce que l’opposition de Pluton au Soleil est dangereuse ?"

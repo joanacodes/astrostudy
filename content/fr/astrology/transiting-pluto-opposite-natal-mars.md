@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mars", "opposition", "transits"]
 weight: 1822
 glyph: "♇☍♂"
-definition: "Pluton en transit opposition Mars du thème natal amène Pluton de l’autre côté du zodiaque par rapport à votre Mars, pendant environ deux ans et huit mois ; plus de la moitié des gens n’en font jamais l’expérience. L’élan ou la colère des autres deviennent la mesure du vôtre. J’y lis une force partagée et mesurée, jamais un destin de conflit."
+definition: "Pluton en transit opposition Mars du thème natal amène Pluton de l’autre côté du zodiaque par rapport à votre Mars, pendant environ deux ans et huit mois ; plus de la moitié des gens n’en font jamais l’expérience. L’élan ou la colère des autres deviennent la mesure du vôtre. J’y lis une force partagée et mesurée, jamais un destin de conflit."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète du pouvoir et de la transformation" }
   - { k: "Point natal", v: "Mars ♂ : la volonté, la compétition et la défense" }
@@ -28,7 +28,7 @@ faq:
   - q: "Combien de temps dure Pluton opposition Mars ?"
     a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, environ deux ans et huit mois, de vingt-deux mois environ à près de quatre ans. Trois passages sur cinq franchissent l’opposition exacte trois fois ; les autres la franchissent cinq fois."
   - q: "Quand vient l’opposition de Pluton à mon Mars ?"
-    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, l’opposition touche Mars en Lion. Plus de la moitié des personnes nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans. Mars peut se trouver n’importe où par rapport au Soleil, donc avec n’importe quel anniversaire ; les années suivent le degré de votre Mars."
+    a: "Mars en Lion reçoit l’opposition de Pluton en Verseau jusqu’au début de 2044. Moins de la moitié des personnes nées entre 1930 et 2009 la rencontrent un jour avant 80 ans. Mars peut se trouver n’importe où par rapport au Soleil, donc avec n’importe quel anniversaire ; le degré de Mars donne les années."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient l’opposition dans mes orbes, et combien de personnes la rencontrent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Mars, un par un" }
@@ -53,7 +53,7 @@ En comptant 1,5° avant l’exactitude et 1° après, comme je le fais pour date
 
 Des cinq contacts de Pluton avec Mars, le carré ([Pluton en transit carré Mars du thème natal](/astrology/transiting-pluto-square-natal-mars/)) est celui que la plupart des gens rencontrent, environ sept sur huit, suivi du trigone ([Pluton en transit trigone Mars du thème natal](/astrology/transiting-pluto-trine-natal-mars/)) et du sextile ([Pluton en transit sextile Mars du thème natal](/astrology/transiting-pluto-sextile-natal-mars/)), qui touchent chacun environ trois personnes sur quatre ou plus. La conjonction ([Pluton en transit conjonction Mars du thème natal](/astrology/transiting-pluto-conjunct-natal-mars/)) et cette opposition en touchent moins de la moitié : plus de la moitié des personnes nées entre 1930 et 2009 ne rencontrent jamais l’opposition avant 80 ans.
 
-Tant que Pluton est en Verseau, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)), l’opposition touche Mars en Lion.
+Le Lion, en face du Verseau dans le zodiaque, est le signe où Mars doit se trouver pour cette opposition jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)).
 
 ## Ce qui aide {#ce-qui-aide}
 

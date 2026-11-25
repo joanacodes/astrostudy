@@ -21,13 +21,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/mercury", "/astrology/opposition", "/astrology/mercury-opposite-pluto", "/astrology/pluto-transit-10th-house"]
 faq:
   - q: "What does transiting Pluto opposite natal Mercury mean?"
-    a: "Pluto has reached the point opposite your Mercury. I read it as a long season when the pressure on your thinking comes through other people: a strong conviction across the table, a negotiation that matters, a conversation that shows how much weight words can carry. It changes how you think, not who wins."
+    a: "Pluto is now on the point directly across from your Mercury. I read it as a long season when the pressure on your thinking comes through other people: a strong conviction across the table, a negotiation that matters, a conversation that shows how much weight words can carry. It changes how you think, not who wins."
   - q: "How long does Pluto opposite Mercury last?"
     a: "Allowing 1½° before exact and 1° after, as my timing does, about two years and eight months, and around twenty-two months in the shortest passes. In about three passes out of five Pluto crosses the exact opposition three times; in the rest, five times, over about three years and seven months."
   - q: "Will Pluto opposite Mercury bring arguments?"
     a: "It doesn’t forecast quarrels or any other event. It describes a season when other people’s views press harder on yours, which can mean good debate as easily as friction. How it goes depends on you and on them. What tends to remain afterwards is a sharper sense of what you really think."
   - q: "When will Pluto oppose my Mercury?"
-    a: "While Pluto is in Aquarius, until early 2044, it opposes Mercurys in Leo, which belong to birthdays from about late June to late September. Nearly three people in five born between 1930 and 2009 never meet this opposition by 80. The years follow your Mercury’s degree."
+    a: "Pluto opposes Mercury in Leo from Aquarius until early 2044; those Mercurys go with birthdays from about late June to late September. Nearly three people in five born between 1930 and 2009 never meet this opposition by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the opposition within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Mercury, read one by one" }
@@ -50,7 +50,7 @@ Using my orbs, 1½° on the approach and 1° on the way out, the opposition last
 
 This is the rarest of Pluto's five contacts with Mercury: nearly three people in five born between 1930 and 2009 never meet it by 80, a few more than miss the conjunction ([Transiting Pluto conjunct natal Mercury](/astrology/transiting-pluto-conjunct-natal-mercury/)). The square ([Transiting Pluto square natal Mercury](/astrology/transiting-pluto-square-natal-mercury/)), the sextile ([Transiting Pluto sextile natal Mercury](/astrology/transiting-pluto-sextile-natal-mercury/)) and the trine ([Transiting Pluto trine natal Mercury](/astrology/transiting-pluto-trine-natal-mercury/)) each reach three people in four or more.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it opposes Mercurys in Leo. Mercury stays close to the Sun, so these belong to birthdays from about late June to late September.
+During Pluto’s stay in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), the opposition falls on Mercury in Leo. Mercury stays close to the Sun, so these belong to birthdays from about late June to late September.
 
 ## What helps {#what-helps}
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mars", "conjonction", "transits"]
 weight: 1818
 glyph: "♇☌♂"
-definition: "Pluton en transit conjonction Mars du thème natal, c’est Pluton sur le degré de votre Mars pendant environ deux ans et huit mois, une fois dans une vie au plus ; plus de la moitié des gens ne connaissent jamais ce transit. L’effort et la transformation fusionnent. J’y lis une volonté concentrée, jamais une violence ni un danger."
+definition: "Pluton en transit conjonction Mars du thème natal, c’est la rencontre de Pluton avec le degré de votre Mars, longue d’environ deux ans et huit mois et qui ne vient qu’une fois au plus ; plus de la moitié des gens ne connaissent jamais ce transit. L’effort et la transformation fusionnent. J’y lis une volonté concentrée, jamais une violence ni un danger."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et de la force retrouvée" }
   - { k: "Point natal", v: "Mars ♂ : l’élan, l’effort et le courage" }
@@ -26,9 +26,9 @@ faq:
   - q: "Est-ce que la conjonction de Pluton à Mars est dangereuse ?"
     a: "Aucun transit n’est dangereux en soi, et je ne lis jamais celui-ci comme l’annonce d’un accident, d’une blessure, d’une maladie ou de violence. Mars, c’est votre élan, pas votre colère, et Pluton y ajoute de la profondeur, pas du mal. Le vrai risque est d’en faire trop : passer outre la fatigue parce que le but paraît urgent."
   - q: "Combien de temps dure Pluton conjonction Mars ?"
-    a: "Mesurée de 1,5° avant l’exactitude à 1° après, les orbes avec lesquelles je date, environ deux ans et huit mois ; les passages les plus longs atteignent presque quatre ans. Trois passages sur cinq franchissent le degré exact trois fois, les autres cinq fois, Pluton revenant deux fois en arrière."
+    a: "Mesurée de 1,5° avant l’exactitude à 1° après, les orbes avec lesquelles je date, environ deux ans et huit mois ; les passages les plus longs atteignent presque quatre ans. Trois passages sur cinq franchissent le degré exact trois fois, les autres cinq fois, Pluton revenant deux fois en arrière."
   - q: "Quand vient la conjonction de Pluton à mon Mars ?"
-    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, la conjonction touche Mars en Verseau, signe que Mars traverse pendant six ou sept semaines environ tous les deux ans. Plus de la moitié des personnes nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans, et personne ne la rencontre deux fois."
+    a: "C’est Mars en Verseau, signe que Mars traverse pendant six ou sept semaines environ tous les deux ans, que Pluton rejoint jusqu’au début de 2044. Parmi les personnes nées entre 1930 et 2009, plus de la moitié ne la rencontrent jamais avant 80 ans, et les autres une seule fois."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton reste sur Mars dans mes orbes, et combien de personnes vivent ce transit avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Mars, un par un" }

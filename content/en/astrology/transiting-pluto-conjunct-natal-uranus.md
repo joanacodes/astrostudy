@@ -43,7 +43,7 @@ Uranus's blind spots sharpen here: confusing novelty with innovation, and assumi
 
 Born with [Uranus conjunct Pluto](/astrology/uranus-conjunct-pluto/), between 1963 and 1968, you met this transit as a baby, unless Pluto had already passed your Uranus when you were born. The two planets were exactly aligned three times, at about 16° to 17° Virgo: in October 1965, April 1966 and July 1966.
 
-Your Uranus's house says what kind of freedom is at stake. With Uranus in your 11th, it is the friendships, groups and causes you belong to, during Pluto's long stay in that house ([Pluto transiting the 11th house](/astrology/pluto-transit-11th-house/)); with Uranus in the 2nd, the way you support yourself and what you own asks to change form. Any planet close to your Uranus at birth is reached in the same few years. The house needs your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Your Uranus's house says what kind of freedom is at stake. With Uranus in your 11th, it is the friendships, groups and causes you belong to, during Pluto's long stay in that house ([Pluto transiting the 11th house](/astrology/pluto-transit-11th-house/)); with Uranus in the 2nd, the way you support yourself and what you own asks to change form. Any planet close to your Uranus at birth is reached in the same few years. Which house your Uranus falls in depends on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

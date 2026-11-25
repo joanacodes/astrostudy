@@ -31,7 +31,7 @@ faq:
   - q: "Est-ce que Pluton carré Uranus annonce un bouleversement soudain ?"
     a: "Pas dans ma lecture. Uranus décrit le besoin de liberté et de réforme, pas le chaos, et un carré décrit une friction, pas une catastrophe. Ce transit peut rendre une période agitée et exigeante ; il n’annonce ni accident, ni rupture, ni perte d’emploi, ni aucun autre événement."
 sources:
-  - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le carré dans mes orbes, et les âges où il vient selon l’année de naissance" }
+  - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le carré dans mes orbes, et les âges où le carré vient selon l’année de naissance" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Uranus, un par un" }
 ---
 Avec Pluton à un quart de zodiaque d’Uranus dans votre thème natal, deux élans de changement se croisent à angle droit : votre besoin de vivre à votre façon, et une pression plus lente qui veut transformer quelque chose depuis la racine. Pendant deux ans ou plus, ils ne cessent de s’accrocher.

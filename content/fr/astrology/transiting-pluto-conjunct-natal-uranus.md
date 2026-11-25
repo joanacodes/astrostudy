@@ -44,7 +44,7 @@ Les angles morts d’Uranus s’aiguisent ici : confondre la nouveauté avec l�
 
 Si votre naissance porte [Uranus conjonction Pluton](/astrology/uranus-conjunct-pluto/), entre 1963 et 1968, vous avez vécu ce transit bébé, sauf si Pluton avait déjà dépassé la place d’Uranus le jour de votre naissance. Les deux planètes ont été exactement alignées trois fois, vers 16° à 17° de la Vierge : en octobre 1965, en avril 1966 et en juillet 1966.
 
-La maison d’Uranus dans votre thème dit quelle liberté est en jeu. Avec Uranus en maison 11, ce sont les amitiés, les groupes et les causes auxquels vous appartenez, pendant le long séjour de Pluton dans cette maison ([Pluton en transit en maison 11](/astrology/pluto-transit-11th-house/)) ; avec Uranus en maison 2, votre façon de subvenir à vos besoins et ce que vous possédez demandent à changer de forme. Toute planète proche d’Uranus à votre naissance est touchée dans les mêmes années. La maison demande votre heure de naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison d’Uranus dans votre thème dit quelle liberté est en jeu. Avec Uranus en maison 11, ce sont les amitiés, les groupes et les causes auxquels vous appartenez, pendant le long séjour de Pluton dans cette maison ([Pluton en transit en maison 11](/astrology/pluto-transit-11th-house/)) ; avec Uranus en maison 2, votre façon de subvenir à vos besoins et ce que vous possédez demandent à changer de forme. Toute planète proche d’Uranus à votre naissance est touchée dans les mêmes années. La maison d’Uranus dépend de votre heure de naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

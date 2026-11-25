@@ -37,7 +37,7 @@ For most people this transit came before they could remember anything. Neptune r
 
 ## What changes {#what-changes}
 
-[Pluto](/astrology/pluto/) marks where you hold on hardest and where, in time, you renew. [Neptune](/astrology/neptune/) softens and widens, towards imagination and compassion. A [sextile](/astrology/sextile/), 60°, relates two functions through an opening that needs a response, and under this [transit](/astrology/transits/) the opening runs between imagining and transforming: the capacity to let an ideal change what no longer works.
+[Pluto](/astrology/pluto/) marks where you hold on hardest and where, in time, you renew. [Neptune](/astrology/neptune/) brings imagination and compassion, the gift of picturing things otherwise. A [sextile](/astrology/sextile/), 60°, relates two functions through an opening that needs a response, and under this [transit](/astrology/transits/) the opening runs between imagining and transforming: the capacity to let an ideal change what no longer works.
 
 Because it comes so early, I don't read it as a season lived. Many people born in these years have the natal [Neptune sextile Pluto](/astrology/neptune-sextile-pluto/), and for them the transit is the same angle in the sky becoming exact a few months or a year or two after birth, sometimes already inside the orb on the day itself. What an adult can use is the natal pair, read through the houses of the two planets, which come from the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 

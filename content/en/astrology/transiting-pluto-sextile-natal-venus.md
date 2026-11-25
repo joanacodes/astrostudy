@@ -1,7 +1,7 @@
 ---
 title: "Transiting Pluto sextile natal Venus"
 h1: "Transiting Pluto sextile your natal Venus"
-description: "Transiting Pluto sextile natal Venus: two to three years to deepen what you love and let go of what you only put up with. Who meets it, when, and what helps."
+description: "Transiting Pluto sextile natal Venus: two to three years to deepen what you love and let go of what you only put up with. How often it comes, and what helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Venus", "sextile", "transits"]
 weight: 1814
 glyph: "♇⚹♀"
-definition: "Transiting Pluto sextile natal Venus is Pluto 60° from your birth Venus for about two years and eight months, an opening about three people in four meet by 80. Deepening a bond, simplifying what you own or finding your own tastes gets easier, when you choose to. I read it as a gentle sorting of what you value."
+definition: "Transiting Pluto sextile natal Venus gives your birth Venus a 60° contact with Pluto for about two years and eight months, one that about three people in four meet by 80. Deepening a bond, simplifying what you own or finding your own tastes gets easier, when you choose to. I read it as a gentle sorting of what you value."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and renewal" }
   - { k: "Natal point", v: "Venus ♀: values, preferences and reciprocity" }
@@ -27,7 +27,7 @@ faq:
   - q: "Is Pluto sextile Venus good for relationships?"
     a: "It can help a relationship become more honest, because it makes it easier to say what you prefer and to ask for what you need. I don’t read it as a promise of love or a forecast for any bond. It is an opening, and what happens depends on the people involved."
   - q: "When will Pluto sextile my Venus?"
-    a: "While Pluto is in Aquarius, until early 2044, it sextiles Venuses in Aries and Sagittarius. Nearly one person in four born between 1930 and 2009 never meets a Pluto sextile to Venus by 80; most meet it once, some twice, and a very few three times."
+    a: "Until early 2044, a Venus in Aries or Sagittarius is the one Pluto sextiles from Aquarius. Nearly one person in four born between 1930 and 2009 never meets a Pluto sextile to Venus by 80; most meet it once, some twice, and a very few three times."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the sextile lasts within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Venus, read one by one" }
@@ -50,7 +50,7 @@ My orbs for timing, 1½° before exact and 1° after, give this sextile about tw
 
 Nearly one person in four born between 1930 and 2009 never meets a Pluto sextile to Venus by 80. Most of the others meet it once, some twice, one from each side of the circle, and a very few three times.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it sextiles Venuses in Aries and Sagittarius. Since Venus keeps within about 47° of the Sun, a Venus in Aries goes with a birthday between about early February and early June, and a Venus in Sagittarius with one between about early October and early February.
+Pluto, in Aquarius until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), sextiles Venuses in Aries and Sagittarius, the signs on either side. Since Venus keeps within about 47° of the Sun, a Venus in Aries goes with a birthday between about early February and early June, and a Venus in Sagittarius with one between about early October and early February.
 
 ## What helps {#what-helps}
 

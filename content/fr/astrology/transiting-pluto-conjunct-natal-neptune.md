@@ -44,7 +44,7 @@ Les deux planètes ont un angle mort à propos de la vérité. Neptune confond l
 
 Le brouillard de Neptune est une image, pas un diagnostic, et aucun transit ne cause ni n’explique une crise. Si ce que vous ressentez à cet âge reste lourd ou confus pendant des semaines, parlez-en à un médecin ou à une ou un thérapeute ; les numéros à appeler sont sur ma page d’[avertissements](/disclaimers/#help), et [Astrologie et santé mentale](/astrology/astrology-and-mental-health/) explique pourquoi un thème ne peut pas remplacer cette aide.
 
-La maison de Neptune dans votre thème dit quel idéal est mis à l’épreuve. Avec Neptune en maison 7, c’est l’idéal du couple, pendant le long séjour de Pluton dans cette maison ([Pluton en transit en maison 7](/astrology/pluto-transit-7th-house/)) ; avec Neptune en maison 10, le rêve d’une vocation. La maison demande votre heure de naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison de Neptune dans votre thème dit quel idéal est mis à l’épreuve. Avec Neptune en maison 7, c’est l’idéal du couple, pendant le long séjour de Pluton dans cette maison ([Pluton en transit en maison 7](/astrology/pluto-transit-7th-house/)) ; avec Neptune en maison 10, le rêve d’une vocation. Seule votre heure de naissance place Neptune dans une maison ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

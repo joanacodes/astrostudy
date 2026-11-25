@@ -27,7 +27,7 @@ faq:
   - q: "Is Pluto trine Mercury good for writing?"
     a: "It suits long, deep work: a book, a thesis, research that needs years rather than weeks. I don’t promise outcomes, because a trine eases the way without choosing the destination. What it offers is staying power for thought, and words that carry because they are true."
   - q: "When will Pluto trine my Mercury?"
-    a: "While Pluto is in Aquarius, until early 2044, it trines Mercurys in Gemini and Libra. About three people in four born between 1930 and 2009 meet a Pluto trine to Mercury by 80, some twice; about one in four never does. Your years follow your Mercury’s degree."
+    a: "Mercury in Gemini, its own sign, or in Libra gets the trine while Pluto is in Aquarius, until early 2044. About three people in four born between 1930 and 2009 meet a Pluto trine to Mercury by 80, some twice; about one in four never does."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the trine within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Mercury, read one by one" }
@@ -38,7 +38,7 @@ Pluto trine your Mercury deepens your thinking without a struggle. For two to th
 
 [Pluto](/astrology/pluto/) integrates: it brings deep material up so that it can become part of you. Your [Mercury](/astrology/mercury/) learns, interprets and finds the words. A [trine](/astrology/trine/), 120°, relates them through flow while each keeps its own nature, so under this [transit](/astrology/transits/) what you study, read or talk about tends to go further without being forced. Research comes together. A subject you circled for years opens from the inside. Words carry because they are true rather than because they are loud.
 
-The trine's changes of mind are gradual, and that makes them easy to underrate. You may only see how far your thinking has moved when you reread something written before it began. Ease isn't inevitability, either: the current helps whoever is already rowing, and a trine to Mercury rewards the book you start, the course you finish, the letter you finally write.
+The trine's changes of mind are gradual, and that makes them easy to underrate. You may only see how far your thinking has moved when you reread something written before it began. Ease isn't inevitability, either: the current helps whoever is already rowing, and a trine to Mercury rewards the book you start, the course you finish, the letter you finally write. It is weather, not a forecast: a climate in which deep thought comes easily, with nothing written about what you will find.
 
 What [Mercury trine Pluto](/astrology/mercury-trine-pluto/) describes in a birth chart, an easy depth of mind, is what this transit gives you to work with until Pluto moves on.
 
@@ -50,7 +50,7 @@ Pluto stays within my orbs, 1½° before exact to 1° after, for about two years
 
 About three people in four born between 1930 and 2009 meet a Pluto trine to Mercury by 80, some of them twice, one on each side of the circle; about one in four never does.
 
-While Pluto is in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)), it trines Mercurys in Gemini and Libra. In the same years it conjoins Mercurys in Aquarius ([Transiting Pluto conjunct natal Mercury](/astrology/transiting-pluto-conjunct-natal-mercury/)), opposes those in Leo ([Transiting Pluto opposite natal Mercury](/astrology/transiting-pluto-opposite-natal-mercury/)), squares those in Taurus and Scorpio ([Transiting Pluto square natal Mercury](/astrology/transiting-pluto-square-natal-mercury/)) and sextiles those in Aries and Sagittarius ([Transiting Pluto sextile natal Mercury](/astrology/transiting-pluto-sextile-natal-mercury/)). Which one your Mercury gets, if any, depends on its sign and degree.
+Mercurys in Gemini and Libra receive this trine during Pluto’s stay in Aquarius, until early 2044 ([Pluto in Aquarius, 2024–2044](/astrology/pluto-in-aquarius-2024-2044/)). In the same years it conjoins Mercurys in Aquarius ([Transiting Pluto conjunct natal Mercury](/astrology/transiting-pluto-conjunct-natal-mercury/)), opposes those in Leo ([Transiting Pluto opposite natal Mercury](/astrology/transiting-pluto-opposite-natal-mercury/)), squares those in Taurus and Scorpio ([Transiting Pluto square natal Mercury](/astrology/transiting-pluto-square-natal-mercury/)) and sextiles those in Aries and Sagittarius ([Transiting Pluto sextile natal Mercury](/astrology/transiting-pluto-sextile-natal-mercury/)). Which one your Mercury gets, if any, depends on its sign and degree.
 
 ## What helps {#what-helps}
 

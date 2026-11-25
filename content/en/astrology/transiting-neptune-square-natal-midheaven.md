@@ -37,7 +37,7 @@ Every Midheaven has two squares from Neptune, and almost everyone meets at least
 
 ## What changes {#what-changes}
 
-Your [Midheaven](/astrology/midheaven/) is the role through which your abilities become visible; its opposite point, the [IC](/astrology/imum-coeli/), is the ground under that role: home, belonging, what keeps you going. [Neptune](/astrology/neptune/) brings ideals, compassion and softer edges. A [square](/astrology/square/), 90°, relates them through friction, and under this [transit](/astrology/transits/) it falls on the whole vertical line of the chart: the public role loses some of its outline, and so does what holds it up at home.
+Your [Midheaven](/astrology/midheaven/) is the role through which your abilities become visible; its opposite point, the [IC](/astrology/imum-coeli/), is the ground under that role: home, belonging, what keeps you going. [Neptune](/astrology/neptune/) brings ideals and compassion, and dissolves what is too fixed. A [square](/astrology/square/), 90°, relates them through friction, and under this [transit](/astrology/transits/) it falls on the whole vertical line of the chart: the public role loses some of its outline, and so does what holds it up at home.
 
 The Midheaven's blind spot here is taking the role for the whole of you. Neptune loosens that: a title, a reputation or a job description stops covering everything you are, which can feel like losing ground or like room to breathe. Some people notice it first as a vague dissatisfaction with work that had felt settled; others as a pull towards a cause, a craft or a kind of care that doesn't fit the job they have. Neptune's own trap is the opposite pull, offering yourself without limit to whatever the role asks. The friction teaches the difference between what the work needs and what you can give.
 
@@ -45,11 +45,11 @@ Which side the square comes from changes where it starts. From the eastern side 
 
 ## How long it lasts {#how-long-it-lasts}
 
-One pass runs about two and a half years in my orbs, from 1½° before exact to 1° after, the briefest about twenty-two months, with three exact hits as a rule and five in about a quarter of passes. In the count for births from 1930 to 2009, almost no one reaches 80 without one of the two squares, and a very few meet both.
+Neptune needs about two and a half years to clear this square in my orbs, from 1½° before exact to 1° after, and around twenty-two months when it moves quickly; three exact hits are the norm, five come in roughly a quarter of passes. Hardly anyone born between 1930 and 2009 gets to 80 without one of these squares, and a very few meet both.
 
 Seen along Neptune's road, the western square comes before [transiting Neptune conjunct natal Midheaven](/astrology/transiting-neptune-conjunct-natal-midheaven/), with [transiting Neptune sextile natal Midheaven](/astrology/transiting-neptune-sextile-natal-midheaven/) in between; the eastern square comes after it and leads on to [transiting Neptune trine natal Midheaven](/astrology/transiting-neptune-trine-natal-midheaven/) and [transiting Neptune opposite natal Midheaven](/astrology/transiting-neptune-opposite-natal-midheaven/).
 
-The Midheaven changes sign about every two hours, so a birth recorded only as in the morning leaves this square undated by whole years ([what changes without a birth time](/blog/unknown-birth-time/)). Neptune in Aries, until March 2039, squares Cancer Midheavens from near the Descendant and Capricorn Midheavens from near the Ascendant ([Cancer on the 10th house cusp](/astrology/cancer-on-10th-house-cusp/), [Capricorn on the 10th house cusp](/astrology/capricorn-on-10th-house-cusp/)).
+The Midheaven changes sign about every two hours, so a birth recorded only as in the morning leaves this square undated by whole years ([what changes without a birth time](/blog/unknown-birth-time/)). Right now it is the turn of Cancer and Capricorn Midheavens: Neptune in Aries, until March 2039, squares the first from near the Descendant and the second from near the Ascendant ([Cancer on the 10th house cusp](/astrology/cancer-on-10th-house-cusp/), [Capricorn on the 10th house cusp](/astrology/capricorn-on-10th-house-cusp/)).
 
 ## What helps {#what-helps}
 

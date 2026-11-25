@@ -40,7 +40,7 @@ Your [Sun](/astrology/sun/) is identity and agency: the self you put forward and
 
 The opposition shows both ends at once, which is its use. The helper and the helped are often the same person at different hours, and people who are good at caring are usually slower at letting themselves be cared for. These months make that imbalance visible. What tends to come out of them is a self that needs other people's reactions a little less, and can take their help a little more.
 
-The houses show which relationships carry it, and they rest on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). With the Sun in the 1st, Chiron opposes it from your 7th ([Chiron transiting the 7th house](/astrology/chiron-transit-7th-house/)): partners, clients and close collaborators become the mirror. If your chart holds [Sun opposite Chiron](/astrology/sun-opposite-chiron/), this transit was there at your birth and comes back at your Chiron return, around 50.
+The houses show which relationships carry it, and they rest on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). With the Sun in the 1st, Chiron opposes it from your 7th ([Chiron transiting the 7th house](/astrology/chiron-transit-7th-house/)): partners, clients and close collaborators become the mirror. If your chart holds [Sun opposite Chiron](/astrology/sun-opposite-chiron/), other people have always been where your sore spot showed first; the transit was there at your birth, and your Chiron return, around 50, repeats it.
 
 None of this forecasts how anyone will treat you, or whether a bond lasts. It describes what you may notice in yourself through them.
 
