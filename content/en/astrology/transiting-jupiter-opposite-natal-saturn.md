@@ -51,6 +51,6 @@ Two links in the chart change its timing. With [Jupiter opposite Saturn](/astrol
 
 Weigh before you choose. Write down what the structure gives you and what the offer would give you, and notice how much of each you could keep.
 
-Talk to the person across the table. An opposition often works through someone else, and their ambition is easier to balance with yours once both are said out loud.
+Speak plainly with whoever holds the other end. An opposition often works through someone else, and their ambition is easier to balance with yours once both are said out loud.
 
 And ask what your commitment needs in order to grow, before deciding whether to leave it. Many oppositions end with the same structure, rebuilt a size larger.

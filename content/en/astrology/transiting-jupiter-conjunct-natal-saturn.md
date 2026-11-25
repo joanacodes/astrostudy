@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/conjunction", "/astrology/jupiter-conjunct-saturn", "/astrology/jupiter-saturn-great-conjunctions"]
 faq:
   - q: "What does transiting Jupiter conjunct natal Saturn mean?"
-    a: "Your birth Saturn is being crossed by Jupiter. I read it as growth arriving where you are most careful: a duty that gets help, a rule that turns out to have room in it, a long effort that shows what it was for. It describes a season of days or months, not an event."
+    a: "Jupiter is passing over the point where Saturn stood at your birth. I read it as growth arriving where you are most careful: a duty that gets help, a rule that turns out to have room in it, a long effort that shows what it was for. It describes a season of days or months, not an event."
   - q: "Is Jupiter conjunct natal Saturn a good transit?"
     a: "In tradition this is the greater benefic crossing the greater malefic, and many astrologers read relief in it. I read it as perspective on whatever your Saturn carries, which can feel like relief and can also tempt you to promise more than that structure can hold. It guarantees neither reward nor ease."
   - q: "When will Jupiter conjunct my natal Saturn?"

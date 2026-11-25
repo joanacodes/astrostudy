@@ -52,6 +52,6 @@ Deux liens dans le thème changent son calendrier. Avec [Jupiter opposition Satu
 
 Pesez avant de choisir. Notez ce que la structure vous apporte et ce que la proposition vous apporterait, et voyez combien de chaque vous pourriez garder.
 
-Parlez à la personne d’en face. Une opposition passe souvent par quelqu’un d’autre, et son ambition s’équilibre plus facilement avec la vôtre une fois les deux dites à voix haute.
+Parlez franchement avec qui tient l’autre bout. Une opposition passe souvent par quelqu’un d’autre, et son ambition s’équilibre plus facilement avec la vôtre une fois les deux dites à voix haute.
 
 Et demandez-vous ce dont votre engagement a besoin pour grandir, avant de décider de le quitter. Beaucoup d’oppositions se terminent avec la même structure, reconstruite une taille au-dessus.

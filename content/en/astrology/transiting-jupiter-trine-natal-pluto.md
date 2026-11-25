@@ -45,7 +45,7 @@ Jupiter spends about eleven days inside my orbs on a trine to your Pluto, from 1
 
 Six and a third years: that is how long someone born on 1 January 2005 waited for the first, while someone born on 1 January 1935 met it before their first birthday.
 
-In the round Jupiter makes with your Pluto, the trine is where depth and growth cooperate most easily. It follows [transiting Jupiter square natal Pluto](/astrology/transiting-jupiter-square-natal-pluto/) by about a year and comes two years before or after [transiting Jupiter opposite natal Pluto](/astrology/transiting-jupiter-opposite-natal-pluto/); [transiting Jupiter conjunct natal Pluto](/astrology/transiting-jupiter-conjunct-natal-pluto/) lies four years away, and [transiting Jupiter sextile natal Pluto](/astrology/transiting-jupiter-sextile-natal-pluto/) offers a lighter version two years nearer the conjunction. None of these [transits](/astrology/transits/) decides an outcome; each describes a season.
+In the round Jupiter makes with your Pluto, the trine is where depth and growth cooperate most easily. It sits about a year from [transiting Jupiter square natal Pluto](/astrology/transiting-jupiter-square-natal-pluto/) and two from [transiting Jupiter opposite natal Pluto](/astrology/transiting-jupiter-opposite-natal-pluto/); [transiting Jupiter conjunct natal Pluto](/astrology/transiting-jupiter-conjunct-natal-pluto/) lies four years away, and [transiting Jupiter sextile natal Pluto](/astrology/transiting-jupiter-sextile-natal-pluto/) offers a lighter version two years nearer the conjunction. None of these [transits](/astrology/transits/) decides an outcome; each describes a season.
 
 ## What helps {#what-helps}
 
