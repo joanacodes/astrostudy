@@ -49,7 +49,7 @@ Negotiating room with the people close to you usually gets about ten months here
 
 In the site's count the first came at about 10½ in the middle, but the middle hides the split: within the first year or two for someone born at the start of 1975 or 1985, about 4 for 1945, 12 for 1935, 39 for 2005, 46½ for 1995, and 48 or 49 for 1965 and 1955. There is one opposition in each round, so most people meet two by 80 and everyone one. It sits at the far side of the round from [transiting Chiron conjunct natal Uranus](/astrology/transiting-chiron-conjunct-natal-uranus/), with [transiting Chiron sextile natal Uranus](/astrology/transiting-chiron-sextile-natal-uranus/), [transiting Chiron square natal Uranus](/astrology/transiting-chiron-square-natal-uranus/) and [transiting Chiron trine natal Uranus](/astrology/transiting-chiron-trine-natal-uranus/) on either side.
 
-While Chiron crosses Taurus, from June 2026 to May 2034, it opposes Uranus in Scorpio, the Uranus of most people born from November 1974 to November 1981.
+Most people born from November 1974 to November 1981 have Uranus in Scorpio, and their next opposition falls while Chiron crosses Taurus, between June 2026 and May 2034.
 
 ## What helps {#what-helps}
 

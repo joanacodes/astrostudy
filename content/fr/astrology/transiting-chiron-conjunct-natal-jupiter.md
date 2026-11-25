@@ -29,7 +29,7 @@ faq:
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Chiron reste dans mes orbes, combien de conjonctions viennent avant 80 ans, et l’âge à la première" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "comment se lisent les transits à Jupiter dans le thème natal ; écrit avant la découverte de Chiron" }
-  - { title: "Hygin, De astronomia, livre II, via Wikipédia (en anglais), « Chiron »", url: "https://en.wikipedia.org/wiki/Chiron", note: "Zeus, le Jupiter des Romains, place le centaure blessé parmi les étoiles" }
+  - { title: "Hygin, De astronomia, livre II, via Wikipédia (en anglais), « Chiron »", url: "https://en.wikipedia.org/wiki/Chiron", note: "Zeus, que les Romains appelaient Jupiter, place le centaure blessé parmi les étoiles" }
 ---
 Dans le mythe, le centaure qui savait guérir tout le monde sauf lui-même renonce à son immortalité, et c’est Zeus, le dieu que les Romains appelaient Jupiter, qui le place parmi les étoiles : la constellation du Centaure. Quand Chiron en transit atteint Jupiter dans votre thème, une vieille blessure rencontre la part de vous qui cherche la vue d’ensemble, et le sens que vous lui avez donné est examiné à nouveau.
 
@@ -45,7 +45,7 @@ Avec [Jupiter en maison 9](/astrology/jupiter-in-9th-house/), la conjonction tom
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, un passage dure en général dix mois environ : dans près de deux cas sur trois, la boucle rétrograde de Chiron le fait passer trois fois sur le degré de Jupiter. Environ un passage sur trois est un franchissement unique de trois semaines, et environ un sur vingt une période de cinq passages, vingt et un mois environ.
+Revoir une croyance prend rarement trois semaines, même si environ un passage sur trois est aussi bref : un franchissement unique du degré de Jupiter. Près de deux sur trois apportent trois passages quand Chiron revient en arrière, dix mois environ dans mes orbes de 1,5° avant l’exactitude et 1° après, et environ un sur vingt étale cinq passages sur vingt et un mois environ, de quoi étudier la question à fond.
 
 Jupiter avance d’un signe par an environ : l’âge à la première conjonction dépend donc de votre année de naissance autant que de votre anniversaire, et il varie beaucoup. Dans le décompte du site, pour les naissances de 1930 à 2009, elle est venue entre les premiers mois de la vie et 50 ans environ, vers 24 ans au milieu : en quelques mois pour une naissance début 1945, vers 19 ans pour début 1985, 36 ans pour 1955, 38 ans pour 1975 et 42 ans pour 2005. Avant 80 ans, la plupart des gens l’ont rencontrée deux fois, et tout le monde une fois. Elle ouvre le tour qui se poursuit avec [Chiron en transit sextile Jupiter du thème natal](/astrology/transiting-chiron-sextile-natal-jupiter/), [Chiron en transit carré Jupiter du thème natal](/astrology/transiting-chiron-square-natal-jupiter/), [Chiron en transit trigone Jupiter du thème natal](/astrology/transiting-chiron-trine-natal-jupiter/) et [Chiron en transit opposition Jupiter du thème natal](/astrology/transiting-chiron-opposite-natal-jupiter/).
 

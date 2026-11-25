@@ -47,7 +47,7 @@ A plan that needs resizing usually gets most of a year. With my orbs, from 1½°
 
 Because Jupiter changes sign about once a year, the first square comes at ages that differ widely. In the site's count it came at about 10½ in the middle, usually before adulthood, and as late as about 37: at about 6 for someone born at the start of 1945, 12 for 1985, 20 for 1955, nearly 28 for 1965 and about 35 for 2005. Most people meet three by 80, a few two, a few four.
 
-The first square of a round follows [transiting Chiron conjunct natal Jupiter](/astrology/transiting-chiron-conjunct-natal-jupiter/) and [transiting Chiron sextile natal Jupiter](/astrology/transiting-chiron-sextile-natal-jupiter/); the second comes after [transiting Chiron opposite natal Jupiter](/astrology/transiting-chiron-opposite-natal-jupiter/) and the second [transiting Chiron trine natal Jupiter](/astrology/transiting-chiron-trine-natal-jupiter/). Coming up: Chiron in Taurus, June 2026 to May 2034, squares Jupiter in Leo and Aquarius; Chiron in Gemini, July 2033 to April 2039, Jupiter in Virgo and Pisces.
+The first square of a round follows [transiting Chiron conjunct natal Jupiter](/astrology/transiting-chiron-conjunct-natal-jupiter/) and [transiting Chiron sextile natal Jupiter](/astrology/transiting-chiron-sextile-natal-jupiter/); the second comes after [transiting Chiron opposite natal Jupiter](/astrology/transiting-chiron-opposite-natal-jupiter/) and the second [transiting Chiron trine natal Jupiter](/astrology/transiting-chiron-trine-natal-jupiter/). With Jupiter in Leo or Aquarius, the next square comes while Chiron crosses Taurus, June 2026 to May 2034; with Jupiter in Virgo or Pisces, while it crosses Gemini, July 2033 to April 2039.
 
 ## What helps {#what-helps}
 

@@ -43,7 +43,7 @@ Nothing here forecasts a quarrel, a lawsuit or a break-up, and I don't read tran
 
 ## How long it lasts {#how-long-it-lasts}
 
-A contest that flares and settles within three weeks is the short version, about one pass in three, when Chiron crosses the point opposite your Mars only once. More often, nearly two times in three, its retrograde loop makes three crossings and some ten months of it, counted with my orbs from 1½° before exact to 1° after; about one pass in twenty is a five-crossing stretch of roughly twenty-one months.
+A contest that flares and settles within three weeks is the short version, about one pass in three, when Chiron crosses the point opposite your Mars only once. More often, nearly two times in three, its retrograde loop makes three crossings over some ten months, counted with my orbs from 1½° before exact to 1° after; about one pass in twenty is a five-crossing stretch of roughly twenty-one months.
 
 There is one opposition in each round of about 50 years, so by 80 most people have met it twice and everyone once. It marks the middle of the round: after [transiting Chiron conjunct natal Mars](/astrology/transiting-chiron-conjunct-natal-mars/), [transiting Chiron sextile natal Mars](/astrology/transiting-chiron-sextile-natal-mars/), the first [transiting Chiron square natal Mars](/astrology/transiting-chiron-square-natal-mars/) and the first [transiting Chiron trine natal Mars](/astrology/transiting-chiron-trine-natal-mars/), and before the same angles return in reverse.
 
