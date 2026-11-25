@@ -24,7 +24,7 @@ faq:
   - q: "Is North Node trine Mars good for my career?"
     a: "It can support effort at work, especially with Mars in your 10th or 6th house, by making momentum easier to find. It doesn’t promise a promotion or any success, and I don’t read transits for outcomes. What it offers is a month when well-aimed effort meets less resistance."
   - q: "How long does North Node trine Mars last?"
-    a: "About a month as a rule, counting 1½° before exact and 1° after; though an eclipse season can stretch a pass to three and a half months or more. Two trines come in each 18.6-year round, eight or nine by the age of 80."
+    a: "About a month as a rule, counting 1½° before exact and 1° after, though an eclipse season can stretch a pass to three and a half months or more. Two trines come in each 18.6-year round, eight or nine by the age of 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the trine within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Mars" }

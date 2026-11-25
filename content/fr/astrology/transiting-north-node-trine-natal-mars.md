@@ -25,7 +25,7 @@ faq:
   - q: "Le Nœud Nord trigone Mars, est-ce bon pour ma carrière ?"
     a: "Il peut soutenir l’effort au travail, surtout avec Mars en maison 10 ou 6, en rendant l’élan plus facile à trouver. Il ne promet ni promotion ni succès, et je ne lis pas les transits pour leurs issues. Ce qu’il offre, c’est un mois où un effort bien dirigé rencontre moins de résistance."
   - q: "Combien de temps dure le Nœud Nord trigone Mars ?"
-    a: "Un mois environ en règle générale, en comptant 1,5° avant l’exactitude et 1° après ; même si une saison d’éclipses peut étirer un passage à trois mois et demi ou plus. Chaque tour de 18,6 ans compte deux trigones, huit ou neuf avant 80 ans."
+    a: "Un mois environ en règle générale, en comptant 1,5° avant l’exactitude et 1° après, même si une saison d’éclipses peut étirer un passage à trois mois et demi ou plus. Chaque tour de 18,6 ans compte deux trigones, huit ou neuf avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le nœud vrai tient le trigone dans mes orbes, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits sur Mars dans le thème natal" }
