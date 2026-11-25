@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Sun", "1st house", "composite chart"]
 weight: 1989
 glyph: "☉"
-definition: "Composite Sun in the 1st house puts the midpoint of two people’s Suns in the house that opens at the composite Ascendant, the house of presence and first impressions. Astrologers read it as a bond with a presence of its own, met as a unit before either person is. It needs both birth times and a choice of method."
+definition: "Composite Sun in the 1st house puts the midpoint of two people’s Suns in the house that opens at the composite Ascendant, the house of presence and first impressions. Astrologers read it as a bond with its own presence, met as a unit. It rests on both birth times and on the house method used."
 facts:
   - { k: "Body", v: "The composite Sun ☉" }
   - { k: "House", v: "The 1st house, from the composite Ascendant" }
@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/sun-in-1st-house", "/astrology/1st-house", "/astrology/ascendant", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Sun in the 1st house mean?"
-    a: "The midpoint of your two Suns falls in the house that opens at the composite Ascendant. Astrologers read it as a bond with a presence of its own: people tend to meet the two of you as a pair, and the relationship’s purpose shows in how you turn up together. The presence it describes is the pair’s, not either person’s."
+    a: "The midpoint of your two Suns falls in the house that opens at the composite Ascendant. The bond has a presence of its own: people tend to meet the two of you as a pair, and the relationship’s purpose shows in how you turn up together. The presence it describes is the pair’s, not either person’s."
   - q: "How is the composite Ascendant calculated?"
     a: "In one of two ways. Some astrologers take the midpoint of the two natal Ascendants; others work it out from the composite Midheaven for the latitude where the pair lives. Both need both birth times, and they can disagree, so a Sun near the Ascendant may fall in the 1st by one method and the 12th by the other."
   - q: "Does a composite Sun in the 1st house make a strong relationship?"
-    a: "It makes a visible one, not a stronger or longer one. The 1st is an angular house, which tradition counts among the most prominent, so the bond tends to be noticed. Whether it lasts or works depends on the two people, their own charts and their choices, which no composite can foretell."
+    a: "It makes a visible one, not a stronger or longer one. The 1st is an angular house, which tradition counts among the most prominent, so the bond tends to be noticed. Whether it lasts or works is for the two people to find out; no composite can foretell it."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
@@ -40,4 +40,4 @@ The 1st is an angular house, the most prominent kind in tradition ([angular, suc
 
 A bond this visible can come to depend on how it appears. The relationship may feel it has to look well in company, and a private difficulty can feel like a public one. It helps to keep part of the bond out of view: something the two of you do that nobody sees or comments on, and an agreement between you about what is shared with others and what isn't. Next along, the [composite Sun in the 2nd house](/astrology/composite-sun-in-2nd-house/) gathers a bond around what it holds and values rather than how it looks.
 
-I don't draw composites in my own readings; this is how the technique works for those who use it, with both natal charts and the [synastry](/astrology/synastry/) beside it. Visibility isn't a forecast, and nothing in this placement says how long a relationship lasts or how it fares. A bond seen as a pair should be read as one, too, with both people knowing and agreeing ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+You won't find a composite in my own readings; I set out the technique the way its practitioners use it, next to both natal charts and the [synastry](/astrology/synastry/). Visibility isn't a forecast, and nothing in this placement says how long a relationship lasts or how it fares. A bond seen as a pair should be read as one, too, with both people aware and willing ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

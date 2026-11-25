@@ -20,7 +20,7 @@ related: ["/astrology/composite-chart", "/astrology/sun-in-virgo", "/astrology/v
 faq:
   - q: "Que veut dire un Soleil composite en Vierge ?"
     a: "À mi-chemin entre vos deux Soleils se trouve la Vierge, terre mutable où Mercure a à la fois son domicile et son exaltation. Les astrologues y voient un lien dont le soin est concret : améliorer les choses, veiller aux détails, se rendre utile à l’autre et aux autres. Il parle de la paire, pas de l’une des deux personnes."
-  - q: "Pourquoi notre Mercure composite est-il à l’opposé de notre Soleil composite ?"
+  - q: "Pourquoi trouve-t-on Mercure composite à l’opposé de notre Soleil composite ?"
     a: "Parce que chaque planète du composite reçoit son propre mi-point. Aucun ciel réel n’écarte Mercure du Soleil de plus de 28° environ ; dans un composite, environ 1 paire sur 26 trouve les deux face à face. Avec un Soleil composite en Vierge, le maître du signe passe en Poissons : un effet de la méthode, pas un message."
   - q: "Un Soleil composite en Vierge rend-il une relation critique ?"
     a: "Pas à lui seul. La Vierge décrit le discernement et le souci que les choses marchent, et le discernement n’est pas la critique. Un tel lien peut parfois tourner sa précision contre lui-même et s’examiner plus qu’il ne se savoure, mais c’est une tendance à remarquer, pas un trait figé, et aucun composite ne décide de la suite."

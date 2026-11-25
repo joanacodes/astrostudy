@@ -28,7 +28,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
 ---
-A composite Sun in the 4th house puts the relationship's centre at its foundations: home, roots, the private life the two of you share. It describes a bond that knows itself best where nobody else is watching.
+In the 4th house, the composite Sun sits at the relationship's foundations: home, roots, the private life the two of you share. It describes a bond that knows itself best where nobody else is watching.
 
 ## What it says about the two of you {#what-it-says}
 

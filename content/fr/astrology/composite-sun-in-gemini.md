@@ -20,7 +20,7 @@ related: ["/astrology/composite-chart", "/astrology/sun-in-gemini", "/astrology/
 faq:
   - q: "Que veut dire un Soleil composite en Gémeaux ?"
     a: "Vos deux Soleils ont leur mi-point en Gémeaux, signe d’air mutable de Mercure, et le thème dressé pour votre relation y prend son centre. On y lit un lien qui vit d’échanges : questions, nouvelles et idées qui passent d’une personne à l’autre. Il décrit ce que vous faites à deux, jamais l’une des deux personnes seule."
-  - q: "Mercure composite peut-il être loin d’un Soleil composite en Gémeaux ?"
+  - q: "Est-ce que Mercure composite peut être loin d’un Soleil composite en Gémeaux ?"
     a: "Oui. Chaque planète composite est un mi-point calculé à part : Mercure composite tombe à plus de 28° du Soleil composite pour environ 1 paire sur 18, ce qu’aucun thème natal ne permet. Avec un Soleil composite en Gémeaux, le maître du signe peut alors se trouver dans un signe lointain : un calcul de mi-points, pas un message."
   - q: "Un Soleil composite en Gémeaux est-il bon pour une amitié ?"
     a: "Il décrit un lien qui fonctionne à la conversation, ce qui convient à l’amitié aussi bien qu’à l’amour ou au travail. Mais aucun composite ne dit si un lien est bon ni combien de temps il durera : cela dépend des deux personnes et de leurs propres thèmes. Il montre la manière de l’amitié, pas son avenir."
