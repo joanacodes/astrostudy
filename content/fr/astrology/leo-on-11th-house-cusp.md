@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire le Lion sur la cuspide de la maison 11 ?"
     a: "Que vos amitiés et les projets que vous partagez se vivent avec la chaleur du Lion : une loyauté sans faille, de la générosité, et souvent une place au centre du cercle, ou à sa tête. La place du Soleil, maître de la maison, montre où vous mènent amitiés et projets."
   - q: "Pourquoi le Verseau est-il sur ma maison 5 si le Lion est sur ma maison 11 ?"
-    a: "Parce que deux cuspides opposées tombent toujours au même degré de deux signes opposés, et que le Verseau fait face au Lion. Avec le Lion en maison 11, le Verseau ouvre la maison 5 : chaque signe occupe la maison naturelle de l’autre, et Uranus et Saturne gouvernent vos plaisirs tandis que le Soleil gouverne vos amitiés."
+    a: "Parce que deux cuspides opposées tombent au même degré de signes opposés, et que le Verseau fait face au Lion. Avec le Lion en maison 11, le Verseau ouvre la maison 5 : chaque signe occupe la maison naturelle de l’autre, et Uranus et Saturne gouvernent vos plaisirs tandis que le Soleil gouverne vos amitiés."
   - q: "Le Lion sur la cuspide de la maison 11 rend-il populaire ?"
     a: "Pas forcément, et aucun thème ne compte les amis. Ce qu’il décrit, c’est votre façon d’être dans un cercle : loyale, généreuse, à l’aise près de son centre. Certaines personnes qui ont cette cuspide ont beaucoup d’amis, d’autres quelques-uns pour la vie ; la chaleur qu’elles apportent est souvent la même."
 sources:

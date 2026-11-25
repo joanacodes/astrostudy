@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/virgo", "/astrology/3rd-house", "/astrology/mercury", "/astrology/leo-rising", "/astrology/mercury-in-virgo"]
 faq:
   - q: "What does Virgo on the 3rd house cusp mean?"
-    a: "It means your everyday mind works like an editor’s: facts checked, words weighed, loose ends tidied before anything is sent. With siblings and neighbours, help tends to be practical. Mercury, the 3rd’s natural ruler, rules it here, and its house shows what your thinking serves."
+    a: "It means your everyday mind works like an editor’s: facts checked, words weighed, loose ends tidied before anything is sent. With siblings and neighbours, help tends to be practical. The house belongs to Mercury, its natural ruler as well, and Mercury’s house shows what your thinking serves."
   - q: "Is Virgo on the 3rd house cusp good for writing?"
     a: "It suits careful writing: clear explanations, accurate notes, editing, anything where getting the facts right matters. The hard part is the inner critic, which can keep a draft from ever being finished. No placement decides whether someone writes; this one describes the way the mind tends to work."
   - q: "Why is Mercury so important with Virgo on the 3rd house cusp?"
