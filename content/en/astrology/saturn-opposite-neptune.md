@@ -51,7 +51,7 @@ The rest of the Saturn–Neptune family:
 - **[Saturn square Neptune](/astrology/saturn-square-neptune/):** 1943–45, 1962–64, 1978–80 or 1998–99; a right-angled rub instead of a stand-off.
 - **[Saturn trine Neptune](/astrology/saturn-trine-neptune/):** 1930, 1941–43, 1965–67, 1976–78 or 2000–02; the same functions flowing together.
 
-In a relationship, [Saturn opposite Neptune in synastry](/astrology/saturn-opposite-neptune-synastry/) can feel like one person supplying the ground and the other the sky: a partnership, if each values what the other brings. I read it from either side.
+In a relationship, [Saturn opposite Neptune in synastry](/astrology/saturn-opposite-neptune-synastry/) can feel like one person supplying the ground and the other the sky: a partnership, if each values what the other brings. I read it for the Saturn person and the Neptune person alike.
 
 ## In transits {#in-transits}
 

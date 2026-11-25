@@ -41,7 +41,7 @@ Je lis la maison 4 comme le sol sur lequel vous vous tenez. Elle couvre le foyer
 
 Je la lis avec douceur. La maison 4 décrit la façon dont vous avez vécu le foyer et la famille, ce que c’était vu de l’intérieur ; elle ne dit rien de certain sur les parents de quiconque. Les livres anciens lui donnent un parent, et les astrologues ne se sont jamais mis d’accord sur lequel. Les adultes de votre enfance ont leur propre thème.
 
-- **Une maison angulaire.** C’est l’une des quatre maisons qui commencent aux angles, et ce qui s’y trouve est fort, même quand cela agit loin des regards. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
+- **Une maison angulaire.** C’est l’une des quatre maisons qui commencent aux angles, et ce qui s’y trouve est fort, même quand cela agit loin des regards. Chacune des trois familles, avec les maisons qui en font partie, est présentée sur la page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/).
 - **Son angle.** Sa cuspide est le [Fond du Ciel](/astrology/imum-coeli/), ou FC : le point du zodiaque opposé au [Milieu du Ciel](/astrology/midheaven/), tout en bas du thème. En Placidus et dans les autres systèmes par quadrants, le Fond du Ciel marque le début de la maison 4 (voir [Quel système de maisons choisir ?](/astrology/which-house-system-should-i-use/)).
 - **Son signe et sa planète naturels.** Le [Cancer](/astrology/cancer/) et la [Lune](/astrology/moon/) : l’abri, le besoin, la mémoire.
 - **Son opposée.** La [maison 10](/astrology/10th-house/), la carrière et la vie publique : la maison 10, c’est ce que le monde voit de vous ; la maison 4, ce qui se passe derrière votre propre porte.
@@ -54,7 +54,7 @@ Le Fond du Ciel fait le tour du zodiaque en une journée, comme l’ascendant :
 
 Une planète en maison 4 vit à la maison : elle se voit dans votre vie privée, vos habitudes de famille et ce dont vous avez besoin pour appartenir quelque part. En public, elle est souvent plus discrète que sa force ne le laisserait penser.
 
-Saturne, Chiron et Lilith ont tenu 75 à 90 % du temps dans [mon carnet](/blog/i-tested-my-birth-chart/), contre environ une fois sur trois pour la plupart des placements. Si Saturne, [Chiron en maison 4](/astrology/chiron-in-4th-house/) ou [Lilith en maison 4](/astrology/lilith-in-4th-house/) se trouve ici, je prends cette partie de la lecture lentement : l’appartenance est un terrain sensible.
+Quand j’ai testé mon propre thème dans [mon carnet](/blog/i-tested-my-birth-chart/), Saturne, Chiron et Lilith ont tenu 75 à 90 % du temps, contre environ une fois sur trois pour la plupart des placements. Si Saturne, [Chiron en maison 4](/astrology/chiron-in-4th-house/) ou [Lilith en maison 4](/astrology/lilith-in-4th-house/) se trouve ici, je prends cette partie de la lecture lentement : l’appartenance est un terrain sensible.
 
 - **[Soleil en maison 4](/astrology/sun-in-4th-house/) :** c’est au foyer et dans la famille que vous trouvez votre but ; le meilleur de vous est souvent le plus privé.
 - **[Lune en maison 4](/astrology/moon-in-4th-house/) :** dans la maison de son propre signe : un grand besoin de nid, et une longue mémoire de l’endroit d’où vous venez.

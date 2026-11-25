@@ -36,7 +36,7 @@ On 26 June 2029 the Moon will be eclipsed at 4°49′ Capricorn, nineteen years 
 
 [Capricorn](/astrology/capricorn/) is cardinal earth, ruled by Saturn: structure, responsibility, the work of years. Its eclipses fall on the Capricorn–Cancer axis, the public world and the private one, duty and care, alternating with Cancer’s as the Moon’s nodes move. The only total [solar eclipse](/astrology/solar-eclipses/) in Capricorn in my list, on 26 December 2038 at 4°19′, will bring the Sun and Moon together here; the [lunar eclipse](/astrology/lunar-eclipses/) of 26 June 2029 will set the full Moon in Capricorn against the Sun in Cancer.
 
-In a chart I go by the AGS rule: an eclipse counts within about three degrees of a natal planet, angle or node, at either end of its axis, and I read it through that point and its house. Five of Capricorn’s twenty are penumbral, the most recent, on 5 July 2020, and the next, on 18 July 2027, among them, and those weigh less. I look at the mean and the true node alike. Never an omen; a stretch of emphasis.
+In a chart I go by the AGS rule: an eclipse counts within about three degrees of a natal planet, angle or node, at either end of its axis, and I read it through that point and its house. Five of Capricorn’s twenty are penumbral, the most recent, on 5 July 2020, and the next, on 18 July 2027, among them, and those weigh less. I treat the mean node and the true node the same way. Never an omen; a stretch of emphasis.
 
 All twenty, year by year:
 

@@ -60,6 +60,6 @@ The pair's other angles shift the Moon along the nodal road:
 
 Pick an opening on purpose. Once a month, let the Moon person's way of finding comfort set the plan, and let the Node person treat it as practice rather than a favour. Say so when it works: "that helped me try something" is a sentence both people need to hear.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. I check the node both ways, mean and true, and with an orb this tight, their degree or two of difference matters more than usual, so near the edge I name the one that shows it. The Moon, which covers about 13° a day, settles the rest: without both birth times nobody can say whether the sextile is there, or in which houses it falls ([what changes without a birth time](/blog/unknown-birth-time/)).
+This Moon–North Node sextile links about 1 pair of people in 10 within 4.8°, whichever person has the Moon. I check the node both ways, mean and true, and with an orb this tight, their degree or two of difference matters more than usual, so near the edge I name the one that shows it. The Moon, which covers about 13° a day, settles the rest: without both birth times nobody can say whether the sextile is there, or in which houses it falls ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Kept within one chart, [Moon sextile North Node](/astrology/moon-sextile-north-node/) is a person whose comforts keep nudging them towards their own next step.

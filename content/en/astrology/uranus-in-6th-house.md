@@ -34,7 +34,7 @@ A timetable someone else wrote rarely survives contact with a 6th-house Uranus. 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 6th house](/astrology/6th-house/) is the shape of an ordinary day: the work you do, the routines that hold you up, the people you work alongside and the care you give your body. Cadent, with Virgo, ruled by Mercury, as its natural sign, it was Bad Fortune to the Hellenistic astrologers, who placed Mars's joy there all the same. With [Uranus](/astrology/uranus/) here, reform and experiment work on method: you improve procedures, change tools, and need some say in how and when your work gets done.
+[The 6th house](/astrology/6th-house/) is what an ordinary day is made of: your work, the routines that keep you steady, your coworkers and how you look after your body. Cadent, with Virgo, ruled by Mercury, as its natural sign, it was Bad Fortune to the Hellenistic astrologers, who placed Mars's joy there all the same. With [Uranus](/astrology/uranus/) here, reform and experiment work on method: you improve procedures, change tools, and need some say in how and when your work gets done.
 
 Tradition gave this house illness. Whether you'll be ill or well is not something a placement can tell, and I don't look for it ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). In an adult's life I read the 6th as daily work and the habits you live by, and Uranus here as a need for flexible routines you've chosen yourself.
 

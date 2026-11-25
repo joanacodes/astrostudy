@@ -42,7 +42,7 @@ Je lis la maison 6 comme la forme d’une journée ordinaire. Elle couvre le tra
 
 La tradition donnait la maladie à la maison 6 et l’appelait la Fortune défavorable. Je ne lis pas la maladie dans un thème : aucun thème ne peut diagnostiquer ni prédire un problème de santé, et tout ce qui touche à votre santé regarde un médecin (voir [L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Ce que je lis ici, c’est votre façon de travailler et de prendre soin de vous.
 
-- **Une maison cadente.** Elle suit une maison succédente, et les maisons cadentes se lisent comme des lieux d’ajustement et d’entretien : la maison 6 fait tourner les choses. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
+- **Une maison cadente.** Elle suit une maison succédente, et les maisons cadentes se lisent comme des lieux d’ajustement et d’entretien : la maison 6 fait tourner les choses. Les trois familles, cadente comme la maison 6, angulaire et succédente, sont expliquées sur la page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/).
 - **Son signe et sa planète naturels.** La [Vierge](/astrology/virgo/) et [Mercure](/astrology/mercury/) : la méthode, le détail, l’utilité.
 - **La Fortune défavorable.** La tradition lui donnait ce nom et disait que [Mars](/astrology/mars/) s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)) : la planète de l’effort, chez elle dans la maison de la peine.
 - **Son opposée.** La [maison 12](/astrology/12th-house/), que la tradition appelait le Génie défavorable, où Saturne a sa joie : la maison 6, c’est le quotidien qu’on voit ; la maison 12, ce qui se passe loin des regards.
@@ -55,7 +55,7 @@ Comme toutes les maisons, la maison 6 dépend de votre heure de naissance : san
 
 Une planète en maison 6 gagne sa vie : elle se voit dans votre travail, vos habitudes et votre façon de prendre soin de vous.
 
-Saturne, Chiron et Lilith ont tenu 75 à 90 % du temps dans [mon carnet](/blog/i-tested-my-birth-chart/), contre environ une fois sur trois pour la plupart des placements. Si Saturne, [Chiron en maison 6](/astrology/chiron-in-6th-house/) ou [Lilith en maison 6](/astrology/lilith-in-6th-house/) se trouve ici, c’est votre façon de travailler — et de savoir vous arrêter — que je regarderais le plus longtemps dans une lecture.
+Dans [mon carnet](/blog/i-tested-my-birth-chart/), la plupart des placements ont tenu environ une fois sur trois ; Saturne, Chiron et Lilith, 75 à 90 % du temps. Si Saturne, [Chiron en maison 6](/astrology/chiron-in-6th-house/) ou [Lilith en maison 6](/astrology/lilith-in-6th-house/) se trouve ici, c’est votre façon de travailler — et de savoir vous arrêter — que je regarderais le plus longtemps dans une lecture.
 
 - **[Soleil en maison 6](/astrology/sun-in-6th-house/) :** vous rayonnez par un travail quotidien utile et bien fait.
 - **[Lune en maison 6](/astrology/moon-in-6th-house/) :** une journée qui se déroule bien, c’est ce qui vous rassure ; vous prenez soin des autres presque sans y penser.
@@ -89,7 +89,7 @@ Le signe sur la cuspide de la maison 6 donne son style à vos journées : votre
 
 ## Son maître {#maitre}
 
-Le maître de la maison 6 est la planète qui gouverne le signe sur sa cuspide. Là où il se trouve, on voit où vont votre travail quotidien et vos habitudes : le domaine de vie que votre effort sert. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 6 est la planète qui gouverne le signe sur sa cuspide. Là où il se trouve, on voit où vont votre travail quotidien et vos habitudes : le domaine de vie que votre effort sert. Si la maison 6 commence en Scorpion, en Verseau ou en Poissons, elle a à la fois un maître moderne et un maître traditionnel, et je lis chacun d’eux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/6th-house-ruler-in-1st-house/) :** on vous connaît pour votre façon de travailler ; l’effort fait partie de qui vous êtes.
 2. **[En maison II](/astrology/6th-house-ruler-in-2nd-house/) :** le travail quotidien comme gagne-pain ; des compétences qui rapportent.

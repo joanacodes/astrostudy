@@ -37,7 +37,7 @@ Sous chaque maison, il y a des fondations que personne ne voit. Avec Saturne en 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le foyer, la famille, les racines, le passé que vous portez et la part de vous que seuls vos proches voient : tout cela regarde la [maison 4](/astrology/4th-house/). La tradition lui donnait aussi la terre et les maisons, ce qui ne bouge pas. C’est une maison angulaire : ce qui s’y trouve est fort, même quand cela agit hors de la vue. À votre naissance, [Saturne](/astrology/saturn/) était sous vos pieds, près du point le plus bas de son cercle quotidien, proche du Fond du Ciel.
+Le foyer, la famille, les racines, le passé que vous portez et la part de vous que seuls vos proches voient : tout cela regarde la [maison 4](/astrology/4th-house/). Les anciens astrologues lui confiaient aussi la terre et les maisons : ce qui reste en place. C’est une maison angulaire : ce qui s’y trouve est fort, même quand cela agit hors de la vue. À votre naissance, [Saturne](/astrology/saturn/) était sous vos pieds, près du point le plus bas de son cercle quotidien, proche du Fond du Ciel.
 
 Son signe naturel est le Cancer, où Saturne est en exil, et le thème se prolonge : la réserve de Saturne rencontre la maison de l’émotion et de l’appartenance. Ce placement décrit souvent un foyer où l’on a grandi vite, pris un rôle, ou appris à garder ses émotions bien rangées. Je le lis avec douceur. La maison 4 décrit votre vécu du foyer, pas des faits sur vos parents : les personnes qui ont pris soin de votre enfance ont leur propre thème. Ce que Saturne décrit ici est plus lent et plus doux que sa réputation : un foyer que vous bâtissez vous-même, plus tard, et auquel vous vous fiez.
 

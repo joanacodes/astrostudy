@@ -48,7 +48,7 @@ Depth on offer can stay unoffered. In calm times the pair may keep things light,
 
 Check before going deep. A simple "can we talk about something real?" respects the opening and lets the other choose the moment. Make regular room for it: a walk, a long meal, a yearly look back at what has changed for each of you. Respect a "not now" as much as a "yes". Couples, friends and relatives can all use this; at work, it serves the pair who can review what went wrong without blame.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. Pluto spends between 12 and 31 years per sign, which makes the Pluto person's side common to a long run of birth years; what belongs to this pair alone is where the other's Moon happened to be. That's a question of hours, since the Moon moves around 13° a day against an orb of 4.8°: both birth times settle whether the sextile exists, and which houses it links ([what changes without a birth time](/blog/unknown-birth-time/)).
+Counting both directions, about 1 pair of people in 10 has one person's Moon sextile the other's Pluto within 4.8°. Pluto spends between 12 and 31 years per sign, which makes the Pluto person's side common to a long run of birth years; what belongs to this pair alone is where the other's Moon happened to be. That's a question of hours, since the Moon moves around 13° a day against an orb of 4.8°: both birth times settle whether the sextile exists, and which houses it links ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Closer or further round the circle:
 

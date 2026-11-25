@@ -36,7 +36,7 @@ Mars in the 5th house turns play into a contest and pleasure into a pursuit. Wha
 
 It's a succedent house, and tradition called it Good Fortune and gave Venus its joy there, so Mars works here in Venus's own house of pleasure, where desire and enjoyment can be hard to tell apart. Its natural sign is Leo. Across the chart is the 11th, the house of friends and groups, so your pleasures can now and then pull against your loyalties.
 
-Tradition also gave the 5th children. I don't read that in a chart: none can say whether or when anyone will have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I don't read [children's charts](/astrology/childrens-charts/) at all. What I read here is your own play and creativity, as an adult.
+The old texts placed children in the 5th as well. I don't read that in a chart: none can say whether or when anyone will have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I don't read [children's charts](/astrology/childrens-charts/) at all. What I read here is your own play and creativity, as an adult.
 
 Like every house, the 5th rests on the birth time. I calculate houses in Placidus, and with a time that's only roughly known, a Mars near either cusp could belong to the house next door ([what changes without a birth time](/blog/unknown-birth-time/)). [Mars in the 4th house](/astrology/mars-in-4th-house/) guards the home front; [Mars in the 6th house](/astrology/mars-in-6th-house/), in its joy, gets the work done.
 

@@ -42,7 +42,7 @@ That isn't a contradiction to resolve. The South Node's skills aren't the enemy 
 
 ## In a birth chart {#in-a-birth-chart}
 
-The sextile usually links signs whose elements get along, so effort and growth speak compatible languages. With the North Node in Leo, the call to step out of the group and be seen, and Mars in Gemini or Libra, the opening might be to speak up or to partner up in a way that puts you in view; the South Node in Aquarius, trined by Mars, is the group effort that comes easily. The houses say where: Mars in the 4th sextile the North Node in the 6th, for instance, might let home life feed new daily habits. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The sextile usually links signs whose elements get along, so effort and growth speak compatible languages. With the North Node in Leo, the call to step out of the group and be seen, and Mars in Gemini or Libra, the opening might be to speak up or to partner up in a way that puts you in view; the South Node in Aquarius, trined by Mars, is the group effort that comes easily. The houses say where: Mars in the 4th sextile the North Node in the 6th, for instance, might let home life feed new daily habits. Mars and the North Node can only be placed in houses with a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 About 1 person in 16 is born with this sextile within 6°, counted with the true node and checked against the mean one, never more than a couple of degrees away ([mean node and true node](/astrology/mean-node-and-true-node/)). Mars is much the faster: it moves the aspect, while the node backs slowly through a sign every 18 months or so.
 

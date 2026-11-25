@@ -44,7 +44,7 @@ These two lights come together in roughly one birth in 142. Where the Moon was e
 
 ## In close relationships {#in-close-relationships}
 
-Friendship is the ground your love grows from. The Aquarius Moon needs a partner who respects your independence and your odd ideas and doesn't need reassurance every day; the Virgo Sun shows love by being useful, reliable and attentive to detail. What can go missing is warmth said out loud. You may fix a partner's problem when they wanted to be held. Ask which they'd like, since both are gifts.
+Your love takes root in friendship. The Aquarius Moon needs a partner who respects your independence and your odd ideas and doesn't need reassurance every day; the Virgo Sun shows love by being useful, reliable and attentive to detail. What can go missing is warmth said out loud. You may fix a partner's problem when they wanted to be held. Ask which they'd like, since both are gifts.
 
 ## At work {#at-work}
 

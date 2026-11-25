@@ -33,7 +33,7 @@ Ask where a 4th-house Mercury thinks best and the answer is usually the kitchen 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 4th house](/astrology/4th-house/) is home, family, roots and private life: where you come from, and what you build to come back to. Tradition also gave it land and houses, the things that stay put. One of the four angular houses, it begins at the [Imum Coeli](/astrology/imum-coeli/), the lowest point of the chart, and its natural sign is Cancer. With [Mercury](/astrology/mercury/) here, the mind's most important conversations happen out of public view: at home, with family, or alone with a book.
+[The 4th house](/astrology/4th-house/) is home, family, roots and private life: where you come from, and what you build to come back to. Land and houses, the things that don't move, were also part of it in the tradition. One of the four angular houses, it begins at the [Imum Coeli](/astrology/imum-coeli/), the lowest point of the chart, and its natural sign is Cancer. With [Mercury](/astrology/mercury/) here, the mind's most important conversations happen out of public view: at home, with family, or alone with a book.
 
 You may think a great deal about where you come from, about family history, old places, the words and phrases your family used. Memory is one of this Mercury's resources. You often need a quiet, familiar place to think well, and you may do your best work from home. A Cancer Mercury here, in the 4th's own sign, makes memory the main subject ([Mercury in Cancer](/astrology/mercury-in-cancer/)).
 

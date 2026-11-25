@@ -58,6 +58,6 @@ On the road rather than across it:
 
 Put the needs inside the plan, not after it. The Node person can ask "how does this include you?" before the course, the move or the new job, not after; the Moon person can name needs in a form that can come along, a call from the train or a fixed evening in the week. Between parents and grown children, or between colleagues where one is changing role, that small question changes the tone of the whole season.
 
-About 1 pair of people in 7 has this square, one way round or the other, within 6.8°. Mean node or true node, I look at both; they never sit more than a degree or two apart, so only a Moon right on the rim of the orb gets a split answer. The Moon, moving about 13° a day, can be carried in or out of this square by the hour of either birth, and the houses wait on the times as well ([what changes without a birth time](/blog/unknown-birth-time/)).
+Whichever of the two has the Moon, this square to the North Node comes within 6.8° for about 1 pair of people in 7. Mean node or true node, I look at both; they never sit more than a degree or two apart, so only a Moon right on the rim of the orb gets a split answer. The Moon, moving about 13° a day, can be carried in or out of this square by the hour of either birth, and the houses wait on the times as well ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Where one chart holds it alone, [Moon square North Node](/astrology/moon-square-north-node/) has a person's needs and growth negotiating with each other.

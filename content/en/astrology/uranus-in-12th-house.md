@@ -34,7 +34,7 @@ Not every independence is visible. With Uranus in the 12th house, the freedom yo
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 12th house](/astrology/12th-house/) is what happens out of sight: solitude, rest, quiet work, care given or received without being seen, and the inner life. Last and cadent, it has Pisces for its natural sign, with Neptune and, traditionally, Jupiter as rulers; the Hellenistic astrologers called it the Bad Spirit, yet gave Saturn its joy there. With [Uranus](/astrology/uranus/) here, innovation and liberation work behind the scenes: insight that comes in private, change that begins inside long before it shows.
+[The 12th house](/astrology/12th-house/) holds what goes on unseen: solitude, rest, quiet work, care that's given or received without anyone noticing, and the inner life. Last and cadent, it has Pisces for its natural sign, with Neptune and, traditionally, Jupiter as rulers; the Hellenistic astrologers called it the Bad Spirit, yet gave Saturn its joy there. With [Uranus](/astrology/uranus/) here, innovation and liberation work behind the scenes: insight that comes in private, change that begins inside long before it shows.
 
 Tradition also gave this house confinement and hidden enemies. I don't read it as a prediction of either, and no placement says anything about your mental health on its own ([astrology and mental health](/astrology/astrology-and-mental-health/)). In an adult's life I read the 12th as the private, restorative side of life, and Uranus there as the right to an inner world that follows its own rules.
 

@@ -37,7 +37,7 @@ The [Sun](/astrology/sun/) is your sense of self and of where you're going; [Mar
 
 In plain words, when you know what you want, the energy to go after it is usually there, and it goes in the right direction. You can work hard without feeling you're fighting yourself, and competing, defending a boundary or starting from scratch tends to feel natural rather than costly. Courage, with this trine, looks less like daring and more like simply getting on with it.
 
-Ease is not inevitability, and flow is not passivity. The trap of this trine is never having had to push where nothing flows: the task that needs effort you don't feel, the moment when your energy and your aim disagree. I read the trine at its best in people who have learned to use it on purpose, and to keep going on the days it doesn't carry them.
+With Sun trine Mars, easy doesn't mean bound to happen, and flowing doesn't mean idle. The trap of this trine is never having had to push where nothing flows: the task that needs effort you don't feel, the moment when your energy and your aim disagree. I read the trine at its best in people who have learned to use it on purpose, and to keep going on the days it doesn't carry them.
 
 ## In a birth chart {#in-a-birth-chart}
 

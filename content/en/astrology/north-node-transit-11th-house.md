@@ -33,7 +33,7 @@ The North Node reaches your 11th house after your 12th, travelling backwards as 
 
 ## What changes {#what-changes}
 
-The [North Node](/astrology/north-node/) shows growth that comes with practice. The [11th house](/astrology/11th-house/) is friends, groups and hopes: the people you build a future with, and the future you'd like to build. With the node here, the practice is belonging by choice: joining something, offering a skill to a shared aim, keeping up the friendships that point forward.
+The [North Node](/astrology/north-node/) shows growth that comes with practice. Friends, groups and hopes are what the [11th house](/astrology/11th-house/) is about: who you build a future with, and the future you hope to build. With the node here, the practice is belonging by choice: joining something, offering a skill to a shared aim, keeping up the friendships that point forward.
 
 The [South Node](/astrology/south-node/) in your 5th knows the solo performance: your own creations, your own pleasure, being the one people watch. It's a real gift. The stretch is to let it serve something bigger than one stage.
 

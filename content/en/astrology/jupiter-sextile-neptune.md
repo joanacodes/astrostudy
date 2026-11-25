@@ -44,7 +44,7 @@ Potential isn't a guarantee. Put to work, this aspect becomes a quiet skill: tur
 
 Thirteen short spells between 1930 and 2009 carry it within 6°, about 1 birth in 16 in all: June to August 1930; November 1934 to January 1935 and May to September 1935; October to November 1942 and May to July 1943; November 1947 to January 1948; September 1955 to July 1956; March to June 1960 and November 1960 to January 1961; September 1968 to July 1969; March to December 1973; September to November 1981 and May to July 1982; February to April 1986; September to November 1994; June to September 1998 and January to March 1999; and January to May 2007 with September to November 2007.
 
-The sextile belongs to everyone born in those spells; your houses make it particular ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). With Jupiter in the 3rd and Neptune in the 5th, for instance, everyday words might become a way into creative work; with Jupiter in the 10th and Neptune in the 12th, a public role may draw quietly on an inner life. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The sextile belongs to everyone born in those spells; your houses make it particular ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). With Jupiter in the 3rd and Neptune in the 5th, for instance, everyday words might become a way into creative work; with Jupiter in the 10th and Neptune in the 12th, a public role may draw quietly on an inner life. Your birth time is what tells which houses the sextile links ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Next to the sextile:
 

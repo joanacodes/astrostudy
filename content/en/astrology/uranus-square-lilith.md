@@ -42,7 +42,7 @@ In daily life, the change you want keeps disturbing the boundaries you've drawn 
 
 About 1 person in 15 born between 1930 and 2009 has Uranus within 6° of a square to mean Lilith. With two square points in the circle, it comes about twice a decade, for a few months each time, and Lilith, the faster at about nine months a sign, does the moving. True Lilith can sit far from the mean ([which Lilith is mine?](/astrology/which-lilith-is-mine/)).
 
-Squares tend to link signs of one modality. Uranus in Aries square Lilith in Cancer, two cardinal signs, might set a push to strike out alone against a fierce, private need for a home on your own terms. The houses place the friction: Uranus in the 10th square Lilith in the 7th, for instance, could pit a working life that changes direction at will against an untamed side that surfaces in partnership. Both need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). The closer to exact, the more insistent the rub.
+A square most often joins two signs of the same modality. Uranus in Aries square Lilith in Cancer, two cardinal signs, might set a push to strike out alone against a fierce, private need for a home on your own terms. The houses place the friction: Uranus in the 10th square Lilith in the 7th, for instance, could pit a working life that changes direction at will against an untamed side that surfaces in partnership. Both need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). The closer to exact, the more insistent the rub.
 
 The pair's other aspects:
 

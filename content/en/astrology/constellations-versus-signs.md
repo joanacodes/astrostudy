@@ -61,5 +61,5 @@ So when your chart puts the Sun at 12° Aries, it gives you two facts. The degre
 
 - **“Astrologers don't know about precession.”** Hipparchus noticed it more than two thousand years ago, and Ptolemy still counted the signs from the equinox. The tropical zodiac follows the seasons on purpose.
 - **“Your real sign is the constellation behind the Sun.”** That's a fact about the stars behind the Sun. Your sign is the season of your birth, and it's what a chart is built on.
-- **“The sidereal zodiac uses the real constellations.”** It anchors twelve equal signs to the stars; it doesn't follow the constellations' unequal borders either.
+- **“The sidereal zodiac is built on the actual constellations.”** It anchors twelve equal signs to the stars; it doesn't follow the constellations' unequal borders either.
 - **“Precession is slowly changing everyone's sign.”** It changes which stars stand behind each sign. In the tropical zodiac, Aries begins at the March equinox every year, and always will.

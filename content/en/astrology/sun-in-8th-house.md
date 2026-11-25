@@ -35,7 +35,7 @@ The Sun was high in the afternoon sky when you were born, in a house that tradit
 
 [The 8th house](/astrology/8th-house/) holds intimacy and trust, and what you share with other people or owe them: joint money, debts, the closeness that changes you. It follows the 7th as a succedent house, with Scorpio as its natural sign. The [Sun](/astrology/sun/) here meets its own questions in private, and in what you hold together with someone else. You may feel most yourself in conversations that go somewhere real, in work that handles what others can't, and in the stretches of life when something old has to give way.
 
-Tradition gave the 8th death and inheritance. No chart can predict a death, and I don't read one for it ([can astrology predict death?](/astrology/can-astrology-predict-death/)); nor can a chart say what anyone will inherit or owe. In an adult's life I read this house among the living: trust, intimacy, shared resources and renewal.
+In the old books, the 8th was the house of death and inheritance. No chart can predict a death, and I don't read one for it ([can astrology predict death?](/astrology/can-astrology-predict-death/)); nor can a chart say what anyone will inherit or owe. In an adult's life I read this house among the living: trust, intimacy, shared resources and renewal.
 
 In Placidus, the house system I use, an 8th-house Sun was well up in the western half of the sky, in the middle of the afternoon. A little earlier you'd have the [Sun in the 9th house](/astrology/sun-in-9th-house/); later, closer to sunset, the [Sun in the 7th house](/astrology/sun-in-7th-house/); as with every house, only the [birth time](/blog/unknown-birth-time/) can say which. The 2nd house faces it across the chart: what is yours, set against what is shared.
 

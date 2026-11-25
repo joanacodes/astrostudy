@@ -42,7 +42,7 @@ In plain words, what you were told to be and what you won't be are tied in one k
 
 About 1 person in 45 is born with Saturn within 6° of Lilith, counting with mean Lilith, the one I use. True Lilith can sit tens of degrees away from it, so with that version the conjunction may not appear at all ([which Lilith is mine?](/astrology/which-lilith-is-mine/)). Lilith is much the quicker, about nine months in a sign against Saturn's two and a half years, so it decides who has the conjunction: births share it in runs of a few months, years apart.
 
-The sign colours the knot. In an earth sign such as Capricorn, Saturn's own, the refusal may hide inside hard work and very private standards; in an air sign, inside principles and opinions held against the grain. The house shows where duty and self-rule meet: in the 7th, the terms on which you'll commit; in the 10th, a public role you insist on shaping yourself. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The sign colours the knot. In an earth sign such as Capricorn, Saturn's own, the refusal may hide inside hard work and very private standards; in an air sign, inside principles and opinions held against the grain. The house shows where duty and self-rule meet: in the 7th, the terms on which you'll commit; in the 10th, a public role you insist on shaping yourself. To see which house holds the knot, you need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The pair's other aspects, each in a line:
 

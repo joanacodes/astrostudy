@@ -39,7 +39,7 @@ Les vieux livres y auraient vu une saison doublement favorable, puisque la maiso
 
 Chaque planète déjà présente dans votre maison 5 reçoit quelques semaines de lumière en plus au passage de Jupiter ; le Soleil natal à cet endroit, maître naturel de la maison, peut donner à ce passage le goût d’un regard enfin posé sur vous.
 
-La tradition donnait aussi les enfants à la maison 5. Un transit ne peut dire à personne si un enfant viendra, ni quand ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis pas [le thème des enfants](/astrology/childrens-charts/) : ce que je lis dans votre maison 5, c’est votre propre plaisir et votre créativité, en adulte. Ce [transit](/astrology/transits/), comme tout autre, n’ajoute rien à votre thème : il fait ressortir le plaisir et la créativité qui s’y trouvent déjà.
+Dans la tradition, les enfants relevaient aussi de la maison 5. Un transit ne peut dire à personne si un enfant viendra, ni quand ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis pas [le thème des enfants](/astrology/childrens-charts/) : ce que je lis dans votre maison 5, c’est votre propre plaisir et votre créativité, en adulte. Ce [transit](/astrology/transits/), comme tout autre, n’ajoute rien à votre thème : il fait ressortir le plaisir et la créativité qui s’y trouvent déjà.
 
 ## Combien de temps {#combien-de-temps}
 

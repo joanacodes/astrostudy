@@ -56,6 +56,6 @@ There's a slower risk too: being taken for granted. What runs smoothly stops bei
 
 Ask anyway. A quick "do you want this?" costs nothing on a trine and keeps the ease honest. Say thanks specifically, so effort and appreciation stay visible. And practise small disagreements while the stakes are low, choosing a film, splitting a task, so that a larger one later finds you ready.
 
-About 1 pair of people in 9 has this trine, one way round or the other, within 5.1°. Neither planet moves much more than a degree in a day, so the hour rarely changes whether you have this trine; it does change where the trine lives, in the houses, and that takes both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+Venus and Mars form this trine across two charts, within 5.1°, for about 1 pair of people in 9, whichever person has Venus. Neither planet moves much more than a degree in a day, so the hour rarely changes whether you have this trine; it does change where the trine lives, in the houses, and that takes both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Someone whose own chart holds [Venus trine Mars](/astrology/venus-trine-mars/) wants and acts in agreement. Between two, the agreement is shared, and it keeps only if both keep checking it. If you came here hoping it settles a question about someone, ask them instead; I read a synastry only when both people want it ([synastry and consent](/blog/synastry-behind-their-back/)).

@@ -45,7 +45,7 @@ L’orbite de Chiron est étirée, si bien que ses séjours varient en général
 
 Votre heure de naissance place les deux cuspides de la maison 5 ; sans elle, je ne peux pas dire quand cela commence, et je ne lis pas le thème ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Chiron vient ici de la maison du foyer et des racines ([Chiron en transit en maison 4](/astrology/chiron-transit-4th-house/)) et poursuit vers la maison du travail et des routines ([Chiron en transit en maison 6](/astrology/chiron-transit-6th-house/)).
 
-Une cuspide de maison 5 en Bélier a ce séjour avant avril 2027, Chiron étant en Bélier depuis avril 2018. Une cuspide en Taureau l’a entre juin 2026 et mai 2034 ; en Gémeaux, entre juillet 2033 et avril 2039 ; en Cancer, à partir de juillet 2038, Chiron s’y trouvant encore à la fin de mon décompte, en décembre 2039. Le degré de votre cuspide donne l’année.
+Une cuspide de maison 5 en Bélier a ce séjour avant avril 2027, Chiron étant en Bélier depuis avril 2018. Une cuspide en Taureau l’a entre juin 2026 et mai 2034 ; en Gémeaux, entre juillet 2033 et avril 2039 ; en Cancer, à partir de juillet 2038, Chiron s’y trouvant encore à la fin de mon décompte, en décembre 2039. Le degré de votre cuspide de maison 5 dit laquelle de ces années est la vôtre.
 
 ## Ce qui aide {#ce-qui-aide}
 

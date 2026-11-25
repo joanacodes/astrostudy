@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s distance from the Sun" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the full moon and the waning days after it" }
 ---
-Tradition gives Jupiter its exaltation in Cancer, and Jupiter rules Sagittarius: with this pair, the planet your Sun answers to is honoured in your Moon's sign. You were born just after a full moon, and the pair reads to me as a travelling life with a home port, a wide self that grows by looking after people.
+Tradition gives Jupiter its exaltation in Cancer, and Jupiter rules Sagittarius: with this pair, the planet your Sun answers to is honoured in your Moon's sign. At your birth the full moon had only just passed, and the pair reads to me as a travelling life with a home port, a wide self that grows by looking after people.
 
 ## How they get along {#how-they-get-along}
 

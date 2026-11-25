@@ -44,7 +44,7 @@ Chiron's orbit is stretched, so its stays usually vary a great deal, but the 5th
 
 Your birth time places both cusps of the 5th; without it I can't say when this begins, and I don't read the chart ([what changes without a birth time](/blog/unknown-birth-time/)). Chiron comes here from the house of home and roots ([Chiron transiting the 4th house](/astrology/chiron-transit-4th-house/)) and moves on to the house of work and daily routine ([Chiron transiting the 6th house](/astrology/chiron-transit-6th-house/)).
 
-A 5th cusp in Aries has this stay before April 2027, Chiron having been in Aries since April 2018. A cusp in Taurus has it between June 2026 and May 2034; in Gemini, between July 2033 and April 2039; in Cancer, from July 2038, with Chiron still there at the end of my count in December 2039. The degree on your cusp gives the year.
+A 5th cusp in Aries has this stay before April 2027, Chiron having been in Aries since April 2018. A cusp in Taurus has it between June 2026 and May 2034; in Gemini, between July 2033 and April 2039; in Cancer, from July 2038, with Chiron still there at the end of my count in December 2039. Which of those years is yours depends on the degree of your 5th cusp.
 
 ## What helps {#what-helps}
 

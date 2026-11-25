@@ -40,7 +40,7 @@ The Moon is the most personal point Neptune can reach, and the hardest to date. 
 
 Neptune's core need is contact without losing the line between yourself and others, and that's the work here: knowing whose feeling you're carrying. The natal [Moon conjunct Neptune](/astrology/moon-conjunct-neptune/) describes this porousness as a lifelong trait; as a transit, it comes for a few years and then thins. If the tenderness turns into a low mood that settles in, or a worry that won't let go, see a doctor or a therapist: a transit describes a climate, never an illness ([Astrology and mental health](/astrology/astrology-and-mental-health/)).
 
-Your Moon's degree is the part of this transit that most needs the birth time. In a single day the Moon covers about 13°, so without the time its degree could be anywhere within that span, and Neptune's arrival anywhere within about six years. The house matters too: with your Moon in the 4th, it's home and family where the softening is felt first ([Neptune transiting the 4th house](/astrology/neptune-transit-4th-house/)). No birth time, no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
+Your Moon's degree is the part of this transit that most needs the birth time. In a single day the Moon covers about 13°, so without the time its degree could be anywhere within that span, and Neptune's arrival anywhere within about six years. The house matters too: with your Moon in the 4th, it's home and family where the softening is felt first ([Neptune transiting the 4th house](/astrology/neptune-transit-4th-house/)). I give no reading without your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

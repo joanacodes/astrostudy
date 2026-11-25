@@ -61,7 +61,7 @@ Chaque année, Uranus avance d’environ quatre degrés, puis passe environ 150 
 - **2031-2032 :** de 27°15′ à 23°11′.
 - **2032-2033 :** de 1°39′ Cancer à 27°35′ Gémeaux.
 
-Une planète natale en Gémeaux est rencontrée autour de la boucle qui couvre son degré, pendant environ vingt mois avec les orbes que j’utilise ([transits](/astrology/transits/)). La maison qui contient les Gémeaux reçoit Uranus pendant tout le séjour ; [Uranus en transit en maison 10](/astrology/uranus-transit-10th-house/) montre à quoi cela peut ressembler. Les Gémeaux ont pour maître [Mercure](/astrology/mercury/), et la place de Mercure dans votre thème natal montre où se jouent les affaires de cette maison ([maîtres des maisons](/astrology/house-rulers/)). Les deux demandent votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Une planète natale en Gémeaux est rencontrée autour de la boucle qui couvre son degré, pendant environ vingt mois avec les orbes que j’utilise ([transits](/astrology/transits/)). La maison qui contient les Gémeaux reçoit Uranus pendant tout le séjour ; [Uranus en transit en maison 10](/astrology/uranus-transit-10th-house/) montre à quoi cela peut ressembler. Les Gémeaux ont pour maître [Mercure](/astrology/mercury/), et la place de Mercure dans votre thème natal montre où se jouent les affaires de cette maison ([maîtres des maisons](/astrology/house-rulers/)). Ni l’une ni l’autre ne se calcule sans votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Trois groupes rencontrent aussi ce transit par leur propre Uranus, à un âge que fixe le cycle :
 

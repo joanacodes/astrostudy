@@ -41,7 +41,7 @@ Easy doesn't mean automatic, and a current still needs someone to steer in it. T
 
 ## In a birth chart {#in-a-birth-chart}
 
-Most often Mars and Lilith sit in signs of one element, with one temperament between them. In water signs, the independence tends to be quiet and guarded, moving by feeling; in air signs, it lives in ideas and in the freedom to change your mind; in fire, it is out in the open; in earth, it shows in what you build and refuse to rush. The houses show where it flows: Mars in the 9th trine Lilith in the 1st, say, could show as beliefs and journeys chosen entirely by you, carried in the way you meet the world. Houses need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Most often Mars and Lilith sit in signs of one element, with one temperament between them. In water signs, the independence tends to be quiet and guarded, moving by feeling; in air signs, it lives in ideas and in the freedom to change your mind; in fire, it is out in the open; in earth, it shows in what you build and refuse to rush. The houses show where it flows: Mars in the 9th trine Lilith in the 1st, say, could show as beliefs and journeys chosen entirely by you, carried in the way you meet the world. Placing Mars and Lilith in houses takes your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 About 1 person in 15 is born with Mars within 6° of a trine to mean Lilith. Within a degree or two, acting on instinct is close to automatic; nearer 6°, it's a freedom you reach for when a situation calls for it. True Lilith, which some software shows instead, can sit far from the mean, so another chart of yours may tell a different story ([which Lilith is mine?](/astrology/which-lilith-is-mine/)).
 

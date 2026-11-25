@@ -42,7 +42,7 @@ Flowing isn't the same as arriving. Development comes from repetition and feedba
 
 ## In a birth chart {#in-a-birth-chart}
 
-Mars and the North Node usually share an element, and the South Node sits in a compatible one. With the North Node in Virgo, turning intentions into practical daily habits, Mars in Taurus or Capricorn gives that growth patient, steady effort, and the South Node in Pisces, sextile Mars, keeps imagination available rather than in charge. The houses show where the road runs: Mars in the 5th trine the North Node in the 9th might put your growth into creative work that widens your horizons, through study or travel. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Mars and the North Node usually share an element, and the South Node sits in a compatible one. With the North Node in Virgo, turning intentions into practical daily habits, Mars in Taurus or Capricorn gives that growth patient, steady effort, and the South Node in Pisces, sextile Mars, keeps imagination available rather than in charge. The houses show where the road runs: Mars in the 5th trine the North Node in the 9th might put your growth into creative work that widens your horizons, through study or travel. To trace that road through the houses, your birth time is needed ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 About 1 person in 15 is born with this trine within 6°, using the true node; I compare it with the mean node as well ([mean node and true node](/astrology/mean-node-and-true-node/)). Mars moves far faster than the node, so your birth date, through Mars, mostly decides the aspect. Close to exact, effort and growth feel like one movement; nearer 6°, the road is there when you look for it.
 

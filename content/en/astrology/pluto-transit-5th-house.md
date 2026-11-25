@@ -32,11 +32,11 @@ Few people expect Pluto in the house of pleasure, and the pairing can surprise. 
 
 ## What changes {#what-changes}
 
-[Pluto](/astrology/pluto/) wants the real thing, all the way down. The [5th house](/astrology/5th-house/) is what you do for the love of it: play, romance, creative work, the pleasures that make a week worth living. Tradition called it Good Fortune and made it the joy of Venus. With Pluto passing through, pleasure tends to turn serious. A hobby can become a vocation; a creative project you'd kept small may demand to be made properly; flirtation loses its appeal next to something that matters. Questions of power can show up in love too: who sets the terms, who holds back, who needs whom. And what used to amuse you but no longer does may simply drop away, leaving room for joys with more weight to them.
+[Pluto](/astrology/pluto/) wants the real thing, all the way down. The [5th house](/astrology/5th-house/) is what you do for the love of it: play, romance, creative work, the pleasures that make a week worth living. Its old name was Good Fortune, and Venus had its joy there. With Pluto passing through, pleasure tends to turn serious. A hobby can become a vocation; a creative project you'd kept small may demand to be made properly; flirtation loses its appeal next to something that matters. Questions of power can show up in love too: who sets the terms, who holds back, who needs whom. And what used to amuse you but no longer does may simply drop away, leaving room for joys with more weight to them.
 
 A natal Venus in the 5th is met at some point in the stay, and asked to love without keeping score.
 
-Tradition also gave the 5th children. I don't read pregnancy or births in any chart ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and this site never reads a child's chart ([children's charts](/astrology/childrens-charts/)). Where your life includes children, the transit describes your side of it, the way you play and give, and nothing about them. A [transit](/astrology/transits/) like this one colours how you enjoy and create; it doesn't schedule events.
+Tradition linked the 5th with children as well. I read no chart for pregnancy or births ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and no child's chart is ever read on this site ([children's charts](/astrology/childrens-charts/)). Where your life includes children, the transit describes your side of it, the way you play and give, and nothing about them. A [transit](/astrology/transits/) like this one colours how you enjoy and create; it doesn't schedule events.
 
 ## How long it lasts {#how-long-it-lasts}
 

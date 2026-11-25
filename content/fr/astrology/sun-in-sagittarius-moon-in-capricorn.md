@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’avance de la Lune sur le Soleil" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "la nouvelle lune et les jours qui la suivent" }
 ---
-Votre Lune avait déjà atteint le Capricorne, le signe où entre le Soleil au solstice de décembre, pendant que votre Soleil était encore en Sagittaire. Votre naissance a eu lieu dans les premiers jours d’un mois lunaire. J’y vois une vision qui a besoin d’un échafaudage avant de se sentir en sécurité, et un regard lointain des deux côtés.
+Votre Lune avait déjà atteint le Capricorne, le signe où entre le Soleil au solstice de décembre, pendant que votre Soleil était encore en Sagittaire. Un mois lunaire en était à ses premiers jours à votre naissance. J’y vois une vision qui a besoin d’un échafaudage avant de se sentir en sécurité, et un regard lointain des deux côtés.
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 
@@ -41,7 +41,7 @@ Les dignités pèsent du côté de la Lune. La tradition met la Lune en [exil](/
 
 Votre naissance a eu lieu au début d’un mois lunaire. La Lune avait dépassé le Soleil de 60° au plus, cinq jours environ après la nouvelle lune, et si on la voyait, c’était un mince croissant bas à l’ouest au crépuscule. Dans le compte en huit phases, la [nouvelle lune](/astrology/new-moon/) prend sept de ces naissances sur huit, le [premier croissant](/astrology/waxing-crescent/) les autres ; tout au bout de l’intervalle, les luminaires forment un [Soleil sextile Lune](/astrology/sun-sextile-moon/) croissant. Je lis une naissance de nouvelle lune comme un but et un besoin encore proches, et celle-ci comme un besoin de structure qui part en même temps que la vision ; [votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) explique les phases.
 
-Environ 1 personne sur 148 a ce duo. Si la Lune est entrée en Capricorne, ou l’a quitté pour le Verseau, le jour de votre anniversaire, l’heure choisit entre cette page, le [Soleil en Sagittaire, Lune en Sagittaire](/astrology/sun-in-sagittarius-moon-in-sagittarius/) et le [Soleil en Sagittaire, Lune en Verseau](/astrology/sun-in-sagittarius-moon-in-aquarius/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)). Pour une naissance autour du 21 décembre, la même heure peut aussi dire si votre Soleil est encore en Sagittaire. La maison de Saturne et l’ascendant la demandent aussi.
+Sur 148 personnes, environ 1 a le Soleil en Sagittaire et la Lune en Capricorne. Si la Lune est entrée en Capricorne, ou l’a quitté pour le Verseau, le jour de votre anniversaire, l’heure choisit entre cette page, le [Soleil en Sagittaire, Lune en Sagittaire](/astrology/sun-in-sagittarius-moon-in-sagittarius/) et le [Soleil en Sagittaire, Lune en Verseau](/astrology/sun-in-sagittarius-moon-in-aquarius/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)). Pour une naissance autour du 21 décembre, la même heure peut aussi dire si votre Soleil est encore en Sagittaire. La maison de Saturne et l’ascendant la demandent aussi.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

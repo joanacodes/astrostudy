@@ -59,6 +59,6 @@ D’autres angles donnent au goût et à l’élan un autre arrangement :
 
 Invitez au lieu de suggérer à demi-mot. La personne de Vénus peut dire clairement ce qui lui plairait ; celle de Mars peut proposer au lieu d’attendre une permission ; et chacune peut échanger les rôles de temps en temps, pour que les deux choisissent et que les deux lancent. Exprimez vos désaccords quand il y en a, parce que ce contact permet facilement de les sauter.
 
-Environ 1 paire de personnes sur 13 a ce sextile, dans un sens ou dans l’autre, à 3,6° près. L’orbe est étroit, mais Vénus ne parcourt qu’environ un degré par jour et Mars moins : l’heure de naissance ne décide du contact qu’à l’extrême bord. Elle décide toujours des maisons, qui demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Je trouve ce sextile entre une Vénus et un Mars chez environ 1 paire de personnes sur 13, en comptant les deux sens, avec un orbe de 3,6°. L’orbe est étroit, mais Vénus ne parcourt qu’environ un degré par jour et Mars moins : l’heure de naissance ne décide du contact qu’à l’extrême bord. Elle décide toujours des maisons, qui demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Quand son propre thème contient [Vénus sextile Mars](/astrology/venus-sextile-mars/), une personne a le don du premier pas bienvenu. Entre deux personnes, ce don est coupé en deux, et ne marche que si les deux moitiés se présentent.

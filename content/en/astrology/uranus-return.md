@@ -55,7 +55,7 @@ Other long cycles tend to gather around it. Jupiter's seventh return comes betwe
 
 In my readings Uranus stands for difference: the part of you that won't fit a pattern just because the pattern is there, and the freedom to reorganise what has stopped working. Its return brings that function back to the place your chart first gave it. I read it as a late review of how that freedom has been used: where you went your own way, where you didn't, and what still feels yours to change. The system I built for my readings also names a blind spot that suits this season well: underestimating the value of continuity. At 84, what has lasted deserves as much attention as what could still change.
 
-Natal Uranus's house says where in your life that review sits, and the house needs the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). [My notebook](/blog/i-tested-my-birth-chart/) checked natal Uranus with every other placement, and it wasn't among the three that held far more often, so I read its return as one theme among several, beside the [solar return](/astrology/solar-return/) of the same year and the other transits. It is weather, not a forecast.
+Natal Uranus's house says where in your life that review sits, and the house needs the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). [My notebook](/blog/i-tested-my-birth-chart/) checked natal Uranus with every other placement, and it wasn't among the three that held far more often, so I read its return as one theme among several, beside the [solar return](/astrology/solar-return/) of the same year and the other transits. This return describes a climate, not events to come.
 
 ## Common myths {#myths}
 

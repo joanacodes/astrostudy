@@ -48,7 +48,7 @@ On one degree, two needs can run together: the Moon person's need to feel settle
 
 Decide together what doesn't move. A shared meal, a weekly call, a room nobody rearranges without asking: a few anchors let the rest move freely. The Uranus person can give notice before big changes; the Moon person can ask themselves, from time to time, whether a new habit is one they chose or one they caught. In a couple or a family, that means changes discussed rather than announced; between colleagues, experiments with a clear way back.
 
-About 1 pair of people in 12 has this conjunction, one way round or the other, within 8°. With roughly seven years to a sign, the Uranus person's Uranus is close to a generational signature; it becomes part of this pair only because the other person's Moon happens to land on it. That Moon travels about 13° a day, which makes both birth times decisive for the conjunction, and for the houses that show where it touches each life ([what changes without a birth time](/blog/unknown-birth-time/)).
+One person's Moon and the other's Uranus make this conjunction, no more than 8° apart and either way round, in about 1 pair of people in 12. With roughly seven years to a sign, the Uranus person's Uranus is close to a generational signature; it becomes part of this pair only because the other person's Moon happens to land on it. That Moon travels about 13° a day, which makes both birth times decisive for the conjunction, and for the houses that show where it touches each life ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Further round the circle, the same two needs meet differently:
 

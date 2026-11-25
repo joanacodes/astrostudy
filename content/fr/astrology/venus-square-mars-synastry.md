@@ -39,7 +39,7 @@ Les astrologues décrivent souvent Vénus carré Mars en synastrie comme une att
 
 Ce que ce frottement rend possible, c’est une vraie négociation. Rien ne tourne en pilote automatique : la personne de Mars apprend que pousser plus fort n’est pas convaincre, et celle de Vénus que préserver la paix n’est pas obtenir ce qui compte pour elle. L’affirmation rencontre l’équité, et les deux en sortent plus habiles. La friction garde aussi les choses vivantes : il reste toujours quelque chose à régler.
 
-Les carrés relient le plus souvent des signes du même mode. Vénus de l’une en Vierge, Mars de l’autre en Sagittaire, deux signes mutables : un goût exigeant pour le travail bien fait rencontre un élan audacieux qui saute sur la grande idée. L’une veut commencer ; l’autre, bien faire.
+Quand Vénus et Mars sont en carré, leurs signes appartiennent le plus souvent au même mode. Vénus de l’une en Vierge, Mars de l’autre en Sagittaire, deux signes mutables : un goût exigeant pour le travail bien fait rencontre un élan audacieux qui saute sur la grande idée. L’une veut commencer ; l’autre, bien faire.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

@@ -41,7 +41,7 @@ Le Bélier est aussi le signe où le zodiaque recommence, après les Poissons :
 
 Neptune était en Bélier pour la dernière fois d’avril 1861 à avril 1875 : aucune personne en vie aujourd’hui n’est née sous ce ciel avant maintenant. Les personnes qui ont ce placement sont les bébés de 2025 et 2026, et toutes celles qui naîtront jusqu’en 2039. Les mois de frontière sont partagés : jusqu’en janvier 2026 avec [Neptune en Poissons](/astrology/neptune-in-pisces/), et à partir de mai 2038 avec [Neptune en Taureau](/astrology/neptune-in-taurus/).
 
-Je ne lis pas le [thème des enfants](/astrology/childrens-charts/). Je décris donc Neptune en Bélier comme le signe d’une génération, le rêve qui flotte dans l’air de ces années, et je laisse la maison de chaque personne, la part qui en fait la sienne, pour le jour où elle sera en âge de demander.
+Je laisse le [thème des enfants](/astrology/childrens-charts/) hors de mes lectures. Je décris donc Neptune en Bélier comme le signe d’une génération, le rêve qui flotte dans l’air de ces années, et je laisse la maison de chaque personne, la part qui en fait la sienne, pour le jour où elle sera en âge de demander.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

@@ -56,6 +56,6 @@ Ease also invites drift. Plans stay in the enjoyable talking stage; the Jupiter 
 
 Keep praise specific and feedback honest; a trine can carry a hard truth more easily than most contacts can. Choose together what to grow, rather than growing whatever is nearest, and let each of you say no now and then without it costing the warmth.
 
-About 1 pair of people in 9 has this trine, one way round or the other, within 5.1°. Jupiter moves only a fraction of a degree in a day and Venus about one, so the hour of birth barely affects the trine; the houses, where in each life this goodwill shows, depend on both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+Venus–Jupiter trines within 5.1°, counted in both directions, link roughly 1 pair of people in 9. Jupiter moves only a fraction of a degree in a day and Venus about one, so the hour of birth barely affects the trine; the houses, where in each life this goodwill shows, depend on both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 A single chart with [Venus trine Jupiter](/astrology/venus-trine-jupiter/) carries this warmth for one person. Between two, it is shared, and a contact this pleasant tempts people to look it up about someone else; I'd rather read it with both of you ([synastry and consent](/blog/synastry-behind-their-back/)).

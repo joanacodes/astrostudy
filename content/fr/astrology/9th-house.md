@@ -40,10 +40,10 @@ La maison 9 est l’horizon lointain d’un thème. Là où la maison 3 couvre l
 
 Je lis la maison 9 comme la maison du sens : ce que vous croyez, d’où vous vient cette conviction, et jusqu’où vous irez — en kilomètres ou en pensée — pour comprendre davantage. Les voyages à l’étranger, les autres cultures, l’université et les longues études, la philosophie, la foi, l’enseignement et l’édition vivent ici. Le moment aussi où vous cessez de répéter ce qu’on vous a appris pour y réfléchir vraiment.
 
-- **Une maison cadente.** Elle suit une maison succédente, et les maisons cadentes se lisent comme des lieux d’ajustement, d’apprentissage et de transmission : la maison 9 prend ce que la maison 8 a traversé et cherche ce que cela veut dire. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
+- **Une maison cadente.** Elle suit une maison succédente, et les maisons cadentes se lisent comme des lieux d’ajustement, d’apprentissage et de transmission : la maison 9 prend ce que la maison 8 a traversé et cherche ce que cela veut dire. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) distingue les trois familles, y compris celle à laquelle appartient la maison 9.
 - **Son signe et sa planète naturels.** Le [Sagittaire](/astrology/sagittarius/) et [Jupiter](/astrology/jupiter/) : la quête, et la planète de la croissance.
 - **Le Dieu.** La tradition lui donnait ce nom et disait que le [Soleil](/astrology/sun/) s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)) : la lumière du thème, chez elle dans la maison de la foi et des horizons lointains.
-- **Son opposée.** La [maison 3](/astrology/3rd-house/), que la tradition appelait la Déesse, où la Lune a sa joie. La maison 3, c’est le proche — les petits trajets, les premières leçons, le quartier — et la maison 9, le lointain : les longs voyages, les études supérieures, les grandes questions.
+- **Son opposée.** La [maison 3](/astrology/3rd-house/), que la tradition appelait la Déesse, où la Lune a sa joie. Là où la maison 9 va loin, vers les longs voyages, les études supérieures et les grandes questions, la maison 3 reste proche, avec les petits trajets, les premières leçons et le quartier.
 
 Une maison se lit avec ses voisines. La [maison 8](/astrology/8th-house/), juste avant, c’est ce que vous avez traversé avec les autres ; la maison 9, l’endroit où vous cherchez ce que cela voulait dire. La [maison 10](/astrology/10th-house/), juste après, est l’endroit où ce que vous croyez devient ce que vous faites en public.
 
@@ -53,7 +53,7 @@ Comme toutes les maisons, la maison 9 dépend de votre heure de naissance : san
 
 Une planète en maison 9 a tendance à partir en quête : de lieux, d’idées, de guides, d’une raison.
 
-Saturne, Chiron et Lilith sont là où je ralentis : dans [mon carnet](/blog/i-tested-my-birth-chart/), ils ont tenu 75 à 90 % du temps, contre environ une fois sur trois pour la plupart des placements. Avec Saturne, [Chiron en maison 9](/astrology/chiron-in-9th-house/) ou [Lilith en maison 9](/astrology/lilith-in-9th-house/) ici, une de mes lectures demanderait ce qu’on vous a appris à croire, et ce que vous avez dû trouver par vous-même.
+Quand Saturne, Chiron ou Lilith apparaît, je ralentis : dans [mon carnet](/blog/i-tested-my-birth-chart/), ces trois-là ont tenu 75 à 90 % du temps, contre environ une fois sur trois pour la plupart des placements. Avec Saturne, [Chiron en maison 9](/astrology/chiron-in-9th-house/) ou [Lilith en maison 9](/astrology/lilith-in-9th-house/) ici, une de mes lectures demanderait ce qu’on vous a appris à croire, et ce que vous avez dû trouver par vous-même.
 
 - **[Soleil en maison 9](/astrology/sun-in-9th-house/) :** dans sa joie : les voyages, les études et les convictions vous font grandir, et vous finissez souvent par enseigner ce que vous avez trouvé.
 - **[Lune en maison 9](/astrology/moon-in-9th-house/) :** chez vous dans l’inconnu ; vous vous sentez peut-être le plus vous-même loin de votre point de départ.
@@ -66,7 +66,7 @@ Saturne, Chiron et Lilith sont là où je ralentis : dans [mon carnet](/blog/i-
 - **[Neptune en maison 9](/astrology/neptune-in-9th-house/) :** une soif spirituelle et une foi vaste, presque mystique — et le besoin de vérifier vos sources.
 - **[Pluton en maison 9](/astrology/pluto-in-9th-house/) :** des convictions qui vous transforment ; le besoin d’aller au fond des choses, et peu de patience pour les réponses faciles.
 
-Pas de planète ici ? Une [maison 9 vide](/astrology/empty-houses/) ne veut pas dire une vie sans voyages ni convictions. Elle se lit par le signe sur sa cuspide et par la place de son maître, les deux sections suivantes.
+Pas de planète ici ? Une [maison 9 vide](/astrology/empty-houses/) ne veut pas dire une vie sans voyages ni convictions. Deux choses la lisent, chacune dans une section ci-dessous : le signe sur sa cuspide et la place de son maître.
 
 ## Le signe sur sa cuspide {#signe-sur-la-cuspide}
 
@@ -87,7 +87,7 @@ Le signe sur la cuspide de la maison 9 donne le style de votre quête : votre f
 
 ## Son maître {#maitre}
 
-Le maître de la maison 9 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se joue votre quête de sens : le domaine de vie qui nourrit vos convictions, ou celui où vous les mettez à l’œuvre. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 9 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se joue votre quête de sens : le domaine de vie qui nourrit vos convictions, ou celui où vous les mettez à l’œuvre. Pour une cuspide de maison 9 en Scorpion, en Verseau ou en Poissons, il y a deux maîtres, le moderne et le traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/9th-house-ruler-in-1st-house/) :** vos convictions se voient dans qui vous êtes ; le goût du voyage, de l’étude ou de l’enseignement fait partie de vous.
 2. **[En maison II](/astrology/9th-house-ruler-in-2nd-house/) :** ce que vous savez devient votre gagne-pain ; des valeurs façonnées par vos convictions.

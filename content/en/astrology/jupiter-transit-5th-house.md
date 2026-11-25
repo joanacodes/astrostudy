@@ -38,7 +38,7 @@ The old books would have called it a doubly kind season, since the house is Good
 
 Each planet already in your 5th gets a few weeks of extra light as Jupiter passes; a natal Sun there, the house's natural ruler, can make that pass feel like being seen at last.
 
-Tradition gave the 5th children too. A transit can't tell anyone whether or when they'll have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I don't read [children's charts](/astrology/childrens-charts/): what I read in your 5th is your own pleasure and creativity, as an adult. This [transit](/astrology/transits/), like any other, adds nothing to your chart: it brings out the pleasure and creativity already written there.
+In the tradition, children were a 5th house matter as well. A transit can't tell anyone whether or when they'll have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I don't read [children's charts](/astrology/childrens-charts/): what I read in your 5th is your own pleasure and creativity, as an adult. This [transit](/astrology/transits/), like any other, adds nothing to your chart: it brings out the pleasure and creativity already written there.
 
 ## How long it lasts {#how-long-it-lasts}
 

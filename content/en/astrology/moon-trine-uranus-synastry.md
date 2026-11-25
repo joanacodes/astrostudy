@@ -48,7 +48,7 @@ When change costs so little, the need for continuity can go unsaid. The Moon per
 
 Use the ease deliberately. Pick the change you've both been postponing and make it while it's easy; then pick one thing that stays the same, a ritual, a place, a weekly hour, and protect it. The Moon person can speak up when they need stillness; the Uranus person can say thank you for the room. Friends can turn spontaneity into a tradition; colleagues can lead a change together.
 
-About 1 pair of people in 7 has this trine, one way round or the other, within 6.8°. Uranus moved so slowly around the Uranus person's birth, about seven years a sign, that its side of the trine is a generation's inheritance; the Moon's side is a date and an hour, and it's the Moon that turns the trine from a backdrop into an encounter. Both birth times decide it, then: a Moon covering roughly 13° a day can cross the orb within hours, and only the times place the trine in each person's houses ([what changes without a birth time](/blog/unknown-birth-time/)).
+This trine, the Moon in either chart and Uranus in the other, comes within 6.8° for about 1 pair of people in 7. Uranus moved so slowly around the Uranus person's birth, about seven years a sign, that its side of the trine is a generation's inheritance; the Moon's side is a date and an hour, and it's the Moon that turns the trine from a backdrop into an encounter. Both birth times decide it, then: a Moon covering roughly 13° a day can cross the orb within hours, and only the times place the trine in each person's houses ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Other angles make the same two needs work harder:
 

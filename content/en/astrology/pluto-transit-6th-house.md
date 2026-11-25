@@ -36,7 +36,7 @@ Most of a life happens on ordinary weekdays, and the 6th house is where those da
 
 A natal Mars in the 6th, the house where tradition says Mars rejoices, is met along the way and asked to work with more strategy and less strain.
 
-Tradition called the 6th Bad Fortune and gave it illness. I don't read illness or health in any chart ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)), and nothing in this transit forecasts a diagnosis. A [transit](/astrology/transits/) shows a season in your habits and your work, the part of the 6th that is in your hands.
+To the tradition, the 6th was Bad Fortune, and illness fell to it. I don't read illness or health in any chart ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)), and nothing in this transit forecasts a diagnosis. A [transit](/astrology/transits/) shows a season in your habits and your work, the part of the 6th that is in your hands.
 
 ## How long it lasts {#how-long-it-lasts}
 

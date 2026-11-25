@@ -37,7 +37,7 @@ Some Suns have to be coaxed into play. In the 5th house, play is where the Sun g
 
 Read in Placidus, the house system I use, the placement describes an evening birth, with the Sun well below the western horizon. These are solar hours, not clock ones, and the house can be narrow or wide, so the reading depends on an exact [birth time](/blog/unknown-birth-time/).
 
-Tradition gave the 5th house children too. I don't read a chart for whether or when you'll have them, and no placement can say ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)); nor does this site read [children's charts](/astrology/childrens-charts/). In an adult's life I read the 5th as what you create and enjoy, whatever form that takes.
+Children were part of the 5th house in the tradition as well. I don't read a chart for whether or when you'll have them, and no placement can say ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)); nor does this site read [children's charts](/astrology/childrens-charts/). In an adult's life I read the 5th as what you create and enjoy, whatever form that takes.
 
 Across the chart lies the 11th house, friends and shared hopes. A 5th-house Sun shines in the first person, one creation, one romance, one game at a time, and the 11th is a reminder that joy also grows when it's shared with a group.
 

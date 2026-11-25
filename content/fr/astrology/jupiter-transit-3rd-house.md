@@ -33,7 +33,7 @@ L’année de Jupiter dans votre maison 3 ramène la croissance à l’échelle 
 
 ## Ce qui change {#ce-qui-change}
 
-[Jupiter](/astrology/jupiter/) fait la synthèse : cette planète prend l’expérience et lui donne un sens. La [maison 3](/astrology/3rd-house/) est l’endroit où l’information va et vient, dans les conversations, les lectures, les petits trajets et les premiers apprentissages, et où vous rencontrez les gens tout proches, fratrie et voisinage compris. La tradition l’appelait la Déesse, la maison où la Lune se réjouit. L’année de Jupiter à cet endroit est une année d’appétit pour le monde proche : la formation que vous suivez enfin, un sujet qui vous rappelle sans cesse, une conversation qui change votre regard sur ce que vous pensiez connaître.
+[Jupiter](/astrology/jupiter/) fait la synthèse : cette planète prend l’expérience et lui donne un sens. La [maison 3](/astrology/3rd-house/) est l’endroit où l’information va et vient, dans les conversations, les lectures, les petits trajets et les premiers apprentissages, et où vous rencontrez les gens tout proches, fratrie et voisinage compris. Dans la tradition, c’était la Déesse, la maison de la joie de la Lune. L’année de Jupiter à cet endroit est une année d’appétit pour le monde proche : la formation que vous suivez enfin, un sujet qui vous rappelle sans cesse, une conversation qui change votre regard sur ce que vous pensiez connaître.
 
 Une tension est inscrite là-dedans, et elle sert. Jupiter aime le tableau d’ensemble ; la maison 3 travaille par morceaux, nombreux et rapides. L’année peut donc vous disperser entre dix centres d’intérêt, ou devenir celle où les dix se révèlent n’en faire qu’un. Ce qu’elle demande, c’est de laisser l’information devenir compréhension.
 

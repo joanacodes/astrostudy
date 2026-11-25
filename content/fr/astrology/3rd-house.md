@@ -40,7 +40,7 @@ La maison 3 est celle de l’esprit au quotidien : votre façon de penser, de p
 
 Je lis la maison 3 comme la circulation de la vie de tous les jours : les messages, les conversations, les courses, ce que vous lisez en chemin, et la façon dont votre esprit traverse une journée ordinaire. Elle couvre aussi les personnes que vous n’avez pas choisies mais à côté desquelles vous avez grandi — frères et sœurs, cousins, voisins — et les premiers apprentissages, avant que quiconque vous demande ce que vous vouliez étudier. Quand elle touche à la famille, elle décrit la façon dont vous avez vécu ces liens, pas qui sont les autres.
 
-- **Une maison cadente.** Elle suit une maison succédente, et les maisons cadentes se lisent comme des lieux d’ajustement, d’apprentissage et de transmission : la maison 3 prend ce que la maison 2 a rassemblé et le met en circulation. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
+- **Une maison cadente.** Elle suit une maison succédente, et les maisons cadentes se lisent comme des lieux d’ajustement, d’apprentissage et de transmission : la maison 3 prend ce que la maison 2 a rassemblé et le met en circulation. Ce qui distingue la famille cadente des deux autres se trouve sur la page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/).
 - **Son signe et sa planète naturels.** Les [Gémeaux](/astrology/gemini/) et [Mercure](/astrology/mercury/) : la curiosité, les mots, le mouvement.
 - **La Déesse.** La tradition lui donnait ce nom et disait que la [Lune](/astrology/moon/) s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)) : le plus rapide des deux luminaires, à son aise parmi les allées et venues de chaque jour.
 - **Son opposée.** La [maison 9](/astrology/9th-house/), que la tradition appelait le Dieu, où le Soleil a sa joie. La maison 3, c’est le proche — les petits trajets, les premières leçons, le quartier — et la maison 9, le lointain : les longs voyages, les études supérieures, les grandes questions.
@@ -53,7 +53,7 @@ Comme toutes les maisons, la maison 3 dépend de votre heure de naissance. Sans 
 
 Une planète en maison 3 se voit dans votre façon de parler, d’apprendre et de vous déplacer, et souvent dans ce que vous avez vécu avec vos frères et sœurs ou vos voisins.
 
-Saturne, Chiron et Lilith sont les trois que je lis le plus lentement : dans [mon carnet](/blog/i-tested-my-birth-chart/), ils ont tenu 75 à 90 % du temps, contre environ une fois sur trois pour la plupart des placements. Avec Saturne, [Chiron en maison 3](/astrology/chiron-in-3rd-house/) ou [Lilith en maison 3](/astrology/lilith-in-3rd-house/) dans votre thème, une lecture va le plus souvent vers une question : vos mots ont-ils trouvé une oreille ?
+Je lis Saturne, Chiron et Lilith plus lentement que tout le reste, car dans [mon carnet](/blog/i-tested-my-birth-chart/), ils ont tenu 75 à 90 % du temps, contre environ une fois sur trois pour la plupart des placements. Avec Saturne, [Chiron en maison 3](/astrology/chiron-in-3rd-house/) ou [Lilith en maison 3](/astrology/lilith-in-3rd-house/) dans votre thème, une lecture va le plus souvent vers une question : vos mots ont-ils trouvé une oreille ?
 
 - **[Soleil en maison 3](/astrology/sun-in-3rd-house/) :** les mots, l’apprentissage et vos proches sont votre scène.
 - **[Lune en maison 3](/astrology/moon-in-3rd-house/) :** dans sa joie : vous sentez les choses en les disant, et le train-train du quotidien vous apaise.
@@ -87,7 +87,7 @@ Le signe sur la cuspide de la maison 3 donne son style à votre esprit de tous l
 
 ## Son maître {#maitre}
 
-Le maître de la maison 3 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit à quoi servent votre pensée et votre parole : le domaine de vie que vos mots servent. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 3 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit à quoi servent votre pensée et votre parole : le domaine de vie que vos mots servent. Quand le Scorpion, le Verseau ou les Poissons occupent la cuspide de la maison 3, celle-ci a deux maîtres, un moderne et un traditionnel, et je lis l’un comme l’autre (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/3rd-house-ruler-in-1st-house/) :** votre façon de parler fait une grande part de qui vous êtes.
 2. **[En maison II](/astrology/3rd-house-ruler-in-2nd-house/) :** vos mots et vos compétences peuvent rapporter ; vous pensez beaucoup à la valeur des choses.

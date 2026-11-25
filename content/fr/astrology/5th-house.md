@@ -42,7 +42,7 @@ Je lis la maison 5 comme la part de la vie qu’on n’a pas à justifier. Elle 
 
 La tradition donnait les enfants à la maison 5, et certains astrologues les y cherchent encore. Pas moi. Aucun thème ne peut dire si ni quand quelqu’un aura un enfant (voir [L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis pas [le thème des enfants](/astrology/childrens-charts/) : un thème se lit pour la personne à qui il appartient, une fois majeure et d’accord pour qu’on le lise (voir [pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/#votre-enfant)). Ce que je lis dans la maison 5, c’est votre propre créativité et votre propre plaisir.
 
-- **Une maison succédente.** Elle suit un angle, et les maisons succédentes sont celles où les choses se posent et grandissent : la maison 5, c’est ce qui grandit une fois que vous vous sentez chez vous. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
+- **Une maison succédente.** Elle suit un angle, et les maisons succédentes sont celles où les choses se posent et grandissent : la maison 5, c’est ce qui grandit une fois que vous vous sentez chez vous. Pour la famille de la maison 5 et les deux autres, lisez la page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/).
 - **Son signe et sa planète naturels.** Le [Lion](/astrology/leo/) et le [Soleil](/astrology/sun/) : la chaleur, l’expression de soi, le plaisir d’attirer les regards.
 - **La Fortune favorable.** La tradition lui donnait ce nom et disait que [Vénus](/astrology/venus/) s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)) : la planète du plaisir, chez elle dans la maison du jeu.
 - **Son opposée.** La [maison 11](/astrology/11th-house/), les amis et les groupes, que la tradition appelait le Génie favorable, où Jupiter a sa joie : la maison 5, c’est ce que vous savourez pour vous et avec les personnes que vous aimez ; la maison 11, ce que vous partagez avec beaucoup.
@@ -55,7 +55,7 @@ En synastrie, les planètes d’une autre personne dans votre maison 5 se vivent
 
 Une planète en maison 5 se voit dans votre façon de jouer, de créer et d’aimer — et dans ce qui vous donne le plus le sentiment d’être vous-même.
 
-Saturne, Chiron et Lilith ont tenu 75 à 90 % du temps dans [mon carnet](/blog/i-tested-my-birth-chart/), contre environ une fois sur trois pour la plupart des placements. Si Saturne, [Chiron en maison 5](/astrology/chiron-in-5th-house/) ou [Lilith en maison 5](/astrology/lilith-in-5th-house/) se trouve ici, c’est sur la joie que je passerais le plus de temps dans une lecture — et souvent sur la permission de l’avoir.
+Saturne, Chiron et Lilith ont tenu 75 à 90 % du temps dans [mon carnet](/blog/i-tested-my-birth-chart/), là où la plupart des placements tenaient environ une fois sur trois. Si Saturne, [Chiron en maison 5](/astrology/chiron-in-5th-house/) ou [Lilith en maison 5](/astrology/lilith-in-5th-house/) se trouve ici, c’est sur la joie que je passerais le plus de temps dans une lecture — et souvent sur la permission de l’avoir.
 
 - **[Soleil en maison 5](/astrology/sun-in-5th-house/) :** la création, le jeu et l’amour vous allument ; vous rayonnez quand vous faites quelque chose à votre façon.
 - **[Lune en maison 5](/astrology/moon-in-5th-house/) :** il vous faut du jeu pour vous sentir en sécurité, et vos émotions passent dans ce que vous créez.
@@ -89,7 +89,7 @@ Le signe sur la cuspide de la maison 5 donne son style à vos plaisirs : votre 
 
 ## Son maître {#maitre}
 
-Le maître de la maison 5 est la planète qui gouverne le signe sur sa cuspide. Là où il se trouve, on voit où votre créativité et votre plaisir vont se jouer : le domaine de vie dans lequel votre joie se déverse. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 5 est la planète qui gouverne le signe sur sa cuspide. Là où il se trouve, on voit où votre créativité et votre plaisir vont se jouer : le domaine de vie dans lequel votre joie se déverse. Une cuspide de maison 5 en Scorpion, en Verseau ou en Poissons apporte deux maîtres, un moderne et un traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/5th-house-ruler-in-1st-house/) :** la créativité fait partie de qui vous êtes ; vous vous montrez à travers ce que vous créez.
 2. **[En maison II](/astrology/5th-house-ruler-in-2nd-house/) :** ce que vous créez peut rapporter ; le plaisir des belles choses.

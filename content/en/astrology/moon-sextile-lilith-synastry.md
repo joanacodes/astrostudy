@@ -60,6 +60,6 @@ The pair's other aspects change the terms of the invitation:
 
 Accept the invitation in small doses, one honest thing at a time: a preference stated plainly, a refusal that doesn't come with an apology, a need named early. Invite rather than dare. Grown siblings might keep one evening a month for saying things straight; a couple might agree that "I don't want to" is a full sentence between them.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. With an orb that small, a sextile present in a chart cast for the morning can be gone by evening, because the Moon travels some 13° in a day; mean Lilith, meanwhile, hardly moves. It's the two birth times that settle it, and the houses where it plays out come from them too ([what changes without a birth time](/blog/unknown-birth-time/)).
+One person's Moon sextile the other's Lilith, within 4.8°, turns up in about 1 pair of people in 10, counting both ways round. With an orb that small, a sextile present in a chart cast for the morning can be gone by evening, because the Moon travels some 13° in a day; mean Lilith, meanwhile, hardly moves. It's the two birth times that settle it, and the houses where it plays out come from them too ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Within one chart, [Moon sextile Lilith](/astrology/moon-sextile-lilith/) is one person whose comfort and untamed side already help each other along.

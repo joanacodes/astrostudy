@@ -54,7 +54,7 @@ Le signe d’Uranus est la part de ce contact que vous partagez avec une classe 
 
 Passez à l’acte sur une idée. La personne qui a le Soleil peut choisir une seule suggestion et lui donner un vrai essai, avec une date. Celle qui a Uranus peut dire quelles idées comptent vraiment pour elle, pour qu’elles ne paraissent pas toutes aussi légères. Un couple peut essayer une chose nouvelle à chaque saison ; des amis, un voyage ou un cours qu’aucune des deux personnes n’aurait réservé seule ; une famille, une tradition revue à la suggestion de quelqu’un de la famille ; des collègues, un petit essai plutôt qu’un long débat.
 
-Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. Les deux heures de naissance font partie de ce que je demande avant de commencer. L’heure peut compter tout au bord d’un orbe aussi étroit, une journée déplaçant le Soleil d’un degré à peu près ; elle compte toujours pour les maisons, qui montrent si les nouvelles possibilités s’ouvrent au travail, au foyer ou entre amis ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Ce sextile entre le Soleil et Uranus, à 4,8° près et dans un sens ou l’autre, se retrouve chez environ 1 paire de personnes sur 10. Les deux heures de naissance font partie de ce que je demande avant de commencer. L’heure peut compter tout au bord d’un orbe aussi étroit, une journée déplaçant le Soleil d’un degré à peu près ; elle compte toujours pour les maisons, qui montrent si les nouvelles possibilités s’ouvrent au travail, au foyer ou entre amis ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Les autres angles des deux mêmes corps :
 

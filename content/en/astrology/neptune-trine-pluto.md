@@ -35,7 +35,7 @@ Neptune trine Pluto is the comfortable angle between the two slowest planets, an
 
 ## What it means {#what-it-means}
 
-[Neptune](/astrology/neptune/) is where a chart dreams and sympathises: it pictures something larger, feels what others feel, and lets rigid edges soften. [Pluto](/astrology/pluto/) is where it renews itself from the depths: what has served its time is let go, and what remains comes back stronger. A [trine](/astrology/trine/) relates them through flow, each reinforcing the other while staying itself.
+[Neptune](/astrology/neptune/) is where a chart dreams and sympathises: it pictures something larger, feels what others feel, and lets rigid edges soften. [Pluto](/astrology/pluto/) is where it renews itself from the depths: what has served its time is let go, and what remains comes back stronger. Through a [trine](/astrology/trine/), the two functions flow together: each strengthens the other and stays what it is.
 
 In plain words, change would come through inspiration rather than crisis, and inspiration would have roots. A vision would quietly prepare the ground for real renewal; a deep change would arrive already carrying a meaning. The trine's gift is that this happens without a fight. Its risk, for this pair especially, is that it happens without notice: a transformation so natural that you never stop to see how far you've come, or ideals held so easily that nobody tests them. Ease isn't idleness. I'd read it as a current you can choose to swim with.
 

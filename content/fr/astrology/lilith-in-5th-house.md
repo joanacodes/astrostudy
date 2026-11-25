@@ -39,7 +39,7 @@ Le Lion est le signe naturel de la maison 5. Cette maison succédente suit la ma
 
 Cette Lilith refuse de prendre du plaisir de la façon approuvée. Elle ne rendra pas son art aimable, son amusement respectable ni son amour conventionnel simplement pour y avoir droit. Ici, la limite protège le jeu : un temps libre qui reste libre, un travail fait pour lui-même, un amour choisi plutôt qu’arrangé.
 
-La tradition donnait aussi les enfants à la maison 5. Je ne les y lis pas : un thème est incapable de dire si un enfant viendra, ni quand ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis jamais [le thème des enfants](/astrology/childrens-charts/). Ce que je lis en maison 5, c’est votre propre joie, une joie d’adulte.
+Les enfants appartenaient eux aussi à la maison 5 dans l’astrologie ancienne. Je ne les y lis pas : un thème est incapable de dire si un enfant viendra, ni quand ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis jamais [le thème des enfants](/astrology/childrens-charts/). Ce que je lis en maison 5, c’est votre propre joie, une joie d’adulte.
 
 Il vous faudra votre heure de naissance, comme pour toute maison ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)) ; je lis les maisons en Placidus. La maison d’avant, [Lilith en maison 4](/astrology/lilith-in-4th-house/), garde sa part cachée au foyer ; la maison d’après, [Lilith en maison 6](/astrology/lilith-in-6th-house/), dans la routine des jours. En maison 5, elle se cache dans les heures qui devaient être libres.
 

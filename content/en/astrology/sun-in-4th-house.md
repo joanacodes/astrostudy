@@ -33,7 +33,7 @@ With the Sun in the 4th house, the light is underneath. It was heading for the l
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 4th house](/astrology/4th-house/) is home, roots and family: where you come from, what you build in order to belong, and the private self underneath. Angular, opening at the [Imum Coeli](/astrology/imum-coeli/), the point opposite the Midheaven, it has Cancer for its natural sign. With the [Sun](/astrology/sun/) here, the function that organises identity, vitality and purpose works from the foundations. You may know who you are best at home, or in the place you're trying to make into one, and much of your sense of direction comes from understanding where you started.
+[The 4th house](/astrology/4th-house/) covers home, family and roots: your origins, what you make so that you belong, and, underneath, the person you are in private. Angular, opening at the [Imum Coeli](/astrology/imum-coeli/), the point opposite the Midheaven, it has Cancer for its natural sign. With the [Sun](/astrology/sun/) here, the function that organises identity, vitality and purpose works from the foundations. You may know who you are best at home, or in the place you're trying to make into one, and much of your sense of direction comes from understanding where you started.
 
 By the Sun's clock rather than yours, and in Placidus, the house system I use, this is a late-evening birth: the Sun was travelling towards the lowest point of its daily circle, before the middle of the night. Near the cusps a few minutes count, so your [birth time](/blog/unknown-birth-time/) has to be exact for this reading to stand.
 

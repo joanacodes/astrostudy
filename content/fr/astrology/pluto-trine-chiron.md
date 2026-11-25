@@ -46,7 +46,7 @@ Deux groupes portent ce trigone, environ 1 personne sur 28 née entre 1930 et 20
 
 Aucun des deux trigones n’était seul. Pendant toute l’année 1950, Neptune se trouvait entre Pluton et Chiron, en sextile aux deux ([Neptune sextile Pluton](/astrology/neptune-sextile-pluto/)) ; la plupart des mois de 1988–91, Chiron était aussi en opposition à Neptune ([Neptune opposition Chiron](/astrology/neptune-opposite-chiron/)) : pour ce groupe, ce trigone est le côté facile d’une figure plus large.
 
-Les maisons, en général distantes de quatre, le rendent personnel : Pluton en maison 3 avec Chiron en maison 7, par exemple, pourrait donner de la profondeur à votre façon de parler des choses difficiles avec un ou une partenaire. Elles dépendent de votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les maisons, en général distantes de quatre, le rendent personnel : Pluton en maison 3 avec Chiron en maison 7, par exemple, pourrait donner de la profondeur à votre façon de parler des choses difficiles avec un ou une partenaire. Pour les connaître, il faut savoir quand vous avez vu le jour ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Pluton et Chiron, sous leurs autres angles :
 

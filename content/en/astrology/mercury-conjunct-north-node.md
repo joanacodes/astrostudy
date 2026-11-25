@@ -42,7 +42,7 @@ The North Node never works alone. Exactly opposite sits the [South Node](/astrol
 
 ## In a birth chart {#in-a-birth-chart}
 
-The North Node spends about 18 months in each sign, moving backwards, so its sign is shared by everyone born over a year and a half or so; Mercury's position, and the house of the pair, make the conjunction personal. In the 3rd house, growth runs through everyday conversation and learning by asking; in the 9th, through study and bigger questions; in the 10th, through a public voice. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The North Node spends about 18 months in each sign, moving backwards, so its sign is shared by everyone born over a year and a half or so; Mercury's position, and the house of the pair, make the conjunction personal. In the 3rd house, growth runs through everyday conversation and learning by asking; in the 9th, through study and bigger questions; in the 10th, through a public voice. Knowing the pair's house takes a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 About 1 person in 42 is born with Mercury within 6° of the North Node, one of the rarer Mercury contacts in the count. I look at both the mean and the true node ([mean node and true node](/astrology/mean-node-and-true-node/)): they differ by a degree or two at most, so they usually agree, but near the edge of the orb one can show the conjunction and the other not, and then I say so. My notebook has no count for the nodes, and I won't invent one, so I offer this conjunction as a direction to test for yourself ([the invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
 

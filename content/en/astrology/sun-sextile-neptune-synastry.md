@@ -51,7 +51,7 @@ Neptune's sign is the same for nearly everyone born in a fourteen-year stretch, 
 
 Give one inspiration a concrete form: a date in the diary, a first draft, a visit booked. The Neptune person can say plainly what they hope for; the Sun person can ask "what did you mean by that?" instead of guessing. A couple might keep a small ritual that means something to both; friends, a series of concerts or a cause they volunteer for; a family, a tradition whose meaning gets said aloud; colleagues, one sentence on what the project is for, written where everyone can see it.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. With so narrow an orb, a contact near its edge can hang on the birth time, since a day moves the Sun only a degree or so; the houses, which place the inspiration in a particular part of each life, always do, and I wait for both times before reading them ([what changes without a birth time](/blog/unknown-birth-time/)).
+In about 1 pair of people in 10, one chart's Sun makes this sextile to the other's Neptune within 4.8°, in either direction. With so narrow an orb, a contact near its edge can hang on the birth time, since a day moves the Sun only a degree or so; the houses, which place the inspiration in a particular part of each life, always do, and I wait for both times before reading them ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Turn the angle and the contact changes:
 

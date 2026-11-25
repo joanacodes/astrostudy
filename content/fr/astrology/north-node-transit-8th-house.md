@@ -40,7 +40,7 @@ Le [Nœud Sud](/astrology/south-node/), dans votre maison 2, connaît bien l’h
 
 Le Scorpion, signe naturel de la maison 8, a deux maîtres, Mars, le traditionnel, et Pluton, le moderne, et je lis les deux : avec l’un ou l’autre dans votre maison 8 de naissance, les questions de contrôle et de confiance passent souvent au premier plan pendant ce passage du nœud.
 
-La tradition donnait à cette maison la mort et l’héritage. Un [transit](/astrology/transits/) ne prédit ni l’une ni l’autre ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)), et je ne lis pas non plus l’issue d’une dette, d’un legs ou d’un argent commun. Ce transit remue ce que votre thème contient déjà sur la proximité.
+La mort et l’héritage relevaient de cette maison dans la tradition. Un [transit](/astrology/transits/) ne prédit ni l’une ni l’autre ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)), et je ne lis pas non plus l’issue d’une dette, d’un legs ou d’un argent commun. Ce transit remue ce que votre thème contient déjà sur la proximité.
 
 ## Combien de temps {#combien-de-temps}
 

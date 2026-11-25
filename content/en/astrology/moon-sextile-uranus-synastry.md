@@ -46,7 +46,7 @@ The ease of a sextile is also its weak point: nothing forces the opening. The Ur
 
 Make experimenting a habit, which sounds like a contradiction and isn't. Pick a regular slot for something new: a recipe on Sundays, a different walk each month, one change to how a shared week runs. Let the Moon person choose the pace and the Uranus person the ideas, then swap. Friends can take turns choosing; a couple can try out a new tradition; colleagues can pilot a method on a small task before a large one.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. The Uranus person's Uranus is a group portrait, since Uranus lingers some seven years in each sign; the other's Moon is a single snapshot, and the sextile exists only where the two meet. That snapshot needs both birth times: with an orb under 5° and a Moon that covers some 13° in a day, a few hours either way decide it, and so do the houses, which place the sextile in each life ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)).
+Roughly 1 pair of people in 10 shares this Moon–Uranus sextile, within 4.8°, whichever of the two has the Moon. The Uranus person's Uranus is a group portrait, since Uranus lingers some seven years in each sign; the other's Moon is a single snapshot, and the sextile exists only where the two meet. That snapshot needs both birth times: with an orb under 5° and a Moon that covers some 13° in a day, a few hours either way decide it, and so do the houses, which place the sextile in each life ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)).
 
 Turn the angle, and change arrives differently:
 

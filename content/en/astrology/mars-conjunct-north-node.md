@@ -42,7 +42,7 @@ What it adds, once practised, is a particular confidence: knowing that you can m
 
 ## In a birth chart {#in-a-birth-chart}
 
-The sign tells you the kind of action. With the North Node in Aries, Mars on it doubles the call to act on your own initiative; in Libra, effort grows by learning to act with someone rather than alone; in Capricorn, by taking up responsibility beyond the family. The house shows where: in the 10th, in your working life; in the 7th, in partnership. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The sign tells you the kind of action. With the North Node in Aries, Mars on it doubles the call to act on your own initiative; in Libra, effort grows by learning to act with someone rather than alone; in Capricorn, by taking up responsibility beyond the family. The house shows where: in the 10th, in your working life; in the 7th, in partnership. That house is found from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 About 1 person in 28 is born with Mars within 6° of the North Node, counting with the true node. Mars is by far the quicker; the node moves backwards, a sign in about 18 months. I check the conjunction against the mean node as well, which never lies more than a degree or two away ([mean node and true node](/astrology/mean-node-and-true-node/)): at the edge of the orb, one may show the conjunction and the other not.
 

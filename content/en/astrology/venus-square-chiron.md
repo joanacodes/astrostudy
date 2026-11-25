@@ -39,7 +39,7 @@ In plain words, wanting to be liked and the tender place tend to meet at awkward
 
 ## In a birth chart {#in-a-birth-chart}
 
-A square usually joins signs of the same modality. With Chiron in Pisces, as for many births in the 1960s, Venus square it falls in Gemini or Sagittarius: mutable signs, where the friction is about adapting to others before yourself. With Chiron in Leo, Venus in Taurus or Scorpio makes it fixed, and the friction turns on holding on to an old way of protecting the tender spot. The houses place it: Venus in the 4th square Chiron in the 7th, say, sets the comfort you make at home against a sensitivity that shows up in partnership.
+In a square, Venus and Chiron usually sit in signs that share a modality. With Chiron in Pisces, as for many births in the 1960s, Venus square it falls in Gemini or Sagittarius: mutable signs, where the friction is about adapting to others before yourself. With Chiron in Leo, Venus in Taurus or Scorpio makes it fixed, and the friction turns on holding on to an old way of protecting the tender spot. The houses place it: Venus in the 4th square Chiron in the 7th, say, sets the comfort you make at home against a sensitivity that shows up in partnership.
 
 About 1 person in 15 is born with Venus and Chiron within 6° of a square. Close to exact, it's a theme in how you give and receive affection; wide, it surfaces mostly under strain. It's the kind of placement I read slowly, in plain words, and never as a sentence passed on you ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/#gently)).
 

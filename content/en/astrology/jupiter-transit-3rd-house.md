@@ -32,7 +32,7 @@ Jupiter's year in your 3rd house brings its growth down to the scale of an ordin
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) synthesises: it takes experience and makes it mean something. The [3rd house](/astrology/3rd-house/) is where information comes and goes, in talk, reading, short trips and the first kind of learning, and where you meet the people close at hand, siblings and neighbours included. Tradition called it the Goddess, the house where the Moon rejoices. Jupiter's year there is one of appetite for the near world: a course you finally take, a subject that keeps pulling you back, a conversation that changes how you see something you thought you knew.
+[Jupiter](/astrology/jupiter/) synthesises: it takes experience and makes it mean something. The [3rd house](/astrology/3rd-house/) is where information comes and goes, in talk, reading, short trips and the first kind of learning, and where you meet the people close at hand, siblings and neighbours included. In tradition it was the Goddess, the house of the Moon's joy. Jupiter's year there is one of appetite for the near world: a course you finally take, a subject that keeps pulling you back, a conversation that changes how you see something you thought you knew.
 
 There's a tension built into it, and it's a useful one. Jupiter likes the whole picture; the 3rd house deals in pieces, many of them, quickly. So the year can scatter you across ten interests, or it can be the year the ten interests turn out to be one. What it asks is that you let information become understanding.
 

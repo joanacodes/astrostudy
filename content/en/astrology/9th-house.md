@@ -39,10 +39,10 @@ The 9th house is the far horizon of a chart. Where the 3rd covers the next stree
 
 I read the 9th house as the house of meaning: what you believe, how you came to believe it, and how far you'll go — in miles or in thought — to understand more. Travel abroad, other cultures, university and long study, philosophy, faith, teaching and publishing all live here. So does the moment you stop repeating what you were taught and start thinking it through.
 
-- **A cadent house.** It follows a succedent one, and cadent houses are read as places of adjusting, learning and passing things on: the 9th takes what the 8th went through and looks for what it means. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
+- **A cadent house.** It follows a succedent one, and cadent houses are read as places of adjusting, learning and passing things on: the 9th takes what the 8th went through and looks for what it means. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) tells the three kinds apart, including the one the 9th belongs to.
 - **Its natural sign and planet.** [Sagittarius](/astrology/sagittarius/) and [Jupiter](/astrology/jupiter/): the seeker, and the planet of growth.
 - **The God.** Tradition gave it that name and said the [Sun](/astrology/sun/) rejoices here ([planetary joys](/astrology/planetary-joys/)): the light of the chart, at home in the house of faith and far horizons.
-- **Its opposite.** The [3rd house](/astrology/3rd-house/), which tradition called the Goddess, where the Moon has its joy. The 3rd is the near — short trips, first lessons, the neighbourhood — and the 9th the far: long journeys, higher study, big questions.
+- **Its opposite.** The [3rd house](/astrology/3rd-house/), which tradition called the Goddess, where the Moon has its joy. Where the 9th reaches far, into long-distance travel, higher study and big questions, the 3rd stays near, with short trips, first lessons and the neighbourhood.
 
 A house is read with its neighbours. The [8th house](/astrology/8th-house/), just before it, is what you've been through with other people; the 9th is where you go looking for what it meant. The [10th house](/astrology/10th-house/), just after it, is where what you believe turns into what you do in public.
 
@@ -52,7 +52,7 @@ Like every house, the 9th is placed by your birth time: without it, there's no t
 
 A planet in the 9th house tends to go looking: for places, ideas, teachers, a reason.
 
-Saturn, Chiron and Lilith are where I slow down: in [my notebook](/blog/i-tested-my-birth-chart/) they held 75 to 90% of the time, against about a third for most placements. With Saturn, [Chiron in the 9th house](/astrology/chiron-in-9th-house/) or [Lilith in the 9th house](/astrology/lilith-in-9th-house/) here, a reading of mine would ask what you were taught to believe, and what you had to find for yourself.
+When Saturn, Chiron or Lilith comes up, I slow down: in [my notebook](/blog/i-tested-my-birth-chart/) these three held 75 to 90% of the time, against about a third for most placements. With Saturn, [Chiron in the 9th house](/astrology/chiron-in-9th-house/) or [Lilith in the 9th house](/astrology/lilith-in-9th-house/) here, a reading of mine would ask what you were taught to believe, and what you had to find for yourself.
 
 - **[Sun in the 9th house](/astrology/sun-in-9th-house/):** in its joy: travel, study and belief stretch you, and you often end up teaching what you've found.
 - **[Moon in the 9th house](/astrology/moon-in-9th-house/):** at home in the unfamiliar; you may feel most yourself far from where you started.
@@ -65,7 +65,7 @@ Saturn, Chiron and Lilith are where I slow down: in [my notebook](/blog/i-tested
 - **[Neptune in the 9th house](/astrology/neptune-in-9th-house/):** a spiritual hunger and a wide, mystical faith — and a need to check your sources.
 - **[Pluto in the 9th house](/astrology/pluto-in-9th-house/):** beliefs that transform you; a drive to get to the bottom of things, and little patience for easy answers.
 
-No planet here? An [empty 9th house](/astrology/empty-houses/) doesn't mean a life without travel or belief. It's read through the sign on its cusp and the place of its ruler, the next two sections.
+No planet here? An [empty 9th house](/astrology/empty-houses/) doesn't mean a life without travel or belief. Two things read it, each in a section below: the sign on its cusp and where its ruler sits.
 
 ## The sign on its cusp {#sign-on-the-cusp}
 
@@ -86,7 +86,7 @@ The sign on the cusp of the 9th house is the style of your search: how you learn
 
 ## Its ruler {#ruler}
 
-The ruler of the 9th house is the planet that rules the sign on its cusp, and where it sits shows where your search for meaning plays out: the part of life your beliefs are built from, or put to work in. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
+The ruler of the 9th house is the planet that rules the sign on its cusp, and where it sits shows where your search for meaning plays out: the part of life your beliefs are built from, or put to work in. For a 9th cusp in Scorpio, Aquarius or Pisces there are two rulers, modern and traditional, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/9th-house-ruler-in-1st-house/):** your beliefs show in who you are; a natural traveller, student or teacher.
 2. **[In the 2nd house](/astrology/9th-house-ruler-in-2nd-house/):** what you know becomes how you earn; values shaped by belief.

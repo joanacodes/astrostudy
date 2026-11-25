@@ -42,7 +42,7 @@ La tradition a été dure avec la maison 12. Elle lui donnait l’enfermement, l
 
 Ce que la tradition appelait les ennemis cachés, je le lis le plus souvent comme ce qui agit contre vous sans se montrer : parfois une autre personne, plus souvent une peur ou une habitude que vous n’avez pas encore regardée en face. Et une planète en maison 12 n’est pas un symptôme. Un thème ne pose aucun diagnostic ; [astrologie et santé mentale](/astrology/astrology-and-mental-health/) dit ce qu’il peut faire et ne pas faire, et quand la bonne porte est celle de quelqu’un d’autre.
 
-- **Une maison cadente.** Elle suit une maison succédente, et les maisons cadentes se lisent comme des lieux d’ajustement, d’apprentissage et de transmission : la maison 12 est l’endroit où l’on laisse partir un tour complet des maisons avant que le suivant commence. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
+- **Une maison cadente.** Elle suit une maison succédente, et les maisons cadentes se lisent comme des lieux d’ajustement, d’apprentissage et de transmission : la maison 12 est l’endroit où l’on laisse partir un tour complet des maisons avant que le suivant commence. Les trois familles, dont celle de la maison 12, sont décrites sur la page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/).
 - **Son signe et sa planète naturels.** Les [Poissons](/astrology/pisces/) et [Neptune](/astrology/neptune/), avec [Jupiter](/astrology/jupiter/) pour maître traditionnel des Poissons : la compassion, l’imagination, les contours qui s’adoucissent.
 - **Le Génie défavorable.** La tradition lui donnait ce nom et disait que [Saturne](/astrology/saturn/), la planète du temps et des limites, s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)) : la vieille planète de la solitude, à son aise dans la maison du retrait.
 - **Son opposée.** La [maison 6](/astrology/6th-house/), que la tradition appelait la Fortune défavorable : la maison 6, c’est le quotidien qu’on voit ; la maison 12, ce qui se passe loin des regards.
@@ -68,7 +68,7 @@ Saturne, Chiron et Lilith sont les placements que je lis avec le plus de soin :
 - **[Neptune en maison 12](/astrology/neptune-in-12th-house/) :** dans la maison de son propre signe : une imagination riche, une compassion profonde, et un vrai besoin de solitude et de limites.
 - **[Pluton en maison 12](/astrology/pluto-in-12th-house/) :** des émotions profondes et intimes ; une force puisée dans ce que vous avez affronté en silence.
 
-Pas de planète ici ? Une [maison 12 vide](/astrology/empty-houses/) ne veut pas dire que vous n’avez jamais besoin de solitude. Elle se lit par le signe sur sa cuspide et par la place de son maître, les deux sections suivantes.
+Pas de planète ici ? Une [maison 12 vide](/astrology/empty-houses/) ne veut pas dire que vous n’avez jamais besoin de solitude. Sa lecture vient du signe sur sa cuspide et de la place de son maître, que traitent les deux sections suivantes.
 
 ## Le signe sur sa cuspide {#signe-sur-la-cuspide}
 
@@ -89,7 +89,7 @@ Le signe sur la cuspide de la maison 12 décrit votre façon de vous retirer et 
 
 ## Son maître {#maitre}
 
-Le maître de la maison 12 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se joue le travail discret de la maison 12 : le domaine où vous vous retirez, ou celui que vous servez loin des regards. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 12 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se joue le travail discret de la maison 12 : le domaine où vous vous retirez, ou celui que vous servez loin des regards. Quand la maison 12 s’ouvre en Scorpion, en Verseau ou en Poissons, elle a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/12th-house-ruler-in-1st-house/) :** votre vie intérieure se voit dans votre manière d’être ; une présence calme et sensible.
 2. **[En maison II](/astrology/12th-house-ruler-in-2nd-house/) :** des inquiétudes intimes autour de la sécurité ; de l’argent gagné en coulisses, ou dépensé pour le repos et le calme.

@@ -49,7 +49,7 @@ Quand deux intensités partagent un degré, on ne sait plus toujours quelle émo
 
 Construisez la confiance lentement et exprès. Parlez du pouvoir simplement : qui décide de quoi, ce qui reste privé, ce qu’il faut à chaque personne pour se sentir en sécurité. Laissez le changement être invité, pas imposé, et gardez une part de vie séparée : des amis à soi, du temps pour soi, un endroit où personne n’examine personne. En couple, c’est ce qui empêche l’intensité de devenir possession ; entre amis proches ou en famille, c’est ce qui permet à la franchise de rester bienveillante.
 
-Environ 1 paire de personnes sur 11 a cette conjonction, dans un sens ou dans l’autre, à 8° près. Le séjour de Pluton dans un signe va de 12 à 31 ans : la personne qui a Pluton partage ce signe avec une longue suite de naissances, et la conjonction ne devient personnelle que là où la Lune de l’autre vient s’y poser. À environ 13° par jour, la Lune arrive sur ce degré ou le manque à quelques heures près, et les maisons où elle tombe exigent elles aussi les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Prenez 11 paires de personnes : environ 1 aura la Lune de l’une sur Pluton chez l’autre, à 8° près, dans un sens ou l’autre. Le séjour de Pluton dans un signe va de 12 à 31 ans : la personne qui a Pluton partage ce signe avec une longue suite de naissances, et la conjonction ne devient personnelle que là où la Lune de l’autre vient s’y poser. À environ 13° par jour, la Lune arrive sur ce degré ou le manque à quelques heures près, et les maisons où elle tombe exigent elles aussi les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Avec de la distance, les deux mêmes fonctions travaillent autrement :
 

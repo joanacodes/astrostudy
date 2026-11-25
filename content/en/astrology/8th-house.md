@@ -39,7 +39,7 @@ Tradition gave the 8th death and inheritance, and many books still open with tha
 
 Counted from the 7th, the 8th is your partner's 2nd house — their money — which is why it also covers joint accounts, loans, debts and anything held in common ([derived houses](/astrology/derived-houses/)). It's the house of what's owed in both senses: money, and the debts people carry between them. It never says what you'll gain or lose; it shows how you handle sharing.
 
-- **A succedent house.** It follows an angle, and succedent houses are where things settle and build up: the 7th makes the bond, the 8th holds what the bond creates. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
+- **A succedent house.** It follows an angle, and succedent houses are where things settle and build up: the 7th makes the bond, the 8th holds what the bond creates. How the three kinds differ, and where the 8th fits, is on [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/).
 - **Its natural sign and planet.** [Scorpio](/astrology/scorpio/) and [Pluto](/astrology/pluto/), with [Mars](/astrology/mars/) as Scorpio's traditional ruler: depth, intensity, and the nerve it takes to stay close.
 - **Its opposite.** The [2nd house](/astrology/2nd-house/): the 2nd is what's yours, the 8th what you share or owe.
 
@@ -51,7 +51,7 @@ Like every house, the 8th is placed by your birth time: without it, no one can s
 
 A planet in the 8th house goes deep. It tends to work in private, show itself to very few people, and describe what happens to you when you let someone close.
 
-Saturn, Chiron and Lilith are the placements I read most carefully: in [my notebook](/blog/i-tested-my-birth-chart/) they held 75 to 90% of the time, against about a third for most placements. With Saturn, [Chiron in the 8th house](/astrology/chiron-in-8th-house/) or [Lilith in the 8th house](/astrology/lilith-in-8th-house/) here, a reading of mine would slow down around trust: who earned yours, and at what cost.
+No placements get more of my care than Saturn, Chiron and Lilith: in [my notebook](/blog/i-tested-my-birth-chart/) they held 75 to 90% of the time, against about a third for most placements. With Saturn, [Chiron in the 8th house](/astrology/chiron-in-8th-house/) or [Lilith in the 8th house](/astrology/lilith-in-8th-house/) here, a reading of mine would slow down around trust: who earned yours, and at what cost.
 
 - **[Sun in the 8th house](/astrology/sun-in-8th-house/):** you grow through intimacy, trust and what you share; you come alive in depth, not on the surface.
 - **[Moon in the 8th house](/astrology/moon-in-8th-house/):** you need emotional closeness to feel safe, and you feel other people's moods strongly.
@@ -64,7 +64,7 @@ Saturn, Chiron and Lilith are the placements I read most carefully: in [my noteb
 - **[Neptune in the 8th house](/astrology/neptune-in-8th-house/):** boundaries blur in intimacy and in shared money; deep empathy, and the need to know what's yours.
 - **[Pluto in the 8th house](/astrology/pluto-in-8th-house/):** in the house of its own sign: intensity, privacy, and the power to rebuild yourself after a crisis.
 
-No planet here? An [empty 8th house](/astrology/empty-houses/) doesn't mean a shallow life, or one without intimacy. It's read through the sign on its cusp and the place of its ruler, the next two sections.
+No planet here? An [empty 8th house](/astrology/empty-houses/) doesn't mean a shallow life, or one without intimacy. The next two sections read it through the sign on its cusp and the place of its ruler.
 
 ## The sign on its cusp {#sign-on-the-cusp}
 
@@ -85,7 +85,7 @@ The sign on the cusp of the 8th house describes how you approach what's shared: 
 
 ## Its ruler {#ruler}
 
-The ruler of the 8th house is the planet that rules the sign on its cusp, and where it sits shows where the 8th's questions — trust, sharing, debt — come up in your life. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
+The ruler of the 8th house is the planet that rules the sign on its cusp, and where it sits shows where the 8th's questions — trust, sharing, debt — come up in your life. The 8th has two rulers when Scorpio, Aquarius or Pisces is on its cusp, one modern and one traditional, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/8th-house-ruler-in-1st-house/):** intensity shows in how you meet the world; depth is part of who you are.
 2. **[In the 2nd house](/astrology/8th-house-ruler-in-2nd-house/):** what you share and what you own are tied together; clear lines help.

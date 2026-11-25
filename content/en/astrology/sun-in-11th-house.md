@@ -33,7 +33,7 @@ The Sun was well up in the morning sky when you were born, in the house traditio
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 11th house](/astrology/11th-house/) is friends, groups and hopes: the people you build a future with, and the future you'd like to build. Succedent and tied to Aquarius, it was the Good Spirit of Hellenistic astrology, where Jupiter had its joy. Aquarius is the sign of the Sun's detriment, but a house isn't a sign, and I don't read the Sun as weakened here; the echo is a self that learns to be fully itself as one among many. In the 11th, the [Sun](/astrology/sun/)'s sense of who you are and where you're going grows in company and in hope: who you are shows in what you're building with others.
+[The 11th house](/astrology/11th-house/) is where friends, groups and hopes live: the people you shape a future with, and the future you would like to shape. Succedent and tied to Aquarius, it was the Good Spirit of Hellenistic astrology, where Jupiter had its joy. Aquarius is the sign of the Sun's detriment, but a house isn't a sign, and I don't read the Sun as weakened here; the echo is a self that learns to be fully itself as one among many. In the 11th, the [Sun](/astrology/sun/)'s sense of who you are and where you're going grows in company and in hope: who you are shows in what you're building with others.
 
 In Placidus, the house system I use, an 11th-house Sun was well above the eastern horizon in the middle of the morning, by the Sun rather than the clock. A few minutes can move a cusp, so this, like every house, needs your exact [birth time](/blog/unknown-birth-time/). The [5th house](/astrology/5th-house/), facing it, is the joy you make for yourself; the 11th is the joy you share.
 

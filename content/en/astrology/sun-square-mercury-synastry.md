@@ -37,7 +37,7 @@ No single chart can hold a square between the Sun and Mercury, since the two are
 
 The [Sun](/astrology/sun/) stands for who a person is becoming: identity, purpose, direction. [Mercury](/astrology/mercury/) is how a mind works: it observes, reasons, questions and puts things into words. At a [square](/astrology/square/), two functions press on each other until both adapt, and in [synastry aspects](/astrology/synastry-aspects/) that pressure runs between two people: one person's thinking, the other's identity.
 
-The signs at either end of a square tend to share a modality. A Virgo Mercury and a Sagittarius Sun: precise questions put to someone who thinks in broad strokes. An Aquarius Mercury and a Taurus Sun: a mind that wants to rethink the system, talking to someone who would rather keep what works.
+With one person's Mercury square the other's Sun, the two signs usually share a modality. A Virgo Mercury and a Sagittarius Sun: precise questions put to someone who thinks in broad strokes. An Aquarius Mercury and a Taurus Sun: a mind that wants to rethink the system, talking to someone who would rather keep what works.
 
 What the friction makes possible is sharper thinking on both sides. The Sun person's plans meet real questions and come out better argued; the Mercury person's ideas meet a real life and get tested against it. Neither lets the other get away with a vague answer, which makes this a good contact for editing, planning, debating and solving problems together.
 

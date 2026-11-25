@@ -53,7 +53,7 @@ Les autres aspects Saturne–Nœud Nord :
 - **[Saturne trigone Nœud Nord](/astrology/saturn-trine-north-node/) :** trigone et sextile inversés : un soutien facile au nouveau, une ouverture vers l’ancien.
 - **[Saturne opposition Nœud Nord](/astrology/saturn-opposite-north-node/) :** Saturne sur le Nœud Sud, qui donne du poids au familier.
 
-Entre deux thèmes, [Saturne sextile Nœud Nord en synastrie](/astrology/saturn-sextile-north-node-synastry/) peut faire de l’une des deux personnes une aide pratique dans la croissance de l’autre, qui offre une méthode sans prendre le contrôle. Je le lis dans un sens comme dans l’autre.
+Entre deux thèmes, [Saturne sextile Nœud Nord en synastrie](/astrology/saturn-sextile-north-node-synastry/) peut faire de l’une des deux personnes une aide pratique dans la croissance de l’autre, qui offre une méthode sans prendre le contrôle. Je le lis du côté de chacune des deux personnes.
 
 ## En transit {#en-transit}
 
