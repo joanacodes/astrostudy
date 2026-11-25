@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Uranus sextile natal Saturn mean?"
     a: "Uranus stands 60° from the degree your Saturn held at birth, for about twenty months. I read it as an opening to update something you’re responsible for, a routine, a method, a long commitment, by proposal rather than protest. The structure stays and one part of it gets modernised, if you take the chance."
   - q: "How long does Uranus sextile Saturn last?"
-    a: "About twenty months, from 1½° before the exact sextile to 1° after; the shortest passes take about eleven months. In more than nine passes in ten the yearly retrograde loop brings three exact contacts, so the opening comes round more than once in that time."
+    a: "About twenty months, from 1½° before the exact sextile to 1° after; the shortest passes take about eleven months. In more than nine passes in ten the yearly retrograde loop brings three exact contacts, which gives a slow, careful Saturn time to come round to the change."
   - q: "When will Uranus sextile my Saturn?"
     a: "When Uranus reaches one of the two points 60° from your Saturn; the age depends on the angle between the two planets at your birth. In the site’s count, about 9 for someone born at the start of 1985, about 46 for someone born at the start of 1975. Most people meet two by 80."
   - q: "Is Uranus sextile Saturn a good transit?"
@@ -47,9 +47,9 @@ In a birth chart the same angle is [Saturn sextile Uranus](/astrology/saturn-sex
 
 ## How long it lasts {#how-long-it-lasts}
 
-My orbs run from 1½° before exact to 1° after, and within them the sextile lasts about twenty months, eleven when the pass is short. The retrograde loop Uranus makes every year usually turns that into three exact contacts, in more than nine passes out of ten.
+My orbs run from 1½° before exact to 1° after, and within them Uranus's sextile to Saturn lasts about twenty months, eleven when the pass is short. Its three exact contacts, in more than nine passes out of ten, suit the way reform by proposal works: an idea put forward, adjusted, then adopted.
 
-By 80, most people born between 1930 and 2009 have met two sextiles to their Saturn, and nobody fewer than one. The ages scatter: in the site's count, about 9 for someone born at the start of 1985, about 46 for someone born at the start of 1975. Born with [Saturn conjunct Uranus](/astrology/saturn-conjunct-uranus/), in the early 1940s or the late 1980s, you meet them in step with Uranus's own sextiles to its birth place, at about 13 and about 70 ([transiting Uranus sextile natal Uranus](/astrology/transiting-uranus-sextile-natal-uranus/)).
+The ages scatter: in the site's count, about 9 for someone born at the start of 1985, about 46 for someone born at the start of 1975. The second can follow soon or very late, at about 37 for someone born at the start of 1955 but not before 80 for the start of 1935, so a few people meet only one; most meet two. Born with [Saturn conjunct Uranus](/astrology/saturn-conjunct-uranus/), in the early 1940s or the late 1980s, you meet them in step with Uranus's own sextiles to its birth place, at about 13 and about 70 ([transiting Uranus sextile natal Uranus](/astrology/transiting-uranus-sextile-natal-uranus/)).
 
 On the circle, the two sextiles stand about fourteen years either side of [transiting Uranus conjunct natal Saturn](/astrology/transiting-uranus-conjunct-natal-saturn/). Going on from the first, [transiting Uranus square natal Saturn](/astrology/transiting-uranus-square-natal-saturn/) comes about seven years later and [transiting Uranus trine natal Saturn](/astrology/transiting-uranus-trine-natal-saturn/) about seven more, while [transiting Uranus opposite natal Saturn](/astrology/transiting-uranus-opposite-natal-saturn/) marks the halfway point.
 

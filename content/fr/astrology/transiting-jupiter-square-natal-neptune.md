@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/neptune", "/astrology/square", "/astrology/jupiter-square-neptune", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "Que veut dire Jupiter en transit carré Neptune du thème natal ?"
-    a: "Jupiter se trouve à 90° de Neptune à votre naissance : la croyance et l’imagination frottent l’une contre l’autre, et contre les faits. L’espoir peut devancer le réel, et les idéaux demander plus que quiconque ne peut donner. J’y lis un moment pour vérifier un rêve avec soin, en gardant ce qui résiste à la vérification."
+    a: "Jupiter et Neptune de votre naissance sont à un quart de cercle d’écart : la croyance et l’imagination frottent l’une contre l’autre, et contre les faits. L’espoir peut devancer le réel, et les idéaux demander plus que quiconque ne peut donner. J’y lis un moment pour vérifier un rêve avec soin, en gardant ce qui résiste à la vérification."
   - q: "Jupiter carré Neptune, est-ce le signe d’une tromperie ?"
     a: "Non, et je n’y lis d’avertissement contre personne. Ce transit décrit une période où il est plus facile que d’habitude de prendre ses désirs pour des réalités, les vôtres ou ceux des autres : un bon moment pour lire les petites lignes et poser des questions pratiques. Il ne prédit ni tromperie, ni perte, ni maladie."
   - q: "Combien de temps dure le carré de Jupiter à Neptune du thème natal ?"
@@ -56,4 +56,4 @@ Cherchez l’avis de quelqu’un qui ne partage pas le rêve. Non pour vous en d
 
 Dormez sur les grandes promesses, les vôtres et celles des autres. La plupart de ce qui paraît urgent sous ce carré paraît différent, et plus clair, quelques jours plus tard.
 
-Si de l’argent fait partie du rêve, prenez conseil auprès d’une personne qualifiée. Je ne lis pas les transits pour les placements, et celui-ci moins que tout autre ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)).
+Si de l’argent fait partie du rêve, prenez conseil auprès d’une personne qualifiée. Les placements restent hors de ce que je lis dans un transit, et celui-ci moins que tout autre ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)).

@@ -45,7 +45,7 @@ Le premier carré vient environ sept ans après le passage de Saturne sur votre 
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le carré dure en général neuf mois environ. Un peu plus de la moitié de ces carrés font une boucle à trois passages exacts sur neuf mois et demi environ ; un passage exact unique peut se terminer en trois semaines. Cinq avant 80 ans, c’est l’habitude, six pour certaines personnes.
+Mesuré avec mes orbes, de 1,5° avant l’exactitude à 1° après, un carré au Milieu du Ciel dure en général neuf mois environ. Un peu plus de la moitié de ces carrés font une boucle à trois passages exacts sur neuf mois et demi environ ; un passage exact unique peut se terminer en trois semaines. Cinq avant 80 ans, c’est l’habitude, six pour certaines personnes.
 
 Le degré de votre Milieu du Ciel fixe les dates, et il vient de l’heure de naissance : une erreur de quarante minutes déplacerait ce carré de dix mois environ, plus que la durée du transit lui-même. Un thème sans heure n’est pas un thème que je lis ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Uranus", "opposition", "transits"]
 weight: 1659
 glyph: "♄☍♅"
-definition: "Transiting Saturn opposite natal Uranus is Saturn in the sky standing 180° from the degree Uranus held at your birth, once in each 29½-year round. Your commitments and your need for room face each other, often through someone else, and ask to be balanced. I read it as a season of renegotiation, never a forecast of rupture."
+definition: "Transiting Saturn opposite natal Uranus is Saturn in the sky facing the degree Uranus held at your birth from across the zodiac, at the halfway point of each 29½-year round. Your commitments and your need for room face each other, often through someone else. I read it as a season of renegotiation, never a forecast of rupture."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Uranus ♅, change and freedom" }
@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting Saturn opposite natal Uranus mean?"
     a: "Saturn in the sky stands across the chart from your natal Uranus, so the structures you live inside and your need for room face each other. Often one side shows up in another person: someone who wants rules, or someone who wants out. I read it as a season for renegotiating, so that stability and freedom both keep a place."
   - q: "How long does Saturn opposite Uranus last?"
-    a: "Usually about nine months with my orbs, from 1½° before exact to 1° after. In a little over half of these oppositions, Saturn’s retrograde brings three exact hits over about nine and a half months; with a single hit, it can take as little as three weeks."
+    a: "About nine months as a rule, counting from 1½° before exact to 1° after. Saturn turns retrograde for some four and a half months each year, and a little over half the time that turn brings it back for three exact hits; a single hit can mean three weeks."
   - q: "At what age does Saturn oppose natal Uranus?"
     a: "It depends on your birth year, and people born in the same year share it within a year or so. Born in 1975, you met the first at about 23 and meet the next at about 53; born in 1955, at about 6, then 35 and 65. It returns about every 29½ years."
   - q: "Does Saturn opposite Uranus mean a break-up or quitting a job?"
@@ -40,7 +40,7 @@ Halfway between two of Saturn's crossings of your Uranus, about fifteen years af
 
 I read it as a renegotiation rather than a fight. Polarity isn't contradiction: the work is to see what each end is protecting, then redraw the arrangement so that both keep a place. The wish to walk out can be strong, and so can the wish to clamp down. The transit requires neither, and it says nothing about whether a job or a relationship lasts; that stays yours to decide, with more of the picture in view.
 
-Your Uranus's house says where you need room; the house opposite, which Saturn is crossing, says where the call for structure comes from. With Uranus in your 10th, Saturn reaches your 4th: the needs of home weighed against independence at work. Both houses come from the birth time, which is why I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
+Your Uranus's house says where you need room; the house opposite, which Saturn is crossing, says where the call for structure comes from. With Uranus in your 10th, Saturn reaches your 4th: the needs of home weighed against independence at work. Both houses are fixed by the time of birth, and a chart without it stays closed to me ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
@@ -48,7 +48,7 @@ Measured with my orbs, 1½° before exact and 1° after, Saturn stays opposite y
 
 It comes once in each round of Saturn, about every 29½ years, so most people meet it three times by 80 and some twice. Uranus moves so little that a whole year group shares the timing: born in 1975, you had the first at about 23, and the second comes at about 53, in 2028; born in 1955, they fall at about 6, 35 and 65. Born in 1964–67 or 2008–09, with [Saturn opposite Uranus](/astrology/saturn-opposite-uranus/) in your own chart, you meet this transit at each [Saturn return](/astrology/saturn-return/). And Saturn faces Libra from Aries until April 2028: with Uranus in Libra, as for most people born between 1968 and 1975, the opposition is yours now.
 
-In the round, it sits about five years from each trine ([transiting Saturn trine natal Uranus](/astrology/transiting-saturn-trine-natal-uranus/)) and about seven from each square ([transiting Saturn square natal Uranus](/astrology/transiting-saturn-square-natal-uranus/)). [Transiting Saturn sextile natal Uranus](/astrology/transiting-saturn-sextile-natal-uranus/) and [transiting Saturn conjunct natal Uranus](/astrology/transiting-saturn-conjunct-natal-uranus/) belong to the other half of the circle.
+In the round, it sits about five years from each trine ([transiting Saturn trine natal Uranus](/astrology/transiting-saturn-trine-natal-uranus/)) and about seven from each square ([transiting Saturn square natal Uranus](/astrology/transiting-saturn-square-natal-uranus/)). [Transiting Saturn sextile natal Uranus](/astrology/transiting-saturn-sextile-natal-uranus/) comes about five years either side of [transiting Saturn conjunct natal Uranus](/astrology/transiting-saturn-conjunct-natal-uranus/), on the opposite stretch of the round.
 
 ## What helps {#what-helps}
 

@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/neptune", "/astrology/opposition", "/astrology/jupiter-opposite-neptune", "/astrology/paid-spiritual-work"]
 faq:
   - q: "What does transiting Jupiter opposite natal Neptune mean?"
-    a: "Jupiter has reached the point opposite your birth Neptune, so your ideals and imagination meet a large vision held by someone else: a teacher, a partner, a group, a cause. I read it as a time to see that vision, and the people behind it, as they are, while keeping your own dreams in view."
+    a: "Jupiter now faces your birth Neptune from the other side of the zodiac, so your ideals and imagination meet a large vision held by someone else: a teacher, a partner, a group, a cause. I read it as a time to see that vision, and the people behind it, as they are, while keeping your own dreams in view."
   - q: "Can Jupiter opposite Neptune make you idealise someone?"
     a: "It can make it easier: feeling deeply with someone is not the same as knowing them, and this opposition blurs the two a little. That’s no reason to distrust people. It’s a reason to look twice before giving more time, faith or help than you meant to, and to notice what you know as well as what you feel."
   - q: "How long does Jupiter opposite natal Neptune last?"

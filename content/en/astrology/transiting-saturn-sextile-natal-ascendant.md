@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Ascendant", "rising sign", "sextile", "transits"]
 weight: 1671
 glyph: "♄⚹AC"
-definition: "Transiting Saturn sextile natal Ascendant is Saturn in the sky reaching 60° from the degree that was rising at your birth, twice in each 29½-year round. Steadiness becomes available to the way you approach people and situations, if you take it up. I read it as a practical opening, never a guarantee."
+definition: "Transiting Saturn sextile natal Ascendant is Saturn in the sky 60° from the degree that was rising at your birth, about five years before or after it crosses that degree. Steadiness becomes available to the way you approach people and situations, if you take it up. I read it as a practical opening, never a guarantee."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "The Ascendant AC, the way you meet the world" }
@@ -23,9 +23,9 @@ faq:
   - q: "What does transiting Saturn sextile natal Ascendant mean?"
     a: "Saturn in the sky is 60° from your rising degree, so steadiness and structure are on offer to the way you meet the world. It’s a good season to take on a role that suits your manner, or to practise a way of presenting yourself that you’d like to keep. Like any sextile, it needs taking up."
   - q: "How long does Saturn sextile the Ascendant last?"
-    a: "About nine months, counted with my orbs from 1½° before exact to 1° after. A little over half the time Saturn loops back for three exact hits over about nine and a half months; with a single hit, it can pass in three weeks."
+    a: "Saturn spends about nine months in this sextile, with my orbs of 1½° before exact and 1° after; loops of three exact hits are a little more common than single hits, which can be over in three weeks. Your rising degree, and so your birth time, sets the dates."
   - q: "When does Saturn sextile my Ascendant?"
-    a: "Twice in each 29½-year round: about five years after Saturn crosses your Ascendant, and about five years before it crosses it again. The exact months depend on your rising degree, so on your birth time. With Gemini or Aquarius rising, Saturn’s years in Aries, until April 2028, bring one."
+    a: "Twice in each 29½-year round: about five years after Saturn crosses your Ascendant, and about five years before it crosses it again. The exact months depend on your rising degree, so on your birth time. Gemini and Aquarius rising have one now, during Saturn’s years in Aries, which end in April 2028."
   - q: "Is Saturn sextile my Ascendant a good time to start something?"
     a: "A good time to start something you mean to keep, I’d say: a course, a role, a regular way of showing up. The sextile favours beginnings that come with a plan. It doesn’t promise how they turn out; it makes the steady approach easier to take."
 sources:
@@ -42,11 +42,11 @@ The two sextiles of a round arrive from different parts of the chart. The first,
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, 1½° before exact to 1° after, Saturn keeps this sextile about nine months. A little over half the time it comes as a loop with three exact hits, about nine and a half months in all; at the quickest, three weeks.
+Taking my orbs, 1½° before exact and 1° after, Saturn spends about nine months in this sextile. A loop of three exact hits, about nine and a half months long, is a little more common than a single hit, which can be over in three weeks.
 
-Most people meet five by 80, a few six. The dates hang on your rising degree, and a quarter of an hour's doubt about your birth time moves them by three or four months, since the Ascendant covers a degree in about four minutes and Saturn takes about a month over one. Without the time I don't read the chart at all ([what changes without a birth time](/blog/unknown-birth-time/)).
+The count by 80 is five for most people and six for a few. The dates hang on your rising degree, and a quarter of an hour's doubt about your birth time moves them by three or four months, since the Ascendant covers a degree in about four minutes and Saturn takes about a month over one. No reading of mine starts without that time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Saturn is in Aries until April 2028: with Gemini rising, it reaches the sextile from the side of your 11th house, with Aquarius rising from your 3rd. Between the two sextiles of a round lie the other angles: [transiting Saturn square natal Ascendant](/astrology/transiting-saturn-square-natal-ascendant/) near your IC and again near your Midheaven, [transiting Saturn trine natal Ascendant](/astrology/transiting-saturn-trine-natal-ascendant/) around your 5th and 9th, and [transiting Saturn opposite natal Ascendant](/astrology/transiting-saturn-opposite-natal-ascendant/) on your Descendant; [transiting Saturn conjunct natal Ascendant](/astrology/transiting-saturn-conjunct-natal-ascendant/) opens and closes the round.
+Gemini and Aquarius rising have a sextile under way now, since Saturn is in Aries until April 2028: for Gemini rising it comes from the side of the 11th house, for Aquarius rising from the 3rd. Between the two sextiles of a round lie the other angles: [transiting Saturn square natal Ascendant](/astrology/transiting-saturn-square-natal-ascendant/) near your IC and again near your Midheaven, [transiting Saturn trine natal Ascendant](/astrology/transiting-saturn-trine-natal-ascendant/) around your 5th and 9th, and [transiting Saturn opposite natal Ascendant](/astrology/transiting-saturn-opposite-natal-ascendant/) on your Descendant; [transiting Saturn conjunct natal Ascendant](/astrology/transiting-saturn-conjunct-natal-ascendant/) opens and closes the round.
 
 ## What helps {#what-helps}
 

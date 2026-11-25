@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Uranus", "conjunction", "transits"]
 weight: 1596
 glyph: "♃☌♅"
-definition: "Transiting Jupiter conjunct natal Uranus brings Jupiter, every twelve years or so, onto the degree Uranus held at your birth. The part of you that wants to change things and live your own way gets more room. I read it as a season for experiments and new ideas, not as sudden luck or a sign to overturn everything."
+definition: "Transiting Jupiter conjunct natal Uranus forms once in each twelve-year round, when Jupiter joins your birth Uranus. The part of you that wants to change things and live your own way gets more room. I read it as a season for experiments and new ideas, not as sudden luck or a sign to overturn everything."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, about a year in each sign" }
   - { k: "Natal point", v: "Your Uranus ♅: change, freedom, originality" }
@@ -29,11 +29,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first conjunction for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-About every twelve years, Jupiter crosses the degree your Uranus held at birth. The planet that widens things meets the part of you that wants room to live differently, and ideas, plans and restlessness all tend to arrive at once.
+About once in twelve years, Jupiter lands on your birth Uranus. The planet that widens things meets the part of you that wants room to live differently, and ideas, plans and restlessness all tend to arrive at once.
 
 ## What changes {#what-changes}
 
-[Uranus](/astrology/uranus/) is the part of a chart that differentiates: it questions inherited ways, tries alternatives, reforms what has stopped working and wants the freedom to do so. [Jupiter](/astrology/jupiter/) enlarges whatever it touches and looks for a reason behind it. In a [conjunction](/astrology/conjunction/) the two act as one, so for a while growth means change, and change feels like growth.
+[Uranus](/astrology/uranus/) is the part of a chart that differentiates: it questions inherited ways, tries alternatives, reforms what has stopped working and wants the freedom to do so. [Jupiter](/astrology/jupiter/) makes room for whatever it meets and wants to know what it is for. In a [conjunction](/astrology/conjunction/) the two act as one, so for a while growth means change, and change feels like growth.
 
 People often describe these weeks as a sudden clarity: the idea that had been circling lands, the experiment you'd postponed starts, the routine that had stopped fitting is suddenly impossible to keep. Jupiter also enlarges Uranus's blind spots. Novelty can pass for innovation, and disruption for progress, so the useful question is what still works before anything is changed.
 

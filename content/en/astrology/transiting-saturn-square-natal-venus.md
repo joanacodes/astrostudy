@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Venus", "square", "transits"]
 weight: 1638
 glyph: "♄□♀"
-definition: "Transiting Saturn square natal Venus is Saturn 90° from the degree your Venus held at birth, about seven years after Saturn crosses it and seven before it returns. Affection, pleasure and self-worth meet duty and limits, and something asks to be adjusted. I read it as friction that clarifies what you value, never as punishment."
+definition: "Transiting Saturn square natal Venus is the right angle Saturn makes to your birth Venus twice a round, about seven years after crossing it and seven years before coming back. Affection, pleasure and self-worth meet duty and limits, and something asks to be adjusted. I read it as friction that clarifies what you value, never as punishment."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Venus ♀: what you value, enjoy and love" }

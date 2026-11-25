@@ -1,7 +1,7 @@
 ---
 title: "Transiting Jupiter square natal Pluto"
 h1: "Transiting Jupiter square your natal Pluto"
-description: "Transiting Jupiter square natal Pluto: ambition and deep change pull across each other, twice in each Jupiter lap. Its length, its timing, and handling control."
+description: "Transiting Jupiter square natal Pluto: ambition and deep change pull against each other twice a lap. Its length, its timing, and easing your grip."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Pluto", "square", "transits"]
 weight: 1608
 glyph: "♃□♇"
-definition: "Transiting Jupiter square natal Pluto puts today’s Jupiter a quarter of the zodiac from your birth Pluto, twice in each twelve-year lap. What you want to grow and what needs to change underneath stop agreeing, and questions of control come up. I read it as useful friction about scale and depth, never as a fight foretold."
+definition: "Transiting Jupiter square natal Pluto is the right angle Jupiter makes with your birth Pluto twice in each twelve-year lap. Your plans for growth and the deeper change they depend on stop agreeing, and questions of control come up. I read it as useful friction about scale and depth, never as a fight foretold."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, about a year in each sign" }
   - { k: "Natal point", v: "Your Pluto ♇: depth, control, transformation" }
@@ -20,16 +20,16 @@ facts:
 related: ["/astrology/jupiter", "/astrology/pluto", "/astrology/square", "/astrology/jupiter-square-pluto", "/astrology/can-astrology-predict-a-court-case"]
 faq:
   - q: "What does transiting Jupiter square natal Pluto mean?"
-    a: "Jupiter is 90° from your birth Pluto, so the wish to grow and the part of you that holds on and transforms at depth rub against each other. Ambition can outrun the change it needs underneath, or holding on can block a wider view. I read it as friction that resizes a goal and loosens a grip."
+    a: "With Jupiter 90° from your birth Pluto, the wish to grow and the part of you that holds on and transforms at depth rub against each other. Ambition can outrun the change it needs underneath, or holding on can block a wider view. Used well, the friction resizes a goal and loosens a grip."
   - q: "Does Jupiter square Pluto mean a power struggle?"
-    a: "It can bring questions of control to the surface, in you or between you and someone else. That isn’t a forecast of conflict, and I never read a transit for the outcome of a dispute. The useful work is noticing where you hold on too tightly, and where someone else’s hold no longer fits."
+    a: "It can bring questions of control to the surface, in you or between you and someone else. That isn’t a forecast of conflict, and how a disagreement ends is not something I read in any chart. The useful work is noticing where you hold on too tightly, and where someone else’s hold no longer fits."
   - q: "How long does Jupiter square natal Pluto last?"
-    a: "About eleven days on a straight pass, with the orbs I use for timing. When Jupiter stations close by, in three cases out of ten, the square comes three times over about eight months. It returns twice in every twelve-year lap, thirteen or fourteen times by 80 for births from 1930 to 2009."
+    a: "Eleven days or so, when Jupiter goes straight through. When Jupiter stations close by, in three cases out of ten, the square comes three times over about eight months. Because each lap holds two, anyone born from 1930 to 2009 meets thirteen or fourteen before turning 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first square for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-What you want to grow and what needs to change underneath stop agreeing for a while, twice in every Jupiter lap, when Jupiter squares your birth Pluto. The friction is about depth and scale, and it tends to bring questions of control to the surface.
+Twice in every Jupiter lap, when Jupiter squares your birth Pluto, the urge to expand and the slower work of deep change pull in different directions. The friction is about depth and scale, and it tends to bring questions of control to the surface.
 
 ## What changes {#what-changes}
 
@@ -37,7 +37,7 @@ What you want to grow and what needs to change underneath stop agreeing for a wh
 
 The friction usually takes one of two forms. Either the ambition outruns the deeper change it depends on, a bigger role taken on while something underneath still needs mending, or the depth resists the growth: holding on, controlling, refusing a wider view because the old one felt safe. Pluto's blind spots are close at hand here, mistaking control for safety and intensity for truth, and assuming that every unequal exchange is a deliberate attempt to dominate. Jupiter can enlarge each of them, and the square makes them easier to see.
 
-Squares between these two have a reputation for power struggles. I don't read any [transit](/astrology/transits/) for the outcome of a dispute or a negotiation ([Can astrology predict a court case?](/astrology/can-astrology-predict-a-court-case/)). Where the friction lands depends on your Pluto's house and on the house Jupiter is crossing, both drawn from the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). In a chart that has [Jupiter square Pluto](/astrology/jupiter-square-pluto/), one of these squares shadows each [Jupiter return](/astrology/jupiter-return/).
+Squares between these two have a reputation for power struggles. No [transit](/astrology/transits/) tells me who would win a dispute or a negotiation, and I don't look for that ([Can astrology predict a court case?](/astrology/can-astrology-predict-a-court-case/)). Two houses decide where the friction is felt, the one holding your Pluto and the one under Jupiter, and both are read from the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). In a chart that has [Jupiter square Pluto](/astrology/jupiter-square-pluto/), one of these squares shadows each [Jupiter return](/astrology/jupiter-return/).
 
 ## How long it lasts {#how-long-it-lasts}
 

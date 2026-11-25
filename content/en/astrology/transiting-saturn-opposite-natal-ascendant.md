@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting Saturn opposite natal Ascendant mean?"
     a: "Saturn in the sky is on your Descendant, the degree opposite your Ascendant, as it is about every 29½ years. The people you meet as equals, partners in love or in work, become the place where Saturn’s questions arrive: what’s fair, what’s agreed, what will last. It also opens Saturn’s years in your 7th house."
   - q: "How long does Saturn opposite the Ascendant last?"
-    a: "About nine months on the degree itself, with my orbs of 1½° before exact and 1° after: a little over half the time in three exact passes over about nine and a half months, and at the quickest in three weeks. Saturn’s stay in your 7th house, which follows, takes a few years."
+    a: "Saturn usually needs about nine months to get across your Descendant, with my orbs of 1½° before exact and 1° after, three times over in a little more than half of cases; at the quickest, three weeks. Its stay in your 7th house, which follows, takes a few years."
   - q: "Does Saturn opposite my Ascendant mean a break-up?"
     a: "No. A transit can’t tell whether a relationship begins, lasts or ends, and I never read one for that. What this one describes is a season when commitments are weighed and their terms made clearer. Some bonds grow firmer for it, and whatever you decide stays yours."
   - q: "Is Saturn opposite my Ascendant the same as Saturn on my Descendant?"
@@ -40,13 +40,13 @@ The Descendant is where the planets set in your birth chart, on its western hori
 
 Polarity isn't contradiction, and the work is reciprocity: keeping your own orientation while taking the other person's seriously. Saturn can show up as someone who seems stricter than you, older or more cautious, and sometimes you're the one playing that part for somebody else. If a planet of yours sits close to the Descendant, Saturn reaches it in the same season and colours the questions: with Venus there, they turn to affection and what it's owed; with Mars, to how disagreements get handled. None of it decides whether a relationship begins, lasts or ends; I read patterns in a chart, never outcomes ([how I read](/how-i-read/)).
 
-In Placidus, the house system I use, the Descendant is the cusp of the 7th house, so this crossing opens [Saturn transiting the 7th house](/astrology/saturn-transit-7th-house/), after the years Saturn spent among your daily routines in the 6th. It's also the midpoint of Saturn's round with your Ascendant, about fifteen years after [transiting Saturn conjunct natal Ascendant](/astrology/transiting-saturn-conjunct-natal-ascendant/) and as long before the next.
+In Placidus, the house system I use, the Descendant is the cusp of the 7th house, so this crossing opens [Saturn transiting the 7th house](/astrology/saturn-transit-7th-house/), after the years Saturn spent among your daily routines in the 6th. It also marks the halfway point of Saturn's round with your rising degree: [transiting Saturn conjunct natal Ascendant](/astrology/transiting-saturn-conjunct-natal-ascendant/) came about fifteen years earlier, and the next is as far ahead.
 
 ## How long it lasts {#how-long-it-lasts}
 
-On the degree itself, within my orbs of 1½° before exact and 1° after, the opposition lasts about nine months. A little over half the time Saturn's retrograde takes it over the Descendant three times, in about nine and a half months; a single crossing can be over in three weeks. Most people meet it two or three times by 80.
+Saturn usually needs about nine months to get across your Descendant, counting from 1½° before exact to 1° after. In a little over half of these crossings it reaches the Descendant three times, retrograde loop included, within about nine and a half months; one straight crossing can take three weeks. By 80, most people have had Saturn on their Descendant two or three times.
 
-The Descendant is simply the Ascendant's opposite degree, so it's exactly as precise as your birth time and no more: a time out by twenty minutes moves this transit by about five months. That's one reason I don't read a chart without the time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The Descendant is simply the Ascendant's opposite degree, so it's exactly as precise as your birth time and no more: a time out by twenty minutes moves this transit by about five months. Of all the points in a chart, the angles are the least forgiving of a wrong time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Climbing back up the other side of the chart, Saturn will make [transiting Saturn trine natal Ascendant](/astrology/transiting-saturn-trine-natal-ascendant/) around your 9th house, [transiting Saturn square natal Ascendant](/astrology/transiting-saturn-square-natal-ascendant/) near your Midheaven and [transiting Saturn sextile natal Ascendant](/astrology/transiting-saturn-sextile-natal-ascendant/) around your 11th, in that order, before it reaches your rising degree again.
 

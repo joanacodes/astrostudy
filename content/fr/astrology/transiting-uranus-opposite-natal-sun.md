@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Soleil", "opposition", "transits"]
 weight: 1684
 glyph: "♅☍☉"
-definition: "Uranus en transit opposition Soleil du thème natal signifie qu’Uranus a atteint l’autre côté du zodiaque par rapport à votre Soleil de naissance, pour une vingtaine de mois, une fois dans une vie au plus. L’élan du changement passe souvent par les autres, et demande ce qui, dans votre direction, vous appartient. J’y lis un miroir, jamais un verdict."
+definition: "Uranus en transit opposition Soleil du thème natal signifie qu’Uranus a atteint l’autre côté du zodiaque par rapport à votre Soleil de naissance : un séjour d’une vingtaine de mois qu’une vie connaît une fois au plus. L’élan du changement passe souvent par les autres, et demande ce qui, dans votre direction, vous appartient. J’y lis un miroir, jamais un verdict."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Le Soleil ☉ : identité, direction et vitalité" }

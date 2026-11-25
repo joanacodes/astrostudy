@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Mercury", "conjunction", "transits"]
 weight: 1690
 glyph: "♅☌☿"
-definition: "Transiting Uranus conjunct natal Mercury is Uranus sitting on the degree of your birth Mercury for about twenty months, once in a life at most. Thinking speeds up and changes direction: new subjects, new tools, opinions revised, another way of putting things. I read it as a season of new thinking, not of scattered thinking."
+definition: "Transiting Uranus conjunct natal Mercury happens when Uranus reaches the degree of your birth Mercury: a twenty-month visit, at most once in a life. Thinking speeds up and changes direction: new subjects, new tools, opinions revised, another way of putting things. I read it as a season of new thinking, not of scattered thinking."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Mercury ☿: thinking, learning and talking" }
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/mercury", "/astrology/conjunction", "/astrology/mercury-conjunct-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus conjunct natal Mercury mean?"
-    a: "Uranus has reached your birth Mercury and will cross it, usually three times, over about twenty months. I read it as a long season of new thinking: subjects that grab you without warning, methods and tools you take up fast, opinions you find yourself revising, and a way of speaking or writing that sounds more like you than the old one."
+    a: "Uranus has reached your birth Mercury and will cross it, usually three times, over about twenty months. I read it as a long season of new thinking: subjects that grab you without warning, methods and tools you take up fast, opinions you find yourself revising, and a way of speaking that sounds more like you."
   - q: "Is Uranus conjunct Mercury good for learning?"
     a: "Often, as I read it: curiosity runs high and new ideas connect quickly, which suits a course, a new field or a new tool. The catch is follow-through. Ideas arrive faster than they can be tested, so the learning that lasts is the kind you write down, check and finish."
   - q: "When does Uranus conjunct Mercury happen?"
-    a: "Once in Uranus’s round of about 84 years, at an age set by how far your Mercury sits ahead of your Uranus. Because Mercury stays within about 28° of the Sun, it falls within about six or seven years of Uranus crossing your Sun. About 1 person in 33 is still waiting for it at 80."
+    a: "Mercury’s distance ahead of your natal Uranus sets the age, and Mercury’s closeness to the Sun ties it to the Sun’s turn: this crossing falls within about six or seven years of Uranus reaching your Sun. It comes once at most, and about 1 person in 33 is still waiting for it at 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the conjunction by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus conjunct Mercury, among his transits" }
@@ -39,7 +39,7 @@ In practice that can look like a field that clicks into place, a skill or a piec
 
 Curiosity isn't the same as distraction, yet a mind under this conjunction can run ahead of the hours it has. The ideas that last are usually the ones you test.
 
-With Mercury in your 3rd, the conjunction falls somewhere in Uranus's years there ([Uranus transiting the 3rd house](/astrology/uranus-transit-3rd-house/)), and daily talk, neighbours and short journeys are where the new thinking shows first. That house comes from your birth time, and without the time I don't read the transit ([what changes without a birth time](/blog/unknown-birth-time/)). Unlike [Mercury conjunct Uranus](/astrology/mercury-conjunct-uranus/) in a birth chart, which describes how a mind is built, the transit is thinking under new conditions, and what stays afterwards is whatever you finished.
+Mercury in the 3rd, the house of the everyday mind, puts this conjunction inside a longer stretch of change there ([Uranus transiting the 3rd house](/astrology/uranus-transit-3rd-house/)): daily talk, neighbours and short journeys show the new thinking first. That house comes from your birth time, and without the time I don't read the transit ([what changes without a birth time](/blog/unknown-birth-time/)). Unlike [Mercury conjunct Uranus](/astrology/mercury-conjunct-uranus/) in a birth chart, which describes how a mind is built, the transit is thinking under new conditions, and what stays afterwards is whatever you finished.
 
 ## How long it lasts {#how-long-it-lasts}
 

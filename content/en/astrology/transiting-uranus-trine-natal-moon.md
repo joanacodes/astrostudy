@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Moon", "trine", "transits"]
 weight: 1688
 glyph: "♅△☽"
-definition: "Transiting Uranus trine natal Moon brings about twenty months, twice in most lives, when Uranus forms a 120° angle to your birth Moon. Feelings adapt quickly and comfort stops resisting change: a new routine, a freer home life or a different kind of closeness can settle in without a fight. I read it as change that feels like relief."
+definition: "Transiting Uranus trine natal Moon is the easiest contact Uranus makes with your Moon: a trine, 120°, held for about twenty months, twice in most lives. Feelings adapt quickly and comfort stops resisting change: a new routine or a freer home life settles in without a fight. I read it as change that feels like relief."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "The Moon ☽: needs, habits and feeling safe" }

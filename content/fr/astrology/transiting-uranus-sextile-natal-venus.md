@@ -2,7 +2,7 @@
 title: "Uranus en transit sextile Vénus du thème natal"
 slug: "uranus-transit-sextile-venus-natal"
 h1: "Uranus en transit sextile votre Vénus natale"
-description: "Uranus en transit sextile Vénus du thème natal : vingt mois, deux fois en général, où amitiés, plaisirs et goûts nouveaux sont à portée. Dire oui, et quand."
+description: "Uranus en transit sextile Vénus du thème natal : amitiés, plaisirs et goûts nouveaux à portée pendant vingt mois, deux fois en général, si vous dites oui."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -25,12 +25,12 @@ faq:
   - q: "Uranus sextile Vénus, est-ce bon pour les relations ?"
     a: "C’est l’un des climats les plus amicaux pour elles, comme je le lis, parce qu’il apporte de la nouveauté sans tension : un lien peut accueillir quelque chose de neuf sans être secoué. Il n’amène personne et ne met fin à rien, pour autant. La fraîcheur qu’il offre passe par ce que vous choisissez d’essayer à deux."
   - q: "Quand arrive Uranus sextile Vénus ?"
-    a: "Uranus forme un sextile à votre Vénus deux fois par circuit de 84 ans, une fois quatorze ans environ avant de passer dessus, une fois quatorze ans environ après. Avec mes orbes, chaque sextile tient une vingtaine de mois, avec trois passages exacts plus de neuf fois sur dix, et la plupart des gens ont connu les deux en arrivant à 80 ans."
+    a: "Uranus forme un sextile à votre Vénus deux fois par circuit de 84 ans, une fois quatorze ans environ avant de passer dessus, une fois quatorze ans environ après. Avec mes orbes, chaque sextile tient une vingtaine de mois, et la plupart des gens ont connu les deux en arrivant à 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de sextiles viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le sextile d’Uranus à Vénus, parmi ses transits" }
 ---
-Quatorze ans environ avant d’atteindre votre Vénus, et quatorze ans après, Uranus forme un sextile avec elle. À chaque fois, pendant une vingtaine de mois, le plaisir et la nouveauté cessent de se faire concurrence, et quelque chose de neuf se révèle agréable plutôt que dérangeant.
+Uranus forme un sextile avec votre Vénus à l’aller, quatorze ans environ avant de la franchir, et de nouveau au retour, quatorze ans après. À chaque fois, pendant une vingtaine de mois, le plaisir et la nouveauté cessent de se faire concurrence, et quelque chose de neuf se révèle agréable plutôt que dérangeant.
 
 ## Ce qui change {#ce-qui-change}
 

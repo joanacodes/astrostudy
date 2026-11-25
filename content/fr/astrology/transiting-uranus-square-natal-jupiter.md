@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Uranus en transit carré Jupiter du thème natal ?"
     a: "Uranus se trouve à 90° de Jupiter dans votre thème natal, la part du thème qui construit le sens et les convictions. J’y lis une friction constructive : un cadre qui vous a fait grandir n’explique plus assez, et une idée neuve réclame sa place. Le carré demande de réviser vos principes, pas de tous les jeter."
   - q: "Combien de temps dure Uranus carré Jupiter ?"
-    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant le carré exact à 1° après, et onze mois environ pour les passages les plus rapides. Dans plus de neuf cas sur dix, Uranus forme trois fois le carré exact : en avançant, en reculant pendant la rétrogradation, puis en avançant de nouveau."
+    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant le carré exact à 1° après, et onze mois environ pour les passages les plus rapides. Dans plus de neuf cas sur dix, Uranus forme trois fois le carré exact, en avançant, en reculant puis en avançant de nouveau : assez longtemps pour réviser un cadre de convictions plutôt que l’abandonner."
   - q: "Est-ce qu’Uranus carré Jupiter est un mauvais transit ?"
     a: "Non. Un carré est une friction, et c’est par la friction qu’un ensemble de convictions se met à l’épreuve et se met à jour. La saison peut déstabiliser quand une vision sur laquelle vous comptiez cesse d’aller, mais elle ne juge pas vos choix et ne prédit ni perte, ni échec, ni aucun événement."
   - q: "À quel âge arrive le carré d’Uranus à Jupiter ?"
@@ -46,9 +46,9 @@ Avec Jupiter en maison 6 et Uranus qui traverse votre maison 9 ([Uranus en trans
 
 ## Combien de temps {#combien-de-temps}
 
-Le carré reste dans mes orbes, de 1,5° avant l’exactitude à 1° après, pendant une vingtaine de mois, et onze au plus court. Plus de neuf fois sur dix, Uranus le rencontre trois fois, et je lis ces trois passages comme les étapes d’un même débat : la question posée, reprise pendant la rétrogradation, puis tranchée au dernier passage.
+Une conviction prend du temps à réviser, et ce carré lui donne une vingtaine de mois dans mes orbes, de 1,5° avant l’exactitude à 1° après ; onze au plus court. Plus de neuf fois sur dix, Uranus le rencontre trois fois, et je lis ces trois passages comme les étapes d’un même débat : la question posée, reprise pendant la rétrogradation, puis tranchée au dernier passage.
 
-Les deux carrés se tiennent de part et d’autre de Jupiter : ils tombent à une quarantaine d’années d’écart, à quelques années près selon l’allure inégale d’Uranus. Dans le décompte du site, une naissance début 1945 a connu le premier avant 3 ans, une naissance début 1965 vers 34 ans. Avant 80 ans, aucune personne née entre 1930 et 2009 n’a manqué les deux, et la plupart ont connu la paire.
+Les deux carrés se tiennent de part et d’autre de Jupiter : ils tombent à une quarantaine d’années d’écart, à quelques années près selon l’allure inégale d’Uranus. Dans le décompte du site, une naissance début 1945 a connu le premier avant 3 ans et le second vers 42 ans ; une naissance début 1965, le premier vers 34 ans et le second près de 78. Aucune naissance de 1930 à 2009 ne manque les deux.
 
 [Jupiter carré Uranus](/astrology/jupiter-square-uranus/) à la naissance fixe le calendrier : Uranus part déjà sur l’un des carrés, et l’autre se trouve 180° plus loin, la distance parcourue vers 42 ans, l’âge de votre [opposition d’Uranus](/astrology/uranus-opposition/). Pour tous les autres, les carrés coupent le tour en deux. Entre eux viennent [Uranus en transit trigone Jupiter du thème natal](/astrology/transiting-uranus-trine-natal-jupiter/), [Uranus en transit opposition Jupiter du thème natal](/astrology/transiting-uranus-opposite-natal-jupiter/) et un second trigone ; de l’autre côté du cercle, les sextiles et [Uranus en transit conjonction Jupiter du thème natal](/astrology/transiting-uranus-conjunct-natal-jupiter/), [Uranus en transit sextile Jupiter du thème natal](/astrology/transiting-uranus-sextile-natal-jupiter/) étant le plus doux des cinq.
 

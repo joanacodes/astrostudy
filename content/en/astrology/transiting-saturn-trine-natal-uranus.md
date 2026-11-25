@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Uranus", "trine", "transits"]
 weight: 1658
 glyph: "♄△♅"
-definition: "Transiting Saturn trine natal Uranus is Saturn in the sky standing 120° from the degree Uranus held at your birth, twice in each 29½-year round. Steadiness and the urge for change pull the same way for a while, so an experiment can become a habit. I read it as a fair wind for reform, never a promise."
+definition: "Transiting Saturn trine natal Uranus is Saturn in the sky making a 120° angle with the degree Uranus held at your birth, two trines about ten years apart in each round. Steadiness and the urge for change pull the same way, so an experiment can become a habit. I read it as a fair wind for reform."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Uranus ♅, change and freedom" }
@@ -41,11 +41,11 @@ Twice in every round of Saturn, about ten years apart, the planet of structure r
 
 What I notice in this season is a kind of permission. Rules you've lived by stop feeling like the enemy of your independence, and your independence stops feeling like a risk to what you've built. The trine won't do the work, though: ease isn't inevitability, and plenty of these transits pass with nothing updated at all.
 
-Where it lands depends on the house of your Uranus, the part of life where you insist on your own way. With Uranus in your 6th, it's daily work and its methods; in your 4th, the way a household runs. Houses come from your birth time, and without it I don't read the chart at all ([what changes without a birth time](/blog/unknown-birth-time/)). If you were born with [Saturn trine Uranus](/astrology/saturn-trine-uranus/), in 1955–58, 1971–74 or 2002–04, you know this cooperation from the inside, and the transit wakes it up again.
+Where it lands depends on the house of your Uranus, the part of life where you insist on your own way. With Uranus in your 6th, it's daily work and its methods; in your 4th, the way a household runs. Your houses come from the minute you were born, and I don't guess them ([what changes without a birth time](/blog/unknown-birth-time/)). If you were born with [Saturn trine Uranus](/astrology/saturn-trine-uranus/), in 1955–58, 1971–74 or 2002–04, you know this cooperation from the inside, and the transit wakes it up again.
 
 ## How long it lasts {#how-long-it-lasts}
 
-With the orbs I use, from 1½° before exact to 1° after, the trine usually holds for about nine months. A little over half the time, Saturn's retrograde carries it across the exact degree three times, in about nine and a half months; the rest touch it once, most still lingering about eight months as Saturn turns nearby, and the quickest pass in three weeks.
+Nine months is about what this trine takes, measured with my orbs: 1½° before exact, 1° after. A little over half the time, Saturn's retrograde carries it across the exact degree three times, in about nine and a half months; the rest touch it once, most still lingering about eight months as Saturn turns nearby, and the quickest pass in three weeks.
 
 Uranus spends about seven years in a sign, so people born in the same year have it within a few degrees of each other and meet Saturn's trine within a year or so of the same age. That age shifts a great deal from one birth year to another: about 19 for someone born in 1975, about 12 for 1985, within the first year for 1955, when the two planets were already in trine. After that the trines come in pairs, about ten years apart, with Saturn's opposition to your Uranus between them ([transiting Saturn opposite natal Uranus](/astrology/transiting-saturn-opposite-natal-uranus/)), and nearly twenty years pass before the next pair. Most people meet it five times by 80, a few six.
 

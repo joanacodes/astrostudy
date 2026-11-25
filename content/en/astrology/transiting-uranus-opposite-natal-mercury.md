@@ -1,7 +1,7 @@
 ---
 title: "Transiting Uranus opposite natal Mercury"
 h1: "Transiting Uranus opposite your natal Mercury"
-description: "Transiting Uranus opposite natal Mercury: once at most, twenty months when other people’s ideas challenge yours and your mind changes in the exchange."
+description: "Transiting Uranus opposite natal Mercury: other people’s ideas challenge yours, and your mind changes in the exchange. A twenty-month season, met once at most."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -45,7 +45,7 @@ With Mercury in your 9th and Uranus crossing your 3rd ([Uranus transiting the 3r
 
 ## How long it lasts {#how-long-it-lasts}
 
-Uranus holds the opposition for about twenty months within my orbs, from 1½° before exact to 1° after; the shortest passes take about eleven. In more than nine passes in ten it crosses the exact point three times, which leaves room to change your mind, and to change it back.
+Uranus holds the opposition for about twenty months within my orbs, from 1½° before exact to 1° after; eleven months is enough for the briefest passes. In more than nine passes in ten it crosses the exact point three times, which leaves room to change your mind, and to change it back.
 
 This is the far end of Uranus's round with your Mercury, about 42 years after [transiting Uranus conjunct natal Mercury](/astrology/transiting-uranus-conjunct-natal-mercury/). Before it come the first [transiting Uranus sextile natal Mercury](/astrology/transiting-uranus-sextile-natal-mercury/), [transiting Uranus square natal Mercury](/astrology/transiting-uranus-square-natal-mercury/) and [transiting Uranus trine natal Mercury](/astrology/transiting-uranus-trine-natal-mercury/); after it, the same three again in reverse order, the trine first. A few people, about one in 33 of those born between 1930 and 2009, never get there before 80, and for everyone else this [transit](/astrology/transits/) comes once.
 

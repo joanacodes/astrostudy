@@ -2,7 +2,7 @@
 title: "Jupiter en transit trigone Neptune du thème natal"
 slug: "jupiter-transit-trigone-neptune-natal"
 h1: "Jupiter en transit trigone Neptune de votre thème natal"
-description: "Jupiter en transit trigone Neptune du thème natal : l’imagination et la bonté coulent de source, deux fois par tour. Combien de temps, quand, et qu’en faire."
+description: "Jupiter en transit trigone Neptune du thème natal : l’imagination et la bonté coulent de source, deux fois par tour. Durée, dates, et l’usage de cette aisance."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Neptune", "trigone", "transits"]
 weight: 1604
 glyph: "♃△♆"
-definition: "Avec Jupiter en transit trigone Neptune du thème natal, Jupiter forme un angle de 120° avec Neptune de votre naissance, en général depuis un signe du même élément, deux fois par tour. L’imagination, la compassion et le sens circulent sans grand effort. J’y lis une saison créative facile, qui demande quand même vos mains pour donner quelque chose."
+definition: "Avec Jupiter en transit trigone Neptune du thème natal, Jupiter se place à 120° de Neptune de votre naissance, en général depuis un signe du même élément, deux fois par tour. L’imagination, la compassion et le sens circulent sans grand effort. J’y lis une saison créative facile, qui demande quand même vos mains pour donner quelque chose."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Neptune ♆ de votre thème : l’imagination, la compassion, l’inspiration" }

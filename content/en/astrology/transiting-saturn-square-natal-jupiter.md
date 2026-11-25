@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Jupiter", "square", "transits"]
 weight: 1648
 glyph: "♄□♃"
-definition: "Transiting Saturn square natal Jupiter is a right angle between Saturn in the sky and your birth Jupiter, formed twice in each round of about 29½ years. Expansion meets a limit: plans too big for the hours, beliefs too wide for the facts, promises that need keeping. I read it as friction that finds the right scale for growth, never as loss foretold."
+definition: "Transiting Saturn square natal Jupiter is a right angle between Saturn and your birth Jupiter, formed twice a round. Expansion meets a limit: plans too big for the hours, beliefs too wide for the facts, promises that need keeping. I read it as friction that finds the right scale for growth, never as loss foretold."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Jupiter ♃: how you grow and what you believe" }

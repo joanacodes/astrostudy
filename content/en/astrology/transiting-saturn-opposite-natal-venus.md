@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Venus", "opposition", "transits"]
 weight: 1640
 glyph: "♄☍♀"
-definition: "Transiting Saturn opposite natal Venus is Saturn 180° from the degree your Venus held at birth, about fifteen years after Saturn crossed it, once in each round. What you enjoy and value faces duty and other people’s expectations, and the give and take between you asks to be rebalanced. I read it as a seesaw, never a verdict."
+definition: "Transiting Saturn opposite natal Venus is the halfway point of Saturn's round with your Venus: Saturn across the zodiac from your birth Venus, about fifteen years after the conjunction. What you enjoy and value faces duty and other people’s expectations, and the give and take between you asks to be rebalanced. I read it as a seesaw, never a verdict."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Venus ♀: what you value, enjoy and love" }

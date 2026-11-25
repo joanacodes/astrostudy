@@ -26,7 +26,7 @@ faq:
   - q: "Is transiting Jupiter opposite Mars a bad transit?"
     a: "No transit is bad in itself. The opposition is counted among the hard aspects, and with Mars it can mean taking on more than your energy can carry. It can also give effort a reason bigger than itself. It predicts no accident, injury or quarrel, and I never read it for those."
   - q: "How often does Jupiter oppose natal Mars?"
-    a: "About once every twelve years, the time Jupiter takes to go round the zodiac. Counted for births from 1930 to 2009, people meet it six or seven times by 80, every one of them at least six. It comes about six years after Jupiter crosses your Mars, halfway through that round."
+    a: "About once every twelve years, the time Jupiter takes to go round the zodiac. Counted for births from 1930 to 2009, people meet it six or seven times by 80, every one of them at least six. Halfway through that round, some six years after Jupiter has crossed your Mars, the opposition arrives."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, and how often the opposition comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }

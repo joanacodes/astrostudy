@@ -36,7 +36,7 @@ Une fois dans son tour de 84 ans, Uranus franchit le degré qu’occupait votre 
 
 Votre [Lune](/astrology/moon/) règle les émotions et les besoins : les habitudes qui vous stabilisent, le réconfort vers lequel vous allez, les personnes et les lieux où vous vous sentez chez vous. [Uranus](/astrology/uranus/) apporte l’expérience et la différenciation, l’envie d’avoir de la place pour vivre selon vos propres arrangements. Une [conjonction](/astrology/conjunction/) fond deux fonctions en une pour un temps : ici, l’envie de changer ne vient pas du dehors. Elle part de ce dont vous avez besoin.
 
-Concrètement, des conforts sur lesquels vous comptiez peuvent se mettre à serrer. Une routine qui vous soutenait depuis des années commence à ressembler à une habitude gardée pour elle-même ; des besoins jamais nommés, de solitude, d’une autre sorte de compagnie, d’un autre rythme dans la semaine, deviennent difficiles à ignorer. Les humeurs peuvent tourner plus vite que d’habitude. Rien de tout cela ne veut dire que quelque chose va mal : la Lune s’adapte, et c’est l’une de ses fonctions.
+Concrètement, des conforts sur lesquels vous comptiez peuvent se mettre à serrer. Une routine qui vous soutenait depuis des années commence à ressembler à une habitude gardée pour elle-même ; des besoins jamais nommés, de solitude, d’une autre sorte de compagnie, d’un autre rythme dans la semaine, deviennent difficiles à ignorer. Les humeurs peuvent tourner plus vite que d’habitude. Rien de tout cela ne veut dire que quelque chose va mal : la Lune s’adapte, c’est l’une de ses fonctions.
 
 La question du lieu et de la façon de vivre revient souvent, comme un sentiment bien avant de devenir un projet, et je ne prédis pas de déménagement. Si l’agitation tourne à une anxiété qui ne se calme pas, voyez votre médecin ou une ou un thérapeute ; un thème peut décrire une saison, jamais la soigner ([Astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
 
@@ -44,9 +44,9 @@ La maison qui abrite votre Lune est celle qu’Uranus traverse. Avec la Lune en 
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, Uranus reste sur votre Lune une vingtaine de mois, soit une vingtaine de nouvelles lunes ; les passages les plus courts prennent onze mois environ. Plus de neuf fois sur dix, le degré exact est franchi trois fois, parce que la rétrogradation annuelle d’Uranus repasse sur ce degré avant de repartir pour de bon.
+Mesurée de 1,5° avant l’exactitude à 1° après, mes orbes de prévision, cette conjonction dure une vingtaine de mois, soit une vingtaine de nouvelles lunes ; les passages les plus courts prennent onze mois environ. Trois passages exacts sont l’usage, parce que la rétrogradation annuelle d’Uranus repasse sur ce degré avant de repartir pour de bon ; un passage sur quatorze environ n’en compte qu’un.
 
-Tout ce qu’Uranus fait d’autre avec votre Lune se compte à partir de ce passage : les sextiles ([Uranus en transit sextile Lune du thème natal](/astrology/transiting-uranus-sextile-natal-moon/)) viennent environ quatorze ans avant et après, les carrés ([Uranus en transit carré Lune du thème natal](/astrology/transiting-uranus-square-natal-moon/)) une vingtaine d’années, les trigones ([Uranus en transit trigone Lune du thème natal](/astrology/transiting-uranus-trine-natal-moon/)) environ 28 ans, et l’opposition ([Uranus en transit opposition Lune du thème natal](/astrology/transiting-uranus-opposite-natal-moon/)) environ 42 ans plus tard.
+Les autres contacts d’Uranus avec votre Lune tombent à des distances fixes de celui-ci. À quatorze ans environ de part et d’autre se trouvent les sextiles ([Uranus en transit sextile Lune du thème natal](/astrology/transiting-uranus-sextile-natal-moon/)) ; à une vingtaine d’années, les carrés ([Uranus en transit carré Lune du thème natal](/astrology/transiting-uranus-square-natal-moon/)) ; à 28 ans environ, les trigones ([Uranus en transit trigone Lune du thème natal](/astrology/transiting-uranus-trine-natal-moon/)). L’opposition ([Uranus en transit opposition Lune du thème natal](/astrology/transiting-uranus-opposite-natal-moon/)) est le point le plus lointain, à quelque 42 ans.
 
 Pour trouver votre âge, comptez les signes dans l’ordre du zodiaque, de la position d’Uranus à votre naissance jusqu’à votre Lune, à raison de sept ans environ par signe. Environ 1 personne sur 33 née entre 1930 et 2009 ne rencontre jamais ce transit avant 80 ans, surtout celles dont la Lune se trouvait un peu derrière Uranus à la naissance, de sorte qu’Uranus venait juste de la dépasser. Avec [Lune conjonction Uranus](/astrology/moon-conjunct-uranus/) dans votre thème natal et la Lune légèrement en avance, vous l’avez rencontré dans vos premières années.
 
@@ -54,6 +54,6 @@ Pour trouver votre âge, comptez les signes dans l’ordre du zodiaque, de la po
 
 Garder une ancre. Changer ce qui doit changer, mais laisser un rituel, un repas, une promenade, un appel de la semaine, exactement comme il était, pour que le reste ait autour de quoi bouger.
 
-Essayer de nouveaux conforts à petites doses. Une semaine ailleurs, une nouvelle routine du soir, une autre façon de passer du temps avec les personnes que vous aimez : tester avant de reconstruire.
+Essayer de nouveaux conforts à petites doses. Une semaine ailleurs, une nouvelle routine du soir, une autre façon de passer du temps avec vos proches : tester avant de reconstruire.
 
 Dire aux personnes avec qui vous vivez ce dont vous avez besoin avant de le prendre. Dit tôt, un besoin d’air est une demande ; pris d’un coup, il peut leur faire l’effet d’une porte qui se ferme.

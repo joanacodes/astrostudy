@@ -33,11 +33,11 @@ Jupiter squares its own birth degree twice in every twelve-year round, three yea
 
 ## What changes {#what-changes}
 
-Your natal [Jupiter](/astrology/jupiter/) shows how you grow and what you put your faith in. A [square](/astrology/square/) relates two functions through constructive friction; here the function rubs against itself, a quarter of the zodiac apart. A square usually falls in a sign of the same modality as your natal Jupiter, cardinal, fixed or mutable, so the two share a way of moving and disagree on most of the rest. Born with Jupiter in Sagittarius, its own sign, you meet the first square of each cycle with Jupiter in Pisces, its traditional home, and the second with Jupiter in Virgo, one of its detriments.
+Your birth [Jupiter](/astrology/jupiter/) is your own way of growing, and what you trust enough to build on. A [square](/astrology/square/) relates two functions through constructive friction; here the function rubs against itself, a quarter of the zodiac apart. A square usually falls in a sign of the same modality as your natal Jupiter, cardinal, fixed or mutable, so the two share a way of moving and disagree on most of the rest. Born with Jupiter in Sagittarius, its own sign, you meet the first square of each cycle with Jupiter in Pisces, its traditional home, and the second with Jupiter in Virgo, one of its detriments.
 
 The first square of a round tests what the [Jupiter return](/astrology/jupiter-return/) started. Three years in, the course, the move, the conviction has met real life, and something doesn't fit: the plan was bigger than the hours, or the belief smaller than the experience. The second square, three years before the next return, works the other way round: it sorts what you'll carry into the new round from what you have outgrown. In both, wisdom is not certainty, and that is what Jupiter is asked to remember.
 
-Where the friction shows depends on your Jupiter's house, and on the house transiting Jupiter is crossing at the time. Both need your birth time, without which I don't read a chart ([what changes without a birth time](/blog/unknown-birth-time/)).
+Where the friction shows depends on your Jupiter's house, and on the house transiting Jupiter is crossing at the time. Placing them takes the time you were born, and I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
@@ -45,7 +45,7 @@ Counting from 1½° before exact to 1° after, as I do for every transit I time,
 
 Counted from birth, the first square came between 2.4 and 3.2 years of age: at about 2.6 for someone born on 1 January 1965, at about 3.2 for 1 January 1945. Thirteen or fourteen of them fit into the first 80 years of any birth from 1930 to 2009. Compare Saturn, whose squares to its own place come only a handful of times in a life ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)): Jupiter's are frequent enough to read as adjustments rather than milestones.
 
-Between the two squares of a round lie [transiting Jupiter trine natal Jupiter](/astrology/transiting-jupiter-trine-natal-jupiter/) and [transiting Jupiter opposite natal Jupiter](/astrology/transiting-jupiter-opposite-natal-jupiter/), the halfway point; outside them, [transiting Jupiter sextile natal Jupiter](/astrology/transiting-jupiter-sextile-natal-jupiter/), the cycle's gentlest moments, about a year nearer the return. Like every [transit](/astrology/transits/), each of them brings out what your chart already holds.
+Between the waxing and the waning square lie [transiting Jupiter trine natal Jupiter](/astrology/transiting-jupiter-trine-natal-jupiter/) and [transiting Jupiter opposite natal Jupiter](/astrology/transiting-jupiter-opposite-natal-jupiter/), the halfway point; outside them, [transiting Jupiter sextile natal Jupiter](/astrology/transiting-jupiter-sextile-natal-jupiter/), the cycle's gentlest moments, about a year nearer the return. Each of them, like any [transit](/astrology/transits/), can only work with the Jupiter you were born with.
 
 ## What helps {#what-helps}
 

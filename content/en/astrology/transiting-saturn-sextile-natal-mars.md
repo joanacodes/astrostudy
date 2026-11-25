@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/mars", "/astrology/sextile", "/astrology/mars-sextile-saturn", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn sextile natal Mars mean?"
-    a: "Saturn is making a sextile, 60°, to the degree your Mars held at birth. Your drive and initiative get the offer of a method: a plan, a schedule, an experienced guide, a standard worth meeting. Nothing is forced under a sextile, so I read it as a practical opening for disciplined effort, one you choose to use."
+    a: "Saturn and your birth Mars are two signs apart, a sextile of 60°. Your drive and initiative get the offer of a method: a plan, a schedule, an experienced guide, a standard worth meeting. Nothing is forced under a sextile, so I read it as a practical opening for disciplined effort, one you choose to use."
   - q: "Is Saturn sextile Mars a good time to start a training plan?"
     a: "It tends to be. The sextile favours effort with a method: a schedule you can keep, a coach or a plan, practice that adds up over months. It doesn’t do the training for you, and nothing about it is guaranteed. I read it as a season when discipline costs less than usual."
   - q: "How long does Saturn sextile Mars last?"

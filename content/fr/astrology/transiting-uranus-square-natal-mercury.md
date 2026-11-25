@@ -2,7 +2,7 @@
 title: "Uranus en transit carré Mercure du thème natal"
 slug: "uranus-transit-carre-mercure-natal"
 h1: "Uranus en transit carré Mercure de votre thème natal"
-description: "Uranus en transit carré Mercure du thème natal : vingt mois, deux fois en général, où une vieille façon de penser ne va plus. Depuis les Gémeaux, ce qui aide."
+description: "Uranus en transit carré Mercure du thème natal : une vieille façon de penser ne va plus et une meilleure méthode s’impose, en général deux fois. Ce qui aide."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Mercure", "carré", "transits"]
 weight: 1692
 glyph: "♅□☿"
-definition: "Uranus en transit carré Mercure du thème natal, c’est une vingtaine de mois, deux fois dans la plupart des vies, où Uranus forme un angle droit avec votre Mercure de naissance. Les vieilles façons de penser, d’expliquer et de travailler ne vont plus, et la friction pousse vers de meilleures méthodes. J’y lis une impatience qui a souvent raison."
+definition: "Uranus en transit carré Mercure du thème natal place Uranus à angle droit de votre Mercure de naissance pendant une vingtaine de mois, et la plupart des vies connaissent ce carré deux fois. Les vieilles façons de penser et de travailler ne vont plus, et la friction pousse vers de meilleures méthodes. J’y lis une impatience qui a souvent raison."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Mercure ☿ : penser, apprendre et parler" }

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Lune", "trigone", "transits"]
 weight: 1688
 glyph: "♅△☽"
-definition: "Uranus en transit trigone Lune du thème natal apporte une vingtaine de mois, deux fois dans la plupart des vies, où Uranus forme un angle de 120° avec votre Lune de naissance. Les émotions s’adaptent vite : une nouvelle routine, une vie plus libre chez vous peuvent s’installer sans lutte. J’y lis un changement qui ressemble à un soulagement."
+definition: "Uranus en transit trigone Lune du thème natal est le contact le plus facile qu’Uranus forme avec votre Lune : un trigone, 120°, tenu une vingtaine de mois, deux fois dans la plupart des vies. Les émotions s’adaptent vite, et une vie plus libre chez vous s’installe sans lutte. J’y lis un changement qui ressemble à un soulagement."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "La Lune ☽ : besoins, habitudes, sentiment de sécurité" }

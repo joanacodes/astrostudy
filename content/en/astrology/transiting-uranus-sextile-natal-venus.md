@@ -1,7 +1,7 @@
 ---
 title: "Transiting Uranus sextile natal Venus"
 h1: "Transiting Uranus sextile your natal Venus"
-description: "Transiting Uranus sextile natal Venus: twenty months, twice in most lives, when new friends, pleasures and tastes come within reach. Saying yes, and when."
+description: "Transiting Uranus sextile natal Venus: new friends, pleasures and tastes within reach for about twenty months, twice in most lives, if you say yes to them."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -24,12 +24,12 @@ faq:
   - q: "Is Uranus sextile Venus good for relationships?"
     a: "It’s one of the friendlier backgrounds for them, as I read it, because it brings novelty without strain: a bond can take in something new without being shaken. It doesn’t bring anyone or end anything, though. Whatever freshness it offers comes through what the two of you choose to try."
   - q: "When does Uranus sextile Venus happen?"
-    a: "Uranus sextiles your Venus twice in each 84-year circuit, once some fourteen years before passing over it and once some fourteen years after. With my orbs each sextile lasts about twenty months, usually with three exact hits, and most people have had both by the time they reach 80."
+    a: "Uranus sextiles your Venus twice in each 84-year circuit, once some fourteen years before passing over it and once some fourteen years after. Each sextile holds about twenty months within my orbs, and most people have had both by the time they reach 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the sextile comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus sextile Venus, among his transits" }
 ---
-Fourteen years or so before Uranus reaches your Venus, and fourteen after, it forms a sextile to it. Each time, for about twenty months, pleasure and novelty stop competing, and something new turns out to be enjoyable rather than unsettling.
+Uranus sextiles your Venus on the way in, fourteen years or so before crossing it, and again on the way out, fourteen years after. Each time, for about twenty months, pleasure and novelty stop competing, and something new turns out to be enjoyable rather than unsettling.
 
 ## What changes {#what-changes}
 

@@ -1,7 +1,7 @@
 ---
 title: "Transiting Uranus trine natal Mercury"
 h1: "Transiting Uranus trine your natal Mercury"
-description: "Transiting Uranus trine natal Mercury: twenty months, twice in most lives, when unusual ideas land and learning comes easily. How to use it before it passes."
+description: "Transiting Uranus trine natal Mercury: unusual ideas land and learning comes easily for some twenty months, twice in most lives. Use it before it passes."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/mercury", "/astrology/trine", "/astrology/mercury-trine-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus trine natal Mercury mean?"
-    a: "Uranus has come round to 120° from your birth Mercury and stays near it about twenty months. I read it as a stretch when originality and clear thinking help each other: you learn fast, you explain new ideas well, and people are readier than usual to take an unconventional suggestion seriously."
+    a: "For some twenty months a trine joins Uranus to your birth Mercury. I read it as a stretch when originality and clear thinking help each other: you learn fast, you explain new ideas well, and people are readier than usual to take an unconventional suggestion seriously."
   - q: "Is Uranus trine Mercury good for writing?"
     a: "As I read it, it’s one of the kindest backgrounds for writing, study or any work with ideas, because invention and expression flow together. The risk is the trine’s usual one: easy ideas left unfinished. A project with a deadline uses this transit far better than a notebook of beginnings."
   - q: "How often does Uranus trine Mercury?"
-    a: "Twice in Uranus’s round of about 84 years, about 28 years before and 28 years after it crosses your Mercury. Most people born between 1930 and 2009 have both by 80, and all have at least one. Each visit runs to about twenty months."
+    a: "Twice in Uranus’s round of about 84 years, about 28 years before and 28 years after it crosses your Mercury. By 80 nearly everyone born between 1930 and 2009 has had both, and no one fewer than one. Each visit runs to about twenty months."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the trine comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus trine Mercury, among his transits" }

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Lune", "carré", "transits"]
 weight: 1687
 glyph: "♅□☽"
-definition: "Uranus en transit carré Lune du thème natal, ce sont vingt mois, deux fois dans la plupart des vies, où Uranus se tient à un quart de zodiaque de votre Lune de naissance. Vos conforts et vos routines frottent contre un besoin d’air, et votre façon de vivre demande un autre arrangement. J’y lis un confort rebâti, jamais retiré."
+definition: "Uranus en transit carré Lune du thème natal, c’est une friction d’une vingtaine de mois entre Uranus et votre Lune de naissance, à un quart de zodiaque de distance, deux fois dans la plupart des vies. Vos routines frottent contre un besoin d’air, et votre façon de vivre demande un autre arrangement. J’y lis un confort rebâti, jamais retiré."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "La Lune ☽ : besoins, habitudes, sentiment de sécurité" }
@@ -38,7 +38,7 @@ Votre [Lune](/astrology/moon/) vous tient d’aplomb : l’attachement, l’hab
 
 L’agitation se ressent souvent à la maison plutôt que dans le monde. L’appartement semble petit, la routine qui vous a fait traverser l’an dernier ressemble à une ornière, et une soirée calme peut donner envie de déplacer quelque chose. Les émotions arrivent vite et repartent vite ; vous pouvez vouloir de la proximité et de l’air dans la même heure, et les personnes qui vivent avec vous aussi.
 
-J’y lis un réaménagement. Bien peu de ce que ce carré dérange doit être jeté : il faut d’autres horaires, une autre pièce, une autre façon de prendre soin de vous. Si ce sentiment d’instabilité cesse d’être une saison et revient chaque nuit, parlez-en à une personne formée pour aider ([Quand consulter plutôt un professionnel](/astrology/when-to-see-a-professional-instead/)).
+Pour moi, c’est un réaménagement. Bien peu de ce que ce carré dérange doit être jeté : il faut d’autres horaires, une autre pièce, une autre façon de prendre soin de vous. Si ce sentiment d’instabilité cesse d’être une saison et revient chaque nuit, parlez-en à une personne formée pour aider ([Quand consulter plutôt un professionnel](/astrology/when-to-see-a-professional-instead/)).
 
 Avec votre Lune en maison 2 et Uranus qui traverse votre maison 5 ([Uranus en transit en maison 5](/astrology/uranus-transit-5th-house/)), le réconfort bâti sur ce qui est stable et possédé rencontre un appétit de jeu, de risque et de surprise. Ces maisons et le degré exact de la Lune viennent tous de votre heure de naissance ; sans elle, je ne peux même pas dater le carré, et je ne le lis donc pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Ascendant", "rising sign", "trine", "transits"]
 weight: 1673
 glyph: "♄△AC"
-definition: "Transiting Saturn trine natal Ascendant is Saturn in the sky reaching 120° from the degree that was rising at your birth, twice in each 29½-year round. Steadiness flows into your manner, and people tend to take you seriously without your having to insist. I read it as an easy season for presence, never a promise of luck."
+definition: "Transiting Saturn trine natal Ascendant is Saturn in the sky making a 120° angle with the degree that was rising at your birth, about ten years either side of crossing it. Steadiness flows into your manner, and people tend to take you seriously without your insisting. I read it as an easy season for presence, never a promise."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "The Ascendant AC, the way you meet the world" }
@@ -23,9 +23,9 @@ faq:
   - q: "What does transiting Saturn trine natal Ascendant mean?"
     a: "Saturn in the sky is 120° from your rising degree, so steadiness reaches the way you meet people and situations with little friction. You may find it easier to be taken seriously, to keep the commitments you make on arrival, or to settle into a role. It’s an easy season, and easy seasons need using."
   - q: "How long does Saturn trine the Ascendant last?"
-    a: "Nine months or so with my orbs, from 1½° before exact to 1° after. A little over half of these trines come as a retrograde loop of three exact hits, about nine and a half months long; with a single hit, three weeks."
+    a: "Expect about nine months in orb, with my orbs of 1½° before exact and 1° after. The exact hits come in threes slightly more often than not; a lone hit can mean three weeks. A birth time known only to the half hour blurs the dates across most of a year."
   - q: "When does Saturn trine my Ascendant?"
-    a: "Twice in each 29½-year round: about ten years after Saturn crosses your Ascendant, with Saturn around your 5th house, and about ten years before the next crossing, around your 9th. Your birth time sets the months. With Leo or Sagittarius rising, Saturn’s years in Aries, until April 2028, bring one."
+    a: "Twice in each 29½-year round: about ten years after Saturn crosses your Ascendant, with Saturn around your 5th house, and about ten years before the next crossing, around your 9th. Your birth time sets the months. Leo and Sagittarius rising are having theirs while Saturn crosses Aries, until April 2028."
   - q: "Does Saturn trine my Ascendant bring good luck?"
     a: "I don’t read luck in it. The trine makes a steady, reliable manner easier to sustain, and that can make you easier to trust, but nothing arrives because of the transit. What you build on the ease is up to you, and so is whether you notice it at all."
 sources:
@@ -40,13 +40,13 @@ Twice in each round, about ten years after Saturn crosses your rising degree and
 
 Ease isn't inevitability, and flow isn't passivity. The trine suits settling into the person you've become since the last crossing: dropping a mannerism that belonged to an older role, letting a quieter authority show. It doesn't hand you anything, and it can be spent simply feeling comfortable.
 
-The two trines arrive from different houses. The first comes with Saturn around your 5th house ([Saturn transiting the 5th house](/astrology/saturn-transit-5th-house/)): creativity, play, romance, what you make for its own sake. Tradition gave the 5th children too, and no transit can say anything about a pregnancy ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)). The second comes with Saturn around your 9th ([Saturn transiting the 9th house](/astrology/saturn-transit-9th-house/)): beliefs, study, long journeys.
+Each trine comes with Saturn in a different house. The first comes with Saturn around your 5th house ([Saturn transiting the 5th house](/astrology/saturn-transit-5th-house/)): creativity, play, romance, what you make for its own sake. Tradition gave the 5th children too, and no transit can say anything about a pregnancy ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)). The second comes with Saturn around your 9th ([Saturn transiting the 9th house](/astrology/saturn-transit-9th-house/)): beliefs, study, long journeys.
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, 1½° before exact to 1° after, the trine lasts about nine months. A little over half the time Saturn's retrograde gives it three exact hits, over about nine and a half months; with a single hit, three weeks.
+Expect about nine months from the first day in orb to the last, with my orbs of 1½° before exact and 1° after. The exact hits come in threes slightly more often than not, as Saturn turns back; a lone hit can mean a stay of three weeks.
 
-Most people have five by 80, some six. The months hang on your rising degree, and a birth time known only to the nearest half hour leaves them uncertain across most of a year. That margin is one more reason I wait for the time before reading anything ([what changes without a birth time](/blog/unknown-birth-time/)).
+Five or six of these trines come by 80, five for most people. The months hang on your rising degree, and a birth time known only to the nearest half hour leaves them uncertain across most of a year. That margin is one more reason I wait for the time before reading anything ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Saturn is in Aries until April 2028, and Aries trines Leo and Sagittarius: with Leo rising, this is the trine from the side of your 9th house; with Sagittarius rising, the one from your 5th. Each trine has a square about two and a half years away, on the side of your IC or Midheaven ([transiting Saturn square natal Ascendant](/astrology/transiting-saturn-square-natal-ascendant/)), and a sextile about five years away, on the side of your Ascendant ([transiting Saturn sextile natal Ascendant](/astrology/transiting-saturn-sextile-natal-ascendant/)); the round turns on [transiting Saturn conjunct natal Ascendant](/astrology/transiting-saturn-conjunct-natal-ascendant/) and [transiting Saturn opposite natal Ascendant](/astrology/transiting-saturn-opposite-natal-ascendant/).
 

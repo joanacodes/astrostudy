@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Midheaven", "sextile", "transits"]
 weight: 1676
 glyph: "♄⚹MC"
-definition: "Transiting Saturn sextile natal Midheaven is Saturn in the sky reaching 60° from the degree at the top of your birth chart, twice in each 29½-year round. Structure offers your public role a practical opening: a responsibility that fits, a skill made official. I read it as an invitation to accept on your own terms, never a promise."
+definition: "Transiting Saturn sextile natal Midheaven is Saturn in the sky 60° from the top of your birth chart, and so in trine with its lowest point, the IC, twice in each round. Structure offers your public role a practical opening: a responsibility that fits, a skill made official. I read it as an invitation, never a promise."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "The Midheaven MC, your direction and public role" }
@@ -23,9 +23,9 @@ faq:
   - q: "What does transiting Saturn sextile natal Midheaven mean?"
     a: "Saturn in the sky is 60° from your Midheaven, so a practical opening appears in your working or public life: a role that suits you, a qualification, an arrangement put on a proper footing. Because the same angle is a trine to your IC, home tends to support the effort. It still needs taking up."
   - q: "How long does Saturn sextile the Midheaven last?"
-    a: "With my orbs, 1½° before exact to 1° after, about nine months. Saturn’s retrograde gives a little over half of these sextiles three exact hits over about nine and a half months; with one hit, the window can be three weeks."
+    a: "A sextile to the Midheaven runs to about nine months within my orbs, 1½° before exact and 1° after. It’s exact three times a little more often than once; a single exact hit can make it a matter of three weeks."
   - q: "When does Saturn sextile my Midheaven?"
-    a: "Twice in each round: about five years before Saturn reaches your Midheaven, and about five years after. The months depend on your birth time, because the Midheaven moves about a degree every four minutes. With a Gemini or Aquarius Midheaven, Saturn’s years in Aries, until April 2028, bring one."
+    a: "Twice in each round: about five years before Saturn reaches your Midheaven, and about five years after. The months depend on your birth time, because the Midheaven moves about a degree every four minutes. A Gemini or Aquarius Midheaven has one now, with Saturn in Aries until April 2028."
   - q: "Does Saturn sextile my Midheaven mean a promotion?"
     a: "Not as a promise. The sextile makes it easier to take on a responsibility or a role that fits you, and offers sometimes come during it, but nothing arrives because of the transit. What it favours is the steady, practical step, taken by you."
 sources:
@@ -44,11 +44,11 @@ Where your Midheaven falls, and which houses Saturn crosses on its way, both com
 
 ## How long it lasts {#how-long-it-lasts}
 
-Saturn holds this sextile for about nine months within my orbs, 1½° before exact to 1° after. A little over half the time the retrograde brings three exact hits, over about nine and a half months; a single hit can close it in three weeks. Most people meet five by 80, a few six.
+Within the orbs I time things by, 1½° before exact and 1° after, a sextile to the Midheaven runs to about nine months. It reaches exact three times a little more often than once, which takes about nine and a half months, and a single exact hit can make it a matter of three weeks. Five of these sextiles by 80 is the common count; a few people have six.
 
 The first comes about five years before Saturn reaches your Midheaven, as it climbs the western side of your chart; the second about five years after, as it heads down towards your Ascendant. Two birth times given by different relatives, half an hour apart, would put these sextiles seven or eight months apart, which is why the recorded time matters.
 
-Saturn is in Aries until April 2028, and Aries sextiles Gemini and Aquarius: with your Midheaven in either sign, one of these is yours now. [Transiting Saturn conjunct natal Midheaven](/astrology/transiting-saturn-conjunct-natal-midheaven/) sits between the two sextiles; [transiting Saturn square natal Midheaven](/astrology/transiting-saturn-square-natal-midheaven/) lies about two and a half years beyond each, [transiting Saturn trine natal Midheaven](/astrology/transiting-saturn-trine-natal-midheaven/) about five, and [transiting Saturn opposite natal Midheaven](/astrology/transiting-saturn-opposite-natal-midheaven/) on the far side of the round, at your IC.
+If your Midheaven is in Gemini or Aquarius, one of these sextiles is happening now: Saturn crosses Aries, two signs from each, until April 2028. [Transiting Saturn conjunct natal Midheaven](/astrology/transiting-saturn-conjunct-natal-midheaven/) sits between the two sextiles; [transiting Saturn square natal Midheaven](/astrology/transiting-saturn-square-natal-midheaven/) lies about two and a half years beyond each, [transiting Saturn trine natal Midheaven](/astrology/transiting-saturn-trine-natal-midheaven/) about five, and [transiting Saturn opposite natal Midheaven](/astrology/transiting-saturn-opposite-natal-midheaven/) on the far side of the round, at your IC.
 
 ## What helps {#what-helps}
 

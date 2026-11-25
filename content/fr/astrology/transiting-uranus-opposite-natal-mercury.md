@@ -2,7 +2,7 @@
 title: "Uranus en transit opposition Mercure du thème natal"
 slug: "uranus-transit-opposition-mercure-natal"
 h1: "Uranus en transit opposition Mercure de votre thème natal"
-description: "Uranus en transit opposition Mercure du thème natal : une fois au plus, vingt mois où les idées des autres bousculent les vôtres, et où l’échange vous change."
+description: "Uranus en transit opposition Mercure du thème natal : les idées des autres bousculent les vôtres, et l’échange vous change. Au plus une saison de vingt mois."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -25,7 +25,7 @@ faq:
   - q: "Uranus opposition Mercure, est-ce que cela apporte des nouvelles inattendues ?"
     a: "Les informations surprenantes font partie de la façon dont on le décrit souvent, et cela peut se vivre ainsi. Je ne prédis pas de nouvelles pour autant, bonnes ou mauvaises. Le transit décrit un esprit qui rencontre des points de vue venus d’ailleurs pendant une vingtaine de mois, et ce que vous décidez reste à vous."
   - q: "Uranus en opposition à Mercure, c’est tous les combien ?"
-    a: "Uranus atteint le point opposé à votre Mercure une fois par circuit de 84 ans, environ 42 ans après son passage sur Mercure, si bien qu’une vie connaît cette opposition une fois au plus. Sur 33 personnes nées entre 1930 et 2009, environ 32 l’ont connue avant 80 ans. Vingt mois, c’est sa durée habituelle, et trois passages exacts, son compte habituel."
+    a: "Uranus atteint le point opposé à votre Mercure une fois par circuit de 84 ans, environ 42 ans après son passage sur Mercure, si bien qu’une vie connaît cette opposition une fois au plus. Sur 33 personnes nées entre 1930 et 2009, environ 32 l’ont connue avant 80 ans. Elle dure en général vingt mois, en trois passages exacts."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent l’opposition avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "l’opposition d’Uranus à Mercure, parmi ses transits" }
@@ -46,7 +46,7 @@ Avec Mercure en maison 9 et Uranus qui traverse votre maison 3 ([Uranus en trans
 
 ## Combien de temps {#combien-de-temps}
 
-Uranus tient l’opposition une vingtaine de mois dans mes orbes, de 1,5° avant l’exactitude à 1° après ; les passages les plus courts prennent onze mois environ. Dans plus de neuf cas sur dix, le point exact est franchi trois fois, ce qui laisse le temps de changer d’avis, et d’en changer encore.
+Uranus tient l’opposition une vingtaine de mois dans mes orbes, de 1,5° avant l’exactitude à 1° après ; onze mois suffisent aux passages les plus brefs. Dans plus de neuf cas sur dix, le point exact est franchi trois fois, ce qui laisse le temps de changer d’avis, et d’en changer encore.
 
 C’est le bout du tour qu’Uranus fait avec votre Mercure, environ 42 ans après [Uranus en transit conjonction Mercure du thème natal](/astrology/transiting-uranus-conjunct-natal-mercury/). Avant cette opposition viennent le premier [Uranus en transit sextile Mercure du thème natal](/astrology/transiting-uranus-sextile-natal-mercury/), le premier [Uranus en transit carré Mercure du thème natal](/astrology/transiting-uranus-square-natal-mercury/) et le premier [Uranus en transit trigone Mercure du thème natal](/astrology/transiting-uranus-trine-natal-mercury/) ; après elle, les trois mêmes dans l’ordre inverse, le trigone d’abord. Quelques personnes, environ une sur 33 parmi les naissances de 1930 à 2009, n’y arrivent jamais avant 80 ans, et pour toutes les autres, ce [transit](/astrology/transits/) vient une fois.
 

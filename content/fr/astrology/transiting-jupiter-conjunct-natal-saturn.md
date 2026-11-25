@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Saturne", "conjonction", "transits"]
 weight: 1591
 glyph: "♃☌♄"
-definition: "Jupiter en transit conjonction Saturne du thème natal, c’est le passage de Jupiter sur Saturne de votre naissance, qui revient tous les douze ans environ. La croissance rejoint la part du thème qui bâtit lentement. J’y lis de l’air et du recul pour un long effort, jamais une récompense arrivée à échéance."
+definition: "Jupiter en transit conjonction Saturne du thème natal met Jupiter sur Saturne de votre naissance, un rendez-vous qui revient de douze ans en douze ans environ. La croissance rejoint la part du thème qui bâtit lentement. J’y lis de l’air et du recul pour un long effort, jamais une récompense arrivée à échéance."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Saturne ♄ de votre thème : la structure, les responsabilités, les limites" }
@@ -31,11 +31,11 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne natale parmi les placements qui ont le plus souvent tenu" }
 ---
-Une fois tous les douze ans environ, Jupiter passe sur le degré que Saturne occupait à votre naissance. Pour quelques jours, parfois des mois, la planète qui élargit se pose là où votre thème bâtit lentement, et ce travail patient prend un peu d’air.
+Tous les douze ans à peu près, Jupiter arrive sur le degré que Saturne occupait à votre naissance. Pour quelques jours, parfois des mois, la planète qui élargit se pose là où votre thème bâtit lentement, et ce travail patient prend un peu d’air.
 
 ## Ce qui change {#ce-qui-change}
 
-[Saturne](/astrology/saturn/) est l’endroit du thème où l’on bâtit lentement : la structure, les responsabilités, les limites, le long travail qui fait tenir les choses. [Jupiter](/astrology/jupiter/) élargit la compréhension et cherche ce que les choses veulent dire. Une [conjonction](/astrology/conjunction/) fait travailler les deux comme un seul processus : pendant un temps, la croissance et la structure arrivent ensemble. La tradition mettait Jupiter en tête des bénéfiques et Saturne en tête des maléfiques ; je lis plutôt ce que fait chacune des deux planètes.
+[Saturne](/astrology/saturn/) est l’endroit du thème où l’on bâtit lentement : la structure, les responsabilités, les limites, et la patience qui fait durer les choses. [Jupiter](/astrology/jupiter/) élargit le regard et cherche le sens des choses. Une [conjonction](/astrology/conjunction/) fait travailler les deux comme un seul processus : pendant un temps, la croissance et la structure arrivent ensemble. La tradition mettait Jupiter en tête des bénéfiques et Saturne en tête des maléfiques ; je lis plutôt ce que fait chacune des deux planètes.
 
 Concrètement, cela ressemble souvent à du recul sur un devoir : de l’aide pour une responsabilité portée seul ou seule, de la marge dans une règle tenue depuis longtemps. Le même transit peut pousser à promettre davantage justement là où il faut du réalisme. S’étendre n’est pas déborder, et une structure ne grandit bien qu’autant qu’elle peut porter le poids en plus.
 
@@ -47,7 +47,7 @@ Ce [transit](/astrology/transits/) n’est pas la grande conjonction ([grandes c
 
 Jupiter parcourt en général le trajet qui va de 1,5° avant Saturne à 1° après, les orbes que j’utilise pour situer les transits, en onze jours environ. Quand sa rétrogradation annuelle tombe sur ce trajet, trois fois sur dix environ, Jupiter passe trois fois et reste quelque huit mois. Six ou sept de ces transits tombent avant 80 ans pour les naissances de 1930 à 2009.
 
-Le premier passage est venu entre quelques semaines et douze ans après la naissance, selon un rythme de vingt ans, celui des grandes conjonctions. Pour une naissance le 1er janvier 1935, 1955, 1975 ou 1995, quelques années avant une grande conjonction, avec Jupiter encore derrière Saturne, on l’a rencontré à trois ou quatre ans ; pour le 1er janvier 1945, 1965, 1985 ou 2005, quelques années après, avec Jupiter déjà devant, à neuf ou dix ans.
+Le premier passage est venu entre quelques semaines et douze ans après la naissance, selon un rythme de vingt ans, celui des grandes conjonctions. Pour une naissance le 1er janvier 1935, 1955, 1975 ou 1995, dans les années qui précèdent une grande conjonction, avec Jupiter encore derrière Saturne, on l’a rencontré à trois ou quatre ans ; pour le 1er janvier 1945, 1965, 1985 ou 2005, dans les années qui la suivent, avec Jupiter déjà devant, à neuf ou dix ans.
 
 Ce qui commence ici est mis à l’épreuve pendant le reste du tour de Jupiter. [Jupiter en transit carré Saturne du thème natal](/astrology/transiting-jupiter-square-natal-saturn/), trois ans plus tard, demande si la structure élargie supporte la charge ; [Jupiter en transit opposition Saturne du thème natal](/astrology/transiting-jupiter-opposite-natal-saturn/), à six ans, la confronte à ce que veulent les autres ; [Jupiter en transit sextile Saturne du thème natal](/astrology/transiting-jupiter-sextile-natal-saturn/) et [Jupiter en transit trigone Saturne du thème natal](/astrology/transiting-jupiter-trine-natal-saturn/) sont les étapes plus faciles entre les deux. [Saturne en transit conjonction Jupiter du thème natal](/astrology/transiting-saturn-conjunct-natal-jupiter/) en est le reflet lent : des mois plutôt que des jours, et c’est la structure qui vient à votre croissance.
 

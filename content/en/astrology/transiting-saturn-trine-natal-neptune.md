@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Neptune", "trine", "transits"]
 weight: 1663
 glyph: "♄△♆"
-definition: "Transiting Saturn trine natal Neptune is Saturn in the sky reaching 120° from the degree Neptune held at your birth, twice in each 29½-year round. Discipline and imagination keep the same pace, and an art, a faith or a way of caring can settle into a routine. I read it as an easy current, never a promise."
+definition: "Transiting Saturn trine natal Neptune is Saturn in the sky making a 120° angle with the degree Neptune held at your birth, once on each side of its opposition to that degree. Discipline and imagination keep the same pace, and an art, a faith or a way of caring can find its routine. I read it as an easy current."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Neptune ♆, imagination and compassion" }
@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting Saturn trine natal Neptune mean?"
     a: "Saturn in the sky is 120° from your natal Neptune, so structure and imagination move at the same pace for a while. Making room for an art, a spiritual practice or a way of caring tends to take less effort than usual, and routine stops feeling like the enemy of inspiration. The ease is real, but it needs using."
   - q: "How long does Saturn trine Neptune last?"
-    a: "Around nine months with my orbs, from 1½° before exact to 1° after. A little over half of these trines come as a retrograde loop with three exact hits, over about nine and a half months; the shortest, with a single hit, last three weeks."
+    a: "Allow about nine months, with my orbs of 1½° before exact and 1° after. In a little over half of these trines Saturn’s retrograde gives three exact hits, and the shortest, exact only once, are over in three weeks."
   - q: "When does Saturn trine my Neptune?"
     a: "Twice in each round of Saturn: two trines about ten years apart, either side of Saturn’s opposition to your Neptune, then about twenty years before the next pair. Born in 1975, you had them at about 22 and 31 and meet the next at about 51; born in 1985, at about 13 and 23, then 43."
   - q: "Is Saturn trine Neptune a good time for art or a spiritual practice?"
@@ -44,9 +44,9 @@ The house of your Neptune says what kind of dream is involved: in the 12th, a qu
 
 ## How long it lasts {#how-long-it-lasts}
 
-Saturn keeps this trine for about nine months, counted with my orbs from 1½° before exact to 1° after. A little over half the time, its retrograde loops across the degree for three exact hits, in about nine and a half months; with a single hit, the window can be as short as three weeks.
+Allow about nine months for this trine, from 1½° before exact to 1° after, the orbs I time transits with. When Saturn's retrograde loops over the degree, which happens a little over half the time, the trine is exact three times; when Saturn passes once, it can be over in three weeks.
 
-The trines come in pairs about ten years apart, one before and one after Saturn opposes your Neptune ([transiting Saturn opposite natal Neptune](/astrology/transiting-saturn-opposite-natal-neptune/)); some twenty years then pass, across Saturn's crossing of it ([transiting Saturn conjunct natal Neptune](/astrology/transiting-saturn-conjunct-natal-neptune/)), before the next pair. Most people have five by 80, some six. Neptune moves about two degrees a year, so people born in the same year share the ages: the first came at about 13 for those born in 1985, about 17 for 1945, and within two years of birth for 1965 and 1975, when the trine was forming in the sky. Saturn's crossing of Aries, until April 2028, trines all of Sagittarius: with Neptune in Sagittarius, as for most people born between 1970 and 1984, your trine falls now, at about 51 if you were born in 1975.
+The trines come in pairs about ten years apart, one before and one after Saturn opposes your Neptune ([transiting Saturn opposite natal Neptune](/astrology/transiting-saturn-opposite-natal-neptune/)); some twenty years then pass, across Saturn's crossing of it ([transiting Saturn conjunct natal Neptune](/astrology/transiting-saturn-conjunct-natal-neptune/)), before the next pair. Five of them by 80 is usual, and some people have six. Neptune moves about two degrees a year, so people born in the same year share the ages: the first came at about 13 for those born in 1985, about 17 for 1945, and within two years of birth for 1965 and 1975, when the trine was forming in the sky. Those born between 1970 and 1984, most with Neptune in Sagittarius, are in theirs now, since Saturn crosses Aries, a fire sign like Sagittarius, until April 2028; a 1975 birth meets it at about 51.
 
 [Transiting Saturn square natal Neptune](/astrology/transiting-saturn-square-natal-neptune/) comes two or three years before the first trine of a pair and after the second; [transiting Saturn sextile natal Neptune](/astrology/transiting-saturn-sextile-natal-neptune/) lies about five years further out.
 

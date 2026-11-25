@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Mercure", "conjonction", "transits"]
 weight: 1690
 glyph: "♅☌☿"
-definition: "Uranus en transit conjonction Mercure du thème natal, c’est Uranus sur le degré de votre Mercure de naissance pendant une vingtaine de mois, une fois dans une vie au plus. La pensée accélère et change de cap : sujets neufs, outils neufs, opinions révisées, autre façon de dire. J’y lis une saison de pensée neuve, pas de pensée dispersée."
+definition: "Uranus en transit conjonction Mercure du thème natal se produit quand Uranus atteint le degré de votre Mercure de naissance : une halte de vingt mois, au plus une fois dans une vie. La pensée accélère et change de cap : sujets neufs, outils neufs, opinions révisées, autre façon de dire. J’y lis une saison de pensée neuve, pas de pensée dispersée."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Mercure ☿ : penser, apprendre et parler" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/mercury", "/astrology/conjunction", "/astrology/mercury-conjunct-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit conjonction Mercure du thème natal ?"
-    a: "Uranus a atteint votre Mercure de naissance, et franchira ce degré, en général trois fois, en une vingtaine de mois. J’y lis une longue saison de pensée neuve : des sujets qui vous saisissent sans prévenir, des méthodes et des outils adoptés vite, des opinions que vous vous surprenez à réviser, et une façon de parler ou d’écrire qui vous ressemble davantage que l’ancienne."
+    a: "Uranus a atteint votre Mercure de naissance, et franchira ce degré, en général trois fois, en une vingtaine de mois. J’y lis une longue saison de pensée neuve : des sujets qui vous saisissent sans prévenir, des méthodes et des outils adoptés vite, des opinions que vous vous surprenez à réviser, et une façon de parler qui vous ressemble davantage."
   - q: "Uranus conjonction Mercure, est-ce bon pour apprendre ?"
     a: "Souvent, comme je le lis : la curiosité est vive et les idées se relient vite, ce qui convient à une formation, à un nouveau domaine ou à un nouvel outil. Le piège, c’est le suivi. Les idées arrivent plus vite qu’on ne peut les vérifier, et ce qu’on apprend pour de bon, c’est ce qu’on note, vérifie et termine."
   - q: "Quand arrive Uranus conjonction Mercure ?"
-    a: "Une fois par tour d’Uranus, soit tous les 84 ans environ, à un âge fixé par l’avance de votre Mercure sur votre Uranus. Comme Mercure reste à moins de 28° environ du Soleil, ce transit tombe à six ou sept ans environ du passage d’Uranus sur votre Soleil. Environ 1 personne sur 33 l’attend encore à 80 ans."
+    a: "L’avance de Mercure sur la position natale d’Uranus fixe l’âge, et la proximité de Mercure avec le Soleil lie ce transit à celui du Soleil : il tombe à six ou sept ans environ du passage d’Uranus sur votre Soleil. Il vient une fois au plus, et environ 1 personne sur 33 l’attend encore à 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent la conjonction avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "la conjonction d’Uranus à Mercure, parmi ses transits" }
@@ -40,7 +40,7 @@ Concrètement, cela peut prendre la forme d’un domaine qui s’éclaire d’un
 
 La curiosité n’est pas la distraction, et pourtant un esprit sous cette conjonction peut courir plus vite que les heures dont il dispose. Les idées qui restent sont en général celles que vous mettez à l’épreuve.
 
-Avec Mercure en maison 3, la conjonction tombe pendant les années qu’Uranus y passe ([Uranus en transit en maison 3](/astrology/uranus-transit-3rd-house/)), et c’est dans les échanges de tous les jours, le voisinage et les petits trajets que la pensée neuve se montre d’abord. Cette maison vient de votre heure de naissance, et sans l’heure je ne lis pas le transit ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). À la différence de [Mercure conjonction Uranus](/astrology/mercury-conjunct-uranus/) dans un thème natal, qui décrit la façon dont un esprit est bâti, le transit, c’est la pensée dans des conditions nouvelles, et ce qui reste ensuite, c’est ce que vous avez terminé.
+Mercure en maison 3, la maison de l’esprit quotidien, place cette conjonction au milieu d’une période de changement plus longue dans cette maison ([Uranus en transit en maison 3](/astrology/uranus-transit-3rd-house/)) : les échanges de tous les jours, le voisinage et les petits trajets montrent d’abord la pensée neuve. Cette maison vient de votre heure de naissance, et sans l’heure je ne lis pas le transit ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). À la différence de [Mercure conjonction Uranus](/astrology/mercury-conjunct-uranus/) dans un thème natal, qui décrit la façon dont un esprit est bâti, le transit, c’est la pensée dans des conditions nouvelles, et ce qui reste ensuite, c’est ce que vous avez terminé.
 
 ## Combien de temps {#combien-de-temps}
 

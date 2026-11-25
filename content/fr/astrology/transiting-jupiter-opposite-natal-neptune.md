@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/neptune", "/astrology/opposition", "/astrology/jupiter-opposite-neptune", "/astrology/paid-spiritual-work"]
 faq:
   - q: "Que veut dire Jupiter en transit opposition Neptune du thème natal ?"
-    a: "Jupiter a atteint le point opposé à Neptune de votre naissance : vos idéaux et votre imagination rencontrent une grande vision portée par quelqu’un d’autre, une personne qui enseigne, un ou une partenaire, un groupe, une cause. J’y lis un moment pour voir cette vision, et les gens derrière elle, tels qu’ils sont, sans perdre vos propres rêves de vue."
+    a: "De l’autre côté du zodiaque, Jupiter regarde maintenant Neptune de votre naissance : vos idéaux et votre imagination rencontrent une grande vision portée par quelqu’un d’autre, une personne qui enseigne, un ou une partenaire, un groupe, une cause. J’y lis un moment pour voir cette vision, et les gens derrière elle, tels qu’ils sont, sans perdre vos propres rêves de vue."
   - q: "L’opposition de Jupiter à Neptune peut-elle pousser à idéaliser quelqu’un ?"
     a: "Ce transit peut rendre la chose plus facile : ressentir profondément avec quelqu’un n’est pas le connaître, et cette opposition brouille un peu les deux. Ce n’est pas une raison de se méfier des gens, mais de regarder deux fois avant de donner plus de temps, de foi ou d’aide que prévu."
   - q: "Combien de temps dure l’opposition de Jupiter à Neptune du thème natal ?"

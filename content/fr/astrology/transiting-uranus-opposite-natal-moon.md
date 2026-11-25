@@ -2,7 +2,7 @@
 title: "Uranus en transit opposition Lune du thème natal"
 slug: "uranus-transit-opposition-lune-natal"
 h1: "Uranus en transit opposition votre Lune natale"
-description: "Uranus en transit opposition Lune du thème natal : vos proches et vos repères changent, et vos besoins s’éclairent. Vingt mois, une fois dans une vie au plus."
+description: "Uranus en transit opposition Lune du thème natal : vingt mois, une seule fois au plus, où vos proches et vos repères changent et où vos besoins s’éclairent."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -25,7 +25,7 @@ faq:
   - q: "Uranus opposition Lune, est-ce un changement dans la famille ?"
     a: "Ce transit peut décrire une période où l’équilibre d’un foyer se déplace, comme je le lis, mais il ne décide pas de qui s’en va, reste ou arrive. Il décrit un climat : la proximité et l’indépendance qui demandent à être rééquilibrées. Ce qu’en font les personnes concernées leur appartient."
   - q: "Uranus opposition Lune, est-ce rare ?"
-    a: "Ce transit vient une fois par tour d’Uranus, soit tous les 84 ans environ, quelque 42 ans après le passage d’Uranus sur votre Lune. La plupart des personnes nées entre 1930 et 2009 le rencontrent une fois avant 80 ans, environ 1 sur 33 jamais. Avec mes orbes, il dure une vingtaine de mois, souvent en trois passages exacts."
+    a: "C’est un transit qui vient une fois dans une vie au plus, quelque 42 ans après le passage d’Uranus sur votre Lune. La plupart des personnes nées entre 1930 et 2009 le rencontrent avant 80 ans, environ 1 sur 33 jamais. Avec mes orbes, il dure une vingtaine de mois, souvent en trois passages exacts."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent l’opposition avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "l’opposition d’Uranus à la Lune, parmi ses transits" }

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Pluton", "carré", "transits"]
 weight: 1608
 glyph: "♃□♇"
-definition: "Jupiter en transit carré Pluton du thème natal place Jupiter, dans le ciel du jour, à un quart de zodiaque de Pluton à votre naissance, deux fois par tour. Ce que vous voulez faire grandir et ce qui doit changer en dessous cessent de s’accorder. J’y lis une friction utile sur l’échelle et la profondeur, jamais un combat annoncé."
+definition: "Jupiter en transit carré Pluton du thème natal est l’angle droit que Jupiter forme deux fois par tour avec Pluton de votre naissance. Vos projets de croissance et le changement profond dont ils dépendent cessent de s’accorder. J’y lis une friction utile sur l’échelle et la profondeur, jamais un combat annoncé."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Pluton ♇ de votre thème : la profondeur, le contrôle, la transformation" }
@@ -21,16 +21,16 @@ facts:
 related: ["/astrology/jupiter", "/astrology/pluto", "/astrology/square", "/astrology/jupiter-square-pluto", "/astrology/can-astrology-predict-a-court-case"]
 faq:
   - q: "Que veut dire Jupiter en transit carré Pluton du thème natal ?"
-    a: "Jupiter se trouve à 90° de Pluton à votre naissance : l’envie de grandir et la part de vous qui tient bon et transforme en profondeur frottent l’une contre l’autre. L’ambition peut devancer le changement dont elle a besoin, ou l’attachement bloquer une vue plus large. J’y lis une friction qui ajuste un but et desserre une prise."
+    a: "Avec Jupiter à 90° de Pluton de votre naissance, l’envie de grandir et la part de vous qui tient bon et transforme en profondeur frottent l’une contre l’autre. L’ambition peut devancer le changement dont elle a besoin, ou l’attachement bloquer une vue plus large. Bien employée, la friction ajuste un but et desserre une prise."
   - q: "Jupiter carré Pluton, est-ce une lutte de pouvoir ?"
-    a: "Ce transit peut faire remonter des questions de contrôle, en vous ou entre vous et quelqu’un d’autre. Ce n’est pas l’annonce d’un conflit, et je ne lis jamais un transit pour l’issue d’un différend. Le travail utile consiste à voir où vous serrez trop fort, et où la prise d’une autre personne ne vous convient plus."
+    a: "Ce transit peut faire remonter des questions de contrôle, en vous ou entre vous et quelqu’un d’autre. Ce n’est pas l’annonce d’un conflit, et je ne lis pas dans un thème comment finit un désaccord. Le travail utile consiste à voir où vous serrez trop fort, et où la prise d’une autre personne ne vous convient plus."
   - q: "Combien de temps dure le carré de Jupiter à Pluton du thème natal ?"
-    a: "Onze jours environ pour un passage direct, avec les orbes que j’utilise pour situer les transits. Quand Jupiter fait station tout près, dans trois cas sur dix, le carré revient trois fois sur huit mois environ. Il se présente deux fois par tour de douze ans, treize ou quatorze fois avant 80 ans pour les naissances de 1930 à 2009."
+    a: "Onze jours à peu près, quand Jupiter passe d’un trait. Quand Jupiter fait station tout près, dans trois cas sur dix, le carré revient trois fois sur huit mois environ. Comme chaque tour en contient deux, toute naissance de 1930 à 2009 en compte treize ou quatorze avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge au premier carré selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
 ---
-Ce que vous voulez faire grandir et ce qui doit changer en dessous cessent un moment de s’accorder, deux fois par tour de Jupiter, quand Jupiter forme un carré avec Pluton de votre naissance. La friction porte sur la profondeur et l’échelle, et elle fait souvent remonter des questions de contrôle.
+Deux fois par tour de Jupiter, quand Jupiter forme un carré avec Pluton de votre naissance, l’envie de s’étendre et le travail plus lent du changement profond tirent dans des directions différentes. La friction porte sur la profondeur et l’échelle, et elle fait souvent remonter des questions de contrôle.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -38,7 +38,7 @@ Ce que vous voulez faire grandir et ce qui doit changer en dessous cessent un mo
 
 La friction prend en général l’une de deux formes. Soit l’ambition devance le changement profond dont elle dépend, un rôle plus grand pris alors que quelque chose, en dessous, demande encore à être réparé ; soit la profondeur résiste à la croissance : on retient, on contrôle, on refuse une vue plus large parce que l’ancienne rassurait. Les angles morts de Pluton sont tout près : prendre le contrôle pour la sécurité et l’intensité pour la vérité, croire que tout échange inégal est une tentative délibérée de domination. Jupiter peut agrandir chacun d’eux, et le carré les rend plus faciles à voir.
 
-Les carrés entre ces deux planètes ont la réputation d’apporter des luttes de pouvoir. Je ne lis aucun [transit](/astrology/transits/) pour l’issue d’un différend ou d’une négociation ([L’astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)). L’endroit où la friction se pose dépend de la maison de Pluton dans votre thème et de celle que Jupiter traverse, toutes deux tirées de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Dans un thème qui porte [Jupiter carré Pluton](/astrology/jupiter-square-pluto/), l’un de ces carrés accompagne chaque [retour de Jupiter](/astrology/jupiter-return/).
+Les carrés entre ces deux planètes ont la réputation d’apporter des luttes de pouvoir. Aucun [transit](/astrology/transits/) ne me dit qui l’emporterait dans un différend ou une négociation, et je ne le cherche pas ([L’astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)). L’endroit où la friction se pose est une affaire de maisons, celle de Pluton dans votre thème et celle que Jupiter traverse, et les maisons ne s’obtiennent qu’avec l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Dans un thème qui porte [Jupiter carré Pluton](/astrology/jupiter-square-pluto/), l’un de ces carrés accompagne chaque [retour de Jupiter](/astrology/jupiter-return/).
 
 ## Combien de temps {#combien-de-temps}
 

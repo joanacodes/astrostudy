@@ -1,7 +1,7 @@
 ---
 title: "Transiting Uranus sextile natal Moon"
 h1: "Transiting Uranus sextile your natal Moon"
-description: "Transiting Uranus sextile natal Moon: twenty months, twice in most lives, when a change at home or in your habits comes easier, if you take the first step."
+description: "Transiting Uranus sextile natal Moon: an easier time to change your home and habits, about twenty months long, twice in most lives, if you take the first step."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Moon", "sextile", "transits"]
 weight: 1686
 glyph: "♅⚹☽"
-definition: "Transiting Uranus sextile natal Moon describes about twenty months, twice in most lives, when Uranus moves 60° from your birth Moon. Changing how you live, at home, in your habits, in how you look after yourself, gets easier, provided you make the first move. I read it as an invitation to update your comforts."
+definition: "Transiting Uranus sextile natal Moon is Uranus in a sextile, 60°, to the Moon of your birth chart: about twenty months of easier change at home, twice in most lives. Your habits can be updated without a fight, if you make the first move. I read it as an invitation to update your comforts."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "The Moon ☽: needs, habits and feeling safe" }

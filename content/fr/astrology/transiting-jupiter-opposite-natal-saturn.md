@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Saturne", "opposition", "transits"]
 weight: 1595
 glyph: "♃☍♄"
-definition: "Jupiter en transit opposition Saturne du thème natal, c’est le moment du tour, six ans environ après le passage de Jupiter sur votre Saturne, où la planète passe de l’autre côté du thème. Ce que vous avez bâti et ce que vous pourriez devenir se font face. J’y lis une pesée, pas un choix forcé."
+definition: "Jupiter en transit opposition Saturne du thème natal, c’est le moment du tour, six ans environ après que Jupiter a croisé votre Saturne, où la planète passe de l’autre côté du thème. Ce que vous avez bâti et ce que vous pourriez devenir se font face. J’y lis une pesée, pas un choix forcé."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Saturne ♄ de votre thème : ce que vous avez bâti et ce que vous tenez" }

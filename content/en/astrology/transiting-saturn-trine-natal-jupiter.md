@@ -25,7 +25,7 @@ faq:
   - q: "When does Saturn trine my natal Jupiter?"
     a: "Two a round, the first at an age your birth year decides. The earliest first trines came in the first weeks of life and the latest at about 20½, with 7 the median for births from 1930 to 2009: within the first year or so for 1 January 1955 or 1975, at about 15 for 1 January 1965 or 1985."
   - q: "Is Saturn trine Jupiter a lucky transit?"
-    a: "I don’t read Jupiter as luck, and a trine guarantees no success. What this transit tends to give is easier cooperation between ambition and patience, so that a plan, a study or a project grows on solid ground. It favours work you choose to do; it doesn’t replace it."
+    a: "Luck isn’t how I read Jupiter, and no trine guarantees success. What this transit tends to give is easier cooperation between ambition and patience, so that a plan, a study or a project grows on solid ground. It favours work you choose to do; it doesn’t replace it."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in orb with my orbs, the age at the first trine and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Pluto", "sextile", "transits"]
 weight: 1666
 glyph: "♄⚹♇"
-definition: "Transiting Saturn sextile natal Pluto is Saturn in the sky reaching 60° from the degree Pluto held at your birth, twice in each 29½-year round. Structure offers leverage to your capacity for deep change: a modest, well-placed effort can shift something long stuck. I read it as an opening that needs your hand, never a guarantee."
+definition: "Transiting Saturn sextile natal Pluto is Saturn in the sky reaching 60° from the degree Pluto held at your birth, an angle most people meet six times by 80. Structure offers leverage to your capacity for deep change: a modest, well-placed effort can shift something long stuck. I read it as an opening that needs your hand, never a guarantee."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Pluto ♇, depth, power and renewal" }
@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting Saturn sextile natal Pluto mean?"
     a: "Saturn in the sky is 60° from your natal Pluto, which opens a practical way to work on something deep: a habit, a role, a long-standing pattern of control. The sextile offers leverage rather than pressure, so modest, steady effort goes further than usual. It needs you to act; on its own, it changes nothing."
   - q: "How long does Saturn sextile Pluto last?"
-    a: "Around nine months, with my orbs of 1½° before exact and 1° after. Saturn’s retrograde gives a little over half of them three exact hits, across about nine and a half months; when Saturn touches the degree only once, the window can be three weeks."
+    a: "The sextile usually stays about nine months within my orbs, 1½° before exact and 1° after. Its exact hits come in threes a little more often than singly; when there’s just one, the window can close in three weeks."
   - q: "How often does Saturn sextile natal Pluto happen?"
     a: "Twice in each 29½-year round, so most people meet it six times by 80 and nobody fewer than five. The two sextiles of a round come about ten years apart, either side of Saturn’s crossing of your Pluto, and a whole birth year shares the dates."
   - q: "Is Saturn sextile Pluto a good time to make a big change?"
@@ -40,13 +40,13 @@ Some transits push and some open a side door. Saturn's sextile to your natal Plu
 
 I read it as leverage. Pluto's work is usually slow and private, and Saturn here lends it a handle: a routine, an agreement, someone with the right skills. Empowerment isn't domination, and the sextile suits change made with other people's consent rather than against them. Left unused, it simply passes; nothing gets worse for want of it. The two sextiles of a round lean different ways, as I read them: the one after Saturn crosses your Pluto suits building on what was cleared, the one before the next crossing suits finishing, sorting and handing on.
 
-Your Pluto's house shows what can be moved: in your 6th, the way you work and the habits under it; in your 10th, your standing and how you use authority. The house is set by your birth time, and that's why I won't read a chart that lacks it ([what changes without a birth time](/blog/unknown-birth-time/)).
+Your Pluto's house shows what can be moved: in your 6th, the way you work and the habits under it; in your 10th, your standing and how you use authority. The house is set by your birth time; a reading without it would be guesswork, and I don't offer guesses ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-With the orbs I use for timing, from 1½° before exact to 1° after, the sextile stays about nine months. A little over half the time a retrograde loop brings three exact hits, in about nine and a half months; the briefest, with a single hit, close within three weeks.
+The orbs I use for timing, 1½° before exact and 1° after, give this sextile about nine months. Its exact hits come in threes a little more often than singly, the loop taking about nine and a half months, and a single hit can leave the window open for as little as three weeks.
 
-Most people meet six by 80, and nobody fewer than five. The two sextiles of each round fall about ten years apart, either side of Saturn's crossing of your Pluto ([transiting Saturn conjunct natal Pluto](/astrology/transiting-saturn-conjunct-natal-pluto/)), and Pluto's slowness means a year group moves through them together. The first came at about 10 for people born in 1965, about 4 for 1985, and within two years for 1975, as the [Saturn sextile Pluto](/astrology/saturn-sextile-pluto/) of 1976–77 was forming. The next ones: about 69 for people born in 1965, in 2033–34; about 61 for those born in 1975, in 2035; about 52 for 1985, in 2036–37.
+Most people meet six by 80, and nobody fewer than five. They come in pairs, one about five years before Saturn crosses your Pluto ([transiting Saturn conjunct natal Pluto](/astrology/transiting-saturn-conjunct-natal-pluto/)) and one about five years after, and Pluto's slowness keeps a year group moving through them together. The first came at about 10 for people born in 1965, about 4 for 1985, and within two years for 1975, as the [Saturn sextile Pluto](/astrology/saturn-sextile-pluto/) of 1976–77 was forming. The next ones: about 69 for people born in 1965, in 2033–34; about 61 for those born in 1975, in 2035; about 52 for 1985, in 2036–37.
 
 [Transiting Saturn square natal Pluto](/astrology/transiting-saturn-square-natal-pluto/) is never far off, two or three years from either sextile; [transiting Saturn trine natal Pluto](/astrology/transiting-saturn-trine-natal-pluto/) and [transiting Saturn opposite natal Pluto](/astrology/transiting-saturn-opposite-natal-pluto/) fill the long stretch between the two sextiles of a pair.
 

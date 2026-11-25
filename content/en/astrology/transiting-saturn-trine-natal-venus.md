@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Venus", "trine", "transits"]
 weight: 1639
 glyph: "♄△♀"
-definition: "Transiting Saturn trine natal Venus is Saturn 120° from the degree your Venus held at birth, about ten years after Saturn crosses it and ten before it returns. Affection, taste and loyalty find time on their side: a good season to give what you love a lasting form. I read it as a tailwind, never a promise."
+definition: "Transiting Saturn trine natal Venus is Saturn four signs from your birth Venus, usually in the same element, roughly a decade after the conjunction and a decade before the next. Affection, taste and loyalty find time on their side: a good season to give what you love a lasting form. I read it as a tailwind, never a promise."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Venus ♀: what you value, enjoy and love" }

@@ -30,11 +30,11 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "natal Saturn among the placements that held most often" }
 ---
-About once every twelve years, Jupiter passes over the degree Saturn held when you were born. For a few days, sometimes for months, the planet that widens things sits on the place where your chart builds slowly, and the patient work there gets some air.
+About once every twelve years, Jupiter arrives on the degree Saturn occupied when you were born. For a few days, sometimes for months, the planet that widens things sits on the place where your chart builds slowly, and the patient work there gets some air.
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) is where a chart builds slowly: structure, responsibility, limits, the long work of making something hold. [Jupiter](/astrology/jupiter/) expands understanding and looks for what things mean. A [conjunction](/astrology/conjunction/) sets the two working as one process, so for a while growth and structure come in the same breath. Tradition ranked Jupiter the greater benefic and Saturn the greater malefic; I read them by what they do, and here that is growth arriving where you have been most careful.
+[Saturn](/astrology/saturn/) is where a chart builds slowly: structure, responsibility, limits, and the patience that lets a thing last. [Jupiter](/astrology/jupiter/) broadens the view and looks for the sense in things. A [conjunction](/astrology/conjunction/) sets the two working as one process, so for a while growth and structure come in the same breath. Tradition ranked Jupiter the greater benefic and Saturn the greater malefic; I read them by what they do, and here that is growth arriving where you have been most careful.
 
 In practice it often looks like perspective on a duty. A responsibility you've carried alone gets help, a rule you've kept turns out to have room in it, a long effort shows what it was for. The same transit can tempt you to promise more in exactly the area that needs realism. Expansion isn't excess, and a structure grows well only as far as it can carry the extra weight.
 
@@ -46,7 +46,7 @@ This [transit](/astrology/transits/) isn't the great conjunction ([Jupiter–Sat
 
 Jupiter usually covers the stretch from 1½° before your Saturn to 1° past it, the orbs I use for timing, in about eleven days. When its yearly retrograde falls on that stretch, about three times in ten, it crosses three times and stays some eight months. Six or seven of these transits fall before 80 for births from 1930 to 2009.
 
-The first came at very different ages, from a few weeks old to twelve, and the twenty-year rhythm of the great conjunctions shows in the pattern. Born on 1 January 1935, 1955, 1975 or 1995, a few years before a great conjunction, with Jupiter still behind Saturn, people met it at three or four; born on 1 January 1945, 1965, 1985 or 2005, a few years after one, with Jupiter already past it, at nine or ten.
+The first came at very different ages, from a few weeks old to twelve, and the twenty-year rhythm of the great conjunctions shows in the pattern. Born on 1 January 1935, 1955, 1975 or 1995, in the years just before a great conjunction, with Jupiter still behind Saturn, people met it at three or four; born on 1 January 1945, 1965, 1985 or 2005, in the years just after one, with Jupiter already past it, at nine or ten.
 
 What starts here is tested round the rest of Jupiter's lap. [Transiting Jupiter square natal Saturn](/astrology/transiting-jupiter-square-natal-saturn/), about three years on, asks whether the widened structure can bear weight; [transiting Jupiter opposite natal Saturn](/astrology/transiting-jupiter-opposite-natal-saturn/), at six, sets it against what other people want; [transiting Jupiter sextile natal Saturn](/astrology/transiting-jupiter-sextile-natal-saturn/) and [transiting Jupiter trine natal Saturn](/astrology/transiting-jupiter-trine-natal-saturn/) are the easier stops between. [Transiting Saturn conjunct natal Jupiter](/astrology/transiting-saturn-conjunct-natal-jupiter/) is the slow mirror of this one: months rather than days, with structure coming to your growth instead.
 

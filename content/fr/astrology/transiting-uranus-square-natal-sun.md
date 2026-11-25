@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/sun", "/astrology/square", "/astrology/sun-square-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit carré Soleil du thème natal ?"
-    a: "Uranus a atteint un angle droit avec votre Soleil de naissance, à un quart de zodiaque. J’y lis une friction entre la vie bâtie autour de vous et la part de vous qui veut se distinguer : un rôle, un rythme ou un projet qui allait bien commence à serrer, et vous avez une longue saison pour le retravailler plutôt qu’un jour pour le fuir."
+    a: "Uranus a atteint un angle droit avec votre Soleil de naissance. J’y lis une friction entre la vie bâtie autour de vous et la part de vous qui veut se distinguer : un rôle, un rythme ou un projet qui allait bien commence à serrer, et vous avez une longue saison pour le retravailler plutôt qu’un jour pour le fuir."
   - q: "Combien de temps dure Uranus carré Soleil ?"
     a: "Une vingtaine de mois avec mes orbes, qui vont de 1,5° avant l’exactitude à 1° après ; les passages les plus courts prennent onze mois environ. Dans plus de neuf cas sur dix, Uranus franchit trois fois le carré exact, parce que cette planète passe environ cinq mois par an à reculer dans le zodiaque."
   - q: "À quel âge arrive le carré d’Uranus au Soleil ?"

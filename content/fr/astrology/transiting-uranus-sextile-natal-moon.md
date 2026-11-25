@@ -2,7 +2,7 @@
 title: "Uranus en transit sextile Lune du thème natal"
 slug: "uranus-transit-sextile-lune-natal"
 h1: "Uranus en transit sextile votre Lune natale"
-description: "Uranus en transit sextile Lune du thème natal : vingt mois, en général deux fois, où changer chez vous devient plus facile, si vous faites le premier pas."
+description: "Uranus en transit sextile Lune du thème natal : un moment plus facile pour changer vos habitudes et votre foyer, vingt mois, en général deux fois."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Lune", "sextile", "transits"]
 weight: 1686
 glyph: "♅⚹☽"
-definition: "Uranus en transit sextile Lune du thème natal décrit une vingtaine de mois, deux fois dans la plupart des vies, où Uranus se tient à 60° de votre Lune de naissance. Changer vos habitudes ou votre façon de vivre chez vous devient plus facile, si vous faites le premier pas. J’y lis une invitation à renouveler vos conforts."
+definition: "Uranus en transit sextile Lune du thème natal, c’est Uranus en sextile, à 60°, avec la Lune de votre thème : une vingtaine de mois de changements plus faciles chez vous, deux fois dans la plupart des vies. Vos habitudes se renouvellent sans lutte, si vous faites le premier pas. J’y lis une invitation à renouveler vos conforts."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "La Lune ☽ : besoins, habitudes, sentiment de sécurité" }

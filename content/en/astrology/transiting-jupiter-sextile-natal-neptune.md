@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/neptune", "/astrology/sextile", "/astrology/jupiter-sextile-neptune", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter sextile natal Neptune mean?"
-    a: "Jupiter in the sky is 60° from your birth Neptune: belief and imagination can work together for a while, if you let them. I read it as a gentle opening to give a dream, a creative idea or a wish to help a practical first form."
+    a: "Today’s Jupiter and your birth Neptune are 60° apart: belief and imagination can work together for a while, if you let them. I read it as a gentle opening to give a dream, a creative idea or a wish to help a practical first form."
   - q: "Is Jupiter sextile Neptune good for creative work?"
     a: "It suits it well, as long as you do the work: the sextile makes imagination easier to reach and to share, but it doesn’t write the chapter or paint the picture. Many people find these weeks good for starting a practice, taking a class or showing their work to someone for the first time."
   - q: "How often does Jupiter sextile natal Neptune?"

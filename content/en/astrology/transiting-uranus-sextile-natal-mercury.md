@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Mercury", "sextile", "transits"]
 weight: 1691
 glyph: "♅⚹☿"
-definition: "Transiting Uranus sextile natal Mercury is a window of about twenty months, twice in most lives, when Uranus sits 60° from your birth Mercury. Learning, a new method or an unusual idea comes within easy reach, through people, courses or tools, provided you go after it. I read it as an open invitation to think differently."
+definition: "Transiting Uranus sextile natal Mercury is a 60° angle between Uranus in the sky and your birth Mercury, kept for about twenty months and met twice in most lives. Learning, a new method or an unusual idea comes within easy reach, if you go after it. I read it as an open invitation to think differently."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Mercury ☿: thinking, learning and talking" }

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Mercury", "trine", "transits"]
 weight: 1634
 glyph: "♄△☿"
-definition: "Transiting Saturn trine natal Mercury is Saturn in the sky 120° from the degree your Mercury held at birth, about ten years after Saturn crosses it and ten before it returns. Thinking slows and steadies, which suits long study, careful writing and plans with steps. I read it as a tailwind for patient work, never a promised result."
+definition: "Transiting Saturn trine natal Mercury is the season when Saturn, moving through the sky, stands 120° from your birth Mercury: about ten years after crossing it, and again ten years before returning. Thinking slows and steadies, which suits long study, careful writing and plans with steps. I read it as a tailwind for patient work, never a promised result."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Mercury ☿: how you think, learn and speak" }

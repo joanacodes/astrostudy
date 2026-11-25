@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Uranus opposite natal Saturn mean?"
     a: "Uranus stands 180° from the degree your Saturn held at birth, once in a life at most. I read it as the order you keep facing change that seems to come from outside, or your own wish for change facing someone else’s rules. It asks for a balance between what should last and what has outlived its use."
   - q: "How long does Uranus opposite Saturn last?"
-    a: "About twenty months, from 1½° before the exact opposition to 1° after, and about eleven months when the pass is short. In more than nine cases out of ten Uranus stands exactly opposite your Saturn three times, once while it moves backwards in its yearly loop."
+    a: "About twenty months, from 1½° before the exact opposition to 1° after, and about eleven months when the pass is short. In more than nine cases out of ten Uranus stands exactly opposite your Saturn three times, once while it moves backwards in its yearly loop: enough for a rule to be challenged, defended and renegotiated."
   - q: "Is Uranus opposite Saturn the same as the Saturn opposition?"
     a: "No. Saturn’s own opposition is Saturn facing its birth degree, at about 14 to 15 and again at about 44. This transit is Uranus facing your Saturn, once at most, at an age set by the angle between the two planets at your birth; about 1 person in 25 never meets it by 80."
   - q: "When will Uranus oppose my Saturn?"
@@ -47,9 +47,9 @@ It isn't Saturn's own opposition, Saturn facing its birth degree at about 44, wh
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, 1½° before exact to 1° after, the opposition lasts about twenty months, eleven at the shortest, with three exact hits in more than nine passes out of ten. It comes once at most by 80, and about 1 person in 25 born between 1930 and 2009 never meets it.
+Within my orbs, 1½° before exact to 1° after, the opposition lasts about twenty months, eleven at the shortest, and its three exact hits, in more than nine passes out of ten, leave room to renegotiate an arrangement, try it and adjust it. No one meets it twice.
 
-Two natal pictures date it. Born with [Saturn opposite Uranus](/astrology/saturn-opposite-uranus/), in 1964–67 or 2008–09, you started life at or near that point, so the transit came in your first years or won't come until your eighties: in the site's count, someone born at the start of 1965 reaches 80 without it. Born in the late 1980s with [Saturn conjunct Uranus](/astrology/saturn-conjunct-uranus/), you meet it with your [Uranus opposition](/astrology/uranus-opposition/), at about 43½.
+Two natal pictures date it. Born with [Saturn opposite Uranus](/astrology/saturn-opposite-uranus/), in 1964–67 or 2008–09, you started life at or near that point, so the transit came in your first years or won't come until your eighties; that second group makes up most of the 1 person in 25, among births from 1930 to 2009, who never meet it by 80, someone born at the start of 1965 among them. Born in the late 1980s with [Saturn conjunct Uranus](/astrology/saturn-conjunct-uranus/), you meet it with your [Uranus opposition](/astrology/uranus-opposition/), at about 43½.
 
 Uranus in Gemini, until 2033, faces every natal Saturn in Sagittarius, the Saturn of births from November 1985 to November 1988. For them the opposition comes in their late thirties or early forties, a few years before their own Uranus opposition or with it. Elsewhere the ages scatter: about 17 for someone born at the start of 1975, about 72 for the start of 2005.
 

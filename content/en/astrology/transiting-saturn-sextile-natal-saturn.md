@@ -23,7 +23,7 @@ faq:
   - q: "What does Saturn sextile natal Saturn mean?"
     a: "Saturn is 60° from the place it held at your birth, a sixth of its cycle after a return or a sixth before the next. I read it as a practical opening on the long project your natal Saturn describes: a chance to give a responsibility a better structure, if you choose to take it."
   - q: "At what ages does Saturn sextile natal Saturn?"
-    a: "The first came between 3½ and 6 for everyone born from 1930 to 2009, at 4.6 in the middle. The adult ones fall at about 24, 34, 54 and 64, five years before or after a Saturn return: by 80, everyone has met five of them."
+    a: "Everyone born from 1930 to 2009 met the first between the ages of 3½ and 6, at 4.6 in the middle. The adult ones fall at about 24, 34, 54 and 64, five years before or after a Saturn return: by 80, everyone has met five of them."
   - q: "How long does Saturn sextile Saturn last?"
     a: "Most often some nine months, measured from 1½° before exact to 1° after. A little over half the time Saturn loops back over the exact sextile, making three passes in about nine and a half months; a single fast crossing can be over in three weeks."
 sources:

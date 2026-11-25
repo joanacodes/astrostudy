@@ -2,7 +2,7 @@
 title: "Uranus en transit conjonction Vénus du thème natal"
 slug: "uranus-transit-conjonction-venus-natal"
 h1: "Uranus en transit conjonction votre Vénus natale"
-description: "Uranus en transit conjonction Vénus du thème natal : une fois au plus, vingt mois où vos goûts, attirances et valeurs changent. Aucune prédiction d’amour."
+description: "Uranus en transit conjonction Vénus du thème natal : goûts, attirances et valeurs renouvelés en vingt mois, une fois au plus. Jamais une prédiction d’amour."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Vénus", "conjonction", "transits"]
 weight: 1695
 glyph: "♅☌♀"
-definition: "Uranus en transit conjonction Vénus du thème natal, c’est Uranus qui traverse la planète de l’attirance et du goût, une vingtaine de mois, une fois dans une vie au plus. Ce que vous trouvez beau et ce qui vous attire peuvent vite changer, et les liens demandent de l’air. J’y lis un goût renouvelé, pas une prédiction amoureuse."
+definition: "Uranus en transit conjonction Vénus du thème natal amène la planète du changement sur celle de l’attirance et du goût, pour une vingtaine de mois, au plus une fois dans une vie. Ce que vous trouvez beau et ce qui vous attire peuvent vite changer, et les liens demandent de l’air. J’y lis un goût renouvelé, pas une prédiction amoureuse."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Vénus ♀ : l’attirance, le goût et ce qui compte pour vous" }
@@ -25,7 +25,7 @@ faq:
   - q: "Vais-je rencontrer quelqu’un sous Uranus conjonction Vénus ?"
     a: "Je ne lis pas un transit pour les rencontres, les nouvelles amours ou les fins. Celui-ci décrit un changement dans ce qui vous attire et dans l’espace dont vous avez besoin, en amour comme en amitié. Qui vous rencontrez, et ce que vous en faites, dépend de votre vie plutôt que du ciel."
   - q: "Uranus conjonction Vénus, c’est tous les combien ?"
-    a: "Elle vient une fois au plus, parce qu’Uranus met environ 84 ans à revenir au même point ; votre âge à ce moment dépend de l’avance de votre Vénus sur Uranus à la naissance. Pour environ une personne sur 25, elle arrive après 80 ans. Avec mes orbes, elle tient une vingtaine de mois."
+    a: "Elle vient une fois au plus, parce qu’Uranus met environ 84 ans à revenir au même point ; votre âge à ce moment dépend de l’avance de votre Vénus sur Uranus à la naissance. Pour environ une personne sur 25, elle arrive après 80 ans. Une fois là, elle reste une vingtaine de mois."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de personnes rencontrent la conjonction avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "la conjonction d’Uranus à Vénus, parmi ses transits" }
@@ -40,7 +40,7 @@ Cela peut prendre la forme d’un changement de goût en musique, en vêtements 
 
 Je ne le lis ni pour une nouvelle relation ni pour une fin, pas plus que n’importe quel autre [transit](/astrology/transits/#ses-limites). Il décrit ce que vous désirez, pas ce qui arrive.
 
-Avec Vénus en maison 5, la conjonction tombe pendant les années qu’Uranus y passe ([Uranus en transit en maison 5](/astrology/uranus-transit-5th-house/)), et c’est dans le jeu, la création et l’amour que le goût nouveau se montre d’abord. La maison de votre Vénus est fixée par votre heure de naissance, et sans cette heure, ce transit reste sans lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison de votre Vénus dit où le goût nouveau se montre. En maison 5, c’est dans le jeu, la création et l’amour, quelque part pendant les années qu’Uranus passe dans cette maison ([Uranus en transit en maison 5](/astrology/uranus-transit-5th-house/)). La maison de votre Vénus est fixée par votre heure de naissance, et sans cette heure, ce transit reste sans lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 On décrit souvent [Vénus conjonction Uranus](/astrology/venus-conjunct-uranus/), dans un thème natal, avec les mots employés ici : des goûts inhabituels, des attirances soudaines, un amour qui laisse de l’air. La différence tient à la durée.
 

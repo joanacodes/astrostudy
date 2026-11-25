@@ -33,7 +33,7 @@ Halfway round each twelve-year cycle, Jupiter in the sky reaches the sign opposi
 
 ## What changes {#what-changes}
 
-Where your natal [Jupiter](/astrology/jupiter/) stands shows how you grow and what you believe in. The [opposition](/astrology/opposition/) relates functions through polarity: two ends of one axis, each showing up what the other lacks. With Jupiter on both ends, it's your own convictions that meet their counterweight, and quite often the counterweight arrives as a person: a teacher, a partner, a colleague who believes the opposite with the same warmth.
+Where your natal [Jupiter](/astrology/jupiter/) stands tells you what growth means to you and what you believe in. The [opposition](/astrology/opposition/) relates functions through polarity: two ends of one axis, each showing up what the other lacks. With Jupiter on both ends, it's your own convictions that meet their counterweight, and quite often the counterweight arrives as a person: a teacher, a partner, a colleague who believes the opposite with the same warmth.
 
 The sign across matters. Born with Jupiter in Capricorn, the sign of its fall in tradition, you meet every one of these oppositions with Jupiter in Cancer, its exaltation; born with Jupiter in Cancer, the other way round. Jupiter's own signs, Sagittarius and traditionally Pisces, face Gemini and Virgo, its detriments. Either way, the sky shows your way of growing its mirror image.
 

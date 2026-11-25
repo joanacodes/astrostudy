@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/uranus", "/astrology/sextile", "/astrology/jupiter-sextile-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter sextile natal Uranus mean?"
-    a: "Jupiter in today’s sky is 60° from your birth Uranus, so growth and your appetite for change cooperate for a few days or months. I read it as an invitation to experiment: a new method, a new circle of people, a small reform of how you do things. It invites; it doesn’t push."
+    a: "Jupiter stands 60° from your birth Uranus today, so growth and your appetite for change cooperate for a few days or months. It invites experiment: a new method, a new circle of people, a small reform of how you do things. It invites; it doesn’t push."
   - q: "Is Jupiter sextile Uranus a good time to change jobs?"
     a: "It suits change you can try in small, reversible steps: a conversation, a course, a side project, a trial run. It doesn’t decide whether a new job works out, and no transit is needed for that. I read it as conditions that make experimenting easier, never as a signal to leave."
   - q: "How often does Jupiter sextile natal Uranus?"

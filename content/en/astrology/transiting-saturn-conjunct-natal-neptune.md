@@ -33,7 +33,7 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Saturn’s transits, read one by one" }
   - { title: "NASA — Neptune facts", url: "https://science.nasa.gov/neptune/neptune-facts/", note: "Neptune’s orbit of about 165 years" }
 ---
-Every 29½ years or so, Saturn passes over the degree Neptune held when you were born. It isn't the [Saturn–Neptune conjunction of 2026](/astrology/saturn-neptune-conjunction-of-2026/), when the two planets met in the sky: this meeting happens in your chart alone, and asks a dream to show what it looks like on an ordinary weekday.
+Saturn's slow round brings it, every 29½ years or so, onto your natal Neptune. It isn't the [Saturn–Neptune conjunction of 2026](/astrology/saturn-neptune-conjunction-of-2026/), when the two planets met in the sky: this meeting happens in your chart alone, and asks a dream to show what it looks like on an ordinary weekday.
 
 ## What changes {#what-changes}
 
@@ -41,7 +41,7 @@ Every 29½ years or so, Saturn passes over the degree Neptune held when you were
 
 Neptune's blind spot is taking what you imagine for what you know, and Saturn is very good at telling the two apart. People often describe a sobering: a person, a plan or a belief seen more plainly than before. Disillusion ends an illusion, not the dream behind it. If what comes up feels heavier than disappointment, and stays, please take it to a doctor or a therapist ([astrology and mental health](/astrology/astrology-and-mental-health/)); a transit can name a season, not treat it.
 
-Your Neptune's house shows where the dream lives, and the crossing gives it Saturn's attention there. With Neptune in your 5th, it may be an art you've played at for years; in your 11th, a cause or a community you'd like to build. Finding that house takes your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). In a birth chart, [Saturn conjunct Neptune](/astrology/saturn-conjunct-neptune/) is this meeting fixed for life; as a transit, it's a season, and it passes.
+Your Neptune's house shows where the dream lives, and the crossing gives it Saturn's attention there. With Neptune in your 5th, it may be an art you've played at for years; in your 11th, a cause or a community you'd like to build. Without your birth time, that house can't be found ([what changes without a birth time](/blog/unknown-birth-time/)). In a birth chart, [Saturn conjunct Neptune](/astrology/saturn-conjunct-neptune/) is this meeting fixed for life; as a transit, it's a season, and it passes.
 
 ## How long it lasts {#how-long-it-lasts}
 

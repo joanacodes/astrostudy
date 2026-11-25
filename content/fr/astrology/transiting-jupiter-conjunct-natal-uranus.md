@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Uranus", "conjonction", "transits"]
 weight: 1596
 glyph: "♃☌♅"
-definition: "Jupiter en transit conjonction Uranus du thème natal amène Jupiter, tous les douze ans environ, sur le degré qu’Uranus occupait à votre naissance. La part de vous qui veut changer les choses et vivre à sa façon prend plus de place. J’y lis une saison d’essais et d’idées neuves, pas une chance soudaine ni un signal pour tout renverser."
+definition: "Jupiter en transit conjonction Uranus du thème natal fait se rencontrer Jupiter et Uranus de votre naissance, à peu près tous les douze ans. La part de vous qui veut changer les choses et vivre à sa façon prend plus de place. J’y lis une saison d’essais et d’idées neuves, pas une chance soudaine ni un signal pour tout renverser."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Uranus ♅ de votre thème : le changement, la liberté, l’originalité" }
@@ -30,11 +30,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge à la première conjonction selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
 ---
-Tous les douze ans environ, Jupiter franchit le degré qu’Uranus occupait à votre naissance. La planète qui élargit rencontre la part de vous qui veut de la place pour vivre autrement, et les idées, les projets et l’impatience ont tendance à arriver d’un coup.
+Une fois en douze ans environ, Jupiter vient se placer sur Uranus de votre naissance. La planète qui élargit rencontre la part de vous qui veut de la place pour vivre autrement, et les idées, les projets et l’impatience ont tendance à arriver d’un coup.
 
 ## Ce qui change {#ce-qui-change}
 
-[Uranus](/astrology/uranus/) est la part du thème qui se différencie : elle questionne ce dont vous avez hérité, essaie d’autres voies, réforme ce qui ne marche plus et réclame la liberté de le faire. [Jupiter](/astrology/jupiter/) agrandit tout ce que la planète touche et cherche une raison derrière. Dans une [conjonction](/astrology/conjunction/), les deux agissent comme une seule force : pendant un temps, grandir veut dire changer, et changer ressemble à grandir.
+[Uranus](/astrology/uranus/) est la part du thème qui se différencie : elle questionne ce dont vous avez hérité, essaie d’autres voies, réforme ce qui ne marche plus et réclame la liberté de le faire. [Jupiter](/astrology/jupiter/) fait de la place à tout ce que la planète rencontre et veut savoir à quoi cela sert. Dans une [conjonction](/astrology/conjunction/), les deux agissent comme une seule force : pendant un temps, grandir veut dire changer, et changer ressemble à grandir.
 
 Beaucoup décrivent ces semaines comme une clarté soudaine : l’idée qui tournait en rond se pose, l’essai repoussé commence, l’habitude qui ne vous allait plus devient impossible à garder. Jupiter agrandit aussi les angles morts d’Uranus. La nouveauté peut passer pour de l’innovation, et la rupture pour du progrès : la question utile est de savoir ce qui marche encore avant de changer quoi que ce soit.
 

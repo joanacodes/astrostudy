@@ -1,7 +1,7 @@
 ---
 title: "Transiting Uranus square natal Mercury"
 h1: "Transiting Uranus square your natal Mercury"
-description: "Transiting Uranus square natal Mercury: twenty months, twice in most lives, when an old way of thinking stops fitting. From Gemini until 2033, and what helps."
+description: "Transiting Uranus square natal Mercury: an old way of thinking stops fitting and a better method pushes in. Twice in most lives, and what helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Mercury", "square", "transits"]
 weight: 1692
 glyph: "♅□☿"
-definition: "Transiting Uranus square natal Mercury is about twenty months, twice in most lives, when Uranus in the sky sits at a right angle to your birth Mercury. Old ways of thinking, explaining and working stop fitting, and the friction pushes you towards better methods. I read it as impatience with an old method, which is usually right about something."
+definition: "Transiting Uranus square natal Mercury sets Uranus at a right angle to your birth Mercury for about twenty months, and most lives see it twice. Old ways of thinking, explaining and working stop fitting, and the friction pushes you towards better methods. I read it as impatience with an old method, which is usually right about something."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Mercury ☿: thinking, learning and talking" }

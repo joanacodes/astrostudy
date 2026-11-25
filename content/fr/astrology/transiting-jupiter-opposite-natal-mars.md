@@ -23,16 +23,16 @@ faq:
   - q: "Que veut dire Jupiter en transit opposition Mars du thème natal ?"
     a: "Une fois tous les douze ans environ, Jupiter atteint dans sa course le point opposé à Mars dans votre thème. J’y lis une période où votre élan rencontre un but plus vaste venu du dehors, souvent le projet d’une autre personne, et doit décider à quoi il veut se dépenser."
   - q: "Combien de temps dure l’opposition de Jupiter à votre Mars ?"
-    a: "Avec les orbes que j’utilise pour situer les transits, onze jours environ quand Jupiter traverse le point d’une seule traite. Environ trois fois sur dix, Jupiter rétrograde tout près et passe trois fois, sur huit mois à peu près. C’est la maison de Mars dans votre thème qui dit où vous le sentez."
+    a: "Avec les orbes que j’utilise pour situer les transits, onze jours environ quand Jupiter traverse le point d’une seule traite. Environ trois fois sur dix, Jupiter rétrograde tout près et passe trois fois, sur huit mois à peu près. Vous le sentez surtout dans le domaine de la maison où se trouve Mars dans votre thème."
   - q: "Jupiter en transit opposition Mars, est-ce un mauvais transit ?"
     a: "Aucun transit n’est mauvais en soi. On range l’opposition parmi les aspects durs, et avec Mars elle peut pousser à prendre plus que votre énergie ne peut porter. Elle peut aussi donner à l’effort une raison plus grande que lui. Elle ne prédit ni accident, ni blessure, ni dispute, et je ne la lis jamais pour cela."
   - q: "Combien de fois dans une vie revient l’opposition de Jupiter à votre Mars ?"
-    a: "Une fois tous les douze ans environ, le temps que Jupiter met à faire le tour du zodiaque. D’après les naissances de 1930 à 2009, on la rencontre six ou sept fois avant 80 ans, sans exception. Elle tombe six ans environ après le passage de Jupiter sur votre Mars, à mi-chemin de ce tour."
+    a: "Une fois tous les douze ans environ, le temps que Jupiter met à faire le tour du zodiaque. D’après les naissances de 1930 à 2009, on la rencontre six ou sept fois avant 80 ans, sans exception. À mi-chemin de ce tour, quelque six ans après que Jupiter a franchi votre Mars, l’opposition arrive."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, et combien de fois l’opposition revient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
 ---
-Une fois par tour de douze ans, Jupiter atteint la partie du ciel qui fait face à Mars dans votre thème natal. Votre façon d’aller chercher ce que vous voulez rencontre alors quelque chose de plus grand, posé en face : un but, un principe, et assez souvent les projets de quelqu’un d’autre.
+Une fois par tour de douze ans, Jupiter atteint le point du zodiaque opposé à Mars de votre thème natal. Votre façon d’aller chercher ce que vous voulez rencontre alors quelque chose de plus grand, posé en face : un but, un principe, et assez souvent les projets de quelqu’un d’autre.
 
 ## Ce qui change {#ce-qui-change}
 

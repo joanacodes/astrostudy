@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Pluto", "conjunction", "transits"]
 weight: 1665
 glyph: "♄☌♇"
-definition: "Transiting Saturn conjunct natal Pluto is Saturn in the sky crossing the degree Pluto held at your birth, about every 29½ years. Structure and transformation fuse: what has worn out asks to be retired in good order, and what you have been reworking for years can be built to last. I read it as renovation, never a threat."
+definition: "Transiting Saturn conjunct natal Pluto is Saturn in the sky passing over the degree Pluto held at your birth, the start of each 29½-year round between the two. Structure and transformation fuse: what has worn out can be retired in good order, and what you have reworked can be built to last. I read it as renovation."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Pluto ♇, depth, power and renewal" }
@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting Saturn conjunct natal Pluto mean?"
     a: "Saturn in the sky is crossing the degree your Pluto held at birth, so structure and deep change act as one process. Something worn out tends to be retired, and something you’ve been reworking for a long time gets a durable form. I read it as a renovation season: demanding, honest, and focused on what will last."
   - q: "How long does Saturn conjunct Pluto last as a transit?"
-    a: "With my orbs, from 1½° before exact to 1° after, about nine months. A little over half the time Saturn crosses the degree three times as it loops in retrograde, over about nine and a half months; a single crossing can be over in three weeks."
+    a: "Saturn spends about nine months in orb, with my orbs of 1½° before exact and 1° after. A little over half the time it crosses your Pluto three times as it loops; a single crossing can be done in three weeks."
   - q: "Does Saturn conjunct Pluto mean death or loss?"
     a: "No. Pluto takes its name from the god of the underworld and the old reputation lingers, but no transit foretells a death, yours or anyone else’s, and I never read a chart for one. What this crossing describes is a season of clearing out and rebuilding, with you doing the choosing."
   - q: "When does Saturn conjunct my natal Pluto?"
@@ -41,13 +41,13 @@ Saturn reaching your natal Pluto is the Saturn–Pluto transit people brace for,
 
 Saturn fears chaos, and Pluto's blind spot is mistaking control for safety, so together they can tempt you to grip harder. The season usually goes better the other way: fewer things held tightly, each one held well. Pluto's reputation for endings makes this crossing sound grim, yet it foretells no death, yours or anyone's ([can astrology predict death?](/astrology/can-astrology-predict-death/)); what ends under it, as I read it, is structures, never lives.
 
-Your Pluto's house shows where the renovation happens: in your 2nd, what you value and keep; in your 8th, what you share and owe in close bonds. That house comes from your birth time, so I don't read this transit without it ([what changes without a birth time](/blog/unknown-birth-time/)). Born in 1946–48 or 1981–83, you carry [Saturn conjunct Pluto](/astrology/saturn-conjunct-pluto/) in your own chart: the meeting this transit repeats.
+Your Pluto's house shows where the renovation happens: in your 2nd, what you value and keep; in your 8th, what you share and owe in close bonds. Your birth time decides that house, and I wait for it before saying anything ([what changes without a birth time](/blog/unknown-birth-time/)). Born in 1946–48 or 1981–83, you carry [Saturn conjunct Pluto](/astrology/saturn-conjunct-pluto/) in your own chart: the meeting this transit repeats.
 
 ## How long it lasts {#how-long-it-lasts}
 
-Saturn's crossing of your Pluto takes about nine months with the orbs I use, 1½° before exact and 1° after. In a little over half of them a retrograde loop carries Saturn over the degree three times, in about nine and a half months; a single crossing can be done in three weeks.
+Saturn's crossing of your Pluto takes about nine months with the orbs I use, 1½° before exact and 1° after. Three crossings, forward, back and forward again, are slightly the likelier pattern, and they take about nine and a half months; one quick crossing can be done in three weeks.
 
-It returns about every 29½ years, two or three times by 80, and a whole year group shares the ages: born in 1965, at about 15, 44 and 73; born in 1975, at about 6, 36 and 65; born in 1985, at about 28 and 57. Until 2032 Saturn crosses Aries, Taurus and Gemini, signs where nobody born since 1914 has Pluto, so the coming years are quiet for this transit. It reaches the generation with Pluto in Leo from 2034, Pluto in Virgo, born between 1956 and 1972, from 2036, and Pluto in Libra, born between 1971 and 1984, from 2039 ([generational placements by birth year](/astrology/generational-placements-by-birth-year/)).
+Every 29½ years or so it comes back, two or three crossings by 80, at ages a whole year group shares: born in 1965, at about 15, 44 and 73; born in 1975, at about 6, 36 and 65; born in 1985, at about 28 and 57. Until 2032 Saturn crosses Aries, Taurus and Gemini, signs where nobody born since 1914 has Pluto, so the coming years are quiet for this transit. It reaches the generation with Pluto in Leo from 2034, Pluto in Virgo, born between 1956 and 1972, from 2036, and Pluto in Libra, born between 1971 and 1984, from 2039 ([generational placements by birth year](/astrology/generational-placements-by-birth-year/)).
 
 Fifteen years or so after this crossing, Saturn stands opposite your Pluto ([transiting Saturn opposite natal Pluto](/astrology/transiting-saturn-opposite-natal-pluto/)). On the way out it makes [transiting Saturn sextile natal Pluto](/astrology/transiting-saturn-sextile-natal-pluto/), [transiting Saturn square natal Pluto](/astrology/transiting-saturn-square-natal-pluto/) and [transiting Saturn trine natal Pluto](/astrology/transiting-saturn-trine-natal-pluto/), and each one tests a different part of what you rebuilt.
 

@@ -2,7 +2,7 @@
 title: "Uranus en transit trigone Mercure du thème natal"
 slug: "uranus-transit-trigone-mercure-natal"
 h1: "Uranus en transit trigone Mercure de votre thème natal"
-description: "Uranus en transit trigone Mercure du thème natal : vingt mois, deux fois en général, où les idées inhabituelles portent et où l’on apprend vite. En profiter."
+description: "Uranus en transit trigone Mercure du thème natal : les idées inhabituelles portent et l’on apprend vite, vingt mois, deux fois en général. En profiter."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/mercury", "/astrology/trine", "/astrology/mercury-trine-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit trigone Mercure du thème natal ?"
-    a: "Uranus atteint 120° de votre Mercure de naissance et reste près de cet angle une vingtaine de mois. J’y lis une période où l’originalité et la clarté s’entraident : vous apprenez vite, vous expliquez bien les idées neuves, et l’on prend plus volontiers au sérieux une suggestion peu conventionnelle."
+    a: "Pendant une vingtaine de mois, un trigone relie Uranus à votre Mercure de naissance. J’y lis une période où l’originalité et la clarté s’entraident : vous apprenez vite, vous expliquez bien les idées neuves, et l’on prend plus volontiers au sérieux une suggestion peu conventionnelle."
   - q: "Uranus trigone Mercure, est-ce bon pour écrire ?"
     a: "Comme je le lis, c’est l’un des climats les plus favorables à l’écriture, à l’étude ou à tout travail d’idées, parce que l’invention et l’expression vont ensemble. Le risque est celui de tout trigone : des idées faciles laissées en plan. Un projet avec une échéance tire bien mieux parti de ce transit qu’un carnet de débuts."
   - q: "Uranus trigone Mercure, c’est tous les combien ?"
-    a: "Deux fois par tour d’Uranus, soit tous les 84 ans environ : 28 ans environ avant et 28 ans environ après son passage sur votre Mercure. La plupart des personnes nées entre 1930 et 2009 ont les deux avant 80 ans, et toutes au moins un. Chaque visite dure une vingtaine de mois."
+    a: "Deux fois par tour d’Uranus, soit tous les 84 ans environ : 28 ans environ avant et 28 ans environ après son passage sur votre Mercure. Avant 80 ans, presque toutes les personnes nées entre 1930 et 2009 ont connu les deux, et aucune moins d’un. Chaque visite dure une vingtaine de mois."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de trigones viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "le trigone d’Uranus à Mercure, parmi ses transits" }

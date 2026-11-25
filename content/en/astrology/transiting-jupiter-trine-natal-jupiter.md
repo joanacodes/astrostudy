@@ -37,7 +37,7 @@ A [trine](/astrology/trine/) relates two functions through flow while each keeps
 
 The two trines of a cycle come after different events. The first, about four years after a [Jupiter return](/astrology/jupiter-return/), follows the first square: the plan that was adjusted a year earlier finds its footing and starts to move. The second, about four years before the next return, follows the opposition at the halfway mark, and suits gathering in what the round has produced: a skill now easy, a belief now tested, something you can hand on.
 
-Ease is not inevitability, and flow is not passivity. A trine doesn't push, so nothing changes unless you lean on it; plenty of people only see it in hindsight, as the months when something came together. Your birth time decides the house your Jupiter sits in, and so the part of life where things come together ([what changes without a birth time](/blog/unknown-birth-time/)).
+Ease is not a guarantee, nor a reason to do nothing. A trine doesn't push, so nothing changes unless you lean on it; plenty of people only see it in hindsight, as the months when something came together. Your birth time decides the house your Jupiter sits in, and so the part of life where things come together ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

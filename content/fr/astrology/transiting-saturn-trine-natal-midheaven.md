@@ -45,7 +45,7 @@ Les deux trigones viennent de régions différentes du thème. Le premier, une d
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, le trigone dure neuf mois environ. Un peu plus d’une fois sur deux, la boucle de Saturne lui donne trois passages exacts sur neuf mois et demi environ, et avec un seul passage exact il peut avoir disparu en trois semaines. La plupart des gens en vivent cinq avant 80 ans, certains six.
+Avec mes orbes, de 1,5° avant l’exactitude à 1° après, un trigone au Milieu du Ciel dure neuf mois environ. Un peu plus d’une fois sur deux, la boucle de Saturne lui donne trois passages exacts sur neuf mois et demi environ, et avec un seul passage exact il peut avoir disparu en trois semaines. Avant 80 ans, on en vit en général cinq, et parfois un sixième.
 
 Douze minutes d’erreur sur une heure de naissance font trois degrés sur le Milieu du Ciel, et trois degrés représentent environ trois mois du mouvement de Saturne : c’est la marge qu’ajoute une heure approximative, et l’une des raisons pour lesquelles j’attends la vraie ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

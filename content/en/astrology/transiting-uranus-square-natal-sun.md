@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/sun", "/astrology/square", "/astrology/sun-square-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus square natal Sun mean?"
-    a: "Uranus has reached a right angle to your birth Sun, a quarter of the zodiac away. I read it as friction between the life you’ve built and the part of you that wants to differ: a role, a routine or a plan that fitted starts to pinch, and you get a long season to rework it rather than a day to escape it."
+    a: "Uranus has reached a right angle to your birth Sun. I read it as friction between the life you’ve built and the part of you that wants to differ: a role, a routine or a plan that fitted starts to pinch, and you get a long season to rework it rather than a day to escape it."
   - q: "How long does Uranus square Sun last?"
     a: "About twenty months with my orbs, which run from 1½° before exact to 1° after; the shortest passes take about eleven. In more than nine passes out of ten, Uranus crosses the exact square three times, because it spends about five months of every year moving backwards through the zodiac."
   - q: "At what age does Uranus square your Sun?"

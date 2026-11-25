@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/neptune", "/astrology/sextile", "/astrology/jupiter-sextile-neptune", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit sextile Neptune du thème natal ?"
-    a: "Jupiter, dans le ciel, se trouve à 60° de Neptune à votre naissance : la croyance et l’imagination peuvent travailler ensemble un moment, si vous les laissez faire. J’y lis une ouverture douce pour donner une première forme concrète à un rêve, à une idée créative ou à une envie d’aider."
+    a: "Jupiter est aujourd’hui à 60° de Neptune de votre naissance : la croyance et l’imagination peuvent travailler ensemble un moment, si vous les laissez faire. J’y lis une ouverture douce pour donner une première forme concrète à un rêve, à une idée créative ou à une envie d’aider."
   - q: "Jupiter sextile Neptune, est-ce bon pour la création ?"
     a: "Cela s’y prête bien, à condition de faire le travail : le sextile rend l’imagination plus facile à atteindre et à partager, mais il n’écrit pas le chapitre et ne peint pas le tableau. Beaucoup trouvent ces semaines propices pour commencer une pratique, suivre un cours ou montrer leur travail pour la première fois."
   - q: "Tous les combien vient le sextile de Jupiter à Neptune du thème natal ?"
@@ -38,7 +38,7 @@ Une petite ouverture bienveillante revient deux fois par tour de Jupiter, quand 
 
 Ces semaines conviennent à un rêve essayé en petit. Un premier chapitre, un cours dans l’art que vous vous promettez d’étudier depuis toujours, une heure par semaine donnée à une cause, une pratique discrète commencée le matin : les idées de Neptune restent fragiles tant qu’elles n’ont pas de forme, et c’est le moment du tour où leur en donner une coûte le moins. Neptune porte aussi le sens du collectif, si bien que l’ouverture passe parfois par un groupe : une chorale, une équipe de bénévoles, un cercle qui médite ou crée ensemble.
 
-Le sextile est aussi la mise à l’épreuve la plus douce que Neptune connaisse. Ce que vous imaginez rencontre un peu du monde réel, assez pour montrer ce qui marche, sans la friction qu’apporterait un carré. L’endroit dépend de la maison de Neptune dans votre thème et de celle que Jupiter traverse, et seule l’heure de naissance peut placer l’une ou l’autre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si [Jupiter sextile Neptune](/astrology/jupiter-sextile-neptune/) figure dans votre thème, chaque [retour de Jupiter](/astrology/jupiter-return/) amène l’un de ces sextiles avec lui, comme l’écho d’une aisance qui est la vôtre depuis la naissance.
+Le sextile est aussi la mise à l’épreuve la plus douce que Neptune connaisse. Ce que vous imaginez rencontre un peu du monde réel, assez pour montrer ce qui marche, sans la friction qu’apporterait un carré. L’endroit dépend de la maison de Neptune dans votre thème et de celle que Jupiter traverse, et seule l’heure de naissance peut placer l’une ou l’autre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si [Jupiter sextile Neptune](/astrology/jupiter-sextile-neptune/) figure dans votre thème, chaque [retour de Jupiter](/astrology/jupiter-return/) s’accompagne de l’un de ces sextiles, comme l’écho d’une aisance qui est la vôtre depuis la naissance.
 
 ## Combien de temps {#combien-de-temps}
 

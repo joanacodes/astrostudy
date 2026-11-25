@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Uranus trine natal Saturn mean?"
     a: "Uranus stands 120° from the degree your Saturn held at birth. Structure and change help each other: a reform can be planned and built properly, and old rules can be rewritten rather than broken. I read it as the easiest season in Uranus’s round for modernising what you’re responsible for, if you use it."
   - q: "How long does Uranus trine Saturn last?"
-    a: "About twenty months, counting from 1½° before the exact trine to 1° after; the shortest passes take about eleven. In more than nine passes out of ten Uranus crosses the exact trine three times, the middle crossing made while it is retrograde."
+    a: "About twenty months, counting from 1½° before the exact trine to 1° after; the shortest passes take about eleven. In more than nine passes out of ten Uranus crosses the exact trine three times, the middle crossing made while it is retrograde: time to plan a reform, build it and check that it holds."
   - q: "Who has Uranus trine Saturn now?"
     a: "Uranus is in Gemini until May 2033, so it trines natal Saturn in Libra and in Aquarius. That covers most people born from late 1980 to the summer of 1983, from 1962 to 1964 and from 1991 to early 1994, and those born in the early 1950s with Saturn in Libra."
   - q: "Is Uranus trine Saturn a good transit?"
@@ -45,11 +45,11 @@ With Saturn in your 9th and Uranus crossing your 1st ([Uranus transiting the 1st
 
 ## How long it lasts {#how-long-it-lasts}
 
-With the orbs I use for timing, from 1½° before exact to 1° after, the trine lasts about twenty months, eleven at the shortest, with three exact hits in more than nine passes out of ten; the middle one comes while Uranus is moving backwards ([Uranus retrograde](/astrology/uranus-retrograde/)).
+With the orbs I use for timing, from 1½° before exact to 1° after, the trine gives a reform about twenty months to be planned and built, eleven at the shortest, with three exact hits in more than nine passes out of ten; the middle one comes while Uranus is moving backwards ([Uranus retrograde](/astrology/uranus-retrograde/)).
 
 Uranus is in Gemini until May 2033, trining every natal Saturn in Libra or Aquarius on its way. With Saturn in Libra, as for most births from September 1980 to August 1983 and from 1950 to 1953, or in Aquarius, as for births from January 1962 to December 1964 and from February 1991 to January 1994, one of your trines falls between 2025 and 2033.
 
-In the site's count, births just after one of the runs of [Saturn trine Uranus](/astrology/saturn-trine-uranus/), 1955–58, 1971–74 and 2002–04, met the transit within their first years: at about 3 for someone born at the start of 1975, about 4 for the start of 2005. Someone born at the start of 1955 waited until about 52. By 80, every birth from 1930 to 2009 has had one trine to Saturn, and most have had two.
+In the site's count, births just after one of the runs of [Saturn trine Uranus](/astrology/saturn-trine-uranus/), 1955–58, 1971–74 and 2002–04, met the transit within their first years: at about 3 for someone born at the start of 1975, about 4 for the start of 2005. Someone born at the start of 1955 waited until about 52. That birth reaches 80 with a single trine, the second waiting until about 82; most births meet two, and none fewer than one.
 
 From the conjunction, [transiting Uranus conjunct natal Saturn](/astrology/transiting-uranus-conjunct-natal-saturn/), the first trine lies about twenty-eight years on, after [transiting Uranus sextile natal Saturn](/astrology/transiting-uranus-sextile-natal-saturn/) and [transiting Uranus square natal Saturn](/astrology/transiting-uranus-square-natal-saturn/); the second trine follows [transiting Uranus opposite natal Saturn](/astrology/transiting-uranus-opposite-natal-saturn/) by about fourteen years.
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Uranus", "carré", "transits"]
 weight: 1598
 glyph: "♃□♅"
-definition: "Jupiter en transit carré Uranus du thème natal place Jupiter à angle droit d’Uranus de votre naissance, à 90°, et cela deux fois à chaque tour de Jupiter. L’envie de grandir et le besoin de liberté se bousculent : impatience, idées neuves qui heurtent de vieilles convictions. J’y lis une friction qui demande au changement de se justifier."
+definition: "Jupiter en transit carré Uranus du thème natal place Jupiter à angle droit d’Uranus de votre naissance, à 90°, et cela deux fois à chaque tour de Jupiter. L’envie de grandir et le besoin de liberté se bousculent : impatience, idées neuves qui heurtent de vieilles convictions. C’est à mes yeux une friction qui demande au changement de se justifier."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Uranus ♅ de votre thème : la liberté, le changement, votre propre voie" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/uranus", "/astrology/square", "/astrology/jupiter-square-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit carré Uranus du thème natal ?"
-    a: "Jupiter se trouve à 90° d’Uranus de votre naissance : l’envie de grandir et le besoin de liberté frottent l’un contre l’autre. On le vit souvent comme de l’impatience : vouloir un changement plus grand, plus tôt, ou découvrir qu’une idée neuve ne cadre pas avec une vieille conviction. J’y lis un moment pour éprouver le changement avant de le faire."
+    a: "Jupiter forme maintenant un carré avec Uranus de votre naissance : l’envie de grandir et le besoin de liberté frottent l’un contre l’autre. On le vit souvent comme de l’impatience : vouloir un changement plus grand, plus tôt, ou découvrir qu’une idée neuve ne cadre pas avec une vieille conviction. J’y lis un moment pour éprouver le changement avant de le faire."
   - q: "Le carré de Jupiter à Uranus peut-il amener des changements soudains ?"
     a: "Il peut amener une envie soudaine de changement, et il arrive que les choses bougent vite autour de vous. Je n’y lis pas l’annonce d’une rupture, d’une perte d’emploi ni d’aucun événement précis, et je ne lis jamais les transits pour cela. Ce qu’il décrit, c’est une pression pour repenser, et la réponse vous appartient."
   - q: "Combien de temps dure le carré de Jupiter à Uranus du thème natal ?"
@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge au premier carré selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
 ---
-Deux fois par tour de Jupiter, la planète de la croissance forme un carré avec le degré qu’Uranus occupait à votre naissance. La part de vous qui en veut plus et celle qui veut en sortir se bousculent, et pendant quelques jours, parfois des mois, tout semble prêt à changer d’un coup.
+Deux fois par tour de Jupiter, la planète de la croissance forme un carré avec le degré qu’Uranus occupait à votre naissance. Votre appétit de davantage et votre envie d’une issue se bousculent, et pendant quelques jours, parfois des mois, tout semble prêt à changer d’un coup.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -38,7 +38,7 @@ Deux fois par tour de Jupiter, la planète de la croissance forme un carré avec
 
 Les deux planètes ont ici un point faible, et le carré appuie dessus. Jupiter peut prendre une croyance pour une certitude ; Uranus peut confondre être différent et avoir raison, ou changer un système avant de comprendre ce qui y fonctionne encore. C’est pour cela que je lis ce carré comme une épreuve plutôt qu’un verdict : le changement qui vaut la peine est celui qui survit à vos propres questions.
 
-Rien de tout cela n’annonce une rupture, une démission ou une perte soudaine, et je ne lis pas les [transits](/astrology/transits/) pour cela ([Ma méthode](/how-i-read/)). La maison d’Uranus dans votre thème, avec celle que Jupiter traverse à ce moment-là, décide de l’endroit où l’impatience s’accumule, et aucune des deux ne se place sans l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Chaque [retour de Jupiter](/astrology/jupiter-return/) réveille cette impatience chez les personnes nées avec [Jupiter carré Uranus](/astrology/jupiter-square-uranus/).
+Rien ici n’annonce une rupture, une démission ou une perte soudaine, et je ne lis pas les [transits](/astrology/transits/) pour cela ([Ma méthode](/how-i-read/)). La maison d’Uranus dans votre thème, avec celle que Jupiter traverse à ce moment-là, décide de l’endroit où l’impatience s’accumule, et aucune des deux ne se place sans l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Chaque [retour de Jupiter](/astrology/jupiter-return/) réveille cette impatience chez les personnes nées avec [Jupiter carré Uranus](/astrology/jupiter-square-uranus/).
 
 ## Combien de temps {#combien-de-temps}
 

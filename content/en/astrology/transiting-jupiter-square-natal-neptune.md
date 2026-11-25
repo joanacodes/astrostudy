@@ -1,7 +1,7 @@
 ---
 title: "Transiting Jupiter square natal Neptune"
 h1: "Transiting Jupiter square your natal Neptune"
-description: "Transiting Jupiter square natal Neptune: hope runs ahead of the facts, twice in each Jupiter round. How long it lasts, when it comes, how to check a dream."
+description: "Transiting Jupiter square natal Neptune: hope runs ahead of the facts, twice in each Jupiter round. Its length, its timing, and checking a dream."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Neptune", "square", "transits"]
 weight: 1603
 glyph: "♃□♆"
-definition: "Transiting Jupiter square natal Neptune sets today’s Jupiter 90° from your birth Neptune, twice in each twelve-year Jupiter round. Belief and imagination push each other further than the facts go: plans that are mostly hope, ideals that ask too much. I read it as a reality check that keeps the dream, never as a sign of deception or loss."
+definition: "Transiting Jupiter square natal Neptune puts a right angle between today’s Jupiter and your birth Neptune, twice each round. Belief and imagination push each other further than the facts go: plans that are mostly hope, ideals that ask too much. I read it as a reality check that keeps the dream, never as a sign of deception or loss."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, about a year in each sign" }
   - { k: "Natal point", v: "Your Neptune ♆: ideals, imagination, empathy" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/neptune", "/astrology/square", "/astrology/jupiter-square-neptune", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "What does transiting Jupiter square natal Neptune mean?"
-    a: "Jupiter is 90° from your birth Neptune, so belief and imagination rub against each other and against the facts. Hopes can run ahead of what is real, and ideals can ask more than anyone can give. I read it as a time to check a dream carefully, keeping what survives the checking."
+    a: "Jupiter and your birth Neptune are a quarter-circle apart, so belief and imagination rub against each other and against the facts. Hopes can run ahead of what is real, and ideals can ask more than anyone can give. I read it as a time to check a dream carefully, keeping what survives the checking."
   - q: "Does Jupiter square Neptune mean being deceived?"
     a: "No, and I don’t read it as a warning about anyone. It describes a stretch when wishful thinking is easier than usual, yours or other people’s, so it’s a good time to read the small print and ask practical questions. It predicts no deception, loss or illness."
   - q: "How long does Jupiter square natal Neptune last?"
@@ -55,4 +55,4 @@ Find a second opinion from someone who doesn't share the dream. Not to talk you 
 
 Sleep on large promises, your own and other people's. Most of what feels urgent under this square looks different, and clearer, a few days later.
 
-If money is part of the dream, take advice from someone qualified to give it. I don't read transits for investments, and this one least of all ([Can astrology pick investments?](/astrology/can-astrology-pick-investments/)).
+If money is part of the dream, take advice from someone qualified to give it. Investments are outside what I read in any transit, and this one least of all ([Can astrology pick investments?](/astrology/can-astrology-pick-investments/)).

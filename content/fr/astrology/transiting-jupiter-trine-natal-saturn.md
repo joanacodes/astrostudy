@@ -23,14 +23,14 @@ faq:
   - q: "Que veut dire Jupiter en transit trigone Saturne du thème natal ?"
     a: "Un angle de 120° relie maintenant Jupiter à Saturne dans votre thème, en général depuis un signe du même élément : l’envie de grandir et la part de vous, patiente, qui structure, tirent dans le même sens. J’y lis une période où les longs efforts trouvent des appuis et où les engagements pèsent moins. Des conditions, jamais un résultat."
   - q: "Quand vient le trigone de Jupiter à Saturne de mon thème natal ?"
-    a: "Deux fois par tour de Jupiter de douze ans, quatre ans environ après le passage de Jupiter sur votre Saturne et quatre ans avant le suivant. Treize ou quatorze avant 80 ans, c’est le compte pour les naissances de 1930 à 2009, le premier venant entre quelques semaines et huit ans environ."
+    a: "Deux fois par tour de douze ans, vers la quatrième et la huitième année après le passage de Jupiter sur Saturne de votre thème. Treize ou quatorze avant 80 ans, c’est le compte pour les naissances de 1930 à 2009, le premier venant entre quelques semaines et huit ans environ."
   - q: "Le trigone de Jupiter à Saturne récompense-t-il le travail ?"
     a: "Pas comme un paiement. C’est une saison où l’effort rencontre moins de résistance et où l’aide se trouve plus facilement : un travail régulier peut se voir davantage que d’habitude. Que quelqu’un le remarque, et ce qui suit, dépend de personnes et de circonstances dont le transit ne dit rien. Je n’y lis jamais une promesse de reconnaissance ni d’argent."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge au premier trigone selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
 ---
-La part de vous qui en veut davantage et celle qui veut que cela dure cessent un moment de se disputer chaque fois que Jupiter forme un trigone avec Saturne de votre naissance, en général depuis un signe du même élément. Cela arrive deux fois par tour, pour des jours ou des mois, et le travail patient a le vent dans le dos.
+L’ambition et la patience cessent un moment de se disputer chaque fois que Jupiter forme un trigone avec Saturne de votre naissance, en général depuis un signe du même élément. Cela arrive deux fois par tour, pour des jours ou des mois, et le travail patient a le vent dans le dos.
 
 ## Ce qui change {#ce-qui-change}
 

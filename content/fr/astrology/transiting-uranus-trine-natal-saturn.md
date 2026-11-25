@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Uranus en transit trigone Saturne du thème natal ?"
     a: "Uranus se trouve à 120° du degré qu’occupait Saturne à votre naissance. Structure et changement s’entraident : une réforme peut se préparer et se construire correctement, et les vieilles règles se réécrire au lieu de casser. J’y lis la saison la plus facile du tour d’Uranus pour moderniser ce dont vous avez la charge, si vous vous en servez."
   - q: "Combien de temps dure Uranus trigone Saturne ?"
-    a: "Une vingtaine de mois, comptés de 1,5° avant le trigone exact à 1° après ; les passages les plus courts prennent onze mois environ. Dans plus de neuf cas sur dix, Uranus franchit trois fois le trigone exact, le passage du milieu pendant la rétrogradation."
+    a: "Une vingtaine de mois, comptés de 1,5° avant le trigone exact à 1° après ; les passages les plus courts prennent onze mois environ. Dans plus de neuf cas sur dix, Uranus franchit trois fois le trigone exact, le passage du milieu pendant la rétrogradation : le temps de préparer une réforme, de la bâtir et de vérifier qu’elle tient."
   - q: "Qui vit Uranus trigone Saturne en ce moment ?"
     a: "Uranus est en Gémeaux jusqu’en mai 2033 et forme donc un trigone à toute position de Saturne en Balance ou en Verseau. Cela concerne la plupart des personnes nées de fin 1980 à l’été 1983, de 1962 à 1964 et de 1991 à début 1994, ainsi que celles nées au début des années 1950 avec Saturne en Balance."
   - q: "Est-ce qu’Uranus trigone Saturne est un bon transit ?"
@@ -46,11 +46,11 @@ Avec Saturne en maison 9 et Uranus qui traverse votre maison 1 ([Uranus en trans
 
 ## Combien de temps {#combien-de-temps}
 
-Avec les orbes de mes prévisions, de 1,5° avant l’exactitude à 1° après, le trigone dure une vingtaine de mois, onze au plus court, avec trois contacts exacts dans plus de neuf cas sur dix ; celui du milieu se fait pendant qu’Uranus recule ([Uranus rétrograde](/astrology/uranus-retrograde/)).
+Avec les orbes de mes prévisions, de 1,5° avant l’exactitude à 1° après, le trigone donne à une réforme une vingtaine de mois pour se préparer et se bâtir, onze au plus court, avec trois contacts exacts dans plus de neuf cas sur dix ; celui du milieu se fait pendant qu’Uranus recule ([Uranus rétrograde](/astrology/uranus-retrograde/)).
 
 Uranus est en Gémeaux jusqu’en mai 2033 et forme en chemin un trigone à toute position de Saturne en Balance ou en Verseau. Avec Saturne en Balance, comme pour la plupart des naissances de septembre 1980 à août 1983 et de 1950 à 1953, ou en Verseau, comme pour celles de janvier 1962 à décembre 1964 et de février 1991 à janvier 1994, l’un de vos trigones tombe entre 2025 et 2033.
 
-Dans le décompte du site, les naissances survenues juste après l’une des périodes de [Saturne trigone Uranus](/astrology/saturn-trine-uranus/), 1955-1958, 1971-1974 et 2002-2004, ont connu le transit dès leurs premières années : vers 3 ans pour une naissance début 1975, vers 4 ans pour une naissance début 2005. Une naissance début 1955 a attendu 52 ans environ. Avant 80 ans, toutes les naissances de 1930 à 2009 ont connu un trigone à Saturne, et la plupart deux.
+Dans le décompte du site, les naissances survenues juste après l’une des périodes de [Saturne trigone Uranus](/astrology/saturn-trine-uranus/), 1955-1958, 1971-1974 et 2002-2004, ont connu le transit dès leurs premières années : vers 3 ans pour une naissance début 1975, vers 4 ans pour une naissance début 2005. Une naissance début 1955 a attendu 52 ans environ. Cette naissance atteint 80 ans avec un seul trigone, le second attendant 82 ans environ ; la plupart en connaissent deux, aucune moins d’un.
 
 À partir de la conjonction, [Uranus en transit conjonction Saturne du thème natal](/astrology/transiting-uranus-conjunct-natal-saturn/), le premier trigone se trouve vingt-huit ans environ plus loin, après [Uranus en transit sextile Saturne du thème natal](/astrology/transiting-uranus-sextile-natal-saturn/) et [Uranus en transit carré Saturne du thème natal](/astrology/transiting-uranus-square-natal-saturn/) ; le second suit [Uranus en transit opposition Saturne du thème natal](/astrology/transiting-uranus-opposite-natal-saturn/) d’environ quatorze ans.
 

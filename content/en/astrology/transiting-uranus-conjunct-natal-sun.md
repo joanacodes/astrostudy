@@ -41,11 +41,11 @@ The [Sun](/astrology/sun/) organises identity, vitality and purpose: the centre 
 
 I read it as renewal rather than rupture. Innovation isn't chaos and autonomy isn't isolation: the people who come through this transit best tend to change on purpose and stay connected while they do. Some change visibly, a new field, a new way of living; others quietly, in how they decide and what they no longer agree to. Neither is required, and nothing here foretells a move, a break-up or a lost job ([how I read](/how-i-read/)).
 
-Your Sun's house shows where the room is needed. With the Sun in your 10th, the conjunction falls during [Uranus transiting the 10th house](/astrology/uranus-transit-10th-house/), and work is where you'll want to reinvent; in your 4th, it's home. That house comes from your birth time, and without it I don't read the chart ([what changes without a birth time](/blog/unknown-birth-time/)).
+Your Sun's house shows where the room is needed. With the Sun in your 10th, the conjunction falls during [Uranus transiting the 10th house](/astrology/uranus-transit-10th-house/), and work is where you'll want to reinvent; in your 4th, it's home. Placing that house takes the minute you were born, which is why the time comes before anything else in a reading ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-With my orbs, from 1½° before exact to 1° after, Uranus stays on your Sun for about twenty months. More than nine times in ten it crosses the degree three times as it turns retrograde, and even the shortest passes last about eleven months.
+Uranus moves so slowly that it spends about twenty months within my orbs of your Sun, from 1½° before exact to 1° after. More than nine times in ten it crosses the degree three times as it turns retrograde, and even the shortest passes last about eleven months.
 
 The age it comes at depends on how far behind your Sun Uranus stood when you were born: about seven years for every sign between them. If you were born just after Uranus had passed your Sun, as many people with [Sun conjunct Uranus](/astrology/sun-conjunct-uranus/) were, you're among the 1 in 25 who don't meet it by 80. Uranus is in Gemini until 2033, after a first visit in 2025: with the Sun in Gemini, born roughly between 21 May and 20 June, yours is under way or close, earlier for the earlier birthdays. Taurus Suns had theirs between 2018 and 2026; Cancer Suns come next, from 2032.
 

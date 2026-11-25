@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Neptune", "conjunction", "transits"]
 weight: 1601
 glyph: "♃☌♆"
-definition: "Transiting Jupiter conjunct natal Neptune happens when Jupiter in the sky reaches the exact degree of your birth Neptune, about once in twelve years. Belief and imagination swell together: ideals, compassion, a longing for meaning. I read it as an inspired season that asks you to keep checking what is real, never as a promise or a warning."
+definition: "Transiting Jupiter conjunct natal Neptune happens when Jupiter in the sky touches your birth Neptune exactly, once in a twelve-year round. Belief and imagination swell together: ideals, compassion, a longing for meaning. I read it as an inspired season that asks you to keep checking what is real, never as a promise or a warning."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, about a year in each sign" }
   - { k: "Natal point", v: "Your Neptune ♆: imagination, compassion, ideals" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/neptune", "/astrology/conjunction", "/astrology/jupiter-conjunct-neptune", "/astrology/pisces"]
 faq:
   - q: "What does transiting Jupiter conjunct natal Neptune mean?"
-    a: "Jupiter is crossing the degree of your birth Neptune, so the part of you that looks for meaning and the part that imagines and feels for others expand together. I read it as an inspired, generous season, good for creative and caring work, in which it pays to check facts before you commit."
+    a: "Jupiter has reached your birth Neptune, and your search for meaning and your imagination, the side of you that feels for others, expand together. I read it as an inspired, generous season, good for creative and caring work, in which it pays to check facts before you commit."
   - q: "Is Jupiter conjunct Neptune a spiritual transit?"
     a: "For some people it feels that way: a stronger sense of something larger, or a pull towards a practice or a cause. For others it shows as creativity, or as tenderness towards people. I read it as imagination and meaning growing together, whatever form that takes, with no outcome promised."
   - q: "How long does Jupiter conjunct natal Neptune last?"

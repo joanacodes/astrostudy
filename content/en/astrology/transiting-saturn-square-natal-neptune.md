@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Neptune", "square", "transits"]
 weight: 1662
 glyph: "♄□♆"
-definition: "Transiting Saturn square natal Neptune is Saturn in the sky reaching 90° from the degree Neptune held at your birth, twice in each 29½-year round. Reality-testing presses on an ideal until something adjusts: the plan, the hope, or the way you hold it. I read it as a correction of course, never the end of a dream."
+definition: "Transiting Saturn square natal Neptune is Saturn in the sky at a right angle to the degree Neptune held at your birth, roughly every fifteen years. Reality-testing presses on an ideal until something adjusts: the plan, the hope, or the way you hold it. I read it as a correction of course, never the end of a dream."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Neptune ♆, imagination and compassion" }
@@ -25,7 +25,7 @@ faq:
   - q: "How long does Saturn square Neptune last?"
     a: "Usually about nine months, counted with my orbs from 1½° before exact to 1° after. A little over half the time, Saturn’s retrograde loop brings three exact hits in about nine and a half months; with one exact hit, it can pass in three weeks."
   - q: "When is my Saturn square Neptune?"
-    a: "Twice in each round of Saturn, about fifteen years apart, and people born in the same year share the dates. Born in 1985, at about 11, 25 and 40; born in 1995, at about 3, 17 and 32. Most people born between 1984 and 1998 meet one between 2025 and 2028."
+    a: "Twice in each round of Saturn, about fifteen years apart, and people born in the same year share the dates. Born in 1985, at about 11, 25 and 40; born in 1995, at about 3, 17 and 32. Born between 1984 and 1998, you're likely to have one between 2025 and 2028."
   - q: "Does Saturn square Neptune cause depression?"
     a: "No chart can cause or diagnose that. The square can coincide with doubt or a loss of enthusiasm, a season when believing in something and turning up for it don’t come together easily. If low mood lasts, see a doctor or a therapist; the transit only describes the climate."
 sources:
@@ -46,7 +46,7 @@ Your Neptune's house shows where the gap opens: in the 7th, the picture you hold
 
 I count the square from 1½° before exact to 1° after, and within those orbs it typically runs about nine months. Saturn's yearly retrograde gives a little over half of them three exact hits, over about nine and a half months; the rest touch exact once, and the briefest are done in three weeks.
 
-The squares cut Saturn's round with your Neptune into quarters: one on the way out from Saturn's crossing of it ([transiting Saturn conjunct natal Neptune](/astrology/transiting-saturn-conjunct-natal-neptune/)) to the opposition ([transiting Saturn opposite natal Neptune](/astrology/transiting-saturn-opposite-natal-neptune/)), one on the way back. Everyone has had the first by about 15, at an age the whole year group shares: about 11 for people born in 1985, about 4 for 1975, about 13 for 1965. It then returns every fourteen or fifteen years, five times by 80 for most people and six for some. Saturn in Aries, until April 2028, squares every degree of Capricorn: with Neptune in Capricorn, as for most people born between 1984 and 1998, this is yours now, at about 40 if you were born in 1985 and about 32 if you were born in 1995.
+The squares cut Saturn's round with your Neptune into quarters: one on the way out from Saturn's crossing of it ([transiting Saturn conjunct natal Neptune](/astrology/transiting-saturn-conjunct-natal-neptune/)) to the opposition ([transiting Saturn opposite natal Neptune](/astrology/transiting-saturn-opposite-natal-neptune/)), one on the way back. Everyone has had the first by about 15, at an age the whole year group shares: about 11 for people born in 1985, about 4 for 1975, about 13 for 1965. It then returns every fourteen or fifteen years, five times by 80 for most people and six for some. Right now the square belongs to the Capricorn-Neptune generation, born between 1984 and 1998: Saturn in Aries, until April 2028, sits three signs from their Neptune, and it falls at about 40 for a 1985 birth and about 32 for 1995.
 
 The sextile and the trine sit two or three years either side of each square ([transiting Saturn sextile natal Neptune](/astrology/transiting-saturn-sextile-natal-neptune/), [transiting Saturn trine natal Neptune](/astrology/transiting-saturn-trine-natal-neptune/)).
 

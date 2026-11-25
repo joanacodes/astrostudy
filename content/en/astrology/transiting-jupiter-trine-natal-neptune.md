@@ -1,7 +1,7 @@
 ---
 title: "Transiting Jupiter trine natal Neptune"
 h1: "Transiting Jupiter trine your natal Neptune"
-description: "Transiting Jupiter trine natal Neptune: imagination and kindness flow easily, twice in each Jupiter round. Its length, its timing, and what to do with it."
+description: "Transiting Jupiter trine natal Neptune: imagination and kindness flow easily, twice in each Jupiter round. Its length, its timing, and making use of the ease."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

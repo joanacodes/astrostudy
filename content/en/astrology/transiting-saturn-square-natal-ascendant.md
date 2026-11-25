@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Ascendant", "rising sign", "square", "transits"]
 weight: 1672
 glyph: "♄□AC"
-definition: "Transiting Saturn square natal Ascendant is Saturn in the sky reaching 90° from the degree that was rising at your birth, twice in each 29½-year round. Duties at home or in public press on your habitual way of approaching things until it adjusts. I read it as friction that refines your manner, never a setback."
+definition: "Transiting Saturn square natal Ascendant is Saturn in the sky at 90° to the degree that was rising at your birth, once near the bottom of your chart and once near the top in each round. Duties at home or in public press on your usual approach. I read it as friction that refines your manner, never a setback."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "The Ascendant AC, the way you meet the world" }
@@ -23,11 +23,11 @@ faq:
   - q: "What does transiting Saturn square natal Ascendant mean?"
     a: "Saturn in the sky is 90° from your rising degree, so the structures around you, at home or in public life, press on your usual way of meeting the world. The habit that worked before may need adjusting. I read it as a useful friction that refines your manner, not as a setback or a judgement."
   - q: "How long does Saturn square the Ascendant last?"
-    a: "Around nine months within my orbs, from 1½° before exact to 1° after. A little over half the time it comes as three exact hits over about nine and a half months, as Saturn loops back; with one hit, it can be done in three weeks."
+    a: "Most last about nine months, counted from 1½° before exact to 1° after. In just over half of them Saturn hits the exact degree three times; the others hit it once, and the shortest last three weeks. A ten-minute error in your birth time moves the dates by more than two months."
   - q: "Is Saturn square my Ascendant the same as Saturn on my Midheaven?"
     a: "Not quite. One of the two squares falls near your Midheaven and the other near your IC, but the Midheaven is rarely exactly 90° from the Ascendant, so the square and the crossing usually come at different times, sometimes weeks apart, sometimes more than a year. Your birth chart shows the gap."
   - q: "When does Saturn square my Ascendant?"
-    a: "Twice in each round of Saturn, about seven years after it crosses your Ascendant and about seven years before it crosses it again. The months depend on your rising degree, so on your birth time. With Cancer or Capricorn rising, Saturn’s years in Aries, until April 2028, bring one."
+    a: "Twice in each round of Saturn, about seven years after it crosses your Ascendant and about seven years before it crosses it again. The months depend on your rising degree, so on your birth time. If you have Cancer or Capricorn rising, the current one comes from Saturn in Aries, until April 2028."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long it lasts with my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to the angles, read one by one" }
@@ -45,11 +45,11 @@ Friction isn't failure. What a square to the Ascendant usually leaves behind is 
 
 ## How long it lasts {#how-long-it-lasts}
 
-I time it with orbs of 1½° before exact and 1° after, and within them the square usually lasts about nine months. A little over half the time Saturn's loop brings three exact hits, over about nine and a half months; with a single hit, three weeks is possible. Most people meet five squares to their Ascendant by 80, some six.
+Most of these squares last about nine months, counted from 1½° before exact to 1° after, which are my orbs. In just over half of them Saturn hits the exact degree three times; the others hit it once, and the shortest of those last three weeks. Most people meet five squares to their Ascendant by 80, some six.
 
 Your rising degree sets the dates, and a ten-minute error in your birth time moves them by more than two months: the Ascendant covers a degree in about four minutes, Saturn in about a month. That, and the houses Saturn crosses, are why I start no reading without the time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Saturn is in Aries until April 2028: with Capricorn rising, that's the square near your IC; with Cancer rising, the one near your Midheaven. Between the two squares lie [transiting Saturn trine natal Ascendant](/astrology/transiting-saturn-trine-natal-ascendant/), around your 5th and 9th houses, and [transiting Saturn opposite natal Ascendant](/astrology/transiting-saturn-opposite-natal-ascendant/), on your Descendant; [transiting Saturn sextile natal Ascendant](/astrology/transiting-saturn-sextile-natal-ascendant/) comes before the first and after the second, and [transiting Saturn conjunct natal Ascendant](/astrology/transiting-saturn-conjunct-natal-ascendant/) marks the start and end of the round.
+For Capricorn rising, Saturn's years in Aries, until April 2028, bring the square near your IC; for Cancer rising, the one near your Midheaven. Between the two squares lie [transiting Saturn trine natal Ascendant](/astrology/transiting-saturn-trine-natal-ascendant/), around your 5th and 9th houses, and [transiting Saturn opposite natal Ascendant](/astrology/transiting-saturn-opposite-natal-ascendant/), on your Descendant; [transiting Saturn sextile natal Ascendant](/astrology/transiting-saturn-sextile-natal-ascendant/) comes before the first and after the second, and [transiting Saturn conjunct natal Ascendant](/astrology/transiting-saturn-conjunct-natal-ascendant/) marks the start and end of the round.
 
 ## What helps {#what-helps}
 

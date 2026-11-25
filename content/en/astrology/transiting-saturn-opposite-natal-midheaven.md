@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/imum-coeli", "/astrology/saturn-transit-4th-house", "/astrology/transiting-saturn-conjunct-natal-midheaven", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn opposite natal Midheaven mean?"
-    a: "Saturn in the sky is crossing your IC, the point opposite your Midheaven at the bottom of your chart, as it does about every 29½ years. I read it as a season for the foundations: home, belonging, rest, the private structures that let your public life stand. It opens Saturn’s years in your 4th house."
+    a: "Saturn in the sky is crossing your IC, the point opposite your Midheaven at the bottom of your chart, as it does about every 29½ years. I read it as a season for the foundations: home, belonging, rest, the private structures that let your public life stand. Saturn then begins its years in your 4th house."
   - q: "How long does Saturn opposite the Midheaven last?"
-    a: "On the degree itself, about nine months with my orbs of 1½° before exact and 1° after: a little over half the time in three exact passes over about nine and a half months, and at the quickest in three weeks. Saturn then spends a little under three years in your 4th house."
+    a: "Saturn takes about nine months over your IC, with my orbs of 1½° before exact and 1° after, crossing it three times a little more often than once; at its fastest, three weeks. A little under three years of Saturn in your 4th house follow."
   - q: "Is Saturn opposite my Midheaven the same as Saturn on my IC?"
     a: "Yes. The IC is always exactly opposite the Midheaven, so Saturn crossing one is Saturn opposing the other. In Placidus, which I use, the IC is also the cusp of the 4th house, so the crossing begins Saturn’s years there, about fourteen or fifteen years after it crossed your Midheaven."
   - q: "Does Saturn on my IC mean a quiet time at work?"
@@ -40,11 +40,11 @@ Halfway between two crossings of your Midheaven, Saturn reaches the lowest point
 
 The IC isn't only a house, a family or a childhood, though it can be any of those: it's whatever regenerates you. Public life may feel quieter, not because anything has gone wrong but because the effort has moved out of view. Where Saturn's crossing of your Midheaven asks what you're known for, this one asks what keeps you going when nobody is looking, and the two answers are meant to fit together. Nor does a transit to the IC say anything about the health of the people you come from ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)); the foundations I read here are yours.
 
-In Placidus, the house system I use, the IC is the cusp of the 4th house, so the crossing opens [Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/). It's the low point of Saturn's arc through your angles, about fourteen or fifteen years after [transiting Saturn conjunct natal Midheaven](/astrology/transiting-saturn-conjunct-natal-midheaven/) and as long before the next.
+The IC also begins the 4th house in Placidus, the system I use, so this is where [Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/) starts. Saturn reaches it at the low point of its arc through your angles, roughly midway between two crossings of your Midheaven ([transiting Saturn conjunct natal Midheaven](/astrology/transiting-saturn-conjunct-natal-midheaven/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-On the degree itself, within my orbs of 1½° before exact and 1° after, the opposition lasts about nine months. A little over half the time Saturn's loop crosses it three times, over about nine and a half months, and the fastest crossings take three weeks. Most people meet it two or three times by 80.
+Saturn takes about nine months over your IC, counted with my orbs of 1½° before exact and 1° after. A little over half the time the crossing happens three times as Saturn doubles back, within about nine and a half months; at its fastest it's over in three weeks. Two or three of these crossings come by 80, for everyone.
 
 The IC is exactly opposite the Midheaven, so it inherits the same precision: a birth time out by eight minutes moves this crossing by about two months. Without the time there is no IC to cross, and no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
 

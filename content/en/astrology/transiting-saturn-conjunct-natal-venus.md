@@ -43,7 +43,7 @@ Where it lands is the house your Venus sits in. With Venus in the 11th, Saturn's
 
 ## How long it lasts {#how-long-it-lasts}
 
-With my orbs, from 1½° before exact to 1° after, Saturn usually stays on your Venus for about nine months. In a little over half of these transits it crosses the exact degree three times as its retrograde loop doubles back, over about nine and a half months; crossing once at full speed, it can be gone in three weeks.
+Saturn's stay on your Venus usually runs to about nine months, from 1½° before exact to 1° after. In a little over half of these transits it crosses the exact degree three times as its retrograde loop doubles back, over about nine and a half months; crossing once at full speed, it can be gone in three weeks.
 
 Saturn's round with your Venus starts here. About five years later comes [transiting Saturn sextile natal Venus](/astrology/transiting-saturn-sextile-natal-venus/), about seven years later [transiting Saturn square natal Venus](/astrology/transiting-saturn-square-natal-venus/), about ten years later [transiting Saturn trine natal Venus](/astrology/transiting-saturn-trine-natal-venus/), and at about fifteen, halfway, [transiting Saturn opposite natal Venus](/astrology/transiting-saturn-opposite-natal-venus/); then the same steps in reverse. By 80 people meet the conjunction itself two or three times, and nobody misses it entirely.
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Moon", "square", "transits"]
 weight: 1687
 glyph: "♅□☽"
-definition: "Transiting Uranus square natal Moon is a twenty-month stretch, twice in most lives, when Uranus stands a quarter of the zodiac from your birth Moon. The comforts and routines that keep you steady rub against a need for room, and how you live asks for a new arrangement. I read it as comfort rebuilt, never comfort taken away."
+definition: "Transiting Uranus square natal Moon is a friction of about twenty months between Uranus in the sky and your birth Moon, a quarter of the zodiac apart, met twice in most lives. Your routines rub against a need for room, and how you live asks for a new arrangement. I read it as comfort rebuilt, never taken away."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "The Moon ☽: needs, habits and feeling safe" }
@@ -37,7 +37,7 @@ Your [Moon](/astrology/moon/) keeps you steady: attachment, habit, the felt sens
 
 The restlessness tends to be felt at home rather than out in the world. The flat feels small, the routine that got you through last year feels like a rut, and a quiet evening can bring on the urge to rearrange something. Feelings arrive fast and leave fast; you may want closeness and room within the same hour, and so may the people you live with.
 
-I read it as a redesign. Very little of what this square unsettles needs throwing out: it needs different hours, a different room, a different way of being looked after. If the unsettled feeling stops being a season and becomes every night, talk to someone trained to help ([when to see a professional instead](/astrology/when-to-see-a-professional-instead/)).
+To me it’s a redesign. Very little of what this square unsettles needs throwing out: it needs different hours, a different room, a different way of being looked after. If the unsettled feeling stops being a season and becomes every night, talk to someone trained to help ([when to see a professional instead](/astrology/when-to-see-a-professional-instead/)).
 
 With your Moon in the 2nd and Uranus crossing your 5th ([Uranus transiting the 5th house](/astrology/uranus-transit-5th-house/)), the comfort you've built from what's steady and owned meets an appetite for play, risk and surprise. Those houses and the Moon's exact degree all come from your birth time; without it I can't even time the square, so I don't read it ([what changes without a birth time](/blog/unknown-birth-time/)).
 

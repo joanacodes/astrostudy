@@ -22,14 +22,14 @@ faq:
   - q: "What does transiting Jupiter trine natal Saturn mean?"
     a: "A 120° angle now joins Jupiter to your natal Saturn, usually from a sign of the same element, so the urge to grow and the patient, structuring part of you pull together. I read it as a stretch when long efforts meet support and commitments feel lighter to carry. It describes conditions, never a result."
   - q: "When does Jupiter trine my natal Saturn?"
-    a: "Twice in each twelve-year Jupiter round, about four years after Jupiter crosses your Saturn and about four before it crosses it again. Thirteen or fourteen by 80 is the count for births from 1930 to 2009, the first arriving between a few weeks and about eight years of age."
+    a: "Twice in each twelve-year Jupiter round, at about the four-year and eight-year marks after Jupiter passes over your Saturn. Thirteen or fourteen by 80 is the count for births from 1930 to 2009, the first arriving between a few weeks and about eight years of age."
   - q: "Does Jupiter trine Saturn reward hard work?"
     a: "Not as a payout. It’s a season when effort meets less resistance and support is easier to find, so steady work can show more than usual. Whether anyone notices, and what follows, depends on people and circumstances the transit can’t speak for. I never read it as a promise of recognition or money."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first trine for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-The part of you that wants more and the part that wants it to last stop arguing for a while each time Jupiter trines your birth Saturn, usually from a sign of the same element. It happens twice a round, for days or months, and patient work gets a tailwind.
+Ambition and patience stop arguing for a while each time Jupiter trines your birth Saturn, usually from a sign of the same element. It happens twice a round, for days or months, and patient work gets a tailwind.
 
 ## What changes {#what-changes}
 

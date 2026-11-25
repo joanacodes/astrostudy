@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/saturn", "/astrology/mars", "/astrology/opposition", "/astrology/mars-opposite-saturn", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn opposite natal Mars mean?"
-    a: "Saturn is 180° from where your Mars stood at birth. Your drive and initiative meet limits that come from outside: an authority, a rival, a partner’s pace, an institution’s procedures. I read it as a season for measuring your strength against real limits and setting clear boundaries, never as a fight you are bound to lose."
+    a: "Saturn has reached the far side of the zodiac from your birth Mars. Your drive and initiative meet limits that come from outside: an authority, a rival, a partner’s pace, an institution’s procedures. I read it as a season for measuring your strength against real limits and setting clear boundaries, never as a fight you are bound to lose."
   - q: "Does Saturn opposite Mars bring conflict?"
     a: "Not as a rule, and I don’t read transits for disputes or their outcomes. The opposition tends to put your drive face to face with someone else’s limits: a boss, a rival, a partner, a procedure. That can mean friction, and it can mean a negotiation that teaches both sides where the line is."
   - q: "When does Saturn oppose my natal Mars?"
-    a: "Halfway round Saturn’s cycle from the last conjunction, roughly fifteen years on: two or three times in a life of 80 years. Each opposition fills about nine months with my orbs (1½° before exact, 1° after), often in three exact passes, and a fast crossing can be over in three weeks."
+    a: "Halfway round Saturn’s cycle from the last conjunction, roughly fifteen years on: two or three times in a life of 80 years. With my orbs (1½° before exact, 1° after) it holds for about nine months, often as three exact passes; a fast crossing takes as little as three weeks."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in orb with my orbs, and how often the opposition comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }

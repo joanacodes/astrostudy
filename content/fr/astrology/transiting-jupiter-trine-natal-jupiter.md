@@ -38,7 +38,7 @@ Un [trigone](/astrology/trine/) relie deux fonctions par la fluidité, sans que 
 
 Les deux trigones d’un cycle suivent des moments différents. Le premier, quatre ans environ après un [retour de Jupiter](/astrology/jupiter-return/), vient après le premier carré : le projet ajusté un an plus tôt trouve son assise et se met à avancer. Le second, quatre ans environ avant le retour suivant, vient après l’opposition de mi-parcours, et convient pour rentrer ce que le tour a produit : un savoir-faire devenu facile, une croyance éprouvée, quelque chose à transmettre.
 
-L’aisance n’est pas une fatalité, et la fluidité n’est pas de la passivité. Un trigone ne pousse pas : rien ne change si vous ne prenez pas appui dessus, et beaucoup ne le voient qu’après coup, comme les mois où quelque chose s’est mis en place. Votre heure de naissance décide de la maison où se trouve Jupiter dans votre thème, et donc du domaine de vie où les choses se mettent en place ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+L’aisance n’est ni une garantie ni une raison de ne rien faire. Un trigone ne pousse pas : rien ne change si vous ne prenez pas appui dessus, et beaucoup ne le voient qu’après coup, comme les mois où quelque chose s’est mis en place. Votre heure de naissance décide de la maison où se trouve Jupiter dans votre thème, et donc du domaine de vie où les choses se mettent en place ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

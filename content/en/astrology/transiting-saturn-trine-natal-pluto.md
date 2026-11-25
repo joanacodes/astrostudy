@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Pluto", "trine", "transits"]
 weight: 1668
 glyph: "♄△♇"
-definition: "Transiting Saturn trine natal Pluto is Saturn in the sky reaching 120° from the degree Pluto held at your birth, twice in each 29½-year round. Structure and transformation keep step: what you have rebuilt can carry weight, and strength is easier to use steadily. I read it as consolidation, never a promise of power or success."
+definition: "Transiting Saturn trine natal Pluto is Saturn in the sky in an easy 120° angle to the degree Pluto held at your birth, twice in each 29½-year round. Structure and transformation keep step: what you have rebuilt can carry weight, and strength is easier to use steadily. I read it as consolidation, never a promise of power or success."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Pluto ♇, depth, power and renewal" }
@@ -40,13 +40,13 @@ Saturn's trine to your natal Pluto often arrives two or three years after the sq
 
 Ease isn't inevitability. A trine can make you forget that its season is for strengthening, not for resting on what's done, and its gains last when you put them to work. Nor does it promise power or success: it describes conditions in which your own strength is easier to use well.
 
-The house of your Pluto shows what can be consolidated: in your 7th, how power is shared in a close partnership; in your 2nd, what you value and how you look after it. Houses come from the birth time, and I don't read without it ([what changes without a birth time](/blog/unknown-birth-time/)). Natal [Saturn trine Pluto](/astrology/saturn-trine-pluto/), the commonest Saturn–Pluto aspect in the births counted, describes the same cooperation as a trait; as a transit, it visits.
+The house of your Pluto shows what can be consolidated: in your 7th, how power is shared in a close partnership; in your 2nd, what you value and how you look after it. The houses are set by the minute of birth; without it there is nothing for me to read ([what changes without a birth time](/blog/unknown-birth-time/)). Natal [Saturn trine Pluto](/astrology/saturn-trine-pluto/), the commonest Saturn–Pluto aspect in the births counted, describes the same cooperation as a trait; as a transit, it visits.
 
 ## How long it lasts {#how-long-it-lasts}
 
-The trine stays close to nine months within the orbs I use, 1½° before exact to 1° after. A little over half the time, Saturn's retrograde brings three exact hits over about nine and a half months; with a single hit it can be done in three weeks.
+Close to nine months: that's how long this trine usually stays within the orbs I use, 1½° before exact to 1° after. Saturn's loop makes it exact three times in a little over half of them, across about nine and a half months, while a single exact hit can mean only three weeks.
 
-The two trines of each round come about ten years apart, either side of Saturn's opposition to your Pluto ([transiting Saturn opposite natal Pluto](/astrology/transiting-saturn-opposite-natal-pluto/)), then roughly twenty years pass across Saturn's crossing of it ([transiting Saturn conjunct natal Pluto](/astrology/transiting-saturn-conjunct-natal-pluto/)). Most people meet five by 80, some six, and everyone has had the first by about 20: at about 17 for people born in 1975, about 9 for 1985, within two years of birth for 1995 and 2005. Saturn's crossing of Aries, until April 2028, trines Leo and Sagittarius, so two generations half a century apart share this transit now: Pluto in Sagittarius, born between 1995 and 2008, in their twenties and early thirties, and Pluto in Leo, born between 1937 and 1958, at about 72 for 1955 births ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)).
+The two trines of each round come about ten years apart, either side of Saturn's opposition to your Pluto ([transiting Saturn opposite natal Pluto](/astrology/transiting-saturn-opposite-natal-pluto/)), then roughly twenty years pass across Saturn's crossing of it ([transiting Saturn conjunct natal Pluto](/astrology/transiting-saturn-conjunct-natal-pluto/)). Five trines by 80 is the norm, six for some, and everyone has had the first by about 20: at about 17 for people born in 1975, about 9 for 1985, within two years of birth for 1995 and 2005. Saturn's crossing of Aries, until April 2028, trines Leo and Sagittarius, so two generations half a century apart share this transit now: Pluto in Sagittarius, born between 1995 and 2008, in their twenties and early thirties, and Pluto in Leo, born between 1937 and 1958, at about 72 for 1955 births ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)).
 
 Its neighbours keep a steady distance: [transiting Saturn square natal Pluto](/astrology/transiting-saturn-square-natal-pluto/) two or three years away, on the side nearer Saturn's crossing of your Pluto, and [transiting Saturn sextile natal Pluto](/astrology/transiting-saturn-sextile-natal-pluto/) about five.
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Saturne", "sextile", "transits"]
 weight: 1592
 glyph: "♃⚹♄"
-definition: "Jupiter en transit sextile Saturne du thème natal, c’est un angle de 60° entre Jupiter dans le ciel d’aujourd’hui et Saturne de votre naissance, formé à deux reprises dans chaque cycle. La croissance et la part de vous qui bâtit lentement peuvent coopérer. J’y lis l’occasion de donner une structure à un espoir, utile seulement si vous la saisissez."
+definition: "Jupiter en transit sextile Saturne du thème natal ouvre deux fois par cycle un angle de 60° entre Jupiter et Saturne de votre naissance. La croissance et la part de vous qui bâtit lentement peuvent coopérer. J’y lis l’occasion de donner une structure à un espoir, qui ne compte qu’une fois mise en œuvre."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Saturne ♄ de votre thème : ce que vous portez, votre façon de bâtir" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/sextile", "/astrology/jupiter-sextile-saturn", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit sextile Saturne du thème natal ?"
-    a: "Jupiter, dans le ciel, se trouve à 60° de Saturne dans votre thème : la croissance et la part de vous, lente et responsable, peuvent travailler ensemble. J’y lis une ouverture discrète pour donner une vraie structure à ce que vous espérez : un calendrier, un accord, quelqu’un qui enseigne. Rien ne se passe si vous ne vous en servez pas."
+    a: "Avec 60° entre Jupiter et Saturne de votre thème, la croissance et la part de vous, lente et responsable, peuvent travailler ensemble. J’y lis une ouverture discrète pour donner une vraie structure à ce que vous espérez : un calendrier, un accord, quelqu’un qui enseigne. Rien ne se passe si vous ne vous en servez pas."
   - q: "Combien de fois Jupiter forme un sextile avec Saturne du thème natal ?"
     a: "Deux fois par tour de Jupiter de douze ans, soit treize ou quatorze avant 80 ans pour les naissances de 1930 à 2009. Chaque fois, onze jours environ, ou huit mois environ quand Jupiter repasse en boucle sur le point. Le plus précoce est venu quelques semaines après la naissance, le plus tardif vers presque huit ans."
   - q: "Jupiter sextile Saturne, est-ce un bon moment pour s’engager ?"

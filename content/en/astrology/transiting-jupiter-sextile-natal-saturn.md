@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Saturn", "sextile", "transits"]
 weight: 1592
 glyph: "♃⚹♄"
-definition: "Transiting Jupiter sextile natal Saturn is a 60° angle between Jupiter as it moves today and your Saturn at birth, formed twice in every Jupiter round. Growth and the part of you that builds slowly can cooperate. I read it as an opening to put a structure under a hope, which helps only if you take it."
+definition: "Transiting Jupiter sextile natal Saturn is a 60° angle between Jupiter as it moves today and your Saturn at birth, formed twice in every Jupiter round. Growth and the part of you that builds slowly can cooperate. I read it as an opening to put a structure under a hope, worth something only once you act on it."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, about a year in each sign" }
   - { k: "Natal point", v: "Your Saturn ♄: what you carry and how you build" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/sextile", "/astrology/jupiter-sextile-saturn", "/astrology/transits"]
 faq:
   - q: "What does Jupiter sextile natal Saturn mean as a transit?"
-    a: "Jupiter in the sky is 60° from your natal Saturn, so growth and the slow, responsible part of you can work together for a while. I read it as a quiet opening to give something you hope for a proper structure: a timetable, an agreement, a teacher. Nothing happens unless you use it."
+    a: "With 60° between Jupiter and your natal Saturn, growth and the slow, responsible part of you can work together for a while. I read it as a quiet opening to give something you hope for a proper structure: a timetable, an agreement, a teacher. Nothing happens unless you use it."
   - q: "How often does Jupiter sextile your natal Saturn?"
     a: "Twice in every twelve-year Jupiter round, which adds up to thirteen or fourteen by 80 for people born between 1930 and 2009. Each lasts about eleven days, or about eight months when Jupiter loops back over the point. The earliest came within weeks of birth, the latest when a child was nearly eight."
   - q: "Is Jupiter sextile Saturn a good time for commitments?"

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Mercure", "sextile", "transits"]
 weight: 1691
 glyph: "♅⚹☿"
-definition: "Uranus en transit sextile Mercure du thème natal, c’est une fenêtre d’une vingtaine de mois, deux fois dans la plupart des vies, où Uranus se tient à 60° de votre Mercure de naissance. Apprendre, changer de méthode, oser une idée inhabituelle devient facile, si vous allez le chercher. J’y lis une invitation à penser autrement."
+definition: "Uranus en transit sextile Mercure du thème natal, c’est un angle de 60° entre Uranus dans le ciel et votre Mercure de naissance, gardé une vingtaine de mois et rencontré deux fois dans la plupart des vies. Apprendre, changer de méthode, oser une idée inhabituelle devient facile, si vous allez le chercher. J’y lis une invitation à penser autrement."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Mercure ☿ : penser, apprendre et parler" }

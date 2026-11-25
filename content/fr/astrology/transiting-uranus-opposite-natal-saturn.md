@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Uranus en transit opposition Saturne du thème natal ?"
     a: "Uranus se trouve à 180° du degré qu’occupait Saturne à votre naissance, une fois au plus. J’y lis l’ordre que vous tenez face à un changement qui semble venir du dehors, ou votre envie de changement face aux règles de quelqu’un d’autre. L’opposition demande un équilibre entre ce qui doit durer et ce qui a fait son temps."
   - q: "Combien de temps dure Uranus opposition Saturne ?"
-    a: "Une vingtaine de mois, de 1,5° avant l’opposition exacte à 1° après, et onze mois environ quand le passage est court. Dans plus de neuf cas sur dix, Uranus se trouve trois fois exactement en face de Saturne, dont une fois en reculant, dans sa boucle annuelle."
+    a: "Une vingtaine de mois, de 1,5° avant l’opposition exacte à 1° après, et onze mois environ quand le passage est court. Dans plus de neuf cas sur dix, Uranus se trouve trois fois exactement en face de Saturne, dont une fois en reculant, dans sa boucle annuelle : de quoi contester une règle, la défendre et la renégocier."
   - q: "Uranus opposition Saturne, est-ce la même chose que l’opposition de Saturne ?"
     a: "Non. L’opposition de Saturne, c’est Saturne face à son degré de naissance, vers 14 ou 15 ans puis vers 44 ans. Ce transit, c’est Uranus face à Saturne de votre thème, une fois au plus, à un âge que fixe l’angle entre les deux planètes à la naissance ; environ 1 personne sur 25 ne le rencontre pas avant 80 ans."
   - q: "À quel âge arrive l’opposition d’Uranus à Saturne ?"
@@ -48,9 +48,9 @@ Ce n’est pas l’opposition de Saturne, Saturne face à son degré de naissanc
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, l’opposition dure une vingtaine de mois, onze au plus court, avec trois contacts exacts dans plus de neuf cas sur dix. Elle vient une fois au plus avant 80 ans, et environ 1 personne sur 25 née entre 1930 et 2009 ne la rencontre jamais.
+Dans mes orbes, de 1,5° avant l’exactitude à 1° après, l’opposition dure une vingtaine de mois, onze au plus court, et ses trois contacts exacts, dans plus de neuf cas sur dix, laissent le temps de renégocier un arrangement, de l’essayer et de l’ajuster. Personne ne la rencontre deux fois.
 
-Deux configurations natales la datent. Avec [Saturne opposition Uranus](/astrology/saturn-opposite-uranus/) dans votre thème, de 1964 à 1967 ou en 2008-2009, la vie a commencé sur ce point ou tout près : le transit est venu dans vos premières années, ou ne viendra pas avant vos quatre-vingts ans. Dans le décompte du site, une naissance début 1965 atteint 80 ans sans l’avoir connu. Avec [Saturne conjonction Uranus](/astrology/saturn-conjunct-uranus/), pour une naissance à la fin des années 1980, l’opposition vient avec votre [opposition d’Uranus](/astrology/uranus-opposition/), vers 43 ans et demi.
+Deux configurations natales la datent. Avec [Saturne opposition Uranus](/astrology/saturn-opposite-uranus/) dans votre thème, de 1964 à 1967 ou en 2008-2009, la vie a commencé sur ce point ou tout près : le transit est venu dans vos premières années, ou ne viendra pas avant vos quatre-vingts ans. Ce second groupe forme l’essentiel des personnes, environ 1 sur 25 parmi les naissances de 1930 à 2009, qui ne le rencontrent jamais avant 80 ans ; une naissance début 1965 en fait partie. Avec [Saturne conjonction Uranus](/astrology/saturn-conjunct-uranus/), pour une naissance à la fin des années 1980, l’opposition vient avec votre [opposition d’Uranus](/astrology/uranus-opposition/), vers 43 ans et demi.
 
 Uranus en Gémeaux, jusqu’en 2033, fait face à toute position natale de Saturne en Sagittaire, celle des naissances de novembre 1985 à novembre 1988. Pour elles, l’opposition arrive à la fin de la trentaine ou au début de la quarantaine, quelques années avant leur propre opposition d’Uranus, ou en même temps. Ailleurs, les âges se dispersent : vers 17 ans pour une naissance début 1975, vers 72 ans pour une naissance début 2005.
 

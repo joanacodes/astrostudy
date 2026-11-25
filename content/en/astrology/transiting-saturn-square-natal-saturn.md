@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "square", "transits"]
 weight: 1652
 glyph: "♄□♄"
-definition: "Transiting Saturn square natal Saturn is Saturn 90° from the degree it held at your birth, a quarter of its 29½-year cycle either side of a return: at about 7, 22, 36, 51 and 66. The structures you have built meet friction that asks for adjustment. I read each square as a checkpoint, never as a setback."
+definition: "Transiting Saturn square natal Saturn is each quarter-turn of Saturn's 29½-year cycle on either side of a return, when Saturn stands 90° from its birth degree: at about 7, 22, 36, 51 and 66. The structures you have built meet friction that asks for adjustment. I read each square as a checkpoint, never as a setback."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Your Saturn ♄: where you build, carry and take your time" }

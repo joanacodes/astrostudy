@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Neptune", "sextile", "transits"]
 weight: 1661
 glyph: "♄⚹♆"
-definition: "Transiting Saturn sextile natal Neptune is Saturn in the sky reaching 60° from the degree Neptune held at your birth, twice in each 29½-year round. Structure offers imagination a small, workable container: a regular practice, a set time for giving or making. I read it as an invitation that needs taking up, never a guarantee."
+definition: "Transiting Saturn sextile natal Neptune is Saturn in the sky 60° from the degree Neptune held at your birth, a window that opens twice in each 29½-year round. Structure offers imagination a small, workable container: a regular practice, a set time for giving or making. I read it as an invitation that needs taking up, never a guarantee."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Neptune ♆, imagination and compassion" }
@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting Saturn sextile natal Neptune mean?"
     a: "Saturn in the sky is 60° from your natal Neptune, so a modest, practical opening appears for something you imagine or care about: a class, a practice, a way of helping with clear hours. A sextile offers rather than pushes. Taken up, it gives an ideal a container; left alone, the transit passes quietly."
   - q: "How long does Saturn sextile Neptune last?"
-    a: "With my orbs, from 1½° before exact to 1° after, about nine months as a rule. Saturn’s retrograde brings three exact hits a little more than half the time, over roughly nine and a half months; a single hit can come and go in three weeks."
+    a: "Nine months or so, from the day Saturn comes within 1½° of exact to the day it is 1° past. Slightly more than half the time Saturn loops back and the sextile is exact three times; with a single exact hit, the opening can last just three weeks."
   - q: "When does Saturn sextile my natal Neptune?"
     a: "Twice in each round of Saturn, about ten years apart, with Saturn’s crossing of your Neptune between them. A year group shares the dates: people born in 2005 met the first at about 11 and meet the second at about 21, in 2026–27; people born in 1965, at about 15 and 25."
   - q: "Is Saturn sextile Neptune good for creative or spiritual work?"
@@ -44,9 +44,9 @@ The house of your Neptune shows where the opening appears: in your 9th, study or
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, 1½° before exact to 1° after, the sextile usually lasts about nine months. A little over half the time it comes as a retrograde loop with three exact hits, about nine and a half months in all; when Saturn touches the degree only once, the opening can close within three weeks.
+Saturn's sextile to Neptune is a slow window: about nine months from the day Saturn comes within 1½° of exact to the day it is 1° past, the orbs I use for timing. Slightly more than half the time the window holds three exact hits, as Saturn loops back over the degree; a single hit can shut it within three weeks.
 
-The two sextiles of a round fall about ten years apart, either side of Saturn's crossing of your Neptune ([transiting Saturn conjunct natal Neptune](/astrology/transiting-saturn-conjunct-natal-neptune/)), and nearly twenty years pass before the next pair. Most people meet five by 80, some six. Neptune shifts so slowly that a year group keeps one calendar: the first came at about 11 for people born in 2005, about 15 for 1965, and within the first months for 1995, a year whose births carry [Saturn sextile Neptune](/astrology/saturn-sextile-neptune/) in the chart itself. Saturn's crossing of Aries, until April 2028, sextiles every degree of Aquarius: with Neptune in Aquarius, as for most people born between 1998 and 2012 ([generational placements by birth year](/astrology/generational-placements-by-birth-year/)), it's your turn now, at about 21 if you were born in 2005.
+The two sextiles of a round fall about ten years apart, either side of Saturn's crossing of your Neptune ([transiting Saturn conjunct natal Neptune](/astrology/transiting-saturn-conjunct-natal-neptune/)), and nearly twenty years pass before the next pair. By 80 the count is usually five, sometimes six. Neptune shifts so slowly that a year group keeps one calendar: the first came at about 11 for people born in 2005, about 15 for 1965, and within the first months for 1995, a year whose births carry [Saturn sextile Neptune](/astrology/saturn-sextile-neptune/) in the chart itself. People born between 1998 and 2012 mostly have Neptune in Aquarius ([generational placements by birth year](/astrology/generational-placements-by-birth-year/)), two signs on from Aries, where Saturn stays until April 2028: their sextile is now, at about 21 for a 2005 birth.
 
 A sextile is usually two or three years from a square ([transiting Saturn square natal Neptune](/astrology/transiting-saturn-square-natal-neptune/)); [transiting Saturn trine natal Neptune](/astrology/transiting-saturn-trine-natal-neptune/) and [transiting Saturn opposite natal Neptune](/astrology/transiting-saturn-opposite-natal-neptune/) lie further round.
 

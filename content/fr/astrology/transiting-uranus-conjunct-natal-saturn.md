@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Uranus en transit conjonction Saturne du thème natal ?"
     a: "Uranus passe sur le degré qu’occupait Saturne à votre naissance, une fois au plus dans une vie. J’y lis les règles et les devoirs qui organisent votre vie réécrits de l’intérieur : la structure de la maison de Saturne demeure, mais ses raisons et sa forme changent. C’est une réforme menée par la personne responsable, pas un effondrement."
   - q: "Combien de temps dure Uranus conjonction Saturne ?"
-    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant la conjonction exacte à 1° après, et onze environ pour les passages les plus rapides. Plus de neuf fois sur dix, Uranus passe trois fois sur Saturne, à cause de la boucle rétrograde annuelle : plus de deux fois la durée habituelle des transits de Saturne."
+    a: "Une vingtaine de mois dans mes orbes, de 1,5° avant la conjonction exacte à 1° après, et onze environ pour les passages les plus rapides. Plus de neuf fois sur dix, Uranus passe trois fois sur Saturne, à cause de la boucle rétrograde annuelle : une règle réécrite au premier passage est mise à l’épreuve deux fois encore."
   - q: "À quel âge Uranus passe sur Saturne ?"
     a: "Cela dépend de l’avance de Saturne sur Uranus à votre naissance. Pour une naissance peu après la rencontre des deux planètes dans le ciel, en 1942 ou en 1988, le transit vient tôt ; peu avant, vers 80 ans ou jamais. Environ 1 personne sur 25 née entre 1930 et 2009 ne la rencontre pas avant 80 ans."
   - q: "Uranus conjonction Saturne, est-ce la même chose qu’un retour de Saturne ?"
@@ -49,9 +49,9 @@ Dans mon carnet, la position de Saturne à la naissance fait partie des placemen
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Uranus reste sur Saturne une vingtaine de mois, onze au plus court, et franchit trois fois le degré exact dans plus de neuf cas sur dix.
+Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Uranus reste sur Saturne une vingtaine de mois, onze au plus court : plus du double des neuf mois environ que durent d’ordinaire les transits de Saturne. Dans plus de neuf cas sur dix, le degré exact est franchi trois fois.
 
-Une fois, c’est le maximum avant 80 ans, et environ 1 personne sur 25 née entre 1930 et 2009 ne la rencontre jamais. C’est le ciel qui fixe la date : Saturne et Uranus ont formé une conjonction en 1942 et en 1988, et en forment une nouvelle en 2032. Pour une naissance peu après l’une de ces conjonctions, Saturne un peu en avance sur Uranus, le transit vient tôt, vers 5 ans pour une naissance début 1945 ; peu avant, Uranus doit parcourir presque tout son tour, environ 79 ans pour une naissance début 1985. Avec [Saturne conjonction Uranus](/astrology/saturn-conjunct-uranus/) dans votre thème, le transit était là à la naissance ou peu après, sauf si Saturne se trouvait juste derrière Uranus.
+C’est le ciel qui fixe la date : Saturne et Uranus ont formé une conjonction en 1942 et en 1988, et en forment une nouvelle en 2032. Pour une naissance peu après l’une de ces conjonctions, Saturne un peu en avance sur Uranus, le transit vient tôt, vers 5 ans pour une naissance début 1945 ; peu avant, Uranus doit parcourir presque tout son tour, environ 79 ans pour une naissance début 1985, et plus de 80 pour une naissance plus proche encore de la conjonction : c’est le cas de la plupart des personnes, environ 1 sur 25 parmi les naissances de 1930 à 2009, qui ne la rencontrent jamais. Personne ne la vit deux fois. Avec [Saturne conjonction Uranus](/astrology/saturn-conjunct-uranus/) dans votre thème, le transit était là à la naissance ou peu après, sauf si Saturne se trouvait juste derrière Uranus.
 
 Avec Saturne en Gémeaux, comme pour la plupart des personnes nées entre août 2000 et juin 2003, le transit tombe pendant qu’Uranus traverse les Gémeaux, vers le milieu ou la fin de la vingtaine. Pour les naissances du premier semestre 2003, cette conjonction partage les mois de 2031-2032 avec le premier [retour de Saturne](/astrology/saturn-return/), quand Saturne revient à son tour sur ce degré.
 

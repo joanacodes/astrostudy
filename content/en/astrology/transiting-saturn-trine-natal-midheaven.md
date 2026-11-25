@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Midheaven", "trine", "transits"]
 weight: 1678
 glyph: "♄△MC"
-definition: "Transiting Saturn trine natal Midheaven is Saturn in the sky reaching 120° from the degree at the top of your birth chart, twice in each 29½-year round. Responsibility and direction keep step: the role you have grown into steadies, and the work behind it is easier to sustain. I read it as consolidation, never a promise of success."
+definition: "Transiting Saturn trine natal Midheaven is Saturn in the sky at 120° to your Midheaven, about ten years before it reaches the top of your chart and again ten years after. Responsibility and direction keep step, and the role you have grown into steadies. I read it as consolidation, never a promise of success."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "The Midheaven MC, your direction and public role" }
@@ -23,9 +23,9 @@ faq:
   - q: "What does transiting Saturn trine natal Midheaven mean?"
     a: "Saturn in the sky is 120° from your Midheaven, so structure flows into your public direction for a while. The role you’ve grown into tends to steady, responsibilities sit more naturally, and long work is easier to keep up. Because the same angle is a sextile to your IC, home usually allows it."
   - q: "How long does Saturn trine the Midheaven last?"
-    a: "With my orbs, from 1½° before exact to 1° after, about nine months. A little over half the time Saturn’s retrograde gives it three exact hits over about nine and a half months; a single hit can mean three weeks."
+    a: "About nine months, counted with my orbs from 1½° before exact to 1° after. Three exact hits, as Saturn loops, are a shade more common than one, and a one-hit trine can come and go in three weeks."
   - q: "When does Saturn trine my Midheaven?"
-    a: "Twice in each round: about ten years before Saturn reaches your Midheaven and about ten years after. Your birth time sets the months, and twelve minutes of error means about three months of difference. With a Leo or Sagittarius Midheaven, Saturn’s years in Aries, until April 2028, bring one."
+    a: "Twice in each round: about ten years before Saturn reaches your Midheaven and about ten years after. Your birth time sets the months, and twelve minutes of error means about three months of difference. With a Leo or Sagittarius Midheaven, yours falls during Saturn’s years in Aries, which last until April 2028."
   - q: "Does Saturn trine my Midheaven bring recognition?"
     a: "It can make steady work easier to see and to sustain, and recognition sometimes follows, but the transit promises none. Status isn’t contribution, and this trine is kinder to the second: what it supports is work done well over time, whether or not anyone is watching."
 sources:
@@ -40,11 +40,11 @@ The trine to your Midheaven rarely announces itself. Ten years or so before Satu
 
 The same angle is a sextile to your [IC](/astrology/imum-coeli/), so your foundations at home generally allow the effort rather than compete with it. Ease isn't inevitability, though: the trine tends to firm up what you already do, and it does that best when you name what you're consolidating. In a season of upheaval elsewhere in your chart, it can also act as ballast: one part of life that holds steady while another is being rebuilt.
 
-The two trines come from different parts of the chart. The first, about ten years before the Midheaven crossing, usually finds Saturn around your 6th house, in daily work and craft ([Saturn transiting the 6th house](/astrology/saturn-transit-6th-house/)); the second, about ten years after, finds it around your 2nd, among what you value and keep ([Saturn transiting the 2nd house](/astrology/saturn-transit-2nd-house/)). Placidus houses vary in size, so your own chart says exactly where.
+Saturn reaches each trine from a different part of your chart. The first, about ten years before the Midheaven crossing, usually finds Saturn around your 6th house, in daily work and craft ([Saturn transiting the 6th house](/astrology/saturn-transit-6th-house/)); the second, about ten years after, finds it around your 2nd, among what you value and keep ([Saturn transiting the 2nd house](/astrology/saturn-transit-2nd-house/)). Placidus houses vary in size, so your own chart says exactly where.
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, 1½° before exact to 1° after, the trine lasts about nine months. A little over half the time, Saturn's loop gives it three exact hits over about nine and a half months, and with one hit it can be gone in three weeks. Most people meet five by 80, some six.
+Counted with my orbs, from 1½° before exact to 1° after, a trine to the Midheaven lasts about nine months. Three exact hits, as Saturn loops, are a shade more common than one; a one-hit trine can come and go in three weeks. By 80, five is the usual number, and some reach six.
 
 Twelve minutes of error in a birth time is three degrees on the Midheaven, and three degrees is about three months of Saturn's motion: that's the margin a careless time adds, and part of why I wait for the real one ([what changes without a birth time](/blog/unknown-birth-time/)).
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Midheaven", "square", "transits"]
 weight: 1677
 glyph: "♄□MC"
-definition: "Transiting Saturn square natal Midheaven is Saturn in the sky reaching 90° from the degree at the top of your birth chart, twice in each 29½-year round. It presses on both ends of the meridian at once, your public direction and your private foundations, until the two are rebalanced. I read it as constructive friction, never a fall."
+definition: "Transiting Saturn square natal Midheaven is Saturn in the sky at 90° to the top of your birth chart, and so to the IC at its foot, twice in each 29½-year round. It presses on your public direction and your private foundations at once, until the two are rebalanced. I read it as constructive friction, never a fall."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "The Midheaven MC, your direction and public role" }
@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting Saturn square natal Midheaven mean?"
     a: "Saturn in the sky is 90° from your Midheaven, and so also from your IC, which sits exactly opposite. The direction you’re building in public and the foundations that hold you up in private rub against each other, and something in the arrangement needs adjusting. I read it as friction that refines your direction."
   - q: "How long does Saturn square the Midheaven last?"
-    a: "About nine months with my orbs, from 1½° before exact to 1° after. A little over half the time it comes in three exact hits as Saturn loops, lasting about nine and a half months; with a single hit, it can pass in three weeks."
+    a: "Count about nine months, between 1½° before exact and 1° after. Slightly more than half of these squares are loops with three exact hits; the rest are single hits, which can be over in three weeks. An error of forty minutes in the birth time would move the dates by about ten months."
   - q: "Does Saturn square my Midheaven mean trouble at work?"
     a: "Not as a prediction. The square describes pressure on the shape of your working or public life, often because something at home or in private asks for room, or the reverse. What happens in a job depends on far more than a chart, and I never read one for that."
   - q: "Is Saturn square my Midheaven the same as Saturn on my Ascendant?"
@@ -44,11 +44,11 @@ The first square comes about seven years after Saturn crosses your IC ([transiti
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, 1½° before exact to 1° after, the square typically lasts about nine months. A little over half of these squares loop for three exact hits over about nine and a half months; single hits can be over in three weeks. Five by 80 is usual, six for some.
+Count about nine months for this square, between 1½° before exact and 1° after, my usual orbs. About half of them, slightly more, are loops with three exact hits across some nine and a half months; the rest are single hits, which can be over in three weeks. Five by 80 is usual, six for some.
 
 Your Midheaven's degree sets the dates, and it comes from the birth time: an error of forty minutes would move this square by about ten months, longer than the transit itself. A chart without a time isn't one I read ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Saturn in Aries, until April 2028, squares Cancer and Capricorn: with your Midheaven in either sign, one of these squares is yours now. The sextiles ([transiting Saturn sextile natal Midheaven](/astrology/transiting-saturn-sextile-natal-midheaven/)) and trines ([transiting Saturn trine natal Midheaven](/astrology/transiting-saturn-trine-natal-midheaven/)) to your Midheaven fall two or three years either side of each square.
+A Cancer or Capricorn Midheaven is having its square now, from Saturn's years in Aries, which run until April 2028. The sextiles ([transiting Saturn sextile natal Midheaven](/astrology/transiting-saturn-sextile-natal-midheaven/)) and trines ([transiting Saturn trine natal Midheaven](/astrology/transiting-saturn-trine-natal-midheaven/)) to your Midheaven fall two or three years either side of each square.
 
 ## What helps {#what-helps}
 

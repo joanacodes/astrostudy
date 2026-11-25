@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Uranus opposite natal Jupiter mean?"
     a: "Uranus stands 180° from your natal Jupiter, the part of your chart that holds your beliefs and your sense of meaning. I read it as a meeting with another outlook, often through someone else: your framework seen beside its alternative. It asks for a wider view that keeps the best of both, not a conversion."
   - q: "How long does Uranus opposite Jupiter last?"
-    a: "About twenty months with my orbs, which run from 1½° before exact to 1° after; the shortest passes take about eleven. In more than nine passes out of ten, Uranus stands exactly opposite your Jupiter three times, the middle time while it is moving backwards through the zodiac."
+    a: "It stays within my orbs, 1½° before the exact opposition to 1° after, for about twenty months, or about eleven in the shortest passes. In more than nine passes out of ten, Uranus stands exactly opposite your Jupiter three times, the middle time while it is moving backwards through the zodiac, so the other point of view gets more than one hearing."
   - q: "Does everyone have Uranus opposite Jupiter?"
     a: "Almost everyone who reaches 80 has had it once, and nobody has had it twice by then. About 1 person in 33 born between 1930 and 2009 never meets it by 80: those born just after Jupiter and Uranus stood exactly opposite, for whom Uranus has almost a full round to travel."
   - q: "At what age does Uranus oppose Jupiter?"
@@ -45,7 +45,7 @@ With Jupiter in your 9th and Uranus crossing your 3rd ([Uranus transiting the 3r
 
 ## How long it lasts {#how-long-it-lasts}
 
-With my orbs, from 1½° before exact to 1° after, the opposition lasts about twenty months, eleven at the briefest, and in more than nine passes in ten it is exact three times. Once is the most anyone meets it by 80, and about 1 person in 33 born between 1930 and 2009 never does. Otherwise the age is anyone's: in the site's count, about 13 for someone born at the start of 1965, about 74 for someone born at the start of 1975.
+Twenty months is long enough to hear another outlook out: with my orbs, from 1½° before exact to 1° after, that is how long the opposition lasts, eleven at the briefest, and in more than nine passes in ten it is exact three times. Nobody meets it twice by 80, and about 1 person in 33 born between 1930 and 2009 misses it altogether. Otherwise the age is anyone's: in the site's count, about 13 for someone born at the start of 1965, about 74 for someone born at the start of 1975.
 
 Two natal pictures fix it. Born with [Jupiter conjunct Uranus](/astrology/jupiter-conjunct-uranus/), as happens for a few months about every fourteen years, you meet it with your [Uranus opposition](/astrology/uranus-opposition/): someone born at the start of 1955 met both at about 39. Born with [Jupiter opposite Uranus](/astrology/jupiter-opposite-uranus/), you had it in your first year or so, and Uranus won't stand there again until about 84; people born just after the two planets were exactly opposite are the ones who reach 80 without it.
 

@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn trine natal Saturn"
 h1: "Transiting Saturn trine your natal Saturn"
-description: "Transiting Saturn trine natal Saturn: the easiest checkpoints of the Saturn cycle, at about 9½, 19½, 39, 49, 68 and 78. What they bring, how long they last."
+description: "Transiting Saturn trine natal Saturn: six easy stretches of the Saturn cycle by 80, at about 9½, 19½, 39, 49, 68 and 78. What they ease, and what they don’t."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

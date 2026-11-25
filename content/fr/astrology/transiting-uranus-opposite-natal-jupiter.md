@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Uranus en transit opposition Jupiter du thème natal ?"
     a: "Uranus se trouve à 180° de Jupiter dans votre thème natal, la part du thème qui porte vos convictions et votre sens des choses. J’y lis la rencontre d’une autre vision, souvent à travers quelqu’un : votre cadre vu à côté de son contraire. L’opposition demande un regard plus large, qui garde le meilleur des deux, pas une conversion."
   - q: "Combien de temps dure Uranus opposition Jupiter ?"
-    a: "Une vingtaine de mois avec mes orbes, qui vont de 1,5° avant l’exactitude à 1° après ; les passages les plus courts prennent onze mois environ. Dans plus de neuf cas sur dix, Uranus se trouve trois fois exactement en face de Jupiter, la deuxième fois en reculant dans le zodiaque."
+    a: "Elle reste dans mes orbes, de 1,5° avant l’opposition exacte à 1° après, pendant une vingtaine de mois, ou onze environ pour les passages les plus courts. Dans plus de neuf cas sur dix, Uranus se trouve trois fois exactement en face de Jupiter, la deuxième fois en reculant dans le zodiaque : l’autre point de vue a droit à plus d’une audience."
   - q: "Est-ce que tout le monde connaît Uranus opposition Jupiter ?"
     a: "Presque toutes les personnes qui atteignent 80 ans l’ont connue une fois, et personne deux fois. Environ 1 personne sur 33 née entre 1930 et 2009 ne la rencontre jamais avant 80 ans : celles nées juste après l’opposition exacte de Jupiter et d’Uranus, pour qui Uranus doit faire presque un tour complet."
   - q: "À quel âge arrive l’opposition d’Uranus à Jupiter ?"
@@ -46,7 +46,7 @@ Avec Jupiter en maison 9 et Uranus qui traverse votre maison 3 ([Uranus en trans
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, l’opposition dure une vingtaine de mois, onze au plus bref, et dans plus de neuf cas sur dix elle est exacte trois fois. Une fois, c’est le maximum avant 80 ans, et environ 1 personne sur 33 née entre 1930 et 2009 ne la rencontre jamais. Sinon, l’âge peut être n’importe lequel : dans le décompte du site, vers 13 ans pour une naissance début 1965, vers 74 ans pour une naissance début 1975.
+Vingt mois suffisent pour écouter une autre vision jusqu’au bout : avec mes orbes, de 1,5° avant l’exactitude à 1° après, c’est la durée de l’opposition, onze mois au plus bref, et dans plus de neuf cas sur dix elle est exacte trois fois. Personne ne la rencontre deux fois avant 80 ans, et environ 1 personne sur 33 née entre 1930 et 2009 la manque tout à fait. Sinon, l’âge peut être n’importe lequel : dans le décompte du site, vers 13 ans pour une naissance début 1965, vers 74 ans pour une naissance début 1975.
 
 Deux configurations natales la fixent. Avec [Jupiter conjonction Uranus](/astrology/jupiter-conjunct-uranus/) dans votre thème, ce qui arrive quelques mois à peu près tous les quatorze ans, elle vient avec votre [opposition d’Uranus](/astrology/uranus-opposition/) : une naissance début 1955 a connu les deux vers 39 ans. Avec [Jupiter opposition Uranus](/astrology/jupiter-opposite-uranus/), elle était là dans votre première année ou presque, et Uranus n’y revient pas avant 84 ans environ ; les personnes nées juste après l’opposition exacte des deux planètes sont celles qui atteignent 80 ans sans la rencontrer.
 

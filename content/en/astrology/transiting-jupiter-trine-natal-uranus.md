@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Jupiter trine natal Uranus mean?"
     a: "Jupiter in today’s sky makes a 120° angle to your birth Uranus, so growth and your need for change run in the same direction for a while. I read it as a stretch when new ideas are welcomed and reforms meet little resistance, which makes it better for carrying out a change than for inventing one."
   - q: "Does Jupiter trine natal Uranus bring a lucky break?"
-    a: "Not in the sense of luck arriving from outside. In my readings Jupiter is growth and meaning, and Uranus is change and independence; the trine lets the two work together easily. Openings may come quickly, but what they lead to depends on you and on circumstances no transit describes."
+    a: "Not if luck means a gift dropped in from outside. In my readings Jupiter is growth and meaning, and Uranus is change and independence; the trine lets the two work together easily. Openings may come quickly, but what they lead to depends on you and on circumstances no transit describes."
   - q: "When does Jupiter trine my natal Uranus?"
     a: "On average about every six years, since each twelve-year lap holds two: thirteen or fourteen by 80 for births from 1930 to 2009. A single crossing takes about eleven days, a looping one about eight months. How old you were at the first depended on your birth date, anywhere up to about eight."
 sources:

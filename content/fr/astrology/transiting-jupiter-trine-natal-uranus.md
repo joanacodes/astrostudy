@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Uranus", "trigone", "transits"]
 weight: 1599
 glyph: "♃△♅"
-definition: "Avec Jupiter en transit trigone Uranus du thème natal, Jupiter dans le ciel et Uranus de votre naissance se trouvent à un tiers de zodiaque l’un de l’autre, 120°, en général dans deux signes d’un même élément, deux fois par tour. Le changement rencontre peu de résistance. J’y lis une bonne saison pour mettre en pratique un changement déjà éprouvé."
+definition: "Avec Jupiter en transit trigone Uranus du thème natal, un tiers de zodiaque, 120°, s’étend entre Jupiter dans le ciel et Uranus de votre naissance, en général dans deux signes d’un même élément, deux fois par tour. Le changement rencontre peu de résistance. J’y lis une bonne saison pour mettre en pratique un changement déjà éprouvé."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Uranus ♅ de votre thème : la réforme, l’originalité, la marge de manœuvre" }
@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/jupiter", "/astrology/uranus", "/astrology/trine", "/astrology/jupiter-trine-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit trigone Uranus du thème natal ?"
-    a: "Jupiter, dans le ciel du jour, forme un angle de 120° avec Uranus de votre naissance : la croissance et votre besoin de changement vont un moment dans le même sens. J’y lis une période où les idées neuves sont bien reçues et où les réformes rencontrent peu de résistance, plus propice à mener un changement qu’à l’inventer."
+    a: "Jupiter, dans le ciel du jour, est en trigone avec Uranus de votre naissance, à 120° : la croissance et votre besoin de changement vont un moment dans le même sens. J’y lis une période où les idées neuves sont bien reçues et où les réformes rencontrent peu de résistance, plus propice à mener un changement qu’à l’inventer."
   - q: "Le trigone de Jupiter à Uranus apporte-t-il un coup de chance ?"
-    a: "Pas au sens d’une chance qui viendrait du dehors. Pour moi, Jupiter décrit la croissance et le sens, Uranus le changement et l’indépendance ; le trigone les fait travailler ensemble facilement. Des ouvertures peuvent venir vite, mais ce qu’elles donnent dépend de vous et de circonstances qu’aucun transit ne décrit."
+    a: "Pas si la chance veut dire un cadeau tombé de l’extérieur. Pour moi, Jupiter décrit la croissance et le sens, Uranus le changement et l’indépendance ; le trigone les fait travailler ensemble facilement. Des ouvertures peuvent venir vite, mais ce qu’elles donnent dépend de vous et de circonstances qu’aucun transit ne décrit."
   - q: "Quand vient le trigone de Jupiter à Uranus du thème natal ?"
     a: "En moyenne tous les six ans environ, chaque tour de douze ans en comptant deux ; sur 80 ans, cela donne treize ou quatorze trigones pour les naissances de 1930 à 2009. Un passage simple dure onze jours environ, une boucle huit mois environ. L’âge au premier dépendait de la date de naissance, jusqu’à huit ans environ."
 sources:

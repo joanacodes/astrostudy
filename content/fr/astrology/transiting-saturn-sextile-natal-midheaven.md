@@ -45,7 +45,7 @@ L’endroit où tombe votre Milieu du Ciel, et les maisons que Saturne traverse 
 
 ## Combien de temps {#combien-de-temps}
 
-Saturne tient ce sextile neuf mois environ dans mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, la rétrogradation donne trois passages exacts, sur neuf mois et demi environ ; un passage exact unique peut tout refermer en trois semaines. La plupart des gens en vivent cinq avant 80 ans, quelques-uns six.
+Saturne tient ce sextile neuf mois environ dans mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, la rétrogradation donne trois passages exacts, sur neuf mois et demi environ ; un passage exact unique peut tout refermer en trois semaines. Cinq de ces sextiles avant 80 ans, c’est le compte le plus courant ; quelques personnes en vivent six.
 
 Le premier vient environ cinq ans avant que Saturne atteigne votre Milieu du Ciel, pendant sa remontée du côté ouest du thème ; le second environ cinq ans après, quand Saturne redescend vers votre Ascendant. Deux heures de naissance données par deux proches, à une demi-heure d’écart, placeraient ces sextiles à sept ou huit mois l’un de l’autre : d’où l’importance de l’heure inscrite.
 

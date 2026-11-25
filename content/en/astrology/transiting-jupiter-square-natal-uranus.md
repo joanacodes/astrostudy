@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Uranus", "square", "transits"]
 weight: 1598
 glyph: "♃□♅"
-definition: "Transiting Jupiter square natal Uranus is Jupiter making a hard right angle, 90°, to your birth Uranus, twice in every Jupiter lap. The wish to grow and the need for freedom push each other: restlessness, impatience, new ideas that collide with old convictions. I read it as friction that asks change to justify itself, never as an upheaval foretold."
+definition: "Transiting Jupiter square natal Uranus is Jupiter making a hard right angle, 90°, to your birth Uranus, twice in every Jupiter lap. The wish to grow and the need for freedom push each other: restlessness, impatience, new ideas that collide with old convictions. To me it is friction that asks change to justify itself, never an upheaval foretold."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, about a year in each sign" }
   - { k: "Natal point", v: "Your Uranus ♅: freedom, change, your own way" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/uranus", "/astrology/square", "/astrology/jupiter-square-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter square natal Uranus mean?"
-    a: "Jupiter is 90° from your birth Uranus, so the urge to grow and the need for freedom rub against each other. It often feels like restlessness: wanting a bigger change, sooner, or finding that a new idea won’t fit an old conviction. I read it as a time to test change before making it."
+    a: "Jupiter now squares your birth Uranus, so the urge to grow and the need for freedom rub against each other. It often feels like restlessness: wanting a bigger change, sooner, or finding that a new idea won’t fit an old conviction. I read it as a time to test change before making it."
   - q: "Can Jupiter square Uranus bring sudden changes?"
     a: "It can bring a sudden wish for change, and sometimes things around you do move quickly. I don’t read it as predicting a break-up, a job loss or any particular event, and I never read transits for those. What it describes is pressure to rethink, and how you answer is up to you."
   - q: "How long does Jupiter square natal Uranus last?"
@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first square for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-Twice in each Jupiter lap, the planet of growth squares the degree your Uranus held at birth. The part of you that wants more and the part that wants out start pushing each other, and for a few days, sometimes for months, everything seems ready to be changed at once.
+Twice in each Jupiter lap, the planet of growth squares the degree your Uranus held at birth. Your appetite for more and your wish for a way out start pushing each other, and for a few days, sometimes for months, everything seems ready to be changed at once.
 
 ## What changes {#what-changes}
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Neptune", "conjonction", "transits"]
 weight: 1601
 glyph: "♃☌♆"
-definition: "Jupiter en transit conjonction Neptune du thème natal se produit quand Jupiter, dans le ciel, atteint le degré exact de Neptune à votre naissance, une fois tous les douze ans environ. La foi et l’imagination grandissent ensemble. J’y lis une saison inspirée qui demande de vérifier ce qui est réel, jamais une promesse ni une menace."
+definition: "Jupiter en transit conjonction Neptune du thème natal a lieu quand Jupiter touche exactement Neptune de votre naissance, environ une fois en douze ans. La foi et l’imagination grandissent ensemble. J’y lis une saison inspirée qui demande de vérifier ce qui est réel, jamais une promesse ni une menace."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Neptune ♆ de votre thème : l’imagination, la compassion, les idéaux" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/neptune", "/astrology/conjunction", "/astrology/jupiter-conjunct-neptune", "/astrology/pisces"]
 faq:
   - q: "Que veut dire Jupiter en transit conjonction Neptune du thème natal ?"
-    a: "Jupiter franchit le degré de Neptune à votre naissance : la part de vous qui cherche du sens et celle qui imagine et ressent pour les autres grandissent ensemble. J’y lis une saison inspirée et généreuse, bonne pour le travail créatif et le soin des autres, où il vaut la peine de vérifier les faits avant de s’engager."
+    a: "Jupiter atteint Neptune de votre naissance : votre quête de sens et votre imagination, cette part de vous qui ressent pour les autres, grandissent ensemble. J’y lis une saison inspirée et généreuse, bonne pour le travail créatif et le soin des autres, où il vaut la peine de vérifier les faits avant de s’engager."
   - q: "Jupiter conjonction Neptune, est-ce un transit spirituel ?"
     a: "Pour certaines personnes, oui : un sens plus fort de quelque chose de plus grand, ou l’attrait d’une pratique ou d’une cause. Pour d’autres, cela passe par la création, ou par de la tendresse envers les gens. J’y lis l’imagination et le sens qui grandissent ensemble, quelle que soit la forme, sans résultat promis."
   - q: "Combien de temps dure la conjonction de Jupiter à Neptune du thème natal ?"

@@ -22,7 +22,7 @@ faq:
   - q: "What does transiting Uranus conjunct natal Saturn mean?"
     a: "Uranus passes over the degree your Saturn held at birth, once in a life at most. I read it as the rules and duties you live by being rewritten from the inside: the structure in Saturn’s house stays, but its reasons and its shape change. It is reform by the person responsible, not a collapse."
   - q: "How long does Uranus conjunct Saturn last?"
-    a: "About twenty months within my orbs, from 1½° before the exact conjunction to 1° after, and about eleven for the quickest passes. More than nine times in ten Uranus crosses your Saturn three times, because of its yearly retrograde loop: more than twice as long as Saturn’s own transits usually last."
+    a: "About twenty months within my orbs, from 1½° before the exact conjunction to 1° after, and about eleven for the quickest passes. More than nine times in ten Uranus crosses your Saturn three times, because of its yearly retrograde loop, so a rule rewritten at the first hit is tested twice more."
   - q: "When does Uranus conjunct my Saturn?"
     a: "It depends on how far Saturn stood ahead of Uranus when you were born. Born soon after Saturn and Uranus met in the sky in 1942 or 1988, you meet it young; born soon before one of those meetings, near 80 or not at all. About 1 person in 25 born between 1930 and 2009 never meets it by 80."
   - q: "Is Uranus conjunct Saturn the same as a Saturn return?"
@@ -48,9 +48,9 @@ Natal Saturn was one of the placements that held 75 to 90% of the time in my not
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, 1½° before exact to 1° after, Uranus stays on your Saturn for about twenty months, eleven at the shortest, crossing the exact degree three times in more than nine passes out of ten.
+Within my orbs, 1½° before exact to 1° after, Uranus stays on your Saturn for about twenty months, eleven at the shortest: more than twice the nine months or so that Saturn's own transits usually take. In more than nine passes out of ten it crosses the exact degree three times.
 
-Once is the most it comes by 80, and about 1 person in 25 born between 1930 and 2009 never meets it. The sky sets the date: Saturn and Uranus met in 1942 and 1988, and meet again in 2032. Born soon after one of those meetings, with Saturn a little ahead of Uranus, you meet the transit early, at about 5 for someone born at the start of 1945; born soon before, Uranus has nearly its whole round to travel, about 79 years for someone born at the start of 1985. Born with [Saturn conjunct Uranus](/astrology/saturn-conjunct-uranus/), you had it at birth or soon after, unless your Saturn lay just behind your Uranus.
+The sky sets the date: Saturn and Uranus met in 1942 and 1988, and meet again in 2032. Born soon after one of those meetings, with Saturn a little ahead of Uranus, you meet the transit early, at about 5 for someone born at the start of 1945; born soon before, Uranus has nearly its whole round to travel, about 79 years for someone born at the start of 1985, and more than 80 for births a year or two nearer a meeting: those make up most of the 1 person in 25, among births from 1930 to 2009, who never meet it. Nobody meets it twice. Born with [Saturn conjunct Uranus](/astrology/saturn-conjunct-uranus/), you had it at birth or soon after, unless your Saturn lay just behind your Uranus.
 
 With Saturn in Gemini, as for most people born between August 2000 and June 2003, it falls while Uranus crosses Gemini, in your mid to late twenties. For births in the first half of 2003 it shares the months of 2031–32 with the first [Saturn return](/astrology/saturn-return/), when Saturn too comes back to that degree.
 

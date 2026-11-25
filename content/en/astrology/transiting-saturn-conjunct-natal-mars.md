@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/mars", "/astrology/conjunction", "/astrology/mars-conjunct-saturn", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn conjunct natal Mars mean?"
-    a: "Saturn is passing over the degree of your birth Mars. Your drive and initiative meet patience, rules and limits, so effort slows down and becomes more deliberate. I read it as a season for building endurance and discipline in whatever you push for, not as a block on what you can do."
+    a: "Saturn has reached your birth Mars and is crossing it. Your drive and initiative meet patience, rules and limits, so effort slows down and becomes more deliberate. I read it as a season for building endurance and discipline in whatever you push for, not as a block on what you can do."
   - q: "Is Saturn conjunct Mars dangerous?"
     a: "No. I don’t read transits for accidents, illness or injury, and this one predicts none of them. What it tends to describe is frustration with slowness and a need to pace your effort. If you feel worn out, rest and, where needed, a doctor are the right answers, not a chart."
   - q: "How long does Saturn conjunct Mars last?"

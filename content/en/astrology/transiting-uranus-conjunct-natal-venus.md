@@ -1,7 +1,7 @@
 ---
 title: "Transiting Uranus conjunct natal Venus"
 h1: "Transiting Uranus conjunct your natal Venus"
-description: "Transiting Uranus conjunct natal Venus: once at most, twenty months when your taste, attractions and values change and bonds ask for air. No forecast of love."
+description: "Transiting Uranus conjunct natal Venus: taste, attraction and values renewed over twenty months, once at most, as bonds ask for air. Never a forecast of love."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Venus", "conjunction", "transits"]
 weight: 1695
 glyph: "♅☌♀"
-definition: "Transiting Uranus conjunct natal Venus is Uranus crossing the planet of attraction and taste in your birth chart, over about twenty months, once in a life at most. What you find beautiful, whom you’re drawn to and what you value can change quickly, and bonds ask for more air. I read it as taste renewed, not a forecast for love."
+definition: "Transiting Uranus conjunct natal Venus brings the planet of change onto the planet of attraction and taste in your birth chart, for some twenty months, at most once in a life. What you find beautiful and whom you’re drawn to can change quickly, and bonds ask for more air. I read it as taste renewed, not a forecast for love."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "Venus ♀: attraction, taste and what you value" }
@@ -24,7 +24,7 @@ faq:
   - q: "Will I meet someone new under Uranus conjunct Venus?"
     a: "I don’t read a transit for meetings, new lovers or endings. What this one describes is a change in what attracts you and in how much room you need, in love and in friendship. Who you meet, and what you do about it, depends on your life rather than on the sky."
   - q: "How often does Uranus conjunct Venus?"
-    a: "It comes at most once, because Uranus needs about 84 years to get back round to the same point; your age for it depends on how far your Venus sat ahead of Uranus when you were born. For about one person in 25 it arrives later than 80. With my orbs it lasts about twenty months."
+    a: "It comes at most once, because Uranus needs about 84 years to get back round to the same point; your age for it depends on how far your Venus sat ahead of Uranus when you were born. For about one person in 25 it arrives later than 80. Once it comes, it stays about twenty months."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how many people meet the conjunction by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus conjunct Venus, among his transits" }
@@ -39,7 +39,7 @@ It can show as a change of taste in music, clothes or the look of your home; as 
 
 I don't read it for a new partner or for an ending, any more than any other [transit](/astrology/transits/#its-limits). It describes what you want, not what happens.
 
-With Venus in your 5th, the conjunction falls during Uranus's years there ([Uranus transiting the 5th house](/astrology/uranus-transit-5th-house/)), and play, creative work and romance are where the new taste shows first. The house of your Venus is fixed by your birth time, and without the time this transit goes unread ([what changes without a birth time](/blog/unknown-birth-time/)).
+Where your Venus sits by house is where the new taste shows. In the 5th, it shows in play, creative work and romance, somewhere inside Uranus's years in that house ([Uranus transiting the 5th house](/astrology/uranus-transit-5th-house/)). The house of your Venus is fixed by your birth time, and without the time this transit goes unread ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The natal pairing, [Venus conjunct Uranus](/astrology/venus-conjunct-uranus/), is often described in the same words used here: unusual tastes, sudden attractions, love with room in it. The difference is duration.
 
