@@ -25,7 +25,7 @@ faq:
   - q: "Comment le Lion en maison 8 influence-t-il l’intimité ?"
     a: "La proximité est souvent loyale, chaleureuse et un peu cérémonieuse : l’anniversaire marqué, le geste fait en personne. Le plus dur, c’est de recevoir : se laisser prendre en charge peut ressembler à perdre la face. L’intimité s’approfondit quand vous le permettez."
   - q: "Le Lion sur la cuspide de la maison 8 dit-il quelque chose de l’héritage ou de la mort ?"
-    a: "On ne peut y lire ni l’un ni l’autre. La maison 8 était traditionnellement celle de la mort et de l’héritage, mais aucun thème ne peut dire quand une vie finira ni ce que quelqu’un héritera, et je ne lis ni l’un ni l’autre. Je lis la maison 8 comme l’intimité, la confiance et ce que vous partagez ou devez."
+    a: "On ne peut y lire ni l’un ni l’autre. La maison 8 était traditionnellement celle de la mort et de l’héritage, mais rien dans un thème ne peut dater une mort ni annoncer un héritage. Je lis la maison 8 comme l’intimité, la confiance et ce que vous partagez ou devez."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "ici, les cuspides de Placidus pour des naissances réparties sur une journée entière à Londres et à New York, la largeur de la maison 8 et les signes qu’elle contient" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "le Soleil, maître du Lion ; Mercure, de la Vierge ; la Lune, du Cancer" }

@@ -25,7 +25,7 @@ faq:
   - q: "La Vierge en maison 5, est-ce mauvais pour l’amour ?"
     a: "Non. Elle décrit un amour montré par le soin plutôt que par le spectacle : retenir les détails, réparer les choses, être fiable. Vénus est en chute dans la Vierge, et les grands gestes ne viennent pas toujours d’eux-mêmes, mais l’attention est aussi une langue de l’amour, et les personnes qui la remarquent y tiennent."
   - q: "La Vierge sur la cuspide de la maison 5 dit-elle quelque chose des enfants ?"
-    a: "Pas sous forme de prévision. Le vieux lien entre la maison 5 et les enfants ne permet à aucun thème de dire si ni quand quelqu’un deviendra parent, et je n’essaie pas ; je ne lis pas non plus le thème des enfants. Pour un adulte, cette maison décrit vos plaisirs, vos savoir-faire et vos amours."
+    a: "Pas sous forme de prévision. Le vieux lien entre la maison 5 et les enfants ne permet à aucun thème de dire si quelqu’un deviendra parent, ni quand, et je n’essaie pas ; je ne lis pas non plus le thème des enfants. Pour un adulte, cette maison décrit vos plaisirs, vos savoir-faire et vos amours."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "ici, les cuspides de Placidus pour des naissances réparties sur une journée entière à Londres et à New York, la largeur de la maison 5 et les signes qu’elle contient" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure, maître de la Vierge et des Gémeaux ; la chute de Vénus dans la Vierge" }

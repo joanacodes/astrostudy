@@ -24,7 +24,7 @@ faq:
   - q: "What kind of partner suits a Virgo Descendant?"
     a: "Someone who notices: steady, competent, glad to help and just as glad to be helped. With Pisces rising, you tend to value a partner who brings structure to your days without dimming your imagination. None of it names the person, or the day you’ll meet."
   - q: "How common is a Virgo Descendant?"
-    a: "Rarely: in Placidus about 1 London birth in 27 has one, and 1 New York birth in 20, fewer than for any other Virgo cusp. Virgo can only set while Pisces rises, and Pisces is among the quickest signs to clear the eastern horizon, so a Virgo Descendant lasts under an hour a day at London."
+    a: "Not very: in Placidus about 1 London birth in 27 has one, and 1 New York birth in 20, fewer than for any other Virgo cusp. Virgo can only set while Pisces rises, and Pisces is among the quickest signs to clear the eastern horizon, so a Virgo Descendant lasts under an hour a day at London."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "here, Placidus cusps for births spread over a whole day at London and New York, and the width of the 7th house" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury as the ruler of Virgo and Gemini, Jupiter of Pisces, Venus of Libra" }
@@ -40,4 +40,4 @@ Every Virgo Descendant comes with [Pisces rising](/astrology/pisces-rising/): Ne
 
 No cusp holds Virgo less often than the Descendant. Drawn in Placidus, my house system, it turns up in roughly one London chart in 27 and one New York chart in 20. Pisces, opposite, is one of the two quickest signs to rise in the north, and Virgo sets as fast as Pisces rises: about 52 minutes a day at London, against nearly three hours to rise. From here Virgo never opens the 6th or the 8th as well, and in about 1 London birth in 6 it has no cusp anywhere.
 
-Fifty-two minutes is shorter than the error in many recorded times. [Virgo on the 8th house cusp](/astrology/virgo-on-8th-house-cusp/) describes a birth a little earlier, [Virgo on the 6th house cusp](/astrology/virgo-on-6th-house-cusp/) one a little later, and only the minute settles which is yours; without it I don't read the chart ([what changes without a birth time](/blog/unknown-birth-time/)).
+Fifty-two minutes is less than the margin of a birth time noted without its minutes. [Virgo on the 8th house cusp](/astrology/virgo-on-8th-house-cusp/) describes a birth a little earlier, [Virgo on the 6th house cusp](/astrology/virgo-on-6th-house-cusp/) one a little later, and only the minute settles which is yours; without it I don't read the chart ([what changes without a birth time](/blog/unknown-birth-time/)).

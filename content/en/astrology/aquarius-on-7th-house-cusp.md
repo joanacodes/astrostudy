@@ -1,7 +1,7 @@
 ---
 title: "Aquarius on the 7th house cusp"
 h1: "Aquarius on the 7th house cusp in a birth chart"
-description: "Aquarius on the 7th house cusp puts your Descendant in Aquarius: partners who are also friends, Leo always rising, Uranus and Saturn ruling your bonds."
+description: "Aquarius on the 7th house cusp: an Aquarius Descendant, partners who are also friends, Leo always rising, and Uranus and Saturn ruling your bonds."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

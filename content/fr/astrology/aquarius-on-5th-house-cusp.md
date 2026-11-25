@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire le Verseau sur la cuspide de la maison 5 en amour ?"
     a: "Que l’amour passe souvent par la rencontre de deux esprits : les idées et la conversation vous attirent, il vous faut de l’air dans une relation, et la possessivité vous refroidit vite. Cela décrit votre façon d’aimer et de jouer, pas la personne que vous rencontrerez. Vos plaisirs suivent Uranus et Saturne jusque dans leurs maisons."
   - q: "Le Verseau en maison 5 dit-il quelque chose des enfants ?"
-    a: "Pas dans mes lectures. La tradition donnait les enfants à la maison 5, mais aucun thème ne peut dire si ni quand quelqu’un aura un enfant, et je ne le lis pas pour cela. J’y lis votre créativité, vos jeux et vos amours, ici avec le goût du Verseau pour l’expérience et le partage."
+    a: "Pas dans mes lectures. Les enfants étaient l’affaire de la maison 5 dans la tradition, mais aucun thème ne sait si ni quand quelqu’un en aura, et je ne le lis pas pour cela. J’y lis votre créativité, vos jeux et vos amours, ici avec le goût du Verseau pour l’expérience et le partage."
   - q: "Quel ascendant va avec le Verseau sur la cuspide de la maison 5 ?"
     a: "Le plus souvent la Balance : environ 8 thèmes londoniens sur 10 et près de 9 new-yorkais sur 10, la Vierge dans les autres. Avec l’ascendant Balance, Vénus, dont la joie est en maison 5, gouverne votre thème, et le Capricorne occupe votre Fond du Ciel : Saturne gouverne alors votre foyer autant que vos plaisirs."
 sources:

@@ -25,7 +25,7 @@ faq:
   - q: "La Vierge en maison 6 rend-elle perfectionniste ?"
     a: "Cela peut arriver. La Vierge dans sa propre maison met des exigences élevées dans les tâches quotidiennes : cela donne du bon travail et, parfois, l’inquiétude de savoir s’il est assez bon. L’équilibre vient de routines qui font une place au repos, et du droit de faire certaines choses bien plutôt que parfaitement."
   - q: "La Vierge sur la cuspide de la maison 6 peut-elle prédire des problèmes de santé ?"
-    a: "Non. Elle décrit votre façon de prendre soin de vous, avec soin et méthode, pas ce qui arrivera à votre corps. La tradition lisait la maladie dans la maison 6, mais aucun thème ne peut en annoncer une, et je ne lis pas pour cela. Pour la santé, c’est un médecin qu’il faut consulter, pas un thème."
+    a: "Non. Elle décrit votre façon de prendre soin de vous, avec attention et méthode, pas ce qui arrivera à votre corps. La tradition lisait la maladie dans la maison 6, mais aucun thème ne peut en annoncer une, et je ne lis pas pour cela. Pour la santé, c’est un médecin qu’il faut consulter, pas un thème."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "ici, les cuspides de Placidus pour des naissances réparties sur une journée entière à Londres et à New York, la largeur de la maison 6 et les signes qu’elle contient" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure, maître de la Vierge et des Gémeaux, en exaltation dans la Vierge ; Vénus, maître du Taureau et de la Balance" }

@@ -24,7 +24,7 @@ faq:
   - q: "How does Leo on the 8th house cusp affect intimacy?"
     a: "Closeness tends to be loyal, warm and a little ceremonial, the anniversary marked, the gesture made in person. The hard part is receiving: letting someone look after you can feel like losing face. Intimacy deepens when you allow it."
   - q: "Does Leo on the 8th house cusp say anything about inheritance or death?"
-    a: "Neither can be read from it. The 8th was traditionally the house of death and inheritance, but no chart can tell when a life will end or what anyone will inherit, and I don’t read for either. I read the 8th as intimacy, trust and what you share or owe."
+    a: "Neither can be read from it. The 8th was traditionally the house of death and inheritance, but nothing in a chart can date a death or foretell a legacy, and I don’t read for either. I read the 8th as intimacy, trust and what you share or owe."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "here, Placidus cusps for births spread over a whole day at London and New York, the width of the 8th and the signs it holds" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Sun as the ruler of Leo, Mercury of Virgo, the Moon of Cancer" }

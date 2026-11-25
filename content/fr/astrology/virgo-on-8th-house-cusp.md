@@ -25,7 +25,7 @@ faq:
   - q: "La Vierge en maison 8 est-elle froide dans l’intimité ?"
     a: "Non. Elle est prudente plutôt que froide : la proximité grandit par l’attention, la fiabilité et les petits gestes de soin, et la confiance se donne une fois méritée. Ce qui est difficile, c’est de lâcher le contrôle ; le lien s’approfondit quand la compréhension a le droit de venir après le sentiment, et non avant."
   - q: "La Vierge sur la cuspide de la maison 8 prédit-elle des dettes ou un héritage ?"
-    a: "Aucun thème ne prédit ni l’un ni l’autre. La Vierge décrit ici votre façon de gérer ce qui se partage, avec soin et les papiers en ordre, pas ce que vous devrez ou recevrez. La tradition donnait aussi la mort à la maison 8 ; je ne lis pas pour cela, dans aucun thème."
+    a: "Aucun thème ne prédit ni l’un ni l’autre. La Vierge décrit ici votre façon de gérer ce qui se partage, avec soin et les papiers en ordre, pas ce que vous devrez ou recevrez. La tradition donnait aussi la mort à la maison 8 ; je ne la cherche dans aucun thème."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "ici, les cuspides de Placidus pour des naissances réparties sur une journée entière à Londres et à New York, avec les signes qui se lèvent et ceux qui restent sans cuspide" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure, maître de la Vierge et des Gémeaux ; Saturne, du Capricorne ; le Soleil, du Lion" }

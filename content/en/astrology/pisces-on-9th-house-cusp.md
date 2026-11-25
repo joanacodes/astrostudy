@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Pisces", "9th house", "house cusps"]
 weight: 2561
 glyph: "♓"
-definition: "Pisces on the 9th house cusp puts belief, higher learning and long journeys in mutable water. You tend to feel meaning before you can argue it, learn by immersion and keep room for doubt in your faith. Jupiter, the 9th’s natural ruler, rules it here with Neptune, and Leo usually rises, giving the chart to the Sun."
+definition: "Pisces on the 9th house cusp puts belief, higher learning and long journeys in mutable water. You tend to feel meaning before you can argue it, learn by immersion and keep room for doubt in your faith. Jupiter, the 9th’s planet by nature, shares its rule here with Neptune, and Leo usually rises, giving the chart to the Sun."
 facts:
   - { k: "Sign", v: "Pisces ♓, mutable water" }
   - { k: "Cusp", v: "The 9th house: belief, study, long journeys" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/pisces", "/astrology/9th-house", "/astrology/jupiter", "/astrology/neptune", "/astrology/leo-rising"]
 faq:
   - q: "What does Pisces on the 9th house cusp mean for beliefs?"
-    a: "That faith tends to be felt before it is argued: you can hold more than one truth, learn best by immersion and are moved by poetry, music or ritual. The care it asks for is discernment about teachers. Jupiter, the 9th’s natural ruler, rules it here with Neptune, and I read both."
+    a: "That faith tends to be felt before it is argued: you can hold more than one truth, learn best by immersion and are moved by poetry, music or ritual. The care it asks for is discernment about teachers. Neptune shares its rule with Jupiter, the 9th’s natural ruler, and I read both."
   - q: "Is Pisces in the 9th house spiritual?"
     a: "It often describes a spiritual or poetic way of looking for meaning, inside a religion or outside any, but it doesn’t tell you what to believe. What it shows is how you believe: openly, with room for doubt, and with a feeling for what can’t quite be said."
   - q: "Which planets rule the 9th house when Pisces is on the cusp?"
-    a: "Neptune, the modern ruler of Pisces, and Jupiter, the traditional one. Jupiter is also the natural ruler of every 9th house, through Sagittarius, so with this cusp the planet of the 9th by nature is its ruler in fact too. Their houses show what feeds your beliefs."
+    a: "Two: Jupiter, which ruled Pisces long before Neptune was found, and Neptune, which modern astrologers gave it after 1846. Jupiter is also the natural ruler of every 9th house, through Sagittarius, so with this cusp the planet of the 9th by nature is its ruler in fact too. Their houses show what feeds your beliefs."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "Placidus cusps for a day of births at London and New York, with the Ascendants, Midheavens and interceptions found with this cusp" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Jupiter as the ruler of Sagittarius and Pisces, the Sun of Leo" }
@@ -41,4 +41,4 @@ Jupiter, ruler of the 9th by nature, is one of its two rulers by sign here as we
 
 With Placidus, the house system I use, about 1 London birth in 11 and 1 New York birth in 12 have this cusp. Aries holds the Midheaven in about 6 London charts in 7 and nearly 9 in 10 at New York, so Mars rules your public direction while Jupiter and Neptune rule your beliefs, and convictions tend to turn into action. Aquarius stretches over the 7th and 8th cusps in about half the London charts ([duplicated signs](/astrology/duplicated-signs/)), and in about 1 London chart in 4 Pisces opens the 8th as well as the 9th. In about 1 London chart in 3, the 9th's own natural sign, Sagittarius, has no cusp at all and lies whole inside the 5th ([intercepted signs](/astrology/intercepted-signs/)). Pisces is left without a cusp in about 1 London birth in 6.
 
-Earlier that day, Pisces would have stood on your Midheaven ([Pisces on the 10th house cusp](/astrology/pisces-on-10th-house-cusp/)); later, on the 8th ([Pisces on the 8th house cusp](/astrology/pisces-on-8th-house-cusp/)). The birth time is the hinge, and I ask for it before anything else ([what changes without a birth time](/blog/unknown-birth-time/)).
+Earlier that day, Pisces would have stood on your Midheaven ([Pisces on the 10th house cusp](/astrology/pisces-on-10th-house-cusp/)), and later it would have sunk to the 8th ([Pisces on the 8th house cusp](/astrology/pisces-on-8th-house-cusp/)). The birth time is the hinge, and I ask for it before anything else ([what changes without a birth time](/blog/unknown-birth-time/)).
