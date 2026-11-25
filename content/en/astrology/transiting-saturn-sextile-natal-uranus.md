@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Uranus", "sextile", "transits"]
 weight: 1656
 glyph: "♄⚹♅"
-definition: "Transiting Saturn sextile natal Uranus is the 60° contact Saturn makes with your birth Uranus twice in each 29½-year round, the first time at an age that depends on your birth year. Reform and structure cooperate if you take the step: a change made gradual, an experiment given a method. I read it as an opening, never a push."
+definition: "Transiting Saturn sextile natal Uranus is the 60° contact Saturn makes with your birth Uranus twice in each 29½-year round, the first time at an age that depends on your birth year. Reform and structure cooperate if you take the step: a change made gradual, an experiment given a method. I read it as an opening rather than a push."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Uranus ♅: where you need room to change" }

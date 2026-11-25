@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting Saturn square natal Jupiter mean?"
     a: "Saturn stands at right angles, 90°, to the degree of your birth Jupiter. What you want to grow, believe or promise rubs against time, effort and limits, so plans and convictions have to find a workable size. I read it as constructive friction about scale: a demanding season for big ideas, which tends to leave them sounder rather than smaller."
   - q: "Does Saturn square Jupiter mean financial loss?"
-    a: "No. I don’t read transits for money, and financial decisions are among the things I won’t read at all. This square describes growth meeting its limits: an overcommitted plan, a belief that needs revising, generosity that needs boundaries. How that plays out depends on your choices and circumstances, not on the angle."
+    a: "No. I don’t read transits for money, and money decisions stay out of my readings altogether. This square describes growth meeting its limits: an overcommitted plan, a belief that needs revising, generosity that needs boundaries. How that plays out depends on your choices and circumstances, not on the angle."
   - q: "When does Saturn square my natal Jupiter?"
     a: "Twice in each Saturn round, about seven years after Saturn crosses your Jupiter and seven before it returns. The first came anywhere from the first weeks of life to about 15½ for births from 1930 to 2009, at 7 in the middle; by 80, everyone has met it five or six times."
 sources:

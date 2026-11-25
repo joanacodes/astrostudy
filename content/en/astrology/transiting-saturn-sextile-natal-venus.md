@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/venus", "/astrology/sextile", "/astrology/venus-sextile-saturn", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn sextile natal Venus mean?"
-    a: "Saturn now stands two signs, or 60°, from your birth Venus. It offers structure to something you value: a regular time with someone, lessons in a craft you love, a habit that protects a pleasure. Nothing happens by itself under a sextile; I read it as an opening you can choose to use."
+    a: "Saturn now stands two signs, or 60°, from your birth Venus. It offers structure to something you value: a regular time with someone, lessons in a craft you love, a habit that protects a pleasure. A sextile makes nothing happen by itself; what you do with the opening is up to you."
   - q: "Is Saturn sextile Venus good for relationships?"
     a: "It tends to suit patient effort in a bond: a regular time together, a shared plan, an honest talk about what each of you can give. It doesn’t bring a relationship or keep one by itself. A sextile is an opening, and what passes through it depends on the people involved."
   - q: "How long does Saturn sextile Venus last?"
@@ -43,7 +43,7 @@ Born with [Venus sextile Saturn](/astrology/venus-sextile-saturn/), you'll find 
 
 ## How long it lasts {#how-long-it-lasts}
 
-I count a Saturn [transit](/astrology/transits/) from 1½° before exact to 1° after ([orbs](/astrology/orbs/)), and with those limits this one usually lasts about nine months. A little over half the time Saturn's retrograde loop carries it across the exact sextile three times, over about nine and a half months; a single pass at full speed can take as little as three weeks. That's time enough to sign up, show up, and find out whether a new routine holds.
+My [orbs](/astrology/orbs/) for a Saturn [transit](/astrology/transits/) run from 1½° before exact to 1° after, and within them this one usually lasts about nine months. A little over half the time Saturn's retrograde loop carries it across the exact sextile three times, over about nine and a half months; a single pass at full speed can take as little as three weeks. That's time enough to sign up, show up, and find out whether a new routine holds.
 
 The sextile comes twice in each round, so by 80 everyone has met it five or six times. The first of each pair follows [transiting Saturn conjunct natal Venus](/astrology/transiting-saturn-conjunct-natal-venus/) by about five years and comes a couple of years before [transiting Saturn square natal Venus](/astrology/transiting-saturn-square-natal-venus/); [transiting Saturn trine natal Venus](/astrology/transiting-saturn-trine-natal-venus/) and [transiting Saturn opposite natal Venus](/astrology/transiting-saturn-opposite-natal-venus/) lie further on, and the second sextile comes on the way back, about five years before the next conjunction.
 

@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn opposite natal Mercury"
 h1: "Transiting Saturn opposite your natal Mercury"
-description: "Transiting Saturn opposite natal Mercury: once every 29½ years, your words and ideas meet other people’s standards. How to answer, and how long it lasts."
+description: "Transiting Saturn opposite natal Mercury: your words and ideas meet other people’s standards at the far point of each Saturn cycle. How to answer, how long."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

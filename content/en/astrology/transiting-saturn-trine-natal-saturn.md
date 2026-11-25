@@ -39,7 +39,7 @@ Your natal [Saturn](/astrology/saturn/) is the slow builder in your chart, the p
 
 Saturn's familiar weakness is finding it hard to delegate, and the trine is a good season to practise: hand over a task, teach a method, let a structure work without watching it. The opposite risk is coasting. Flow isn't passivity, and a trine can make a routine so comfortable that nobody checks whether it's still needed.
 
-The waxing trines, at about 9½, 39 and 68, come between a square and the opposition, and tend to consolidate what that square made you adjust. The waning ones, at about 19½, 49 and 78, come after the opposition and before the next square, and suit refining and passing things on. The first, around nine, belongs to childhood, and this site doesn't read children's charts ([children's charts](/astrology/childrens-charts/)).
+The waxing trines, at about 9½, 39 and 68, come between a square and the opposition, and tend to consolidate what that square made you adjust. The waning ones, at about 19½, 49 and 78, come after the opposition and before the next square, and suit refining and passing things on. The first, around nine, falls in childhood, which this site leaves unread ([children's charts](/astrology/childrens-charts/)).
 
 With natal Saturn in the 6th, the trine comes from your 2nd ([Saturn transiting the 2nd house](/astrology/saturn-transit-2nd-house/)) or your 10th, so the way you work day to day gets the backing of steadier resources or a clearer professional standard. Saturn's house in your chart, and the two it trines from, all wait on your birth time, as does any reading of them ([what changes without a birth time](/blog/unknown-birth-time/)).
 

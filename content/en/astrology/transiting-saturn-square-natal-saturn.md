@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn square natal Saturn"
 h1: "Transiting Saturn square your natal Saturn"
-description: "Transiting Saturn square natal Saturn: the Saturn cycle’s checkpoints at about 7, 22, 36, 51 and 66. What a waxing square tests, and a waning one."
+description: "Transiting Saturn square natal Saturn: at about 7, 22, 36, 51 and 66, the Saturn cycle’s checkpoints. What a waxing square tests, and a waning one."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -39,7 +39,7 @@ Your natal [Saturn](/astrology/saturn/) describes where you build slowly and car
 
 I read the two kinds of square differently ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)). The waxing ones, about seven years after a return, at about 36 and 66, test what that return set up: the commitment is real now, and so is its weight. The waning ones, about seven years before a return, at about 22 and 51, begin a sorting the next return will finish: what you carry because you chose it, and what you carry from habit. Friction isn't failure in either case; a square is how a structure finds out where it's weak while there's still time to mend it.
 
-Natal Saturn is the placement I trust most in a chart ([the three that held](/blog/saturn-chiron-lilith/)), so I read its checkpoints closely, and gently. The first square, at about seven, belongs to childhood, and this site never reads children's charts ([children's charts](/astrology/childrens-charts/)); I mention it only to place the adult ones.
+Natal Saturn is the placement I trust most in a chart ([the three that held](/blog/saturn-chiron-lilith/)), so I read its checkpoints closely, and gently. I mention the first square, at about seven, only to place the adult ones: this site never reads children's charts ([children's charts](/astrology/childrens-charts/)).
 
 The houses decide where the friction sits. With natal Saturn in the 7th, transiting Saturn squares it from your 10th ([Saturn transiting the 10th house](/astrology/saturn-transit-10th-house/)) or your 4th, so commitments to a partner meet the demands of work or of home. The 7th, the 10th and the 4th all hang on your birth time, and so does my reading of this square ([what changes without a birth time](/blog/unknown-birth-time/)).
 

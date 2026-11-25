@@ -35,7 +35,7 @@ About ten years after Saturn crosses your Venus, and ten before it comes back, t
 
 [Venus](/astrology/venus/) is how you value and relate: what you find beautiful, whom you choose, what you'd keep. [Saturn](/astrology/saturn/) gives things time and form. A [trine](/astrology/trine/), 120°, lets two functions reinforce each other while each keeps its identity, so Venus stays warm and choosy and simply finds Saturn's patience on its side.
 
-This is a good season to formalise something you already value: a creative practice put on a schedule, a home made more beautiful one room at a time, a friendship or a partnership given the practical arrangements that let it last. Taste matures without turning severe; affection steadies without growing heavy. Tradition gave Saturn its exaltation in Libra, one of Venus's own signs, and of all their contacts the trine is the one that most often lives up to that pairing.
+This is a good season to give a lasting frame to something you already value: a creative practice put on a schedule, a home made more beautiful one room at a time, a friendship or a partnership given the practical arrangements that let it last. Taste matures without turning severe; affection steadies without growing heavy. Tradition gave Saturn its exaltation in Libra, one of Venus's own signs, and of all their contacts the trine is the one that most often lives up to that pairing.
 
 Ease isn't inevitability, though. Trine transits ask for nothing, so they can pass with nothing built. Flow isn't passivity either: the season helps what you choose to work at and leaves the rest as it found it.
 

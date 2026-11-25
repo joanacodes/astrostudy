@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn opposite natal Mars"
 h1: "Transiting Saturn opposite your natal Mars"
-description: "Transiting Saturn opposite natal Mars: halfway round Saturn’s cycle, your drive meets other people’s limits and authority. Negotiating rather than fighting."
+description: "Transiting Saturn opposite natal Mars: your drive meets other people’s limits and authority, midway through Saturn’s cycle. Negotiating rather than fighting."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

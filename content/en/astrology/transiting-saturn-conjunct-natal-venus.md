@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn conjunct natal Venus"
 h1: "Transiting Saturn conjunct your natal Venus"
-description: "Transiting Saturn conjunct natal Venus: once every 29½ years, love, taste and what you value meet time and commitment. No break-up foretold; what helps."
+description: "Transiting Saturn conjunct natal Venus: love, taste and what you value meet time and commitment, once every 29½ years. No break-up foretold; what helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

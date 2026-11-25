@@ -2,7 +2,7 @@
 title: "Saturne en transit opposition Mars du thème natal"
 slug: "saturne-transit-opposition-mars-natal"
 h1: "Saturne en transit opposition Mars de votre thème natal"
-description: "Saturne en transit opposition Mars du thème natal : à mi-parcours du cycle, votre élan face aux limites et à l’autorité des autres. Sa durée, ce qui aide."
+description: "Saturne en transit opposition Mars du thème natal : votre élan face aux limites et à l’autorité des autres, au milieu du cycle. Négocier sans combattre."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Mars", "opposition", "transits"]
 weight: 1645
 glyph: "♄☍♂"
-definition: "Saturne en transit opposition Mars du thème natal, c’est Saturne à 180° du degré de Mars à votre naissance, une quinzaine d’années après son passage, une fois par tour. Ce que vous voulez faire maintenant rencontre ce que quelqu’un d’autre, ou un système, autorise. J’y lis une saison pour mesurer l’effort et les limites, jamais l’annonce d’un conflit."
+definition: "Saturne en transit opposition Mars du thème natal, c’est Saturne à l’autre bout du zodiaque par rapport à Mars de votre naissance, une quinzaine d’années après son passage sur ce degré. Ce que vous voulez faire maintenant rencontre ce que quelqu’un d’autre, ou un système, autorise. J’y lis une saison pour mesurer l’effort et les limites, jamais l’annonce d’un conflit."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Mars ♂ : votre élan, votre effort, votre initiative" }
@@ -21,16 +21,16 @@ facts:
 related: ["/astrology/saturn", "/astrology/mars", "/astrology/opposition", "/astrology/mars-opposite-saturn", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit opposition Mars du thème natal ?"
-    a: "Saturne se tient à l’opposé de Mars de votre naissance. Votre élan et votre initiative rencontrent des limites venues de l’extérieur : une autorité, une rivale, le rythme d’un ou d’une partenaire, les procédures d’une institution. J’y lis une saison pour mesurer votre force face à des limites réelles et poser des frontières nettes, jamais un combat perdu d’avance."
+    a: "Saturne a atteint l’autre bout du zodiaque par rapport à Mars de votre naissance. Votre élan rencontre des limites venues de l’extérieur : une autorité, une rivale, le rythme d’une ou d’un partenaire, les procédures d’une institution. J’y lis une saison pour mesurer votre force face à des limites réelles et poser des frontières nettes, jamais un combat perdu d’avance."
   - q: "Est-ce que Saturne opposition Mars amène des conflits ?"
     a: "Pas en règle générale, et je ne lis pas les transits pour les litiges ni pour leur issue. L’opposition place souvent votre élan face aux limites de quelqu’un d’autre : une cheffe, un rival, une ou un partenaire, une procédure. Cela peut frotter, et cela peut aussi devenir une négociation qui apprend aux deux côtés où passe la limite."
   - q: "Quand est-ce que Saturne s’oppose à Mars de mon thème natal ?"
-    a: "Une quinzaine d’années après le dernier passage de Saturne sur votre Mars, à mi-parcours d’un tour d’environ 29 ans et demi : deux ou trois fois avant 80 ans. Avec mes orbes, de 1,5° avant l’exactitude à 1° après, ce transit dure en général neuf mois environ, souvent en trois passages ; un passage rapide peut se terminer en trois semaines."
+    a: "À mi-parcours du cycle de Saturne depuis la dernière conjonction, une quinzaine d’années plus tard : deux ou trois fois dans une vie de 80 ans. Avec mes orbes (1,5° avant l’exactitude, 1° après), l’opposition tient neuf mois environ, souvent en trois passages exacts ; un passage rapide prend parfois trois semaines seulement."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Saturne reste dans mes orbes, et combien d’oppositions viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
 ---
-Une quinzaine d’années après son passage sur votre Mars, Saturne se tient de l’autre côté du zodiaque, au point le plus éloigné de leur tour. Votre élan rencontre une résistance venue du dehors, d’une personne, d’une institution ou de conditions posées, et la saison consiste à apprendre où s’arrête votre poussée et où commence la limite de quelqu’un d’autre.
+Au point le plus éloigné de leur tour, une quinzaine d’années après la conjonction, Saturne se tient de l’autre côté du zodiaque par rapport à votre Mars. Votre élan rencontre une résistance venue du dehors, d’une personne, d’une institution ou de conditions posées, et la saison consiste à apprendre où s’arrête votre poussée et où commence la limite de quelqu’un d’autre.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -40,13 +40,13 @@ Cela prend souvent la forme d’une compétition, d’une négociation ou d’un
 
 Les limites font partie du travail de Mars, et l’opposition les éprouve dans les deux sens : là où vous avez laissé les autres passer les vôtres, et là où vous avez pesé sur les leurs. Dire non clairement, et entendre non sans le prendre pour une insulte, voilà ce qu’elle apprend. Des litiges surgissent parfois, et je ne prédis pas leur issue ([L’astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)).
 
-Avec Mars en maison 10 et Saturne qui traverse votre maison 4 ([Saturne en transit en maison 4](/astrology/saturn-transit-4th-house/)), l’ambition rencontre les besoins du foyer et de la famille, et la quête de position doit leur faire de la place. Votre heure de naissance fixe les deux bouts de cet axe ; sans elle, ce transit reste sans lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec [Mars opposition Saturne](/astrology/mars-opposite-saturn/) dans votre thème natal, vous avez l’habitude d’un effort qui rencontre un contrepoids, et cette saison vous semblera sans doute plus familière qu’effrayante.
+Avec Mars en maison 10 et Saturne qui traverse votre maison 4 ([Saturne en transit en maison 4](/astrology/saturn-transit-4th-house/)), l’ambition rencontre les besoins du foyer et de la famille, et la quête de position doit leur faire de la place. Sans votre heure de naissance, la ligne qui va de votre maison 10 à votre maison 4 ne peut pas se tracer, et ce transit reste sans lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec [Mars opposition Saturne](/astrology/mars-opposite-saturn/) dans votre thème natal, vous avez l’habitude d’un effort qui rencontre un contrepoids, et cette saison vous semblera sans doute plus familière qu’effrayante.
 
 ## Combien de temps {#combien-de-temps}
 
-Quand la boucle rétrograde de Saturne tombe sur ce point, comme dans un peu plus de la moitié de ses [transits](/astrology/transits/), Saturne s’oppose trois fois à votre Mars sur neuf mois et demi environ. Je lis ces trois passages comme une seule saison, pas comme trois événements. Avec mes orbes, 1,5° avant l’exactitude et 1° après, la plupart de ces transits durent neuf mois environ, et un passage unique et rapide peut se terminer en trois semaines.
+Saturne s’oppose trois fois à votre Mars sur neuf mois et demi environ chaque fois que sa boucle rétrograde se pose sur le point, comme dans un peu plus de la moitié de ses [transits](/astrology/transits/). Je lis ces trois passages comme une seule saison, pas comme trois événements. Mesurée avec mes orbes, 1,5° avant l’exactitude et 1° après, la saison entière dure en général neuf mois environ ; la version la plus rapide, un seul passage, prend trois semaines.
 
-L’opposition vient une fois par tour, deux ou trois fois avant 80 ans, et personne n’arrive à cet âge sans l’avoir connue. Elle se place à mi-chemin entre deux passages de [Saturne en transit conjonction Mars du thème natal](/astrology/transiting-saturn-conjunct-natal-mars/) : [Saturne en transit sextile Mars du thème natal](/astrology/transiting-saturn-sextile-natal-mars/), [Saturne en transit carré Mars du thème natal](/astrology/transiting-saturn-square-natal-mars/) et [Saturne en transit trigone Mars du thème natal](/astrology/transiting-saturn-trine-natal-mars/) y mènent, puis reviennent dans l’autre sens sur le chemin du retour.
+Tout le monde rencontre cette opposition deux ou trois fois avant 80 ans, une fois par tour. Elle se place à mi-chemin entre deux passages de [Saturne en transit conjonction Mars du thème natal](/astrology/transiting-saturn-conjunct-natal-mars/) : [Saturne en transit sextile Mars du thème natal](/astrology/transiting-saturn-sextile-natal-mars/), [Saturne en transit carré Mars du thème natal](/astrology/transiting-saturn-square-natal-mars/) et [Saturne en transit trigone Mars du thème natal](/astrology/transiting-saturn-trine-natal-mars/) y mènent, puis reviennent dans l’autre sens sur le chemin du retour.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn square natal Mars"
 h1: "Transiting Saturn square your natal Mars"
-description: "Transiting Saturn square natal Mars: drive meets resistance and impatience asks for strategy, twice in each Saturn round. How to pace the fight."
+description: "Transiting Saturn square natal Mars: when impatience meets resistance and drive has to find a strategy, twice a round. How to pace the fight."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

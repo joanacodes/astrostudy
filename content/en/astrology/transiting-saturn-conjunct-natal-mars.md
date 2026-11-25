@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn conjunct natal Mars"
 h1: "Transiting Saturn conjunct your natal Mars"
-description: "Transiting Saturn conjunct natal Mars: once every 29½ years, drive meets discipline and effort slows to a steadier pace. Why it isn’t a danger sign."
+description: "Transiting Saturn conjunct natal Mars: drive meets discipline and effort slows to a steadier pace, once in each Saturn round. Why it isn’t a danger sign."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

@@ -2,7 +2,7 @@
 title: "Saturne en transit carré Mars du thème natal"
 slug: "saturne-transit-carre-mars-natal"
 h1: "Saturne en transit carré Mars de votre thème natal"
-description: "Saturne en transit carré Mars du thème natal : deux fois en 29 ans et demi, l’élan rencontre la résistance et l’impatience demande une stratégie. Durée, aide."
+description: "Saturne en transit carré Mars du thème natal : quand l’impatience bute sur une résistance et que l’élan doit trouver une stratégie. Doser le combat."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Mars", "carré", "transits"]
 weight: 1643
 glyph: "♄□♂"
-definition: "Saturne en transit carré Mars du thème natal, c’est Saturne à 90° du degré de Mars à votre naissance, sept ans environ après son passage et autant avant son retour. L’effort rencontre retards, règles ou fatigue : pousser plus fort marche moins bien que pousser mieux. J’y lis une friction qui enseigne la stratégie, jamais une défaite ni un danger."
+definition: "Saturne en transit carré Mars du thème natal, c’est Saturne à angle droit avec Mars de votre naissance, deux fois par tour : à l’aller puis au retour. L’effort rencontre retards, règles ou fatigue : pousser plus fort marche moins bien que pousser mieux. J’y lis une friction qui enseigne la stratégie, jamais une défaite ni un danger."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Mars ♂ : votre élan, votre effort, votre initiative" }
@@ -21,16 +21,16 @@ facts:
 related: ["/astrology/saturn", "/astrology/mars", "/astrology/square", "/astrology/mars-square-saturn", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit carré Mars du thème natal ?"
-    a: "Saturne se trouve à 90° de Mars de votre naissance. Votre élan rencontre une résistance : des retards, des règles, de la fatigue, le calendrier de quelqu’un d’autre. J’y lis une friction qui pousse l’effort à devenir stratégique, la force dépensée là où elle compte. C’est une saison exigeante pour votre énergie, jamais l’annonce d’un échec, d’un accident ou d’un conflit."
+    a: "Saturne a atteint 90° de la position de Mars à votre naissance. Votre élan rencontre une résistance : des retards, des règles, de la fatigue, le calendrier de quelqu’un d’autre. J’y lis une friction qui pousse l’effort à devenir stratégique, la force dépensée là où elle compte. C’est une saison exigeante, jamais l’annonce d’un échec, d’un accident ou d’un conflit."
   - q: "Pourquoi est-ce que tout semble bloqué sous Saturne carré Mars ?"
     a: "Parce que Mars veut avancer tout de suite, et que Saturne exige le bon moment et la bonne méthode. Le carré les place en angle : l’effort rencontre des retards, des règles ou de la fatigue. Le blocage tient le plus souvent à l’itinéraire, pas à une impasse : un effort plus lent, plus stratégique, passe souvent là où la force échoue."
   - q: "Combien de temps dure Saturne carré Mars ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, neuf mois environ en général, souvent en trois passages exacts quand Saturne revient en arrière. Un passage rapide peut ne prendre que trois semaines. Le carré vient environ sept ans après chaque conjonction et sept ans avant la suivante, cinq ou six fois avant 80 ans."
+    a: "Plus longtemps que n’importe quel élan pressé : quelque neuf mois entre 1,5° avant l’exactitude et 1° après, souvent en trois passages exacts, parfois trois semaines seulement. Ce carré tombe à mi-chemin entre une conjonction et l’opposition, à l’aller puis au retour : cinq ou six fois avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Saturne reste dans mes orbes, et combien de carrés viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
 ---
-Environ sept ans après le passage de Saturne sur votre Mars, puis de nouveau sept ans avant son retour, les deux forment un carré. Cela peut ressembler à un frein à main resté serré : vous voulez avancer, et quelque chose exige une façon plus lente, plus prudente.
+Un frein à main resté serré : voilà à quoi peut ressembler Saturne carré votre Mars. Ce carré vient environ sept ans après le passage de Saturne sur votre Mars et de nouveau sept ans avant son retour, et pendant quelques mois, vous voulez avancer tandis que quelque chose exige une façon plus lente, plus prudente.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -40,15 +40,15 @@ Concrètement, cela peut prendre la forme de retards, de paperasse, d’un corps
 
 Certaines personnes craignent un accident ou une blessure sous ce carré. Je ne lis pas les transits pour cela, et rien de tel n’est annoncé ici ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)) ; ce que ce carré décrit, c’est un effort qui demande à être dosé.
 
-Avec Mars en maison 10, l’effort tourné vers le travail et la position sociale rencontre une résistance, et Saturne traverse en général votre maison 1 ou votre maison 7 ([Saturne en transit en maison 7](/astrology/saturn-transit-7th-house/)) : ce sont vos propres limites, ou les conditions d’une associée ou d’un associé, qui fixent le rythme. Ces maisons viennent de votre heure de naissance, et je ne lis pas ce transit sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si votre thème porte [Mars carré Saturne](/astrology/mars-square-saturn/), cette friction est une vieille connaissance, et vous avez sans doute appris depuis longtemps à doser un combat.
+Avec Mars en maison 10, l’effort tourné vers le travail et la position sociale rencontre une résistance, et Saturne traverse en général votre maison 1 ou votre maison 7 ([Saturne en transit en maison 7](/astrology/saturn-transit-7th-house/)) : ce sont vos propres limites, ou les conditions d’une associée ou d’un associé, qui fixent le rythme. Avec une heure de naissance fausse de quelques heures, Mars pourrait se trouver en maison 9 ou 11 au lieu de la maison 10 : c’est pourquoi je ne lis pas ce carré sans l’heure exacte ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si votre thème porte [Mars carré Saturne](/astrology/mars-square-saturn/), cette friction est une vieille connaissance, et vous avez sans doute appris depuis longtemps à doser un combat.
 
 Avec Saturne en Bélier jusqu’en avril 2028, les carrés qui tombent maintenant touchent Mars en Cancer, signe où la tradition place la chute de Mars, et Mars en Capricorne, signe de son exaltation : le même transit, vécu depuis le signe le plus faible et le signe le plus fort de Mars.
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, 1,5° avant l’exactitude et 1° après, le carré tient en général neuf mois environ. Dans un peu plus de la moitié de ces [transits](/astrology/transits/), la boucle rétrograde de Saturne fait franchir trois fois le carré exact, sur neuf mois et demi environ ; un passage unique à pleine vitesse peut se terminer en trois semaines. Dans tous les cas, cela dure plus longtemps que n’importe quel coup de collier à la manière de Mars, et c’est un peu le sujet.
+Neuf mois environ, c’est la durée habituelle de ce carré, en comptant 1,5° avant l’exactitude et 1° après. Trois carrés exacts au lieu d’un : c’est le cas d’un peu plus de la moitié de ces [transits](/astrology/transits/), que la boucle rétrograde de Saturne étale sur neuf mois et demi environ ; sans boucle, Saturne peut en avoir fini en trois semaines. Dans tous les cas, cela dure plus longtemps que n’importe quel coup de collier à la manière de Mars, et c’est un peu le sujet.
 
-Deux carrés par tour, cela fait cinq ou six avant 80 ans, pour tout le monde. Le premier se place entre [Saturne en transit sextile Mars du thème natal](/astrology/transiting-saturn-sextile-natal-mars/) et [Saturne en transit trigone Mars du thème natal](/astrology/transiting-saturn-trine-natal-mars/), environ sept ans après [Saturne en transit conjonction Mars du thème natal](/astrology/transiting-saturn-conjunct-natal-mars/) ; le second suit [Saturne en transit opposition Mars du thème natal](/astrology/transiting-saturn-opposite-natal-mars/) et vient environ sept ans avant le retour de la conjonction.
+Au rythme de deux par tour, tout le monde connaît cinq ou six carrés avant 80 ans. Dans chaque tour, le premier suit [Saturne en transit sextile Mars du thème natal](/astrology/transiting-saturn-sextile-natal-mars/) de deux ou trois ans, vient environ sept ans après [Saturne en transit conjonction Mars du thème natal](/astrology/transiting-saturn-conjunct-natal-mars/) et mène à [Saturne en transit trigone Mars du thème natal](/astrology/transiting-saturn-trine-natal-mars/) ; le second revient après [Saturne en transit opposition Mars du thème natal](/astrology/transiting-saturn-opposite-natal-mars/), quelque sept ans avant la conjonction suivante.
 
 ## Ce qui aide {#ce-qui-aide}
 

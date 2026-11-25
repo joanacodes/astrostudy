@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/jupiter", "/astrology/opposition", "/astrology/jupiter-opposite-saturn", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn opposite natal Jupiter mean?"
-    a: "Saturn faces your birth Jupiter from the other side of the chart. Your beliefs, plans and hopes meet a counterweight, often in another person or an institution: a cautious partner, a set of criteria, a teacher who questions your thesis. I read it as a season for balancing vision and realism, not a sign that your plans will be refused."
+    a: "Saturn now occupies the point of the chart opposite your birth Jupiter. Your beliefs, plans and hopes meet a counterweight, often in another person or an institution: a cautious partner, a set of criteria, a teacher who questions your thesis. I read it as a season for balancing vision and realism, not a sign that your plans will be refused."
   - q: "At what age does Saturn oppose my natal Jupiter?"
     a: "It depends on your birth year. For births from 1930 to 2009 the first came anywhere from the first weeks to 29, at 14 in the middle: at about 4 to 6 for someone born on 1 January 1955 or 1975, at about 19 or 20 for 1 January 1965 or 1985. After the first, it comes once a round."
   - q: "How long does Saturn opposite Jupiter last?"

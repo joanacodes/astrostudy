@@ -2,7 +2,7 @@
 title: "Saturne en transit sextile Saturne du thème natal"
 slug: "saturne-transit-sextile-saturne-natal"
 h1: "Saturne en transit sextile Saturne de votre thème natal"
-description: "Saturne en transit sextile Saturne du thème natal : les ouvertures discrètes du cycle de Saturne, vers 5, 24, 34, 54 et 64 ans. Ce qu’elles offrent, leur durée."
+description: "Saturne en transit sextile Saturne du thème natal : les ouvertures discrètes du cycle de Saturne, vers 5, 24, 34, 54 et 64 ans. Comment s’en servir."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -24,9 +24,9 @@ faq:
   - q: "Que veut dire Saturne sextile Saturne du thème natal ?"
     a: "Saturne se trouve à 60° de sa place de naissance, à un sixième de son cycle après un retour, ou à un sixième avant le suivant. J’y lis une ouverture pratique sur le long chantier que décrit Saturne dans votre thème : l’occasion de donner une meilleure structure à une responsabilité, si vous choisissez de la saisir."
   - q: "À quels âges Saturne forme un sextile avec sa place de naissance ?"
-    a: "Le premier est venu entre 3 ans et demi et 6 ans pour toutes les personnes nées de 1930 à 2009, 4,6 ans en médiane. Ceux de l’âge adulte tombent vers 24, 34, 54 et 64 ans, cinq ans avant ou après un retour de Saturne : avant 80 ans, tout le monde en a connu cinq."
+    a: "Toutes les personnes nées de 1930 à 2009 ont connu le premier entre 3 ans et demi et 6 ans, 4,6 ans au milieu. Ceux de l’âge adulte tombent vers 24, 34, 54 et 64 ans, cinq ans avant ou après un retour de Saturne : avant 80 ans, tout le monde en a connu cinq."
   - q: "Combien de temps dure Saturne sextile Saturne ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, neuf mois environ en général. Un peu plus d’une fois sur deux, Saturne repasse sur le sextile exact, en trois passages sur neuf mois et demi environ ; un passage unique et rapide peut se terminer en trois semaines."
+    a: "Le plus souvent quelque neuf mois, Saturne disposant de 1,5° pour s’approcher du sextile exact et de 1° pour s’en éloigner. Dans un peu plus de la moitié de ces transits, Saturne revient en boucle et fait trois passages exacts en neuf mois et demi environ ; sinon, une seule traversée rapide de trois semaines peut suffire."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Saturne reste dans mes orbes, l’âge au premier sextile et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
@@ -40,13 +40,13 @@ Le retour de Saturne et les carrés attirent l’attention, mais le cycle de Sat
 
 Les deux sortes de sextile font des travaux différents. Les sextiles croissants, cinq ans environ après un retour, vers 34 et 64 ans, apportent souvent les premières habitudes praticables pour ce que le retour vous a fait choisir. Les sextiles décroissants, cinq ans environ avant un retour, vers 24 et 54 ans, conviennent à la préparation : ranger ce que vous portez, apprendre ce que la prochaine révision demandera. Aucun ne force rien. De toutes les étapes de Saturne, ce sont les plus faciles à manquer, et les moins coûteuses à saisir.
 
-Toutes les personnes nées à quelques mois d’écart les rencontrent presque au même âge : ce qui rend les vôtres personnels, c’est le signe, les aspects et la maison de Saturne dans votre thème. Avec Saturne en maison 1 à la naissance, le sextile arrive pendant que Saturne traverse votre maison 3 ou votre maison 11 ([Saturne en transit en maison 11](/astrology/saturn-transit-11th-house/)) : une formation, un réseau ou un groupe offre une meilleure structure à votre façon de vous tenir dans le monde. Les maisons dépendent de votre heure de naissance, sans laquelle je ne lis pas ce transit ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Toutes les personnes nées à quelques mois d’écart les rencontrent presque au même âge : ce qui rend les vôtres personnels, c’est le signe, les aspects et la maison de Saturne dans votre thème. Avec Saturne en maison 1 à la naissance, le sextile arrive pendant que Saturne traverse votre maison 3 ou votre maison 11 ([Saturne en transit en maison 11](/astrology/saturn-transit-11th-house/)) : une formation, un réseau ou un groupe offre une meilleure structure à votre façon de vous tenir dans le monde. La maison de votre Saturne, c’est la part que décide votre heure de naissance, et celle dont je ne me passe pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, 1,5° avant l’exactitude et 1° après, le sextile dure en général neuf mois environ. Dans un peu plus de la moitié des [transits](/astrology/transits/) de Saturne, il se fait en trois passages exacts sur neuf mois et demi environ ; un passage unique à pleine vitesse peut prendre trois semaines.
+Chaque sextile reste dans l’orbe neuf mois environ, en comptant 1,5° avant l’exactitude et 1° après, largement de quoi installer une nouvelle habitude et la tenir le temps d’une saison. Dans un peu plus de la moitié des [transits](/astrology/transits/) de Saturne, l’ouverture se fait en trois passages exacts sur neuf mois et demi environ ; de temps à autre, Saturne la franchit en trois semaines et passe son chemin.
 
-Le premier est venu entre 3 ans et demi et 6 ans pour toutes les personnes nées de 1930 à 2009, 4,6 ans en médiane : à 4,3 ans pour une naissance le 1er janvier 1965, à 4,6 ans pour le 1er janvier 1975, à 5,2 ans pour le 1er janvier 1985. Celui-là appartient à l’enfance, et ce site ne lit pas le thème des enfants ([Le thème des enfants](/astrology/childrens-charts/)) ; je le nomme seulement parce que le cycle commence là. Avant 80 ans, tout le monde a connu exactement cinq sextiles.
+Le premier est venu entre 3 ans et demi et 6 ans pour toutes les personnes nées de 1930 à 2009, 4,6 ans en médiane : une naissance le 1er janvier 1965 l’a connu à 4,3 ans, le 1er janvier 1975 à 4,6 ans, le 1er janvier 1985 à 5,2 ans. Celui-là appartient à l’enfance, et ce site ne lit pas le thème des enfants ([Le thème des enfants](/astrology/childrens-charts/)) ; je le nomme seulement parce que le cycle commence là. Avant 80 ans, tout le monde a connu exactement cinq sextiles.
 
 Dans le cycle, chaque sextile croissant précède de deux ans environ [Saturne en transit carré Saturne du thème natal](/astrology/transiting-saturn-square-natal-saturn/), puis viennent [Saturne en transit trigone Saturne du thème natal](/astrology/transiting-saturn-trine-natal-saturn/) et [Saturne en transit opposition Saturne du thème natal](/astrology/transiting-saturn-opposite-natal-saturn/) ([carrés et opposition de Saturne](/astrology/saturn-squares-and-opposition/)). Le sextile décroissant est la dernière étape avant le [retour de Saturne](/astrology/saturn-return/), cinq ans environ avant lui.
 

@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting Saturn trine natal Jupiter mean?"
     a: "Saturn now trines your birth Jupiter from 120° away. Growth and structure cooperate: what you have learned settles into competence, a belief becomes a practice, a long plan gets a realistic timetable. I read it as a favourable season for building something meant to last, with effort still required and nothing guaranteed."
   - q: "When does Saturn trine my natal Jupiter?"
-    a: "Two a round, the first at an age your birth year decides. The earliest first trines came in the first weeks of life and the latest at about 20½, with 7 the median for births from 1930 to 2009: within the first year or so for 1 January 1955 or 1975, at about 15 for 1 January 1965 or 1985."
+    a: "Two a round, the first dated by your birth year. The earliest first trines came in the first weeks of life and the latest at about 20½, with 7 the median for births from 1930 to 2009: within the first year or so for 1 January 1955 or 1975, at about 15 for 1 January 1965 or 1985."
   - q: "Is Saturn trine Jupiter a lucky transit?"
     a: "Luck isn’t how I read Jupiter, and no trine guarantees success. What this transit tends to give is easier cooperation between ambition and patience, so that a plan, a study or a project grows on solid ground. It favours work you choose to do; it doesn’t replace it."
 sources:

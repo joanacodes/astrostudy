@@ -2,7 +2,7 @@
 title: "Saturne en transit trigone Mercure du thème natal"
 slug: "saturne-transit-trigone-mercure-natal"
 h1: "Saturne en transit trigone Mercure de votre thème natal"
-description: "Saturne en transit trigone Mercure du thème natal : neuf mois où l’étude patiente et les mots pesés viennent plus facilement. Quand, combien de temps."
+description: "Saturne en transit trigone Mercure du thème natal : neuf mois où l’étude patiente et les mots pesés viennent mieux, cinq ou six fois dans une vie."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Mercure", "trigone", "transits"]
 weight: 1634
 glyph: "♄△☿"
-definition: "Saturne en transit trigone Mercure du thème natal, c’est Saturne à 120° du degré qu’occupait Mercure à votre naissance, une dizaine d’années après son passage sur ce point et une dizaine avant son retour. La pensée ralentit et se pose : bon pour l’étude longue, l’écriture soignée, les projets par étapes. J’y lis un vent porteur, jamais un résultat promis."
+definition: "Saturne en transit trigone Mercure du thème natal, c’est la saison où Saturne se tient à 120° de votre Mercure de naissance, dix ans environ après son passage, puis dix ans avant son retour. La pensée ralentit et se pose : bon pour l’étude longue, l’écriture soignée, les projets par étapes. J’y lis un temps favorable, sans résultat promis."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Mercure ☿ : votre façon de penser, d’apprendre et de parler" }
@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/mercury", "/astrology/trine", "/astrology/mercury-trine-saturn", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit trigone Mercure du thème natal ?"
-    a: "Saturne, dans le ciel, se trouve à 120° de la position de Mercure à votre naissance. Votre façon de penser et de parler reçoit l’appui d’une structure : la concentration vient plus facilement, une méthode prend forme, et un travail qui demande des mois d’attention devient possible. J’y lis une bonne saison pour le travail patient de l’esprit, sans résultat promis."
+    a: "Saturne a atteint un trigone, 120°, avec le degré qu’occupait Mercure à votre naissance. Votre façon de penser et de parler reçoit l’appui d’une structure : la concentration vient plus facilement, une méthode prend forme, et un travail qui demande des mois d’attention devient possible. J’y lis une bonne saison pour le travail patient de l’esprit, sans résultat promis."
   - q: "Combien de temps dure Saturne trigone Mercure ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, neuf mois environ en général. Dans un peu plus de la moitié de ces transits, Saturne fait une boucle et touche trois fois le trigone exact ; en un seul passage rapide, tout peut tenir en trois semaines. Ce trigone revient deux fois tous les 29 ans et demi."
+    a: "Neuf mois environ : le temps qu’il faut à Saturne pour aller de 1,5° avant le trigone exact à 1° au-delà. Plus d’une fois sur deux, Saturne revient en boucle et touche trois fois le point exact ; à pleine vitesse, un seul passage peut tenir en trois semaines. Ce trigone revient deux fois tous les 29 ans et demi."
   - q: "Saturne trigone Mercure, est-ce bon pour les études ?"
     a: "Ce transit convient aux études qui récompensent la constance : une longue formation, une langue, un diplôme, un livre qu’il faut lire lentement. Le trigone aide à garder une attention régulière. Ce n’est pas lui qui passe l’examen, et je ne lis jamais un transit pour un résultat, seulement pour le genre d’effort qu’il favorise."
 sources:
@@ -40,11 +40,11 @@ Concrètement, l’attention tient. Un sujet repoussé depuis des années devien
 
 Les transits en trigone passent facilement inaperçus, parce que rien ne force les choses. L’aisance n’a rien d’inévitable : si aucun travail ne commence, la saison passe simplement dans le calme.
 
-La maison de votre Mercure dit quelle part de la vie profite d’une pensée plus stable ; la maison que traverse Saturne dit d’où vient la structure. Saturne qui avance dans votre maison 10 ([Saturne en transit en maison 10](/astrology/saturn-transit-10th-house/)) en formant un trigone avec Mercure en maison 6 peut faire entrer des exigences professionnelles dans l’organisation de vos semaines de travail. Les deux maisons viennent de votre heure de naissance, et sans elle je ne lis pas ce transit du tout ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison de votre Mercure dit quelle part de la vie profite d’une pensée plus stable ; la maison que traverse Saturne dit d’où vient la structure. Saturne qui avance dans votre maison 10 ([Saturne en transit en maison 10](/astrology/saturn-transit-10th-house/)) en formant un trigone avec Mercure en maison 6 peut faire entrer des exigences professionnelles dans l’organisation de vos semaines de travail. Que votre Mercure soit en maison 6 ou de l’autre côté d’une cuspide peut tenir à quelques minutes d’heure de naissance, et sans cette heure je ne lis pas ce transit du tout ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
-Avec les orbes que j’utilise pour situer les choses dans le temps, 1,5° avant l’exactitude et 1° après, le trigone tient en général neuf mois environ. Dans un peu plus de la moitié des [transits](/astrology/transits/) de Saturne, une boucle rétrograde fait passer Saturne trois fois sur le trigone exact, et le transit s’étire alors sur neuf mois et demi environ ; un passage unique, à pleine vitesse, peut se terminer en trois semaines. Neuf mois suffisent pour commencer et finir une formation, à peu près l’échelle du travail que ce transit favorise.
+En comptant 1,5° avant l’exactitude et 1° après, comme je le fais pour situer les choses dans le temps, le trigone de Saturne à votre Mercure tient en général neuf mois environ. Dans un peu plus de la moitié des [transits](/astrology/transits/) de Saturne, une boucle rétrograde fait passer Saturne trois fois sur le trigone exact, et le transit s’étire alors sur neuf mois et demi environ ; un passage unique, à pleine vitesse, peut se terminer en trois semaines. Neuf mois suffisent pour commencer et finir une formation, à peu près l’échelle du travail que ce transit favorise.
 
 Avant 80 ans, toutes les personnes nées entre 1930 et 2009 l’ont rencontré cinq ou six fois. À l’aller, il se place entre [Saturne en transit carré Mercure du thème natal](/astrology/transiting-saturn-square-natal-mercury/) et [Saturne en transit opposition Mercure du thème natal](/astrology/transiting-saturn-opposite-natal-mercury/), et au retour entre les deux mêmes, dans l’autre ordre. [Saturne en transit sextile Mercure du thème natal](/astrology/transiting-saturn-sextile-natal-mercury/) en est le cousin plus léger, à deux signes du point au lieu de quatre, et [Saturne en transit conjonction Mercure du thème natal](/astrology/transiting-saturn-conjunct-natal-mercury/) ouvre et ferme chaque tour.
 

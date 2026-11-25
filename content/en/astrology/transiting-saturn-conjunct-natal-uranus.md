@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in orb with my orbs, the age at the first conjunction and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-The two rulers of Aquarius, the traditional and the modern, meet in your chart when Saturn crosses the degree your Uranus held at birth: first at an age your birth year decides, then every 29½ years or so. They meet on the spot where you most need room to be different, and for some months freedom is asked to take a form that can stand up.
+The part of your chart that most needs room to be different gets a visit from Saturn's rules when Saturn crosses the degree your Uranus held at birth: first at an age your birth year decides, then every 29½ years or so. For some months freedom is asked to take a form that can stand up.
 
 ## What changes {#what-changes}
 
@@ -44,7 +44,7 @@ Uranus spends about seven years in a sign, so your natal Uranus is shared with e
 
 ## How long it lasts {#how-long-it-lasts}
 
-Saturn sets the pace here: with my orbs, 1½° before exact and 1° after, it usually takes about nine months to cross your Uranus. In a little over half of its [transits](/astrology/transits/) it passes the exact degree three times, over about nine and a half months, which gives a reform time to be tried, doubted and confirmed; a single crossing at speed can take three weeks.
+Saturn alone decides the length here: with my orbs, 1½° before exact and 1° after, it usually takes about nine months to cross your Uranus. In a little over half of its [transits](/astrology/transits/) it passes the exact degree three times, over about nine and a half months, which gives a reform time to be tried, doubted and confirmed; a single crossing at speed can take three weeks.
 
 Natal Saturn and natal Uranus are both shared with people born close to you, so the first conjunction comes at nearly the same age for everyone born in the same months. It came at 27.4 for someone born on 1 January 1945, 20.6 for 1955, 13.9 for 1965, 7.9 for 1975 and 2 for 1985, then 25.1 for 1995 and 18.2 for 2005: the later the birth after a Saturn–Uranus meeting, the sooner it came, until the next meeting started the count again. The whole range, for births from 1930 to 2009, runs from the first weeks of life to 29, about 16 in the middle; then the conjunction returns once a round, two or three times by 80. Born in one of the meeting years, with [Saturn conjunct Uranus](/astrology/saturn-conjunct-uranus/) in your chart, you have this transit built into your Saturn return.
 

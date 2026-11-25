@@ -23,14 +23,14 @@ faq:
   - q: "What does Saturn sextile natal Jupiter mean?"
     a: "Two signs, about 60°, now separate Saturn from your birth Jupiter. What you want to learn, build or believe in gets the offer of structure: a training that leads somewhere, a plan with stages, a framework from someone experienced. Nothing is forced under a sextile, so I read it as a practical opening, useful if you take it up."
   - q: "When does Saturn sextile my natal Jupiter?"
-    a: "Twice in each Saturn round, at ages set by your birth year. Half of all births from 1930 to 2009 had met the first by about 7, and none waited past about 20: it came in the first two years for someone born on 1 January 1945 or 1965, at 14 to 16 for 1 January 1935 or 1975."
+    a: "Twice in each Saturn round, at ages set by your birth year. Someone born on 1 January 1945 or 1965 met the first in the first two years, someone born on 1 January 1935 or 1975 at 14 to 16; across births from 1930 to 2009 it never came later than about 20, and half had it by 7."
   - q: "Is Saturn sextile Jupiter lucky?"
     a: "I don’t read Jupiter as luck, and a sextile guarantees nothing. What this transit tends to offer is the means to make a hope workable: time, method, a structure, often someone who has done it before. It rewards the person who enrols, applies or starts; it doesn’t hand out results."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in orb with my orbs, the age at the first sextile and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-A plan that has lived only in your head gets offered the structure that would let it exist when Saturn sextiles your Jupiter, twice in each round of about 29½ years. It's a practical window, and an easy one to miss.
+A plan that has lived only in your head gets offered the structure that would let it exist when Saturn sextiles your Jupiter, two times in every 29½-year round. It's a practical window, and an easy one to miss.
 
 ## What changes {#what-changes}
 

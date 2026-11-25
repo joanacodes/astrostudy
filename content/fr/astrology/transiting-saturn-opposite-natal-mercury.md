@@ -2,7 +2,7 @@
 title: "Saturne en transit opposition Mercure du thème natal"
 slug: "saturne-transit-opposition-mercure-natal"
 h1: "Saturne en transit opposition Mercure de votre thème natal"
-description: "Saturne en transit opposition Mercure du thème natal : tous les 29 ans et demi, vos idées et vos mots face aux exigences des autres. Sa durée, ce qui aide."
+description: "Saturne en transit opposition Mercure du thème natal : vos idées et vos mots face aux exigences des autres, au point le plus éloigné du cycle. Comment répondre."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Mercure", "opposition", "transits"]
 weight: 1635
 glyph: "♄☍☿"
-definition: "Saturne en transit opposition Mercure du thème natal, c’est Saturne à 180° du degré qu’occupait Mercure à votre naissance, une quinzaine d’années après son passage. Ce que vous pensez et dites rencontre les règles, les délais et le jugement des autres. J’y lis une saison où l’on rend compte de ses idées, jamais un verdict sur elles."
+definition: "Saturne en transit opposition Mercure du thème natal, c’est le moment où Saturne, une quinzaine d’années après avoir franchi votre Mercure de naissance, se tient à 180° de ce degré. Vos pensées et vos mots rencontrent les règles, les délais et le jugement des autres. J’y lis une saison pour rendre compte de vos idées, jamais un verdict sur elles."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Mercure ☿ : votre façon de penser, d’apprendre et de parler" }
@@ -40,7 +40,7 @@ Cela peut ressembler à une copie qu’on corrige. Une proposition revient avec 
 
 Contrats, négociations et papiers reviennent souvent, et je ne rends aucun verdict à leur sujet. Je ne lis pas l’issue d’un accord, d’un examen ou d’un litige ([L’astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)).
 
-Les deux maisons de l’axe montrent ce qui est pesé. Avec Mercure en maison 1 et Saturne qui traverse votre maison 7 ([Saturne en transit en maison 7](/astrology/saturn-transit-7th-house/)), votre façon de dire les choses rencontre les conditions d’une ou d’un partenaire, d’une associée ou d’un associé. Placer ces maisons demande votre heure de naissance, et sans elle, pas de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les deux maisons de l’axe montrent ce qui est pesé. Avec Mercure en maison 1 et Saturne qui traverse votre maison 7 ([Saturne en transit en maison 7](/astrology/saturn-transit-7th-house/)), votre façon de dire les choses rencontre les conditions d’une ou d’un partenaire, d’une associée ou d’un associé. C’est l’heure de naissance qui me dit si Mercure est dans votre maison 1 et non dans votre maison 12 ; sans elle, l’axe ne peut pas se tracer, et je ne fais pas de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
