@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/4th-house", "/astrology/1st-house", "/astrology/imum-coeli", "/astrology/house-rulers"]
 faq:
   - q: "What does a chart ruler in the 4th house mean?"
-    a: "The planet of your rising sign sits in the house of home, roots and family. Your life tends to keep its centre in private: in the home you make, the people you belong to and the past you carry. Much of who you are gets worked out away from view."
+    a: "Your life keeps its centre in private. With your chart ruler at the bottom of the chart, among home, roots and family, much of who you are gets worked out away from view: in the home you make, with the people you belong to and the past you carry."
   - q: "Does the ruler of the 1st in the 4th house mean I will stay close to my family?"
     a: "Not necessarily. It describes where your sense of self is anchored, and that can be a home you built far from where you started, or a family of your own choosing. It doesn’t predict where you’ll live, or how close you’ll be to anyone."
   - q: "Is a chart ruler in the 4th house hidden?"
@@ -31,9 +31,9 @@ With the planet of your rising sign in the 4th house, your chart ruler sits at t
 
 ## What it means {#what-it-means}
 
-Your [chart ruler](/astrology/chart-ruler/) is the planet that rules the sign on the cusp of the [1st house](/astrology/1st-house/), and its house shows where your life tends to gather ([house rulers](/astrology/house-rulers/)). The [4th house](/astrology/4th-house/) is the ground you stand on: the home you grew up in and the one you make, family and belonging, the past you carry, and the private self only the closest people see. Tradition added land and houses, the things that stay put.
+Your [chart ruler](/astrology/chart-ruler/), the planet that rules the sign on the cusp of the [1st house](/astrology/1st-house/), has made its home in the [4th house](/astrology/4th-house/) ([house rulers](/astrology/house-rulers/)): the ground you stand on, the home you grew up in and the one you make, family and belonging, the past you carry, and the private self only the closest people see. Tradition added land and houses, the things that stay put.
 
-I read it as a life rooted in private. You tend to find yourself at home more than out in the world: around your own table, in the place you've made yours, with the people who knew you before you had a job title. Much of who you are gets worked out where nobody's watching, and it can take others a while to see the depth of it. Building a home, in any sense, can be a large part of your life's work: a house, a family of choice, a culture you keep alive, a place to come back to. When it's hard, it's usually because the past weighs more than you'd like, and you have to sort what you were handed from what you choose to keep.
+Here, life takes root in private. You tend to find yourself at home more than out in the world: around your own table, in the place you've made yours, with the people who knew you before you had a job title. Much of who you are gets worked out where nobody's watching, and it can take others a while to see the depth of it. Building a home, in any sense, can be a large part of your life's work: a house, a family of choice, a culture you keep alive, a place to come back to. When it's hard, it's usually because the past weighs more than you'd like, and you have to sort what you were handed from what you choose to keep.
 
 On the family side I tread carefully. Your chart ruler here says how home felt, and feels, to you from the inside. It doesn't describe your mother or your father, who are people with lives, and charts, of their own.
 
@@ -41,8 +41,8 @@ Both houses are angular. The 1st begins at the [Ascendant](/astrology/ascendant/
 
 The planet and its sign colour the home. The Moon, ruling a Cancer Ascendant from the 4th, sits in the house that matches its own sign in the [natural zodiac](/astrology/natural-zodiac/), and home becomes the main source of both your moods and your calm. Saturn, ruling Capricorn rising, stands opposite the 10th, the house it is matched with, and tends to build a home the way it builds anything: slowly, carefully, for the long run.
 
-The cusps decide all this, and the cusps need the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). A ruler near the edge of the 4th can be moved by a few minutes either way: into the 3rd, where your life runs through talk and the near at hand ([Ruler of the 1st in the 3rd house](/astrology/1st-house-ruler-in-3rd-house/)), or into the 5th, where you come alive through play, love and the things you make ([Ruler of the 1st in the 5th house](/astrology/1st-house-ruler-in-5th-house/)).
+Whether your ruler is really underground in the 4th, rather than in a house either side, is a question for the birth time ([what changes without a birth time](/blog/unknown-birth-time/)): near the edge, a few minutes can move it into the 3rd, where your life runs through talk and the near at hand ([Ruler of the 1st in the 3rd house](/astrology/1st-house-ruler-in-3rd-house/)), or into the 5th, where you come alive through play, love and the things you make ([Ruler of the 1st in the 5th house](/astrology/1st-house-ruler-in-5th-house/)).
 
-With Scorpio, Aquarius or Pisces rising, two planets share the job, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). One of them at home in the 4th and the other in a public house, the 10th say, makes a chart with two centres of gravity, and much of the reading is about how they take turns.
+With Scorpio, Aquarius or Pisces rising, two planets share the job, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): one at home in the 4th and the other in a public house, the 10th say, makes a chart with two centres of gravity, and much of the reading is about how home and the world take turns.
 
 Across the chart is the 10th, your public direction. With your ruler underneath it, a career or a public role can still matter a great deal. It tends to be built on a private base, and to make sense to you only while home holds.
