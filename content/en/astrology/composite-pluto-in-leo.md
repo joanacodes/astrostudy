@@ -32,7 +32,7 @@ Composite Pluto in Leo is the relationship Pluto of many pairs now in their late
 
 ## What it says about the two of you {#what-it-says}
 
-[Leo](/astrology/leo/), fixed fire ruled by the Sun, expresses, creates and lets itself be seen. Give [the composite chart](/astrology/composite-chart/) a Leo [Pluto](/astrology/pluto/) and the bond's deep changes come through what it makes and how openly it loves. Astrologers read a pair transformed by creating together, a business, a garden, a family tradition, a body of work with both names on it, and by the nerve it takes to stand up as a pair in front of others. What such a bond regenerates, it regenerates warmly: after a hard season it tends to come back by making something new.
+[Leo](/astrology/leo/), fixed fire ruled by the Sun, expresses, creates and lets itself be seen. Give [the composite chart](/astrology/composite-chart/) a Leo [Pluto](/astrology/pluto/) and the bond's deep changes come through what it makes and how openly it loves. It reads as a pair transformed by creating together, a business, a garden, a family tradition, a body of work with both names on it, and by the nerve it takes to stand up as a pair in front of others. What such a bond regenerates, it regenerates warmly: after a hard season it tends to come back by making something new.
 
 Its sore point is pride. A relationship that has put its heart on show can feel any setback others witness as a humiliation, and then hide, or fight to save face, rather than change. A stumble seen by friends is not a disgrace. Leo's ruler is the [Sun](/astrology/sun/), and the composite Sun, what the relationship organises itself around, shows where all this heat is aimed.
 
