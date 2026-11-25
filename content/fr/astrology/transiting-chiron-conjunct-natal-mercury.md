@@ -37,7 +37,7 @@ Chiron sur Mercure atteint la part de vous qui pense, parle et apprend. Une ou d
 
 ## Ce qui change {#ce-qui-change}
 
-[Mercure](/astrology/mercury/) traite et échange : c’est votre façon de recevoir les choses, de leur donner un sens et de les transmettre. [Chiron](/astrology/chiron/) marque une sensibilité restée en place et le savoir-faire bâti autour d’elle. Dans une [conjonction](/astrology/conjunction/), Chiron et Mercure partagent un degré : sous ce [transit](/astrology/transits/), la vieille sensibilité et votre façon de penser à voix haute deviennent un seul sujet pour un temps. Ce peut être le souvenir d’une parole coupée, d’une correction devant les autres, d’un jugement de lenteur, ou d’une question qu’on ne vous posait jamais. Ce peut être l’habitude qui en est née : trop expliquer, trop peu dire, écrire ce que vous ne pouvez pas dire.
+[Mercure](/astrology/mercury/) traite et échange : c’est votre façon de recevoir les choses, de leur donner un sens et de les transmettre. [Chiron](/astrology/chiron/) marque l’endroit où une difficulté d’écoute ou d’apprentissage est restée, et le savoir-faire bâti autour d’elle. Dans une [conjonction](/astrology/conjunction/), Chiron et Mercure partagent un degré : sous ce [transit](/astrology/transits/), la vieille sensibilité et votre façon de penser à voix haute deviennent un seul sujet pour un temps. Ce peut être le souvenir d’une parole coupée, d’une correction devant les autres, d’un jugement de lenteur, ou d’une question qu’on ne vous posait jamais. Ce peut être l’habitude qui en est née : trop expliquer, trop peu dire, écrire ce que vous ne pouvez pas dire.
 
 Ni le souvenir ni l’habitude ne disent quoi que ce soit de votre intelligence. Mercure décrit votre façon de traiter et d’échanger, pas une mesure de l’esprit. Ce que la conjonction offre souvent, c’est une autre méthode : une manière d’apprendre qui vous va, un moyen de dire la chose difficile, la patience d’expliquer à quelqu’un ce qu’il vous a fallu des années pour comprendre.
 
@@ -45,7 +45,7 @@ Avec Mercure en maison 3, Chiron franchit le degré de Mercure au cours de son s
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, près de deux passages sur trois font passer Chiron trois fois sur le degré de Mercure, sur dix mois et demi environ. Un sur trois environ est un franchissement unique d’à peu près trois semaines, et un sur vingt environ en compte cinq, sur vingt et un mois à peu près.
+Chiron franchit en général trois fois le degré de Mercure, dans près de deux passages sur trois, ce qui le garde dans mes orbes (de 1,5° avant l’exactitude à 1° après) pendant dix mois et demi environ. Un franchissement unique et plus rapide, de trois semaines environ, arrive dans un tiers des passages à peu près, et un passage à cinq franchissements, de quelque vingt et un mois, dans un sur vingt environ.
 
 Mercure ne s’éloigne jamais de plus de 28° environ du Soleil : ce transit tombe donc dans la même période que [Chiron en transit conjonction Soleil du thème natal](/astrology/transiting-chiron-conjunct-natal-sun/), avant ou après. Avec Chiron qui gagne quatre ou cinq degrés par an à travers le Taureau, les deux peuvent être séparés de six ans au plus ; là où Chiron avance vite, ils peuvent tomber la même année.
 

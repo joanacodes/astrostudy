@@ -47,7 +47,7 @@ Si de vieux sentiments arrivent avec plus de poids que vous ne pouvez en porter,
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, la conjonction dure en général une dizaine de mois : dans près de deux passages sur trois, Chiron revient en arrière et franchit trois fois votre Lune. Un passage sur trois environ la franchit une seule fois, en trois semaines à peu près, et un sur vingt environ cinq fois, sur vingt et un mois à peu près.
+La conjonction à votre Lune reste en général une dizaine de mois dans mes orbes, de 1,5° avant l’exactitude à 1° après, parce que dans près de deux passages sur trois Chiron revient en arrière et franchit le degré trois fois. Un tiers environ la franchit une seule fois, et la plupart de ces passages sont finis en moins d’un mois ; un sur vingt la franchit cinq fois et s’attarde la plus grande partie de deux ans.
 
 La Lune parcourt environ treize degrés par jour : une heure d’écart sur l’heure de naissance la déplace donc d’un demi-degré environ. Avec Chiron qui gagne quatre ou cinq degrés par an à travers le Taureau, ce demi-degré représente un mois ou plus d’écart sur le début et la fin du transit, et certains jours l’heure de naissance décide aussi du signe de la Lune ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)).
 

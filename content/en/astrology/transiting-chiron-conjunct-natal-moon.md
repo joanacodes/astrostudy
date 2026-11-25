@@ -46,7 +46,7 @@ If old feelings arrive with more weight than you can carry, tell a therapist or 
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the conjunction usually lasts about ten months: in nearly two passes out of three, Chiron loops back and crosses your Moon three times. A third or so cross once, and most of those are over within a month; one in twenty crosses five times and lingers for most of two years.
+The conjunction to your Moon usually stays about ten months inside my orbs, 1½° before exact to 1° after, because in nearly two passes out of three Chiron loops back and crosses the degree three times. A third or so cross once, and most of those are over within a month; one in twenty crosses five times and lingers for most of two years.
 
 The Moon covers about thirteen degrees a day, so an hour of birth time moves it about half a degree. With Chiron gaining four or five degrees a year through Taurus, that half degree is a month or more of difference in when this begins and ends, and on some days the birth time decides the Moon's sign as well ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)).
 

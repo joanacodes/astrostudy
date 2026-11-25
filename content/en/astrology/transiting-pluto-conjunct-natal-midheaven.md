@@ -42,13 +42,13 @@ At the top of your birth chart sits the Midheaven, the degree that was crossing 
 
 Pluto at the top of the chart also asks about authority, the kind you hold and the kind you answer to. Power that comes with responsibility tends to hold up under it; power without responsibility gets harder to keep, yours included. Being seen in depth can feel like exposure at first, but exposure isn't humiliation, and a reputation that rests on what you really do is one of the things this transit can leave behind.
 
-The same Pluto opposes your [IC](/astrology/imum-coeli/), the foundation your public life rests on, so a change of course asks something of home and roots as well. In Placidus, the house system I use, the 10th house begins at the Midheaven, and this crossing opens Pluto's long stay there ([Pluto transiting the 10th house](/astrology/pluto-transit-10th-house/)).
+The same Pluto opposes your [IC](/astrology/imum-coeli/), the foundation your public life rests on, so a change of course asks something of home and roots as well. The Midheaven is also where your 10th house begins in Placidus, the house system I use, so this crossing starts Pluto's long stay in that house ([Pluto transiting the 10th house](/astrology/pluto-transit-10th-house/)).
 
 None of this tells me whether you'll be promoted, change jobs or lose one. The Midheaven covers far more than paid work, and I don't claim to see events coming ([disclaimers](/disclaimers/#claims)): what I can read is the climate around your direction, and the choices stay yours.
 
 ## How long it lasts {#how-long-it-lasts}
 
-From 1½° before exact to 1° after, the orbs I use for timing, Pluto holds your Midheaven for about two years and eight months. It can take as little as twenty-two months, and nearer three years and seven months when its yearly loops make five exact crossings instead of three, as they do in about two passes out of five.
+Pluto holds your Midheaven for about two years and eight months within the orbs I use for timing, 1½° before exact to 1° after. It can take as little as twenty-two months, and nearer three years and seven months when its yearly loops make five exact crossings instead of three, as they do in about two passes out of five.
 
 More than half of people born between 1930 and 2009 never meet it by 80; the rest meet it once, now and then in two separate spells. Its square ([Transiting Pluto square natal Midheaven](/astrology/transiting-pluto-square-natal-midheaven/)) is the contact with the Midheaven that most people meet, about seven in eight, ahead of the sextile ([Transiting Pluto sextile natal Midheaven](/astrology/transiting-pluto-sextile-natal-midheaven/)) and the trine ([Transiting Pluto trine natal Midheaven](/astrology/transiting-pluto-trine-natal-midheaven/)), about three in four each, while the opposition ([Transiting Pluto opposite natal Midheaven](/astrology/transiting-pluto-opposite-natal-midheaven/)), Pluto on the IC, is as rare as this crossing.
 

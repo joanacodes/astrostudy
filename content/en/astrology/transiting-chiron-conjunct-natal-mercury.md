@@ -36,7 +36,7 @@ Chiron on your Mercury reaches the part of you that thinks, speaks and learns. O
 
 ## What changes {#what-changes}
 
-[Mercury](/astrology/mercury/) processes and exchanges: it's how you take things in, make sense of them and pass them on. [Chiron](/astrology/chiron/) marks a sensitivity that stayed and the skill you built around it. In a [conjunction](/astrology/conjunction/), Chiron and Mercury share a degree, so under this [transit](/astrology/transits/) the old sensitivity and your way of thinking aloud become one subject for a while. It might be a memory of being talked over, corrected in front of others, told you were slow, or never asked what you thought. It might be the habit that grew from it: explaining too much, saying too little, writing what you can't say.
+[Mercury](/astrology/mercury/) processes and exchanges: it's how you take things in, make sense of them and pass them on. [Chiron](/astrology/chiron/) marks where a difficulty with being heard or learning stayed, and the skill you built around it. In a [conjunction](/astrology/conjunction/), Chiron and Mercury share a degree, so under this [transit](/astrology/transits/) the old sensitivity and your way of thinking aloud become one subject for a while. It might be a memory of being talked over, corrected in front of others, told you were slow, or never asked what you thought. It might be the habit that grew from it: explaining too much, saying too little, writing what you can't say.
 
 Neither the memory nor the habit says anything about how clever you are. Mercury describes how you process and exchange, not a measure of intelligence. What the conjunction tends to offer is a different method: a way of learning that suits you, a medium that lets you say the hard thing, the patience to explain to someone else what took you years to work out.
 
@@ -44,7 +44,7 @@ With Mercury in the 3rd, Chiron crosses it during its stay in that house ([Chiro
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, 1½° before exact to 1° after, nearly two passes in three take Chiron over your Mercury three times, over about ten and a half months. About one in three is a single crossing of some three weeks, and about one in twenty crosses five times, over twenty-one months or so.
+Chiron usually crosses your Mercury three times, in nearly two passes out of three, which keeps it within my orbs (1½° before exact to 1° after) for about ten and a half months. A single, quicker crossing of about three weeks happens in roughly a third of passes, and a five-crossing one of some twenty-one months in about one in twenty.
 
 Mercury is never more than about 28° from the Sun, so this transit comes in the same stretch of years as [transiting Chiron conjunct natal Sun](/astrology/transiting-chiron-conjunct-natal-sun/), before it or after it. With Chiron gaining four or five degrees a year through Taurus, the two can be up to six years apart; where Chiron moves fast, they can fall in the same year.
 

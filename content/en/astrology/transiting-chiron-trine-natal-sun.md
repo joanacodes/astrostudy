@@ -52,7 +52,7 @@ At the end of 2026, from the last degrees of Aries, the trine falls on birthdays
 
 ## What helps {#what-helps}
 
-Teach one thing you learned the hard way, to one person, in plain words.
+Explain one hard-won lesson to one person, plainly, as you wish someone had explained it to you.
 
 Make something from it that can outlast the transit: a page of writing, a talk, a method someone else can follow.
 
