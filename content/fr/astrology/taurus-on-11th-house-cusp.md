@@ -31,7 +31,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "Vénus, maître du Taureau et de la Balance" }
   - { title: "Vettius Valens, Anthologies", note: "la maison 11, le Génie favorable, et la joie de Jupiter" }
 ---
-Avec le Taureau sur la cuspide de la maison 11, l’amitié est quelque chose que l’on entretient. La maison de l’appartenance, et de l’avenir que l’on bâtit avec d’autres, s’ouvre ici dans le signe de la continuité, et ce qu’elle rassemble, elle le garde volontiers.
+Des amitiés entretenues, des groupes que l’on aide à durer : c’est le terrain du Taureau sur la cuspide de la maison 11. La maison de l’appartenance, et de l’avenir que l’on bâtit avec d’autres, s’ouvre ici dans le signe de la continuité, et ce qu’elle rassemble, elle le garde volontiers.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

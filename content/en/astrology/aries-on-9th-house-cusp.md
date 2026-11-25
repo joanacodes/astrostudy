@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Aries", "9th house", "house cusps"]
 weight: 2440
 glyph: "♈"
-definition: "Aries on the 9th house cusp means the house of long journeys, higher study and belief begins in Aries in your birth chart. You tend to trust ideas you’ve tried out yourself and to start a journey or a course of study with one decision. Mars, Aries’ ruler, shows by its house where your convictions are tested."
+definition: "Aries on the 9th house cusp means the house of long journeys, higher study and belief begins in Aries in your birth chart. You tend to trust ideas you’ve tried out yourself and to set off on a trip or a course of study with one decision. Mars, Aries’ ruler, shows by its house where your convictions are tested."
 facts:
   - { k: "Sign", v: "Aries ♈, cardinal fire" }
   - { k: "Cusp", v: "The 9th house: long journeys, study, belief, meaning" }
@@ -22,7 +22,7 @@ faq:
   - q: "What does Aries on the 9th house cusp mean?"
     a: "That the house of long journeys, study and belief begins in Aries. You tend to trust convictions you’ve tested in your own life, to choose your own teachers and subjects, and to set out once you’ve decided rather than wait for the perfect plan. Mars rules the house; its place in your chart shows where those convictions meet real life."
   - q: "Does Aries on the 9th house cusp mean I’ll live abroad?"
-    a: "No placement can decide that. With Aries on the 9th, other places, languages and ideas tend to pull at you as things to try rather than read about, and a journey can start with a single decision. Whether you go, and where, depends on your life, not on the chart."
+    a: "No placement can decide that. With Aries on the 9th, other places, languages and ideas tend to pull at you as things to try rather than read about, and a trip can begin with a single decision. Whether you go, and where, depends on your life, not on the chart."
   - q: "What does Mars as ruler of the 9th house mean?"
     a: "The house Mars sits in shows where your beliefs and your search for meaning are lived out, and its sign gives them their manner. With Aries on the 9th, Scorpio usually sits on the IC, so Mars also shares the rule of your 4th with Pluto: what you believe and where you feel rooted answer to the same planet."
 sources:

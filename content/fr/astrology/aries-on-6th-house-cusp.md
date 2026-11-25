@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Bélier", "maison 6", "cuspides des maisons"]
 weight: 2437
 glyph: "♈"
-definition: "Le Bélier sur la cuspide de la maison 6 signifie que la maison du travail quotidien, des habitudes et du soin du corps commence en Bélier. Vous travaillez en lançant les choses et entretenez votre énergie en bougeant. Mars gouverne cette maison, celle que la tradition lui donnait pour joie."
+definition: "Le Bélier sur la cuspide de la maison 6 signifie que la maison du travail quotidien, des habitudes et du soin du corps commence en Bélier. Vous travaillez en lançant les choses et entretenez votre énergie en bougeant. Mars gouverne cette maison, où la tradition plaçait sa joie."
 facts:
   - { k: "Signe", v: "Bélier ♈, feu cardinal" }
   - { k: "Cuspide", v: "Maison 6 : le travail quotidien, les habitudes, le soin du corps" }

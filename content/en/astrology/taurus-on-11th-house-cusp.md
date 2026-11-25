@@ -30,7 +30,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Venus as the ruler of Taurus and Libra" }
   - { title: "Vettius Valens, Anthology", note: "the 11th house, the Good Spirit, and the joy of Jupiter there" }
 ---
-Friendship, with Taurus on the 11th house cusp, is something you keep in good repair. The house of belonging, and of the future you build with other people, opens here in the sign of continuity, and what it gathers, it tends to keep.
+Friendships kept in good repair, groups you help to last: that's the territory of Taurus on the 11th house cusp. The house of belonging, and of the future you build with other people, opens here in the sign of continuity, and what it gathers, it tends to keep.
 
 ## What it means {#what-it-means}
 

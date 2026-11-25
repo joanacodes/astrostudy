@@ -31,7 +31,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mars, maître du Bélier et du Scorpion" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’ascendant et le descendant, et le temps que met chaque signe à franchir l’horizon" }
 ---
-Avec le Bélier sur la cuspide de la maison 7, le premier signe du zodiaque se trouve au point où votre thème se tourne vers l’autre. La maison 7 commence au [descendant](/astrology/descendant/), à l’opposé de l’ascendant : cette cuspide va donc toujours avec l'[ascendant Balance](/astrology/libra-rising/), le premier couple du zodiaque, Bélier et Balance, posé sur votre horizon dans l’autre sens.
+Avec le Bélier sur la cuspide de la maison 7, le premier signe du zodiaque se trouve au point où votre thème se tourne vers l’autre. La maison 7 commence au [descendant](/astrology/descendant/), à l’opposé de l’ascendant : cette cuspide va donc toujours avec l’[ascendant Balance](/astrology/libra-rising/), le premier couple du zodiaque, Bélier et Balance, posé sur votre horizon dans l’autre sens.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
