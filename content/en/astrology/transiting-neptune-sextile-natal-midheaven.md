@@ -26,7 +26,7 @@ faq:
   - q: "How long does Neptune sextile the Midheaven last?"
     a: "About two and a half years within my orbs, from 1½° before exact to 1° after, and about twenty-two months in the shortest passes. Three exact hits are the rule; roughly one pass in four brings five, because Neptune loops back over the degree each year as it turns retrograde."
   - q: "Why do some people get Neptune sextile Midheaven twice?"
-    a: "Every Midheaven has two sextiles, a third of the zodiac apart, and Neptune covers almost half the zodiac in 80 years. Born with Neptune near your Descendant, you meet both, with the conjunction to your Midheaven between them; born with it close to your Ascendant, you meet neither, like about 1 person in 6."
+    a: "Because of the hour they were born. With Neptune setting at your birth, near your Descendant, Neptune’s slow road passes the first sextile to your Midheaven, then the Midheaven itself, then the second sextile, all within 80 years. With Neptune rising at your birth, neither sextile comes in time, as for about 1 person in 6."
   - q: "Does Neptune sextile Midheaven bring a new job?"
     a: "A transit doesn’t bring or take away a job. This one describes a climate in which your ideals and your public role can work together more easily: a change of emphasis within your work, a cause you add to it, a way of being seen that fits you better. What you do with it is yours."
 sources:
@@ -39,7 +39,7 @@ Two sextiles reach every Midheaven, one from around your 8th house on Neptune's 
 
 Your [Midheaven](/astrology/midheaven/) is the point of public actualisation: what you do that others see, and what it contributes. [Neptune](/astrology/neptune/) brings compassion, ideals and imagination. A [sextile](/astrology/sextile/), 60°, opens a door between the two that you have to walk through, so under this [transit](/astrology/transits/) an ideal finds an easier way into your work or your public role: a project with a purpose, a gentler kind of authority, a skill put at the service of something you believe in.
 
-The side it comes from colours the door. From around your 8th, on the way up, the opening often comes through what you share with others, commitments, trust, the depth of a collaboration ([Neptune transiting the 8th house](/astrology/neptune-transit-8th-house/)). From around your 12th, after the crossing, it comes through work done out of sight, care, solitude or retreat ([Neptune transiting the 12th house](/astrology/neptune-transit-12th-house/)). That second side answers the Midheaven's blind spot, underestimating the contributions nobody sees.
+On Neptune's climb to the top of the chart, the first sextile is cast from your 8th house, where commitments and trust run deep, and it tends to open through a collaboration ([Neptune transiting the 8th house](/astrology/neptune-transit-8th-house/)). The second, after the crossing, is cast from your 12th and opens through work no one watches: care, solitude, retreat ([Neptune transiting the 12th house](/astrology/neptune-transit-12th-house/)). That second side answers the Midheaven's blind spot, underestimating the contributions nobody sees.
 
 Nothing is handed over. A sextile describes a climate that helps if you act, and a role changed by an ideal is changed by you, not by the sky.
 
@@ -47,7 +47,7 @@ Nothing is handed over. A sextile describes a climate that helps if you act, and
 
 Each pass runs about two and a half years in my orbs, from 1½° before exact to 1° after, and about twenty-two months at its shortest, with three exact hits as a rule; roughly one pass in four brings five.
 
-In the count for births from 1930 to 2009, most people meet one of the two sextiles, some both and about 1 in 6 neither. Born with Neptune near your Descendant, from the late 6th to the 8th house, you meet both, with [transiting Neptune conjunct natal Midheaven](/astrology/transiting-neptune-conjunct-natal-midheaven/) between them. Born with Neptune close to your Ascendant, from about your 12th to your 2nd, you meet neither: Neptune has just passed one, and the other is too far round.
+The hour of birth sorts people here. Born within an hour or two of Neptune rising, with Neptune close to your Ascendant, you are among the 1 in 6, in the count for births from 1930 to 2009, who never meet either sextile: Neptune has just passed one, and the other is too far round. Born around Neptune's setting, near your Descendant, you meet both, with [transiting Neptune conjunct natal Midheaven](/astrology/transiting-neptune-conjunct-natal-midheaven/) between them. Most people, born at other hours, meet one.
 
 Both sextiles hang on the minute of birth. A Midheaven worked backwards from the events of your life would make this transit circular, the time fitted to the very years it is then read against, which is one reason I don't read from a rectified chart ([Rectification](/astrology/rectification/), [what changes without a birth time](/blog/unknown-birth-time/)).
 

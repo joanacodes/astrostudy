@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/venus", "/astrology/conjunction", "/astrology/venus-conjunct-pluto", "/astrology/pluto-transit-5th-house"]
 faq:
   - q: "Que veut dire Pluton en transit conjonction Vénus ?"
-    a: "Pluton franchit le degré de votre Vénus. J’y lis un long renouvellement de ce qui compte pour vous : ce que vous trouvez beau, qui et ce qui vous attire, ce qui mérite votre temps. Certains goûts s’approfondissent, d’autres s’en vont, et l’attirance peut se faire très forte. Ce transit décrit un changement en vous, pas un événement."
+    a: "Pluton passe sur la place exacte de votre Vénus. J’y lis un long renouvellement de ce qui compte pour vous : ce que vous trouvez beau, qui et ce qui vous attire, ce qui mérite votre temps. Certains goûts s’approfondissent, d’autres s’en vont, et l’attirance peut se faire très forte. Ce transit décrit un changement en vous, pas un événement."
   - q: "Est-ce que Pluton conjonction Vénus annonce une rencontre ?"
     a: "Je ne lis aucun transit comme l’annonce d’une rencontre, d’un coup de foudre ou d’une rupture. Vénus, c’est votre façon d’estimer et d’entrer en relation, pas une histoire d’amour qui attend son heure. Sous cette conjonction, l’attirance va plus profond, et ce que vous en faites reste à vous de le choisir."
   - q: "Combien de temps dure Pluton conjonction Vénus ?"

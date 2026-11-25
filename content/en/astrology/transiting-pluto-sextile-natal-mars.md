@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mars", "sextile", "transits"]
 weight: 1819
 glyph: "♇⚹♂"
-definition: "Transiting Pluto sextile natal Mars is Pluto 60° from your birth Mars for about two years and eight months, an opening about three people in four meet by 80. Effort put into something that matters tends to compound: training, rebuilding, a long project taken up at last. I read it as staying power on offer."
+definition: "Transiting Pluto sextile natal Mars is a 60° link between Pluto and your birth Mars lasting about two years and eight months, which about three people in four meet by 80. Effort put into something that matters tends to compound: training, rebuilding, a long project taken up at last. I read it as staying power on offer."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of empowerment and renewal" }
   - { k: "Natal point", v: "Mars ♂: initiative, effort and drive" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/mars", "/astrology/sextile", "/astrology/mars-sextile-pluto", "/astrology/pluto-transit-12th-house"]
 faq:
   - q: "What does transiting Pluto sextile natal Mars mean?"
-    a: "Pluto is 60° from your Mars. I read it as a long opening for deep, steady effort: the hard project you have circled for years, training for something long, a plan stripped back and rebuilt. Nothing happens unless you start. When you do, the effort tends to build on itself."
+    a: "Pluto has come within orb of 60° from your Mars. I read it as a long opening for deep, steady effort: the hard project you have circled for years, training for something long, a plan stripped back and rebuilt. Nothing happens unless you start. When you do, the effort tends to build on itself."
   - q: "How long does Pluto sextile Mars last?"
     a: "About two years and eight months with my orbs, from 1½° before exact to 1° after. Three passes in five cross the exact sextile three times; the others five times, and the longest of those run past four and a half years."
   - q: "Is Pluto sextile Mars good for starting something?"

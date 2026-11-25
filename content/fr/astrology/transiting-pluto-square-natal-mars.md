@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mars", "carré", "transits"]
 weight: 1820
 glyph: "♇□♂"
-definition: "Pluton en transit carré Mars du thème natal, c’est Pluton à 90° de votre Mars pendant environ deux ans et huit mois, un transit que sept personnes sur huit rencontrent avant 80 ans. Votre façon d’avancer bute sur une résistance que la force ne fait pas céder. J’y lis une friction qui apprend la mesure, jamais une prédiction de conflit."
+definition: "Pluton en transit carré Mars du thème natal signifie que Pluton forme un angle de 90° avec votre Mars, pendant environ deux ans et huit mois ; sept personnes sur huit connaissent ce transit avant 80 ans. Votre façon d’avancer bute sur une résistance que la force ne fait pas céder. J’y lis une friction qui apprend la mesure, jamais un conflit annoncé."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation et du pouvoir" }
   - { k: "Point natal", v: "Mars ♂ : l’affirmation, l’effort et les limites" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/mars", "/astrology/square", "/astrology/mars-square-pluto", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "Que veut dire Pluton en transit carré Mars ?"
-    a: "Pluton se tient à 90° de votre Mars. J’y lis une longue saison où l’effort rencontre une résistance : un projet qui ne bouge pas, une règle qu’on ne discute pas, une volonté aussi forte que la vôtre. Pousser plus fort marche rarement. Ce que ce carré construit, c’est la mesure, et des forces qui n’ont pas besoin de la contrainte."
+    a: "Pluton, dans le ciel, fait un angle de 90° avec votre Mars. J’y lis une longue saison où l’effort rencontre une résistance : un projet qui ne bouge pas, une règle qu’on ne discute pas, une volonté aussi forte que la vôtre. Pousser plus fort marche rarement. Ce que ce carré construit, c’est la mesure, et des forces qui n’ont pas besoin de la contrainte."
   - q: "Est-ce que Pluton carré Mars annonce des conflits ?"
     a: "Ce transit n’annonce ni dispute, ni accident, ni violence, et Mars n’est pas la colère : c’est votre élan. Sous ce carré, l’élan rencontre une friction, et la friction peut tourner au bras de fer ou à une meilleure façon de travailler, selon ce que vous en faites. Rien dans le transit n’en décide à votre place."
   - q: "Combien de temps dure Pluton carré Mars ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus courts. Trois passages sur cinq franchissent le carré exact trois fois, sur deux ans et sept mois environ ; les autres cinq fois, sur trois ans et sept mois environ."
+    a: "Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Pluton met environ deux ans et huit mois à franchir ce carré, ou vingt-deux mois environ pour les passages les plus courts. Trois passages sur cinq le franchissent trois fois, sur deux ans et sept mois environ ; les autres cinq fois, sur trois ans et sept mois environ."
   - q: "Quand vient le carré de Pluton à mon Mars ?"
     a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, le carré touche Mars en Taureau ou en Scorpion. Environ sept personnes sur huit nées entre 1930 et 2009 rencontrent l’un des deux carrés de Pluton à Mars avant 80 ans, et environ une sur huit jamais. Les années suivent le degré de votre Mars."
 sources:

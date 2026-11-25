@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/mars", "/astrology/conjunction", "/astrology/mars-conjunct-pluto", "/astrology/can-astrology-predict-health-problems"]
 faq:
   - q: "Que veut dire Pluton en transit conjonction Mars ?"
-    a: "Pluton franchit le degré de votre Mars. J’y lis une longue saison où l’effort prend le poids de Pluton : vous vous engagez plus pleinement, vous pouvez travailler plus longtemps à ce qui compte, et vous voulez que votre énergie change les choses à la racine. Tout l’enjeu est de bien viser."
+    a: "Pluton traverse votre Mars. J’y lis une longue saison où l’effort prend le poids de Pluton : vous vous engagez plus pleinement, vous pouvez travailler plus longtemps à ce qui compte, et vous voulez que votre énergie change les choses à la racine. Tout l’enjeu est de bien viser."
   - q: "Est-ce que la conjonction de Pluton à Mars est dangereuse ?"
     a: "Aucun transit n’est dangereux en soi, et je ne lis jamais celui-ci comme l’annonce d’un accident, d’une blessure, d’une maladie ou de violence. Mars, c’est votre élan, pas votre colère, et Pluton y ajoute de la profondeur, pas du mal. Le vrai risque est d’en faire trop : passer outre la fatigue parce que le but paraît urgent."
   - q: "Combien de temps dure Pluton conjonction Mars ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, environ deux ans et huit mois, et près de quatre ans pour les passages les plus longs. Trois passages sur cinq franchissent le degré exact trois fois ; les autres le franchissent cinq fois."
+    a: "Mesurée de 1,5° avant l’exactitude à 1° après, les orbes avec lesquelles je date, environ deux ans et huit mois ; les passages les plus longs atteignent presque quatre ans. Trois passages sur cinq franchissent le degré exact trois fois, les autres cinq fois, Pluton revenant deux fois en arrière."
   - q: "Quand vient la conjonction de Pluton à mon Mars ?"
     a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, la conjonction touche Mars en Verseau, signe que Mars traverse pendant six ou sept semaines environ tous les deux ans. Plus de la moitié des personnes nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans, et personne ne la rencontre deux fois."
 sources:

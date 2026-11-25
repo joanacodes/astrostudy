@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/venus", "/astrology/trine", "/astrology/venus-trine-pluto", "/astrology/pluto-transit-3rd-house"]
 faq:
   - q: "What does transiting Pluto trine natal Venus mean?"
-    a: "Pluto stands 120° from your Venus. I read it as a long, easy deepening of what you value: friendships settle into something you can lean on, a craft or a taste matures, and showing what you love costs less than usual. It works quietly, so it is easiest to see looking back."
+    a: "A trine, 120°, now separates Pluto from your Venus. I read it as a long, easy deepening of what you value: friendships settle into something you can lean on, a craft or a taste matures, and showing what you love costs less than usual. It works quietly, so it is easiest to see looking back."
   - q: "How long does Pluto trine Venus last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the quickest passes. Pluto crosses the exact trine three times in most passes, and five times in about two out of five."
+    a: "Pluto holds this trine within my orbs, 1½° before exact to 1° after, for about two years and eight months, and the quickest passes for about twenty-two months. It crosses the exact trine three times in most passes, and five times in about two out of five."
   - q: "Is Pluto trine Venus good for love?"
     a: "It suits bonds that are already there, because it helps them deepen without drama. I don’t read it as a promise of love or a forecast of anything happening between people. What it describes is ease in valuing and relating, and you decide where to put it."
   - q: "When will Pluto trine my Venus?"

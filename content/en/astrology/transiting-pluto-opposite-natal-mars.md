@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mars", "opposition", "transits"]
 weight: 1822
 glyph: "♇☍♂"
-definition: "Transiting Pluto opposite natal Mars is Pluto 180° from your birth Mars for about two years and eight months; more than half of people never meet it. Other people’s drive, ambition or anger becomes the measure of your own. I read it as learning to share strength and use it in proportion, never as a destiny of conflict."
+definition: "Transiting Pluto opposite natal Mars brings Pluto to the far side of the zodiac from your birth Mars for about two years and eight months; more than half of people never meet it. Other people’s drive, ambition or anger becomes the measure of your own. I read it as learning to share strength and use it in proportion, never as a destiny of conflict."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of power and transformation" }
   - { k: "Natal point", v: "Mars ♂: will, competition and defence" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/mars", "/astrology/opposition", "/astrology/mars-opposite-pluto", "/astrology/pluto-transit-7th-house"]
 faq:
   - q: "What does transiting Pluto opposite natal Mars mean?"
-    a: "Pluto has reached the point across from your Mars. I read it as a long season when you meet your own drive in someone else’s: a rival, a partner with a strong will, a negotiation with real stakes. It asks what your strength is for, and how to use it without needing to win everything."
+    a: "Pluto is opposite your Mars, 180° away. I read it as a long season when you meet your own drive in someone else’s: a rival, a partner with a strong will, a negotiation with real stakes. It asks what your strength is for, and how to use it without needing to win everything."
   - q: "Is Pluto opposite Mars dangerous?"
     a: "No transit is dangerous in itself, and none forecasts violence, an accident or an injury. Mars is your drive, and the opposition shows it to you through other people. If someone’s force or temper frightens you, that is a reason to get help and to keep yourself safe, never something a chart asks you to bear."
   - q: "How long does Pluto opposite Mars last?"

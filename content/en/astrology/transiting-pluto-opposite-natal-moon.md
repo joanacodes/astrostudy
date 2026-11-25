@@ -23,7 +23,7 @@ faq:
   - q: "What does Pluto opposite my natal Moon mean?"
     a: "Pluto has reached the point across the zodiac from your Moon. I read it as a long season in which what you need to feel safe is reflected back by the people you’re close to, often with some intensity, until you can say those needs plainly and share closeness on fairer terms."
   - q: "How long does Pluto opposite Moon last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the quickest passes. Pluto’s yearly retrograde loops take it over the exact opposition three times, or five times in about two passes out of five."
+    a: "From the moment Pluto comes within 1½° of the exact opposition until it is 1° past, my orbs, about two years and eight months; the quickest passes take about twenty-two months. Pluto’s yearly retrograde loops take it over the exact point three times, or five times in about two passes out of five."
   - q: "Does Pluto opposite the Moon mean a break-up?"
     a: "No. I never read a transit as a forecast of a break-up, or of anything else that happens to a relationship. What this opposition describes is pressure on how you attach and what you need from closeness. How a bond changes under it depends on the two people in it, not on the sky."
   - q: "When will Pluto oppose my Moon?"

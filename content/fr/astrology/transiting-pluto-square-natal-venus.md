@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Vénus", "carré", "transits"]
 weight: 1815
 glyph: "♇□♀"
-definition: "Pluton en transit carré Vénus du thème natal, c’est Pluton à 90° de votre Vénus pendant environ deux ans et huit mois, un transit que sept personnes sur huit rencontrent avant 80 ans. Les termes de vos attachements passent à un examen honnête. J’y lis une friction qui renouvelle vos valeurs, jamais une prédiction sur un lien."
+definition: "Pluton en transit carré Vénus du thème natal, c’est la planète de la profondeur à un quart de zodiaque de votre Vénus, environ deux ans et huit mois, le contact que sept personnes sur huit rencontrent avant 80 ans. Les termes de vos attachements passent à un examen honnête. J’y lis une friction qui renouvelle vos valeurs, jamais une prédiction sur un lien."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "Vénus ♀ : les valeurs, l’attachement et l’échange juste" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/venus", "/astrology/square", "/astrology/venus-square-pluto", "/astrology/pluto-transit-10th-house"]
 faq:
   - q: "Que veut dire Pluton en transit carré Vénus ?"
-    a: "Pluton se tient à 90° de votre Vénus. J’y lis une longue saison de friction autour de ce qui compte pour vous : les termes d’une amitié ou d’un couple, les plaisirs sur lesquels vous comptez, les goûts gardés par habitude. Ce qui résiste à un examen honnête s’approfondit souvent, et le reste peut partir."
+    a: "Pluton atteint le carré de votre Vénus. J’y lis une longue saison de friction autour de ce qui compte pour vous : les termes d’une amitié ou d’un couple, les plaisirs sur lesquels vous comptez, les goûts gardés par habitude. Ce qui résiste à un examen honnête s’approfondit souvent, et le reste peut partir."
   - q: "Est-ce que Pluton carré Vénus annonce une rupture ?"
     a: "Non. Je ne lis jamais un transit comme l’annonce d’une rupture, ni de la façon dont une relation tournera. Ce carré décrit une pression sur ce qui compte pour vous et sur votre façon de vous attacher. Deux personnes sous cette pression peuvent se rapprocher aussi bien que s’éloigner ; le ciel ne choisit pas."
   - q: "Combien de temps dure Pluton carré Vénus ?"

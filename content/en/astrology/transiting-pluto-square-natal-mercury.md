@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mercury", "square", "transits"]
 weight: 1810
 glyph: "♇□☿"
-definition: "Transiting Pluto square natal Mercury is Pluto 90° from your birth Mercury for about two years and eight months, a transit about seven people in eight meet by 80. A way of reasoning you relied on meets a question it can’t settle, and is rebuilt. I read it as friction that sharpens thinking, never as a mind under attack."
+definition: "Transiting Pluto square natal Mercury sets Pluto at right angles to your birth Mercury for about two years and eight months; about seven people in eight meet one of its two squares by 80. A way of reasoning you relied on meets a question it can’t settle, and is rebuilt. I read it as friction that sharpens thinking, never as a mind under attack."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Mercury ☿: reasoning, interpretation and speech" }
@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/mercury", "/astrology/square", "/astrology/mercury-square-pluto", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "What does transiting Pluto square natal Mercury mean?"
-    a: "Pluto stands 90° from your Mercury. I read it as a long season of pressure on how you think: a belief stops explaining what you see, a conversation keeps coming back, a decision won’t settle, and part of your reasoning is rebuilt. It is demanding work, and it leaves your thinking sharper."
+    a: "Pluto is at right angles to your Mercury, 90° away. I read it as a long season of pressure on how you think: a belief stops explaining what you see, a conversation keeps coming back, a decision won’t settle, and part of your reasoning is rebuilt. It is demanding work, and it leaves your thinking sharper."
   - q: "How long does Pluto square Mercury last?"
-    a: "With my orbs, from 1½° before exact to 1° after, about two years and eight months, and about twenty-two months in the shortest passes. Three passes in five cross the exact square three times, over about two years and seven months; the others five times, over about three years and seven months."
+    a: "In my timing, which counts from 1½° before exact to 1° after, about two years and eight months, and about twenty-two months in the briefest passes. Three passes in five cross the exact square three times, over about two years and seven months; the others five times, over about three years and seven months."
   - q: "Can Pluto square Mercury cause anxiety?"
     a: "A transit doesn’t cause anxiety, and Mercury isn’t anxiety either: it is how you process what you meet. Under this square some thoughts are hard to put down. If worry runs round for weeks, disturbs your sleep or frightens you, take it to a doctor; that matters more than any chart."
   - q: "When will Pluto square my Mercury?"

@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/mars", "/astrology/trine", "/astrology/mars-trine-pluto", "/astrology/pluto-transit-5th-house"]
 faq:
   - q: "Que veut dire Pluton en transit trigone Mars ?"
-    a: "Pluton se tient à 120° de votre Mars. J’y lis un long courant sous votre effort : vous récupérez plus vite, tenez plus longtemps et pouvez changer votre façon de travailler, ou ce pour quoi vous travaillez, avec moins de lutte que d’habitude. L’énergie est là pour servir, et elle récompense un but qui en vaut la peine."
+    a: "Pluton entre dans l’orbe d’un trigone à votre Mars. J’y lis un long courant sous votre effort : vous récupérez plus vite, tenez plus longtemps et pouvez changer votre façon de travailler, ou ce pour quoi vous travaillez, avec moins de lutte que d’habitude. L’énergie est là pour servir, et elle récompense un but qui en vaut la peine."
   - q: "Combien de temps dure Pluton trigone Mars ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus courts. Le mouvement rétrograde annuel de Pluton apporte trois passages exacts, ou cinq dans environ deux passages sur cinq."
+    a: "Pluton tient le trigone à Mars environ deux ans et huit mois dans mes orbes, de 1,5° avant l’exactitude à 1° après, et quelque vingt-deux mois dans les passages les plus courts. Le mouvement rétrograde annuel apporte trois passages exacts, ou cinq dans environ deux passages sur cinq."
   - q: "Est-ce que Pluton trigone Mars est bon pour le sport ou le travail ?"
     a: "Ce transit convient aux efforts longs de toute sorte, un programme d’entraînement autant qu’un projet exigeant, parce qu’il soutient l’endurance et le renouvellement régulier. Je ne prédis ni résultats ni quoi que ce soit sur la santé ; un trigone facilite le chemin sans choisir la destination. Ce que vous en faites dépend de votre but."
   - q: "Quand vient le trigone de Pluton à mon Mars ?"

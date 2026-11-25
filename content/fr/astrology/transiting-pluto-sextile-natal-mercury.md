@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/mercury", "/astrology/sextile", "/astrology/mercury-sextile-pluto", "/astrology/pluto-transit-9th-house"]
 faq:
   - q: "Que veut dire Pluton en transit sextile Mercure ?"
-    a: "Pluton se trouve à 60° de votre Mercure. J’y lis une longue ouverture pour une pensée plus profonde : des études, une recherche, un sujet enfin compris de l’intérieur, une conversation qui va plus loin que d’habitude. Rien n’arrive tout seul. Le sextile aide qui se met à chercher."
+    a: "Pluton se trouve désormais à 60° de votre Mercure. J’y lis une longue ouverture pour une pensée plus profonde : des études, une recherche, un sujet enfin compris de l’intérieur, une conversation qui va plus loin que d’habitude. Rien n’arrive tout seul. Le sextile aide qui se met à chercher."
   - q: "Combien de temps dure Pluton sextile Mercure ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, environ deux ans et huit mois, et vingt-deux mois environ pour les passages les plus courts. Avec les boucles rétrogrades, Pluton franchit le sextile exact trois fois en règle générale, et cinq fois dans environ deux passages sur cinq."
+    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, le sextile dure environ deux ans et huit mois, vingt-deux mois environ au plus court. Avec les boucles rétrogrades, Pluton franchit le sextile exact trois fois en règle générale, et cinq fois dans environ deux passages sur cinq."
   - q: "Est-ce que Pluton sextile Mercure est favorable aux études ?"
     a: "Ce transit convient bien à l’étude, surtout longue et exigeante : une recherche, un diplôme, un métier appris pour de bon. Je ne promets pas de résultats, puisqu’un sextile est une occasion et non une garantie. Ce qu’il donne, c’est un esprit prêt à rester avec un sujet difficile jusqu’à ce qu’il s’ouvre."
   - q: "Quand vient le sextile de Pluton à mon Mercure ?"

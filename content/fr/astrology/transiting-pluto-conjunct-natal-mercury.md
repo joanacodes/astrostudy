@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire Pluton en transit conjonction Mercure ?"
     a: "Pluton, dans le ciel, franchit le degré de votre Mercure. J’y lis une longue saison où la pensée va à la racine : un sujet peut s’emparer de vous, vous voulez les vraies raisons des choses, et certaines opinions de longue date sont déterrées et examinées. Ce transit change votre façon de penser plus que ce qui arrive."
   - q: "Combien de temps dure Pluton conjonction Mercure ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, environ deux ans et huit mois, et près de quatre ans pour les passages les plus longs. Trois passages sur cinq franchissent le degré exact trois fois ; les autres le franchissent cinq fois, Pluton repassant deux fois en arrière."
+    a: "Dans mes orbes, de 1,5° avant l’exactitude à 1° après, Pluton reste sur Mercure environ deux ans et huit mois, et les passages les plus longs durent près de quatre ans. Trois passages sur cinq franchissent le degré exact trois fois ; les autres cinq fois, Pluton repassant deux fois en arrière."
   - q: "Est-ce que Pluton conjonction Mercure peut tourner à l’obsession ?"
     a: "Ce transit peut rendre une question difficile à lâcher, et ce n’est pas une obsession. L’analyse n’est pas la rumination, et la profondeur n’est pas un trouble. Si vos pensées se mettent à tourner sans repos, ou vous empêchent de dormir, parlez-en à un médecin, quel que soit le transit."
   - q: "Quand vient la conjonction de Pluton à mon Mercure ?"

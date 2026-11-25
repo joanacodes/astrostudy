@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/jupiter", "/astrology/sextile", "/astrology/jupiter-sextile-pluto", "/astrology/pluto-transit-1st-house"]
 faq:
   - q: "What does transiting Pluto sextile natal Jupiter mean?"
-    a: "Pluto stands 60° from your Jupiter. I read it as a long opening for deeper understanding: a course you always meant to take, a mentor who knows more than you, a tradition or a body of work you finally go into properly. Nothing arrives by itself; the sextile helps whoever starts."
+    a: "In the sky, Pluto has reached 60° from where Jupiter stood when you were born. I read it as a long opening for deeper understanding: a course you always meant to take, a mentor who knows more than you, a tradition or a body of work you finally go into properly. Nothing arrives by itself; the sextile helps whoever starts."
   - q: "At what age does Pluto sextile Jupiter happen?"
     a: "It depends on your birth date, through the angle between Jupiter and Pluto when you were born. Someone born on 1 January 1985 met it at about 6, on 1 January 1955 at about 14, on 1 January 1995 at 31; born on 1 January 1965 or 2005, never by 80. The middle age is about 30."
   - q: "Does Pluto sextile Jupiter bring luck?"
     a: "Not as I read it. Jupiter is how you grow and make sense of things, not luck or money, and a sextile is an opportunity that needs engagement rather than a gift. What this one offers is depth for your beliefs and studies. What comes of it depends on the work you put in."
   - q: "How long does Pluto sextile Jupiter last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the quickest passes. Pluto crosses the exact sextile three times, or five times in about two passes out of five, as it loops back each year."
+    a: "With 1½° allowed before exact and 1° after, as in my timing, about two years and eight months, and roughly twenty-two months in the quickest passes. Pluto crosses the exact sextile three times, or five times in about two passes out of five, as it loops back each year."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the sextile lasts within my orbs, the ages it comes at, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Jupiter, read one by one" }

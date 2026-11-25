@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/venus", "/astrology/conjunction", "/astrology/venus-conjunct-pluto", "/astrology/pluto-transit-5th-house"]
 faq:
   - q: "What does transiting Pluto conjunct natal Venus mean?"
-    a: "Pluto is crossing the degree of your Venus. I read it as a long renewal of what you value: what you find beautiful, whom and what you are drawn to, what seems worth your time. Some tastes deepen, some fall away, and attraction can feel unusually strong. It describes a change in you, not an event."
+    a: "Pluto is passing over the exact place of your Venus. I read it as a long renewal of what you value: what you find beautiful, whom and what you are drawn to, what seems worth your time. Some tastes deepen, some fall away, and attraction can feel unusually strong. It describes a change in you, not an event."
   - q: "Does Pluto conjunct Venus mean meeting someone?"
     a: "I don’t read any transit as a forecast of meeting someone, falling in love or breaking up. Venus is how you value and relate, not a love story waiting to happen. Under this conjunction attraction runs deeper, and what you do with it stays yours to choose."
   - q: "How long does Pluto conjunct Venus last?"

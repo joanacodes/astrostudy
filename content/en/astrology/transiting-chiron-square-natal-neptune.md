@@ -5,6 +5,8 @@ description: "Transiting Chiron square natal Neptune: the hope that an old hurt 
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Chiron", "Neptune", "square", "transits"]
 weight: 1899
 glyph: "⚷□♆"
 definition: "Transiting Chiron square natal Neptune is Chiron in the sky 90° from the degree Neptune held at your birth, two to four times by 80. The wish for a cure, a rescuer or a perfect method rubs against a sore spot that stays. I read it as friction that turns longing into care you can give and receive."
@@ -45,7 +47,7 @@ A square links two quarters of your chart. Your Neptune's house shows what you i
 
 ## How long it lasts {#how-long-it-lasts}
 
-Chiron's speed sets the length, and the Capricorn-Neptune generation, born between 1984 and 1998, shows the range: their first square came in the mid-1990s, while Chiron hurried through Libra near its closest to the Sun, and their second while it lingered in Aries, between 2018 and 2027. Within my orbs, from 1½° before exact to 1° after, most squares last about ten months and cross the exact angle three times. The quickest, single crossings, take about three weeks; the slowest, with five exact hits, about twenty-one months.
+Chiron's speed sets the length, and the Capricorn-Neptune generation, born between 1984 and 1998, shows the range: their first square came in the mid-1990s, while Chiron hurried through Libra, and their second while it lingered in Aries, between 2018 and 2027. Within my orbs, from 1½° before exact to 1° after, most squares last about ten months and cross the exact angle three times. The quickest, single crossings, take about three weeks; the slowest, with five exact hits, about twenty-one months.
 
 Everyone has met the first square by about 36, at an age the birth year sets: about half a year for people born in 1935, about 7 for 1945, about 36 for 1955, about 28 for 1965, about 19 for 1975, about 11 for 1985, under 2 for 1995 and about 24½ for 2005. Most people meet three by 80, some two and some four. Next in line are those born between 1998 and 2012, whose first square comes from Chiron in Taurus, between 2026 and 2034.
 

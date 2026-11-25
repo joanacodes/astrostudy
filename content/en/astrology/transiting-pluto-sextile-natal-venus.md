@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/venus", "/astrology/sextile", "/astrology/venus-sextile-pluto", "/astrology/pluto-transit-2nd-house"]
 faq:
   - q: "What does transiting Pluto sextile natal Venus mean?"
-    a: "Pluto stands 60° from your Venus. I read it as a long opening to sort what you value: a bond can grow closer, a crowded life lighter, and tastes you took on to please others can be set down. Nothing is forced. The sextile makes these changes easier for whoever chooses them."
+    a: "Pluto now sits a sextile, about two signs, from your Venus. I read it as a long opening to sort what you value: a bond can grow closer, a crowded life lighter, and tastes you took on to please others can be set down. Nothing is forced. The sextile makes these changes easier for whoever chooses them."
   - q: "How long does Pluto sextile Venus last?"
-    a: "With my orbs, from 1½° before exact to 1° after, about two years and eight months, and about twenty-two months in the quickest passes. Pluto turns back over the point every year, so it crosses the exact sextile three times, or five times in about two passes out of five."
+    a: "My orbs, 1½° before exact and 1° after, give it about two years and eight months, and about twenty-two months when the passes are quick. Pluto turns back over the point every year, so it crosses the exact sextile three times, or five times in about two passes out of five."
   - q: "Is Pluto sextile Venus good for relationships?"
     a: "It can help a relationship become more honest, because it makes it easier to say what you prefer and to ask for what you need. I don’t read it as a promise of love or a forecast for any bond. It is an opening, and what happens depends on the people involved."
   - q: "When will Pluto sextile my Venus?"

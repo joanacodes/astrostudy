@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mercure", "carré", "transits"]
 weight: 1810
 glyph: "♇□☿"
-definition: "Pluton en transit carré Mercure du thème natal, c’est Pluton à 90° de votre Mercure pendant environ deux ans et huit mois, un transit que sept personnes sur huit rencontrent avant 80 ans. Un raisonnement familier bute sur une question qu’il ne sait pas régler, et se rebâtit. J’y lis une friction qui aiguise la pensée, jamais un esprit assiégé."
+definition: "Pluton en transit carré Mercure du thème natal place Pluton à angle droit de votre Mercure pendant environ deux ans et huit mois ; sept personnes sur huit rencontrent l’un de ses deux carrés avant 80 ans. Un raisonnement familier bute sur une question qu’il ne sait pas régler, et se rebâtit. J’y lis une friction qui aiguise la pensée."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "Mercure ☿ : le raisonnement, l’interprétation et la parole" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/mercury", "/astrology/square", "/astrology/mercury-square-pluto", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "Que veut dire Pluton en transit carré Mercure ?"
-    a: "Pluton se tient à 90° de votre Mercure. J’y lis une longue saison de pression sur votre façon de penser : une croyance n’explique plus ce que vous voyez, une conversation revient sans cesse, une décision refuse de se poser, et une part de votre raisonnement se rebâtit. C’est un travail exigeant, qui laisse la pensée plus aiguisée."
+    a: "Pluton forme un angle droit avec votre Mercure, à 90°. J’y lis une longue saison de pression sur votre façon de penser : une croyance n’explique plus ce que vous voyez, une conversation revient sans cesse, une décision refuse de se poser, et une part de votre raisonnement se rebâtit. C’est un travail exigeant, qui laisse la pensée plus aiguisée."
   - q: "Combien de temps dure Pluton carré Mercure ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, environ deux ans et huit mois, et vingt-deux mois environ pour les passages les plus courts. Trois passages sur cinq franchissent le carré exact trois fois, en deux ans et sept mois environ ; les autres cinq fois, en trois ans et sept mois environ."
+    a: "Dans ma façon de dater, qui compte de 1,5° avant l’exactitude à 1° après, environ deux ans et huit mois, et vingt-deux mois environ pour les passages les plus brefs. Trois passages sur cinq franchissent le carré exact trois fois, en deux ans et sept mois environ ; les autres cinq fois, en trois ans et sept mois environ."
   - q: "Est-ce que Pluton carré Mercure peut causer de l’anxiété ?"
     a: "Un transit ne cause pas d’anxiété, et Mercure n’est pas l’anxiété non plus : c’est votre façon de traiter ce que vous rencontrez. Sous ce carré, certaines pensées sont difficiles à lâcher. Si l’inquiétude tourne des semaines, trouble votre sommeil ou vous effraie, parlez-en à un médecin ; cela compte plus que n’importe quel thème."
   - q: "Quand vient le carré de Pluton à mon Mercure ?"

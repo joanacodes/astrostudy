@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/mercury", "/astrology/trine", "/astrology/mercury-trine-pluto", "/astrology/pluto-transit-6th-house"]
 faq:
   - q: "What does transiting Pluto trine natal Mercury mean?"
-    a: "Pluto stands 120° from your Mercury. I read it as a long, easy current under your thinking: study goes deeper, research comes together, and you can say difficult things simply. Nothing is forced. The understanding builds gradually, so it is easy to miss unless you look back."
+    a: "Pluto has reached a trine to your Mercury, 120° away. I read it as a long, easy current under your thinking: study goes deeper, research comes together, and you can say difficult things simply. Nothing is forced. The understanding builds gradually, so it is easy to miss unless you look back."
   - q: "How long does Pluto trine Mercury last?"
     a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and as little as twenty-two months. Pluto crosses the exact trine three times in most passes and five times in about two out of five, because it turns back over the degree each year."
   - q: "Is Pluto trine Mercury good for writing?"

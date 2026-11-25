@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/venus", "/astrology/sextile", "/astrology/venus-sextile-pluto", "/astrology/pluto-transit-2nd-house"]
 faq:
   - q: "Que veut dire Pluton en transit sextile Vénus ?"
-    a: "Pluton se tient à 60° de votre Vénus. J’y lis une longue ouverture pour trier ce qui a de la valeur : un lien peut se resserrer, une vie encombrée s’alléger, et des goûts pris pour faire plaisir peuvent être posés. Rien n’est forcé. Le sextile rend ces changements plus faciles à qui les choisit."
+    a: "Pluton se tient maintenant en sextile, à deux signes environ, de votre Vénus. J’y lis une longue ouverture pour trier ce qui a de la valeur : un lien peut se resserrer, une vie encombrée s’alléger, et des goûts pris pour faire plaisir peuvent être posés. Rien n’est forcé. Le sextile rend ces changements plus faciles à qui les choisit."
   - q: "Combien de temps dure Pluton sextile Vénus ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, environ deux ans et huit mois, et vingt-deux mois environ pour les passages les plus rapides. Pluton repasse en arrière sur le point chaque année : le sextile exact est donc franchi trois fois, ou cinq fois dans environ deux passages sur cinq."
+    a: "Mes orbes, 1,5° avant l’exactitude et 1° après, lui donnent environ deux ans et huit mois, et vingt-deux mois environ quand les passages sont rapides. Pluton repasse en arrière sur le point chaque année : le sextile exact est donc franchi trois fois, ou cinq fois dans environ deux passages sur cinq."
   - q: "Est-ce que Pluton sextile Vénus est bon pour le couple ?"
     a: "Ce transit peut aider une relation à devenir plus honnête, parce qu’il rend plus facile de dire ce que vous préférez et de demander ce dont vous avez besoin. Je ne le lis ni comme une promesse d’amour ni comme une prédiction pour un lien. C’est une ouverture, et la suite dépend des personnes concernées."
   - q: "Quand vient le sextile de Pluton à ma Vénus ?"

@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire Pluton en opposition à ma Lune natale ?"
     a: "Pluton a atteint le point du zodiaque opposé à votre Lune. J’y lis une longue saison où ce dont vous avez besoin pour vous sentir en sécurité vous est renvoyé par vos proches, souvent avec intensité, jusqu’à ce que vous puissiez dire ces besoins simplement et partager la proximité à des conditions plus justes."
   - q: "Combien de temps dure Pluton opposition Lune ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus rapides. Les boucles rétrogrades de chaque année font franchir à Pluton l’opposition exacte trois fois, ou cinq fois dans environ deux passages sur cinq."
+    a: "Du moment où Pluton arrive à 1,5° de l’opposition exacte jusqu’à 1° après, mes orbes, environ deux ans et huit mois ; les passages les plus rapides durent vingt-deux mois environ. Les boucles rétrogrades de chaque année font franchir le point exact trois fois, ou cinq fois dans environ deux passages sur cinq."
   - q: "Est-ce que Pluton opposition Lune annonce une rupture ?"
     a: "Non. Je ne lis jamais un transit comme l’annonce d’une rupture, ni de quoi que ce soit qui arrive à une relation. Cette opposition décrit une pression sur votre façon de vous attacher et sur ce que vous attendez de la proximité. Ce que devient un lien dépend des deux personnes qui le vivent, pas du ciel."
   - q: "Quand vient l’opposition de Pluton à ma Lune ?"

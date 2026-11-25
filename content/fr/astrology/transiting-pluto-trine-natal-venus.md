@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/venus", "/astrology/trine", "/astrology/venus-trine-pluto", "/astrology/pluto-transit-3rd-house"]
 faq:
   - q: "Que veut dire Pluton en transit trigone Vénus ?"
-    a: "Pluton se tient à 120° de votre Vénus. J’y lis un long approfondissement, facile, de ce qui compte pour vous : les amitiés deviennent des appuis, un savoir-faire ou un goût mûrit, et montrer ce que vous aimez coûte moins que d’habitude. Ce transit agit sans bruit, si bien qu’on le voit surtout après coup."
+    a: "Un trigone, 120°, sépare maintenant Pluton de votre Vénus. J’y lis un long approfondissement, facile, de ce qui compte pour vous : les amitiés deviennent des appuis, un savoir-faire ou un goût mûrit, et montrer ce que vous aimez coûte moins que d’habitude. Ce transit agit sans bruit, si bien qu’on le voit surtout après coup."
   - q: "Combien de temps dure Pluton trigone Vénus ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus rapides. Pluton franchit le trigone exact trois fois dans la plupart des passages, et cinq fois dans environ deux sur cinq."
+    a: "Pluton tient ce trigone dans mes orbes, de 1,5° avant l’exactitude à 1° après, pendant environ deux ans et huit mois, et vingt-deux mois environ pour les passages les plus rapides. Le trigone exact est franchi trois fois dans la plupart des passages, et cinq fois dans environ deux sur cinq."
   - q: "Est-ce que Pluton trigone Vénus est bon pour l’amour ?"
     a: "Ce transit convient aux liens déjà là, parce qu’il les aide à s’approfondir sans drame. Je ne le lis ni comme une promesse d’amour ni comme l’annonce de quoi que ce soit entre deux personnes. Il décrit une aisance pour estimer et pour aimer, et c’est vous qui choisissez où la mettre."
   - q: "Quand vient le trigone de Pluton à ma Vénus ?"

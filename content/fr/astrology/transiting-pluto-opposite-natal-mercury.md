@@ -24,7 +24,7 @@ faq:
   - q: "Que veut dire Pluton en transit opposition Mercure ?"
     a: "Pluton a atteint le point opposé à votre Mercure. J’y lis une longue saison où la pression sur votre pensée passe par les autres : une conviction forte en face de vous, une négociation qui compte, une conversation qui montre le poids que peuvent avoir les mots. Ce transit change votre façon de penser, pas l’issue d’un débat."
   - q: "Combien de temps dure Pluton opposition Mercure ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, environ deux ans et huit mois, et vingt-deux mois environ pour les passages les plus courts. Dans environ trois passages sur cinq, Pluton franchit l’opposition exacte trois fois ; dans les autres, cinq fois, sur trois ans et sept mois environ."
+    a: "En accordant 1,5° avant l’exactitude et 1° après, comme je le fais pour dater, environ deux ans et huit mois, et vingt-deux mois environ pour les passages les plus courts. Dans environ trois passages sur cinq, Pluton franchit l’opposition exacte trois fois ; dans les autres, cinq fois, sur trois ans et sept mois environ."
   - q: "Est-ce que Pluton opposition Mercure annonce des disputes ?"
     a: "Ce transit n’annonce ni dispute ni aucun autre événement. Il décrit une saison où les avis des autres pèsent plus fort sur le vôtre, ce qui peut donner de bons débats aussi bien que des frictions. La suite dépend de vous et d’eux. Ce qui reste souvent ensuite, c’est une idée plus nette de ce que vous pensez vraiment."
   - q: "Quand vient l’opposition de Pluton à mon Mercure ?"

@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/venus", "/astrology/opposition", "/astrology/venus-opposite-pluto", "/astrology/pluto-transit-8th-house"]
 faq:
   - q: "Que veut dire Pluton en transit opposition Vénus ?"
-    a: "Pluton a atteint le point opposé à votre Vénus. J’y lis une longue saison où ce que vous estimez, désirez et attendez de la proximité vous est renvoyé par d’autres personnes, souvent avec intensité. La réciprocité devient une question : qui donne quoi, et le lien est-il juste ? Ce transit décrit un climat, pas une issue."
+    a: "Pluton fait face à votre Vénus depuis l’autre bout du zodiaque. J’y lis une longue saison où ce que vous estimez, désirez et attendez de la proximité vous est renvoyé par d’autres personnes, souvent avec intensité. La réciprocité devient une question : qui donne quoi, et le lien est-il juste ? Ce transit décrit un climat, pas une issue."
   - q: "Est-ce que Pluton opposition Vénus annonce une relation intense ?"
     a: "Ce transit peut accompagner une attirance forte, ou un lien existant qui gagne en intensité, mais je n’en tire aucune prédiction de rencontre, de liaison ou de rupture. L’opposition décrit votre façon de rencontrer l’intensité chez les autres. L’intensité n’est jamais une raison d’accepter le contrôle, et les choix restent les vôtres."
   - q: "Combien de temps dure Pluton opposition Vénus ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, environ deux ans et huit mois, et près de quatre ans pour les passages les plus longs. Dans environ trois passages sur cinq, Pluton franchit l’opposition exacte trois fois ; dans les autres, cinq fois."
+    a: "Dans mes orbes, de 1,5° à l’approche à 1° en s’éloignant, environ deux ans et huit mois, les passages les plus longs approchant quatre ans. Dans environ trois passages sur cinq, Pluton franchit l’opposition exacte trois fois ; dans les autres, cinq fois."
   - q: "Quand vient l’opposition de Pluton à ma Vénus ?"
     a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, l’opposition touche Vénus en Lion, qui va avec un anniversaire entre le début juin et le début octobre environ. Plus de la moitié des personnes nées entre 1930 et 2009 ne la rencontrent jamais avant 80 ans. Les années suivent le degré de votre Vénus."
 sources:

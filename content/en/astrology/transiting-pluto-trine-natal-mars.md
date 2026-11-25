@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/mars", "/astrology/trine", "/astrology/mars-trine-pluto", "/astrology/pluto-transit-5th-house"]
 faq:
   - q: "What does transiting Pluto trine natal Mars mean?"
-    a: "Pluto stands 120° from your Mars. I read it as a long current under your effort: you recover faster, keep going longer and can change how you work, or what you work for, with less struggle than usual. The energy is there to be used, and it rewards a goal worth the effort."
+    a: "Pluto is within orb of a trine to your Mars. I read it as a long current under your effort: you recover faster, keep going longer and can change how you work, or what you work for, with less struggle than usual. The energy is there to be used, and it rewards a goal worth the effort."
   - q: "How long does Pluto trine Mars last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the shortest passes. Pluto’s yearly retrograde brings three exact hits, or five in about two passes out of five."
+    a: "Pluto holds the trine to Mars for about two years and eight months in my orbs, from 1½° before exact to 1° after, and for some twenty-two months in the shortest passes. Its yearly retrograde brings three exact hits, or five in about two passes out of five."
   - q: "Is Pluto trine Mars good for fitness or work?"
     a: "It suits long efforts of every kind, a training plan as much as a demanding project, because it supports stamina and steady renewal. I don’t forecast results or anything about health; a trine eases the way without choosing the destination. What you build with it depends on what you aim it at."
   - q: "When will Pluto trine my Mars?"

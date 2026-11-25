@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Jupiter", "square", "transits"]
 weight: 1825
 glyph: "♇□♃"
-definition: "Transiting Pluto square natal Jupiter is Pluto 90° from your birth Jupiter for about two years and eight months, a transit about seven people in eight meet by 80. Plans that outgrew their foundations and beliefs that stopped explaining things are put under pressure. I read it as friction that leaves tested convictions, never as failure."
+definition: "Transiting Pluto square natal Jupiter puts your birth Jupiter under a 90° pressure from Pluto for about two years and eight months, at an age your birth date sets; seven people in eight meet it by 80. Plans that outgrew their foundations and beliefs that stopped explaining things are tested. I read it as friction that leaves tested convictions, never as failure."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Jupiter ♃: beliefs, plans and growth" }
@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/jupiter", "/astrology/square", "/astrology/jupiter-square-pluto", "/astrology/pluto-transit-2nd-house"]
 faq:
   - q: "What does transiting Pluto square natal Jupiter mean?"
-    a: "Pluto stands 90° from your Jupiter. I read it as a long season of friction around what you believe and how you want to grow: an ambition that outgrew its foundations, a conviction that no longer explains what you see. What survives the pressure is fewer beliefs, better tested, and plans you can actually build."
+    a: "Pluto has come to a square with your Jupiter, a quarter of the circle away. I read it as a long season of friction around what you believe and how you want to grow: an ambition that outgrew its foundations, a conviction that no longer explains what you see. What survives the pressure is fewer beliefs, better tested, and plans you can actually build."
   - q: "At what age does Pluto square Jupiter happen?"
     a: "At very different ages, because Jupiter moves about a sign a year. The first square came at about 11 for a birth on 1 January 2005, 25 for 1 January 1975, 27 for 1 January 1955 and 61 for 1 January 1945; for 1 January 1985, not by 80. Across all births it is about 36 in the middle."
   - q: "Is Pluto square Jupiter bad for money?"
     a: "I don’t read it, or any transit, as a forecast for money, gains or losses. Jupiter is how you grow and make sense of things, not wealth. The square puts pressure on plans and beliefs that have grown beyond what supports them, and pruning those is often what makes the next growth possible."
   - q: "How long does Pluto square Jupiter last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the shortest passes. Three passes in five cross the exact square three times; the rest five times, over about three years and seven months."
+    a: "In my orbs, 1½° before exact to 1° after, the square lasts about two years and eight months, about twenty-two months at its shortest. Three passes in five cross it three times; the rest cross it five times, over about three years and seven months."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the square within my orbs, the ages it comes at, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Jupiter, read one by one" }

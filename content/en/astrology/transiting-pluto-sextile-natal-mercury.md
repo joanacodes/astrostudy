@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/mercury", "/astrology/sextile", "/astrology/mercury-sextile-pluto", "/astrology/pluto-transit-9th-house"]
 faq:
   - q: "What does transiting Pluto sextile natal Mercury mean?"
-    a: "Pluto is 60° from your Mercury. I read it as a long opening for deeper thinking: a course of study, a piece of research, a subject you finally understand from the inside, a conversation that goes past the usual. Nothing arrives by itself. The sextile helps the person who goes looking."
+    a: "Pluto and your Mercury are now 60° apart. I read it as a long opening for deeper thinking: a course of study, a piece of research, a subject you finally understand from the inside, a conversation that goes past the usual. Nothing arrives by itself. The sextile helps the person who goes looking."
   - q: "How long does Pluto sextile Mercury last?"
-    a: "With my orbs, from 1½° before exact to 1° after, about two years and eight months, and about twenty-two months in the shortest passes. Pluto’s retrograde loops take it over the exact sextile three times as a rule, and five times in about two passes out of five."
+    a: "Using my orbs, from 1½° before exact to 1° after, the sextile lasts about two years and eight months, about twenty-two months at the shortest. Pluto’s retrograde loops take it over the exact sextile three times as a rule, and five times in about two passes out of five."
   - q: "Is Pluto sextile Mercury good for studying?"
     a: "It suits study well, especially the long and demanding kind: research, a qualification, learning a craft properly. I wouldn’t promise results, since a sextile is an opportunity rather than a guarantee. What it gives is a mind willing to stay with a hard subject until it opens."
   - q: "When will Pluto sextile my Mercury?"

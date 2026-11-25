@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting Pluto conjunct natal Mercury mean?"
     a: "Pluto in the sky is crossing the degree of your Mercury. I read it as a long season when thinking goes to the root: a subject can take hold of you, you want the real reasons behind things, and some long-held opinions are dug up and examined. It changes how you think more than what happens."
   - q: "How long does Pluto conjunct Mercury last?"
-    a: "With my orbs, from 1½° before exact to 1° after, about two years and eight months, and nearly four years in the longest passes. Three passes in five cross the exact degree three times; the others cross it five times, as Pluto loops back twice."
+    a: "Within my orbs, 1½° before exact to 1° after, Pluto stays on Mercury for about two years and eight months, and the longest passes last nearly four years. Three passes in five cross the exact degree three times; the others cross it five times, as Pluto loops back twice."
   - q: "Can Pluto conjunct Mercury make you obsessive?"
     a: "It can make a question hard to put down, and that is not the same as obsession. Analysis isn’t overthinking, and depth isn’t a disorder. If your thoughts start to circle without rest, or keep you from sleeping, that is worth taking to a doctor, whatever the transit."
   - q: "When will Pluto conjunct my Mercury?"

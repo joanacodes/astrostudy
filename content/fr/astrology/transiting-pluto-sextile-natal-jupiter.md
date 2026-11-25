@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/jupiter", "/astrology/sextile", "/astrology/jupiter-sextile-pluto", "/astrology/pluto-transit-1st-house"]
 faq:
   - q: "Que veut dire Pluton en transit sextile Jupiter ?"
-    a: "Pluton se tient à 60° de votre Jupiter. J’y lis une longue ouverture vers une compréhension plus profonde : la formation que vous vouliez suivre depuis toujours, un mentor qui en sait plus que vous, une tradition ou une œuvre dans laquelle vous entrez enfin pour de bon. Rien n’arrive tout seul ; le sextile aide qui commence."
+    a: "Dans le ciel, Pluton atteint 60° de la place qu’occupait Jupiter à votre naissance. J’y lis une longue ouverture vers une compréhension plus profonde : la formation que vous vouliez suivre depuis toujours, un mentor qui en sait plus que vous, une tradition ou une œuvre dans laquelle vous entrez enfin pour de bon. Rien n’arrive tout seul ; le sextile aide qui commence."
   - q: "À quel âge vient le sextile de Pluton à Jupiter ?"
     a: "Cela dépend de votre date de naissance, par l’angle que formaient Jupiter et Pluton à votre naissance. Une naissance le 1er janvier 1985 l’a rencontré vers 6 ans, le 1er janvier 1955 vers 14 ans, le 1er janvier 1995 à 31 ans ; le 1er janvier 1965 ou 2005, jamais avant 80 ans. L’âge médian est d’environ 30 ans."
   - q: "Est-ce que Pluton sextile Jupiter apporte de la chance ?"
-    a: "Je ne le lis pas ainsi. Jupiter est votre façon de grandir et de donner sens aux choses, pas la chance ni l’argent, et un sextile est une occasion qui demande de l’engagement, pas un cadeau. Ce qu’il offre, c’est de la profondeur pour vos convictions et vos études. Ce qui en sort dépend du travail fourni."
+    a: "Ce n’est pas ma lecture. Jupiter est votre façon de grandir et de donner sens aux choses, pas la chance ni l’argent, et un sextile est une occasion qui demande de l’engagement, pas un cadeau. Ce qu’il offre, c’est de la profondeur pour vos convictions et vos études. Ce qui en sort dépend du travail fourni."
   - q: "Combien de temps dure Pluton sextile Jupiter ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus rapides. Pluton franchit le sextile exact trois fois, ou cinq fois dans environ deux passages sur cinq, en repassant en arrière chaque année."
+    a: "En accordant 1,5° avant l’exactitude et 1° après, comme dans ma façon de dater, environ deux ans et huit mois, et à peu près vingt-deux mois pour les passages les plus rapides. Le sextile exact est franchi trois fois, ou cinq fois dans environ deux passages sur cinq, au rythme des reculs annuels de Pluton."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps dure le sextile dans mes orbes, à quels âges il vient, et combien de fois il revient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Jupiter, un par un" }

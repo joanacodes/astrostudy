@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Venus", "square", "transits"]
 weight: 1815
 glyph: "♇□♀"
-definition: "Transiting Pluto square natal Venus is Pluto 90° from your birth Venus for about two years and eight months, a transit about seven people in eight meet by 80. The terms of your attachments and pleasures come up for honest review. I read it as friction that renews what you value from inside, never as a forecast for a bond."
+definition: "Transiting Pluto square natal Venus is the planet of depth a quarter of the zodiac from your birth Venus, for about two years and eight months, the Venus contact seven people in eight meet by 80. The terms of your attachments and pleasures come up for honest review. I read it as friction that renews what you value, never as a forecast for a bond."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Venus ♀: values, attachment and fair exchange" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/venus", "/astrology/square", "/astrology/venus-square-pluto", "/astrology/pluto-transit-10th-house"]
 faq:
   - q: "What does transiting Pluto square natal Venus mean?"
-    a: "Pluto stands 90° from your Venus. I read it as a long season of friction around what you value: the terms of a friendship or a partnership, the pleasures you rely on, the tastes you keep out of habit. What survives honest review tends to deepen, and what doesn’t can be let go."
+    a: "Pluto has reached a square to your Venus. I read it as a long season of friction around what you value: the terms of a friendship or a partnership, the pleasures you rely on, the tastes you keep out of habit. What survives honest review tends to deepen, and what doesn’t can be let go."
   - q: "Does Pluto square Venus mean a break-up?"
     a: "No. I never read a transit as a forecast of a break-up, or of how any relationship will turn out. This square describes pressure on what you value and how you attach. Two people under that pressure can grow closer as easily as apart; the sky doesn’t decide which."
   - q: "How long does Pluto square Venus last?"

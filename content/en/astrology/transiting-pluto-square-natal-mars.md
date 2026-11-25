@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Mars", "square", "transits"]
 weight: 1820
 glyph: "♇□♂"
-definition: "Transiting Pluto square natal Mars is Pluto 90° from your birth Mars for about two years and eight months, a transit about seven people in eight meet by 80. Your usual way of getting things done meets resistance that pushing harder won’t move. I read it as friction that teaches proportion, never as a forecast of conflict."
+definition: "Transiting Pluto square natal Mars means Pluto has reached a 90° angle to your birth Mars, for about two years and eight months; seven people in eight meet it by 80. Your usual way of getting things done meets resistance that pushing harder won’t move. I read it as friction that teaches proportion, never as a forecast of conflict."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation and power" }
   - { k: "Natal point", v: "Mars ♂: assertion, effort and boundaries" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/mars", "/astrology/square", "/astrology/mars-square-pluto", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "What does transiting Pluto square natal Mars mean?"
-    a: "Pluto stands 90° from your Mars. I read it as a long season when effort meets resistance: a project that won’t move, a rule you can’t argue with, a will as strong as yours. Pushing harder rarely works under it. What it builds is proportion, and kinds of strength that don’t need force."
+    a: "Pluto in the sky makes a 90° angle to your Mars. I read it as a long season when effort meets resistance: a project that won’t move, a rule you can’t argue with, a will as strong as yours. Pushing harder rarely works under it. What it builds is proportion, and kinds of strength that don’t need force."
   - q: "Does Pluto square Mars mean conflict?"
     a: "It doesn’t forecast quarrels, accidents or violence, and Mars isn’t anger: it is your drive. Under this square your drive meets friction, and friction can become a power struggle or a better way of working, depending largely on how you use it. Nothing in the transit decides that for you."
   - q: "How long does Pluto square Mars last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the shortest passes. Three passes in five cross the exact square three times, over about two years and seven months; the rest five times, over about three years and seven months."
+    a: "Within my orbs, 1½° before exact to 1° after, Pluto takes about two years and eight months over this square, or about twenty-two months in the shortest passes. Three passes in five cross it three times, over about two years and seven months; the rest five times, over about three years and seven months."
   - q: "When will Pluto square my Mars?"
     a: "While Pluto is in Aquarius, until early 2044, it squares Mars in Taurus and Scorpio. About seven people in eight born between 1930 and 2009 meet one of the two Pluto squares to Mars by 80, and about one in eight never does. The years follow your Mars’s degree."
 sources:

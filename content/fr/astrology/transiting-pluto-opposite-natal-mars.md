@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mars", "opposition", "transits"]
 weight: 1822
 glyph: "♇☍♂"
-definition: "Pluton en transit opposition Mars du thème natal, c’est Pluton à 180° de votre Mars pendant environ deux ans et huit mois ; plus de la moitié des gens ne connaissent jamais ce transit. L’élan, l’ambition ou la colère des autres deviennent la mesure du vôtre. J’y lis l’apprentissage d’une force partagée et mesurée, jamais un destin de conflit."
+definition: "Pluton en transit opposition Mars du thème natal amène Pluton de l’autre côté du zodiaque par rapport à votre Mars, pendant environ deux ans et huit mois ; plus de la moitié des gens n’en font jamais l’expérience. L’élan ou la colère des autres deviennent la mesure du vôtre. J’y lis une force partagée et mesurée, jamais un destin de conflit."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète du pouvoir et de la transformation" }
   - { k: "Point natal", v: "Mars ♂ : la volonté, la compétition et la défense" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/mars", "/astrology/opposition", "/astrology/mars-opposite-pluto", "/astrology/pluto-transit-7th-house"]
 faq:
   - q: "Que veut dire Pluton en transit opposition Mars ?"
-    a: "Pluton a atteint le point opposé à votre Mars. J’y lis une longue saison où vous rencontrez votre propre élan chez quelqu’un d’autre : une rivale ou un rival, une ou un partenaire à la volonté forte, une négociation à vrais enjeux. Ce transit demande à quoi sert votre force, et comment l’utiliser sans avoir besoin de tout gagner."
+    a: "Pluton se trouve à l’opposé de votre Mars, à 180°. J’y lis une longue saison où vous rencontrez votre propre élan chez quelqu’un d’autre : une rivale ou un rival, une ou un partenaire à la volonté forte, une négociation à vrais enjeux. Ce transit demande à quoi sert votre force, et comment l’utiliser sans avoir besoin de tout gagner."
   - q: "Est-ce que l’opposition de Pluton à Mars est dangereuse ?"
     a: "Aucun transit n’est dangereux en soi, et aucun ne prédit violence, accident ou blessure. Mars, c’est votre élan, et l’opposition vous le montre à travers les autres. Si la force ou les colères de quelqu’un vous font peur, c’est une raison de chercher de l’aide et de vous mettre en sécurité, jamais une chose qu’un thème vous demande de supporter."
   - q: "Combien de temps dure Pluton opposition Mars ?"

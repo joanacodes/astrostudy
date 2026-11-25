@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/venus", "/astrology/opposition", "/astrology/venus-opposite-pluto", "/astrology/pluto-transit-8th-house"]
 faq:
   - q: "What does transiting Pluto opposite natal Venus mean?"
-    a: "Pluto has reached the point across from your Venus. I read it as a long season when what you value, desire and expect from closeness is shown back to you through other people, often intensely. Questions of reciprocity come up: who gives what, and whether the bond is fair. It describes a climate, not an outcome."
+    a: "Pluto now faces your Venus from the far side of the zodiac. I read it as a long season when what you value, desire and expect from closeness is shown back to you through other people, often intensely. Questions of reciprocity come up: who gives what, and whether the bond is fair. It describes a climate, not an outcome."
   - q: "Does Pluto opposite Venus mean an intense relationship?"
     a: "It can coincide with strong attractions or with an existing bond growing more intense, but I don’t forecast meetings, affairs or break-ups from it. The opposition describes how you meet intensity in others. Intensity is never a reason to accept control, and the choices remain yours."
   - q: "How long does Pluto opposite Venus last?"
-    a: "With my orbs, from 1½° before exact to 1° after, about two years and eight months, and nearly four years in the longest passes. In about three passes out of five Pluto crosses the exact opposition three times; in the others, five times."
+    a: "Within my orbs, from 1½° on the approach to 1° on the way out, about two years and eight months, with the longest passes nearing four years. In about three passes out of five Pluto crosses the exact opposition three times; in the others, five times."
   - q: "When will Pluto oppose my Venus?"
     a: "While Pluto is in Aquarius, until early 2044, it opposes Venuses in Leo, which go with birthdays between about early June and early October. More than half of people born between 1930 and 2009 never meet this opposition by 80. The years follow your Venus’s degree."
 sources:

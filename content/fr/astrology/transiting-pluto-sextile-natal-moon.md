@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/moon", "/astrology/sextile", "/astrology/moon-sextile-pluto", "/astrology/pluto-transit-8th-house"]
 faq:
   - q: "Que veut dire Pluton en transit sextile Lune ?"
-    a: "Pluton se trouve à 60° de votre Lune. J’y lis une longue occasion, discrète, de renouveler votre façon de prendre soin de vous : une vieille habitude affective peut partir, un lien familial se reconstruire sur un terrain plus solide. Rien n’impose le changement. Le sextile le rend plus facile, et le reste vous appartient."
+    a: "Le sextile place Pluton à 60° de votre Lune, à deux signes. J’y lis une longue occasion, discrète, de renouveler votre façon de prendre soin de vous : une vieille habitude affective peut partir, un lien familial se reconstruire sur un terrain plus solide. Rien n’impose le changement. Le sextile le rend plus facile, et le reste vous appartient."
   - q: "Combien de temps dure Pluton sextile Lune ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus courts. Pluton franchit le sextile exact au moins trois fois en reculant chaque année, et cinq fois dans environ deux passages sur cinq."
+    a: "Comptée avec mes orbes, de 1,5° avant l’exactitude à 1° après, la durée du sextile est d’environ deux ans et huit mois, ou de vingt-deux mois environ quand les boucles de Pluton sont serrées. L’angle exact est franchi au moins trois fois, puisque Pluton recule chaque année, et cinq fois dans environ deux passages sur cinq."
   - q: "Est-ce que le sextile de Pluton à la Lune peut arriver deux fois ?"
     a: "Oui, pour quelques personnes. Pluton peut former ce sextile des deux côtés : 60° avant d’atteindre la Lune, ou 60° après l’avoir dépassée. Une vie suffit pour les deux seulement si la Lune est au bon endroit. Près d’une personne sur quatre née entre 1930 et 2009 ne rencontre ni l’un ni l’autre avant 80 ans."
   - q: "Est-ce que Pluton sextile Lune est un bon transit ?"

@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/moon", "/astrology/trine", "/astrology/moon-trine-pluto", "/astrology/pluto-transit-12th-house"]
 faq:
   - q: "What does transiting Pluto trine natal Moon mean?"
-    a: "Pluto stands 120° from your Moon. I read it as a long stretch when deep change in how you feel and attach comes without much strain: an old pattern loosens, a family bond is renewed, home becomes more truly yours. The ease is real, and it still needs you to use it."
+    a: "Pluto is now four signs, 120°, from your Moon. I read it as a long stretch when deep change in how you feel and attach comes without much strain: an old pattern loosens, a family bond is renewed, home becomes more truly yours. The ease is real, and it still needs you to use it."
   - q: "How long does Pluto trine Moon last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the shortest passes. Every pass crosses the exact trine at least three times as Pluto loops back each year; about two passes in five cross it five times."
+    a: "Pluto keeps the trine within my orbs, 1½° before exact to 1° after, for about two years and eight months, and for about twenty-two months in the shortest passes. Every pass crosses the exact trine at least three times as Pluto loops back each year; about two passes in five cross it five times."
   - q: "Is Pluto trine the Moon a good transit?"
     a: "It is one of Pluto’s gentlest, but I don’t sort transits into good and bad. A trine makes deep change easier; it doesn’t make it happen. It is often only afterwards that you notice something heavy has quietly been put down."
   - q: "When will Pluto trine my Moon?"

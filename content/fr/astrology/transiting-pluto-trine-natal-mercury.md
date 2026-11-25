@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/mercury", "/astrology/trine", "/astrology/mercury-trine-pluto", "/astrology/pluto-transit-6th-house"]
 faq:
   - q: "Que veut dire Pluton en transit trigone Mercure ?"
-    a: "Pluton se tient à 120° de votre Mercure. J’y lis un long courant facile sous votre pensée : l’étude va plus loin, la recherche prend forme, et vous pouvez dire simplement des choses difficiles. Rien n’est forcé. La compréhension se construit peu à peu, si bien qu’on la remarque surtout en regardant en arrière."
+    a: "Pluton forme un trigone à votre Mercure, à 120°. J’y lis un long courant facile sous votre pensée : l’étude va plus loin, la recherche prend forme, et vous pouvez dire simplement des choses difficiles. Rien n’est forcé. La compréhension se construit peu à peu, si bien qu’on la remarque surtout en regardant en arrière."
   - q: "Combien de temps dure Pluton trigone Mercure ?"
     a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et parfois vingt-deux mois seulement. Pluton franchit le trigone exact trois fois dans la plupart des passages, et cinq fois dans environ deux sur cinq, parce que Pluton repasse en arrière sur le degré chaque année."
   - q: "Est-ce que Pluton trigone Mercure est favorable à l’écriture ?"

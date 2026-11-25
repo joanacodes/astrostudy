@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/jupiter", "/astrology/conjunction", "/astrology/jupiter-conjunct-pluto", "/astrology/pluto-transit-9th-house"]
 faq:
   - q: "What does transiting Pluto conjunct natal Jupiter mean?"
-    a: "Pluto is crossing the degree of your Jupiter. I read it as a long season when what you believe, and how you want to grow, is examined to the root: a philosophy, a faith, a plan for your life. What survives is held more deeply and more simply. It describes a change in meaning, not an event."
+    a: "Pluto has arrived on your Jupiter. I read it as a long season when what you believe, and how you want to grow, is examined to the root: a philosophy, a faith, a plan for your life. What survives is held more deeply and more simply. It describes a change in meaning, not an event."
   - q: "Does Pluto conjunct Jupiter bring money or success?"
     a: "No. Jupiter in a chart is how you grow and make sense of things, not wealth or luck, and I don’t read any transit as a forecast of money, success or loss. This conjunction concerns convictions and long aims. Whatever it changes in your circumstances depends on what you do with it."
   - q: "At what age does Pluto conjunct Jupiter happen?"
     a: "It depends on your birth year and month, because Jupiter moves about a sign a year. For births from 1930 to 2009 who meet it, it came from the first weeks of life to 80, about 32 in the middle: at about 25 for 1 January 1945, about 33 for 1 January 1985, never for 1 January 1955."
   - q: "How long does Pluto conjunct Jupiter last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and nearly four years in the longest passes. Three passes in five cross the exact degree three times; the others cross it five times."
+    a: "Pluto spends about two years and eight months on your Jupiter within my orbs, 1½° before exact to 1° after, and nearly four years in the longest passes. In three passes out of five it crosses the exact degree three times, and five times in the others."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto stays on Jupiter within my orbs, the ages it comes at, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Jupiter, read one by one" }

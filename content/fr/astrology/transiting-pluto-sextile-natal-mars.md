@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Mars", "sextile", "transits"]
 weight: 1819
 glyph: "♇⚹♂"
-definition: "Pluton en transit sextile Mars du thème natal, c’est Pluton à 60° de votre Mars pendant environ deux ans et huit mois, une ouverture que trois personnes sur quatre rencontrent avant 80 ans. L’effort mis dans ce qui compte se cumule : un entraînement, une reconstruction, un long projet enfin lancé. J’y lis une endurance offerte."
+definition: "Pluton en transit sextile Mars du thème natal est un lien de 60° entre Pluton et votre Mars, d’environ deux ans et huit mois, que trois personnes sur quatre connaissent avant 80 ans. L’effort mis dans ce qui compte se cumule : un entraînement, une reconstruction, un long projet enfin lancé. J’y lis une endurance offerte."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la force retrouvée et du renouveau" }
   - { k: "Point natal", v: "Mars ♂ : l’initiative, l’effort et l’élan" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/mars", "/astrology/sextile", "/astrology/mars-sextile-pluto", "/astrology/pluto-transit-12th-house"]
 faq:
   - q: "Que veut dire Pluton en transit sextile Mars ?"
-    a: "Pluton se trouve à 60° de votre Mars. J’y lis une longue ouverture pour un effort profond et régulier : le projet difficile autour duquel vous tournez depuis des années, un entraînement au long cours, un plan réduit à l’essentiel puis rebâti. Rien n’arrive si vous ne commencez pas. Quand vous commencez, l’effort a tendance à se nourrir de lui-même."
+    a: "Pluton arrive dans l’orbe d’un sextile à votre Mars. J’y lis une longue ouverture pour un effort profond et régulier : le projet difficile autour duquel vous tournez depuis des années, un entraînement au long cours, un plan réduit à l’essentiel puis rebâti. Rien n’arrive si vous ne commencez pas. Quand vous commencez, l’effort a tendance à se nourrir de lui-même."
   - q: "Combien de temps dure Pluton sextile Mars ?"
     a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après. Trois passages sur cinq franchissent le sextile exact trois fois ; les autres cinq fois, et les plus longs de ceux-là dépassent quatre ans et demi."
   - q: "Est-ce que Pluton sextile Mars est un bon moment pour commencer quelque chose ?"

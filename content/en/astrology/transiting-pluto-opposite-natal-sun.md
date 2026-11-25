@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting Pluto opposite natal Sun mean?"
     a: "Pluto in the sky has reached the point opposite your Sun. I read it as a long season in which your sense of yourself meets strength or intensity through someone else, or through a situation with real stakes, until you know which part of your strength is your own. It describes a climate, not an event."
   - q: "How long does Pluto opposite Sun last?"
-    a: "With my orbs, from 1½° before exact to 1° after, about two years and eight months, and about twenty-two months in the shortest passes. Pluto always crosses the exact opposition more than once: three times in about three passes out of five, five times in the others, which take about three years and seven months."
+    a: "Measured with my orbs, which open 1½° before exact and close 1° after, about two years and eight months; the shortest passes take about twenty-two months. Pluto always crosses the exact opposition more than once: three times in about three passes out of five, five times in the others, which take about three years and seven months."
   - q: "When will Pluto oppose my Sun?"
     a: "While Pluto is in Aquarius, until early 2044, it opposes Suns in Leo, the early degrees first: birthdays at the end of July in the 2020s, mid-August ones between about 2034 and 2039, the last Leo birthdays in the early 2040s. More than half of people born between 1930 and 2009 never have it by 80."
   - q: "Is Pluto opposite the Sun dangerous?"

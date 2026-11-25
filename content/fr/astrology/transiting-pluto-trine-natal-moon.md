@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/moon", "/astrology/trine", "/astrology/moon-trine-pluto", "/astrology/pluto-transit-12th-house"]
 faq:
   - q: "Que veut dire Pluton en transit trigone Lune ?"
-    a: "Pluton se tient à 120° de votre Lune. J’y lis une longue période où un changement profond dans votre façon de ressentir et de vous attacher vient sans grand effort : un vieux schéma se desserre, un lien familial se renouvelle, le foyer devient davantage le vôtre. L’aisance est réelle, et elle demande quand même que vous vous en serviez."
+    a: "Pluton se trouve à quatre signes, 120°, de votre Lune. J’y lis une longue période où un changement profond dans votre façon de ressentir et de vous attacher vient sans grand effort : un vieux schéma se desserre, un lien familial se renouvelle, le foyer devient davantage le vôtre. L’aisance est réelle, et elle demande quand même que vous vous en serviez."
   - q: "Combien de temps dure Pluton trigone Lune ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus courts. Chaque passage franchit le trigone exact au moins trois fois, puisque Pluton recule chaque année ; environ deux passages sur cinq le franchissent cinq fois."
+    a: "Pluton garde le trigone dans mes orbes, de 1,5° avant l’exactitude à 1° après, pendant environ deux ans et huit mois, et vingt-deux mois environ dans les passages les plus courts. Chaque passage franchit le trigone exact au moins trois fois, Pluton reculant chaque année ; environ deux passages sur cinq le franchissent cinq fois."
   - q: "Est-ce que Pluton trigone Lune est un bon transit ?"
     a: "C’est l’un des plus doux de Pluton, mais je ne range pas les transits en bons et mauvais. Un trigone rend un changement profond plus facile ; il ne le fait pas à votre place. Souvent, c’est seulement après coup que l’on remarque qu’un poids a été posé, sans bruit."
   - q: "Quand vient le trigone de Pluton à ma Lune ?"

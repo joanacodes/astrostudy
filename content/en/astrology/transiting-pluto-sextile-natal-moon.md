@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/moon", "/astrology/sextile", "/astrology/moon-sextile-pluto", "/astrology/pluto-transit-8th-house"]
 faq:
   - q: "What does transiting Pluto sextile natal Moon mean?"
-    a: "Pluto is 60° from your Moon. I read it as a long, quiet chance to renew how you look after yourself: an old emotional habit can be let go, or a family bond rebuilt on firmer ground. Nothing forces the change. The sextile makes it easier, and the rest is up to you."
+    a: "The sextile puts Pluto 60° from your Moon, two signs away. I read it as a long, quiet chance to renew how you look after yourself: an old emotional habit can be let go, or a family bond rebuilt on firmer ground. Nothing forces the change. The sextile makes it easier, and the rest is up to you."
   - q: "How long does Pluto sextile Moon last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the shortest passes. Pluto crosses the exact sextile at least three times as it turns retrograde each year, and five times in about two passes out of five."
+    a: "Counted with my orbs, 1½° before exact to 1° after, the sextile lasts about two years and eight months, or twenty-two months or so when Pluto’s loops are tight. It crosses the exact angle at least three times as Pluto turns retrograde each year, and five times in about two passes out of five."
   - q: "Can Pluto sextile the Moon happen twice?"
     a: "Yes, for a few people. Pluto can sextile your Moon from either side: 60° before it would reach the Moon, or 60° after it has passed. A lifetime is long enough for both only when the Moon sits in the right place. Nearly one person in four born between 1930 and 2009 meets neither by 80."
   - q: "Is Pluto sextile Moon a good transit?"

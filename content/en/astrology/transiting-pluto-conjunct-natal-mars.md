@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/mars", "/astrology/conjunction", "/astrology/mars-conjunct-pluto", "/astrology/can-astrology-predict-health-problems"]
 faq:
   - q: "What does transiting Pluto conjunct natal Mars mean?"
-    a: "Pluto is crossing the degree of your Mars. I read it as a long season when effort takes on Pluto’s weight: you commit more fully, you can work longer at something that matters, and you want your energy to change things at the root. The task is to aim that force well."
+    a: "Pluto is moving across your Mars. I read it as a long season when effort takes on Pluto’s weight: you commit more fully, you can work longer at something that matters, and you want your energy to change things at the root. The task is to aim that force well."
   - q: "Is Pluto conjunct Mars dangerous?"
     a: "No transit is dangerous in itself, and I never read this one as a forecast of accidents, injury, illness or violence. Mars is your drive, not your anger, and Pluto adds depth, not harm. What can happen is overdoing it: pushing past tiredness because the goal feels urgent."
   - q: "How long does Pluto conjunct Mars last?"
-    a: "With my orbs, from 1½° before exact to 1° after, about two years and eight months, and nearly four years in the longest passes. Three passes in five cross the exact degree three times; the others cross it five times."
+    a: "Measured from 1½° before exact to 1° after, the orbs I time by, about two years and eight months; the longest passes reach nearly four years. Three passes in five cross the exact degree three times, the others five times, Pluto doubling back twice."
   - q: "When will Pluto conjunct my Mars?"
     a: "While Pluto is in Aquarius, until early 2044, it reaches Mars in Aquarius, which Mars visits for about six or seven weeks every two years or so. More than half of people born between 1930 and 2009 never meet this conjunction by 80, and nobody meets it twice."
 sources:

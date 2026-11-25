@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/jupiter", "/astrology/conjunction", "/astrology/jupiter-conjunct-pluto", "/astrology/pluto-transit-9th-house"]
 faq:
   - q: "Que veut dire Pluton en transit conjonction Jupiter ?"
-    a: "Pluton franchit le degré de votre Jupiter. J’y lis une longue saison où ce que vous croyez, et votre façon de vouloir grandir, sont examinés jusqu’à la racine : une philosophie, une foi, un plan de vie. Ce qui résiste est tenu plus profondément et plus simplement. Ce transit décrit un changement de sens, pas un événement."
+    a: "Pluton arrive sur votre Jupiter. J’y lis une longue saison où ce que vous croyez, et votre façon de vouloir grandir, sont examinés jusqu’à la racine : une philosophie, une foi, un plan de vie. Ce qui résiste est tenu plus profondément et plus simplement. Ce transit décrit un changement de sens, pas un événement."
   - q: "Est-ce que Pluton conjonction Jupiter apporte argent ou réussite ?"
     a: "Non. Dans un thème, Jupiter est votre façon de grandir et de donner sens aux choses, pas la richesse ni la chance, et je ne lis aucun transit comme l’annonce d’un gain, d’une réussite ou d’une perte. Cette conjonction concerne les convictions et les buts lointains. Ce qu’elle change dans votre vie dépend de ce que vous en faites."
   - q: "À quel âge vient la conjonction de Pluton à Jupiter ?"
     a: "Cela dépend de votre date de naissance, car Jupiter avance d’environ un signe par an. Pour les naissances de 1930 à 2009 qui la rencontrent, elle vient entre les premières semaines et 80 ans, vers 32 ans au milieu : vers 25 ans pour le 1er janvier 1945, 33 pour le 1er janvier 1985, jamais pour le 1er janvier 1955."
   - q: "Combien de temps dure Pluton conjonction Jupiter ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et près de quatre ans pour les passages les plus longs. Trois passages sur cinq franchissent le degré exact trois fois ; les autres le franchissent cinq fois."
+    a: "Pluton passe environ deux ans et huit mois sur votre Jupiter dans mes orbes, de 1,5° avant l’exactitude à 1° après, et près de quatre ans dans les passages les plus longs. Dans trois passages sur cinq, le degré exact est franchi trois fois, et cinq fois dans les autres."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton reste sur Jupiter dans mes orbes, à quels âges ce transit vient, et combien de personnes le vivent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Jupiter, un par un" }

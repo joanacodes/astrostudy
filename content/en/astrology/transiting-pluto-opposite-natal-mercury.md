@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting Pluto opposite natal Mercury mean?"
     a: "Pluto has reached the point opposite your Mercury. I read it as a long season when the pressure on your thinking comes through other people: a strong conviction across the table, a negotiation that matters, a conversation that shows how much weight words can carry. It changes how you think, not who wins."
   - q: "How long does Pluto opposite Mercury last?"
-    a: "With my orbs, from 1½° before exact to 1° after, about two years and eight months, and about twenty-two months in the shortest passes. In about three passes out of five Pluto crosses the exact opposition three times; in the rest, five times, over about three years and seven months."
+    a: "Allowing 1½° before exact and 1° after, as my timing does, about two years and eight months, and around twenty-two months in the shortest passes. In about three passes out of five Pluto crosses the exact opposition three times; in the rest, five times, over about three years and seven months."
   - q: "Will Pluto opposite Mercury bring arguments?"
     a: "It doesn’t forecast quarrels or any other event. It describes a season when other people’s views press harder on yours, which can mean good debate as easily as friction. How it goes depends on you and on them. What tends to remain afterwards is a sharper sense of what you really think."
   - q: "When will Pluto oppose my Mercury?"
