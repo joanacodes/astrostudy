@@ -1,7 +1,7 @@
 ---
 title: "Composite Sun in Taurus"
 h1: "Composite Sun in Taurus: the relationship’s chart"
-description: "Composite Sun in Taurus: a bond built on continuity and a pace you can both keep, with Venus where no birth chart could put it. What it says about you two."
+description: "Composite Sun in Taurus: a bond built on continuity and a pace you can both keep, whose ruler, Venus, can sit further from the Sun than any birth chart allows."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Sun", "Taurus", "composite chart"]
 weight: 1978
 glyph: "☉♉"
-definition: "Composite Sun in Taurus is a relationship chart whose Sun, halfway between two people’s natal Suns, lies in fixed earth, the sign Venus rules. Astrologers read it as a bond that knows itself through continuity: the routines, places and pace two people build and keep. It describes how the bond grows, not how long it lasts."
+definition: "Composite Sun in Taurus is a relationship chart whose Sun, halfway between two people’s natal Suns, lies in fixed earth, the sign Venus rules. Its identity, as astrologers read it, lies in continuity: the routines, places and pace two people build and keep. It describes the bond’s way of growing, and promises nothing about its length."
 facts:
   - { k: "Body", v: "The composite Sun ☉, halfway between your two natal Suns" }
   - { k: "Sign", v: "Taurus ♉, fixed earth, ruled by Venus" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/sun-in-taurus", "/astrology/taurus", "/astrology/venus", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Sun in Taurus mean?"
-    a: "That halfway between your two Suns lies Taurus, so the chart of your relationship is centred in fixed earth. Astrologers read it as a bond that knows itself through continuity: the routines, places and pace the two of you build and keep. It describes the relationship’s manner, not either person’s."
+    a: "That halfway between your two Suns lies Taurus, Venus’s sign of fixed earth, where your relationship’s chart takes its centre. In the composite tradition, that makes continuity the bond’s identity: the routines, places and pace the two of you build and keep. It describes the relationship’s manner, not either person’s."
   - q: "Does a composite Sun in Taurus mean the relationship will last?"
     a: "No. Taurus describes a manner, steady and cumulative, not a lifespan. No chart of two people can say how long they will stay together or how things will turn out: that rests with them and their choices. What it does describe is a bond that grows by adding to what it already has."
   - q: "Why is our composite Venus so far from our composite Sun?"
@@ -31,7 +31,7 @@ Continuity is the centre of a relationship whose composite Sun is in Taurus. Fix
 
 ## What it says about the two of you {#what-it-says}
 
-[Taurus](/astrology/taurus/) brings one question to whatever it touches: how does this become durable? In [the composite chart](/astrology/composite-chart/), where every planet stands at the [midpoint](/astrology/midpoints/) of its two natal places, that question is put to the relationship's [Sun](/astrology/sun/), and it becomes the bond's identity. About 1 pair in 12 has it, whatever their own Sun signs. Close to either edge of the sign, the birth times matter: a midpoint just short of 0° Taurus belongs to the [composite Sun in Aries](/astrology/composite-sun-in-aries/), one just past 0° Gemini to the [composite Sun in Gemini](/astrology/composite-sun-in-gemini/), and the hours of the two births can shift it by up to about a degree.
+[Taurus](/astrology/taurus/) brings one question to whatever it touches: how does this become durable? In [the composite chart](/astrology/composite-chart/), where every planet stands at the [midpoint](/astrology/midpoints/) of its two natal places, that question is put to the relationship's [Sun](/astrology/sun/), and it becomes the bond's identity. It's held by about 1 pair in 12. Close to either edge of the sign, the birth times matter: a midpoint just short of 0° Taurus belongs to the [composite Sun in Aries](/astrology/composite-sun-in-aries/), one just past 0° Gemini to the [composite Sun in Gemini](/astrology/composite-sun-in-gemini/), and the hours of the two births can shift it by up to about a degree.
 
 Its identity lives in what it has kept going: the walk you always take on Sundays, the kitchen where most of your conversations happen, the plan you add to a little each year. Repetition restores it: the familiar meal, the evening that goes the way those evenings go. And what it's for is plain enough: something the two of you can stand on, built at a pace both of you can keep. Set beside the two birth charts, the habits the bond is made of often turn out to belong to neither person's past: a third set, made of pieces of both.
 

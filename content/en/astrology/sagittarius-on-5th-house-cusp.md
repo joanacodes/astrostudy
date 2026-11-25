@@ -1,7 +1,7 @@
 ---
 title: "Sagittarius on the 5th house cusp"
 h1: "Sagittarius on the 5th house cusp in a birth chart"
-description: "Sagittarius on the 5th house cusp: play that turns into discovery, Jupiter as ruler of your pleasures and loves, Leo rising, and how often it occurs."
+description: "Sagittarius on the 5th house cusp: play that turns into discovery, Jupiter behind your pleasures and loves, Leo rising, and an even share of births."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Sagittarius", "5th house", "house cusps"]
 weight: 2524
 glyph: "♐"
-definition: "Sagittarius on the 5th house cusp means the house of pleasure, play, creativity and romance begins in Sagittarius. What you do for joy tends to involve discovery, a journey, a new subject, someone from another world, and you love with humour and candour. Jupiter, the sign’s ruler, shows by its house where that joy is found."
+definition: "Sagittarius on the 5th house cusp opens the house of pleasure, play, creativity and romance in the sign of discovery. What you do for joy tends to involve a journey, a new subject or someone from another world, and you love with humour and candour. Jupiter, the sign’s ruler, points by its house to where that joy is found."
 facts:
   - { k: "Sign", v: "Sagittarius ♐, mutable fire" }
   - { k: "Cusp", v: "The 5th house: pleasure, play, creativity, romance" }
@@ -19,8 +19,8 @@ facts:
   - { k: "Needs", v: "An exact birth time" }
 related: ["/astrology/sagittarius", "/astrology/5th-house", "/astrology/jupiter", "/astrology/leo-rising", "/astrology/can-astrology-predict-pregnancy"]
 faq:
-  - q: "What does Sagittarius on the 5th house cusp mean?"
-    a: "That your 5th house, the house of pleasure, creativity, play and romance, opens in Sagittarius. Joy tends to come through discovery, travel, learning or a good argument, and you love with humour and candour. Jupiter rules the house, so the house it sits in shows where play and romance most often find you."
+  - q: "What does a Sagittarius 5th house mean?"
+    a: "It puts the house of pleasure, creativity, play and romance in Sagittarius. Joy tends to come through discovery, travel, learning or a good argument, and you love with humour and candour. Jupiter rules the house, so the house it sits in shows where play and romance most often find you."
   - q: "What is Sagittarius in the 5th house like in love?"
     a: "Open, frank and curious. You tend to be drawn by someone’s mind, laugh or way of seeing the world, and a romance can start on a journey or in a class as easily as at a party. What cools it is the feeling of being fenced in; what keeps it going is a shared sense of adventure."
   - q: "Does Sagittarius on the 5th house cusp say anything about children?"

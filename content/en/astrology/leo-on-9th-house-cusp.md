@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/leo", "/astrology/9th-house", "/astrology/sun", "/astrology/planetary-joys", "/astrology/sagittarius-rising"]
 faq:
   - q: "What does Leo on the 9th house cusp mean?"
-    a: "That the house of long journeys, higher study and belief opens in Leo. You tend to hold beliefs wholeheartedly and share them generously, to learn best from teachers you admire, and to make a story of every journey. Wherever the Sun sits is where those convictions get used."
+    a: "It means the far horizon is approached with Leo’s warmth: you believe wholeheartedly, study what lights you up, and come back from a journey with something to share. Wherever the Sun sits is where those convictions get used."
   - q: "Why is the 9th house linked with the Sun?"
     a: "Tradition gave each of the seven classical planets a house where it rejoices, and placed the Sun’s joy in the 9th, the house it called the God. With Leo on the 9th cusp, that house opens in the Sun’s own sign and the Sun rules it: an old fit between the planet and the house of meaning."
   - q: "Does Leo on the 9th house cusp make you a teacher?"

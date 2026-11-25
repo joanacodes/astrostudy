@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/leo", "/astrology/3rd-house", "/astrology/sun", "/astrology/cancer-rising", "/astrology/planetary-joys"]
 faq:
   - q: "Que veut dire avoir le Lion sur la cuspide de la maison 3 ?"
-    a: "Que la maison des mots du quotidien, de l’apprentissage, des frères et sœurs et des voisins s’ouvre en Lion. Vous parlez avec chaleur et une voix à vous, comprenez mieux une chose après l’avoir expliquée à quelqu’un, et défendez les personnes proches. Suivez le Soleil, maître de la maison, pour voir ce que servent vos mots."
+    a: "Que les échanges du quotidien, l’apprentissage et les liens avec frères, sœurs et voisins prennent la chaleur du Lion : une leçon reste une fois que vous l’avez enseignée, vos messages ont une voix, et votre loyauté va aux personnes proches. Suivez le Soleil, maître de la maison, pour voir ce que servent vos mots."
   - q: "Comment le Lion en maison 3 influence-t-il la communication ?"
-    a: "Il donne de la présence à vos mots. Vos messages vous ressemblent, vos histoires sont bien racontées, et vous aimez que ce que vous dites porte. Le Lion est un signe fixe : une opinion formée en parlant le reste souvent. Une correction en public peut piquer ; une vraie écoute, même une seule fois, apaise en général."
+    a: "Il donne de la présence à vos mots : vos histoires sont bien racontées, et vous aimez que ce que vous dites porte. Le Lion est un signe fixe : une opinion formée en parlant le reste souvent. Vous écoutez le mieux les personnes chaleureuses avec vous, et vous vous taisez devant celles qui ne le sont pas."
   - q: "Pourquoi ai-je l’ascendant Cancer avec le Lion sur la cuspide de la maison 3 ?"
     a: "Parce que dans ces thèmes, la cuspide de la maison 3 tombe à environ 35° seulement après l’ascendant, à Londres : l’ascendant est presque toujours dans le signe qui précède le Lion, le Cancer dans environ 9 thèmes londoniens sur 10, les Gémeaux dans les autres. La Lune gouverne alors votre thème, et le Soleil votre maison 3."
 sources:

@@ -1,7 +1,7 @@
 ---
 title: "Aquarius on the 7th house cusp"
 h1: "Aquarius on the 7th house cusp in a birth chart"
-description: "Aquarius on the 7th house cusp, an Aquarius Descendant: partners who are also friends, Leo always rising, and Uranus and Saturn as rulers of your bonds."
+description: "Aquarius on the 7th house cusp puts your Descendant in Aquarius: partners who are also friends, Leo always rising, Uranus and Saturn ruling your bonds."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/aquarius", "/astrology/7th-house", "/astrology/descendant", "/astrology/leo-rising", "/astrology/uranus"]
 faq:
   - q: "What does an Aquarius Descendant mean?"
-    a: "That the 7th house, partners and close one-to-one bonds, opens in Aquarius, with Leo rising opposite. You tend to look for an equal with a mind and a life of their own, and a bond that feels like an alliance between free people. Uranus and Saturn rule your 7th, and I read both."
+    a: "That the 7th house, partners and close one-to-one bonds, opens in Aquarius, with Leo rising opposite. You tend to look for an equal with a mind and a life of their own, and a bond that feels like an alliance between free people. Both of your 7th’s rulers, Uranus and Saturn, count in my reading."
   - q: "Is Leo always rising when Aquarius is on the 7th house cusp?"
     a: "Yes. The Descendant is exactly opposite the Ascendant, so an Aquarius Descendant always means Leo rising. The Sun rules your chart while Uranus and Saturn rule your partnerships: the warmth and visibility are yours, and the people you choose tend to bring independence and a longer view."
   - q: "Does an Aquarius 7th house mean an unconventional marriage?"
@@ -31,7 +31,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Sun as ruler of Leo, Saturn of Aquarius and Capricorn" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Ascendant and Descendant, and how long a sign takes to cross the horizon" }
 ---
-Aquarius on the 7th house cusp puts your Descendant in Aquarius, opposite a Leo Ascendant. You meet the world warmly and in full view, and the people you choose to face, one to one, tend to be the ones who treat you as an equal rather than an audience.
+With Aquarius on the 7th house cusp, your Descendant faces a Leo Ascendant. You bring the warmth into a room; the people you choose to pair with bring a cooler curiosity, and they treat you as an equal rather than an audience.
 
 ## What it means {#what-it-means}
 

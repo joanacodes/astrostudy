@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Leo", "6th house", "house cusps"]
 weight: 2481
 glyph: "♌"
-definition: "Leo on the 6th house cusp means the house of daily work, routines and the body’s care opens in Leo. You tend to need to be proud of what you do every day, to work best when your effort is noticed, and to bring warmth to the people beside you. The Sun’s house shows where that daily effort goes."
+definition: "Leo on the 6th house cusp puts the Sun’s sign at the start of the house of daily work, routines and the body’s care. You tend to need pride in what you do each day, to work best when your effort is noticed, and to bring warmth to the people beside you. The Sun’s house shows where that effort goes."
 facts:
   - { k: "Sign", v: "Leo ♌, fixed fire" }
   - { k: "Cusp", v: "The 6th house: daily work, routines, the body’s care" }
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/leo", "/astrology/6th-house", "/astrology/sun", "/astrology/intercepted-signs", "/astrology/can-astrology-predict-health-problems"]
 faq:
   - q: "What does Leo on the 6th house cusp mean?"
-    a: "That the house of daily work, routines and the body’s care opens in Leo. You tend to need pride in what you do every day, to work best when it’s noticed, and to bring warmth to the people you work with. The house the Sun occupies is where that daily effort is spent."
+    a: "It means your working day is run with Leo’s pride: you want to be proud of even routine tasks, you do your best work when it’s appreciated, and you’re often the warm centre of a team. The house the Sun occupies is where that daily effort is spent."
   - q: "Is Leo on the 6th house cusp good for work?"
     a: "It describes a way of working rather than a verdict: you put your heart into tasks you can be proud of, and you need appreciation more than many people admit to. Work that lets you shape how something is done, or lead a small part of it, tends to suit this cusp."
   - q: "Does Leo on the 6th house cusp say anything about health?"
-    a: "It can’t forecast any. Tradition looked to the 6th for illness, but no chart can foretell one, and I don’t read a chart for it. I read the 6th as the everyday care you give your body; with Leo on its cusp, the routines that last are the ones you enjoy."
+    a: "It can’t forecast any. The 6th was once read for sickness, but no chart can foretell an illness, and I don’t use one that way. What I read there is the everyday care you give your body; with Leo on its cusp, the routines that last are the ones you enjoy."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "here, Placidus cusps for births spread over a whole day at London and New York, and the width of the 6th house" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Sun as the ruler of Leo, Mercury of Virgo" }
@@ -41,4 +41,4 @@ Leo holds the 6th cusp for fewer births than most signs do: about 1 in 17 at Lon
 
 Less than an hour and a half is a narrow window. A time noted to the nearest hour may belong to this page or to the ones on either side, [Leo on the 5th house cusp](/astrology/leo-on-5th-house-cusp/) and [Leo on the 7th house cusp](/astrology/leo-on-7th-house-cusp/), and only the minute settles it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Tradition called the 6th Bad Fortune and looked there for illness. I read it as the care you give your body from day to day, never as a forecast of what will go wrong with it ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). With Leo on the cusp, the care that lasts is the kind you enjoy.
+Bad Fortune was the 6th's old name, and illness one of its old topics. I read it as the care you give your body from day to day, never as a forecast of what will go wrong with it ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). With Leo on the cusp, the care that lasts is the kind you enjoy.

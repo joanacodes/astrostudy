@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Moon", "Taurus", "composite chart"]
 weight: 2002
 glyph: "☽♉"
-definition: "A composite Moon in Taurus means the midpoint of two people’s natal Moons lies in Taurus, the sign where tradition exalts the Moon. Astrologers read it as a relationship that feels safe through the senses and through repetition: shared meals, familiar places, time. It describes a pace, not a promise that the bond will last."
+definition: "A composite Moon in Taurus means two people’s natal Moons meet halfway in Taurus, the sign where tradition exalts the Moon. It is read as a relationship that feels safe through the senses and through repetition: shared meals, familiar places, time. It describes a pace, not a promise that the bond will last."
 facts:
   - { k: "Body", v: "The composite Moon ☽, halfway between your two natal Moons" }
   - { k: "Sign", v: "Taurus ♉, fixed earth, ruled by Venus; the Moon’s exaltation" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/moon-in-taurus", "/astrology/taurus", "/astrology/exaltation", "/astrology/venus"]
 faq:
   - q: "What does composite Moon in Taurus mean?"
-    a: "That the midpoint of your two natal Moons falls in Taurus. Astrologers read it as a relationship that feels safest with a steady rhythm: familiar places, food, rest, physical closeness, time to take things in. It describes how the bond looks after itself, which may differ from how either of you does alone."
+    a: "Your two natal Moons meet halfway in Taurus. Astrologers take that as a relationship most at ease with a steady rhythm: familiar places, food, rest, physical closeness, time to take things in. It describes how the bond looks after itself, which may differ from how either of you does alone."
   - q: "Is the Moon exalted in a composite chart too?"
     a: "Dignities belong to signs, so a composite Moon in Taurus sits in the sign Ptolemy called the Moon’s exaltation. Read in a relationship’s chart, the label describes ease: the bond’s needs and the sign’s manner agree. It doesn’t make the relationship better than another, or promise that it will last."
   - q: "Does a composite Moon in Taurus mean a stable relationship?"
@@ -40,6 +40,6 @@ What this Moon finds hard is upheaval. A move, a new job or a sudden change of p
 
 [Venus](/astrology/venus/) rules Taurus, so composite Venus, with its own sign and house, adds what the two of you value and where you find pleasure together. Comfort and pleasure are close neighbours here, and a pair with this Moon often shows care through the senses: a warm room, a well-made bed, food chosen with the other person in mind.
 
-About 1 pair in 12 has this composite Moon; exaltation doesn't make a sign any more frequent. Each natal Moon moves about 13° a day, so the two birth times fix its exact degree and, near either edge of the sign, which neighbour you get instead: near the start, it may still be the quicker [composite Moon in Aries](/astrology/composite-moon-in-aries/); near the end, already the more talkative [composite Moon in Gemini](/astrology/composite-moon-in-gemini/). Without both times there's no telling which ([what changes without a birth time](/blog/unknown-birth-time/)).
+Exaltation doesn't make a sign more frequent: Taurus gets the composite Moon in about 1 pair in 12, like the rest. Its exact degree rests on both birth times, since a natal Moon travels about 13° in a day, and near either edge of the sign they decide which neighbour you get instead: near the start, it may still be the quicker [composite Moon in Aries](/astrology/composite-moon-in-aries/); near the end, already the more talkative [composite Moon in Gemini](/astrology/composite-moon-in-gemini/). Without both times there's no telling which ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 I describe composites rather than draw them for clients, and the astrologers who work with them read this Moon beside both birth charts and the [synastry](/astrology/synastry/). Steadiness here is a way of feeling, not a guarantee: a Taurus composite Moon can't tell you a relationship will last, any more than a restless one can tell you it won't.

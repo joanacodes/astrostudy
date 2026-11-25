@@ -20,9 +20,9 @@ facts:
 related: ["/astrology/virgo", "/astrology/2nd-house", "/astrology/mercury", "/astrology/leo-rising", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "What does Virgo on the 2nd house cusp mean?"
-    a: "That the house of money, possessions and self-worth opens in Virgo. You tend to earn through a skill, to keep track of where things stand, to spend on what works and lasts, and to measure your worth by competence. Mercury’s sign and house show how and where that earning happens."
+    a: "It means money and possessions are handled with Virgo’s care: earned through a practised skill, tracked closely, spent on what works. Your sense of worth tends to rest on competence, so being good at something useful matters more than the amount. Mercury’s sign and house show how and where that earning happens."
   - q: "Is Virgo on the 2nd house cusp good with money?"
-    a: "It describes a careful, practical way with money rather than an outcome: budgets, comparisons, things mended rather than replaced. The risk is worrying beyond what the figures justify, or pricing your own work too low. How much you’ll have is not something a chart can say."
+    a: "It describes a careful, practical way with money rather than an outcome: budgets kept, prices compared, things mended rather than replaced. Care can tip into anxiety, and modesty into charging too little. How much you’ll have is not something a chart can say."
   - q: "What does Mercury ruling the 2nd house mean?"
     a: "That your resources answer to Mercury: its house shows where you tend to earn, its sign how you think about money. With Virgo on the 2nd, Leo usually rises, so the Sun rules your chart, and Mercury, never more than about 28° from the Sun, keeps what you earn close to your sense of self."
 sources:

@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/leo", "/astrology/11th-house", "/astrology/sun", "/astrology/libra-rising", "/astrology/aquarius"]
 faq:
   - q: "What does Leo on the 11th house cusp mean?"
-    a: "That the house of the company you keep and the future you’re working towards opens in Leo. You tend to be fiercely loyal to friends, to end up near the centre of any circle you join, and to hold big-hearted aims. The Sun’s position, as ruler of the house, shows where friendships and aims lead."
+    a: "It means your friendships and the aims you share with others run on Leo’s warmth: loyal to a fault, generous, often at the centre of a circle or leading it. The Sun’s position, as ruler of the house, shows where friendships and aims lead."
   - q: "Why is Aquarius on my 5th house cusp if Leo is on my 11th?"
     a: "Because opposite cusps always sit at the same degree of opposite signs, and Aquarius is opposite Leo. With Leo on the 11th, Aquarius opens the 5th: each sign sits in the other’s natural house, and Uranus and Saturn, Aquarius’ rulers, govern your pleasures while the Sun governs your friendships."
   - q: "Are people with Leo on the 11th house cusp popular?"

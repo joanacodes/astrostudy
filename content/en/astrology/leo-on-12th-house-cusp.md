@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Leo", "12th house", "house cusps"]
 weight: 2487
 glyph: "♌"
-definition: "Leo on the 12th house cusp means the house of solitude, rest and what happens out of sight opens in Leo. You tend to keep your warmth and creativity for private hours, and to give generously without wanting thanks. The Sun’s house shows where that hidden life is lived, and Virgo usually rises alongside."
+definition: "Leo on the 12th house cusp opens the house of solitude, rest and what happens out of sight in the sign that most likes to be seen. You tend to keep your warmth and creativity for private hours, and to give generously without wanting thanks. The Sun’s house shows where that hidden life is lived, and Virgo usually rises alongside."
 facts:
   - { k: "Sign", v: "Leo ♌, fixed fire" }
   - { k: "Cusp", v: "The 12th house: solitude, rest, what goes unseen" }
@@ -20,16 +20,16 @@ facts:
 related: ["/astrology/leo", "/astrology/12th-house", "/astrology/virgo-rising", "/astrology/sun", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "What does Leo on the 12th house cusp mean?"
-    a: "That the house of solitude, rest and what happens out of sight opens in Leo. You tend to keep your warmth and creativity for private hours, to give generously without wanting thanks, and to recharge by doing what you love with no audience. That private life is lived out in the affairs of the house that holds the Sun."
+    a: "It means the most visible sign opens the least visible house: your warmth and creativity do best in private hours, and your generosity prefers to go unthanked. That private life is lived out in the affairs of the house that holds the Sun."
   - q: "Does Leo on the 12th house cusp mean hiding who you are?"
-    a: "Not necessarily. It describes where your light is strongest: in private, with time to yourself or a few trusted people. Some people with this cusp feel they must earn the right to shine in public; recognising that pattern is often the first step out of it."
+    a: "Not necessarily. It describes where your light is strongest: in private, with time to yourself or a few trusted people. If you notice yourself waiting for permission to be seen, that’s the pattern worth working on; the warmth is already there."
   - q: "Why do I have Virgo rising with Leo on the 12th house cusp?"
     a: "Because the 12th cusp lies just above the Ascendant, so the sign that follows Leo is usually the one rising: Virgo in about 9 London charts in 10, Leo itself in the rest. With Virgo rising, Mercury rules your chart and the Sun your 12th, and the two planets are never more than about 28° apart."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "here, Placidus cusps for births spread over a whole day at London and New York, with the signs rising alongside" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Sun as the ruler of Leo, Mercury of Virgo" }
 ---
-Solitude, rest, quiet work, the inner life: the 12th house covers what happens out of sight. With Leo on the 12th house cusp, the sign that most wants to be seen opens the house of what isn't, and its warmth tends to burn behind a closed door.
+Behind every public life there's a closed door: rest, solitude, work no one watches, the inner life. The 12th house is what lies behind it. With Leo on the 12th house cusp, the sign that most wants to be seen opens the house of what isn't, and its warmth tends to burn behind that door.
 
 ## What it means {#what-it-means}
 

@@ -20,11 +20,11 @@ facts:
   - { k: "Il faut", v: "Une heure de naissance exacte" }
 related: ["/astrology/sagittarius", "/astrology/9th-house", "/astrology/jupiter", "/astrology/pisces-rising", "/blog/i-tested-my-birth-chart"]
 faq:
-  - q: "Que veut dire le Sagittaire sur la cuspide de la maison 9 ?"
+  - q: "Que veut dire une maison 9 qui commence en Sagittaire ?"
     a: "Que la maison des croyances, des longs voyages et des études supérieures s’ouvre dans son propre signe. Les questions de sens traversent votre vie, et vos convictions grandissent à mesure que vous les éprouvez, en voyage comme dans l’étude. Jupiter, maître naturel de la maison 9, la gouverne aussi chez vous : sa maison et son signe pèsent plus que d’habitude."
-  - q: "Le Sagittaire en maison 9 est-il bon pour les voyages et les études ?"
+  - q: "Comment le Sagittaire sur la cuspide de la maison 9 se montre-t-il dans les voyages et les études ?"
     a: "Il décrit un appétit pour les deux, pas un calendrier de voyages ou de diplômes. Avec la maison 9 dans son propre signe, l’étude et la distance se nourrissent : vous comprenez un lieu en l’étudiant et un sujet en allant le voir. La façon dont cela se montre dépend de la maison et du signe de Jupiter."
-  - q: "Quel ascendant va avec le Sagittaire sur la cuspide de la maison 9 ?"
+  - q: "Quel est probablement votre ascendant avec le Sagittaire sur la cuspide de la maison 9 ?"
     a: "Le plus souvent le Bélier ou les Poissons, parfois le Taureau. À Londres, le Bélier se lève dans un peu moins de la moitié de ces thèmes et les Poissons dans plus d’un tiers ; à New York, le Bélier dans plus de la moitié. Avec l’ascendant Poissons, Jupiter, aux côtés de Neptune, gouverne aussi tout votre thème."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "ici, les cuspides de Placidus pour une journée de naissances à Londres et à New York, avec les ascendants" }

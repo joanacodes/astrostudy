@@ -21,10 +21,10 @@ facts:
 related: ["/astrology/virgo", "/astrology/2nd-house", "/astrology/mercury", "/astrology/leo-rising", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire la Vierge sur la cuspide de la maison 2 ?"
-    a: "Que la maison de l’argent, des biens et de l’estime de soi s’ouvre en Vierge. Vous gagnez par une compétence, savez où en sont vos comptes, dépensez pour ce qui marche et dure, et mesurez votre valeur à votre savoir-faire. Le signe et la maison de Mercure montrent comment et où vous gagnez."
+    a: "Que l’argent et les biens se gèrent avec le soin de la Vierge : gagnés par un savoir-faire travaillé, suivis de près, dépensés pour ce qui marche. Votre estime de vous repose sur la compétence : savoir bien faire une chose utile compte plus que le montant. Le signe et la maison de Mercure montrent comment et où vous gagnez."
   - q: "La Vierge en maison 2, est-ce bon pour l’argent ?"
-    a: "Elle décrit une manière soigneuse et pratique de tenir son argent, pas un résultat : des budgets, des comparaisons, des objets réparés plutôt que remplacés. Le risque, c’est de s’inquiéter plus que les chiffres ne le justifient, ou de demander trop peu pour votre travail. Combien vous aurez, aucun thème ne peut le dire."
-  - q: "Que veut dire Mercure maître de la maison 2 ?"
+    a: "Elle décrit une manière soigneuse et pratique de tenir son argent, pas un résultat : des budgets tenus, des prix comparés, des objets réparés plutôt que remplacés. Le soin peut tourner à l’inquiétude, et la modestie à des tarifs trop bas. Combien vous aurez, aucun thème ne peut le dire."
+  - q: "Mercure maître de la maison 2 : qu’est-ce que cela change ?"
     a: "Que vos ressources dépendent de Mercure : sa maison montre où vous gagnez, son signe comment vous pensez l’argent. Avec la Vierge en maison 2, l’ascendant est le plus souvent Lion : le Soleil gouverne le thème, et Mercure, jamais à plus de 28° environ du Soleil, garde vos gains près de l’image que vous avez de vous."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "ici, les cuspides de Placidus pour des naissances réparties sur une journée entière à Londres et à New York, avec les signes qui se lèvent en même temps" }

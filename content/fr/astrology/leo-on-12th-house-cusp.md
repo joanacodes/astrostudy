@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Lion", "maison 12", "cuspides des maisons"]
 weight: 2487
 glyph: "♌"
-definition: "Le Lion sur la cuspide de la maison 12 signifie que la maison de la solitude, du repos et de ce qui reste hors de vue s’ouvre en Lion. Vous gardez votre chaleur et votre créativité pour les heures privées, et donnez sans vouloir de remerciements. Le Soleil montre où se vit cette part cachée ; l’ascendant est souvent Vierge."
+definition: "Le Lion sur la cuspide de la maison 12 ouvre la maison de la solitude, du repos et de ce qui reste hors de vue dans le signe qui aime le plus être vu. Vous gardez votre chaleur et votre créativité pour les heures privées, et donnez sans vouloir de remerciements. Le Soleil montre où se vit cette part cachée."
 facts:
   - { k: "Signe", v: "Lion ♌, feu fixe" }
   - { k: "Cuspide", v: "Maison 12 : la solitude, le repos, ce qui reste hors de vue" }
@@ -21,16 +21,16 @@ facts:
 related: ["/astrology/leo", "/astrology/12th-house", "/astrology/virgo-rising", "/astrology/sun", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "Que veut dire le Lion sur la cuspide de la maison 12 ?"
-    a: "Que la maison de la solitude, du repos et de ce qui reste hors de vue s’ouvre en Lion. Vous gardez votre chaleur et votre créativité pour les heures privées, donnez sans attendre de merci, et rechargez vos forces en faisant ce que vous aimez sans public. Cette vie intime se déroule dans la maison qui abrite le Soleil."
+    a: "Que le plus visible des signes ouvre la moins visible des maisons : votre chaleur et votre créativité s’épanouissent dans les heures privées, et votre générosité se passe volontiers de remerciements. Cette vie intime se déroule dans la maison qui abrite le Soleil."
   - q: "Le Lion en maison 12 veut-il dire cacher qui l’on est ?"
-    a: "Pas forcément. Il décrit l’endroit où votre lumière est la plus forte : dans l’intimité, avec du temps pour vous ou quelques personnes de confiance. Certaines personnes qui ont cette cuspide sentent qu’elles doivent mériter le droit de briller en public ; reconnaître ce schéma est souvent le premier pas pour en sortir."
+    a: "Pas forcément. Il décrit l’endroit où votre lumière est la plus forte : dans l’intimité, avec du temps pour vous ou quelques personnes de confiance. Si vous vous surprenez à attendre une permission pour vous montrer, c’est ce schéma qui mérite d’être travaillé ; la chaleur, elle, est déjà là."
   - q: "Pourquoi ai-je l’ascendant Vierge avec le Lion sur la cuspide de la maison 12 ?"
     a: "Parce que la cuspide de la maison 12 se trouve juste au-dessus de l’ascendant : le signe qui suit le Lion est donc le plus souvent à l’ascendant, la Vierge dans environ 9 thèmes londoniens sur 10. Mercure gouverne alors votre thème, le Soleil votre maison 12, et les deux planètes restent à moins de 28° environ."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "ici, les cuspides de Placidus pour des naissances réparties sur une journée entière à Londres et à New York, avec les signes qui se lèvent en même temps" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "le Soleil, maître du Lion ; Mercure, de la Vierge" }
 ---
-La solitude, le repos, le travail discret, la vie intérieure : la maison 12 couvre ce qui se passe hors de vue. Avec le Lion sur la cuspide de la maison 12, le signe qui tient le plus à être vu ouvre la maison de ce qui ne l’est pas, et sa chaleur brûle souvent derrière une porte fermée.
+Derrière toute vie publique, il y a une porte fermée : le repos, la solitude, le travail que personne ne regarde, la vie intérieure. La maison 12, c’est ce qui se trouve derrière. Avec le Lion sur la cuspide de la maison 12, le signe qui tient le plus à être vu ouvre la maison de ce qui ne l’est pas, et sa chaleur brûle souvent derrière cette porte.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

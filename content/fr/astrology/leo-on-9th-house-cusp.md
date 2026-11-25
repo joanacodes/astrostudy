@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/leo", "/astrology/9th-house", "/astrology/sun", "/astrology/planetary-joys", "/astrology/sagittarius-rising"]
 faq:
   - q: "Que veut dire le Lion sur la cuspide de la maison 9 ?"
-    a: "Que la maison des longs voyages, des études supérieures et des croyances s’ouvre en Lion. Vous tenez à vos convictions de tout cœur et les partagez volontiers, apprenez le mieux auprès de maîtres que vous admirez, et faites de chaque voyage une histoire. Là où se trouve le Soleil, vos convictions trouvent leur usage."
+    a: "Que l’horizon lointain s’aborde avec la chaleur du Lion : vous croyez de tout cœur, étudiez ce qui vous passionne, et revenez de voyage avec quelque chose à partager. Là où se trouve le Soleil, vos convictions trouvent leur usage."
   - q: "Pourquoi la maison 9 est-elle liée au Soleil ?"
     a: "La tradition donnait à chacune des sept planètes classiques une maison où elle se réjouit, et plaçait la joie du Soleil en maison 9, appelée le Dieu. Avec le Lion sur la cuspide de la maison 9, cette maison s’ouvre dans le signe du Soleil, qui la gouverne : un vieil accord entre la planète et la maison du sens."
   - q: "Le Lion sur la cuspide de la maison 9 destine-t-il à l’enseignement ?"

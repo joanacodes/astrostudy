@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["Sagittaire", "maison 2", "cuspides des maisons"]
 weight: 2521
 glyph: "♐"
-definition: "Le Sagittaire sur la cuspide de la maison 2 signifie que la maison de l’argent, des biens et de l’estime de soi commence dans ce signe de feu mutable. L’argent compte surtout pour l’espace qu’il ouvre, apprendre, voyager, dire oui, plus que pour la sécurité qu’il donne. Jupiter, maître du signe, montre par sa maison où cela se joue."
+definition: "Le Sagittaire sur la cuspide de la maison 2 place ce signe de feu mutable au seuil de la maison de l’argent, des biens et de l’estime de soi. L’argent compte surtout pour l’espace qu’il ouvre, apprendre, voyager, dire oui, plus que pour la sécurité qu’il donne. La maison de Jupiter montre par où l’argent entre et sort."
 facts:
   - { k: "Signe", v: "Sagittaire ♐, feu mutable" }
   - { k: "Cuspide", v: "Maison 2 : l’argent, les biens, l’estime de soi" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/sagittarius", "/astrology/2nd-house", "/astrology/jupiter", "/astrology/scorpio-rising", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire le Sagittaire sur la cuspide de la maison 2 ?"
-    a: "Que votre maison 2, celle de l’argent, des biens et de l’estime de soi, s’ouvre en Sagittaire. L’argent compte pour ce qu’il permet ensuite, une formation, un billet, une année pour tenter quelque chose, et vous donnez volontiers. Jupiter gouverne la maison : la maison où se trouve Jupiter montre où se concentrent vos gains et vos dépenses."
+    a: "Que la maison de l’argent, des biens et de l’estime de soi s’ouvre en Sagittaire. L’argent compte pour ce qu’il permet ensuite, une formation, un billet, une année pour tenter quelque chose, et vous donnez volontiers. Jupiter gouverne la maison, et la maison qu’occupe Jupiter montre où se concentrent vos gains et vos dépenses."
   - q: "Le Sagittaire en maison 2 est-il bon pour l’argent ?"
     a: "Aucune cuspide ne décide de ce que vous gagnerez, et je ne lis pas un thème pour cela. Celle-ci décrit une attitude : l’argent comme moyen de grandir plutôt que comme réserve à garder. Elle pousse à la générosité et aux dépenses pour apprendre, et peut rendre un budget serré difficile à vivre."
   - q: "Quel ascendant va avec le Sagittaire sur la cuspide de la maison 2 ?"
@@ -40,6 +40,6 @@ Votre [maison 2](/astrology/2nd-house/) rassemble ce que vous gagnez et gardez e
 
 Peu de cuspides du Sagittaire sont plus fréquentes : il ouvre la maison 2 dans environ 1 naissance sur 10, un chiffre que Londres et New York partagent, en Placidus, le système de maisons que j’utilise. Le Sagittaire ferme la moitié du zodiaque qui se lève lentement dans l’hémisphère Nord, si bien que les cuspides placées sous le degré qui se lève s’y attardent bien plus longtemps que dans un signe rapide comme le Capricorne. Il fixe aussi l’est du thème. Aux deux latitudes, tous les thèmes qui ont cette cuspide ont l'[ascendant Scorpion](/astrology/scorpio-rising/) : Pluton et Mars parlent pour le thème et Jupiter pour la bourse : une façade réservée avec, derrière, une main ouverte. Dans ces thèmes, la maison 2 couvre de 35° à 42° environ à Londres, trop pour que le Sagittaire atteigne une seconde cuspide, et à peu près 3 thèmes londoniens sur 10 y logent en plus tout le Capricorne, [signe intercepté](/astrology/intercepted-signs/) qui donne à Saturne une voix plus discrète sur ce que vous gardez.
 
-Le ciel continue de tourner après la minute de votre naissance. Plus tard le même jour, le Sagittaire monte à l’ascendant ([ascendant Sagittaire](/astrology/sagittarius-rising/)) ; plus tôt, il occupait la cuspide suivante vers le bas ([Sagittaire sur la cuspide de la maison 3](/astrology/sagittarius-on-3rd-house-cusp/)). Seule l’heure de naissance départage ces thèmes ; sans elle, le thème reste sur mon bureau sans être lu ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le ciel continue de tourner après la minute de votre naissance. Plus tard le même jour, le Sagittaire monte à l’ascendant ([ascendant Sagittaire](/astrology/sagittarius-rising/)) ; plus tôt, il occupait la cuspide suivante vers le bas ([Sagittaire sur la cuspide de la maison 3](/astrology/sagittarius-on-3rd-house-cusp/)). Seule l’heure de naissance départage ces thèmes, et il me la faut avant de commencer ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 La réputation d’abondance de Jupiter pousse à lire cette cuspide comme une promesse de richesse. Elle n’en est pas une. La maison 2 montre comment vous gagnez, dépensez et accordez de la valeur, jamais les montants, et choisir un placement dépasse ce que peut un thème ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)). Ce qu’elle peut montrer, c’est pourquoi l’argent qui dort vous rassure si rarement.

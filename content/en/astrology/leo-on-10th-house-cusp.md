@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Leo", "10th house", "house cusps"]
 weight: 2485
 glyph: "♌"
-definition: "Leo on the 10th house cusp means your Midheaven, the top of the chart where the house of public life begins, is in Leo. You tend to want work that carries your name, to lead with warmth rather than by rank, and to need recognition to keep your heart in it. The Sun’s house shows its source."
+definition: "Leo on the 10th house cusp crowns the chart with the Sun’s sign: your Midheaven, where public life begins, is in Leo. You tend to want work that carries your name, to lead with warmth rather than by rank, and to need recognition to keep your heart in it. The Sun’s house shows what feeds it."
 facts:
   - { k: "Sign", v: "Leo ♌, fixed fire" }
   - { k: "Cusp", v: "The 10th house, opened by the Midheaven" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/leo", "/astrology/10th-house", "/astrology/midheaven", "/astrology/sun", "/astrology/scorpio-rising"]
 faq:
   - q: "What does Leo on the 10th house cusp mean?"
-    a: "That your Midheaven, where the house of public life and reputation begins, is in Leo. You tend to want work that carries your name, to lead with warmth rather than rank, and to need recognition to keep your heart in it. As the 10th's ruler, the Sun shows by its house where your public life draws its energy from."
+    a: "It puts your Midheaven, the top of the chart and the cusp of your public life, in Leo. The work you want is work with your name on it; you lead by warmth, and recognition keeps you going. As the 10th’s ruler, the Sun shows by its house where your public life draws its energy from."
   - q: "What careers suit a Leo Midheaven?"
     a: "There’s no list: the Midheaven describes a direction, and a Leo one points towards roles with presence, leading, creating, presenting, anything where you stand behind what you’ve made and are seen doing it. That fits many trades. The Sun’s house and sign show where your working life tends to centre."
   - q: "Does a Leo Midheaven mean fame?"
@@ -34,7 +34,7 @@ The Midheaven is the highest point of a chart and the cusp of the 10th house: yo
 
 ## What it means {#what-it-means}
 
-The sign on the [Midheaven](/astrology/midheaven/) is the style in which you're seen at work and in the world ([house cusps](/astrology/house-cusps/)), and with [Leo](/astrology/leo/) the wish is plain: to do work that carries your name, and to be recognised for it. I read the [10th house](/astrology/10th-house/) here as a public life built on presence. You tend to lead by warmth rather than by rank, to protect the people who work with you, and to give credit loudly when it's due. Creative work suits this cusp, and so does leadership, or anything with a stage to it, however small; above all, work you can stand behind. Recognition matters, and not as vanity: when nobody acknowledges what you've done, the heart goes out of it. The tender spot is criticism, which can land as a judgement on you rather than on the task. The 10th shows a direction, not a job title, and here the direction is towards being seen to do something well.
+The sign on the [Midheaven](/astrology/midheaven/) is the style in which you're seen at work and in the world ([house cusps](/astrology/house-cusps/)), and with [Leo](/astrology/leo/) the wish is plain: to do work that carries your name, and to be recognised for it. I read the [10th house](/astrology/10th-house/) here as a public life built on presence. You tend to lead by warmth rather than by rank, to protect the people who work with you, and to give credit loudly when it's due. Creative work suits this cusp, and so does leadership, or anything with a stage to it, however small; above all, work you can stand behind. Recognition matters, and not as vanity: when nobody acknowledges what you've done, the heart goes out of it. The tender spot is criticism, which can land as a judgement on you rather than on the task. Whatever the job, the aim here is to be seen doing something well.
 
 The [Sun](/astrology/sun/) rules your 10th house, so what you're known for answers to the planet of your Sun sign, the placement people already know you by. Its house shows where your public life draws its energy from: as ruler of the 10th, in the [1st](/astrology/10th-house-ruler-in-1st-house/), [2nd](/astrology/10th-house-ruler-in-2nd-house/), [3rd](/astrology/10th-house-ruler-in-3rd-house/), [4th](/astrology/10th-house-ruler-in-4th-house/), [5th](/astrology/10th-house-ruler-in-5th-house/), [6th](/astrology/10th-house-ruler-in-6th-house/), [7th](/astrology/10th-house-ruler-in-7th-house/), [8th](/astrology/10th-house-ruler-in-8th-house/), [9th](/astrology/10th-house-ruler-in-9th-house/), [10th](/astrology/10th-house-ruler-in-10th-house/), [11th](/astrology/10th-house-ruler-in-11th-house/) or [12th](/astrology/10th-house-ruler-in-12th-house/). The hour settles much of this. A daytime birth puts the ruler of your Midheaven above the horizon, in the half of the chart that's on view; a night birth puts it below, and the public role draws on something private, a home, a study, a skill worked at alone. When the Sun itself is in Leo, the birth took place around the middle of the day, and the Sun stands near your Midheaven in its own sign.
 

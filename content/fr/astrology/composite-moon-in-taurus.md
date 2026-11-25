@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Lune", "Taureau", "thème composite"]
 weight: 2002
 glyph: "☽♉"
-definition: "La Lune composite en Taureau signifie que le mi-point de deux Lunes natales tombe en Taureau, signe où la tradition exalte la Lune. Les astrologues y lisent une relation qui trouve sa sécurité par les sens et la répétition : repas partagés, lieux familiers, temps. Elle décrit un rythme, pas la promesse que le lien durera."
+definition: "La Lune composite en Taureau signifie que deux Lunes natales se rejoignent à mi-chemin en Taureau, signe où la tradition exalte la Lune. On y lit une relation qui trouve sa sécurité par les sens et la répétition : repas partagés, lieux familiers, temps. Elle décrit un rythme, pas la promesse que le lien durera."
 facts:
   - { k: "Corps", v: "La Lune composite ☽, à mi-chemin entre vos deux Lunes natales" }
   - { k: "Signe", v: "Taureau ♉, terre fixe, gouverné par Vénus ; exaltation de la Lune" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/moon-in-taurus", "/astrology/taurus", "/astrology/exaltation", "/astrology/venus"]
 faq:
   - q: "Que veut dire une Lune composite en Taureau ?"
-    a: "Que le mi-point de vos deux Lunes natales tombe en Taureau. Les astrologues y lisent une relation qui se sent le plus en sécurité avec un rythme régulier : des lieux familiers, des repas, du repos, du temps pour accueillir les choses. Elle décrit comment le lien prend soin de lui-même, ce qui peut différer de vos façons de faire."
+    a: "Vos deux Lunes natales se rejoignent à mi-chemin en Taureau. Les astrologues y voient une relation surtout à l’aise avec un rythme régulier : des lieux familiers, des repas, du repos, du temps pour accueillir les choses. Elle décrit comment le lien prend soin de lui-même, ce qui peut différer de vos façons de faire."
   - q: "La Lune est-elle exaltée dans un thème composite aussi ?"
     a: "Les dignités appartiennent aux signes : une Lune composite en Taureau se trouve donc dans le signe que Ptolémée appelait son exaltation. Dans le thème d’une relation, l’étiquette décrit une aisance : les besoins du lien et la manière du signe s’accordent. Elle ne rend pas la relation meilleure qu’une autre et ne promet pas qu’elle durera."
   - q: "Une Lune composite en Taureau annonce-t-elle une relation stable ?"
@@ -33,7 +33,7 @@ Certaines relations se calment comme un corps : avec un repas, du sommeil, une 
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-Dans le [thème composite](/astrology/composite-chart/), la Lune se trouve à mi-chemin entre vos deux Lunes natales et décrit ce dont la relation a besoin pour se sentir en sécurité. Le [Taureau](/astrology/taurus/), terre fixe, rend ce besoin concret : un réconfort que vous pouvez toucher, un rythme qui revient, des preuves plutôt que des promesses. Ptolémée donne à la [Lune](/astrology/moon/) son [exaltation](/astrology/exaltation/) dans ce signe, là où la tradition la dit la plus forte. Dans le thème d’une relation, cette étiquette décrit une aisance plutôt qu’un rang : la façon dont le lien prend soin de lui-même et la manière du signe tirent dans le même sens.
+Dans le [thème composite](/astrology/composite-chart/), la Lune se trouve à mi-chemin entre vos deux Lunes natales et décrit ce qu’il faut à la relation pour se sentir à l’abri. Le [Taureau](/astrology/taurus/), terre fixe, rend ce besoin concret : un réconfort que vous pouvez toucher, un rythme qui revient, des preuves plutôt que des promesses. Ptolémée donne à la [Lune](/astrology/moon/) son [exaltation](/astrology/exaltation/) dans ce signe, le signe où, selon la tradition, elle a le plus de force. Dans le thème d’une relation, cette étiquette décrit une aisance plutôt qu’un rang : la façon dont le lien prend soin de lui-même et la manière du signe tirent dans le même sens.
 
 Rien de tout cela ne doit venir de l’une ou l’autre personne. Une Lune à 15° Poissons et une Lune à 15° Cancer, deux Lunes d’eau qui captent toutes les humeurs d’une pièce, se rejoignent à mi-chemin, à 15° Taureau : les deux personnes qui les portent forment ensemble une relation qui s’apaise par le corps plutôt qu’en ressentant tout deux fois. Même si l’une des deux a la [Lune en Taureau](/astrology/moon-in-taurus/), le composite décrit un troisième ensemble d’habitudes, construit entre vous : le plat que vous cuisinez quand la semaine a été mauvaise, le silence qui n’est pas une bouderie, la boutique où l’on vous connaît de vue.
 
@@ -41,6 +41,6 @@ Ce que cette Lune supporte mal, c’est le bouleversement. Un déménagement, un
 
 [Vénus](/astrology/venus/) gouverne le Taureau : dans un composite, son signe et sa maison ajoutent ce que vous estimez à deux et l’endroit où vous trouvez du plaisir ensemble. Ici, réconfort et plaisir sont voisins, et une paire avec cette Lune montre souvent son attention par les sens : une pièce chaude, un lit bien fait, un repas choisi en pensant à l’autre.
 
-Environ 1 paire sur 12 a cette Lune composite ; l’exaltation ne rend pas un signe plus fréquent. Chaque Lune natale avance d’environ 13° par jour : les deux heures de naissance fixent donc son degré exact et, près des bords du signe, celui de ses voisins que vous obtenez à la place. Au tout début, ce peut être encore la [Lune composite en Bélier](/astrology/composite-moon-in-aries/), plus prompte ; vers la fin, déjà la [Lune composite en Gémeaux](/astrology/composite-moon-in-gemini/), plus bavarde. Sans les deux heures, impossible de savoir laquelle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+L’exaltation ne rend pas un signe plus fréquent : le Taureau n’accueille pas plus de Lunes composites qu’un autre, environ 1 paire sur 12. Son degré exact se joue sur les deux heures de naissance, puisqu’une Lune natale fait environ 13° en un jour, et près des bords du signe elles décident du voisin que vous obtenez à la place. Au tout début, ce peut être encore la [Lune composite en Bélier](/astrology/composite-moon-in-aries/), plus prompte ; vers la fin, déjà la [Lune composite en Gémeaux](/astrology/composite-moon-in-gemini/), plus bavarde. Sans les deux heures, impossible de savoir laquelle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Je décris les composites sans les dresser pour mes lectures, et les astrologues qui s’en servent lisent cette Lune avec les deux thèmes natals et la [synastrie](/astrology/synastry/). La constance est ici une manière de ressentir, pas une garantie : une Lune composite en Taureau ne peut pas vous dire qu’une relation durera, pas plus qu’une Lune agitée ne peut vous dire le contraire.
+Je décris les composites sans en dresser moi-même ; les astrologues qui les pratiquent ne lisent jamais cette Lune sans la [synastrie](/astrology/synastry/) et les deux thèmes de naissance. La constance est ici une manière de ressentir, pas une garantie : une Lune composite en Taureau ne peut pas vous dire qu’une relation durera, pas plus qu’une Lune agitée ne peut vous dire le contraire.

@@ -1,7 +1,7 @@
 ---
 title: "Sagittarius on the 2nd house cusp"
 h1: "Sagittarius on the 2nd house cusp in a birth chart"
-description: "Sagittarius on the 2nd house cusp: money valued for the room it buys, Jupiter in charge of your resources, Scorpio rising every time, and how often it occurs."
+description: "Sagittarius on the 2nd house cusp: money valued for the room it buys, Jupiter in charge of your resources, Scorpio rising every time, about 1 birth in 10."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Sagittarius", "2nd house", "house cusps"]
 weight: 2521
 glyph: "♐"
-definition: "Sagittarius on the 2nd house cusp means the house of money, possessions and self-worth begins in Sagittarius, the mutable fire sign. Money tends to matter for the room it buys, to learn, travel or say yes, more than for the safety it gives. Jupiter, the sign’s ruler, shows by its house where that plays out."
+definition: "Sagittarius on the 2nd house cusp puts the mutable fire sign at the start of the house of money, possessions and self-worth. Money tends to matter for the room it buys, to learn, travel or say yes, more than for the safety it gives. Jupiter’s house in your chart shows where the money comes and goes."
 facts:
   - { k: "Sign", v: "Sagittarius ♐, mutable fire" }
   - { k: "Cusp", v: "The 2nd house: money, possessions, self-worth" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/sagittarius", "/astrology/2nd-house", "/astrology/jupiter", "/astrology/scorpio-rising", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "What does Sagittarius on the 2nd house cusp mean?"
-    a: "That your 2nd house, the house of money, possessions and self-worth, opens in Sagittarius. You tend to value money for what it lets you do next, a course, a ticket, a year to try something, and to give generously. Jupiter rules the house, so the house Jupiter sits in shows where your earning and spending centre."
+    a: "It means the house of money, possessions and self-worth opens in Sagittarius. You tend to value money for what it lets you do next, a course, a ticket, a year to try something, and to give generously. Jupiter rules the house, and the house Jupiter occupies shows where earning and spending centre."
   - q: "Is Sagittarius on the 2nd house good for money?"
     a: "No cusp decides how much money you’ll have, and I don’t read a chart for that. This one describes an attitude: money as a means to grow rather than a store to guard. It can make you generous and ready to spend on learning, and it can make a tight budget hard to live with."
   - q: "Which rising sign comes with Sagittarius on the 2nd house cusp?"
@@ -39,6 +39,6 @@ Your [2nd house](/astrology/2nd-house/) holds what you earn and keep, and the wo
 
 Few of Sagittarius's cusps are commoner: it opens the 2nd in about 1 birth in 10, a figure London and New York share, in Placidus, the house system I use. Sagittarius closes the slow-rising half of the zodiac in the northern hemisphere, so the cusps under the rising degree linger in it far longer than in a quick sign like Capricorn. It settles the east of the chart as well. At both latitudes, every chart with this cusp has [Scorpio rising](/astrology/scorpio-rising/): Pluto and Mars speak for the chart and Jupiter for the purse: a guarded front with an open hand behind it. In these charts the 2nd spans some 35° to 42° at London, too wide for Sagittarius to reach a second cusp, and roughly 3 London charts in 10 hold all of Capricorn inside it too, an [intercepted sign](/astrology/intercepted-signs/) that gives Saturn a quieter say in what you hold on to.
 
-The sky keeps turning after the minute you were born. Later the same day, Sagittarius climbs to the Ascendant ([Sagittarius rising](/astrology/sagittarius-rising/)); earlier, it sat on the next cusp down ([Sagittarius on the 3rd house cusp](/astrology/sagittarius-on-3rd-house-cusp/)). Only the birth time says which of these is yours, and a chart without one stays unread on my desk ([what changes without a birth time](/blog/unknown-birth-time/)).
+The sky keeps turning after the minute you were born. Later the same day, Sagittarius climbs to the Ascendant ([Sagittarius rising](/astrology/sagittarius-rising/)); earlier, it sat on the next cusp down ([Sagittarius on the 3rd house cusp](/astrology/sagittarius-on-3rd-house-cusp/)). Only the birth time says which of these is yours, and I need it before I begin ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Jupiter's name for plenty tempts people to read this cusp as a promise of wealth. It isn't one. The 2nd shows how you earn, spend and value, never the sums, and picking investments is beyond any chart ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). What it can show is why money that only sits still rarely feels like security to you.

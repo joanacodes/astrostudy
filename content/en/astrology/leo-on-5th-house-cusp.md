@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/leo", "/astrology/5th-house", "/astrology/sun", "/astrology/taurus-rising", "/astrology/can-astrology-predict-pregnancy"]
 faq:
   - q: "What does Leo on the 5th house cusp mean?"
-    a: "That the house of creativity, pleasure and romance opens in its own natural sign. You tend to take joy wholeheartedly, to create with an audience in mind, even an audience of one, and to love demonstratively. The Sun, the 5th’s natural ruler, rules it here in fact, and its house shows where your delight goes."
+    a: "It means the house of joy is in its natural sign, so pleasure, play and romance come openly and wholeheartedly. Making things delights you most when someone sees them, and love is shown rather than hinted. The Sun, the 5th’s natural ruler, rules it here in fact, and its house shows where your delight goes."
   - q: "Is Leo on the 5th house cusp a good placement?"
-    a: "I don’t sort placements into good and bad. Leo on the 5th puts the house in its natural sign, so pleasure, play and making things tend to come easily and openly. The thing to watch is joy that starts to depend on applause; keeping one thing you do purely for yourself balances it."
+    a: "I don’t sort placements into good and bad. With the house in its own sign, delight tends to come easily and show openly. What I watch for is a joy that comes to depend on an audience; pleasure that needs no witness keeps it balanced."
   - q: "Does Leo on the 5th house cusp mean I’ll have children?"
-    a: "No. Tradition gave the 5th children, but no chart can say whether or when anyone will have a child, and I don’t predict it. In an adult’s chart I read the 5th as your own creativity, pleasure and romance, and I don’t read children’s charts."
+    a: "No. Children were once looked for in the 5th, but a chart can’t tell anyone if or when they’ll become a parent, so I make no such forecast. Read in an adult’s life, this house is about your own delight, play and love affairs, and children’s charts are not something I read."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "here, Placidus cusps for births spread over a whole day at London and New York, the width of the 5th and the signs it holds" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Sun as the ruler of Leo, Venus of Taurus" }

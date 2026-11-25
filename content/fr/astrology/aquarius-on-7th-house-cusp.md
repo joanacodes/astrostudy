@@ -2,7 +2,7 @@
 title: "Verseau sur la cuspide de la maison 7"
 slug: "verseau-cuspide-maison-7"
 h1: "Verseau sur la cuspide de la maison 7 dans un thème natal"
-description: "Verseau sur la cuspide de la maison 7, descendant en Verseau : des partenaires qui sont aussi des amis, l’ascendant Lion, Uranus et Saturne pour maîtres."
+description: "Verseau sur la cuspide de la maison 7 : un descendant en Verseau, des partenaires qui sont aussi des amis, l’ascendant Lion, Uranus et Saturne pour maîtres."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/aquarius", "/astrology/7th-house", "/astrology/descendant", "/astrology/leo-rising", "/astrology/uranus"]
 faq:
   - q: "Que veut dire un descendant en Verseau ?"
-    a: "Que la maison 7, celle des partenaires et des liens en tête-à-tête, s’ouvre en Verseau, avec l’ascendant Lion en face. Vous cherchez volontiers un égal qui a sa tête et sa vie, et un lien qui ressemble à une alliance entre deux personnes libres. Uranus et Saturne gouvernent votre maison 7, et je lis les deux."
+    a: "Que la maison 7, celle des partenaires et des liens en tête-à-tête, s’ouvre en Verseau, avec l’ascendant Lion en face. Vous cherchez volontiers un égal qui a sa tête et sa vie, et un lien qui ressemble à une alliance entre deux personnes libres. Les deux maîtres de votre maison 7, Uranus et Saturne, comptent dans ma lecture."
   - q: "L’ascendant est-il toujours Lion avec le Verseau sur la cuspide de la maison 7 ?"
     a: "Oui. Le descendant est exactement opposé à l’ascendant : un descendant en Verseau veut toujours dire un ascendant Lion. Le Soleil gouverne votre thème, Uranus et Saturne vos relations : la chaleur et la visibilité viennent de vous, et les personnes que vous choisissez apportent l’indépendance et le long terme."
   - q: "Une maison 7 en Verseau annonce-t-elle un couple hors norme ?"
@@ -32,7 +32,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le Soleil, maître du Lion ; Saturne, du Verseau et du Capricorne" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’ascendant et le descendant, et le temps que met un signe à franchir l’horizon" }
 ---
-Le Verseau sur la cuspide de la maison 7 place votre descendant en Verseau, en face d’un ascendant Lion. Vous abordez le monde avec chaleur et en pleine lumière, et les personnes que vous choisissez d’avoir en face de vous, en tête-à-tête, sont souvent celles qui vous parlent d’égal à égal au lieu de vous applaudir.
+Avec le Verseau sur la cuspide de la maison 7, votre descendant fait face à un ascendant Lion. Vous apportez la chaleur dans une pièce ; les personnes avec qui vous faites équipe apportent une curiosité plus fraîche, et vous parlent d’égal à égal au lieu de vous applaudir.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

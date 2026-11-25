@@ -1,13 +1,15 @@
 ---
 title: "Composite Sun in Gemini"
 h1: "Composite Sun in Gemini: the relationship’s chart"
-description: "Composite Sun in Gemini: a relationship that lives in conversation, with a Mercury that can wander where no birth chart allows. What it says about you two."
+description: "Composite Sun in Gemini: a relationship that lives in conversation, and whose ruler, Mercury, can wander further from the Sun than any birth chart allows."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Sun", "Gemini", "composite chart"]
 weight: 1979
 glyph: "☉♊"
-definition: "A composite Sun in Gemini puts the centre of a relationship’s chart, the point halfway between two people’s Suns, in Mercury’s sign of mutable air. Astrologers read it as a bond that lives in exchange: talk, questions, shared news and many threads at once. It describes the relationship itself, not either person."
+definition: "A composite Sun in Gemini puts the centre of a relationship’s chart, the point halfway between two people’s Suns, in Mercury’s sign of mutable air. Astrologers read it as a bond that lives in exchange: talk, questions, shared news and many threads at once. Each person keeps their own chart; this one is the bond’s."
 facts:
   - { k: "Body", v: "The composite Sun ☉, the nearer midpoint of your two natal Suns" }
   - { k: "Sign", v: "Gemini ♊, mutable air, ruled by Mercury" }
@@ -16,7 +18,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/sun-in-gemini", "/astrology/gemini", "/astrology/mercury", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Sun in Gemini mean?"
-    a: "Your two Suns have their midpoint in Gemini, so the chart drawn for your relationship centres on mutable air. Astrologers read it as a bond that lives in exchange: talk, questions, news and ideas passed back and forth. It describes what the two of you make together, never either person alone."
+    a: "Your two Suns have their midpoint in Gemini, Mercury’s sign of mutable air, and the chart drawn for your relationship centres there. Astrologers read it as a bond that lives in exchange: talk, questions, news and ideas passed back and forth. It describes what the two of you make together, never either person alone."
   - q: "Can composite Mercury be far from a Gemini composite Sun?"
     a: "Yes. Each composite planet is a midpoint calculated on its own, so composite Mercury lands more than 28° from the composite Sun in about 1 pair in 18, which no birth chart allows. With a Gemini composite Sun, its ruler may then sit in a distant sign: midpoint arithmetic, not a message."
   - q: "Is a composite Sun in Gemini good for a friendship?"

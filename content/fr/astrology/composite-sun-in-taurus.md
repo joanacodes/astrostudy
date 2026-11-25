@@ -2,7 +2,7 @@
 title: "Soleil composite en Taureau"
 slug: "soleil-composite-en-taureau"
 h1: "Soleil composite en Taureau : le thème de la relation"
-description: "Soleil composite en Taureau : un lien bâti sur la continuité et un rythme tenable, avec Vénus là où aucun thème natal ne la mettrait. Ce qu’il dit de vous."
+description: "Soleil composite en Taureau : un lien bâti sur la continuité et un rythme tenable, avec Vénus parfois plus loin du Soleil qu’aucun thème natal ne le permet."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Soleil", "Taureau", "thème composite"]
 weight: 1978
 glyph: "☉♉"
-definition: "Le Soleil composite en Taureau est le Soleil d’un thème de relation qui, à mi-chemin entre les Soleils natals de deux personnes, se trouve en terre fixe, dans le signe de Vénus. Les astrologues y lisent un lien qui se reconnaît à sa continuité : habitudes, lieux et rythme bâtis à deux. Il décrit sa croissance, pas sa durée."
+definition: "Le Soleil composite en Taureau est le Soleil d’un thème de relation qui, à mi-chemin entre les Soleils natals de deux personnes, se trouve en terre fixe, signe de Vénus. Son identité, pour les astrologues, tient à la continuité : habitudes, lieux et rythme bâtis à deux. Il décrit comment le lien grandit, sans rien promettre de sa durée."
 facts:
   - { k: "Corps", v: "Le Soleil composite ☉, à mi-chemin entre vos deux Soleils natals" }
   - { k: "Signe", v: "Taureau ♉, terre fixe, gouverné par Vénus" }
@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/sun-in-taurus", "/astrology/taurus", "/astrology/venus", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire un Soleil composite en Taureau ?"
-    a: "Qu’à mi-chemin entre vos deux Soleils se trouve le Taureau, et que le thème de votre relation prend son centre en terre fixe. Les astrologues y lisent un lien qui se reconnaît à sa continuité, aux habitudes, aux lieux et au rythme que vous bâtissez à deux. Il décrit la manière de la relation, pas celle des personnes."
+    a: "Qu’à mi-chemin entre vos deux Soleils se trouve le Taureau, signe de terre fixe de Vénus, où le thème de votre relation prend son centre. Dans la tradition du composite, la continuité devient alors l’identité du lien : les habitudes, les lieux et le rythme que vous bâtissez à deux. Il décrit la manière de la relation, pas celle des personnes."
   - q: "Un Soleil composite en Taureau veut-il dire que la relation va durer ?"
     a: "Non. Le Taureau décrit une manière, régulière et cumulative, pas une durée de vie. Aucun thème de deux personnes ne dit combien de temps elles resteront ensemble ni comment les choses tourneront : cela leur revient, avec leurs choix. Ce qu’il décrit, c’est un lien qui grandit en ajoutant à ce qu’il a déjà."
   - q: "Pourquoi notre Vénus composite est-elle si loin de notre Soleil composite ?"
-    a: "Parce que le composite calcule le mi-point de Vénus sans regarder celui du Soleil. Dans un thème natal, Vénus reste toujours à moins de 47° environ du Soleil ; dans un composite, environ 1 paire sur 10 a plus de 47° entre les deux. Pour un Soleil composite en Taureau, signe de Vénus, c’est un calcul, pas un message."
+    a: "Parce que le composite calcule le mi-point de Vénus sans regarder celui du Soleil. Dans un thème natal, Vénus et le Soleil ne sont jamais séparés de plus de 47° environ ; dans un composite, environ 1 paire sur 10 dépasse cet écart. Pour un Soleil composite en Taureau, signe de Vénus, c’est un calcul, pas un message."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part des Soleils composites en Taureau, et celle des Vénus composites à plus de 47° du Soleil" }
@@ -32,7 +32,7 @@ La continuité est le centre d’une relation dont le Soleil composite est en Ta
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-Le [Taureau](/astrology/taurus/) pose une seule question à tout ce qu’il touche : comment cela devient-il durable ? Dans [le thème composite](/astrology/composite-chart/), où chaque planète se tient au [mi-point](/astrology/midpoints/) de ses deux places natales, cette question est posée au [Soleil](/astrology/sun/) de la relation, et elle devient l’identité du lien. Environ 1 paire sur 12 l’a, quels que soient les signes solaires des deux personnes. Près des bords du signe, les heures de naissance comptent : un mi-point juste avant 0° Taureau relève du [Soleil composite en Bélier](/astrology/composite-sun-in-aries/), un mi-point juste après 0° Gémeaux du [Soleil composite en Gémeaux](/astrology/composite-sun-in-gemini/), et les heures des deux naissances peuvent le déplacer d’un degré environ.
+Le [Taureau](/astrology/taurus/) pose une seule question à tout ce qu’il touche : comment cela devient-il durable ? Dans [le thème composite](/astrology/composite-chart/), où chaque planète se tient au [mi-point](/astrology/midpoints/) de ses deux places natales, cette question est posée au [Soleil](/astrology/sun/) de la relation, et elle devient l’identité du lien. Environ 1 paire sur 12 le porte. Près des bords du signe, les heures de naissance comptent : un mi-point juste avant 0° Taureau relève du [Soleil composite en Bélier](/astrology/composite-sun-in-aries/), un mi-point juste après 0° Gémeaux du [Soleil composite en Gémeaux](/astrology/composite-sun-in-gemini/), et les heures des deux naissances peuvent le déplacer d’un degré environ.
 
 Son identité vit dans ce qu’il fait durer : la promenade du dimanche, la cuisine où se tiennent la plupart de vos conversations, le projet auquel vous ajoutez un peu chaque année. La répétition le restaure : le repas familier, la soirée qui se passe comme se passent ces soirées-là. Et ce à quoi il sert est assez clair : quelque chose sur quoi vous tenir à deux, bâti à un rythme que chacune des deux personnes peut suivre. Posées à côté des deux thèmes natals, les habitudes dont le lien est fait n’appartiennent souvent au passé d’aucune des deux : c’est un troisième ensemble, fait de morceaux des deux.
 

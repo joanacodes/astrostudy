@@ -20,9 +20,9 @@ facts:
 related: ["/astrology/leo", "/astrology/3rd-house", "/astrology/sun", "/astrology/cancer-rising", "/astrology/planetary-joys"]
 faq:
   - q: "What does it mean to have Leo on the 3rd house cusp?"
-    a: "That the house of everyday words, learning, siblings and neighbours opens in Leo. You tend to talk with warmth and a voice of your own, to understand things best once you’ve explained them to someone, and to defend the people close at hand. Follow the Sun, which rules the house, to see what your words end up serving."
+    a: "It means everyday talk, learning and your ties with siblings and neighbours take on Leo’s warmth: lessons stick once you’ve taught them, your messages have a voice of their own, and you’re loyal to the people close at hand. Follow the Sun, which rules the house, to see what your words end up serving."
   - q: "How does Leo on the 3rd house cusp affect communication?"
-    a: "It gives your words presence. Messages tend to sound like you, stories come out well told, and you like what you say to land. Leo is a fixed sign, so opinions formed in conversation often stay formed. Being corrected in public can sting; being properly heard, even once, usually settles it."
+    a: "It gives your words presence: stories come out well told, and you like what you say to land. Leo is a fixed sign, so opinions formed in conversation often stay formed. You tend to listen best to people who are warm with you, and to go quiet with those who aren’t."
   - q: "Why do I have Cancer rising with Leo on the 3rd house cusp?"
     a: "Because in these charts the 3rd cusp falls only about 35° past the Ascendant at London, so the rising sign is nearly always the one before Leo: Cancer in about 9 London charts in 10, Gemini in the rest. With Cancer rising, the Moon rules your chart and the Sun your 3rd house, so feeling and speech are read together."
 sources:
