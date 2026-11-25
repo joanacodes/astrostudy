@@ -24,7 +24,7 @@ faq:
   - q: "Is composite Saturn in Virgo critical or controlling?"
     a: "Not by nature. What Virgo adds is precision and an interest in how things work; criticism is no part of it. The risk comes from Saturn’s side: a wish for control that can turn improvement into inspection. Naming what already works, as well as what still needs fixing, keeps the bond’s method helpful rather than exacting."
   - q: "How rare is composite Saturn in Virgo?"
-    a: "Among two million pairs of people born from 1930 to 2009, about 1 pair in 14 had it, which makes Virgo, with Libra, the scarcest composite Saturn sign. Most pairs with it were born in the same years, September 1948 to August 1951 or November 1977 to September 1980."
+    a: "About 1 pair in 14, the lowest share of any composite Saturn sign, level with Libra. Most pairs with it were born in the same years, September 1948 to August 1951 or November 1977 to September 1980."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Saturn falls in Virgo, and the birth years that give it to pairs of the same age" }

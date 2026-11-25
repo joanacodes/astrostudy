@@ -25,7 +25,7 @@ faq:
   - q: "Est-ce que Saturne composite en Vierge rend une relation critique ou contrôlante ?"
     a: "Pas par nature. Ce que la Vierge ajoute, c’est la précision et l’intérêt pour la façon dont les choses marchent ; la critique n’en fait pas partie. Le risque vient de Saturne : un désir de contrôle qui peut changer l’amélioration en inspection. Nommer ce qui marche déjà, autant que ce qui reste à réparer, garde la méthode du lien utile plutôt qu’exigeante."
   - q: "Saturne composite en Vierge, est-ce rare ?"
-    a: "Sur deux millions de paires de personnes nées de 1930 à 2009, environ 1 paire sur 14 avait ce placement : avec la Balance, c’est le signe le plus rare pour Saturne composite. La plupart de ces paires sont nées les mêmes années, de septembre 1948 à août 1951 ou de novembre 1977 à septembre 1980."
+    a: "Environ 1 paire sur 14, la part la plus faible de tous les signes pour Saturne composite, à égalité avec la Balance. La plupart de ces paires sont nées les mêmes années, de septembre 1948 à août 1951 ou de novembre 1977 à septembre 1980."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Saturne composite en Vierge, et les années de naissance qui donnent ce placement aux paires du même âge" }

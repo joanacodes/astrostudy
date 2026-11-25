@@ -24,7 +24,7 @@ faq:
   - q: "Does composite Saturn in Aquarius mean a distant relationship?"
     a: "Not by nature. Aquarius brings objectivity and room for individuality, not coldness. It is Saturn that brings the risk: rules about freedom can harden until closeness feels rationed. Letting some togetherness go unplanned, and checking the bond’s principles against how both of you actually feel, keeps the frame from turning into distance."
   - q: "Is Saturn at home in Aquarius?"
-    a: "In the tradition, yes: Aquarius is one of Saturn’s two signs, with Capricorn. Modern tropical astrology gave it to Uranus as well, and I read both rulers. Astrologers who use composites would also check composite Uranus, which shows how and when the bond rewrites its rules."
+    a: "Yes, by the traditional scheme: Saturn rules Aquarius as well as Capricorn. Modern tropical astrology gave it to Uranus as well, and I read both rulers. Astrologers who use composites would also check composite Uranus, which shows how and when the bond rewrites its rules."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Saturn falls in Aquarius, and the birth years that give it to pairs of the same age" }

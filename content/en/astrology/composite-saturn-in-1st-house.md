@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Saturn", "1st house", "composite chart"]
 weight: 2133
 glyph: "♄"
-definition: "Composite Saturn in the 1st house places the relationship chart’s Saturn in the house that begins at the composite Ascendant, the angular house of how a bond meets the world. Astrologers read a pair that comes across as serious and steady, slow to show itself and taken seriously in return. It needs both birth times."
+definition: "Composite Saturn in the 1st house places the relationship chart’s Saturn in the house that begins at the composite Ascendant, the angular house of how a bond meets the world. Astrologers read a pair that comes across as serious and steady, slow to show itself and taken seriously in return. Both birth times decide it."
 facts:
   - { k: "Body", v: "Composite Saturn ♄" }
   - { k: "House", v: "The 1st house: how the relationship appears and meets the world" }
@@ -21,7 +21,7 @@ faq:
   - q: "What does composite Saturn in the 1st house mean?"
     a: "It describes a relationship whose first impression is its seriousness. Others tend to meet the pair as steady, reserved or older than its years, and the bond may take time to show what it is. Astrologers read it as the relationship’s way of presenting itself, not as either person’s character, and never as a forecast."
   - q: "Why does composite Saturn in the 1st house need both birth times?"
-    a: "Because the 1st house begins at the composite Ascendant, and each natal Ascendant runs through the whole zodiac in about a day, faster than anything else in a chart. An error in either time moves the composite Ascendant, and so does the house method chosen. So the house is only as reliable as the two birth times behind it."
+    a: "Because the 1st house begins at the composite Ascendant, and each natal Ascendant runs through the whole zodiac in about a day, faster than anything else in a chart. An error in either time moves the composite Ascendant, and so does the house method chosen. A Saturn close to that point can change houses with it."
   - q: "Does composite Saturn in the 1st house make a relationship cold?"
     a: "No. Saturn here describes reserve and steadiness in how the pair shows itself, not a lack of warmth inside it. A bond like this is often private at first and dependable later. What helps is letting a few people see the relationship as it really is, and learning to enjoy being seen."
 sources:

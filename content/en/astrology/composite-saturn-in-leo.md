@@ -24,7 +24,7 @@ faq:
   - q: "Why is Saturn in detriment in Leo?"
     a: "Because Leo faces Aquarius, one of Saturn’s two traditional signs, and tradition says a planet in the sign opposite its own is in detriment. Saturn’s caution sits awkwardly with Leo’s radiance. In a composite, that reads as a lesson about play and pride, never as a sign that the relationship is doomed."
   - q: "Is composite Saturn in Leo common?"
-    a: "One of the less common composite Saturn signs: about 1 pair in 13, in a count of two million random pairs. Most who have it were born in the same stretch, August 1946 to May 1949, September 1975 to July 1978, or July 2005 to September 2007. With an age gap, it takes two Saturns on either side of Leo."
+    a: "Leo sits on the scarcer side for composite Saturn: about 1 pair in 13 in the count. Most who have it were born in the same stretch, August 1946 to May 1949, September 1975 to July 1978, or July 2005 to September 2007. With an age gap, it takes two Saturns on either side of Leo."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Saturn falls in Leo, and the birth years that give it to pairs of the same age" }

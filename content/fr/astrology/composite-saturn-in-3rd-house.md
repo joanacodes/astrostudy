@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Saturne", "maison 3", "thème composite"]
 weight: 2135
 glyph: "♄"
-definition: "Avec Saturne composite en maison 3, maison cadente, la structure d’une relation se loge dans le quotidien : parole, apprentissage, fratrie, voisinage. Les astrologues y lisent une paire dont l’engagement se voit au jour le jour : mots pesés, savoirs appris à deux, devoirs tout proches. Il faut d’abord les deux heures de naissance et une méthode de maisons."
+definition: "Avec Saturne composite en maison 3, maison cadente, la structure d’une relation se loge dans le quotidien : parole, apprentissage, fratrie, voisinage. Les astrologues y lisent une paire dont l’engagement se voit au jour le jour : mots pesés, savoirs appris à deux, devoirs tout proches. Deux heures de naissance, puis une méthode pour les maisons, passent avant tout."
 facts:
   - { k: "Corps", v: "Saturne composite ♄" }
   - { k: "Maison", v: "Maison 3 : parole quotidienne, apprentissage, fratrie, voisinage, petits trajets" }

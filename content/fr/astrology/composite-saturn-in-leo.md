@@ -25,7 +25,7 @@ faq:
   - q: "Pourquoi dit-on que Saturne est en exil dans le Lion ?"
     a: "Parce que le Lion fait face au Verseau, signe traditionnel de Saturne, et que la tradition dit en exil une planète dans le signe opposé au sien. La prudence s’y accorde mal avec le rayonnement. Dans un composite, cela se lit comme une leçon sur le jeu et la fierté, jamais comme une relation condamnée."
   - q: "Saturne composite en Lion, est-ce fréquent ?"
-    a: "L’un des moins courants pour Saturne composite : environ 1 paire sur 13 sur deux millions tirées au hasard. La plupart des paires qui l’ont sont nées dans la même période : août 1946 à mai 1949, septembre 1975 à juillet 1978, juillet 2005 à septembre 2007. Avec un écart d’âge, il faut deux positions de Saturne encadrant le Lion."
+    a: "Le Lion se range parmi les signes les moins fréquents pour Saturne composite : environ 1 paire sur 13 dans le décompte. La plupart des paires qui l’ont sont nées dans la même période : août 1946 à mai 1949, septembre 1975 à juillet 1978, juillet 2005 à septembre 2007. Avec un écart d’âge, il faut deux positions de Saturne encadrant le Lion."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Saturne composite en Lion, et les années de naissance qui donnent ce placement aux paires du même âge" }

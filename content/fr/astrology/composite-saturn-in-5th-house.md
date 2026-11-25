@@ -44,4 +44,4 @@ De part et d’autre se trouvent deux postes plus naturels pour Saturne dans une
 
 La difficulté, c’est le plaisir qui tourne à la performance : l’anniversaire qui doit être parfait, le loisir qui doit progresser, le projet créatif qui devient un second métier. Une romance entretenue par devoir peut perdre la légèreté qu’elle devait protéger. Ce qui aide : protéger le temps du jeu aussi fermement que tout autre engagement, puis le laisser sans programme ; avoir au moins un passe-temps commun où aucune des deux personnes n’est douée ; et dire de temps en temps ce que chacune aime aujourd’hui, qui n’est peut-être plus ce qu’elle aimait il y a dix ans.
 
-Je ne travaille pas moi-même avec les composites. Voici la lecture de la technique, que celles et ceux qui la pratiquent posent à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/).
+Les composites ne font pas partie de mes lectures : voyez cette page comme la règle d’un jeu que je décris sans y jouer, une règle que ses joueuses et joueurs appliquent toujours à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/).

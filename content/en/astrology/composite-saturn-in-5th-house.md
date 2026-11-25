@@ -43,4 +43,4 @@ On either side sit two of Saturn's more natural stations in a relationship: the 
 
 The difficulty is pleasure that turns into performance: the anniversary that has to be perfect, the hobby that has to improve, the creative project that becomes a second job. Romance kept up out of duty alone can lose the lightness it was meant to protect. It helps to guard time for play as firmly as any other commitment and then leave that time unplanned; to have at least one shared pastime neither of you is any good at; and to say, now and then, what each of you enjoys now, which may not be what you enjoyed ten years ago.
 
-I don't work with composites myself. This is the technique's reading, which its practitioners set beside both natal charts and the [synastry](/astrology/synastry/).
+Composites are not part of my readings; think of this page as the rules of a game I describe but don't play, rules its players always use alongside both natal charts and the [synastry](/astrology/synastry/).

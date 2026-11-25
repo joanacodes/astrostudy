@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Saturne", "maison 1", "thème composite"]
 weight: 2133
 glyph: "♄"
-definition: "Saturne composite en maison 1 place Saturne dans la maison qui commence à l’Ascendant composite : la maison angulaire de la façon dont un lien se présente au monde. Les astrologues y lisent une paire qui paraît sérieuse et stable, lente à se montrer et prise au sérieux en retour. Il faut les deux heures de naissance."
+definition: "Saturne composite en maison 1 place Saturne dans la maison qui commence à l’Ascendant composite : la maison angulaire de la façon dont un lien se présente au monde. Les astrologues y lisent une paire qui paraît sérieuse et stable, lente à se montrer et prise au sérieux en retour. Tout dépend de l’heure de chaque naissance."
 facts:
   - { k: "Corps", v: "Saturne composite ♄" }
   - { k: "Maison", v: "Maison 1 : la façon dont la relation apparaît et se présente au monde" }
@@ -22,7 +22,7 @@ faq:
   - q: "Que veut dire Saturne composite en maison 1 ?"
     a: "Ce placement décrit une relation dont la première impression est le sérieux. Les autres rencontrent une paire stable, réservée ou plus âgée que ses années, et le lien peut prendre son temps pour montrer ce qu’il est. Les astrologues y lisent la façon dont la relation se présente, pas le caractère de l’une ou l’autre personne, et jamais une prévision."
   - q: "Pourquoi faut-il les deux heures de naissance pour Saturne composite en maison 1 ?"
-    a: "Parce que la maison 1 commence à l’Ascendant composite, et que chaque Ascendant natal parcourt tout le zodiaque en un jour environ, plus vite que tout le reste d’un thème. Une erreur sur l’une des heures déplace l’Ascendant composite, et la méthode de maisons choisie aussi. La maison ne vaut donc que ce que valent les deux heures de naissance."
+    a: "Parce que la maison 1 commence à l’Ascendant composite, et que chaque Ascendant natal parcourt tout le zodiaque en un jour environ, plus vite que tout le reste d’un thème. Une erreur sur l’une des heures déplace l’Ascendant composite, et la méthode de maisons choisie aussi. Une position de Saturne proche de ce point peut changer de maison avec lui."
   - q: "Est-ce que Saturne composite en maison 1 rend une relation froide ?"
     a: "Non. Saturne décrit ici la réserve et la stabilité dans la façon dont la paire se montre, pas un manque de chaleur au-dedans. Un tel lien est souvent discret au début et fiable ensuite. Ce qui aide : laisser quelques personnes voir la relation telle qu’elle est vraiment, et apprendre à aimer qu’on vous voie."
 sources:

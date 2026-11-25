@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Saturn", "3rd house", "composite chart"]
 weight: 2135
 glyph: "♄"
-definition: "Composite Saturn in the 3rd house, a cadent house, lodges a relationship’s structure in small daily things: talk, learning, siblings, neighbours. Astrologers read a pair whose commitment shows in ordinary contact: words chosen carefully, skills learned slowly together, duties close to home. Two birth times and a house method must come first."
+definition: "Composite Saturn in the 3rd house, a cadent house, lodges a relationship’s structure in small daily things: talk, learning, siblings, neighbours. Astrologers read a pair whose commitment shows in ordinary contact: words chosen carefully, skills learned slowly together, duties close to home. Two birth times, then a method for the houses, come first."
 facts:
   - { k: "Body", v: "Composite Saturn ♄" }
   - { k: "House", v: "The 3rd house: daily talk, learning, siblings, neighbours, short trips" }
