@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Nœud Nord", "Lion", "thème composite"]
 weight: 2269
 glyph: "☊♌"
-definition: "Le Nœud Nord composite en Lion est le Nœud Nord du thème de la relation, mi-point de deux Nœuds Nord natals, en feu fixe gouverné par le Soleil, avec le Nœud Sud composite en Verseau. Les astrologues y lisent un lien à l’aise en groupe, qui apprend à jouer, à fêter et à se montrer tel qu’il est."
+definition: "Le Nœud Nord composite en Lion place le Nœud Nord d’un thème de relation, calculé comme tout point composite à partir de deux positions natales, dans le signe de feu fixe du Soleil, avec le Nœud Sud composite en Verseau. Les astrologues y lisent un lien à l’aise en groupe, qui apprend à jouer et à se montrer."
 facts:
   - { k: "Corps", v: "Nœud Nord composite ☊, au mi-point le plus proche de vos deux Nœuds Nord natals" }
   - { k: "Signe", v: "Lion ♌, feu fixe, gouverné par le Soleil" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/north-node-in-leo", "/astrology/leo", "/astrology/aquarius", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire le Nœud Nord composite en Lion ?"
-    a: "Le mi-point de vos deux Nœuds Nord natals tombe en Lion, et le Nœud Sud composite en Verseau. Les astrologues y lisent une relation à l’aise en compagnie, dévouée aux amis ou aux causes, qui grandit en se donnant du temps pour jouer, créer ensemble et se montrer comme un duo."
+    a: "Les astrologues y lisent une relation à l’aise en compagnie, dévouée aux amis ou aux causes, son Nœud Sud étant en Verseau, et qui grandit en se donnant du temps pour jouer, créer ensemble et se montrer comme un duo. Le nœud est le mi-point de vos deux Nœuds Nord natals."
   - q: "Le Nœud Nord composite en Lion est-il rare ?"
     a: "Parmi les plus rares. Sur deux millions de paires tirées au hasard parmi les naissances de 1930 à 2009, environ 1 paire sur 14 l’avait, comme pour la Vierge et la Balance. Cela tient aux années comptées : les nœuds ont fait un peu plus de quatre tours en huit décennies, et ce surplus est tombé à l’opposé du Lion."
   - q: "Que veut dire le Nœud Sud composite en Verseau ?"
@@ -42,10 +42,10 @@ Chacune des deux personnes est peut-être expansive seule. Ensemble, le réflexe
 
 Un [Nœud Nord en Lion](/astrology/north-node-in-leo/) dans un seul thème, c’est une personne qui sort du groupe pour se faire voir. Dans un composite, la sortie se fait à deux, et la timidité aussi : chacune peut attendre que l’autre propose la fête, le voyage, la danse. Proposer le plaisir chacune à son tour aide davantage qu’attendre une humeur qui convienne aux deux.
 
-Environ 1 paire sur 14 l’avait, sur deux millions de paires tirées au hasard parmi les naissances de 1930 à 2009 : le Lion est l’un des trois signes les plus rares pour le nœud composite, avec la Vierge et la Balance. Cela tient davantage aux années comptées qu’au signe : en ces huit décennies, les nœuds ont fait quatre tours et un peu plus, et le surplus est tombé autour du Verseau et des Poissons, à l’opposé. Les paires du même âge le portent quand toutes deux sont nées avec le nœud en Lion : entre novembre 1942 et mai 1944, entre juin 1961 et décembre 1962, entre janvier 1980 et septembre 1981, ou entre octobre 1998 et avril 2000. Un écart fonctionne aussi : nées en janvier 1960 et en septembre 1964, avec des nœuds natals vers 27° Vierge et 28° Gémeaux, deux personnes se rejoignent dans un Nœud Nord composite vers 12° Lion.
+Seule 1 paire sur 14 environ l’avait dans le décompte du site, deux millions de paires tirées au hasard parmi les naissances de 1930 à 2009, ce qui fait du Lion l’un des trois signes les plus rares pour le nœud composite, avec la Vierge et la Balance. Cela tient davantage aux années comptées qu’au signe : en ces huit décennies, les nœuds ont fait quatre tours et un peu plus, et le surplus est tombé autour du Verseau et des Poissons, à l’opposé. Pour deux personnes nées à moins d’un an et demi d’intervalle, le composite reprend simplement leur nœud commun : deux naissances entre novembre 1942 et mai 1944, entre juin 1961 et décembre 1962, entre janvier 1980 et septembre 1981, ou entre octobre 1998 et avril 2000 le donnent. Un écart fonctionne aussi : nées en janvier 1960 et en septembre 1964, avec des nœuds natals vers 27° Vierge et 28° Gémeaux, deux personnes se rejoignent dans un Nœud Nord composite vers 12° Lion.
 
 Ces dates viennent du nœud vrai. En 1980-1981, il est resté en Lion du 12 janvier 1980 au 17 septembre 1981, tandis que le nœud moyen a traversé le signe entre le 6 février 1980 et le 24 août 1981 : le même signe, avec une entrée et une sortie à des jours différents. Je regarde les deux, et pour un nœud composite au bord du signe, le [Nœud Nord composite en Cancer](/astrology/composite-north-node-in-cancer/) ou le [Nœud Nord composite en Vierge](/astrology/composite-north-node-in-virgo/) peut être l’autre moitié de la lecture.
 
-Le plus difficile, c’est la mise en scène. Un lien qui apprend à se montrer peut se mettre à jouer pour un public, ou avoir besoin d’applaudissements pour se sentir réel. Le bout Verseau garde le projecteur honnête : des amis qui vous connaissaient avant tout ce bruit, et un sens de l’équité qui laisse chaque personne briller sans éclipser l’autre.
+Ce qui peut mal tourner, c’est la mise en scène. Un lien qui apprend à se montrer peut se mettre à jouer pour un public, ou avoir besoin d’applaudissements pour se sentir réel. Le bout Verseau garde le projecteur honnête : des amis qui vous connaissaient avant tout ce bruit, et un sens de l’équité qui laisse chaque personne briller sans éclipser l’autre.
 
 Je laisse les composites aux astrologues qui les dressent, et ils pèsent ce nœud avec les deux thèmes natals et la [synastrie](/astrology/synastry/). Il ne décide rien de la durée d’une relation ni d’un mariage ; il montre une direction qui vaut d’être essayée. Se montrer ensemble, c’est tout le sujet ici, et se faire lire ensemble ne se fait qu’avec l’accord des deux ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

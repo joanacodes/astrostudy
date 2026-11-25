@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["North Node", "Gemini", "composite chart"]
 weight: 2267
 glyph: "☊♊"
-definition: "Composite North Node in Gemini is the relationship chart’s North Node, the midpoint of two natal North Nodes, in mutable air ruled by Mercury, with the composite South Node in Sagittarius. Astrologers read a bond that has settled its big beliefs and is growing towards questions, conversation and curiosity about each other."
+definition: "Composite North Node in Gemini means the point halfway between your two natal North Nodes lies in the mutable air sign of Mercury, with the composite South Node across in Sagittarius. Astrologers read a bond that has settled its big beliefs and is growing towards questions, conversation and curiosity about each other."
 facts:
   - { k: "Body", v: "Composite North Node ☊, the nearer midpoint of your two natal North Nodes" }
   - { k: "Sign", v: "Gemini ♊, mutable air, ruled by Mercury" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/north-node-in-gemini", "/astrology/gemini", "/astrology/mean-node-and-true-node", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite North Node in Gemini mean?"
-    a: "The midpoint of your two natal North Nodes is in Gemini, and the composite South Node in Sagittarius. Astrologers read a relationship that already shares firm views and big plans, and grows by asking: questions, conversation, news, and real interest in what the other person thinks today."
+    a: "Your relationship chart has its North Node in Gemini, halfway between your two natal ones, and its South Node in Sagittarius. Read as a direction, it moves a pair that already shares firm views and big plans towards asking: questions, news, and real interest in what the other person thinks today."
   - q: "Why is our composite North Node in Gemini on one site and in Sagittarius on another?"
     a: "Probably because one site uses the mean node and the other the true node, and your natal North Nodes sit almost opposite each other, as happens when two people are born about nine years apart. Then a degree’s difference swaps which end of the composite axis is north."
   - q: "How common is composite North Node in Gemini?"
-    a: "In two million random pairs born between 1930 and 2009, about 1 pair in 12 had it, the share an even spread would give. Two people of the same age have it when both were born with the node in Gemini, for example between March 1983 and September 1984."
+    a: "Exactly as common as an even share would make it: about 1 pair in 12 of two million random pairs born 1930–2009. For two people of the same age it comes down to their birth months, for example both between March 1983 and September 1984, when the node was in Gemini."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often the composite North Node falls in Gemini, and the birth years that give it to pairs of the same age" }
@@ -41,10 +41,10 @@ Each of you may be a fine listener with friends. Between you, the relationship c
 
 One person's [North Node in Gemini](/astrology/north-node-in-gemini/) is about staying curious instead of already knowing. A composite asks the same of a pair, where certainty is shared and so harder to spot: two people can confirm each other's views for years without noticing. Learning something together that neither of you knows, a language, a neighbourhood, a craft, puts you both back at the beginning, where questions come naturally.
 
-In two million random pairs born between 1930 and 2009, about 1 pair in 12 had it, exactly the share an even spread across the twelve signs would give. Pairs of the same age carry it when both were born with the node in Gemini: between December 1945 and August 1947, August 1964 and February 1966, March 1983 and September 1984, or October 2001 and April 2003.
+It turned up in about 1 pair in 12 when two million random pairs born from 1930 to 2009 were counted, dead on the share each sign would get if the spread were even. The node itself crossed Gemini between December 1945 and August 1947, August 1964 and February 1966, March 1983 and September 1984, and October 2001 and April 2003; two people born within the same one of those stretches have it in common, and so does their composite.
 
 Gemini can also arrive by something close to a coin toss. Born on 15 March 1960 and on 1 July 1969, two people have natal North Nodes near 24° Virgo and 24° Pisces, almost exactly opposite, the geometry of a [nodal reversal](/astrology/nodal-reversal/). Two points that far apart have two midpoints with nearly equal claims. With the true node, this pair's composite North Node falls near 24° Sagittarius; with the mean node, near 25° Gemini. The axis stays put while its ends swap, so this page and [composite North Node in Sagittarius](/astrology/composite-north-node-in-sagittarius/) become two readings of one line. It's one reason I look at both ([mean node and true node](/astrology/mean-node-and-true-node/)). At the sign's edges the neighbours take over: [composite North Node in Taurus](/astrology/composite-north-node-in-taurus/) below 0° Gemini, [composite North Node in Cancer](/astrology/composite-north-node-in-cancer/) past 29°.
 
-The hard part is chatter. A bond learning to ask can end up talking about everything and deciding nothing, or chasing the next novelty rather than staying with a subject. The Sagittarius end keeps its value here: questions go further when the two of you still know what you care about.
+The trap is chatter. A bond learning to ask can end up talking about everything and deciding nothing, or chasing the next novelty rather than staying with a subject. The Sagittarius end keeps its value here: questions go further when the two of you still know what you care about.
 
 Since I don't draw composites myself, this is the technique's reading, which its users weigh with both birth charts and the [synastry](/astrology/synastry/). It doesn't say whether two people are meant for each other or how their story ends; a node describes a direction, not a fate. And it reads two people's charts at once, so both should know it's being drawn ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

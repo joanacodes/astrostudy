@@ -34,7 +34,7 @@ About once every twelve years, Jupiter comes back round to the degree your Sun h
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) expands understanding, draws meaning out of experience and supports growth; the [Sun](/astrology/sun/) organises identity, vitality and direction. A [conjunction](/astrology/conjunction/) makes them act as one, so while it lasts, who you are and how far you'd like to reach become a single question. As with every [transit](/astrology/transits/), nothing new is put into your chart: what it already says about your purpose is given more room.
+[Jupiter](/astrology/jupiter/) widens what it meets: it learns, looks for what things mean and helps them grow. The [Sun](/astrology/sun/) organises identity, vitality and direction. A [conjunction](/astrology/conjunction/) makes them act as one, so while it lasts, who you are and how far you'd like to reach become a single question. As with every [transit](/astrology/transits/), nothing new is put into your chart: what it already says about your purpose is given more room.
 
 Many people feel larger in these weeks. Confidence comes more easily, a bigger idea of yourself starts to look reasonable, and the pull is towards learning, teaching, travelling or a wider role. The catch comes with the planet: Jupiter enlarges whatever it touches, including the parts of a plan that never needed enlarging. A crossing of your Sun is a good moment to tell growing from merely adding.
 

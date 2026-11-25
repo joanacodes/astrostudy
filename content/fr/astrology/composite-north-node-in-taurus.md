@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Nœud Nord", "Taureau", "thème composite"]
 weight: 2266
 glyph: "☊♉"
-definition: "Le Nœud Nord composite en Taureau place le mi-point des Nœuds Nord de deux personnes dans le signe de terre fixe de Vénus, et leur Nœud Sud composite en face, en Scorpion. Les astrologues y lisent une relation habituée à l’intensité, qui apprend la constance : le calme, les plaisirs simples, la lenteur."
+definition: "Le Nœud Nord composite en Taureau place le mi-point des Nœuds Nord de deux personnes dans le signe de terre fixe de Vénus, et leur Nœud Sud composite en face, en Scorpion. Les astrologues y lisent une relation habituée à l’intensité, qui apprend la constance : le calme, les plaisirs simples, la lenteur."
 facts:
   - { k: "Corps", v: "Nœud Nord composite ☊, au mi-point le plus proche de vos deux Nœuds Nord natals" }
   - { k: "Signe", v: "Taureau ♉, terre fixe, gouverné par Vénus" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/north-node-in-taurus", "/astrology/taurus", "/astrology/scorpio", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire le Nœud Nord composite en Taureau ?"
-    a: "Il décrit une relation dont le terrain familier est l’intensité du Scorpion, où se trouve son Nœud Sud, et dont la direction est le Taureau : des habitudes partagées, des plaisirs simples, un calme qui n’a pas besoin d’une crise pour se sentir proche. Le point lui-même est le mi-point de vos deux Nœuds Nord natals."
+    a: "Il décrit une relation dont le terrain familier est l’intensité du Scorpion, où se trouve son Nœud Sud, et dont la direction est le Taureau : des habitudes partagées, des plaisirs simples, un calme qui n’a pas besoin d’une crise pour se sentir proche. Le point lui-même est le mi-point de vos deux Nœuds Nord natals."
   - q: "Le Nœud Nord composite en Taureau parle-t-il d’argent ?"
     a: "Pas sous forme de prédiction. Le Taureau touche à ce qu’une paire estime et à la façon dont elle construit sa sécurité : le nœud peut orienter vers un soin partagé de ce que vous avez. Aucun composite ne dit ce que deux personnes gagneront, posséderont ou perdront ; celui-ci décrit la direction du lien."
   - q: "Le Nœud Nord composite en Taureau est-il fréquent ?"
-    a: "Assez fréquent : environ 1 paire sur 11 parmi deux millions de paires tirées au hasard, nées entre 1930 et 2009. Les paires du même âge le tiennent de leurs mois de naissance communs, par exemple de février 1966 à août 1967, quand le nœud lui-même traversait le Taureau."
+    a: "Assez fréquent : environ 1 paire sur 11 parmi deux millions de paires tirées au hasard, nées entre 1930 et 2009. Les paires du même âge le tiennent de leurs mois de naissance communs, par exemple de février 1966 à août 1967, quand le nœud lui-même traversait le Taureau."
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part du Nœud Nord composite en Taureau, et les années de naissance qui le donnent aux paires du même âge" }
@@ -42,7 +42,7 @@ Nul besoin que l’une ou l’autre personne aime le drame pour que cela corresp
 
 Dans un seul thème natal, le [Nœud Nord en Taureau](/astrology/north-node-in-taurus/) décrit une personne qui grandit vers la paix après une crise de trop. Dans un composite, cette paix doit être convenue à deux, et l’une peut vivre une période calme comme un soulagement quand l’autre y lit de la distance. Dire tout haut que le calme n’est pas un refroidissement épargne bien des inquiétudes.
 
-Parmi deux millions de paires de dates de naissance tirées au hasard entre 1930 et 2009, environ 1 paire sur 11 l’avait. Les paires du même âge le partagent si les deux naissances tombent dans l’un des passages du nœud lui-même en Taureau : d’août 1947 à janvier 1949, de février 1966 à août 1967, de septembre 1984 à mars 1986, ou d’avril 2003 à décembre 2004. Avec un grand écart d’âge, il arrive par un détour. Avec des naissances en octobre 1969 et en juin 1982, et des Nœuds Nord natals vers 21° Poissons et 13° Cancer, deux personnes ont un Nœud Nord composite vers 17° Taureau, tout près de l’endroit où se trouvait le Nœud Sud en février 1976, à mi-chemin entre leurs naissances : au-delà d’environ neuf ans d’écart, l’arc le plus court passe de l’autre côté, et le composite tombe sur l’autre bout de l’axe.
+Parmi deux millions de paires de dates de naissance tirées au hasard entre 1930 et 2009, environ 1 paire sur 11 l’avait. Les paires du même âge le partagent si les deux naissances tombent dans l’un des passages du nœud lui-même en Taureau : d’août 1947 à janvier 1949, de février 1966 à août 1967, de septembre 1984 à mars 1986, ou d’avril 2003 à décembre 2004. Avec un grand écart d’âge, il arrive par un détour. Avec des naissances en octobre 1969 et en juin 1982, et des Nœuds Nord natals vers 21° Poissons et 13° Cancer, deux personnes ont un Nœud Nord composite vers 17° Taureau, tout près de l’endroit où se trouvait le Nœud Sud en février 1976, à mi-chemin entre leurs naissances : avec un écart comme le leur, l’arc le plus court passe de l’autre côté, et le composite tombe sur l’autre bout de l’axe.
 
 Au bord inférieur du signe, les deux façons de calculer le nœud peuvent diverger pendant des semaines. Au printemps 1986, le nœud vrai est passé du Taureau au Bélier le 25 mars, est revenu deux jours début avril, puis est reparti, tandis que le nœud moyen est resté en Taureau jusqu’au 21 avril. Une naissance pendant ces semaines apporte un nœud en Taureau selon un calcul et en Bélier selon l’autre. Dans un composite, l’écart se transmet, et il ne décide du signe que lorsque le mi-point se trouve à un ou deux degrés de la frontière avec le [Nœud Nord composite en Bélier](/astrology/composite-north-node-in-aries/) ; à l’autre bord, c’est le [Nœud Nord composite en Gémeaux](/astrology/composite-north-node-in-gemini/) qui prend le relais. Je regarde les deux.
 

@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["North Node", "Leo", "composite chart"]
 weight: 2269
 glyph: "☊♌"
-definition: "Composite North Node in Leo is the relationship chart’s North Node, the midpoint of two natal North Nodes, in the fixed fire sign ruled by the Sun, with the composite South Node in Aquarius. Astrologers read a bond at home in groups and causes that is learning to play, celebrate and be seen as itself."
+definition: "Composite North Node in Leo places a relationship chart’s North Node, worked out like every composite point from two natal positions, in the Sun’s fixed fire sign, with the composite South Node in Aquarius. Astrologers read a bond at home in groups and causes that is learning to play, celebrate and be seen as itself."
 facts:
   - { k: "Body", v: "Composite North Node ☊, the nearer midpoint of your two natal North Nodes" }
   - { k: "Sign", v: "Leo ♌, fixed fire, ruled by the Sun" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/north-node-in-leo", "/astrology/leo", "/astrology/aquarius", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite North Node in Leo mean?"
-    a: "The midpoint of your two natal North Nodes falls in Leo, and the composite South Node in Aquarius. Astrologers read a relationship that is easy in company and devoted to friends or causes, and that grows by giving itself time to play, to make things together and to be visible as a pair."
+    a: "Astrologers read a relationship that is easy in company and devoted to friends or causes, its South Node being in Aquarius, and that grows by giving itself time to play, to make things together and to be visible as a pair. The node is the midpoint of your two natal North Nodes."
   - q: "Is composite North Node in Leo rare?"
     a: "Among the rarer ones. In two million random pairs born 1930–2009, about 1 pair in 14 had it, with Virgo and Libra the lowest share. That reflects the years counted: in those eight decades the nodes went round four times and a bit, and the extra stretch fell across the zodiac from Leo."
   - q: "What does the composite South Node in Aquarius mean?"
@@ -41,10 +41,10 @@ Each of you may be expressive alone. Together, the relationship's reflex is to b
 
 A single [North Node in Leo](/astrology/north-node-in-leo/) is one person stepping out of the group to be seen. In a composite the stepping out is shared, and shyness can be shared too: two people can each wait for the other to suggest the party, the trip, the dance. Taking turns at proposing the treat helps more than waiting for a mood that suits you both.
 
-About 1 pair in 14 had it in two million random pairs born between 1930 and 2009, so Leo is one of the three rarest signs for the composite node, with Virgo and Libra. That says more about the years counted than about the sign: the nodes went round four times and a bit in those eight decades, and the extra stretch fell around Aquarius and Pisces, across the zodiac from here. Pairs of the same age carry it when both were born with the node in Leo: between November 1942 and May 1944, June 1961 and December 1962, January 1980 and September 1981, or October 1998 and April 2000. A gap works too: born in January 1960 and September 1964, with natal nodes near 27° Virgo and 28° Gemini, two people meet in a composite North Node near 12° Leo.
+Only about 1 pair in 14 had it in the site's count of two million random pairs born 1930–2009, which makes Leo one of the three rarest signs for the composite node, with Virgo and Libra. That says more about the years counted than about the sign: the nodes went round four times and a bit in those eight decades, and the extra stretch fell around Aquarius and Pisces, across the zodiac from here. For two people born within the same year and a half or so, the composite simply repeats their shared node, so both births between November 1942 and May 1944, June 1961 and December 1962, January 1980 and September 1981, or October 1998 and April 2000 give it. A gap works too: born in January 1960 and September 1964, with natal nodes near 27° Virgo and 28° Gemini, two people meet in a composite North Node near 12° Leo.
 
 Those dates come from the true node. In 1980–81 it stayed in Leo from 12 January 1980 to 17 September 1981, while the mean node passed through between 6 February 1980 and 24 August 1981: the same sign, entered and left on different days. I look at both, and for a composite node at the sign's edge, [composite North Node in Cancer](/astrology/composite-north-node-in-cancer/) or [composite North Node in Virgo](/astrology/composite-north-node-in-virgo/) may be the other half of the reading.
 
-The hard part is performance. A bond learning to be seen can start playing to an audience, or need applause to feel real. The Aquarius end keeps the spotlight honest: friends who knew you before the fuss, and a sense of fairness that lets each person shine without upstaging the other.
+What can go wrong is performance. A bond learning to be seen can start playing to an audience, or need applause to feel real. The Aquarius end keeps the spotlight honest: friends who knew you before the fuss, and a sense of fairness that lets each person shine without upstaging the other.
 
 I leave composites to the astrologers who draw them, and they weigh this node against both natal charts and the [synastry](/astrology/synastry/). It decides nothing about whether two people last or marry; it shows a direction worth trying. Being seen together is the point here, and being read together only works with both people's agreement ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
