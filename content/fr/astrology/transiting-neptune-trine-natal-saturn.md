@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Neptune en transit trigone Saturne du thème natal ?"
     a: "Neptune forme un trigone, 120°, avec Saturne de votre thème natal pendant deux ans et demi environ. J’y lis l’idéal et la patience qui travaillent ensemble : un métier, une vocation ou un engagement de soin peut prendre une forme durable, et les devoirs s’allègent parce que leur but devient plus clair."
   - q: "Combien de temps dure Neptune trigone Saturne ?"
-    a: "Dans mon décompte, environ deux ans et sept mois dans des orbes de 1,5° avant l’exactitude et 1° après, et vingt-deux mois pour les passages les plus brefs. Le va-et-vient annuel de Neptune rend le trigone exact trois fois dans la plupart des passages, cinq fois dans un sur quatre environ."
+    a: "Dans mon décompte, environ deux ans et sept mois dans des orbes de 1,5° avant l’exactitude et 1° après, et vingt-deux mois pour les passages les plus brefs. Au fil de son va-et-vient annuel, le trigone devient exact trois fois en général, et cinq fois une fois sur quatre."
   - q: "Est-ce que Neptune trigone Saturne est un bon moment pour bâtir quelque chose ?"
     a: "C’est l’une des meilleures saisons pour un travail patient et qui a du sens : un métier, une pratique, un long projet ou un engagement envers les autres. Le trigone fait coopérer la discipline et l’imaginaire, mais il ne garantit aucun résultat ; ce que vous bâtissez pendant ces années dépend de ce que vous y mettez."
   - q: "Quand vient Neptune trigone Saturne ?"
