@@ -24,6 +24,40 @@ until 3:50 am Paris Friday 20th November" (= 02:50 UTC).
   (lilith-in-9th to 12th-house-synastry), t2asteroids 4. Held: 360 Sabian, 6 sky-calendar, 4 owner pages.
 - Tools: commit-batch.sh, wip.sh, publish-main.sh, unfinished.sh, overlap.py (see their headers).
 
+## State on 25 November (end of the writing run)
+- Owner, 24 November: "Write them all until you're done", "Push the articles once batches are done", "Keep going until
+  all the articles are finished". Done: of the 2,308 pages in pages.jsonl, 2,277 are written in EN+FR. Since 24 November,
+  1,387 new pages went live on main (each batch checked, committed and published as it finished): all composites, house
+  rulers, signs on cusps, decans, fixed stars and star contacts, people and texts, tier-2 and tier-3 concepts, techniques,
+  research, the 7 last Chiron house transits, and the 415 transits to natal points.
+- Not written: 17 country pages (the network lets through English Wikipedia only); 14 concepts with no source to check
+  them (co-ascendant, polar-ascendant, priapus, transpluto-isis, krusinski, translation-of-light, collection-of-light,
+  prohibition, frustration, refranation, almuten, besieging, feral-planets, venus-star-point).
+- Written but held off main, their rules unconfirmed (run/held.txt): vernon-clarks-matching-tests, part-of-marriage,
+  part-of-children, part-of-the-father, part-of-the-mother, part-of-siblings, part-of-friends, part-of-travel,
+  part-of-commerce, decennials, circumambulations.
+- Set aside by the owner (25 November): the 360 Sabian symbols. Still held: 6 sky calendars (this-week, year-ahead,
+  mercury-retrograde-dates, eclipse-dates, moon-calendar, ingress-calendar: they must stay current, so they need building
+  as pages that update themselves) and 4 pages about the owner's practice (her words).
+- Transit pages fact-checked against the ephemeris (astronomy-engine, geocentric, true ecliptic of date): 26 figures
+  corrected, mostly ages of later hits, a few sign stays and birth spans the writers had worked out themselves.
+- Repeated sentences: overlap.py found 92 (EN) and 109 (FR) sentences on two pages or more (679 rewrites); reworded on
+  25 November.
+
+## Facts learned on the way
+- The data's firstHitAge is the age on the first day within orb (1½° applying), for births every fifth day from
+  1 January 1930 at 12:00 UT, so "1945" is a birth on 2 January 1945; the first exact hit comes up to a year later. A page
+  quoting other ages says which it uses.
+- Joana's forecast (AGS, src/forecast/transits.ts) counts the North Node only by conjunction and opposition: the node's
+  sextile, square and trine pages say it doesn't count them. The true node's three-hit passes come from it stepping
+  forward: "With a loop", never "retrograde loop".
+- The Uranus opposition stays "about 39 to 44½" on every page (uranus-opposition, from 160 births). A finer count, births
+  every fifth day, gives 38.0 to 44.5 for the first exact hit: changing it means changing uranus-opposition,
+  uranus-return, neptune-square, transits, generational-placements-by-birth-year, the Jupiter and Saturn opposition pages
+  and the three Uranus transit pages together.
+- Jupiter, Saturn and Uranus sometimes step back into the previous sign for a few months: a span of births "with Jupiter
+  in Taurus" that crosses such a gap says "most births from …".
+
 ## Data to check
 - plan/kit/overlap.py lists sentences two pages share: on 20 November most were the brief's formulas, a few real echoes (the 11th house's one-line definition in four new pages, a 4th-house line in two overlays) to reword later.
 - plan/retrograde-facts.json files the 2040 Mercury retrograde under Gemini (both stations in Cancer, 9°32′ to 0°31′) and the 2015 one under Virgo (both in Libra, 15°55′ to 0°53′). The sign pages describe them by their stations.
