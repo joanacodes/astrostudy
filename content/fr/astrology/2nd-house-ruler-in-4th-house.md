@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce qu’elles couvrent" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "la maison 2, les biens meubles ; la maison 4, les biens immeubles : maisons, jardins, terres" }
 ---
-Pour vous, la sécurité veut souvent dire un toit. La planète de votre argent et de votre estime de soi se trouve en maison 4, celle du foyer, de la famille et des racines, tout près du bas du thème, et ce que vous gagnez a tendance à rentrer à la maison.
+Pour vous, la sécurité veut souvent dire un toit. Le maître de votre argent vit tout en bas du thème, en maison 4, et ce que vous gagnez a tendance à rentrer à la maison, vers les personnes et le lieu auxquels vous appartenez.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 

@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what they cover" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the 2nd as moveable possessions, the 4th as immovable ones: houses, gardens, land" }
 ---
-For you, security tends to mean a roof. The planet of your money and self-worth sits in the 4th house of home, family and roots, close to the bottom of the chart, and what you earn tends to come home.
+For you, security tends to mean a roof. The ruler of your money lives at the bottom of the chart, in the 4th house, and what you earn tends to come home to the people and the place you belong to.
 
 ## What it means {#what-it-means}
 

@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["2nd house", "6th house", "house rulers"]
 weight: 2306
 glyph: "✦"
-definition: "The ruler of the 2nd in the 6th house puts the planet of your money and self-worth in the house of daily work, routines and the body’s care. You tend to earn the steady way, through skills practised until they pay, and to value competence. It describes how you earn, never your health or your income."
+definition: "The ruler of the 2nd in the 6th house puts the planet of your money and self-worth in the house of daily work, routines and the body’s care. You tend to earn through regular effort, and to take pride in being useful. It describes how you earn, never your health or your income."
 facts:
   - { k: "Ruler of", v: "The 2nd house: money, belongings, self-worth" }
   - { k: "Placed in", v: "The 6th house: daily work, routines, the body’s care" }

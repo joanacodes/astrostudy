@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/2nd-house", "/astrology/10th-house", "/astrology/house-rulers", "/astrology/midheaven", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire le maître de la maison 2 en maison 10 ?"
-    a: "Votre carrière est souvent la source principale de votre argent, et votre sentiment de valeur grandit avec ce que vous bâtissez en public. Le revenu et la position sont étroitement liés pour vous : l’ambition y gagne un côté pratique, et il faut veiller à ne pas confondre valeur et statut."
+    a: "Votre carrière est souvent la source principale de votre argent, et ce que vous accomplissez en public nourrit votre sentiment de valeur. Le revenu et la position sont étroitement liés pour vous : l’ambition y gagne un côté pratique, et il faut veiller à ne pas confondre valeur et statut."
   - q: "Le maître de la maison 2 en maison 10 veut-il dire un gros salaire ?"
     a: "Aucun thème ne peut le dire. Il décrit d’où vient en général votre argent, votre travail dans le monde, et à quel point votre sentiment de valeur suit votre carrière. Les montants dépendent de vos choix, de votre domaine et de vos circonstances."
   - q: "Le maître de la maison 2 en maison 10, est-ce bon pour la carrière ?"

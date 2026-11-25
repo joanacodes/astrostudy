@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/4th-house", "/astrology/1st-house", "/astrology/imum-coeli", "/astrology/house-rulers"]
 faq:
   - q: "What does a chart ruler in the 4th house mean?"
-    a: "Your life keeps its centre in private. With your chart ruler at the bottom of the chart, among home, roots and family, much of who you are gets worked out away from view: in the home you make, with the people you belong to and the past you carry."
+    a: "Home is where you’re most yourself. With your chart ruler at the bottom of the chart, among home, roots and family, the life that matters most to you happens behind your own front door, and where you come from stays part of where you’re going."
   - q: "Does the ruler of the 1st in the 4th house mean I will stay close to my family?"
     a: "Not necessarily. It describes where your sense of self is anchored, and that can be a home you built far from where you started, or a family of your own choosing. It doesn’t predict where you’ll live, or how close you’ll be to anyone."
   - q: "Is a chart ruler in the 4th house hidden?"
@@ -33,7 +33,7 @@ With the planet of your rising sign in the 4th house, your chart ruler sits at t
 
 Your [chart ruler](/astrology/chart-ruler/), the planet that rules the sign on the cusp of the [1st house](/astrology/1st-house/), has made its home in the [4th house](/astrology/4th-house/) ([house rulers](/astrology/house-rulers/)): the ground you stand on, the home you grew up in and the one you make, family and belonging, the past you carry, and the private self only the closest people see. Tradition added land and houses, the things that stay put.
 
-Here, life takes root in private. You tend to find yourself at home more than out in the world: around your own table, in the place you've made yours, with the people who knew you before you had a job title. Much of who you are gets worked out where nobody's watching, and it can take others a while to see the depth of it. Building a home, in any sense, can be a large part of your life's work: a house, a family of choice, a culture you keep alive, a place to come back to. When it's hard, it's usually because the past weighs more than you'd like, and you have to sort what you were handed from what you choose to keep.
+You tend to find yourself at home more than out in the world: around your own table, in the place you've made yours, with the people who knew you before you had a job title. Much of who you are gets worked out where nobody's watching, and it can take others a while to see the depth of it. Building a home, in any sense, can be a large part of your life's work: a house, a family of choice, a culture you keep alive, a place to come back to. When it's hard, it's usually because the past weighs more than you'd like, and you have to sort what you were handed from what you choose to keep.
 
 On the family side I tread carefully. Your chart ruler here says how home felt, and feels, to you from the inside. It doesn't describe your mother or your father, who are people with lives, and charts, of their own.
 

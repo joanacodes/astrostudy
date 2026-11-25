@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/4th-house", "/astrology/1st-house", "/astrology/imum-coeli", "/astrology/house-rulers"]
 faq:
   - q: "Que veut dire un maître du thème en maison 4 ?"
-    a: "Votre vie garde son centre dans l’intime. Avec votre maître du thème tout en bas du thème, parmi le foyer, les racines et la famille, une grande part de qui vous êtes se règle loin des regards : dans le foyer que vous construisez, avec les personnes auxquelles vous appartenez et le passé que vous portez."
+    a: "C’est chez vous que vous êtes le plus vous-même. Avec votre maître du thème tout en bas du thème, parmi le foyer, les racines et la famille, la vie qui compte le plus pour vous se passe derrière votre propre porte, et d’où vous venez reste une part de là où vous allez."
   - q: "Le maître de la maison 1 en maison 4 veut-il dire que je resterai près de ma famille ?"
     a: "Pas forcément. Il décrit l’endroit où le sentiment de vous-même s’ancre, et ce peut être un foyer bâti loin de votre point de départ, ou une famille choisie. Il ne prédit ni l’endroit où vous vivrez, ni votre proximité avec qui que ce soit."
   - q: "Un maître du thème en maison 4, est-ce un maître caché ?"
@@ -34,7 +34,7 @@ Avec la planète de votre ascendant en maison 4, le maître du thème se trouve 
 
 Votre [maître du thème](/astrology/chart-ruler/), la planète qui gouverne le signe de la cuspide de la [maison 1](/astrology/1st-house/), s’est installé en [maison 4](/astrology/4th-house/) ([maîtres des maisons](/astrology/house-rulers/)) : le sol sous vos pieds, la maison où vous avez grandi et celle que vous faites vôtre, la famille et l’appartenance, le passé que vous portez, et le moi privé que seuls les plus proches voient. La tradition y ajoutait les terres et les maisons, ce qui ne bouge pas.
 
-Ici, la vie prend racine dans l’intime. Vous vous trouvez plus volontiers chez vous que dans le monde : autour de votre propre table, dans l’endroit dont vous avez fait le vôtre, avec les personnes qui vous connaissaient avant tout titre. Une grande part de qui vous êtes se règle loin des regards, et les autres mettent parfois du temps à en voir la profondeur. Construire un foyer, au sens large, peut occuper une bonne part d’une vie : une maison, une famille choisie, une culture que vous gardez vivante, un endroit où revenir. Quand c’est difficile, c’est souvent que le passé pèse plus que vous ne le voudriez, et qu’il faut trier ce qu’on vous a transmis de ce que vous choisissez de garder.
+Vous vous trouvez plus volontiers chez vous que dans le monde : autour de votre propre table, dans l’endroit dont vous avez fait le vôtre, avec les personnes qui vous connaissaient avant tout titre. Une grande part de qui vous êtes se règle loin des regards, et les autres mettent parfois du temps à en voir la profondeur. Construire un foyer, au sens large, peut occuper une bonne part d’une vie : une maison, une famille choisie, une culture que vous gardez vivante, un endroit où revenir. Quand c’est difficile, c’est souvent que le passé pèse plus que vous ne le voudriez, et qu’il faut trier ce qu’on vous a transmis de ce que vous choisissez de garder.
 
 Du côté de la famille, j’avance avec précaution. Votre maître du thème dit ici ce que la maison a été, et reste, pour vous, vue de l’intérieur. Il ne décrit ni votre mère ni votre père, des personnes qui ont leur vie, et leur thème, à elles.
 

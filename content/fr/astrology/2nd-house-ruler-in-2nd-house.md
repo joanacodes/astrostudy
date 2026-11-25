@@ -29,7 +29,7 @@ sources:
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "la maison 2, finances et biens meubles de la personne qui pose la question, lus par son maître" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "les maîtres des signes" }
 ---
-Un argent qui répond à sa propre maison : avec le maître de la maison 2 en maison 2, la planète qui veille sur ce que vous avez et ce qui compte pour vous ne quitte jamais son foyer. Vos ressources et votre sentiment de valeur se bâtissent lentement et restent à portée de main.
+Un argent qui répond à sa propre maison : avec le maître de la maison 2 en maison 2, la planète qui veille sur ce que vous avez et ce qui compte pour vous ne quitte jamais son foyer, et ce que vous possédez pousse comme un jardin, lentement et près de la maison.
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
@@ -41,7 +41,7 @@ Son signe dit à quel point il est à l’aise. Si ce maître se trouve dans le 
 
 L’[astrologie horaire](/astrology/horary-astrology/), telle que William Lilly la pratiquait, donnait à la maison 2 l’argent et les biens meubles de la personne qui pose la question, ce que l’on peut emporter, vendre ou dépenser, et en lisait l’état par le maître de la maison 2. Avec ce maître chez lui, je lis vos ressources comme gardées par vous-même : vous les gérez volontiers vous-même, et vous les voulez à portée de main.
 
-La planète qui veille sur votre argent était encore sous l’horizon est à votre naissance, à quelques heures de son lever : c’est là que Placidus, le système de maisons que j’utilise, place la maison 2. La cuspide de la maison 2 vient elle-même de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et près de l’un ou l’autre bord, quelques minutes peuvent faire passer le maître : en arrière, en maison 1, où votre valeur reposerait sur votre propre effort et votre présence ([Maître de la maison 2 en maison 1](/astrology/2nd-house-ruler-in-1st-house/)), ou plus loin, en maison 3, où l’argent circule par les mots, les leçons et le commerce ([Maître de la maison 2 en maison 3](/astrology/2nd-house-ruler-in-3rd-house/)).
+La planète qui a la charge de votre argent était encore sous l’horizon est à votre naissance, à quelques heures de son lever : c’est là que Placidus, le système de maisons que j’utilise, place la maison 2. La cuspide de la maison 2 vient elle-même de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et près de l’un ou l’autre bord, quelques minutes peuvent faire passer le maître : en arrière, en maison 1, où votre valeur reposerait sur votre propre effort et votre présence ([Maître de la maison 2 en maison 1](/astrology/2nd-house-ruler-in-1st-house/)), ou plus loin, en maison 3, où l’argent circule par les mots, les leçons et le commerce ([Maître de la maison 2 en maison 3](/astrology/2nd-house-ruler-in-3rd-house/)).
 
 Avec les Poissons sur la cuspide de la maison 2, Jupiter et Neptune la gouvernent ensemble, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)) : Jupiter en maison 2 donne volontiers et garde un regard confiant sur ce qui suffit, tandis que Neptune, dans la maison qui l’accueille, demande sans cesse à quoi sert l’argent.
 

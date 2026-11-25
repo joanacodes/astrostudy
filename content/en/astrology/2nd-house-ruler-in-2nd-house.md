@@ -28,7 +28,7 @@ sources:
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the 2nd as the querent’s finances and moveable possessions, read through its ruler" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the rulers of the signs" }
 ---
-Money that answers to its own house: with the ruler of the 2nd in the 2nd, the planet in charge of what you have and what you value never leaves home. Your resources and your sense of worth are built up slowly and kept close.
+Money that answers to its own house: with the ruler of the 2nd in the 2nd, the planet in charge of what you have and what you value never leaves home, and what you own tends to grow the way a garden does, slowly and close to the house.
 
 ## What it means {#what-it-means}
 

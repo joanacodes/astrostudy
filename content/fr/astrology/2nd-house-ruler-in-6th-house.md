@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 2", "maison 6", "maîtres des maisons"]
 weight: 2306
 glyph: "✦"
-definition: "Le maître de la maison 2 en maison 6 met la planète de votre argent et de votre estime de soi dans la maison du travail quotidien, des habitudes et du soin du corps. Vous gagnez volontiers de façon régulière, par un savoir-faire exercé jusqu’à ce qu’il rapporte. Il décrit votre façon de gagner, jamais votre santé."
+definition: "Le maître de la maison 2 en maison 6 met la planète de votre argent et de votre estime de soi dans la maison du travail quotidien, des habitudes et du soin du corps. Vous gagnez volontiers par un effort régulier, et vous tirez fierté d’être utile. Il décrit votre façon de gagner, jamais votre santé."
 facts:
   - { k: "Maître de", v: "La maison 2 : l’argent, les biens, l’estime de soi" }
   - { k: "Placé en", v: "Maison 6 : le travail quotidien, les habitudes, le soin du corps" }

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/2nd-house", "/astrology/10th-house", "/astrology/house-rulers", "/astrology/midheaven", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "What does the ruler of the 2nd house in the 10th house mean?"
-    a: "Your career tends to be the main source of your money, and your sense of worth grows with what you build in public. Pay and standing are closely tied for you, which gives ambition a practical edge and asks you to keep worth separate from status."
+    a: "Your career tends to be the main source of your money, and what you achieve in public feeds your sense of worth. Pay and standing are closely tied for you, which gives ambition a practical edge and asks you to keep worth separate from status."
   - q: "Does the 2nd house ruler in the 10th house mean a high salary?"
     a: "No chart can say that. It describes where your money tends to come from, your work in the world, and how closely your sense of worth follows your career. The amounts depend on your choices, your field and your circumstances."
   - q: "Is the ruler of the 2nd in the 10th house good for a career?"

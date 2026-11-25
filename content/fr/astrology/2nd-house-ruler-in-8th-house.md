@@ -23,7 +23,7 @@ faq:
   - q: "Est-ce que le maître de la maison 2 en maison 8 annonce un héritage ?"
     a: "Aucun thème ne peut le dire. La tradition donnait les legs à la maison 8, le thème est donc là, mais ce placement décrit votre façon de gérer les ressources partagées et la confiance, pas ce que quiconque vous laissera. Les héritages appartiennent à la vie et aux choix des autres."
   - q: "Le maître de la maison 2 en maison 8, est-ce mauvais pour l’argent ?"
-    a: "Non. Vos ressources ont tendance à se partager, à s’emprunter ou à se mettre en commun plutôt qu’à rester à part, ce qui apporte à la fois du soutien et des enchevêtrements. Il n’annonce ni dette ni perte. Ce qu’il demande, c’est de la clarté sur ce qui appartient à qui."
+    a: "Non. Vos ressources ont tendance à se partager, à s’emprunter ou à se mettre en commun plutôt qu’à rester à part, ce qui apporte à la fois du soutien et des enchevêtrements. Aucune dette, aucune perte n’y est annoncée. Ce qu’il demande, c’est de la clarté sur ce qui appartient à qui."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que leur donnait la tradition" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "la maison 2, les finances ; la maison 8, l’argent d’autrui, en tournant le thème" }

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/2nd-house", "/astrology/1st-house", "/astrology/house-rulers", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "What does it mean when your chart ruler is in the 2nd house?"
-    a: "It ties who you are to what you can count on: the skills you could live from, the things you keep, the money you earn. You tend to know yourself through competence, and your manner shows what you value. I read it as a self looking for solid ground under its feet."
+    a: "It anchors your sense of self in solid things: the skills you could live from, the things you keep, the money you earn. You tend to know yourself through competence, and your manner shows what you value. I read it as a self looking for solid ground under its feet."
   - q: "Does a chart ruler in the 2nd house mean I will be rich?"
     a: "No chart can say that. The 2nd house describes your relationship with money and security: how you earn, spend and value, and what makes you feel safe. With your chart ruler there, that relationship sits close to the heart of who you are, whatever the amounts turn out to be."
   - q: "Is the ruler of the 1st house in the 2nd house materialistic?"

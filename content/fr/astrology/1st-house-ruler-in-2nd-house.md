@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/chart-ruler", "/astrology/2nd-house", "/astrology/1st-house", "/astrology/house-rulers", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire un maître du thème en maison 2 ?"
-    a: "Il lie qui vous êtes à ce sur quoi vous pouvez compter : les compétences dont vous pourriez vivre, les choses que vous gardez, l’argent que vous gagnez. Vous apprenez à vous connaître par la compétence, et votre allure montre ce qui compte pour vous. J’y lis un moi qui cherche un sol ferme sous ses pieds."
+    a: "Il ancre le sentiment de vous-même dans du concret : les compétences dont vous pourriez vivre, les choses que vous gardez, l’argent que vous gagnez. Vous apprenez à vous connaître par la compétence, et votre allure montre ce qui compte pour vous. J’y lis un moi qui cherche un sol ferme sous ses pieds."
   - q: "Un maître du thème en maison 2 veut-il dire que je serai riche ?"
     a: "Aucun thème ne peut le dire. La maison 2 décrit votre rapport à l’argent et à la sécurité : comment vous gagnez, dépensez et donnez de la valeur aux choses, et ce qui vous rassure. Avec le maître du thème à cet endroit, ce rapport touche au cœur de qui vous êtes, quels que soient les montants."
   - q: "Le maître de la maison 1 en maison 2, est-ce matérialiste ?"
