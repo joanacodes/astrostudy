@@ -29,7 +29,7 @@ faq:
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les cuspides de Placidus pour des naissances réparties sur toute une journée, à Londres et à New York, et les signes qui se lèvent avec elles" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure, maître des Gémeaux et de la Vierge ; le Soleil, du Lion" }
-  - { title: "Vettius Valens, Anthologies", note: "la maison 11, le Génie favorable, et la joie de Jupiter" }
+  - { title: "Vettius Valens, Anthologies", note: "la maison 11 et son nom ancien, le Génie favorable" }
 ---
 Les Gémeaux sur la cuspide de la maison 11 ouvrent la maison des gens avec qui vous bâtissez un avenir dans le signe de l’intermédiaire. L’amitié, ici, vit de nouvelles, d’idées et de présentations, et votre cercle mêle volontiers des personnes qui ne se seraient jamais rencontrées sans vous.
 

@@ -29,7 +29,7 @@ faq:
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les cuspides de Placidus pour des naissances réparties sur toute une journée, à Londres et à New York, et les signes qui se lèvent avec elles" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure, maître des Gémeaux et de la Vierge" }
-  - { title: "Vettius Valens, Anthologies", note: "la maison 6, la Fortune défavorable, et ce que la tradition lui donnait" }
+  - { title: "Vettius Valens, Anthologies", note: "la maison 6 et son nom ancien, la Fortune défavorable" }
 ---
 Les Gémeaux sur la cuspide de la maison 6 ouvrent la maison des jours ordinaires dans le signe qui supporte le moins l’ennui. Le travail, les routines et le soin de soi y vont mieux avec un changement de tâche, une conversation et quelque chose à découvrir.
 

@@ -28,7 +28,7 @@ faq:
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "Placidus cusps for births spread evenly over a day at London and New York, with the signs that rise alongside" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury as the ruler of Gemini and Virgo, the Sun of Leo" }
-  - { title: "Vettius Valens, Anthology", note: "the 11th house, the Good Spirit, and Jupiter’s joy there" }
+  - { title: "Vettius Valens, Anthology", note: "the 11th house and its old name, the Good Spirit" }
 ---
 Gemini on the 11th house cusp opens the house of the people you build a future with in the sign of the go-between. Friendship, here, lives on news, ideas and introductions, and your circle tends to mix people who would never otherwise have met.
 

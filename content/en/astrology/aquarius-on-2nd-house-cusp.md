@@ -5,9 +5,11 @@ description: "Aquarius on the 2nd house cusp: money as a tool for independence, 
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Placements"]
+tags: ["Aquarius", "2nd house", "house cusps"]
 weight: 2543
 glyph: "♒"
-definition: "Aquarius on the 2nd house cusp puts your money, possessions and self-worth under a fixed air sign. You tend to value what keeps you free over what impresses, and to set your own price on things. Uranus and Saturn rule the house, and their places show where the earning gets done. It takes an exact birth time."
+definition: "Aquarius on the 2nd house cusp puts your money, possessions and self-worth under a fixed air sign. You tend to value what keeps you free over what impresses, and to set your own price on things. Uranus and Saturn rule the house, and their places show where the earning gets done."
 facts:
   - { k: "Sign", v: "Aquarius ♒, fixed air" }
   - { k: "Cusp", v: "The 2nd house: what you earn, own and value" }

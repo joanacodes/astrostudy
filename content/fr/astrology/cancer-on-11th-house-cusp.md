@@ -29,7 +29,7 @@ faq:
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les cuspides de Placidus pour des naissances réparties sur toute une journée, à Londres et à New York, et les signes qui se lèvent avec elles" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "la Lune, maîtresse du Cancer ; l’exaltation de Jupiter en Cancer ; Mercure, maître de la Vierge" }
-  - { title: "Vettius Valens, Anthologies", note: "la maison 11, le Génie favorable, et la joie de Jupiter" }
+  - { title: "Vettius Valens, Anthologies", note: "la maison 11 et son nom ancien, le Génie favorable" }
 ---
 Le Cancer sur la cuspide de la maison 11 ouvre la maison de l’amitié, de la communauté et de l’avenir que l’on bâtit avec d’autres dans le signe qui veille sur les siens. Les gens que vous choisissez deviennent des gens dont vous prenez soin, et un groupe devient un lieu d’appartenance.
 

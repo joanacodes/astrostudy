@@ -28,7 +28,7 @@ faq:
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "Placidus cusps for births spread evenly over a day at London and New York, with the signs that rise alongside" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury as the ruler of Gemini and Virgo" }
-  - { title: "Vettius Valens, Anthology", note: "the 6th house, Bad Fortune, and what tradition gave it" }
+  - { title: "Vettius Valens, Anthology", note: "the 6th house and its old name, Bad Fortune" }
 ---
 Gemini on the 6th house cusp opens the house of ordinary days in the sign that can least bear a dull one. Work, routines and looking after yourself all go better here with a change of task, a conversation and something to find out.
 

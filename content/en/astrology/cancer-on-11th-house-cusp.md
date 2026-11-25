@@ -28,7 +28,7 @@ faq:
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "Placidus cusps for births spread evenly over a day at London and New York, with the signs that rise alongside" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon as the ruler of Cancer, Jupiter exalted there, Mercury of Virgo" }
-  - { title: "Vettius Valens, Anthology", note: "the 11th house, the Good Spirit, and Jupiter’s joy there" }
+  - { title: "Vettius Valens, Anthology", note: "the 11th house and its old name, the Good Spirit" }
 ---
 Cancer on the 11th house cusp opens the house of friendship, community and the future you build with others in the sign that looks after its own. The people you choose tend to become people you care for, and a group becomes a place to belong.
 

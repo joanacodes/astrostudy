@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/leo", "/astrology/2nd-house", "/astrology/sun", "/astrology/leo-rising", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "What does Leo on the 2nd house cusp mean?"
-    a: "That the house of money, belongings and self-worth begins in Leo. You tend to value what is well made and what carries your mark, to feel your worth most when you’ve earned something your own way, and to be generous with what you have. The Sun rules the house, and its position shows where you earn and spend."
+    a: "That the house of money, belongings and self-worth begins in Leo. You tend to value what is well made and what carries your mark, to feel your worth most when you’ve earned something your own way, and to be generous with what you have. Where the Sun sits in your chart is where the earning and spending happen."
   - q: "Will Leo on the 2nd house cusp make me rich?"
     a: "No chart can tell how much someone will earn, and I don’t read one for it. This cusp describes a manner: money tied to pride and to what you make, spent generously, and a sense of worth that needs earning in your own name. The amounts depend on your life, not on a sign."
   - q: "What does the Sun ruling the 2nd house mean?"

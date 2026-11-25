@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/leo", "/astrology/2nd-house", "/astrology/sun", "/astrology/leo-rising", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire le Lion sur la cuspide de la maison 2 ?"
-    a: "Que la maison de l’argent, des biens et de l’estime de soi commence en Lion. Vous aimez ce qui est bien fait et porte votre marque, sentez votre valeur surtout quand vous avez gagné quelque chose à votre façon, et donnez volontiers. Le Soleil gouverne la maison : sa place montre où vous gagnez et dépensez."
+    a: "Que la maison de l’argent, des biens et de l’estime de soi commence en Lion. Vous aimez ce qui est bien fait et porte votre marque, sentez votre valeur surtout quand vous avez gagné quelque chose à votre façon, et donnez volontiers. C’est là où se trouve le Soleil que se font vos gains et vos dépenses."
   - q: "Le Lion sur la cuspide de la maison 2 rend-il riche ?"
     a: "Aucun thème ne peut dire combien une personne gagnera, et je n’en lis pas pour cela. Cette cuspide décrit une manière : un argent lié à la fierté et à ce que vous faites, dépensé avec générosité, et une estime de soi qui demande à être gagnée en votre nom. Les montants dépendent de votre vie, pas d’un signe."
   - q: "Que veut dire le Soleil maître de la maison 2 ?"

@@ -29,7 +29,7 @@ faq:
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les cuspides de Placidus pour des naissances réparties sur toute une journée, à Londres et à New York, et les signes qui se lèvent avec elles" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "la Lune, maîtresse du Cancer ; Mercure, des Gémeaux" }
-  - { title: "Vettius Valens, Anthologies", note: "la maison 3, la Déesse, et la joie de la Lune" }
+  - { title: "Vettius Valens, Anthologies", note: "la maison 3 et son nom ancien, la Déesse" }
 ---
 Le Cancer sur la cuspide de la maison 3 apporte le plus protecteur des signes à la plus quotidienne des maisons : les messages, les courses, les leçons, les voisins et les personnes auprès de qui vous avez grandi. Parler, ici, est une façon de prendre soin.
 
