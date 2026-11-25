@@ -15,8 +15,9 @@ facts:
   - { k: "Natal point", v: "The Moon ☽: your needs and your habits of comfort" }
   - { k: "Aspect", v: "Opposition ☍, 180°: the South Node’s conjunction" }
   - { k: "One pass", v: "About a month; 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "4 or 5 times; nobody misses it" }
+  - { k: "In my forecast", v: "Counted: the South Node is on your Moon" }
 related: ["/astrology/south-node", "/astrology/moon", "/astrology/opposition", "/astrology/moon-opposite-north-node", "/astrology/north-node"]
 faq:
   - q: "What does transiting North Node opposite natal Moon mean?"

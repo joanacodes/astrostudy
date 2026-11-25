@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Saturn", "trine", "transits"]
 weight: 1831
 glyph: "♇△♄"
-definition: "Transiting Pluto trine natal Saturn is Pluto 120° from your birth Saturn, for about two years and eight months; nearly 4 people in 5 meet it by 80. Renewal and structure flow together, so a change can be made to last with little resistance. I read it as a season for consolidation, never as a reward."
+definition: "Transiting Pluto trine natal Saturn has Pluto backing your birth Saturn at 120° for about two years and eight months; nearly 4 people in 5 meet it by 80. Renewal and structure flow together, so a change can be made to last with little resistance. Consolidation, as I read it, rather than reward."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of regeneration" }
   - { k: "Natal point", v: "Saturn ♄: structure, mastery and long work" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/saturn", "/astrology/trine", "/astrology/saturn-trine-pluto", "/astrology/transiting-pluto-trine-natal-pluto"]
 faq:
   - q: "What does transiting Pluto trine natal Saturn mean?"
-    a: "Pluto in the sky is 120° from your Saturn, usually in a sign of the same element. I read it as a long season when renewal and structure cooperate: what you have rebuilt can be consolidated, a long project can be finished properly, and lasting changes take less effort than usual."
+    a: "With Pluto 120° from your Saturn, usually in a sign of the same element, renewal and structure work together for a long season. What you have rebuilt can be consolidated, a long project finished properly, and lasting changes cost less effort than usual."
   - q: "How long does Pluto trine Saturn last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after. When Pluto crosses the exact trine three times, as in about three passes out of five, it takes about two years and seven months; passes with five exact hits take about three years and seven months."
+    a: "The loops decide: with three exact hits, as in about three passes out of five, around two years and seven months; with five, around three years and seven months. Over all passes, from 1½° before exact to 1° after, the typical length is about two years and eight months."
   - q: "When will Pluto trine my Saturn?"
-    a: "That depends on where your Saturn stood at birth: for births on 1 January, at 13.9 in 1975, 18.8 in 1965, 40.9 in 1945 and 56.3 in 2005. While Pluto crosses Aquarius, until early 2044, it trines Saturns in Gemini and Libra. Nearly 4 people in 5 meet it by 80."
+    a: "Saturn’s place in your chart decides, not your generation: for births on 1 January, at 13.9 in 1975, 18.8 in 1965, 40.9 in 1945 and 56.3 in 2005. While Pluto crosses Aquarius, until early 2044, it trines Saturns in Gemini and Libra. Nearly 4 people in 5 meet it by 80."
   - q: "Is Pluto trine Saturn lucky?"
     a: "I don’t read it as luck. A trine describes ease, and ease isn’t a guarantee: it helps the work you are willing to do. Saturn rewards patience and Pluto rewards honesty, so the trine suits finishing, consolidating and making things last. It forecasts no success and no event."
 sources:

@@ -16,8 +16,9 @@ facts:
   - { k: "Point natal", v: "Mercure ☿ : ce que vous remarquez, votre façon de raisonner et d’expliquer" }
   - { k: "Aspect", v: "Opposition ☍, 180° : la conjonction du Nœud Sud" }
   - { k: "Un passage", v: "Un mois environ ; 3 mois et demi ou plus une fois sur 10" }
-  - { k: "Avec une boucle rétrograde", v: "Trois passages exacts en 3 mois et demi environ, une fois sur 25 environ" }
+  - { k: "Avec une boucle", v: "Trois contacts exacts en 3 mois et demi environ, une fois sur 25 environ" }
   - { k: "Avant 80 ans", v: "4 ou 5 fois ; personne n’y échappe" }
+  - { k: "Dans ma prévision", v: "Compté : le Nœud Sud est sur votre Mercure" }
 related: ["/astrology/south-node", "/astrology/mercury", "/astrology/opposition", "/astrology/mercury-opposite-north-node", "/astrology/north-node-transit-10th-house"]
 faq:
   - q: "Que veut dire le Nœud Nord en transit opposition Mercure natal ?"

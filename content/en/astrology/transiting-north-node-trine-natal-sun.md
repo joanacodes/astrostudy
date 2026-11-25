@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Sun", "trine", "transits"]
 weight: 1920
 glyph: "☊△☉"
-definition: "Transiting North Node trine natal Sun is the North Node 120° from your birth Sun, with the South Node sextile it, eight or nine times by 80. For about a month, growth feels native rather than forced. I read it as ease to use while it lasts, never a guarantee that anything follows."
+definition: "Transiting North Node trine natal Sun is the North Node 120° from your birth Sun, with the South Node sextile it, eight or nine times by 80. For about a month, growth feels native rather than forced. The ease is there to use while it lasts, never a guarantee that anything follows."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node ☋ opposite" }
   - { k: "Natal point", v: "The Sun ☉: identity, vitality and purpose" }
@@ -21,13 +21,13 @@ facts:
 related: ["/astrology/north-node", "/astrology/sun", "/astrology/sun-trine-north-node", "/astrology/transiting-north-node-sextile-natal-sun", "/astrology/transits"]
 faq:
   - q: "What does transiting North Node trine natal Sun mean?"
-    a: "The North Node stands 120° from your birth Sun, with the South Node sextile it, so for about a month the direction you are growing in sits comfortably with who you are. Practising the new feels natural. I read it as ease to use, not as a promise that anything follows from it."
+    a: "The North Node stands 120° from your birth Sun, with the South Node sextile it, so for about a month the direction you are growing in sits comfortably with who you are. Practising the new feels natural. It is ease to use, not a promise that anything follows from it."
   - q: "How long does North Node trine Sun last?"
     a: "About a month in most cases, from 1½° before exact to 1° after. An exact trine that falls in an eclipse season, about four months from your birthday on one side or two on the other, can stretch past three and a half months."
   - q: "Which Sun signs have the North Node trine now?"
     a: "With the node in Aquarius until March 2028, Gemini and Libra Suns, born about 21 May to 20 June and 23 September to 22 October. From March 2028, with the node in Capricorn, it moves on to Taurus and Virgo Suns. Your Sun’s exact degree sets the month."
 sources:
-  - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the trine within my orbs, how often it comes by 80, and its signs from 2026" }
+  - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the trine from 1½° before exact to 1° after, how often it comes by 80, and its signs from 2026" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true, and the true node’s pace" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "how a transit is read: the moving body, the natal point and the angle between them" }
 ---
@@ -45,7 +45,7 @@ The house your Sun occupies decides where the step is taken. With the [Sun in th
 
 ## How long it lasts {#how-long-it-lasts}
 
-Inside my orbs, 1½° before exact to 1° after, nineteen trines in twenty are single crossings of about a month. In the year of the trine the Sun reaches the North Node about four months from your birthday and the South Node about two months from it on the other side ([eclipse seasons](/astrology/eclipse-seasons/)). An exact trine that falls in either season catches the true node at its slowest, and the pass can run past three and a half months, as one in ten do, or cross three times, as one in twenty-five do. The eclipses themselves stand 120° or 60° from your Sun and don't count on your chart.
+From 1½° before exact to 1° after, nineteen trines in twenty are single crossings of about a month. In the year of the trine the Sun reaches the North Node about four months from your birthday and the South Node about two months from it on the other side ([eclipse seasons](/astrology/eclipse-seasons/)). An exact trine that falls in either season catches the true node at its slowest, and the pass can run past three and a half months, as one in ten do, or cross three times, as one in twenty-five do. The eclipses themselves stand 120° or 60° from your Sun and don't count on your chart; nor does the trine, since my forecast takes the node only at the conjunction and the opposition.
 
 The trines come in pairs: about six and twelve and a half years after the North Node crosses your Sun ([transiting North Node conjunct natal Sun](/astrology/transiting-north-node-conjunct-natal-sun/)), then twelve and a half years without one until the next round's pair, eight or nine by 80 in all. The first follows [transiting North Node sextile natal Sun](/astrology/transiting-north-node-sextile-natal-sun/) and [transiting North Node square natal Sun](/astrology/transiting-north-node-square-natal-sun/); the second comes after [transiting North Node opposite natal Sun](/astrology/transiting-north-node-opposite-natal-sun/), halfway round.
 

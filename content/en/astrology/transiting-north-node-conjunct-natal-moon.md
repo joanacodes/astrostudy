@@ -15,12 +15,13 @@ facts:
   - { k: "Natal point", v: "The Moon ☽: your needs, habits and sense of safety" }
   - { k: "Aspect", v: "Conjunction ☌, 0°, with the South Node opposite your Moon" }
   - { k: "One pass", v: "About a month (34 days in the middle case); 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "4 or 5 times; nobody misses it" }
+  - { k: "In my forecast", v: "Counted: the North Node is on your Moon" }
 related: ["/astrology/north-node", "/astrology/moon", "/astrology/moon-conjunct-north-node", "/astrology/eclipses-on-your-natal-planets", "/astrology/transits"]
 faq:
   - q: "What does transiting North Node conjunct natal Moon mean?"
-    a: "The place where the Moon’s orbit cuts the Sun’s path, going north, has reached the degree of your birth Moon. For about a month, what you need to feel safe and the less practised direction your chart grows in point the same way. I read it as a season for learning a new kind of care, not as an event."
+    a: "The place where the Moon’s orbit cuts the Sun’s path, going north, has reached the degree of your birth Moon. For about a month, what you need to feel safe and the less practised direction your chart grows in point the same way. I read it as a time to learn a new kind of care, not as an event."
   - q: "How long does the North Node conjunct my Moon last?"
     a: "A month in the middle case, from 1½° before exact to 1° after. One pass in ten is over in about three and a half weeks, and one in ten lasts three and a half months or more, usually when an eclipse season arrives while the node is on your Moon."
   - q: "Is North Node conjunct Moon a karmic transit?"
@@ -46,7 +47,7 @@ With your [Moon in the 4th house](/astrology/moon-in-4th-house/), the node reach
 
 ## How long it lasts {#how-long-it-lasts}
 
-I use orbs of 1½° before exact and 1° after. Within them, the true node usually spends about a month on your Moon and crosses it once. Its pace follows the Sun: the node all but stands still in the middle of each eclipse season, when the Sun lines up with it, and runs backwards fastest in between. So one pass in ten is over in about three and a half weeks, one in ten lasts three and a half months or more, and about one in twenty-five brings three exact hits over some three and a half months. Most of the long passes are ones an eclipse season catches. In June 2029, for instance, the node stands almost still near 5° Capricorn while the total lunar eclipse of 26 June darkens the Moon at 4°49′ Capricorn: a Moon born at that degree has both at once ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
+My orbs open 1½° before exact and close 1° after. Within them, the true node usually spends about a month on your Moon and crosses it once. Its pace follows the Sun: the node all but stands still in the middle of each eclipse season, when the Sun lines up with it, and runs backwards fastest in between. So one pass in ten is over in about three and a half weeks, one in ten lasts three and a half months or more, and about one in twenty-five brings three exact hits over some three and a half months. Most of the long passes are ones an eclipse season catches. In June 2029, for instance, the node stands almost still near 5° Capricorn while the total lunar eclipse of 26 June darkens the Moon at 4°49′ Capricorn: a Moon born at that degree has both at once ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
 
 Once in each round of the nodes, about every 18.6 years, it comes back: four or five visits by 80, with no exceptions. In between, the node sextiles your Moon about three years later ([Transiting North Node sextile natal Moon](/astrology/transiting-north-node-sextile-natal-moon/)), squares it at about four and a half ([Transiting North Node square natal Moon](/astrology/transiting-north-node-square-natal-moon/)) and trines it at about six ([Transiting North Node trine natal Moon](/astrology/transiting-north-node-trine-natal-moon/)); at about nine, the South Node reaches your Moon ([Transiting North Node opposite natal Moon](/astrology/transiting-north-node-opposite-natal-moon/)). Born with [Moon conjunct North Node](/astrology/moon-conjunct-north-node/), you have this transit whenever the node completes a lap and stands again where it stood at your birth.
 

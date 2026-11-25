@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Saturne", "trigone", "transits"]
 weight: 1831
 glyph: "♇△♄"
-definition: "Pluton en transit trigone Saturne du thème natal, c’est Pluton à 120° de la place natale de Saturne pendant deux ans et huit mois environ ; près de 4 personnes sur 5 le vivent avant 80 ans. Renouveau et structure vont ensemble : un changement peut s’installer pour durer, sans grande résistance. J’y lis une saison pour consolider, jamais une récompense."
+definition: "Pluton en transit trigone Saturne du thème natal fait de Pluton un appui pour Saturne, à 120°, pendant deux ans et huit mois environ ; près de 4 personnes sur 5 le vivent avant 80 ans. Renouveau et structure vont ensemble : un changement peut s’installer pour durer, sans grande résistance. Une saison pour consolider, plutôt qu’une récompense."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la régénération" }
   - { k: "Point natal", v: "Saturne ♄ : la structure, la maîtrise et le travail de longue haleine" }
@@ -23,11 +23,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/saturn", "/astrology/trine", "/astrology/saturn-trine-pluto", "/astrology/transiting-pluto-trine-natal-pluto"]
 faq:
   - q: "Que veut dire Pluton en transit trigone Saturne ?"
-    a: "Pluton, dans le ciel, se trouve à 120° de Saturne dans votre thème, en général dans un signe du même élément. J’y lis une longue saison où le renouveau et la structure coopèrent : ce que vous avez rebâti peut être consolidé, un long projet mené proprement à son terme, et les changements durables demandent moins d’effort que d’habitude."
+    a: "Avec Pluton à 120° de Saturne dans votre thème, en général dans un signe du même élément, le renouveau et la structure travaillent ensemble pendant une longue saison. Ce que vous avez rebâti peut être consolidé, un long projet terminé proprement, et les changements durables coûtent moins d’effort que d’habitude."
   - q: "Combien de temps dure Pluton trigone Saturne ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après. Quand Pluton franchit le trigone exact trois fois, comme dans environ trois passages sur cinq, il faut environ deux ans et sept mois ; les passages à cinq passages exacts durent environ trois ans et sept mois."
+    a: "Les boucles en décident : avec trois contacts exacts, comme dans environ trois passages sur cinq, deux ans et sept mois environ ; avec cinq, trois ans et sept mois environ. Tous passages confondus, de 1,5° avant l’exactitude à 1° après, la durée habituelle est d’environ deux ans et huit mois."
   - q: "Quand vient le trigone de Pluton à Saturne dans mon thème ?"
-    a: "Cela dépend de la position de Saturne à votre naissance : pour une naissance un 1er janvier, à 13,9 ans en 1975, 18,8 ans en 1965, 40,9 ans en 1945 et 56,3 ans en 2005. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le trigone touche Saturne en Gémeaux et en Balance. Près de 4 personnes sur 5 le vivent avant 80 ans."
+    a: "C’est la place de Saturne dans votre thème qui décide, pas votre génération : pour une naissance un 1er janvier, à 13,9 ans en 1975, 18,8 ans en 1965, 40,9 ans en 1945 et 56,3 ans en 2005. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le trigone touche Saturne en Gémeaux et en Balance. Près de 4 personnes sur 5 le vivent avant 80 ans."
   - q: "Est-ce que Pluton trigone Saturne porte chance ?"
     a: "Je n’y lis pas de la chance. Un trigone décrit une aisance, et une aisance n’est pas une garantie : elle aide le travail que vous êtes prête ou prêt à faire. Saturne récompense la patience et Pluton l’honnêteté, si bien que ce trigone convient pour terminer, consolider et faire durer. Il n’annonce ni succès ni événement."
 sources:

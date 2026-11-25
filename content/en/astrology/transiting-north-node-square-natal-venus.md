@@ -15,8 +15,9 @@ facts:
   - { k: "Natal point", v: "Venus ♀: what you value and enjoy, and how you meet others halfway" }
   - { k: "Aspect", v: "Square □, 90°" }
   - { k: "One pass", v: "About a month; 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "8 or 9 times; nobody misses it" }
+  - { k: "In my forecast", v: "Left out: your Venus is midway between the nodes" }
 related: ["/astrology/north-node", "/astrology/venus", "/astrology/square", "/astrology/venus-square-north-node", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does transiting North Node square natal Venus mean?"
@@ -24,7 +25,7 @@ faq:
   - q: "Is North Node square Venus bad for my relationship?"
     a: "No. A transit can’t tell how a relationship will go, and I never read one for a break-up. This square describes friction between what you enjoy and where you’re growing, which a relationship can feel. Talking about it, rather than reading it as a sign, is what tends to help."
   - q: "How long does North Node square Venus last?"
-    a: "About a month in the usual case, from 1½° before exact to 1° after; the quickest are over in three and a half weeks, the slowest three and a half months or more; each is about one pass in ten. It comes twice in each 18.6-year round, eight or nine times by 80."
+    a: "About a month in the usual case, from 1½° before exact to 1° after; the brisk ones take three and a half weeks, the slow ones three and a half months or more, about one pass in ten each. Two come in every 18.6-year round, making eight or nine by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the square within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Venus" }
@@ -36,7 +37,7 @@ When the nodes square your Venus, neither end of the axis touches it; the axis r
 
 [Venus](/astrology/venus/) weighs what you value and what you enjoy, and how you meet other people halfway. The [North Node](/astrology/north-node/) and the [South Node](/astrology/south-node/) both stand at right angles to it now, one on each side, and a [square](/astrology/square/) works through friction that wants an adjustment. Under this [transit](/astrology/transits/), a pleasure or an attachment sits between your past habits and your next step.
 
-That can show as a relationship that suits the old you better than the new one, a comfort that keeps you from a step, or a step that seems to ask you to give up something you love. Harmony isn't the same as avoiding conflict, and the square doesn't ask you to choose between your affections and your growth; it asks what each would need to make room for the other. The answer is often smaller than the worry: a conversation, a change of rhythm, a pleasure moved rather than cancelled. None of this forecasts a parting, and no transit could.
+That can show as a relationship that suits the old you better than the new one, a comfort that keeps you from a step, or a step that seems to ask you to give up something you love. Harmony isn't the same as avoiding conflict, and the square doesn't ask you to choose between your affections and your growth; it asks what each would need to make room for the other. The answer is often smaller than the worry: a conversation, a change of rhythm, a pleasure moved rather than cancelled. None of this forecasts a parting, and no transit could. My forecast doesn't even list the square: of the node's contacts with your Venus it keeps only the conjunction and the opposition.
 
 With your [Venus in the 4th house](/astrology/venus-in-4th-house/), the friction tends to sit at home: the warmth of family habits, the place you've made comfortable, the people you'd rather not disappoint. If you're tempted to look up someone else's chart to see what the square means for them, ask them first ([synastry and consent](/blog/synastry-behind-their-back/)). And your 4th, like the rest of your houses, exists only once the birth time is known ([what changes without a birth time](/blog/unknown-birth-time/)).
 

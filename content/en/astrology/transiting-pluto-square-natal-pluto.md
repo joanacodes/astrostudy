@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "square", "transits"]
 weight: 1844
 glyph: "♇□♇"
-definition: "Transiting Pluto square natal Pluto is Pluto 90° on from its birth degree: the Pluto square. Everyone born from 1930 to 2009 meets it once, between about 34½ and 59 depending on the birth year, for two to four years. I read it as midlife pressure to rework what you hold on to, never as a breakdown."
+definition: "Transiting Pluto square natal Pluto is the Pluto square itself: Pluto 90° on from its birth degree. Everyone born from 1930 to 2009 meets it once, between about 34½ and 59 depending on the birth year, for two to four years. It brings midlife pressure to rework what you hold on to, never a breakdown."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Pluto ♇: where you hold on hardest and can let go" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/square", "/astrology/pluto-square", "/astrology/pluto-in-scorpio", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "What does transiting Pluto square natal Pluto mean?"
-    a: "Pluto in the sky has moved a quarter of the zodiac on from its place at your birth. I read it as a long stretch of friction between the ways of holding on, controlling and protecting yourself that you built early, and the change your life now asks for, in the area your natal Pluto’s house describes."
+    a: "It is Pluto squaring its own birth place. The ways of holding on, controlling and protecting yourself that you built early meet the change your life now asks for, in the area your natal Pluto’s house describes."
   - q: "When does Pluto come within orb of my Pluto square?"
     a: "About a year before the first exact square. For births on 1 January, Pluto came within my orb at 45.9 in 1935, 41.9 in 1945, 38 in 1955, 36.1 in 1965, 37 in 1975 and 40.2 in 1985, and does so at 46.3 for 1995 and 54.3 for 2005."
   - q: "How long does the Pluto square transit last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and up to about three and three-quarter years. In about three passes out of five Pluto crosses the exact square three times; in the rest, five times."
+    a: "Usually about two years and eight months, counted from 1½° before exact to 1° after, though a slow pass can run to three and three-quarter years. Pluto enters the orb about a year before the first exact square."
   - q: "Is the Pluto square a midlife crisis?"
     a: "I don’t read it as a crisis. Pluto describes transformation, and a square describes friction that asks for adjustment, not collapse. Many people meet it in their late thirties or forties, alongside other midlife transits, but it forecasts no event. If this time feels heavier than you can carry, talk to a doctor or a therapist."
 sources:
@@ -39,7 +39,7 @@ This is the Pluto square seen as a transit: Pluto 90° on from where it stood wh
 
 Natal [Pluto](/astrology/pluto/) is where you hold on hardest and where, in time, you can let go and begin again; it is also where you learned early how to protect what matters to you. Usually a [square](/astrology/square/), 90°, sets two functions in constructive friction; here it is between one function at two ages. Under this [transit](/astrology/transits/), the ways of holding on from your first decades rub against what the rest of your life needs: a protective guardedness can start to keep you small, and a need for control can cost more than it saves.
 
-Pluto's quieter blind spots surface at the square: confusing secrecy with depth, and exposure with humiliation. Empowerment isn't domination: the square often ends with authority held more lightly.
+Pluto's quieter blind spots surface at the square: confusing secrecy with depth, and exposure with humiliation. Holding power doesn't mean holding others down: the square often ends with authority held more lightly.
 
 Its timing ties it to other transits. For people born in the mid-1960s, with Uranus beside Pluto, it came together with Pluto's square to their natal Uranus ([Transiting Pluto square natal Uranus](/astrology/transiting-pluto-square-natal-uranus/)). The square also lands, in the same years, on any planet your Pluto touched at birth.
 

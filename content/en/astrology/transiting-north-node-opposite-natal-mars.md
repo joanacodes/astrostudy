@@ -15,8 +15,9 @@ facts:
   - { k: "Natal point", v: "Mars ♂: how you assert yourself and spend effort" }
   - { k: "Aspect", v: "Opposition ☍, 180°: the South Node’s conjunction" }
   - { k: "One pass", v: "About a month; 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "4 or 5 times; nobody misses it" }
+  - { k: "In my forecast", v: "Counted: the South Node is on your Mars" }
 related: ["/astrology/south-node", "/astrology/mars", "/astrology/opposition", "/astrology/mars-opposite-north-node", "/astrology/mars-in-2nd-house"]
 faq:
   - q: "What does transiting North Node opposite natal Mars mean?"

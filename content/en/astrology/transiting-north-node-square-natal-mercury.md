@@ -15,8 +15,9 @@ facts:
   - { k: "Natal point", v: "Mercury ☿: how you reason, interpret and explain" }
   - { k: "Aspect", v: "Square □, 90°" }
   - { k: "One pass", v: "About a month; 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "8 or 9 times; nobody misses it" }
+  - { k: "In my forecast", v: "Left out: your Mercury is midway between the nodes" }
 related: ["/astrology/north-node", "/astrology/mercury", "/astrology/square", "/astrology/mercury-square-north-node", "/astrology/can-astrology-predict-a-court-case"]
 faq:
   - q: "What does transiting North Node square natal Mercury mean?"
@@ -41,9 +42,9 @@ With your [Mercury in the 10th house](/astrology/mercury-in-10th-house/), the fr
 
 ## How long it lasts {#how-long-it-lasts}
 
-Every transit I follow gets the same orbs, 1½° before exact and 1° after, and the node clears them, in the middle case, in about a month. In a tenth of passes it needs three and a half weeks or less; in another tenth, three and a half months or more, which is the true node lingering because the Sun has reached the nodes and an eclipse season has begun. About one pass in twenty-five touches the exact square three times.
+Every transit I follow gets the same orbs, 1½° before exact and 1° after, and the node clears them, in the middle case, in about a month. A tenth of passes need no more than three and a half weeks; another tenth need three and a half months or more: that's the true node lingering because the Sun has reached the nodes and an eclipse season has begun. About one pass in twenty-five touches the exact square three times.
 
-Squares are the evenly spaced pair: nine years and four months apart every time, one from each side of your Mercury. The node passes [Transiting North Node sextile natal Mercury](/astrology/transiting-north-node-sextile-natal-mercury/) before the first and [Transiting North Node trine natal Mercury](/astrology/transiting-north-node-trine-natal-mercury/) after it, reaches [Transiting North Node opposite natal Mercury](/astrology/transiting-north-node-opposite-natal-mercury/) halfway, and makes the same angles again in reverse on its way back to [Transiting North Node conjunct natal Mercury](/astrology/transiting-north-node-conjunct-natal-mercury/). By 80, most people have met nine squares, eight at the fewest. Born with [Mercury square North Node](/astrology/mercury-square-north-node/), you meet this one at every [nodal return](/astrology/nodal-return/) and every [nodal reversal](/astrology/nodal-reversal/), since your Mercury already sits at right angles to the axis you were born with.
+Squares are the evenly spaced pair: nine years and four months apart every time, one from each side of your Mercury, and my forecast has neither, since the node enters it only at the conjunction and the opposition. The node passes [Transiting North Node sextile natal Mercury](/astrology/transiting-north-node-sextile-natal-mercury/) before the first and [Transiting North Node trine natal Mercury](/astrology/transiting-north-node-trine-natal-mercury/) after it, reaches [Transiting North Node opposite natal Mercury](/astrology/transiting-north-node-opposite-natal-mercury/) halfway, and makes the same angles again in reverse on its way back to [Transiting North Node conjunct natal Mercury](/astrology/transiting-north-node-conjunct-natal-mercury/). By 80, most people have met nine squares, eight at the fewest. Born with [Mercury square North Node](/astrology/mercury-square-north-node/), you meet this one at every [nodal return](/astrology/nodal-return/) and every [nodal reversal](/astrology/nodal-reversal/), since your Mercury already sits at right angles to the axis you were born with.
 
 ## What helps {#what-helps}
 

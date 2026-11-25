@@ -24,7 +24,7 @@ faq:
   - q: "What does transiting Pluto sextile natal Sun mean?"
     a: "Pluto has come within orb of a 60° angle to your birth Sun. I read it as a long opening for change you choose: a project that needs staying power, a role you can take on with more authority, a habit you can finally rebuild. Nothing forces the change, and nothing comes of it unless you act."
   - q: "Can Pluto sextile my Sun twice?"
-    a: "Yes, for about 1 person in 10. The two sextiles sit 120° apart, so meeting both takes a long stretch of Pluto’s road: about 1 in 7 of those born from the 1930s to the 1960s have it, the first often in early childhood and the second some fifty to sixty years later, and almost no one born in the 2000s."
+    a: "Yes, for about 1 person in 10. The two sextiles sit 120° apart, so meeting both takes a long stretch of Pluto’s road: about 1 in 7 of those born from the 1930s to the 1960s have it, the first often in early childhood and the second fifty to sixty years later, and almost no one from the 2000s."
   - q: "How long does Pluto sextile Sun last?"
     a: "About two years and eight months in my orbs, from 1½° before exact to 1° after. Pluto’s yearly retrograde means at least three exact hits; about two passes in five have five, and those take some three years and seven months, the time a long project needs to find its footing."
   - q: "Who has Pluto sextile the Sun now?"
@@ -39,7 +39,7 @@ A sextile is the quietest way Pluto can reach your Sun: 60° apart, two signs, f
 
 [Pluto](/astrology/pluto/) empowers by reorganising: it frees strength that was tied up in old structures. Your [Sun](/astrology/sun/) gives a life its direction, the purpose your energy is spent on. A [sextile](/astrology/sextile/), 60°, links the two by an opening you have to answer, so under this [transit](/astrology/transits/) deep change becomes available rather than imposed: you can take on more responsibility, finish something that needs stamina, or rebuild a part of your life you have been patching for years.
 
-Pluto's blind spot here is confusing secrecy with depth: the sense that a serious change must stay private until it is finished. A sextile works through other people, a colleague, a teacher, a friend with the right question, and it opens more easily once you say out loud what you mean to change. The Sun adds that purpose is not status: authority made easier to take on is worth having only if it serves what you mean to do.
+The trap on Pluto's side is to mistake secrecy for depth, as if a serious change had to stay private until it was finished. A sextile works through other people, a colleague, a teacher, a friend with the right question, and it opens more easily once you say out loud what you mean to change. The Sun adds that purpose is not status: authority made easier to take on is worth having only if it serves what you mean to do.
 
 This transit is the clearest case of a rule I keep: a chart describes tendencies, not fate ([How I read](/how-i-read/)).
 

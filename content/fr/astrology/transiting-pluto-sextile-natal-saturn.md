@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Saturne", "sextile", "transits"]
 weight: 1829
 glyph: "♇⚹♄"
-definition: "Pluton en transit sextile Saturne du thème natal, c’est Pluton à 60° de la place natale de Saturne pendant deux ans et huit mois environ ; 3 personnes sur 4 le vivent avant 80 ans. Une porte s’ouvre entre structure et renouveau pour rebâtir un devoir ou un rôle. J’y lis une offre qui attend votre geste, jamais une garantie."
+definition: "Pluton en transit sextile Saturne du thème natal ouvre un lien de 60° entre Pluton et la place natale de Saturne pendant deux ans et huit mois environ, et 3 personnes sur 4 le vivent avant 80 ans. Structure et renouveau peuvent alors coopérer pour rebâtir un devoir ou un rôle. L’offre attend votre geste ; rien n’est garanti."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète du renouveau" }
   - { k: "Point natal", v: "Saturne ♄ : la responsabilité, les limites et le travail de longue haleine" }
@@ -23,11 +23,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/saturn", "/astrology/sextile", "/astrology/saturn-sextile-pluto", "/astrology/transiting-pluto-trine-natal-pluto"]
 faq:
   - q: "Que veut dire Pluton en transit sextile Saturne ?"
-    a: "Pluton, dans le ciel, se trouve à 60° de Saturne dans votre thème, à deux signes de distance. J’y lis une longue ouverture où la structure et le renouveau coopèrent : un devoir, un rôle ou une façon de travailler peuvent être rebâtis délibérément, avec moins de résistance que d’habitude. Comme tout sextile, il offre une chance, pas un résultat."
+    a: "Deux signes séparent Pluton de Saturne dans votre thème, un angle de 60° où la structure et le renouveau coopèrent. Un devoir, un rôle ou une façon de travailler peuvent alors être rebâtis délibérément, avec moins de résistance que d’habitude, à condition de saisir l’occasion."
   - q: "Combien de temps dure Pluton sextile Saturne ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après. Dans environ trois passages sur cinq, Pluton franchit le sextile exact trois fois, sur deux ans et sept mois environ ; les autres comptent cinq passages exacts et durent environ trois ans et sept mois."
+    a: "Dans mes orbes de 1,5° avant l’exactitude et 1° après, environ deux ans et huit mois. Quand l’une des stations de Pluton tombe près du degré, le sextile est exact cinq fois au lieu de trois, et dure plutôt trois ans et sept mois."
   - q: "Est-ce que je vivrai Pluton sextile Saturne ?"
-    a: "Probablement : environ 3 personnes sur 4 nées entre 1930 et 2009 le vivent avant 80 ans, et environ 1 sur 10 deux fois, une de chaque côté de Saturne. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le sextile touche Saturne en Bélier et en Sagittaire, et le degré exact de Saturne dans votre thème fixe l’année."
+    a: "Il y a de bonnes chances : environ 3 personnes sur 4 nées entre 1930 et 2009 le vivent avant 80 ans, et environ 1 sur 10 deux fois, une de chaque côté de Saturne. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le sextile touche Saturne en Bélier et en Sagittaire, et le degré exact de Saturne dans votre thème fixe l’année."
   - q: "Pluton sextile Saturne : est-ce un bon transit ?"
     a: "C’est l’un des transits de Pluton les plus doux, mais je ne lis aucun transit comme bon ou mauvais. Un sextile décrit une occasion qui demande de s’engager : rien ne change si vous ne la saisissez pas. Il ne promet aucun succès et n’annonce aucun événement."
 sources:

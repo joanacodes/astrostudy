@@ -39,7 +39,7 @@ Seven people in eight meet a Pluto square to the Sun by 80, more than meet any o
 
 [Pluto](/astrology/pluto/) reorganises from the depths: when a structure has stopped serving life, it presses until the structure gives. Your [Sun](/astrology/sun/) stands for will and vitality, the drive to be someone and to get somewhere. At 90°, a [square](/astrology/square/) sets them against each other until something adapts, and under this [transit](/astrology/transits/) that something is usually your way of pursuing a purpose. A plan followed for years stops working; an authority or a duty at home will not move; your own drive asks to be spent differently.
 
-Pluto's blind spot here is confusing intensity with truth. Under a square, the strength of a feeling, that you must win this or that you have failed, can pass for an insight into who you are. It is pressure, and it eases between exact hits: a decision taken at its height deserves a second look. Transformation is not destruction either: the friction is aiming at a sounder purpose, not a demolished one.
+Intensity is not truth, and this is the confusion a Pluto square invites. Under a square, the strength of a feeling, that you must win this or that you have failed, can pass for an insight into who you are. It is pressure, and it eases between exact hits: a decision taken at its height deserves a second look. Transformation is not destruction either: the friction is aiming at a sounder purpose, not a demolished one.
 
 If the strain settles into a low mood that doesn't lift, the right help is a doctor or a therapist, and it comes before any chart ([Astrology and mental health](/astrology/astrology-and-mental-health/)).
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Uranus", "carré", "transits"]
 weight: 1835
 glyph: "♇□♅"
-definition: "Pluton en transit carré Uranus du thème natal, c’est Pluton à 90° de la place natale d’Uranus pendant deux à quatre ans ; 5 personnes sur 7 le vivent une fois avant 80 ans. Votre besoin de vivre autrement rencontre une pression plus profonde, et la friction aiguise les deux. J’y lis une réforme sous pression, jamais le chaos."
+definition: "Pluton en transit carré Uranus du thème natal met Pluton et la place natale d’Uranus à angle droit pendant deux à quatre ans ; 5 personnes sur 7 le vivent une fois avant 80 ans. Votre besoin de vivre autrement rencontre une pression plus profonde, et la friction aiguise les deux : une réforme sous pression, pas le chaos."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "Uranus ♅ : la liberté, la réforme et votre façon d’être autrement" }
@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/uranus", "/astrology/square", "/astrology/uranus-square-pluto", "/astrology/pluto-square"]
 faq:
   - q: "Que veut dire Pluton en transit carré Uranus ?"
-    a: "Pluton, dans le ciel, se trouve à 90° d’Uranus dans votre thème, la part qui a besoin de liberté et de changement. J’y lis une longue période de friction entre la vie pour laquelle vous voulez de la place et une pression à transformer quelque chose en profondeur : une impatience devant ce qui va mal, et le travail de le réformer plutôt que de simplement partir."
+    a: "Pluton se trouve à 90° d’Uranus dans votre thème, la part qui a besoin de liberté et de changement. Il en résulte une longue friction entre la vie pour laquelle vous voulez de la place et une pression qui veut transformer quelque chose en profondeur : l’agacement devant ce qui va mal, et le travail de le réformer plutôt que de simplement rompre."
   - q: "À quel âge vient Pluton carré Uranus ?"
-    a: "Cela dépend de votre année de naissance. Pour une naissance un 1er janvier, le carré est entré dans l’orbe à 16,7 ans en 1945, 26,8 ans en 1955, 36 ans en 1965 et 49,1 ans en 1975, et viendra à 68,3 ans pour 1985. Pour une naissance en 1935, le carré était là dès la première année ; en 1995 et en 2005, il ne vient pas avant 80 ans."
+    a: "C’est votre année de naissance qui le fixe. Pour une naissance un 1er janvier, le carré est entré dans l’orbe à 16,7 ans en 1945, 26,8 ans en 1955, 36 ans en 1965 et 49,1 ans en 1975, et viendra à 68,3 ans pour 1985. Pour une naissance en 1935, le carré était là dès la première année ; en 1995 et en 2005, il ne vient pas avant 80 ans."
   - q: "Combien de temps dure Pluton carré Uranus ?"
-    a: "Environ deux ans et huit mois avec les orbes que j’utilise, de 1,5° avant l’exactitude à 1° après ; les passages les plus courts durent vingt-deux mois environ. Pluton franchit le carré exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres."
+    a: "Au moins vingt-deux mois environ, et le plus souvent deux ans et huit mois, entre 1,5° avant l’exactitude et 1° après, à mesure que Pluton repasse chaque année sur le degré."
   - q: "Est-ce que Pluton carré Uranus annonce un bouleversement soudain ?"
-    a: "Pas dans ma lecture. Uranus décrit le besoin de liberté et de réforme, pas le chaos, et un carré décrit une friction, pas une catastrophe. Ce transit peut rendre une période agitée et exigeante ; il n’annonce ni accident, ni rupture, ni perte d’emploi, ni aucun autre événement."
+    a: "Pas en soi. Uranus décrit le besoin de liberté et de réforme, pas le chaos, et un carré décrit une friction, pas une catastrophe. Ce transit peut rendre une période agitée et exigeante ; il n’annonce ni accident, ni rupture, ni perte d’emploi, ni aucun autre événement."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le carré dans mes orbes, et les âges où le carré vient selon l’année de naissance" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Uranus, un par un" }
@@ -40,17 +40,17 @@ Pluton à 90° d’Uranus dans votre thème natal fait se croiser à angle droit
 
 [Uranus](/astrology/uranus/) différencie et libère : cette fonction a besoin de place pour interroger, essayer, organiser la vie à sa manière. [Pluton](/astrology/pluto/) transforme, lentement et par en dessous. À 90°, un [carré](/astrology/square/) fait de la rencontre des deux fonctions une friction qui construit : sous ce [transit](/astrology/transits/), la vitesse de l’une frotte contre la profondeur de l’autre. Uranus veut le changement tout de suite ; Pluton le veut réel. Un emploi, un foyer, un ensemble de loyautés peuvent devenir trop étroits, alors que l’issue demande plus qu’une rupture nette.
 
-Les deux planètes ont un angle mort à propos du changement lui-même. Uranus peut croire que la rupture produit d’elle-même le progrès ; Pluton peut confondre élimination et régénération. Ensemble, ces réflexes peuvent faire passer le grand ménage pour de la liberté. La friction sert mieux sous forme de question : qu’est-ce qui, exactement, est devenu trop petit pour vous, et à quoi ressemblerait sa réforme ? L’innovation n’est pas le chaos, et les réponses que donne ce carré sont souvent précises.
+Les deux planètes ont un angle mort à propos du changement lui-même. Uranus peut croire que la rupture produit d’elle-même le progrès ; Pluton peut confondre élimination et régénération. Ensemble, ces réflexes peuvent faire passer le grand ménage pour de la liberté. La friction sert mieux sous forme de question : qu’est-ce qui, exactement, est devenu trop petit pour vous, et à quoi ressemblerait sa réforme ?
 
-Le carré suit aussi les générations. Pour une naissance de 1930 à 1936, avec [Uranus carré Pluton](/astrology/uranus-square-pluto/) dans le thème, ce transit était là dès la première année. Née ou né au milieu des années 1960, avec Uranus à côté de Pluton, vous l’avez vécu vers 36 ans, en même temps que votre [carré de Pluton](/astrology/pluto-square/), pendant que Pluton traversait le Sagittaire.
+Le carré suit aussi les générations. Pour une naissance de 1930 à 1936, avec [Uranus carré Pluton](/astrology/uranus-square-pluto/) dans le thème, ce transit était là dès la première année. Si votre naissance tombe au milieu des années 1960, avec Uranus à côté de Pluton, vous l’avez vécu vers 36 ans, avec votre [carré de Pluton](/astrology/pluto-square/), pendant que Pluton traversait le Sagittaire.
 
-Où cela se joue, ce sont les maisons qui le disent. Avec Uranus en maison 1, le carré vient des environs de la maison 10 ([Pluton en transit en maison 10](/astrology/pluto-transit-10th-house/)) ou de la maison 4 : les exigences du travail, ou celles du foyer, pèsent sur votre besoin d’être vous-même. Avec Uranus en maison 7, votre liberté au sein d’un couple rencontre une pression venue des deux mêmes directions. Votre heure de naissance place les maisons ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et je lis ce carré pour la pression qu’il décrit, jamais pour un événement ([Ma méthode](/how-i-read/)).
+Les maisons disent où cela se joue. Avec Uranus en maison 1, le carré vient des environs de la maison 10 ([Pluton en transit en maison 10](/astrology/pluto-transit-10th-house/)) ou de la maison 4 : les exigences du travail, ou celles du foyer, pèsent sur votre besoin d’être vous-même. Votre heure de naissance place les maisons ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et je lis ce carré pour la pression qu’il décrit, jamais pour un événement ([Ma méthode](/how-i-read/)).
 
 ## Combien de temps {#combien-de-temps}
 
-Le carré reste actif environ deux ans et huit mois, de 1,5° avant l’exactitude à 1° après, ce qui correspond à mes orbes ; même les passages les plus courts durent vingt-deux mois environ. La boucle rétrograde annuelle de Pluton ramène le carré à l’exactitude trois fois dans environ trois passages sur cinq, et cinq fois dans les autres.
+Le carré reste actif environ deux ans et huit mois, de 1,5° avant l’exactitude à 1° après, mes orbes ; même les passages les plus courts durent vingt-deux mois environ. La boucle rétrograde annuelle de Pluton ramène le carré à l’exactitude trois fois dans environ trois passages sur cinq, et cinq fois dans les autres.
 
-Environ 5 personnes sur 7 nées entre 1930 et 2009 le vivent avant 80 ans, aucune deux fois ; environ 2 sur 7 ne le vivent jamais. L’âge monte régulièrement avec l’année de naissance, parce que chaque génération plus jeune est née avec Uranus plus loin du point que Pluton doit atteindre. Chaque décennie de naissances attend plus longtemps : 16,7 ans pour le 1er janvier 1945, 26,8 ans pour 1955, 36 ans pour 1965, 49,1 ans pour 1975 et 68,3 ans pour 1985, tandis que les naissances des années 1990 et après ne le rencontrent pas avant 80 ans.
+Environ 5 personnes sur 7 nées entre 1930 et 2009 le vivent avant 80 ans, et aucune deux fois. L’âge monte avec l’année de naissance, parce que chaque génération plus jeune est née avec Uranus plus loin du point que Pluton doit atteindre : 16,7 ans pour le 1er janvier 1945, 26,8 ans pour 1955, 36 ans pour 1965, 49,1 ans pour 1975 et 68,3 ans pour 1985, tandis que les naissances des années 1990 et après ne le rencontrent pas avant 80 ans.
 
 La génération qui le vit en ce moment est née de 1975 à 1982, avec Uranus en Scorpion, que Pluton en Verseau met au carré entre la fin de la quarantaine et le début de la soixantaine, jusqu’au début de 2044 ([Pluton en Verseau, 2024-2044](/astrology/pluto-in-aquarius-2024-2044/)).
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "carré", "transits"]
 weight: 1844
 glyph: "♇□♇"
-definition: "Pluton en transit carré Pluton du thème natal, c’est Pluton à 90° de son degré de naissance : le carré de Pluton. Toutes les personnes nées de 1930 à 2009 le vivent une fois, entre 34 ans et demi et 59 ans, pendant deux à quatre ans. J’y lis une pression à remanier ce à quoi vous tenez, jamais un effondrement."
+definition: "Pluton en transit carré Pluton du thème natal, c’est le carré de Pluton : Pluton à 90° de son degré de naissance, pendant deux à quatre ans. Toutes les personnes nées de 1930 à 2009 le vivent une fois, entre 34 ans et demi et 59 ans. Ce carré invite à remanier ce à quoi vous tenez, sans annoncer d’effondrement."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "Pluton ♇ : là où vous tenez le plus fort et pouvez lâcher prise" }
@@ -23,11 +23,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/square", "/astrology/pluto-square", "/astrology/pluto-in-scorpio", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "Que veut dire Pluton en transit carré Pluton ?"
-    a: "Pluton, dans le ciel, a parcouru un quart du zodiaque depuis sa place à votre naissance. J’y lis une longue période de friction entre les façons de tenir, de contrôler et de vous protéger construites tôt, et le changement que votre vie demande maintenant, dans le domaine que décrit la maison de Pluton dans votre thème."
+    a: "C’est Pluton qui forme un carré à sa propre place de naissance. Les façons de tenir, de contrôler et de vous protéger que vous avez construites tôt rencontrent le changement que votre vie demande maintenant, dans le domaine que décrit la maison de Pluton dans votre thème."
   - q: "Quand est-ce que Pluton entre dans l’orbe de mon carré de Pluton ?"
     a: "Environ un an avant le premier carré exact. Pour une naissance un 1er janvier, l’entrée dans mon orbe s’est faite à 45,9 ans en 1935, 41,9 ans en 1945, 38 ans en 1955, 36,1 ans en 1965, 37 ans en 1975 et 40,2 ans en 1985, et se fera à 46,3 ans pour 1995 et 54,3 ans pour 2005."
   - q: "Combien de temps dure le transit du carré de Pluton ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et jusqu’à trois ans et neuf mois environ. Dans environ trois passages sur cinq, Pluton franchit le carré exact trois fois ; dans les autres, cinq fois."
+    a: "En général environ deux ans et huit mois, comptés de 1,5° avant l’exactitude à 1° après, mais un passage lent peut aller jusqu’à trois ans et neuf mois. Pluton entre dans l’orbe environ un an avant le premier carré exact."
   - q: "Est-ce que le carré de Pluton est une crise du milieu de vie ?"
     a: "Je ne le lis pas comme une crise. Pluton décrit la transformation, et un carré une friction qui demande de s’ajuster, pas un effondrement. Beaucoup de gens le vivent à la fin de la trentaine ou dans la quarantaine, avec d’autres transits du milieu de vie, mais il n’annonce aucun événement. Si cette période vous semble trop lourde, parlez-en à un médecin ou à une ou un thérapeute."
 sources:
@@ -40,7 +40,7 @@ C’est le carré de Pluton vu comme un transit : Pluton à 90° de sa position
 
 [Pluton](/astrology/pluto/), dans le thème natal, c’est là où vous tenez le plus fort et où, avec le temps, vous pouvez lâcher prise et recommencer ; c’est aussi là où vous avez appris tôt à protéger ce qui compte pour vous. D’ordinaire, un [carré](/astrology/square/), à 90°, met deux fonctions en friction constructive ; ici, entre une même fonction à deux âges de la vie. Sous ce [transit](/astrology/transits/), les façons de tenir de vos premières décennies frottent contre ce dont la suite de votre vie a besoin : une méfiance protectrice peut commencer à vous rétrécir, et un besoin de contrôle coûter plus qu’il ne rapporte.
 
-Les angles morts plus discrets de Pluton remontent au moment du carré : confondre le secret avec la profondeur, et l’exposition avec l’humiliation. Prendre son pouvoir n’est pas dominer : le carré s’achève souvent sur une autorité portée plus légèrement.
+Les angles morts plus discrets de Pluton remontent au moment du carré : confondre le secret avec la profondeur, et l’exposition avec l’humiliation. Avoir du pouvoir n’oblige pas à dominer : le carré s’achève souvent sur une autorité portée plus légèrement.
 
 Son calendrier le relie à d’autres transits. Pour les naissances du milieu des années 1960, avec Uranus à côté de Pluton, ce carré est venu en même temps que celui de Pluton à Uranus ([Pluton en transit carré Uranus du thème natal](/astrology/transiting-pluto-square-natal-uranus/)). Le carré tombe aussi, les mêmes années, sur toute planète que Pluton touchait à votre naissance.
 

@@ -9,14 +9,15 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Mercury", "sextile", "transits"]
 weight: 1928
 glyph: "☊⚹☿"
-definition: "Transiting North Node sextile natal Mercury opens a month, twice in each 18.6-year round, when the node is 60° from your birth Mercury and the South Node trines it. Learning that builds on what you already know comes easily. I read it as an invitation to learn, worth accepting on purpose."
+definition: "Transiting North Node sextile natal Mercury opens a month, twice in every round of the nodes, when the node is 60° from your birth Mercury and the South Node trines it. Learning that builds on what you already know comes easily. I read it as an invitation to learn, worth accepting on purpose."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node trine your Mercury" }
   - { k: "Natal point", v: "Mercury ☿: curiosity, reasoning and the words you reach for" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
   - { k: "One pass", v: "About a month; 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "8 or 9 times; nobody misses it" }
+  - { k: "In my forecast", v: "Left out: only the node’s conjunctions and oppositions go in" }
 related: ["/astrology/north-node", "/astrology/mercury", "/astrology/sextile", "/astrology/mercury-sextile-north-node", "/astrology/mercury-in-9th-house"]
 faq:
   - q: "What does transiting North Node sextile natal Mercury mean?"
@@ -37,15 +38,15 @@ A sextile from the node rarely announces itself. For about a month the node stan
 
 The [South Node](/astrology/south-node/), trine your Mercury in the same weeks, gives the new thing an old foundation: what you already know makes the next step shorter. A second language learned through a first, a new tool picked up through an old trade, a field entered sideways from one you know well: that is the sextile's kind of growth, built on rather than started from nothing.
 
-The node's sign shows when it comes. With Mercury in Pisces or Scorpio, for instance, it falls while the node crosses Capricorn, between March 2028 and September 2029, and your Mercury's degree picks the month.
+The node's sign shows when it comes. With Mercury in Pisces or Scorpio, for instance, it falls during the node's Capricorn stretch, March 2028 to September 2029, and your Mercury's degree picks the month.
 
 With your [Mercury in the 9th house](/astrology/mercury-in-9th-house/), the house of study and far horizons, the opening often concerns a course, a language, a journey or a book that widens your view. Which house your Mercury occupies, and so which part of life the door opens onto, depends on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-The window opens 1½° before the exact sextile and shuts 1° after it; most passes take about a month to get through. A tenth of passes are over within three and a half weeks. Another tenth stretch past three and a half months: when the Sun comes round to the nodes, the true node stalls, and a sextile caught in that eclipse season lingers, now and then with three exact contacts, as in about one pass in twenty-five.
+The window opens 1½° before the exact sextile and shuts 1° after it; most passes take about a month to get through. A tenth of passes finish inside three and a half weeks. Another tenth stretch past three and a half months: when the Sun comes round to the nodes, the true node stalls, and a sextile caught in that eclipse season lingers, now and then with three exact contacts, as in about one pass in twenty-five.
 
-The sextile is the first aspect the node makes after leaving your Mercury ([Transiting North Node conjunct natal Mercury](/astrology/transiting-north-node-conjunct-natal-mercury/)) and the last before it returns, a little over three years each way, since a sixth of the zodiac takes the node that long. In between come [Transiting North Node square natal Mercury](/astrology/transiting-north-node-square-natal-mercury/), [Transiting North Node trine natal Mercury](/astrology/transiting-north-node-trine-natal-mercury/) and [Transiting North Node opposite natal Mercury](/astrology/transiting-north-node-opposite-natal-mercury/). If [Mercury sextile North Node](/astrology/mercury-sextile-north-node/) is in your chart, each return of the nodes recreates this transit, and at your [nodal reversal](/astrology/nodal-reversal/) it is a trine that the North Node makes to your Mercury.
+The sextile is the first aspect the node makes after leaving your Mercury ([Transiting North Node conjunct natal Mercury](/astrology/transiting-north-node-conjunct-natal-mercury/)) and the last before it returns, a little over three years each way, since a sixth of the zodiac takes the node that long. Mercury stays within 28° of the Sun, so the node's sextile to your Sun falls within a year and a half or so of this one, and my forecast lists neither, keeping the node for conjunctions and oppositions. In between come [Transiting North Node square natal Mercury](/astrology/transiting-north-node-square-natal-mercury/), [Transiting North Node trine natal Mercury](/astrology/transiting-north-node-trine-natal-mercury/) and [Transiting North Node opposite natal Mercury](/astrology/transiting-north-node-opposite-natal-mercury/). If [Mercury sextile North Node](/astrology/mercury-sextile-north-node/) is in your chart, each return of the nodes recreates this transit, and at your [nodal reversal](/astrology/nodal-reversal/) it is a trine that the North Node makes to your Mercury.
 
 ## What helps {#what-helps}
 

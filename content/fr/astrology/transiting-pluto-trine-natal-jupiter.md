@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Jupiter", "trigone", "transits"]
 weight: 1826
 glyph: "♇△♃"
-definition: "Pluton en transit trigone Jupiter du thème natal, c’est Pluton à 120° de la place natale de Jupiter pendant deux ans et huit mois environ ; 3 personnes sur 4 le vivent avant 80 ans. Renouveau et croissance vont dans le même sens : vos convictions se refont à la racine, sans lutte. J’y lis de la profondeur, jamais de la chance."
+definition: "Pluton en transit trigone Jupiter du thème natal fait avancer ensemble le renouveau et la croissance : Pluton se trouve à 120° de la place natale de Jupiter pendant deux ans et huit mois environ, et 3 personnes sur 4 le vivent avant 80 ans. Vos convictions se refont à la racine, sans lutte. De la profondeur, jamais de la chance."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation et du renouveau" }
   - { k: "Point natal", v: "Jupiter ♃ : la croissance, le sens et ce que vous croyez" }
@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/jupiter", "/astrology/trine", "/astrology/jupiter-trine-pluto", "/astrology/pluto-in-aquarius-2024-2044"]
 faq:
   - q: "Que veut dire Pluton en transit trigone Jupiter ?"
-    a: "Pluton, dans le ciel, se trouve à 120° du degré qu’occupait Jupiter à votre naissance. J’y lis une longue saison où le renouveau et la croissance s’entraident : vos convictions, vos projets et votre façon de donner un sens aux choses peuvent être repris à la racine, sans la tension d’un carré ou d’une opposition."
+    a: "Pluton se trouve à un tiers du zodiaque de Jupiter dans votre thème : la profondeur et la croissance tirent dans le même sens. Vos convictions, vos projets et votre façon de donner un sens aux choses peuvent être repris à la racine, sans la tension d’un carré ou d’une opposition."
   - q: "Combien de temps dure Pluton trigone Jupiter ?"
-    a: "Environ deux ans et huit mois avec les orbes que j’utilise pour dater, de 1,5° avant l’exactitude à 1° après ; vingt-deux mois environ pour les passages les plus rapides. Pluton franchit le trigone exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres, qui durent environ trois ans et sept mois."
+    a: "À peu près deux ans et huit mois, du jour où Pluton arrive à 1,5° du trigone exact au jour où Pluton l’a dépassé de 1°, et vingt-deux mois quand le mouvement est rapide. Le trigone n’est jamais exact une seule fois : trois fois dans la plupart des passages, cinq dans environ deux passages sur cinq."
   - q: "Quand vient le trigone de Pluton à Jupiter dans mon thème ?"
     a: "Cela dépend du signe et du degré de Jupiter dans votre thème, pas de votre âge, car Jupiter change de signe environ une fois par an. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le trigone touche Jupiter en Gémeaux et en Balance, les premiers degrés d’abord. Environ 1 personne sur 4 née entre 1930 et 2009 ne le vit jamais avant 80 ans."
   - q: "Est-ce que Pluton trigone Jupiter apporte de la chance ou de l’argent ?"
-    a: "Pas dans ma lecture. Jupiter décrit une croissance de la compréhension, pas la chance ni la richesse, et un trigone décrit une fluidité, pas un succès. Ce transit rend plus facile d’approfondir ce que vous croyez et ce que vous projetez ; il n’annonce ni aubaine, ni victoire, ni aucun événement."
+    a: "Ni l’un ni l’autre, dans ma lecture. Jupiter décrit une croissance de la compréhension, pas la chance ni la richesse, et un trigone décrit une fluidité, pas un succès. Ce transit rend plus facile d’approfondir ce que vous croyez et ce que vous projetez ; il n’annonce ni aubaine, ni victoire, ni aucun événement."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le trigone dans mes orbes, et combien de personnes le vivent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Jupiter, un par un" }

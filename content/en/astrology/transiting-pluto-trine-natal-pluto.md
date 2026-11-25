@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "trine", "transits"]
 weight: 1845
 glyph: "♇△♇"
-definition: "Transiting Pluto trine natal Pluto is Pluto 120° on from its birth degree, for two to four years; all but about 1 person in 14 meet it by 80, from about 48½ on. The capacity to transform that the square tested now flows. I read it as renewal that finally comes easily, never as a reward."
+definition: "Transiting Pluto trine natal Pluto arrives when Pluto stands 120° on from its birth degree, for two to four years; all but about 1 person in 14 meet it by 80, from about 48½ on. The capacity to transform that the square tested now flows, and renewal finally comes easily."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of regeneration" }
   - { k: "Natal point", v: "Pluto ♇: your capacity to let go and begin again" }
@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/trine", "/astrology/pluto-square", "/astrology/pluto-in-libra", "/astrology/transiting-pluto-trine-natal-uranus"]
 faq:
   - q: "What does transiting Pluto trine natal Pluto mean?"
-    a: "Pluto in the sky has moved a third of the zodiac on from its birth place. I read it as a season, usually in the fifties, when your capacity for deep change works with you rather than against you: what the square cleared can be rebuilt, and what you learnt about letting go becomes something you can use."
+    a: "Usually in your fifties, Pluto trines its birth place, and your capacity for deep change works with you rather than against you: what the square cleared can be rebuilt, and what you learnt about letting go becomes something you can use."
   - q: "At what age is Pluto trine natal Pluto?"
     a: "For births from 1930 to 2009, Pluto came or comes within orb between 48.6 and 80. For births on 1 January: 57.9 in 1935, 53.9 in 1945, 51 in 1955, 50.1 in 1965, 53.1 in 1975, 60.2 in 1985 and 70.3 in 1995. A birth on 1 January 2005 doesn’t meet it by 80."
   - q: "Why does the Pluto trine come so much later for people born in the 1990s?"
     a: "Because Pluto’s orbit is stretched, and its pace after a birth sets the age. Born in the 1960s, your third of the zodiac ran through Pluto’s fastest years, around its closest approach to the Sun in 1989, so the trine came at about 50. Born in the 1990s, it runs on through Capricorn, Aquarius and Pisces, slower signs, so it comes at about 70."
   - q: "How long does Pluto trine Pluto last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the quickest passes. Pluto crosses the exact trine three times in about three passes out of five, and five times in the rest."
+    a: "A typical pass lasts about two years and eight months within 1½° before exact and 1° after, a quick one about twenty-two months. Exactness comes back three times in most passes, five times in about two out of five."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the ages at the Pluto trine, birth year by birth year, and how long it stays within my orbs" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "its stretched orbit, about 248 years round the Sun" }

@@ -15,8 +15,9 @@ facts:
   - { k: "Natal point", v: "Mercury ☿: how you learn, link ideas and put them into words" }
   - { k: "Aspect", v: "Trine △, 120°" }
   - { k: "One pass", v: "About a month (34 days in the middle case); 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "8 or 9 times; nobody misses it" }
+  - { k: "In my forecast", v: "Left out: only the node’s conjunctions and oppositions go in" }
 related: ["/astrology/north-node", "/astrology/mercury", "/astrology/trine", "/astrology/mercury-trine-north-node", "/astrology/mercury-in-1st-house"]
 faq:
   - q: "What does transiting North Node trine natal Mercury mean?"
@@ -44,7 +45,7 @@ Born with Mercury retrograde, you may notice the trine first as thinking that fa
 
 ## How long it lasts {#how-long-it-lasts}
 
-With my orbs, 1½° on the way in and 1° on the way out, the transit usually takes about a month. Its length depends less on Mercury than on the Sun: the true node runs backwards fastest when the Sun is a quarter of the zodiac from the nodes, and nearly stops when the Sun reaches them in an eclipse season. A tenth of these trines are over in three and a half weeks; at the other end, a tenth last three and a half months or more. Three exact contacts are rare, about one pass in twenty-five.
+With my orbs, 1½° on the way in and 1° on the way out, the transit usually takes about a month. Its length depends less on Mercury than on the Sun: the true node runs backwards fastest when the Sun is a quarter of the zodiac from the nodes, and nearly stops when the Sun reaches them in an eclipse season. A tenth of these trines are over in three and a half weeks; at the other end, a tenth last three and a half months or more. Three exact contacts are rare, about one pass in twenty-five. Neither Mercury nor the Sun decides whether it appears in my forecast: the node goes in only by conjunction or opposition, so this trine never does.
 
 The trines fall a third of the zodiac from your Mercury on either side, so the node meets one on its way out to the opposition ([Transiting North Node opposite natal Mercury](/astrology/transiting-north-node-opposite-natal-mercury/)) and the other on its way back towards the conjunction ([Transiting North Node conjunct natal Mercury](/astrology/transiting-north-node-conjunct-natal-mercury/)), with [Transiting North Node sextile natal Mercury](/astrology/transiting-north-node-sextile-natal-mercury/) and [Transiting North Node square natal Mercury](/astrology/transiting-north-node-square-natal-mercury/) nearer the conjunction on both sides. Most people have nine of these trines by 80, nobody fewer than eight. If you were born with [Mercury trine North Node](/astrology/mercury-trine-north-node/), your nodal return is itself one of them.
 

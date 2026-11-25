@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Neptune", "opposition", "transits"]
 weight: 1842
 glyph: "♇☍♆"
-definition: "Pluton en transit opposition Neptune du thème natal, c’est Pluton à 180° du degré natal de Neptune. Aucune personne née entre 1930 et 2009 ne le vit : il faudrait à Pluton au moins 112 ans pour y arriver. Je lis la rencontre de Pluton avec votre Neptune à travers les transits qui viennent, dès la conjonction de la vingtaine."
+definition: "Pluton en transit opposition Neptune du thème natal placerait Pluton à 180° du degré natal de Neptune. Aucune personne née entre 1930 et 2009 ne le vit : il faudrait à Pluton au moins 112 ans pour y arriver. Je suis la rencontre de Pluton avec votre Neptune à travers les transits qui viennent, dès la conjonction de la vingtaine."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "Neptune ♆ : les idéaux, la foi et la compassion" }

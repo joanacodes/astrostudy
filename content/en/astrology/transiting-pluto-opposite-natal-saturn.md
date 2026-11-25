@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Saturn", "opposition", "transits"]
 weight: 1832
 glyph: "♇☍♄"
-definition: "Transiting Pluto opposite natal Saturn is Pluto across the zodiac from your birth Saturn, for two to four years; just over half of people never meet it by 80. Your structures and responsibilities meet power and pressure held by others. I read it as a season for redrawing boundaries, never as a contest you must lose."
+definition: "Transiting Pluto opposite natal Saturn faces your birth Saturn with Pluto from 180° away for two to four years; just over half of people never meet it by 80. Your structures and responsibilities meet power and pressure held by others, and boundaries get redrawn. It is no contest you are bound to lose."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of power and renewal" }
   - { k: "Natal point", v: "Saturn ♄: responsibility, authority and boundaries" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/saturn", "/astrology/opposition", "/astrology/saturn-square-pluto", "/astrology/pluto-square"]
 faq:
   - q: "What does transiting Pluto opposite natal Saturn mean?"
-    a: "Pluto in the sky has reached the point opposite your Saturn. I read it as a long season when your responsibilities, rules and boundaries meet power held by someone else: an employer, an institution, a partner’s demands. The work is to see both ends clearly and redraw the line where it belongs."
+    a: "Pluto now stands opposite your Saturn. Your responsibilities, rules and boundaries meet power held by someone else, an employer, an institution, a partner’s demands, and the work of these years is to see both ends clearly and redraw the line where it belongs."
   - q: "How long does Pluto opposite Saturn last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and anywhere from about twenty-two months to nearly four years. Pluto crosses the exact opposition three times in about three passes out of five, and five times in the rest."
+    a: "Anything from about twenty-two months to nearly four years, two years and eight months on average, with my orbs of 1½° before exact and 1° after."
   - q: "How rare is Pluto opposite Saturn?"
     a: "Just over half of people born between 1930 and 2009 never meet it by 80, and nobody meets it twice. For births on 1 January it came at 15.1 in 2005, 18.7 in 1935, 40.1 in 1975 and 66 in 1945, and not by 80 in 1955, 1965, 1985 or 1995."
   - q: "Does Pluto opposite Saturn mean a power struggle?"
@@ -33,11 +33,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the opposition within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Saturn, taken one at a time" }
 ---
-Power measured against duty: that is Pluto opposite your natal Saturn. What Pluto brings to light meets the part of you that carries responsibility and keeps the rules. What you've built tends to meet someone else's pressure first, and the boundary between their power and your duty has to be found again.
+Power measured against duty: that is Pluto opposite your natal Saturn. What you've built tends to meet someone else's pressure first, and the boundary between their power and your duty has to be found again.
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) holds structure and responsibility: the commitments you keep, the authority you carry, the lines you draw. [Pluto](/astrology/pluto/) brings power and hidden motives to the surface so that what is unsustainable can be reorganised. Facing each other across an [opposition](/astrology/opposition/), 180°, the two meet through other people more often than within you, so this [transit](/astrology/transits/) usually works from the outside in: an employer's restructuring, an institution's rules, a partner's needs, a parent who now depends on you. Each asks what you are responsible for, and what you are not.
+[Saturn](/astrology/saturn/) holds structure and responsibility: the commitments you keep, the authority you carry, the lines you draw. [Pluto](/astrology/pluto/) brings power and hidden motives to the surface so that what is unsustainable can be reorganised. Facing each other across an [opposition](/astrology/opposition/), 180°, the two meet through other people more often than within you, so this [transit](/astrology/transits/) usually works from the outside in: an employer's restructuring, an institution's rules, a partner's needs, a parent who now depends on you.
 
 Saturn's fear is chaos and wasted effort; Pluto's blind spot is assuming every unequal exchange is deliberate domination. Together they can turn a hard negotiation into a siege. Empowerment isn't domination, on either side of the axis, and what tends to come out of this opposition is a cleaner boundary: duties you choose, authority you can hold without strain, and a clear no where one was needed.
 

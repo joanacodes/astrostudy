@@ -1,7 +1,7 @@
 ---
 title: "Transiting Pluto square natal Ascendant"
 h1: "Transiting Pluto square your natal Ascendant"
-description: "Transiting Pluto square natal Ascendant: two to four years when work or home presses on the way you meet the world. Why it needs your birth time, what helps."
+description: "Transiting Pluto square natal Ascendant: two to four years when work or home presses on the way you meet the world. Why the time and place of birth matter."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Ascendant", "rising sign", "square", "transits"]
 weight: 1849
 glyph: "♇□AC"
-definition: "Transiting Pluto square natal Ascendant is Pluto 90° from your rising degree, for two to four years; about 7 people in 8 meet it by 80. The demands of work or home press on the way you meet the world. It needs your birth time. I read it as friction that renews your way in, never as a defeat."
+definition: "Transiting Pluto square natal Ascendant presses Pluto at 90° on your rising degree for two to four years; about 7 people in 8 meet it by 80. The demands of work or home bear on the way you meet the world. Without your birth time it can’t be placed. Friction that renews your way in, and no defeat."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "The Ascendant (AC): how you approach people and begin; it needs your birth time" }
@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/ascendant", "/astrology/square", "/astrology/midheaven", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Pluto square the Ascendant mean?"
-    a: "Pluto in the sky is 90° from the degree that was rising when you were born. I read it as a long stretch of friction between the way you usually meet the world and pressure from your working life or your home: a manner that served you starts to fit badly, and a more honest way of arriving has to be found."
+    a: "Pluto is 90° from your rising degree, pressing on the way you meet the world from your working life or your home. A manner that served you starts to fit badly, and a more honest way of arriving has to be found."
   - q: "How long does Pluto square Ascendant last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and up to about three and three-quarter years. Pluto crosses the exact square three times in about three passes out of five, and five times in the others."
+    a: "About two years and eight months, and up to about three and three-quarter years, from 1½° before exact to 1° after. Exact hits come in threes in about three passes out of five, and in fives in the others."
   - q: "Will I have Pluto square my Ascendant?"
     a: "Probably: about 7 people in 8 born between 1930 and 2009 meet it by 80, once. Nobody meets both squares, which lie half the zodiac apart. While Pluto crosses Aquarius, until early 2044, it squares Taurus rising and Scorpio rising, and your birth time gives the year."
   - q: "Is Pluto square Ascendant a crisis?"
-    a: "Not as I read it. A square describes friction that asks for adjustment, and this one asks you to change how you present yourself and begin things. It can feel demanding, but it predicts no event, no loss and no illness, and how you meet it is yours to decide."
+    a: "Not in the sense of a breakdown. A square describes friction that asks for adjustment, and this one asks you to change how you present yourself and begin things. It can feel demanding, but it predicts no event, no loss and no illness, and how you meet it is yours to decide."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Pluto holds the square within my orbs, and how many people meet it by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to the Ascendant, read singly" }

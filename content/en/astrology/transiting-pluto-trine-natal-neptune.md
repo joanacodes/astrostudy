@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Neptune", "trine", "transits"]
 weight: 1841
 glyph: "♇△♆"
-definition: "Transiting Pluto trine natal Neptune is Pluto 120° beyond the degree Neptune held at your birth, for two to four years; only about 1 person in 6 meets it by 80, at 78 or older. Renewal and imagination flow together late in life. I read it as a late, easy reconciliation with your ideals, never as an ending."
+definition: "Transiting Pluto trine natal Neptune is one of the latest Pluto transits: Pluto 120° beyond your birth Neptune for two to four years, met by only about 1 person in 6 by 80, at 78 or older. Renewal and imagination flow together, and a long life can make easy peace with its ideals."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of renewal" }
   - { k: "Natal point", v: "Neptune ♆: ideals, faith and imagination" }
@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/neptune", "/astrology/trine", "/astrology/neptune-trine-pluto", "/astrology/transiting-pluto-conjunct-natal-neptune"]
 faq:
   - q: "What does transiting Pluto trine natal Neptune mean?"
-    a: "Pluto in the sky is 120° beyond your Neptune, decades after crossing it. I read it as a late season in which renewal and imagination cooperate: the ideals and the faith of a long life can be looked at with ease, kept or released, and handed to others in a form they can use."
+    a: "Late in life, if at all, Pluto reaches 120° beyond your Neptune, decades after crossing it. Renewal and imagination then move together: the ideals and the faith of a long life can be looked at with ease, kept or released, and handed to others in a form they can use."
   - q: "Who has Pluto trine Neptune?"
     a: "Few people, and late. Among births from 1930 to 2009, about 1 in 6 meet it by 80: those born in the 1930s and early 1940s, who met it between about 78 and 81 while Pluto crossed Capricorn. People born from 1943 to 1957 meet it between about 79 and 86, during Pluto’s years in Aquarius."
   - q: "Why is Pluto trine Neptune so rare?"
     a: "Because in every chart of those years Pluto started behind Neptune, by about 45° to 65°. To reach the trine it has to cross your Neptune, which takes 22 to 30 years, and then travel another 120°, which takes decades more: at Pluto’s pace, the whole distance takes nearly 80 years or longer."
   - q: "How long does Pluto trine Neptune last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and about twenty-two months in the quickest passes. Pluto crosses the exact trine three times in about three passes out of five, and five times in the others."
+    a: "If you meet it, about two years and eight months, between 1½° before exact and 1° after, and about twenty-two months if Pluto is quick."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "who meets the trine by 80, and how long Pluto holds it within my orbs" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Neptune, taken one at a time" }

@@ -36,7 +36,7 @@ Your rising degree is set by the minute of birth, and so is every square to it. 
 
 ## What changes {#what-changes}
 
-The [Ascendant](/astrology/ascendant/) is the orientation you begin from, and the Descendant opposite it is the frame in which you meet someone else. [Chiron](/astrology/chiron/) holds an old sore spot and the workarounds you built for it. A [square](/astrology/square/) relates them through constructive friction, and in this [transit](/astrology/transits/) the friction usually falls on a habit of approach: a way of arriving that worked for years starts to cost more than it gives.
+The [Ascendant](/astrology/ascendant/) is where you start from whenever you arrive somewhere new; the Descendant opposite shows what you look for in someone else. [Chiron](/astrology/chiron/) holds an old sore spot and the workarounds you built for it. A [square](/astrology/square/) relates them through constructive friction, and in this [transit](/astrology/transits/) the friction usually falls on a habit of approach: a way of arriving that worked for years starts to cost more than it gives.
 
 Where Chiron stands when it squares the horizon changes the story. From below, around your 3rd or 4th house, the pressure tends to come from your roots: the version of you that your family recognised, the manner you learned at home to stay safe, now rubbing against how you would like to meet the world ([Chiron transiting the 4th house](/astrology/chiron-transit-4th-house/)). From above, around your 9th or 10th, it comes from public life: what a role or a set of beliefs expects of your manner, against the way you actually arrive ([Chiron transiting the 10th house](/astrology/chiron-transit-10th-house/)).
 

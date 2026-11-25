@@ -16,8 +16,9 @@ facts:
   - { k: "Point natal", v: "Mars ♂ : l’initiative, l’effort et les limites que vous défendez" }
   - { k: "Aspect", v: "Conjonction ☌, 0°, avec le Nœud Sud en face de Mars" }
   - { k: "Un passage", v: "Un mois environ (32 jours quand le nœud franchit le point une fois) ; 3 mois et demi ou plus une fois sur 10" }
-  - { k: "Avec une boucle rétrograde", v: "Trois passages exacts en 3 mois et demi environ, une fois sur 25 environ" }
+  - { k: "Avec une boucle", v: "Trois contacts exacts en 3 mois et demi environ, une fois sur 25 environ" }
   - { k: "Avant 80 ans", v: "4 ou 5 fois ; personne n’y échappe" }
+  - { k: "Dans ma prévision", v: "Compté : le Nœud Nord est sur votre Mars" }
 related: ["/astrology/north-node", "/astrology/mars", "/astrology/mars-conjunct-north-node", "/astrology/can-astrology-predict-health-problems", "/astrology/transits"]
 faq:
   - q: "Que veut dire le Nœud Nord en transit conjonction Mars natal ?"

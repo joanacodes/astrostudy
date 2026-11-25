@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Ascendant", "rising sign", "sextile", "transits"]
 weight: 1848
 glyph: "♇⚹AC"
-definition: "Transiting Pluto sextile natal Ascendant is Pluto 60° from your rising degree, for two to four years; about 3 people in 4 meet it by 80, some twice. It opens a window to change how you meet the world, by choice. It needs your birth time. I read it as an invitation to arrive differently, never as a guarantee."
+definition: "Transiting Pluto sextile natal Ascendant keeps Pluto 60° from your rising degree for two to four years; about 3 people in 4 meet it by 80, some twice. You can change how you meet the world, by choice. Your birth time is needed to date it, and it invites rather than guarantees."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of renewal" }
   - { k: "Natal point", v: "The Ascendant (AC): your way in; it needs your birth time" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/ascendant", "/astrology/sextile", "/astrology/pluto-transit-11th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Pluto sextile the Ascendant mean?"
-    a: "Pluto in the sky is 60° from the degree that was rising when you were born. I read it as a long opening in which renewal supports your way of meeting the world: you can change how you introduce yourself, start things or take up space, deliberately and with less resistance than usual."
+    a: "Pluto is sextile your rising degree, so renewal supports the way you meet the world. You can change how you introduce yourself, start things or take up space, deliberately and with less resistance than usual."
   - q: "How long does Pluto sextile Ascendant last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and about twenty-two months at the quickest. Pluto crosses the exact sextile three times in about three passes out of five; the others bring five exact hits."
+    a: "Expect about two years and eight months, or twenty-two months if Pluto is quick, inside my orbs of 1½° before exact and 1° after."
   - q: "When will Pluto sextile my Ascendant?"
     a: "Your birth time decides it. While Pluto crosses Aquarius, until early 2044, it sextiles Aries rising and Sagittarius rising, early degrees first. About 3 people in 4 born between 1930 and 2009 meet this sextile by 80, and some meet it twice, once on each side of the Ascendant."
   - q: "Is Pluto sextile Ascendant a good time for a fresh start?"

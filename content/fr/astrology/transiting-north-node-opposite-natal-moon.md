@@ -16,8 +16,9 @@ facts:
   - { k: "Point natal", v: "La Lune ☽ : vos besoins et vos habitudes de réconfort" }
   - { k: "Aspect", v: "Opposition ☍, 180° : la conjonction du Nœud Sud" }
   - { k: "Un passage", v: "Un mois environ ; 3 mois et demi ou plus une fois sur 10" }
-  - { k: "Avec une boucle rétrograde", v: "Trois passages exacts en 3 mois et demi environ, une fois sur 25 environ" }
+  - { k: "Avec une boucle", v: "Trois contacts exacts en 3 mois et demi environ, une fois sur 25 environ" }
   - { k: "Avant 80 ans", v: "4 ou 5 fois ; personne n’y échappe" }
+  - { k: "Dans ma prévision", v: "Compté : le Nœud Sud est sur votre Lune" }
 related: ["/astrology/south-node", "/astrology/moon", "/astrology/opposition", "/astrology/moon-opposite-north-node", "/astrology/north-node"]
 faq:
   - q: "Que veut dire le Nœud Nord en transit opposition Lune natale ?"

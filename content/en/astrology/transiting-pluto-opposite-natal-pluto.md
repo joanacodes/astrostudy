@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "opposition", "transits"]
 weight: 1846
 glyph: "♇☍♇"
-definition: "Transiting Pluto opposite natal Pluto is Pluto halfway round from its birth degree. No one born from 1930 to 2009 meets it by 80: births up to about 1960 meet it at 82 to 86, later ones later, and from the 1980s on, beyond any life. I read it as a lifetime’s depth seen whole, never as an ending."
+definition: "Transiting Pluto opposite natal Pluto sends Pluto halfway round from its birth degree. No one born from 1930 to 2009 meets it by 80: births up to about 1960 meet it at 82 to 86, later ones later, and from the 1980s on, beyond any life. If it comes, a lifetime’s depth is seen whole."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Pluto ♇: where you hold on, let go and begin again" }

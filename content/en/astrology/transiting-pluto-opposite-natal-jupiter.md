@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Jupiter", "opposition", "transits"]
 weight: 1827
 glyph: "♇☍♃"
-definition: "Transiting Pluto opposite natal Jupiter is Pluto across the zodiac from your birth Jupiter, for two to three years; about 3 people in 5 never meet it by 80. Your beliefs and hopes meet depth or power held by someone else. I read it as a season for testing what you believe against its opposite, never as a defeat."
+definition: "Transiting Pluto opposite natal Jupiter puts Pluto across the chart from your birth Jupiter for two to three years, a meeting about 3 people in 5 never have by 80. Your beliefs and hopes meet depth or power held by someone else. I take it as a season for testing what you believe against its opposite; it defeats no one."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of depth and renewal" }
   - { k: "Natal point", v: "Jupiter ♃: beliefs, hopes and the wish to grow" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/jupiter", "/astrology/opposition", "/astrology/jupiter-opposite-pluto", "/astrology/pluto-transit-9th-house"]
 faq:
   - q: "What does transiting Pluto opposite natal Jupiter mean?"
-    a: "Pluto has reached the point across the zodiac from your Jupiter. I read it as a long season when what you believe and hope for meets depth, conviction or power held by someone else, or by an institution, until you know which of your beliefs are truly yours. It describes a climate, never an event."
+    a: "Your Jupiter and Pluto now face each other across the chart. For two years or more, what you believe and hope for meets depth, conviction or power held by someone else, or by an institution, until you know which of your beliefs are truly yours. I read it as a climate, never an event."
   - q: "How long does Pluto opposite Jupiter last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and nearly four years in the slowest passes. Pluto crosses the exact opposition three times in about three passes out of five; the others bring five exact hits and take about three years and seven months."
+    a: "With my orbs, 1½° before exact and 1° after, Pluto spends about two years and eight months opposite your Jupiter, and close to four years in the slowest passes."
   - q: "Why do most people never have Pluto opposite Jupiter?"
     a: "Because Pluto needs about 248 years to go round the zodiac, so a lifetime shows only part of its circle. Whether the point opposite your Jupiter lies in that part depends on where Jupiter stood when you were born. About 3 people in 5 born between 1930 and 2009 never meet it by 80."
   - q: "Is Pluto opposite Jupiter bad?"

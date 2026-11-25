@@ -37,7 +37,7 @@ In the year the North Node crosses your Sun, your birthday falls in eclipse seas
 
 ## What changes {#what-changes}
 
-The [Sun](/astrology/sun/) organises identity, vitality and purpose. The [North Node](/astrology/north-node/) points to a capacity you have practised less. A [conjunction](/astrology/conjunction/) fuses them, so in this [transit](/astrology/transits/) becoming more yourself and practising the unfamiliar turn out, for a while, to be the same work.
+The [Sun](/astrology/sun/) is who you are and where you are heading. The [North Node](/astrology/north-node/) is the less practised end of the axis. A [conjunction](/astrology/conjunction/) fuses them, so in this [transit](/astrology/transits/) becoming more yourself and practising the unfamiliar turn out, for a while, to be the same work.
 
 It often shows as a role you are ready to try before you feel qualified for it: speaking for yourself where you usually let others speak, leading where you have always assisted. The node's blind spot is taking difficulty as proof that something is right for you. The Sun's test is gentler: after a little practice, does it feel more like you? Across the chart the [South Node](/astrology/south-node/) faces your Sun, holding the version of you that people already know.
 

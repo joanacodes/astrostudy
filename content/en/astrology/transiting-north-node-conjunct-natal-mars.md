@@ -15,8 +15,9 @@ facts:
   - { k: "Natal point", v: "Mars ♂: initiative, effort and the boundaries you defend" }
   - { k: "Aspect", v: "Conjunction ☌, 0°, with the South Node opposite your Mars" }
   - { k: "One pass", v: "About a month (32 days when the node crosses once); 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "4 or 5 times; nobody misses it" }
+  - { k: "In my forecast", v: "Counted: the North Node is on your Mars" }
 related: ["/astrology/north-node", "/astrology/mars", "/astrology/mars-conjunct-north-node", "/astrology/can-astrology-predict-health-problems", "/astrology/transits"]
 faq:
   - q: "What does transiting North Node conjunct natal Mars mean?"

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "opposition", "transits"]
 weight: 1846
 glyph: "♇☍♇"
-definition: "Pluton en transit opposition Pluton du thème natal, c’est Pluton à 180° de son degré de naissance. Aucune naissance de 1930 à 2009 ne le vit avant 80 ans : jusqu’en 1960, il vient vers 82 à 86 ans, puis plus tard, et au-delà d’une vie dès les années 1980. J’y lis toute la profondeur d’une vie, jamais une fin."
+definition: "Pluton en transit opposition Pluton du thème natal envoie Pluton à 180° de son degré de naissance. Aucune naissance de 1930 à 2009 ne le vit avant 80 ans : jusqu’en 1960 environ, ce transit vient vers 82 à 86 ans, et au-delà d’une vie dès les années 1980. Quand il vient, toute une vie se voit en profondeur."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "Pluton ♇ : là où vous tenez, lâchez prise et recommencez" }

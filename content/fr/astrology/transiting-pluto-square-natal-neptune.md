@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Neptune", "carré", "transits"]
 weight: 1840
 glyph: "♇□♆"
-definition: "Pluton en transit carré Neptune du thème natal, c’est Pluton à 90° au-delà du degré natal de Neptune pendant deux à quatre ans ; 2 personnes sur 3 le vivent, entre 63 et 80 ans. Les idéaux qui vous ont guidée ou guidé rencontrent une pression de changement. J’y lis le moment de choisir les rêves à garder, jamais une désillusion."
+definition: "Pluton en transit carré Neptune du thème natal vient quand Pluton atteint 90° au-delà du degré natal de Neptune, pour deux à quatre ans ; 2 personnes sur 3 le vivent, entre 63 et 80 ans. Les idéaux qui vous ont guidée ou guidé rencontrent une pression de changement, et vous choisissez les rêves à garder."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "Neptune ♆ : les idéaux, la foi et la compassion" }
@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/neptune", "/astrology/square", "/astrology/neptune-square", "/astrology/neptune-square-pluto"]
 faq:
   - q: "Que veut dire Pluton en transit carré Neptune ?"
-    a: "Pluton, dans le ciel, se trouve à 90° de Neptune dans votre thème, après avoir franchi la place de Neptune des décennies plus tôt. J’y lis une longue période de friction entre les idéaux qui ont guidé votre vie et un besoin de changement plus profond : certains rêves demandent à être lâchés, d’autres à être tenus plus honnêtement, et la compassion à trouver ses limites."
+    a: "Des décennies après avoir franchi la place de Neptune dans votre thème, Pluton arrive à 90° au-delà. Entre les idéaux qui vous ont portée ou porté et un besoin de changement plus profond, certains rêves demandent à être lâchés, d’autres à être tenus plus honnêtement, et la compassion à trouver ses limites."
   - q: "À quel âge vient Pluton carré Neptune ?"
     a: "Dans la soixantaine ou la soixante-dizaine, pour les deux personnes sur trois qui le vivent avant 80 ans : pour une naissance un 1er janvier, à 65,9 ans en 1935, 65,1 ans en 1945, 66,2 ans en 1955, 69,3 ans en 1965 et 74,3 ans en 1975. Pour le 1er janvier 1985, 1995 et 2005, le carré ne vient pas avant 80 ans."
   - q: "Est-ce que Pluton carré Neptune est le carré de Neptune ?"
     a: "Non. Le carré de Neptune, c’est Neptune en transit à 90° de sa propre place de naissance, que tout le monde vit vers 41 ans. Pluton carré Neptune du thème natal, c’est Pluton, et non Neptune, qui atteint 90° de la place de Neptune, des décennies plus tard et pour certaines années de naissance seulement. Les noms se ressemblent, les saisons non."
   - q: "Combien de temps dure Pluton carré Neptune ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et près de quatre ans pour les passages les plus longs. Pluton franchit le carré exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres."
+    a: "Environ deux ans et huit mois de 1,5° avant l’exactitude à 1° après, jusqu’à près de quatre ans quand Pluton s’attarde. Comptez trois contacts exacts dans la plupart des passages, et cinq dans environ deux passages sur cinq."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les âges où Pluton forme un carré à Neptune du thème natal, et sa durée dans mes orbes" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Neptune, un par un" }
@@ -44,7 +44,7 @@ Les angles morts de Neptune sont ceux à surveiller : confondre la compassion a
 
 On le confond facilement avec le [carré de Neptune](/astrology/neptune-square/), Neptune en transit à 90° de sa propre place vers 41 ans. Celui-ci appartient à Pluton et suit la conjonction de Pluton à votre Neptune ([Pluton en transit conjonction Neptune du thème natal](/astrology/transiting-pluto-conjunct-natal-neptune/)), et aucune naissance entre 1930 et 2009 ne porte [Neptune carré Pluton](/astrology/neptune-square-pluto/).
 
-Avec Neptune en maison 9, le carré vient des environs de la maison 12 ([Pluton en transit en maison 12](/astrology/pluto-transit-12th-house/)) ou de la maison 6 : les croyances et les horizons lointains qui vous ont guidée ou guidé rencontrent un examen intérieur plus discret, ou les exigences du quotidien. Avec Neptune en maison 11, le carré vient des environs de la maison 2 ou 8, et les idéaux partagés avec des amis ou des causes rencontrent la question de ce qui compte vraiment pour vous. Quelles maisons sont en jeu, c’est l’heure de votre naissance qui le dit ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Neptune en maison 9, le carré vient des environs de la maison 12 ([Pluton en transit en maison 12](/astrology/pluto-transit-12th-house/)) ou de la maison 6 : les croyances et les horizons lointains qui vous ont guidée ou guidé rencontrent un examen intérieur plus discret, ou les exigences du quotidien. Quelles maisons sont en jeu, c’est l’heure de votre naissance qui le dit ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

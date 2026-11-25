@@ -2,7 +2,7 @@
 title: "Pluton en transit conjonction Ascendant du thème natal"
 slug: "pluton-transit-conjonction-ascendant-natal"
 h1: "Pluton en transit conjonction votre Ascendant natal"
-description: "Pluton en transit conjonction Ascendant du thème natal : deux à quatre ans où votre façon d’aborder le monde se refait. Pourquoi l’heure de naissance compte."
+description: "Pluton en transit conjonction Ascendant du thème natal : deux à quatre ans où votre façon d’aborder le monde se refait. Pourquoi l’heure de naissance en décide."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Ascendant", "conjonction", "transits"]
 weight: 1847
 glyph: "♇☌AC"
-definition: "Pluton en transit conjonction Ascendant du thème natal, c’est Pluton sur votre degré ascendant pendant deux à quatre ans ; plus de la moitié des gens ne le vivent jamais avant 80 ans, et seule l’heure de naissance le date. Votre façon d’aborder le monde est reprise par en dessous. J’y lis une arrivée plus profonde, jamais un démasquage."
+definition: "Pluton en transit conjonction Ascendant du thème natal fait passer Pluton sur votre degré ascendant pendant deux à quatre ans ; plus de la moitié des gens ne le vivent jamais avant 80 ans, et seule l’heure de naissance le date. Votre façon d’aborder le monde est reprise par en dessous : une arrivée plus profonde, jamais un démasquage."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation et de la profondeur" }
   - { k: "Point natal", v: "L’Ascendant (AC) : votre façon d’aborder le monde et de commencer ; il demande l’heure de naissance" }
@@ -23,9 +23,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/ascendant", "/astrology/pluto-transit-1st-house", "/astrology/aquarius-rising", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Pluton conjonction Ascendant ?"
-    a: "Pluton, dans le ciel, franchit le degré qui se levait à votre naissance, le point du thème qui décrit votre façon d’aborder le monde et de commencer les choses. J’y lis un long remaniement de cette orientation par en dessous : des manières adoptées pour s’en sortir tombent, et une façon d’arriver plus délibérée prend leur place."
+    a: "Pluton franchit le degré qui se levait à votre naissance, le point qui décrit votre façon d’aborder le monde et de commencer. Cette orientation se refait par en dessous pendant quelques années : des manières adoptées pour s’en sortir tombent, et une façon d’arriver plus délibérée prend leur place."
   - q: "Combien de temps dure Pluton conjonction Ascendant ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus rapides. Pluton franchit votre degré ascendant trois fois dans environ trois passages sur cinq, cinq fois dans les autres : un temps, le passage va et vient sur la pointe de votre maison 1."
+    a: "Pluton met environ deux ans et huit mois à aller de 1,5° avant votre degré ascendant à 1° au-delà, et vingt-deux mois environ quand le mouvement est rapide. Entre-temps, Pluton va et vient sur la pointe de votre maison 1, trois ou cinq fois."
   - q: "Quand Pluton passera sur mon Ascendant ?"
     a: "Seule votre heure de naissance peut le dire. Tant que Pluton est en Verseau, jusqu’au début de 2044, le passage touche l’Ascendant Verseau : les premiers degrés au milieu des années 2020, ceux du milieu dans les années 2030, les derniers vers 2042. Plus de la moitié des personnes nées entre 1930 et 2009 ne le vivent jamais avant 80 ans, et personne deux fois."
   - q: "Est-ce que Pluton sur l’Ascendant touche la santé ou l’apparence ?"
@@ -34,7 +34,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient l’Ascendant dans mes orbes, et combien de personnes le vivent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à l’Ascendant" }
 ---
-Le degré qui se levait à votre naissance est le seuil de votre thème, et ce transit y place la planète de la profondeur. Seule votre heure de naissance peut placer ce degré : sans elle, ce transit n’a pas de date, et c’est l’une des raisons pour lesquelles je ne lis pas un thème sans l’heure ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le degré qui se levait à votre naissance est le seuil de votre thème, et ce transit y place la planète de la profondeur. Seule votre heure de naissance peut placer ce degré : sans elle, ce transit n’a pas de date, et je ne lis pas un thème sans l’heure ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Ce qui change {#ce-qui-change}
 

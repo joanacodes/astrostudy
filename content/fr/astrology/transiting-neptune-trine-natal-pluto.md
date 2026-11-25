@@ -42,7 +42,7 @@ Le trigone de Neptune à votre Pluton de naissance vient à la fin de la vingtai
 
 L’aisance est réelle, et discrète. L’angle mort de Pluton, sous-estimer le changement graduel, est celui à surveiller : le trigone s’annonce rarement, et ce qu’il permet est le plus souvent un changement lent, par les habitudes, le travail ou un engagement à la mesure de la personne que vous devenez. Neptune apporte sa propre prudence, ne pas prendre l’image pour la preuve : un trigone aide à agir d’après une vision, sans s’en porter garant.
 
-Ce courant a une adresse : la maison que Neptune parcourt alors, en général quatre maisons après celle de votre Pluton. Avec Pluton en maison 12 à la naissance, Neptune parcourt alors en général votre maison 4, et ce que vous avez porté seul ou seule peut s’adoucir en un sentiment plus tendre du foyer ([Neptune en transit en maison 4](/astrology/neptune-transit-4th-house/)). Les deux maisons dépendent de l’heure de naissance ; sans elle, je ne lis pas ce transit ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Ce courant a une adresse : la maison que Neptune parcourt alors, en général quatre maisons après celle de votre Pluton. Avec Pluton en maison 12 à la naissance, Neptune parcourt alors en général votre maison 4, et ce que vous avez porté seul ou seule peut s’adoucir en un sentiment plus tendre du foyer ([Neptune en transit en maison 4](/astrology/neptune-transit-4th-house/)). Pour ces deux maisons, il me faut l’heure de naissance ; sans elle, ce transit reste sans lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

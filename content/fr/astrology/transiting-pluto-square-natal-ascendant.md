@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Ascendant", "carré", "transits"]
 weight: 1849
 glyph: "♇□AC"
-definition: "Pluton en transit carré Ascendant du thème natal, c’est Pluton à 90° de votre degré ascendant pendant deux à quatre ans ; environ 7 personnes sur 8 le vivent avant 80 ans. Les exigences du travail ou du foyer pèsent sur votre façon d’aborder le monde. Il faut l’heure de naissance. J’y lis une friction qui renouvelle, jamais une défaite."
+definition: "Pluton en transit carré Ascendant du thème natal fait peser Pluton, à 90°, sur votre degré ascendant pendant deux à quatre ans ; 7 personnes sur 8 environ le vivent avant 80 ans. Les exigences du travail ou du foyer s’exercent sur votre façon d’aborder le monde. Il faut l’heure de naissance. Une friction qui renouvelle, pas une défaite."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "L’Ascendant (AC) : votre façon d’aborder les gens et de commencer ; il demande l’heure de naissance" }
@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/ascendant", "/astrology/square", "/astrology/midheaven", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Pluton carré Ascendant ?"
-    a: "Pluton, dans le ciel, se trouve à 90° du degré qui se levait à votre naissance. J’y lis une longue période de friction entre votre façon habituelle d’aborder le monde et une pression venue du travail ou du foyer : une manière qui vous servait commence à mal aller, et une façon d’arriver plus juste est à trouver."
+    a: "Pluton se trouve à 90° de votre degré ascendant et pèse sur votre façon d’aborder le monde, depuis votre vie professionnelle ou votre foyer. Une manière qui vous servait commence à mal aller, et une façon d’arriver plus juste est à trouver."
   - q: "Combien de temps dure Pluton carré Ascendant ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et jusqu’à trois ans et neuf mois environ. Pluton franchit le carré exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres."
+    a: "Environ deux ans et huit mois, et jusqu’à trois ans et neuf mois environ, de 1,5° avant l’exactitude à 1° après. Les contacts exacts vont par trois dans environ trois passages sur cinq, et par cinq dans les autres."
   - q: "Est-ce que je vivrai Pluton carré Ascendant ?"
     a: "Probablement : environ 7 personnes sur 8 nées entre 1930 et 2009 le vivent avant 80 ans, une fois. Personne ne vit les deux carrés, qui sont à un demi-zodiaque l’un de l’autre. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le carré touche l’Ascendant Taureau et l’Ascendant Scorpion, et votre heure de naissance donne l’année."
   - q: "Est-ce que Pluton carré Ascendant est une crise ?"
-    a: "Pas dans ma lecture. Un carré décrit une friction qui demande de s’ajuster, et celui-ci vous demande de changer votre façon de vous présenter et de commencer les choses. Il peut sembler exigeant, mais il n’annonce aucun événement, aucune perte, aucune maladie, et la façon de le vivre vous appartient."
+    a: "Pas au sens d’un effondrement. Un carré décrit une friction qui demande de s’ajuster, et celui-ci vous demande de changer votre façon de vous présenter et de commencer les choses. Il peut sembler exigeant, mais il n’annonce aucun événement, aucune perte, aucune maladie, et la façon de le vivre vous appartient."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient le carré dans mes orbes, et combien de personnes le vivent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à l’Ascendant, un par un" }

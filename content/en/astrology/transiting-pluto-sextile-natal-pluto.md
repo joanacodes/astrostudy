@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "sextile", "transits"]
 weight: 1843
 glyph: "♇⚹♇"
-definition: "Transiting Pluto sextile natal Pluto is Pluto 60° on from its birth degree, the first step of its own cycle that a life holds. Everyone born from 1930 to 2009 meets it once, between about 21 and 36, for two to four years. I read it as a first real chance to change on purpose, never as a test."
+definition: "Transiting Pluto sextile natal Pluto marks the first step of Pluto’s own cycle that a life holds, 60° on from its birth degree. Everyone born from 1930 to 2009 meets it once, between about 21 and 36, for two to four years. It is a first real chance to change on purpose, and no test."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Pluto ♇: where you go deepest and can begin again" }
@@ -22,18 +22,18 @@ facts:
 related: ["/astrology/pluto", "/astrology/sextile", "/astrology/pluto-square", "/astrology/pluto-in-sagittarius", "/astrology/generational-placements-by-birth-year"]
 faq:
   - q: "What does transiting Pluto sextile natal Pluto mean?"
-    a: "Pluto in the sky has moved 60° on from where it stood at your birth. I read it as the first opening of Pluto’s own cycle in adult life: a chance to change something at depth by choice rather than under pressure, in the part of life your natal Pluto’s house describes."
+    a: "Pluto has travelled 60° from its place at your birth, the first opening of its own cycle in adult life. It is a chance to change something at depth by choice rather than under pressure, in the part of life your natal Pluto’s house describes."
   - q: "At what age is the Pluto sextile?"
     a: "Between 21.5 and 36.1, for births from 1930 to 2009. For births on 1 January it came within orb at 33.8 in 1935, 29.9 in 1945, 26.8 in 1955, 24 in 1965, 23.1 in 1975, 24.1 in 1985 and 27.2 in 1995, and comes at 31.3 for 2005."
   - q: "Why does the Pluto sextile come at different ages?"
     a: "Because Pluto’s orbit is stretched: it crosses some signs in about 12 years and others in about 31. Born in the 1970s, your first 60° ran through Libra, Scorpio and Sagittarius, near Pluto’s fastest, so the sextile came at about 23; born in the 1930s, through Leo and Virgo, slower signs, so it came at about 34."
   - q: "How long does Pluto sextile Pluto last?"
-    a: "About two years and eight months with the orbs I use, from 1½° before exact to 1° after, and about twenty-two months at the quickest. Pluto crosses the exact sextile three times in about three passes out of five, and five times in the others."
+    a: "Most passes take about two years and eight months, from 1½° before exact to 1° after, and the fastest about twenty-two months."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the ages at the Pluto sextile, birth year by birth year, and how long it stays within my orbs" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "its stretched orbit, about 248 years round the Sun" }
 ---
-Pluto never returns to its birth place within a human life: a full circle takes about 248 years. The first step of its cycle that people do meet is the sextile, 60° on, and everyone born between 1930 and 2009 meets it once, somewhere between their early twenties and mid-thirties.
+Pluto never returns to its birth place within a human life: a full circle takes about 248 years. The first step of its cycle that people do meet is the sextile, 60° on, somewhere between their early twenties and mid-thirties.
 
 ## What changes {#what-changes}
 
@@ -41,17 +41,17 @@ Natal [Pluto](/astrology/pluto/) is where you go deepest: what you hold on to, w
 
 Pluto's blind spot here is confusing survival adaptation with permanent identity. The habits that once kept you safe can feel like who you are; the sextile is the first season when you can test that, quietly, and keep only what still serves.
 
-Because everyone born within a year or two of you shares it at nearly the same age, the transit describes a generation's coming of age as much as a person's. What makes it yours is the house your Pluto sits in and the planets it touches at birth. With Pluto in your 10th, the sextile comes from around your 12th or your 8th ([Pluto transiting the 8th house](/astrology/pluto-transit-8th-house/)): something reworked in private, or with someone close, prepares a deeper change in your public role. With Pluto close to your Moon or Sun at birth, the same years sextile those too. Two people born on the same day can have Pluto in different houses, depending on the hour ([what changes without a birth time](/blog/unknown-birth-time/)).
+Because everyone born within a year or two of you shares it at nearly the same age, the transit describes a generation's coming of age as much as a person's. What makes it yours is the house your Pluto sits in. With Pluto in your 10th, the sextile comes from around your 12th or your 8th ([Pluto transiting the 8th house](/astrology/pluto-transit-8th-house/)): something reworked in private, or with someone close, prepares a deeper change in your public role. Two people born on the same day can have Pluto in different houses, depending on the hour ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
 The sextile of Pluto to its own birth place lasts about two years and eight months, or twenty-two months at the quickest, counting from 1½° before exact to 1° after, the orbs I use; about three passes in five are exact three times, the rest five times.
 
-Everyone born between 1930 and 2009 meets it once, between 21.5 and 36.1, and the ages trace Pluto's uneven pace. Births on 1 January show the dip: 33.8 in 1935, 29.9 in 1945, 26.8 in 1955, 24 in 1965 and 23.1 in 1975, then back up to 24.1 in 1985, 27.2 in 1995 and 31.3 in 2005. Pluto spends about 12 years in some signs and about 31 in others, so stretched is its orbit, and it moved fastest around its closest approach to the Sun, in 1989. Born in the 1970s, your first 60° ran through those quick years; born in the 1930s, through slow ones ([generational placements by birth year](/astrology/generational-placements-by-birth-year/)).
+Everyone born between 1930 and 2009 meets it once, between 21.5 and 36.1, and the ages trace Pluto's uneven pace. Births on 1 January show the dip: 33.8 in 1935, 26.8 in 1955 and 23.1 in 1975, then back up to 27.2 in 1995 and 31.3 in 2005. Pluto spends about 12 years in some signs and about 31 in others, so stretched is its orbit, and it moved fastest around its closest approach to the Sun, in 1989. Born in the 1970s, your first 60° ran through those quick years; born in the 1930s, through slow ones ([generational placements by birth year](/astrology/generational-placements-by-birth-year/)).
 
 Today's sextile belongs to the [Pluto in Sagittarius](/astrology/pluto-in-sagittarius/) generation, born from 1995 to 2008, who meet it between about 26 and 34 while Pluto crosses Aquarius, until early 2044.
 
-The sextile opens a sequence. The square ([Transiting Pluto square natal Pluto](/astrology/transiting-pluto-square-natal-pluto/)), the [Pluto square](/astrology/pluto-square/), follows between about 34½ and 59; the trine ([Transiting Pluto trine natal Pluto](/astrology/transiting-pluto-trine-natal-pluto/)) from about 48½, for all but about 1 person in 14; the opposition ([Transiting Pluto opposite natal Pluto](/astrology/transiting-pluto-opposite-natal-pluto/)) after 80 for everyone, in their eighties for those born before about 1960 and beyond a lifetime for most others.
+The sextile opens a sequence. The square ([Transiting Pluto square natal Pluto](/astrology/transiting-pluto-square-natal-pluto/)), the [Pluto square](/astrology/pluto-square/), follows between about 34½ and 59; the trine ([Transiting Pluto trine natal Pluto](/astrology/transiting-pluto-trine-natal-pluto/)) from about 48½, for all but about 1 person in 14; the opposition ([Transiting Pluto opposite natal Pluto](/astrology/transiting-pluto-opposite-natal-pluto/)) after 80 for everyone.
 
 ## What helps {#what-helps}
 

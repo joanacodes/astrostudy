@@ -15,8 +15,9 @@ facts:
   - { k: "Natal point", v: "The Moon ☽: needs, attachment and what has felt safe before" }
   - { k: "Aspect", v: "Trine △, 120°" }
   - { k: "One pass", v: "About a month (34 days in the middle case); 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "8 or 9 times; nobody misses it" }
+  - { k: "In my forecast", v: "Left out: only the node’s conjunctions and oppositions go in" }
 related: ["/astrology/north-node", "/astrology/moon", "/astrology/trine", "/astrology/moon-trine-north-node", "/astrology/moon-in-11th-house"]
 faq:
   - q: "What does transiting North Node trine natal Moon mean?"
@@ -37,7 +38,7 @@ The [Moon](/astrology/moon/) is your regulation: needs, attachment, the memory o
 
 That is the gift and the catch. Ease isn't inevitability, and a trine can pass unnoticed precisely because nothing pushes. What it offers is good conditions: a new routine that settles quickly, a place that feels like home sooner than you expected, care that is easy to give and to accept. The [South Node](/astrology/south-node/), sextile your Moon, lends its old skills of comfort without pulling you back to them.
 
-Trines tend to link signs that share an element, so the node trines your Moon from a sign of your Moon's own element, and its sign tells you when. Between July 2026 and March 2028 the node crosses Aquarius and trines Moons in Gemini and Libra; between March 2028 and September 2029, in Capricorn, it trines Moons in Taurus and Virgo; and until March 2031 Sagittarius has its turn, with Moons in Aries and Leo.
+Trines tend to link signs that share an element, so the node trines your Moon from a sign of your Moon's own element, and its sign tells you when. Between July 2026 and March 2028 the node crosses Aquarius and trines Moons in Gemini and Libra; between March 2028 and September 2029, in Capricorn, it trines Moons in Taurus and Virgo; and until March 2031 Sagittarius has its turn, with Moons in Aries and Leo. None of those months goes into my forecast, which takes the node by conjunction and opposition only.
 
 With your [Moon in the 11th house](/astrology/moon-in-11th-house/), the house of friends and shared hopes, the trine tends to show among people: a circle in which you feel at ease while trying something new. Both that house and the degree that sets the month are fixed by your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 

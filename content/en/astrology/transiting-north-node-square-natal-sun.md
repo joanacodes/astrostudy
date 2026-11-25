@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Sun", "square", "transits"]
 weight: 1919
 glyph: "☊□☉"
-definition: "Transiting North Node square natal Sun is the nodal axis at right angles to your birth Sun, both nodes 90° from it, eight or nine times by 80. For about a month, the familiar and the new each claim a part of who you are. I read it as friction that teaches you to bring yourself along."
+definition: "Transiting North Node square natal Sun is the nodal axis at right angles to your birth Sun, both nodes 90° from it, eight or nine times by 80. For about a month, the familiar and the new each claim a part of who you are. It is friction that teaches you to bring yourself along."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node ☋ opposite" }
   - { k: "Natal point", v: "The Sun ☉: identity, vitality and purpose" }
@@ -21,13 +21,13 @@ facts:
 related: ["/astrology/north-node", "/astrology/sun", "/astrology/sun-square-north-node", "/astrology/nodal-axis", "/astrology/transits"]
 faq:
   - q: "What does transiting North Node square natal Sun mean?"
-    a: "Both nodes stand 90° from your birth Sun, so for about a month the familiar end of the axis and the new end each make a claim on who you are. It is rarely a choice between them. I read it as friction that asks you to bring yourself along, never as a crisis or a fated turning point."
+    a: "Both nodes stand 90° from your birth Sun, so for about a month the familiar end of the axis and the new end each make a claim on who you are. It is rarely a choice between them. It is friction that asks you to bring yourself along, never a crisis or a fated turning point."
   - q: "How long does North Node square Sun last?"
     a: "About a month in most cases, counted from 1½° before exact to 1° after. If the exact square falls near your birthday, the node is moving at its fastest and the pass can take three and a half weeks; in an eclipse season it can last over three months."
   - q: "When is the North Node square my Sun?"
     a: "Twice in each round of about 18.6 years, roughly four and a half and fourteen years after the node crosses your Sun. With the node in Aquarius until March 2028, it is the turn of Taurus and Scorpio Suns; from March 2028, of Aries and Libra Suns."
 sources:
-  - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the square within my orbs, how often it comes by 80, and its signs from 2026" }
+  - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the square from 1½° before exact to 1° after, how often it comes by 80, and its signs from 2026" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true, and the true node’s pace" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "how a transit is read: the moving body, the natal point and the angle between them" }
 ---
@@ -45,7 +45,7 @@ With the node in Aquarius until March 2028, the square falls to Taurus Suns, bor
 
 ## How long it lasts {#how-long-it-lasts}
 
-Measured from 1½° before exact to 1° after, a square usually lasts about a month, crossed once in nineteen passes out of twenty, and the birthday works on it the other way round from the conjunction. If the exact square falls near your birthday, the Sun in the sky is square to the node, when the true node moves fastest, and the pass can be as short as three and a half weeks. If it falls in one of the two eclipse seasons, about three months either side of your birthday, the node nearly halts: one pass in ten stretches past three and a half months, and one in twenty-five crosses three times. The eclipses of those seasons fall 90° from your Sun, and I don't count them on your chart ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
+Measured from 1½° before exact to 1° after, a square usually lasts about a month, crossed once in nineteen passes out of twenty, and the birthday works on it the other way round from the conjunction. If the exact square falls near your birthday, the Sun in the sky is square to the node, when the true node moves fastest, and the pass can be as short as three and a half weeks. If it falls in one of the two eclipse seasons, about three months either side of your birthday, the node nearly halts: one pass in ten stretches past three and a half months, and one in twenty-five crosses three times. My forecast counts neither this square, since it takes the node only by conjunction and opposition, nor the eclipses of those seasons, 90° from your Sun ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
 
 The two squares of a round fall a quarter and three quarters of the way through it, about four and a half and fourteen years after the North Node crosses your Sun ([transiting North Node conjunct natal Sun](/astrology/transiting-north-node-conjunct-natal-sun/)), so by 80 most people have met nine and nobody fewer than eight. The first comes after [transiting North Node sextile natal Sun](/astrology/transiting-north-node-sextile-natal-sun/); between the two lie [transiting North Node trine natal Sun](/astrology/transiting-north-node-trine-natal-sun/), [transiting North Node opposite natal Sun](/astrology/transiting-north-node-opposite-natal-sun/) and the second trine.
 

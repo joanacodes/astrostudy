@@ -15,8 +15,9 @@ facts:
   - { k: "Natal point", v: "Mercury ☿: what you notice, how you reason, how you explain" }
   - { k: "Aspect", v: "Opposition ☍, 180°: the South Node’s conjunction" }
   - { k: "One pass", v: "About a month; 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "4 or 5 times; nobody misses it" }
+  - { k: "In my forecast", v: "Counted: the South Node is on your Mercury" }
 related: ["/astrology/south-node", "/astrology/mercury", "/astrology/opposition", "/astrology/mercury-opposite-north-node", "/astrology/north-node-transit-10th-house"]
 faq:
   - q: "What does transiting North Node opposite natal Mercury mean?"
@@ -24,7 +25,7 @@ faq:
   - q: "Is the South Node on Mercury a bad time to communicate?"
     a: "No. The South Node describes skills already built, so your words come easily, sometimes too easily, out of habit. What it asks is that you notice where habit is doing the talking. It doesn’t spoil conversations, documents or plans, and it predicts nothing about them."
   - q: "How often does the North Node oppose my Mercury?"
-    a: "Once every 18.6 years or so, halfway between two of the North Node’s own passes over your Mercury. Each lasts about a month with my orbs, and by 80 everyone has had four, some five."
+    a: "Once every 18.6 years or so, halfway between two of the North Node’s own passes over your Mercury. Each takes about a month inside my orbs, and by 80 everyone has had four, some five."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the opposition within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Mercury" }

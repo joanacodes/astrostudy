@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Neptune", "sextile", "transits"]
 weight: 1839
 glyph: "♇⚹♆"
-definition: "Transiting Pluto sextile natal Neptune is Pluto 60° from your birth Neptune, for two to four years; almost everyone meets it, half of people twice, many first as babies. Renewal gives an ideal a workable form. I read it as a chance to make a dream practical, never as a promise that it will come true."
+definition: "Transiting Pluto sextile natal Neptune links Pluto and your birth Neptune at 60° for two to four years; almost everyone meets it, half of people twice, many first as babies. Renewal can give an ideal a workable form. It makes a dream practical if you do the work, and promises nothing more."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of renewal" }
   - { k: "Natal point", v: "Neptune ♆: imagination, compassion and ideals" }
@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/neptune", "/astrology/sextile", "/astrology/neptune-sextile-pluto", "/astrology/transiting-pluto-conjunct-natal-neptune"]
 faq:
   - q: "What does transiting Pluto sextile natal Neptune mean?"
-    a: "Pluto in the sky is 60° from your Neptune. I read it as a long opening in which renewal and imagination cooperate: an ideal, a creative project or a compassionate commitment can be given a practical, lasting form, if you take it up. It describes an opportunity, not an outcome."
+    a: "Pluto is 60° from your Neptune, and imagination finds an ally in renewal. An ideal, a creative project or a compassionate commitment can be given a practical, lasting form, provided you give it the work."
   - q: "Why do so many people have Pluto sextile Neptune as babies?"
     a: "Because Neptune and Pluto stayed about 60° apart for decades, in the long sextile of the twentieth century. For many people born from the late 1940s to the late 1980s, Pluto at birth already stood within a degree or two of sextile to their Neptune, and its yearly loops brought it into orb in their first year or two."
   - q: "When is the second Pluto sextile Neptune?"
     a: "After Pluto has passed your natal Neptune, which happens between about 22 and 30, it reaches the sextile on the far side some 25 to 35 years later: at about 50 to 57 for births up to the mid-1980s, and from about 58 to nearly 80 for later births."
   - q: "How long does Pluto sextile Neptune last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and about twenty-two months at the shortest. Pluto crosses the exact sextile three times in about three passes out of five, and five times in the rest."
+    a: "Whichever of the two you meet, the sextile lasts about two years and eight months from 1½° before exact to 1° after, and about twenty-two months at the shortest."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "when Pluto sextiles natal Neptune, birth year by birth year, and how long it stays within my orbs" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Neptune, one by one" }
@@ -43,13 +43,13 @@ The sextile's gift is that it asks for no sacrifice. Neptune's boundaries matter
 
 The sextile adults live comes after Pluto has crossed your natal Neptune in your twenties ([Transiting Pluto conjunct natal Neptune](/astrology/transiting-pluto-conjunct-natal-neptune/)). By then the ideals tested in those years have had decades to settle, and this transit offers a way to put the survivors to use. Born with [Neptune sextile Pluto](/astrology/neptune-sextile-pluto/), as most people born between 1943 and 1993 were, you began life close to it.
 
-With Neptune in your 6th, the sextile comes from around your 8th ([Pluto transiting the 8th house](/astrology/pluto-transit-8th-house/)) or your 4th: what you share with others, or what you rebuild at home, gives your ideal of service a practical form. With Neptune in the 12th, it comes from near the 2nd or the 10th, and a quiet inner life finds an outward use. An approximate birth time can move Neptune from one house to the next ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Neptune in your 6th, the sextile comes from around your 8th ([Pluto transiting the 8th house](/astrology/pluto-transit-8th-house/)) or your 4th: what you share with others, or what you rebuild at home, gives your ideal of service a practical form. An approximate birth time can move Neptune from one house to the next ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
 Each sextile lasts about two years and eight months, from the moment Pluto comes within 1½° of exact to the moment it is 1° past, the orbs I use, and about twenty-two months at the shortest. Most passes bring three exact hits; about two in five bring five.
 
-Almost everyone born between 1930 and 2009 meets it by 80, and about half meet it twice. For many births from the late 1940s to the late 1980s, the first came within a year or two, as Pluto, already close to the sextile at birth, looped into orb: at 0.6 for a birth on 1 January 1955, 0.8 for 1965 and 0.7 for 1975. The second comes after Pluto has passed natal Neptune: at about 50 to 57 for births up to the mid-1980s, and later for later births, 64.3 for 1 January 1995 and 73.3 for 1 January 2005. Born in the 1930s or most of the 1940s, you meet only that later one, at 53.9 for 1 January 1935.
+Almost everyone born between 1930 and 2009 meets it by 80, and about half meet it twice. For many births from the late 1940s to the late 1980s, the first came within a year or two: at 0.6, for example, for a birth on 1 January 1955. The second comes after Pluto has passed natal Neptune: at about 50 to 57 for births up to the mid-1980s, and later for later births, up to 73.3 for 1 January 2005. Born in the 1930s or most of the 1940s, you meet only that later one, at 53.9 for 1 January 1935.
 
 From Aquarius, until early 2044, Pluto gives the later sextile to the generation born from 1970 to 1984 with Neptune in Sagittarius, in their early to late fifties.
 

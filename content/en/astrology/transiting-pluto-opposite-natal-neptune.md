@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Neptune", "opposition", "transits"]
 weight: 1842
 glyph: "♇☍♆"
-definition: "Transiting Pluto opposite natal Neptune is Pluto 180° from the degree Neptune held at your birth. No one born between 1930 and 2009 meets it: Pluto would need at least 112 years to get there. I read Pluto’s meeting with your Neptune through the transits that do come, from the conjunction in your twenties on."
+definition: "Transiting Pluto opposite natal Neptune would put Pluto 180° from the degree Neptune held at your birth. No one born between 1930 and 2009 meets it: Pluto would need at least 112 years to get there. I follow Pluto’s meeting with your Neptune through the transits that do come, from the conjunction in your twenties on."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Neptune ♆: ideals, faith and compassion" }

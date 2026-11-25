@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Saturne", "opposition", "transits"]
 weight: 1832
 glyph: "♇☍♄"
-definition: "Pluton en transit opposition Saturne du thème natal, c’est Pluton face à la place natale de Saturne pendant deux à quatre ans ; un peu plus de la moitié des gens ne le vivent jamais avant 80 ans. Vos structures et vos responsabilités rencontrent le pouvoir des autres. J’y lis une saison pour redessiner vos limites, jamais une bataille perdue d’avance."
+definition: "Pluton en transit opposition Saturne du thème natal dresse Pluton face à la place natale de Saturne, à 180°, pendant deux à quatre ans ; un peu plus de la moitié des gens ne le vivent jamais avant 80 ans. Vos structures et vos responsabilités rencontrent le pouvoir des autres, et les limites se redessinent, sans bataille perdue d’avance."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète du pouvoir et du renouveau" }
   - { k: "Point natal", v: "Saturne ♄ : la responsabilité, l’autorité et les limites" }
@@ -23,9 +23,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/saturn", "/astrology/opposition", "/astrology/saturn-square-pluto", "/astrology/pluto-square"]
 faq:
   - q: "Que veut dire Pluton en transit opposition Saturne ?"
-    a: "Pluton, dans le ciel, a atteint le point opposé à Saturne dans votre thème. J’y lis une longue saison où vos responsabilités, vos règles et vos limites rencontrent le pouvoir de quelqu’un d’autre : un employeur, une institution, les exigences d’un proche. Le travail consiste à voir clairement les deux bouts et à replacer la ligne là où elle doit être."
+    a: "Pluton se trouve maintenant à l’opposé de Saturne dans votre thème. Vos responsabilités, vos règles et vos limites rencontrent le pouvoir de quelqu’un d’autre, un employeur, une institution, les exigences d’une ou d’un partenaire, et le travail de ces années consiste à voir clairement les deux bouts et à retracer la limite là où elle doit être."
   - q: "Combien de temps dure Pluton opposition Saturne ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et de vingt-deux mois environ à près de quatre ans. Pluton franchit l’opposition exacte trois fois dans environ trois passages sur cinq, cinq fois dans les autres."
+    a: "De vingt-deux mois environ à près de quatre ans, deux ans et huit mois en moyenne, avec mes orbes de 1,5° avant l’exactitude et 1° après."
   - q: "Pluton opposition Saturne : est-ce rare ?"
     a: "Un peu plus de la moitié des personnes nées entre 1930 et 2009 ne la vivent jamais avant 80 ans, et personne ne la vit deux fois. Pour une naissance un 1er janvier, elle est venue à 15,1 ans en 2005, 18,7 ans en 1935, 40,1 ans en 1975 et 66 ans en 1945, et pas avant 80 ans en 1955, 1965, 1985 ou 1995."
   - q: "Est-ce que Pluton opposition Saturne veut dire un rapport de force ?"
@@ -34,11 +34,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Pluton tient l’opposition dans mes orbes, et combien de personnes la vivent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Saturne, pris un à un" }
 ---
-Le pouvoir mesuré au devoir : voilà Pluton à l’opposé de Saturne dans votre thème natal. Ce que Pluton fait remonter rencontre la part de vous qui porte les responsabilités et tient les règles. Ce que vous avez bâti rencontre souvent d’abord la pression de quelqu’un d’autre, et la frontière entre son pouvoir et votre devoir est à retrouver.
+Le pouvoir mesuré au devoir : voilà Pluton à l’opposé de Saturne dans votre thème natal. Ce que vous avez bâti rencontre souvent d’abord la pression de quelqu’un d’autre, et la frontière entre son pouvoir et votre devoir est à retrouver.
 
 ## Ce qui change {#ce-qui-change}
 
-[Saturne](/astrology/saturn/) tient la structure et la responsabilité : les engagements que vous respectez, l’autorité que vous portez, les limites que vous tracez. [Pluton](/astrology/pluto/) fait remonter le pouvoir et les motifs cachés, pour que ce qui ne tient plus puisse être réorganisé. Face à face dans une [opposition](/astrology/opposition/), à 180°, les deux fonctions se rencontrent plus souvent à travers les autres qu’en vous : ce [transit](/astrology/transits/) agit donc en général de l’extérieur vers l’intérieur. La restructuration décidée par un employeur, les règles d’une institution, les besoins d’un proche, un parent qui dépend désormais de vous : chacun pose la question de ce dont vous êtes responsable, et de ce dont vous ne l’êtes pas.
+[Saturne](/astrology/saturn/) tient la structure et la responsabilité : les engagements que vous respectez, l’autorité que vous portez, les limites que vous tracez. [Pluton](/astrology/pluto/) fait remonter le pouvoir et les motifs cachés, pour que ce qui ne tient plus puisse être réorganisé. Face à face dans une [opposition](/astrology/opposition/), à 180°, les deux fonctions se rencontrent plus souvent à travers les autres qu’en vous : ce [transit](/astrology/transits/) agit donc en général de l’extérieur vers l’intérieur. La restructuration décidée par un employeur, les règles d’une institution, les besoins d’un proche, un parent qui dépend désormais de vous.
 
 La peur de Saturne, c’est le chaos et l’effort gaspillé ; l’angle mort de Pluton, c’est de croire que tout échange inégal est une domination voulue. Ensemble, ces deux réflexes peuvent transformer une négociation difficile en siège. Prendre son pouvoir n’est pas dominer, d’un côté de l’axe comme de l’autre, et ce qui sort en général de cette opposition, c’est une limite plus nette : des devoirs choisis, une autorité que vous portez sans vous épuiser, et un non clair là où il en fallait un.
 

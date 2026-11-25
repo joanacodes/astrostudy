@@ -1,7 +1,7 @@
 ---
 title: "Transiting Pluto square natal Neptune"
 h1: "Transiting Pluto square your natal Neptune"
-description: "Transiting Pluto square natal Neptune: in the sixties or seventies, the ideals you have lived by meet pressure to change. Who meets it, when, what helps."
+description: "Transiting Pluto square natal Neptune: in the sixties or seventies, the ideals you have lived by meet pressure to change. Which births meet it; what helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Neptune", "square", "transits"]
 weight: 1840
 glyph: "♇□♆"
-definition: "Transiting Pluto square natal Neptune is Pluto 90° beyond the degree Neptune held at your birth, for two to four years; about 2 people in 3 meet it, between about 63 and 80. Ideals you have lived by meet pressure to change. I read it as a season for choosing which dreams to keep, never as disillusion."
+definition: "Transiting Pluto square natal Neptune comes when Pluto reaches 90° beyond the degree Neptune held at your birth, for two to four years; about 2 people in 3 meet it, between about 63 and 80. Ideals you have lived by meet pressure to change, and you choose which dreams to keep."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of transformation" }
   - { k: "Natal point", v: "Neptune ♆: ideals, faith and compassion" }
@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/neptune", "/astrology/square", "/astrology/neptune-square", "/astrology/neptune-square-pluto"]
 faq:
   - q: "What does transiting Pluto square natal Neptune mean?"
-    a: "Pluto in the sky is 90° from your Neptune, having crossed it decades earlier. I read it as a long stretch of friction between the ideals you have lived by and a need for deeper change: some dreams ask to be let go, others to be held more honestly, and compassion to find its limits."
+    a: "Decades after crossing your Neptune, Pluto reaches 90° beyond it. Between the ideals you have lived by and a need for deeper change, some dreams ask to be let go, others to be held more honestly, and compassion to find its limits."
   - q: "At what age does Pluto square Neptune come?"
     a: "In the sixties or seventies, for the two people in three who meet it by 80: for births on 1 January, at 65.9 in 1935, 65.1 in 1945, 66.2 in 1955, 69.3 in 1965 and 74.3 in 1975. For births on 1 January 1985, 1995 and 2005 it doesn’t come by 80."
   - q: "Is Pluto square Neptune the same as the Neptune square?"
     a: "No. The Neptune square is transiting Neptune 90° from its own birth place, which everyone meets at about 41. Pluto square natal Neptune is Pluto, not Neptune, reaching 90° from your Neptune, decades later and only for some birth years. The names sound alike, but they describe different seasons."
   - q: "How long does Pluto square Neptune last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after, and nearly four years in the longest passes. Pluto crosses the exact square three times in about three passes out of five, and five times in the others."
+    a: "About two years and eight months from 1½° before exact to 1° after, up to nearly four years when Pluto lingers. Count on three exact hits in most passes, and five in about two passes in five."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the ages at which Pluto squares natal Neptune, and how long it stays within my orbs" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Pluto’s transits to Neptune, read singly" }
@@ -43,7 +43,7 @@ Neptune's blind spots are the ones to watch: confusing compassion with unlimited
 
 It is easily confused with the [Neptune square](/astrology/neptune-square/), transiting Neptune 90° from its own place at about 41. This one is Pluto's, it follows Pluto's conjunction with your Neptune ([Transiting Pluto conjunct natal Neptune](/astrology/transiting-pluto-conjunct-natal-neptune/)), and nobody born from 1930 to 2009 has [Neptune square Pluto](/astrology/neptune-square-pluto/) at birth.
 
-With Neptune in your 9th, the square comes from around your 12th ([Pluto transiting the 12th house](/astrology/pluto-transit-12th-house/)) or your 6th: the beliefs and far horizons you lived by meet a quieter inner reckoning, or the demands of daily life. With Neptune in the 11th, it comes from near the 2nd or the 8th, and ideals shared with friends or causes meet the question of what you truly value. Which houses these are depends on the time you were born ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Neptune in your 9th, the square comes from around your 12th ([Pluto transiting the 12th house](/astrology/pluto-transit-12th-house/)) or your 6th: the beliefs and far horizons you lived by meet a quieter inner reckoning, or the demands of daily life. Which houses these are depends on the time you were born ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

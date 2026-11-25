@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Uranus", "trigone", "transits"]
 weight: 1836
 glyph: "♇△♅"
-definition: "Pluton en transit trigone Uranus du thème natal, c’est Pluton à 120° de la place natale d’Uranus pendant deux à quatre ans ; un peu moins de 2 personnes sur 3 le vivent avant 80 ans. Renouveau et envie de changement vont ensemble : la réforme frotte moins. J’y lis un changement qui suit le fil, jamais le changement pour lui-même."
+definition: "Pluton en transit trigone Uranus du thème natal accorde le renouveau de Pluton à la place natale d’Uranus, à 120°, pendant deux à quatre ans ; un peu moins de 2 personnes sur 3 le vivent avant 80 ans. Votre envie de changement rencontre moins de friction, et une réforme peut s’installer sans bouleversement."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète du renouveau" }
   - { k: "Point natal", v: "Uranus ♅ : la réforme, l’invention et l’indépendance" }
@@ -23,11 +23,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/uranus", "/astrology/trine", "/astrology/uranus-trine-pluto", "/astrology/transiting-pluto-trine-natal-pluto"]
 faq:
   - q: "Que veut dire Pluton en transit trigone Uranus ?"
-    a: "Pluton, dans le ciel, se trouve à 120° d’Uranus dans votre thème, en général dans un signe du même élément. J’y lis une longue saison où le renouveau et votre besoin de changement coopèrent : une réforme, une nouvelle façon de vivre ou de travailler, une organisation plus libre peuvent prendre forme avec moins de friction que d’habitude."
+    a: "Pluton forme un trigone à Uranus dans votre thème depuis un signe en général du même élément, et le renouveau et votre besoin de changement tirent ensemble. Une réforme, une nouvelle façon de vivre ou de travailler, ou un arrangement plus libre peuvent prendre forme avec moins de friction que d’habitude."
   - q: "À quel âge vient Pluton trigone Uranus ?"
-    a: "Cela dépend de votre année de naissance : pour une naissance un 1er janvier, le trigone est entré dans l’orbe à 19,7 ans en 1935, 29,9 ans en 1945, 38 ans en 1955 et 49,2 ans en 1965, et à 68,2 ans en 1975. Pour le 1er janvier 1985, 1995 et 2005, il ne vient pas avant 80 ans, et plus d’1 personne sur 3 ne le vit jamais."
+    a: "Plus la naissance est ancienne, plus ce trigone vient tôt : pour une naissance un 1er janvier, il est entré dans l’orbe à 19,7 ans en 1935, 29,9 ans en 1945, 38 ans en 1955 et 49,2 ans en 1965, et à 68,2 ans en 1975. Pour le 1er janvier 1985, 1995 et 2005, il ne vient pas avant 80 ans, et plus d’1 personne sur 3 ne le vit jamais."
   - q: "Combien de temps dure Pluton trigone Uranus ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et près de quatre ans pour les passages les plus longs. Pluton franchit le trigone exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres."
+    a: "Près de deux ans et huit mois dans mes orbes, de 1,5° avant l’exactitude à 1° après ; les passages les plus longs approchent quatre ans. Pluton se trouve exactement à 120° d’Uranus trois fois dans la plupart des passages, et cinq fois dans les autres."
   - q: "Est-ce que Pluton trigone Uranus est un bon moment pour changer de vie ?"
     a: "C’est un moment où les changements choisis rencontrent moins de résistance, ce qui n’est pas la même chose qu’un moment qui change les choses à votre place. Un trigone aide la réforme que vous êtes prête ou prêt à faire. Il ne promet aucun résultat, et je ne le lis pour aucun événement."
 sources:
@@ -38,19 +38,19 @@ Le trigone à Uranus dans votre thème natal est le moment où Pluton cesse de p
 
 ## Ce qui change {#ce-qui-change}
 
-[Uranus](/astrology/uranus/) innove et réforme : cette fonction interroge les arrangements hérités et met des solutions à l’essai. [Pluton](/astrology/pluto/) régénère, en laissant finir ce qui est fini pour que quelque chose de plus juste puisse pousser. Un [trigone](/astrology/trine/), à 120°, est un angle d’aisance : sous ce [transit](/astrology/transits/), la réforme arrive comme une amélioration que votre vie peut accueillir, et non comme un bouleversement. Des essais qu’il fallait autrefois défendre deviennent ordinaires ; une façon de travailler qui était nouvelle pour vous devient une méthode ; une liberté conquise dans la tension peut désormais se vivre sans avoir à être défendue.
+[Uranus](/astrology/uranus/) innove et réforme : cette fonction interroge les arrangements hérités et met des solutions à l’essai. [Pluton](/astrology/pluto/) régénère, en laissant finir ce qui est fini pour que quelque chose de plus juste puisse pousser. Un [trigone](/astrology/trine/), à 120°, est un angle d’aisance : sous ce [transit](/astrology/transits/), la réforme arrive comme une amélioration que votre vie peut accueillir, et non comme un bouleversement. Des essais qu’il fallait autrefois défendre deviennent ordinaires ; une façon de travailler qui était nouvelle pour vous devient une méthode.
 
 L’angle mort d’Uranus, ici, c’est de sous-estimer la valeur de la continuité. Quand le changement est aussi facile, on est tenté de tout changer, et le renouveau de Pluton marche mieux sur quelques choses faites à fond. La fluidité n’est pas non plus de la passivité : ce que le trigone rend facile reste à choisir.
 
-Aucune naissance entre 1930 et 2009 ne porte [Uranus trigone Pluton](/astrology/uranus-trine-pluto/) dans le thème : pour toutes les personnes comptées ici, ce trigone vient donc du dehors, et il marque les générations très différemment. Pour une naissance de 1930 à 1940, avec [Uranus carré Pluton](/astrology/uranus-square-pluto/), ce trigone est venu deux fois : dans la jeunesse, pendant la traversée du Lion par Pluton, puis vers 70 ans, depuis le Sagittaire ou le Capricorne. Dans les thèmes du milieu des années 1960, Uranus et Pluton se trouvaient ensemble en Vierge : ce trigone est donc venu vers 49 ans, au même moment que le trigone de Pluton à sa propre place ([Pluton en transit trigone Pluton du thème natal](/astrology/transiting-pluto-trine-natal-pluto/)), pendant les années de Pluton en Capricorne.
+Le ciel de 1930 à 2009 n’a jamais formé [Uranus trigone Pluton](/astrology/uranus-trine-pluto/) : pour toutes les personnes comptées ici, ce trigone vient donc du dehors, et il marque les générations très différemment. Pour une naissance de 1930 à 1940, avec [Uranus carré Pluton](/astrology/uranus-square-pluto/), ce trigone est venu deux fois : dans la jeunesse, pendant la traversée du Lion par Pluton, puis vers 70 ans, depuis le Sagittaire ou le Capricorne. Dans les thèmes du milieu des années 1960, Uranus et Pluton se trouvaient ensemble en Vierge : ce trigone est donc venu vers 49 ans, au même moment que le trigone de Pluton à sa propre place ([Pluton en transit trigone Pluton du thème natal](/astrology/transiting-pluto-trine-natal-pluto/)), pendant les années de Pluton en Capricorne.
 
-Avec Uranus en maison 8, le trigone vient des environs de la maison 12 ([Pluton en transit en maison 12](/astrology/pluto-transit-12th-house/)) ou de la maison 4 : un travail mené en privé, ou chez vous, rend plus facile un changement profond dans ce que vous partagez avec les autres. Avec Uranus en maison 3, le trigone vient des environs de la maison 7 ou 11, et un partenaire ou un groupe aide une nouvelle façon de penser à s’installer. Les deux maisons dépendent de la minute de votre naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Uranus en maison 8, le trigone vient des environs de la maison 12 ([Pluton en transit en maison 12](/astrology/pluto-transit-12th-house/)) ou de la maison 4 : un travail mené en privé, ou chez vous, rend plus facile un changement profond dans ce que vous partagez avec les autres. Les deux maisons dépendent de la minute de votre naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
-Sa durée est celle des transits de Pluton en général. Entre 1,5° avant l’exactitude et 1° après, la fenêtre que j’utilise, le trigone dure environ deux ans et huit mois, et près de quatre ans pour les passages les plus longs ; trois passages exacts viennent dans environ trois cas sur cinq, et cinq, sur trois ans et sept mois environ, dans les autres.
+Entre 1,5° avant l’exactitude et 1° après, la fenêtre que j’utilise, le trigone dure environ deux ans et huit mois, et près de quatre ans pour les passages les plus longs ; trois passages exacts viennent dans environ trois cas sur cinq, et cinq, sur trois ans et sept mois environ, dans les autres.
 
-Un peu moins de 2 personnes sur 3 nées entre 1930 et 2009 le vivent avant 80 ans, et plus d’1 sur 3 ne le vivent jamais. Une naissance le 1er janvier 1935 est entrée dans l’orbe à 19,7 ans, et la même date en 1945, 1955, 1965 et 1975 à 29,9, 38, 49,2 et 68,2 ans ; à partir de 1985, le trigone se situe au-delà de 80 ans.
+Un peu moins de 2 personnes sur 3 nées entre 1930 et 2009 le vivent avant 80 ans. Une naissance le 1er janvier 1935 est entrée dans l’orbe à 19,7 ans, et la même date en 1945, 1955, 1965 et 1975 à 29,9, 38, 49,2 et 68,2 ans ; à partir de 1985, le trigone se situe au-delà de 80 ans.
 
 Les personnes qui le vivent dans les années 2020 et 2030 sont nées de 1968 à 1975, avec Uranus en Balance, et Pluton en Verseau leur apporte ce trigone jusqu’au début de 2044, entre 54 et 70 ans environ.
 

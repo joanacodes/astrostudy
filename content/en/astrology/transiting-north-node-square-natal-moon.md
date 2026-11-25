@@ -15,8 +15,9 @@ facts:
   - { k: "Natal point", v: "The Moon ☽: your needs, and what keeps you steady" }
   - { k: "Aspect", v: "Square □, 90°" }
   - { k: "One pass", v: "About a month; 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "8 or 9 times; nobody misses it" }
+  - { k: "In my forecast", v: "Left out: your Moon is midway between the nodes" }
 related: ["/astrology/north-node", "/astrology/moon", "/astrology/square", "/astrology/moon-square-north-node", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "What does transiting North Node square natal Moon mean?"
@@ -24,7 +25,7 @@ faq:
   - q: "Is North Node square Moon a bad transit?"
     a: "No. A square is friction, and friction asks for adjustment, not punishment. Here it tends to show where a plan has no room for what you need. The month passes either way; what it can leave behind is a plan that knows a little more about you."
   - q: "How long does the North Node square my Moon?"
-    a: "With my orbs, which open 1½° before exact and close 1° after, about a month. An eclipse season can slow the node enough to stretch it to three and a half months or more, as happens in one pass out of ten. The square comes back about every nine years, from alternate sides, eight or nine times by 80."
+    a: "With my orbs, which open 1½° before exact and close 1° after, about a month. An eclipse season can slow the node so much that the square lasts three and a half months or more, as happens in one pass out of ten. The square comes back about every nine years, from alternate sides, eight or nine times by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the square within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to the natal Moon" }
@@ -38,7 +39,7 @@ The [Moon](/astrology/moon/) holds your needs: comfort, attachment, the rhythm o
 
 In plain words, a need that doesn't fit the plan asks to be fitted in. You may notice it as tiredness at the wrong moment, as a pull towards home just when the next step wants you out, or as an old routine that no longer settles you while the new one doesn't yet. Friction here isn't failure: it's the moment a plan learns what your Moon requires, and a direction that leaves out what you need doesn't hold for long.
 
-The sky shows the geometry plainly. A quarter of the way round from its nodes, the Moon's path is as far from the Sun's as it ever gets, a little over 5°, so in these weeks the Moon reaches your Moon's degree well north or well south of the Sun's path, never on it.
+The sky shows the geometry plainly. A quarter of the way round from its nodes, the Moon's path is as far from the Sun's as it ever gets, a little over 5°, so in these weeks the Moon reaches your Moon's degree well north or well south of the Sun's path, never on it. With no crossing near your Moon, my forecast has nothing to list: it counts the node only when a crossing sits on your Moon or opposite it.
 
 With your [Moon in the 10th house](/astrology/moon-in-10th-house/), the friction often runs between what keeps you feeling safe and what your work or public role expects. The Moon's house, and its exact degree, come from your birth time, which is why I don't read this square without it ([what changes without a birth time](/blog/unknown-birth-time/)). And if the friction turns into a low mood or an anxiety that doesn't lift, that is a matter for someone trained to help, not for a chart ([astrology and mental health](/astrology/astrology-and-mental-health/)).
 

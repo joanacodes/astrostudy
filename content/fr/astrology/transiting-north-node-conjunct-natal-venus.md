@@ -16,8 +16,9 @@ facts:
   - { k: "Point natal", v: "Vénus ♀ : ce que vous appréciez, ce qui vous plaît et vous attire" }
   - { k: "Aspect", v: "Conjonction ☌, 0°, avec le Nœud Sud en face de votre Vénus" }
   - { k: "Un passage", v: "Un mois environ ; 3 mois et demi ou plus une fois sur 10" }
-  - { k: "Avec une boucle rétrograde", v: "Trois passages exacts en 3 mois et demi environ, une fois sur 25 environ" }
+  - { k: "Avec une boucle", v: "Trois contacts exacts en 3 mois et demi environ, une fois sur 25 environ" }
   - { k: "Avant 80 ans", v: "4 ou 5 fois ; personne n’y échappe" }
+  - { k: "Dans ma prévision", v: "Compté : le Nœud Nord est sur votre Vénus" }
 related: ["/astrology/north-node", "/astrology/venus", "/astrology/venus-conjunct-north-node", "/astrology/venus-in-2nd-house", "/astrology/transits"]
 faq:
   - q: "Que veut dire le Nœud Nord en transit conjonction Vénus natale ?"

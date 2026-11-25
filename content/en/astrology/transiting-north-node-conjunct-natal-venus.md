@@ -15,8 +15,9 @@ facts:
   - { k: "Natal point", v: "Venus ♀: what you value, enjoy and are drawn to" }
   - { k: "Aspect", v: "Conjunction ☌, 0°, with the South Node opposite your Venus" }
   - { k: "One pass", v: "About a month; 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "4 or 5 times; nobody misses it" }
+  - { k: "In my forecast", v: "Counted: the North Node is on your Venus" }
 related: ["/astrology/north-node", "/astrology/venus", "/astrology/venus-conjunct-north-node", "/astrology/venus-in-2nd-house", "/astrology/transits"]
 faq:
   - q: "What does transiting North Node conjunct natal Venus mean?"
@@ -42,7 +43,7 @@ With [Venus in the 2nd house](/astrology/venus-in-2nd-house/) in your chart, the
 
 ## How long it lasts {#how-long-it-lasts}
 
-My forecast counts a transit from 1½° before exact until 1° after; the true node usually spends about a month inside that span, roughly the time Venus itself takes to cross a sign of the sky. Passes vary with the Sun. A tenth are done in three and a half weeks; those that overlap an eclipse season, when the node barely moves, run to three and a half months or more, and roughly one pass in twenty-five has three exact hits. The summer of 2027 has one: with Venus near 11° or 12° Aquarius, the node sits on it from June to September, and the total solar eclipse of 2 August, at 9°55′ Leo, falls opposite ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
+My forecast counts a transit from 1½° before exact until 1° after; the true node is usually inside that span for about a month, roughly the time Venus itself takes to cross a sign of the sky. Passes vary with the Sun. A tenth are done in three and a half weeks; those that overlap an eclipse season, when the node barely moves, run to three and a half months or more, and roughly one pass in twenty-five has three exact hits. The summer of 2027 has one: with Venus near 11° or 12° Aquarius, the node sits on it from June to September, and the total solar eclipse of 2 August, at 9°55′ Leo, falls opposite ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
 
 Four or five such months come by 80, one in every round. From here the node works its way round your chart: the sextiles, squares and trines ([Transiting North Node sextile natal Venus](/astrology/transiting-north-node-sextile-natal-venus/), [Transiting North Node square natal Venus](/astrology/transiting-north-node-square-natal-venus/), [Transiting North Node trine natal Venus](/astrology/transiting-north-node-trine-natal-venus/)) come in pairs on either side of [Transiting North Node opposite natal Venus](/astrology/transiting-north-node-opposite-natal-venus/), which falls about nine years on. If [Venus conjunct North Node](/astrology/venus-conjunct-north-node/) is part of your chart, every nodal return lays the node back on your Venus.
 

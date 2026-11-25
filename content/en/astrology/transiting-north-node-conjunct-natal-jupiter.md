@@ -15,9 +15,10 @@ facts:
   - { k: "Natal point", v: "Jupiter ♃: meaning, principles and the sense of what could grow" }
   - { k: "Aspect", v: "Conjunction ☌, 0°, with the South Node opposite your Jupiter" }
   - { k: "One pass", v: "About a month; 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "First time", v: "Between birth and about 18½ (9 in the middle), set by the birth year" }
   - { k: "By 80", v: "4 or 5 times; nobody misses it" }
+  - { k: "In my forecast", v: "Counted: the North Node is on your Jupiter" }
 related: ["/astrology/north-node", "/astrology/jupiter", "/astrology/jupiter-conjunct-north-node", "/astrology/jupiter-in-11th-house", "/astrology/transits"]
 faq:
   - q: "What does transiting North Node conjunct natal Jupiter mean?"
@@ -35,7 +36,7 @@ Jupiter and the North Node both speak of growth, in different tongues: Jupiter o
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) widens: it makes meaning out of experience, gathers principles, sees what could grow. The [North Node](/astrology/north-node/) also points to growth, of another kind: a capacity built by repeating it. A [conjunction](/astrology/conjunction/) fuses the two, so under this [transit](/astrology/transits/) a larger view and a daily practice can finally belong to each other: the belief gets a habit, the habit gets a reason.
+[Jupiter](/astrology/jupiter/) widens: it makes meaning out of experience, gathers principles, sees what could grow. The [North Node](/astrology/north-node/) also points to growth, of another kind: a capacity built by repeating it. In a [conjunction](/astrology/conjunction/) the two work as one for a while, and under this [transit](/astrology/transits/) a larger view and a daily practice can finally belong to each other: the belief gets a habit, the habit gets a reason.
 
 That is the useful side of a meeting between two growth points. The less useful side is too much vision: plans too large to practise, or the feeling that a new direction must be right because it feels meaningful. Expansion isn't excess, and unfamiliarity proves nothing. The [South Node](/astrology/south-node/), opposite, holds the beliefs and generosities you have practised for years, and they can travel with you.
 
@@ -43,9 +44,9 @@ With [Jupiter in the 11th house](/astrology/jupiter-in-11th-house/), where tradi
 
 ## How long it lasts {#how-long-it-lasts}
 
-The node's time on your Jupiter, from 1½° before exact to 1° after, is usually about a month. A tenth of passes are over in three and a half weeks, while those caught in an eclipse season, when the true node all but stands still, run three and a half months or more; three exact hits come in about one pass in twenty-five.
+The node's time on your Jupiter, from 1½° before exact to 1° after, is usually about a month. One pass in ten is done within three and a half weeks, while those caught in an eclipse season, when the true node all but stands still, run three and a half months or more; three exact hits come in about one pass in twenty-five.
 
-Jupiter moves on about a sign a year, so the age at which the node first reaches it depends on your birth year. Across births from 1930 to 2009, the first came anywhere from the first weeks of life to about 18½, at 9 in the middle. Born at the start of 1965, you met it before you were 2 and again at about 20, 39, 57 and 76; born at the start of 1995, not until about 17, then at about 36, 54 and 73. The first always falls before adulthood, and I don't read [children's charts](/astrology/childrens-charts/); an adult can look back on it, nothing more.
+Jupiter moves on about a sign a year, so the age at which the node first reaches it depends on your birth year. Across births from 1930 to 2009, the first came at any age from infancy to about 18½, at 9 in the middle. With a birth at the start of 1965, it came before the age of 2 and again at about 20, 39, 57 and 76; with one at the start of 1995, not until about 17, then at about 36, 54 and 73. The first always falls before adulthood, and I don't read [children's charts](/astrology/childrens-charts/); an adult can look back on it, nothing more.
 
 The rest of the round brings [Transiting North Node sextile natal Jupiter](/astrology/transiting-north-node-sextile-natal-jupiter/), [Transiting North Node square natal Jupiter](/astrology/transiting-north-node-square-natal-jupiter/) and [Transiting North Node trine natal Jupiter](/astrology/transiting-north-node-trine-natal-jupiter/) twice each, and [Transiting North Node opposite natal Jupiter](/astrology/transiting-north-node-opposite-natal-jupiter/) once, at the halfway point. With [Jupiter conjunct North Node](/astrology/jupiter-conjunct-north-node/) at birth, your nodal returns are this transit.
 

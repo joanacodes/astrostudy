@@ -16,8 +16,9 @@ facts:
   - { k: "Point natal", v: "La Lune ☽ : vos besoins, vos habitudes et votre sentiment de sécurité" }
   - { k: "Aspect", v: "Conjonction ☌, 0°, avec le Nœud Sud en face de votre Lune" }
   - { k: "Un passage", v: "Un mois environ (34 jours au milieu) ; 3 mois et demi ou plus une fois sur 10" }
-  - { k: "Avec une boucle rétrograde", v: "Trois passages exacts en 3 mois et demi environ, une fois sur 25 environ" }
+  - { k: "Avec une boucle", v: "Trois contacts exacts en 3 mois et demi environ, une fois sur 25 environ" }
   - { k: "Avant 80 ans", v: "4 ou 5 fois ; personne n’y échappe" }
+  - { k: "Dans ma prévision", v: "Compté : le Nœud Nord est sur votre Lune" }
 related: ["/astrology/north-node", "/astrology/moon", "/astrology/moon-conjunct-north-node", "/astrology/eclipses-on-your-natal-planets", "/astrology/transits"]
 faq:
   - q: "Que veut dire le Nœud Nord en transit conjonction Lune natale ?"

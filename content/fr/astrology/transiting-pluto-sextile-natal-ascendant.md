@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Ascendant", "sextile", "transits"]
 weight: 1848
 glyph: "♇⚹AC"
-definition: "Pluton en transit sextile Ascendant du thème natal, c’est Pluton à 60° de votre degré ascendant pendant deux à quatre ans ; environ 3 personnes sur 4 le vivent avant 80 ans, certaines deux fois. Une fenêtre s’ouvre pour changer, par choix, votre façon d’aborder le monde. Il faut l’heure de naissance. J’y lis une invitation, jamais une garantie."
+definition: "Pluton en transit sextile Ascendant du thème natal maintient Pluton à 60° de votre degré ascendant pendant deux à quatre ans ; environ 3 personnes sur 4 le vivent avant 80 ans, certaines deux fois. Vous pouvez changer, par choix, votre façon d’aborder le monde. L’heure de naissance le date, et c’est une invitation, pas une garantie."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète du renouveau" }
   - { k: "Point natal", v: "L’Ascendant (AC) : votre façon d’entrer ; il demande l’heure de naissance" }
@@ -23,9 +23,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/ascendant", "/astrology/sextile", "/astrology/pluto-transit-11th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Pluton sextile Ascendant ?"
-    a: "Pluton, dans le ciel, se trouve à 60° du degré qui se levait à votre naissance. J’y lis une longue ouverture où le renouveau soutient votre façon d’aborder le monde : vous pouvez changer votre manière de vous présenter, de commencer les choses ou de prendre votre place, délibérément et avec moins de résistance que d’habitude."
+    a: "Pluton forme un sextile à votre degré ascendant : le renouveau soutient votre façon d’aborder le monde. Vous pouvez changer votre manière de vous présenter, de commencer les choses ou de prendre votre place, délibérément et avec moins de résistance que d’habitude."
   - q: "Combien de temps dure Pluton sextile Ascendant ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ au plus rapide. Pluton franchit le sextile exact trois fois dans environ trois passages sur cinq ; les autres comptent cinq passages exacts."
+    a: "Comptez environ deux ans et huit mois, ou vingt-deux mois si Pluton va vite, dans mes orbes de 1,5° avant l’exactitude et 1° après."
   - q: "Quand vient le sextile de Pluton à mon Ascendant ?"
     a: "C’est votre heure de naissance qui le dit. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le sextile touche l’Ascendant Bélier et l’Ascendant Sagittaire, les premiers degrés d’abord. Environ 3 personnes sur 4 nées entre 1930 et 2009 le vivent avant 80 ans, et certaines deux fois, une de chaque côté de l’Ascendant."
   - q: "Est-ce que Pluton sextile Ascendant est un bon moment pour un nouveau départ ?"

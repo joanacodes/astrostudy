@@ -15,8 +15,9 @@ facts:
   - { k: "Natal point", v: "Mars ♂: initiative, drive and the effort that turns plans into facts" }
   - { k: "Aspect", v: "Trine △, 120°" }
   - { k: "One pass", v: "About a month (34 days in the middle case); 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "8 or 9 times; nobody misses it" }
+  - { k: "In my forecast", v: "Left out: only the node’s conjunctions and oppositions go in" }
 related: ["/astrology/north-node", "/astrology/mars", "/astrology/trine", "/astrology/mars-trine-north-node", "/astrology/mars-in-10th-house"]
 faq:
   - q: "What does transiting North Node trine natal Mars mean?"
@@ -44,9 +45,9 @@ To find your own trines, count four signs either way from your Mars: those are t
 
 ## How long it lasts {#how-long-it-lasts}
 
-Allowing 1½° before exact and 1° after, as I do for every transit in a forecast, the trine usually lasts about a month. The true node's pace sets the spread: quick passes of three and a half weeks when the Sun is far from the nodes, slow ones, in an eclipse season, of three and a half months and more, and three exact contacts about once in twenty-five passes.
+Allowing 1½° before exact and 1° after, the orbs I give every transit, the trine usually lasts about a month. The true node's pace sets the spread: quick passes of three and a half weeks when the Sun is far from the nodes, slow ones, in an eclipse season, of three and a half months and more, and three exact contacts about once in twenty-five passes.
 
-With nine trines by 80 for most people, eight at the fewest, this is one of the node's commoner contacts with Mars, along with [Transiting North Node sextile natal Mars](/astrology/transiting-north-node-sextile-natal-mars/) and [Transiting North Node square natal Mars](/astrology/transiting-north-node-square-natal-mars/); the conjunction ([Transiting North Node conjunct natal Mars](/astrology/transiting-north-node-conjunct-natal-mars/)) and the opposition ([Transiting North Node opposite natal Mars](/astrology/transiting-north-node-opposite-natal-mars/)) come half as often. If you were born with [Mars trine North Node](/astrology/mars-trine-north-node/), your nodal returns are trines of this kind, at about 18½, 37 and 56.
+With nine trines by 80 for most people, eight at the fewest, this is one of the node's commoner contacts with Mars, along with [Transiting North Node sextile natal Mars](/astrology/transiting-north-node-sextile-natal-mars/) and [Transiting North Node square natal Mars](/astrology/transiting-north-node-square-natal-mars/); the conjunction ([Transiting North Node conjunct natal Mars](/astrology/transiting-north-node-conjunct-natal-mars/)) and the opposition ([Transiting North Node opposite natal Mars](/astrology/transiting-north-node-opposite-natal-mars/)) come half as often, and they are the only two my forecast counts, because only they put one end of the axis on your Mars. If you were born with [Mars trine North Node](/astrology/mars-trine-north-node/), your nodal returns are trines of this kind, at about 18½, 37 and 56.
 
 ## What helps {#what-helps}
 

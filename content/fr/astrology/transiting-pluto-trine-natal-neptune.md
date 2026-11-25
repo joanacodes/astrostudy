@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Neptune", "trigone", "transits"]
 weight: 1841
 glyph: "♇△♆"
-definition: "Pluton en transit trigone Neptune du thème natal, c’est Pluton à 120° au-delà du degré natal de Neptune pendant deux à quatre ans ; 1 personne sur 6 seulement le vit avant 80 ans, à 78 ans ou plus. Renouveau et imagination vont ensemble, tard dans la vie. J’y lis une réconciliation tardive et facile avec vos idéaux, jamais une fin."
+definition: "Pluton en transit trigone Neptune du thème natal est l’un des transits de Pluton les plus tardifs : Pluton à 120° au-delà du degré natal de Neptune pendant deux à quatre ans, que seule 1 personne sur 6 vit avant 80 ans, à 78 ans ou plus. Une longue vie y fait la paix avec ses idéaux."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète du renouveau" }
   - { k: "Point natal", v: "Neptune ♆ : les idéaux, la foi et l’imagination" }
@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/neptune", "/astrology/trine", "/astrology/neptune-trine-pluto", "/astrology/transiting-pluto-conjunct-natal-neptune"]
 faq:
   - q: "Que veut dire Pluton en transit trigone Neptune ?"
-    a: "Pluton, dans le ciel, se trouve à 120° au-delà de Neptune dans votre thème, des décennies après avoir franchi la place de Neptune. J’y lis une saison tardive où le renouveau et l’imagination coopèrent : les idéaux et la foi d’une longue vie peuvent être regardés sans tension, gardés ou laissés, et transmis sous une forme dont d’autres pourront se servir."
+    a: "Tard dans la vie, si cela arrive, Pluton atteint 120° au-delà de Neptune dans votre thème, des décennies après avoir franchi la place de Neptune. Le renouveau et l’imagination avancent alors ensemble : les idéaux et la foi d’une longue vie peuvent être regardés avec aisance, gardés ou laissés, et transmis sous une forme utile à d’autres."
   - q: "Qui vit Pluton trigone Neptune ?"
     a: "Peu de monde, et tard. Parmi les naissances de 1930 à 2009, environ 1 sur 6 le vit avant 80 ans : celles des années 1930 et du début des années 1940, entre 78 et 81 ans environ, pendant la traversée du Capricorne par Pluton. Les personnes nées de 1943 à 1957 le vivent entre 79 et 86 ans environ, pendant les années de Pluton en Verseau."
   - q: "Pourquoi Pluton trigone Neptune est si rare ?"
     a: "Parce que dans chaque thème de ces années, Pluton commençait derrière Neptune, à 45° à 65° environ. Pour atteindre le trigone, Pluton doit d’abord franchir la place de Neptune, ce qui prend 22 à 30 ans, puis parcourir encore 120°, ce qui prend des décennies de plus : au rythme de Pluton, le trajet complet dure près de 80 ans ou davantage."
   - q: "Combien de temps dure Pluton trigone Neptune ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus rapides. Pluton franchit le trigone exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres."
+    a: "Si vous le vivez, environ deux ans et huit mois, entre 1,5° avant l’exactitude et 1° après, et vingt-deux mois environ si Pluton va vite."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "qui vit le trigone avant 80 ans, et sa durée dans mes orbes" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Neptune, pris un à un" }

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Saturne", "carré", "transits"]
 weight: 1830
 glyph: "♇□♄"
-definition: "Pluton en transit carré Saturne du thème natal, c’est Pluton à 90° de la place natale de Saturne pendant deux à quatre ans ; 6 personnes sur 7 le vivent une fois avant 80 ans. Garder vos structures ou les remanier : la friction les fait évoluer. J’y lis une pression qui rebâtit, jamais une punition."
+definition: "Pluton en transit carré Saturne du thème natal, ce sont deux à quatre ans de Pluton à 90° de la place natale de Saturne ; 6 personnes sur 7 le vivent une fois avant 80 ans. Garder vos structures ou les remanier : la friction les fait évoluer. J’y vois une pression qui rebâtit, jamais une punition."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la transformation" }
   - { k: "Point natal", v: "Saturne ♄ : la structure, le devoir et les limites" }
@@ -23,9 +23,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/saturn", "/astrology/square", "/astrology/saturn-square-pluto", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "Que veut dire Pluton en transit carré Saturne ?"
-    a: "Pluton, dans le ciel, se trouve à 90° de Saturne dans votre thème, la part qui tient la structure et la responsabilité. J’y lis une longue période de friction entre garder les cadres sur lesquels vous comptez et les remanier par en dessous : charges, règles et engagements sont mis à l’épreuve, et ceux qui s’adaptent en sortent renforcés."
+    a: "Pluton se trouve à angle droit de Saturne dans votre thème, la part qui tient la structure et la responsabilité, et les deux fonctions ne cessent de s’accrocher. Charges de travail, règles et engagements sont mis à l’épreuve, entre garder les cadres sur lesquels vous comptez et les reprendre par en dessous, et ceux qui s’adaptent en sortent plus solides."
   - q: "Combien de temps dure Pluton carré Saturne ?"
-    a: "Environ deux ans et huit mois avec les orbes que j’utilise, de 1,5° avant l’exactitude à 1° après, et jusqu’à trois ans et neuf mois environ. Dans environ trois passages sur cinq, Pluton franchit le carré exact trois fois ; dans les autres, cinq fois."
+    a: "En général deux ans et huit mois, de 1,5° avant l’exactitude à 1° après, et jusqu’à trois ans et neuf mois. Comme Pluton revient en arrière chaque année, le carré devient exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres."
   - q: "Quand vient le carré de Pluton à Saturne dans mon thème ?"
     a: "À un âge fixé par la position de Saturne à votre naissance : pour une naissance un 1er janvier, à 2 ans en 1975, 28,8 ans en 1945, 30 ans en 1965 et 53,2 ans en 1985. Tant que Pluton traverse le Verseau, jusqu’au début de 2044, le carré touche Saturne en Taureau et en Scorpion. Environ 1 personne sur 7 ne le vit jamais avant 80 ans."
   - q: "Est-ce que Pluton carré Saturne est dangereux ?"
@@ -40,11 +40,11 @@ sources:
 
 [Saturne](/astrology/saturn/) établit la structure : les règles, les rôles, les engagements, les limites qui rendent possible le travail de longue haleine. [Pluton](/astrology/pluto/) retire ce qui est devenu obsolète, pour que quelque chose de plus viable puisse pousser. Un [carré](/astrology/square/), à 90°, rend la friction constructive mais constante : Pluton ne peut pas simplement remplacer les règles de Saturne, et Saturne ne peut pas tenir Pluton à l’écart. Sous ce [transit](/astrology/transits/), une charge de travail peut devenir impossible à porter telle quelle, une règle de vie peut perdre son sens, et une structure qui vous a servi des années peut demander à être repensée avant de servir à nouveau.
 
-La tension centrale de Saturne se situe entre la structure nécessaire et le contrôle excessif, et ce carré se pose exactement dessus. Le réflexe est de tenir plus fort : plus d’heures, des règles plus strictes, moins d’exceptions. Ce qui marche mieux, en général, c’est la question inverse : quelles parties peuvent changer sans que le reste s’écroule ? Un défi n’est pas une punition, et la pression vous montre où une structure ne correspond plus à votre vie.
+La tension centrale de Saturne se situe entre la structure nécessaire et le contrôle excessif, et ce carré se pose exactement dessus. Le réflexe est de tenir plus fort : plus d’heures, des règles plus strictes, moins d’exceptions. Mieux vaut, en général, la question inverse : quelles parties peuvent changer sans que le reste s’écroule ?
 
-Comme 6 personnes sur 7 le vivent, c’est le contact de Pluton à Saturne que connaissent la plupart des adultes. Si votre naissance porte [Saturne carré Pluton](/astrology/saturn-square-pluto/), vous l’avez vécu dans la petite enfance ou le vivrez très tard : pour une naissance le 1er janvier 1975 ou 1995, le carré est venu à 2 et 3 ans ; pour le 1er janvier 1955, à 79,2 ans.
+Si votre naissance porte [Saturne carré Pluton](/astrology/saturn-square-pluto/), vous l’avez vécu dans la petite enfance ou le vivrez très tard : pour une naissance le 1er janvier 1975 ou 1995, le carré est venu à 2 et 3 ans ; pour le 1er janvier 1955, à 79,2 ans.
 
-Les maisons disent où la friction mord. Avec Saturne en maison 10, le carré vient des environs de la maison 1 ([Pluton en transit en maison 1](/astrology/pluto-transit-1st-house/)) ou de la maison 7 : la personne que vous devenez, ou un lien proche, pèse sur le rôle que vous avez construit. Avec Saturne en maison 4, la pression tombe sur les devoirs du foyer. Les planètes proches de Saturne à votre naissance partagent la saison, et votre heure de naissance place le tout ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si une telle période pèse sur votre moral pendant des semaines, c’est l’affaire d’un médecin ou d’une ou d’un thérapeute, jamais d’un thème ([Astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
+Les maisons disent où la friction mord. Avec Saturne en maison 10, le carré vient des environs de la maison 1 ([Pluton en transit en maison 1](/astrology/pluto-transit-1st-house/)) ou de la maison 7 : la personne que vous devenez, ou un lien proche, pèse sur le rôle que vous avez construit. Avec Saturne en maison 4, la pression tombe sur les devoirs du foyer. Votre heure de naissance place le tout ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si une telle période pèse sur votre moral pendant des semaines, c’est l’affaire d’un médecin ou d’une ou d’un thérapeute, jamais d’un thème ([Astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
 
 ## Combien de temps {#combien-de-temps}
 
@@ -52,7 +52,7 @@ Un carré de Pluton à Saturne n’a rien de bref : avec mes orbes de 1,5° ava
 
 Environ 6 personnes sur 7 nées entre 1930 et 2009 le vivent avant 80 ans, et aucune deux fois : les deux points de carré se font face d’un bout à l’autre du zodiaque, et Pluton met plus de 80 ans à parcourir le demi-cercle qui les sépare. Les âges se dispersent : 28,8 ans pour une naissance le 1er janvier 1945, 30 ans pour 1965, 53,2 ans pour 1985 et 57,9 ans pour 1935, et rien avant 80 ans pour le 1er janvier 2005.
 
-Le séjour de Pluton en Verseau, jusqu’au début de 2044, place sous ce carré Saturne en Taureau et en Scorpion. Les âges vont ainsi : pour les naissances de 1998 à 2001 (Saturne en Taureau), de 24 à 42 ans environ ; de 1982 à 1985 (Saturne en Scorpion), de 39 à 57 ans ; de 1969 à 1972 (Saturne en Taureau), de 54 à 72 ans.
+Le séjour de Pluton en Verseau, jusqu’au début de 2044, place sous ce carré Saturne en Taureau et en Scorpion : pour les naissances de 1998 à 2001 (Saturne en Taureau), de 24 à 42 ans environ ; de 1982 à 1985 (Saturne en Scorpion), de 39 à 57 ans.
 
 Les autres contacts sont plus rares. Environ 3 personnes sur 4 connaissent le sextile ([Pluton en transit sextile Saturne du thème natal](/astrology/transiting-pluto-sextile-natal-saturn/)), près de 4 sur 5 le trigone ([Pluton en transit trigone Saturne du thème natal](/astrology/transiting-pluto-trine-natal-saturn/)), un peu moins de la moitié l’opposition ([Pluton en transit opposition Saturne du thème natal](/astrology/transiting-pluto-opposite-natal-saturn/)) et 2 sur 5 la conjonction ([Pluton en transit conjonction Saturne du thème natal](/astrology/transiting-pluto-conjunct-natal-saturn/)).
 

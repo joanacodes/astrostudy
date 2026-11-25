@@ -15,8 +15,9 @@ facts:
   - { k: "Natal point", v: "Mars ♂: motivation, initiative and the effort that gets things done" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
   - { k: "One pass", v: "About a month; 3½ months or more for 1 pass in 10" }
-  - { k: "With a retrograde loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
+  - { k: "With a loop", v: "Three exact hits over about 3½ months, in about 1 pass in 25" }
   - { k: "By 80", v: "8 or 9 times; nobody misses it" }
+  - { k: "In my forecast", v: "Left out: only the node’s conjunctions and oppositions go in" }
 related: ["/astrology/north-node", "/astrology/mars", "/astrology/sextile", "/astrology/mars-sextile-north-node", "/astrology/mars-in-3rd-house"]
 faq:
   - q: "What does transiting North Node sextile natal Mars mean?"
@@ -41,7 +42,7 @@ With your [Mars in the 3rd house](/astrology/mars-in-3rd-house/), the house of e
 
 A transit to Mars also reaches the houses Mars rules: the one with Aries on its cusp, and the one with Scorpio, whose two rulers I read together, Mars from the tradition and Pluto from modern tropical astrology. So this sextile can open a door in either of those houses as well.
 
-Mars in Virgo or Capricorn, for example, gets its next sextile in the node's Scorpio years, March 2031 to December 2032, with the exact month set by the degree of your Mars.
+Mars in Virgo or Capricorn, for example, gets its next sextile in the node's Scorpio years, March 2031 to December 2032, with the exact month set by the degree of your Mars. That month won't appear in my forecast, which leaves out every aspect of the node but the conjunction and the opposition.
 
 ## How long it lasts {#how-long-it-lasts}
 

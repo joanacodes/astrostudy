@@ -39,7 +39,7 @@ A trine from Pluto gives your Sun the deep end of change without the usual strug
 
 [Pluto](/astrology/pluto/) stands for renewal after release, the part of a life that grows back stronger where something was let go. Your [Sun](/astrology/sun/) is your sense of who you are and what you are for. A [trine](/astrology/trine/), 120°, lets the two run together, and under this [transit](/astrology/transits/) a change of direction can happen without a crisis to force it: a vocation deepens, a responsibility you were ready for becomes easy to take on, a self-image you had outgrown falls away quietly.
 
-Pluto's blind spot here is confusing exposure with humiliation. Real change shows, and a trine makes it easier to let people see you as you are becoming, unfinished, without feeling shamed by it. The Sun's caution is that recognition is not fame: being seen more truly by the people around you is the gain, whatever the size of the audience.
+What a Pluto trine helps undo is the old confusion of exposure with humiliation. Real change shows, and a trine makes it easier to let people see you as you are becoming, unfinished, without feeling shamed by it. The Sun's caution is that recognition is not fame: being seen more truly by the people around you is the gain, whatever the size of the audience.
 
 Flow is not passivity, though. The trine carries what you set moving, and carries nothing otherwise.
 

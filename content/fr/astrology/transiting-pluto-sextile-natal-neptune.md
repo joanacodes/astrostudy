@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Neptune", "sextile", "transits"]
 weight: 1839
 glyph: "♇⚹♆"
-definition: "Pluton en transit sextile Neptune du thème natal, c’est Pluton à 60° de la place natale de Neptune pendant deux à quatre ans ; presque tout le monde le vit, la moitié deux fois, souvent d’abord bébé. Le renouveau donne une forme praticable à un idéal. J’y lis une chance de rendre un rêve concret, jamais la promesse qu’il se réalisera."
+definition: "Pluton en transit sextile Neptune du thème natal relie Pluton et la place natale de Neptune à 60° pendant deux à quatre ans ; presque tout le monde le vit, la moitié deux fois, souvent d’abord bébé. Le renouveau peut donner une forme praticable à un idéal, si vous y mettez le travail, sans rien promettre de plus."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète du renouveau" }
   - { k: "Point natal", v: "Neptune ♆ : l’imagination, la compassion et les idéaux" }
@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/neptune", "/astrology/sextile", "/astrology/neptune-sextile-pluto", "/astrology/transiting-pluto-conjunct-natal-neptune"]
 faq:
   - q: "Que veut dire Pluton en transit sextile Neptune ?"
-    a: "Pluton, dans le ciel, se trouve à 60° de Neptune dans votre thème. J’y lis une longue ouverture où le renouveau et l’imagination coopèrent : un idéal, un projet créatif ou un engagement de compassion peuvent recevoir une forme concrète et durable, si vous vous en saisissez. Ce transit décrit une occasion, pas un résultat."
+    a: "Pluton se trouve à 60° de Neptune dans votre thème, et l’imagination trouve une alliée dans le renouveau. Un idéal, un projet créatif ou un engagement de compassion peuvent recevoir une forme concrète et durable, à condition d’y mettre le travail."
   - q: "Pourquoi tant de gens vivent Pluton sextile Neptune dès la naissance ?"
     a: "Parce que l’écart entre Neptune et Pluton est resté d’environ 60° pendant des décennies : le long sextile du vingtième siècle. Pour bien des personnes nées de la fin des années 1940 à la fin des années 1980, Pluton se trouvait déjà à un ou deux degrés du sextile à leur naissance, et ses boucles annuelles l’ont fait entrer dans l’orbe dès la première ou la deuxième année."
   - q: "Quand vient le second Pluton sextile Neptune ?"
     a: "Après que Pluton a franchi la place de Neptune dans votre thème, entre 22 et 30 ans environ, le sextile de l’autre côté vient 25 à 35 ans plus tard : vers 50 à 57 ans pour les naissances jusqu’au milieu des années 1980, et de 58 ans environ jusqu’à près de 80 ans pour les naissances suivantes."
   - q: "Combien de temps dure Pluton sextile Neptune ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ au plus court. Pluton franchit le sextile exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres."
+    a: "Quel que soit celui des deux que vous vivez, le sextile dure environ deux ans et huit mois de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ au plus court."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "quand Pluton forme un sextile à Neptune du thème natal, année de naissance par année de naissance, et sa durée dans mes orbes" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Pluton à Neptune, un par un" }
@@ -44,13 +44,13 @@ Le cadeau du sextile, c’est qu’il ne demande aucun sacrifice. Les limites de
 
 Le sextile que vivent les adultes vient après le passage de Pluton sur la place de Neptune, dans la vingtaine ([Pluton en transit conjonction Neptune du thème natal](/astrology/transiting-pluto-conjunct-natal-neptune/)). Les idéaux éprouvés à cette époque ont alors eu des décennies pour se déposer, et ce transit offre une façon de mettre au travail ceux qui ont tenu. Si votre naissance porte [Neptune sextile Pluton](/astrology/neptune-sextile-pluto/), comme pour la plupart des personnes nées entre 1943 et 1993, votre vie a commencé tout près de ce transit.
 
-Avec Neptune en maison 6, le sextile vient des environs de la maison 8 ([Pluton en transit en maison 8](/astrology/pluto-transit-8th-house/)) ou de la maison 4 : ce que vous partagez avec les autres, ou ce que vous rebâtissez chez vous, donne une forme concrète à votre idéal de service. Avec Neptune en maison 12, le sextile vient des environs de la maison 2 ou 10, et une vie intérieure discrète trouve un usage au dehors. Une heure de naissance approximative peut faire passer Neptune d’une maison à l’autre ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Neptune en maison 6, le sextile vient des environs de la maison 8 ([Pluton en transit en maison 8](/astrology/pluto-transit-8th-house/)) ou de la maison 4 : ce que vous partagez avec les autres, ou ce que vous rebâtissez chez vous, donne une forme concrète à votre idéal de service. Une heure de naissance approximative peut faire passer Neptune d’une maison à l’autre ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 
 Chaque sextile dure environ deux ans et huit mois, du moment où Pluton arrive à 1,5° de l’exactitude jusqu’à celui où Pluton se trouve 1° au-delà, les orbes que j’utilise, et vingt-deux mois environ au plus court. La plupart des passages comptent trois contacts exacts ; environ deux sur cinq en comptent cinq.
 
-Presque toutes les personnes nées entre 1930 et 2009 le vivent avant 80 ans, et environ la moitié deux fois. Pour bien des naissances de la fin des années 1940 à la fin des années 1980, le premier est venu dans l’année ou les deux ans, quand Pluton, déjà proche du sextile à la naissance, est entré dans l’orbe au fil de ses boucles : à 0,6 an pour une naissance le 1er janvier 1955, 0,8 an pour 1965 et 0,7 an pour 1975. Le second vient après le passage de Pluton sur Neptune : vers 50 à 57 ans pour les naissances jusqu’au milieu des années 1980, plus tard pour les suivantes, 64,3 ans pour le 1er janvier 1995 et 73,3 ans pour le 1er janvier 2005. Pour une naissance des années 1930 ou de la plupart des années 1940, seul ce dernier vient, à 53,9 ans pour le 1er janvier 1935.
+Presque toutes les personnes nées entre 1930 et 2009 le vivent avant 80 ans, et environ la moitié deux fois. Pour bien des naissances de la fin des années 1940 à la fin des années 1980, le premier est venu dans l’année ou les deux ans : à 0,6 an, par exemple, pour une naissance le 1er janvier 1955. Le second vient après le passage de Pluton sur Neptune : vers 50 à 57 ans pour les naissances jusqu’au milieu des années 1980, plus tard pour les suivantes, jusqu’à 73,3 ans pour le 1er janvier 2005. Pour une naissance des années 1930 ou de la plupart des années 1940, seul ce dernier vient, à 53,9 ans pour le 1er janvier 1935.
 
 Depuis le Verseau, jusqu’au début de 2044, Pluton donne le second sextile à la génération née de 1970 à 1984 avec Neptune en Sagittaire, entre 51 et 58 ans environ.
 

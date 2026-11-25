@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "Jupiter", "opposition", "transits"]
 weight: 1827
 glyph: "♇☍♃"
-definition: "Pluton en transit opposition Jupiter du thème natal, c’est Pluton face à la place natale de Jupiter pendant deux à trois ans ; environ 3 personnes sur 5 ne le vivent jamais avant 80 ans. Vos convictions rencontrent une profondeur ou un pouvoir portés par d’autres. J’y lis une mise à l’épreuve de ce que vous croyez, jamais une défaite."
+definition: "Pluton en transit opposition Jupiter du thème natal place Pluton face à la place natale de Jupiter pendant deux à trois ans, une rencontre que 3 personnes sur 5 ne font jamais avant 80 ans. Vos convictions rencontrent une profondeur ou un pouvoir portés par d’autres. Une mise à l’épreuve de ce que vous croyez, qui ne défait personne."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la profondeur et du renouveau" }
   - { k: "Point natal", v: "Jupiter ♃ : les convictions, les espoirs et l’envie de grandir" }
@@ -23,9 +23,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/jupiter", "/astrology/opposition", "/astrology/jupiter-opposite-pluto", "/astrology/pluto-transit-9th-house"]
 faq:
   - q: "Que veut dire Pluton en transit opposition Jupiter ?"
-    a: "Pluton a atteint le point du zodiaque opposé à Jupiter dans votre thème. J’y lis une longue saison où ce que vous croyez et espérez rencontre la profondeur, la conviction ou le pouvoir de quelqu’un d’autre, ou d’une institution, jusqu’à ce que vous sachiez quelles convictions sont vraiment les vôtres. Ce transit décrit un climat, jamais un événement."
+    a: "Jupiter dans votre thème et Pluton se font face d’un bout à l’autre du zodiaque. Pendant deux ans ou plus, ce que vous croyez et espérez rencontre la profondeur, la conviction ou le pouvoir d’une autre personne, ou d’une institution, jusqu’à ce que vous sachiez lesquelles de vos convictions sont vraiment les vôtres. J’y lis un climat, jamais un événement."
   - q: "Combien de temps dure Pluton opposition Jupiter ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et près de quatre ans pour les passages les plus lents. Pluton franchit l’opposition exacte trois fois dans environ trois passages sur cinq ; les autres en comptent cinq et durent environ trois ans et sept mois."
+    a: "Avec mes orbes, 1,5° avant l’exactitude et 1° après, Pluton passe environ deux ans et huit mois face à Jupiter, et près de quatre ans dans les passages les plus lents."
   - q: "Pourquoi tant de gens ne connaissent jamais l’opposition de Pluton à Jupiter ?"
     a: "Parce que Pluton met environ 248 ans à faire le tour du zodiaque : une vie n’en montre qu’une partie. Que le point opposé à Jupiter se trouve dans cette partie dépend de la position de Jupiter à votre naissance. Environ 3 personnes sur 5 nées entre 1930 et 2009 ne le rencontrent jamais avant 80 ans."
   - q: "Pluton opposition Jupiter : est-ce un mauvais transit ?"

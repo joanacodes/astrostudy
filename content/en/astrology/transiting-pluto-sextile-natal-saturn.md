@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Pluto", "Saturn", "sextile", "transits"]
 weight: 1829
 glyph: "♇⚹♄"
-definition: "Transiting Pluto sextile natal Saturn is Pluto 60° from your birth Saturn, for about two years and eight months; about 3 people in 4 meet it by 80. It opens a door between structure and renewal: a chance to rebuild a duty or role on purpose. I read it as an offer that needs your hand, never a guarantee."
+definition: "Transiting Pluto sextile natal Saturn opens a 60° link between Pluto and your birth Saturn for about two years and eight months, and about 3 people in 4 have it by 80. Structure and renewal can then work together, and a duty or role can be rebuilt on purpose. The offer needs your hand; nothing is guaranteed."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of renewal" }
   - { k: "Natal point", v: "Saturn ♄: responsibility, limits and long work" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/saturn", "/astrology/sextile", "/astrology/saturn-sextile-pluto", "/astrology/transiting-pluto-trine-natal-pluto"]
 faq:
   - q: "What does transiting Pluto sextile natal Saturn mean?"
-    a: "Pluto in the sky is 60° from your Saturn, two signs away. I read it as a long opening in which structure and renewal cooperate: a duty, a role or a way of working can be rebuilt on purpose, with less resistance than usual. Like every sextile, it gives a chance, not an outcome."
+    a: "Two signs separate Pluto from your Saturn, a 60° angle at which structure and renewal cooperate. A duty, a role or a way of working can then be rebuilt on purpose, with less resistance than usual, though only if you take the chance."
   - q: "How long does Pluto sextile Saturn last?"
-    a: "About two years and eight months with my orbs, from 1½° before exact to 1° after. In about three passes out of five Pluto crosses the exact sextile three times, over about two years and seven months; the others bring five exact hits and last about three years and seven months."
+    a: "Within my orbs of 1½° before exact and 1° after, about two years and eight months. When one of Pluto’s stations falls near the degree, the sextile is exact five times instead of three and lasts closer to three years and seven months."
   - q: "Will I have Pluto sextile Saturn?"
-    a: "Probably: about 3 people in 4 born between 1930 and 2009 meet it by 80, and about 1 in 10 meets it twice, once on each side of Saturn. While Pluto crosses Aquarius, until early 2044, it sextiles Saturns in Aries and Sagittarius, and the exact degree of yours sets the year."
+    a: "The odds are good: about 3 people in 4 born between 1930 and 2009 meet it by 80, and about 1 in 10 meets it twice, once on each side of Saturn. While Pluto crosses Aquarius, until early 2044, it sextiles Saturns in Aries and Sagittarius, and the exact degree of yours sets the year."
   - q: "Is Pluto sextile Saturn a good transit?"
     a: "It is one of the gentler Pluto transits, but I don’t read any transit as good or bad. A sextile describes an opportunity that needs engagement: nothing changes unless you take it up. It promises no success, and it predicts no event."
 sources:

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Pluton", "trigone", "transits"]
 weight: 1845
 glyph: "♇△♇"
-definition: "Pluton en transit trigone Pluton du thème natal, c’est Pluton à 120° de son degré de naissance pendant deux à quatre ans ; tout le monde ou presque le vit avant 80 ans, à partir de 48 ans et demi. La capacité de transformation éprouvée au carré devient fluide. J’y lis un renouveau qui vient enfin facilement, jamais une récompense."
+definition: "Pluton en transit trigone Pluton du thème natal arrive quand Pluton se trouve à 120° de son degré de naissance, pour deux à quatre ans ; tout le monde ou presque le vit avant 80 ans, à partir de 48 ans et demi. La capacité de transformation éprouvée au carré devient fluide, et le renouveau vient enfin facilement."
 facts:
   - { k: "En transit", v: "Pluton ♇, la planète de la régénération" }
   - { k: "Point natal", v: "Pluton ♇ : votre capacité à lâcher prise et à recommencer" }
@@ -23,13 +23,13 @@ facts:
 related: ["/astrology/pluto", "/astrology/trine", "/astrology/pluto-square", "/astrology/pluto-in-libra", "/astrology/transiting-pluto-trine-natal-uranus"]
 faq:
   - q: "Que veut dire Pluton en transit trigone Pluton ?"
-    a: "Pluton, dans le ciel, a parcouru un tiers du zodiaque depuis sa place de naissance. J’y lis une saison, en général dans la cinquantaine, où votre capacité de changement profond travaille avec vous plutôt que contre vous : ce que le carré a dégagé peut être rebâti, et ce que vous avez appris sur le lâcher-prise devient une ressource."
+    a: "Le plus souvent dans la cinquantaine, Pluton forme un trigone à sa place de naissance, et votre capacité de changement profond travaille avec vous plutôt que contre vous : ce que le carré a dégagé peut être rebâti, et ce que vous avez appris sur le lâcher-prise devient utilisable."
   - q: "À quel âge vient le trigone de Pluton à Pluton ?"
     a: "Pour les naissances de 1930 à 2009, l’entrée dans l’orbe se fait entre 48,6 et 80 ans. Pour une naissance un 1er janvier : 57,9 ans en 1935, 53,9 ans en 1945, 51 ans en 1955, 50,1 ans en 1965, 53,1 ans en 1975, 60,2 ans en 1985 et 70,3 ans en 1995. Pour le 1er janvier 2005, pas avant 80 ans."
   - q: "Pourquoi le trigone de Pluton vient si tard pour les naissances des années 1990 ?"
     a: "Parce que l’orbite de Pluton est allongée, et que le rythme de Pluton après une naissance fixe l’âge. Pour une naissance des années 1960, le tiers de zodiaque suivant a traversé les années les plus rapides, autour du passage au plus près du Soleil en 1989 : le trigone est venu vers 50 ans. Pour une naissance des années 1990, il traverse le Capricorne, le Verseau et les Poissons, plus lents : vers 70 ans."
   - q: "Combien de temps dure Pluton trigone Pluton ?"
-    a: "Environ deux ans et huit mois avec mes orbes, de 1,5° avant l’exactitude à 1° après, et vingt-deux mois environ pour les passages les plus rapides. Pluton franchit le trigone exact trois fois dans environ trois passages sur cinq, cinq fois dans les autres."
+    a: "Un passage typique dure environ deux ans et huit mois entre 1,5° avant l’exactitude et 1° après, un passage rapide vingt-deux mois environ. L’exactitude revient trois fois dans la plupart des passages, cinq fois dans environ deux sur cinq."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les âges du trigone de Pluton, année de naissance par année de naissance, et sa durée dans mes orbes" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "son orbite allongée, environ 248 ans autour du Soleil" }

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Nœud Nord", "Soleil", "trigone", "transits"]
 weight: 1920
 glyph: "☊△☉"
-definition: "Nœud Nord en transit trigone Soleil du thème natal, c’est le Nœud Nord à 120° de votre Soleil de naissance, le Nœud Sud en sextile, huit ou neuf fois avant 80 ans. Pendant un mois environ, la croissance paraît naturelle plutôt que forcée. J’y lis une aisance à employer tant qu’elle dure, jamais la garantie d’une suite."
+definition: "Nœud Nord en transit trigone Soleil du thème natal, c’est le Nœud Nord à 120° de votre Soleil de naissance, le Nœud Sud en sextile, huit ou neuf fois avant 80 ans. Pendant un mois environ, la croissance paraît naturelle plutôt que forcée. L’aisance est là pour servir tant qu’elle dure, jamais pour garantir une suite."
 facts:
   - { k: "En transit", v: "Le Nœud Nord ☊, le nœud vrai, avec le Nœud Sud ☋ en face" }
   - { k: "Point natal", v: "Le Soleil ☉ : l’identité, la vitalité et le but" }
@@ -22,13 +22,13 @@ facts:
 related: ["/astrology/north-node", "/astrology/sun", "/astrology/sun-trine-north-node", "/astrology/transiting-north-node-sextile-natal-sun", "/astrology/transits"]
 faq:
   - q: "Que veut dire Nœud Nord en transit trigone Soleil du thème natal ?"
-    a: "Le Nœud Nord se tient à 120° de votre Soleil de naissance, le Nœud Sud en sextile : pendant un mois environ, la direction dans laquelle vous grandissez s’accorde sans peine avec qui vous êtes. Pratiquer le nouveau paraît naturel. J’y lis une aisance à employer, pas la promesse qu’il en sortira quoi que ce soit."
+    a: "Le Nœud Nord se tient à 120° de votre Soleil de naissance, le Nœud Sud en sextile : pendant un mois environ, la direction dans laquelle vous grandissez s’accorde sans peine avec qui vous êtes. Pratiquer le nouveau paraît naturel. C’est une aisance à employer, pas la promesse qu’il en sortira quoi que ce soit."
   - q: "Combien de temps dure le Nœud Nord trigone Soleil ?"
     a: "Un mois environ dans la plupart des cas, de 1,5° avant l’exactitude à 1° après. Un trigone exact qui tombe en saison d’éclipses, à quatre mois environ de votre anniversaire d’un côté ou à deux de l’autre, peut dépasser trois mois et demi."
   - q: "Quels signes solaires ont le Nœud Nord en trigone en ce moment ?"
     a: "Avec le nœud en Verseau jusqu’en mars 2028, les Soleils en Gémeaux et en Balance, pour les naissances du 21 mai au 20 juin et du 23 septembre au 22 octobre environ. À partir de mars 2028, avec le nœud en Capricorne, il passe aux Soleils en Taureau et en Vierge. Le degré exact de votre Soleil fixe le mois."
 sources:
-  - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le nœud vrai tient le trigone dans mes orbes, combien de fois avant 80 ans, et ses signes à partir de 2026" }
+  - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps le nœud vrai tient le trigone de 1,5° avant l’exactitude à 1° après, combien de fois avant 80 ans, et ses signes à partir de 2026" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai, et l’allure du nœud vrai" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "comment se lit un transit : le corps en mouvement, le point natal et l’angle entre eux" }
 ---
@@ -46,7 +46,7 @@ La maison qu’occupe votre Soleil décide de l’endroit où le pas se fait. Av
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, dix-neuf trigones sur vingt sont des passages uniques d’un mois environ. L’année du trigone, le Soleil rejoint le Nœud Nord à quatre mois environ de votre anniversaire et le Nœud Sud à deux mois environ de l’autre côté ([saisons d’éclipses](/astrology/eclipse-seasons/)). Un trigone exact qui tombe dans l’une de ces saisons prend le nœud vrai au plus lent, et le passage peut dépasser trois mois et demi, comme un sur dix, ou franchir trois fois l’angle, comme un sur vingt-cinq. Les éclipses elles-mêmes se trouvent à 120° ou 60° de votre Soleil et ne comptent pas dans votre thème.
+De 1,5° avant l’exactitude à 1° après, dix-neuf trigones sur vingt sont des passages uniques d’un mois environ. L’année du trigone, le Soleil rejoint le Nœud Nord à quatre mois environ de votre anniversaire et le Nœud Sud à deux mois environ de l’autre côté ([saisons d’éclipses](/astrology/eclipse-seasons/)). Un trigone exact qui tombe dans l’une de ces saisons prend le nœud vrai au plus lent, et le passage peut dépasser trois mois et demi, comme un sur dix, ou franchir trois fois l’angle, comme un sur vingt-cinq. Les éclipses elles-mêmes se trouvent à 120° ou 60° de votre Soleil et ne comptent pas dans votre thème ; le trigone non plus, puisque ma prévision ne prend le nœud qu’à la conjonction et à l’opposition.
 
 Les trigones vont par paires : six ans et douze ans et demi environ après le passage du Nœud Nord sur votre Soleil ([Nœud Nord en transit conjonction Soleil du thème natal](/astrology/transiting-north-node-conjunct-natal-sun/)), puis douze ans et demi sans trigone jusqu’à la paire du tour suivant, huit ou neuf en tout avant 80 ans. Le premier suit [Nœud Nord en transit sextile Soleil du thème natal](/astrology/transiting-north-node-sextile-natal-sun/) et [Nœud Nord en transit carré Soleil du thème natal](/astrology/transiting-north-node-square-natal-sun/) ; le second vient après [Nœud Nord en transit opposition Soleil du thème natal](/astrology/transiting-north-node-opposite-natal-sun/), à mi-tour.
 
