@@ -25,7 +25,7 @@ faq:
   - q: "Pourquoi n’aurai-je jamais Neptune conjonction Uranus dans mon thème ?"
     a: "Parce qu’Uranus avance plus vite que Neptune : si Uranus se trouvait derrière Neptune à votre naissance, Neptune ne peut pas rattraper Uranus en une vie. C’était le cas pour toutes les naissances antérieures au début des années 1990. Près de 4 personnes sur 5 nées entre 1930 et 2009 ne rencontrent jamais ce transit."
   - q: "À quel âge vient Neptune conjonction Uranus ?"
-    a: "Pour les personnes qui rencontrent ce transit, entre les premiers mois et 13 ans environ. Dans le décompte du site, ce transit est venu dans les premiers mois pour une naissance début 1995 et vers 7 ans pour 2005. Les personnes nées avec Uranus en Bélier, de 2010 à 2018, le rencontrent entre 12 et 20 ans environ."
+    a: "Pour les personnes qui rencontrent ce transit, entre les premiers mois et 13 ans environ. Dans le décompte du site, ce transit est venu dans les premiers mois pour une naissance début 1995 et vers 7 ans pour 2005. Les personnes nées avec Uranus en Bélier, de 2010 à 2019, le rencontrent entre 13 et 20 ans environ."
   - q: "Peut-on lire Neptune conjonction Uranus dans le thème d’un enfant ?"
     a: "Je ne lis pas le thème des enfants, pour ce transit ni pour aucun autre. Un thème lu trop tôt peut devenir une étiquette à laquelle l’enfant se conforme. Si vous avez eu ce transit dans l’enfance, je le traite comme une part de votre arrière-plan, pas comme une explication de votre chemin."
 sources:
@@ -50,7 +50,7 @@ Comme tout transit de Neptune dans mes orbes, de 1,5° avant l’exactitude à 1
 
 Près de 4 personnes sur 5 nées entre 1930 et 2009 ne rencontrent jamais ce transit, et celles qui l’ont vécu l’ont vécu une fois, entre leurs premiers mois et 13 ans environ : dans les premiers mois pour une naissance début 1995, vers 7 ans pour 2005. Pour une naissance antérieure au début des années 1990, Uranus encore derrière Neptune, ce transit ne viendra pas dans une vie.
 
-La génération suivante à le rencontrer est celle née avec Uranus en Bélier, de 2010 à 2018 : les années de Neptune en Bélier le lui apportent entre 12 et 20 ans environ, le plus souvent avant l’âge où je lis un thème.
+La génération suivante à le rencontrer est celle née avec Uranus en Bélier, de 2010 à 2019 : les années de Neptune en Bélier le lui apportent entre 13 et 20 ans environ, le plus souvent avant l’âge où je lis un thème.
 
 Pour une naissance début 1995, la conjonction est venue dans les premiers mois ; [Neptune en transit sextile Uranus du thème natal](/astrology/transiting-neptune-sextile-natal-uranus/) suit vers 27 ans, [Neptune en transit carré Uranus du thème natal](/astrology/transiting-neptune-square-natal-uranus/) vers 40 ans et demi et [Neptune en transit trigone Uranus du thème natal](/astrology/transiting-neptune-trine-natal-uranus/) vers 54 ans. [Neptune en transit opposition Uranus du thème natal](/astrology/transiting-neptune-opposite-natal-uranus/) se situe vers 80 ans ou au-delà.
 

@@ -47,7 +47,7 @@ With Pluto in your 1st and Uranus crossing your 4th ([Uranus transiting the 4th 
 
 The square stays within my orbs, 1½° before exact to 1° after, for about twenty months, eleven when the pass is short, and I'd treat each of its three exact hits, in more than nine passes out of ten, as one clause to renegotiate.
 
-In the site's count the first square came at about 39 for someone born at the start of 1935, about 25 for 1955, about 15 for 1975 and about 3 for 2005: some seven years earlier per decade of birth at first, then about four, because Pluto itself moved faster from the 1970s on, crossing Scorpio in about twelve years. The second follows forty-two to forty-five years after the first: at about 81 for someone born at the start of 1935, who reaches 80 with a single square to Pluto, while no birth of the count reaches 80 without one.
+In the site's count the first square came at about 39 for someone born at the start of 1935, about 25 for 1955, about 15 for 1975 and about 3 for 2005: some seven years earlier per decade of birth at first, then about four, because Pluto itself moved faster from the 1970s on, crossing Scorpio in about twelve years. The second follows forty to forty-five years after the first: at about 82 for someone born at the start of 1935, who reaches 80 with a single square to Pluto, while no birth of the count reaches 80 without one.
 
 Uranus crossing Gemini, until 2033, squares every natal Pluto in Virgo ([Pluto in Virgo](/astrology/pluto-in-virgo/)), the Pluto of births from late 1956 to mid-1972: their second square comes now, at about 60 to 68, some forty-four years after their first.
 

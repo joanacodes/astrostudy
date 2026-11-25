@@ -50,7 +50,7 @@ Avec mes orbes de 1,5° avant l’exactitude et 1° après, un passage court sur
 
 L’année de naissance fixe l’âge du premier passage : vers 47 ans pour une naissance début 1935, autour du premier anniversaire pour 1945, puis vers 13 ans pour 1955, 25 pour 1965, 36 pour 1975, 46 pour 1985, 54 pour 1995 et 61 ans et demi pour 2005. Dans mon décompte, personne n’attend au-delà de 67 ans environ.
 
-Uranus de votre thème a deux points de trigone, à 120° de part et d’autre, et Neptune met environ 55 ans à aller de l’un à l’autre. Environ 1 personne sur 3, née surtout entre le début des années 1940 et le milieu des années 1960, rencontre les deux avant 80 ans : vers 1 an et 56 ans pour une naissance début 1945, vers 13 et 67 ans pour 1955.
+Uranus de votre thème a deux points de trigone, à 120° de part et d’autre, et Neptune met environ 55 ans à aller de l’un à l’autre. Environ 1 personne sur 3, née surtout entre le début des années 1940 et le milieu des années 1960, rencontre les deux avant 80 ans : vers 1 an et 57 ans pour une naissance début 1945, vers 13 et 68 ans pour 1955.
 
 Entre 2024 et 2037, du dernier degré des Poissons à la fin du Bélier, Neptune forme un trigone avec Uranus en Sagittaire ([Neptune en Bélier, 2026-2039](/astrology/neptune-in-aries-2026-2039/)) : les personnes nées avec Uranus dans ce signe, de la fin de 1981 à 1988, le rencontrent alors, entre 42 et 49 ans environ.
 

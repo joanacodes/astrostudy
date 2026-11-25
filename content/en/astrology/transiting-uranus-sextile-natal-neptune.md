@@ -24,14 +24,14 @@ faq:
   - q: "How long does Uranus sextile Neptune last?"
     a: "Enough time to learn the tool a dream needs: about twenty months from 1½° before the exact sextile to 1° after, and about eleven in a short pass. Uranus touches the exact sextile three times in more than nine passes out of ten, because it loops backwards for a few months each year."
   - q: "At what age does Uranus sextile Neptune?"
-    a: "The first sextile comes early for everyone: in the site’s count, by 26 at the latest for births from 1930 to 2009, at about 13 in the middle. The second depends on the birth year: by the early forties for births up to the mid-1960s, in the sixties or seventies for later ones."
+    a: "The first sextile comes early for everyone: in the site’s count, by 26 at the latest for births from 1930 to 2009, at about 13 in the middle. The second depends on the birth year: by the mid-forties for births up to the mid-1960s, after 60 for later ones."
   - q: "Is Uranus sextile Neptune a spiritual transit?"
     a: "It can be, if that’s where your Neptune works. Neptune is imagination, compassion and the sense of something larger; the sextile opens new ways to live them, which might be a practice, an art or a form of care. It promises no revelation, and it doesn’t replace the work."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the age at the first sextile by birth year, and how long it stays within my orbs" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits to natal Neptune" }
 ---
-When Uranus in the sky reaches 60° from your natal Neptune, invention and imagination get about twenty months to cooperate. Most people meet this sextile twice, and the two can be decades apart: the first by 26 at the latest, the second anywhere from the late twenties to the late seventies.
+When Uranus in the sky reaches 60° from your natal Neptune, invention and imagination get about twenty months to cooperate. Most people meet this sextile twice, and the two can be decades apart: the first by 26 at the latest, the second anywhere from the mid-twenties to the late seventies.
 
 ## What changes {#what-changes}
 
@@ -47,9 +47,9 @@ With Neptune in your 5th and Uranus crossing your 7th ([Uranus transiting the 7t
 
 Each sextile to Neptune gives about twenty months within my orbs, 1½° before exact to 1° after, for a dream to find its tool: eleven when the pass is short, with three exact hits in more than nine passes out of ten.
 
-Every birth from 1930 to 2009 meets the first sextile by 26 in the site's count, half of them by about 13: about 7 for someone born at the start of 1955, about 23 for the start of 1975. For many it fell in childhood, which I only read in hindsight. What follows depends on where Uranus stood relative to Neptune at birth. Up to the mid-1960s Uranus lay more than 60° behind Neptune, so both sextile points were still ahead of it, and the second came by the early forties: about 32 for someone born at the start of 1955. From the 1970s on, Uranus had already passed one of them, and the second waits until the sixties or seventies, about 74 for the start of 1985.
+Every birth from 1930 to 2009 meets the first sextile by 26 in the site's count, half of them by about 13: about 7 for someone born at the start of 1955, about 23 for the start of 1975. For many it fell in childhood, which I only read in hindsight. What follows depends on where Uranus stood relative to Neptune at birth. Up to the mid-1960s Uranus lay more than 60° behind Neptune, so both sextile points were still ahead of it, and the second came by the mid-forties: about 32 for someone born at the start of 1955. From the 1970s on, Uranus had already passed one of them, and the second waits until after 60, about 74 for the start of 1985.
 
-Born between 1963 and 1970 with [Uranus sextile Neptune](/astrology/uranus-sextile-neptune/), you had one sextile within your first year or so and the other in your late twenties. Those whose second waits past 80 meet only one, and no one reaches 80 without the first.
+Born between 1963 and 1970 with [Uranus sextile Neptune](/astrology/uranus-sextile-neptune/), you had one sextile within your first year or so and the other in your mid or late twenties. Those whose second waits past 80 meet only one, and no one reaches 80 without the first.
 
 [Transiting Uranus conjunct natal Neptune](/astrology/transiting-uranus-conjunct-natal-neptune/) sits about fourteen years from each sextile; [transiting Uranus square natal Neptune](/astrology/transiting-uranus-square-natal-neptune/) follows the first by about seven years, [transiting Uranus trine natal Neptune](/astrology/transiting-uranus-trine-natal-neptune/) by about fourteen, and [transiting Uranus opposite natal Neptune](/astrology/transiting-uranus-opposite-natal-neptune/) stands halfway round.
 

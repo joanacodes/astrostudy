@@ -52,7 +52,7 @@ A responsibility taken on as this opposition begins has time to show what it cos
 
 It comes to a little under half of the people born between 1930 and 2009 before 80, and to no one twice: at about 15 for someone born at the start of 1975, 41 for 1945 and 63½ for 1985, and not before 80 for the starts of 1935, 1955, 1965, 1995 or 2005.
 
-Tradition exalts Saturn in Libra, and from 2026 to 2039 Neptune in Aries stands opposite that sign: people born with Saturn in Libra, between late 1980 and 1982, meet this transit at about 44 to 54.
+Tradition exalts Saturn in Libra, and from 2026 to 2039 Neptune in Aries stands opposite that sign: people born with Saturn in Libra, between late 1980 and 1982, meet this transit at about 44 to 55.
 
 For someone born at the start of 1945, [transiting Neptune square natal Saturn](/astrology/transiting-neptune-square-natal-saturn/) came in the first weeks, [transiting Neptune trine natal Saturn](/astrology/transiting-neptune-trine-natal-saturn/) at about 14 and this opposition at about 41; [transiting Neptune sextile natal Saturn](/astrology/transiting-neptune-sextile-natal-saturn/) and [transiting Neptune conjunct natal Saturn](/astrology/transiting-neptune-conjunct-natal-saturn/) never came before 80.
 

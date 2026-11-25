@@ -53,7 +53,7 @@ Une responsabilité prise au début de cette opposition a le temps de montrer ce
 
 Avant 80 ans, cette opposition vient à un peu moins de la moitié des personnes nées entre 1930 et 2009, et à personne deux fois : vers 15 ans pour une naissance début 1975, 41 ans pour 1945 et 63 ans et demi pour 1985, et pas avant 80 ans pour les débuts de 1935, 1955, 1965, 1995 ou 2005.
 
-La tradition exalte Saturne en Balance, et de 2026 à 2039, Neptune en Bélier se tient en face de ce signe : les personnes nées avec Saturne en Balance, entre la fin de 1980 et 1982, rencontrent ce transit vers 44 à 54 ans.
+La tradition exalte Saturne en Balance, et de 2026 à 2039, Neptune en Bélier se tient en face de ce signe : les personnes nées avec Saturne en Balance, entre la fin de 1980 et 1982, rencontrent ce transit vers 44 à 55 ans.
 
 Pour une personne née début 1945, [Neptune en transit carré Saturne du thème natal](/astrology/transiting-neptune-square-natal-saturn/) est venu dans les premières semaines, [Neptune en transit trigone Saturne du thème natal](/astrology/transiting-neptune-trine-natal-saturn/) vers 14 ans et cette opposition vers 41 ans ; [Neptune en transit sextile Saturne du thème natal](/astrology/transiting-neptune-sextile-natal-saturn/) et [Neptune en transit conjonction Saturne du thème natal](/astrology/transiting-neptune-conjunct-natal-saturn/) ne sont pas venus avant 80 ans.
 
