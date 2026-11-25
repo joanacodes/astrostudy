@@ -33,7 +33,7 @@ The passports are always in date, and the argument about politics is never quite
 
 ## What it says about the two of you {#what-it-says}
 
-Every planet in [the composite chart](/astrology/composite-chart/) sits at a midpoint, and its [Mars](/astrology/mars/) is how the bond goes after what it wants. [Sagittarius](/astrology/sagittarius/) is mutable fire ruled by Jupiter, a sign that gives Mars no dignity and plenty of room: the drive turns exploratory, generous and hungry for meaning. About 1 pair in 13 shares this composite Mars.
+In [the composite chart](/astrology/composite-chart/), built from midpoints, [Mars](/astrology/mars/) shows how the bond goes after what it wants. [Sagittarius](/astrology/sagittarius/), Jupiter's mutable fire sign, gives Mars no dignity but plenty of room: the drive turns exploratory, generous and hungry for meaning. About 1 pair in 13 shares this composite Mars. The two birth dates usually settle the sign; only a midpoint within half a degree of Scorpio or Capricorn needs the birth times as well.
 
 Such a pair acts by setting out. A long walk becomes a pilgrim route, a night class becomes a degree, a holiday becomes a plan to spend a year abroad, and a cause you both believe in gets both your weekends. Competition is about who's right or who goes further: the faster time up the hill, the better-read argument. Sport suits it, especially the kind with a summit or a distant finishing line. Desire is spontaneous and good-humoured, and it needs air; a bond like this stays lively while each of you has room to roam. Born with [Mars in Sagittarius](/astrology/mars-in-sagittarius/), one person chases a horizon; in the composite the horizon is shared, and so is the restlessness.
 

@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Mars composite en Poissons" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Jupiter, maîtrise traditionnelle des Poissons" }
 ---
-Leurs week-ends appartiennent volontiers aux autres : l’ami qui déménage, le refuge qui cherche des bénévoles, la voisine souffrante. C’est Mars composite en Poissons : une relation dont l’élan bouge plus facilement pour quelqu’un d’autre, désire avec imagination et laisse les querelles se diluer plutôt que casser.
+Leurs week-ends appartiennent volontiers aux autres : l’ami qui déménage, le refuge qui cherche des bénévoles, la voisine souffrante. C’est Mars composite en Poissons, où l’élan du couple bouge plus facilement pour quelqu’un d’autre, où le désir passe par l’imagination, et où les querelles se diluent plutôt qu’elles ne cassent.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
@@ -38,9 +38,9 @@ Dans [le thème composite](/astrology/composite-chart/), [Mars](/astrology/mars/
 
 Une telle paire agit pour autrui plus volontiers que pour elle-même. Elle se porte volontaire, accueille quelqu’un de proche en pleine crise, joue de la musique pour qui en a besoin, et son meilleur effort va souvent à quelque chose qui ne lui sera jamais attribué. La compétition l’intéresse à peine ; un jeu pris trop au sérieux peut gâcher la soirée. Le désir est romantique et imaginatif, affaire d’atmosphère et du sentiment que l’autre comprend sans explication. Une musique partagée, un film ou une baignade en mer font parfois plus pour la proximité de ce lien qu’une soirée planifiée. Pour une personne seule, [Mars en Poissons](/astrology/mars-in-pisces/) tourne l’élan vers les autres ; le composite vous tourne vers les autres ensemble, parfois à vos dépens.
 
-Les désaccords sont difficiles à saisir. La colère se dissout, se tait ou sort sous forme de blessure, et la paire peut éviter un conflit si longtemps qu’il finit par déborder pour une broutille. Chaque personne devine ce que veut l’autre au lieu de le demander, et cède pour garder la paix. La compassion n’est pas la passivité, et l’empathie ne veut pas dire n’avoir aucune limite. Ce qui aide : dire clairement ce que chaque personne veut, même si cela paraît dur, et nommer l’agacement tant qu’il est léger.
+Les désaccords sont difficiles à saisir. La colère se dissout, se tait ou sort sous forme de blessure, et la paire peut éviter un conflit si longtemps qu’il finit par déborder pour une broutille. Chaque personne devine ce que veut l’autre au lieu de le demander, et cède pour garder la paix. La bonté n’est pas de la passivité, et sentir ce que l’autre ressent ne veut pas dire n’avoir aucune limite. Ce qui aide : dire clairement ce que chaque personne veut, même si cela paraît dur, et nommer l’agacement tant qu’il est léger.
 
-Un lien qui cède facilement peut ne pas remarquer le moment où céder est devenu de la peur. Si cela arrive, ce n’est pas une question pour un thème : composez le 112 si le danger est là ; pour en parler, SOS Amitié reste joignable au 09 72 39 40 50.
+Un lien qui cède facilement peut ne pas remarquer le moment où céder est devenu de la peur. Si cela arrive, l’astrologie n’y peut rien : composez le 112 si le danger est là ; pour en parler, SOS Amitié reste joignable au 09 72 39 40 50.
 
 Je ne trace aucun composite, mais voici comment la méthode lit celui-ci. Les astrologues regarderaient Jupiter et Neptune composites, et la [synastrie](/astrology/synastry/), où [Mars carré Neptune en synastrie](/astrology/mars-square-neptune-synastry/) oppose l’élan de l’une des personnes aux idéaux, ou au brouillard, de l’autre. Rien ici ne prédit combien de temps vous resterez ensemble, et un thème qui lit deux personnes d’aussi près ne se dresse qu’avec leur double consentement ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
