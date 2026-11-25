@@ -2,7 +2,7 @@
 title: "Jupiter composite en maison 5"
 slug: "jupiter-composite-en-maison-5"
 h1: "Jupiter composite en maison 5 : le thème de la relation"
-description: "Jupiter composite en maison 5 : une relation qui grandit par le jeu, la création et l’amour. Aucun enfant prédit ; pourquoi la maison varie selon la méthode."
+description: "Jupiter composite en maison 5 : le jeu, la création et l’amour font grandir le lien. Aucun enfant prédit ; pourquoi la maison varie selon la méthode."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-5th-house", "/astrology/5th-house", "/astrology/can-astrology-predict-pregnancy", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Jupiter composite en maison 5 ?"
-    a: "Jupiter, dans le thème de la relation, tombe dans la maison du jeu, de la création et de l’amour : le lien grandit par le plaisir, en créant à deux, en célébrant, en prenant de petits risques pour s’amuser. Ce placement se calcule avec les deux heures de naissance et ne prédit ni enfants ni événements."
+    a: "Le plaisir fait grandir ce lien : créer à deux, célébrer, prendre de petits risques pour s’amuser, avec Jupiter, dans le thème de la relation, dans la maison du jeu, de la création et de l’amour. La maison vient des deux heures de naissance, et rien n’y prédit d’enfants ni d’événements."
   - q: "Est-ce que Jupiter composite en maison 5 annonce des enfants ?"
     a: "Non. La tradition donnait les enfants à la maison 5, mais un composite ne peut prédire ni grossesse ni naissance, et aucun thème ne le peut. Lue pour deux adultes, la maison 5 décrit ce que la relation crée pour la joie : des projets, du jeu, de l’amour, et parfois de plus jeunes qu’elle choisit d’accompagner."
   - q: "Est-ce que Jupiter composite en maison 5 favorise l’amour ?"
@@ -34,7 +34,7 @@ Des samedis après-midi qui tournent au grand spectacle : une pièce montée po
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-La [maison 5](/astrology/5th-house/) couvre la créativité, le jeu, la joie, l’amour, l’art et ce qu’une vie fabrique pour le plaisir de fabriquer. Elle est succédente, son signe naturel est le Lion, et la tradition l’appelait la Fortune favorable ; c’est Vénus, non Jupiter, qui y a sa joie. Avec [Jupiter](/astrology/jupiter/) dans cette maison du [thème composite](/astrology/composite-chart/), le plaisir devient la façon dont le lien s’élargit : il grandit quand il crée, célèbre et prend de petits risques pour le plaisir.
+La Fortune favorable : c’est ainsi que la tradition appelait la [maison 5](/astrology/5th-house/), un nom qui semble fait pour Jupiter, même si la planète qui s’y réjouit est Vénus. Cette maison couvre la créativité, le jeu, la joie, l’amour, l’art et ce qu’une vie fabrique pour le plaisir de fabriquer ; elle est succédente, et le Lion est son signe naturel. Avec [Jupiter](/astrology/jupiter/) dans cette maison du [thème composite](/astrology/composite-chart/), le plaisir devient la façon dont le lien s’élargit : il grandit quand il crée, célèbre et prend de petits risques pour le plaisir.
 
 Les enfants figuraient aussi parmi les sujets que la tradition prêtait à la maison 5. Un composite ne prédit ni grossesse ni enfant, et aucun thème ne le peut ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)) ; ce site ne lit pas non plus le thème des enfants ([le thème des enfants](/astrology/childrens-charts/)). Dans une relation d’adultes, je lis la maison 5 comme ce que vous faites naître ensemble pour la joie : un projet, un spectacle, un jardin, une façon de vous amuser qui n’appartient qu’à vous, et, pour certaines paires, l’accompagnement de plus jeunes à qui elles choisissent de faire une place.
 

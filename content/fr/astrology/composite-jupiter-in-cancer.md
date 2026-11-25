@@ -2,7 +2,7 @@
 title: "Jupiter composite en Cancer"
 slug: "jupiter-composite-en-cancer"
 h1: "Jupiter composite en Cancer : le thème de la relation"
-description: "Jupiter composite en Cancer, signe de l’exaltation de Jupiter : un lien qui grandit en abritant. Quelles paires l’ont, et quand le soin enferme."
+description: "Jupiter composite en Cancer, signe de l’exaltation de Jupiter : un lien qui grandit en abritant. Les années de naissance concernées, et quand le soin enferme."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "Cancer", "thème composite"]
 weight: 2100
 glyph: "♃♋"
-definition: "Jupiter composite en Cancer, mi-point de deux positions natales de Jupiter, occupe le signe de son exaltation : eau cardinale, gouvernée par la Lune. Les astrologues y lisent une relation qui grandit en abritant : une porte ouverte, une famille choisie, un soin qui s’étend aux autres. Ni chance ni enfants ne s’y lisent."
+definition: "Jupiter composite en Cancer, mi-point de deux positions natales de Jupiter, occupe le signe de son exaltation : eau cardinale, gouvernée par la Lune. La relation grandit ici en abritant : une porte ouverte, une famille choisie, un soin qui s’étend aux autres. Ni chance ni enfants ne s’y lisent."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃, au mi-point de deux positions natales de Jupiter" }
   - { k: "Signe", v: "Cancer ♋, eau cardinale, gouverné par la Lune" }

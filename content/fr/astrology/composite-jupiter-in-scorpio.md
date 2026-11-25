@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "Scorpion", "thème composite"]
 weight: 2104
 glyph: "♃♏"
-definition: "Jupiter composite en Scorpion : la croissance de la relation va en profondeur avant d’aller au large, car le mi-point des deux positions natales de Jupiter tombe dans le signe de Pluton et, traditionnellement, de Mars. Les astrologues y lisent un lien qui s’élargit par la confiance, la franchise et les moments traversés. Aucune épreuve annoncée."
+definition: "Jupiter composite en Scorpion : la croissance de la relation va en profondeur avant d’aller au large, car le mi-point des deux positions natales de Jupiter tombe dans le signe de Pluton et, traditionnellement, de Mars. Un tel lien s’élargit par la confiance, la franchise et les moments traversés. Aucune épreuve annoncée."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃, à mi-chemin de deux positions natales de Jupiter" }
   - { k: "Signe", v: "Scorpion ♏, eau fixe, gouverné par Pluton et, traditionnellement, par Mars" }

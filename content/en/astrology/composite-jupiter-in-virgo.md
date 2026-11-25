@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Jupiter", "Virgo", "composite chart"]
 weight: 2102
 glyph: "♃♍"
-definition: "Composite Jupiter in Virgo turns a relationship’s growth towards improvement, since the midpoint of the two natal Jupiters lies in Mercury’s earth sign, Jupiter’s detriment in tradition. Astrologers read skills learned together, practical principles and help that is useful rather than grand. It shows how a pair learns and passes no verdict on it."
+definition: "Composite Jupiter in Virgo turns a relationship’s growth towards improvement, since the midpoint of the two natal Jupiters lies in Mercury’s earth sign, Jupiter’s detriment in tradition. Its marks are skills learned together, practical principles and help that is useful rather than grand. It shows how a pair learns and passes no verdict on it."
 facts:
   - { k: "Body", v: "Composite Jupiter ♃, at the shorter-arc midpoint of two natal Jupiters" }
   - { k: "Sign", v: "Virgo ♍, mutable earth, ruled by Mercury" }

@@ -2,7 +2,7 @@
 title: "Jupiter composite en maison 8"
 slug: "jupiter-composite-en-maison-8"
 h1: "Jupiter composite en maison 8 : le thème de la relation"
-description: "Jupiter composite en maison 8 : une relation qui grandit par la confiance, l’intimité et le partage. Ni mort, ni perte, ni héritage prédits ; la méthode."
+description: "Jupiter composite en maison 8 : la confiance, l’intimité et ce que deux personnes partagent. Ni mort, ni perte, ni héritage prédits ; le système de maisons."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "maison 8", "thème composite"]
 weight: 2116
 glyph: "♃"
-definition: "Jupiter composite en maison 8 fait grandir une relation par la confiance : le mi-point de deux positions natales de Jupiter se trouve dans la maison de l’intimité, des ressources partagées et du renouveau. Les astrologues y lisent un lien qui s’agrandit chaque fois qu’il partage quelque chose de plus lourd. Ni mort, ni perte, ni héritage prédits."
+definition: "Jupiter composite en maison 8 fait grandir une relation par la confiance : le mi-point de deux positions natales de Jupiter se trouve dans la maison de l’intimité, des ressources partagées et du renouveau. Chaque fois que le lien partage quelque chose de plus lourd, il s’agrandit. Ni mort, ni perte, ni héritage prédits."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃" }
   - { k: "Maison", v: "Maison 8, de la confiance et de ce qui est partagé" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-8th-house", "/astrology/8th-house", "/astrology/can-astrology-predict-death", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Jupiter composite en maison 8 ?"
-    a: "Que Jupiter, dans le thème de la relation, se trouve dans la maison de l’intimité, de la confiance et des ressources partagées. Le lien grandit par la profondeur : chaque confidence gardée, chaque décision prise ensemble l’agrandit. Il faut les deux heures de naissance, et ce placement décrit une confiance, ni perte ni gain."
+    a: "Tout passe par la profondeur. Jupiter, dans le thème de la relation, se trouve dans la maison de l’intimité, de la confiance et des ressources partagées, et chaque confidence gardée, chaque décision prise ensemble agrandit le lien. Sa maison demande les deux heures, et ce placement décrit une confiance, jamais une perte ni un gain."
   - q: "Est-ce que Jupiter composite en maison 8 annonce un décès ou un héritage ?"
     a: "Non. La tradition donnait à la maison 8 la mort et l’héritage, mais un composite ne prédit ni décès, ni perte, ni legs, et aucun thème ne le peut. Dans un composite, la maison 8 décrit la façon dont deux personnes gèrent ce qu’elles partagent, argent et sentiments compris, et dont elles changent ensemble."
   - q: "Est-ce que le système de maisons change les maisons composites ?"

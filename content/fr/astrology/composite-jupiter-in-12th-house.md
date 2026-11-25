@@ -2,7 +2,7 @@
 title: "Jupiter composite en maison 12"
 slug: "jupiter-composite-en-maison-12"
 h1: "Jupiter composite en maison 12 : le thème de la relation"
-description: "Jupiter composite en maison 12 : une relation qui grandit en privé, par la réflexion, la retraite et un soin discret. Aucun enfermement prédit."
+description: "Jupiter composite en maison 12 : grandir en privé, par la réflexion, la retraite et un soin discret. Aucun enfermement prédit ; l’option Davison."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "maison 12", "thème composite"]
 weight: 2120
 glyph: "♃"
-definition: "Jupiter composite en maison 12 garde la croissance d’une relation à l’abri des regards : le mi-point de deux positions natales de Jupiter se trouve dans la maison de la retraite, de la réflexion et de la compassion discrète, jadis appelée le Génie défavorable. Les astrologues y lisent un lien qui s’élargit en privé. Ni enfermement ni maladie prédits."
+definition: "Jupiter composite en maison 12 garde la croissance d’une relation à l’abri des regards : le mi-point de deux positions natales de Jupiter se trouve dans la maison de la retraite, de la réflexion et de la compassion discrète, jadis appelée le Génie défavorable. Le lien s’y élargit surtout en privé. Ni enfermement ni maladie n’y sont prédits."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃" }
   - { k: "Maison", v: "Maison 12, de la retraite et de la vie intérieure" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-12th-house", "/astrology/12th-house", "/astrology/astrology-and-mental-health", "/astrology/davison-chart"]
 faq:
   - q: "Que veut dire Jupiter composite en maison 12 ?"
-    a: "Que Jupiter, dans le thème de la relation, se trouve dans la maison de la retraite, de la réflexion et de la vie intérieure. Le lien grandit en privé : une foi ou une pratique partagée, un soin discret, une compréhension atteinte en silence. Il faut les deux heures, et rien n’est prédit d’un enfermement, d’une maladie ou d’une perte."
+    a: "La relation grandit en privé : une foi ou une pratique partagée, un soin discret, une compréhension atteinte en silence. Jupiter, dans le thème du couple, se trouve dans la maison de la retraite et de la vie intérieure, et seules les deux heures de naissance situent cette maison. Rien n’est prédit d’un enfermement, d’une maladie ou d’une perte."
   - q: "Est-ce que Jupiter composite en maison 12 est un mauvais placement ?"
     a: "Non. La tradition appelait la maison 12 le Génie défavorable et lui donnait l’enfermement et les ennemis cachés, mais un composite ne prédit rien de tout cela, et aucun thème ne le peut. Jupiter y décrit une relation dont la croissance se fait à l’abri des regards, et ce peut être l’un des liens les plus reposants à partager."
   - q: "Est-ce que le thème de Davison peut remplacer les maisons composites ?"
@@ -34,7 +34,7 @@ Certaines relations grandissent derrière une porte fermée : la longue marche 
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-La [maison 12](/astrology/12th-house/) couvre la vie intérieure, la solitude, la retraite, la réflexion, la compassion, et le lâcher-prise qui clôt un chapitre avant le suivant. Elle est cadente, la dernière des douze ; elle a pour signe naturel les Poissons, que la tradition donnait à Jupiter, et son nom ancien est le Génie défavorable. C’est Saturne, non Jupiter, qui y a sa joie. [Jupiter](/astrology/jupiter/), dans cette maison du [thème composite](/astrology/composite-chart/), fait de la croissance de la relation une affaire intérieure : une foi partagée, une pratique intime, la compréhension que deux personnes atteignent dans le calme.
+Dernière des douze, la [maison 12](/astrology/12th-house/) couvre la vie intérieure, la solitude, la retraite, la réflexion, la compassion, et le lâcher-prise qui clôt un chapitre avant le suivant. La maison est cadente, et son nom ancien, le Génie défavorable, sonne dur à côté de son signe naturel, les Poissons, l’un des deux signes que la tradition donnait à Jupiter ; c’est Saturne qui y a sa joie. Hors de vue dans le [thème composite](/astrology/composite-chart/), [Jupiter](/astrology/jupiter/) fait de la croissance de la relation une affaire intérieure : une foi partagée, une pratique intime, la compréhension que deux personnes atteignent dans le calme.
 
 La tradition rangeait sous la maison 12 l’enfermement, le chagrin et les ennemis cachés. Je n’en lis rien dans aucun thème, composite ou natal : ce placement ne prédit ni enfermement ni maladie, et ne dit rien de l’état psychique de qui que ce soit ([astrologie et santé mentale](/astrology/astrology-and-mental-health/)). Ce qu’il décrit, c’est une relation dont la générosité reste souvent sans signature, et dont la croissance a besoin de calme. Le pardon a aussi sa place ici : ce lien grandit pour une bonne part par ce qu’il laisse aller, sans bruit.
 

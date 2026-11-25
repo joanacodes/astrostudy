@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Jupiter", "Pisces", "composite chart"]
 weight: 2108
 glyph: "♃♓"
-definition: "Composite Jupiter in Pisces gives the relationship chart a Jupiter in one of its traditional homes: the midpoint of two natal Jupiters falls in mutable water, which modern tropical astrology gives to Neptune. Astrologers read a bond that grows by compassion, imagination and quiet faith. Kindness is the theme, not rescue or fate."
+definition: "Composite Jupiter in Pisces gives the relationship chart a Jupiter in one of its traditional homes: the midpoint of two natal Jupiters falls in mutable water, which modern tropical astrology gives to Neptune. Compassion, imagination and quiet faith are how this bond grows. Kindness is the theme, not rescue or fate."
 facts:
   - { k: "Body", v: "Composite Jupiter ♃, the midpoint of your two natal Jupiters" }
   - { k: "Sign", v: "Pisces ♓, mutable water, ruled by Neptune and, traditionally, Jupiter" }

@@ -2,7 +2,7 @@
 title: "Jupiter composite en Capricorne"
 slug: "jupiter-composite-en-capricorne"
 h1: "Jupiter composite en Capricorne : le thème de la relation"
-description: "Jupiter composite en Capricorne : un lien qui bâtit et tient parole, dans le signe de la chute de Jupiter. Quelles paires l’ont, et la joie remise à plus tard."
+description: "Jupiter composite en Capricorne : un lien qui bâtit et tient parole, dans le signe de la chute de Jupiter. Le sens de la chute, et la joie remise à plus tard."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "Capricorne", "thème composite"]
 weight: 2106
 glyph: "♃♑"
-definition: "Jupiter composite en Capricorne tombe, à mi-chemin de deux positions natales de Jupiter, dans le signe que la tradition appelle sa chute : terre cardinale, gouvernée par Saturne. Les astrologues y lisent un lien qui grandit en bâtissant : projets à long terme, engagements tenus, confiance gagnée par étapes. L’effort y est décrit ; la réussite n’y est jamais promise."
+definition: "Jupiter composite en Capricorne tombe, à mi-chemin de deux positions natales de Jupiter, dans le signe que la tradition appelle sa chute : terre cardinale, gouvernée par Saturne. Pour les astrologues, le lien grandit en bâtissant : projets à long terme, engagements tenus, confiance gagnée par étapes. L’effort y est décrit ; la réussite n’y est jamais promise."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃, au mi-point de deux positions natales de Jupiter" }
   - { k: "Signe", v: "Capricorne ♑, terre cardinale, gouverné par Saturne" }

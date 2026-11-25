@@ -1,7 +1,7 @@
 ---
 title: "Composite Jupiter in the 7th house"
 h1: "Composite Jupiter in the 7th house: the relationship’s chart"
-description: "Composite Jupiter in the 7th house: a relationship that grows through its alliances, agreements and partners. It predicts no marriage; what the cusp depends on."
+description: "Composite Jupiter in the 7th house: alliances, agreements and partners widen the bond. It predicts no marriage; what the composite Descendant depends on."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-7th-house", "/astrology/7th-house", "/astrology/jupiter-in-7th-house-synastry", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Jupiter in the 7th house mean?"
-    a: "That the relationship chart’s Jupiter sits in the house of partnership and agreements, which begins at the composite Descendant. The bond grows through its alliances: friends, collaborators, the agreements it makes in good faith. It needs both birth times, and it describes how the pair meets others, not its future."
+    a: "Here the relationship’s Jupiter is in the house of partnership and agreements, which opens at the composite Descendant. The bond grows through its alliances: friends, collaborators, agreements made in good faith. With both birth times, it shows how the pair meets others; it never shows the pair’s future."
   - q: "Does composite Jupiter in the 7th house mean marriage?"
     a: "No. Tradition counted marriage among the topics of the 7th house, but a composite can’t say whether two people will marry, stay married or part. What this placement describes is a relationship that is generous and fair in its dealings, and grows through the people it works and lives alongside."
   - q: "Which place do we use for composite houses if we live apart?"
@@ -32,7 +32,7 @@ Some couples are good at being partners to other people too: the friends they go
 
 ## What it says about the two of you {#what-it-says}
 
-[The 7th house](/astrology/7th-house/) begins at the [Descendant](/astrology/descendant/) and covers partnership, agreements, commitments, negotiation and the allies a life gathers. It is angular, with Libra as its natural sign. In [the composite chart](/astrology/composite-chart/), which is already the chart of a partnership, [Jupiter](/astrology/jupiter/) in this house turns the bond outwards: it grows by the way it meets other people one to one, in friendship, in business, in the agreements it makes and keeps.
+A composite is already the chart of a partnership, so a 7th-house placement folds the subject back on itself. [The 7th house](/astrology/7th-house/), angular and with Libra as its natural sign, opens at the [Descendant](/astrology/descendant/) and covers partnership, agreements, commitments, negotiation and the allies a life gathers. [Jupiter](/astrology/jupiter/) here in [the composite chart](/astrology/composite-chart/) turns the bond outwards: it grows by the way it meets other people one to one, in friendship, in business, in the agreements it makes and keeps.
 
 It doesn't promise a wedding. Tradition gave the 7th marriage, among other things, but a composite can't say whether two people will marry or stay married, and I don't read any chart that way. What I'd describe is a relationship that is generous in its dealings: fair contracts, good-faith negotiation, a habit of treating others as partners rather than rivals.
 

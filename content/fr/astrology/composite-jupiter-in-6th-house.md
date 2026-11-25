@@ -2,7 +2,7 @@
 title: "Jupiter composite en maison 6"
 slug: "jupiter-composite-en-maison-6"
 h1: "Jupiter composite en maison 6 : le thème de la relation"
-description: "Jupiter composite en maison 6 : une relation qui grandit par la routine, le travail utile et le soin du quotidien. Aucune maladie prédite ; une maison à vous."
+description: "Jupiter composite en maison 6 fait de la routine, du travail utile et du soin du quotidien la croissance d’un couple. Aucune maladie prédite."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "maison 6", "thème composite"]
 weight: 2114
 glyph: "♃"
-definition: "Jupiter composite en maison 6 place la croissance du lien dans sa vie quotidienne : le mi-point de deux positions natales de Jupiter se trouve dans la maison des routines, du travail utile et du service, jadis appelée la Fortune défavorable. Les astrologues y lisent une relation qui améliore les deux vies par des habitudes communes. Aucune maladie prédite."
+definition: "Jupiter composite en maison 6 place la croissance du lien dans sa vie quotidienne : le mi-point de deux positions natales de Jupiter se trouve dans la maison des routines, du travail utile et du service, jadis appelée la Fortune défavorable. La relation décrite améliore les deux vies par des habitudes communes. Aucune maladie prédite."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃" }
   - { k: "Maison", v: "Maison 6, des routines, du travail et du service" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-6th-house", "/astrology/6th-house", "/astrology/can-astrology-predict-health-problems", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Jupiter composite en maison 6 ?"
-    a: "Jupiter, dans le thème de la relation, se trouve dans la maison des routines, du travail quotidien et du service : le lien grandit par les jours ordinaires, des habitudes communes, une aide concrète, un travail fait côte à côte. Situer cette maison demande les deux heures de naissance, et elle décrit le quotidien, pas la santé."
+    a: "Les jours ordinaires font grandir ce lien : des habitudes communes, une aide concrète, un travail fait côte à côte, puisque Jupiter, dans le thème de la relation, se trouve dans la maison des routines, du travail quotidien et du service. Situer cette maison demande les deux heures, et elle décrit le quotidien, pas la santé."
   - q: "Est-ce que Jupiter composite en maison 6 dit quelque chose de notre santé ?"
     a: "Non. La tradition donnait la maladie à la maison 6, mais un composite ne peut prédire ni maladie ni guérison, et aucun thème ne peut prévoir la santé. Dans un composite, la maison 6 décrit la façon dont une paire organise ses journées et ménage son énergie. Les questions de santé relèvent d’un médecin."
   - q: "Pourquoi est-ce que des couples du même âge partagent le signe de Jupiter composite, mais pas sa maison ?"

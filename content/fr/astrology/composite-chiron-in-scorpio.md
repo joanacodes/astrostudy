@@ -2,7 +2,7 @@
 title: "Chiron composite en Scorpion"
 slug: "chiron-composite-en-scorpion"
 h1: "Chiron composite en Scorpion : le thème de la relation"
-description: "Chiron composite en Scorpion : une relation sensible à la confiance et à l’exposition, ce qu’elle apprend à ouvrir ou à garder, ses deux maîtres et qui l’a."
+description: "Chiron composite en Scorpion : une relation sensible à la confiance et à l’exposition, ce qu’elle apprend à ouvrir ou à garder, ses deux maîtres et ses années."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Chiron", "Scorpion", "thème composite"]
 weight: 2224
 glyph: "⚷♏"
-definition: "Chiron composite en Scorpion place le Chiron d’un thème de relation, à mi-chemin entre deux positions natales de Chiron, en eau fixe, signe de Pluton et, dans la tradition, de Mars. On y lit un lien sensible à la confiance, au pouvoir et à l’exposition, qui apprend peu à peu ce qui peut s’ouvrir. Environ 1 paire sur 22 l’a."
+definition: "Chiron composite en Scorpion place le Chiron d’un thème de relation, mi-point de deux positions natales de Chiron, en eau fixe, signe de Pluton et, dans la tradition, de Mars. On y lit un lien sensible à la confiance et à l’exposition, qui apprend peu à peu ce qui peut s’ouvrir. Il est rare : environ 1 paire sur 22."
 facts:
   - { k: "Corps", v: "Chiron composite ⚷, au mi-point le plus proche des positions de Chiron dans vos deux thèmes natals" }
   - { k: "Signe", v: "Scorpion ♏, eau fixe, gouverné par Pluton et, dans la tradition, par Mars" }
@@ -30,17 +30,17 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Chiron composite en Scorpion, et les années de naissance qui donnent ce placement aux paires du même âge" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "le Scorpion, signe de Mars" }
 ---
-Certaines paires partagent un compte en banque et toutes leurs clés sans jamais dire ce qui leur fait peur ; d’autres se confient toutes leurs peurs mais refusent de partager un tiroir. Chiron composite en Scorpion fait de la confiance le point sensible de la relation, et décrit la prudence avec laquelle deux personnes décident, ensemble, de ce qui peut s’ouvrir.
+Certaines paires partagent un compte en banque et toutes leurs clés sans jamais dire ce qui leur fait peur ; d’autres se confient toutes leurs peurs mais refusent de partager un tiroir. La confiance est l’endroit où Chiron composite en Scorpion est sensible, et décider ensemble de ce qui peut s’ouvrir, la façon dont une telle paire s’adapte.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
 [Chiron](/astrology/chiron/) marque l’endroit d’un thème où quelque chose accroche sans cesse, et où une manière de le contourner devient peu à peu une expertise. Dans [le thème composite](/astrology/composite-chart/), tiré des mi-points de deux thèmes natals, cet endroit appartient à la relation. Le [Scorpion](/astrology/scorpio/), eau fixe, le loge dans les profondeurs du lien : la confiance, l’intimité, ce qui se met en commun et ce qui se garde, qui tient le pouvoir quand les choses se compliquent. Les deux personnes peuvent trouver l’exposition effrayante même l’une face à l’autre, éprouver la loyauté de l’autre, ou garder une part du lien sous scellés, comme si l’ouvrir devait coûter trop cher.
 
-Le signe a deux maîtres, [Pluton](/astrology/pluto/) pour l’astrologie tropicale moderne et [Mars](/astrology/mars/) pour la tradition, et je lis les deux : dans un composite, les deux maîtres sont aussi des mi-points, et leurs places montrent où le lien fait son travail sur la confiance. Ce travail appartient à la paire. Deux personnes qui font facilement confiance ailleurs peuvent trouver qu’ensemble, tout pèse lourd ; deux personnes sur leurs gardes peuvent trouver l’une chez l’autre le seul endroit où poser l’armure. L’adaptation est graduelle et choisie : des confidences offertes peu à peu, des accords sur ce qui reste entre vous deux, des crises traversées côte à côte et reprises ensuite en paroles.
+Le signe a deux maîtres, [Pluton](/astrology/pluto/) pour l’astrologie tropicale moderne et [Mars](/astrology/mars/) pour la tradition, et je lis les deux : dans un composite, les deux maîtres sont aussi des mi-points, et leurs places montrent où le lien fait son travail sur la confiance. Deux personnes qui font facilement confiance ailleurs peuvent trouver qu’ensemble, tout pèse lourd ; deux personnes sur leurs gardes peuvent trouver l’une chez l’autre le seul endroit où poser l’armure. La confiance se bâtit lentement : des confidences offertes peu à peu, des accords sur ce qui reste entre vous deux, des crises traversées côte à côte et reprises ensuite en paroles.
 
-Sur deux millions de paires de dates de naissance tirées entre 1930 et 2009, environ 1 paire sur 22 l’avait, peu au regard des autres signes de Chiron composite. Ses paires du même âge viennent des naissances de novembre 1946 à novembre 1948 et de décembre 1996 à septembre 1999. La plupart des autres ont quelques années d’écart : nées en juin 1994 et en juin 2003, deux personnes ont Chiron vers 5° Vierge et vers 17° Capricorne, et à mi-chemin se trouve environ 11° Scorpion. Quelques-unes y arrivent à travers toute une génération, depuis deux positions de Chiron presque opposées. Nées en juillet 1955 et en avril 1992, deux personnes ont Chiron vers 3° Verseau et vers 3° Lion, et le composite tombe vers 3° Scorpion ou vers 3° Taureau, selon les jours.
+Environ 1 paire sur 22 l’a, peu au regard des autres signes de Chiron composite, dans un décompte de deux millions de paires tirées au hasard parmi les naissances de 1930 à 2009. Ses paires du même âge viennent des naissances de novembre 1946 à novembre 1948 et de décembre 1996 à septembre 1999. La plupart des autres ont quelques années d’écart : à mi-chemin entre Chiron vers 5° Vierge (juin 1994) et vers 17° Capricorne (juin 2003) se trouve environ 11° Scorpion. Quelques-unes y arrivent à travers toute une génération, depuis deux positions de Chiron presque opposées, comme 3° Verseau en juillet 1955 et 3° Lion en avril 1992 : le composite se trouve alors vers 3° Scorpion, ou vers 3° Taureau, selon les jours.
 
-Dans un seul thème natal, [Chiron en Scorpion](/astrology/chiron-in-scorpio/) concerne la garde d’une personne. Celle du composite est partagée, et chacune des deux personnes peut la rencontrer sous la forme du secret de l’autre, ou de ses questions trop insistantes.
+Une personne née avec [Chiron en Scorpion](/astrology/chiron-in-scorpio/) monte une garde qui lui est propre. Celle du composite est tenue à deux, si bien que la discrétion de l’une et les questions de l’autre sont les deux moitiés d’une même prudence.
 
 Son côté difficile, c’est le contrôle. Un lien sensible à la confiance peut devenir vigilant, tenir le registre des vieilles blessures, ou se servir de ce qu’il sait comme d’un levier dans une dispute. Dire ce qui vous fait peur, simplement et tôt, fait plus qu’aucune épreuve, tout comme tenir les petites promesses faciles à tenir. De part et d’autre, [Chiron composite en Balance](/astrology/composite-chiron-in-libra/) est sensible à l’équité et [Chiron composite en Sagittaire](/astrology/composite-chiron-in-sagittarius/) au sens ; le Scorpion est sensible à ce qui se trouve dessous.
 

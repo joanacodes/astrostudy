@@ -2,7 +2,7 @@
 title: "Jupiter composite en Lion"
 slug: "jupiter-composite-en-lion"
 h1: "Jupiter composite en Lion : le thème de la relation"
-description: "Jupiter composite en Lion : un lien qui grandit en célébrant, en créant et en soutenant chaque personne. Quelles paires l’ont, et le piège des bravos."
+description: "Jupiter composite en Lion : un lien qui grandit en célébrant, en créant et en soutenant chaque personne. Les couples du même âge, et le piège des bravos."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

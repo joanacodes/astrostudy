@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Lilith", "Cancer", "composite chart"]
 weight: 2244
 glyph: "⚸♋"
-definition: "Composite Lilith in Cancer is the relationship chart’s Black Moon Lilith, at the midpoint of two natal mean Liliths, in cardinal water, the Moon’s own sign. Astrologers read it as the bond’s hidden need for shelter and care, and its fierce refusal to let anyone else decide what home or family should mean for it."
+definition: "Composite Lilith in Cancer puts a relationship chart’s Black Moon Lilith, the nearer midpoint of two natal mean Liliths, in the Moon’s own sign, cardinal water. It describes a bond that hides how much it needs shelter and care, and fiercely refuses to let anyone else decide what home or family should mean for it."
 facts:
   - { k: "Body", v: "Composite Lilith ⚸, the nearer midpoint of your two natal mean Liliths" }
   - { k: "Sign", v: "Cancer ♋, cardinal water, ruled by the Moon" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/lilith-in-cancer", "/astrology/cancer", "/astrology/composite-moon-in-cancer", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Lilith in Cancer mean?"
-    a: "The midpoint of your two natal Liliths lies in Cancer. Astrologers read the relationship’s hidden side as its need for shelter: the care it gives itself out of sight, how much it leans on itself, and a fierce refusal to let families or friends decide what home means for it. It describes the bond, not either of you."
+    a: "That the relationship’s hidden side is its need for shelter: the care it gives itself out of sight, how much it leans on itself, and a fierce refusal to let families or friends decide what home means for it. The midpoint of your two natal Liliths lies in Cancer, the Moon’s sign."
   - q: "Does composite Lilith in Cancer mean we will have children?"
     a: "No. No chart, composite or natal, can say whether two people will have children, move in together or marry. Cancer gives the bond’s untamed side a protective, homemaking manner, and that shows in how a pair looks after itself, whatever shape its life takes."
   - q: "Is composite Lilith linked to the composite Moon?"
@@ -29,17 +29,17 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Lilith falls in Cancer, and the months that give it to pairs of the same age" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s mean apogee, the point read as Black Moon Lilith" }
 ---
-From outside, the pair can look cool, even offhand with each other. Behind the door it's a different story. Composite Lilith in Cancer describes a relationship whose untamed part is its need for shelter, kept out of sight, and its refusal to be told what a home or a family should be.
+From outside, the pair can look cool, even offhand with each other. Behind the door it's a different story. Composite Lilith in Cancer is that private side: a relationship's need for shelter, kept out of sight, and its refusal to be told what a home or a family should be.
 
 ## What it says about the two of you {#what-it-says}
 
-In a birth chart, I read [Black Moon Lilith](/astrology/black-moon-lilith/) as what a person learned to hide, or would not have tamed. [The composite chart](/astrology/composite-chart/) builds a chart for the relationship out of midpoints, and its Lilith describes that hidden, untamed part of the bond. [Cancer](/astrology/cancer/) is cardinal water, ruled by [the Moon](/astrology/moon/): here the bond hides its need for care. It may lean on itself far more than it lets anyone see, keep private rituals of comfort, and guard who gets in with a fierceness that surprises friends. What it won't tame is its own idea of belonging: a home arranged its own way, a family made of whoever it chooses, care given on its terms rather than on what either family expects.
+In a birth chart, I read [Black Moon Lilith](/astrology/black-moon-lilith/) as what a person learned to hide, or would not have tamed. [The composite chart](/astrology/composite-chart/) builds a chart for the relationship out of midpoints, and its Lilith describes that hidden, untamed part of the bond. [Cancer](/astrology/cancer/) is cardinal water, ruled by [the Moon](/astrology/moon/): here the bond hides its need for care. It may lean on itself far more than it lets anyone see, keep private rituals of comfort, and guard who gets in with a fierceness that surprises friends. Its own idea of belonging is the part no one tames: a home arranged its own way, a family made of whoever it chooses, care given on its terms rather than on what either family expects.
 
-That need isn't necessarily either person's. Two people who prize their independence can form a bond that is hungry for shelter, and find the hunger unfamiliar, even embarrassing. Each of you may then see it in the other: the one who wants to stay in, the one who minds when plans include other people. It belongs to the pair.
+That need isn't necessarily either person's. If independence is what each of you is known for, the bond's hunger for shelter can feel unfamiliar, even embarrassing, and each of you may locate it in the other: the one who wants to stay in, the one who minds when plans include other people. It belongs to the pair.
 
-A geometric point is worth knowing here. In the sky, Lilith is tied to the Moon: it is the far end of the Moon's orbit. In a composite, there is no orbit. Composite Lilith is the midpoint of your two natal Liliths and [the composite Moon in Cancer](/astrology/composite-moon-in-cancer/), if you have it, the midpoint of your two Moons, each worked out on its own; the two can sit anywhere in relation to each other. About 1 pair in 12 has composite Lilith in Cancer, like every other sign. Pairs born in the same Cancer stay of mean Lilith share it: November 1986 to August 1987, September 1995 to June 1996, or August 2004 to April 2005, for instance.
+A geometric point is worth knowing here. In the sky, Lilith is tied to the Moon: it is the far end of the Moon's orbit. In a composite, there is no orbit. Composite Lilith is the midpoint of your two natal Liliths and [the composite Moon in Cancer](/astrology/composite-moon-in-cancer/), if you have it, the midpoint of your two Moons, each worked out on its own; the two can sit anywhere in relation to each other. Like every other sign, Cancer turns up for about 1 pair in 12. Two people born during the same nine months of mean Lilith in Cancer have it: November 1986 to August 1987, September 1995 to June 1996, or August 2004 to April 2005, for instance.
 
-[Lilith in Cancer](/astrology/lilith-in-cancer/), in a single birth chart, is a need for care hidden behind looking after others. In the composite, the hidden need is the bond's own. Its neighbours differ in where they keep things: [composite Lilith in Gemini](/astrology/composite-lilith-in-gemini/) talks round what it hides, and [composite Lilith in Leo](/astrology/composite-lilith-in-leo/) wants, against its own discretion, to be seen.
+The natal version, [Lilith in Cancer](/astrology/lilith-in-cancer/), hides a need for care behind looking after others. Here nobody has to look after the whole world to hide it: the bond does the hiding itself. [Composite Lilith in Gemini](/astrology/composite-lilith-in-gemini/) talks round what it keeps back, and [composite Lilith in Leo](/astrology/composite-lilith-in-leo/) half wants to be caught showing off.
 
 The hard part is closing ranks. A relationship like this can become a shell, with hurt feelings kept inside until they spill over, and a mutual dependence no one is allowed to mention. It helps to ask for care in words rather than wait for it to be guessed, and to open the door to one or two people who can see the bond as it really is.
 

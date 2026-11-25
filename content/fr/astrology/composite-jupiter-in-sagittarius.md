@@ -2,7 +2,7 @@
 title: "Jupiter composite en Sagittaire"
 slug: "jupiter-composite-en-sagittaire"
 h1: "Jupiter composite en Sagittaire : le thème de la relation"
-description: "Jupiter composite en Sagittaire : un lien qui grandit par une quête de sens commune, Jupiter dans son signe. Quelles paires l’ont, et l’horizon qui recule."
+description: "Jupiter composite en Sagittaire : un lien qui grandit par une quête de sens commune, Jupiter dans son signe. Son dispositeur, et l’horizon qui recule."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

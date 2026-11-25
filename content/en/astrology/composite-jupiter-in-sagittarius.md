@@ -1,7 +1,7 @@
 ---
 title: "Composite Jupiter in Sagittarius"
 h1: "Composite Jupiter in Sagittarius: the relationship’s chart"
-description: "Composite Jupiter in Sagittarius: a bond that grows by a shared search for meaning, with Jupiter in its own sign. Which pairs have it, and the moving horizon."
+description: "Composite Jupiter in Sagittarius: a bond that grows by a shared search for meaning, with Jupiter in its own sign. Its dispositor, and the moving horizon."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

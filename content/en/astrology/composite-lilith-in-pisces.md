@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Lilith", "Pisces", "composite chart"]
 weight: 2252
 glyph: "⚸♓"
-definition: "Composite Lilith in Pisces is the relationship chart’s Black Moon Lilith, at the midpoint of two natal mean Liliths, in mutable water, the sign of Neptune and, traditionally, Jupiter. Astrologers read it as the bond’s hidden inner life: a shared world of feeling and imagination kept out of sight, and a gentle refusal of hardness."
+definition: "Composite Lilith in Pisces: when two natal mean Liliths are averaged into a relationship chart, its Black Moon lands in mutable water, ruled by Neptune and traditionally Jupiter. The bond’s hidden inner life lives there, a shared world of feeling and imagination kept out of sight, with a gentle refusal of hardness."
 facts:
   - { k: "Body", v: "Composite Lilith ⚸, the nearer midpoint of your two natal mean Liliths" }
   - { k: "Sign", v: "Pisces ♓, mutable water, ruled by Neptune and, traditionally, Jupiter" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/lilith-in-pisces", "/astrology/pisces", "/astrology/black-moon-lilith", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does composite Lilith in Pisces mean?"
-    a: "The midpoint of your two natal Liliths falls in Pisces. Astrologers read the relationship’s untamed side as its inner life: a private world of feeling, music, faith or imagination that it keeps from view, and a gentle, lasting refusal to toughen up for anyone. It describes the bond, not either of you."
+    a: "It gives the relationship chart a hidden inner life: a private world of feeling, music, faith or imagination that the bond keeps from view, and a gentle, lasting refusal to toughen up for anyone. Your two natal Liliths have their midpoint in Pisces, though neither of you need have Lilith there."
   - q: "Is composite Lilith in Pisces a sign of a secret relationship?"
     a: "No. It describes what a bond keeps out of sight inside itself, its dreams and tenderness, not a relationship hidden from others or from a partner. No composite placement predicts an affair, a secret or a separation; what two people hide, and from whom, is up to them."
   - q: "Can two people of very different ages share composite Lilith in Pisces?"
@@ -29,17 +29,17 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009: how often composite Lilith falls in Pisces, and the months that give it to pairs of the same age" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s mean apogee, used for the example of a pair born in 1957 and 1984" }
 ---
-To friends they're the sensible ones. What nobody sees is the music they play only for each other, the long talks about what might lie beyond, the films they cry at together. Composite Lilith in Pisces describes a relationship whose untamed part is its inner life, kept out of sight and quietly defended.
+To friends they're the sensible ones. What nobody sees is the music they play only for each other, the long talks about what might lie beyond, the films they cry at together. Composite Lilith in Pisces is about that hidden inner life, which the relationship keeps out of sight and quietly defends.
 
 ## What it says about the two of you {#what-it-says}
 
 [Black Moon Lilith](/astrology/black-moon-lilith/) is the point I read as what a chart hides, or won't let anyone tame. [The composite chart](/astrology/composite-chart/) takes the midpoint of each pair of natal positions and reads the result as the relationship's own, so its Lilith describes what the bond keeps out of view. [Pisces](/astrology/pisces/), mutable water, has two rulers, [Neptune](/astrology/neptune/) and, traditionally, [Jupiter](/astrology/jupiter/), and I read both: Neptune gives this Lilith its dreaminess and its porous edges, Jupiter its faith that the dream means something. A bond with it tends to have a world of its own, made of feeling, imagination, music or belief, which it shows to almost no one.
 
-That world doesn't have to be either person's. Two practical, guarded people can make a relationship that is soft at its centre, and each may privately think the other has gone sentimental. What it hides is its tenderness, and sometimes its sadness. What it won't tame is its refusal of hardness: told to be realistic, to toughen up, to stop rescuing people, it nods, and carries on as before.
+That world doesn't have to be either person's. Practical, guarded people find themselves softened by such a bond, and each may privately think the other has gone sentimental. Tenderness is what it hides, and sometimes sadness; hardness is what it refuses: told to be realistic, to toughen up, to stop rescuing people, it nods, and carries on as before.
 
-Lilith's short cycle can bridge a wide gap in age. Mean Lilith comes back to the same place about every 8 years and 10 months, so two people born three cycles apart can share it: born in September 1957, one person has Lilith at about 12° Pisces; born in April 1984, the other has it at about 14° Pisces, and their composite sits between them, a friendship across a generation with one inner world. Closer in age, pairs born in the same Pisces stay share it too: December 1983 to September 1984, October 1992 to July 1993, August 2001 to May 2002. In all, about 1 pair in 12 has it.
+Lilith's short cycle can bridge a wide gap in age. Mean Lilith comes back to the same place about every 8 years and 10 months, so two people born three cycles apart can share it: someone born in September 1957 has Lilith at about 12° Pisces, someone born in April 1984 at about 14°, and the composite sits between them: a friendship across a generation, with one inner world. Closer in age, pairs born in the same Pisces stay share it too: December 1983 to September 1984, October 1992 to July 1993, August 2001 to May 2002. In all, about 1 pair in 12 has it.
 
-In one birth chart, [Lilith in Pisces](/astrology/lilith-in-pisces/) is a feeling inner life a person learned to keep out of sight. In the composite, the inner life is shared, and each of you may notice it as the other's softness. On either side, [composite Lilith in Aquarius](/astrology/composite-lilith-in-aquarius/) keeps its distance quiet, and [composite Lilith in Aries](/astrology/composite-lilith-in-aries/) keeps its first wants to itself.
+What [Lilith in Pisces](/astrology/lilith-in-pisces/) is for one person, a feeling inner life kept out of sight, the composite turns into a room two people share. The signs on either side keep something else back: [composite Lilith in Aquarius](/astrology/composite-lilith-in-aquarius/) the distance it needs, [composite Lilith in Aries](/astrology/composite-lilith-in-aries/) its first wants.
 
 The hard part is drift. A bond like this can avoid hard conversations by floating past them, confuse rescuing with loving, or keep its dream so private that nobody, the two of you included, ever tests it against the day. It helps to give the dream a shape, a project, a ritual, a place, and to keep a few plain facts on the table beside it. A kind no is still kind.
 

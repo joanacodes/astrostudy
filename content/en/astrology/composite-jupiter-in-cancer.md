@@ -1,7 +1,7 @@
 ---
 title: "Composite Jupiter in Cancer"
 h1: "Composite Jupiter in Cancer: the relationship’s chart"
-description: "Composite Jupiter in Cancer, where tradition exalts Jupiter: a bond that grows by sheltering. Which pairs share it, and when care closes in."
+description: "Composite Jupiter in Cancer, where tradition exalts Jupiter: a bond that grows by sheltering. The birth years that give it, and when care closes in."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Jupiter", "Cancer", "composite chart"]
 weight: 2100
 glyph: "♃♋"
-definition: "Composite Jupiter in Cancer sets the midpoint of two natal Jupiters in the sign of Jupiter’s exaltation, cardinal water ruled by the Moon. Astrologers read a relationship that grows by sheltering: an open door, a chosen family, care that widens to friends and strangers. Neither luck nor children is predicted."
+definition: "Composite Jupiter in Cancer sets the midpoint of two natal Jupiters in the sign of Jupiter’s exaltation, cardinal water ruled by the Moon. Its growth comes by sheltering: an open door, a chosen family, care that widens to friends and strangers. Neither luck nor children is predicted."
 facts:
   - { k: "Body", v: "Composite Jupiter ♃, the midpoint of two natal Jupiters" }
   - { k: "Sign", v: "Cancer ♋, cardinal water, ruled by the Moon" }

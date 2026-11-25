@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "Vierge", "thème composite"]
 weight: 2102
 glyph: "♃♍"
-definition: "Jupiter composite en Vierge tourne la croissance d’une relation vers l’amélioration : le mi-point des deux positions natales de Jupiter se trouve dans le signe de Mercure, exil de Jupiter pour la tradition. Les astrologues y lisent des savoir-faire appris ensemble, des principes pratiques, une aide utile plutôt que grandiose. Ce placement montre un apprentissage et ne rend aucun verdict."
+definition: "Jupiter composite en Vierge tourne la croissance d’une relation vers l’amélioration : le mi-point des deux positions natales de Jupiter se trouve dans le signe de Mercure, exil de Jupiter pour la tradition. On y voit des savoir-faire appris ensemble, des principes pratiques, une aide utile plutôt que grandiose. Ce placement montre un apprentissage et ne rend aucun verdict."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃, au mi-point de deux positions natales de Jupiter, par l’arc le plus court" }
   - { k: "Signe", v: "Vierge ♍, terre mutable, gouvernée par Mercure" }

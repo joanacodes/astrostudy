@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Jupiter", "Taurus", "composite chart"]
 weight: 2098
 glyph: "♃♉"
-definition: "With composite Jupiter in Taurus, the point halfway between two people’s natal Jupiters falls in the fixed earth sign ruled by Venus. Astrologers read a relationship that grows by keeping what works: habits that last, principles proved over time, generosity shown as reliability. Money and the future stay outside what it describes."
+definition: "With composite Jupiter in Taurus, the point halfway between two people’s natal Jupiters falls in the fixed earth sign ruled by Venus. Its growth is the keeping kind: habits that last, principles proved over time, generosity shown as reliability. Money and the future stay outside what it describes."
 facts:
   - { k: "Body", v: "Composite Jupiter ♃, set at the midpoint of two natal Jupiters by the shorter arc" }
   - { k: "Sign", v: "Taurus ♉, fixed earth, ruled by Venus" }

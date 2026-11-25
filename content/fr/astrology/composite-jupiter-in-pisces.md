@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "Poissons", "thème composite"]
 weight: 2108
 glyph: "♃♓"
-definition: "Jupiter composite en Poissons retrouve l’un de ses signes traditionnels : le mi-point de deux positions natales de Jupiter tombe en eau mutable, signe que l’astrologie tropicale moderne donne à Neptune. Les astrologues y lisent un lien qui grandit par la compassion, l’imagination et une foi discrète. La bonté en est le thème, non le sauvetage ni le destin."
+definition: "Jupiter composite en Poissons retrouve l’un de ses signes traditionnels : le mi-point de deux positions natales de Jupiter tombe en eau mutable, signe que l’astrologie tropicale moderne donne à Neptune. La compassion, l’imagination et une foi discrète font grandir ce lien. La bonté en est le thème, non le sauvetage ni le destin."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃, au mi-point de vos deux positions natales de Jupiter" }
   - { k: "Signe", v: "Poissons ♓, eau mutable, gouvernés par Neptune et, traditionnellement, par Jupiter" }

@@ -1,7 +1,7 @@
 ---
 title: "Composite Jupiter in the 8th house"
 h1: "Composite Jupiter in the 8th house: the relationship’s chart"
-description: "Composite Jupiter in the 8th house: a relationship that grows through trust, intimacy and sharing. No death, loss or inheritance predicted; the house method."
+description: "Composite Jupiter in the 8th house: trust, intimacy and what two people share, as the bond’s growth. No death, loss or inheritance predicted; house systems."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Jupiter", "8th house", "composite chart"]
 weight: 2116
 glyph: "♃"
-definition: "Composite Jupiter in the 8th house grows a relationship through trust: the midpoint of two natal Jupiters lies in the house of intimacy, shared resources and renewal. Astrologers read a bond that becomes larger each time it shares something heavier. Death, loss and inheritance are not predicted, and the house needs both birth times."
+definition: "Composite Jupiter in the 8th house grows a relationship through trust: the midpoint of two natal Jupiters lies in the house of intimacy, shared resources and renewal. Each time the bond shares something heavier, it becomes larger. Death, loss and inheritance are not predicted, and the house needs both birth times."
 facts:
   - { k: "Body", v: "Composite Jupiter ♃" }
   - { k: "House", v: "The 8th house, of trust and what is shared" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-8th-house", "/astrology/8th-house", "/astrology/can-astrology-predict-death", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Jupiter in the 8th house mean?"
-    a: "That the relationship chart’s Jupiter sits in the house of intimacy, trust and shared resources. The bond grows through depth: each confidence kept and each decision taken together makes it larger. It needs both birth times, and it describes trust, not loss or gain."
+    a: "Depth is the theme. The relationship’s Jupiter is in the house of intimacy, trust and shared resources, and each confidence kept and each decision taken together makes the bond larger. Its house needs both birth times, and it describes trust, never loss or gain."
   - q: "Does composite Jupiter in the 8th house mean death or an inheritance?"
     a: "No. Tradition gave the 8th house death and inheritance, but a composite predicts no death, loss or legacy, and no chart can. In a composite, the 8th describes how two people handle what they share, money and feelings included, and how they change together."
   - q: "Does the house system change composite houses?"

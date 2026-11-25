@@ -1,7 +1,7 @@
 ---
 title: "Composite Jupiter in Capricorn"
 h1: "Composite Jupiter in Capricorn: the relationship’s chart"
-description: "Composite Jupiter in Capricorn: a bond that grows by building and keeping its word, in the sign of Jupiter’s fall. Which pairs have it, and joy postponed."
+description: "Composite Jupiter in Capricorn: a bond that grows by building and keeping its word, in the sign of Jupiter’s fall. What the fall means, and joy postponed."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Jupiter", "Capricorn", "composite chart"]
 weight: 2106
 glyph: "♃♑"
-definition: "Composite Jupiter in Capricorn lands, halfway between two natal Jupiters, in the sign tradition calls Jupiter’s fall: cardinal earth, ruled by Saturn. Astrologers read a bond that grows by building: long plans, kept commitments, trust earned in stages, generosity shown as dependability. The effort is described; success is never promised."
+definition: "Composite Jupiter in Capricorn lands, halfway between two natal Jupiters, in the sign tradition calls Jupiter’s fall: cardinal earth, ruled by Saturn. For astrologers, the bond grows by building: long plans, kept commitments, trust earned in stages, generosity shown as dependability. The effort is described; success is never promised."
 facts:
   - { k: "Body", v: "Composite Jupiter ♃, the midpoint of two natal Jupiters" }
   - { k: "Sign", v: "Capricorn ♑, cardinal earth, ruled by Saturn" }

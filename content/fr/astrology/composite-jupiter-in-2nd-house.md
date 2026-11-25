@@ -2,7 +2,7 @@
 title: "Jupiter composite en maison 2"
 slug: "jupiter-composite-en-maison-2"
 h1: "Jupiter composite en maison 2 : le thème de la relation"
-description: "Jupiter composite en maison 2 : une relation qui grandit par ses valeurs et le soin de ce qu’elle a. Aucune fortune annoncée ; il faut les deux heures."
+description: "Jupiter composite en maison 2 élargit les valeurs d’un couple et le soin porté à ses biens. Aucune fortune annoncée ; il faut les deux heures de naissance."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "maison 2", "thème composite"]
 weight: 2110
 glyph: "♃"
-definition: "Jupiter composite en maison 2 parle de ce qu’une relation estime : le mi-point de deux positions natales de Jupiter tombe dans la maison des ressources et des valeurs. Les astrologues y lisent un lien qui grandit par des valeurs partagées et le sentiment d’avoir assez à donner. L’argent n’y est pas annoncé, et la maison repose sur les deux heures."
+definition: "Jupiter composite en maison 2 parle de ce qu’une relation estime : le mi-point de deux positions natales de Jupiter tombe dans la maison des ressources et des valeurs. Ce lien grandit par des valeurs partagées et le sentiment d’avoir assez à donner. L’argent n’y est pas annoncé, et la maison repose sur les deux heures."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃" }
   - { k: "Maison", v: "Maison 2, des ressources et des valeurs" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-2nd-house", "/astrology/2nd-house", "/astrology/jupiter-in-2nd-house-synastry", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Jupiter composite en maison 2 ?"
-    a: "Jupiter, dans le thème de la relation, se trouve dans la maison des ressources et des valeurs : le lien grandit par ce qui lui est cher, des valeurs partagées, une générosité avec ce qu’il a, le sentiment d’avoir assez. Ce placement se calcule avec les deux heures de naissance et décrit des valeurs, pas un compte en banque."
+    a: "Les valeurs et les ressources : c’est la maison qu’occupe Jupiter dans le thème de la relation, et le lien grandit par ce qui lui est cher, des valeurs partagées, une générosité avec ce qu’il a, le sentiment d’avoir assez. Les deux heures de naissance situent la maison, qui décrit des valeurs, pas un compte en banque."
   - q: "Jupiter composite en maison 2, est-ce un signe de richesse ?"
     a: "Non. Jupiter décrit la croissance, pas la richesse, et la maison 2 décrit la façon dont une paire gère et estime ses ressources, pas ce qu’elle gagnera. Aucun thème ne peut prévoir l’argent. Ce placement suggère plutôt une relation qui a le sentiment d’avoir assez pour partager, et qui grandit en partageant."
   - q: "Quelle précision faut-il sur les heures de naissance pour les maisons composites ?"
@@ -33,7 +33,7 @@ Ce qu’un couple garde, dépense, met de côté et donne en dit long sur ce que
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-La [maison 2](/astrology/2nd-house/) couvre les ressources, les biens, les valeurs et le sentiment de valeur personnelle qui les accompagne ; elle est succédente, avec le Taureau pour signe naturel. Dans [le thème composite](/astrology/composite-chart/), [Jupiter](/astrology/jupiter/) y élargit la relation par ce qui compte pour elle. La croissance du lien prend la forme de valeurs partagées : ce que vous jugez ensemble digne d’être gardé, payé, donné. La générosité est concrète : le repas qui s’allonge pour nourrir qui arrive, les outils prêtés sans qu’on les réclame, un savoir-faire partagé sans compter les heures.
+Quand [Jupiter](/astrology/jupiter/) occupe la [maison 2](/astrology/2nd-house/) du [thème composite](/astrology/composite-chart/), ce qui compte pour la relation devient le lieu de sa croissance. Cette maison couvre les ressources, les biens, les valeurs et le sentiment de valeur personnelle qui les accompagne, et son signe naturel, le Taureau, donne à cette maison succédente le goût de ce qui dure. Ici, la croissance du lien prend la forme de valeurs partagées : ce que vous jugez ensemble digne d’être gardé, payé, donné. La générosité est concrète : le repas qui s’allonge pour nourrir qui arrive, les outils prêtés sans qu’on les réclame, un savoir-faire partagé sans compter les heures.
 
 Une planète bénéfique dans la maison des biens ressemble à une promesse de richesse, et ce n’en est pas une. Jupiter représente la croissance, pas la fortune, et la maison 2 décrit la manière dont une paire gère et estime ce qu’elle a, pas ce qu’elle gagnera. J’y lirais une abondance d’un autre ordre : un foyer qui a le sentiment d’avoir assez pour partager, et une estime de soi qui grandit en présence de l’autre.
 

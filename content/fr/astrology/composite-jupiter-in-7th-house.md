@@ -2,7 +2,7 @@
 title: "Jupiter composite en maison 7"
 slug: "jupiter-composite-en-maison-7"
 h1: "Jupiter composite en maison 7 : le thème de la relation"
-description: "Jupiter composite en maison 7 : une relation qui grandit par ses alliances, ses accords et ses partenaires. Aucun mariage prédit ; ce dont dépend la cuspide."
+description: "Jupiter composite en maison 7 : alliances, accords et partenaires élargissent le lien. Aucun mariage prédit ; ce dont dépend le Descendant composite."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-7th-house", "/astrology/7th-house", "/astrology/jupiter-in-7th-house-synastry", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Jupiter composite en maison 7 ?"
-    a: "Que Jupiter, dans le thème de la relation, se trouve dans la maison du partenariat et des accords, qui commence au Descendant composite. Le lien grandit par ses alliances : des amis, des collaborations, des accords passés de bonne foi. Il faut les deux heures de naissance, et ce placement décrit une façon de rencontrer les autres, pas un avenir."
+    a: "Ici, Jupiter, dans le thème de la relation, occupe la maison du partenariat et des accords, qui s’ouvre au Descendant composite. Le lien grandit par ses alliances : des amis, des collaborations, des accords passés de bonne foi. Avec les deux heures de naissance, ce placement montre comment la paire rencontre les autres, jamais son avenir."
   - q: "Jupiter composite en maison 7, est-ce le signe d’un mariage ?"
     a: "Non. La tradition comptait le mariage parmi les sujets de la maison 7, mais un composite ne peut dire si deux personnes se marieront, resteront mariées ou se sépareront. Ce placement décrit une relation généreuse et juste dans ses échanges, qui grandit par les gens aux côtés de qui elle vit et travaille."
   - q: "Quel lieu choisir pour les maisons composites quand on vit séparément ?"
@@ -33,7 +33,7 @@ Certains couples savent aussi être de bons partenaires pour les autres : les a
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-La [maison 7](/astrology/7th-house/) commence au [Descendant](/astrology/descendant/) et couvre le partenariat, les accords, les engagements, la négociation et les alliés qu’une vie rassemble. Elle est angulaire, avec la Balance pour signe naturel. Dans [le thème composite](/astrology/composite-chart/), qui est déjà le thème d’un partenariat, [Jupiter](/astrology/jupiter/) tourne ici le lien vers l’extérieur : le lien grandit par sa façon de rencontrer les autres en tête-à-tête, en amitié, en affaires, dans les accords qu’il passe et respecte.
+Un composite est déjà le thème d’un partenariat : un placement en maison 7 replie donc le sujet sur lui-même. Angulaire, avec la Balance pour signe naturel, la [maison 7](/astrology/7th-house/) s’ouvre au [Descendant](/astrology/descendant/) et couvre le partenariat, les accords, les engagements, la négociation et les alliés qu’une vie rassemble. Dans [le thème composite](/astrology/composite-chart/), [Jupiter](/astrology/jupiter/) tourne ici le lien vers l’extérieur : le lien grandit par sa façon de rencontrer les autres en tête-à-tête, en amitié, en affaires, dans les accords qu’il passe et respecte.
 
 Ce placement ne promet pas de mariage. La tradition donnait le mariage à la maison 7, parmi d’autres sujets, mais un composite ne peut dire si deux personnes se marieront ou resteront mariées, et je ne lis aucun thème ainsi. Ce que je décrirais, c’est une relation généreuse dans ses échanges : des contrats équitables, des négociations de bonne foi, l’habitude de traiter les autres en partenaires plutôt qu’en rivaux.
 

@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-11th-house", "/astrology/11th-house", "/astrology/planetary-joys", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Jupiter composite en maison 11 ?"
-    a: "Que Jupiter, dans le thème de la relation, se trouve dans la maison des amis, des groupes et des espoirs partagés, celle où, selon la tradition, Jupiter se réjouit. Le lien grandit par les gens qu’il rassemble et les causes qu’il épouse à deux. Il faut les deux heures, et aucun bonheur n’est garanti."
+    a: "Jupiter est ici dans sa joie traditionnelle : dans le thème de la relation, la maison des amis, des groupes et des espoirs partagés. Le lien grandit par les gens qu’il rassemble et les causes qu’il épouse à deux. La maison demande les deux heures, et une façon de grandir n’est pas un bonheur garanti."
   - q: "Est-ce que Jupiter composite en maison 11 porte chance, puisque c’est la joie de Jupiter ?"
     a: "La tradition faisait de la maison 11 la joie de Jupiter, la maison où sa nature est le plus à l’aise. Dans un composite, cette aisance se voit dans un talent pour l’amitié et les projets communs. Ce n’est pas de la chance : une joie décrit la facilité avec laquelle une planète agit, pas ce qu’elle apportera."
   - q: "Est-ce que Jupiter composite peut être en maison 11 si aucune des deux personnes n’a Jupiter dans cette maison ?"

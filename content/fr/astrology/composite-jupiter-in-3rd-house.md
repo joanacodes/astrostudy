@@ -2,7 +2,7 @@
 title: "Jupiter composite en maison 3"
 slug: "jupiter-composite-en-maison-3"
 h1: "Jupiter composite en maison 3 : le thème de la relation"
-description: "Jupiter composite en maison 3 : une relation qui grandit par la parole, l’apprentissage et son quartier. Son sens, et pourquoi les deux heures comptent."
+description: "Jupiter composite en maison 3 : un lien qui s’enrichit par la parole, les leçons et le quartier. Son sens, et pourquoi les deux heures doivent être sûres."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-3rd-house", "/astrology/3rd-house", "/astrology/jupiter-in-3rd-house-synastry", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Jupiter composite en maison 3 ?"
-    a: "Que Jupiter, dans le thème de la relation, tombe dans la maison de la communication, de l’apprentissage et du voisinage. Le lien grandit en parlant, en étudiant et en enseignant, et fait entrer dans sa vie les gens d’à côté. Ce placement se calcule avec les deux heures de naissance et décrit une façon d’apprendre, pas un événement."
+    a: "Parler, étudier, enseigner : la relation grandit par les trois quand Jupiter tombe dans la maison de la communication, de l’apprentissage et du voisinage, et elle fait entrer dans sa vie les gens d’à côté. La maison se calcule avec les deux heures de naissance et décrit une façon d’apprendre, pas un événement."
   - q: "Est-ce que Jupiter composite en maison 3 garantit une bonne communication ?"
     a: "Ce placement décrit un lien qui grandit par la conversation, ce qui veut souvent dire beaucoup de conversation. Beaucoup n’est pas toujours facile : une relation peut parler sans cesse et éviter quand même un sujet difficile. La qualité de la communication dépend de ce que font les deux personnes, pas d’un mi-point."
   - q: "Et si l’une de nos heures de naissance n’est qu’un souvenir ?"
@@ -34,7 +34,7 @@ Le couple qui connaît tous les patrons de café de la rue, échange des livres 
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-La [maison 3](/astrology/3rd-house/) est celle de la communication, de l’apprentissage, des frères et sœurs, des voisins et du monde quotidien à portée de main. Elle est cadente, elle a pour signe naturel les Gémeaux, exil de Jupiter pour la tradition, et son nom ancien est la Déesse ; c’est la Lune, non Jupiter, qui y a sa joie. Dans [le thème composite](/astrology/composite-chart/), [Jupiter](/astrology/jupiter/) fait ici de la conversation la façon de grandir de la relation : le lien s’élargit par ce qu’il lit, discute et enseigne, et par les gens qui vivent à sa porte.
+La tradition appelait la [maison 3](/astrology/3rd-house/) la Déesse et donnait sa joie à la Lune ; son signe naturel, les Gémeaux, est celui où elle place l’exil de Jupiter : une maison des choses proches pour une planète des choses lointaines. Elle couvre la communication, l’apprentissage, les frères et sœurs, les voisins et le monde quotidien à portée de main, et elle est cadente. Placez [Jupiter](/astrology/jupiter/) dans cette maison du [thème composite](/astrology/composite-chart/), et la conversation devient la façon de grandir de la relation : le lien s’élargit par ce qu’il lit, discute et enseigne, et par les gens qui vivent à sa porte.
 
 Au quotidien, cela ressemble à apprendre côte à côte : un cours du soir suivi ensemble, une langue pratiquée au petit déjeuner, un club de lecture né sur la table de votre cuisine. Frères, sœurs, cousins et voisins entrent dans le lien plutôt que de rester à sa marge, et les petits trajets, le week-end dans la ville voisine, la marche jusqu’au marché, comptent plus que leur taille ne le laisse croire. Sa générosité passe par les mots et le temps : une explication donnée avec patience, un trajet jusqu’à la gare, le message envoyé pour prendre des nouvelles.
 

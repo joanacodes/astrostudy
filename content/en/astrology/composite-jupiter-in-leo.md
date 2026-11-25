@@ -1,7 +1,7 @@
 ---
 title: "Composite Jupiter in Leo"
 h1: "Composite Jupiter in Leo: the relationship’s chart"
-description: "Composite Jupiter in Leo: a relationship that grows by celebrating, creating and championing each other. Which pairs share it, and when applause takes over."
+description: "Composite Jupiter in Leo: a relationship that grows by celebrating, creating and championing each other. Same-age couples share it; when applause takes over."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"

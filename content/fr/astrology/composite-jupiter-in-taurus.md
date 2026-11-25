@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "Taureau", "thème composite"]
 weight: 2098
 glyph: "♃♉"
-definition: "Avec Jupiter composite en Taureau, le mi-point de deux positions natales de Jupiter tombe dans le signe de terre fixe gouverné par Vénus. Les astrologues y lisent une relation qui grandit en gardant ce qui marche : des habitudes qui durent, des principes éprouvés, une générosité faite de fiabilité. L’argent et l’avenir restent hors de son propos."
+definition: "Avec Jupiter composite en Taureau, le mi-point de deux positions natales de Jupiter tombe dans le signe de terre fixe gouverné par Vénus. Sa croissance garde ce qui marche : des habitudes qui durent, des principes éprouvés, une générosité faite de fiabilité. L’argent et l’avenir restent hors de son propos."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃, au mi-point de deux positions natales de Jupiter, par l’arc le plus court" }
   - { k: "Signe", v: "Taureau ♉, terre fixe, gouverné par Vénus" }

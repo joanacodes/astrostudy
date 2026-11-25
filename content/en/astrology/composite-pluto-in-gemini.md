@@ -28,13 +28,13 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart and how it is read" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "2,000,000 random pairs born 1930–2009, none with composite Pluto in Gemini; Pluto’s months in each sign, 1700–2300" }
 ---
-Composite Pluto in Gemini needs at least one partner born before May 1914, when Pluto left Gemini, so the only pairs who could have it today would include someone over 112. In practice no living couple has it, and the next ones will be born after 2127.
+To have composite Pluto in Gemini, a pair would need someone born before May 1914, when Pluto left Gemini: a person over 112 today. In practice no living couple has it, and the next ones will be born after 2127.
 
 ## What it says about the two of you {#what-it-says}
 
 [Gemini](/astrology/gemini/), mutable air ruled by Mercury, is the sign of exchange: questions, comparisons, news passed on, two points of view held at once. In [the composite chart](/astrology/composite-chart/), a Gemini [Pluto](/astrology/pluto/) would make deep change travel by word. A bond like this would renew itself by changing its mind: a late-night conversation that ends one way of living together and starts another, letters that rewrite what the pair believes about itself, a habit of learning something new every few years and letting it reshape them both. What the two of you knew, and what you chose to tell each other, would be where the relationship's power lay.
 
-Its trap would be keeping a tally of the talk. Pluto is wary of unequal exchanges, and in Gemini every exchange is on show: who explains and who listens, who knows the passwords, who heard the news first. The risk would be reading each imbalance as a bid for control, when it's usually two minds working at different speeds. Its ruler, [Mercury](/astrology/mercury/), would carry half the story: the composite's Mercury describes how a pair thinks and talks, and here that would be the relationship's main road.
+The weak point would be a tally of the talk. Pluto is wary of unequal exchanges, and in Gemini every exchange is on show: who explains and who listens, who knows the passwords, who heard the news first. The risk would be reading each imbalance as a bid for control, when it's usually two minds working at different speeds. Its ruler, [Mercury](/astrology/mercury/), would carry half the story: the composite's Mercury describes how a pair thinks and talks, and here that would be the relationship's main road.
 
 The reason no one has it is arithmetic. A composite Pluto lies between the two natal Plutos it comes from, and if both of you were born after Pluto left Gemini in May 1914, both of yours lie beyond the sign, and so does every point between them. Pluto was in Gemini from July 1882 to May 1914 and returns from June 2127 to May 2159; a sample of two million random pairs born 1930–2009 contains none with this composite. [Pluto in Gemini](/astrology/pluto-in-gemini/) is the natal placement of a generation born more than a century ago.
 

@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/lilith-in-gemini", "/astrology/gemini", "/astrology/midpoints", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Lilith composite en Gémeaux ?"
-    a: "À mi-chemin entre vos deux Lilith natales se trouvent les Gémeaux : le lien garde son côté sauvage dans sa parole, une langue à lui, des conversations qu’il ne partage avec personne, une curiosité qui va plus loin que ce que les autres jugent convenable, et le refus des étiquettes. Elle ne dit rien de l’avenir de la relation."
+    a: "À mi-chemin entre vos deux Lilith natales se trouvent les Gémeaux : le lien garde son côté sauvage dans sa parole, une langue à lui, des conversations qu’il ne partage avec personne, une curiosité qui va plus loin que ce que les autres jugent convenable, et le refus des étiquettes. Cette Lilith ne dit rien de l’avenir de la relation."
   - q: "Lilith composite en Gémeaux veut-elle dire des secrets ou des mensonges dans le couple ?"
     a: "Non. Elle décrit ce que le lien ne dit qu’à lui-même, et les questions qu’il pose quand d’autres s’en abstiendraient, pas la tromperie. Une paire peut garder ses blagues et ses conversations pour elle sans rien se cacher. L’honnêteté de deux personnes est leur choix, et aucun mi-point ne le fait à leur place."
   - q: "Pourquoi notre Lilith composite a-t-elle changé de signe quand nous avons vérifié une date de naissance ?"

@@ -2,7 +2,7 @@
 title: "Chiron composite en Sagittaire"
 slug: "chiron-composite-en-sagittaire"
 h1: "Chiron composite en Sagittaire : le thème de la relation"
-description: "Chiron composite en Sagittaire : une relation sensible au sens, aux croyances et à la liberté, la vision commune qu’elle se bâtit, sa fréquence et qui l’a."
+description: "Chiron composite en Sagittaire : une relation sensible au sens, aux croyances et à la liberté, la vision commune qu’elle se bâtit, et ses années."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Chiron", "Sagittaire", "thème composite"]
 weight: 2225
 glyph: "⚷♐"
-definition: "Chiron composite en Sagittaire place le Chiron du thème de la relation, mi-point de deux positions natales de Chiron, dans le signe dessiné en centaure, gouverné par Jupiter. Le sens, les croyances et la liberté sont ses points sensibles, et la paire se bâtit une vision commune avec deux visions. Il revient pour environ 1 paire sur 18."
+definition: "Chiron composite en Sagittaire est le Chiron d’une relation, moyenne de deux thèmes natals, debout dans le signe dessiné en centaure et gouverné par Jupiter. Le sens, les croyances et la liberté sont ses points sensibles, et la paire se bâtit une vision commune avec deux visions. Sa part est d’environ 1 paire sur 18."
 facts:
   - { k: "Corps", v: "Chiron composite ⚷, mi-point des positions de Chiron dans vos deux thèmes natals" }
   - { k: "Signe", v: "Sagittaire ♐, feu mutable, gouverné par Jupiter" }
@@ -29,18 +29,18 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture, d’avant la découverte de Chiron en 1977" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Chiron composite en Sagittaire, et les années de naissance qui donnent ce placement aux paires du même âge" }
 ---
-Deux religions à la même table, deux pays dans une même famille, ou simplement deux idées très différentes de ce qu’est une vie réussie : certaines relations sont faites de distances. Chiron composite en Sagittaire fait du sens le point sensible du lien, et décrit la vision que deux personnes assemblent à partir des leurs.
+Deux religions à la même table, deux pays dans une même famille, ou simplement deux idées très différentes de ce qu’est une vie réussie : certaines relations sont faites de distances. Chiron composite en Sagittaire demande à une telle relation ce qu’elle veut dire, et la réponse est une vision assemblée à partir de deux visions séparées.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
 Dans le mythe, Chiron était le centaure qui enseignait ; dans [le thème composite](/astrology/composite-chart/), construit avec les mi-points de deux thèmes natals, [Chiron](/astrology/chiron/) montre où la relation doit apprendre à vivre avec une limite qui reste. Le [Sagittaire](/astrology/sagittarius/), feu mutable gouverné par [Jupiter](/astrology/jupiter/), en fait une question d’horizon. Que croit le lien, à quoi sert-il, jusqu’où chacune des deux personnes peut-elle aller sans cesser d’y revenir ? Les paires qui ont ce placement se disputent parfois davantage sur des convictions que sur des corvées, sentent l’appel d’un ailleurs, ou se demandent à voix haute ce que veut dire leur relation.
 
-Cette incertitude appartient à la relation, et ne trahit aucun manque de conviction chez l’une ou l’autre personne. Deux personnes aux croyances nettes peuvent découvrir que leur lien, lui, ne s’est arrêté sur aucune, et deux personnes d’horizons très différents peuvent faire quelque chose qui n’appartient à aucune des deux traditions. L’adaptation est exploratoire : apprendre la langue ou les fêtes de l’autre, voyager pour comprendre plutôt que pour fuir, l’habitude de demander *pourquoi le vois-tu ainsi ?* et d’écouter la réponse. Les paires qui y parviennent finissent souvent par enseigner, officiellement ou non, parce qu’expliquer deux mondes l’un à l’autre est devenu un savoir-faire.
+Demandez à chacune des deux personnes ce qu’elle croit, et la réponse viendra peut-être sans peine ; demandez ce que vous croyez ensemble, et le silence qui suit est ce que décrit le composite. Sa réponse est d’explorer : apprendre la langue ou les fêtes de l’autre, voyager pour comprendre plutôt que pour fuir, l’habitude de demander *pourquoi le vois-tu ainsi ?* et d’écouter la réponse. Les paires qui y parviennent finissent souvent par enseigner, officiellement ou non, parce qu’expliquer deux mondes l’un à l’autre est devenu un savoir-faire.
 
-Environ 1 paire sur 18 l’a, sur deux millions de paires de dates de naissance tirées entre 1930 et 2009, la même part que pour le Lion. Chiron a traversé le Sagittaire de novembre 1948 à novembre 1951 et de janvier 1999 à décembre 2001, et deux personnes nées dans la même de ces périodes le partagent. Dix ans peuvent en amener d’autres ici. Une personne née en juin 1996 a Chiron vers 8° Balance, une autre née en juin 2006 vers 9° Verseau, à un trigone l’une de l’autre, et leur Chiron composite se trouve vers 9° Sagittaire, dans le signe qui les sépare.
+Sa part rejoint celle du Lion, environ 1 paire sur 18 sur deux millions de paires tirées au hasard parmi les naissances de 1930 à 2009. Chiron a traversé le Sagittaire de novembre 1948 à novembre 1951 et de janvier 1999 à décembre 2001, et deux personnes nées dans la même de ces périodes le partagent. Dix ans peuvent en amener d’autres ici : avec Chiron vers 8° Balance pour une naissance en juin 1996 et vers 9° Verseau pour une naissance en juin 2006, à un trigone d’écart, le composite tombe vers 9° Sagittaire, le signe entre les deux.
 
-Dans un seul thème, [Chiron en Sagittaire](/astrology/chiron-in-sagittarius/) est la recherche, par une personne, d’une foi à elle. Celle du composite cherche une foi que deux personnes puissent partager, et chacune peut la ressentir comme la certitude de l’autre ou comme son agitation.
+Dans un seul thème, [Chiron en Sagittaire](/astrology/chiron-in-sagittarius/) est la recherche, par une personne, d’une foi à elle. Celle du composite cherche une foi que deux personnes puissent partager, ce qui demande plus de lenteur et plus de générosité.
 
-Le plus difficile, c’est de faire du sens une compétition. Un lien sensible aux croyances peut prêcher, débattre de tout, ou garder un pied dehors au nom de la liberté. La curiosité aide davantage que l’accord : des rituels qui honorent les deux mondes, un but commun dit simplement, et de la place pour que chacune des deux personnes parte et revienne. Entre [Chiron composite en Scorpion](/astrology/composite-chiron-in-scorpio/), sensible à la confiance, et [Chiron composite en Capricorne](/astrology/composite-chiron-in-capricorn/), sensible à l’autorité, le Sagittaire est sensible au pourquoi.
+Le sens peut tourner à la compétition. Un lien sensible aux croyances peut prêcher, débattre de tout, ou garder un pied dehors au nom de la liberté. La curiosité aide davantage que l’accord : des rituels qui honorent les deux mondes, un but commun dit simplement, et de la place pour que chacune des deux personnes parte et revienne. Entre [Chiron composite en Scorpion](/astrology/composite-chiron-in-scorpio/), sensible à la confiance, et [Chiron composite en Capricorne](/astrology/composite-chiron-in-capricorn/), sensible à l’autorité, le Sagittaire est sensible au pourquoi.
 
 Expliquer une technique n’est pas la pratiquer : les composites ne font pas partie de mes lectures, et les astrologues qui les emploient posent ce Chiron à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/). Il n’annonce ni départ à l’étranger, ni conversion, ni séparation. Partout où Chiron apparaît, pourtant, je voudrais qu’on le lise comme je le lis dans un thème natal : avec douceur ([les trois qui ont tenu](/blog/saturn-chiron-lilith/#avec-douceur)).

@@ -2,7 +2,7 @@
 title: "Jupiter composite en maison 4"
 slug: "jupiter-composite-en-maison-4"
 h1: "Jupiter composite en maison 4 : le thème de la relation"
-description: "Jupiter composite en maison 4 : une relation qui grandit du foyer et des racines vers le dehors. Pourquoi un déménagement peut changer ses maisons."
+description: "Jupiter composite en maison 4 : une croissance qui part du foyer et des racines communes avant de s’ouvrir. Pourquoi un déménagement peut changer ses maisons."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Synastrie"]
 tags: ["Jupiter", "maison 4", "thème composite"]
 weight: 2112
 glyph: "♃"
-definition: "Jupiter composite en maison 4 enracine la croissance d’une relation dans le foyer et la famille : le mi-point de deux positions natales de Jupiter tombe dans la maison des fondations. Les astrologues y lisent un lien qui grandit de sa vie privée vers le dehors. Ni maison ni enfants annoncés ; il faut les deux heures."
+definition: "Jupiter composite en maison 4 enracine la croissance d’une relation dans le foyer et la famille : le mi-point de deux positions natales de Jupiter tombe dans la maison des fondations. Ici, un lien grandit de sa vie privée vers le dehors. Ni maison ni enfants annoncés ; il faut les deux heures."
 facts:
   - { k: "Corps", v: "Jupiter composite ♃" }
   - { k: "Maison", v: "Maison 4, du foyer et des racines" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/jupiter-in-4th-house", "/astrology/4th-house", "/astrology/imum-coeli", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Jupiter composite en maison 4 ?"
-    a: "Que Jupiter, dans le thème de la relation, se trouve dans la maison du foyer, de la famille et des racines. On y lit un lien qui grandit de sa vie privée vers le dehors : un foyer où d’autres trouvent appui, des racines prises ensemble, des traditions bien à lui. Il faut les deux heures, et rien n’y est prédit."
+    a: "Ce placement met Jupiter, dans le thème de la relation, dans la maison du foyer, de la famille et des racines. On y lit un lien qui grandit de sa vie privée vers le dehors : un foyer où d’autres trouvent appui, des racines prises ensemble, des traditions propres. Il faut les deux heures, et rien n’y est prédit."
   - q: "Est-ce que Jupiter composite en maison 4 annonce l’achat d’une maison ou des enfants ?"
     a: "Non. La maison 4 décrit le foyer et les racines, et Jupiter la croissance, mais un composite ne peut prévoir ni achat, ni déménagement, ni grossesse, ni naissance, et aucun thème ne le peut. Ce qu’un composite décrit, c’est l’endroit où la relation trouve son assise : un foyer et une vie privée que vous faites à deux."
   - q: "Est-ce qu’un déménagement peut changer un thème composite ?"
@@ -33,7 +33,7 @@ La maison où tout le monde se retrouve à Noël, la table où il y a toujours u
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-La [maison 4](/astrology/4th-house/) commence au [Fond du Ciel](/astrology/imum-coeli/), le point le plus bas du thème, et couvre le foyer, la famille, les racines, la vie privée et les fondations sur lesquelles tout le reste repose. Elle est angulaire, et son signe naturel est le Cancer, où la tradition place l’exaltation de Jupiter ; [Jupiter composite en Cancer](/astrology/composite-jupiter-in-cancer/) donne une note voisine, par le signe. Quand [Jupiter](/astrology/jupiter/) se trouve ici dans [le thème composite](/astrology/composite-chart/), la croissance du lien commence dans l’intimité : dans le foyer que vous formez, la famille que vous rassemblez, les traditions que vous gardez ou inventez.
+La [maison 4](/astrology/4th-house/) commence au [Fond du Ciel](/astrology/imum-coeli/), le point le plus bas du thème, et couvre le foyer, la famille, les racines, la vie privée et les fondations sur lesquelles tout le reste repose. L’une des quatre maisons angulaires, elle a pour signe naturel le Cancer, signe de l’exaltation de Jupiter, si bien que [Jupiter composite en Cancer](/astrology/composite-jupiter-in-cancer/) donne une note voisine, par le signe. Quand [Jupiter](/astrology/jupiter/) se trouve ici dans [le thème composite](/astrology/composite-chart/), la croissance du lien commence dans l’intimité : dans le foyer que vous formez, la famille que vous rassemblez, les traditions que vous gardez ou inventez.
 
 L’endroit où se trouve ce foyer compte pour le thème lui-même. Une façon de calculer les maisons composites part du Milieu du Ciel composite et construit les maisons pour la latitude où vit la paire : un déménagement loin vers le nord ou le sud déplace la cuspide entre la maison 4 et la maison 5, mais pas le Fond du Ciel, qui reste à l’opposé du Milieu du Ciel composite. L’autre façon, à partir des mi-points des cuspides des deux thèmes, ignore le lieu où vous vivez et ne dépend que des lieux et des heures de vos naissances. Quelle que soit la méthode, le Fond du Ciel composite repose sur les deux heures de naissance, et aucune n’est la seule forme juste ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Jupiter", "Scorpio", "composite chart"]
 weight: 2104
 glyph: "♃♏"
-definition: "Composite Jupiter in Scorpio means the relationship’s growth goes downward before it goes outward: the midpoint of two natal Jupiters lies in fixed water, ruled by Pluto and, traditionally, Mars. Astrologers read a bond that widens through trust, candour and what it comes through together. It describes depth, never an ordeal foretold."
+definition: "Composite Jupiter in Scorpio means the relationship’s growth goes downward before it goes outward: the midpoint of two natal Jupiters lies in fixed water, ruled by Pluto and, traditionally, Mars. Such a bond widens through trust, candour and what it comes through together. It describes depth, never an ordeal foretold."
 facts:
   - { k: "Body", v: "Composite Jupiter ♃, halfway between two natal Jupiters" }
   - { k: "Sign", v: "Scorpio ♏, fixed water, ruled by Pluto and, traditionally, Mars" }
