@@ -39,7 +39,7 @@ C’est la seule étape entre Neptune et votre Pluton qu’aucune vie en cours n
 
 ## Ce qui change {#ce-qui-change}
 
-[Pluton](/astrology/pluto/), dans votre thème, marque l’endroit où vous tenez le plus fort et où, avec le temps, vous pouvez laisser une chose finir et recommencer. [Neptune](/astrology/neptune/) assouplit ce qui s’est durci et l’élargit vers l’imagination et la compassion. Une [conjonction](/astrology/conjunction/) fait agir deux fonctions comme une seule : en [transit](/astrology/transits/), ce serait un renouveau porté par un idéal, ou un idéal qui vous change à la racine.
+[Pluton](/astrology/pluto/), dans votre thème, marque l’endroit où vous tenez le plus fort et où, avec le temps, vous pouvez laisser une chose finir et recommencer. [Neptune](/astrology/neptune/) assouplit ce qui s’est durci et l’élargit vers l’imagination et la compassion. Une [conjonction](/astrology/conjunction/) fond deux fonctions en une seule action : en [transit](/astrology/transits/), ce serait un renouveau porté par un idéal, ou un idéal qui vous change à la racine.
 
 Pour les personnes nées entre 1930 et 2009, ce transit n’a pas de date. À leur naissance, Neptune se trouvait déjà 40° à 63° plus loin que Pluton dans le zodiaque, et avance d’un peu plus de 2° par an : pour revenir sur Pluton de naissance, Neptune aurait besoin de près de 300° de plus, bien plus d’un siècle. Dans le décompte du site, aucune naissance de ces quatre-vingts années ne le rencontre avant 80 ans, et l’aspect natal [Neptune conjonction Pluton](/astrology/neptune-conjunct-pluto/) manque aux mêmes thèmes pour la même raison.
 

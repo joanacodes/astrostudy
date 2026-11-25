@@ -49,7 +49,7 @@ A pass lasts about two and a half years in my orbs, from 1½° before exact to 1
 
 In the site's count for births from 1930 to 2009, it came within orb at a median age of 0.7, and never later than 7: at 4.7 for someone born at the start of 1935, at 0.9 for 1945, within a few months for 1955 to 1985, at about 2 for 1995 and 2005. About 1 person in 6 never meets it. Most of them were born in the 1960s, some in the late 1950s and the 1970s: Neptune already stood a degree or more past the sextile to their Pluto, and it was moving away. No one meets it twice.
 
-The adult steps come later, at ages shared by everyone born within a year or two of you: [transiting Neptune square natal Pluto](/astrology/transiting-neptune-square-natal-pluto/) in adolescence, [transiting Neptune trine natal Pluto](/astrology/transiting-neptune-trine-natal-pluto/) between about 24 and 34, [transiting Neptune opposite natal Pluto](/astrology/transiting-neptune-opposite-natal-pluto/) between 51 and 62. [Transiting Neptune conjunct natal Pluto](/astrology/transiting-neptune-conjunct-natal-pluto/) doesn't come at all in these lives.
+The later steps come at ages your whole birth cohort shares: [transiting Neptune square natal Pluto](/astrology/transiting-neptune-square-natal-pluto/) in adolescence, [transiting Neptune trine natal Pluto](/astrology/transiting-neptune-trine-natal-pluto/) from the mid-twenties to the mid-thirties, [transiting Neptune opposite natal Pluto](/astrology/transiting-neptune-opposite-natal-pluto/) between 51 and 62. [Transiting Neptune conjunct natal Pluto](/astrology/transiting-neptune-conjunct-natal-pluto/) doesn't come at all in these lives.
 
 ## What helps {#what-helps}
 

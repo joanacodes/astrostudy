@@ -45,11 +45,11 @@ The natal [Neptune square Pluto](/astrology/neptune-square-pluto/) is absent fro
 
 ## How long it lasts {#how-long-it-lasts}
 
-One pass lasts about two and a half years in my orbs, from 1½° before exact to 1° after, under two when it is quickest, with three exact hits in most passes and five in about a quarter ([Neptune retrograde](/astrology/neptune-retrograde/)). Everyone meets it once, and no one twice.
+Neptune spends about two and a half years within my orbs of this square, from 1½° before exact to 1° after, under two in the quickest passes; it touches the exact degree three times as a rule, five times in roughly a quarter of passes ([Neptune retrograde](/astrology/neptune-retrograde/)). Everyone meets it once, and no one twice.
 
-The age follows how far Neptune stood ahead of Pluto when you were born: about 44° in the early 1930s, more than 60° through the 1960s, 51° to 55° in the 2000s. In the site's count it came within orb at 18 for someone born at the start of 1935, 14.9 for 1945, 12.9 for 1955, 12 for 1965, 12.2 for 1975, 14.1 for 1985, 15.3 for 1995 and 16.2 for 2005, between 10.5 and 20.3 in all. Born at the start of 1965, you met it exact at 13.0, 13.5 and 13.8.
+The age follows how far Neptune stood ahead of Pluto when you were born: about 44° in the early 1930s, more than 60° through the 1960s, 51° to 55° in the 2000s. The site's count puts the start of the orb at 18 for someone born at the start of 1935, 14.9 for 1945, 12.9 for 1955, 12 for 1965, 12.2 for 1975, 14.1 for 1985, 15.3 for 1995 and 16.2 for 2005, between 10.5 and 20.3 in all. Born at the start of 1965, you met it exact at 13.0, 13.5 and 13.8.
 
-It sits between [transiting Neptune sextile natal Pluto](/astrology/transiting-neptune-sextile-natal-pluto/), in infancy, and [transiting Neptune trine natal Pluto](/astrology/transiting-neptune-trine-natal-pluto/), between about 24 and 34; [transiting Neptune opposite natal Pluto](/astrology/transiting-neptune-opposite-natal-pluto/) follows in the fifties, and [transiting Neptune conjunct natal Pluto](/astrology/transiting-neptune-conjunct-natal-pluto/) never comes. Nor is it the [Neptune square](/astrology/neptune-square/), Neptune 90° from its own birth place at about 41.
+It sits between [transiting Neptune sextile natal Pluto](/astrology/transiting-neptune-sextile-natal-pluto/), in infancy, and the trine of the late twenties and early thirties, [transiting Neptune trine natal Pluto](/astrology/transiting-neptune-trine-natal-pluto/); [transiting Neptune opposite natal Pluto](/astrology/transiting-neptune-opposite-natal-pluto/) follows in the fifties, and [transiting Neptune conjunct natal Pluto](/astrology/transiting-neptune-conjunct-natal-pluto/) never comes. Nor is it the [Neptune square](/astrology/neptune-square/), Neptune 90° from its own birth place at about 41.
 
 ## What helps {#what-helps}
 

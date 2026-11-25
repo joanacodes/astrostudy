@@ -22,9 +22,9 @@ faq:
   - q: "What does transiting Neptune square natal Uranus mean?"
     a: "The square forms when Neptune reaches 90° from your natal Uranus, and it lasts about two and a half years. I read it as friction between the urge to change things and the pull of an ideal: movements, plans or communities you believed in get tested, and the work is to find a change that holds up in practice."
   - q: "How long does Neptune square Uranus last?"
-    a: "A little over two and a half years: typically two years and seven months with my orbs of 1½° before exact and 1° after, and no less than about twenty-two months. The exact square comes three times in most passes, five in about one in four."
+    a: "A little over two and a half years: typically two years and seven months with my orbs of 1½° before exact and 1° after, and no less than about twenty-two months. Neptune is exactly square your Uranus on three dates in most passes, on five in about one in four."
   - q: "At what age does Neptune square Uranus happen?"
-    a: "It depends on your birth year: about 11 for someone born at the start of 1965, 23 for 1975, 32 for 1985, 40½ for 1995. Born in the mid-1950s, you had it in your first months; born in 1935 or 1945, you met it in your sixties or seventies. Almost everyone born between 1930 and 2009 meets it."
+    a: "It depends on your birth year: about 11 for someone born at the start of 1965, 23 for 1975, 32 for 1985, 40½ for 1995. Born in the mid-1950s, you had it in your first months; born in 1935 or 1945, you met it in your sixties or seventies. It passes almost no one by."
   - q: "Is Neptune square Uranus part of a midlife crisis?"
     a: "For people born between 1990 and 1996 it falls around 40, in the same years as the Neptune square and near the Uranus opposition, so it can be part of that season. I don’t read any of them as a crisis: they describe old aims loosening and new ones asking for room, and what you do with that is yours."
 sources:

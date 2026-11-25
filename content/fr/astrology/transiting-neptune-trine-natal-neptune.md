@@ -42,7 +42,7 @@ Dans la cinquantaine, [Neptune](/astrology/neptune/), dans votre thème, a une h
 
 Circulation n’est pas passivité. Un trigone soutient une direction que vous choisissez ; sans elle, ses deux ans et demi peuvent passer sans rien laisser d’autre qu’une humeur agréable. Le piège serait de lâcher l’effort au nom de l’acceptation, comme si s’abandonner revenait à ne rien pouvoir : ce transit récompense un effort léger et régulier plus que l’absence d’effort.
 
-La maison que Neptune traverse, environ quatre maisons après votre Neptune de naissance, montre où passe le courant. Avec Neptune en maison 5 à la naissance, le trigone vient en général des environs de la maison 9, et ce que vous créez peut s’ouvrir sur l’étude, la croyance ou les horizons lointains ([Neptune en transit en maison 9](/astrology/neptune-transit-9th-house/)). Sans heure de naissance, ces maisons ne se placent pas, et je ne lis pas le thème ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison que Neptune traverse, environ quatre maisons après votre Neptune de naissance, montre où passe le courant. Avec Neptune en maison 5 à la naissance, le trigone vient en général des environs de la maison 9, et ce que vous créez peut s’ouvrir sur l’étude, la croyance ou les horizons lointains ([Neptune en transit en maison 9](/astrology/neptune-transit-9th-house/)). Sans heure de naissance, ces maisons ne se placent pas, et il n’y a pas de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

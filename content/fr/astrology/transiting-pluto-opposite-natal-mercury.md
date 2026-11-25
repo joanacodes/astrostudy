@@ -43,7 +43,7 @@ La voix la plus intense d’une pièce n’est pas toujours celle qui dit vrai, 
 
 Les mots peuvent aussi servir à dominer, et certaines personnes s’en servent ainsi. Ce n’est jamais un destin, et aucun transit ne vous demande de le supporter ; je ne lis pas Pluton comme une permission donnée au contrôle de qui que ce soit ([Ma méthode](/how-i-read/)). Dans un thème natal, [Mercure opposition Pluton](/astrology/mercury-opposite-pluto/) se lit comme la leçon d’une vie sur le pouvoir des mots ; le transit donne la même leçon à qui il touche, en quelques années.
 
-Avec Mercure en maison 4 et Pluton qui traverse la maison 10 ([Pluton en transit en maison 10](/astrology/pluto-transit-10th-house/)), les débats du travail ou de la vie publique pèsent sur ce que vous pensez et dites à la maison. Les maisons demandent votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Mercure en maison 4 et Pluton qui traverse la maison 10 ([Pluton en transit en maison 10](/astrology/pluto-transit-10th-house/)), les débats du travail ou de la vie publique pèsent sur ce que vous pensez et dites à la maison. Que Mercure soit en bas du thème, en maison 4, et Pluton en haut, en maison 10, seule l’heure de naissance peut le dire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

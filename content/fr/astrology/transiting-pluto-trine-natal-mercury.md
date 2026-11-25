@@ -43,7 +43,7 @@ Les changements d’avis du trigone se font peu à peu, et c’est pour cela qu�
 
 Ce que [Mercure trigone Pluton](/astrology/mercury-trine-pluto/) décrit dans un thème natal, une profondeur d’esprit facile, c’est ce que ce transit vous donne pour travailler, jusqu’à ce que Pluton s’éloigne.
 
-Avec Mercure en maison 2 et Pluton qui traverse la maison 6 ([Pluton en transit en maison 6](/astrology/pluto-transit-6th-house/)), des changements dans votre travail quotidien aident à penser plus clairement ce qui a de la valeur pour vous. Les maisons dépendent de votre heure de naissance, et je ne lis pas un thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Mercure en maison 2 et Pluton qui traverse la maison 6 ([Pluton en transit en maison 6](/astrology/pluto-transit-6th-house/)), des changements dans votre travail quotidien aident à penser plus clairement ce qui a de la valeur pour vous. Comme toutes les maisons, les maisons 2 et 6 se mesurent à partir de l’heure de naissance, et je ne lis pas un thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

@@ -23,9 +23,9 @@ faq:
   - q: "Que veut dire Neptune en transit carré Uranus du thème natal ?"
     a: "Le carré se forme quand Neptune arrive à 90° d’Uranus dans votre thème natal, et il dure deux ans et demi environ. J’y lis une friction entre le désir de changer et l’attrait d’un idéal : les mouvements ou les communautés auxquels vous croyiez sont mis à l’épreuve, et le travail consiste à trouver un changement qui tienne."
   - q: "Combien de temps dure Neptune carré Uranus ?"
-    a: "Un peu plus de deux ans et demi : d’ordinaire deux ans et sept mois avec mes orbes de 1,5° avant l’exactitude et 1° après, et pas moins de vingt-deux mois environ. Le carré exact revient trois fois dans la plupart des passages, cinq fois dans un sur quatre environ."
+    a: "Un peu plus de deux ans et demi : d’ordinaire deux ans et sept mois avec mes orbes de 1,5° avant l’exactitude et 1° après, et pas moins de vingt-deux mois environ. Neptune forme le carré exact à trois dates dans la plupart des passages, à cinq dans un sur quatre environ."
   - q: "À quel âge vient Neptune carré Uranus ?"
-    a: "Cela dépend de l’année de naissance : vers 11 ans pour une naissance début 1965, 23 ans pour 1975, 32 ans pour 1985, 40 ans et demi pour 1995. Pour les naissances du milieu des années 1950, ce carré est venu dans les premiers mois ; pour celles de 1935 ou 1945, dans la soixantaine ou la soixante-dizaine."
+    a: "Cela dépend de l’année de naissance : vers 11 ans pour une naissance début 1965, 23 ans pour 1975, 32 ans pour 1985, 40 ans et demi pour 1995. Pour les naissances du milieu des années 1950, ce carré est venu dans les premiers mois ; pour celles de 1935 ou de 1945, vers 61 et 70 ans."
   - q: "Est-ce que Neptune carré Uranus fait partie de la crise du milieu de vie ?"
     a: "Pour les personnes nées entre 1990 et 1996, ce carré tombe vers 40 ans, les mêmes années que le carré de Neptune et près de l’opposition d’Uranus : il peut donc faire partie de cette saison. Je ne lis aucun de ces transits comme une crise ; ils décrivent d’anciens buts qui se desserrent et de nouveaux qui demandent de la place."
 sources:

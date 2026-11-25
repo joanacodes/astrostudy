@@ -37,15 +37,15 @@ Neptune's trine to your natal Pluto comes in the late twenties or early thirties
 
 ## What changes {#what-changes}
 
-[Pluto](/astrology/pluto/) is the part of your chart that holds on, and that can, once it lets go, rebuild something truer. [Neptune](/astrology/neptune/) adds imagination and compassion to whatever it reaches. A [trine](/astrology/trine/), 120°, lets two functions reinforce each other while each stays itself, so under this [transit](/astrology/transits/) deep change and an ideal move the same way: you can let go of something because you can picture what replaces it.
+[Pluto](/astrology/pluto/) is the part of your chart that holds on, and that can, once it lets go, rebuild something truer. [Neptune](/astrology/neptune/) adds imagination and compassion to whatever it reaches. A [trine](/astrology/trine/), 120°, lets the two help each other without either giving way, so under this [transit](/astrology/transits/) deep change and an ideal move the same way: you can let go of something because you can picture what replaces it.
 
 The ease is real and quiet. Pluto's blind spot, underestimating gradual change, is the one to watch: the trine rarely announces itself, and what it allows is usually a change made slowly, through habits, work or a commitment that fits who you are becoming. Neptune brings its own caution, not to take the picture for the proof; a trine helps you act on a vision without vouching for it.
 
-The house transiting Neptune crosses, about four houses on from your natal Pluto, shows where the current runs. With Pluto in your 12th at birth, the trine usually comes from around your 4th, and what you have carried alone can soften into a gentler sense of home ([Neptune transiting the 4th house](/astrology/neptune-transit-4th-house/)). Both houses come from the birth time, so I read this only with it ([what changes without a birth time](/blog/unknown-birth-time/)).
+Where the current runs depends on the house Neptune is crossing, roughly four on from the one that holds your Pluto. With Pluto in your 12th at birth, Neptune is then usually moving through your 4th, and what you have carried alone can soften into a gentler sense of home ([Neptune transiting the 4th house](/astrology/neptune-transit-4th-house/)). Both houses depend on the birth time, without which I give no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-In my orbs, from 1½° before exact to 1° after, a pass lasts about two and a half years, under two in the quickest, with three exact hits in most passes and five in about a quarter ([Neptune retrograde](/astrology/neptune-retrograde/)). Everyone meets it, and a few people meet it in two separate stretches.
+In my orbs, from 1½° before exact to 1° after, the trine stays about two and a half years, under two in the quickest passes, three exact hits being the rule and five turning up in roughly a quarter of them ([Neptune retrograde](/astrology/neptune-retrograde/)). Everyone meets it, and a few people meet it in two separate stretches.
 
 In the site's count it came within orb between 23.8 and 34.3: at 32 for someone born at the start of 1935, 29 for 1945, 27 for 1955, 26 for 1965 and 1975, 27.3 for 1985, then 29.3 and 29.4 for 1995 and 2005. Born at the start of 1975, you met it exact at 27.1, 27.6 and 28.0.
 

@@ -42,7 +42,7 @@ The most intense voice in a room is not always the one telling the truth, and th
 
 Words can also be used to dominate, and some people do. That is never fate, and no transit asks you to endure it; I don't read Pluto as permission for anyone's control ([how I read](/how-i-read/)). [Mercury opposite Pluto](/astrology/mercury-opposite-pluto/) in a birth chart is read as a lifetime's lesson in the power of words; the transit gives the same lesson to anyone it reaches, in a few years.
 
-With Mercury in the 4th and Pluto crossing the 10th ([Pluto transiting the 10th house](/astrology/pluto-transit-10th-house/)), debates at work or in public press on what you think and say at home. The houses need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Mercury in the 4th and Pluto crossing the 10th ([Pluto transiting the 10th house](/astrology/pluto-transit-10th-house/)), debates at work or in public press on what you think and say at home. Whether your Mercury sits low in the 4th and Pluto high in the 10th is something only the birth time can tell ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

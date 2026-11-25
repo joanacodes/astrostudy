@@ -34,7 +34,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "l’âge à l’opposition, année de naissance par année de naissance, et la durée de Neptune dans mes orbes" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Neptune aux planètes lentes" }
 ---
-Des étapes que Neptune franchit en s’éloignant de votre Pluton de naissance, c’est la plus lointaine qu’une vie atteigne : Neptune de l’autre côté du zodiaque, entre 51 et 62 ans, pour toutes les personnes nées de 1930 à 2009.
+Des étapes que Neptune franchit en s’éloignant de votre Pluton de naissance, c’est la plus lointaine qu’une vie atteigne : Neptune de l’autre côté du zodiaque, entre 51 et 62 ans, pour chacune des naissances de 1930 à 2009.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -42,13 +42,13 @@ Des étapes que Neptune franchit en s’éloignant de votre Pluton de naissance,
 
 L’angle mort de Pluton, ici, est de confondre une façon de survivre avec qui vous êtes. Bien des défenses construites au fil des décennies ont fait leur travail ; l’opposition permet de les voir de l’autre côté et de garder celles qui protègent encore quelque chose de réel. Neptune ajoute le risque de basculer à l’inverse et de tout abandonner pour un idéal. Le travail d’une opposition est l’équilibre, pas le renversement.
 
-Les maisons montrent ce qui fait face à quoi. Avec Pluton en maison 9 à la naissance, Neptune vient des environs de la maison 3, et des croyances tenues avec une grande force rencontrent la conversation de tous les jours, l’avis d’un voisin, la façon dont vous parlez à vos proches ([Neptune en transit en maison 3](/astrology/neptune-transit-3rd-house/)). Ces maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les sentiments lourds qui durent relèvent d’un médecin ou d’un thérapeute ; un transit n’est jamais qu’une description ([astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
+Les maisons montrent ce qui fait face à quoi. Avec Pluton en maison 9 à la naissance, Neptune vient des environs de la maison 3, et des croyances tenues avec une grande force rencontrent la conversation de tous les jours, l’avis d’un voisin, la façon dont vous parlez à vos proches ([Neptune en transit en maison 3](/astrology/neptune-transit-3rd-house/)). Il faut l’heure de naissance pour les placer ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les sentiments lourds qui durent relèvent d’un médecin ou d’un thérapeute ; un transit n’est jamais qu’une description ([astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
 
 ## Combien de temps {#combien-de-temps}
 
-Mesuré dans mes orbes, de 1,5° avant l’exactitude à 1° après, un passage prend environ deux ans et demi, moins de deux pour les plus serrés, avec trois passages exacts en règle générale et cinq environ une fois sur quatre ([Neptune rétrograde](/astrology/neptune-retrograde/)). Chaque naissance de 1930 à 2009 le rencontre une fois.
+Mesuré dans mes orbes, de 1,5° avant l’exactitude à 1° après, un passage prend environ deux ans et demi, un peu moins pour les plus serrés, avec trois passages exacts la plupart du temps et cinq dans un quart des passages à peu près ([Neptune rétrograde](/astrology/neptune-retrograde/)). Chaque naissance de 1930 à 2009 le rencontre une fois.
 
-Dans le décompte du site, l’orbe s’ouvrait à 60,1 ans pour une naissance au début de 1935, 56,2 pour 1945, 54,2 pour 1955, 53,2 pour 1965 et 53,3 pour 1975, puis 54,4, 55,6 et 56,5 pour 1985, 1995 et 2005 : entre 51 et 62,4 ans en tout. Au début de 1975, les passages exacts tombaient à 54,3, 54,8 et 55,1 ans.
+Dans le décompte du site, l’orbe s’ouvrait à 60,1 ans pour une naissance au début de 1935, 56,2 pour 1945, 54,2 pour 1955, 53,2 pour 1965 et 53,3 pour 1975, puis 54,4, 55,6 et 56,5 pour 1985, 1995 et 2005 : entre 51 et 62,4 ans en tout. Pour une naissance au début de 1975, l’opposition était exacte à 54,3, 54,8 et 55,1 ans.
 
 Pour la plupart des personnes nées entre le milieu des années 1940 et le milieu des années 1980, 180° de Pluton font 120° de Neptune : cette opposition et [Neptune en transit trigone Neptune du thème natal](/astrology/transiting-neptune-trine-natal-neptune/) arrivent comme une seule saison, le relâchement et l’aisance ensemble. En ce moment, toutes les personnes nées de 1971 à 1984, avec [Pluton en Balance](/astrology/pluto-in-libra/), ont Neptune en Bélier en face, entre le début et le milieu de la cinquantaine, jusqu’à ce que Neptune quitte le Bélier en mars 2039.
 

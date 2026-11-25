@@ -45,7 +45,7 @@ The houses show what faces what. With natal Pluto in your 9th, Neptune comes fro
 
 ## How long it lasts {#how-long-it-lasts}
 
-Measured in my orbs, from 1½° before exact to 1° after, a pass takes about two and a half years, under two in the tightest, with three exact hits as a rule and five in about one pass in four ([Neptune retrograde](/astrology/neptune-retrograde/)). Everyone born from 1930 to 2009 meets it once.
+Measured in my orbs, from 1½° before exact to 1° after, a pass takes about two and a half years, under two in the tightest, with three exact hits most of the time and five in roughly a quarter of passes ([Neptune retrograde](/astrology/neptune-retrograde/)). Everyone born from 1930 to 2009 meets it once.
 
 In the site's count the orb opened at 60.1 for someone born at the start of 1935, 56.2 for 1945, 54.2 for 1955, 53.2 for 1965 and 53.3 for 1975, then 54.4, 55.6 and 56.5 for 1985, 1995 and 2005: between 51 and 62.4 in all. Born at the start of 1975, you met it exact at 54.3, 54.8 and 55.1.
 

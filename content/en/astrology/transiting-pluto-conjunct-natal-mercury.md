@@ -40,9 +40,9 @@ When Pluto reaches your Mercury, thinking goes to the root. For two to three yea
 
 A mind that goes to the root can start treating whatever is hidden as truer than whatever is in plain sight. Reading between the lines is a skill; reading between every line is a habit, and sometimes the plain meaning was the real one. Reasoning isn't certainty either. The deepest thought of the season is worth checking like any other.
 
-Born with [Mercury conjunct Pluto](/astrology/mercury-conjunct-pluto/), you know this depth from the inside, and you met the transit in your first years if Mercury stood just ahead of Pluto, or never.
+Born with [Mercury conjunct Pluto](/astrology/mercury-conjunct-pluto/), you know this depth from the inside.
 
-With Mercury in the 3rd, the conjunction falls during Pluto's long stay in the house of words, learning and daily exchange ([Pluto transiting the 3rd house](/astrology/pluto-transit-3rd-house/)), and conversations with siblings or neighbours can change in tone. The house comes from your birth time, and I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Mercury in the 3rd, the conjunction falls during Pluto's long stay in the house of words, learning and daily exchange ([Pluto transiting the 3rd house](/astrology/pluto-transit-3rd-house/)), and conversations with siblings or neighbours can change in tone. Only the birth time can say whether your Mercury is in the 3rd, and I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

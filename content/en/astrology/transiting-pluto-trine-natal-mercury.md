@@ -42,7 +42,7 @@ The trine's changes of mind are gradual, and that makes them easy to underrate. 
 
 What [Mercury trine Pluto](/astrology/mercury-trine-pluto/) describes in a birth chart, an easy depth of mind, is what this transit gives you to work with until Pluto moves on.
 
-With Mercury in the 2nd and Pluto crossing the 6th ([Pluto transiting the 6th house](/astrology/pluto-transit-6th-house/)), changes in your daily work make it easier to think clearly about what you value. The houses depend on your birth time, and I won't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Mercury in the 2nd and Pluto crossing the 6th ([Pluto transiting the 6th house](/astrology/pluto-transit-6th-house/)), changes in your daily work make it easier to think clearly about what you value. Like every house, the 2nd and the 6th are measured from the birth time, and I won't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

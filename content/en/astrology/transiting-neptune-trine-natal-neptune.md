@@ -41,7 +41,7 @@ By the fifties, the [Neptune](/astrology/neptune/) in your chart has a history: 
 
 Flow isn't passivity. A trine supports a direction you choose, and without one its two and a half years can pass with nothing to show but a pleasant mood. The trap is to let effort go in the name of acceptance, as if surrender and helplessness were the same thing; this transit rewards a light, steady effort more than none.
 
-The house transiting Neptune crosses, about four houses on from your natal Neptune, shows where the current runs. With Neptune born in your 5th, the trine usually comes from around your 9th, and what you create can open onto study, belief or far places ([Neptune transiting the 9th house](/astrology/neptune-transit-9th-house/)). Without a birth time those houses can't be placed, and I don't read the chart ([what changes without a birth time](/blog/unknown-birth-time/)).
+The house transiting Neptune crosses, about four houses on from your natal Neptune, shows where the current runs. With Neptune born in your 5th, the trine usually comes from around your 9th, and what you create can open onto study, belief or far places ([Neptune transiting the 9th house](/astrology/neptune-transit-9th-house/)). Without a birth time those houses can't be placed, so there is no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

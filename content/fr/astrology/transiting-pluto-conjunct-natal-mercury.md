@@ -41,9 +41,9 @@ Quand Pluton atteint votre Mercure, la pensée va à la racine. Pendant deux à 
 
 Un esprit qui va à la racine peut se mettre à croire que tout ce qui est caché est plus vrai que ce qui est en pleine lumière. Lire entre les lignes est un talent ; lire entre toutes les lignes est une habitude, et parfois le sens premier était le bon. Raisonner n’est pas non plus être sûr. La pensée la plus profonde de la saison mérite d’être vérifiée comme les autres.
 
-Si votre naissance porte [Mercure conjonction Pluton](/astrology/mercury-conjunct-pluto/), vous connaissez cette profondeur de l’intérieur, et vous avez vécu ce transit dans vos premières années si Mercure se trouvait juste devant Pluton, ou jamais.
+Si votre naissance porte [Mercure conjonction Pluton](/astrology/mercury-conjunct-pluto/), vous connaissez cette profondeur de l’intérieur.
 
-Avec Mercure en maison 3, la conjonction tombe pendant le long séjour de Pluton dans la maison des mots, de l’apprentissage et des échanges quotidiens ([Pluton en transit en maison 3](/astrology/pluto-transit-3rd-house/)), et les conversations avec vos frères et sœurs ou vos voisins peuvent changer de ton. La maison vient de votre heure de naissance, et je ne lis pas un thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec Mercure en maison 3, la conjonction tombe pendant le long séjour de Pluton dans la maison des mots, de l’apprentissage et des échanges quotidiens ([Pluton en transit en maison 3](/astrology/pluto-transit-3rd-house/)), et les conversations avec vos frères et sœurs ou vos voisins peuvent changer de ton. Seule l’heure de naissance peut dire si votre Mercure est en maison 3, et je ne lis pas un thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

@@ -44,7 +44,7 @@ Analysis isn't overthinking, but under this square the two can blur. When the sa
 
 Where the trine ([Transiting Pluto trine natal Mercury](/astrology/transiting-pluto-trine-natal-mercury/)) lets a change of mind come easily and the sextile ([Transiting Pluto sextile natal Mercury](/astrology/transiting-pluto-sextile-natal-mercury/)) offers one, the square insists. Unlike the opposition ([Transiting Pluto opposite natal Mercury](/astrology/transiting-pluto-opposite-natal-mercury/)), it needn't come through another person: often it is a problem your usual reasoning can't crack. And unlike the conjunction ([Transiting Pluto conjunct natal Mercury](/astrology/transiting-pluto-conjunct-natal-mercury/)), it leaves you enough distance to watch your thinking change. In a birth chart, [Mercury square Pluto](/astrology/mercury-square-pluto/) makes this friction a lifelong habit of mind; the transit lends it to everyone else for a few years.
 
-With Mercury in the 10th and Pluto crossing the 1st ([Pluto transiting the 1st house](/astrology/pluto-transit-1st-house/)), the way you speak and decide at work rubs against a changing sense of who you are. Both houses come from your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+With Mercury in the 10th and Pluto crossing the 1st ([Pluto transiting the 1st house](/astrology/pluto-transit-1st-house/)), the way you speak and decide at work rubs against a changing sense of who you are. The 10th and the 1st are set by the hour of birth, the Ascendant first of all ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

@@ -38,7 +38,7 @@ Few transits move with the birth year like this one. Neptune needs decades to re
 
 ## What changes {#what-changes}
 
-[Uranus](/astrology/uranus/) in your chart is where you need room to differ, to test another way and to reform what has stopped working. [Neptune](/astrology/neptune/) pulls the other way, towards imagination, compassion and what people hold in common. An [opposition](/astrology/opposition/) holds two functions across the chart from each other, so under this [transit](/astrology/transits/) the independence you have built meets its counterpart: a longing to belong to something larger, an ideal a group holds, a dream that asks for loyalty rather than distance.
+[Uranus](/astrology/uranus/) in your chart is where you need room to differ, to test another way and to reform what has stopped working. [Neptune](/astrology/neptune/) pulls the other way, towards imagination, compassion and what people hold in common. An [opposition](/astrology/opposition/) sets them on opposite sides of the chart, so under this [transit](/astrology/transits/) the independence you have built meets its counterpart: a longing to belong to something larger, an ideal a group holds, a dream that asks for loyalty rather than distance.
 
 Each side brings its blind spot. Uranus can take distance for objectivity; Neptune can take a shared feeling for the truth. The opposition shows both, often through other people: a friend who gives everything to a cause you'd never join, a circle that welcomes you as long as you stop arguing. What it asks for is integration, not surrender either way: which of your freedoms serve something you care about, and which ideals could use your habit of thinking for yourself.
 

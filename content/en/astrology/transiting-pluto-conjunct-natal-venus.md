@@ -5,6 +5,8 @@ description: "Transiting Pluto conjunct natal Venus: two to three years when wha
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "Venus", "conjunction", "transits"]
 weight: 1813
 glyph: "♇☌♀"
 definition: "Transiting Pluto conjunct natal Venus is Pluto on the degree of your birth Venus for about two years and eight months, a transit more than half of people never meet. What you value, find beautiful and are drawn to deepens, and some tastes fall away. I read it as renewal of your values, never as a forecast about love."
@@ -38,7 +40,7 @@ When Pluto reaches your Venus, what you value and what draws you are changed fro
 
 An attraction's intensity isn't proof that it is right for you. Pluto turns the volume up, and a strong pull is worth listening to and worth questioning. Nor is intensity a reason to accept control: jealousy, possessiveness and pressure are not the price of a deep bond, under this transit or any other. No transit forecasts falling in love, a break-up or money, and I don't read this one for any of them ([how I read](/how-i-read/)).
 
-Born with [Venus conjunct Pluto](/astrology/venus-conjunct-pluto/), you met this transit in your first years if Venus stood a few degrees ahead of Pluto, and otherwise not at all.
+If [Venus conjunct Pluto](/astrology/venus-conjunct-pluto/) is in your birth chart, what this transit describes is already part of how you love; the transit itself came early, or will not come.
 
 With Venus in the 5th, the conjunction falls during Pluto's long stay in the house of pleasure, play and creative work ([Pluto transiting the 5th house](/astrology/pluto-transit-5th-house/)), and what you make, or do for the love of it, changes most. The house comes from your birth time, like everything that places Venus in your life ([what changes without a birth time](/blog/unknown-birth-time/)).
 
