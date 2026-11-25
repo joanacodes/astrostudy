@@ -36,7 +36,7 @@ Some couples are happiest on the way somewhere: a train crossing a border, a lec
 
 [The composite chart](/astrology/composite-chart/) gives a relationship a horizon of its own: one chart, built from the midpoints of two birth charts, read as a third thing that belongs to neither of you. Its [Neptune](/astrology/neptune/) shows where the bond longs for something larger than itself. [The 9th house](/astrology/9th-house/) is the house of belief and wide horizons: faith and philosophy, higher study and teaching, long journeys and foreign places. With Neptune here, the pair's ideal is a shared search. The two of you may study together, travel as if on pilgrimage rather than on holiday, take up a spiritual practice side by side, or simply keep a conversation about what matters running for years. Other cultures and other faiths tend to move this bond rather than threaten it.
 
-Tradition called the 9th the God and made it the place of the Sun's joy ([planetary joys](/astrology/planetary-joys/)). A Neptune here doesn't make the pair religious; it makes it reverent, in whatever form reverence takes for the two of you.
+Old astrologers gave this house a grand name, the God, and placed the Sun's joy in it ([planetary joys](/astrology/planetary-joys/)). A Neptune here doesn't make the pair religious; it makes it reverent, in whatever form reverence takes for the two of you.
 
 Teaching belongs here too. Some pairs with this Neptune end up passing on what they have found, running a reading group, leading walks, teaching a craft or a language together, and the bond's dream grows by being shared with people who are just starting out.
 

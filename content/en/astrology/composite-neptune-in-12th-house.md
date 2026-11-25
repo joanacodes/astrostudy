@@ -37,7 +37,7 @@ Some couples are at their closest when nobody else is watching: a long walk with
 
 [The composite chart](/astrology/composite-chart/) draws a relationship as a third thing, from the midpoints of two birth charts, and that third thing has an inner life too. Composite [Neptune](/astrology/neptune/) is where it dreams, and [the 12th house](/astrology/12th-house/) is the house of solitude, retreat, reflection and compassion given without an audience. Neptune rules Pisces, this house's natural sign, in modern tropical astrology, so it works here at ease. The two of you may share a spiritual practice, meditate or pray side by side, make music for nobody but yourselves, or quietly look after people who will never know your names. Silence together feels full rather than empty, and the relationship is a refuge from a loud world.
 
-Tradition called the 12th the Bad Spirit and made it the place of Saturn's joy ([planetary joys](/astrology/planetary-joys/)); with Neptune here, the house is gentler than its name.
+The 12th carried a heavy old name, the Bad Spirit, though Saturn was said to rejoice there ([planetary joys](/astrology/planetary-joys/)); with Neptune in it, the house is gentler than its name.
 
 The difficulty is withdrawal. A bond whose richest life is inward can drift away from friends and family until nobody outside quite knows it, or fold one partner's sorrow into its silence instead of naming it. Quiet can hide things neither of you meant to hide. Solitude shared isn't isolation, as long as the door still opens: a few people who see the relationship as it is, and a habit of saying aloud what usually goes unsaid, keep the refuge from turning into a retreat from life.
 
