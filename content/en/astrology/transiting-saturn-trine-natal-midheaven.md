@@ -32,7 +32,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long it lasts with my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to the angles, read one by one" }
 ---
-The trine to your Midheaven rarely announces itself. Ten years or so before Saturn reaches the top of your chart, and again ten years after, the role you've been growing into steadies, and work that used to need pushing begins to carry itself.
+The trine to your Midheaven tends to arrive without fanfare. Ten years or so before Saturn reaches the top of your chart, and again ten years after, the role you've been growing into steadies, and work that used to need pushing begins to carry itself.
 
 ## What changes {#what-changes}
 

@@ -41,7 +41,7 @@ Un demi-tour de Saturne après le passage sur votre Neptune, une quinzaine d’a
 
 Une polarité n’est pas une contradiction, et je n’y lis pas de vainqueur. La saison demande un idéalisme pratique : un rêve que l’on peut décrire en heures et en étapes, une structure dont on peut dire à quoi elle sert. Ce qui s’est mis en mouvement quand Saturne a franchi votre Neptune, une quinzaine d’années plus tôt ([Saturne en transit conjonction Neptune du thème natal](/astrology/transiting-saturn-conjunct-natal-neptune/)), se voit maintenant depuis l’autre rive, et une partie demande à être repesée.
 
-La maison de Neptune montre ce que vous idéalisez ; la maison opposée, où se trouve Saturne, montre d’où vient l’appel au réalisme. Avec Neptune en maison 1, Saturne traverse votre maison 7, et ce sont parfois vos partenaires qui demandent des contours plus nets. C’est votre heure de naissance qui fixe ces deux maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison de Neptune montre ce que vous idéalisez ; la maison opposée, où se trouve Saturne, montre d’où vient l’appel au réalisme. Avec Neptune en maison 1, Saturne traverse votre maison 7, et ce sont parfois vos partenaires qui demandent des contours plus nets. Votre heure de naissance tranche : elle seule dit quelles sont ces deux maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

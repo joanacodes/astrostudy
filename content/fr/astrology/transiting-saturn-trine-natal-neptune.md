@@ -41,7 +41,7 @@ Pendant quelques mois, deux fois par tour de Saturne, la planète de la discipli
 
 Ce que je surveille, c’est la dérive. Un courant n’est pas de la passivité, et un trigone entre ces deux planètes peut être si confortable qu’il tourne à la rêverie agréable avec un emploi du temps. Il aide le plus quand vous lui demandez quelque chose de précis : une œuvre terminée, une pratique tenue pendant toute la période, une cause qui reçoit ses heures chaque semaine.
 
-La maison de votre Neptune dit de quel rêve il s’agit : en maison 12, une vie intérieure discrète ; en maison 3, les mots et les images. La maison que traverse Saturne à ce moment-là montre d’où vient la régularité. Toutes deux reposent sur votre heure de naissance, la minute sur laquelle un thème est bâti ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). [Saturne trigone Neptune](/astrology/saturn-trine-neptune/) dans un thème natal fait de cette coopération une habitude de toute une vie ; le transit la prête le temps d’une saison.
+La maison de votre Neptune dit de quel rêve il s’agit : en maison 12, une vie intérieure discrète ; en maison 3, les mots et les images. Et la maison où passe alors Saturne indique d’où vient la régularité. Toutes deux reposent sur votre heure de naissance, la minute sur laquelle un thème est bâti ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). [Saturne trigone Neptune](/astrology/saturn-trine-neptune/) dans un thème natal fait de cette coopération une habitude de toute une vie ; le transit la prête le temps d’une saison.
 
 ## Combien de temps {#combien-de-temps}
 

@@ -42,7 +42,7 @@ Le [Soleil](/astrology/sun/) organise l’identité, la vitalité et le sens de 
 
 J’y lis un renouveau plutôt qu’une rupture. L’innovation n’est pas le chaos, et l’autonomie n’est pas l’isolement : les personnes qui traversent le mieux ce transit changent en général exprès, et restent en lien pendant qu’elles changent. Certaines changent de façon visible, un nouveau domaine, une nouvelle façon de vivre ; d’autres sans bruit, dans leur manière de décider et dans ce qu’elles n’acceptent plus. Rien de tout cela n’est obligatoire, et rien ici n’annonce un déménagement, une rupture ou un emploi perdu ([ma méthode](/how-i-read/)).
 
-La maison de votre Soleil montre où il faut de la place. Avec le Soleil en maison 10, la conjonction tombe pendant [Uranus en transit en maison 10](/astrology/uranus-transit-10th-house/), et c’est le travail que vous voudrez réinventer ; en maison 4, le foyer. Situer cette maison demande la minute de votre naissance, et c’est pourquoi l’heure passe avant tout le reste dans une lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison de votre Soleil indique le domaine qui réclame de l’espace. Avec le Soleil en maison 10, la conjonction tombe pendant [Uranus en transit en maison 10](/astrology/uranus-transit-10th-house/), et c’est le travail que vous voudrez réinventer ; en maison 4, le foyer. Situer cette maison demande la minute de votre naissance, et c’est pourquoi l’heure passe avant tout le reste dans une lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

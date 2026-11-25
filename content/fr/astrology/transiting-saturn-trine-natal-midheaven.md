@@ -33,7 +33,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée avec mes orbes, et son nombre avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits aux angles, lus un à un" }
 ---
-Le trigone à votre Milieu du Ciel s’annonce rarement. Une dizaine d’années avant que Saturne atteigne le sommet de votre thème, puis une dizaine d’années après, le rôle dans lequel vous grandissez se stabilise, et le travail qu’il fallait pousser commence à se porter tout seul.
+Le trigone à votre Milieu du Ciel arrive en général sans bruit. Une dizaine d’années avant que Saturne atteigne le sommet de votre thème, puis une dizaine d’années après, le rôle dans lequel vous grandissez se stabilise, et le travail qu’il fallait pousser commence à se porter tout seul.
 
 ## Ce qui change {#ce-qui-change}
 
