@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Sun", "conjunction", "transits"]
 weight: 1621
 glyph: "♄☌☉"
-definition: "Transiting Saturn conjunct natal Sun is Saturn in the sky crossing the degree your Sun held at birth, two or three times in a lifetime. For about nine months, structure and responsibility meet your sense of self: what you are for, and what you will commit to. I read it as a season of consolidation, never a verdict on you."
+definition: "Transiting Saturn conjunct natal Sun is Saturn passing over the degree the Sun held on your birthday, only two or three times in a lifetime. For about nine months, structure and responsibility meet your sense of self: what you are for, and what you will commit to. I read it as consolidation, and never as a judgement of you."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "The Sun ☉, your identity and direction" }
@@ -21,9 +21,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/sun", "/astrology/sun-conjunct-saturn", "/astrology/saturn-return", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn conjunct natal Sun mean?"
-    a: "Saturn in the sky is crossing the degree your Sun held when you were born, as it does about every 29½ years. I read it as a season when your sense of self asks for structure: what you’re for, what you’ll commit to, what you’ve outgrown. It’s demanding and often tiring, and it’s consolidation, not punishment."
+    a: "Saturn is back on your Sun’s birth degree, a meeting that comes round roughly every 29½ years and opens a new round between the two. I read it as a season when your sense of self asks for structure: what you’re for, what you’ll commit to, what you’ve outgrown. It’s demanding and often tiring, and it’s consolidation, not punishment."
   - q: "How long does Saturn conjunct the Sun last?"
-    a: "Usually about nine months within my orbs, from 1½° before exact to 1° after. A little over half the time Saturn loops back and crosses your Sun three times in about nine and a half months; when it passes at full speed, the crossing can take as little as three weeks."
+    a: "Most of a year, usually: about nine months within my orbs of 1½° before exact and 1° after, and nine and a half when Saturn loops back to cross your Sun three times, which happens a little over half the time. Only when Saturn crosses at full speed, close to your birthday, is it over in about three weeks."
   - q: "When will Saturn conjunct my Sun?"
     a: "Count how far Saturn stood behind your Sun when you were born: it covers a sign in about two and a half years. Three signs behind means a first crossing at about seven or eight, then one every 29½ years. Saturn is in Aries until April 2028, so Aries birthdays are meeting it now."
   - q: "Is Saturn conjunct my Sun bad for my health?"
@@ -47,11 +47,11 @@ Saturn was one of the three placements that held far more often than the rest in
 
 ## How long it lasts {#how-long-it-lasts}
 
-Saturn moves slowly, so the crossing is a season, not a week. With my orbs, from 1½° before exact to 1° after, it usually lasts about nine months. A little over half the time it comes as a loop: Saturn crosses your Sun, turns back over it during [Saturn retrograde](/astrology/saturn-retrograde/) and crosses it a third time, about nine and a half months in all. When Saturn passes at full speed, it can be over in three weeks.
+Saturn moves slowly, so the crossing is a season, not a week. Saturn's crossing of your Sun, counted with my orbs of 1½° before exact and 1° after, takes most of a year: about nine months in the usual case. A little over half the time it comes as a loop: Saturn crosses your Sun, turns back over it during [Saturn retrograde](/astrology/saturn-retrograde/) and crosses it a third time, about nine and a half months in all. A rare quick crossing, at Saturn's full speed, is over in three weeks.
 
 When yours comes depends on how far Saturn stood behind your Sun when you were born, at about two and a half years a sign: three signs behind, and the first crossing came at about seven or eight. Saturn is in Aries from February 2026 to April 2028, after a first visit in 2025, so Aries birthdays are meeting it now, the early ones in 2026 and 2027, the late ones in 2027 and early 2028. Taurus birthdays follow until mid-2030. Tradition exalted the Sun in Aries and gave Saturn its fall there, an old picture of two paces that have to learn each other.
 
-Between two crossings, Saturn takes nearly thirty years to work round your Sun: the first [transiting Saturn sextile natal Sun](/astrology/transiting-saturn-sextile-natal-sun/) comes about five years on, the first [transiting Saturn square natal Sun](/astrology/transiting-saturn-square-natal-sun/) at about seven, the first [transiting Saturn trine natal Sun](/astrology/transiting-saturn-trine-natal-sun/) at about ten, and [transiting Saturn opposite natal Sun](/astrology/transiting-saturn-opposite-natal-sun/) around fifteen. By 80, people born between 1930 and 2009 have had the crossing itself two or three times.
+Between two crossings, Saturn takes nearly thirty years to work round your Sun: the first [transiting Saturn sextile natal Sun](/astrology/transiting-saturn-sextile-natal-sun/) comes about five years on, the first [transiting Saturn square natal Sun](/astrology/transiting-saturn-square-natal-sun/) at about seven, the first [transiting Saturn trine natal Sun](/astrology/transiting-saturn-trine-natal-sun/) at about ten, and [transiting Saturn opposite natal Sun](/astrology/transiting-saturn-opposite-natal-sun/) around fifteen. Two or three of these crossings come by 80 for people born between 1930 and 2009, depending on where Saturn stood at their birth.
 
 ## What helps {#what-helps}
 

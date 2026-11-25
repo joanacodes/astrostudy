@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn opposite natal Mars"
 h1: "Transiting Saturn opposite your natal Mars"
-description: "Transiting Saturn opposite natal Mars: halfway round Saturn’s cycle, your drive meets other people’s limits and authority. How long, and what helps."
+description: "Transiting Saturn opposite natal Mars: halfway round Saturn’s cycle, your drive meets other people’s limits and authority. Negotiating rather than fighting."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Mars", "opposition", "transits"]
 weight: 1645
 glyph: "♄☍♂"
-definition: "Transiting Saturn opposite natal Mars is Saturn 180° from the degree your Mars held at birth, about fifteen years after Saturn crossed it, once in each round. What you want to do now meets what someone else, or a system, will allow. I read it as a season for measuring effort and boundaries, never as conflict foretold."
+definition: "Transiting Saturn opposite natal Mars is Saturn on the far side of the zodiac from your birth Mars, about fifteen years after it crossed that degree, once in each round. What you want to do now meets what someone else, or a system, will allow. I read it as a season for measuring effort and boundaries, never as conflict foretold."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "Mars ♂: your drive, effort and initiative" }
@@ -20,16 +20,16 @@ facts:
 related: ["/astrology/saturn", "/astrology/mars", "/astrology/opposition", "/astrology/mars-opposite-saturn", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn opposite natal Mars mean?"
-    a: "Saturn stands across the zodiac from your birth Mars. Your drive and initiative meet limits that come from outside: an authority, a rival, a partner’s pace, an institution’s procedures. I read it as a season for measuring your strength against real limits and setting clear boundaries, never as a fight you are bound to lose."
+    a: "Saturn is 180° from where your Mars stood at birth. Your drive and initiative meet limits that come from outside: an authority, a rival, a partner’s pace, an institution’s procedures. I read it as a season for measuring your strength against real limits and setting clear boundaries, never as a fight you are bound to lose."
   - q: "Does Saturn opposite Mars bring conflict?"
     a: "Not as a rule, and I don’t read transits for disputes or their outcomes. The opposition tends to put your drive face to face with someone else’s limits: a boss, a rival, a partner, a procedure. That can mean friction, and it can mean a negotiation that teaches both sides where the line is."
   - q: "When does Saturn oppose my natal Mars?"
-    a: "About fifteen years after Saturn last crossed your Mars, halfway through its round of about 29½ years, so two or three times by 80. With my orbs, from 1½° before exact to 1° after, it usually lasts about nine months, often in three passes; a quick single crossing can be over in three weeks."
+    a: "Halfway round Saturn’s cycle from the last conjunction, roughly fifteen years on: two or three times in a life of 80 years. Each opposition fills about nine months with my orbs (1½° before exact, 1° after), often in three exact passes, and a fast crossing can be over in three weeks."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in orb with my orbs, and how often the opposition comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-About fifteen years after crossing your Mars, Saturn stands across the zodiac from it, at the far point of their round. Your drive meets resistance from outside, from a person, an institution or a set of terms, and the season is about learning where your push ends and someone else's limit begins.
+At the far point of their round, some fifteen years after the conjunction, Saturn stands across the zodiac from your Mars. Your drive meets resistance from outside, from a person, an institution or a set of terms, and the season is about learning where your push ends and someone else's limit begins.
 
 ## What changes {#what-changes}
 
@@ -39,7 +39,7 @@ It often looks like competition, negotiation or authority: a boss who slows a pr
 
 Boundaries are part of Mars's job, and the opposition tests them both ways: where you've let others push past yours, and where you've leaned on theirs. Saying no clearly, and hearing no without taking it as an insult, are the skills it builds. Disputes sometimes come up, and I give no forecast of how they end ([can astrology predict a court case?](/astrology/can-astrology-predict-a-court-case/)).
 
-With your Mars in the 10th and Saturn crossing your 4th ([Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/)), ambition meets the needs of home and family, and the push for standing has to make room for them. Your birth time sets both ends of that axis; without it the transit stays unread ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Mars opposite Saturn](/astrology/mars-opposite-saturn/), you've had a lifetime's practice at effort that meets a counterweight, which tends to make this season more familiar than frightening.
+With your Mars in the 10th and Saturn crossing your 4th ([Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/)), ambition meets the needs of home and family, and the push for standing has to make room for them. Without your birth time, the line from your 10th house to your 4th can't be drawn, and the transit stays unread ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Mars opposite Saturn](/astrology/mars-opposite-saturn/), you've had a lifetime's practice at effort that meets a counterweight, which tends to make this season more familiar than frightening.
 
 ## How long it lasts {#how-long-it-lasts}
 

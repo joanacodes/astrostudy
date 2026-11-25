@@ -33,7 +33,7 @@ The part of you that wants more and the part that wants it to last stop arguing 
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) is the part of you that takes the long view: it builds slowly, keeps its word and measures progress in years. [Jupiter](/astrology/jupiter/) widens, looks for meaning, wants to go further. A [trine](/astrology/trine/) relates them through flow, each keeping its own character, so growth arrives in a form Saturn can work with, and Saturn's caution reads as good sense rather than a brake.
+[Saturn](/astrology/saturn/) is the part of you that takes the long view: it builds slowly, keeps its word and measures progress in years. [Jupiter](/astrology/jupiter/) widens, looks for meaning, wants to go further. Under a [trine](/astrology/trine/), Jupiter's growth arrives in a form Saturn can work with, and Saturn's caution reads as good sense rather than a brake.
 
 In practice, long efforts meet support. A project you've been carrying alone finds a collaborator, a commitment you renewed out of duty starts to feel chosen, a skill you've practised for years becomes easy to show. It's a good season to consolidate what has grown: put it on firmer ground before the next push.
 

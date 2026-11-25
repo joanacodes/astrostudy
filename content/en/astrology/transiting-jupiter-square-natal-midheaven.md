@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Midheaven", "square", "transits"]
 weight: 1618
 glyph: "♃□MC"
-definition: "Transiting Jupiter square natal Midheaven is Jupiter reaching 90° from the top of your birth chart, twice in each twelve-year round. Growth rubs against your public role and your private base at once, and asks you to resize what you carry. I read it as friction that clarifies your direction, never a threat to your work."
+definition: "Transiting Jupiter square natal Midheaven is Jupiter 90° from the top of your chart, usually close to your Ascendant or Descendant, about three years either side of each crossing of the Midheaven. Growth rubs against your role and your private base at once. I read it as friction that clarifies your direction, never a threat to your work."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "Natal point", v: "The Midheaven MC, your direction in public" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/midheaven", "/astrology/square", "/astrology/imum-coeli", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter square natal Midheaven mean?"
-    a: "Jupiter is 90° from the degree at the top of your birth chart, as happens twice in each twelve-year round. I read it as growth rubbing against your current role: more is offered or asked than your arrangement holds, and home wants its share too. The friction shows what to keep and what to resize."
+    a: "Jupiter stands a quarter of the zodiac from the top of your chart, which squares the bottom of it too. I read it as growth rubbing against your current role: more is offered or asked than your arrangement holds, and home wants its share too. The friction shows what to keep and what to resize."
   - q: "Is Jupiter square my Midheaven a bad time for work?"
     a: "No. It’s a time when growth and your present role don’t fit each other easily, and the mismatch asks for adjustment. I read the friction as information about what to keep, not as a warning about your job, which no transit can foresee. Many people come out of it with a clearer brief."
   - q: "How long does Jupiter square the Midheaven last?"
-    a: "About eleven days within my orbs, from 1½° before exact to 1° after, in seven passes out of ten. When a retrograde loop brings Jupiter back across, the square is exact three times over about eight months. Your birth time and place fix the dates, through your Midheaven."
+    a: "The pinch is usually brief, about eleven days within my orbs, and it lasts that long seven times in ten. When Jupiter loops back in retrograde, work and home keep pressing on each other for about eight months, through three exact hits. Your birth time and place fix the dates, through your Midheaven."
   - q: "Where is Jupiter when it squares my Midheaven?"
     a: "Usually near one end of your horizon. In Placidus, the first square of a round tends to find Jupiter in your 12th or 1st house, close to your Ascendant, and the second in your 6th or 7th, close to your Descendant. Your birth time and latitude decide the exact houses."
 sources:
@@ -44,11 +44,11 @@ In Placidus, the first square of a round usually comes while Jupiter crosses you
 
 ## How long it lasts {#how-long-it-lasts}
 
-With my orbs, from 1½° before exact to 1° after, the square holds your Midheaven for about eleven days in seven passes out of ten. In the other three, [Jupiter retrograde](/astrology/jupiter-retrograde/) brings it back across, three exact hits in about eight months.
+This square usually makes its point quickly: about eleven days in seven cases out of ten, counted from 1½° before exact to 1° after. The other three last about eight months, because [Jupiter retrograde](/astrology/jupiter-retrograde/) carries Jupiter back over the same right angle twice more.
 
 Your birth time has to be right to the minute, and one mistake is worth checking before any other. A birth in summer time, entered without the hour's shift, moves the Midheaven by about fifteen degrees, which would put this square months away from its real dates. It's one of the reasons the time comes before the reading ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-By 80, people born between 1930 and 2009 have had thirteen or fourteen of these squares. Each round runs from [transiting Jupiter conjunct natal Midheaven](/astrology/transiting-jupiter-conjunct-natal-midheaven/) through [transiting Jupiter sextile natal Midheaven](/astrology/transiting-jupiter-sextile-natal-midheaven/) to the first square at about three years; [transiting Jupiter trine natal Midheaven](/astrology/transiting-jupiter-trine-natal-midheaven/) eases things a year later, and after [transiting Jupiter opposite natal Midheaven](/astrology/transiting-jupiter-opposite-natal-midheaven/) at six, the second square comes at about nine.
+By 80, people born between 1930 and 2009 have had thirteen or fourteen of these squares, each one pressing on work and home together. Each round runs from [transiting Jupiter conjunct natal Midheaven](/astrology/transiting-jupiter-conjunct-natal-midheaven/) through [transiting Jupiter sextile natal Midheaven](/astrology/transiting-jupiter-sextile-natal-midheaven/) to the first square at about three years; [transiting Jupiter trine natal Midheaven](/astrology/transiting-jupiter-trine-natal-midheaven/) eases things a year later, and after [transiting Jupiter opposite natal Midheaven](/astrology/transiting-jupiter-opposite-natal-midheaven/) at six, the second square comes at about nine.
 
 ## What helps {#what-helps}
 

@@ -37,7 +37,7 @@ Twice in each Jupiter lap, the planet of growth squares the degree your Uranus h
 
 Both planets have a weak spot here, and the square presses on it. Jupiter can mistake a belief for a certainty; Uranus can mistake being different for being right, or change a system before understanding what in it still works. That is why I read this square as a test rather than a verdict: the change worth making is the one that survives your own questions.
 
-None of it predicts a break-up, a resignation or a sudden loss, and I don't read [transits](/astrology/transits/) for those ([How I read](/how-i-read/)). Your Uranus's house, together with the house Jupiter happens to be crossing, decides where the restlessness gathers, and neither can be placed without the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Jupiter square Uranus](/astrology/jupiter-square-uranus/), you'll meet one of these squares close to every [Jupiter return](/astrology/jupiter-return/).
+None of it predicts a break-up, a resignation or a sudden loss, and I don't read [transits](/astrology/transits/) for those ([How I read](/how-i-read/)). Your Uranus's house, together with the house Jupiter happens to be crossing, decides where the restlessness gathers, and neither can be placed without the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Every [Jupiter return](/astrology/jupiter-return/) wakes this restlessness again for anyone born with [Jupiter square Uranus](/astrology/jupiter-square-uranus/).
 
 ## How long it lasts {#how-long-it-lasts}
 

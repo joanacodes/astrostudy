@@ -2,7 +2,7 @@
 title: "Uranus en transit opposition Soleil du thème natal"
 slug: "uranus-transit-opposition-soleil-natal"
 h1: "Uranus en transit opposition votre Soleil natal"
-description: "Uranus en transit opposition Soleil du thème natal : une fois dans une vie au plus, une vingtaine de mois où le changement vient d’en face. Durée, ce qui aide."
+description: "Uranus en transit opposition Soleil du thème natal : le changement qui vient d’en face, vingt mois, une fois au plus ; le Sagittaire jusqu’en 2033."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Soleil", "opposition", "transits"]
 weight: 1684
 glyph: "♅☍☉"
-definition: "Uranus en transit opposition Soleil du thème natal, c’est Uranus à l’opposé du degré qu’occupait votre Soleil à la naissance, pendant une vingtaine de mois, une fois dans une vie au plus. L’élan du changement passe souvent par les autres, et demande ce qui, dans votre direction, vous appartient. J’y lis un miroir, jamais un verdict."
+definition: "Uranus en transit opposition Soleil du thème natal signifie qu’Uranus a atteint l’autre côté du zodiaque par rapport à votre Soleil de naissance, pour une vingtaine de mois, une fois dans une vie au plus. L’élan du changement passe souvent par les autres, et demande ce qui, dans votre direction, vous appartient. J’y lis un miroir, jamais un verdict."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Le Soleil ☉ : identité, direction et vitalité" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/sun", "/astrology/opposition", "/astrology/sun-opposite-uranus", "/astrology/uranus-opposition"]
 faq:
   - q: "Que veut dire Uranus en transit opposition Soleil du thème natal ?"
-    a: "Uranus se trouve à 180° du degré de votre Soleil de naissance. J’y lis une saison où le changement vous arrive de l’autre côté, souvent par une personne proche qui veut autre chose, et vous demande quelle part de votre direction vous appartient, et quelle part tenait seulement à l’arrangement autour de vous."
+    a: "Dans le ciel, Uranus a atteint le point exactement opposé à votre Soleil de naissance. J’y lis une saison où le changement vous arrive de l’autre côté, souvent par une personne proche qui veut autre chose, et vous demande quelle part de votre direction vous appartient, et quelle part tenait seulement à l’arrangement autour de vous."
   - q: "Uranus en opposition au Soleil, c’est tous les combien ?"
     a: "Une fois par tour d’Uranus, soit tous les 84 ans environ : une fois au plus dans une longue vie. Environ 1 personne sur 50 née entre 1930 et 2009 ne la rencontre jamais avant 80 ans. Quand elle vient, elle dure une vingtaine de mois avec mes orbes, et le point exact est en général franchi trois fois."
   - q: "Uranus opposition Soleil, est-ce la même chose que l’opposition d’Uranus ?"
@@ -34,11 +34,11 @@ Une fois dans son tour de 84 ans, Uranus atteint le point exactement en face de 
 
 ## Ce qui change {#ce-qui-change}
 
-[Uranus](/astrology/uranus/) ouvre les schémas pour que quelque chose de plus distinct puisse pousser ; votre [Soleil](/astrology/sun/) est votre identité, et la direction autour de laquelle vous organisez votre vie. Une [opposition](/astrology/opposition/), 180°, relie deux fonctions par la polarité, chacune se détachant nettement sur l’autre. Sous ce transit, votre direction se dessine face à un changement qui semble venir du dehors. Cela peut prendre la forme d’une ou d’un partenaire qui a besoin de plus d’air, d’un lieu de travail qu’on réorganise, d’une amie ou d’un ami dont la vie se met soudain à suivre d’autres règles.
+[Uranus](/astrology/uranus/) ouvre les schémas pour que quelque chose de plus distinct puisse pousser ; votre [Soleil](/astrology/sun/) est votre identité, et la direction autour de laquelle vous organisez votre vie. Dans une [opposition](/astrology/opposition/), 180°, deux fonctions se tiennent aux deux bouts d’un même axe, et chacune se voit le mieux depuis l’autre bout. Sous ce transit, votre direction se dessine face à un changement qui semble venir du dehors. Cela peut prendre la forme d’une ou d’un partenaire qui a besoin de plus d’air, d’un lieu de travail qu’on réorganise, d’une amie ou d’un ami dont la vie se met soudain à suivre d’autres règles.
 
 L’inverse est tout aussi fréquent : vous rencontrez chez une autre personne la liberté que vous ne vous êtes jamais accordée, et vous l’admirez, ou vous lui en voulez, avant de voir que la question vous concerne. Aucune de ces réactions n’est fausse. L’opposition demande un équilibre plutôt qu’un vainqueur : de la place pour le changement de l’autre, et une direction qui n’exige pas que tout le monde autour reste immobile. Je ne la lis ni pour une séparation, ni pour un licenciement, ni pour aucune autre fin ; ce que chaque personne fait de ces mois lui appartient ([ma méthode](/how-i-read/)).
 
-L’axe décide où. Avec votre Soleil en maison 1 et Uranus qui traverse la maison 7 ([Uranus en transit en maison 7](/astrology/uranus-transit-7th-house/)), votre sentiment de vous-même rencontre, en tête-à-tête, le besoin d’air d’une ou d’un partenaire, d’une associée ou d’un associé. Cet axe, comme toute maison, vient de votre heure de naissance, et sans elle, pas de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+L’axe décide où. Avec votre Soleil en maison 1 et Uranus qui traverse la maison 7 ([Uranus en transit en maison 7](/astrology/uranus-transit-7th-house/)), votre sentiment de vous-même rencontre, en tête-à-tête, le besoin d’air d’une ou d’un partenaire, d’une associée ou d’un associé. Cet axe se tire de la minute de votre naissance : pas d’heure de naissance, pas de lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

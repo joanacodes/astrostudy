@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Uranus", "carré", "transits"]
 weight: 1598
 glyph: "♃□♅"
-definition: "Jupiter en transit carré Uranus du thème natal, c’est Jupiter à angle droit, 90°, d’Uranus à votre naissance, deux fois par tour. L’envie de grandir et le besoin de liberté se bousculent : impatience, idées neuves qui heurtent de vieilles convictions. J’y lis une friction qui demande au changement de se justifier, jamais un bouleversement annoncé."
+definition: "Jupiter en transit carré Uranus du thème natal place Jupiter à angle droit d’Uranus de votre naissance, à 90°, et cela deux fois à chaque tour de Jupiter. L’envie de grandir et le besoin de liberté se bousculent : impatience, idées neuves qui heurtent de vieilles convictions. J’y lis une friction qui demande au changement de se justifier."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Uranus ♅ de votre thème : la liberté, le changement, votre propre voie" }
@@ -38,7 +38,7 @@ Deux fois par tour de Jupiter, la planète de la croissance forme un carré avec
 
 Les deux planètes ont ici un point faible, et le carré appuie dessus. Jupiter peut prendre une croyance pour une certitude ; Uranus peut confondre être différent et avoir raison, ou changer un système avant de comprendre ce qui y fonctionne encore. C’est pour cela que je lis ce carré comme une épreuve plutôt qu’un verdict : le changement qui vaut la peine est celui qui survit à vos propres questions.
 
-Rien de tout cela n’annonce une rupture, une démission ou une perte soudaine, et je ne lis pas les [transits](/astrology/transits/) pour cela ([Ma méthode](/how-i-read/)). La maison d’Uranus dans votre thème, avec celle que Jupiter traverse à ce moment-là, décide de l’endroit où l’impatience s’accumule, et aucune des deux ne se place sans l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec [Jupiter carré Uranus](/astrology/jupiter-square-uranus/) à la naissance, vous rencontrez l’un de ces carrés près de chaque [retour de Jupiter](/astrology/jupiter-return/).
+Rien de tout cela n’annonce une rupture, une démission ou une perte soudaine, et je ne lis pas les [transits](/astrology/transits/) pour cela ([Ma méthode](/how-i-read/)). La maison d’Uranus dans votre thème, avec celle que Jupiter traverse à ce moment-là, décide de l’endroit où l’impatience s’accumule, et aucune des deux ne se place sans l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Chaque [retour de Jupiter](/astrology/jupiter-return/) réveille cette impatience chez les personnes nées avec [Jupiter carré Uranus](/astrology/jupiter-square-uranus/).
 
 ## Combien de temps {#combien-de-temps}
 

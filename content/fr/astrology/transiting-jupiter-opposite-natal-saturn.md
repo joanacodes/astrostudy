@@ -23,22 +23,22 @@ faq:
   - q: "Que veut dire Jupiter en transit opposition Saturne du thème natal ?"
     a: "Depuis l’autre côté du thème, Jupiter fait maintenant face à Saturne de votre naissance : la possibilité de grandir apparaît en face de vos engagements et de vos structures, souvent dans les projets de quelqu’un d’autre. J’y lis un temps pour peser ce que vous avez bâti contre ce qui vous est proposé, les deux bouts vous appartenant."
   - q: "Tous les combien vient l’opposition de Jupiter à Saturne du thème natal ?"
-    a: "Une fois par tour de Jupiter, six ans environ après son passage sur votre Saturne : six ou sept fois avant 80 ans pour les naissances de 1930 à 2009. Un passage direct se termine en onze jours environ ; dans trois cas sur dix à peu près, Jupiter fait une boucle et l’opposition dure huit mois."
+    a: "Elle vient à mi-chemin entre deux passages de Jupiter sur votre Saturne, donc six ans environ après chacun. Les personnes nées de 1930 à 2009 en comptent six ou sept à 80 ans. Un passage direct se termine en onze jours environ ; dans trois cas sur dix à peu près, Jupiter fait une boucle et l’opposition dure huit mois."
   - q: "Jupiter opposition Saturne, faut-il choisir entre liberté et devoir ?"
     a: "On peut le vivre ainsi : une proposition ou une envie tire d’un côté, un engagement retient de l’autre. Je n’y lis pas un choix imposé. Une opposition montre les deux bouts à la fois pour qu’on puisse les équilibrer, et la réponse est souvent une structure qui fait de la place à la croissance."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge à la première opposition selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
 ---
-Une fois par tour de douze ans, Jupiter, dans le ciel, atteint le point qui fait face à Saturne dans votre thème natal. Ce que vous avez bâti, et que vous tenez, se retrouve en face de ce que vous pourriez devenir, et très souvent la croissance arrive entre les mains de quelqu’un d’autre.
+Six ans environ après son passage sur Saturne de votre thème natal, Jupiter arrive de l’autre côté du thème. Ce que vous avez bâti, et que vous tenez, se retrouve en face de ce que vous pourriez devenir, et très souvent la croissance arrive entre les mains de quelqu’un d’autre.
 
 ## Ce qui change {#ce-qui-change}
 
-[Saturne](/astrology/saturn/), dans votre thème, représente les structures que vous avez bâties et les responsabilités que vous tenez, avec la peur de gaspiller l’effort qui vous a rendu prudent ou prudente. [Jupiter](/astrology/jupiter/) apporte la vue d’ensemble : l’occasion, la croyance, une raison d’aller plus loin. Une [opposition](/astrology/opposition/) relie deux fonctions par la polarité, sans que l’une annule l’autre : elles se font face jusqu’à ce que vous voyiez à quoi chacune sert.
+[Saturne](/astrology/saturn/), dans votre thème, représente les structures que vous avez bâties et les responsabilités que vous tenez, avec la peur de gaspiller l’effort qui vous a rendu prudent ou prudente. [Jupiter](/astrology/jupiter/) apporte la vue d’ensemble : l’occasion, la croyance, une raison d’aller plus loin. De part et d’autre d’une [opposition](/astrology/opposition/), aucune des deux fonctions n’annule l’autre : elles se font face jusqu’à ce que vous voyiez à quoi chacune sert.
 
 Concrètement, la croissance vient souvent du dehors. La proposition de quelqu’un, l’ambition d’un ou d’une partenaire, une croyance rencontrée chez une autre personne : chacune se présente en face de ce à quoi vous êtes déjà engagé ou engagée, et demande si cela convient encore. Ce n’est pas un duel entre la sécurité et l’aventure, quoi qu’on en ressente. Une opposition parle d’équilibre, et la question utile est ce dont votre structure aurait besoin pour porter un peu plus.
 
-La maison de Saturne décide de l’endroit où se fait la pesée, et Jupiter traverse alors la maison opposée. Avec Saturne en maison 7, où les engagements envers un ou une partenaire prennent leur temps, l’opposition tombe pendant que [Jupiter en transit en maison 1](/astrology/jupiter-transit-1st-house/) donne de la place à votre propre croissance, juste au moment où un long engagement demande à être tenu. C’est votre heure de naissance qui fixe l’une et l’autre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La pesée se fait dans la maison de Saturne, pendant que Jupiter traverse celle d’en face. Avec Saturne en maison 7, où les engagements envers un ou une partenaire prennent leur temps, l’opposition tombe pendant que [Jupiter en transit en maison 1](/astrology/jupiter-transit-1st-house/) donne de la place à votre propre croissance, juste au moment où un long engagement demande à être tenu. C’est votre heure de naissance qui fixe l’une et l’autre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Combien de temps {#combien-de-temps}
 

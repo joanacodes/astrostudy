@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn opposite natal Mercury"
 h1: "Transiting Saturn opposite your natal Mercury"
-description: "Transiting Saturn opposite natal Mercury: once every 29½ years, your words and ideas meet other people’s standards. How long it lasts and what helps."
+description: "Transiting Saturn opposite natal Mercury: once every 29½ years, your words and ideas meet other people’s standards. How to answer, and how long it lasts."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -39,7 +39,7 @@ That can feel like being marked. A proposal comes back with questions, a draft w
 
 Contracts, negotiations and paperwork often come up, and I give no verdicts on them. I don't read the outcome of an agreement, an exam or a dispute ([can astrology predict a court case?](/astrology/can-astrology-predict-a-court-case/)).
 
-The two houses on the axis show what is being weighed. With your Mercury in the 1st and Saturn crossing your 7th ([Saturn transiting the 7th house](/astrology/saturn-transit-7th-house/)), your own way of putting things meets a partner's or an associate's terms. Placing those houses needs your birth time, and there's no reading without it ([what changes without a birth time](/blog/unknown-birth-time/)).
+The two houses on the axis show what is being weighed. With your Mercury in the 1st and Saturn crossing your 7th ([Saturn transiting the 7th house](/astrology/saturn-transit-7th-house/)), your own way of putting things meets a partner's or an associate's terms. A birth time is what tells me Mercury is in your 1st and not your 12th; without it, the axis can't be drawn and I give no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

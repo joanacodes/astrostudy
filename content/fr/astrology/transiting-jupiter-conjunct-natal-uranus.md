@@ -23,9 +23,9 @@ faq:
   - q: "Que veut dire Jupiter en transit conjonction Uranus du thème natal ?"
     a: "Jupiter passe sur Uranus de votre naissance, comme tous les douze ans environ. J’y lis plus de place pour la part de vous qui veut faire autrement : des idées neuves, une envie d’essayer, de l’impatience envers des habitudes qui ne vous vont plus. Ce transit décrit une saison de changement ; il n’annonce aucun événement."
   - q: "La conjonction de Jupiter à Uranus apporte-t-elle une chance soudaine ?"
-    a: "Ce transit en a la réputation, et je ne le lis pas ainsi. Dans mes lectures, Jupiter, c’est la croissance et le sens, pas la chance ni l’argent, et Uranus, c’est le changement, pas l’aubaine. Le transit peut amener vite des idées et des ouvertures ; ce qu’elles deviennent dépend de vous, et de bien des choses qu’aucun thème ne montre."
+    a: "Ce transit en a la réputation, et je ne le lis pas ainsi. Ce que les deux planètes décrivent, c’est un appétit de croissance et de changement ; aucune ne distribue d’aubaines. Le transit peut amener vite des idées et des ouvertures ; ce qu’elles deviennent dépend de vous, et de bien des choses qu’aucun thème ne montre."
   - q: "Combien de temps dure Jupiter conjonction Uranus en transit ?"
-    a: "Onze jours, à peu près, si Jupiter franchit le point une fois, avec les orbes que j’utilise pour situer les transits ; huit mois environ si la planète fait une boucle et passe trois fois, ce qui arrive trois fois sur dix environ. À 80 ans, les personnes nées de 1930 à 2009 en ont connu six ou sept."
+    a: "Onze jours, à peu près, si Jupiter franchit le point une fois, avec mes orbes ; huit mois environ si la planète fait une boucle et passe trois fois, ce qui arrive trois fois sur dix environ. Entre la naissance et 80 ans, on en compte six ou sept, pour toute naissance de 1930 à 2009."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge à la première conjonction selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
@@ -44,7 +44,7 @@ Uranus, dans votre thème, se trouve à quelques degrés d’Uranus chez toutes 
 
 ## Combien de temps {#combien-de-temps}
 
-Uranus aime la vitesse, et un passage direct de Jupiter est le plus bref des transits que je suis pour situer les choses dans le temps : avec des orbes de 1,5° avant l’exactitude à 1° après, onze jours environ. Trois fois sur dix à peu près, Jupiter est près d’une station, passe trois fois et fait durer la conjonction quelque huit mois. Six ou sept arrivent avant 80 ans pour chaque naissance de 1930 à 2009.
+Uranus aime la vitesse, et un passage direct de Jupiter est le plus bref des transits que je suis pour situer les choses dans le temps : avec des orbes de 1,5° avant l’exactitude à 1° après, onze jours environ. Trois fois sur dix à peu près, Jupiter est près d’une station, passe trois fois et fait durer la conjonction quelque huit mois. Sur quatre-vingts ans, cela fait six ou sept conjonctions pour toute personne née entre 1930 et 2009.
 
 Le premier pouvait venir à n’importe quel âge entre quelques semaines et douze ans, selon la place de Jupiter ce jour-là : vers 3,6 ans pour une naissance le 1er janvier 1965, vers 10,2 ans pour le 1er janvier 1985. Chacun des suivants vient douze ans environ après le précédent.
 

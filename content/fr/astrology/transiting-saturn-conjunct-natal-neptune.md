@@ -42,7 +42,7 @@ Tous les 29 ans et demi environ, Saturne passe sur le degré qu’occupait Neptu
 
 L’angle mort de Neptune, c’est de prendre ce que l’on imagine pour ce que l’on sait, et Saturne distingue très bien les deux. On décrit souvent un dégrisement : une personne, un projet ou une croyance vus plus nettement qu’avant. La désillusion met fin à une illusion, pas au rêve qui se trouvait derrière. Si ce qui remonte pèse plus lourd qu’une déception, et dure, parlez-en à un médecin ou à une ou un thérapeute ([astrologie et santé mentale](/astrology/astrology-and-mental-health/)) : un transit peut nommer une saison, pas la soigner.
 
-La maison de votre Neptune montre où vit le rêve, et le passage de Saturne lui accorde là toute son attention. Avec Neptune en maison 5, ce peut être un art pratiqué en amateur depuis des années ; en maison 11, une cause ou une communauté que vous aimeriez bâtir. Les maisons demandent votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Dans un thème natal, [Saturne conjonction Neptune](/astrology/saturn-conjunct-neptune/) fixe cette rencontre pour la vie ; en transit, c’est une saison, et elle passe.
+La maison de votre Neptune montre où vit le rêve, et le passage de Saturne lui accorde là toute son attention. Avec Neptune en maison 5, ce peut être un art pratiqué en amateur depuis des années ; en maison 11, une cause ou une communauté que vous aimeriez bâtir. Trouver cette maison demande votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Dans un thème natal, [Saturne conjonction Neptune](/astrology/saturn-conjunct-neptune/) fixe cette rencontre pour la vie ; en transit, c’est une saison, et elle passe.
 
 ## Combien de temps {#combien-de-temps}
 

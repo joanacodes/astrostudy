@@ -45,7 +45,7 @@ Avec Jupiter en maison 10, les ambitions rencontrent les limites de votre propre
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, le carré dure en général neuf mois environ. Dans un peu plus de la moitié des [transits](/astrology/transits/) de Saturne, il donne trois passages exacts sur neuf mois et demi environ ; un passage unique et rapide peut prendre trois semaines.
+Dans mes orbes, de 1,5° avant l’exactitude à 1° après, ce carré tient d’ordinaire quelque neuf mois. Dans un peu plus de la moitié des [transits](/astrology/transits/) de Saturne, il donne trois passages exacts sur neuf mois et demi environ ; un passage unique et rapide peut prendre trois semaines.
 
 Le premier carré dépend de votre date de naissance exacte. Pour toutes les personnes nées un 1er janvier d’une année finissant par 5, de 1935 à 2005, il est venu entre 12 et 14 ans environ ; sur toutes les dates de naissance de 1930 à 2009, entre les premières semaines de vie et 15 ans et demi environ, 7 ans en médiane. Deux par tour, cela fait ensuite cinq ou six carrés avant 80 ans, pour tout le monde.
 

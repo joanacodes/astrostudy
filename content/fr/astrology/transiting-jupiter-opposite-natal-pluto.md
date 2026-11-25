@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Pluton", "opposition", "transits"]
 weight: 1610
 glyph: "♃☍♇"
-definition: "Jupiter en transit opposition Pluton du thème natal, c’est Jupiter face au degré qu’occupait Pluton à votre naissance, environ tous les douze ans. Pendant onze jours, ou huit mois en boucle rétrograde, la croissance fait face à la profondeur, et ce que vous retenez le plus fort gagne du recul. J’y lis un regard sur le pouvoir, jamais une menace."
+definition: "Jupiter en transit opposition Pluton du thème natal, c’est Jupiter qui fait face, depuis l’autre bout du zodiaque, au degré où Pluton s’attardait à votre naissance, environ tous les douze ans. Pendant onze jours, ou huit mois en boucle rétrograde, la croissance fait face à la profondeur, et ce que vous retenez le plus fort gagne du recul. J’y lis un regard sur le pouvoir, jamais une menace."
 facts:
   - { k: "En transit", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Point natal", v: "Pluton ♇, la profondeur, le pouvoir et le renouveau" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/pluto", "/astrology/jupiter-opposite-pluto", "/astrology/transiting-jupiter-conjunct-natal-pluto", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit opposition Pluton ?"
-    a: "Jupiter, dans le ciel, fait face au degré qu’occupait Pluton à votre naissance, environ tous les douze ans. J’y lis une saison où un regard plus large rencontre ce que vous retenez le plus fort : le contrôle, une loyauté, une peur, une force cachée. Le transit éclaire cet endroit du thème ; il ne décide pas de ce qui s’y passe."
+    a: "Jupiter fait face au degré de Pluton dans votre thème, une rencontre que vous partagez avec toutes les personnes nées à un an près de vous. J’y lis une saison où un regard plus large rencontre ce que vous retenez le plus fort : le contrôle, une loyauté, une peur, une force cachée. Ce transit apporte du recul et ne décide de rien."
   - q: "Combien de temps dure Jupiter opposition Pluton en transit ?"
-    a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, sept passages sur dix durent une onzaine de jours. Les trois autres sont des boucles rétrogrades : Jupiter fait face au point, repart en arrière, puis y revient, soit trois passages exacts étalés sur huit mois environ."
+    a: "Sept de ces oppositions sur dix sont brèves, une onzaine de jours avec mes orbes de 1,5° avant l’exactitude et 1° après. Les autres s’étirent sur huit mois environ, parce que la boucle rétrograde ramène Jupiter deux fois encore face à votre Pluton avant que Jupiter ne poursuive sa route."
   - q: "Quand ai-je eu Jupiter opposition Pluton pour la première fois ?"
-    a: "Avant 12 ans, quelle que soit votre année de naissance, puis environ tous les douze ans. L’âge exact dépend de la place de Jupiter à votre naissance : vers 9 ans pour une naissance en 1965, vers 3 ans pour une naissance en 1985. Avant 80 ans, tout le monde l’a vécue six ou sept fois."
+    a: "Avant 12 ans, quelle que soit votre année de naissance, puis environ tous les douze ans. L’âge exact dépend de la place de Jupiter à votre naissance : vers 9 ans pour une naissance en 1965, vers 3 ans pour une naissance en 1985. Six ou sept sont venues avant 80 ans, pour tout le monde."
   - q: "Jupiter opposition Pluton, est-ce une lutte de pouvoir ?"
     a: "Pas forcément. Une opposition se montre souvent à travers quelqu’un d’autre, si bien que la question de savoir qui tient les rênes peut se poser entre vous et une autre personne. Mais le transit décrit une saison de recul, pas un combat avec un vainqueur, et ce que vous faites de ce regard plus large reste votre choix."
 sources:
@@ -42,15 +42,15 @@ Pluton avance si lentement que les personnes nées la même année que vous ont 
 
 Ce que vous serrez le plus fort revient souvent sur la table : une loyauté, une peur, un besoin de garder la main, une force que vous tenez hors de vue. Depuis l’autre côté du thème, Jupiter demande quelle taille cela a vraiment, et à quoi cela sert. Les oppositions passent souvent par les autres : la question peut donc arriver avec un visage, quelqu’un de plus généreux que vous, ou quelqu’un qui voit votre profondeur et la nomme. Pluton a une réputation de fin, mais ce transit ne dit rien de la fin d’une vie ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)).
 
-La maison de Pluton montre où vous tenez bon ; celle que Jupiter traverse en face, d’où vient le regard plus large. Avec Pluton en maison 4, par exemple, l’opposition tombe pendant [Jupiter en transit en maison 10](/astrology/jupiter-transit-10th-house/) : un rôle public qui s’élargit, mis en balance avec les loyautés familiales et ce que vous gardez chez vous. Ces deux maisons dépendent de votre heure de naissance : sans elle, je ne lis pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison de Pluton montre où vous tenez bon ; celle que Jupiter traverse en face, d’où vient le regard plus large. Avec Pluton en maison 4, par exemple, l’opposition tombe pendant [Jupiter en transit en maison 10](/astrology/jupiter-transit-10th-house/) : un rôle public qui s’élargit, mis en balance avec les loyautés familiales et ce que vous gardez chez vous. Ces deux maisons viennent de votre heure de naissance : sans elle, je n’aurais aucun moyen de dire où cela se passe, et je ne lis pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Si votre thème porte [Jupiter opposition Pluton](/astrology/jupiter-opposite-pluto/), ce transit revient à chaque [retour de Jupiter](/astrology/jupiter-return/). Si les deux étaient en conjonction à votre naissance, il tombe plutôt à mi-chemin entre deux retours, quand Jupiter fait face à son propre degré de naissance.
+Si [Jupiter opposition Pluton](/astrology/jupiter-opposite-pluto/) fait partie de votre thème, chaque [retour de Jupiter](/astrology/jupiter-return/) ramène cette opposition. Si les deux étaient en conjonction à votre naissance, elle tombe plutôt à mi-chemin entre deux retours, quand Jupiter fait face à son propre degré de naissance.
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, sept passages sur dix sont rapides : Jupiter fait face à votre Pluton une onzaine de jours, puis poursuit sa route. Les trois autres forment une boucle. Jupiter passe environ quatre mois par an en rétrograde ([Jupiter rétrograde](/astrology/jupiter-retrograde/)), et quand cette période tombe sur le point, l’opposition se forme trois fois en huit mois environ.
+La plupart de ces oppositions sont courtes. Avec mes orbes, de 1,5° avant l’exactitude à 1° après, sept sur dix durent une onzaine de jours, le temps pour Jupiter de longer à son pas ordinaire l’autre côté de votre Pluton. Les trois autres forment une boucle. Jupiter passe environ quatre mois par an en rétrograde ([Jupiter rétrograde](/astrology/jupiter-retrograde/)), et quand cette période tombe sur le point, l’opposition se forme trois fois en huit mois environ.
 
-La première arrive avant 12 ans pour tout le monde, à un âge qui dépend de la place de Jupiter à votre naissance : vers 9 ans pour une naissance en 1965, vers 3 ans pour une naissance en 1985. Elle revient ensuite environ tous les douze ans. Avant 80 ans, les personnes nées entre 1930 et 2009 l’ont vécue six ou sept fois, et aucune n’y échappe.
+La première arrive avant 12 ans pour tout le monde, à un âge qui dépend de la place de Jupiter à votre naissance : vers 9 ans pour une naissance en 1965, vers 3 ans pour une naissance en 1985. Le tour de douze ans de Jupiter la ramène ensuite. Avant 80 ans, les personnes nées entre 1930 et 2009 l’ont vécue six ou sept fois, et aucune n’y échappe.
 
 Chaque opposition marque la moitié du cycle de Jupiter par rapport à votre Pluton. Six ans plus tôt environ, Jupiter passait dessus ([Jupiter en transit conjonction Pluton du thème natal](/astrology/transiting-jupiter-conjunct-natal-pluto/)), et les angles intermédiaires, [Jupiter en transit sextile Pluton du thème natal](/astrology/transiting-jupiter-sextile-natal-pluto/), [Jupiter en transit carré Pluton du thème natal](/astrology/transiting-jupiter-square-natal-pluto/) et [Jupiter en transit trigone Pluton du thème natal](/astrology/transiting-jupiter-trine-natal-pluto/), reviennent une fois à l’aller et une fois au retour. Des cinq, l’opposition est celle qui passe le plus volontiers par quelqu’un d’autre.
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Sun", "trine", "transits"]
 weight: 1624
 glyph: "♄△☉"
-definition: "Transiting Saturn trine natal Sun is Saturn reaching 120° from the degree your Sun held at birth, twice in each 29½-year round. For about nine months, structure works with your purpose: discipline comes more naturally and steady effort compounds. I read it as a season to consolidate and commit, never as something that works by itself."
+definition: "Transiting Saturn trine natal Sun is Saturn 120° from your birthday Sun, in a sign of your Sun’s element, about five years either side of the opposition. For about nine months, structure works with your purpose: discipline comes more naturally and steady effort compounds. I read it as a season to consolidate and commit, never one that works by itself."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "The Sun ☉, your identity and direction" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/saturn", "/astrology/sun", "/astrology/trine", "/astrology/sun-trine-saturn", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn trine natal Sun mean?"
-    a: "Saturn in the sky is 120° from the degree your Sun held at birth, as happens twice in each 29½-year round. I read it as a season when structure works with your purpose: discipline comes more easily, limits clarify rather than confine, and steady effort adds up. It favours long commitments."
+    a: "Saturn is four signs from your Sun, in the same element, about ten years after a crossing or ten before the next. I read it as a season when structure works with your purpose: discipline comes more easily, limits clarify rather than confine, and steady effort adds up. It favours long commitments."
   - q: "Does Saturn trine my Sun bring recognition?"
     a: "It often brings the conditions for it, as I read it: steady work is easier to see, and people with experience or authority tend to take you seriously. But a transit can’t promise a promotion, an award or anyone’s approval. What it supports is work that was already solid."
   - q: "How long does Saturn trine the Sun last?"
-    a: "Usually about nine months within my orbs, from 1½° before exact to 1° after. A little over half the time it’s a loop of three exact passes over about nine and a half months; at full speed, Saturn can make the trine in three weeks, which is easy to miss."
+    a: "Most of a year as a rule, which is plenty for a long commitment to take root: around nine months within my orbs, a little longer when Saturn loops back over the point three times. The quickest trines, at Saturn’s full speed, last three weeks and are easy to miss."
   - q: "Is Saturn trine the Sun a good aspect?"
     a: "I don’t sort transits into good and bad. The trine is the most supportive angle Saturn makes to your Sun: discipline feels natural, limits feel like help, and effort tends to compound. Supportive doesn’t mean automatic, though; it rewards the work you actually put in."
 sources:
@@ -40,17 +40,17 @@ Ten years or so after Saturn crosses your Sun, and ten years or so before it ret
 
 It often shows in how others respond to you. People with experience take your work seriously, institutions move at a pace you can live with, and the responsibility offered fits the size of your shoulders. Saturn's trines don't hand out results, but they let effort add up: what you do steadily in these months tends to compound.
 
-The two trines of a round don't feel the same. The first, on the way to the opposition, is usually about building up: skills, standing, the structure of a life you chose at the last crossing. The second, after the opposition, is more about keeping what works and making it simpler to carry.
+Of the round's two trines, each has its own flavour. The first, on the way to the opposition, is usually about building up: skills, standing, the structure of a life you chose at the last crossing. The second, after the opposition, is more about keeping what works and making it simpler to carry.
 
-The house Saturn is crossing gives the setting. From your 2nd, for instance, the trine often shows as firmer footing with what you have and value ([Saturn transiting the 2nd house](/astrology/saturn-transit-2nd-house/)). Born with [Sun trine Saturn](/astrology/sun-trine-saturn/), you meet the same angle at every [Saturn return](/astrology/saturn-return/), when Saturn comes home to the place that trines your Sun.
+Crossing your 2nd, for instance, Saturn tends to show the trine as firmer footing with what you have and value ([Saturn transiting the 2nd house](/astrology/saturn-transit-2nd-house/)). Born with [Sun trine Saturn](/astrology/sun-trine-saturn/), you meet the same angle at every [Saturn return](/astrology/saturn-return/), when Saturn comes home to the place that trines your Sun.
 
 ## How long it lasts {#how-long-it-lasts}
 
-With my orbs, from 1½° before exact to 1° after, the trine usually holds for about nine months, and a little over half the time it's a loop of three exact passes over about nine and a half months ([Saturn retrograde](/astrology/saturn-retrograde/)). When Saturn passes at full speed, it can be over in three weeks.
+With my orbs, from 1½° before exact to 1° after, a Saturn trine to the Sun usually gives you about nine months of steady conditions. Often it's longer, nine and a half months over three exact passes, because [Saturn retrograde](/astrology/saturn-retrograde/) brings it back; once in a while it's a three-week pass at full speed.
 
-Your birthday places it roughly, because Saturn makes this trine from the two other signs of your Sun's element and spends about two and a half years in each. The houses it plays out in, though, need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Your birthday places it roughly, because Saturn makes this trine from the two other signs of your Sun's element and spends about two and a half years in each: fire Suns meet it while Saturn crosses the other fire signs, earth Suns the other earth signs. The house, though, is out of reach without your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-By 80, people born between 1930 and 2009 have had it five or six times. The first trine of a round comes after [transiting Saturn conjunct natal Sun](/astrology/transiting-saturn-conjunct-natal-sun/), [transiting Saturn sextile natal Sun](/astrology/transiting-saturn-sextile-natal-sun/) and [transiting Saturn square natal Sun](/astrology/transiting-saturn-square-natal-sun/) have each tested and shaped what began; the second, about five years after [transiting Saturn opposite natal Sun](/astrology/transiting-saturn-opposite-natal-sun/), comes as the round heads home.
+Everyone born between 1930 and 2009 has five or six of these trines by 80, one about ten years into each round and one about twenty. The first trine of a round comes after [transiting Saturn conjunct natal Sun](/astrology/transiting-saturn-conjunct-natal-sun/), [transiting Saturn sextile natal Sun](/astrology/transiting-saturn-sextile-natal-sun/) and [transiting Saturn square natal Sun](/astrology/transiting-saturn-square-natal-sun/) have each tested and shaped what began; the second, about five years after [transiting Saturn opposite natal Sun](/astrology/transiting-saturn-opposite-natal-sun/), comes as the round heads home.
 
 ## What helps {#what-helps}
 

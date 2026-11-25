@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn conjunct natal Venus"
 h1: "Transiting Saturn conjunct your natal Venus"
-description: "Transiting Saturn conjunct natal Venus: once every 29½ years, love, taste and what you value meet time and commitment. How long it lasts, what helps."
+description: "Transiting Saturn conjunct natal Venus: once every 29½ years, love, taste and what you value meet time and commitment. No break-up foretold; what helps."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -24,12 +24,12 @@ faq:
   - q: "Does Saturn conjunct Venus mean a break-up?"
     a: "No. I never read a transit for the end of a relationship, and this one doesn’t decide it. It tends to make the terms of your bonds visible: what’s given, what’s expected, what you would choose again. Some relationships settle into a firmer shape under it; whatever happens stays with the people in it."
   - q: "How often does Saturn conjunct Venus happen?"
-    a: "Once in each Saturn round of about 29½ years, so two or three times in a life of 80 years. With my orbs, from 1½° before exact to 1° after, it usually lasts about nine months, often in three exact passes; a quick single crossing can be over in about three weeks."
+    a: "Once in each Saturn round of about 29½ years, so two or three times in a life of 80 years. Each visit tends to fill about nine months within my orbs (1½° before exact, 1° after), often as three exact passes, though a quick crossing can be over in three weeks."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in orb with my orbs, and how often the conjunction comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-Once in each round of about 29½ years, Saturn passes over the degree your Venus held at birth. The planet of time sits on the planet of pleasure and value, and the question of those months is quick to ask and slow to answer: what do you love enough to keep?
+Every 29½ years or so, the slowest planet you can see without a telescope settles, for a season, on the degree your Venus held at birth. The planet of time sits on the planet of pleasure and value, and the question of those months is quick to ask and slow to answer: what do you love enough to keep?
 
 ## What changes {#what-changes}
 
@@ -39,13 +39,13 @@ It often shows as a sobering of taste and affection. Friendships that ran on hab
 
 Many people describe a cooler, quieter stretch socially. That's a season, not a sentence. If a low mood settles in and won't lift, it belongs with a doctor or a therapist rather than a chart ([astrology and mental health](/astrology/astrology-and-mental-health/)). Nor does the transit end a relationship or begin one: I don't read [transits](/astrology/transits/#its-limits) for break-ups, weddings or meetings.
 
-Where it lands is the house your Venus sits in. With Venus in the 11th, Saturn's pass through that house ([Saturn transiting the 11th house](/astrology/saturn-transit-11th-house/)) reaches your Venus somewhere along the way, and friendships and shared plans are what get sorted: the ones you keep up with effort, and the ones that were only convenient. That house needs your birth time, so without it there's no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
+Where it lands is the house your Venus sits in. With Venus in the 11th, Saturn's pass through that house ([Saturn transiting the 11th house](/astrology/saturn-transit-11th-house/)) reaches your Venus somewhere along the way, and friendships and shared plans are what get sorted: the ones you keep up with effort, and the ones that were only convenient. Without a birth time I can't tell your 11th house from your 10th or 12th, so I leave the transit unread ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
 With my orbs, from 1½° before exact to 1° after, Saturn usually stays on your Venus for about nine months. In a little over half of these transits it crosses the exact degree three times as its retrograde loop doubles back, over about nine and a half months; crossing once at full speed, it can be gone in three weeks.
 
-The conjunction opens Saturn's round with your Venus. About five years later comes [transiting Saturn sextile natal Venus](/astrology/transiting-saturn-sextile-natal-venus/), about seven years later [transiting Saturn square natal Venus](/astrology/transiting-saturn-square-natal-venus/), about ten years later [transiting Saturn trine natal Venus](/astrology/transiting-saturn-trine-natal-venus/), and at about fifteen, halfway, [transiting Saturn opposite natal Venus](/astrology/transiting-saturn-opposite-natal-venus/); then the same steps in reverse. By 80 people meet the conjunction itself two or three times, and nobody misses it entirely.
+Saturn's round with your Venus starts here. About five years later comes [transiting Saturn sextile natal Venus](/astrology/transiting-saturn-sextile-natal-venus/), about seven years later [transiting Saturn square natal Venus](/astrology/transiting-saturn-square-natal-venus/), about ten years later [transiting Saturn trine natal Venus](/astrology/transiting-saturn-trine-natal-venus/), and at about fifteen, halfway, [transiting Saturn opposite natal Venus](/astrology/transiting-saturn-opposite-natal-venus/); then the same steps in reverse. By 80 people meet the conjunction itself two or three times, and nobody misses it entirely.
 
 Venus never strays more than about 47° from the Sun, so this transit falls within about four years of [transiting Saturn conjunct natal Sun](/astrology/transiting-saturn-conjunct-natal-sun/), before or after. If Venus and Saturn were already together when you were born ([Venus conjunct Saturn](/astrology/venus-conjunct-saturn/)), your Saturn returns double as this transit.
 

@@ -2,7 +2,7 @@
 title: "Jupiter en transit trigone Saturne du thème natal"
 slug: "jupiter-transit-trigone-saturne-natal"
 h1: "Jupiter en transit trigone Saturne de votre thème natal"
-description: "Jupiter en transit trigone Saturne du thème natal : croissance et structure dans le même élément, deux fois par tour. Mettre cette aisance dans du durable."
+description: "Jupiter en transit trigone Saturne du thème natal : croissance et structure s’accordent à deux moments de chaque cycle. Mettre cette aisance dans du durable."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -34,7 +34,7 @@ La part de vous qui en veut davantage et celle qui veut que cela dure cessent un
 
 ## Ce qui change {#ce-qui-change}
 
-[Saturne](/astrology/saturn/) est la part de vous qui voit loin : elle bâtit lentement, tient parole et mesure les progrès en années. [Jupiter](/astrology/jupiter/) élargit, cherche du sens, veut aller plus loin. Un [trigone](/astrology/trine/) relie les deux par la fluidité, chacune des deux fonctions gardant son caractère : la croissance arrive sous une forme dont Saturne peut se servir, et la prudence de Saturne passe pour du bon sens plutôt que pour un frein.
+[Saturne](/astrology/saturn/) est la part de vous qui voit loin : elle bâtit lentement, tient parole et mesure les progrès en années. [Jupiter](/astrology/jupiter/) élargit, cherche du sens, veut aller plus loin. Sous un [trigone](/astrology/trine/), la croissance de Jupiter arrive sous une forme dont Saturne peut se servir, et la prudence de Saturne passe pour du bon sens plutôt que pour un frein.
 
 Concrètement, les longs efforts trouvent des appuis. Un projet porté seul ou seule trouve quelqu’un pour le partager, un engagement renouvelé par devoir commence à paraître choisi, un savoir-faire travaillé depuis des années devient facile à montrer. C’est une bonne saison pour consolider ce qui a grandi : le poser sur un terrain plus ferme avant la prochaine poussée.
 
@@ -42,7 +42,7 @@ L’élément compte. Avec Saturne en Bélier à la naissance, sa chute dans la 
 
 ## Combien de temps {#combien-de-temps}
 
-Dans les orbes avec lesquels je travaille, de 1,5° avant l’exactitude à 1° après, un trigone que Jupiter franchit une fois tient onze jours environ. Étiré par une boucle rétrograde, ce qui arrive dans trois [transits](/astrology/transits/) sur dix environ, il tient huit mois environ, avec trois passages exacts. Deux trigones par tour font treize ou quatorze avant 80 ans pour les naissances de 1930 à 2009.
+Dans les orbes avec lesquels je travaille, de 1,5° avant l’exactitude à 1° après, un trigone que Jupiter franchit une fois tient onze jours environ. Étiré par une boucle rétrograde, ce qui arrive dans trois [transits](/astrology/transits/) sur dix environ, il tient huit mois environ, avec trois passages exacts. Avec deux trigones par tour, une vie de 80 ans en compte treize ou quatorze pour une naissance de 1930 à 2009.
 
 Le premier est venu tôt pour les uns, tard pour les autres : vers 1,8 an pour une naissance le 1er janvier 1945, vers 6,6 ans pour le 1er janvier 1995. Ce trigone est natif chez les personnes nées avec [Jupiter trigone Saturne](/astrology/jupiter-trine-saturn/), et pour elles chaque [retour de Jupiter](/astrology/jupiter-return/) le ramène.
 

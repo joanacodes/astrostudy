@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Midheaven", "trine", "transits"]
 weight: 1619
 glyph: "♃△MC"
-definition: "Transiting Jupiter trine natal Midheaven is Jupiter reaching 120° from the top of your birth chart, twice in each twelve-year round. Your direction and the growth on offer agree, so work you believe in meets less resistance and home tends to help. I read it as good conditions for your direction, never as success promised."
+definition: "Transiting Jupiter trine natal Midheaven is Jupiter 120° from the top of your chart, in a sign that usually shares your Midheaven’s element, twice in each twelve-year round. Your direction and the growth on offer agree, so work you believe in meets less resistance. I read it as good conditions for your direction, never as success promised."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "Natal point", v: "The Midheaven MC, your direction in public" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/midheaven", "/astrology/trine", "/astrology/jupiter-transit-2nd-house", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter trine natal Midheaven mean?"
-    a: "Jupiter is 120° from the degree at the top of your birth chart, as happens twice in each twelve-year round. I read it as a season when your direction and the growth on offer pull the same way: work you believe in meets less resistance, and the reasons behind it are easier to explain."
+    a: "Jupiter is four signs from your Midheaven, usually in a sign of the same element, and 60° from your IC at the same time. I read it as a season when your direction and the growth on offer pull the same way: work you believe in meets less resistance, and the reasons behind it are easier to explain."
   - q: "Does Jupiter trine my Midheaven bring success?"
     a: "Not as a promise. I read the trine as a season when direction and growth agree, so work you care about moves with less friction. Success depends on the work itself, your circumstances and other people’s choices; the transit describes the conditions, not the result."
   - q: "How long does Jupiter trine the Midheaven last?"
-    a: "About eleven days within my orbs, from 1½° before exact to 1° after, in seven passes out of ten. In the other three, a retrograde loop takes Jupiter back over the point and the trine lasts about eight months, with three exact hits. Your Midheaven’s degree, from your birth time, sets the dates."
+    a: "Often less than two weeks: seven trines in ten pass in about eleven days within my orbs. When one falls in Jupiter’s retrograde months, the good conditions last about eight months instead, with three exact hits. Those dates hang on your Midheaven’s degree, which comes from your birth time."
   - q: "Is Jupiter trine the Midheaven a good time to change jobs?"
     a: "It can be a good time to move in a direction you already believe in, because the trine lets direction and growth work together. But no transit can tell you whether a particular job will work out. I’d use the season to get clear on what you want your work to be for, then decide with all the facts."
 sources:
@@ -46,11 +46,11 @@ Neither Jupiter nor the trine guarantees anything. Ease isn't inevitability, and
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, seven trines in ten are a single pass of about eleven days. The other three fall in [Jupiter retrograde](/astrology/jupiter-retrograde/) and stretch to about eight months, with three exact hits.
+Within my orbs, from 1½° before exact to 1° after, the easy angle to your Midheaven is often a matter of days: about eleven in seven cases out of ten. The rest fall in [Jupiter retrograde](/astrology/jupiter-retrograde/), and a direction that's working gets about eight months, with three exact hits, to show it.
 
 Take a Capricorn Midheaven: Jupiter trines it from Virgo, between July 2027 and August 2028, and from Taurus, between April 2035 and May 2036, on the days it reaches the same degree. Your own Midheaven's sign and degree come from your birth time, and without it I'd only be guessing ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-By 80, people born between 1930 and 2009 have had thirteen or fourteen of these trines. They sit four years from the conjunction at either end of the round, [transiting Jupiter conjunct natal Midheaven](/astrology/transiting-jupiter-conjunct-natal-midheaven/), and two years from the opposition in the middle, [transiting Jupiter opposite natal Midheaven](/astrology/transiting-jupiter-opposite-natal-midheaven/). Each sits about a year from a square, [transiting Jupiter square natal Midheaven](/astrology/transiting-jupiter-square-natal-midheaven/), the first just after one and the second just before; [transiting Jupiter sextile natal Midheaven](/astrology/transiting-jupiter-sextile-natal-midheaven/) is the round's other gentle angle.
+Thirteen or fourteen of these trines come by 80 for people born between 1930 and 2009, two to each round. They sit four years from the conjunction at either end of the round, [transiting Jupiter conjunct natal Midheaven](/astrology/transiting-jupiter-conjunct-natal-midheaven/), and two years from the opposition in the middle, [transiting Jupiter opposite natal Midheaven](/astrology/transiting-jupiter-opposite-natal-midheaven/). Each sits about a year from a square, [transiting Jupiter square natal Midheaven](/astrology/transiting-jupiter-square-natal-midheaven/), the first just after one and the second just before; [transiting Jupiter sextile natal Midheaven](/astrology/transiting-jupiter-sextile-natal-midheaven/) is the round's other gentle angle.
 
 ## What helps {#what-helps}
 

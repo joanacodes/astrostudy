@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/uranus", "/astrology/opposition", "/astrology/jupiter-opposite-uranus", "/astrology/uranus-opposition"]
 faq:
   - q: "What does transiting Jupiter opposite natal Uranus mean?"
-    a: "Jupiter stands across the chart from your birth Uranus, as it does once every twelve years or so. I read it as your independence meeting someone else’s growth: a partner’s plan, a group’s ambition, a belief held with confidence. The work is finding room for your own way inside it, or beside it."
+    a: "Your birth Uranus has Jupiter directly opposite it, which happens about every twelve years. I read it as your independence meeting someone else’s growth: a partner’s plan, a group’s ambition, a belief held with confidence. The work is finding room for your own way inside it, or beside it."
   - q: "Is Jupiter opposite Uranus the same as the Uranus opposition?"
     a: "No. The Uranus opposition is Uranus in the sky opposing its own birth place, once in a life, at about 42. Jupiter opposite natal Uranus is Jupiter facing your Uranus, which happens about every twelve years and lasts days, or around eight months in the years when Jupiter turns back over it."
   - q: "How long does Jupiter opposite natal Uranus last?"
-    a: "It depends on whether Jupiter loops. A straight crossing lasts about eleven days with the orbs I use for timing; when Jupiter turns retrograde near the point, as it does in about three cases out of ten, the opposition spreads over roughly eight months. Everyone born from 1930 to 2009 meets six or seven by 80."
+    a: "It depends on whether Jupiter loops. A straight crossing lasts about eleven days with the orbs I use for timing; when Jupiter turns retrograde near the point, as it does in about three cases out of ten, the opposition spreads over roughly eight months. Six or seven come before 80, for every birth in the count."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first opposition for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
@@ -37,7 +37,7 @@ Once in every Jupiter lap, the planet of growth arrives on the far side of your 
 
 What follows is a negotiation. Sometimes the shared plan asks for less independence than you're willing to give; sometimes meeting another person's conviction shows you exactly where you differ, and why it matters. Opposition isn't conflict: the useful outcome is a version of the larger aim with room in it for your own way.
 
-Uranus's house sets the scene, and Jupiter is then crossing the house opposite. With Uranus in your 3rd, where you think and talk in your own fashion, the opposition comes during [Jupiter transiting the 9th house](/astrology/jupiter-transit-9th-house/): other people's big beliefs meet your independent mind. That reading needs a birth time to place either house ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Jupiter opposite Uranus](/astrology/jupiter-opposite-uranus/), you meet this transit near each [Jupiter return](/astrology/jupiter-return/).
+Two houses face each other in this transit: your Uranus's, and the opposite one, which Jupiter is crossing. With Uranus in your 3rd, where you think and talk in your own fashion, the opposition comes during [Jupiter transiting the 9th house](/astrology/jupiter-transit-9th-house/): other people's big beliefs meet your independent mind. That reading needs a birth time to place either house ([what changes without a birth time](/blog/unknown-birth-time/)). And if Jupiter faced Uranus when you were born ([Jupiter opposite Uranus](/astrology/jupiter-opposite-uranus/)), the two meet like this again at each [Jupiter return](/astrology/jupiter-return/).
 
 It isn't the [Uranus opposition](/astrology/uranus-opposition/), transiting Uranus opposite its own birth place at about 42. That one comes once; this one is Jupiter's, every twelve years or so.
 

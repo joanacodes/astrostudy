@@ -1,7 +1,7 @@
 ---
 title: "Transiting Uranus square natal Sun"
 h1: "Transiting Uranus square your natal Sun"
-description: "Transiting Uranus square natal Sun: twice in a life, about twenty months of friction between the life you built and the wish to differ. What helps."
+description: "Transiting Uranus square natal Sun: twice in a life, twenty months of friction between the life you built and the wish to differ, and how to rework it."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Sun", "square", "transits"]
 weight: 1682
 glyph: "♅□☉"
-definition: "Transiting Uranus square natal Sun is Uranus in the sky a quarter of the zodiac from the degree your Sun held at birth, for about twenty months. The life you have organised around yourself starts to pinch, and the friction asks for reform: new terms, room to differ. I read it as a renovation, never a demolition."
+definition: "Transiting Uranus square natal Sun is the stretch of about twenty months when Uranus in the sky makes a right angle to your birth Sun. The life you have organised around yourself starts to pinch, and the friction asks for reform: new terms, room to differ. I read it as a renovation, never a demolition."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "The Sun ☉: identity, purpose and vitality" }
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/sun", "/astrology/square", "/astrology/sun-square-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Uranus square natal Sun mean?"
-    a: "Uranus stands 90° from the degree your Sun held at birth. I read it as friction between the life you’ve built and the part of you that wants to differ: a role, a routine or a plan that fitted starts to pinch, and you get a long season to rework it rather than a day to escape it."
+    a: "Uranus has reached a right angle to your birth Sun, a quarter of the zodiac away. I read it as friction between the life you’ve built and the part of you that wants to differ: a role, a routine or a plan that fitted starts to pinch, and you get a long season to rework it rather than a day to escape it."
   - q: "How long does Uranus square Sun last?"
     a: "About twenty months with my orbs, which run from 1½° before exact to 1° after; the shortest passes take about eleven. In more than nine passes out of ten, Uranus crosses the exact square three times, because it spends about five months of every year moving backwards through the zodiac."
   - q: "At what age does Uranus square your Sun?"
-    a: "That depends on where Uranus stood when you were born. One square comes about twenty years before Uranus reaches your Sun, the other about twenty years after it has passed, so roughly forty-two years separate them. Most people meet both by 80, and everyone meets at least one."
+    a: "Your birth chart sets it: one square comes about twenty years before Uranus reaches your Sun, the other about twenty years after it has passed, so roughly forty-two years separate them. By 80 most people have had both, and nobody gets there without one."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Uranus stays within my orbs, and how often the square comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Uranus’s transits, taken one at a time" }

@@ -22,9 +22,9 @@ faq:
   - q: "What does transiting Jupiter conjunct natal Uranus mean?"
     a: "Jupiter is passing over your birth Uranus, as it does about every twelve years. I read it as more room for the part of you that wants to do things differently: new ideas, a wish to experiment, impatience with routines that have stopped fitting. What it describes is a season of change; it names no event."
   - q: "Does Jupiter conjunct Uranus bring sudden luck?"
-    a: "It has that reputation, and I don’t read it that way. Jupiter is growth and meaning in my readings, not luck or money, and Uranus is change, not windfalls. The transit can bring ideas and openings quickly; what comes of them depends on you, and on many things no chart shows."
+    a: "It has that reputation, and I don’t read it that way. What the two planets describe is an appetite for growth and for change; neither hands out windfalls. The transit can bring ideas and openings quickly; what comes of them depends on you, and on many things no chart shows."
   - q: "How long does Jupiter conjunct natal Uranus last?"
-    a: "Eleven days, more or less, if Jupiter crosses the point once with the orbs I use for timing; about eight months if it loops back and crosses three times, which happens about three times in ten. By 80, those born between 1930 and 2009 have had six or seven."
+    a: "Eleven days, more or less, if Jupiter crosses the point once with the orbs I use for timing; about eight months if it loops back and crosses three times, which happens about three times in ten. Between birth and 80, everyone born from 1930 to 2009 meets six or seven."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first conjunction for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
@@ -43,7 +43,7 @@ Your Uranus sits within a few degrees of the Uranus of everyone born in the same
 
 ## How long it lasts {#how-long-it-lasts}
 
-Uranus likes speed, and a straight pass of Jupiter is the briefest of the transits I follow for timing: with orbs from 1½° before exact to 1° after, about eleven days. Roughly three times in ten Jupiter is near a station, crosses three times, and keeps the conjunction going for some eight months. Six or seven arrive before 80 for every birth from 1930 to 2009.
+Uranus likes speed, and a straight pass of Jupiter is the briefest of the transits I follow for timing: with orbs from 1½° before exact to 1° after, about eleven days. Roughly three times in ten Jupiter is near a station, crosses three times, and keeps the conjunction going for some eight months. Over eighty years, that makes six or seven conjunctions for anyone born between 1930 and 2009.
 
 The first could come at any age from a few weeks to twelve, depending on where Jupiter stood that day: at about 3.6 for a birth on 1 January 1965, about 10.2 for 1 January 1985. Each later one comes about twelve years after the last.
 

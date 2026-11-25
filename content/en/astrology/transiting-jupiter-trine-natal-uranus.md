@@ -33,7 +33,7 @@ For a few days, or for months when Jupiter loops, the changes you want and the r
 
 ## What changes {#what-changes}
 
-[Uranus](/astrology/uranus/) is where you need freedom to reconfigure things: to try alternatives, reform a system, do it your own way. [Jupiter](/astrology/jupiter/) widens and supports growth. A [trine](/astrology/trine/) relates them through flow, each keeping its own nature, so change stops feeling like a fight. New ideas get a hearing, people are readier to try what you suggest, and an independent choice costs less than usual.
+[Uranus](/astrology/uranus/) is where you need freedom to reconfigure things: to try alternatives, reform a system, do it your own way. [Jupiter](/astrology/jupiter/) widens and supports growth. With a [trine](/astrology/trine/) between them, change stops feeling like a fight. New ideas get a hearing, people are readier to try what you suggest, and an independent choice costs less than usual.
 
 Of all Jupiter's contacts with your Uranus, the trine favours carrying out a change more than inventing one. The idea that came under the conjunction and was tested under the square can be put into practice now with less friction: a new routine made permanent, a reform agreed, a way of working that finally becomes the way you work.
 

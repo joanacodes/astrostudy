@@ -23,9 +23,9 @@ faq:
   - q: "Que veut dire Jupiter en transit trigone Uranus du thème natal ?"
     a: "Jupiter, dans le ciel du jour, forme un angle de 120° avec Uranus de votre naissance : la croissance et votre besoin de changement vont un moment dans le même sens. J’y lis une période où les idées neuves sont bien reçues et où les réformes rencontrent peu de résistance, plus propice à mener un changement qu’à l’inventer."
   - q: "Le trigone de Jupiter à Uranus apporte-t-il un coup de chance ?"
-    a: "Pas au sens d’une chance qui viendrait du dehors. Dans mes lectures, Jupiter, c’est la croissance et le sens, et Uranus, le changement et l’indépendance ; le trigone les fait travailler ensemble facilement. Des ouvertures peuvent venir vite, mais ce qu’elles donnent dépend de vous et de circonstances qu’aucun transit ne décrit."
+    a: "Pas au sens d’une chance qui viendrait du dehors. Pour moi, Jupiter décrit la croissance et le sens, Uranus le changement et l’indépendance ; le trigone les fait travailler ensemble facilement. Des ouvertures peuvent venir vite, mais ce qu’elles donnent dépend de vous et de circonstances qu’aucun transit ne décrit."
   - q: "Quand vient le trigone de Jupiter à Uranus du thème natal ?"
-    a: "En moyenne tous les six ans environ, puisque chaque tour de douze ans en compte deux : treize ou quatorze avant 80 ans pour les naissances de 1930 à 2009. Un passage simple dure onze jours environ, une boucle huit mois environ. L’âge au premier dépendait de la date de naissance, jusqu’à huit ans environ."
+    a: "En moyenne tous les six ans environ, chaque tour de douze ans en comptant deux ; sur 80 ans, cela donne treize ou quatorze trigones pour les naissances de 1930 à 2009. Un passage simple dure onze jours environ, une boucle huit mois environ. L’âge au premier dépendait de la date de naissance, jusqu’à huit ans environ."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge au premier trigone selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
@@ -34,7 +34,7 @@ Pendant quelques jours, ou des mois quand Jupiter fait une boucle, les changemen
 
 ## Ce qui change {#ce-qui-change}
 
-[Uranus](/astrology/uranus/) marque l’endroit où vous avez besoin de liberté pour réorganiser les choses : essayer d’autres voies, réformer un système, faire à votre façon. [Jupiter](/astrology/jupiter/) élargit et soutient la croissance. Un [trigone](/astrology/trine/) relie les deux par la fluidité, chacune des deux fonctions gardant sa nature, si bien que changer cesse de ressembler à un combat. Les idées neuves sont écoutées, les autres essaient plus volontiers ce que vous proposez, et un choix indépendant coûte moins que d’habitude.
+[Uranus](/astrology/uranus/) marque l’endroit où vous avez besoin de liberté pour réorganiser les choses : essayer d’autres voies, réformer un système, faire à votre façon. [Jupiter](/astrology/jupiter/) élargit et soutient la croissance. Avec un [trigone](/astrology/trine/) entre les deux, changer cesse de ressembler à un combat. Les idées neuves sont écoutées, les autres essaient plus volontiers ce que vous proposez, et un choix indépendant coûte moins que d’habitude.
 
 De tous les contacts de Jupiter avec Uranus dans votre thème, le trigone favorise la mise en œuvre d’un changement plus que son invention. L’idée venue sous la conjonction et éprouvée sous le carré peut maintenant passer dans les faits avec moins de friction : une nouvelle routine rendue permanente, une réforme acceptée, une façon de travailler qui devient enfin la vôtre.
 

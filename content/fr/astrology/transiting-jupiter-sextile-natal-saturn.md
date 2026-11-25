@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Saturne", "sextile", "transits"]
 weight: 1592
 glyph: "♃⚹♄"
-definition: "Jupiter en transit sextile Saturne du thème natal, c’est un angle de 60° entre Jupiter dans le ciel d’aujourd’hui et Saturne de votre naissance, formé deux fois par tour de Jupiter. La croissance et la part de vous qui bâtit lentement peuvent coopérer. J’y lis l’occasion de donner une structure à un espoir, utile seulement si vous la saisissez."
+definition: "Jupiter en transit sextile Saturne du thème natal, c’est un angle de 60° entre Jupiter dans le ciel d’aujourd’hui et Saturne de votre naissance, formé à deux reprises dans chaque cycle. La croissance et la part de vous qui bâtit lentement peuvent coopérer. J’y lis l’occasion de donner une structure à un espoir, utile seulement si vous la saisissez."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Saturne ♄ de votre thème : ce que vous portez, votre façon de bâtir" }

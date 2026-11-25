@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn opposite natal Venus"
 h1: "Transiting Saturn opposite your natal Venus"
-description: "Transiting Saturn opposite natal Venus: halfway round Saturn’s cycle, what you love meets what others expect of you. How long it lasts, and what helps."
+description: "Transiting Saturn opposite natal Venus: halfway round Saturn’s cycle, what you love meets what others expect of you. How to rebalance give and take."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -20,16 +20,16 @@ facts:
 related: ["/astrology/saturn", "/astrology/venus", "/astrology/opposition", "/astrology/venus-opposite-saturn", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn opposite natal Venus mean?"
-    a: "Saturn stands across the zodiac from your birth Venus. What you love and enjoy faces responsibility, often through another person: a partner’s needs, a family duty, a formal commitment. I read it as a season of rebalancing give and take, when what you value becomes clearer by contrast, never as a loss foretold."
+    a: "Saturn has reached the point opposite your birth Venus. What you love and enjoy faces responsibility, often through another person: a partner’s needs, a family duty, a formal commitment. I read it as a season of rebalancing give and take, when what you value becomes clearer by contrast, never as a loss foretold."
   - q: "Does Saturn opposite Venus mean divorce?"
     a: "No transit decides that, and I never read one for the end of a marriage. This opposition tends to bring the balance of a relationship into view: what each person gives, expects and carries. Many couples renegotiate under it, some more honestly than ever before. The outcome belongs to the people involved."
   - q: "When does Saturn oppose my Venus?"
-    a: "About fifteen years after Saturn last crossed your Venus, halfway through its round of about 29½ years, so two or three times by the age of 80. With my orbs, from 1½° before exact to 1° after, it usually lasts about nine months, often in three passes; a quick single crossing can take three weeks."
+    a: "Roughly fifteen years after each Saturn conjunction with your Venus, at the midpoint of the round: two or three times by the age of 80. It usually lasts about nine months with my orbs, often in three passes, and a quick single crossing can take three weeks."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in orb with my orbs, and how often the opposition comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-Halfway round its cycle, about fifteen years after crossing your Venus, Saturn stands directly opposite it. What you love and what you owe face each other across the chart, and more often than not the conversation happens through other people.
+What you love and what you owe face each other across the chart when Saturn reaches the point opposite your Venus, about fifteen years after crossing it. More often than not, the conversation happens through other people.
 
 ## What changes {#what-changes}
 
@@ -37,7 +37,7 @@ Halfway round its cycle, about fifteen years after crossing your Venus, Saturn s
 
 In a relationship it often brings the terms into view: who adapts to whom, whose timetable wins, what was promised and what was only assumed. With friends or family it can show as an obligation taken on out of affection that now needs a clearer shape. It can also be a season when someone more serious than you, an older relative, a demanding partner, a formal setting, asks what you really value. None of this is a break-up foretold. I don't read [transits](/astrology/transits/) for separations or reunions: the opposition shows a seesaw, and the people on it decide.
 
-Across the axis, two houses talk. With Venus in your 4th and Saturn crossing your 10th ([Saturn transiting the 10th house](/astrology/saturn-transit-10th-house/)), the home and the people you love sit across from what work or a public role demands. Your birth time draws that axis, and I don't read the transit without it ([what changes without a birth time](/blog/unknown-birth-time/)).
+Across the axis, two houses talk. With Venus in your 4th and Saturn crossing your 10th ([Saturn transiting the 10th house](/astrology/saturn-transit-10th-house/)), the home and the people you love sit across from what work or a public role demands. In Placidus, the house system I use, the 4th and the 10th begin at the IC and the Midheaven, two points only a birth time can place; without it I don't read this opposition ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Saturn crosses Aries until April 2028, so the people meeting this opposition now have Venus in Libra: Venus in one of its own signs, faced by Saturn in the sign tradition calls its fall.
 

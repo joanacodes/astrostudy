@@ -22,22 +22,22 @@ faq:
   - q: "What does transiting Jupiter opposite natal Saturn mean?"
     a: "From the far side of the chart, Jupiter now faces your birth Saturn, so the chance to grow appears across from your commitments and structures, often in someone else’s plans. I read it as a time for weighing what you have built against what is on offer, with both ends belonging to you."
   - q: "How often does Jupiter oppose natal Saturn?"
-    a: "Once in each twelve-year Jupiter round, about six years after Jupiter crosses your Saturn: six or seven times by 80 for births from 1930 to 2009. A straight pass is over in about eleven days; in about three cases out of ten Jupiter loops back and the opposition lasts about eight months."
+    a: "It comes halfway between two of Jupiter’s crossings of your Saturn, so about six years after each. People born from 1930 to 2009 have six or seven of them by 80. A straight pass is over in about eleven days; in about three cases out of ten Jupiter loops back and the opposition lasts about eight months."
   - q: "Does Jupiter opposite Saturn mean choosing between freedom and duty?"
     a: "It can feel that way: an offer or a wish pulls one way, a commitment holds the other. I don’t read it as a choice you’re forced into. An opposition shows both ends at once so they can be balanced, and the answer is often a structure that makes room for the growth."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first opposition for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-Once in each twelve-year round, Jupiter in the sky reaches the point facing your natal Saturn. What you have built, and keep, finds itself across the table from what you could grow into, and very often the growth arrives in somebody else's hands.
+About six years after crossing your natal Saturn, Jupiter arrives on the far side of the chart from it. What you have built, and keep, finds itself across the table from what you could grow into, and very often the growth arrives in somebody else's hands.
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) in your chart stands for the structures you've built and the responsibilities you keep, along with the fear of wasting effort that made you careful. [Jupiter](/astrology/jupiter/) brings the wider view: opportunity, belief, a reason to go further. An [opposition](/astrology/opposition/) relates two functions through polarity, so neither cancels the other. They face each other until you see what each one is for.
+[Saturn](/astrology/saturn/) in your chart stands for the structures you've built and the responsibilities you keep, along with the fear of wasting effort that made you careful. [Jupiter](/astrology/jupiter/) brings the wider view: opportunity, belief, a reason to go further. Across an [opposition](/astrology/opposition/), neither cancels the other: they face each other until you see what each one is for.
 
 In practice the growth tends to come from outside. Someone's offer, a partner's ambition, a belief you meet in another person: each one appears across from what you're already committed to, and asks whether it still fits. It isn't a contest between security and adventure, whatever it feels like. An opposition is about balance, and the useful question is what your structure would need in order to hold a little more.
 
-Saturn's house decides where the weighing happens, and Jupiter is then crossing the house opposite. With Saturn in your 7th, where commitments to a partner take their time, the opposition comes while [Jupiter transiting the 1st house](/astrology/jupiter-transit-1st-house/) gives your own growth room just as a long commitment asks to be kept. Your birth time is what fixes both ([what changes without a birth time](/blog/unknown-birth-time/)).
+The weighing takes place in your Saturn's house, with Jupiter passing through the one across from it. With Saturn in your 7th, where commitments to a partner take their time, the opposition comes while [Jupiter transiting the 1st house](/astrology/jupiter-transit-1st-house/) gives your own growth room just as a long commitment asks to be kept. Your birth time is what fixes both ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

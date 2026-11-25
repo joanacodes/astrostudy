@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Ascendant", "rising sign", "square", "transits"]
 weight: 1613
 glyph: "♃□AC"
-definition: "Transiting Jupiter square natal Ascendant is Jupiter reaching 90° from the degree that was rising at your birth, twice in each twelve-year round. Growth presses on the way you come across, and your manner is asked for more than it usually gives. I read it as friction that widens your range, never a setback."
+definition: "Transiting Jupiter square natal Ascendant is Jupiter at right angles to your horizon, 90° from your rising degree and from your Descendant alike, twice in each twelve-year round. Growth presses on the way you come across, asking more of your manner than usual. I read it as friction that stretches your range, not as a setback."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "Natal point", v: "The Ascendant AC, the way you meet the world" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/ascendant", "/astrology/square", "/astrology/midheaven", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter square natal Ascendant mean?"
-    a: "Jupiter in the sky is 90° from the degree that was rising at your birth, as happens twice in each twelve-year round. I read it as growth pressing on how you come across: more is asked of your manner than it usually gives, and you adjust. It’s friction that widens your range, not a setback."
+    a: "Jupiter is a quarter of the zodiac from your rising degree, once low in your chart and once high in it during each twelve-year round. I read it as growth pressing on how you come across: more is asked of your manner than it usually gives, and you adjust. The friction is how your range grows."
   - q: "Is Jupiter square the Ascendant a hard transit?"
     a: "It asks for effort, but I don’t read it as hard luck. Squares bring friction, and Jupiter’s is usually about too much rather than too little: more roles, more invitations, a bigger version of yourself to try on. The work is choosing what fits and adjusting how you show up for it."
   - q: "How long does Jupiter square the Ascendant last?"
-    a: "About eleven days within my orbs, in seven cases out of ten. In the other three, a retrograde loop brings Jupiter back over the point, and the square is exact three times across about eight months. Both depend on an accurate birth time, since your rising degree sets the dates."
+    a: "Seven times in ten it’s a matter of days, about eleven within my orbs. The other three times Jupiter loops back in retrograde and the pressure stays for about eight months, with three exact hits. Either way, an accurate birth time is what places it, since your rising degree sets the dates."
   - q: "Is Jupiter square my Ascendant the same as Jupiter on my Midheaven?"
     a: "Not quite. The Midheaven is rarely exactly 90° from the Ascendant; at London’s latitude it can be anywhere from about 54° to 126° away. So the square and Jupiter’s crossing of your Midheaven or IC are separate moments, sometimes more than a year apart, and your birth time and place set the gap."
 sources:
@@ -45,9 +45,9 @@ It's easy to confuse this square with Jupiter crossing your Midheaven or IC, but
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, a square from Jupiter holds your Ascendant for about eleven days in seven passes out of ten. The other three are loops ([Jupiter retrograde](/astrology/jupiter-retrograde/)), with three exact hits over about eight months: long enough for the friction to become a theme rather than a week.
+Counted from 1½° before exact to 1° after, the pressure on your horizon is a matter of days in seven cases out of ten, about eleven of them. The other three are loops ([Jupiter retrograde](/astrology/jupiter-retrograde/)), with three exact hits over about eight months: long enough for the friction to become a theme rather than a week.
 
-By 80, everyone born between 1930 and 2009 has met it thirteen or fourteen times. [Transiting Jupiter conjunct natal Ascendant](/astrology/transiting-jupiter-conjunct-natal-ascendant/) opens each round; [transiting Jupiter sextile natal Ascendant](/astrology/transiting-jupiter-sextile-natal-ascendant/) and this square follow within three years, [transiting Jupiter trine natal Ascendant](/astrology/transiting-jupiter-trine-natal-ascendant/) eases the pressure a year later, and [transiting Jupiter opposite natal Ascendant](/astrology/transiting-jupiter-opposite-natal-ascendant/) marks the halfway point, before a second square arrives from the top of the chart.
+Everyone born between 1930 and 2009 meets this square thirteen or fourteen times by 80, half of them from the bottom of the chart and half from the top. [Transiting Jupiter conjunct natal Ascendant](/astrology/transiting-jupiter-conjunct-natal-ascendant/) opens each round; [transiting Jupiter sextile natal Ascendant](/astrology/transiting-jupiter-sextile-natal-ascendant/) and this square follow within three years, [transiting Jupiter trine natal Ascendant](/astrology/transiting-jupiter-trine-natal-ascendant/) eases the pressure a year later, and [transiting Jupiter opposite natal Ascendant](/astrology/transiting-jupiter-opposite-natal-ascendant/) marks the halfway point, before a second square arrives from the top of the chart.
 
 ## What helps {#what-helps}
 

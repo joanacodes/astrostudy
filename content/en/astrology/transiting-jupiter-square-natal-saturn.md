@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/square", "/astrology/jupiter-square-saturn", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter square natal Saturn mean?"
-    a: "Jupiter in the sky is 90° from your natal Saturn, so the urge to grow and the part of you that sets limits get in each other’s way. Either the plan outruns what you can carry, or caution makes a good idea look reckless. I read it as a time to resize the plan, not to drop it."
+    a: "It’s the square between today’s Jupiter and your birth Saturn: the urge to grow and the part of you that sets limits get in each other’s way. Either the plan outruns what you can carry, or caution makes a good idea look reckless; the answer is usually a smaller version that can be built."
   - q: "How long does Jupiter square Saturn last as a transit?"
     a: "Jupiter takes about eleven days to cross the square once, counting by my usual orbs. Roughly three times in ten it loops back and crosses three times, which stretches it to about eight months. It comes twice in each twelve-year round, thirteen or fourteen times by 80."
   - q: "Is Jupiter square natal Saturn a bad transit?"
@@ -33,7 +33,7 @@ When Jupiter in the sky reaches 90° from your birth Saturn, as it does on the w
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) holds the line in a chart: it sets limits, keeps commitments and asks what will still be standing in ten years. [Jupiter](/astrology/jupiter/) wants more room, more meaning, a bigger frame. A [square](/astrology/square/) relates them through constructive friction, the kind that makes each adjust to the other rather than win.
+[Saturn](/astrology/saturn/) holds the line in a chart: it sets limits, keeps commitments and asks what will still be standing in ten years. [Jupiter](/astrology/jupiter/) wants more room, more meaning, a bigger frame. The [square](/astrology/square/) between them is friction of the constructive kind: each has to adjust to the other rather than win.
 
 The friction tends to take one of two shapes. Either growth pulls against structure, with impatience at your own caution, rules that suddenly feel too tight, a plan that outruns the hours; or structure pushes back against growth, with a doubt that makes a good idea look reckless, or a duty that leaves no room for it. Saturn tends to believe that control keeps things safe, and Jupiter that more is better: the square puts both beliefs under a little pressure, which is useful for each.
 

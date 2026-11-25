@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Ascendant", "rising sign", "sextile", "transits"]
 weight: 1612
 glyph: "♃⚹AC"
-definition: "Transiting Jupiter sextile natal Ascendant is Jupiter reaching 60° from the degree that was rising at your birth, twice in each twelve-year round. It offers an easier way in: an introduction, a setting that suits you, a chance to meet people differently. I read it as an invitation at the threshold, which works only if you step through."
+definition: "Transiting Jupiter sextile natal Ascendant is Jupiter 60° from your rising degree and 120° from your Descendant, about two years either side of each crossing. It offers an easier way in: an introduction, a setting that suits you. I read it as an invitation at the threshold, which works only if you step through."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "Natal point", v: "The Ascendant AC, the way you meet the world" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/ascendant", "/astrology/sextile", "/astrology/descendant", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter sextile natal Ascendant mean?"
-    a: "Jupiter in the sky is 60° from the degree that was rising when you were born, as happens twice in each twelve-year round. I read it as an easier way in: an introduction, a new group or place that suits you, a first meeting that goes well. It opens a door at the threshold; walking through is up to you."
+    a: "Jupiter stands two signs or so from your rising degree, once below your horizon and once above it in each twelve-year round. I read it as an easier way in: an introduction, a new group or place that suits you, a first meeting that goes well. It opens a door at the threshold; walking through is up to you."
   - q: "When is Jupiter sextile my Ascendant?"
-    a: "About two years after Jupiter crosses your rising degree, and again about two years before it crosses it once more. Your rising sign gives the year, since Jupiter makes the sextile from the sign two before it and the sign two after; your rising degree, which needs the birth time, gives the days."
+    a: "Twice in every twelve years: once roughly two years after Jupiter crosses your rising degree, once roughly two years before it gets back to it. Your rising sign gives the year, since Jupiter makes the sextile from the sign two before it and the sign two after; your rising degree, which needs the birth time, gives the days."
   - q: "How long does Jupiter sextile the Ascendant last?"
-    a: "About eleven days within my orbs, from 1½° before exact to 1° after, in seven cases out of ten. In the other three, Jupiter’s retrograde loop brings it back over the point, and the sextile is exact three times across about eight months."
+    a: "Usually a short window: about eleven days within my orbs, from 1½° before exact to 1° after, which is how seven sextiles in ten pass. The other three catch Jupiter turning retrograde nearby and last about eight months, long enough for an introduction to become a habit."
   - q: "Is Jupiter sextile my Ascendant a good time to start something?"
     a: "A good time to step into something, as I read it: a group, a setting, an introduction someone offers. The sextile makes the first move easier where you meet the world, but it doesn’t make it for you, and what begins depends on whether you take that step."
 sources:
@@ -44,11 +44,11 @@ In Placidus, the first sextile of a round usually finds Jupiter in your 2nd or 3
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, a sextile from Jupiter holds your Ascendant for about eleven days in seven cases out of ten. In the other three, [Jupiter retrograde](/astrology/jupiter-retrograde/) brings it back over the point, and the sextile is exact three times in about eight months.
+An introduction doesn't take long, and most of the time neither does this sextile: within my orbs, from 1½° before exact to 1° after, seven in ten are over in about eleven days. The other three meet [Jupiter retrograde](/astrology/jupiter-retrograde/) on the way and stretch to about eight months, with three exact hits.
 
-Your rising sign sets the year, because Jupiter makes this sextile from the sign two before it and from the sign two after, spending about a year in each. It's also why the birth time matters so much here: the rising sign changes about every two hours, so two people born on the same day can meet these sextiles a year apart. Without the time, I don't read ([what changes without a birth time](/blog/unknown-birth-time/)).
+Your rising sign sets the year, because Jupiter makes this sextile from the sign two before it and from the sign two after, spending about a year in each. It's also why the birth time matters so much here: the rising sign changes about every two hours, so two people born on the same day can meet these sextiles a year apart. A reading waits until the time is known ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-By 80, people born between 1930 and 2009 have had it thirteen or fourteen times. The first sextile of a round follows [transiting Jupiter conjunct natal Ascendant](/astrology/transiting-jupiter-conjunct-natal-ascendant/) by about two years, with [transiting Jupiter square natal Ascendant](/astrology/transiting-jupiter-square-natal-ascendant/) and [transiting Jupiter trine natal Ascendant](/astrology/transiting-jupiter-trine-natal-ascendant/) close behind. The second comes about ten years in, well after [transiting Jupiter opposite natal Ascendant](/astrology/transiting-jupiter-opposite-natal-ascendant/), as Jupiter heads back towards your rising degree.
+By 80, people born between 1930 and 2009 have had thirteen or fourteen of these openings, about half with Jupiter below their horizon and half above it. Two years or so after [transiting Jupiter conjunct natal Ascendant](/astrology/transiting-jupiter-conjunct-natal-ascendant/) comes the round's first sextile, and [transiting Jupiter square natal Ascendant](/astrology/transiting-jupiter-square-natal-ascendant/) and [transiting Jupiter trine natal Ascendant](/astrology/transiting-jupiter-trine-natal-ascendant/) are close behind it. The second comes about ten years in, well after [transiting Jupiter opposite natal Ascendant](/astrology/transiting-jupiter-opposite-natal-ascendant/), as Jupiter heads back towards your rising degree.
 
 ## What helps {#what-helps}
 

@@ -33,7 +33,7 @@ An easy angle between today's Jupiter and your birth Uranus opens twice in every
 
 ## What changes {#what-changes}
 
-[Uranus](/astrology/uranus/) wants room to do things differently: new methods, independent choices, reforms of systems that have stopped serving you. [Jupiter](/astrology/jupiter/) learns, widens and looks for meaning. A [sextile](/astrology/sextile/) joins them through cooperation, which makes it the gentlest of the five contacts between them: nothing breaks, nothing is forced, and change arrives as a door you're free to walk through.
+[Uranus](/astrology/uranus/) wants room to do things differently: new methods, independent choices, reforms of systems that have stopped serving you. [Jupiter](/astrology/jupiter/) is how you learn, and what you find worth learning. A [sextile](/astrology/sextile/) joins them through cooperation, which makes it the gentlest of the five contacts between them: nothing breaks, nothing is forced, and change arrives as a door you're free to walk through.
 
 Uranus thinks in networks and systems as much as in individuals, so the opening often comes through other people: a group with the skill you lack, a new circle that does things another way, a colleague who has already tried the experiment you're considering. It can also be as simple as the week you finally learn the tool you've been avoiding. Of the five contacts, this is the easiest one for picking up a skill: Jupiter brings the curiosity, Uranus the wish to do it your own way, and nothing in the angle pushes back.
 

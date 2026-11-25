@@ -2,7 +2,7 @@
 title: "Uranus en transit carré Soleil du thème natal"
 slug: "uranus-transit-carre-soleil-natal"
 h1: "Uranus en transit carré votre Soleil natal"
-description: "Uranus en transit carré Soleil du thème natal : deux fois dans une vie, une vingtaine de mois où la vie bâtie frotte contre l’envie de changer. Ce qui aide."
+description: "Uranus en transit carré Soleil du thème natal : deux fois dans une vie, vingt mois où la vie bâtie frotte contre l’envie de changer, et comment la retravailler."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Uranus", "Soleil", "carré", "transits"]
 weight: 1682
 glyph: "♅□☉"
-definition: "Uranus en transit carré Soleil du thème natal, c’est Uranus à un quart de zodiaque du degré qu’occupait votre Soleil à la naissance, pendant une vingtaine de mois. La vie organisée autour de vous commence à serrer, et la friction demande une réforme : d’autres conditions, de la place pour vous distinguer. J’y lis une rénovation, jamais une démolition."
+definition: "Uranus en transit carré Soleil du thème natal, c’est une vingtaine de mois pendant lesquels Uranus, dans le ciel, forme un angle droit avec votre Soleil de naissance. La vie organisée autour de vous commence à serrer, et la friction demande une réforme : d’autres conditions, de la place pour vous distinguer. J’y lis une rénovation, jamais une démolition."
 facts:
   - { k: "En transit", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Point natal", v: "Le Soleil ☉ : identité, direction et vitalité" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/sun", "/astrology/square", "/astrology/sun-square-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Uranus en transit carré Soleil du thème natal ?"
-    a: "Uranus se trouve à 90° du degré de votre Soleil de naissance. J’y lis une friction entre la vie bâtie autour de vous et la part de vous qui veut se distinguer : un rôle, un rythme ou un projet qui allait bien commence à serrer, et vous avez une longue saison pour le retravailler plutôt qu’un jour pour le fuir."
+    a: "Uranus a atteint un angle droit avec votre Soleil de naissance, à un quart de zodiaque. J’y lis une friction entre la vie bâtie autour de vous et la part de vous qui veut se distinguer : un rôle, un rythme ou un projet qui allait bien commence à serrer, et vous avez une longue saison pour le retravailler plutôt qu’un jour pour le fuir."
   - q: "Combien de temps dure Uranus carré Soleil ?"
     a: "Une vingtaine de mois avec mes orbes, qui vont de 1,5° avant l’exactitude à 1° après ; les passages les plus courts prennent onze mois environ. Dans plus de neuf cas sur dix, Uranus franchit trois fois le carré exact, parce que cette planète passe environ cinq mois par an à reculer dans le zodiaque."
   - q: "À quel âge arrive le carré d’Uranus au Soleil ?"
-    a: "Cela dépend de la position d’Uranus à votre naissance. Un carré tombe une vingtaine d’années avant le passage d’Uranus sur votre Soleil, l’autre une vingtaine d’années après, soit environ quarante-deux ans d’écart. La plupart des gens rencontrent les deux avant 80 ans, et tout le monde en rencontre au moins un."
+    a: "Votre thème le fixe : un carré tombe une vingtaine d’années avant le passage d’Uranus sur votre Soleil, l’autre une vingtaine d’années après, soit environ quarante-deux ans d’écart. Avant 80 ans, la plupart des gens ont connu les deux, et personne n’atteint cet âge sans en avoir connu un."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Uranus reste dans mes orbes, et combien de carrés viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus, pris un à un" }
@@ -34,7 +34,7 @@ Deux fois dans son tour d’environ 84 ans, une fois en approchant de votre Sole
 
 ## Ce qui change {#ce-qui-change}
 
-[Uranus](/astrology/uranus/) différencie et réforme : cette planète veut assez de liberté pour essayer d’autres arrangements. Votre [Soleil](/astrology/sun/) est le centre autour duquel le reste de votre vie s’organise : votre identité, votre direction, et l’énergie que vous mettez derrière. Un [carré](/astrology/square/), 90°, relie deux fonctions par une friction constructive : pendant ces mois, le centre est prié de bouger un peu, et tout ce qui s’organise autour en ressent la traction.
+[Uranus](/astrology/uranus/) différencie et réforme : cette planète veut assez de liberté pour essayer d’autres arrangements. Votre [Soleil](/astrology/sun/) est le centre autour duquel le reste de votre vie s’organise : votre identité, votre direction, et l’énergie que vous mettez derrière. Un [carré](/astrology/square/), 90°, met deux fonctions en friction pour les faire évoluer : pendant ces mois, le centre est prié de bouger un peu, et tout ce qui s’organise autour en ressent la traction.
 
 Cela ressemble rarement à une crise. Le plus souvent, c’est une vie qui fonctionne et qui va un peu moins bien chaque mois : le rôle pour lequel on vous connaît, le projet fait il y a dix ans, la version de vous que vos proches attendent. Certaines personnes changent de direction sous ce carré. Davantage changent les conditions : elles gardent le travail et redessinent les horaires, gardent la ville et changent de quartier. L’énergie vient souvent par à-coups plutôt qu’en flux régulier, et la saison se passe mieux quand on s’organise autour que quand on lutte contre.
 

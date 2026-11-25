@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/square", "/astrology/jupiter-square-saturn", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit carré Saturne du thème natal ?"
-    a: "Jupiter, dans le ciel, se trouve à 90° de Saturne dans votre thème : l’envie de grandir et la part de vous qui fixe les limites se gênent un moment. Soit le projet dépasse ce que vous pouvez porter, soit la prudence fait paraître imprudente une bonne idée. J’y lis un moment pour redimensionner le projet, pas pour le lâcher."
+    a: "C’est le carré entre la place actuelle de Jupiter et celle de Saturne à votre naissance : l’envie de grandir et la part de vous qui fixe les limites se gênent un moment. Soit le projet dépasse ce que vous pouvez porter, soit la prudence fait paraître imprudente une bonne idée ; la réponse est souvent une version plus petite, mais faisable."
   - q: "Combien de temps dure le carré de Jupiter à Saturne du thème natal ?"
     a: "Jupiter met onze jours environ à franchir le carré une fois, avec mes orbes habituels. Trois fois sur dix à peu près, Jupiter repasse en boucle trois fois, ce qui l’étire à huit mois environ. Ce carré revient deux fois par tour de douze ans, treize ou quatorze fois avant 80 ans."
   - q: "Jupiter carré Saturne en transit, est-ce un mauvais transit ?"
@@ -34,7 +34,7 @@ Quand Jupiter, dans le ciel, atteint 90° de Saturne de votre naissance, à l’
 
 ## Ce qui change {#ce-qui-change}
 
-[Saturne](/astrology/saturn/) tient la ligne dans un thème : cette planète fixe les limites, tient les engagements et demande ce qui sera encore debout dans dix ans. [Jupiter](/astrology/jupiter/) veut plus de place, plus de sens, un cadre plus vaste. Un [carré](/astrology/square/) relie les deux par une friction constructive, celle qui oblige chacune des deux fonctions à s’ajuster à l’autre plutôt qu’à l’emporter.
+[Saturne](/astrology/saturn/) tient la ligne dans un thème : cette planète fixe les limites, tient les engagements et demande ce qui sera encore debout dans dix ans. [Jupiter](/astrology/jupiter/) veut plus de place, plus de sens, un cadre plus vaste. Le [carré](/astrology/square/) entre les deux est une friction constructive : chacune des deux fonctions doit s’ajuster à l’autre plutôt que l’emporter.
 
 La friction prend souvent l’une de deux formes. Soit la croissance tire contre la structure : de l’impatience envers votre propre prudence, des règles soudain trop étroites, un projet qui déborde des heures disponibles. Soit la structure résiste à la croissance : un doute qui fait paraître imprudente une bonne idée, ou un devoir qui ne lui laisse aucune place. Saturne a tendance à croire que le contrôle protège, et Jupiter que plus vaut mieux : le carré met un peu de pression sur ces deux croyances, ce qui fait du bien à l’une comme à l’autre.
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Ascendant", "carré", "transits"]
 weight: 1613
 glyph: "♃□AC"
-definition: "Jupiter en transit carré Ascendant du thème natal, c’est Jupiter à 90° du degré qui se levait à votre naissance, deux fois tous les douze ans. La croissance bouscule votre façon de vous présenter : on attend de votre manière d’être plus qu’elle ne donne d’habitude. J’y lis une friction qui élargit votre registre, jamais un revers."
+definition: "Jupiter en transit carré Ascendant du thème natal, c’est Jupiter à angle droit de votre horizon, à 90° de votre degré ascendant comme de votre Descendant, deux fois tous les douze ans. La croissance bouscule votre façon de vous présenter et demande plus à votre manière d’être. J’y lis une friction qui étire votre registre, pas un revers."
 facts:
   - { k: "En transit", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Point natal", v: "L’Ascendant AC, votre façon d’aborder le monde" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/ascendant", "/astrology/square", "/astrology/midheaven", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit carré Ascendant ?"
-    a: "Jupiter, dans le ciel, se trouve à 90° du degré qui se levait à votre naissance, comme deux fois dans chaque cycle de douze ans. J’y lis une croissance qui bouscule votre façon de vous présenter : on attend plus de votre manière d’être, et vous vous ajustez. Une friction qui élargit votre registre, pas un revers."
+    a: "Jupiter se trouve à un quart de zodiaque de votre degré ascendant, une fois en bas du thème et une fois en haut dans chaque cycle de douze ans. J’y lis une croissance qui bouscule votre façon de vous présenter : on attend plus de votre manière d’être, et vous vous ajustez. C’est ainsi que votre registre s’élargit."
   - q: "Jupiter carré Ascendant, est-ce un transit difficile ?"
     a: "Ce transit demande un effort, mais je n’y lis pas de malchance. Un carré apporte une friction, et celle de Jupiter tient plutôt au trop qu’au trop peu : plus de rôles, plus d’invitations, une version plus grande de vous-même à essayer. Le travail consiste à choisir ce qui vous va, et à ajuster votre façon de vous y présenter."
   - q: "Combien de temps dure Jupiter carré Ascendant ?"
-    a: "Une onzaine de jours avec mes orbes, sept fois sur dix. Les trois autres fois, une boucle rétrograde ramène Jupiter sur le point, et le carré devient exact trois fois en huit mois environ. Dans les deux cas, il faut une heure de naissance exacte, puisque votre degré ascendant fixe les dates."
+    a: "Sept fois sur dix, c’est une affaire de jours, une onzaine avec mes orbes. Les trois autres fois, Jupiter revient en arrière et la pression dure huit mois environ, avec trois passages exacts. Dans tous les cas, c’est une heure de naissance exacte qui le situe, puisque votre degré ascendant fixe les dates."
   - q: "Jupiter carré mon Ascendant, est-ce la même chose que Jupiter sur mon Milieu du Ciel ?"
     a: "Pas tout à fait. Le Milieu du Ciel est rarement à 90° pile de l’Ascendant ; à la latitude de Londres, l’écart va d’environ 54° à 126°. Le carré et le passage de Jupiter sur votre Milieu ou votre Fond du Ciel sont donc deux moments distincts, parfois à plus d’un an d’écart, selon votre heure et votre lieu de naissance."
 sources:
@@ -46,9 +46,9 @@ On confond facilement ce carré avec le passage de Jupiter sur le Milieu du Ciel
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, un carré de Jupiter tient votre Ascendant une onzaine de jours, sept passages sur dix. Les trois autres forment des boucles ([Jupiter rétrograde](/astrology/jupiter-retrograde/)), avec trois passages exacts en huit mois environ : assez longtemps pour que la friction devienne un thème plutôt qu’une semaine.
+En comptant de 1,5° avant l’exactitude à 1° après, la pression sur votre horizon est une affaire de jours sept fois sur dix, une onzaine environ. Les trois autres forment des boucles ([Jupiter rétrograde](/astrology/jupiter-retrograde/)), avec trois passages exacts en huit mois environ : assez longtemps pour que la friction devienne un thème plutôt qu’une semaine.
 
-Avant 80 ans, toutes les personnes nées entre 1930 et 2009 l’ont rencontré treize ou quatorze fois. [Jupiter en transit conjonction Ascendant du thème natal](/astrology/transiting-jupiter-conjunct-natal-ascendant/) ouvre chaque cycle ; [Jupiter en transit sextile Ascendant du thème natal](/astrology/transiting-jupiter-sextile-natal-ascendant/) et ce carré suivent dans les trois ans, [Jupiter en transit trigone Ascendant du thème natal](/astrology/transiting-jupiter-trine-natal-ascendant/) relâche la pression un an plus tard, et [Jupiter en transit opposition Ascendant du thème natal](/astrology/transiting-jupiter-opposite-natal-ascendant/) marque la mi-parcours, avant un second carré venu du haut du thème.
+Toutes les personnes nées entre 1930 et 2009 rencontrent ce carré treize ou quatorze fois avant 80 ans, la moitié depuis le bas du thème et la moitié depuis le haut. [Jupiter en transit conjonction Ascendant du thème natal](/astrology/transiting-jupiter-conjunct-natal-ascendant/) ouvre chaque cycle ; [Jupiter en transit sextile Ascendant du thème natal](/astrology/transiting-jupiter-sextile-natal-ascendant/) et ce carré suivent dans les trois ans, [Jupiter en transit trigone Ascendant du thème natal](/astrology/transiting-jupiter-trine-natal-ascendant/) relâche la pression un an plus tard, et [Jupiter en transit opposition Ascendant du thème natal](/astrology/transiting-jupiter-opposite-natal-ascendant/) marque la mi-parcours, avant un second carré venu du haut du thème.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Midheaven", "sextile", "transits"]
 weight: 1617
 glyph: "♃⚹MC"
-definition: "Transiting Jupiter sextile natal Midheaven is Jupiter reaching 60° from the top of your birth chart, twice in each twelve-year round. It brings an opening for your work and public role, an offer, a project, a contact, that home life can support. I read it as an invitation that needs your answer, never a guaranteed step up."
+definition: "Transiting Jupiter sextile natal Midheaven is Jupiter 60° from the top of your chart, and so 120° from your IC, two years either side of each crossing of your Midheaven. It brings an opening for your work that home life can support. I read it as an invitation needing your answer, never a guaranteed step up."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "Natal point", v: "The Midheaven MC, your direction in public" }
@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/midheaven", "/astrology/sextile", "/astrology/imum-coeli", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter sextile natal Midheaven mean?"
-    a: "Jupiter is 60° from the degree at the top of your birth chart, as happens twice in each twelve-year round. I read it as an opening for your work and public role: a project that suits your direction, a useful contact, an offer worth answering. It invites rather than pushes, so it asks for a reply from you."
+    a: "Jupiter has moved two signs or so past the top of your chart, or is two signs short of getting back there. I read it as an opening for your work and public role: a project that suits your direction, a useful contact, an offer worth answering. It invites rather than pushes, so it asks for a reply from you."
   - q: "Is Jupiter sextile my Midheaven good for my career?"
     a: "It can be a good season to move your work forward, as I read it: an offer, a project or a contact that fits where you’re heading. The sextile opens the door; it doesn’t guarantee a job, a raise or recognition. What comes of it depends on what you do with the opening."
   - q: "How long does Jupiter sextile the Midheaven last?"
-    a: "About eleven days within my orbs, from 1½° before exact to 1° after, in seven cases out of ten. In the other three, Jupiter’s retrograde loop makes the sextile exact three times over about eight months. Your birth time and place set the dates, since they fix the Midheaven."
+    a: "Most offers that come with it have to be answered quickly: seven sextiles in ten last about eleven days within my orbs. The rest fall in Jupiter’s retrograde months and run to about eight months, with three exact hits. Your birth time and place set the dates, since they fix the Midheaven."
   - q: "Does Jupiter sextile my Midheaven affect my home life?"
     a: "In a quiet way, yes. The Midheaven and the IC are exactly opposite, so a sextile to one is a trine to the other: while Jupiter opens something in your public role, home and family tend to support it rather than compete with it. I read the two together."
 sources:
@@ -46,11 +46,11 @@ Either way, the work it favours is often less visible than the crossing of the M
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the sextile is a matter of about eleven days in seven cases out of ten. In the other three it falls inside [Jupiter retrograde](/astrology/jupiter-retrograde/) and is exact three times in about eight months, which gives a slower offer time to take shape.
+The side door rarely stays open long. With my orbs of 1½° before exact and 1° after, seven sextiles in ten are over in about eleven days; the other three fall inside [Jupiter retrograde](/astrology/jupiter-retrograde/) and is exact three times in about eight months, which gives a slower offer time to take shape.
 
 Those dates hang on your Midheaven, and so on a birth time you can trust. If yours is missing or only remembered, start with the birth record itself ([what changes without a birth time](/blog/unknown-birth-time/#finding-your-time)); I don't read until we have it.
 
-By 80, people born between 1930 and 2009 have had it thirteen or fourteen times. The first of each round follows [transiting Jupiter conjunct natal Midheaven](/astrology/transiting-jupiter-conjunct-natal-midheaven/) by about two years and comes a year before [transiting Jupiter square natal Midheaven](/astrology/transiting-jupiter-square-natal-midheaven/). The second follows [transiting Jupiter opposite natal Midheaven](/astrology/transiting-jupiter-opposite-natal-midheaven/) by about four years and the round's last [transiting Jupiter trine natal Midheaven](/astrology/transiting-jupiter-trine-natal-midheaven/) by about two, as Jupiter heads back towards the top of your chart.
+By 80, people born between 1930 and 2009 have had thirteen or fourteen of these sextiles to their Midheaven, half of them, in Placidus, usually with Jupiter in the 11th or 12th house. The first of each round follows [transiting Jupiter conjunct natal Midheaven](/astrology/transiting-jupiter-conjunct-natal-midheaven/) by about two years and comes a year before [transiting Jupiter square natal Midheaven](/astrology/transiting-jupiter-square-natal-midheaven/). The second follows [transiting Jupiter opposite natal Midheaven](/astrology/transiting-jupiter-opposite-natal-midheaven/) by about four years and the round's last [transiting Jupiter trine natal Midheaven](/astrology/transiting-jupiter-trine-natal-midheaven/) by about two, as Jupiter heads back towards the top of your chart.
 
 ## What helps {#what-helps}
 

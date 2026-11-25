@@ -1,7 +1,7 @@
 ---
 title: "Transiting Uranus opposite natal Sun"
 h1: "Transiting Uranus opposite your natal Sun"
-description: "Transiting Uranus opposite natal Sun: once in a life at most, about twenty months when change comes from across the table. How long it lasts, what helps."
+description: "Transiting Uranus opposite natal Sun: change that comes from across the table, about twenty months long and once in a life at most; Sagittarius Suns until 2033."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Uranus", "Sun", "opposition", "transits"]
 weight: 1684
 glyph: "♅☍☉"
-definition: "Transiting Uranus opposite natal Sun is Uranus across the zodiac from the degree your Sun held at birth, for about twenty months, once in a life at most. The push for change tends to arrive through other people, and asks which parts of your direction are yours. I read it as a mirror, never a verdict."
+definition: "Transiting Uranus opposite natal Sun means Uranus has reached the far side of the zodiac from your birth Sun, a stay of about twenty months that a life sees once at most. The push for change tends to arrive through other people, and asks which parts of your direction are yours. I read it as a mirror, never a verdict."
 facts:
   - { k: "Transiting", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "Natal point", v: "The Sun ☉: identity, purpose and vitality" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/sun", "/astrology/opposition", "/astrology/sun-opposite-uranus", "/astrology/uranus-opposition"]
 faq:
   - q: "What does transiting Uranus opposite natal Sun mean?"
-    a: "Uranus stands 180° from the degree of your birth Sun. I read it as a season when change reaches you from the other side, often through someone close who wants something different, and asks how much of your direction is yours and how much was only the arrangement around you."
+    a: "In the sky, Uranus has reached the point directly across the zodiac from your birth Sun. I read it as a season when change reaches you from the other side, often through someone close who wants something different, and asks how much of your direction is yours and how much was only the arrangement around you."
   - q: "How often does Uranus oppose the Sun?"
     a: "Once in Uranus’s round of about 84 years, so once in a long life at most: about 1 person in 50 born between 1930 and 2009 never meets it before 80. When it comes, it lasts about twenty months with my orbs, and Uranus usually crosses the exact point three times."
   - q: "Is Uranus opposite Sun the same as the Uranus opposition?"
@@ -33,11 +33,11 @@ Once in its 84-year round, Uranus reaches the point straight across from your Su
 
 ## What changes {#what-changes}
 
-[Uranus](/astrology/uranus/) breaks patterns open so that something more distinct can grow; your [Sun](/astrology/sun/) is your identity and the direction you organise your life around. An [opposition](/astrology/opposition/), 180°, relates two functions through polarity, each showing up clearly against the other. Under this transit your direction is seen against change that seems to come from outside. It can look like a partner who needs more room, a workplace being reorganised, a friend whose life suddenly runs on different rules.
+[Uranus](/astrology/uranus/) breaks patterns open so that something more distinct can grow; your [Sun](/astrology/sun/) is your identity and the direction you organise your life around. In an [opposition](/astrology/opposition/), 180°, two functions stand at either end of one axis, and each is seen most clearly from the other end. Under this transit your direction is seen against change that seems to come from outside. It can look like a partner who needs more room, a workplace being reorganised, a friend whose life suddenly runs on different rules.
 
 The reverse is just as common: you meet in another person the freedom you never claimed for yourself, and admire it, or resent it, before you see that it's a question about you. Neither reaction is wrong. The opposition asks for a balance rather than a winner: room for the other person's change, and a direction that doesn't depend on everyone around you staying still. I don't read it for a separation, a dismissal or any other ending; what people do in these months is theirs ([how I read](/how-i-read/)).
 
-The axis decides where. With your Sun in the 1st and Uranus crossing the 7th ([Uranus transiting the 7th house](/astrology/uranus-transit-7th-house/)), your sense of self meets a partner's or a collaborator's need for room, one to one. That axis, like every house, comes from your birth time, and without it there's no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
+The axis decides where. With your Sun in the 1st and Uranus crossing the 7th ([Uranus transiting the 7th house](/astrology/uranus-transit-7th-house/)), your sense of self meets a partner's or a collaborator's need for room, one to one. That axis is drawn from the minute you were born: no birth time, no reading ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

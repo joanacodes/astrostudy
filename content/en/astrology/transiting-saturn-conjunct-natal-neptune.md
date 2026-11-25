@@ -41,7 +41,7 @@ Every 29½ years or so, Saturn passes over the degree Neptune held when you were
 
 Neptune's blind spot is taking what you imagine for what you know, and Saturn is very good at telling the two apart. People often describe a sobering: a person, a plan or a belief seen more plainly than before. Disillusion ends an illusion, not the dream behind it. If what comes up feels heavier than disappointment, and stays, please take it to a doctor or a therapist ([astrology and mental health](/astrology/astrology-and-mental-health/)); a transit can name a season, not treat it.
 
-Your Neptune's house shows where the dream lives, and the crossing gives it Saturn's attention there. With Neptune in your 5th, it may be an art you've played at for years; in your 11th, a cause or a community you'd like to build. Houses need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). In a birth chart, [Saturn conjunct Neptune](/astrology/saturn-conjunct-neptune/) is this meeting fixed for life; as a transit, it's a season, and it passes.
+Your Neptune's house shows where the dream lives, and the crossing gives it Saturn's attention there. With Neptune in your 5th, it may be an art you've played at for years; in your 11th, a cause or a community you'd like to build. Finding that house takes your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). In a birth chart, [Saturn conjunct Neptune](/astrology/saturn-conjunct-neptune/) is this meeting fixed for life; as a transit, it's a season, and it passes.
 
 ## How long it lasts {#how-long-it-lasts}
 

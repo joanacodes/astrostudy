@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn square natal Venus"
 h1: "Transiting Saturn square your natal Venus"
-description: "Transiting Saturn square natal Venus: when pleasure feels rationed and what you value is tested, twice every 29½ years. How long it lasts, what helps."
+description: "Transiting Saturn square natal Venus: when pleasure feels rationed and what you value is tested, twice every 29½ years. Why it isn’t a sentence on love."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -20,16 +20,16 @@ facts:
 related: ["/astrology/saturn", "/astrology/venus", "/astrology/square", "/astrology/venus-square-saturn", "/astrology/transits"]
 faq:
   - q: "What does transiting Saturn square natal Venus mean?"
-    a: "Saturn in the sky is 90° from your birth Venus. What you love and enjoy rubs against duty, time and limits: pleasure can feel rationed, and a bond may need clearer terms. I read it as friction that sharpens what you value and how you give it, never as punishment or a loss foretold."
+    a: "Saturn is a quarter of the zodiac away from your birth Venus. What you love and enjoy rubs against duty, time and limits: pleasure can feel rationed, and a bond may need clearer terms. I read it as friction that sharpens what you value and how you give it, never as punishment or a loss foretold."
   - q: "Will Saturn square Venus end my relationship?"
     a: "No transit decides that, and I never read one for a break-up. This square tends to bring the practical side of a bond into view: time, effort, fairness, what each person carries. Relationships often get more honest under it. What you do with that honesty belongs to the two of you."
   - q: "How long does transiting Saturn square Venus last?"
-    a: "With my orbs, from 1½° before exact to 1° after, usually about nine months, often in three exact passes when Saturn’s retrograde loop falls on the spot. A single fast crossing can be over in three weeks. The square comes about seven years after and seven years before each conjunction."
+    a: "Most of a year, as a rule: about nine months within my orbs of 1½° before exact and 1° after, often in three exact passes when Saturn’s retrograde loop falls on the spot, and only three weeks when it doesn’t. The square comes about seven years after each conjunction and seven before the next."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in orb with my orbs, and how often the square comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-Saturn squares your Venus twice in each 29½-year round, about seven years after crossing it and about seven before coming back. For a while, what you enjoy and what you're responsible for claim the same hours, and pleasure can feel like something you have to earn.
+Pleasure can start to feel like something you have to earn when Saturn squares your Venus. The contact comes twice a round, about seven years after Saturn crosses your Venus and seven before it returns, and for a while what you enjoy and what you're responsible for claim the same hours.
 
 ## What changes {#what-changes}
 
@@ -39,7 +39,7 @@ It often shows as pressure on whatever makes life pleasant. Time with people you
 
 The first square of a round tests what began at the conjunction: the bond, the taste, the way of spending your time that started then. The second, on the way back, sorts what you'll carry into the next round. In neither case is friction failure. No transit ends a relationship, and I don't read this one for break-ups; if the pressure becomes a low you can't lift, the right door is a therapist's, not a chart's ([astrology and mental health](/astrology/astrology-and-mental-health/)).
 
-With your Venus in the 7th, the friction sits in partnership. Saturn is then usually crossing your 4th or your 10th, so it's the demands of home ([Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/)) or of work that press on the bond. Without your birth time neither house can be placed, and I don't read the transit ([what changes without a birth time](/blog/unknown-birth-time/)). If you were born with [Venus square Saturn](/astrology/venus-square-saturn/), the old question of whether you may enjoy what you love comes back under this transit with a date attached.
+With your Venus in the 7th, the friction sits in partnership. Saturn is then usually crossing your 4th or your 10th, so it's the demands of home ([Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/)) or of work that press on the bond. Placing Venus in the 7th, and Saturn in the 4th or 10th, takes your birth time; without it I don't read the square ([what changes without a birth time](/blog/unknown-birth-time/)). If you were born with [Venus square Saturn](/astrology/venus-square-saturn/), the old question of whether you may enjoy what you love comes back under this transit with a date attached.
 
 ## How long it lasts {#how-long-it-lasts}
 

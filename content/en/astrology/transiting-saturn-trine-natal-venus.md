@@ -1,7 +1,7 @@
 ---
 title: "Transiting Saturn trine natal Venus"
 h1: "Transiting Saturn trine your natal Venus"
-description: "Transiting Saturn trine natal Venus: some nine months when what you love and the commitments that hold it agree. When it comes, how long, what helps."
+description: "Transiting Saturn trine natal Venus: some nine months when what you love and the commitments that hold it agree. What to build while it lasts."
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
@@ -39,7 +39,7 @@ This is a good season to formalise something you already value: a creative pract
 
 Ease isn't inevitability, though. Trine transits ask for nothing, so they can pass with nothing built. Flow isn't passivity either: the season helps what you choose to work at and leaves the rest as it found it.
 
-With your Venus in the 10th, the trine tends to show in work you love doing, or in how you're seen doing it. Saturn is then often crossing your 2nd ([Saturn transiting the 2nd house](/astrology/saturn-transit-2nd-house/)) or your 6th, and the support comes from the way you manage your own resources or your days. Your birth time is what places those houses, and without it I leave the transit unread ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Venus trine Saturn](/astrology/venus-trine-saturn/), you already know loyalty that doesn't weigh you down; this transit gives it a season to show.
+With your Venus in the 10th, the trine tends to show in work you love doing, or in how you're seen doing it. Saturn is then often crossing your 2nd ([Saturn transiting the 2nd house](/astrology/saturn-transit-2nd-house/)) or your 6th, and the support comes from the way you manage your own resources or your days. Only a birth time can say whether Venus falls in your 10th or just short of it, so without one the trine stays unread ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Venus trine Saturn](/astrology/venus-trine-saturn/), you already know loyalty that doesn't weigh you down; this transit gives it a season to show.
 
 ## How long it lasts {#how-long-it-lasts}
 
