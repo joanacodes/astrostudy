@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Mars", "trine", "transits"]
 weight: 1940
 glyph: "☊△♂"
-definition: "Transiting North Node trine natal Mars is a month of momentum that comes twice in each 18.6-year round. The node trines your birth Mars, the South Node sextiles it, and effort aimed at growth meets less resistance than usual. I read it as a tailwind, which still has to be used."
+definition: "Transiting North Node trine natal Mars is a month of momentum that returns twice every 18.6-year round. The node trines your birth Mars, the South Node sextiles it, and effort aimed at growth meets less resistance than usual. I read it as a tailwind, which still has to be used."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node sextile your Mars" }
   - { k: "Natal point", v: "Mars ♂: initiative, drive and the effort that turns plans into facts" }

@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node holds the square within my orbs, and how often it comes by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "transits to natal Mercury" }
 ---
-With the node square your Mercury, the line between where you come from and where you're heading crosses the way you think at right angles. For about a month, the old end of the axis and the new one both claim your attention, and Mercury, standing between them, has to work out what to make of both.
+With the node square your Mercury, the line between where you come from and where you're heading crosses the way you think at right angles. Through the month, the old end of the axis and the new one both claim your attention, and Mercury, standing between them, has to work out what to make of both.
 
 ## What changes {#what-changes}
 

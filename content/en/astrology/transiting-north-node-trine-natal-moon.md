@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting North Node trine natal Moon mean?"
     a: "The node stands about 120° from your birth Moon, usually in a sign of the same element, while the South Node sextiles it. Over a month or so, your needs and your growth keep the same pace, and new habits of care settle easily. The ease helps; it doesn’t act for you."
   - q: "When does the North Node trine my Moon?"
-    a: "Twice in each round of the nodes, each trine a third of the zodiac from your Moon on either side. The node’s sign tells you when: while it crosses Aquarius (July 2026 to March 2028), Moons in Gemini and Libra have theirs. Your Moon’s exact degree, which needs the birth time, sets the month."
+    a: "Twice in each round of the nodes, one trine on each side of your Moon, 120° away. The node’s sign tells you when: while it crosses Aquarius (July 2026 to March 2028), Moons in Gemini and Libra have theirs. Your Moon’s exact degree, which needs the birth time, sets the month."
   - q: "Is a North Node trine Moon transit lucky?"
     a: "I don’t read luck in a chart. A trine describes ease between two functions, and here that means your needs and your growth helping each other for a while. What you do with good conditions is yours; the transit makes nothing happen on its own."
 sources:
@@ -44,7 +44,7 @@ With your [Moon in the 11th house](/astrology/moon-in-11th-house/), the house of
 
 ## How long it lasts {#how-long-it-lasts}
 
-Between 1½° before the exact trine and 1° after it, the node usually spends about a month, 34 days in the middle case. An eclipse season arriving in that month holds it back, and then the trine can stay three and a half months or more, as it does in one pass out of ten, with three exact contacts in about one out of twenty-five. Any eclipse of those weeks lands some four signs from your Moon, so it reaches your Moon only by trine, which I don't count.
+Between 1½° before the exact trine and 1° after it, the node usually stays a month or so; the middle case is 34 days. An eclipse season arriving in that month holds it back, and then the trine can stay three and a half months or more, as it does in one pass out of ten, with three exact contacts in about one out of twenty-five. Any eclipse of those weeks lands some four signs from your Moon, so it reaches your Moon only by trine, which I don't count.
 
 The node needs about six years to travel a third of the zodiac, so a round's first trine comes about six years after it crossed your Moon ([Transiting North Node conjunct natal Moon](/astrology/transiting-north-node-conjunct-natal-moon/)), and its second about three years after it stood opposite ([Transiting North Node opposite natal Moon](/astrology/transiting-north-node-opposite-natal-moon/)). [Transiting North Node sextile natal Moon](/astrology/transiting-north-node-sextile-natal-moon/) and [Transiting North Node square natal Moon](/astrology/transiting-north-node-square-natal-moon/) fall before the first trine of a round and after the second, and by 80 the trines alone have come eight or nine times. If [Moon trine North Node](/astrology/moon-trine-north-node/) is in your chart, the nodal return repeats this transit degree for degree.
 

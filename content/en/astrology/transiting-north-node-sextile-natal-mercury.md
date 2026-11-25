@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Mercury", "sextile", "transits"]
 weight: 1928
 glyph: "☊⚹☿"
-definition: "Transiting North Node sextile natal Mercury opens a month, twice in every nodal round, when the node is a sixth of the zodiac from your natal Mercury and the South Node a third. Learning that builds on what you already know comes easily. I read it as an invitation to learn, worth accepting on purpose."
+definition: "Transiting North Node sextile natal Mercury opens a month, twice in every nodal round, when the node is a sixth of the zodiac from your natal Mercury and the South Node a third. Learning that builds on what you already know comes easily. I take it as an invitation to learn, worth accepting on purpose."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node trine your Mercury" }
   - { k: "Natal point", v: "Mercury ☿: curiosity, reasoning and the words you reach for" }
@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting North Node sextile natal Mercury mean?"
     a: "It’s the month or so when a new subject or skill is easiest to begin. The node sits 60° from the Mercury you were born with while the South Node trines it, so what you already know supports what you’re learning. Nothing starts by itself; the sextile rewards a first step."
   - q: "When does the North Node sextile my Mercury?"
-    a: "Look at the node’s sign: it sextiles Mercury two signs ahead of it and two signs behind. While it crosses Aquarius, from July 2026 to March 2028, that means Mercury in Aries or in Sagittarius. Each sextile lasts about a month, and a life to 80 holds eight or nine."
+    a: "Look at the node’s sign: it sextiles Mercury two signs ahead of it and two signs behind. During its Aquarius stretch, July 2026 to March 2028, that means Mercury in Aries or in Sagittarius. Each sextile lasts about a month, and a life to 80 holds eight or nine."
   - q: "Is North Node sextile Mercury good for signing a contract?"
     a: "I don’t read transits for the outcome of a contract, an exam or a decision. This sextile describes an easier month for learning and exchanging ideas. Whether an agreement is a good one depends on what it says, and that is for you, and where needed a professional, to judge."
 sources:

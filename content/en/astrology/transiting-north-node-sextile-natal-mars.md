@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Mars", "sextile", "transits"]
 weight: 1938
 glyph: "☊⚹♂"
-definition: "Transiting North Node sextile natal Mars makes a first step in a new direction cheaper for about a month: the node is 60° from your natal Mars while the South Node trines it, twice in each 18.6-year round. I read it as an opening for effort, which waits for you to move."
+definition: "Transiting North Node sextile natal Mars makes a first step in a new direction cheaper for about a month: the node is 60° from your natal Mars while the South Node trines it, twice in each 18.6-year round. To me it's an opening for effort, which waits for you to move."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node, with the South Node trine your Mars" }
   - { k: "Natal point", v: "Mars ♂: motivation, initiative and the effort that gets things done" }

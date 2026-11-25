@@ -37,7 +37,7 @@ Some transits of the node feel like effort; the trine to Mercury tends to feel l
 
 [Mercury](/astrology/mercury/) is your way of learning, linking and saying: it notices, analyses and turns what it finds into language. The [North Node](/astrology/north-node/) points to what you have practised least, and a [trine](/astrology/trine/) lets two functions coordinate easily while each keeps its own nature. Under this [transit](/astrology/transits/), ideas that point towards growth make sense quickly, and saying them aloud costs less than usual.
 
-The catch is the one every trine carries: ease is not the same as doing. A subject can click in a week and still need the month of practice that turns understanding into skill. The [South Node](/astrology/south-node/), sextile your Mercury in the same weeks, offers the old shortcuts, which are useful as long as they don't replace the new route.
+The catch is the usual one with trines: ease is not the same as doing. A subject can click in a week and still need the month of practice that turns understanding into skill. The [South Node](/astrology/south-node/), sextile your Mercury in the same weeks, offers the old shortcuts, which are useful as long as they don't replace the new route.
 
 With your [Mercury in the 1st house](/astrology/mercury-in-1st-house/), where tradition gave Mercury its joy, the trine tends to show in how you speak for yourself: putting an idea forward as yours, explaining who you are without rehearsing it. Whether Mercury is in your 1st depends on your Ascendant, which needs the exact birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 

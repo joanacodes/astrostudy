@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Jupiter", "conjunction", "transits"]
 weight: 1942
 glyph: "☊☌♃"
-definition: "Transiting North Node conjunct natal Jupiter brings two kinds of growth together: for about a month the node, which builds by practice, crosses your birth Jupiter, which widens meaning. It comes four or five times by 80, first at an age that depends on the year you were born. I read it as growth made practical, never luck."
+definition: "Transiting North Node conjunct natal Jupiter brings two kinds of growth together: for about a month the node, which builds by practice, crosses your birth Jupiter, which widens meaning. It comes four or five times by 80, first at an age your birth year decides. I read it as growth made practical, never luck."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node: growth through practice" }
   - { k: "Natal point", v: "Jupiter ♃: meaning, principles and the sense of what could grow" }
@@ -32,7 +32,7 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "how a transit to natal Jupiter is read" }
   - { title: "Vettius Valens, Anthology", note: "the houses, and Jupiter’s joy in the 11th" }
 ---
-Jupiter and the North Node both speak of growth, in different tongues: Jupiter of meaning, the node of practice. Once in each round of the nodes they meet on one degree for about a month, with the South Node opposite on the beliefs you have held longest.
+Jupiter and the North Node both speak of growth, in different tongues: Jupiter of meaning, the node of practice. Once in each round of the nodes they meet on one degree for about a month, while the South Node, opposite, sits on the beliefs you have held longest.
 
 ## What changes {#what-changes}
 
@@ -46,7 +46,7 @@ With [Jupiter in the 11th house](/astrology/jupiter-in-11th-house/), where tradi
 
 The node's time on your Jupiter, from 1½° before exact to 1° after, is usually about a month. One pass in ten ends within three and a half weeks, while those caught in an eclipse season, when the true node all but stands still, run three and a half months or more; three exact hits come in about one pass in twenty-five.
 
-Jupiter takes about a year to cross a sign, which is why the age at which the node first reaches it depends on your birth year. Across the birth years 1930 to 2009, the first arrived at any age from infancy to about 18½, at 9 in the middle. With a birth at the start of 1965, it came before the age of 2 and again at about 20, 39, 57 and 76; with one at the start of 1995, not until about 17, then at about 36, 54 and 73. The first always falls before adulthood, outside what I read ([children's charts](/astrology/childrens-charts/)); as an adult you can look back on it, nothing more.
+Jupiter advances roughly one sign a year, which is why the age at which the node first reaches it depends on your birth year. Across the birth years 1930 to 2009, the first arrived at any age from infancy to about 18½, at 9 in the middle. With a birth at the start of 1965, it came before the age of 2 and again at about 20, 39, 57 and 76; with one at the start of 1995, not until about 17, then at about 36, 54 and 73. The first always falls before adulthood, outside what I read ([children's charts](/astrology/childrens-charts/)); as an adult you can look back on it, nothing more.
 
 The rest of the round brings [Transiting North Node sextile natal Jupiter](/astrology/transiting-north-node-sextile-natal-jupiter/), [Transiting North Node square natal Jupiter](/astrology/transiting-north-node-square-natal-jupiter/) and [Transiting North Node trine natal Jupiter](/astrology/transiting-north-node-trine-natal-jupiter/) twice each, and [Transiting North Node opposite natal Jupiter](/astrology/transiting-north-node-opposite-natal-jupiter/) once, at the halfway point. With [Jupiter conjunct North Node](/astrology/jupiter-conjunct-north-node/) at birth, your nodal returns are this transit.
 

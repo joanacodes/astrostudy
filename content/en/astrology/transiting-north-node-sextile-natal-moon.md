@@ -35,7 +35,7 @@ Of all the angles the node makes to your Moon, the sextile is the lightest, and 
 
 ## What changes {#what-changes}
 
-The [Moon](/astrology/moon/) describes what you need and how you settle; the [North Node](/astrology/north-node/), a capacity that grows with repeated practice. A [sextile](/astrology/sextile/) relates them through opportunity: the two can cooperate, on condition that you do something with the opening. Under this [transit](/astrology/transits/), a new way of meeting a need comes within easy reach, and nothing makes you take it.
+The [Moon](/astrology/moon/) describes what you need and how you settle; the [North Node](/astrology/north-node/), a capacity that grows the more you practise it. A [sextile](/astrology/sextile/) relates them through opportunity: the two can cooperate, on condition that you do something with the opening. Under this [transit](/astrology/transits/), a new way of meeting a need comes within easy reach, and nothing makes you take it.
 
 It tends to arrive small. An invitation to a group you'd normally skip; a routine that suddenly looks possible; a conversation in which you say what you need and it's heard. Because the South Node trines your Moon in the same weeks, the old comforts stay close and easy, which helps: you can try something new without giving up what steadies you. The risk is only that comfort wins by default, and the month goes by as months do.
 

@@ -41,7 +41,7 @@ What tends to come forward is a way of thinking you've practised less: asking wh
 
 Which comes first depends on your chart. The node moves backwards, so if your Mercury sits at a later degree than your Sun, it is reached first and [Transiting North Node conjunct natal Sun](/astrology/transiting-north-node-conjunct-natal-sun/) follows; if it sits earlier, the Sun's turn comes first.
 
-Mercury rules Gemini, the natural sign of the 3rd, and with your [Mercury in the 3rd house](/astrology/mercury-in-3rd-house/) this transit belongs to the node's stay in that house ([North Node transiting the 3rd house](/astrology/north-node-transit-3rd-house/)): letters, neighbours, brothers and sisters, the courses and conversations of every day. Mercury moves so little in a day that your birth date nearly fixes the timing; it's the house that needs your birth time, and without it I don't read this transit ([what changes without a birth time](/blog/unknown-birth-time/)).
+Mercury rules Gemini, the natural sign of the 3rd, and with your [Mercury in the 3rd house](/astrology/mercury-in-3rd-house/) this transit belongs to the node's stay in that house ([North Node transiting the 3rd house](/astrology/north-node-transit-3rd-house/)): letters, neighbours, brothers and sisters, the courses and conversations of every day. Mercury moves so little in a day that your birth date nearly fixes the timing; it's the house that needs your birth time, and with no birth time I leave this transit unread ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

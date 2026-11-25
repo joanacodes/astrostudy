@@ -23,7 +23,7 @@ faq:
   - q: "What does transiting North Node square natal Mars mean?"
     a: "The nodal axis cuts across your birth Mars at 90°, so the road you know and the road you’re learning both want your energy for about a month. The square asks where effort should go, not whether to act. I read it as a reallocation of drive, never as a fight foretold."
   - q: "Does North Node square Mars mean conflict?"
-    a: "Not as I read it. Mars is effort and assertion, not anger, and a square is friction that asks for adjustment. It can make you notice where you push too hard or not at all. It doesn’t forecast quarrels, accidents or disputes, and none of those can be read from a transit."
+    a: "Not as I read it. Mars stands for effort and self-assertion rather than anger, and a square is friction that asks for adjustment. It can make you notice where you push too hard or not at all. It doesn’t forecast quarrels, accidents or disputes, and none of those can be read from a transit."
   - q: "How long does North Node square Mars last?"
     a: "A month is typical, from 1½° before exact to 1° after; a slow pass, caught in an eclipse season while the node idles, can run three and a half months or more. Over a lifetime to 80 it comes eight or nine times, roughly nine years apart."
 sources:

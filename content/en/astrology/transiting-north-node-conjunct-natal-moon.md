@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["North Node", "Moon", "conjunction", "transits"]
 weight: 1922
 glyph: "☊☌☽"
-definition: "Transiting North Node conjunct natal Moon is the Moon’s own northward crossing point arriving on the degree of your birth Moon, about every 18.6 years, for a month or so. What you need and where you are growing coincide, while the South Node holds the point opposite. It asks for a new kind of care, and practice in it."
+definition: "Transiting North Node conjunct natal Moon is the Moon’s own northward crossing point arriving on the degree of your birth Moon, about every 18.6 years, for roughly a month. What you need and where you are growing coincide, while the South Node holds the point opposite. It asks for a new kind of care, and practice in it."
 facts:
   - { k: "Transiting", v: "The North Node ☊, the true node: the direction you practise towards" }
   - { k: "Natal point", v: "The Moon ☽: your needs, habits and sense of safety" }
@@ -37,7 +37,7 @@ Of everything the North Node can cross in a chart, the Moon is the one it comes 
 
 ## What changes {#what-changes}
 
-The [Moon](/astrology/moon/) keeps you regulated: what you need to feel secure, the habits that calm you, how you respond when things change. The [North Node](/astrology/north-node/) describes a capacity still being learned, one that improves each time it is used. A [conjunction](/astrology/conjunction/) fuses the two, so under this [transit](/astrology/transits/) growing and looking after yourself become one task.
+The [Moon](/astrology/moon/) keeps you regulated: what you need to feel secure, the habits that calm you, how you respond when things change. The [North Node](/astrology/north-node/) describes a capacity still being learned, one that improves each time it is used. A [conjunction](/astrology/conjunction/) welds the two together: under this [transit](/astrology/transits/), growing and looking after yourself become one task.
 
 In practice it tends to show as a need you've had little practice in meeting: rest taken before you've earned it, help asked for, a feeling said aloud before it has been tidied into a plan. These can feel awkward, and awkward isn't wrong; the node points at what is less familiar, not at what is better. Your oldest ways of soothing yourself sit at the other end, under the [South Node](/astrology/south-node/), which now holds the degree opposite your Moon. Keep them; what this month questions is only their monopoly.
 
@@ -47,7 +47,7 @@ With your [Moon in the 4th house](/astrology/moon-in-4th-house/), the node reach
 
 ## How long it lasts {#how-long-it-lasts}
 
-My orbs reach 1½° ahead of exact and 1° past it. Within them, the true node usually spends about a month on your Moon and crosses it once. Its pace follows the Sun: the node all but stands still in the middle of each eclipse season, when the Sun lines up with it, and runs backwards fastest in between. So one pass in ten is over in about three and a half weeks, one in ten lasts three and a half months or more, and about one in twenty-five brings three exact hits over some three and a half months. Most of the long passes are ones an eclipse season catches. In June 2029, for instance, the node stands almost still near 5° Capricorn while the total lunar eclipse of 26 June darkens the Moon at 4°49′ Capricorn: a Moon born at that degree has both at once ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
+My orbs reach 1½° ahead of exact and 1° past it. Within them, a month or so on your Moon is the true node's usual stay, with a single crossing. Its pace follows the Sun: the node all but stands still in the middle of each eclipse season, when the Sun lines up with it, and runs backwards fastest in between. So one pass in ten is over in about three and a half weeks, one in ten lasts three and a half months or more, and about one in twenty-five brings three exact hits over some three and a half months. Most of the long passes are ones an eclipse season catches. In June 2029, for instance, the node stands almost still near 5° Capricorn while the total lunar eclipse of 26 June darkens the Moon at 4°49′ Capricorn: a Moon born at that degree has both at once ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)).
 
 Once in each round of the nodes, about every 18.6 years, it comes back: four or five visits by 80, with no exceptions. In between, the node sextiles your Moon about three years later ([Transiting North Node sextile natal Moon](/astrology/transiting-north-node-sextile-natal-moon/)), squares it at about four and a half ([Transiting North Node square natal Moon](/astrology/transiting-north-node-square-natal-moon/)) and trines it at about six ([Transiting North Node trine natal Moon](/astrology/transiting-north-node-trine-natal-moon/)); at about nine, the South Node reaches your Moon ([Transiting North Node opposite natal Moon](/astrology/transiting-north-node-opposite-natal-moon/)). Born with [Moon conjunct North Node](/astrology/moon-conjunct-north-node/), you have this transit whenever the node completes a lap and stands again where it stood at your birth.
 
