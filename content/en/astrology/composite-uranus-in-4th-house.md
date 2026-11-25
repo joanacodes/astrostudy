@@ -9,7 +9,7 @@ categories: ["Synastry"]
 tags: ["Uranus", "4th house", "composite chart"]
 weight: 2160
 glyph: "♅"
-definition: "Composite Uranus in the 4th house puts the relationship chart’s planet of change at its foundations, in the house that begins at the composite IC. Astrologers read a home life the pair invents for itself: unusual households, chosen family, roots that keep being replanted. It predicts nothing about living together or apart, and needs both birth times."
+definition: "Composite Uranus in the 4th house sets change into the foundations of a relationship, in the house that begins at the composite IC. Astrologers read a home life the pair invents for itself: unusual households, chosen family, roots that keep being replanted. It predicts nothing about living together or apart, and needs both birth times."
 facts:
   - { k: "Body", v: "Composite Uranus ♅" }
   - { k: "House", v: "The 4th house, of home, roots and family" }

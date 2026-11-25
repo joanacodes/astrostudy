@@ -21,7 +21,7 @@ faq:
   - q: "What does composite Uranus in the 8th house mean?"
     a: "The relationship’s need for freedom reaches its most intimate ground: trust, closeness and what is shared. Astrologers read a closeness that keeps some air in it, joint arrangements made in the pair’s own way, and a bond that renews itself when something deep changes, rather than holding on to what no longer fits."
   - q: "Does composite Uranus in the 8th house mean death or sudden loss?"
-    a: "No. Tradition gave the 8th house death, but a composite predicts no death, loss or crisis, and I don’t read any chart for them. In a relationship chart, the 8th describes intimacy, trust and what is held in common; Uranus there describes how freely and inventively those are arranged."
+    a: "No. Death was the 8th house’s meaning in the old texts, and that is exactly the part I leave out: a composite forecasts no death and no sudden loss. For a couple, this house is closeness, trust and what you hold in common; Uranus here describes how freely and inventively the two of you arrange those."
   - q: "Is composite Uranus in the 8th house a sign of intimacy problems?"
     a: "Not in itself. It describes intimacy that needs room: closeness that each person can step back from without the bond taking it as rejection. Where one of you wants more merging than the other, it helps to talk about distance openly, rather than letting it be read as coldness."
 sources:
