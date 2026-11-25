@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/sun-in-9th-house", "/astrology/9th-house", "/astrology/davison-chart", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Sun in the 9th house mean?"
-    a: "The relationship chart you share has its Sun in the 9th, the house of travel, study and belief. A shared search for meaning is read as its centre: journeys, learning, teaching, a worldview the two of you build. Tradition calls the 9th the Sun’s joy, a sign of ease rather than of a better bond."
+    a: "With your composite Sun in the 9th, the bond’s centre is a shared search for meaning, in the house of travel, study and belief: journeys, learning, teaching, a worldview the two of you build. Tradition calls the 9th the Sun’s joy, a sign of ease rather than of a better bond."
   - q: "Does a composite Sun in the 9th house mean a long-distance relationship?"
     a: "Not necessarily. The 9th covers distance among other things, but a composite never predicts where two people will live or how a relationship will go. With the Sun here, the bond’s centre is a shared horizon, which can be a country, a subject, a faith or a long conversation about how to live."
   - q: "Why doesn’t the composite Sun’s house show a time of day?"
@@ -37,7 +37,7 @@ In a birth chart, a Sun in the 9th tells you roughly when you were born: early i
 
 A shared worldview is what the 9th gives this Sun to work with. A relationship like this is often organised around something the two of you are trying to understand: a language you've learned side by side since the class where you met, a faith or philosophy shaped to fit you both, a subject you teach together, the years spent living in a country neither of you was born in. It's revived by discovery, and its purpose tends to be understanding, of the world and of each other.
 
-The old name of this cadent house, whose natural sign is Sagittarius, was the God, and tradition gave it to the Sun as its joy ([planetary joys](/astrology/planetary-joys/)), a sense that the Sun is at ease in this part of life. One person's need for meaning is the subject of the [Sun in the 9th house](/astrology/sun-in-9th-house/); someone who widens your horizons, of [their Sun in your 9th house](/astrology/sun-in-9th-house-synastry/). In the composite, the horizon belongs to both, and people who never wanted to leave home can start planning, together, how to.
+The old name of this cadent house, whose natural sign is Sagittarius, was the God, and tradition gave it to the Sun as its joy ([planetary joys](/astrology/planetary-joys/)), a sense that the Sun is at ease in this part of life. Meaning is one person's search in the [Sun in the 9th house](/astrology/sun-in-9th-house/), and a gift from one to the other in [their Sun in your 9th house](/astrology/sun-in-9th-house-synastry/), where someone widens your horizons. In the composite, the horizon belongs to both, and people who never wanted to leave home can start planning, together, how to.
 
 The far horizon can make the near one look dull. A bond centred on the next journey or the next idea can treat ordinary life as an interval, and a worldview built together can harden into certainty, with both of you agreeing too quickly. Truth-seeking isn't the same as having the answer; keeping a few questions open between you does this bond more good than settling them. Nothing here forecasts where the two of you will live, or how long the relationship will last.
 

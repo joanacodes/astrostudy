@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/pisces", "/astrology/11th-house", "/astrology/jupiter", "/astrology/neptune", "/astrology/aquarius-on-10th-house-cusp"]
 faq:
   - q: "What does Pisces on the 11th house cusp mean for friendship?"
-    a: "That friendships tend to grow from sympathy rather than shared interests: you gather people others overlook, become the one friends confide in, and feel at home in groups held together by art, faith or care. The care it asks for is limits. Neptune and Jupiter rule this 11th, and I read both."
+    a: "That friendships tend to grow from sympathy rather than shared interests: you gather people others overlook, become the one friends confide in, and feel at home in groups held together by art, faith or care. The care it asks for is limits. Such friendships tend to form where Neptune and Jupiter, its two rulers, stand in your chart."
   - q: "Why is Aquarius always on the Midheaven with Pisces on the 11th house cusp?"
     a: "Because the 11th cusp follows the Midheaven closely, and with Pisces on it the Midheaven falls in Aquarius in every London and New York chart. Uranus and Saturn then run your public life while Neptune and Jupiter run your friendships, two different pairs of planets side by side."
   - q: "Is Pisces on the 11th house cusp good for friendships?"

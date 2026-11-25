@@ -28,7 +28,7 @@ faq:
 sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite et sa lecture" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "2 000 000 de paires tirées au hasard parmi les naissances de 1930 à 2009 : la part de Mars composite en Bélier" }
-  - { title: "Ptolémée, Tétrabible, livre I", note: "Mars, maître du Bélier" }
+  - { title: "Ptolémée, Tétrabible, livre I", note: "Mars, qui gouverne le Bélier" }
 ---
 La tente est montée avant que l’une ou l’autre personne ait fini de dire *on devrait partir camper*. Mars composite en Bélier inscrit ce rythme dans le thème même de la relation : un lien qui bouge le premier, désire ouvertement et dit sur-le-champ ce qui le gêne.
 

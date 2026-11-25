@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Pisces", "8th house", "house cusps"]
 weight: 2560
 glyph: "♓"
-definition: "Pisces on the 8th house cusp puts intimacy, trust and shared money in mutable water. You tend to give trust early, share without keeping score and stay beside people in their hardest hours. Neptune and Jupiter rule the house, and Leo usually rises, with Aquarius on the Descendant."
+definition: "Pisces on the 8th house cusp lets the edges blur where your life joins another’s: in desire, in trust and in money held in common. You tend to open up early, share without keeping score and stay beside people in their hardest hours. Its rulers are Neptune and Jupiter, and Leo usually rises."
 facts:
   - { k: "Sign", v: "Pisces ♓, mutable water" }
   - { k: "Cusp", v: "The 8th house: intimacy, trust, money held in common" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/pisces", "/astrology/8th-house", "/astrology/jupiter", "/astrology/leo-rising", "/astrology/can-astrology-predict-death"]
 faq:
   - q: "What does Pisces on the 8th house cusp mean for intimacy?"
-    a: "That closeness tends to be something you dissolve into: you give trust early, share without keeping score and sense what a partner feels before it’s said. The care it asks for is clear edges, especially around shared money. Neptune and Jupiter rule the house, and their houses show where trust gets tested."
+    a: "That closeness tends to be something you dissolve into: you give trust early, share without keeping score and sense what a partner feels before it’s said. The care it asks for is clear edges, especially around shared money. That trust gets tested, and repaid, in the houses Neptune and Jupiter occupy."
   - q: "Does Pisces on the 8th house cusp mean money problems with a partner?"
     a: "No chart predicts money problems. This cusp describes a generous, trusting way of sharing resources, which can blur who owns or owes what. Joint accounts with clear records and agreements written down keep the generosity from turning into confusion."
   - q: "What is on the Descendant with Pisces on the 8th house cusp?"
@@ -34,7 +34,7 @@ Pisces on the 8th house cusp gives the house of intimacy and shared resources to
 
 ## What it means {#what-it-means}
 
-The [8th house](/astrology/8th-house/) is what a bond creates and what it costs: trust, desire, money in common, debts and what people owe each other ([house cusps](/astrology/house-cusps/)). With [Pisces](/astrology/pisces/) on its cusp, you tend to give trust before it has been earned and to share without keeping score. Intimacy can feel like crossing a border into someone else's weather, tender and total. You often sense what a partner fears or owes without being told, and you can stay beside someone in their worst hour without looking away. The gentler side of this cusp asks for practical edges: joint accounts with clear records, loans written down, agreements made before anyone needs them. Forgiving a debt is generous; forgetting it is how money and goodwill both go missing.
+The [8th house](/astrology/8th-house/) is what a bond creates and what it costs: the trust it asks for, the desire in it, the accounts held jointly, what is borrowed and what is owed ([house cusps](/astrology/house-cusps/)). With [Pisces](/astrology/pisces/) on its cusp, you tend to give trust before it has been earned and to share without keeping score. Intimacy can feel like crossing a border into someone else's weather, tender and total. You often sense what a partner fears or owes without being told, and you can stay beside someone in their worst hour without looking away. The gentler side of this cusp asks for practical edges: joint accounts with clear records, loans written down, agreements made before anyone needs them. Forgiving a debt is generous; forgetting it is how money and goodwill both go missing.
 
 Neptune and Jupiter hold the keys to this house, and I read both. [Neptune](/astrology/neptune/) shows where sharing turns into merging, and where it gets hard to see what's yours; [Jupiter](/astrology/jupiter/) shows where trust grows generous and where shared resources multiply, or get over-promised. In about 7 London charts in 10, and 4 in 5 at New York, the 5th cusp falls in Sagittarius, Jupiter's other sign, so Jupiter also rules your pleasures and romances, and what begins as play tends to deepen into trust. Wherever they sit is where you learn what you can share and what you owe, as ruler of the 8th in the [1st](/astrology/8th-house-ruler-in-1st-house/), [2nd](/astrology/8th-house-ruler-in-2nd-house/), [3rd](/astrology/8th-house-ruler-in-3rd-house/), [4th](/astrology/8th-house-ruler-in-4th-house/), [5th](/astrology/8th-house-ruler-in-5th-house/), [6th](/astrology/8th-house-ruler-in-6th-house/), [7th](/astrology/8th-house-ruler-in-7th-house/), [8th](/astrology/8th-house-ruler-in-8th-house/), [9th](/astrology/8th-house-ruler-in-9th-house/), [10th](/astrology/8th-house-ruler-in-10th-house/), [11th](/astrology/8th-house-ruler-in-11th-house/) or [12th](/astrology/8th-house-ruler-in-12th-house/).
 

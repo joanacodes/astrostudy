@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/pisces", "/astrology/11th-house", "/astrology/jupiter", "/astrology/neptune", "/astrology/aquarius-on-10th-house-cusp"]
 faq:
   - q: "Que veulent dire les Poissons sur la cuspide de la maison 11 pour l’amitié ?"
-    a: "Que l’amitié naît de la sympathie plus que des intérêts communs : vous rassemblez des gens que d’autres ne voient pas, devenez la personne à qui l’on se confie, et vous sentez chez vous dans des groupes unis par l’art, la foi ou le soin. Le soin qu’elle demande, ce sont des limites. Neptune et Jupiter gouvernent cette maison 11."
+    a: "Que l’amitié naît de la sympathie plus que des intérêts communs : vous rassemblez des gens que d’autres ne voient pas, devenez la personne à qui l’on se confie, et aimez les groupes unis par l’art ou la foi. Le soin qu’elle demande, ce sont des limites. Ces amitiés se nouent là où se trouvent Neptune et Jupiter, ses maîtres."
   - q: "Pourquoi le Verseau est-il toujours au Milieu du Ciel avec les Poissons sur la cuspide de la maison 11 ?"
     a: "Parce que la cuspide de la maison 11 suit de près le Milieu du Ciel, et qu’avec les Poissons dessus, le Milieu du Ciel tombe en Verseau dans tous les thèmes de Londres et de New York. Uranus et Saturne mènent alors votre vie publique, Neptune et Jupiter vos amitiés : deux couples de planètes côte à côte."
   - q: "Les Poissons en maison 11, est-ce bon pour l’amitié ?"

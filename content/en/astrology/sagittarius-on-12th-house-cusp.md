@@ -28,6 +28,7 @@ faq:
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "here, Placidus cusps for births spread over a day at London and New York, with the rising signs" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Jupiter as the ruler of Sagittarius and Pisces, Saturn of Capricorn" }
+  - { title: "Wikipedia — Neptune", url: "https://en.wikipedia.org/wiki/Neptune", note: "Johann Galle’s observation of the planet in 1846; checked on 25 November 2026" }
 ---
 The house you keep behind the curtain opens in Sagittarius when the archer sits on your 12th house cusp. Much of your optimism, and much of your searching, happens where nobody sees it.
 

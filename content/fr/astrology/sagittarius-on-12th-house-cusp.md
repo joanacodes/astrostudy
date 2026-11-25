@@ -29,6 +29,7 @@ faq:
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "ici, les cuspides de Placidus de naissances réparties sur une journée à Londres et à New York, avec les ascendants" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Jupiter, maître du Sagittaire et des Poissons ; Saturne, du Capricorne" }
+  - { title: "Wikipédia (en anglais) — Neptune", url: "https://en.wikipedia.org/wiki/Neptune", note: "l’observation de Johann Galle en 1846 ; consulté le 25 novembre 2026" }
 ---
 La maison que vous gardez derrière le rideau s’ouvre en Sagittaire quand l’archer occupe la cuspide de votre maison 12. Une bonne part de votre optimisme, et de votre quête, se joue là où personne ne la voit.
 

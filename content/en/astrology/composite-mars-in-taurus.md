@@ -5,6 +5,8 @@ description: "Composite Mars in Taurus: a relationship whose drive builds slowly
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Synastry"]
+tags: ["Mars", "Taurus", "composite chart"]
 weight: 2074
 glyph: "♂♉"
 definition: "Composite Mars in Taurus is a relationship chart’s Mars landing in Taurus: the point halfway between two people’s natal Marses lies in this fixed earth sign, ruled by Venus. Astrologers read a bond whose drive builds slowly and lasts, with effort spent on what can be touched and kept, unhurried desire, and disagreements that start late."
