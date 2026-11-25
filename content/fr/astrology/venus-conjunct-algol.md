@@ -36,7 +36,7 @@ Vénus conjonction Algol, c’est une rencontre de contraires dans les vieux liv
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
-Dans un thème, [Vénus](/astrology/venus/) dit comment vous pesez les choses : ce qui vous semble valoir la peine, ce qui vous attire, ce qui vous paraît un échange juste, ce qui vous plaît assez pour le garder. [Algol](/astrology/algol/) apporte la Gorgone : une étoile nommée d’après une tête de goule, que la tradition range avec ses plus malheureuses.
+Dans un thème, [Vénus](/astrology/venus/) dit comment vous pesez les choses : ce qui vous semble valoir la peine, ce qui vous attire, ce qui vous paraît un échange juste, ce qui vous plaît assez pour le garder. [Algol](/astrology/algol/) apporte la Gorgone : une étoile nommée d’après une tête de goule, que la tradition range avec ses plus malheureuses ([les étoiles fixes en astrologie](/astrology/fixed-stars-in-astrology/)).
 
 La magie médiévale y voyait autre chose. Elle retenait quinze étoiles, les béhéniennes, et donnait à chacune une pierre et une plante, matière de ses talismans ; Algol, entre toutes, a reçu le diamant, avec l’hellébore noir. Pour un contact avec Vénus, la planète de ce à quoi vous accordez de la valeur, je trouve ce détail précieux : l’étoile au pire nom de la liste a été associée à sa pierre la plus dure.
 

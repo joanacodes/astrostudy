@@ -36,7 +36,7 @@ Vénus conjonction Spica place Vénus dans l’un de ses propres signes, à la f
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
-[Vénus](/astrology/venus/) est pour moi la planète de la préférence et de l’échange : ce qui vous attire, ce que vous trouvez beau ou juste, et la manière dont vous aimez que donner et recevoir s’équilibrent. [Spica (l’Épi)](/astrology/spica/) fait partie des étoiles que la vieille magie liait à Vénus : la liste béhénienne des quinze étoiles à talismans nomme Vénus pour six d’entre elles, et donne Spica à Vénus et à Mercure ensemble.
+[Vénus](/astrology/venus/) est pour moi la planète de la préférence et de l’échange : ce qui vous attire, ce que vous trouvez beau ou juste, et la manière dont vous aimez que donner et recevoir s’équilibrent. [Spica (l’Épi)](/astrology/spica/) fait partie des étoiles que la vieille magie liait à Vénus : la liste béhénienne des quinze étoiles à talismans nomme Vénus pour six d’entre elles, et donne Spica à Vénus et à Mercure ensemble ([les étoiles fixes en astrologie](/astrology/fixed-stars-in-astrology/)).
 
 Le degré de l’étoile, 22°51′ de la Balance en 1930 et 24°12′ en 2026, place aussi Vénus dans un signe qu’elle gouverne ([Vénus en Balance](/astrology/venus-in-libra/)) : une Vénus qui tient à la proportion et à l’échange loyal, et qui aime l’accord surtout quand chacun a pu dire son mot. L’étoile et le signe s’accordent ici, ce qui est rare. La tradition y verrait Vénus chez elle, sur une étoile de sa propre nature ; j’y vois Vénus en Balance avec un vieux compliment en prime, et je lis ce compliment avec la même légèreté qu’une insulte.
 

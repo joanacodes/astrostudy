@@ -35,7 +35,7 @@ Mars conjunct Algol is the contact where astrology's old vocabulary turns darkes
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) is, to my mind, your capacity to act: to start, to push, to protect what matters to you and to say no. Assertion isn't aggression and courage isn't recklessness, and those two distinctions do most of the work on this page. [Algol](/astrology/algol/) is the star of the Gorgon's head in Perseus, named in Arabic after a ghoul, and it has the grimmest reputation in the astrology of fixed stars.
+[Mars](/astrology/mars/) is, to my mind, your capacity to act: to start, to push, to protect what matters to you and to say no. Assertion isn't aggression and courage isn't recklessness, and those two distinctions do most of the work on this page. [Algol](/astrology/algol/) is the star of the Gorgon's head in Perseus, named in Arabic after a ghoul, and it has the grimmest reputation of all the [fixed stars in astrology](/astrology/fixed-stars-in-astrology/).
 
 Laid side by side, the two words explain why this contact frightens people who find it in a list of star meanings. Here is what it is not. The tradition's words were labels for whole classes of things, a malefic planet, an unlucky star, and never a description of a person. An old label does nothing to the person it is pinned on, and the length of a life is not something any chart can show ([Can astrology predict death?](/astrology/can-astrology-predict-death/)).
 

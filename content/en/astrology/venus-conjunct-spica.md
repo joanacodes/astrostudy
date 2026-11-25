@@ -35,7 +35,7 @@ Venus conjunct Spica puts Venus in one of its own signs, late in Libra, on a sta
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) is, for me, the planet of preference and exchange: what you are drawn to, what you think beautiful or fair, and how you like giving and receiving to balance out. [Spica](/astrology/spica/) is one of the stars the old magic tied to Venus: the Behenian list of fifteen talisman stars names Venus for six of them, and gives Spica to Venus and Mercury together.
+[Venus](/astrology/venus/) is, for me, the planet of preference and exchange: what you are drawn to, what you think beautiful or fair, and how you like giving and receiving to balance out. [Spica](/astrology/spica/) is one of the stars the old magic tied to Venus: the Behenian list of fifteen talisman stars names Venus for six of them, and gives Spica to Venus and Mercury together ([fixed stars in astrology](/astrology/fixed-stars-in-astrology/)).
 
 The star's degree, 22°51′ Libra in 1930 and 24°12′ in 2026, also puts Venus in a sign it rules ([Venus in Libra](/astrology/venus-in-libra/)): a Venus that values proportion and fair dealing, and likes agreement best when both people have had their say. Star and sign agree here, which is rare. The tradition would call it Venus at home on a star of its own nature; I'd call it Venus in Libra with an old compliment attached, and read the compliment as lightly as I would an insult.
 

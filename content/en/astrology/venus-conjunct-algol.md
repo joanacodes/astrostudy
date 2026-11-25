@@ -35,7 +35,7 @@ Venus conjunct Algol is a meeting of opposites in the old books: Venus, which th
 
 ## What it means {#what-it-means}
 
-In a chart, [Venus](/astrology/venus/) is how you weigh things: what you find worth having, whom you are drawn to, what feels like a fair exchange, what pleases you enough to keep. [Algol](/astrology/algol/) brings the Gorgon: a star named after a ghoul's head and filed by the tradition with its unluckiest.
+In a chart, [Venus](/astrology/venus/) is how you weigh things: what you find worth having, whom you are drawn to, what feels like a fair exchange, what pleases you enough to keep. [Algol](/astrology/algol/) brings the Gorgon: a star named after a ghoul's head and filed by the tradition with its unluckiest ([fixed stars in astrology](/astrology/fixed-stars-in-astrology/)).
 
 Medieval magic saw something else in it. The fifteen Behenian stars were each paired with a gem and a plant for making talismans, and Algol, of all stars, received the diamond, with black hellebore. For a contact with Venus, the planet of what you value, I find that detail worth keeping: the star with the worst name in the list was matched with its hardest stone.
 

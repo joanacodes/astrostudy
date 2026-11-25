@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["Saturn", "Spica", "fixed stars"]
 weight: 2594
 glyph: "♄☌★"
-definition: "Saturn conjunct Spica is Saturn in late Libra, its sign of exaltation, within 1° of the degree of Spica, the Virgin’s ear of wheat. Between 1930 and 2009 only births from November 1952 to August 1953, or in late September and early October 1982, have it: about 1 person in 332."
+definition: "Saturn conjunct Spica is Saturn in late Libra, its sign of exaltation, within 1° of the degree of Spica, the wheat ear the Virgin holds. Between 1930 and 2009 only births from November 1952 to August 1953, or in late September and early October 1982, have it: about 1 person in 332."
 facts:
   - { k: "Planet", v: "Saturn ♄" }
   - { k: "Star", v: "Spica, α Virginis: 22°51′ Libra in 1930, 23°50′ Libra in 2000" }
@@ -43,6 +43,6 @@ The first visit was long ([Saturn retrograde](/astrology/saturn-retrograde/)). S
 
 In the sky they came fairly close. Spica lies a couple of degrees south of the ecliptic and Saturn ran a couple of degrees north of it here, so the two passed four to five degrees apart, near enough to take in at a glance.
 
-If one part of this contact deserves your trust, it is the planet. In my notebook, Saturn, Chiron and Lilith held 75 to 90% of the time, far above everything else, and no star was ever on my list, and none is drawn in the charts I read ([The three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). What I'd read here is Saturn in Libra, its house and its aspects.
+If one part of this contact deserves your trust, it is the planet. In my notebook, Saturn, Chiron and Lilith held 75 to 90% of the time, far above everything else ([The three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)), and no star was ever on my list, and none is drawn in any chart I read ([fixed stars in astrology](/astrology/fixed-stars-in-astrology/)). What I'd read here is Saturn in Libra, its house and its aspects.
 
 Saturn kept its own calendar even on this degree. In October 1982 it left the window on the 13th, three days before the [Sun conjunct Spica](/astrology/sun-conjunct-spica/) arrived and a week before [Venus conjunct Spica](/astrology/venus-conjunct-spica/), so no birth that autumn has both. The [Moon conjunct Spica](/astrology/moon-conjunct-spica/) and [Mars conjunct Spica](/astrology/mars-conjunct-spica/) come round far more often, the Moon every month and Mars every two years or so. How the tradition counts any of them is the subject of [conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/).

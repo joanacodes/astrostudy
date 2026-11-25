@@ -36,7 +36,7 @@ Mars conjonction Algol est le contact où le vieux vocabulaire de l’astrologie
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
-[Mars](/astrology/mars/), à mes yeux, est votre capacité d’agir : commencer, pousser, protéger ce qui compte pour vous et dire non. S’affirmer n’est pas agresser, et le courage n’est pas l’imprudence : ces deux distinctions font l’essentiel du travail sur cette page. [Algol](/astrology/algol/) est l’étoile de la tête de la Gorgone dans Persée, nommée en arabe d’après une goule, et elle porte la réputation la plus sombre de l’astrologie des étoiles fixes.
+[Mars](/astrology/mars/), à mes yeux, est votre capacité d’agir : commencer, pousser, protéger ce qui compte pour vous et dire non. S’affirmer n’est pas agresser, et le courage n’est pas l’imprudence : ces deux distinctions font l’essentiel du travail sur cette page. [Algol](/astrology/algol/) est l’étoile de la tête de la Gorgone dans Persée, nommée en arabe d’après une goule, et elle porte la réputation la plus sombre de toutes [les étoiles fixes en astrologie](/astrology/fixed-stars-in-astrology/).
 
 Posés côte à côte, ces deux mots expliquent pourquoi ce contact effraie les personnes qui le trouvent dans une liste de significations d’étoiles. Voici ce qu’il n’est pas. Les mots de la tradition étaient des étiquettes pour des catégories entières, une planète maléfique, une étoile malheureuse, et jamais la description d’une personne. Une vieille étiquette ne fait rien à la personne sur qui on la colle, et la durée d’une vie n’est pas une chose qu’un thème puisse montrer ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)).
 

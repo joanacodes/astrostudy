@@ -37,7 +37,7 @@ Mars conjunct Spica is the commonest contact this star has: among the births of 
 
 I read [Mars](/astrology/mars/) as effort with a direction: what you go after, how hard you push, where you draw a line and keep it. [Spica](/astrology/spica/) gives Mars an unexpected word. An Arabic name for it is al-simāk al-aʽzal, the unarmed simāk, while its neighbour [Arcturus](/astrology/arcturus/), at almost the same zodiac degree but some thirty degrees further north, was the simāk of the lancer. At this point of the zodiac, the lance went to the other star.
 
-So the planet named after the god of war sits, here, on the unarmed one. I like that better than any verdict the old books could hand down, because Mars, as I read it, was never about weapons. It is the force behind effort and initiative, and it can push very hard with empty hands.
+So the planet named after the god of war sits, here, on the unarmed one. I like that better than any verdict the old books on [fixed stars in astrology](/astrology/fixed-stars-in-astrology/) could hand down, because Mars, as I read it, was never about weapons. It is the force behind effort and initiative, and it can push very hard with empty hands.
 
 The sign agrees. Spica's degree has stayed in late Libra through all the births counted here, which makes this a [Mars in Libra](/astrology/mars-in-libra/), which the tradition counts as Mars's [detriment](/astrology/detriment/), opposite Aries, its own sign. That describes effort that runs through relationships: you act best alongside someone, argue for what is fair, and may need time before putting your own wishes first.
 
