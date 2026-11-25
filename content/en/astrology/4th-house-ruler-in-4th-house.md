@@ -22,7 +22,7 @@ faq:
   - q: "Is the Moon ruling the 4th house from the 4th house strong?"
     a: "With Cancer on the IC, the Moon rules the 4th, and in the 4th it stands in the house of its own natural sign. I read that as needs and home bound tightly together: a nest matters, and so does the past it holds. Strength here means the Moon’s needs are felt plainly, not that home life will be easy."
   - q: "Can the 4th house have two rulers?"
-    a: "Yes, when Scorpio, Aquarius or Pisces is on the IC, which happens in about 1 birth in 4. Each brings a traditional ruler and a modern one, and I read the pair. One may stand in the 4th while the other carries part of the family story into another house."
+    a: "Yes, when Scorpio, Aquarius or Pisces is on the IC, which happens in about 1 birth in 4. Those signs each pair a traditional ruler with a modern one; in a reading, I look at both. One may stand in the 4th while the other carries part of the family story into another house."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipedia, “Horary astrology”", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "the ruler of a house’s cusp signifies its matters; the 4th for parents and immovable possessions" }

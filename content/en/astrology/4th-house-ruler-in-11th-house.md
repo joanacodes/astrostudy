@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/11th-house", "/astrology/house-rulers", "/astrology/planetary-joys", "/astrology/uranus"]
 faq:
   - q: "What does the ruler of the 4th house in the 11th house mean?"
-    a: "Friends, groups and shared hopes belong to the house where your IC’s ruler stands. Belonging tends to come through chosen people: friends who become family, a community, a shared house or a cause. I read it as home found in a circle."
+    a: "Your IC’s ruler keeps company in the 11th, the house of friends, groups and shared hopes. Belonging tends to come through chosen people: friends who become family, a community, a shared house or a cause. I read it as home found in a circle."
   - q: "Does the ruler of the 4th in the 11th mean I’m not close to my family?"
     a: "Not necessarily. It shows that friendship and community are part of what home means to you, which can sit beside close family ties or stand in for them. How you get on with relatives is described by far more than one ruler, and their side is theirs."
   - q: "Is the 4th house ruler in the 11th house good for shared living?"

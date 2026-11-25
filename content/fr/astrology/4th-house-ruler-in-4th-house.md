@@ -23,7 +23,7 @@ faq:
   - q: "La Lune, maîtresse de la maison 4 en maison 4, est-elle forte ?"
     a: "Avec le Cancer au Fond du Ciel, la Lune gouverne la maison 4 et s’y trouve dans la maison de son signe naturel. J’y lis des besoins liés au foyer : le nid compte, et le passé qu’il garde aussi. Cette force veut dire que les besoins de la Lune se sentent nettement, pas que la vie de famille sera facile."
   - q: "La maison 4 peut-elle avoir deux maîtres ?"
-    a: "Oui, quand le Scorpion, le Verseau ou les Poissons sont au Fond du Ciel, ce qui arrive dans environ une naissance sur quatre. Chacun apporte un maître traditionnel et un maître moderne, et je lis l’un et l’autre. L’un peut se tenir en maison 4 pendant que l’autre emporte une part de l’histoire familiale dans une autre maison."
+    a: "Oui, quand le Scorpion, le Verseau ou les Poissons sont au Fond du Ciel, ce qui arrive dans environ une naissance sur quatre. Ces signes associent chacun un maître traditionnel à un maître moderne, et ma lecture tient compte des deux. L’un peut se tenir en maison 4 pendant que l’autre emporte une part de l’histoire familiale dans une autre maison."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; la maison 4 pour les parents et les biens immeubles" }

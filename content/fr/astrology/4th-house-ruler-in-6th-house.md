@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/6th-house", "/astrology/house-rulers", "/astrology/can-astrology-predict-health-problems", "/astrology/derived-houses"]
 faq:
   - q: "Que veut dire le maître de la maison 4 en maison 6 ?"
-    a: "Le foyer se gère depuis la maison des routines et des tâches quotidiennes. Le foyer et le travail partagent souvent les mêmes heures : travailler chez soi, tenir une maison comme un emploi, ou trouver sa place dans un lieu de travail. J’y lis une appartenance soignée jour après jour."
+    a: "On gère le foyer depuis la maison des routines et des tâches quotidiennes. Le foyer et le travail partagent souvent les mêmes heures : travailler chez soi, tenir une maison comme un emploi, ou trouver sa place dans un lieu de travail. J’y lis une appartenance soignée jour après jour."
   - q: "Le maître de la maison 4 en maison 6 veut-il dire s’occuper d’un proche ?"
     a: "Il peut décrire le soin à la maison comme une part de la vie quotidienne, et certaines personnes qui l’ont s’occupent de quelqu’un avec qui elles vivent. Mais aucun thème ne peut dire si un proche aura besoin de soins ou tombera malade, et je ne lis pas la santé. Il décrit votre façon de prendre soin du foyer."
   - q: "Travailler chez soi convient-il au maître de la maison 4 en maison 6 ?"

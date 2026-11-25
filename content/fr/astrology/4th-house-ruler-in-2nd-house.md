@@ -2,7 +2,7 @@
 title: "Maître de la maison 4 en maison 2"
 slug: "maitre-maison-4-en-maison-2"
 h1: "Maître de la maison 4 en maison 2 dans un thème natal"
-description: "Maître de la maison 4 en maison 2 : un foyer bâti et payé par vous, des racines qu’on peut toucher : meubles, souvenirs, un toit. Aucune promesse de fortune."
+description: "Maître de la maison 4 en maison 2 : un foyer bâti et payé par vous, des racines qu’on peut toucher, des meubles aux souvenirs. Aucune promesse de fortune."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"

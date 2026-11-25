@@ -23,7 +23,7 @@ faq:
   - q: "Le maître de la maison 3 en maison 5 est-il bon pour écrire ?"
     a: "Il relie les mots du quotidien à la maison du plaisir créatif : écrire, raconter, jouer avec la langue ressemblent souvent à un jeu plus qu’à un travail. Que cela devienne un métier ou reste un passe-temps dépend du reste du thème, et de ce que vous choisissez d’en faire."
   - q: "Le maître de la maison 3 en maison 5 dit-il quelque chose des enfants ?"
-    a: "Les enfants sont une affaire de maison 5 dans la tradition, mais je ne cherche pas si ou quand quelqu’un en aura, et je ne lis jamais pour un enfant. Dans une vie d’adulte, ce placement décrit votre propre goût du jeu avec les mots et les idées, et le plaisir que vous prenez à apprendre."
+    a: "Les enfants sont une affaire de maison 5 dans la tradition, mais je ne cherche pas à savoir si ou quand quelqu’un en aura, et je ne lis jamais pour un enfant. Dans une vie d’adulte, ce placement décrit votre propre goût du jeu avec les mots et les idées, et le plaisir que vous prenez à apprendre."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "William Lilly, Christian Astrology (1647), via Wikipédia en anglais, « Horary astrology »", url: "https://en.wikipedia.org/wiki/Horary_astrology", note: "le maître d’une cuspide signifie les affaires de la maison ; la maison 5 pour le plaisir, les jeux et les amours" }

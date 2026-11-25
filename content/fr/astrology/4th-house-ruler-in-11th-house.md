@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/11th-house", "/astrology/house-rulers", "/astrology/planetary-joys", "/astrology/uranus"]
 faq:
   - q: "Que veut dire le maître de la maison 4 en maison 11 ?"
-    a: "Les amis, les groupes et les espoirs partagés appartiennent à la maison où se tient le maître de votre Fond du Ciel. L’appartenance passe souvent par des personnes choisies : des amis qui deviennent une famille, une communauté, une maison partagée ou une cause. J’y lis un foyer trouvé dans un cercle."
+    a: "Le maître de votre Fond du Ciel se tient en maison 11, en compagnie des amis, des groupes et des espoirs partagés. L’appartenance passe souvent par des personnes choisies : des amis qui deviennent une famille, une communauté, une maison partagée ou une cause. J’y lis un foyer trouvé dans un cercle."
   - q: "Le maître de la maison 4 en maison 11 veut-il dire que je ne suis pas proche de ma famille ?"
     a: "Pas forcément. Il montre que l’amitié et la communauté font partie de ce que « chez soi » veut dire pour vous, ce qui peut aller avec des liens de famille étroits ou en tenir lieu. Vos relations avec vos proches dépendent de bien plus qu’un maître, et leur côté leur appartient."
   - q: "Le maître de la maison 4 en maison 11 convient-il à la vie en colocation ?"
@@ -46,4 +46,4 @@ La maison 11 contient aussi les espoirs, l’avenir dans lequel vous aimeriez vi
 
 Rien de tout cela ne dit que vous êtes loin de votre famille. Cela décrit l’amitié comme une part de ce que « chez soi » veut dire pour vous ; vos relations avec votre famille sont une question plus vaste qu’un seul maître, et leur côté leur appartient.
 
-Dans le ciel, la maison 11 se trouve haut à l’est : un maître qui s’y trouve montait encore vers le Milieu du Ciel à votre naissance. Un peu plus haut, il serait en maison 10, avec le foyer et la carrière sur un même axe ([Maître de la maison 4 en maison 10](/astrology/4th-house-ruler-in-10th-house/)) ; un peu plus bas, près de l’horizon, en maison 12, le foyer deviendrait une retraite ([Maître de la maison 4 en maison 12](/astrology/4th-house-ruler-in-12th-house/)). Ces quelques degrés tiennent à quelques minutes d’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Dans le ciel, la maison 11 se trouve haut à l’est : un maître qui s’y trouve montait encore vers le Milieu du Ciel à votre naissance. Un peu plus haut, il serait en maison 10, avec le foyer et la carrière sur un même axe ([Maître de la maison 4 en maison 10](/astrology/4th-house-ruler-in-10th-house/)) ; un peu plus bas, près de l’horizon, en maison 12, le foyer deviendrait une retraite ([Maître de la maison 4 en maison 12](/astrology/4th-house-ruler-in-12th-house/)). Ces degrés-là tiennent à quelques minutes d’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/4th-house", "/astrology/6th-house", "/astrology/house-rulers", "/astrology/can-astrology-predict-health-problems", "/astrology/derived-houses"]
 faq:
   - q: "What does the ruler of the 4th house in the 6th house mean?"
-    a: "Home is run from the house of daily routines and tasks. Home and work tend to share the same hours: working from home, running a household like a job, or finding belonging in a workplace. I read it as belonging looked after day by day."
+    a: "Your household is run from the house of daily routines and tasks. Home and work tend to share the same hours: working from home, running a household like a job, or finding belonging in a workplace. I read it as belonging looked after day by day."
   - q: "Does the ruler of the 4th in the 6th mean caring for a family member?"
     a: "It can describe care at home as part of daily life, and some people with it do look after someone they live with. But no chart can say whether a relative will need care or fall ill, and I don’t read health. It describes how you look after home, not what will happen in it."
   - q: "Is working from home good with the 4th house ruler in the 6th house?"
