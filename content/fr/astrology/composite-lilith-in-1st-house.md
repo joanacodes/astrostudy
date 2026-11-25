@@ -12,7 +12,7 @@ weight: 2253
 glyph: "⚸"
 definition: "Lilith composite en maison 1 : la Lune noire Lilith d’un thème de relation, moyenne de deux thèmes natals, tombe dans la maison de l’allure du lien, juste après l’ascendant composite. Les astrologues y lisent une paire dont la part indomptée se voit en surface, et qui refuse de se présenter comme on l’attend."
 facts:
-  - { k: "Corps", v: "Lilith composite ⚸" }
+  - { k: "Corps", v: "Lilith composite ⚸, tirée de vos deux Lilith moyennes natales" }
   - { k: "Maison", v: "La maison 1, qui commence à l’ascendant composite" }
   - { k: "Type", v: "Angulaire" }
   - { k: "Signe naturel", v: "Bélier" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/lilith-in-1st-house", "/astrology/1st-house", "/astrology/ascendant", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Lilith composite en maison 1 ?"
-    a: "Le thème de la relation a Lilith dans la maison de sa surface, de l’allure du lien. Les astrologues y lisent une paire dont la part indomptée se voit, perçue par les autres avant qu’ils connaissent l’une ou l’autre personne, et qui refuse de jouer la version du couple qu’on attend d’elle. Elle ne prédit rien du cours de la relation."
+    a: "Elle place la part indomptée du lien à sa surface, dans l’allure que vous avez ensemble. Les astrologues y lisent une paire dont la part indomptée se voit, perçue par les autres avant qu’ils connaissent l’une ou l’autre personne, et qui refuse de jouer la version du couple qu’on attend d’elle. Elle ne prédit rien du cours de la relation."
   - q: "Lilith composite en maison 1 fait-elle remarquer un couple ?"
     a: "Souvent, oui : on remarque quelque chose d’insolite, d’intense ou de difficile à situer chez vous deux ensemble, même quand aucune des deux personnes ne se remarque seule. Cette attention peut flatter ou gêner. Elle décrit la manière dont le lien apparaît, pas l’approbation qu’il recevra."
   - q: "Quelle précision faut-il pour nos heures de naissance avec Lilith composite en maison 1 ?"
@@ -29,7 +29,7 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite, ses maisons et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "la maison 1 et ce que la tradition lui donnait" }
 ---
-Certains couples se remarquent en tant que paire avant que quiconque ait appris leurs prénoms : quelque chose dans leur manière d’être ensemble semble insolite, intense, difficile à situer. Lilith composite en maison 1 place la part indomptée d’une relation à sa surface, là où les autres la rencontrent en premier.
+Certains couples se remarquent en tant que paire avant que quiconque ait appris leurs prénoms : quelque chose dans leur manière d’être ensemble semble insolite, intense, difficile à situer. C’est Lilith composite en maison 1 : la part indomptée d’une relation portée à sa surface, là où les autres la rencontrent en premier.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 

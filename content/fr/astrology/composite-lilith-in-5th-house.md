@@ -12,7 +12,7 @@ weight: 2257
 glyph: "⚸"
 definition: "Lilith composite en maison 5 loge la part indomptée d’une relation dans ses plaisirs : la Lune noire Lilith du thème tombe dans la maison du jeu, de la création et de la romance. Les astrologues y lisent une joie qui refuse d’être polie ou expliquée, des jeux privés à une romance hors norme. Elle ne prédit jamais d’enfants."
 facts:
-  - { k: "Corps", v: "Lilith composite ⚸" }
+  - { k: "Corps", v: "Lilith composite ⚸, tirée de vos deux Lilith moyennes natales" }
   - { k: "Maison", v: "La maison 5, du jeu, du plaisir et de la romance" }
   - { k: "Type", v: "Succédente" }
   - { k: "Signe naturel", v: "Lion" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/lilith-in-5th-house", "/astrology/5th-house", "/astrology/can-astrology-predict-pregnancy", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Lilith composite en maison 5 ?"
-    a: "Le thème de la relation a Lilith dans la maison du jeu, du plaisir, de la création et de la romance. Les astrologues y lisent une paire dont la joie lui appartient et refuse d’être rendue respectable : jeux et blagues privés, romance qui ne suit aucun scénario, choses faites ensemble qui ne seront peut-être jamais montrées. Elle ne prédit rien."
+    a: "Les astrologues y lisent une paire dont la joie lui appartient et refuse d’être rendue respectable : jeux et blagues privés, romance qui ne suit aucun scénario, choses faites ensemble qui ne seront peut-être jamais montrées. La maison 5 est celle du jeu, du plaisir, de la création et de la romance ; avec Lilith, le lien s’y réjouit à ses conditions, et rien n’est prédit."
   - q: "Lilith composite en maison 5 veut-elle dire que nous aurons des enfants ?"
     a: "Non. La tradition donnait les enfants à la maison 5, mais aucun thème, composite ou natal, ne peut dire si deux personnes en auront. Dans une relation entre adultes, cette Lilith décrit le jeu, le plaisir, la création et la romance : la façon dont le lien se réjouit, et ce qu’il refuse de justifier."
   - q: "Peut-on connaître la maison de Lilith composite sans nos heures de naissance ?"
@@ -30,11 +30,11 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "le thème composite, ses maisons et sa lecture" }
   - { title: "Vettius Valens, Anthologies", note: "la maison 5, la Fortune favorable, et la joie qu’y a Vénus" }
 ---
-La paire a un jeu dont personne d’autre ne connaît les règles, une blague qui dure depuis vingt ans, une façon de fêter qui gênerait ses amis. Lilith composite en maison 5 loge la part indomptée d’une relation dans ses plaisirs : la joie qu’elle prend à ses propres conditions, sans s’expliquer.
+La paire a un jeu dont personne d’autre ne connaît les règles, une blague qui dure depuis vingt ans, une façon de fêter qui gênerait ses amis. Lilith composite en maison 5 parle de cette joie-là : prise aux conditions de la paire, et jamais expliquée.
 
 ## Ce que ça dit de vous deux {#ce-que-ca-dit}
 
-Les astrologues confient à la [maison 5](/astrology/5th-house/) tout ce qui se fait pour le plaisir : les jeux, la romance, la création. Elle est succédente, de signe naturel Lion ; la tradition l’appelait la Fortune favorable, et Vénus y a sa joie. Dans [le thème composite](/astrology/composite-chart/), elle décrit la façon dont la relation se réjouit. Avec la [Lune noire Lilith](/astrology/black-moon-lilith/), le point que je lis comme caché et indompté, cette joie refuse d’être polie. L’amusement de la paire peut être bizarre, privé, un peu irrévérencieux ; sa romance peut ne suivre aucun scénario que les familles reconnaîtraient ; ce qu’elle crée à deux, une musique, un jardin, une histoire, une petite affaire à côté, peut rester pour ses seuls yeux.
+Les astrologues confient à la [maison 5](/astrology/5th-house/) tout ce qui se fait pour le plaisir : les jeux, la romance, la création. Elle est succédente, de signe naturel Lion ; la tradition l’appelait la Fortune favorable, et Vénus y a sa joie. Lue dans [le thème composite](/astrology/composite-chart/), elle montre comment la relation se réjouit. Placez-y la [Lune noire Lilith](/astrology/black-moon-lilith/), la part d’un thème que je lis comme cachée et indomptée, et cette joie refuse d’être polie. L’amusement de la paire peut être bizarre, privé, un peu irrévérencieux ; sa romance peut ne suivre aucun scénario que les familles reconnaîtraient ; ce qu’elle crée à deux, une musique, un jardin, une histoire, une petite affaire à côté, peut rester pour ses seuls yeux.
 
 Nul besoin que l’une ou l’autre personne soit joueuse ailleurs pour que cela se voie. Des personnes sérieuses peuvent partager une loufoquerie que personne d’autre ne voit, et s’étonner, des années plus tard, de la part de la vie de la relation qui se passe dans cette pièce privée. Ce qu’elle cache, c’est combien elle s’amuse ; ce qu’elle refuse, c’est de justifier ses plaisirs devant qui que ce soit.
 
@@ -42,7 +42,7 @@ Ici, la différence entre un signe composite et une maison composite compte. Les
 
 La maison 5 recevait aussi, dans la tradition, les enfants. Un composite ne les prédit jamais, pas plus qu’un thème natal ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et ce site ne lit que les thèmes d’adultes ([le thème des enfants](/astrology/childrens-charts/)).
 
-Chez une personne, [Lilith en maison 5](/astrology/lilith-in-5th-house/) est une joie qu’on a un jour obligée à se justifier ; entre deux thèmes, [la Lilith de l’autre dans votre maison 5](/astrology/lilith-in-5th-house-synastry/) lâche dans la vôtre la joie indisciplinée de quelqu’un d’autre. La maison 5 du composite, c’est la joie que la paire partage. Avant elle, [Lilith composite en maison 4](/astrology/composite-lilith-in-4th-house/) garde son foyer ; après elle, [Lilith composite en maison 6](/astrology/composite-lilith-in-6th-house/) loge sa part indomptée dans le train-train quotidien.
+Une joie qu’on a un jour obligée à se justifier, c’est ainsi que je lis [Lilith en maison 5](/astrology/lilith-in-5th-house/) dans le thème d’une personne ; [la Lilith de l’autre dans votre maison 5](/astrology/lilith-in-5th-house-synastry/) lâche dans la vôtre la joie indisciplinée de quelqu’un d’autre. Ici, la joie est partagée, et elle se tient entre [Lilith composite en maison 4](/astrology/composite-lilith-in-4th-house/), qui garde son foyer, et [Lilith composite en maison 6](/astrology/composite-lilith-in-6th-house/), qui loge sa part indomptée dans le train-train quotidien.
 
 Sa difficulté, c’est un plaisir si privé qu’il ne peut pas se partager, ou qui n’existe guère que comme protestation. Il aide de laisser voir une part du jeu à des amis qui sauront l’apprécier, et de temps en temps d’achever l’une des choses que vous faites ensemble pour la montrer.
 

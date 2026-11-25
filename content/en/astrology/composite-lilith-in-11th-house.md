@@ -11,7 +11,7 @@ weight: 2263
 glyph: "⚸"
 definition: "Composite Lilith in the 11th house means a relationship chart’s Black Moon Lilith sits in the house of friendship, circles and plans for the future, which tradition called the Good Spirit. Astrologers read a pair that fits no crowd quite as expected, keeps its real hopes to itself, and won’t buy a place in any circle with silence."
 facts:
-  - { k: "Body", v: "Composite Lilith ⚸" }
+  - { k: "Body", v: "Composite Lilith ⚸, from your two natal mean Liliths" }
   - { k: "House", v: "The 11th house, of friends, groups and hopes" }
   - { k: "Type", v: "Succedent" }
   - { k: "Natural sign", v: "Aquarius" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/lilith-in-11th-house", "/astrology/11th-house", "/astrology/lilith-in-11th-house-synastry", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Lilith in the 11th house mean?"
-    a: "Friends, groups and hopes for the future are where this relationship keeps its untamed side. Astrologers read a pair that doesn’t slot into a crowd the way people expect, keeps its real ambitions for the world to itself, and refuses to belong anywhere at the price of keeping quiet. It describes the bond, not either person."
+    a: "The bond’s untamed side shows among friends and groups, and in its hopes for the future. Astrologers read a pair that doesn’t slot into a crowd the way people expect, keeps its real ambitions for the world to itself, and refuses to belong anywhere at the price of keeping quiet. It describes the bond, not either person."
   - q: "Does composite Lilith in the 11th house mean we will lose friends?"
     a: "No. No composite placement predicts who will stay in your life. This Lilith describes how the bond sits among friends and groups: a little apart, on its own terms, with hopes it may not share. Many pairs with it keep a small, loyal circle that suits them better than a crowd."
   - q: "Can moving house change our composite houses?"

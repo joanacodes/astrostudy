@@ -11,7 +11,7 @@ weight: 2254
 glyph: "⚸"
 definition: "Composite Lilith in the 2nd house is about worth: the relationship chart’s Black Moon Lilith falls in the house of what a pair owns, earns and values. Astrologers read a bond whose sense of its own value stays private, and which refuses to be bought, priced or paid in gratitude. It predicts nothing about money."
 facts:
-  - { k: "Body", v: "Composite Lilith ⚸" }
+  - { k: "Body", v: "Composite Lilith ⚸, from your two natal mean Liliths" }
   - { k: "House", v: "The 2nd house, of what the pair has and values" }
   - { k: "Type", v: "Succedent" }
   - { k: "Natural sign", v: "Taurus" }
@@ -28,13 +28,13 @@ sources:
   - { title: "Robert Hand, Planets in Composite (1975)", note: "the composite chart, its houses and how it is read" }
   - { title: "Vettius Valens, Anthology", note: "the 2nd house and what tradition gave it" }
 ---
-One couple splits every bill to the penny and gives lavishly to strangers; another shares everything and still refuses a parent's help with the deposit. From outside, neither makes sense. Behind both habits may sit composite Lilith in the 2nd house, where a relationship keeps its own scale of value and refuses to let anyone else put a price on it.
+One couple splits every bill to the penny and gives lavishly to strangers; another shares everything and still refuses a parent's help with the deposit. From outside, neither makes sense. Both habits fit composite Lilith in the 2nd house, where a relationship keeps its own scale of value and refuses to let anyone else put a price on it.
 
 ## What it says about the two of you {#what-it-says}
 
 Possessions, earnings, talents, and the private estimate of what one is worth: that is the ground of [the 2nd house](/astrology/2nd-house/), a succedent house whose natural sign is Taurus. [The composite chart](/astrology/composite-chart/), a chart for the relationship made of midpoints, uses it for what the pair holds in common and how highly it rates itself. When [Black Moon Lilith](/astrology/black-moon-lilith/), the point I read as hidden or untamed, falls here, those values go quiet or go their own way: a bond that won't be bought, won't be paid in gratitude, and keeps its real sense of its own worth to itself.
 
-Whatever each of you is like with money alone, the pair may handle it in a way neither family would recognise, and keep that way private. What it guards is less the money than the principle: whose gift comes with strings, what the relationship owes to whom, which things it will never sell. Outsiders who try to value the bond for it, by its income, its home or its prospects, tend to meet a polite, closed door.
+Whatever each of you is like with money alone, the pair may handle it in a way neither family would recognise, and keep that way private. What it guards is less the money than the principle: whose gift comes with strings, what the relationship owes to whom, which things it will never sell. Outsiders who try to put a value on the bond, by its income, its home or its prospects, tend to meet a polite, closed door.
 
 The house itself depends on choices a birth chart never asks for. Both birth times are needed, and one of two methods: the midpoints of your two charts' cusps, or houses built from the composite Midheaven for the place where you live. Inside either method sits a third choice, the house system. The cusp midpoints inherit whatever system each birth chart was drawn in, so the two must match; for birth charts I use Placidus ([which house system should I use?](/astrology/which-house-system-should-i-use/)). A Lilith near either cusp of the 2nd can move house when any of these changes ([what changes without a birth time](/blog/unknown-birth-time/)).
 

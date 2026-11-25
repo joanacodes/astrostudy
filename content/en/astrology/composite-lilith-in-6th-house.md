@@ -11,7 +11,7 @@ weight: 2258
 glyph: "⚸"
 definition: "Composite Lilith in the 6th house means the relationship chart’s Black Moon Lilith falls among chores, routines and work done day by day. Astrologers read a pair that runs its ordinary days its own way, at home or in a shared job, and declines to serve on anyone else’s terms. It never describes health or illness."
 facts:
-  - { k: "Body", v: "Composite Lilith ⚸" }
+  - { k: "Body", v: "Composite Lilith ⚸, from your two natal mean Liliths" }
   - { k: "House", v: "The 6th house, of daily work and routine" }
   - { k: "Type", v: "Cadent" }
   - { k: "Natural sign", v: "Virgo" }
@@ -39,8 +39,8 @@ This refusal can belong to the bond even when each of you is perfectly obliging 
 
 The time matters here in a way worth seeing clearly. Correcting a birth time by an hour leaves composite Lilith where it was, to within a few thousandths of a degree, but can move the composite house cusps by several degrees. So the point is settled by the birth dates, and the house by the birth times and the method, cusp midpoints or houses built from the composite Midheaven ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Tradition also tied the 6th to illness. I never read health from a chart, and a composite can't predict anyone's ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). Compared with its relatives, the placement is easy to place: [Lilith in the 6th house](/astrology/lilith-in-6th-house/) is one person's own way with ordinary things, [their Lilith in your 6th house](/astrology/lilith-in-6th-house-synastry/) brings someone else's refusal to serve into your routines, and this composite placement is the routine the two of you share. [Composite Lilith in the 5th house](/astrology/composite-lilith-in-5th-house/) keeps its pleasures private; [composite Lilith in the 7th house](/astrology/composite-lilith-in-7th-house/) refuses the usual terms of a partnership.
+Tradition also tied the 6th to illness. I never read health from a chart, and a composite can't predict anyone's ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). Its relatives are easy to tell apart: [Lilith in the 6th house](/astrology/lilith-in-6th-house/) is one person's own way with ordinary things, [their Lilith in your 6th house](/astrology/lilith-in-6th-house-synastry/) brings someone else's refusal to serve into your routines, and this composite placement is the routine the two of you share. [Composite Lilith in the 5th house](/astrology/composite-lilith-in-5th-house/) keeps its pleasures private; [composite Lilith in the 7th house](/astrology/composite-lilith-in-7th-house/) refuses the usual terms of a partnership.
 
-The hard part is the silent ledger of chores. It helps to say aloud who does what, to change it when life changes, and to protect the odd routines that work, however strange they look from outside.
+Trouble, when it comes, is the silent ledger of chores. It helps to say aloud who does what, to change it when life changes, and to protect the odd routines that work, however strange they look from outside.
 
 I describe composites without drawing them in my readings; their users read this Lilith with both birth charts and the [synastry](/astrology/synastry/), and it foretells nothing about work or health. A chart that looks this closely at two people's days is for two people who both said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

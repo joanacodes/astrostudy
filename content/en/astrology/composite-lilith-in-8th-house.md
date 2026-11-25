@@ -11,7 +11,7 @@ weight: 2260
 glyph: "⚸"
 definition: "Composite Lilith in the 8th house sets a relationship chart’s Black Moon Lilith where trust is tested and things are pooled or owed. Astrologers read a bond that guards its confidences and refuses to let love, money or need turn into possession of either person. It predicts no death, no inheritance and no debt."
 facts:
-  - { k: "Body", v: "Composite Lilith ⚸" }
+  - { k: "Body", v: "Composite Lilith ⚸, from your two natal mean Liliths" }
   - { k: "House", v: "The 8th house, of trust and what is shared" }
   - { k: "Type", v: "Succedent" }
   - { k: "Natural sign", v: "Scorpio" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/composite-chart", "/astrology/lilith-in-8th-house", "/astrology/8th-house", "/astrology/can-astrology-predict-death", "/blog/unknown-birth-time"]
 faq:
   - q: "What does composite Lilith in the 8th house mean?"
-    a: "Intimacy, trust and what two people pool or owe: that is where this relationship keeps its untamed side. Astrologers read a bond with confidences it keeps fiercely, a closeness on its own terms, and a refusal to let love, money or need become ownership of either person. It describes the bond and predicts nothing."
+    a: "Intimacy, trust and what two people pool or owe hold the bond’s untamed side. Astrologers read a bond with confidences it keeps fiercely, a closeness on its own terms, and a refusal to let love, money or need become ownership of either person. It describes the bond and predicts nothing."
   - q: "Is composite Lilith in the 8th house about sex?"
     a: "Not mainly. The 8th describes intimacy in the widest sense: trust, confidences, what is shared and what is owed. Desire can be part of any close bond, but this Lilith is read first as a pair that guards its closeness and refuses possession, and it fits a deep friendship as well as a couple."
   - q: "What if one of our birth times was rounded to the hour?"
@@ -40,6 +40,6 @@ A birth time rounded to the hour, on a record or in family memory, can be half a
 
 The 8th never predicts a death, an inheritance or a debt, in a composite or anywhere else ([can astrology predict death?](/astrology/can-astrology-predict-death/)). Someone born with [Lilith in the 8th house](/astrology/lilith-in-8th-house/) stays their own inside the closest bonds; someone whose Lilith falls in a partner's 8th ([their Lilith in your 8th house](/astrology/lilith-in-8th-house-synastry/)) makes half-truths stop working. The composite placement is neither person's: it is the depth the bond guards. Its neighbours are [composite Lilith in the 7th house](/astrology/composite-lilith-in-7th-house/), which sets its own terms as a partnership, and [composite Lilith in the 9th house](/astrology/composite-lilith-in-9th-house/), which refuses borrowed beliefs.
 
-The hard part is that guarding can tip into control: secrets kept from each other in the name of privacy, or shared resources run by whoever cares more. It helps to say plainly what is pooled and what each of you keeps, to honour each other's confidences as fiercely as the pair's, and to keep the money conversations ordinary.
+Guarding can tip into control: secrets kept from each other in the name of privacy, or shared resources run by whoever cares more. It helps to say plainly what is pooled and what each of you keeps, to honour each other's confidences as fiercely as the pair's, and to keep the money conversations ordinary.
 
 Composites stay outside my readings; the astrologers who draw them read this Lilith with both birth charts and the [synastry](/astrology/synastry/). Because it touches the most private part of two lives, it should be looked at only when both people want it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

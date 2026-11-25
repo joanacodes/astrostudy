@@ -11,7 +11,7 @@ weight: 2255
 glyph: "⚸"
 definition: "Composite Lilith in the 3rd house means the Black Moon Lilith of a relationship chart lies in the house of everyday exchange, the Goddess of tradition: talk, messages, errands, siblings, neighbours. Astrologers read a pair whose daily conversation keeps its own counsel, frank in private and guarded on the doorstep, repeating nothing it hasn’t checked."
 facts:
-  - { k: "Body", v: "Composite Lilith ⚸" }
+  - { k: "Body", v: "Composite Lilith ⚸, from your two natal mean Liliths" }
   - { k: "House", v: "The 3rd house, of daily talk and the near world" }
   - { k: "Type", v: "Cadent" }
   - { k: "Natural sign", v: "Gemini" }

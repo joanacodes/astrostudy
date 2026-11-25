@@ -11,7 +11,7 @@ weight: 2257
 glyph: "⚸"
 definition: "Composite Lilith in the 5th house places a relationship’s untamed side in its pleasures: the chart’s Black Moon Lilith falls in the house of play, creativity and romance. Astrologers read a joy that refuses to be polite or explained, from private games to an unconventional romance and work never shown. It never predicts children."
 facts:
-  - { k: "Body", v: "Composite Lilith ⚸" }
+  - { k: "Body", v: "Composite Lilith ⚸, from your two natal mean Liliths" }
   - { k: "House", v: "The 5th house, of play, pleasure and romance" }
   - { k: "Type", v: "Succedent" }
   - { k: "Natural sign", v: "Leo" }

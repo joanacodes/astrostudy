@@ -11,7 +11,7 @@ weight: 2253
 glyph: "⚸"
 definition: "Composite Lilith in the 1st house means a relationship chart’s Black Moon Lilith, averaged from two birth charts, falls in the house of how the bond looks and comes across, just after the composite Ascendant. Astrologers read a pair whose untamed side shows on its surface, and which won’t present itself as others expect."
 facts:
-  - { k: "Body", v: "Composite Lilith ⚸" }
+  - { k: "Body", v: "Composite Lilith ⚸, from your two natal mean Liliths" }
   - { k: "House", v: "The 1st house, which begins at the composite Ascendant" }
   - { k: "Type", v: "Angular" }
   - { k: "Natural sign", v: "Aries" }

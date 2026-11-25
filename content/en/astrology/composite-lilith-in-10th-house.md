@@ -11,7 +11,7 @@ weight: 2262
 glyph: "⚸"
 definition: "Composite Lilith in the 10th house is the relationship chart’s Black Moon Lilith in its most public house, the one that opens at the composite Midheaven. Astrologers read a pair that won’t be the couple the world expects, in its work, its standing or its reputation, and does in public what it does in its own way."
 facts:
-  - { k: "Body", v: "Composite Lilith ⚸" }
+  - { k: "Body", v: "Composite Lilith ⚸, from your two natal mean Liliths" }
   - { k: "House", v: "The 10th house, which begins at the composite Midheaven" }
   - { k: "Type", v: "Angular" }
   - { k: "Natural sign", v: "Capricorn" }

@@ -11,7 +11,7 @@ weight: 2259
 glyph: "⚸"
 definition: "Composite Lilith in the 7th house is the Black Moon Lilith of a relationship chart in the house of the people across the table, where the composite Descendant sits. Astrologers read a partnership that writes its own terms instead of borrowing a template, and meets other people’s rules with its own. It predicts no wedding, affair or parting."
 facts:
-  - { k: "Body", v: "Composite Lilith ⚸" }
+  - { k: "Body", v: "Composite Lilith ⚸, from your two natal mean Liliths" }
   - { k: "House", v: "The 7th house, which begins at the composite Descendant" }
   - { k: "Type", v: "Angular" }
   - { k: "Natural sign", v: "Libra" }
@@ -40,6 +40,6 @@ The Descendant is simply the composite Ascendant's opposite point, so it carries
 
 The 7th is where natal Lilith is most often met in other people: [Lilith in the 7th house](/astrology/lilith-in-7th-house/) describes a hidden part a person tends to find first in a partner, and [their Lilith in your 7th house](/astrology/lilith-in-7th-house-synastry/) brings the other's untamed side into what partnership means to you. The composite version cuts out the go-between: the refusal belongs to the partnership itself. [Composite Lilith in the 6th house](/astrology/composite-lilith-in-6th-house/) keeps its rebellion in the daily round, [composite Lilith in the 8th house](/astrology/composite-lilith-in-8th-house/) takes it into trust and what is shared.
 
-The hard part is defining the bond against others. A pair with this Lilith can come to need an opponent, a disapproving parent, a conventional couple, a rival, to know what it is, or can refuse every agreement on principle, including the ones it needs. It helps to write your own terms down together, revisit them when life changes, and let other partnerships be different without casting them as the enemy.
+What goes wrong, when it does, is defining the bond against others. A pair with this Lilith can come to need an opponent, a disapproving parent, a conventional couple, a rival, to know what it is, or can refuse every agreement on principle, including the ones it needs. It helps to write your own terms down together, revisit them when life changes, and let other partnerships be different without casting them as the enemy.
 
 Composites are a technique I explain here rather than use; the astrologers who use it read this Lilith with both natal charts and the [synastry](/astrology/synastry/). It predicts no wedding, no affair and no parting. And a chart of a partnership's private terms should be looked at only with both partners' knowledge ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

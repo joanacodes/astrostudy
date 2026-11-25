@@ -11,7 +11,7 @@ weight: 2261
 glyph: "⚸"
 definition: "Composite Lilith in the 9th house means the relationship chart’s Black Moon Lilith lies in the house of belief and distance, called the God in older astrology. Astrologers read a pair with convictions of its own, often kept from both families, which refuses any creed handed down to it, religious or otherwise."
 facts:
-  - { k: "Body", v: "Composite Lilith ⚸" }
+  - { k: "Body", v: "Composite Lilith ⚸, from your two natal mean Liliths" }
   - { k: "House", v: "The 9th house, of belief, study and long journeys" }
   - { k: "Type", v: "Cadent" }
   - { k: "Natural sign", v: "Sagittarius" }
