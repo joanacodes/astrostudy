@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 3", "maison 10", "maîtres des maisons"]
 weight: 2322
 glyph: "✦"
-definition: "Le maître de la maison 3 en maison 10, c’est la planète qui gouverne votre maison 3, celle des mots, de l’apprentissage et de la fratrie, placée dans votre maison 10, celle de la carrière et de la vie publique. Votre esprit de tous les jours se montre. J’y lis une vie de travail bâtie sur la communication."
+definition: "Le maître de la maison 3 en maison 10, c’est la planète qui gouverne votre maison 3, celle des mots, des savoir-faire et des proches, placée dans votre maison 10, celle de la carrière et de la vie publique. Votre esprit de tous les jours se montre. J’y lis une vie de travail bâtie sur la communication."
 facts:
   - { k: "Maître de", v: "La maison 3 : les mots du quotidien, l’apprentissage, la fratrie, les voisins" }
   - { k: "Placé en", v: "Maison 10 : la carrière, la position, la vie publique" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/3rd-house", "/astrology/10th-house", "/astrology/house-rulers", "/astrology/midheaven", "/astrology/angularity"]
 faq:
   - q: "Que veut dire le maître de la maison 3 en maison 10 ?"
-    a: "La planète qui gouverne votre maison 3, celle de la parole et de l’apprentissage, se trouve dans votre maison 10, celle de la carrière et de la position sociale. La communication fait partie de votre travail et de ce pour quoi on vous connaît : écrire, enseigner, parler, vendre, mettre les gens en relation. J’y lis une voix publique."
+    a: "La planète chargée de votre maison 3, celle de la parole et de l’apprentissage, se tient en maison 10, celle de la carrière et de la position sociale. La communication fait partie de votre travail et de ce pour quoi on vous connaît : écrire, enseigner, parler, vendre, mettre les gens en relation. J’y lis une voix publique."
   - q: "Quels métiers conviennent au maître de la maison 3 en maison 10 ?"
     a: "Le travail qui vit de mots et d’informations en est le point de rencontre naturel : journalisme, enseignement, vente, médias, édition, transport, administration, tout ce qui relie les gens. Mais un thème ne choisit pas un métier. Ce placement montre une direction, la place de la communication dans votre vie de travail, et la planète en donne le style."
   - q: "Le maître de la maison 3 en maison 10 mêle-t-il ma fratrie à ma carrière ?"
@@ -32,9 +32,9 @@ Avec le maître de la maison 3 en maison 10, votre façon de parler devient une 
 
 ## Ce que ça veut dire {#ce-que-ca-veut-dire}
 
-La [maison 3](/astrology/3rd-house/) est celle des mots de tous les jours, de l’apprentissage, des courses et des proches ; son maître, la planète du signe de sa cuspide, montre où tout cela se met au travail ([maîtres des maisons](/astrology/house-rulers/)). En [maison 10](/astrology/10th-house/), la plus visible des maisons angulaires, cela se met au travail en public : votre carrière, votre position, la direction que les autres voient.
+La [maison 3](/astrology/3rd-house/) est celle de la petite communication quotidienne : les courses, les messages, les leçons, les proches. Son maître ([maîtres des maisons](/astrology/house-rulers/)) porte tout cela jusqu’en [maison 10](/astrology/10th-house/), la plus visible des maisons angulaires : votre carrière, votre position, la direction que les autres voient.
 
-La communication fait donc souvent partie du métier, ou en est le métier lui-même. Écrire, enseigner, parler, vendre, traduire, éditer, diffuser, coordonner : tout travail où l’information doit passer d’une personne à une autre est un terrain naturel. Même dans d’autres métiers, c’est peut-être vous qui rédigez le rapport, menez la réunion ou expliquez le changement à tout le monde. Une réputation se forme autour de vos mots, ce qui est un don et une responsabilité : une phrase lancée à la légère va plus loin chez vous que chez la plupart des gens.
+La communication fait donc souvent partie du métier, ou en est le métier lui-même. Écrire, enseigner, parler, vendre, traduire, éditer, diffuser, coordonner : tout travail où l’information doit passer d’une personne à une autre est un terrain naturel. Même dans d’autres métiers, c’est peut-être vous qui rédigez le rapport, menez la réunion ou expliquez le changement à tout le monde. Une réputation se forme autour de vos mots, ce qui est un don et une responsabilité : une phrase lancée à la légère va plus loin chez vous que chez la plupart des gens. La maison 10 est aussi celle de l’autorité : vous finissez peut-être par expliquer les règles aux autres, ou par les remettre en question à voix haute.
 
 En Placidus, le système de maisons que j’utilise, la maison 10 commence au [Milieu du Ciel](/astrology/midheaven/), et une planète qui s’y trouve montait vers le haut du ciel à votre naissance, à l’est du méridien. Le maître d’une maison cadente, parmi les plus discrètes, est porté dans la maison où les choses se voient ([angularité](/astrology/angularity/)) : des savoir-faire ordinaires, le don d’expliquer, l’aisance au téléphone ou sur la page, deviennent des atouts publics.
 
@@ -42,6 +42,6 @@ L’apprentissage suit le même chemin. Vous apprenez peut-être surtout sur le 
 
 Les personnes de la maison 3 peuvent vous suivre dans la vie publique : un frère ou une sœur dans le même domaine, une affaire familiale menée en fratrie, un nom fait d’abord dans le quartier avant de voyager. C’est la place de ces liens dans votre vie de travail telle que vous la vivez, jamais une prédiction pour la leur.
 
-Avec le Verseau sur la cuspide de la maison 3, Saturne et Uranus la partagent, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)) : Uranus en maison 10 peut faire de la vôtre la voix publique inattendue, celle qui dit la chose nouvelle en premier, tandis que Saturne, depuis sa propre maison, garde le métier des mots.
+Les Poissons sur la cuspide de la maison 3 lui donnent à la fois Jupiter et Neptune, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)) : Jupiter en maison 10 peut faire de l’enseignement, de l’édition ou du conseil une vocation publique, tandis que Neptune prête son imagination à votre voix depuis une autre maison.
 
 Ses voisines racontent autre chose avec le même maître : en maison 9, les études et les convictions ([Maître de la maison 3 en maison 9](/astrology/3rd-house-ruler-in-9th-house/)) ; en maison 11, les amis et les réseaux ([Maître de la maison 3 en maison 11](/astrology/3rd-house-ruler-in-11th-house/)). Laquelle est la vôtre dépend du degré du Milieu du Ciel, qui tourne avec l’horloge ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).

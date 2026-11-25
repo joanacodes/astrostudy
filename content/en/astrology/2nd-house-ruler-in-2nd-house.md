@@ -5,6 +5,8 @@ description: "Ruler of the 2nd in the 2nd house: the planet of your money and se
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["2nd house", "house rulers"]
 weight: 2302
 glyph: "✦"
 definition: "The ruler of the 2nd in the 2nd house is the planet of your 2nd house cusp standing in the house it rules, the house of money, belongings and self-worth. Your resources are governed from inside: you tend to build them up slowly and keep them in your own hands. I read it as self-sufficiency, never as wealth."
@@ -36,9 +38,9 @@ What you have tends to build on what you had. You keep things, mend them, add to
 
 Its sign shows how comfortable it is. If the ruler stands in the sign on the 2nd cusp, it's also in its own sign, its [domicile](/astrology/domicile/): Venus in Taurus, with Taurus on the cusp, is the planet the natural zodiac pairs with the 2nd, in the 2nd's own sign, in the 2nd. Saturn in Capricorn there builds savings like a wall, one course at a time. If the house runs on into the next sign, the ruler may sit somewhere less easy: Mars, ruling an Aries 2nd from Taurus, the sign of its detriment, has to earn at a slower pace than it likes.
 
-Horary astrology, as William Lilly practised it, gave the 2nd the questioner's money and moveable possessions, the things you can carry, sell or spend, and read their state through the 2nd's ruler. With that ruler at home, I read your resources as being in your own keeping: you tend to manage them yourself, and to want them within reach.
+[Horary astrology](/astrology/horary-astrology/), as William Lilly practised it, gave the 2nd the questioner's money and moveable possessions, the things you can carry, sell or spend, and read their state through the 2nd's ruler. With that ruler at home, I read your resources as being in your own keeping: you tend to manage them yourself, and to want them within reach.
 
-In Placidus, the house system I use, the 2nd lies below the eastern horizon, and its ruler was still a few hours from rising when you were born. The 2nd cusp itself comes from the birth time ([what changes without a birth time](/blog/unknown-birth-time/)), and near either edge a few minutes can carry the ruler across: back into the 1st, where your worth would ride on your own effort and presence ([Ruler of the 2nd in the 1st house](/astrology/2nd-house-ruler-in-1st-house/)), or on into the 3rd, where money moves through words, lessons and trade ([Ruler of the 2nd in the 3rd house](/astrology/2nd-house-ruler-in-3rd-house/)).
+The planet in charge of your money was still under the eastern horizon at your birth, a few hours from rising, which is where Placidus, the house system I use, puts the 2nd. The 2nd cusp itself comes from the birth time ([what changes without a birth time](/blog/unknown-birth-time/)), and near either edge a few minutes can carry the ruler across: back into the 1st, where your worth would ride on your own effort and presence ([Ruler of the 2nd in the 1st house](/astrology/2nd-house-ruler-in-1st-house/)), or on into the 3rd, where money moves through words, lessons and trade ([Ruler of the 2nd in the 3rd house](/astrology/2nd-house-ruler-in-3rd-house/)).
 
 With Pisces on the 2nd cusp, Jupiter and Neptune rule it together, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): Jupiter in the 2nd gives freely and keeps a hopeful view of what's enough, while Neptune, from its own house, keeps asking what money is for.
 

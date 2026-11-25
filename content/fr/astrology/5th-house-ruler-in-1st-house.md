@@ -2,7 +2,7 @@
 title: "Maître de la maison 5 en maison 1"
 slug: "maitre-maison-5-en-maison-1"
 h1: "Maître de la maison 5 en maison 1 dans un thème natal"
-description: "Maître de la maison 5 en maison 1 : la planète de vos plaisirs dans la maison du moi. Une créativité qui se voit, et pourquoi ce n’est pas de la vanité."
+description: "Maître de la maison 5 en maison 1 : vos plaisirs se lisent sur votre visage. Une créativité qui se voit, et pourquoi ce n’est pas de la vanité."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -10,7 +10,7 @@ categories: ["Placements"]
 tags: ["maison 5", "maison 1", "maîtres des maisons"]
 weight: 2337
 glyph: "✦"
-definition: "Le maître de la maison 5 en maison 1, c’est la planète qui gouverne votre maison de la créativité, du plaisir et des amours, placée dans votre maison 1, celle du corps et de l’allure. Ce que vous faites par plaisir entre dans la façon dont on vous rencontre. J’y lis un plaisir visible, jamais de la vanité."
+definition: "Le maître de la maison 5 en maison 1 place la planète de votre créativité, de vos plaisirs et de vos amours dans la maison du corps et de l’allure, juste sous l’ascendant. Ce que vous faites par plaisir se voit dès la rencontre. J’y lis un plaisir visible, jamais de la vanité."
 facts:
   - { k: "Maître de", v: "La maison 5 : la créativité, le plaisir, les amours" }
   - { k: "Placé en", v: "Maison 1 : le corps, l’allure, la première impression" }
@@ -39,10 +39,10 @@ J’y lis un plaisir que l’on porte sur soi. On reconnaît souvent les personn
 
 Dans l’ancien compte par signe, la maison 5 regarde la maison 1 par trigone, le plus harmonieux des aspects que connaissait la tradition : les deux maisons se parlent d’emblée. J’y vois un passage facile entre ce qui vous plaît et qui vous êtes. La maison 1 est en outre angulaire, et William Lilly écrivait que les planètes dans les angles montrent leurs effets avec plus de force ([maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/)) : la planète de vos plaisirs y occupe le premier rang.
 
-La planète donne le ton. Avec les Gémeaux ou la Vierge sur la cuspide de la maison 5, Mercure gouverne cette maison, et en maison 1 Mercure est dans sa joie ([joies des planètes](/astrology/planetary-joys/)) : l’esprit et les jeux de mots deviennent votre façon de jouer. Vénus, maîtresse d’une maison 5 en Taureau ou en Balance, prête depuis la maison 1 un charme que l’on remarque aussitôt. Saturne, qui gouverne une maison 5 en Capricorne, donne parfois une allure grave, jusqu’à ce que quelqu’un découvre ce que vous avez fabriqué.
+La planète donne le ton. Si les Gémeaux ou la Vierge ouvrent la maison 5, Mercure la gouverne, et en maison 1 Mercure est dans sa joie ([joies des planètes](/astrology/planetary-joys/)) : l’esprit et les jeux de mots deviennent votre façon de jouer. Vénus, maîtresse d’une maison 5 en Taureau ou en Balance, prête depuis la maison 1 un charme que l’on remarque aussitôt. Saturne, qui gouverne une maison 5 en Capricorne, donne parfois une allure grave, jusqu’à ce que quelqu’un découvre ce que vous avez fabriqué.
 
-Le [Scorpion sur la cuspide de la maison 5](/astrology/scorpio-on-5th-house-cusp/) confie la maison à Mars autant qu’à Pluton ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)), et ces deux maîtres comptent dans ma lecture. Mars en maison 1 fait entrer le sport, les jeux où l’on joue pour gagner et les plaisirs physiques dans votre façon de vous tenir, tandis que Pluton, de la maison qu’occupe cette planète, raconte une histoire plus lente et plus profonde sur ce que vous créez et sur les personnes que vous aimez.
+Le sport, les jeux où l’on joue pour gagner et les plaisirs physiques entrent dans votre façon de vous tenir quand le maître en maison 1 est Mars, ce qui arrive avec le [Scorpion sur la cuspide de la maison 5](/astrology/scorpio-on-5th-house-cusp/). Le Scorpion répond aussi à Pluton ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)), et ces deux maîtres comptent dans ma lecture : de la maison qu’occupe cette planète, Pluton raconte une histoire plus lente et plus profonde sur ce que vous créez et sur les personnes que vous aimez.
 
 Ce placement dépend de la minute de votre naissance. La maison 1 commence à l’ascendant, qui avance d’environ un degré toutes les quatre minutes, et un maître proche de lui peut changer de maison pour une petite correction. Avec une heure un peu plus tardive, ce maître aurait déjà franchi l’horizon pour passer en maison 12, où ce que vous créez tend à rester privé ([Maître de la maison 5 en maison 12](/astrology/5th-house-ruler-in-12th-house/)). À l’inverse, s’il se trouve au fond de la maison 1, quelques minutes plus tôt l’auraient laissé en maison 2, où le plaisir se tourne vers ce qu’il peut rapporter ([Maître de la maison 5 en maison 2](/astrology/5th-house-ruler-in-2nd-house/)). En Placidus, le système de maisons que j’utilise, chaque cuspide vient de l’heure : je la vérifie avant de bâtir quoi que ce soit sur ce placement ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-La tradition rangeait aussi les enfants dans cette maison, et vous ne trouverez ici aucune prévision à leur sujet. Savoir si un enfant viendra, et quand, dépasse ce qu’un thème peut dire ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et [le thème des enfants](/astrology/childrens-charts/) fait partie de ce que je ne lis pas du tout. Ce que je lis, c’est votre propre créativité, au grand jour, et le plaisir d’être la personne qui a fait la chose.
+La tradition rangeait aussi les enfants dans cette maison, et vous ne trouverez ici aucune prévision à leur sujet. Savoir si un enfant viendra, et quand, dépasse ce qu’un thème peut dire ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)) ; quant au [thème des enfants](/astrology/childrens-charts/), il fait partie de ce que je ne lis pas du tout. Ce que je lis, c’est votre propre créativité, au grand jour, et le plaisir d’être la personne qui a fait la chose.

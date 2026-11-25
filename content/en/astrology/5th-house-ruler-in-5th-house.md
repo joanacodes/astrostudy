@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["5th house", "house rulers"]
 weight: 2341
 glyph: "✦"
-definition: "A 5th house ruler in the 5th house is a planet standing in the house it rules: whatever sign opens your 5th, its ruler stays among creativity, pleasure and romance. Joy needs no other part of life to justify it. I read it as delight for its own sake, never as self-indulgence."
+definition: "A 5th house ruler in the 5th house is a planet standing in the house it rules: whatever sign opens your 5th, its ruler stays among creativity, pleasure and romance. Joy needs no other part of life to justify it. Delight for its own sake isn’t self-indulgence."
 facts:
   - { k: "Ruler of", v: "The 5th house: creativity, pleasure, romance" }
   - { k: "Placed in", v: "The 5th house itself" }
@@ -40,8 +40,8 @@ If Taurus or Libra is on the cusp, the ruler is Venus, and [Venus in the 5th hou
 
 The pleasure is younger than the house. The 5th has signified children for thousands of years, and Joseph Crane notes that, for all Venus's joy there, pleasures and sensual enjoyments were not stressed until after the Hellenistic astrologers. Creativity, the meaning I lean on most, is a modern addition. A placement this concentrated is a good place to remember that a house's meanings have a history.
 
-With [Pisces on the 5th house cusp](/astrology/pisces-on-5th-house-cusp/), Jupiter and Neptune share the house ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)), and I read both. When one sits in the 5th and the other elsewhere, your pleasures have a home and a destination: Jupiter in the 5th keeps the fun generous and close at hand, while Neptune carries the dreamier side of it into another part of your life.
+A Pisces cusp gives the 5th two rulers ([Pisces on the 5th house cusp](/astrology/pisces-on-5th-house-cusp/)), Jupiter and Neptune ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)), and they don't always both stay home. When Jupiter is the one inside, the fun is generous and close at hand, while Neptune, out in another house, carries the dreamier side of your pleasures somewhere else: a home and a destination. Both have a say in my reading.
 
-The 5th lies below the western horizon, and its edges move with the clock like every cusp. With a later birth, a ruler near the start of the 5th would fall back into the 4th, where pleasure goes indoors ([Ruler of the 5th in the 4th house](/astrology/5th-house-ruler-in-4th-house/)). With an earlier one, a ruler near its end would sit in the 6th, where play becomes daily practice ([Ruler of the 5th in the 6th house](/astrology/5th-house-ruler-in-6th-house/)). Only the time decides which ([what changes without a birth time](/blog/unknown-birth-time/)).
+Two neighbours flank the 5th, below the western horizon, and a ruler near either cusp could belong to them with a small change of time: the 4th, where pleasure would go indoors ([Ruler of the 5th in the 4th house](/astrology/5th-house-ruler-in-4th-house/)), and the 6th, where play would become daily practice ([Ruler of the 5th in the 6th house](/astrology/5th-house-ruler-in-6th-house/)). Only the time decides ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 That a house of children keeps its own ruler can look like a promise of them. It isn't one. Whether a child will come lies outside what a chart can see ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I keep away from [children's charts](/astrology/childrens-charts/) altogether. This placement is about your own capacity for joy, and the permission it gives you to enjoy things simply because you do.

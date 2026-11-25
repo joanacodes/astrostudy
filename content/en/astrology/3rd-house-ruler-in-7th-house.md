@@ -9,7 +9,7 @@ categories: ["Placements"]
 tags: ["3rd house", "7th house", "house rulers"]
 weight: 2319
 glyph: "✦"
-definition: "The ruler of the 3rd in the 7th house means the planet ruling your 3rd house, the house of words, learning and siblings, sits in your 7th, the house of partners and one-to-one bonds. Your mind works best in conversation with another. I read it as thinking done in dialogue, and agreements that matter."
+definition: "The ruler of the 3rd in the 7th house means the planet ruling your 3rd house, the house of conversation, letters and siblings, sits in your 7th, the house of partners and one-to-one bonds. Your mind works best in conversation with another. I read it as thinking done in dialogue, and agreements that matter."
 facts:
   - { k: "Ruler of", v: "The 3rd house: everyday words, learning, siblings, neighbours" }
   - { k: "Placed in", v: "The 7th house: partners, one-to-one bonds, agreements" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/3rd-house", "/astrology/7th-house", "/astrology/house-rulers", "/astrology/descendant", "/astrology/horary-astrology"]
 faq:
   - q: "What does the 3rd house ruler in the 7th house mean?"
-    a: "The planet ruling your 3rd house of talk and learning sits in your 7th, the house of partners and close one-to-one bonds. You tend to think best out loud with someone across the table, and partnerships run on conversation. Agreements, contracts and negotiation often take up a large part of your adult life."
+    a: "It puts the ruler of your 3rd house, talk and learning, in the 7th, the house of partners and close one-to-one bonds. You tend to think best out loud with someone across the table, and partnerships run on conversation. Agreements, contracts and negotiation often take up a large part of your adult life."
   - q: "Will I meet my partner through siblings or neighbours with the 3rd house ruler in the 7th?"
     a: "No chart can say whom you’ll meet or how. The placement links the people close by with the house of partners, and for some a partner does come through that circle, but I read it as a quality, not a forecast: a partner tends to be someone you can talk with as an equal."
   - q: "Is the ruler of the 3rd in the 7th good for communication in relationships?"
@@ -31,7 +31,7 @@ With the ruler of the 3rd in the 7th house, your thinking needs a second voice. 
 
 ## What it means {#what-it-means}
 
-[The 3rd house](/astrology/3rd-house/) is the everyday mind: talk, letters and messages, learning, the people close at hand. Its ruler, the planet of the sign on its cusp, shows where that mind gets used ([house rulers](/astrology/house-rulers/)). In [the 7th house](/astrology/7th-house/), it gets used with someone: a spouse or long-term partner, a business associate, a close collaborator, even an open rival.
+[The 3rd house](/astrology/3rd-house/) covers the words you exchange every day, in talk, letters and messages, and the people close at hand who hear most of them. Its ruler, the planet of the sign on that cusp ([house rulers](/astrology/house-rulers/)), sits here in [the 7th house](/astrology/7th-house/), so the whole of that everyday mind is spent with someone: a spouse or long-term partner, a business associate, a close collaborator, even an open rival.
 
 So I read it as thinking done in dialogue. You may not know what you think until you've said it to someone who answers back; a good sparring partner sharpens you more than an afternoon alone with a book. In love, being able to talk isn't a bonus but the ground a bond stands on. At work, it often shows as a gift for negotiation, mediation or any job where two sides have to understand each other. The risk is borrowing other people's opinions, or waiting for a partner's reply before trusting your own.
 
@@ -41,6 +41,6 @@ The 7th is angular and begins at the [Descendant](/astrology/descendant/), the p
 
 Siblings and neighbours can be part of the story too. A brother or sister may have been your first sparring partner, the one who taught you to argue fairly; a partner may slip easily into the sibling circle, or a sibling may become a business partner. That's how those ties feel and work for you; nobody's choices are written in your chart.
 
-The planet sets the tone. Venus, ruling a Taurus or Libra 3rd from the 7th, sits in the house of its own natural sign: words used to keep the peace, and a taste for partners with good manners. Mercury, ruling Gemini or Virgo on the cusp, likes to argue both sides. With Scorpio, Aquarius or Pisces on the 3rd cusp there are two rulers, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): under Pisces, Jupiter in the 7th can make a partner your best teacher, while Neptune, from its own house, keeps a poetic thread apart.
+Venus, ruling a Taurus or Libra 3rd from the 7th, sits in the house of its own natural sign: words used to keep the peace, and a taste for partners with good manners. Mercury, ruling Gemini or Virgo on the cusp, likes to argue both sides. Jupiter shares a Pisces 3rd cusp with Neptune, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)): in the 7th, Jupiter can make a partner your best teacher, while Neptune keeps a poetic thread of its own somewhere else in the chart.
 
 Had the ruler already set at your birth, it would sit in the 6th, and your words would serve the working day ([Ruler of the 3rd in the 6th house](/astrology/3rd-house-ruler-in-6th-house/)); a little higher in the western sky, in the 8th, they'd turn to research and the conversations people rarely have ([Ruler of the 3rd in the 8th house](/astrology/3rd-house-ruler-in-8th-house/)). That can be a matter of minutes, which is why the birth time comes before any reading ([what changes without a birth time](/blog/unknown-birth-time/)).

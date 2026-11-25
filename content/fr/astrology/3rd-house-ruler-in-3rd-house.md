@@ -2,7 +2,7 @@
 title: "Maître de la maison 3 en maison 3"
 slug: "maitre-maison-3-en-maison-3"
 h1: "Maître de la maison 3 en maison 3 dans un thème natal"
-description: "Maître de la maison 3 en maison 3 : la planète de votre esprit quotidien chez elle, dans sa propre maison. Parole, apprentissage, fratrie, voisinage."
+description: "Maître de la maison 3 en maison 3 : la parole, l’apprentissage, la fratrie et le voisinage règlent leurs propres affaires. Un esprit qui connaît son coin."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/3rd-house", "/astrology/house-rulers", "/astrology/planetary-joys", "/astrology/moon", "/astrology/domicile"]
 faq:
   - q: "Que veut dire le maître de la maison 3 en maison 3 ?"
-    a: "La planète qui gouverne votre maison 3 se trouve dans cette maison : la maison de la parole, de l’apprentissage, de la fratrie et des voisins règle elle-même ses affaires. Votre esprit s’occupe volontiers de ce qui est proche : la vie locale, les échanges du jour, la prochaine chose à comprendre. Son signe dit si ce maître y est à l’aise."
+    a: "La planète qui gouverne votre maison 3 se trouve dans cette maison : la maison de la parole, de l’apprentissage, de la fratrie et des voisins règle elle-même ses affaires. Votre esprit s’occupe volontiers de ce qui est proche : la vie locale, les échanges du jour, la prochaine chose à comprendre. Le reste dépend de son signe."
   - q: "La Lune, maîtresse de la maison 3 en maison 3, est-elle dans sa joie ?"
     a: "Oui. Avec le Cancer sur la cuspide de la maison 3, la Lune gouverne cette maison, et la maison 3 est celle que la tradition donnait à la Lune comme joie. J’y lis un esprit qui apaise ses émotions en les disant, et que les allées et venues ordinaires de la semaine rassurent."
   - q: "Le maître de la maison 3 en maison 3 veut-il dire que je suis proche de ma fratrie ?"
@@ -41,7 +41,7 @@ Cela peut être une vraie force. Vous apprenez volontiers de ce qui vous entoure
 
 Sauf si la cuspide tombe tard dans son signe, une bonne partie de la maison 3 se trouve dans le signe que gouverne son maître : celui-ci est donc souvent chez lui par le signe aussi ([domicile](/astrology/domicile/)). Vénus en Balance, maîtresse d’une maison 3 en Balance et logée à l’intérieur, est deux fois à l’aise, par la maison et par le signe : une pensée courtoise et sociable. Avec les Gémeaux ou la Vierge sur la cuspide, le maître est Mercure, le maître naturel de la maison 3, et la maison parle de sa propre voix. Avec le Cancer, la [Lune](/astrology/moon/) gouverne la maison 3 et s’y trouve dans sa joie, la maison que lui donnaient les anciens astrologues ([joies des planètes](/astrology/planetary-joys/)) : les émotions se démêlent en parlant, et les petites courses de la semaine réconfortent.
 
-Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, la maison 3 a deux maîtres, un traditionnel et un moderne, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Il est rare que les deux soient à l’intérieur. Le plus souvent, l’un reste et l’autre emporte une part des affaires de la maison 3 : avec le Verseau, Saturne en maison 3 peut garder votre pensée prudente et terre à terre, pendant qu’Uranus, depuis une autre maison, fournit les idées soudaines.
+Le Scorpion, le Verseau et les Poissons prêtent chacun à la maison 3 un second maître, et je lis le traditionnel comme le moderne ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Il est rare que les deux soient à l’intérieur. Le plus souvent, l’un reste et l’autre emporte une part des affaires de la maison 3 : avec le Verseau, Saturne en maison 3 peut garder votre pensée prudente et terre à terre, pendant qu’Uranus, depuis une autre maison, fournit les idées soudaines.
 
 C’est souvent dans la fratrie et le voisinage qu’on remarque ce placement. Être dans sa propre maison ne rend pas ces liens faciles ou proches ; cela leur donne du poids, et la planète dit comment. Saturne ici peut décrire un lien sérieux, fait de devoirs, avec les frères et sœurs, et que vous portez peut-être depuis longtemps ; Jupiter, un cercle bavard où les nouvelles circulent vite et où chacun est le bienvenu. Je lis ces liens tels que vous les avez vécus et les vivez aujourd’hui, jamais comme un portrait des autres.
 
