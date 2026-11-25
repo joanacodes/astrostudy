@@ -22,9 +22,9 @@ faq:
   - q: "What does transiting Jupiter opposite natal Uranus mean?"
     a: "Jupiter stands across the chart from your birth Uranus, as it does once every twelve years or so. I read it as your independence meeting someone else’s growth: a partner’s plan, a group’s ambition, a belief held with confidence. The work is finding room for your own way inside it, or beside it."
   - q: "Is Jupiter opposite Uranus the same as the Uranus opposition?"
-    a: "No. The Uranus opposition is Uranus in the sky opposing its own birth place, once in a life, at about 42. Jupiter opposite natal Uranus is Jupiter facing your Uranus, which happens about every twelve years and lasts days, or about eight months when Jupiter loops back over the point."
+    a: "No. The Uranus opposition is Uranus in the sky opposing its own birth place, once in a life, at about 42. Jupiter opposite natal Uranus is Jupiter facing your Uranus, which happens about every twelve years and lasts days, or around eight months in the years when Jupiter turns back over it."
   - q: "How long does Jupiter opposite natal Uranus last?"
-    a: "About eleven days when Jupiter passes once, with the orbs I use for timing. About three times in ten Jupiter turns retrograde nearby and crosses three times, over roughly eight months. People born between 1930 and 2009 meet it six or seven times by the age of 80."
+    a: "It depends on whether Jupiter loops. A straight crossing lasts about eleven days with the orbs I use for timing; when Jupiter turns retrograde near the point, as it does in about three cases out of ten, the opposition spreads over roughly eight months. Everyone born from 1930 to 2009 meets six or seven by 80."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first opposition for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
@@ -47,7 +47,7 @@ A single pass, start to finish, takes Jupiter about eleven days within my orbs o
 
 The first came at very different ages: at about 1.2 for a birth on 1 January 1975, not until about 11 for 1 January 1935.
 
-Think of the [transit](/astrology/transits/) round in two halves. On the way out from [transiting Jupiter conjunct natal Uranus](/astrology/transiting-jupiter-conjunct-natal-uranus/), Jupiter passes [transiting Jupiter sextile natal Uranus](/astrology/transiting-jupiter-sextile-natal-uranus/), [transiting Jupiter square natal Uranus](/astrology/transiting-jupiter-square-natal-uranus/) and [transiting Jupiter trine natal Uranus](/astrology/transiting-jupiter-trine-natal-uranus/) before it reaches this opposition; on the way back it meets them again in reverse. [Transiting Uranus opposite natal Jupiter](/astrology/transiting-uranus-opposite-natal-jupiter/) is the slow counterpart.
+Think of the [transit](/astrology/transits/) round in two halves. On the way out from [transiting Jupiter conjunct natal Uranus](/astrology/transiting-jupiter-conjunct-natal-uranus/), Jupiter passes [transiting Jupiter sextile natal Uranus](/astrology/transiting-jupiter-sextile-natal-uranus/), [transiting Jupiter square natal Uranus](/astrology/transiting-jupiter-square-natal-uranus/) and [transiting Jupiter trine natal Uranus](/astrology/transiting-jupiter-trine-natal-uranus/) before it reaches this opposition; on the way back it meets them again in reverse.
 
 ## What helps {#what-helps}
 

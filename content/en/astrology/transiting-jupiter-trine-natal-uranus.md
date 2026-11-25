@@ -24,12 +24,12 @@ faq:
   - q: "Does Jupiter trine natal Uranus bring a lucky break?"
     a: "Not in the sense of luck arriving from outside. In my readings Jupiter is growth and meaning, and Uranus is change and independence; the trine lets the two work together easily. Openings may come quickly, but what they lead to depends on you and on circumstances no transit describes."
   - q: "When does Jupiter trine my natal Uranus?"
-    a: "Twice in each twelve-year lap of Jupiter: thirteen or fourteen times by 80 for people born between 1930 and 2009. Each lasts about eleven days, or about eight months when Jupiter loops back. The first came between a few weeks and about eight years after birth, depending on the birth date."
+    a: "On average about every six years, since each twelve-year lap holds two: thirteen or fourteen by 80 for births from 1930 to 2009. A single crossing takes about eleven days, a looping one about eight months. How old you were at the first depended on your birth date, anywhere up to about eight."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first trine for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
 ---
-Twice in each Jupiter lap, the planet of growth reaches a trine to the degree your Uranus held at birth. For a few days, or a few months when it loops, the changes you want and the room to make them are in the same place at the same time.
+For a few days, or for months when Jupiter loops, the changes you want and the room to make them turn up in the same place at the same time: Jupiter has reached a trine to your birth Uranus, as it does twice a lap.
 
 ## What changes {#what-changes}
 
@@ -37,11 +37,11 @@ Twice in each Jupiter lap, the planet of growth reaches a trine to the degree yo
 
 Of all Jupiter's contacts with your Uranus, the trine favours carrying out a change more than inventing one. The idea that came under the conjunction and was tested under the square can be put into practice now with less friction: a new routine made permanent, a reform agreed, a way of working that finally becomes the way you work.
 
-Ease has its own risk with Uranus: change that meets no resistance can become change for its own sake. Keep asking what the new arrangement is for. Which area of life benefits depends on your Uranus's house and on the house Jupiter is crossing, both of which need the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). In a chart with [Jupiter trine Uranus](/astrology/jupiter-trine-uranus/), this transit returns near each [Jupiter return](/astrology/jupiter-return/) and replays an ease the chart already knows.
+Ease has its own risk with Uranus: change that meets no resistance can become change for its own sake. Keep asking what the new arrangement is for. The birth time places both houses involved, your Uranus's and the one Jupiter is crossing, and so tells you which area of life benefits ([what changes without a birth time](/blog/unknown-birth-time/)). In a chart with [Jupiter trine Uranus](/astrology/jupiter-trine-uranus/), this transit returns near each [Jupiter return](/astrology/jupiter-return/) and replays an ease the chart already knows.
 
 ## How long it lasts {#how-long-it-lasts}
 
-Between 1½° before exact and 1° after, my orbs for every [transit](/astrology/transits/), Jupiter clears a trine to your Uranus in about eleven days. Three times in ten a station falls nearby, and three exact hits keep the trine within orb for about eight months. Thirteen or fourteen arrive before 80 for every birth from 1930 to 2009.
+Between 1½° before exact and 1° after, my orbs for every [transit](/astrology/transits/), Jupiter clears a trine to your Uranus in about eleven days. Three times in ten a station falls nearby, and three exact hits keep the trine within orb for about eight months. By 80 the tally is thirteen or fourteen, whatever the birth year between 1930 and 2009.
 
 How soon the first came depended on the birth date: at about 2.6 for a birth on 1 January 1975, at about 5.4 for 1 January 1995. Seven years or so of births have their Uranus in the same sign as yours, but not in the same house: that part is yours, and it's where these trines land.
 
@@ -51,8 +51,6 @@ Jupiter's other contacts with your Uranus divide the work:
 - **[Transiting Jupiter sextile natal Uranus](/astrology/transiting-jupiter-sextile-natal-uranus/):** a first, easy trial.
 - **[Transiting Jupiter square natal Uranus](/astrology/transiting-jupiter-square-natal-uranus/):** the idea is tested against routine.
 - **[Transiting Jupiter opposite natal Uranus](/astrology/transiting-jupiter-opposite-natal-uranus/):** other people weigh in.
-
-[Transiting Uranus trine natal Jupiter](/astrology/transiting-uranus-trine-natal-jupiter/) is the slow version of this one, lasting many months.
 
 ## What helps {#what-helps}
 

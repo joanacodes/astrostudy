@@ -24,7 +24,7 @@ faq:
   - q: "Is Jupiter sextile Uranus a good time to change jobs?"
     a: "It suits change you can try in small, reversible steps: a conversation, a course, a side project, a trial run. It doesn’t decide whether a new job works out, and no transit is needed for that. I read it as conditions that make experimenting easier, never as a signal to leave."
   - q: "How often does Jupiter sextile natal Uranus?"
-    a: "Twice in each twelve-year Jupiter lap, so thirteen or fourteen times by 80 for people born between 1930 and 2009. Most last about eleven days; about three in ten loop back over the point and last about eight months. The first came between a few weeks and about eight years after birth."
+    a: "There are two in every Jupiter lap of about twelve years, which makes thirteen or fourteen before 80 for anyone born from 1930 to 2009. Seven in ten are over in about eleven days; the other three loop back over the point and last about eight months."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first sextile for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
@@ -45,7 +45,7 @@ Inside orbs of 1½° before exact and 1° after, Jupiter needs about eleven days
 
 The first came between a few weeks and about eight years after birth: at about 1.5 for 1 January 1965, at about 6.4 for 1 January 1945. Born between December 1988 and March 1995, with Uranus in Capricorn, you meet the next two while Jupiter crosses Scorpio, from September 2029 to October 2030, and Pisces, from April 2033 to April 2034.
 
-Where [transiting Jupiter conjunct natal Uranus](/astrology/transiting-jupiter-conjunct-natal-uranus/) starts a change and [transiting Jupiter square natal Uranus](/astrology/transiting-jupiter-square-natal-uranus/) makes it prove itself, the sextile simply makes trying easy. [Transiting Jupiter trine natal Uranus](/astrology/transiting-jupiter-trine-natal-uranus/) does the same with even less effort, and [transiting Jupiter opposite natal Uranus](/astrology/transiting-jupiter-opposite-natal-uranus/) brings other people's plans into it. [Transiting Uranus sextile natal Jupiter](/astrology/transiting-uranus-sextile-natal-jupiter/) is the slow mirror, many months long.
+Where [transiting Jupiter conjunct natal Uranus](/astrology/transiting-jupiter-conjunct-natal-uranus/) starts a change and [transiting Jupiter square natal Uranus](/astrology/transiting-jupiter-square-natal-uranus/) makes it prove itself, the sextile simply makes trying easy. [Transiting Jupiter trine natal Uranus](/astrology/transiting-jupiter-trine-natal-uranus/) does the same with even less effort, and [transiting Jupiter opposite natal Uranus](/astrology/transiting-jupiter-opposite-natal-uranus/) brings other people's plans into it.
 
 ## What helps {#what-helps}
 

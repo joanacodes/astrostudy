@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Mars", "opposition", "transits"]
 weight: 1586
 glyph: "♃☍♂"
-definition: "Transiting Jupiter opposite natal Mars is the stretch of each twelve-year Jupiter round when Jupiter stands across the zodiac from your birth Mars, 180° away. Your drive meets a larger aim from across the chart, very often someone else’s. I read it as energy asked to stretch, and to choose what it stretches for."
+definition: "Transiting Jupiter opposite natal Mars is the stretch of each twelve-year Jupiter round when Jupiter reaches the point opposite your birth Mars, 180° away. Your drive meets a larger aim from across the chart, very often someone else’s. I read it as energy asked to stretch, and to choose what it stretches for."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, about a year in each sign" }
   - { k: "Natal point", v: "Your Mars ♂: drive, effort, assertion" }

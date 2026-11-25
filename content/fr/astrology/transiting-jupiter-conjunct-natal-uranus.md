@@ -21,11 +21,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/uranus", "/astrology/conjunction", "/astrology/jupiter-conjunct-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit conjonction Uranus du thème natal ?"
-    a: "Jupiter passe sur Uranus de votre naissance, comme tous les douze ans environ. J’y lis plus de place pour la part de vous qui veut faire autrement : des idées neuves, une envie d’essayer, de l’impatience envers des habitudes qui ne vous vont plus. Une saison de changement, pas un événement."
+    a: "Jupiter passe sur Uranus de votre naissance, comme tous les douze ans environ. J’y lis plus de place pour la part de vous qui veut faire autrement : des idées neuves, une envie d’essayer, de l’impatience envers des habitudes qui ne vous vont plus. Ce transit décrit une saison de changement ; il n’annonce aucun événement."
   - q: "La conjonction de Jupiter à Uranus apporte-t-elle une chance soudaine ?"
     a: "Ce transit en a la réputation, et je ne le lis pas ainsi. Dans mes lectures, Jupiter, c’est la croissance et le sens, pas la chance ni l’argent, et Uranus, c’est le changement, pas l’aubaine. Le transit peut amener vite des idées et des ouvertures ; ce qu’elles deviennent dépend de vous, et de bien des choses qu’aucun thème ne montre."
   - q: "Combien de temps dure Jupiter conjonction Uranus en transit ?"
-    a: "Onze jours environ quand Jupiter franchit le point une fois, avec les orbes que j’utilise pour situer les transits ; huit mois environ quand la planète fait une boucle et passe trois fois, ce qui arrive trois fois sur dix environ. Six ou sept avant 80 ans pour les naissances de 1930 à 2009."
+    a: "Onze jours, à peu près, si Jupiter franchit le point une fois, avec les orbes que j’utilise pour situer les transits ; huit mois environ si la planète fait une boucle et passe trois fois, ce qui arrive trois fois sur dix environ. À 80 ans, les personnes nées de 1930 à 2009 en ont connu six ou sept."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge à la première conjonction selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
@@ -40,7 +40,7 @@ Beaucoup décrivent ces semaines comme une clarté soudaine : l’idée qui tou
 
 Les contacts entre Jupiter et Uranus ont la réputation d’apporter chance soudaine et aubaines. Je ne lis ni ce [transit](/astrology/transits/) ni aucun autre pour l’argent ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)). Ce qu’ils décrivent, c’est un rythme et un appétit de changement.
 
-Uranus, dans votre thème, se trouve à quelques degrés d’Uranus chez toutes les personnes nées la même année que vous : Jupiter vous atteint donc tous et toutes en l’espace de quelques mois. Ce qui rend le transit personnel, c’est la maison, et elle vient de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec [Jupiter conjonction Uranus](/astrology/jupiter-conjunct-uranus/) à la naissance, vous rencontrez ce transit près de chaque [retour de Jupiter](/astrology/jupiter-return/).
+Uranus, dans votre thème, se trouve à quelques degrés d’Uranus chez toutes les personnes nées la même année que vous : Jupiter vous atteint donc tous et toutes en l’espace de quelques mois. Ce qui rend le transit personnel, c’est la maison, et elle vient de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si Jupiter et Uranus se tenaient côte à côte à votre naissance ([Jupiter conjonction Uranus](/astrology/jupiter-conjunct-uranus/)), chaque [retour de Jupiter](/astrology/jupiter-return/) arrive avec ce transit juste avant ou juste après.
 
 ## Combien de temps {#combien-de-temps}
 

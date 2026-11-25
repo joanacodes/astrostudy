@@ -25,7 +25,7 @@ faq:
   - q: "Jupiter sextile Uranus, est-ce un bon moment pour changer de travail ?"
     a: "Ce transit convient aux changements qu’on peut essayer par petites étapes réversibles : une conversation, une formation, un projet à côté, un essai. Il ne décide pas si un nouveau travail se passera bien, et aucun transit n’est nécessaire pour cela. J’y lis des conditions qui facilitent l’essai, jamais un signal de départ."
   - q: "Tous les combien vient le sextile de Jupiter à Uranus du thème natal ?"
-    a: "Deux fois par tour de Jupiter de douze ans, soit treize ou quatorze fois avant 80 ans pour les naissances de 1930 à 2009. La plupart durent onze jours environ ; trois sur dix environ repassent en boucle sur le point et durent huit mois environ. Le premier est venu entre quelques semaines et huit ans environ après la naissance."
+    a: "Il y en a deux par tour de Jupiter d’environ douze ans, soit treize ou quatorze avant 80 ans pour toute naissance de 1930 à 2009. Sept sur dix se terminent en onze jours environ ; les trois autres repassent en boucle sur le point et durent huit mois environ."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge au premier sextile selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
@@ -46,7 +46,7 @@ Dans des orbes de 1,5° avant l’exactitude et 1° après, Jupiter met onze jou
 
 Le premier est venu entre quelques semaines et huit ans environ après la naissance : vers 1,5 an pour le 1er janvier 1965, vers 6,4 ans pour le 1er janvier 1945. Pour une naissance entre décembre 1988 et mars 1995, avec Uranus en Capricorne, les deux prochains viennent quand Jupiter traverse le Scorpion, de septembre 2029 à octobre 2030, puis les Poissons, d’avril 2033 à avril 2034.
 
-Là où [Jupiter en transit conjonction Uranus du thème natal](/astrology/transiting-jupiter-conjunct-natal-uranus/) lance un changement et où [Jupiter en transit carré Uranus du thème natal](/astrology/transiting-jupiter-square-natal-uranus/) l’oblige à faire ses preuves, le sextile rend simplement l’essai facile. [Jupiter en transit trigone Uranus du thème natal](/astrology/transiting-jupiter-trine-natal-uranus/) fait de même avec encore moins d’effort, et [Jupiter en transit opposition Uranus du thème natal](/astrology/transiting-jupiter-opposite-natal-uranus/) y mêle les projets des autres. [Uranus en transit sextile Jupiter du thème natal](/astrology/transiting-uranus-sextile-natal-jupiter/) en est le reflet lent, long de nombreux mois.
+Là où [Jupiter en transit conjonction Uranus du thème natal](/astrology/transiting-jupiter-conjunct-natal-uranus/) lance un changement et où [Jupiter en transit carré Uranus du thème natal](/astrology/transiting-jupiter-square-natal-uranus/) l’oblige à faire ses preuves, le sextile rend simplement l’essai facile. [Jupiter en transit trigone Uranus du thème natal](/astrology/transiting-jupiter-trine-natal-uranus/) fait de même avec encore moins d’effort, et [Jupiter en transit opposition Uranus du thème natal](/astrology/transiting-jupiter-opposite-natal-uranus/) y mêle les projets des autres.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -46,7 +46,7 @@ Jupiter's house at the time is where the push tends to overreach. From your 10th
 
 The square stays inside my orbs, 1½° before exact to 1° after, for about eleven days as a rule. When a retrograde loop of Jupiter lands on it, as in about three cases out of ten, it is exact three times over about eight months.
 
-Thirteen or fourteen of these squares come by 80 for everyone born between 1930 and 2009, which is a good deal of practice at pacing. Of the two in each round, the earlier tests the momentum that [transiting Jupiter conjunct natal Mars](/astrology/transiting-jupiter-conjunct-natal-mars/) started; the later, after [transiting Jupiter opposite natal Mars](/astrology/transiting-jupiter-opposite-natal-mars/), trims the round's ambitions before the next crossing. In between, [transiting Jupiter sextile natal Mars](/astrology/transiting-jupiter-sextile-natal-mars/) and [transiting Jupiter trine natal Mars](/astrology/transiting-jupiter-trine-natal-mars/) let effort and purpose cooperate without the strain.
+Thirteen or fourteen of these squares come by 80 for everyone born between 1930 and 2009, which is a good deal of practice at pacing. Of the two in each round, the earlier tests the momentum that [transiting Jupiter conjunct natal Mars](/astrology/transiting-jupiter-conjunct-natal-mars/) started; the later, after [transiting Jupiter opposite natal Mars](/astrology/transiting-jupiter-opposite-natal-mars/), trims the round's ambitions before the next crossing. Around them, [transiting Jupiter sextile natal Mars](/astrology/transiting-jupiter-sextile-natal-mars/) and [transiting Jupiter trine natal Mars](/astrology/transiting-jupiter-trine-natal-mars/) let effort and purpose cooperate without the strain.
 
 ## What helps {#what-helps}
 

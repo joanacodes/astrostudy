@@ -5,6 +5,8 @@ description: "Transiting Saturn conjunct natal Jupiter: when growth and belief m
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Saturn", "Jupiter", "conjunction", "transits"]
 weight: 1646
 glyph: "♄☌♃"
 definition: "Transiting Saturn conjunct natal Jupiter is Saturn in the sky crossing the degree your Jupiter held at birth, once in each round of about 29½ years, first at an age set by your birth year. Plans, beliefs and hopes are asked to take a form that lasts. I read it as growth made durable, never as luck running out."

@@ -18,7 +18,7 @@ facts:
   - { k: "Un passage", v: "Environ 9 mois dans l’orbe ; parfois 3 semaines seulement" }
   - { k: "Avec une boucle rétrograde", v: "Environ 9 mois et demi, trois passages exacts ; un peu plus d’un passage sur deux" }
   - { k: "Avant 80 ans", v: "Environ 5 fois, 6 au plus ; personne n’y échappe" }
-  - { k: "La première", v: "Avant 20 ans pour tous : vers 19 ans pour une naissance en 1975, dans la première année en 1955" }
+  - { k: "Le premier", v: "Avant 20 ans pour tous : vers 19 ans pour une naissance en 1975, dans la première année en 1955" }
 related: ["/astrology/saturn", "/astrology/uranus", "/astrology/saturn-trine-uranus", "/astrology/transiting-saturn-opposite-natal-uranus", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit trigone Uranus ?"

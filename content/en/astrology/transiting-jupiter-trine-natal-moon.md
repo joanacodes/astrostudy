@@ -5,6 +5,8 @@ description: "Transiting Jupiter trine natal Moon: twice every twelve years, an 
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Moon", "trine", "transits"]
 weight: 1570
 glyph: "♃△☽"
 definition: "Transiting Jupiter trine natal Moon is Jupiter in the sky 120° from your birth Moon, in a sign of the same element, twice in each twelve-year round. Feelings settle more easily, care flows both ways, and home feels roomier. I read it as an easy season for the inner life, easy enough to pass unnoticed."

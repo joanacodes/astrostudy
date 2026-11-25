@@ -5,6 +5,8 @@ description: "Transiting Jupiter conjunct natal Moon: about every twelve years, 
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Moon", "conjunction", "transits"]
 weight: 1567
 glyph: "♃☌☽"
 definition: "Transiting Jupiter conjunct natal Moon is Jupiter passing over the degree of your birth Moon, a meeting that opens each twelve-year round. Feelings, comfort and home are given more room: warmth in how you care, a wider sense of what you need. I read it as a generous season for the inner life, never a forecast of events."

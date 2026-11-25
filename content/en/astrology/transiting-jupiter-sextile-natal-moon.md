@@ -5,6 +5,8 @@ description: "Transiting Jupiter sextile natal Moon: twice every twelve years, a
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Moon", "sextile", "transits"]
 weight: 1568
 glyph: "♃⚹☽"
 definition: "Transiting Jupiter sextile natal Moon is Jupiter two signs from your birth Moon, 60° away, a contact that comes twice in each twelve-year round. It brings small openings for the inner life: help offered, a warmer circle, a home that feels more yours. I read it as support within reach, which you still have to take."

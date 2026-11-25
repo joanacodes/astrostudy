@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/uranus", "/astrology/conjunction", "/astrology/jupiter-conjunct-uranus", "/astrology/transits"]
 faq:
   - q: "What does transiting Jupiter conjunct natal Uranus mean?"
-    a: "Jupiter is passing over your birth Uranus, as it does about every twelve years. I read it as more room for the part of you that wants to do things differently: new ideas, a wish to experiment, impatience with routines that have stopped fitting. It describes a season of change, not an event."
+    a: "Jupiter is passing over your birth Uranus, as it does about every twelve years. I read it as more room for the part of you that wants to do things differently: new ideas, a wish to experiment, impatience with routines that have stopped fitting. What it describes is a season of change; it names no event."
   - q: "Does Jupiter conjunct Uranus bring sudden luck?"
     a: "It has that reputation, and I don’t read it that way. Jupiter is growth and meaning in my readings, not luck or money, and Uranus is change, not windfalls. The transit can bring ideas and openings quickly; what comes of them depends on you, and on many things no chart shows."
   - q: "How long does Jupiter conjunct natal Uranus last?"
-    a: "About eleven days when Jupiter crosses the point once, with the orbs I use for timing; about eight months when it loops back and crosses three times, which happens about three times in ten. It comes six or seven times by 80 for people born between 1930 and 2009."
+    a: "Eleven days, more or less, if Jupiter crosses the point once with the orbs I use for timing; about eight months if it loops back and crosses three times, which happens about three times in ten. By 80, those born between 1930 and 2009 have had six or seven."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in orb, the age at the first conjunction for each birth year, and how many come by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "the transits, read one by one" }
@@ -39,7 +39,7 @@ People often describe these weeks as a sudden clarity: the idea that had been ci
 
 Jupiter–Uranus contacts have a reputation for sudden luck and windfalls. I don't read them, or any [transit](/astrology/transits/), for money ([Can astrology pick investments?](/astrology/can-astrology-pick-investments/)). What they describe is pace and appetite for change.
 
-Your Uranus sits within a few degrees of the Uranus of everyone born in the same year as you, so Jupiter reaches all of you within the same few months. What makes it yours is the house, and that comes from the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Jupiter conjunct Uranus](/astrology/jupiter-conjunct-uranus/), you meet this transit close to each [Jupiter return](/astrology/jupiter-return/).
+Your Uranus sits within a few degrees of the Uranus of everyone born in the same year as you, so Jupiter reaches all of you within the same few months. What makes it yours is the house, and that comes from the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). If Jupiter and Uranus sat together at your birth ([Jupiter conjunct Uranus](/astrology/jupiter-conjunct-uranus/)), each [Jupiter return](/astrology/jupiter-return/) arrives with this transit close behind or just ahead.
 
 ## How long it lasts {#how-long-it-lasts}
 

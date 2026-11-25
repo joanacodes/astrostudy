@@ -5,6 +5,8 @@ description: "Transiting Jupiter square natal Moon: twice every twelve years, fe
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Moon", "square", "transits"]
 weight: 1569
 glyph: "♃□☽"
 definition: "Transiting Jupiter square natal Moon is Jupiter at 90° from your birth Moon, three signs away, twice in each twelve-year round. Your need for space outgrows your habits and your home: more feeling than your routines can hold, more care promised than you can give. I read it as pressure to adjust, never a sign of trouble."

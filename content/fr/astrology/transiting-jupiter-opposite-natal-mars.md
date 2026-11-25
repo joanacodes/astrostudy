@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Mars", "opposition", "transits"]
 weight: 1586
 glyph: "♃☍♂"
-definition: "Jupiter en transit opposition Mars du thème natal, c’est le moment de chaque tour de douze ans où Jupiter se tient de l’autre côté du zodiaque, à 180° de Mars à votre naissance. Votre élan rencontre en face un but plus vaste, souvent celui d’une autre personne. J’y lis une énergie priée de s’étirer, et de choisir pour quoi."
+definition: "Jupiter en transit opposition Mars du thème natal, c’est le moment de chaque tour de douze ans où Jupiter atteint le point opposé à Mars de votre naissance, à 180°. Votre élan rencontre en face un but plus vaste, souvent celui d’une autre personne. J’y lis une énergie priée de s’étirer, et de choisir pour quoi."
 facts:
   - { k: "En transit", v: "Jupiter ♃, environ un an par signe" }
   - { k: "Point natal", v: "Mars ♂ : l’élan, l’effort, l’affirmation" }

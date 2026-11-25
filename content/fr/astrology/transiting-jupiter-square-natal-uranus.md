@@ -25,7 +25,7 @@ faq:
   - q: "Le carré de Jupiter à Uranus peut-il amener des changements soudains ?"
     a: "Il peut amener une envie soudaine de changement, et il arrive que les choses bougent vite autour de vous. Je n’y lis pas l’annonce d’une rupture, d’une perte d’emploi ni d’aucun événement précis, et je ne lis jamais les transits pour cela. Ce qu’il décrit, c’est une pression pour repenser, et la réponse vous appartient."
   - q: "Combien de temps dure le carré de Jupiter à Uranus du thème natal ?"
-    a: "En général onze jours environ, avec les orbes que j’utilise pour situer les transits. Trois fois sur dix environ, Jupiter revient en boucle et franchit le carré trois fois, sur huit mois environ. Il revient deux fois par tour de douze ans : treize ou quatorze fois avant 80 ans pour les naissances de 1930 à 2009."
+    a: "La plupart du temps, il se termine en onze jours environ avec mes orbes. Quand Jupiter fait demi-tour près du carré, ce qui arrive trois fois sur dix environ, trois passages l’étirent à huit mois environ. Un tour de douze ans contient deux de ces carrés : treize ou quatorze viennent avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge au premier carré selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
@@ -38,7 +38,7 @@ Deux fois par tour de Jupiter, la planète de la croissance forme un carré avec
 
 Les deux planètes ont ici un point faible, et le carré appuie dessus. Jupiter peut prendre une croyance pour une certitude ; Uranus peut confondre être différent et avoir raison, ou changer un système avant de comprendre ce qui y fonctionne encore. C’est pour cela que je lis ce carré comme une épreuve plutôt qu’un verdict : le changement qui vaut la peine est celui qui survit à vos propres questions.
 
-Rien de tout cela n’annonce une rupture, une démission ou une perte soudaine, et je ne lis pas les [transits](/astrology/transits/) pour cela ([Ma méthode](/how-i-read/)). L’endroit où l’impatience s’accumule dépend de la maison d’Uranus dans votre thème et de celle que Jupiter traverse, ce que seule l’heure de naissance peut montrer ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec [Jupiter carré Uranus](/astrology/jupiter-square-uranus/) à la naissance, vous rencontrez l’un de ces carrés près de chaque [retour de Jupiter](/astrology/jupiter-return/).
+Rien de tout cela n’annonce une rupture, une démission ou une perte soudaine, et je ne lis pas les [transits](/astrology/transits/) pour cela ([Ma méthode](/how-i-read/)). La maison d’Uranus dans votre thème, avec celle que Jupiter traverse à ce moment-là, décide de l’endroit où l’impatience s’accumule, et aucune des deux ne se place sans l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec [Jupiter carré Uranus](/astrology/jupiter-square-uranus/) à la naissance, vous rencontrez l’un de ces carrés près de chaque [retour de Jupiter](/astrology/jupiter-return/).
 
 ## Combien de temps {#combien-de-temps}
 
@@ -46,7 +46,7 @@ Les passages directs de Jupiter dans ce carré prennent onze jours environ, en c
 
 Pour une naissance le 1er janvier 1965, le premier est venu vers six mois ; pour le 1er janvier 1945, pas avant six ans environ. Ensuite, les carrés tombent à un quart de tour de chaque passage de Jupiter sur Uranus, trois ans environ de part et d’autre. Le premier d’une paire met souvent à l’épreuve une idée déjà lancée ; le second, trois ans avant le retour de Jupiter sur ce point, demande quels changements vous voudrez encore à ce moment-là.
 
-Des cinq contacts de Jupiter avec Uranus dans votre thème, c’est celui qui oblige le changement à se justifier. [Jupiter en transit conjonction Uranus du thème natal](/astrology/transiting-jupiter-conjunct-natal-uranus/) introduit l’idée, [Jupiter en transit sextile Uranus du thème natal](/astrology/transiting-jupiter-sextile-natal-uranus/) et [Jupiter en transit trigone Uranus du thème natal](/astrology/transiting-jupiter-trine-natal-uranus/) lui facilitent le chemin, et [Jupiter en transit opposition Uranus du thème natal](/astrology/transiting-jupiter-opposite-natal-uranus/) la confronte aux autres. [Uranus en transit carré Jupiter du thème natal](/astrology/transiting-uranus-square-natal-jupiter/) en est la version longue, des mois près de l’exactitude.
+Des cinq contacts de Jupiter avec Uranus dans votre thème, c’est celui qui oblige le changement à se justifier. [Jupiter en transit conjonction Uranus du thème natal](/astrology/transiting-jupiter-conjunct-natal-uranus/) introduit l’idée, [Jupiter en transit sextile Uranus du thème natal](/astrology/transiting-jupiter-sextile-natal-uranus/) et [Jupiter en transit trigone Uranus du thème natal](/astrology/transiting-jupiter-trine-natal-uranus/) lui facilitent le chemin, et [Jupiter en transit opposition Uranus du thème natal](/astrology/transiting-jupiter-opposite-natal-uranus/) la confronte aux autres.
 
 ## Ce qui aide {#ce-qui-aide}
 

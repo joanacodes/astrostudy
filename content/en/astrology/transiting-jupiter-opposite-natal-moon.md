@@ -5,6 +5,8 @@ description: "Transiting Jupiter opposite natal Moon: once every twelve years, t
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Jupiter", "Moon", "opposition", "transits"]
 weight: 1571
 glyph: "♃☍☽"
 definition: "Transiting Jupiter opposite natal Moon is Jupiter 180° from your birth Moon, halfway round its twelve-year circuit. The wider world tugs against home and comfort: someone’s plans, a journey, a bigger life asking for you. I read it as a season of balancing what you need with where you could grow, never as a forecast of leaving."

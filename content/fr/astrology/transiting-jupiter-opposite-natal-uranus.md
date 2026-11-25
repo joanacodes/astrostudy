@@ -23,9 +23,9 @@ faq:
   - q: "Que veut dire Jupiter en transit opposition Uranus du thème natal ?"
     a: "Jupiter se tient de l’autre côté du thème par rapport à Uranus de votre naissance, comme tous les douze ans environ. J’y lis votre indépendance face à la croissance d’autrui : le projet d’un ou d’une partenaire, l’ambition d’un groupe, une croyance tenue avec assurance. Le travail consiste à trouver de la place pour votre façon de faire."
   - q: "Jupiter opposition Uranus, est-ce la même chose que l’opposition d’Uranus ?"
-    a: "Non. L’opposition d’Uranus, c’est Uranus dans le ciel en face de sa propre place de naissance, une fois dans une vie, vers 42 ans. Jupiter en opposition à Uranus du thème natal, c’est Jupiter face à votre Uranus, tous les douze ans environ, pendant quelques jours, ou huit mois environ quand Jupiter repasse en boucle."
+    a: "Non. L’opposition d’Uranus, c’est Uranus dans le ciel en face de sa propre place de naissance, une fois dans une vie, vers 42 ans. Jupiter en opposition à Uranus du thème natal, c’est Jupiter face à votre Uranus, tous les douze ans environ, pendant quelques jours, ou près de huit mois les années où Jupiter revient en arrière sur ce point."
   - q: "Combien de temps dure l’opposition de Jupiter à Uranus du thème natal ?"
-    a: "Onze jours environ quand Jupiter passe une fois, avec les orbes que j’utilise pour situer les transits. Trois fois sur dix environ, Jupiter rétrograde tout près et passe trois fois, sur huit mois à peu près. Les personnes nées entre 1930 et 2009 la rencontrent six ou sept fois avant 80 ans."
+    a: "Cela dépend de la boucle. Un passage direct dure onze jours environ avec les orbes que j’utilise pour situer les transits ; quand Jupiter rétrograde près du point, dans trois cas sur dix environ, l’opposition s’étale sur huit mois à peu près. Chaque naissance de 1930 à 2009 en compte six ou sept avant 80 ans."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "combien de temps Jupiter reste dans l’orbe, l’âge à la première opposition selon l’année de naissance, et combien en viennent avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits, lus un à un" }
@@ -48,7 +48,7 @@ Un passage unique, du début à la fin, prend à Jupiter onze jours environ dans
 
 La première est venue à des âges très différents : vers 1,2 an pour une naissance le 1er janvier 1975, pas avant 11 ans environ pour le 1er janvier 1935.
 
-Voyez le tour du [transit](/astrology/transits/) en deux moitiés. À l’aller, depuis [Jupiter en transit conjonction Uranus du thème natal](/astrology/transiting-jupiter-conjunct-natal-uranus/), Jupiter passe par [Jupiter en transit sextile Uranus du thème natal](/astrology/transiting-jupiter-sextile-natal-uranus/), [Jupiter en transit carré Uranus du thème natal](/astrology/transiting-jupiter-square-natal-uranus/) et [Jupiter en transit trigone Uranus du thème natal](/astrology/transiting-jupiter-trine-natal-uranus/) avant d’atteindre cette opposition ; au retour, la planète les retrouve dans l’ordre inverse. [Uranus en transit opposition Jupiter du thème natal](/astrology/transiting-uranus-opposite-natal-jupiter/) en est le pendant lent.
+Voyez le tour du [transit](/astrology/transits/) en deux moitiés. À l’aller, depuis [Jupiter en transit conjonction Uranus du thème natal](/astrology/transiting-jupiter-conjunct-natal-uranus/), Jupiter passe par [Jupiter en transit sextile Uranus du thème natal](/astrology/transiting-jupiter-sextile-natal-uranus/), [Jupiter en transit carré Uranus du thème natal](/astrology/transiting-jupiter-square-natal-uranus/) et [Jupiter en transit trigone Uranus du thème natal](/astrology/transiting-jupiter-trine-natal-uranus/) avant d’atteindre cette opposition ; au retour, la planète les retrouve dans l’ordre inverse.
 
 ## Ce qui aide {#ce-qui-aide}
 
