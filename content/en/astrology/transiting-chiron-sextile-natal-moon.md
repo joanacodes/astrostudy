@@ -40,7 +40,7 @@ The [Moon](/astrology/moon/) regulates: it keeps you steady through needs met, h
 
 The sextile also makes your care for others easier to offer without costing your own. Nurturing isn't self-sacrifice, and this is a good season to find the kind of help you can give someone in a hard place while still keeping your evenings.
 
-The houses say where the opening is, and they need your birth time. With the Moon in the 4th, one of these sextiles comes while Chiron crosses your 6th ([Chiron transiting the 6th house](/astrology/chiron-transit-6th-house/)), the shape of your days and your work habits. Tradition linked the 6th to illness; I read it as routine in an adult life, and nothing here forecasts your health ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). Born with [Moon sextile Chiron](/astrology/moon-sextile-chiron/), you probably already know how to look after a tender place in practical ways; the transit is a reminder to use that know-how on yourself.
+Where the opening appears is set by your houses, and they wait on your birth time. With the Moon in the 4th, one of these sextiles comes while Chiron crosses your 6th ([Chiron transiting the 6th house](/astrology/chiron-transit-6th-house/)), the shape of your days and your work habits. Tradition linked the 6th to illness; I read it as routine in an adult life, and nothing here forecasts your health ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). Born with [Moon sextile Chiron](/astrology/moon-sextile-chiron/), you probably already know how to look after a tender place in practical ways; the transit is a reminder to use that know-how on yourself.
 
 ## How long it lasts {#how-long-it-lasts}
 
