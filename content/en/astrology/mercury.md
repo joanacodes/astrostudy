@@ -95,7 +95,7 @@ Being born during one is common, and in a birth chart it often describes a mind 
 
 ## What held in my tests {#what-held}
 
-Mercury is one of the placements everyone reads first, and in [my notebook](/blog/i-tested-my-birth-chart/) it held about a third of the time — 30 to 40%, with the Sun sign, the rising sign and Venus. That's close to what a flattering, vague horoscope scores. It isn't nothing, and I still read Mercury in every chart. But [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/) held 75 to 90% of the time, so that's where I spend the most time, and when part of a reading rests on Mercury, I tell you, so you can weigh it for yourself. It's a notebook, not a study: a count by hand, mostly on people I knew.
+Mercury is one of the placements everyone reads first, and in [my notebook](/blog/i-tested-my-birth-chart/) it held about a third of the time — 30 to 40%, with the Sun sign, the rising sign and Venus. That's close to what a flattering, vague horoscope scores. It isn't nothing, and I still read Mercury in every chart. But [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/) held 75 to 90% of the time, so that's where I spend the most time, and when part of a reading rests on Mercury, I tell you, so you can weigh it for yourself. This is a notebook rather than a study, a tally I made by hand, mostly of people I knew.
 
 ## Common myths {#myths}
 

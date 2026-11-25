@@ -69,4 +69,4 @@ A few years before Gauquelin's book, Jung had tried a statistical test of his ow
 
 Mars was in my notebook like every other placement. I checked it in its sign and its house, with a tick or a cross, in my own chart and then, with their consent, in the charts of family, friends and strangers. It was not one of the three that held far more often: those were Saturn, Lilith and Chiron, at 75 to 90%. Overall, about a third of what I checked held, 30 to 40%, the Sun sign, the rising sign, Venus and Mercury among them.
 
-It's a notebook, not a study, and it proves nothing about astrology in general. What it changes is how I read: when something rests on a placement that held less often in my tests, I say so. The method is in [my testing notes](/blog/i-tested-my-birth-chart/).
+That notebook is no study, and nothing about astrology in general is proved by it. What it changes is how I read: when something rests on a placement that held less often in my tests, I say so. [My testing notes](/blog/i-tested-my-birth-chart/) set out the method.

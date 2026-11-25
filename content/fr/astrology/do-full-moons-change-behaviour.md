@@ -70,4 +70,4 @@ Mon carnet posait une autre question. Il vérifiait des thèmes, placement par p
 
 La Lune a été vérifiée comme tous les autres placements, et elle ne faisait pas partie des trois qui ont bien plus souvent tenu : c’étaient Saturne, Lilith et Chiron, à 75 à 90 %. Dans l’ensemble, environ un tiers de ce que j’ai vérifié a tenu, 30 à 40 %.
 
-C’est un carnet, pas une étude, et il ne prouve rien sur l’astrologie en général. C’est pourquoi, quand quelque chose dans une lecture repose sur un placement qui a moins souvent tenu dans mes tests, je vous le dis. Le décompte est dans [mes notes de test](/blog/i-tested-my-birth-chart/).
+Rien de tout cela ne fait une étude : c’est un carnet, et il ne prouve rien sur l’astrologie en général. C’est pourquoi, quand quelque chose dans une lecture repose sur un placement qui a moins souvent tenu dans mes tests, je vous le dis. Le décompte est dans [mes notes de test](/blog/i-tested-my-birth-chart/).

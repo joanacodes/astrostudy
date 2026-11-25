@@ -66,6 +66,6 @@ Jung cherchait, en somme, la signature du mariage dans deux thèmes. Ce n’est 
 
 Jung travaillait sur des paires d’horoscopes ; mon carnet, sur des thèmes seuls, placement par placement. J’ai vérifié chaque placement de mon propre thème, Soleil, Lune, ascendant, chaque planète dans son signe et sa maison, avec une coche ou une croix, puis j’ai fait de même pour ma famille, des amis et des inconnus, avec leur accord.
 
-Dans l’ensemble, environ un tiers a tenu : 30 à 40 %. Le signe solaire, l’ascendant, Vénus et Mercure, les placements que tout le monde lit en premier, en font partie. Saturne, Lilith et Chiron ont tenu 75 à 90 % du temps.
+Au total, environ un tiers a tenu : 30 à 40 %. C’est là que se situent le signe solaire, l’ascendant, Vénus et Mercure, les placements que tout le monde lit en premier. Saturne, Lilith et Chiron, c’était autre chose : 75 à 90 % du temps.
 
 C’est un carnet, pas une étude, et il ne prouve rien sur l’astrologie en général, ni sur le mariage, ni sur quoi que ce soit d’autre. C’est simplement pourquoi, quand quelque chose dans une lecture repose sur un placement qui a moins souvent tenu dans mes tests, je vous le dis. La méthode est dans [mes notes de test](/blog/i-tested-my-birth-chart/).

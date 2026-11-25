@@ -59,6 +59,6 @@ Rien de tout cela ne dit que les astrologues sont malhonnêtes, ni que les perso
 
 Mon carnet n’est pas un test d’appariement. J’ai passé mon propre thème au crible, placement par placement, Soleil, Lune, ascendant, chaque planète dans son signe et sa maison, en mettant une coche ou une croix à côté de chacun. Puis j’ai fait de même, avec leur accord, pour des proches, des amis et des inconnus, qui ont marqué les lignes de leur propre thème.
 
-Environ un tiers de ce que j’ai vérifié a tenu dans l’ensemble, 30 à 40 %, et les placements que tout le monde lit en premier, le signe solaire, l’ascendant, Vénus et Mercure, en font partie. Saturne, Lilith et Chiron ont tenu 75 à 90 % du temps.
+Environ un tiers de ce que j’ai vérifié a tenu dans l’ensemble, 30 à 40 %, et les placements que tout le monde lit en premier, le signe solaire, l’ascendant, Vénus et Mercure, en font partie. Les exceptions étaient Saturne, Lilith et Chiron, qui ont tenu 75 à 90 % du temps.
 
 Chaque personne savait de quel thème il s’agissait : le carnet ne peut donc pas répondre à un test d’appariement, et il n’essaie pas. C’est un carnet plutôt qu’une étude, et il ne prouve rien sur l’astrologie en général. Ce qu’il change, c’est ma façon de travailler : quand une partie d’une lecture repose sur un placement qui a moins tenu, je le dis ([Ma méthode](/how-i-read/)). Le décompte, ligne par ligne, se trouve dans [mes notes de test](/blog/i-tested-my-birth-chart/).

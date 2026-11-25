@@ -61,6 +61,6 @@ What I take from this is narrow, and I think it's fair. The claim being tested w
 
 My notebook is not a test like Carlson's, and I won't put it on the same shelf. I went through my own chart placement by placement, Sun, Moon, rising, each planet in its sign and house, and put a tick or a cross beside each one. Then I did the same, with their consent, for family, friends and strangers.
 
-Overall, about a third held: 30 to 40%. The Sun sign, the rising sign, Venus and Mercury, the placements everyone reads first, are among those. Saturn, Lilith and Chiron were different: they held 75 to 90% of the time.
+About a third held across the board: 30 to 40%. The placements everyone reads first, the Sun sign, the rising sign, Venus and Mercury, held at that rate too. Saturn, Lilith and Chiron were different: they held 75 to 90% of the time.
 
-It's a notebook, not a study, and it proves nothing about astrology in general. It doesn't answer Carlson's result, and it isn't meant to. What it does is decide how I work. When something in a reading rests on a placement that held less often in my tests, I say so, and you can weigh it for yourself. That's the whole of [how I read](/how-i-read/), and the count itself is in [my testing notes](/blog/i-tested-my-birth-chart/).
+A notebook isn't a study, and mine is no proof of anything about astrology in general. It doesn't answer Carlson's result, and it isn't meant to. What it does is decide how I work. When something in a reading rests on a placement that held less often in my tests, I say so, and you can weigh it for yourself. That's the whole of [how I read](/how-i-read/), and the count itself is in [my testing notes](/blog/i-tested-my-birth-chart/).

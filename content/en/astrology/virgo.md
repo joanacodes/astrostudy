@@ -44,13 +44,13 @@ Three placements bring most people here:
 
 - **[Sun in Virgo](/astrology/sun-in-virgo/):** born between about 23 August and 22 September. You grow by making things work better and mastering a craft, and being useful is how you feel you matter.
 - **[Moon in Virgo](/astrology/moon-in-virgo/):** you feel safe when things are in order and you have something useful to do. You care for people in practical ways, and when you're unsettled, you tidy, plan or fix.
-- **[Virgo rising](/astrology/virgo-rising/):** you meet the world attentively, and people see you as capable and modest, a little reserved at first. Mercury becomes your [chart ruler](/astrology/chart-ruler/). A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Virgo rising](/astrology/virgo-rising/):** you meet the world attentively, and people see you as capable and modest, a little reserved at first. Mercury becomes your [chart ruler](/astrology/chart-ruler/). You need your [birth time](/blog/unknown-birth-time/) to know about Virgo rising: every two hours or so, a different sign is coming up in the east.
 
-None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Virgo through the whole chart, beginning with where Mercury sits.
+Any of them, alone, is only a part of the story. As [my notebook](/blog/i-tested-my-birth-chart/) has it, the Sun sign held about a third of the time, the rising sign the same, and the Moon, checked just like the other placements, was not one of the three that held far more often. So I read Virgo through the whole chart, beginning with where Mercury sits.
 
 ## Its ruler: Mercury {#ruler}
 
-A sign's ruler is the planet that's at home in it, the one that carries the sign's business into the rest of the chart. Virgo belongs to [Mercury](/astrology/mercury/), which also rules [Gemini](/astrology/gemini/): in Gemini it gathers, in Virgo it sorts. Mercury is [exalted](/astrology/exaltation/) in Virgo too — the only sign where a planet is both at home and exalted — so here it is at its most precise. Wherever your Mercury sits, by sign and house, shows where your Virgo side puts its skill. With Virgo on the cusp of the 6th house and Mercury in the 10th, say, everyday craft becomes a public reputation.
+A ruler is the planet that's at home in a sign, and for Virgo, that planet carries the sign's business into the rest of the chart. Virgo belongs to [Mercury](/astrology/mercury/), which also rules [Gemini](/astrology/gemini/): in Gemini it gathers, in Virgo it sorts. Mercury is [exalted](/astrology/exaltation/) in Virgo too — the only sign where a planet is both at home and exalted — so here it is at its most precise. Wherever your Mercury sits, by sign and house, shows where your Virgo side puts its skill. With Virgo on the cusp of the 6th house and Mercury in the 10th, say, everyday craft becomes a public reputation.
 
 Three planets are weakened in Virgo:
 
@@ -75,7 +75,7 @@ A planet in Virgo sharpens its focus and wants to be useful; the house it sits i
 
 ## Virgo on a house cusp {#on-a-house-cusp}
 
-Every chart has Virgo somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Virgo opens a house, that's where you notice the details and want things done properly, and Mercury, wherever it sits, carries the story on. Which house it is depends on your birth time.
+Every chart has Virgo somewhere in its twelve houses, usually on the cusp of one of them. In a quadrant system like Placidus, Virgo can sit on two cusps, or on none if it is [intercepted](/astrology/intercepted-signs/) inside a single house. Wherever Virgo opens a house, that's where you notice the details and want things done properly, and Mercury, wherever it sits, carries the story on. For Virgo, the house in question hangs on your birth time.
 
 1. **[1st house](/astrology/virgo-rising/):** Virgo rising — an attentive, careful presence; you notice everything, and people see you as capable and modest.
 2. **[2nd house](/astrology/virgo-on-2nd-house-cusp/):** careful with money and possessions; you value skill and usefulness, and like to know exactly where things stand.
@@ -99,4 +99,4 @@ In [synastry](/synastry/), Virgo planets bring care, attention and help: the per
 - **“Virgos are neat freaks.”** Virgo cares about things working. That can mean a tidy desk, or a messy desk and a very precise mind: order is about function, not appearance.
 - **“Virgos are cold and critical.”** Virgo notices what could be better, and it often turns that eye on itself first. Its criticism is meant as help.
 - **“Virgo is the virgin, so it's prudish.”** The sign's name comes from an old image of a maiden; it describes a way of working, not anyone's love life.
-- **“Born on the cusp, you're half Leo.”** At the minute you were born, the Sun was in one sign or the other; within a day of a change, your birth time settles which. More on being [born on the cusp](/astrology/born-on-the-cusp/).
+- **“Born on the cusp, you're half Leo.”** The Sun was in Leo or in Virgo at the minute you were born, not half and half; within a day of the change, your birth time settles that. The [born on the cusp](/astrology/born-on-the-cusp/) page goes into it.

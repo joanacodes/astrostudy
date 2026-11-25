@@ -86,7 +86,7 @@ Le retour a la réputation d’une crise. En lecture, il ressemble plutôt à un
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-Quand j’ai vérifié des thèmes placement par placement — le mien, puis ceux de ma famille, d’amis, et d’inconnus qui ne m’avaient rien dit d’eux — Saturne, [Chiron](/astrology/chiron/) et [Lilith](/astrology/black-moon-lilith/) ont tenu 75 à 90 % du temps, quand la plupart des placements tenaient environ une fois sur trois. C’est un carnet, pas une étude : un décompte à la main, surtout sur des personnes que je connaissais. Mais c’est pour cela que je ralentis quand j’arrive à Saturne dans un thème. [Comment j’ai testé](/blog/i-tested-my-birth-chart/), et [comment je lis les trois](/blog/saturn-chiron-lilith/).
+Quand j’ai vérifié des thèmes placement par placement — le mien, puis ceux de ma famille, d’amis, et d’inconnus qui ne m’avaient rien dit d’eux — Saturne, [Chiron](/astrology/chiron/) et [Lilith](/astrology/black-moon-lilith/) ont tenu 75 à 90 % du temps, quand la plupart des placements tenaient environ une fois sur trois. J’ai compté à la main, surtout sur des personnes que je connaissais : un carnet, pas une étude. Mais c’est pour cela que je ralentis quand j’arrive à Saturne dans un thème. Pour aller plus loin : [ma façon de tester](/blog/i-tested-my-birth-chart/), et [ma façon de lire les trois](/blog/saturn-chiron-lilith/).
 
 ## Idées reçues {#idees-recues}
 

@@ -95,7 +95,7 @@ Being born during a Mars retrograde isn't a lack of drive; it often describes en
 
 ## What held in my tests {#what-held}
 
-Mars was on my list like every placement — its sign and its house, a tick or a cross — in [my notebook](/blog/i-tested-my-birth-chart/), for my own chart and then for family, friends and strangers who agreed to it. It wasn't one of the three that held far more often: those were [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/), which held 75 to 90% of the time. Overall, about a third of what I checked held: 30 to 40%. So I read Mars in every chart, but I don't rest a reading on it alone, and when part of what I tell you depends on it, I say so. It's a notebook, not a study, and it shapes [how I read](/how-i-read/).
+Mars was on my list like every placement — its sign and its house, a tick or a cross — in [my notebook](/blog/i-tested-my-birth-chart/), for my own chart and then for family, friends and strangers who agreed to it. It wasn't one of the three that held far more often: those were [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/), which held 75 to 90% of the time. Overall, about a third of what I checked held: 30 to 40%. So I read Mars in every chart, but I don't rest a reading on it alone, and when part of what I tell you depends on it, I say so. The notebook is no study, but [how I read](/how-i-read/) is shaped by it.
 
 ## Common myths {#myths}
 

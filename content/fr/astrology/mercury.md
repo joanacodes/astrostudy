@@ -96,7 +96,7 @@ Naître pendant l’une d’elles est courant, et dans un thème natal cela déc
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-Mercure fait partie des placements que tout le monde lit en premier, et dans [mon carnet](/blog/i-tested-my-birth-chart/), ce placement a tenu environ une fois sur trois — 30 à 40 %, avec le signe solaire, l’ascendant et Vénus. C’est proche du score d’un horoscope flatteur et vague. Ce n’est pas rien, et je lis Mercure dans chaque thème. Mais [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/) ont tenu 75 à 90 % du temps : c’est là que je passe le plus de temps, et quand une partie d’une lecture repose sur Mercure, je vous le dis, pour que vous en jugiez vous-même. C’est un carnet, pas une étude : un décompte à la main, surtout sur des personnes que je connaissais.
+Mercure fait partie des placements que tout le monde lit en premier, et dans [mon carnet](/blog/i-tested-my-birth-chart/), ce placement a tenu environ une fois sur trois — 30 à 40 %, avec le signe solaire, l’ascendant et Vénus. C’est proche du score d’un horoscope flatteur et vague. Ce n’est pas rien, et je lis Mercure dans chaque thème. Mais [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/) ont tenu 75 à 90 % du temps : c’est là que je passe le plus de temps, et quand une partie d’une lecture repose sur Mercure, je vous le dis, pour que vous en jugiez vous-même. Il s’agit d’un carnet plutôt que d’une étude, d’un décompte fait à la main, surtout sur des personnes que je connaissais.
 
 ## Idées reçues {#idees-recues}
 

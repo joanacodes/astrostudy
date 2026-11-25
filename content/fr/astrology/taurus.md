@@ -45,13 +45,13 @@ Trois placements amènent la plupart des gens ici :
 
 - **[Soleil en Taureau](/astrology/sun-in-taurus/) :** une naissance entre le 20 avril et le 20 mai environ. Vous grandissez en bâtissant ce qui dure — un savoir-faire, un foyer, un lien — et votre élan change rarement de cap sur un coup de tête.
 - **[Lune en Taureau](/astrology/moon-in-taurus/) :** la Lune y est exaltée, à son plus stable. Vous vous sentez en sécurité avec des habitudes, du confort et des personnes sur qui compter, et vos humeurs prennent leur temps pour changer, dans un sens comme dans l’autre.
-- **[Ascendant Taureau](/astrology/taurus-rising/) :** vous abordez le monde avec calme et à votre rythme, et votre présence rassure souvent avant même qu’on vous connaisse. Vénus devient le [maître du thème](/astrology/chart-ruler/). Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
+- **[Ascendant Taureau](/astrology/taurus-rising/) :** vous abordez le monde avec calme et à votre rythme, et votre présence rassure souvent avant même qu’on vous connaisse. Vénus devient le [maître du thème](/astrology/chart-ruler/). L’ascendant Taureau demande votre [heure de naissance](/blog/unknown-birth-time/) : le signe qui se lève à l’est change toutes les deux heures environ.
 
-Chacun de ces placements n’est qu’une partie du tableau. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Alors je lis le Taureau à travers tout le thème, en commençant par la place de Vénus.
+Chacun de ces placements n’est qu’une partie du tableau. [Mon carnet](/blog/i-tested-my-birth-chart/) a donné le même résultat pour le signe solaire et pour l’ascendant, environ une fois sur trois chacun, et la Lune, vérifiée comme tous les autres placements, est restée en dehors des trois qui ont tenu bien plus souvent. Alors je lis le Taureau à travers tout le thème, en commençant par la place de Vénus.
 
 ## Son maître : Vénus {#maitre}
 
-Le maître d’un signe est la planète qui s’y trouve chez elle : c’est elle qui porte les affaires du signe dans le reste du thème. Le Taureau appartient à [Vénus](/astrology/venus/) : la Vénus du confort, de la beauté et de la valeur, quand la Balance, son autre signe, reçoit la Vénus de l’équité et du partenariat. La position de votre Vénus, par signe et par maison, montre où votre part Taureau cherche la sécurité et le plaisir. Avec le Taureau sur la cuspide de la maison 2 et Vénus en maison 7, par exemple, votre sentiment de sécurité se lie à un partenaire.
+La planète qui est chez elle en Taureau en est le maître : c’est elle qui emmène les affaires du signe dans le reste du thème. Le Taureau appartient à [Vénus](/astrology/venus/) : la Vénus du confort, de la beauté et de la valeur, quand la Balance, son autre signe, reçoit la Vénus de l’équité et du partenariat. La position de votre Vénus, par signe et par maison, montre où votre part Taureau cherche la sécurité et le plaisir. Avec le Taureau sur la cuspide de la maison 2 et Vénus en maison 7, par exemple, votre sentiment de sécurité se lie à un partenaire.
 
 Trois autres planètes entretiennent un lien particulier avec le Taureau :
 
@@ -76,7 +76,7 @@ Une planète en Taureau ralentit et s’installe ; la maison où elle se trouv
 
 ## Le Taureau sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Taureau quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Taureau ouvre une maison, vous avancez lentement et voulez ce qui dure, et Vénus, quelle que soit sa place, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Taureau quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. Les systèmes par quadrants comme Placidus peuvent donner au Taureau deux cuspides, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Taureau ouvre une maison, vous avancez lentement et voulez ce qui dure, et Vénus, quelle que soit sa place, poursuit l’histoire. Pour le Taureau, c’est votre heure de naissance qui décide de quelle maison il s’agit.
 
 1. **[Maison I](/astrology/taurus-rising/) :** l’ascendant Taureau — une présence calme et stable ; vous prenez la vie à votre rythme, et l’on trouve votre compagnie rassurante.
 2. **[Maison II](/astrology/taurus-on-2nd-house-cusp/) :** le Taureau dans sa maison naturelle — un rapport patient à l’argent et aux biens ; vous aimez la qualité, et gardez ce qui est bon.
@@ -100,4 +100,4 @@ En [synastrie](/synastry/), les planètes en Taureau apportent la stabilité et 
 - **« Les Taureaux sont paresseux. »** Le Taureau avance à son rythme, et une fois lancé, il s’arrête rarement. Lent à démarrer ne veut pas dire oisif.
 - **« Le Taureau ne pense qu’à l’argent et aux objets. »** Le Taureau tient à ce qui est réel et durable, et cela comprend les gens, le temps, et le soin qu’on leur porte.
 - **« Le Taureau ne change jamais. »** Les signes fixes tiennent leur cap ; ils changent quand les raisons sont solides. Constance et entêtement sont la même qualité, vue de deux côtés.
-- **« Le jour où le Soleil change de signe, on est à moitié Bélier. »** À la minute de votre naissance, le Soleil était dans l’un ou l’autre signe ; à un jour près d’un changement, votre heure de naissance tranche. C’est tout le sujet des [naissances entre deux signes](/astrology/born-on-the-cusp/).
+- **« Le jour où le Soleil change de signe, on est à moitié Bélier. »** À la minute de votre naissance, le Soleil était en Bélier ou en Taureau, jamais dans les deux à la fois ; à moins d’un jour du changement, votre heure de naissance dit lequel. Les [naissances entre deux signes](/astrology/born-on-the-cusp/) ont une page à elles.

@@ -61,8 +61,8 @@ C’est le résultat, et je ne vais pas l’enjoliver. Si un thème façonnait l
 
 ## Ce que j’ai trouvé {#ce-que-j-ai-trouve}
 
-Dean et Kelly se demandaient si le même thème fait la même personne. Mon carnet posait une question plus modeste : chaque placement d’un thème décrivait-il la personne à qui il appartenait ? J’ai vérifié chaque placement de mon propre thème, Soleil, Lune, ascendant, chaque planète dans son signe et sa maison, avec une coche ou une croix, puis j’ai fait de même pour ma famille, des amis et des inconnus, avec leur accord.
+Dean et Kelly se demandaient si le même thème fait la même personne. Mon carnet posait une question plus modeste : chaque placement d’un thème décrivait-il la personne à qui il appartenait ? J’ai commencé par mon propre thème, en donnant à chaque placement une coche ou une croix, le Soleil, la Lune, l’ascendant et chaque planète dans son signe et sa maison, puis, avec leur accord, j’ai fait de même pour ma famille, des amis et des inconnus.
 
-Dans l’ensemble, environ un tiers a tenu : 30 à 40 %, dont le signe solaire, l’ascendant, Vénus et Mercure, les placements que tout le monde lit en premier. Saturne, Lilith et Chiron ont tenu 75 à 90 % du temps.
+Dans l’ensemble, environ un tiers a tenu : 30 à 40 %, dont le signe solaire, l’ascendant, Vénus et Mercure, les placements que tout le monde lit en premier. Saturne, Lilith et Chiron se distinguaient en tenant 75 à 90 % du temps.
 
-C’est un carnet, pas une étude, et il ne prouve rien sur l’astrologie en général. Il ne pèse certainement pas autant qu’une recherche comme celle-ci. Ce qu’il me donne, c’est une règle pour mes lectures : quand quelque chose repose sur un placement qui a moins souvent tenu dans mes tests, je vous le dis. Le décompte lui-même est dans [mes notes de test](/blog/i-tested-my-birth-chart/).
+Comme c’est un carnet et non une étude, il ne prouve rien sur l’astrologie en général. Il ne pèse certainement pas autant qu’une recherche comme celle-ci. Ce qu’il me donne, c’est une règle pour mes lectures : quand quelque chose repose sur un placement qui a moins souvent tenu dans mes tests, je vous le dis. Le décompte lui-même est dans [mes notes de test](/blog/i-tested-my-birth-chart/).

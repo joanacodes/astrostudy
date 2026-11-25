@@ -44,9 +44,9 @@ Three placements bring most people here:
 
 - **[Sun in Aries](/astrology/sun-in-aries/):** born between about 21 March and 19 April. You find out who you are by trying things, and courage is the muscle you keep training.
 - **[Moon in Aries](/astrology/moon-in-aries/):** feelings arrive fast and leave just as fast. You need to react before you can reflect, and you settle by moving, not by being soothed.
-- **[Aries rising](/astrology/aries-rising/):** you meet the world head on, and people notice your energy before anything else. Mars becomes your [chart ruler](/astrology/chart-ruler/). A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Aries rising](/astrology/aries-rising/):** you meet the world head on, and people notice your energy before anything else. Mars becomes your [chart ruler](/astrology/chart-ruler/). Aries rising can only be found from your [birth time](/blog/unknown-birth-time/), since a new sign rises about every two hours.
 
-None of the three is the whole of you. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Aries through the whole chart: the planets in it, the house it opens, and where Mars sits.
+No single one of the three sums you up. In the pages of [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign held about a third of the time, and so did the rising sign, while the Moon, checked like every other placement, was not among the three that held far more often. So I read Aries through the whole chart: the planets in it, the house it opens, and where Mars sits.
 
 ## Its ruler: Mars {#ruler}
 
@@ -75,7 +75,7 @@ A planet in Aries takes on the sign's speed and honesty; the house it sits in sh
 
 ## Aries on a house cusp {#on-a-house-cusp}
 
-Every chart has Aries somewhere in its twelve houses, usually on the cusp — the starting line — of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Aries opens a house, that's where you act first and ask questions later, and Mars, wherever it sits, says where the story goes next. Which house it is depends on your birth time.
+Every chart has Aries somewhere in its twelve houses, usually on the cusp — the starting line — of one of them. With Placidus or another quadrant system, Aries may begin two houses, or begin none at all when it's [intercepted](/astrology/intercepted-signs/) inside one. Wherever Aries opens a house, that's where you act first and ask questions later, and Mars, wherever it sits, says where the story goes next. The house Aries opens is set by your birth time.
 
 1. **[1st house](/astrology/aries-rising/):** Aries rising — you meet life head on, frank and quick, and people see you as the one who gets things moving.
 2. **[2nd house](/astrology/aries-on-2nd-house-cusp/):** you want to earn your own way, on your own initiative; money decisions come fast, and waiting before you spend is the skill to learn.

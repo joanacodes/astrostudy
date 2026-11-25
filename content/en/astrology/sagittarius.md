@@ -44,13 +44,13 @@ Three placements bring most people here:
 
 - **[Sun in Sagittarius](/astrology/sun-in-sagittarius/):** born between about 22 November and 21 December. You come alive by searching for meaning — through travel, study, belief or simply a good argument. You need a direction more than a destination.
 - **[Moon in Sagittarius](/astrology/moon-in-sagittarius/):** you feel safe when you have room: space, plans, a horizon. Humour is how you comfort yourself and others, and feeling hemmed in is what unsettles you most.
-- **[Sagittarius rising](/astrology/sagittarius-rising/):** you meet the world with openness and frankness, and people find you easy to talk to. Jupiter becomes your [chart ruler](/astrology/chart-ruler/), so where it sits matters a great deal. A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Sagittarius rising](/astrology/sagittarius-rising/):** you meet the world with openness and frankness, and people find you easy to talk to. Jupiter becomes your [chart ruler](/astrology/chart-ruler/), so where it sits matters a great deal. Sagittarius rising is read from your [birth time](/blog/unknown-birth-time/), since the sign on the horizon changes about every two hours.
 
-None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Sagittarius as one voice in a chart, never the whole of it.
+Each is a piece, never the whole. The Sun sign held about a third of the time in [my notebook](/blog/i-tested-my-birth-chart/), and the rising sign too; the Moon, checked like every other placement, wasn't among the three that held far more often. So I read Sagittarius as one voice in a chart, never the whole of it.
 
 ## Its ruler: Jupiter {#ruler}
 
-A sign's ruler is the planet that's at home in it, and where that planet sits in your chart shows where the sign's energy goes. Sagittarius is ruled by [Jupiter](/astrology/jupiter/), which tradition also gave to Pisces: in Pisces, Jupiter's faith turns inwards, towards compassion; in Sagittarius it turns outwards, towards travel, teaching and big ideas. If Sagittarius is on your 6th house cusp and Jupiter sits in your 9th, say, your daily work keeps pulling you towards study or somewhere far away.
+Like every sign, Sagittarius has a ruler: the planet at home in it, whose place in your chart shows where the sign's energy goes. Sagittarius is ruled by [Jupiter](/astrology/jupiter/), which tradition also gave to Pisces: in Pisces, Jupiter's faith turns inwards, towards compassion; in Sagittarius it turns outwards, towards travel, teaching and big ideas. If Sagittarius is on your 6th house cusp and Jupiter sits in your 9th, say, your daily work keeps pulling you towards study or somewhere far away.
 
 Tradition exalts no planet in Sagittarius, and none is in fall here. [Mercury](/astrology/mercury/) is in [detriment](/astrology/detriment/), opposite its home in Gemini: the planet of details in the sign of the big picture. That isn't a weak mind. It's a mind that thinks in stories and principles rather than lists, and has to make a little more effort with the small print.
 
@@ -71,7 +71,7 @@ Every planet passes through Sagittarius sooner or later: the Moon for about two 
 
 ## Sagittarius on a house cusp {#on-a-house-cusp}
 
-Every chart has Sagittarius somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Sagittarius opens a house, that's where you want space, meaning and room to grow, and Jupiter, wherever it sits, carries the story on. Which house it is depends on your birth time.
+Every chart has Sagittarius somewhere in its twelve houses, usually on the cusp of one of them. Two houses can start in Sagittarius in Placidus and the other quadrant systems, or none at all, when the sign is [intercepted](/astrology/intercepted-signs/) inside a house. Wherever Sagittarius opens a house, that's where you want space, meaning and room to grow, and Jupiter, wherever it sits, carries the story on. Your birth time shows which house Sagittarius opens.
 
 1. **[1st house](/astrology/sagittarius-rising/):** Sagittarius rising — an open, frank, restless presence; you meet people as if the conversation had already started.
 2. **[2nd house](/astrology/sagittarius-on-2nd-house-cusp/):** money as freedom rather than security; generous and optimistic with it, sometimes too much so; you may earn through teaching, travel or ideas.
@@ -95,4 +95,4 @@ In [synastry](/synastry/), Sagittarius placements bring enthusiasm, honesty and 
 - **“Sagittarians can't commit.”** Sagittarius needs room to grow; given that, its commitment can be wholehearted. Venus, Saturn and the 7th house say far more about commitment than a Sun sign does.
 - **“Sagittarius is the lucky sign.”** Jupiter's sign is linked with optimism and generosity, not with guaranteed good fortune, and a chart can't predict luck.
 - **“You're really an Ophiuchus.”** The Sun does cross the constellation Ophiuchus, between Scorpius and Sagittarius, but the signs are twelve equal parts of the [tropical zodiac](/astrology/tropical-zodiac/), tied to the seasons. [Ophiuchus](/astrology/ophiuchus-and-the-13th-sign/) is a constellation, not a thirteenth sign.
-- **“Born on 21 or 22 December, you're half Capricorn.”** At the minute you were born the Sun was in one sign; near a change, your birth time settles which ([born on the cusp](/astrology/born-on-the-cusp/)).
+- **“Born on 21 or 22 December, you're half Capricorn.”** The Sun was in Sagittarius or in Capricorn at the minute you were born, not partly in both; near the change, the birth time tells which ([born on the cusp](/astrology/born-on-the-cusp/)).

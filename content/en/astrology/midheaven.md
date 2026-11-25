@@ -92,13 +92,13 @@ In [synastry](/synastry/), the Midheaven shows how another person touches your d
 
 ## Transits to the Midheaven {#transits}
 
-The angles have no return: what moves is the sky. Jupiter reaches your Midheaven about every 12 years, Saturn about every 29½, after climbing through your 9th house. When [Saturn crosses your Midheaven](/astrology/transiting-saturn-conjunct-natal-midheaven/), people often describe a peak of responsibility: what you've built is seen, and asks to be carried. Saturn then moves on through your 10th house ([Saturn transiting the 10th house](/astrology/saturn-transit-10th-house/)). [Jupiter on the Midheaven](/astrology/transiting-jupiter-conjunct-natal-midheaven/) tends to feel like visibility and encouragement; [Pluto](/astrology/transiting-pluto-conjunct-natal-midheaven/), which many people never meet there, like a slow change of direction. Uranus and Neptune, too, reach it once in a lifetime at most.
+The Midheaven, being an angle, has no return; the sky is what does the moving. Jupiter reaches your Midheaven about every 12 years, Saturn about every 29½, after climbing through your 9th house. When [Saturn crosses your Midheaven](/astrology/transiting-saturn-conjunct-natal-midheaven/), people often describe a peak of responsibility: what you've built is seen, and asks to be carried. Saturn then moves on through your 10th house ([Saturn transiting the 10th house](/astrology/saturn-transit-10th-house/)). [Jupiter on the Midheaven](/astrology/transiting-jupiter-conjunct-natal-midheaven/) tends to feel like visibility and encouragement; [Pluto](/astrology/transiting-pluto-conjunct-natal-midheaven/), which many people never meet there, like a slow change of direction. Uranus and Neptune, too, reach it once in a lifetime at most.
 
-A transit is weather, not a forecast: it describes the climate around your work, never a promotion or a dismissal written in advance. And it is only as precise as your birth time.
+A transit is weather, not a forecast: it describes the climate around your work, never a promotion or a dismissal written in advance. And its precision is never better than your birth time's.
 
 ## What held in my tests {#what-held}
 
-My notebook doesn't report the Midheaven on its own, so I won't give it a figure. The angle it reports is the rising sign, which held about a third of the time: 30 to 40%, like most of [what I checked](/blog/i-tested-my-birth-chart/). The three that stood out were [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/), at 75 to 90%. So I read your Midheaven, and I tell you which parts of a reading rest on it, so you can weigh them for yourself. It's a notebook, not a study, and it shapes [how I read](/how-i-read/).
+My notebook doesn't report the Midheaven on its own, so I won't give it a figure. The rising sign is the angle it reports, and it held about a third of the time: 30 to 40%, in line with most of [what I checked](/blog/i-tested-my-birth-chart/). The placements that stood out were [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/), with 75 to 90%. So I read your Midheaven, and I tell you which parts of a reading rest on it, so you can weigh them for yourself. A study it isn't; it's a notebook, and it shapes [how I read](/how-i-read/).
 
 ## Common myths {#myths}
 

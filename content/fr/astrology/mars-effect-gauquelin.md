@@ -70,4 +70,4 @@ Quelques années avant le livre de Gauquelin, Jung avait tenté son propre test 
 
 J’ai vérifié Mars dans mon carnet comme tous les autres placements, dans son signe et dans sa maison, avec une coche ou une croix, dans mon propre thème puis, avec leur accord, dans ceux de ma famille, d’amis et d’inconnus. Mars ne faisait pas partie des trois placements qui ont bien plus souvent tenu : c’étaient Saturne, Lilith et Chiron, à 75 à 90 %. Dans l’ensemble, environ un tiers de ce que j’ai vérifié a tenu, 30 à 40 %, dont le signe solaire, l’ascendant, Vénus et Mercure.
 
-C’est un carnet, pas une étude, et il ne prouve rien sur l’astrologie en général. Ce qu’il change, c’est ma façon de lire : quand quelque chose repose sur un placement qui a moins souvent tenu dans mes tests, je le dis. La méthode est dans [mes notes de test](/blog/i-tested-my-birth-chart/).
+Ce carnet n’est pas une étude, et rien, sur l’astrologie en général, ne s’y trouve prouvé. Ce qu’il change, c’est ma façon de lire : quand quelque chose repose sur un placement qui a moins souvent tenu dans mes tests, je le dis. [Mes notes de test](/blog/i-tested-my-birth-chart/) exposent la méthode.

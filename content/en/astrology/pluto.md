@@ -47,7 +47,7 @@ Pluto is the slowest of the [generational planets](/astrology/personal-social-an
 
 Pluto is the modern ruler of [Scorpio](/astrology/scorpio/); before 1930, Scorpio belonged to [Mars](/astrology/mars/), and traditional astrologers still read it that way. It's the last of the three planets beyond Saturn, after [Uranus](/astrology/uranus/) and [Neptune](/astrology/neptune/). Like them, it spends about five months of every year retrograde, so many people are born with [Pluto retrograde](/astrology/pluto-retrograde/). I read it as change worked through inside first — [a rhythm, not a delay](/blog/retrograde-planets/).
 
-Its aspects are where it gets personal. With the [Moon conjunct Pluto](/astrology/moon-conjunct-pluto/), feelings run very deep and are guarded closely. A [Sun square Pluto](/astrology/sun-square-pluto/) often describes someone who had to claim their own strength, sometimes against someone else's. A [Venus opposite Pluto](/astrology/venus-opposite-pluto/) loves all or nothing, and learns that closeness doesn't need control. And a [Mars conjunct Pluto](/astrology/mars-conjunct-pluto/) has a staying power few people can match.
+It's through its aspects that a reading of Pluto gets personal. With the [Moon conjunct Pluto](/astrology/moon-conjunct-pluto/), feelings run very deep and are guarded closely. A [Sun square Pluto](/astrology/sun-square-pluto/) often describes someone who had to claim their own strength, sometimes against someone else's. A [Venus opposite Pluto](/astrology/venus-opposite-pluto/) loves all or nothing, and learns that closeness doesn't need control. And a [Mars conjunct Pluto](/astrology/mars-conjunct-pluto/) has a staying power few people can match.
 
 ## Pluto through the signs {#through-the-signs}
 
@@ -95,7 +95,7 @@ As it moves through a house, Pluto stays for many years: [Pluto transiting the 4
 
 ## What held in my tests {#what-held}
 
-I checked Pluto like every other placement in [my notebook](/blog/i-tested-my-birth-chart/): its sign and its house, mine first, then my family's, friends' and strangers', with their consent. It wasn't one of the three that held far more often — [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/) held 75 to 90% of the time — and across everything I checked, about a third held. So I read Pluto through its house and its aspects, I hold it lightly, and when part of a reading rests on it, I tell you. It's a notebook, not a study, and it shapes [how I read](/how-i-read/).
+I checked Pluto like every other placement in [my notebook](/blog/i-tested-my-birth-chart/): its sign and its house, mine first, then my family's, friends' and strangers', with their consent. Pluto didn't make the three that held far more often, which were [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/) at 75 to 90% of the time, and overall about a third of everything I checked held. So I read Pluto through its house and its aspects, I hold it lightly, and when part of a reading rests on it, I tell you. These are a notebook's findings, not a study's, and they shape [how I read](/how-i-read/).
 
 ## Common myths {#myths}
 

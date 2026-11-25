@@ -91,13 +91,13 @@ In [synastry](/synastry/), the IC shows who feels like home. When someone's Moon
 
 ## Transits to the IC {#transits}
 
-The angles have no return: what moves is the sky. A slow planet crossing your IC is, by definition, opposite your Midheaven, so when [Saturn is opposite your natal Midheaven](/astrology/transiting-saturn-opposite-natal-midheaven/), it is on your IC. That happens about every 29½ years, before Saturn moves on through your 4th house ([Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/)), and people often describe it as a time of foundations: home, family and where you belong, all asking for attention at once. [Jupiter opposite the Midheaven](/astrology/transiting-jupiter-opposite-natal-midheaven/), about every 12 years, tends to bring more room to breathe at home; [Pluto opposite the Midheaven](/astrology/transiting-pluto-opposite-natal-midheaven/), which many people never meet, a slow rebuilding of roots.
+Like the other angles, the IC has no return: it's the sky that moves. A slow planet crossing your IC is, by definition, opposite your Midheaven, so when [Saturn is opposite your natal Midheaven](/astrology/transiting-saturn-opposite-natal-midheaven/), it is on your IC. That happens about every 29½ years, before Saturn moves on through your 4th house ([Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/)), and people often describe it as a time of foundations: home, family and where you belong, all asking for attention at once. [Jupiter opposite the Midheaven](/astrology/transiting-jupiter-opposite-natal-midheaven/), about every 12 years, tends to bring more room to breathe at home; [Pluto opposite the Midheaven](/astrology/transiting-pluto-opposite-natal-midheaven/), which many people never meet, a slow rebuilding of roots.
 
-A transit is weather, not a forecast: it describes the climate at home, never a move or a family event written in advance. And it is only as precise as your birth time.
+A transit is weather, not a forecast: it describes the climate at home, never a move or a family event written in advance. And it can't be more precise than your birth time.
 
 ## What held in my tests {#what-held}
 
-My notebook doesn't report the IC on its own, so I won't give it a figure. The angle it reports is the rising sign, which held about a third of the time: 30 to 40%, like most of [what I checked](/blog/i-tested-my-birth-chart/). The three that stood out were [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/), at 75 to 90%. I read the IC carefully, because home is tender ground, and I tell you which parts of a reading rest on it. It's a notebook, not a study, and it shapes [how I read](/how-i-read/).
+My notebook doesn't report the IC on its own, so I won't give it a figure. Of the angles, it reports the rising sign, which held about a third of the time, 30 to 40%, as most of [what I checked](/blog/i-tested-my-birth-chart/) did. Three stood out from the rest, [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/), at 75 to 90%. I read the IC carefully, because home is tender ground, and I tell you which parts of a reading rest on it. A notebook rather than a study, it shapes [how I read](/how-i-read/) all the same.
 
 ## Common myths {#myths}
 

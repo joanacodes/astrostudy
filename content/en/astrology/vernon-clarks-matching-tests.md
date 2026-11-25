@@ -58,6 +58,6 @@ None of this says astrologers are dishonest, or that the people who feel describ
 
 My notebook is not a matching test. I started with my own chart, giving each placement a tick or a cross: Sun, Moon, rising, and each planet in its sign and house. Then I did the same, with their consent, for family, friends and strangers, who marked the lines of their own charts.
 
-About a third of what I checked held overall, 30 to 40%, and the placements everyone reads first, the Sun sign, the rising sign, Venus and Mercury, are among those. Saturn, Lilith and Chiron held 75 to 90% of the time.
+About a third of what I checked held overall, 30 to 40%, and the placements everyone reads first, the Sun sign, the rising sign, Venus and Mercury, are among those. The exceptions were Saturn, Lilith and Chiron, which held 75 to 90% of the time.
 
 Everyone in it knew whose chart they were looking at, so the notebook can't answer a matching test, and it doesn't try. It's a notebook rather than a study, and it proves nothing about astrology in general. What it changes is how I work: when part of a reading rests on a placement that held less often, I say so ([How I read](/how-i-read/)). The tally, line by line, is in [my testing notes](/blog/i-tested-my-birth-chart/).

@@ -94,7 +94,7 @@ Jupiter passe aussi environ quatre mois par an en rétrogradation : beaucoup de
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-J’ai vérifié Jupiter comme tout le reste de [mon carnet](/blog/i-tested-my-birth-chart/) : son signe et sa maison, dans mon propre thème d’abord, puis dans ceux de ma famille, d’amis et d’inconnus, avec leur accord, une coche ou une croix à côté de chaque ligne. Jupiter ne fait pas partie des trois qui ont tenu bien plus souvent — [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/) ont tenu 75 à 90 % du temps — et, sur l’ensemble de ce que j’ai vérifié, environ un tiers a tenu. Je lis donc Jupiter dans chaque thème, mais avec du recul, et quand une partie de la lecture en dépend, je vous le dis. C’est un carnet, pas une étude, et il façonne [ma façon de lire](/how-i-read/).
+J’ai vérifié Jupiter comme tout le reste de [mon carnet](/blog/i-tested-my-birth-chart/) : son signe et sa maison, dans mon propre thème d’abord, puis dans ceux de ma famille, d’amis et d’inconnus, avec leur accord, une coche ou une croix à côté de chaque ligne. Jupiter ne fait pas partie des trois qui ont tenu bien plus souvent — [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/) ont tenu 75 à 90 % du temps — et, sur l’ensemble de ce que j’ai vérifié, environ un tiers a tenu. Je lis donc Jupiter dans chaque thème, mais avec du recul, et quand une partie de la lecture en dépend, je vous le dis. J’ai tenu un carnet, pas une étude, et il façonne [ma façon de lire](/how-i-read/).
 
 ## Idées reçues {#idees-recues}
 

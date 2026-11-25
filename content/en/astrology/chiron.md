@@ -73,7 +73,7 @@ Chiron's uneven orbit means its transits arrive at different ages for different 
 
 ## What held in my tests {#what-held}
 
-When I checked charts placement by placement — mine, then my family's, friends', and strangers' who told me nothing first — Chiron, [Saturn](/astrology/saturn/) and [Lilith](/astrology/black-moon-lilith/) held 75 to 90% of the time, while most placements held about a third. It's a notebook, not a study: a count by hand, mostly on people I knew. But it's why Chiron gets more time than the Sun in my readings. [How I tested](/blog/i-tested-my-birth-chart/), and [how I read the three](/blog/saturn-chiron-lilith/).
+When I checked charts placement by placement — mine, then my family's, friends', and strangers' who told me nothing first — Chiron, [Saturn](/astrology/saturn/) and [Lilith](/astrology/black-moon-lilith/) held 75 to 90% of the time, while most placements held about a third. A count by hand, mostly on people I knew, makes a notebook, not a study. But it's why Chiron gets more time than the Sun in my readings. You can read [how I tested](/blog/i-tested-my-birth-chart/), and [how I read Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/).
 
 ## Common myths {#myths}
 

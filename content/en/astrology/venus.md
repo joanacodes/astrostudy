@@ -47,7 +47,7 @@ I read Venus as taste and attachment rather than luck in love. It answers *what 
 
 Venus works with [Mars](/astrology/mars/): one describes what attracts you, the other how you go after it, and astrologers read the two together for desire. With the [Moon](/astrology/moon/), it shows the difference between what you want and what you need; with [Mercury](/astrology/mercury/), how you put affection into words. It rules [Taurus](/astrology/taurus/) and [Libra](/astrology/libra/) — pleasure of the senses, grace between people — and is said to be exalted in [Pisces](/astrology/pisces/). It is least at ease in Aries and Scorpio, opposite its own signs, and in Virgo, its fall: love there is more direct, more intense or more careful, never smaller.
 
-Its aspects are where it becomes yours. Venus is never more than about 47° from the Sun, so the only major aspect the two can make is the conjunction — [Sun conjunct Venus](/astrology/sun-conjunct-venus/): warmth at the centre of who you are. [Venus conjunct Mars](/astrology/venus-conjunct-mars/) puts attraction and pursuit in the same place. A [Venus square Saturn](/astrology/venus-square-saturn/) often describes love learned carefully, sometimes late, and then kept. And a [Moon trine Venus](/astrology/moon-trine-venus/) tends to make affection feel natural, given and received without fuss.
+Its aspects are where it becomes yours. Venus is never more than about 47° from the Sun, so the only major aspect the two can make is the conjunction — [Sun conjunct Venus](/astrology/sun-conjunct-venus/): warmth at the centre of who you are. With [Venus conjunct Mars](/astrology/venus-conjunct-mars/), what draws you and what you go after sit in one place. A [Venus square Saturn](/astrology/venus-square-saturn/) often describes love learned carefully, sometimes late, and then kept. And a [Moon trine Venus](/astrology/moon-trine-venus/) tends to make affection feel natural, given and received without fuss.
 
 ## Venus through the signs {#through-the-signs}
 
@@ -95,7 +95,7 @@ Being born during a Venus retrograde changes the rhythm of affection rather than
 
 ## What held in my tests {#what-held}
 
-Venus is one of the placements everyone reads first, and in [my notebook](/blog/i-tested-my-birth-chart/) it held about a third of the time: 30 to 40%, with the Sun sign, the rising sign and Mercury. That's close to what a flattering, vague horoscope scores. It isn't nothing, and I read Venus in every chart. But [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/) held 75 to 90% of the time, so that's where I spend the most time — and when part of a reading rests on Venus, I tell you, so you can weigh it for yourself. It's a notebook, not a study, and it shapes [how I read](/how-i-read/).
+Venus is one of the placements everyone reads first, and in [my notebook](/blog/i-tested-my-birth-chart/) it held about a third of the time: 30 to 40%, with the Sun sign, the rising sign and Mercury. A flattering, vague horoscope scores about the same. It isn't nothing, and I read Venus in every chart. But [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/) held 75 to 90% of the time, so that's where I spend the most time — and when part of a reading rests on Venus, I tell you, so you can weigh it for yourself. Not a study, then, but a notebook, and one that shapes [how I read](/how-i-read/).
 
 ## Common myths {#myths}
 

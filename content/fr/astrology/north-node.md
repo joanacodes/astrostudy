@@ -96,7 +96,7 @@ Environ tous les 18,6 ans, les nœuds reviennent à la place qu’ils occupaient
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-Mon carnet ne nomme pas les nœuds. Quand j’ai [passé des thèmes au crible comme une facture](/blog/i-tested-my-birth-chart/) (Soleil, Lune, ascendant, chaque planète dans son signe et sa maison), environ un tiers de ce que j’ai vérifié a tenu : 30 à 40 %. L’angle qu’il rapporte, c’est l’ascendant, qui a tenu lui aussi environ une fois sur trois. Les trois placements qui se sont détachés sont [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/), à 75 à 90 %. Je n’ai donc aucun chiffre pour le Nœud Nord, et je n’en inventerai pas. Je le lis comme une direction à essayer, jamais comme un verdict, et je vous dis quand une partie de la lecture s’appuie sur lui.
+Mon carnet ne nomme pas les nœuds. Quand j’ai [passé des thèmes au crible comme une facture](/blog/i-tested-my-birth-chart/) (Soleil, Lune, ascendant, chaque planète dans son signe et sa maison), environ un tiers de ce que j’ai vérifié a tenu : 30 à 40 %. L’angle qu’il rapporte, c’est l’ascendant, qui a tenu lui aussi environ une fois sur trois. À 75 à 90 %, [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/) sont les trois placements qui se sont détachés. Je n’ai donc aucun chiffre pour le Nœud Nord, et je n’en inventerai pas. Je le lis comme une direction à essayer, jamais comme un verdict, et je vous dis quand une partie de la lecture s’appuie sur lui.
 
 ## Idées reçues {#idees-recues}
 
