@@ -5,6 +5,8 @@ description: "Transiting Chiron sextile natal Midheaven: a quiet opening to brin
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Chiron", "Midheaven", "sextile", "transits"]
 weight: 1913
 glyph: "⚷⚹MC"
 definition: "Transiting Chiron sextile natal Midheaven is Chiron 60° from the degree at the top of your birth chart, usually three times by 80. Chances come to put the experience of an old sore spot to use in public, if you take them. It needs your birth time and place, and it promises no particular job."
