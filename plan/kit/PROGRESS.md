@@ -42,8 +42,9 @@ until 3:50 am Paris Friday 20th November" (= 02:50 UTC).
 - Transit pages fact-checked against the ephemeris (astronomy-engine, geocentric, true ecliptic of date): 25 figures
   corrected (mostly ages of later hits, a few sign stays and birth spans the writers had worked out themselves) and three
   statements made exact ("most births from …" twice, the type of the 2031 eclipse).
-- Repeated sentences: overlap.py found 92 (EN) and 109 (FR) sentences on two pages or more (679 rewrites); reworded on
-  25 November.
+- Repeated sentences: overlap.py found 92 (EN) and 109 (FR) sentences on two pages or more; on 25 November 388
+  sentences were reworded in English and 393 in French, on 259 pages, each kept word for word on one page only. overlap.py
+  now finds none in either language (main 57d9635).
 
 ## Facts learned on the way
 - The data's firstHitAge is the age on the first day within orb (1½° applying), for births every fifth day from
