@@ -5,6 +5,8 @@ description: "Transiting Chiron trine natal Sun: about ten months when what an o
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Chiron", "Sun", "trine", "transits"]
 weight: 1860
 glyph: "⚷△☉"
 definition: "Transiting Chiron trine natal Sun is Chiron 120° from your birth Sun, usually for about ten months, about three times in a life. What you learned around an old difficulty flows into how you express yourself, and passing it on comes easily. I read it as ease to use, not a cure."
