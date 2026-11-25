@@ -24,7 +24,7 @@ faq:
   - q: "Why will I never have Neptune conjunct my Uranus?"
     a: "Because Uranus moves faster than Neptune, and if it was behind Neptune when you were born, Neptune can’t catch it up in a lifetime. That was the case for everyone born before the early 1990s, when the two planets met in the sky. Nearly 4 people in 5 born between 1930 and 2009 never meet it."
   - q: "At what age does Neptune conjunct Uranus happen?"
-    a: "For those who meet it, between the first months and about 13. In the site’s count it came in the first months for someone born at the start of 1995 and at about 7 for 2005. People born with Uranus in Aries, from 2010 to 2018, meet it between about 12 and 20."
+    a: "For those who meet it, between the first months and about 13. In the site’s count it came in the first months for someone born at the start of 1995 and at about 7 for 2005. People born with Uranus in Aries, from 2010 to 2019, meet it between about 13 and 20."
   - q: "Can you read Neptune conjunct Uranus in a child’s chart?"
     a: "I don’t read children’s charts, for this transit or any other. A chart read too early can become a label a child grows into. If you had this transit as a child, I treat it as part of your background, not as an explanation of the way your life has gone."
 sources:
@@ -49,7 +49,7 @@ Like every Neptune transit with my orbs, 1½° before exact to 1° after, it las
 
 Nearly 4 people in 5 born between 1930 and 2009 never meet it, and those who did met it once, between their first months and about 13: in the first months for someone born at the start of 1995, at about 7 for 2005. Born before the early 1990s, with Uranus still behind Neptune, you won't meet it in a lifetime.
 
-The next generation to meet it is the one born with Uranus in Aries, from 2010 to 2018: Neptune's years in Aries bring it to them between about 12 and 20, most of them still younger than anyone I read for.
+The next generation to meet it is the one born with Uranus in Aries, from 2010 to 2019: Neptune's years in Aries bring it to them between about 13 and 20, most of them still younger than anyone I read for.
 
 For someone born at the start of 1995, the conjunction came in the first months; [transiting Neptune sextile natal Uranus](/astrology/transiting-neptune-sextile-natal-uranus/) follows at about 27, [transiting Neptune square natal Uranus](/astrology/transiting-neptune-square-natal-uranus/) at about 40½ and [transiting Neptune trine natal Uranus](/astrology/transiting-neptune-trine-natal-uranus/) at about 54. [Transiting Neptune opposite natal Uranus](/astrology/transiting-neptune-opposite-natal-uranus/) lies near 80 or beyond.
 

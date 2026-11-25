@@ -49,7 +49,7 @@ With my orbs of 1½° before exact and 1° after, a pass runs for about two year
 
 The birth year sets the age of the first pass: about 47 for someone born at the start of 1935, around the first birthday for 1945, then about 13 for 1955, 25 for 1965, 36 for 1975, 46 for 1985, 54 for 1995 and 61½ for 2005. No one in my count waits past about 67.
 
-Your Uranus has two trine points, 120° on either side, and Neptune needs about 55 years to travel from one to the other. About 1 person in 3, mostly born between the early 1940s and the mid-1960s, meets both before 80: at about 1 and 56 for the start of 1945, at about 13 and 67 for 1955.
+Your Uranus has two trine points, 120° on either side, and Neptune needs about 55 years to travel from one to the other. About 1 person in 3, mostly born between the early 1940s and the mid-1960s, meets both before 80: at about 1 and 57 for the start of 1945, at about 13 and 68 for 1955.
 
 Between 2024 and 2037, from the last degree of Pisces to late Aries, Neptune trines Uranus in Sagittarius ([Neptune in Aries, 2026–2039](/astrology/neptune-in-aries-2026-2039/)): people born with Uranus there, from late 1981 to 1988, meet this transit in those years, at about 42 to 49.
 

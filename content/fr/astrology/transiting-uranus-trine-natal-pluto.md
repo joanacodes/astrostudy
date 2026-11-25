@@ -27,7 +27,7 @@ faq:
   - q: "Est-ce que tout le monde a Uranus trigone Pluton ?"
     a: "En transit, oui : toutes les personnes nées entre 1930 et 2009 le rencontrent deux fois avant 80 ans, seul contact entre les deux planètes qui leur vient à toutes deux fois. Dans un thème natal, non : pendant ces quatre-vingts ans, les deux planètes ne se sont jamais approchées à moins de 6° d’un trigone."
   - q: "Qui vit Uranus trigone Pluton en ce moment ?"
-    a: "Les personnes nées de fin 1971 à l’été 1984, dont Pluton est en Balance, vers 48 à 53 ans : depuis les Gémeaux, jusqu’en 2033, Uranus se trouve à 120° de cette position. C’est leur second trigone ; le premier est venu pendant les années d’Uranus en Verseau, de 1995 à 2004."
+    a: "Les personnes nées de fin 1971 à l’été 1984, dont Pluton est en Balance, vers 48 à 54 ans : depuis les Gémeaux, jusqu’en 2033, Uranus se trouve à 120° de cette position. C’est leur second trigone ; le premier est venu pendant les années d’Uranus en Verseau, de 1995 à 2004."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "l’âge du premier trigone selon l’année de naissance, et combien de fois il vient avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits d’Uranus à Pluton dans le thème natal" }
@@ -50,7 +50,7 @@ Chaque trigone reste dans mes orbes, de 1,5° avant l’exactitude à 1° après
 
 Dans le décompte du site, le premier trigone est venu vers 45 ans pour une naissance début 1935, vers 32 ans pour 1955, vers 22 ans pour 1975 et vers 11 ans pour 2005, et le second vingt-sept à trente ans plus tard : avant 80 ans, toutes les naissances de 1930 à 2009 ont connu les deux.
 
-Pour les personnes nées de fin 1971 à l’été 1984, avec [Pluton en Balance](/astrology/pluto-in-libra/), le second trigone vient ces années-ci, vers 48 à 53 ans, pendant la traversée des Gémeaux par Uranus, jusqu’en 2033 ; le premier est venu à la fin de l’adolescence ou au début de la vingtaine, entre 1995 et 2004, pendant le passage d’Uranus en Verseau.
+Pour les personnes nées de fin 1971 à l’été 1984, avec [Pluton en Balance](/astrology/pluto-in-libra/), le second trigone vient ces années-ci, vers 48 à 54 ans, pendant la traversée des Gémeaux par Uranus, jusqu’en 2033 ; le premier est venu à la fin de l’adolescence ou au début de la vingtaine, entre 1995 et 2004, pendant le passage d’Uranus en Verseau.
 
 Entre 1930 et 2009, le ciel n’a jamais approché les deux planètes à moins de 6° d’un trigone : [Uranus trigone Pluton](/astrology/uranus-trine-pluto/) ne figure dans aucun thème natal de ces années, et la facilité de ce couple ne se connaît que par transit. [Uranus en transit carré Pluton du thème natal](/astrology/transiting-uranus-square-natal-pluto/) précède le premier trigone d’environ sept ans et [Uranus en transit opposition Pluton du thème natal](/astrology/transiting-uranus-opposite-natal-pluto/) le suit d’environ quatorze ; [Uranus en transit sextile Pluton du thème natal](/astrology/transiting-uranus-sextile-natal-pluto/) et [Uranus en transit conjonction Pluton du thème natal](/astrology/transiting-uranus-conjunct-natal-pluto/) se trouvent plus loin en arrière dans le tour.
 
