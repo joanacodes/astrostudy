@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Lune", "opposition", "transits"]
 weight: 1630
 glyph: "♄☍☽"
-definition: "Saturne en transit opposition Lune du thème natal, c’est Saturne en face du degré qu’occupait votre Lune à la naissance, quinze ans environ après chaque passage. Neuf mois durant, vos besoins font face aux exigences des autres ou du devoir, et doivent être pesés franchement. J’y lis une saison pour rééquilibrer honnêtement, jamais l’annonce d’une perte."
+definition: "Saturne en transit opposition Lune du thème natal, c’est Saturne de l’autre côté de votre Lune, à mi-parcours de son cycle de 29 ans et demi, là où besoins et devoirs se font face. Neuf mois durant, il faut les peser franchement, souvent avec quelqu’un d’autre. J’y lis une saison pour rééquilibrer honnêtement, jamais l’annonce d’une perte."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "La Lune ☽, vos émotions et vos besoins" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/moon", "/astrology/opposition", "/astrology/moon-opposite-saturn", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit opposition Lune ?"
-    a: "Saturne fait face au degré qu’occupait votre Lune à la naissance, quinze ans environ après son dernier passage dessus. J’y lis une saison où vos besoins rencontrent les attentes des autres ou les exigences d’un engagement, et où les deux doivent être pesés ouvertement. Ce transit demande un équilibre, pas un sacrifice."
+    a: "Saturne se trouve à l’opposé de votre Lune : vos besoins et les exigences que représente Saturne se regardent d’un bout à l’autre du thème. J’y lis une saison où vos besoins rencontrent les attentes des autres ou les exigences d’un engagement, et où les deux doivent être pesés ouvertement. Ce transit demande un équilibre, pas un sacrifice."
   - q: "Combien de temps dure Saturne opposition Lune ?"
-    a: "En général neuf mois environ avec mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, c’est une boucle de trois passages exacts en neuf mois et demi environ ; un passage unique à pleine vitesse peut ne durer que trois semaines. Votre heure de naissance fixe les dates."
+    a: "Une bonne partie de l’année, assez pour une négociation honnête. Avec mes orbes, l’opposition dure en général neuf mois environ ; un peu plus d’une fois sur deux, Saturne revient en arrière et fait trois passages exacts en neuf mois et demi environ. À pleine vitesse, tout peut être réglé en trois semaines. C’est l’heure de naissance qui donne les dates."
   - q: "Saturne opposition ma Lune, est-ce la solitude ?"
     a: "Pas forcément. Pendant cette saison, la solitude face à ses besoins peut se faire sentir, parce que les exigences des autres occupent le devant de la scène. J’y lis un moment pour dire plus clairement ce dont vous avez besoin, et pour voir qui peut vraiment y répondre. C’est un équilibre à trouver, pas un isolement à subir."
   - q: "Saturne opposition Lune, est-ce une mauvaise période pour le couple ?"
@@ -43,13 +43,13 @@ Ce peut être inconfortable, parce que des arrangements qui tenaient tant que pe
 
 Vous remarquerez peut-être aussi la part de vos journées passée à vous adapter aux autres. La Lune est réactive par nature, et Saturne en face montre où cette souplesse est devenue l’habitude de toujours céder. Le travail consiste à garder votre soin pour les autres sans perdre de vue le vôtre.
 
-La maison de votre Lune dit ce qui est pesé. Avec la Lune en maison 3, l’opposition arrive pendant que Saturne traverse votre maison 9 : ce que vous croyez ou prévoyez à long terme tire contre les habitudes quotidiennes et les liens proches ([Saturne en transit en maison 9](/astrology/saturn-transit-9th-house/)). Ces maisons, comme le degré exact de la Lune, viennent de votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si votre thème porte [Lune opposition Saturne](/astrology/moon-opposite-saturn/), vous connaissez ce tiraillement depuis toujours ; le transit lui donne de nouvelles personnes et un nouveau décor.
+La maison de la Lune montre quels besoins sont sur la balance. Avec la Lune en maison 3, l’opposition arrive pendant que Saturne traverse votre maison 9 : ce que vous croyez ou prévoyez à long terme tire contre les habitudes quotidiennes et les liens proches ([Saturne en transit en maison 9](/astrology/saturn-transit-9th-house/)). Pour ces maisons comme pour le degré exact de la Lune, il faut votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si votre thème porte [Lune opposition Saturne](/astrology/moon-opposite-saturn/), vous connaissez ce tiraillement depuis toujours ; le transit lui donne de nouvelles personnes et un nouveau décor.
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, l’opposition tient en général neuf mois environ. Un peu plus d’une fois sur deux, elle prend la forme d’une boucle de trois passages exacts en neuf mois et demi environ ([Saturne rétrograde](/astrology/saturn-retrograde/)) ; à pleine vitesse, trois semaines.
+Besoins et devoirs restent en général face à face neuf mois environ, comptés avec mes orbes de 1,5° avant l’exactitude et 1° après. Dans un peu plus de la moitié des cas, le demi-tour rétrograde de Saturne ([Saturne rétrograde](/astrology/saturn-retrograde/)) en fait une boucle : trois passages exacts en neuf mois et demi environ. À pleine vitesse, trois semaines.
 
-Avant 80 ans, les personnes nées entre 1930 et 2009 l’ont vécue deux ou trois fois. Elle tombe au point le plus éloigné de chaque cycle, quinze ans environ après [Saturne en transit conjonction Lune du thème natal](/astrology/transiting-saturn-conjunct-natal-moon/) et quinze ans avant le suivant. Ses plus proches voisins sont les trigones : [Saturne en transit trigone Lune du thème natal](/astrology/transiting-saturn-trine-natal-moon/) vient cinq ans environ avant et cinq ans après, souvent une période plus stable pour se préparer ou se remettre. Plus loin se trouvent [Saturne en transit carré Lune du thème natal](/astrology/transiting-saturn-square-natal-moon/), à sept ans environ de chaque côté, et [Saturne en transit sextile Lune du thème natal](/astrology/transiting-saturn-sextile-natal-moon/), à dix ans environ.
+Les personnes nées entre 1930 et 2009 croisent cette opposition deux ou trois fois d’ici 80 ans. Elle tombe au point le plus éloigné de chaque cycle, quinze ans environ après [Saturne en transit conjonction Lune du thème natal](/astrology/transiting-saturn-conjunct-natal-moon/) et quinze ans avant le suivant. Ses plus proches voisins sont les trigones : [Saturne en transit trigone Lune du thème natal](/astrology/transiting-saturn-trine-natal-moon/) vient cinq ans environ avant et cinq ans après, souvent une période plus stable pour se préparer ou se remettre. Plus loin se trouvent [Saturne en transit carré Lune du thème natal](/astrology/transiting-saturn-square-natal-moon/), à sept ans environ de chaque côté, et [Saturne en transit sextile Lune du thème natal](/astrology/transiting-saturn-sextile-natal-moon/), à dix ans environ.
 
 ## Ce qui aide {#ce-qui-aide}
 

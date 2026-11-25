@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Milieu du Ciel", "opposition", "transits"]
 weight: 1620
 glyph: "♃☍MC"
-definition: "Jupiter en transit opposition Milieu du Ciel du thème natal, c’est Jupiter qui franchit votre Fond du Ciel environ tous les douze ans. La croissance se tourne vers vos fondations : le foyer, la vie privée, ce qui vous soutient hors de vue. J’y lis de la place à la racine de votre direction, jamais un recul au travail."
+definition: "Jupiter en transit opposition Milieu du Ciel du thème natal, c’est Jupiter qui franchit votre Fond du Ciel, le point le plus bas du thème, environ tous les douze ans. La croissance se tourne vers vos fondations : foyer, vie privée, soutiens discrets. J’y lis de la place à la racine de votre direction, jamais un recul professionnel."
 facts:
   - { k: "En transit", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Point natal", v: "Le Milieu du Ciel MC, votre direction dans le monde" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/midheaven", "/astrology/imum-coeli", "/astrology/jupiter-transit-4th-house", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit opposition Milieu du Ciel ?"
-    a: "Jupiter se trouve sur votre Fond du Ciel, face à votre Milieu du Ciel, comme environ tous les douze ans. J’y lis une saison où la croissance se tourne vers vos fondations : le foyer, la vie privée, le repos, les gens et les lieux qui vous tiennent d’aplomb. Ce passage ouvre l’année de Jupiter en maison 4."
+    a: "Jupiter a atteint le bas de votre thème, le Fond du Ciel, et regarde de là votre Milieu du Ciel. J’y lis une saison où la croissance se tourne vers vos fondations : le foyer, la vie privée, le repos, les gens et les lieux qui vous tiennent d’aplomb. C’est l’entrée dans l’année de Jupiter en maison 4."
   - q: "Jupiter opposition mon Milieu du Ciel, est-ce mauvais pour ma carrière ?"
     a: "Non. Avec Jupiter sur votre Fond du Ciel, la croissance passe pour un temps par vos fondations, et le travail demande peut-être moins de votre attention, ou en reçoit simplement moins. J’y lis un changement d’accent, jamais un avertissement sur votre emploi. Ce qui grandit à la racine soutient souvent l’étape suivante au travail."
   - q: "Combien de temps dure Jupiter opposition Milieu du Ciel ?"
-    a: "Une onzaine de jours avec mes orbes, de 1,5° avant l’exactitude à 1° après, sept passages sur dix. Les trois autres fois, une boucle rétrograde fait passer Jupiter trois fois sur votre Fond du Ciel en huit mois environ. Suit l’année en maison 4 : la saison dure plus longtemps que le passage."
+    a: "Jupiter reste en général une onzaine de jours au bas du thème avec mes orbes, comme sept passages sur dix ; une boucle rétrograde étire les autres à huit mois environ, sur trois passages exacts. L’année plus calme en maison 4 qui suit dure plus longtemps que l’un comme l’autre."
   - q: "Jupiter sur le Fond du Ciel, est-ce un déménagement ?"
     a: "Pas forcément, et aucun transit ne peut en décider. Le passage de Jupiter sur votre Fond du Ciel donne plus de place au foyer et à la vie privée pendant un an environ : cela peut vouloir dire plus d’espace chez soi, ou plus de temps pour sa propre vie. Un déménagement dépend de votre situation et de vos choix."
 sources:
@@ -39,17 +39,17 @@ sources:
 
 [Jupiter](/astrology/jupiter/) élargit et donne du sens ; le [Milieu du Ciel](/astrology/midheaven/) est la façon dont vos capacités deviennent visibles dans le monde. Une [opposition](/astrology/opposition/) les relie par la polarité : quand Jupiter fait face à votre Milieu du Ciel, c’est l’autre bout de l’axe qui s’éclaire, la base, la continuité et l’appartenance qui rendent la vie publique possible. Comme tous les [transits](/astrology/transits/), celui-ci travaille avec ce que votre thème contient déjà, et ici, c’est la part du thème que l’on voit rarement.
 
-Une planète opposée à votre Milieu du Ciel se trouve sur votre [Fond du Ciel](/astrology/imum-coeli/), la cuspide de la maison 4 en Placidus, le système que j’utilise : ce passage ouvre donc [Jupiter en transit en maison 4](/astrology/jupiter-transit-4th-house/). Le Fond du Ciel est une fondation plutôt qu’une adresse : il couvre le foyer et la famille, mais aussi tout ce qui vous donne stabilité, repos et racines. L’appartenance n’est d’ailleurs pas qu’un lieu : une communauté, une langue, une pratique à laquelle vous revenez peuvent être l’endroit où ce transit fait son travail.
+Le point opposé à votre Milieu du Ciel est votre [Fond du Ciel](/astrology/imum-coeli/), et en Placidus, le système de maisons que j’utilise, ce point ouvre la maison 4 : ce passage est donc le premier jour de [Jupiter en transit en maison 4](/astrology/jupiter-transit-4th-house/). Le Fond du Ciel est une fondation plutôt qu’une adresse : il couvre le foyer et la famille, mais aussi tout ce qui vous donne stabilité, repos et racines. L’appartenance n’est d’ailleurs pas qu’un lieu : une communauté, une langue, une pratique à laquelle vous revenez peuvent être l’endroit où ce transit fait son travail.
 
-L’opposition marque le point bas du cycle de Jupiter par rapport à votre Milieu du Ciel. Six ans plus tard environ, Jupiter revient au sommet, et ce qui grandit à la racine cette année devient souvent ce sur quoi vous vous appuierez alors. C’est donc une bonne saison pour bâtir sans bruit plutôt que pour bâtir sous les regards.
+Vu depuis le Milieu du Ciel, c’est le point bas du cycle de douze ans. Six ans plus tard environ, Jupiter revient au sommet, et ce qui grandit à la racine cette année devient souvent ce sur quoi vous vous appuierez alors. C’est donc une bonne saison pour bâtir sans bruit plutôt que pour bâtir sous les regards.
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, Jupiter franchit votre Fond du Ciel en une onzaine de jours, sept fois sur dix. Les trois autres fois, [Jupiter rétrograde](/astrology/jupiter-retrograde/) passe trois fois sur le point, en huit mois environ.
+Tout en bas du thème, Jupiter passe en général une onzaine de jours dans mes orbes de 1,5° avant l’exactitude et 1° après, et sept passages sur dix se déroulent ainsi. Trois sur dix sont plus lents : Jupiter devient rétrograde tout près ([Jupiter rétrograde](/astrology/jupiter-retrograde/)) et va et vient sur votre Fond du Ciel pendant huit mois environ.
 
 Les dates dépendent de votre heure de naissance plus qu’on ne le croit. Des jumeaux nés à vingt minutes d’écart peuvent avoir leur Fond du Ciel à cinq degrés l’un de l’autre, assez pour que l’un vive ce passage des semaines ou des mois avant l’autre. Je lis donc à partir de l’heure inscrite, jamais d’une estimation ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Avant 80 ans, les personnes nées entre 1930 et 2009 ont connu ce passage six ou sept fois, toujours à mi-chemin entre deux passages de [Jupiter en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-jupiter-conjunct-natal-midheaven/). Jupiter y arrive après [Jupiter en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-jupiter-sextile-natal-midheaven/), [Jupiter en transit carré Milieu du Ciel du thème natal](/astrology/transiting-jupiter-square-natal-midheaven/) et [Jupiter en transit trigone Milieu du Ciel du thème natal](/astrology/transiting-jupiter-trine-natal-midheaven/), une fois chacun, et les reforme tous trois sur le chemin de la remontée.
+Jupiter atteint la racine du thème six ou sept fois avant 80 ans chez les personnes nées entre 1930 et 2009, toujours à mi-chemin entre deux passages de [Jupiter en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-jupiter-conjunct-natal-midheaven/). Jupiter y arrive après [Jupiter en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-jupiter-sextile-natal-midheaven/), [Jupiter en transit carré Milieu du Ciel du thème natal](/astrology/transiting-jupiter-square-natal-midheaven/) et [Jupiter en transit trigone Milieu du Ciel du thème natal](/astrology/transiting-jupiter-trine-natal-midheaven/), une fois chacun, et les reforme tous trois sur le chemin de la remontée.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Milieu du Ciel", "conjonction", "transits"]
 weight: 1616
 glyph: "♃☌MC"
-definition: "Jupiter en transit conjonction Milieu du Ciel du thème natal, c’est Jupiter qui franchit, environ tous les douze ans, le sommet de votre thème, le degré qui croisait le méridien à votre naissance. Votre rôle public prend plus de place : visibilité, direction, ce que vous faites au-delà de la vie privée. J’y lis un encouragement, jamais une promesse de réussite."
+definition: "Jupiter en transit conjonction Milieu du Ciel du thème natal, c’est, environ tous les douze ans, le passage de Jupiter sur le degré qui culminait à votre naissance, au sommet du thème. Votre rôle public prend plus de place : visibilité, direction, ce que vous faites au-delà de la vie privée. J’y lis un encouragement, jamais une promesse de réussite."
 facts:
   - { k: "En transit", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Point natal", v: "Le Milieu du Ciel MC, votre direction dans le monde" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/midheaven", "/astrology/jupiter-transit-10th-house", "/astrology/transiting-jupiter-opposite-natal-midheaven", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit conjonction Milieu du Ciel ?"
-    a: "Jupiter franchit le sommet de votre thème, le degré qui se trouvait sur le méridien à votre naissance, comme environ tous les douze ans. J’y lis une saison où ce que vous faites en public trouve une scène plus large, et où la direction de votre travail se voit mieux. Ce passage ouvre l’année de Jupiter en maison 10."
+    a: "Jupiter franchit le point le plus haut de votre thème, là où le zodiaque croisait le méridien au-dessus de votre lieu de naissance. J’y lis une saison où ce que vous faites en public trouve une scène plus large, et où la direction de votre travail se voit mieux. L’année de Jupiter en maison 10 commence avec ce passage."
   - q: "Jupiter sur le Milieu du Ciel, est-ce une promotion ?"
     a: "Pas tel que je le lis. Un transit ne peut promettre ni promotion, ni contrat, ni titre. Le passage de Jupiter sur votre Milieu du Ciel donne plus de place à votre rôle public : de la visibilité, une direction plus nette, des responsabilités proposées. Qu’une promotion en sorte dépend de votre travail, de votre milieu et des décisions des autres."
   - q: "Combien de temps dure Jupiter sur le Milieu du Ciel ?"
-    a: "Une onzaine de jours avec mes orbes, de 1,5° avant l’exactitude à 1° après, quand Jupiter passe une seule fois, soit sept fois sur dix. Une boucle rétrograde porte la durée à huit mois environ, avec trois passages exacts. Suit l’année de Jupiter en maison 10 : la saison dure bien au-delà du passage."
+    a: "Sur le méridien lui-même, peu de temps : une onzaine de jours sept fois sur dix, ou huit mois environ avec trois passages exacts quand Jupiter fait une boucle. La visibilité dure souvent plus longtemps que le passage, car Jupiter passe ensuite un an environ dans votre maison 10."
   - q: "Pourquoi deux applications donnent-elles des dates différentes pour Jupiter sur mon Milieu du Ciel ?"
     a: "En général parce qu’elles n’ont pas reçu tout à fait la même heure ou le même lieu de naissance. Le Milieu du Ciel avance d’environ un degré pour quatre minutes d’heure et pour chaque degré de longitude : un petit écart déplace les dates de quelques jours ou semaines. Le système de maisons, lui, ne change pas le Milieu du Ciel."
 sources:
@@ -46,11 +46,11 @@ Une planète proche du Milieu du Ciel compte parmi les plus visibles d’un thè
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, sept passages sur dix durent une onzaine de jours. Les trois autres sont des boucles pendant [Jupiter rétrograde](/astrology/jupiter-retrograde/), qui ramènent Jupiter sur votre Milieu du Ciel trois fois en huit mois environ.
+Sur le méridien, Jupiter s’attarde rarement. Comptés avec mes orbes, de 1,5° avant l’exactitude à 1° après, sept passages sur dix se font en une onzaine de jours ; pour les trois autres, [Jupiter rétrograde](/astrology/jupiter-retrograde/) fait passer Jupiter trois fois au sommet de votre thème en huit mois environ.
 
 Le Milieu du Ciel demande votre lieu de naissance autant que votre heure. Il avance d’environ un degré pour quatre minutes d’horloge et pour chaque degré de longitude : deux personnes nées au même instant à Londres et à Paris ont des Milieux du Ciel à plus de deux degrés l’un de l’autre, presque toute la largeur de mon orbe. Une erreur sur l’un ou l’autre, et les onze jours glissent : c’est pourquoi je ne lis pas sans les deux ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Avant 80 ans, toutes les personnes nées entre 1930 et 2009 ont connu ce passage six ou sept fois. Entre deux passages, Jupiter fait tout le tour de votre thème : [Jupiter en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-jupiter-sextile-natal-midheaven/) et [Jupiter en transit carré Milieu du Ciel du thème natal](/astrology/transiting-jupiter-square-natal-midheaven/) dans les trois ans, [Jupiter en transit trigone Milieu du Ciel du thème natal](/astrology/transiting-jupiter-trine-natal-midheaven/) vers quatre ans, et [Jupiter en transit opposition Milieu du Ciel du thème natal](/astrology/transiting-jupiter-opposite-natal-midheaven/) vers six ans, sur votre Fond du Ciel, avant que les mêmes angles reviennent sur le chemin de la remontée.
+Six ou sept passages au sommet du thème avant 80 ans : c’est le compte de toutes les personnes nées entre 1930 et 2009. Entre deux de ces passages, Jupiter fait tout le tour de votre thème : [Jupiter en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-jupiter-sextile-natal-midheaven/) et [Jupiter en transit carré Milieu du Ciel du thème natal](/astrology/transiting-jupiter-square-natal-midheaven/) dans les trois ans, [Jupiter en transit trigone Milieu du Ciel du thème natal](/astrology/transiting-jupiter-trine-natal-midheaven/) vers quatre ans, et [Jupiter en transit opposition Milieu du Ciel du thème natal](/astrology/transiting-jupiter-opposite-natal-midheaven/) vers six ans, sur votre Fond du Ciel, avant que les mêmes angles reviennent sur le chemin de la remontée.
 
 ## Ce qui aide {#ce-qui-aide}
 

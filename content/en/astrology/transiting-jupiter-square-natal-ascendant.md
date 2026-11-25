@@ -41,7 +41,7 @@ A square to your Ascendant is a square to your Descendant too: Jupiter, 90° fro
 
 The first square comes about three years after Jupiter crossed your Ascendant, usually while it's low in your chart, in your 3rd or 4th house in Placidus, so the pressure starts from home, family or daily exchanges ([Jupiter transiting the 4th house](/astrology/jupiter-transit-4th-house/)). The second comes about nine years after, usually from your 9th or 10th: the push comes from work, study or a public role that wants you to show up differently. Coming three years after a crossing, the first square tends to test whether the manner you began with can carry real weight; the second, whether it still suits the life you've built since.
 
-It's easy to confuse this square with Jupiter crossing your Midheaven or IC, but the [Midheaven](/astrology/midheaven/) is rarely exactly 90° from the Ascendant. At London's latitude it can sit anywhere from about 54° to 126° away, so the two moments can fall more than a year apart. The gap depends on your birth time and place, which is why I don't read a chart without them ([what changes without a birth time](/blog/unknown-birth-time/)).
+It's easy to confuse this square with Jupiter crossing your Midheaven or IC, but the [Midheaven](/astrology/midheaven/) is rarely exactly 90° from the Ascendant. At London's latitude it can sit anywhere from about 54° to 126° away, so the two moments can fall more than a year apart. The gap depends on your birth time and place, and I'd want both before giving you a date ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 

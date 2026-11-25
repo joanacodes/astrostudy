@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Soleil", "sextile", "transits"]
 weight: 1622
 glyph: "♄⚹☉"
-definition: "Saturne en transit sextile Soleil du thème natal, c’est Saturne à 60° du degré qu’occupait votre Soleil à la naissance, deux fois tous les 29 ans et demi. Pendant des mois, une structure s’offre à votre sens de la direction : un cours, un mentor, un projet au long cours. J’y lis un soutien qu’il faut demander, jamais une contrainte."
+definition: "Saturne en transit sextile Soleil du thème natal, c’est Saturne à 60° de votre Soleil, cinq ans environ après chaque conjonction et cinq ans avant la suivante. Pendant des mois, une structure s’offre à votre sens de la direction : un cours, un mentor, un projet au long cours. J’y lis un soutien qu’il faut demander, jamais une contrainte."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Le Soleil ☉, votre identité et votre direction" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/saturn", "/astrology/sun", "/astrology/sextile", "/astrology/sun-sextile-saturn", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit sextile Soleil ?"
-    a: "Saturne se trouve à 60° du degré qu’occupait votre Soleil à la naissance, comme deux fois tous les 29 ans et demi. J’y lis une saison où une structure s’offre à votre sens de la direction : un cours, un mentor, un long projet enfin daté. Elle soutient ce que vous bâtissez sans le bâtir à votre place."
+    a: "Saturne se tient à deux signes de votre Soleil, dans un élément qui s’accorde avec celui du Soleil, à cinq ans environ d’une conjonction. J’y lis une saison où une structure s’offre à votre sens de la direction : un cours, un mentor, un long projet enfin daté. Elle soutient ce que vous bâtissez sans bâtir à votre place."
   - q: "Quand est-ce que Saturne forme un sextile avec mon Soleil ?"
-    a: "Environ cinq ans après le passage de Saturne sur votre Soleil, puis environ cinq ans avant le suivant. Tant que Saturne est en Bélier, jusqu’en avril 2028, le sextile touche les anniversaires en Gémeaux et en Verseau ; ensuite, jusqu’au milieu de 2030, ceux en Cancer et en Poissons. Le degré de votre Soleil donne les mois."
+    a: "Environ cinq ans après le passage de Saturne sur votre Soleil, puis de nouveau cinq ans environ avant son retour : vers cinq et vingt-cinq ans dans chaque cycle. Saturne passe deux ans et demi environ dans un signe ; votre signe solaire réduit donc la fenêtre à deux ans environ, et le degré de votre Soleil à quelques mois."
   - q: "Combien de temps dure Saturne sextile Soleil ?"
-    a: "En général neuf mois environ avec mes orbes, de 1,5° avant l’exactitude à 1° après, et un peu plus d’une fois sur deux en boucle, avec trois passages exacts. Quand Saturne file à pleine vitesse, cela peut ne durer que trois semaines. C’est assez long pour lancer quelque chose et le voir prendre forme."
+    a: "Assez longtemps pour lancer quelque chose et le voir prendre forme : neuf mois environ en général avec mes orbes, souvent en boucle, avec trois passages exacts. Ce n’est qu’à pleine vitesse que le sextile se réduit à trois semaines environ."
   - q: "Saturne sextile mon Soleil, est-ce le bon moment pour s’engager ?"
     a: "C’est l’une des meilleures saisons pour cela, tel que je le lis : une structure est disponible et votre sens de la direction peut s’en servir. Un cours, un long projet, une promesse que vous comptez tenir s’y prêtent bien. Le sextile soutient ce que vous décidez ; la décision reste la vôtre."
 sources:
@@ -41,15 +41,15 @@ Cinq ans environ après son passage sur votre Soleil, Saturne atteint 60° au-de
 
 Les deux sextiles d’un cycle n’ont pas la même tâche. Le premier, cinq ans après un passage, donne forme à ce que vous aviez engagé alors : le projet reçoit son calendrier, le savoir-faire sa pratique. Le second, cinq ans avant le passage suivant, est plus discret et plus pratique : ce que vous avez bâti peut être transmis, simplifié, ou rendu assez solide pour tenir sans votre surveillance.
 
-La maison que traverse Saturne plante le décor. Depuis votre maison 11, par exemple, le soutien passe par un groupe, un réseau ou une amitié riche d’expérience ([Saturne en transit en maison 11](/astrology/saturn-transit-11th-house/)). Si votre thème porte [Soleil sextile Saturne](/astrology/sun-sextile-saturn/), vous connaissez cette coopération de l’intérieur, et chaque sextile en transit la rejoue dans un autre domaine de votre vie.
+Depuis votre maison 11, par exemple, Saturne apporte son soutien par un groupe, un réseau ou une amitié riche d’expérience ([Saturne en transit en maison 11](/astrology/saturn-transit-11th-house/)). Si votre thème porte [Soleil sextile Saturne](/astrology/sun-sextile-saturn/), vous connaissez cette coopération de l’intérieur, et chaque sextile en transit la rejoue dans un autre domaine de votre vie.
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, le sextile tient en général neuf mois environ. Un peu plus d’une fois sur deux, c’est une boucle, avec trois passages exacts en neuf mois et demi environ, au gré des rétrogradations de Saturne ; à pleine vitesse, tout peut passer en trois semaines.
+Avec mes orbes, de 1,5° avant l’exactitude à 1° après, un sextile de Saturne vous laisse une bonne partie de l’année pour saisir son offre : neuf mois environ en règle générale, neuf mois et demi quand il prend la forme d’une boucle de trois passages exacts, comme un peu plus d’une fois sur deux. Un passage à pleine vitesse fait exception, avec trois semaines environ.
 
-Le degré de votre Soleil vient de votre date de naissance : vous pouvez donc situer ce transit vous-même, à peu près. Tant que Saturne est en Bélier, jusqu’en avril 2028, le sextile tombe sur les anniversaires en Gémeaux et en Verseau ; ensuite, jusqu’au milieu de 2030, avec Saturne en Taureau, sur les anniversaires en Cancer et en Poissons. Les maisons où il se joue demandent toujours votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le degré de votre Soleil vient de votre date de naissance : vous pouvez donc situer ce transit vous-même, à peu près. Les anniversaires en Gémeaux et en Verseau le vivent maintenant, avec Saturne en Bélier jusqu’en avril 2028 ; ceux en Cancer et en Poissons suivent, pendant la traversée du Taureau, jusqu’au milieu de 2030. La maison par laquelle ce sextile agit est une autre affaire, qui demande votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Avant 80 ans, les personnes nées entre 1930 et 2009 ont connu cinq ou six de ces sextiles. Dans chaque cycle, le premier suit [Saturne en transit conjonction Soleil du thème natal](/astrology/transiting-saturn-conjunct-natal-sun/) et précède de deux ans environ [Saturne en transit carré Soleil du thème natal](/astrology/transiting-saturn-square-natal-sun/) ; [Saturne en transit trigone Soleil du thème natal](/astrology/transiting-saturn-trine-natal-sun/) et [Saturne en transit opposition Soleil du thème natal](/astrology/transiting-saturn-opposite-natal-sun/) viennent ensuite, et le second sextile est la dernière étape avant le passage suivant.
+Un sextile de Saturne au Soleil revient cinq ou six fois avant 80 ans pour les personnes nées entre 1930 et 2009. Dans chaque cycle, le premier suit [Saturne en transit conjonction Soleil du thème natal](/astrology/transiting-saturn-conjunct-natal-sun/) et précède de deux ans environ [Saturne en transit carré Soleil du thème natal](/astrology/transiting-saturn-square-natal-sun/) ; [Saturne en transit trigone Soleil du thème natal](/astrology/transiting-saturn-trine-natal-sun/) et [Saturne en transit opposition Soleil du thème natal](/astrology/transiting-saturn-opposite-natal-sun/) viennent ensuite, et le second sextile est la dernière étape avant le passage suivant.
 
 ## Ce qui aide {#ce-qui-aide}
 

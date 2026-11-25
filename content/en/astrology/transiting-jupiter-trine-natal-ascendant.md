@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Ascendant", "rising sign", "trine", "transits"]
 weight: 1614
 glyph: "♃△AC"
-definition: "Transiting Jupiter trine natal Ascendant is Jupiter in a sign of your rising sign’s element, 120° from your rising degree, once below your horizon and once above it every twelve years. Your approach and the growth on offer run the same way, so meeting people and starting things take less effort. I read it as ease to use, never luck."
+definition: "Transiting Jupiter trine natal Ascendant is Jupiter in a sign of your rising sign’s element, 120° from your rising degree, once below your horizon and once above it every twelve years. Your approach and the growth on offer agree, so meeting people and starting things take less effort. I read it as ease to put to work, not luck."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "Natal point", v: "The Ascendant AC, the way you meet the world" }

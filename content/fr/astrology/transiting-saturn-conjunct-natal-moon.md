@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Lune", "conjonction", "transits"]
 weight: 1626
 glyph: "♄☌☽"
-definition: "Saturne en transit conjonction Lune du thème natal, c’est Saturne sur le degré qu’occupait votre Lune à la naissance, deux ou trois fois dans une vie. Neuf mois durant, émotions et besoins demandent une structure : ce qui vous soutient, ce qui ne vous va plus. J’y lis une saison pour prendre vos besoins au sérieux, jamais une sentence."
+definition: "Saturne en transit conjonction Lune du thème natal, c’est Saturne sur le degré natal de votre Lune, que seule l’heure de naissance fixe, deux ou trois fois dans une vie. Neuf mois durant, émotions et besoins demandent une structure : ce qui vous soutient, ce qui est dépassé. J’y lis une saison pour prendre vos besoins au sérieux, jamais une sentence."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "La Lune ☽, vos émotions et vos besoins" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/saturn", "/astrology/moon", "/astrology/moon-conjunct-saturn", "/astrology/astrology-and-mental-health", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit conjonction Lune ?"
-    a: "Saturne, dans le ciel, franchit le degré qu’occupait votre Lune à votre naissance, comme environ tous les 29 ans et demi. J’y lis une saison où vos émotions et vos besoins demandent une structure : des habitudes plus solides, des personnes sur qui compter, un foyer adapté à votre vie d’aujourd’hui. Cela peut peser, et ce n’est jamais une sentence."
+    a: "Saturne passe sur votre Lune, la part du thème qui veille sur les émotions et les besoins, comme tous les 29 ans et demi environ. J’y lis une saison où vos besoins demandent une structure : des habitudes plus solides, des personnes sur qui compter, un foyer qui vous va. Cela peut peser, et ce n’est jamais une sentence."
   - q: "Saturne conjonction Lune, est-ce que cela cause une dépression ?"
     a: "Aucun transit ne cause une dépression, et je ne lis jamais un thème pour en diagnostiquer une. Saturne sur votre Lune peut peser : les émotions réclament de l’attention, et le réconfort se fait plus rare. Si une humeur sombre ou un mauvais sommeil durent plus de quelques semaines, c’est l’affaire d’un médecin ou d’un thérapeute, pas d’un thème."
   - q: "Combien de temps dure Saturne conjonction Lune ?"
-    a: "En général neuf mois environ avec mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, Saturne passe trois fois sur votre Lune, en boucle, sur neuf mois et demi environ ; quand Saturne avance à pleine vitesse, le passage peut ne durer que trois semaines."
+    a: "Une grande partie de l’année, en règle générale : neuf mois environ avec mes orbes, et neuf mois et demi environ quand Saturne, en rétrogradant, franchit votre Lune trois fois, un peu plus d’une fois sur deux. Très rarement, Saturne passe à pleine vitesse, et tout est fini en trois semaines."
   - q: "Faut-il l’heure de naissance pour Saturne conjonction Lune ?"
     a: "Oui. La Lune avance d’environ un demi-degré par heure : sans l’heure, son degré peut être incertain de 13° au plus, ce que Saturne met environ un an à parcourir. Avec l’heure, les dates se resserrent à quelques semaines ; sans elle, je ne les donne pas."
 sources:
@@ -34,7 +34,7 @@ sources:
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Saturne, lus un à un" }
   - { title: "NASA — Moon facts", url: "https://science.nasa.gov/moon/facts/", note: "l’orbite de la Lune, environ 27 jours ⅓, soit 13° environ par jour" }
 ---
-Une fois tous les 29 ans et demi environ, Saturne franchit le degré qu’occupait votre Lune à votre naissance. La part de vous qui s’occupe des émotions, du réconfort et des habitudes qui vous tiennent d’aplomb reçoit alors toute l’attention de Saturne, la plus grande partie d’une année.
+Saturne revient sur le degré natal de votre Lune tous les 29 ans et demi environ, et y reste alors la plus grande partie d’une année. La part de vous qui s’occupe des émotions, du réconfort et des habitudes qui vous tiennent d’aplomb reçoit toute l’attention de Saturne.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -42,15 +42,15 @@ Une fois tous les 29 ans et demi environ, Saturne franchit le degré qu’occupa
 
 Cela peut peser. Le réconfort se fait plus rare, les vieilles façons de vous apaiser ne marchent plus, et vos responsabilités peuvent vous sembler plus solitaires que d’habitude. Ce poids renseigne sur ce qui doit être rebâti ; il ne mesure pas votre valeur. Si une humeur sombre ou un mauvais sommeil durent des semaines, en revanche, c’est l’affaire d’un médecin ou d’un thérapeute, pas d’un thème ([Astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
 
-Dans ma lecture, la Lune n’est pas votre mère, et ce transit ne prédit rien sur elle ni sur personne à la maison. La maison de votre Lune dit où se fait la reconstruction : avec la Lune en maison 4, elle tombe pendant [Saturne en transit en maison 4](/astrology/saturn-transit-4th-house/), et c’est le foyer lui-même qui se remanie. Si votre thème porte [Lune conjonction Saturne](/astrology/moon-conjunct-saturn/), vous vivez ce passage à votre retour de Saturne.
+Dans ma lecture, la Lune n’est pas votre mère, et ce transit ne prédit rien sur elle ni sur personne à la maison. C’est la maison de votre Lune qui montre où se fait la reconstruction : avec la Lune en maison 4, elle tombe pendant [Saturne en transit en maison 4](/astrology/saturn-transit-4th-house/), et c’est le foyer lui-même qui se remanie. Si votre thème porte [Lune conjonction Saturne](/astrology/moon-conjunct-saturn/), vous vivez ce passage à votre retour de Saturne.
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, la conjonction dure en général neuf mois environ. Un peu plus d’une fois sur deux, Saturne passe trois fois sur votre Lune en formant une boucle, rétrograde au milieu, pendant neuf mois et demi environ ([Saturne rétrograde](/astrology/saturn-retrograde/)) ; à pleine vitesse, trois semaines peuvent suffire.
+La plupart des passages sur la Lune gardent Saturne tout près pendant neuf mois environ, avec des orbes, tels que je les utilise, de 1,5° avant l’exactitude et 1° après. Un peu plus d’une fois sur deux, Saturne y passe trois fois en boucle, rétrograde au milieu, pendant neuf mois et demi environ ([Saturne rétrograde](/astrology/saturn-retrograde/)) ; à pleine vitesse, trois semaines peuvent suffire.
 
-De tous les corps de votre thème, la Lune est celui dont le degré dépend le plus de l’heure de naissance. Elle avance d’environ un demi-degré par heure : une heure de naissance totalement inconnue laisse son degré incertain de 13° au plus, soit plus d’un an de route pour Saturne. C’est pourquoi je ne date pas ce transit sans l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)).
+De tous les corps de votre thème, la Lune est celui dont le degré dépend le plus de l’heure de naissance. Elle avance d’environ un demi-degré par heure : une heure de naissance totalement inconnue laisse son degré incertain de 13° au plus, soit plus d’un an de route pour Saturne. Je préfère ne donner aucune date plutôt que des dates fausses : l’heure passe donc en premier ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)).
 
-Avant 80 ans, les personnes nées entre 1930 et 2009 l’ont vécu deux ou trois fois. Les autres transits de Saturne à votre Lune s’étalent entre deux passages : [Saturne en transit opposition Lune du thème natal](/astrology/transiting-saturn-opposite-natal-moon/) marque la mi-parcours, quinze ans environ plus tard ; [Saturne en transit carré Lune du thème natal](/astrology/transiting-saturn-square-natal-moon/) tombe sept ans environ de part et d’autre d’un passage ; [Saturne en transit trigone Lune du thème natal](/astrology/transiting-saturn-trine-natal-moon/) cinq ans environ de part et d’autre de l’opposition ; et [Saturne en transit sextile Lune du thème natal](/astrology/transiting-saturn-sextile-natal-moon/) cinq ans environ après ou avant un passage.
+Personne n’y échappe : toutes les personnes nées entre 1930 et 2009 le rencontrent deux ou trois fois avant 80 ans. Les autres transits de Saturne à votre Lune s’étalent entre deux passages : [Saturne en transit opposition Lune du thème natal](/astrology/transiting-saturn-opposite-natal-moon/) marque la mi-parcours, quinze ans environ plus tard ; [Saturne en transit carré Lune du thème natal](/astrology/transiting-saturn-square-natal-moon/) tombe sept ans environ de part et d’autre d’un passage ; [Saturne en transit trigone Lune du thème natal](/astrology/transiting-saturn-trine-natal-moon/) cinq ans environ de part et d’autre de l’opposition ; et [Saturne en transit sextile Lune du thème natal](/astrology/transiting-saturn-sextile-natal-moon/) cinq ans environ après ou avant un passage.
 
 ## Ce qui aide {#ce-qui-aide}
 

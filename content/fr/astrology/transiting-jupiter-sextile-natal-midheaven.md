@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Milieu du Ciel", "sextile", "transits"]
 weight: 1617
 glyph: "♃⚹MC"
-definition: "Jupiter en transit sextile Milieu du Ciel du thème natal, c’est Jupiter à 60° du sommet de votre thème, deux fois tous les douze ans. Une ouverture se présente pour votre travail et votre rôle public, une offre, un projet, un contact, que la vie privée peut soutenir. J’y lis une invitation qui attend votre réponse, jamais une promotion assurée."
+definition: "Jupiter en transit sextile Milieu du Ciel du thème natal, c’est Jupiter à 60° du sommet de votre thème, deux ans avant ou après chaque passage à ce sommet, donc à 120° du Fond du Ciel. Une ouverture s’offre à votre travail, que la vie privée peut soutenir. J’y lis une invitation qui attend votre réponse, jamais une promotion assurée."
 facts:
   - { k: "En transit", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Point natal", v: "Le Milieu du Ciel MC, votre direction dans le monde" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/midheaven", "/astrology/sextile", "/astrology/imum-coeli", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit sextile Milieu du Ciel ?"
-    a: "Jupiter se trouve à 60° du degré qui marque le sommet de votre thème natal, comme deux fois dans chaque cycle de douze ans. J’y lis une ouverture pour votre travail et votre rôle public : un projet qui va dans votre sens, un contact utile, une offre qui mérite réponse. Ce transit invite sans pousser, et le reste vous appartient."
+    a: "Jupiter a dépassé de deux signes environ le sommet de votre thème, ou se trouve à deux signes d’y revenir. J’y lis une ouverture pour votre travail et votre rôle public : un projet qui va dans votre sens, un contact utile, une offre qui mérite réponse. Ce transit invite sans pousser, et le reste vous appartient."
   - q: "Jupiter sextile Milieu du Ciel, est-ce bon pour la carrière ?"
     a: "Ce peut être une bonne saison pour faire avancer votre travail, tel que je le lis : une offre, un projet ou un contact qui va dans votre direction. Le sextile ouvre la porte ; il ne garantit ni poste, ni augmentation, ni reconnaissance. Ce qui en sort dépend de ce que vous faites de l’ouverture."
   - q: "Combien de temps dure Jupiter sextile Milieu du Ciel ?"
-    a: "Une onzaine de jours avec mes orbes, de 1,5° avant l’exactitude à 1° après, sept fois sur dix. Les trois autres fois, la boucle rétrograde de Jupiter rend le sextile exact trois fois en huit mois environ. Votre heure et votre lieu de naissance fixent les dates, puisqu’ils fixent le Milieu du Ciel."
+    a: "La plupart des offres qui l’accompagnent demandent une réponse rapide : sept sextiles sur dix durent une onzaine de jours avec mes orbes. Les autres tombent pendant les mois rétrogrades de Jupiter et durent huit mois environ, avec trois passages exacts. Les dates suivent votre Milieu du Ciel, que fixent votre heure et votre lieu de naissance."
   - q: "Jupiter sextile mon Milieu du Ciel, est-ce que cela touche ma vie de famille ?"
     a: "Discrètement, oui. Le Milieu du Ciel et le Fond du Ciel sont exactement opposés : un sextile à l’un est un trigone à l’autre. Pendant que Jupiter ouvre quelque chose dans votre rôle public, le foyer et la famille tendent à le soutenir plutôt qu’à lui faire concurrence. Je lis les deux ensemble."
 sources:
@@ -47,11 +47,11 @@ Dans les deux cas, le travail favorisé se voit souvent moins que le passage sur
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, le sextile tient une onzaine de jours, sept fois sur dix. Les trois autres fois, il tombe pendant [Jupiter rétrograde](/astrology/jupiter-retrograde/) et devient exact trois fois en huit mois environ, ce qui laisse à une offre plus lente le temps de prendre forme.
+La porte latérale reste rarement ouverte longtemps. Avec mes orbes de 1,5° avant l’exactitude et 1° après, sept sextiles sur dix sont passés en une onzaine de jours ; les trois autres tombent pendant [Jupiter rétrograde](/astrology/jupiter-retrograde/) et deviennent exacts trois fois en huit mois environ, ce qui laisse à une offre plus lente le temps de prendre forme.
 
 Ces dates dépendent de votre Milieu du Ciel, donc d’une heure de naissance fiable. Si la vôtre manque ou n’est qu’un souvenir, commencez par l’acte de naissance lui-même ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#retrouver-votre-heure)) ; je ne lis pas tant que nous ne l’avons pas.
 
-Avant 80 ans, les personnes nées entre 1930 et 2009 l’ont vécu treize ou quatorze fois. Le premier de chaque cycle suit [Jupiter en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-jupiter-conjunct-natal-midheaven/) de deux ans environ et précède d’un an [Jupiter en transit carré Milieu du Ciel du thème natal](/astrology/transiting-jupiter-square-natal-midheaven/). Le second suit [Jupiter en transit opposition Milieu du Ciel du thème natal](/astrology/transiting-jupiter-opposite-natal-midheaven/) de quatre ans environ, et le dernier [Jupiter en transit trigone Milieu du Ciel du thème natal](/astrology/transiting-jupiter-trine-natal-midheaven/) du cycle de deux ans, quand Jupiter repart vers le sommet de votre thème.
+Avant 80 ans, les personnes nées entre 1930 et 2009 ont connu treize ou quatorze sextiles de Jupiter à leur Milieu du Ciel, la moitié environ avec Jupiter, en Placidus, en maison 11 ou 12 le plus souvent. Le premier de chaque cycle suit [Jupiter en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-jupiter-conjunct-natal-midheaven/) de deux ans environ et précède d’un an [Jupiter en transit carré Milieu du Ciel du thème natal](/astrology/transiting-jupiter-square-natal-midheaven/). Le second suit [Jupiter en transit opposition Milieu du Ciel du thème natal](/astrology/transiting-jupiter-opposite-natal-midheaven/) de quatre ans environ, et le dernier [Jupiter en transit trigone Milieu du Ciel du thème natal](/astrology/transiting-jupiter-trine-natal-midheaven/) du cycle de deux ans, quand Jupiter repart vers le sommet de votre thème.
 
 ## Ce qui aide {#ce-qui-aide}
 

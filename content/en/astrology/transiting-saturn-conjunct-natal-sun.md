@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Saturn", "Sun", "conjunction", "transits"]
 weight: 1621
 glyph: "♄☌☉"
-definition: "Transiting Saturn conjunct natal Sun is Saturn passing over the degree the Sun held on your birthday, only two or three times in a lifetime. For about nine months, structure and responsibility meet your sense of self: what you are for, and what you will commit to. I read it as consolidation, and never as a judgement of you."
+definition: "Transiting Saturn conjunct natal Sun is Saturn on the degree your Sun comes back to each birthday, only two or three times in a lifetime. For about nine months, structure and responsibility meet your sense of self: what you are for, and what you will commit to. I read it as consolidation, and never as a judgement of you."
 facts:
   - { k: "Transiting", v: "Saturn ♄, the planet of structure and time" }
   - { k: "Natal point", v: "The Sun ☉, your identity and direction" }

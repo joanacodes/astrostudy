@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Ascendant", "conjonction", "transits"]
 weight: 1611
 glyph: "♃☌AC"
-definition: "Jupiter en transit conjonction Ascendant du thème natal, c’est Jupiter qui franchit le bord est de votre thème, le degré qui montait à l’horizon à votre naissance, environ tous les douze ans. L’année de Jupiter en maison 1 commence là, et votre façon de commencer et d’aller vers les autres reçoit plus de place. J’y lis une porte qui s’ouvre, jamais une promesse de chance."
+definition: "Jupiter en transit conjonction Ascendant du thème natal, c’est Jupiter qui franchit le bord est de votre thème, le degré qui se levait à votre naissance, environ tous les douze ans. Votre façon de commencer et d’aller vers les autres prend alors plus de place. J’y lis une porte qui s’ouvre, jamais une promesse de chance."
 facts:
   - { k: "En transit", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Point natal", v: "L’Ascendant AC, votre façon d’aborder le monde" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/ascendant", "/astrology/jupiter-transit-1st-house", "/astrology/transiting-jupiter-opposite-natal-ascendant", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit conjonction Ascendant ?"
-    a: "Jupiter atteint le point est de votre thème natal, là où commence votre maison 1, comme environ tous les douze ans. J’y lis une saison où votre façon d’aborder les choses et les gens prend plus de place : des débuts plus faciles, moins de gêne à vous montrer en train d’essayer. Ce qui commence ici se prolonge pendant l’année qui suit."
+    a: "Jupiter atteint le point est de votre thème, là où commence votre maison 1, comme environ tous les douze ans. J’y lis une saison où votre façon d’aborder les choses et les gens prend plus de place : des débuts plus faciles, moins de gêne à vous montrer en train d’essayer. Ce qui commence ici se prolonge l’année suivante."
   - q: "Combien de temps dure Jupiter sur l’Ascendant ?"
     a: "Le passage exact est court : une onzaine de jours avec mes orbes, sept fois sur dix, ou huit mois environ quand une boucle rétrograde porte Jupiter trois fois sur votre degré ascendant. La saison qu’il ouvre dure plus longtemps, car Jupiter passe ensuite un an environ dans votre maison 1."
   - q: "Est-ce que Jupiter sur l’Ascendant fait prendre du poids ?"

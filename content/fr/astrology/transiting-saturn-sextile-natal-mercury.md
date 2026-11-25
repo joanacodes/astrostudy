@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Mercure", "sextile", "transits"]
 weight: 1632
 glyph: "♄⚹☿"
-definition: "Saturne en transit sextile Mercure du thème natal, c’est Saturne à 60° du degré qu’occupait Mercure à votre naissance, deux fois tous les 29 ans et demi. Pendant des mois, votre pensée peut emprunter la méthode de Saturne : un cours, un savoir-faire, une œuvre bâtie pas à pas. J’y lis un soutien à l’apprentissage patient, qui demande de vous inscrire."
+definition: "Saturne en transit sextile Mercure du thème natal, c’est Saturne à 60° de votre Mercure, un angle amical, deux fois en 29 ans et demi. Des mois durant, votre pensée peut emprunter la méthode de Saturne : un cours, un savoir-faire, un travail bâti pas à pas. J’y lis un soutien à l’apprentissage patient, qui demande de vous inscrire."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Mercure ☿, votre façon de penser et de parler" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/mercury", "/astrology/sextile", "/astrology/mercury-sextile-saturn", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit sextile Mercure ?"
-    a: "Saturne se trouve à 60° du degré qu’occupait Mercure à votre naissance, comme deux fois tous les 29 ans et demi. J’y lis une saison où votre pensée peut emprunter la méthode de Saturne : un cours, un savoir-faire, un texte bâti pas à pas. Ce transit soutient l’apprentissage patient, à travers ce que vous entreprenez."
+    a: "Saturne se tient à deux signes de votre Mercure, assez proche par l’esprit pour vous prêter sa rigueur. J’y lis une saison où votre pensée peut emprunter la méthode de Saturne : un cours, un savoir-faire, un texte bâti pas à pas. Ce transit soutient l’apprentissage patient, à travers ce que vous entreprenez."
   - q: "Combien de temps dure Saturne sextile Mercure ?"
-    a: "En général neuf mois environ avec mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, c’est une boucle de trois passages exacts en neuf mois et demi environ ; à pleine vitesse, le sextile peut passer en trois semaines environ."
+    a: "À peu près la durée d’une année scolaire : neuf mois environ avec mes orbes, ou neuf mois et demi en boucle de trois passages exacts, ce qui arrive un peu plus d’une fois sur deux. À pleine vitesse, le sextile peut passer en trois semaines environ."
   - q: "Saturne sextile Mercure, est-ce le bon moment pour apprendre quelque chose ?"
     a: "Oui, tel que je le lis, surtout ce qui demande de la structure : une langue, un instrument, un savoir-faire professionnel, un long texte. Le sextile offre méthode et patience à votre pensée, mais il passe par ce à quoi vous vous inscrivez, et il favorise la pratique régulière plutôt que le bachotage."
   - q: "Et si Mercure devient rétrograde pendant mon sextile de Saturne ?"
@@ -43,15 +43,15 @@ Ce sextile favorise ce qui grandit par la pratique : une langue, un instrument,
 
 Des deux sextiles d’un cycle, le premier, cinq ans environ après le passage de Saturne sur Mercure, convient mieux pour faire sienne une méthode : un vocabulaire, une technique, une discipline de l’attention. Le second, cinq ans environ avant le passage suivant, convient pour la transmettre, en enseignant, en expliquant ou en mettant par écrit ce que vous savez.
 
-La maison que traverse Saturne dit d’où vient la méthode. Depuis votre maison 1, par exemple, elle passe par votre propre discipline, une routine que vous tenez pour vous et personne d’autre ([Saturne en transit en maison 1](/astrology/saturn-transit-1st-house/)). Si votre thème porte [Mercure sextile Saturne](/astrology/mercury-sextile-saturn/), vous avez cette coopération depuis la naissance, et le transit vous invite à vous en servir pour quelque chose de neuf.
+Quand Saturne passe par votre maison 1, par exemple, sa méthode vient de votre propre discipline, une routine que vous tenez pour vous et personne d’autre ([Saturne en transit en maison 1](/astrology/saturn-transit-1st-house/)). Si votre thème porte [Mercure sextile Saturne](/astrology/mercury-sextile-saturn/), vous avez cette coopération depuis la naissance, et le transit vous invite à vous en servir pour quelque chose de neuf.
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, le sextile dure en général neuf mois environ. Un peu plus d’une fois sur deux, c’est une boucle de trois passages exacts en neuf mois et demi environ ([Saturne rétrograde](/astrology/saturn-retrograde/)) ; à pleine vitesse, ce sextile passe en trois semaines environ.
+Avec mes orbes, de 1,5° avant l’exactitude à 1° après, le sextile dure en général à peu près autant qu’un programme d’études, neuf mois environ, et un peu plus d’une fois sur deux il prend la forme d’une boucle de trois passages exacts sur neuf mois et demi environ ([Saturne rétrograde](/astrology/saturn-retrograde/)). À pleine vitesse, il passe en trois semaines environ.
 
 En neuf mois, [Mercure rétrograde](/astrology/mercury-retrograde/) revient en général deux ou trois fois, pour trois semaines à peu près. J’y lis des pauses de révision intégrées à une saison de construction, pas des reculs : relire, corriger, vérifier avant l’étape suivante. Mercure avance jusqu’à deux degrés environ par jour, si bien que même l’heure de naissance peut déplacer un peu son degré, et la maison où Mercure se trouve demande l’heure complète ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Avant 80 ans, les personnes nées entre 1930 et 2009 ont connu cinq ou six de ces sextiles. Comptés depuis [Saturne en transit conjonction Mercure du thème natal](/astrology/transiting-saturn-conjunct-natal-mercury/), ils tombent vers cinq ans et vers vingt-cinq ans : le premier mène à [Saturne en transit carré Mercure du thème natal](/astrology/transiting-saturn-square-natal-mercury/), le second suit [Saturne en transit opposition Mercure du thème natal](/astrology/transiting-saturn-opposite-natal-mercury/) et le second [Saturne en transit trigone Mercure du thème natal](/astrology/transiting-saturn-trine-natal-mercury/) du cycle.
+Les personnes nées entre 1930 et 2009 comptent cinq ou six de ces sextiles avant 80 ans. Comptés depuis [Saturne en transit conjonction Mercure du thème natal](/astrology/transiting-saturn-conjunct-natal-mercury/), ils tombent vers cinq ans et vers vingt-cinq ans : le premier mène à [Saturne en transit carré Mercure du thème natal](/astrology/transiting-saturn-square-natal-mercury/), le second suit [Saturne en transit opposition Mercure du thème natal](/astrology/transiting-saturn-opposite-natal-mercury/) et le second [Saturne en transit trigone Mercure du thème natal](/astrology/transiting-saturn-trine-natal-mercury/) du cycle.
 
 ## Ce qui aide {#ce-qui-aide}
 

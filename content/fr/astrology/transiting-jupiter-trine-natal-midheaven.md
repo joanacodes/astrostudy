@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Jupiter", "Milieu du Ciel", "trigone", "transits"]
 weight: 1619
 glyph: "♃△MC"
-definition: "Jupiter en transit trigone Milieu du Ciel du thème natal, c’est Jupiter à 120° du sommet de votre thème, deux fois tous les douze ans. Votre direction et la croissance qui s’offre s’accordent : le travail auquel vous croyez rencontre moins de résistance, et le foyer aide. J’y lis de bonnes conditions pour votre direction, jamais une réussite promise."
+definition: "Jupiter en transit trigone Milieu du Ciel du thème natal, c’est Jupiter à 120° du sommet de votre thème, souvent dans un signe du même élément, deux fois par cycle de douze ans. Votre direction et la croissance s’accordent : le travail auquel vous croyez rencontre moins de résistance. J’y lis de bonnes conditions, jamais une réussite promise."
 facts:
   - { k: "En transit", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Point natal", v: "Le Milieu du Ciel MC, votre direction dans le monde" }
@@ -22,11 +22,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/midheaven", "/astrology/trine", "/astrology/jupiter-transit-2nd-house", "/astrology/transits"]
 faq:
   - q: "Que veut dire Jupiter en transit trigone Milieu du Ciel ?"
-    a: "Jupiter se trouve à 120° du degré qui marque le sommet de votre thème natal, comme deux fois dans chaque cycle de douze ans. J’y lis une saison où votre direction et la croissance qui s’offre vont dans le même sens : le travail auquel vous croyez rencontre moins de résistance, et ses raisons s’expliquent plus facilement."
+    a: "Jupiter est à quatre signes de votre Milieu du Ciel, en général dans un signe du même élément, et à 60° de votre Fond du Ciel. J’y lis une saison où votre direction et la croissance offerte vont dans le même sens : les projets auxquels vous croyez trouvent moins d’obstacles, et leurs raisons s’expliquent mieux."
   - q: "Jupiter trigone mon Milieu du Ciel, est-ce le succès ?"
     a: "Pas comme une promesse. J’y lis une saison où la direction et la croissance s’accordent, si bien que le travail qui vous tient à cœur avance avec moins de frottement. Le succès dépend du travail lui-même, de votre situation et des choix des autres ; le transit décrit les conditions, pas le résultat."
   - q: "Combien de temps dure Jupiter trigone Milieu du Ciel ?"
-    a: "Une onzaine de jours avec mes orbes, de 1,5° avant l’exactitude à 1° après, sept passages sur dix. Les trois autres fois, une boucle rétrograde ramène Jupiter sur le point, et le trigone dure huit mois environ, avec trois passages exacts. Le degré de votre Milieu du Ciel, tiré de votre heure de naissance, fixe les dates."
+    a: "Souvent moins de deux semaines : sept trigones sur dix passent en une onzaine de jours avec mes orbes. Quand l’un d’eux tombe pendant les mois rétrogrades de Jupiter, les bonnes conditions durent plutôt huit mois environ, avec trois passages exacts. Ces dates dépendent du degré de votre Milieu du Ciel, qui vient de votre heure de naissance."
   - q: "Jupiter trigone Milieu du Ciel, est-ce le bon moment pour changer de travail ?"
     a: "Ce peut être un bon moment pour aller dans une direction à laquelle vous croyez, puisque le trigone fait travailler ensemble la direction et la croissance. Mais aucun transit ne peut dire si tel poste vous conviendra. Je profiterais de cette saison pour clarifier à quoi votre travail doit servir, avant de décider avec tous les éléments en main."
 sources:
@@ -47,11 +47,11 @@ Ni Jupiter ni le trigone ne garantissent quoi que ce soit. L’aisance n’est p
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, sept trigones sur dix se font en un seul passage d’une onzaine de jours. Les trois autres tombent pendant [Jupiter rétrograde](/astrology/jupiter-retrograde/) et s’étirent sur huit mois environ, avec trois passages exacts.
+Avec mes orbes, de 1,5° avant l’exactitude à 1° après, l’angle facile à votre Milieu du Ciel est souvent une affaire de jours : une onzaine, dans sept cas sur dix. Les autres tombent pendant [Jupiter rétrograde](/astrology/jupiter-retrograde/), et une direction qui fonctionne a huit mois environ, avec trois passages exacts, pour le montrer.
 
 Prenons un Milieu du Ciel en Capricorne : Jupiter forme le trigone depuis la Vierge, entre juillet 2027 et août 2028, et depuis le Taureau, entre avril 2035 et mai 2036, les jours où Jupiter atteint le même degré. Le signe et le degré de votre propre Milieu du Ciel viennent de votre heure de naissance, et sans elle je ne ferais que deviner ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Avant 80 ans, les personnes nées entre 1930 et 2009 ont connu treize ou quatorze de ces trigones. Ils se placent à quatre ans de la conjonction qui ouvre et ferme le cycle, [Jupiter en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-jupiter-conjunct-natal-midheaven/), et à deux ans de l’opposition du milieu, [Jupiter en transit opposition Milieu du Ciel du thème natal](/astrology/transiting-jupiter-opposite-natal-midheaven/). Chacun se trouve à un an environ d’un carré, [Jupiter en transit carré Milieu du Ciel du thème natal](/astrology/transiting-jupiter-square-natal-midheaven/), le premier juste après, le second juste avant ; [Jupiter en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-jupiter-sextile-natal-midheaven/) est l’autre angle doux du cycle.
+Les personnes nées entre 1930 et 2009 reçoivent treize ou quatorze de ces trigones avant 80 ans, deux par cycle. Ils se placent à quatre ans de la conjonction qui ouvre et ferme le cycle, [Jupiter en transit conjonction Milieu du Ciel du thème natal](/astrology/transiting-jupiter-conjunct-natal-midheaven/), et à deux ans de l’opposition du milieu, [Jupiter en transit opposition Milieu du Ciel du thème natal](/astrology/transiting-jupiter-opposite-natal-midheaven/). Chacun se trouve à un an environ d’un carré, [Jupiter en transit carré Milieu du Ciel du thème natal](/astrology/transiting-jupiter-square-natal-midheaven/), le premier juste après, le second juste avant ; [Jupiter en transit sextile Milieu du Ciel du thème natal](/astrology/transiting-jupiter-sextile-natal-midheaven/) est l’autre angle doux du cycle.
 
 ## Ce qui aide {#ce-qui-aide}
 

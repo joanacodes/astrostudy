@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Lune", "trigone", "transits"]
 weight: 1629
 glyph: "♄△☽"
-definition: "Saturne en transit trigone Lune du thème natal, c’est Saturne à 120° du degré qu’occupait votre Lune à la naissance, deux fois tous les 29 ans et demi. Neuf mois durant, responsabilités et besoins vont dans le même sens : les routines vous apaisent, les engagements semblent tenables. J’y lis un sol ferme sous vos émotions, sur lequel bâtir."
+definition: "Saturne en transit trigone Lune du thème natal, c’est Saturne à 120° du degré natal de votre Lune, deux fois par cycle de 29 ans et demi : l’angle le plus stable avec vos émotions. Neuf mois durant, responsabilités et besoins vont dans le même sens. J’y lis un sol ferme, où bâtir plutôt que seulement en profiter."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "La Lune ☽, vos émotions et vos besoins" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/moon", "/astrology/trine", "/astrology/moon-trine-saturn", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit trigone Lune ?"
-    a: "Saturne se trouve à 120° du degré qu’occupait votre Lune à la naissance, comme deux fois tous les 29 ans et demi. J’y lis une saison où responsabilités et besoins vont dans le même sens : les routines vous apaisent, les devoirs semblent tenables, et les habitudes prises maintenant ont tendance à durer. Un sol ferme sur lequel bâtir."
+    a: "Saturne forme avec votre Lune l’angle le plus porteur possible, 120°, en général depuis un signe du même élément. J’y lis une saison où responsabilités et besoins vont dans le même sens : les routines vous apaisent, les devoirs semblent tenables, et les habitudes prises maintenant ont tendance à durer. Un sol ferme sur lequel bâtir."
   - q: "Combien de temps dure Saturne trigone Lune ?"
-    a: "En général neuf mois environ avec mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, Saturne forme le trigone trois fois, en boucle, sur neuf mois et demi environ ; à pleine vitesse, ce trigone peut passer en trois semaines, assez discrètement pour qu’on le manque."
+    a: "Largement le temps qu’une habitude s’installe : neuf mois environ en général, et un peu plus d’une fois sur deux Saturne forme le trigone trois fois, en une boucle de neuf mois et demi environ. À pleine vitesse, ce trigone peut passer en trois semaines, assez discrètement pour qu’on le manque."
   - q: "Saturne trigone ma Lune, est-ce un bon moment pour s’engager envers quelqu’un ?"
     a: "Ce peut être une saison stable pour s’engager, tel que je le lis : émotions et responsabilités s’accordent, et les promesses pèsent moins. Mais qu’un engagement soit juste dépend des deux personnes et de leur situation, pas d’un transit. Celui-ci décrit votre part de stabilité, pas l’issue."
   - q: "Pourquoi est-ce que Saturne trigone ma Lune semble si calme ?"
@@ -33,7 +33,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du trigone avec mes orbes, et son nombre avant 80 ans" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "les transits de Saturne, lus un à un" }
 ---
-Dix ans environ après son passage sur votre Lune, et dix ans environ avant le suivant, Saturne forme un trigone avec elle. De toutes les saisons de Saturne avec votre Lune, ce sont celles où la structure ressemble le plus à un soutien.
+Saturne forme un trigone avec votre Lune deux fois par cycle, une dizaine d’années après l’avoir franchie et une dizaine d’années avant de la franchir de nouveau. De toutes les saisons de Saturne avec votre Lune, ce sont celles où la structure ressemble le plus à un soutien.
 
 ## Ce qui change {#ce-qui-change}
 
@@ -43,13 +43,13 @@ La Lune, c’est l’habitude, et Saturne, le temps : ce trigone est donc la me
 
 Les émotions ne disparaissent pas sous un trigone de Saturne ; elles deviennent plus faciles à porter. La tristesse ou l’inquiétude passent encore, mais les routines et les gens autour de vous en prennent une part. La Lune garde la mémoire autant que l’humeur, et regarder en arrière apaise plutôt que troubler en ce moment : les vieux schémas de famille se voient assez clairement pour garder ce qui a aidé et poser ce qui n’a pas aidé.
 
-La maison que traverse Saturne donne le décor. Depuis votre maison 5, par exemple, le trigone se montre souvent comme une joie plus stable : une pratique créative qui tient, un temps de jeu que vous protégez ([Saturne en transit en maison 5](/astrology/saturn-transit-5th-house/)). Si votre thème porte [Lune trigone Saturne](/astrology/moon-trine-saturn/), vous connaissez cette stabilité de l’intérieur, et d’autres s’y appuient sans doute déjà.
+Dans votre maison 5, par exemple, le trigone prend volontiers la forme d’une joie plus stable : une pratique créative qui tient, un temps de jeu que vous protégez ([Saturne en transit en maison 5](/astrology/saturn-transit-5th-house/)). Si votre thème porte [Lune trigone Saturne](/astrology/moon-trine-saturn/), vous connaissez cette stabilité de l’intérieur, et d’autres s’y appuient sans doute déjà.
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, le trigone dure en général neuf mois environ ; un peu plus d’une fois sur deux, Saturne le forme trois fois en une boucle de neuf mois et demi environ ([Saturne rétrograde](/astrology/saturn-retrograde/)). À pleine vitesse, tout peut passer en trois semaines. Comme pour tout transit à votre Lune, les dates dépendent de l’heure de naissance qui en place le degré ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec mes orbes, de 1,5° avant l’exactitude à 1° après, ce sol plus ferme dure en général neuf mois environ ; un peu plus d’une fois sur deux, Saturne forme le trigone trois fois en une boucle de neuf mois et demi environ ([Saturne rétrograde](/astrology/saturn-retrograde/)). Les passages éclair, à pleine vitesse, en trois semaines, restent l’exception. Comme pour tout transit à votre Lune, les dates dépendent de l’heure de naissance qui en place le degré ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Avant 80 ans, les personnes nées entre 1930 et 2009 ont connu cinq ou six de ces trigones. Chaque cycle en apporte deux : le premier après que [Saturne en transit carré Lune du thème natal](/astrology/transiting-saturn-square-natal-moon/) a fini de presser, le second après que [Saturne en transit opposition Lune du thème natal](/astrology/transiting-saturn-opposite-natal-moon/) a fini de peser. [Saturne en transit conjonction Lune du thème natal](/astrology/transiting-saturn-conjunct-natal-moon/) ouvre et ferme le cycle, et [Saturne en transit sextile Lune du thème natal](/astrology/transiting-saturn-sextile-natal-moon/) offre deux versions plus légères du même soutien.
+Chaque cycle apporte deux de ces trigones, soit cinq ou six avant 80 ans pour les personnes nées entre 1930 et 2009 : le premier après que [Saturne en transit carré Lune du thème natal](/astrology/transiting-saturn-square-natal-moon/) a fini de presser, le second après que [Saturne en transit opposition Lune du thème natal](/astrology/transiting-saturn-opposite-natal-moon/) a fini de peser. [Saturne en transit conjonction Lune du thème natal](/astrology/transiting-saturn-conjunct-natal-moon/) ouvre et ferme le cycle, et [Saturne en transit sextile Lune du thème natal](/astrology/transiting-saturn-sextile-natal-moon/) offre deux versions plus légères du même soutien.
 
 ## Ce qui aide {#ce-qui-aide}
 

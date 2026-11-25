@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Soleil", "conjonction", "transits"]
 weight: 1621
 glyph: "♄☌☉"
-definition: "Saturne en transit conjonction Soleil du thème natal, c’est Saturne qui franchit le degré qu’occupait votre Soleil à la naissance, deux ou trois fois dans une vie. Pendant neuf mois environ, la structure et la responsabilité rencontrent votre sens de vous-même : à quoi vous servez, à quoi vous vous engagez. J’y lis une consolidation, jamais un verdict sur vous."
+definition: "Saturne en transit conjonction Soleil du thème natal, c’est Saturne sur le degré où le Soleil revient à chacun de vos anniversaires, deux ou trois fois dans une vie. Pendant neuf mois environ, structure et responsabilité rencontrent votre sens de vous-même : à quoi vous servez, à quoi vous vous engagez. J’y lis une consolidation, jamais un verdict sur vous."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "Le Soleil ☉, votre identité et votre direction" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/sun", "/astrology/sun-conjunct-saturn", "/astrology/saturn-return", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit conjonction Soleil ?"
-    a: "Saturne, dans le ciel, franchit le degré qu’occupait votre Soleil à votre naissance, comme environ tous les 29 ans et demi. J’y lis une saison où votre sens de vous-même demande une structure : à quoi vous servez, à quoi vous vous engagez, ce qui ne vous va plus. C’est exigeant, souvent fatigant, et c’est une consolidation, pas une punition."
+    a: "Saturne revient sur le degré natal de votre Soleil et ouvre un nouveau cycle de 29 ans et demi entre les deux. J’y lis une saison où votre sens de vous-même demande une structure : à quoi vous servez, à quoi vous vous engagez, ce qui ne vous va plus. Exigeant, souvent fatigant, ce passage consolide plus qu’il ne punit."
   - q: "Combien de temps dure Saturne conjonction Soleil ?"
-    a: "En général neuf mois environ avec mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, Saturne fait une boucle et passe trois fois sur votre Soleil en neuf mois et demi environ ; quand Saturne file à pleine vitesse, le passage peut ne durer que trois semaines."
+    a: "L’essentiel d’une année, en général : neuf mois environ avec mes orbes, et neuf mois et demi quand Saturne revient en arrière pour franchir votre Soleil trois fois, un peu plus d’une fois sur deux. Seul un passage à pleine vitesse, près de votre anniversaire, se termine en trois semaines environ."
   - q: "Quand est-ce que Saturne passera sur mon Soleil ?"
     a: "Comptez la distance qui séparait Saturne de votre Soleil, en arrière, à votre naissance : Saturne parcourt un signe en deux ans et demi environ. Trois signes d’écart donnent un premier passage vers sept ou huit ans, puis un tous les 29 ans et demi. Saturne est en Bélier jusqu’en avril 2028 : les anniversaires en Bélier vivent ce passage maintenant."
   - q: "Saturne conjonction Soleil, est-ce mauvais pour la santé ?"
@@ -44,15 +44,15 @@ Concrètement, les autres vous prennent davantage au sérieux, et vous aussi, av
 
 La maison de votre Soleil dit où se fait la consolidation. Avec le Soleil en maison 10, elle tombe pendant [Saturne en transit en maison 10](/astrology/saturn-transit-10th-house/), et la question devient la forme de votre vie professionnelle ; cette maison demande votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si votre thème porte [Soleil conjonction Saturne](/astrology/sun-conjunct-saturn/), ce passage est votre [retour de Saturne](/astrology/saturn-return/), et les deux saisons n’en font qu’une.
 
-Dans mon carnet, Saturne fait partie des trois placements qui ont tenu bien plus souvent que les autres, mais ce décompte portait sur des thèmes natals. Il ne dit rien des transits, et je ne donne aucun chiffre pour celui-ci ([Les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)).
+Dans mon carnet, Saturne fait partie des trois placements qui ont tenu bien plus souvent que les autres, mais ce décompte portait sur des thèmes natals, pas sur des transits, et je ne donne aucun chiffre pour celui-ci ([Les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)).
 
 ## Combien de temps {#combien-de-temps}
 
-Saturne avance lentement : ce passage est une saison, pas une semaine. Avec mes orbes, de 1,5° avant l’exactitude à 1° après, il dure en général neuf mois environ. Un peu plus d’une fois sur deux, il prend la forme d’une boucle : Saturne franchit votre Soleil, repasse dessus pendant [Saturne rétrograde](/astrology/saturn-retrograde/) et le franchit une troisième fois, neuf mois et demi environ en tout. Quand Saturne file à pleine vitesse, tout peut être fini en trois semaines.
+Compté avec mes orbes de 1,5° avant l’exactitude et 1° après, le passage de Saturne sur votre Soleil occupe l’essentiel d’une année : neuf mois environ dans le cas habituel. Un peu plus d’une fois sur deux, il prend la forme d’une boucle : Saturne franchit votre Soleil, repasse dessus pendant [Saturne rétrograde](/astrology/saturn-retrograde/) et le franchit une troisième fois, neuf mois et demi environ en tout. Plus rarement, à pleine vitesse, tout se termine en trois semaines.
 
-Le moment dépend de la distance qui séparait Saturne de votre Soleil, en arrière, à votre naissance, à raison de deux ans et demi environ par signe : avec trois signes d’écart, le premier passage est venu vers sept ou huit ans. Saturne est en Bélier de février 2026 à avril 2028, après une première visite en 2025 : les anniversaires en Bélier le vivent donc maintenant, ceux du début du signe en 2026 et 2027, ceux de la fin en 2027 et au début de 2028. Les anniversaires en Taureau suivent jusqu’au milieu de 2030. La tradition exaltait le Soleil en Bélier et y plaçait la chute de Saturne, vieille image de deux rythmes qui doivent apprendre à se connaître.
+Le moment dépend de la distance qui séparait Saturne de votre Soleil, en arrière, à votre naissance, à raison de deux ans et demi environ par signe : avec trois signes d’écart, le premier passage est venu vers sept ou huit ans. Saturne est en Bélier de février 2026 à avril 2028, après une première visite en 2025 : les anniversaires en Bélier le vivent donc maintenant, ceux du début du signe en 2026 et 2027, ceux de la fin en 2027 et au début de 2028. Les anniversaires en Taureau suivent jusqu’au milieu de 2030. La tradition exaltait le Soleil en Bélier et y plaçait la chute de Saturne : deux rythmes qui doivent apprendre à se connaître.
 
-Entre deux passages, Saturne met près de trente ans à faire le tour de votre Soleil : le premier [Saturne en transit sextile Soleil du thème natal](/astrology/transiting-saturn-sextile-natal-sun/) vient cinq ans plus tard environ, le premier [Saturne en transit carré Soleil du thème natal](/astrology/transiting-saturn-square-natal-sun/) vers sept ans, le premier [Saturne en transit trigone Soleil du thème natal](/astrology/transiting-saturn-trine-natal-sun/) vers dix ans, et [Saturne en transit opposition Soleil du thème natal](/astrology/transiting-saturn-opposite-natal-sun/) autour de quinze. Avant 80 ans, les personnes nées entre 1930 et 2009 ont connu le passage lui-même deux ou trois fois.
+Entre deux passages, Saturne met près de trente ans à faire le tour de votre Soleil : le premier [Saturne en transit sextile Soleil du thème natal](/astrology/transiting-saturn-sextile-natal-sun/) vient cinq ans plus tard environ, le premier [Saturne en transit carré Soleil du thème natal](/astrology/transiting-saturn-square-natal-sun/) vers sept ans, le premier [Saturne en transit trigone Soleil du thème natal](/astrology/transiting-saturn-trine-natal-sun/) vers dix ans, et [Saturne en transit opposition Soleil du thème natal](/astrology/transiting-saturn-opposite-natal-sun/) autour de quinze. Deux ou trois de ces passages arrivent avant 80 ans pour les personnes nées entre 1930 et 2009.
 
 ## Ce qui aide {#ce-qui-aide}
 

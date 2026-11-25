@@ -9,7 +9,7 @@ categories: ["Transits and cycles"]
 tags: ["Jupiter", "Midheaven", "sextile", "transits"]
 weight: 1617
 glyph: "♃⚹MC"
-definition: "Transiting Jupiter sextile natal Midheaven is Jupiter 60° from the top of your chart, and so 120° from your IC, two years either side of each crossing of your Midheaven. It brings an opening for your work that home life can support. I read it as an invitation needing your answer, never a guaranteed step up."
+definition: "Transiting Jupiter sextile natal Midheaven is Jupiter 60° from the top of your chart, two years before or after each crossing of it, and so 120° from your IC. It brings an opening for your work that home life can support. I read it as an invitation needing your answer, never a guaranteed step up."
 facts:
   - { k: "Transiting", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "Natal point", v: "The Midheaven MC, your direction in public" }
@@ -46,7 +46,7 @@ Either way, the work it favours is often less visible than the crossing of the M
 
 ## How long it lasts {#how-long-it-lasts}
 
-The side door rarely stays open long. With my orbs of 1½° before exact and 1° after, seven sextiles in ten are over in about eleven days; the other three fall inside [Jupiter retrograde](/astrology/jupiter-retrograde/) and is exact three times in about eight months, which gives a slower offer time to take shape.
+The side door rarely stays open long. With my orbs of 1½° before exact and 1° after, seven sextiles in ten are over in about eleven days; the other three fall inside [Jupiter retrograde](/astrology/jupiter-retrograde/) and are exact three times in about eight months, which gives a slower offer time to take shape.
 
 Those dates hang on your Midheaven, and so on a birth time you can trust. If yours is missing or only remembered, start with the birth record itself ([what changes without a birth time](/blog/unknown-birth-time/#finding-your-time)); I don't read until we have it.
 

@@ -10,7 +10,7 @@ categories: ["Transits et cycles"]
 tags: ["Saturne", "Lune", "sextile", "transits"]
 weight: 1627
 glyph: "♄⚹☽"
-definition: "Saturne en transit sextile Lune du thème natal, c’est Saturne à 60° du degré qu’occupait votre Lune à la naissance, deux fois tous les 29 ans et demi. Une structure s’offre à vos besoins : une habitude qui vous apaise, un foyer qui fonctionne, une aide que vous organisez vous-même. J’y lis un soutien discret qui attend votre premier pas."
+definition: "Saturne en transit sextile Lune du thème natal, c’est Saturne à deux signes de votre Lune, à 60° de son degré natal, à cinq ans environ d’une conjonction. Une structure s’offre à vos besoins : une habitude qui vous apaise, un foyer qui fonctionne, une aide que vous organisez vous-même. J’y lis un soutien discret qui attend votre premier pas."
 facts:
   - { k: "En transit", v: "Saturne ♄, la planète de la structure et du temps" }
   - { k: "Point natal", v: "La Lune ☽, vos émotions et vos besoins" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/moon", "/astrology/sextile", "/astrology/moon-sextile-saturn", "/astrology/transits"]
 faq:
   - q: "Que veut dire Saturne en transit sextile Lune ?"
-    a: "Saturne se trouve à 60° du degré qu’occupait votre Lune à la naissance, comme deux fois tous les 29 ans et demi. J’y lis une saison où une structure devient accessible pour vos besoins : une habitude qui vous apaise, un foyer qui tourne mieux, un soutien que vous organisez vous-même. Elle propose plus qu’elle n’impose."
+    a: "Saturne a atteint un angle amical avec votre Lune, à 60°, une fois en s’éloignant d’une conjonction et une fois en y revenant. J’y lis une saison où une structure devient accessible pour vos besoins : une habitude qui vous apaise, un foyer qui tourne mieux, un soutien que vous organisez vous-même. Elle propose plus qu’elle n’impose."
   - q: "Combien de temps dure Saturne sextile Lune ?"
-    a: "En général neuf mois environ avec mes orbes, de 1,5° avant l’exactitude à 1° après. Un peu plus d’une fois sur deux, c’est une boucle de trois passages exacts en neuf mois et demi environ ; quand Saturne avance à pleine vitesse, tout peut être fini en trois semaines."
+    a: "Neuf mois environ en règle générale, le temps de mettre en place une routine et de voir si elle tient ; un peu plus de la moitié de ces sextiles forment une boucle, avec trois passages exacts sur neuf mois et demi environ. Un passage rapide ne dure pas plus de trois semaines."
   - q: "Saturne sextile ma Lune, est-ce un bon moment pour les projets à la maison ?"
     a: "C’est l’une des meilleures saisons pour cela, tel que je le lis : Saturne apporte la structure, et votre Lune décrit ce qui fait qu’un lieu devient un chez-soi. Des réparations, une nouvelle routine, une organisation plus raisonnable du foyer s’y prêtent. Qu’un déménagement ou un achat soit le bon choix dépend de bien plus qu’un transit."
   - q: "Pourquoi faut-il mon heure de naissance pour Saturne sextile Lune ?"
@@ -41,15 +41,15 @@ Parmi les angles de Saturne à votre Lune, le sextile est celui qui demande le m
 
 La meilleure facette de Saturne se montre ici comme une intendance plutôt qu’un contrôle. Au lieu de contenir les émotions, vous vous organisez autour d’elles : des moments fixes pour le repos, un plan pour la maisonnée, un arrangement pour la personne qui dépend de vous. Les besoins comblés à la hâte commencent à l’être exprès. La Lune garde aussi la mémoire, et ce sextile est une bonne saison pour y mettre un peu d’ordre : des photos légendées, des recettes écrites, une histoire de famille demandée à la personne qui la connaît le mieux.
 
-Le premier sextile, cinq ans environ après le passage de Saturne sur votre Lune, donne souvent une routine à ce qui avait commencé alors ; le second, cinq ans environ avant le passage suivant, est un bon moment pour simplifier. La maison que traverse Saturne plante le décor : depuis votre maison 6, par exemple, la structure passe par le travail quotidien et les habitudes ([Saturne en transit en maison 6](/astrology/saturn-transit-6th-house/)). Si votre thème porte [Lune sextile Saturne](/astrology/moon-sextile-saturn/), ce transit ravive une façon de prendre soin que vous connaissez déjà.
+Le premier sextile, cinq ans environ après le passage de Saturne sur votre Lune, donne souvent une routine à ce qui avait commencé alors ; le second, cinq ans environ avant le passage suivant, est un bon moment pour simplifier. Depuis votre maison 6, par exemple, Saturne offre cette structure par le travail quotidien et les habitudes ([Saturne en transit en maison 6](/astrology/saturn-transit-6th-house/)). Si votre thème porte [Lune sextile Saturne](/astrology/moon-sextile-saturn/), ce transit ravive une façon de prendre soin que vous connaissez déjà.
 
 ## Combien de temps {#combien-de-temps}
 
-Avec mes orbes, de 1,5° avant l’exactitude à 1° après, le sextile dure en général neuf mois environ. Un peu plus d’une fois sur deux, c’est une boucle, trois passages exacts en neuf mois et demi environ au gré des rétrogradations ([Saturne rétrograde](/astrology/saturn-retrograde/)) ; à pleine vitesse, trois semaines.
+Avec mes orbes, de 1,5° avant l’exactitude à 1° après, ce soutien dure en général neuf mois environ, assez pour qu’une nouvelle routine devienne la vôtre. Un peu plus d’une fois sur deux, Saturne fait une boucle, en rétrogradant puis en reprenant sa marche directe ([Saturne rétrograde](/astrology/saturn-retrograde/)), et rend le sextile exact trois fois en neuf mois et demi environ ; à pleine vitesse, trois semaines.
 
-Le signe de votre Lune peut lui-même dépendre de la minute de votre naissance. La Lune change de signe tous les deux jours et demi environ, et le jour où elle le fait, seule l’heure de naissance dit de quel côté de la ligne la vôtre est tombée, donc depuis quels signes Saturne forme ce sextile. Je ne lis pas sans l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le signe de votre Lune peut lui-même dépendre de la minute de votre naissance. La Lune change de signe tous les deux jours et demi environ, et le jour où elle le fait, seule l’heure de naissance dit de quel côté de la ligne la vôtre est tombée, donc depuis quels signes Saturne forme ce sextile. Sans cette minute, le sextile n’a pas de dates que je puisse garantir ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Avant 80 ans, les personnes nées entre 1930 et 2009 ont connu cinq ou six de ces sextiles. Chacun se place entre un passage, [Saturne en transit conjonction Lune du thème natal](/astrology/transiting-saturn-conjunct-natal-moon/), et un carré, [Saturne en transit carré Lune du thème natal](/astrology/transiting-saturn-square-natal-moon/), à deux ans environ du carré ; les trigones du cycle, [Saturne en transit trigone Lune du thème natal](/astrology/transiting-saturn-trine-natal-moon/), et son opposition, [Saturne en transit opposition Lune du thème natal](/astrology/transiting-saturn-opposite-natal-moon/), tombent entre les deux sextiles.
+À 80 ans, les personnes nées entre 1930 et 2009 ont derrière elles cinq ou six de ces saisons tranquilles. Chacun se place entre un passage, [Saturne en transit conjonction Lune du thème natal](/astrology/transiting-saturn-conjunct-natal-moon/), et un carré, [Saturne en transit carré Lune du thème natal](/astrology/transiting-saturn-square-natal-moon/), à deux ans environ du carré ; les trigones du cycle, [Saturne en transit trigone Lune du thème natal](/astrology/transiting-saturn-trine-natal-moon/), et son opposition, [Saturne en transit opposition Lune du thème natal](/astrology/transiting-saturn-opposite-natal-moon/), tombent entre les deux sextiles.
 
 ## Ce qui aide {#ce-qui-aide}
 

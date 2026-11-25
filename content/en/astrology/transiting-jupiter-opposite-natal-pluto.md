@@ -25,7 +25,7 @@ faq:
   - q: "How long does Jupiter opposite Pluto last?"
     a: "Seven of these oppositions in ten are brief, around eleven days with my orbs of 1½° before exact and 1° after. The rest stretch to about eight months, because Jupiter’s retrograde turn brings it back to face your Pluto twice more before it moves on."
   - q: "When did I first have Jupiter opposite my Pluto?"
-    a: "Before the age of 12, whatever your birth year, and then about every twelve years. The exact age depends on where Jupiter stood when you were born: someone born in 1965 met it first at about 9, someone born in 1985 at about 3. Six or seven have come by 80, for everyone."
+    a: "Before the age of 12, whatever your birth year, and then about every twelve years. The exact age depends on where Jupiter stood when you were born: someone born in 1965 met it first at about 9, someone born in 1985 at about 3. By 80, everyone has met six or seven."
   - q: "Is Jupiter opposite Pluto a power struggle?"
     a: "Not necessarily. An opposition often shows itself through another person, so the question of who holds the reins can come up between you and someone else. But the transit describes a season of perspective, not a fight with a winner, and what you do with the wider view stays your choice."
 sources:
