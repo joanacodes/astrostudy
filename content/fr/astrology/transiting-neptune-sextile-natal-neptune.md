@@ -47,7 +47,7 @@ Rien n’arrive tout seul sous un sextile. L’angle mort de Neptune, prendre l�
 
 ## Combien de temps {#combien-de-temps}
 
-Dans le décompte du site pour les naissances de 1930 à 2009, Neptune entrait dans mes orbes, de 1,5° avant l’exactitude à 1° après, entre 24,6 et 27,1 ans, et chacun l’a rencontré une seule fois. L’orbite de Neptune est presque un cercle, si bien que l’âge bouge à peine : vers 27 ans pour les naissances des années 1930 aux années 1970, 26 pour les années 1980 et 1990, 25 et demi pour 2005. Pour une naissance au début de 1950, les passages exacts tombaient à 28,0, 28,4 et 28,9 ans ; au début de 1990, cinq fois, de 26,4 à 28 ans. Un passage complet dure environ deux ans et demi, les plus rapides vingt-deux mois environ ([Neptune rétrograde](/astrology/neptune-retrograde/)).
+Toute personne née entre 1930 et 2009 le rencontre une seule fois. Dans le décompte du site, l’orbe, de 1,5° avant l’exactitude à 1° après, s’ouvrait entre 24,6 et 27,1 ans, et comme l’orbite de Neptune est presque un cercle, l’âge bouge à peine : vers 27 ans pour les naissances des années 1930 aux années 1970, 26 pour les années 1980 et 1990, 25 et demi pour 2005. Pour une naissance au début de 1950, les passages exacts tombaient à 28,0, 28,4 et 28,9 ans ; au début de 1990, cinq fois, de 26,4 à 28 ans. Un passage complet dure environ deux ans et demi, les plus rapides vingt-deux mois environ ([Neptune rétrograde](/astrology/neptune-retrograde/)).
 
 Ces années en accueillent d’autres. [Uranus en transit trigone Uranus du thème natal](/astrology/transiting-uranus-trine-natal-uranus/) entrait dans l’orbe entre 24,6 et 30,2 ans dans le même décompte, et le [retour de Saturne](/astrology/saturn-return/) suit, avec un premier passage exact entre 28,4 et 29,9 ans. Pour les naissances du milieu des années 1950 au milieu des années 1980, avec Neptune environ 60° devant Pluton, [Neptune en transit trigone Pluton du thème natal](/astrology/transiting-neptune-trine-natal-pluto/) tombe à un an environ de ce sextile : le même tronçon de la route de Neptune, vu depuis votre Pluton.
 
@@ -57,6 +57,6 @@ Viennent ensuite [Neptune en transit carré Neptune du thème natal](/astrology/
 
 Donner à un idéal une forme qui se répète : un cours chaque semaine, une pratique, une heure par semaine pour une cause. Un sextile récompense ce que l’on fait régulièrement plus que ce que l’on décide une fois.
 
-Distinguer le rêve reçu de celui que vous choisiriez. Le signe de votre Neptune est partagé par toutes les personnes nées à quatorze ans près de vous ; la version qui porte votre nom est celle qui vaut l’effort.
+Distinguer le rêve reçu de celui que vous choisiriez. Le signe de votre Neptune, toutes les personnes nées à quatorze ans près de vous l’ont aussi ; la version qui porte votre nom est celle qui vaut l’effort.
 
 Le garder en vue au milieu des exigences plus bruyantes de ces années. Une ouverture discrète se remet facilement à plus tard, et celle-ci dure environ deux ans et demi.

@@ -37,7 +37,7 @@ Presque tout le monde rencontre ce carré une fois. Pendant deux ans et demi env
 
 ## Ce qui change {#ce-qui-change}
 
-[Mars](/astrology/mars/) s’affirme, rivalise, défend et réalise. [Neptune](/astrology/neptune/) desserre les frontières et demande à quoi sert tout cet effort. Un [carré](/astrology/square/) les relie par une friction constructive : sous ce [transit](/astrology/transits/), aucune des deux planètes n’annule l’autre. L’élan continue, mais il doit s’adapter au sentiment que les anciens buts ne sont plus tout à fait les vôtres.
+[Mars](/astrology/mars/) s’affirme, rivalise, défend et réalise. [Neptune](/astrology/neptune/) desserre les frontières et demande à quoi sert tout cet effort. Le [carré](/astrology/square/) qui les relie est une friction constructive : sous ce [transit](/astrology/transits/), aucune des deux planètes n’annule l’autre. L’élan continue, mais il doit s’adapter au sentiment que les anciens buts ne sont plus tout à fait les vôtres.
 
 La motivation peut aller et venir. Les plans bâtis sur la seule volonté calent, la compétition perd son goût, et un but poursuivi depuis des années peut soudain paraître hors de propos. Vous vous surprendrez peut-être à mener le combat de quelqu’un d’autre par sympathie, ou à ne savoir où sont vos limites qu’une fois franchies. Neptune a ici un angle mort bien connu : renoncer à un but peut ressembler à de l’impuissance, et ce n’en est pas. La friction demande des buts plus petits, plus vrais, plus proches de la main.
 

@@ -25,7 +25,7 @@ faq:
   - q: "How long does Pluto opposite Sun last?"
     a: "With my orbs, from 1½° before exact to 1° after, about two years and eight months, and about twenty-two months in the shortest passes. Pluto always crosses the exact opposition more than once: three times in about three passes out of five, five times in the others, which take about three years and seven months."
   - q: "When will Pluto oppose my Sun?"
-    a: "While Pluto is in Aquarius, until early 2044, it opposes Suns in Leo, the early degrees first: birthdays at the end of July in the 2020s, mid-August ones in the mid-2030s, the last Leo birthdays in the early 2040s. More than half of people born between 1930 and 2009 never have it by 80."
+    a: "While Pluto is in Aquarius, until early 2044, it opposes Suns in Leo, the early degrees first: birthdays at the end of July in the 2020s, mid-August ones between about 2034 and 2039, the last Leo birthdays in the early 2040s. More than half of people born between 1930 and 2009 never have it by 80."
   - q: "Is Pluto opposite the Sun dangerous?"
     a: "No transit is dangerous in itself, and none forecasts an illness, an accident or a death. Pluto across from your Sun can make a demanding stretch, because someone else’s intensity asks you to stand on your own ground. Demanding isn’t the same as harmful: it is a season for finding out what you can stand on."
 sources:

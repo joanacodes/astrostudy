@@ -36,7 +36,7 @@ Neptune squares your Sun in almost every life, for about two and a half years. I
 
 ## What changes {#what-changes}
 
-[Neptune](/astrology/neptune/) loosens: it dissolves edges, widens the view and lets ideals in. Your [Sun](/astrology/sun/) organises identity and direction around a centre. A [square](/astrology/square/), 90°, relates two functions through friction that forces adaptation, so this [transit](/astrology/transits/) presses on purpose from the side: an ambition you've pursued for years starts to feel thin, or a new ideal pulls at a life that was organised around something else. You can feel less sure of what you want and more open to what you didn't plan, and both belong to the same adjustment.
+[Neptune](/astrology/neptune/) loosens: it dissolves edges, widens the view and lets ideals in. Your [Sun](/astrology/sun/) organises identity and direction around a centre. A [square](/astrology/square/), 90°, sets two functions at cross purposes until something adapts, so this [transit](/astrology/transits/) presses on purpose from the side: an ambition you've pursued for years starts to feel thin, or a new ideal pulls at a life that was organised around something else. You can feel less sure of what you want and more open to what you didn't plan, and both belong to the same adjustment.
 
 Neptune's blind spots matter most under a square: taking imagination for evidence, and assuming that what is vague must be deep. A decision taken now is worth checking against facts you could show someone else; an intuition is worth keeping, and worth testing. If the blur settles into a low mood that stays, a doctor or a therapist is who to talk to, and I'd say so before any reading ([Astrology and mental health](/astrology/astrology-and-mental-health/)).
 
@@ -44,11 +44,11 @@ With your Sun in the 1st and Neptune crossing your 4th ([Neptune transiting the 
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the square lasts about two and a half years, under two in the shortest passes: long enough for a goal to be tested from more than one side. Three exact hits are the rule; about one pass in four brings five.
+Within my orbs, from 1½° before exact to 1° after, the square goes on for about two and a half years, under two in the shortest passes: long enough for a goal to be tested from more than one side. Three exact hits are the rule; about one pass in four brings five.
 
 Hardly anyone born between 1930 and 2009 reaches 80 without one of these squares, and some meet both. Neptune can't cover half the zodiac in 80 years, but the two squares sit half a circle apart, so a lifetime nearly always reaches one. On Neptune's way to your Sun, the trine ([transiting Neptune trine natal Sun](/astrology/transiting-neptune-trine-natal-sun/)) comes before the square and the sextile ([transiting Neptune sextile natal Sun](/astrology/transiting-neptune-sextile-natal-sun/)) after it; past the conjunction ([transiting Neptune conjunct natal Sun](/astrology/transiting-neptune-conjunct-natal-sun/)) the order reverses, and the opposition ([transiting Neptune opposite natal Sun](/astrology/transiting-neptune-opposite-natal-sun/)) lies beyond. Born with [Sun square Neptune](/astrology/sun-square-neptune/), you met one square in your first years; the other is half a circle away, about 82 years of Neptune's motion.
 
-This isn't the [Neptune square](/astrology/neptune-square/), which everyone meets between about 39½ and 42, when Neptune squares its own birth place; the two coincide only for people born with the Sun and Neptune together. From Aries, until March 2039, Neptune squares Cancer and Capricorn Suns: birthdays from about 21 June to 22 July, and from about 22 December to 19 January.
+This isn't the [Neptune square](/astrology/neptune-square/), which everyone meets between about 39½ and 42, when Neptune squares its own birth place; the two coincide only for people born with the Sun and Neptune together. Between now and March 2039, this square works through Cancer and Capricorn Suns, birthdays from about 21 June to 22 July and from about 22 December to 19 January.
 
 ## What helps {#what-helps}
 

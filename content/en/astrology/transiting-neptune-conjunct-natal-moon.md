@@ -44,7 +44,7 @@ Your Moon's degree is the part of this transit that most needs the birth time. I
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the conjunction to your Moon lasts about two years and seven months, a little under two in the shortest passes. It crosses the exact degree three times in most passes and five times in about one in four.
+Within my orbs, from 1½° before exact to 1° after, the conjunction to your Moon lasts about two years and seven months, or a little under two at its shortest. The exact degree is crossed three times in most passes and five times in about one in four.
 
 Neptune needs to start less than half the zodiac behind your Moon to reach it by 80, and half of people born between 1930 and 2009 were born that way; nobody meets it twice. Neptune's other contacts with your Moon differ in tone: the sextile ([transiting Neptune sextile natal Moon](/astrology/transiting-neptune-sextile-natal-moon/)) and the trine ([transiting Neptune trine natal Moon](/astrology/transiting-neptune-trine-natal-moon/)) are gentler visits to your feelings, the square ([transiting Neptune square natal Moon](/astrology/transiting-neptune-square-natal-moon/)) tests the comforts you rely on, and the opposition ([transiting Neptune opposite natal Moon](/astrology/transiting-neptune-opposite-natal-moon/)) brings Neptune's pull through the people you care for.
 

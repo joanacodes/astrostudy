@@ -35,7 +35,7 @@ For about two and a half years, effort and imagination keep the same pace. Work 
 
 ## What changes {#what-changes}
 
-[Mars](/astrology/mars/) is the will to act and the stamina to keep going: initiative, courage, the energy you put into what you want. [Neptune](/astrology/neptune/) adds compassion, intuition and a feel for what lies beyond the immediate goal. A [trine](/astrology/trine/) relates two functions through flow while each stays what it is, so under this [transit](/astrology/transits/) Mars keeps its edge and Neptune gives it a reason, without the confusion the harder contacts can bring.
+[Mars](/astrology/mars/) is the will to act and the stamina to keep going: initiative, courage, the energy you put into what you want. [Neptune](/astrology/neptune/) adds compassion, intuition and a feel for what lies beyond the immediate goal. In a [trine](/astrology/trine/) two functions run the same way without merging, so under this [transit](/astrology/transits/) Mars keeps its edge and Neptune gives it a reason, without the confusion the harder contacts can bring.
 
 It often shows as stamina for things that matter to you: long rehearsals, a garden or a building taking shape, care for someone that you give without resentment. Acting on a hunch feels more natural than usual, and disagreements can be settled with less force. Some people find this is when they take up a cause, or put real effort into a creative project they had only dreamed about. Flow isn't passivity, though: a trine eases the movement you choose, and if you choose none, the years pass pleasantly and leave little behind.
 

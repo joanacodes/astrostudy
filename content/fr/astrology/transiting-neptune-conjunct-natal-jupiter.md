@@ -37,7 +37,7 @@ Jupiter et Neptune partagent un signe : les Poissons appartenaient à Jupiter d
 
 ## Ce qui change {#ce-qui-change}
 
-[Jupiter](/astrology/jupiter/) construit le sens : cette planète élargit ce que vous comprenez, rassemble l’expérience en convictions et en principes, et cherche de la place pour grandir. [Neptune](/astrology/neptune/) dissout les contours et tend vers ce qui se trouve au-delà. Une [conjonction](/astrology/conjunction/) fait de deux fonctions un seul processus, et ici les deux s’étendent : sous ce [transit](/astrology/transits/), peu de chose retient l’élargissement.
+[Jupiter](/astrology/jupiter/) construit le sens : cette planète élargit ce que vous comprenez, rassemble l’expérience en convictions et en principes, et cherche de la place pour grandir. [Neptune](/astrology/neptune/) dissout les contours et tend vers ce qui se trouve au-delà. Quand deux planètes sont en [conjonction](/astrology/conjunction/), elles travaillent comme un seul processus, et ici les deux s’étendent : sous ce [transit](/astrology/transits/), peu de chose retient l’élargissement.
 
 On le vit souvent comme une saison de foi, au sens large : une pratique spirituelle, une vision de ce que la vie pourrait être, une cause ou un art qui semble expliquer plus qu’il ne devrait. La générosité vient facilement, et la confiance aussi. L’ombre, c’est le même élargissement vu de l’autre côté. L’angle mort de Neptune consiste à prendre l’imaginaire pour une preuve, celui de Jupiter à prendre une conviction pour une certitude, et ensemble, ces deux pentes peuvent faire paraître un enseignement, un projet ou une promesse plus grands qu’ils ne sont. S’étendre n’est pas déborder pour autant, et la conjonction demande un sens qui grandit sans lâcher les faits.
 

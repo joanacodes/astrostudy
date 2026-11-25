@@ -36,7 +36,7 @@ Almost everyone meets this square once. For about two and a half years, the part
 
 ## What changes {#what-changes}
 
-[Mars](/astrology/mars/) asserts, competes, defends and carries things out. [Neptune](/astrology/neptune/) loosens boundaries and asks what all the effort is for. A [square](/astrology/square/) relates them through constructive friction, so under this [transit](/astrology/transits/) neither cancels the other: drive keeps going, but it has to adapt to a sense that the old aims are no longer quite yours.
+[Mars](/astrology/mars/) asserts, competes, defends and carries things out. [Neptune](/astrology/neptune/) loosens boundaries and asks what all the effort is for. The [square](/astrology/square/) between them is a constructive friction, so under this [transit](/astrology/transits/) neither cancels the other: drive keeps going, but it has to adapt to a sense that the old aims are no longer quite yours.
 
 Motivation can come and go. Plans built on willpower alone stall, competition loses its taste, and a goal you'd chased for years may suddenly look beside the point. You may find yourself fighting someone else's battle out of sympathy, or unable to say where your limits are until they've been crossed. Neptune has a familiar blind spot here: letting go of an aim can feel like helplessness, and it isn't. The friction is asking for aims that are smaller, truer and closer to hand.
 

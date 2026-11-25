@@ -35,7 +35,7 @@ Neptune's sextile to Jupiter is a quiet invitation to let imagination feed your 
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) is the part of you that learns, believes and grows: it gathers experience into principles and looks for a wider view. [Neptune](/astrology/neptune/) brings imagination, compassion and a feel for the symbolic. A [sextile](/astrology/sextile/) relates two functions through a cooperation that needs your engagement, so during this [transit](/astrology/transits/) the meaning you live by can take in something new, provided you go and find it.
+[Jupiter](/astrology/jupiter/) is the part of you that learns, believes and grows: it gathers experience into principles and looks for a wider view. [Neptune](/astrology/neptune/) brings imagination, compassion and a feel for the symbolic. A [sextile](/astrology/sextile/) is cooperation on offer, and it needs your engagement: during this [transit](/astrology/transits/) the meaning you live by can take in something new, provided you go and find it.
 
 It suits study that touches the imagination: a course in philosophy, art history or music, a spiritual tradition, a language that opens up a literature. It suits teaching too, and generous projects where your beliefs turn into help. A belief that was all argument can find a picture; an inspiration can find a purpose. None of it guarantees success: with Jupiter as with any planet, an opportunity is a possibility you develop, not a prize that arrives.
 
@@ -47,7 +47,7 @@ With Jupiter in your 1st, the sextile often comes while Neptune crosses your 11t
 
 For about two years and seven months, rarely under twenty-two, Neptune stays within my orbs of the sextile, from 1½° before exact to 1° after. That is long enough to finish a course of study, or to find out that a belief you took up early doesn't hold, with three exact crossings in most passes and five in about a quarter.
 
-Jupiter covers about a sign a year, so for people born a year apart Neptune's distance to Jupiter differs by a sign, which is fourteen years of Neptune's travel. That's why the ages jump from one birth year to the next: under 1 for someone born at the start of 1935, about 23 for 1945, about 53 for 1965, 15 for 1975, 35 for 1985, about 4 for 1995, and not before 80 for 1955 or 2005. Roughly 1 person in 6 never has it before 80, while others have it twice.
+Jupiter covers about a sign a year, so for people born a year apart Neptune's distance to Jupiter differs by nearly a sign, some thirteen years of Neptune's travel. That's why the ages jump from one birth year to the next: under 1 for someone born at the start of 1935, about 23 for 1945, about 53 for 1965, 15 for 1975, 35 for 1985, about 4 for 1995, and not before 80 for 1955 or 2005. Roughly 1 person in 6 never has it before 80, while others have it twice.
 
 Someone born at the start of 1945 meets the sextile at about 23, then [transiting Neptune square natal Jupiter](/astrology/transiting-neptune-square-natal-jupiter/) at about 37, [transiting Neptune trine natal Jupiter](/astrology/transiting-neptune-trine-natal-jupiter/) at about 51 and [transiting Neptune opposite natal Jupiter](/astrology/transiting-neptune-opposite-natal-jupiter/) at about 78. [Transiting Neptune conjunct natal Jupiter](/astrology/transiting-neptune-conjunct-natal-jupiter/) never comes for them before 80, since Jupiter stood just behind Neptune when they were born.
 

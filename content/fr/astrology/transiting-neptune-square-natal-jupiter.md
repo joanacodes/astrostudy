@@ -36,7 +36,7 @@ Presque tout le monde rencontre ce carré une fois, et à presque tout âge : d
 
 ## Ce qui change {#ce-qui-change}
 
-[Jupiter](/astrology/jupiter/), c’est votre façon de donner sens aux choses : les principes qui vous guident, les convictions qui donnent un sens à l’expérience, la confiance pour grandir. [Neptune](/astrology/neptune/) dissout les formes figées et tend vers un idéal. Un [carré](/astrology/square/) relie deux fonctions par une friction qui demande de s’adapter : sous ce [transit](/astrology/transits/), votre sens des choses doit s’étirer sans se défaire.
+[Jupiter](/astrology/jupiter/), c’est votre façon de donner sens aux choses : les principes qui vous guident, les convictions qui donnent un sens à l’expérience, la confiance pour grandir. [Neptune](/astrology/neptune/) dissout les formes figées et tend vers un idéal. Un [carré](/astrology/square/) fait frotter deux fonctions jusqu’à ce que quelque chose s’adapte : sous ce [transit](/astrology/transits/), votre sens des choses doit s’étirer sans se défaire.
 
 Les certitudes peuvent s’assouplir. Un enseignement, une philosophie ou une cause qui semblait tout expliquer peut se mettre à paraître partiel ; un projet peut grandir plus vite que le sol qui le porte ; la tentation vient de placer votre foi dans ce qui promet le plus. L’angle mort de Neptune consiste à prendre un symbole pour une prédiction, celui de Jupiter à prendre une conviction pour toute la vérité : c’est le transit où je me méfie le plus de tout système qui promet des réponses, l’astrologie comprise. La friction est constructive : ce qui reste après, c’est d’ordinaire un ensemble plus réduit de convictions sur lesquelles vous pouvez vraiment vous appuyer.
 

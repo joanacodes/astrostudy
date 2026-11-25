@@ -36,7 +36,7 @@ De tous les contacts de Neptune avec Jupiter, le trigone est celui où deux plan
 
 ## Ce qui change {#ce-qui-change}
 
-[Jupiter](/astrology/jupiter/) fait grandir la compréhension et construit les convictions et les principes qui vous guident. [Neptune](/astrology/neptune/) apporte la vision, la compassion et le sens du sacré, sous la forme que ce sens prend pour vous. Un [trigone](/astrology/trine/) relie deux fonctions par un courant qui préserve chacune : sous ce [transit](/astrology/transits/), l’imaginaire élargit votre sens des choses et Jupiter le garde cohérent.
+[Jupiter](/astrology/jupiter/) fait grandir la compréhension et construit les convictions et les principes qui vous guident. [Neptune](/astrology/neptune/) apporte la vision, la compassion et le sens du sacré, sous la forme que ce sens prend pour vous. Un [trigone](/astrology/trine/) laisse deux fonctions s’aider en restant elles-mêmes : sous ce [transit](/astrology/transits/), l’imaginaire élargit votre sens des choses et Jupiter le garde cohérent.
 
 C’est souvent une bonne saison pour étudier et pour enseigner, pour des voyages qui ont du sens, pour un art ou une pratique spirituelle qui attendait du temps. La générosité vient sans inquiétude, et il peut être plus facile que d’habitude de tenir à une conviction tout en gardant l’esprit ouvert à celle des autres. Le risque est celui du trigone : une aisance qui va de soi. Un élargissement dont personne ne se sert passe, tout simplement, et pour Jupiter, une occasion se développe.
 

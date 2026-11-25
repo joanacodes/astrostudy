@@ -38,7 +38,7 @@ Few transits move with the birth year like this one. Neptune needs decades to re
 
 ## What changes {#what-changes}
 
-[Uranus](/astrology/uranus/) in your chart is where you need room to differ, to test another way and to reform what has stopped working. [Neptune](/astrology/neptune/) loosens boundaries that are no longer needed and opens the way to imagination, compassion and a meaning held in common. An [opposition](/astrology/opposition/) sets two functions face to face, so under this [transit](/astrology/transits/) the independence you have built meets its counterpart: a longing to belong to something larger, an ideal a group holds, a dream that asks for loyalty rather than distance.
+[Uranus](/astrology/uranus/) in your chart is where you need room to differ, to test another way and to reform what has stopped working. [Neptune](/astrology/neptune/) pulls the other way, towards imagination, compassion and what people hold in common. An [opposition](/astrology/opposition/) holds two functions across the chart from each other, so under this [transit](/astrology/transits/) the independence you have built meets its counterpart: a longing to belong to something larger, an ideal a group holds, a dream that asks for loyalty rather than distance.
 
 Each side brings its blind spot. Uranus can take distance for objectivity; Neptune can take a shared feeling for the truth. The opposition shows both, often through other people: a friend who gives everything to a cause you'd never join, a circle that welcomes you as long as you stop arguing. What it asks for is integration, not surrender either way: which of your freedoms serve something you care about, and which ideals could use your habit of thinking for yourself.
 
@@ -46,7 +46,7 @@ The houses say where it happens. With your Uranus in the 11th, the opposition co
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, Neptune holds the opposition for about two and a half years, a little under two in the shortest passes. It crosses the exact degree three times in about three passes out of four, five times in the rest ([Neptune retrograde](/astrology/neptune-retrograde/)), and it comes once at most.
+Within my orbs, from 1½° before exact to 1° after, Neptune stays opposite your Uranus for some two and a half years, twenty-two months or so when the pass is short. Three exact hits are usual, five come in roughly one pass in four ([Neptune retrograde](/astrology/neptune-retrograde/)), and nobody meets it twice.
 
 The age is what sets it apart. In the site's count it came within orb at 19 for someone born at the start of 1935, at 29 for 1945, 40 for 1955, 52 for 1965 and 63 for 1975; born at the start of 1985, at 72½. From the mid-1990s on the wait runs past 80, which is why about 1 person in 5 born between 1930 and 2009 never meets it. The angle between the two planets at birth explains the spread: born under their trine, from 1936 to 1946, you met it in your twenties; under the square of the 1950s, between about 35 and 44; under the sextile of the 1960s, in your fifties. Born under their conjunction, from 1990 to 1996, you'd meet it in your late seventies or after 80, a few years either side of [transiting Neptune opposite natal Neptune](/astrology/transiting-neptune-opposite-natal-neptune/). The natal [Uranus opposite Neptune](/astrology/uranus-opposite-neptune/) is missing from all these birth years; this transit is how its polarity reaches them.
 

@@ -35,7 +35,7 @@ Of all Neptune's contacts with Jupiter, the trine is the one where two expansive
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) grows understanding and builds the beliefs and principles you live by. [Neptune](/astrology/neptune/) brings vision, compassion and a sense of the sacred, in whatever form that takes for you. A [trine](/astrology/trine/) relates two functions through flow while preserving what each is, so under this [transit](/astrology/transits/) imagination widens your sense of meaning and Jupiter keeps it coherent.
+[Jupiter](/astrology/jupiter/) grows understanding and builds the beliefs and principles you live by. [Neptune](/astrology/neptune/) brings vision, compassion and a sense of the sacred, in whatever form that takes for you. A [trine](/astrology/trine/) lets two functions help each other and stay themselves, so under this [transit](/astrology/transits/) imagination widens your sense of meaning and Jupiter keeps it coherent.
 
 This is often a good season for study and for teaching, for travel that means something, for art or a spiritual practice that has been waiting for time. Generosity comes without anxiety, and it may be easier than usual to hold a belief and stay open to someone else's. The risk is the trine's own: ease taken for granted. A widening that nobody uses simply passes, and for Jupiter an opportunity is something you develop.
 

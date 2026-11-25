@@ -35,7 +35,7 @@ Neptune opposite your Mars puts your will at one end of the chart and someone el
 
 ## What changes {#what-changes}
 
-[Mars](/astrology/mars/) is assertion and directed effort: what you want, how you go after it, where you draw the line. [Neptune](/astrology/neptune/) is compassion, longing and the pull of something larger than yourself. An [opposition](/astrology/opposition/) relates two functions through polarity, each showing up the other, so during this [transit](/astrology/transits/) your drive tends to meet its other side in people: a partner's vision, a friend's need, a cause that asks for your strength.
+[Mars](/astrology/mars/) is assertion and directed effort: what you want, how you go after it, where you draw the line. [Neptune](/astrology/neptune/) is compassion, longing and the pull of something larger than yourself. An [opposition](/astrology/opposition/) holds two functions at the two ends of one axis, so during this [transit](/astrology/transits/) your drive tends to meet its other side in people: a partner's vision, a friend's need, a cause that asks for your strength.
 
 You may find yourself putting your energy behind someone else's dream, or facing a rival or a partner who is hard to pin down, so that you can't quite tell what you're pushing against. You may admire in others a courage you don't claim, or notice in them a confusion that is partly yours. Neptune has a blind spot that matters here: sensing what someone wants isn't the same as knowing it. The opposition asks you to look across and then ask, before you give your strength away or turn it against anyone.
 

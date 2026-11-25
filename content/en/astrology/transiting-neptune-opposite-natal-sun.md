@@ -27,7 +27,7 @@ faq:
   - q: "Is Neptune opposite Sun a hard transit?"
     a: "It asks for care rather than effort. An opposition shows you both ends of something, and here one end is your purpose and the other is what others hope for, or hope from you. It can feel blurry while it lasts. I read it as a lesson in boundaries, never as a loss."
   - q: "Will Neptune oppose my Sun?"
-    a: "Just under half of people born between 1930 and 2009 never meet this opposition by 80, and nobody meets it twice. Until March 2039, with Neptune in Aries, it’s the turn of Libra Suns, birthdays from about 23 September to 22 October."
+    a: "Just under half of people born between 1930 and 2009 never meet this opposition by 80, and nobody meets it twice. Before March 2039, the Suns concerned are in Libra, born roughly between late September and late October."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Neptune stays within my orbs, and how many people meet the opposition by 80" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Neptune’s transits, read one by one" }
@@ -44,11 +44,11 @@ I don't read a separation, a betrayal or any other event from it ([how I read](/
 
 ## How long it lasts {#how-long-it-lasts}
 
-Neptune holds the opposition for about two and a half years within my orbs, from 1½° before exact to 1° after, or not quite two when its loops are tight: long enough for a relationship or a commitment to show which way the balance leans. Most passes cross the exact point three times; about one in four crosses it five times.
+The opposition stays within my orbs, from 1½° before exact to 1° after, for about two and a half years, or not quite two when Neptune's loops are tight: long enough for a relationship or a commitment to show which way the balance leans. Most passes cross the exact point three times; about one in four crosses it five times.
 
 By 80, just under half of people born between 1930 and 2009 have never met it, and nobody meets it twice, since Neptune's round lasts about 165 years. It's the furthest Neptune gets from your Sun. The conjunction ([transiting Neptune conjunct natal Sun](/astrology/transiting-neptune-conjunct-natal-sun/)) lies half a circle away, and the sextile ([transiting Neptune sextile natal Sun](/astrology/transiting-neptune-sextile-natal-sun/)), the square ([transiting Neptune square natal Sun](/astrology/transiting-neptune-square-natal-sun/)) and the trine ([transiting Neptune trine natal Sun](/astrology/transiting-neptune-trine-natal-sun/)) fall on either side between the two. [Sun opposite Neptune](/astrology/sun-opposite-neptune/) in a birth chart is this polarity for life; as a transit it stays a couple of years and moves on.
 
-From Aries, until March 2039, Neptune opposes Libra Suns, born between about 23 September and 22 October, the earliest first.
+Libra Suns, birthdays from about 23 September to 22 October, face Neptune in Aries until March 2039, the earliest first.
 
 ## What helps {#what-helps}
 

@@ -26,18 +26,18 @@ faq:
   - q: "When does Neptune square Neptune start?"
     a: "In my orbs it opens between 38½ and 41¼ for births from 1930 to 2009, about a year before the first exact square, which came between 39.4 and 42.1. Later generations meet it a little earlier: at 41 for births of the 1940s to the 1960s, at 38½ for 2005."
   - q: "How long does the Neptune square last?"
-    a: "About two and a half years with my orbs, from 1½° before exact to 1° after, under two at the quickest. Neptune crosses the exact square three times in about three passes out of four and five times in the rest; born at the start of 1965, you met it exact five times, between 41.3 and 42.9."
+    a: "About two and a half years with my orbs, from 1½° before exact to 1° after, under two at the quickest. Three exact hits are the usual pattern and five come in roughly a quarter of passes; born at the start of 1965, you met it exact five times, between 41.3 and 42.9."
   - q: "Can the Neptune square happen twice?"
     a: "No. Neptune takes about 165 years to go round the zodiac, so it squares its birth place once in a lifetime, around forty. The second square of the cycle, on the way back towards the start, lies far beyond any human life, and so does the return."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "when the square comes within my orbs, birth year by birth year, and how long it stays" }
   - { title: "Robert Hand, Planets in Transit (1976)", note: "Neptune’s transits, read one by one" }
 ---
-This is the Neptune square lived as a transit: Neptune a quarter of the zodiac on from its birth place, around forty for everyone. In my orbs it opens about a year before the first exact hit and stays for about two and a half years.
+This is the Neptune square lived as a transit: Neptune a quarter of the zodiac on from its birth place, around forty for everyone, for about two and a half years. What it softens isn't your life but the aims you set for it in your twenties.
 
 ## What changes {#what-changes}
 
-Natal [Neptune](/astrology/neptune/) holds the ideals you were born into, made personal by its house and aspects. A [square](/astrology/square/), 90°, relates two functions through friction that asks for adjustment. When the sky's Neptune squares your own, this [transit](/astrology/transits/) sets the dream against itself: the version you have lived by since your twenties meets a newer one that can't yet say what it wants.
+By forty, natal [Neptune](/astrology/neptune/) has had time to show what it does in your life: where you give without counting, where you long for more, where you see what you hope to see. A [square](/astrology/square/), 90°, works by friction and asks for adjustment. When the sky's Neptune squares your own, this [transit](/astrology/transits/) sets the dream against itself: the version you have lived by since your twenties meets a newer one that can't yet say what it wants.
 
 It tends to show as aims that were sharp losing their outline, work that needs a new reason, a longing that no longer fits the life built around it. The friction is gentle and persistent. What I look for is which ideals were necessary and which were only habit, and the square's work is to keep the first and loosen the second without settling everything in a fog. Neptune's blind spot here is assuming that ambiguity is always depth: some vagueness is a question that deserves a plain answer.
 
@@ -45,9 +45,9 @@ The square usually reaches your natal Neptune from about three houses on. With N
 
 ## How long it lasts {#how-long-it-lasts}
 
-In the site's count for births from 1930 to 2009, Neptune came within my orbs, from 1½° before exact to 1° after, between 38.5 and 41.2. The first exact hit followed about a year later, between 39.4 and 42.1, as the [Neptune square](/astrology/neptune-square/) shows birth year by birth year. Born at the start of 1945, 1955 or 1965, you entered the orb at 41.1; at the start of 1985, at 40.2; at the start of 2005, at 38.5. The pass lasts about two and a half years, a little under two at its quickest, with three exact hits in about three passes out of four and five in the rest: born at the start of 1965, you met it exact at 41.3, 41.5, 42.1, 42.8 and 42.9.
+My orbs, from 1½° before exact to 1° after, open on the square a year or so before Neptune reaches it: between 38.5 and 41.2 in the site's count for births from 1930 to 2009, against 39.4 to 42.1 for the first exact hit, which the [Neptune square](/astrology/neptune-square/) gives birth year by birth year. Born at the start of 1945, 1955 or 1965, you entered the orb at 41.1; at the start of 1985, at 40.2; at the start of 2005, at 38.5. The pass lasts about two and a half years, a little under two at its quickest, with three exact hits in about three passes out of four and five in the rest: born at the start of 1965, you met it exact at 41.3, 41.5, 42.1, 42.8 and 42.9.
 
-Everyone meets it once, and only once: the cycle's closing square, on the way back towards the start, lies far beyond any life. It falls between [transiting Neptune sextile natal Neptune](/astrology/transiting-neptune-sextile-natal-neptune/) in the mid-twenties and [transiting Neptune trine natal Neptune](/astrology/transiting-neptune-trine-natal-neptune/) in the fifties; [transiting Neptune opposite natal Neptune](/astrology/transiting-neptune-opposite-natal-neptune/) comes at about 80, if at all. The [Uranus opposition](/astrology/uranus-opposition/) shares the early forties with it, and I read the two side by side.
+Everyone meets it once, and only once: the cycle's closing square, on the way back towards the start, lies far beyond any life. It is the middle step between the sextile of the mid-twenties ([transiting Neptune sextile natal Neptune](/astrology/transiting-neptune-sextile-natal-neptune/)) and the trine of the fifties ([transiting Neptune trine natal Neptune](/astrology/transiting-neptune-trine-natal-neptune/)); the opposition ([transiting Neptune opposite natal Neptune](/astrology/transiting-neptune-opposite-natal-neptune/)) comes at about 80, if at all. The [Uranus opposition](/astrology/uranus-opposition/) shares the early forties with it, and I read the two side by side.
 
 Whatever sat close to your Neptune at birth is squared in the same years. Born between 1990 and 1996, with Uranus beside Neptune, you meet [transiting Neptune square natal Uranus](/astrology/transiting-neptune-square-natal-uranus/) within about three years of this square: the closer the two planets sat at birth, the closer the two transits. Born between 1984 and 1998, with [Neptune in Capricorn](/astrology/neptune-in-capricorn/), you meet your square during Neptune's years in Aries, which last until March 2039.
 

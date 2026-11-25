@@ -35,7 +35,7 @@ Nearly everyone meets this square once, and at almost any age: in the first mont
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) is how you make sense of things: the principles you live by, the beliefs that give experience a meaning, the confidence to grow. [Neptune](/astrology/neptune/) dissolves fixed forms and reaches for an ideal. A [square](/astrology/square/) relates two functions through friction that asks you to adapt, so under this [transit](/astrology/transits/) your sense of meaning is asked to stretch without coming apart.
+[Jupiter](/astrology/jupiter/) is how you make sense of things: the principles you live by, the beliefs that give experience a meaning, the confidence to grow. [Neptune](/astrology/neptune/) dissolves fixed forms and reaches for an ideal. A [square](/astrology/square/) makes two functions rub until something adapts, so under this [transit](/astrology/transits/) your sense of meaning is asked to stretch without coming apart.
 
 Certainties can soften. A teaching, a philosophy or a cause that seemed to explain everything may start to look partial; a plan may grow faster than the ground under it; you may be tempted to put your faith in whatever promises most. Neptune's blind spot is taking a symbol for a prediction, and Jupiter's is taking a belief for the whole truth, so this is the transit when I'm most careful with any system that promises answers, astrology included. The friction is constructive: what remains after it is usually a smaller set of beliefs you can actually stand on.
 

@@ -26,7 +26,7 @@ faq:
   - q: "Combien de temps dure Pluton opposition Soleil ?"
     a: "Avec mes orbes, de 1,5° avant l’exactitude à 1° après, environ deux ans et huit mois, et vingt-deux mois environ pour les passages les plus rapides. Pluton franchit toujours l’opposition exacte plus d’une fois : trois fois dans environ trois passages sur cinq, cinq fois dans les autres, qui durent environ trois ans et sept mois."
   - q: "Quand vient l’opposition de Pluton à mon Soleil ?"
-    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, l’opposition touche les Soleils en Lion : les anniversaires de fin juillet dans les années 2020, ceux de la mi-août vers 2035, les derniers du Lion au début des années 2040. Plus de la moitié des personnes nées entre 1930 et 2009 ne la connaissent jamais avant 80 ans."
+    a: "Tant que Pluton est en Verseau, jusqu’au début de 2044, l’opposition touche les Soleils en Lion : les anniversaires de fin juillet dans les années 2020, ceux de la mi-août entre 2034 et 2039 environ, les derniers du Lion au début des années 2040. Plus de la moitié des personnes nées entre 1930 et 2009 ne la connaissent jamais avant 80 ans."
   - q: "Est-ce que l’opposition de Pluton au Soleil est dangereuse ?"
     a: "Aucun transit n’est dangereux en soi, et aucun ne prédit une maladie, un accident ou un décès. Pluton face à votre Soleil peut rendre une période exigeante, parce que l’intensité d’une autre personne vous demande de tenir sur votre propre terrain. Exigeant ne veut pas dire nuisible : c’est une saison pour découvrir sur quoi vous pouvez vous appuyer."
 sources:

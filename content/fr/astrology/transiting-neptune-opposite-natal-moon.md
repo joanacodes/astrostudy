@@ -43,7 +43,7 @@ Avec la Lune en maison 2 et Neptune en maison 8 ([Neptune en transit en maison 8
 
 ## Combien de temps {#combien-de-temps}
 
-Dans mes orbes, de 1,5° avant l’exactitude à 1° après, l’opposition dure environ deux ans et demi, parfois moins de deux quand les boucles sont serrées ; Neptune franchit le point exact trois fois en règle générale, et environ une fois sur quatre, cinq fois.
+Dans mes orbes, de 1,5° avant l’exactitude à 1° après, l’opposition tient environ deux ans et demi, parfois moins de deux quand les boucles sont serrées ; Neptune franchit le point exact trois fois lors d’un passage ordinaire, et cinq fois dans environ un quart des cas.
 
 Avant 80 ans, à peu près tout le monde, parmi les personnes nées entre 1930 et 2009, a rencontré soit la conjonction de Neptune à leur Lune ([Neptune en transit conjonction Lune du thème natal](/astrology/transiting-neptune-conjunct-natal-moon/)), soit cette opposition, la moitié l’une, la moitié l’autre, et personne les deux : elles sont séparées d’un demi-cercle, et Neptune en parcourt un peu moins en 80 ans. Entre les deux se trouvent les trigones ([Neptune en transit trigone Lune du thème natal](/astrology/transiting-neptune-trine-natal-moon/)), à un sixième de cercle de cette opposition, les carrés ([Neptune en transit carré Lune du thème natal](/astrology/transiting-neptune-square-natal-moon/)), à un quart, et les sextiles ([Neptune en transit sextile Lune du thème natal](/astrology/transiting-neptune-sextile-natal-moon/)), à un tiers. Les personnes nées avec [Lune opposition Neptune](/astrology/moon-opposite-neptune/) connaissent cette attraction de l’intérieur ; le transit l’apporte, pour un temps, à toutes celles qu’il atteint.
 

@@ -44,7 +44,7 @@ With your Moon in the 4th and Neptune crossing your 7th ([Neptune transiting the
 
 ## How long it lasts {#how-long-it-lasts}
 
-Within my orbs, from 1½° before exact to 1° after, the square takes about two years and seven months to pass, sometimes about twenty-two months; most passes bring three exact hits, and about one in four brings five.
+Within my orbs, from 1½° before exact to 1° after, the square needs about two years and seven months to pass, sometimes only about twenty-two months; most passes bring three exact hits, and about one in four brings five.
 
 Your Moon can sit anywhere relative to Neptune, and still a square to it comes by 80 for almost everyone born between 1930 and 2009, twice for some. The squares fall between the conjunction ([transiting Neptune conjunct natal Moon](/astrology/transiting-neptune-conjunct-natal-moon/)) and the opposition ([transiting Neptune opposite natal Moon](/astrology/transiting-neptune-opposite-natal-moon/)), a quarter circle from each; the sextile ([transiting Neptune sextile natal Moon](/astrology/transiting-neptune-sextile-natal-moon/)) lies between the conjunction and a square, the trine ([transiting Neptune trine natal Moon](/astrology/transiting-neptune-trine-natal-moon/)) between a square and the opposition. Born with [Moon square Neptune](/astrology/moon-square-neptune/), you know this tension from every day; the transit gives it to everyone else for one season.
 

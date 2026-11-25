@@ -36,7 +36,7 @@ L’opposition de Neptune à votre Vénus place ce que vous estimez à un bout d
 
 ## Ce qui change {#ce-qui-change}
 
-[Vénus](/astrology/venus/), c’est votre sens de la valeur et de l’attirance : ce que vous choisissez, et ce que vous offrez en retour. [Neptune](/astrology/neptune/), c’est l’aspiration à quelque chose au-delà de l’ordinaire, et la compassion qui brouille la ligne entre vos sentiments et ceux d’une autre personne. Une [opposition](/astrology/opposition/) relie deux fonctions par la polarité, chacune rendant l’autre visible, et sous ce [transit](/astrology/transits/), cette polarité se vit le plus souvent à travers les autres.
+[Vénus](/astrology/venus/), c’est votre sens de la valeur et de l’attirance : ce que vous choisissez, et ce que vous offrez en retour. [Neptune](/astrology/neptune/), c’est l’aspiration à quelque chose au-delà de l’ordinaire, et la compassion qui brouille la ligne entre vos sentiments et ceux d’une autre personne. Une [opposition](/astrology/opposition/) place deux fonctions face à face, si bien que chacune montre l’autre, et sous ce [transit](/astrology/transits/), cette polarité se vit le plus souvent à travers les autres.
 
 Une personne, en couple, en amitié ou de passage, peut sembler incarner un idéal que vous ne cherchiez plus, ou avoir tant besoin de vos soins que vos propres préférences se taisent. Vous vous surprendrez peut-être à admirer chez quelqu’un d’autre une douceur que vous ne vous accordez pas. L’opposition pose une question à laquelle Vénus sait répondre : qu’est-ce que j’estime ici, et qu’est-ce que j’espère ? Une fois les deux distingués, l’espoir peut rester sans avoir besoin d’être la personne.
 

@@ -36,7 +36,7 @@ Jupiter and Neptune share a sign: Pisces belonged to Jupiter in the tradition an
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) builds meaning: it widens what you understand, gathers experience into beliefs and principles, and looks for room to grow. [Neptune](/astrology/neptune/) dissolves edges and reaches for what lies beyond them. A [conjunction](/astrology/conjunction/) makes one process of two functions, and here both of them expand, so under this [transit](/astrology/transits/) there is little to hold the widening back.
+[Jupiter](/astrology/jupiter/) builds meaning: it widens what you understand, gathers experience into beliefs and principles, and looks for room to grow. [Neptune](/astrology/neptune/) dissolves edges and reaches for what lies beyond them. When two planets are in [conjunction](/astrology/conjunction/) they work as one process, and here both of them expand, so under this [transit](/astrology/transits/) there is little to hold the widening back.
 
 It often feels like a season of faith in the broad sense: a spiritual practice, a vision of how life could be, a cause or an art that seems to explain more than it should. Generosity comes easily, and so does trust. The shadow is the same widening seen from the other side. Neptune's blind spot is mistaking imagination for evidence, Jupiter's is mistaking a belief for a certainty, and together they can make a teaching, a plan or a promise look larger than it is. Expansion isn't excess, though, and the conjunction asks for meaning that grows without letting go of the facts.
 
@@ -48,7 +48,7 @@ With Jupiter in your 9th, the house of belief, study and long journeys, Neptune 
 
 ## How long it lasts {#how-long-it-lasts}
 
-While Jupiter in the sky crosses two or three signs, Neptune stays within my orbs of your Jupiter, 1½° before exact to 1° after: about two years and seven months, rarely less than twenty-two. Three exact hits are the rule, and five come in about one pass in four.
+While Jupiter in the sky crosses two or three signs, Neptune stays within my orbs of your Jupiter, 1½° before exact to 1° after: about two years and seven months, rarely less than twenty-two. Neptune touches your Jupiter exactly three times in most passes, and about one pass in four brings five.
 
 Only once, if at all: a little over half of the people born between 1930 and 2009 reach 80 without it. Jupiter and Neptune meet in the sky about every thirteen years, most recently in 1984, 1997, 2009 and 2022. Born soon after one of those meetings, with Jupiter just ahead of Neptune, you meet the transit young: at about 8 for someone born at the start of 1985. Born in the years before one, with Jupiter behind, you don't meet it before 80, as for births at the start of 1945, 1955, 1995 or 2005. In between, the ages spread out: about 29 for the start of 1935, about 42 for 1975, nearly 80 for 1965.
 

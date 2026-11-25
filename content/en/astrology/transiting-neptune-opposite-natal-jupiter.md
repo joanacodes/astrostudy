@@ -35,7 +35,7 @@ When Neptune reaches the point opposite your Jupiter, what you believe meets, fa
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) is your sense of meaning: the principles, beliefs and hopes that make experience add up. [Neptune](/astrology/neptune/) is the longing for something larger, and the readiness to merge with it. An [opposition](/astrology/opposition/) relates two functions through polarity, each making the other visible, so under this [transit](/astrology/transits/) your beliefs tend to meet their counterpart in other people: a teacher who seems to know, a movement that seems to have the answer, a partner whose faith is more vivid than yours.
+[Jupiter](/astrology/jupiter/) is your sense of meaning: the principles, beliefs and hopes that make experience add up. [Neptune](/astrology/neptune/) is the longing for something larger, and the readiness to merge with it. Across an [opposition](/astrology/opposition/) two functions face each other and become aware of each other, so under this [transit](/astrology/transits/) your beliefs tend to meet their counterpart in other people: a teacher who seems to know, a movement that seems to have the answer, a partner whose faith is more vivid than yours.
 
 The pull can be generous and widening. It can also lead you to hand your own judgement to someone else's vision, or to idealise a person for what they seem to stand for. A belief isn't a dogma and a teacher isn't the truth: the opposition asks you to take in what others see without giving up the right to weigh it. What you admire in a guide often tells you what you're ready to grow into yourself.
 

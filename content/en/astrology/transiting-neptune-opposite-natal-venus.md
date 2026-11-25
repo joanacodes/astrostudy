@@ -35,7 +35,7 @@ Neptune opposite your Venus sets what you value at one end of the chart and what
 
 ## What changes {#what-changes}
 
-[Venus](/astrology/venus/) is your sense of worth and attraction: what you choose, and what you offer in return. [Neptune](/astrology/neptune/) is the longing for something beyond the ordinary, and the compassion that blurs the line between your feelings and someone else's. An [opposition](/astrology/opposition/) relates two functions through polarity, each making the other visible, and under this [transit](/astrology/transits/) that polarity is usually lived through other people.
+[Venus](/astrology/venus/) is your sense of worth and attraction: what you choose, and what you offer in return. [Neptune](/astrology/neptune/) is the longing for something beyond the ordinary, and the compassion that blurs the line between your feelings and someone else's. An [opposition](/astrology/opposition/) sets two functions face to face so that each shows up the other, and under this [transit](/astrology/transits/) that polarity is usually lived through other people.
 
 A partner, a friend or a stranger may seem to embody an ideal you'd stopped looking for, or need your care so much that your own preferences go quiet. You may catch yourself admiring in someone else a gentleness you haven't allowed yourself. The opposition asks a question Venus is built to answer: what do I value here, and what am I hoping for? Once the two are told apart, the hope can stay without having to be the person.
 

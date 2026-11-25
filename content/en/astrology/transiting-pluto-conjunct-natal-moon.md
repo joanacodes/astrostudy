@@ -5,9 +5,11 @@ description: "Transiting Pluto conjunct natal Moon: two to three years when your
 date: 2026-11-25
 reviewed: 2026-11-25
 family: "combinations"
+categories: ["Transits and cycles"]
+tags: ["Pluto", "Moon", "conjunction", "transits"]
 weight: 1803
 glyph: "♇☌☽"
-definition: "Transiting Pluto conjunct natal Moon means Pluto crossing the degree your Moon held at birth, a pass of two to three years that more than half of people never see. Feeling and renewal work as one: attachments, habits of comfort and old memories come up to be reworked. I read it as security rebuilt from the root, never as a breakdown."
+definition: "Transiting Pluto conjunct natal Moon means Pluto crossing the degree your Moon held at birth, a pass of two to three years that more than half of people never see. Feeling and renewal work as one: attachments, habits of comfort and memories come up for review. I read it as security rebuilt from the root, never as a breakdown."
 facts:
   - { k: "Transiting", v: "Pluto ♇, the planet of renewal and depth" }
   - { k: "Natal point", v: "The Moon ☽: needs, attachment and felt security" }
@@ -40,17 +42,17 @@ When the ground moves like this, the reflex is to tighten your grip: on a routin
 
 The other Pluto contacts reach the Moon from some distance: the sextile ([Transiting Pluto sextile natal Moon](/astrology/transiting-pluto-sextile-natal-moon/)) and the trine ([Transiting Pluto trine natal Moon](/astrology/transiting-pluto-trine-natal-moon/)) open doors you may or may not use, the square ([Transiting Pluto square natal Moon](/astrology/transiting-pluto-square-natal-moon/)) presses on habits, the opposition ([Transiting Pluto opposite natal Moon](/astrology/transiting-pluto-opposite-natal-moon/)) arrives through the people closest to you. The conjunction is the one that leaves no distance at all. Born with [Moon conjunct Pluto](/astrology/moon-conjunct-pluto/), you had it in your first years if your Moon stood just ahead of Pluto, and never if it stood behind.
 
-The Moon in your chart is your own way of feeling and caring, not your mother, and this transit predicts nothing about anyone's health or life ([can astrology predict death?](/astrology/can-astrology-predict-death/)). If what surfaces is heavy, or your mood stays low for weeks, a doctor or a therapist is the right help, and a chart is never a reason to wait ([Astrology and mental health](/astrology/astrology-and-mental-health/)).
+The Moon in your chart is your own way of feeling and caring, not your mother, and this transit predicts nothing about anyone's health or life ([can astrology predict death?](/astrology/can-astrology-predict-death/)). Should what surfaces feel heavy, or your mood stay low for weeks, please talk to a doctor or a therapist; care comes first, and no chart should make anyone wait for it ([Astrology and mental health](/astrology/astrology-and-mental-health/)).
 
-With your Moon in the 4th, the conjunction comes during Pluto's long stay in the house of home and roots ([Pluto transiting the 4th house](/astrology/pluto-transit-4th-house/)) and works on what home has meant to you since childhood. The house needs your birth time, and so does the Moon's exact degree: the Moon moves about half a degree an hour, and with Pluto crossing Aquarius at about a degree and a half a year, one hour's difference in the time moves this transit by about four months. That is one reason I don't read a chart without the time ([what changes without a birth time](/blog/unknown-birth-time/)).
+With your Moon in the 4th, the conjunction comes during Pluto's long stay in the house of home and roots ([Pluto transiting the 4th house](/astrology/pluto-transit-4th-house/)) and works on what home has meant to you since childhood. The house needs your birth time, and so does the Moon's exact degree: the Moon moves about half a degree an hour, and with Pluto crossing Aquarius at about a degree and a half a year, one hour's difference in the time moves this transit by about four months. With so much riding on the hour, I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## How long it lasts {#how-long-it-lasts}
 
-The orbs I use for timing run from 1½° before exact to 1° after. Within them, Pluto spends about two years and eight months on your Moon, the quickest passes about twenty-two months and the slowest nearly four years. About two passes in five bring five exact hits rather than three, because Pluto backs over the degree twice before it moves on.
+I count a transit from 1½° before exact to 1° after, and on that count Pluto spends about two years and eight months on your Moon, the quickest passes about twenty-two months and the slowest nearly four years. About two passes in five bring five exact hits rather than three, because Pluto backs over the degree twice before it moves on.
 
 Pluto needs about 248 years to go round the zodiac, so a lifetime only shows you part of its circle, and whether your Moon lies in that part is a matter of where it happened to be at birth. More than half of people born between 1930 and 2009 never meet this conjunction by 80.
 
-While Pluto crosses Aquarius, until early 2044, it reaches Moons in that sign, the early degrees first: about 5° in 2027, 10° in 2029, 20° in 2036 and the last degrees in the early 2040s.
+While Pluto crosses Aquarius, until early 2044, it reaches Moons in that sign, the early degrees first: 5° in 2026, 10° in 2029, 20° in 2036 and the last degrees in the early 2040s.
 
 ## What helps {#what-helps}
 
